@@ -11,73 +11,85 @@ Heeft in zijn vergadering van 6 oktober 2009 besloten:
 
 ####Algemene bepalingen
 
+Materieel uitgewerkt per 01-01-2012 
+
 ### Artikel  1  
 
 ####Definities
 
+Materieel uitgewerkt per 01-01-2012 
+
 Deze beleidsregels verstaan onder: 
 
-a. *college:* het College voor zorgverzekeringen;  
+a.  *college:* het College voor zorgverzekeringen;  
 
-b. *risicoklasse naar leeftijd en geslacht:* een één- of meerjarige leeftijdsklasse, verdeeld naar geslacht, overeenkomstig tabel B4.1 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B5.2 van [Bijlage 5](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B6A.1 van [Bijlage 6A](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B7.1 van [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+b.  *risicoklasse naar leeftijd en geslacht:* een één- of meerjarige leeftijdsklasse, verdeeld naar geslacht, overeenkomstig tabel B4.1 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B5.2 van [Bijlage 5](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B6A.1 van [Bijlage 6A](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B7.1 van [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-c. *risicoklasse naar farmacie kostengroep (FKG):* een klasse gebaseerd op geneesmiddelengebruik gekoppeld aan aandoeningen overeenkomstig tabel B4.2 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B6A.2 van [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+c.  *risicoklasse naar farmacie kostengroep (FKG):* een klasse gebaseerd op geneesmiddelengebruik gekoppeld aan aandoeningen overeenkomstig tabel B4.2 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B6A.2 van [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-d. *risicoklasse naar farmacie kostengroep voor geneeskundige geestelijke gezondheidszorg (FKG -GGZ):* een klasse gebaseerd geneesmiddelengebruik gekoppeld aan aandoeningen overeenkomstig tabel B5.4 van [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+d.  *risicoklasse naar farmacie kostengroep voor geneeskundige geestelijke gezondheidszorg (FKG -GGZ):* een klasse gebaseerd geneesmiddelengebruik gekoppeld aan aandoeningen overeenkomstig tabel B5.4 van [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-e. *risicoklasse naar diagnose kostengroep (DKG):* een klasse gebaseerd op kostenhomogene aandoeningengroepen, overeenkomstig tabel B4.3 van [bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B6A.3 van [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+e.  *risicoklasse naar diagnose kostengroep (DKG):* een klasse gebaseerd op kostenhomogene aandoeningengroepen, overeenkomstig tabel B4.3 van [bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B6A.3 van [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-f. *aard van het inkomenklasse:* een klasse gebaseerd op de aard van het inkomen en de leeftijd van een verzekerde, overeenkomstig tabel B4.4 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B5.5 van [Bijlage 5](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B6A.4 van [Bijlage 6A](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B7.2 van [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+f.  *aard van het inkomenklasse:* een klasse gebaseerd op de aard van het inkomen en de leeftijd van een verzekerde, overeenkomstig tabel B4.4 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B5.5 van [Bijlage 5](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B6A.4 van [Bijlage 6A](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B7.2 van [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-g. *regioklasse:* een klasse gebaseerd op de postcode van het adres waar een verzekerde woonachtig is overeenkomstig tabel B4.5 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B6A.5 van [Bijlage 6A](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B7.3 van [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+g.  *regioklasse:* een klasse gebaseerd op de postcode van het adres waar een verzekerde woonachtig is overeenkomstig tabel B4.5 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B6A.5 van [Bijlage 6A](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en tabel B7.3 van [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-h. *GGZ-regioklasse:* een klasse gebaseerd op de postcode van het adres waar een verzekerde woonachtig is overeenkomstig tabel B5.2 van [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+h.  *GGZ-regioklasse:* een klasse gebaseerd op de postcode van het adres waar een verzekerde woonachtig is overeenkomstig tabel B5.2 van [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-i. *morbiditeitsrisico-klasse:* een vijftienjaarsklasse per geslacht, gebaseerd op morbiditeitsrisico, te rekenen vanaf nul tot en met vierenzeventig jaar en vijfenzeventig jaar en ouder;  
+i.  *morbiditeitsrisico-klasse:* een vijftienjaarsklasse per geslacht, gebaseerd op morbiditeitsrisico, te rekenen vanaf nul tot en met vierenzeventig jaar en vijfenzeventig jaar en ouder;  
 
-j. *sociaal economische statusklasse:* een klasse gebaseerd op het inkomen per adres, waarbij verzekerden worden ingedeeld in klassen op basis van het aantal personen op een adres, hun leeftijd en het inkomen per adres overeenkomstig tabel B4.6 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B5.6 van [Bijlage 5](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en B6A.6 van [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+j.  *sociaal economische statusklasse:* een klasse gebaseerd op het inkomen per adres, waarbij verzekerden worden ingedeeld in klassen op basis van het aantal personen op een adres, hun leeftijd en het inkomen per adres overeenkomstig tabel B4.6 van [Bijlage 4](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), tabel B5.6 van [Bijlage 5](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en B6A.6 van [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-k. *éénpersoonsadres-klasse:* een klasse gebaseerd op het onderscheid naar ‘woont op een adres waar één persoon is ingeschreven’ of ‘woont niet op een adres waar één persoon is ingeschreven’ overeenkomstig tabel B5.7 van [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+k.  *éénpersoonsadres-klasse:* een klasse gebaseerd op het onderscheid naar ‘woont op een adres waar één persoon is ingeschreven’ of ‘woont niet op een adres waar één persoon is ingeschreven’ overeenkomstig tabel B5.7 van [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-l. *GGZ-kosten lage drempelklasse:* een klasse gebaseerd op een drempel van EUR 550 voor de geneeskundige GGZ-kosten in het jaar t-1 op peildatum 30 juni van verzekerden van 18 jaar en ouder overeenkomstig tabel B5.8 van [bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+l.  *GGZ-kosten lage drempelklasse:* een klasse gebaseerd op een drempel van EUR 550 voor de geneeskundige GGZ-kosten in het jaar t-1 op peildatum 30 juni van verzekerden van 18 jaar en ouder overeenkomstig tabel B5.8 van [bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-m. *GGZ-kosten hoge drempelklasse:* een klasse gebaseerd op een drempel van EUR 2750 voor de geneeskundige GGZ-kosten in het jaar t-1 op peildatum 30 juni van verzekerden van 18 jaar en ouder overeenkomstig tabel B5.9 van [bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+m.  *GGZ-kosten hoge drempelklasse:* een klasse gebaseerd op een drempel van EUR 2750 voor de geneeskundige GGZ-kosten in het jaar t-1 op peildatum 30 juni van verzekerden van 18 jaar en ouder overeenkomstig tabel B5.9 van [bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-n. *jonger dan 18 jaarklasse:* een klasse gebaseerd op de leeftijd van een verzekerde overeenkomstig tabel B5.1 van [bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
+n.  *jonger dan 18 jaarklasse:* een klasse gebaseerd op de leeftijd van een verzekerde overeenkomstig tabel B5.1 van [bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md);  
 
-o. *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;  
+o.  *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;  
 
-p. *macro verzekerden-raming:* een raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;  
+p.  *macro verzekerden-raming:* een raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;  
 
-q. *persoons-kenmerkenbestand:* een bestand dat bestaat uit de opgave van de zorgverzekeraar per peildatum met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;  
+q.  *persoons-kenmerkenbestand:* een bestand dat bestaat uit de opgave van de zorgverzekeraar per peildatum met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;  
 
-r. *uitstroombestand:* een bestand waarin de zorgverzekeraar per gepseudonimiseerd burgerservicenummer de persoonskenmerken, bedoeld onder q, opgeeft van verzekerden die in enig jaar zijn uitgestroomd;  
+r.  *uitstroombestand:* een bestand waarin de zorgverzekeraar per gepseudonimiseerd burgerservicenummer de persoonskenmerken, bedoeld onder q, opgeeft van verzekerden die in enig jaar zijn uitgestroomd;  
 
-s. *Referentiebestand Verzekerden Zorgverzekeringswet (RBVZ):* een bestand over enig jaar waarin per gepseudonimiseerd burgerservicenummer de in- en uitschrijfdatum en het UZOVI nummer van de verzekeraar van de verzekerde zijn vastgelegd;  
+s.  *Referentiebestand Verzekerden Zorgverzekeringswet (RBVZ):* een bestand over enig jaar waarin per gepseudonimiseerd burgerservicenummer de in- en uitschrijfdatum en het UZOVI nummer van de verzekeraar van de verzekerde zijn vastgelegd;  
 
-t. *verzekerde die in het buitenland woont:* een verzekerde die in Nederland werkt en in de Europese Unie, de Europees Economische Ruimte, Zwitserland of een verdragsland woont en zich met een formulier E-106 heeft ingeschreven bij het plaatselijke verzekeringsorgaan;  
+t.  *verzekerde die in het buitenland woont:* een verzekerde die in Nederland werkt en in de Europese Unie, de Europees Economische Ruimte, Zwitserland of een verdragsland woont en zich met een formulier E-106 heeft ingeschreven bij het plaatselijke verzekeringsorgaan;  
 
-v. *compensatie-bijdrage:* de bijdrage bedoeld in [artikel 3.24 van het Besluit zorgverzekering](../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), voor het onder de dekking van de zorgverzekering houden van verzekerden ten aanzien van wie niet aan de premieplicht bedoeld in [artikel 16 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is voldaan;  
+v.  *compensatie-bijdrage:* de bijdrage bedoeld in [artikel 3.24 van het Besluit zorgverzekering](../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), voor het onder de dekking van de zorgverzekering houden van verzekerden ten aanzien van wie niet aan de premieplicht bedoeld in [artikel 16 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is voldaan;  
 
-v. *datum gereed:* de eerste dag van de maand na de maand waarin het college op grond van [artikel 23, tweede lid Regeling zorgverzekering](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [artikel 3, eerste lid van de Beleidsregels aanmelding stuwmeer wanbetalers van de nominale premie Zorgverzekeringswet 2009/2010](../../../../../../zbo/beleidsregels/aanmelding/stuwmeer/wanbetalers/van/de/nominale/premie/etc/BWBR0026342/README.md) heeft vastgesteld dat de zorgverzekeraar gereed is om de melding bedoeld in [artikel II, eerste lid van de regeling van 19 juli 2009 tot wijziging van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/zorgverzekering/(structurele/maatregelen/etc/BWBR0026210/README.md) te doen;  
+v.  *datum gereed:* de eerste dag van de maand na de maand waarin het college op grond van [artikel 23, tweede lid Regeling zorgverzekering](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [artikel 3, eerste lid van de Beleidsregels aanmelding stuwmeer wanbetalers van de nominale premie Zorgverzekeringswet 2009/2010](../../../../../../zbo/beleidsregels/aanmelding/stuwmeer/wanbetalers/van/de/nominale/premie/etc/BWBR0026342/README.md) heeft vastgesteld dat de zorgverzekeraar gereed is om de melding bedoeld in [artikel II, eerste lid van de regeling van 19 juli 2009 tot wijziging van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/zorgverzekering/(structurele/maatregelen/etc/BWBR0026210/README.md) te doen;  
 
-w. *datum aanlevering:* de eerste dag van de maand waarop de zorgverzekeraar de meldingen bedoeld in [artikel II, eerste lid, van de regeling van 19 juli 2009 tot wijziging van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/zorgverzekering/(structurele/maatregelen/etc/BWBR0026210/README.md) heeft gedaan.    
+w.  *datum aanlevering:* de eerste dag van de maand waarop de zorgverzekeraar de meldingen bedoeld in [artikel II, eerste lid, van de regeling van 19 juli 2009 tot wijziging van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/zorgverzekering/(structurele/maatregelen/etc/BWBR0026210/README.md) heeft gedaan;  
+
+x. *VPPKB:* Verzekerde Periode en Persoonskenmerken Bestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per geverifieerd gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat en de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat.  
 
 ### Artikel  2  
 
 ####Algemene bepaling
 
-Het college past de bepalingen uit het [Besluit zorgverzekering](../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en de [Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) met betrekking tot de toekenning en vaststelling van de bijdrage aan de zorgverzekeraars toe met inachtneming van het bepaalde in deze beleidsregels.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college past de bepalingen uit het [Besluit zorgverzekering](../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en de [Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) met betrekking tot de toekenning en vaststelling van de bijdrage aan de zorgverzekeraars toe met inachtneming van het bepaalde in deze beleidsregels. 
 
 ### Artikel  3  
 
 ####Zorgverzekeraars
 
-Het college gaat bij de verdeling van de macro-deelbedragen 2010 en de berekening van de normatieve bedragen en de bijdragen ervan uit dat alle zorgverzekeraars die gedurende 2009 actief zijn geweest ook in 2010 als zorgverzekeraar actief zullen zijn, tenzij zij voor 1 augustus 2009 aan het college hebben aangegeven dat zulks niet het geval zal zijn.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college gaat bij de verdeling van de macro-deelbedragen 2010 en de berekening van de normatieve bedragen en de bijdragen ervan uit dat alle zorgverzekeraars die gedurende 2009 actief zijn geweest ook in 2010 als zorgverzekeraar actief zullen zijn, tenzij zij voor 1 augustus 2009 aan het college hebben aangegeven dat zulks niet het geval zal zijn. 
 
 ### Artikel  4  
 
 ####Samenloop van criteria aard van het inkomen
+
+Materieel uitgewerkt per 01-01-2012 
 
 Voor de indeling in de aard van het inkomenklasse deelt het college een verzekerde, die onder meerdere criteria valt in te delen, in op basis van de hierna genoemde volgorde: 
 
@@ -89,11 +101,13 @@ Voor de indeling in de aard van het inkomenklasse deelt het college een verzeker
 
 4. zelfstandigen, voor zover zij niet ook inkomsten uit arbeid in loondienst hebben ontvangen;  
 
-5. referentiegroep aard van het inkomen, alle verzekerden omvattend die niet zijn ingedeeld onder 1 tot en met 4.    
+5. referentiegroep aard van het inkomen, alle verzekerden omvattend die niet zijn ingedeeld onder 1 tot en met 4.   
 
 ### Artikel  5  
 
 ####Indeling in FKG’s 2010 en DKG’s 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college baseert de indeling in FKG’s 2010 op bijlage 8a en 8b bij de brief van de minister van Volksgezondheid, Welzijn en Sport van 29 september 2009 (kenmerk Z/F-2958947).   
 2.  Wanneer sprake is van samenloop voor FKG’s wijst het college alle toepasselijke FKG’s toe met in achtneming van het volgende: 
@@ -109,21 +123,27 @@ d. Indien een verzekerde is ingedeeld bij de FKG antipsychotica, Alzheimer en ve
 e. Indien een verzekerde is ingedeeld bij de FKG COPD/zware astma deelt het college deze verzekerde niet in bij de FKG astma.  
 
 f. Indien een verzekerde is ingedeeld bij de FKG reuma: TNF-a-blokkers, deelt het college deze verzekerde niet in bij de FKG overige reuma middelen.     
-3.  Bij de bepaling van de DKG’s baseert het college de indeling in DKG’s 2010 op bijlage 9, bij de brief van de minister van Volksgezondheid, Welzijn en Sport van 29 september 2009 (kenmerk Z/F-2958947).   
+3.  Bij de bepaling van de DKG’s baseert het college de indeling in DKG’s 2010 op bijlage 9, bij de brief van de minister van Volksgezondheid, Welzijn en Sport van 29 september 2009 (kenmerk Z/F-2958947).  
 
-### Artikel  6  
+### Artikel   6  
 
 ####Indeling in regioklasse 2010 en sociaal economische statusklasse 2010
 
-Wanneer van een verzekerde geen Nederlandse postcode bekend is – ondanks inspanningen van de zorgverzekeraar deze te administreren – zal het college als gewicht van de regioklasse, de GGZ-regioklasse en de sociaal economische statusklasse de waarde nul hanteren.  
+Materieel uitgewerkt per 01-01-2012 
+
+Wanneer van een verzekerde geen Nederlandse postcode bekend is – ondanks inspanningen van de zorgverzekeraar deze te administreren – zal het college als gewicht van de regioklasse, de GGZ-regioklasse en de sociaal economische statusklasse de waarde nul hanteren. 
 
 ### Hoofdstuk  II  
 
 ####Toekenning van de bijdrage 2010 aan de zorgverzekeraar
 
+Materieel uitgewerkt per 01-01-2012 
+
 ### Artikel  7  
 
 ####Raming van de verzekerdenaantallen 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Uitgangspunt voor de raming is het persoonskenmerkenbestand 2009 dat de zorgverzekeraars op 1 juli 2009 bij het college hebben aangeleverd. De peildatum van deze opgaven is de datum van nominale premieprolongatie voor de maand juni 2009.   
 2.  Het college baseert zich bij de raming van de verzekerdenaantallen naar risicoklasse leeftijd en geslacht 2010, naar regioklasse 2010, naar GGZ-regioklasse 2010, naar éénpersoonsadresklasse 2010, naar jonger dan 18 jaarklasse 2010 en naar de verzekerdenaantallen van 18 jaar en ouder 2010, op het in het eerste lid genoemde persoonskenmerkenbestand 2009.   
@@ -177,11 +197,13 @@ a. Het college bepaalt per zorgverzekeraar op basis van het persoonskenmerkenbes
 
 b. Het college bepaalt het aantal verzekerden per zorgverzekeraar van 18 jaar en ouder zonder een FKG 1 tot en met 23 2010. Per verzekerde bepaalt het college op basis van het achtste en het elfde lid welke zwaarte deze verzekerde heeft voor de risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse.  
 
-c. Vervolgens bepaalt het college per zorgverzekeraar het totaal aantal geraamde verzekerden 2010 per risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse door de zwaarten per risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse bij elkaar op te tellen.     
+c. Vervolgens bepaalt het college per zorgverzekeraar het totaal aantal geraamde verzekerden 2010 per risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse door de zwaarten per risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse bij elkaar op te tellen.    
 
 ### Artikel  8  
 
 ####De verdeling van het macro-deelbedrag kosten van B-dbc’s
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Voor de verdeling van het macro-deelbedrag kosten van B-dbc’s hanteert het college de volgende gewichten als uitgangspunten: 
 
@@ -202,11 +224,13 @@ f. de gewichten kosten van B-dbc’s per verzekerde per sociaal economische stat
 5.  Het college vermenigvuldigt de gewichten kosten van B-dbc’s per verzekerde per aard van het inkomenklasse 2010 per overeenkomstige aard van het inkomenklasse met het per zorgverzekeraar geraamde aantal verzekerden per aard van het inkomenklasse 2010. Het college sommeert de uitkomsten per zorgverzekeraar en voegt deze toe aan het resultaat van het vierde lid.   
 6.  Het college vermenigvuldigt de gewichten kosten van B-dbc’s per verzekerde per regioklasse 2010 per overeenkomstige regioklasse met het per zorgverzekeraar geraamde aantal verzekerden per regioklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.   
 7.  Het college vermenigvuldigt de gewichten kosten van B-dbc’s per verzekerde per sociaal economische statusklasse 2010 per overeenkomstige sociaal economische statusklasse met het per zorgverzekeraar geraamde aantal verzekerden per sociaal economische statusklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.   
-8.  Het resultaat van het zevende lid wordt aangeduid als het deelbedrag kosten van B-dbc’s 2010.   
+8.  Het resultaat van het zevende lid wordt aangeduid als het deelbedrag kosten van B-dbc’s 2010.  
 
 ### Artikel  9  
 
 ####De verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en de berekening van de normatieve bedragen variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp hanteert het college de volgende gewichten als uitgangspunten: 
 
@@ -227,11 +251,13 @@ f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van speciali
 5.  Het college vermenigvuldigt de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2010 per overeenkomstige aard van het inkomenklasse met het per zorgverzekeraar geraamde aantal verzekerden per aard van het inkomenklasse 2010. Het college sommeert de uitkomsten per zorgverzekeraar en voegt deze toe aan het resultaat van het vierde lid.   
 6.  Het college vermenigvuldigt de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2010 per overeenkomstige regioklasse met het per zorgverzekeraar geraamde aantal verzekerden per regioklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.   
 7.  Het college vermenigvuldigt de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2010 per overeenkomstige sociaal economische statusklasse met het per zorgverzekeraar geraamde aantal verzekerden per sociaal economische statusklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.   
-8.  Het resultaat van het zevende lid wordt aangeduid als het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010.   
+8.  Het resultaat van het zevende lid wordt aangeduid als het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010.  
 
 ### Artikel  10  
 
 ####De verdeling van het macro-deelbedrag vaste kosten van ziekenhuisverpleging en de berekening van de normatieve bedragen vaste kosten van ziekenhuisverpleging
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college bepaalt het deelbedrag vaste kosten van ziekenhuisverpleging 2010 als volgt: 
 
@@ -244,11 +270,13 @@ c. Vervolgens berekent het college de landelijke vaste kostenfactor 2010 door he
 d. Het college vermenigvuldigt het in onderdeel a berekende bedrag per zorgverzekeraar met de in onderdeel c berekende landelijke vaste kostenfactor 2010. Dit resultaat wordt aangeduid als het zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging 2010.     
 2.  Indien het gemiddelde aantal verzekerden van een zorgverzekeraar in 2008 minder dan 10.000 bedraagt, wordt voor deze zorgverzekeraar bij de berekening bedoeld in het eerste lid uitgegaan van de gemiddelde kosten van ziekenhuisverpleging 2008 van alle zorgverzekeraars. Deze werkwijze wordt ook gevolgd wanneer de zorgverzekeraar geen juiste of geen volledige opgave over 2008 aan het college heeft gedaan of wanneer een opgave niet mogelijk is.   
 3.  Het college berekent per zorgverzekeraar het deelbedrag vaste kosten van ziekenhuisverpleging 2010 door het zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging per geraamde verzekerde 2010 te vermenigvuldigen met het totaal aantal geraamde verzekerden 2010.   
-4.  Het resultaat van het derde lid wordt aangeduid als het deelbedrag vaste kosten van ziekenhuisverpleging 2010.   
+4.  Het resultaat van het derde lid wordt aangeduid als het deelbedrag vaste kosten van ziekenhuisverpleging 2010.  
 
 ### Artikel  11  
 
 ####De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van de normatieve bedragen van de kosten van geneeskundige geestelijke gezondheidszorg
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Voor de verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten: 
 
@@ -278,11 +306,13 @@ i. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per jon
 8.  De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per geneeskundige GGZ kosten lage drempelklasse 2010 worden per overeenkomstige GGZ kosten lage drempelklasse 2010 vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per GGZ kosten lage drempelklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.   
 9.  De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per geneeskundige GGZ kosten hoge drempelklasse 2010 worden per overeenkomstige GGZ kosten hoge drempelklasse 2010 vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per GGZ kosten hoge drempelklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.   
 10.  De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per jonger dan 18 jaarklasse 2010 worden per overeenkomstige jonger dan 18 jaarklasse 2010 vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per jonger dan 18 jaarklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd.   
-11.  De som van het resultaat van het negende en tiende lid wordt aangeduid als het deelbedrag geneeskundige geestelijke gezondheidszorg 2010.   
+11.  De som van het resultaat van het negende en tiende lid wordt aangeduid als het deelbedrag geneeskundige geestelijke gezondheidszorg 2010.  
 
 ### Artikel  12  
 
 ####De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van de normatieve bedragen kosten van overige prestaties
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten: 
 
@@ -304,11 +334,13 @@ f. De gewichten kosten van overige prestaties per verzekerde per sociaal economi
 6.  De gewichten kosten van de totale overige prestaties per verzekerde per regioklasse 2010 worden per overeenkomstige regioklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden per regioklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.   
 7.  De gewichten kosten van de totale overige prestaties per verzekerde per sociaal economische statusklasse 2010 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden per sociaal economische statusklasse 2010. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.   
 8.  Het resultaat van het zevende lid wordt aangeduid als deelbedrag kosten van overige prestaties 2010.   
-9.  Het college kan ter voorlichting aan de zorgverzekeraars ook deelbedragen per afzonderlijke overige prestaties berekenen overeenkomstig de leden 2 tot en met 8.   
+9.  Het college kan ter voorlichting aan de zorgverzekeraars ook deelbedragen per afzonderlijke overige prestaties berekenen overeenkomstig de leden 2 tot en met 8.  
 
 ### Artikel  13  
 
 ####De raming van de normatieve eigen risico opbrengst
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Voor de raming van de normatieve eigen risico opbrengst voor verzekerden zonder een FKG 1 tot en met 23 2010 hanteert het college als uitgangspunten: 
 
@@ -321,47 +353,57 @@ c. de gewichten eigen risico opbrengst per verzekerde per regioklasse 2010, geno
 3.  De gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2010 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per aard van het inkomenklasse 2010, zoals bepaald in artikel 7, dertiende lid, onder b. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tweede lid.   
 4.  De gewichten eigen risico opbrengst per verzekerde per regioklasse 2010 worden per overeenkomstige regioklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per regioklasse 2010, zoals bepaald in artikel 7, dertiende lid, onder b. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het derde lid. Het college vermindert de uitkomst met 0,10766 procent van de uitkomst vanwege de geraamde gederfde inkomsten voor verzekerden van 18 jaar en ouder, voor wie als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geen nominale premies worden ontvangen.   
 5.  Het college berekent de geraamde normatieve eigen risico opbrengst 2009 voor verzekerden met een FKG 1 tot en met 23 2010 per zorgverzekeraar door het aantal verzekerden van 18 jaar en ouder met een FKG 1 tot en met 23 2010, bepaald in artikel 7, dertiende lid, onder a, te vermenigvuldigen met een bedrag van EUR 165 per verzekerde. Het college vermindert de uitkomst met 0,17895 procent van de uitkomst vanwege de geraamde gederfde inkomsten voor verzekerden van 18 jaar en ouder, voor wie als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geen nominale premies worden ontvangen.   
-6.  De totale raming van de normatieve eigen risico opbrengst per zorgverzekeraar is de som van het resultaat van het vierde en het vijfde lid.   
+6.  De totale raming van de normatieve eigen risico opbrengst per zorgverzekeraar is de som van het resultaat van het vierde en het vijfde lid.  
 
 ### Artikel  14  
 
 ####De berekening van het normatieve bedrag en de berekening en toekenning van de bijdrage
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college berekent het normatieve bedrag 2010 van een zorgverzekeraar als de som van het volgens dit hoofdstuk berekende deelbedrag kosten B-dbc’s 2010, het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010, het deelbedrag vaste kosten van ziekenhuisverpleging 2010, het deelbedrag geneeskundige geestelijke gezondheidszorg 2010 en het deelbedrag kosten van overige prestaties 2010.   
 2.  Het college raamt de opbrengst 2010 van de nominale rekenpremie per zorgverzekeraar door de geraamde aantallen verzekerden van 18 jaar en ouder 2010 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2010. De nominale rekenpremie 2010 bedraagt EUR 983 overeenkomstig [artikel 3.7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).   
 3.  Het college vermindert het resultaat van het tweede lid met 0,10766 procent van het resultaat van het tweede lid vanwege de geraamde gederfde inkomsten voor verzekerden van 18 jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geen nominale premies worden ontvangen.   
 4.  Het college berekent de bijdrage 2010 aan een zorgverzekeraar door op het normatieve bedrag 2010 de geraamde normatieve eigen risico opbrengst 2010 en de volgens het tweede lid en derde lid geraamde opbrengst van de nominale rekenpremie 2010 in mindering te brengen.   
 5.  Het college berekent per zorgverzekeraar de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar 2010. Deze uitkering bedraagt het aantal geraamde verzekerden jonger dan 18 jaar, vermenigvuldigd met EUR 50.   
-6.  Het college kent de bijdrage 2010 ter hoogte van de bijdrage berekend in het vierde lid, aangevuld met het bedrag berekend in het vijfde lid, aan de zorgverzekeraar toe.   
+6.  Het college kent de bijdrage 2010 ter hoogte van de bijdrage berekend in het vierde lid, aangevuld met het bedrag berekend in het vijfde lid, aan de zorgverzekeraar toe.  
 
 ### Artikel  15  
 
 ####Herberekeningen als gevolg van splitsingen
 
-Indien een zorgverzekeraar na de toekenning van de bijdrage 2010 besluit zich te splitsen, dient de zorgverzekeraar aan het college mee te delen hoe naar zijn verwachting de geraamde verzekerdenaantallen 2010 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars. Het college kan de toegekende bijdrage herzien en de bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd.  
+Materieel uitgewerkt per 01-01-2012 
+
+Indien een zorgverzekeraar na de toekenning van de bijdrage 2010 besluit zich te splitsen, dient de zorgverzekeraar aan het college mee te delen hoe naar zijn verwachting de geraamde verzekerdenaantallen 2010 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars. Het college kan de toegekende bijdrage herzien en de bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd. 
 
 ### Artikel  16  
 
 ####De herberekening en herziening van de toegekende bijdrage 2010
 
+Materieel uitgewerkt per 01-01-2012 
+
 1.  Het college herberekent de toekenning van de bijdrage op basis van de werkelijke verzekerdenaantallen 2010 volgens de opgaven van de zorgverzekeraars aan het college op 5 maart 2010.   
 2.  Het college bepaalt de herberekening van de toegekende bijdrage 2010 als volgt: Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid door het totaal aantal verzekerden, zoals bepaald op grond van artikel 7, elfde lid en vermenigvuldigt het verkregen aantal met de bijdrage 2010 zoals toegekend op grond van artikel 14, zesde lid.   
-3.  Het college herziet de op grond van artikel 14, zesde lid, toegekende bijdrage 2010 overeenkomstig de herberekening uit het tweede lid.   
+3.  Het college herziet de op grond van artikel 14, zesde lid, toegekende bijdrage 2010 overeenkomstig de herberekening uit het tweede lid.  
 
 ### Hoofdstuk  III  
 
 ####De eerste voorlopige vaststelling van de bijdrage aan een zorgverzekeraar
 
+Materieel uitgewerkt per 01-01-2012 
+
 ### Artikel  17  
 
 ####Bepaling van de verzekerdenaantallen 2010
 
-1.  De zorgverzekeraars leveren het persoonskenmerkenbestand 2010 op 1 juli 2010 bij het CVZ aan. De peildatum van de opgave is de datum van nominale premieprolongatie voor de maand juni 2010. De zorgverzekeraars leveren het uitstroombestand 2010 en de opgave van in 2010 ingeschreven verzekerden die vanwege bijzondere omstandigheden niet over een burgerservicenummer beschikken op 1 juli 2011 bij het CVZ aan.   
-2.  Voor de vaststelling van het aantal verzekerden 2010 en de verzekeringsduur per verzekerde per zorgverzekeraar baseert het college zich op het RBVZ en de opgave van verzekerden die vanwege bijzondere omstandigheden niet over een burgerservicenummer beschikken. Wanneer een verzekerde gedurende een bepaalde periode in 2010 bij meerdere zorgverzekeraars tegelijkertijd is ingeschreven, wordt die periode voor het vaststellen van de verzekeringsduur verdeeld naar rato van het aantal zorgverzekeraars waar de verzekerde gedurende die periode ingeschreven is geweest.   
-3,.  Voor de vaststelling van de vereveningskenmerken per verzekerde naar risicoklasse leeftijd en geslacht 2010, naar regioklasse 2010, naar GGZ-regioklasse 2010, naar éénpersoonsadresklasse, naar jonger dan 18 jaarklasse en naar de verzekerdenaantallen van 18 jaar en ouder 2010, baseert het college zich op het persoonskenmerkenbestand 2010, het uitstroombestand 2010 en de opgave van verzekerden die vanwege bijzondere omstandigheden niet over een burgerservicenummer beschikken. In het geval een verzekerde niet is opgenomen in het persoonskenmerkenbestand 2010 maakt het college indien mogelijk gebruik van de gegevens uit het persoonskenmerkenbestand 2011. In het geval een verzekerde ook niet is opgenomen in het persoonskenmerkenbestand 2011, maakt het college indien mogelijk gebruik van de gegevens uit het persoonskenmerkenbestand 2009.   
-4.  Voor de vaststelling van de aard van het inkomenklasse en de sociaal economische statusklasse baseert het college zich op de gepseudonimiseerde opgave van het UWV en voor de zelfstandigen op de gepseudonimiseerde opgave van de Belastingdienst. Voor de opgave van het UWV of de Belastingdienst naar inkomensbron in het jaar 2010, bedoeld in de vorige volzin, hanteert het CVZ de peildatum 30 juni 2010.   
+Materieel uitgewerkt per 01-01-2012 
+
+1.  De zorgverzekeraars leveren het persoonskenmerkenbestand 2010 op 1 juli 2010 bij het CVZ aan.De zorgverzekeraars leveren het uitstroombestand 2010 en de opgave van in 2010 ingeschreven verzekerden die vanwege bijzondere omstandigheden niet over een burgerservicenummer beschikken op 1 juli 2011 bij het CVZ aan.   
+2.  Voor de vaststelling van het aantal verzekerden 2010 en de verzekeringsduur per verzekerde per zorgverzekeraar baseert het college zich op het VPPKB 2010, zoals zorgverzekeraars dat hebben aangeleverd op 1 juli 2011. Wanneer een verzekerde gedurende een bepaalde periode in 2010 bij meerdere zorgverzekeraars tegelijkertijd is ingeschreven, wordt die periode voor het vaststellen van de verzekeringsduur verdeeld naar rato van het aantal zorgverzekeraars waar de verzekerde gedurende die periode ingeschreven is geweest.   
+3.  Voor de vaststelling van de vereveningskenmerken per verzekerde naar risicoklasse leeftijd en geslacht 2010, naar regioklasse 2010, naar GGZ-regioklasse 2010, naar éénpersoonsadresklasse, naar jonger dan 18 jaarklasse en naar de verzekerdenaantallen van 18 jaar en ouder 2010, baseert het college zich op het persoonskenmerkenbestand 2010 en op het VPPKB 2010. In het geval een verzekerde niet is opgenomen in het persoonskenmerkenbestand 2010 maakt het college gebruik van de gegevens uit het VPPKB 2010.   
+4.  Voor de vaststelling van de aard van het inkomenklasse baseert het college zich voor de zelfstandigen op de gepseudonimiseerde opgave van de Belastingdienst en voor de overige inkomstenbronnen op de gepseudonimiseerde opgave van het UWV. Voor de opgave van het UWV of de Belastingdienst naar inkomensbron in het jaar 2010, bedoeld in de vorige volzin, hanteert het college de peildatum 30 juni 2010. Indien de opgave van het UWV betreffende een gemeente onvoldoende gegevens bevat, maakt het college voor verzekerden uit die gemeente indien mogelijk gebruik van de gegevens zoals bekend uit 2009, met als peildatum 30 juni 2009. Het college hanteert per verzekerde voor de gepseudonimiseerde opgave van de Belastingdienst dezelfde peildatum als gebruikt voor de opgave van het UWV. Voor de vaststelling van de sociaal economische statusklasse baseert het college zich voor het inkomen op de gepseudonimiseerde opgave van de Belastingdienst over 2009. In het geval een verzekerde niet is opgenomen in de opgave over 2009, maakt het college gebruik van de opgave over 2008. In het geval een verzekerde niet is opgenomen in de opgave over 2008, maakt het college gebruik van de opgave over 2007.   
 5.  Voor de vaststelling van de GGZ-kosten lage drempelklasse en de GGZ-kosten hoge drempelklasse, baseert het CVZ zich op de opgave door zorgverzekeraars per 1 juni 2011 van declaraties van dbc’s geneeskundige GGZ die in 2009 geopend zijn en van overige declaraties geneeskundige GGZ over 2009.   
-6.  Het college bepaalt per zorgverzekeraar het aantal verzekerden voor het deelbedrag kosten van B-dbc’s, voor het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en voor het deelbedrag kosten van overige prestaties als volgt. Voor elke verzekerde uit het persoonskenmerkenbestand 2010 bepaalt het college in welke klasse een verzekerde valt. Het college classificeert de verzekerden naar risicoklasse naar leeftijd en geslacht, naar aard van het inkomenklasse, naar regioklasse, naar FKG klasse, naar DKG klasse en naar sociaal economische statusklasse. Het college bepaalt de leeftijd op basis van de geboortemaand en het geboortejaar. Het college hanteert daarbij als peildatum 30 juni 2010.   
+6.  Het college bepaalt per zorgverzekeraar het aantal verzekerden voor het deelbedrag kosten van B-dbc’s, voor het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en voor het deelbedrag kosten van overige prestaties als volgt. Voor elke verzekerde uit het VPPKB 2010 bepaalt het college in welke klasse een verzekerde valt. Het college classificeert de verzekerden naar risicoklasse naar leeftijd en geslacht, naar aard van het inkomenklasse, naar regioklasse, naar FKG klasse, naar DKG klasse en naar sociaal economische statusklasse. Het college bepaalt de leeftijd op basis van de geboortemaand en het geboortejaar. Het college hanteert daarbij als peildatum 30 juni 2010.   
 7.  Het college bepaalt per zorgverzekeraar het aantal verzekerden voor het deelbedrag geneeskundige geestelijke gezondheidszorg als volgt: 
 
 a. Voor het deelbedrag geneeskundige geestelijke gezondheidszorg classificeert het college de verzekerden van 18 jaar en ouder naar risicoklasse naar leeftijd en geslacht, naar aard van het inkomenklasse, naar GGZ-regioklasse, naar FKG GGZ klasse, naar sociaal economische statusklasse, naar éénpersoonsadresklasse, naar GGZ kosten lage drempelklasse en naar GGZ-kosten hoge drempelklasse.  
@@ -384,32 +426,33 @@ iii. middelen die in de G-standaard van Z-Index zijn aangemerkt als grond- en hu
 
 c. Het college hanteert een drempel van meer dan 180 standaarddagdoseringen. Beneden deze drempel kent het college geen FKG aan een verzekerde toe.  
 
-d. Het college koppelt de opgave onder a met behulp van het gepseudonimiseerde burgerservicenummer aan het persoonskenmerkenbestand 2010 en het uitstroombestand 2010 en bepaalt op basis hiervan en met behulp van de drempel onder c per verzekerde in welke FKG klasse en FKG GGZ klasse de verzekerde valt.  
+d. Het college koppelt de opgave onder a met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2010 en bepaalt op basis hiervan en met behulp van de drempel onder c per verzekerde in welke FKG klasse en FKG GGZ klasse de verzekerde valt.  
 
-e. Op basis van het onder d bepaalde stelt het college het aantal verzekerden 2009 per FKG 2010 met inachtneming van het bepaalde met betrekking tot de samenloop van FKG’s, bedoeld in artikel 5, tweede lid vast. Het college wijst verzekerden 2009 in 2010 per FKG 2010, zoals bepaald onder d, toe aan een zorgverzekeraar met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer, het persoonskenmerkenbestand 2010 en het uitstroombestand 2010.  
+e. Op basis van het onder d bepaalde stelt het college het aantal verzekerden 2009 per FKG 2010 met inachtneming van het bepaalde met betrekking tot de samenloop van FKG’s, bedoeld in artikel 5, tweede lid vast. Het college wijst verzekerden 2009 in 2010 per FKG 2010, zoals bepaald onder d, toe aan een zorgverzekeraar met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer.  
 
-f. Het college bepaalt voor verzekerden die in het buitenland wonen zonder FKG 2010 1 tot en met 23 het gewicht op EUR 0,00.  
+f. Het college bepaalt voor verzekerden die in het buitenland wonen het gewicht op EUR 0,00.  
 
-g. Het college bepaalt voor verzekerden die in het buitenland wonen zonder FKG GGZ 2010 1 het gewicht op EUR 0,00.  
-
-h. Tot slot worden de verzekerdenaantallen 2010 per FKG 2010 en per FKG GGZ 2010 gesommeerd. Hierbij telt de verzekerde mee voor de verzekeringsduur zoals vastgesteld in het tweede lid.     
+g. Tot slot worden de verzekerdenaantallen 2010 per FKG 2010 en per FKG GGZ 2010 gesommeerd. Hierbij telt de verzekerde mee voor de verzekeringsduur zoals vastgesteld in het tweede lid.     
 10.  Voor de voorlopige vaststelling van de bijdrage aan een zorgverzekeraar bepaalt het college het aantal verzekerden per DKG 2010 per zorgverzekeraar als volgt: 
 
 a. Uitgangspunt is de opgave van de zorgverzekeraar per 1 juni 2011 van de declaraties van alle DBC’s die in 2009 geopend zijn. Op basis daarvan bepaalt het college het aantal verzekerden per DKG 2010 volgens de indeling in artikel 5, derde lid.  
 
-b. Het college wijst verzekerden 2009 in 2010 per DKG 2010, zoals bepaald onder a, toe aan een zorgverzekeraar met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer, het persoonskenmerkenbestand 2010 en het uitstroombestand 2010.  
+b. Het college wijst verzekerden 2009 in 2010 per DKG 2010, zoals bepaald onder a, toe aan een zorgverzekeraar met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer met het VPPKB 2010.  
 
-c. Het college bepaalt voor verzekerden die in het buitenland wonen zonder DKG 2010 1 tot en met 10 het gewicht op EUR 0,00.  
+c. Het college bepaalt voor verzekerden die in het buitenland wonen het gewicht op EUR 0,00.  
 
 d. Tot slot worden per zorgverzekeraar de verzekerdenaantallen 2010 per DKG 2010 opgeteld. Hierbij telt de verzekerde mee voor de verzekeringsduur, vastgesteld overeenkomstig het tweede lid.     
-11.  Het college bepaalt met behulp van opgaven van de Belastingdienst en het UWV, het RBVZ over 2010, het persoonskenmerkenbestand 2010 en het uitstroombestand 2010 de aantallen verzekerden per aard van het inkomenklasse 2010 en sociaal economische statusklasse 2010. Hierbij telt de verzekerde mee voor de verzekeringsduur,vastgesteld overeenkomstig het tweede lid.   
-12.  Het college bepaalt met behulp van het RBVZ over 2010, de opgave van de Belastingdienst en de opgave van de zorgverzekeraars naar viercijferige postcode van het adres waar de verzekerde woonachtig is, de aantallen verzekerden naar regioklasse 2010 en de aantallen verzekerden van 18 jaar en ouder naar GGZ regioklasse. Hierbij telt de verzekerde mee voor de verzekeringsduur, vastgesteld overeenkomstig het tweede lid.   
-13.  Het college bepaalt met behulp van het RBVZ over 2010, de opgave van de Belastingdienst en de opgave van de zorgverzekeraars van het adres waar de verzekerde woonachtig is, de aantallen verzekerden naar éénpersoonsadresklasse. Hierbij telt de verzekerde mee voor de verzekeringsduur, vastgesteld overeenkomstig het tweede lid.   
-14.  Het college bepaalt met behulp van de opgave door zorgverzekeraars per 1 juni 2011 van declaraties van dbc’s geneeskundige GGZ die in 2009 geopend zijn en van overige declaraties geneeskundige GGZ over 2009 de aantallen verzekerden naar de GGZ-kosten lage drempelklasse en de GGZ-kosten hoge drempelklasse.   
+11.  Het college bepaalt met behulp van opgaven van de Belastingdienst en het UWV, het VPPKB 2010 en het persoonskenmerkenbestand 2010 de aantallen verzekerden per aard van het inkomenklasse 2010 en sociaal economische statusklasse 2010. Hierbij telt de verzekerde mee voor de verzekeringsduur, vastgesteld overeenkomstig het tweede lid.   
+12.  Het college bepaalt met behulp van het VPPKB over 2010, de opgave van de Belastingdienst en de opgave van de zorgverzekeraars naar viercijferige postcode van het adres waar de verzekerde woonachtig is, de aantallen verzekerden naar regioklasse 2010 en de aantallen verzekerden van 18 jaar en ouder naar GGZ regioklasse. Hierbij telt de verzekerde mee voor de verzekeringsduur, vastgesteld overeenkomstig het tweede lid.   
+13.  Het college bepaalt met behulp van het VPPKB over 2010, de opgave van de Belastingdienst en de opgave van de zorgverzekeraars van het adres waar de verzekerde woonachtig is, de aantallen verzekerden naar éénpersoonsadresklasse. Hierbij telt de verzekerde mee voor de verzekeringsduur, vastgesteld overeenkomstig het tweede lid.   
+14.  Het college bepaalt met behulp van de opgave door zorgverzekeraars per 1 juni 2011 van declaraties van dbc’s geneeskundige GGZ die in 2009 geopend zijn en van overige declaraties geneeskundige GGZ over 2009 de aantallen verzekerden naar de GGZ-kosten lage drempelklasse en de GGZ-kosten hoge drempelklasse.  
+16. het college deelt verzekerden zonder burgerservicenummer uitsluitend in bij de vereveningskenmerken leeftijd en geslacht en regio.
 
 ### Artikel  18  
 
 ####De voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college bepaalt op basis van de jaarstaat 2010 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de kosten van B-dbc’s 2010, met inachtneming van de [artikelen 3.12](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [3.13 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md). Het college herberekent op basis van de uitkomsten verkregen na toepassing van artikel 17 het normatieve bedrag kosten van B-dbc’s 2010 voor het totaal van alle verzekerden 2010 van alle zorgverzekeraars op de wijze zoals beschreven in artikel 8.   
 2.  Het college berekent de schalingsfactor kosten van B-dbc’s 2010 door de kosten van B-dbc’s 2010, bepaald in het eerste lid, te sommeren over alle verzekeraars en deze te delen door het in het tweede lid herberekende normatieve bedrag kosten van B-dbc’s voor het totaal van alle verzekerden 2010 van alle zorgverzekeraars.   
@@ -421,11 +464,13 @@ d. Tot slot worden per zorgverzekeraar de verzekerdenaantallen 2010 per DKG 2010
 8.  De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per regioklasse 2010 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden per regioklasse 2010 per zorgverzekeraar, zoals berekend in artikel 17, twaalfde lid. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.   
 9.  De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde bij sociaal economische statusklasse 2010 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2010 per zorgverzekeraar, zoals berekend in artikel 17, elfde lid. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.   
 10.  Het resultaat van het tiende lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van B-dbc’s 2010.   
-11.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) vermindert het college het voorlopige herberekende deelbedrag kosten van B-dbc’s 2010 met de kosten van B-dbc’s 2010, zoals bepaald in het eerste lid.   
+11.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) vermindert het college het voorlopige herberekende deelbedrag kosten van B-dbc’s 2010 met de kosten van B-dbc’s 2010, zoals bepaald in het eerste lid.  
 
 ### Artikel  19  
 
 ####De voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college bepaalt op basis van de jaarstaat 2010 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 met inachtneming van de [artikelen 3.12](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), [3.13](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [3.16 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).   
 2.  Het college herberekent op basis van de uitkomsten verkregen na toepassing van artikel 17 het normatieve bedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 voor het totaal van alle verzekerden 2010 van alle zorgverzekeraars op de wijze zoals beschreven in artikel 9.   
@@ -439,11 +484,13 @@ d. Tot slot worden per zorgverzekeraar de verzekerdenaantallen 2010 per DKG 2010
 10.  De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde bij sociaal economische statusklasse 2010 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2010 per zorgverzekeraar, zoals berekend in artikel 17, elfde lid. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.   
 11.  Het college calculeert per zorgverzekeraar 30 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, verkregen in het eerste lid en het resultaat van het tiende lid.   
 12.  Het resultaat van het elfde lid wordt aangeduid als het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010.   
-13.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) trekt het college van het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010, zoals bepaald in het eerste lid.   
+13.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) trekt het college van het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010, zoals bepaald in het eerste lid.  
 
 ### Artikel  20  
 
 ####De voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college bepaalt op basis van de jaarstaat 2010 per zorgverzekeraar met inachtneming van de [artikelen 3.12](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), [3.13](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [3.17 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), de vaste kosten van ziekenhuisverpleging 2010.   
 2.  Het college herberekent het voorlopig deelbedrag vaste kosten van ziekenhuisverpleging 2010 per zorgverzekeraar als volgt: 
@@ -452,14 +499,16 @@ a. De vaste kosten van ziekenhuisverpleging 2009 worden per zorgverzekeraar gede
 
 b. Het in onderdeel a opnieuw berekende zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2010 wordt vermenigvuldigd met het totaal aantal verzekerden 2010 per zorgverzekeraar.     
 3.  Het college calculeert per zorgverzekeraar 100 procent na op het verschil tussen de kosten vaste kosten van ziekenhuisverpleging 2010, verkregen in het eerste lid, en het deelbedrag vaste kosten van ziekenhuisverpleging, verkregen in het tweede lid.   
-4.  Het resultaat van het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2010.   
+4.  Het resultaat van het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2010.  
 
 ### Artikel  21  
 
 ####De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2010
 
-1.  Het college bepaalt op basis van de opgave door zorgverzekeraars per 1 juni 2011 van declaraties van dbc’s geneeskundige GGZ die in 2009 geopend zijn en van overige declaraties geneeskundige GGZ over 2009 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de kosten van geneeskundige geestelijke gezondheidszorg 2010 voor verzekerden van 18 jaar en ouder, met inachtneming van de [artikelen 3.12](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), [3.13](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [3.18 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).   
-2.  Het college bepaalt op basis van de opgave door zorgverzekeraars per 1 juni 2011 van declaraties van dbc’s geneeskundige GGZ die in 2009 geopend zijn en van overige declaraties geneeskundige GGZ over 2009 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de kosten van geneeskundige geestelijke gezondheidszorg 2010 voor verzekerden jonger dan 18 jaar, met inachtneming van de [artikelen 3.12](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), [3.13](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [3.18 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).   
+Materieel uitgewerkt per 01-01-2012 
+
+1.  Het college bepaalt op basis van de jaarstaat 2010 met inachtneming van de [artikelen 3.12](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), [3.13](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [3.18 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) de kosten geneeskundige geestelijke gezondheidszorg 2010 voor verzekerden van 18 jaar en ouder.   
+2.  Het college bepaalt op basis van de jaarstaat 2010 met inachtneming van de [artikelen 3.12](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), [3.13](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [3.18 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) de kosten geneeskundige geestelijke gezondheidszorg 2010 voor verzekerden jonger dan 18 jaar.  
 3.  Het college herberekent op basis van de uitkomsten verkregen na toepassing van artikel 17 het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2010 voor de verzekerden van 18 jaar en ouder 2010 van alle zorgverzekeraars op de wijze zoals beschreven in artikel 11, eerste tot en met negende lid.   
 4.  Het college berekent het gewicht kosten van overige prestaties per verzekerde voor de risicoklasse GGZ kosten lage drempelklasse 2010 0 door het totaal aantal verzekerden per GGZ kosten lage drempelklasse 1 te vermenigvuldigen met het overeenkomstige gewicht en het resultaat vervolgens te delen door het geraamde totaal aantal verzekerden GGZ kosten lage drempelklasse 2010 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.   
 5.  Het college berekent het gewicht kosten van overige prestaties per verzekerde voor de risicoklasse GGZ kosten hoge drempelklasse 2010 0 door het totaal aantal verzekerden per GGZ kosten hoge drempelklasse 1 te vermenigvuldigen met het overeenkomstige gewicht en het resultaat vervolgens te delen door het geraamde totaal aantal verzekerden GGZ kosten hoge drempelklasse 2010 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.   
@@ -479,11 +528,13 @@ b. Het in onderdeel a opnieuw berekende zorgverzekeraarspecifieke bedrag vaste k
 19.  Het herberekende normbedrag voor de normatieve GGZ kosten voor verzekerden jonger dan 18 jaar per verzekerde 2010 wordt vermenigvuldigd met het aantal verzekerden jonger dan 18 jaar 2010 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd.   
 20.  Het college calculeert per zorgverzekeraar 100 procent na over het verschil tussen de kosten van de geneeskundige geestelijke gezondheidszorg verkregen in tweede lid en het resultaat verkregen in het negentiende lid.   
 21.  De som van het resultaat van het vijftiende en het twintigste lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van de geneeskundige geestelijke gezondheidszorg 2010.   
-22.  Voor de toepassing van [artikel 3.19 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) vermindert het college het resultaat van artikel 13, zesde lid met de kosten van geneeskundige geestelijke gezondheidszorg, zoals bepaald in het eerste lid.   
+22.  Voor de toepassing van [artikel 3.19 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) vermindert het college het resultaat van artikel 13, zesde lid met de kosten van geneeskundige geestelijke gezondheidszorg, zoals bepaald in het eerste lid.  
 
 ### Artikel  22  
 
 ####De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college bepaalt op basis van de jaarstaat 2010 de kosten van overige prestaties 2010 met inachtneming van de [artikelen 3.12](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [3.13 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).   
 2.  Het college berekent het normatieve bedrag kosten van overige prestaties 2010 voor het totaal van alle verzekerden 2010 van alle zorgverzekeraars op de wijze zoals beschreven in artikel 12, eerste tot en met het zevende lid.   
@@ -495,18 +546,22 @@ b. Het in onderdeel a opnieuw berekende zorgverzekeraarspecifieke bedrag vaste k
 8.  De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2010, worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2010 per aard van het inkomenklasse 2010 per zorgverzekeraar, zoals berekend in artikel 17, negende lid.   
 9.  De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per regioklasse 2010 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden 2010 per regioklasse 2010 per zorgverzekeraar, zoals berekend in artikel 17, tiende lid. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.   
 10.  De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde bij sociaal economische statusklasse 2010 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2010 per zorgverzekeraar, zoals berekend in artikel 17, negende lid. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.   
-11.  Het resultaat van het tiende lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van overige prestaties 2010.   
+11.  Het resultaat van het tiende lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van overige prestaties 2010.  
 
 ### Artikel  23  
 
 ####De voorlopige herberekening van de opbrengst van het normatieve eigen risico 2010
 
+Materieel uitgewerkt per 01-01-2012 
+
 1.  Uitgangspunt voor de herberekening van de opbrengst van het normatieve eigen risico zijn de opgaven, bedoeld in artikel 17, tweede lid, van de verzekerdenaantallen van de zorgverzekeraar.   
-2.  Het college herberekent op de wijze zoals beschreven in artikel 13 de normatieve eigen risico opbrengst 2010 op basis van de werkelijke verzekerden aantallen 2010 van 18 jaar en ouder zoals berekend in artikel 17.   
+2.  Het college herberekent op de wijze zoals beschreven in artikel 13 de normatieve eigen risico opbrengst 2010 op basis van de werkelijke verzekerden aantallen 2010 van 18 jaar en ouder zoals berekend in artikel 17.  
 
 ### Artikel  24  
 
 ####De voorlopige herberekening van het normatieve bedrag 2010 en de voorlopige herberekening en voorlopige vaststelling van de bijdrage 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college herberekent het normatieve bedrag 2010 voorlopig als de som van het voorlopige herberekende deelbedrag B-dbc’s 2010, het voorlopig herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010, het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2010, het voorlopig herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2010 en het voorlopig herberekende deelbedrag kosten van overige prestaties 2010.   
 2.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) berekent het college: 
@@ -527,22 +582,28 @@ c. indien het in onderdeel a bepaalde bedrag kleiner is dan het aantal verzekerd
 5.  Het college vermindert het resultaat van het vierde lid met het bedrag dat de zorgverzekeraar verantwoordt in de jaarstaat 2010 als gederfde inkomsten voor verzekerden van 18 jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geen nominale premies worden ontvangen.   
 6.  Het college herberekent voorlopig de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar in 2010 te vermenigvuldigen met EUR 50.   
 7.  Het college herberekent de bijdrage 2010 voorlopig door de som van het herberekende normatieve bedrag 2010 bedoeld in het eerste lid, met toepassing van het tweede lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vijfde lid te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst bedoeld in artikel 23 en de opbrengst van de nominale rekenpremie, bedoeld in het vierde lid.   
-8.  Het college stelt de bijdrage 2010 in september 2011 voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage. De bepaling van de verzekerdenaantallen is definitief, behoudens de corrrecties van de Nederlandse Zorgautoriteit en de aanpassingen op basis van het uitstroombestand 2011.   
+8.  Het college stelt de bijdrage 2010 in september 2011 voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage. De bepaling van de verzekerdenaantallen is definitief, behoudens de corrrecties van de Nederlandse Zorgautoriteit en de aanpassingen op basis van het uitstroombestand 2011.  
 
 ### Hoofdstuk  IV  
 
 ####De tweede voorlopige vaststelling van de bijdrage 2010 aan een zorgverzekeraar
 
+Materieel uitgewerkt per 01-01-2012 
+
 ### Artikel  25  
 
 ####Algemene bepaling
 
-1.  Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast en het uitstroombestand 2011 bij de verzekerdenaantallen.   
-2.  Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de opgave hoge kosten compensatie 2010, de jaarstaat 2012, het opbrengstresultaat 2010 en de correcties die de Nederlandse Zorgautoriteit heeft toegepast.   
+Materieel uitgewerkt per 01-01-2012 
+
+1.  Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast bij de verzekerdenaantallen.   
+2.  Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de opgave hoge kosten compensatie 2010, de jaarstaat 2012, het opbrengstresultaat 2010 en de correcties die de Nederlandse Zorgautoriteit heeft toegepast.  
 
 ### Artikel  26  
 
 ####De tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2010.
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2010 als uitgangspunten: 
 
@@ -569,11 +630,13 @@ f. de gewichten kosten van B-dbc’s per verzekerde per sociaal economische stat
 11.  De in het vijfde lid herberekende gewichten kosten van B-dbc’s per verzekerde per sociaal economische statusklasse 2010 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2009 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tiende lid.   
 12.  Het college past een hoge kostencompensatie toe overeenkomstig [artikel 3.15 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en verrekent dit met het resultaat van het elfde lid.   
 13.  Het resultaat van het twaalfde lid wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van B-dbc’s 2010.   
-14.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) trekt het college van het voorlopige herberekende deelbedrag kosten van B-dbc’s 2010 af de kosten van B-dbc’s 2010, zoals bepaald in het tweede lid.   
+14.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) trekt het college van het voorlopige herberekende deelbedrag kosten van B-dbc’s 2010 af de kosten van B-dbc’s 2010, zoals bepaald in het tweede lid.  
 
 ### Artikel  27  
 
 ####De tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010.
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 als uitgangspunten: 
 
@@ -601,17 +664,21 @@ f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van speciali
 12.  Het college past een hoge kostencompensatie toe overeenkomstig [artikel 3.16 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en verrekent dit met het resultaat van het elfde lid.   
 13.  Vervolgens calculeert het college per zorgverzekeraar 30 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, verkregen in het tweede lid en het resultaat van het twaalfde lid.   
 14.  Het resultaat van het dertiende lid wordt aangeduid als het tweede voorlopig herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010.   
-15.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) trekt het college van het tweede voorlopig herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010, zoals bepaald in het tweede lid.   
+15.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) trekt het college van het tweede voorlopig herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010, zoals bepaald in het tweede lid.  
 
 ### Artikel  28  
 
 ####De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2010
 
-Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste kosten van ziekenhuisverpleging 2010 overeenkomstig artikel 20, met inachtneming van artikel 25.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste kosten van ziekenhuisverpleging 2010 overeenkomstig artikel 20, met inachtneming van artikel 25. 
 
 ### Artikel  29  
 
 ####De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Voor de tweede voorlopige herberekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten: 
 
@@ -652,11 +719,13 @@ h. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzeke
 21.  De herberekende gewichten voor geneeskundige GGZ kosten voor verzekerden jonger dan 18 jaar per verzekerde 2010 wordt vermenigvuldigd met het aantal verzekerden jonger dan 18 jaar 2010 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd.   
 22.  Het college calculeert per zorgverzekeraar 100 procent na op het verschil tussen de kosten van de geneeskundige geestelijke gezondheidszorg, verkregen in het derde lid en het resultaat van het eenentwintigste lid.   
 23.  De som van het resultaat van het zeventiende lid en het tweeëntwintigste lid wordt aangeduid als het tweede voorlopig herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2010.   
-24.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) vermindert het college van het resultaat van artikel 14, zesde lid met de kosten van geneeskundige geestelijke gezondheidszorg, zoals bepaald in het tweede lid.   
+24.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) vermindert het college van het resultaat van artikel 14, zesde lid met de kosten van geneeskundige geestelijke gezondheidszorg, zoals bepaald in het tweede lid.  
 
 ### Artikel  30  
 
 ####De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Voor de tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten: 
 
@@ -682,17 +751,21 @@ f. de gewichten kosten van overige prestaties per verzekerde per sociaal economi
 10.  De herberekende gewichten kosten van overige prestaties per verzekerde per regioklasse 2010 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden 2010 per regioklasse 2010 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.   
 11.  De herberekende gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2010, worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2010 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tiende lid.   
 12.  Het college past een hoge kostencompensatie toe overeenkomstig [artikel 3.20 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en verrekent dit met het resultaat van het elfde lid.   
-13.  Het resultaat van het twaalfde lid wordt aangeduid als het tweede voorlopig herberekende deelbedrag kosten van overige prestaties 2010.   
+13.  Het resultaat van het twaalfde lid wordt aangeduid als het tweede voorlopig herberekende deelbedrag kosten van overige prestaties 2010.  
 
 ### Artikel  31  
 
 ####De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2010
 
-Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2010 overeenkomstig artikel 13 en artikel 23, met inachtneming van artikel 25.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2010 overeenkomstig artikel 13 en artikel 23, met inachtneming van artikel 25. 
 
 ### Artikel  32  
 
 ####De tweede voorlopige herberekening van het normatieve bedrag 2010 en de tweede voorlopige herberekening en de vaststelling van de bijdrage 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college herberekent het normatieve bedrag 2010 voor de tweede keer voorlopig als de som van het tweede voorlopige deelbedrag B-dbc’s 2010, het tweede voorlopige deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010, het tweede voorlopige deelbedrag vaste kosten van ziekenhuisverpleging 2010, het tweede voorlopige deelbedrag geneeskundige geestelijke gezondheidszorg 2010 en het tweede voorlopige deelbedrag kosten van overige prestaties 2010.   
 2.  Voor de toepassing van [artikel 3.21 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) berekent het college: 
@@ -713,76 +786,100 @@ c. indien het in onderdeel a bepaalde bedrag kleiner is dan het aantal verzekerd
 5.  Het college vermindert het resultaat van het vierde lid met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarverslag als gederfde inkomsten voor verzekerden van 18 jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geen nominale premies worden ontvangen.   
 6.  Het college berekent de tweede voorlopige aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar 2010 te vermenigvuldigen met EUR 50.   
 7.  Het college berekent de bijdrage 2010 voor de tweede keer voorlopig door de som van het tweede voorlopige normatieve bedrag 2010 bedoeld in het eerste lid, met toepassing van het tweede lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vijfde lid, te verminderen met de tweede voorlopige normatieve eigen risico opbrengst bedoeld in artikel 31, en de opbrengst van de nominale rekenpremie, bedoeld in het vierde lid.   
-8.  Het college stelt de voorlopige bijdrage 2010 voor de tweede keer voorlopig vast in september 2013 ter hoogte van de in het vorige lid berekende bijdrage. De bepaling van de verzekerdenaantallen is definitief.   
+8.  Het college stelt de voorlopige bijdrage 2010 voor de tweede keer voorlopig vast in september 2013 ter hoogte van de in het vorige lid berekende bijdrage. De bepaling van de verzekerdenaantallen is definitief.  
 
 ### Hoofdstuk  V  
 
 ####De vaststelling van de bijdrage 2010 aan een zorgverzekeraar
 
+Materieel uitgewerkt per 01-01-2012 
+
 ### Artikel  33  
 
 ####Algemene bepaling
 
-Het college herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportage die de Nederlandse zorgautoriteit uitbrengt over de jaarstaat 2012.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportage die de Nederlandse zorgautoriteit uitbrengt over de jaarstaat 2012. 
 
 ### Artikel  34  
 
 ####De definitieve herberekening van het deelbedrag kosten van B-dbc’s 2010
 
-Het college herberekent definitief het deelbedrag kosten van B-dbc’s 2010 overeenkomstig artikel 26, met inachtneming van artikel 33.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent definitief het deelbedrag kosten van B-dbc’s 2010 overeenkomstig artikel 26, met inachtneming van artikel 33. 
 
 ### Artikel  35  
 
 ####De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010
 
-Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 overeenkomstig artikel 27, met inachtneming van artikel 33.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2010 overeenkomstig artikel 27, met inachtneming van artikel 33. 
 
 ### Artikel  36  
 
 ####De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2010
 
-Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2010 overeenkomstig artikel 28, met inachtneming van artikel 33.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2010 overeenkomstig artikel 28, met inachtneming van artikel 33. 
 
 ### Artikel  37  
 
 ####De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2010
 
-Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2010 overeenkomstig artikel 29, met inachtneming van artikel 33.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2010 overeenkomstig artikel 29, met inachtneming van artikel 33. 
 
 ### Artikel  38  
 
 ####De definitieve herberekening van het deelbedrag kosten van overige prestaties 2010
 
-Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2010 overeenkomstig artikel 30, met inachtneming van artikel 33.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2010 overeenkomstig artikel 30, met inachtneming van artikel 33. 
 
 ### Artikel  39  
 
 ####De definitieve herberekening van de normatieve eigen risico opbrengst 2010
 
-Het college herberekent definitief het deelbedrag de normatieve eigen risico opbrengst overeenkomstig artikel 31, met inachtneming van artikel 33.  
+Materieel uitgewerkt per 01-01-2012 
+
+Het college herberekent definitief het deelbedrag de normatieve eigen risico opbrengst overeenkomstig artikel 31, met inachtneming van artikel 33. 
 
 ### Artikel  40  
 
 ####De definitieve herberekening van het normatieve bedrag 2010 en de definitieve herberekening en de vaststelling van de bijdrage 2010
 
+Materieel uitgewerkt per 01-01-2012 
+
 1.  Het college herberekent definitief het normatieve bedrag 2010 overeenkomstig artikel 32, met inachtneming van artikel 33.   
-2.  Het college stelt de bijdrage 2010 vast in april 2014 ter hoogte van de in het vorige lid definitief berekende bijdrage.   
+2.  Het college stelt de bijdrage 2010 vast in april 2014 ter hoogte van de in het vorige lid definitief berekende bijdrage.  
 
 ### Hoofdstuk  VI  
 
 ####De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
 
+Materieel uitgewerkt per 01-01-2012 
+
 ### Artikel  41  
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Bij gelegenheid van de vaststelling van de bijdrage 2010 als bedoeld in artikel 40 stelt het college per zorgverzekeraar ook de uitkering 2010 vast voor de kosten die op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) naar het werkelijke bedrag door het college worden vergoed.   
 2.  In afwachting van de vaststelling van de uitkering 2010 voor de kosten die op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2010 bedoeld in artikel 24 ook de voorlopige uitkering 2010 voor de kosten die op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) naar het werkelijke bedrag door het college worden vergoed, vast.   
-3.  In afwachting van de vaststelling van de uitkering 2010 voor de kosten die op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de tweede voorlopige vaststelling van de bijdrage 2010 bedoeld in artikel 32 ook de tweede voorlopige uitkering 2010 voor de kosten die op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) naar het werkelijke bedrag door het college worden vergoed, vast.   
+3.  In afwachting van de vaststelling van de uitkering 2010 voor de kosten die op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de tweede voorlopige vaststelling van de bijdrage 2010 bedoeld in artikel 32 ook de tweede voorlopige uitkering 2010 voor de kosten die op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) naar het werkelijke bedrag door het college worden vergoed, vast.  
 
 ### Hoofdstuk  VII  
 
 ####De betalingen aan de zorgverzekeraars
 
+Materieel uitgewerkt per 01-01-2012 
+
 ### Artikel  42  
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in artikel 14, vierde lid, uit. Het college maakt bij de betaling onderscheid naar de volgende bestanddelen: 
 
@@ -797,9 +894,10 @@ d. een aftrekpost voor de geraamde normatieve eigen risico opbrengst;
 e. een aftrekpost voor de geraamde opbrengst van de nominale rekenpremie.     
 2.  Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in artikel 14, vijfde lid gelijktijdig met de betaling genoemd in het eerste lid uit.   
 3.  Voor de betaling van de kosten, die op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) naar werkelijke kosten worden vergoed, kan het college ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.   
-4.  Indien toepassing van onderscheidenlijk het eerste en het tweede lid resulteert in een negatief saldo voor de zorgverzekeraar, schort het college de betalingen aan de zorgverzekeraar op, tot het negatieve saldo is verrekend.   
+4.  Indien toepassing van onderscheidenlijk het eerste en het tweede lid resulteert in een negatief saldo voor de zorgverzekeraar, schort het college de betalingen aan de zorgverzekeraar op, tot het negatieve saldo is verrekend.  
 
 ### Artikel  43  
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in artikel 24, achtste lid, stelt het college ook het volgende vast: 
 
@@ -811,11 +909,13 @@ c. Het deel van het bedrag bedoeld onder a dat de zorgverzekeraar aan het Zorgve
 
 d. Het deel van het bedrag van de door het college zelf op grond van [artikel 96 Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) ingevorderde boetes waar de zorgverzekeraar als vergoeding recht op heeft.     
 2.  Het college verrekent de som van de onderdelen c en d uit het eerste lid zo mogelijk met de op grond van artikel 24, achtste lid, voorlopig vastgestelde bijdrage.   
-3.  Indien verrekening, als bedoeld in het tweede lid, niet mogelijk blijkt, vordert het college het door de zorgverzekeraar af te dragen bedrag bij de zorgverzekeraar in, dan wel betaalt het college het door de zorgverzekeraar te ontvangen bedrag, aan de zorgverzekeraar na.   
+3.  Indien verrekening, als bedoeld in het tweede lid, niet mogelijk blijkt, vordert het college het door de zorgverzekeraar af te dragen bedrag bij de zorgverzekeraar in, dan wel betaalt het college het door de zorgverzekeraar te ontvangen bedrag, aan de zorgverzekeraar na.  
 
 ### Artikel  44  
 
 ####compensatiebijdrage voor wanbetaling
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college stelt voor zorgverzekeraars met een datum aanlevering na 1 januari 2010 een compensatiebijdrage voor wanbetaling vast.   
 2.  Het college stelt de compensatiebijdrage voor het jaar 2010 uiterlijk 1 oktober 2011 vast overeenkomstig [artikel 3.23 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).   
@@ -835,15 +935,17 @@ ii. Voor zover het compensatiedagen in 2007, 2008, 2009 of in 2010 tot aan de da
 
 iii. Voor zover het compensatiedagen na de datum gereed betreft berekent het college de compensatiebijdrage op basis van de standaardpremie 2009 respectievelijk 2010.  
 
-iv. Indien een zorgverzekeraar een bijdrage heeft ontvangen op grond van de ‘ [Beleidsregels verstrekking bijdrage aan zorgverzekeraars voor het verzekerde houden van wanbetalers van de nominale premie Zorgverzekeringswet](../../../../../../zbo/beleidsregels/verstrekking/bijdrage/aan/zorgverzekeraars/voor/het/etc/BWBR0026341/README.md) ’ over een deel van de compensatieperiode, berekend onder i tot en met iii, omdat de zorgverzekeraar gedurende meerdere maanden aangesloten bij het college heeft aangeleverd op grond van het aanleverschema bedoeld in [artikel 1, eerste lid van de ‘Beleidsregels aanmelding stuwmeer wanbetalers van de nominale premie Zorgverzekeringswet 2009/2010’](../../../../../../zbo/beleidsregels/aanmelding/stuwmeer/wanbetalers/van/de/nominale/premie/etc/BWBR0026342/README.md), wordt die bijdrage in mindering gebracht op de hoogte van de compensatiebijdrage.       
+iv. Indien een zorgverzekeraar een bijdrage heeft ontvangen op grond van de ‘[Beleidsregels verstrekking bijdrage aan zorgverzekeraars voor het verzekerde houden van wanbetalers van de nominale premie Zorgverzekeringswet](../../../../../../zbo/beleidsregels/verstrekking/bijdrage/aan/zorgverzekeraars/voor/het/etc/BWBR0026341/README.md)’ over een deel van de compensatieperiode, berekend onder i tot en met iii, omdat de zorgverzekeraar gedurende meerdere maanden aangesloten bij het college heeft aangeleverd op grond van het aanleverschema bedoeld in [artikel 1, eerste lid van de ‘Beleidsregels aanmelding stuwmeer wanbetalers van de nominale premie Zorgverzekeringswet 2009/2010’](../../../../../../zbo/beleidsregels/aanmelding/stuwmeer/wanbetalers/van/de/nominale/premie/etc/BWBR0026342/README.md), wordt die bijdrage in mindering gebracht op de hoogte van de compensatiebijdrage.       
 6.  Het college stelt op basis van de opgave van de zorgverzekeraar de hoogte van de compensatiebijdrage 2010 vast op het totaal van de compensatiebijdrage berekend in het vijfde lid, onderdeel c, onder aftrek van de bedragen die aan de zorgverzekeraar zijn uitgekeerd in het kader van de compensatieregeling voor wanbetalers in de jaren 2006 tot en met 2009. Daaraan worden toegevoegd de compensatiebedragen voor de wanbetalers waarvan de zorgverzekering is beëindigd vóór 1 januari 2010 of waarmee voor 1 januari 2010 een schuldsanering of betalingsregeling is overeengekomen.   
 7.  Het college keert het resultaat van het zesde lid uiterlijk op 1 oktober 2011 uit.   
 8.  De zorgverzekeraar bedoeld in het eerste lid doet een geactualiseerde opgave uiterlijk op 1 juni 2012 die zonodig de opgave van 1 juni 2011 bedoeld in het vierde lid corrigeert.   
-9.  Het college herziet de vaststelling van de compensatiebijdrage bedoeld in zesde lid, op basis van de opgave bedoeld in het achtste lid. Indien de herziene vaststelling hoger uitkomt dan de eerder met toepassing van het zesde lid vastgestelde compensatiebijdrage verrekent of betaalt het college het verschil uit. Indien de herziene vasttelling lager uitkomt dan de eerder met toepassing van het zesde lid vastgestelde bijdrage verrekent het college het verschil dan wel vordert dit verschil bij de zorgverzekeraar in.   
+9.  Het college herziet de vaststelling van de compensatiebijdrage bedoeld in zesde lid, op basis van de opgave bedoeld in het achtste lid. Indien de herziene vaststelling hoger uitkomt dan de eerder met toepassing van het zesde lid vastgestelde compensatiebijdrage verrekent of betaalt het college het verschil uit. Indien de herziene vasttelling lager uitkomt dan de eerder met toepassing van het zesde lid vastgestelde bijdrage verrekent het college het verschil dan wel vordert dit verschil bij de zorgverzekeraar in.  
 
 ### Artikel  45  
 
 ####Betaling
+
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Het college bepaalt de som van de bestanddelen genoemd in artikel 42, eerste lid, onder a, eerste lid, onder b, eerste lid, onder c en de uitkering genoemd in artikel 42, tweede lid.   
 2.  Het college deelt het resultaat van artikel 14, zesde lid, door het resultaat van het eerste lid.   
@@ -861,7 +963,7 @@ d. het netto te betalen bedrag dat betrekking heeft op de uitkering in verband m
 
 |--- | Bestanddelen betalingen  |
 |:---|:---|
-| Betaalmoment  |  artikel 45 vierde lid, onder a    |  artikel 45 vierde lid, onder b    |  artikel 45 vierde lid, onder c    |  artikel 45 vierde lid, onder d    |
+| Betaalmoment  | artikel 45 vierde lid, onder a   | artikel 45 vierde lid, onder b   | artikel 45 vierde lid, onder c   | artikel 45 vierde lid, onder d   |
 | januari 2010  | --- | 0,5200%  | --- | --- |
 | februari 2010  | 0,9195%  | 2,0800%  | --- | 8,3333%  |
 | maart 2010  | 2,6437%  | 4,1700%  | 8,3333%  | 8,3333%  |
@@ -882,23 +984,26 @@ d. het netto te betalen bedrag dat betrekking heeft op de uitkering in verband m
 | juni 2011  | 0,6898%  | --- | --- | --- |
 
 6.  Voor een zorgverzekeraar, die zich op grond van [artikel 25 Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) aanmeldt bij de Nederlandse Zorgautoriteit nadat het college de bijdragen voor de zorgverzekeraars heeft toegekend, kan het college voor die zorgverzekeraar afwijken van de vorige leden.   
-7.  Het college kan, indien naar zijn oordeel uit nieuwe informatie blijkt dat de verwachting is dat bij de eerstvolgende herberekening of herziening van de bijdrage, de bijdrage meer dan 5 procent hoger zal zijn dan bij de laatst toegekende of voorlopig vastgestelde bijdrage, afwijken van de vorige leden en de betalingen aan een zorgverzekeraar aanpassen.   
+7.  Het college kan, indien naar zijn oordeel uit nieuwe informatie blijkt dat de verwachting is dat bij de eerstvolgende herberekening of herziening van de bijdrage, de bijdrage meer dan 5 procent hoger zal zijn dan bij de laatst toegekende of voorlopig vastgestelde bijdrage, afwijken van de vorige leden en de betalingen aan een zorgverzekeraar aanpassen.  
 
 ### Artikel  46  
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Bij de herberekening en herziening van de toegekende bijdrage 2010 op grond van artikel 16 herziet het college de te betalen termijnen overeenkomstig artikel 45 voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.   
 2.  Bij gelegenheid van de voorlopige vaststelling van de bijdrage, op grond van hoofdstuk III, herziet het college voor de tweede keer de te betalen termijnen overeenkomstig artikel 45. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de tweede keer herziene termijnen.   
 3.  Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van hoofdstuk IV, herziet het college de te betalen termijnen voor de derde keer overeenkomstig artikel 45. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.   
 4.  Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van hoofdstuk V, stelt het college de te betalen termijnen definitief vast overeenkomstig artikel 45. Het college verrekent het verschil tussen de reeds betaalde termijnen en de definitief te betalen termijnen.   
 5.  Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een positief saldo voor de zorgverzekeraar, betaalt het college dat saldo ineens aan de zorgverzekeraar, behoudens een eventuele verrekening met een vordering op de zorgverzekeraar uit hoofde van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) dan wel de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
-6.  Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) dan wel de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
+6.  Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) dan wel de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
 
 ### Artikel  47  
+Materieel uitgewerkt per 01-01-2012 
 
 1.  De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in artikel 46.   
-2.  De rente, bedoeld in het eerste lid, wordt bij de voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.   
+2.  De rente, bedoeld in het eerste lid, wordt bij de voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.  
 
 ### Artikel  48  
+Materieel uitgewerkt per 01-01-2012 
 
 1.  Bij de verrekening van verschillen, bedoeld in artikel 46, tweede, derde en vierde lid, berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.   
 2.  Bij de verrekening van de verschillen, bedoeld in artikel 46, tweede lid, berekent het college rente vanaf de betaaldata, genoemd in artikel 45 en artikel 46, eerste en tweede lid tot de datum van de voorlopige vaststelling van de bijdrage.   
@@ -907,27 +1012,33 @@ d. het netto te betalen bedrag dat betrekking heeft op de uitkering in verband m
 5.  Voor een zorgverzekeraar waarvoor krachtens artikel 46, vierde en vijfde lid, afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.   
 6.  Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede en derde lid. Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.   
 7.  De rente betreft een samengestelde rente en wordt op maandbasis berekend. Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.   
-8.  Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euro Interbank Offered Rate (Euribortarief) niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.   
+8.  Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euro Interbank Offered Rate (Euribortarief) niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.  
 
 ### Hoofdstuk  VIII  
 
 ####Slotbepalingen
 
-### Artikel  49  
+Materieel uitgewerkt per 01-01-2012 
 
-Deze beleidsregels treden in werking met ingang van 1 januari 2010.  
+### Artikel  49  
+Materieel uitgewerkt per 01-01-2012 
+
+Deze beleidsregels treden in werking met ingang van 1 januari 2010. 
 
 ### Artikel  50  
+Materieel uitgewerkt per 01-01-2012 
 
-Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2010.  
+Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2010. 
 Deze beleidsregels worden in de Staatscourant geplaatst.  
 
 Voorzitter Raad van Bestuur, 
-P.C.Hermans  
+P.C. Hermans    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####Prevalentie-ontwikkeling 2009-2010 per morbiditeitsrisicoklasse per FKG 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 | Mannen  | 0  | 1  | 2  | 3  | 4  | 5  | Leeftijd  |--- | Glaucoom  | Schildklieraandoeningen  | Psychische aandoeningen  | Hoog cholesterol  | Diabetes type IIb  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -1001,11 +1112,13 @@ P.C.Hermans
 | 60 t/m 74  | 1,180416  | 1,011153  | 1,191486  |
 | 75 e.o.  | 1,616879  | 1,202640  | 0,970127  |
 
-Bron: College voor zorgverzekeringen 
+Bron: College voor zorgverzekeringen
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####Toewijzing FKG’s 2010 in het geval van samenloop van FKG’s diabetes (diabetes I, diabetes IIa of diabetes IIb)
+
+Materieel uitgewerkt per 01-01-2012 
 
 | Diabetes I  | Diabetes II  | Hypertensie  | Toewijzing FKG  |
 |:---|:---|:---|:---|
@@ -1018,15 +1131,17 @@ Bron: College voor zorgverzekeringen
 | <180  | <180  | >180  | Geen  |
 | <180  | <180  | <180  | Geen  |
 
-Bron: College voor zorgverzekeringen 
+Bron: College voor zorgverzekeringen
 
 ####Toelichting
 
-Groter of kleiner dan 180 verwijst naar de dagdosering voor de betreffende FKG. De tabel beschrijft de verschillende situaties die mogelijk zijn bij een samenloop van farmaciegebruik voor diabetes en hypertensie. In de laatste kolom staat aangegeven welke FKG’s toegewezen worden in de betreffende situatie.  
+Groter of kleiner dan 180 verwijst naar de dagdosering voor de betreffende FKG. De tabel beschrijft de verschillende situaties die mogelijk zijn bij een samenloop van farmaciegebruik voor diabetes en hypertensie. In de laatste kolom staat aangegeven welke FKG’s toegewezen worden in de betreffende situatie. 
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag kosten van B-dbc’s 
 
@@ -1053,11 +1168,13 @@ Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) v
 | 85 t/m 89 jaar  | 878,57  | 676,47  |
 | 90 jaar en ouder  | 700,69  | 449,51  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  4  
+### Bijlage 4 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag kosten van B-dbc’s 
 
@@ -1088,11 +1205,13 @@ Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelb
 | 22  | Nieraandoeningen  | 370,04  |
 | 23  | Groeihormonen  | –97,75  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  5  
+### Bijlage 5 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag kosten van B-dbc’s 
 
@@ -1113,11 +1232,13 @@ Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelb
 | 12  | 689,54  |
 | 13  | 674,49  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  6  
+### Bijlage 6 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag kosten van B-dbc’s 
 
@@ -1141,11 +1262,13 @@ Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) v
 | --- | 45–54 jaar  | –9,68  |
 | --- | 55–64 jaar  | –25,45  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  7  
+### Bijlage 7 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag kosten van B-dbc’s 
 
@@ -1162,11 +1285,13 @@ Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedr
 | Klasse 9  | –8,91  |
 | Klasse 10  | –18,59  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  8  
+### Bijlage 8 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag kosten van B-dbc’s 
 
@@ -1175,21 +1300,23 @@ Gewichten voor het criterium sociaal economische status (in euro’s per verzeke
 | > 15 bewoners  | 0–17 jaar  | 1,88  |
 | --- | 18–64 jaar  | –75,41  |
 | --- | 65+  | –255,64  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 1,88  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 1,88  |
 | --- | 18–64 jaar  | 30,06  |
 | --- | 65+  | 89,78  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –0,02  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –0,02  |
 | --- | 18–64 jaar  | 15,43  |
 | --- | 65+  | –5,56  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –7,23  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –7,23  |
 | --- | 18–64 jaar  | –36,10  |
 | --- | 65+  | –33,67  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  9  
+### Bijlage 9 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -1216,11 +1343,13 @@ Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) v
 | 85 t/m 89 jaar  | 1.080,65  | 816,66  |
 | 90 jaar en ouder  | 1.069,94  | 750,36  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  10  
+### Bijlage 10 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -1253,9 +1382,11 @@ Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelb
 
 Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
 
-### Bijlage  11  
+### Bijlage 11 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -1276,11 +1407,13 @@ Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelb
 | 12  | 8.145,15  |
 | 13  | 53.143,19  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  12  
+### Bijlage 12 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -1304,11 +1437,13 @@ Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) v
 | --- | 45–54 jaar  | –34,64  |
 | --- | 55–64 jaar  | –51,07  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  13  
+### Bijlage 13 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -1325,11 +1460,13 @@ Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedr
 | Klasse 9  | –27,43  |
 | Klasse 10  | –38,69  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  14  
+### Bijlage 14 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -1338,21 +1475,23 @@ Gewichten voor het criterium sociaal economische status (in euro’s per verzeke
 | > 15 bewoners  | 0–17 jaar  | 11,50  |
 | --- | 18–64 jaar  | 82,68  |
 | --- | 65+  | 49,62  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 11,50  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 11,50  |
 | --- | 18–64 jaar  | 20,32  |
 | --- | 65+  | 181,16  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –9,98  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –9,98  |
 | --- | 18–64 jaar  | 1,31  |
 | --- | 65+  | –47,89  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –13,65  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –13,65  |
 | --- | 18–64 jaar  | –17,11  |
 | --- | 65+  | –71,28  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  15  
+### Bijlage 15 
 
 ####van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -1375,11 +1514,13 @@ Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) v
 | 85 t/m 89 jaar  | 185,76  | 185,76  |
 | 90 jaar en ouder  | 185,76  | 185,76  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  16  
+### Bijlage 16 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium FKG psychische aandoeningen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -1388,11 +1529,13 @@ Gewichten voor het criterium FKG psychische aandoeningen (in euro’s per verzek
 | Geen FKG  | –34,35  |
 | FKG Psychische aandoeningen  | 747,92  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  17  
+### Bijlage 17 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -1416,11 +1559,13 @@ Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) v
 | --- | 45–54 jaar  | –34,10  |
 | --- | 55–64 jaar  | –12,93  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  18  
+### Bijlage 18 
 
 ####van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium GGZ-regio (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -1437,11 +1582,13 @@ Gewichten voor het criterium GGZ-regio (in euro’s per verzekerde) voor het dee
 | Klasse 9  | –11,52  |
 | Klasse 10  | –11,52  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  19  
+### Bijlage 19 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -1450,21 +1597,23 @@ Gewichten voor het criterium sociaal economische status (in euro’s per verzeke
 | > 15 bewoners  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | 2.507,50  |
 | --- | 65+  | 375,85  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | –9,33  |
 | --- | 65+  | 0,67  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | –3,65  |
 | --- | 65+  | –16,37  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | –33,61  |
 | --- | 65+  | –16,37  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  20  
+### Bijlage 20 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium woonachtig in Nederland op een eenpersoonsadres (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -1473,11 +1622,13 @@ Gewichten voor het criterium woonachtig in Nederland op een eenpersoonsadres (in
 | Niet  | –19,67  |
 | Wel  | 86,86  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  21  
+### Bijlage 21 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium GGZ-kosten lage drempelklasse voor het deelbedrag geneeskundige GGZ 
 
@@ -1486,11 +1637,13 @@ Gewichten voor het criterium GGZ-kosten lage drempelklasse voor het deelbedrag g
 | 0  | Niet  | –44,20  |
 | 1  | Wel  | 853,99  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en eigen berekening CVZ 
+Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en eigen berekening CVZ
 
-### Bijlage  22  
+### Bijlage 22 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium GGZ-kosten hoge drempelklasse voor het deelbedrag geneeskundige GGZ 
 
@@ -1499,11 +1652,13 @@ Gewichten voor het criterium GGZ-kosten hoge drempelklasse voor het deelbedrag g
 | 0  | Niet  | –59,65  |
 | 1  | Wel  | 4.069,83  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering en eigen berekening CVZ](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 5 van de Regeling zorgverzekering en eigen berekening CVZ](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  23  
+### Bijlage 23 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium jonger dan 18 jaar voor het deelbedrag geneeskundige GGZ 
 
@@ -1512,11 +1667,13 @@ Gewichten voor het criterium jonger dan 18 jaar voor het deelbedrag geneeskundi
 | Wel  | 153,47  |
 | Niet  | Nihil  |
 
-Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 5 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  24  
+### Bijlage 24 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties) 
 
@@ -1612,11 +1769,13 @@ Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) v
 | 85 t/m 89 jaar  | 0,00  | 561,62  | 441,13  | 1.541,20  |
 | 90 jaar en ouder  | 0,00  | 550,63  | 611,03  | 1.778,74  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  25  
+### Bijlage 25 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties) 
 
@@ -1702,11 +1861,13 @@ Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelb
 | 22  | Nieraandoeningen  | 3.886,34  | 151,11  | 4.512,39  |
 | 23  | Groeihormonen  | 18.404,99  | 769,69  | 19.354,57  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  26  
+### Bijlage 26 
 
 ####van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties) 
 
@@ -1727,11 +1888,13 @@ Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelb
 | 12  | 213,31  | 0,20  | –0,90  | 108,80  | 555,47  | –1,86  | 4.300,78  | 526,30  | 5.702,10  |
 | 13  | –1,24  | –2,19  | –1,21  | 26,98  | 3.148,14  | –0,53  | 2.100,57  | 309,54  | 5.580,06  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
 ### Bijlage  27  
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het criterium Aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties) 
 
@@ -1915,11 +2078,13 @@ Gewichten voor het criterium Aard van het inkomen (in euro’s per verzekerde) v
 | --- | 45–54 jaar  | –50,68  |
 | --- | 55–64 jaar  | –74,10  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  28  
+### Bijlage 28 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties) 
 
@@ -1936,11 +2101,13 @@ Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedr
 | 9  | –0,87  | –0,91  | –0,39  | –0,25  | 1,75  | 0,77  | –10,00  | –0,28  | –10,18  |
 | 10  | –0,64  | –2,49  | –1,14  | –1,59  | 4,25  | 0,15  | –19,95  | –1,48  | –22,89  |
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  29  
+### Bijlage 29 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties) 
 
@@ -1949,13 +2116,13 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | 2,39  |
 | --- | 18–64 jaar  | –38,58  |
 | --- | 65+  | 30,74  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 2,39  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 2,39  |
 | --- | 18–64 jaar  | 6,51  |
 | --- | 65+  | 24,14  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –0,80  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –0,80  |
 | --- | 18–64 jaar  | 2,34  |
 | --- | 65+  | –4,05  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –6,77  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –6,77  |
 | --- | 18–64 jaar  | –6,37  |
 | --- | 65+  | –16,28  |
 
@@ -1964,13 +2131,13 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | 5,81  |
 | --- | 18–64 jaar  | 9,16  |
 | --- | 65+  | –14,04  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 5,81  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 5,81  |
 | --- | 18–64 jaar  | 2,98  |
 | --- | 65+  | 7,01  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –3,14  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –3,14  |
 | --- | 18–64 jaar  | 2,23  |
 | --- | 65+  | 3,43  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –12,77  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –12,77  |
 | --- | 18–64 jaar  | –4,61  |
 | --- | 65+  | –9,89  |
 
@@ -1979,13 +2146,13 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | –4,30  |
 | --- | 65+  | 0,00  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | 4,50  |
 | --- | 65+  | 0,00  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | 2,37  |
 | --- | 65+  | 0,00  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | –5,59  |
 | --- | 65+  | 0,00  |
 
@@ -1994,13 +2161,13 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | 3,36  |
 | --- | 18–64 jaar  | –12,77  |
 | --- | 65+  | 69,61  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 3,36  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 3,36  |
 | --- | 18–64 jaar  | –0,06  |
 | --- | 65+  | 7,41  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –2,25  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –2,25  |
 | --- | 18–64 jaar  | 0,51  |
 | --- | 65+  | –5,57  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –6,03  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –6,03  |
 | --- | 18–64 jaar  | –0,28  |
 | --- | 65+  | –4,63  |
 
@@ -2009,13 +2176,13 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | 1,48  |
 | --- | 18–64 jaar  | 47,83  |
 | --- | 65+  | 86,04  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 1,48  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 1,48  |
 | --- | 18–64 jaar  | 3,60  |
 | --- | 65+  | 32,17  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –1,03  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –1,03  |
 | --- | 18–64 jaar  | 1,28  |
 | --- | 65+  | –7,96  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –2,54  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –2,54  |
 | --- | 18–64 jaar  | –4,72  |
 | --- | 65+  | –22,55  |
 
@@ -2024,13 +2191,13 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | –9,16  |
 | --- | 65+  | 0,00  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | 8,89  |
 | --- | 65+  | 0,00  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | 6,33  |
 | --- | 65+  | 0,00  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | –12,77  |
 | --- | 65+  | 0,00  |
 
@@ -2039,13 +2206,13 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | 1,52  |
 | --- | 18–64 jaar  | –103,41  |
 | --- | 65+  | 121,46  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 1,52  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 1,52  |
 | --- | 18–64 jaar  | 3,07  |
 | --- | 65+  | 36,80  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –1,23  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –1,23  |
 | --- | 18–64 jaar  | 2,79  |
 | --- | 65+  | –12,68  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –2,08  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –2,08  |
 | --- | 18–64 jaar  | –3,29  |
 | --- | 65+  | –22,40  |
 
@@ -2054,13 +2221,13 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | –0,07  |
 | --- | 18–64 jaar  | 6,19  |
 | --- | 65+  | 265,97  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | –0,07  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | –0,07  |
 | --- | 18–64 jaar  | 1,94  |
 | --- | 65+  | 47,50  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –0,31  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –0,31  |
 | --- | 18–64 jaar  | 1,63  |
 | --- | 65+  | –16,14  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | 1,21  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | 1,21  |
 | --- | 18–64 jaar  | –3,20  |
 | --- | 65+  | –41,99  |
 
@@ -2069,21 +2236,23 @@ Gewichten voor de sociaal economische status klasse (in euro’s per verzekerde)
 | > 15 bewoners  | 0–17 jaar  | 14,49  |
 | --- | 18–64 jaar  | –105,04  |
 | --- | 65+  | 559,78  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 14,49  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 14,49  |
 | --- | 18–64 jaar  | 31,43  |
 | --- | 65+  | 155,03  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –8,76  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –8,76  |
 | --- | 18–64 jaar  | 19,48  |
 | --- | 65+  | –42,97  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –28,98  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –28,98  |
 | --- | 18–64 jaar  | –40,83  |
 | --- | 65+  | –117,74  |
 
 Bron: [Bijlage 4 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
 
-### Bijlage  30  
+### Bijlage 30 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor de eigen risico opbrengst per verzekerde per risicoklasse naar leeftijd en geslacht (in euro’s per verzekerde) 
 
@@ -2105,11 +2274,13 @@ Gewichten voor de eigen risico opbrengst per verzekerde per risicoklasse naar le
 | 85 t/m 89 jaar  | 152,33  | 149,17  |
 | 90 jaar en ouder  | 149,53  | 141,16  |
 
-Bron: [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  31  
+### Bijlage 31 
 
 ####van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor de eigen risico opbrengst per verzekerde per risicoklasse naar Aard van het inkomen (in euro’s per verzekerde) 
 
@@ -2133,11 +2304,13 @@ Gewichten voor de eigen risico opbrengst per verzekerde per risicoklasse naar Aa
 | --- | 45–54 jaar  | –1,89  |
 | --- | 55–64 jaar  | –2,44  |
 
-Bron: [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  32  
+### Bijlage 32 
 
 ####van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 Gewichten voor de eigen risico opbrengst per verzekerde per risicoklasse naar regio (in euro’s per verzekerde) 
 
@@ -2154,11 +2327,13 @@ Gewichten voor de eigen risico opbrengst per verzekerde per risicoklasse naar re
 | Klasse 9  | –1,72  |
 | Klasse 10  | –1,55  |
 
-Bron: [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 7 van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  33  
+### Bijlage 33 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag kosten van B–dbc’s 
 
@@ -2186,11 +2361,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 85 t/m 89 jaar  | 887,49  | 698,39  |
 | 90 jaar en ouder  | 721,84  | 472,58  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  34  
+### Bijlage 34 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag kosten van B–dbc’s 
 
@@ -2221,11 +2398,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 22  | Nieraandoeningen  | 120,88  |
 | 23  | Groeihormonen  | –109,19  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  35  
+### Bijlage 35 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag kosten van B–dbc’s 
 
@@ -2246,11 +2425,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 12  | 515,33  |
 | 13  | –149,26  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  36  
+### Bijlage 36 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag kosten van B–dbc’s 
 
@@ -2274,11 +2455,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | --- | 45–54 jaar  | –8,72  |
 | --- | 55–64 jaar  | –23,31  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  37  
+### Bijlage 37 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag kosten van B–dbc’s 
 
@@ -2295,11 +2478,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | Klasse 9  | –9,63  |
 | Klasse 10  | –18,27  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  38  
+### Bijlage 38 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag kosten van B–dbc’s 
 
@@ -2308,21 +2493,23 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | > 15 bewoners  | 0–17 jaar  | 2,00  |
 | --- | 18–64 jaar  | –79,66  |
 | --- | 65+  | –268,66  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 2,00  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 2,00  |
 | --- | 18–64 jaar  | 30,56  |
 | --- | 65+  | 83,47  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –0,04  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –0,04  |
 | --- | 18–64 jaar  | 15,90  |
 | --- | 65+  | –4,10  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –7,60  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –7,60  |
 | --- | 18–64 jaar  | –36,87  |
 | --- | 65+  | –29,54  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  39  
+### Bijlage 39 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -2349,11 +2536,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 85 t/m 89 jaar  | 1.311,76  | 992,78  |
 | 90 jaar en ouder  | 1.295,65  | 928,39  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  40  
+### Bijlage 40 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -2384,11 +2573,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 22  | Nieraandoeningen  | 2.932,01  |
 | 23  | Groeihormonen  | 834,31  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  41  
+### Bijlage 41 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -2409,11 +2600,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 12  | 5.647,02  |
 | 13  | 19.333,55  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  42  
+### Bijlage 42 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -2437,11 +2630,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | --- | 45–54 jaar  | –30,88  |
 | --- | 55–64 jaar  | –46,92  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  43  
+### Bijlage 43 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -2458,11 +2653,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | Klasse 9  | –30,07  |
 | Klasse 10  | –42,13  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  44  
+### Bijlage 44 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 
 
@@ -2471,21 +2668,23 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | > 15 bewoners  | 0–17 jaar  | 9,53  |
 | --- | 18–64 jaar  | 92,42  |
 | --- | 65+  | 67,91  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 9,53  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 9,53  |
 | --- | 18–64 jaar  | 17,87  |
 | --- | 65+  | 179,00  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –8,30  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –8,30  |
 | --- | 18–64 jaar  | 1,87  |
 | --- | 65+  | –46,19  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –11,21  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –11,21  |
 | --- | 18–64 jaar  | –16,15  |
 | --- | 65+  | –74,55  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  45  
+### Bijlage 45 
 
 ####van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -2508,11 +2707,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 85 t/m 89 jaar  | 178,47  | 178,23  |
 | 90 jaar en ouder  | 178,23  | 178,23  |
 
-Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  46  
+### Bijlage 46 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium FKG psychische aandoeningen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -2521,11 +2722,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | Geen FKG  | –34,40  |
 | FKG Psychische aandoeningen  | 749,13  |
 
-Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  47  
+### Bijlage 47 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -2549,11 +2752,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | --- | 45–54 jaar  | –39,07  |
 | --- | 55–64 jaar  | –9,52  |
 
-Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  48  
+### Bijlage 48 
 
 ####van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium GGZ–regio (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -2570,11 +2775,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | Klasse 9  | –19,71  |
 | Klasse 10  | –19,71  |
 
-Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  49  
+### Bijlage 49 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -2583,21 +2790,23 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | > 15 bewoners  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | 739,04  |
 | --- | 65+  | 168,34  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | 5,89  |
 | --- | 65+  | 8,08  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | 10,70  |
 | --- | 65+  | –9,67  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | 0,00  |
 | --- | 18–64 jaar  | –28,42  |
 | --- | 65+  | –9,67  |
 
-Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  50  
+### Bijlage 50 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium woonachtig in Nederland op een eenpersoonsadres (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ 
 
@@ -2608,9 +2817,11 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 
 Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
 
-### Bijlage  51  
+### Bijlage 51 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium GGZ–kosten lage drempelklasse voor het deelbedrag geneeskundige GGZ 
 
@@ -2619,11 +2830,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 0  | Niet  | –55,04  |
 | 1  | Wel  | 1.063,50  |
 
-Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en eigen berekening CVZ 
+Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en eigen berekening CVZ
 
-### Bijlage  52  
+### Bijlage 52 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium GGZ–kosten lage drempelklasse voor het deelbedrag geneeskundige GGZ 
 
@@ -2632,11 +2845,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 0  | Niet  | –40,87  |
 | 1  | Wel  | 2.788,04  |
 
-Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en eigen berekening CVZ 
+Bron: [Bijlage 6B van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en eigen berekening CVZ
 
-### Bijlage  53  
+### Bijlage 53 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties 
 
@@ -2664,11 +2879,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 85 t/m 89 jaar  | 1.537,34  | 1.602,30  |
 | 90 jaar en ouder  | 1.808,24  | 1.850,75  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  54  
+### Bijlage 54 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties 
 
@@ -2699,11 +2916,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 22  | Nieraandoeningen  | 3.283,24  |
 | 23  | Groeihormonen  | 15.848,77  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  55  
+### Bijlage 55 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties 
 
@@ -2724,11 +2943,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | 12  | 3.885,46  |
 | 13  | 1.156,06  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  56  
+### Bijlage 56 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het criterium Aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties 
 
@@ -2752,11 +2973,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | --- | 45–54 jaar  | –47,20  |
 | --- | 55–64 jaar  | –69,08  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  57  
+### Bijlage 57 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties 
 
@@ -2773,11 +2996,13 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | Klasse 9  | –10,28  |
 | Klasse 10  | –23,27  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
 
-### Bijlage  58  
+### Bijlage 58 
 
 ####van de Beleidsregels vereveningsbijdrage zorgverzekering 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.  Gewichten voor de sociaal economische statusklasse (in euro’s per verzekerde) voor het deelbedrag overige prestaties 
 
@@ -2786,14 +3011,14 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | > 15 bewoners  | 0–17 jaar  | 14,47  |
 | --- | 18–64 jaar  | –95,56  |
 | --- | 65+  | 571,34  |
-| SES 1 (1 <sup>e</sup> t/m 3 <sup>e</sup> deciel)  | 0–17 jaar  | 14,47  |
+| SES 1 (1<sup>e</sup> t/m 3<sup>e</sup> deciel)  | 0–17 jaar  | 14,47  |
 | --- | 18–64 jaar  | 33,82  |
 | --- | 65+  | 154,69  |
-| SES 2 (4 <sup>e</sup> t/m 7 <sup>e</sup> deciel)  | 0–17 jaar  | –8,12  |
+| SES 2 (4<sup>e</sup> t/m 7<sup>e</sup> deciel)  | 0–17 jaar  | –8,12  |
 | --- | 18–64 jaar  | 20,06  |
 | --- | 65+  | –40,94  |
-| SES 3 (8 <sup>e</sup> t/m 10 <sup>e</sup> deciel)  | 0–17 jaar  | –30,90  |
+| SES 3 (8<sup>e</sup> t/m 10<sup>e</sup> deciel)  | 0–17 jaar  | –30,90  |
 | --- | 18–64 jaar  | –43,28  |
 | --- | 65+  | –122,26  |
 
-Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) 
+Bron: [Bijlage 6A van de Regeling zorgverzekering](../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md)
