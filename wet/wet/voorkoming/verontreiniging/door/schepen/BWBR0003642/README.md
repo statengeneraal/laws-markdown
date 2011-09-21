@@ -30,37 +30,41 @@ f. SOLAS-verdrag: het op 1 november 1974 te Londen totstandgekomen Verdrag inza
 
 g. richtlijn havenontvangstvoorzieningen: de bij regeling van Onze Minister aangewezen richtlijn;  
 
-h. schadelijke stof: een stof die, indien zij in zee terecht komt, gevaar kan opleveren voor de gezondheid van de mens, schade kan toebrengen aan het mariene milieu, de recreatiemogelijkheden die de zee biedt kan schaden of storend kan werken op enig ander rechtmatig gebruik van de zee en die bij of krachtens algemene maatregel van bestuur is aangewezen;  
+h. schadelijke stof: stof die valt onder het toepassingsbereik van Bijlage I, II, III, IV of V van het Verdrag.  
 
-i. schip: elk vaartuig, van welk type ook, dat op zee wordt gebruikt waaronder begrepen draagvleugelboten, luchtkussenvoertuigen, afzinkbare vaartuigen en drijvend materieel, alsmede installaties gedurende de tijd dat zij drijven, behoudens wanneer het schip als hierboven bedoeld boven de zeebodem is geplaatst voor het instellen van een onderzoek naar de aanwezigheid van delfstoffen of voor het winnen daarvan;  
+i. ballastwater: water met daarin zwevende deeltjes dat aan boord wordt genomen teneinde de trim, helling, diepgang, stabiliteit van of krachten op het schip te beheersen;  
 
-j. Nederlands schip: een schip dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;  
+j. sedimenten: alle bezinksels uit het ballastwater van een schip;  
 
-k. buitenlands schip: een schip, niet zijnde een Nederlands schip en een schip als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md);  
+k. schip: elk vaartuig, van welk type ook, dat op zee wordt gebruikt waaronder begrepen draagvleugelboten, luchtkussenvoertuigen, afzinkbare vaartuigen en drijvend materieel, alsmede installaties gedurende de tijd dat zij drijven, behoudens wanneer het schip als hierboven bedoeld boven de zeebodem is geplaatst voor het instellen van een onderzoek naar de aanwezigheid van delfstoffen of voor het winnen daarvan;  
 
-l. pleziervaartuig: schip, bestemd of gebruikt voor sport of vrijetijdsbesteding, ongeacht het type en de wijze van voortstuwing;  
+l. Nederlands schip: een schip dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;  
 
-m. vissersvaartuig: schip, uitgerust of met commercieel oogmerk gebruikt voor het vangen van vis of andere levende rijkdommen van de zee;  
+m. buitenlands schip: een schip, niet zijnde een Nederlands schip en een schip als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md);  
 
-n. scheepsafval: afval, met inbegrip van residuen, niet zijnde ladingresiduen, en sanitair afval, dat ontstaat tijdens de bedrijfsvoering van een schip en valt onder de reikwijdte van de Bijlagen I, IV en V van het Verdrag, alsmede ladinggebonden afval, zijnde al het materiaal dat aan boord bij de stuwage en verwerking van lading als afval overblijft, met inbegrip van stuwmateriaal, schoorpalen, laadborden, verpakkingsmateriaal, houten platen, papier, karton, draad en stalen banden;  
+n. pleziervaartuig: schip, bestemd of gebruikt voor sport of vrijetijdsbesteding, ongeacht het type en de wijze van voortstuwing;  
 
-o. ladingresiduen: de restanten van lading in ruimen of tanks aan boord die na het lossen en schoonmaken achterblijven, met inbegrip van restanten na lading of lossing en morsingen;  
+o. vissersvaartuig: schip, uitgerust of met commercieel oogmerk gebruikt voor het vangen van vis of andere levende rijkdommen van de zee;  
 
-p. lozen: elk vrijkomen van schadelijke stoffen van een schip, hoe ook veroorzaakt, waaronder begrepen ontsnappen, overboord zetten, wegvloeien, weglekken, pompen of ledigen;  
+p. scheepsafval: afval, met inbegrip van residuen, niet zijnde ladingresiduen, en sanitair afval, dat ontstaat tijdens de bedrijfsvoering van een schip en valt onder de reikwijdte van de Bijlagen I, IV en V van het Verdrag, alsmede ladinggebonden afval, zijnde al het materiaal dat aan boord bij de stuwage en verwerking van lading als afval overblijft, met inbegrip van stuwmateriaal, schoorpalen, laadborden, verpakkingsmateriaal, houten platen, papier, karton, draad en stalen banden;  
 
-q. voorval: een gebeurtenis die er daadwerkelijk toe leidt of er vermoedelijk toe zal leiden dat in zee wordt geloosd;  
+q. ladingresiduen: de restanten van lading in ruimen of tanks aan boord die na het lossen en schoonmaken achterblijven, met inbegrip van restanten na lading of lossing en morsingen;  
 
-r. haven: een rede, pier of steiger en in het algemeen iedere plaats, al of niet in zee, waar schepen ligplaats kunnen hebben of waar opvarenden en zaken ingescheept of ontscheept kunnen worden;  
+r. lozen: elk vrijkomen van een schip van schadelijke stoffen, ballastwater of sedimenten, hoe ook veroorzaakt, waaronder begrepen ontsnappen, overboord zetten, wegvloeien, weglekken, pompen of ledigen;  
 
-s. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;  
+s. voorval: een gebeurtenis die er daadwerkelijk toe leidt of er vermoedelijk toe zal leiden dat in zee wordt geloosd;  
 
-t. kapitein: de gezagvoerder of schipper van een schip dan wel degene die deze vervangt;  
+t. haven: een rede, pier of steiger en in het algemeen iedere plaats, al of niet in zee, waar schepen ligplaats kunnen hebben of waar opvarenden en zaken ingescheept of ontscheept kunnen worden;  
 
-u. havenontvangstvoorziening: de voorziening, bedoeld in artikel 6, eerste lid, eerste volzin;  
+u. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;  
 
-v. havenbeheerder: de beheerder, bedoeld in artikel 6, eerste lid, eerste volzin;  
+v. kapitein: de gezagvoerder of schipper van een schip dan wel degene die deze vervangt;  
 
-w. havenafvalplan: het plan, bedoeld in artikel 6, derde lid, eerste volzin;  
+w. havenontvangstvoorziening: de voorziening, bedoeld in artikel 6, eerste lid, eerste volzin;  
+
+x. havenbeheerder: de beheerder, bedoeld in artikel 6, eerste lid, eerste volzin;  
+
+y. havenafvalplan: het plan, bedoeld in artikel 6, derde lid, eerste volzin;  
 
 z. richtlijn monitoring- en informatiesysteem zeescheepvaart: de bij regeling van Onze Minister aangewezen richtlijn inzake communautaire monitoring- en informatiesystemen voor de zeescheepvaart.    
 
@@ -99,14 +103,16 @@ Bij algemene maatregel van bestuur kunnen categorieën van schepen geheel of ged
 
 a. verboden lozingen van schadelijke stoffen in zee vanaf schepen;  
 
-b. overige verboden gedragingen vanaf of aan boord van schepen.     
+b. verboden lozingen van ballastwater en sedimenten vanaf schepen;  
+
+c. overige verboden gedragingen vanaf of aan boord van schepen.     
 2.  De bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur te geven regelen kunnen onder meer verschillen al naar gelang deze regelen verschillende categorieën van schepen, te bevaren zeegebieden, te maken reizen of te vervoeren schadelijke stoffen betreffen.   
 3.  De krachtens het eerste lid gestelde regels zijn ook van toepassing op buitenlandse schepen: 
 
 a. in de Nederlandse territoriale zee of, voorzover het in dat lid bedoelde verbod betrekking heeft op de voorschriften van het Verdrag of voorzover met dat verbod toepassing wordt gegeven aan artikel 220 van het VN-Zeerechtverdrag, in de Nederlandse exclusieve economische zone;  
 
 b. in de territoriale zee of de exclusieve economische zone van een vreemde staat dan wel op volle zee, voorzover het in dat lid bedoelde verbod betrekking heeft op de voorschriften van het Verdrag of voorzover met dat verbod toepassing wordt gegeven aan artikel 218 van het VN-Zeerechtverdrag.     
-4.  Bij of krachtens algemene maatregel van bestuur kunnen de krachtens het eerste lid, onderdeel b, gestelde regels ook van toepassing worden verklaard op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen de krachtens het eerste lid, onderdeel c, gestelde regels ook van toepassing worden verklaard op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.   
 
 ### Artikel  6  
 
@@ -129,13 +135,13 @@ c. bij of krachtens algemene maatregel van bestuur aangewezen stoffen, afkomstig
 
 ### Artikel  6a  
 
-1.  De havenbeheerder heft van de exploitant van een schip dat zijn haven aandoet, bij iedere aanloop van dat schip een bijdrage in de kosten van het in die haven in ontvangst nemen, opslaan en verwerken van scheepsafval.   
+1.  De havenbeheerder heft van de exploitant van een schip dat zijn haven aandoet, niet zijnde een pleziervaartuig waarmee niet meer dan twaalf passagiers mogen worden vervoerd of vissersvaartuig, bij iedere aanloop van dat schip een bijdrage in de kosten van het in die haven in ontvangst nemen, opslaan en verwerken van scheepsafval.   
 2.  De hoogte van de bijdrage wordt door de havenbeheerder vastgesteld. Hij doet dit zodanig dat de som van de jaarlijks geheven bijdragen tenminste gelijk is aan het bij regeling van Onze Minister te bepalen percentage van de totale jaarlijkse kosten van het in ontvangst nemen, opslaan en verwerken van scheepsafval in de desbetreffende haven. De havenbeheerder maakt de bijdragen alsmede de grondslagen ervan bekend in het havenafvalplan. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de hoogte van de bijdrage van schepen die door hun milieuzorgsysteem, het ontwerp, de uitrusting of de exploitatie aantoonbaar minder scheepsafval produceren.   
 3.  Het voldoen van de bijdrage geeft de kapitein van het schip het niet overdraagbare recht gedurende het verblijf van het schip in de desbetreffende haven scheepsafval af te geven bij een houder van een havenontvangstvoorziening zonder daarvoor een afzonderlijke vergoeding verschuldigd te zijn. De havenbeheerder kan de hoeveelheid, de eigenschappen en de wijze van afgifte van het desbetreffende scheepsafval bepalen, indien het krachtens het tweede lid bepaalde percentage minder bedraagt dan 100%.   
 4.  De havenbeheerder gaat met de desbetreffende houder van een havenontvangstvoorziening een overeenkomst aan met betrekking tot het overeenkomstig het derde lid af te geven scheepsafval.   
 5.  De havenbeheerder betaalt de kosten met betrekking tot de verwerking van het scheepsafval niet eerder dan na ontvangst van een verklaring van verwerking. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot deze verificatie.   
 6.  De exploitant van een schip vergoedt aan de houder van de havenontvangstvoorziening de kosten van het in ontvangst nemen, opslaan en verwerken van het door de kapitein van dat schip bij de houder afgegeven scheepsafval, schadelijke stoffen of restanten van schadelijke stoffen, voor zover het niet het krachtens het derde lid afgegeven scheepsafval betreft.   
-7.  In afwijking van het eerste lid kunnen bij of krachtens algemene maatregel van bestuur ten aanzien van pleziervaartuigen, waarmee niet meer dan 12 passagiers mogen worden vervoerd, of vissersvaartuigen regels worden gesteld, waarbij de exploitant van een schip aan de beheerder of beheerders van één of meer van de in artikel 6, eerste lid, bedoelde havens een periodieke vergoeding is verschuldigd, ongeacht het aantal malen dat het schip één of meer van die havens aandoet.   
+7.  Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van de pleziervaartuigen of vissersvaartuigen, bedoeld in het eerste lid, regels worden gesteld, waarbij de exploitant van een schip aan de beheerder of beheerders van één of meer van de in artikel 6, eerste lid, bedoelde havens een periodieke vergoeding is verschuldigd, ongeacht het aantal malen dat het schip één of meer van die havens aandoet.   
 8.  Dit artikel is ook van toepassing op buitenlandse schepen.   
 
 ### Artikel  6b  
@@ -163,7 +169,7 @@ a. de onderzoeken waaraan schepen zijn onderworpen ter verkrijging van een certi
 b. de geldigheid van het certificaat en de verlenging van de geldigheidsduur daarvan.     
 3.  De ambtenaren van de Inspectie Verkeer en Waterstaat zijn belast met het verrichten van onderzoeken als bedoeld in het tweede lid, onderdeel a. Deze onderzoeken kunnen tevens geheel of ten dele worden verricht door daartoe door Onze Minister aangewezen natuurlijke personen of rechtspersonen of in bijzondere gevallen, op verzoek van Onze Minister, door de bevoegde autoriteit van een staat die partij is bij het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld.   
 4.  Aan een aanwijzing als bedoeld in het derde lid kunnen voorschriften worden verbonden.   
-5.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot modellen van certificaten, alsmede nadere regels met betrekking tot de bij de aanvraag van een certificaat te verstrekken gegevens en te overleggen bescheiden en de aanwijzing van natuurlijke personen of rechtspersonen krachtens het derde lid.   
+5.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de bij de aanvraag van een certificaat te verstrekken gegevens en te overleggen bescheiden en modellen van certificaten, alsmede nadere regels met betrekking tot de bij de aanvraag van een certificaat te verstrekken gegevens en te overleggen bescheiden en de aanwijzing van natuurlijke personen of rechtspersonen krachtens het derde lid.   
 6.  Dit artikel is ook van toepassing op schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md).   
 
 ### Artikel  8a  
@@ -234,11 +240,11 @@ d. de eisen die van toepassing zijn nadat een schip aan een onderzoek is onderwo
 
 ### Artikel  11  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de zorgplicht van de kapitein van een bij of krachtens die maatregel aangewezen categorie schip ten aanzien van het aan boord bijhouden van een journaal waarin handelingen met betrekking tot het vervoer van schadelijke stoffen en gedragingen als bedoeld in artikel 5, eerste lid, worden aangetekend, en de daarbij in acht te nemen regels ten aanzien van onder meer de gegevens die moeten worden vermeld, de wijze van vermelding, alsmede de plaats waarop en de periode gedurende welke het journaal dient te worden bewaard.   
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de zorgplicht van de kapitein van een bij of krachtens die maatregel aangewezen categorie schip ten aanzien van het aan boord bijhouden van een journaal waarin handelingen met betrekking tot het vervoer van schadelijke stoffen, andere stoffen en gedragingen als bedoeld in artikel 5, eerste lid, worden aangetekend, en de daarbij in acht te nemen regels ten aanzien van onder meer de gegevens die moeten worden vermeld, de wijze van vermelding, alsmede de plaats waarop en de periode gedurende welke het journaal dient te worden bewaard.   
 2.  De kapitein van een schip aan boord waarvan een journaal dient te worden bijgehouden is verplicht de bevoegde autoriteiten op hun verzoek inzage in het journaal te verlenen en dient hun toe te staan van elke in het journaal geplaatste aantekening een eensluidend afschrift te maken. Desgevraagd dient de kapitein het afschrift voor eensluidend te waarmerken.   
 3.  Elk aldus vervaardigd en voor eensluidend gewaarmerkt afschrift van een aantekening in het journaal zal in een gerechtelijke procedure in Nederland als bewijs van de feiten, vermeld in de aantekening, worden toegelaten.   
-4.  Bij of krachtens algemene maatregel van bestuur kunnen de krachtens het eerste lid gestelde regels ook van toepassing worden verklaard op schepen als bedoeld in artikel 2 van de Vaartuigenwet 1930 BES en buitenlandse schepen gedurende de tijd dat deze zich in een Nederlandse haven bevinden.   
-5.  Het bepaalde in het tweede lid is van overeenkomstige toepassing op schepen als bedoeld in artikel 2 van de Vaartuigenwet 1930 BES en buitenlandse schepen die zich in een Nederlandse haven bevinden.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen de krachtens het eerste lid gestelde regels ook van toepassing worden verklaard op schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md) en buitenlandse schepen gedurende de tijd dat deze zich in een Nederlandse haven bevinden.   
+5.  Het bepaalde in het tweede lid is van overeenkomstige toepassing op schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md) en buitenlandse schepen die zich in een Nederlandse haven bevinden.   
 
 ### Artikel  12  
 
@@ -282,7 +288,8 @@ b. er aan boord van het schip voldoende afzonderlijke opslagcapaciteit beschikba
 ### Artikel  12c  
 
 1.  De kapitein van een schip dat een haven aandoet die is aangewezen krachtens artikel 6, eerste lid, geeft de bij of krachtens algemene maatregel van bestuur aan te wijzen schadelijke stoffen dan wel restanten van schadelijke stoffen af bij een havenontvangstvoorziening.   
-2.  Dit artikel is ook van toepassing op buitenlandse schepen en schepen als bedoeld in artikel 2 van de Vaartuigenwet 1930 BES.   
+2.  De kapitein van een schip als bedoeld in het eerste lid, voldoet aan de bij of krachtens algemene maatregel van bestuur te stellen regels ten aanzien van het voorwassen van een tank waaruit schadelijke stoffen zijn gelost.   
+3.  Dit artikel is ook van toepassing op buitenlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md).   
 
 ### Artikel  12d  
 
@@ -329,9 +336,9 @@ b. bij of krachtens algemene maatregel van bestuur aangewezen stoffen, in bij di
 ### Artikel  14  
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat. Zij oefenen ten aanzien van Nederlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md) hun taak overal ter wereld uit.   
-2.  Met het toezicht op de naleving, bedoeld in het eerste lid, zijn tevens belast de bij besluit van Onze Minister voor bepaalde taken aangewezen ambtenaren van andere diensttakken. Indien deze ambtenaren ressorteren onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen door Onze Minister en de Minister van het andere ministerie tezamen.   
+2.  Met het toezicht op de naleving, bedoeld in het eerste lid, zijn voorts belast andere bij regeling van Onze Minister voor bepaalde taken aangewezen personen. Indien dit personen betreft die niet werkzaam zijn onder verantwoordelijkheid van de minister van Verkeer en Waterstaat, behoeft de aanwijzing de instemming van degene onder wiens verantwoordelijkheid zij werken.   
 3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-4.  Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop de in dit artikel bedoelde ambtenaren hun taak uitoefenen.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het toezicht op de naleving.   
 
 ### Artikel  15  
 
@@ -446,7 +453,7 @@ De artikelen 22, 24 en 25 zijn van overeenkomstige toepassing op een buitenlands
 
 ### §  4  
 
-####Ontheffing en vrijstelling
+####Ontheffingen, vrijstellingen en aantekeningen in een journaal
 
 ### Artikel  34  
 
@@ -458,8 +465,8 @@ b. indien het schip niet voldoet aan de voor de verkrijging van dat certificaat 
 
 ### Artikel  35  
 
-1.  Bij regeling van Onze Minister kan voor schepen van een bepaalde categorie vrijstelling worden verleend van één of meer van de bij of krachtens de artikelen 7 of 10 gestelde eisen, zonodig onder het geven van voorschriften en beperkingen, mits zulks zonder gevaar voor het milieu mogelijk is.   
-2.  Onze Minister is bevoegd om in bijzondere gevallen, zo nodig onder het geven van voorschriften en beperkingen, een ontheffing te verlenen van de bij of krachtens de artikelen 7 en 10 gestelde eisen.   
+1.  Bij regeling van Onze Minister kan voor schepen van een bepaalde categorie, met inachtneming van hetgeen dienaangaande in het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld is bepaald, zonodig onder het geven van voorschriften en beperkingen, vrijstelling worden verleend van één of meer van de bij of krachtens de artikelen 5, eerste lid, onderdeel b of c, 7 of 10 gestelde eisen.   
+2.  Onze Minister is bevoegd om in bijzondere gevallen, met inachtneming van hetgeen dienaangaande in het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld is bepaald, zo nodig onder het geven van voorschriften en beperkingen, een ontheffing te verlenen van de bij of krachtens de artikelen 5, eerste lid, onderdeel b of c, 7, 10 of 12c, tweede lid, gestelde eisen.   
 3.  Een gedraging in strijd met de in het eerste of tweede lid bedoelde voorschriften en beperkingen is verboden.   
 
 ### Artikel  35a  
@@ -474,6 +481,11 @@ b. voor die afgifte voldoende bijdragen zijn verschuldigd.
 2.  Een ontheffing als bedoeld in het eerste lid kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.   
 3.  Een gedraging in strijd met de in het tweede lid bedoelde beperkingen en voorschriften is verboden.   
 4.  Dit artikel is ook van toepassing op buitenlandse schepen.   
+
+### Artikel  35b  
+
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de aantekeningen die Onze Minister in een bij of krachtens die maatregel aangewezen journaal maakt.   
+2.  De krachtens het eerste lid gestelde regels zijn ook van toepassing op buitenlandse schepen.   
 
 ### Hoofdstuk  VI  
 

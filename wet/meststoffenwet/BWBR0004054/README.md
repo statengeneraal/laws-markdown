@@ -296,16 +296,18 @@ Een productierecht kan, onder welke titel dan ook, overgaan naar een ander bedri
 
 ### Artikel  26  
 
-1.  Tot 1 januari 2008 kan een productierecht, of een gedeelte daarvan, afkomstig van een bedrijf dat geheel of gedeeltelijk is gelegen in het ene concentratiegebied niet overgaan naar een bedrijf dat geheel of gedeeltelijk is gelegen in het andere concentratiegebied.   
-2.  Tot 1 januari 2008 kan een productierecht, of een gedeelte daarvan, afkomstig van een bedrijf dat geheel of gedeeltelijk is gelegen buiten de concentratiegebieden niet overgaan naar een bedrijf dat geheel of gedeeltelijk is gelegen in een concentratiegebied.   
+1.  Een productierecht, of een gedeelte daarvan, afkomstig van een bedrijf dat geheel of gedeeltelijk is gelegen in het ene concentratiegebied kan niet overgaan naar een bedrijf dat geheel of gedeeltelijk is gelegen in het andere concentratiegebied.   
+2.  Een productierecht, of een gedeelte daarvan, afkomstig van een bedrijf dat geheel of gedeeltelijk is gelegen buiten de concentratiegebieden kan niet overgaan naar een bedrijf dat geheel of gedeeltelijk is gelegen in een concentratiegebied.   
 3.  Een bedrijf is gedeeltelijk gelegen in een concentratiegebied, als een of meer voor de varkens-, kippen- of kalkoenenhouderij bestemde stallen in dat gebied zijn gelegen.   
 4.  In zoverre in afwijking van het eerste lid kan een productierecht, of een gedeelte daarvan, afkomstig van een bedrijf dat geheel is gelegen in een van de concentratiegebieden overgaan naar een bedrijf dat in beide concentratiegebieden is gelegen, onder de voorwaarde dat het productierecht, of gedeelte daarvan, na overgang uitsluitend wordt gebruikt ten behoeve van de varkens-, kippen- of kalkoenenhouderij op een locatie die in hetzelfde concentratiegebied is gelegen als het bedrijf waarvan het afkomstig is.   
 5.  Het eerste en het tweede lid gelden niet ingeval van overgang van het productierecht bij een samenvoeging van bedrijven.   
-6.  Het is tot 1 januari 2008 verboden om binnen een bedrijf de varkens-, kippen- of kalkoenenhouderij te verplaatsen: 
+6.  Het is verboden om binnen een bedrijf de varkens-, kippen- of kalkoenenhouderij te verplaatsen: 
 
 a. van een locatie gelegen buiten de concentratiegebieden naar een locatie gelegen in een concentratiegebied, of  
 
 b. van een locatie gelegen in het ene concentratiegebied naar een locatie gelegen in het andere concentratiegebied.     
+7.  Het eerste, tweede en zesde lid zijn niet van toepassing voor zover een bedrijf dat geheel of gedeeltelijk is gelegen in een concentratiegebied de geproduceerde hoeveelheid dierlijke meststoffen in verband met het productierecht of gedeelte daarvan dat overgaat, dan wel de varkens-, kippen- of kalkoenhouderij die wordt verplaatst, zelf verwerkt door middel van mestverwerking of mestvergisting en deze hoeveelheid buiten de markt voor dierlijke mest wordt gehouden.   
+8.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ter uitvoering van het zevende lid.   
 
 ### Artikel  27  
 
@@ -459,7 +461,7 @@ b. de kosten van het onderzoek voortvloeiende uit de aanvraag geheel of gedeelte
 
 ### Artikel  42  
 
-Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit als bedoeld in artikel 51, eerste lid, kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
+Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit als bedoeld in artikel 51 kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
 
 ### Artikel  43  
 
@@ -516,7 +518,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ### Artikel  51  
 
-Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van de artikelen 7, 9, tweede lid, 11, vijfde lid, 13, derde lid, 14, eerste lid, 15, 34, 35, 36, 37, 38, derde lid, of 40.  
+Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 7, 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 14, eerste lid, 15, 34, 35, 36, 37, 38, derde lid, of 40.  
 
 ### Artikel  55  
 
@@ -552,8 +554,9 @@ c. € 11 per kilogram fosfaat waarmee de in artikel 8, onderdeel c, bedoelde f
 
 ### Artikel  62  
 
-1.  Ingeval van overtreding van artikel 7 of 14, eerste lid, bedraagt de bestuurlijke boete ten hoogste € 45 000 per overtreding begaan door een natuurlijke persoon en ten hoogste € 450 000 per overtreding begaan door een rechtspersoon, een vennootschap zonder rechtspersoonlijkheid of een maatschap.   
-2.  Ingeval van overtreding van het bij of krachtens artikel 9, tweede lid, 11, vijfde lid, 13, derde lid, 15, 34, 35, 36, 37, 38, derde lid, of 40 bepaalde bedraagt de bestuurlijke boete ten hoogste € 11 250 per overtreding begaan door een natuurlijke persoon en ten hoogste € 45 000 per overtreding begaan door een rechtspersoon, een vennootschap zonder rechtspersoonlijkheid of een maatschap.   
+1.  De op grond van artikel 57 of 58 te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een rechtspersoon of een vennootschap.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen ten hoogste kan worden opgelegd ter zake van overtreding van het bij of krachtens artikel 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 15, 34, 35, 36, 37, 38, derde lid, of 40 bepaalde.   
+3.  De op grond van het tweede lid te bepalen bestuurlijke boete bedraagt per overtreding ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
 
 ### §  3  
 
@@ -569,7 +572,20 @@ Onze Minister kan de bestuurlijke boete verrekenen met te verstrekken subsidies 
 
 ### Hoofdstuk  IX  
 
-####Slotbepalingen
+####Overgangs- en slotbepalingen
+
+### Artikel  74  
+
+1.  Voor de toepassing van de artikelen 19 en 20, eerste lid, wordt ten aanzien van een bedrijf dat geheel of gedeeltelijk is gelegen in een concentratiegebied, van het op dat bedrijf rustende varkensrecht onderscheidenlijk pluimveerecht dat deel buiten beschouwing gelaten dat in de periode met ingang van 23 april 2010 tot het tijdstip van inwerkingtreding van dit artikel, is overgegaan van een bedrijf dat geheel of gedeeltelijk is gelegen buiten dat concentratiegebied.   
+2.  Het is verboden varken, kippen of kalkoenen te houden op een locatie gelegen in een concentratiegebied indien deze varkens-, kippen- of kalkoenenhouderij na 22 april 2010 binnen een bedrijf is verplaatst van een locatie gelegen buiten dat concentratiegebied.   
+
+### Artikel  75  
+
+Artikel 74, eerste lid, is niet van toepassing indien met betrekking tot de in dat lid bedoelde overgang: 
+
+a. vóór 23 april 2010 een kennisgeving als bedoeld in artikel 27, eerste lid, heeft plaatsgevonden; of  
+
+b. vóór 23 april 2010 een schriftelijke overeenkomst is gesloten en vóór 8 mei 2010 een kennisgeving als bedoeld in artikel 27, eerste lid, heeft plaatsgevonden.    
 
 ### Artikel  76  
 
