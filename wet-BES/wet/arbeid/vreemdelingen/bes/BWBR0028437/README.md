@@ -10,21 +10,21 @@
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
+a.  *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-b.  *werkgever:*  
+b. *werkgever:*
 
 1. degene die in de uitoefening van een beroep of bedrijf een ander arbeid laat verrichten; of  
 
 2. de natuurlijke persoon die een ander huishoudelijke of persoonlijke diensten laat verrichten;    
 
-c. *tewerkstellingsvergunning:* de vergunning welke de werkgever moet aanvragen bij Onze Minister voor het laten verrichten van arbeid door een vreemdeling;  
+c.  *tewerkstellingsvergunning:* de vergunning welke de werkgever moet aanvragen bij Onze Minister voor het laten verrichten van arbeid door een vreemdeling;  
 
-d. *verblijfsvergunning:* de verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd, bedoeld in [artikel 6, eerste lid, van de Wet toelating en uitzetting BES](../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md);  
+d.  *verblijfsvergunning:* de verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd, bedoeld in [artikel 6, eerste lid, van de Wet toelating en uitzetting BES](../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md);  
 
-e. *vreemdeling:* een persoon die op grond van de bepalingen van de [Wet toelating en uitzetting BES](../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) hetzij van rechtswege toelating heeft tot verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba, hetzij voor toelating een verblijfsvergunning behoeft;  
+e.  *vreemdeling:* een persoon die op grond van de bepalingen van de [Wet toelating en uitzetting BES](../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) hetzij van rechtswege toelating heeft tot verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba, hetzij voor toelating een verblijfsvergunning behoeft;  
 
-f. *lokale arbeidsmarkt:* de arbeidsmarkten van de openbare lichamen Bonaire, Sint Eustatius en Saba samen.    
+f.  *lokale arbeidsmarkt:* de arbeidsmarkten van de openbare lichamen Bonaire, Sint Eustatius en Saba samen.   
 
 ### Hoofdstuk  II  
 
@@ -37,7 +37,7 @@ f. *lokale arbeidsmarkt:* de arbeidsmarkten van de openbare lichamen Bonaire, Si
 ### Artikel  2  
 
 1.  Het is een werkgever verboden een vreemdeling arbeid te laten verrichten zonder tewerkstellingsvergunning.   
-2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing met betrekking tot een vreemdeling ten aanzien van wie tevens een ander als werkgever optreedt, indien die ander beschikt over een voor de desbetreffende arbeid geldige tewerkstellingsvergunning.   
+2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing met betrekking tot een vreemdeling ten aanzien van wie tevens een ander als werkgever optreedt, indien die ander beschikt over een voor de desbetreffende arbeid geldige tewerkstellingsvergunning.  
 
 ### Artikel  3  
 
@@ -51,7 +51,7 @@ c. ten aanzien van wie, ingevolge bepalingen vastgesteld bij overeenkomsten met 
 
 d. die beschikt over een door of namens Onze Minister van Justitie afgegeven verblijfsvergunning voor het verrichten van arbeid als zelfstandige in het desbetreffende eilandgebied, voor zover deze vreemdeling arbeid verricht als zelfstandige;  
 
-e. die behoort tot een bij algemene maatregel van bestuur aangewezen categorie, die per openbaar lichaam kan verschillen, dan wel bij een algemene maatregel van bestuur aangewezen categorie van werkzaamheden verricht, welke categorie per openbaar lichaam kan verschillen.    
+e. die behoort tot een bij algemene maatregel van bestuur aangewezen categorie, die per openbaar lichaam kan verschillen, dan wel bij een algemene maatregel van bestuur aangewezen categorie van werkzaamheden verricht, welke categorie per openbaar lichaam kan verschillen.   
 
 ### §  2  
 
@@ -59,7 +59,7 @@ e. die behoort tot een bij algemene maatregel van bestuur aangewezen categorie, 
 
 ### Artikel  4  
 
-Onze Minister is bevoegd tot het verlenen, verlengen en intrekken van tewerkstellingsvergunningen.  
+Onze Minister is bevoegd tot het verlenen, verlengen en intrekken van tewerkstellingsvergunningen. 
 
 ### Artikel  5  
 
@@ -92,7 +92,7 @@ d. ten behoeve van vreemdelingen die beschikken over een voor het verrichten van
 
 e. ten behoeve van vreemdelingen die een aanvraag hebben ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met internationale bescherming.     
 9.  De tewerkstellingsvergunning vermeldt de naam en de plaats van vestiging van de werkgever, de persoonsgegevens van de vreemdeling, de geldigheidsduur van de tewerkstellingsvergunning, alsmede een omschrijving van de aard en de plaats van de door de vreemdeling te verrichten arbeid.   
-10.  Op een aanvraag wordt uiterlijk binnen vijf weken na ontvangst beslist.   
+10.  Op een aanvraag wordt uiterlijk binnen vijf weken na ontvangst beslist.  
 
 ### §  3  
 
@@ -106,7 +106,7 @@ e. ten behoeve van vreemdelingen die een aanvraag hebben ingediend tot het verle
 a. de werkgever inspanningen pleegt arbeidsplaatsen te doen vervullen door arbeidskrachten die op de lokale arbeidsmarkt beschikbaar zijn;  
 
 b. door de werkgever in de arbeidsvoorwaarden, arbeidsverhoudingen of arbeidsomstandigheden voor de vervulling van arbeidsplaatsen door arbeidskrachten die op de lokale arbeidsmarkt beschikbaar zijn, gelegen beletselen worden opgeheven.     
-3.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het eerste en tweede lid.   
+3.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het eerste en tweede lid.  
 
 ### §  4  
 
@@ -116,7 +116,7 @@ b. door de werkgever in de arbeidsvoorwaarden, arbeidsverhoudingen of arbeidsoms
 
 1.  Een tewerkstellingsvergunning wordt voor ten hoogste drie jaar verleend.   
 2.  Een tewerkstellingsvergunning kan worden verlengd, waarbij de gehele duur van de tewerkstellingsvergunning en de verlenging de termijn van drie jaar niet overschrijdt.   
-3.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat voor de daarbij aangewezen categorieën van vreemdelingen of categorieën van werkzaamheden een tewerkstellingsvergunning die voor minder dan drie jaar is verleend, niet wordt verlengd.   
+3.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat voor de daarbij aangewezen categorieën van vreemdelingen of categorieën van werkzaamheden een tewerkstellingsvergunning die voor minder dan drie jaar is verleend, niet wordt verlengd.  
 
 ### §  5  
 
@@ -148,7 +148,7 @@ c. vanwege de aard van de te verrichten werkzaamheden;
 
 d. ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige verblijfsvergunning;  
 
-e. ten behoeve van vreemdelingen die een aanvraag hebben ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met internationale bescherming.     
+e. ten behoeve van vreemdelingen die een aanvraag hebben ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met internationale bescherming.    
 
 ### Artikel  9  
 
@@ -162,7 +162,7 @@ c. indien voorzienbaar is dat binnen een redelijke termijn voor de desbetreffend
 
 d. wegens het niet in acht nemen van een beperking waaronder een eerdere vergunning is verleend of wegens het niet naleven van een daaraan verbonden voorschrift;  
 
-e. op andere bij algemene maatregel van bestuur vast te stellen gronden die per openbaar lichaam kunnen verschillen.    
+e. op andere bij algemene maatregel van bestuur vast te stellen gronden die per openbaar lichaam kunnen verschillen.   
 
 ### §  6  
 
@@ -178,11 +178,11 @@ b. indien blijkt dat aan de vreemdeling verder verblijf in de openbare lichamen 
 
 c. indien de vreemdeling wordt ontslagen;  
 
-d. indien de werkgever in staat van faillissement wordt verklaard.    
+d. indien de werkgever in staat van faillissement wordt verklaard.   
 
 ### Artikel  11  
 
-Onverminderd het bepaalde in artikel 10 kan intrekking van een tewerkstellingsvergunning slechts geschieden wegens het niet in acht nemen van een beperking waaronder de vergunning is verleend, of wegens het niet naleven van een daaraan verbonden voorschrift.  
+Onverminderd het bepaalde in artikel 10 kan intrekking van een tewerkstellingsvergunning slechts geschieden wegens het niet in acht nemen van een beperking waaronder de vergunning is verleend, of wegens het niet naleven van een daaraan verbonden voorschrift. 
 
 ### Hoofdstuk  III  
 
@@ -190,11 +190,11 @@ Onverminderd het bepaalde in artikel 10 kan intrekking van een tewerkstellingsve
 
 ### Artikel  12  
 
-Degene die rechtstreeks in zijn belang is getroffen door een beschikking ter zake van een tewerkstellingsvergunning kan hiertegen binnen vier weken na de dag waarop deze is gegeven bezwaar indienen bij Onze Minister. Onder beschikking wordt mede begrepen het niet beslissen door Onze Minister binnen de in artikel vijf, tiende lid, genoemde termijn. Het bezwaar heeft schorsende werking.  
+Degene die rechtstreeks in zijn belang is getroffen door een beschikking ter zake van een tewerkstellingsvergunning kan hiertegen binnen vier weken na de dag waarop deze is gegeven bezwaar indienen bij Onze Minister. Onder beschikking wordt mede begrepen het niet beslissen door Onze Minister binnen de in artikel vijf, tiende lid, genoemde termijn. Het bezwaar heeft schorsende werking. 
 
 ### Artikel  12a  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  IV  
 
@@ -203,19 +203,19 @@ Degene die rechtstreeks in zijn belang is getroffen door een beschikking ter zak
 ### Artikel  13  
 
 1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door Onze Minister aangewezen ambtenaren.   
-2.  [vervallen]   
+2.  [vervallen]  
 
 ### Artikel  14  
 
 1.  Bij de uitoefening van hun taak dragen de toezichthoudende ambtenaren een legitimatiebewijs bij zich.   
 2.  Desgevraagd tonen zij hun legitimatiebewijs aanstonds.   
-3.  Het legitimatiebewijs bevat een foto van de toezichthoudende ambtenaar en vermeldt in ieder geval diens naam en hoedanigheid.   
+3.  Het legitimatiebewijs bevat een foto van de toezichthoudende ambtenaar en vermeldt in ieder geval diens naam en hoedanigheid.  
 
 ### Artikel  15  
 
 1.  De toezichthoudende ambtenaren hebben op vertoon van hun legitimatiebewijs, te allen tijde en ongehinderd toegang tot elke plaats, voor zover dat voor de vervulling van hun taak redelijkerwijs noodzakelijk is. Zonodig verschaffen zij zich toegang met behulp van de sterke arm.   
 2.  Indien de plaats, bedoeld in het eerste lid, een woning is, betreedt een toezichthoudende ambtenaar de woning niet tegen de wil van de bewoner tenzij met een schriftelijke last van de rechter-commissaris of de officier van justitie dan wel in aanwezigheid één hunner of van een hulpofficier van justitie.   
-3.  Van dit binnentreden wordt binnen tweemaal vierentwintig uur proces-verbaal opgemaakt, hetwelk wordt ingezonden bij de officier van justitie. Daarin wordt mede van het tijdstip van het binnentreden en van het beoogde doel melding gemaakt.   
+3.  Van dit binnentreden wordt binnen tweemaal vierentwintig uur proces-verbaal opgemaakt, hetwelk wordt ingezonden bij de officier van justitie. Daarin wordt mede van het tijdstip van het binnentreden en van het beoogde doel melding gemaakt.  
 
 ### Artikel  16  
 
@@ -226,16 +226,16 @@ a. inlichtingen te verlangen;
 b. inzage te verlangen van zakelijke gegevens en bescheiden;  
 
 c. kopieën te maken van de in onderdeel b bedoelde gegevens en bescheiden.     
-2.  Indien het maken van kopieën niet ter plaatse kan geschieden zijn de toezichthoudende ambtenaren bevoegd de in het eerste lid, onderdeel b, bedoelde gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen afgegeven schriftelijk bewijs.   
+2.  Indien het maken van kopieën niet ter plaatse kan geschieden zijn de toezichthoudende ambtenaren bevoegd de in het eerste lid, onderdeel b, bedoelde gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen afgegeven schriftelijk bewijs.  
 
 ### Artikel  17  
 
 1.  Een ieder is verplicht aan toezichthoudende ambtenaren alle medewerking te verlenen die deze redelijkerwijs kunnen verlangen ter uitoefening van hun bevoegdheden.   
-2.  Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover hun geheimhoudingsplicht zich daartoe uitstrekt.   
+2.  Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover hun geheimhoudingsplicht zich daartoe uitstrekt.  
 
 ### Artikel  18  
 
-Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister aangewezen ambtenaren. [Artikel 185 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) is van overeenkomstige toepassing.  
+Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister aangewezen ambtenaren. [Artikel 185 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) is van overeenkomstige toepassing. 
 
 ### Hoofdstuk  V  
 
@@ -244,7 +244,7 @@ Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd
 ### Artikel  19  
 
 1.  De werkgever, die het in artikel 2, eerste lid, neergelegde verbod overtreedt, wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de vijfde categorie.   
-2.  Het in het eerste lid strafbaar gestelde feit is een overtreding.   
+2.  Het in het eerste lid strafbaar gestelde feit is een overtreding.  
 
 ### Hoofdstuk  VI  
 
@@ -252,7 +252,7 @@ Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd
 
 ### Artikel  20  
 
-Indien een werkgever een vreemdeling arbeid doet verrichten in strijd met het bepaalde in artikel 2, eerste lid, wordt de vreemdeling vermoed gedurende tenminste zes maanden werkzaam te zijn voor die werkgever tegen een beloning en een arbeidsduur die in de betreffende bedrijfstak gebruikelijk is.  
+Indien een werkgever een vreemdeling arbeid doet verrichten in strijd met het bepaalde in artikel 2, eerste lid, wordt de vreemdeling vermoed gedurende tenminste zes maanden werkzaam te zijn voor die werkgever tegen een beloning en een arbeidsduur die in de betreffende bedrijfstak gebruikelijk is. 
 
 ### Hoofdstuk  VII  
 
@@ -260,16 +260,16 @@ Indien een werkgever een vreemdeling arbeid doet verrichten in strijd met het be
 
 ### Artikel  21  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  22  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  23  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  24  
 
-Deze wet wordt aangehaald als: Wet arbeid vreemdelingen BES.  
+Deze wet wordt aangehaald als: Wet arbeid vreemdelingen BES. 

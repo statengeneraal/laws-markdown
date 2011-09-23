@@ -193,7 +193,7 @@ Voor de drempelcriteria geldt dat indien een aanvraag niet aan één of meerdere
 
 * Ondersteuning van activiteiten gericht op de bevordering van maatschappelijk verantwoord ondernemen, waaronder ook de bestrijding van kinderarbeid.  
 
-* Ondersteuning van activiteiten gericht op tegengaan van discriminatie op basis van seksuele oriëntatie en genderidentiteit en discriminatie op basis van geslacht.   Dit blijkt uit het voorstel en bijbehorende begroting en meerjarenraming. *Criterium D.11* Minimaal 60% van de middelen die zijn benodigd voor de uitvoering van deactiviteiten wordt besteed in de landen die genoemd zijn in Annex I. In afwijking van het Standaardkader Ontwikkelingssamenwerking is geen criterium van toepassing met betrekking tot het percentage van de bestedingen binnen het programma waarvoor financiering wordt gevraagd in partnerlanden van het Ministerie van Buitenlandse Zaken.  
+* Ondersteuning van activiteiten gericht op tegengaan van discriminatie op basis van seksuele oriëntatie en genderidentiteit en discriminatie op basis van geslacht.   Dit blijkt uit het voorstel en bijbehorende begroting en meerjarenraming. *Criterium D.11* Minimaal 60% van de middelen die zijn benodigd voor de uitvoering van de activiteiten wordt besteed in de landen die genoemd zijn in Annex 1, dan wel is gericht op het bereiken van effecten in deze landen ten aanzien van de thema’s, genoemd in Criterium D.10. In afwijking van het Standaardkader Ontwikkelingssamenwerking is geen criterium van toepassing met betrekking tot het percentage van de bestedingen binnen het programma waarvoor financiering wordt gevraagd in partnerlanden van het Ministerie van Buitenlandse Zaken.  
 
 ### 4.2  
 

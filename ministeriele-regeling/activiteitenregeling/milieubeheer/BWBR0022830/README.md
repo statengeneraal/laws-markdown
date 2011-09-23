@@ -911,6 +911,10 @@ e. een juiste en veilige werking van de natte koeltoren conform de processpecifi
 
 Deze paragraaf is van toepassing op een inrichting voor zover sprake is van het afleveren van vloeibare brandstoffen, mengsmering en aardgas als bedoeld in [artikel 3.17, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
 
+### Artikel  3.17a  
+
+Als testprocedure voor dampretour fase-II als bedoeld in [artikel 3.20, vierde lid, onder a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt aangewezen de Test Procedure voor Damp Retour Systemen in Benzinepompen voor Nederland van het NMi Certin van 1 februari 2011, dan wel een aan die testprocedure gelijkwaardige procedure, ter beoordeling door het bevoegd gezag.  
+
 ### Artikel  3.18  
 
 1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt bij het afleveren van vloeibare brandstoffen, mengsmering ten minste voldaan aan de artikelen 3.20 tot en met 3.22 en bij het afleveren van aardgas aan artikel 3.23.   
@@ -939,6 +943,21 @@ Deze paragraaf is van toepassing op een inrichting voor zover sprake is van het 
 a. wordt het temperatuurgevoelige element eenmaal in de twee jaar gecontroleerd. Indien naar aanleiding van deze controle blijkt dat het temperatuurgevoelige element niet goed meer functioneert wordt deze terstond gerepareerd of vervangen.  
 
 b. is bij een tankstation ten minste één noodstopvoorziening aangebracht. Bij uitsluitend bemande aflevering van vloeibare brandstof is die voorziening bij de kassa van het tankstation te bedienen. Bij geheel of gedeeltelijk onbemande aflevering van vloeibare brandstof is die voorziening op ten minste één voor een ieder goed bereikbare plaats te bedienen, die duidelijk zichtbaar en aangegeven is bij elke afleverzuil. Het uitschakelen van de noodstopvoorziening, waardoor het afleveren kan worden hervat, geschiedt eerst nadat de drijver van het tankstation heeft vastgesteld dat de gevaarlijke situatie die heeft geleid tot het inschakelen van de noodstopvoorziening, is opgeheven.     
+
+### Artikel  3.21a  
+
+1.  In afwijking van artikel 3.21 voldoet een vaste afleverinstallatie bij het afleveren van minder dan 25 kubieke meter vloeibare brandstof per jaar, aan het tweede tot en met zesde lid.   
+2.  Het vulpistool wordt goed weggehangen. Na gebruik lekt er geen brandstof uit het vulpistool. De afleverslang is voorzien van een automatisch afslaand vulpistool om overvullen van het motorvoertuig te voorkomen.   
+3.  Als een deel van de afleverinstallatie, leidingen of de afleverslang zich onder het hoogste vloeistofniveau van de tank kunnen bevinden, is een antihevel beveiliging aangebracht tussen de tank en de flexibele afleverslang.   
+4.  Bij het toepassen van een handpomp is de afleverslang na gebruik leeg, waarbij eventueel aanwezige brandstofresten worden teruggevoerd naar de tank. Een vulpistool van een elektrische pomp is voorzien van een automatisch afslagmechanisme.   
+5.  De afleverinstallatie is voorzien van een vulkraan die, indien deze buiten gebruik is, niet in werking kan worden gesteld door onbevoegden.   
+6.  Een afleverinstallatie met een elektrische pomp is voorzien van een aan- en uitschakelaar.   
+
+### Artikel  3.21b  
+
+1.  Onverminderd de artikelen 3.21 en 3.21a voldoet een vaste afleverinstallatie voor het inpandig afleveren van lichte olie dat is toegestaan op grond van [artikel 6.22b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan het tweede en derde lid.   
+2.  Nabij de afleverinstallatie is ten minste één draagbaar blustoestel aanwezig met een vulling van ten minste 6 kilogram of liter blusstof.   
+3.  De afleverinstallatie wordt voorzien van een thermische brandmelder die is aangesloten op een akoestisch signaal.   
 
 ### Artikel  3.22  
 
@@ -1120,7 +1139,7 @@ c. het schip, waar in of uit wordt overgeslagen, met de wal wordt verbonden door
 
 ### Artikel  3.42  
 
-1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van verontreiniging van het oppervlaktewater worden goederen die boven een oppervlaktewaterlichaam worden opgeslagen en waaruit vloeibare bodembedreigende stoffen kunnen lekken, opgeslagen boven een voorziening die zich rondom of onder de opgeslagen stoffen bevindt en de bij normale bedrijfsvoering gemorste of wegspattende vloeistoffen kan opvangen   
+1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van verontreiniging van het oppervlaktewater worden goederen die boven een oppervlaktewaterlichaam worden opgeslagen en waaruit vloeibare bodembedreigende stoffen kunnen lekken, opgeslagen boven een voorziening die zich rondom of onder de opgeslagen stoffen bevindt en de bij normale bedrijfsvoering gemorste of wegspattende vloeistoffen kan opvangen.   
 2.  Op de voorziening, bedoeld in het eerste lid, is artikel 2.4 van overeenkomstige toepassing.   
 3.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van verontreiniging van het oppervlaktewater staan goederen waaruit vloeibare bodembedreigende stoffen kunnen lekken en die boven het oppervlaktewater bovendeks aanwezig zijn, opgesteld: 
 
@@ -1141,7 +1160,7 @@ b. boven een doelmatige fysieke voorziening die vrijgekomen stoffen keert zolang
 
 ### Artikel  3.44  
 
-1.  Voor de toepassing van artikel 3.43 worden onder goederen waaruit een significante hoeveelheid bodembedreigende stoffen kunnen uitlogen, in ieder geval verstaan: 
+1.  Voor de toepassing van [paragraaf 3.3.6 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en de artikelen 3.42 en 3.43 worden als goederen waaruit vloeibare bodembedreigende stoffen kunnen lekken, in ieder geval aangemerkt: 
 
 a. nat afval van het vegen van openbare straten en terreinen, markten en evenementen;  
 
@@ -1170,7 +1189,7 @@ l. gebruikte oliedrukkabels;
 m. beschadigde transformatoren en uitgelekte transformatoren;  
 
 n. beschadigde oliehoudende apparaten.     
-2.  Voor de toepassing van artikel 3.43 worden onder goederen waaruit in een significante hoeveelheid bodembedreigende stoffen uit kunnen uitlogen, in ieder geval verstaan: 
+2.  Voor de toepassing van artikel 3.43 worden onder goederen waaruit een significante hoeveelheid bodembedreigende stoffen kunnen uitlogen, in ieder geval verstaan: 
 
 a. IBC-bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
 
@@ -1340,15 +1359,13 @@ q. ontplofbare onderdelen, zoals airbags en gordelspanners, voor zover deze niet
 4.  Indien dat noodzakelijk is voor de recycling als product van gedemonteerde onderdelen kan in afwijking van het tweede lid worden afgezien van het aftappen van de oliën uit de in dat lid genoemde onderdelen en kan het oliefilter worden teruggeplaatst.   
 5.  Autowrakken worden binnen de inrichting ontdaan van de volgende stoffen, preparaten of producten: 
 
-a. banden en grote kunststofonderdelen, zoals bumpers, instrumentenborden en vloeistoftanks, indien deze materialen in een shredderinstallatie niet zodanig gescheiden worden dat ze als materiaal kunnen worden gerecycled;  
+a. banden, glas en grote kunststofonderdelen, zoals bumpers, instrumentenborden en vloeistoftanks, indien deze materialen in een shredderinstallatie niet zodanig gescheiden worden dat ze als materiaal kunnen worden gerecycled;  
 
 b. metalen onderdelen die koper, aluminium of magnesium bevatten indien deze metalen niet in de shredderinstallatie worden gescheiden;  
 
-c. glas;  
+c. katalysatoren;  
 
-d. katalysatoren;  
-
-e. onderdelen die lood, kwik, cadmium of zeswaardig chroom bevatten en als zodanig zijn voorzien van een aanduiding.     
+d. onderdelen die lood, kwik, cadmium of zeswaardig chroom bevatten en als zodanig zijn voorzien van een aanduiding.     
 6.  Een autowrak wordt niet op een zodanig wijze geplet, geknipt of anderszins mechanisch verkleind dat de identiteit en de inhoud daarvan niet meer herkenbaar zijn.   
 
 ### Artikel  3.58  
@@ -2596,6 +2613,12 @@ De vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstoffen
 3.  Nabij de pomp is ten minste één draagbaar blustoestel aanwezig met een vulling van ten minste 6 kg of liter blusstof.   
 4.  De afleverzuil wordt voorzien van een thermische brandmelder die is aangesloten op een akoestisch signaal.   
 
+### Artikel  4.92b  
+
+1.  Onverminderd de artikelen 4.91, 4.92 en 4.92a voldoet een vaste afleverinstallatie voor het inpandig afleveren van lichte olie, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, die is toegestaan op grond van [artikel 6.34, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan het tweede en derde lid.   
+2.  Nabij de afleverinstallatie is ten minste één draagbaar blustoestel aanwezig met een vulling van ten minste 6 kg of liter blusstof.   
+3.  De afleverinstallatie wordt voorzien van een thermische brandmelder die is aangesloten op een akoestisch signaal.   
+
 ### Artikel  4.93  
 
 Een aardgas-afleverinstallatie voldoet bij het afleveren van aardgas, anders dan bedoeld in [artikel 3.17 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan artikel 3.23.  
@@ -2604,6 +2627,15 @@ Een aardgas-afleverinstallatie voldoet bij het afleveren van aardgas, anders dan
 
 1.  Het afleveren van vloeibare brandstoffen aan voertuigen, die bestemd zijn voor eigen bedrijfsmatig gebruik, waarbij minder dan 25.000 liter per jaar wordt getankt vindt plaats boven een bodembeschermende voorziening.   
 2.  Indien bij de activiteit, bedoeld in het eerste lid, meer dan 25.000 liter per jaar wordt getankt dan vindt deze activiteit plaats boven een vloeistofdichte vloer of verharding. Artikel 3.25 en 3.26 zijn van overeenkomstige toepassing.   
+
+### Artikel  4.94a  
+
+1.  In afwijking van artikel 4.94, eerste tot en met vierde lid, kan het afleveren van vloeibare brandstof, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, plaatsvinden boven een geomembraanbaksysteem, indien: 
+
+a. de inrichting is gelegen binnen de bebouwde kom waarbij de afleverzuilen in een rij parallel aan de naastgelegen weg staan opgesteld en het afleveren uitsluitend aan de wegzijde op of aan de openbare weg plaatsvindt, of  
+
+b. op basis van een onderzoek naar de grondmechanica dat voor het aanbrengen van het geomembraanbaksysteem is uitgevoerd, is gebleken dat het aanbrengen van een vloeistofdichte vloer of verharding onevenredig hoge kosten met zich meebrengt.     
+2.  Een geomembraanbaksysteem als bedoeld in het eerste lid is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit.   
 
 ### §  4.6.4  
 
