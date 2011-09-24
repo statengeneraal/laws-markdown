@@ -41,7 +41,13 @@ m. *onderwijsbeleid:* het beleid van de Minister gericht op behoud en versterkin
 
 n. *primaire opleidingen:* opleidingen voor beroepen en ondernemerschap in de landbouw, tuinbouw en veeteelt en voor beroepen die dienstverlenend zijn aan de uitoefening van de landbouw, tuinbouw en veeteelt, die zijn opgenomen in de bijlage bij deze regeling;  
 
-o. *Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie.    
+o. *Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+
+p. *groene opleidingsschool:* partnerschap tussen Stoas Hogeschool en instellingen en afdelingen die in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleiden;  
+
+q. *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, bedoeld in [artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+
+r. *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend.    
 
 ### Paragraaf  2  
 
@@ -215,6 +221,24 @@ g. het aandeel cofinanciering door het bedrijf of de bedrijven die de samenwerki
 2.  Volgens de rangschikking, bedoeld in het eerste lid, komt de hoogst gerangschikte aanvraag het eerst voor subsidie in aanmerking.   
 3.  Indien het totaal van de aanvragen, dat naar het oordeel van de Minister passen in het doel van de subsidie en voldoen aan de voorwaarden in artikel 17 en 20, in enig jaar het subsidieplafond, bedoeld in artikel 18, overschrijdt wijst de Minister op basis van de rangschikking, bedoeld in het eerste lid, één of meer aanvragen af.   
 
+### Artikel  21a  
+
+De minister beslist afwijzend op een aanvraag indien hij het aangevraagde subsidiebedrag niet redelijk acht in verhouding tot het gezamenlijke aandeel van de ondertekenaars van de samenwerkingsovereenkomst en de voorziene baten uit de exploitatie van de voorziening, blijkend uit de begroting van de exploitatie, bedoeld in artikel 20, vierde lid, onderdeel f. De Minister weegt daarbij af of de aanvragers zich in voldoende mate hebben ingespannen om de aangevraagde voorziening te financieren op basis van de voorziene baten.  
+
+### Artikel  21b  
+
+1.  De Minister rangschikt aanvragen tot subsidieverlening waarop niet afwijzend is beslist en die in een zelfde aanvraagperiode zijn ingediend door middel van een score op; 
+
+a. elk onderdeel van het investeringsplan;  
+
+b. het aandeel van het bedrijfsleven in de organisatie en in de financiering van de investering en exploitatie van de voorziening, blijkend uit de samenwerkingsovereenkomst en de begrotingen, bedoeld in artikel 20, onderdelen b, e en f waarbij een aanvraag hoger wordt gerangschikt naarmate het aandeel van het bedrijfsleven in de organisatie hoger is;  
+
+c. de bijdrage van de aanvraag aan de doelen en prioriteiten uit artikel 17, tweede en derde lid, waarbij een aanvraag hoger wordt gerangschikt naarmate de bijdrage hoger is;  
+
+d. de mate waarin een aanvraag aansluit op de Meerjarenvisie praktijkleervoorziening en voldoet aan de kwaliteitscriteria zoals blijkend uit de zienswijze bedoeld in artikel 20, vierde lid, onderdeel d, waarbij een aanvraag hoger wordt gerangschikt naarmate de aansluiting en het voldoen aan de kwaliteitscriteria hoger is.     
+2.  Volgens de rangschikking, bedoeld in het eerste lid, komt de hoogst gerangschikte aanvraag het eerst voor subsidie in aanmerking.   
+3.  Indien het totaal van de aanvragen, die naar het oordeel van de Minister passen in het doel van de subsidie en voldoen aan de voorwaarden van artikelen 17 en 20, in enig jaar het subsidieplafond, bedoeld in artikel 18, overschrijdt, wijst de Minister op basis van de rangschikking, bedoeld in het tweede lid, één of meer aanvragen af.   
+
 ### Artikel  22  
 
 De Minister beslist uiterlijk op 1 augustus van elk jaar op de aanvraag. De Minister kan zijn besluit mede baseren op het oordeel van door hem aan te wijzen onafhankelijke deskundigen.  
@@ -333,12 +357,31 @@ d. een evaluatie van de mate waarin de realisatie heeft bijgedragen aan het bere
 ### Artikel  34  
 
 1.  De Minister stelt jaarlijks aan de Stichting Groene Kennis Coöperatie ten hoogste € 1.500.000,– ter beschikking voor de kosten van het aan de stichting verbonden bureau en voor de uitvoering van haar werkzaamheden, en ten hoogste € 2.500.000,– voor de exploitatie en verdere ontwikkeling van Groen Kennisnet.   
-2.  De beschikbaarstelling geschiedt na goedkeuring van de Minister van het werkplan van de Stichting, waarin het werkplan van Groen Kennisnet afzonderlijk is opgenomen. Het werkplan wordt jaarlijks voor 1 augustus ingediend. De Minister beslist binnen zes weken na ontvangst van het werkplan over de beschikbaarstelling. Hij kan hieraan voorwaarden verbinden betreffende de uitvoering van het werkplan.   
+2.  De beschikbaarstelling geschiedt na goedkeuring van de Minister van het werkplan van de Stichting, waarin het werkplan van Groen Kennisnet afzonderlijk is opgenomen. Het werkplan wordt jaarlijks voor 1 september ingediend. De Minister beslist binnen zes weken na ontvangst van het werkplan over de beschikbaarstelling. Hij kan hieraan voorwaarden verbinden betreffende de uitvoering van het werkplan.   
 3.  De Stichting verantwoordt jaarlijks voor 1 juli de besteding en bestemming van de bedragen, bedoeld in het eerste lid, vergezeld van de jaarstukken van de Stichting.   
 
 ### Artikel  35  
 
 De Minister stelt jaarlijks aan de stichting Informatievoorziening groen onderwijs € 116.000,– ter beschikking als bijdrage in de exploitatie van het vakblad Groen onderwijs.  
+
+### Artikel  35a  
+
+1.  De Minister stelt jaarlijks ingaande het jaar 2012 aan de stichting Ontwikkelcentrum ten hoogste € 2.300.000,– ter beschikking voor de ontwikkeling en vernieuwing van leermiddelen en voor de verspreiding van leermiddelen ten dienste van het door de Minister bekostigd voortgezet middelbaar beroepsonderwijs, middelbaar beroepsonderwijs en hoger beroepsonderwijs en het educatiebeleid van de Minister.   
+2.  De beschikbaarstelling geschiedt na goedkeuring van de Minister van het werkplan van de stichting voor het komend jaar en de begroting daarbij. De stichting neemt bij de opstelling van dit werkplan de jaarlijkse afspraak tussen de Minister en de Groene kenniscoöperatie in acht. Het werkplan wordt niet ingediend dan na afstemming met tenminste de Groene kenniscoöperatie en met de organisaties. De resultaten van deze afstemming zijn in het werkplan vermeld.   
+3.  Het werkplan wordt jaarlijks voor 1 september ingediend en omvat tenminste de activiteiten waarvoor subsidie wordt gevraagd, onderscheiden naar de basisfunctie en de innovatiefunctie van het Ontwikkelcentrum, de doelen van deze activiteiten, het verwachte resultaat en de doorwerking hiervan op de kwaliteit van het door de Minister bekostigd voortgezet middelbaar beroepsonderwijs, middelbaar beroepsonderwijs en hoger beroepsonderwijs, het educatiebeleid van de Minister en de resultaten van de afstemming met tenminste de Groene kenniscoöperatie en met de organisaties. In het werkplan worden activiteiten waarvoor subsidie wordt gevraagd en activiteiten die de stichting in het verlengde van haar opdracht, zoals bedoeld in het eerste lid, maar voor eigen rekening verwacht te verrichten, duidelijk onderscheiden. De begroting betreft voor ten hoogste 25% de basisfunctie en tenminste 75% voor de innovatiefunctie.   
+4.  De Minister beslist binnen zes weken na ontvangst van het werkplan over de subsidieverlening.   
+5.  De Minister kan bij de subsidieverlening voorwaarden verbinden betreffende de uitvoering van het werkplan.   
+6.  De Minister verstrekt bij goedkeuring van het werkplan de subsidie in twee voorschotten. Het eerste voorschot wordt verstrekt bij goedkeuring van de aanvraag. Het tweede voorschot wordt verstrekt na ontvangst en goedkeuring van een korte voortgangsrapportage. Het totaal aan voorschotten is ten hoogste 80% van het verleende subsidiebedrag.   
+7.  De stichting Ontwikkelcentrum dient voor 1 juli een aanvraag in tot vaststelling van de subsidie, verstrekt voor het voorafgaand jaar.   
+8.  De aanvraag tot vaststelling van een subsidie gaat vergezeld van een financieel verslag betreffende bestemming en besteding van de subsidie, een accountantsverklaring, de jaarstukken van de stichting en een rapportage. Deze rapportage omvat tenminste: 
+
+a. Een verslag van de uitvoering van de activiteiten uit het werkplan, in relatie tot activiteiten die de stichting op basis van cofinanciering heeft verricht;  
+
+b. de mate van realisatie van de doelen van deze activiteiten, en  
+
+c. een evaluatie van de mate waarin deze realisatie heeft bijgedragen aan de doelen van de stichting.     
+9.  In de beschikking tot vaststelling wordt de subsidie vastgesteld op de werkelijk gemaakte en betaalde kosten tot ten hoogste het verleende subsidiebedrag.   
+10.  Een positief resultaat op de gesubsidieerde activiteiten en op producten en diensten die in het kader van een gesubsidieerde activiteit zijn ontwikkeld kan door de Minister worden bestemd voor financiering van activiteiten in het kader van toekomstige werkplannen.   
 
 ### Paragraaf  8  
 
@@ -358,6 +401,78 @@ c. de Aeres groep tot een bedrag van € 960.000,– voor het jaar 2011 en € 2
 4.  De Subsidiebeschikking internationaal onderwijs van 10 december 2009 blijft voor hogeschool Van Hall-Larenstein van kracht voor de jaren 2011 en 2012. Lid 3 en lid 5 zijn voor deze hogeschool niet van toepassing voor de jaren 2011 en 2012.   
 5.  De ontvanger van de subsidie dient binnen vier maanden na afloop van de periode van twee jaar een aanvraag in tot vaststelling van de subsidie, vergezeld van een financieel verslag en een activiteitenverslag.   
 
+### Paragraaf  8a  
+
+####Tegemoetkoming kosten Groene opleidingsschool
+
+### Artikel  36a  
+
+1.  De Minister kan op aanvraag voor het schooljaar 2011–2012 tot en met schooljaar 2014–2015 een subsidie verlenen voor de groene opleidingsschool.   
+2.  De groene opleidingschool heeft tot doel studenten op te leiden tot toekomstige leraren voor het groen onderwijs, gegeven aan instellingen en afdelingen. Deze studenten volgen minimaal 40% van het curriculum in de praktijk van het beroep als leraar op een instelling of afdeling.   
+3.  De subsidie vormt een tegemoetkoming in de kosten die gemoeid zijn met de inrichting van een opleidingsinfrastructuur binnen de instelling of afdeling en met de feitelijke begeleiding op de werkplek van de studenten.   
+
+### Artikel  36b  
+
+Het subsidieplafond voor de subsidies, bedoeld in artikel 36a, bedraagt € 1.360.000,– voor de schooljaren 2011–2012 tot en met 2014–2015.  
+
+### Artikel  36c  
+
+Stoas Hogeschool treedt op als penvoerder en subsidieaanvrager voor de groene opleidingsschool.  
+
+### Artikel  36d  
+
+1.  De subsidieaanvraag wordt uiterlijk 15 oktober 2011 ingediend bij de NVAO met het formulier ‘Samenstelling aanvraagdossier toetsing groene opleidingsschool’, en met een samenwerkingsovereenkomst die is ondertekend door Stoas Hogeschool, de instellingen en de Vereniging Buitengewoon Groen namens de afdelingen die deelnemen in de opleidingsschool.   
+2.  De NVAO brengt aan de Minister advies uit over de kwaliteit van de groene opleidingsschool door middel van een beoordeling van het gerealiseerd niveau en van de samenwerkingsovereenkomst.   
+3.  De NVAO brengt haar advies uit op basis van een door haar vast te stellen toetsingskader.   
+4.  De Minister beslist binnen 3 maanden na het uitkomen van het advies van het NVAO over de subsidieverlening mede op basis van dit advies.   
+5.  De subsidie wordt verleend voor de periode bedoeld in artikel 36a, eerste lid.   
+
+### Artikel  36e  
+
+1.  De subsidie wordt in voorschotten voor respectievelijk de schooljaren 2011–2012, 2012–2013, 2013–2014 en 2014–2015 verstrekt.   
+2.  De hoogte van het voorschot is gebaseerd op het aantal studenten dat op 1 oktober van het voorgaande jaar voldoet aan de vereisten in artikel 36a, tweede lid, als volgt: 
+
+i. 40–79: € 120.000,–;  
+
+ii. 80–139: € 200.000,–;  
+
+iii. 140–179: € 280.000,–;  
+
+iv. 180–219: € 320.000,–;  
+
+v. > 219: € 340.000,–.     
+3.  Stoas Hogeschool meldt schriftelijk, vergezeld van een accountantsverklaring, voor de schooljaren 2012–2013 tot en met 2014–2015 uiterlijk op 1 april voorafgaand aan het schooljaar, bedoeld in het eerste lid, het aantal studenten dat voldoet aan de vereisten in artikel 36a, tweede lid, op 1 oktober van het voorafgaande schooljaar.   
+4.  Het voorschot voor het schooljaar 2011–2012 wordt bepaald op basis van de prognose, gevoegd bij de subsidieaanvraag bedoeld in artikel 36d, van het aantal studenten, dat voldoet aan de vereisten in artikel 36a, tweede lid, op 1 oktober 2011.   
+5.  De Minister geeft uiterlijk op 1 juni voorafgaand aan het desbetreffend schooljaar de hoogte van het voorschot aan.   
+6.  Het voorschot per schooljaar wordt in twee gedeelten aan de subsidieontvanger betaald: in november een gedeelte van 5/12, in februari een gedeelte van 7/12 van het voorschot.   
+7.  Het voorschot voor het schooljaar 2011–2012 wordt in één keer verstrekt in het eerste kwartaal van 2012.   
+
+### Artikel  36f  
+
+Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de subsidieverlening worden geweigerd of beëindigd indien: 
+
+a. de groene opleidingsschool niet of niet langer minimaal aan de vereiste basiskwaliteit voldoet na advies van de NVAO;  
+
+b. het aantal studenten dat in het kader van de groene opleidingsschool wordt opgeleid in enig schooljaar lager is dan 40 studenten per schooljaar.    
+
+### Artikel  36g  
+
+1.  Stoas Hogeschool, de instellingen en afdelingen besteden de subsidie voor de groene opleidingsschool uitsluitend ten behoeve van het doel genoemd in artikel 36a.   
+2.  Indien een deel van de ontvangen subsidie in enig schooljaar niet is besteed aan het doel, bedoeld in artikel 36a, dan mogen deze middelen binnen dit doel worden besteed tot en met het schooljaar 2014–2015.   
+3.  Stoas Hogeschool verantwoordt de bestemming en de besteding van de subsidie voor de groene opleidingsschool in en bij de jaarrekening. Zij geeft daarbij aan welk deel van de subsidie zij als penvoerder heeft doorgegeven aan instellingen en afdelingen, en welke de besteding hiervan is. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie en de rechtmatigheid van de gegevens, waaronder de aantallen studenten.   
+4.  Bij de jaarrekening voegt Stoas Hogeschool een activiteitenverslag van de Groene opleidingsschool, waarin ook de activiteiten van de instellingen en afdelingen, waar in het afgelopen schooljaar studenten zijn opgeleid, zijn opgenomen. Dit activiteitenverslag omvat tenminste: 
+
+i. een overzicht van de werkzaamheden waarvoor de verstrekte subsidie is ingezet en de daarmee bereikte resultaten, waarin de werkzaamheden en resultaten van Stoas Hogeschool en van de instellingen en afdelingen onderscheiden zichtbaar zijn;  
+
+ii. een verantwoording van het aantal studenten dat in het verstreken schooljaar is opgeleid en een prognose van het aantal studenten dat in het lopende schooljaar zal worden opgeleid;  
+
+iii. voor zover van toepassing, een analyse van de verschillen tussen de voorgenomen en gerealiseerde activiteiten en de beoogde en feitelijk gerealiseerde resultaten.     
+
+### Artikel  36h  
+
+1.  Uiterlijk op 1 juli 2016 dient Stoas Hogeschool bij de jaarrekening een aanvraag in tot vaststelling van de subsidie, vergezeld van een accountantsverklaring, als bedoeld in artikel 36g, derde lid.   
+2.  Deze aanvraag gaat vergezeld van een eindverslag van de Groene opleidingsschool, waarin de bereikte resultaten in relatie tot de beoogde resultaten worden verantwoord.   
+
 ### Paragraaf  9  
 
 ####Overige bepalingen
@@ -371,7 +486,7 @@ c. de Aeres groep tot een bedrag van € 960.000,– voor het jaar 2011 en € 2
 
 Uiterlijk op 1 juni 2013 evalueert de Minister de werking van deze regeling.  
 
-### Paragraaf  9  
+### Paragraaf  10  
 
 ####Slotbepalingen
 
@@ -510,3 +625,94 @@ Tevens worden als studenten in primaire opleidingen geteld de bij STOAS Hogescho
 3. Agrarische techniek  
 
 4. Internationaal (veehouderij en agrarische techniek)   De opgave betreft het aantal studenten in deze studierichtingen op 1 oktober van het tweede jaar voorafgaand aan het jaar waarvoor de onderwijsopslag, bedoeld in artikel 14 van deze regeling, wordt verstrekt. De opgave gaat vergezeld van een verklaring van getrouwheid van een accountant. De opgave voor 2011 en verdere jaren, met gegevens van het tweede jaar voorafgaand aan dat jaar, dient uiterlijk op 1 juli van ieder jaar te zijn ontvangen door DUO. De verklaring van getrouwheid van de accountant kan dan bij de jaarlijkse accountantsopgave worden meegenomen. 
+
+### Bijlage   
+2   
+
+####, behorende bij artikel 36d, eerste lid , van de Regeling prakrijkleren en Groene plus
+
+####Formulier samenstelling aanvraagdossier toetsing Groene Opleidingsschool
+
+####Gevraagde informatie
+
+Bij de aanvraag voor de toetsing van de groene opleidingsschool horen onderstaande gegevens en genoemde stukken. Het is van belang dat alle deelnemende partners, ter goedkeuring, hun handtekening op deze aanvraag zetten. Bij elk onderdeel wordt de belangrijkste informatie kernachtig beschreven. Bijlagen bevatten alleen ondersteunende informatie en dienen beperkt en beknopt te zijn. 
+
+### 1  
+
+####Algemene gegevens
+
+### 1.1  
+
+####Administratieve gegevens penvoerende instantie
+
+Naam instelling: Postadres, postcode, plaats: Bezoekadres, postcode, plaats: BRIN-nummer: Status inspectie: Gegevens contactpersoon (naam, telefoon, e-mail): Bankrekeningnummer, tenaamstelling en plaats: Handtekening:  
+
+### 1.2  
+
+####Administratieve gegevens van alle partners, weergegeven per partner:
+
+Naam instelling: Postadres, postcode, plaats: Gegevens contactpersoon (naam, telefoon, e-mail): BRIN-nummer: Status inspectie/accreditatie: Handtekening:  
+
+### 1.3  
+
+####Volume en kenmerken van het aantal studenten
+
+De groene opleidingsschool levert die gegevens waaruit blijkt dat zij voldoet aan de criteria die door het ministerie van EL&I aan volume en kenmerken van het aantal studenten zijn gesteld in de onderstaande overzichten.  *In te vullen voor het geheel van de deelnemende scholen in de Groene Opleidingsschool*   
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| --- | 2011–2012  | 2012–2013  | 2013–2014  | 2014–2015  |
+| Prognose van het aantal studenten van de door Stoas Hogeschool verzorgde lerarenopleiding waarvan minimaal 40% van het curriculum op de werkplek wordt verzorgd.  | --- | --- | --- | --- |
+
+### 2  
+
+####Gegevens ten behoeve van de beoordeling van het gerealiseerd niveau
+
+2.1 Overzicht van de producten waarop de lerarenopleiding haar oordeel bepaalt over de eindkwalificaties van de student. Dit kan gaan over scripties, portfolio’s, andere vormen van toetsing. In ieder geval gaat het om een geheel van (eind)producten per student. Per product worden de te beoordelen competenties opgegeven.  
+
+2.2 Namenlijst van de afgestudeerden of indien dit er nog niet minstens 10 zijn, aangevuld met de studenten die het verst staan in hun opleiding. Er moet een lijst zijn van minstens 20 namen waaruit de NVAO er 10 kan selecteren. Het gaat om studenten die minstens een voldoende gehaald hebben voor de eindkwalificaties of tussentijdse deelkwalificaties.   Van iedere afgestudeerde of student worden de volgende gegevens in tabelvorm verstrekt: naam en per schooljaar het aantal ECTS dat werd afgelegd binnen de opleidingsschool.  
+
+### 3  
+
+####Gegevens ten behoeve van de beoordeling van de samenwerkingsovereenkomst van de opleidingsschool: de zelfevaluatie
+
+De zelfevaluatie omvat een beschrijving (sterkte-zwakte analyse) aan de hand van de criteria zoals aangegeven in het beoordelingskader. 
+
+3.1 Programma  
+
+3.2 Inzet van personeel  
+
+3.3 Voorzieningen  
+
+3.4 Interne kwaliteitszorg    
+
+####4. Bijlagen
+
+Verplichte bijlagen: 
+
+○ Samenwerkingsovereenkomst waarvan deel kunnen uitmaken: 
+
+a) een opleidingsplan, waarin onder andere: visie rond opleiden in de school, kwaliteitszorg en -borging, onderwijskundige structuur, financiële middelen;  
+
+b) afspraken over rollen, taken en verantwoordelijkheden van elk van de partners bij de uitvoering van het opleidingsplan en bij de beoordeling van de resultaten van diegenen die worden opgeleid;  
+
+c) afspraken over de borging van de kwaliteit van het personeel dat betrokken is bij de groene opleidingsschool;  
+
+d) afspraken over de ontbinding van de samenwerkingsovereenkomst en de gevolgen daarvan voor de betrokken studenten indien een of meer van de partners de primaire taak onvoldoende blijkt te hebben geborgd;  
+
+e) financiële afspraken.    
+
+○ Per deelnemende partner: een overzicht met namen van de personeelsleden die betrokken zijn bij de groene opleidingsschool, met vermelding van de functies in de groene opleidingsschool en het percentage van de aanstelling.   Mogelijke bijlagen: 
+
+○ Reeds toegekende ‘keurmerk(en)’ en de procedure en criteria die erbij gehanteerd worden;  
+
+○ Relevante beleids- en verantwoordingsdocumenten van de partners waaruit hun engagement en ambities blijken met betrekking tot de groene opleidingsschool.    
+
+####Uiterste indieningdatum
+
+De uiterste indieningdatum voor aanvragen ‘toetsing Groene Opleidingsschool’ is 15 oktober 2011.  
+
+####Aantal exemplaren en adresgegevens
+
+De opleidingsschool dient de aanvraag schriftelijk in 10-voud in op volgend adres: NVAO – Postbus 85498 – 2508 CD Den Haag Een digitale versie (in format Word of Adobe-pdf) dient te worden gemaild aan a.vanneygen@nvao.net De groene opleidingsschool stuurt ook een exemplaar van het aanvraagdossier naar het ministerie van EL&I/directie DAI. *Bij vragen kunt u contact opnemen met mevrouw Ann van Neygen (tel. 070-3122322 of* a.vanneygen@nvao.net*)*  
+
