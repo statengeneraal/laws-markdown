@@ -62,9 +62,9 @@ b) De varkens worden voor de eerste keer binnen 72 uur na de constatering van de
 
 c) Het is tot ten minste 14 dagen nadat de tweede vaccinatie is verricht verboden varkens af te voeren van en naar varkensbedrijven binnen een straal van tien kilometer vanaf een bedrijf waarop een besmetting is geconstateerd;  
 
-d) Binnen 72 uur wordt klinische inspectie door de eigen dierenarts uitgevoerd. Tussen de 14 dagen en 21 dagen na de klinische inspectie worden de varkens opnieuw klinisch onderzocht en worden bloedmonsters bij de varkens genomen. Bij klinische verschijnselen worden van maximaal tien varkens keelswabs genomen. Het materiaal wordt ter nader onderzoek ingezonden naar het Centraal Veterinair Instituut.  
+d) Binnen 72 uur wordt klinische inspectie door de eigen dierenarts uitgevoerd. Tussen de 14 dagen en 21 dagen na de klinische inspectie worden de varkens opnieuw klinisch onderzocht en worden bloedmonsters bij de varkens genomen. Bij klinische verschijnselen worden van maximaal tien varkens keelswabs genomen. Het materiaal wordt ter nader onderzoek ingezonden naar het Centraal Veterinair Instituut. Minimaal 30 dagen na het eerste onderzoek worden de varkens voor een tweede keer onderzocht op grond van bloedmonsters;  
 
-e) Afvoer van de varkens naar het slachthuis is eerst toegestaan, vanaf 14 dagen nadat de tweede vaccinatie is verricht;  
+e) Afvoer van de varkens naar het slachthuis is eerst toegestaan, vanaf 14 dagen nadat de tweede vaccinatie is verricht en de uitslagen van de tweede gE-test negatief zijn;  
 
 f) Aanvoer van varkens afkomstig van bedrijven eveneens gelegen binnen een straal van 10 kilometer van het besmette bedrijf, is slechts toegestaan na voorafgaande schriftelijke toestemming van de voorzitter;  
 
