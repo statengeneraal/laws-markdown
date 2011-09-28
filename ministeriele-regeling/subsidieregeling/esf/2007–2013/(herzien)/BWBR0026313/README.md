@@ -375,7 +375,7 @@ c. een Opleidings- en Ontwikkelingsfonds dat door de minister overeenkomstig Bij
 
 1. Subsidieaanvragen met betrekking tot een project in het kader van Actie A, als bedoeld in artikel 4, onderdeel a, wordt in het kalenderjaar 2009 nog door de minister ontvangen in het aanvraagtijdvak van 2 november 2009, 09.00 uur, tot en met 30 november 2009, 17.00 uur;  
 
-2. In de periode van 1 januari 2010 tot en met 31 december 2013 wordt de aanvraag door de minister telkens ontvangen in het aanvraagtijdvak van 1 oktober, 09.00 uur, tot en met 31 oktober, 17.00 uur.    
+2. In de periode van 1 januari 2010 tot en met 31 december 2010 wordt de aanvraag door de minister ontvangen in het aanvraagtijdvak van 1 oktober, 09.00 uur, tot en met 31 oktober, 17.00 uur.    
 
 ### Artikel  A3  
 
@@ -713,7 +713,7 @@ De subsidie met betrekking tot een project in het kader van Actie E wordt aange
 
 ####Aanvraagtijdvakken
 
-De subsidieaanvraag met betrekking tot een project in het kader van Actie E, als bedoeld in artikel 4, onderdeel e, wordt in de periode van 1 januari 2009 tot en met 31 december 2013 door de minister telkens ontvangen in het aanvraagtijdvak van 1 oktober, 09.00 uur, tot en met 31 oktober, 17.00 uur.  
+De subsidieaanvraag met betrekking tot een project in het kader van Actie E, als bedoeld in artikel 4, onderdeel e, wordt in de periode van 1 januari 2009 tot en met 31 december 2013 door de minister telkens ontvangen in het aanvraagtijdvak van 10 oktober 2011, 09.00 uur, tot en met 31 oktober, 17.00 uur.  
 
 ### Artikel  E3  
 
