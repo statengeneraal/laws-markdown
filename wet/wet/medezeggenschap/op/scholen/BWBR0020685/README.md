@@ -174,7 +174,7 @@ f. de aanvaarding van materiële bijdragen of geldelijke bijdragen anders dan in
 
 g. de vaststelling of wijziging van de voor de school geldende klachtenregeling;  
 
-h. overdracht van de school of van een onderdeel daarvan, respectievelijk fusie van de school met een andere school, dan wel vaststelling of wijziging van het beleid ter zake.    
+h. overdracht van de school of van een onderdeel daarvan, respectievelijk fusie van de school met een andere school, dan wel vaststelling of wijziging van het beleid ter zake, waaronder begrepen de fusie-effectrapportage, bedoeld in [artikel 64b van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 66b van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 53f van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
 
 ### Artikel  11  
 

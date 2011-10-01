@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Het percentage van de heffingsrente, bedoeld in [artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede het percentage van de invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), bedraagt voor het tweede kwartaal 2011: 2,50.  
+Het percentage van de heffingsrente, bedoeld in [artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede het percentage van de invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), bedraagt voor het vierde kwartaal 2011: 3,00.  
 
 ### Artikel  2  
 

@@ -84,9 +84,9 @@ a. De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt 0,94 
 b. De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt € 0,0026 per kilogram gekochte garnalen.  
 
 c. De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt 0,82 promille van het aankoopbedrag van de van een trawler gekochte zeevis.     
-3.  De heffing wegens de handeling, bedoeld in artikel 2, onder c, bedraagt 0,29 promille van het inkoopbedrag van de ingekochte vis of visproducten.   
+3.  De heffing wegens de handeling, bedoeld in artikel 2, onder c, bedraagt 0,21 promille van het inkoopbedrag van de ingekochte vis of visproducten.   
 4.  De heffing wegens de handeling, bedoeld in artikel 2, onder d, bedraagt € 123,00 per verkooppunt per kalenderjaar. Onder verkooppunt wordt onder meer verstaan een viswinkel, een webwinkel, een viskraam of een visverkoopwagen.   
-5.  Onverminderd het bepaalde in het derde lid, bedraagt de heffing wegens de handeling, bedoeld in artikel 2, onder e, 15 promille van het inkoopbedrag van de ingekochte maatjesharing.   
+5.  Onverminderd het bepaalde in het derde lid, bedraagt de heffing wegens de handeling, bedoeld in artikel 2, onder e, 7,5 promille van het inkoopbedrag van de ingekochte maatjesharing.   
 6.   
 
 a. De waarde van de aangevoerde zeevis, als bedoeld in het eerste lid onder a, wordt vastgesteld overeenkomstig artikel 4, eerste en tweede lid.  

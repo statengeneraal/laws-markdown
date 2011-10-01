@@ -37,7 +37,7 @@ c. de wet: de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financ
 
 1.  Van [artikel 2:3a, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld betaaldienstverleners: 
 
-a. voor zover zij in Nederland betaaldiensten verlenen als bedoeld onder 1 tot en met 5 en 7 van de in de bijlage bij de richtlijn bedoelde betaaldiensten;  
+a. voor zover zij in Nederland betaaldiensten verlenen als bedoeld onder 1 tot en met 5 en 7 van de bijlage bij de richtlijn betaaldiensten;  
 
 b. waarvan het gemiddelde van het totale bedrag van de betalingstransacties die zij de voorafgaande twaalf maanden hebben verricht, met inbegrip van die van agenten waarvoor zij volledig aansprakelijk zijn, niet hoger is dan € 3.000.000 per maand;  
 
@@ -75,7 +75,7 @@ b. aanbieders van beleggingsobjecten voorzover zij financiële diensten verlenen
 2°. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of  
 
 3°. consumenten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.       
-2.  Het eerste lid, aanhef en onderdeel a, is slechts van toepassing voorzover de aanbieder bij een aanbod van beleggingsobjecten als bedoeld in het eerste lid, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, vermeldt dat hij voor het aanbieden niet vergunningplichtig is ingevolge de [wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en niet onder toezicht staat van de Autoriteit Financiële Markten.   
+2.  Indien een aanbieding niet uitsluitend aan gekwalificeerde beleggers wordt gedaan is het eerste lid, aanhef en onderdeel a, slechts van toepassing voor zover de aanbieder bij een aanbod van beleggingsobjecten als bedoeld in het eerste lid, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, vermeldt dat hij voor het aanbieden niet vergunningplichtig is ingevolge de [wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en niet onder toezicht staat van de Autoriteit Financiële Markten.   
 
 ### §  2.2  
 
@@ -93,9 +93,17 @@ Van [artikel 2:60, eerste lid, van de wet](../../../../wet/wet/op/het/financieel
 
 a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-b. het effectief kredietvergoedingspercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md); en  
+b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md); en  
 
 c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.    
+
+### Artikel  3b  
+
+Van [artikel 2:60, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld: 
+
+a. betaaldienstverleners die voor het uitoefenen van het bedrijf van betaaldienstverlener een door de Nederlandsche Bank op grond van [artikel 2:3b van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verleende vergunning hebben, voorzover zij in Nederland uitsluitend krediet aanbieden in verband met betaaldiensten als bedoeld in de punten 4, 5 en 7 van de bijlage bij de richtlijn betaaldiensten mits is voldaan aan de voorwaarden van [artikel 40b van het Besluit prudentiële regels Wft](../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md); en  
+
+b. betaaldienstverleners met zetel in een andere lidstaat die voor het uitoefenen van het bedrijf van betaaldienstverlener een door de toezichthoudende instantie van die lidstaat verleende vergunning hebben, voorzover zij in Nederland uitsluitend krediet in verband met betaaldiensten als bedoeld in de punten 4, 5, en 7 van de bijlage bij de richtlijn betaaldiensten aanbieden vanuit een in Nederland gelegen bijkantoor of door middel van het verrichten van diensten naar Nederland mits is voldaan aan de voorwaarden van artikel 16, derde lid, van de richtlijn betaaldiensten.    
 
 ### §  2.3  
 
@@ -122,7 +130,7 @@ e. waarvan:
 2°. minder dan vijftig procent van de totale gerealiseerde opbrengsten gegenereerd wordt uit beleggingen; of    
 
 f. aan bestuurders, leden van de raad van commissarissen of werknemers van die beleggingsinstelling, of aan bestuurders, leden van de raad van commissarissen of werknemers van een met die beleggingsinstelling in een formele of feitelijke zeggenschapsstructuur verbonden vennootschap of instelling.     
-2.  Het eerste lid is slechts van toepassing voorzover de aanbieders bij een aanbod van rechten van deelneming als bedoeld in het eerste lid, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, vermelden dat zij voor het aanbieden van deze rechten van deelneming niet vergunningplichtig zijn ingevolge de [wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en niet onder toezicht staan van de Autoriteit Financiële Markten.   
+2.  Indien een aanbieding niet uitsluitend aan gekwalificeerde beleggers wordt gedaan is het eerste lid slechts van toepassing voor zover de aanbieders bij een aanbod van rechten van deelneming als bedoeld in het eerste lid, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, vermelden dat zij voor het aanbieden van deze rechten van deelneming niet vergunningplichtig zijn ingevolge de [wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en niet onder toezicht staan van de Autoriteit Financiële Markten.   
 3.  Het eerste lid is niet van toepassing op beheerders voorzover zij rechten van deelneming aanbieden in beleggingsinstellingen die voorzieningen aanhouden in het kader van een levensloopregeling als bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
 4.  Het voldoen aan de in het eerste lid, onderdeel e, genoemde criteria wordt berekend ongeacht de presentatie in de jaarrekening en wordt vastgesteld per balansdatum aan het einde van het boekjaar.   
 
@@ -177,7 +185,7 @@ Van [artikel 2:75, eerste lid, van de wet](../../../../wet/wet/op/het/financieel
 
 a. zij adviseren over krediet dat zij tevens aanbieden of waarin zij tevens bemiddelen ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-b. het effectief kredietvergoedingspercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md); en  
+b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md); en  
 
 c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.    
 
@@ -224,7 +232,7 @@ Van [artikel 2:80, eerste lid, van de wet](../../../../wet/wet/op/het/financieel
 
 a. zij bemiddelen in krediet ter overbrugging van tijdelijke liquiditeitstekorten ten behoeve van natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-b. het effectief kredietvergoedingspercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md); en  
+b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md); en  
 
 c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.    
 
@@ -633,7 +641,7 @@ Instellingen als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet i
 
 a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-b. het effectief kredietvergoedingspercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md); en  
+b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md); en  
 
 c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.    
 
@@ -672,7 +680,7 @@ g. combinaties van twee of meer van de financiële producten, bedoeld in de onde
 
 ### Artikel  42  
 
-Aanbieders van complexe producten als bedoeld in [artikel 1, onderdeel d, van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) zijn vrijgesteld van [artikel 150 van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), voorzover het complexe producten betreft waarvoor de consument eenmalig een premie betaalt of eenmalig een storting doet.  
+Aanbieders van complexe producten als bedoeld in [artikel 1 van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) zijn vrijgesteld van [artikel 150 van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), voorzover het complexe producten betreft waarvoor de consument eenmalig een premie betaalt of eenmalig een storting doet.  
 
 ### Artikel  43  
 
@@ -847,9 +855,10 @@ f. effecten zonder aandelenkarakter die worden uitgegeven door een bank waarbij 
 2°. niet achtergesteld, converteerbaar of omwisselbaar zijn; en  
 
 3°. geen recht geven tot het inschrijven op of verwerven van andere categorieën effecten en niet aan een derivaat gekoppeld zijn; of       
-2.  Het aanbieden van effecten aan het publiek en toelaten van effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt zijn vrijgesteld van hetgeen ingevolge [hoofdstuk 5.1 van het Deel Gedragstoezicht financiële markten van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald, voorzover het betreft effecten die deel uitmaken van een aanbieding waarbij de totale tegenwaarde van de aanbieding, berekend over een periode van twaalf maanden, minder dan € 2,5 miljoen bedraagt.   
-3.  Het tweede lid is slechts van toepassing voorzover de aanbieders in reclame-uitingen en documenten waarin de aanbieding of de toelating in het vooruitzicht wordt gesteld, vermelden dat zij voor het aanbieden van effecten aan het publiek of het toelaten van effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt niet vergunningplichtig zijn ingevolge de [wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en niet onder toezicht staan van de Autoriteit Financiële Markten.   
-4.  Degenen die, onverminderd het eerste lid, aanhef en onderdeel a, c, f, en het tweede lid, een prospectus opstellen overeenkomstig [hoofdstuk 5.1 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kunnen de Autoriteit Financiële Markten verzoeken om dit prospectus goed te keuren. In dat geval zijn de [artikelen 5:9, eerste lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:9a](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:10 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing.   
+2.  Het aanbieden van effecten aan het publiek en toelaten van effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt zijn vrijgesteld van hetgeen ingevolge [hoofdstuk 5.1 van het Deel Gedragstoezicht financiële markten van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald, voorzover het betreft effecten die deel uitmaken van een aanbieding waarbij de totale tegenwaarde van de aanbieding binnen de Europese Economische Ruimte, berekend per categorie en over een periode van twaalf maanden, minder dan € 2,5 miljoen bedraagt.   
+3.  Voor de toepassing van het tweede lid wordt de totale tegenwaarde van de aanbiedingen van in een groep verbonden groepsmaatschappijen opgeteld.   
+4.  Indien een aanbieding niet uitsluitend aan gekwalificeerde beleggers wordt gedaan is het tweede lid slechts van toepassing voor zover de aanbieders in reclame-uitingen en documenten waarin de aanbieding of de toelating in het vooruitzicht wordt gesteld, vermelden dat ingevolge de [wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geen verplichting bestaat tot het algemeen verkrijgbaar stellen van een prospectus dat is goedgekeurd door de Autoriteit Financiële Markten ter zake van de aanbieding of toelating en dat op de aanbieding of toelating geen toezicht wordt uitgeoefend door de Autoriteit Financiële Markten.   
+5.  Degenen die, onverminderd het eerste lid, aanhef en onderdeel a, c, f, en het tweede lid, een prospectus opstellen overeenkomstig [hoofdstuk 5.1 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kunnen de Autoriteit Financiële Markten verzoeken om dit prospectus goed te keuren. In dat geval zijn de [artikelen 5:9, eerste lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:9a](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:10 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  54  
 
@@ -857,15 +866,9 @@ f. effecten zonder aandelenkarakter die worden uitgegeven door een bank waarbij 
 
 a. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek [artikel 5:3, tweede lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), artikel 53, of 55, van toepassing was;  
 
-b. ter zake van een eerdere toelating van dezelfde effecten tot de handel op een gereglementeerde markt [artikel 5:4 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of artikel 53, eerste lid, van toepassing was;  
+b. ter zake van een eerdere toelating van dezelfde effecten tot de handel op een gereglementeerde markt [artikel 5:4 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of artikel 53, eerste lid, van toepassing was; of  
 
-c. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek in Nederland of ter zake van een eerdere toelating van dezelfde effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat; of  
-
-d. de effecten aan het publiek uitsluitend in het kader van verhandeling op een multilaterale handelsfaciliteit worden aangeboden en de effecten reeds in overeenstemming met het in die staat geldende recht zijn toegelaten tot de handel op een handelsplatform in: 
-
-1°. een lidstaat, of  
-
-2°. in een staat die geen lidstaat is en waar ten aanzien van de uitgevende instelling met betrekking tot financiële verslaggeving voorschriften gelden die voldoen aan de vereisten gesteld in een op grond van artikel 23, vierde en zevende lid, van de richtlijn transparantie genomen bindend besluit van de Commissie van de Europese Gemeenschappen.       
+c. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek in Nederland of ter zake van een eerdere toelating van dezelfde effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat.     
 2.  Het aanbieden van aandelen, of certificaten daarvan, aan het publiek is vrijgesteld van hetgeen ingevolge [hoofdstuk 5.1 van het Deel Gedragstoezicht financiële markten van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald, voorzover op de toelating daarvan tot de handel op de gereglementeerde markt [artikel 5:4, aanhef en onderdeel a, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is en ter zake van een eerdere toelating tot de handel op dezelfde gereglementeerde markt van dezelfde aandelen, of certificaten daarvan, van dezelfde categorie of klasse, een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat.   
 3.  Het aanbieden van aandelen, of certificaten daarvan, aan het publiek die voortkomen uit de conversie of omruiling van andere effecten of uit de uitoefening van rechten verbonden aan andere effecten is vrijgesteld van hetgeen ingevolge [hoofdstuk 5.1 van het Deel Gedragstoezicht financiële markten van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald, voorzover: 
 

@@ -3,7 +3,7 @@
 ##Regeling tot de subsidiëring van kennismakingsstages in de zeescheepvaart en waterbouw van 2010 tot en met 2014 (Tijdelijke subsidieregeling kennismakingsstages scheepvaart)
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 2, onderdeel c](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [3](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [10:4, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 2, onderdeel c, 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat en 10:4, tweede lid, van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
@@ -51,9 +51,9 @@ b. € 300.000 in 2011;
 
 c. € 300.000 in 2012;  
 
-d. € 500.000 in 2013;  
+d. € 300.000 in 2013;  
 
-e. € 500.000 in 2014.     
+e. € 300.000 in 2014.     
 2.  De kosten van de in artikel 6 bedoelde uitvoerders, verbonden aan de werkzaamheden ter uitvoering van deze regeling, komen ten laste van de in het eerste lid genoemde bedragen.   
 
 ### Artikel  5  
@@ -88,5 +88,5 @@ J.C.Huizinga-Heringa
 
 ####: Model subsidieaanvraag als bedoeld in artikel 2, tweede lid 
 
-![245750](http://wetten.overheid.nl/Illustration/245750)
+![]()
 

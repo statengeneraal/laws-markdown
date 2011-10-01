@@ -119,7 +119,7 @@ ee. ondernemingsraad: een ondernemingsraad als bedoeld in de [Wet op de ondernem
 ####Aard bepalingen
 
 1.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.7, 1.3.8, 1.7.1, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1 tot en met 4.1.4, 4.2.1 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1, 8.1.1a, 8.1.2, tweede lid, 8.1.3, eerste tot en met derde lid, 8.1.4 tot en met 8.2.1, 8.4.1, 8.4.2 en 9.1.2, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn regels voor openbare instellingen voor educatie en beroepsonderwijs.   
-2.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.8, 1.7.1, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1, 4.1.2, 4.1.4, 4.1.5, eerste lid, 4.1.6 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1, 8.1.1a, 8.1.2, eerste lid, 8.1.3 tot en met 8.2.1, 8.4.1, 8.4.2, 9.1.1, 9.1.3, eerste lid, 9.1.4, 9.1.7 en 9.1.8, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn voorwaarden voor bekostiging voor bijzondere instellingen voor educatie en beroepsonderwijs.   
+2.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.8, 1.7.1, 2.1.9, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1, 4.1.2, 4.1.4, 4.1.5, eerste lid, 4.1.6 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1, 8.1.1a, 8.1.2, eerste lid, 8.1.3 tot en met 8.2.1, 8.4.1, 8.4.2, 9.1.1, 9.1.3, eerste lid, 9.1.4, 9.1.7 en 9.1.8, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn voorwaarden voor bekostiging voor bijzondere instellingen voor educatie en beroepsonderwijs.   
 
 ### Titel  2  
 
@@ -339,7 +339,7 @@ b. instellingen die zijn voortgekomen
 
 3°. uit een omzetting van een bijzondere instelling in een openbare of omgekeerd.       
 3.  Indien aan een agrarisch opleidingscentrum gedurende twee achtereenvolgende jaren minder dan 1200 deelnemers zijn ingeschreven voor beroepsopleidingen of voor het voorbereidend beroepsonderwijs, bedoeld in artikel 1.3.3, kan Onze Minister besluiten dat aan die instelling de rechten, genoemd in artikel 1.3.1, ontnomen worden, onverminderd het overigens met betrekking tot ontneming van rechten in deze wet bepaalde.   
-4.  Onze Minister besluit binnen tien maanden na ontvangst van een aanvraag op grond van het tweede lid, onder *b*. Indien de beschikking niet binnen tien maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien. Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot het tweede lid, onder b.   
+4.  Onze Minister besluit binnen 26 weken na ontvangst van een aanvraag op grond van het tweede lid, onder b. Op het besluit bedoeld in het eerste lid is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot het tweede lid, onder b.   
 5.  Bij een beschikking op grond van het derde lid bepaalt Onze Minister het tijdstip waarop aan die instelling de rechten, genoemd in artikel 1.3.1, ontnomen worden zodanig dat de ingeschreven deelnemers de opleiding waarvoor zij zijn ingeschreven, aan dezelfde instelling of aan een andere instelling binnen een redelijke tijd kunnen voltooien.   
 
 ### Artikel  2.1.4  
@@ -1803,7 +1803,7 @@ b. de getuigschriften van overeenkomstige Nederlandse beroepsopleidingen.
 2.  Bij de vergelijkingen en waarderingen wordt zo mogelijk aangegeven tot welke soort in artikel 7.2.2, eerste lid, bedoelde beroepsopleiding de desbetreffende opleiding kan worden gerekend en met welke in het Centraal register vermelde beroepsopleiding die opleiding vergelijkbaar is of kan worden gelijkgesteld.   
 3.  De vergelijking of waardering wordt slechts verstrekt: 
 
-a. op verzoek van de autoriteit, bedoeld in [artikel 8 van de in het eerste lid genoemde wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepsopleidingen/BWBR0006781/README.md), ten behoeve van aanvragen van EG-verklaringen als bedoeld in [artikel 10 van die wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepsopleidingen/BWBR0006781/README.md),  
+a. op verzoek van de op grond van de in het eerste lid genoemde [wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) bevoegde autoriteiten, ten behoeve van aanvragen tot het verlenen van erkenning van beroepskwalificaties als bedoeld in [artikel 5 van die wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md),  
 
 b. indien deze noodzakelijk is voor deelneming van personen met een buitenlandse beroepskwalificatie aan een Nederlandse beroepsopleiding, of  
 
@@ -2213,6 +2213,9 @@ b. de medezeggenschapsstructuren sluiten zo veel mogelijk aan bij de organisatie
 
 1.  Het bevoegd gezag stelt de deelnemersraad, de ondernemingsraad en, in voorkomende gevallen, de ouderraad ten minste eenmaal per jaar in de gelegenheid gezamenlijk de algemene gang van zaken in de instelling met hem te bespreken.   
 2.  Het bevoegd gezag, de deelnemersraad, de ondernemingsraad en, in voorkomende gevallen, de ouderraad komen voorts met elkaar bijeen indien daarom onder opgave van redenen door één of meer der raden wordt verzocht.   
+3.  In geval van een voornemen tot een fusie als bedoeld in artikel 2.1.8 komen het bevoegd gezag, de deelnemersraad, de ondernemingsraad en, in voorkomende gevallen, de ouderraad bijeen om dat voornemen te bespreken. De bespreking is gericht op het bereiken van overeenstemming. Indien overeenstemming wordt bereikt, wordt dit aangemerkt als instemming met het voornemen tot fusie. Bij het ontbreken van overeenstemming wordt dit aangemerkt als het onthouden van instemming. In het laatste geval kan elk van de deelnemers aan de bespreking het geschil voorleggen aan de geschillencommissie, bedoeld in artikel 8a.4.1, eerste lid.   
+4.  Indien geen overeenstemming wordt bereikt, hebben de deelnemersraad, de ondernemingsraad en, in voorkomende gevallen, de ouderraad elk afzonderlijk adviesrecht ten aanzien van het voornemen tot fusie, onverminderd het recht het geschil voor te leggen aan de in het vorige lid bedoelde geschillencommissie.   
+5.  Het bevoegd gezag stelt de deelnemersraad, de ondernemingsraad en, in voorkomende gevallen, de ouderraad in de gelegenheid om tijdig voorafgaand aan de gezamenlijke bijeenkomst, bedoeld in het derde lid, kennis te nemen van de opgestelde fusie-effectrapportage, bedoeld in artikel 2.1.10, derde lid.   
 
 ### Titel  2  
 

@@ -1952,6 +1952,84 @@ g. de bevoegdheid de stichting te ontbinden.
 9.  In geval van ernstige taakverwaarlozing door het bestuur of functioneren in strijd met de wet, voor zover het openbaar onderwijs betreft, neemt de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, de maatregelen die hij nodig acht om de continuïteit van het onderwijsproces te waarborgen voor zover het openbaar onderwijs betreft. De bedoelde maatregelen kunnen tevens worden getroffen door de rechtspersoon, bedoeld in het vijfde lid, voor zover het bijzonder onderwijs betreft. De feitelijke samenwerking wordt beëindigd op 1 augustus van het jaar na een daartoe door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid, gezamenlijk genomen besluit.   
 10.  Een geschil tussen een bestuursorgaan van de gemeente en de rechtspersoon, bedoeld in het vijfde lid, omtrent het toezicht op de samenwerkingsschool en omtrent de uitlegging van de statuten van de stichting die de samenwerkingsschool in stand houdt, wordt voorgelegd aan een geschillencommissie, bestaande uit een of meer door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon in onderling overleg aangewezen deskundigen.   
 
+### Hoofdstuk  V  
+
+####Fusies
+
+### Artikel  53e  
+
+####Begripsbepalingen
+
+1.  In deze afdeling wordt verstaan onder: 
+
+a. *fusie:* een bestuurlijke of institutionele fusie,  
+
+b. *institutionele fusie:* een fusie als bedoeld in artikel 71, tweede en derde lid, waarbij een school ontstaat door samenvoeging van twee of meer scholen dan wel instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+
+c. *bestuurlijke fusie:* een fusie waarbij een of meer rechtspersonen de instandhouding van een school, een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) dan wel de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), een instelling als bedoeld in de Wet educatie en beroepsonderwijs of een instelling als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) overdragen.     
+2.  Het eerste lid, onderdeel b, is niet van toepassing op het instellen van een openbare rechtspersoon als bedoeld in artikel 42a, eerste lid, eerste volzin of de instandhouding van een of meer openbare scholen door een stichting als bedoeld in artikel 42b, eerste lid.   
+
+### Artikel  53f  
+
+####Goedkeuring
+
+Fusies worden niet tot stand gebracht dan nadat daarvoor goedkeuring is verleend door Onze Minister.  
+
+### Artikel  53g  
+
+####Aanvraag en fusie-effectrapportage
+
+1.  De rechtspersoon dient dan wel de rechtspersonen gezamenlijk dienen een aanvraag in bij Onze Minister voor het verkrijgen van de goedkeuring, bedoeld in artikel 53f. De aanvraag gaat vergezeld van: 
+
+a. een door de rechtspersoon dan wel rechtspersonen opgestelde fusie-effectrapportage, en  
+
+b. een schriftelijke verklaring van instemming met de fusie door de medezeggenschapsraden dan wel de gemeenschappelijke medezeggenschapsraden, dan wel  
+
+c. de bindende uitspraak van de geschillencommissie, bedoeld in [artikel 32, derde lid, van de Wet medezeggenschap op scholen](../../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md), dan wel de bindende uitspraak van de ondernemingskamer, bedoeld in [artikel 36, derde lid, van de Wet medezeggenschap op scholen](../../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md).     
+2.  Een aanvraag als bedoeld in het eerste lid geldt eveneens als een aanvraag om voor bekostiging in aanmerking te komen als bedoeld in artikel 71.   
+3.  De fusie-effectrapportage bevat ten minste een weergave van: 
+
+a. de motieven voor de fusie,  
+
+b. de alternatieven voor de fusie,  
+
+c. het tijdsbestek waarbinnen de fusie zal worden gerealiseerd,  
+
+d. de te bereiken doelen,  
+
+e. de effecten van de fusie op de keuzevrijheid, in het bijzonder de effecten van de fusie op de spreiding en omvang van de rechtspersonen en vestigingen van scholen in de gemeenten waarin de huidige leerlingen van die scholen woonachtig zijn, de onderwijskundige en bestuurlijke diversiteit van het onderwijsaanbod in de betreffende gemeenten,  
+
+f. de financiële en personele gevolgen en de gevolgen voor leerlingen van de fusie, waaronder begrepen de gevolgen voor de voorzieningen,  
+
+g. de wijze waarop over de fusie wordt gecommuniceerd,  
+
+h. de wijze waarop de fusie wordt geëvalueerd, en  
+
+i. een advies van burgemeester en wethouders van de betrokken gemeenten over de wenselijkheid van de voorgestelde fusie.     
+4.  Bij ministeriële regeling wordt een modelformulier voor de fusie-effectrapportage vastgesteld.   
+
+### Artikel  53h  
+
+####Toets
+
+1.  Onze Minister kan goedkeuring onthouden indien als gevolg van de institutionele of bestuurlijke fusie: 
+
+a. de daadwerkelijke variatie van het onderwijsaanbod, zowel in het opzicht van richting als van pedagogisch-didactische aanpak en schoolsoort binnen de gemeenten waarin de huidige leerlingen van die scholen of rechtspersonen woonachtig zijn, op significante wijze wordt belemmerd, of  
+
+b. het aandeel per schoolsoort van de bij de fusie betrokken scholen in het aantal leerlingen in de gemeenten waarin de huidige leerlingen van die scholen woonachtig zijn een nader bij ministeriële regeling vast te stellen percentage overschrijdt.     
+2.  Onze Minister kan bovendien goedkeuring onthouden aan een institutionele fusie indien de percentages leerlingen betrokken bij de fusie minder zijn dan de percentages bedoeld in artikel 71, tweede lid, onder a of b.   
+3.  Onze minister verleent slechts goedkeuring aan een bestuurlijke fusie als bedoeld in artikel 17, indien daardoor de continuïteit van het openbaar of het bijzonder onderwijs gehandhaafd kan blijven en met de bestuurlijke fusie wordt voorkomen dat een of meer daarbij betrokken scholen door toepassing van artikel 107 wordt opgeheven of niet meer voor bekostiging in aanmerking komt. Het bevoegd gezag van de betreffende school toont dat aan op basis van een prognose van de ontwikkeling van het aantal leerlingen waaruit blijkt dat die school binnen een termijn van zes jaar dreigt te worden opgeheven of niet meer te worden bekostigd.   
+4.  Onze Minister laat zich ten aanzien van de goedkeuring, bedoeld in het eerste, tweede en derde lid, adviseren door een onafhankelijke adviescommissie, tenzij de noodzaak daartoe ontbreekt. Bij ministeriële regeling wordt bepaald wanneer er geen sprake is van de noodzaak bedoeld in de eerste volzin.   
+5.  Onze Minister stelt beleidsregels vast omtrent de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
+
+### Artikel  53i  
+
+####Toetsingstermijn en verlenging
+
+1.  Onze Minister besluit binnen 13 weken op een aanvraag als bedoeld in artikel 53f.   
+2.  De termijn bedoeld in het eerste lid kan ten hoogste met 13 weken worden verlengd. Van deze verlenging wordt, binnen de 13 weken bedoeld in het eerste lid, mededeling gedaan aan de aanvrager.   
+3.  Op het besluit bedoeld in het eerste lid is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+
 ### Afdeling  II  
 
 ####Niet uit de openbare kas bekostigd bijzonder schoolonderwijs
@@ -2118,7 +2196,7 @@ b. een scholengemeenschap die is ontstaan door samenvoeging van een scholengemee
 3.  Het tweede lid, aanhef en onderdeel b, is van overeenkomstige toepassing op een scholengemeenschap als bedoeld in [artikel 2.6 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) waarvan een agrarisch opleidingscentrum deel uitmaakt, die wordt samengevoegd met een school voor middelbaar algemeen voorgezet onderwijs, een school voor voorbereidend beroepsonderwijs waarin slechts onderwijs wordt verzorgd als bedoeld in artikel 10c, onderdeel d, of een school voor praktijkonderwijs.   
 4.  Na een samenvoeging wordt op een vestiging onderwijs verzorgd in dezelfde schoolsoorten als bedoeld in artikel 5, in dezelfde afdelingen als bedoeld in artikel 10c, en in dezelfde leerjaren als op de desbetreffende vestiging voor de samenvoeging, behoudens wijzigingen in het onderwijsaanbod op grond van artikel 68 of artikel 72.   
 5.  Onze Minister kan voor bekostiging in aanmerking brengen een tijdelijke nevenvestiging als bedoeld in artikel 16, indien het bevoegd gezag heeft aangetoond dat burgemeester en wethouders van de desbetreffende gemeente de benodigde huisvesting ter beschikking zullen stellen. De voorwaarde in de eerste volzin is niet van toepassing ten aanzien van scholengemeenschappen als bedoeld in [artikel 2.6, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en scholen waarvoor jaarlijks een bedrag voor huisvestingskosten wordt betaald op grond van artikel 76v.   
-6.  Artikel 65, vijfde lid, is van overeenkomstige toepassing bij toepassing van het tweede, derde en vijfde lid. Artikel 66, eerste en derde lid, is van overeenkomstige toepassing bij toepassing van het tweede en derde lid, met dien verstande dat artikel 65 niet in acht wordt genomen bij de toepassing van artikel 66, derde lid, indien een samenwerkingsschool tot stand komt.   
+6.  Artikel 65, vijfde lid, is van overeenkomstige toepassing bij toepassing van het tweede, derde en vijfde lid.   
 
 ### Artikel  72  
 
@@ -3088,12 +3166,20 @@ d. de controle van de boekhouding en de administratie van de scholen.
 
 a. voor een school voor praktijkonderwijs: 70 leerlingen,  
 
-b. voor een school voor voorbereidend beroepsonderwijs met twee of drie sectoren als bedoeld in artikel 10b, derde lid: 240 leerlingen,  
+b. voor een school voor voorbereidend beroepsonderwijs met één sector als bedoeld in artikel 10b, derde lid: 195 leerlingen,  
 
-c. voor een school voor voorbereidend beroepsonderwijs met vier sectoren als bedoeld in artikel 10b, derde lid: 360 leerlingen, en  
+c. voor een school voor voorbereidend beroepsonderwijs met twee of drie sectoren als bedoeld in artikel 10b, derde lid: 240 leerlingen,  
 
-d. voor de overige scholen: drie kwart van het aantal leerlingen dat voor de desbetreffende schoolsoort is genoemd in artikel 65, eerste lid.     
-2.  Een openbare scholengemeenschap wordt opgeheven en de bekostiging van een bijzondere scholengemeenschap wordt beëindigd indien de scholengemeenschap gedurende drie achtereenvolgende schooljaren telkens is bezocht door een aantal leerlingen dat minder bedraagt dan de helft van het aantal leerlingen dat op grond van artikel 65, eerste lid, vereist is voor stichting van de scholen die deel uitmaken van de scholengemeenschap.   
+d. voor een school voor voorbereidend beroepsonderwijs met vier sectoren als bedoeld in artikel 10b, derde lid: 360 leerlingen, en  
+
+e. voor de overige scholen: drie kwart van het aantal leerlingen dat voor de desbetreffende schoolsoort is genoemd in artikel 65, eerste lid.     
+2.  Een openbare scholengemeenschap wordt opgeheven en de bekostiging van een bijzondere scholengemeenschap wordt beëindigd indien de scholengemeenschap gedurende drie achtereenvolgende schooljaren telkens is bezocht door een aantal leerlingen dat minder bedraagt dan de helft van het aantal leerlingen dat op grond van artikel 65, eerste lid, vereist is voor stichting van de scholen die deel uitmaken van de scholengemeenschap, met dien verstande dat het voor scholen voor voorbereidend beroepsonderwijs binnen een scholengemeenschap gaat om: 
+
+a. voor een school met één sector als bedoeld in 10b, derde lid: 130 leerlingen,  
+
+b. voor een school met twee of drie sectoren als bedoeld in 10b, derde lid: 160 leerlingen, en  
+
+c. voor een school met vier sectoren als bedoeld in artikel 10b, derde lid, wordt gerekend: 240 leerlingen.     
 3.  De opheffing van een openbare school of scholengemeenschap of de beëindiging van de bekostiging van een bijzondere school of scholengemeenschap geschiedt met ingang van 1 augustus volgend op de drie achtereenvolgende schooljaren, bedoeld in het eerste of tweede lid.   
 
 ### Artikel  108  

@@ -41,9 +41,9 @@ e. een zo nauwkeurig mogelijke aanduiding van de geografische locaties waar de a
 
 ### Artikel  4  
 
-1.  Het besluit tot een afwijkend gebruik wordt door of namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk de Minister van Defensie schriftelijk aan de Minister gemeld binnen uiterlijk 24 uur nadat het is genomen.   
+1.  Het besluit tot een afwijkend gebruik dat uit jammen bestaat, wordt door of namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk de Minister van Defensie schriftelijk aan de Minister gemeld binnen ten hoogste 24 uur nadat het is genomen.   
 2.  Het besluit tot een afwijkend gebruik dat uit jammen bestaat, wordt voorafgaand aan de tenuitvoerlegging in ieder geval mondeling gemeld.   
-3.  Bij de melding worden de gegevens, bedoeld in artikel 3, tweede lid, onder a, b en d, verstrekt. Indien het afwijkend gebruik uit jammen bestaat worden daarbij, voorzover mogelijk, tevens de te hanteren vermogens van de te gebruiken apparatuur verstrekt.   
+3.  Bij de melding worden de gegevens, bedoeld in artikel 3, tweede lid, onderdelen a, b en d, en voor zover mogelijk, tevens de te hanteren vermogens van de te gebruiken apparatuur verstrekt.   
 
 ### Artikel  5  
 

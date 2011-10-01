@@ -46,7 +46,7 @@ e. *vrachtauto:* vrachtauto als bedoeld in [artikel 1.1 van de Wet wegvervoer go
 
 f. *bus:* motorrijtuig als bedoeld in [artikel 1, onderdeel e, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
 
-g. *taxi:* auto waarmee taxivervoer wordt verricht als bedoeld in [artikel 1, onderdeel j, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+g. *taxi:* auto, als bedoeld in [artikel 1, onderdeel f, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) waarmee vervoer wordt verricht waarvoor een vergunning, als bedoeld in [artikel 4, derde lid, van voornoemde wet](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), vereist is;  
 
 h. *bijrijder:* persoon die als functie heeft in een vrachtauto mee te rijden om de bestuurder daarvan behulpzaam te zijn en in voorkomende gevallen direct met het vervoer samenhangende werkzaamheden te verrichten;  
 
@@ -117,23 +117,18 @@ c. een taxi, niet zijnde een ambulance.
 ### Artikel  2.4:1  
 
 1.  Met uitzondering van de gegevens en bescheiden, bedoeld in verordening (EEG) nr. 3821/85, bewaren de werkgever en de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), de gegevens en bescheiden met betrekking tot de in [artikel 4:3 van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) neergelegde registratieverplichting ten minste 104 weken, gerekend vanaf de datum waarop de gegevens en bescheiden betrekking hebben.   
-2.  De werkgever handelt in overeenstemming met artikel 14, tweede lid, van verordening (EEG) nr. 3821/85.   
+2.  De werkgever en de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), handelen in overeenstemming met artikel 14, tweede lid, van verordening (EEG) nr. 3821/85.   
 3.  De bestuurder handelt in overeenstemming met artikel 6, vijfde lid, van verordening (EG) nr. 561/2006.   
 4.  De werkgever en de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), handelen in overeenstemming met artikel 10, vijfde lid, van verordening (EG) nr. 561/2006.   
 5.  De werknemer bewaart de gegevens en bescheiden met betrekking tot de in [artikel 4:3 van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) neergelegde registratieverplichting die tijdens zijn werkzaamheden, bedoeld in artikel 2.3:1 zijn geregistreerd tot het tijdstip van deugdelijke overdracht aan de werkgever.   
 6.  Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen regels worden gesteld over de wijze van bewaren van de in het eerste en tweede lid bedoelde gegevens en bescheiden, en het overbrengen van de in het controleapparaat en op de bestuurderskaart geregistreerde gegevens naar de vestiging van de werkgever of de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md).   
 
-####Werkmap
+####Boordcomputer
 
 ### Artikel  2.4:2  
 
-1.  Bij taxivervoer heeft de bestuurder gedurende de tijd dat hij arbeid verricht een geldige werkmap bij zich volgens een door Onze Minister van Verkeer en Waterstaat vastgesteld model.   
-2.  Het eerste lid is niet van toepassing indien: 
-
-a. wordt gehandeld overeenkomstig het bepaalde bij of krachtens de artikelen 2.4:1 en 2.4:13 en het verbod van artikel 2.4:4 wordt nageleefd, of  
-
-b. een dienstrooster is opgesteld overeenkomstig het bepaalde bij of krachtens artikel 2.4:3.     
-3.  Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen nadere regels worden gesteld ten aanzien van de inhoud, het gebruik, de vorm, de afgifte en de verlenging van de geldigheidsduur van de werkmap.   
+1.  Bij taxivervoer wordt door de werkgever, de bestuurder en de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) ten behoeve van een deugdelijke registratie van de arbeids- en rusttijden, een boordcomputer, als bedoeld in [artikel 79, eerste lid, van het Besluit personenvervoer 2000](../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) gebruikt, overeenkomstig het bepaalde bij of krachtens voornoemd besluit.   
+2.  Bij regeling van Onze Minister van Verkeer en Waterstaat worden nadere regels gesteld over de registratieverplichtingen die op de vervoerder en de bestuurder rusten indien de boordcomputer buiten gebruik is en de gegevens die in dat geval aanwezig zijn in de taxi.   
 
 ####Dienstrooster
 
@@ -143,11 +138,11 @@ b. een dienstrooster is opgesteld overeenkomstig het bepaalde bij of krachtens a
 2.  Het eerste lid is niet van toepassing indien wordt gehandeld overeenkomstig het bepaalde bij of krachtens de artikelen 2.4:1 en 2.4:13 en het verbod van artikel 2.4:4 wordt nageleefd.   
 3.  Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen nadere regels worden gesteld ten aanzien van de inhoud, de invulling, de bekendmaking en de bewaring van het dienstrooster.   
 
-####Misbruik controlemiddelen
+####Controlemiddelen
 
 ### Artikel  2.4:4  
 
-Het is de werkgever, de werknemer en de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), verboden: 
+1.  Het is de werkgever, de werknemer en de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), verboden: 
 
 a. in of op controlemiddelen onjuiste gegevens of onjuiste aantekeningen te stellen, te doen stellen, of toe te laten dat zij daarin of daarop gesteld worden;  
 
@@ -159,7 +154,8 @@ d. gebruik te maken van een controlemiddel waarop of waarin onjuiste aantekening
 
 e. een niet op zijn naam gestelde bestuurderskaart, werkplaatskaart of bedrijfskaart te gebruiken, met uitzondering van een bedrijfskaart van een werkgever die wordt gebruikt door zijn werknemer;  
 
-f. in het voertuig een voorziening aanwezig te hebben die voor misbruik als bedoeld in de onderdelen a tot en met e kan worden aangewend.    
+f. in het voertuig een voorziening aanwezig te hebben die voor misbruik als bedoeld in de onderdelen a tot en met e kan worden aangewend.     
+2.  Dit artikel is niet van toepassing op de boordcomputer, bedoeld in artikel 2.4:2, eerste lid.   
 
 ####Aanvraag en goedkeuring model tachograafkaart
 
@@ -197,7 +193,7 @@ a. de in het eerste lid bedoelde werkzaamheden;
 
 b. teruggaaf van de opgeslagen gegevens aan de rechthebbende werkgever of persoon als bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), of  
 
-c. toezicht op de naleving van het bepaalde bij of krachtens de artikelen 2.5:1 tot en met 2.5:7.     
+c. toezicht op de naleving van het bepaalde bij of krachtens de artikelen 2.5:1 tot en met 2.5:8.     
 
 ####Gebruik bedrijfskaart
 
@@ -293,11 +289,12 @@ b. ten hoogste 20 uren in elke periode van 2 achtereenvolgende weken arbeid verr
 
 ### Artikel  2.5:4a  
 
-1.  In afwijking van de artikelen 2.2:2 en 2.3:1 is dit artikel uitsluitend van toepassing op de werknemer die vervoer verricht waarop verordening (EG) nr. 561/2006 van toepassing is.   
+1.  In afwijking van de artikelen 2.2:2 en 2.3:1 is dit artikel uitsluitend van toepassing voor zover verordening (EG) nr. 561/2006 van toepassing is.   
 2.  In plaats van [artikel 5:8 van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) wordt dit artikel toegepast.   
 3.  Ten aanzien van de werknemer die arbeid verricht die geheel of gedeeltelijk is gelegen in de periode tussen 01.00 en 05.00 uur, geldt dat zijn totale arbeidstijd niet meer bedraagt dan 10 uur in de periode van 24 achtereenvolgende uren, te rekenen vanaf het begin van zijn arbeid.   
 4.  Van het derde lid kan, met inachtneming van het vijfde lid, slechts bij collectieve regeling worden afgeweken. Elk beding waarbij op andere wijze dan in de vorige volzin is bepaald, wordt afgeweken van het derde lid, is nietig.   
 5.  De werkgever organiseert de arbeid zodanig, dat de werknemer een dagelijkse arbeidstijd heeft die niet meer bedraagt dan 12 uur in elke periode van 24 achtereenvolgende uren, te rekenen vanaf het begin van zijn arbeid.   
+6.  De persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), neemt een maximale dagelijkse arbeidstijd in acht overeenkomstig het vijfde lid.   
 
 ####Afwijkingen arbeid in nachtdienst
 
@@ -334,6 +331,7 @@ a. geen arbeidstijd langer dan zes uren achtereen zonder pauze heeft;
 b. ingeval de arbeidstijd zes uren of langer, doch niet meer dan negen uren bedraagt, een pauze van ten minste 30 minuten heeft, dan wel twee pauzes van elk ten minste 15 minuten;  
 
 c. ingeval de arbeidstijd meer dan negen uren bedraagt, een pauze van ten minste 45 minuten heeft, dan wel verschillende pauzes van elk ten minste 15 minuten.     
+4.  De persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), neemt pauzes in acht overeenkomstig het derde lid.   
 
 ####Maximale wekelijkse arbeidstijd ten aanzien van vervoer waarop verordening (EG) nr. 561/2006 niet van toepassing is
 
@@ -349,11 +347,12 @@ c. ingeval de arbeidstijd meer dan negen uren bedraagt, een pauze van ten minste
 
 ### Artikel  2.5:8  
 
-1.  In afwijking van de artikelen 2.2:2 en 2.3:1 is dit artikel uitsluitend van toepassing op de werknemer die vervoer verricht waarop verordening (EG) nr. 561/2006 van toepassing is.   
+1.  In afwijking van de artikelen 2.2:2 en 2.3:1 is dit artikel uitsluitend van toepassing voor zover verordening (EG) nr. 561/2006 van toepassing is.   
 2.  In plaats van [artikel 5:7, tweede tot en met vierde lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) wordt dit artikel toegepast.   
 3.  De werknemer verricht ten hoogste 60 uren per week arbeid, met dien verstande dat hij gedurende een periode van 16 achtereenvolgende weken ten hoogste gemiddeld 48 uren per week arbeid verricht.   
 4.  Van het derde lid kan met inachtneming van het vijfde lid slechts bij collectieve regeling worden afgeweken. Elk beding waarbij op andere wijze dan in de vorige volzin is bepaald, wordt afgeweken van het derde lid, is nietig.   
 5.  De werkgever organiseert de arbeid zodanig, dat de werknemer gedurende een periode van een week ten hoogste 60 uren arbeid verricht, met dien verstande dat hij gedurende een periode van 26 achtereenvolgende weken ten hoogste gemiddeld 48 uren per week arbeid verricht.   
+6.  De persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), neemt een maximale wekelijkse arbeidstijd in acht overeenkomstig het vijfde lid.   
 
 ####Arbeidstijd en maatwerk
 
@@ -365,9 +364,11 @@ c. ingeval de arbeidstijd meer dan negen uren bedraagt, een pauze van ten minste
 
 a. ten aanzien van de bestuurder de perioden waarin deze een voertuig begeleidt dat wordt vervoerd;  
 
-b. wachttijden ten gevolge van rijverboden; en  
+b. wachttijden ten gevolge van rijverboden;  
 
-c. ten aanzien van de bijrijder de perioden die deze gedurende de rit naast de bestuurder of in een slaapcabine doorbrengt.     
+c. ten aanzien van de bijrijder of een tweede bestuurder: de perioden die deze gedurende de rit naast de bestuurder of in een slaapcabine doorbrengt; en  
+
+d. ten aanzien van de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), de perioden waarin deze niet ter beschikking van de klant staat en algemeen administratief werk verricht dat niet direct verband houdt met het ten behoeve van de klant verrichte vervoer.     
 2.  Voor zover de verwachte duur voor de bestuurder van tevoren bekend is, dan wel bij regeling van Onze Ministers is vastgelegd, wordt voor de toepassing van de artikelen 2.5:4a, derde en vijfde lid, 2.5:6, derde lid, en 2.5:8, derde en vijfde lid, voor de bestuurder tevens niet als arbeidstijd aangemerkt de periode waarin deze voor eventuele oproepen beschikbaar moet zijn om een rit aan te vatten of te hervatten dan wel andere werkzaamheden moet uitvoeren.   
 
 ### §  2.6  
@@ -1461,9 +1462,10 @@ De registerloods mag na 4 aaneengesloten uren loodsen op afstand vanaf de wal pa
 
 ### Artikel  8:1  
 
-1.  Het niet naleven van de artikelen 2.4:1, eerste tot en met vijfde lid, 2.4:2, eerste lid, 2.4:3, eerste lid, 2.4:4, 2.4:8 tot en met 2.4:10, 2.4:11, derde lid, 2.4:13, tweede tot en met vijfde lid, 2.5:1, tweede lid, 2.5:3, 2.5:4, tweede lid, 2.5:4a, vijfde lid, 2.5:5, derde lid, 2.5:6, eerste tot en met derde lid, 2.5:7, vijfde lid, 2.5:8, vijfde lid, 2.6:1, derde lid, 2.7:1 en 2.7:4, eerste lid, onderdeel b, en tweede lid, alsmede het bepaalde krachtens de artikelen 2.4:1, zesde lid, 2.4:2, derde lid, 2.4:3, derde lid, 2.4:12, onderdelen e, f en g, of 2.4:13, eerste lid, levert een overtreding op.   
+1.  Het niet naleven van de artikelen 2.4:1, eerste tot en met vijfde lid, 2.4:2, eerste lid, 2.4:3, eerste lid, 2.4:4, 2.4:8 tot en met 2.4:10, 2.4:11, derde lid, 2.4:13, tweede tot en met vijfde lid, 2.5:1, tweede lid, 2.5:3, 2.5:4, tweede lid, 2.5:4a, vijfde en zesde lid, 2.5:5, derde lid, 2.5:6, eerste tot en met vierde lid, 2.5:7, vijfde lid, 2.5:8, vijfde en zesde lid, 2.6:1, derde lid, 2.7:1 en 2.7:4, eerste lid, onderdeel b, en tweede lid, alsmede het bepaalde krachtens de artikelen 2.4:1, zesde lid, 2.4:2, tweede lid, 2.4:3, derde lid, 2.4:12, onderdelen e, f en g, of 2.4:13, eerste lid, levert een overtreding op.   
 2.  Behoudens de artikelen 2.4:4 en 2.4:13, tweede tot en met vijfde lid, wordt, indien de bestuurder werknemer is, ingeval van het niet naleven van een tot de bestuurder gerichte bepaling de werkgever aangemerkt als degene die die bepaling niet heeft nageleefd.   
 3.  Het tweede lid is niet van toepassing indien de werkgever aantoont dat door hem de nodige bevelen zijn gegeven, de nodige maatregelen zijn genomen, de nodige middelen zijn verschaft en het redelijkerwijs te vorderen toezicht is gehouden om de naleving van de bepaling te verzekeren.   
+4.  Het niet naleven van [artikel 79, vierde lid](../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), alsmede het bepaalde krachtens de [artikelen 80, vierde lid](../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) en [83, achtste lid, onderdeel b, van het Besluit personenvervoer 2000](../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), levert een overtreding op.   
 
 ####Overtredingen spoorvervoer
 

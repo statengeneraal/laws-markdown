@@ -34,7 +34,7 @@ c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikkin
 
 4°. artikel 3, eerste lid, van de marktverordening voor het wegvervoer, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](../../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en [artikel 7.1, eerste lid, van de Wet wegvervoer goederen](../../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md);  
 
-5°. [artikel 4 van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+5°. de [artikelen 4](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [82b, vijfde lid, van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
 
 6°. [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en het eerste lid, onder e, van dat artikel voor zover dat betrekking heeft op een inrichting als bedoeld in [artikel 1.1, eerste lid, van die wet](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 

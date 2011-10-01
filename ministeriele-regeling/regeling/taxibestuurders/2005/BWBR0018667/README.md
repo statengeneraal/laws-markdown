@@ -15,11 +15,11 @@ In deze regeling wordt verstaan onder:
 
 a. besluit: [Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
 
-b. beperkte taxidienst: een taxidienst als bedoeld in [artikel 75, tweede lid, van het besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), waarbij op vaste tijdstippen en langs dezelfde routes wordt gereden met een vaste groep passagiers;  
+b. beperkte taxidienst: een taxidienst als bedoeld in [artikel 81, vierde lid, van het besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), waarbij op vaste tijdstippen en langs dezelfde routes wordt gereden met een vaste groep passagiers;  
 
-c. chauffeurspas: chauffeurspas als bedoeld in [artikel 75 van het besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+c.  vervallen;   
 
-d. chauffeurspas onder beperkingen: chauffeurspas voor het uitvoeren van een beperkte taxidienst als bedoeld in artikel 1, onderdeel b, van deze regeling;  
+d.  vervallen;   
 
 e. CCV: Contactcommissie Chauffeurs Vakbekwaamheid;  
 
@@ -31,7 +31,7 @@ f. minister: Minister van Verkeer en Waterstaat.
 
 ### Artikel  2  
 
-Als getuigschrift als bedoeld in [artikel 76, eerste lid, onderdeel d, van het besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), worden erkend: 
+Als getuigschrift als bedoeld in [artikel 82, eerste lid, onderdeel d, van het besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), worden erkend: 
 
 a. het door de Stichting Centraal Bureau Rijvaardigheidsbewijzen afgegeven Chauffeursdiploma CCV Taxi Volledig, voor het verrichten van taxivervoer;  
 
@@ -63,46 +63,6 @@ d. praktijkdiploma CCV Taxivervoer Plus.
 ### §  3  
 
 ####Aanvraag en verstrekking chauffeurspassen taxibestuurders
-
-### Artikel  5  
-
-Bij de aanvraag van een chauffeurspas wordt, naast de in [artikel 76, eerste lid, onder a tot en met c](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), genoemde documenten, een niet beschadigde, recente, goed gelijkende pasfoto van de aanvrager overgelegd van ongeveer 4 cm hoog en 3 cm breed, waarbij het gezicht van voren, tegen een lichte, egale achtergrond is gefotografeerd.  
-
-### Artikel  6  
-
-In afwijking van artikel 5, kan degene die in het bezit is van een chauffeurspas waarvan de geldigheidsduur niet is verstreken, een duplicaat chauffeurspas met dezelfde einddatum van geldigheid aanvragen, indien sprake is van wijziging van de op de chauffeurspas vermelde gegevens, onder overlegging van: 
-
-1°. een kopie van het rijbewijs met de gewijzigde gegevens; en indien het een naamswijziging betreft,  
-
-2°. een kopie van het besluit van naamswijziging. In dit geval wordt de oorspronkelijke chauffeurspas ingetrokken.    
-
-### Artikel  7  
-
-In afwijking van artikel 5 kan degene die in het bezit is van een chauffeurspas waarvan de geldigheidsduur niet is verstreken, een duplicaat chauffeurspas met dezelfde einddatum van geldigheid aanvragen, indien de chauffeurspas versleten of geheel of ten dele onleesbaar is. In dit geval wordt de oorspronkelijke chauffeurspas ingetrokken.  
-
-### Artikel  8  
-
-1.  In afwijking van artikel 5 kan degene wiens chauffeurspas, waarvan de geldigheid niet is verstreken, verloren is geraakt of teniet is gegaan, een duplicaat chauffeurspas met dezelfde einddatum van geldigheid aanvragen, onder overlegging van een proces-verbaal van aangifte van diefstal of verlies. In dit geval wordt de oorspronkelijke chauffeurspas ingetrokken.   
-2.  Zodra een verloren geraakte chauffeurspas weer in het bezit is van degene aan wie een duplicaat chauffeurspas als bedoeld in het eerste lid, is verstrekt, wordt de oorspronkelijke chauffeurspas onverwijld door hem ingeleverd bij de minister.   
-
-### Artikel  9  
-
-1.  Verstrekking van een chauffeurspas aan de aanvrager geschiedt op vertoon van: 
-
-a. een op naam van de aanvrager gesteld rijbewijs als bedoeld in de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) dan wel een door het bevoegde gezag buiten Nederland afgegeven rijbewijs, dat geldig is voor het besturen van het motorrijtuig waarmee wordt gereden;  
-
-b. het aan hem verstrekte en door hem ondertekende afhaalbericht, waarop vermeld staat op welke wijze de chauffeurspas kan worden afgehaald.     
-2.  Bij machtiging voor verstrekking als bedoeld in het eerste lid, toont de gemachtigde tevens zijn legitimatiebewijs.   
-3.  Bij aanvragen als bedoeld in de artikelen 6 en 7 wordt een chauffeurspas niet eerder verstrekt dan nadat de aanvrager de oorspronkelijke chauffeurspas, bedoeld in die artikelen heeft ingeleverd.   
-
-### Artikel  10  
-
-1.  De artikelen 5 tot en met 9 zijn van overeenkomstige toepassing op de aanvraag en verstrekking van een chauffeurspas onder beperkingen of een duplicaat chauffeurspas onder beperkingen.   
-2.  In afwijking van het eerste lid kan degene die in het bezit is van een chauffeurspas onder beperkingen, een duplicaat chauffeurspas met dezelfde einddatum van geldigheid aanvragen onder overlegging van het document genoemd in artikel 2, onderdeel b, van deze regeling.   
-
-### Artikel  11  
-
-De modellen voor de chauffeurspas en de chauffeurspas onder beperkingen zijn opgenomen in de bijlagen 2 respectievelijk 3 bij deze regeling.  
 
 ### §  4  
 
@@ -348,16 +308,4 @@ De kandidaat moet:
 #### *VI. Afhandeling ongevallen* 
 
 De kandidaat moet het Europees schadeformulier juist kunnen invullen.  
-
-### Bijlage  2  
-
-####behorende bij artikel 11  van de Regeling taxibestuurders 2005
-
-![175983](http://wetten.overheid.nl/Illustration/175983)
-
-### Bijlage  3  
-
-####behorende bij artikel 11  van de Regeling taxibestuurders 2005
-
-![175984](http://wetten.overheid.nl/Illustration/175984)
 

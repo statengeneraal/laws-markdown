@@ -203,6 +203,7 @@ J. de Ruiter
 | --- | --- | --- | --- | --- |
 | 12. *Bijzondere voorzieningen:*  | --- | --- | --- | --- |
 | Uitsluitend bij serviceflatwoningen:  | bij: 35% van de ingevolge de onderdelen 1 tot en met 11 toegekende punten.  | --- |
+| 13. *Punten voor schaarstegebied:*  |   –  indien ten aanzien van een woning die is gelegen in een gemeente, genoemd in bijlage III , de laatstelijk onherroepelijk vastgestelde waarde op voet van hoofdstuk IV van de Wet waardering onroerende zaken gedeeld door het aantal m <sup>2</sup> van de vertrekken en de overige ruimten, bedoeld in de onderdelen 1 en 2, van die woning, hoger is dan € 2.900: bij: 25 punten     –  in alle andere gevallen dan hiervoor bedoeld en indien een woning is gelegen in een gemeente, genoemd in bijlage III: bij: 15 punten.      | --- |
 
 * maximaal 4 punten ** voor de energieprestatie wordt de duplexwoning gewaardeerd als meergezinswoning *** maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting) 
 
@@ -391,6 +392,12 @@ e. leveringen en diensten vanwege de verhuurder aan de huurder, strekkende tot h
 - leveringen en diensten vanwege de verhuurder aan de huurder, strekkende tot een gebruik overeenkomstig de bestemming van de hierboven genoemde ruimtes (zoals materiaal voor recreatie en bedden en beddegoed voor logies) (onderdeel e).   Voor de goede orde zij opgemerkt dat de woorden 'vanwege de verhuurder' zijn gebruikt om aan te geven dat die vormen van service niet door de verhuurder zelf behoeven te worden verleend, maar ook via een andere natuurlijke persoon of rechtspersoon kunnen worden verleend, mits het maar op een (mede) door de verhuurder opgezette en met de huurder in onverbrekelijke samenhang met de huurovereenkomst overeengekomen constructie berust. De aandacht wordt er verder nog op gevestigd dat de jurisprudentie inzake de huurwetgeving (onder meer HR 28 juni 1985, NJ 86-38 en HR 19 februari 1993, NJ 93-247) keer op keer laat zien dat de benaming welke partijen aan hun overeenkomst en aan de verschillende woonruimtevormen hebben gegeven, niet doorslaggevend is.  
 
 ### 13  
+
+####Waardering woning in schaarstegebied
+
+In bijlage III zijn de gemeenten die gelegen zijn in het zogenoemde schaarstegebied opgenomen. Indien een woning is gelegen in een van die gemeenten en de laatstelijk onherroepelijk vastgestelde waarde op voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) gedeeld door het aantal m <sup>2</sup> van de vertrekken en de overige ruimten, bedoeld in de onderdelen 1 en 2, van die woning hoger is dan € 2 900, worden 25 punten toegekend. In alle andere gevallen worden ten aanzien van een woning die is gelegen in een van die gemeenten, 15 punten toegekend.  
+
+### 14  
 
 ####Slotopmerking
 
@@ -671,6 +678,155 @@ b. ernstig het woongenot schaadt, waarvan bijvoorbeeld sprake is bij:
 ####Aanvullende bepalingen met betrekking tot woonwagens en standplaatsen
 
 De combinatie huurwoonwagen op een huurstandplaats wordt – in afwijking van artikel 1 van het besluit – voor wat betreft het voorzieningenniveau als bedoeld onder 1, categorie A, aangemerkt als zelfstandige «woning». [De paragrafen 3.8.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.10.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.13.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.14.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.17.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.20.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [4.7.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [4.8.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en [4.15.2 van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) zijn van overeenkomstige toepassing op de omstandigheden genoemd in de punten 1 tot en met 6 van onderdeel 1, onder categorie A. Dit geldt ook als er sprake is van de combinatie eigen woonwagen op een huurstandplaats, voorzover dit betreft de punten 1, 4 en 5 van onderdeel 1, categorie A. Maatgevend voor de beoordeling is het tijdstip waarop de huurovereenkomst is ingegaan. Indien partijen in onderling overleg wijziging in de situatie hebben gebracht, geldt de gewijzigde situatie als uitgangspunt. Onderhoudsgebreken of tekortkomingen, als bedoeld in punt 8 van onderdeel 1, categorie A, of als bedoeld in onderdeel 1, categorie B of C, aan de eigen woonwagen kunnen nimmer van invloed zijn op de huurprijs van de standplaats.  
+
+### Bijlage  III  
+
+####bij het Besluit huurprijzen woonruimte
+
+Gemeenten in schaarstegebied:  
+
+| gemeente  |
+|:---|
+| Aalsmeer  |
+| Alkmaar  |
+| Amersfoort  |
+| Amstelveen  |
+| Amsterdam  |
+| Apeldoorn  |
+| Asten  |
+| Baarn  |
+| Barneveld  |
+| Beemster  |
+| Bergeijk  |
+| Bergen (Noord-Holland)  |
+| Bernheze  |
+| Best  |
+| Bladel  |
+| Blaricum  |
+| Bloemendaal  |
+| Boekel  |
+| Boxmeer  |
+| Boxtel  |
+| Bunnik  |
+| Bunschoten  |
+| Buren  |
+| Bussum  |
+| Cranendonck  |
+| Cuijk  |
+| Culemborg  |
+| De Bilt  |
+| De Ronde Venen  |
+| Deurne  |
+| Diemen  |
+| Edam-Volendam  |
+| Ede  |
+| Eemnes  |
+| Eersel  |
+| Eindhoven  |
+| Elburg  |
+| Epe  |
+| Ermelo  |
+| Geldermalsen  |
+| Geldrop-Mierlo  |
+| Gemert-Bakel  |
+| Graft-De Rijp  |
+| Grave  |
+| Haaren  |
+| Haarlem  |
+| Haarlemmerliede c.a.  |
+| Haarlemmermeer  |
+| Harderwijk  |
+| Hattem  |
+| Heemstede  |
+| Heerde  |
+| Heerhugowaard  |
+| Heeze-Leende  |
+| Heiloo  |
+| Helmond  |
+| ’s Hertogenbosch  |
+| Heusden  |
+| Hillegom  |
+| Hilversum  |
+| Houten  |
+| Huizen  |
+| IJsselstein  |
+| Kaag en Braassem  |
+| Katwijk  |
+| Laarbeek  |
+| Landerd  |
+| Landsmeer  |
+| Langedijk  |
+| Laren  |
+| Leiden  |
+| Leiderdorp  |
+| Leusden  |
+| Lingewaal  |
+| Lisse  |
+| Lopik  |
+| Maasdonk  |
+| Maasdriel  |
+| Mill en Sint Hubert  |
+| Montfoort  |
+| Muiden  |
+| Naarden  |
+| Neder-Betuwe  |
+| Neerijnen  |
+| Nieuwegein  |
+| Nijkerk  |
+| Noordwijk  |
+| Noordwijkerhout  |
+| Nuenen c.a.  |
+| Nunspeet  |
+| Oegstgeest  |
+| Oirschot  |
+| Oldebroek  |
+| Oostzaan  |
+| Oss  |
+| Ouder-Amstel  |
+| Oudewater  |
+| Purmerend  |
+| Putten  |
+| Renswoude  |
+| Reusel-De Mierden  |
+| Rhenen  |
+| Schermer  |
+| Scherpenzeel  |
+| Schijndel  |
+| Sint Anthonis  |
+| Sint-Michielsgestel  |
+| Sint-Oedenrode  |
+| Soest  |
+| Someren  |
+| Son en Breugel  |
+| Stichtse Vecht  |
+| Teylingen  |
+| Tiel  |
+| Uden  |
+| Uithoorn  |
+| Utrecht  |
+| Utrechtse Heuvelrug  |
+| Valkenswaard  |
+| Veenendaal  |
+| Veghel  |
+| Veldhoven  |
+| Vianen  |
+| Voorschoten  |
+| Voorst  |
+| Vught  |
+| Waalre  |
+| Wageningen  |
+| Waterland  |
+| Weesp  |
+| West Maas en Waal  |
+| Wijdemeren  |
+| Wijk bij Duurstede  |
+| Woerden  |
+| Woudenberg  |
+| Zaltbommel  |
+| Zandvoort  |
+| Zeevang  |
+| Zeist  |
+| Zoeterwoude  |
 
 ### Bijlage  IIIa  
 

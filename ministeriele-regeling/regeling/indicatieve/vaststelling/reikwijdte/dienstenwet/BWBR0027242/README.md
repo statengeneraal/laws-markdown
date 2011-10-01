@@ -69,6 +69,7 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 45  | Mijnbouwbesluit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 39 jo. artikelen 34 en 36  |  [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.4.1 en 3.4.2  |  [Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 66b, eerste en tweede lid  |  [Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 1.2 en 1.5  | Meetcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 1.3  | Meetcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 5 tot en met 8 jo. artikelen 9 tot en met 17 Handelsregisterwet 2007; artikelen 1 jo. 11 tot en met 32 en 35 tot en met 41 Handelsregisterbesluit 2008  | [Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);   [Handelsregisterbesluit 2008](../../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md)   |
@@ -215,7 +216,6 @@ M.J.A. van derHoeven
 | Ministerie van Infrastructuur en Milieu  | artikelen 10, 11 en 15  |  [Wet explosieven voor civiel gebruik](../../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | voorschrift 1.6.2  | Besluit glastuinbouw  |
 | Ministerie van Infrastructuur en Milieu  | artikel 17 tot en met 19  | Wet explosieven voor civiel gebruik  |
-| Ministerie van Infrastructuur en Milieu  | artikel 2.11.1  |  [Besluit brandveilig gebruik bouwwerken](../../../../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | voorschrift 2.4.2, bijlage 2  | Besluit glastuinbouw  |
 | Ministerie van Infrastructuur en Milieu  | artikel 2.12.1  | Besluit brandveilig gebruik bouwwerken  |
 | Ministerie van Infrastructuur en Milieu  | artikelen 1, onderdeel f, en 4, tweede lid  |  [Inzamelingsregeling CFK en halonen](../../../../../../../ministeriele-regeling/inzamelingsregeling/cfk/en/halonen/BWBR0013984/README.md)   |
@@ -229,7 +229,6 @@ M.J.A. van derHoeven
 | Ministerie van Infrastructuur en Milieu  | voorschrift 2.9.2, bijlage  | Besluit landbouw  |
 | Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel c  | Besluit inzamelen afvalstoffen  |
 | Ministerie van Infrastructuur en Milieu  | voorschriften 3.2.10 en 3.2.11, bijlage  | Besluit landbouw  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 8.1 en 8.19  |  [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | artikelen 3 en 4  |  [Besluit mobiel breken bouw-en sloopafval](../../../../../../../AMvB/besluit/mobiel/breken/bouw-/en/sloopafval/BWBR0016292/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | artikel 8, eerste lid  | [Wet bescherming Antarctica](../../../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md) en [Besluit bescherming Antarctica](../../../../../../../AMvB/besluit/bescherming/antarctica/BWBR0009867/README.md)  |
 | Ministerie van Infrastructuur en Milieu  | voorschrift 1.2, bijlage I  |  [Besluit LPG-tankstations milieubeheer](../../../../../../../AMvB/besluit/lpg-tankstations/milieubeheer/BWBR0004327/README.md)   |
@@ -300,6 +299,9 @@ M.J.A. van derHoeven
 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikel 120a, tweede lid, Wet Gemeentelijke basisadministratie persoonsgegevens;  artikel 53b Besluit Gemeentelijke basisadministratie persoonsgegevens;  artikelen 25 tot en met 41 Regeling gemeentelijke basisadministratie persoonsgegevens  | [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  [Besluit gemeentelijke basisadministratie persoonsgegevens](../../../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md);   [Regeling gemeentelijke basisadministratie persoonsgegevens](../../../../../../../ministeriele-regeling/regeling/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006935/README.md)   |
 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikel 15 Wet gemeentelijke basisadministratie persoonsgegevens;  artikel 50 tot en met 53 Besluit gemeentelijke basisadministratie persoonsgegevens;  artikelen 18 tot en met 30 Regeling gemeentelijke basisadministratie persoonsgegevens  | Wet gemeentelijke basisadministratie persoonsgegevens;  Besluit gemeentelijke basisadministratie persoonsgegevens;  Regeling gemeentelijke basisadministratie persoonsgegevens  |
 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikel 5  |  [Wet tegemoetkoming schade bij rampen en zware ongevallen](../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md)   |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikel 10  | Uitvoeringswet huurprijzen woonruimte  |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikelen 5 en 12  | Besluit huurprijzen woonruimte  |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikelen 2 tot en met 6  | Uitvoeringsregeling huurprijzen woonruimte  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2, eerste, tweede en derde lid, jo. artikel 5, eerste tot en met zesde lid  | Besluit informatie-uitwisseling ondergrondse netten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3, eerste lid  | Wet informatie-uitwisseling ondergrondse netten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 7, eerste en derde lid  | Besluit informatie-uitwisseling ondergrondse netten  |
@@ -310,6 +312,7 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 5.1  | Meetcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.1.5  | Systeemcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | punt 7  |  [Besluit tot vaststelling meettarieven elektriciteit 2008](../../../../../../../ministeriele-regeling/regeling/meettarieven/elektriciteit/2008/BWBR0022315/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | Artikel 66b, tweede, vierde en vijfde lid  | Gaswet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 80a en 81e  | Gaswet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.1.10  | Systeemcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 46 tot en met 54 en 57 tot en met 66  | Mijnbouwbesluit  |
@@ -338,7 +341,7 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2, tweede lid  | Wet informatie-uitwisseling ondergrondse netten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 23, eerste lid  | Mijnbouwbesluit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 19  | Handelsregisterwet  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.2g  | Regeling universele dienstverlening en eindgebruikersbelangen  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.2g, eerste lid, onderdeel b, en tweede lid  | Regeling universele dienstverlening en eindgebruikersbelangen  |
 | Ministerie van Veiligheid en Justitie  | artikelen 2, eerste en derde lid, 3 en 4  |  [Uitvoeringswet verdrag biologische wapens](../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md)   |
 | Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6, 7 jo. 4, 8 tot en met 13 en 16 Speelautomatenbesluit 2000  artikelen 3 en 4 Speelautomatenregeling  | Wet op de kansspelen;  Speelautomatenbesluit 2000;  Speelautomatenregeling  |
 | Ministerie van Veiligheid en Justitie  | artikel 12, tweede lid  | Advocatenwet  |
@@ -594,13 +597,13 @@ M.J.A. van derHoeven
 | Zeeland  | artikelen 6, en 13, tweede lid  | Wegenverordening Zeeland 1994  |
 | Zeeland  | artikel 9 jo. artikel 14  | Wegenverordening Zeeland 1994  |
 | Zeeland  | artikel 7  | Wegenverordening Zeeland 1994  |
-| Zuid-Holland  | bijlage 10B, titel 2  | Milieuverordening  |
-| Zuid-Holland  | bijlage 10B, titel 3  | Milieuverordening  |
-| Zuid-Holland  | bijlage 10B, titel 4  | Milieuverordening  |
-| Zuid-Holland  | artikel 4.2.1 artikel 4.3.1.1 artikel 4.3.2.1 artikel 4.3.3.8 artikel 4.4.2  | Milieuverordening  |
-| Zuid-Holland  | artikel 5.1.1 artikel 5.4.1 artikel 5.5.2  | Milieuverordening  |
+| Zuid-Holland  | bijlage 10B, titel 2  | Provinciale Milieuverordening  |
+| Zuid-Holland  | bijlage 10B, titel 3  | Provinciale Milieuverordening  |
+| Zuid-Holland  | bijlage 10B, titel 4  | Provinciale Milieuverordening  |
+| Zuid-Holland  | artikel 4.3.1 en artikel 4.4.2 jo. artikel 4.4.3  | Provinciale Milieuverordening  |
+| Zuid-Holland  | artikelen 5.1.1, 5.4.1 en 5.5.2  | Provinciale Milieuverordening  |
 | Zuid-Holland  | artikel 5, eerste lid, onder i  | Wegenverordening Zuid-Holland 2010  |
-| Zuid-Holland  | bijlage 10 A  | Milieuverordening  |
+| Zuid-Holland  | bijlage 10 A  | Provinciale Milieuverordening  |
 
 ### §  2.2  
 
@@ -622,7 +625,7 @@ M.J.A. van derHoeven
 | Zeeland  | paragraaf 4.5.3  | Milieuverordening  |
 | Zeeland  | artikelen 2 en 5  | Landschapsverordening  |
 | Zeeland  | artikel 3, eerste lid  | Beleidsregel zonebeheersysteem Vlissingen-Oost 2008  |
-| Zuid-Holland  | artikelen 6.2, 6.3 en 6.4  | Milieuverordening  |
+| Zuid-Holland  | artikelen 6.2, 6.3 en 6.4  | Provinciale Milieuverordening  |
 
 ####Hoofdstuk 3 – Vergunningstelsels en eisen van Gemeenten
 
@@ -632,6 +635,13 @@ M.J.A. van derHoeven
 
 | Regelgever  | bepaling/artikel (nummer)  | Naam regelgeving  |
 |:---|:---|:---|
+| Aa en Hunze  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Aa en Hunze  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Aa en Hunze  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Aa en Hunze  | artikel 2:39  | Algemene Plaatselijke Verordening  |
+| Aa en Hunze  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Aa en Hunze  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Aa en Hunze  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Aalburg  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Aalburg  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Aalburg  | artikel 2:28  | Algemene Plaatselijke Verordening  |
@@ -647,19 +657,14 @@ M.J.A. van derHoeven
 | Aalsmeer  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
 | Aalsmeer  | artikelen 6.1.1, 6.1.5, en 6.1.6  | Bouwverordening  |
 | Aalten  | artikel 2  | Brandbeveiligingsverordening  |
-| Aalten  | artikel 2.2.2.  | Algemene Plaatselijke Verordening  |
-| Aalten  | artikel 2.3.1.2.  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 2:39  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Aalten  | artikel 3.2.1.  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Aalten  | artikel 5:18  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 5.24  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Abcoude  | artikel 2:39  | Algemene Plaatselijke Verordening  |
-| Abcoude  | artikel 3  | Verordening oud-papier  |
-| Abcoude  | artikel 7, tweede lid  | Afvalstoffenverordening  |
 | Achtkarspelen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Alblasserdam  | artikel 2:9  | Algemene Plaatselijke Verordening  |
 | Alblasserdam  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -827,7 +832,6 @@ M.J.A. van derHoeven
 | Appingedam  | artikel 2:9  | Algemene Plaatselijke Verordening  |
 | Appingedam  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Appingedam  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Arcen en Velden  | artikel 2, eerste lid  | speelautomatenhallenverordening  |
 | Arnhem  | artikel 1 van de Appendix  | Regionale Huisvestingsverordening Stadsregio Arnhem-Nijmegen 2007  |
 | Arnhem  | artikel 2  | Brandbeveiligingsverordening  |
 | Arnhem  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
@@ -893,6 +897,18 @@ M.J.A. van derHoeven
 | Barendrecht  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Barendrecht  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Barendrecht  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Barneveld  | artikelen 35 en 36  | Algemene Plaatselijke Verordening  |
+| Barneveld  | artikel 71  | Algemene Plaatselijke Verordening  |
+| Barneveld  | artikel 2  | Brandbeveiligingsverordening  |
+| Barneveld  | artikel 2, eerste lid  | Verordening kwaliteitregels peuterspeelzalen  |
+| Bedum  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 5:23  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 7, tweede lid, jo. artikel 11  | Afvalstoffenverordening  |
+| Bedum  | artikel 2, tweede lid  | Brandbeveiligingsverordening  |
 | Beek  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Beek  | artikelen 13, 15, 16, en 17  | Verordening regelende de vaststelling van kermissen en de voorwaarden voor verpachting van de standplaatsen  |
 | Beek  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
@@ -944,22 +960,23 @@ M.J.A. van derHoeven
 | Bergen op Zoom  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Bergen op Zoom  | artikelen 2:45 tot en met 2:53  | Algemene Plaatselijke Verordening  |
 | Bergen op Zoom  | artikelen 4, 6, 7, en 10 b  | Marktverordening  |
-| Bergijk  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 2:25  | Evenement  |
-| Bergijk  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 2  | Brandbeveiligingsverordening  |
-| Bergijk  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Bergijk  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 3.2.2  | Huisvestingsverordening  |
-| Bergijk  | artikel 4  | Marktverordening  |
+| Bergeijk  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 2:25  | Evenement  |
+| Bergeijk  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 2  | Brandbeveiligingsverordening  |
+| Bergeijk  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Bergeijk  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 3.2.2  | Huisvestingsverordening  |
+| Bergeijk  | artikel 4  | Marktverordening  |
+| Berkelland  | artikel 2  | Brandbeveiligingsverordening  |
 | Berkelland  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Berkelland  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Berkelland  | artikel 2:25, eerste lid  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| Berkelland  | artikel 2:9, , derde lid  | Algemene Plaatselijke Verordening  |
+| Berkelland  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Berkelland   | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Bernheze  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
@@ -1044,18 +1061,23 @@ M.J.A. van derHoeven
 | Blaricum  | artikel 2.1.1  | Brandbeveiligingsverordening  |
 | Blaricum  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 2.3.3.1, tweede lid,  | Algemene Plaatselijke Verordening  |
+| Blaricum  | artikel 2.9  | Algemene Plaatselijke Verordening  |
+| Blaricum  | artikel 2.25, eerste lid  | Algemene Plaatselijke Verordening  |
+| Blaricum  | artikel 2.28  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Blaricum  | artikelen 3.3 en 3.4  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
+| Blaricum  | artikel 5.23  | Algemene Plaatselijke Verordening  |
 | Bloemendaal  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Bloemendaal  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
 | Bloemendaal  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Bloemendaal  | artikel 2.25  | Algemene Plaatselijke Verordening  |
 | Bloemendaal  | artikelen 2.3.1.2a, 2.3.1.4, en 2.3.1.5  | Algemene Plaatselijke Verordening  |
 | Bloemendaal  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| Bloemendaal  | artikel 2.9  | Algemene Plaatselijke Verordening  |
+| Bloemendaal  | Artikel 2.9, tweede lid, jo. artikel 2 Aanwijzingsbesluit APV Bloemendaal 2010  | Algemene Plaatselijke Verordening 2011  |
 | Bloemendaal  | artikelen 3.2.1, 3.2.2, 3.2.4, 3.2.5, 3.3.2, 3.4.1, en 3.4.2  | Algemene Plaatselijke Verordening  |
 | Bloemendaal  | artikelen 5, en 2  | Kwaliteit Peuterspeelzaalwerk  |
-| Bloemendaal  | artikel 5.15  | Algemene Plaatselijke Verordening  |
+| Bloemendaal  | artikel 5.15 jo. artikel 12 Aanwijzingsbesluit APV Bloemendaal 2010  | Algemene Plaatselijke Verordening 2011  |
 | Bloemendaal  | artikelen 5.2.2 en 5.2.3  | Algemene Plaatselijke Verordening  |
 | Bloemendaal  | artikel 5.7.7, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Bloemendaal  | artikelen 2 en 3  | Brandbeveiligingsverordening Bloemendaal 2010  |
@@ -1322,9 +1344,10 @@ M.J.A. van derHoeven
 | De Ronde Venen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening 2011  |
 | De Ronde Venen  | artikel 2:25  | Algemene Plaatselijke Verordening 2011  |
 | De Ronde Venen  | artikel 2:28, tweede lid  | Algemene Plaatselijke Verordening 2011  |
+| De Ronde Venen  | artikel 3:4  | Algemene Plaatselijke Verordening 2011  |
 | De Ronde Venen  | artikel 5:18  | Algemene Plaatselijke Verordening 2011  |
 | De Ronde Venen  | artikel 5:23  | Algemene Plaatselijke Verordening 2011  |
-| De Ronde Venen  | artikel 2.1  | Afvalstoffenverordening 2011  |
+| De Ronde Venen  | artikel 2.1 jo. artikel 2.5  | Afvalstoffenverordening 2011  |
 | De Ronde Venen  | artikelen 2.2.1, 2.2.2 en 2.2.3  | Huisvestingsverordening 2011  |
 | De Ronde Venen  | artikelen 3.1.2, 3.1.3 en 3.1.4  | Huisvestingsverordening 2011  |
 | De Ronde Venen  | artikelen 3.2.2, 3.2.3 en 3.2.4  | Huisvestingsverordening 2011  |
@@ -1468,20 +1491,20 @@ M.J.A. van derHoeven
 | Doetinchem  | n.v.t.  | Coffeeshopbeleid van de gemeente Doetinchem  |
 | Dongeradeel  | artikel 2  | Brandbeveiligingsverordening  |
 | Dongeradeel  | artikelen 3.2.2, 3.2.3 en 3.2.4  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
-| Dongeraldeel  | artikel 4.7.2  | Algemene Plaatselijke Verordening  |
-| Dongeraldeel  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
-| Dongeraldeel  | n.v.t.  | Antennebeleid  |
-| Dongeraldeel  | n.v.t.  | Beleidsregel kleinschalige verblijfsrecreatie in het buitengebied; beleidsregel paardenbedrijven in het buitengebied, beleidsregel bestemmingsplan  Binnenstêd Dokkum  |
-| Dongeraldeel  | beleidsregels en nadere regels m.b.t. vergunningstelsel sexinrichtingen, sexwinkels, straatprostitutie e.d. (hoofdstuk 3 APV; artt. 3.1.1 e.v.)  | Beleidsregels en nadere regels  |
-| Dongeraldeel  | n.v.t.  | Beleidsregels omtrent standplaats- en ventvergunningen  |
-| Dongeraldeel  | artikelen 2.2.1, en 2.2.2  | Algemene Plaatselijke Verordening  |
-| Dongeraldeel  | n.v.t.  | Nota softdrugsbeleid  |
-| Dongeraldeel  | n.v.t.  | Beleidsregels evenementen  |
-| Dongeraldeel  | artikelen 7 en 11  | Afvalstoffenverordening  |
-| Dongeraldeel  | artikelen 2.3.1.1 tot en met 2.3.1.3, 2.3.1.1  | Algemene Plaatselijke Verordening  |
-| Dongeraldeel  | artikelen 3.1 tot en met 3.7  | Verordening tot beperking drankverstrekkin  |
-| Dongeraldeel  | artikel 2.1.5.1  | Algemene Plaatselijke Verordening  |
-| Dongeraldeel  | artikel 2.3.1.1  | Algemene Plaatselijke Verordening  |
+| Dongeradeel  | artikel 4.7.2  | Algemene Plaatselijke Verordening  |
+| Dongeradeel  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
+| Dongeradeel  | n.v.t.  | Antennebeleid  |
+| Dongeradeel  | n.v.t.  | Beleidsregel kleinschalige verblijfsrecreatie in het buitengebied; beleidsregel paardenbedrijven in het buitengebied, beleidsregel bestemmingsplan  Binnenstêd Dokkum  |
+| Dongeradeel  | beleidsregels en nadere regels m.b.t. vergunningstelsel sexinrichtingen, sexwinkels, straatprostitutie e.d. (hoofdstuk 3 APV; artt. 3.1.1 e.v.)  | Beleidsregels en nadere regels  |
+| Dongeradeel  | n.v.t.  | Beleidsregels omtrent standplaats- en ventvergunningen  |
+| Dongeradeel  | artikelen 2.2.1, en 2.2.2  | Algemene Plaatselijke Verordening  |
+| Dongeradeel  | n.v.t.  | Nota softdrugsbeleid  |
+| Dongeradeel  | n.v.t.  | Beleidsregels evenementen  |
+| Dongeradeel  | artikelen 7 en 11  | Afvalstoffenverordening  |
+| Dongeradeel  | artikelen 2.3.1.1 tot en met 2.3.1.3, 2.3.1.1  | Algemene Plaatselijke Verordening  |
+| Dongeradeel  | artikelen 3.1 tot en met 3.7  | Verordening tot beperking drankverstrekkin  |
+| Dongeradeel  | artikel 2.1.5.1  | Algemene Plaatselijke Verordening  |
+| Dongeradeel  | richtlijnen o.g.v. artikel 2.3.1.1 APV (terrasvergunningen)  | Richtlijnen  |
 | Dordrecht  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Dordrecht  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Dordrecht  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
@@ -1512,20 +1535,20 @@ M.J.A. van derHoeven
 | Dronten  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Dronten  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Dronten  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Druten  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
+| Druten  | artikel 2  | Brandbeveiligingsverordening  |
 | Druten  | artikel 2.1.1  | Brandbeveiligingsverordening  |
-| Druten  | artikelen 2.1.4.1 en 2.1.2.2  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
-| Druten  | artikelen 2.1.4.2 en 2.1.2.1  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
-| Druten  | artikelen 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.3.2, 3.4.1, en 3.4.2  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
+| Druten  | artikel 2.1.2.2  | Algemene Plaatselijke Verordening 2010  |
+| Druten  | artikelen 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.3.2, 3.4.1, en 3.4.2  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 4  | Verordening op de verblijfsgebouwen  |
-| Druten  | artikel 4.2.2.1  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
-| Druten  | artikelen 5.2.2, 5.2.3 en 5.2.2  | Algemene Plaatselijke Verordening voor de gemeente Druten  |
-| Druten  | artikel 5.2.4  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
-| Druten  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
+| Druten  | artikel 5.2.2  | Algemene Plaatselijke Verordening 2010  |
+| Druten  | artikel 5.2.4  | Algemene Plaatselijke Verordening 2010  |
+| Druten  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 3, eerste lid  | Verordening op de verblijfsgebouwen  |
-| Druten  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
-| Druten  | artikel 2.2.2, eerste lid  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
-| Druten  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
-| Druten  | artikel 2.3.2.2  | Algemene Plaatselijke Verordening voor de gemeente Druten 2005  |
+| Druten  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening 2010  |
+| Druten  | artikel 2.2.2, eerste lid  | Algemene Plaatselijke Verordening 2010  |
+| Druten  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening 2010  |
+| Druten  | artikel 2.3.2.2  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikelen 6.1.1, 6.1.5, en 6.1.6  | Bouwverordening gemeente Druten 2007  |
 | Duiven  | artikel 3:10  | Algemene Plaatselijke Verordening 2009  |
 | Echt-Susteren  | artikel 2, tweede lid  | Afvalstoffenverordening  |
@@ -1561,10 +1584,14 @@ M.J.A. van derHoeven
 | Eemnes  | artikel 2.1.4.3, derde lid  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2  | Brandbeveiligingsverordening  |
 | Eemnes  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Eemnes  | artikel 2.25, eerste lid  | Algemene Plaatselijke Verordening  |
+| Eemnes  | artikel 2.28  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Eemnes  | artikelen 3.3 en 3.4  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Eemnes  | artikel 5:23  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Eemnes  | Regel 1  | Standplaatsenbeleid  |
 | Eemnes  | Regel 2  | Standplaatsenbeleid  |
@@ -1656,7 +1683,7 @@ M.J.A. van derHoeven
 | Enschede  | artikel 3:2.1  | Besluit maximering vergunningen prostitutiebedrijven  |
 | Epe  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Epe  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
-| Epe  | artikel 4.4.2  | Algemene Plaatselijke Verordening  |
+| Epe  | artikel 4.15  | Algemene Plaatselijke Verordening  |
 | Epe  | artikel 5.2.3  | Algemene Plaatselijke Verordening  |
 | Epe  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Epe  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -1682,7 +1709,6 @@ M.J.A. van derHoeven
 | Etten-Leur  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Etten-Leur  | artikel 2  | Brandbeveiligingsverordening  |
 | Etten-Leur  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
-| Etten-Leur  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Etten-Leur  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Etten-Leur  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Etten-Leur  | n.v.t.  | Beleidslijn betreffende de Wet BIBOB voor voor vergunningen van de horecabranche gemeente Etten-Leur  |
@@ -1756,7 +1782,7 @@ M.J.A. van derHoeven
 | Giessenlanden  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Giessenlanden  | artikel 7, tweede lid  | Afvalstoffenverordening Giessenlanden 2005  |
 | Gilze en Rijen  | n.v.t.  | Beleidsregels venten  |
-| Gilze en Rijen  | n.v.t.  | Notitie prostitutiebeleid  |
+| Gilze en Rijen  | n.v.t.  | Beleidsregels terrassen gemeente Gilze en Rijen  |
 | Gilze en Rijen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Gilze en Rijen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Gilze en Rijen  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
@@ -1804,13 +1830,14 @@ M.J.A. van derHoeven
 | Graft - De Rijp  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 6.1.1  | Bouwverordening  |
 | Grave  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
-| Grave  | artikelen 2.24 en 2.25  | Algemene Plaatselijke Verordening  |
+| Grave  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 2.27 tot en met 2.30  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Grave  | artikel 5:18  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 7  | Afvalstoffenverordening regio Land van Cuijk en Boekel  |
 | Groesbeek  | artikel 2  | Brandbeveiligingsverordening  |
@@ -1853,7 +1880,10 @@ M.J.A. van derHoeven
 | Haaksbergen  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Haaksbergen  | artikel 2:9  | Algemene Plaatselijke Verordening  |
 | Haaksbergen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Haaksbergen  | artikel 5:18  | Algemene Plaatselijke Verordening  |
 | Haaksbergen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Haaksbergen  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
+| Haaksbergen  | artikel 2  | Brandbeveiligingsverordening  |
 | Haaren  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Haaren  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Haaren  | artikel 2:39, tweede en derde lid  | Algemene Plaatselijke Verordening  |
@@ -1862,8 +1892,7 @@ M.J.A. van derHoeven
 | Haaren  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Haaren  | bepaling 2  | Prostitutiebeleid  |
 | Haaren  | artikelen 16, en 25  | Beleidsnotitie grootschalige evenementen  |
-| Haarlem  | artikel 61  | Algemene Plaatselijke Verordening  |
-| Haarlem  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Haarlem  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
 | Haarlem  | artikel 50, tweede lid  | Algemene Plaatselijke Verordening  |
 | Haarlem  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
 | Haarlem  | artikelen 32 tot en met 66  | Algemene Plaatselijke Verordening  |
@@ -1883,9 +1912,7 @@ M.J.A. van derHoeven
 | Haarlemmermeer  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Haarlemmermeer  | n.v.t.  | Beleids- en verhuurregels Haarlemmermeerse Bos voor gebruik t.b.v. evenementen (2008  |
 | Haarlemmermeer  | n.v.t.  | Nota Gebruik (Groene Weelde) Floriadeterrein voor evenementen  |
-| Haarlemmermeer  | n.v.t.  | Nota Gebruik (Groene Weelde) Floriadeterrein voor evenementen  |
 | Haarlemmermeer  | n.v.t.  | Nota Meer(se) Evenementen 2005  |
-| Haarlemmermeer  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Halderberge  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Halderberge  | artikel 2  | Speelautomatenhallenverordening  |
 | Halderberge  | artikel 2, tweede lid  | Afvalstoffenverordening  |
@@ -1895,17 +1922,14 @@ M.J.A. van derHoeven
 | Halderberge  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Halderberge  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Hardenberg  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Hardenberg  | artikel 2, tweede en derde lid  | Afvalstoffenverordening 2005  |
+| Hardenberg  | artikel 11, eerste, vijfde en zesde lid  | Afvalstoffenverordening 2005  |
 | Hardenberg  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Hardenberg  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Hardenberg  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Hardenberg  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Hardenberg  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Harderwijk  | artikel 6.1.1  | Bouwverordening  |
 | Harderwijk  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Harderwijk  | artikel 2:39, tweede en derde lid  | Algemene Plaatselijke Verordening  |
-| Harderwijk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Harderwijk  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Harderwijk  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Harderwijk  | artikelen 10, tweede lid, en 6  | Afvalstoffenverordening  |
 | Harderwijk   | artikel 6.1.1  | Bouwverordening  |
@@ -1922,6 +1946,8 @@ M.J.A. van derHoeven
 | Harenkarspel  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Harenkarspel  | artikel 4  | Marktverordening  |
 | Harenkarspel  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Harenkarspel  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Harenkarspel  | artikel 2  | Brandbeveiligingsverordening  |
 | Harlingen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Harlingen  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Harlingen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
@@ -1936,6 +1962,12 @@ M.J.A. van derHoeven
 | Hattem  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Hattem  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
 | Hattem  | artikelen 1.1, 2.1, 2.1 en 3.1  | Nadere regels sexinrichtingen en escortbedrijven  |
+| Heemskerk  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
+| Heemskerk  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
+| Heemskerk  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Heemskerk  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Heemskerk  | artikel 5.9.1  | Algemene Plaatselijke Verordening  |
+| Heemskerk  | n.v.t.  | Nulbeleid voor coffeeshops  |
 | Heemstede  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
 | Heemstede  | artikel 2  | Brandbeveiligingsverordening  |
 | Heemstede  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
@@ -1961,16 +1993,17 @@ M.J.A. van derHoeven
 | Heerhugowaard  | artikel 2.3.3.1 (2)  | Algemene Plaatselijke Verordening  |
 | Heerhugowaard  | artikel 3.2.1.  | Algemene Plaatselijke Verordening  |
 | Heerhugowaard  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
-| Heerlen  | artikelen 2 , eerste lid, en 8 tot en met 14  | Kwaliteit Peuterspeelzaalwerk  |
 | Heerlen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Heerlen  | artikel 2  | Standplaatsenverordening  |
 | Heerlen  | onderdelen 1, 2 en 3  | Beleidsregels speelautomatenhalvergunningen .  |
 | Heerlen  | artikelen 2 en 4  | Verordening speelautomaten  |
-| Heerlen  | artikel 2:8  | Algemene Plaatselijke Verordening 2010  |
+| Heerlen  | artikel 2:8, derde lid  | Algemene Plaatselijke Verordening 2010  |
 | Heerlen  | artikel 2:24  | Algemene Plaatselijke Verordening 2010  |
 | Heerlen  | artikel 2:65  | Algemene Plaatselijke Verordening 2010  |
 | Heerlen  | artikelen 3:5 en 3:11  | Algemene Plaatselijke Verordening 2010  |
 | Heerlen  | artikel 3:23  | Algemene Plaatselijke Verordening 2010  |
 | Heerlen  | artikelen 3:33 en 3:43  | Algemene Plaatselijke Verordening 2010  |
+| Heerlen  | artikelen 3:49, eerste lid, jo. artikel 3:48, eerste lid, sub a  | Algemene Plaatselijke Verordening 2010  |
 | Heerlen  | Artikel 5:21  | Algemene Plaatselijke Verordening 2010  |
 | Heerlen  | n.v.t.  | Beleidsregel vergunningen smart-, head- en growshops  |
 | Heerlen  | n.v.t.  | Beleidsregels buitenevenementen  |
@@ -1981,7 +2014,6 @@ M.J.A. van derHoeven
 | Heerlen  | artikelen 3 t/m 11, 11A, 12, 13 en 14  | Leefmilieuverordening Heerlen 2003–2008  |
 | Heerlen  | n.v.t.  | Sectoraal geluidsbeleid bij evenementen in de open lucht  |
 | Heerlen  | n.v.t.  | Softdrugsbeleid  |
-| Heerlen  | artikel 6  | Standplaatsverordening 2006  |
 | Heeze-Leende  | artikel 2 en 3  | Brandbeveiligingsverordening  |
 | Heeze-Leende  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Heeze-Leende  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -2053,8 +2085,6 @@ M.J.A. van derHoeven
 | Hillegom  | artikel 2.1.5.1, eerste lid, jo. artikel 2.1.5.1, tweede lid, onderdeel a  | Algemene Plaatselijke Verordening  |
 | Hillegom  | artikel 2.2.2 1  | Algemene Plaatselijke Verordening  |
 | Hillegom  | artikel 4.4.4  | Algemene Plaatselijke Verordening  |
-| Hillegom  | artikel 4.7.2  | Algemene Plaatselijke Verordening  |
-| Hillegom  | artikel 4.7.2  | Algemene Plaatselijke Verordening  |
 | Hillegom  | artikel 5.2.3 en het standplaatsenbeleid  | Algemene Plaatselijke Verordening  |
 | Hillegom  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Hillegom  | artikelen 13, 14, en 16  | Verordening wijziging woningvoorraad .  |
@@ -2094,10 +2124,7 @@ M.J.A. van derHoeven
 | Horst aan de Maas  | artikel 4  | Marktverordening  |
 | Horst aan de Maas  | artikel 2  | Brandbeveiligingsverordening  |
 | Horst aan de Maas  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
-| Horst aan de Maas  | artikel 4  | Marktverordening  |
-| Horst aan de Maas  | artikel 2  | Brandbeveiligingsverordening  |
-| Horst aan de Maas  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
-| Horst aan de Maas  | artikel 2.1.4.3  | Algemene plaatselijke verordening  |
+| Horst aan de Maas  | artikel 2.1.4.3, derde lid  | Algemene plaatselijke verordening  |
 | Horst aan de Maas  | artikel 2.2.2.2  | Algemene Plaatselijke Verordening  |
 | Horst aan de Maas  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Horst aan de Maas  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening  |
@@ -2130,15 +2157,9 @@ M.J.A. van derHoeven
 | Hulst  | artikelen 2:25 en 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Hulst  | artikelen 2.6.2 en 2:90  | Algemene Plaatselijke Verordening  |
 | Hulst  | artikelen 5.2.3 en 5:17  | Algemene Plaatselijke Verordening  |
+| Hulst  | artikelen 5:22 en 5.2.4  | Algemene Plaatselijke Verordening  |
 | Hulst  | artikel 7, tweede lid  | Afvalstoffenverordening  |
 | Hulst  | n.v.t.  | Beleidsnota bed- & breakfastvoorziening  |
-| Hunze  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Hunze  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Hunze  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Hunze  | artikel 2:39  | Algemene Plaatselijke Verordening  |
-| Hunze  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Hunze  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Hunze  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | IJsselstein  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | IJsselstein  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
 | IJsselstein  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -2158,22 +2179,19 @@ M.J.A. van derHoeven
 | Kaag en Braassem  | artikelen 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.3.2, 3.41, 3.4.2  | Algemene Plaatselijke Verordening  |
 | Kaag en Braassem  | artikel 3.2.2  | Huisvestingsverordening  |
 | Kaag en Braassem  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Kampen  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
 | Kampen  | artikel 2.1.1  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 2.1.5.1, derde lid  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 2.2.2, eerste lid  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 2.3.3.1, tweede lid  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 2:9  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 3, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 3.2.1, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Kampen  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Kampen  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Kampen  | artikel 2.1.1  | Brandbeveiligingsverordening 2005  |
+| Kampen  | artikel 3 jo. artikelen 1 en 2  | Verordening beperking sterke drank 2011  |
 | Kapelle  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Kapelle  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Katwijk  | artikelen 2.3.1.2, 2.3.1.3, 2.3.1.4, 2.3.1.5, en 2.5.5; 5.7.2  | Algemene Plaatselijke Verordening  |
 | Katwijk  | artikelen 2, 4, 5, 8, 9, 10  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Katwijk  | artikelen 5.2.2.2 en 5.2.3.2  | Algemene Plaatselijke Verordening  |
@@ -2191,19 +2209,17 @@ M.J.A. van derHoeven
 | Koggenland  | artikelen 2:27 en 2:28  | Algemene Plaatselijke Verordening  |
 | Koggenland  | artikelen 5:22 en 5:23  | Algemene Plaatselijke Verordening  |
 | Koggenland  | artikelen 2:24 en 2:25, eerste lid  | Algemene Plaatselijke Verordening  |
-| Korendijk  | artikelen 6.1.1, 6.1.5, en 6.1.6  | Bouwverordening  |
 | Korendijk  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Korendijk  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
-| Korendijk  | artikel 2.1.1  | Brandbeveiligingsverordening  |
-| Korendijk  | artikel 2.1.4.1  | Algemene Plaatselijke Verordening  |
-| Korendijk  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
-| Korendijk  | artikel 2.2.2, eerste lid  | Algemene Plaatselijke Verordening  |
-| Korendijk  | artikelen 2.3.1.2, 2.3.1.4 , 2.3.1.4a, en 2.3.1.5  | Algemene Plaatselijke Verordening  |
-| Korendijk  | artikelen 2.3.2.2, 2.3.1.2, en 2.3.2.3  | Algemene Plaatselijke Verordening  |
-| Korendijk  | artikel 2.3.3.1 (2)  | Algemene Plaatselijke Verordening  |
+| Korendijk  | artikel 2  | Brandbeveiligingsverordening 2010  |
+| Korendijk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Korendijk  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Korendijk  | artikelen 2:28  | Algemene Plaatselijke Verordening  |
+| Korendijk  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Korendijk  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Korendijk  | artikel 5:18  | Algemene Plaatselijke Verordening  |
+| Korendijk  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Korendijk  | artikelen 2, 3, en 4  | Verordening speelautomaten  |
-| Korendijk  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
-| Korendijk  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Krimpen aan den Ijsel  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Krimpen aan den Ijsel  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
 | Krimpen aan den Ijsel  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
@@ -2226,9 +2242,15 @@ M.J.A. van derHoeven
 | Laarbeek  | artikel 2:9  | Algemene Plaatselijke Verordening  |
 | Laarbeek  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Laarbeek  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Landert  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening 2010  |
+| Landert  | artikel 2, tweede lid  | Brandbeveiligingsverordening  |
+| Landert  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Landert  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Landert  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Landert  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Landert  | artikel 5:23  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 1  | Voorwaarden voor de verhuur van standplaatsen op kermisterreinen in Landgraaf  |
 | Landgraaf  | artikel 11  | Afvalstoffenverordening  |
-| Landgraaf  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Landgraaf  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Landgraaf  | artikel 2, tweede lid  | Verordening Speelautomaten  |
 | Landgraaf  | artikel 2.1.4.1  | Algemene Plaatselijke Verordening  |
@@ -2240,6 +2262,7 @@ M.J.A. van derHoeven
 | Landgraaf  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Landgraaf   | artikel 2, tweede lid  | Verordening speelautomaten  |
 | Landsmeer  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Landsmeer  | artikel 2  | Brandbeveiligingsverordening  |
 | Landsmeer  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Landsmeer  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Landsmeer  | artikel 5:22  | Algemene Plaatselijke Verordening  |
@@ -2252,11 +2275,9 @@ M.J.A. van derHoeven
 | Langedijk  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Langedijk  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Langedijk  | artikel 2:39, tweede en derde lid  | Algemene Plaatselijke Verordening  |
-| Langedijk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Langedijk  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening  |
 | Langedijk  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Langedijk  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Langedijk  | artikel 4;16  | Algemene Plaatselijke Verordening  |
 | Langedijk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Lansingerland  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Lansingerland  | artikel 2  | Brandbeveiligingsverordening  |
@@ -2278,9 +2299,14 @@ M.J.A. van derHoeven
 | Laren  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 2.4.7a  | Algemene Plaatselijke Verordening  |
 | Laren  | artikelen 2:3.3.2, 2.3.3.3, 2.3.3.4, en 2.3.3.5.  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 2.9  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 2.25, eerste lid  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 2.28  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Laren  | artikelen 3.3 en 3.4  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 5.2.1,  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 5.23  | Algemene Plaatselijke Verordening  |
 | Laren  |  n.v.t.  | Circusbeleid  |
 | Laren  | paragraaf 5.4  | Vent- en standplaatsenbeleid  |
 | Laren  | paragraaf 5.6  | Vent- en standplaatsenbeleid  |
@@ -2334,6 +2360,8 @@ M.J.A. van derHoeven
 | Leeuwarden  | n.v.t.  | Ontheffingen voor geluid  |
 | Leeuwarden  | n.v.t.  | Regeling "uitstallingen en losse reclameborden bij winkels"  |
 | Leeuwarden  | artikelen 2:28, 2;28a en 2:28b  | Algemene Plaatselijke Verordening  |
+| Leeuwarderadeel  | Artikel 2:10, derde lid  | Algemene Plaatselijke Verordening  |
+| Leeuwarderadeel  | Artikel 2:10, vijfde lid  | Algemene Plaatselijke Verordening  |
 | Leeuwarderadeel  | artikelen 2.1, 2.2, en 2.4  | Horecaverordening  |
 | Leeuwarderadeel  | artikel 7  | Afvalstoffenverordening  |
 | Leeuwarderadeel  | artikel 5  | Verpachting van staanplaatsen  |
@@ -2372,8 +2400,6 @@ M.J.A. van derHoeven
 | Lelystad  | n.v.t.  | Bouwverordening  |
 | Lelystad  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Lelystad  | artikel 2.3.4.2  | Algemene Plaatselijke Verordening  |
-| Lelystad  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Lelystad  | n.v.t.  | Beleidsregel Bed & Breakfast  |
 | Lemsterland  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Lemsterland  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
@@ -2390,6 +2416,7 @@ M.J.A. van derHoeven
 | Liesveld  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening  |
 | Liesveld  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Liesveld  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Liesveld  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Liesveld  | n.v.t.  | Nota prostitutiebeleid  |
 | Liesveld  | n.v.t.  | Beleidsregels en uitvoeringsbesluit inzake standplaats- en ventvergunningen  |
 | Lingewaal  | artikel 2  | Brandbeveiligingsverordening  |
@@ -2408,12 +2435,6 @@ M.J.A. van derHoeven
 | Lisse  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Lisse  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Lisse  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 2  | Brandbeveiligingsverordening  |
-| Lith  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Loenen  | artikel 2  | Brandbeveiligingsverordening  |
 | Loenen  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Loon op Zand  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
@@ -2431,6 +2452,14 @@ M.J.A. van derHoeven
 | Loppersum  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Loppersum  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Loppersum  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening 2010  |
+| Losser  | artikel 2, tweede lid  | Brandbeveiligingsverordening  |
+| Losser  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 5:23  | Algemene Plaatselijke Verordening  |
 | Maarssen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Maarssen  | artikel 5  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Maarssen  | artikel 3.2.2  | Huisvestingsverordening  |
@@ -2489,8 +2518,8 @@ M.J.A. van derHoeven
 | Medemblik  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
 | Medemblik  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Medemblik  | artikelen 2.3.1.1 en 2.3.1.2  | Algemene Plaatselijke Verordening  |
-| Meerssen  | artikel 4  | Beleidsnotitie inzake regulering  |
-| Meerssen  | artikelen 2.2.2, eerste, tweede en derde lid  | Evenementen  |
+| Meerssen  | artikel 4  | Kaderstelling en randvoorwaarden Beleidsnotitie inzake regulering  |
+| Meerssen  | artikelen 2.2.2, eerste, tweede en derde lid  | Algemene Plaatselijke Verordening  |
 | Meerssen  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
 | Meerssen  | artikel 5.2.3  | Algemene Plaatselijke Verordening  |
 | Meerssen  | artikelen 7, tweede lid, en 11  | Afvalstoffenverordening  |
@@ -2505,7 +2534,6 @@ M.J.A. van derHoeven
 | Menterwolde  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Meppel  | artikel 2.1.3.1  | Algemene Plaatselijke Verordening  |
 | Meppel  | artikel 2.2.2.  | Algemene Plaatselijke Verordening  |
-| Meppel  | artikel 2.1.3.1  | Algemene Plaatselijke Verordening  |
 | Meppel  | artikel 2.3.1.2.  | Coffeeshopbeleid.  |
 | Meppel  | artikel 2  | Verordening Kinderopvang Gemeente Meppel  |
 | Meppel  | artikel 2  | Brandbeveiligingsverordening  |
@@ -2523,6 +2551,7 @@ M.J.A. van derHoeven
 | Middelharnis  | artikel 2.1.4.2 , derde lid  | Algemene Plaatselijke Verordening  |
 | Middelharnis  | artikel 2.3.3.1 , tweede lid  | Algemene Plaatselijke Verordening  |
 | Middelharnis  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Midden-Delfland  | artikel 2  | Brandbeveiligingsverordening  |
 | Midden-Drenthe  | artikel 2  | Brandbeveiligingsverordening  |
 | Midden-Drenthe  | artikel 7, tweede lid  | Afvalstoffenverordening  |
 | Mill en Sint Hubert  | artikel 2, tweede lid  | Afvalstoffenverordening  |
@@ -2564,15 +2593,16 @@ M.J.A. van derHoeven
 | Montfoort  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Montfoort  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Montfoort  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikelen 5:17 en 5:18  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikel 2  | Speelautomatenhallenverordening  |
 | Mook en Middelaar  | n.v.t.  | Beleidsregels evenementen .  |
 | Mook en Middelaar  | n.v.t.  | Brandbeveiligingsverordening  |
-| Moordrecht  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Moordrecht  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| Moordrecht  | artikel 4  | Marktverordening  |
-| Moordrecht  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Moordrecht  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Moordrecht  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Moordrecht  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Muiden  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Muiden  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Muiden  | artikelen 3.2.2, 3.2.4 en 3.2.4  | Huisvestingsverordening  |
@@ -2602,6 +2632,7 @@ M.J.A. van derHoeven
 | Nederlek  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Nederlek  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Nederlek  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Nederlek  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Nederweert  | artikelen 2, 8, en 14  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Nederweert  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Nederweert  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -2611,17 +2642,15 @@ M.J.A. van derHoeven
 | Nederweert  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Nederweert  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Nederweert  | artikelen 4, 6, 7, en 10  | Marktverordening  |
-| Neerijnen  | artikel 6.1.1  | Bouwverordening  |
-| Neerijnen  | artikel 2.1.1  | Brandbeveiligingsverordening  |
-| Neerijnen  | artikel 2.2.1, 2.2.2 en 2.2.3.  | Algemene Plaatselijke Verordening  |
-| Neerijnen  | artikelen 2.3.1, 2.3.1.2, 2.3.1.4, en 2.3.1.9  | Algemene Plaatselijke Verordening  |
-| Neerijnen  | artikelen 3.1.1, 3.2.1 tot en met 3.2.5, 3.3.1, 3.3.2, 3.4.1 en 3.4.2  | Algemene Plaatselijke Verordening  |
-| Neerijnen  | artikelen 3.1.1, 3.2.1 tot en met 3.2.5, 3.3.1, 3.3.2, 3.4.1 en 3.4.2  | Algemene Plaatselijke Verordening  |
-| Neerijnen  | artikelen 5.2.3.1, 5.2.3.2, en 5.2.2.3  | Algemene Plaatselijke Verordening  |
-| Neerijnen  | artikelen 5.2.4.1, en 5.4.2.2  | Algemene Plaatselijke Verordening  |
-| Neerijnen  | artikel 2.3.3.1, tweede lid  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikelen 2 en 3  | Brandbeveiligingsverordening 2010  |
+| Neerijnen  | artikel 2.25, eerste en vierde lid  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 2.28  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 2.39  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 3.4  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 5.18  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 5.23  | Algemene Plaatselijke Verordening  |
 | Neerijnen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Neunen  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikelen 2 en 3  | Verordening peuterspeelzalen  |
 | Niedorp  | artikel 1.3  | Evenementenbeleid  |
 | Niedorp  | artikel 2, eerste lid  | Verordening kwaliteit peuterspeelzalen  |
 | Niedorp  | artikel 2  | Brandbeveiligingsverordening  |
@@ -2667,13 +2696,13 @@ M.J.A. van derHoeven
 | Nijkerk  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Nijkerk  | artikel 3.2.2  | Huisvestingsverordening  |
 | Nijkerk  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
-| Nijmegen  | artikelen 6.1.1, 6.1.5, en 6.1.6  | Bouwverordening  |
 | Nijmegen  | artikel 2.2.2, eerste en derde lid  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikel 2.2.7  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikelen 4.2.1.2, en 4.2.4.1  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikelen 2.3.1.5, 2.3.1.2, tweede lid, 2.3.1.2a, 2.3.1.7, 2.3.1.9, en 2.3.1.10  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikelen 2.3.1.6, 2.3.1.2, 2.3.1.5, 2.3.1.7, 2.3.1.8, 2.3.1.10, en 4.3.3.  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikel 2.3.2.2  | Algemene Plaatselijke Verordening  |
+| Nijmegen  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikel 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.3.1, 3.3.2, 3.4.1.  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikel 50  | Openluchtrecreatie .  |
 | Nijmegen  | artikel 2.4.4  | Beleidsregels met gedoogvoorwaarden  |
@@ -2687,6 +2716,7 @@ M.J.A. van derHoeven
 | Noordenveld  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Noordenveld  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Noordenveld  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Noordenveld  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Noordenveld  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
 | Noordoostpolder  | artikel 2:25 , eerste, tweede en derde lid  | Algemene Plaatselijke Verordening  |
 | Noordoostpolder  | artikelen 7, 11, en 28  | Afvalstoffenverordening  |
@@ -2742,6 +2772,15 @@ M.J.A. van derHoeven
 | Oisterwijk  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
 | Oisterwijk  | artikel 2  | Bomenverordening  |
 | Oisterwijk  | artikel 2  | Verordening Kinderopvang  |
+| Oldambt  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
+| Oldambt  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Oldambt  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Oldambt  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Oldambt  | artikelen 5:17 en 5:18  | Algemene Plaatselijke Verordening  |
+| Oldambt  | artikel 5:23  | Algemene Plaatselijke Verordening  |
+| Oldambt  | artikel 2  | Brandbeveiligingsverordening  |
+| Oldambt  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
+| Oldambt  | artikel 3  | Verordening exploitatie (‘alcoholvrije’) horecabedrijven  |
 | Oldebroek  | artikel 2, tweede lid  | Algemene Plaatselijke Verordening  |
 | Oldebroek  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Oldebroek  | artikel 2:28  | Algemene Plaatselijke Verordening  |
@@ -2754,8 +2793,7 @@ M.J.A. van derHoeven
 | Oldenzaal  | artikel 2:9, derde lid  | Algemene plaatselijke verordening  |
 | Oldenzaal  | artikel 3:4  | Algemene plaatselijke verordening  |
 | Oldenzaal  | artikel 5:22 en 5:23  | Algemene plaatselijke verordening  |
-| Oldenzaal  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Oldenzaal  | artikel 6  | Afvalstoffenverordening  |
+| Oldenzaal  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Olst-Wijhe  | artikelen 2, eerste lid, en 8 tot en met 14  | Kwaliteit Peuterspeelzaalwerk  |
 | Olst-Wijhe  | artikel 2  | Brandbeveiligingsverordening  |
 | Olst-Wijhe  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
@@ -2787,9 +2825,9 @@ M.J.A. van derHoeven
 | Onderbanken  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Onderbanken  | artikelen 4, 6, 7, 10  | Marktverordening  |
 | Onderbanken  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Oosstellingwerf  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Oosstellingwerf  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Oosstellingwerf  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Oostellingwerf  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Oostellingwerf  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Oostellingwerf  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Oost Gelre  | artikel 2  | Brandbeveiligingsverordening  |
 | Oost Gelre  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Oost Gelre  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -2845,6 +2883,12 @@ M.J.A. van derHoeven
 | Opsterland  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Opsterland  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Opsterland  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 2  | Brandbeveiligingsverordening  |
+| Oss  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Oud-Beijerland  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
 | Oud-Beijerland  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Oud-Beijerland  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
@@ -2929,9 +2973,11 @@ M.J.A. van derHoeven
 | Purmerend  | artikel 112  | Algemene Plaatselijke Verordening  |
 | Purmerend  | artikel 24  | Algemene Plaatselijke Verordening  |
 | Purmerend  | artikel 24, vijfde lid  | Algemene Plaatselijke Verordening  |
+| Purmerend  | artikel 28b  | Algemene Plaatselijke Verordening  |
 | Purmerend  | artikel 3  | Algemene Plaatselijke Verordening  |
 | Purmerend  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening  |
 | Purmerend  | artikel 54  | Algemene Plaatselijke Verordening  |
+| Purmerend  | artikel 2  | Brandbeveiligingsverordening Purmerend 2010  |
 | Purmerend  | paragraaf 4.2.2.  | Nota prostitutiebeleid  |
 | Purmerend  | paragraaf 4.2.3.  | Nota prostitutiebeleid  |
 | Purmerend  | artikelen 2, eerste lid, 3, 7, en 10  | Verordening Peuterspeelzaalwerk  |
@@ -3377,7 +3423,7 @@ M.J.A. van derHoeven
 | Tiel  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Tilburg  | artikel 17  | Duinverordening  |
 | Tilburg  | artikelen 2 , eerste lid, en 8 tot en met 14  | Kwaliteit Peuterspeelzaalwerk  |
-| Tilburg  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Tilburg  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
 | Tilburg  | artikel 26  | Algemene Plaatselijke Verordening  |
 | Tilburg  | artikel 38  | Algemene Plaatselijke Verordening  |
 | Tilburg  | artikel 97  | Algemene Plaatselijke Verordening  |
@@ -3475,6 +3521,7 @@ M.J.A. van derHoeven
 | Urk  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Urk  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Urk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Urk  | artikel 5:18  | Algemene Plaatselijke Verordening  |
 | Utrecht  | artikel 3  | Vrijstellingsverordening inrichtingen milieubeheer  |
 | Utrecht  | artikel 3  | Algemene Plaatselijke Verordening  |
 | Utrecht  | artikel 5  | Algemene Plaatselijke Verordening  |
@@ -3488,6 +3535,14 @@ M.J.A. van derHoeven
 | Vaals  | artikel 3, eerste lid  | Verordening speelautomatenhallen  |
 | Vaals  | artikelen 7, tweede lid, en 11  | Afvalstoffenverordening  |
 | Vaals  | n.v.t.  | Beleidsregels tijdelijke publiciteitsborden  |
+| Valkenburg aan de Geul  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
+| Valkenburg aan de Geul  | artikel 2  | Brandbeveiligingsverordening  |
+| Valkenburg aan de Geul  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 5:21  | Algemene Plaatselijke Verordening  |
 | Valkenswaard  | artikelen 2, eerste lid, en 8 tot en met 14  | Kwaliteit Peuterspeelzaalwerk  |
 | Valkenswaard  | artikel 2  | Brandbeveiligingsverordening  |
 | Valkenswaard  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
@@ -3640,13 +3695,15 @@ M.J.A. van derHoeven
 | Waalwijk  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Waalwijk  | paragraaf 4  | Horecabeleid  |
 | Waalwijk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Waddingxveen  | artikel 2.3.1.2, eerste lid  | Algemene Plaatselijke Verordening  |
-| Waddinxveen  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| Waddinxveen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Waddinxveen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Waddinxveen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Waddinxveen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Waddinxveen  | n.v.t.  | Beleidsnotitie huis aan huis inzameling van textiel  |
+| Waddinxveen  | artikel 2:28  | Algemene Plaatselijke Verordening 2009  |
+| Waddinxveen  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening 2009  |
+| Waddinxveen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening 2009  |
+| --- | artikel 2:25  | Algemene Plaatselijke Verordening 2009  |
+| Waddinxveen  | artikel 3:4  | Algemene Plaatselijke Verordening 2009  |
+| --- | artikel 5:18  | Algemene Plaatselijke Verordening 2009  |
+| Waddinxveen  | artikel 5:22  | Algemene Plaatselijke Verordening 2009  |
+| Waddinxveen  | artikelen 7 en 11  | Afvalstoffenverordening  |
+| Waddinxveen  | artikel 2  | Brandbeveiligingsverordening  |
 | Wageningen  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Wageningen  | artikel 7  | Afvalstoffenverordening  |
 | Wageningen  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
@@ -3655,6 +3712,14 @@ M.J.A. van derHoeven
 | Wageningen  | artikelen 6.1.1, 6.1.5, en 6.1.6.  | Bouwverordening  |
 | Wageningen  | artikelen 2 tot en met 5, en 7 tot en met 15  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Wageningen  | artikelen 2.1.1, 2.1.2, en 2.1.3  | Brandbeveiligingsverordening  |
+| Wassenaar  | artikelen 7,tweede lid, en 11  | Afvalstoffenverordening  |
+| Wassenaar  | artikel 2.1.4.3, derde lid  | Algemene Plaatselijke Verordening  |
+| Wassenaar  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
+| Wassenaar  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Wassenaar  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
+| Wassenaar  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
+| Wassenaar  | artikel 3, eerste lid  | Verordening Speelautomatenhallen  |
+| Wassenaar  | artikel 2  | Brandbeveiligingsverordening  |
 | Waterland  | artikel 2  | Brandbeveiligingsverordening  |
 | Weesp  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Weesp  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
@@ -3922,6 +3987,11 @@ M.J.A. van derHoeven
 | Zevenaar  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Zevenaar  | n.v.t.  | Softdrugsbeleid De Liemers 1998  |
 | Zevenaar  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Zoetermeer  | artikel 2:4, derde lid  | Algemene Plaatselijke Verordening  |
+| Zoetermeer  | artikel 2:13  | Algemene Plaatselijke Verordening  |
+| Zoetermeer  | artikel 2:25, eerste lid  | Algemene Plaatselijke Verordening  |
+| Zoetermeer  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Zoetermeer  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Zoetermeer  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Zoetermeer  | artikel 2  | Brandbeveiligingsverordening  |
 | Zoetermeer  | artikel 2, tweede lid  | Afvalstoffenverordening  |
@@ -3986,6 +4056,19 @@ M.J.A. van derHoeven
 
 | Regelgever  | bepaling/artikel (nummer)  | Naam regelgeving  |
 |:---|:---|:---|
+| Aa en Hunze  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Aa en Hunze  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Aa en Hunze  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Aa en Hunze  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Aa en Hunze  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Aa en Hunze  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Aa en Hunze  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Aa en Hunze  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Aa en Hunze  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Aa en Hunze  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Aa en Hunze  | artikel 8.3.4  | Bouwverordening  |
+| Aa en Hunze  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Aa en Hunze  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Aalburg  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Aalburg  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Aalburg  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -4002,18 +4085,20 @@ M.J.A. van derHoeven
 | Aalsmeer  | artikelen 7.7.2, 7.7.3, en 7.7.4  | Bouwverordening  |
 | Aalten  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Aalten  | artikel 2.3.3.2.  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Aalten  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Aalten  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Aalten  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Aalten  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Aalten  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Aalten  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Aalten  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Aalten  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Aalten  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Aalten  | artikel 8.3.4 :  | Bouwverordening  |
+| Aalten  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Aalten  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Achtkarspel  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Achtkarspel  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Achtkarspelen  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Achtkarspelen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Achtkarspelen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Achtkarspelen  | artikel 4.1.4  | Algemene Plaatselijke Verordening  |
 | Achtkarspelen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
@@ -4113,6 +4198,9 @@ M.J.A. van derHoeven
 | Andijk  | artikel 8.3.4  | Bouwverordening  |
 | Andijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Andijk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Anna Paulowna  | artikel 4.10, eerste lid, jo. artkel 8 .3.1  | Bouwverordening 2010  |
+| Anna Paulowna  | artikel 4.12, eerste lid  | Bouwverordening 2010  |
+| Anna Paulowna  | artikel 8.4.1, eerste en tweede lid  | Bouwverordening 2010  |
 | Apeldoorn  | artikel 4.11  | Bouwverordening  |
 | Apeldoorn  | artikel 6.1.1  | Coffeeshopbeleid  |
 | Apeldoorn  | artikel 2  | Brandbeveiligingsverordening  |
@@ -4147,7 +4235,6 @@ M.J.A. van derHoeven
 | Appingedam  | artikel 8.3.4  | Bouwverordening  |
 | Appingedam  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Appingedam  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Arcen en Velden  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
 | Arnhem  | artikel 2.1.34.2, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Arnhem  | artikel 2  | Brandbeveiligingsverordening  |
 | Arnhem  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
@@ -4212,6 +4299,34 @@ M.J.A. van derHoeven
 | Barendrecht  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Barendrecht  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Barendrecht  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
+| Barneveld  | artikelen 45, 48, 49 en 50  | Algemene Plaatselijke Verordening  |
+| Barneveld  | artikel 97  | Algemene Plaatselijke Verordening  |
+| Barneveld  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Barneveld  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Barneveld  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Barneveld  | artikel 4.11, eerste lid, sub a tot en met d, tweede lid en derde lid.  | Bouwverordening  |
+| Barneveld  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Barneveld  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Barneveld  | artikel 7.3.2, sub a tot en met c  | Bouwverordening  |
+| Barneveld  | Artikel 8.3.4  | Bouwverordening  |
+| Barneveld  | Artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Barneveld  | Artikel 8.4.1, eerste lid, sub a tot en met g en tweede lid  | Bouwverordening  |
+| Bedum  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Bedum  | artikel 28  | Afvalstoffenverordening  |
+| Bedum  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Bedum  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Bedum  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Bedum  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Bedum  | Artikel 4.11, eerste lid, sub a tot en met d, tweede lid en derde lid  | Bouwverordening  |
+| Bedum  | Artikel 4.12, eerste lid  | Bouwverordening  |
+| Bedum  | Artikel 4.13, eerste lid  | Bouwverordening  |
+| Bedum  | Artikel 7.3.2, sub a tot en met c  | Bouwverordening  |
+| Bedum  | Artikel 8.3.4  | Bouwverordening  |
+| Bedum  | Artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Bedum  | Artikel 8.4.1, eerste lid, sub a tot en met g en tweede lid  | Bouwverordening  |
 | Beek  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Beek  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Beek  | artikel 5:15  | Algemene Plaatselijke Verordening  |
@@ -4283,39 +4398,34 @@ M.J.A. van derHoeven
 | Bergen op Zoom  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Bergen op Zoom  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Bergen op Zoom  | artikel 2:45 tot en met 2:54  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Bergijk  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Bergijk  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Bergijk  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Bergijk  | artikel 4.12, eerste lid  | Bouwverordening  |
-| Bergijk  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Bergijk  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Bergijk  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Bergijk  | artikel 7.3.2  | Bouwverordening  |
-| Bergijk  | artikel 8.3.4  | Bouwverordening  |
-| Bergijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Bergijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Bergijk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Berkelland  | artikel 2:9  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Bergeijk  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Bergeijk  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Bergeijk  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Bergeijk  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Bergeijk  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Bergeijk  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Bergeijk  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Bergeijk  | artikel 7.3.2  | Bouwverordening  |
+| Bergeijk  | artikel 8.3.4  | Bouwverordening  |
+| Bergeijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Bergeijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Bergeijk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Berkelland  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Berkelland  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Berkelland  | artikel 2:25, derde lid  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Berkelland  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Berkelland  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Berkelland  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Berkelland  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Berkelland  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Berkelland  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Berkelland  | artikel 8.3.4  | Bouwverordening  |
 | Berkelland  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Berkelland  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Berkelland  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Berkelland  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
 | Bernisse  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -4388,6 +4498,8 @@ M.J.A. van derHoeven
 | Blaricum  | artikelen 2.3.3.2 en 2.3.3.3.  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 2.4.7a  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 2.5.5  | Algemene Plaatselijke Verordening  |
+| Blaricum  | artikel 2.9  | Algemene Plaatselijke Verordening  |
+| Blaricum  | artikel 2.25, tweede lid  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Blaricum  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Blaricum  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -4396,12 +4508,13 @@ M.J.A. van derHoeven
 | Blaricum  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Blaricum  | artikelen 5, 6 en 7  | Procedureregeling planschadevergoeding  |
 | Blaricum  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
+| Blaricum  | artikel 5.15  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 8.3.4  | Model-bouwverordening (incl. 12e serie wijzigingen)  |
 | Blaricum  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Bloemendaal  | artikel 4.11  | Bouwverordening  |
 | Bloemendaal  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Bloemendaal  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Bloemendaal  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Bloemendaal  | artikel 2:9, eerste lid jo. artikel 2 Aanwijzingsbesluit APV Bloemendaal 2010  | Algemene Plaatselijke Verordening 20101  |
 | Bloemendaal  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Bloemendaal  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Bloemendaal  | artikel 4.13, eerste lid  | Bouwverordening  |
@@ -4915,7 +5028,7 @@ M.J.A. van derHoeven
 | Doetinchem  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Doetinchem  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Doetinchem  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Dongeraldeel  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
+| Dongeradeel  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Dordrecht  | artikel 16, eerste en tweede lid  | Kwaliteit Peuterspeelzaalwerk  |
 | Dordrecht  | artikel 17  | Kwaliteit Peuterspeelzaalwerk  |
 | Dordrecht  | artikel 18  | Kwaliteit Peuterspeelzaalwerk  |
@@ -4971,8 +5084,27 @@ M.J.A. van derHoeven
 | Dronten  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Dronten  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Dronten  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Druten  | artikel 8.3.4  | Bouwverordening gemeente Druten 2007  |
+| Druten  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Druten  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Druten  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Druten  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Druten  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Druten  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Druten  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Druten  | artikel 8.3.4  | Bouwverordening  |
+| Druten  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Druten  | artikel 8.4.1, eerste lid, sub a tot en met g en tweede lid  | Bouwverordening  |
 | Duiven  | artikel 4:27  | Algemene Plaatselijke Verordening 2009  |
+| Duiven  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Duiven  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Duiven  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Duiven  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Duiven  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Duiven  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Duiven  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Duiven  | artikel 8.3.4  | Bouwverordening  |
+| Duiven  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Duiven  | artikel 8.4.1, eerste lid, sub a tot en met g en tweede lid  | Bouwverordening  |
 | Echt-Susteren  | artikel 2:40, tweede en derde lid  | Algemene Plaatselijke Verordening  |
 | Echt-Susteren  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Echt-Susteren  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -5017,6 +5149,8 @@ M.J.A. van derHoeven
 | Eemnes  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2.5.5.  | Algemene Plaatselijke Verordening  |
+| Eemnes  | artikel 2.9  | Algemene Plaatselijke Verordening  |
+| Eemnes  | artikel 2.25, tweede lid  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 3.2.6.  | Algemene Plaatselijke Verordening  |
@@ -5026,6 +5160,7 @@ M.J.A. van derHoeven
 | Eemnes  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Eemnes  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Eemnes  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
+| Eemnes  | artikel 5.15  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Eemnes  | artikel 8.3.4  | Bouwverordening  |
 | Eemnes  | artikel 8.3.5, tweede lid  | Bouwverordening  |
@@ -5101,6 +5236,7 @@ M.J.A. van derHoeven
 | Enkhuizen  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Enschede  | artikel 1, onderdeel p, jo. artikel 12, derde lid, onderdeel e  | Huisvestingsverordening  |
 | Enschede  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Enschede  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Enschede  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Enschede  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Enschede  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -5231,6 +5367,7 @@ M.J.A. van derHoeven
 | Giessenlanden  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Giessenlanden  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Gilze en Rijen  | artikel 4.11  | Bouwverordening  |
+| Gilze en Rijen  | n.v.t.  | Notitie prostitutiebeleid Gilze en Rijen  |
 | Gilze en Rijen  | n.v.t.  | Nota evenementenbeleid  |
 | Gilze en Rijen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Gilze en Rijen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -5268,6 +5405,7 @@ M.J.A. van derHoeven
 | Goes  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Goes  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Goes  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Goirle  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Gorinchem  | artikel 4.11  | Bouwverordening  |
 | Gorinchem  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Gorinchem  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -5348,10 +5486,18 @@ M.J.A. van derHoeven
 | Gulpen-Wittem  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Gulpen-Wittem  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Haaksbergen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Haaksbergen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Haaksbergen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Haaksbergen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Haaksbergen  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Haaksbergen  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Haaksbergen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Haaksbergen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Haaksbergen  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Haaksbergen  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Haaksbergen  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Haaksbergen  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Haaksbergen  | artikel 8.3.4  | Bouwverordening  |
+| Haaksbergen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Haaksbergen  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Haaren  | 2.1  | Beleidsnotitie Housepartys  |
 | Haaren  | artikel 13  | Duinverordening  |
 | Haaren  | artikel 17  | Duinverordening  |
@@ -5395,6 +5541,7 @@ M.J.A. van derHoeven
 | Haarlemmerliede en Spaarnwoude  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Haarlemmermeer  | n.v.t.  | Actualisatie Hotelbeleid 2006  |
 | Haarlemmermeer  | n.v.t.  | Nota Kampeerbeleid  |
+| Haarlemmermeer  | n.v.t.  | Faciliteren van realisatie van hotelkamers  |
 | Halderberge  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Halderberge  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Halderberge  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
@@ -5422,7 +5569,6 @@ M.J.A. van derHoeven
 | Hardenberg  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Hardenberg  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Harderwijk  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Harderwijk  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Harderwijk  | artikel 2:40, tweede en derde lid  | Algemene Plaatselijke Verordening  |
 | Harderwijk  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Harderwijk  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
@@ -5479,7 +5625,19 @@ M.J.A. van derHoeven
 | Hattem  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Hattem  | artikel 2  | Horecaconvenant  |
 | Hattem  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Heemskerk  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Heemskerk  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Heemskerk  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Heemskerk  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Heemskerk  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Heemskerk  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Heemskerk  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Heemskerk  | artikel 8.3.4  | Bouwverordening  |
+| Heemskerk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Heemskerk  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
+| Heemskerk  | n.v.t.  | Nulbeleid voor coffeeshops  |
 | Heemstede  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Heemstede  | artikel 2, tweede lid  | Speelautomatenverordening  |
 | Heemstede  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Heemstede  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Heemstede  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -5510,25 +5668,26 @@ M.J.A. van derHoeven
 | Heerhugowaard  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Heerhugowaard  | artikel 8.3.4  | Bouwverordening Heerhugowaard 2006  |
 | Heerlen  | artikelen 1.1, 1.2, en 1.3  | Beleidsregel: Buitenevenementen en principetoestemmingen 2009  |
-| Heerlen  | n.v.t.  | Feesttentenregeling 2009  |
-| Heerlen  | artikelen 2, tweede en zesde lid  | Afvalstoffenverordening Notificatie  |
+| Heerlen  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Heerlen  | onderdelen 1, 2, en 3  | Beleidsregels speelautomatenhalvergunningen .  |
 | Heerlen  | artikelen 2.1.4.3, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Heerlen  | artikel 2.4.8a  | Algemene Plaatselijke Verordening  |
+| Heerlen  | artikel 2:8, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Heerlen  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
-| Heerlen  | n.v.t  | Beleidslijn inzake APV-vergunningen en ontheffingen voor horeca-inrichtingen  |
-| Heerlen  | artikel 2.1.5, eerste lid, sub a t/m c  | Bouwverordening  |
+| Heerlen  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
 | Heerlen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Heerlen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Heerlen  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Heerlen  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Heerlen  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Heerlen  | artikel 7.3.2, sub a  tot en met c  | Bouwverordening  |
-| Heerlen  | Artikel 8.3.4  | Bouwverordening  |
-| Heerlen  | Artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Heerlen  | Artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
+| Heerlen  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Heerlen  | artikel 8.3.4  | Bouwverordening  |
+| Heerlen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Heerlen  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
+| Heerlen  | n.v.t  | Beleidslijn inzake APV-vergunningen en ontheffingen voor horeca-inrichtingen  |
 | Heerlen  | artikelen 3 t/m 11,  11A, 12, 13 en 14  | Leefmilieuverordening Heerlen 2003–2008  |
 | Heerlen  | n.v.t.  | Softdrugsbeleid  |
+| Heerlen  | n.v.t.  | Feesttentenregeling 2011  |
 | Heeze-Leende  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Heeze-Leende  | artikel 2, eerste en tweede lid  | Speelautomatenhallenverordening  |
 | Heeze-Leende  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -5676,6 +5835,7 @@ M.J.A. van derHoeven
 | Hoorn  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Hoorn  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Hoorn  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
+| Horst aan de Maas  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
 | Horst aan de Maas  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Horst aan de Maas  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Horst aan de Maas  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -5686,6 +5846,7 @@ M.J.A. van derHoeven
 | Horst aan de Maas  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Horst aan de Maas  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Horst aan de Maas  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
+| Horst aan de Maas  | artikel 2.1.4.3, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Horst aan de Maas  | artikel 2.3.3.2  | Algemene plaatselijke verordening  |
 | Horst aan de Maas  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
 | Houten  | artikel 8.3.4  | Bouwverordening  |
@@ -5720,19 +5881,6 @@ M.J.A. van derHoeven
 | Hulst  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Hulst  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Hulst  | n.v.t.  | Retailvisie Hulst  |
-| Hunze  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Hunze  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Hunze  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Hunze  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Hunze  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Hunze  | artikel 4.12, eerste lid  | Bouwverordening  |
-| Hunze  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Hunze  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Hunze  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Hunze  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Hunze  | artikel 8.3.4  | Bouwverordening  |
-| Hunze  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Hunze  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | IJsselstein  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | IJsselstein  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
 | IJsselstein  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
@@ -5764,23 +5912,23 @@ M.J.A. van derHoeven
 | Kaag en Braassem  | artikel 8.3.4  | Bouwverordening  |
 | Kaag en Braassem  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Kaag en Braassem  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Kampen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Kampen  | artikel 2.1.5.1, eerste lid  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 2.2.2, vijfde lid  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Kampen  | artikel 2.3.2.2  | Algemene Plaatselijke Verordening  |
+| Kampen  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
+| Kampen  | artikel 3.2.0  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Kampen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Kampen  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Kampen  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Kampen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Kampen  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
-| Kampen  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Kampen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Kampen  | artikel 8.3.4  | Bouwverordening  |
 | Kampen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Kampen  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Kampen  | artikel 23  | Afvalstoffenverordening  |
 | Kapelle  | artikel 2  | Brandbeveiligingsverordening  |
 | Kapelle  | artikel 2.41, tweede lid  | Algemene Plaatselijke Verordening  |
 | Kapelle  | artikel 2:38  | Algemene Plaatselijke Verordening  |
@@ -5790,7 +5938,6 @@ M.J.A. van derHoeven
 | Kapelle  | artikel 28  | Afvalstoffenverordening  |
 | Kapelle  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | kapelle  | artikel 5:13  | Algemene Plaatselijke Verordening  |
-| Kapelle  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Kapelle  | artikel 7  | Afvalstoffenverordening  |
 | Katwijk  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Katwijk  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
@@ -5824,8 +5971,19 @@ M.J.A. van derHoeven
 | Koggenland  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Koggenland  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Koggenland  | artikelen 5:14 en 5:15  | Algemene Plaatselijke Verordening  |
-| Korendijk  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
+| Korendijk  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening 2011  |
+| Korendijk  | artikel 2:40  | Algemene Plaatselijke Verordening 2011  |
+| Korendijk  | artikel 5:15  | Algemene Plaatselijke Verordening 2011  |
+| Korendijk  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Korendijk  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Korendijk  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Korendijk  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Korendijk  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Korendijk  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Korendijk  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
 | Korendijk  | artikel 8.3.4  | Bouwverordening  |
+| Korendijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Korendijk  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Laarbeek  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Laarbeek  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Laarbeek  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -5840,10 +5998,22 @@ M.J.A. van derHoeven
 | Laarbeek  | artikel 8.3.4  | Bouwverordening  |
 | Laarbeek  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Laarbeek  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Landert  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Landert  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Landert  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Landert  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Landert  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Landert  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Landert  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Landert  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Landert  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Landert  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Landert  | artikel 8.3.4  | Bouwverordening  |
+| Landert  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Landert  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Landgraaf  | artikel 4.11  | Bouwverordening  |
 | Landgraaf  | artikel 2.1.4.1, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Landgraaf  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Landgraaf  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -5855,8 +6025,6 @@ M.J.A. van derHoeven
 | Landgraaf  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Landgraaf  | hoofdstuk 4, 4.2, 4.3, 4.4  | Evenementenbeleid  |
 | Landgraaf  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
-| Landsmeer  | artikel 2  | Brandbeveiligingsverordening  |
-| Landsmeer  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Landsmeer  | artikel 2:39  | Algemene Plaatselijke Verordening  |
 | Landsmeer  | artikel 2:9  | Algemene Plaatselijke Verordening  |
 | Landsmeer  | artikel 3:4  | Algemene Plaatselijke Verordening  |
@@ -5906,6 +6074,8 @@ M.J.A. van derHoeven
 | Laren  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
 | Laren  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Laren  | artikel 2.3.3.14.  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 2.9  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 2.25, tweede lid  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 3.2.6  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Laren  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -5914,6 +6084,7 @@ M.J.A. van derHoeven
 | Laren  | artikel 4.2.4  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Laren  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 5.15  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Laren  | artikel 8.3.4  | Bouwverordening  |
 | Laren  | artikel 8.3.5, tweede lid  | Bouwverordening  |
@@ -5976,7 +6147,7 @@ M.J.A. van derHoeven
 | Leeuwarden  | onderdeel 4.2  | Terrassenbeleid  |
 | Leeuwarden  | n.v.t.  | Toezichts- en handhavingsplan bodemsaneringen en bouwstoffenbesluit gemeente Leeuwarden  |
 | Leeuwarderadeel  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Leeuwarderadeel  | artikel 2.2.1  | Algemene Plaatselijke Verordening  |
+| Leeuwarderadeel  | artikel 2:10, vierde lid  | Algemene Plaatselijke Verordening  |
 | Leeuwarderadeel  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Leeuwarderadeel  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Leeuwarderadeel  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -6001,6 +6172,7 @@ M.J.A. van derHoeven
 | Leiderdorp  | artikel 8.3.4  | Bouwverordening  |
 | Leiderdorp  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Leiderdorp  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Leiderdorp  | Artikelen 4 en 6  | Ambulante Handel  |
 | Leidschendam-Voorburg  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Leidschendam-Voorburg  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Leidschendam-Voorburg  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -6034,6 +6206,8 @@ M.J.A. van derHoeven
 | Lemsterland  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Lemsterland  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Lemsterland  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Lemsterland  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Lemsterland  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Leusden  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Leusden  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Leusden  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -6057,17 +6231,17 @@ M.J.A. van derHoeven
 | Liesveld  | artikel 8.3.4  | Bouwverordening  |
 | Liesveld  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Liesveld  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Linderwaard  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Linderwaard  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Lingewaard  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| --- | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Lingewaard  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Linderwaard  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Linderwaard  | artikel 4.12, eerste lid  | Bouwverordening  |
-| Linderwaard  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Linderwaard  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Linderwaard  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Linderwaard  | artikel 8.3.4  | Bouwverordening  |
-| Linderwaard  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Linderwaard  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Lingerwaard  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Lingewaard  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Lingewaard  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Lingewaard  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Lingewaard  | artikel 8.3.4  | Bouwverordening  |
+| Lingewaard  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Lingewaard  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Lingewaard  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Lingewaal  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Lingewaal  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Lingewaal  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -6094,21 +6268,6 @@ M.J.A. van derHoeven
 | Lisse  | artikel 8.3.4  | Bouwverordening  |
 | Lisse  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Lisse  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Lith  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Lith  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Lith  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 4.10, eerste lid, jo. artikel 8.3.1:  | Bouwverordening  |
-| Lith  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Lith  | artikel 4.12, eerste lid  | Bouwverordening  |
-| Lith  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Lith  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Lith  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Lith  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Lith  | artikel 8.3.4  | Bouwverordening  |
-| Lith  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Lith  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Lochem  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Lochem  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Lochem  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -6161,6 +6320,20 @@ M.J.A. van derHoeven
 | Loppersum  | artikel 8.3.4  | Bouwverordening  |
 | Loppersum  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Loppersum  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Losser  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Losser  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Losser  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Losser  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Losser  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Losser  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Losser  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Losser  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Losser  | artikel 8.3.4  | Bouwverordening  |
+| Losser  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Losser  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Maarssen  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Maarssen  | artikel 8.3.5  | Bouwverordening  |
 | Maasdonk  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -6402,19 +6575,9 @@ M.J.A. van derHoeven
 | Mook en Middelaar  | artikel 8.3.4  | Bouwverordening  |
 | Mook en Middelaar  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Mook en Middelaar  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Moordrecht  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Moordrecht  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Moordrecht  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Moordrecht  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Moordrecht  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Moordrecht  | artikel 4.12, eerste lid  | Bouwverordening  |
-| Moordrecht  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Moordrecht  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Moordrecht  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Moordrecht  | artikel 8.3.4  | Bouwverordening  |
-| Moordrecht  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Moordrecht  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Moordrecht  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Mook en Middelaar  | artikelen 7, tweede lid, en 12  | Afvalstoffenverordening  |
+| Mook en Middelaar  | artikel 28  | Afvalstoffenverordening  |
+| Mook en Middelaar  | artikel 2  | Verordening tot uitvoering van de Zondagsrust  |
 | Muiden  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Muiden  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Muiden  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -6473,26 +6636,23 @@ M.J.A. van derHoeven
 | Nederweert  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Nederweert  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Neerijnen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Neerijnen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 2.40  | Algemene Plaatselijke Verordening  |
 | Neerijnen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 2.25, tweede en derde lid  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 2.36  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 3.5  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 3.9  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 4.3  | Algemene Plaatselijke Verordening  |
 | Neerijnen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Neerijnen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Neerijnen  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Neerijnen  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Neerijnen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Neerijnen  | artikel 5.5.2.1, 5.2.2.2. en 5.2.2.3.  | Algemene Plaatselijke Verordening  |
+| Neerijnen  | artikel 5.15  | Algemene Plaatselijke Verordening  |
 | Neerijnen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Neerijnen  | artikel 8.3.4  | Bouwverordening  |
 | Neerijnen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Neerijnen  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Neunen  | artikel 2,1,4,3,  | Algemene Plaatselijke Verordening  |
-| Neunen  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
-| Neunen  | artikel 2.3.3.1, tweede lid,  | Algemene Plaatselijke Verordening  |
-| Neunen  | artikel 2:3.2.2  | Algemene Plaatselijke Verordening  |
-| Neunen  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
-| Neunen  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
-| Neunen  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
-| Neunen  | artikel 7, tweede lid  | Afvalstoffenverordening  |
 | Niedorp  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Niedorp  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Niedorp  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
@@ -6509,7 +6669,6 @@ M.J.A. van derHoeven
 | Nieuwegein  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Nieuwegein  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Nieuwegein  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Nieuwegein  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Nieuwegein  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Nieuwegein  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Nieuwegein  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -6572,8 +6731,15 @@ M.J.A. van derHoeven
 | Nijkerk  | artikel 8.3.4  | Bouwverordening  |
 | Nijkerk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Nijkerk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Nijmegen  | artikel 4.11, eerste lid onderdelen a tot en met k, tweede en derde lid  | Bouwverordening  |
-| Nijmegen  | artikelen 8.3.4, en 8.3.5  | Bouwverordening  |
+| Nijmegen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Nijmegen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Nijmegen  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Nijmegen  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Nijmegen  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Nijmegen  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Nijmegen  | artikel 8.3.4  | Bouwverordening  |
+| Nijmegen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Nijmegen  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Nijmegen  | artikel 2.1.4.1  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikelen 3.2.6, en 3.3.2, tweede lid  | Algemene Plaatselijke Verordening  |
 | Nijmegen  | artikelen 2.1.1, eerste lid, 2.1.2, en 2.1.3  | Brandbeveiligingsverordening  |
@@ -6614,7 +6780,6 @@ M.J.A. van derHoeven
 | Noordwijk  | artikel 8.3.4  | Bouwverordening  |
 | Noordwijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Noordwijk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Nuenen  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Nuenen, Gerwen en Nederwetten  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Nuenen, Gerwen en Nederwetten  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Nuenen, Gerwen en Nederwetten  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -6689,6 +6854,19 @@ M.J.A. van derHoeven
 | Oisterwijk  | artikel 8.3.4  | Bouwverordening  |
 | Oisterwijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Oisterwijk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Oldambt  | artikel 19  | Afvalstoffenverordening  |
+| Oldambt  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Oldambt  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Oldambt  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Oldambt  | Artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Oldambt  | Artikel 4.11, eerste lid, sub a tot en met d, tweede lid en derde lid  | Bouwverordening  |
+| Oldambt  | Artikel 4.12, eerste lid  | Bouwverordening  |
+| Oldambt  | Artikel 4.13, eerste lid  | Bouwverordening  |
+| Oldambt  | Artikel 7.3.2, sub a tot en met c  | Bouwverordening  |
+| Oldambt  | Artikel 8.3.4  | Bouwverordening  |
+| Oldambt  | Artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Oldambt  | Artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
+| Oldambt  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
 | Oldebroek  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Oldebroek  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Algemene Plaatselijke Verordening  |
 | Oldebroek  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -6710,6 +6888,7 @@ M.J.A. van derHoeven
 | Oldenzaal  | artikel 4.10, eerste lid, jo. 8.3.1.  | Bouwverordening  |
 | Oldenzaal  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Oldenzaal  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Oldenzaal  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Oldenzaal  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Oldenzaal  | artikel 8.3.4  | Bouwverordening  |
 | Oldenzaal  | artikel 8.3.5, tweede lid  | Bouwverordening  |
@@ -6812,7 +6991,21 @@ M.J.A. van derHoeven
 | Opsterland  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Opsterland  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Opsterland  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Oud Amstel  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Oss  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Oss  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 4.10, eerste lid, jo. artikel 8.3.1:  | Bouwverordening  |
+| Oss  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Oss  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Oss  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Oss  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Oss  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Oss  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Oss  | artikel 8.3.4  | Bouwverordening  |
+| Oss  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Oss  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Oud-Beijerland  | artikel 3.2.6  | Algemene Plaatselijke Verordening  |
 | Oud-Beijerland  | artikel 8.3.5  | Bouwverordening  |
 | Oud-Beijerland  | artikel 2.3.1.4  | Algemene Plaatselijke Verordening  |
@@ -6928,6 +7121,7 @@ M.J.A. van derHoeven
 | Purmerend  | artikel 8.3.4  | Bouwverordening  |
 | Purmerend  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Purmerend  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Purmerend  | n.v.t.  | Beleidsregels Algemene en Bijzonde eisen inzake terrassen 2010  |
 | Putten  | artikel 4.11  | Bouwverordening  |
 | Putten  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Putten  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -7065,7 +7259,6 @@ M.J.A. van derHoeven
 | Rijswijk  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Rijswijk  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Rijswijk  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Rijswijk  | artikel 2:9  | Straatartiestgebiedsaanwijzing  |
 | Roerdalen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Roerdalen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede lid en derde lid  | Bouwverordening  |
 | Roerdalen  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -7633,6 +7826,7 @@ M.J.A. van derHoeven
 | Urk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Urk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Urk  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Urk  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
 | Utrecht  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Utrecht  | artikel 4  | Algemene Plaatselijke Verordening  |
 | Utrecht  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
@@ -7659,6 +7853,20 @@ M.J.A. van derHoeven
 | Vaals  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Vaals  | n.v.t.  | Beleidsnotitie gemeente Vaals inzake bestrijding Drugs- en Horeca-overlast  |
 | Vaals  | n.v.t.  | Prostitutiebeleid  |
+| Valkenburg aan de Geul  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 5:14  | Algemene Plaatselijke Verordening  |
+| Valkenburg aan de Geul  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 8.3.4  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Valkenburg aan de Geul  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Valkenswaard  | artikel 4.11  | Bouwverordening  |
 | Valkenswaard  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Valkenswaard  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -7931,6 +8139,21 @@ M.J.A. van derHoeven
 | Waddinxveen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Wageningen  | artikel 8.3.4  | Bouwverordening  |
 | Wageningen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Wassenaar  | artikelen 29  | Afvalstoffenverordening  |
+| Wassenaar  | artikelen 2.1.4.3, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Wassenaar  | artikelen 2.3.2.2  | Algemene Plaatselijke Verordening  |
+| Wassenaar  | artikelen 3, tweede lid  | Verordening Speelautomatenhallen  |
+| Wassenaar  | artikelen 3, tweede lid  | Verordening Speelautomatenhallen  |
+| Wassenaar  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Wassenaar  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Wassenaar  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Wassenaar  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Wassenaar  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Wassenaar  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Wassenaar  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Wassenaar  | artikel 8.3.4  | Bouwverordening  |
+| Wassenaar  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Wassenaar  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Waterland  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Waterland  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Waterland  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -7964,6 +8187,7 @@ M.J.A. van derHoeven
 | Werkendam  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Werkendam  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Werkendam  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Werkendam  | n.v.t.  | Nulbeleid voor coffeeshops  |
 | Werkendam  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Werkendam  | artikel 8.3.4  | Bouwverordening  |
 | Werkendam  | artikel 8.3.5, tweede lid  | Bouwverordening  |
@@ -8281,6 +8505,9 @@ M.J.A. van derHoeven
 | Zevenaar  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Zevenaar  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Zevenaar  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Zoetermeer  | artikel 2:4, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Zoetermeer  | artikel 2:24  | Algemene Plaatselijke Verordening  |
+| Zoetermeer  | artikel 5:13  | Algemene Plaatselijke Verordening  |
 | Zoetermeer  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Zoetermeer  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Zoetermeer  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |

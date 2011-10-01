@@ -72,7 +72,7 @@ e. het journaal, bedoeld in artikel 4;
 
 f. indien van toepassing: het geluidscertificaat of de geluidsverklaring, bedoeld in [artikel 3.19a van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
-g. indien het luchtvaartuig is uitgerust met vast ingebouwde radioapparatuur: het bewijs aanwijzing radiostation, bedoeld in artikel 29 van het verdrag;  
+g. indien het luchtvaartuig is uitgerust met vast ingebouwde radioapparatuur: de vergunning voor gebruik van frequentieruimte, bedoeld in [artikel 3.3 van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
 h. bij een internationale vlucht: 
 

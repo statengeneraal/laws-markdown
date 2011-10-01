@@ -51,13 +51,9 @@ b. geen gesloten opbouw heeft,
 
 c. geen doorlopend dek heeft, en  
 
-d. is bestemd voor gebruik op de binnenwateren van zones 3 of 4.    
-
-*Patentreglement Rijn:* bij resolutie van 31 mei 2007 (protocol 2007-I-10) van de Centrale Commissie voor de Rijnvaart vastgestelde [Patentreglement Rijn](../../../KB/patentreglement/rijn/BWBR0023698/README.md);  
+d. is bestemd voor gebruik op de binnenwateren van zones 3 of 4;    
 
 *patrouillevaartuig:* schip voor zover ingezet voor de uitoefening van een publiekrechtelijke taak;  
-
-*Reglement veiligheidspersoneel passagiersschepen:* bij resolutie van 25 november 2004 (protocol 2004-II-22) van de Centrale Commissie voor de Rijnvaart vastgestelde [Reglement veiligheidspersoneel passagiersschepen](../../../AMvB/reglement/veiligheidspersoneel/passagiersschepen/BWBR0019003/README.md);  
 
 *richtlijn 87/540/EEG:*richtlijn nr. 87/540/EEG van de Raad van de Europese Gemeenschappen van 9 november 1987 betreffende de toegang tot het beroep van ondernemer van nationaal en internationaal goederenvervoer over de binnenwateren en inzake de onderlinge erkenning van dit beroep betreffende diploma’s, certificaten en andere titels (PbEG L 322);  
 
@@ -75,9 +71,11 @@ c. een tot beneden het gangboord verzonken open kuip kan hebben van ten hoogste 
 
 d. een stuurstand heeft aan de voorzijde van de passagiersaccommodatie, en  
 
-e. is bestemd voor gebruik op de binnenwateren van zones 3 of 4.    
+e. is bestemd voor gebruik op de binnenwateren van zones 3 of 4;    
 
 *RosR 1995:* bij resolutie van 18 mei 1994 (protocol 1994-I-23) van de Centrale Commissie voor de Rijnvaart vastgestelde [Reglement onderzoek schepen op de Rijn 1995](../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md);  
+
+*Rsp:* bij resolutie van 2 juni 2010 (protocol 2010-I-8) van de Centrale Commissie voor de Rijnvaart vastgesteld [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
 
 *verordening (EEG) 2919/85:*verordening (EEG) nr. 2919/85 van de Raad van de Europese Gemeenschappen van 17 oktober 1985 houdende vaststelling van de voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor het regime dat door de Herziene Rijnvaartakte wordt gereserveerd voor de vaartuigen die tot de Rijnvaart behoren (PbEG L 280).     
 2.  Waar in deze regeling de aanduiding ‘jaar’ wordt gebruikt in relatie tot vaartijd, wordt hieronder verstaan 180 effectieve vaardagen in de binnenvaart. Binnen een periode 365 opeenvolgende dagen worden maximaal 180 dagen als vaartijd worden meegerekend. 250 Vaardagen in de zee- of kustvaart dan wel de visserij gelden als één jaar vaartijd.   
@@ -136,7 +134,7 @@ b. de zone R, die de binnenwateren omvat, bedoeld in onderdeel a, waarvoor een c
 
 ### Artikel  1.4  
 
-1.  Onverminderd het bepaalde in het [Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) ten aanzien van het aanvragen van Rijnpatenten en Radarpatenten wordt voor het aanvragen van een krachtens de [wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) vereist document de wijze van aanvragen toegepast die de afgevende instantie voorschrijft.   
+1.  Onverminderd het bepaalde in het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) ten aanzien van het aanvragen van Rijnpatenten en Radarpatenten wordt voor het aanvragen van een krachtens de [wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) vereist document de wijze van aanvragen toegepast die de afgevende instantie voorschrijft.   
 2.  De afgevende instantie, bedoeld in het eerste lid, kan voor een verloren geraakt of door slijtage ongeldig geworden document een gewaarmerkt afschrift verstrekken, dat in de plaats treedt van het oorspronkelijke document.   
 
 ### Artikel  1.5  
@@ -189,24 +187,24 @@ c. de vrijstellingen, bedoeld in hoofdstuk 5, paragraaf 5.
 
 ### Artikel  1.7  
 
-1.  De gezagvoerder van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 1.03 tot en met 1.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), van de [hoofdstukken 3 tot en met 22](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), met uitzondering van de [artikelen 8.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [9.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [12.01, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [14.15, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.05, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [16.06, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en van de [artikelen 23.01, eerste lid, tweede lid, derde alinea, en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.02](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.03](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.04, eerste, derde en vijfde lid, onderdeel a](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.06, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.07](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [23.08, eerste, derde, vierde en vijfde lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
-2.  De eigenaar van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 1.03 tot en met 1.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.08, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.09, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), van de [hoofdstukken 3 tot en met 22](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), met uitzondering van de [artikelen 8.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [9,07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [12.01, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [14.15, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.05, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [16.06, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en van [artikel 23.09, eerste lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
-3.  De werkgever van de bemanning van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 23.01, eerste lid, tweede lid, derde alinea, en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.02](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.03](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.04, eerste, derde, en vijfde lid, onderdeel 1](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.06, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.07](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [23.08, eerste, derde, vierde en vijfde lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
-4.  Een lid van de bemanning van een schip dat de Rijn bevaart, niet zijnde de gezagvoerder, is verantwoordelijk voor de naleving van de [artikelen 23.03, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.04, eerste, tweede en vijfde lid, onderdeel 2, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
-5.  Het in het eerste tot en met vierde lid bepaalde is van overeenkomstige toepassing op de krachtens [artikel 1.06 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) aangebrachte tijdelijke afwijkingen.   
+1.  De gezagvoerder van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 1.03 tot en met 1.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), van de [hoofdstukken 3 tot en met 22](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), met uitzondering van de [artikelen 8.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [9.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [12.01, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [14.15, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.05, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [16.06, eerste lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en van de [artikelen 2.02, eerste lid, tweede lid, derde alinea, en derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.01](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.02](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.03](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.04](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.06, tweede, derde en zesde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.05, eerste lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.10](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.11, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.12](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.13, eerste, derde, vierde en vijfde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
+2.  De eigenaar van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 1.03 tot en met 1.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.08, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.09, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), van de [hoofdstukken 3 tot en met 22](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), met uitzondering van de [artikelen 8.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [9.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [12.01, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [14.15, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.05, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [16.06, eerste lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en van [artikel 3.14, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
+3.  De werkgever van de bemanning van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 2.02, eerste lid, tweede lid, derde alinea, en derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.01](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.02](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.03](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.04](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.06, tweede, derde en zesde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.05, eerste lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.10](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.11, eerste lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.12](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.13, eerste, derde, vierde en vijfde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
+4.  Een lid van de bemanning van een schip dat de Rijn bevaart, niet zijnde de gezagvoerder, is verantwoordelijk voor de naleving van de [artikelen 3.04](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.05, eerste lid, onderdeel b, en tweede lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.06, tweede, derde en vierde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
+5.  Het in het eerste tot en met vierde lid bepaalde is van overeenkomstige toepassing op de krachtens [artikel 1.06 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) of [artikel 1.02 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) aangebrachte tijdelijke afwijkingen.   
 
 ### Artikel  1.8  
 
-Op de goedkeuring en installatie van een tachograaf als bedoeld in [artikel 23.05, derde lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) is bijlage 1.4, houdende voorschriften met betrekking tot typegoedkeuring en installatie van tachografen voor de Rijnvaart alsmede [bijlage H van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van toepassing.  
+Op de goedkeuring en installatie van een tachograaf als bedoeld in [artikel 3.10, derde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) is [bijlage A3 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), houdende eisen betreffende tachografen en voorschriften voor de inbouw van tachografen aan boord, alsmede [bijlage H van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van toepassing.  
 
 ### Artikel  1.9  
 
-1.  Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) met inbegrip van de daarbij behorende bijlagen, dat is opgenomen in bijlage 1.2 bij deze regeling en wordt aangehaald als: Patentreglement Rijn.   
+1.  Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), met inbegrip van de daarbij behorende bijlagen, dat is opgenomen in bijlage 1.9.   
 2.  Onverminderd het eerste lid is op de Rijn in Nederland, met inbegrip van de Waal en de Lek, van toepassing: hoofdstuk 7, paragrafen 1 en 2.   
 
 ### Artikel  1.10  
 
-In plaats van een patent als bedoeld in de [artikelen 2.02 tot en met 2.04 van het in bijlage 1.2 opgenomen Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), volstaat voor de vaart op de Rijn benedenstrooms van het Spijksche Veer, met inbegrip van de Waal en de Lek: 
+In plaats van een patent als bedoeld in [artikel 6.04, eerste lid, van het in bijlage 1.9 opgenomen Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), volstaat voor de vaart op de Rijn benedenstrooms van het Spijksche Veer, met inbegrip van de Waal en de Lek: 
 
 a. een klein vaarbewijs;  
 
@@ -216,7 +214,7 @@ c. een Militair vaarbewijs, geldig voor het besturen van een klein legervaartuig
 
 ### Artikel  1.11  
 
-1.  Met het radarpatent, bedoeld in [artikel 3.05, eerste lid, van het in bijlage 1.2 opgenomen Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) wordt gelijkgesteld: 
+1.  Met het radarpatent, bedoeld in [artikel 6.04, tweede lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) wordt gelijkgesteld: 
 
 a. het radardiploma voor de Rijn, afgegeven krachtens het Besluit reglement radarpatenten zoals dit gold tot de inwerkingtreding van het [Besluit Patentreglement Rijn](../../../AMvB/besluit/patentreglement/rijn/BWBR0023693/README.md);  
 
@@ -227,7 +225,7 @@ c. het radardiploma binnenvaart, afgegeven krachtens de Regeling radardiploma bi
 d. het radardiploma Rijn- en binnenvaart, bedoeld in artikel 17, onderdeel b, van de Regeling radardiploma binnenvaart, zoals deze gold tot de inwerkingtreding van de [Regeling radarpatent binnenvaart](../../../ministeriele-regeling/regeling/radarpatent/binnenvaart/BWBR0010991/README.md);  
 
 e. het radarbrevet, afgegeven krachtens het koninklijk besluit tot instelling van een radarbrevet en tot wijziging van het koninklijk besluit van 22 april 1988 betreffende het brevet van schipper ter baggervaart en van het brevet van stuurman voor de baggervaart van 15 oktober 1993 (Belgisch Staatsblad, 2757).     
-2.  Met het radarpatent, bedoeld in [artikel 3.05, eerste lid, van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), worden, voor de vaart op de scheepvaartwegen, bedoeld in [artikel 4.06, derde en vierde lid, van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), gelijkgesteld: 
+2.  Met het radarpatent, bedoeld in [artikel 6.04, tweede lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), worden, voor de vaart op de scheepvaartwegen, bedoeld in [artikel 4.06, derde en vierde lid, van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), gelijkgesteld: 
 
 a. de stuurliedendiploma’s, afgegeven krachtens de Wet op de zeevaartdiploma’s, met uitzondering van het diploma stuurman kustsleepvaart en het diploma stuurman beperkte kleine handelsvaart;  
 
@@ -236,7 +234,7 @@ b. het bewijs van bevoegdheid van radarwaarnemer en het bewijs van bevoegdheid v
 c. het bewijs van bevoegdheid, afgegeven krachtens annex II/2, II/3 en II/4 van het op 7 juli 1978 te Londen tot stand gekomen Verdrag inzake de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst (Trb. 1981, 144);  
 
 d. het radardiploma ruime wateren, afgegeven door de Stichting Koninklijk OnderwijsFonds voor de Scheepvaart.     
-3.  Als gelijkwaardig examenbewijs, als bedoeld in [artikel 3.04, derde lid, van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), worden erkend de volgende diploma’s met de codering van het Centraal Register Beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie beroepsonderwijs](../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): 
+3.  Als gelijkwaardig examenbewijs, als bedoeld in [artikel 8.04, derde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), worden erkend de volgende diploma’s met de codering van het Centraal Register Beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie beroepsonderwijs](../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): 
 
 a. het diploma stuurman/schipper, met coderingen 10650 of 93110, dan wel het bewijsstuk dat het onderdeel radar van deze opleiding met succes is afgesloten;  
 
@@ -245,10 +243,6 @@ b. het diploma kapitein, met coderingen 10651 of 91900, dan wel het bewijsstuk d
 ### Artikel  1.12  
 
 De examens ter verkrijging van een radarpatent worden afgenomen met inachtneming van een examenreglement en een examenprogramma die zijn goedgekeurd door de minister.  
-
-### Artikel  1.13  
-
-Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [Reglement veiligheidspersoneel passagiersschepen](../../../AMvB/reglement/veiligheidspersoneel/passagiersschepen/BWBR0019003/README.md) met de daarbij behorende bijlagen, dat is opgenomen in bijlage 1.3 bij deze regeling en wordt aangehaald als: Reglement veiligheidspersoneel passagiersschepen.  
 
 ### Artikel  1.14  
 
@@ -271,12 +265,12 @@ Typen van bochtaanwijzers die voor de Rijnvaart zijn goedgekeurd met inachtnemin
 
 ### Artikel  1.18  
 
-1.  De bevoegde autoriteit in de zin van de in de artikelen 1.6, 1.9, 1.13 en 1.14 bedoelde reglementen is de minister.   
+1.  De bevoegde autoriteit in de zin van de in de artikelen 1.6, 1.9 en 1.14 bedoelde reglementen is de minister.   
 2.  In afwijking van het eerste lid is de bevoegde autoriteit in het [RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md): 
 
 a. de directeur-generaal Luchtvaart en Maritieme Zaken in [artikel 2.18](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
 
-b. de voorzitter van de commissie van deskundigen in de [artikelen 2.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.12, tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.19, tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.01](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.02, achtste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.03, eerste en tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.04, eerste, tweede, vierde en vijfde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.05, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.06, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.08, eerste, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.09](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.10, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.12, eerste lid, aanhef en onderdeel b](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.09, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [20.01, vijfde lid, onder h](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [22a.04, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en [23.08, tweede en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
+b. de voorzitter van de commissie van deskundigen in de [artikelen 2.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.12, tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.19, tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.01](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.02, achtste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.03, eerste en tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.04, eerste, tweede, vierde en vijfde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.05, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.06, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.08, eerste, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.09](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.10, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.12, eerste lid, aanhef en onderdeel b](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.09, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [20.01, vijfde lid, onder h](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [22a.04, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
 
 c. de hoofdingenieurs-directeuren van het directoraat-generaal Rijkswaterstaat Oost-Nederland en Zuid-Holland, ieder voor zover het zijn ambtsgebied betreft, in de [artikelen 2.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [5.03, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [18.01](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
 
@@ -285,14 +279,15 @@ d. de inspecteur-generaal van de Inspectie Verkeer en Waterstaat in de [artikele
 e. de ambtenaren, bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in de [artikelen 2.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en [23.03, vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
 
 f. de Dienst Wegverkeer in [artikel 23.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en in [bijlage H, onderdeel B, 1](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).     
-3.  In afwijking van het eerste lid is de bevoegde autoriteit in het [Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md): 
+3.  In afwijking van het eerste lid is de bevoegde autoriteit in het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md): 
 
-a. de inspecteur-generaal Verkeer en Waterstaat in [artikel 2.09, eerste lid](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md);  
+a. de inspecteur-generaal van Verkeer en Waterstaat in de [artikelen 3.06, eerste lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [5.02, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [5.03, aanhef](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [5.04, eerste lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), en [5.08, eerste tot en met derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
 
-b. de in artikel 10.2 aangewezen ambtenaren alsmede de ambtenaren, bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](../../../wet/politiewet/1993/BWBR0006299/README.md) in artikel 2.26, eerste lid.     
-4.  In afwijking van het eerste lid is de bevoegde autoriteit in het [Reglement veiligheidspersoneel passagiersschepen](../../../AMvB/reglement/veiligheidspersoneel/passagiersschepen/BWBR0019003/README.md) de inspecteur-generaal Verkeer en waterstaat in de [artikelen: 2.01, onderdeel a](../../../AMvB/reglement/veiligheidspersoneel/passagiersschepen/BWBR0019003/README.md), [4.01, eerste en tweede lid](../../../AMvB/reglement/veiligheidspersoneel/passagiersschepen/BWBR0019003/README.md), [4.02, eerste en vierde lid](../../../AMvB/reglement/veiligheidspersoneel/passagiersschepen/BWBR0019003/README.md) en [4.04, tweede en derde lid](../../../AMvB/reglement/veiligheidspersoneel/passagiersschepen/BWBR0019003/README.md).   
-5.  De in het eerste, derde en vierde lid bedoelde bevoegde autoriteiten voeren het [Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) en het [Reglement veiligheidspersoneel passagiersschepen](../../../AMvB/reglement/veiligheidspersoneel/passagiersschepen/BWBR0019003/README.md) uit overeenkomstig de dienstinstructies van de Centrale Commissie voor de Rijnvaart betreffende de toepassing van die reglementen.   
-6.  De minister maakt de in het vijfde lid bedoelde dienstinstructies bekend in de Staatscourant.   
+b. de in artikel 10.2 aangewezen ambtenaren alsmede de ambtenaren, bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](../../../wet/politiewet/1993/BWBR0006299/README.md) in artikel 2.26, eerste lid;  
+
+c. de voorzitter van de commissie van deskundigen in [artikel 3.13, tweede en vierde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).     
+4.  De in het eerste en derde lid bedoelde bevoegde autoriteiten voeren het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) uit overeenkomstig de dienstinstructies van de Centrale Commissie voor de Rijnvaart betreffende de toepassing van dat reglement.   
+5.  De minister maakt de in het vierde lid bedoelde dienstinstructies bekend in de Staatscourant.   
 
 ### §  5  
 
@@ -373,7 +368,7 @@ a. de volgende diploma’s:
 
 2°. het diploma MBO Rijn- en Binnenvaart,  
 
-3°. het diploma Kapitein binnenvaart niveau 3 of niveau 4, zoals opgenomen in het Centraal Register Beroepsopleidingen met de codes 10650 respectievelijk 93110;    
+3°. het diploma Kapitein binnenvaart niveau 3 of niveau 4, zoals opgenomen in het Centraal Register Beroepsopleidingen met de codes 10650, 93110 of 95640;    
 
 b. een op grond van [artikel 11, eerste lid, van de Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md) afgegeven vergunning voor het beroepsvervoer van goederen; of  
 
@@ -422,7 +417,7 @@ Een wijziging van richtlijn 87/540/EEG gaat voor de toepassing van de artikelen 
 1.  Dit artikel is van toepassing op de bemanningsleden van schepen als bedoeld in [artikel 12 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), niet zijnde veerboten, varend op de in artikel 1.2 bedoelde binnenwateren, mits tijdens de vaart de Duits-Nederlandse grens op de Rijn bij het Spijksche Veer niet in de ene of de andere richting wordt overschreden.   
 2.  Een schipper is: 
 
-a. in het bezit van een groot patent als bedoeld in het [Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) of een krachtens [artikel 4.01, eerste lid, van dat reglement](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) geldig Rijnschipperspatent;  
+a. in het bezit van een groot patent als bedoeld in het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of een krachtens [artikel 9.02, eerste lid, van dat reglement](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) geldig Rijnschipperspatent;  
 
 b. in het bezit van een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
 
@@ -446,7 +441,7 @@ a. aan de vereisten van matroos en is in het bezit van:
 
 1°. het diploma motordrijver van het Koninklijk OnderwijsFonds voor de Scheepvaart,  
 
-2°. het diploma kapitein, stuurman-schipper of bootman, zoals opgenomen in het Centraal Register Beroepsopleidingen onder de respectievelijke nummers 10650, 93110, 10651, 91900, 10653 en 93030,  
+2°. het diploma kapitein, stuurman-schipper of bootman, zoals opgenomen in het Centraal Register Beroepsopleidingen onder de respectieve nummers 10650, 93110, 95640, 10651, 91900, 95630, 10653 en 93030,  
 
 3°. een maritiem diploma zoals opgenomen in het Centraal Register Beroepsopleidingen onder de nummers 91943, 91941, 91931 of 91932, dan wel  
 
@@ -457,9 +452,9 @@ b. aan de vereisten van matroos en heeft een beroepservaring van ten minste éé
 
 a. ten minste 17 jaar en in het bezit van: 
 
-1°. het diploma matroos binnenvaart, zoals opgenomen in het Centraal Register Beroepsopleidingen met codes 10652 en 91880 tot en met 91882,  
+1°. het diploma matroos binnenvaart, zoals opgenomen in het Centraal Register Beroepsopleidingen met codes 10652, 91880 tot en met 91882 en 95620,  
 
-2°. het diploma kapitein, stuurman-schipper of bootman, zoals opgenomen in het Centraal Register Beroepsopleidingen onder de respectievelijke nummers 10650, 93110, 10651, 91900, 10653 en 93030,  
+2°. het diploma kapitein, stuurman-schipper of bootman, zoals opgenomen in het Centraal Register Beroepsopleidingen onder de respectieve nummers 10650, 93110, 95640, 10651, 91900, 95630, 10653 en 93030,  
 
 3°. Het diploma VMBO Rijn-, binnen- en kustvaart van het Scheepvaart en Transport College te Rotterdam, het Maritiem College Velsen te IJmuiden, de Maritieme Academie Harlingen te Harlingen of het Mondial College te Nijmegen, dan wel  
 
@@ -528,6 +523,7 @@ b. een door de minister erkend buitenlands getuigschrift waaruit blijkt dat hij 
 
 c. een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
 7.  Een lichtmatroos is ten minste 18 jaar en is in het bezit van een door de minister erkend getuigschrift waaruit blijkt dat hij met goed gevolg een opleiding brandbestrijding heeft gevolgd, dan wel van een door de minister erkend buitenlands getuigschrift waaruit blijkt dat hij een gelijkwaardige opleiding heeft gevolgd.   
+8.  Voor de examens ter verkrijging van de diploma’s Zoute Veren Nautische Module of Technische Module, bedoeld in het tweede lid, onderdeel c, onder 1°, en het vierde lid, onderdeel a, onder 1° en 2°, is een door de minister goedgekeurd examenreglement en examenprogramma van toepassing.   
 
 ### Artikel  2.11  
 
@@ -587,7 +583,13 @@ Onverminderd artikel 3.2, eerste lid, voldoen passagiersschepen op de zone 2 aan
 
 ### Artikel  3.4  
 
-Artikel 3.2 is niet van toepassing op: 
+1.  In afwijking van artikel 3.2, eerste lid, bedraagt voor duwstellen met een lengte van ten hoogste 86 meter de minimaal te behalen snelheid ten opzichte van het water ten minste: 
+
+a. 11 km/h op zone 3-wateren;  
+
+b. 10 km/h op zone 4-wateren, tenzij daar een maximumsnelheid van minder dan 10 km/h geldt. In dat geval stelt de minister voor het betreffende duwstel een andere minimaal te behalen snelheid vast.     
+2.  In afwijking van artikel 3.2, eerste lid, is het toegestaan om een duwstel, met een lengte van ten hoogste 86 meter en van een duwsteven voorzien, op de zones drie en vier zonder hekankers te gebruiken en te volstaan met de in artikel 10.01, eerste lid, van richtlijn 2006/87/EG bedoelde boegankers.   
+3.  Artikel 3.2 is niet van toepassing op: 
 
 a. Amsterdamse dekschuiten, mits zij voldoen aan de technische voorschriften van bijlage 3.2;  
 
@@ -603,7 +605,7 @@ f. veerboten, mits zij voldoen aan de technische voorschriften van bijlage 3.7;
 
 g. bunkerstations, mits zij voldoen aan de technische voorschriften van bijlage 3.8;  
 
-h. patrouillevaartuigen, mits zij voldoen aan de technische voorschriften van bijlage 3.9.    
+h. patrouillevaartuigen, mits zij voldoen aan de technische voorschriften van bijlage 3.9.     
 
 ### §  3  
 
@@ -1069,7 +1071,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2°. is voorzien van eigen mechanische voortstuwingsmiddelen die slechts voor verplaatsing over kleine afstanden geschikt zijn;    
 
-*S1 en S2:* standaarden S1 en S2 met betrekking tot uitrustingsvoorschriften voor schepen die met een minimumbemanning worden geëxploiteerd als bedoeld in [artikel 23.09, eerste lid, van het RosR 1995](../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md);  
+*S1 en S2:* standaarden S1 en S2 met betrekking tot uitrustingsvoorschriften voor schepen die met een minimumbemanning worden geëxploiteerd als bedoeld in [artikel 3.14, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
 
 *tachograaf:* een registratieapparaat ter controle van de naleving van bij of krachtens de wet gegeven voorschriften met betrekking tot de vaartijden van het schip, van een door de minister goedgekeurd model.    
 
@@ -1080,16 +1082,16 @@ In dit hoofdstuk wordt verstaan onder:
 ### Artikel  5.3  
 
 1.  Voor de toepassing van dit hoofdstuk wordt rekening gehouden met de rust- en vaartijden, vervuld gedurende een tijdvak van 48 uur, onmiddellijk voorafgaand aan het tijdstip waarop het schip de binnenwateren, bedoeld in artikel 1.2 is binnengevaren.   
-2.  Een schip dat de in artikel 1.2 bedoelde binnenwateren binnenvaart is voorzien van een vaartijdenboek als bedoeld in [artikel 23.08 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) of een ander document, waaruit blijkt op welke wijze de rusttijden van elk der bemanningsleden alsmede de vaartijden van het schip gedurende de in het eerste lid bedoelde periode zijn vervuld.   
+2.  Een schip dat de in artikel 1.2 bedoelde binnenwateren binnenvaart is voorzien van een vaartijdenboek als bedoeld in [artikel 3.13 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of een ander document, waaruit blijkt op welke wijze de rusttijden van elk der bemanningsleden alsmede de vaartijden van het schip gedurende de in het eerste lid bedoelde periode zijn vervuld.   
 
 ### Artikel  5.4  
 
-1.  Bij de exploitatiewijzen A1 en A2 is [artikel 23.05, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [artikel 23.08, vijfde lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van overeenkomstige toepassing.   
-2.  Ten aanzien van een sleepschip dat niet zelfstandig vaart, en een schip waarvan de voortstuwing in een hecht samenstel door een schip of meer andere schepen wordt verzorgd, is [artikel 23.05, tweede en derde lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van overeenkomstige toepassing, indien het eerste lid in acht wordt genomen op het schip of de schepen die zorg dragen voor de voortstuwing van het hecht samenstel of het sleepschip.   
+1.  Bij de exploitatiewijzen A1 en A2 is [artikel 3.10, tweede en derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), en [artikel 3.13, vijfde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing.   
+2.  Ten aanzien van een sleepschip dat niet zelfstandig vaart, en een schip waarvan de voortstuwing in een hecht samenstel door een schip of meer andere schepen wordt verzorgd, is [artikel 3.10, tweede en derde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing, indien het eerste lid in acht wordt genomen op het schip of de schepen die zorg dragen voor de voortstuwing van het hecht samenstel of het sleepschip.   
 
 ### Artikel  5.5  
 
-Bij wisseling en herhaling van exploitatiewijzen is [artikel 23.07 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van overeenkomstige toepassing.  
+Bij wisseling en herhaling van exploitatiewijzen is [artikel 3.12 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing.  
 
 ### §  3  
 
@@ -1097,7 +1099,7 @@ Bij wisseling en herhaling van exploitatiewijzen is [artikel 23.07 van het RosR 
 
 ### Artikel  5.6  
 
-1.  De minimumbemanning van de navolgende categorieën van schepen wordt vastgesteld overeenkomstig [artikel 23.10 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), met dien verstande dat de stuurman in voetnoot 2 de bekwaamheid van schipper bezit bedoeld in artikel 2.9, tweede lid: 
+1.  De minimumbemanning van de navolgende categorieën van schepen wordt vastgesteld overeenkomstig [artikel 3.15 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), met dien verstande dat de stuurman in voetnoot 2 de bekwaamheid van schipper bezit bedoeld in artikel 2.9, tweede lid: 
 
 a. motorschepen;  
 
@@ -1142,13 +1144,13 @@ b. hetzij een schipper en een lichtmatroos mits de voorschriften, bedoeld in ond
 
 ### Artikel  5.7  
 
-1.  Op motorschepen, duwboten, duwstellen en passagiersschepen, indien zij met een minimumbemanning worden geëxploiteerd, is [artikel 23.09](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) onderscheidenlijk [artikel 23.13 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van overeenkomstige toepassing.   
+1.  Op motorschepen, duwboten, duwstellen en passagiersschepen, indien zij met een minimumbemanning worden geëxploiteerd, is [artikel 3.14](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) onderscheidenlijk [artikel 3.18 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing.   
 2.  Het voldoen of niet voldoen aan de voorschriften bedoeld in het eerste lid wordt door de minister in een verklaring vastgelegd.   
-3.  De verklaring, bedoeld in [artikel 23.09, tweede lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) wordt met de in het tweede lid bedoelde verklaring gelijkgesteld.   
+3.  De verklaring, bedoeld in [artikel 3.14, tweede lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) wordt met de in het tweede lid bedoelde verklaring gelijkgesteld.   
 
 ### Artikel  5.8  
 
-Voor de toepassing van deze paragraaf is [artikel 23.01, eerste lid en tweede lid, met uitzondering van de derde alinea, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van overeenkomstige toepassing.  
+Voor de toepassing van deze paragraaf is [artikel 2.02, eerste en tweede lid, met uitzondering van de derde alinea, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing.  
 
 ### Artikel  5.9  
 
@@ -1164,7 +1166,7 @@ Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (2
 
 ### Artikel  5.11  
 
-1.  Ten aanzien van het dienstboekje zijn [artikel 23.04 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), alsmede de terzake op grond van [artikel 1.07 van dat reglement](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) vastgestelde dienstinstructies van overeenkomstige toepassing met dien verstande dat: 
+1.  Ten aanzien van het dienstboekje zijn de [artikelen 3.05](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.06 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), alsmede de terzake op grond van [artikel 1.03 van dat reglement](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) vastgestelde dienstinstructies van overeenkomstige toepassing met dien verstande dat: 
 
 a. als plaatselijk bevoegde autoriteit, bedoeld in het tweede lid van dat artikel, de inspecteur-generaal van de Inspectie Verkeer en Waterstaat wordt aangewezen;  
 
@@ -1174,7 +1176,7 @@ b. onder schipper de gezagvoerder wordt verstaan.
 
 ### Artikel  5.12  
 
-1.  Ten aanzien van het vaartijdenboek is artikel 5.11, tweede en derde lid, alsmede [artikel 23.08 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van overeenkomstige toepassing, met dien verstande dat: 
+1.  Ten aanzien van het vaartijdenboek is artikel 5.11, tweede en derde lid, alsmede [artikel 3.13 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing, met dien verstande dat: 
 
 a. als autoriteit de voorzitter van de commissie van deskundigen wordt aangewezen;  
 
@@ -1182,7 +1184,7 @@ b. onder schipper de gezagvoerder wordt verstaan; en
 
 c. de uitzondering voor sleep- en duwboten die slechts in havens verkeren niet van toepassing is.     
 2.  Wanneer bij de overdracht van een schip de overdragende partij het bij het schip behorende vaartijdenboek niet levert, kan dit bewijs van aangifte worden vervangen door een door de koper en de minister te ondertekenen verklaring.   
-3.  Indien het volgnummer, bedoeld in [artikel 23.08, tweede lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), van het te vervangen vaartijdenboek onbekend is bij de Inspectie Verkeer en Waterstaat wordt het nieuwe vaartijdenboek voorzien van het volgnummer 1.   
+3.  Indien het volgnummer, bedoeld in [artikel 3.13, tweede lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), van het te vervangen vaartijdenboek onbekend is bij de Inspectie Verkeer en Waterstaat wordt het nieuwe vaartijdenboek voorzien van het volgnummer 1.   
 
 ### Artikel  5.13  
 
@@ -1299,7 +1301,7 @@ c. zijn bestemd of gebruikt voor de sportvisserij en varen op, dan wel op weg zi
 
 ### Artikel  5.21  
 
-1.  Onverminderd artikel 5.15 wordtten aanzien van motorschepen die in exploitatiewijze A2 varen, vrijstelling verleend van de ingevolge artikel 5.6, eerste lid, voor groep 1 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften: 
+1.  Onverminderd artikel 5.15 wordt ten aanzien van motorschepen die in exploitatiewijze A2 varen, vrijstelling verleend van de ingevolge artikel 5.6, eerste lid, voor groep 1 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften: 
 
 a. de minimumbemanning bestaat uit een schipper en een stuurman;  
 
@@ -1396,15 +1398,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 *aanvrager:* degene die in aanmerking wenst te komen voor de afgifte van: 
 
-a. een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) of een Rijnpatent als bedoeld in [artikel 1.03, eerste lid, van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md),  
+a. een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) of een Rijnpatent als bedoeld in [artikel 6.04, eerste lid van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md),  
 
-b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, of [artikel 23.03, eerste lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
+b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, of de [artikelen 3.03](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.04 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
 
 c. een vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype als bedoeld in artikel 7.6; of  
 
 d. een zeilbewijs als bedoeld in artikel 7.9;    
 
-*arts:* deskundige, bedoeld in [artikel 28, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en de [artikelen 2.01, derde lid, onderdeel a](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), [2.02, derde lid, onder a](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), [2.03, tweede lid, onder a](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), en [2.04, eerste lid, onder c, van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md);  
+*arts:* deskundige, bedoeld in [artikel 28, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en de [artikelen 7.01, derde lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [7.02, derde lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [7.03, tweede lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), en [7.04, eerste lid, onderdeel c, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
 
 *scheidsrechter:* deskundige, bedoeld in [artikel 28, derde lid, van de Wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
 
@@ -1412,9 +1414,9 @@ d. een zeilbewijs als bedoeld in artikel 7.9;
 
 *geneeskundig onderzoek:* onderzoek, bedoeld in artikel 6.4, ter verkrijging van: 
 
-a. een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) of een Rijnpatent als bedoeld in [artikel 1.03, eerste lid, van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md),  
+a. een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) of een Rijnpatent als bedoeld in [artikel 6.04, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md),  
 
-b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, alsmede [artikel 23.03, eerste lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);    
+b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, alsmede de [artikelen 3.03](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.04 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);    
 
 *eigen verklaring:* verklaring, bedoeld in [artikel 26, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md).    
 
@@ -1444,11 +1446,11 @@ b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, als
 
 ### Artikel  6.6  
 
-1.  De aanvrager is ongeschikt als hij niet voldoet aan de keuringseisen, opgenomen in bijlage 6.1. De arts die na het volledige geneeskundig onderzoek van oordeel is dat de aanvrager ongeschikt is, deelt dit de aanvrager mee. De arts overhandigt de aanvrager een bericht van afkeuring, dat is vastgesteld volgens het model, opgenomen in bijlage 6.3. De arts deelt de aanvrager tevens mee dat een heronderzoek kan worden aangevraagd bij een scheidsrechter.   
-2.  In het geval, bedoeld in het eerste lid, verzendt de arts nog dezelfde dag het bericht van afkeuring, waarin de reden of redenen tot afkeuring zijn vermeld, aan de medisch adviseur scheepvaart. De medisch adviseur scheepvaart doet mededeling van de afkeuring aan de instanties die belast zijn met onderscheidenlijk de afgifte van vaarbewijzen, Rijnpatenten, zeilbewijzen, vrijstellingsbewijzen of dienstboekjes.   
-3.  De aanvrager die een heronderzoek wenst, richt zich daarvoor tot een scheidsrechter onder toezending van het bericht van afkeuring.   
+1.  De aanvrager is ongeschikt als hij niet voldoet aan de keuringseisen, opgenomen in bijlage 6.1. De arts die na het volledige geneeskundig onderzoek van oordeel is dat de aanvrager ongeschikt is, deelt dit de aanvrager mee. De arts overhandigt de aanvrager een verklaring van medische ongeschiktheid, dat is vastgesteld volgens het model, opgenomen in bijlage 6.3. De arts deelt de aanvrager tevens mee dat een heronderzoek kan worden aangevraagd bij een scheidsrechter.   
+2.  In het geval, bedoeld in het eerste lid, verzendt de arts nog dezelfde dag de verklaring van medische ongeschiktheid, waarin de reden of redenen tot afkeuring zijn vermeld, aan de medisch adviseur scheepvaart. De medisch adviseur scheepvaart doet mededeling van de afkeuring aan de instanties die belast zijn met onderscheidenlijk de afgifte van vaarbewijzen, Rijnpatenten, zeilbewijzen, vrijstellingsbewijzen of dienstboekjes.   
+3.  De aanvrager die een heronderzoek wenst, richt zich daarvoor tot een scheidsrechter onder toezending van de verklaring van medische ongeschiktheid.   
 4.  Ten aanzien van het heronderzoek zijn de artikelen 6.3, tweede lid, en 6.4 van overeenkomstige toepassing, met dien verstande dat reeds door de arts in orde bevonden onderdelen van de keuring niet behoeven te worden herhaald, tenzij over de uitslag twijfel bestaat bij de scheidsrechter. Het heronderzoek kan bestaan uit het uitsluitend beoordelen van de reeds ter beschikking staande gegevens.   
-5.  Indien de scheidsrechter na het heronderzoek van oordeel is dat de aanvrager medisch ongeschikt is, doet de medisch adviseur scheepvaart na ontvangst van het bericht van afkeuring hiervan mededeling aan de instanties die belast zijn met onderscheidenlijk de afgifte van vaarbewijzen, Rijnpatenten, vrijstellingsbewijzen of dienstboekjes.   
+5.  Indien de scheidsrechter na het heronderzoek van oordeel is dat de aanvrager medisch ongeschikt is, doet de medisch adviseur scheepvaart na ontvangst van de verklaring van medische ongeschiktheid hiervan mededeling aan de instanties die belast zijn met onderscheidenlijk de afgifte van vaarbewijzen, Rijnpatenten, vrijstellingsbewijzen of dienstboekjes.   
 
 ### Artikel  6.7  
 
@@ -1476,8 +1478,8 @@ b. de keuringsartsen voor het klein vaarbewijs indien de eigen verklaring betrek
 
 1.  In het geval, bedoeld in artikel 6.10, eerste lid, verklaart de beoordelaar de aanvrager geschikt of ongeschikt op basis van de keuringseisen en keuringsaanwijzingen, opgenomen in bijlage 6.1. In geval van twijfel kan de beoordelaar de aanvrager oproepen voor een nader onderzoek. Indien nodig kan de beoordelaar de aanvrager doorverwijzen voor een deelonderzoek naar een specialist.   
 2.  De aanvrager is geschikt als hij naar het oordeel van de beoordelaar voldoet aan de keuringseisen en keuringsaanwijzingen, opgenomen in bijlage 6.1. In dat geval verstrekt de beoordelaar de aanvrager een geneeskundige verklaring, die is vastgesteld volgens het model, opgenomen in bijlage 6.2.   
-3.  De aanvrager is ongeschikt als hij niet voldoet aan de keuringseisen, opgenomen in bijlage 6.1. In het geval, dat de beoordelaar de aanvrager ongeschikt verklaart, zendt de beoordelaar de aanvrager een bericht van afkeuring, onder mededeling van de mogelijkheid van heronderzoek.   
-4.  In het geval, bedoeld in het derde lid, zendt de beoordelaar de medisch adviseur scheepvaart nog dezelfde dag het bericht van afkeuring, waarin de reden of redenen tot afkeuring zijn vermeld.   
+3.  De aanvrager is ongeschikt als hij niet voldoet aan de keuringseisen, opgenomen in bijlage 6.1. In het geval, dat de beoordelaar de aanvrager ongeschikt verklaart, zendt de beoordelaar de aanvrager een verklaring van medische ongeschiktheid, onder mededeling van de mogelijkheid van heronderzoek.   
+4.  In het geval, bedoeld in het derde lid, zendt de beoordelaar de medisch adviseur scheepvaart nog dezelfde dag de verklaring van medische ongeschiktheid, waarin de reden of redenen tot afkeuring zijn vermeld.   
 5.  De aanvrager die ongeschikt is verklaard en een heronderzoek wenst, wendt zich tot een scheidsrechter die niet reeds bij de beoordeling van de eigen verklaring was betrokken. Ten aanzien van het heronderzoek zijn de artikelen 6.3, tweede lid, en 6.4 van overeenkomstige toepassing, met dien verstande, dat het heronderzoek kan bestaan uit het uitsluitend beoordelen van de ter beschikking staande gegevens.   
 6.  De medisch adviseur scheepvaart doet mededeling van de afkeuring aan de instanties die belast zijn met de afgifte van onderscheidenlijk vaarbewijzen, Rijnpatenten, zeilbewijzen, vrijstellingsbewijzen of dienstboekjes.   
 7.  De keuringsartsen voor het klein vaarbewijs doen melding van de afkeuring aan de instantie belast met de afgifte van klein vaarbewijzen.   
@@ -1568,8 +1570,16 @@ b. dienen als sleepduwboot voor schepen met een lengte van meer dan 20 meter.
 
 ### Artikel  7.8  
 
-1.  [Artikel 15, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) is niet van toepassing op pleziervaartuigen met een lengte van 25 tot 40 meter, indien de schipper in het bezit is van een groot pleziervaartbewijs I of II, overeenkomstig het model opgenomen in bijlage 7.4, voorzien van de aantekening ‘tot 40 meter’.   
-2.  [Artikel 15, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [artikel 14, eerste lid, onderdeel a, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) zijn niet van toepassing voor pleziervaartuigen met een lengte van ten minste 25 meter, indien de schipper in het bezit is van een groot pleziervaartbewijs I of II, overeenkomstig het model opgenomen in bijlage 7.4, voorzien van de aantekening ‘40 meter plus’.   
+1.  [Artikel 15, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) is niet van toepassing op pleziervaartuigen met een lengte van 25 tot 40 meter, indien de schipper in het bezit is van: 
+
+a. een groot pleziervaartbewijs, overeenkomstig het model opgenomen in bijlage 7.4, voorzien van de aantekening ‘tot 40 meter’; of  
+
+b. een vaarbewijs als bedoeld in bijlage 7.1, onderdelen 1.3 of 1.4, mits behaald vóór 1 juli 2011.     
+2.  [Artikel 15, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [artikel 14, eerste lid, onderdeel a, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) zijn niet van toepassing voor pleziervaartuigen met een lengte van ten minste 25 meter, indien de schipper in het bezit is van: 
+
+a. een groot pleziervaartbewijs, overeenkomstig het model opgenomen in bijlage 7.4, voorzien van de aantekening ‘40 meter plus’; of  
+
+b. een vaarbewijs als bedoeld in bijlage 7.1, onderdelen 1.3 of 1.4, mits behaald vóór 1 juli 2011.     
 3.  Het in het eerste lid bedoelde groot pleziervaartbewijs wordt, na overlegging van een geldig klein vaarbewijs, door de minister afgegeven aan: 
 
 a. degene die geslaagd is voor het examen CWO groot motorschip van de Stichting VAMEX;  
@@ -1597,11 +1607,12 @@ a. een groot vaarbewijs B, respectievelijk A;
 
 b. een zeilbewijs.     
 7.  De in het eerste en tweede lid bedoelde groot pleziervaartbewijzen worden afgegeven voor rivieren, kanalen en meren aan de aanvrager die op het tijdstip van inwerkingtreding van de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) houder is van een klein vaarbewijs I, onderscheidenlijk voor alle binnenwateren aan de aanvrager die op dat tijdstip houder is van een klein vaarbewijs II.   
-8.  De in het derde lid, onderdelen a en b, bedoelde diploma’s worden verkregen na het behalen van een door de minister goedgekeurd examen.   
-9.  De in het derde lid, onderdelen c en d, of de in het vierde lid bedoelde personen kunnen tot uiterlijk twee jaar na het in werking treden van dit artikel een aanvraag ter verkrijging van een groot pleziervaartbewijs indienen.   
-10.  Op het groot pleziervaartbewijs zijn [artikel 30 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) alsmede artikel 1.4 van overeenkomstige toepassing.   
-11.  Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid zijn op de houder van het groot pleziervaartbewijs [artikel 22, vierde en vijfde lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [artikel 26 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) van overeenkomstige toepassing.   
-12.  Het groot pleziervaartbewijs is tijdens de vaart aan boord van het schip.   
+8.  De houder van een groot pleziervaartbewijs I die tevens in het bezit is van een klein vaarbewijs II komt in aanmerking voor het groot pleziervaartbewijs II.   
+9.  De in het derde lid, onderdelen a en b, bedoelde diploma’s worden verkregen na het behalen van een door de minister goedgekeurd examen.   
+10.  De in het derde lid, onderdelen c en d, of de in het vierde lid bedoelde personen kunnen tot uiterlijk twee jaar na het in werking treden van dit artikel een aanvraag ter verkrijging van een groot pleziervaartbewijs indienen.   
+11.  Op het groot pleziervaartbewijs zijn [artikel 30 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) alsmede artikel 1.4 van overeenkomstige toepassing.   
+12.  Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid zijn op de houder van het groot pleziervaartbewijs [artikel 22, vierde en vijfde lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [artikel 26 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) van overeenkomstige toepassing.   
+13.  Het groot pleziervaartbewijs is tijdens de vaart aan boord van het schip.   
 
 ### Artikel  7.9  
 
@@ -1649,7 +1660,7 @@ De in bijlage 7.2 genoemde bewijzen van vaarbekwaamheid onderscheidenlijk getuig
 
 ### Artikel  7.13  
 
-Onverminderd het gestelde in artikel 1.9 zijn de bepalingen met betrekking tot de radarpatenten van het [Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) en de artikelen 1.11 en 1.12 van overeenkomstige toepassing op de andere binnenwateren dan de Rijn, met inbegrip van de Waal en de Lek.  
+Onverminderd het gestelde in artikel 1.9 zijn de bepalingen met betrekking tot de radarpatenten van het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en de artikelen 1.11 en 1.12 van overeenkomstige toepassing op de andere binnenwateren dan de Rijn, met inbegrip van de Waal en de Lek.  
 
 ### §  4  
 
@@ -1700,7 +1711,7 @@ d. meteorologie.
 
 a. de dekbemanning van een binnenschip, bestemd voor de bedrijfsmatige vaart; of  
 
-b. een binnenschip met een lengte van 15 meter of meer, bestemd voor de niet-bedrijfsmatige vaart, op de binnenwateren van de Europese Unie of op binnenwateren die de buitengrens van de Unie overschrijden.     
+b. de dekbemanning van een binnenschip met een lengte van 15 meter of meer, bestemd voor de niet-bedrijfsmatige vaart, op de binnenwateren van de Europese Unie of op binnenwateren die de buitengrens van de Unie overschrijden.     
 3.  Als vaartijd als bedoeld in het eerste lid komt voor degene die dienst doet of heeft gedaan als registerloods tevens in aanmerking het in een periode van 48 maanden op binnenwateren ten minste gedurende 64 dagreizen besturen van een binnenschip, bestemd voor de bedrijfsmatige vaart.   
 4.  De beoordeling van de vaartijd geschiedt door de minister.   
 
@@ -1900,6 +1911,7 @@ Ten aanzien van een binnenschip waarvan het vlak van de grootste toegelaten diep
 
 1.  Vaarbewijzen, afgegeven overeenkomstig de [Regeling vaststelling model klein vaarbewijs](../../../ministeriele-regeling/regeling/vaststelling/model/klein/vaarbewijs/2001/BWBR0012771/README.md) onderscheidenlijk de [Regeling vaststelling model groot vaarbewijs](../../../ministeriele-regeling/regeling/vaststelling/model/groot/vaarbewijs/2001/BWBR0012244/README.md), blijven geldig met inachtneming van die regelingen, totdat hun geldigheid is verstreken.   
 2.  Klein vaarbewijzen en groot pleziervaartbewijzen, afgegeven krachtens deze regeling vóór 1 januari 2010 blijven geldig totdat hun geldigheid is verstreken.   
+3.  Dienstboekjes, vaartijdenboeken, Rijnpatenten, attesten en andere documenten, afgegeven vóór 1 juli 2011 op grond van [hoofdstuk 23 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), het [Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) of het [Reglement betreffende veiligheidspersoneel aan boord van passagiersschepen](../../../ministeriele-regeling/reglement/veiligheidspersoneel/passagiersschepen/BWBR0025994/README.md), blijven geldig totdat hun geldigheid is verstreken.   
 
 ### Artikel  12.4  
 
@@ -1909,7 +1921,6 @@ Ambtenaren die op het moment voor inwerkingtreding van de wet krachtens aanwijzi
 
 1.  De tot 1 juli 2009 door de Stichting Commissie Watersport Opleidingen te Nieuwegein afgegeven diploma’s CWO groot motorschip alsook het door Scouting Nederland afgegeven diploma Machtiging voor bootleiding (MBL) M3 gelden als het in artikel 7.8, derde lid, onderdeel a, bedoelde door de Stichting VAMEX afgegeven diploma.   
 2.  Gedurende twee jaar na inwerkingtreding van de wet geldt een krachtens de [Binnenschepenwet](../../../wet/binnenschepenwet/BWBR0003443/README.md) afgegeven klein vaarbewijs als het in artikel 7.8 bedoelde groot pleziervaartbewijs.   
-3.  Tot en met 30 juni 2011 kan de houder van een groot pleziervaartbewijs I een groot pleziervaartbewijs II verkrijgen, indien hij binnen die periode het examen voor het klein vaarbewijs II heeft behaald.   
 
 ### §  2  
 
@@ -1962,107 +1973,11 @@ J.C.Huizinga-Heringa
 
 [Reglement onderzoek schepen op de Rijn 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md)  
 
-### Bijlage  1.2  
+### Bijlage  1.9  
 
-####: Patentreglement Rijn als bedoeld in artikel 1.9 
+####als bedoeld in artikel 1.9 
 
-[Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md)  
-
-### Bijlage  1.3  
-
-####: Reglement betreffende veiligheidspersoneel aan boord van passagiersschepen (RVP) als bedoeld in artikel 1.13 
-
-[Reglement veiligheidspersoneel passagiersschepen](../../../ministeriele-regeling/reglement/veiligheidspersoneel/passagiersschepen/BWBR0025994/README.md)  
-
-### Bijlage  1.4  
-
-####: Voorschriften met betrekking tot typegoedkeuring en installatie tachografen Rijnvaart als bedoeld in artikel 1.8 
-
-### §  1  
-
-####Typegoedkeuring
-
-### Artikel  1  
-
-1. De Dienst Wegverkeer beslist op een verzoek om typegoedkeuring van een tachograaf.  
-
-2. De Dienst Wegverkeer brengt de goedgekeurde typen tachografen onmiddellijk ter kennis van het secretariaat van de Centrale Commissie voor de Rijnvaart.    
-
-### Artikel  2  
-
-De typegoedkeuring kan worden verleend indien de tachograaf voldoet aan de voorschriften van de [bijlage H, onderdeel A, van het Reglement onderzoek schepen op de Rijn 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).  
-
-### Artikel  3  
-
-De tachograaf wordt zodanig op het schip geïnstalleerd, dat alle met de tachograaf verband houdende bestanddelen deugdelijk tegen beschadiging zijn beschermd.  
-
-### Artikel  4  
-
-1. De Dienst Wegverkeer beslist op een verzoek om: 
-
-a. erkenning als installateur van tachografen;  
-
-b. erkenning als reparateur van tachografen.    
-
-2. Een verzoek om erkenning wordt ingediend bij de Dienst Wegverkeer, Postbus 777, 2700 AT Zoetermeer.    
-
-### Artikel  5  
-
-1. Een erkenning wordt verleend aan in Nederland gevestigde fabrikanten of importeurs van tachografen.  
-
-2. Als importeur wordt aangemerkt de door de fabrikant van tachografen contractueel erkende importeur.    
-
-### Artikel  6  
-
-De Dienst Wegverkeer kan een erkenning als installateur of reparateur intrekken als aan de voorschriften in deze regeling of in het [Reglement onderzoek schepen op de Rijn 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) niet wordt voldaan.  
-
-### Artikel  7  
-
-1. Een aan een fabrikant of importeur van tachografen verleende erkenning als installateur of reparateur van tachografen geldt tevens voor de door hem op verzoek gemachtigde installateurs en reparateurs.  
-
-2. Een machtiging mag eerst worden verleend als door deze installateurs en reparateurs wordt voldaan aan de voorschriften bedoeld in artikel 9.    
-
-### Artikel  8  
-
-1. De machtiging wordt door de erkende fabrikant of importeur ingetrokken indien blijkt dat aan de voorschriften bedoeld in artikel 9 niet wordt voldaan of de voorschriften bedoeld in artikel 3, dan wel de verplichting opgenomen in artikel 11 niet wordt nageleefd.  
-
-2. Bij intrekking van de machtiging doet de fabrikant of importeur van tachografen daarvan onmiddellijk mededeling aan de Dienst Wegverkeer.    
-
-### Artikel  9  
-
-1. De installatie, het onderzoek of de reparatie van tachografen mag slechts geschieden door installateurs respectievelijk reparateurs die zijn voorzien van: 
-
-a. een verzegelinrichting voorzien van een verzegelnummer;  
-
-b. door de fabrikant of importeur van tachografen voorgeschreven gereedschap en testapparatuur.    
-
-2. Het voor de installatie, het onderzoek of de reparatie van de tachograaf aangewezen personeel dient met goed gevolg een door de fabrikant of importeur van tachografen georganiseerde cursus te hebben gevolgd inzake constructie, functioneren, installatie, onderzoek en reparatie van tachografen.  
-
-3. Het personeel volgt vervolgens ten minste eenmaal in de drie jaren een herhalingscursus.  
-
-4. Een door de fabrikant of importeur afgegeven bewijs van deelname aan de cursus is in het bedrijf bij de installateur respectievelijk reparateur aanwezig.    
-
-### Artikel  10  
-
-De fabrikant of importeur van tachografen die in het bezit is van een erkenning als installateur of reparateur van tachografen is verplicht zorg te dragen dat: 
-
-a. aan de hem gemachtigde installateurs en reparateurs een verzegelnummer wordt toegekend;  
-
-b. aan de Dienst Wegverkeer een opgave wordt verstrekt van de door hem gemachtigde installateurs en reparateurs alsmede van het door hem gebezigde verzegelnummer of de door hem aan de gemachtigde installateurs en reparateurs toegekende verzegelnummers;  
-
-c. aan de minister van de door hem aangebrachte wijzigingen van het bepaalde in onderdeel *b* onmiddellijk mededeling wordt gedaan;  
-
-d. de door hem gemachtigde installateurs en reparateurs in het bezit zijn van: 
-
-1°. de voorschriften bedoeld in artikel 3,  
-
-2°. door hem uitgevaardigde technische instructies, werkaanwijzingen en mededelingen; en    
-
-e. door hem wordt toegezien op de naleving van de voorschriften door de door hem gemachtigde installateurs en reparateurs.    
-
-### Artikel  11  
-
-Van de verklaring bedoeld in de [bijlage H, onderdeel B, punt 6, van het Reglement onderzoek schepen op de Rijn 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) bewaart de installateur een afschrift gedurende zeven jaren na dagtekening daarvan.  
+[Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) (Rsp) 
 
 ### Bijlage  2.1  
 
@@ -5318,7 +5233,7 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 | volmatroos  | –  | –  | –  | –  | –  | –  |
 | --- | matroos***  | 2  | 1  | 2  | 1  | 2  | 1  |
 | --- | lichtmatroos  | –  | 1  | –  | 1  | –  | 1  |
-| --- | machinist of matroosmotordrijver  | 2  | 2  | 2  | 2  | 3  | 3  |
+| --- | machinist of matroosmotordrijver **  | 2  | 2  | 2  | 2  | 3  | 3  |
 | 2. Toegestaan aantal passagiers:  van 1001 tot en met 2000  | schipper  | 2 of  | 2  | 2  | 2  | 2  | 3  | 3  |
 | --- | stuurman  | –  | –  | –  | –  | –  | –  | –  |
 | --- | volmatroos  | –  | –  | –  | –  | –  | –  |
@@ -5345,16 +5260,18 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 
 ####: Minimumbemanning voor veerboten als bedoeld in artikel 5.6, vierde lid 
 
-<sup> 1  Indien zonder passagiers gevaren wordt, kan volstaan worden met een schipper, een stuurman, een 1e machinist en een 2e machinist. De 2e machinist kan vervallen indien er sprake is van een eenmansbediening met betrekking tot de voortstuwingsmiddelen en stuurinrichting.  </sup>  
+<sup> 1  Indien zonder passagiers gevaren wordt, kan volstaan worden met een schipper, een stuurman, een 1e machinist en een 2e machinist.  </sup>  
 
 | Groep naar toegestaan aantal passagiers  | Bemanningsleden  | Aantal bemanningsleden  |
 |:---|:---|:---|
-| 1. max. 300 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist  matroos  lichtmatroos  | 1  1  1  1  1  –  |
-| 2. max. 600 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist  matroos  lichtmatroos  | 1  1  1  1  1  1  |
-| 3. max. 900 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist  matroos  lichtmatroos  | 1  1  1  1  1  2  |
-| 4. max. 1200 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist  matroos  lichtmatroos  | 1  1  1  1  1  3  |
-| 5. max. 1500 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist  matroos  lichtmatroos  | 1  1  1  1  1  4  |
-| 6. max. 1750 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist  matroos  lichtmatroos  | 1  1  1  1  1  5  |
+| 1. max. 300 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  –  |
+| 2. max. 600 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  1  |
+| 3. max. 900 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  2  |
+| 4. max. 1200 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  3  |
+| 5. max. 1500 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  4  |
+| 6. max. 1750 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  5  |
+
+<sup>2</sup> De 2 <sup>e</sup> machinist kan vervallen indien er sprake is van een eenmansbediening met betrekking tot de voortstuwingsmiddelen en de stuurinrichting. 
 
 ### Bijlage  5.6  
 
@@ -5558,27 +5475,39 @@ f.  *Motiliteit:*  Onbelemmerde beweeglijkheid van de ogen; geen dubbelzien.
 
 ####Aandoeningen die gepaard gaan met bewustzijns- of evenwichtsstoornissen
 
-1. Alle aandoeningen die gepaard gaan met bewustzijns- of evenwichtsstoornissen, alsmede aanvallen van draaiduizeligheid of onbedwingbare slaap zijn een reden voor ongeschiktheid.  
+1. Alle aandoeningen die gepaard gaan met bewustzijns- of evenwichtsstoornissen,  alsmede aanvallen van draaiduizeligheid of onbedwingbare slaap zijn een reden voor ongeschiktheid.  
 
 2. Alle vormen van epilepsie in de anamnese, al dan niet medicamenteus behandeld, zijn een reden voor ongeschiktheid. Uitzonderingen hierop zijn: 
 
-a. goedkeuring is mogelijk indien de laatste aanval heeft plaatsgevonden voor het levensjaar en nadien geen anti-epileptica zijn gebruikt;  
+a. goedkeuring is mogelijk indien de laatste aanval heeft plaatsgevonden voor het vijfde levensjaar en nadien geen anti-epileptica zijn gebruikt;  
 
-b. goedkeuring (zie onder e) is mogelijk twee jaar (beperkt groot vaarbewijs, groot vaarbewijs, Rijnpatent, dienstboekje) respectievelijk één jaar (klein vaarbewijs) na een eenmalige epileptische aanval, zonder duidelijke oorzaak, zonder behandeling met anti-epileptica, indien op een standaard-, slaaponthoudings- en slaap-EEG geen afwijkingen in epileptische zin worden gezien;  
+b. goedkeuring na een eerste aanval is, na ongeschikt verklaring gedurende twee jaar na die aanval, bij een erkend gunstige prognose mogelijk indien: 
 
-c. goedkeuring (zie onder e, met een maximum geldigheidsduur van vijf jaar) uitsluitend voor het Klein vaarbewijs is mogelijk bij gebruik van anti-epileptica na een aanvalsvrije periode van twee jaar;  
+1° dit één al dan niet geprovoceerde epileptische aanval betreft,  
 
-d. goedkeuring (zie onder e.) is mogelijk vijf jaar (beperkt groot vaarbewijs, groot vaarbewijs, Rijnpatent, dienstboekje) respectievelijk één jaar (klein vaarbewijs) na het staken van anti-epileptica indien na het staken geen aanvallen zijn opgetreden, alsmede op een standaard-, slaaponthoudings- en slaap-EEG (beperkt groot vaarbewijs, groot vaarbewijs, Rijnpatent, dienstboekje) respectievelijk standaard-EEG (klein vaarbewijs) geen afwijkingen in epileptische zin worden gezien;  
+2° die niet is behandeld met medicijnen, en  
 
-e. de geldigheidsduur van de geneeskundige verklaring bij de uitzonderingen beschreven onder b, c en d is eerst een half jaar. Indien de betrokkene aanvalsvrij blijft wordt de geldigheidsduur vervolgens één jaar, daarna twee jaar, daarna vijf jaar en daarna onbeperkt.    
+3° geen voor epilepsie relevante afwijkingen aan de hersenen zichtbaar zijn op een MRI-scan,  een recent standaard EEG alsmede een recent EEG na gehele of partiële slaaponthouding;    
 
-3. Noctambulisme is in het algemeen een reden voor ongeschiktheid.    
+c. in afwijking van onderdeel b is goedkeuring na een eerste aanval mogelijk voor de keuring ter verkrijging van het klein vaarbewijs dat uitsluitend voor de pleziervaart wordt gebruikt, na ongeschikt verklaring gedurende drie maanden na die aanval, indien: 
+
+1° het een eerste al dan niet geprovoceerde epileptische aanval betreft, en  
+
+2° geen relevante afwijkingen aan de hersenen zichtbaar zijn op een MRI-scan en een standaard EEG, gemaakt na de aanval zonder ‘epileptiforme afwijkingen’;    
+
+d. goedkeuring na meer dan één aanval van personen bij wie de medicatie is gestaakt is, na ongeschikt verklaring gedurende twee jaar na het staken van die medicatie, bij een erkend gunstige prognose mogelijk indien na het staken geen voor epilepsie relevante afwijkingen aan de hersenen zichtbaar zijn op een MRI-scan, een recent standaard EEG alsmede een recent EEG na gehele of partiële slaaponthouding;  
+
+e. goedkeuring is mogelijk voor het klein vaarbewijs dat uitsluitend voor de pleziervaart wordt gebruikt, met een maximum geldigheidsduur van vijf jaar, bij gebruik van anti-epileptica na een aanvalsvrije periode van twee jaar.    
+
+3. De geldigheidsduur van de geneeskundige verklaring bij de uitzonderingen beschreven in het vorige lid is eerst één jaar. Indien de betrokkene aanvalsvrij blijft wordt de geldigheidsduur vervolgens drie jaar, daarna vijf jaar en daarna onbeperkt.  
+
+4. Noctambulisme is in het algemeen een reden voor ongeschiktheid.    
 
 ### Artikel  10  
 
 ####Aandoeningen of laesies van het centrale of perifere zenuwstelsel, gepaard gaande met duidelijke functionele stoornissen; in het bijzonder organische aandoeningen van de hersenen of het ruggenmerg en de daarbij optredende restverschijnselen, functionele stoornissen na schedel- of hersenletsel, en cerebrale doorbloedingsstoornissen.
 
-1. Systeemziekten van het centrale zenuwstelsel, zoals multiple sclerose en de ziekte van Parkinson, zijn, afhankelijk van het stadium waarin de ziekte verkeert, in het algemeen een reden voor ongeschiktheid.  
+1. Systeemziekten van het centrale zenuwstelsel, zoals multiple sclerose en de ziekte van Parkinson, zijn, afhankelijk van het stadium waarin de ziekte verkeert, in het algemeen een reden voor ongeschiktheid. In afwijking hiervan is voor de keuring ter verkrijging van het klein vaarbewijs dat uitsluitend voor de pleziervaart wordt gebruikt multiple sclerose toegestaan indien betrokkene het schip, eventueel onder aanpassing van de bedieningsorganen, kan besturen.  
 
 2. Posttraumatische en postoperatieve restverschijnselen: voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.  
 
@@ -5622,11 +5551,9 @@ Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt d
 
 ### Artikel  15  
 
-####Astmatische bronchitis met aanvallen
+####Chronische longaandoeningen met aanvallen
 
-1. Alle chronische longaandoeningen met de mogelijkheid van acute verslechtering van de longfunctie zijn een reden voor ongeschiktheid.  
-
-2. Asthma bronchiale gepaard gaande met verminderde inzetbaarheid is een reden voor ongeschiktheid.    
+Alle chronische longaandoeningen met de mogelijkheid van acute verslechtering van de longfunctie die de lichamelijke gesteldheid dusdanig aantasten dat niet meer kan worden voldaan aan de in de algemene keuringsaanwijzingen onder artikel drie tot en met vijf gestelde criteria zijn een reden voor ongeschiktheid.  
 
 ### Artikel  16  
 
@@ -5634,19 +5561,19 @@ Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt d
 
 1. Klepafwijkingen en congenitale hartgebreken met haemodynamische consequenties: voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.  
 
-2. Ritme- of geleidingsstoornissen waarbij de kans bestaat op cerebrovasculaire accidenten, haemodynamische complicaties of bewustzijnsstoornissen zijn een reden voor ongeschiktheid.  
+2. Ritme- of geleidingsstoornissen: voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen te verwachten zijn.  
 
-3. Het dragen van een pacemaker is in het algemeen een reden voor ongeschiktheid. Voor goedkeuring is een specialistisch rapport vereist, waaruit blijkt dat betrokkene bij uitval van de pacemaker beschikt over een voldoende escaperitme en dat de pacemaker niet kan worden beïnvloed door elektromagnetische straling.  
+3. Het dragen van een pacemaker: voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen te verwachten zijn.  
 
-4. Het dragen van een ICD is een reden voor ongeschiktheid. Uitzondering voor de aanvrager van het Klein vaarbewijs zijn: 
+4. Het dragen van een ICD is een reden voor ongeschiktheid. Uitzonderingen voor de aanvrager van het klein vaarbewijs dat uitsluitend wordt gebruikt voor de pleziervaart zijn: 
 
-a. de periode van ongeschiktheid bedraagt zes maanden na implantatie. Goedkeuring (zie onder c) is mogelijk na een gunstig specialistisch rapport waaruit blijkt dat de ICD in deze periode geen elektroshocks heeft afgegeven en het apparaat niet kan worden beïnvloed door elektromagnetische straling;  
+a. de periode van ongeschiktheid bedraagt twee maanden na implantatie. Goedkeuring (zie onder c) is mogelijk na een gunstig specialistisch rapport waaruit blijkt dat de ICD in deze periode geen elektroshocks heeft afgegeven dan wel dat zich tijdens stimulatie door de ICD geen ernstige hemodynamische problemen hebben voorgedaan;  
 
-b. na de periode genoemd onder a is goedkeuring (zie onder c) mogelijk na een gunstig specialistisch rapport waaruit blijkt dat een elektroshock niet vaker dan 1 keer in de 2 jaar wordt afgegeven, waarbij er op het moment van de beoordeling een elektroshockvrije periode van minimaal 6 maanden moet zijn en het apparaat niet kan worden beïnvloed door elektromagnetische straling;  
+b. na de periode genoemd onder a is goedkeuring (zie onder c) mogelijk na een gunstig specialistisch rapport waaruit blijkt dat de ICD in deze periode geen elektroshocks heeft afgegeven dan wel dat zich tijdens stimulatie door de ICD geen ernstige hemodynamische problemen hebben voorgedaan en het apparaat niet kan worden beïnvloed door elektromagnetische straling;  
 
-c. de geldigheidsduur van de geneeskundige verklaring bij de uitzonderingen beschreven onder a en b is 3 jaar.    
+c. de geldigheidsduur van de geneeskundige verklaring bij de uitzonderingen beschreven onder a en b is 5 jaar.    
 
-5. Aandoeningen van het myocard, resulterend in een duidelijk verminderde ergometrisch bepaalde belastbaarheid van het hart, zijn een reden voor ongeschiktheid.  
+5. Aandoeningen van het myocard, resulterend in een dusdanig verminderde belastbaarheid van het hart dat niet meer kan worden voldaan aan de in de algemene keuringsaanwijzingen onder artikel drie tot en met vijf gestelde criteria zijn een reden voor ongeschiktheid.  
 
 6. Angina pectoris: voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.  
 
@@ -5654,7 +5581,7 @@ c. de geldigheidsduur van de geneeskundige verklaring bij de uitzonderingen besc
 
 ### Artikel  17  
 
-####Aandoeningen of gevolgen na een ongeval die leiden tot een aanzienlijke bewegingsbeperking, verlies of sterke vermindering van de kracht in een der ledematen die voor de uit te oefenen arbeid van belang zijn
+####Aandoeningen of gevolgen na een ongeval die leiden tot een aanzienlijke bewegingsbeperking, verlies of sterke vermindering van de functie in een der ledematen die voor de uit te oefenen arbeid naar het oordeel van de minister van belang zijn
 
 1. Bovenste extremiteiten: de functie van armen en handen moet voldoende zijn voor de bediening van het roer, de motor en de andere voor de navigatie en veilige vaart benodigde apparatuur. In geval van verminking of amputatie is een goed functionerende prothese toegestaan, eventueel onder aanpassing van de bovengenoemde bedieningsorganen.  
 
@@ -5675,105 +5602,13 @@ c. de geldigheidsduur van de geneeskundige verklaring bij de uitzonderingen besc
 ####: Model geneeskundige verklaring binnenvaart als bedoeld in artikel 6.5, eerste lid 
 
 ![244742](http://wetten.overheid.nl/Illustration/244742)
-Voorwaarden waaronder gekeurde geschikt is (géén medische gegevens). Bij tijdelijke geschiktheid hier tevens de termijn invullen. Deze voorwaarden zullen worden vermeld op het vaarbewijs.  
-
-| --- | --- |
-|:---|:---|
-| Deze geneeskundige verklaring samen met de aanvraag van een *beperkt groot vaarbewijs, groot vaarbewijs* of *Rijnpatent* opsturen naar  |
-| --- |  *CCV afdeling Binnenvaart*   |
-| --- | Postbus 1970  |
-| --- | 2280 DZ RIJSWIJK (ZH)  |
-| --- | Telefoon (070) 372 05 80  |
-| --- | --- |
-| Deze geneeskundige verklaring samen met de aanvraag van een *dienstboekje* opsturen naar  |
-| --- |  *St. Afvalstoffen & Vaardocumenten Binnenvaart*   |
-| --- | Vasteland 12 E  |
-| --- | 3011 BL ROTTERDAM  |
-| --- | Telefoon (010) 412 95 44  |
-| --- | --- |
-| Deze geneeskundige verklaring samen met de aanvraag van *Klein vaarbewijs* opsturen naar  |
-| --- |  *VAMEX*   |
-| --- | Postbus 93121  |
-| --- | 2509 AC DEN HAAG  |
-| --- | Telefoon 088 456 4567  |
-| --- | --- |
-| --- |
-| Als u het niet eens bent met de uitslag van de keuring kan via de Medisch adviseur scheepvaart een *herkeuring* worden aangevraagd. Hieraan zijn kosten verbonden.  |
-| Goedkeuring door een andere arts is ongeldig.  |
-| Informatie m.b.t. herkeuring:  |  *Inspectie Verkeer en Waterstaat*   |
-| --- |  *Medisch adviseur scheepvaart*   |
-| --- | Postbus 8634  |
-| --- | 3009 AP ROTTERDAM  |
-| --- | Telefoon (070) 456 46 84  |
-| --- | Fax (070) 456 46 97  |
-| --- | E-mail mas@ivw.nl  |
+![244742](http://wetten.overheid.nl/Illustration/244742)
 
 ### Bijlage  6.3  
 
-####: Model bericht van afkeuring als bedoeld in artikel 6.6, eerste lid 
+####: Model verklaring van medische ongeschiktheid als bedoeld in artikel 6.6, eerste lid 
 
 ![244743](http://wetten.overheid.nl/Illustration/244743)
-HET KONINKRIJK DER NEDERLANDEN THE KINGDOM OF THE NETHERLANDS 
-
-* Ondergetekende verklaart, dat gekeurde niet voldoet aan de meest recente keuringseisen voor zee- of binnenvaart.  *The signing physician declares, that the individual doesn’t comply with the latest medical criteria for maritime shipping.*   
-
-* Dit bericht dient nog dezelfde dag verzonden te worden aan de Medisch Adviseur Scheepvaart, per fax: 070-4564697.  *This certificate shall be dispatched without delay by fax to the Medical Adviser of the Netherlands Shipping Inspectorate: +31-70-4564697.*   
-
-* Dit bericht wordt tevens zo snel mogelijk ook per post verzonden naar de Medisch Adviseur Scheepvaart.  *At the same time, this certificate has to be sent by ordinary mail to the medical adviser.*   
-
-* Na een tijdelijke ongeschiktheid kan herkeuring plaatsvinden door dezelfde arts die betrokkene heeft afgekeurd, of door een scheidsrechter. Na een blijvende ongeschiktheid kan herkeuring uitsluitend plaatsvinden door een scheidsrechter. De scheidsrechterlijke herkeuringen kunnen worden aangevraagd bij de Medisch Adviseur Scheepvaart, telefoon: 070-4564684. Goedkeuringen door anderen dan de genoemde artsen zijn ongeldig. De kosten van de herkeuring komen voor rekening van de gekeurde.  
-
-*  *In case of temporary rejection, re-examination can only be performed by the same doctor who has found the examinee to be unfit, or by a referee.*   *In case of permanent unfitness, re-examination may only be performed by a referee.*   *The arbitral re-examination shall be submitted to the Medical Adviser of the Netherlands Shipping Inspectorate, telephone: +31-70-4564697.*   *Approval by other doctors than those mentioned earlier is invalid.*   *The person examined himself/herself shall be charged for the re-examination.*     
-
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| Gegevens gekeurde/Data of the examined person  | --- |
-| --- | --- | --- | --- |
-| Naam en voorletters  | --- | --- | --- |
-|  *Surname and initials*   | --- | --- | --- |
-| --- | --- | --- | --- |
-| Geboorteplaats en geboortedatum  | --- | --- | --- |
-|  *Place and date of birth*   | --- | --- | --- |
-| --- | --- | --- | --- |
-| Land van afgifte en nummer monsterboekje  | --- | --- | --- |
-|  *Country of issue and number of seaman’s book*   | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| Functiecategorie waarvoor is gekeurd  | --- | --- | --- |
-|  *Duties on board*   | --- | --- | --- |
-| --- | --- | --- | --- |
-| □ Zeevaart: dek- en brugdienst met wachtfunctie  | --- | □ Binnenvaart: Rijnpatent, beperkt groot vaarbewijs, groot vaarbewijs en dienstboekje  |
-|  *Seagoing: look-out or watch duties on the bridge*   | --- |  *(Not applicable abroad, Netherlands inland waters only)*   |
-| --- | --- | --- | --- |
-| □ Zeevaart: machinekamerdienst met wachtfunctie  | --- | □ Binnenvaart: Klein vaarbewijs  |
-|  *Seagoing: watch duties in the engine room*   | --- |  *(Not applicable abroad, Netherlands inland waters only)*   |
-| --- | --- | --- | --- |
-| □ Zeevaart: gezel zonder uitkijk- of wachtfunctie  | --- | --- | --- |
-|  *Seagoing: rating without look-out or watch duties*   | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| De gekeurde voldoet aan de eisen t.a.v  | --- | --- | --- |
-| De geschatte termijn van ongeschiktheid is:  | --- | --- | --- |
-|  *The examined person complies to the medical standards of:*   | --- | --- |
-|  *The estimated period of unfitness is:*   | --- | --- | --- |
-| --- | --- | --- | --- |
-| Algemene lichamelijke geschiktheid: JA of NEE   *Medical fitness: YES or NO*   | --- | □ Tijdelijk   *Temporarily*   |
-| --- | --- | --- | --- |
-| --- | --- | --- | □ Blijvend   *Permanently*   |
-| Gezichtsorgaan: JA of NEE  Visual system: YES or NO  | --- | --- |
-| --- | --- | --- | --- |
-| Gehoororgaan: JA of NEE   *Auditory system: YES or NO*   | --- | --- |
-| --- | --- | --- | --- |
-| Ondertekening  | --- | --- | --- |
-|  *Subscription*   | --- | --- | --- |
-| --- | --- | --- | --- |
-| Plaats en keuringsdatum  | --- | --- | --- |
-|  *Place and date of examniation*   | --- | --- | --- |
-| --- | --- | --- | --- |
-| Naamstempel geneeskundige:  | --- | Handtekening geneeskundige:  |
-|  *Name stamp of physician:*   | --- |  *Signature of physician:*   |
-| Reden van afkeuring  | --- | --- | --- |
-|  *Reason of rejection*   | --- | --- | --- |
 
 ### Bijlage  6.4  
 
@@ -5809,7 +5644,7 @@ HET KONINKRIJK DER NEDERLANDEN THE KINGDOM OF THE NETHERLANDS
 
 ####Instructie voor de aanvrager
 
-Als één of meer vragen met JA zijn beantwoord moet u een arts een toelichting laten schrijven waarmee de aard en de ernst van de aandoening worden verduidelijkt, zodat de medisch adviseur vaarbewijzen kan beoordelen of u voldoet aan de keuringseisen. U kunt hiervoor terecht bij een huisarts of bij een oog- of kno-arts naar keuze. De kosten van het doktersbezoek zijn voor uw eigen rekening. Als u ook zelf nog aanvullende informatie hebt die van belang kan zijn bij de beoordeling kunt u dit apart bijvoegen.  
+Als één of meer vragen met JA zijn beantwoord moet u een arts een toelichting laten schrijven waarmee de aard en de ernst van de aandoening worden verduidelijkt, zodat de medisch adviseur vaarbewijzen kan beoordelen of u voldoet aan de keuringseisen. U kunt hiervoor terecht bij een arts naar keuze. De kosten van het doktersbezoek zijn voor uw eigen rekening. Als u ook zelf nog aanvullende informatie hebt die van belang kan zijn bij de beoordeling kunt u dit apart bijvoegen.  
 
 ####Instructie voor de arts die de medische aantekening plaatst
 
@@ -5845,7 +5680,7 @@ Aanvragers van het klein vaarbewijs moeten voldoen aan de keuringseisen voor de 
 
 ### Bijlage  7.1  
 
-####: Erkende vaarbewijzen als bedoeld in artikel 7.11 
+####Erkende vaarbewijzen als bedoeld in artikel 7.11  en met het groot pleziervaartbewijs gelijkgestelde vaarbewijzen als bedoeld in artikel 7.8, eerste lid 
 
 ### 1.1  
 
@@ -5973,7 +5808,7 @@ n. van Roemenië: brevet de cãpitan fluvial categoria B (vaarbewijs B) (in over
 
 ### 1.3  
 
-####Voor het klein vaarbewijs op alle binnenwateren.
+####Voor het klein vaarbewijs alsmede, mits behaald vóór 1 juli 2011, voor het groot pleziervaartbewijs op alle binnenwateren.
 
 a. van het Koninkrijk België: 
 
@@ -6003,7 +5838,7 @@ e. op grond van de Herziene Rijnvaartakte afgegeven sportpatent.
 
 ### 1.4  
 
-####Voor het klein vaarbewijs op rivieren, kanalen en meren.
+####Voor het klein vaarbewijs alsmede, mits behaald vóór 1 juli 2011, voor het groot pleziervaartbewijs op rivieren, kanalen en meren.
 
 a. van het Koninkrijk België: 
 
@@ -6027,15 +5862,15 @@ b. van de Bondsrepubliek Duitsland:
 
 – de in onderdeel 1.1 van bijlage 7.1 genoemde bewijzen van vaarbekwaamheid;  
 
-– de diploma’s stuurman/schipper, kapitein en bootman zoals opgenomen in het Centraal Register Beroepsopleidingen met codes 10650, 10651, 93110, 91900 en 93030.    
+– de diploma’s stuurman/schipper, kapitein en bootman zoals opgenomen in het Centraal Register Beroepsopleidingen met codes 10650, 10651, 93110, 93030, 95630 en 95640.    
 
 1.2 Voor het groot vaarbewijs en beperkt groot vaarbewijs op rivieren, kanalen en meren: 
 
 – de in onderdeel 1.2 van bijlage 7.1 genoemde bewijzen van vaarbekwaamheid;  
 
-– het groot patent bedoeld in [artikel 1.05, eerste lid, onderdeel a, van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md);  
+– het groot patent bedoeld in [artikel 6.04, eerste lid, onderdeel a, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
 
-– het krachtens [artikel 4.01 van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) geldige Rijnschipperspatent en groot patent.    
+– het krachtens [artikel 9.02, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) geldige Rijnschipperspatent en groot patent.    
 
 1.3 Voor het klein vaarbewijs op alle binnenwateren: 
 
@@ -6081,9 +5916,9 @@ d. het diploma beperkt examen klein vaarbewijs (VBD) van de Stichting Vamex en h
 
 – het door de Bondsrepubliek Duitsland afgegeven ‘Sportbootführerschein-Binnen’ en ‘Sportschifferzeugnis’;  
 
-– het sportpatent bedoeld in [artikel 1.05, eerste lid, onderdeel c, van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md);  
+– het sportpatent bedoeld in [artikel 6.04, eerste lid, onderdeel c, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
 
-– de krachtens [artikel 4.01 van het Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) geldige sportpatenten;  
+– het krachtens [artikel 9.02, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) geldige sportpatent;  
 
 – het door het Korps Landelijke Politiediensten na 31 maart 1994 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op rivieren, kanalen en meren;  
 
@@ -6334,935 +6169,896 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 
 ####als bedoeld in artikel 11.1 
 
-Tabel 1. Bedragen voor bestuurlijke boete op de overtredingen van de Binnenvaartwet 
+Tabel 1A. Rijn, Waal en Lek 
 
-| Bijlage 11.1 Tabel 1A. Rijn, Waal en Lek  | Artikelen in: [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) (BVW) [Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) (BVB) Binnenvaartregeling (BVR) [Reglement onderzoek schepen op de Rijn 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) (RosR 1995) en [Patentenreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) (PR)  | Overtredingen  | Bestuurlijke boete  | Feitcode  |
-|:---|:---|:---|:---|:---|
-| --- |  *Hoofdstuk 2 BVW: Toegang tot de markt*   | --- | --- |
-| 5 lid 1 BVW jo. 2 lid 1 BVB  | *Bedrijfsmatig vervoer* van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring  | € 1250,–  | BVW 2.0.001 R  |
-| 6 lid 1 BVW jo. 2.2 BVR  | Aan de *onderneming* die bedrijfsmatig goederenvervoer verricht (geen eigen vervoer) is geen persoon verbonden aan wie een bewijs van vakbekwaamheid is afgegeven  | € 1250,–  | BVW 2.0.005 R  |
-| 6 lid 1 BVW  | De aan de *onderneming* verbonden vakbekwame persoon geeft niet daadwerkelijk en bij voortduring leiding aan de vervoersactiviteit van die onderneming  | € 1250,–  | BVW 2.0.006 R  |
-| 6 lid 6 BVW en 6 lid 2 BVW  | Als *onderneming* handelen in strijd met de aan de vrijstelling verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.007 R  |
-| 6 lid 6 BVW en 6 lid 5 BVW  | Als *onderneming* handelen in strijd met de aan de ontheffing verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.008 R  |
-| --- |  *Hoofdstuk 3 paragraaf 1 BVW: Certificaat van Onderzoek*   | --- | --- |
-| 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip *gebruiken* zonder het vereiste geldige certificaat van onderzoek  | € 1250,–  | BVW 3.1.001 R  |
-| 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip *doen gebruiken* zonder het vereiste geldige certificaat van onderzoek  | € 1250,–  | BVW 3.1.002 R  |
-| 8 lid 3 BVW jo. 1.6 BVR jo. het RosR 1995  | Een binnenvaartschip *gebruiken* in strijd met de technische voorschriften genoemd in het Reglement onderzoek schepen op de Rijn 1995.  | Max. € 500.–  | BVW 3.1.003 R  |
-| 8 lid 3 BVW jo. 1.6 BVR jo. RosR 1995  | Een binnenvaartschip *doen gebruiken* in strijd met de technische voorschriften genoemd in het Reglement onderzoek schepen op de Rijn 1995.  | Max. € 1.000,–  | BVW 3.1.004 R  |
-| 10 lid 2 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek  | Max. € 500,–  | BVW 3.1.025 R  |
-| 10 lid 2 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek  | Max. € 1.000,–  | BVW 3.1.026 R  |
-| Artikel 11 BVW  | Als *eigenaar* een binnenschip gebruiken zonder dat Onze Minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom  | € 250,–  | BVW 3.1.027 R  |
-| Artikel 11 BVW  | Als *gezagvoerder* een binnenschip gebruiken zonder dat Onze Minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom  | € 250,–  | BVW 3.1.028 R  |
-| Artikel 12 BVW  | Een binnenschip *gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek  | Max. € 500,–  | BVW 3.1.029 R  |
-| Artikel 12 BVW  | Een binnenschip *doen gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek  | Max. € 1000,–  | BVW 3.1.030 R  |
-| Artikel 13 lid 4 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden  | € 500,–  | BVW 3.1.031 R  |
-| Artikel 13 lid 4 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden  | € 1000,–  | BVW 3.1.032 R  |
-| 21 lid 1 BVW jo. 4.16 BVR  | *Gebruiken* van een binnenschip zonder geldige meetbrief  | € 500,–  | BVW 3.2.001 R  |
-| 21 lid 1 BVW jo. 4.16 BVR  | *Doen gebruiken* van een binnenschip zonder geldige meetbrief  | € 1000,–  | BVW 3.2.002 R  |
-| --- |  *Rijn, Waal en Lek*    *Hoofdstuk 3 paragraaf 3 BVW: Bemanning*   | --- | --- |
-| 22 lid 9 en 7 onder a BVW jo. 1.6 BVR jo. 23.05 lid 2 RosR 1995  | Als *gezagvoerder* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur  | € 500,–  | BVW 3.3.001 R  |
-| 22 lid 9 en 7 onder a BVW jo. 1.6 BVR jo. 23.05 lid 2 RosR 1995  | Als *werkgever* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur  | € 1000,–  | BVW 3.3.002 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.05 lid 3 RosR 1995  | Als *gezagvoerder* nalaten dat bij exploitatiewijze A1 de vaart tussen 22.00 en 06.00 uur wordt onderbroken zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 120,–  | BVW 3.3.003 R  |
-| Bij een periode van 2 tot 3 uur  | € 180,–  | BVW 3.3.004 R  |
-| Bij een periode van 3 tot 4 uur  | € 270,–  | BVW 3.3.005 R  |
-| Bij een periode van 4 tot 5 uur  | € 400,–  | BVW 3.3.006 R  |
-| Bij een periode van 5 tot 6 uur  | € 600,–  | BVW 3.3.007 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.05 lid 3 RosR 1995  | Als *werkgever* nalaten dat bij exploitatiewijze A1 de vaart tussen 22.00 en 06.00 uur wordt onderbroken zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 240,–  | BVW 3.3.008 R  |
-| Bij een periode van 2 tot 3 uur  | € 360,–  | BVW 3.3.009 R  |
-| Bij een periode van 3 tot 4 uur  | € 540,–  | BVW 3.3.010 R  |
-| Bij een periode van 4 tot 5 uur  | € 800,–  | BVW 3.3.011 R  |
-| Bij een periode van 5 tot 6 uur  | € 1200,–  | BVW 3.3.012 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 1.6 BVR jo. 23.05 lid 3 RosR 1995  | Als *bemanningslid* nalaten dat bij exploitatiewijze A1 de vaart tussen 22.00 en 06.00 uur wordt onderbroken zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 60,–  | BVW 3.3.013 R  |
-| Bij een periode van 2 tot 3 uur  | € 90,–  | BVW 3.3.014 R  |
-| Bij een periode van 3 tot 4 uur  | € 135,–  | BVW 3.3.015 R  |
-| Bij een periode van 4 tot 5 uur  | € 200,–  | BVW 3.3.016 R  |
-| Bij een periode van 5 tot 6 uur  | € 300,–  | BVW 3.3.017 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.05 lid 3 RosR 1995  | Als *gezagvoerder* nalaten dat bij exploitatiewijze A2 een onderbreking van de vaart tussen 23.00 en 05.00 uur wordt aangehouden zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 120,–  | BVW 3.3.018 R  |
-| Bij een periode van 2 tot 3 uur  | € 180,–  | BVW 3.3.019 R  |
-| Bij een periode van 3 tot 4 uur  | € 270,–  | BVW 3.3.020 R  |
-| Bij een periode van 4 tot 5 uur  | € 400,–  | BVW 3.3.021 R  |
-| Bij een periode van 5 tot 6 uur  | € 600,–  | BVW 3.3.022 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.05 lid 3 RosR 1995  | Als *werkgever* nalaten dat bij exploitatiewijze A2 een onderbreking van de vaart tussen 23.00 en 05.00 uur wordt aangehouden zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 240,–  | BVW 3.3.023 R  |
-| Bij een periode van 2 tot 3 uur  | € 360,–  | BVW 3.3.024 R  |
-| Bij een periode van 3 tot 4 uur  | € 540,–  | BVW 3.3.025 R  |
-| Bij een periode van 4 tot 5 uur  | € 800,–  | BVW 3.3.026 R  |
-| Bij een periode van 5 tot 6 uur  | € 1200,–  | BVW 3.3.027 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 1.6 BVR jo. 23.05 lid 3 RosR 1995  | Als *bemanningslid* nalaten dat bij exploitatiewijze A2 een onderbreking van de vaart tussen 23.00 en 05.00 uur wordt aangehouden zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 60,–  | BVW 3.3.028 R  |
-| Bij een periode van 2 tot 3 uur  | € 90,–  | BVW 3.3.029 R  |
-| Bij een periode van 3 tot 4 uur  | € 135,–  | BVW 3.3.030 R  |
-| Bij een periode van 4 tot 5 uur  | € 200,–  | BVW 3.3.031 R  |
-| Bij een periode van 5 tot 6 uur  | € 300,–  | BVW 3.3.032 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.033 R  |
-| Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.034 R  |
-| Bij een tekort van 3 tot 4 uur  | € 270,–  | BVW 3.3.035 R  |
-| Bij een tekort van 4 tot 5 uur  | € 400,–  | BVW 3.3.036 R  |
-| Bij een tekort van 5 tot 6 uur  | € 600,–  | BVW 3.3.037 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 240,–  | BVW 3.3.038 R  |
-| Bij een tekort van 2 tot 3 uur  | € 360,–  | BVW 3.3.039 R  |
-| Bij een tekort van 3 tot 4 uur  | € 540,–  | BVW 3.3.040 R  |
-| Bij een tekort van 4 tot 5 uur  | € 800,–  | BVW 3.3.041 R  |
-| Bij een tekort van 5 tot 6 uur  | € 1200,–  | BVW 3.3.042 R  |
-| 22 lid 9 jo 22 lid 8 onder a BVW jo. 1.6 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 60,–  | BVW 3.3.043 R  |
-| Bij een tekort van 2 tot 3 uur  | € 90,–  | BVW 3.3.044 R  |
-| Bij een tekort van 3 tot 4 uur  | € 135,–  | BVW 3.3.045 R  |
-| Bij een tekort van 4 tot 5 uur  | € 200,–  | BVW 3.3.046 R  |
-| Bij een tekort van 5 tot 6 uur  | € 300,–  | BVW 3.3.047 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.07 lid 3 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.048 R  |
-| Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.049 R  |
-| Bij een tekort van 3 tot 4 uur  | € 270,–  | BVW 3.3.050 R  |
-| Bij een tekort van 4 tot 5 uur  | € 400,–  | BVW 3.3.051 R  |
-| Bij een tekort van 5 tot 6 uur  | € 600,–  | BVW 3.3.052 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.07 lid 3 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 240,–  | BVW 3.3.053 R  |
-| Bij een tekort van 2 tot 3 uur  | € 360,–  | BVW 3.3.054 R  |
-| Bij een tekort van 3 tot 4 uur  | € 540,–  | BVW 3.3.055 R  |
-| Bij een tekort van 4 tot 5 uur  | € 800,–  | BVW 3.3.056 R  |
-| Bij een tekort van 5 tot 6 uur  | € 1200,–  | BVW 3.3.057 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 1.6 BVR jo. 23.07 lid 3 onder b RosR 1995  | Als *bemanninglid* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 60,–  | BVW 3.3.058 R  |
-| Bij een tekort van 2 tot 3 uur  | € 90,–  | BVW 3.3.059 R  |
-| Bij een tekort van 3 tot 4 uur  | € 135,–  | BVW 3.3.060 R  |
-| Bij een tekort van 4 tot 5 uur  | € 200,–  | BVW 3.3.061 R  |
-| Bij een tekort van 5 tot 6 uur  | € 300,–  | BVW 3.3.062 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.07 lid 4 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.063 R  |
-| Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.064 R  |
-| Bij een tekort van 3 tot 4 uur  | € 270,–  | BVW 3.3.065 R  |
-| Bij een tekort van 4 tot 5 uur  | € 400,–  | BVW 3.3.066 R  |
-| Bij een tekort van 5 tot 6 uur  | € 600,–  | BVW 3.3.067 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.07 lid 4 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 240,–  | BVW 3.3.068 R  |
-| Bij een tekort van 2 tot 3 uur  | € 360,–  | BVW 3.3.069 R  |
-| Bij een tekort van 3 tot 4 uur  | € 540,–  | BVW 3.3.070 R  |
-| Bij een tekort van 4 tot 5 uur  | € 800,–  | BVW 3.3.071 R  |
-| Bij een tekort van 5 tot 6 uur  | € 1200,–  | BVW 3.3.072 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 1.6 BVR jo. 23.07 lid 4 onder b RosR 1995  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 60,–  | BVW 3.3.073 R  |
-| Bij een tekort van 2 tot 3 uur  | € 90,–  | BVW 3.3.074 R  |
-| Bij een tekort van 3 tot 4 uur  | € 135,–  | BVW 3.3.075 R  |
-| Bij een tekort van 4 tot 5 uur  | € 200,–  | BVW 3.3.076 R  |
-| Bij een tekort van 5 tot 6 uur  | € 300,–  | BVW 3.3.077 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.07 lid 5 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.078 R  |
-| Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.079 R  |
-| Bij een tekort van 3 tot 4 uur  | € 270,–  | BVW 3.3.080 R  |
-| Bij een tekort van 4 tot 5 uur  | € 400,–  | BVW 3.3.081 R  |
-| Bij een tekort van 5 tot 6 uur  | € 600,–  | BVW 3.3.082 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.07 lid 5 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 240,–  | BVW 3.3.083 R  |
-| Bij een tekort van 2 tot 3 uur  | € 360,–  | BVW 3.3.084 R  |
-| Bij een tekort van 3 tot 4 uur  | € 540,–  | BVW 3.3.085 R  |
-| Bij een tekort van 4 tot 5 uur  | € 800,–  | BVW 3.3.086 R  |
-| Bij een tekort van 5 tot 6 uur  | € 1200,–  | BVW 3.3.087 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 1.6 BVR jo. 23.07 lid 5 onder b RosR 1995  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 60,–  | BVW 3.3.088 R  |
-| Bij een tekort van 2 tot 3 uur  | € 90,–  | BVW 3.3.089 R  |
-| Bij een tekort van 3 tot 4 uur  | € 135,–  | BVW 3.3.090 R  |
-| Bij een tekort van 4 tot 5 uur  | € 200,–  | BVW 3.3.0891 R  |
-| Bij een tekort van 5 tot 6 uur  | € 300,–  | BVW 3.3.092 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.093 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.094 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.07 lid 5 onder b RosR 1995  | As *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.095 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.07 lid 5 onder b RosR 1995  | As *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.096 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.01 RosR 1995 jo. 23.10 lid 1 RosR 1995.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op motorschepen en duwboten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.097 R  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.098 R  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.099 R  |
-| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 450,–  | BVW 3.3.100 R  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.101 R  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.102 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.103 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.104 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.01 RosR 1995 jo. 23.10 lid 1 RosR 1995.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op motorschepen en duwboten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.105 R  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.106 R  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.107 R  |
-| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 900,–  | BVW 3.3.108 R  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.109 R  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.110 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.111 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.112 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.01 RosR 1995 jo. 23.11 lid 1 RosR 1995.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op duwboten, duwstellen, gekoppelde samenstellen en andere hechte samenstellen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.113 R  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.114 R  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.115 R  |
-| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 450,–  | BVW 3.3.116 R  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.117 R  |
-| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.118 R  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.119 R  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.120 R  |
-| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.121 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.122 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.123 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.01 RosR 1995 jo. 23.11 lid 1 RosR 1995.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op duwboten, duwstellen, gekoppelde samenstellen en andere hechte samenstellen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.124 R  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.125 R  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.126 R  |
-| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 900,–  | BVW 3.3.127 R  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.128 R  |
-| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.129 R  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.130 R  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.131 R  |
-| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.132 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.133 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.134 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.01 RosR 1995 jo. 23.12 lid 1 RosR 1995  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.135 R  |
-| Bij een tekort van 2 schippers  | € 1000,00  | BVW 3.3.136 R  |
-| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.137 R  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.138 R  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.139 R  |
-| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.140 R  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.141 R  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.142 R  |
-| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.143 R  |
-| Bij een tekort van 4 matrozen  | € 1200,–  | BVW 3.3.144 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.145 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.146 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.01 RosR 1995 jo. 23.12 lid 1 RosR 1995  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.147 R  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.148 R  |
-| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.149 R  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.150 R  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.151 R  |
-| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.152 R  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.153 R  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.154 R  |
-| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.155 R  |
-| Bij een tekort van 4 matrozen  | € 2400,–  | BVW 3.3.156 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.157 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.158 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.6 BVR jo. 23.01 RosR 1995 jo. 23.12 lid 2 RosR 1995  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.159 R  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.160 R  |
-| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.161 R  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.162 R  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.163 R  |
-| Bij een tekort van 2 machinisten of 2 matrozen motordrijver  | € 800,–  | BVW 3.3.164 R  |
-| Bij een tekort van 3 machinisten of 3 matrozen motordrijver  | € 1200,–  | BVW 3.3.165 R  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.166 R  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.167 R  |
-| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.168 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.169 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.170 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.01 RosR 1995 jo. 23.12 lid 2 RosR 1995  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.171 R  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.172 R  |
-| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.173 R  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.174 R  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.175 R  |
-| Bij een tekort van 2 machinisten of 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.176 R  |
-| Bij een tekort van 3 machinisten of 3 matrozen motordrijver  | € 2400,–  | BVW 3.3.177 R  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.178 R  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.179 R  |
-| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.180 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.181 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.182 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.01 RosR 1995 jo. 23.12 lid 3 RosR 1995  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.183 R  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.184 R  |
-| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.185 R  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.186 R  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.187 R  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.188 R  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.189 R  |
-| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.190 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.191 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.192 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.6 BVR jo. 23.01 RosR 1995 jo. 23.12 lid 3 RosR 1995  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.193 R  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.194 R  |
-| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.195 R  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.196 R  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.197 R  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.198 R  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.199 R  |
-| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.200 R  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.201 R  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.202 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.13 lid 1 RosR 1995 en 23.01 RosR 1995.  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 23.09 RosR 1995 – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
-| In de exploitatiewijze A1 en A2 met 1 matroos  | € 300,–  | BVW 3.3.283 R  |
-| In de exploitatiewijze B met 2 matrozen  | € 600,–  | BVW 3.3.284 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.6 BVR jo. 23.13 lid 1 RosR 1995 en 23.01 RosR 1995.  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 23.09 RosR 1995 – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
-| In de exploitatiewijze A1 en A2 met 1 matroos  | € 600,–  | BVW 3.3.285 R  |
-| In de exploitatiewijze B met 2 matrozen  | € 1200,–  | BVW 3.3.286 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.13 lid 1 RosR 1995 en 23.01 RosR 1995.  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 23.09 RosR 1995 – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
-| In de exploitatiewijze B met 1 matroos  | € 300,–  | BVW 3.3.287 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.6 BVR jo. 23.13 lid 1 RosR 1995 en 23.01 RosR 1995.  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 23.09 RosR 1995 – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
-| In de exploitatiewijze B met 1 matroos  | € 600,–  | BVW 3.3.288 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.6 BVR jo. 23.13 lid 1 RosR 1995 en 23.01 RosR 1995.  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 23.09 lid 1 onder 1.1 RosR 1995 – de desbetreffende bemanningsleden op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te vervangen:  | --- | --- |
-| In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 400,–  | BVW 3.3.289 R  |
-| In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 800,–  | BVW 3.3.290 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.13 lid 1 RosR 1995 en 23.01 RosR 1995.  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 23.09 lid 1 onder 1.1 RosR 1995 – de desbetreffende bemanningsleden op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te vervangen:  | --- | --- |
-| In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 800,–  | BVW 3.3.291 R  |
-| In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 1.600,–  | BVW 3.3.292 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.01 lid1 RosR jo. 23.10 23.11 en 23.12 RosR 1995  1. Schipper  2. Stuurman / Machinist  3. Volmatr. / Matr. motordr.  4. Matroos  5. Lichtmatroos / Deksman  | Als *gezagvoerder* nalaten dat het/de bemanningslid / leden niet over de vereiste bekwaamheid beschikken.  (onder gekwalificeerd varen):  | 1 niveau  | € 150,–  | BVW 3.3.293 R  |
-| 2 niveaus  | € 350,–  | BVW 3.3.294 R  |
-| 3 niveaus  | € 550,–  | BVW 3.3.295 R  |
-| 4 niveaus  | € 700,–  | BVW 3.3.296 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.01 lid1 RosR jo. 23.10 23.11 en 23.12 RosR 1995  1.Schipper  2.Stuurman / Machinist  3.Volmatr. / Matr. motordr.  4.Matroos  5.Lichtmatroos / Deksman  | Als *werkgever* nalaten dat het/de bemanningslid / leden niet over de vereiste bekwaamheid beschikken.  (onder gekwalificeerd varen):  | 1 niveau  | € 300,–  | BVW 3.3.297 R  |
-| 2 niveaus  | € 700,–  | BVW 3.3.298 R  |
-| 3 niveaus  | € 1100,–  | BVW 3.3.299 R  |
-| 4 niveaus  | € 1400,–  | BVW 3.3.300 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.01 lid 2 RosR 1995.  | Als *gezagvoerder* een zwangere vrouw, of kraamvrouw deel uit laten maken van de minimumbemanning gedurende ten minste 14 weken waarvan ten minste 6 weken voor en 7 weken na de bevalling  | € 100,–  | BVW 3.3.301 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.6 BVR jo. 23.01 lid 2 RosR 1995.  | Als *werkgever* een zwangere vrouw, of kraamvrouw deel uit laten maken van de minimumbemanning gedurende ten minste 14 weken waarvan ten minste 6 weken voor en 7 weken na de bevalling  | € 200,–  | BVW 3.3.302 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.6 BVR jo. 20.02 RosR 1995.  | Als *gezagvoerder* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
-| dat er zich aan boord een persoon bevindt die houder is van een groot patent  | € 500,–  | BVW 3.3.303 R  |
-| na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de patenthouder is vervangen door een ander persoon die in het bezit is van een groot patent  | € 750,–  | BVW 3.3.304 R  |
-| dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 500,–  | BVW 3.3.305 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 20.02 RosR 1995.  | Als *werkgever* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
-| dat er zich aan boord een persoon bevindt die houder is van een groot patent  | € 1000,–  | BVW 3.3.306 R  |
-| na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot patent  | € 1500,–  | BVW 3.3.307 R  |
-| dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 1000,–  | BVW 3.3.308 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.04 lid 2 RosR 1995.  | Als *gezagvoerder* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 360,–  | BVW 3.3.309 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.04 lid 2 RosR 1995.  | Als *werkgever* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 720,–  | BVW 3.3.310 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *gezagvoerder* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.311 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *werkgever* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.312 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *bemanningslid* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.313 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als *gezagvoerder* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.314 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als *werkgever* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.315 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 5 BVW  | Als *bemanningslid* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.316 R  |
-| 23 lid 1 BVW jo. 27 lid 2 BVB jo. 28 BVB  | Als *gezagvoerder* een binnenschip gebruiken zonder dat een bemanningslid over een geldige geneeskundige verklaring beschikt:  | --- | --- |
-| Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar  | € 250,–  | BVW 3.3.317 R  |
-| Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar  | € 250,–  | BVW 3.3.318 R  |
-| 23 lid 1 BVW jo. 27 lid 2 BVB jo 28 BVB  | Als *werkgever* een binnenschip gebruiken zonder dat een bemanningslid over een geldige geneeskundige verklaring beschikt:  | --- | --- |
-| Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar  | € 500,–  | BVW 3.3.319 R  |
-| Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar  | € 500,–  | BVW 3.3.320 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.06 lid 1 RosR 1995  | Als *gezagvoerder* nalaten dat bij exploitatiewijze A1 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 150,–  | BVW 3.3.321 R  |
-| Bij een tekort van 2 tot 3 uur  | € 300,–  | BVW 3.3.322 R  |
-| Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.323 R  |
-| Bij een tekort van 4 tot 5 uur  | € 600,–  | BVW 3.3.324 R  |
-| Bij een tekort van 5 tot 6 uur  | € 750,–  | BVW 3.3.325 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.06 lid 1 RosR 1995  | Als *werkgever* nalaten dat bij exploitatiewijze A1 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 300,–  | BVW 3.3.326 R  |
-| Bij een tekort van 2 tot 3 uur  | € 600,–  | BVW 3.3.327 R  |
-| Bij een tekort van 3 tot 4 uur  | € 900,–  | BVW 3.3.328 R  |
-| Bij een tekort van 4 tot 5 uur  | € 1200,–  | BVW 3.3.329 R  |
-| Bij een tekort van 5 tot 6 uur  | € 1500,–  | BVW 3.3.330 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo 1.6 BVR jo. 23.06 lid 1 RosR 1995  | Als *bemanningslid* nalaten dat bij exploitatiewijze A1 de volledige rusttijd in acht wordt genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 75,–  | BVW 3.3.331 R  |
-| Bij een tekort van 2 tot 3 uur  | € 150,–  | BVW 3.3.332 R  |
-| Bij een tekort van 3 tot 4 uur  | € 225,–  | BVW 3.3.333 R  |
-| Bij een tekort van 4 tot 5 uur  | € 300,–  | BVW 3.3.334 R  |
-| Bij een tekort van 5 tot 6 uur  | € 375,–  | BVW 3.3.335 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.6 BVR jo. 23.06 lid 1 RosR 1995  | Als *gezagvoerder* nalaten dat bij exploitatiewijze A2 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 150,–  | BVW 3.3.337 R  |
-| Bij een tekort van 2 tot 3 uur  | € 300,–  | BVW 3.3.338 R  |
-| Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.339 R  |
-| Bij een tekort van 4 tot 5 uur  | € 600,–  | BVW 3.3.340 R  |
-| Bij een tekort van 5 tot 6 uur  | € 750,–  | BVW 3.3.341 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.06 lid 1 RosR 1995  | Als *werkgever* nalaten dat bij exploitatiewijze A2 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 300,–  | BVW 3.3.342 R  |
-| Bij een tekort van 2 tot 3 uur  | € 600,–  | BVW 3.3.343 R  |
-| Bij een tekort van 3 tot 4 uur  | € 900,–  | BVW 3.3.344 R  |
-| Bij een tekort van 4 tot 5 uur  | € 1200,–  | BVW 3.3.345 R  |
-| Bij een tekort van 5 tot 6 uur  | € 1500,-  | BVW 3.3.346 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.06 lid 1 RosR 1995  | Als *gezagvoerder* nalaten dat bij exploitatiewijze B ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 150,–  | BVW 3.3.347 R  |
-| Bij een tekort van 2 tot 3 uur  | € 300,–  | BVW 3.3.348 R  |
-| Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.349 R  |
-| Bij een tekort van 4 tot 5 uur  | € 600,–  | BVW 3.3.350 R  |
-| Bij een tekort van 5 tot 6 uur  | € 750,–  | BVW 3.3.351 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.06 lid 1 RosR 1995  | Als *werkgever* nalaten dat bij exploitatiewijze B ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur  | € 300,–  | BVW 3.3.352 R  |
-| Bij een tekort van 2 tot 3 uur  | € 600,–  | BVW 3.3.353 R  |
-| Bij een tekort van 3 tot 4 uur  | € 900,–  | BVW 3.3.354 R  |
-| Bij een tekort van 4 tot 5 uur  | € 1200,–  | BVW 3.3.355 R  |
-| Bij een tekort van 5 tot 6 uur  | € 1500,–  | BVW 3.3.356 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.14 RosR 1995  | Als *gezagvoerder* niet voldoen aan de door de Commissie van Deskundige vastgestelde minimumbemanning op overige vaartuigen anders dan de in artikel 23.10 t/m 23.12 genoemde binnenschepen:  | --- | --- |
-| Bij het ontbreken van 1 bemanningslid  | € 300,–  | BVW 3.3.357 R  |
-| Bij het ontbreken van 2 bemanningsleden  | € 600,–  | BVW 3.3.358 R  |
-| Bij het ontbreken van 3 bemanningsleden  | € 900,–  | BVW 3.3.359 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.6 BVR jo. 23.14 RosR 1995  | Als *werkgever* niet voldoen aan de door de Commissie van Deskundige vastgestelde minimumbemanning op overige vaartuigen anders dan de in artikel 23.10 t/m 23.12 genoemde binnenschepen:  | --- | --- |
-| Bij het ontbreken van 1 bemanningslid  | € 600,–  | BVW 3.3.360 R  |
-| Bij het ontbreken van 2 bemanningsleden  | € 1200,–  | BVW 3.3.361 R  |
-| Bij het ontbreken van 3 bemanningsleden  | € 1800,–  | BVW 3.3.362 R  |
-| --- |  *Rijn, Waal en Lek*    *Hoofdstuk 4 paragraaf 1 BVW: Scheepsnummer*   | --- | --- |
-| 36 lid 4 BVW jo. 36 lid 2 onder a BVW  | Als *eigenaar* van een binnenschip niet binnen 2 weken na toekenning en kennisgeving van het scheepsnummer, dit scheepsnummer op het binnenschip aanbrengen  | € 150,-  | BVW 4.1.001 R  |
-| 36 lid 4 BVW jo. 36 lid 2 onder b BVW  | Als *eigenaar* niet binnen 2 weken kennis geven aan de minister van zodanige wijzigingen in omstandigheden van een binnenschip, die aanleiding geven tot wijziging van het scheepsnummer  | € 1.250,–  | BVW 4.1.002 R  |
-| 36 lid 4 BVW jo. 30 lid 2 BVB gelet op 9.1 BVR  | Als *eigenaar* het registratienummer niet op het binnenschip aanbrengen overeenkomstig artikel 9.1 BVR  | € 150,–  | BVW 4.1.003 R  |
-| --- |  *Rijn, Waal en Lek*    *Hoofdstuk 4 paragraaf 2 BVW: Gegevensverstrekking*   | --- | --- |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.04 lid 5 RosR 1995  | Als *schipper* zijn bekwaamheid aan boord niet kunnen aantonen door middel van een patent overeenkomstig het Patentreglement Rijn  | € 300,–  | BVW 4.2.001 R  |
-| Als *werkgever* de bekwaamheid van de schipper aan boord niet kunnen aantonen door middel van een patent overeenkomstig het Patentreglement Rijn  | € 600,–  | BVW 4.2.002 R  |
-| Als *bemanningslid* zijn bekwaamheid aan boord niet kunnen aantonen door middel van het dienstboekje dan wel een patent overeenkomstig het Patentreglement Rijn  | € 150,–  | BVW 4.2.003 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.05 lid 2 RosR 1995  | Als *gezagvoerder* bij de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1 deze verlenging niet kunnen aantonen met de registraties van een goed functionerende tachograaf  | € 400,–  | BVW 4.2.008 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.05 lid 2 RosR 1995  | Als *werkgever* bij de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1 deze verlenging niet kunnen aantonen met de registraties van een goed functionerende tachograaf  | € 800,–  | BVW 4.2.009 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.07 lid 7 RosR 1995  | Als *gezagvoerder* bij wisseling van exploitatiewijze niet de rusttijd van 8 onderscheidenlijk 6 uren kunnen aantonen met een verklaring als bedoeld in bijlage K van RosR 1995 of met een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden  | € 625,–  | BVW 4.2.010 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.07 lid 7 RosR 1995  | Als *werkgever* bij wisseling van exploitatiewijze niet de rusttijd van 8 onderscheidenlijk 6 uren kunnen aantonen met een verklaring als bedoeld in bijlage K van RosR 1995 of met een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden  | € 1250,–  | BVW 4.2.011 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.04 lid 2 onder a en b RosR 1995  | Als *houder* het persoonlijke dienstboekje niet bij de eerste indiensttreding overhandigen aan de schipper  | € 150,–  | BVW 4.2.012 R  |
-| Als *houder* niet telkens binnen een periode van 12 maanden het persoonlijke dienstboekje overleggen aan en niet laten afstempelen door een plaatselijke bevoegde autoriteit  | € 125,–  | BVW 4.2.013 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. artikel 1.6 BVR jo. 1.7 BVR jo. 23.04 lid 3 RosR 1995  | Als *gezagvoerder* het dienstboekje niet regelmatig invullen  | € 125,–  | BVW 4.2.014 R  |
-| Als *gezagvoerder* het dienstboekje niet in het stuurhuis bewaren  | € 60,–  | BVW 4.2.015 R  |
-| Als *gezagvoerder* het dienstboekje niet op verzoek onverwijld teruggeven aan de houder  | € 150,–  | BVW 4.2.016 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. artikel 1.6 BVR jo. 1.7 BVR jo. 23.04 lid 3 RosR 1995  | Als *werkgever* het dienstboekje niet regelmatig invullen  | € 250,–  | BVW 4.2.017 R  |
-| Als *werkgever* het dienstboekje niet in het stuurhuis bewaren  | € 120,–  | BVW 4.2.018 R  |
-| Als *werkgever* het dienstboekje niet op verzoek onverwijld teruggeven aan de houder  | € 300,–  | BVW 4.2.019 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.08 lid 1 RosR 1995  | Als *gezagvoerder* het vaartijdenboek niet aanwezig hebben in de stuurhut  | € 450,–  | BVW 4.2.020 R  |
-| Als *gezagvoerder* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek te hebben aangetekend  | € 100,–  | BVW 4.2.021 R  |
-| Als *gezagvoerder* zodra de vaart begint, dan wel de vaart wordt voorgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.022 R  |
-| Over een periode van 2 dag  | € 400,–  | BVW 4.2.023 R  |
-| Over een periode van 3 dag  | € 600,–  | BVW 4.2.024 R  |
-| Over een periode van 4 dagen of meer  | € 800,–  | BVW 4.2.025 R  |
-| Als *gezagvoerder* zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.026 R  |
-| Over een periode van 2 dag  | € 400,–  | BVW 4.2.027 R  |
-| Over een periode van 3 dag  | € 600,–  | BVW 4.2.028 R  |
-| Over een periode van 4 dagen of meer  | € 800,–  | BVW 4.2.029 R  |
-| Als *gezagvoerder* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 200,–  | BVW 4.2.030 R  |
-| Als *gezagvoerder* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld:  (Exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.031 R  |
-| Over een periode van 2 dag  | € 400,–  | BVW 4.2.032 R  |
-| Over een periode van 3 dag  | € 600,–  | BVW 4.2.033 R  |
-| Over een periode van 4 dagen of meer  | € 800,–  | BVW 4.2.034 R  |
+| Artikelen in: [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) (BVW) [Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) (BVB) Binnenvaartregeling (BVR) [Reglement onderzoek schepen op de Rijn 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) (RosR 1995) [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) (Rsp)  | Overtreding  | Bestuurlijke boete  | Feitcode  |
+|:---|:---|:---|:---|
+|  *Rijn, Waal en Lek: Hoofdstuk 2 BVW: Toegang tot de markt*   | --- |
+| 5 lid 1 BVW jo. 2 lid 1 BVB  | *Bedrijfsmatig vervoer* van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring  | € 1250,–  | BVW 2.0.001 R  |
+| 6 lid 1 BVW jo. 2.2 BVR  | Aan de *onderneming* die bedrijfsmatig goederenvervoer verricht (geen eigen vervoer) is geen persoon verbonden aan wie een bewijs van vakbekwaamheid is afgegeven  | € 1250,–  | BVW 2.0.005 R  |
+| 6 lid 1 BVW  | De aan de *onderneming* verbonden vakbekwame persoon geeft niet daadwerkelijk en bij voortduring leiding aan de vervoersactiviteit van die onderneming  | € 1250,–  | BVW 2.0.006 R  |
+| 6 lid 6 BVW en 6 lid 2 BVW  | Als *onderneming* handelen in strijd met de aan de vrijstelling verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.007 R  |
+| 6 lid 6 BVW en 6 lid 5 BVW  | Als *onderneming* handelen in strijd met de aan de ontheffing verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.008 R  |
+|  *Rijn, Waal en Lek: Hoofdstuk 3 paragraaf 1 BVW: certificaat van onderzoek*   |
+| 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip *gebruiken* zonder het vereiste geldige certificaat van onderzoek  | € 1250,–  | BVW 3.1.001 R  |
+| 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip *doen gebruiken* zonder het vereiste geldige certificaat van onderzoek  | € 1250,–  | BVW 3.1.002 R  |
+| 8 lid 3 BVW jo. 1.6 BVR jo. het RosR 1995  | Een binnenvaartschip *gebruiken* in strijd met de technische voorschriften genoemd in het Reglement onderzoek schepen op de Rijn 1995.  | Max. € 500,–  | BVW 3.1.003 R  |
+| 8 lid 3 BVW jo. 1.6 BVR jo. RosR 1995  | Een binnenvaartschip *doen gebruiken* in strijd met de technische voorschriften genoemd in het Reglement onderzoek schepen op de Rijn 1995.  | Max. € 1000,–  | BVW 3.1.004 R  |
+| 10 lid 2 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek  | € 500,–  | BVW 3.1.025 R  |
+| 10 lid 2 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek  | € 1.000,–  | BVW 3.1.026 R  |
+| Artikel 11 BVW  | Als *eigenaar* een binnenschip gebruiken zonder dat de minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom  | € 250,–  | BVW 3.1.027 R  |
+| Artikel 11 BVW  | Als *gezagvoerder* een binnenschip gebruiken zonder dat de minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom  | € 250,–  | BVW 3.1.028 R  |
+| Artikel 12 BVW  | Een binnenschip *gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek  | Max. € 500,–  | BVW 3.1.029 R  |
+| Artikel 12 BVW  | Een binnenschip *doen gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek  | Max. € 1000,–  | BVW 3.1.030 R  |
+| Artikel 13 lid 4 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden  | € 500,–  | BVW 3.1.031 R  |
+| Artikel 13 lid 4 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden  | € 1000,–  | BVW 3.1.032 R  |
+|  *Rijn, Waal en lek: hoofdstuk 3 paragraaf 2 BVW: Scheepsmeting*   |
+| 21 lid 1 BVW jo. 4.16 BVR  | *Gebruiken* van een binnenschip zonder geldige meetbrief  | € 500,–  | BVW 3.2.001 R  |
+| 21 lid 1 BVW jo. 4.16 BVR  | *Doen gebruiken* van een binnenschip zonder geldige meetbrief  | € 1000,–  | BVW 3.2.002 R  |
+|  *Rijn Waal en Lek: hoofdstuk 3 paragraaf 3 BVW: Bemanning*   |
+| 22 lid 9 en 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 2 Rsp  | Als *gezagvoerder* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur  | € 500,–  | BVW 3.3.001 R  |
+| 22 lid 9 en 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 2 Rsp  | Als *werkgever* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur  | € 1000,–  | BVW 3.3.002 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* nalaten dat bij exploitatiewijze A1 de vaart tussen 22.00 en 06.00 uur wordt onderbroken zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur  | € 120,–  | BVW 3.3.003 R  |
+| Bij een periode van 2 tot 3 uur  | € 180,–  | BVW 3.3.004 R  |
+| Bij een periode van 3 tot 4 uur  | € 270,–  | BVW 3.3.005 R  |
+| Bij een periode van 4 tot 5 uur  | € 400,–  | BVW 3.3.006 R  |
+| Bij een periode van 5 tot 6 uur  | € 600,–  | BVW 3.3.007 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* nalaten dat bij exploitatiewijze A1 de vaart tussen 22.00 en 06.00 uur wordt onderbroken zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur  | € 240,–  | BVW 3.3.008 R  |
+| Bij een periode van 2 tot 3 uur  | € 360,–  | BVW 3.3.009 R  |
+| Bij een periode van 3 tot 4 uur  | € 540,–  | BVW 3.3.010 R  |
+| Bij een periode van 4 tot 5 uur  | € 800,–  | BVW 3.3.011 R  |
+| Bij een periode van 5 tot 6 uur  | € 1200,–  | BVW 3.3.012 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* nalaten dat bij exploitatiewijze A2 een onderbreking van de vaart tussen 23.00 en 05.00 uur wordt aangehouden zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur  | € 120,–  | BVW 3.3.018 R  |
+| Bij een periode van 2 tot 3 uur  | € 180,–  | BVW 3.3.019 R  |
+| Bij een periode van 3 tot 4 uur  | € 270,–  | BVW 3.3.020 R  |
+| Bij een periode van 4 tot 5 uur  | € 400,–  | BVW 3.3.021 R  |
+| Bij een periode van 5 tot 6 uur  | € 600,–  | BVW 3.3.022 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* nalaten dat bij exploitatiewijze A2 een onderbreking van de vaart tussen 23.00 en 05.00 uur wordt aangehouden zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur  | € 240,–  | BVW 3.3.023 R  |
+| Bij een periode van 2 tot 3 uur  | € 360,–  | BVW 3.3.024 R  |
+| Bij een periode van 3 tot 4 uur  | € 540,–  | BVW 3.3.025 R  |
+| Bij een periode van 4 tot 5 uur  | € 800,–  | BVW 3.3.026 R  |
+| Bij een periode van 5 tot 6 uur  | € 1200,–  | BVW 3.3.027 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 2 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.033 R  |
+| Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.034 R  |
+| Bij een tekort van 3 tot 4 uur  | € 270,–  | BVW 3.3.035 R  |
+| Bij een tekort van 4 tot 5 uur  | € 400,–  | BVW 3.3.036 R  |
+| Bij een tekort van 5 tot 6 uur  | € 600,–  | BVW 3.3.037 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 2 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 240,–  | BVW 3.3.038 R  |
+| Bij een tekort van 2 tot 3 uur  | € 360,–  | BVW 3.3.039 R  |
+| Bij een tekort van 3 tot 4 uur  | € 540,–  | BVW 3.3.040 R  |
+| Bij een tekort van 4 tot 5 uur  | € 800,–  | BVW 3.3.041 R  |
+| Bij een tekort van 5 tot 6 uur  | € 1200,–  | BVW 3.3.042 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 3 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.048 R  |
+| Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.049 R  |
+| Bij een tekort van 3 tot 4 uur  | € 270,–  | BVW 3.3.050 R  |
+| Bij een tekort van 4 tot 5 uur  | € 400,–  | BVW 3.3.051 R  |
+| Bij een tekort van 5 tot 6 uur  | € 600,–  | BVW 3.3.052 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 3 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 240,–  | BVW 3.3.053 R  |
+| Bij een tekort van 2 tot 3 uur  | € 360,–  | BVW 3.3.054 R  |
+| Bij een tekort van 3 tot 4 uur  | € 540,–  | BVW 3.3.055 R  |
+| Bij een tekort van 4 tot 5 uur  | € 800,–  | BVW 3.3.056 R  |
+| Bij een tekort van 5 tot 6 uur  | € 1200,–  | BVW 3.3.057 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 4 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.063 R  |
+| Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.064 R  |
+| Bij een tekort van 3 tot 4 uur  | € 270,–  | BVW 3.3.065 R  |
+| Bij een tekort van 4 tot 5 uur  | € 400,–  | BVW 3.3.066 R  |
+| Bij een tekort van 5 tot 6 uur  | € 600,–  | BVW 3.3.067 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 4 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 240,–  | BVW 3.3.068 R  |
+| Bij een tekort van 2 tot 3 uur  | € 360,–  | BVW 3.3.069 R  |
+| Bij een tekort van 3 tot 4 uur  | € 540,–  | BVW 3.3.070 R  |
+| Bij een tekort van 4 tot 5 uur  | € 800,–  | BVW 3.3.071 R  |
+| Bij een tekort van 5 tot 6 uur  | € 1200,–  | BVW 3.3.072 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 5 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.078 R  |
+| Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.079 R  |
+| Bij een tekort van 3 tot 4 uur  | € 270,–  | BVW 3.3.080 R  |
+| Bij een tekort van 4 tot 5 uur  | € 400,–  | BVW 3.3.081 R  |
+| Bij een tekort van 5 tot 6 uur  | € 600,–  | BVW 3.3.082 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 5 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 240,–  | BVW 3.3.083 R  |
+| Bij een tekort van 2 tot 3 uur  | € 360,–  | BVW 3.3.084 R  |
+| Bij een tekort van 3 tot 4 uur  | € 540,–  | BVW 3.3.085 R  |
+| Bij een tekort van 4 tot 5 uur  | € 800,–  | BVW 3.3.086 R  |
+| Bij een tekort van 5 tot 6 uur  | € 1200,–  | BVW 3.3.087 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 2 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.093 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 2 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.094 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 5 onder b Rsp  | As *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.095 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 5 onder b Rsp  | As *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.096 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.15 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op motorschepen en duwboten:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.097 R  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.098 R  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.099 R  |
+| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 450,–  | BVW 3.3.100 R  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.100a R  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.101 R  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.102 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.103 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.104 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.15 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op motorschepen en duwboten:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.105 R  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.106 R  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.107 R  |
+| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 900,–  | BVW 3.3.108 R  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.108a R  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.109 R  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.110 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.111 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.112 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.16 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hechte samenstellen en andere hechte samenstellingen:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.113 R  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.114 R  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.115 R  |
+| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 450,–  | BVW 3.3.116 R  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.117 R  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.118 R  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.119 R  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.120 R  |
+| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.121 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.122 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.123 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.16 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op duwboten, duwstellen, gekoppelde samenstellen en andere hechte samenstellen:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.124 R  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.125 R  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.126 R  |
+| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 900,–  | BVW 3.3.127 R  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.128 R  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.129 R  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.130 R  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.131 R  |
+| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.132 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.133 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.134 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.135 R  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.136 R  |
+| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.137 R  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.138 R  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.139 R  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.140 R  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.141 R  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.142 R  |
+| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.143 R  |
+| Bij een tekort van 4 matrozen  | € 1200,–  | BVW 3.3.144 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.145 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.146 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.147 R  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.148 R  |
+| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.149 R  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.150 R  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.151 R  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.152 R  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.153 R  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.154 R  |
+| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.155 R  |
+| Bij een tekort van 4 matrozen  | € 2400,–  | BVW 3.3.156 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.157 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.158 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 2 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.159 R  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.160 R  |
+| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.161 R  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.162 R  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.163 R  |
+| Bij een tekort van 2 machinisten of 2 matrozen motordrijver  | € 800,–  | BVW 3.3.164 R  |
+| Bij een tekort van 3 machinisten of 3 matrozen motordrijver  | € 1200,–  | BVW 3.3.165 R  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.165a R  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.166 R  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.167 R  |
+| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.168 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.169 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.170 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 2 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.171 R  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.172 R  |
+| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.173 R  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.174 R  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.175 R  |
+| Bij een tekort van 2 machinisten of 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.176 R  |
+| Bij een tekort van 3 machinisten of 3 matrozen motordrijver  | € 2400,–  | BVW 3.3.177 R  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.177a R  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.178 R  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.179 R  |
+| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.180 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.181 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.182 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 3 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.183 R  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.184 R  |
+| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.185 R  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.186 R  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.187 R  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.187a R  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.188 R  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.189 R  |
+| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.190 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.191 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.192 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 3 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.193 R  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.194 R  |
+| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.195 R  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.196 R  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.197 R  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.197a R  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.198 R  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.199 R  |
+| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.200 R  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.201 R  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.202 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
+| In de exploitatiewijze A1 en A2 met 1 matroos  | € 300,–  | BVW 3.3.283 R  |
+| In de exploitatiewijze B met 2 matrozen  | € 600,–  | BVW 3.3.284 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
+| In de exploitatiewijze A1 en A2 met 1 matroos  | € 600,–  | BVW 3.3.285 R  |
+| In de exploitatiewijze B met 2 matrozen  | € 1200,–  | BVW 3.3.286 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
+| In de exploitatiewijze B met 1 matroos  | € 300,–  | BVW 3.3.287 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
+| In de exploitatiewijze B met 1 matroos  | € 600,–  | BVW 3.3.288 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 2 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 3.14 lid 1 onder 1.1 Rsp – de desbetreffende bemanningsleden op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te vervangen:  | --- | --- |
+| In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 400,–  | BVW 3.3.289 R  |
+| In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 800,–  | BVW 3.3.290 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 2 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 3.14 lid 1 onder 1.1 Rsp – de desbetreffende bemanningsleden op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te vervangen:  | --- | --- |
+| In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 800,–  | BVW 3.3.291 R  |
+| In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.292 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.15, 3.16, 3.17 Rsp  Schipper  Stuurman / Machinist  Volmatr. / Matr. motordr.  Matroos  Lichtmatroos / Deksman  | Als *gezagvoerder* nalaten dat het/de bemanningslid / leden over de vereiste bekwaamheid beschikken.  (onder gekwalificeerd varen):  | 1 niveau  | € 150,–  | BVW 3.3.293 R  |
+| 2 niveaus  | € 350,–  | BVW 3.3.294 R  |
+| 3 niveaus  | € 550,–  | BVW 3.3.295 R  |
+| 4 niveaus  | € 700,–  | BVW 3.3.296 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.15, 3.16, 3.17 Rsp  1.Schipper  2.Stuurman / Machinist  3.Volmatr. / Matr. motordr.  4.Matroos  5.Lichtmatroos / Deksman  | Als *werkgever* nalaten dat het/de bemanningslid / leden over de vereiste bekwaamheid beschikken.  (onder gekwalificeerd varen):  | 1 niveau  | € 300,–  | BVW 3.3.297 R  |
+| 2 niveaus  | € 700,–  | BVW 3.3.298 R  |
+| 3 niveaus  | € 1100,–  | BVW 3.3.299 R  |
+| 4 niveaus  | € 1400,–  | BVW 3.3.300 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 2 Rsp  | Als *gezagvoerder* een zwangere vrouw, of kraamvrouw deel uit laten maken van de minimumbemanning gedurende ten minste 14 weken waarvan ten minste 6 weken voor en 7 weken na de bevalling  | € 100,–  | BVW 3.3.301 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 2 Rsp  | Als *werkgever* een zwangere vrouw, of kraamvrouw deel uit laten maken van de minimumbemanning gedurende ten minste 14 weken waarvan ten minste 6 weken voor en 7 weken na de bevalling  | € 200,–  | BVW 3.3.302 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo. 20.02 RosR 1995  | Als *gezagvoerder* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
+| dat er zich aan boord een persoon bevindt die houder is van een groot patent  | € 500,–  | BVW 3.3.303 R  |
+| na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de patenthouder is vervangen door een ander persoon die in het bezit is van een groot patent  | € 750,–  | BVW 3.3.304 R  |
+| dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 500,–  | BVW 3.3.305 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 20.02 RosR 1995  | Als *werkgever* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
+| dat er zich aan boord een persoon bevindt die houder is van een groot patent  | € 1000,–  | BVW 3.3.306 R  |
+| na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot patent  | € 1500,–  | BVW 3.3.307 R  |
+| dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 1000,–  | BVW 3.3.308 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 3.05 lid 6  | Als *gezagvoerder* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 360,–  | BVW 3.3.309 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 3.05 lid 6  | Als *werkgever* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 720,–  | BVW 3.3.310 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 22 lid 4 BVW jo. 5.1 BVR  | Als *gezagvoerder* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.311 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 22 lid 4 BVW jo. 5.1 BVR  | Als werkgever de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.312 R  |
+| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 4 BVW jo. 5.1 BVR  | Als bemanningslid de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.313 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als gezagvoerder de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.314 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als werkgever de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.315 R  |
+| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 5 BVW  | Als bemanningslid de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.316 R  |
+| 23 lid 1 BVW jo. 27 lid 2 BVB jo. 28 BVB  | Als gezagvoerder een binnenschip gebruiken zonder dat een bemanningslid over een geldige geneeskundige verklaring beschikt:  | --- | --- |
+| Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar  | € 250,–  | BVW 3.3.317 R  |
+| Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar  | € 250,–  | BVW 3.3.318 R  |
+| 23 lid 1 BVW jo. 27 lid 2 BVB jo 28 BVB  | Als werkgever een binnenschip gebruiken zonder dat een bemanningslid over een geldige geneeskundige verklaring beschikt:  | --- | --- |
+| Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar  | € 500,–  | BVW 3.3.319 R  |
+| Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar  | € 500,–  | BVW 3.3.320 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.11 lid 1 Rsp  | Als gezagvoerder nalaten dat bij exploitatiewijze A1 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 150,–  | BVW 3.3.321 R  |
+| Bij een tekort van 2 tot 3 uur  | € 300,–  | BVW 3.3.322 R  |
+| Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.323 R  |
+| Bij een tekort van 4 tot 5 uur  | € 600,–  | BVW 3.3.324 R  |
+| Bij een tekort van 5 tot 6 uur  | € 750,–  | BVW 3.3.325 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.11 lid 1 Rsp  | Als werkgever nalaten dat bij exploitatiewijze A1 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 300,–  | BVW 3.3.326 R  |
+| Bij een tekort van 2 tot 3 uur  | € 600,–  | BVW 3.3.327 R  |
+| Bij een tekort van 3 tot 4 uur  | € 900,–  | BVW 3.3.328 R  |
+| Bij een tekort van 4 tot 5 uur  | € 1200,–  | BVW 3.3.329 R  |
+| Bij een tekort van 5 tot 6 uur  | € 1500,–  | BVW 3.3.330 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.11 lid 2 Rsp  | Als gezagvoerder nalaten dat bij exploitatiewijze A2 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 150,–  | BVW 3.3.337 R  |
+| Bij een tekort van 2 tot 3 uur  | € 300,–  | BVW 3.3.338 R  |
+| Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.339 R  |
+| Bij een tekort van 4 tot 5 uur  | € 600,–  | BVW 3.3.340 R  |
+| Bij een tekort van 5 tot 6 uur  | € 750,–  | BVW 3.3.341 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.11 lid 3 Rsp  | Als gezagvoerder nalaten dat bij exploitatiewijze B ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur  | € 150,–  | BVW 3.3.347 R  |
+| Bij een tekort van 2 tot 3 uur  | € 300,–  | BVW 3.3.348 R  |
+| Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.349 R  |
+| Bij een tekort van 4 tot 5 uur  | € 600,–  | BVW 3.3.350 R  |
+| Bij een tekort van 5 tot 6 uur  | € 750,–  | BVW 3.3.351 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 3.19 Rsp  | Als gezagvoerder niet voldoen aan de door de Commissie van Deskundige vastgestelde minimumbemanning op overige vaartuigen anders dan de in artikel 3.15, 3.16 en 3.17 Rsp genoemde binnenschepen:  | --- | --- |
+| Bij het ontbreken van 1 bemanningslid  | € 300,–  | BVW 3.3.357 R  |
+| Bij het ontbreken van 2 bemanningsleden  | € 600,–  | BVW 3.3.358 R  |
+| Bij het ontbreken van 3 bemanningsleden  | € 900,–  | BVW 3.3.359 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 3.19 Rsp  | Als werkgever niet voldoen aan de door de Commissie van Deskundige vastgestelde minimumbemanning op overige vaartuigen anders dan de in artikel 3.15, 3.16 en 3.17 Rsp genoemde binnenschepen:  | --- | --- |
+| Bij het ontbreken van 1 bemanningslid  | € 600,–  | BVW 3.3.360 R  |
+| Bij het ontbreken van 2 bemanningsleden  | € 1200,–  | BVW 3.3.361 R  |
+| Bij het ontbreken van 3 bemanningsleden  | € 1800,–  | BVW 3.3.362 R  |
+|  *Rijn, Waal en Lek:: Hoofdstuk 4 paragraaf 1 BVW: Scheepsnummer*   |
+| 36 lid 4 BVW jo. 36 lid 2 onder a BVW  | Als *eigenaar* van een binnenschip niet binnen 2 weken na toekenning en kennisgeving van het scheepsnummer, dit scheepsnummer op het binnenschip aanbrengen  | € 150,-  | BVW 4.1.001 R  |
+| 36 lid 4 BVW jo. 36 lid 2 onder b BVW  | Als eigenaar niet binnen 2 weken kennis geven aan de minister van zodanige wijzigingen in omstandigheden van een binnenschip, die aanleiding geven tot wijziging van het scheepsnummer  | € 1250,–  | BVW 4.1.002 R  |
+| 36 lid 4 BVW jo. 30 lid 2 BVB gelet op 9.1 BVR  | Als eigenaar het registratienummer niet op het binnenschip aanbrengen overeenkomstig artikel 9.1 BVR  | € 150,–  | BVW 4.1.003 R  |
+|  *Rijn, Waal en Lek: Hoofdstuk 4 paragraaf 2 BVW: Gegevensverstrekking*   |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.05 lid 1 onder a Rsp  | Als *schipper* zijn bekwaamheid aan boord niet kunnen aantonen door middel van een patent overeenkomstig het Patentreglement Rijn  | € 300,–  | BVW 4.2.001 R  |
+| Als *werkgever* de bekwaamheid van de schipper aan boord niet kunnen aantonen door middel van een patent overeenkomstig het Patentreglement Rijn  | € 600,–  | BVW 4.2.002 R  |
+| Als *bemanningslid* zijn bekwaamheid aan boord niet kunnen aantonen door middel van het dienstboekje dan wel een patent overeenkomstig het Patentreglement Rijn  | € 150,–  | BVW 4.2.003 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 2 Rsp  | Als *gezagvoerder* bij de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1 deze verlenging niet kunnen aantonen met de registraties van een goed functionerende tachograaf  | € 400,–  | BVW 4.2.008 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 2 Rsp  | Als *werkgever* bij de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1 deze verlenging niet kunnen aantonen met de registraties van een goed functionerende tachograaf  | € 800,–  | BVW 4.2.009 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 7 Rsp  | Als *gezagvoerder* bij wisseling van exploitatiewijze niet de rusttijd van 8 onderscheidenlijk 6 uren kunnen aantonen met een verklaring als bedoeld in bijlage A4 van het Rsp of met een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden  | € 625,–  | BVW 4.2.010 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 7 Rsp  | Als *werkgever* bij wisseling van exploitatiewijze niet de rusttijd van 8 onderscheidenlijk 6 uren kunnen aantonen met een verklaring als bedoeld in bijlage A4 van het Rsp of met een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden  | € 1250,–  | BVW 4.2.011 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.06 lid 4 onder a en b Rsp  | Als *houder* het persoonlijke dienstboekje niet bij de eerste indiensttreding overhandigen aan de schipper  | € 150,–  | BVW 4.2.012 R  |
+| Als *houder* niet telkens binnen een periode van 12 maanden het persoonlijke dienstboekje overleggen aan en niet laten afstempelen door een plaatselijke bevoegde autoriteit  | € 125,–  | BVW 4.2.013 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.06 lid 6 Rsp  | Als *gezagvoerder* het dienstboekje niet regelmatig invullen  | € 125,–  | BVW 4.2.014 R  |
+| Als *gezagvoerder* het dienstboekje niet in het stuurhuis bewaren  | € 60,–  | BVW 4.2.015 R  |
+| Als *gezagvoerder* het dienstboekje niet op verzoek onverwijld teruggeven aan de houder  | € 150,–  | BVW 4.2.016 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.06 lid 6 Rsp  | Als *werkgever* het dienstboekje niet regelmatig invullen  | € 250,–  | BVW 4.2.017 R  |
+| Als *werkgever* het dienstboekje niet in het stuurhuis bewaren  | € 120,–  | BVW 4.2.018 R  |
+| Als *werkgever* het dienstboekje niet op verzoek onverwijld teruggeven aan de houder  | € 300,–  | BVW 4.2.019 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 1 Rsp  | Als *gezagvoerder* het vaartijdenboek niet aanwezig hebben in de stuurhut  | € 450,–  | BVW 4.2.020 R  |
+| Als *gezagvoerder* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek te hebben aangetekend  | € 100,–  | BVW 4.2.021 R  |
+| Als *gezagvoerder* zodra de vaart begint, dan wel de vaart wordt voorgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.022 R  |
+| Over een periode van 2 dag  | € 400,–  | BVW 4.2.023 R  |
+| Over een periode van 3 dag  | € 600,–  | BVW 4.2.024 R  |
+| Over een periode van 4 dag  | € 800,–  | BVW 4.2.025 R  |
+| Als *gezagvoerder* zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.026 R  |
+| Over een periode van 2 dag  | € 400,–  | BVW 4.2.027 R  |
+| Over een periode van 3 dag  | € 600,–  | BVW 4.2.028 R  |
+| Over een periode van 4 dag  | € 800,–  | BVW 4.2.029 R  |
+| Als *gezagvoerder* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 200,–  | BVW 4.2.030 R  |
+| Als *gezagvoerder* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld:  (Exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.031 R  |
+| Over een periode van 2 dag  | € 400,–  | BVW 4.2.032 R  |
+| Over een periode van 3 dag  | € 600,–  | BVW 4.2.033 R  |
+| Over een periode van 4 dag  | € 800,–  | BVW 4.2.034 R  |
 | Als *gezagvoerder* bij wisseling van bemanning telkens het tijdstip van aan en van boord gaan niet vermelden in kolom 12 en 13 van het vaartijdenboek  | €100,–  | BVW 4.2.035 R  |
-| Als *gezagvoerder* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 50,–  | BVW 4.2.036 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.08 lid 1 RosR 1995  | Als *werkgever* het vaartijdenboek niet aanwezig hebben in de stuurhut  | € 900,–  | BVW 4.2.037 R  |
-| Als *werkgever* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek te hebben aangetekend  | € 200,–  | BVW 4.2.038 R  |
-| Als *werkgever* zodra de vaart begint, dan wel de vaart wordt voorgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.039 R  |
-| Over een periode van 2 dag  | € 800,–  | BVW 4.2.040 R  |
-| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.041 R  |
-| Over een periode van 4 dagen of meer  | € 1600,–  | BVW 4.2.042 R  |
-| Als *werkgever* zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.043 R  |
-| Over een periode van 2 dag  | € 800,–  | BVW 4.2.044 R  |
-| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.045 R  |
-| Over een periode van 4 dagen of meer  | € 1600,–  | BVW 4.2.046 R  |
-| Als *werkgever* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 400,–  | BVW 4.2.047 R  |
-| Als *werkgever* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld:  (Exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.048 R  |
-| Over een periode van 2 dag  | € 800,–  | BVW 4.2.049 R  |
-| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.050 R  |
-| Over een periode van 4 dagen of meer  | € 1600,–  | BVW 4.2.051 R  |
-| Als *werkgever* bij wisseling van bemanning telkens het tijdstip van aan en van boord gaan niet vermelden in kolom 12 en 13 van het vaartijdenboek  | € 200,–  | BVW 4.2.052 R  |
-| Als *werkgever* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 100,–  | BVW 4.2.053 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.08 lid 2 RosR 1995  | Als *exploitant* het vaartijdenboek niet binnen 30 dagen ongeldig laten verklaren na afgifte van een nieuw vaartijdenboek  | € 50,–  | BVW 4.2.054 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.08 lid 3 RosR 1995  | Als *gezagvoerder* het ongeldig verklaard vaartijdenboek niet gedurende 6 maanden na de laatste aantekening aan boord bewaren  | € 270,–  | BVW 4.2.055 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.08 lid 3 RosR 1995  | Als *werkgever* het ongeldig verklaard vaartijdenboek niet gedurende 6 maanden na de laatste aantekening aan boord bewaren  | € 540,–  | BVW 4.2.056 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 23.08 lid 6 RosR 1995  | Een binnenschip *gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage K van het RosR 1995 of een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden voorhanden hebben  | € 500,–  | BVW 4.2.057 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 23.08 lid 6 RosR 1995  | Een binnenschip *doen gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage K van het RosR 1995 of een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden voorhanden hebben  | € 1000,–  | BVW 4.2.058 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.8 BVR jo. Bijlage H onderdeel B. 6 RosR 1995  | Een binnenschip *gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring (attest) ( Geldigheidsduur 5 jaar)  | € 500,–  | BVW 4.2.067 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.8 BVR jo. Bijlage H onderdeel B. 6 RosR 1995  | Een binnenschip *doen gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring (attest). (geldigheidsduur 5 jaar)  | € 1000,–  | BVW 4.2.068 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo.1.7 BVR jo. 23.08 lid 5 RosR 1995  | Als *gezagvoerder* de registratie tachograaf niet gedurende ten minste 6 maanden na laatste registratie aan boord bewaren  | € 270,–  | BVW 4.2.069 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.6 BVR jo. 1.7 BVR jo. 23.08 lid 5 RosR 1995  | Als *werkgever* de registratie tachograaf niet gedurende ten minste 6 maanden na laatste registratie aan boord bewaren  | € 540,–  | BVW 4.2.070 R  |
-| --- |  *Rijn, Waal en Lek*    *Hoofdstuk 5, paragraaf 1 BVW: Handhaving*   | --- | --- |
-| 43 lid 2 BVW jo. 2.7 BVR  | Als *houder* er geen zorg voor dragen dat bij het vervoer van goederen het bewijs van vakbekwaamheid ten kantore van de eigenaar of exploitant van het binnenschip of aan de hand van de gegevens uit het handelsregister kan worden gecontroleerd  | € 625,–  | BVW 5.1.001 R  |
-| 43 lid 2 BVW jo. 1.6 BVR jo. 23.08 lid 4 RosR 1995  | Als *gezagvoerder* de verklaring afgifte vaartijdenboek niet aan boord bewaren dan wel niet op verzoek tonen  | € 75,–  | BVW 5.1.002 R  |
-| 43 lid 2 BVW jo. 1.6 BVR jo. 23.08 lid 4 RosR 1995  | Als *werkgever* de verklaring afgifte vaartijdenboek niet aan boord bewaren dan wel niet op verzoek tonen  | € 150,–  | BVW 5.1.003 R  |
-| 43 lid 2 BVW jo. 1.8 BVR jo. Bijlage H onderdeel B. 7 RosR 1995  | Als *gezagvoerder* bij wekelijkse vaartijdverlenging in de A1 en bij het varen in de bloktijd A1 en A2 de gebruiksaanwijzing van de tachograaf niet aan boord bewaren  | € 250,–  | BVW 5.1.004 R  |
-| 43 lid 2 BVW jo. 1.8 BVR jo. Bijlage H onderdeel B. 7 RosR 1995  | Als *werkgever* bij wekelijkse vaartijdverlenging in de A1 en bij het varen in de bloktijd A1 en A2 de gebruiksaanwijzing van de tachograaf niet aan boord bewaren  | € 500,–  | BVW 5.1.005 R  |
-| 43 lid 2 BVW jo. 1.21 BVR  | Er geen zorg voor dragen dat bij het bedrijfsmatig vervoer van goederen of personen met een binnenschip de *Rijnvaartverklaring* aan boord van het schip waarvoor deze is afgegeven aanwezig is  | € 150,–  | BVW 5.1.006 R  |
-| Art. 46 lid 2 BVW jo. 46 lid 1 BVW  | Als *houder* niet op eerste vordering behoorlijk ter inzage afgeven van de bij of krachtens de Binnenvaartwet vereiste document(en):  | 1 document  | € 60,–  | BVW 5.1.010 R  |
-| 2 documenten  | € 120,–  | BVW 5.1.011 R  |
-| 3 documenten  | € 180,–  | BVW 5.1.012 R  |
-| 4 documenten  | € 240,–  | BVW 5.1.013 R  |
-| 5 documenten  | € 300,–  | BVW 5.1.014 R  |
-| 6 documenten  | € 360,–  | BVW 5.1.015 R  |
+| Als *gezagvoerder* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 50,–  | BVW 4.2.036 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 1 Rsp  | Als *werkgever* het vaartijdenboek niet aanwezig hebben in de stuurhut  | € 900,–  | BVW 4.2.037 R  |
+| Als *werkgever* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek te hebben aangetekend  | € 200,–  | BVW 4.2.038 R  |
+| Als *werkgever* zodra de vaart begint, dan wel de vaart wordt voorgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.039 R  |
+| Over een periode van 2 dag  | € 800,–  | BVW 4.2.040 R  |
+| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.041 R  |
+| Over een periode van 4 dag  | € 1600,–  | BVW 4.2.042 R  |
+| Als *werkgever* zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.043 R  |
+| Over een periode van 2 dag  | € 800,–  | BVW 4.2.044 R  |
+| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.045 R  |
+| Over een periode van 4 dag  | € 1600,–  | BVW 4.2.046 R  |
+| Als *werkgever* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 400,–  | BVW 4.2.047 R  |
+| Als *werkgever* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld:  (Exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.048 R  |
+| Over een periode van 2 dag  | € 800,–  | BVW 4.2.049 R  |
+| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.050 R  |
+| Over een periode van 4 dag  | € 1600,–  | BVW 4.2.051 R  |
+| Als *werkgever* bij wisseling van bemanning telkens het tijdstip van aan en van boord gaan niet vermelden in kolom 12 en 13 van het vaartijdenboek  | € 200,–  | BVW 4.2.052 R  |
+| Als *werkgever* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 100,–  | BVW 4.2.053 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 2 Rsp  | Als *eigenaar* het vaartijdenboek niet binnen 30 dagen ongeldig laten verklaren na afgifte van een nieuw vaartijdenboek  | € 50,–  | BVW 4.2.054 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 3 Rsp  | Als *gezagvoerder* het ongeldig verklaard vaartijdenboek niet gedurende 6 maanden na de laatste aantekening aan boord bewaren  | € 270,–  | BVW 4.2.055 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 3 Rsp  | Als *werkgever* het ongeldig verklaard vaartijdenboek niet gedurende 6 maanden na de laatste aantekening aan boord bewaren  | € 540,–  | BVW 4.2.056 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo 3.13 lid 6 Rsp  | Een binnenschip *gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage A4 van het Rsp of een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden voorhanden hebben  | € 500,–  | BVW 4.2.057 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo 3.13 lid 6 Rsp  | Een binnenschip *doen gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage A4 van het Rspof een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden voorhanden hebben  | € 1000,–  | BVW 4.2.058 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.8 BVR jo. Bijlage A3 onderdeel B. punt 6 Rsp  | Een binnenschip *gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring ( Geldigheidsduur 5 jaar)  | € 500,–  | BVW 4.2.067 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.8 BVR jo. Bijlage A3 onderdeel B. punt 6 Rsp  | Een binnenschip *doen gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring. (Geldigheidsduur 5 jaar)  | € 1000,–  | BVW 4.2.068 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo.1.7 BVR jo. 3.13 lid 5 Rsp  | Als *gezagvoerder* de registratie tachograaf niet gedurende ten minste 6 maanden na laatste registratie aan boord bewaren  | € 270,–  | BVW 4.2.069 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo.1.7 BVR jo. 3.13 lid 5 Rsp  | Als *werkgever* de registratie tachograaf niet gedurende ten minste 6 maanden na laatste registratie aan boord bewaren  | € 540,–  | BVW 4.2.070 R  |
+|  *Rijn, Waal en lek: Hoofdstuk 5 paragraaf 1 BVW: Handhaving*   |
+| 43 lid 2 BVW jo. 2.7 BVR  | Als *houder* er geen zorg voor dragen dat bij het vervoer van goederen het bewijs van vakbekwaamheid ten kantore van de eigenaar of exploitant van het binnenschip of aan de hand van de gegevens uit het handelsregister kan worden gecontroleerd  | € 625,–  | BVW 5.1.001 R  |
+| 43 lid 2 BVW jo. 1.9 BVR jo. 3.13 lid 4 Rsp  | Als *gezagvoerder* de verklaring afgifte vaartijdenboek niet aan boord bewaren dan wel niet op verzoek tonen  | € 75,–  | BVW 5.1.002 R  |
+| 43 lid 2 BVW jo. 1.9 BVR jo. 3.13 lid 4 Rsp  | Als *werkgever* de verklaring afgifte vaartijdenboek niet aan boord bewaren dan wel niet op verzoek tonen  | € 150,–  | BVW 5.1.003 R  |
+| 43 lid 2 BVW jo. 1.8 BVR jo. Bijlage A3 onderdeel B punt 7 Rsp  | Als *gezagvoerder* bij wekelijkse vaartijdverlenging in de A1 en bij het varen in de bloktijd A1 en A2 de gebruiksaanwijzing van de tachograaf niet aan boord bewaren  | € 250,–  | BVW 5.1.004 R  |
+| 43 lid 2 BVW jo. 1.8 BVR jo. Bijlage A3 onderdeel B punt 7 Rsp  | Als *werkgever* bij wekelijkse vaartijdverlenging in de A1 en bij het varen in de bloktijd A1 en A2 de gebruiksaanwijzing van de tachograaf niet aan boord bewaren  | € 500,–  | BVW 5.1.005 R  |
+| 43 lid 2 BVW jo. 1.21 BVR  | Er geen zorg voor dragen dat bij het bedrijfsmatig vervoer van goederen of personen met een binnenschip de *Rijnvaartverklaring* aan boord van het schip waarvoor deze is afgegeven aanwezig is  | € 150,–  | BVW 5.1.006 R  |
+| Art. 46 lid 2 BVW jo. 46 lid 1 BVW  | Als *houder* niet op eerste vordering behoorlijk ter inzage afgeven van de bij of krachtens de Binnenvaartwet vereiste document(en):  | 1 document  | € 60,–  | BVW 5.1.010 R  |
+| 2 documenten  | € 120,–  | BVW 5.1.011 R  |
+| 3 documenten  | € 180,–  | BVW 5.1.012 R  |
+| 4 documenten  | € 240,–  | BVW 5.1.013 R  |
+| 5 documenten  | € 300,–  | BVW 5.1.014 R  |
+| 6 documenten  | € 360,–  | BVW 5.1.015 R  |
 
-| Bijlage 11.1 Tabel 1B. Overige wateren (niet-aktewateren)  | Artikelen in: Binnenvaartwet (BVW) Binnenvaartbesluit (BVB) Binnenvaartregeling (BVR) Reglement onderzoek schepen op de Rijn 1995 (RosR 1995) Patentenreglement Rijn (PR)  | Overtreding  | Bestuurlijke boete  | Feitcode  |
-|:---|:---|:---|:---|:---|
-| --- |  *Hoofdstuk 2 BVW: Toegang tot de markt*   | --- | --- |
-| 5 lid 1 BVW jo. 2 lid 2 onder a BVB en 5 BVB jo. 8.1 BVR  | Als *eigenaar* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring.  | € 1250,–  | BVW 2.0.001 O  |
-| 5 lid 1 BVW jo. 2 lid 2 onder a BVB en 5 BVB jo. 8.1 BVR  | Als *exploitant* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring.  | € 1250,–  | BVW 2.0.002 O  |
-| 5 lid 1 BVW jo. 2 lid 2 onder b BVB en 5 BVB jo. 8.3 BVR  | Als *vervoersondernemer* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldig) bewijs van toelating.  | € 1250,–  | BVW 2.0.003 O  |
-| 5 lid 1 BVW jo. 2 lid 2 onder c BVB jo. 8.4 BVR  | Als *vervoerder* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een geëigend document.  | € 625,–  | BVW 2.0.004 O  |
-| 6 lid 1 BVW jo. 2.2 BVR  | Aan de *onderneming* die bedrijfsmatig goederenvervoer verricht (geen eigen vervoer) is geen persoon verbonden aan wie een bewijs van vakbekwaamheid is afgegeven.  | € 1250,–  | BVW 2.0.005 O  |
-| 6 lid 1 BVW  | De aan de *onderneming* verbonden vakbekwame persoon geeft niet daadwerkelijk en bij voortduring leiding aan de vervoersactiviteit van die onderneming.  | € 1250,–  | BVW 2.0.006 O  |
-| 6 lid 6 BVW jo. 6 lid 2 BVW  | Als *onderneming* handelen in strijd met de aan de vrijstelling verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.007 O  |
-| 6 lid 6 BVW jo. 6 lid 5 BVW  | Als *onderneming* handelen in strijd met de aan de ontheffing verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.008 O  |
-| --- |  *Overige wateren*    *Hoofdstuk 3 paragraaf 1 BVW: Certificaat van Onderzoek*   | --- | --- |
-| 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip *gebruiken* zonder het vereiste geldig certificaat van onderzoek.  | € 1250,–  | BVW 3.1.001 O  |
-| 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip *doen gebruiken* zonder het vereiste geldig certificaat van onderzoek.  | € 1250,–  | BVW 3.1.002 O  |
-|  *Richtlijn 2006/87/EG*   Technische eisen voor binnenschepen op de *zone 2, 3 en 4* gelet op bijlage II van de Richtlijn van het Europees Parlement en de Raad van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn 82/714/EEG van de Raad.  (let op bij het vaststellen van een beboetbaar feit op de NVO bepalingen genoemd in hoofdstuk 24a van deze Richtlijn)  |
-| 8 lid 3 BVW jo. 3.2 lid 1 BVR jo. Bijlage II van Richtlijn 2006/87/EG  | Een binnenvaartschip *gebruiken* in strijd met de technische voorschriften genoemd in Bijlage II van Richtlijn 2006/87/EG.  | Max. € 500,–  | BVW 3.1.003 O  |
-| 8 lid 3 BVW jo. 3.2 lid 1 BVR jo. Bijlage II van Richtlijn 2006/87/EG  | Een binnenvaartschip *doen gebruiken* in strijd met de technische voorschriften genoemd in Bijlage II van Richtlijn 2006/87/EG.  | Max. € 1.000,–  | BVW 3.1.004 O  |
+Tabel 1B. Overige wateren (niet- aktewateren) 
+
+| Artikelen in: Binnenvaartwet (BVW) Binnenvaartbesluit (BVB) Binnenvaartregeling (BVR) Reglement onderzoek schepen op de Rijn 1995 (RosR 1995) Reglement betreffende het scheepvaartpersoneel op de Rijn (Rsp)  | Overtreding  | Bestuurlijke boete  | Feitcode  |
+|:---|:---|:---|:---|
+|  *Overige wateren: Hoofdstuk 2 BVW: Toegang tot de markt*   |
+| 5 lid 1 BVW jo. 2 lid 2 onder a BVB en 5 BVB jo. 8.1 BVR  | Als *eigenaar* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring.  | € 1250,–  | BVW 2.0.001 O  |
+| 5 lid 1 BVW jo. 2 lid 2 onder a BVB en 5 BVB jo. 8.1 BVR  | Als *exploitant* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring.  | € 1250,–  | BVW 2.0.002 O  |
+| 5 lid 1 BVW jo. 2 lid 2 onder b BVB en 5 BVB jo. 8.3 BVR  | Als *vervoersondernemer* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldig) bewijs van toelating.  | € 1250,–  | BVW 2.0.003 O  |
+| 5 lid 1 BVW jo. 2 lid 2 onder c BVB jo. 8.4 BVR  | Als *vervoerder* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een geëigend document.  | € 625,–  | BVW 2.0.004 O  |
+| 6 lid 1 BVW jo. 2.2 BVR  | Aan de *onderneming* die bedrijfsmatig goederenvervoer verricht (geen eigen vervoer) is geen persoon verbonden aan wie een bewijs van vakbekwaamheid is afgegeven.  | € 1250,–  | BVW 2.0.005 O  |
+| 6 lid 1 BVW  | De aan de *onderneming* verbonden vakbekwame persoon geeft niet daadwerkelijk en bij voortduring leiding aan de vervoersactiviteit van die onderneming.  | € 1250,–  | BVW 2.0.006 O  |
+| 6 lid 6 BVW jo. 6 lid 2 BVW  | Als *onderneming* handelen in strijd met de aan de vrijstelling verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.007 O  |
+| 6 lid 6 BVW jo. 6 lid 5 BVW  | Als *onderneming* handelen in strijd met de aan de ontheffing verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.008 O  |
+|  *Overige wateren: Hoofdstuk 3 paragraaf 1 BVW: certificaat van onderzoek*   |
+| 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip gebruiken zonder het vereiste geldig certificaat van onderzoek.  | € 1250,–  | BVW 3.1.001 O  |
+| 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip doen gebruiken zonder het vereiste geldig certificaat van onderzoek.  | € 1250,–  | BVW 3.1.002 O  |
+|  *Richtlijn 2006/87/EG*   Technische eisen voor binnenschepen op de zone *2, 3 en 4* gelet op bijlage II van de Richtlijn van het Europees Parlement en de Raad van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn 82/714/EEG van de Raad .  (let op bij het vaststellen van een beboetbaar feit op de NVO bepalingen genoemd in hoofdstuk 24a van deze Richtlijn)  |
+| 8 lid 3 BVW jo. 3.2 lid 1 BVR jo. Bijlage II van Richtlijn 2006/87/EG  | Een binnenvaartschip *gebruiken* in strijd met de technische voorschriften genoemd in Bijlage II van Richtlijn 2006/87/EG.  | Max. € 500,–  | BVW 3.1.003 O  |
+| 8 lid 3 BVW jo. 3.2 lid 1 BVR jo. Bijlage II van Richtlijn 2006/87/EG  | Een binnenvaartschip *doen gebruiken* in strijd met de technische voorschriften genoemd in Bijlage II van Richtlijn 2006/87/EG.  | Max. € 1.000,–  | BVW 3.1.004 O  |
 |  *Bijlage 3.1 Binnenvaartregeling*   Aanvullende voorschriften voor *passagiersschepen* op de *zone 2* als bedoeld in artikel 3.3 van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.3 BVR jo. bijlage 3.1 BVR  | Een passagiersschip *gebruiken* op de zone 2 in strijd met de technische voorschriften genoemd in bijlage 3.1 BVR.  | Max. € 500,–  | BVW 3.1.005 O  |
-| 8 lid 3 BVW jo. 3.3 BVR jo. bijlage 3.1 BVR  | Een passagiersschip *doen gebruiken* op de zone 2 in strijd met de technische voorschriften genoemd in bijlage 3.1 BVR.  | Max. € 1.000,–  | BVW 3.1.006 O  |
+| 8 lid 3 BVW jo. 3.3 BVR jo. bijlage 3.1 BVR  | Een passagiersschip *gebruiken* op de zone 2 in strijd met de technische voorschriften genoemd in bijlage 3.1 BVR.  | Max. € 500,–  | BVW 3.1.005 O  |
+| 8 lid 3 BVW jo. 3.3 BVR jo. bijlage 3.1 BVR  | Een passagiersschip *doen gebruiken* op de zone 2 in strijd met de technische voorschriften genoemd in bijlage 3.1 BVR.  | Max. € 1.000,–  | BVW 3.1.006 O  |
 |  *Bijlage 3.2 Binnenvaartregeling*   Technische eisen voor *Amsterdamse dekschuiten* als bedoeld in artikel 3.4, onderdeel a van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.4 onderdeel a BVR jo. bijlage 3.2 BVR  | Een Amsterdamse dekschuit *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.2 BVR.  | Max. € 250,–  | BVW 3.1.007 O  |
-| 8 lid 3 BVW jo. 3.4 onderdeel a BVR jo. bijlage 3.2 BVR  | Een Amsterdamse dekschuit *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.2 BVR.  | Max. € 500,–  | BVW 3.1.008 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel a BVR jo. bijlage 3.2 BVR  | Een Amsterdamse dekschuit *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.2 BVR.  | Max. € 250,–  | BVW 3.1.007 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel a BVR jo. bijlage 3.2 BVR  | Een Amsterdamse dekschuit *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.2 BVR.  | Max. € 500,–  | BVW 3.1.008 O  |
 |  *Bijlage 3.3 Binnenvaartregeling*   Technische eisen voor *rondvaartboten van het Amsterdamse grachtentype* als bedoeld in artikel 3.4, onderdeel b van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.4 onderdeel b BVR jo. bijlage 3.3 BVR  | Een rondvaartboot van het Amsterdamse grachtentype *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.3 BVR.  | Max. € 500,–  | BVW 3.1.009 O  |
-| 8 lid 3 BVW jo. 3.4 onderdeel b BVR jo. bijlage 3.3 BVR  | Een rondvaartboot van het Amsterdamse grachtentype *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.3 BVR.  | Max. € 1000,–  | BVW 3.1.010 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel b BVR jo. bijlage 3.3 BVR  | Een rondvaartboot van het Amsterdamse grachtentype *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.3 BVR.  | Max. € 500,–  | BVW 3.1.009 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel b BVR jo. bijlage 3.3 BVR  | Een rondvaartboot van het Amsterdamse grachtentype *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.3 BVR.  | Max. € 1000,–  | BVW 3.1.010 O  |
 |  *Bijlage 3.4 Binnenvaartregeling*   Technische eisen voor *open rondvaartboten* als bedoeld in artikel 3.4, onderdeel c van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.4 onderdeel c BVR jo. bijlage 3.4 BVR  | Een open rondvaartboot *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.4 BVR.  | Max. € 500,–  | BVW 3.1.011 O  |
-| 8 lid 3 BVW jo. 3.4 onderdeel c BVR jo. bijlage 3.4 BVR  | Een open rondvaartboot *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.4 BVR.  | Max. € 1000,–  | BVW 3.1.012 O  |
-|  *Bijlage 3.5 Binnenvaartregeling*   Technische eisen voor *skûtsjes* als bedoeld in artikel 3.4, onderdeel d van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.4 onderdeel d BVR jo. bijlage 3.5 BVR  | Een skûtsje *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.5 BVR.  | Max. € 500,–  | BVW 3.1.013 O  |
-| 8 lid 3 BVW jo. 3.4 onderdeel d BVR jo. bijlage 3.5 BVR  | Een skûtsje *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.5 BVR.  | Max. € 1000,–  | BVW 3.1.014 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel c BVR jo. bijlage 3.4 BVR  | Een open rondvaartboot *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.4 BVR.  | Max. € 500,–  | BVW 3.1.011 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel c BVR jo. bijlage 3.4 BVR  | Een open rondvaartboot *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.4 BVR.  | Max. € 1000,–  | BVW 3.1.012 O  |
+|  *Bijlage 3.5 Binnenvaartregeling*   Technische eisen voor *skûtsjes* als bedoeld in artikel 3.4, onderdeel d van de Binnenvaartregeling  |
+| 8 lid 3 BVW jo. 3.4 onderdeel d BVR jo. bijlage 3.5 BVR  | Een skûtsje *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.5 BVR.  | Max. € 500,–  | BVW 3.1.013 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel d BVR jo. bijlage 3.5 BVR  | Een skûtsje *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.5 BVR.  | Max. € 1000,–  | BVW 3.1.014 O  |
 |  *Bijlage 3.6 Binnenvaartregeling*   Technische eisen voor *veerponten* als bedoeld in artikel 3.4, onderdeel e van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.4 onderdeel e BVR jo. bijlage 3.6 BVR  | Een veerpont *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.6 BVR.  | Max. € 500,–  | BVW 3.1.015 O  |
-| 8 lid 3 BVW jo. 3.4 onderdeel e BVR jo. bijlage 3.6 BVR  | Een veerpont *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.6 BVR.  | Max. € 1000,–  | BVW 3.1.016 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel e BVR jo. bijlage 3.6 BVR  | Een veerpont *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.6 BVR.  | Max. € 500,–  | BVW 3.1.015 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel e BVR jo. bijlage 3.6 BVR  | Een veerpont *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.6 BVR.  | Max. € 1000,–  | BVW 3.1.016 O  |
 |  *Bijlage 3.7 Binnenvaartregeling*   Technische eisen voor *veerboten* als bedoeld in artikel 3.4, onderdeel f van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.4 onderdeel f BVR jo. bijlage 3.7 BVR  | Een veerboot *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.7 BVR.  | Max. € 500,–  | BVW 3.1.017 O  |
-| 8 lid 3 BVW jo. 3.4 onderdeel f BVR jo. bijlage 3.7 BVR  | Een veeboot *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.7 BVR.  | Max. € 1000,–  | BVW 3.1.018 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel f BVR jo. bijlage 3.7 BVR  | Een veerboot *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.7 BVR.  | Max. € 500,–  | BVW 3.1.017 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel f BVR jo. bijlage 3.7 BVR  | Een veerboot *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.7 BVR.  | Max. € 1000,–  | BVW 3.1.018 O  |
 |  *Bijlage 3.8 Binnenvaartregeling*   Technische eisen voor *bunkerstations* als bedoeld in artikel 3.4, onderdeel g van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.4 onderdeel g BVR jo. bijlage 3.8 BVR  | Een bunkerstation *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.8 BVR.  | Max. € 500,–  | BVW 3.1.019 O  |
-| 8 lid 3 BVW jo. 3.4 onderdeel g BVR jo. bijlage 3.8 BVR  | Een bunkerstation *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.8 BVR.  | Max. € 1000,–  | BVW 3.1.020 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel g BVR jo. bijlage 3.8 BVR  | Een bunkerstation *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.8 BVR.  | Max. € 500,–  | BVW 3.1.019 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel g BVR jo. bijlage 3.8 BVR  | Een bunkerstation *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.8 BVR.  | Max. € 1000,–  | BVW 3.1.020 O  |
 |  *Bijlage 3.9 Binnenvaartregeling*   Technische eisen voor *patrouillevaartuigen* als bedoeld in artikel 3.4, onderdeel h van de Binnenvaartregeling.  |
-| 8 lid 3 BVW jo. 3.4 onderdeel h BVR jo. bijlage 3.9 BVR  | Een patrouillevaartuig *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.9 BVR.  | Max. € 500,–  | BVW 3.1.021 O  |
-| 8 lid 3 BVW jo. 3.4 onderdeel h BVR jo. bijlage 3.9 BVR  | Een patrouillevaartuig *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.9 BVR.  | Max. € 1000,–  | BVW 3.1.022 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel h BVR jo. bijlage 3.9 BVR  | Een patrouillevaartuig *gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.9 BVR.  | Max. € 500,–  | BVW 3.1.021 O  |
+| 8 lid 3 BVW jo. 3.4 onderdeel h BVR jo. bijlage 3.9 BVR  | Een patrouillevaartuig *doen gebruiken* in strijd met de technische voorschriften genoemd in bijlage 3.9 BVR.  | Max. € 1000,–  | BVW 3.1.022 O  |
 |  *Richtlijn 2006/87/EG*   Technische eisen voor binnenschepen op de *zone R* gelet op bijlage II van de Richtlijn van het Europees Parlement en de Raad van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn 82/714/EEG van de Raad.  (let op bij het vaststellen van een beboetbaar feit op de NVO bepalingen genoemd in hoofdstuk 24 van deze Richtlijn)  |
-| 8 lid 3 BVW jo. 3.5 lid 1 BVR jo. Bijlage II van Richtlijn 2006/87/EG  | Een binnenvaartschip *gebruiken* in strijd met de technische voorschriften genoemd in Bijlage II van Richtlijn 2006/87/EG.  | Max. € 500,–  | BVW 3.1.023 O  |
-| 8 lid 3 BVW jo. 3.5 lid 1 BVR jo. Bijlage II van Richtlijn 2006/87/EG  | Een binnenvaartschip *doen gebruiken* in strijd met de technische voorschriften genoemd in Bijlage II van Richtlijn 2006/87/EG.  | Max. € 1.000,–  | BVW 3.1.024 O  |
-| 10 lid 2 BVW  | Binnenschip *gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek.  | Max. € 500,–  | BVW 3.1.025 O  |
-| 10 lid 2 BVW  | Binnenschip *doen gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek.  | Max. € 1000,–  | BVW 3.1.026 O  |
-| Artikel 11 BVW  | Als *eigenaar* een binnenschip gebruiken zonder dat Onze Minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom.  | € 250,–  | BVW 3.1.027 O  |
-| Artikel 11 BVW  | Als *gezagvoerder* een binnenschip gebruiken zonder dat Onze Minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom.  | € 250,–  | BVW 3.1.028 O  |
-| Artikel 12 BVW  | Een binnenschip *gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek.  | Max. € 500,–  | BVW 3.1.029 O  |
-| Artikel 12 BVW  | Een binnenschip *doen gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek.  | Max. € 1000,–  | BVW 3.1.030 O  |
-| Artikel 13 lid 4 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden.  | € 500,–  | BVW 3.1.031 O  |
-| Artikel 13 lid 4 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden.  | € 1000,–  | BVW 3.1.032 O  |
-| --- |  *Overige wateren*    *Hoofdstuk 3 paragraaf 2 BVW: Scheepsmeting*   | --- | --- |
-| 21 lid 1 BVW jo. 4.16 BVR  | Een binnenschip *gebruiken* zonder geldige meetbrief.  | € 500,–  | BVW 3.2.001 O  |
-| 21 lid 1 BVW jo. 4.16 BVR  | Een binnenschip *doen gebruiken* zonder geldige meetbrief.  | € 1000,–  | BVW 3.2.002 O  |
-| --- |  *Overige wateren*    *Hoofdstuk 3 paragraaf 3 BVW: Bemanning*   | --- | --- |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.4 lid 1 BVR jo. 23.05 lid 2 RosR 1995  | Als *gezagvoerder* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur.  | € 500,–  | BVW 3.3.001 O  |
-| 22 lid 9 BVW jo 22 lid 7 onder a BVW jo. 5.4 lid 1 BVR jo. 23.05 lid 2 RosR 1995  | Als *werkgever* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur.  | € 1000,–  | BVW 3.3.002 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 23.05 lid 3 RosR 1995  | Als *gezagvoerder* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 120,–  | BVW 3.3.003 O  |
-| Bij een periode van 2 tot 3 uur.  | € 180,–  | BVW 3.3.004 O  |
-| Bij een periode van 3 tot 4 uur.  | € 270,–  | BVW 3.3.005 O  |
-| Bij een periode van 4 tot 5 uur.  | € 400,–  | BVW 3.3.006 O  |
-| Bij een periode van 5 tot 6 uur.  | € 600,–  | BVW 3.3.007 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 23.05 lid 3 RosR 1995  | Als *werkgever* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 240,–  | BVW 3.3.008 O  |
-| Bij een periode van 2 tot 3 uur.  | € 360,–  | BVW 3.3.009 O  |
-| Bij een periode van 3 tot 4 uur.  | € 540,–  | BVW 3.3.010 O  |
-| Bij een periode van 4 tot 5 uur.  | € 800,–  | BVW 3.3.011 O  |
-| Bij een periode van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.012 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.4 lid 1 BVR jo. 23.05 lid 3 RosR 1995  | Als *bemanningslid* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 60,–  | BVW 3.3.013 O  |
-| Bij een periode van 2 tot 3 uur.  | € 90,–  | BVW 3.3.014 O  |
-| Bij een periode van 3 tot 4 uur.  | € 135,–  | BVW 3.3.015 O  |
-| Bij een periode van 4 tot 5 uur.  | € 200,–  | BVW 3.3.016 O  |
-| Bij een periode van 5 tot 6 uur.  | € 300,–  | BVW 3.3.017 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 23.05 lid 3 RosR 1995  | Als *gezagvoerder* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 120,–  | BVW 3.3.018 O  |
-| Bij een periode van 2 tot 3 uur.  | € 180,–  | BVW 3.3.019 O  |
-| Bij een periode van 3 tot 4 uur.  | € 270,–  | BVW 3.3.020 O  |
-| Bij een periode van 4 tot 5 uur.  | € 400,–  | BVW 3.3.021 O  |
-| Bij een periode van 5 tot 6 uur.  | € 600,–  | BVW 3.3.022 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 23.05 lid 3 RosR 1995  | Als *werkgever* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 240,–  | BVW 3.3.023 O  |
-| Bij een periode van 2 tot 3 uur.  | € 360,–  | BVW 3.3.024 O  |
-| Bij een periode van 3 tot 4 uur.  | € 540,–  | BVW 3.3.025 O  |
-| Bij een periode van 4 tot 5 uur.  | € 800,–  | BVW 3.3.026 O  |
-| Bij een periode van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.027 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.4 lid 1 BVR jo. 23.05 lid 3 RosR 1995  | Als *bemanningslid* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 60,–  | BVW 3.3.028 O  |
-| Bij een periode van 2 tot 3 uur.  | € 90,–  | BVW 3.3.029 O  |
-| Bij een periode van 3 tot 4 uur.  | € 135,–  | BVW 3.3.030 O  |
-| Bij een periode van 4 tot 5 uur.  | € 200,–  | BVW 3.3.031 O  |
-| Bij een periode van 5 tot 6 uur.  | € 300,–  | BVW 3.3.032 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.033 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.034 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 270,–  | BVW 3.3.035 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 400,–  | BVW 3.3.036 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 600,–  | BVW 3.3.037 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 240,–  | BVW 3.3.038 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 360,–  | BVW 3.3.039 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.040 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.041 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.042 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.043 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.044 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.045 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.046 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.047 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 23.07 lid 3 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.048 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.049 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 270,–  | BVW 3.3.050 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 400,–  | BVW 3.3.051 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 600,–  | BVW 3.3.052 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 23.07 lid 3 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 240,–  | BVW 3.3.053 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 360,–  | BVW 3.3.054 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.055 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.056 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.057 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 23.07 lid 3 onder b RosR 1995  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.058 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.059 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.060 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.061 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.062 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 23.07 lid 4 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.063 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.064 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 270,–  | BVW 3.3.065 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 400,–  | BVW 3.3.066 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 600,–  | BVW 3.3.067 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 23.07 lid 4 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 240,–  | BVW 3.3.068 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 360,–  | BVW 3.3.069 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.070 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.071 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.072 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 23.07 lid 4 onder b RosR 1995  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.073 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.074 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.075 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.076 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.077 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 23.07 lid 5 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.078 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.0479 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 270,–  | BVW 3.3.080 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 400,–  | BVW 3.3.081 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 600,–  | BVW 3.3.082 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 23.07 lid 5 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 240,–  | BVW 3.3.083 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 360,–  | BVW 3.3.084 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.085 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.086 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.087 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 23.07 lid 5 onder b RosR 1995  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.088 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.089 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.090 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.091 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.092 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.093 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 23.07 lid 2 onder b RosR 1995  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.094 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 23.07 lid 5 onder b RosR 1995  | As *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.095 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 23.07 lid 5 onder b RosR 1995  | As *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.0696 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 1 BVR jo. 23.10 lid 1 RosR 1995.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op de in artikel 5.6 lid 1 BVR genoemde categorieën van schepen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.097 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.098 O  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.099 O  |
-| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 450,–  | BVW 3.3.100 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.101 O  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.102 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.103 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.104 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 1 BVR jo. 23.10 lid 1 RosR 1995.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op de in artikel 5.6 lid 1 BVR genoemde categorieën van schepen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.105 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.106 O  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.107 O  |
-| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 900,–  | BVW 3.3.108 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.109 O  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.110 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.111 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.112 O  |
+| 8 lid 3 BVW jo. 3.5 lid 1 BVR jo. Bijlage II van Richtlijn 2006/87/EG  | Een binnenvaartschip *gebruiken* in strijd met de technische voorschriften genoemd in Bijlage II van Richtlijn 2006/87/EG.  | Max. € 500,–  | BVW 3.1.023 O  |
+| 8 lid 3 BVW jo. 3.5 lid 1 BVR jo. Bijlage II van Richtlijn 2006/87/EG  | Een binnenvaartschip *doen gebruiken* in strijd met de technische voorschriften genoemd in Bijlage II van Richtlijn 2006/87/EG.  | Max. € 1000,–  | BVW 3.1.024 O  |
+| 10 lid 2 BVW  | Binnenschip *gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek.  | Max. € 500,–  | BVW 3.1.025 O  |
+| 10 lid 2 BVW  | Binnenschip *doen gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek.  | Max. € 1000,–  | BVW 3.1.026 O  |
+| Artikel 11 BVW  | Als *eigenaar* een binnenschip gebruiken zonder dat de minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom.  | € 250,–  | BVW 3.1.027 O  |
+| Artikel 11 BVW  | Als *gezagvoerder* een binnenschip gebruiken zonder dat de minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom.  | € 250,–  | BVW 3.1.028 O  |
+| Artikel 12 BVW  | Een binnenschip *gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek.  | Max. € 500,–  | BVW 3.1.029 O  |
+| Artikel 12 BVW  | Een binnenschip *doen gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek.  | Max. € 1000,–  | BVW 3.1.030 O  |
+| Artikel 13 lid 4 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden.  | Max. € 500,–  | BVW 3.1.031 O  |
+| Artikel 13 lid 4 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden.  | Max. € 1000,–  | BVW 3.1.032 O  |
+|  *Overige wateren: hoofdstuk 3 paragraaf 2 BVW: Scheepsmeting*   |
+| 21 lid 1 BVW jo. 4.16 BVR  | Een binnenschip *gebruiken* zonder geldige meetbrief.  | € 500,–  | BVW 3.2.001 O  |
+| 21 lid 1 BVW jo. 4.16 BVR  | Een binnenschip *doen gebruiken* zonder geldige meetbrief.  | € 1000,–  | BVW 3.2.002 O  |
+|  *Overige wateren: hoofdstuk 3 paragraaf 3 BVW: Bemanning*   |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 2 Rsp  | Als *gezagvoerder* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur.  | € 500,–  | BVW 3.3.001 O  |
+| 22 lid 9 BVW jo 22 lid 7 onder a BVW jo. 5.4 lid 1 BVR jo. 3.10 Rsp  | Als *werkgever* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur.  | € 1000,–-  | BVW 3.3.002 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur.  | € 120,–  | BVW 3.3.003 O  |
+| Bij een periode van 2 tot 3 uur.  | € 180,–  | BVW 3.3.004 O  |
+| Bij een periode van 3 tot 4 uur.  | € 270,–  | BVW 3.3.005 O  |
+| Bij een periode van 4 tot 5 uur.  | € 400,–  | BVW 3.3.006 O  |
+| Bij een periode van 5 tot 6 uur.  | € 600,–  | BVW 3.3.007 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur.  | € 240,–  | BVW 3.3.008 O  |
+| Bij een periode van 2 tot 3 uur.  | € 360,–  | BVW 3.3.009 O  |
+| Bij een periode van 3 tot 4 uur.  | € 540,–  | BVW 3.3.010 O  |
+| Bij een periode van 4 tot 5 uur.  | € 800,–  | BVW 3.3.011 O  |
+| Bij een periode van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.012 O  |
+| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *bemanningslid* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur.  | € 60,–  | BVW 3.3.013 O  |
+| Bij een periode van 2 tot 3 uur.  | € 90,–  | BVW 3.3.014 O  |
+| Bij een periode van 3 tot 4 uur.  | € 135,–  | BVW 3.3.015 O  |
+| Bij een periode van 4 tot 5 uur.  | € 200,–  | BVW 3.3.016 O  |
+| Bij een periode van 5 tot 6 uur.  | € 300,–  | BVW 3.3.017 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur.  | € 120,–  | BVW 3.3.018 O  |
+| Bij een periode van 2 tot 3 uur.  | € 180,–  | BVW 3.3.019 O  |
+| Bij een periode van 3 tot 4 uur.  | € 270,–  | BVW 3.3.020 O  |
+| Bij een periode van 4 tot 5 uur.  | € 400,–  | BVW 3.3.021 O  |
+| Bij een periode van 5 tot 6 uur.  | € 600,–  | BVW 3.3.022 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur.  | € 240,–  | BVW 3.3.023 O  |
+| Bij een periode van 2 tot 3 uur.  | € 360,–  | BVW 3.3.024 O  |
+| Bij een periode van 3 tot 4 uur.  | € 540,–  | BVW 3.3.025 O  |
+| Bij een periode van 4 tot 5 uur.  | € 800,–  | BVW 3.3.026 O  |
+| Bij een periode van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.027 O  |
+| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *bemanningslid* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
+| Bij een periode van 1 tot 2 uur.  | € 60,–  | BVW 3.3.028 O  |
+| Bij een periode van 2 tot 3 uur.  | € 90,–  | BVW 3.3.029 O  |
+| Bij een periode van 3 tot 4 uur.  | € 135,–  | BVW 3.3.030 O  |
+| Bij een periode van 4 tot 5 uur.  | € 200,–  | BVW 3.3.031 O  |
+| Bij een periode van 5 tot 6 uur.  | € 300,–  | BVW 3.3.032 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.033 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.034 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 270,–  | BVW 3.3.035 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 400,–  | BVW 3.3.036 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 600,–  | BVW 3.3.037 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 240,–  | BVW 3.3.038 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 360,–  | BVW 3.3.039 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.040 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.041 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.042 O  |
+| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.043 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.044 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.045 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.046 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.047 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 3 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.048 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.049 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 270,–  | BVW 3.3.050 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 400,–  | BVW 3.3.051 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 600,–  | BVW 3.3.052 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 3 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 240,–  | BVW 3.3.053 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 360,–  | BVW 3.3.054 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.055 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.056 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.057 O  |
+| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 3.12 lid 3 onder b Rsp  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.058 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.059 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.060 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.061 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.062 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 4 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.063 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.064 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 270,–  | BVW 3.3.065 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 400,–  | BVW 3.3.066 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 600,–  | BVW 3.3.067 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 4 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 240,–  | BVW 3.3.068 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 360,–  | BVW 3.3.069 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.070 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.071 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.072 O  |
+| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 3.12 lid 4 onder b Rsp  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.073 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.074 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.075 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.076 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.077 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 5 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.078 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.079 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 270,–  | BVW 3.3.080 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 400,–  | BVW 3.3.081 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 600,–  | BVW 3.3.082 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 5 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 240,–  | BVW 3.3.083 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 360,–  | BVW 3.3.084 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.085 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.086 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.087 O  |
+| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 3.12 lid 5 onder b Rsp  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
+| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.088 O  |
+| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.089 O  |
+| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.090 O  |
+| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.091 O  |
+| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.092 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.093 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.094 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 3.12 lid 5 onder b Rsp  | As *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.095 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 3.12 lid 5 onder b Rsp  | As *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.096 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 1 BVR jo. 3.15 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op de in artikel 5.6 lid 1 BVR genoemde categorieën van schepen:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.097 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.098 O  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.099 O  |
+| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 450,–  | BVW 3.3.100 O  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.100a O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.101 O  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.102 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.103 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.104 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 1 BVR jo. 3.15 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op de in artikel 5.6 lid 1 BVR genoemde categorieën van schepen:  | --- | --- |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.105 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.106 O  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.107 O  |
+| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 900,–  | BVW 3.3.108 O  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.108a O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.109 O  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.110 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.111 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.112 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.1 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hechte samenstellen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.113 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.114 O  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.115 O  |
-| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 450,–  | BVW 3.3.116 O  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.117 O  |
-| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.118 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.119 O  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.120 O  |
-| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.121 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.122 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.123 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.113 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.114 O  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.115 O  |
+| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 450,–  | BVW 3.3.116 O  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.117 O  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.118 O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.119 O  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.120 O  |
+| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.121 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.122 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.123 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.1 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hechte samenstellen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.124 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.125 O  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.126 O  |
-| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 900,–  | BVW 3.3.127 O  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.128 O  |
-| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.129 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.130 O  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.131 O  |
-| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.132 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.133 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.134 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.124 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.125 O  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.126 O  |
+| Bij een tekort van 1 stuurman met kwalificatie van schipper  | € 900,–  | BVW 3.3.127 O  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.128 O  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.129 O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.130 O  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.131 O  |
+| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.132 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.133 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.134 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.2 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.135 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.136 O  |
-| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.137 O  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.138 O  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.139 O  |
-| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.140 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.141 O  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.142 O  |
-| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.143 O  |
-| Bij een tekort van 4 matrozen  | € 1200,–  | BVW 3.3.144 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.145 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.146 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.135 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.136 O  |
+| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.137 O  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.138 O  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.139 O  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.140 O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.141 O  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.142 O  |
+| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.143 O  |
+| Bij een tekort van 4 matrozen  | € 1200,–  | BVW 3.3.144 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.145 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.146 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.2 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.147 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.148 O  |
-| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.149 O  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.150 O  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.151 O  |
-| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.152 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.153 O  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.154 O  |
-| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.155 O  |
-| Bij een tekort van 4 matrozen  | € 2400,–  | BVW 3.3.156 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.157 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.158 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.147 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.148 O  |
+| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.149 O  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.150 O  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.151 O  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.152 O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.153 O  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.154 O  |
+| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.155 O  |
+| Bij een tekort van 4 matrozen  | € 2400,–  | BVW 3.3.156 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.157 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.158 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.3 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.159 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.160 O  |
-| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.161 O  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.162 O  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.163 O  |
-| Bij een tekort van 2 machinisten of 2 matrozen motordrijver  | € 800,–  | BVW 3.3.164 O  |
-| Bij een tekort van 3 machinisten of 3 matrozen motordrijver  | € 1200,–  | BVW 3.3.165 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.166 O  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.167 O  |
-| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.168 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.169 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.170 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.159 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.160 O  |
+| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.161 O  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.162 O  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.163 O  |
+| Bij een tekort van 2 machinisten of 2 matrozen motordrijver  | € 800,–  | BVW 3.3.164 O  |
+| Bij een tekort van 3 machinisten of 3 matrozen motordrijver  | € 1200,–  | BVW 3.3.165 O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.166 O  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.167 O  |
+| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.168 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.169 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.170 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.3 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.171 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.172 O  |
-| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.173 O  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.174 O  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.175 O  |
-| Bij een tekort van 2 machinisten of 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.176 O  |
-| Bij een tekort van 3 machinisten of 3 matrozen motordrijver  | € 2400,–  | BVW 3.3.177 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.178 O  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.179 O  |
-| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.180 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.181 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.182 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.171 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.172 O  |
+| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.173 O  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.174 O  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.175 O  |
+| Bij een tekort van 2 machinisten of 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.176 O  |
+| Bij een tekort van 3 machinisten of 3 matrozen motordrijver  | € 2400,–  | BVW 3.3.177 O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.178 O  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.179 O  |
+| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.180 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.181 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.182 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.4 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.183 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.184 O  |
-| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.185 O  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.186 O  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.187 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.188 O  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.189 O  |
-| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.190 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.191 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.192 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.183 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.184 O  |
+| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.185 O  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.186 O  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 400,–  | BVW 3.3.187 O  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.187a O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.188 O  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.189 O  |
+| Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.190 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.191 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.192 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.4 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.193 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.194 O  |
-| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.195 O  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.196 O  |
-| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.197 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.198 O  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.199 O  |
-| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.200 O  |
-| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.201 O  |
-| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.202 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.193 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.194 O  |
+| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.195 O  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.196 O  |
+| Bij een tekort van 1 machinist of 1 matroos motordrijver  | € 800,–  | BVW 3.3.197 O  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.197a O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.198 O  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.199 O  |
+| Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.200 O  |
+| Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.201 O  |
+| Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.202 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.5 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op veerboten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.203 O  |
-| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.204 O  |
-| Bij een tekort van 1 eerste machinist  | € 400,–  | BVW 3.3.205 O  |
-| Bij een tekort van 1 tweede machinist  | € 400,–  | BVW 3.3.206 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.207 O  |
-| Bij een tekort van 1 lichtmatroos  | € 250,–  | BVW 3.3.208 O  |
-| Bij een tekort van 2 lichtmatrozen  | € 500,–  | BVW 3.3.209 O  |
-| Bij een tekort van 3 lichtmatrozen  | € 750,–  | BVW 3.3.210 O  |
-| Bij een tekort van 4 lichtmatrozen  | € 1000,–  | BVW 3.3.211 O  |
-| Bij een tekort van 5 lichtmatrozen  | € 1250,–  | BVW 3.3.212 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.203 O  |
+| Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.204 O  |
+| Bij een tekort van 1 eerste machinist  | € 400,–  | BVW 3.3.205 O  |
+| Bij een tekort van 1 tweede machinist  | € 400,–  | BVW 3.3.206 O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.207 O  |
+| Bij een tekort van 1 lichtmatroos  | € 250,–  | BVW 3.3.208 O  |
+| Bij een tekort van 2 lichtmatrozen  | € 500,–  | BVW 3.3.209 O  |
+| Bij een tekort van 3 lichtmatrozen  | € 750,–  | BVW 3.3.210 O  |
+| Bij een tekort van 4 lichtmatrozen  | € 1000,–  | BVW 3.3.211 O  |
+| Bij een tekort van 5 lichtmatrozen  | € 1250,–  | BVW 3.3.212 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.5 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op veerboten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.213 O  |
-| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.214 O  |
-| Bij een tekort van 1 eerste machinist  | € 800,–  | BVW 3.3.215 O  |
-| Bij een tekort van 1 tweede machinist  | € 800,–  | BVW 3.3.216 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.217 O  |
-| Bij een tekort van 1 lichtmatroos  | € 500,–  | BVW 3.3.218 O  |
-| Bij een tekort van 2 lichtmatrozen  | € 1000,–  | BVW 3.3.219 O  |
-| Bij een tekort van 3 lichtmatrozen  | € 1500,–  | BVW 3.3.220 O  |
-| Bij een tekort van 4 lichtmatrozen  | € 2000,–  | BVW 3.3.221 O  |
-| Bij een tekort van 5 lichtmatrozen  | € 2500,–  | BVW 3.3.222 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.213 O  |
+| Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.214 O  |
+| Bij een tekort van 1 eerste machinist  | € 800,–  | BVW 3.3.215 O  |
+| Bij een tekort van 1 tweede machinist  | € 800,–  | BVW 3.3.216 O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.217 O  |
+| Bij een tekort van 1 lichtmatroos  | € 500,–  | BVW 3.3.218 O  |
+| Bij een tekort van 2 lichtmatrozen  | € 1000,–  | BVW 3.3.219 O  |
+| Bij een tekort van 3 lichtmatrozen  | € 1500,–  | BVW 3.3.220 O  |
+| Bij een tekort van 4 lichtmatrozen  | € 2000,–  | BVW 3.3.221 O  |
+| Bij een tekort van 5 lichtmatrozen  | € 2500,–  | BVW 3.3.222 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.6 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepschepen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.223 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.224 O  |
-| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.225 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.223 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.224 O  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.225 O  |
+| --- | Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.225a O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 4 BVR jo. bijlage 5.6 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepschepen:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.226 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.227 O  |
-| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.228 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.226 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.227 O  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.228 O  |
+| --- | Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.228a O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 5 BVR jo. bijlage 5.7 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepboten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.229 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.230 O  |
-| Bij een tekort van 1 matroos motordrijver  | € 400,–  | BVW 3.3.231 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.232 O  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.233 O  |
-| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van P > 3750  | € zie hier boven  | BVW 3.3.234 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.229 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.230 O  |
+| Bij een tekort van 1 matroos motordrijver  | € 400,–  | BVW 3.3.231 O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.232 O  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.233 O  |
+| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van P > 3750  | € zie hier boven  | BVW 3.3.234 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 5 BVR jo. bijlage 5.7 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepboten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.235 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.236 O  |
-| Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.237 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.238 O  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.239 O  |
-| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van P > 3750  | € zie hier boven  | BVW 3.3.240 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.235 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.236 O  |
+| Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.237 O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.238 O  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.239 O  |
+| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van P > 3750  | € zie hier boven  | BVW 3.3.240 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 5 BVR jo. bijlage 5.7 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepboten die havendiensten verrichten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.241 O  |
-| Bij een tekort van 1 matroos motordrijver  | € 1000,–  | BVW 3.3.242 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.243 O  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.244 O  |
-| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van F > 75 ton  | € zie hier boven  | BVW 3.3.245 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.241 O  |
+| Bij een tekort van 1 matroos motordrijver  | € 1000,–  | BVW 3.3.242 O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.243 O  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.244 O  |
+| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van F > 75 ton  | € zie hier boven  | BVW 3.3.245 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 5 BVR jo. bijlage 5.7 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepboten die havendiensten verrichten:  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.246 O  |
-| Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.247 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.248 O  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.249 O  |
-| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van F > 75 ton  | € zie hier boven  | BVW 3.3.250 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.246 O  |
+| Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.247 O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.248 O  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.249 O  |
+| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van F > 75 ton  | € zie hier boven  | BVW 3.3.250 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 6 BVR jo. bijlage 5.8 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op snelle veerponten (> 30 < 40 Km/u):  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.251 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.252 O  |
-| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.253 O  |
-| Bij een tekort van 1 matroos motordrijver  | € 400,–  | BVW 3.3.254 O  |
-| Bij een tekort van 2 matrozen motordrijver  | € 800,–  | BVW 3.3.255 O  |
-| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.256 O  |
-| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.257 O  |
-| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.258 O  |
-| Bij een tekort van 1 lichtmatroos  | € 250,–  | BVW 3.3.259 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.251 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.252 O  |
+| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.253 O  |
+| Bij een tekort van 1 matroos motordrijver  | € 400,–  | BVW 3.3.254 O  |
+| Bij een tekort van 2 matrozen motordrijver  | € 800,–  | BVW 3.3.255 O  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.256 O  |
+| Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.257 O  |
+| Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.258 O  |
+| Bij een tekort van 1 lichtmatroos  | € 250,–  | BVW 3.3.259 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 6 BVR jo. bijlage 5.8 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op snelle veerponten (> 30 < 40 Km/u):  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.260 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.261 O  |
-| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.262 O  |
-| Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.263 O  |
-| Bij een tekort van 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.264 O  |
-| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.265 O  |
-| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.266 O  |
-| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.267 O  |
-| Bij een tekort van 1 lichtmatroos  | € 500,–  | BVW 3.3.268 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.260 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.261 O  |
+| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.262 O  |
+| Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.263 O  |
+| Bij een tekort van 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.264 O  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.265 O  |
+| Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.266 O  |
+| Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.267 O  |
+| Bij een tekort van 1 lichtmatroos  | € 500,–  | BVW 3.3.268 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 6 BVR jo. bijlage 5.8 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op snelle veerponten (> 40 Km/u):  | --- | --- |
-| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.269 O  |
-| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.270 O  |
-| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.271 O  |
-| Bij een tekort van 4 schippers  | € 2000,–  | BVW 3.3.272 O  |
-| Bij een tekort van 1 matroos motordrijver  | € 400,–  | BVW 3.3.273 O  |
-| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.274 O  |
-| Bij een tekort van 1 lichtmatroos  | € 250,–  | BVW 3.3.275 O  |
+| Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.269 O  |
+| Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.270 O  |
+| Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.271 O  |
+| Bij een tekort van 4 schippers  | € 2000,–  | BVW 3.3.272 O  |
+| Bij een tekort van 1 matroos motordrijver  | € 400,–  | BVW 3.3.273 O  |
+| Bij een tekort van 1 volmatroos  | € 350,–  | BVW 3.3.274 O  |
+| Bij een tekort van 1 lichtmatroos  | € 250,–  | BVW 3.3.275 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 6 BVR jo. bijlage 5.8 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op snelle veerponten (> 40 Km/u):  | --- | --- |
-| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.276 O  |
-| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.277 O  |
-| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.278 O  |
-| Bij een tekort van 4 schippers  | € 4000,–  | BVW 3.3.279 O  |
-| Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.280 O  |
-| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.281 O  |
-| Bij een tekort van 1 lichtmatroos  | € 500,–  | BVW 3.3.282 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 23.13 lid 1 RosR 1995.  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 23.09 RosR 1995 – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, duwstel en passagiersschip te verhogen:  | --- | --- |
-| In de exploitatiewijze A1 en A2 met 1 matroos  | € 300,–  | BVW 3.3.283 O  |
-| In de exploitatiewijze B met 2 matrozen  | € 600,–  | BVW 3.3.284 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 23.13 lid 1 RosR 1995.  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 23.09 RosR 1995 – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, duwstel en passagiersschip te verhogen:  | --- | --- |
-| In de exploitatiewijze A1 en A2 met 1 matroos  | € 600,–  | BVW 3.3.285 O  |
-| In de exploitatiewijze B met 2 matrozen  | € 1200,–  | BVW 3.3.286 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 23.13 lid 1 RosR 1995.  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 23.09 RosR 1995 – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, duwstel en passagiersschip te verhogen:  | --- | --- |
-| In de exploitatiewijze B met 1 matroos  | € 300,–  | BVW 3.3.287 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 23.13 lid 1 RosR 1995.  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 23.09 RosR 1995 – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, duwstel en passagiersschip te verhogen:  | --- | --- |
-| In de exploitatiewijze B met 1 matroos  | € 600,–  | BVW 3.3.288 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 23.13 lid 2 RosR 1995.  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 23.09 lid 1 onder 1.1 RosR 1995 – de desbetreffende bemanningsleden op een motorschip, duwboot, duwstel en passagiersschip te vervangen:  | --- | --- |
-| In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 400,–  | BVW 3.3.289 O  |
-| In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 800,–  | BVW 3.3.290 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 23.13 lid 2 RosR 1995.  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 23.09 lid 1 onder 1.1 RosR 1995 – de desbetreffende bemanningsleden op een motorschip, duwboot, duwstel en passagiersschip te vervangen:  | --- | --- |
-| In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 800,–  | BVW 3.3.291 O  |
-| In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 1.600,–  | BVW 3.3.292 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.6 BVR.  6. Schipper  7. Stuurman / Machinist  8. Volmatr / Matr motordr  9. Matroos  10. Lichtmatroos / Deksman  | Als *gezagvoerder* nalaten dat het/de bemanningslid / leden niet over de vereiste bekwaamheid beschikken:  (onder gekwalificeerd varen)  | 1 niveau  | € 150,–  | BVW 3.3.293 O  |
-| 2 niveaus  | € 350,–  | BVW 3.3.294 O  |
-| 3 niveaus  | € 550,–  | BVW 3.3.295 O  |
-| 4 niveaus  | € 700,–  | BVW 3.3.296 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. artikel 5.6 BVR.  1. Schipper  2. Stuurman / Machinist  3. Volmatr / Matr motordr  4. Matroos  5. Lichtmatroos / Deksman  | Als *werkgever* nalaten dat het/de bemanningslid / leden niet over de vereiste bekwaamheid beschikken:  (onder gekwalificeerd varen)  | 1 niveau  | € 300,–  | BVW 3.3.297 O  |
-| 2 niveaus  | € 700,–  | BVW 3.3.298 O  |
-| 3 niveaus  | € 1100,–  | BVW 3.3.299 O  |
-| 4 niveaus  | € 1400,–  | BVW 3.3.300 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.9 BVR.  | Als *gezagvoerder* een vrouw, die krachtens arbeidsovereenkomst dan wel publiekrechtelijke aanstelling gedurende 14 weken rondom de vermoedelijke datum van haar bevalling deel uit laten maken van de minimumbemanning.  | € 100,–  | BVW 3.3.301 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.9 BVR.  | Als *werkgever* een vrouw, die krachtens arbeidsovereenkomst dan wel publiekrechtelijke aanstelling gedurende 14 weken rondom de vermoedelijke datum van haar bevalling deel uit laten maken van de minimumbemanning.  | € 200,–  | BVW 3.3.302 O  |
+| Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.276 O  |
+| Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.277 O  |
+| Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.278 O  |
+| Bij een tekort van 4 schippers  | € 4000,–  | BVW 3.3.279 O  |
+| Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.280 O  |
+| Bij een tekort van 1 volmatroos  | € 700,–  | BVW 3.3.281 O  |
+| Bij een tekort van 1 lichtmatroos  | € 500,–  | BVW 3.3.282 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 3.18 lid 1 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 3.14 Rsp de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, duwstel en passagiersschip te verhogen:  | --- | --- |
+| In de exploitatiewijze A1 en A2 met 1 matroos  | € 300,–  | BVW 3.3.283 O  |
+| In de exploitatiewijze B met 2 matrozen  | € 600,–  | BVW 3.3.284 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 3.18 lid 1 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 3.14 Rsp de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, duwstel en passagiersschip te verhogen:  | --- | --- |
+| In de exploitatiewijze A1 en A2 met 1 matroos  | € 600,–  | BVW 3.3.285 O  |
+| In de exploitatiewijze B met 2 matrozen  | € 1200,–  | BVW 3.3.286 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 3.18 lid 1 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 3.14 Rsp de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, duwstel en passagiersschip te verhogen:  | --- | --- |
+| In de exploitatiewijze B met 1 matroos  | € 300,–  | BVW 3.3.287 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 3.18 lid 1 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 3.14 Rsp de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, duwstel en passagiersschip te verhogen:  | --- | --- |
+| In de exploitatiewijze B met 1 matroos  | € 600,–  | BVW 3.3.288 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 3.18 lid 2 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 3.14 lid 1 onder 1.1 Rsp de desbetreffende bemanningsleden op een motorschip, duwboot, duwstel en passagiersschip te vervangen:  | --- | --- |
+| In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 400,–  | BVW 3.3.289 O  |
+| In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 800,–  | BVW 3.3.290 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.7 BVR jo. 3.18 lid 2 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 3.14 lid 1 onder 1.1 Rsp de desbetreffende bemanningsleden op een motorschip, duwboot, duwstel en passagiersschip te vervangen:  | --- | --- |
+| In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 800,–  | BVW 3.3.291 O  |
+| In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.292 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.6 BVR.  1. Schipper  2. Stuurman / Machinist  3. Volmatr / Matr motordr  4. Matroos  5. Lichtmatroos / Deksman  | Als *gezagvoerder* nalaten dat het/de bemanningslid / leden over de vereiste bekwaamheid beschikken:  (onder gekwalificeerd varen)  | 1 niveau  | € 150,–  | BVW 3.3.293 O  |
+| 2 niveaus  | € 350,–  | BVW 3.3.294 O  |
+| 3 niveaus  | € 550,–  | BVW 3.3.295 O  |
+| 4 niveaus  | € 700,–  | BVW 3.3.296 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.6 BVR.  1. Schipper  2. Stuurman / Machinist  3. Volmatr / Matr motordr  4. Matroos  5. Lichtmatroos / Deksman  | Als *werkgever* nalaten dat het/de bemanningslid / leden over de vereiste bekwaamheid beschikken:  (onder gekwalificeerd varen)  | 1 niveau  | € 300,–  | BVW 3.3.297 O  |
+| 2 niveaus  | € 700,–  | BVW 3.3.298 O  |
+| 3 niveaus  | € 1100,–  | BVW 3.3.299 O  |
+| 4 niveaus  | € 1400,–  | BVW 3.3.300 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.9 BVR.  | Als *gezagvoerder* een vrouw, die krachtens arbeidsovereenkomst dan wel publiekrechtelijke aanstelling gedurende 14 weken rondom de vermoedelijke datum van haar bevalling deel uit laten maken van de minimumbemanning.  | € 100,–  | BVW 3.3.301 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.9 BVR.  | Als *werkgever* een vrouw, die krachtens arbeidsovereenkomst dan wel publiekrechtelijke aanstelling gedurende 14 weken rondom de vermoedelijke datum van haar bevalling deel uit laten maken van de minimumbemanning.  | € 200,–  | BVW 3.3.302 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.10 BVR jo. 20.02 RosR 1995.  | Als *gezagvoerder* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
-| Dat er zich aan boord een persoon bevindt die in het bezit is van een groot vaarbewijs  | € 500,–  | BVW 3.3.303 O  |
-| Dat na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot vaarbewijs  | € 750,–  | BVW 3.3.304 O  |
-| Dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 500,–  | BVW 3.3.305 O  |
+| Dat er zich aan boord een persoon bevindt die in het bezit is van een groot vaarbewijs  | € 500,–  | BVW 3.3.303 O  |
+| Dat na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot vaarbewijs  | € 750,–  | BVW 3.3.304 O  |
+| Dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 500,–  | BVW 3.3.305 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.10 BVR jo. 20.02 RosR 1995.  | Als *werkgever* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
-| Dat er zich aan boord een persoon bevindt die in het bezit is van een groot vaarbewijs  | € 1000,–  | BVW 3.3.306 O  |
-| Dat na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot vaarbewijs  | € 1500,–  | BVW 3.3.307 O  |
-| Dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 1000,–  | BVW 3.3.308 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.11 BVR jo. 23.04 lid 2 RosR 1995.  | Als *gezagvoerder* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 360,–  | BVW 3.3.309 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.11 BVR jo. 23.04 lid 2 RosR 1995.  | Als *werkgever* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 720,–  | BVW 3.3.310 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *gezagvoerder* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.311 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *werkgever* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.312 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *bemanningslid* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.313 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als *gezagvoerder* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.314 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als *werkgever* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.315 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 5 BVW  | Als *bemanningslid* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.316 O  |
+| Dat er zich aan boord een persoon bevindt die in het bezit is van een groot vaarbewijs  | € 1000,–  | BVW 3.3.306 O  |
+| Dat na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot vaarbewijs  | € 1500,–  | BVW 3.3.307 O  |
+| Dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 1000,–  | BVW 3.3.308 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.11 BVR jo. 3.06 lid 6 Rsp  | Als *gezagvoerder* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 360,–  | BVW 3.3.309 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.11 BVR jo. 3.06 lid 6 Rsp  | Als *werkgever* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 720,–  | BVW 3.3.310 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *gezagvoerder* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.311 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *werkgever* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.312 O  |
+| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *bemanningslid* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.313 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als *gezagvoerder* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.314 O  |
+| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als *werkgever* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.315 O  |
+| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 5 BVW  | Als *bemanningslid* de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.316 O  |
 | 23 lid 1 BVW jo. 27 lid 2 BVB jo. 28 BVB  | Als *gezagvoerder* een binnenschip gebruiken zonder dat een bemanningslid over een geldige geneeskundige verklaring beschikt:  | --- | --- |
-| Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar.  | € 250,–  | BVW 3.3.317 O  |
-| Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.  | € 250,–  | BVW 3.3.318 O  |
+| Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar.  | € 250,–  | BVW 3.3.317 O  |
+| Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.  | € 250,–  | BVW 3.3.318 O  |
 | 23 lid 1 BVW jo. 27 lid 2 BVB jo. 28 BVB  | Als *werkgever* een binnenschip gebruiken zonder dat een bemanningslid over een geldige geneeskundige verklaring beschikt:  | --- | --- |
-| Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar.  | € 500,–  | BVW 3.3.319 O  |
-| Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.  | € 500,–  | BVW 3.3.320 O  |
-| --- |  *Overige wateren*    *Hoofdstuk 4 paragraaf 1 BVW: Scheepsnummer*   | --- | --- |
-| 36 lid 4 BVW jo. 36 lid 2 onder a BVW  | Als *eigenaar* van een binnenschip niet binnen twee weken na de toekenning en kennisgeving van het scheepsnummer dit scheepsnummer op het binnenschip aanbrengen  | € 150,–  | BVW 4.1.001 O  |
-| 36 lid 4 BVW jo. 36 lid 2 onder b BVW  | Als *eigenaar* van een binnenschip niet binnen twee weken kennis geven aan de minister van zodanige wijzigingen in omstandigheden van een binnenschip, die aanleiding geven tot wijziging van het scheepsnummer  | € 1250,–  | BVW 4.1.002 O  |
-| 36 lid 4 BVW jo 30 lid 2 BVB jo. 9.1 BVR  | Als *eigenaar* van een binnenschip het registratienummer niet op het binnenschip aanbrengen overeenkomstig het gestelde in artikel 9.1 BVR  | € 150,–  | BVW 4.1.003 O  |
-| --- |  *Overige wateren*    *Hoofdstuk 4 paragraaf 2 BVW: Gegevensverstrekking*   | --- | --- |
-| 37 lid 2 BVW jo. 31 BVB jo. 2.9 en 2.11 onder a BVR  | Als *schipper* zijn bekwaamheid aan boord op een schip als bedoeld in artikel 12 van het BVB niet kunnen aantonen d.m.v. het vaarbewijs.  | € 300,–  | BVW 4.2.001 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 2.9 en 2.11 onder b BVR jo. 5.11 BVR jo. 23.04 lid 5 onder b RosR 1995  | Als *bemanningslid* zijn bekwaamheid aan boord op een schip als bedoeld in artikel 12 van het BVB niet kunnen aantonen door middel van het dienstboekje.  | € 150,–  | BVW 4.2.003 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 2.10 en 2.11 onder a BVR  | Als *schipper* zijn bekwaamheid aan boord op een veerboot niet kunnen aantonen d.m.v. het vaarbewijs.  | € 300,–  | BVW 4.2.004 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 2.10 en 2.11 onder b BVR jo. 5.11 BVR jo. 23.04 lid 5 onder b RosR 1995  | Als *bemanningslid* zijn bekwaamheid aan boord op een veerboot niet kunnen aantonen door middel van het dienstboekje.  | € 150,–  | BVW 4.2.005 O  |
-| 37 lid 2 BVW jo. artikel 31 BVB jo. 5.3 lid 2 BVR.  | Een binnenschip *gebruiken* in de periode van 48 uur voorafgaand aan het binnenvaren van de in artikel 1.2. BVR bedoelde binnenwateren de rusttijden van elk van de bemanningsleden alsmede de vaartijden van het schip niet hebben ingevuld in het vaartijdenboek dan wel in een ander document.  | € 400,–  | BVW 4.2.006 O  |
-| 37 lid 2 BVW jo. artikel 31 BVB jo. 5.3 lid 2 BVR.  | Een binnenschip *doen gebruiken* in de periode van 48 uur voorafgaand aan het binnenvaren van de in artikel 1.2. BVR bedoelde binnenwateren de rusttijden van elk van de bemanningsleden alsmede de vaartijden van het schip niet hebben ingevuld in het vaartijdenboek dan wel in een ander document.  | € 800,–  | BVW 4.2.007 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.4 lid 1 BVR jo. 23.05 lid 2 RosR 1995  | Een binnenschip *gebruiken* tijdens de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1, zonder dat deze verlenging kan worden aangetoond met de registraties van een goed functionerende tachograaf.  | € 400,–  | BVW 4.2.008 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.4 lid 1 BVR jo. 23.05 lid 2 RosR 1995  | Een binnenschip *doen gebruiken* tijdens de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1, zonder dat deze verlenging kan worden aangetoond met de registraties van een goed functionerende tachograaf.  | € 800,–  | BVW 4.2.009 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.5 BVR jo. 23.07 lid 7 RosR 1995  | Een binnenschip *gebruiken* zonder dat bij wisseling van exploitatiewijze de rusttijd van 8, onderscheidenlijk 6 uren kan worden aangetoond met een verklaring als bedoeld in bijlage K van het RosR 1995 of met een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.  | € 625,–  | BVW 4.2.010 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.5 BVR jo. 23.07 lid 7 RosR 1995  | Een binnenschip *doen gebruiken* zonder dat bij wisseling van exploitatiewijze de rusttijd van 8, onderscheidenlijk 6 uren kan worden aangetoond met een verklaring als bedoeld in bijlage K van het RosR 1995 of met een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.  | € 1250,–  | BVW 4.2.011 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.11 BVR jo. 23.04 lid 2 onder a en b RosR 1995  | Als *houder* het persoonlijke dienstboekje niet bij de eerste indiensttreding overhandigen aan de schipper  | € 150,–  | BVW 4.2.012 O  |
-| Als *houder* niet telkens binnen een periode van 12 maanden het persoonlijke dienstboekje overleggen aan en niet laten afstempelen door een plaatselijke bevoegde autoriteit  | € 125,–  | BVW 4.2.013 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.11 BVR jo. 23.04 lid 3 RosR 1995  | Als *schipper* het dienstboekje niet regelmatig invullen  | € 125,–  | BVW 4.2.014 O  |
-| Als *schipper* het dienstboekje niet in het stuurhuis bewaren  | € 60,–  | BVW 4.2.015 O  |
-| Als *schipper* het dienstboekje niet op verzoek onverwijld teruggeven aan de houder  | € 150,–  | BVW 4.2.016 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 23.08 lid 1 RosR 1995  | Als *gezagvoerder* het vaartijdenboek niet aanwezig hebben in de stuurhut.  | € 450,–  | BVW 4.2.020 O  |
-| Als *gezagvoerder* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek hebben aangetekend  | € 100,–  | BVW 4.2.021 O  |
-| Als *gezagvoerder*, zodra de vaart begint, dan wel de vaart wordt voortgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.022 O  |
-| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.023 O  |
-| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.024 O  |
-| Over een periode van 4 dagen of meer  | € 800,–  | BVW 4.2.025 O  |
-| Als *gezagvoerder*, zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.026 O  |
-| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.027 O  |
-| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.028O  |
-| Over een periode van 4 dagen of meer  | € 800,–  | BVW  4.2.029 O  |
-| Als *gezagvoerder* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 200,–  | BVW 4.2.030 O  |
-| Als *gezagvoerder* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld (exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.031 O  |
-| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.032 O  |
-| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.033 O  |
-| Over een periode van 4 dagen of meer  | € 800,–  | BVW 4.2.034 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 23.08 lid 1 RosR 1995 (vervolg)  | Als *gezagvoerder* bij wisseling van bemanning telkens het tijdstip van aan en van boord gaan niet vermelden in kolom 12 en 13 van het vaartijdenboek  | € 100,–  | BVW 4.2.035 O  |
-| Als *gezagvoerder* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 50,–  | BVW 4.2.036 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 23.08 lid 2 RosR 1995  | Als *exploitant* het vaartijdenboek niet binnen 30 dagen ongeldig laten verklaren na afgifte van een nieuw vaartijdenboek  | € 50,–  | BVW 4.2.054 O  |
-| 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 23.08 lid 3 RosR 1995  | Een binnenschip *gebruiken* zonder dat het ongeldig verklaarde vaartijdenboek gedurende zes maanden na de laatste aantekening aan boord is bewaard  | € 270,–  | BVW 4.2.055 O  |
-| 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 23.08 lid 3 RosR 1995  | Een binnenschip *doen gebruiken* zonder dat het ongeldig verklaarde vaartijdenboek gedurende zes maanden na de laatste aantekening aan boord is bewaard  | € 540,–  | BVW 4.2.056 O  |
-| 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 23.08 lid 6 RosR 1995  | Een binnenschip *gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage K van het RosR 1995 of een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden is.  | € 500,–  | BVW 4.2.057 O  |
-| 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 23.08 lid 6 RosR 1995  | Een binnenschip *doen gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage K van het RosR 1995 of een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden is.  | € 1000,–  | BVW 4.2.058 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.13 lid 2 BVR  | Als *gezagvoerder* op een veerboot of veerpont er geen zorg voor hebben gedragen dat er een scheepsjournaal aan boord aanwezig is  | € 450,–  | BVW 4.2.059 O  |
-| Als *gezagvoerder* de naam van het schip niet vermelden in het scheepsjournaal  | € 150,–  | BVW 4.2.060 O  |
-| Als *gezagvoerder* het begin en het einde van de veerdienst van het schip niet vermelden in het scheepsjournaal  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.061 O  |
-| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.062 O  |
-| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.063 O  |
-| Over een periode van 4 dagen of meer  | € 800,–  | BVW 4.2.064 O  |
-| Als *gezagvoerder* het merk van teboekstelling of het officiële scheepsnummer niet in het scheepsjournaal vermelden  | € 150,–  | BVW 4.2.065 O  |
-| Als *gezagvoerder* niet de leden van de bemanning bij het begin van de dagelijkse veerdienst met naam en functie in het scheepsjournaal vermelden  | € 200,–  | BVW 4.2.066 O  |
-| 37 lid 2 BVW jo artikel 31 BVB jo. 5.14 BVR jo. bijlage H onderdeel B punt 6 van het RosR 1995  | Een binnenschip *gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring (attest). (Geldigheidsduur attest 5 jaar)  | € 500,–  | BVW 4.2.067 O  |
-| 37 lid 2 BVW jo artikel 31 BVB jo. 5.14 BVR jo. bijlage H onderdeel B punt 6 van het RosR 1995  | Een binnenschip *doen gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring (attest). (Geldigheidsduur attest 5 jaar)  | € 1000,–  | BVW 4.2.068 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.14 lid 2 BVR  | Als *gezagvoerder* de registraties van de tachograaf niet gedurende ten minste zes maanden na laatste aantekening daarop in chronologische volgorde aan boord bewaren  | € 270,–  | BVW 4.2.069 O  |
-| --- |  *Overige wateren*    *Hoofdstuk 5 paragraaf 1 BVW: Handhaving*   | --- | --- |
-| 43 lid 2 BVW jo. 2.7 BVR  | Als *houder* er geen zorg voor dragen dat bij het vervoer van goederen het bewijs van vakbekwaamheid ten kantore van de eigenaar of exploitant van het binnenschip of aan de hand van de gegevens uit het handelsregister kan worden gecontroleerd.  | € 625,–  | BVW 5.1.001 O  |
-| 43 lid 2 BVW jo. 5.12 BVR 23.08 lid 4 RosR 1995  | Een binnenschip *gebruiken* zonder dat de verklaring afgifte vaartijdenboek aan boord wordt bewaard dan wel deze verklaring niet op verzoek kan worden getoond.  | € 75,–  | BVW 5.1.002 O  |
-| 43 lid 2 BVW jo. 5.12 BVR 23.08 lid 4 RosR 1995  | Een binnenschip *doen gebruiken* zonder dat de verklaring afgifte vaartijdenboek aan boord wordt bewaard dan wel deze verklaring niet op verzoek kan worden getoond.  | € 150,–  | BVW 5.1.003 O  |
-| 43 lid 2 BVW jo. 5.14 BVR gelet op bijlage H onderdeel B punt 7 van het RosR 1995  | Een binnenschip *gebruiken* bij de wekelijkse verlenging van de vaartijd in de A1 of bij het varen in de bloktijd A1 (22.00–06.00 uur) of A2 (23.00–5.00 uur) zonder dat de gebruiksaanwijzing van de tachograaf aan boord wordt bewaard.  | € 250,–  | BVW 5.1.004 O  |
-| 43 lid 2 BVW jo. 5.14 BVR gelet op bijlage H onderdeel B punt 7 van het RosR 1995  | Een binnenschip *doen gebruiken* bij de wekelijkse verlenging van de vaartijd in de A1 of bij het varen in de bloktijd A1 (22.00–06.00 uur) of A2 (23.00–5.00 uur) zonder dat de gebruiksaanwijzing van de tachograaf aan boord wordt bewaard.  | € 500,–  | BVW 5.1.005 O  |
-| 43 lid 2 BVW jo. 8.2 BVR jo. 8.5 BVR  | Als *eigenaar* er geen zorg voor dragen dat bij het vervoer van goederen of personen met een binnenschip de Rijnvaartverklaring aan boord van het binnenschip dan wel ten kantore van de eigenaar of exploitant kan worden gecontroleerd.  | € 150,–  | BVW 5.1.006 O  |
-| 43 lid 2 BVW jo. 8.2 BVR jo. 8.5 BVR  | Als *exploitant* er geen zorg voor dragen dat bij het vervoer van goederen of personen met een binnenschip de Rijnvaartverklaring aan boord van het binnenschip dan wel ten kantore van de eigenaar of exploitant kan worden gecontroleerd.  | € 150,–  | BVW 5.1.007 O  |
-| 43 lid 2 BVW jo. 8.3 BVR jo. 8.5 BVR  | Als *vervoersondernemer* er geen zorg voor dragen dat bij het bedrijfsmatig vervoer van goederen of personen met een binnenschip het bewijs van toelating aan boord van het binnenschip dan wel ten kantore van de eigenaar of exploitant kan worden gecontroleerd.  | € 150,–  | BVW 5.1.008 O  |
-| 43 lid 2 BVW jo. 8.4 BVR jo. 8.5 BVR  | Als *vervoerder* er geen zorg voor dragen dat bij het bedrijfsmatig vervoer van goederen of personen met een binnenschip het geëigend document aan boord van het binnenschip dan wel ten kantore van de eigenaar of exploitant kan worden gecontroleerd.  | € 150,–  | BVW 5.1.009 O  |
-| 46 lid 2 BVW jo. 46 lid 1 BVW  | Als *houder* niet op eerste vordering behoorlijk ter inzage afgeven van de bij of krachtens de BVW vereiste document (en):  | 1 document  | € 60,–  | BVW 5.1.010 O  |
-| 2 documenten  | € 120,–  | BVW 5.1.011 O  |
-| 3 documenten  | € 180,–  | BVW 5.1.012 O  |
-| 4 documenten  | € 240,–  | BVW 5.1.013 O  |
-| 5 documenten  | € 300,–  | BVW 5.1.014 O  |
-| 6 documenten  | € 360,–  | BVW 5.1.015 O  |
+| Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar.  | € 500,–  | BVW 3.3.319 O  |
+| Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.  | € 500,–  | BVW 3.3.320 O  |
+|  *Overige wateren: Hoofdstuk 4 paragraaf 1 BVW: Scheepsnummer*   |
+| 36 lid 4 BVW jo. 36 lid 2 onder a BVW  | Als *eigenaar* van een binnenschip niet binnen twee weken na de toekenning en kennisgeving van het scheepsnummer dit scheepsnummer op het binnenschip aanbrengen  | € 150,–  | BVW 4.1.001 O  |
+| 36 lid 4 BVW jo. 36 lid 2 onder b BVW  | Als **eigenaar** van een binnenschip niet binnen twee weken kennis geven aan de minister van zodanige wijzigingen in omstandigheden van een binnenschip, die aanleiding geven tot wijziging van het scheepsnummer  | € 1250,–  | BVW 4.1.002 O  |
+| 36 lid 4 BVW jo 30 lid 2 BVB jo. 9.1 BVR  | Als *eigenaar* van een binnenschip het registratienummer niet op het binnenschip aanbrengen overeenkomstig het gestelde in artikel 9.1 BVR  | € 150,–  | BVW 4.1.003 O  |
+|  *Overige wateren: Hoofdstuk 4 paragraaf 2 BVW: Gegevensverstrekking*   |
+| 37 lid 2 BVW jo. 31 BVB jo. 2.9 en 2.11 onder a BVR  | Als *schipper* zijn bekwaamheid aan boord op een schip als bedoeld in artikel 12 van het BVB niet kunnen aantonen d.m.v. het vaarbewijs.  | € 300,–  | BVW 4.2.001 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 2.9 en 2.11 onder b BVR jo. 5.11 BVR jo. 3.05 lid 1 onder b Rsp  | Als *bemanningslid* zijn bekwaamheid aan boord op een schip als bedoeld in artikel 12 van het BVB niet kunnen aantonen door middel van het dienstboekje.  | € 150,–  | BVW 4.2.003 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 2.10 en 2.11 onder a BVR  | Als *schipper* zijn bekwaamheid aan boord op een veerboot niet kunnen aantonen d.m.v. het vaarbewijs.  | € 300,–  | BVW 4.2.004 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 2.10 en 2.11 onder b BVR jo. 5.11 BVR jo. 3.05 lid 1 onder b Rsp  | Als *bemanningslid* zijn bekwaamheid aan boord op een veerboot niet kunnen aantonen door middel van het dienstboekje.  | € 150,–  | BVW 4.2.005 O  |
+| 37 lid 2 BVW jo. artikel 31 BVB jo. 5.3 lid 2 BVR.  | Een binnenschip *gebruiken* in de periode van 48 uur voorafgaand aan het binnenvaren van de in artikel 1.2. BVR bedoelde binnenwateren de rusttijden van elk van de bemanningsleden alsmede de vaartijden van het schip niet hebben ingevuld in het vaartijdenboek dan wel in een ander document.  | € 400,–  | BVW 4.2.006 O  |
+| 37 lid 2 BVW jo. artikel 31 BVB jo. 5.3 lid 2 BVR.  | Een binnenschip *doen gebruiken* in de periode van 48 uur voorafgaand aan het binnenvaren van de in artikel 1.2. BVR bedoelde binnenwateren de rusttijden van elk van de bemanningsleden alsmede de vaartijden van het schip niet hebben ingevuld in het vaartijdenboek dan wel in een ander document.  | € 800,–  | BVW 4.2.007 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.4 lid 1 BVR jo. 3.10 lid 2 Rsp  | Een binnenschip *gebruiken* tijdens de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1, zonder dat deze verlenging kan worden aangetoond met de registraties van een goed functionerende tachograaf.  | € 400,–  | BVW 4.2.008 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.4 lid 1 BVR jo. 3.10 lid 2 Rsp  | Een binnenschip *doen gebruiken* tijdens de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1, zonder dat deze verlenging kan worden aangetoond met de registraties van een goed functionerende tachograaf.  | € 800,–  | BVW 4.2.009 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.5 BVR jo. 3.12 lid 7 Rsp  | Een binnenschip *gebruiken* zonder dat bij wisseling van exploitatiewijze de rusttijd van 8, onderscheidenlijk 6 uren kan worden aangetoond met een verklaring als bedoeld in bijlage A4 van het Rsp of met een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.  | € 625,–  | BVW 4.2.010 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.5 BVR jo. 3.12 lid 7 Rsp  | Een binnenschip *doen gebruiken* zonder dat bij wisseling van exploitatiewijze de rusttijd van 8, onderscheidenlijk 6 uren kan worden aangetoond met een verklaring als bedoeld in bijlage A4 van het Rsp of met een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.  | € 1250,–  | BVW 4.2.011 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.11 BVR jo. 3.06 lid 4 onder a en b Rsp  | Als *houder* het persoonlijke dienstboekje niet bij de eerste indiensttreding overhandigen aan de schipper  | € 150,–  | BVW 4.2.012 O  |
+| Als *houder* niet telkens binnen een periode van 12 maanden het persoonlijke dienstboekje overleggen aan en niet laten afstempelen door een plaatselijke bevoegde autoriteit  | € 125,–  | BVW 4.2.013 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.11 BVR jo. 3.06 lid 6 Rsp  | Als *schipper* het dienstboekje niet regelmatig invullen  | € 125,–  | BVW 4.2.014 O  |
+| Als *schipper* het dienstboekje niet in het stuurhuis bewaren  | € 60,–  | BVW 4.2.015 O  |
+| Als *schipper* het dienstboekje niet op verzoek onverwijld teruggeven aan de houder  | € 150,–  | BVW 4.2.016 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 3.13 lid 1 Rsp  | Als *gezagvoerder* het vaartijdenboek niet aanwezig hebben in de stuurhut.  | € 450,–  | BVW 4.2.020 O  |
+| Als *gezagvoerder* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek hebben aangetekend  | € 100,–  | BVW 4.2.021 O  |
+| Als *gezagvoerder*, zodra de vaart begint, dan wel de vaart wordt voortgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.022 O  |
+| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.023 O  |
+| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.024 O  |
+| Over een periode van 4 dagen  | € 800,–  | BVW 4.2.025 O  |
+| Als *gezagvoerder*, zodra de vaart begint, dan wel de vaart wordt voortgezet, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.026 O  |
+| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.027 O  |
+| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.028O  |
+| Over een periode van 4 dagen  | € 800,–  | BVW 4.2.029 O  |
+| Als *gezagvoerder* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 200,–  | BVW 4.2.030 O  |
+| Als *gezagvoerder* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld (exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.031 O  |
+| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.032 O  |
+| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.033 O  |
+| Over een periode van 4 dagen  | € 800,–  | BVW 4.2.034 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 3.13 lid Rsp (vervolg)  | Als *gezagvoerder* bij wisseling van bemanning telkens het tijdstip van aan en van boord gaan niet vermelden in kolom 12 en 13 van het vaartijdenboek  | € 100,–  | BVW 4.2.035 O  |
+| Als *gezagvoerder* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 50,–  | BVW 4.2.036 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 3.13 lid 2 Rsp  | Als *eigenaar* het vaartijdenboek niet binnen 30 dagen ongeldig laten verklaren na afgifte van een nieuw vaartijdenboek  | € 50,–  | BVW 4.2.054 O  |
+| 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 3.13 lid 3 Rsp  | Een binnenschip *gebruiken* zonder dat het ongeldig verklaarde vaartijdenboek gedurende zes maanden na de laatste aantekening aan boord is bewaard  | € 270,–  | BVW 4.2.055 O  |
+| 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 3.13 lid 3 Rsp  | Een binnenschip *doen gebruiken* zonder dat het ongeldig verklaarde vaartijdenboek gedurende zes maanden na de laatste aantekening aan boord is bewaard  | € 540,–  | BVW 4.2.056 O  |
+| 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 3.13 lid 6 Rsp  | Een binnenschip *gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage A4 van het Rsp of een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden is.  | € 500,–  | BVW 4.2.057 O  |
+| 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 3.13 lid 6 Rsp  | Een binnenschip *doen gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage A4 van het Rsp of een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden is.  | € 1000,–  | BVW 4.2.058 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.13 lid 2 BVR  | Als *gezagvoerder* op een veerboot of veerpont er geen zorg voor hebben gedragen dat er een scheepsjournaal aan boord aanwezig is  | € 450,–  | BVW 4.2.059 O  |
+| Als *gezagvoerder* de naam van het schip niet vermelden in het scheepsjournaal  | € 150,–  | BVW 4.2.060 O  |
+| Als *gezagvoerder* het begin en het einde van de veerdienst van het schip niet vermelden in het scheepsjournaal  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.061 O  |
+| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.062 O  |
+| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.063 O  |
+| Over een periode van 4 dagen  | € 800,–  | BVW 4.2.064 O  |
+| Als *gezagvoerder* het merk van teboekstelling of het officiële scheepsnummer niet in het scheepsjournaal vermelden  | € 150,–  | BVW 4.2.065 O  |
+| Als *gezagvoerder* niet de leden van de bemanning bij het begin van de dagelijkse veerdienst met naam en functie in het scheepsjournaal vermelden  | € 200,–  | BVW 4.2.066 O  |
+| 37 lid 2 BVW jo artikel 31 BVB jo. 5.14 BVR jo. bijlage A3 onderdeel B punt 6 van het Rsp  | Een binnenschip *gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring. (Geldigheidsduur verklaring 5 jaar)  | € 500,–  | BVW 4.2.067 O  |
+| 37 lid 2 BVW jo artikel 31 BVB jo. 5.14 BVR jo. bijlage A3 onderdeel B punt 6 van het Rsp  | Een binnenschip *doen gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring. (Geldigheidsduur verklaring 5 jaar)  | € 1000,–  | BVW 4.2.068 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.14 lid 2 BVR  | Als *gezagvoerder* de registraties van de tachograaf niet gedurende ten minste zes maanden na laatste aantekening daarop in chronologische volgorde aan boord bewaren  | € 270,–  | BVW 4.2.069 O  |
+|  *Overige wateren: Hoofdstuk 5 paragraaf 1 BVW: Handhaving*   |
+| 43 lid 2 BVW jo. 2.7 BVR  | Als *houder* er geen zorg voor dragen dat bij het vervoer van goederen het bewijs van vakbekwaamheid ten kantore van de eigenaar of exploitant van het binnenschip of aan de hand van de gegevens uit het handelsregister kan worden gecontroleerd.  | € 625,–  | BVW 5.1.001 O  |
+| 43 lid 2 BVW jo. 5.12 BVR 3.13 lid 4 Rsp  | Een binnenschip *gebruiken* zonder dat de verklaring afgifte vaartijdenboek aan boord wordt bewaard dan wel deze verklaring niet op verzoek kan worden getoond.  | € 75,–  | BVW 5.1.002 O  |
+| 43 lid 2 BVW jo. 5.12 BVR 3.13 lid 4 Rsp  | Een binnenschip *doen gebruiken* zonder dat de verklaring afgifte vaartijdenboek aan boord wordt bewaard dan wel deze verklaring niet op verzoek kan worden getoond.  | € 150,–  | BVW 5.1.003 O  |
+| 43 lid 2 BVW jo. 5.14 BVR gelet op bijlage A3 onderdeel B punt 7 van het RSP  | Een binnenschip *gebruiken* bij de wekelijkse verlenging van de vaartijd in de A1 of bij het varen in de bloktijd A1 (22.00–06.00 uur) of A2 (23.00–5.00 uur) zonder dat de gebruiksaanwijzing van de tachograaf aan boord wordt bewaard.  | € 250,–  | BVW 5.1.004 O  |
+| 43 lid 2 BVW jo. 5.14 BVR gelet op bijlage A3 onderdeel B punt 7 van het Rsp  | Een binnenschip *doen gebruiken* bij de wekelijkse verlenging van de vaartijd in de A1 of bij het varen in de bloktijd A1 (22.00–06.00 uur) of A2 (23.00–5.00 uur) zonder dat de gebruiksaanwijzing van de tachograaf aan boord wordt bewaard.  | € 500,–  | BVW 5.1.005 O  |
+| 43 lid 2 BVW jo. 8.2 BVR jo. 8.5 BVR  | Als *eigenaar* er geen zorg voor dragen dat bij het vervoer van goederen of personen met een binnenschip de Rijnvaartverklaring aan boord van het binnenschip dan wel ten kantore van de eigenaar of exploitant kan worden gecontroleerd.  | € 150,–  | BVW 5.1.006 O  |
+| 43 lid 2 BVW jo. 8.2 BVR jo. 8.5 BVR  | Als *exploitant* er geen zorg voor dragen dat bij het vervoer van goederen of personen met een binnenschip de Rijnvaartverklaring aan boord van het binnenschip dan wel ten kantore van de eigenaar of exploitant kan worden gecontroleerd.  | € 150,–  | BVW 5.1.007 O  |
+| 43 lid 2 BVW jo. 8.3 BVR jo. 8.5 BVR  | Als *vervoersondernemer* er geen zorg voor dragen dat bij het bedrijfsmatig vervoer van goederen of personen met een binnenschip het bewijs van toelating aan boord van het binnenschip dan wel ten kantore van de eigenaar of exploitant kan worden gecontroleerd.  | € 150,–  | BVW 5.1.008 O  |
+| 43 lid 2 BVW jo. 8.4 BVR jo. 8.5 BVR  | Als *vervoerder* er geen zorg voor dragen dat bij het bedrijfsmatig vervoer van goederen of personen met een binnenschip het geëigend document aan boord van het binnenschip dan wel ten kantore van de eigenaar of exploitant kan worden gecontroleerd.  | € 150,–  | BVW 5.1.009 O  |
+| 46 lid 2 BVW jo. 46 lid 1 BVW  | Als *houder* niet op eerste vordering behoorlijk ter inzage afgeven van de bij of krachtens de BVW vereiste document (en):  | 1 document  | € 60,–  | BVW 5.1.010 O  |
+| 2 documenten  | € 120,–  | BVW 5.1.011 O  |
+| 3 documenten  | € 180,–  | BVW 5.1.012 O  |
+| 4 documenten  | € 240,–  | BVW 5.1.013 O  |
+| 5 documenten  | € 300,–  | BVW 5.1.014 O  |
+| 6 documenten  | € 360,–  | BVW 5.1.015 O  |
 
 Tabel 2. Bedragen voor bestuurlijke boete op overtredingen van het bepaalde krachtens de artikelen 39c, derde lid, en 39e, van de Binnenvaartwet 
 

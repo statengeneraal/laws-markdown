@@ -55,7 +55,7 @@ p. mestkorrels: dierlijke meststoffen die in een overeenkomstig artikel 24, eers
 
 q. mengvoeder: mengvoeder als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md);  
 
-r. combinatienummer: nummer dat door de Dienst Regelingen ter identificatie van een transportmiddel voor drijfmest is verstrekt en dat is samengesteld uit de op grond van artikel 45, vierde en zesde lid, verstrekte gegevens;  
+r. combinatienummer: nummer dat door de Dienst Regelingen ter identificatie van een transportmiddel voor drijfmest is verstrekt en dat bij vervoer middels een transportvoertuig is samengesteld uit de op grond van artikel 45, vierde en zesde lid, verstrekte gegevens en in het geval van vervoer door middel van een pijpleiding is samengesteld uit de op grond van artikel 45, vierde lid, verstrekte gegevens;  
 
 s. champost: product van paardenmest, ponymest, pluimveemest of een mengsel daarvan waarop champignons zijn geteeld;  
 
@@ -569,7 +569,7 @@ a. de kadastrale aanduiding van de onderscheiden locaties van de opslagruimten v
 b. het correspondentieadres van de onderneming.     
 4.  De gegevens, bedoeld in [artikel 38, tweede lid, onderdelen f en g, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen mede de serienummers van de automatische bemonsterings- en verpakkingsapparatuur en de AGR-apparatuur alsmede een aanduiding van het type waartoe deze apparatuur behoort, het versienummer en de fabrikant van deze apparatuur.   
 5.  De gegevens, bedoeld in [artikel 38, tweede lid, onderdeel h, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden, voor zover het opslagruimten voor drijfmest of vaste mest betreft, mede uitgedrukt in kubieke meters onderscheidenlijk in vierkante meters.   
-6.  Behalve de gegevens, bedoeld in [artikel 38, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), verstrekt de intermediair ter zake van de transportmiddelen die voor het vervoer van drijfmest exclusief bij de desbetreffende onderneming in gebruik zijn en waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, tevens gegevens over: 
+6.  Behalve de gegevens, bedoeld in [artikel 38, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), verstrekt de intermediair ter zake van de transportmiddelen die voor het vervoer van drijfmest exclusief bij de desbetreffende onderneming in gebruik zijn en waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, tenzij het vervoer van dierlijke meststoffen van een bedrijf naar een intermediaire onderneming plaatsvindt met behulp van een pijpleiding, tevens gegevens over: 
 
 a. het kenteken en de meldcode, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voor zover het een motorrijtuig of aanhangwagen als bedoeld in [artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) betreft; of  
 
@@ -691,7 +691,7 @@ c. de hoeveelheid geleverd ruwvoer en enkelvoudig diervoeder.
 ### Artikel  54  
 
 1.  Het vervoer van dierlijke meststoffen vindt uitsluitend plaats, indien de in artikel 53 bedoelde apparatuur zowel afzonderlijk als in onderlinge samenhang adequaat functioneert.   
-2.  Het eerste lid is niet van toepassing, indien het niet adequaat functioneren van de apparatuur is veroorzaakt door een storing die door de vervoerder terstond telefonisch is gemeld aan meldkamer van de Algemene Inspectiedienst en indien de Algemene Inspectiedienst toestemming heeft verleend voor het vervoer.   
+2.  Het eerste lid is niet van toepassing op het vervoer van dierlijke meststoffen middels een transportvoertuig, indien het niet adequaat functioneren van de apparatuur is veroorzaakt door een storing die door de vervoerder terstond telefonisch is gemeld aan meldkamer van de Algemene Inspectiedienst en indien de Algemene Inspectiedienst toestemming heeft verleend voor het vervoer.   
 3.  De in het tweede lid bedoelde toestemming kan ten hoogste voor een periode van 24 uur worden verleend en kan de verplichting inhouden van het vervoer elektronisch of telefonisch mededeling te doen voordat het laden van het transportmiddel plaatsvindt, waarbij de gegevens, bedoeld in artikel 58, tweede lid, worden verstrekt.   
 
 ### Artikel  55  
@@ -798,7 +798,7 @@ b. uitsluitend mestkorrels worden vervoerd;
 
 c. dierlijke meststoffen worden vervoerd van een tuincentrum of een hovenier naar een afnemer, niet zijnde een landbouwer of een ondernemer;  
 
-d. kalvergier wordt vervoerd met behulp van een persleiding, in beheer bij de Stichting Beheer en Aanleg Kalvergierpersleiding enclave Uddel-Elspeet en Omstreken of bij de Stichting Kalvergierpersleiding Stroe, naar de kalvergierbewerkingsinstallatie Elspeet onderscheidenlijk naar de kalvergierbewerkingsinstallatie Stroe, beide in beheer bij de Stichting Mestverwerking Gelderland; of  
+d. kalvergier wordt vervoerd met behulp van een pijpleiding, in beheer bij de Stichting Beheer en Aanleg Kalvergierpersleiding enclave Uddel-Elspeet en Omstreken of bij de Stichting Kalvergierpersleiding Stroe, naar de kalvergierbewerkingsinstallatie Elspeet onderscheidenlijk naar de kalvergierbewerkingsinstallatie Stroe, beide in beheer bij de Stichting Mestverwerking Gelderland; of  
 
 e. kalvergier van een bedrijf wordt afgevoerd en rechtstreeks, zonder tussenopslag, wordt vervoerd naar een kalvergierbewerkingsinstallatie in beheer bij de Stichting Mestverwerking Gelderland, onder de volgende voorwaarden: 
 
@@ -818,6 +818,20 @@ b. de hoeveelheid van de desbetreffende vracht meststoffen wordt bepaald overeen
 
 c. het op de vracht betrekking hebbende vervoersbewijs dierlijke meststoffen is overeenkomstig artikel 66, vierde lid, onderdeel a, ingevuld.     
 2.  Het eerste lid is niet van toepassing, indien de vracht dierlijke meststoffen op grond van de voorschriften die zijn verbonden aan de aan de leverancier van de desbetreffende vracht verleende ontheffing wordt vervoerd overeenkomstig de [artikelen 48](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [49 van het Uitvoeringsbesluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de artikelen 53 tot en met 56.   
+
+### Artikel  59b  
+
+Meststoffen worden uitsluitend door middel van een pijpleiding vervoerd: 
+
+a. in het in artikel 59, onderdeel d, bedoelde geval, of  
+
+b. indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een intermediaire onderneming en er wordt voldaan aan de volgende voorwaarden: 
+
+1. de pijpleiding en de in artikel 53 genoemde apparatuur die wordt gebruikt bij het vervoer behoort tot de intermediaire onderneming;  
+
+2. de pijpleiding wordt uitsluitend gebruikt voor de afvoer van meststoffen van één bedrijf, en  
+
+3. de grootte van een vracht wordt vooraf aan het vervoer bepaald en is ten hoogste één lading van 36 ton en wordt binnen 24 uur vervoerd.      
 
 ### §  2  
 
@@ -921,7 +935,7 @@ c. een afschrift van het bewijsstuk van de machtiging, bedoeld onder b, wordt ti
 
 ### Artikel  66  
 
-1.  In het in [artikel 59, onderdeel d](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bedoelde geval: 
+1.  In het in artikel 59, onderdeel d, bedoelde geval: 
 
 a. wordt, in afwijking van artikel 61, eerste en tweede lid, het vervoersbewijs dierlijke meststoffen door de afnemer ingevuld en ondertekend op het tijdstip waarop de kalvergier op de kalvergierbewerkingsinstallatie wordt aangevoerd en wordt het vervoersbewijs dierlijke meststoffen door de afnemer aan de leverancier toegezonden, waarna de leverancier het vervoersbewijs dierlijke meststoffen ondertekent en terugzendt aan de afnemer; en  
 
@@ -945,6 +959,15 @@ a. worden, in afwijking van artikel 61, eerste lid, uiterlijk bij het laden van 
 b. wordt, in afwijking van artikel 61, tweede lid, uiterlijk bij het lossen van de dierlijke meststoffen, onderdeel 3b, voor zover dit betrekking heeft op het tijdstip van het lossen, van het op die vracht betrekking hebbende vervoersbewijs dierlijke meststoffen ingevuld en wordt het vervoersbewijs dierlijke meststoffen door de vervoerder ondertekend; en  
 
 c. bevatten de op grond van artikel 64, eerste lid, elektronisch in te dienen gegevens, in afwijking van artikel 64, tweede lid, de hoeveelheid dierlijke meststoffen die is vastgesteld overeenkomstig de voorschriften die zijn verbonden aan de aan de leverancier van de desbetreffende vracht verleende ontheffing van de artikelen 76, eerste lid, en 77.     
+5.  In het in artikel 59b, onderdeel b, bedoelde geval: 
+
+a. wordt, in afwijking van artikel 61, eerste en tweede lid, het vervoersbewijs dierlijke meststoffen, met uitzondering van het CMR-nummer, het kenteken van het voertuig en het netto gewicht, door de vervoerder ingevuld en ondertekend op het tijdstip waarop de vracht dierlijke meststoffen wordt aangevoerd;  
+
+b. wordt het vervoersbewijs door de vervoerder aan de leverancier toegezonden, waarna de leverancier het vervoersbewijs dierlijke meststoffen ondertekent en terugzendt aan de vervoerder;  
+
+c. wordt bij onderdeel 4 van het vervoersbewijs dierlijke meststoffen de opmerkingscode ‘42’ ingevuld;  
+
+d. kan, in afwijking van [artikel 53, vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), de leverancier de vervoerder ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in artikel 65, onderdelen a en b, genoemde voorwaarden.     
 
 ### Artikel  67  
 
@@ -1056,7 +1079,7 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 ### Artikel  78  
 
 1.  De bemonstering van een vracht drijfmest geschiedt automatisch tijdens het laden van het transportmiddel met behulp van bemonsteringsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in bijlage E, onderdeel A, en behoort tot een type waarvan bij keuring door Praktijkonderzoek Veehouderij BV onderdeel van de Animal Sciences Group, te Lelystad of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.   
-2.  De bemonstering van een vracht vaste mest geschiedt door de vervoerder. Hij stelt een representatief monster samen, bestaande uit deelmonsters die handmatig evenredig verspreid uit de betrokken vracht meststoffen worden genomen.   
+2.  De bemonstering van een vracht vaste mest geschiedt door de vervoerder. Hij stelt een representatief monster samen met een gewicht van minimaal 500 gram en maximaal 800 gram, bestaande uit deelmonsters die handmatig evenredig verspreid uit de betrokken vracht meststoffen worden genomen.   
 3.  Indien de vaste mest bestemd is om buiten Nederland te worden gebracht, geschiedt de in het tweede lid bedoelde bemonstering tijdens het laden van het transportmiddel.   
 4.  Indien de vaste mest binnen Nederland is gebracht, geschiedt de in het tweede lid bedoelde bemonstering tijdens het lossen van het transportmiddel.   
 
@@ -1082,7 +1105,7 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 
 1.  In het in artikel 59, onderdeel d, bedoelde geval: 
 
-a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van artikel 76, eerste lid, door de afnemer bepaald met behulp van een in de kalvergierbewerkingsinstallatie aangebracht apparaat ter bepaling van het volume, waarbij één kubieke meter kalvergier overeenkomt met 1000 kilogram; en  
+a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van artikel 76, eerste lid, door de afnemer bepaald met behulp van een in de kalvergierbewerkingsinstallatie aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde regels, waarbij één kubieke meter kalvergier overeenkomt met 1000 kilogram; en  
 
 b. geschieden de bemonstering en de verpakking van de genomen monsters, in zoverre in afwijking van artikel 77, derde lid, in samenhang met artikel 78, onderscheidenlijk 79 door de afnemer met behulp van op de kalvergierbewerkingsinstallatie aangebracht automatische bemonsteringsapparatuur waarmee uit het totale van één leverancier aangevoerde volume kalvergier een representatief monster wordt genomen.     
 2.  In het in artikel 59, onderdeel e, bedoelde geval: 
@@ -1090,8 +1113,13 @@ b. geschieden de bemonstering en de verpakking van de genomen monsters, in zover
 a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van artikel 76, eerste lid, door de afnemer bepaald met behulp van een op de lokatie van de kalvergierbewerkingsinstallatie aangebracht weegwerktuig; en  
 
 b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwijking van artikel 77, derde lid, in samenhang met artikel 78, onderscheidenlijk 79 door de afnemer met behulp van op de kalvergierbewerkingsinstallatie aangebrachte automatische bemonsteringsapparatuur en automatische verpakkingsapparatuur als bedoeld in artikel 78, eerste lid, onderscheidenlijk artikel 79, eerste lid.     
-3.  In het in artikel 59a, eerste lid, bedoelde geval, wordt het stikstofgehalte en het fosfaatgehalte van de desbetreffende vracht dierlijke meststoffen, in afwijking van artikel 77, bepaald door de leverancier overeenkomstig de voorschriften die zijn verbonden aan de aan hem verleende ontheffing van de artikelen 76, eerste lid, en 77.   
-4.  [Artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) in samenhang met de artikelen 76 en 77, is niet van toepassing op de van een tuincentrum of een hovenier afgevoerde hoeveelheid dierlijke meststoffen naar een afnemer, niet zijnde een landbouwer of een ondernemer.   
+3.  In het artikel 59b, onderdeel b, bedoelde geval: 
+
+a. kan het gewicht van de hoeveelheid dierlijke mest, bedoeld in artikel 76, eerste lid, door de intermediair ook worden bepaald met behulp van een in de pijpleiding aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde regels, waarbij het gemeten volume naar gewicht omgerekend wordt aan de hand van de dichtheid, en  
+
+b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwijking van artikel 77, derde lid, in samenhang met artikel 78, onderscheidenlijk 79, door de vervoerder, met behulp van op de pijpleiding aangebrachte automatische bemonsteringsapparatuur, waarmee uit het totale van één leverancier aangevoerde volume drijfmest van maximaal 36 ton dat wordt vervoerd door de pijpleiding, een representatief monster wordt genomen.     
+4.  In het in artikel 59a, eerste lid, bedoelde geval, wordt het stikstofgehalte en het fosfaatgehalte van de desbetreffende vracht dierlijke meststoffen, in afwijking van artikel 77, bepaald door de leverancier overeenkomstig de voorschriften die zijn verbonden aan de aan hem verleende ontheffing van de artikelen 76, eerste lid, en 77.   
+5.  [Artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) in samenhang met de artikelen 76 en 77, is niet van toepassing op de van een tuincentrum of een hovenier afgevoerde hoeveelheid dierlijke meststoffen naar een afnemer, niet zijnde een landbouwer of een ondernemer.   
 
 ### Artikel  83  
 
@@ -1101,12 +1129,12 @@ Indien een vracht bestaat uit mestkorrels, geldt dat het gewicht, onderscheidenl
 
 1.  Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een ander bedrijf, kunnen de in een kalenderjaar van het bedrijf afgevoerde dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
-a. het product van enerzijds het aantal hectaren landbouwgrond dat in dat kalenderjaar tot het bedrijf waarvan de meststoffen afkomstig zijn behoort en anderzijds het per hectare van die landbouwgrond bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm, bedraagt tenminste 85 procent van de totale hoeveelheid op dat bedrijf in dat kalenderjaar geproduceerde dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat;  
+a. het product van enerzijds het aantal hectaren landbouwgrond dat in dat kalenderjaar tot het bedrijf waarvan de meststoffen afkomstig zijn behoort en anderzijds het per hectare van die landbouwgrond bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm, bedraagt in de jaren 2011, 2012 en 2013 ten minste 80 procent en in de jaren 2014 en volgende ten minste 75 procent van de totale hoeveelheid op dat bedrijf in dat kalenderjaar geproduceerde dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat;  
 
 b. de van het bedrijf afgevoerde dierlijke meststoffen worden rechtstreeks, zonder tussenopslag, vervoerd; en  
 
 c. de afstand tussen de productielocatie van het bedrijf waarvan de dierlijke meststoffen afkomstig zijn en de locatie van het bedrijf waar de dierlijke meststoffen gelost worden bedraagt hemelsbreed ten hoogste tien kilometer.     
-2.  De overeenkomstig het eerste lid te bepalen hoeveelheid bedraagt ten hoogste vijftien procent van de totale hoeveelheid in dat kalenderjaar op desbetreffend bedrijf geproduceerde hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat.   
+2.  De overeenkomstig het eerste lid te bepalen hoeveelheid bedraagt in de jaren 2011, 2012 en 2013 ten hoogste 20 procent en in de jaren 2014 en volgende ten hoogste 25 procent van de totale hoeveelheid in dat kalenderjaar op desbetreffend bedrijf geproduceerde hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat.   
 
 ### Artikel  85  
 
@@ -1170,6 +1198,16 @@ Indien dierlijke meststoffen afkomstig van konijnen, met een drogestofgehalte va
 4.  Indien het in het derde lid bedoelde substraat van een onderneming of een bedrijf wordt afgevoerd naar een bedrijf waar dit substraat wordt gebruikt voor de teelt van champignons, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
 5.  Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
 6.  Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt overgebracht uit Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
+
+### Artikel  89a  
+
+Indien dierlijke meststoffen afkomstig van paarden of pony’s van een bedrijf in de gemeente Vlieland worden afgevoerd naar een ander bedrijf in de gemeente Vlieland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+
+a. de hoeveelheid dierlijke meststoffen is afkomstig van de op het bedrijf gehouden, dan wel anderszins aanwezige dieren;  
+
+b. de dierlijke meststoffen worden rechtstreeks, zonder tussenopslag vervoerd, en  
+
+c. bij onderdeel 4 van het vervoersbewijs dierlijke meststoffen wordt de opmerkingscode ‘37’ ingevuld.    
 
 ### Artikel  90  
 
@@ -1442,6 +1480,10 @@ b. het aantal varkenseenheden of pluimvee-eenheden waarop de kennisgeving betrek
 
 c. het gedeelte van het productierecht, dat in het desbetreffende kalenderjaar op het bedrijf van de vervreemder niet wordt benut voor het houden van dieren.     
 
+### Artikel  104a  
+
+Voor de toepassing van [artikel 26, zevende lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) geeft het bedrijf waarbinnen de verplaatsing van de varkens-, kippen- of kalkoenhouderij plaatsvindt, van de verplaatsing vooraf kennis aan de Dienst Regelingen en verstrekt de overeenkomstige gegevens bedoeld, in artikel 104, tweede en derde lid.  
+
 ### §  2  
 
 ####Blokkaderecht
@@ -1521,6 +1563,37 @@ b. indien een gedeelte van het productierecht komt te vervallen, het aantal vark
 2.  Een aanmelding ter registratie, bedoeld in artikel 105, eerste lid, wordt voor de toepassing van paragraaf 2 eerst in behandeling genomen nadat een bedrag van € 35 aan de Dienst Regelingen is voldaan.   
 3.  Indien de minister op grond van [artikel 29, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) niet tot registratie overgaat, wordt het bedrag, bedoeld in het eerste lid, aan de betaler gerestitueerd.   
 4.  Het bedrag, bedoeld in het tweede lid, geldt per verzoek per bedrijf.   
+
+### §  4a  
+
+####Versoepeling compartimentering bij mestverwerking of mestvergisting
+
+### Artikel  111a  
+
+1.  [Artikel 26, zevende lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is van toepassing indien wordt voldaan aan de volgende voorwaarden: 
+
+a. de mestverwerking of mestvergisting geschiedt in een installatie die overeenkomstig artikel 23, eerste lid, of 24, eerste lid, van verordening (EG) nr. 1069/2009 geregistreerd respectievelijk erkend is;  
+
+b. ten aanzien van de installatie is een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) omgevingsrecht afgegeven;  
+
+c. de mestverwerking of mestvergisting van de dierlijke meststoffen geschiedt in een installatie op een naar het oordeel van de minister adequate wijze;  
+
+d. de installatie waarin de dierlijke meststoffen worden verwerkt of vergist, heeft naar het oordeel van de minister voldoende capaciteit om de met de overgang of verplaatsing gemoeide hoeveelheid dierlijke meststoffen te verwerken, onderscheidenlijk te vergisten;  
+
+e. de hoeveelheid in een kalenderjaar op het bedrijf geproduceerde dierlijke meststoffen, in verband met de overgang of verplaatsing, wordt uiterlijk in het daarop volgende kalenderjaar in de installatie verwerkt of vergist en uiterlijk in het daarop volgende kalenderjaar worden de eindproducten die bij de mestverwerking of de mestvergisting ontstaan, afgezet;  
+
+f. de geproduceerde hoeveelheid dierlijke mestststoffen, in verband met de overgang of verplaatsing, wordt verwerkt door middel van mestverwerking of mestvergisting in een mestverwerkingsinstallatie of mestvergistingsinstallatie die behoort tot het bedrijf waarnaar het productierecht, of gedeelte daarvan, zal overgaan, of waarbinnen de varkens-, kippen- of kalkoenhouderij zal worden verplaatst;  
+
+g. de eindproducten die bij de mestverwerking of mestvergisting ontstaan, worden niet binnen de markt voor dierlijke mest afgezet;  
+
+h. indien de mestverwerking of de vergisting van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de Dienst Regelingen, en  
+
+i. wijzigingen in de ingevolge artikel 104 verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de Dienst Regelingen ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan deze dienst.     
+2.  Indien niet wordt voldaan aan de voorwaarden, genoemd in het eerste lid, wordt van het op dat bedrijf rustende varkensrecht onderscheidenlijk pluimveerecht dat deel buiten beschouwing gelaten dat volgens [artikel 26, zevende lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is overgegaan van een bedrijf dat geheel of gedeeltelijk is gelegen buiten dat concentratiegebied naar een bedrijf dat geheel of gedeeltelijk is gelegen binnen het concentratiegebied.   
+
+### Artikel  111b  
+
+Een productierecht, of een gedeelte daarvan, dat is overgegaan ingevolge het bepaalde in [artikel 26, zevende lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) kan niet overgaan naar een ander bedrijf binnen het concentratiegebied.  
 
 ### §  5  
 
@@ -1848,9 +1921,21 @@ I. Stoffen die als meststof kunnen worden verhandeld
 
 15. Reststof die is vrijgekomen bij de ontzwaveling van rookgassen afkomstig van afgedankte katalysatorpellets gebruikt voor het kraken van olie van olieraffinaderijen al dan niet onder toevoeging van metaalhoudende slibben en/of filterkoeken, nadat deze in een wervel bed oven of een roterende trommeloven thermisch zijn behandeld om molybdeen, kobalt, nikkel en vanadium terug te winnen. De rookgassen worden gefilterd en met luchtwassers wordt zwaveldioxide aan magnesiumhydroxide tot magnesiumsulfiet gebonden dat vervolgens geoxideerd wordt tot een oplossing van magnesiumsulfaat in water met minder dan 100 mg fluoride per kg (waterige oplossing van magnesiumsulfaat van rookgasreiniging).  
 
-16. Reststof die is vrijgekomen bij de fabrieksmatige verwerking van aardappelen door het scheiden van resten aardappel, vet en onoplosbaar zetmeel waarna de geschoonde vloeistof anaëroob wordt gezuiverd en dan koolzuurgas wordt verwijderd en vervolgens magnesiumoxide wordt toegevoegd en het dan gevormde precipitaat wordt afgescheiden en gewassen, ontwaterd en gedroogd en die bestaat uit magnesiumammoniumfosfaat (magnesiumammoniumfosfaat van aardappelproceswater).  
+16. Reststof die is vrijgekomen bij de fabrieksmatige verwerking van aardappelen door het scheiden van resten aardappel, vet en onoplosbaar zetmeel waarna de geschoonde vloeistof anaëroob wordt gezuiverd en dan koolzuurgas wordt verwijderd en vervolgens magnesiumoxide wordt toegevoegd en het dan gevormde precipitaat wordt afgescheiden en gewassen, ontwaterd en eventueel gedroogd en die bestaat uit magnesiumammoniumfosfaat (magnesiumammoniumfosfaat van aardappelproceswater).  
 
-17. Reststof die is vrijgekomen bij de fabrieksmatige bewerking van wei van kaasproductie na verwijdering van eiwit en calcium- en magnesiumfosfaten en die bestaat uit een oplossing van natriumchloride en kaliumchloride in water (natrium- en kaliumchlorideoplossing in water afkomstig van kaasproductie).   II. Stoffen die als meststof kunnen worden verhandeld (Categorieën afvalstoffen of reststoffen) 
+17. Reststof die is vrijgekomen bij de fabrieksmatige bewerking van wei van kaasproductie na verwijdering van eiwit en calcium- en magnesiumfosfaten en die bestaat uit een oplossing van natriumchloride en kaliumchloride in water (natrium- en kaliumchlorideoplossing in water afkomstig van kaasproductie).  
+
+18. Reststof die is vrijgekomen bij de productie van methionine en die bestaat uit een waterige oplossing van kaliumbicarbonaat, enig kaliumcarbonaat en resten methionine, alanine en dimeren van methionine (kaliumbicarbonaat uit methionineproductie).  
+
+19. Reststof die is vrijgekomen bij de fabrieksmatige productie van papier en karton en die bestaat uit een mengsel van geschoond papiercellulose en oppervlaktewater (stabilisator voor het bodemoppervlak op basis van papiercellulose).  
+
+20. Reststof die is vrijgekomen bij rookgasontzwavelinginstallaties van de poederkoolgestookte elektriciteitscentrale met bijstook van biomassa na wassen met een calciumhydroxide-suspensie en afscheiding en droging en die bestaat uit calciumsulfaatdihydraat (rookgasontzwavelinggips van kalk uit poederkoolgestookte elektriciteitscentrale).  
+
+21. Reststof die is vrijgekomen bij rookgasontzwavelinginstallaties van de poederkoolgestookte elektriciteitscentrale met bijstook van biomassa na wassen met een calciumcarbonaatsuspensie en afscheiding en droging en die bestaat uit calciumsulfaatdihydraat (rookgasontzwavelinggips van kalksteen).  
+
+22. Reststof die is vrijgekomen bij de chemische reiniging van lucht uit een bedrijfshal met tunnels waarin pluimveemest wordt gecomposteerd, gedroogd en gepelleteerd, door middel van het wassen met een verdunde waterige oplossing van zwavelzuur en die bestaat uit een zure oplossing van ammoniumsulfaat in water (ammoniumsulfaathoudend spuiwater van chemische luchtwassers van mestkorrelinstallaties voor pluimveemest).  
+
+23. Reststof die is vrijgekomen bij de fabrieksmatige verwerking van uien en dat uitsluitend bestaat uit het perssap van pulp van vermalen en gekookte uien, dat resteert na het kook- en destillatieproces ten behoeve van de winning van uienolie (uienperssap).   II. Stoffen die als meststof kunnen worden verhandeld (Categorieën afvalstoffen of reststoffen) 
 
 1. Reststof die is vrijgekomen bij de chemische reiniging van stallucht van veehouderijbedrijven door het wassen van de stallucht met ammoniak in een verdunde oplossing van zwavelzuur en die bestaat uit een ammoniumsulfaatoplossing in water (spuiwater uit luchtwassers met een chemische wasstap).  
 
@@ -1858,17 +1943,22 @@ I. Stoffen die als meststof kunnen worden verhandeld
 
 3. reststof die is vrijgekomen bij de reiniging van stallucht van veehouderijbedrijven door het wassen van stallucht met water (spuiwater uit luchtwassers met een water wasstap).   III. Stoffen die bij de productie van meststoffen kunnen worden gebruikt 
 
-1. Reststof die is vrijgekomen bij de productie van magnesiumcalciumhydroxide uit gebrand dolomietkalksteen (magnesiumcalciumoxide gevormd uit magnesiumcalciumcarbonaat) en die bestaat uit grijswit granulaat van magnesiumcalciumoxide en magnesiumcalciumhydroxide (granulaat van magnesiumcalciumhydroxide),   IV. Eindproducten van bewerkingsprocédés die als meststof kunnen worden verhandeld  
+1. Reststof die is vrijgekomen bij de productie van magnesiumcalciumhydroxide uit gebrand dolomietkalksteen (magnesiumcalciumoxide gevormd uit magnesiumcalciumcarbonaat) en die bestaat uit grijswit granulaat van magnesiumcalciumoxide en magnesiumcalciumhydroxide (granulaat van magnesiumcalciumhydroxide),  
+
+2. Reststof die is vrijgekomen bij rookgasontzwavelinginstallaties van de poederkoolgestookte elektriciteitscentrale met bijstook van biomassa na wassen met een calciumhydroxide-suspensie en afscheiding en droging en die bestaat uit calciumsulfaatdihydraat (rookgasontzwavelinggips van kalk uit poederkoolgestookte elektriciteitscentrale).  
+
+3. Reststof die is vrijgekomen bij rookgasontzwavelinginstallaties van de poederkoolgestookte elektriciteitscentrale met bijstook van biomassa na wassen met een calciumcarbonaatsuspensie en afscheiding en droging en die bestaat uit calciumsulfaatdihydraat (rookgasontzwavelinggips van kalksteen).   IV. Eindproducten van bewerkingsprocédés die als meststof kunnen worden verhandeld  
 
 | --- | --- |
 |:---|:---|
 | Categorie 1.  | Product dat verkregen is door vergisting van ten minste 50 gewichtsprocenten uitwerpselen van dieren met als nevenbestanddeel uitsluitend één of meer van de stoffen die genoemd zijn onder de in onderstaande tabel onderscheiden categorieën of subcategorieën (covergiste mest):  |
 |  *A*   |  *Stoffen van plantaardige herkomst afkomstig van een landbouwbedrijf*   |
 |  *A1*   |  *Gewas(-producten) voor humane consumptie of diervoeders*   |
-| 1  | Weidegras, weidekuilgras, snijmaïs, kuilmaïs/maïssilage, korrelmaïs, corn cob mix (CCM), gerstkorrels, haverkorrels, roggekorrels, tarwekorrels, aardappelen, suikerbieten, voederbieten, uien, witlofpennen, zaad van erwten, zaad van lupinen, bonen/peulen van veldbonen, zonnebloempitten, zaad van kool- of raapzaad, zaad van olievlas, zaad van vezelvlas, groente en fruit behorend tot de in bijlage A opgenomen bladgewassen, koolgewassen, kruiden, vruchtgewassen, stengel-/knol-/wortelgewassen en fruitteeltgewassen.  |
+| 1  | Weidegras, op het veld gedroogd weidegras, weidekuilgras, snijmaïs, kuilmaïs/maïssilage, korrelmaïs, corn cob mix (CCM), gerstkorrels, haverkorrels, roggekorrels, tarwekorrels, aardappelen, suikerbieten, voederbieten, uien, witlofpennen, zaad van erwten, gehele plantsilage van erwten, zaad van lupinen, bonen/peulen van veldbonen, zonnebloempitten, zaad van kool- of raapzaad, stro van koolzaad, zaad van olievlas, zaad van vezelvlas, groente en fruit behorend tot de in bijlage A opgenomen bladgewassen, koolgewassen, kruiden, vruchtgewassen, stengel-/knol-/wortelgewassen en fruitteeltgewassen.  |
 |  *A2*   |  *Gewas(-producten) voor de biogasproductie*   |
 | 1  | Energiemaïs  |
-|  *B*   |  *Stoffen van plantaardige herkomst afkomstig van natuurterrein als bedoeld in artikel 1, eerste lid, onderdeel e, van het Besluit gebruik meststoffen*   |
+|  *B*   |  *stoffen van plantaardige herkomst afkomstig van natuurterrein als bedoeld in artikel 1, eerste lid, onderdeel e, van het Besluit gebruik meststoffen*   |
+| 1  | Weidegras en op het veld gedroogd weidegras afkomstig van grasland als bedoeld in [artikel 1, eerste lid, onderdeel c, van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md).  |
 |  *B1*   |  *Weidegras afkomstig van grasland als bedoeld in artikel 1, eerste lid, onderdeel c, van het Besluit gebruik meststoffen.*   |
 |  *C*   |  *Stoffen afkomstig uit de voedings- en genotmiddelenindustrie*   |
 |  *C1*   |  *Stoffen van plantaardige herkomst*   |
@@ -1888,11 +1978,30 @@ I. Stoffen die als meststof kunnen worden verhandeld
 | 14  | Reststof die is vrijgekomen bij de fabrieksmatige productie van sojadranken door verwerking van ontpelde sojabonen en die bestaat uit een mengsel van kookvocht en de afgescheiden slecht oplosbare fractie (mengsel van okara en kookvocht).  |
 | 15  | Reststof die is vrijgekomen bij de fabrieksmatige verwerking van vooraf gewassen aardappelen, gele koolraap, witte koolraap, witte bieten en knolselderij tot luchtgedroogde groenten waarbij deze met een stoomschiller worden geschild, afgeborsteld en met water afgespoeld en vervolgens gedroogd met lucht. De reststof bestaat uit de vaste delen die met een zeefbocht zijn afgescheiden van de afvalwaterstroom die uit de stoomschiller komt en uit de knollen die na het schillen vanwege rot of kleurafwijking zijn uitgesorteerd. (stoomschillen van knolgewassen).  |
 | 16  | Reststof die is vrijgekomen bij de fabrieksmatige verwerking van suikerbieten en die bestaat uit gereinigde brokstukken van de biet, met name de dunne uiteinden, en delen van bietenbladeren, al dan niet ingekuild. (bietenpunten).  |
+| 17  | Reststof die is vrijgekomen bij de fabrieksmatige verwerking van suikerbieten via een proces van wassen, snijden en extraheren met heet water ten behoeve van de winning van suiker en dat uitsluitend bestaat uit het geperste snijdsel (bietenperspulp).  |
+| 18  | Reststof die is vrijgekomen bij de fabrieksmatige verwerking van uien en die uitsluitend bestaat uit al dan niet ontwaterde, vermalen en gekookte uien, dat resteert na het kook- en distillatieproces ten behoeve van de winning van uienolie (uienpulp).  |
+| 19  | Reststof die is vrijgekomen bij de fabrieksmatige verwerking van uien en dat uitsluitend bestaat uit het perssap van pulp van vermalen en gekookte uien, dat resteert na het kook- en destillatieproces ten behoeve van de winning van uienolie (uienperssap).  |
+| 20  | Reststof die is vrijgekomen bij de fabrieksmatige verwerking van geschoonde en gewassen zetmeelaardappelen die zijn fijn gemaakt met behulp van raspen en waaruit aardappelzetmeel en aardappelvruchtwater zijn verwijderd en dat vervolgens met persen ontwaterd is (aardappelpersvezels).  |
+| 21  | Reststof die is vrijgekomen bij het brouwen van bier en bestaat uit uitgetrokken en afgewerkte mout en dat uitsluitend bestaat uit het omhulsel van kaf, vruchtwand of zaadhuid en niet in warm water oplosbare bestanddelen van gerst of tarwe (bierbostel).  |
+| 22  | Reststof die is vrijgekomen bij de fabrieksmatige verwerking van cichoreiwortelen tot inuline en fructosestroop en dat uitsluitend bestaat uit het uitgewassen en uitgeperste snijdsel (cigarant).  |
+| 23  | Reststof die is vrijgekomen bij de verwerking van gemalen en gezeefde erwten waaruit eiwit en/of zetmeel is verwijderd en waaruit eventueel vocht door persing is onttrokken en hoofdzakelijk bestaat uit celwanden en zetmeel (erwten(pers)vezel).  |
+| 24  | Reststof die is vrijgekomen bij de verwerking van gemalen en gezeefde erwten waaruit celwanden en zetmeel verwijderd is en hoofdzakelijk bestaat uit eiwit (erwteneiwit).  |
+| 25  | Reststof die is vrijgekomen bij de verwerking van gemalen en gezeefde erwten waaruit eiwit en/of zetmeel onttrokken is en gemengd is met erwteneiwit (erwtencrème).  |
+| 26  | Reststof die is vrijgekomen bij de winning van olie door extractie en geschikte hittebehandeling van kool- en raapzaadschilfers en hoofdzakelijk bestaat uit celwanden, zetmeel en eiwit afkomstig van koolzaad of raapzaad (koolzaadschroot of raapzaadschroot).  |
+| 27  | Bijproduct die vrijgekomen is bij de verwerking van geschoonde gerst tot gort, grutten of bloem en vrijwel uitsluitend bestaat uit het endospermen fijne schilddeeltjes (doppen) van de gerstkorrel (gersteslijpmeelpellets).  |
+| 28  | Reststof die is vrijgekomen bij de bereiding van bloem of mout uit geschoonde tarwekorrels en overwegend bestaat uit gries, fijne tarwestof van doorval door zeven en afzuiginstallaties, afgekeurde bloem, tarwebloem, gebroken tarwe en onkruidzaden (tarwevoergriespellets).  |
+| 29  | Reststof die is vrijgekomen bij de verwerking van geschoonde gerstekorrels tot mout en die in hoofdzaak bestaat uit de gerstpellen (gerstpellen).  |
+| 30  | Reststof die is vrijgekomen bij de productie van alcohol uit vergist beslag van graan nadat de alcohol (ethanol, bioethanol) door destillatie is verwijderd en dat in hoofdzaak bestaat uit de vaste residuen van granen al dan niet gedroogd (graanspoeling, gedroogde graanspoeling).  |
+| 31  | Reststof verkregen bij de verwerking van geschoonde, gebrande en gemalen koffiebonen tot koffie-extract en die bestaat uit het bezinksel van gemalen geëxtraheerde gebrande en gemalen koffiebonen (koffiedik).  |
 |  *C2*   |  *Stoffen van dierlijke herkomst al dan niet gecombineerd met stoffen van plantaardige herkomst*   |
 | 1  | Reststof die is vrijgekomen bij het fabrieksmatig uitpakken door een daartoe gespecialiseerd bedrijf van uitsluitend verpakte vloeibare zuivelproducten die afkomstig zijn van detailhandel, groothandel of producenten en uitsluitend wegens overschrijding van de houdbaarheidsdatum, verpakkingsfouten of verkeerde bewaring ongeschikt zijn geworden voor humane consumptie. De reststof bestaat uit uitgepakte vloeibare zuivelproducten of mengsels daarvan en is vrij van verpakkingsmateriaal en reinigingswater (uitgepakte vloeibare zuivelproducten en mengsels daarvan).  |
 | 2  | Reststof die is vrijgekomen bij de fabrieksmatige bereiding van consumptie-ijs en die bestaat uit grondstofresten, ijsmixresten en afgekeurde ijsproducten en vrij is van verpakkingsmateriaal en reinigingswater (ijsafval).  |
 | 3  | Reststof die als mengsel is vrijgekomen bij het fabrieksmatig uitpakken door een daartoe gespecialiseerd bedrijf van uitsluitend verpakte voedingsmiddelen die afkomstig zijn van detailhandel, groothandel of producenten en uitsluitend wegens overschrijding van de houdbaarheidsdatum, verpakkingsfouten of verkeerde bewaring ongeschikt zijn geworden voor humane consumptie. Het mengsel bestaat uit uitgepakte voedingsmiddelen die oorspronkelijk bestemd waren voor humane consumptie en is vrij van verpakkingsmateriaal en reinigingswater (uitgepakte voedingsmiddelen voor humane consumptie).  |
 | 4  | Reststof die is vrijgekomen bij de fabrieksmatige verwijdering van lactose door scheiding uit het permeaat dat is verkregen door ultrafiltratie van zoete kaaswei (delactosed permeate liquid).  |
+| 5  | Reststof die is vrijgekomen bij de fabrieksmatige productie van uitsluitend de voedingsmiddelen salades, sauzen en quiches en die bestaat uit slib na fysisch chemische zuivering van afvalwater door flocculatie en flotatie (voedingsmiddelen flotatieslib).  |
+| 6  | Reststof die is vrijgekomen bij de productie van brood en banket en die bestaat uit resten brood, koek, banket en deegresten en die zijn uitgevallen bij het productieproces en oorspronkelijk bestemd waren om in voedingsmiddelen te verwerken en niet bestaan uit veegvuil, productievreemde delen, keukenafval en etensresten (bakkerijrestproducten).  |
+| 7  | Reststof die is vrijgekomen bij de bereiding van kaas, kwark of caseïne en hoofdzakelijk bestaat uit melksuiker (lactose), resten eiwit en resten melkvet en mineralen van melk. De reststof kan geconcentreerd of gedroogd zijn (wei, weiconcentraat of gedroogde wei).  |
+| 8  | Reststof die is vrijgekomen bij het ontkorsten van kaas afkomstig van gepasteuriseerde koeienmelk en bestemd is voor levensmiddelen en die bestaat uit kaas, kaaskorst en maximaal 3% kaaskorstbedekkingsmiddel van copolymeren van vinylacetaat en maximaal 0,0006% Natamycine (E235) bevat (kaasschaafsel).  |
 |  *D*   |  *Stoffen afkomstig uit de diervoederindustrie*   |
 |  *E*   |  *Stoffen afkomstig uit andere industrieën*   |
 | 1  | Reststof die is vrijgekomen bij de fabrieksmatige winning van biodiesel uit raapzaadolie of koolzaadolie door omestering met methanol en scheiding onder invloed van de zwaartekracht (glycerine).  |
@@ -2716,7 +2825,7 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 
 De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans. In deze tabel zijn voor staldieren wel excretieforfaits opgenomen (schuingedrukt) als hulpmiddel om te bepalen of gebruik gemaakt kan worden van artikel 43.  
 
-|--- |--- |--- |--- | A  | B  | C  | D  | Diersoorten  | Per diersoort onderscheiden diercategorieën  <sup> a   Als de omschrijving van de categorieën niet aansluit bij de voorkomende situatie dienen de forfaits gehanteerd te worden van de categorie die het best aansluit bij de voorkomende situatie    </sup> | Diernummer  | Stalsysteem  | Excretie per dier in de periode van 1 september tot 1 maart  | Excretie per dier per jaar  | Stikstof-correctie, kg/dier/jaar  <sup> e   Behorende bij artikel 96  van de Uitvoeringsregeling Meststoffenwet.    </sup> | m3  <sup> b   Behorende bij artikel 36  van de Uitvoeringsregeling Meststoffenwet.    </sup> | kg stikstof  <sup> c   Behorende bij de artikelen 43  en 73  van de Uitvoeringsregeling Meststoffenwet. Mbt artikel 73  alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren.    </sup> | kg Fosfaat  <sup> d   Behorende bij artikel 73  van de Uitvoeringsregeling Meststoffenwet. Alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren.    </sup> |
+|--- |--- |--- |--- | A  | B  | C  | D  | Diersoorten  | Per diersoort onderscheiden diercategorieën <sup>a</sup>  | Diernummer  | Stalsysteem  | Excretie per dier in de periode van 1 september tot 1 maart  | Excretie per dier per jaar  | Stikstof-correctie, kg/dier/jaar <sup>e</sup>  | m3 <sup>b</sup>  | kg stikstof <sup>c</sup>  | kg Fosfaat <sup>d</sup>  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Bos Taurus (Rund)  | 10  | --- | --- | --- | --- | --- |
 | --- | Melk- en kalfkoeien (alle koeien die ten minste éénmaal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken)  | 100  | --- | Zie tabel II  | Zie tabel II  | Zie tabel II  | –  |
@@ -2736,7 +2845,7 @@ De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans
 | --- | Fokstieren (stieren van 2 jaar en ouder)  | 104  | alle  | 6,2  | 72,9  | 25,2  | –  |
 | Ovis Aries (Schaap)  | 55  | --- | --- | --- | --- | --- |
 | --- | Fokschapen (alle vrouwelijke schapen die ten minste éénmaal hebben gelammerd, inclusief alle schapen tot een gewicht van ca. 25 kg voor zover gehouden op het bedrijf waar deze schapen geboren zijn)  | 550  | alle  | 0,41  | 10,2  | 3,6  | –  |
-| --- | Overige schapen  | 552  | alle  | –  <sup> f   De mestproductie van deze dieren is reeds verrekend in het forfait van de fokschapen.    </sup> | 7,4  | 2,4  | –  |
+| --- | Overige schapen  | 552  | alle  | – <sup>f</sup>  | 7,4  | 2,4  | –  |
 | Capra hircus (Geit)  | 60  | --- | --- | --- | --- | --- |
 | --- | Melkgeiten (alle vrouwelijke geiten die ten minste éénmaal hebben gelammerd, inclusief pas geboren lammeren en opfokgeiten tot ca. 60 dagen, en inclusief alle bokken van 7 maanden en ouder)  | 600  | alle  | 0,62  | 5,8  | 3,6  | –  |
 | --- | Vleesgeiten (geiten die gehouden worden om te worden geslacht op een gewicht van ca. 10 kg)  | 601  | alle  | 0,05  | 0,53  | 0,3  | –  |
@@ -2831,39 +2940,42 @@ De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans
 | --- | Vleeskonijnen (alle jonge konijnen die na het spenen zijn bestemd voor de vleesproductie)  | 901  | vaste mest  | 0,021  | 0,50  | –  | 0,24  |
 | --- | --- | drijfmest  | 0,049  |
 | Rattus norvegicus (Bruine rat)  | 15  | --- | --- | --- | --- | --- |
-| --- | Ratten (alle geslachtsrijpe vrouwelijke ratten)  | --- | alle  | 0,020  | 0,28  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Ratten (alle geslachtsrijpe vrouwelijke ratten)  | --- | alle  | 0,020  | 0,28  | –  | 50% <sup>g</sup>  |
 | Mus musculus (Tamme muis)  | 16  | --- | --- | --- | --- | --- |
-| --- | Muizen (alle geslachtsrijpe vrouwelijke muizen)  | --- | alle  | 0,0023  | 0,033  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Muizen (alle geslachtsrijpe vrouwelijke muizen)  | --- | alle  | 0,0023  | 0,033  | –  | 50% <sup>g</sup>  |
 | Cavia porcellus (Cavia)  | 17  | --- | --- | --- | --- | --- |
-| --- | Cavia’s (alle geslachtsrijpe vrouwelijke cavia’s)  | --- | alle  | 0,046  | 0,65  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Cavia’s (alle geslachtsrijpe vrouwelijke cavia’s)  | --- | alle  | 0,046  | 0,65  | –  | 50% <sup>g</sup>  |
 | Mesocricetus auratus (Goudhamster)  | 18  | --- | --- | --- | --- | --- |
-| --- | Goudhamsters (alle geslachtsrijpe vrouwelijke goudhamsters)  | --- | alle  | 0,013  | 0,18  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Goudhamsters (alle geslachtsrijpe vrouwelijke goudhamsters)  | --- | alle  | 0,013  | 0,18  | –  | 50% <sup>g</sup>  |
 | Meriones unguiculatus (Gerbil)  | 19  | --- | --- | --- | --- | --- |
-| --- | Gerbils (alle geslachtsrijpe vrouwelijke gerbils)  | --- | alle  | 0,004  | 0,057  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Gerbils (alle geslachtsrijpe vrouwelijke gerbils)  | --- | alle  | 0,004  | 0,057  | –  | 50% <sup>g</sup>  |
 | Anas plathyrhynchos (Peking eend)  | 80  | --- | --- | --- | --- | --- |
-| --- | Ouderdieren van vleeseenden (opfokperiode tot 18 weken)  | 802  | vaste mest  | 0,032  | 0,531  | –  | 0,588  |
-| --- | --- | --- | --- | --- |
-| 0,695  | Ouderdieren van vleeseenden (legperiode vanaf 18 weken)  | 803  | vaste mest  | 0,038  | 0,627  | -  | 0,695  |
-| --- | Vleeseenden (eenden die worden gehouden voor de slacht)  | 801  | vaste mest  | 0,030  | 0,48  | --- | 0,4  |
-| --- | --- | drijfmest  | 0,039  | 0,48  | --- |
+| --- | Ouderdieren van vleeseenden (opfok- periode tot 18 weken)  | 802  | Vaste mest  | 0,032  | 0,531  | –  | 0,588  |
+| --- | --- | Drijfmest  | 0,094  | 0,853  | -  | 0,266  |
+| --- | Ouderdieren van vleeseenden (legperiode vanaf 18 weken)  | 803  | Vaste mest  | 0,038  | 0,627  | -  | 0,695  |
+| Drijfmest  | 0,111  | 1,007  | -  | 0,315  |
+| --- | Vleeseenden (eenden die worden gehouden voor de slacht)  | 801  | Vaste mest  | 0,024  | 0,399  | -  | 0,405  |
+| --- | --- | Drijfmest  | 0,069  | 0,630  | -  | 0,174  |
 | Struthio camelus (Struisvogel)  | 25  | --- | --- | --- | --- | --- |
-| --- | Struisvogels (alle geslachtsrijpe vrouwelijke struisvogels)  | --- | alle  | 0,480  | 12,3  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Struisvogels (alle geslachtsrijpe vrouwelijke struisvogels)  | --- | alle  | 0,480  | 12,3  | –  | 50% <sup>g</sup>  |
 | Dromaius novaehollandiae (Emoe)  | 26  | --- | --- | --- | --- | --- |
-| --- | Emoe’s (alle geslachtsrijpe vrouwelijke emoe’s)  | --- | alle  | 0,281  | 7,8  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Emoe’s (alle geslachtsrijpe vrouwelijke emoe’s)  | --- | alle  | 0,281  | 7,8  | –  | 50% <sup>g</sup>  |
 | Rhea Americana (Nandoe)  | 27  | --- | --- | --- | --- | --- |
-| --- | Nandoe’s (alle geslachtsrijpe vrouwelijke nandoe’s)  | --- | alle  | 0,197  | 5,5  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Nandoe’s (alle geslachtsrijpe vrouwelijke nandoe’s)  | --- | alle  | 0,197  | 5,5  | –  | 50% <sup>g</sup>  |
 | Anser cygnoides (Knobbelgans)  | 28  | --- | --- | --- | --- | --- |
-| --- | Knobbelganzen (alle geslachtsrijpe vrouwelijke knobbelganzen)  | --- | alle  | 0,073  | 3,2  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Knobbelganzen (alle geslachtsrijpe vrouwelijke knobbelganzen)  | --- | alle  | 0,073  | 3,2  | –  | 50% <sup>g</sup>  |
 | Anser anser (Grauwe gans)  | 29  | --- | --- | --- | --- | --- |
-| --- | Grauwe ganzen (alle geslachtsrijpe vrouwelijke grauwe ganzen)  | --- | alle  | 0,073  | 3,2  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Grauwe ganzen (alle geslachtsrijpe vrouwelijke grauwe ganzen)  | --- | alle  | 0,073  | 3,2  | –  | 50% <sup>g</sup>  |
 | Numida meleagris (Helmparelhoen)  | 95  | --- | --- | --- | --- | --- |
-| --- | Parelhoenders (alle geslachtsrijpe vrouwelijke parelhoenders)  | --- | alle  | 0,008  | 0,30  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Parelhoenders (alle geslachtsrijpe vrouwelijke parelhoenders)  | --- | alle  | 0,008  | 0,30  | –  | 50% <sup>g</sup>  |
 | Phasianus colchicus (Fazant)  | 35  | --- | --- | --- | --- | --- |
-| --- | Fazanten (alle geslachtsrijpe vrouwelijke fazanten)  | --- | alle  | 0,005  | 0,12  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Fazanten (alle geslachtsrijpe vrouwelijke fazanten)  | --- | alle  | 0,005  | 0,12  | –  | 50% <sup>g</sup>  |
 | Perdix perdix (Patrijs)  | 36  | --- | --- | --- | --- | --- |
-| --- | Patrijzen (alle geslachtsrijpe vrouwelijke patrijzen)  | --- | alle  | 0,002  | 0,11  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Patrijzen (alle geslachtsrijpe vrouwelijke patrijzen)  | --- | alle  | 0,002  | 0,11  | –  | 50% <sup>g</sup>  |
 | Columbia livia (Vleesduif)  | 37  | --- | --- | --- | --- | --- |
-| --- | Duiven (alle geslachtsrijpe vrouwelijke duiven)  | --- | alle  | 0,0008  | 0,05  | –  | 50%  <sup> g   Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.    </sup> |
+| --- | Duiven (alle geslachtsrijpe vrouwelijke duiven)  | --- | alle  | 0,0008  | 0,05  | –  | 50% <sup>g</sup>  |
+
+<sup>a</sup> Als de omschrijving van de categorieën niet aansluit bij de voorkomende situatie dienen de forfaits gehanteerd te worden van de categorie die het best aansluit bij de voorkomende situatie <sup>b</sup> Behorende bij artikel 36 van de Uitvoeringsregeling Meststoffenwet. <sup>c</sup> Behorende bij de artikelen 43 en 73 van de Uitvoeringsregeling Meststoffenwet. Mbt artikel 73 alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren. <sup>d</sup> Behorende bij artikel 73 van de Uitvoeringsregeling Meststoffenwet. Alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren. <sup>e</sup> Behorende bij artikel 96 van de Uitvoeringsregeling Meststoffenwet. <sup>f</sup> De mestproductie van deze dieren is reeds verrekend in het forfait van de fokschapen. <sup>g</sup> Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.  
 
 ####Tabel II A. Excretieforfaits per melkkoe drijfmest, behorende bij de artikelen 36  en 74 
 
@@ -3014,7 +3126,7 @@ Stikstofexcretie en fosfaatexcretie per koe (in kg stikstof resp. kg fosfaat per
 
 ### Bijlage  E  
 
-####behorende bij de artikelen 53 , 78  en 79 
+####behorende bij de artikelen 53 , 78 , 82  en 79 
 
 #### *A. Prestatiekenmerken bemonsteringsapparatuur* 
 
@@ -3028,13 +3140,15 @@ b. de samenstelling van het monster ten aanzien van fosfor en stikstof wijkt nie
 
 c. de toevallige afwijking ten aanzien van fosfor en stikstof tussen de samenstelling van het monster en de gemiddelde samenstelling van de vracht vloeibare dierlijke meststoffen bedraagt minder dan 15% (2s-interval);  
 
-d. zowel bij het laden als bij het lossen kan een monster worden genomen;  
+d. bij vervoer middels een transportvoertuig kan zowel bij het laden als bij het lossen een monster worden genomen;  
 
-e. alle te laden of te lossen dierlijke meststoffen passeren de bemonsteringsapparatuur; en  
+e. de vracht dierlijke meststoffen passeert de bemonsteringsapparatuur bij het laden en lossen;  
 
 f. gedurende de bemonstering garanderen fysieke of elektronische voorzieningen dat andere in- en uitstroomopeningen dan waarop de bemonsteringsapparatuur is aangesloten, zijn gesloten.    
 
-3. Het monster wordt genomen door verdeeld over de laadtijd vijfmaal een hoeveelheid van circa 150 milliliter af te tappen uit de vracht door middel van de bemonsteringsapparatuur bij een vullingsgraad van 9 tot 20, 31 tot 35, 50 tot 51, 65 tot 71 en 80–91% van de tank.    
+3. Het monster wordt bij vervoer door middel van een transportvoertuig genomen door verdeeld over de laadtijd vijfmaal een hoeveelheid van circa 150 milliliter af te tappen uit de vracht door middel van de bemonsteringsapparatuur bij een vullingsgraad van 9 tot 20, 31 tot 35, 50 tot 51, 65 tot 71 en 80–91% van de tank.  
+
+4. Het monster wordt bij vervoer door middel van een pijpleiding genomen door evenredig verdeeld over de hoeveelheid vijfmaal een hoeveelheid van circa 150 milliliter af te tappen uit de vracht door middel van de bemonsteringsapparatuur. Voorafgaand aan het transport wordt bepaald hoeveel vervoerd gaat worden zodat de juiste monstermomenten bepaald kunnen worden, vergelijkbaar met het vulpercentage bij een tankauto.    
 
 #### *B. Eisen monsterverpakking* 
 
@@ -3072,11 +3186,11 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 #### *3. Koppeling AGR-apparatuur aan verpakkingsapparatuur en satellietvolgapparatuur* 
 
-3.1. De AGR-apparatuur beschikt over een voorziening waarmee de bemonsterings- en verpakkingsapparatuur alsmede de satellietvolgapparatuur elektronisch aan de AGR-apparatuur verbonden zijn.  
+3.1. De AGR-apparatuur beschikt over een voorziening waarmee de bemonsterings- en verpakkingsapparatuur, in het geval van vervoer door middel van een pijpleiding, de in het leidingstelsel opgenomen afsluitkleppen alsmede de satellietvolgapparatuur elektronisch aan de AGR-apparatuur verbonden zijn.  
 
-#### *4. Automatische positiebepaling van het transportvoertuig met satellietvolgapparatuur* 
+#### *4. Automatische positiebepaling van het transportmiddel met satellietvolgapparatuur* 
 
-4.1. De AGR-apparatuur beschikt over een voorziening waarmee de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald voortdurend en automatisch worden vastgelegd. 4.2. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van het nummer van het Vervoersbewijs dierlijke meststoffen de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.3. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.4. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen op het transportmiddel automatisch het moment van laden, onderscheidenlijk het moment van lossen wordt onderkend alsmede over een voorziening waarmee de op voornoemde momenten door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.  
+4.1. De AGR-apparatuur beschikt over een voorziening waarmee de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald voortdurend en automatisch worden vastgelegd. 4.2. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van het nummer van het Vervoersbewijs dierlijke meststoffen de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.3. De AGR-apparatuur beschikt over een voorziening waarmee direct na het inlezen van de identificatie van de monsterverpakking, dan wel de onderdelen waaruit de monsterverpakking bestaat, de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.4. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen op het transportmiddel automatisch het moment van laden, onderscheidenlijk het moment van lossen wordt onderkend alsmede over een voorziening waarmee de op voornoemde momenten door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd. 4.5. In het geval van vervoer door middel van een vaste pijpleiding kunnen de onder 4.1 tot en met 4.4 bedoelde positiegegevens voorgeprogrammeerd zijn. 4.6. De AGR-apparatuur beschikt in het geval van vervoer door middel van een pijpleiding over een voorziening waarmee, indien de hoeveelheid dierlijke meststoffen wordt bepaald met behulp van het apparaat, als bedoeld in artikel 82, derde lid, onderdeel a, en de dichtheid van de mest niet gelijk is aan 1, de meetwaarde van de debietmeter gecorrigeerd kan worden. Deze correctie kan automatisch uitgevoerd worden door en vastgelegd worden in de AGR-apparatuur. Voor het bepalen van de dichtheid wordt gebruik gemaakt van de publicatie van de Wageningen Universiteit uit de Kwantitatieve Informatie voor de Veehouderij (KWIN) (www.livestockresearch.wur.nl).  
 
 #### *5. Opslag van gegevens van de AGR-apparatuur* 
 
@@ -3120,7 +3234,7 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 – het soort bericht ‘lossen van mest’; en  
 
-– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.3. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.4. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van LNV, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.5. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de Dienst Regelingen worden verstrekt, aan op het ontvangstportaal bij Dienst Regelingen.  
+– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.3. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.4. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van Economische Zaken, Landbouw en Innovatie, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.5. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de Dienst Regelingen worden verstrekt, aan op het ontvangstportaal bij Dienst Regelingen.  
 
 #### *7. Signalering van storingen* 
 
@@ -3546,6 +3660,7 @@ NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogenis
 | Nertsen  | Vaste mest  | 75  | 34,2  | 35,8  |
 | --- | Drijfmest  | 76  | 9,6  | 6,0  |
 | Eenden  | Vaste mest  | 80  | 9,1  | 8,5  |
+| --- | Drijfmest  | 81  | 4,5  | 3,5  |
 | Konijnen  | Vaste mest  | 90  | 12,9  | 12,4  |
 | --- | Drijfmest met percentage droge stof < 2,5%  | 91  | 0,0  | 0,0  |
 | --- | Drijfmest  | 92  | 5,1  | 4,1  |
@@ -4204,8 +4319,8 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 81, lid 3,  art. 125  | Niet voldoen door het laboratorium aan de in het accreditatieprogramma AP05 gestelde eisen  | M524  | € 300  |
 | --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 82  | Niet op juiste wijze bepalen van het gewicht van kalvergier door de afnemer  | M525  | € 300  |
-| --- | --- | --- | Niet op juiste wijze uitvoeren van de bemonstering en verpakking van monsters kalvergier door de afnemer  | M526  | € 300  |
+| --- | --- | Art. 82  | Niet op juiste wijze bepalen van het gewicht van drijfmest die met behulp van een pijpleiding is vervoerd door de afnemer  | M525  | € 300  |
+| --- | --- | --- | Niet op juiste wijze uitvoeren van de bemonstering en verpakking van monsters drijfmest die met behulp van een pijpleiding is vervoerd door de afnemer  | M526  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 83  | Niet of niet op juiste wijze bepalen van het gewicht en het stikstof- en fosfaatgehalte van een vracht mestkorrels op basis van de verpakking of het begeleidend document  | M527  | € 300  |
 | --- | --- | --- | --- | --- | --- |
@@ -4220,6 +4335,8 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | Art. 88,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de aan- en afvoer van konijnengier worden nageleefd  | M532  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 89,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden worden nageleefd die zijn gesteld aan de afvoer van paardenmest bestemd voor de productie van substraat voor de teelt van champignons of voor de productie van een grondstof voor de productie van dat substraat  | M533  | € 300  |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | Art. 89a,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen afkomstig van paarden of pony’s van een bedrijf in de gemeente Vlieland naar een ander bedrijf in de gemeente Vlieland worden nageleefd.  | M548  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 90,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen door een klein bedrijf naar een ander bedrijf worden nageleefd  | M534  | € 300  |
 | --- | --- | --- | --- | --- | --- |

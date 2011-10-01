@@ -1166,6 +1166,90 @@ i. de aanwijzing van een andere school of andere scholen waaraan een personeelsl
 
 ####Overige bepalingen met betrekking tot het uit de openbare kassen bekostigd onderwijs
 
+### Afdeling  1  
+
+####Fusietoets
+
+### Artikel  64  
+
+####Begripsbepalingen
+
+1.  In deze afdeling wordt verstaan onder: 
+
+a. *fusie:* een bestuurlijke of institutionele fusie,  
+
+b. *institutionele fusie:* een fusie waarbij een school ontstaat door samenvoeging van twee of meer scholen,  
+
+c. *bestuurlijke fusie:* een fusie waarbij een of meer rechtspersonen de instandhouding van een school, een school als bedoeld in de [Wet op de expertisecentra](../../../wet/isovso/BWBR0003549/README.md) dan wel de [Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) overdragen.     
+2.  Het eerste lid, onderdeel c, is niet van toepassing op het instellen van een openbare rechtspersoon als bedoeld in artikel 47, eerste lid, eerste volzin, of de instandhouding van een of meer openbare scholen door een stichting als bedoeld in artikel 48, eerste lid.   
+
+### Artikel  64a  
+
+####Toestemmingsplichtige fusies en verplichte fusie-effectrapportage
+
+1.  Fusies worden niet tot stand gebracht dan nadat daarvoor goedkeuring is verleend door Onze minister.   
+2.  De goedkeuring, bedoeld in het eerste lid, is niet vereist voor: 
+
+a. een institutionele fusie waarbij het totaal aantal leerlingen van de betrokken scholen minder dan 500 bedraagt, of  
+
+b. een bestuurlijke fusie, met uitzondering van de bestuurlijke fusie bedoeld in artikel 17, waarbij het aantal betrokken scholen minder dan 10 bedraagt.     
+3.  De rechtspersoon dan wel de betrokken rechtspersonen stellen een fusie-effectrapportage op voor iedere institutionele of bestuurlijke fusie.   
+
+### Artikel  64b  
+
+####Aanvraag en fusie-effectrapportage
+
+1.  De rechtspersoon dient dan wel de rechtspersonen gezamenlijk dienen een aanvraag in bij Onze minister voor het verkrijgen van de goedkeuring, bedoeld in artikel 64a, eerste lid. De aanvraag gaat vergezeld van: 
+
+a. een door de rechtspersoon dan wel rechtspersonen opgestelde fusie-effectrapportage, en  
+
+b. een schriftelijke verklaring van instemming met de fusie door de medezeggenschapsraden dan wel de gemeenschappelijke medezeggenschapsraden, dan wel  
+
+c. de bindende uitspraak van de geschillencommissie, bedoeld in [artikel 32, derde lid, van de Wet medezeggenschap op scholen](../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md), dan wel de bindende uitspraak van de ondernemingskamer, bedoeld in [artikel 36, derde lid, van de Wet medezeggenschap op scholen](../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md).     
+2.  De fusie-effectrapportage bevat ten minste een weergave van: 
+
+a. de motieven voor de fusie,  
+
+b. de alternatieven voor de fusie,  
+
+c. het tijdsbestek waarbinnen de fusie zal worden gerealiseerd,  
+
+d. de te bereiken doelen,  
+
+e. de effecten van de fusie op de keuzevrijheid, in het bijzonder de effecten van de fusie op de spreiding en omvang van de rechtspersonen en scholen in het voedingsgebied en de onderwijskundige en bestuurlijke diversiteit van het onderwijsaanbod in het voedingsgebied,  
+
+f. de kosten en baten van de fusie,  
+
+g. de gevolgen van de fusie voor het personeel en leerlingen, waaronder begrepen de gevolgen voor de voorzieningen,  
+
+h. de wijze waarop over de fusie wordt gecommuniceerd,  
+
+i. de wijze waarop de fusie wordt geëvalueerd, en  
+
+j. een advies van burgemeester en wethouders van de betrokken gemeenten over de wenselijkheid van de voorgestelde fusie.     
+3.  Bij ministeriële regeling wordt een modelformulier voor de fusie-effectrapportage vastgesteld.   
+
+### Artikel  64c  
+
+####Toets
+
+1.  Onze minister kan goedkeuring onthouden indien als gevolg van de fusie de daadwerkelijke variatie van het onderwijsaanbod, zowel in het opzicht van richting en pedagogisch-didactische aanpak binnen het voedingsgebied van de te fuseren scholen of rechtspersonen, op significante wijze wordt belemmerd.   
+2.  Onze minister verleent slechts goedkeuring aan een bestuurlijke fusie als bedoeld in artikel 17, indien daardoor de continuïteit van het openbaar of het bijzonder onderwijs gehandhaafd kan blijven en met de bestuurlijke fusie wordt voorkomen dat een of meer daarbij betrokken scholen door toepassing van de artikelen 151 tot en met 161 wordt opgeheven of niet meer voor bekostiging in aanmerking komt. Het bevoegd gezag van de betreffende school toont dat aan op basis van een prognose van de ontwikkeling van het aantal leerlingen waaruit blijkt dat die school binnen een termijn van zes jaar dreigt te worden opgeheven of niet meer te worden bekostigd.   
+3.  Onze minister laat zich ten aanzien van de goedkeuring, bedoeld in het eerste en tweede lid, adviseren door een onafhankelijke adviescommissie, tenzij de noodzaak daartoe ontbreekt. Bij ministeriële regeling wordt bepaald wanneer er geen sprake is van de noodzaak bedoeld in de eerste volzin.   
+4.  Onze minister stelt beleidsregels vast omtrent de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
+
+### Artikel  64d  
+
+####Toetsingstermijn en verlenging
+
+1.  Onze minister besluit binnen 13 weken op een aanvraag als bedoeld in artikel 64b.   
+2.  De termijn, bedoeld in het eerste lid, kan ten hoogste met 13 weken worden verlengd. Van deze verlenging wordt, binnen de 13 weken bedoeld in het eerste lid, mededeling gedaan aan de aanvrager.   
+3.  Op het besluit bedoeld in het eerste lid is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+
+### Afdeling  2  
+
+####Overige bepalingen
+
 ### Artikel  65  
 
 ####Schoolwijken

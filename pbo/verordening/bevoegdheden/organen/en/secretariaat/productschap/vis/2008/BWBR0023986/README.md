@@ -125,17 +125,17 @@ i. het bevorderen en toezien op de naleving en uitvoering van de Code Goed Bestu
 
 1.  De taken, verantwoordelijkheden en bevoegdheden van de secretaris gaan uitsluitend in geval van tijdelijke of langdurige afwezigheid na consultatie van de voorzitter over naar: 
 
-a. het hoofd van de afdeling Algemene Zaken, voor zover het betreft de aangelegenheden bedoeld in artikel 6, vijfde en zesde lid;  
+a. het hoofd van de afdeling Personeel & Interne Organisatie, voor zover het betreft de aangelegenheden bedoeld in artikel 6, vijfde en zesde lid;  
 
 b. het hoofd van de afdeling Visserij Zaken, voor zover het betreft de beleidsaangelegenheden op het beleidsterrein visserij;  
 
 c. het hoofd van de afdeling Detailhandel, Groothandel en Verwerking, voor zover het betreft de beleidsaangelegenheden op het beleidsterrein detailhandel, groothandel, verwerking, kwaliteit, en veterinaire zaken;  
 
-d. de Stafmedewerker Financiële- en Personele Aangelegenheden, voor zover het betreft financiële aangelegenheden;  
+d. het hoofd van de afdeling Financiën & Controle, voor zover het betreft financiële aangelegenheden;  
 
 e. het hoofd van de afdeling Juridische Aangelegenheden, voor zover het betreft juridische en bestuurlijke aangelegenheden;  
 
-f. de Stafmedewerker Arbeid en Onderwijs Aangelegenheden, voor zover het betreft de beleidsmatige sociale aangelegenheden;  
+f. de Stafmedewerker Sociale en Arbeidsmarktaangelegenheden, voor zover het betreft de beleidsmatige sociale aangelegenheden;  
 
 g. de Stafmedewerker Marktordening, Buitendienst en Afslagen, voor zover het betreft de beleidsmatige en uitvoeringsaangelegenheden op de terreinen marktordening, buitendienst en afslagen;  
 

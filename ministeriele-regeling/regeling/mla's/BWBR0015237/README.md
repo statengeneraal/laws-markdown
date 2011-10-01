@@ -17,6 +17,10 @@ a. *minister:* Minister van Verkeer en Waterstaat;
 
 b. *luchtwerk:* een activiteit waarbij het luchtvaartuig wordt gebruikt voor speciale diensten.    
 
+### Artikel  1a  
+
+Deze regeling berust op de [artikelen 2, vierde lid](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [9](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [13, aanhef en onderdelen a,b en c, van het Besluit luchtvaartuigen 2008](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) en [artikel 56 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).  
+
 ### Hoofdstuk  II  
 
 ####Speciaal Bewijs van Luchtwaardigheid
@@ -29,10 +33,10 @@ a. Duitsland, de eisen, bedoeld in de Lufttüchtigkeitsforderungen für schwerkr
 
 b. Groot-Brittannië, de eisen, bedoeld in de British civil airworthiness requirements, CAP 482, Section S; of  
 
-c. Tsjechië, de eisen, bedoeld in de Tsjechische luchtwaardigheidscode, vastgesteld onder nummer 869/91-220.   De onder a en b genoemde eisen zijn als bijlage A respectievelijk B bij deze regeling gevoegd   
+c. Tsjechië, de eisen, bedoeld in de Tsjechische luchtwaardigheidscode, vastgesteld onder nummer 869/91-220.   De onder a, b en c genoemde eisen zijn als bijlage A, B respectievelijk C bij deze regeling gevoegd.   
 2.  MLA's voldoen voorts aan de aanwijzingen, afgegeven door de luchtvaartautoriteit van het in het eerste lid genoemde land aan welks luchtwaardigheidseisen het desbetreffende MLA voldoet, alsmede aan de door de minister afgegeven aanwijzingen.   
 3.  Indien een MLA is voorzien van in Duitsland voorgeschreven reddingsapparatuur, voldoet deze apparatuur aan de Lufttüchtigkeitsforderungen für Rettungsgeräte für Ultraleicht-Flugzeuge.   
-4.  De geluidsproductie van de door de luchtvaartautoriteit van één der in het eerste lid genoemde landen goedgekeurde configuratie bedraagt niet meer dan 60 dB(A) gemeten volgens de in de bij deze regeling behorende bijlage 1 beschreven procedure. De onder a, b en c genoemde eisen zijn als bijlage A, B respectievelijk C bij deze regeling gevoegd.   
+4.  De geluidsproductie van de door de luchtvaartautoriteit van één der in het eerste lid genoemde landen goedgekeurde configuratie bedraagt niet meer dan 60 dB(A) gemeten volgens de in de bij deze regeling behorende bijlage 1 beschreven procedure.   
 
 ### Artikel  3  
 
@@ -67,7 +71,13 @@ c. eventuele wijzigingen zijn goedgekeurd door de ontwerper van het MLA;
 
 d. de minister heeft ingestemd met eventuele wijzigingen in de geluidsproductie; en  
 
-e. het MLA is onderhouden conform de aanwijzingen van de ontwerper van het MLA.   De verklaring is mede ondertekend door de houder van een bewijs van bevoegdheid als bedoeld in artikel 4, achtste lid, van de Regeling bijzondere bevoegdverklaringen AML.   
+e. het MLA is onderhouden conform de aanwijzingen van de ontwerper van het MLA.     
+3.  De verklaring, bedoeld in het tweede lid, is mede ondertekend door de houder van: 
+
+a. een bewijs van bevoegdheid als bedoeld in [artikel 4, achtste lid](../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md), of [artikel 9, derde lid, van de Regeling bijzondere bevoegdverklaringen AML en Part-66-AML](../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md), of  
+
+b. een door de Deutsche Aero Club e.V. afgegeven Erlaubnis für Prüfer von Luftfahrtgerät, Klasse 5.     
+4.  Het derde lid is niet van toepassing op schermvliegtuigen als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegheid voor de luchtvaart](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), in combinatie met een motor.   
 
 ### Artikel  5  
 
@@ -92,13 +102,13 @@ Onverminderd artikel 7 mogen met MLA’s slechts vluchten worden uitgevoerd:
 
 a. met inachtneming van de blijkens het vlieghandboek van de fabrikant op het luchtvaartuig betrekking hebbende gebruiksbeperkingen;  
 
-b. gedurende de daglichtperioden als bedoeld in [artikel 1, onder e, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);  
+b. gedurende de daglichtperiode als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);  
 
 c. indien met betrekking tot het MLA een verzekering is gesloten tegen de burgerrechtelijke aansprakelijkheid voor dood of letsel van de inzittenden van het MLA en dood of letsel van derden of schade toegebracht aan derden op het aardoppervlak.    
 
 ### Artikel  9  
 
-1.  De gezagvoerder van een MLA is verplicht om tijdens de vlucht naast de in artikel 98 van de R.T.L. genoemde documenten het bewijs, dat een verzekering bedoeld in artikel 8, onder f, is gesloten, een afschrift van deze regeling met uitzondering van de bijlagen en de verklaring als bedoeld in artikel 3, tweede lid, onder g, die door de minister is geaccepteerd, aan boord te hebben.   
+1.  De gezagvoerder van een MLA is verplicht om tijdens de vlucht naast de in [artikel 5, onderdelen a tot en met g van de Regeling vluchtuitvoering](../../../../ministeriele-regeling/regeling/vluchtuitvoering/BWBR0024167/README.md) genoemde documenten het bewijs, dat een verzekering bedoeld in artikel 8, onder f, is gesloten, een afschrift van deze regeling met uitzondering van de bijlagen en de verklaring als bedoeld in artikel 3, tweede lid, onder g, die door de minister is geaccepteerd, aan boord te hebben.   
 2.  De gezagvoerder informeert iedere passagier voorafgaand aan de vlucht dat het MLA niet is gecertificeerd volgens internationale luchtwaardigheidseisen.   
 3.  De houder van een MLA is verplicht om in het luchtvaartuig op een voor elke inzittende zichtbare plaats duidelijk leesbaar de volgende waarschuwing aan te brengen:  *Waarschuwing voor inzittenden*  Deze MLA is niet gecertificeerd volgens internationale luchtwaardigheidsvoorschriften. Het veiligheidsniveau is niet vastgesteld.  *Occupant Warning*  This aircraft has not been certificated to international standards. The safety level has not been determinated.   
 
@@ -112,23 +122,7 @@ b. de door het bevoegd gezag vastgestelde voorwaarden voor en beperkingen van he
 
 ### Hoofdstuk  IV  
 
-####Overgangs- en slotbepalingen
-
-### Artikel  10  
-
-1.  De houder van een MLA, waarvoor een ontheffing als bedoeld in artikel 3.21 van de wet is verleend, welke nog geldig is op het tijdstip van inwerkingtreding van deze regeling, dient binnen zes weken na het tijdstip van inwerkingtreding van deze regeling een aanvraag tot verlening van een speciaal-BvL in. Artikel 3, tweede lid, is van toepassing.   
-2.  Voor de behandeling van de aanvraag als bedoeld in het eerste lid is de aanvrager een vergoeding van € 0,- verschuldigd.   
-
-### Artikel  11  
-
-1.  Voor een MLA, waarvoor op grond van artikel 10, eerste lid, een speciaal-BvL is aangevraagd en dat niet voldoet aan de in artikel 2, eerste lid, genoemde eis, wordt een speciaal-BvL slechts verleend en daarna verlengd tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van deze regeling.   
-2.  Met een MLA als bedoeld in het eerste lid mogen slechts vluchten worden uitgevoerd met een mede-inzittende indien hetzij de gezagvoerder houder is van een bewijs van bevoegdheid om als gezagvoerder op te treden met de bevoegdverklaring recreatief vlieginstructeur (RFI) hetzij de mede-inzittende houder is van een bewijs van bevoegdheid voor recreatief vlieger voor vliegtuigen (RPL(A)).   
-
-### Artikel  12  
-
-1.  Geluidmeetrapporten, die zijn opgemaakt voor het tijdstip van inwerkingtreding van deze regeling en waaruit blijkt, dat de geluidsproductie van het desbetreffende MLA niet meer bedraagt dan 60 dB(A), worden aangemerkt als geluidmeetrapporten als bedoeld in artikel 3, tweede lid, onder e.   
-2.  Houders van een in Nederland geregistreerd MLA, waarvoor geen geluidmeetrapport als bedoeld in artikel 3, tweede lid, onder e, is opgemaakt, dan wel waarvoor een geluidmeetrapport is opgemaakt, dat niet voldoet aan het eerste lid, dienen uiterlijk 2 april 2005 een uittreksel van een geluidmeetrapport als bedoeld in artikel 3, tweede lid, onder f, bij de minister ter acceptatie in.   
-3.  Indien niet binnen de in het tweede lid gestelde termijn een uittreksel als in dat lid bedoeld is ingediend, vervalt het aan de houder verleende speciaal-BvL.   
+####Slotbepalingen
 
 ### Artikel  13  
 
@@ -150,6 +144,10 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 ### Bijlage  B  
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+
+### Bijlage  C  
+
+Niet opgenomen.  
 
 ### Bijlage  1  
 
