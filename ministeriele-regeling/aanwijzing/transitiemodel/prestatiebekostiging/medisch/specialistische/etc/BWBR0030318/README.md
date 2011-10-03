@@ -173,14 +173,14 @@ b. de som van de tarieven die met betrekking tot zorg of delen van die zorg als 
 
 ####werkingssfeer
 
-1.  Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) welke wordt geleverd door de categorale instellingen voor medisch specialistische zorg waaronder centra voor long/astma, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra en dialysecentra en voor audiologische centra, verder in dit hoofdstuk te noemen categorale instellingen.   
+1.  Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) welke wordt geleverd door de categorale instellingen voor medisch specialistische zorg, te weten: zelfstandige instellingen voor revalidatie, radiotherapeutische centra en dialysecentra en voor audiologische centra, verder in dit hoofdstuk te noemen categorale instellingen.   
 2.  In deze aanwijzing wordt onder categorale instelling mede begrepen de medisch specialisten die in of ten behoeve van die instelling werkzaam zijn.   
 
 ### Artikel  11  
 
 ####opbrengstverschil
 
-1.  De zorgautoriteit stelt voor 2008 en daarna voor ieder volgend jaar, mede op basis van door die categorale instellingen verstrekte gegevens, per instelling ambtshalve vast, het verschil tussen het budget en de daadwerkelijke opbrengst die is toe te rekenen aan de in dat jaar geleverde productie, verder te noemen het opbrengstverschil. De eerste volzin is van overeenkomstige toepassing op het verschil tussen de door de zorgautoriteit vastgestelde begroting van audiologische centra en bedoelde opbrengst.   
+1.  De zorgautoriteit stelt voor 2010 en daarna voor ieder volgend jaar, mede op basis van door die categorale instellingen verstrekte gegevens, per instelling ambtshalve vast, het verschil tussen het budget en de daadwerkelijke opbrengst die is toe te rekenen aan de in dat jaar geleverde productie, verder te noemen het opbrengstverschil. De eerste volzin is met ingang van het jaar 2012 van overeenkomstige toepassing op het verschil tussen de door de zorgautoriteit vastgestelde begroting van audiologische centra en bedoelde opbrengst.   
 2.  De zorgautoriteit stelt ambtshalve ter verrekening van het opbrengstverschil per categorale instelling per jaar een bedrag vast.   
 
 ### Artikel  12  
