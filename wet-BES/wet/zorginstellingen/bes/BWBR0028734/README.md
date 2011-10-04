@@ -10,21 +10,21 @@
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *bestuurscollege :* het bestuurscollege van elk der openbaar lichaam Bonaire, Sint Eustatius en Saba;  
+a.  vervallen;   
 
-b. *eilandelijke Raad voor de Volksgezondheid:* de desbetreffende eilandelijke Raad voor de Volksgezondheid, bedoeld in artikel 20 van de Landsverordening raden voor de volksgezondheid (P.B. 2005, no. 50);  
+b.  vervallen;   
 
 c. *gedraging:* enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een patiënt;  
 
-d. *Inspectie:* de Inspectie voor de Volksgezondheid, bedoeld in [artikel 2, eerste lid, van de Wet inspectie voor de Volksgezondheid BES](../../../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md);  
+d. *Inspectie:* het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet;  
 
-e. *medisch apparaat:* een apparaat bestemd voor diagnostiek of therapie en alle daarmee verbonden toestellen, dat wordt gebruikt of bestemd is te worden gebruikt in een zorginstelling;  
+e.  vervallen;   
 
 f. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;  
 
 g. *patiënt:* een natuurlijk persoon aan wie een zorgaanbieder zorg verleent of heeft verleend;  
 
-h. *Raad voor de Volksgezondheid:* de Raad voor de Volksgezondheid, bedoeld in artikel 2 van de Landsverordening raden voor de volksgezondheid (P.B. 2005, no. 50);  
+h.  vervallen;   
 
 i. *zorg:* het handelen van medische beroepsbeoefenaren, waaronder het verrichten van onderzoek, het stellen van diagnose of het behandelen, verplegen of verzorgen van een persoon met ziekten of gebreken in intramuraal, semimuraal of extramuraal verband;  
 
@@ -46,56 +46,7 @@ In geval sprake is van een zorgaanbieder als bedoeld in artikel 1, onderdeel j, 
 
 ####Vergunningstelsel
 
-### Artikel  3  
-
-Onverminderd uit hoofde van andere wet- of regelgeving vereiste vergunningen, is het verboden zonder een daartoe strekkende vergunning van het bestuurscollege: 
-
-a. een zorginstelling te bouwen, verbouwen of aan te bouwen;  
-
-b. een bestaand bouwwerk in gebruik te nemen als zorginstelling;  
-
-c. een zorginstelling te exploiteren;  
-
-d. wijziging te brengen in de bestemming van een zorginstelling of een onderdeel daarvan;  
-
-e. in een zorginstelling medisch onderzoek of behandeling, verpleging of verzorging dan wel daarmee samenhangende prestaties te verrichten of te doen verrichten;  
-
-f. medische apparaten aan te schaffen voor een zorginstelling of in een zorginstelling te gebruiken dan wel te doen gebruiken die een nader bij ministeriële beschikking met algemene werking vast te stellen bedrag overschrijden.   
-
-2. Een vergunning wordt verleend op een daartoe strekkende aanvraag van de verzoeker. Aan de vergunning kunnen voorschriften worden verbonden ten aanzien van functie en omvang van een zorginstelling of een medisch apparaat. Een vergunning kan onder beperkingen worden verleend. Deze voorschriften kunnen mede betrekking hebben op de in een zorginstelling of de bij het gebruik van een medisch apparaat te betrachten veiligheid. Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de in dit lid bedoelde voorschriften en beperkingen.  
-
-3. Een aanvraag om een vergunning wordt door de verzoeker bij het bestuurscollege ingediend.  
-
-4. Geen vergunning is vereist indien een medisch apparaat dient ter vervanging van bestaande apparatuur en die vervanging geen verhoging van het voor het gebruik van het desbetreffende apparaat in rekening te brengen tarief tot gevolg heeft. Een zodanige vervanging wordt door de zorginstelling binnen drie maanden nadat de vervanging plaatsvond, gemeld aan het bestuurscollege.  
-
-5. Bij ministeriële regeling worden regels gesteld, inhoudende welke gegevens met het oog op de vergunning, bedoeld in het eerste lid, dienen te worden verstrekt. Daarbij kunnen regels worden gesteld betreffende de wijze van indienen van die gegevens.  
-
-6. De aanvrager is voor de behandeling van de aanvraag om een vergunning een bij ministeriële regeling vast te stellen vergoeding verschuldigd.    
-
-### Artikel  4  
-
-1.  Alvorens over te gaan tot het nemen van een beslissing ten aanzien van het verzoek, bedoeld in artikel 3, tweede lid, wint het bestuurscollege het advies in van de dienst van het openbaar lichaam belast met de openbare gezondheidszorg alsmede van de eilandelijke Raad voor de Volksgezondheid. Indien geen eilandelijke raad aanwezig is dan wint het bestuurscollege in plaats daarvan het advies in van de Raad voor de Volksgezondheid. Indien het bestuurscollege van het advies van de geraadpleegde dienst van het openbaar lichaam belast met de openbare gezondheidszorg afwijkt, bericht het deze schriftelijk met redenen omkleed.   
-2.  De dienst van het openbaar lichaam belast met de openbare gezondheidszorg en de eilandelijke Raad voor de Volksgezondheid, voor zover ingesteld, dan wel in voorkomend geval de Raad voor de Volkgezondheid, onderzoekt het verzoek en brengt daarover binnen acht weken na de datum van ontvangst een schriftelijk, met redenen omkleed, advies uit aan het bestuurscollege. Ingeval een verzoek betrekking heeft op een medisch apparaat bedraagt de in de eerste volzin genoemde termijn vier weken.   
-3.  Indien het advies niet binnen de in het tweede lid bedoelde adviestermijn is ontvangen, wordt ervan uitgegaan dat het advies ten aanzien van het verzoek om vergunning afwijzend luidt.   
-4.  Het bestuurcollege beslist binnen vier weken na ontvangst van het advies. Indien voorzienbaar is dat de beslissing niet binnen genoemde periode kan worden genomen, kan deze periode eenmaal met een gelijke periode worden verlengd. De aanvrager wordt van een zodanig uitstel in kennis gesteld.   
-5.  Het bestuurscollege verleent de gevraagde vergunning slechts voor zover dit past binnen de richtlijnen, bedoeld in artikel 7.   
-
-### Artikel  5  
-
-1.  Het bestuurscollege mag slechts afwijken van de richtlijnen, bedoeld in artikel 7, indien hiervoor blijkens het advies van de dienst van het openbaar lichaam belast met de openbare gezondheidszorg of de eilandelijke Raad voor de Volksgezondheid, voor zover ingesteld, dan wel in voorkomend geval de Raad voor de Volksgezondheid, zwaarwegende redenen aanwezig zijn.   
-2.  De krachtens artikel 3, eerste lid, verleende vergunningen kunnen, de dienst van het openbaar lichaam belast met de openbare gezondheidszorg, de eilandelijke Raad voor de Volksgezondheid, voor zover ingesteld, dan wel in voorkomend geval de Raad voor de Volksgezondheid, gehoord, slechts gemotiveerd worden gewijzigd of ingetrokken indien daarvoor zwaarwegende redenen aanwezig zijn en nadat de aanvrager is gehoord. Artikel 4, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
-
-### Artikel  6  
-
-Het bestuurscollege draagt zorg dat zo spoedig mogelijk doch in ieder geval binnen vier weken na de vaststelling van de krachtens de artikelen 3, eerste lid, en 5, tweede lid, vastgestelde beschikkingen: 
-
-a. deze in afschrift worden gezonden aan de Inspectie en aan de instanties, genoemd in artikel 4, die advies hebben uitgebracht;  
-
-b. deze worden bekendgemaakt in de Staatscourant.    
-
-### Artikel  7  
-
-Bij ministeriële regeling worden, gehoord de desbetreffende eilandelijke raad voor de volksgezondheid, richtlijnen vastgesteld ten aanzien van de behoefte aan zorginstellingen en de wijze waarop in die behoefte kan worden voorzien.  
+Vervallen per 04-10-2011   
 
 ### Hoofdstuk  3  
 
@@ -143,11 +94,11 @@ a. of en zo ja op welke wijze patiënten bij het kwaliteitsbeleid zijn betrokken
 
 b. in geval van een zorginstelling: de frequentie waarmee en de wijze waarop binnen de zorginstelling kwaliteitsbeoordeling plaatsvond en het resultaat ervan;  
 
-c. welk gevolg is gegeven aan klachten en meldingen over de kwaliteit van de verleende zorg.   Afschrift van het verslag wordt gezonden aan Onze Minister, het desbetreffende bestuurscollege en de Inspectie voor de Volksgezondheid.   
+c. welk gevolg is gegeven aan klachten en meldingen over de kwaliteit van de verleende zorg.   Afschrift van het verslag wordt gezonden aan Onze Minister en het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet.   
 
 ### Artikel  13  
 
-1.  Indien het niveau van de zorg, verleend in bij algemene maatregel van bestuur aangewezen zorginstellingen, dit vereist, kunnen bij dat algemene maatregel van bestuur regels worden gesteld met betrekking tot de uitvoering van de artikelen 9 en 10.   
+1.  Indien het niveau van de zorg, verleend in bij algemene maatregel van bestuur aangewezen zorginstellingen, dit vereist, kunnen bij die algemene maatregel van bestuur regels worden gesteld met betrekking tot de uitvoering van de artikelen 9 en 10.   
 2.  Indien de uitvoering van de artikelen 9 en 10 overeenkomstig de op grond van het eerste lid gestelde regels niet blijkt te leiden tot verantwoorde zorg, kunnen bij algemene maatregel van bestuur tevens nadere regels worden gesteld met betrekking tot artikel 8.   
 
 ### §  2  
@@ -252,7 +203,7 @@ De verpleegafdelingen alsmede de op medisch gebied assisterende afdelingen in ee
 ### Artikel  21  
 
 1.  Een ziekenhuisvoorziening draagt er zorg voor dat de opvang van patiënten die zich voor spoedeisende medische hulp tot de ziekenhuisvoorziening wenden, op zodanige wijze is geregeld dat deze hulp te allen tijde op doeltreffende wijze kan worden verleend.   
-2.  Het bestuurscollege kan op verzoek van een ziekenhuisvoorziening ontheffing verlenen van het bepaalde in het eerste lid, mits binnen het desbetreffende openbaar lichaam Bonaire, Sint Eustatius en Saba tenminste in één ziekenhuisvoorziening de opvang van patiënten die spoedeisende medische hulp behoeven overeenkomstig het eerste lid is gewaarborgd.   
+2.  Het Onze Minister kan op verzoek van een ziekenhuisvoorziening ontheffing verlenen van het bepaalde in het eerste lid, mits binnen het desbetreffende openbaar lichaam Bonaire, Sint Eustatius en Saba tenminste in één ziekenhuisvoorziening de opvang van patiënten die spoedeisende medische hulp behoeven overeenkomstig het eerste lid is gewaarborgd.   
 
 ### §  5  
 
@@ -260,7 +211,7 @@ De verpleegafdelingen alsmede de op medisch gebied assisterende afdelingen in ee
 
 ### Artikel  22  
 
-Een laboratorium wordt slechts toegelaten tot het verlenen van zorgondersteunende werkzaamheden en mag deze werkzaamheden slechts verrichten indien wordt voldaan aan bij algemene maatregel van bestuur te stellen criteria.  
+Bij algemene maatregel van bestuur kunnen criteria worden vastgesteld waaraan een laboratorium voor het verrichten van zorgondersteunende werkzaamheden moet voldoen.  
 
 ### Hoofdstuk  4  
 
@@ -268,11 +219,11 @@ Een laboratorium wordt slechts toegelaten tot het verlenen van zorgondersteunend
 
 ### Artikel  23  
 
-Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de medewerkers van de Inspectie, bedoeld in [artikel 11, eerste lid, van de Wet inspectie voor de Volksgezondheid BES](../../../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md).  
+Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de medewerkers van de Inspectie.  
 
 ### Artikel  24  
 
-Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de bij [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen personen, belast de medewerkers van de Inspectie, bedoeld in [artikel 39, eerste lid, van de Wet inspectie voor de Volksgezondheid BES](../../../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md).  
+Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de bij artikel 184 van het Wetboek van Strafvordering BES aangewezen personen, belast de bij ministeriële regeling aangewezen medewerkers van de Inspectie.  
 
 ### Hoofdstuk  5  
 
@@ -280,12 +231,10 @@ Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de bi
 
 ### Artikel  25  
 
-1.  Degene, die opzettelijk het bepaalde in artikel 3, eerste lid, dan wel de krachtens artikel 3, tweede lid, gestelde voorschriften of beperkingen overtreedt, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van de vijfde categorie, hetzij met beide straffen.   
-2.  Degene aan wiens schuld overtreding van het bepaalde in artikel 3, eerste lid, dan wel de krachtens artikel 3, tweede lid, gestelde voorschriften of beperkingen te wijten is, wordt gestraft, hetzij met hechtenis van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.   
-3.  Degene, die opzettelijk de verplichting tot geheimhouding, opgenomen in artikel 26, schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
-4.  Degene aan wiens schuld schending van de verplichting tot geheim-houding, opgenomen in artikel 26, is te wijten wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
-5.  De in het eerste en derde lid strafbaar gestelde feiten worden beschouwd als misdrijf, de in het tweede en vierde lid strafbaar gestelde feiten als overtreding.   
-6.  Geen vervolging van een in het derde of vierde lid bedoeld strafbaar feit heeft plaats dan op klachte van degene, tegen wie het feit is gepleegd, of, indien het tegen een rechtspersoon, maat- of vennootschap, een vereniging van personen of een doelvermogen is gepleegd, op klachte van de bestuurder en indien er meer bestuurders zijn, van een van hen.   
+1.  Degene, die opzettelijk de verplichting tot geheimhouding, opgenomen in artikel 26, schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
+2.  Degene aan wiens schuld schending van de verplichting tot geheim-houding, opgenomen in artikel 26, is te wijten wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
+3.  De in het eerste lid strafbaar gestelde feiten worden beschouwd als misdrijf; de in het tweede lid strafbaar gestelde feiten worden beschouwd als overtreding.   
+4.  Geen vervolging van een in het eerste of tweede lid bedoeld strafbaar feit heeft plaats dan op klachte van degene, tegen wie het feit is gepleegd, of, indien het tegen een rechtspersoon, maat- of vennootschap, een vereniging van personen of een doelvermogen is gepleegd, op klachte van de bestuurder en indien er meer bestuurders zijn, van een van hen.   
 
 ### Hoofdstuk  6  
 
@@ -297,32 +246,19 @@ Een ieder die is betrokken bij de uitvoering van deze wet en daarbij de beschikk
 
 ### Artikel  27  
 
-1.  Onze Minister zendt binnen vier jaar na het in werking treden van deze wet aan de Staten een verslag over de doeltreffendheid van deze wet in de praktijk.   
-2.  De openbare lichamen Bonaire, Sint Eustatius en Saba doen Onze Minister uiterlijk vier maanden na afloop van elk kalenderjaar schriftelijk verslag over de uitvoering van deze wet in het desbetreffende openbaar lichaam Bonaire, Sint Eustatius en Saba. Onze minister zendt afschrift van dit verslag aan de Staten-Generaal.   
+Onze Minister zendt binnen vier jaar na het in werking treden van deze wet aan de Staten een verslag over de doeltreffendheid van deze wet in de praktijk.  
 
 ### Artikel  28  
 
 Bij algemene maatregel van bestuur kan, met betrekking tot daarbij aan te wijzen zorginstellingen worden bepaald, dat een of meer bepalingen van deze wet, al dan niet tijdelijk, niet van toepassing is of zullen zijn op die zorginstellingen.  
 
-### Artikel  29  
-
-Artikel 3, eerste lid, vindt geen toepassing ten aanzien van zorginstellingen en medische apparaten die op het tijdstip van inwerkingtreding van deze wet reeds aanwezig en in gebruik zijn, behoudens latere wijzigingen of aanschaffingen.  
-
 ### Artikel  30  
 
 Zorginstellingen waarvan de statuten, de inrichting of de structuur niet voldoen aan het bepaalde bij of krachtens deze wet, dragen zorg dat binnen ten hoogste zes maanden na het in werking treden van deze wet de vereiste aanpassingen worden aangebracht.  
 
-### Artikel  31  
-
-[wijzigt de Landsverordening Organisatie Landsoverheid (P.B. 2001, no. 75)]  
-
 ### Artikel  31a  
 
 [wijzigt de Tijdelijke wet beperking vestiging medische beroepsbeoefenaren (P.B. 2005, no. 69)]  
-
-### Artikel  32  
-
-Deze wet treedt in werking op een bij landsbesluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
 
 ### Artikel  33  
 

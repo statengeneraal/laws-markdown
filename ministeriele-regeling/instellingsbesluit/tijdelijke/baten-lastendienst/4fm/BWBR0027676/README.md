@@ -11,7 +11,7 @@ Besluiten
 ### Artikel  1  
 
 1.  Aan 4FM wordt de status van tijdelijke baten-lastendienst, als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), verleend.   
-2.  De tenaamstelling van de baten-lastendienst komt te luiden: tijdelijke baten-lastendienst 4FM.   
+2.  De tenaamstelling van de tijdelijke baten-lastendienst komt te luiden: tijdelijke baten-lastendienst FMHaaglanden.   
 3.  Het [instellingsbesluit gezamenlijk bedrijf voor facilitair management van 1 februari 2010 Nr. 2010-0000032747](../../../../../../ministeriele-regeling/instellingsbesluit/gezamenlijk/bedrijf/voor/facilitair/management/BWBR0027350/README.md) wordt ingetrokken.   
 
 ### Artikel  2  

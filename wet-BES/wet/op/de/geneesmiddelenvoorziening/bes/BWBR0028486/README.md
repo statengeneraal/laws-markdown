@@ -12,9 +12,9 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *Inspecteur:* de Inspecteur Geneesmiddelen;  
+b. *Inspecteur:* de Inspecteur van het Staatstoezicht, bedoeld in onderdeel c;  
 
-c. *Inspectie:* de Inspectie voor de Volksgezondheid, bedoeld in [artikel 2, eerste lid, van de Wet inspectie voor de Volksgezondheid](../../../../../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md) (P.B. 2003, no. 8);  
+c. *Inspectie:* het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](../../../../../../../wet/gezondheidswet/BWBR0002202/README.md);  
 
 d. *zelfstandigheden:* stoffen, dieren, planten delen of producten van dieren of planten, producten bereid uit dieren of planten of uit gedeelten van dieren of planten, alsmede de mengsels hiervan;  
 
@@ -429,8 +429,8 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 ### Artikel  45  
 
-1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij algemene maatregel van bestuur aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.   
-2.  De krachtens het eerste lid aangewezen personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, bevoegd: 
+1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](../../../../../../../wet/gezondheidswet/BWBR0002202/README.md), alsmede de bij ministeriële regeling aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.   
+2.  De krachtens het eerste lid bevoegde personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, bevoegd: 
 
 a. alle inlichtingen te vragen;  
 
@@ -438,7 +438,7 @@ b. inzage te verlangen van alle boeken, bescheiden en andere informatiedragers e
 
 c. goederen aan opneming en onderzoek te onderwerpen, deze daartoe tijdelijk mee te nemen en daarvan monsters te nemen;  
 
-d. alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestemming van de bewoner, te betreden, vergezeld van door hen aangewezen personen;  
+d. alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestemming van de bewoner, te betreden, vergezeld van door hen bevoegde personen;  
 
 e. vaartuigen, stilstaande voertuigen en de lading daarvan te onderzoeken;  
 
@@ -504,7 +504,7 @@ e. niet voldoet aan de voorwaarden, verbonden aan een vergunning krachtens deze 
 
 ### Artikel  51  
 
-[vervallen]  
+Het is verboden geneesmiddelen als bedoeld in [artikel XIX van de Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/derde/aanpassingswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0029250/README.md), af te leveren of ter hand te stellen zonder dat daarbij wordt voldaan aan de door Onze Minister gestelde voorschriften of beperkingen.  
 
 ### Artikel  52  
 
