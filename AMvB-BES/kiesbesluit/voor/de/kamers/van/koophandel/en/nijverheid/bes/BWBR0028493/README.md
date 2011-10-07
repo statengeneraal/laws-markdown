@@ -8,7 +8,7 @@
 
 ### Artikel  1  
 
-Dit besluit berust op [artikel, 1, vierde lid, van de Wet op de Kamers van Koophandel en Nijverheid BES](../../../../../../../../../../../wet-BES/wet/op/de/kamers/van/koophandel/en/nijverheid/bes/BWBR0028238/README.md).  
+Dit besluit berust op artikel 1a, derde lid, en artikel 6, zesde lid, van de Wet op de Kamers van Koophandel en Nijverheid BES.  
 
 ### Artikel  1a  
 
@@ -18,7 +18,7 @@ In dit besluit wordt verstaan onder «openbaar lichaam»: het openbaar lichaam B
 
 In dit Reglement wordt verstaan onder: 
 
-a. *Wet:*[Wet op de Kamers van Koophandel en Nijverheid BES](../../../../../../../../../../../wet-BES/wet/op/de/kamers/van/koophandel/en/nijverheid/bes/BWBR0028238/README.md);  
+a. *Wet:*Wet op de Kamers van Koophandel en Nijverheid BES;  
 
 b. *de Kamer:* de Kamer van Koophandel en Nijverheid;  
 
@@ -26,7 +26,7 @@ c. *den Secretaris:* de Secretaris der Kamer van Koophandel en Nijverheid;
 
 d. *het Bestuurscollege:* het Bestuurscollege van het openbaar lichaam waar de Kamer is gevestigd;  
 
-e. *de Verkiezingscommissie:* de Commissie bedoeld in [art. 9](../../../../../../../../../../../wet-BES/wet/op/de/kamers/van/koophandel/en/nijverheid/bes/BWBR0028238/README.md) van de wet.    
+e. *de Verkiezingscommissie:* de Commissie bedoeld in art. 9 van de wet.    
 
 ### Artikel  2  
 
@@ -51,7 +51,7 @@ b. bij tusschentijdsche verkiezing.
 
 ### Artikel  5  
 
-1.  De kiezerslijsten, ingericht volgens de hierbij gevoegde modellen A1 en A2, vermelden aan het hoofd respectievelijk de woorden: «Lijst van kiezers voor het grootbedrijf/voor het klein-bedrijf, allen ingeschreven in het handelsregister, Nederlanders en Nederlandsche onderdanen zijnde, en overigens voldoende aan de eischen van kiesbevoegdheid ingevolge het bepaalde bij [art. 3 van de Wet op de Kamers van Koophandel en Nijverheid BES](../../../../../../../../../../../wet-BES/wet/op/de/kamers/van/koophandel/en/nijverheid/bes/BWBR0028238/README.md), met vermelding van het jaar waarvoor zij gelden en met bijvoeging van den naam van het gebied van de Kamer.   
+1.  De kiezerslijsten, ingericht volgens de hierbij gevoegde modellen A1 en A2, vermelden aan het hoofd respectievelijk de woorden: «Lijst van kiezers voor het grootbedrijf/voor het klein-bedrijf, allen ingeschreven in het handelsregister en overigens voldoende aan de eischen van kiesbevoegdheid ingevolge het bepaalde bij art. 3 van de Wet op de Kamers van Koophandel en Nijverheid BES, met vermelding van het jaar waarvoor zij gelden en met bijvoeging van den naam van het gebied van de Kamer.   
 2.  Verder bevatten de kiezerslijsten het volgnummer, de namen der kiezers met hunne voornamen in alphabetisch-lexicografische volgorde gerangschikt, de plaats en de dagteekening hunner geboorte, het folionummer van het handelsregister waarop zij zijn ingeschreven, de straat, het woningnummer en de plaats hunner inwoning op een tijdstip zoo dicht mogelijk bij 1 Augustus van het jaar der vaststelling van de kiezerslijsten en den datum waarop hunne namen in het handelsregister zijn opgenomen.   
 
 ### Artikel  6  
@@ -102,13 +102,18 @@ Volgnummers en namen van hen, die ten gevolge van verbetering eener lijst door d
 
 Na den 15den Oktober kunnen geen wijzigingen meer in de kiezerslijsten worden aangebracht. De alsdan vastgestelde lijsten gelden voor een jaar.  
 
+### Artikel  17a  
+
+1.  Voor de verkiezingen in het jaar 2011 kan worden afgeweken van de data en termijnen genoemd in de artikelen 5, tweede lid, 6, 7, 10, 13, 14 en 17.   
+2.  Het bestuur van de Kamer maakt de toepasselijke data en termijnen op passende wijze bekend.   
+
 ### §  3  
 
 ####De verkiezing van de leden der Kamer
 
 ### Artikel  18  
 
-De candidaatstelling voor de verkiezing van de leden van de Kamer ter vervulling van de vacatures ontstaan door periodieke aftreding, geschiedt in de eerste helft van de maand November voorafgaande aan de periodieke aftreding gedurende een door de Kamer vast te stellen tijdperk van 14 dagen. De candidaatstelling voor de verkiezing van leden van de Kamer ter vervulling van plaatsen die door ontslag, overlijden of om andere redenen dan periodieke aftreding zijn ontstaan, zal plaats hebben binnen den termijn bedoeld bij [artikel 8 der wet](../../../../../../../../../../../wet-BES/wet/op/de/kamers/van/koophandel/en/nijverheid/bes/BWBR0028238/README.md) gedurende een door de Kamer vast te stellen tijdperk van 14 dagen.  
+De candidaatstelling voor de verkiezing van de leden van de Kamer ter vervulling van de vacatures ontstaan door periodieke aftreding, geschiedt in de eerste helft van de maand November voorafgaande aan de periodieke aftreding gedurende een door de Kamer vast te stellen tijdperk van 14 dagen. De candidaatstelling voor de verkiezing van leden van de Kamer ter vervulling van plaatsen die door ontslag, overlijden of om andere redenen dan periodieke aftreding zijn ontstaan, zal plaats hebben binnen den termijn bedoeld bij artikel 8 der wet gedurende een door de Kamer vast te stellen tijdperk van 14 dagen.  
 
 ### Artikel  19  
 
@@ -117,7 +122,7 @@ De candidaatstelling voor de verkiezing van de leden van de Kamer ter vervulling
 
 ### Artikel  20  
 
-1.  Gedurende het tijdperk van veertien dagen voor de candidaatstelling in het voorgaand artikel genoemd kunnen ter Secretarie der Kamer op werkdagen van des voormiddags negen uur tot 12 uur des middags candidaten worden opgegeven door indiening van eene opgave onderteekend door ten minste 15 kiezers die bevoegd zijn deel te nemen aan de verkiezing waarvoor de candidaatstelling geschiedt, en vergezeld van eene schriftelijke verklaring van den candidaat dat deze bereid is een candidatuur te aanvaarden.   
+1.  Gedurende het tijdperk van veertien dagen voor de candidaatstelling in het voorgaand artikel genoemd kunnen ter Secretarie der Kamer op werkdagen van des voormiddags negen uur tot 12 uur des middags candidaten worden opgegeven door indiening van eene opgave onderteekend door ten minste 15 kiezers voor de Kamer van Bonaire respectievelijk ten minste 5 kiezers voor de Kamer van Sint Eustatius en Saba, die bevoegd zijn deel te nemen aan de verkiezing waarvoor de candidaatstelling geschiedt, en vergezeld van eene schriftelijke verklaring van den candidaat dat deze bereid is een candidatuur te aanvaarden.   
 2.  Elke opgave mag slechts den naam van één candidaat bevatten.   
 
 ### Artikel  21  
@@ -138,7 +143,7 @@ Nadat de termijn van indiening der candidaten-opgaven is verstreken, zendt de Se
 
 ### Artikel  25  
 
-1.  Indien eene opgave niet onderteekend is door ten minste 15 kiezers als in artikel 20 bedoeld, of indien ze niet vergezeld is van de schriftelijke verklaring als voorgeschreven bij evengemeld artikel zal de Verkiezingscommissie daarvan bij aangeteekenden brief kennis geven aan hem die de opgave inleverde.   
+1.  Indien eene opgave niet onderteekend is door ten minste het aantal kiezers, bedoeld in artikel 20, of indien ze niet vergezeld is van de schriftelijke verklaring als voorgeschreven bij evengemeld artikel zal de Verkiezingscommissie daarvan bij aangeteekenden brief kennis geven aan hem die de opgave inleverde.   
 2.  Deze kan binnen drie dagen na dagteekening van dien brief het verzuim herstellen door het doen aanvullen der onderteekening of door overlegging van de schriftelijke verklaring. Indien het verzuim binnen dien termijn niet hersteld is zal de Verkiezingscommissie de opgave ongeldig verklaren.   
 3.  De Verkiezingscommissie onderzoekt de opgaven van candidaten. Indien op eene opgave iemand als candidaat staat vermeld die de vereischten om te worden gekozen niet bezit, zal de Verkiezingscommissie de candidaatstelling van dien persoon ongeldig verklaren.   
 
@@ -353,7 +358,7 @@ De Kamer geeft na afloop van de termijn in artikel 61, lid 1, van dit Reglement 
 ### Artikel  64  
 
 1.  De Kamer onderzoekt in de eerste op de verkiezing volgende vergadering de geloofsbrieven.   
-2.  Ingeval van verkiezing tengevolge van periodieke aftreding ingevolge [art. 6, 2e lid der wet](../../../../../../../../../../../wet-BES/wet/op/de/kamers/van/koophandel/en/nijverheid/bes/BWBR0028238/README.md) heeft deze vergadering plaats voor het einde van het jaar, waarin de verkiezing geschiedde. Ingeval van tusschentijdsche verkiezing moet het onderzoek van den geloofsbrief binnen een maand na de verkiezing plaats hebben.   
+2.  Ingeval van verkiezing tengevolge van periodieke aftreding ingevolge art. 6, 2e lid der wet heeft deze vergadering plaats voor het einde van het jaar, waarin de verkiezing geschiedde. Ingeval van tusschentijdsche verkiezing moet het onderzoek van den geloofsbrief binnen een maand na de verkiezing plaats hebben.   
 
 ### Artikel  65  
 
@@ -375,6 +380,10 @@ Het gerecht, bedoeld in artikel 13, beslist op het beroepschrift binnen acht dag
 
 1.  Onmiddellijk, nadat eene beslissing tot niet-toelating onherroepelijk is geworden, geschiedt een nieuwe verkiezing of – zoo de verkiezing bij candidaatstelling heeft plaats gehad – benoeming overeenkomstig art. 31. Zulks geschiedt eveneens ingeval tengevolge van het niet aanvaarden van het lidmaatschap een vacature is ontstaan of in het geval, bedoeld in artikel 62, tenzij een gelijk aantal gekozenen overblijft als er plaatsen te vervullen zijn.   
 2.  Indien eene beslissing tot niet-toelating van een of meer gekozenen wegens onjuistheid van de vaststelling van den uitslag der stemming onherroepelijk is geworden, belegt de Voorzitter van de Verkiezingscommissie zoo spoedig mogelijk een zitting van deze Commissie ter herziening van de vaststelling van den uitslag der stemming met inachtneming van de beslissing.   
+
+### Artikel  69a  
+
+De benoeming van de bestuursleden in de jaren 2011 en 2012 geschiedt voor een termijn van 1, 2, of 3 jaar, op basis van het op grond van 6, vijfde lid, van de wet opgestelde aftreedrooster.  
 
 ####Slotbepalingen
 

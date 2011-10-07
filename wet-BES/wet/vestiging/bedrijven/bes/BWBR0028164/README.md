@@ -50,10 +50,27 @@ e. toebehoorende aan kleine handelslieden, die bij besluit van het Bestuurscolle
 1.  Het verzoekschrift tot het verkrijgen eener vergunning, houdt zooveel mogelijk en zoo nauwkeurig mogelijk in, de opgaven, vermeld in de artikelen 5 tot en met 12 van de Handelsregisterwet BES.   
 2.  Indien inlichtingen in het buitenland moeten worden ingewonnen, komen de daarop vallende kosten ten laste van den aanvrager der vergunning en is deze desverlangd verplicht tot dat einde het bedrag van USD 8 voor te schieten.   
 
+### Artikel  4a  
+
+1.  Het bestuurscollege beslist binnen acht weken op een aanvraag.   
+2.  De in het eerste lid genoemde termijn vangt aan op het moment dat een aanvraag op een door het bestuurscollege vast te stellen wijze is ingediend en kan door het bestuurscollege schriftelijk worden verlengd met ten hoogste acht weken, indien het bestuurscollege voornemens is een aanvraag af te wijzen op grond van artikel 5, tweede lid.   
+
+### Artikel  4b  
+
+1.  Indien niet tijdig op de aanvraag is beslist, is de vestigingsvergunning van rechtswege gegeven.   
+2.  De verlening van rechtswege geldt als beschikking.   
+3.  De beschikking, bedoeld in het tweede lid, treedt in werking op de derde dag na afloop van de beslistermijn, bedoeld in artikel 4a.   
+
+### Artikel  4c  
+
+1.  Het bestuurscollege maakt de beschikking, bedoeld in artikel 4b, tweede lid, op de daarvoor gebruikelijke wijze bekend binnen twee weken nadat zij van rechtswege is gegeven.   
+2.  Bij de bekendmaking wordt vermeld dat de beschikking van rechtswege is gegeven.   
+3.  Het bestuurscollege kan nadere voorwaarden als bedoeld in artikel 6, verbinden aan een van rechtswege gegeven vergunning, door binnen acht weken na afloop van de beslistermijn een nadere beschikking te nemen.   
+
 ### Artikel  5  
 
 1.  De vergunning kan worden geweigerd indien de aanvrager in kennelijk onvoldoende mate beschikt over algemene vaardigheden om een zaak te leiden dan wel in kennelijk onvoldoende mate beschikt over de financiële middelen die naar redelijkheid benodigd zijn voor het starten van een zaak als waarvoor de vergunning wordt gevraagd.   
-2.  De omstandigheid dat op Bonaire, Sint Eustatius of Saba dan wel op Aruba, Curaçao of Sint Maarten reeds een zaak is of zal worden gevestigd die op of ter zake van Bonaire, Sint Eustatius of Saba producten of diensten aanbiedt vergelijkbaar met die van de zaak waarvoor een vergunning wordt gevraagd, kan, behoudens voorafgaande instemming van Onze Minister van Economische Zaken, geen grond zijn de vergunning te weigeren.   
+2.  De vergunning kan worden geweigerd met het oog op een te beschermen algemeen belang, onder voorwaarde dat de Minister van Economische Zaken, Landbouw en Innovatie voorafgaand aan de weigering daarmee heeft ingestemd. Het gemotiveerde verzoek om instemming wordt door het bestuurscollege aan de minister gezonden met in ieder geval een beschrijving van het te beschermen algemeen belang. De Minister deelt zijn beslissing mee uiterlijk binnen drie weken na ontvangst van het verzoek om instemming.   
 
 ### Artikel  6  
 
@@ -67,12 +84,14 @@ a. indien de persoon of personen, aan wie(n) de vergunning is verleend, niet kan
 
 b. indien zij verkregen werd door het opzettelijk verschaffen van een onjuiste of onvolledige opgaaf, zooals bedoeld in artikel 4;  
 
-c. indien gedurende drie achtereenvolgende maanden of langer de vergunninghouder zijn zaak voor het publiek heeft gesloten.     
+c. indien de vergunninghouder zijn zaak gedurende drie achtereenvolgende maanden of langer voor het publiek heeft gesloten en hij het bestuurscollege daarvan niet schriftelijk in kennis heeft gesteld;  
+
+d. indien de vergunninghouder zijn zaak gedurende zes achtereenvolgende maanden of langer voor het publiek heeft gesloten en hij het bestuurscollege van een tijdelijke sluiting schriftelijk in kennis heeft gesteld.     
 2.  Behoudens in gevallen, waarbij de vergunning werd verkregen door opzettelijk onjuiste of onvolledig verschafte gegevens, in welk geval intrekking van de vergunning plaats vindt nadat een veroordeling terzake van het misdrijf genoemd in artikel 10 lid 3, in kracht van gewijsde is gegaan, zal de bevoegde autoriteit aan de intrekking der vergunning een redelijken termijn verbinden, waarbinnen de vergunninghouder zijn zaak zal kunnen liquideeren. Na het verstrijken van dezen termijn wordt de betrokken persoon niet geacht in het bezit eener vergunning te zijn.   
 
 ### Artikel  8  
 
-Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nadat de betrokken Kamer van Koophandel en Nijverheid is gehoord. De betrokken kamer brengt het advies binnen een maand uit.  
+Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nadat de betrokken Kamer van Koophandel en Nijverheid is gehoord. De betrokken kamer brengt het advies binnen twee weken uit.  
 
 ### Artikel  9  
 
@@ -83,7 +102,8 @@ Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nada
 1.  Met hechtenis van ten hoogste een maand of geldboete van ten hoogste USD 280 wordt gestraft; hij, die het verbod, gesteld bij artikel 2, overtreedt.   
 2.  Indien tijdens het plegen van het feit nog geen twee jaren zijn verloopen sedert een vroegere veroordeeling van den schuldige wegens een overtreding van een of meer bepalingen dezer wet onherroepelijk is geworden, kan hechtenis van ten hoogste twee maanden of geldboete van ten hoogste USD 560 worden opgelegd.   
 3.  Met gevangenisstraf van ten hoogste zes maanden of geldboete van ten hoogste USD 1120 wordt gestraft hij, die opzettelijk een onjuiste of onvolledige opgaaf doet ter verkrijging van een vergunning, als bedoeld in artikel 2.   
-4.  De feiten, strafbaar gesteld in dit artikel, worden beschouwd als misdrijven.   
+4.  De feiten, strafbaar gesteld in het eerste en tweede lid van dit artikel, worden beschouwd als overtredingen.   
+5.  De feiten, strafbaar gesteld in het derde lid van dit artikel, worden beschouwd als misdrijven.   
 
 ### Artikel  11  
 

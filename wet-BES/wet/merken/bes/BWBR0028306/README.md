@@ -8,7 +8,7 @@
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt onder «Onze Minister» verstaan: Onze Minister van Economische zaken.  
+In deze wet en de daarop berustende bepalingen wordt onder «Onze Minister» verstaan: Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
 ### Artikel  2  
 
@@ -37,7 +37,7 @@ Onverminderd de bepalingen van het gemene recht, kan een geslachtsnaam als merk 
 
 ### Artikel  7  
 
-1.  Onverminderd de in het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 of de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 vastgestelde rechten van voorrang dan wel het recht van voorrang voortvloeiend uit het Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage IC bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie, wordt het uitsluitend recht op een merk verkregen door het eerste depot, verricht bij Onze Minister of voortvloeiend uit een inschrijving bij het Internationaal Bureau voor de bescherming van de industriële eigendom, hetgeen wordt aangeduid als internationaal depot.   
+1.  Onverminderd de in het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 of het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 vastgestelde rechten van voorrang dan wel het recht van voorrang voortvloeiend uit het Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage 1C bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie, wordt het uitsluitend recht op een merk verkregen door het eerste depot, verricht bij Onze Minister of voortvloeiend uit een inschrijving bij het Internationaal Bureau voor de bescherming van de industriële eigendom, hetgeen wordt aangeduid als internationaal depot.   
 2.  Bij de beoordeling van de rangorde van het depot wordt rekening gehouden met de op het tijdstip van het depot bestaande en ten tijde van het geding gehandhaafde rechten op: 
 
 a. gelijke, voor dezelfde waren of diensten gedeponeerde merken;  
@@ -78,7 +78,7 @@ g. het depot van merken voor wijnen die geografische aanduidingen ter benoeming 
 
 a. door de vrijwillige doorhaling of het verstrijken van de geldigheidsduur van de inschrijving van het depot;  
 
-b. door de doorhaling of het verstrijken van de geldigheidsduur van de internationale inschrijving of door afstand van de bescherming op Bonaire, Sint Eustatius en Saba, of overeenkomstig het in artikel 6 van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 bepaalde, door het feit dat het merk geen wettelijke bescherming meer geniet in het land van oorsprong.     
+b. door de doorhaling of het verstrijken van de geldigheidsduur van de internationale inschrijving of door afstand van de bescherming op Bonaire, Sint Eustatius en Saba, of overeenkomstig het in artikel 6 van het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 bepaalde, door het feit dat het merk geen wettelijke bescherming meer geniet in het land van oorsprong.     
 2.  Het recht op het merk wordt, binnen de in artikel 25, vierde lid, gestelde grenzen, vervallen verklaard: 
 
 a. voorzover gedurende een ononderbroken tijdvak van vijf jaren zonder geldige reden, geen normaal gebruik van het merk is gemaakt op Bonaire, Sint Eustatius of Saba voor de waren of diensten waarvoor het merk is ingeschreven; in een geding kan de rechter de merkhouder geheel of gedeeltelijk met het bewijs van het gebruik belasten;  
@@ -97,16 +97,16 @@ c. het gebruik van het merk door een derde met toestemming van de merkhouder.
 ### Artikel  10  
 
 1.  Het depot van een merk geschiedt bij Onze Minister, met inachtneming van de vereisten en tegen betaling van de rechten, bepaald bij of krachtens algemene maatregel van bestuur. Onze Minister onderzoekt of de overgelegde stukken aan de voor het vaststellen van een datum van depot gestelde vereisten voldoen en stelt de datum van depot vast. Aan de deposant wordt zo spoedig mogelijk, schriftelijk mededeling gedaan van de vastgestelde datum van depot dan wel van de gronden voor het niet toekennen van een depotdatum.   
-3.  Indien bij het depot niet is voldaan aan de overige in algemene maatregel van bestuur, gestelde vereisten geeft Onze Minister hiervan zo spoedig mogelijk, schriftelijk kennis aan de deposant onder opgave van de voorschriften waaraan niet is voldaan en stelt hem in de gelegenheid daaraan alsnog te voldoen binnen een bij algemene maatregel van bestuur, gestelde termijn.   
-4.  Het depot vervalt, indien niet binnen de gestelde termijn voldaan is aan de bepalingen van algemene maatregel van bestuur.   
-5.  Onze Minister maakt de akte van depot op met vermelding van het tijdstip waarop dit werd verricht, schrijft deze akte, onverminderd het bepaalde bij artikel 18 en 19 onverwijld in het register in voor de door deposant vermelde waren of diensten en verstrekt een bewijs van inschrijving aan de merkhouder.   
-6.  De wettelijke datum van inschrijving is die van het depot.   
-7.  In voorkomende gevallen vermeldt de inschrijving de datum en de grondslag van het ingeroepen recht van voorrang.   
-8.  Het op artikel 4 van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 of op de Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage IC bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie gegronde beroep op voorrang wordt gedaan bij het depot of bij een bijzondere verklaring af te leggen bij Onze Minister, in de maand volgende op het depot, met inachtneming van de vormvereisten en tegen betaling van de bij of krachtens algemene maatregel van bestuur, bepaalde rechten. Het ontbreken van een dergelijk beroep doet het recht op voorrang vervallen.   
+2.  Indien bij het depot niet is voldaan aan de overige in algemene maatregel van bestuur, gestelde vereisten geeft Onze Minister hiervan zo spoedig mogelijk, schriftelijk kennis aan de deposant onder opgave van de voorschriften waaraan niet is voldaan en stelt hem in de gelegenheid daaraan alsnog te voldoen binnen een bij algemene maatregel van bestuur, gestelde termijn.   
+3.  Het depot vervalt, indien niet binnen de gestelde termijn voldaan is aan de bepalingen van algemene maatregel van bestuur.   
+4.  Onze Minister maakt de akte van depot op met vermelding van het tijdstip waarop dit werd verricht, schrijft deze akte, onverminderd het bepaalde bij artikel 18 en 19 onverwijld in het register in voor de door deposant vermelde waren of diensten en verstrekt een bewijs van inschrijving aan de merkhouder.   
+5.  De wettelijke datum van inschrijving is die van het depot.   
+6.  In voorkomende gevallen vermeldt de inschrijving de datum en de grondslag van het ingeroepen recht van voorrang.   
+7.  Het op artikel 4 van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 of op de Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage 1C bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie gegronde beroep op voorrang wordt gedaan bij het depot of bij een bijzondere verklaring af te leggen bij Onze Minister, in de maand volgende op het depot, met inachtneming van de vormvereisten en tegen betaling van de bij of krachtens algemene maatregel van bestuur, bepaalde rechten. Het ontbreken van een dergelijk beroep doet het recht op voorrang vervallen.   
 
 ### Artikel  18  
 
-De internationale depots geschieden volgens de bepalingen van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891. De nationale rechten, bedoeld in artikel 8, eerste lid, van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891, alsmede de rechten bedoeld onder artikel 8, zevende lid, onderdeel a, van het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891, worden bij of krachtens algemene maatregel van bestuur, bepaald.  
+De internationale depots geschieden volgens de bepalingen van het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891. De nationale rechten, bedoeld in artikel 8, eerste lid, alsmede de rechten bedoeld onder artikel 8, zevende lid, onderdeel a, van het voorgenoemde Protocol, worden bij of krachtens algemene maatregel van bestuur bepaald.  
 
 ### Artikel  19  
 
@@ -131,7 +131,7 @@ a. de overdracht onder levenden, die niet schriftelijk is vastgelegd;
 b. de overdracht of andere overgang die niet op Bonaire, Sint Eustatius en Saba betrekking heeft.     
 3.  Het uitsluitend recht op een merk kan door de merkhouder ingeroepen worden tegen een licentiehouder die handelt in strijd met de bepalingen van de licentie-overeenkomst inzake de duur daarvan, de door de inschrijving gedekte vorm waarin het merk mag worden gebruikt, de waren waarvoor de licentie is verleend, het grondgebied waarbinnen het merk mag worden aangebracht of de kwaliteit van de door de licentiehouder in het verkeer gebrachte waren.   
 4.  De overdracht of andere overgang of de licentie kan niet aan derden worden tegengeworpen dan na inschrijving van het depot van een uittreksel der akte, waaruit van die overgang of die licentie blijkt, of van een daarop betrekking hebbende, door de betrokken partijen ondertekende verklaring, mits dit depot is verricht met inachtneming van de gestelde vormvereisten en tegen betaling van de rechten, bepaald bij of krachtens algemene maatregel van bestuur. Het in de vorige volzin bepaalde is van overeenkomstige toepassing op pandrechten en beslagen.   
-5.  De licentiehouder is bevoegd in een door de merkhouder ingestelde vordering als bedoeld in artikel 23, vierde en vijfde lid, tussen te komen om rechtstreeks door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in de vorige volzin kan de licentiehouder slechts instellen, indien hij de bevoegdheid daartoe van de merkhouder heeft bedongen.   
+5.  De licentiehouder is bevoegd in een door de merkhouder ingestelde vordering als bedoeld in artikel 23, derde en vierde lid, tussen te komen om rechtstreeks door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in de vorige volzin kan de licentiehouder slechts instellen, indien hij de bevoegdheid daartoe van de merkhouder heeft bedongen.   
 
 ### Artikel  22  
 
@@ -268,7 +268,7 @@ Artikel 8, onderdeel c, is niet van toepassing op het depot van een collectief m
 
 ### Artikel  35  
 
-Onverminderd de toepassing van artikel 10 en 19 mag Onze Minister het depot van een collectief merk niet inschrijven, indien het bij dat merk behorende reglement op het gebruik en het toezicht niet volgens de in artikel 32 gestelde voorwaarden is gedeponeerd.  
+Onverminderd de toepassing van artikel 10 en 19 mag Onze Minister het depot van een collectief merk niet inschrijven, indien het bij dat merk behorende reglement op het gebruik en het toezicht niet volgens de in artikel 32 en artikel 33 gestelde voorwaarden is gedeponeerd.  
 
 ### Artikel  36  
 
@@ -296,11 +296,11 @@ De collectieve merken, die zijn vervallen, nietigverklaard of doorgehaald, evena
 
 ### Artikel  40  
 
-De bepalingen van deze wet inzake internationale depots verricht ingevolge de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 zijn van overeenkomstige toepassing op internationale depots verricht ingevolge het Protocol van 28 juni 1989 bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891.  
+De bepalingen van deze wet inzake internationale depots verricht ingevolge de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 zijn van overeenkomstige toepassing op internationale depots verricht ingevolge het Protocol van 27 juni 1989 bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891.  
 
 ### Artikel  41  
 
-Ingezetenen van Bonaire, Sint Eustatius of Saba, alsmede onderdanen van landen welke geen deel uitmaken van de door het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 (Trb. 1969, 144) opgerichte Unie, die woonplaats hebben op Bonaire, Sint Eustatius of Saba of aldaar een daadwerkelijke en wezenlijke nijverheids- of handelsonderneming hebben, kunnen ingevolge deze wet, voor dit gehele gebied, de toepassing te hunnen voordele inroepen van de bepalingen van het voornoemde Verdrag en van de Overeenkomst van Madrid.  
+Ingezetenen van Bonaire, Sint Eustatius of Saba, alsmede onderdanen van landen welke geen deel uitmaken van de door het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 (Trb. 1969, 144) opgerichte Unie, die woonplaats hebben op Bonaire, Sint Eustatius of Saba of aldaar een daadwerkelijke en wezenlijke nijverheids- of handelsonderneming hebben, kunnen ingevolge deze wet, voor dit gehele gebied, de toepassing te hunnen voordele inroepen van de bepalingen van het voornoemde Verdrag en van het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891.  
 
 ### Hoofdstuk  V  
 
@@ -319,7 +319,7 @@ Onverminderd het bepaalde in artikel 43 worden de mede op Bonaire, Sint Eustatiu
 
 ### Artikel  44  
 
-Bij ministeriële regeling wordt een voorziening getroffen omtrent het inschrijven, vernieuwen, wijzigen van of andere handelingen inzake internationale merken als bedoeld in de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 27 juni 1989 gedurende de periode die aanvangt op de datum van inwerkingtreding van deze wet en eindigt op het tijdstip waarop Bonaire, Sint Eustatius en Saba als gebied kan worden aangewezen krachtens de genoemde Overeenkomst en Protocol.  
+Bij ministeriële regeling wordt een voorziening getroffen omtrent het inschrijven, vernieuwen, wijzigen van of andere handelingen inzake internationale merken als bedoeld in het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 gedurende de periode die aanvangt op de datum van inwerkingtreding van deze wet en eindigt op het tijdstip waarop Bonaire, Sint Eustatius en Saba als gebied kan worden aangewezen krachtens het genoemde Protocol.  
 
 ### Artikel  45  
 
@@ -335,7 +335,7 @@ Bij ministeriële regeling wordt een voorziening getroffen omtrent het inschrijv
 
 ### Artikel  47  
 
-De bepalingen van deze wet doen geen afbreuk aan bepalingen van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883, de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en de bepalingen van op Bonaire, Sint Eustatius en Saba geldend recht, waaruit een verbod om een merk te gebruiken voortvloeit.  
+De bepalingen van deze wet doen geen afbreuk aan bepalingen van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883, het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en de bepalingen van op Bonaire, Sint Eustatius en Saba geldend recht, waaruit een verbod om een merk te gebruiken voortvloeit.  
 
 ### Artikel  49  
 

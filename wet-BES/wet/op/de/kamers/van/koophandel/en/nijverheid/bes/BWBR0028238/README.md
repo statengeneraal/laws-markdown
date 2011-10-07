@@ -15,27 +15,31 @@ In de artikelen van deze wet wordt verstaan onder openbaar lichaam: het openbaar
 ### Artikel  2  
 
 1.  De Kamers vertegenwoordigen het grootbedrijf en het kleinbedrijf beide.   
-2.  De kiezers voor het grootbedrijf kiezen 3 leden van elke kamer, de kiezers voor het kleinbedrijf kiezen de overige leden.   
+2.  Voor de Kamer op Bonaire kiezen de kiezers voor het grootbedrijf twee leden van de Kamer en de kiezers voor het kleinbedrijf kiezen de overige leden.   
 3.  Kiezers voor het grootbedrijf zijn de kiesgerechtigden als omschreven in artikel 3, wier namen in het handelsregister voorkomen als betrokken bij een onderneming of een nevenvestiging voor wier inschrijving in het handelsregister een bedrag verschuldigd is dat gebaseerd is op een in de onderneming of nevenvestiging aanwezige eigen vermogen van tenminste USD 55.865,92. Alle andere kiesgerechtigden als vorenbedoeld zijn kiezers voor het kleinbedrijf.   
+4.  Het onderscheid tussen grootbedrijf en kleinbedrijf geldt niet voor de openbare lichamen Sint Eustatius en Saba.   
+5.  De kiezers die ingezetene zijn van het openbaar lichaam Sint Eustatius kiezen twee leden en de kiezers die ingezetene zijn van het openbaar lichaam Saba kiezen twee leden. Als vijfde lid van het bestuur wordt diegene gekozen die daarna de meeste stemmen heeft behaald, ongeacht de herkomst van die stemmen.   
 
 ####Kiesrecht
 
 ### Artikel  3  
 
-1.  De leden van de kamers worden gekozen; door de ingezetenen van het openbaar lichaam alwaar de Kamer haar gebied heeft, (tevens Nederlanders) die gedurende 1 jaar, onmiddellijk voorafgaande aan het opmaken van de kiezerslijst, in het handelsregister van het gebied van de Kamer voorkomen, hetzij als eigenaar van een in het gebied van de Kamer gevestigde onderneming of nevenvestiging, en wel alleen of tezamen met andere personen, als lid van een vennootschap onder firma, of als beherende vennoot van een commanditaire vennootschap, hetzij als directeur, als adjunct- of onderdirecteur, aandeelhouder-bestuurder, lid van een algemeen bestuur of een uitvoerend bestuur, lid van een raad van beheer of raad van toezicht, of als commissaris, of als bekleed met een andere functie, welke de bevoegdheid meebrengt omtrent het besturen of het beheren van een rechtspersoon aan wie een onderneming of nevenvestiging toebehoort, hetzij zelfstandig, hetzij krachtens gezamenlijk genomen besluit handelingen te verrichten, hetzij als algemeen gevolmachtigde of algemeen procuratiehouder bij een ingeschreven onderneming, mits deze de bevoegdheid is toegekend zonder beperking verbintenissen aan te gaan ten bate en ten laste van degene die hij vertegenwoordigt, zij het ook dat collectieve tekening daartoe is vereist.   
+1.  De leden van de kamers worden gekozen; door de ingezetenen van het openbaar lichaam alwaar de Kamer haar gebied heeft, die op 1 juli voorafgaande aan het opmaken van de kiezerslijst, in het handelsregister van het gebied van de Kamer voorkomen, hetzij als eigenaar van een in het gebied van de Kamer gevestigde onderneming of nevenvestiging, en wel alleen of tezamen met andere personen, als lid van een vennootschap onder firma, of als beherende vennoot van een commanditaire vennootschap, hetzij als directeur, als adjunct- of onderdirecteur, aandeelhouder-bestuurder, lid van een algemeen bestuur of een uitvoerend bestuur, lid van een raad van beheer of raad van toezicht, of als commissaris, of als bekleed met een andere functie, welke de bevoegdheid meebrengt omtrent het besturen of het beheren van een rechtspersoon aan wie een onderneming of nevenvestiging toebehoort, hetzij zelfstandig, hetzij krachtens gezamenlijk genomen besluit handelingen te verrichten, hetzij als algemeen gevolmachtigde of algemeen procuratiehouder bij een ingeschreven onderneming, mits deze de bevoegdheid is toegekend zonder beperking verbintenissen aan te gaan ten bate en ten laste van degene die hij vertegenwoordigt, zij het ook dat collectieve tekening daartoe is vereist.   
 2.  Van het kiesrecht zijn uitgesloten zij, die rechtens van hunne vrijheid zijn beroofd, die krachtens onherroepelijke rechterlijke uitspraak wegens krankzinnigheid of zwakheid van vermogens de beschikking of het beheer over hunne goederen hebben verloren, die van het ouderlijk gezag over een of meer hunner kinderen ontzet zijn, of die ingevolge onherroepelijk geworden rechterlijke uitspraak in staat van faillissement verkeeren of anderszins de beschikking of het beheer hunner goederen hebben verloren en zij, aan wie bij onherroepelijke rechterlijke uitspraak het kiesrecht is ontzegd.   
 3.  Zij, wier naam in het handelsregister bij meer dan eene Kamer van Koophandel en Nijverheid voorkomt, hebben slechts kiesrecht voor de Kamer binnen welker gebied zij hun woonplaats hebben.   
 4.  De Kamer kan het bewijs vorderen dat de personen in het 1ste lid bedoeld de hoedanigheid bezitten waarop hun opname in het handelsregister is gegrond.   
-5.  Als ingezetene bedoeld in den zin van deze verordening wordt beschouwd hij die in het bevolkingsregister van Bonaire, Sint Eustatius of Saba is ingeschreven.   
+5.  Als ingezetene bedoeld in den zin van deze wet wordt beschouwd hij die in het bevolkingsregister van Bonaire, Sint Eustatius of Saba is ingeschreven.   
+6.  Voor de verkiezingen in het jaar 2011, kan, in afwijking van de in het eerste lid genoemde datum van 1 juli, de datum van 15 oktober gehanteerd worden.   
 
 ####Kiezerslijst
 
 ### Artikel  4  
 
-1.  De Kamer maakt jaarlijks twee kiezerslijsten op van de kiezers, die gerechtigd zijn, hun stem uit te brengen bij verkiezingen voor leden van die Kamer. vaartuig bij laag water te lichten of uit hoofde van andere noodzakelijke redenen.   
+1.  De Kamer van Bonaire maakt jaarlijks twee kiezerslijsten op van de kiezers, die gerechtigd zijn, hun stem uit te brengen bij verkiezingen voor leden van die Kamer. De Kamer van Sint Eustatius en Saba maakt een kiezerslijst per openbaar lichaam met de kiezers die ingezetene zijn van dat openbaar lichaam.   
+2.  De ene kiezerslijst vermeldt de kiezers voor het grootbedrijf en de andere die voor het kleinbedrijf, respectievelijk de kiezers die ingezetene zijn van het openbaar lichaam.   
 3.  Deze lijsten blijven van kracht voor de verkiezingen ter vervulling van tusschentijds opengevallen plaatsten, totdat de lijsten voor het volgend kalenderjaar zijn vastgesteld.   
 4.  De kiezerslijsten voor elke Kamer worden in het gebied van elke Kamer openbaar gemaakt. Tegen die lijsten kunnen bezwaren bij de Kamer worden ingediend.   
-5.  In het reglement, bedoeld in het 4de lid van artikel 1 wordt geregeld: 
+5.  In het reglement, bedoeld in het derde lid van artikel 1a wordt geregeld: 
 
 a. het opmaken der kiezerslijsten;  
 
@@ -51,7 +55,7 @@ e. het tijdstip voor het sluiten der kiezerslijsten.
 
 ### Artikel  5  
 
-1.  Tot lid eener Kamer kunnen worden gekozen of benoemd zij die gedurende de laatste twee jaren ingezetenen van Bonaire, Sint Eustatius of Saba zijn geweest, tevens Nederlanders of Nederlandsche onderdanen zijn en den ouderdom van 25 jaren op den 15den oktober van het jaar, waarin de verkiezing valt, hebben bereikt.   
+1.  Tot lid eener Kamer kunnen worden gekozen of benoemd zij die gedurende de laatste twee jaren ingezetenen van Bonaire, Sint Eustatius of Saba zijn geweest en den ouderdom van 25 jaren op den 15den oktober van het jaar, waarin de verkiezing valt, hebben bereikt.   
 2.  Twee of meer personen, die tot eenzelfde ingeschreven onderneming of nevenvestiging in betrekking staan als eigenaar, directeur, adjunct- of onderdirecteur, aandeelhouder-bestuurder, lid van een algemeen bestuur of een uitvoerend bestuur, lid van een raad van beheer of raad van toezicht, of als commissaris, dan wel een andere functie bekleden bedoeld in artikel 3, eerste lid, kunnen niet tegelijkertijd leden van de Kamer zijn.   
 3.  Van de verkiesbaarheid zijn uitgesloten zij, die rechtens van hunne vrijheid zijn beroofd, die krachtens onherroepelijke rechtelijke uitspraak wegens krankzinnigheid of zwakheid van vermogens de beschikking of het beheer over hunne goederen hebben verloren, die van het ouderlijke gezag over een of meer hunner kinderen ontzet zijn, of die ingevolge onherroepelijk geworden rechterlijke uitspraak in staat van faillissement verkeerden of anderszins de beschikking of het beheer hunner goederen hebben verloren en zij die van het kiesrecht voor de Kamer of van de verkiesbaarheid bij onherroepelijke rechterlijke uitspraak zijn ontzet.   
 
@@ -64,6 +68,7 @@ e. het tijdstip voor het sluiten der kiezerslijsten.
 3.  Hij, die ter vervulling eener buiten den bij den rooster bepaalden tijd opengevallen plaats, tot lid eener Kamer is verkozen, treedt af op het tijdstip, waarop degeen, in wiens plaats hij verkozen is, moet aftreden.   
 4.  De aftredende leden kunnen ten hoogste drie maal worden herbenoemd.   
 5.  De rooster van aftreden bedoeld in het 2de lid van dit artikel, door de Kamer voor het eerst na toelating der voor de eerste maal gekozen nieuwe leden der Kamer vastgesteld, zal voor Bonaire, Sint Eustatius of Saba een voortzetting zijn van de ten tijde van het in werking treden dezer wet bestaande rooster, met dien verstande dat de onderlinge plaatsing der nieuwe leden bij het lot zal geschieden.   
+6.  Voor de verkiezingen in het jaar 2011 en 2012 kan worden afgeweken van het eerste en tweede lid, op bij algemene maatregel van bestuur vast te stellen wijze.   
 
 ### Artikel  7  
 
@@ -78,6 +83,7 @@ e. het tijdstip voor het sluiten der kiezerslijsten.
 
 1.  De Kamer stelt het tijdperk van elke verkiezing vast, en deelt dat mede aan het Bestuurscollege binnen wiens gebied zij gevestigd is. Tusschen deze mededeeling en den aanvangsdatum van dat tijdperk moet tenminste een maand verloopen.   
 2.  Bij periodieke aftreding, ingevolge artikel 6, tweede lid, geschiedt deze mededeeling in de maand Augustus, voorafgaande aan de aftreding, en heeft de verkiezing plaats in de maand November of, indien omstandigheden zulks noodig maken, in de maand December daaropvolgend; bij het openvallen van plaatsen ingevolge artikel 7 en in alle andere gevallen geschiedt deze mededeeling binnen één maand na het openvallen en heeft de verkiezing plaats binnen drie maanden na die mededeeling.   
+3.  Voor de verkiezingen in het jaar 2011 geldt dat de mededeling in de maand oktober geschiedt.   
 
 ####Verkiezingscommissie
 
@@ -86,12 +92,13 @@ e. het tijdstip voor het sluiten der kiezerslijsten.
 1.  Voor de verkiezing van leden van de Kamer van Koophandel en Nijverheid is eene commissie gevestigd in elk openbaar lichaam, waar eene kamer haren zetel heeft, hierna te noemen Verkiezingscommissie.   
 2.  Elke verkiezingscommissie bestaat uit een voorzitter, twee leden en drie plaatsvervangende leden welke voor een kalenderjaar uit de kiesgerechtigden voor de Kamer door het Bestuurscollege worden benoemd. Als secretaris treedt op de secretaris van de Kamer.   
 3.  De Kamer stelt een lokaal beschikbaar voor de zitting van de Verkiezings-commissie en zorgt voor de inrichting van dat lokaal.   
+4.  De verkiezingscommissie voor de Kamer van Sint Eustatius en Saba behoeft tevens de instemming van het bestuurscollege van Saba.   
 
 ####Wijze van verkiezing
 
 ### Artikel  10  
 
-1.  De verkiezing geschiedt op de wijze als voorgeschreven is in het reglement bedoeld bij lid 4 van artikel 1.   
+1.  De verkiezing geschiedt op de wijze als voorgeschreven is in het reglement bedoeld in het derde lid van artikel 1a.   
 2.  Het tijdstip en de wijze van indiening van – en de beslissing op de bezwaren tegen eene verkiezing, alsmede omtrent afgifte, onderzoek en beslissing over geloofsbrieven en indiening van – en beslissing op bezwaren tegen beslissing te dier zake worden tevens in dat reglement vastgesteld.   
 
 ####Bevoegdheden en verplichtingen der Kamers

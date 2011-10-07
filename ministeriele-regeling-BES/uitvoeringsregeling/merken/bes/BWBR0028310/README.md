@@ -2,18 +2,13 @@
 
 ##Regeling van de Minister van Economische Zaken van 9 september 2010, nr. WJZ/10134751 houdende een tijdelijke voorziening voor internationale merken en regels ter uitvoering van het Uitvoeringsbesluit merken BES (Uitvoeringsregeling merken BES)
 
+De Minister van Economische Zaken,  
+Gelet op artikel 44 van de Wet merken BES en de artikelen 2, vierde lid, 3, onderdelen c en d, 6, tweede lid, 10, derde lid, onderdeel a, 11, eerste lid, 18, 19, 24, 26 en 30 van het Uitvoeringsbesluit merken BES;
+Besluit:    
+
 ### Artikel  1  
 
-In deze regeling wordt onder ‘het besluit’ verstaan: het [Uitvoeringsbesluit merken BES](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md).  
-
-### Artikel  2  
-
-1.  Een handelingen als aangeduid of bedoeld in [artikel 44 van de Wet merken BES](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md) verricht ten behoeve van de Nederlandse Antillen in de periode, bepaald in het genoemde artikel, geldt als een handeling ten behoeve van Bonaire, Sint Eustatius en Saba mits de handeling voldoet aan: 
-
-a. de daarvoor geldende vereisten van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en/of het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 27 juni 1989 en  
-
-b. bepalingen van de [Wet merken BES](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md) en het [Uitvoeringsbesluit merken BES](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md).     
-2.  Dit artikel vervalt op het tijdstip waarop Bonaire, Sint Eustatius en Saba als gebied kan worden aangewezen krachtens de Overeenkomst en/of het Protocol als bedoeld in het eerste lid.   
+In deze regeling wordt onder ‘het besluit’ verstaan: het Uitvoeringsbesluit merken BES.  
 
 ### Artikel  3  
 

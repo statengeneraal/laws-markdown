@@ -10,17 +10,17 @@
 
 1.  In deze algemene maatregel van bestuur en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *de wet:* de [Wet merken BES](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md);  
+a. *de wet:* de Wet merken BES;  
 
 b. [vervallen]  
 
-c. *de Minister:* Onze Minister van Economische Zaken;  
+c. *de Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 d. [vervallen]  
 
 e. [vervallen]  
 
-f. *het register:* het register, bedoeld in [artikel 10, vijfde lid, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md);  
+f. *het register:* het register, bedoeld in artikel 10, vijfde lid, van de wet;  
 
 g. *de Overeenkomst van Nice:* Overeenkomst van Nice van 15 juni 1957 betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken;  
 
@@ -31,7 +31,7 @@ i. *adres:* de straat of soortgelijke adresaanduiding, voorzien van het huisnumm
 j. [vervallen]  
 
 k. *Protocol:* Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 27 juni 1989.     
-2.  Tenzij het tegendeel blijkt, hebben de in deze algemene maatregel van bestuur gebruikte begrippen die tevens voorkomen in de [wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), dezelfde betekenis als in de wet.   
+2.  Tenzij het tegendeel blijkt, hebben de in deze algemene maatregel van bestuur gebruikte begrippen die tevens voorkomen in de wet, dezelfde betekenis als in de wet.   
 
 ### Hoofdstuk  2  
 
@@ -75,8 +75,8 @@ d. een door Onze Minister vast te stellen aantal afbeeldingen van het merk; deze
 
 ### Artikel  4  
 
-1.  De in [artikel 10, eerste lid, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md) bedoelde vereisten voor het vaststellen van een datum van depot, zijn die vermeld in artikel 2, eerste lid, onderdelen a, b, e en f, en in artikel 3, onderdeel a en, voor wat betreft de basisrechten of vergoedingen, onderdeel c.   
-2.  De termijn, bedoeld in [artikel 10, derde lid, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), om te voldoen aan de overige gestelde vereisten, bedraagt ten minste een maand. Deze termijn wordt op verzoek of kan ambtshalve worden verlengd, zonder dat een tijdvak van zes maanden na de datum van het eerste kennisgeving wordt overschreden.   
+1.  De in artikel 10, eerste lid, van de wet bedoelde vereisten voor het vaststellen van een datum van depot, zijn die vermeld in artikel 2, eerste lid, onderdelen a, b, e en f, en in artikel 3, onderdeel a en, voor wat betreft de basisrechten of vergoedingen, onderdeel c.   
+2.  De termijn, bedoeld in artikel 10, derde lid, van de wet, om te voldoen aan de overige gestelde vereisten, bedraagt ten minste een maand. Deze termijn wordt op verzoek of kan ambtshalve worden verlengd, zonder dat een tijdvak van zes maanden na de datum van het eerste kennisgeving wordt overschreden.   
 3.  [vervallen]   
 
 ### Artikel  5  
@@ -108,7 +108,6 @@ d. de datum waarop de geldigheidsduur van de inschrijving verstrijkt;
 
 e. de nummers van de klassen van de internationale classificatie van waren en diensten bedoeld in de Overeenkomst van Nice, waarin de waren en diensten, voorkomend in de opgave van de waren en diensten van het gedeponeerde merk, worden gerangschikt.     
 2.  Inschrijving heeft plaats in de taal waarin het depot is gesteld.   
-3.  Als datum van inschrijving geldt de datum van de dag waarop Onze Minister vaststelt dat het depot voldoet aan de bij de wet of krachtens dit besluit gestelde vereisten voor de inschrijving van het merk.   
 
 ### Artikel  8  
 
@@ -117,8 +116,8 @@ Indien een beroep op het recht van voorrang is gedaan, wordt dit feit door Onze 
 ### Artikel  9  
 
 1.  Ieder verzoek tot wijziging van de inschrijving in het register wordt aan Onze Minister gericht en bevat het nummer van de inschrijving, de naam en het adres van de houder van het merk, zijn handtekening of die van zijn gemachtigde en, in voorkomend geval, naam en adres van de gemachtigde.   
-2.  Wijzigingen in de inschrijving als bedoeld in [artikel 29, eerste lid, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), hebben plaats in dezelfde taal als de inschrijving, tenzij Onze Minister op het desbetreffende verzoek anders heeft beslist.   
-3.  Bij het verzoek wordt een kopie van de akte overgelegd waaruit overdracht, andere overgang,licentie of een pandrecht, als bedoeld in de [artikelen 21, vierde lid, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), blijkt.   
+2.  Wijzigingen in de inschrijving als bedoeld in artikel 29, eerste lid, van de wet, hebben plaats in dezelfde taal als de inschrijving, tenzij Onze Minister op het desbetreffende verzoek anders heeft beslist.   
+3.  Bij het verzoek wordt een kopie van de akte overgelegd waaruit overdracht, andere overgang,licentie of een pandrecht, als bedoeld in de artikelen 21, vierde lid, van de wet, blijkt.   
 4.  De doorhaling van de inschrijving van een overdracht, andere overgang, licentie, pandrecht of beslag wordt verricht op basis van een bewijsstuk.   
 5.  Indien Onze Minister gerede twijfel heeft over de juistheid van de verzochte wijziging kan het nadere informatie verzoeken, waaronder het overleggen van originele stukken of gewaarmerkte kopieën daarvan.   
 
@@ -182,7 +181,7 @@ e. de nummers van de klassen van de internationale classificatie van waren en di
 
 ### Artikel  14  
 
-1.  Ter bepaling van het tijdstip, waarop een stuk bij Onze Minister is ingekomen, wordt het onmiddellijk na ontvangst voorzien van een dagtekening, houdende uur, dag, maand en jaar van die ontvangst. Onze Minister houdt daarbij de tijd aan van Bonaire, Sint Eustatius en Saba.   
+1.  Ter bepaling van het tijdstip, waarop een stuk bij Onze Minister is ingekomen, wordt het onmiddellijk na ontvangst voorzien van een dagtekening, houdende uur, dag, maand en jaar van die ontvangst.   
 2.  Bij bezorging van een stuk, anders dan per post, wordt op verlangen de ontvangst erkend door op een bij de overhandiging aan te bieden ontvangstbewijs, dat duidelijk en volledig de aard van het stuk vermeldt, het voor dat stuk bestemde stempel af te drukken.   
 3.  Stukken, welke na de sluiting van Onze Minister worden bezorgd, hetzij in de brievenbus, hetzij in de postbus van Onze Minister, worden behoudens tegenbewijs, geacht te zijn bezorgd om 7:30 uur van de eerstvolgende werkdag. Bij meerdere van zodanige indieningen beslist Onze Minister omtrent de volgorde van behandeling.   
 4.  [vervallen]   
@@ -223,7 +222,7 @@ Onze Minister kan formulieren beschikbaar stellen voor het verrichten van handel
 
 ### Artikel  21  
 
-Onze Minister publiceert vermeldingen als bedoeld in [artikel 29, eerste lid, onderdeel b, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md) uitsluitend in de taal waarin deze zijn ingeschreven, zijnde: de ingeschreven gegevens betreffende depots, bedoeld in artikel 7, 9 en 10.  
+Onze Minister publiceert vermeldingen als bedoeld in artikel 29, eerste lid, onderdeel b, van de wet uitsluitend in de taal waarin deze zijn ingeschreven, zijnde: de ingeschreven gegevens betreffende depots, bedoeld in artikel 7, 9 en 10.  
 
 ### Hoofdstuk  6  
 
@@ -247,8 +246,8 @@ Bij ministeriële regeling worden regels gesteld omtrent de bedragen aan en beta
 
 ### Artikel  25  
 
-1.  Het bevestigende depot als bedoeld in [artikel 43, eerste lid, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), geschiedt overeenkomstig het bepaalde in de artikelen 2 en 3. Voorts wordt vermeld de dagtekening en nummer van het eerder verkregen recht en wordt Onze Minister een bewijsstuk verstrekt waaruit het eerder verkregen recht blijkt.   
-2.  Het depot is ontvankelijk, indien Onze Minister binnen de in [artikel 43, eerste lid, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md) gestelde termijn op de hoogte is gesteld van de in het eerste lid van dit artikel genoemde dagtekening en nummer van het eerder verkregen recht.   
+1.  Het bevestigende depot als bedoeld in artikel 43, eerste lid, van de wet, geschiedt overeenkomstig het bepaalde in de artikelen 2 en 3. Voorts wordt vermeld de dagtekening en nummer van het eerder verkregen recht en wordt Onze Minister een bewijsstuk verstrekt waaruit het eerder verkregen recht blijkt.   
+2.  Het depot is ontvankelijk, indien Onze Minister binnen de in artikel 43, eerste lid, van de wet gestelde termijn op de hoogte is gesteld van de in het eerste lid van dit artikel genoemde dagtekening en nummer van het eerder verkregen recht.   
 3.  Indien bij het depot niet is voldaan aan het bepaalde in het eerste lid en de artikelen 2 en 3, stelt het Bureau de betrokkene hiervan onverwijld in kennis en geeft hem een termijn van ten minste een maand om hieraan alsnog te voldoen. De termijn wordt op verzoek of kan ambtshalve worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.   
 4.  Indien binnen de termijn, bedoeld in het derde lid, niet is voldaan aan het in dit artikel bepaalde, worden de ontvangen stukken verder buiten beschouwing gelaten. De betrokkene wordt hiervan in kennis gesteld.   
 5.  Het bepaalde in de artikelen 7 en 8 is van overeenkomstige toepassing, met dien verstande dat bij de inschrijving mede worden vermeld de in het eerste lid bedoelde gegevens betreffende het eerder verkregen recht, bedoelde gegevens en de datum waarop de geldigheidsduur van de inschrijving verstrijkt.   
@@ -273,7 +272,7 @@ Het formulier voor internationale registratie moet in de engelse taal worden ing
 
 ### Artikel  29  
 
-Ingevolge het bepaalde in [artikel 19, tweede lid, van de wet](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md) heeft de deposant een termijn van ten minste een maand na de datum van de eerste kennisgeving om te antwoorden op de voorlopige weigering; deze termijn wordt op verzoek of kan ambtshalve worden verlengd, zonder dat een tijdvak van zes maanden na de datum van de eerste kennisgeving wordt overschreden.  
+Ingevolge het bepaalde in artikel 19, tweede lid, van de wet heeft de deposant een termijn van ten minste een maand na de datum van de eerste kennisgeving om te antwoorden op de voorlopige weigering; deze termijn wordt op verzoek of kan ambtshalve worden verlengd, zonder dat een tijdvak van zes maanden na de datum van de eerste kennisgeving wordt overschreden.  
 
 ### Artikel  30  
 
@@ -285,11 +284,11 @@ Het bedrag van de rechten of vergoedingen voor handelingen met betrekking tot in
 
 ### Artikel  31  
 
-Deze algemene maatregel van bestuur treedt in werking op de datum waarop de wet, geheel of gedeeltelijk, in werking treedt. Artikel 24, eerste lid, onderdeel d, treedt in werking op een bij algemene maatregel van bestuur nader te bepalen tijdstip.  
+Deze algemene maatregel van bestuur treedt in werking op de datum waarop de wet, geheel of gedeeltelijk, in werking treedt.  
 
 ### Artikel  32  
 
-Dit besluit berust op de [artikelen 10, eerste, derde, vierde en achtste lid](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), 11, derde lid, 17, eerste lid, [18](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), [20, derde en vierde lid](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), [21, vierde lid](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), [29, eerste en tweede lid](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md), en [43 van de Wet merken BES](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md).  
+Dit besluit berust op de artikelen 10, eerste, derde, vierde en achtste lid, 11, derde lid, 17, eerste lid, 18, 20, derde en vierde lid, 21, vierde lid, 29, eerste en tweede lid, en 43 van de Wet merken BES.  
 
 ### Artikel  33  
 

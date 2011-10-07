@@ -372,12 +372,12 @@ De Minister of het bestuurscollege, voor zover het betreft overtreding van voors
 ### Artikel  33  
 
 1.  Handelen in strijd met de voorschriften gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij geldboete van ten hoogste de zesde categorie van het [Wetboek van Strafrecht BES](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), hetzij beide straffen.   
-2.  Handelen in strijd met de voorschriften gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover niet opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste een jaar, hetzij geldboete van ten hoogste de vijfde categorie van het [Wetboek van Strafrecht BES](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), hetzij beide straffen.   
+2.  Handelen in strijd met de voorschriften gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover niet opzettelijk begaan, gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij geldboete van ten hoogste de vijfde categorie van het [Wetboek van Strafrecht BES](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), hetzij beide straffen.   
 3.  Handelen in strijd met de bij de artikelen 17, eerste lid, en 19 gegeven voorschriften wordt gestraft met hetzij hechtenis van ten hoogste zes maanden, hetzij een geldboete van de vierde categorie van het [Wetboek van Strafrecht BES](../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), hetzij beide straffen.   
 
 ### Artikel  34  
 
-De in artikel 33, eerste en derde lid, strafbaar gestelde feiten zijn misdrijven; de overige in dit artikel strafbaar gestelde feiten zijn overtredingen.  
+De in artikel 33, eerste lid, strafbaar gestelde feiten zijn misdrijven; de overige in dit artikel strafbaar gestelde feiten zijn overtredingen.  
 
 ### Artikel  35  
 
