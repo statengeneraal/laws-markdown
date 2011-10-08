@@ -131,7 +131,7 @@ b. het hoofd van de afdeling Visserij Zaken, voor zover het betreft de beleidsaa
 
 c. het hoofd van de afdeling Detailhandel, Groothandel en Verwerking, voor zover het betreft de beleidsaangelegenheden op het beleidsterrein detailhandel, groothandel, verwerking, kwaliteit, en veterinaire zaken;  
 
-d. het hoofd van de afdeling Financiën & Controle, voor zover het betreft financiële aangelegenheden;  
+d. de teamleider Financiële Aangelegenheden, voor zover het betreft financiële aangelegenheden;  
 
 e. het hoofd van de afdeling Juridische Aangelegenheden, voor zover het betreft juridische en bestuurlijke aangelegenheden;  
 

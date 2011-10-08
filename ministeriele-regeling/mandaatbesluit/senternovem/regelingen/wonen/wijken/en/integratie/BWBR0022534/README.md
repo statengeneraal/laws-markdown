@@ -144,7 +144,9 @@ C.P.Vogelaar
 
 – [Tijdelijke Subsidieregeling Isolatieglas](../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/isolatieglas/BWBR0026447/README.md) (TSI);  
 
-– [Tijdelijke stimuleringsregeling energiebesparende voorzieningen aan woningen](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/energiebesparende/voorzieningen/aan/etc/BWBR0027927/README.md).   
+– [Tijdelijke stimuleringsregeling energiebesparende voorzieningen aan woningen](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/energiebesparende/voorzieningen/aan/etc/BWBR0027927/README.md);  
+
+– [Tijdelijke regeling blok voor blok](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/blok/voor/blok/BWBR0030094/README.md).   
 
 ### Bijlage  2  
 

@@ -14,6 +14,8 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
+* *Adviseur in de zin van Actie E:* een natuurlijk persoon, niet zijnde een werknemer van de subsidieaanvrager, die in het kader van de uitoefening van zijn beroep of bedrijf als adviseur werkzaam is op het gebied van sociale innovatie in arbeidsorganisaties door middel van gedragsbeïnvloeding of cultuurverandering;  
+
 * *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats uitsluitend aanspraak heeft op een uitkering op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) (WWB), of een uitkering op grond van de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) (WIJ), naar het oordeel van dat college, gebaseerd op een door een arts of arbeidsdeskundige afgegeven verklaring een structurele functionele beperking heeft en jegens het UWV geen aanspraak heeft op een uitkering, danwel een persoon die naar het oordeel van dat college behoort tot de doelgroep als bedoeld in [artikel 1 sub e van de Tijdelijke wet pilot loondispensatie](../../../../../../wet/tijdelijke/wet/pilot/loondispensatie/BWBR0027707/README.md);  
 
 * *begunstigde:* de subsidieaanvrager aan wie krachtens deze regeling subsidie is verleend;  
@@ -34,7 +36,7 @@ In deze regeling wordt verstaan onder:
 
 * *Implementatieverordening:*Verordening (EG) nr. 1828/2006 van de Commissie van 8 december 2006 tot vaststelling van uitvoeringbepalingen van Verordening (EG) nr. 1083/2006 van de Raad houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds, en van verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad betreffende het Europees Fonds voor Regionale ontwikkeling (pbEU 2006, L 371);  
 
-* *instelling:* een opleidingscentrum als bedoeld in [artikel 1.3.1](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of [1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan wel een instituut als bedoeld in [artikel 12.3.8 van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+* *Instelling:* een opleidingscentrum als bedoeld in [artikel 1.1.1., onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan wel een instituut als bedoeld in [artikel 12.3.8 van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
 * *IOAW:*[Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
 
@@ -123,7 +125,7 @@ f. additionele scholing, opleiding respectievelijk toerusting van jongeren op of
 
 ####Instelling Comité van experts
 
-De minister stelt ter beoordeling van aanvragen tot subsidieverlening met betrekking tot de Acties A, C, E en Jeugd 2 voor iedere Actie afzonderlijk een Comité van experts in.  
+De minister kan ter beoordeling van aanvragen tot subsidieverlening met betrekking tot de Acties A, C, E en Jeugd 2 voor iedere Actie afzonderlijk een Comité van experts instellen.  
 
 ### Artikel  6  
 
@@ -131,6 +133,7 @@ De minister stelt ter beoordeling van aanvragen tot subsidieverlening met betrek
 
 1.  De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, gelegen in de jaren 2007 t/m 2013. Indien deze mogelijkheid wordt geopend, wordt hiervan vooraf door de minister in de Nederlandse Staatscourant mededeling gedaan, waarbij tevens het maximaal beschikbare bedrag per Actie wordt vastgesteld.   
 2.  Wanneer het vastgestelde aanvraagtijdvak eindigt op een zaterdag, zondag of algemeen erkende feestdag eindigt de termijn om 17.00 uur op de vrijdag voorafgaand aan de zaterdag of zondag en om 17.00 uur op de dag voorafgaand aan de algemeen erkende feestdag.   
+3.  Wanneer het vastgestelde aanvraagtijdvak begint op een zaterdag, zondag of algemeen erkende feestdag, begint de termijn om 9.00 uur op de eerstvolgende werkdag, waarbij onder werkdag wordt verstaan de dagen maandag tot en met vrijdag.   
 
 ### Artikel  7  
 
@@ -158,6 +161,7 @@ d. een opgave van het tijdstip waarop de activiteiten starten en worden beëindi
 6.  Een aanvraag is volledig wanneer het elektronische formulier en de bijbehorende bijlagen volledig en juist zijn ingevuld, zodat op basis van de verstrekte informatie de aanvraag kan worden beoordeeld.   
 7.  Desgevraagd verstrekt de subsidieaanvrager een nadere toelichting op het projectplan en de begroting.   
 8.  Indien de subsidieaanvrager voor de financiering van het te subsidiëren project middelen van een derde inzet, geschiedt dit op basis van een schriftelijke overeenkomst met, dan wel een schriftelijke toezegging van die derde. In de schriftelijke overeenkomst, dan wel schriftelijke toezegging wordt de bijdrage die door de derde wordt verschaft vastgelegd, alsmede de voorwaarden waaronder deze ter beschikking wordt gesteld.   
+9.  Het tweede tot en met het vijfde lid en het achtste lid zijn niet van toepassing op subsidie aanvragen in het kader van Actie E, die zijn ingediend op of na 1 oktober 2011.   
 
 ### Artikel  9  
 
@@ -223,9 +227,9 @@ c. loonkostensubsidies en stagevergoedingen voor zover verstrekt binnen Actie J,
 
 – de toepasselijke beroepspraktijkvormingsovereenkomst,  
 
-– loonstrook deelnemer van de laatste scholingsmaand in het ESF project,  
+– loonstrook deelnemer van de laatste scholingsmaand in het ESF project, of een door het pensioenfonds verstrekt overzicht, waaruit het dienstverband van de deelnemer bij het leerbedrijf in de laatste scholingsmaand in het ESF-project blijkt,  
 
-– behaald diploma of bewijsstuk van het ROC waaruit blijkt dat de leerling gedurende een schooljaar de betreffende opleiding heeft genoten.     
+– behaald diploma of bewijsstuk van de instelling waaruit blijkt dat de leerling gedurende een schooljaar de betreffende opleiding heeft genoten.     
 4.  Om voor subsidie in aanmerking te komen dient voor opdrachten met een financieel belang van hoger of gelijk aan € 15.000,– de marktconformiteit aangetoond te worden. Voor opdrachten tot € 50.000,– kan worden volstaan met een benchmarkprocedure. Voor opdrachten hoger of gelijk aan € 50.000,– dient marktconformiteit te worden aangetoond door middel van een vergelijking van drie offertes, een niet-openbare aanbestedingsprocedure of een openbare aanbestedingsprocedure.   
 5.  Met uitzondering van het eerste lid, onderdeel a, geldt voor subsidieaanvragen die zijn ingediend voor 1 oktober 2010, artikel 13 van de subsidieregeling ESF 2007–2013 (herzien), zoals dit luidde op 30 september 2010.   
 
@@ -264,8 +268,9 @@ f. verletkosten.
 2.  De projectadministratie geeft inzicht in de geplande en gerealiseerde prestaties in termen van deelnemers en uren, dan wel in termen van geleverde producten of diensten.   
 3.  De financiële administratie geeft inzicht in de subsidiabele kosten, de inkomsten en de wijze waarop de inkomsten en uitgaven aan het project worden toegerekend.   
 4.  De deelnemersadministratie geeft inzicht in de subsidiabiliteit van de projectactiviteiten en de behaalde resultaten per individuele deelnemer.   
-5.  De begunstigde bewaart alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot en met 31 december 2020. Van bewijsstukken dient het originele stuk, dan wel een voor authentiek gewaarmerkte versie van het originele stuk, te worden bewaard volgens de in Bijlage 3 vastgestelde procedure.   
-6.  Begunstigde verstrekt desgevraagd aan door de minister dan wel door de Europese Commissie daartoe aangewezen personen inzage in of informatie uit de administratie. Tevens verstrekt hij de voornoemde personen desgevraagd informatie over de voortgang van het voor subsidie in aanmerking gebrachte project.   
+5.  Het eerste tot en met het vierde lid zijn niet van toepassing op subsidie aanvragen in het kader van Actie E, die zijn ingediend op of na 1 oktober 2011.   
+6.  De begunstigde bewaart alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot en met 31 december 2020. Van bewijsstukken dient het originele stuk, dan wel een voor authentiek gewaarmerkte versie van het originele stuk, te worden bewaard volgens de in Bijlage 3 vastgestelde procedure.   
+7.  Begunstigde verstrekt desgevraagd aan door de minister dan wel door de Europese Commissie daartoe aangewezen personen inzage in of informatie uit de administratie. Tevens verstrekt hij de voornoemde personen desgevraagd informatie over de voortgang van het voor subsidie in aanmerking gebrachte project.   
 
 ### Artikel  17  
 
@@ -375,7 +380,7 @@ c. een Opleidings- en Ontwikkelingsfonds dat door de minister overeenkomstig Bij
 
 1. Subsidieaanvragen met betrekking tot een project in het kader van Actie A, als bedoeld in artikel 4, onderdeel a, wordt in het kalenderjaar 2009 nog door de minister ontvangen in het aanvraagtijdvak van 2 november 2009, 09.00 uur, tot en met 30 november 2009, 17.00 uur;  
 
-2. In de periode van 1 januari 2010 tot en met 31 december 2010 wordt de aanvraag door de minister ontvangen in het aanvraagtijdvak van 1 oktober, 09.00 uur, tot en met 31 oktober, 17.00 uur.    
+2. In de periode van 1 januari 2010 tot en met 31 december 2013 wordt de aanvraag door de minister telkens ontvangen in het aanvraagtijdvak van 1 oktober, 09.00 uur, tot en met 31 oktober, 17.00 uur.    
 
 ### Artikel  A3  
 
@@ -467,7 +472,9 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt:
 
 a. voor aanvragen, ingediend in 2009: € 15.000.000,–;  
 
-b. voor aanvragen, ingediend in 2010: € 15.000.000,–.    
+b. voor aanvragen, ingediend in 2010: € 15.000.000,–;  
+
+c. voor aanvragen, ingediend in 2011: € 15.000.000,–.    
 
 ### Artikel  B4  
 
@@ -713,103 +720,107 @@ De subsidie met betrekking tot een project in het kader van Actie E wordt aange
 
 ####Aanvraagtijdvakken
 
-De subsidieaanvraag met betrekking tot een project in het kader van Actie E, als bedoeld in artikel 4, onderdeel e, wordt in de periode van 1 januari 2009 tot en met 31 december 2013 door de minister telkens ontvangen in het aanvraagtijdvak van 10 oktober 2011, 09.00 uur, tot en met 31 oktober, 17.00 uur.  
+Subsidieaanvragen met betrekking tot een project in het kader van Actie E, als bedoeld in artikel 4, onderdeel e, worden door de minister ontvangen in het aanvraagtijdvak van 10 oktober 2011, 9.00 uur, tot en met 21 oktober 2011, 17.00 uur.  
 
 ### Artikel  E3  
 
 ####Subsidieplafond
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt: 
-
-a. voor aanvragen, ingediend in 2009: € 7.000.000,–;  
-
-b. voor aanvragen, ingediend in 2010: € 12.000.000,–.    
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak bedoeld in artikel E2, € 25.200.000,–.  
 
 ### Artikel  E4  
 
 ####Doel
 
-In het kader van Actie E kan uitsluitend subsidie worden aangevraagd voor een project dat betrekking heeft op een van onderstaande twee thema’s: 
+In het kader van Actie E kan uitsluitend subsidie worden aangevraagd voor projecten op het terrein van sociale innovatie, gericht op ten minste een van de onderstaande thema’s: 
 
-a. Thema 1: arbeidstijdenmanagement, waaronder begrepen: 
+a. Procesverbetering: het binnen de arbeidsorganisatie(s) verbeteren, herschikken en innoveren van bedrijfsprocessen.  
 
-– rooster flexibiliteit;  
+b. Duurzame inzetbaarheid: het creëren van een cultuuromslag gericht op gezond, vitaal en productief werken van indiensttreding tot aan pensionering, door: 
 
-– slimmer pauzeren;  
+– het stimuleren van regionale en intersectorale arbeidsmobiliteit van werknemers,  
 
-– arbeidstijden;  
+– arbeidstijdenmanagement,  
 
-– ontkoppelen werk en werkplek.    
+– het bevorderen van gezond, vitaal en veilig werken, of  
 
-b. Thema 2: procesverbetering, gericht op interne werk- en taakverdeling, waaronder begrepen: 
-
-– zelfsturing;  
-
-– verbeterteams;  
-
-– multi inzetbaar personeel;  
-
-– taakroulatie en taakverrijking;  
-
-– uitwisseling van kennis en ervaring via bestaande en nieuwe technologieën.      
+– het bevorderen van zelfredzaamheid op de werkvloer.      
 
 ### Artikel  E5  
+
+####De aanvraag
+
+1. De aanvraag wordt ingediend onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening.  
+
+2. Per aanvrager wordt slechts één subsidie aanvraag in behandeling genomen.  
+
+3. Op een volledige aanvraag wordt na afloop van het aanvraagtijdvak, als bedoeld in artikel E2, binnen acht weken beslist.  
+
+4. In geval het totaalbedrag van de aangevraagde subsidies met betrekking tot Actie E het in artikel E3 vastgestelde subsidieplafond te boven gaat, verdeelt de minister de beschikbare middelen op basis van een bij loting door de notaris vastgestelde volgorde na afloop van het aanvraagtijdvak als bedoeld in artikel E2.  
+
+5. In de in het voorgaande lid bedoelde situatie is het derde lid van artikel 9 niet van toepassing.    
+
+### Artikel  E6  
 
 ####Specifieke eisen
 
 Een project in het kader van Actie E komt slechts voor subsidie in aanmerking indien: 
 
-a. het project past binnen het in artikel E4 omschreven doel; en  
+a. het project past binnen het in artikel E4 omschreven doel;  
 
-b. de in de subsidieaanvraag begrote kosten tenminste € 50.000,– en ten hoogste € 160.000,– bedragen; en  
+b. het project een duur van ten hoogste negen maanden heeft;  
 
-c. het project een duur van ten hoogste 12 maanden heeft; en  
+c. het project uiterlijk binnen vier weken na verzending van het besluit tot verlening van de subsidie start;  
 
-d. het project start uiterlijk binnen 8 maanden, gerekend vanaf de datum van de volledige aanvraag; en  
+d. werknemers van de subsidieaanvrager actief en aantoonbaar betrokken worden bij het project; en  
 
-e. bij de subsidieaanvraag een volledig uitgewerkt voorstel wordt overgelegd met een probleemanalyse, ideeën/oplossingsrichtingen en een uitgewerkt plan van aanpak voor de totstandkoming van een ontwerp implementatieplan; en  
-
-f. in geval van externe samenwerking (met bijvoorbeeld klanten of een toeleverancier) deze samenwerking bij de subsidie aanvraag door middel van een intentieverklaring of overeenkomst wordt aangetoond; en  
-
-g. werknemers van de subsidieaanvrager actief en aantoonbaar betrokken worden bij het ontwikkeltraject;  
-
-h. de beoogde resultaten van het project algemeen overdraagbaar zijn;  
-
-i. een ontwerp implementatieplan dat gericht is op de wijze waarop de arbeid is georganiseerd bij de deelnemer, dan wel bij de deelnemers aan het project, in ieder geval de volgende elementen bevat: 
-
-– een door de deelnemende werkgever(s) verrichte analyse van de knelpunten in de arbeidsproductiviteit;  
-
-– een door de deelnemende werkgever(s) verrichte analyse van de sociale innovatiepotentie;  
-
-– door de deelnemende werkgever(s) opgestelde meetbare doelstellingen;  
-
-– een door de deelnemende werkgever(s) vastgesteld verslag van het uittesten van het implementatieplan;  
-
-– een door de deelnemende werkgever, dan wel werkgevers verrichte kosten/baten analyse van het vervolgtraject;  
-
-– een door de deelnemende werkgever (s) opgesteld activiteitenplan en een daaraan gekoppelde tijdsplanning van het vervolgtraject van sociale innovatie.      
-
-### Artikel  E6  
-
-####Specifieke subsidiabele kosten
-
-1. Met betrekking tot een project in het kader van Actie E, komen, onder de geldende voorwaarden, zoals vastgesteld in artikel 13 van de Subsidieregeling, voor subsidie in aanmerking kosten van het opstellen en in de praktijk uittesten van een op sociale innovatie betrekking hebbend ontwerp implementatieplan, zoals omschreven onder artikel E5, onderdeel i, enkel voor zover die kosten gemaakt zijn tijdens de projectperiode en betrekking hebben op: 
-
-a. directe loonkosten van de projectleider en de projectmedewerkers, of  
-
-b. directe kosten van het inhuren van deskundigen, bestaande uit het werkelijk aantal bestede uren vermenigvuldigd met het uurtarief van de desbetreffende deskundigen.    
-
-2. Geen subsidie wordt verleend voor een implementatieplan gericht op het stimuleren van kennisverspreiding, deregulering, loopbaanplanning, scholing van werkenden, instrumentontwikkeling, onderzoek of de totstandkoming van een arbocatalogus.    
+e. drie referenties van drie verschillende opdrachtgevers worden overgelegd met betrekking tot de kennis en ervaring op het terrein van sociale innovatie van de beoogde adviseur(s).    
 
 ### Artikel  E7  
 
-####Prioritering
+####Samenloop met andere subsidies
 
-1. Het door de minister ingestelde Comité van experts Actie E zal de aanvragen toetsen aan de hand van de hieronder beschreven kwalitatieve criteria. De mate waarin voldaan wordt aan deze criteria wordt beoordeeld door het Comité. Projecten die in hogere mate voldoen aan bedoelde criteria hebben voorrang op de projecten die in mindere mate aan deze criteria voldoen. Het Comité van experts rangschikt de aanvragen en brengt hierover binnen vier weken na het einde van het aanvraagtijdvak advies uit aan de minister. De criteria zijn: a. Mate van innovatie, b. Betrokkenheid van stakeholders, c.Verankering, d. Externe overdraagbaarheid en e. Haalbaarheid, f. de mate waarin aan een aanvrager al eerder subsidie is toegekend in het kader van de regeling ESF 2007–2013, Actie E, waarbij aanvragers aan wie niet eerder subsidie is toegekend voorrang hebben op aanvragers aan wie wel al eerder subsidie is toegekend in het kader van Actie E van deze regeling.  
+In aanvulling op hetgeen is bepaald in artikel 11 wordt in het kader van Actie E geen subsidie verleend: 
 
-2 Bij de rangschikking wordt meer gewicht toegekend aan de in het eerste lid genoemde criteria a. mate van innovatie en e. haalbaarheid.  
+a. aan aanvragers aan wie op grond van Actie E reeds subsidie is toegekend en van wie het verzoek tot vaststelling van de subsidie nog niet is ontvangen.  
 
-3. Bij gelijke waardering bepaalt het tijdstip van ontvangst de volgorde, waarbij de volledige subsidieaanvraag die op een eerder tijdstip door de minister is ontvangen een hogere rangorde heeft dan een volledige subsidieaanvraag die op een later tijdstip is ontvangen.    
+b. aan aanvragers aan wie op grond van enige andere subsidieregeling voor het project subsidie is of zal worden verstrekt.    
+
+### Artikel  E8  
+
+####Subsidiabele kosten
+
+In afwijking van artikel 13 komen enkel voor subsidie in aanmerking de kosten van de door de adviseur werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, gericht op een of meer thema’s uit artikel E4: 
+
+– het opstellen van een diagnose of advies, of  
+
+– het in de praktijk laten uittesten of implementeren van een plan van aanpak.    
+
+### Artikel  E9  
+
+####Hoogte subsidie
+
+1. Wanneer de aanvraag aan de eisen voldoet verleent de minister steeds een subsidie van maximaal € 18.000,–.  
+
+2. Voor de berekening van de subsidie wordt het uurtarief van de ingehuurde adviseur gemaximeerd op € 125,– exclusief BTW.  
+
+3. Voor aan de subsidieaanvrager in rekening gebrachte BTW wordt geen subsidie verleend.  
+
+4. De subsidie wordt op € 0,– vastgesteld wanneer de kosten van de adviseur, bedoeld in artikel E8, lager zijn dan € 13.000,–.    
+
+### Artikel  E10  
+
+####Voorschotten
+
+Er worden geen voorschotten verstrekt. Artikel 15 en artikel 20 zijn, voor zover zij zien op bevoorschotting, niet van toepassing op subsidieaanvragen in het kader van Actie E.  
+
+### Artikel  E11  
+
+####Einddeclaratie en subsidievaststelling
+
+1. In afwijking van artikel 18, eerste lid, dient de begunstigde binnen vier weken na beëindiging van het project een verzoek tot vaststelling in bij de minister. Bij het verzoek tot vaststelling van de subsidie wordt de door de adviseur opgestelde diagnose, het advies, het implementatieplan of een verslag gevoegd en de factuur of facturen van de adviseur(s) en de bijbehorende algemeen aanvaarde betalingsbewijzen.  
+
+2. De minister beslist, in afwijking van artikel 18, derde lid, binnen dertien weken na ontvangst van het verzoek tot vaststelling.    
 
 ### Actie Jeugd  
 
