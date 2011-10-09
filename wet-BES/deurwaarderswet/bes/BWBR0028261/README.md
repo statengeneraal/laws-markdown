@@ -117,7 +117,7 @@ De bepalingen van het voorgaande artikel laten onverlet de rechten en verplichti
 1.  Indien een deurwaarder zijn ambtsplichten verwaarloost, zich schuldig maakt aan enig handelen of nalaten in strijd met de zorg die hij behoort te betrachten jegens degenen te wier behoeve hij optreedt, of anderszins handelt in strijd met hetgeen hem in zijn ambt betaamt, kan hij door het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, nadat dit hem gehoord of daartoe behoorlijk opgeroepen heeft, ambtshalve of naar aanleiding van een klacht bij een met redenen omklede beslissing berispt worden dan wel aan hem een geldboete van ten hoogste USD 560 worden opgelegd.   
 2.  Hij kan ook deswege door het hof in zijn ambt geschorst worden, in afwachting der nadere beslissing van de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.   
 3.  Wanneer een deurwaarder is geschorst, moet daarvan ten spoedigste kennis gegeven worden aan Onze Minister van Justitie.   
-4.  Onverminderd de bepalingen van de voorgaande leden zijn die betreffende de disciplinaire straffen, vastgesteld in hoofdstuk VIII van de Wet materieel ambtenarenrecht BES, op de deurwaarders van toepassing.   
+4.  Onverminderd de bepalingen van de voorgaande leden zijn die betreffende de disciplinaire straffen, vastgesteld krachtens [artikel 82 van de Ambtenarenwet BES](../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), op de deurwaarders van toepassing.   
 
 ### Artikel  16  
 

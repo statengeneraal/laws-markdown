@@ -80,7 +80,7 @@ g. de loopbaan perspectieven.
 
 ### Artikel  10  
 
-Deze regeling berust op [artikel 15, zesde lid, onderdeel a, van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Deze regeling berust op [artikel 15, tweede lid, van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
 
 ### Artikel  11  
 
@@ -90,6 +90,6 @@ Deze regeling wordt aangehaald als: Regeling functioneringsgesprekken BES.
 
 ####bij artikel 4, eerste lid 
 
-![247629](http://wetten.overheid.nl/Illustration/247629)
+![247628](http://wetten.overheid.nl/Illustration/247628)
 ![247629](http://wetten.overheid.nl/Illustration/247629)
 

@@ -118,7 +118,7 @@ De ambtenaren, die op grond van wettelijke regelingen, welke vervallen bij de in
 
 ### Artikel  15a  
 
-Deze regeling berust op [artikel 31, onder a, van de Wet materieel ambtenarenrecht BES](../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Deze regeling berust op [artikel 31, onder a, van de Rechtspositiebesluit ambtenaren BES](../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
 
 ### Artikel  16  
 

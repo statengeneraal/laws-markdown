@@ -10,7 +10,7 @@
 
 ### Artikel  1  
 
-Ten behoeve van de administratieve ambtenaren, die werkzaam zijn bij de belastingdienst, kan bij ministeriële regeling in elk van de openbare lichamen een leergang worden ingesteld, opleidende tot het vakexamen voor benoembaarheid tot klerk en tot adjunct-commies als bedoeld in [artikel 13, tweede lid, van de Wet Materieel Ambtenarenrecht BES](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md). Bij die ministeriële regeling kan tevens de vergoeding van de leraren en de cursusleider worden geregeld.  
+Ten behoeve van de administratieve ambtenaren, die werkzaam zijn bij de belastingdienst, kan bij ministeriële regeling in elk van de openbare lichamen een leergang worden ingesteld, opleidende tot het vakexamen voor benoembaarheid tot klerk en tot adjunct-commies als bedoeld in [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md). Bij die ministeriële regeling kan tevens de vergoeding van de leraren en de cursusleider worden geregeld.  
 
 ### Artikel  2  
 
@@ -204,7 +204,7 @@ c. de normen voor de uitslag der examens.
 
 ### Artikel  24  
 
-Dit besluit berust op [artikel 13, tweede lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
 
 ### Artikel  25  
 

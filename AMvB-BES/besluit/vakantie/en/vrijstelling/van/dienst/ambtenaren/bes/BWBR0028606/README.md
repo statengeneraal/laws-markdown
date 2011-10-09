@@ -48,7 +48,7 @@ b. de kinderen tot wie de betrokken ambtenaar in familierechtelijke betrekking s
 
 c. de overige kinderen tot wie de betrokken ambtenaar in familie-rechtelijke betrekking staat, de overige stief- en pleegkinderen van de betrokken ambtenaar, voor zover de betrokken ambtenaar ten behoeve van deze kinderen kindertoelage geniet;    
 
-*inkomen:* de bezoldiging van de ambtenaar, vermeerderd met een eventuele kindertoelage, de bijzondere individuele vergoedingen en de verhogingen en persoonlijke toelagen met een periodiek karakter welke op grond van een organieke regeling van de bezoldiging en ingevolge de [artikelen 19](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [26 van de Wet materieel ambtenarenrecht BES](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) worden genoten, de continutoelage en vergoedingen van onkosten daaronder niet begrepen; voorts de compensatietoeslag krachtens de [Wet Algemene Ouderdomsverzekering BES](../../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en de [Wet Algemene Weduwen en Wezenverzekering BES](../../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), en de vergoeding voor overwerk, indien deze krachtens een wettelijke regeling in afwijking van artikel 27, derde lid, als een vaste vergoeding wordt genoten, alsmede de vaste vergoedingen voor dienst op zon- en feestdagen en voor onregelmatige dienst.   Voor het onderwijzend personeel bij het van overheidswege gegeven openbare onderwijs wordt mede als inkomen aangemerkt de aan dit personeel op grond van geldende wettelijke regelingen toegekende vaste toelagen. Voor de berekening van de vakantie-uitkering bedoeld in hoofdstuk IV wordt de compensatietoeslag hiervoor bedoeld niet als deel van het inkomen aangemerkt.  
+*inkomen:* de bezoldiging van de ambtenaar, vermeerderd met een eventuele kindertoelage, de bijzondere individuele vergoedingen en de verhogingen en persoonlijke toelagen met een periodiek karakter welke op grond van een organieke regeling van de bezoldiging en ingevolge de [artikelen 17](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [24 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) worden genoten, de continutoelage en vergoedingen van onkosten daaronder niet begrepen; voorts de compensatietoeslag krachtens de [Wet Algemene Ouderdomsverzekering BES](../../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en de [Wet Algemene Weduwen en Wezenverzekering BES](../../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), en de vergoeding voor overwerk, indien deze krachtens een wettelijke regeling in afwijking van artikel 27, derde lid, als een vaste vergoeding wordt genoten, alsmede de vaste vergoedingen voor dienst op zon- en feestdagen en voor onregelmatige dienst.   Voor het onderwijzend personeel bij het van overheidswege gegeven openbare onderwijs wordt mede als inkomen aangemerkt de aan dit personeel op grond van geldende wettelijke regelingen toegekende vaste toelagen. Voor de berekening van de vakantie-uitkering bedoeld in hoofdstuk IV wordt de compensatietoeslag hiervoor bedoeld niet als deel van het inkomen aangemerkt.  
 
 ### Hoofdstuk  II  
 
@@ -221,7 +221,7 @@ De ambtenaar heeft aanspraak op een vakantie-uitkering voor elke kalendermaand, 
 
 ### Artikel  22  
 
-De vakantie-uitkering bedraagt voor elke daarvoor in aanmerking komende kalendermaand zes ten honderd van het inkomen, voor de ambtenaar geldende op de eerste april van het jaar van uitbetaling, dan wel, bij indiensttreding in de loop van de maand april of de maand mei van dat jaar, op de datum van indiensttreding.  
+De vakantie-uitkering bedraagt voor elke daarvoor in aanmerking komende kalendermaand zeven ten honderd van het inkomen, voor de ambtenaar geldende op de eerste april van het jaar van uitbetaling, dan wel, bij indiensttreding in de loop van de maand april of de maand mei van dat jaar, op de datum van indiensttreding.  
 
 ### Artikel  23  
 
@@ -298,8 +298,7 @@ III.
 a. voor het bijwonen van vergaderingen of zittingen van of het verrichten van werkzaamheden voor publiekrechtelijke colleges of commissies, waarin de ambtenaar is benoemd of aangewezen, en voor zover zulks niet in vrije tijd kan geschieden;  
 
 b. voor het voldoen aan een wettelijke verplichting, een en ander voor zover dit niet in vrije tijd kan geschieden en omzetting van dienst niet mogelijk is.       
-2.  Aan de ambtenaar die tot lid van een van de eilandsraden van de openbare lichamen is verkozen, wordt op zijn verzoek door de bevoegde autoriteit steeds vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, verleend voor het bijwonen van vergaderingen van de eilandsraad, alsmede het maken van reizen in of buiten de openbare lichamen in zijn hoedanigheid van lid van de eilandsraad. Het bepaalde in dit artikellid is niet van toepassing op de ambtenaar die op non-actief is gesteld of tijdelijk is ontheven van de waarneming van zijn ambt of functie in verband met het toegelaten zijn tot lid van de eilandsraad van een openbaar lichaam.   
-3.  Tenzij de belangen van de dienst zich daartegen verzetten wordt jaarlijks op de daartoe strekkend mondeling of schriftelijk verzoek van de ambtenaar door de bevoegde autoriteit ten hoogste vijftien dagen vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, verleend voor het bijwonen van vergaderingen van statutaire organen van verenigingen van ambtenaren, van centrale organisaties waarbij deze verenigingen zijn aangesloten of van internationale ambtenarenorganisaties, mits de ambtenaar hieraan deelneemt: 
+2.  Tenzij de belangen van de dienst zich daartegen verzetten wordt jaarlijks op de daartoe strekkend mondeling of schriftelijk verzoek van de ambtenaar door de bevoegde autoriteit ten hoogste vijftien dagen vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, verleend voor het bijwonen van vergaderingen van statutaire organen van verenigingen van ambtenaren, van centrale organisaties waarbij deze verenigingen zijn aangesloten of van internationale ambtenarenorganisaties, mits de ambtenaar hieraan deelneemt: 
 
 a. voor zover betreft vergaderingen van verenigingen van ambtenaren als bestuurslid van die vereniging dan wel als afgevaardigde of bestuurslid van een onderdeel daarvan;  
 
@@ -309,8 +308,8 @@ c. voor zover betreft vergaderingen van een internationale ambtenarenorganisatie
 
 ### Artikel  27  
 
-1.  De dagen gedurende welke de ambtenaar op grond van [artikel 48 van de Wet materieel ambtenarenrecht BES](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) de toegang tot de dienstlokalen, dienstgebouwen of het werk, dan wel het verblijf aldaar, is ontzegd, anders dan wegens hinderlijke gedragingen of het gebruik van alcoholhoudende drank, worden als vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, aangemerkt.   
-2.  De dagen gedurende welke het de ambtenaar op grond van [artikel 51 van de Wet materieel ambtenarenrecht BES](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) wegens besmettelijke ziekte van een persoon als in dat artikel bedoeld, verboden is aan de dienst deel te nemen, worden als vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, aangemerkt.   
+1.  De dagen gedurende welke de ambtenaar op grond van [artikel 43 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) BES de toegang tot de dienstlokalen, dienstgebouwen of het werk, dan wel het verblijf aldaar, is ontzegd, anders dan wegens hinderlijke gedragingen of het gebruik van alcoholhoudende drank, worden als vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, aangemerkt.   
+2.  De dagen gedurende welke het de ambtenaar op grond van [artikel 46 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) BES wegens besmettelijke ziekte van een persoon als in dat artikel bedoeld, verboden is aan de dienst deel te nemen, worden als vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, aangemerkt.   
 
 ### Artikel  28  
 
@@ -460,7 +459,7 @@ Dit besluit wordt aangehaald als: Besluit vakantie en vrijstelling van dienst am
 
 ### Artikel  39  
 
-Dit besluit berust op [artikel 43 van de Wet materieel ambtenarenrecht BES](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op [artikel 43 van de Ambtenarenwet BES](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [artikel 21, tweede lid, onder a, van de Veiligheidswet BES](../../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md).  
 
 ### Artikel  40  
 

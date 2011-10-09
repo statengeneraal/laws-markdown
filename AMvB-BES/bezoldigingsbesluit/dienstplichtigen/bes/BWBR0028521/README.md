@@ -151,7 +151,7 @@ c. overige noodzakelijk te maken kosten ten behoeve van representatieve doeleind
 ### Artikel  19  
 
 1.  Aan de dienstplichtige, die voor herhalingsoefening in werkelijke dienst is, wordt op zijn verzoek door Onze Minister ter vergoeding van gederfde inkomsten een toelage herhalingsoefening toegekend, waarvan het bedrag gelijk is aan het verschil tussen de inkomsten, die hij zeker zou hebben genoten als zelfstandig ondernemer dan wel uit een dienstbetrekking, indien hij niet in werkelijke dienst zou zijn, en de bezoldiging, waarop hij ingevolge artikel 3, eerste lid van dit besluit aanspraak heeft, mits het bedrag van de bedoelde inkomsten groter is dan dat van de bezoldiging.   
-2.  Het eerste lid is niet van toepassing op de dienstplichtige, op wie de [Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van toepassing is.   
+2.  Het eerste lid is niet van toepassing op de dienstplichtige, op wie de [Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van toepassing is.   
 3.  De dienstplichtige, aan wie een toelage herhalingsoefening is toegekend, komt niet in aanmerking voor toekenning van een kostwinnerstoelage als bedoeld in Hoofdstuk 4.   
 4.  De toelage herhalingsoefening wordt aan de dienstplichtige uitbetaald tegelijk met zijn bezoldiging.   
 

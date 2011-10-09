@@ -22,11 +22,9 @@ b. het bestuurscollege, indien de overheidsdienaar, belanghebbende of wachtgelde
 
 *overheidsdienaren:*  
 
-a. ambtenaren in de zin van de [Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), die in vaste dienst of gedurende ten minste vijf jaren onafgebroken in tijdelijke dienst werkzaam zijn geweest. Voor de berekening van de in de vorige volzin bedoelde termijn van vijf jaren wordt de tijd vóór de inwerkingtreding van dit besluit, waarin de ambtenaar in dienst was van de Nederlandse Antillen of van het eilandgebied Bonaire, Sint Eustatius of Saba, meegeteld.  
+a. ambtenaren in de zin van de [Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), die in vaste dienst of gedurende ten minste vijf jaren onafgebroken in tijdelijke dienst werkzaam zijn geweest. Voor de berekening van de in de vorige volzin bedoelde termijn van vijf jaren wordt de tijd vóór de inwerkingtreding van dit besluit, waarin de ambtenaar in dienst was van de Nederlandse Antillen of van het eilandgebied Bonaire, Sint Eustatius of Saba, meegeteld.  
 
-b. werklieden in de zin van de [Werkliedenwet BES](../../../../../wet-BES/werkliedenwet/1944/bes/BWBR0028467/README.md);  
-
-c. werknemers met wie een arbeidsovereenkomst naar burgerlijk recht is gesloten om in dienst van het openbaar lichaam Bonaire, Sint Eustatius of Saba werkzaam te zijn, indien deze overeenkomst is aangegaan voor onbepaalde tijd.    
+b. werknemers met wie een arbeidsovereenkomst naar burgerlijk recht is gesloten om in dienst van het openbaar lichaam Bonaire, Sint Eustatius of Saba werkzaam te zijn, indien deze overeenkomst is aangegaan voor onbepaalde tijd.    
 
 *belanghebbende:*  de overheidsdienaar, bedoeld in artikel 4.  
 
@@ -42,7 +40,7 @@ a. indien aan de belanghebbende reeds eerder een wachtgeld is toegekend, de dien
 
 b. de tijd, gedurende welke de belanghebbende met gehele of gedeeltelijke inhouding van inkomen geschorst is of anders dan ter vervulling van een openbare functie of wegens een studieopdracht op non-activiteit is gesteld, voor berekening van de diensttijd niet in aanmerking wordt genomen.    
 
-*Inkomen:*  De bezoldiging of het loon van de overheidsdienaar, verhoogd met de hem toekomende persoonlijke toelage, kostwinnerstoelage, toelage op grond van [artikel 25 van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en, voor zover het bevoegd gezag aldus bepaalt, [artikel 4, vierde lid, van de Werkliedenwet 1944 BES](../../../../../wet-BES/werkliedenwet/1944/bes/BWBR0028467/README.md), de voor het onderwijzend personeel geldende, wettelijk vastgestelde vaste toelagen, en de compensatietoeslag krachtens de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md); in bijzondere gevallen, ter beoordeling van het bevoegd gezag, wordt een standplaatstoelage voor berekening van het inkomen mede in aanmerking genomen.  
+*Inkomen:*  De bezoldiging of het loon van de overheidsdienaar, verhoogd met de hem toekomende persoonlijke toelage, kostwinnerstoelage, toelage op grond van [artikel 23 van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), de voor het onderwijzend personeel geldende, wettelijk vastgestelde vaste toelagen, en de compensatietoeslag krachtens de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md); in bijzondere gevallen, ter beoordeling van het bevoegd gezag, wordt een standplaatstoelage voor berekening van het inkomen mede in aanmerking genomen.  
 
 *Laatstelijk genoten inkomen:*  Het inkomen vermeerderd met de vakantie-uitkering, waarop de overheidsdienaar ingevolge de voor hem toepasselijke wettelijke bepalingen gedurende de periode van een jaar onmiddellijk voorafgaande aan de dag waarop het hem verleende ontslag ingaat aanspraak heeft gehad, gedeeld door twaalf; indien de overheidsdienaar gedurende de bedoelde periode gehele of gedeeltelijke inhouding van bezoldiging of loon wegens schorsing of een vermindering daarvan in verband met vrijstelling van dienst wegens ziekte heeft ondergaan, wordt het inkomen in aanmerking genomen dat hij zou hebben genoten, indien de inhouding of vermindering niet was geschied.  
 
@@ -50,7 +48,7 @@ b. de tijd, gedurende welke de belanghebbende met gehele of gedeeltelijke inhoud
 
 1°. het pensioen in de zin van de [Pensioenwet ambtenaren BES](../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md);  
 
-2°. het pensioen in de zin van [hoofdstuk II van de Werkliedenwet 1944 BES](../../../../../wet-BES/werkliedenwet/1944/bes/BWBR0028467/README.md);  
+2°.  vervallen;   
 
 3°. elke ander vorm van pensioen, bedoeld voor de voorziening in de oude dag en de verzorging van weduwen, weduwnaars en wezen van overheidsdienaren en ten laste komend van de geldmiddelen van de Staat, gevestigd openbaar lichaam of van van enig door de overheid ingesteld fonds, met uitzondering van de fondsen, bedoeld in de Landsverordening Sociale Verzekeringsbank (P.B. 1960, 154); In alle gevallen met inbegrip van de daarop bij enige wettelijke bepaling verleende ander toeslagen en bijslagen.  
 
@@ -66,11 +64,9 @@ b. de tijd, gedurende welke de belanghebbende met gehele of gedeeltelijke inhoud
 
 Aan de overheidsdienaar wordt met ingang van de dag waarop het hem verleende ontslag ingaat op zijn daartoe strekkend verzoek door het bevoegd gezag een wachtgeld toegekend, indien het ontslag hem eervol, doch niet op eigen verzoek is verleend met toepassing van het bepaalde bij: 
 
-– hetzij [artikel 94 van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md)  
+– hetzij [artikel 91 van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md)  
 
-– hetzij [artikel 47, aanhef en letter d, van de Werkliedenwet 1944 BES](../../../../../wet-BES/werkliedenwet/1944/bes/BWBR0028467/README.md);  
-
-– hetzij [artikel 98, eerste lid, aanhef letter f, van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) met betrekking tot het ontslag op grond van ongeschiktheid voor het ambt, anders dan op grond van ziels- of lichaamsgebreken, indien het de secretaris van het openbaar lichaam Bonaire, Sint Eustatius of Saba betreft; dan wel, voor zover geen van de bovengenoemde bepalingen op hem van toepassing is, indien zulk ontslag hem verleend is om een reden welke met een van de in [artikel 94, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) zoals gewijzigd genoemde redenen van ontslag overeenkomt.    
+– hetzij [artikel 92, aanhef en onderdeel f, van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) met betrekking tot het ontslag op grond van ongeschiktheid voor het ambt, anders dan op grond van ziels- of lichaamsgebreken, indien het de secretaris van het openbaar lichaam Bonaire, Sint Eustatius of Saba betreft; dan wel, voor zover geen van de bovengenoemde bepalingen op hem van toepassing is, indien zulk ontslag hem verleend is om een reden welke met een van de in [artikel 91, eerste lid, van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) zoals gewijzigd genoemde redenen van ontslag overeenkomt.    
 
 ### Artikel  5  
 
@@ -224,7 +220,7 @@ b. de wachtgelder opzettelijk onjuiste gegevens als bedoeld in de artikelen 8, 1
 
 ### Artikel  28  
 
-Ingeval ten tijde dat het ontslag uit de dienst ingaat door de belanghebbende een uitkering als bedoeld in [artikel 45A van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) of [artikel 41 van Besluit vakantie en vrijstelling van dienst werknemers BES](../../../../../AMvB-BES/besluit/vakantie/en/vrijstelling/van/dienst/werknemers/bes/BWBR0028604/README.md) wordt genoten, wordt het wachtgeld toegekend en vangt de wachtgeld-periode aan met ingang van de dag volgend op die waarop de uitkering eindigt.  
+Ingeval ten tijde dat het ontslag uit de dienst ingaat door de belanghebbende een uitkering als bedoeld in [artikel 39 van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) wordt genoten, wordt het wachtgeld toegekend en vangt de wachtgeld-periode aan met ingang van de dag volgend op die waarop de uitkering eindigt.  
 
 ### Artikel  29  
 
@@ -263,14 +259,6 @@ De aanspraak op wachtgeld vervalt, wanneer niet binnen twee jaren na de dag waar
 2.  Voor het vaststellen van het bedrag van de kindertoelage wordt uitgegaan van het loon of de bezoldiging welke voor de belanghebbende onmiddellijk voorafgaand aan de dag van zijn ontslag uit de dienst daarvoor in aanmerking is genomen of zou zijn genomen, indien hij te dien tijde in de omstandigheden had verkeerd waarop hij als wachtgelder zijn aanspraak op een kindertoelage grondt.   
 3.  De belanghebbende die elders een kindertoelage, onder welke benaming ook, ontvangt of kan ontvangen, is verplicht daarvan het bevoegd gezag in kennis te stellen, onder opgave, voor zoveel mogelijk, van het bedrag van de toelage.   
 
-### Artikel  34  
-
-1.  Op de wachtgelder is uit de [Wet vergoeding behandelings- en verplegingskosten ambtenaren BES](../../../../../wet-BES/wet/vergoeding/behandelings-/en/verplegingskosten/bes/BWBR0028289/README.md) van overeenkomstige toepassing, voor wat betreft de bepaling van het bevoegde gezag met toepassing van artikel 2 van dit besluit en overigens met inachtneming van het bepaalde in de volgende leden.   
-2.  Aan de wachtgelder komen een persoonlijk recht op vrije geneeskundige behandeling en verpleging dan wel op volledige vergoeding daarvan, en de vrijstelling van de verplichting tot premiebetaling slechts dan toe, indien hij daarop onmiddellijk voorafgaand aan de dag van het hem verleende ontslag eveneens recht heeft gehad.   
-3.  Voor de berekening van de door de wachtgelder verschuldigde premie wordt als loon aangemerkt het gedeelte van het wachtgeld dat het voor de betrokkene geldende percentage uitmaakt van de loon- of bezoldigingscomponent in het laatstelijk genoten inkomen, dan wel, indien de voor hem geldende werktijd waarvoor hij loon of bezoldiging ontving korter was dan de voor de betreffende functie geldende gebruikelijke volledige werktijd, van de loon- of bezoldigingscomponent die voor hem zou hebben bestaan, indien hij voor volledige werktijd in dienst zou zijn geweest.   
-4.  Indien voor de wachtgelder, die ingevolge de op hem toepasselijke bepalingen recht heeft op een vergoeding van 90% van de kosten van geneeskundige behandeling en verpleging, het in het voorgaande lid bedoelde gedeelte van het wachtgeld daalt beneden het aanvangsbedrag van schaal 6 van het [Bezoldigingsbesluit 1998 BES](../../../../../AMvB-BES/bezoldigingsbesluit/1998/bes/BWBR0028491/README.md) wordt het percentage van de door hem verschuldigde premie gesteld op 1.   
-5.  Indien de wachtgelder uit anderen hoofde aanspraak maakt of kan maken op gehele of gedeeltelijke vergoeding van kosten als in dit artikel bedoeld, wordt die vergoeding in mindering gebracht op de uit de bepalingen van dit artikel voortvloeiende vergoeding.   
-
 ### Artikel  35  
 
 1.  Zo spoedig mogelijk na het overlijden van de wachtgelder of van de belanghebbende aan wie een wachtgeld zou zijn toegekend indien hij in het leven was gebleven, wordt door het bevoegd gezag aan de weduwe of weduwnaar een geldsbedrag uitgekeerd gelijk aan driemaal het wachtgeld waarop betrokkene op het tijdstip van zijn overlijden aanspraak had, vermeerderd met de hem te dien tijde toekomende kindertoelage.   
@@ -279,7 +267,7 @@ De aanspraak op wachtgeld vervalt, wanneer niet binnen twee jaren na de dag waar
 
 ### Artikel  36  
 
-Op het wachtgeld zijn de bepalingen van [hoofstuk XI van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) ook dan van toepassing, wanneer de wachtgelder geen ambtenaar in de zin van die wet is geweest.  
+Op het wachtgeld zijn de bepalingen van [hoofdstuk III van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) ook dan van toepassing, wanneer de wachtgelder geen ambtenaar in de zin van [die wet](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is geweest.  
 
 ### Artikel  37  
 
@@ -327,7 +315,7 @@ b. opzettelijk handelt of nalaat in strijd met de bij of krachtens dit artikel a
 
 ### Artikel  41b  
 
-Dit besluit berust op [artikel 99, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op [artikel 99 van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
 
 ### Artikel  42  
 

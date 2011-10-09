@@ -62,13 +62,13 @@ In deze wet wordt verstaan onder werknemers:
 
 a. de door de Koning benoemde ambtenaren, werkzaam in openbare dienst van de staat op Bonaire, Sint Eustatius of Saba;  
 
-b. de ambtenaren in de zin van de [Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md);  
+b. de ambtenaren in de zin van de [Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md);  
 
-c. de werknemers, op grond van een arbeidsovereenkomst in dienst van de staat en werkzaam op Bonaire, Sint Eustatius of Saba of van het openbaar lichaam Bonaire, Sint Eustatius of Saba, voor zover zij niet werklieden zijn in de zin van de [Werkliedenwet 1944 BES](../../../../../wet-BES/werkliedenwet/1944/bes/BWBR0028467/README.md);  
+c. de werknemers, op grond van een arbeidsovereenkomst in dienst van de staat en werkzaam op Bonaire, Sint Eustatius of Saba of van het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
 d. de door Onze Minister wie het aangaat of door een bestuurscollege benoemde personen die niet tot de in de onderdelen b en c bedoelde categorieën van werknemers behoren, maar op wie de voor zulke werknemers vastgestelde regelingen geheel of gedeeltelijk van toepassing zijn verklaard;  
 
-e. de leden van het personeel van bijzondere scholen waarop de [Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van overeenkomstige toepassing is verklaard.  
+e. de leden van het personeel van bijzondere scholen waarop de [Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van overeenkomstige toepassing is verklaard.  
 
 f. de directie en het overige personeel van het fonds;  
 
@@ -517,7 +517,7 @@ a. de dag, volgende op die waarop de belanghebbende de leeftijd van 60 jaar heef
 b. de maand, volgende op die waarop de belanghebbende overleden is.     
 3.  Met de uitkering worden verrekend de inkomsten uit of in verband met arbeid, die direct of indirect ten laste komen van de Staat, het openbaar lichaam Bonaire, Sint Eustatius of Saba of een ander publiekrechtelijk lichaam in Nederland. De verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmee de uitkering, vermeerderd met bedoelde inkomsten, de middelsom overschrijdt.   
 4.  Het derde lid is niet van toepassing op een belanghebbende aan wie ingevolge artikel XIII, tweede lid, van de Landsverordening verhoging leeftijdsgrens 1996 voor het tijdstip van transitie ontheffing is verleend van artikel XIII, eerste lid, van die landsverordening.   
-5.  Hoofdstuk XI van de Wet materieel ambtenarenrecht BES is op de uitkering van overeenkomstige toepassing.   
+5.  [Hoofdstuk III van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is op de uitkering van overeenkomstige toepassing.   
 6.  Bij de toepassing van bepalingen inzake de samenloop van een pensioen op grond van deze wet met pensioen op grond van een andere regeling of met een uitkering bij wijze van pensioen, wordt de uitkering gelijkgesteld met een pensioen op grond van de pensioenovereenkomst als bedoeld in artikel 11e.   
 7.  De uitkering wordt in gelijke maandelijkse termijnen uitbetaald.   
 8.  De invorderbare termijnen van een uitkering die gedurende twee achtereenvolgende jaren niet zijn geïnd, worden niet meer uitbetaald.   
@@ -525,7 +525,6 @@ b. de maand, volgende op die waarop de belanghebbende overleden is.
 10.  Indien de belanghebbende last geeft de uitkering voor hem te ontvangen, kan hij die lastgeving te allen tijde herroepen.   
 11.  Alle overeenkomsten of beschikkingen, strijdig met het elfde lid zijn nietig.   
 12.  De uitkering komt ten laste van de staat, indien de belanghebbende totdat hem ontslag werd verleend in dienst was van het Land Nederlandse Antillen, en ten laste van het openbaar lichaam Bonaire, Sint Eustatius of Saba, indien de belanghebbende totdat hem ontslag werd verleend in dienst was van het eilandgebied Bonaire, Sint Eustatius, onderscheidenlijk Saba.   
-13.  In afwijking van artikel 12 van de Wet tegemoetkoming ziektekosten overheidsgepensioneerden BES komen de op grond van die wet ten behoeve van een belanghebbende betaalde tegemoetkomingen in de ziektekosten ten laste van de staat, indien de belanghebbende totdat hem ontslag werd verleend in dienst was van het Land Nederlandse Antillen, en ten laste van het openbaar lichaam Bonaire, Sint Eustatius of Saba, indien de belanghebbende totdat hem ontslag werd verleend in dienst was van het eilandgebied Bonaire, Sint Eustatius, onderscheidenlijk Saba.   
 
 ### Artikel  112g  
 
@@ -565,7 +564,6 @@ c. 30 of meer jaren: 70% van de middelsom.
 10.  De uitkering wordt slechts verleend op een daartoe strekkend, door of vanwege de belanghebbende schriftelijk ingediend verzoek bij Onze Minister van Binnenlandse Zaken, voor wat betreft de werknemers in dienst van de staat en bij het bestuurscollege voor wat betreft de werknemers in dienst van het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
 11.  Het recht op de uitkering is onvervreemdbaar.   
 12.  De belanghebbende kan op generlei wijze over zijn uitkering beschikken, ook niet door verpanding of belening.   
-13.  In afwijking van artikel 12 van de Wet tegemoetkoming ziektekosten overheidsgepensioneerden BES komen de op grond van die wet ten behoeve van een belanghebbende betaalde tegemoetkomingen in de ziektekosten ten laste van de rechtspersoon waarbij de belanghebbende in dienst was totdat hem ontslag werd verleend.   
 
 ### Artikel  112h  
 

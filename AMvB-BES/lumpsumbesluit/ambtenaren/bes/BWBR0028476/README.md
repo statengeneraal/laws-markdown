@@ -103,7 +103,7 @@ Degene aan wie ingevolge dit besluit op zijn verzoek ontslag verleend is, heeft 
 
 ### Artikel  18  
 
-1.  Op de overheidsdienaar, die, hoewel hij behoort tot een categorie als bedoeld in artikel 7 of die door een weigering als bedoeld in artikel 14 getroffen is, niettemin ontslag aanvraagt is dit besluit niet van toepassing. Zijn ontslagaanvraag wordt door het bevoegde gezag behandeld in overeenstemming met de bepalingen van [artikel 91 van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) of daarmede vergelijkbare, op de betrokkene toepasselijke rechtspositionele bepalingen.   
+1.  Op de overheidsdienaar, die, hoewel hij behoort tot een categorie als bedoeld in artikel 7 of die door een weigering als bedoeld in artikel 14 getroffen is, niettemin ontslag aanvraagt is dit besluit niet van toepassing. Zijn ontslagaanvraag wordt door het bevoegde gezag behandeld in overeenstemming met de bepalingen van [artikel 88 van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) of daarmede vergelijkbare, op de betrokkene toepasselijke rechtspositionele bepalingen.   
 2.  Aan de overheidsdienaar, die behoort tot een categorie als bedoeld in artikel 7 of die door een weigering als bedoeld in artikel 14 getroffen is wordt in verband met dezelfde reorganisatie geen ontslag als bedoeld in [artikel 4 van de Wachtgeldbesluit ambtenaren BES](../../../../../AMvB-BES/wachtgeldbesluit/overheidsdienaren/bes/BWBR0028541/README.md) verleend.   
 
 ### Artikel  19  
@@ -211,19 +211,10 @@ In een eilandsverordening als bedoeld in het tweede lid van het voorgaande artik
 
 ####Verschillende bepalingen
 
-### Artikel  35  
-
-1.  [Wet vergoeding behandelings- en verplegingskosten overheidsdienarenambtenaren BES](../../../../../wet-BES/wet/vergoeding/behandelings-/en/verplegingskosten/bes/BWBR0028289/README.md) blijft gedurende zes kalendermaanden na de dag waarop het ontslag is ingegaan, van toepassing op de overheidsdienaar aan wie ingevolge dit besluit ontslag is verleend.   
-2.  De premie die de in het eerste lid bedoelde overheidsdienaar over deze zes maanden verschuldigd zou zijn geweest, ware hij in dienst gebleven, wordt in haar geheel op de aan hem toegekende lumpsum in mindering gebracht.   
-
 ### Artikel  36  
 
 1.  Indien het ingevolge dit besluit verleende ontslag ingaat op een zodanig tijdstip dat, ware aan de betrokkene met ingang van dit tijdstip ontslag als bedoeld in [artikel 4 van het Wachtgeldbesluit ambtenaren BES](../../../../../AMvB-BES/wachtgeldbesluit/overheidsdienaren/bes/BWBR0028541/README.md) verleend, hij aan het einde van de wachtgeld-periode uitzicht op een later ingaand pensioen zou hebben verworven, kan hij een zelfde uitzicht verwerven door betaling ineens van de gekapitaliseerde waarde van de bijdrage voor het eigen pensioen welke door hem zelf gedurende de wachtgeld-periode verschuldigd zou zijn geweest tot aan het tijdstip waarop hij het eerder bedoelde uitzicht alsdan zou hebben verworven, berekend tegen een rentevoet van 9% ’s jaars. Het door hem verschuldigde bedrag wordt op de lumpsum in mindering gebracht.   
 2.  Indien de rentevoet, bedoeld in artikel 22, eerste lid, met toepassing van artikel 23 wordt gewijzigd, wordt de in het voorgaande lid genoemde rentevoet dienovereenkomstig gewijzigd.   
-
-### Artikel  37  
-
-De werkman die op de wijze, bepaald in het voorgaande artikel, uitzicht op pensioen heeft verworven, komt op het tijdstip waarop het hem verleende ontslag ingaat in aanmerking voor het vrijwillig deelgenootschap ter zake van weduwen- en wezenpensioen, bedoeld in [artikel 28 van de Werkliedenwet 1944 BES](../../../../../wet-BES/werkliedenwet/1944/bes/BWBR0028467/README.md).  
 
 ### Artikel  38  
 
@@ -272,7 +263,7 @@ Indien de overheidsdienaar of gewezen overheidsdienaar opzettelijk onjuiste gege
 
 ### Artikel  48a  
 
-Dit besluit berust op [artikel 99, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op [artikel 100 van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
 
 ### 7  
 

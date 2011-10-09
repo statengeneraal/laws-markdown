@@ -599,7 +599,7 @@ Op de dienstplichtige in werkelijke dienst zijn, gedurende de tijd dat hij werke
 
 ### Artikel  69  
 
-Op de dienstplichtige en de gewezen dienstplichtige zijn de bepalingen betreffende de inhouding, het beslag en de korting, opgenomen in de [Wet materieel ambtenarenrecht BES](../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van overeenkomstige toepassing.  
+Op de dienstplichtige en de gewezen dienstplichtige zijn de bepalingen betreffende de inhouding, het beslag en de korting, opgenomen in de [Ambtenarenwet BES](../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van overeenkomstige toepassing.  
 
 ### Hoofdstuk  9  
 
@@ -617,12 +617,6 @@ De vrijwillig nadienende dienstplichtige wordt voor zover betreft de regeling va
 
 1.  Op de dienstplichtige in werkelijke dienst, alsmede op de niet in werkelijke dienst verblijvende dienstplichtige en de gewezen dienstplichtige, die lijden aan een ziekte of een gebrek verband houdende met de uitoefening van de dienst, zijn de regelen betreffende aanspraken en verplichtingen in verband met de gezondheidszorg gegeven bij of krachtens hoofdstuk 7 van het Reglement rechtstoestand dienstplichtigen van overeenkomstige toepassing, echter met uitzondering van het bepaalde bij of krachtens artikel 66.   
 2.  De in het eerste lid bedoelde regelen zijn ook van toepassing, wanneer de dienstplichtige in werkelijke dienst zich anders dan om redenen van dienst buiten Aruba, Curaçao of Sint Maarten of buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt.   
-
-### Artikel  72  
-
-1.  Aan de dienstplichtige in werkelijke dienst, die voor zijn gezin ter zake van geneeskundige behandeling en/of verpleging in onvermijdelijke uitgaven is vervallen, wordt een tegemoetkoming in die uitgaven verleend overeenkomstig de [Wet vergoeding behandelings- en verplegingskosten ambtenaren BES](../../../../wet-BES/wet/vergoeding/behandelings-/en/verplegingskosten/bes/BWBR0028289/README.md).   
-2.  Voor de vaststelling van de tegemoetkoming in de uitgaven van behandeling en/of verpleging in een ziekeninrichting wordt als maatstaf de klasse aangehouden, die voor de dienstplichtige zelf geldt.   
-3.  Verzoeken om verlening van een tegemoetkoming worden bij Onze Minister ingediend.   
 
 ### Hoofdstuk  11  
 
@@ -728,7 +722,7 @@ Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als 
 
 ### Artikel  86  
 
-1.  Onverminderd het tweede lid, zijn op de gewezen dienstplichtige, wiens dienstverband is geëindigd tijdens arbeidsongeschiktheid uit hoofde van een ziekte of gebrek, de bepalingen van [artikel 45A van de Wet materieel ambtenarenrecht BES](../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van overeenkomstige toepassing, met dien verstande dat hij in zoverre als gewezen ambtenaar in de zin van die wet wordt aangemerkt.   
+1.  Onverminderd het tweede lid, zijn op de gewezen dienstplichtige, wiens dienstverband is geëindigd tijdens arbeidsongeschiktheid uit hoofde van een ziekte of gebrek, de bepalingen van [artikel 39 van het Rechtspositiebesluit ambtenaren BES](../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) van overeenkomstige toepassing, met dien verstande dat hij in zoverre als gewezen ambtenaar in de zin van die wet wordt aangemerkt.   
 2.  De arbeidsongeschiktheid dient te blijken uit een verklaring van de geneeskundige commissie dan wel de geneeskundige of geneeskundigen, bedoeld in artikel 85a, overeenkomstig de in dat artikel gemaakte onderscheidingen.   
 3.  Het tweede lid van artikel 85 is van overeenkomstige toepassing.   
 
@@ -1042,10 +1036,6 @@ Indien de belanghebbende tijdens de duur van de uitkering overlijdt eindigt de u
 
 1.  De belanghebbende heeft gedurende de tijd waarover hem een overbruggingsuitkering betaalbaar wordt gesteld, aanspraak op kindertoelage en vakantieuitkering op de voet van de regelingen, welke voor hem zouden gelden indien hij nog in werkelijke dienst zou zijn.   
 2.  Voor de berekening van de grootte van de kindertoelage en de vakantieuitkering geldt de laatstgenoten bezoldiging als genoemd in artikel 120.   
-
-### Artikel  125  
-
-De belanghebbende heeft gedurende de tijd, waarover hem een overbruggingsuitkering betaalbaar wordt gesteld, aanspraak op een tegemoetkoming in de onvermijdelijke uitgaven terzake van geneeskundige behandeling en/of verpleging van hemzelf en zijn daarvoor in aanmerking komende gezinsleden overeenkomstig de Regeling tegemoetkoming ziektekosten overheidsgepensioneerden* (P.B. 1975, no. 249).  
 
 ### Artikel  126  
 

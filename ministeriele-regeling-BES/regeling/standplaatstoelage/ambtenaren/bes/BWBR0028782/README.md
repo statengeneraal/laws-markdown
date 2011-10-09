@@ -10,7 +10,7 @@
 
 ### Artikel  2  
 
-Deze regeling berust op de [artikelen 30](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [31 van de Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Deze regeling berust op de [artikelen 28](../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [29, onder a, van het Rechtspositiebesluit ambtenaren BES](../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
 
 ### Artikel  3  
 

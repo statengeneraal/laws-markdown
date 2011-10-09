@@ -37,7 +37,7 @@ f. *datum van overgang:* de datum waarop het personeelslid eervol uit de,overhei
 ### Artikel  3  
 
 1.  Een personeelslid heeft het recht om bij de rechtspersoon op basis van een arbeidsovereenkomst naar burgerlijk recht als werknemer in dienst te treden. De datum van indiensttreding ligt niet voor hei moment van de verzelfstandiging van de rechtspersoon.   
-2.  De arbeidsovereenkomst, bedoeld in het eerste lid, geldt voor onbepaalde tijd, indien het personeelslid was aangesteld als ambtenaar in vaste dienst in de zin van de Wet materieel ambtenarenrecht BES of als werkman in de zin van de Werkliedenwet 1944 BES of werkzaam was op basis van een arbeidsovereenkomst voor onbepaalde tijd.   
+2.  De arbeidsovereenkomst, bedoeld in het eerste lid, geldt voor onbepaalde tijd, indien het personeelslid was aangesteld als ambtenaar in vaste dienst in de zin van de [Ambtenarenwet BES](../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) of werkzaam was op basis van een arbeidsovereenkomst voor onbepaalde tijd.   
 3.  De arbeidsovereenkomst, bedoeld in het eerste lid, geldt voor de periode, dat de tijdelijke dienst of arbeidsovereenkomst voor bepaalde tijd zou hebben voortgeduurd, indien het personeelslid was aangesteld in tijdelijke dienst of werkzaam was op basis van een arbeidsovereenkomst voor bepaalde tijd.   
 4.  De arbeidsovereenkomst, bedoeld in het eerste lid, betreft een functie die overeenkomt of zoveel mogelijk overeenkomt met de functie van het personeelslid bij de overheidsdienst.   
 5.  Een personeelslid ontvangt een schriftelijk aanbod van de rechtspersoon of, indien de rechtspersoon nog niet is opgericht, van het bevoegde gezag namens de op te richten rechtspersoon om een arbeidsovereenkomst met de rechtspersoon aan te gaan. De rechtspersoon is van rechtswege gebonden aan de arbeidsovereenkomst die op basis van het aanbod tot stand is gekomen. Het aanbod bevat tenminste de volgende informatie: 
@@ -53,7 +53,7 @@ d. het aantal dienstjaren;
 e. de pensioengrondslag;  
 
 f. de vermelding van de op zijn functie van toepassing zijnde regelingen.     
-6.  Indien indiensttreding bij de rechtspersoon tevens inhoudt, dat de werknemer naar een ander openbaar lichaam dan waar hij woonachtig is dient te verhuizen, zijn de artikelen 72 en 74 van de Wet materieel ambtenarenrecht BES van overeenkomstige toepassing.   
+6.  Indien indiensttreding bij de rechtspersoon tevens inhoudt, dat de werknemer naar een ander openbaar lichaam dan waar hij woonachtig is dient te verhuizen, zijn [artikelen 66](../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [69 van het Rechtspositiebesluit BES](../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  4  
 
@@ -121,7 +121,7 @@ Het personeelslid, bedoeld in artikel 10, eerste lid, aanvaardt binnen twee weke
 
 ### Artikel  15  
 
-Indien plaatsing van het personeelslid, bedoeld in artikel 10, eerste lid, binnen drie maanden na afloop van de termijn, bedoeld in artikel 10, eerste lid, niet mogelijk is gebleken, wordt hem eervol ontslag verleend wegens het vervallen van zijn functie, tenzij toepassing is gegeven aan artikel 10, tweede lid. Gedurende drie maanden na het ontslag spant het bevoegde gezag zich in binnen zijn organisatie voor hem een gelijkwaardige functie te vinden. Het bevoegde gezag houdt hierbij rekening met artikel 20. Artikel 99 van de Wet materieel ambtenarenrecht BES is van toepassing.  
+Indien plaatsing van het personeelslid, bedoeld in artikel 10, eerste lid, binnen drie maanden na afloop van de termijn, bedoeld in artikel 10, eerste lid, niet mogelijk is gebleken, wordt hem eervol ontslag verleend wegens het vervallen van zijn functie, tenzij toepassing is gegeven aan artikel 10, tweede lid. Gedurende drie maanden na het ontslag spant het bevoegde gezag zich in binnen zijn organisatie voor hem een gelijkwaardige functie te vinden. Het bevoegde gezag houdt hierbij rekening met artikel 20. [Artikel 99 van de Ambtenarenwet BES](../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is van toepassing.  
 
 ### Artikel  16  
 

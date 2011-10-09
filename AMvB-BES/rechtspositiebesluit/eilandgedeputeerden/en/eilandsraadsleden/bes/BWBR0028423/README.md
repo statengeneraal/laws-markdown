@@ -4,11 +4,10 @@
 
 ### Artikel  1  
 
-1.  De leden van de eilandsraad van het openbaar lichaam Bonaire genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 6.563 en een tegemoetkoming in de kosten van ten hoogste USD 1.113.   
-2.  De leden van de eilandsraad van het openbaar lichaam Sint Eustatius genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 5.363 en een tegemoetkoming in de kosten van ten hoogste USD 1.006.   
-3.  De leden van de eilandsraad van het openbaar lichaam Saba genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 3.473 en een tegemoetkoming in de kosten van ten hoogste USD 559.   
-4.  Indien de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wordt verhoogd in verband met de stijging van het prijsindexcijfer van de gezinsconsumptie en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt bij ministeriële regeling met ingang van de datum, waarop die wijziging ingaat, de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten dienovereenkomstig gewijzigd, onder nadere vaststelling, voor zoveel nodig, van de bedragen, genoemd in het eerste tot en met het derde lid.   
-5.  De maandelijkse uitbetaling van de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten worden naar boven afgerond in hele dollars.   
+1.  De leden van de eilandsraad van het openbaar lichaam Bonaire genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 6.629 en een tegemoetkoming in de kosten van ten hoogste USD 1125.   
+2.  De leden van de eilandsraden van de openbare lichamen Sint Eustatius en Saba genieten per jaar een vergoeding voor hun werkzaamheden van ten hoogste USD 5.417 en een tegemoetkoming in de kosten van ten hoogste USD 1017.   
+3.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat bij ministeriële regeling de vergoeding voor de werkzaamheden van de eilandsraadsleden en de tegemoetkoming in de kosten dienovereenkomstig gewijzigd, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in het eerste en tweede lid.   
+4.  De maandelijkse uitbetaling van de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten worden naar boven afgerond in hele dollars.   
 
 ### Artikel  1a  
 
@@ -18,24 +17,36 @@ Artikel 1 is van overeenkomstige toepassing op het lid van de eilandsraad aan wi
 
 1.  De eilandgedeputeerden van het openbaar lichaam Bonaire genieten per jaar een bezoldiging van USD 62.008.   
 2.  De eilandgedeputeerden van de openbare lichamen Sint Eustatius en Saba genieten per jaar een bezoldiging van USD 49.652.   
-3.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat bij ministeriële regeling de bezoldiging van de eilandgedeputeerden dienovereenkomstig gewijzigd, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in het eerste en tweede lid.   
+3.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat bij ministeriële regeling de bezoldiging van de eilandgedeputeerden dienovereenkomstig gewijzigd, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in het eerste en tweede lid.   
 4.  De maandelijkse uitbetaling van de bezoldiging wordt naar boven afgerond in hele dollars.   
-
-### Artikel  2a*  
-
-Indien aan de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), een eenmalige uitkering wordt toegekend, ontvangt de eilandgedeputeerde een uitkering op gelijke voet.  
-
-### Artikel  2b*  
-
-De eilandgedeputeerde heeft aanspraak op een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de bepalingen die daaromtrent zijn vastgesteld voor de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
 
 ### Artikel  2a  
 
-De eilandgedeputeerden ontvangen, ter bestrijding van representatie- en andere kosten, per jaar een buitengewone toelage van 6% van hun bezoldiging genoemd in artikel 2.  
+Indien aan de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), een eenmalige uitkering wordt toegekend, ontvangt de eilandgedeputeerde een uitkering op gelijke voet.  
 
 ### Artikel  2b  
 
-De eilandgedeputeerden van Sint Eustatius en Saba ontvangen een toelage van zestien en drietiende procent van hun bezoldiging, bedoeld in artikel 2.  
+De eilandgedeputeerden ontvangen, ter bestrijding van representatie- en andere kosten, per jaar een buitengewone toelage van 6% van hun bezoldiging genoemd in artikel 2.  
+
+### Artikel  2c  
+
+De eilandgedeputeerden ontvangen, ter bestrijding van representatie- en andere kosten, per jaar een buitengewone toelage van 6% van hun bezoldiging genoemd in artikel 2.  
+
+### Artikel  2d  
+
+De eilandgedeputeerden van Sint Eustatius en Saba ontvangen een toelage van zestien en dertiende procent van hun bezoldiging, bedoeld in artikel 2.  
+
+### Artikel  2e  
+
+1.  Voor 1 april van elk jaar of binnen twee maanden na zijn beëdiging verstrekt de eilandgedeputeerde aan Onze Minister, dan wel een door hem aangewezen instantie, een opgave van de neveninkomsten welke hij verwacht over het desbetreffende kalenderjaar of gedeelte daarvan te zullen genieten, dan wel een verklaring, dat hij verwacht niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten over dat jaar of een evenredig deel daarvan over het desbetreffende gedeelte van dat jaar te zullen genieten.   
+2.  Onze Minister, dan wel de door hem aangewezen instantie, deelt bestuurscollege het bedrag van de voorlopige aftrek op de bezoldiging mede en verstrekt een afschrift daarvan aan de eilandgedeputeerde.   
+3.  De eilandgedeputeerde kan een verklaring inzenden dat een opgave van neveninkomsten achterwege zal blijven. In dit geval, alsmede indien binnen de in het eerste lid bedoelde termijn geen opgave of verklaring is ingezonden, bedraagt de bezoldiging over dat kalenderjaar 65% van de bezoldiging op jaarbasis.   
+4.  Zo spoedig mogelijk na afloop van het kalenderjaar zendt de eilandgedeputeerde of zenden zijn nabestaanden aan Onze Minister, dan wel de door hem aangewezen instantie, een opgave van de neveninkomsten welke over dat kalenderjaar zijn genoten, dan wel een verklaring dat over dat jaar niet meer dan 14% van de bezoldiging op jaarbasis of, indien de eilandgedeputeerde een gedeelte van het kalenderjaar lid van het bestuurscollege is geweest, een evenredig deel van dit bedrag, is genoten.   
+5.  Onze Minister, dan wel de door hem aangewezen instantie, deelt aan het bestuurscollege zo spoedig mogelijk na ontvangst van de in het vierde lid bedoelde opgave of verklaring het bedrag van de definitieve aftrek op de bezoldiging mede en verstrekt een afschrift daarvan aan de eilandgedeputeerde.   
+6.  Indien een opgave of verklaring als in het vierde lid bedoeld, niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, bedraagt de bezoldiging over dat kalenderjaar 65% van de bezoldiging op jaarbasis.   
+7.  De eilandgedeputeerde zendt Onze Minister, dan wel de door hem aangewezen instantie, zo spoedig mogelijk na afloop van het kalenderjaar tevens een afschrift van de aanslag voor de inkomstenbelasting over het betreffende kalenderjaar. Het bedrag van de uitbetaalde bezoldiging kan, al dan niet op verzoek van de eilandgedeputeerde, worden herzien, indien op grond van de onherroepelijk geworden aanslag in de inkomstenbelasting daartoe aanleiding blijkt te bestaan.   
+8.  Bij de toepassing van het vijfde, zesde en zevende lid vindt zo nodig terugbetaling of verrekening plaats.   
+9.  Dit artikel is niet van toepassing op de eilandgedeputeerde op wie [artikel 234, derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) van toepassing is.   
 
 ### Artikel  3  
 

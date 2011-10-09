@@ -253,7 +253,7 @@ f. de opleiding bijdraagt aan het tot stand komen van een samenhangend aanbod me
 1.  De rijksbijdrage voor de beroepsopleidingen waarop de in artikel 2.1.1 bedoelde aanspraak betrekking heeft wordt, binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen, per instelling berekend.   
 2.  De in het eerste lid bedoelde rijksbijdrage heeft in ieder geval betrekking op kosten van: 
 
-a. personeel wegens voorschriften die zijn gegeven bij of krachtens de [Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md),  
+a. personeel wegens voorschriften die zijn gegeven bij of krachtens de [Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md),  
 
 b. onderhoud en vervanging van inventaris,  
 
@@ -619,15 +619,15 @@ Het bevoegd gezag stelt jaarlijks het beleid vast met betrekking tot de formatie
 
 ####Rechtspositie personeel van een bijzondere instelling
 
-1.  De [Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en de daarop berustende regelingen zijn voor het personeel van een instelling voor bijzonder onderwijs van overeenkomstige toepassing.   
+1.  De [Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en de daarop berustende regelingen zijn voor het personeel van een instelling voor bijzonder onderwijs van overeenkomstige toepassing.   
 2.  Voor de salarissen en toelagen van het personeel wordt een regeling vastgesteld bij eilandsbesluit.   
-3.  Het bestuurscollege stelt de regeling, bedoeld in het tweede lid, dan wel een wijziging daarvan niet vast dan nadat daarover op overeenstemming gericht overleg is gevoerd met de bevoegde gezagsorganen en met de onderwijsvakbonden of, bij het ontbreken daarvan, met een representatief te achten vertegenwoordiging van het personeel. [Artikel 101 van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is niet van toepassing op de vaststelling dan wel wijziging van de regeling, bedoeld in het tweede lid.   
+3.  Het bestuurscollege stelt de regeling, bedoeld in het tweede lid, dan wel een wijziging daarvan niet vast dan nadat daarover op overeenstemming gericht overleg is gevoerd met de bevoegde gezagsorganen en met de onderwijsvakbonden of, bij het ontbreken daarvan, met een representatief te achten vertegenwoordiging van het personeel. [Artikel 101 van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is niet van toepassing op de vaststelling dan wel wijziging van de regeling, bedoeld in het tweede lid.   
 
 ### Artikel  4.1.5  
 
 ####Afwijking nationaliteitsvereiste
 
-[Artikel 6, eerste lid, onderdeel b, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is niet van toepassing op het personeel.  
+[Artikel 3, eerste lid, onderdeel b,van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) is niet van toepassing op het personeel.  
 
 ### Artikel  4.1.6  
 
@@ -637,8 +637,8 @@ Het bevoegd gezag stelt jaarlijks het beleid vast met betrekking tot de formatie
 
 ####Akte van benoeming
 
-1.  In afwijking van [artikel 11 van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is ieder personeelslid van een bijzondere instelling in het bezit van een door het bevoegd gezag en hemzelf getekende akte van benoeming.   
-2.  De akte van benoeming bevat ten minste bepalingen van gelijke inhoud als de bepalingen die zijn vastgesteld in [artikel 11 van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).   
+1.  In afwijking van [artikel 8 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) is ieder personeelslid van een bijzondere instelling in het bezit van een door het bevoegd gezag en hemzelf getekende akte van benoeming.   
+2.  De akte van benoeming bevat ten minste bepalingen van gelijke inhoud als de bepalingen die zijn vastgesteld in [artikel 8 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).   
 
 ### Artikel  4.1.8  
 

@@ -24,7 +24,7 @@ Gedurende de tijd dat de in artikel 1 bedoelde ambtenaar vrijstelling van dienst
 
 ### Artikel  5a  
 
-Deze regeling berust op [artikel 28, onder a, van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Deze regeling berust op [artikel 28, onder a, van de Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
 
 ### Artikel  6  
 

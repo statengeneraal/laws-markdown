@@ -29,7 +29,7 @@ h. door personen van 18 jaar of ouder als opvarende van het schip waarop zij die
 
 i. door havenarbeiders van 18 jaar of ouder, waarop de [Stuwadoorswet 1946 BES](../../../../../wet-BES/stuwadoorswet/1946/bes/BWBR0028169/README.md) van toepassing is;  
 
-j. door personen van 18 jaar of ouder, die ambtenaar zijn in de zin van de [Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) of van wie de arbeidsvoorwaarden bij of krachtens wettelijke regeling door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties dienen te worden goedgekeurd.     
+j. door personen van 18 jaar of ouder, die ambtenaar zijn in de zin van de [Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) of van wie de arbeidsvoorwaarden bij of krachtens wettelijke regeling door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties dienen te worden goedgekeurd.     
 
 ### Artikel  2  
 

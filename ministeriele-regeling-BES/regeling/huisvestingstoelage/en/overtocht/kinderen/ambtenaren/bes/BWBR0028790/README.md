@@ -43,7 +43,7 @@ De toekenning en intrekking van de huisvestingstoelage, het verlenen van overtoc
 
 ### Artikel  8  
 
-Deze regeling berust op artikel 81 van de Wet materieel ambtenarenrecht BES.  
+Deze regeling berust op [artikel 77, onder a, van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
 
 ### Artikel  9  
 

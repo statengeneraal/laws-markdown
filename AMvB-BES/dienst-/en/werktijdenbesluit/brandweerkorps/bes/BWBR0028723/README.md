@@ -8,7 +8,7 @@
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *feestdagen:* hetgeen daaronder wordt verstaan in [artikel 42, vierde lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) wordt verstaan;  
+a. *feestdagen:* hetgeen daaronder wordt verstaan in [artikel 37, vierde lid, van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) wordt verstaan;  
 
 b. *diensturen:* het totaal van de werk-, wacht- en beschikbaarheidsuren;  
 
@@ -73,7 +73,7 @@ Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feest
 
 1.  Overwerk wordt slechts bij uitzondering en alleen in die gevallen opgedragen, waarin de belangen van de dienst zulks onvermijdelijk maken.   
 2.  Van verricht overwerk wordt telkenmale aantekening gehouden op het dienstrooster alsmede op een daartoe bestemd formulier. Het formulier moet worden ondertekend door de ambtenaar die het overwerk verrichtte en door de ambtenaar die de opdracht tot het verrichten van het overwerk gaf.   
-3.  Indien het dienstbelang het onvermijdelijk maakt, dat aan een ambtenaar werk wordt opgedragen buiten de voor hem vastgestelde werktijden, wordt hem door Onze Minister een vergoeding toegekend conform het bepaalde in [artikel 27 van de Wet Materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).   
+3.  Indien het dienstbelang het onvermijdelijk maakt, dat aan een ambtenaar werk wordt opgedragen buiten de voor hem vastgestelde werktijden, wordt hem door Onze Minister een vergoeding toegekend conform het bepaalde in [artikel 25 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).   
 
 ####Paraatheidstoelage
 
@@ -115,7 +115,7 @@ Bij ministeriële regeling kunnen ter uitvoering van dit besluit nadere regels w
 
 ### Artikel  13  
 
-Dit besluit berust op de [artikelen 28](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), [42, eerste lid](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), en [43, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op de [artikelen 42](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [43 van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
 
 ### Artikel  14  
 

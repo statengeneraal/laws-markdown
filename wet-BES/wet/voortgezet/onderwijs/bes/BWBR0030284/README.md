@@ -1311,7 +1311,7 @@ b. in het bezit te zijn van:
 3°. een geschiktheidsverklaring als bedoeld in artikel 197, en    
 
 c. niet krachtens rechterlijke uitspraak van het geven van onderwijs te zijn uitgesloten.     
-2.  Indien het bevoegd gezag een leraar benoemt of tewerkstelt zonder benoeming voor uitsluitend het geven van middelbaar algemeen voortgezet onderwijs of het geven van onderwijs in de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs of van het voorbereidend wetenschappelijk onderwijs, is het eerste lid, onderdeel b, onder 3°, niet van toepassing en volstaat in afwijking van het eerste lid, onderdeel b, onder 1°, het bezit van het getuigschrift van een bacheloropleiding als bedoeld in artikel 7.3a, eerste lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, waaruit blijkt dat: 
+2.  Indien het bevoegd gezag een leraar benoemt of tewerkstelt zonder benoeming voor uitsluitend het geven van middelbaar algemeen voortgezet onderwijs of het geven van onderwijs in de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs of van het voorbereidend wetenschappelijk onderwijs, is het eerste lid, onderdeel b, onder 3°, niet van toepassing en volstaat in afwijking van het eerste lid, onderdeel b, onder 1°, het bezit van het getuigschrift van een bacheloropleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), waaruit blijkt dat: 
 
 1°. de betrokkene in het kader van die opleiding met goed gevolg ten minste 30 studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), heeft besteed aan voorbereiding op het geven van onderwijs in een met zijn opleiding inhoudelijk overeenkomend vak in die leerjaren, en  
 
@@ -1344,7 +1344,7 @@ b. een duale opleiding als bedoeld in dat artikel aan een universiteit volgen to
 14.  Bij algemene maatregel van bestuur kunnen, zo nodig afwijkende, regels worden gesteld met betrekking tot de toepassing van het eerste lid ten aanzien van het verzorgen van door het bevoegd gezag vastgestelde vakken en andere programmaonderdelen, behoudens godsdienstonderwijs en levensbeschouwelijk vormingsonderwijs.   
 15.  In geval van een geschiktheidsverklaring als bedoeld in artikel 197 vindt de benoeming of tewerkstelling zonder benoeming plaats voor een periode van ten hoogste twee aaneengesloten schooljaren. Het bevoegd gezag kan deze benoemingsperiode, al dan niet onder door dat gezag te stellen voorwaarden, verlengen met ten hoogste twee jaren indien het bevoegd gezag daarvoor redenen aanwezig acht. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin. Het bevoegd gezag dat betrokkene voor de eerste maal na afgifte van de geschiktheidsverklaring benoemt of tewerkstelt zonder benoeming, tekent het feit en de datum van benoeming of tewerkstelling zonder benoeming aan op die verklaring.   
 16.  Het bevoegd gezag kan afwijken van het eerste lid, onder b, ten aanzien van degene die gelet op specifieke kennis en bekwaamheden, samenhangend met ervaringen en werkzaamheden in andere sectoren van de samenleving en het bedrijfsleven, naar het oordeel van het bevoegd gezag voldoende bekwaam is om onder verantwoordelijkheid van een daartoe door het bevoegd gezag aan te wijzen leraar voor een beperkte betrekkingsomvang te worden belast met een uitsluitend lesgevende taak voor vakken waar die specifieke kennis en bekwaamheden in het bijzonder betrekking op hebben. De betrekkingsomvang is voor het totaal van de in de eerste volzin bedoelde lesgevende taken ten hoogste een aantal van op jaarbasis gemiddeld 4 klokuren per week.   
-17.  Onze Minister kan met betrekking tot een vak of ander programmaonderdeel waarvoor niet met een getuigschrift afgegeven krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek kan worden aangetoond dat betrokkene voldoet aan de bekwaamheidseisen, bedoeld in artikel 86, eerste lid, verklaren dat een leraar wordt geacht bij benoeming of tewerkstelling zonder benoeming te voldoen aan de bekwaamheidseisen tot het geven van voortgezet onderwijs in dat vak of dat andere programmaonderdeel.   
+17.  Onze Minister kan met betrekking tot een vak of ander programmaonderdeel waarvoor niet met een getuigschrift afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) kan worden aangetoond dat betrokkene voldoet aan de bekwaamheidseisen, bedoeld in artikel 86, eerste lid, verklaren dat een leraar wordt geacht bij benoeming of tewerkstelling zonder benoeming te voldoen aan de bekwaamheidseisen tot het geven van voortgezet onderwijs in dat vak of dat andere programmaonderdeel.   
 
 ### Artikel  81  
 
@@ -1439,15 +1439,15 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 ####Rechtspositieregeling personeel
 
-1.  De [Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en de daarop berustende regelingen zijn voor het personeel van een school voor bijzonder onderwijs van overeenkomstige toepassing.   
+1.  De [Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en de daarop berustende regelingen zijn voor het personeel van een school voor bijzonder onderwijs van overeenkomstige toepassing.   
 2.  Voor de salarissen en toelagen van het personeel wordt een regeling vastgesteld bij eilandsbesluit.   
-3.  Het bestuurscollege stelt de regeling, bedoeld in het tweede lid, dan wel een wijziging daarvan niet vast dan nadat daarover op overeenstemming gericht overleg is gevoerd met de bevoegde gezagsorganen en met de onderwijsvakbonden of, bij het ontbreken daarvan, met een representatief te achten vertegenwoordiging van het personeel. [Artikel 101 van de Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is niet van toepassing op de vaststelling dan wel wijziging van de regeling, bedoeld in het tweede lid.   
+3.  Het bestuurscollege stelt de regeling, bedoeld in het tweede lid, dan wel een wijziging daarvan niet vast dan nadat daarover op overeenstemming gericht overleg is gevoerd met de bevoegde gezagsorganen en met de onderwijsvakbonden of, bij het ontbreken daarvan, met een representatief te achten vertegenwoordiging van het personeel. [Artikel 101 van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is niet van toepassing op de vaststelling dan wel wijziging van de regeling, bedoeld in het tweede lid.   
 
 ### Artikel  91  
 
 ####Afwijking nationaliteitsvereiste
 
-[Artikel 6, eerste lid, onderdeel b, van de Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is niet van toepassing op het personeel.  
+[Artikel 3, eerste lid, onderdeel b, van het Rechtspositiebesluit ambtenaren BES](../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) is niet van toepassing op het personeel.  
 
 ### Artikel  92  
 
@@ -1666,7 +1666,7 @@ b. zijn bekwaamheid onderhoudt.
 ####Akte van benoeming
 
 1.  Ieder personeelslid is in het bezit van een door het bevoegd gezag en hemzelf getekende akte van benoeming.   
-2.  De akte van benoeming bevat ten minste bepalingen van gelijke inhoud als de bepalingen die zijn vastgesteld in [artikel 11 van de Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).   
+2.  De akte van benoeming bevat ten minste bepalingen van gelijke inhoud als de bepalingen die zijn vastgesteld in [artikel 8 van het Rechtspositiebesluit ambtenaren BES](../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).   
 
 ### Artikel  108  
 
@@ -2161,7 +2161,7 @@ c. het onderwijsondersteunend personeel.   De formatie is redelijkerwijs voldoen
 
 ####Grondslag bekostiging kosten voor personeel wegens voorschriften die zijn gegeven bij of krachtens de [Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md)
 
-1.  Aan scholen wordt in verband met de kosten voor personeel wegens voorschriften die zijn gegeven bij of krachtens de [Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) bekostiging verstrekt.   
+1.  Aan scholen wordt in verband met de kosten voor personeel wegens voorschriften die zijn gegeven bij of krachtens de [Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) bekostiging verstrekt.   
 2.  De in het eerste lid bedoelde bekostiging is verwerkt in de bedragen en in de vermenigvuldigingsbedragen van de verhoging, bedoeld in de artikelen 154 en 155.   
 
 ### Artikel  154  

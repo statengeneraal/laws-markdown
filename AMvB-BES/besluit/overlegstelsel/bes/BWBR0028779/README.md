@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder
 
 a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b. ambtenaar: de ambtenaar, bedoeld in [artikel 1, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md);  
+b. ambtenaar: de ambtenaar, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md);  
 
 c. Sectorale Overlegcommissie BES: de Commissie, bedoeld in artikel 2.1, eerste lid;  
 

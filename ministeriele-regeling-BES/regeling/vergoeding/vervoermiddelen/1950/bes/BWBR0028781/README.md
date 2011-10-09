@@ -70,7 +70,7 @@ De uitbetaling van de vergoeding bedoeld in artikel 3 geschiedt in maandelijkse
 
 ### Artikel  9  
 
-Deze regeling berust op [artikel 73, derde lid, onderdeel a, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Deze regeling berust op [artikel 73, derde lid, onderdeel a, van de Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
 
 ### Artikel  10  
 

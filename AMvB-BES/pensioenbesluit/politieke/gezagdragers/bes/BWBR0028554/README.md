@@ -18,7 +18,7 @@ c. *gepensioneerde politieke gezagdrager:* degene die recht heeft op pensioen op
 
 d. *ontslag:* de op enigerlei wijze formele beëindiging van de benoeming tot politieke gezagdrager, niet zijnde het tijdelijk ontslag als bedoeld in [artikel Ya 13](../../../../../../wet/kieswet/BWBR0004627/README.md) juncto [X 10, eerste of tweede lid van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md);  
 
-e. *overheidsdienaren:* de ambtenaren in de zin van de [Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md);  
+e. *overheidsdienaren:* de ambtenaren in de zin van de [Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md);  
 
 f. *nabestaande:* degene met wie de politieke gezagdrager, de gewezen politieke gezagdrager of de gepensioneerde politieke gezagdrager op de dag van overlijden gehuwd was;  
 
@@ -41,7 +41,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 1.  De politieke gezagdrager aan wie ontslag is verleend en die op het tijdstip van ontslag de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) nog niet heeft bereikt, heeft met ingang van de dag waarop het ontslag ingaat recht op een uitkering ingevolge de volgende artikelen.   
 2.  Geen recht op uitkering bestaat indien de politieke gezagdrager: 
 
-a. zonder onderbreking opnieuw als politieke gezagdrager optreedt;  
+a. zonder onderbreking opnieuw in hetzelfde ambt optreedt;  
 
 b. [vervallen]  
 
@@ -214,7 +214,7 @@ b. voor elke resterende gehele maand diensttijd 1/12 deel van drie percent, tot 
 
 ### Artikel  14  
 
-1.  Indien de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wordt verhoogd in verband met de stijging van het prijsindexcijfer van de gezinsconsumptie en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt de pensioengrondslag met ingang van de dag waarop die bezoldigingswijziging ingaat overeenkomstig deze wijziging aangepast. De toegekende pensioenen worden dienovereenkomstig opnieuw vastgesteld.   
+1.  Indien de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wordt verhoogd in verband met de stijging van het prijsindexcijfer van de gezinsconsumptie en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt de pensioengrondslag met ingang van de dag waarop die bezoldigingswijziging ingaat overeenkomstig deze wijziging aangepast. De toegekende pensioenen worden dienovereenkomstig opnieuw vastgesteld.   
 2.  Indien een wijziging van de bezoldigingen bedoeld in het eerste lid, een verlaging van deze bezoldigingen inhoudt ten opzichte van het van het voorafgaande peil, vindt aanpassing van de pensioengrondslag niet plaats. Indien een later volgende wijziging als hiervoor bedoeld, een verhoging inhoudt, wordt deze verhoging geheel of gedeeltelijk achterwege gelaten totdat de aanpassing die de pensioengrondslag bij toepassing van het eerste lid zou hebben ondergaan, geheel is gecompenseerd.   
 3.  Bij ministeriële regeling, kunnen voor de uitvoering van het eerste en tweede lid nadere regels worden gesteld.   
 
@@ -343,7 +343,7 @@ Elk pensioen eindigt met het einde van de maand waarin de rechthebbende is overl
 
 ### Artikel  31  
 
-Op de bezoldiging van de politieke gezagdrager en op de uitkering van de gewezen politieke gezagdrager wordt, volgens bij ministeriële regeling te stellen regels, een bedrag ingehouden overeenkomstig de inhouding op de bezoldiging van ambtenaren, bedoeld in [artikel 1, eerste lid, van de Wet materieel ambtenarenrecht BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) ter zake van aanspraken bij ziekte, arbeidsongeschiktheid, ouderdom en overlijden.  
+Op de bezoldiging van de politieke gezagdrager en op de uitkering van de gewezen politieke gezagdrager wordt, volgens bij ministeriële regeling te stellen regels, een bedrag ingehouden overeenkomstig de inhouding op de bezoldiging van ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) ter zake van aanspraken bij ziekte, arbeidsongeschiktheid, ouderdom en overlijden.  
 
 ### Artikel  32  
 
@@ -354,12 +354,6 @@ De uitkeringen en pensioenen, daaronder begrepen de pensioenen bedoeld in hoofds
 1.  Indien langer pensioen is betaald dan overeenstemt met de artikelen 8 en 30, wordt het teveel betaalde teruggevorderd.   
 2.  Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen, bedoeld in artikel 18, is betaald, worden teruggevorderd.   
 3.  De betaling van teruggevorderde bedragen als bedoeld in het eerste en tweede lid, geschiedt binnen de termijnen die het bevoegde gezag vaststelt.   
-
-### Artikel  34  
-
-1.  Op degene die op grond van de hoofdstuk 3 recht of uitzicht op pensioen heeft en op diens nabestaanden, is de [Wet tegemoetkoming ziektekosten overheidsgepensioneerden BES](../../../../../../wet-BES/wet/tegemoetkoming/ziektekosten/overheidsgepensioneerden/bes/BWBR0028583/README.md) van overeenkomstige toepassing.   
-2.  Voor de toepassing van het eerste lid wordt betrokkenen gerekend tot de categorie waartoe de ambtenaar behoord die wordt bezoldigd volgens het maximum van schaal 17 als bedoeld in het [Bezoldigingsbesluit 1998 BES](../../../../../../AMvB-BES/bezoldigingsbesluit/1998/bes/BWBR0028491/README.md).   
-3.  Ter zake van de overeenkomstige toepassing, bedoeld in het eerste lid, kunnen bij ministeriële regeling, onverminderd het tweede lid, nadere regels worden gesteld.   
 
 ### Hoofdstuk  7  
 

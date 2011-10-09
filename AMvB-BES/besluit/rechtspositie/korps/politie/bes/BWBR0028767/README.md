@@ -20,7 +20,7 @@ d. *aspirant:* degene die toegelaten is tot de basisopleiding;
 
 e. *ambtenaar aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in [artikel 3, onder a, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), met uitzondering van de aspirant;  
 
-f. *ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:* de ambtenaar, [bedoeld in artikel 3, onder b, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md); 
+f. *ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:* de ambtenaar, bedoeld in [artikel 3, onder b, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md); 
 
 f1. *vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in [artikel 3, onder c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
 
@@ -28,7 +28,7 @@ f2. *vrijwillige ambtenaar in opleiding:* degene die door Onze Minister is benoe
 
 f3. *vrijwillige ambtenaar van politie:* de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak en de vrijwillige ambtenaar in opleiding;    
 
-g. *volledige betrekking:* een betrekking met een arbeidstijd van gemiddeld 40 uur per week;  
+g. *volledige betrekking:* een betrekking met een arbeidstijd van gemiddeld 40 uur per week voor de ambtenaar aangesteld voor de uitvoering van de politietaak en de aspirant en een arbeidstijd van gemiddeld 39,5 uur per week voor de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken;  
 
 h. *deelbetrekking:* een betrekking met een arbeidstijd van gemiddeld minder dan 40 uur per week;  
 
@@ -62,7 +62,7 @@ p. *maximum-bezoldiging:* het bedrag behorende bij de hoogste bezoldigingstrede 
 
 ### Artikel  2  
 
-De [Hoofdstukken II](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [III van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), met uitzondering van [artikel 6A](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie, met dien verstande, dat de in [artikel 13, eerste en tweede lid, van die wet](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) bedoelde regelen en regelingen inzake bevordering wel van toepassing blijven op de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie.  
+De [hoofdstukken II](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [III van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) zijn niet van toepassing op de ambtenaar van politie, met dien verstande, dat het bepaalde bij of krachtens [artikel 10 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) inzake bevordering wel van toepassing is op de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie.  
 
 ### §  2  
 
@@ -443,7 +443,7 @@ d. andere werkzaamheden die door de instantie kunnen worden uitgevoerd, mits die
 
 ### Artikel  13  
 
-1.  Op de ambtenaar aangesteld voor de uitvoering van de politietaak, de aspirant en de vrijwillige ambtenaar van politie zijn van [hoofdstuk IV van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) uitsluitend de [artikelen 29](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), [31](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [32](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) van toepassing.   
+1.  Op de ambtenaar aangesteld voor de uitvoering van de politietaak, de aspirant en de vrijwillige ambtenaar van politie zijn van [hoofdstuk IV van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) uitsluitend de [artikelen 27](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [29](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [30](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) van toepassing.   
 2.  De artikelen 14 tot en met 23a van dit besluit zijn niet van toepassing op de vrijwillige ambtenaar van politie.   
 
 ### Artikel  14  
@@ -537,13 +537,17 @@ Aan de ambtenaar van politie die uit hoofde van zijn functie opgedragen wordt zi
 
 De vrijwillige ambtenaar in opleiding en de vrijwillige ambtenaar aangesteld voor de uitoefening van de politietaak die in opdracht van Onze Minister een voor zijn functie relevante cursus volgt dan wel deelneemt aan een oefening of in opdracht van Onze Minister werkelijke dienst verricht, ontvangen een bij ministeriële regeling vastgestelde vergoeding.  
 
+### Artikel  23c  
+
+Aan de ambtenaar van politie die in januari 2011 in dienst was van de staat, met uitzondering van de vrijwillige ambtenaar van politie,, wordt een eenmalige uitkering verleend ter hoogte van USD 100,00 netto.  
+
+### Artikel  23d  
+
+[Artikel 9a van het Bezoldigingsbesluit 1998 BES](../../../../../../../AMvB-BES/bezoldigingsbesluit/1998/bes/BWBR0028491/README.md) is van overeenkomstige toepassing op de ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.  
+
 ### §  5  
 
 ####Functioneringsgesprek en beoordeling
-
-### Artikel  24  
-
-Het bepaalde bij of krachtens [artikel 15, zesde lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is op de ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie, van overeenkomstige toepassing.  
 
 ### Artikel  25  
 
@@ -563,7 +567,7 @@ Het bepaalde bij of krachtens [artikel 15, zesde lid, van de Wet materieel ambte
 
 ### Artikel  26  
 
-1.  [Hoofdstuk V van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie.   
+1.  Het bepaalde bij of krachtens [artikel 37 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) zijn niet van toepassing op de ambtenaar van politie.   
 2.  Onze Minister stelt de arbeids- en rusttijden van de ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar aangesteld voor de uitoefening van de politietaak, vast middels een maand- dan wel kwartaal-dienstrooster. Voor de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak bepaalt Onze Minister de werktijden.   
 3.  Het dienstrooster moet voldoen aan de volgende voorwaarden: 
 
@@ -609,7 +613,7 @@ De ambtenaar van politie, anders dan de aspirant, die daartoe de wens te kennen 
 
 ### Artikel  28  
 
-[Artikel 43 van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is niet van toepassing op de ambtenaar van politie.  
+Het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](../../../../../../../AMvB-BES/besluit/vakantie/en/vrijstelling/van/dienst/ambtenaren/bes/BWBR0028606/README.md), met uitzondering van [hoofdstuk IV](../../../../../../../AMvB-BES/besluit/vakantie/en/vrijstelling/van/dienst/ambtenaren/bes/BWBR0028606/README.md), is niet van toepassing op de ambtenaar van politie.  
 
 ### §  2  
 
@@ -738,7 +742,6 @@ g. andere redenen op grond waarvan Onze Minister daartoe redenen aanwezig acht.
 
 1.  Aanspraken op nietgenoten vakantie-uren vervallen op de datum van ingang van ontslag van de ambtenaar van politie. Indien de ambtenaar van politie uiterlijk veertien dagen daarna weer in dienst treedt, kan hij alsnog aanspraak maken op de niet-genoten vakantie-uren van het lopende kalenderjaar.   
 2.  Indien op de dag van ontslag blijkt, dat de ambtenaar van politie teveel vakantie-uren heeft genoten, is hij voor ieder te veel genoten vakantie-uur schuldig een bedrag gelijk aan de bezoldiging die hij genoot per werkuur onmiddellijk voorafgaand aan het ontslag.   
-3.  Verrekening van het bedrag, bedoeld in het tweede lid, vindt plaats conform [Hoofdstuk XI van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).   
 
 ### Hoofdstuk  V  
 
@@ -746,7 +749,7 @@ g. andere redenen op grond waarvan Onze Minister daartoe redenen aanwezig acht.
 
 ### Artikel  43  
 
-1.  Tenzij anders is bepaald bij dit besluit of bij of krachtens de [Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wordt de vrijstelling van dienst verleend met behoud van volle bezoldiging.   
+1.  Tenzij anders is bepaald bij dit besluit of bij of krachtens de [Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wordt de vrijstelling van dienst verleend met behoud van volle bezoldiging.   
 2.  In afwijking van artikel 1, onder c, wordt in dit hoofdstuk onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.   
 
 ### Artikel  44  
@@ -933,10 +936,6 @@ In afwijking van artikel 1, onder c, wordt in dit hoofdstuk, paragrafen 1, 2 en 
 ### §  1  
 
 ####Ziekte en ongeval
-
-### Artikel  62  
-
-De [artikelen 44](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), [45](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), [45B](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [45C van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) zijn niet van toepassing op de ambtenaar van politie.  
 
 ### Artikel  63  
 
@@ -1184,7 +1183,7 @@ Indien een ambtenaar, op de laatste dag van de in artikel 74k bedoelde perioden,
 
 ### Artikel  75  
 
-[Hoofdstuk VII](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), met uitzondering van de [artikelen 61a](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), [61b](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), [72](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), [73](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [80, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie.  
+[Hoofdstuk VII](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), met uitzondering van de [artikelen 66](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [67](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [76, van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie.  
 
 ### Artikel  76  
 
@@ -1399,7 +1398,7 @@ b. een gratificatie van maximaal 150 procent van de per kalenderjaar krachtens a
 
 ### Artikel  101  
 
-1.  [Hoofdstuk VIII van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie.   
+1.  [Hoofdstuk VIII van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie.   
 2.  De ambtenaar van politie die zijn ambtelijke verplichtingen niet nakomt of zich overigens aan plichtsverzuim schuldig maakt, kan disciplinair worden gestraft.   
 3.  Plichtsverzuim omvat zowel het overtreden van een voorschrift als het doen of nalaten van iets dat een goed ambtenaar van politie in gelijke omstandigheden behoort na te laten of te doen.   
 4.  Een strafrechterlijke vervolging wegens een feit dat mede plichtsverzuim inhoudt, sluit een disciplinaire strafoplegging wegens dat feit niet uit.   
@@ -1464,7 +1463,7 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 ### Artikel  107  
 
-De [Hoofdstukken IX](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [XI](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), behoudens de [artikelen 99](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [100, van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en de daarop gebaseerde regelingen zijn niet van toepassing op de ambtenaar van politie.  
+[Hoofdstuk IV van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [hoofdstuk IX van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) zijn niet van toepassing op de ambtenaar van politie.  
 
 ### §  2  
 
@@ -1602,7 +1601,7 @@ c. hij blijkens het schriftelijke oordeel van een geneeskundige bedoeld in artik
 
 ### Artikel  119  
 
-1.  Buiten de gevallen bij dit besluit of bij of krachtens enige wet, anders dan de [Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), bepaald kan de ambtenaar van politie alleen worden ontslagen op grond van: 
+1.  Buiten de gevallen bij dit besluit of bij of krachtens enige wettelijke regeling, anders dan het [Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), bepaald kan de ambtenaar van politie alleen worden ontslagen op grond van: 
 
 a. het verlies van een vereiste voor de aanstelling, gesteld bij een regeling aan de aanstelling voorafgegaan zijnde, tenzij het vereiste alleen voor de aanvang van het ambt geldt;  
 
@@ -1642,7 +1641,7 @@ f. het bij of in verband met de aanstelling dan wel de keuring verstrekken van o
 
 ### Artikel  122  
 
-Dit besluit berust op de [artikelen 41, eerste en tweede lid](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), en [46, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), de [artikelen 4](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), [21, tweede lid](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), en [22, tweede lid, van de Veiligheidswet BES](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) en [artikel 120a van de Wet materieel ambtenarenrecht BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op de [artikelen 41, eerste en tweede lid](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), en [46, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), de [artikelen 4](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), [21, tweede lid](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), en [22, tweede lid, van de Veiligheidswet BES](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) en [artikel 120a van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
 
 ### Artikel  123  
 

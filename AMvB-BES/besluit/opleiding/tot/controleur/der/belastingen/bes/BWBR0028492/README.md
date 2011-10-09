@@ -148,7 +148,7 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven ten aanzie
 
 ### Artikel  19  
 
-Dit besluit berust op [artikel 13, tweede lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
 
 ### Artikel  20  
 
