@@ -53,7 +53,7 @@ d. de tariefstelling geschiedt door het Centraal Orgaan Ziekenhuistarieven of ee
 
 e. de rechtspersoon, die de kliniek beheert, jaarlijks verslag doet van de gang van zaken op medisch en financieel gebied in het voorafgaande kalenderjaar en dat verslag algemeen verkrijgbaar stelt;  
 
-f. de rechtspersoon, die de kliniek beheert en geen openbaar lichaam is, krachtens de statuten de jaarrekening ter verkrijging van een verklaring daaromtrent door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) doet onderzoeken.     
+f. de rechtspersoon, die de kliniek beheert en geen openbaar lichaam is, krachtens de statuten de jaarrekening ter verkrijging van een verklaring daaromtrent door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek doet onderzoeken.     
 2.  De vergunning heeft slechts mede betrekking op afbreking in een kliniek van zwangerschappen die langer dan dertien weken hebben geduurd, indien aan daartoe bij de algemene maatregel van bestuur, bedoeld in het eerste lid, onder *b* en *c,* te stellen nadere eisen van medische en verpleegkundige aard is voldaan.   
 
 ### Artikel  7  
@@ -114,7 +114,7 @@ Vervallen.
 ### Artikel  14a  
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.   
-2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 
 ### Artikel  15  
 
@@ -138,7 +138,7 @@ Het ziekenhuis of de kliniek waar behandelingen, gericht op het afbreken van zwa
 ### Artikel  19  
 
 1.  De in de artikelen 15, 16, eerste en derde lid, 17 en 18 strafbaar gestelde feiten zijn overtredingen.   
-2.  Met de opsporing van de in het vorige lid bedoelde strafbare feiten zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de geneeskundige hoofdinspecteur en inspecteurs van het Staatstoezicht op de volksgezondheid, alsmede de aan dezen toegevoegde ambtenaren.   
+2.  Met de opsporing van de in het vorige lid bedoelde strafbare feiten zijn, behalve de ambtenaren bedoeld in artikel 141 van het Wetboek van Strafvordering, belast de geneeskundige hoofdinspecteur en inspecteurs van het Staatstoezicht op de volksgezondheid, alsmede de aan dezen toegevoegde ambtenaren.   
 
 ### Artikel  19a  
 
@@ -155,4 +155,4 @@ Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,–
 1.  Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba met inachtneming van dit artikel.   
 2.  In afwijking van artikel 6, eerste lid, onder d, geschiedt de tariefstelling door een door Onze Minister aan te wijzen orgaan.   
 3.  In afwijking van artikel 6, eerste lid, onder f, laat de rechtspersoon de jaarrekening onderzoeken met het oog op het verkrijgen van een verklaring als bedoeld in artikel 121, eerste lid, van Boek 2 van het Burgerlijk Wetboek BES.   
-4.  In afwijking van artikel 19, tweede lid, wordt in plaats van « [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) » gelezen: artikel 184 van het Wetboek van Strafvordering BES.   
+4.  In afwijking van artikel 19, tweede lid, wordt in plaats van « artikel 141 van het Wetboek van Strafvordering » gelezen: artikel 184 van het Wetboek van Strafvordering BES.   

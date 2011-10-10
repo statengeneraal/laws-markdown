@@ -135,7 +135,9 @@ e. Wet op de geneesmiddelenvoorziening BES;
 
 f. Wet organisatie bloedvoorziening BES;  
 
-g. Wet zorginstellingen BES;     
+g. Wet zorginstellingen BES;  
+
+h. Wet afbreking zwangerschap.     
 3.  Het Staatstoezicht op de Volksgezondheid oefent in de openbare lichamen Bonaire, Sint Eustatius en Saba zijn taken uit met inachtneming van de rechten, plichten en bevoegdheden, genoemd in de Hoofdstukken 3, 4 en 5 van de Wet Inspectie voor de Volksgezondheid BES, zoals die luidde op 1 januari 2011.   
 
 ### §  3  
