@@ -8,7 +8,7 @@
 
 ### Artikel  1  
 
-De in deze paragraaf vastgestelde begripsbepalingen zijn mede van toepassing op de uit kracht van dit besluit gegeven regelgeving.  
+De in deze paragraaf vastgestelde begripsbepalingen zijn mede van toepassing op de uit kracht van dit besluit gegeven regelgeving. 
 
 ### Artikel  2  
 
@@ -20,7 +20,7 @@ a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, indien de overhe
 
 b. het bestuurscollege, indien de overheidsdienaar, belanghebbende of wachtgelder in dienst van het openbaar lichaam Bonaire, Sint Eustatius of Saba is of is geweest,.    
 
-*overheidsdienaren:*  
+*overheidsdienaren:* 
 
 a. ambtenaren in de zin van de [Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), die in vaste dienst of gedurende ten minste vijf jaren onafgebroken in tijdelijke dienst werkzaam zijn geweest. Voor de berekening van de in de vorige volzin bedoelde termijn van vijf jaren wordt de tijd vóór de inwerkingtreding van dit besluit, waarin de ambtenaar in dienst was van de Nederlandse Antillen of van het eilandgebied Bonaire, Sint Eustatius of Saba, meegeteld.  
 
@@ -28,7 +28,7 @@ b. werknemers met wie een arbeidsovereenkomst naar burgerlijk recht is gesloten 
 
 *belanghebbende:*  de overheidsdienaar, bedoeld in artikel 4.  
 
-*wachtgelder:*  de belanghebbende die in het genot is gesteld van een wachtgeld.    
+*wachtgelder:*  de belanghebbende die in het genot is gesteld van een wachtgeld.   
 
 ### Artikel  3  
 
@@ -48,13 +48,13 @@ b. de tijd, gedurende welke de belanghebbende met gehele of gedeeltelijke inhoud
 
 1°. het pensioen in de zin van de [Pensioenwet ambtenaren BES](../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md);  
 
-2°.  vervallen;   
+2°. vervallen;  
 
 3°. elke ander vorm van pensioen, bedoeld voor de voorziening in de oude dag en de verzorging van weduwen, weduwnaars en wezen van overheidsdienaren en ten laste komend van de geldmiddelen van de Staat, gevestigd openbaar lichaam of van van enig door de overheid ingesteld fonds, met uitzondering van de fondsen, bedoeld in de Landsverordening Sociale Verzekeringsbank (P.B. 1960, 154); In alle gevallen met inbegrip van de daarop bij enige wettelijke bepaling verleende ander toeslagen en bijslagen.  
 
 4°. voor zover een uitkering bij wijze van pensioen, dan wel in overeenstemming met de bestaande praktijk een onderstand bij wijze van pensioen blijft of wordt toegekend, deze uitkering, onderscheidenlijk onderstand;  
 
-5°. voor zover ingevolge een wettelijke regeling aan een pensioen of een uitkering of onderstand bij wijze van pensioen een duurtetoeslag is verbonden, het betreffende pensioen, onderscheidenlijk de betreffende uitkering of onderstand tezamen met de eraan verbonden duurtetoeslag als één geheel beschouwd.      
+5°. voor zover ingevolge een wettelijke regeling aan een pensioen of een uitkering of onderstand bij wijze van pensioen een duurtetoeslag is verbonden, het betreffende pensioen, onderscheidenlijk de betreffende uitkering of onderstand tezamen met de eraan verbonden duurtetoeslag als één geheel beschouwd.     
 
 ### §  2  
 
@@ -66,7 +66,7 @@ Aan de overheidsdienaar wordt met ingang van de dag waarop het hem verleende ont
 
 – hetzij [artikel 91 van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md)  
 
-– hetzij [artikel 92, aanhef en onderdeel f, van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) met betrekking tot het ontslag op grond van ongeschiktheid voor het ambt, anders dan op grond van ziels- of lichaamsgebreken, indien het de secretaris van het openbaar lichaam Bonaire, Sint Eustatius of Saba betreft; dan wel, voor zover geen van de bovengenoemde bepalingen op hem van toepassing is, indien zulk ontslag hem verleend is om een reden welke met een van de in [artikel 91, eerste lid, van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) zoals gewijzigd genoemde redenen van ontslag overeenkomt.    
+– hetzij [artikel 92, aanhef en onderdeel f, van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) met betrekking tot het ontslag op grond van ongeschiktheid voor het ambt, anders dan op grond van ziels- of lichaamsgebreken, indien het de secretaris van het openbaar lichaam Bonaire, Sint Eustatius of Saba betreft; dan wel, voor zover geen van de bovengenoemde bepalingen op hem van toepassing is, indien zulk ontslag hem verleend is om een reden welke met een van de in [artikel 91, eerste lid, van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) zoals gewijzigd genoemde redenen van ontslag overeenkomt.   
 
 ### Artikel  5  
 
@@ -89,21 +89,21 @@ De lengte van het tijdvak gedurende welk het wachtgeld wordt genoten is afhankel
 
 ### Artikel  6  
 
-Het wachtgeld wordt gedurende de eerste 3 maanden van de wachtgeld periode, bedoeld in artikel 5, bepaald op 95% van het laatstelijk genoten inkomen, gedurende de volgende 7 maanden op 85%, gedurende de daarop volgende 10 maanden op 75% en gedurende rest van de periode op 70%.  
+Het wachtgeld wordt gedurende de eerste 3 maanden van de wachtgeld periode, bedoeld in artikel 5, bepaald op 95% van het laatstelijk genoten inkomen, gedurende de volgende 7 maanden op 85%, gedurende de daarop volgende 10 maanden op 75% en gedurende rest van de periode op 70%. 
 
 ### Artikel  7  
 
-Indien een overheidsdienaar in meer dan één betrekking in vaste dienst of gedurende ten minste vijf jaren onafgebroken in tijdelijke dienst werkzaam is geweest en hem uit een of meer, doch niet uit al deze betrekkingen eervol, doch niet op eigen verzoek en met toepassing van een van de in artikel 4 genoemde wettelijke bepalingen ontslag wordt verleend, wordt voor de vaststelling van het wachtgeld in aanmerking genomen dat gedeelte van het laatstelijk genoten inkomen, dat naar het oordeel van het bevoegd gezag dient te worden toegerekend aan de betrekking of betrekkingen waaruit het ontslag wordt verleend.  
+Indien een overheidsdienaar in meer dan één betrekking in vaste dienst of gedurende ten minste vijf jaren onafgebroken in tijdelijke dienst werkzaam is geweest en hem uit een of meer, doch niet uit al deze betrekkingen eervol, doch niet op eigen verzoek en met toepassing van een van de in artikel 4 genoemde wettelijke bepalingen ontslag wordt verleend, wordt voor de vaststelling van het wachtgeld in aanmerking genomen dat gedeelte van het laatstelijk genoten inkomen, dat naar het oordeel van het bevoegd gezag dient te worden toegerekend aan de betrekking of betrekkingen waaruit het ontslag wordt verleend. 
 
 ### Artikel  8  
 
 1.  Het verzoek tot toekenning van een wachtgeld, hierna aanvrage genoemd, wordt door de belanghebbende schriftelijk tot het bevoegd gezag gericht uiterlijk na verloop van een maand na de dag waarop het hem verleende ontslag is ingegaan.   
 2.  Het geschrift dat de aanvrage bevat is vrij van zegel of andere van overheidswege op te leggen kosten.   
-3.  De belanghebbende is verplicht alle inlichtingen en inzage van alle stukken te verschaffen, waarvan door het bevoegd gezag de kennisneming voor de behandeling van en beslissing inzake de aanvrage noodzakelijk wordt geacht.   
+3.  De belanghebbende is verplicht alle inlichtingen en inzage van alle stukken te verschaffen, waarvan door het bevoegd gezag de kennisneming voor de behandeling van en beslissing inzake de aanvrage noodzakelijk wordt geacht.  
 
 ### Artikel  9  
 
-In bijzondere gevallen, waarin de bepalingen van dit besluit geen billijke maatstaf voor de toekenning of berekening van een wachtgeld blijkt op te leveren, kan het bevoegd gezag daarin voorzien.  
+In bijzondere gevallen, waarin de bepalingen van dit besluit geen billijke maatstaf voor de toekenning of berekening van een wachtgeld blijkt op te leveren, kan het bevoegd gezag daarin voorzien. 
 
 ### §  3  
 
@@ -114,20 +114,20 @@ In bijzondere gevallen, waarin de bepalingen van dit besluit geen billijke maats
 1.  De overheidsdienaar of belanghebbende, die voornemens is een wachtgeld aan te vragen of reeds een aanvrage ingediend, maar daarop nog geen beslissing verkregen heeft, is verplicht een hem bij of na de aanzegging van het ontslag aangeboden betrekking, welke mede in verband met zijn persoonlijkheid en de omstandigheden voor hem passend kan worden geacht, te aanvaarden, tenzij voor hem binnen een jaar na de dag waarop zijn ontslag ingaat recht op pensioen zal ontstaan.   
 2.  Een gelijke verplichting bestaat voor de wachtgelder, zolang een tijdvak van meer dan een jaar hem scheidt van de dag waarop voor hem recht op pensioen zal ontstaan.   
 3.  De wachtgelder is verplicht gebruik te maken van de gelegenheid om op een wijze, die mede in verband met zijn persoonlijkheid en de omstandigheden voor hem passend kan worden geacht, inkomsten te verwerven, zolang een tijdvak van meer dan een jaar hem scheidt van de dag waarop voor hem recht op pensioen zal ontstaan.   
-4.  De wachtgelder is verplicht gevolg te geven aan een oproeping of aanwijzing van het bevoegde gezag of een door het bevoegde gezag ingeschakelde instantie van arbeidsbemiddeling, die kan leiden tot het verkrijgen van een betrekking die of ander werk dat voor hem passend kan worden geacht.   
+4.  De wachtgelder is verplicht gevolg te geven aan een oproeping of aanwijzing van het bevoegde gezag of een door het bevoegde gezag ingeschakelde instantie van arbeidsbemiddeling, die kan leiden tot het verkrijgen van een betrekking die of ander werk dat voor hem passend kan worden geacht.  
 
 ### Artikel  11  
 
 1.  De wachtgelder is verplicht van het ter hand nemen van enige arbeid of bedrijf terstond mededeling te doen aan het bevoegd gezag, onder opgave, voor zoveel mogelijk, van de inkomsten die hij uit de werkzaamheden zal verwerven.   
-2.  Indien de inkomsten niet vooraf kunnen worden opgegeven of van dien aard zijn, dat zij over een langere termijn moeten worden berekend vóór het verschijnen van de eerst-mogelijke uitbetalingstermijn van zijn wachtgeld opgave van de inkomsten die hij sedert het ter hand nemen van de werkzaamheden of sedert de vorige opgave heeft verworven.   
+2.  Indien de inkomsten niet vooraf kunnen worden opgegeven of van dien aard zijn, dat zij over een langere termijn moeten worden berekend vóór het verschijnen van de eerst-mogelijke uitbetalingstermijn van zijn wachtgeld opgave van de inkomsten die hij sedert het ter hand nemen van de werkzaamheden of sedert de vorige opgave heeft verworven.  
 
 ### Artikel  12  
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor zover het de wachtgelders betreft die ten laste van de staat een wachtgeld genieten, en het Bestuurscollege van het openbaar lichaam Bonaire, Sint Eustatius of Saba, voor zover het de wachtgelders betreft die ten laste van dat openbaar lichaam een wachtgeld genieten, kunnen nadere algemene en bijzondere voorschriften geven aangaande het tijdstip en de wijze waarop mededelingen als in het voorgaande artikel bedoeld dienen te worden verschaft en aangaande de aangelegenheden waarop zij betrekking dienen te hebben.  
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor zover het de wachtgelders betreft die ten laste van de staat een wachtgeld genieten, en het Bestuurscollege van het openbaar lichaam Bonaire, Sint Eustatius of Saba, voor zover het de wachtgelders betreft die ten laste van dat openbaar lichaam een wachtgeld genieten, kunnen nadere algemene en bijzondere voorschriften geven aangaande het tijdstip en de wijze waarop mededelingen als in het voorgaande artikel bedoeld dienen te worden verschaft en aangaande de aangelegenheden waarop zij betrekking dienen te hebben. 
 
 ### Artikel  13  
 
-De belanghebbende die een wachtgeld aanvaardt, wordt geacht door deze aanvaarding erin toe te stemmen dat allen die daarvoor naar het oordeel van het bevoegd gezag in aanmerking komen alle op hem betrekking hebbende inlichtingen geven, welke voor de uitvoering van dit besluit noodzakelijk zijn.  
+De belanghebbende die een wachtgeld aanvaardt, wordt geacht door deze aanvaarding erin toe te stemmen dat allen die daarvoor naar het oordeel van het bevoegd gezag in aanmerking komen alle op hem betrekking hebbende inlichtingen geven, welke voor de uitvoering van dit besluit noodzakelijk zijn. 
 
 ### Artikel  14  
 
@@ -135,7 +135,7 @@ De belanghebbende die een wachtgeld aanvaardt, wordt geacht door deze aanvaardin
 2.  De wachtgelder behoeft toestemming van het bevoegd gezag om zich met behoud van wachtgeld buiten het Koninkrijk te vestigen. Zulk een toestemming, betrekking hebbend op een bepaald land of op bepaalde landen, kan ook ambtshalve bij algemene kennisgeving worden verleend.   
 3.  De wachtgelder stelt het bevoegd gezag tijdig van elke wijziging van zijn woon- of verblijfplaats in kennis. Indien hij zich buiten Nederland vestigt, doet hij aan het bevoegd gezag tijdig opgave van de wijze waarop betaling van het wachtgeld binnen het openbaar lichaam Bonaire, Sint Eustatius of Saba te zijnen name kan geschieden.   
 4.  De kosten die het bevoegd gezag rederlijkerwijs moet maken om buiten Nederland inlichtingen als in artikel 13 bedoeld in te winnen, komen ten laste van de wachtgelder en worden op zijn wachtgeld in mindering gebracht.   
-5.  Het bepaalde in dit artikel is van overeenkomstige toepassing op de toeslag op het wachtgeld, bedoeld in de artikelen 15 en 20.   
+5.  Het bepaalde in dit artikel is van overeenkomstige toepassing op de toeslag op het wachtgeld, bedoeld in de artikelen 15 en 20.  
 
 ### §  4  
 
@@ -145,19 +145,19 @@ De belanghebbende die een wachtgeld aanvaardt, wordt geacht door deze aanvaardin
 
 1.  Geen wachtgeld wordt toegekend aan de belanghebbende die als overheidsdienaar niet voldaan heeft aan de ingevolge artikel 10, eerste lid, op hem rustende verplichting, tenzij hij aantoont dat het inkomen dat hij uit de hem aangeboden betrekking zou hebben verworven tenminste 10% lagere zou zijn geweest dan dat hetwelk hij genoot uit betrekking waaruit hij ontslagen is. In het laatste geval wordt hem een wachtgeld toegekend waarop het inkomen dat hij uit de hem aangeboden betrekking zou hebben verworven in mindering gebracht.   
 2.  Als de belanghebbende als overheidsdienaar wel heeft voldaan aan de ingevolge artikel 10, eerste lid, op hem rustende verplichting, en een betrekking heeft aanvaard als bedoeld in het eerste lid, of een andere gelegenheid tot verwerving van inkomsten heeft verkregen, wordt hem wachtgeld toegekend, met in achtneming van het bepaalde in artikel 20.   
-3.  Als de betrekking of andere gelegenheid tot verwerving van inkomsten, bedoeld in het eerste lid, een arbeidsduur van gemiddeld ten minste 36 uur per week en een looptijd van ten minste drie maanden heeft en verkregen is door toedoen van belanghebbende zelf,wordt hem gedurende de voor hem geldende wachtperiode, bedoeld in artikel 5, niettegenstaande het bepaalde in het tweede lid, naast het wachtgeld een maandelijkse toeslag toegekend gelijk aan 25% van het laatstelijk als ambtnaar genoten inkomen. Het bepaalde en eerste volzin is niet van toepassing, indien het gaat om een plaatsing, herplaatsing of terbeschikkingstelling, bedoeld in artikel 29. Indien de betrekking of de andere gelegenheid tot verwerving van inkomsten een bepaalde looptijd heeft, vervalt de toeslag van rechtswege na ommekomst van die looptijd, tenzij sprake is van een direct aansluitende verlenging daarvan met een looptijd van ten minste drie maanden of van een direct aansluitende andere betrekking of andere gelegenheid tot verwerven van inkomsten met een arbeidsduur van gemiddeld ten minste 36 uren per week en een looptijd van ten minste drie maanden.   
+3.  Als de betrekking of andere gelegenheid tot verwerving van inkomsten, bedoeld in het eerste lid, een arbeidsduur van gemiddeld ten minste 36 uur per week en een looptijd van ten minste drie maanden heeft en verkregen is door toedoen van belanghebbende zelf,wordt hem gedurende de voor hem geldende wachtperiode, bedoeld in artikel 5, niettegenstaande het bepaalde in het tweede lid, naast het wachtgeld een maandelijkse toeslag toegekend gelijk aan 25% van het laatstelijk als ambtnaar genoten inkomen. Het bepaalde en eerste volzin is niet van toepassing, indien het gaat om een plaatsing, herplaatsing of terbeschikkingstelling, bedoeld in artikel 29. Indien de betrekking of de andere gelegenheid tot verwerving van inkomsten een bepaalde looptijd heeft, vervalt de toeslag van rechtswege na ommekomst van die looptijd, tenzij sprake is van een direct aansluitende verlenging daarvan met een looptijd van ten minste drie maanden of van een direct aansluitende andere betrekking of andere gelegenheid tot verwerven van inkomsten met een arbeidsduur van gemiddeld ten minste 36 uren per week en een looptijd van ten minste drie maanden.  
 
 ### Artikel  16  
 
-Geen wachtgeld wordt toegekend aan de belanghebbende die weigert of nalaat de inlichtingen en de inzage van stukken te verschaffen, welke hem door het bevoegd gezag ingevolge artikel 8, derde lid, gevraagd zijn.  
+Geen wachtgeld wordt toegekend aan de belanghebbende die weigert of nalaat de inlichtingen en de inzage van stukken te verschaffen, welke hem door het bevoegd gezag ingevolge artikel 8, derde lid, gevraagd zijn. 
 
 ### Artikel  17  
 
-Geen wachtgeld wordt toegekend aan de belanghebbende die binnen een maand na de dag waarop hij zijn aanvrage heeft ingediend komt te verkeren in omstandigheden welke ingevolge artikel 27 een grond tot intrekking van wachtgeld opleveren.  
+Geen wachtgeld wordt toegekend aan de belanghebbende die binnen een maand na de dag waarop hij zijn aanvrage heeft ingediend komt te verkeren in omstandigheden welke ingevolge artikel 27 een grond tot intrekking van wachtgeld opleveren. 
 
 ### Artikel  18  
 
-Indien de belanghebbende zijn aanvrage indient na het verstrijken van de termijn, genoemd in artikel 8, eerste lid, of het verschaffen van de hem ingevolge het derde lid van dat artikel gevraagde inlichtingen of inzage van stukken door een aan hem toe te rekenen oorzaak vertraagd wordt, wordt het wachtgeld over elke volle kalendermaand, verlopen tussen de dag van het hem verleende ontslag en de dag van ontvangst van de aanvrage, onderscheidenlijk de inlichtingen of ter inzage aangeboden stukken, niet uitbetaald.  
+Indien de belanghebbende zijn aanvrage indient na het verstrijken van de termijn, genoemd in artikel 8, eerste lid, of het verschaffen van de hem ingevolge het derde lid van dat artikel gevraagde inlichtingen of inzage van stukken door een aan hem toe te rekenen oorzaak vertraagd wordt, wordt het wachtgeld over elke volle kalendermaand, verlopen tussen de dag van het hem verleende ontslag en de dag van ontvangst van de aanvrage, onderscheidenlijk de inlichtingen of ter inzage aangeboden stukken, niet uitbetaald. 
 
 ### Artikel  19  
 
@@ -169,41 +169,41 @@ b. metterwoon buiten Nederland gevestigd is zonder de vereiste toestemming van h
 
 c. blijkbaar nalaat het bevoegd gezag van een wijziging van woon- of verblijfplaats tijdig in kennis te stellen;  
 
-d. bij zijn vestiging buiten Nederland blijkbaar nalaat aan het bevoegd gezag tijdig opgave te doen van de wijze waarop het wachtgeld te zijnen name in het openbaar lichaam Bonaire, Sint Eustatius of Saba kan worden uitbetaald.    
+d. bij zijn vestiging buiten Nederland blijkbaar nalaat aan het bevoegd gezag tijdig opgave te doen van de wijze waarop het wachtgeld te zijnen name in het openbaar lichaam Bonaire, Sint Eustatius of Saba kan worden uitbetaald.   
 
 ### Artikel  20  
 
 1.  Indien de wachtgelder ter voldoening aan een van de verplichtingen, hem bij artikel 10 opgelegd, een hem aangeboden betrekking heeft aanvaard of van een andere gelegenheid tot verwerving van inkomsten gebruik heeft gemaakt, wordt op het wachtgeld in mindering gebracht het bedrag waarmede de som van het wachtgeld en de aldus verworven inkomsten het laatstelijk genoten inkomen overschrijdt. Als betrekking of de andere gelegenheid tot verwerving van inkomsten, bedoeld in het eerste lid, een arbeidsduur van gemiddeld ten minste 36 uren per week en een looptijd van ten minste drie maanden heeft en is verkregen door toedoen van de wachtgelder zelf heeft hij gedurende de voor hem resterende wachtgeld-periode, bedoeld in artikel 5 niettegenstaande het bepaalde in de eerste volzin, naast het wachtgeld recht op maandelijkse toeslag gelijk aan 25% van het laatstelijk genoten inkomen. Het bepaalde in de tweede volzin is niet van toepassing, indien het gaat om een plaatsing, herplaatsing of terbeschikkingstelling, bedoeld in artikel 29. Indien de betrekking of de andere gelegenheid tot verwerving van inkomsten een bepaalde looptijd heeft, vervalt de toeslag van rechtswege na ommekomst van die looptijd, tenzij sprake is van een direct aansluitende verlenging daarvan met een omlooptijd van ten minste drie maanden of van een direct aansluitende andere betrekking of andere gelegenheid tot het verwerven van inkomsten met een arbeidsduur van gemiddeld ten minste 36 uren per week en een looptijd van ten minste drie maanden.   
 2.  De verrekening geschiedt telkens over de maand waarop de inkomsten betrekking hebben. Indien de inkomsten van dien aard zijn, dat zij over een langere termijn moeten worden berekend, wordt op het wachtgeld een vermindering van een voorlopig vastgesteld bedrag toegepast onder voorbehoud van definitieve verrekening aan het einde van de langere termijn.   
-3.  Indien de arbeid of het bedrijf waaruit de wachtgelder inkomsten verwerft reeds vóór de dag van het ontslag uit de dienst door hem ter hand genomen is, zijn op die inkomsten het eerste en het tweede lid van toepassing, tenzij hij aannemelijk maakt dat zij geen verband houden met het hem verleende ontslag en evenmin op of na de dag van het ontslag aanmerkelijk zijn toegenomen.   
+3.  Indien de arbeid of het bedrijf waaruit de wachtgelder inkomsten verwerft reeds vóór de dag van het ontslag uit de dienst door hem ter hand genomen is, zijn op die inkomsten het eerste en het tweede lid van toepassing, tenzij hij aannemelijk maakt dat zij geen verband houden met het hem verleende ontslag en evenmin op of na de dag van het ontslag aanmerkelijk zijn toegenomen.  
 
 ### Artikel  21  
 
-Indien de wachtgelder niet aan de verplichtingen, hem bij het tweede en derde lid van artikel 10 opgelegd, voldoet, of inkomsten als bedoeld in het voorgaande artikel zonder voldoende reden prijs geeft dan wel door eigen schuld of toedoen verloren doet gaan, worden op het wachtgeld in mindering gebracht de inkomsten die hij zou hebben kunnen verwerven door niet aldus te verzuimen, prijs te geven of verloren te doen gaan. De in artikel 20, eerste lid, tweede volzin, genoemd toeslag is alsdan niet van toepassing. Het tweede lid van het voorgaande artikel is van overeenkomstige toepassing.  
+Indien de wachtgelder niet aan de verplichtingen, hem bij het tweede en derde lid van artikel 10 opgelegd, voldoet, of inkomsten als bedoeld in het voorgaande artikel zonder voldoende reden prijs geeft dan wel door eigen schuld of toedoen verloren doet gaan, worden op het wachtgeld in mindering gebracht de inkomsten die hij zou hebben kunnen verwerven door niet aldus te verzuimen, prijs te geven of verloren te doen gaan. De in artikel 20, eerste lid, tweede volzin, genoemd toeslag is alsdan niet van toepassing. Het tweede lid van het voorgaande artikel is van overeenkomstige toepassing. 
 
 ### Artikel  21a  
 
-Indien de wachtgelder zonder geldige reden niet voldoet aan de hem bij het vierde lid van artikel 10 opgelegde verplichting, kan de wachtgeld door het bevoegde gezag geheel of gedeeltelijk worden ingetrokken.  
+Indien de wachtgelder zonder geldige reden niet voldoet aan de hem bij het vierde lid van artikel 10 opgelegde verplichting, kan de wachtgeld door het bevoegde gezag geheel of gedeeltelijk worden ingetrokken. 
 
 ### Artikel  22  
 
-Het bevoegd gezag kan bij de vaststelling van het bedrag dat op een wachtgeld in mindering dient te worden gebracht afwijken van de door de wachtgelder zelf verstrekte opgave van zijn inkomsten, onderscheidenlijk van de inkomsten die hij zou hebben verworven indien hij zich niet in de in het voorgaande artikel bedoelde omstandigheden had gesteld, ingeval er aanleiding is om deze opgave als onjuist of onvolledig te beschouwen.  
+Het bevoegd gezag kan bij de vaststelling van het bedrag dat op een wachtgeld in mindering dient te worden gebracht afwijken van de door de wachtgelder zelf verstrekte opgave van zijn inkomsten, onderscheidenlijk van de inkomsten die hij zou hebben verworven indien hij zich niet in de in het voorgaande artikel bedoelde omstandigheden had gesteld, ingeval er aanleiding is om deze opgave als onjuist of onvolledig te beschouwen. 
 
 ### Artikel  23  
 
-Geldelijke aanspraken uit hoofde van arbeidsongeschiktheid, door de wachtgelder op of na de dag waarop zijn ontslag uit de dienst is ingegaan verworven, worden voor de toepassing van deze paragraaf beschouwd als inkomsten in de zin van artikel 20.  
+Geldelijke aanspraken uit hoofde van arbeidsongeschiktheid, door de wachtgelder op of na de dag waarop zijn ontslag uit de dienst is ingegaan verworven, worden voor de toepassing van deze paragraaf beschouwd als inkomsten in de zin van artikel 20. 
 
 ### Artikel  24  
 
-Indien de inkomsten, als bedoeld in artikel 20, worden of kunnen worden vermeerderd met een kindertoelage, wordt deze in mindering gebracht op de toelage bedoeld in artikel 33.  
+Indien de inkomsten, als bedoeld in artikel 20, worden of kunnen worden vermeerderd met een kindertoelage, wordt deze in mindering gebracht op de toelage bedoeld in artikel 33. 
 
 ### Artikel  25  
 
-Van vergoedingen terzake van de premies, verschuldigd uit hoofde van de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), wordt voor de toepassing van deze paragraaf hetzelfde percentage buiten beschouwing gelaten, als het wachtgeld ten opzichte van het laatstelijk genoten inkomen geringer is.  
+Van vergoedingen terzake van de premies, verschuldigd uit hoofde van de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), wordt voor de toepassing van deze paragraaf hetzelfde percentage buiten beschouwing gelaten, als het wachtgeld ten opzichte van het laatstelijk genoten inkomen geringer is. 
 
 ### Artikel  26  
 
-Onverminderd het bepaalde bij artikel 21 kan het wachtgeld door het bevoegd gezag worden ingetrokken, indien een wachtgelder bij herhaling een hem aangeboden betrekking, welke mede in verband met zijn persoonlijkheid of de omstandigheden voor hem passend worden geacht, weigert te aanvaarden.  
+Onverminderd het bepaalde bij artikel 21 kan het wachtgeld door het bevoegd gezag worden ingetrokken, indien een wachtgelder bij herhaling een hem aangeboden betrekking, welke mede in verband met zijn persoonlijkheid of de omstandigheden voor hem passend worden geacht, weigert te aanvaarden. 
 
 ### Artikel  27  
 
@@ -212,7 +212,7 @@ Onverminderd het bepaalde bij artikel 21 kan het wachtgeld door het bevoegd geza
 a. binnen een jaar na de dag waarop het aan de betrokkene verleende ontslag is ingegaan bij onherroepelijk geworden beslissing komt vast te staan dat deze zich als overheidsdienaar in zijn betrekking zodanig heeft gedragen, dat hem daaruit ontslag zonder het predikaat «eervol» zou zijn verleend, indien van zijn gedragingen eerder was gebleken;  
 
 b. de wachtgelder opzettelijk onjuiste gegevens als bedoeld in de artikelen 8, 11 of 12 verschaft heeft.     
-2.  In het geval, bedoeld in het voorgaande lid onder b, wordt van de wachtgelder teruggevorderd het gedeelte van hem reeds uitgekeerde wachtgelden dat hem niet zou zijn toegekend, indien hij de onjuiste gegevens niet had verschaft.   
+2.  In het geval, bedoeld in het voorgaande lid onder b, wordt van de wachtgelder teruggevorderd het gedeelte van hem reeds uitgekeerde wachtgelden dat hem niet zou zijn toegekend, indien hij de onjuiste gegevens niet had verschaft.  
 
 ### §  5  
 
@@ -220,16 +220,16 @@ b. de wachtgelder opzettelijk onjuiste gegevens als bedoeld in de artikelen 8, 1
 
 ### Artikel  28  
 
-Ingeval ten tijde dat het ontslag uit de dienst ingaat door de belanghebbende een uitkering als bedoeld in [artikel 39 van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) wordt genoten, wordt het wachtgeld toegekend en vangt de wachtgeld-periode aan met ingang van de dag volgend op die waarop de uitkering eindigt.  
+Ingeval ten tijde dat het ontslag uit de dienst ingaat door de belanghebbende een uitkering als bedoeld in [artikel 39 van het Rechtspositiebesluit ambtenaren BES](../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) wordt genoten, wordt het wachtgeld toegekend en vangt de wachtgeld-periode aan met ingang van de dag volgend op die waarop de uitkering eindigt. 
 
 ### Artikel  29  
 
 1.  Indien de wachtgelder voor een korte tijd, wordt geplaatst of herplaatst in of ter beschikking gesteld om werkzaam te zijn in openbare dienst op Bonaire, Sint Eustatius of Saba of voor de dienst van een door een openbaar lichaam in het leven geroepen en op grond van zijn doelstelling en in financieel opzicht tot zulk een lichaam in een bijzondere verhouding staande rechtspersoon, wordt op zijn daartoe strekkend schriftelijk verzoek het op de aanvangsdag van de plaatsing, herplaatsing of terbeschikkingstelling nog overblijvende gedeelte van de wachtgeldperiode voor de duur daarvan opgeschort.   
-2.  onder de korte tijd, bedoeld in de voorgaande lid, wordt verstaan een tijdvak dat niet langer is dan het gedeelte van de wachtgeld-periode dat voor de wachtgelder op de dag van de plaatsing, herplaatsing of terbeschikkingstelling nog over is, en dat niet door een nieuwe wachtgeld-periode wordt gevolgd.   
+2.  onder de korte tijd, bedoeld in de voorgaande lid, wordt verstaan een tijdvak dat niet langer is dan het gedeelte van de wachtgeld-periode dat voor de wachtgelder op de dag van de plaatsing, herplaatsing of terbeschikkingstelling nog over is, en dat niet door een nieuwe wachtgeld-periode wordt gevolgd.  
 
 ### Artikel  30  
 
-Ten aanzien van de belanghebbende die zich ingevolge wettelijke verplichting als militair in werkelijke dienst bevindt of moet begeven, wordt op zijn daartoe strekkend schriftelijk verzoek de wachtgeld-periode of het op de dag van zijn intreding in werkelijke dienst nog overblijvende gedeelte van de wachtgeld-periode voor de duur daarvan opgeschort.  
+Ten aanzien van de belanghebbende die zich ingevolge wettelijke verplichting als militair in werkelijke dienst bevindt of moet begeven, wordt op zijn daartoe strekkend schriftelijk verzoek de wachtgeld-periode of het op de dag van zijn intreding in werkelijke dienst nog overblijvende gedeelte van de wachtgeld-periode voor de duur daarvan opgeschort. 
 
 ### §  6  
 
@@ -243,11 +243,11 @@ a. met ingang van de dag waarop voor de belanghebbende recht ontstaat op een pen
 
 b. met ingang van de dag waarop hij op grond van [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) recht heeft op ouderdomspensioen;  
 
-c. met ingang van de dag volgende op die waarop de belanghebbende is overleden.    
+c. met ingang van de dag volgende op die waarop de belanghebbende is overleden.   
 
 ### Artikel  32  
 
-De aanspraak op wachtgeld vervalt, wanneer niet binnen twee jaren na de dag waarop de aanspraak is ontstaan de aanvrage, bedoeld in artikel 8, aan het bevoegd gezag gericht is.  
+De aanspraak op wachtgeld vervalt, wanneer niet binnen twee jaren na de dag waarop de aanspraak is ontstaan de aanvrage, bedoeld in artikel 8, aan het bevoegd gezag gericht is. 
 
 ### §  7  
 
@@ -257,30 +257,30 @@ De aanspraak op wachtgeld vervalt, wanneer niet binnen twee jaren na de dag waar
 
 1.  Indien en zolang de belanghebbende wachtgeld ontvangt, wordt hem op de voet van de ter zake voor hem geldende wettelijke bepalingen een kindertoelage uitgekeerd.   
 2.  Voor het vaststellen van het bedrag van de kindertoelage wordt uitgegaan van het loon of de bezoldiging welke voor de belanghebbende onmiddellijk voorafgaand aan de dag van zijn ontslag uit de dienst daarvoor in aanmerking is genomen of zou zijn genomen, indien hij te dien tijde in de omstandigheden had verkeerd waarop hij als wachtgelder zijn aanspraak op een kindertoelage grondt.   
-3.  De belanghebbende die elders een kindertoelage, onder welke benaming ook, ontvangt of kan ontvangen, is verplicht daarvan het bevoegd gezag in kennis te stellen, onder opgave, voor zoveel mogelijk, van het bedrag van de toelage.   
+3.  De belanghebbende die elders een kindertoelage, onder welke benaming ook, ontvangt of kan ontvangen, is verplicht daarvan het bevoegd gezag in kennis te stellen, onder opgave, voor zoveel mogelijk, van het bedrag van de toelage.  
 
 ### Artikel  35  
 
 1.  Zo spoedig mogelijk na het overlijden van de wachtgelder of van de belanghebbende aan wie een wachtgeld zou zijn toegekend indien hij in het leven was gebleven, wordt door het bevoegd gezag aan de weduwe of weduwnaar een geldsbedrag uitgekeerd gelijk aan driemaal het wachtgeld waarop betrokkene op het tijdstip van zijn overlijden aanspraak had, vermeerderd met de hem te dien tijde toekomende kindertoelage.   
 2.  Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarig wettige of natuurlijke kinderen ten aanzien van wie met de overledene familierechtelijke betrekkingen bestaan. Ontbreken ook zodanige kinderen, dan geschiedt de uitbetaling, indien de overledene kostwinner was van ouders, broeders, zusters, meerderjarige kinderen of stiefkinderen, ten behoeve van deze betrekkingen.   
-3.  Laat de overledene evenmin betrekkingen als bedoeld in het tweede lid na, dan wordt het in het eerste lid bedoelde bedrag geheel of ten dele aangewend voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging.   
+3.  Laat de overledene evenmin betrekkingen als bedoeld in het tweede lid na, dan wordt het in het eerste lid bedoelde bedrag geheel of ten dele aangewend voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging.  
 
 ### Artikel  36  
 
-Op het wachtgeld zijn de bepalingen van [hoofdstuk III van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) ook dan van toepassing, wanneer de wachtgelder geen ambtenaar in de zin van [die wet](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is geweest.  
+Op het wachtgeld zijn de bepalingen van [hoofdstuk III van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) ook dan van toepassing, wanneer de wachtgelder geen ambtenaar in de zin van [die wet](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) is geweest. 
 
 ### Artikel  37  
 
-In alle gevallen waarin door het bevoegd gezag ingevolge dit besluit, al dan niet op verzoek, een voor de betrokkene geheel of gedeeltelijk belastende of afwijzende beschikking genomen moet worden met betrekking tot de toekenning, betaalbaarstelling, vermindering, niet-uitbetaling of intrekking van een wachtgeld of een daarmede in verband staande aangelegenheid, geschiedt zulks bij met redenen omklede beschikking.  
+In alle gevallen waarin door het bevoegd gezag ingevolge dit besluit, al dan niet op verzoek, een voor de betrokkene geheel of gedeeltelijk belastende of afwijzende beschikking genomen moet worden met betrekking tot de toekenning, betaalbaarstelling, vermindering, niet-uitbetaling of intrekking van een wachtgeld of een daarmede in verband staande aangelegenheid, geschiedt zulks bij met redenen omklede beschikking. 
 
 ### Artikel  38  
 
-De belanghebbende die het wachtgeld aanvaardt, wordt daardoor niet geacht van de aanspraak op een hoger bedrag aan wachtgeld of een langere wachtgeld-periode afstand te hebben gedaan.  
+De belanghebbende die het wachtgeld aanvaardt, wordt daardoor niet geacht van de aanspraak op een hoger bedrag aan wachtgeld of een langere wachtgeld-periode afstand te hebben gedaan. 
 
 ### Artikel  39  
 
 1.  Over de beschikkingen, handelingen en weigeringen om te beschikken of te handelen ten aanzien van belanghebbenden, hun nagelaten betrekkingen en rechtverkrijgenden, verband houdende met een aanspraak of vermeende aanspraak op wachtgeld, oordeelt bij uitsluiting in eerste aanleg het gerecht in ambtenarenzaken, zulks ook dan wanneer de bezwaarde geen ambtenaar in de zin van de Wet ambtenarenrechtspraak BES is.   
-2.  De bepalingen van de in het voorgaande lid genoemde wet zijn zoveel mogelijk van overeenkomstige toepassing.   
+2.  De bepalingen van de in het voorgaande lid genoemde wet zijn zoveel mogelijk van overeenkomstige toepassing.  
 
 ### Artikel  40  
 
@@ -288,11 +288,11 @@ De belanghebbende die het wachtgeld aanvaardt, wordt daardoor niet geacht van de
 2.  Hij die de bij het voorgaande lid opgelegde geheimhouding opzettelijk schendt, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van ten hoogste 335,20 USD.   
 3.  Hij aan wiens schuld schending van die geheimhouding te wijten is wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van ten hoogste 167,60 USD.   
 4.  Geen vervolging heeft plaats dan op klachte van hem, te wiens aanzien de geheimhouding is geschonden.   
-5.  De in dit artikel bedoelde strafbare feiten worden als misdrijven beschouwd.   
+5.  De in dit artikel bedoelde strafbare feiten worden als misdrijven beschouwd.  
 
 ### Artikel  41  
 
-Indien ingevolge een wettelijke bepaling de aanspraak van de belanghebbende op een vakantie-uitkering of de aanspraak daarop van de groep van overheidsdienaren waartoe de belanghebbende behoord zou hebben indien hij nog in dienst zou zijn, voor een bepaald tijdvak buiten werking gesteld is, wordt tot aan het einde van dat tijdvak het aan de belanghebbende toe te kennen wachtgeld berekend over het laatstelijk door hem genoten inkomen zonder de vakantie-uitkering. Na het einde van het bedoelde tijdvak wordt voor de berekening van het wachtgeld het laatstelijk door hem genoten inkomen met inbegrip van de vakantie-uitkering, waarop de belanghebbende aanspraak had of gehad zou hebben indien zij niet tijdelijk buiten werking was gesteld, in aanmerking genomen.  
+Indien ingevolge een wettelijke bepaling de aanspraak van de belanghebbende op een vakantie-uitkering of de aanspraak daarop van de groep van overheidsdienaren waartoe de belanghebbende behoord zou hebben indien hij nog in dienst zou zijn, voor een bepaald tijdvak buiten werking gesteld is, wordt tot aan het einde van dat tijdvak het aan de belanghebbende toe te kennen wachtgeld berekend over het laatstelijk door hem genoten inkomen zonder de vakantie-uitkering. Na het einde van het bedoelde tijdvak wordt voor de berekening van het wachtgeld het laatstelijk door hem genoten inkomen met inbegrip van de vakantie-uitkering, waarop de belanghebbende aanspraak had of gehad zou hebben indien zij niet tijdelijk buiten werking was gesteld, in aanmerking genomen. 
 
 ### §  7a  
 
@@ -307,7 +307,7 @@ Indien ingevolge een wettelijke bepaling de aanspraak van de belanghebbende op e
 
 a. Opzettelijk onvolledige of onjuiste gegevens heeft verstrekt, die hebben geleid tot een beslissing van het bevoegde gezag, welke dat gezag anders niet genomen zou hebben;  
 
-b. opzettelijk handelt of nalaat in strijd met de bij of krachtens dit artikel aan hem opgelegde verplichtingen, waaronder begrepen het niet of niet voldoende mee werken aan het toezicht vanwege bevoegde gezag.     
+b. opzettelijk handelt of nalaat in strijd met de bij of krachtens dit artikel aan hem opgelegde verplichtingen, waaronder begrepen het niet of niet voldoende mee werken aan het toezicht vanwege bevoegde gezag.    
 
 ### §  8  
 
@@ -315,20 +315,20 @@ b. opzettelijk handelt of nalaat in strijd met de bij of krachtens dit artikel a
 
 ### Artikel  41b  
 
-Dit besluit berust op [artikel 99 van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op [artikel 99 van de Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md). 
 
 ### Artikel  42  
 
-Dit besluit wordt aangehaald als: Wachtgeldbesluit overheidsdienaren BES.  
+Dit besluit wordt aangehaald als: Wachtgeldbesluit overheidsdienaren BES. 
 
 ### Artikel  43  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  44  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  45  
 
-[vervallen]  
+[vervallen] 

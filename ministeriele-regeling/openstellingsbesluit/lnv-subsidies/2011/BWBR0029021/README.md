@@ -13,13 +13,13 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-– *FAB-randen:* randen op productiepercelen gericht op het aantrekken van natuurlijke vijanden ten behoeve van natuurlijke plaagbeheersing in het naastgelegen gewas, bestaande uit enkel en alleen FAB-planten;  
+– *FAB-randen:* randen op productiepercelen gericht op het aantrekken van natuurlijke vijanden ten behoeve van natuurlijke plaagbeheersing in het naastgelegen akkerbouwgewas, met uitzondering van snijmaïs, bestaande uit enkel en alleen FAB-planten;  
 
 – *FAB-planten:* eenjarige of meerjarige bloemen en kruiden, bruikbaar voor het aantrekken van natuurlijke vijanden;  
 
 – *Minister:* Minister van Economische Zaken, Landbouw en Innovatie  
 
-– 
+–  *monitoring:*  
 
 a. registratie van de bewerkingen en omschrijving van de ten behoeve van de aanleg en onderhoud van de FAB-rand uitgevoerde werkzaamheden, en  
 
@@ -50,7 +50,7 @@ b. registratie van de gegevens van toepassing van gewasbeschermingsmiddelen gere
 – titel 6, met uitzondering van de subsidies genoemd in paragraaf 1 en 3;  
 
 – titel 7.     
-2.  De subsidies, bedoeld in [artikel 1:3, derde lid van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), zijn de subsidies bedoeld in de volgende hoofdstukken en titels van dit besluit: 
+2.  De subsidies, bedoeld in [artikel 1:3, vijfde lid van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), zijn de subsidies bedoeld in de volgende hoofdstukken en titels van dit besluit: 
 
 – hoofdstuk 2, titel 1 t/m 9;  
 
@@ -154,13 +154,13 @@ d. de kennis en ervaring effectiever worden verspreid.
 ### Artikel  15  
 
 1.  De subsidie bedraagt voor aanvragen om subsidie als bedoeld in artikel 13, eerste lid, 80% van de subsidiabele kosten en ten hoogste € 40.000.   
-2.  De subsidie bedraagt voor aanvragen om subsidie als bedoeld in artikel 13, tweede lid, 70% van de subsidiabele kosten, en bedraagt ten minste € 100.000 en ten hoogste € 500.000.   
+2.  De subsidie bedraagt voor aanvragen om subsidie als bedoeld in artikel 13, tweede lid, 70% van de subsidiabele kosten, en bedraagt ten minste € 100.000 en ten hoogste € 250.000.   
 
 ### Artikel  16  
 
 Het subsidieplafond bedraagt: 
 
-a. voor aanvragen om subsidie als bedoeld in artikel 13, eerste lid, € 1.000.000;  
+a. voor aanvragen om subsidie als bedoeld in artikel 13, eerste lid, € 2.000.000;  
 
 b. voor aanvragen om subsidie als bedoeld in artikel 13, tweede lid, € 3.600.000.    
 
@@ -175,8 +175,8 @@ b. voor aanvragen om subsidie als bedoeld in artikel 13, tweede lid, € 3.600.
 ### Artikel  18  
 
 1.  Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in [artikel 2:14, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend voor projecten die betrekking hebben op het thema functionele agrobiodiversiteit als bedoeld in [artikel 2:15, eerste lid, onderdeel o, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), voor zover deze projecten gericht zijn op het bevorderen van natuurlijke plaagbestrijding door middel van FAB-randen.   
-2.  De aanvragen, bedoeld in het eerste lid, kunnen uitsluitend worden ingediend door landbouwondernemingen, in een samenwerkingsverband van ten minste 100 landbouwondernemingen.   
-3.  De aanvragen, bedoeld in het eerste lid, kunnen worden ingediend in de periode van 17 januari 2011 tot en met 31 januari 2011.   
+2.  De aanvragen, bedoeld in het eerste lid, kunnen uitsluitend worden ingediend door landbouwondernemingen, in een samenwerkingsverband van ten minste 50 landbouwondernemingen.   
+3.  De aanvragen, bedoeld in het eerste lid, kunnen worden ingediend in de periode van 17 januari 2011 tot en met 31 januari 2011 of in de periode van 1 november 2011 tot en met 15 november 2011.   
 4.  Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in [artikel 2:14, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen ook worden ingediend voor projecten die betrekking hebben op de thema’s, bedoeld in [artikel 2:15, eerste lid, onderdeel g](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), voor zover deze projecten zich richten op vernieuwingen die een bijdrage leveren aan het bereiken van de doelstellingen, genoemd in artikel 2 van het convenant Schone en Zuinige Agrosectoren.   
 5.  De aanvragen, bedoeld in het vierde lid, kunnen uitsluitend worden ingediend door landbouwondernemingen of een samenwerkingsverband van landbouwondernemingen onderling, dan wel met agro-MKB ondernemingen, bosbouwondernemingen of MKB ondernemingen werkzaam in de voedselindustrie, met dien verstande dat de landbouwondernemingen werkzaam zijn in de sectoren: veehouderij, akkerbouw, tuinbouw open teelt, bloembollen, bolbloemen, paddenstoelen of glastuinbouw.   
 6.  De aanvragen, bedoeld in het vierde lid, kunnen worden ingediend in de periode van 15 april tot en met 12 mei 2011.   
@@ -186,7 +186,7 @@ b. voor aanvragen om subsidie als bedoeld in artikel 13, tweede lid, € 3.600.
 1.  Aanvragen tot verlening van een subsidie voor de uitvoering van een project als bedoeld in [artikel 2:14, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend voor projecten die betrekking hebben op één of meer van de thema’s, bedoeld in [artikel 2:15, eerste lid, onderdelen f, p, r, s, t, of u, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) voor zover het project zich richt op een gebiedsgericht coherent plan waarin sprake is van onderlinge samenwerking, afstemming en kennisdeling van de inzet van maatregelen binnen de bestaande bedrijfsprocessen van het samenwerkingsverband, bedoeld in het achtste lid van dit artikel, en op vernieuwingen die een bijdrage leveren aan de prioriteiten als bedoeld in artikel 16 bis van Verordening (EG) nr. 1698/2005.   
 2.  De aanvragen, bedoeld in het eerste lid, kunnen uitsluitend worden ingediend door een samenwerkingsverband van landbouwondernemingen onderling, danwel met stichtingen, verenigingen of overheidsinstanties, met dien verstande dat ten minste 10 landbouwondernemingen deelnemen aan het samenwerkingsverband.   
 3.  In afwijking van [artikel 2:14, tweede lid, onderdeel b, subonderdeel 2°, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) behoeven de stichtingen en verenigingen, bedoeld in het tweede lid, niet werkzaam te zijn op het gebied van landbouwondernemingen of bosbouwondernemingen.   
-4.  De aanvragen, bedoeld in het eerste lid, kunnen uitsluitend worden ingediend door samenwerkingsverbanden waarvan de deelnemende landbouwondernemingen zijn gevestigd in de gebieden die binnen de begrenzing vallen zoals aangegeven in bijlagen 4, 4a, 4b en 4c.   
+4.  De aanvragen, bedoeld in het eerste lid, kunnen uitsluitend worden ingediend door samenwerkingsverbanden waarvan de deelnemende landbouwondernemingen zijn gevestigd in de gebieden die binnen de begrenzing vallen zoals aangegeven in bijlagen 2a, 2b, 2c en 2d.   
 5.  De aanvragen kunnen worden ingediend in de periode van 15 maart tot en met 29 maart 2011.   
 
 ### Artikel  19  
@@ -230,7 +230,7 @@ De subsidie bedraagt voor aanvragen om subsidie als bedoeld in artikel 18a, eers
 
 a. voor aanvragen om subsidie als bedoeld in artikel 18, eerste lid, € 6.000.000  
 
-b. voor aanvragen om subsidie als bedoeld in artikel 18, vierde lid, € 2.150.000     
+b. voor aanvragen om subsidie als bedoeld in artikel 18, vierde lid, € 3.150.000     
 2.  In aanvulling op het subsidieplafond, bedoeld in het eerste lid, onderdeel b, geldt een additioneel subsidieplafond van het Productschap Tuinbouw van € 202.000 voor projecten ingediend door glastuinbouwondernemingen, met dien verstande dat per project ten hoogste 20% van het subsidiebedrag ten laste komt van het additionele subsidieplafond.   
 
 ### Artikel  24a  
@@ -258,12 +258,14 @@ Het subsidieplafond voor aanvragen om subsidie als bedoeld in artikel 18a, eerst
 1.  Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2:32, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door samenwerkingsverbanden van landbouwondernemingen onderling of met agro-MKB-ondernemingen, met dien verstande dat de landbouwondernemingen werkzaam zijn in de melkvee-, vleesvee-, schapen-, geiten-, varkens-, kalveren-. paarden-, pluimvee-, inclusief eenden- en kalkoenenhouderij, of konijnenhouderij.   
 2.  Aanvragen tot verlening van subsidie als bedoeld in [artikel 2:32, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen tevens worden ingediend door samenwerkingsverbanden van landbouwondernemingen onderling of met agro-MKB-ondernemingen, met dien verstande dat de landbouwondernemingen werkzaam zijn in de bijenhouderij, glastuinbouw, paddenstoelenteelt, akkerbouw, opengrondstuinbouw of teelt van plantaardig uitgangsmateriaal.   
 3.  Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2:32, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door samenwerkingsverbanden van landbouwondernemingen onderling of met agro-MKB-ondernemingen, met dien verstande dat het innovatieproject past binnen één of meerdere van de nieuwe uitdagingen: klimaatverandering, waterbeheer, hernieuwbare energie en biodiversiteit.   
-4.  De aanvragen, bedoeld in het eerste en tweede lid, kunnen worden ingediend in de periode van 1 februari 2011 tot en met 25 februari 2011.   
-5.  De aanvragen, bedoeld in het derde lid, kunnen worden ingediend in de periode van 1 juni 2011 tot en met 15 juli 2011.   
+4.  Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2:32, eerste lid](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), en [artikel 2:36aa, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen, in afwijking van artikel 2:32, tweede lid, van de regeling, uitsluitend worden ingediend door samenwerkingsverbanden van landbouwondernemingen en agro-MKB-ondernemingen tezamen, met dien verstande dat de landbouwondernemingen werkzaam zijn in de veehouderij.   
+5.  De aanvragen, bedoeld in het eerste en tweede lid, kunnen worden ingediend in de periode van 1 februari 2011 tot en met 25 februari 2011.   
+6.  De aanvragen, bedoeld in het derde lid, kunnen worden ingediend in de periode van 1 juni 2011 tot en met 15 juli 2011.   
+7.  De aanvragen, bedoeld in het vierde lid, kunnen worden ingediend in de periode van 3 oktober 2011 tot en met 28 oktober 2011.   
 
 ### Artikel  27  
 
-1.  De door de Minister ingestelde beoordelingscommissie brengt na de beoordeling van de aanvragen, bedoeld in artikel 26, eerste, tweede of derde lid, advies uit aan de Minister in de vorm van een rangschikking.   
+1.  De door de Minister ingestelde beoordelingscommissie brengt na de beoordeling van de aanvragen, bedoeld in artikel 26, eerste, tweede, derde of vierde lid, advies uit aan de Minister in de vorm van een rangschikking.   
 2.  Projecten als bedoeld in artikel 26, eerste en tweede lid, hebben een meer innovatief karakter als bedoeld in [artikel 2:33, onderdeel a, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) naarmate het project meer aansluit bij de programmalijnen van de desbetreffende sectorale innovatieagenda’s.   
 3.  Projecten als bedoeld in artikel 26, eerste lid, hebben een meer duurzaam karakter als bedoeld in [artikel 2:33, onderdeel d, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) naarmate het project meer bijdraagt aan de uitwerking van de zes speerpunten van de Uitvoeringsagenda duurzame veehouderij.   
 
@@ -273,7 +275,8 @@ Per samenwerkingsverband kan slechts een aanvraag worden ingediend.
 
 ### Artikel  29  
 
-De subsidie bedraagt 35% van de subsidiabele kosten en ten hoogste € 500.000 voor het innovatieproject, met dien verstande dat voor kosten als bedoeld in [artikel 2:35, eerste lid, onderdelen c en h, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) de subsidie ten hoogste € 400.000 bedraagt.  
+1.  De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 26, eerste, tweede en derde lid, 35% van de subsidiabele kosten en ten hoogste € 500.000 voor het innovatieproject, met dien verstande dat voor kosten als bedoeld in [artikel 2:35, eerste lid, onderdelen c en h, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) de subsidie ten hoogste € 400.000 bedraagt.   
+2.  De subsidie bedraagt voor aanvragen van subsidie als bedoeld in artikel 26, vierde lid, 35% van de subsidiabele kosten en ten hoogste € 150.000.   
 
 ### Artikel  30  
 
@@ -283,7 +286,9 @@ a. voor aanvragen om subsidie als bedoeld in artikel 26, eerste lid, € 2.600.
 
 b. voor aanvragen om subsidie als bedoeld in artikel 26, tweede lid, € 3.750.000;  
 
-c. voor aanvragen om subsidie als bedoeld in artikel 26, derde lid, € 8.000.000.    
+c. voor aanvragen om subsidie als bedoeld in artikel 26, derde lid, € 8.000.000;  
+
+d. voor aanvragen om subsidie als bedoeld in artikel 26, vierde lid, € 650.000.    
 
 ### Titel  5a  
 
@@ -348,7 +353,7 @@ Er worden geen voorschotten verleend.
 
 ### Artikel  34  
 
-Het subsidieplafond bedraagt € 2.000.000.  
+Het subsidieplafond bedraagt € 3.825.000.  
 
 ### §  2  
 
@@ -483,7 +488,8 @@ De subsidie bedraagt 40% van de subsidiabele kosten, met dien verstande dat de s
 
 ### Artikel  49d  
 
-Het subsidieplafond bedraagt: € 6.500.000.  
+1.  Het subsidieplafond bedraagt € 6.500.000.   
+2.  In aanvulling op het subsidieplafond, bedoeld in het eerste lid, geldt een additioneel subsidieplafond ten bedrage van € 1.767.200 voor aanvragers gevestigd in Limburg.   
 
 ### Artikel  49e  
 
@@ -494,6 +500,70 @@ Het subsidieplafond bedraagt: € 6.500.000.
 ### Artikel  49f  
 
 De extra kosten, bedoeld in [Bijlage 2, Hoofdstuk 4, punt C, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) betreffen de kosten die worden gemaakt naast de norminvesteringen met betrekking tot dierenwelzijn en, voor zover van toepassing met betrekking tot milieu of diergezondheid, in een gangbare stal, als bedoeld in de kwantitatieve informatie veehouderij.  
+
+### §  5  
+
+####Verdergaande verduurzaming land- en tuinbouw in het kader van nieuwe uitdagingen (POP NU)
+
+### Artikel  49g  
+
+1.  Een aanvraag tot verlening van een subsidie voor een investering in een machine of installatie als bedoeld in [bijlage 2](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), hoofdstuk 7, punt A, categorie 1, 2 of 4, van de regeling kan worden ingediend in de periode van 1 juli 2011 tot en met 29 juli 2011.   
+2.  Per landbouwonderneming, bedoeld in [bijlage 2](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), hoofdstuk 7, punt B, wordt één aanvraag ingediend, die betrekking kan hebben op één of meerdere machines of installaties onderscheiden in de categorieën 1, 2 en 4, bedoeld in bijlage 2, hoofdstuk 7, punt A, van de regeling.   
+3.  Landbouwondernemingen die in het jaar 2010 voor machines of installaties onderscheiden in [bijlage 2](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), hoofdstuk 7, punt A, subsidie hebben ontvangen komen niet voor subsidie in aanmerking.   
+4.  Op de rangschikking van de aanvragen is [artikel 1:5](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) van toepassing.   
+
+### Artikel  49h  
+
+Er worden geen voorschotten verleend.  
+
+### Artikel  49i  
+
+Aanvragen tot subsidievaststelling kunnen worden ingediend tot en met 27 september 2013 en per landbouwonderneming bedoeld in [bijlage 2](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), hoofdstuk 7, punt B kan in die periode maximaal één aanvraag gedaan worden.  
+
+### Artikel  49j  
+
+De subsidie voor een machine of installatie als bedoeld in [bijlage 2](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), hoofdstuk 7, punt A, van de regeling bedraagt per categorie: 
+
+a 35% van de subsidiabele kosten, met dien verstande dat de subsidie per categorie ten hoogste € 100.000 bedraagt;  
+
+b tenminste € 5.000.    
+
+### Artikel  49k  
+
+Het subsidieplafond voor investeringen in machines of installaties als bedoeld in [bijlage 2, hoofdstuk 7, punt A, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt: 
+
+a. € 5.000.000 voor categorie 1;  
+
+b. € 5.000.000 voor categorie 2;  
+
+c. € 5.000.000 voor categorie 4.    
+
+### §  6  
+
+####Jonge landbouwers
+
+### Artikel  49l  
+
+1.  Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2:42, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 3 oktober 2011 tot en met 11 november 2011.   
+2.  Een jonge landbouwer kan slechts één aanvraag indienen.   
+
+### Artikel  49m  
+
+Aanvragen tot subsidievaststelling kunnen worden ingediend tot en met 20 december 2013.  
+
+### Artikel  49n  
+
+Er worden geen voorschotten verleend.  
+
+### Artikel  49o  
+
+Het subsidieplafond bedraagt € 8.000.000.  
+
+### Artikel  49p  
+
+a. De subsidiabele kosten bedragen nooit meer dan € 100.000.  
+
+b. De subsidie bedraagt ten minste € 5000 en ten hoogste 25% van de subsidiabele kosten.    
 
 ### Titel  7  
 
@@ -624,7 +694,7 @@ b. Stichting Samenwerkingsverband Nationale Parken: € 300.000.
 
 ### Artikel  65  
 
-Een aanvraag tot subsidieverlening gaat vergezeld van een overzicht van de liquiditeitsbehoefte van de aanvrager.  
+Een aanvraag tot voorschotverlening gaat vergezeld van een liquiditeitsoverzicht of een overzicht van gemaakte en betaalde kosten.  
 
 ### §  2  
 
@@ -644,11 +714,11 @@ b. 100% van de subsidiabele kosten voor aanvragers, bedoeld in [artikel 4:22, tw
 
 ### Artikel  68  
 
-Het subsidieplafond bedraagt € 3.000.000,–.  
+Het subsidieplafond bedraagt € 4.500.000,–.  
 
 ### Artikel  69  
 
-Een aanvraag tot subsidieverlening gaat vergezeld van een overzicht van de liquiditeitsbehoefte van de aanvrager.  
+Een aanvraag tot voorschotverlening gaat vergezeld van een liquiditeitsoverzicht of een overzicht van gemaakte en betaalde kosten.  
 
 ### §  3  
 
@@ -656,17 +726,20 @@ Een aanvraag tot subsidieverlening gaat vergezeld van een overzicht van de liqui
 
 ### Artikel  70  
 
-1.  Aanvragen tot verlening van subsidie als bedoeld in [artikel 4:33c van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 tot en met 31 januari 2011.   
-2.  Het subsidieplafond bedraagt voor het visserijgebied opgenomen in: 
+1.  Aanvragen tot verlening van subsidie als bedoeld in [artikel 4:33c](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen voor de visserijgebieden opgenomen in [bijlage 5, onderdeel A, onder 1, 3, 5 en 6, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden ingediend in de periode van 1 september 2011 tot en met 30 september 2011.   
+2.  Aanvragen tot verlening van subsidie als bedoeld in [artikel 4:33c](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen voor de visserijgebieden opgenomen in [bijlage 5, onderdeel A, onder 4, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden ingediend in de periode van 3 oktober 2011 tot en met 31 oktober 2011.   
+3.  Het subsidieplafond bedraagt voor het visserijgebied opgenomen in: 
 
-a. [bijlage 5, onderdeel a, onder 2, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 1.140.000,–;  
+a. [bijlage 5, onderdeel A, onder 1, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 765.927;  
 
-b. [bijlage 5, onderdeel a, onder 4, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 730.776,–;  
+b. [bijlage 5, onderdeel A, onder 3, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 115.000;  
 
-c. [bijlage 5, onderdeel a, onder 5, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 750.000,–;  
+c. [bijlage 5, onderdeel A, onder 4, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 1.160.500;  
 
-d. [bijlage 5, onderdeel a, onder 6, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 500.000,–.     
-3.  Geen subsidie wordt verstrekt voor activiteiten waarvan de subsidiabele kosten in totaal minder bedragen dan € 100.000.   
+d. [bijlage 5, onderdeel A, onder 5, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 750.000;  
+
+e. [bijlage 5, onderdeel A, onder 6, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) € 250.000.     
+4.  Geen subsidie wordt verstrekt voor activiteiten waarvan de subsidiabele kosten in totaal minder bedragen dan € 100.000.   
 
 ### Artikel  71  
 
@@ -674,7 +747,7 @@ d. [bijlage 5, onderdeel a, onder 6, van de regeling](../../../../../ministeriel
 
 ### Artikel  72  
 
-Een aanvraag tot voorschotverlening gaat vergezeld van een overzicht van de liquiditeitsbehoefte.  
+Een aanvraag tot voorschotverlening gaat vergezeld van een liquiditeitsoverzicht of een overzicht van de gemaakte en betaalde kosten.  
 
 ### Titel  2  
 
@@ -715,9 +788,109 @@ Aanvragen tot verlening van subsidie als bedoeld in artikel 73, eerste lid, kunn
 
 Het subsidieplafond bedraagt € 5.000.000.  
 
-### Artikel  80  
+### Artikel  79a  
 
 De aanvraag tot subsidievaststelling gaat vergezeld van een accountantsverklaring.  
+
+### §  2  
+
+####Investeringen in weegapparatuur
+
+### Artikel  79b  
+
+1.  Aanvragen voor de vaststelling van subsidie voor de aanschaf en installatie van elektronische weegapparatuur als bedoeld in [artikel 4:39a, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), kunnen worden ingediend in de periode van 1 juli 2011 tot en met 1 februari 2012.   
+2.  Het subsidieplafond bedraagt € 600.000,–.   
+
+### Artikel  79c  
+
+In afwijking van [artikel 1:2, tweede lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kan subsidie worden verleend voor activiteiten die zijn aangevangen voor de subsidievaststelling op voorwaarde dat de activiteiten zijn aangevangen na 1 juni 2011.  
+
+### Artikel  79d  
+
+Er worden geen voorschotten verleend.  
+
+### §  3  
+
+####Investeringen in elektronische registratie- en meldapparatuur en in satellietvolgapparatuur
+
+### Artikel  79e  
+
+1.  Aanvragen voor de vaststelling van subsidie voor de aanschaf en installatie van elektronische registratie- en meldapparatuur, van satellietvolgapparatuur of van een geïntegreerde combinatie van deze apparatuur als bedoeld in [artikel 4:39g, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 juli 2011 tot en met 1 februari 2012.   
+2.  Het subsidieplafond bedraagt € 157.500,– voor alle apparatuur, bedoeld in [artikel 4:39g, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) gezamenlijk.   
+
+### Artikel  79f  
+
+In afwijking van [artikel 1:2, tweede lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kan subsidie worden verleend voor activiteiten die zijn aangevangen voor de subsidievaststelling op voorwaarde dat de activiteiten zijn aangevangen na 1 juni 2011.  
+
+### Artikel  79g  
+
+Er worden geen voorschotten verleend.  
+
+### §  4  
+
+####Investeringen in duurzame vistuigen
+
+### Artikel  79h  
+
+1.  Aanvragen tot verlening van een subsidie als bedoeld in [artikel 4:34 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend door eigenaren van een vissersvaartuig, dat staat ingeschreven in het visserijregister bedoeld in [artikel 4 van het Besluit registratie vissersvaartuigen 1998](../../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md), voor het moderniseren en aanbrengen van voorzieningen aan boord van een vissersvaartuig door middel van: 
+
+a. de omschakeling van de visserij met de boomkor naar visserij met de hydrorig of sumwing;  
+
+b. jig-installaties;  
+
+c. uitrusting voor de krabbenvisserij.     
+2.  Aanvragen als bedoeld in het eerste lid kunnen worden ingediend in de periode van 1 november 2011 tot en met 30 november 2011.   
+3.  Het subsidieplafond bedraagt € 2.000.000.   
+
+### Artikel  79i  
+
+De aanvraag tot subsidieverlening, bedoeld in artikel 79h, eerste lid, gaat vergezeld van offertes of prijsopgaven voor de aan te schaffen apparatuur, de werkzaamheden ten behoeve van de installatie en de werkzaamheden ten behoeve van de noodzakelijke aanpassingen aan het vissersvaartuig.  
+
+### Artikel  79j  
+
+De subsidie bedraagt 40% van de subsidiabele kosten en ten hoogste € 100.000.  
+
+### Titel  3  
+
+####Investeringen in aquacultuur
+
+### Artikel  80a  
+
+1.  Aanvragen tot verlening van subsidie als bedoeld in [artikel 4:40 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 september 2011 tot en met 30 september 2011.   
+2.  Het subsidieplafond bedraagt € 1.800.000.   
+
+### Artikel  80b  
+
+Een aanvraag tot voorschotverlening gaat vergezeld van een overzicht van gemaakte en betaalde kosten.  
+
+### Titel  4  
+
+####Garantstelling visserij
+
+### Artikel  80ba  
+
+1.  Aanvragen tot verstrekking van een garantstelling als bedoeld in [artikel 4:53 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 november 2011 tot en met 31 december 2011.   
+2.  Het maximumbedrag, bedoeld in [artikel 4:57, eerste lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), wordt voor 2011 vastgesteld op € 5.000.000.   
+
+### Hoofdstuk  4a  
+
+####Onderwijs
+
+### Artikel  80c  
+
+Aanvragen tot verlening van een subsidie voor een lectoraat als bedoeld in [artikel 4a:3 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), kunnen worden ingediend in de periode van 1 juli 2011 tot 15 september 2011.  
+
+### Artikel  80d  
+
+In aanvulling op [artikel 4a:10 van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), bedraagt de subsidie voor aanvragen om subsidie als bedoeld in artikel 80c, ten hoogste € 240.000.  
+
+### Artikel  80e  
+
+De duur van de subsidieverlening bedraagt maximaal 4 jaar.  
+
+### Artikel  80f  
+
+Het subsidieplafond bedraagt € 960.000.  
 
 ### Hoofdstuk  5  
 
@@ -731,12 +904,17 @@ a. de subsidieplafonds, bedoeld in de artikelen 34, 37, onderdeel a, en 40, onde
 
 b. de subsidieplafonds, bedoeld in de artikelen 37, onderdeel b, en 40, onderdeel b, met het bedrag overgebleven door het niet bereiken van een van deze subsidieplafonds of met het bedrag of bedragen overgebleven door het niet bereiken van een of meerdere van de in onderdeel a bedoelde subsidieplafonds;  
 
-c. de subsidieplafonds, bedoeld in artikel 30, onderdeel a en onderdeel b, met het bedrag overgebleven door het niet bereiken van een van deze subsidieplafonds.    
+c. de subsidieplafonds, bedoeld in artikel 30, onderdeel a en onderdeel b, met het bedrag overgebleven door het niet bereiken van een van deze subsidieplafonds;  
+
+d. de subsidieplafonds, bedoeld in artikel 49e, met het bedrag of de bedragen overgebleven door het niet bereiken van een of meerdere van deze subsidieplafonds.    
 
 ### Artikel  82  
 
 1.  Als beoordelingscommissie bedoeld in de artikelen 14, 20, 27 en 43 wordt ingesteld de beoordelingscommissie concurrerende landbouw.   
 2.  De beoordelingscommissie, bedoeld in het eerste lid, bestaat uit de heer drs. J.P.J. Lokker en de heer ir. J.T.G.M. Koolen.   
+3.  In afwijking van [artikel 4:41, tweede lid, van de regeling](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) wordt voor de aanvragen, bedoeld in artikel 80a, als beoordelingscommissie ingesteld de beoordelingscommissie investeringen in aquacultuur.   
+4.  De beoordelingscommissie, bedoeld in het derde lid, bestaat uit de heer ir. H.W van der Mheen, mevrouw dr. ir. K. van de Braak, de heer J. Smit en de heer W.L.M. Schermer Voest.   
+5.  De heer W.L.M. Schermer Voest is voorzitter van de beoordelingscommissie, bedoeld in het derde lid, en mevrouw L.S. Laan MSc is secretaris van de beoordelingscommissie, bedoeld in het derde lid.   
 
 ### Artikel  82a  
 

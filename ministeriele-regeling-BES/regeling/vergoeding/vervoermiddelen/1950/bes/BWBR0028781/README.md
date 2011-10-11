@@ -13,11 +13,11 @@
 | auto  | motorrijwiel  |
 | USD 0,18 per km  | USD 0,02 per km  |
 
-2.  Indien de exploitatiekosten terzake het gebruik ten behoeve van de dienst van een eigen auto door het voor de dienst vervoeren van voorwerpen, voor een goede dienstuitvoering noodzakelijk, meer dan normaal geacht kunnen worden, kan een, in elk geval afzonderlijk toe te kennen toeslag op de vergoeding worden verleend tot ten hoogste vijf en twintig ten honderd van die vergoeding.   
+2.  Indien de exploitatiekosten terzake het gebruik ten behoeve van de dienst van een eigen auto door het voor de dienst vervoeren van voorwerpen, voor een goede dienstuitvoering noodzakelijk, meer dan normaal geacht kunnen worden, kan een, in elk geval afzonderlijk toe te kennen toeslag op de vergoeding worden verleend tot ten hoogste vijf en twintig ten honderd van die vergoeding.  
 
 ### Artikel  2  
 
-Vervallen.  
+Vervallen. 
 
 ### Artikel  3  
 
@@ -31,16 +31,16 @@ Voor het gebruik van een eigen auto ten behoeve van de dienst genieten de naverm
 
 ### Artikel  4  
 
-Vervallen.  
+Vervallen. 
 
 ### Artikel  5  
 
-Vervallen.  
+Vervallen. 
 
 ### Artikel  6  
 
 1.  Onder het in artikel 1 bedoelde gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt niet verstaan het vervoer van de ambtenaar van woonhuis naar kantoor en/of werkplaats en omgekeerd.   
-2.  De vergoeding voor het in artikel 1 bedoelde gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt niet toegekend indien in het vervoer kan worden voorzien vanwege de dienst.   
+2.  De vergoeding voor het in artikel 1 bedoelde gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt niet toegekend indien in het vervoer kan worden voorzien vanwege de dienst.  
 
 ### Artikel  7  
 
@@ -62,16 +62,16 @@ c. voor elke rit: het aantal kilometers ten behoeve van de dienst afgelegd.
 4.  De verklaring van oplevering wordt door het betrokken diensthoofd getekend, nadat deze de declaratie behoorlijk heeft gecontroleerd.   
 5.  De derde exemplaren van de door het Departement van Openbare Werken, de Landsradio- en Telefoondienst en de Landswatervoorzieningsdienst betaalde declaraties wegens kilometergelden, moeten, vergezeld van de duplicaten van de rittenbriefjes, terstond worden toegezonden aan de Administrateur van Financiën.   
 6.  Het bevoegd gezag is bevoegd nadere voorschriften te geven omtrent het opmaken of het invullen van declaraties of rittenbriefjes.   
-7.  Voorzover het bevoegd gezag het nodig oordeelt inlichtingen te vragen omtrent de bij hem ingezonden declaraties en/of rittenbriefjes worden deze door de diensthoofden verstrekt.   
+7.  Voorzover het bevoegd gezag het nodig oordeelt inlichtingen te vragen omtrent de bij hem ingezonden declaraties en/of rittenbriefjes worden deze door de diensthoofden verstrekt.  
 
 ### Artikel  8  
 
-De uitbetaling van de vergoeding bedoeld in artikel 3 geschiedt in maandelijkse termijnen.  
+De uitbetaling van de vergoeding bedoeld in artikel 3 geschiedt in maandelijkse termijnen. 
 
 ### Artikel  9  
 
-Deze regeling berust op [artikel 73, derde lid, onderdeel a, van de Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
+Deze regeling berust op [artikel 73, derde lid, onderdeel a, van de Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md). 
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Regeling vergoeding vervoermiddelen 1950 BES.  
+Deze regeling wordt aangehaald als: Regeling vergoeding vervoermiddelen 1950 BES. 

@@ -12,8 +12,7 @@ Gelet op artikel 2, tweede lid, en artikel 3 van de Sanctiewet 1977;     Besluit
 
 ### Artikel  1  
 
-1.  Het is verboden om wapens en alle soorten aanverwant materiaal, waaronder munitie, militaire voertuigen en militaire uitrusting, dan wel onderdelen daarvan, aangewezen in de bijlage bij het In- en uitvoerbesluit strategische goederen, en paramilitaire uitrusting en onderdelen daarvan rechtstreeks of middellijk te verkopen of te leveren aan de natuurlijke of rechtspersonen, groepen of entiteiten die vermeld staan op bijlage I van Verordening (EG) nr. 881/2002 van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen sommige personen en entiteiten die banden hebben met Usama bin Laden, het Al-Qa'ida-netwerk en de Taliban, en tot intrekking van Verordening (EG) nr. 467/2001 van de Raad tot instelling van een verbod op de uitvoer van bepaalde goederen en diensten naar Afghanistan, tot versterking van het verbod op vluchten en verlenging van de bevriezing van tegoeden en andere financiële middelen ten aanzien van de Taliban van Afghanistan (Pb EG L 139).   
-2.  Het is verboden om technologie voor de ontwikkeling, de productie of het gebruik van militaire goederen, aangewezen in de bijlage bij het In- en uitvoerbesluit strategische goederen, in verband met militaire activiteiten, rechtstreeks of middellijk te verkopen of te leveren aan de natuurlijke of rechtspersonen, groepen of entiteiten, bedoeld in het eerste lid.   
+Het is verboden om wapens en alle soorten aanverwant materiaal, waaronder munitie, militaire voertuigen en militaire uitrusting, dan wel onderdelen daarvan, aangewezen in de Uitvoeringsregeling strategische goederen dan wel bedoeld in artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon, en paramilitaire uitrusting en onderdelen daarvan rechtstreeks of middellijk te verkopen of te leveren aan de natuurlijke of rechtspersonen, groepen of entiteiten die vermeld staan op bijlage I van Verordening (EG) nr. 881/2002 van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van beperkende maatregelen tegen sommige personen en entiteiten die banden hebben met het Al-Qa’ida-netwerk (Pb EG L 139).  
 
 ### Artikel  2  
 
@@ -26,7 +25,7 @@ De Sanctieregeling Taliban van Afghanistan 2001 wordt ingetrokken.
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Sanctieregeling Osama bin Laden, Al-Qa'ida en Taliban 2002.  
+Deze regeling wordt aangehaald als: Sanctieregeling Al-Qa’ida 2011.  
 
 ### Artikel  5  
 

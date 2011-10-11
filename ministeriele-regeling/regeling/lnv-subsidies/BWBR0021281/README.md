@@ -284,12 +284,12 @@ De subsidieontvanger doet onverwijld een schriftelijke melding zodra aannemelijk
 
 ### Artikel  1:14e  
 
-####Accountantsverklaring
+####Controleverklaring accountant
 
-1.  De aanvraag tot subsidievaststelling gaat vergezeld van een accountantsverklaring indien dat in deze regeling of in de beschikking tot subsidieverlening is bepaald.   
-2.  In de beschikking tot subsidieverlening kan uitsluitend worden bepaald dat de aanvraag tot subsidievaststelling vergezeld gaat van een accountantsverklaring, indien het in die beschikking vermelde subsidiebedrag € 125.000 of meer bedraagt.   
-3.  De accountantsverklaring bestaat uit een verklaring van een accountant of een accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat met de aanvraag wordt voldaan aan de voorschriften uit [artikel 4:45 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  De accountant of accountant-administratiefconsulent controleert en stelt de verklaring vast met inachtneming de voorschriften, gesteld in bijlage 1 bij deze regeling.   
+1.  De aanvraag tot subsidievaststelling gaat vergezeld van een controleverklaring van een accountant indien dat in deze regeling of in de beschikking tot subsidieverlening is bepaald.   
+2.  In de beschikking tot subsidieverlening kan uitsluitend worden bepaald dat de aanvraag tot subsidievaststelling vergezeld gaat van een controleverklaring, indien het in die beschikking vermelde subsidiebedrag € 125.000 of meer bedraagt.   
+3.  De controleverklaring bestaat uit een verklaring van een accountant of een accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat met de aanvraag wordt voldaan aan de voorschriften uit [artikel 4:45 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+4.  De accountant of accountant-administratiefconsulent controleert en stelt de controleverklaring vast met inachtneming de voorschriften, gesteld in bijlage 1 bij deze regeling.   
 
 ### Artikel  1:15  
 
@@ -618,7 +618,7 @@ In afwijking van artikel 1:14, eerste lid, wordt de aanvraag tot subsidievastste
 
 ####Subsidiabele activiteiten
 
-1.  De Minister kan aan een samenwerkingsverband van landbouwondernemingen, agro-MKB-ondernemingen, bosbouwondernemingen of kennisinstellingen subsidie verstrekken voor de uitvoering van een project dat is gericht op de onderlinge uitwisseling van voor elk van de aan het samenwerkingsverband deelnemende ondernemingen relevante kennis en ervaring met betrekking tot werkzaamheden in de landbouwsector of bosbouwsector.   
+1.  De Minister kan aan een samenwerkingsverband van landbouwondernemingen, agro-MKB-ondernemingen, bosbouwondernemingen, kennisinstellingen of verenigingen van agrariërs subsidie verstrekken voor de uitvoering van een project dat is gericht op de onderlinge uitwisseling van voor elk van de aan het samenwerkingsverband deelnemende ondernemingen relevante kennis en ervaring met betrekking tot werkzaamheden in de landbouwsector of bosbouwsector.   
 2.  Het project heeft een duur van ten hoogste vijf jaar en heeft betrekking op: 
 
 a. het voldoen aan wettelijke normen inzake milieu of waterbeheer, aan veterinaire, sanitaire regelgeving, aan fytosanitaire, hygiëne- of dierenwelzijnsregelgeving of aan arbeidsomstandighedenregelgeving,  
@@ -677,7 +677,9 @@ b. samenwerkingsverbanden van landbouwondernemingen onderling, of van ten minste
 
 4°. onderwijs- en opleidingsinstellingen;  
 
-5°. overheidsinstanties.       
+5°. overheidsinstanties;    
+
+c. verenigingen van agrariërs.     
 
 ### Artikel  2:15  
 
@@ -725,7 +727,9 @@ s. nemen van beheersmaatregelen die verdroging van natuurgebieden tegengaan;
 
 t. horizontale of verticale samenwerking;  
 
-u. effectief kwantitatief en kwalitatief waterbeheer.     
+u. effectief kwantitatief en kwalitatief waterbeheer;  
+
+v. reductie van broeikasgassen.     
 2.  Een project komt voor de subsidie in aanmerking indien: 
 
 a. het kan bijdragen aan de bevordering van de toepassing van nieuwe kennis of technologieën, die verder gaat dan de wettelijke minimumnormen;  
@@ -795,7 +799,7 @@ g. kosten van eigen arbeid van de betrokken ondernemer, in afwijking van artikel
 
 h. uitvoeringskosten, zoals reiskosten en de kosten van de huur van vergaderzalen;  
 
-i. kosten van de voor de subsidievaststelling benodigde accountantsverklaring.     
+i. kosten van de voor de subsidievaststelling benodigde controleverklaring van een accountant.     
 2.  De volgende kosten komen niet in aanmerking voor de subsidie: 
 
 a. overheadkosten;  
@@ -1008,6 +1012,12 @@ i. kosten van eigen arbeid van de betrokken ondernemer, in afwijking van artikel
 
 1.  De subsidie bedraagt ten hoogste 35% van de subsidiabele kosten.   
 2.  De subsidie bedraagt ten hoogste € 500.000.   
+
+### Artikel  2:36aa  
+
+####Nadere voorschriften onderzoeksactiviteiten integraal duurzame stallen
+
+In aanvulling op deze paragraaf, zijn ten aanzien van de onderzoeksactiviteiten bij integraal duurzame stallen de voorwaarden, bedoeld in bijlage 1a, hoofdstuk 1, van toepassing.  
 
 ### §  3  
 
@@ -1255,11 +1265,7 @@ Artikel 1:5 is van toepassing.
 
 ####Indiening aanvraag subsidieverlening
 
-In afwijking van artikel 2:38 gaat de aanvraag tot verlening van een subsidie als bedoeld in artikel 2:42, eerste lid, vergezeld van: 
-
-a. een investeringsplan, waarin de investeringen waarvoor de subsidie wordt aangevraagd zijn opgenomen en waaruit blijkt hoe die investeringen bijdragen aan de doelstellingen, genoemd in artikel 2:37, eerste lid;  
-
-b. een verklaring van een bank dat de onderneming levensvatbaar is.    
+In afwijking van artikel 2:38 gaat de aanvraag tot verlening van een subsidie als bedoeld in artikel 2:42, eerste lid, vergezeld van een investeringsplan, waarin de investeringen waarvoor de subsidie wordt aangevraagd zijn opgenomen en waaruit blijkt hoe die investeringen bijdragen aan de doelstellingen, genoemd in artikel 2:37, eerste lid.  
 
 ### Artikel  2:45  
 
@@ -1326,7 +1332,7 @@ c. kosten voor de ontwikkeling van nieuwe machines of apparatuur;
 
 d. kosten voor de ontwikkeling en operationalisering van processen, procédés, technologieën, marketingconcepten, product-marktcombinaties en andere innovaties;  
 
-e. algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en met d, zoals kosten voor de architecten en ingenieurs, honoraria van adviseurs tot een hoogte van 15% van het totale subsidiebedrag, haalbaarheidsstudies, accountantsverklaring, verwerven van patenten en vergunningen.     
+e. algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en met d, zoals kosten voor de architecten en ingenieurs, honoraria van adviseurs tot een hoogte van 15% van het totale subsidiebedrag, haalbaarheidsstudies, controleverklaring van een accountant, verwerven van patenten en vergunningen.     
 2.  Geen subsidie wordt verstrekt voor kosten met betrekking tot een leasecontract, zoals de marge van de leaseorganisatie, herfinancieringskosten, overheadkosten en verzekeringspremies.   
 
 ### Artikel  2:49  
@@ -2394,7 +2400,7 @@ a. loonkosten;
 
 b. aan derden verschuldigde kosten;  
 
-c. en kosten van de voor de subsidievaststelling benodigde accountantsverklaring.    
+c. en kosten van de voor de subsidievaststelling benodigde controleverklaring van een accountant.    
 
 ### Titel  8a  
 
@@ -2548,11 +2554,11 @@ Een beschikking omtrent subsidievaststelling wordt gegeven binnen vier maanden n
 
 – gangbare praktijk in de aquacultuursector: aquacultuuractiviteiten die worden uitgevoerd overeenkomstig de bindende gezondheids-, veterinaire of milieuwetgeving;  
 
-– visvergunning: aan een ondernemer ten aanzien van een vissersvaartuig toegekende visvergunning als bedoeld in [artikel 1 van de Regeling visvergunning](../../../../ministeriele-regeling/regeling/visvergunning/BWBR0016244/README.md);  
+– visvergunning: aan een ondernemer ten aanzien van een vissersvaartuig toegekende visvergunning als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md);  
 
 – garnalenvergunning: vergunning als bedoeld in [artikel 11 van de Beschikking visserij visserijzone, zeegebied en kustwateren](../../../../ministeriele-regeling/beschikking/visserij/visserijzone/zeegebied/en/kustwateren/BWBR0003150/README.md) verleend voor het vissen met enig vistuig geschikt voor het vangen van garnalen (Crangon, crangon) in de visserijzone, het zeegebied of de kustwateren;  
 
-– contingent: contingent als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Regeling contingentering zeevis](../../../../ministeriele-regeling/regeling/contingentering/zeevis/BWBR0008477/README.md);  
+– contingent: contingent als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md);  
 
 – meetbrief: document als bedoeld in [artikel 4 van de Meetbrievenwet 1981](../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md);  
 
@@ -2686,7 +2692,7 @@ c. het originele exemplaar van de ten aanzien van het betreffende vissersvaartui
 
 d. het originele exemplaar van de garnalenvergunning en van de vergunning voor het vissen met een sleepnet in de Oosterschelde, voor zover deze vergunningen ten aanzien van het betreffende vissersvaartuig zijn toegekend;  
 
-e. het originele exemplaar van het speciale visdocument, bedoeld in [artikel 4, tweede lid, onderdeel a, van de Regeling technische maatregelen 2000](../../../../ministeriele-regeling/regeling/technische/maatregelen/2000/BWBR0011061/README.md), voor zover ten aanzien van het betreffende vissersvaartuig een speciaal visdocument is toegekend;  
+e. het originele exemplaar van de vismachtiging, bedoeld in artikel 7, eerste lid, van de controleverordening, bedoeld in [artikel 1, tweede lid, van de Uitvoeringregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md), voor zover ten aanzien van het desbetreffende vissersvaartuig een vismachtiging is toegekend;  
 
 f. een taxatierapport van het vaartuig van een beëdigd taxateur, indien de visserijactiviteit beëindigd wordt overeenkomstig artikel 4:2, tweede lid, onderdeel b.     
 
@@ -2847,7 +2853,7 @@ d. kosten voor een studie naar de haalbaarheid van de ontwikkeling van nieuwe te
 
 e. kosten gemoeid met het testen van de nieuwe technologieën, technieken en methoden;  
 
-f. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500,–.     
+f. kosten van een controleverklaring van een accountant, voor zover deze kosten niet meer bedragen dan € 2500,–.     
 2.  In aanvulling op het eerste lid komen voor aanvragen ingediend door een samenwerkingsverband als bedoeld in artikel 4:15, eerste lid, tevens de volgende kosten in aanmerking voor subsidie: 
 
 a. kosten voor organisatie en facilitering van het samenwerkingsverband, waaronder begrepen zaal- en locatiehuur, vergaderfaciliteiten en bureaukosten;  
@@ -2858,7 +2864,7 @@ b. kosten voor een procesbegeleider of ketenmanager.
 
 ####Indiening aanvraag subsidievaststelling
 
-De aanvraag tot subsidievaststelling gaat vergezeld van een accountantsverklaring.  
+De aanvraag tot subsidievaststelling gaat vergezeld van een controleverklaring van een accountant.  
 
 ### Artikel  4:21  
 
@@ -2951,7 +2957,7 @@ g. kosten voor organisatie en facilitering van het samenwerkingsverband, waarond
 
 h. kosten voor een procesbegeleider of ketenmanager;  
 
-i. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500,–.    
+i. kosten van een controleverklaring van een accountant, voor zover deze kosten niet meer bedragen dan € 2500,–.    
 
 ### Artikel  4:26  
 
@@ -3045,7 +3051,7 @@ e. de aankoop of huur van advertentieruimte en het bedenken van slagzinnen en la
 
 f. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project;  
 
-g. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500,–.    
+g. kosten van een controleverklaring van een accountant, voor zover deze kosten niet meer bedragen dan € 2500,–.    
 
 ### Artikel  4:32  
 
@@ -3058,7 +3064,7 @@ g. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedrag
 
 ####Indiening aanvraag subsidievaststelling
 
-De aanvraag tot subsidievaststelling gaat vergezeld van een accountantsverklaring.  
+De aanvraag tot subsidievaststelling gaat vergezeld van een controleverklaring van een accountant.  
 
 ### §  4  
 
@@ -3126,7 +3132,7 @@ De volgende kosten komen in aanmerking voor de subsidie:
 
 a. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project;  
 
-b. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500;  
+b. kosten van een controleverklaring van een accountant, voor zover deze kosten niet meer bedragen dan € 2500;  
 
 c. kosten verbonden aan ontwikkeling, aanschaf of het testen van nieuwe apparaten, diensten, technologieën of andere innovaties;  
 
@@ -3142,7 +3148,7 @@ g. algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en me
 
 ####Indiening aanvraag subsidievaststelling
 
-Indien het in de beschikking tot subsidieverlening vermelde subsidiebedrag € 125.000 of meer bedraagt, kan in de beschikking tot subsidieverlening worden bepaald dat de aanvraag tot subsidievaststelling vergezeld gaat van een accountantsverklaring.  
+Indien het in de beschikking tot subsidieverlening vermelde subsidiebedrag € 125.000 of meer bedraagt, kan in de beschikking tot subsidieverlening worden bepaald dat de aanvraag tot subsidievaststelling vergezeld gaat van een controleverklaring van een accountant.  
 
 ### Artikel  4:33i  
 
@@ -3222,9 +3228,7 @@ b. kosten voor de installatie van nieuwe apparatuur of voorzieningen;
 
 c. kosten voor de aanpassing van het vissersvaartuig ten behoeve van de installatie van nieuwe apparatuur of het toepassen van nieuwe voorzieningen;  
 
-d. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project;  
-
-e. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2.500,–.    
+d. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project.    
 
 ### Artikel  4:39  
 
@@ -3424,7 +3428,7 @@ e. bijdraagt aan verbetering van het dierenwelzijn.
 
 ####Indiening aanvraag subsidievaststelling
 
-De aanvraag tot subsidievaststelling gaat vergezeld van een accountantsverklaring.  
+De aanvraag tot subsidievaststelling gaat vergezeld van een controleverklaring van een accountant.  
 
 ### Artikel  4:45  
 
@@ -3438,7 +3442,7 @@ b. kosten van aankoop, bouw of modernisering van gebouwen voor zover deze kosten
 
 c. kosten van modernisering van vaartuigen die worden ingezet voor de aquacultuur en die niet zijn uitgerust voor de commerciële exploitatie van levende aquatische hulpbronnen;  
 
-d. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500,–;  
+d. kosten van een controleverklaring van een accountant, voor zover deze kosten niet meer bedragen dan € 2500,–;  
 
 e. kosten voor architecten, ingenieurs en overige deskundigen, die uit hoofde van hun beroep adviezen verstrekken, voor zover deze kosten niet meer dan 12% van de totale subsidiabele kosten bedragen;  
 
@@ -3530,7 +3534,7 @@ d. kosten voor de ontwikkeling en operationalisering van processen, procédés, 
 
 e. algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en met d, zoals kosten voor adviseurs, zoals architecten en ingenieurs, tot een hoogte van 25% van de totale subsidiabele kosten;  
 
-f. overige algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en met d, zoals kosten voor een accountantsverklaring tot een hoogte van € 2500, haalbaarheidsstudies, verwerven van patenten en vergunningen.     
+f. overige algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en met d, zoals kosten voor een controleverklaring van een accountant tot een hoogte van € 2500, haalbaarheidsstudies, verwerven van patenten en vergunningen.     
 2.  Geen subsidie wordt verstrekt voor kosten: 
 
 a. met betrekking tot een leasecontract, zoals de marge van de leaseorganisatie, herfinancieringskosten, overheadkosten en verzekeringspremies;  
@@ -3543,7 +3547,7 @@ c. voor de aankoop van grond.
 
 ####Indiening aanvraag subsidievaststelling
 
-De aanvraag tot subsidievaststelling gaat vergezeld van een accountantsverklaring.  
+De aanvraag tot subsidievaststelling gaat vergezeld van een controleverklaring van een accountant.  
 
 ### Artikel  4:52  
 
@@ -3586,12 +3590,13 @@ h. indien het bancair aansprakelijk vermogen van de aanvrager minder dan 5 % bed
 
 ####Nadere voorschriften
 
-1.  Een garantstelling wordt verstrekt voor een minimumbedrag van € 90.000,– en een maximumbedrag van € 450.000,–.   
-2.  De garantie wordt ten hoogste verstrekt voor twee derde van voor de investeringen benodigde financieringen, minus de eigen beschikbare middelen, rekening houdende met de financieringsmogelijkheden op basis van de beschikbare zekerheden en de wijze waarop de beschikbare eigen middelen optimaal kunnen worden aangewend.   
+1.  Een garantstelling wordt verstrekt voor een lening met een minimumbedrag van € 50.000 en een maximumbedrag van € 450.000.   
+2.  De lening waarvoor garantstelling wordt verstrekt bedraagt ten hoogste twee derde van de voor de investeringen benodigde financieringen, minus de eigen beschikbare middelen, rekening houdende met de financieringsmogelijkheden op basis van de beschikbare zekerheden en de wijze waarop de beschikbare eigen middelen optimaal kunnen worden aangewend.   
 3.  De looptijd van de lening waarvoor garantstelling wordt verstrekt kan ten hoogste 10 jaar bedragen en de lening wordt lineair afgelost.   
 4.  De uiterste datum waarop de lening volledig moet zijn opgenomen, mag niet later liggen dan een jaar na de datum van de beschikking tot verstrekking van garantstelling.   
 5.  De garantstelling kan slechts worden verstrekt ten behoeve van een lening verstrekt door een kredietinstelling waarmee de Minister een raamovereenkomst heeft gesloten, waarin de rechten en plichten van de Minister en de kredietinstelling zijn vastgelegd.   
 6.  Artikel 4:1, derde lid, is niet van toepassing op een beschikking tot verstrekking van garantstelling op grond van artikel 4:53.   
+7.  Ingeval de kredietinstelling nakoming vordert van de garantstelling, wordt ten hoogste viervijfde van de restantschuld van de lening waarop de garantstelling betrekking heeft uitbetaald.   
 
 ### Artikel  4:55  
 
@@ -3765,7 +3770,7 @@ c. kosten voor de aanpassing van het vissersvaartuig ten behoeve van de installa
 
 ### §  1  
 
-####Tegemoetkoming tijdelijk aalvisverbod 2010
+####Tegemoetkoming tijdelijk aalvisverbod 2011
 
 ### Artikel  4:67  
 
@@ -3783,7 +3788,8 @@ c. *referentieperiode:* maanden september, oktober en november van de jaren 2006
 
 ####Subsidiabele activiteiten
 
-De Minister kan op aanvraag een tegemoetkoming verstrekken aan beroepsvissers die vissen in de kust- en binnenwateren en die als gevolg van het visverbod op aal, bedoeld in [artikel 32a van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md), in de maanden september, oktober en november 2010 schade lijden.  
+1.  De Minister kan op aanvraag een tegemoetkoming verstrekken aan beroepsvissers die vissen in de kust- en binnenwateren en die als gevolg van het visverbod op aal, bedoeld in [artikel 32a van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md), in de maanden september, oktober en november 2011 schade lijden en aan beroepsvissers die deelnemen aan een pilot in het kader van decentraal aalbeheer, waarvoor op grond van [artikel 11 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) ontheffing is verleend.   
+2.  Een aanvraag als bedoeld in het eerste lid kan door de Friese Bond van Binnenvissers worden ingediend voor de beroepsvissers die zich onder haar leden bevinden.   
 
 ### Artikel  4:69  
 
@@ -3830,6 +3836,12 @@ b. een afschrift van de in genoemd artikellid bedoelde verkregen ontheffing.
 ### Artikel  4:73  
 
 Een beschikking omtrent verstrekking van de tegemoetkoming wordt gegeven binnen drie maanden na afloop van de openstellingsperiode in enig jaar waarin de aanvraag kon worden gedaan.  
+
+### Artikel  4:74  
+
+####Betaling collectieve aanvraag door Friese Bond van Binnenvissers
+
+Een tegemoetkoming, die wordt verstrekt naar aanleiding van een aanvraag als bedoeld in artikel 4:68, tweede lid, wordt betaald aan de Friese Bond van Binnenvissers.  
 
 ### Hoofdstuk  4a  
 
@@ -4057,7 +4069,7 @@ c. kosten voor de ontwikkeling van nieuwe machines of apparatuur;
 
 d. kosten voor de ontwikkeling en operationalisering van processen, procédés, technologieën, marketingconcepten, product-marktcombinaties en andere innovaties;  
 
-e. algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en met d, zoals kosten voor de architecten en ingenieurs, honoraria van adviseurs tot een hoogte van 15% van het totale subsidiebedrag, haalbaarheidsstudies, accountantsverklaring, verwerven van patenten en vergunningen.     
+e. algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en met d, zoals kosten voor de architecten en ingenieurs, honoraria van adviseurs tot een hoogte van 15% van het totale subsidiebedrag, haalbaarheidsstudies, controleverklaring van een accountant, verwerven van patenten en vergunningen.     
 3.  Voor de subsidie voor de uitvoering van activiteiten bedoeld in artikel 5:3, tweede lid, onderdeel a, komen niet in aanmerking kosten voor de verwerving van onroerende zaken, ten behoeve waarvan subsidie door een bestuursorgaan is verleend in de periode van tien jaar voorafgaand aan de ontvangstdatum van de aanvraag tot subsidieverlening.   
 4.  Geen subsidie wordt verstrekt voor kosten voor de uitvoering van de activiteiten, bedoeld in artikel 5:3, tweede lid, onderdeel b, met betrekking tot een leasecontract, zoals de marge van de leaseorganisatie, herfinancieringskosten, overheadkosten en verzekeringspremies.   
 5..  Indien subsidie wordt verstrekt voor een investering, wordt de beschikking tot subsidievaststelling onverminderd [artikel 4:49 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ingetrokken indien de investering gedurende vijf jaar te rekenen vanaf de datum van subsidievaststelling een belangrijke wijziging ondergaat die: 
@@ -4346,6 +4358,63 @@ Naar ons oordeel is de eindafrekening van <naam instelling/persoon> over de peri
 ### *Beperking in gebruik en verspreidingskring* 
 
 De eindafrekening is opgesteld voor de Dienst Regelingen met als doel <naam instelling/persoon> in staat te stellen te voldoen aan de relevante bepalingen in de Regeling LNV-subsidies. Hierdoor is de eindafrekening mogelijk niet geschikt voor andere doeleinden. Dit doet geen afbreuk aan ons oordeel. De eindafrekening met onze controleverklaring is derhalve uitsluitend bestemd voor <naam instelling/persoon> en de Dienst Regelingen en dient derhalve niet te worden verspreid of gebruikt door anderen. <Plaats, datum> <Naam accountantspraktijk> <Naam accountant >  
+
+### Bijlage  1a  
+
+####Bijlage bij artikel 2:32, eerste lid 
+
+###Hoofdstuk 1. Onderzoeksactiviteiten integraal duurzame stallen
+
+###A. Beschrijving van het innovatieproject, bedoeld in artikel 2:32, eerste lid 
+
+Twee of vier ten aanzien van de milieuparameters gelijke stallen op respectievelijk twee of vier locaties, die voldoen aan de volgende voorwaarden: 
+
+1. De stallen beschikken niet over een emissiefactor, als bedoeld in [artikel 2 van de Regeling ammoniak en veehouderij](../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md).  
+
+2. De stallen zijn ten minste twee maanden in gebruik op het moment van aanvang van de onderzoeksactiviteiten, bedoeld in onderdeel B van dit hoofdstuk.  
+
+3. De stallen voldoen naar verwachting aan de volgende eisen: 
+
+a. de uitstoot van ammoniak wordt verminderd met minimaal 25% ten opzichte van de maximale emissiewaarde bedoeld in het [Besluit ammoniakemissie huisvesting veehouderij](../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md) of ten opzichte van de emissiefactor voor overige huisvesting in de bijlage bij de [Regeling ammoniak en veehouderij](../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md);  
+
+b. de uitstoot van geur is lager dan of gelijk aan de uitstoot van geur, bedoeld in de [Regeling geurhinder en veehouderij](../../../../ministeriele-regeling/regeling/geurhinder/en/veehouderij/BWBR0020711/README.md);  
+
+c. de uitstoot van fijn stof PM10 is lager dan of gelijk aan de uitstoot, bedoeld in het overzicht emissiefactoren fijn stof voor veehouderij;  
+
+d. de uitstoot van zeer fijn stof PM2,5, lachgas en methaan is beter dan of gelijk aan een voor ammoniak gangbaar emissiearm stalsysteem;  
+
+e. het energieverbruik is ten minste 10 punten hoger dan het minimum aantal punten, bedoeld in de energiemaatlat van de Maatlat duurzame veehouderij 2011, of gelijk daaraan in geval de diercategorieën niet zijn opgenomen in de Maatlat duurzame veehouderij 2011;  
+
+f. het dierenwelzijn is ten minste 5 punten hoger dan het minimum aantal punten, bedoeld in de dierenwelzijnmaatlat van de Maatlat duurzame veehouderij 2011 of gelijk daaraan in geval de diercategorieën niet zijn opgenomen in de Maatlat duurzame veehouderij 2011;  
+
+g. de diergezondheid is ten minste 10 punten hoger dan het minimum aantal punten, bedoeld in de gezondheidsmaatlat van de Maatlat duurzame veehouderij 2011 of gelijk daaraan in geval de diercategorieën niet zijn opgenomen in de Maatlat duurzame veehouderij 2011;  
+
+h. de arbeidsomstandigheden zijn beter dan of gelijk aan de arbeidsomstandigheden in een ammoniak gangbaar emissiearm stalsysteem.     
+###B. Beschrijving van de subsidiabele kosten, bedoeld in artikel 2:35 
+
+1. In afwijking van artikel 2:35, eerste lid, komen uitsluitend de door de aanvrager aan een meetinstantie en de betrokken laboratoria verschuldigde kosten voor onderzoeksactiviteiten ter zake van de eisen, genoemd in onderdeel A, punt 3, van dit hoofdstuk, voor subsidie in aanmerking.  
+
+2. De meetinstantie en betrokken laboratoria: 
+
+a. beschikken over voldoende personeel dat beschikt over grondig inzicht in veehouderijsystemen en het management daarvan;  
+
+b. beschikken over de benodigde administratieve en technische faciliteiten;  
+
+c. beschikken aantoonbaar over relevante ervaring en vakkennis betreffende het verrichten van metingen in de veehouderij en van de uitstoot van milieuverontreinigende stoffen bij de desbetreffende diersoort;  
+
+d. staan als betrouwbaar te boek;  
+
+e. voldoen aan de standaarden van gedegen onderzoek;  
+
+f. zijn aantoonbaar onafhankelijk van de betrokken actoren en van de evaluerende instantie.    
+
+3. De onderzoeksactiviteiten, bedoeld onder 1, naar de uitstoot van onderscheidenlijk ammoniak, geur, fijn stof PM10, fijn stof PM2.5, lachgas en methaan worden uitgevoerd volgens de desbetreffende protocollen, die op verzoek van het Ministerie van Economische Zaken, Landbouw en Innovatie en het Ministerie van Infrastructuur en Milieu zijn opgesteld door Wageningen UR Livestock Research, en verschaffen inzicht in de hoogte van het energieverbruik.  
+
+4. In afwijking van artikel 2:34, eerste lid, vangen de onderzoeksactiviteiten, bedoeld onder 1, uiterlijk drie maanden na de datum van subsidieverlening aan.  
+
+5. Er wordt geen subsidie verstrekt voor onderzoeksactiviteiten, bedoeld onder 1, die geheel of gedeeltelijk door het rijk worden gefinancierd op grond van een andere voorziening dan bedoeld hoofdstuk 2, titel 5, paragraaf 2, van de regeling.  
+
+6. Er wordt geen subsidie verstrekt aan landbouwondernemingen of agro-MKB-bedrijven die zijn opgenomen in het Meetprogramma integraal duurzame stallen 2009.   
 
 ### Bijlage  2  
 
@@ -4973,7 +5042,7 @@ b. de door de aanvrager ondertekende offertes;
 
 c. voor zover van toepassing bescheiden, zoals verleende vergunningen, waaruit blijkt dat de activiteiten waar de aanvraag betrekking op heeft uitgevoerd zijn met inachtneming van de wettelijke voorschriften die daarop van toepassing zijn.   Er worden maximaal drie voorschotten verleend; een voorschot bedraagt ten minste € 200.000. De aanvraag tot subsidievaststelling gaat vergezeld van: 
 
-a. een accountantsverklaring in het geval de subsidie € 125.000 of meer bedraagt;  
+a. een controleverklaring van een accountant in het geval de subsidie € 125.000 of meer bedraagt;  
 
 b. de door de aanvrager ondertekende offertes, tenzij hij deze heeft overgelegd bij een aanvraag tot voorschotverlening;  
 
@@ -4982,7 +5051,7 @@ c. voor zover van toepassing een opgave van subsidies als bedoeld in artikel 1:1
 d. voor zover van toepassing bescheiden, zoals verleende vergunningen, waaruit blijkt dat de activiteiten waar de aanvraag betrekking op heeft uitgevoerd zijn met inachtneming van de wettelijke voorschriften die daarop van toepassing zijn, tenzij deze zijn overlegd bij de aanvraag tot voorschotverlening.   
 ###E. Verplichtingen van de subsidieontvanger als bedoeld in artikel 2:39 .
 
-Het energiesysteem is uiterlijk 2 jaar na subsidieverlening geïnstalleerd, dan wel uiterlijk 3 jaar subsidieverlening indien installatie binnen 2 jaar niet haalbaar is vanwege onvoorziene omstandigheden die aantoonbaar buiten de invloedssfeer liggen van de subsidieaanvrager. De subsidieontvanger verleent gegevens omtrent: 
+Het energiesysteem is uiterlijk 2 jaar na subsidieverlening geïnstalleerd, dan wel uiterlijk 3 jaar na subsidieverlening indien installatie binnen 2 jaar niet haalbaar is vanwege onvoorziene omstandigheden die aantoonbaar buiten de invloedssfeer liggen van de subsidieaanvrager, dan wel uiterlijk 4 jaar na subsidieverlening indien installatie binnen 3 jaar niet haalbaar is vanwege onvoorziene omstandigheden die aantoonbaar buiten de invloedssfeer liggen van de subsidieaanvrager en geen betrekking hebben op de financiering en de opdrachtverstrekking van het project. De subsidieontvanger verleent gegevens omtrent: 
 
 a. de bereikte CO <sub>2</sub> -reductie en energiebesparing volgens de geactualiseerde CO <sub>2</sub> - en energiebalans;  
 
