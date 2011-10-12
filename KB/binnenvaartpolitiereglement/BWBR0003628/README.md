@@ -118,7 +118,7 @@ b. *lange stoot*: geluidssein durende ongeveer 4 seconden; de tijdruimte tussen 
 
 8°. *ADNR*: Reglement voor het vervoer van gevaarlijke stoffen over de Rijn;  
 
-9°. *vaarbevoegdheidsbewijs*: vaarbewijs als bedoeld in de [artikelen 13](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [14](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [15](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) en [16 van het Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), bewijs van bekwaamheid voor de binnenvaart als bedoeld in [artikel 32, eerste en tweede lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md), Rijnpatent als bedoeld in [artikel 1.03, eerste lid, van het Patentreglement Rijn](../../../KB/patentreglement/rijn/BWBR0023698/README.md) of bewijs van vaarbekwaamheid als bedoeld in [artikel 1.03, derde lid, onder b, van het Patentreglement Rijn](../../../KB/patentreglement/rijn/BWBR0023698/README.md);  
+9°. *vaarbevoegdheidsbewijs*: vaarbewijs als bedoeld in de [artikelen 13](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [14](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [15](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) en [16 van het Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), bewijs van bekwaamheid voor de binnenvaart als bedoeld in [artikel 32, eerste en tweede lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md), Rijnpatent als bedoeld in [artikel 6.02, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of bewijs van vaarbekwaamheid als bedoeld in artikel 6.02, derde lid, onder b, van het Reglement betreffende het scheepvaartpersoneel op de Rijn;  
 
 10°. *richtlijn nr. 2002/59/EG*: richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van Richtlijn 93/75/EEG van de Raad (PbEG L 208);  
 
@@ -226,7 +226,7 @@ b. de bescheiden vereist door het ADNR, nrs. 8.1.2.1, 8.1.2.2 en 8.1.2.3;
 
 c. het vaarbevoegdheidsbewijs;  
 
-d. het radarpatent dan wel een ander diploma dat overeenkomstig het [Patentreglement Rijn](../../../KB/patentreglement/rijn/BWBR0023698/README.md) is toegelaten; deze documenten behoeven niet aan boord te zijn, indien het Rijnpatent of een ander overeenkomstig het [Patentreglement Rijn](../../../KB/patentreglement/rijn/BWBR0023698/README.md) toegelaten diploma van de schipper de vermelding «Radar» bevat;  
+d. het radarpatent dan wel een ander diploma dat overeenkomstig het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) is toegelaten; deze documenten behoeven niet aan boord te zijn, indien het Rijnpatent of een ander overeenkomstig het Reglement betreffende het scheepvaartpersoneel op de Rijn toegelaten diploma van de schipper de vermelding «Radar» bevat;  
 
 e. het Handboek voor de marifonie in de binnenvaart, algemeen en regionaal deel;  
 
@@ -478,7 +478,7 @@ d. voor ruiten: een lengte van de verticale middellijn van 80 cm en van de horiz
 
 ####Noodlichten
 
-Indien de lichten die een schip ingevolge dit reglement moet voeren niet kunnen werken, moet het schip deze onverwijld door noodlichten vervangen. Ingeval een krachtig licht wordt voorgeschreven, mag echter het noodlicht helder, en in geval een helder licht wordt voorgeschreven, mag het noodlicht gewoon zijn. Het schip moet zo spoedig mogelijk wederom lichten van de voorgeschreven sterkte in gebruik stellen.  
+Indien de lichten die een schip ingevolge dit reglement moet voeren niet kunnen werken, moet het schip deze onverwijld door noodlichten vervangen. Ingeval een krachtig licht wordt voorgeschreven, mag echter het noodlicht helder, en ingeval een helder licht wordt voorgeschreven, mag het noodlicht gewoon zijn. Het schip moet zo spoedig mogelijk wederom lichten van de voorgeschreven sterkte in gebruik stellen.  
 
 ### Artikel  3.07  
 
@@ -764,7 +764,7 @@ c. dat direct of indirect aan de oever gemeerd ligt en vanwege aldaar aanwezige 
 d. dat op een veilige ligplaats ligt;  
 
 e. dat ligt op een ligplaats die de bevoegde autoriteit als zodanig heeft aangeduid en waar hij het achterwege laten van het voeren van de tekens heeft toegestaan.     
-6.  Dit artikel is niet van toepassing op schepen, bedoeld in de artikelen 3.22 en 3.25.   
+6.  Dit artikel is niet van toepassing op de schepen, bedoeld in de artikelen 3.22 en 3.25.   
 
 ### Artikel  3.21  
 
@@ -1048,6 +1048,7 @@ b. een groot schip, niet zijnde een motorschip, en een klein motorschip door mid
 6.  De bevoegde autoriteit kan van de verplichting, bedoeld in het eerste en tweede lid, ontheffing verlenen aan schepen die worden ingezet ten behoeve van het redden van mensen.   
 7.  De bevoegde autoriteit kan van de verplichting, bedoeld in het derde en vierde lid, ontheffing verlenen, voorzover dit de vaart betreft in gebieden waar geen doorgaande scheepvaart plaatsvindt.   
 8.  Het vierde lid, eerste en tweede volzin, is van toepassing op een klein schip dat is uitgerust met een marifoon. Het vierde lid, derde volzin, is van toepassing op een klein schip dat is uitgerust met meer dan één marifoon.   
+9.  In afwijking van het eerste lid, wordt op scheepvaartwegen in beheer bij het Rijk bij communicatieproblemen tussen scheeps- en walstations dan wel tussen scheepsstations onderling de Duitse taal gebruikt. Op de in bijlage 11 genoemde vaarwegen is tevens het gebruik van de Engelse taal toegestaan.   
 
 ### Artikel  4.06  
 
@@ -1057,7 +1058,7 @@ b. een groot schip, niet zijnde een motorschip, en een klein motorschip door mid
 
 a. het is uitgerust met een voor de behoeften van de binnenvaart geschikte radarinstallatie dan wel een Inland ECDIS installatie die kan functioneren in de navigatie modus en een bochtaanwijzer die goed functioneren en die van een type zijn dat voor de binnenvaart door de daartoe aangewezen instantie is goedgekeurd volgens de daaromtrent vastgestelde voorschriften; en  
 
-b. zich aan boord een persoon bevindt die houder is van een radarpatent als bedoeld in het [Patentreglement Rijn](../../../KB/patentreglement/rijn/BWBR0023698/README.md). Bij goed zicht mag van radar worden gebruik gemaakt teneinde hiermede te oefenen, zonder dat zich een zodanig persoon aan boord bevindt.     
+b. zich aan boord een persoon bevindt die houder is van een radarpatent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md). Bij goed zicht mag van radar worden gebruik gemaakt teneinde hiermede te oefenen, zonder dat zich een zodanig persoon aan boord bevindt.     
 2.  Onverminderd het eerste lid moet een klein schip zijn uitgerust met een marifooninstallatie die geschikt is voor de daartoe aangewezen kanalen en die goed functioneert.   
 3.  Op de daartoe aangewezen vaarwegen mag een schip, in plaats van met een radarinstallatie als bedoeld in het eerste lid, onder a, zijn uitgerust met een voor het varen op deze vaarwegen geschikte radarinstallatie die goed functioneert en die van een type is dat voor het varen op die vaarwegen door de in het eerste lid, onder a, bedoelde instantie is goedgekeurd volgens de daaromtrent vastgestelde voorschriften.   
 4.  Een schip behorende tot een daartoe aangewezen categorie mag op de daartoe aangewezen vaarwegen in plaats van met een bochtaanwijzer als bedoeld in het eerste lid, onder a, zijn uitgerust met een ander daartoe bruikbaar middel. Een niet-vrijvarende veerpont behoeft daarmede niet te zijn uitgerust.   
@@ -1630,7 +1631,7 @@ b. schepen waaraan de bevoegde autoriteit dit recht heeft verleend.
 
 ####Op radar varende schepen
 
-1.  Een schip mag slechts op radar varen, indien zowel een persoon die houder is van een radarpatent als bedoeld in het [Patentreglement Rijn](../../../KB/patentreglement/rijn/BWBR0023698/README.md) en die tevens houder is van het vereiste vaarbevoegdheidsbewijs als een tweede persoon die met het varen op radar voldoende op de hoogte is zich voortdurend in de stuurhut bevindt. Voor een schip dat is uitgerust met een eenmansstuurstelling voor het varen op radar en dat voldoet aan de daaromtrent vastgestelde voorschriften behoeft de tweede persoon slechts aan boord beschikbaar te zijn. Voor een niet-vrijvarende veerpont kan de bevoegde autoriteit van de verplichting van dit lid ontheffing verlenen.   
+1.  Een schip mag slechts op radar varen, indien zowel een persoon die houder is van een radarpatent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en die tevens houder is van het vereiste vaarbevoegdheidsbewijs als een tweede persoon die met het varen op radar voldoende op de hoogte is zich voortdurend in de stuurhut bevindt. Voor een schip dat is uitgerust met een eenmansstuurstelling voor het varen op radar en dat voldoet aan de daaromtrent vastgestelde voorschriften behoeft de tweede persoon slechts aan boord beschikbaar te zijn. Voor een niet-vrijvarende veerpont kan de bevoegde autoriteit van de verplichting van dit lid ontheffing verlenen.   
 2.  Voor een op radar varend schip blijft artikel 1.09, derde lid, omtrent het hebben naar alle zijden van een voldoende vrij direct of indirect uitzicht buiten toepassing.   
 3.  Een op radar varend schip moet, zodra het op het scherm een schip waarneemt waarvan de positie of het gedrag tot een gevaarlijke situatie zou kunnen leiden of wanneer het een vak van de vaarweg nadert waar zich schepen zouden kunnen bevinden die nog niet op het scherm te zien zijn, aan de andere schepen op het schip--schip kanaal dan wel op het andere aangewezen kanaal opgeven: zijn naam, zijn positie, zijn vaarrichting en of het een groot schip, een klein schip, een snel schip, of een bovenmaats schip is. Het moet vervolgens met die schepen het voorbijvaren afspreken. Een klein schip of een snel schip moet daarbij opgeven naar welke zijde het uitwijkt.   
 4.  Een op radar varend schip dat per marifoon wordt opgeroepen moet op het schip--schip kanaal dan wel op het andere aangewezen kanaal antwoorden en opgeven: zijn naam, zijn positie, zijn vaarrichting en of het een groot schip, een klein schip, een snel schip, of een bovenmaats schip is. Het moet vervolgens met de andere schepen het voorbijvaren afspreken. Een klein schip of een snel schip moet daarbij opgeven naar welke zijde het uitwijkt.   
@@ -2518,7 +2519,7 @@ Behoudens toestemming van de bevoegde autoriteit is het verboden met andere sche
 | --- | Lange stoot, tijdsduur ongeveer 4 seconden  |
 | --- | Sein met de scheepsklok  |
 
-De tijdsruimte tussen twee opéénvolgende stoten bedraagt ongeveer 1 seconde. Een reeks zeer korte stoten wordt gevormd door tenminste 6 stoten, elk durende ongeveer een kwart seconde, waarbij de tijdruimte tussen de opéénvolgende stoten ongeveer een kwart seconde bedraagt. (art. 1.01, onder C, 8°). Een reeks klokslagen moet ongeveer 4 seconden duren. In plaats daarvan mogen ook reeksen slagen van metaal op metaal worden gegeven. Een groot motorschip moet gelijktijdig met een geluidssein een geel helder rondom schijnend lichtsein tonen. (art. 4.01, lid 2). Een klein schip moet ter voorkoming van aanvaring zonodig het attentiesein, het sein «Ik kan niet manoeuvreren» en het noodsein, vermeld in afdeling A van bijlage 6, geven en het mag zonodig een der overige algemene geluidsseinen, vermeld in afdeling A, en het mistsein, vermeld in afdeling G van bijlage 6, geven, maar mag niet de manoeuvreerseinen, vermeld in afdeling B, C, D en E van bijlage 6, geven (art. 4.02, lid 2 en lid 3).   
+De tijdruimte tussen twee opéénvolgende stoten bedraagt ongeveer 1 seconde. Een reeks zeer korte stoten wordt gevormd door tenminste 6 stoten, elke durende ongeveer een kwart seconde, waarbij de tijdruimte tussen de opéénvolgende stoten ongeveer een kwart seconde bedraagt. (art. 1.01, onder C, 8°). Een reeks klokslagen moet ongeveer 4 seconden duren. In plaats daarvan mogen ook reeksen slagen van metaal op metaal worden gegeven. Een groot motorschip moet gelijktijdig met een geluidssein een geel helder rondom schijnend lichtsein tonen. (art. 4.01, lid 2). Een klein schip moet ter voorkoming van aanvaring zonodig het attentiesein, het sein «Ik kan niet manoeuvreren» en het noodsein, vermeld in afdeling A van bijlage 6, geven en het mag zonodig een der overige algemene geluidsseinen, vermeld in afdeling A, en het mistsein, vermeld in afdeling G van bijlage 6, geven, maar mag niet de manoeuvreerseinen, vermeld in afdeling B, C, D en E van bijlage 6, geven (art. 4.02, lid 2 en lid 3).   
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -2790,7 +2791,7 @@ In of nabij het vaarwater kan ter markering van gevaarlijke punten en obstakels 
 
 ####BIJZONDERE MARKERING
 
-Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt een bepaald gebied of voorwerp aan, dat doorgaans is omschreven in nautische of andere daarvoor bestemde publicaties. Deze betonning wordt bijvoorbeeld toegepast ter markering van verboden gebieden, bagger-, stort- en ankerplaatsen, oefen- en visserij gebieden, voor het afbakenen van speciale gebieden zoals voor snelle motorboten, waterskiërs, zeilplanken, wedstrijden, e.d. en voor het aangeven van posities met een speciaal doel zoals kabels, instrumenten, etc.  *Opmerking*  De bijzondere betonning moet door de *doorgaande* scheepvaart, d.w.z. schepen die niet een aldus gemarkeerd gebied als bestemming hebben, aan dezelfde zijde worden gehouden als de "gewone" betonning.  
+Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt een bepaald gebied of voorwerp aan, dat doorgaans is omschreven in nautische of andere daarvoor bestemde publicaties. Deze betonning wordt bijvoorbeeld toegepast ter markering van verboden gebieden, bagger-, stort- en ankerplaatsen, oefen- en visserijgebieden, voor het afbakenen van speciale gebieden zoals voor snelle motorboten, waterskiërs, zeilplanken, wedstrijden, e.d. en voor het aangeven van posities met een speciaal doel zoals kabels, instrumenten, etc.  *Opmerking*  De bijzondere betonning moet door de *doorgaande* scheepvaart, d.w.z. schepen die niet een aldus gemarkeerd gebied als bestemming hebben, aan dezelfde zijde worden gehouden als de "gewone" betonning.  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -3661,6 +3662,6 @@ De vaarwegen, bedoeld in artikel 9.08, zijn:
 
 1. de Waddenzee;  
 
-2. de Oosterschelde (met inbegrip van de Zandkreek), het Keeten, het Mastgat, het Zijpe en het Krammer bewesten de Krammersluize;  
+2. de Oosterschelde (met inbegrip van de Zandkreek), het Keeten, het Mastgat, het Zijpe en het Krammer bewesten de Krammersluizen;  
 
 3. het Afgesloten IJ tussen Stenen hoofd en boei IJ 11.   

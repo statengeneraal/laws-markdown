@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Dit besluit neemt de begripsbepalingen van de [Verordening bestrijding Ziekte van Aujeszky](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md) over.  
+Dit besluit neemt de begripsbepalingen van de [Verordening bestrijding Ziekte van Aujeszky](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md) over. 
 
 ### Artikel  2  
 
@@ -22,7 +22,7 @@ Dit besluit neemt de begripsbepalingen van de [Verordening bestrijding Ziekte va
 
 1. meer dan twee monsters (van meer dan twee varkens) in de confirmatie-test positief zijn (eerste en vervolgonderzoek samen) of  
 
-2. het Aujeszky-virus is aangetoond (bijvoorbeeld door middel van virus kweek of PCR-techniek).     
+2. het Aujeszky-virus is aangetoond (bijvoorbeeld door middel van virus kweek of PCR-techniek).    
 
 ### Artikel  3  
 
@@ -32,14 +32,14 @@ a. het aan de ondernemer gelasten zijn varkens te laten onderzoeken door een die
 
 b. varkens tegen de Ziekte van Aujeszky te doen vaccineren;  
 
-c. een verbod tot aan-, af- of vervoer van varkens en varkensproducten in acht te nemen.    
+c. een verbod tot aan-, af- of vervoer van varkens en varkensproducten in acht te nemen.   
 
 ### Artikel  4  
 
 1.  Nadat onderzoek, zoals bedoeld in de [artikelen 3](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md) en [4 van de Verordening](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md) heeft aangetoond dat er sprake is van de Ziekte van Aujeszky of nadat op grond van het door het bestuur vastgestelde bestrijdingsplan, zoals bedoeld in [artikel 5, derde lid, van de Verordening](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md), is vastgesteld dat er sprake is van een uitbraak van de Ziekte van Aujeszky bij varkens, is de voorzitter bevoegd tot het aan de ondernemer opleggen van individuele bestrijdingsmaatregelen, zoals voorzien in [artikel 5, eerste en tweede lid, van de Verordening](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md).   
 2.  De voorzitter stelt vast op welk bedrijf de besmetting is geconstateerd, welke bedrijven binnen een straal van tien kilometer van het besmette bedrijf zijn gelegen, van of naar welke bedrijven varkens zijn aan- of afgevoerd van het besmette bedrijf en in welke gevallen sprake is van intensieve persoonscontacten met het besmette bedrijf.   
 3.  De vaststelling als bedoeld in het eerste lid, wordt door middel van een persbericht en publicatie in het Mededelingenblad Bedrijfsorganisatie bekendgemaakt.   
-4.  Het bedrijf waarop de besmetting is vastgesteld ontvangt hierover onverwijld bericht. Bedrijven welke binnen een straal van tien kilometer van het besmette bedrijf zijn gelegen, en bedrijven waarvan of waarnaar varkens zijn aan- of afgevoerd van het besmette bedrijf, ontvangen hierover zo mogelijk allereerst telefonisch en onverwijld hierop volgend schriftelijk bericht dat ofwel persoonlijk aan de ondernemer wordt overhandigd, ofwel dat per aangetekende post wordt toegezonden.   
+4.  Het bedrijf waarop de besmetting is vastgesteld ontvangt hierover onverwijld bericht. Bedrijven welke binnen een straal van tien kilometer van het besmette bedrijf zijn gelegen, en bedrijven waarvan of waarnaar varkens zijn aan- of afgevoerd van het besmette bedrijf, ontvangen hierover zo mogelijk allereerst telefonisch en onverwijld hierop volgend schriftelijk bericht dat ofwel persoonlijk aan de ondernemer wordt overhandigd, ofwel dat per aangetekende post wordt toegezonden.  
 
 ### Artikel  5  
 
@@ -74,23 +74,23 @@ h) Het vervoer van sperma, afkomstig van een spermawincentrum, gelegen in het ge
 
 i) De mest, afkomstig van een bedrijf gelegen binnen een straal van tien kilometer van een besmet bedrijf, mag vanaf twee weken na de tweede vaccinatie worden aangewend binnen het gebied dan wel worden afgevoerd buiten dit gebied, mits naar een afgesloten opslag, dan wel naar de mestverwerking.  
 
-j) De voorzitter gelast de afzet van gevaccineerde varkens aan de hand van het in dit artikel opgenomen schema. Aangegeven zijn de afvoermogelijkheden vanaf 14 dagen nadat alle varkens van het besmette bedrijf zijn afgevoerd tot het moment dat de afzetbeperkingen niet meer gelden. Aan het bedrijf wordt het kenmerk “ZvA-vaccin” toegevoegd.  
+j)De voorzitter gelast de afzet van gevaccineerde varkens aan de hand van het in dit artikel opgenomen schema. Aangegeven zijn de afvoermogelijkheden vanaf 14 dagen nadat alle varkens van het besmette bedrijf zijn afgevoerd tot het moment dat de afzetbeperkingen niet meer gelden. Aan het bedrijf wordt het kenmerk “ZvA-vaccin” toegevoegd.
 
-|  *VVL-status*   |  *Kenmerk*   |  *Afvoer slechts mogelijk naar*   |  *Einde afzetbeperkingen*   |
+|*VVL-status* |*Kenmerk* |*Afvoer slechts mogelijk naar* |*Einde afzetbeperkingen* |
 |:---|:---|:---|:---|
-| A  | ZvA-vaccin  | D, slacht en export naar art 9 of lager van fok- en gebruiksvarken.  | Als alle gevaccineerde dieren, uitgezonderd de zeugen, afgevoerd zijn.  |
+|A |ZvA-vaccin |D, slacht en export naar art 9 of lager van fok- en gebruiksvarken. |Als alle gevaccineerde dieren, uitgezonderd de zeugen, afgevoerd zijn. |
 | --- | --- | --- | --- |
-| B  | ZvA-vaccin  | D, slacht en export naar art 9 of lager van fok- en gebruiksvarkens.  | Als alle gevaccineerde dieren, uitgezonderd de zeugen, afgevoerd zijn.  |
+|B |ZvA-vaccin |D, slacht en export naar art 9 of lager van fok- en gebruiksvarkens. |Als alle gevaccineerde dieren, uitgezonderd de zeugen, afgevoerd zijn. |
 | --- | --- | --- | --- |
-| C  | ZvA-vaccin  | D, slacht en export naar art 9 of lager van fok- en gebruiksvarkens.  | Als het bedrijf leeg is, leegstandsverkalring en R&O-verklaring.  |
+|C |ZvA-vaccin |D, slacht en export naar art 9 of lager van fok- en gebruiksvarkens. |Als het bedrijf leeg is, leegstandsverkalring en R&O-verklaring. |
 | --- | --- | --- | --- |
-| D  | ZvA-vaccin  | Slacht  | Als alle gevaccineerde dieren van het bedrijf zijn afgevoerd.  |
+|D |ZvA-vaccin |Slacht |Als alle gevaccineerde dieren van het bedrijf zijn afgevoerd. |
 | --- | --- | --- | --- |
-| E  | ZvA-vaccin  | D, slacht, export art 9 of lager van fok- en gebruiksvarkens.  | Als het bedrijf leeg is, leegstandsverklaring en R&O-verklaring.  |
+|E |ZvA-vaccin |D, slacht, export art 9 of lager van fok- en gebruiksvarkens. |Als het bedrijf leeg is, leegstandsverklaring en R&O-verklaring. |
 | --- | --- | --- | --- |
-| F  | ZvA-vaccin  | D, slacht, export art 9 of lager van fok- en gebruiksvarkens.  | Als alle gevaccineerde dieren van het bedrijf zijn afgevoerd.  |
+|F |ZvA-vaccin |D, slacht, export art 9 of lager van fok- en gebruiksvarkens. |Als alle gevaccineerde dieren van het bedrijf zijn afgevoerd. |
 
-k) Zolang er door de voorzitter afzetbeperkingen zijn opgelegd vanwege de aanwezigheid van gevaccineerde dieren kan een bedrijf geen fok- en gebruiksdieren exporteren naar artikel 10 gebieden en artikel 10 lidstaten, zoals aangegeven in Beschikking 2008/185 van de Commissie van 21 februari 2008 betreffende aanvullende garanties ten aanzien van de ziekte van Aujeszky voor het intracommunautaire handelsverkeer van varkens, en betreffende criteria voor de over deze ziekte te verstrekken gegevens.     
+k)Zolang er door de voorzitter afzetbeperkingen zijn opgelegd vanwege de aanwezigheid van gevaccineerde dieren kan een bedrijf geen fok- en gebruiksdieren exporteren naar artikel 10 gebieden en artikel 10 lidstaten, zoals aangegeven in Beschikking 2008/185 van de Commissie van 21 februari 2008 betreffende aanvullende garanties ten aanzien van de ziekte van Aujeszky voor het intracommunautaire handelsverkeer van varkens, en betreffende criteria voor de over deze ziekte te verstrekken gegevens.   
 3.  Met betrekking tot bedrijven waarvan varkens zijn afgevoerd naar het besmette bedrijf, dan wel waarop varkens zijn aangevoerd van het besmette bedrijf, dan wel er sprake is van intensieve persoonscontacten met het besmette bedrijf, geldt het volgende: 
 
 a) Aan-, af en vervoer van varkens en varkensproducten naar en van het contactbedrij f is niet toegestaan;  
@@ -107,25 +107,25 @@ a) Alle op het bedrijf aanwezige beren worden binnen 24 uur na de vaststelling g
 b) Aan- en afvoer van varkens is niet toegestaan tot alle bestrijdingsmaatregelen zijn opgeheven. 14 dagen na de tweede vaccinatie is afvoer naar het slachthuis toegestaan;  
 
 c) Vervoer van sperma is eerst toegestaan vanaf zes weken na de tweede vaccinatie, indien op dat moment alle besmette beren zijn afgevoerd naar het slachthuis en van de overige beren is aangetoond dat ze niet besmet zijn.     
-5.  Indien slechts op een hobbymatige varkenshouderij de Ziekte van Aujeszky is geconstateerd, wordt de uitbraakfase niet hierdoor afgekondigd. Varkensbedrijven binnen een straal van tien kilometer worden in dit geval aan een verscherpte monitoring onderworpen. De maatregelen, genoemd in het eerste lid zijn voor deze hobbymatige varkenshouderij, vanwege de daar geconstateerde besmetting, van overeenkomstige toepassing.   
+5.  Indien slechts op een hobbymatige varkenshouderij de Ziekte van Aujeszky is geconstateerd, wordt de uitbraakfase niet hierdoor afgekondigd. Varkensbedrijven binnen een straal van tien kilometer worden in dit geval aan een verscherpte monitoring onderworpen. De maatregelen, genoemd in het eerste lid zijn voor deze hobbymatige varkenshouderij, vanwege de daar geconstateerde besmetting, van overeenkomstige toepassing.  
 
 ### Artikel  6  
 
-De voorzitter doet mededeling van het einde van de uitbraak van de Ziekte van Aujeszky op de wijze als omschreven in artikel 4, derde lid.  
+De voorzitter doet mededeling van het einde van de uitbraak van de Ziekte van Aujeszky op de wijze als omschreven in artikel 4, derde lid. 
 
 ### Artikel  7  
 
-De ondernemer is verplicht de genomen bestrijdingsmaatregelen vast te leggen in het formulier “rapportage bestrijdingsmaatregelen”, waarvan een model is opgenomen in de bijlage van dit besluit.  
+De ondernemer is verplicht de genomen bestrijdingsmaatregelen vast te leggen in het formulier “rapportage bestrijdingsmaatregelen”, waarvan een model is opgenomen in de bijlage van dit besluit. 
 
 ### Artikel  8  
 
 1.  Dit besluit wordt aangehaald als: Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 11 juni 2008   
 
-J.J. Ramekers  
+J.J. Ramekers 
 voorzitter  
 
 S.B.M. Jongerius  

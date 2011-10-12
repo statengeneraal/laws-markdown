@@ -119,7 +119,7 @@ c. bestaande schepen als bedoeld in voorschrift 1 van die Bijlage van 400 GT of 
 
 d. bestaande schepen als bedoeld in voorschrift 1 van die Bijlage van minder dan 400 GT die gerechtigd zijn meer dan 15 personen te vervoeren, met ingang van 28 september 2008.     
 5.  Elk schip voldoet aan de op dat schip van toepassing zijnde eisen van Bijlage VI van het Verdrag.   
-6.  Een schip met een of meer dieselmotoren waarop voorschrift 13 van Bijlage VI van het Verdrag van toepassing is, voldoet met betrekking tot die motoren tevens aan de in de NO <sub>x</sub> -Code opgenomen eisen. Het voldoen aan die eisen blijkt voor elk van die motoren uit een overeenkomstig de NO <sub>x</sub> -Code voor de motor afgegeven Internationaal certificaat betreffende voorkoming van luchtverontreiniging door motoren, behorende bij die Code.   
+6.  Een schip met een of meer dieselmotoren waarop voorschrift 13 van Bijlage VI van het Verdrag van toepassing is, voldoet met betrekking tot die motoren tevens aan de in de NO <sub>x</sub> -Code opgenomen eisen. Het voldoen aan die eisen blijkt voor motoren ten aanzien waarvan op grond van de No <sub>x</sub> -Code een pre-certificeringsonderzoek verplicht is, uit een overeenkomstig de NO <sub>x</sub> -Code voor de motor afgegeven Internationaal certificaat betreffende voorkoming van luchtverontreiniging door motoren, behorende bij die Code.   
 
 ### Artikel  6  
 
@@ -312,6 +312,7 @@ Na voltooiing van een hernieuwd onderzoek in verband met de vernieuwing van een 
 2.  Onze Minister kan de geldigheidsduur van een certificaat dat is afgegeven ten behoeve van een schip dat korte reizen maakt, met ten hoogste een maand verlengen.   
 3.  In een geval als bedoeld in het eerste of tweede lid wordt na de voltooiing van het hernieuwde onderzoek de geldigheidsduur van het nieuwe certificaat bepaald aan de hand van de oorspronkelijke vervaldatum van het bestaande certificaat.   
 4.  Indien na de voltooiing van een hernieuwd onderzoek het nieuwe certificaat niet voor de vervaldatum van het bestaande certificaat kan worden afgegeven of aan het schip kan worden verstrekt, kan degene die het onderzoek heeft uitgevoerd daarvan een aantekening plaatsen op het bestaande certificaat. In dat geval wordt het bestaande certificaat nog als geldig aangemerkt voor een tijdvak van ten hoogste vijf maanden na zijn vervaldatum.   
+5.  Onze Minister kan de geldigheidsduur van een certificaat, bedoeld in artikel 23, derde lid, verlengen tot een datum die is gelegen vijf jaren na de afgiftedatum van het certificaat, met dien verstande dat de geldigheidsduur van een certificaat als bedoeld in artikel 12, eerste, tweede en vierde lid, alleen kan worden verlengd na voltooiing van een tussentijds of jaarlijks onderzoek als bedoeld in Bijlage I, II en VI van het Verdrag.   
 
 ### Artikel  26  
 
@@ -349,7 +350,7 @@ Onze Minister kan de geldigheid van een certificaat dat ingevolge [artikel 9, ee
 
 1.  Het is verboden vanaf een schip olie of oliehoudende mengsels als bedoeld in voorschrift 1 van Bijlage I van het Verdrag in zee te lozen, anders dan met inachtneming van de in die Bijlage gegeven voorschriften, met dien verstande dat: 
 
-a. in het gebied van de Middellandse Zee, het gebied van de Oostzee, het gebied van de Zwarte Zee, het Golfgebied, de Noordwest-Europese wateren, bedoeld in voorschrift 1 van die Bijlage, en het Antarctisch gebied de voorschriften 15 en 34 van die Bijlage wat betreft lozingen in bijzondere gebieden van toepassing zijn;  
+a. in het gebied van de Middellandse Zee, het gebied van de Oostzee, het gebied van de Zwarte Zee, het Golfgebied, de Noordwest-Europese wateren en de Zuidelijke Zuid-Afrikaanse wateren, bedoeld in voorschrift 1 van die Bijlage, en het Antarctisch gebied de voorschriften 15 en 34 van die Bijlage wat betreft lozingen in bijzondere gebieden van toepassing zijn;  
 
 b. in de overige bijzondere gebieden, bedoeld in voorschrift 1 van die Bijlage, de voorschriften 15 en 34 van die Bijlage wat betreft lozingen buiten bijzondere gebieden van toepassing zijn, en in deze gebieden de voorschriften 15 en 34 wat betreft lozingen in bijzondere gebieden van toepassing worden op een nader bij besluit van Onze Minister vast te stellen tijdstip, dat wordt bekendgemaakt in de Staatscourant.     
 2.  Het is verboden vanaf een schip bestemd of gebruikt voor het vervoer van schadelijke vloeistoffen in bulk de volgende vloeistoffen in zee te lozen, anders dan met inachtneming van de in Bijlage II van het Verdrag gegeven voorschriften: 
@@ -361,9 +362,10 @@ b. vloeistoffen die op grond van Bijlage II niet zijn gecategoriseerd, noch voor
 4.  Het is verboden vanaf een schip als bedoeld in artikel 5, vierde lid, sanitair afval in zee te lozen anders dan met inachtneming van de in Bijlage IV van het Verdrag gegeven voorschriften.   
 5.  Het is verboden vanaf een schip vuilnis als bedoeld in voorschrift 1 van Bijlage V van het Verdrag in zee te lozen, anders dan met inachtneming van de in die Bijlage gegeven voorschriften, met dien verstande dat: 
 
-a. in het gebied van de Oostzee, het Golfgebied, het gebied van de Noordzee, bedoeld in voorschrift 5 van die Bijlage, en in het Antarctisch gebied voorschrift 5 van die Bijlage van toepassing is;  
+a. in het gebied van de Middellandse Zee, het gebied van de Oostzee, het Golfgebied, het gebied van de Noordzee en het Caraïbisch gebied, bedoeld in voorschrift 5 van die Bijlage, en in het Antarctisch gebied voorschrift 5 van die Bijlage van toepassing is;  
 
 b. in de overige bijzondere gebieden, bedoeld in voorschrift 5 van die Bijlage, voorschrift 3 van die Bijlage van toepassing is, en in deze gebieden voorschrift 5 van die Bijlage van toepassing wordt op een nader bij besluit van Onze Minister vast te stellen tijdstip, dat wordt bekendgemaakt in de Staatscourant.     
+6.  Voor de toepassing van de op grond van dit artikel toepasselijke voorschriften van het Verdrag wordt verstaan onder Administratie: Onze Minister.   
 
 ### Artikel  30  
 
@@ -383,22 +385,6 @@ a. aan boord van schepen brandstofolie te gebruiken die niet voldoet aan de eise
 
 b. afval en andere stoffen als bedoeld in voorschrift 16 van Bijlage VI van het Verdrag aan boord van een schip te verbranden anders dan met inachtneming van de in die Bijlage gegeven voorschriften.     
 3.  Het eerste lid en het tweede lid, onderdeel b, zijn ook van toepassing op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.   
-
-### Artikel  31a  
-
-####Verboden lozingen en gedragingen onder het Ballastwaterverdrag
-
-1.  Het is verboden met een schip ballastwater of sediment uit ballastwater in te nemen of te lozen, tenzij: 
-
-a. deze inname of lozing in overeenstemming is met het bepaalde in de bijlage bij het Ballastwaterverdrag, de krachtens artikel 8, tweede lid gestelde voorschriften, of op grond van artikel 9, tweede lid toegestane afwijkingen van de bijlage bij het Ballastwaterverdrag;  
-
-b. deze inname of lozing in overeenstemming is met de krachtens artikel 38, tweede lid, gestelde voorschriften;  
-
-c. deze inname of lozing plaatsvindt om ballastwater te wisselen in een krachtens artikel 33a, tweede lid, aangewezen gebied, in overeenstemming met de krachtens dat artikel gestelde voorschriften, of  
-
-d. voor het desbetreffende schip in overeenstemming met het Ballastwaterverdrag een vrijstelling of ontheffing is verleend als bedoeld in [artikel 35 van de wet](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md).     
-2.  Het is verboden met een schip ballastwater te lozen gedurende een nadere inspectie als bedoeld in [artikel 3, tweede lid, van de Wet havenstaatcontrole](../../../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) of voor zolang het schip op grond van [artikel 20](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) of [21 van de wet](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) of [artikel 7 van de Wet havenstaatcontrole](../../../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) is aangehouden.   
-3.  Het eerste lid is ook van toepassing op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.   
 
 ### Artikel  32  
 
@@ -429,7 +415,15 @@ d. voor het desbetreffende schip in overeenstemming met het Ballastwaterverdrag 
 
 ####Verplichtingen van de kapitein
 
-De kapitein draagt er zorg voor dat aan boord van een schip de in Bijlage I, V en VI van het Verdrag opgenomen voorschriften en verplichtingen worden nageleefd.  
+1.  De kapitein draagt er zorg voor dat aan boord van een schip de in Bijlage I, V en VI van het Verdrag opgenomen voorschriften en verplichtingen worden nageleefd.   
+2.  De kapitein draagt er zorg voor dat aan boord van een schip in het Antarctisch gebied geen stoffen als bedoeld in voorschrift 43 van Bijlage I van het Verdrag als brandstof worden gebruikt anders dan met inachtneming van dit voorschrift.   
+
+### Artikel  34a  
+
+####Voorwassen van ladingtanks
+
+1.  De kapitein van een schip dat een haven aandoet die is aangewezen krachtens [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) voert een voorwas uit van zijn tank voor zover deze voorwas verplicht is ingevolge de in Bijlage II van het Verdrag gegeven voorschriften.   
+2.  Het voorwassen van ladingtanks geschiedt uitsluitend met inachtneming van de in Bijlage II van het Verdrag gegeven voorschriften.   
 
 ### Artikel  35  
 
@@ -453,11 +447,8 @@ a. van elk schip dat zich in het Antarctisch gebied bevindt, en
 
 b. van elk schip dat zich buiten het Antarctisch gebied bevindt en een tonnage van 400 of meer heeft of waarmee 15 of meer personen mogen worden vervoerd,   draagt er zorg voor dat aan boord het vuilnisjournaal, bedoeld in voorschrift 9 van Bijlage V van het Verdrag, wordt bijgehouden met inachtneming van hetgeen dienaangaande in die Bijlage is bepaald.   
 6.  De kapitein van een schip dat verschillende soorten brandstofolie gebruikt teneinde te voldoen aan voorschrift 14 van Bijlage VI van het Verdrag draagt er zorg voor dat aan boord een journaal wordt bijgehouden met inachtneming van hetgeen dienaangaande in dat voorschrift is bepaald.   
-7.  Onze Minister maakt aantekeningen in het ladingjournaal overeenkomstig de in Bijlage II van het Verdrag gegeven voorschriften.   
-
-### Artikel  36a  
-
-De kapitein van een schip waarop de in artikel 7a bedoelde eisen van toepassing zijn, houdt een ballastwaterjournaal bij overeenkomstig het bepaalde in voorschrift B-2 van de bijlage bij het Ballastwaterverdrag.  
+7.  De kapitein van een schip waarop voorschrift 6.1 van Bijlage VI van het Verdrag van toepassing is en dat navulbare systemen heeft die ozonlaagaantastende stoffen bevatten, draagt er zorg voor dat aan boord het journaal met betrekking tot ozonlaagaantastende stoffen, bedoeld in voorschrift 12 van bijlage VI van het Verdrag, wordt bijgehouden met inachtneming van hetgeen dienaangaande in dat voorschrift is bepaald.   
+8.  Onze Minister maakt aantekeningen in het ladingjournaal overeenkomstig de in Bijlage II van het Verdrag gegeven voorschriften.   
 
 ### Artikel  37  
 

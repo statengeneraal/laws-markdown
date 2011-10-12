@@ -467,7 +467,7 @@ b. ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.
 3.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), afgegeven vóór de 60-jarige leeftijd van een bemanningslid, is geldig tot dertien weken na de dag waarop hij de 60-jarige leeftijd bereikt.   
 4.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), afgegeven vóór de 65-jarige leeftijd van een bemanningslid, is geldig tot dertien weken na de dag waarop hij de 65-jarige leeftijd bereikt.   
 5.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) afgegeven nadat een bemanningslid de 65-jarige leeftijd heeft bereikt, is geldig gedurende een jaar.   
-6.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) is niet vereist voor de gezagvoerder die in het bezit is van een groot patent als bedoeld in het [Patentreglement Rijn](../../../KB/patentreglement/rijn/BWBR0023698/README.md).   
+6.  Een geneeskundige verklaring als bedoeld in [artikel 23 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) is niet vereist voor de gezagvoerder die in het bezit is van een groot patent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
 
 ### Artikel  29  
 

@@ -207,6 +207,27 @@ c. het leiden van het verkeer over de infrastructuur.
 3.  Een concessie wordt verleend voor ten minste drie jaar.   
 4.  Een concessie wordt niet verleend aan een spoorwegonderneming dan met inachtneming van artikel 6, derde lid, van richtlijn 91/440/EEG en de artikelen 4, tweede lid, en 14, tweede lid, van richtlijn 2001/14/EG.   
 
+### Artikel  16a  
+
+1.  Een beheerder beschikt bij de uitvoering van de taken, bedoeld in artikel 16, eerste lid, anders dan ten behoeve van de aanleg van hoofdspoorweginfrastructuur over een geldige veiligheidsvergunning als bedoeld in artikel 11 van richtlijn 2004/49/EG.   
+2.  Onze Minister verleent op aanvraag een veiligheidsvergunning aan de beheerder, indien hij beschikt over een veiligheidszorgsysteem dat: 
+
+a. voldoet aan artikel 9, tweede lid, en bijlage III van richtlijn 2004/49/EG, en  
+
+b. op zodanige wijze is geoperationaliseerd dat het een veilig beheer en gebruik van hoofdspoorweginfrastructuur mogelijk maakt.     
+3.  Een veiligheidsvergunning is ten hoogste vijf jaar geldig.   
+4.  Onze Minister trekt een veiligheidsvergunning in, indien het veiligheidszorgsysteem van de beheerder niet meer voldoet aan het tweede lid.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitvoering van dit artikel, waaronder: 
+
+a. regels ten aanzien van de aanvraag van een veiligheidsvergunning, en  
+
+b. nadere regels ten aanzien het veiligheidszorgsysteem.     
+
+### Artikel  16b  
+
+1.  Een beheerder houdt een register van infrastructuurvoorzieningen dat voldoet aan artikel 35 van richtlijn 2008/57/EG.   
+2.  Een beheerder stelt jaarlijks een verslag op met betrekking tot de spoorwegveiligheid dat voldoet aan artikel 9, vierde lid, van richtlijn 2004/49/EG en zendt dat verslag voor 1 juli aan Onze Minister.   
+
 ### Artikel  17  
 
 1.  Aan de concessie worden in elk geval voorschriften, onder meer houdende prestatie-indicatoren, verbonden om te waarborgen dat: 
@@ -405,7 +426,7 @@ b. door toepassing van een adequaat veiligheidszorgsysteem veilig gebruik te kun
 
 ### Artikel  33  
 
-1.  Het veiligheidsattest is ten hoogste drie jaar geldig.   
+1.  Het veiligheidsattest is ten hoogste vijf jaar geldig.   
 2.  De attesthouder past een adequaat veiligheidszorgsysteem toe, met behulp waarvan wordt gewaarborgd dat de spoorwegonderneming: 
 
 a. bij de normale bedrijfsvoering en bij voorzienbare afwijkingen daarvan geen schade berokkent en niemand onnodig hindert of in gevaar brengt en zorgt dat het spoorverkeer zo veel mogelijk zonder verstoringen kan worden afgewikkeld;  
@@ -476,6 +497,34 @@ a. het spoorvoertuig dan wel de uitrusting daarvan voldoet aan de toepasselijke 
 
 b. ten aanzien van het spoorvoertuig of de uitrusting daarvan een conformiteitsverklaring als bedoeld in richtlijn 2001/16/EG, bijlage VI, punt 3, respectievelijk in richtlijn 96/48/EG, bijlage VI, punt 3, is afgegeven door een keuringsinstantie.     
 2.  Een goedkeuringscertificaat als bedoeld in artikel 36, eerste lid, wordt afgegeven, indien het spoorvoertuig of de uitrusting daarvan voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.   
+
+### Artikel  37a  
+
+1.  Onze Minister verleent op aanvraag een vergunning voor indienststelling of een aanvullende vergunning voor indienststelling voor een type indien hij voor een spoorvoertuig van dat type een dergelijke vergunning heeft verleend.   
+2.  Onze Minister verleent in afwijking van artikel 36, derde en vijfde lid, een vergunning voor indienststelling respectievelijk een aanvullende vergunning voor indienststelling, indien het spoorvoertuig overeenstemt met een type dat voorzien is van een geldige dergelijke vergunning.   
+3.  Onze Minister kan de vergunning voor indienststelling voor een type respectievelijk de aanvullende vergunning voor indienststelling voor een type intrekken,indien het type niet langer voldoet aan de krachtens artikel 36 geldende eisen.   
+4.  De overeenstemming met een type blijkt uit een verklaring van overeenstemming die voldoet aan de daartoe bij regeling van Onze Minister gestelde voorschriften.   
+5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het onderzoek naar de overeenstemming van de productie van het spoorvoertuig waarvoor een vergunning voor indienststelling respectievelijk aanvullende vergunning voor indienststelling van het type is verleend, met dat type.   
+
+### Artikel  37b  
+
+1.  Het is een spoorwegonderneming verboden om met een verbeterd of vernieuwd spoorvoertuig dat volledig in het register, bedoeld in artikel 37, tweede lid, is ingeschreven, van hoofdspoorweginfrastructuur gebruik te maken zonder: 
+
+a. voorafgaande indiening van een informatiedossier als bedoeld in het tweede lid, en  
+
+b. een vergunning dan wel nieuwe vergunning voor indienststelling, indien Onze Minister die krachtens het derde lid, heeft geëist.     
+2.  Degene die de verbetering of vernieuwing bij een spoorvoertuig aanbesteedt dient bij Onze Minister een informatiedossier in, waarin het project beschreven wordt.   
+3.  Onze Minister eist op basis van het informatiedossier, bedoeld in het tweede lid, een vergunning voor indienststelling respectievelijk een nieuwe vergunning voor indienststelling indien de omvang van de voorgenomen verbetering of vernieuwing, de mogelijke gevolgen voor de veiligheid van een betrokken subsysteem of de gevolgen voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur dat noodzakelijk maakt of maken.   
+4.  Artikel 36, derde, vierde en tiende lid, en het krachtens tiende lid van dat artikel bepaalde zijn van toepassing, met dien verstande dat die leden van dat artikel toepassing vinden op de verbetering of vernieuwing.   
+5.  Onze Minister kan op aanvraag, op andere gronden dan genoemd in artikel 9, eerste lid, van richtlijn 2008/57/EG en met inachtneming van artikel 20 van die richtlijn, een of meer voor het betrokken subsysteem vastgestelde technische specificaties inzake interoperabiliteit buiten toepassing laten.   
+6.  Onze Minister eist op basis van het informatiedossier, bedoeld in het tweede lid, indien het spoorvoertuig niet volledig in het register, bedoeld in artikel 37, tweede lid, is ingeschreven, een aanvullende vergunning voor indienststelling respectievelijk nieuwe aanvullende vergunning voor indienststelling, indien de gevolgen van de de verbetering of vernieuwing voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur dat noodzakelijk maken.   
+7.  Artikel 36, vijfde lid, is van toepassing, met dien verstande dat het slechts toepassing vindt op de verbetering of vernieuwing.   
+8.  Het is verboden van hoofdspoorweginfrastructuur gebruik te maken met een verbeterd of vernieuwd spoorvoertuig dat niet volledig in het register, bedoeld in artikel 37, tweede lid, is ingeschreven, zonder: 
+
+a. zonder voorafgaande indiening van een informatiedossier als bedoeld in het tweede lid, en  
+
+b. een aanvullende vergunning voor indienststelling of nieuwe aanvullende vergunning voor indienststelling, indien Onze Minister die krachtens het zesde lid heeft geëist.     
+9.  Het voldoen van de verbetering of vernieuwing bij een spoorvoertuig aan artikel 36, derde lid, onderdelen a tot en met c en e, blijkt uit een geldige verklaring van een aangemelde instantie of van een keuringsinstantie.   
 
 ### Artikel  38  
 
@@ -619,6 +668,57 @@ b. een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algem
 a. de voor de uitoefening van veiligheidsfuncties vereiste specifieke, taakgebonden en bedrijfsgebonden kennis en bekwaamheid;  
 
 b. de geldigheidsduur van bedrijfspassen.     
+
+### Artikel  51a  
+
+1.  Onze Minister verleent op aanvraag een machinistenvergunning indien de machinist: 
+
+a. voldoet aan de krachtens artikel 49, tweede lid, vastgestelde eisen inzake minimumleeftijd;  
+
+b. beschikt over een geldige verklaring van medische geschiktheid en een geldige verklaring van psychologische geschiktheid als bedoeld in artikel 50, tweede lid, onderdeel a, en  
+
+c. beschikt over een geldige beoordeling van Onze Minister waaruit blijkt dat hij voldoet aan de krachtens artikel 49, tweede lid, vastgestelde eisen inzake algemene kennis en vaardigheden voor de veiligheidsfunctie van machinist met volledige bevoegdheid respectievelijk van machinist met beperkte bevoegdheid.     
+2.  Onze Minister schorst of trekt de machinistenvergunning in, indien de machinist niet langer beschikt over een geldige verklaring van medische geschiktheid of een geldige verklaring van psychologische geschiktheid.   
+3.  Onze Minister houdt een register van machinistenvergunningen.   
+4.  Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, verstrekt aan een machinist een bevoegdheidsbewijs indien deze: 
+
+a. voldoet aan de krachtens artikel 49, tweede lid, vastgestelde eisen inzake taalbeheersing;  
+
+b. beschikt over een geldige beoordeling van Onze Minister waaruit blijkt dat hij voldoet aan de krachtens artikel 49, tweede lid, vastgestelde eisen inzake specifieke vakkennis van de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop het bevoegdheidsbewijs betrekking moet hebben, en  
+
+c. beschikt over de voor de uitoefening van die functie vereiste bedrijfsgebonden kennis en bekwaamheid.     
+5.  Degene die een of meer bevoegdheidsbewijzen heeft verstrekt houdt een register van bevoegdheidsbewijzen.   
+6.  Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend onderzoekt periodiek of de machinist voldoet aan: 
+
+a. de voor die veiligheidsfunctie krachtens artikel 49, tweede lid, vastgestelde eisen inzake taalbeheersing;  
+
+b. de krachtens artikel 49, tweede lid, vastgestelde eisen inzake de specifieke vakkennis inzake de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop het bevoegdheidsbewijs betrekking heeft, en  
+
+c. aan de voor die veiligheidsfunctie vereiste bedrijfsgebonden kennis en bekwaamheid.     
+7.  Degene onder wiens gezag de veiligheidsfunctie van machinist wordt uitgeoefend verstrekt bij de beëindiging van het dienstverband van de machinist een gewaarmerkte kopie van het op dat moment geldige bevoegdheidsbewijs.   
+8.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor: 
+
+a. de aanvraag, verlening, geldigheidsduur en verlenging van een machinistenvergunning;  
+
+b. de verstrekking van een duplicaat van een machinistenvergunning;  
+
+c. het register van machinistenvergunningen, bedoeld in het derde lid;  
+
+d. de vorm, inhoud en geldigheidsduur van een bevoegdheidsbewijs en de verstrekking van een gewaarmerkte kopie daarvan;  
+
+e. het register van bevoegdheidsbewijzen, bedoeld in vijfde lid;  
+
+f. de frequentie van het onderzoek, bedoeld in het zesde lid;  
+
+g. de verplichtingen van degene die de bevoegdheidsbewijzen heeft verstrekt, en  
+
+h. de voor de veiligheidsfunctie van machinist met volledige bevoegdheid en van machinist met beperkte bevoegdheid vereiste bedrijfsgebonden kennis en bekwaamheid.     
+
+### Artikel  51b  
+
+1.  Opleidingactiviteiten met het oog op het verkrijgen van een of meer beoordelingen waaruit blijkt dat voldaan wordt aan de krachtens artikel 49, tweede lid, vastgestelde eisen inzake algemene kennis en vaardigheden en specifieke vakkennis inzake de spoorvoertuigen en de hoofdspoorweginfrastructuur worden slechts verricht door daartoe door Onze Minister erkende opleidingsinstituten.   
+2.  Een krachtens het eerste lid, erkend opleidingsinstituut geeft op billijke en non-discriminatoire wijze toegang tot de opleidingsactiviteiten, bedoeld in het eerste lid.   
+3.  Bij of krachtens algemene maatregel van bestuur worden met inachtneming van artikel 20 van richtlijn 2007/59/EG regels gegeven voor de erkenning van de opleidingsinstituten, bedoeld in het eerste lid.   
 
 ### Artikel  52  
 

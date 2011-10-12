@@ -120,10 +120,15 @@ De gegevens die in de leerlingenadministratie zijn opgenomen, blijven daarvan in
 
 ####Leerlingentelling
 
-1.  Voor de toepassing van het bepaalde bij en krachtens de wet worden, onverminderd artikel 5, artikel 7a en artikel 15b, vierde lid, de leerlingen op een school meegeteld die op de teldatum op die school als werkelijk schoolgaand staan ingeschreven, tenzij zij vanaf het begin van het schooljaar tot de teldatum meer dan de helft van het aantal schooldagen zonder geldige reden hebben verzuimd.   
-2.  Voor de toepassing van het eerste lid wordt ten aanzien van de leerplichtige leerling als geldige reden aangemerkt een vrijstelling van geregeld schoolbezoek als bedoeld in de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md). Ten aanzien van de niet-leerplichtige leerling worden als geldige reden aangemerkt dezelfde gronden als die welke leiden tot een vrijstelling van geregeld schoolbezoek als bedoeld in de vorige volzin.   
-3.  Indien de teldatum valt op een dag waarop geen onderwijs wordt gegeven, worden op de eerstvolgende schooldag de leerlingen geteld, die op de teldatum als werkelijk schoolgaand stonden ingeschreven.   
-4.  Een leerling kan slechts op één school voor de bekostiging meetellen.   
+1.  Voor de toepassing van het bepaalde bij en krachtens de wet worden, onverminderd artikel 5 en artikel 7a, de leerlingen op een school meegeteld die: 
+
+a. op de teldatum op die school als werkelijk schoolgaand staan ingeschreven, of  
+
+b. in bij ministeriële regeling te bepalen gevallen tijdelijk buiten de school waar zij staan ingeschreven zijn geplaatst.     
+2.  Het eerste lid is niet van toepassing op leerlingen die vanaf het begin van het schooljaar tot de teldatum meer dan de helft van het aantal schooldagen zonder geldige reden hebben verzuimd.   
+3.  Voor de toepassing van het tweede lid wordt ten aanzien van de leerplichtige leerling als geldige reden aangemerkt een vrijstelling van geregeld schoolbezoek als bedoeld in de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md). Ten aanzien van de niet-leerplichtige leerling worden als geldige reden aangemerkt dezelfde gronden als die welke leiden tot een vrijstelling van geregeld schoolbezoek als bedoeld in de eerste volzin.   
+4.  Indien de teldatum valt op een dag waarop geen onderwijs wordt gegeven, worden op de eerstvolgende schooldag de leerlingen geteld, die op de teldatum als werkelijk schoolgaand stonden ingeschreven.   
+5.  Een leerling kan slechts op één school voor de bekostiging meetellen.   
 
 ### Artikel  7a  
 
@@ -131,7 +136,7 @@ De gegevens die in de leerlingenadministratie zijn opgenomen, blijven daarvan in
 
 1.  Onverminderd artikel 7 wordt een leerling in het op grond van [artikel 69 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigde leerwegondersteunend onderwijs in een schooljaar meegeteld 
 
-a. als leerling in dat onderwijs indien de regionale verwijzingscommissie voor het einde van de in artikel 15b, derde lid, bedoelde termijn bepaalt dat betrokkene is aangewezen op leerwegondersteunend onderwijs of toelaatbaar is tot het praktijkonderwijs;  
+a. als leerling in dat onderwijs indien de regionale verwijzingscommissie voor 15 november volgend op de teldatum bepaalt dat betrokkene is aangewezen op leerwegondersteunend onderwijs of toelaatbaar is tot het praktijkonderwijs;  
 
 b. als leerling van de school waaraan dat onderwijs is verbonden, in andere gevallen dan bedoeld onder a.     
 2.  Onverminderd de artikelen 7 en 7b wordt een leerling slechts meegeteld als leerling van een school voor praktijkonderwijs indien de regionale verwijzingscommissie heeft bepaald dat betrokkene toelaatbaar is tot het praktijkonderwijs. In afwijking van de eerste volzin wordt een leerling voor wie de regionale verwijzingscommissie na 1 oktober een afwijzende beschikking heeft afgegeven onverminderd de artikelen 7 en 7b in het jaar van de toelating meegeteld als leerling van een school voor praktijkonderwijs indien is voldaan aan het bepaalde in [artikel 10g, tweede en derde lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de leerling gedurende dat jaar onderwijs blijft volgen aan de school voor praktijkonderwijs of een andere school.   
@@ -140,7 +145,7 @@ b. als leerling van de school waaraan dat onderwijs is verbonden, in andere geva
 
 ####Leerlingen binnen samenwerkingsovereenkomst VO-BVE
 
-1.  Leerlingen als bedoeld in de [artikelen 2](../../../../AMvB/besluit/samenwerking/vo-bve/BWBR0019143/README.md) en [3 van het Besluit samenwerking VO-BVE](../../../../AMvB/besluit/samenwerking/vo-bve/BWBR0019143/README.md) worden aangemerkt als leerlingen die op de teldatum als werkelijk schoolgaand zijn ingeschreven, als bedoeld in artikel 7, eerste lid. Het bepaalde in artikel 7, eerste en tweede lid, over verzuim is van overeenkomstige toepassing.   
+1.  Leerlingen als bedoeld in de [artikelen 2](../../../../AMvB/besluit/samenwerking/vo-bve/BWBR0019143/README.md) en [3 van het Besluit samenwerking VO-BVE](../../../../AMvB/besluit/samenwerking/vo-bve/BWBR0019143/README.md) worden aangemerkt als leerlingen die op de teldatum als werkelijk schoolgaand zijn ingeschreven, als bedoeld in artikel 7, eerste lid. Het bepaalde in artikel 7, eerste, tweede en derde lid, over verzuim is van overeenkomstige toepassing.   
 2.  In afwijking van het eerste lid, eerste volzin, tellen leerlingen die zijn afgewezen voor een eindexamen als bedoeld in [artikel 29 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en aansluitend op grond van [artikel 3 van het Besluit samenwerking VO-BVE](../../../../AMvB/besluit/samenwerking/vo-bve/BWBR0019143/README.md) voor een of meer vakken voortgezet algemeen volwassenenonderwijs volgen in plaats van voortgezet onderwijs, op de teldatum voor 50% mee, met dien verstande dat zij volledig meetellen voor de bepaling van de hoogte van de bekostiging indien het betreft lesmateriaal als bedoeld in [artikel 6e van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 
 ### Hoofdstuk  2  
@@ -180,6 +185,22 @@ b. als leerling van de school waaraan dat onderwijs is verbonden, in andere geva
 | Doof en blind  | € 1.564,73  | € 3.158,46  | € 3.337,35  | € 274  |
 | Slechthorend en zeer moeilijk lerend  | € 1.564,73  | € 3.158,46  | € 3.337,35  | € 274  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.564,73  | € 3.158,46  | € 2.883,47  | € 236  |
+
+Per 1 augustus 2010:   
+
+| Toelaatbaar verklaard tot (voortgezet) speciaal onderwijs aan/van:  | Bedrag LWOO/PRO exclusief her te besteden bedragen  | Bedrag Overig VO exclusief her te besteden bedragen  | Her te besteden bedrag Personele bekostiging  | Her te besteden bedrag Materiële bekostiging  |
+|:---|:---|:---|:---|:---|
+| a. dove kinderen  | € 2.477,01  | € 3.214,23  | € 5.250,98  | € 558  |
+| b. slechthorende kinderen  | € 1.592,36  | € 3.214,23  | € 3.396,27  | € 216  |
+| c. lichamelijk gehandicapte kinderen  | € 1.621,85  | € 3.214,23  | € 4.534,39  | € 405  |
+| d. langdurig zieke kinderen met een lichamelijke handicap  | € 1.592,36  | € 3.214,23  | € 2.932,60  | € 236  |
+| e. zeer moeilijk lerende kinderen  | € 1.592,36  | € 3.214,23  | € 2.932,60  | € 128  |
+| f. cluster 4  | € 1.592,36  | € 3.214,23  | € 2.932,60  | € 236  |
+| g. meervoudig gehandicapte kinderen met de combinatie:  | --- | --- |
+| Doof en zeer moeilijk lerend  | € 1.592,36  | € 3.214,23  | € 3.396,27  | € 274  |
+| Doof en blind  | € 1.592,36  | € 3.214,23  | € 3.396,27  | € 274  |
+| Slechthorend en zeer moeilijk lerend  | € 1.592,36  | € 3.214,23  | € 3.396,27  | € 274  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.592,36  | € 3.214,23  | € 2.932,60  | € 236  |
 
 Per 1 augustus 2011:   
 
@@ -239,41 +260,8 @@ c. een verklaring van een accountant omtrent de juistheid van de gegevens, bedoe
 
 ####Vaststelling en latere wijziging bekostiging
 
-1.  Onze Minister maakt de in artikel 8 bedoelde bekostiging bekend voorafgaand aan het kalenderjaar, waarop deze betrekking heeft. Indien de verklaring van de accountant, bedoeld in de artikelen 14a, tweede lid, onder c, en 15b, zesde lid, onder c, daartoe aanleiding geeft, wijzigt Onze Minister de bekostiging of aanvullende bekostiging.   
+1.  Onze Minister maakt de in artikel 8 bedoelde bekostiging bekend voorafgaand aan het kalenderjaar, waarop deze betrekking heeft. Indien de verklaring van de accountant, bedoeld in de artikelen 14a, tweede lid, onder c, daartoe aanleiding geeft, wijzigt Onze Minister de bekostiging of aanvullende bekostiging.   
 2.  De in artikel 8 bedoelde bekostiging kan door Onze Minister worden gewijzigd wegens algemene salarismaatregelen of wegens andere al dan niet uit de rijksbegroting voortvloeiende maatregelen.   
-
-### Artikel  15a  
-
-####Aanleveren gegevens volgens de ILT-procedure
-
-1.  Indien Onze Minister bij het vaststellen van de bekostiging van oordeel is dat een bevoegd gezag op grond van 
-
-a. de uitkomsten van de wijze van de gegevenslevering, bedoeld in de «Tijdelijke regeling gegevenslevering in verband met schaduwdraaien onderwijsnummer VO», of  
-
-b. de uitkomsten van de wijze van de gegevenslevering, bedoeld in de «Tijdelijke regeling gegevenslevering in verband met schaduwdraaien onderwijsnummer VO 2003», of  
-
-c. het niet leveren van de gegevens, bedoeld in de onderdelen a of b, niet heeft aangetoond in staat te zijn de leerlingengegevens te leveren op de op grond van de in [artikel 103b van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bedoelde wijze, kan hij bepalen dat de levering van de gegevens over het aantal leerlingen op de teldatum in het schooljaar 2003–2004 plaatsvindt op de wijze zoals bepaald in artikel 15b.     
-2.  Indien het eerste lid van toepassing is, is artikel 14a niet van toepassing.   
-3.  Bij ministeriële regeling kan worden bepaald dat het eerste en tweede lid van overeenkomstige toepassing zijn op de levering van de gegevens over het aantal leerlingen op de teldatum in een of meer schooljaren na het schooljaar 2003–2004.   
-
-### Artikel  15b  
-
-####Melding en terugmelding ILT-gegevens voor vaststelling bekostiging
-
-1.  Indien artikel 15a van toepassing is, doet het bevoegd gezag ten behoeve van de vaststelling van de bekostiging, bedoeld in artikel 8, aan Onze Minister de gegevens over het aantal leerlingen op de teldatum toekomen overeenkomstig het [Besluit informatievoorziening WVO](../../../../AMvB/besluit/informatievoorziening/wvo/BWBR0008948/README.md).   
-2.  Onze Minister doet jaarlijks aan het bevoegd gezag overzichten toekomen van de hem ter beschikking staande gegevens over het aantal leerlingen op de teldatum dat voor de bekostiging voor het daarop volgende kalenderjaar in aanmerking moet worden genomen. Toezending van de overzichten aan het bevoegd gezag vindt plaats voor 15 november volgend op de teldatum.   
-3.  Indien de gegevens, bedoeld in het tweede lid, naar het oordeel van het bevoegd gezag onjuist zijn, kan het bevoegd gezag bij Onze Minister binnen 10 dagen na verzending van de in dat lid bedoelde overzichten de door het bevoegd gezag gecorrigeerde gegevens indienen.   
-4.  Indien als gevolg van de wijzigingen op grond van artikel 5, tweede lid, een wijziging optreedt in de opgave van het aantal leerlingen, bedoeld in het eerste lid, doet het bevoegd gezag van de school waarvan de leerling is of waarvan leerlingen zijn uitgeschreven, binnen zes weken na de uitschrijving daarvan mededeling aan Onze Minister.   
-5.  Bij ministeriële regeling worden voorschriften gegeven voor de toepassing van het eerste, tweede en derde lid. Bij deze regeling wordt in elk geval een model vastgesteld voor correctie als bedoeld in het derde lid.   
-6.  Het bevoegd gezag dient jaarlijks voor 1 juli bij Onze Minister voor het daaropvolgende schooljaar in: 
-
-a. een verklaring van het bevoegd gezag omtrent de juistheid van de in het eerste lid bedoelde aan Onze Minister gemelde gegevens, of  
-
-b. indien de onder a bedoelde aan Onze Minister gemelde gegevens naar het oordeel van het bevoegd gezag onjuist zijn, de door het bevoegd gezag gecorrigeerde gegevens, alsmede  
-
-c. een verklaring van een accountant omtrent de juistheid van de gegevens, bedoeld in onderdeel a of onderdeel b.     
-7.  Bij ministeriële regeling kan een model voor de in het zesde lid, onder a en c, bedoelde verklaringen worden vastgesteld. Onze Minister kan een leidraad vaststellen ten behoeve van de controle door de accountant, bedoeld in het zesde lid, onder c.   
-8.  Indien voor 1 juli in enig jaar aanvullende bekostiging is vastgesteld, dient het bevoegd gezag voor die datum bij Onze Minister een verklaring in omtrent de juistheid van de in voorkomende gevallen met het oog op de vaststelling van de aanvullende bekostiging aan Onze Minister gemelde gegevens. Het zesde lid, onder b en c, en het zevende lid, zijn van overeenkomstige toepassing.   
 
 ### Hoofdstuk  2a  
 

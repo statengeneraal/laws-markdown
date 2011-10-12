@@ -30,7 +30,7 @@ d. raad van bestuur van de mededingingsautoriteit: de raad van bestuur van de me
 
 e. bus: motorrijtuig, al dan niet voorzien van een aanhangwagen, ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen;  
 
-f. auto: motorrijtuig ingericht voor het vervoer van ten hoogste acht personen, de bestuurder daaronder niet begrepen;  
+f. auto: personenauto op ten minste vier wielen, zoals nader omschreven bij ministeriële regeling, ingericht voor het vervoer van ten hoogste acht personen, de bestuurder daaronder niet begrepen;  
 
 g. dienstregeling: voor een ieder kenbaar schema van reismogelijkheden waarin zijn aangeduid de halteplaatsen waartussen en de tijdstippen waarop openbaar vervoer wordt verricht, zo nodig onder de vermelding of de halteplaatsen of de tijdstippen door de reiziger kunnen worden beïnvloed;  
 
@@ -40,7 +40,7 @@ i. besloten busvervoer: personenvervoer per bus, anders dan bedoeld in onderdeel
 
 j. taxivervoer: personenvervoer per auto, anders dan bedoeld in onderdeel h, tegen betaling;  
 
-k. vervoerder: degene die openbaar vervoer, besloten busvervoer of taxivervoer verricht, niet in de hoedanigheid van bestuurder van een auto, bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig;  
+k. vervoerder: degene die openbaar vervoer of besloten busvervoer verricht, niet in de hoedanigheid van bestuurder van een auto, bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig;  
 
 l. concessie: recht om met uitsluiting van anderen openbaar vervoer te verrichten in een bepaald gebied gedurende een bepaald tijdvak;  
 
@@ -48,7 +48,9 @@ m. concessieverlener: het tot verlening van een concessie bevoegde gezag, bedoel
 
 n. concessiehouder: vergunninghoudende vervoerder aan wie een concessie is verleend;  
 
-o. Communautaire vergunning: vergunning als bedoeld in artikel 3bis van verordening (EEG) nr. 684/92 van de Raad van de Europese Gemeenschappen van 16 maart 1992 houdende gemeenschappelijke regels voor het internationaal vervoer van personen met touringcars en met autobussen (PbEG 1992 L74).    
+o. Communautaire vergunning: vergunning als bedoeld in artikel 3bis van verordening (EEG) nr. 684/92 van de Raad van de Europese Gemeenschappen van 16 maart 1992 houdende gemeenschappelijke regels voor het internationaal vervoer van personen met touringcars en met autobussen (PbEG 1992 L74);  
+
+p. verordening 1371/2007/EG: verordening nr. 1371/2007 van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2007 betreffende de rechten en verplichtingen van reizigers in het treinverkeer (PbEU L 315).    
 
 ### §  2  
 
@@ -64,7 +66,8 @@ b. openbaar vervoer over railwegen;
 
 c. openbaar vervoer langs geleidesystemen.     
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat deze wet of de daarop berustende bepalingen geheel of gedeeltelijk mede van toepassing zijn op vervoer dat overeenkomst vertoont met het in het eerste lid bedoelde vervoer of dat deze wet of de daarop berustende bepalingen geheel of gedeeltelijk niet van toepassing zijn op bepaalde soorten van het in het eerste lid bedoelde vervoer.   
-3.  De wet is niet van toepassing op vervoer van personen per auto, anders dan openbaar vervoer, indien de som van de betalingen voor dat vervoer de kosten van de auto en eventuele bijkomende kosten voor dat vervoer niet te boven gaat, tenzij vorenstaande wordt verricht in de uitoefening van een beroep of bedrijf. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de kosten van de auto en eventuele bijkomende kosten.   
+3.  Deze wet is in afwijking van het eerste lid voor wat betreft de onderdelen betreffende de uitvoering van verordening 1371/2007/EG ook van toepassing op ander vervoer van personen langs railwegen dan openbaar vervoer.   
+4.  De wet is niet van toepassing op vervoer van personen per auto, anders dan openbaar vervoer, indien de som van de betalingen voor dat vervoer de kosten van de auto en eventuele bijkomende kosten voor dat vervoer niet te boven gaat, tenzij vorenstaande wordt verricht in de uitoefening van een beroep of bedrijf. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de kosten van de auto en eventuele bijkomende kosten.   
 
 ### Artikel  3  
 
@@ -83,8 +86,7 @@ Deze paragraaf is van toepassing op openbaar vervoer, anders dan per trein, en b
 
 1.  Het is verboden openbaar vervoer anders dan per trein of besloten busvervoer te verrichten zonder een daartoe verleende communautaire vergunning.   
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing in de bij algemene maatregel van bestuur bepaalde gevallen.   
-3.  Het is verboden taxivervoer te verrichten zonder een daartoe verleende vergunning.   
-4.  Voor de toepassing van het eerste en derde lid wordt met het verrichten van besloten busvervoer, respectievelijk taxivervoer, gelijkgesteld het aanbieden van dat vervoer, tenzij dit aanbieden geschiedt door tussenpersonen die bemiddelen in dat vervoer bij wijze van dienstverlening of in de uitoefening van hun beroep of bedrijf.   
+3.  Voor de toepassing van het eerste wordt met het verrichten van besloten busvervoer gelijkgesteld het aanbieden van dat vervoer, tenzij dit aanbieden geschiedt door tussenpersonen die bemiddelen in dat vervoer bij wijze van dienstverlening of in de uitoefening van hun beroep of bedrijf.   
 
 ### Artikel  5  
 
@@ -92,20 +94,18 @@ Onze Minister beslist op een aanvraag voor een vergunning.
 
 ### Artikel  5a  
 
-1.  De vervoerder die openbaar vervoer, besloten busvervoer of taxivervoer verricht, alsmede de bestuurder van een bus of auto waarmee openbaar vervoer, besloten busvervoer of taxivervoer wordt verricht, draagt er zorg voor dat in de bus of auto waarmee dat vervoer wordt verricht een geldig vergunningbewijs aanwezig is.   
-2.  De vervoerder die taxivervoer verricht, alsmede de bestuurder van een auto waarmee taxivervoer wordt verricht, draagt er zorg voor dat in de auto waarmee dat vervoer wordt verricht het vergunningbewijs zichtbaar voor de reiziger aanwezig is.   
-3.  Vergunningbewijzen kunnen op aanvraag door Onze Minister worden verstrekt aan de vergunninghouder.   
+1.  De vervoerder die openbaar vervoer of besloten verricht, alsmede de bestuurder van een bus of auto waarmee openbaar vervoer of besloten wordt verricht, draagt er zorg voor dat in de bus of auto waarmee dat vervoer wordt verricht een geldig vergunningbewijs aanwezig is.   
+2.  Vergunningbewijzen kunnen op aanvraag door Onze Minister worden verstrekt aan de vergunninghouder.   
 
 ### Artikel  6  
 
 1.  Een vergunning als bedoeld in artikel 4, eerste lid, wordt verleend voor een periode van vijf jaar.   
-2.  Een vergunning als bedoeld in artikel 4, derde lid, wordt verleend voor onbepaalde tijd.   
-3.  Een vergunning kan worden geweigerd, gewijzigd, geschorst of ingetrokken. Een vergunning wordt geschorst voor bepaalde tijd.   
-4.  Een vergunning wordt steeds geweigerd, indien binnen een periode van twee jaar direct voorafgaande aan de datum van indiening van een aanvraag voor een vergunning een eerder aan de aanvrager verleende vergunning is ingetrokken op grond van artikel 99, onderdeel a, of onderdeel b, voor zover het betreft de eis van betrouwbaarheid.   
-5.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-6.  Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
-7.  Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.   
-8.  De beperkingen waaronder een vergunning wordt verleend en de aan een vergunning verbonden voorschriften kunnen ambtshalve of op aanvraag worden gewijzigd, geschorst of ingetrokken.   
+2.  Een vergunning kan worden geweigerd, gewijzigd, geschorst of ingetrokken. Een vergunning wordt geschorst voor bepaalde tijd.   
+3.  Een vergunning wordt steeds geweigerd, indien binnen een periode van twee jaar direct voorafgaande aan de datum van indiening van een aanvraag voor een vergunning een eerder aan de aanvrager verleende vergunning is ingetrokken op grond van artikel 99, onderdeel a, of onderdeel b, voor zover het betreft de eis van betrouwbaarheid.   
+4.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+5.  Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+6.  Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.   
+7.  De beperkingen waaronder een vergunning wordt verleend en de aan een vergunning verbonden voorschriften kunnen ambtshalve of op aanvraag worden gewijzigd, geschorst of ingetrokken.   
 
 ### Artikel  7  
 
@@ -216,6 +216,29 @@ Gegevens of inlichtingen omtrent een onderneming, die in verband met enige werkz
 1.  Het is verboden openbaar vervoer te verrichten zonder daartoe verleende concessie.   
 2.  Indien op grond van artikel 42 of  43 een concessie is opgehouden te bestaan, kan maximaal één jaar openbaar vervoer worden verricht zonder concessie volgens bij ministeriële regeling nader te stellen regels.   
 3.  Het eerste lid geldt niet ten aanzien van vervoer per trein verricht door internationale samenwerkingsverbanden als bedoeld in richtlijn 91/440/EEG van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende de ontwikkeling van de spoorwegen in de Gemeenschap (PbEG L 237) voor zover de in artikel 10 van die richtlijn bedoelde diensten worden verricht.   
+
+### Artikel  19a  
+
+1.  De raad van bestuur van de mededingingsautoriteit doet zo spoedig mogelijk na ontvangst van een melding als bedoeld in [artikel 57, tweede of derde lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), mededeling van die melding in de Staatscourant en aan de betrokken concessieverleners en concessiehouders en vermeldt daarbij de mogelijkheid van een aanvraag als bedoeld in het tweede lid, en de termijn voor indiening van die aanvraag.   
+2.  De raad van bestuur van de mededingingsautoriteit stelt op daartoe strekkende aanvraag van een of meer concessieverleners of concessiehouders of de beheerder, bedoeld in [artikel 1, onderdeel h, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), vast of het ingevolge [artikel 57, tweede of derde lid van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), gemelde voorgenomen vervoer: 
+
+a. internationaal passagiersvervoer als hoofddoel heeft, of  
+
+b. het daarvan deel uitmakende vervoer van passagiers tussen stations in Nederland het economisch evenwicht van een of meer concessies van een spoorwegonderneming in gedrang brengt.     
+3.  De raad van bestuur van de mededingingsautoriteit is bevoegd de inlichtingen te vorderen en de inzage van zakelijke gegevens en bescheiden te vorderen die hij redelijkerwijs nodig heeft voor de behandeling van een aanvraag als bedoeld in het tweede lid.   
+4.  Een ieder, met uitzondering van de personen, bedoeld in a [rtikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is verplicht binnen redelijke termijn de door de raad van bestuur van de mededingingsautoriteit gevorderde inlichtingen te verstrekken of de gevorderde inzage van zakelijke gegevens en bescheiden te verlenen.   
+5.  De raad van bestuur van de mededingingsautoriteit geeft de beschikking op de aanvraag binnen acht weken na ontvangst van de overeenkomstig het derde lid gevorderde gegevens en bescheiden.   
+6.  De raad van bestuur van de mededingingsautoriteit doet mededeling van de aanvraag, en van de beschikking, bedoeld in het vijfde lid, aan de betrokken beheerder, bedoeld in [artikel 1, onderdeel h, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en doet mededeling van die beschikking in de Staatscourant.   
+7.  Onze Minister kan, binnen acht weken na de mededeling bedoeld in het zesde lid, van een beschikking als bedoeld in het tweede lid, onderdeel b, besluiten om het vervoer van passagiers tussen stations in Nederland te beperken, mits: 
+
+a. de raad van bestuur van de mededingingsautoriteit, op grond van het tweede lid, onderdeel b, heeft vastgesteld dat dit vervoer het economisch evenwicht van een of meer concessies van een spoorwegonderneming in gedrang brengt;  
+
+b. Onze Minister hierbij de beschikbare kwaliteit voor de reiziger en de financiële belangen van een of meer betrokken concessiehouders in acht neemt, en  
+
+c. de gestelde beperkingen niet verder gaan dan noodzakelijk is om het in gedrang komen van het economisch evenwicht van een of meer concessies van een spoorwegonderneming te voorkomen.   Onze Minister kan binnen de genoemde termijn van acht weken besluiten om deze termijn met ten hoogste zes weken te verlengen.   
+8.  Onze Minister beperkt het vervoer van passagiers tussen stations in Nederland voor grensoverschrijdend openbaar vervoer per trein zonder concessie op het traject waarvoor de aan HSA beheer N.V. verleende concessie voor de duur van vijftien jaar, met aanvangsdatum 1 juli 2009, van toepassing is.   
+9.  Het tweede lid, onderdeel b, en het zevende lid zijn niet van toepassing op het vervoer, bedoeld in het achtste lid.   
+10.  Het personenvervoer per trein in strijd met de krachtens het zevende dan wel het achtste lid vastgestelde beperkingen is verboden.   
 
 ### §  2  
 
@@ -783,13 +806,180 @@ b. de verplichting tot betaling en het recht op terugbetaling.
 
 ### Hoofdstuk  V  
 
-####De rijksbijdrage voor exploitatie van openbaar vervoer
-
-### Hoofdstuk  VI  
-
-####Internationaal vervoer en taxivervoer
+####Taxivervoer
 
 ### §  1  
+
+####Vergunning
+
+### Artikel  75  
+
+1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt met het verrichten van taxivervoer gelijkgesteld het aanbieden van dat vervoer, tenzij dit aanbieden geschiedt door tussenpersonen die bemiddelen in dat vervoer bij wijze van dienstverlening of in de uitoefening van hun beroep of bedrijf.   
+2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder «de vervoerder die taxivervoer verricht» verstaan: degene die taxivervoer verricht, niet in de hoedanigheid van bestuurder van een auto.   
+
+### Artikel  76  
+
+1.  Het is verboden taxivervoer te verrichten zonder een daartoe verleende vergunning.   
+2.  Een vergunning als bedoeld in het eerste lid wordt verleend voor onbepaalde tijd.   
+3.  De vervoerder die taxivervoer verricht, alsmede de bestuurder van een auto waarmee taxivervoer wordt verricht, draagt er zorg voor dat in de auto waarmee dat vervoer wordt verricht het vergunningbewijs zichtbaar voor de reiziger aanwezig is.   
+4.  Een in het eerste lid bedoelde vergunning wordt, behoudens in bij algemene maatregel van bestuur bepaalde gevallen, slechts verleend aan een vervoerder die voldoet aan eisen van betrouwbaarheid en vakbekwaamheid.   
+5.  Onze Minister kan vrijstelling verlenen van het derde lid en van de in het vierde lid bedoelde eis van vakbekwaamheid.   
+6.  De artikelen 5 tot en met 9 en 11 zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 9, vijfde lid, bedoelde regels over de eisen van kredietwaardigheid niet van toepassing zijn op de vervoerder die taxivervoer verricht.   
+
+### §  2  
+
+####Geschillen en klachten
+
+### Artikel  77  
+
+1.  De vervoerder die taxivervoer verricht voorziet, al dan niet in samenwerking met andere vervoerders, in het op verzoek behandelen van geschillen over de totstandkoming of de uitvoering van een vervoersovereenkomst als bedoeld in de [artikelen 80, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), en [100, eerste lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), door instelling van een geschillencommissie.   
+2.  Artikel 12, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste lid.   
+
+### Artikel  78  
+
+1.  De vervoerder die taxivervoer verricht, maakt op een naar de aard van het vervoer geëigende wijze kenbaar op welke wijze klachten over het verrichten van taxivervoer worden behandeld.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste lid.   
+
+### §  3  
+
+####Verplichtingen betreffende bestuurders en voertuigen taxivervoer
+
+### Artikel  79  
+
+1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over: 
+
+a. de inrichting, uitrusting en herkenbaarheid van een auto waarmee taxivervoer wordt verricht;  
+
+b. de keuring van een auto waarmee taxivervoer wordt verricht;  
+
+c. het kenbaar maken van tarieven aan de consument;  
+
+d. de minimale beschikbaarheid van taxivervoer;  
+
+e. de eisen en verplichtingen te stellen aan vervoerders die taxivervoer verrichten en aan bestuurders van een auto waarmee taxivervoer wordt verricht;  
+
+f. de wijze waarop wordt aangetoond dat aan de ingevolge de onderdelen a tot en met e gestelde regels wordt voldaan;  
+
+g. de vergoedingen die zijn verschuldigd voor de met de krachtens de paragrafen 1 tot en met 4 van dit hoofdstuk gestelde regels samenhangende werkzaamheden af te geven documenten;  
+
+h. de administratie die de vervoerder voert ten behoeve van een doelmatig toezicht op de naleving van het bij of krachtens deze wet bepaalde.     
+2.  De in het eerste lid, aanhef en onderdeel a, bedoelde regels over de inrichting en uitrusting kunnen mede betrekking hebben op: 
+
+a. de aanwezigheid van apparatuur en voorzieningen ter registratie van ritten, tarieven, prijzen en arbeids- en rusttijden;  
+
+b. het gebruik van zodanige apparatuur en voorzieningen met inbegrip van de afzonderlijke onderdelen daarvan;  
+
+c. de keuring van zodanige apparatuur en voorzieningen dan wel de installatie daarvan.     
+3.  De in het eerste lid bedoelde regels kunnen verschillen al naar gelang de aard van het taxivervoer of de locatie waar taxivervoer wordt verricht.   
+4.  Voor zover dit noodzakelijk is ter toetsing van de geschiktheid van bestuurders, kunnen in het kader van de in het eerste lid, onder e, bedoelde eisen en verplichtingen, onder meer gegevens betreffende de gezondheid en het gedrag van bestuurders worden verwerkt. Het bestuursorgaan dat bevoegd is tot toetsing aan deze eisen, is verantwoordelijk voor de verwerking van de gegevens als bedoeld in de Wet bescherming persoonsgegevens.   
+
+### Artikel  80  
+
+Het is verboden taxivervoer te verrichten in strijd met de bij of krachtens de artikelen 79, 81, 82a en 82b gestelde regels.  
+
+### §  4  
+
+####Tarieven
+
+### Artikel  81  
+
+1.  Met het oog op de inzichtelijkheid voor de consument worden bij ministeriële regeling regels gesteld over tarieven voor taxivervoer. Deze regels kunnen betrekking hebben op: 
+
+a. de wijze waarop het tarief is opgebouwd;  
+
+b. de verplichting om de tariefopbouw toe te passen;  
+
+c. een toe te passen maximumtarief.     
+2.  Het eerste lid heeft geen betrekking op tarieven voor taxivervoer dat wordt verricht ter uitvoering van een schriftelijke overeenkomst, waarbij gedurende een bij die overeenkomst vastgestelde periode meermalen taxivervoer wordt verricht tegen een in die overeenkomst vastgelegd tarief.   
+
+### §  4a  
+
+####Vervoerbewijzen
+
+### Artikel  81a  
+
+Bij ministeriële regeling kunnen regels worden gesteld over elektronische vervoerbewijzen, en daaraan te stellen eisen, voor taxivervoer. Deze regels kunnen in elk geval betrekking hebben op: 
+
+a. de invoering, de vaststelling, de uitgifte, de exploitatie of het beheer van deze vervoerbewijzen;  
+
+b. het gebruik, de geldigheid of de acceptatie;  
+
+c. de erkenning van een of meer instellingen die deze vervoerbewijzen uitgeven, exploiteren of beheren, alsmede de voorschriften waaraan dergelijke instellingen moeten voldoen.    
+
+### §  5  
+
+####Gemeentelijke bevoegdheden
+
+### Artikel  82  
+
+1.  Bij of krachtens gemeentelijke verordening kunnen regels worden gesteld die in het belang zijn van de kwaliteit van op de gemeentelijke openbare weg aangeboden taxivervoer.   
+2.  De in het eerste lid bedoelde regels strekken tot aanvulling van de bij of krachtens deze wet vastgestelde bepalingen en hebben geen betrekking op andere onderwerpen dan die van de artikelen 82a en 82b.   
+
+### Artikel  82a  
+
+1.  Bij of krachtens gemeentelijke verordening kunnen regels worden gesteld over: 
+
+a. de herkenbaarheid van een auto waarmee taxivervoer op de gemeentelijke openbare weg wordt aangeboden;  
+
+b. de eisen en verplichtingen te stellen aan bestuurders van een in onderdeel a bedoelde auto;  
+
+c. de indiening en behandeling van klachten van consumenten over taxivervoer;  
+
+d. de wijze waarop wordt aangetoond dat aan de ingevolge de onderdelen a tot en met c gestelde regels wordt voldaan;  
+
+e. de vergoedingen die zijn verschuldigd voor de uitvoeringskosten die samenhangen met de krachtens deze paragraaf gestelde regels af te geven documenten en vergunningen en de uitvoeringskosten die samenhangen met de instandhouding van die documenten en vergunningen.     
+2.  De in het eerste lid bedoelde regels kunnen verschillen al naar gelang de locatie waar taxivervoer wordt verricht.   
+3.  De in het eerste lid bedoelde regels kunnen betrekking hebben op een verplichting voor de in dat lid bedoelde bestuurders om vanaf een of meer daartoe bij gemeentelijke verordening aangewezen locaties, consumenten op hun verzoek te vervoeren.   
+4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over het eerste lid.   
+5.  De in het vierde lid bedoelde regels kunnen in elk geval betrekking hebben op: 
+
+a. de voorwaarden en beperkingen van de toepassing van de in het eerste lid bedoelde bevoegdheden;  
+
+b. de aansluiting op bij of krachtens artikel 79 gestelde regels.     
+
+### Artikel  82b  
+
+1.  Onverminderd artikel 82a kan bij of krachtens gemeentelijke verordening worden bepaald dat het gebruik van de bij die verordening te bepalen gemeentelijke openbare weg of delen daarvan, voor wat betreft het aldaar aanbieden van taxivervoer, uitsluitend is voorbehouden aan vervoerders en bestuurders van auto’s die taxivervoer verrichten die overeenkomstig de bij en krachtens dit artikel gestelde regels deel uitmaken van een organisatorisch verband.   
+2.  Het in het eerste lid bedoelde organisatorische verband heeft een verbetering van de kwaliteit van taxivervoer ten doel.   
+3.  Bij of krachtens een in het eerste lid bedoelde gemeentelijke verordening worden regels gesteld over de eisen aan en verplichtingen van het organisatorisch verband en de eisen aan en de verplichtingen van de vervoerders en de bestuurders van de in het eerste lid bedoelde auto’s die daar deel van uitmaken alsmede de regels die nodig zijn voor een goede uitvoering van de in het eerste lid bedoelde bevoegdheid.   
+4.  De in het eerste lid bedoelde gemeentelijke verordening stelt regels over het minimum aantal binnen de gemeente betrokken organisatorische verbanden.   
+5.  De in het derde lid bedoelde regels kunnen mede betrekking hebben op verlening van vergunningen aan de in dit artikel bedoelde organisatorische verbanden en degenen die daarvan deel uitmaken, alsmede op de intrekking, wijziging en schorsing van die vergunningen. De artikelen 6, vierde en vijfde lid, en 99, eerste lid, onderdeel c, en tweede lid, zijn van overeenkomstige toepassing.   
+6.  De in het derde lid bedoelde eisen en verplichtingen hebben in elk geval betrekking op de volgende onderwerpen: 
+
+a. het bestuur en de organisatie van het verband;  
+
+b. de juridische verhouding tussen het bestuur van het verband en de vervoerders en bestuurders van auto’s die daar deel van uitmaken;  
+
+c. het gedrag van bestuurders van auto’s die taxivervoer verrichten;  
+
+d. de herkenbaarheid van de auto’s waarmee taxivervoer wordt verricht;  
+
+e. de wijze waarop de in het tweede lid bedoelde doelstelling met inachtneming van in het derde lid bedoelde eisen en verplichtingen, door het verband wordt uitgewerkt in een reglement;  
+
+f. de instelling van privaatrechtelijke controles betreffende de nakoming van de in het reglement vastgelegde verplichtingen, door een of meer onafhankelijke en deskundige instanties en het optreden van het verband naar aanleiding van tijdens die controles geconstateerde onregelmatigheden;  
+
+g. de registratie en behandeling van klachten van consumenten;  
+
+h. de rapportage over de uitkomsten van de in onderdeel f bedoelde controles en het in dat onderdeel bedoelde optreden van het verband alsmede van de afhandeling van de in onderdeel g bedoelde klachten;  
+
+i. opvolging van in het zevende lid bedoelde aanwijzingen;  
+
+j. de wijze van vastlegging van en verantwoording over de in de onderdelen a tot en met i bedoelde eisen en verplichtingen door het organisatorisch verband.     
+7.  Het college van burgemeester en wethouders van de desbetreffende gemeente kan op de in het eerste lid bedoelde delen van de gemeentelijke openbare weg aanwijzingen geven aan de in het eerste lid bedoelde bestuurders van auto’s, voor zover dat ter plaatse noodzakelijk is voor een goede uitvoering van de in het derde lid bedoelde eisen en verplichtingen.   
+8.  Bij ministeriële regeling kunnen nadere regels worden gesteld over het eerste en derde lid.   
+9.  De in het achtste lid bedoelde regels kunnen in elk geval betrekking hebben op: 
+
+a. de voorwaarden en beperkingen van de toepassing van de in het eerste, derde en zevende lid, bedoelde bevoegdheden;  
+
+b. de aansluiting op bij of krachtens artikel 79 gestelde regels.     
+10.  Dit artikel is uitsluitend van toepassing op bij ministeriële regeling aangewezen gemeenten.   
+
+### Artikel  82c  
+
+In afwijking van artikel 93 is het college van burgemeester en wethouders van de desbetreffende gemeente bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens deze paragraaf gestelde verplichtingen.  
+
+### Hoofdstuk  VI  
 
 ####Internationaal vervoer
 
@@ -804,34 +994,6 @@ b. openbaar vervoer, besloten busvervoer en taxivervoer dat door een in Nederlan
 c. het rijden met een lege bus of auto over voor het openbaar verkeer openstaande wegen in Nederland of het rijden met een lege bus of auto door een in Nederland gevestigde vervoerder geheel of ten dele buiten Nederland of door een buiten Nederland gevestigde vervoerder geheel of ten dele in Nederland, voor zover dat verband houdt met het verrichten van openbaar vervoer, besloten busvervoer of taxivervoer.     
 2.  De regels, bedoeld in het eerste lid, kunnen mede betrekking hebben op de vergoeding die de aanvrager is verschuldigd voor de behandeling van de aanvraag om verlening of wijziging van de voor dat vervoer benodigde documenten.   
 
-### §  2  
-
-####Taxivervoer
-
-### Artikel  84  
-
-1.  Met het oog op de inzichtelijkheid voor de consument worden bij ministeriële regeling regels gesteld over tarieven voor taxivervoer. Deze regels kunnen betrekking hebben op: 
-
-a. de wijze waarop het tarief is opgebouwd;  
-
-b. de verplichting de tariefopbouw toe te passen.     
-2.  De regeling kan voorschriften bevatten omtrent een toe te passen maximumtarief.   
-3.  De regeling heeft geen betrekking op tarieven voor taxivervoer dat wordt verricht ter uitvoering van een schriftelijke overeenkomst waarbij gedurende een bij die overeenkomst vastgestelde periode meermalen taxivervoer wordt verricht tegen een in die overeenkomst vastgelegd tarief.   
-
-### Artikel  85  
-
-Het is verboden taxivervoer te verrichten in strijd met de krachtens artikel 84 gestelde regels.  
-
-### Artikel  86  
-
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld betreffende: 
-
-a. de minimale beschikbaarheid van het taxivervoer;  
-
-b. het kenbaar maken van de tarieven aan de consument;  
-
-c. de administratie die de vervoerder dient te voeren ten behoeve van een doelmatig toezicht op de naleving van het bij of krachtens deze wet bepaalde.    
-
 ### Hoofdstuk  VII  
 
 ####Handhaving
@@ -842,11 +1004,18 @@ c. de administratie die de vervoerder dient te voeren ten behoeve van een doelma
 
 ### Artikel  87  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen personen en, voor zover het betreft het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 19 en 30 tot en met 40, de bij besluit van de bestuursorganen, bedoeld in artikel 20, tweede en derde lid, aangewezen personen.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast: 
+
+a. de bij besluit van Onze Minister aangewezen personen;  
+
+b. de bij besluit van de bestuursorganen, bedoeld in artikel 20, tweede en derde lid, aangewezen personen, voor zover het de door hen verleende concessies betreft, voor het bepaalde bij of krachtens de artikelen 19 en 30 tot en met 40, en  
+
+c. de bij besluit van het college van burgemeester en wethouders van de desbetreffende gemeenten aangewezen personen, voor zover het betreft het toezicht op naleving van het bepaalde bij of krachtens de artikelen 82a en 82b.     
 2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn voorts belast de in [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren en de met betrekking tot deze wet krachtens [artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) aangewezen ambtenaren.   
 3.  Onverminderd het bepaalde in het eerste en tweede lid zijn met het toezicht op de naleving van het bij of krachtens de artikelen 70 tot en met 74 bepaalde mede belast personen die daartoe door de vervoerder zijn aangewezen.   
-4.  Met het toezicht op de naleving van het bepaalde in artikel 69, eerste, vijfde en zevende lid, zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit.   
-5.  Van een besluit als bedoeld in het eerste lid of vierde lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+4.  Met het toezicht op de naleving van het bepaalde bij verordening 1371/2007/EG zijn de bij besluit van Onze Minister aangewezen personen belast.   
+5.  Met het toezicht op de naleving van het bepaalde in artikel 69, eerste, vijfde en zevende lid, zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit.   
+6.  Van een besluit als bedoeld in het eerste, vierde of vijfde lid, wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  88  
 
@@ -877,7 +1046,9 @@ De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplic
 
 ### Artikel  93  
 
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.  
+1.  Onze Minister is de handhavende instantie, bedoeld in artikel 30 van verordening 1371/2007/EG.   
+2.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen en van verordening 1371/2007/EG.   
+3.  De raad van bestuur van de mededingingsautoriteit is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van artikel 19a, vierde lid.   
 
 ### Artikel  94  
 
@@ -910,7 +1081,7 @@ Indien naar het oordeel van de in de artikelen 87 of  89 bedoelde ambtenaren en
 
 a. indien is gehandeld in strijd met het bij of krachtens deze wet bepaalde;  
 
-b. indien niet langer wordt voldaan aan een van de in artikel 9, eerste lid, bedoelde eisen, tenzij een ontheffing als bedoeld in het tweede lid van dat artikel is verleend;  
+b. indien niet langer wordt voldaan aan een van de in artikel 9, eerste lid, en artikel 76, vierde lid bedoelde eisen, tenzij een ontheffing als bedoeld in het tweede lid van dat artikel is verleend;  
 
 c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).     
 2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
@@ -922,7 +1093,7 @@ c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevord
 
 ### Artikel  101  
 
-1.  Niet naleving van de artikelen 70 tot en met 73, alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens de artikelen 74, tweede lid, en 104, aanhef en onderdelen a en b, is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.   
+1.  Niet naleving van de artikelen 70 tot en met 73, alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens artikel 74, tweede lid, is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.   
 2.  Indien de reiziger ten aanzien van wie door een ambtenaar of persoon, bedoeld in de artikelen 87 en 89, is vastgesteld dat hij in strijd handelt met de artikelen 70 of  71, niet voldoet aan de verplichting, bedoeld in artikel 92, worden de in het eerste lid bedoelde straffen verhoogd tot een hechtenis van ten hoogste vier maanden, onderscheidenlijk een geldboete van de derde categorie.   
 
 ### Artikel  102  
@@ -931,7 +1102,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat het recht tot strafvor
 
 ### Artikel  103  
 
-Overtreding van de artikelen 4 en 11, tweede en derde lid, zijn misdrijven.  
+Overtreding van de artikelen 4, 11, tweede en derde lid, 76, eerste en zesde lid, voor zover in laatstbedoeld lid wordt verwezen naar artikel 11, tweede en derde lid zijn misdrijven.  
 
 ### Hoofdstuk  VIII  
 
@@ -943,7 +1114,7 @@ Overtreding van de artikelen 4 en 11, tweede en derde lid, zijn misdrijven.
 
 ### Artikel  104  
 
-1.  Bij of krachtens algemene maatregel van bestuur kunnen met het oog op het verrichten van openbaar vervoer anders dan openbaar vervoer per trein, besloten busvervoer en taxivervoer regels worden gesteld over: 
+1.  Bij of krachtens algemene maatregel van bestuur kunnen met het oog op het verrichten van openbaar vervoer anders dan openbaar vervoer per trein en besloten busvervoer regels worden gesteld over: 
 
 a. inrichting en uitrusting van een auto, bus, metro, tram of een via een geleidesysteem voortbewogen voertuig;  
 
@@ -1134,7 +1305,15 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 ### Artikel  142  
 
-Na de inwerkingtreding van artikel 127 berust de Regeling maximumtarief en bekendmaking tarieven taxivervoer, op artikel 84 van deze wet.  
+1.  Na de inwerkingtreding van artikel 127 berust de [Regeling maximumtarief en bekendmaking tarieven taxivervoer](../../../../../ministeriele-regeling/regeling/maximumtarief/en/bekendmaking/tarieven/taxivervoer/BWBR0010998/README.md), op artikel 84 van deze wet.   
+2.  Indien Artikel I, onderdeel E, van het bij koninklijke boodschap van 21 juni 2010 ingediende voorstel van wet, inhoudende regels ter bevordering van de kwaliteit in het taxivervoer (32 424) in werking treedt, berust het [Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) mede op de artikelen 76, zesde lid, 77, derde lid, 78, tweede lid, en 79, en berust de [Regeling maximumtarief en bekendmaking tarieven taxivervoer](../../../../../ministeriele-regeling/regeling/maximumtarief/en/bekendmaking/tarieven/taxivervoer/BWBR0010998/README.md) mede op artikel 81.   
+3.  Indien Artikel I, onderdeel E, van het bij koninklijke boodschap van 21 juni 2010 ingediende voorstel van wet, inhoudende regels ter bevordering van de kwaliteit in het taxivervoer (32 424) in werking treedt: 
+
+a. worden in [artikel 6, eerste lid, van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) de verwijzingen naar de artikelen 4, derde lid, 5 tot en met 9 en 11 gelezen als een verwijzing naar artikel 76, wordt de verwijzing naar de artikelen 12 en 13 gelezen als een verwijzing naar de artikelen 77 en 78, en wordt de verwijzing naar artikel 104 gelezen als een verwijzing naar artikel 79, eerste lid, onderdelen a, b, e, f en g, tweede en vierde lid, van deze wet;  
+
+b. wordt in [artikel 72a van het in onderdeel a bedoelde besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) de verwijzing naar artikel 13, eerste lid, gelezen als een verwijzing naar artikel 78, eerste lid, van deze wet;  
+
+c. wordt in [artikel 115 van het in onderdeel a bedoelde besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) de verwijzing naar artikel 4 gelezen als een verwijzing naar artikel 76 van deze wet.     
 
 ### Artikel  143  
 
