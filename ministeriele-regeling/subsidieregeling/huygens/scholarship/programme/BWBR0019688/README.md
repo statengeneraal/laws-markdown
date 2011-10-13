@@ -162,14 +162,6 @@ d. kosten voor de ziektekostenverzekering die de promovendus moet afsluiten; en
 
 e. in het onderzoeksvoorstel geraamde kosten voor het uitvoeren van het promotieonderzoek.     
 
-### Artikel  6  
-
-####indiening subsidieaanvraag
-
-1.  Subsidieaanvragen kunnen worden ingediend bij Nuffic.   
-2.  Subsidieaanvragen, alsmede de begeleidende documenten, genoemd in artikel 4, derde, vierde en vijfde lid, dienen uiterlijk te zijn ontvangen op 31 januari, voorafgaand aan het studiejaar waarop de aanvraag betrekking heeft.   
-3.  Onvolledige subsidieaanvragen worden niet in behandeling genomen, tenzij zij, na een daartoe strekkend verzoek, binnen een termijn van twee weken zijn aangevuld.   
-
 ### Artikel  7  
 
 ####Beslissing op subsidieaanvraag
@@ -298,6 +290,12 @@ c. artikel 7, tweede lid, beslist de minister uiterlijk op 1 juni 2006 op een s
 ####Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 februari 2006.  
+
+### Artikel  18a  
+
+####vervaldatum
+
+De regeling vervalt met ingang van 1 januari 2016.  
 
 ### Artikel  19  
 
