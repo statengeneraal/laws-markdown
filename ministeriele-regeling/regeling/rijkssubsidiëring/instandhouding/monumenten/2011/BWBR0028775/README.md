@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 27 september 2010, nr. WJZ-236771 (8292), houdende nadere regels op grond van het Besluit rijkssubsidiëring instandhouding monumenten 2011 (Regeling rijkssubsidiëring instandhouding monumenten 2011)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 3, tweede lid](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), [5](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), [6, eerste en tweede lid](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), [10, derde lid](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), [12, derde lid](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), en [38, eerste lid, van het Besluit rijkssubsidiëring instandhouding monumenten 2011](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md);
+Gelet op de artikelen 3, tweede lid, 5, 6, eerste en tweede lid, 10, derde lid, 12, derde lid, en 38, eerste lid, van het Besluit rijkssubsidiëring instandhouding monumenten 2011;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ In deze regeling wordt verstaan onder:
 
 a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap,  
 
-b. *besluit:*[Besluit rijkssubsidiëring instandhouding monumenten 2011](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md),  
+b. *besluit:*Besluit rijkssubsidiëring instandhouding monumenten 2011,  
 
 c. *werkzaamheden:* werkzaamheden ter uitvoering van het instandhoudingsplan,  
 
@@ -30,13 +30,11 @@ Subsidiabel zijn de kosten van werkzaamheden, maatregelen en voorzieningen ten b
 
 ####Subsidieplafonds
 
-1.  Het subsidieplafond, bedoeld in [artikel 5 van het besluit](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), bedraagt voor de jaarlijks te verlenen subsidies: 
+1..  Voor subsidieverlening op grond van artikel 3 van het besluit zijn in het jaar 2012 de volgende subsidieplafonds van toepassing: 
 
-a. op aanvragen als bedoeld in [artikel 6, eerste lid, van het besluit](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), voor het jaar 2011: € 41.200.000, en  
+a. voor aanvragen als bedoeld in artikel 6, eerste lid, van het besluit: € 49.200.000, en  
 
-b. op aanvragen als bedoeld in [artikel 6, tweede lid, van het besluit](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), waarvan de subsidiabele kosten € 700.000 of meer bedragen, voor het jaar 2011: € 16 miljoen.  
-
-c. op aanvragen voor beschermde archeologische monumenten: voor het jaar 2011: € 800.000.     
+b. voor aanvragen voor beschermde archeologische monumenten: € 800.000.     
 2.  Indien voor 15 januari van enig jaar geen subsidieplafond is vastgesteld, gelden als subsidieplafonds de subsidieplafonds bedoeld in het eerste lid.   
 
 ### Artikel  4  
@@ -47,12 +45,10 @@ c. op aanvragen voor beschermde archeologische monumenten: voor het jaar 2011: �
 
 a. voor woonhuizen: € 25.000,  
 
-b. voor kerkgebouwen: € 699.999,  
+b. voor kerkgebouwen: € 100.000, en  
 
-c. voor overige: € 100.000, en  
-
-d. met subsidiabele kosten van € 700.000 of meer: € 1 miljoen.     
-2.  Onverminderd het bepaalde in het eerste lid, onderdeel d, geldt voor een aanvraag voor beschermde monumenten of zelfstandige onderdelen uit verschillende categorieën het hoogste voor die categorieën geldende maximumbedrag aan subsidiabele kosten.   
+c. voor overige: € 50.000.     
+2.  Indien een aanvraag beschermde monumenten of zelfstandige onderdelen omvat uit verschillende categorieën dan geldt als maximum aan subsidiabele kosten het hoogste voor die categorieën geldende maximumbedrag.   
 
 ### Artikel  5  
 
@@ -62,9 +58,9 @@ In het aanvraagformulier kunnen de volgende aanvullende bescheiden worden gevraa
 
 a. een of meer actuele overzichts- en detailfoto’s die een duidelijke indruk geven van het beschermd monument of zelfstandig onderdeel en zijn gebreken,  
 
-b. voor het geval de subsidieaanvraag een zelfstandig onderdeel als bedoeld in [artikel 1, eerste lid, onderdeel h, onder 1° en 2°, van het besluit](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md) betreft, een tekening waarop de omvang van het zelfstandig onderdeel is weergegeven,  
+b. voor het geval de subsidieaanvraag een zelfstandig onderdeel als bedoeld in artikel 1, eerste lid, onderdeel h, onder 1° en 2°, van het besluit betreft, een tekening waarop de omvang van het zelfstandig onderdeel is weergegeven,  
 
-c. voor het geval de subsidieaanvraag een zelfstandig onderdeel als bedoeld in [artikel 1, eerste lid, onderdeel h, onder 3° en 4°, van het besluit](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md) betreft, een kaart waarop de betrokken kadastrale percelen zijn aangegeven,  
+c. voor het geval de subsidieaanvraag een zelfstandig onderdeel als bedoeld in artikel 1, eerste lid, onderdeel h, onder 3° en 4°, van het besluit betreft, een kaart waarop de betrokken kadastrale percelen zijn aangegeven,  
 
 d. voor het geval het instandhoudingsplan ingrijpende werkzaamheden bevat: 
 
@@ -76,16 +72,22 @@ d. voor het geval het instandhoudingsplan ingrijpende werkzaamheden bevat:
 
 ### Artikel  6  
 
-####Nader verdeelcriterium
+####Nadere verdeelcriteria
 
-1.  Indien een subsidieplafond als bedoeld in artikel 3 na toepassing van [artikel 12, eerste lid, van het besluit](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md) dreigt te worden overschreden of wordt overschreden als gevolg van het aantal aanvragen dat op dezelfde dag wordt ontvangen, worden de aanvragen die op die dag ontvangen zijn, door middel van loting gerangschikt.   
-2.  De hoogst gerangschikte aanvraag komt het eerst voor subsidie in aanmerking.   
+1.  Indien een subsidieplafond met toepassing van artikel 12, eerste lid, van het besluit dreigt te worden overschreden of wordt overschreden als gevolg van het aantal aanvragen dat op dezelfde dag wordt ontvangen, wordt op die aanvragen in de volgende volgorde beslist: 
+
+1° aanvragen die in ieder geval betrekking hebben op beschermde monumenten ten behoeve waarvan voor de instandhouding in het jaar 2006 op grond van de wet subsidie is verleend voor een periode van zes jaar;  
+
+2° aanvragen die in ieder geval betrekking hebben op beschermde monumenten ten behoeve waarvan voor de instandhouding in het jaar 2011 op grond van artikel 3 van het besluit subsidie is aangevraagd en niet is verleend;  
+
+3° aanvragen die niet voldoen aan het eerste of het tweede onderdeel.     
+2.  Indien bij toepassing van het eerste lid het subsidieplafond dreigt te worden overschreden of wordt overschreden door subsidieverlening aan alle aanvragen in een van de groepen aanvragen, bedoeld in het eerste lid, wordt op de aanvragen in die groep beslist in volgorde van totale begrote kosten uit de meerjarenbegroting, bedoeld in artikel 11 van het besluit, waarbij een aanvraag met lagere totale begrote kosten voorrang krijgt.   
 
 ### Artikel  7  
 
 ####Gefaseerde inwerkingtreding
 
-1.  Het besluit wordt met ingang van 1 januari 2011 van toepassing op beschermde monumenten en zelfstandige onderdelen, met dien verstande dat eigenaren van beschermde monumenten en zelfstandige onderdelen uit de categorieën kerkgebouwen en overige, bedoeld in [artikel 1, tweede lid, van het besluit](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md), die behoren tot de CBS-categorie kerkelijke gebouwen en kerkonderdelen/objecten met de rijksmonumentnummers 26.100 tot en met 45.949 eerst met ingang van 1 januari 2012 in aanmerking komen voor subsidie.   
+1.  Het besluit wordt met ingang van 1 januari 2011 van toepassing op beschermde monumenten en zelfstandige onderdelen, met dien verstande dat eigenaren van beschermde monumenten en zelfstandige onderdelen uit de categorieën kerkgebouwen en overige, bedoeld in artikel 1, tweede lid, van het besluit, die behoren tot de CBS-categorie kerkelijke gebouwen en kerkonderdelen/objecten met de rijksmonumentnummers 26.100 tot en met 45.949 eerst met ingang van 1 januari 2012 in aanmerking komen voor subsidie.   
 2.  De eigenaar van een beschermd monument kan omtrent de CBS-categorie van zijn beschermd monument of zelfstandig onderdeel gegevens opvragen bij de Rijksdienst voor het Cultureel Erfgoed.   
 
 ### Artikel  8  
@@ -263,11 +265,11 @@ f. kosten voor werkzaamheden voor zover die reeds aangevangen of voltooid zijn v
 
 ####Algemeen
 
-In hoofdstuk 1.1 staan algemene bepalingen ten aanzien van subsidiabele kosten. Deze bepalingen gelden voor alle subsidiabele kosten, genoemd in deze bijlage. Met deze bijlage 'Leidraad subsidiabele instandhoudingskosten Brim 2011' (hierna: Leidraad) wordt gestreefd naar een efficiënte afhandeling van subsidieaanvragen en subsidievaststellingen. Daartoe is aangesloten bij de indeling van werkzaamheden bij de reeds bestaande ‘STABU-hoofdcodering’. STABU staat voor Standaardbestek voor de Burger- en Utiliteitsbouw. De Leidraad is gebaseerd op dezelfde codering als STABU. Voor specifieke werkzaamheden, die niet of onvoldoende in de STABU-hoofdcodering voorkomen, is een nieuwe codering toegevoegd. Dit is bijvoorbeeld gebeurd voor werktuigbouwkundige installaties, ‘klinkende’ monumenten (zoals orgels), ‘groene’ monumenten (zoals parken en tuinen) en archeologische monumenten. In het instandhoudingsplan, met name in de werkomschrijving of het bestek en in de begroting, moeten de onderdelen zoals genoemd in deze Leidraad terug te vinden zijn. Kosten van werkzaamheden die niet zijn opgenomen in de Leidraad komen niet voor subsidieverlening in aanmerking. In een aantal gevallen is aangegeven welke kosten niet subsidiabel zijn. Deze niet-subsidiabele kostenposten zijn telkens bedoeld ter verduidelijking en als afbakening om aan te geven waar de grens tussen subsidiabel en niet-subsidiabel ligt, maar zijn niet limitatief. Waar in de Leidraad wordt gesproken van ‘instandhouding’, wordt gelet op [artikel 34 van de Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) zowel op onderhoud als op herstel gedoeld. De werkzaamheden moeten strekken tot instandhouding van het beschermd monument of het zelfstandig onderdeel daarvan, ze moeten sober, doelmatig en technisch noodzakelijk zijn en gericht op maximaal behoud van monumentale waarden. Het is uiteindelijk ter beoordeling van de minister of aan deze uitgangspunten wordt voldaan. Sober en doelmatig houdt in dit verband in dat de werkzaamheden gericht moeten zijn op maximaal behoud van monumentale waarden, dat ze op een vakkundige wijze worden uitgevoerd en dat met de werkzaamheden verval en vervolgschade worden voorkomen. Behoud gaat hierbij vóór herstel, herstel vóór vervanging en vervanging vóór reconstructie. Het reconstrueren van monumenten is in beginsel niet subsidiabel. Bij (materiaal)technisch noodzakelijk gebleken vervanging dienen de nieuwe onderdelen in materiaal, vorm, detaillering, uitvoering, afwerking én kwaliteit zoveel mogelijk overeen te komen met de afkomende, te vervangen onderdelen. Van geval tot geval zal een gedegen afweging moeten plaatsvinden of onderdelen of elementen gereconstrueerd mogen en kunnen worden en zo ja op welke manier. Zoals gezegd worden alleen de werkzaamheden die direct verband houden met de instandhouding van de monumentale waarden van het beschermd monument, op grond van het [Brim 2011](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md) gesubsidieerd. Uit de aard der zaak wordt de hoofdstructuur van het monument daartoe gerekend, maar ook bijvoorbeeld vaste interieuronderdelen en monumentale installaties. In de Leidraad zijn werkzaamheden die als zodanig kunnen worden aangemerkt opgenomen. Een en ander neemt niet weg dat deze werkzaamheden niet altijd noodzakelijk zullen zijn en dus ook niet altijd zonder meer subsidiabel zullen zijn. Zo zal bijvoorbeeld herstel van voegwerk dat technisch gezien nog goed is, niet subsidiabel zijn. Het onderhoud van niet-monumentale verwarmingsinstallaties, elektrotechnische en andere installaties is evenmin subsidiabel.  
+In hoofdstuk 1.1 staan algemene bepalingen ten aanzien van subsidiabele kosten. Deze bepalingen gelden voor alle subsidiabele kosten, genoemd in deze bijlage. Met deze bijlage 'Leidraad subsidiabele instandhoudingskosten Brim 2011' (hierna: Leidraad) wordt gestreefd naar een efficiënte afhandeling van subsidieaanvragen en subsidievaststellingen. Daartoe is aangesloten bij de indeling van werkzaamheden bij de reeds bestaande ‘STABU-hoofdcodering’. STABU staat voor Standaardbestek voor de Burger- en Utiliteitsbouw. De Leidraad is gebaseerd op dezelfde codering als STABU. Voor specifieke werkzaamheden, die niet of onvoldoende in de STABU-hoofdcodering voorkomen, is een nieuwe codering toegevoegd. Dit is bijvoorbeeld gebeurd voor werktuigbouwkundige installaties, ‘klinkende’ monumenten (zoals orgels), ‘groene’ monumenten (zoals parken en tuinen) en archeologische monumenten. In het instandhoudingsplan, met name in de werkomschrijving of het bestek en in de begroting, moeten de onderdelen zoals genoemd in deze Leidraad terug te vinden zijn. Kosten van werkzaamheden die niet zijn opgenomen in de Leidraad komen niet voor subsidieverlening in aanmerking. In een aantal gevallen is aangegeven welke kosten niet subsidiabel zijn. Deze niet-subsidiabele kostenposten zijn telkens bedoeld ter verduidelijking en als afbakening om aan te geven waar de grens tussen subsidiabel en niet-subsidiabel ligt, maar zijn niet limitatief. Waar in de Leidraad wordt gesproken van ‘instandhouding’, wordt gelet op artikel 34 van de Monumentenwet 1988 zowel op onderhoud als op herstel gedoeld. De werkzaamheden moeten strekken tot instandhouding van het beschermd monument of het zelfstandig onderdeel daarvan, ze moeten sober, doelmatig en technisch noodzakelijk zijn en gericht op maximaal behoud van monumentale waarden. Het is uiteindelijk ter beoordeling van de minister of aan deze uitgangspunten wordt voldaan. Sober en doelmatig houdt in dit verband in dat de werkzaamheden gericht moeten zijn op maximaal behoud van monumentale waarden, dat ze op een vakkundige wijze worden uitgevoerd en dat met de werkzaamheden verval en vervolgschade worden voorkomen. Behoud gaat hierbij vóór herstel, herstel vóór vervanging en vervanging vóór reconstructie. Het reconstrueren van monumenten is in beginsel niet subsidiabel. Bij (materiaal)technisch noodzakelijk gebleken vervanging dienen de nieuwe onderdelen in materiaal, vorm, detaillering, uitvoering, afwerking én kwaliteit zoveel mogelijk overeen te komen met de afkomende, te vervangen onderdelen. Van geval tot geval zal een gedegen afweging moeten plaatsvinden of onderdelen of elementen gereconstrueerd mogen en kunnen worden en zo ja op welke manier. Zoals gezegd worden alleen de werkzaamheden die direct verband houden met de instandhouding van de monumentale waarden van het beschermd monument, op grond van het Brim 2011 gesubsidieerd. Uit de aard der zaak wordt de hoofdstructuur van het monument daartoe gerekend, maar ook bijvoorbeeld vaste interieuronderdelen en monumentale installaties. In de Leidraad zijn werkzaamheden die als zodanig kunnen worden aangemerkt opgenomen. Een en ander neemt niet weg dat deze werkzaamheden niet altijd noodzakelijk zullen zijn en dus ook niet altijd zonder meer subsidiabel zullen zijn. Zo zal bijvoorbeeld herstel van voegwerk dat technisch gezien nog goed is, niet subsidiabel zijn. Het onderhoud van niet-monumentale verwarmingsinstallaties, elektrotechnische en andere installaties is evenmin subsidiabel.  
 
 ####Interieur
 
-Voor zover het werkzaamheden aan het interieur van het monument betreft, wordt het volgende opgemerkt. In de Leidraad is bij de subsidiabele kosten niet telkens onderscheid gemaakt tussen kosten van werkzaamheden aan de buitenkant van een monument en van werkzaamheden aan de binnenkant van een monument. Uitgangspunt is dat kosten die betrekking hebben op werkzaamheden aan de binnenkant van een monument, slechts subsidiabel zijn indien die werkzaamheden strekken tot behoud van de monumentale waarde van het monument of bijvoorbeeld om constructieve reden noodzakelijk zijn. Zo zal het ‘witten’ van binnenmuren in de meeste gevallen niet subsidiabel zijn omdat dit niet noodzakelijk is voor de bescherming van de monumentale waarde of een constructieve noodzaak heeft. Dit schilderwerk is wel subsidiabel indien pleisterwerk om constructieve of technische redenen vervangen moet worden. Of interieuronderdelen daadwerkelijk monumentale waarden bezitten, dient, voor zover mogelijk, beoordeeld te worden aan de hand van hetgeen vermeld is in de omschrijving van het beschermd monument in het monumentenregister. Daarnaast kan ook het oordeel van de minister ertoe leiden dat in het kader van de vaststelling van de subsidiabele kosten aan bepaalde onderdelen monumentale waarde wordt toegekend. Het interieur van een beschermd monument bestaat uit vaste en losse onderdelen. Het [Burgerlijk Wetboek (art. 3:4)](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is bepalend voor de vraag of iets kan worden aangemerkt als vast interieuronderdeel van een gebouw. De vuistregels zijn in dit verband grofweg: is iets hecht verbonden met het gebouw of maakt iets het gebouw als gebouw compleet. Ten aanzien van de fysieke hechtheid van de verbinding werd in het verleden ook wel gesproken van ‘aard- en nagelvast’. Hierbij kan worden gedacht aan vloeren, plafonds, schouwen en betimmeringen, hecht verankerd (kerk)meubilair, maar ook aan wandbespanningen en geschilderd behangsel. Voor de vraag of een gebouw incompleet is, moet worden gekeken of het gebouw zonder het interieuronderdeel als gebouw incompleet – onaf – is. Voorbeelden van dit soort interieuronderdelen zijn deuren (die betrekkelijk eenvoudig uit hun hengsels zijn te lichten) en wandafwerkingen, aangebracht op of voor onafgewerkte muurvlakken, die zonder beschadiging zijn te verwijderen. Het gaat hierbij overigens om het gebouw en niet zozeer om de functie die het heeft. Het ontbreken van een object dat van belang is voor de functie, bijvoorbeeld voor de eredienst in een kerkgebouw, maakt dit gebouw niet incompleet. Voor zover vaste interieuronderdelen van belang zijn voor de monumentale waarde van het beschermd monument, zijn de kosten van werkzaamheden aan deze onderdelen in beginsel subsidiabel. Bij losse interieuronderdelen (veelal de inrichting) kan gedacht worden aan gebruiksvoorwerpen, gordijnen, kandelaars, los meubilair, kerkschatten, schilderijen en tapijten. Losse interieuronderdelen en de werkzaamheden daaraan, zijn niet subsidiabel. Hiermee is uiteraard niet gezegd dat losse voorwerpen en objecten niet van waarde kunnen zijn in relatie tot het beschermd monument. Hiervan is namelijk in veel gevallen sprake, zoals ook blijkt uit veel omschrijvingen van beschermde monumenten in het monumentenregister. De [Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) maakt subsidiëring van dergelijke – ‘roerende’ – zaken echter niet mogelijk.  
+Voor zover het werkzaamheden aan het interieur van het monument betreft, wordt het volgende opgemerkt. In de Leidraad is bij de subsidiabele kosten niet telkens onderscheid gemaakt tussen kosten van werkzaamheden aan de buitenkant van een monument en van werkzaamheden aan de binnenkant van een monument. Uitgangspunt is dat kosten die betrekking hebben op werkzaamheden aan de binnenkant van een monument, slechts subsidiabel zijn indien die werkzaamheden strekken tot behoud van de monumentale waarde van het monument of bijvoorbeeld om constructieve reden noodzakelijk zijn. Zo zal het ‘witten’ van binnenmuren in de meeste gevallen niet subsidiabel zijn omdat dit niet noodzakelijk is voor de bescherming van de monumentale waarde of een constructieve noodzaak heeft. Dit schilderwerk is wel subsidiabel indien pleisterwerk om constructieve of technische redenen vervangen moet worden. Of interieuronderdelen daadwerkelijk monumentale waarden bezitten, dient, voor zover mogelijk, beoordeeld te worden aan de hand van hetgeen vermeld is in de omschrijving van het beschermd monument in het monumentenregister. Daarnaast kan ook het oordeel van de minister ertoe leiden dat in het kader van de vaststelling van de subsidiabele kosten aan bepaalde onderdelen monumentale waarde wordt toegekend. Het interieur van een beschermd monument bestaat uit vaste en losse onderdelen. Het Burgerlijk Wetboek (art. 3:4) is bepalend voor de vraag of iets kan worden aangemerkt als vast interieuronderdeel van een gebouw. De vuistregels zijn in dit verband grofweg: is iets hecht verbonden met het gebouw of maakt iets het gebouw als gebouw compleet. Ten aanzien van de fysieke hechtheid van de verbinding werd in het verleden ook wel gesproken van ‘aard- en nagelvast’. Hierbij kan worden gedacht aan vloeren, plafonds, schouwen en betimmeringen, hecht verankerd (kerk)meubilair, maar ook aan wandbespanningen en geschilderd behangsel. Voor de vraag of een gebouw incompleet is, moet worden gekeken of het gebouw zonder het interieuronderdeel als gebouw incompleet – onaf – is. Voorbeelden van dit soort interieuronderdelen zijn deuren (die betrekkelijk eenvoudig uit hun hengsels zijn te lichten) en wandafwerkingen, aangebracht op of voor onafgewerkte muurvlakken, die zonder beschadiging zijn te verwijderen. Het gaat hierbij overigens om het gebouw en niet zozeer om de functie die het heeft. Het ontbreken van een object dat van belang is voor de functie, bijvoorbeeld voor de eredienst in een kerkgebouw, maakt dit gebouw niet incompleet. Voor zover vaste interieuronderdelen van belang zijn voor de monumentale waarde van het beschermd monument, zijn de kosten van werkzaamheden aan deze onderdelen in beginsel subsidiabel. Bij losse interieuronderdelen (veelal de inrichting) kan gedacht worden aan gebruiksvoorwerpen, gordijnen, kandelaars, los meubilair, kerkschatten, schilderijen en tapijten. Losse interieuronderdelen en de werkzaamheden daaraan, zijn niet subsidiabel. Hiermee is uiteraard niet gezegd dat losse voorwerpen en objecten niet van waarde kunnen zijn in relatie tot het beschermd monument. Hiervan is namelijk in veel gevallen sprake, zoals ook blijkt uit veel omschrijvingen van beschermde monumenten in het monumentenregister. De Monumentenwet 1988 maakt subsidiëring van dergelijke – ‘roerende’ – zaken echter niet mogelijk.  
 
 ####Veiligheid
 
@@ -287,7 +289,7 @@ Voor de instandhouding van een monument is specifiek vakmanschap doorgaans onont
 
 ####Meerwerk
 
-Tijdens de uitvoering van het instandhoudingsplan kunnen onverwacht gebreken aan het licht komen, waardoor extra werkzaamheden noodzakelijk zijn om het beschermd monument in stand te kunnen houden. Mits het subsidiabele instandhoudingswerkzaamheden betreft, kan de begrotingspost ‘onvoorzien’ voor de dekking hiervan gebruikt worden. De systematiek van het [Brim 2011](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/2011/BWBR0028785/README.md) laat het tussentijds verhogen van de subsidie voor dergelijk meerwerk namelijk niet toe.  
+Tijdens de uitvoering van het instandhoudingsplan kunnen onverwacht gebreken aan het licht komen, waardoor extra werkzaamheden noodzakelijk zijn om het beschermd monument in stand te kunnen houden. Mits het subsidiabele instandhoudingswerkzaamheden betreft, kan de begrotingspost ‘onvoorzien’ voor de dekking hiervan gebruikt worden. De systematiek van het Brim 2011 laat het tussentijds verhogen van de subsidie voor dergelijk meerwerk namelijk niet toe.  
 
 ####Informatie en toegang voor publiek
 
@@ -1736,7 +1738,7 @@ De kosten voor het opstellen van een instandhoudingsplan, door een architect/bou
 * het opstellen van de – meer of minder gespecificeerde – meerjarenbegroting   In de toelichting op het aanvraagformulier is aangegeven aan welke eisen genoemde stukken dienen te voldoen. Het subsidiabele honorariumbedrag voor het opstellen van een instandhoudingsplan wordt als volgt vastgesteld: Eerst wordt het honorariumpercentage bepaald aan de hand van het hiernavolgende overzicht, waarin dat percentage is gerelateerd aan de totale instandhoudingskosten/bouwsom. Vervolgens wordt het subsidiabele honorariumbedrag berekend door het gevonden honorariumpercentage te vermenigvuldigen met de subsidiabele kosten.  Overzicht van honorariumpercentages gerelateerd aan de totale instandhoudingskosten: 
 
 | Instandhoudingskosten  | Percentage  |
-|:---|:---|
+|---|---|
 | tot  | € 50.000  | 3,43%  |
 | tot  | € 100.000  | 3,22%  |
 | tot  | € 150.000  | 3,04%  |
@@ -1795,7 +1797,7 @@ Bij instandhoudingsplannen is begeleiding door een architect/bouwkundige/groenbe
 * het opstellen van de eindafrekening en de financiële verantwoording inclusief het eventueel bijgestelde plan   De totale kosten voor de begeleiding van de uitvoering van een instandhoudingsplan, over de planperiode van zes jaar gerekend, zijn aan een maximum gebonden. Het subsidiabele honorariumbedrag voor de begeleiding wordt als volgt vastgesteld: Eerst wordt het honorariumpercentage bepaald aan de hand van het hiernavolgende overzicht, waarin dat percentage is gerelateerd aan de totale instandhoudingskosten/bouwsom. Vervolgens wordt het subsidiabele honorariumbedrag berekend door het gevonden honorariumpercentage te vermenigvuldigen met de subsidiabele kosten.  Overzicht van honorariumpercentages gerelateerd aan de totale instandhoudingskosten: 
 
 | Instandhoudingskosten  | Percentage  |
-|:---|:---|
+|---|---|
 | tot  | € 50.000  | 7,86%  |
 | tot  | € 100.000  | 7,36%  |
 | tot  | € 150.000  | 6,95%  |
@@ -1844,7 +1846,7 @@ Bij instandhoudingsplannen is begeleiding door een architect/bouwkundige/groenbe
 Indien de instandhoudingswerkzaamheden ook ingrijpender herstel en/of grote ingrepen omvatten zijn aanvullende, meer gedetailleerde stukken nodig om het instandhoudingsplan goed te kunnen beoordelen. Welke aanvullende stukken dat betreft hangt af van het uit te voeren werk. In dit verband wordt verwezen naar de uitgebreide toelichting op het aanvraagformulier. Voor het (laten) vervaardigen van de benodigde aanvullende stukken mag de architect/bouwkundige/groenbeheerder/archeoloog boven op het honorarium een toeslag berekenen. De totale som (plankosten, begeleidingskosten en toeslag) is aan een maximum gebonden conform onderstaande tabel.  Overzicht van de toeslagpercentages gerelateerd aan de som van de opstel- en begeleidingskosten en toeslag: 
 
 | Instandhoudingskosten  | Over 6 jaar maximaal  |
-|:---|:---|
+|---|---|
 | tot  | € 50.000  | 15,00%  |
 | tot  | € 100.000  | 14,00%  |
 | tot  | € 150.000  | 13,00%  |
@@ -1883,7 +1885,7 @@ De indirecte kosten zijn de kosten van de hulpmiddelen en de organisatie die nod
 
 ° voorbereiding;  
 
-° Arbo-voorzieningen ten behoeve van de uitvoering van het werk (inclusief de kosten voor het Arbo-plan/-dossier en de uitvoering daarvan een en ander conform de eisen van de [Arbo-wet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md));  
+° Arbo-voorzieningen ten behoeve van de uitvoering van het werk (inclusief de kosten voor het Arbo-plan/-dossier en de uitvoering daarvan een en ander conform de eisen van de Arbo-wet);  
 
 ° inrichting van het bouwterrein (onder andere de huur plus aan-/afvoer van keten alsmede de elektrische en werktuigbouwkundige werkzaamheden ten behoeve van de terreininrichting);  
 
