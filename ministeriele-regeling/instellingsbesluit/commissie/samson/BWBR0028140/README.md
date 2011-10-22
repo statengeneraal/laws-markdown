@@ -12,7 +12,7 @@ Besluiten:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de Ministers:* de Minister van Justitie en de Minister voor Jeugd en Gezin;  
+a. *de Ministers:* de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport;  
 
 b. *de Commissie:* de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst.    
 
@@ -54,13 +54,15 @@ Als leden van de Commissie worden benoemd:
 
 a. Mevrouw mr. H.W. Samson-Geerlings, voormalig procureur-generaal, tevens voorzitter;  
 
-b. Mevrouw dr. P.C.M. Bakker, universitair hoofddocent aan de Rijksuniversiteit Groningen;  
+b. Mevrouw prof. dr. mr. C.C.J.H. Bijleveld, hoogleraar criminologie aan de Vrije Universiteit;  
 
-c. Mevrouw prof. dr. mr. C.C.J.H. Bijleveld, hoogleraar criminologie aan de Vrije Universiteit;  
+c. Mevrouw dr. S. Dijkstra, lector hogeschool Avans Breda;  
 
-d. Mevrouw dr. S. Dijkstra, lector hogeschool Avans Breda;  
+d. De heer prof. dr. mr. G.D. Minderman, bijzonder hoogleraar Public Governance en Public Law aan de faculteit der economische wetenschappen en bedrijfskunde aan de Vrije Universiteit;  
 
-e. De heer prof. dr. mr. G.D. Minderman, bijzonder hoogleraar Public Governance en Public Law aan de faculteit der economische wetenschappen en bedrijfskunde aan de Vrije Universiteit.    
+e. De heer prof. dr. J. Hendriks, hoofd van de jeugdafdeling van het poliklinisch forensisch psychiatrische centrum De Waag te Den Haag en tevens bijzonder hoogleraar Forensische Psychiatrie en Psychologie aan de Vrije Universiteit en Bijzonder Hoogleraar Forensische Orthopedagogische Diagnostiek en Behandeling aan de Universiteit van Amsterdam.  
+
+f. De heer prof. dr. H.E.M. Baartman, emeritus hoogleraar Preventie en Hulpverlening inzake Kindermishandeling aan de Vrije Universiteit.    
 
 ### Artikel  6  
 
@@ -82,7 +84,7 @@ De Commissie kan zich op onderdelen van haar taak laten bijstaan door personen v
 
 ####Rapport
 
-1.  De Commissie brengt binnen twee jaar na haar instelling een rapport uit aan de Ministers.   
+1.  De Commissie brengt uiterlijk 31 december 2012 een rapport uit aan de Ministers.   
 2.  Het rapport wordt algemeen beschikbaar gesteld.   
 3.  Indien de Commissie daartoe aanleiding ziet in de bevindingen van het onderzoek, doet zij tussentijds verslag aan de Ministers.   
 4.  Indien onvoorziene omstandigheden naar het oordeel van de Commissie in de weg staan aan het tijdig uitbrengen van het rapport, dan stelt zij de Ministers daarvan onverwijld op de hoogte.   
@@ -98,7 +100,7 @@ De leden van de Commissie, voor zover niet vallend onder de uitzondering van [ar
 
 ####Archivering
 
-De archiefbescheiden van de Commissie worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Justitie.  
+De archiefbescheiden van de Commissie worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Veiligheid en Justitie.  
 
 ### Artikel  11  
 
