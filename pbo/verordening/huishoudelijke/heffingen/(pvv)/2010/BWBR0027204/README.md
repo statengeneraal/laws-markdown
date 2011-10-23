@@ -34,7 +34,7 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 1.  De ondernemer die in het jaar 2010 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap ter dekking van zijn huishoudelijke uitgaven over die dieren een heffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt: 
 
-a. € 1,07 per rund, waarvan € 0,09 niet als zodanig in mindering mag worden gebracht up de aan de leverancier uit te betalen prijs;  
+a. € 0,65 per rund, waarvan € 0,05 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
 b. € 0,51 per kalf, waarvan € 0,04 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
