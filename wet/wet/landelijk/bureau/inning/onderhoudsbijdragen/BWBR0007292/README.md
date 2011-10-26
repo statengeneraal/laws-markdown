@@ -35,7 +35,7 @@ a. bij of krachtens [Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet
 b. bij of krachtens de [Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) opgedragen taken ter zake van de vaststelling en inning van ouderbijdragen; en  
 
 c. bij andere wetten opgedragen taken.     
-4.  Het Bureau treedt op als ontvangende en verzendende instelling als bedoeld in artikel 2 van het Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud en als bedoeld in artikel 11, derde lid, van het Europees Verdrag inzake de rechtspositie van migrerende werknemers.   
+4.  Het Bureau treedt op als ontvangende en verzendende instelling als bedoeld in artikel 2 van het Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud en als bedoeld in artikel 11, derde lid, van het Europees Verdrag inzake de rechtspositie van migrerende werknemers. Het Bureau treedt op als centrale autoriteit, bedoeld in artikel 4 van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51) en artikel 49 van verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1).   
 5.  Bij algemene maatregel van bestuur kan worden bepaald dat het Bureau daarbij aangegeven andere taken kan verrichten dan die, bedoeld in het derde en vierde lid, indien deze taken: 
 
 a. nauw verband houden met de in het derde lid genoemde taken;  

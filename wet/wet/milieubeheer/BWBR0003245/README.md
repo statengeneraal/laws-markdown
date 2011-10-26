@@ -3627,7 +3627,7 @@ Indien de hoeveelheid emissies, bedoeld in artikel 15.51, eerste lid, wordt over
 
 ### Artikel  16.1  
 
-1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: jaarvracht: totale hoeveelheid van een emissie gedurende een kalenderjaar; nationaal toewijzingsbesluit: besluit als bedoeld in artikel 16.29, eerste lid; nationaal toewijzingsplan: plan als bedoeld in artikel 16.23, eerste lid; Onze Ministers: Onze Minister en Onze Minister van Economische Zaken; planperiode: periode waarop een nationaal toewijzingsplan ingevolge artikel 16.23, tweede lid, betrekking heeft; projectactiviteit: project of activiteit als bedoeld in artikel 6 onderscheidenlijk artikel 12 van het Protocol van Kyoto; register voor handel in broeikasgasemissierechten: register als bedoeld in artikel 16.43, eerste lid; register voor handel in NO <sub>x</sub> -emissierechten: register als bedoeld in artikel 16.58, eerste lid; tonkilometer: één ton vracht, vervoerd over een afstand van één kilometer, waarbij onder vracht wordt verstaan: de totale massa aan vracht, post en passagiers die wordt vervoerd; tonkilometergegevens: gegevens betreffende de omvang van een luchtvaartactiviteit als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten; verkoopplafond: het aantal NO <sub>x</sub> -emissierechten, bedoeld in artikel 16.49, derde lid.   
+1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: jaarvracht: totale hoeveelheid van een emissie gedurende een kalenderjaar; nationaal toewijzingsbesluit: besluit als bedoeld in artikel 16.29, eerste lid; nationaal toewijzingsplan: plan als bedoeld in artikel 16.23, eerste lid; Onze Ministers: Onze Minister en Onze Minister van Economische Zaken; planperiode: periode waarop een nationaal toewijzingsplan ingevolge artikel 16.23, tweede lid, betrekking heeft; projectactiviteit: project of activiteit als bedoeld in artikel 6 onderscheidenlijk artikel 12 van het Protocol van Kyoto; register voor handel in broeikasgasemissierechten: register als bedoeld in artikel 16.43, eerste lid; register voor handel in NO <sub>x</sub> -emissierechten: register als bedoeld in artikel 16.58, eerste lid; toegewezen eenheid: eenheid als bedoeld in artikel 2, onder e, van de EG-verordening register handel in broeikasgasemissierechten (AAU); tonkilometer: één ton vracht, vervoerd over een afstand van één kilometer, waarbij onder vracht wordt verstaan: de totale massa aan vracht, post en passagiers die wordt vervoerd; tonkilometergegevens: gegevens betreffende de omvang van een luchtvaartactiviteit als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten; verkoopplafond: het aantal NO <sub>x</sub> -emissierechten, bedoeld in artikel 16.49, derde lid. verwijderingseenheid: eenheid als bedoeld in artikel 2, onder r, van de EG-verordening register handel in broeikasgasemissierechten (RMU).   
 2.  Voor de toepassing van titel 16.2 en de daarop berustende bepalingen wordt verstaan onder: broeikasgasinstallatie: vaste technische eenheid, waarin een of meer activiteiten worden verricht, die een emissie van een broeikasgas in de lucht veroorzaken en die behoren tot een categorie die met betrekking tot het betrokken broeikasgas bij algemene maatregel van bestuur is aangewezen, alsmede andere activiteiten die met eerstbedoelde activiteiten rechtstreeks samenhangen en daarmee technisch in verband staan en die gevolgen kunnen hebben voor de emissie van het betrokken broeikasgas in de lucht; kalenderjaar: jaar als bedoeld in artikel 2, onder y, van de EG-verordening register handel in broeikasgasemissierechten.   
 3.  Voor de toepassing van titel 16.3 en de daarop berustende bepalingen wordt onder NO <sub>x</sub> -installatie verstaan: vaste technische eenheid die een emissie van stikstofoxiden in de lucht veroorzaakt en die behoort tot een categorie die bij algemene maatregel van bestuur is aangewezen.   
 4.  Voor de toepassing van afdeling 16.2.1 onderscheidenlijk afdeling 16.2.2 wordt verstaan onder: 
@@ -3710,7 +3710,7 @@ d. aan het bestuur van de emissieautoriteit verslag wordt gedaan van de jaarvrac
 
 ### Artikel  16.7  
 
-Op de voorbereiding van de beschikking op de aanvraag om een vergunning is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+Het bestuur van de emissieautoriteit beslist binnen vier maanden op de aanvraag om een vergunning.  
 
 ### Artikel  16.8  
 
@@ -3723,7 +3723,7 @@ Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag 
 
 ### Artikel  16.10  
 
-1.  De vergunning wordt geweigerd indien het monitoringsplan niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld dan wel indien door verlening anderszins strijd zou ontstaan met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens dit hoofdstuk, of indien het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de houder van de vergunning in staat is het monitoringsplan naar behoren uit te voeren.   
+1.  De vergunning wordt geweigerd indien het monitoringsplan niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld dan wel indien door verlening anderszins strijd zou ontstaan met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens dit hoofdstuk, of indien het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het monitoringsplan naar behoren uit te voeren.   
 2.  In een geval als bedoeld in artikel 16.5, tweede lid, wordt de vergunning gedeeltelijk geweigerd voorzover het de emissies van broeikasgassen, onderscheidenlijk de emissies van stikstofoxiden, betreft, indien een vergunning krachtens artikel 16.5, eerste lid, onderscheidenlijk artikel 16.49, eerste lid, zou zijn geweigerd in geval uitsluitend het vereiste van een vergunning krachtens artikel 16.5, eerste lid, onderscheidenlijk artikel 16.49, eerste lid, zou gelden.   
 
 ### Artikel  16.11  
@@ -3771,7 +3771,7 @@ b. op grond dat het, gezien de aard of omvang van de betrokken verandering, naar
 
 ### Artikel  16.13  
 
-1.  De houder van de vergunning beziet regelmatig of de in het monitoringsplan opgenomen gegevens met betrekking tot het bepalen van de jaarvracht, het brandstofverbruik en het grondstofgebruik, het registreren en bewaren van de daarop betrekking hebbende gegevens en de verslaglegging aan het bestuur van de emissieautoriteit nog juist en volledig zijn, gezien: 
+1.  De vergunninghouder beziet regelmatig of de in het monitoringsplan opgenomen gegevens met betrekking tot het bepalen van de jaarvracht, het brandstofverbruik en het grondstofgebruik, het registreren en bewaren van de daarop betrekking hebbende gegevens en de verslaglegging aan het bestuur van de emissieautoriteit nog juist en volledig zijn, gezien: 
 
 a. veranderingen die zijn opgetreden in de voor het bepalen van de jaarvracht, het brandstofverbruik en het grondstofgebruik en het registreren van de daarop betrekking hebbende gegevens relevante omstandigheden;  
 
@@ -3943,28 +3943,21 @@ d. indien het nationale toewijzingsplan hierin voorziet: een aanduiding van het 
 4.  Een verzoek om toewijzing van broeikasgasemissierechten als bedoeld in het eerste lid wordt afgewezen voorzover door toewijzing van die rechten het totale aantal broeikasgasemissierechten dat voor de toewijzing aan de in het betrokken nationale toewijzingsplan aangegeven categorie van inrichtingen als bedoeld in het eerste lid waartoe de inrichting behoort, in de betrokken planperiode ten hoogste beschikbaar is, zou worden overschreden.   
 5.  Een verzoek om toewijzing van broeikasgasemissierechten als bedoeld in het eerste lid kan worden afgewezen indien: 
 
-a. voor 1 september van het betrokken kalenderjaar voor de inrichting, bedoeld in het eerste lid, geen vergunning krachtens artikel 16.5, eerste lid, is verleend;  
+a. voor de inrichting, bedoeld in het eerste lid, geen vergunning krachtens artikel 16.5, eerste lid, is verleend;  
 
-b. gerede twijfel bestaat of de inrichting, bedoeld in het eerste lid, voor 31 december van het betrokken kalenderjaar feitelijk in werking zal zijn gesteld overeenkomstig hetgeen daaromtrent is bepaald in het betrokken nationale toewijzingsplan;  
-
-c. niet is voldaan aan de eisen die overeenkomstig artikel 16.25, eerste lid, onder b, in het betrokken nationale toewijzingsplan zijn opgenomen met betrekking tot de toewijzing van broeikasgasemissierechten voor inrichtingen als bedoeld in artikel 16.25, tweede lid, onder a;  
-
-d. de verzoeker onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van deze gegevens tot een onjuiste beslissing op het verzoek zou hebben geleid.     
-6.  Broeikasgasemissierechten worden toegewezen vanaf het tijdstip waarop de inrichting in werking is gesteld of naar verwachting in werking zal worden gesteld. Een besluit als bedoeld in tweede lid bevat een aanduiding van het gedeelte van het aantal broeikasgasemissierechten dat per kalenderjaar in de betrokken planperiode overeenkomstig artikel 16.35, tweede lid, zal worden verleend.   
+b. niet is voldaan aan de eisen die overeenkomstig artikel 16.25, eerste lid, onder b, in het betrokken nationale toewijzingsplan zijn opgenomen met betrekking tot de toewijzing van broeikasgasemissierechten voor inrichtingen als bedoeld in artikel 16.25, tweede lid, onder a.     
+6.  Broeikasgasemissierechten worden toegewezen vanaf het tijdstip waarop de inrichting in werking is gesteld. Een besluit als bedoeld in tweede lid bevat een aanduiding van het gedeelte van het aantal broeikasgasemissierechten dat per kalenderjaar in de betrokken planperiode overeenkomstig artikel 16.35, tweede lid, zal worden verleend.   
 
 ### Artikel  16.33  
 
-1.  Verzoeken om toewijzing van broeikasgasemissierechten als bedoeld in artikel 16.32, tweede lid, die na 1 september van een kalenderjaar zijn ingediend, worden op 1 september van het daarop volgende kalenderjaar in behandeling genomen.   
+1.  Verzoeken om toewijzing van broeikasgasemissierechten als bedoeld in artikel 16.32, tweede lid, worden in behandeling genomen op het moment dat de betrokken inrichting feitelijk in werking is gesteld.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop het verzoek om toewijzing van broeikasgasemissierechten, bedoeld in artikel 16.32, tweede lid, moet worden gedaan en de gegevens die door de verzoeker moeten worden verstrekt met het oog op de beslissing op het verzoek.   
-3.  Op de voorbereiding van het besluit, bedoeld in artikel 16.32, tweede lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met uitzondering van [artikel 3:18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Zienswijzen kunnen naar voren worden gebracht door een ieder.   
-5.  Onze Ministers nemen het besluit, bedoeld in artikel 16.32, tweede lid, uiterlijk twaalf weken na de terinzagelegging van het ontwerp, doch in elk geval uiterlijk 31 december van het kalenderjaar waarin het betrokken verzoek in behandeling is genomen.   
+3.  Onze Ministers nemen het besluit, bedoeld in artikel 16.32, tweede lid, uiterlijk twaalf weken nadat het betrokken verzoek in behandeling is genomen.   
 
 ### Artikel  16.35  
 
-1.  Broeikasgasemissierechten worden overeenkomstig artikel 40 of 46 van de EG-verordening registratie van handel in broeikasgasemissierechten verleend aan degene die de inrichting drijft. Verlening van broeikasgasemissierechten vindt slechts plaats, indien voor de betrokken inrichting een vergunning als bedoeld in artikel 16.5, eerste lid, is verleend.   
-2.  Voorzover het betrokken nationale toewijzingsbesluit daarin voorziet, verleent het bestuur van de emissieautoriteit voor een inrichting als bedoeld in artikel 16.25, tweede lid, onder a, voor 1 maart van elk betrokken kalenderjaar een gedeelte van het aantal broeikasgasemissierechten dat voor die inrichting is toegewezen in het besluit, bedoeld in artikel 16.32, tweede lid. Het eerste lid, tweede volzin, is van overeenkomstige toepassing. De verlening vindt plaats overeenkomstig artikel 42 van de EG-verordening registratie van handel in broeikasgasemissierechten voorzover het betreft de planperiode die loopt van 2005 tot en met 2007, dan wel artikel 48 van die verordening voorzover het betreft latere planperiodes.   
-3.  Voorzover het geldende nationale toewijzingsplan daarin voorziet, verleent het bestuur van de emissieautoriteit, indien het geval, bedoeld in artikel 16.25, tweede lid, onder c, zich voordoet, voor 1 maart van het laatste kalenderjaar in een planperiode voor inrichtingen als bedoeld in dat onderdeel, het aantal broeikasgasemissierechten dat voor de betrokken inrichtingen is toegewezen in het besluit, bedoeld in artikel 16.34, dat op die periode betrekking heeft.   
+1.  Broeikasgasemissierechten worden overeenkomstig artikel 46 van de EG-verordening register handel in broeikasgasemissierechten verleend aan degene die de inrichting drijft. Verlening van broeikasgasemissierechten vindt slechts plaats, indien voor de betrokken inrichting een vergunning als bedoeld in artikel 16.5, eerste lid, is verleend.   
+2.  Voorzover het betrokken nationale toewijzingsbesluit daarin voorziet, verleent het bestuur van de emissieautoriteit voor een inrichting als bedoeld in artikel 16.25, tweede lid, onder a, het aantal broeikasgasemissierechten dat aan die inrichting is toegewezen in het besluit, bedoeld in artikel 16.32, tweede lid. Het eerste lid, tweede volzin, is van overeenkomstige toepassing. De verlening vindt plaats overeenkomstig artikel 48 van de EG-verordening register handel in broeikasgasemissierechten.   
 
 ### Paragraaf  16.2.1.4  
 
@@ -3984,7 +3977,6 @@ d. de verzoeker onjuiste of onvolledige gegevens heeft verstrekt en de verstrekk
 
 1.  Ter voldoening aan artikel 16.37, eerste lid, kan degene die een inrichting drijft, in plaats van broeikasgasemissierechten emissiereductie-eenheden of gecertificeerde emissiereducties inleveren.   
 2.  Voor de toepassing van artikel 16.37, eerste lid, en van het eerste lid van dit artikel wordt één emissiereductie-eenheid of gecertificeerde emissiereductie gelijkgesteld met één broeikasgasemissierecht.   
-3.  In afwijking van het eerste lid kunnen ter voldoening aan artikel 16.37, eerste lid, met betrekking tot een kalenderjaar dat valt binnen de eerste planperiode, welke loopt van 1 januari 2005 tot en met 31 december 2007, uitsluitend broeikasgasemissierechten en gecertificeerde emissiereducties worden ingeleverd.   
 
 ### Artikel  16.37b  
 
@@ -3995,10 +3987,6 @@ a. het opwekken van elektriciteit door het vrijmaken van kernenergie;
 
 b. landgebruik, verandering in het landgebruik en bosbouwactiviteiten.     
 3.  Het tweede lid, aanhef en onder a, geldt met betrekking tot de in artikel 11bis, derde lid, onder a, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde planperiodes.   
-
-### Artikel  16.38  
-
-Degene op wiens naam een rekening in het register voor handel in broeikasgasemissierechten staat, kan het bestuur van de emissieautoriteit verzoeken een broeikasgasemissierecht dat, of een emissiereductie-eenheid of een gecertificeerde emissiereductie die op zijn rekening staat bijgeschreven, te annuleren.  
 
 ### Artikel  16.39  
 
@@ -4240,7 +4228,7 @@ Indien een vliegtuigexploitant ter voldoening aan artikel 16.39t, eerste lid, mi
 
 ### Afdeling  16.2.3  
 
-####De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
+####De overgang van broeikasgasemissierechten en andere eenheden
 
 ### Artikel  16.40  
 
@@ -4268,12 +4256,12 @@ b. bijschrijving op een rekening in een register als bedoeld onder a, die op naa
 
 ### Artikel  16.42a  
 
-1.  De artikelen 16.40, eerste en vierde lid, 16.41 en 16.42 zijn van overeenkomstige toepassing op de overgang van emissiereductie-eenheden en gecertificeerde emissiereducties.   
-2.  Voorzover het betreft de overgang van emissiereductie-eenheden en gecertificeerde emissiereducties, wordt voor de toepassing van de artikelen 16.40, eerste lid, en 16.41, eerste lid, onder «een register dat door de betrokken lidstaat van de Europese Unie overeenkomstig de EG-verordening registratie van handel in broeikasgasemissierechten is ingesteld» mede verstaan: een register dat overeenkomstig artikel 7, vierde lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is ingesteld door een in bijlage I bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering opgenomen Partij die het Protocol van Kyoto heeft bekrachtigd, zoals gespecificeerd in artikel 1, punt 7, van dat protocol.   
+1.  De artikelen 16.40, eerste en vierde lid, 16.41 en 16.42 zijn van overeenkomstige toepassing op de overgang van emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden.   
+2.  Voorzover het betreft de overgang van emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden, wordt voor de toepassing van de artikelen 16.40, eerste lid, en 16.41, eerste lid, onder «een register dat door de betrokken lidstaat van de Europese Unie overeenkomstig de EG-verordening register handel in broeikasgasemissierechten is ingesteld» mede verstaan: een register dat overeenkomstig artikel 7, vierde lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is ingesteld door een in bijlage I bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering opgenomen Partij die het Protocol van Kyoto heeft bekrachtigd, zoals gespecificeerd in artikel 1, punt 7, van dat protocol.   
 
 ### Afdeling  16.2.4  
 
-####Registratie van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
+####Registratie van broeikasgasemissierechten en andere eenheden
 
 ### Artikel  16.43  
 
@@ -4282,11 +4270,16 @@ b. bijschrijving op een rekening in een register als bedoeld onder a, die op naa
 3.  Het bestuur van de emissieautoriteit voert de taken die het heeft als bevoegde autoriteit voor het register voor handel in broeikasgasemissierechten uit in overeenstemming met de EG-verordening register handel in broeikasgasemissierechten en draagt er zorg voor dat het register voldoet aan de vereisten die daaraan ingevolge de EG-verordening register handel in broeikasgasemissierechten worden gesteld.   
 4.  Als registeradministrateur als bedoeld in artikel 2, onder q, van de EG-verordening register handel in broeikasgasemissierechten wordt aangewezen een bij besluit van het bestuur van de emissieautoriteit aangewezen medewerker van de emissieautoriteit. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de Staatscourant.   
 5.  Onze Minister wordt aangewezen als betrokken instantie en desbetreffende instantie als bedoeld in de EG-verordening register handel in broeikasgasemissierechten.   
-6.  In het register voor handel in broeikasgasemissierechten kunnen naast broeikasgasemissierechten tevens emissiereductie-eenheden en gecertificeerde emissiereducties worden geregistreerd.   
+6.  In het register voor handel in broeikasgasemissierechten kunnen naast broeikasgasemissierechten tevens emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden worden geregistreerd.   
 
 ### Artikel  16.44  
 
-Een ieder kan broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties bezitten.  
+1.  Een ieder kan broeikasgasemissierechten, emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden bezitten.   
+2.  in afwijking van het eerste lid is niet toegestaan het bezit van: 
+
+a. voorlopige gecertificeerde emissiereducties als bedoeld in artikel 2, onder s, van de EG-verordening register handel in broeikasgasemissierechten (tCER);  
+
+b. lange-termijn gecertificeerde emissiereducties als bedoeld in artikel 2, onder t, van de EG-verordening register handel in broeikasgasemissierechten (lCER).     
 
 ### Artikel  16.45  
 
