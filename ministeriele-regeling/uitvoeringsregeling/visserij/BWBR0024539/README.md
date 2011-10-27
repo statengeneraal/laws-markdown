@@ -49,7 +49,7 @@ o. bordennet: vistuig dat bestaat uit één net dat bij het vissen wordt opengeh
 
 p. handzeef: zeef met een lengte en breedte van ten minste 80 centimeter respectievelijk 60 centimeter, in de lengterichting voorzien van gladde draadvormige spijlen, die op gelijke hoogte en met een onderlinge afstand van ten minste 7 millimeter zijn aangebracht;  
 
-q. functionaris: functionaris als bedoeld in [artikel 1 van de Regeling stelselmatige controle bij aanlanding 1988](../../../../ministeriele-regeling/regeling/stelselmatige/controle/bij/aanlanding/1988/BWBR0004267/README.md);  
+q. functionaris: functionaris als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md);  
 
 r. visvak: in een tussen het Rijk en de huurder gesloten overeenkomst tot verhuur van het visrecht nader aangeduid visgebied, waarin op grond van deze overeenkomst met een aalfuik, staand want, hoekwant, aalkistje, ankerkuil of enig ander vast vistuig mag worden gevist;  
 
@@ -65,11 +65,11 @@ w. recreatieve visserij: het vissen met vaste vistuigen, waarbij de vangst uitsl
 
 x. mosselzaadinvanginstallatie: al dan niet drijvend, aan de bodem verankerd of bevestigd vistuig, bestaande uit verbindingsmateriaal waaraan met het oogmerk om periodiek mosselzaad te oogsten invangsubstraat is bevestigd waaraan mossellarven zich kunnen hechten;  
 
-aa. wet: [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md);  
-
 y. vergunning voor een mosselzaadinvanginstallatie: vergunning als bedoeld in artikel 36 voor het vissen met een mosselzaadinvanginstallatie;  
 
-z. mosselkweekperceel: perceel dat zich bevindt in een kustwater en dat bestemd is voor het kweken van mosselen.    
+z. mosselkweekperceel: perceel dat zich bevindt in een kustwater en dat bestemd is voor het kweken van mosselen;  
+
+aa. wet: [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md).    
 
 ### Artikel  1a  
 
@@ -210,7 +210,7 @@ b. de hoeveelheid gevangen aal in kilogram;
 c. de herkomst van de aal.     
 2.  De opgave geschiedt op een door de Minister beschikbaar te stellen format.   
 3.  In afwijking van het eerste lid kan een visser die in een bepaalde periode geen gebruik maakt van de vistuigen genoemd in artikel 32a, eerste lid, hiervan voorafgaand aan die periode opgave doen.   
-4.  Van de verplichting uit het eerste lid zijn uitgezonderd diegenen, die op grond van [artikel 15, tweede lid, van de Regeling eisen, administratie en registratie inzake uitoefening visserij](../../../../ministeriele-regeling/regeling/eisen/administratie/en/registratie/inzake/uitoefening/visserij/BWBR0020043/README.md) alle aalvangsten registreren.   
+4.  Van de verplichting uit het eerste lid zijn uitgezonderd diegenen, die op grond van [artikel 104, tweede lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) alle aalvangsten registreren.   
 
 ### Artikel  10b  
 
@@ -235,7 +235,7 @@ Het is verboden te vissen in het gebied, genoemd in bijlage 3.
 
 ### Artikel  12  
 
-1.  Het is verboden te vissen in het zeegebied en de kustwateren met een aalfuik, staand want, hoekwant, aalkistje, ankerkuil of enig ander vast vistuig, niet zijnde een vistuig, geschikt voor het vangen van schelpdieren.   
+1.  Het is verboden te vissen in het zeegebied en de kustwateren met een aalfuik, staand want, hoekwant, aalkistje, ankerkuil of enig ander vast vistuig, niet zijnde een vistuig, bestemd voor het vangen van schelpdieren.   
 2.  Het is verboden in de kustwateren te vissen met een zegen.   
 
 ### Artikel  13  
@@ -283,7 +283,7 @@ Het is verboden te vissen met enig vistuig, geschikt voor het vangen van schelpd
 
 a. de gebieden, genoemd in bijlage 4;  
 
-b. de exclusieve 12-mijlszone, bedoeld in [artikel 3 van de Regeling eisen, administratie en registratie inzake uitoefening visserij](../../../../ministeriele-regeling/regeling/eisen/administratie/en/registratie/inzake/uitoefening/visserij/BWBR0020043/README.md);  
+b. de territoriale zee van Nederland, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](../../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md);  
 
 c. het zeegebied, en  
 
@@ -472,12 +472,12 @@ a. als afsluiting van de fuik achter de laatste inkeling een hoepel van gelijke 
 b. als afsluiting van de fuik achter de laatste inkeling een hoepel van gelijke grootte als de laatste hoepel van de fuik is aangebracht, waaraan een in een punt toelopend netwerk met een maaswijdte van ten minste 60 mm is bevestigd, of  
 
 c. waarin achter de laatste inkeling een verlenging van de fuik bevestigd, bestaande uit om twee hoepels van gelijke grootte als de laatste hoepel van de fuik gespannen netwerk met een maaswijdte van ten minste 60 mm.     
-5.  De vrijstelling, bedoeld in het vierde lid, geldt slechts voor ondernemers die een controleovereenkomst hebben gesloten met Productschap Vis.   
+5.  De vrijstelling, bedoeld in het vierde lid, geldt slechts voor ondernemers die voor 1 september van het betreffende jaar een controleovereenkomst hebben gesloten met Productschap Vis.   
 
 ### Artikel  32b  
 
-1.  Aal, gevangen in de visserijzone, het zeegebied, de kustwateren of de wateren bedoeld in [artikel 1, vierde lid, onderdeel d, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), met een vistuig dat niet genoemd is in artikel 32a, eerste lid, onderdelen a tot en met j, wordt in de periode, genoemd in artikel 32a, eerste lid, onmiddellijk na het lichten van het vistuig levend in hetzelfde water teruggezet.   
-2.  Het is verboden aal voorhanden te hebben bij de uitoefening van de visserij, bedoeld in het eerste lid.   
+1.  Aal, gevangen in de visserijzone, het zeegebied, de kustwateren of de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), in de periode, genoemd in artikel 32a, eerste lid, met een vistuig dat niet genoemd is in artikel 32a, eerste lid, onderdelen a tot en met j, wordt onmiddellijk na het lichten van het vistuig levend in hetzelfde water teruggezet.   
+2.  Het is verboden in de periode, bedoeld in artikel 32a, eerste lid, op of nabij het zeegebied, de kustwateren, de visserijzone en de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), aal voorhanden te hebben.   
 
 ### Hoofdstuk  4  
 
@@ -554,7 +554,7 @@ b. met vaartuigen met een lengte over alles kleiner dan 10 meter, voor zover het
 
 ### Artikel  40  
 
-Van het bepaalde in [artikel 5, eerste lid, van de Regeling instandhoudingsmaatregelen zeevisserij](../../../../ministeriele-regeling/regeling/instandhoudingsmaatregelen/zeevisserij/BWBR0025587/README.md) wordt vrijstelling verleend voor vaartuigen, andere dan vissersvaartuigen: 
+Van [artikel 79, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) wordt vrijstelling verleend voor vaartuigen, andere dan vissersvaartuigen: 
 
 a. met een lengte over alles kleiner dan 8 meter, voor zover het betreft het verbod om een boomkor aan boord te hebben in de visserijzone, het zeegebied en de Westerschelde, en  
 
@@ -568,7 +568,7 @@ De vrijstellingen, bedoeld in de artikelen 39 en 40, worden slechts verleend voo
 
 1.  Aan de vrijstellingen, bedoeld in artikel 38, eerste lid, aanhef en onder a, artikel 39 en artikel 40, worden de volgende voorschriften verbonden: 
 
-a. vissoorten als genoemd in de [bijlagen 2](../../../../ministeriele-regeling/regeling/instandhoudingsmaatregelen/zeevisserij/BWBR0025587/README.md), [3](../../../../ministeriele-regeling/regeling/instandhoudingsmaatregelen/zeevisserij/BWBR0025587/README.md) en [4 van de Regeling instandhoudingsmaatregelen zeevisserij](../../../../ministeriele-regeling/regeling/instandhoudingsmaatregelen/zeevisserij/BWBR0025587/README.md), met uitzondering van schar en bot gevangen in de bij die vissoorten genoemde wateren, dienen onmiddellijk na het ophalen ervan in hetzelfde water te worden teruggezet;  
+a. vissoorten als genoemd in de [bijlagen 4](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md), [5](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md), en [6 van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md), met uitzondering van schar en bot gevangen in de bij die vissoorten genoemde wateren, dienen onmiddellijk na het ophalen ervan in hetzelfde water te worden teruggezet;  
 
 b. indien de visserij op garnalen wordt uitgeoefend, dient de vangst direct na aan boord te zijn gehaald, te worden gesorteerd met behulp van een handzeef, en  
 
@@ -577,17 +577,17 @@ c. het is verplicht een handzeef aan boord te hebben van het vaartuig waarmee de
 
 a. verordening (EG) nr. 850/98 van de Raad van de Europese Unie van 30 maart 1998 voor de instandhouding van visbestanden via technische maatregelen voor de bescherming van jonge exemplaren van mariene organismen (PbEG L125) wordt, met uitzondering van artikel 29 van voornoemde verordening, bij de uitoefening van de visserij in acht genomen;  
 
-b. aanlandingen in Nederlandse havens vinden slechts overeenkomstig de Regeling stelselmatige controle bij aanlanding 1988 plaats, en  
+b. aanlandingen in Nederlandse havens vinden slechts overeenkomstig de de [Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) plaats, en  
 
 c. bij aanlanding in een Nederlandse haven is de ondernemer verplicht onverwijld maar uiterlijk binnen een half uur na aanlanding per vissoort opgave van de vangsthoeveelheden te doen.     
-3.  De opgave, bedoeld in het tweede lid, onderdeel c, vindt plaats door middel van het indienen van het logboek-, tevens vangstopgaveformulier, bedoeld in bijlage I van verordening (EEG) nr. 2807/83 van de Commissie van de Europese Gemeenschappen van 22 september 1983 houdende uitvoeringsbepalingen inzake de registratie van gegevens over de visvangst van de Lidstaten (PbEG L 276), waarop per vissoort de vangsthoeveelheden in het gedeelte van het formulier dat betrekking heeft op de aangifte van aanvoer, zijn ingevuld.   
-4.  Het indienen van het logboek-, tevens vangstopgaveformulier, bedoeld in het derde lid, vindt plaats door overhandiging aan een functionaris of aan een ambtenaar van de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie of deponering van het formulier in een opgavebus als bedoeld in de Regeling eisen, administratie en registratie inzake uitoefening visserij.   
+3.  De opgave, bedoeld in het tweede lid, onderdeel c, vindt plaats door middel van het indienen van het logboek, bedoeld in artikel 15, eerste lid, van de controleverordening, bedoeld in [artikel 1, tweede lid, van de Uitvoeringsregeling zeevisseri](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) j.   
+4.  Het indienen van het logboek, bedoeld in het derde lid, vindt plaats door overhandiging aan een functionaris of aan een ambtenaar van de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie of deponering van het formulier in een opgavebus als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md).   
 
 ### Artikel  43  
 
 1.  Van het verbod in artikel 13, onderdeel a, is degene die op 15 april 2007 in het bezit was van een vergunning als bedoeld in artikel 36, vrijgesteld onder de voorwaarden dat: 
 
-a. eidragende en pas verschaalde kreeften, als kreeften gevangen vóór 1 april en na 15 juli, onmiddellijk worden teruggezet, en  
+a. eidragende en pas verschaalde kreeften, als kreeften gevangen in de periode vanaf 1 april tot en met 15 juli, onmiddellijk worden teruggezet, en  
 
 b. bijgevangen ondermaatse vis dan wel garnalen met behulp van water automatisch naar buitenboord worden afgevoerd via een uit glad materiaal bestaande glijgoot of afvoerpijp;     
 2.  Indien degene als bedoeld in het eerste lid, met een ander vissersvaartuig vist dan met het vaartuig waarvoor de in het eerste lid bedoelde vergunning is verleend, maakt hij hiervan twee weken van tevoren schriftelijk melding bij de Minister.   
@@ -676,6 +676,22 @@ e. de vistuigen worden in spuikommen en havens minimaal 10 meter en in de overig
 
 f. indien overeenstemming is bereikt met de rechthebbende op het visrecht in het naastgelegen visvak over de afstand waarop de vistuigen vanaf de scheidingslijn tussen de visvakken worden geplaatst, worden de vistuigen, in afwijking van het bepaalde in onderdeel e, minimaal de overeengekomen afstand vanaf de scheidslijn tussen de visvakken geplaatst.     
 2.  Onderdeel b is niet van toepassing op permanent onder water staande schietfuiken in de kustwateren, genoemd in [artikel 2, tweede tot en met het zevende lid, van het Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md).   
+
+### Artikel  52a  
+
+1.  Van het verbod in artikel 12 wordt voor de kustwateren vrijstelling verleend voor het gebruik voor de recreatieve visserij met vistuig van het type staand want.   
+2.  De vrijstelling, bedoeld in het eerste lid, geldt uitsluitend voor één vistuig per persoon en geldt niet voor de gebieden bedoeld in bijlage 17 bij deze regeling.   
+3.  Aan de vrijstelling, bedoeld in het eerste lid, zijn de volgende voorschriften verbonden: 
+
+a. de netlengte van het vistuig bedraagt niet meer dan 100 meter, in de gebieden, bedoeld in bijlage 18, en in andere gebieden niet meer dan 30 meter;  
+
+b. het vistuig is voorzien van drijvers en ligt bij laag water plat op de bodem;  
+
+c. degene die van de vrijstelling gebruik maakt heeft zijn voornemen hiertoe gemeld aan de gemeente binnen wiens grondgebied hij de recreatieve visserij, als bedoeld in het eerste lid, uitoefent;  
+
+d. het vistuig is boven elk heersend waterpeil voorzien van een markering waarop duidelijk leesbaar het nummer, bedoeld in vijfde lid, is vermeld.     
+4.  De melding, bedoeld in het derde lid, onderdeel c, geschiedt per kalenderjaar en omvat de naam, het adres, de woonplaats en de geboortedatum van degene die voornemens is van de vrijstelling gebruik te maken.   
+5.  De gemeente verstrekt een uniek nummer aan degene die een melding als bedoeld in het derde lid, onderdeel c, doet.   
 
 ### §  4.7  
 
@@ -879,7 +895,7 @@ a. het vissersvaartuig dient ter vervanging van een vissersvaartuig of vissersva
 
 b. het motorvermogen van dat vissersvaartuig niet meer bedraagt dan het motorvermogen van het vissersvaartuig of de vissersvaartuigen die worden vervangen;  
 
-c. het vissersvaartuig voldoet aan de voorwaarden van artikel 29 van Verordening (EG) 850/98 van de Raad van de Europese Unie van 30 maart 1998 voor de instandhouding van de visbestanden via technische maatregelen voor de bescherming van jonge exemplaren van mariene organismen (PbEG L 125), en  
+c. de aanvrager een meetrapport van een onafhankelijke instelling met deskundigheid op het gebied van meting van motorvermogen en afstelling van motoren en terzake geaccrediteerd, overlegt dat niet ouder is dan twee maanden en waaruit het motorvermogen blijkt van het vissersvaartuig ten behoeve waarvan de vergunning is aangevraagd.  
 
 d. de aanvrager een meetrapport van een onafhankelijk meetbureau als bedoeld in artikel 1, eerste lid, onderdeel m, van de Regeling visvergunning overlegt dat niet ouder is dan twee maanden en waaruit het motorvermogen blijkt van het vissersvaartuig ten behoeve waarvan de vergunning is aangevraagd.     
 4.  Onderdeel a van het tweede lid is niet van toepassing indien een vergunning als bedoeld in het eerste lid wordt aangevraagd door een aanvrager die op grond van artikel 71, eerste lid, de vergunning heeft gereserveerd.   
@@ -894,7 +910,7 @@ b. de visserijactiviteiten van een vissersvaartuig ten behoeve waarvan de vergun
 
 ### Artikel  71  
 
-1.  De houder van een vergunning, als bedoeld in artikel 36, bestemd voor het vissen met enig vistuig geschikt voor het vangen van garnalen, dient uiterlijk op 19 augustus 2006 aan de Minister te hebben overgelegd een meetrapport van een onafhankelijk meetbureau als bedoeld in [artikel 1, eerste lid, onderdeel m, van de Regeling visvergunning](../../../../ministeriele-regeling/regeling/visvergunning/BWBR0016244/README.md) waaruit het motorvermogen blijkt van het vissersvaartuig ten behoeve waarvan de vergunning is verleend, dan wel de Minister te hebben verzocht de vergunning in te trekken en voor hem te reserveren.   
+1.  De houder van een vergunning, als bedoeld in artikel 36, bestemd voor het vissen met enig vistuig geschikt voor het vangen van garnalen, dient uiterlijk op 19 augustus 2006 aan de Minister te hebben overgelegd een meetrapport van een onafhankelijke instelling met deskundigheid op het gebied van meting van motorvermogen en afstelling van motoren en terzake geaccrediteerd waaruit het motorvermogen blijkt van het vissersvaartuig ten behoeve waarvan de vergunning is verleend, dan wel de Minister te hebben verzocht de vergunning in te trekken en voor hem te reserveren.   
 2.  Het meetrapport, bedoeld in het eerste lid, is opgemaakt na 1 juni 2005.   
 3.  De Minister kan de visvergunning schorsen indien naar het oordeel van de Minister niet aan het eerste of tweede lid is voldaan.   
 4.  De Minister kan de schorsing van de visvergunning, bedoeld in het derde lid, beëindigen op het moment dat naar het oordeel van de Minister blijkt dat na 19 augustus 2006 alsnog wordt voldaan aan het eerste of tweede lid.   
@@ -2235,7 +2251,7 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 
 – de Noord;  
 
-– het Noordzeekanaal inclusief de zijkanalen A tot en met H;  
+– het Noordzeekanaal inclusief de zijkanalen A tot en met H, met uitzondering van het afgesloten gedeelte van zijkanaal B, gelegen tussen de A9 en het Noordzeekanaal;  
 
 – de Oude Maas;  
 
@@ -2248,3 +2264,32 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 – de Waal;  
 
 – het Wantij.   
+
+### Bijlage  17  
+
+####, behorend bij artikel 52a, tweede lid 
+
+####Gebieden waar de vrijstelling voor de recreatieve visserij met het vistuig staand want, niet geldt
+
+1. De Oosterschelde, het Zeegat van Goeree, het Brouwershavensche Gat, de buitenhavens van Delfzijl en het Nederlandse gedeelte van de Dollard.  
+
+2.  *In de Waddenzee:*  Verhuurde schelpdierpercelen, met bakens gemarkeerd; het hele kombergingsgebied van het Engelschmangat; het Normerven ten noordwesten van Hippolytushoef en een zone van 1.000 meter er omheen; de groene lijngebieden waartoe krachtens [artikel 20 van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) beperkte toegang mogelijk is, zoals aangegeven op de meest recente hydrografische kaarten nummer 1811 en 1812 van de Dienst der Hydrografie; de bij laagwater droogvallende platen ten noorden, oosten en zuiden van Noorderhaaks voor zover gelegen ten oosten van de lijn van de lichttoren Kijkduin bij Den Helder naar de positie 52‘58’24”NB en 4‘39’30”OL op Noorderhaaks gelegen en vervolgens naar de oriënteertafel op het Loodsmansduin te Texel; alle aan de Waddenzee gelegen open havens en spuihavens; het gedeelte ter breedte van 100 meter langs de Afsluitdijk van Den Oever tot de Kop Afsluitdijk; het gedeelte ter breedte van 100 meter langs de Friese dijk vanaf de Kop Afsluitdijk tot dijkpaal 9.4 bij Koehool; een gedeelte ter breedte van 100 meter langs de havendammen en leidammen van de aan de Afsluitdijk gelegen havens; het gedeelte ter breedte van 100 meter langs de Noorder- en Zuiderpier te Harlingen; het gedeelte ter breedte van 100 meter langs de pieren te Roptazijl; het bij laagwater droogvallende gedeelte langs de Noordvaarder, genaamd Groene Strand; het Oostelijk ras en de Boschplaat inclusief de slenken oost van Rimkeskooi; het gedeelte ter breedte van 200 meter langs de westelijke havendam van Lauwersoog en de Friese Lauwersdijk vanaf het groene havenlicht tot dijkpaal 2.1; het gedeelte ter breedte van 200 meter langs de oostelijke havendam van Lauwersoog en de Groningse Lauwersdijk vanaf het rode havenlicht tot dijkpaal 86,5 en van dijkpaal 85,5 tot dijkpaal 84,5 en het gedeelte ter breedte van 250 meter langs de rijsdam van de toeleidingsgeul naar de haven van Noordpolderzijl.  
+
+3.  *In het Nederlandse gedeelte van de Eems:*  De Eemshaven, het gedeelte ter breedte van 200 meter langs de buitenzijde van de strekdammen van de Eemscentrale; tussen de strekdammen van de Eemscentrale, de Eemsdijk vanaf de oostelijke strekdam van de Eemscentrale in zuidelijke richting tot dijkpaal 38; het gedeelte van het Eemswad begrensd door de noordelijke pier van het Zeehavenkanaal en de lijn tussen het groene havenlicht op de oostelijke punt van de pier en de ton BW 11 van het vaarwater Bocht van Watum en vandaar in zuidelijke richting naar de noordelijke pier; een gedeelte ter breedte van 500 meter van het Borgsweerder wad langs de Oterdumpier; een gedeelte ter breedte van 100 meter van het Borgsweerder wad langs de westelijke strekdam van de haven van Termunterzijl; de buitenhavens van Termunterzijl; een gedeelte ter breedte van 250 meter van het Termunterwad langs de oostelijke strekdam van de haven van Termunterzijl; een gedeelte ter breedte van 500 meter van het Termunterwad gelegen langs de zeedijk vanaf de oostelijke strekdam van de haven van Termunterzijl tot de lijn die gevormd wordt door de kerktoren van Termunten en dijkpaal 16,5 op de dijk; het droogvallende gedeelte vanaf de lijn die gevormd wordt door de dijkpalen 14,5 (nabij het gemaal de Fiemel) tot de meest oostelijke punt van de Punt van Reide.    
+
+### Bijlage  18  
+
+####, behorend bij artikel 52a, derde lid, onderdeel a 
+
+####Gebieden waar de recreatieve visserij met een maximale netlengte van 100 meter is toegestaan
+
+1.  *Ten oosten van Texel:*  Het gedeelte aan de westzijde begrensd door de kust en de lijn over de punten op 500 meter ten zuiden van de meest zuidelijke punt van Texel, 500 meter ten zuidwesten van de zuidpunt van de Mokbaai, 500 meter ten zuidoosten van het rode licht van de NIOZ-haven, 500 meter ten zuidoosten van het rode licht van de haven van Oudeschild, 500 meter ten zuidoosten van de kust bij het Gemaal, 500 meter ten oosten van Het Noorden en vandaar een lijn van 500 meter naar de kust van Texel.  
+
+2.  *Ten zuiden van Vlieland:*  Het gedeelte aan de westzijde begrensd door de kust ter breedte van 500 meter vanaf paal B 1 op het Posthuiswad tot de groene ton VS 7.  
+
+3.  *Ten zuiden van Terschelling:*  Het gedeelte aan de noordwestzijde begrensd door de kust en de lijn over de volgende punten: het groene havenlicht van de haven van West-Terschelling, de rode ton O 2, vervolgens over de rode tonnen van het vaarwater Oosterom tot de positie 53’22’85”NB en 05’27’13”OL en vervolgens in een rechte lijn naar de kust met positie 53’24’25”NB en 05’26’17”OL (Rimkeskooi).  
+
+4.  *Ten zuiden van Ameland:*  De droogvallende aan Ameland grenzende wadplaten, gelegen tussen de nieuwe veersteiger van Ameland tot de meest westelijke punt van Ameland; het gedeelte aan de noordzijde begrensd door de kust ter breedte van 500 meter vanaf de lichtopstand van de Nieuwe Veersteiger tot aan het Hek op de scheiding van het Nieuwlandsrijd en de Rijksgronden.  
+
+5.  *Ten zuiden van Schiermonnikoog:*  De droogvallende aan Schiermonnikoog grenzende wadplaten, gelegen tussen de veersteiger van Schiermonnikoog tot de meest westelijke punt van Schiermonnikoog.    
+
