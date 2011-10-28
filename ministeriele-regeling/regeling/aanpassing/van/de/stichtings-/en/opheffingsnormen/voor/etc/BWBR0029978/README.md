@@ -18,15 +18,17 @@ Voor de basisscholen in de onderstaande gemeenten worden de navolgende stichting
 | Bloemendaal  | 0377  | 200  | 117  |
 | Deventer  | 0150  | 213  | 128  |
 | Heemstede  | 0397  | 310  | 186  |
-| Horst aan de Maas  | 1507  | 200  | 65  |
+| Horst aan de Maas  | 1507  | 200  | *  |
 | Maarssen  | 0333  | 260  | 156  |
-| Oldambt  | 1895  | 200  | 47  |
+| Oldambt  | 1895  | 200  | *  |
 | Peel en Maas  | 1894  | 200  | 70  |
 | Rotterdam  | 0599  | 303  | 182  |
 | Utrecht  | 0344  | 308  | 185  |
 | Venlo  | 0983  | 207  | 124  |
 | Venray  | 0984  | 200  | 72  |
 | Zuidplas  | 1892  | 210  | 126  |
+
+*) Zie de Regeling aanpassing van opheffingsnormen voor basisscholen in Horst aan de Maas en Oldambt  
 
 ### Artikel  2  
 

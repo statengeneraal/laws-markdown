@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie G&VW: de directie Gezond en Veilig Werken van het ministerie.  
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie G&VW: de directie Gezond en Veilig Werken van het ministerie. 
 
 ### §  2  
 
@@ -27,7 +27,7 @@ b. de afdeling Veilig Werken;
 
 c. de afdeling Gezond Werken;  
 
-d. de afdeling Ondersteuning en Financiën.    
+d. de afdeling Ondersteuning en Financiën.   
 
 ### Artikel  3  
 
@@ -49,7 +49,7 @@ g. het coördineren van internationale aangelegenheden die de directie betreffen
 
 h. het coördineren van het administratieve lastendossier binnen de directie;  
 
-i. het borgen van voldoende deskundigheid ten behoeve van de beleidsinzet op de onderwerpen, bedoeld in de onderdelen a tot en met f.    
+i. het borgen van voldoende deskundigheid ten behoeve van de beleidsinzet op de onderwerpen, bedoeld in de onderdelen a tot en met f.   
 
 ### Artikel  4  
 
@@ -81,7 +81,7 @@ l. het coördineren en vormgeven van onderzoeks-, monitor- en beleidsinformatiet
 
 m. het coördineren van de bijdragen aan de ontwikkeling van het programmatisch handhaven en van de daartoe te onderhouden in- en externe contacten vanuit de directie, in het bijzonder met de relevante directies van de Arbeidsinspectie;  
 
-n. het borgen van voldoende deskundigheid ten behoeve van de beleidsinzet op de onderwerpen, bedoeld in de onderdelen a tot en met f en j.    
+n. het borgen van voldoende deskundigheid ten behoeve van de beleidsinzet op de onderwerpen, bedoeld in de onderdelen a tot en met f en j.   
 
 ### Artikel  5  
 
@@ -101,7 +101,7 @@ f. het leveren van bijdragen aan de ontwikkeling van (Europese) richtlijnen en d
 
 g. het coördineren van het certificatie- en accreditatiebeleid binnen de directie;  
 
-h. het borgen van voldoende deskundigheid ten behoeve van de beleidsinzet op de onderwerpen, bedoeld in de onderdelen a en f.    
+h. het borgen van voldoende deskundigheid ten behoeve van de beleidsinzet op de onderwerpen, bedoeld in de onderdelen a en f.   
 
 ### Artikel  6  
 
@@ -123,11 +123,11 @@ g. het administratief en secretarieel ondersteunen van de afdelingen en de direc
 
 h. het ondersteunen van de directeur Gezond en Veilig Werken en het managementteam op het terrein van personeel en organisatie;  
 
-i. het onderhouden van de contacten met de bedrijfsvoeringsdirecties inzake aangelegenheden met betrekking tot de personeels-, financiële- en documentaire informatievoorziening.    
+i. het onderhouden van de contacten met de bedrijfsvoeringsdirecties inzake aangelegenheden met betrekking tot de personeels-, financiële- en documentaire informatievoorziening.   
 
 ### Artikel  7  
 
-Elk van de hoofden van de afdelingen, genoemd in artikel 2, is belast met het leiding geven aan de eigen afdeling.  
+Elk van de hoofden van de afdelingen, genoemd in artikel 2, is belast met het leiding geven aan de eigen afdeling. 
 
 ### §  3  
 
@@ -143,7 +143,7 @@ b. het houden van manager-medewerker gesprekken;
 
 c. verlof van medewerkers;  
 
-d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur Gezond en Veilig Werken.    
+d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur Gezond en Veilig Werken.   
 
 ### Artikel  9  
 
@@ -151,20 +151,20 @@ Aan de hoofden van de afdelingen, genoemd in artikel 2, onderdelen a tot en met 
 
 a. het afdoen van informatieve brieven die betrekking hebben op het beleidsterrein van de eigen organisatorische eenheid;  
 
-b. het paraferen van stukken waar de directie G&VW geen voortouw in heeft, met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur Gezond en Veilig Werken moeten worden afgedaan.    
+b. het paraferen van stukken waar de directie G&VW geen voortouw in heeft, met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur Gezond en Veilig Werken moeten worden afgedaan.   
 
 ### Artikel  10  
 
-Het hoofd van de afdeling Ondersteuning en Financiën wordt gemachtigd tot het paraferen van stukken die betrekking hebben op taken gelegen op het terrein van de bedrijfsvoering van de directie G&VW.  
+Het hoofd van de afdeling Ondersteuning en Financiën wordt gemachtigd tot het paraferen van stukken die betrekking hebben op taken gelegen op het terrein van de bedrijfsvoering van de directie G&VW. 
 
 ### Artikel  11  
 
 1.  De hoofden van de afdelingen, genoemd in artikel 2, kunnen aan rechtstreeks onder hen ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden.   
-2.  Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur Gezond en Veilig Werken.   
+2.  Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur Gezond en Veilig Werken.  
 
 ### Artikel  12  
 
-Bij afwezigheid of verhindering van de directeur Gezond en Veilig Werken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur.  
+Bij afwezigheid of verhindering van de directeur Gezond en Veilig Werken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur. 
 
 ### §  4  
 
@@ -173,7 +173,7 @@ Bij afwezigheid of verhindering van de directeur Gezond en Veilig Werken worden,
 ### Artikel  13  
 
 1.  Deze regeling treedt in werking met ingang van 1 januari 2009.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Gezond en Veilig Werken 2009.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Gezond en Veilig Werken 2009.  
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -182,4 +182,4 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
 directeur Gezond en Veilig Werken, 
-M.P.Flier   
+M.P. Flier     

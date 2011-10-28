@@ -4,7 +4,7 @@
 
 ####Convention for the protection of the marine environment of the North-East Atlantic
 
-The Contracting Parties, Recognising that the marine environment and the fauna and flora which it supports are of vital importance to all nations; Recognising the inherent worth of the marine environment of the North-East Atlantic and the necessity for providing coordinated protection for it; Recognising that concerted action at national, regional and global levels is essential to prevent and eliminate marine pollution and to achieve sustainable management of the maritime area, that is, the management of human activities in such a manner that the marine ecosystem will continue to sustain the legitimate uses of the sea and will continue to meet the needs of present and future generations; Mindful that the ecological equilibrium and the legitimate uses of the sea are threatened by pollution; Considering the recommendations of the United Nations Conference on the Human Environment, held in Stockholm in June 1972; Considering also the results of the United Nations Conference on the Environment and Development held in Rio de Janeiro in June 1992; Recalling the relevant provisions of customary international law reflected in Part XII of the United Nations Law of the Sea Convention and, in particular, Article 197 on global and regional cooperation for the protection and preservation of the marine environment; Considering that the common interests of States concerned with the same marine area should induce them to cooperate at regional or sub-regional levels; Recalling the positive results obtained within the context of the Convention for the prevention of marine pollution by dumping from ships and aircraft signed in Oslo on 15th February 1972, as amended by the protocols of 2nd March 1983 and 5th December 1989, and the Convention for the prevention of marine pollution from land-based sources signed in Paris on 4th June 1974, as amended by the protocol of 26th March 1986; Convinced that further international action to prevent and eliminate pollution of the sea should be taken without delay, as part of progressive and coherent measures to protect the marine environment; Recognising that it may be desirable to adopt, on the regional level, more stringent measures with respect to the prevention and elimination of pollution of the marine environment or with respect to the protection of the marine environment against the adverse effects of human activities than are provided for in international conventions or agreements with a global scope; Recognising that questions relating to the management of fisheries are appropriately regulated under international and regional agreements dealing specifically with such questions; Considering that the present Oslo and Paris Conventions do not adequately control some of the many sources of pollution, and that it is therefore justifiable to replace them with the present Convention, which addresses all sources of pollution of the marine environment and the adverse effects of human activities upon it, takes into account the precautionary principle and strengthens regional cooperation; Have agreed as follows;    
+The Contracting Parties, Recognising that the marine environment and the fauna and flora which it supports are of vital importance to all nations; Recognising the inherent worth of the marine environment of the North-East Atlantic and the necessity for providing coordinated protection for it; Recognising that concerted action at national, regional and global levels is essential to prevent and eliminate marine pollution and to achieve sustainable management of the maritime area, that is, the management of human activities in such a manner that the marine ecosystem will continue to sustain the legitimate uses of the sea and will continue to meet the needs of present and future generations; Mindful that the ecological equilibrium and the legitimate uses of the sea are threatened by pollution; Considering the recommendations of the United Nations Conference on the Human Environment, held in Stockholm in June 1972; Considering also the results of the United Nations Conference on the Environment and Development held in Rio de Janeiro in June 1992; Recalling the relevant provisions of customary international law reflected in Part XII of the United Nations Law of the Sea Convention and, in particular, Article 197 on global and regional cooperation for the protection and preservation of the marine environment; Considering that the common interests of States concerned with the same marine area should induce them to cooperate at regional or sub-regional levels; Recalling the positive results obtained within the context of the Convention for the prevention of marine pollution by dumping from ships and aircraft signed in Oslo on 15th February 1972, as amended by the protocols of 2nd March 1983 and 5th December 1989, and the Convention for the prevention of marine pollution from land-based sources signed in Paris on 4th June 1974, as amended by the protocol of 26th March 1986; Convinced that further international action to prevent and eliminate pollution of the sea should be taken without delay, as part of progressive and coherent measures to protect the marine environment; Recognising that it may be desirable to adopt, on the regional level, more stringent measures with respect to the prevention and elimination of pollution of the marine environment or with respect to the protection of the marine environment against the adverse effects of human activities than are provided for in international conventions or agreements with a global scope; Recognising that questions relating to the management of fisheries are appropriately regulated under international and regional agreements dealing specifically with such questions; Considering that the present Oslo and Paris Conventions do not adequately control some of the many sources of pollution, and that it is therefore justifiable to replace them with the present Convention, which addresses all sources of pollution of the marine environment and the adverse effects of human activities upon it, takes into account the precautionary principle and strengthens regional cooperation;   Have agreed as follows;    
 
 ### Article  1  
 
@@ -12,7 +12,7 @@ The Contracting Parties, Recognising that the marine environment and the fauna a
 
 For the purposes of the Convention: 
 
-a) "Maritime area" means the internal waters and the territorial seas of the Contracting Parties, the sea beyond and adjacent to the territorial sea under the jurisdiction of the coastal state to the extent recognised by international law, and the high seas, including the bed of all those waters and its sub-soil, situated within the following limits: 
+a) “Maritime area” means the internal waters and the territorial seas of the Contracting Parties, the sea beyond and adjacent to the territorial sea under the jurisdiction of the coastal state to the extent recognised by international law, and the high seas, including the bed of all those waters and its sub-soil, situated within the following limits: 
 
 (i) those parts of the Atlantic and Arctic Oceans and their dependent seas which lie north of 36° north latitude and between 42° west longitude and 51° east longitude, but excluding: 
 
@@ -22,15 +22,15 @@ a) "Maritime area" means the internal waters and the territorial seas of the Con
 
 (ii) that part of the Atlantic Ocean north of 59° north latitude and between 44° west longitude and 42° west longitude.    
 
-b) "Internal waters" means the waters on the landward side of the baseline from which the breadth of the territorial sea is measured, extending in the case of watercourses up to the freshwater limit.  
+b) “Internal waters” means the waters on the landward side of the baseline from which the breadth of the territorial sea is measured, extending in the case of watercourses up to the freshwater limit.  
 
-c) "Freshwater limit" means the place in a watercourse where, at low tide and in a period of low freshwater flow, there is an appreciable increase in salinity due to the presence of seawater.  
+c) “Freshwater limit” means the place in a watercourse where, at low tide and in a period of low freshwater flow, there is an appreciable increase in salinity due to the presence of seawater.  
 
-d) "Pollution" means the introduction by man, directly or indirectly, of substances or energy into the maritime area which results, or is likely to result, in hazards to human health, harm to living resources and marine ecosystems, damage to amenities or interference with other legitimate uses of the sea.  
+d) “Pollution” means the introduction by man, directly or indirectly, of substances or energy into the maritime area which results, or is likely to result, in hazards to human health, harm to living resources and marine ecosystems, damage to amenities or interference with other legitimate uses of the sea.  
 
-e) "land-based sources" means point and diffuse sources on land from which substances or energy reach the maritime area by water, through the air, or directly from the coast. It includes sources associated with any deliberate disposal under the sea-bed made accessible from land by tunnel, pipeline or other means and sources associated with man-made structures placed, in the maritime area under the jurisdiction of a Contracting Party, other than for the purpose of offshore activities.  
+e) “land-based sources” means point and diffuse sources on land from which substances or energy reach the maritime area by water, through the air, or directly from the coast. It includes sources associated with any deliberate disposal under the sea-bed made accessible from land by tunnel, pipeline or other means and sources associated with man-made structures placed, in the maritime area under the jurisdiction of a Contracting Party, other than for the purpose of offshore activities.  
 
-f) "Dumping" means 
+f) “Dumping” means 
 
 (i) any deliberate disposal in the maritime area of wastes or other matter 
 
@@ -44,7 +44,7 @@ f) "Dumping" means
 
 2. offshore installations and offshore pipelines.      
 
-g) "Dumping" does not include: 
+g) “Dumping” does not include: 
 
 (i) the disposal in accordance with the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, or other applicable international law, of wastes or other matter incidental to, or derived from, the normal operations of vessels or aircraft or offshore installations other than wastes or other matter transported by or to vessels or aircraft or offshore installations for the purpose of disposal of such wastes or other matter or derived from the treatment of such wastes or other matter on such vessels or aircraft or offshore installations;  
 
@@ -52,21 +52,21 @@ g) "Dumping" does not include:
 
 (iii) for the purposes of Annex III, the leaving wholly or partly in place of a disused offshore installation or disused offshore pipeline, provided that any such operation takes place in accordance with any relevant provisions of the Convention and with other relevant international law.    
 
-h) "Incineration" means any deliberate combustion of wastes or other matter in the maritime area for the purpose of their thermal destruction.  
+h) “Incineration” means any deliberate combustion of wastes or other matter in the maritime area for the purpose of their thermal destruction.  
 
-i) "Incineration" does not include the thermal destruction of wastes or other matter in accordance with applicable international law incidental to, or derived from the normal operation of vessels or aircraft, or offshore installations other than the thermal destruction of wastes or other matter on vessels or aircraft or offshore installations operating for the purpose of such thermal destruction.  
+i) “Incineration” does not include the thermal destruction of wastes or other matter in accordance with applicable international law incidental to, or derived from the normal operation of vessels or aircraft, or offshore installations other than the thermal destruction of wastes or other matter on vessels or aircraft or offshore installations operating for the purpose of such thermal destruction.  
 
-j) "Offshore activities" means activities carried out in the maritime area for the purposes of the exploration, appraisal or exploitation of liquid and gaseous hydrocarbons.  
+j) “Offshore activities” means activities carried out in the maritime area for the purposes of the exploration, appraisal or exploitation of liquid and gaseous hydrocarbons.  
 
-k) "Offshore sources" means offshore installations and offshore pipelines from which substances or energy reach the maritime area.  
+k) “Offshore sources” means offshore installations and offshore pipelines from which substances or energy reach the maritime area.  
 
-l) "offshore installation" means any man-made structure, plant or vessel or parts thereof, whether floating or fixed to the seabed, placed within the maritime area for the purpose of offshore activities.  
+l) “offshore installation” means any man-made structure, plant or vessel or parts thereof, whether floating or fixed to the seabed, placed within the maritime area for the purpose of offshore activities.  
 
-m) "Offshore pipeline" means any pipeline which has been placed in the maritime area for the purpose of offshore activities.  
+m) “Offshore pipeline” means any pipeline which has been placed in the maritime area for the purpose of offshore activities.  
 
-n) "Vessels or aircraft" means waterborne or airborne craft of any type whatsoever, their parts and other fittings. This expression includes air-cushion craft, floating craft whether self-propelled or not, and other man-made structures in the maritime area and their equipment, but excludes offshore installations and offshore pipelines.  
+n) “Vessels or aircraft” means waterborne or airborne craft of any type whatsoever, their parts and other fittings. This expression includes air-cushion craft, floating craft whether self-propelled or not, and other man-made structures in the maritime area and their equipment, but excludes offshore installations and offshore pipelines.  
 
-o) "Wastes or other matter" does not include: 
+o) “Wastes or other matter” does not include: 
 
 (i) human remains;  
 
@@ -76,13 +76,13 @@ iii) offshore pipelines;
 
 (iv) unprocessed fish and fish offal discarded from fishing vessels.    
 
-p) "Convention" means, unless the text otherwise indicates, the Convention for the Protection of the Marine Environment of the North-East Atlantic, its Annexes and Appendices.  
+p) “Convention” means, unless the text otherwise indicates, the Convention for the Protection of the Marine Environment of the North-East Atlantic, its Annexes and Appendices.  
 
-q) "Oslo Convention" means the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft signed in Oslo on 15th February 1972, as amended by the protocols of 2nd March 1983 and 5th December 1989.  
+q) “Oslo Convention” means the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft signed in Oslo on 15th February 1972, as amended by the protocols of 2nd March 1983 and 5th December 1989.  
 
-r) "Paris Convention" means the Convention for the Prévention of Marine Pollution from Land-based Sources, signed in Paris on 4th June 1974, as amended by the protocol of 26th March 1986.  
+r) “Paris Convention” means the Convention for the Prévention of Marine Pollution from Land-based Sources, signed in Paris on 4th June 1974, as amended by the protocol of 26th March 1986.  
 
-s) "Regional economic integration organisation" means an organisation constituted by sovereign States of a given region which has competence in respect of matters governed by the Convention and has been duly authorised, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to the Convention.    
+s) “Regional economic integration organisation” means an organisation constituted by sovereign States of a given region which has competence in respect of matters governed by the Convention and has been duly authorised, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to the Convention.    
 
 ### Article  2  
 
@@ -515,7 +515,17 @@ c) sewage sludge until 31st December 1998;
 
 d) fish waste from industrial fish processing operations;  
 
-e) vessels or aircraft until, at the latest, 31st December 2004.     
+e) vessels or aircraft until, at the latest, 31st December 2004;  
+
+f) carbon dioxide streams from carbon dioxide capture processes for storage, provided: 
+
+(i) disposal is into a sub-soil geological formation;  
+
+(ii) the streams consist overwhelmingly of carbon dioxide. They may contain incidental associated substances derived from the source material and the capture, transport and storage processes used;  
+
+(iii) no wastes or other matter are added for the purpose of disposing of those wastes or other matter;  
+
+(iv) they are intended to be retained in these formations permanently and will not lead to significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area.       
 3.  
 
 a) The dumping of low and intermediate level radioactive substances, including wastes, is prohibited.  
@@ -593,6 +603,16 @@ b) best environmental practice   including, where appropriate, clean technology.
 
 1.  Any dumping of wastes or other matter from offshore installations is prohibited.   
 2.  This prohibition does not relate to discharges or emissions from offshore sources.   
+3.  The prohibition referred to in paragraph 1 of this Article does not apply to carbon dioxide streams from carbon dioxide capture processes for storage, provided 
+
+a) disposal is into a sub-soil geological formation;  
+
+b) the streams consist overwhelmingly of carbon dioxide. They may contain incidental associated substances derived from the source material and the capture, transport and storage processes used;  
+
+c) no wastes or other matter are added for the purpose of disposing of those wastes or other matter;  
+
+d) they are intended to be retained in these formations permanently and will not lead to significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area.     
+4.  The Contracting Parties shall ensure that no streams referred to in paragraph 3 shall be disposed of in sub-soil geological formations without authorisation or regulation by their competent authorities. Such authorisation or regulation shall, in particular, implement the relevant applicable decisions, recommendations and all other agreements adopted under the Convention.   
 
 ### Article  4  
 
@@ -892,7 +912,7 @@ d) the North East Atlantic Fisheries Commission and the North Atlantic Salmon Co
 
 ####Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan
 
-De Verdragsluitende Partijen, Zich bewust van het vitale belang, voor alle volken, van het mariene milieu en van de daarvan levende flora en fauna; Erkennende de intrinsieke waarde van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan en de noodzaak de bescherming daarvan te coördineren; Erkennende dat gezamenlijk optreden op nationaal, regionaal en mondiaal niveau van wezenlijk belang is ter voorkoming en beëindiging van de verontreiniging van de zee alsook om te komen tot een duurzaam beheer van het zeegebied, dat wil zeggen een zodanig beheer van menselijke activiteiten, dat het mariene ecosysteem het rechtmatig gebruik van de zee kan blijven dragen en kan blijven voorzien in de behoeften van de huidige en toekomstige generaties; Indachtig dat het ecologisch evenwicht en het rechtmatig gebruik van de zee worden bedreigd door verontreiniging; Gelet op de aanbevelingen van de Conferentie van de Verenigde Naties inzake het leefmilieu, gehouden te Stockholm in juni 1972; Gelet ook op de resultaten van de Conferentie van de Verenigde Naties inzake milieu en ontwikkeling, gehouden te Rio de Janeiro in juni 1992; Herinnerende aan de desbetreffende bepalingen van het internationaal gewoonterecht, weergegeven in Deel XII van het Verdrag van de Verenigde Naties inzake het recht van de zee, en in bijzonder aan artikel 197 betreffende de mondiale en regionale samenwerking voor de bescherming en het behoud van het mariene milieu; Overwegende dat de gemeenschapelijke belangen van de bij een zelfde zeegebied betrokken Staten hen moeten brengen tot samenwerking op regionaal of subregionaal niveau; Herinnerend aan de positieve resultaten die zijn behaald in het kader van het Verdrag ter voorkoming van verontreiniging van de zee ten gevolge van het storten uit schepen en luchtvaartuigen, ondertekend te Oslo op 15 februari 1972, zoals gewijzigd bij de protocollen van 2 maart 1983 en 5 december 1989, en het Verdrag ter voorkoming van verontreiniging van de zee vanaf het land, ondertekend te Parijs op 4 juni 1974, zoals gewijzigd bij het protocol van 26 maart 1986; Ervan overtuigd dat onverwijld verdere internationale maatregelen moeten worden genomen ten einde de verontreiniging van de zee te voorkomen en te beëindigen, als onderdeel van een voortschrijdend en samenhangend programma ter bescherming van het mariene milieu; Erkennende dat het wenselijk kan zijn met betrekking tot de voorkoming en beëindiging van de verontreiniging van het mariene milieu, of met betrekking tot de bescherming van het mariene milieu tegen de nadelige gevolgen van menselijke activiteiten, op regionaal niveau maatregelen te treffen die strenger zijn dan die welke zijn vervat in internationale verdragen of overeenkomsten met een mondiale werkingssfeer; Erkennende dat aangelegenheden betreffende het beheer van de visserij op passende wijze zijn geregeld in internationale en regionale overeenkomsten waarin deze aangelegenheden specifiek worden behandeld; Overwegende dat in de huidige Verdragen van Oslo en Parijs enkele van de vele bronnen van verontreiniging niet afdoende zijn geregeld, en dat het derhalve gerechtvaardigd is deze te vervangen door het onderhavige Verdrag, dat betrekking heeft op alle bronnen van verontreiniging van het mariene milieu en de nadelige gevolgen van menselijke activiteiten daarvoor, en dat uitgaat van het voorzorgsbeginsel en de regionale samenwerking versterkt; Zijn het volgende overeengekomen:    
+De Verdragsluitende Partijen, Zich bewust van het vitale belang, voor alle volken, van het mariene milieu en van de daarvan levende flora en fauna; Erkennende de intrinsieke waarde van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan en de noodzaak de bescherming daarvan te coördineren; Erkennende dat gezamenlijk optreden op nationaal, regionaal en mondiaal niveau van wezenlijk belang is ter voorkoming en beëindiging van de verontreiniging van de zee alsook om te komen tot een duurzaam beheer van het zeegebied, dat wil zeggen een zodanig beheer van menselijke activiteiten, dat het mariene ecosysteem het rechtmatig gebruik van de zee kan blijven dragen en kan blijven voorzien in de behoeften van de huidige en toekomstige generaties; Indachtig dat het ecologisch evenwicht en het rechtmatig gebruik van de zee worden bedreigd door verontreiniging; Gelet op de aanbevelingen van de Conferentie van de Verenigde Naties inzake het leefmilieu, gehouden te Stockholm in juni 1972; Gelet ook op de resultaten van de Conferentie van de Verenigde Naties inzake milieu en ontwikkeling, gehouden te Rio de Janeiro in juni 1992; Herinnerende aan de desbetreffende bepalingen van het internationaal gewoonterecht, weergegeven in Deel XII van het Verdrag van de Verenigde Naties inzake het recht van de zee, en in bijzonder aan artikel 197 betreffende de mondiale en regionale samenwerking voor de bescherming en het behoud van het mariene milieu; Overwegende dat de gemeenschapelijke belangen van de bij een zelfde zeegebied betrokken Staten hen moeten brengen tot samenwerking op regionaal of subregionaal niveau; Herinnerend aan de positieve resultaten die zijn behaald in het kader van het Verdrag ter voorkoming van verontreiniging van de zee ten gevolge van het storten uit schepen en luchtvaartuigen, ondertekend te Oslo op 15 februari 1972, zoals gewijzigd bij de protocollen van 2 maart 1983 en 5 december 1989, en het Verdrag ter voorkoming van verontreiniging van de zee vanaf het land, ondertekend te Parijs op 4 juni 1974, zoals gewijzigd bij het protocol van 26 maart 1986; Ervan overtuigd dat onverwijld verdere internationale maatregelen moeten worden genomen ten einde de verontreiniging van de zee te voorkomen en te beëindigen, als onderdeel van een voortschrijdend en samenhangend programma ter bescherming van het mariene milieu; Erkennende dat het wenselijk kan zijn met betrekking tot de voorkoming en beëindiging van de verontreiniging van het mariene milieu, of met betrekking tot de bescherming van het mariene milieu tegen de nadelige gevolgen van menselijke activiteiten, op regionaal niveau maatregelen te treffen die strenger zijn dan die welke zijn vervat in internationale verdragen of overeenkomsten met een mondiale werkingssfeer; Erkennende dat aangelegenheden betreffende het beheer van de visserij op passende wijze zijn geregeld in internationale en regionale overeenkomsten waarin deze aangelegenheden specifiek worden behandeld; Overwegende dat in de huidige Verdragen van Oslo en Parijs enkele van de vele bronnen van verontreiniging niet afdoende zijn geregeld, en dat het derhalve gerechtvaardigd is deze te vervangen door het onderhavige Verdrag, dat betrekking heeft op alle bronnen van verontreiniging van het mariene milieu en de nadelige gevolgen van menselijke activiteiten daarvoor, en dat uitgaat van het voorzorgsbeginsel en de regionale samenwerking versterkt;   Zijn het volgende overeengekomen:    
 
 ### Artikel  1  
 
@@ -900,7 +920,7 @@ De Verdragsluitende Partijen, Zich bewust van het vitale belang, voor alle volke
 
 Voor de toepassing van dit Verdrag: 
 
-a. wordt onder „zeegebied" verstaan de binnenwateren en de territoriale zee van de Verdragsluitende Partijen, de zee buiten en grenzend aan de territoriale zee, onder de rechtsmacht van de kuststaat in de door het internationale recht erkende mate, en de volle zee, met inbegrip van de bodem van deze wateren en de ondergrond daarvan, welke wateren als volgt zijn begrensd: 
+a. wordt onder „zeegebied” verstaan de binnenwateren en de territoriale zee van de Verdragsluitende Partijen, de zee buiten en grenzend aan de territoriale zee, onder de rechtsmacht van de kuststaat in de door het internationale recht erkende mate, en de volle zee, met inbegrip van de bodem van deze wateren en de ondergrond daarvan, welke wateren als volgt zijn begrensd: 
 
 i. de delen van de Atlantische Oceaan en de Noordelijke IJszee en de hiertoe behorende zeeën ten noorden van 36° noorderbreedte en tussen 42° westerlengte en 51 ° oosterlengte, met uitzondering van: 
 
@@ -910,15 +930,15 @@ i. de delen van de Atlantische Oceaan en de Noordelijke IJszee en de hiertoe beh
 
 ii. het deel van de Atlantische Oceaan ten noorden van 59° noorderbreedte en tussen 44° westerlengte en 42° westerlengte.    
 
-b. wordt onder „binnenwateren" verstaan de wateren gelegen aan de landzijde van de basislijnen vanwaar de breedte van de territoriale zee wordt gemeten, in het geval van waterlopen zich uitstrekkende tot de zoetwatergrens.  
+b. wordt onder „binnenwateren” verstaan de wateren gelegen aan de landzijde van de basislijnen vanwaar de breedte van de territoriale zee wordt gemeten, in het geval van waterlopen zich uitstrekkende tot de zoetwatergrens.  
 
-c. wordt onder „zoetwatergrens" verstaan de plaats in de waterloop waar bij laagwater en in tijden van geringe afvloeiing van zoet water het zoutgehalte merkbaar stijgt ten gevolge van de aanwezigheid van zeewater.  
+c. wordt onder „zoetwatergrens” verstaan de plaats in de waterloop waar bij laagwater en in tijden van geringe afvloeiing van zoet water het zoutgehalte merkbaar stijgt ten gevolge van de aanwezigheid van zeewater.  
 
-d. wordt onder „verontreiniging" verstaan het direct of indirect door de mens in het zeegebied brengen van stoffen of energie, hetgeen leidt of kan leiden tot gevaar voor de gezondheid van de mens, tot schade aan levende rijkdommen en mariene ecosystemen, tot aantasting van de mogelijkheden tot recreatie of tot hindering van ander rechtmatig gebruik van de zee.  
+d. wordt onder „verontreiniging” verstaan het direct of indirect door de mens in het zeegebied brengen van stoffen of energie, hetgeen leidt of kan leiden tot gevaar voor de gezondheid van de mens, tot schade aan levende rijkdommen en mariene ecosystemen, tot aantasting van de mogelijkheden tot recreatie of tot hindering van ander rechtmatig gebruik van de zee.  
 
-e. wordt onder „landbronnen" verstaan puntbronnen en diffuse bronnen op het land, waaruit stoffen of energie in het zeegebied terechtkomen via het water, de lucht of rechtstreeks vanaf de kust. Hieronder vallen tevens bronnen verband houdende met een plaats voor opzettelijke verwijdering of lozing onder de zeebodem, die toegankelijk is vanaf het land via een tunnel, pijpleiding of anderszins, en andere bronnen verband houdende met kunstmatige bouwwerken, geplaatst in het zeegebied onder de rechtsmacht van een Verdragsluitende Partij voor andere doeleinden dan offshore-activiteiten.  
+e. wordt onder „landbronnen” verstaan puntbronnen en diffuse bronnen op het land, waaruit stoffen of energie in het zeegebied terechtkomen via het water, de lucht of rechtstreeks vanaf de kust. Hieronder vallen tevens bronnen verband houdende met een plaats voor opzettelijke verwijdering of lozing onder de zeebodem, die toegankelijk is vanaf het land via een tunnel, pijpleiding of anderszins, en andere bronnen verband houdende met kunstmatige bouwwerken, geplaatst in het zeegebied onder de rechtsmacht van een Verdragsluitende Partij voor andere doeleinden dan offshore-activiteiten.  
 
-f. wordt onder „storten" verstaan: 
+f. wordt onder „storten” verstaan: 
 
 i. het zich opzettelijk ontdoen in het zeegebied van afval of andere stoffen 
 
@@ -932,7 +952,7 @@ ii. het zich opzettelijk ontdoen in het zeegebied van
 
 2. offshore-installaties en -pijpleidingen.      
 
-g. wordt onder „storten" niet verstaan: 
+g. wordt onder „storten” niet verstaan: 
 
 i. het zich ontdoen, in overeenstemming met het Internationaal Verdrag ter voorkoming van verontreiniging door schepen van 1973, zoals gewijzigd bij het daarop betrekking hebbende Protocol van 1978, of andere toepasselijke internationale regelgeving, van afval of andere stoffen verbonden met of afkomstig uit de normale exploitatie van schepen, luchtvaartuigen of offshore-installaties, anders dan afval of andere stoffen vervoerd door of naar schepen, luchtvaartuigen of offshore-installaties die zijn bestemd voor het zich ontdoen van bedoeld afval of andere stoffen, dan wel afkomstig uit de behandeling van bedoeld afval of andere stoffen aan boord van die schepen of luchtvaartuigen of op die offshore-installaties;  
 
@@ -940,21 +960,21 @@ ii. het plaatsen van stoffen voor andere doeleinden dan het zich louter ontdoen 
 
 iii. voor de toepassing van Bijlage III, het geheel of gedeeltelijk ter plaatse achterlaten van een buiten gebruik gestelde offshore-installatie of -pijpleiding, mits zulks plaatsvindt in overeenstemming met de bepalingen van dit Verdrag en met andere internationale regelgeving terzake.    
 
-h. wordt onder „verbranden" verstaan de opzettelijke verbranding van afval of andere stoffen in het zeegebied met het oog op de thermische vernietiging daarvan.  
+h. wordt onder „verbranden” verstaan de opzettelijke verbranding van afval of andere stoffen in het zeegebied met het oog op de thermische vernietiging daarvan.  
 
-i. wordt onder „verbranden" niet verstaan de thermische vernietiging van afval of andere stoffen, in overeenstemming met de toepasselijke internationale regelgeving, verbonden met of afkomstig uit de normale exploitatie van schepen, luchtvaartuigen of offshore-installaties, anders dan de thermische vernietiging van afval of andere stoffen aan boord van schepen of luchtvaartuigen of op offshore-installaties die bestemd zijn voor een dergelijke thermische vernietiging.  
+i. wordt onder „verbranden” niet verstaan de thermische vernietiging van afval of andere stoffen, in overeenstemming met de toepasselijke internationale regelgeving, verbonden met of afkomstig uit de normale exploitatie van schepen, luchtvaartuigen of offshore-installaties, anders dan de thermische vernietiging van afval of andere stoffen aan boord van schepen of luchtvaartuigen of op offshore-installaties die bestemd zijn voor een dergelijke thermische vernietiging.  
 
-j. wordt onder „offshore-activiteiten" verstaan in het zeegebied verrichte activiteiten ten behoeve van de exploratie, schatting of exploitatie van vloeibare of gasvormige koolwaterstoffen.  
+j. wordt onder „offshore-activiteiten” verstaan in het zeegebied verrichte activiteiten ten behoeve van de exploratie, schatting of exploitatie van vloeibare of gasvormige koolwaterstoffen.  
 
-k. wordt onder „offshore-bronnen" verstaan offshore-installaties en offshore-pijpleidingen waarvan c.q. waaruit stoffen of energie in het zeegebied terechtkomen.  
+k. wordt onder „offshore-bronnen” verstaan offshore-installaties en offshore-pijpleidingen waarvan c.q. waaruit stoffen of energie in het zeegebied terechtkomen.  
 
-l. wordt onder „offshore-installaties" verstaan alle kunstmatige bouwwerken, installaties of vaartuigen, of delen daarvan, zowel drijvend als bevestigd aan de zeebodem, die in het zeegebied zijn geplaatst ten behoeve van offshore-activiteiten.  
+l. wordt onder „offshore-installaties” verstaan alle kunstmatige bouwwerken, installaties of vaartuigen, of delen daarvan, zowel drijvend als bevestigd aan de zeebodem, die in het zeegebied zijn geplaatst ten behoeve van offshore-activiteiten.  
 
-m. wordt onder „offshore-pijpleidingen" verstaan alle pijpleidingen die in het zeegebied zijn aangelegd ten behoeve van offshore-activiteiten.  
+m. wordt onder „offshore-pijpleidingen” verstaan alle pijpleidingen die in het zeegebied zijn aangelegd ten behoeve van offshore-activiteiten.  
 
-n. wordt onder „schepen of luchtvaartuigen" verstaan (lucht)vaartuigen, ongeacht van welk type, en onderdelen en uitrusting daarvan. Hieronder worden mede verstaan luchtkussenvaartuigen, drijvende toestellen, al dan niet met eigen voortstuwingsmiddelen, en andere kunstmatige bouwwerken in het zeegebied, alsmede hun uitrusting, doch met uitzondering van offshore-installaties en -pijpleidingen.  
+n. wordt onder „schepen of luchtvaartuigen” verstaan (lucht)vaartuigen, ongeacht van welk type, en onderdelen en uitrusting daarvan. Hieronder worden mede verstaan luchtkussenvaartuigen, drijvende toestellen, al dan niet met eigen voortstuwingsmiddelen, en andere kunstmatige bouwwerken in het zeegebied, alsmede hun uitrusting, doch met uitzondering van offshore-installaties en -pijpleidingen.  
 
-o. onder „afval of andere stoffen" wordt niet verstaan: 
+o. onder „afval of andere stoffen” wordt niet verstaan: 
 
 i. menselijke stoffelijke resten;  
 
@@ -964,13 +984,13 @@ iii. offshore-pijpleidingen;
 
 iv. onbewerkte vis en visafval afkomstig van visserijschepen.    
 
-p. wordt onder „het Verdrag" verstaan, tenzij de tekst anders luidt, het Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan, alsmede de Bijlagen en Aanhangsels daarbij.  
+p. wordt onder „het Verdrag” verstaan, tenzij de tekst anders luidt, het Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan, alsmede de Bijlagen en Aanhangsels daarbij.  
 
-q. wordt onder „het Verdrag van Oslo" verstaan het Verdrag ter voorkoming van verontreiniging van de zee ten gevolge van het storten uit schepen en luchtvaartuigen, ondertekend te Oslo op 15 februari 1972, zoals gewijzigd bij de protocollen van 2 maart 1983 en 5 december 1989.  
+q. wordt onder „het Verdrag van Oslo” verstaan het Verdrag ter voorkoming van verontreiniging van de zee ten gevolge van het storten uit schepen en luchtvaartuigen, ondertekend te Oslo op 15 februari 1972, zoals gewijzigd bij de protocollen van 2 maart 1983 en 5 december 1989.  
 
-r. wordt onder „het Verdrag van Parijs" verstaan het Verdrag ter voorkoming van verontreiniging van de zee vanaf het land, ondertekend te Parijs op 4 juni 1974, zoals gewijzigd bij het protocol van 26 maart 1986.  
+r. wordt onder „het Verdrag van Parijs” verstaan het Verdrag ter voorkoming van verontreiniging van de zee vanaf het land, ondertekend te Parijs op 4 juni 1974, zoals gewijzigd bij het protocol van 26 maart 1986.  
 
-s. wordt onder „regionale organisatie voor economische integratie" verstaan een door soevereine Staten in een bepaalde regio opgerichte organisatie die bevoegdheid heeft ten aanzien van in het Verdrag geregelde aangelegenheden en die naar behoren gemachtigd is, in overeenstemming met haar interne procedures, om het Verdrag te ondertekenen, te bekrachtigen, te aanvaarden of goed te keuren dan wel hiertoe toe te treden.    
+s. wordt onder „regionale organisatie voor economische integratie” verstaan een door soevereine Staten in een bepaalde regio opgerichte organisatie die bevoegdheid heeft ten aanzien van in het Verdrag geregelde aangelegenheden en die naar behoren gemachtigd is, in overeenstemming met haar interne procedures, om het Verdrag te ondertekenen, te bekrachtigen, te aanvaarden of goed te keuren dan wel hiertoe toe te treden.    
 
 ### Artikel  2  
 
@@ -1399,7 +1419,17 @@ c. zuiveringsslib tot 31 december 1998;
 
 d. visafval afkomstig van op industriële wijze verwerkte vis;  
 
-e. schepen en luchtvaartuigen tot uiterlijk 31 december 2004.     
+e. schepen en luchtvaartuigen tot uiterlijk 31 december 2004;  
+
+f. kooldioxidestromen afkomstig van processen voor het opvangen van kooldioxide ten behoeve van opslag, op voorwaarde dat: 
+
+i. het zich ontdoen daarvan plaatsvindt in een ondergrondse geologische formatie;  
+
+ii. de stromen voor het overgrote deel bestaan uit kooldioxide. De stromen mogen sporen bevatten van bepaalde uit het bronmateriaal en het opvang-, transport- en opslagproces voortkomende stoffen;  
+
+iii. er geen afval of andere stoffen aan worden toegevoegd met het doel zich van dit afval of deze andere stoffen te ontdoen;  
+
+iv. zij bedoeld zijn om permanent in deze formaties te worden bewaard en geen aanzienlijke negatieve gevolgen hebben voor het mariene milieu, de gezondheid van de mens en ander rechtmatig gebruik van het zeegebied.       
 3.  
 
 a. Het storten van laag en middelhoog radioactieve stoffen, met inbegrip van afvalstoffen, is verboden.  
@@ -1477,6 +1507,16 @@ b. de beste milieupraktijk,   hierbij inbegrepen, indien van toepassing, schone 
 
 1.  Het storten van afval of andere stoffen vanaf offshore-installaties is verboden.   
 2.  Dit verbod heeft geen betrekking op lozingen of emissies uit offshore-bronnen.   
+3.  Het in het eerste lid van dit artikel bedoelde verbod is niet van toepassing op kooldioxidestromen afkomstig van processen voor het opvangen van kooldioxide ten behoeve van opslag, op voorwaarde dat: 
+
+a. het zich ontdoen daarvan plaatsvindt in een ondergrondse geologische formatie;  
+
+b. de stromen voor het overgrote deel bestaan uit kooldioxide. De stromen mogen sporen bevatten van bepaalde uit het bronmateriaal en het opvang-, transport- en opslagproces voortkomende stoffen;  
+
+c. er geen afval of andere stoffen aan worden toegevoegd met het doel zich van dit afval of deze andere stoffen te ontdoen;  
+
+d. zij bedoeld zijn om permanent in deze formaties te worden bewaard en geen aanzienlijke negatieve gevolgen hebben voor het mariene milieu, de gezondheid van de mens en ander rechtmatig gebruik van het zeegebied.     
+4.  De Verdragsluitende Partijen zien er op toe dat het zich ontdoen van de in het derde lid bedoelde stromen in ondergrondse geologische formaties niet plaatsvindt zonder vergunning of ontheffingsregeling van hun bevoegde autoriteiten. Bedoelde vergunning of ontheffingsregeling dient, in het bijzonder, uitvoering te geven aan de desbetreffende toepasselijke besluiten, aanbevelingen en alle overige akkoorden die ingevolge het Verdrag zijn aangenomen.   
 
 ### Artikel  4  
 

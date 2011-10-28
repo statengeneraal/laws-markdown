@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling kinderopvang.   
+Wijzigt de Subsidieregeling kinderopvang. 
 
 ### Artikel  II  
 
-De [Subsidieregeling kinderopvang](../../../../../../../ministeriele-regeling/subsidieregeling/kinderopvang/BWBR0018209/README.md) zoals deze luidde voor het tijdstip van inwerkingtreding van deze regeling blijft van toepassing op de financiële afwikkeling van voor bedoeld tijdstip verleende subsidies.  
+De [Subsidieregeling kinderopvang](../../../../../../../ministeriele-regeling/subsidieregeling/kinderopvang/BWBR0018209/README.md) zoals deze luidde voor het tijdstip van inwerkingtreding van deze regeling blijft van toepassing op de financiële afwikkeling van voor bedoeld tijdstip verleende subsidies. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-S.A.M.Dijksma   
+S.A.M. Dijksma     

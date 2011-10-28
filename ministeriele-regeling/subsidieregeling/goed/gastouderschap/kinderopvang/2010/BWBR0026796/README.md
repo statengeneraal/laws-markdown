@@ -15,27 +15,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *gastouderbureau:* gastouderbureau waarop [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) van toepassing is;  
+b.  *gastouderbureau:* gastouderbureau waarop [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) van toepassing is;  
 
-c. *gastouder:* gastouder op wie [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) van toepassing is;  
+c.  *gastouder:* gastouder op wie [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) van toepassing is;  
 
-d. *certificaat goed gastouderschap:* bewijs van het met goed gevolg hebben doorlopen van een certificeringsprocedure goed gastouderschap waaruit blijkt dat de houder voor een voorziening voor gastouderopvang als bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) voldoet aan de competenties, behorende bij de beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), specifiek gericht op gastouderopvang;  
+d.  *certificaat goed gastouderschap:* bewijs van het met goed gevolg hebben doorlopen van een certificeringsprocedure goed gastouderschap waaruit blijkt dat de houder voor een voorziening voor gastouderopvang als bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) voldoet aan de competenties, behorende bij de beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), specifiek gericht op gastouderopvang;  
 
-f. *certificeringsprocedure:* geheel van processtappen en gehanteerde instrumenten waarmee een aanbieder de verworven competenties van personen beoordeelt ten opzichte van een specifieke landelijke standaard, uitgevoerd conform de EVC-code;  
+f.  *certificeringsprocedure:* geheel van processtappen en gehanteerde instrumenten waarmee een aanbieder de verworven competenties van personen beoordeelt ten opzichte van een specifieke landelijke standaard, uitgevoerd conform de EVC-code;  
 
-g. *aanbieder:* erkende EVC-aanbieder, die volgens de principes en uitgangspunten van de EVC-code certificeringsprocedures aanbiedt en als zodanig is opgenomen in het register van erkende EVC-aanbieders, bedoeld in de EVC-code, of organisatie die in het kalenderjaar 2009 in dit register was opgenomen;  
+g.  *aanbieder:* erkende EVC-aanbieder, die volgens de principes en uitgangspunten van de EVC-code certificeringsprocedures aanbiedt en als zodanig is opgenomen in het register van erkende EVC-aanbieders, bedoeld in de EVC-code, of organisatie die in het kalenderjaar 2009 in dit register was opgenomen;  
 
-h. *BKK:* Stichting Bureau Kwaliteit Kinderopvang, gevestigd te Utrecht;  
+h.  *BKK:* Stichting Bureau Kwaliteit Kinderopvang, gevestigd te Utrecht;  
 
-i. *werkelijke kosten van de certificeringsprocedure:* de netto kosten die het gastouderbureau betaalt aan de aanbieder voor de certificeringsprocedure, niet zijnde de vergoeding die de aanbieder betaalt aan het gastouderbureau of aan de gastouder voor activiteiten die door het gastouderbureau of de gastouder worden verricht in het kader van de certificeringsprocedure.    
+i.  *werkelijke kosten van de certificeringsprocedure:* de netto kosten die het gastouderbureau betaalt aan de aanbieder voor de certificeringsprocedure, niet zijnde de vergoeding die de aanbieder betaalt aan het gastouderbureau of aan de gastouder voor activiteiten die door het gastouderbureau of de gastouder worden verricht in het kader van de certificeringsprocedure.   
 
 ### Artikel  2  
 
 ####Doelomschrijving
 
-De minister verstrekt subsidie met als doel gastouders die op de datum van inwerkingtreding van deze regeling gastouder in de zin van de [Wet kinderopvang](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) zijn en als zodanig werkzaam zijn, in het jaar 2009 en 2010 tegemoet te komen in de kosten voor het kunnen voldoen aan de deskundigheidseisen op grond van de Wet kinderopvang zoals luidend met ingang van 1 januari 2010.  
+De minister verstrekt subsidie met als doel gastouders die op de datum van inwerkingtreding van deze regeling gastouder in de zin van de [Wet kinderopvang](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) zijn en als zodanig werkzaam zijn, in het jaar 2009 en 2010 tegemoet te komen in de kosten voor het kunnen voldoen aan de deskundigheidseisen op grond van de Wet kinderopvang zoals luidend met ingang van 1 januari 2010. 
 
 ### Artikel  3  
 
@@ -76,25 +76,25 @@ o. de assessor, bedoeld in de EVC-code, is geen gastouder en is niet werkzaam bi
 p. de aanbieder overlegt aan het gastouderbureau een schriftelijke en ondertekende verklaring, inhoudende dat de aanbieder voldoet aan de in dit artikel genoemde voorwaarden;  
 
 q. de aanbieder verleent medewerking aan toezicht op de uitvoering van deze regeling.     
-2.  Voor de subsidie, bedoeld in het eerste lid, komt het gastouderbureau onverminderd het eerste lid uitsluitend in aanmerking ten aanzien van gastouders die door hun gastouderbureau bij BKK zijn aangemeld uiterlijk op 31 december 2009.   
+2.  Voor de subsidie, bedoeld in het eerste lid, komt het gastouderbureau onverminderd het eerste lid uitsluitend in aanmerking ten aanzien van gastouders die door hun gastouderbureau bij BKK zijn aangemeld uiterlijk op 31 december 2009.  
 
 ### Artikel  4  
 
 ####Subsidieaanvrager
 
-Subsidie als bedoeld in artikel 3 wordt uitsluitend verleend aan gastouderbureaus.  
+Subsidie als bedoeld in artikel 3 wordt uitsluitend verleend aan gastouderbureaus. 
 
 ### Artikel  5  
 
 ####Tijdvak subsidiëring
 
-De subsidie wordt uitsluitend verstrekt voor activiteiten die worden verricht tot en met 30 september 2010.  
+De subsidie wordt uitsluitend verstrekt voor activiteiten die worden verricht tot en met 30 september 2010. 
 
 ### Artikel  6  
 
 ####Subsidiebedrag
 
-De subsidie per gastouder bedraagt ten hoogste 75% van de werkelijke kosten van een certificeringsprocedure, met een maximum van 675 Euro.  
+De subsidie per gastouder bedraagt ten hoogste 75% van de werkelijke kosten van een certificeringsprocedure, met een maximum van 675 Euro. 
 
 ### Hoofdstuk  2  
 
@@ -104,7 +104,7 @@ De subsidie per gastouder bedraagt ten hoogste 75% van de werkelijke kosten van 
 
 ####Subsidieaanvraag
 
-De subsidie wordt op aanvraag verleend.  
+De subsidie wordt op aanvraag verleend. 
 
 ### Artikel  8  
 
@@ -112,7 +112,7 @@ De subsidie wordt op aanvraag verleend.
 
 1.  Subsidieaanvragen worden elektronisch ingediend bij BKK via de website www.stichtingbkk.nl.   
 2.  Subsidieaanvragen kunnen worden ingediend voor 1 april 2010. Aanvragen die na 31 maart 2010 zijn ontvangen, worden niet in behandeling genomen.   
-3.  De minister kan om reden van bijzondere omstandigheden een latere uiterste indieningsdatum vaststellen dan 1 april 2010.   
+3.  De minister kan om reden van bijzondere omstandigheden een latere uiterste indieningsdatum vaststellen dan 1 april 2010.  
 
 ### Artikel  9  
 
@@ -122,7 +122,7 @@ Bij de subsidieaanvraag worden overgelegd:
 
 a. een gewaarmerkte kopie van het gedagtekend bewijs van inschrijving van de gastouder voor de certificeringsprocedure van deze aanbieder, dat is ondertekend door de gastouder en de aanbieder, en  
 
-b. een kopie van het identiteitsbewijs, bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), van de gastouder.    
+b. een kopie van het identiteitsbewijs, bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), van de gastouder.   
 
 ### Hoofdstuk  3  
 
@@ -132,7 +132,7 @@ b. een kopie van het identiteitsbewijs, bedoeld in [artikel 1 van de Wet op de 
 
 ####Beslissing op de aanvraag
 
-De minister beslist op een aanvraag als bedoeld in artikel 7 binnen acht weken na ontvangst van de aanvraag.  
+De minister beslist op een aanvraag als bedoeld in artikel 7 binnen acht weken na ontvangst van de aanvraag. 
 
 ### Artikel  11  
 
@@ -144,7 +144,7 @@ a. aan de aanvrager al eerder ten behoeve van dezelfde gastouder subsidie is ver
 
 b. aan de aanvrager subsidie of enigerlei andere vergoeding ten behoeve van een certificeringsprocedure is verstrekt op grond van een andere regeling, of  
 
-c. de aanvrager uit andere hoofde al een vergoeding voor de kosten van de certificeringsprocedure ontvangt of heeft ontvangen.    
+c. de aanvrager uit andere hoofde al een vergoeding voor de kosten van de certificeringsprocedure ontvangt of heeft ontvangen.   
 
 ### Hoofdstuk  4  
 
@@ -155,7 +155,7 @@ c. de aanvrager uit andere hoofde al een vergoeding voor de kosten van de certif
 ####Informatieplicht
 
 1.  De subsidieontvanger werkt mee aan door of namens de minister ingestelde onderzoeken die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.   
-2.  De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.   
+2.  De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.  
 
 ### Hoofdstuk  5  
 
@@ -172,13 +172,13 @@ a. een gewaarmerkte kopie van de gespecificeerde rekening van de aanbieder voor 
 b. een gewaarmerkte kopie van het door de gastouder op grond van deze certificeringsprocedure behaalde certificaat goed gastouderschap,  
 
 c. een ondertekende verklaring van het gastouderbureau dat de aanvraag uitsluitend betrekking heeft op de werkelijke kosten van deze certificeringsprocedure voor de gastouder.     
-2.  De voor subsidievaststelling in aanmerking komende kosten worden met bewijsstukken gestaafd en zijn overzichtelijk en gespecificeerd gepresenteerd.   
+2.  De voor subsidievaststelling in aanmerking komende kosten worden met bewijsstukken gestaafd en zijn overzichtelijk en gespecificeerd gepresenteerd.  
 
 ### Artikel  14  
 
 ####Beslissing tot vaststelling
 
-De minister neemt binnen dertien weken na de datum van ontvangst van de subsidieaanvraag een beschikking op de aanvraag.  
+De minister neemt binnen dertien weken na de datum van ontvangst van de subsidieaanvraag een beschikking op de aanvraag. 
 
 ### Hoofdstuk  6  
 
@@ -188,7 +188,7 @@ De minister neemt binnen dertien weken na de datum van ontvangst van de subsidie
 
 ####Betaling van de subsidie
 
-Het subsidiebedrag wordt binnen een maand na de subsidievaststelling uitbetaald aan de subsidieontvanger.  
+Het subsidiebedrag wordt binnen een maand na de subsidievaststelling uitbetaald aan de subsidieontvanger. 
 
 ### Hoofdstuk  7  
 
@@ -198,7 +198,7 @@ Het subsidiebedrag wordt binnen een maand na de subsidievaststelling uitbetaald 
 
 ####Terugvordering subsidie
 
-De minister kan de subsidie terugvorderen voor zover het betreft een gastouder die met gebruikmaking van de op grond van deze regeling ontvangen subsidie een certificaat goed gastouderschap heeft behaald, voor 1 oktober 2012 tevens een diploma van een uit ’s Rijks kas bekostigde instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) heeft verkregen ten bewijze dat hij voldoet aan de eisen, genoemd in artikel 3, eerste lid, onderdeel a.  
+De minister kan de subsidie terugvorderen voor zover het betreft een gastouder die met gebruikmaking van de op grond van deze regeling ontvangen subsidie een certificaat goed gastouderschap heeft behaald, voor 1 oktober 2012 tevens een diploma van een uit ’s Rijks kas bekostigde instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) heeft verkregen ten bewijze dat hij voldoet aan de eisen, genoemd in artikel 3, eerste lid, onderdeel a. 
 
 ### Artikel  17  
 
@@ -210,7 +210,7 @@ a. het buiten behandeling laten van subsidieaanvragen, of
 
 b. de verlening of weigering van subsidie, alsmede  
 
-c. de behandeling en beoordeling van bezwaarschriften tegen besluiten op grond van deze regeling.    
+c. de behandeling en beoordeling van bezwaarschriften tegen besluiten op grond van deze regeling.   
 
 ### Hoofdstuk  8  
 
@@ -220,7 +220,7 @@ c. de behandeling en beoordeling van bezwaarschriften tegen besluiten op grond v
 
 ####Inspectie
 
-Het toezicht op de activiteiten die in het kader van deze regeling worden verricht, wordt uitgeoefend door de Inspectie van het onderwijs of andere door de minister aan te wijzen ambtenaren.  
+Het toezicht op de activiteiten die in het kader van deze regeling worden verricht, wordt uitgeoefend door de Inspectie van het onderwijs of andere door de minister aan te wijzen ambtenaren. 
 
 ### Hoofdstuk  9  
 
@@ -230,21 +230,21 @@ Het toezicht op de activiteiten die in het kader van deze regeling worden verric
 
 ####Hardheidsclausule
 
-De minister kan voor bepaalde gevallen onderdelen van deze regeling buiten toepassing verklaren of daarvan afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot onbillijkheid van overwegende aard.  
+De minister kan voor bepaalde gevallen onderdelen van deze regeling buiten toepassing verklaren of daarvan afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot onbillijkheid van overwegende aard. 
 
 ### Artikel  20  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij is geplaatst en vervalt met ingang van 1 januari 2020.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij is geplaatst en vervalt met ingang van 1 januari 2020. 
 
 ### Artikel  21  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling goed gastouderschap kinderopvang 2010.  
+Deze regeling wordt aangehaald als: Subsidieregeling goed gastouderschap kinderopvang 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-S.A.M.Dijksma   
+S.A.M. Dijksma     
