@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het noodzakelijk maakt een wettelijk kader te scheppen voor de verstrekking van subsidies op de beleidsterreinen van Onze Minister van Onderwijs, Cultuur en Wetenschappen, voorzover een dergelijk kader ontbreekt;
+Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de Algemene wet bestuursrecht het noodzakelijk maakt een wettelijk kader te scheppen voor de verstrekking van subsidies op de beleidsterreinen van Onze Minister van Onderwijs, Cultuur en Wetenschappen, voorzover een dergelijk kader ontbreekt;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### §  1  
 
@@ -30,9 +30,7 @@ b. het onderzoek,
 
 c. de cultuur,  
 
-d. de kinderopvang,  
-
-e. de emancipatie.     
+d. de emancipatie.     
 2.  Bij de subsidieverstrekking aan onderwijsinstellingen wordt geen onderscheid gemaakt tussen openbaar en bijzonder onderwijs en wordt voorzien in een behandeling van die instellingen naar dezelfde maatstaf.   
 
 ### Artikel  3  
@@ -62,7 +60,7 @@ c. voor ten hoogste vier jaren.
 
 1.  Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling, tenzij het een subsidie betreft: 
 
-a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of  
+a. als bedoeld in artikel 4:23, derde lid, van de Algemene wet bestuursrecht, of  
 
 b. waarvan de voorgenomen verstrekking tevoren is meegedeeld aan de beide kamers der Staten-Generaal.     
 2.  Bij of krachtens de algemene maatregel van bestuur of bij ministeriële regeling kunnen voorts regels worden gesteld met betrekking tot: 
@@ -83,11 +81,11 @@ g. intrekking en wijziging van de subsidieverlening of subsidievaststelling,
 
 h. de betaling van de subsidie en het verlenen van voorschotten,  
 
-i. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of  
+i. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht, of  
 
 j. andere criteria voor de verstrekking van subsidie.     
 3.  Indien subsidie wordt verleend op grond van het eerste lid, onder a of b, kan Onze Minister bij de subsidieverlening een termijn vaststellen waarbinnen op de aanvraag tot vaststelling van de subsidie wordt beslist.   
-4.  Onze Minister kan het verstrekken van subsidie bij of krachtens deze wet delegeren aan een zelfstandig bestuursorgaan als bedoeld in [artikel 1, onderdeel a, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+4.  Onze Minister kan het verstrekken van subsidie bij of krachtens deze wet delegeren aan een zelfstandig bestuursorgaan als bedoeld in artikel 1, onderdeel a, van de Kaderwet zelfstandige bestuursorganen.   
 
 ### Artikel  5  
 
@@ -102,8 +100,8 @@ Onze Minister kan een subsidieplafond vaststellen voor de verschillende activite
 1.  Een aanvraag kan worden afgewezen en een beschikking tot subsidieverstrekking op grond van deze wet kan worden ingetrokken of gewijzigd voorzover subsidieverstrekking in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen.   
 2.  Bij de vaststelling, intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.   
 3.  De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald.   
-4.  [Artikel 4:50, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-5.  De [artikelen 4:49, derde lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [4:57, vierde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.   
+4.  Artikel 4:50, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+5.  De artikelen 4:49, derde lid, en 4:57, vierde lid, van de Algemene wet bestuursrecht zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.   
 
 ### Artikel  10  
 
@@ -111,7 +109,7 @@ Onze Minister kan een subsidieplafond vaststellen voor de verschillende activite
 
 1.  Onze Minister kan bij besluit personen aanwijzen die belast worden met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  De toezichthouder beschikt niet over de bevoegdheden, bedoeld in de [artikelen 5:18](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  De toezichthouder beschikt niet over de bevoegdheden, bedoeld in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 
 ### §  2  
 
@@ -121,21 +119,21 @@ Onze Minister kan een subsidieplafond vaststellen voor de verschillende activite
 
 ####Onderwijsvoorzieningen voor jongeren met een handicap
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 1 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in [artikel 1:2 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die: 
+1.  Het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in artikel 1 van de Wet structuur uitvoeringsorganisatie werk en inkomen, heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in artikel 1:2 van de Wet werk en arbeidsondersteuning jonggehandicapten, vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die: 
 
 a. jonger is dan 17 jaar;  
 
-b. studerende is als bedoeld in [artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+b. studerende is als bedoeld in artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in [artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).     
+c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten.     
 2.  Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van degene, bedoeld in het eerste lid, toekennen: 
 
 a. voorzieningen die hem in staat stellen onderwijs te volgen, en  
 
 b. vervoersvoorzieningen die de leefomstandigheden van hem verbeteren en die samenhangen met de voorzieningen, bedoeld in onderdeel a.     
-3.  De [artikelen 3:18](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [3:33](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [3:56](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [3:57](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [3:58](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [3:62](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:74 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) zijn van overeenkomstige toepassing op voorzieningen bedoeld in het tweede lid.   
+3.  De artikelen 3:18, 3:33, 3:56, 3:57, 3:58, 3:62 en 3:74 van de Wet werk en arbeidsondersteuning jonggehandicapten zijn van overeenkomstige toepassing op voorzieningen bedoeld in het tweede lid.   
 4.  Het Uitvoeringsinstituut werknemersverzekeringen kan geen tegemoetkoming in de kosten van kinderopvang toekennen.   
-5.  Beschikkingen op grond van [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) worden na de inwerkingtreding van deze wet aangemerkt als beschikkingen op grond van deze wet.   
+5.  Beschikkingen op grond van artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen worden na de inwerkingtreding van deze wet aangemerkt als beschikkingen op grond van deze wet.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot dit artikel nadere regels worden gesteld.   
 
 ### §  3  

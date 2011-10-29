@@ -40,11 +40,15 @@ a. die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau;
 
 b. die plaatsvindt in een gezinssituatie door een ander dan degene die als ouder op grond van artikel 1.5, eerste lid, aanspraak kan maken op een kinderopvangtoeslag onderscheidenlijk een tegemoetkoming of diens partner;  
 
-c. waarbij de houder in totaal niet meer dan één voorziening voor gastouderopvang exploiteert;  
+c. waarbij de opvang plaatsvindt: 
 
-d. waarbij de opvang plaatsvindt op het woonadres van de gastouder of op het woonadres van een van de ouders; en  
+1°. op het woonadres van de gastouder, met dien verstande dat op dit adres niet meer dan een voorziening voor gastouderopvang is gevestigd,  
 
-e. bestaande uit de gelijktijdige opvang van ten hoogste zes kinderen, waaronder begrepen de bloedverwant of aanverwant in de neergaande lijn van de gastouder of zijn partner, die in belangrijke mate wordt onderhouden door de gastouder of zijn partner en op hetzelfde woonadres als de gastouder staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en de leeftijd van tien jaar nog niet heeft bereikt. Met een bloedverwant of aanverwant in de neergaande lijn wordt gelijkgesteld een pleegkind dat de leeftijd van tien jaar nog niet heeft bereikt;    
+2°. op het woonadres van een van de ouders van de kinderen voor wie de gastouder opvang biedt, dan wel  
+
+3°. op twee of meer van deze woonadressen; en    
+
+d. bestaande uit de gelijktijdige opvang van ten hoogste zes kinderen, waaronder begrepen de bloedverwant of aanverwant in de neergaande lijn van de gastouder of zijn partner, die in belangrijke mate wordt onderhouden door de gastouder of zijn partner en op hetzelfde woonadres als de gastouder staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en de leeftijd van tien jaar nog niet heeft bereikt. Met een bloedverwant of aanverwant in de neergaande lijn wordt gelijkgesteld een pleegkind dat de leeftijd van tien jaar nog niet heeft bereikt;    
 
 *GGD:* een gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
 
@@ -73,6 +77,8 @@ e. bestaande uit de gelijktijdige opvang van ten hoogste zes kinderen, waaronder
 *uitvoeringskosten:* de kosten die door een gastouderbureau in rekening worden gebracht bij de ouder of de gastouder, niet zijnde de kosten van gastouderopvang;  
 
 *voorschoolse educatie:* uitvoering van een door het college van burgemeester en wethouders gesubsidieerd programma dat gericht is op het verbeteren van de voorwaarden voor het met succes instromen in het basisonderwijs voor kinderen die nog niet tot een school kunnen worden toegelaten;  
+
+*voorziening voor gastouderopvang:* gastouderopvang door een specifieke gastouder op een specifiek woonadres;  
 
 *vrijwilliger:* degene die structureel al dan niet tegen een vrijwilligersvergoeding op regelmatige, niet incidentele, basis werkzaam is in de kinderopvang en is belast met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen;  
 
@@ -1128,8 +1134,7 @@ Een voordracht voor een krachtens deze afdeling vast te stellen algemene maatreg
 ### Artikel  3.3  
 
 1.  Personen die op de dag voorafgaand aan de inwerkingtreding van [artikel I, onderdelen B en G, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (*Stb.* 345)](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) werkzaam waren als gastouder als bedoeld in artikel 1, onderdeel f, van deze wet, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dat [artikel I, onderdelen B en G](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md), worden door het college van burgemeester en wethouders in het register kinderopvang, bedoeld in artikel 1.47a, ingeschreven als voorziening voor gastouderopvang indien op het moment van inschrijving na een aanvraag als bedoeld in artikel 1.45, tweede lid, uit het onderzoek, bedoeld in artikel 1.62, eerste lid, is gebleken dat exploitatie van de voorziening voor gastouderopvang redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3.   
-2.  Indien de inschrijving, bedoeld in het eerste lid, plaatsvindt uiterlijk op 31 december van het eerste kalenderjaar waarop [artikel I, onderdelen B en G](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md), van de in het eerste lid genoemde wijzigingswet betrekking heeft, werkt de inschrijving, onder voorwaarde dat de aanvraag, bedoeld in artikel 45, tweede lid, voor 1 september van genoemd kalenderjaar plaatsvindt, terug tot en met 1 januari van dat kalenderjaar.   
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op voorzieningen voor gastouderopvang die hun exploitatie aanvangen in het eerste kalenderjaar waarop [artikel I, onderdelen B en G, van de in het eerste lid genoemde wijzigingswet](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) betrekking heeft.   
+2.  Het eerste lid is van overeenkomstige toepassing op voorzieningen voor gastouderopvang die hun exploitatie aanvangen in het eerste kalenderjaar waarop [artikel I, onderdelen B en G, van de in het eerste lid genoemde wijzigingswet](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) betrekking heeft.   
 
 ### Artikel  3.4  
 
@@ -1144,6 +1149,34 @@ Een voordracht voor een krachtens deze afdeling vast te stellen algemene maatreg
 ### Artikel  3.6  
 
 De artikelen 3.1 tot en met 3.6 vervallen drie jaar na inwerkingtreding van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md).  
+
+### Artikel  3.6a  
+
+1.  In afwijking van artikel 1.5, eerste lid, onder b, heeft een ouder voor het berekeningsjaar 2010 tevens aanspraak op kinderopvangtoeslag in de door hem of zijn partner te betalen kosten jegens het Rijk onderscheidenlijk aanspraak op een tegemoetkoming in de door hem of zijn partner te betalen kosten van kinderopvang jegens de gemeente of jegens het Uitvoeringsinstituut werknemersverzekeringen, indien het betreft gastouderopvang, die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau, in een of meer voorzieningen voor gastouderopvang die niet in het register kinderopvang zijn opgenomen onder voorwaarde dat is voldaan aan artikel 1.56b, derde, vierde en vijfde lid.   
+2.  Voor zover er geen uniek nummer is verstrekt als bedoeld in artikel 1.10, is dat artikel niet van toepassing gedurende het berekeningsjaar 2010.   
+3.  Dit artikel vervalt met ingang van 1 januari 2016.   
+
+### Artikel  3.6b  
+
+1.  Voorzieningen voor gastouderopvang die niet zijn opgenomen in het register kinderopvang, worden voor de toepassing van artikel 1.5, eerste lid, onder b, gelijk gesteld met een geregistreerde voorziening voor gastouderopvang op voorwaarde dat: 
+
+a. van de gastouder die de opvang verzorgt in een gelijkgestelde voorziening één voorzienig voor gastouderopvang is opgenomen in het register kinderopvang; en  
+
+b. de gelijkgestelde voorzieningen voor gastouderopvang voldoen aan het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1.     
+2.  Indien opvang plaatsvindt in meer dan een voorzienig van gastouderopvang heeft een aanvraag als bedoeld in artikel 1.45, tweede lid, betrekking: 
+
+a. op het woonadres van de gastouder, indien de gastouderopvang zal plaatsvinden op zowel het woonadres van de gastouder als op het woonadres van een of meer ouders; of  
+
+b. op een van de woonadressen van de ouders, indien de gastouderopvang uitsluitend zal plaatsvinden op twee of meer woonadressen van ouders.     
+3.  Indien de gastouder van wie een voorziening voor gastouderopvang met het woonadres van een ouder is ingeschreven in het register kinderopvang, na die inschrijving tevens opvang gaat bieden op het eigen woonadres, wordt dit aangemerkt als een wijziging in de gegevens als bedoeld in artikel 1.47, eerste lid.   
+4.  Op het in exploitatie nemen van een op grond van het eerste lid gelijkgestelde voorziening voor gastouderopvang zijn de artikelen 1.45 tot en met 1.47a niet van toepassing.   
+5.  Een ouder die gebruik maakt van een of meer voorzieningen die zijn gelijkgesteld op grond van het eerste lid, verstrekt het in artikel 1.10 bedoelde unieke nummer dat is afgegeven voor de geregistreerde voorziening bedoeld in het eerste lid, onder a, eveneens ten aanzien van de gelijkgestelde voorzieningen.   
+6.  Dit artikel geldt vanaf het berekeningsjaar 2011 en vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip waarbij de verschillende leden op verschillende tijdstippen kunnen vervallen.   
+
+### Artikel  3.6c  
+
+1.  De in artikel 1.61, eerste lid, genoemde toezichthouder kan in afwijking van artikel 1.62 tevens ten aanzien van een op grond van artikel 3.6b, eerste lid, gelijkgestelde voorziening voor gastouderopvang onderzoeken of de exploitatie van deze voorziening redelijkerwijs plaatsvindt in overeenstemming met het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1. De artikelen 1.61, 1.62, derde lid, en 1.63 tot en met 1.66 zijn met ingang van 1 januari 2011 van overeenkomstige toepassing op een op grond van artikel 3.6b, eerste lid, gelijkgestelde voorziening voor gastouderopvang.   
+2.  Dit artikel vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.   
 
 ### Artikel  3.7  
 
