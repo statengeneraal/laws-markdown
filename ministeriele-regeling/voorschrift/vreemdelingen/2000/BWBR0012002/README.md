@@ -564,9 +564,9 @@ f. een aanvraag indient tot het wijzigen van de verblijfsvergunning, in een verb
 
 a. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder n, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 150 verschuldigd is;  
 
-b. ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking ‘(verruimde) gezinshereniging bij ouder(s)’, een bedrag van € 150 verschuldigd.  
+b. ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking ‘(verruimde) gezinshereniging bij ouder(s)’, een bedrag van € 150 verschuldigd;  
 
-c. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder j, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 60 verschuldigd is, indien hij werknemer is op een mijnbouwinstallatie op het continentaal plat.  
+c. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder j, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 60 verschuldigd is, indien hij werknemer is op een mijnbouwinstallatie op het continentaal plat;  
 
 d. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor het verblijfsdoel ‘verblijf in het kader van zetelovereenkomst’ op grond van [artikel 3.4, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 60 verschuldigd is, indien hij een persoon is op wie artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25) betrekking heeft met het oog op het verrichten van de daarbedoelde werkzaamheden;  
 
@@ -1078,28 +1078,62 @@ M.J.Cohen
 
 ### Bijlage  1  
 
-####, behorend bij artikel 2.1, eerste lid, onder a , Voorschrift Vreemdelingen 2000
+| Luchthaven  | Internationale luchthavencode  |
+|:---|:---|
+| Abuja Nnamdi Azikiwe International Airport  | ABV  |
+| Ankara Esenboga International Airport  | ESB  |
+| Beijing Capital International Airport  | PEK  |
+| Cairo International Airport  | CAI  |
+| Colombo Bandaranaike International Airport  | CM  |
+| Guangzhou Baiyun International Airport  | CAN  |
+| Hong Kong International Airport  | HKG  |
+| Istanboel International Atatürk Airport  | IST  |
+| Istanboel Sabiha Gökçen International Airport  | SAW  |
+| Jakarta Soekarno Hatta International Airport  | CGK  |
+| Jerevan Zvartnots International Airport  | EVN  |
+| Johannesburg International Airport  | JNB  |
+| Kathmandu-Tribhuvan International Airport  | KTM  |
+| Nairobi Jomo Kenyatta International Airport  | NBO  |
+| Panama Stad-Tocumen International Airport  | PTY  |
+| Quito Mariscal Sucre International Airport  | UIO  |
+| Sao Paulo Guarulhos International Airport  | GRU  |
+| Teheran Imam Khomeini International Airport  | IKA  |
+| Xiamen International Airport  | XMN  |
+
+### Bijlage  1a  
+
+####, behorend bij artikel 2.1a, eerste lid , Voorschrift Vreemdelingen 2000
 
 | Luchthaven  | Internationale luchthavencode  |
 |:---|:---|
-| Abuja  | ABV  |
-| Ankara Esenboga  | ESB  |
-| Beijing Capital International Airport  | PEK  |
-| Cairo International Airport  | CAI  |
-| Casablanca-Mohammed V International airport  | CMN  |
-| Guangzhou Baiyun International Airport  | CAN  |
-| Hong Kong International Airport  | HKG   |
+| Aleppo International Airport  | ALP  |
+| Bahrein International Airport  | BAH  |
+| Bangkok Suvarnabhumi International Airport  | BKK  |
+| Caïro International Airport  | CAI  |
+| Colombo Bandaranaike International Airport  | CMB  |
+| Damascus International Airport  | DAM  |
+| Damman King Fahd International Airport  | DMM  |
+| Doha International Airport  | DOH  |
+| Dubai International Airport  | DXB  |
+| Entebbe International Airport  | EBB  |
+| Hong Kong International Airport  | HKG  |
 | Istanboel International Atatürk Airport  | IST  |
-| Istanboel Sabiha  | SAW  |
-| Izmir Adnan Menderes  | ADB  |
+| Istanboel Sabiha Airport  | SAW  |
+| Jerevan Zvartnots International Airport  | EVN  |
 | Johannesburg International Airport  | JNB  |
-| Kathmandu-Tribhuvan  | KTM  |
-| Konya  | KYA  |
+| Kathmandu Tribhuvan International Airport  | KTM  |
+| Kiev Boryspil International Airport  | KBP  |
+| Kuala Lumpur International Airport  | KUL  |
+| Koeweit International Airport  | KWI  |
+| Moskou Sheremetyevo International Airport  | SVO  |
 | Nairobi Jomo Kenyatta International Airport  | NBO  |
-| Panama City-Tocumen International  | PTY  |
+| Panama Stad Tocumen International Airport  | PTY  |
+| Peking Capital International Airport  | PEK  |
 | Sao Paulo Guarulhos International Airport  | GRU  |
-| Xiamen  | XMN  |
-| Yerevan-Zvarnots Airport  | EVN  |
+| Singapore Changi International Airport  | SIN  |
+| Sint Petersburg Pulkovo Airport  | LED  |
+| Teheran Imam Khomeini International Airport  | IKA  |
+| Tripoli International Airport  | TIP  |
 
 ### Bijlage  2  
 

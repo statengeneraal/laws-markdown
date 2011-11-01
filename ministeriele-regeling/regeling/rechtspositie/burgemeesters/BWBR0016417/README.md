@@ -18,13 +18,33 @@ De in [artikel 30, vierde lid, van het Rechtspositiebesluit burgemeesters](../..
 
 ### Artikel  3  
 
-De verhuiskostenvergoeding, bedoeld in [artikel 31, eerste en derde lid, van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) betreft: 
+1.  De verhuiskostenvergoeding, bedoeld in [artikel 31, eerste en derde lid, van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md), betreft het bedrag van: 
 
-a. het bedrag van de transportkosten voor het vervoer van inboedel naar de nieuwe woning;  
+a. de kosten voor het transport van de bagage en de inboedel van de betrokkene en zijn gezinsleden naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken van bagage en inboedel;  
 
-b. andere direct uit de verhuizing voortvloeiende kosten, waaronder begrepen de kosten van het in- en uitpakken van breekbare zaken tot een maximum van € 5.445,–;  
+b. andere direct uit de verhuizing voortvloeiende kosten, waaronder begrepen de kosten van inrichting van de woning en tijdelijke opslag, tot een maximum van € 5.818,46.     
+2.  Kosten in verband met de aan- of verkoop van een woning en verbouwingskosten worden niet aangemerkt als kosten als bedoeld in het eerste lid.   
+3.  Het recht op de vergoeding, bedoeld in het eerste lid, vervalt indien de verhuizing niet heeft plaatsgevonden binnen twee jaar na de dag waarop de benoeming als burgemeester ingaat.   
 
-c. kosten in verband met dubbele woonlasten tot maximaal € 272,27 per maand en gedurende een periode van ten hoogste vier maanden.    
+### Artikel  3a  
+
+1.  In aanvulling op artikel 3, eerste lid, omvat de verhuiskostenvergoeding, bedoeld in [artikel 31, eerste lid, van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) in geval van dubbele woonlasten een tegemoetkoming in de kosten voor de duur van ten hoogste twee jaar. Indien de burgemeester voordat hij aanspraak maakte op deze tegemoetkoming, gebruik heeft gemaakt van de vergoeding voor pensionkosten, bedoeld in artikel 4, eerste lid, of een vergoeding op grond van artikel 3a van deze regeling, zoals dat luidde op 1 januari 2010, wordt de periode waarin daarvan gebruik is gemaakt, in mindering gebracht op de in de eerste zin genoemde maximale duur. Deze periode wordt eerst in mindering gebracht op het eerste jaar, bedoeld in het tweede lid.   
+2.  De tegemoetkoming bestaat uit het bedrag van de daadwerkelijk gemaakte kosten van de huisvesting en bedraagt het eerste jaar ten hoogste 18% en het tweede jaar ten hoogste 15% van de bezoldiging, waarbij voor de berekening van de tegemoetkoming de bezoldiging niet lager wordt gesteld dan het bedrag behorend bij inwonersklasse 2 en niet hoger dan dat behorend bij inwonersklasse 6, bedoeld in [bijlage I van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md).   
+3.  Onder de daadwerkelijk gemaakte kosten van de huisvesting, bedoeld in het tweede lid, worden verstaan: 
+
+a. het bedrag van de huur van de woning in de gemeente waar de burgemeester is benoemd, vermeerderd met de kosten voor elektriciteit, gas en water;  
+
+b. de rente van schulden ter verwerving van de woning in de gemeente waar de burgemeester is benoemd, vermeerderd met de kosten voor elektriciteit, gas en water; óf  
+
+c. de korting op de bezoldiging vanwege de bewoning van een ambtswoning, vermeerderd met de kosten voor elektriciteit, gas en water.     
+4.  De tegemoetkoming gaat in op de eerste dag van de maand na de benoeming waarop de dubbele woonlasten ontstaan, maar niet eerder dan op de eerste dag van de maand waarin de tegemoetkoming wordt aangevraagd, en eindigt met ingang van de eerste dag van de maand waarin de woning waar de burgemeester tot zijn benoeming woonde, is verkocht, of na afloop van de in het eerste lid bedoelde maximale duur. De datum van verkoop wordt bepaald op de dag dat de akte betreffende de overdracht van de woning bij de notaris is gepasseerd.   
+5.  De tegemoetkoming wordt slechts verleend indien: 
+
+a. de burgemeester in de betrokken gemeente binnen een jaar na zijn benoeming een woning huurt of koopt dan wel een ambtswoning ter beschikking krijgt; én  
+
+b. de woning waar de burgemeester tot zijn benoeming woonde kenbaar in de verkoop staat en de rente van schulden ter verwerving van die woning drukt op het huishouden van de burgemeester.     
+6.  Voor de burgemeester die is benoemd vóór 1 november 2011 blijft het vijfde lid, onderdeel a, buiten toepassing.   
+7.  De verschuldigde loon- en inkomstenbelasting over de tegemoetkoming worden door de gemeente aan de burgemeester vergoed.   
 
 ### Artikel  4  
 
@@ -42,15 +62,20 @@ b. voor reiskosten tussen de woonplaats en de plaats van verblijf:
 a. de kosten voor het gebruik van het openbaar vervoer;  
 
 b. bij gebruik van een eigen personenauto, een bedrag van € 0,15 per afgelegde kilometer.     
+3.  Onder de pensionkosten worden verstaan de kosten voor een hotel of ander tijdelijk verblijf, waaronder mede de kosten voor elektriciteit, gas en water worden begrepen en de kosten die in rekening worden gebracht voor overige diensten of zaken niet.   
+4.  Er bestaat geen aanspraak op vergoeding van pensionkosten als bedoeld in het eerste lid, onder a, ingeval er aanspraak kan worden gemaakt op de tegemoetkoming, bedoeld in artikel 3a, eerste lid.   
+5.  Onder de kosten voor het gebruik van het openbaar vervoer, bedoeld in het eerste en tweede lid, worden verstaan de kosten van voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, metro, tram of via een geleidesysteem voortbewogen voertuig dan wel met een veerpont of een veerboot.   
+6.  Het recht op de vergoeding, bedoeld in het eerste en tweede lid, vervalt een jaar na de dag waarop de benoeming als burgemeester ingaat.   
 
 ### Artikel  5  
 
 1.  De vergoeding van kosten voor woon- werkverkeer, bedoeld in [artikel 32, eerste lid, onder a, van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) betreft: 
 
-a. de kosten voor het gebruik van het openbaar vervoer;  
+a. de kosten voor het gebruik van het openbaar vervoer, bedoeld in artikel 4, vijfde lid;  
 
 b. bij gebruik van een eigen personenauto een bedrag van € 0,15 per afgelegde kilometer.     
 2.  In afwijking van het eerste lid, onderdeel b, geldt voor een waarnemend burgemeester een bedrag van € 0,28 per afgelegde kilometer.   
+3.  De vergoeding, bedoeld in het eerste lid, wordt uitsluitend toegekend indien de woonplaats van de burgemeester is gelegen binnen de gemeente waarin hij is benoemd als burgemeester, met uitzondering van het eerste jaar voor zover de raad ontheffing heeft verleend van het vereiste van ingezetenschap, bedoeld in [artikel 71, tweede lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md).   
 
 ### Artikel  6  
 
@@ -73,7 +98,7 @@ b. 3000 in gemeenten met een oppervlak van 50 tot 100 vierkante kilometer;
 c. 4500 in gemeenten met een oppervlak van 100 tot 150 vierkante kilometer;  
 
 d. 5400 in gemeenten met een oppervlak van 150 vierkante kilometer en meer.     
-4.  Indien de burgemeester voor de uitoefening van de functie binnen de gemeente geen aanspraak maakt op de vergoeding, bedoeld in het eerste lid, ontvangt hij de kosten voor het gebruik van het openbaar vervoer.   
+4.  Indien de burgemeester voor de uitoefening van de functie binnen de gemeente geen aanspraak maakt op de vergoeding, bedoeld in het eerste lid, ontvangt hij de kosten voor het gebruik van het openbaar vervoer, bedoeld in artikel 4, vijfde lid.   
 5.  Een burgemeester die de beschikking heeft over een dienstauto en daarnaast regelmatig gebruik maakt van een eigen personenauto, ontvangt een vergoeding die is gebaseerd op de helft van de in het tweede lid genoemde bedragen, respectievelijk op de helft van het in het derde lid genoemde aantal kilometers.   
 6.  Voor een dienstreis met een bestemming buiten de gemeente, geldt bij gebruik van een eigen personenauto een vergoeding van € 0,28 per kilometer of een vergoeding van de kosten voor het gebruik van het openbaar vervoer.   
 7.  De vergoeding van verblijfkosten, bedoeld in [artikel 32, eerste lid, onderdeel b, van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md), betreft de noodzakelijke en redelijkerwijs gemaakte werkelijke kosten.   
@@ -82,7 +107,7 @@ d. 5400 in gemeenten met een oppervlak van 150 vierkante kilometer en meer.
 
 De vergoeding voor reiskosten, bedoeld in [artikel 34 van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md), bedraagt: 
 
-a. de kosten voor het gebruik van het openbaar vervoer;  
+a. de kosten voor het gebruik van het openbaar vervoer, bedoeld in artikel 4, vijfde lid;  
 
 b. € 0,09 per afgelegde kilometer voor het gebruik van een eigen motorvoertuig, indien het gebruik van het openbaar vervoer doelmatig was;  
 

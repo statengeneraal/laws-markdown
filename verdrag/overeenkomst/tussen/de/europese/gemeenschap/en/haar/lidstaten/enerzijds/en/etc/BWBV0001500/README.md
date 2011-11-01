@@ -121,7 +121,7 @@ Teneinde voor onderdanen van de lidstaten van de Europese Gemeenschap en van Zwi
 3bis.  Vanaf de inwerkingtreding van het Protocol bij de Overeenkomst betreffende de deelname, als overeenkomstsluitende partijen, van de hieronder genoemde nieuwe lidstaten en tot het einde van de in lid 1 bis bedoelde periode reserveert Zwitserland jaarlijks (pro rata temporis) binnen zijn totale contingent voor derde landen, voor in Zwitserland werkzame werknemers en zelfstandigen die onderdaan zijn van de Tsjechische Republiek, de Republiek Estland, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek een minimumaantal nieuwe verblijfsvergunningen overeenkomstig het volgende schema: <sup>  Deze vergunningen worden verleend naast de in artikel 10 van de Overeenkomst vermelde contingenten, die zijn gereserveerd voor werknemers in loondienst en zelfstandigen die onderdaan zijn van de lidstaten op het moment van de ondertekening van de Overeenkomst (21 juni 1999) of onderdaan zijn van de Republiek Cyprus en de Republiek Malta. Deze vergunningen worden ook verstrekt naast de vergunningen die worden verleend in het kader van bestaande bilaterale overeenkomsten inzake de uitwisseling van stagiairs.  </sup>  
 
 | Tot en met  | Aantal verblijfsvergunningen met een geldigheidsduur van één jaar of meer  | Aantal verblijfsvergunningen met een geldigheidsduur van meer dan vier maanden doch niet meer dan één jaar  |
-|:---|:---|:---|
+|---|---|---|
 | 31 mei 2005  |  900  |   9000  |
 | 31 mei 2006  | 1 300  | 12 400  |
 | 31 mei 2007  | 1 700  | 15 800  |
@@ -131,7 +131,7 @@ Teneinde voor onderdanen van de lidstaten van de Europese Gemeenschap en van Zwi
 3ter.  Vanaf de inwerkingtreding van het Protocol bij de Overeenkomst betreffende de deelname, als overeenkomstsluitende partijen, van de Republiek Bulgarije en Roemenië en tot het einde van de in lid 1 ter bedoelde periode reserveert Zwitserland jaarlijks (pro rata temporis) binnen zijn totale contingent voor derde landen, voor in Zwitserland werkzame werknemers en zelfstandigen die onderdaan zijn van de nieuwe lidstaten een minimumaantal nieuwe verblijfsvergunningen overeenkomstig het volgende schema: <sup> 3)  Deze vergunningen worden verleend naast het in artikel 10 van de Overeenkomst vermelde contingenten, die zijn gereserveerd voor werknemers in loondienst en zelfstandigen die onderdaan zijn van de lidstaten op het moment van de ondertekening van de Overeenkomst (21 juni 1999) en van de lidstaten die door het Protocol van 2004 overeenkomstsluitende partij werden bij deze Overeenkomst. Deze vergunningen worden ook verstrekt naast de vergunningen die worden verleend in het kader van bestaande bilaterale overeenkomsten tussen Zwitserland en de nieuwe lidstaten inzake de uitwisseling van stagiairs.  </sup>  
 
 | Periode  | Aantal verblijfsvergunningen met een geldigheidsduur van één jaar of meer  | Aantal verblijfsvergunningen met een geldigheidsduur van meer dan vier maanden doch minder dan één jaar  |
-|:---|:---|:---|
+|---|---|---|
 | Tot het einde van het eerste jaar  | 362  | 3 620  |
 | Tot het einde van het tweede jaar  | 523  | 4 987  |
 | Tot het einde van het derde jaar  | 684  | 6 355  |
@@ -142,7 +142,7 @@ Teneinde voor onderdanen van de lidstaten van de Europese Gemeenschap en van Zwi
 4bis.  Aan het einde van de in lid 1 bis en in onderhavig lid bedoelde periode en tot twaalf jaar na de inwerkingtreding van de Overeenkomst, zijn de bepalingen van artikel 10, lid 4, van de Overeenkomst van toepassing. In geval van ernstige verstoringen van de arbeidsmarkt of gevaar voor zulke verstoringen stellen Zwitserland en elk van de nieuwe lidstaten die de overgangsregeling hebben toegepast, het Gemengd Comité daarvan uiterlijk op 31 mei 2009 in kennis. In dat geval kan het kennisgevende land de in de leden 1 bis, 2 bis en 3 bis bedoelde maatregelen tot 30 april 2011 blijven toepassen op de op zijn grondgebied werkzame werknemers. Het jaarlijkse aantal in lid 1 bis bedoelde verblijfsvergunningen bedraagt dan:  
 
 | Tot en met  | Aantal verblijfsvergunningen met een geldigheidsduur van één jaar of meer  | Aantal verblijfsvergunningen met een geldigheidsduur van meer dan vier maanden doch niet meer dan één jaar  |
-|:---|:---|:---|
+|---|---|---|
 | 31 mei 2010  | 2 800  | 26 000  |
 | 30 april 2011  | 3 000  | 29 000  |
 
@@ -150,7 +150,7 @@ Teneinde voor onderdanen van de lidstaten van de Europese Gemeenschap en van Zwi
 4quater.  Aan het einde van de in lid 1 ter en in onderhavig lid bedoelde periode en tot tien jaar na de inwerkingtreding van het Protocol bij deze Overeenkomst inzake de deelname, als overeenkomstsluitende partijen, van de Republiek Bulgarije en Roemenië, zijn de bepalingen van artikel 10, lid 4, van deze Overeenkomst van toepassing op onderdanen van die nieuwe lidstaten. In het geval van ernstige verstoringen van de arbeidsmarkt of gevaar voor zulke verstoringen stellen Zwitserland en elk van de nieuwe lidstaten die de overgangsregeling hebben toegepast, het Gemengd Comité daarvan in kennis vóór het einde van de in lid 2 ter, tweede alinea, bedoelde overgangsperiode van vijf jaar. In dat geval kan het kennisgevende land de in de leden 1 ter, 2 ter en 3 ter bedoelde maatregelen gedurende zeven jaar na de inwerkingtreding van voornoemd Protocol blijven toepassen op de op zijn grondgebied werkzame werknemers. Het jaarlijkse aantal in lid 1 ter bedoelde verblijfsvergunningen bedraagt dan:  
 
 | Periode  | Aantal verblijfsvergunningen met een geldigheidsduur van één jaar of meer  | Aantal verblijfsvergunningen met een geldigheidsduur van meer dan vier maanden doch minder dan één jaar  |
-|:---|:---|:---|
+|---|---|---|
 | Tot het einde van het zesde jaar  | 1 126  | 10 457  |
 | Tot het einde van het zevende jaar  | 1 207  | 11 664  |
 
@@ -617,7 +617,7 @@ De aan zelfstandige grensarbeiders verstrekte bijzondere vergunningen verlenen h
 ### Artikel  1  
 
 (1).  De overeenkomstsluitende partijen komen overeen ten aanzien van de coördinatie van de socialezekerheidsstelsels onderling de communautaire besluiten toe te passen zoals vermeld in en gewijzigd bij sectie A van deze bijlage, of daarmee gelijkwaardige regels.   
-(2).  In de in deze bijlage genoemde besluiten omvat de uitdrukking „lidstaat/lidstaten" niet alleen de staten die vallen onder de desbetreffende communautaire besluiten, maar tevens Zwitserland.   
+(2).  In de in deze bijlage genoemde besluiten omvat de uitdrukking „lidstaat/lidstaten” niet alleen de staten die vallen onder de desbetreffende communautaire besluiten, maar tevens Zwitserland.   
 
 ### Artikel  2  
 
@@ -1354,553 +1354,485 @@ De Overeenkomstsluitende Partijen nemen nota van de inhoud van de volgende beslu
 
 ### Bijlage  III  
 
-####wederzijdse erkenning van beroepskwalificaties
+####Wederzijdse erkenning van beroepskwalificaties (Diploma’s, certificaten en andere opleidingstitels)
+
+Wordt voorlopig toegepast per 01-11-2011   
+
+1. De overeenkomstsluitende partijen verbinden zich ertoe op het gebied van de wederzijdse erkenning van beroepskwalificaties ten aanzien van elkaar de rechtshandelingen en mededelingen van de Europese Unie (EU) waarnaar in deel A van deze bijlage wordt verwezen, toe te passen, overeenkomstig de reikwijdte van de overeenkomst.  
+
+2. Tenzij anders bepaald, wordt de term „lidsta(a)t(en)” in de handelingen waarnaar in deel A van deze bijlage wordt verwezen, geacht van toepassing te zijn op Zwitserland, naast de staten die onder de desbetreffende handelingen van de EU vallen.  
+
+3. Met het oog op de toepassing van deze bijlage nemen de overeenkomstsluitende partijen nota van de handelingen van de EU waarnaar in deel B van deze bijlage wordt verwezen.    
 
 ### DEEL  A  
 
-####Besluiten waarnaar wordt verwezen
+####BESLUITEN WAARNAAR WORDT VERWEZEN
 
-### A  
+Wordt voorlopig toegepast per 01-11-2011   
 
-####ALGEMEEN STELSEL
+1 
 
-1. *389 L 0048:*Richtlijn 89/48/EEG van de Raad van 21 december 1988 betreffende een algemeen stelsel van erkenning van hogeronderwijsdiploma's waarmee beroepsopleidingen van ten minste drie jaar worden afgesloten (PB L 19 van 24.1.1989, blz. 16), gewijzigd bij: 
+a. *32005 L 0036:* Richtlĳn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PB L 255 van 30.9.2005, blz. 22), gewijzigd bij: 
 
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).    
+– Richtlijn 2006/100/EG van de Raad van 20 november 2006 tot aanpassing van een aantal richtlijnen op het gebied van het vrije verkeer van personen, in verband met de toetreding van de Republiek Bulgarije en Roemenië (PB L 363 van 20.12.2006, blz. 141),  
 
-2. *392 L 0051:*Richtlijn 92/51/EEG van de Raad van 18 juni 1992 betreffende een tweede algemeen stelsel van erkenning van beroepsopleidingen, ter aanvulling van Richtlijn 89/48/EEG (PB L 209 van 24.7.1992, blz. 25), gewijzigd bij: 
+– Verordening (EG) nr. 1430/2007 van de Commissie van 5 december 2007 tot wijziging van de bijlagen II en III van Richtlijn 2005/36/EG van het Europees Parlement en de Raad betreffende de erkenning van beroepskwalificaties (PB L 320 van 6.12.2007, blz. 3),  
 
-- *394 L 0038:*Richtlijn 94/38/EG van de Commissie van 26 juli 1994 tot wijziging van de bijlagen C en D van Richtlijn 92/51/EEG van de Raad betreffende een tweede algemeen stelsel van erkenning van beroepsopleidingen, ter aanvulling van Richtlijn 89/48/EEG (PB L 217 van 23.8.1994, blz. 8),  
+– Verordening (EG) nr. 755/2008 van de Commissie van 31 juli 2008 tot wijziging van bijlage II bij Richtlijn 2005/36/EG van het Europees Parlement en de Raad betreffende de erkenning van beroepskwalificaties (PB L 205 van 1.8.2008, blz. 10),  
 
-- *395 L 0043:*Richtlijn 95/43/EG van de Commissie van 20 juli 1995 tot wijziging van de bijlagen C en D van Richtlijn 92/51/EEG van de Raad betreffende een tweede algemeen stelsel van erkenning van beroepsopleidingen, ter aanvulling van Richtlijn 89/48/EEG (PB L 184 van 3.8.1995, blz. 21),  
+– Verordening (EG) nr. 279/2009 van de Commissie van 6 april 2009 tot wijziging van bijlage II bij Richtlijn 2005/36/EG van het Europees Parlement en de Raad betreffende de erkenning van beroepskwalificaties (PB L 93 van 7.4.2009, blz. 11),  
 
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
+– Verordening (EU) nr. 213/2011 van de Commissie van 3 maart 2011 tot wijziging van de bijlagen II en V bij Richtlijn 2005/36/EG van het Europees Parlement en de Raad betreffende de erkenning van beroepskwalificaties (PB L 59 van 4.3.2011, blz. 4),  
 
-- *397 L 0038:*Richtlijn 97/38/EG van de Commissie van 20 juni 1997 tot wijziging van bijlage C van Richtlijn 92/51/EEG van de Raad betreffende een tweede algemeen stelsel van erkenning van beroepsopleidingen, ter aanvulling van Richtlijn 89/48/EEG (PB L 184 van 3.8.1997, blz. 31),  
+– Kennisgeving van benamingen voor titels op het gebied van architectuur (PB C 332 van 30.12.2006, blz. 35),  
 
-- *32000 L 0005:*Richtlijn 2000/5/EG van de Commissie van 25 februari 2000 tot wijziging van de bijlagen C en D van Richtlijn 92/51/EEG van de Raad betreffende een tweede algemeen stelsel van erkenning van beroepsopleidingen, ter aanvulling van Richtlijn 89/48/EEG (PB L 54 van 26.2.2000, blz. 42),  
+– Kennisgeving van titels op het gebied van de architectuur (PB C 148 van 24.6.2006, blz. 34),  
 
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).  
+– Kennisgeving van titels op het gebied van de architectuur (PB C 3 van 6.1.2006, blz. 12),  
 
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).    
+– Mededeling van de Commissie – Kennisgeving van titels in de gespecialiseerde tandheelkunde (PB C 165 van 19.7.2007, blz. 18),  
 
-3. *399 L 0042:*Richtlijn 1999/42/EG van het Europees Parlement en de Raad van 7 juni 1999 betreffende de invoering van een regeling voor de erkenning van diploma's betreffende beroepswerkzaamheden die binnen de werkingssfeer van de liberaliseringsrichtlijnen en van de richtlijnen houdende overgangsmaatregelen vallen en tot aanvulling van het algemene stelsel van erkenning van diploma's (PB L 201 van 31.7.1999, blz. 77, met rectificatie 31999L0042R(01), PB L 23 van 25.1.2002, blz. 48). NL L 352/130 Publicatieblad van de Europese Unie 27.11.2004    
+– Mededeling van de Commissie – Kennisgeving van opleidingstitels van medische specialisten en huisartsen (PB C 165 van 19.7.2007, blz. 13),  
 
-### B  
+– Mededeling van de Commissie – Kennisgeving van opleidingstitels van medische specialisten, verantwoordelijk algemeen ziekenverplegers, specialisten in de tandheelkunde, verloskundigen en architecten (PB C 137 van 4.6.2008, blz. 8),  
 
-####JURIDISCHE BEROEPEN
+– Mededeling – Kennisgeving van opleidingstitels – Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties (bijlage V) (PB C 322 van 17.12.2008, blz. 3),  
 
-4. *377 L 0249:*Richtlijn 77/249/EEG van de Raad van 22 maart 1977 tot vergemakkelijking van de daadwerkelijke uitoefening door advocaten van het vrij verrichten van diensten (PB L 78 van 26.3.1977, blz. 17), gewijzigd bij: 
+– Mededeling van de Commissie – Kennisgeving van de in bijlage I bij Richtlijn 2005/36/EG genoemde beroepsverenigingen of -organisaties die voldoen aan de voorwaarden van artikel 3, lid 2 (PB C 111 van 15.5.2009, blz. 1),  
 
-- *1 79 H:* Documenten betreffende de toetreding van de Helleense Republiek tot de Europese Gemeenschappen, akte betreffende de toetredingsvoorwaarden voor de Helleense Republiek en de aanpassingen van de Verdragen (PB L 291 van 19.11.1979, blz. 91),  
+– Mededeling van de Commissie – Kennisgeving van opleidingstitels – Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties (bijlage V) (PB C 114 van 19.5.2009, blz. 1),  
 
-- *1 85 I:* Documenten betreffende de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Gemeenschappen, akte betreffende de toetredingsvoorwaarden voor het Koninkrijk Spanje en de Portugese Republiek en de aanpassing van de Verdragen (PB L 302 van 15.11.1985, blz. 160),  
+– Mededeling van de Commissie – Kennisgeving van opleidingstitels – Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties (bijlage V) (PB C 279 van 19.11.2009, blz. 1),  
 
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1).  
+– Mededeling van de Commissie – Kennisgeving van opleidingstitels – Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties (bijlage V) (PB C 129 van 19.5.2010, blz. 3),  
 
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   De bepalingen van de richtlijn worden voor de toepassing van deze overeenkomst als volgt gewijzigd: Aan artikel 1, lid 2, wordt het volgende toegevoegd: „Zwitserland: Avocat Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech Avvocato".  
+– Mededeling van de Commissie – Kennisgeving van opleidingstitels – Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties (bijlage V) (PB C 337 van 14.12.2010, blz. 10),  
 
-398 L 0005: Richtlijn 98/5/EG van het Europees Parlement en de Raad van 16 februari 1998 ter vergemakkelijking van de permanente uitoefening van het beroep van advocaat in een andere lidstaat dan die waar de beroepskwalificatie is verworven (PB L 77 van 14.3.1998, blz. 36). De bepalingen van de richtlijn worden voor de toepassing van deze overeenkomst als volgt gewijzigd: Aan artikel 1, lid 2, onder a), wordt het volgende toegevoegd: „Zwitserland: Avocat Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech Avvocato."    
+– Rectificatie van Richtlĳn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PB L 271 van 16.10.2007, blz. 18),  
 
-### C  
+– Rectificatie van Richtlĳn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PB L 93 van 4.4.2008, blz. 28).    
 
-####MEDISCHE EN PARAMEDISCHE WERKZAAMHEDEN
+b. Voor de toepassing van deze overeenkomst wordt Richtlijn 2005/36/EG als volgt aangepast: 
 
-6. *381 L 1057:*Richtlijn 81/1057/EEG van de Raad van 14 december 1981 tot aanvulling van de Richtlijnen 75/362/EEG, 77/452/EEG, 78/686/EEG en 78/1026/EEG met betrekking tot de onderlinge erkenning van de diploma's, certificaten en andere titels van respectievelijk de arts, de verantwoordelijke algemeen ziekenverpleger, de beoefenaar van de tandheelkunde en de dierenarts, voor wat betreft de verworven rechten (PB L 385 van 31.12.1981, blz. 25).   
-###Artsen
+1. De procedures van de volgende artikelen van de richtlijn zijn niet van toepassing tussen de overeenkomstsluitende partijen: 
 
-7. *393 L 0016:*Richtlijn 93/16/EEG van de Raad van 5 april 1993 ter vergemakkelijking van het vrije verkeer van artsen en de onderlinge erkenning van hun diploma's, certificaten en andere titels (PB L 165 van 7.7.1993, blz. 1), gewijzigd bij: 
+– Artikel 3, lid 2, derde alinea – procedure voor herziening van bijlage I bij de richtlijn,  
 
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
+– Artikel 11, onder c), ii), laatste zin – procedure voor herziening van bijlage II bij de richtlijn,  
 
-- *398 L 0021:*Richtlijn 98/21/EG van de Commissie van 8 april 1998 tot wijziging van Richtlijn 93/16/EEG van de Raad ter vergemakkelijking van het vrije verkeer van artsen en de onderlinge erkenning van hun diploma's, certificaten en andere titels (PB L 119 van 22.4.1998, blz. 15),  
+– Artikel 13, lid 2, derde alinea – procedure voor herziening van bijlage III bij de richtlijn,  
 
-- *398 L 0063:*Richtlijn 98/63/EG van de Commissie van 3 september 1998 tot wijziging van Richtlijn 93/16/EEG van de Raad ter vergemakkelijking van het vrije verkeer van artsen en de onderlinge erkenning van hun diploma's, certificaten en andere titels (PB L 253 van 15.9.1998, blz. 24), NL 27.11.2004 Publicatieblad van de Europese Unie L 352/131  
+– Artikel 14, lid 2, tweede en derde alinea – procedure in geval van een afwijking van de keuze van de migrant tussen een aanpassingsstage en een proeve van bekwaamheid,  
 
-- *399 L 0046*: Richtlijn 1999/46/EG van de Commissie van 21 mei 1999 tot wijziging van Richtlijn 93/16/EEG van de Raad ter vergemakkelijking van het vrije verkeer van artsen en onderlinge erkenning van hun diploma's, certificaten en andere titels (PB L 139 van 2.6.1999, blz. 25),  
+– Artikel 15, lid 2 en lid 5 – procedure voor aanneming of herroeping van gemeenschappelijke platforms,  
 
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1),  
+– Artikel 20 – procedure voor wijziging van bijlage IV bij de richtlijn,  
 
-- *52002 XC 0316 (02):* Mededeling – Kennisgeving van benamingen voor medische specialismen,  
+– Artikel 21, lid 6, tweede alinea – procedure voor actualisering van kennis en deskundigheid,  
 
-- *52002 XC 1128 (01):* Kennisgeving van benamingen voor medische specialismen.  
+– Artikel 21, lid 7 – procedure voor herziening van bijlage V bij de richtlijn,  
 
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   
+– Artikel 25, lid 5 – procedure voor wijziging van de minimumopleidingsduur voor medische specialisten,  
 
-a) Artikel 3 wordt vervangen door bijlage A betreffende de titels van diploma's, certificaten en andere titels in de geneeskunde, die als volgt wordt aangevuld:  Bijlage A Titels van diploma's, certificaten en andere titels in de geneeskunde 
+– Artikel 26, tweede alinea – procedure voor invoeging van nieuwe medische specialismen,  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | Diplôme fédéral de médecin  Eidgenössisches Arztdiplom  Diploma federale di medico  | Département fédéral de l'intérieur  Eidgenössisches Departement des Innern  Dipartimento federale dell'internoi"  | --- |
+– Artikel 31, lid 2, tweede alinea – procedure voor actualisering van de opleiding van verantwoordelijk algemeen ziekenverpleger,  
 
-b. Artikel 5 wordt vervangen door bijlage B betreffende de titels van diploma's, certificaten en andere titels in de gespecialiseerde geneeskunde, die als volgt wordt aangevuld:  Bijlage B Titels van diploma's, certificaten en andere titels in de gespecialiseerde geneeskunde 
+– Artikel 34, lid 2, tweede alinea – procedure voor actualisering van de opleiding van beoefenaren van de tandheelkunde,  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | Diplôme de médecin spécialiste  Diplom als Facharzt  Diploma di medico specialista  | Département fédéral de l'intérieur et Fédération des médecins suisses  Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte  Dipartimento federale dell'interno e Federazione dei medici svizzeri"  | --- |
+– Artikel 35, lid 2, derde alinea – procedure voor wijziging van de minimumopleidingsduur voor specialisten in de tandheelkunde,  
 
-c. Artikel 5, lid 3, en artikel 7, lid 2, worden vervangen door bijlage C betreffende de titels van opleidingen in de gespecialiseerde geneeskunde, die als volgt wordt aangevuld:  Bijlage C Titels van opleidingen in de gespecialiseerde geneeskunde 
+– Artikel 38, lid 1, tweede alinea – procedure voor actualisering van de opleiding van dierenartsen,  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Anesthesiologie/Anesthesie reanimatie Minimale duur van de opleiding: 3 jaar  |
-| Zwitserland  | Anesthésiologie  Anästhesiologie  Anestesiologia  | --- |
+– Artikel 40, lid 1, derde alinea – procedure voor actualisering van de opleiding van verloskundigen,  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Heelkunde Minimale duur van de opleiding: 5 jaar  |
-| Zwitserland Chirurgie  | Chirurgie  Chirurgia  | --- |
+– Artikel 44, lid 2, tweede alinea – procedure voor actualisering van de opleiding van apothekers,  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Neurochirurgie Minimale duur van de opleiding: 5 jaar  |
-| Zwitserland  | Neurochirurgie  Neurochirurgie  Neurochirurgia  | --- |
+– Artikel 46, lid 2 – procedure voor actualisering van kennis en bekwaamheid in het geval van architecten,  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Verloskunde en gynaecologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Gynécologie et obstétrique  Gynäkologie und Geburtshilfe  Ginecologia e ostetricia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Inwendige geneeskunde Minimale duur van de opleiding: 5 jaar  |
-| Zwitserland  | Médecine interne  Innere Medizin  Medicina interna  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Oogheelkunde/Oftalmologie Minimale duur van de opleiding: 3 jaar  |
-| Zwitserland  | Ophtalmologie  Ophtalmologie  Oftalmologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Keel-, neus- en oorheelkunde/Otorhinolaryngologie Minimale duur van de opleiding: 3 jaar  |
-| Zwitserland  | Oto-rhino-laryngologie  Oto-Rhino-Laryngologie  Otorinolaringoiatria  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| --- | Minimale duur van de opleiding: 4 jaar  | --- |
-| Zwitserland  | Pédiatrie  Kinder- und Jugendmedizin  Pediatria  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Longziekten en tuberculose/Pneumologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Pneumologie  Pneumologie  Pneumologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Urologie Minimale duur van de opleiding: 5 jaar  |
-| Zwitserland  | Urologie  Urologie  Urologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Orthopedie/Orthopedische heelkunde Minimale duur van de opleiding: 5 jaar  |
-| Zwitserland  | Chirurgie orthopédique et traumatologie de l'appareil locomoteur  Orthopädische Chirurgie und Traumatologie des Bewegungsapparates  Chirurgia ortopedica e traumatologia del sistema motorio  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Pathologische anatomie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Pathologie  Pathologie  Patologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Neurologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Neurologie  Neurologie  Neurologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Psychiatrie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Psychiatrie et psychothérapie  Psychiatrie und Psychotherapie  Psichiatria e psicoterapia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Radiodiagnostiek/Röntgendiagnose Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Radiologie  Radiologie  Radiologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Radiotherapie/Radiotherapie-oncologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Radio-oncologie/radiothérapie  Radio-Onkologie/Strahlentherapie  Radio-oncologia/radioterapia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Plastische chirurgie/reconstructieve en esthetische heelkunde Minimale duur van de opleiding: 5 jaar  |
-| Zwitserland  | Chirurgie plastique, reconstructive et esthétique  Plastische, rekonstruktive und ästhetische Chirurgie  Chirurgia plastica, ricostruttiva ed estetica  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Cardio-thoracale chirurgie/Heelkunde op de thorax Minimale duur van de opleiding: 5 jaar  |
-| Zwitserland  | Chirurgie cardiaque et vasculaire thoracique  Herz- und thorakale Gefässchirurgie  Chirurgia del cuore e dei vasi toracici  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Kinderchirurgie Minimale duur van de opleiding: 5 jaar  |
-| Zwitserland  | Chirurgie pédiatrique  Kinderchirurgie  Chirurgia pediatrica  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Cardiologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Cardiologie  Kardiologie  Cardiologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Gastro-enterologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Gastro-entérologie  Gastroenterologie  Gastroenterologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Reumatologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Rhumatologie  Rheumatologie  Reumatologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Algemene hematologie Minimale duur van de opleiding: 3 jaar  |
-| Zwitserland  | Hématologie  Hämatologie  Ematologia  | --- |
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Endocrinologie Minimale duur van de opleiding: 3 jaar  |
-| Zwitserland  | Endocrinologie-diabétologie  Endokrinologie-Diabetologie  Endocrinologia-diabetologia  | --- |
+– Artikel 61 – afwijkingsclausule.    
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Revalidatie/Fysische geneeskunde en revalidatie Minimale duur van de opleiding: 3 jaar  |
-| Zwitserland  | Médecine physique et réadaptation  Physikalische Medizin und Rehabilitation  Medicina fisica e riabilitatzione  | --- |
+2. Artikel 56, leden 3 en 4, worden als volgt uitgevoerd: De Commissie stelt de lidstaten in kennis van de bevoegde autoriteiten en de coördinator die door Zwitserland worden aangewezen, zodra Zwitserland de Commissie en het Gemengd Comité daarover geïnformeerd heeft.  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Dermatologie en venerologie Minimale duur van de opleiding: 3 jaar  |
-| Zwitserland  | Dermatologie et vénéréologie  Dermatologie und Venerologie  Dermatologia e venereologia  | --- |
+3. Artikel 57, tweede alinea, wordt als volgt uitgevoerd: De door Zwitserland aangewezen coördinator informeert de Commissie en het Gemengd Comité.  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Tropische geneeskunde Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Médecine tropicale et médecine des voyages  Tropen- und Reisemedizin  Medicina tropicale e medicina di viaggio  | --- |
+4. Artikel 63 is niet van toepassing. De Zwitserse coördinator die door Zwitserland overeenkomstig artikel 56 van Richtlijn 2005/36/EG is aangewezen, informeert echter de Commissie en het Gemengd Comité van de wetgeving die wordt goedgekeurd op basis van de rechtshandelingen en de in punt 1a, bedoelde mededelingen. De artikelen 58 en 64 zijn niet van toepassing.    
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Kinderpsychiatrie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Psychiatrie et psychothérapie d'enfants et d'adolescents  Kinder- und Jugendpsychiatrie und -psychotherapie  Psichiatria e psicoterapia infantile e dell'adolescenza  | --- |
+c. De volgende tekst wordt toegevoegd aan punt 1 van bijlage II: „in Zwitserland: 
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Nefrologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Néphrologie  Nephrologie  Nefralogia  | --- |
+– Opticien diplômé, diplomierter Augenoptiker, ottico diplomato (opticien met een federaal diploma van hoger beroepsonderwijs) Hiervoor is een opleiding van minstens 17 jaar vereist, bestaande uit minstens negen jaar basisopleiding, vier jaar beroepsopleiding en praktijk, gedeeltelijk op de arbeidsplaats en gedeeltelijk in een beroepsinstelling, gevolgd door vier jaar beroepsstage of werkzaamheid in een arbeidsplaats, waarvan twee jaar kunnen worden gevolgd in voltijdse particuliere opleiding, en ten slotte een hoger beroepsexamen. Dit diploma verleent de houder het recht om contactlenzen aan te passen of oogtests uit te voeren, hetzij zelfstandig of als werknemer.  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Maatschappij en gezondheid Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Prévention et santé publique  Prävention und Gesundheitswesen  Prevenzione e salute pubblica  | --- |
+– Audioprothésiste avec brevet fédéral, Hörgeräte-Akustiker mit eidg. Fachausweis, audioprotesista con attestato professionale federale (verstrekker van hoorapparaten met een gevorderd federaal certificaat van hoger beroepsonderwijs) Hiervoor is een opleiding van minstens 15 jaar vereist, bestaande uit minstens negen jaar basisopleiding, minimaal drie jaar beroepsopleiding en praktijk, gedeeltelijk op de arbeidsplaats en gedeeltelijk in een beroepsinstelling, gevolgd door drie jaar beroepsstage of werkzaamheid in een arbeidsplaats, inclusief particuliere opleiding, en ten slotte een beroepsexamen. Dit diploma verleent de houder het recht dit beroep hetzij zelfstandig hetzij als werknemer uit te oefenen.  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Farmacologie Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Pharmacologie clinique et toxicologie  Klinische Pharmakologie und Toxikologie  Farmacologia clinica e tossicologia  | --- |
+– Bottier-orthopédiste diplômé, diplomierter Orthopädie-Schuhmachermeister, calzolaio ortopedico diplomato (orthopedisch schoenmaker met een federaal diploma van hoger beroepsonderwijs) Hiervoor is een opleiding van minstens 17 jaar vereist, bestaande uit minstens negen jaar basisopleiding, vier jaar beroepsopleiding en praktijk, gedeeltelijk op de arbeidsplaats en gedeeltelijk in een beroepsinstelling, gevolgd door vier jaar beroepsstage of werkzaamheid in een arbeidsplaats, inclusief particuliere opleiding, en ten slotte een hoger beroepsexamen. Dit diploma verleent de houder het recht dit beroep hetzij zelfstandig hetzij als werknemer uit te oefenen.  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Arbeid en gezondheid/Arbeidsgeneeskunde Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Médecine du travail  Arbeitsmedizin  Medicina del lavoro  | --- |
+– Technicien dentiste, maître, diplomierter Zahntechnikermeister, odontotecnico, maestro (tandtechnicus met een federaal diploma van hoger beroepsonderwijs) Hiervoor is een opleiding van minstens 18 jaar vereist, bestaande uit minstens negen jaar basisopleiding, vier jaar beroepsopleiding en praktijk, gedeeltelijk op de arbeidsplaats en gedeeltelijk in een beroepsinstelling, gevolgd door vijf jaar beroepsstage of werkzaamheid in een arbeidsplaats, inclusief particuliere opleiding, en ten slotte een hoger beroepsexamen. Dit diploma verleent de houder het recht dit beroep hetzij zelfstandig hetzij als werknemer uit te oefenen.  
+
+– Orthopédiste diplômé, diplomierter Orthopädist, ortopedista diplomato (orthopeed met een gevorderd federaal certificaat van hoger beroepsonderwijs) Hiervoor is een opleiding van minstens 18 jaar vereist, bestaande uit minstens negen jaar basisopleiding, vier jaar beroepsopleiding en praktijk, gedeeltelijk op de arbeidsplaats en gedeeltelijk in een beroepsinstelling, gevolgd door vijf jaar beroepsstage of werkzaamheid in een arbeidsplaats, inclusief particuliere opleiding, en ten slotte een hoger beroepsexamen. Dit diploma verleent de houder het recht dit beroep hetzij zelfstandig hetzij als werknemer uit te oefenen.”.    
+
+d. De volgende tekst wordt toegevoegd aan punt 4 van bijlage II: „in Zwitserland: 
+
+– Guide de montagne avec brevet fédéral, Bergführer mit eidg. Fachausweis, guida alpina con attestato professionale federale (berggids met gevorderd federaal certificaat van hoger beroepsonderwijs) Hiervoor is een opleiding van minstens 13 jaar vereist, bestaande uit minstens negen jaar basisopleiding, vier jaar beroepsopleiding onder toezicht van een gekwalificeerde beroepsbeoefenaar, inclusief particuliere opleiding, en ten slotte een beroepsexamen. Dit diploma verleent de houder het recht dit beroep zelfstandig uit te oefenen.  
+
+– Professeur de sports de neige avec brevet fédéral, Schneesportlehrer mit eidg. Fachausweis, Maestro di sport sulla neve con attestato professionale fédérale (wintersportleraar met gevorderd federaal certificaat van hoger beroepsonderwijs) Hiervoor is een opleiding van minstens 15 jaar vereist, bestaande uit minstens negen jaar basisopleiding, vier jaar beroepsopleiding en praktijk, gedeeltelijk op de arbeidsplaats en gedeeltelijk in een beroepsinstelling of een beroepservaring van vier jaar, gevolgd door twee jaar opleiding en ervaring als stagiair, en ten slotte een beroepsexamen. Dit diploma verleent de houder het recht dit beroep zelfstandig uit te oefenen.”.    
+
+e. De volgende tekst wordt toegevoegd aan punt 5.1.1 van bijlage V bij de richtlijn:  
+
+| „Land  | Opleidingstitel  | Uitreikende instelling  | Certificaat bij de opleidingstitel  | Referentiedatum  |
+|---|---|---|---|---|
+| Zwitserland  | Eidgenössisches Arztdiplom Diplôme fédéral de médecin  Diploma federale di medico  | Eidgenössisches Departement des Innern Département fédéral de l’intérieur  Dipartimento federale dell’interno  | --- | 1 juni 2002”  |
+
+f. De volgende tekst wordt toegevoegd aan punt 5.1.2 van bijlage V bij de richtlijn:  
+
+| „Land  | Opleidingstitel  | Uitreikende instelling  | Referentiedatum  |
+|---|---|---|---|
+| Zwitserland  | Diplom als Facharzt  Diplôme de médecin spécialiste  Diploma di medico specialista  | Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte  Département fédéral de l’intérieur et Fédération des médecins suisses Dipartimento federale dell’interno e Federazione dei medici svizzeri  | 1 juni 2002”  |
+
+g. De volgende tekst wordt toegevoegd aan punt 5.1.3 van bijlage V bij de richtlijn:  
+
+| „Land  | Titel  |
+|---|---|
+|  *Anesthesiologie*    *Minimale opleidingsduur: 3 jaar*   |
+| Zwitserland  | Anästhesiologie  Anesthésiologie  Anestesiologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Algemene heelkunde*    *Minimale opleidingsduur: 5 jaar*   |
+| Zwitserland  | Chirurgie  Chirurgie  Chirurgia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Neurochirurgie*    *Minimale opleidingsduur: 5 jaar*   |
+| Zwitserland  | Neurochirurgie  Neurochirurgie  Neurochirurgia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Verloskunde en gynaecologie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Gynäkologie und Geburtshilfe  Gynécologie et obstétrique  Ginecologia e ostetricia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Interne geneeskunde*    *Minimale opleidingsduur: 5 jaar*   |
+| Zwitserland  | Innere Medizin  Médecine interne  Medicina interna  |
+
+| Land  | Titel  |
+|---|---|
+|  *Oogheelkunde*    *Minimale opleidingsduur: 3 jaar*   |
+| Zwitserland  | Ophthalmologie  Ophtalmologie  Oftalmologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Keel-, neus- en oorheelkunde*    *Minimale opleidingsduur: 3 jaar*   |
+| Zwitserland  | Oto-Rhino-Laryngologie  Oto-rhino-laryngologie  Otorinolaringoiatria  |
+
+| Land  | Titel  |
+|---|---|
+|  *Kindergeneeskunde*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Kinder- und Jugendmedizin  Pédiatrie  Pediatria  |
+
+| Land  | Titel  |
+|---|---|
+|  *Ziekten der luchtwegen*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Pneumologie  Pneumologie  Pneumologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Urologie*    *Minimale opleidingsduur: 5 jaar*   |
+| Zwitserland  | Urologie  Urologie  Urologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Orthopedie*    *Minimale opleidingsduur: 5 jaar*   |
+| Zwitserland  | Orthopädische Chirurgie und Traumatologie des Bewegungsapparates  Chirurgie orthopédique et traumatologie de l’appareil locomoteur  Chirurgia ortopedica e traumatologia del sistema motorio  |
+
+| Land  | Titel  |
+|---|---|
+|  *Pathologische anatomie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Pathologie  Pathologie  Patologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Neurologie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Neurologie  Neurologie  Neurologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Psychiatrie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Psychiatrie und Psychotherapie  Psychiatrie et psychothérapie  Psichiatria e psicoterapia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Radiologie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Radiologie  Radiologie  Radiologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Radiotherapie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Radio-Onkologie/Strahlentherapie  Radio-oncologie/radiothérapie  Radio-oncologia/radioterapia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Plastische chirurgie*    *Minimale opleidingsduur: 5 jaar*   |
+| Zwitserland  | Plastische, Rekonstruktive und Ästhetische Chirurgie  Chirurgie plastique, reconstructive et esthétique  Chirurgia plastica, ricostruttiva ed estetica  |
+
+| Land  | Titel  |
+|---|---|
+|  *Cardio-thoracale chirurgie*    *Minimale opleidingsduur: 5 jaar*   |
+| Zwitserland  | Herz- und thorakale Gefässchirurgie  Chirurgie cardiaque et vasculaire thoracique  Chirurgia del cuore e dei vasi toracici  |
+
+| Land  | Titel  |
+|---|---|
+|  *Kinderheelkunde*    *Minimale opleidingsduur: 5 jaar*   |
+| Zwitserland  | Kinderchirurgie  Chirurgie pédiatrique  Chirurgia pediatrica  |
+
+| Land  | Titel  |
+|---|---|
+|  *Cardiologie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Kardiologie  Cardiologie  Cardiologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Maag- en darmziekten*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Gastroenterologie  Gastroentérologie  Gastroenterologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Reumatologie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Rheumatologie  Rhumatologie  Reumatologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Algemene hematologie*    *Minimale opleidingsduur: 3 jaar*   |
+| Zwitserland  | Hämatologie  Hématologie  Ematologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Endocrinologie*    *Minimale opleidingsduur: 3 jaar*   |
+| Zwitserland  | Endokrinologie-Diabetologie  Endocrinologie-diabétologie  Endocrinologia-diabetologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Revalidatiegeneeskunde*    *Minimale opleidingsduur: 3 jaar*   |
+| Zwitserland  | Physikalische Medizin und Rehabilitation  Médecine physique et réadaptation  Medicina fisica e riabilitazione  |
+
+| Land  | Titel  |
+|---|---|
+|  *Dermatologie en venerologie*    *Minimale opleidingsduur: 3 jaar*   |
+| Zwitserland  | Dermatologie und Venerologie  Dermatologie et vénéréologie  Dermatologia e venereologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Tropische ziekten*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Tropen- und Reisemedizin  Médecine tropicale et médecine des voyages  Medicina tropicale e medicina di viaggio  |
+
+| Land  | Titel  |
+|---|---|
+|  *Kinderpsychiatrie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Kinder- und Jugendpsychiatrie und -psychotherapie  Psychiatrie et psychothérapie d’enfants et d’adolescents  Psichiatria e psicoterapia infantile e dell’adolescenza  |
+
+| Land  | Titel  |
+|---|---|
+|  *Nierziekten*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Nephrologie  Néphrologie  Nefrologia  |
+
+| Land  | Titel  |
+|---|---|
+|  *Besmettelijke ziekten*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Infektiologie  Infectiologie  Malattie infettive  |
+
+| Land  | Titel  |
+|---|---|
+|  *Maatschappij en gezondheid*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Prävention und Gesundheitswesen  Prévention et santé publique  Prevenzione e salute pubblica  |
+
+| Land  | Titel  |
+|---|---|
+|  *Farmacologie*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Klinische Pharmakologie und Toxikologie  Pharmacologie et toxicologie cliniques  Farmacologia e tossicologia cliniche  |
+
+| Land  | Titel  |
+|---|---|
+|  *Arbeidsgeneeskunde*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Arbeitsmedizin  Médecine du travail  Medicina del lavoro  |
+
+| Land  | Titel  |
+|---|---|
+|  *Allergologie*    *Minimale opleidingsduur: 3 jaar*   |
+| Zwitserland  | Allergologie und klinische Immunologie  Allergologie et immunologie clinique  Allergologia e immunologia clinica  |
+
+| Land  | Titel  |
+|---|---|
+|  *Nucleaire geneeskunde*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Nuklearmedizin  Médecine nucléaire  Medicina nucleare  |
+
+| Land  | Titel  |
+|---|---|
+|  *Mond-, tand- en maxillo-faciale chirurgie*    *(basisopleiding voor arts en voor beoefenaar der tandheelkunde)*    *Minimale opleidingsduur: 4 jaar*   |
+| Zwitserland  | Mund-, Kiefer- und Gesichtschirurgie  Chirurgie orale et maxillo-faciale  Chirurgia oro-maxillo-facciale”  |
+
+h. De volgende tekst wordt toegevoegd aan punt 5.1.4 van bijlage V bij de richtlijn:  
+
+| „Land  | Opleidingstitel  | Beroepstitel  | Referentiedatum  |
+|---|---|---|---|
+| Zwitserland  | Diplom als praktischer Arzt/praktische Ärztin  Diplôme de médecin praticien  Diploma di medico generico  | Médecin praticien  Praktischer Arzt  Medico generico  | 1 juni 2002”  |
+
+i. De volgende tekst wordt toegevoegd aan punt 5.2.2 van bijlage V bij de richtlijn:  
+
+| „Land  | Opleidingstitel  | Uitreikende instelling  | Beroepstitel  | Referentiedatum  |
+|---|---|---|---|---|
+| Zwitserland  | 1. Diplomierte Pflegefachfrau, diplomierter Pflegefachmann  | Schulen, die staatlich anerkannte Bildungsgänge durchführen  | Pflegefachfrau, Pflegefachmann  | 1 juni 2002  |
+| --- | Infirmière diplômée et infirmier diplômé  | Ecoles qui proposent des filières de formation reconnues par l’État  | Infirmière, infirmier  | --- |
+| --- | Infermiera diplomata e infermiere diplomato  | Scuole che propongono dei cicli di formazione riconosciuti dallo Stato  | Infermiera, infermiere  | --- |
+| --- | 2. Bachelor verpleegkunde  | Schulen, die staatlich anerkannte Bildungsgänge durchführen  | Pflegefachfrau, Pflegefachmann  | 30 september 2011”  |
+| --- | --- | Ecoles qui proposent des filières de formation reconnues par l’État  | Infirmière, infirmier  | --- |
+| --- | --- | Scuole che propongono dei cicli di formazione riconosciuti dallo Stato  | Infermiera, infermiere  | --- |
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Allergologie Minimale duur van de opleiding: 3 jaar  |
-| Zwitserland  | Allergologie et immunologie clinique  Allergologie und klinische Immunologie  Allergologia e immunologia clinica  | --- |
+j. De volgende tekst wordt toegevoegd aan punt 5.3.2 van bijlage V bij de richtlijn:  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Nucleaire geneeskunde Minimale duur van de opleiding: 4 jaar  |
-| Zwitserland  | Médecine nucléaire  Nuklearmedizin  Medicina nucleare  | --- |
+| „Land  | Opleidingstitel  | Uitreikende instelling  | Certificaat bij de opleidingstitel  | Beroepstitel  | Referentiedatum  |
+|---|---|---|---|---|---|
+| Zwitserland  | Eidgenössisches Zahnarztdiplom  | Eidgenössisches Departement des Innern  | --- | Zahnarzt  | 1 juni 2002”  |
+| --- | Diplôme fédéral de médecin-dentiste  | Département fédéral de l’intérieur  | --- | Médecin-dentiste  | --- |
+| --- | Diploma federale di medico-dentista  | Dipartimento federale dell’interno  | --- | Medico-dentista  | --- |
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  |
-|:---|:---|:---|
-| Maxillo-faciale geneeskunde Minimale duur van de opleiding: 5 jaar  |
-| Suiza  | Chirurgie maxillo-faciale  Kiefer- und Gesichtschirurgie  Chirurgia mascello-facciale"  | --- |
+k. De volgende tekst wordt toegevoegd aan punt 5.3.3 van bijlage V bij de richtlijn:  
 
-8. *96/C/216/03:* Lijst van de benamingen van de diploma's, certificaten en andere bewijsstukken alsmede van de beroepstitels van huisarts, bekendgemaakt overeenkomstig artikel 41 van Richtlijn 93/16/EEG (PB C 216 van 25.7.1996): 
+| „Orthodontie  | Land  | Opleidingstitel  | Uitreikende instelling  | Referentiedatum  |
+|---|---|---|---|---|
+| Zwitserland  | Diplom für Kieferorthopädie  | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft  | 1 juni 2002  |
+| --- | Diplôme fédéral d’orthodontiste  | Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie  | --- |
+| --- | Diploma di ortodontista  | Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia  | --- |
 
-i. benamingen van de diploma's, certificaten en andere bewijsstukken: „diplôme de médecin praticien" „Diplom als praktischer Arzt/praktische Ärztin" „diploma di medico generico"  
+| Mondchirurgie  | Land  | Opleidingstitel  | Uitreikende instelling  | Referentiedatum  |
+|---|---|---|---|---|
+| Zwitserland  | Diplom für Oralchirurgie  | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft  | 30 april 2004”  |
+| --- | Diplôme fédéral de chirurgie orale  | Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie  | --- |
+| --- | Diploma di chirurgia orale  | Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia  | --- |
 
-ii. beroepstitels: „médecin praticien" „praktischer Arzt/praktische Ärztin/pratische Ärztin" „medico generico".     
-###Ziekenverplegers
+l. De volgende tekst wordt toegevoegd aan punt 5.4.2 van bijlage V bij de richtlijn:  
 
-9. *377 L 0452:*Richtlijn 77/452/EEG van de Raad van 27 juni 1977 inzake de onderlinge erkenning van de diploma's, certificaten en andere titels van verantwoordelijk algemeen ziekenverpleger, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging en vrij verrichten van diensten (PB L 176 van 15.7.1977, blz. 1), gewijzigd bij: 
+| „Land  | Opleidingstitel  | Uitreikende instelling  | Certificaat bij de opleidingstitel  | Referentiedatum  |
+|---|---|---|---|---|
+| Zwitserland  | Eidgenössisches Tierarztdiplom  | Eidgenössisches Departement des Innern  | --- | 1 juni 2002”  |
+| --- | Diplôme fédéral de vétérinaire  | Département fédéral de l’intérieur  | --- | --- |
+| --- | Diploma federale di veterinario  | Dipartimento federale dell’interno  | --- | --- |
 
-- *1 79 H:* Documenten betreffende de toetreding van de Helleense Republiek tot de Europese Gemeenschappen, Akte betreffende de toetredingsvoorwaarden voor de Helleense Republiek en de aanpassingen van de Verdragen (PB L 291 van 19.11.1979, blz. 91),  
+m. De volgende tekst wordt toegevoegd aan punt 5.5.2 van bijlage V bij de richtlijn:  
 
-- *1 85 I:* Documenten betreffende de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Gemeenschappen, Akte betreffende de toetredingsvoorwaarden voor het Koninkrijk Spanje en de Portugese Republiek en de aanpassing van de Verdragen (PB L 302 van 15.11.1985, blz. 160),  
+| „Land  | Opleidingstitel  | Uitreikende instelling  | Beroepstitel  | Referentiedatum  |
+|---|---|---|---|---|
+| Zwitserland  | Diplomierte Hebamme  | Schulen, die staatlich anerkannte Bildungsgänge durchführen  | Hebamme  | 1 juni 2002”  |
+| --- | Sage-femme diplômée  | Ecoles qui proposent des filières de formation reconnues par l’État  | Sage-femme  | --- |
+| --- | Levatrice diplomata  | Scuole che propongono dei cicli di formazione riconosciuti dallo Stato  | Levatrice  | --- |
 
-- *389 L 0594:*Richtlijn 89/594/EEG van de Raad van 30 oktober 1989 (PB L 341 van 23.11.1989, blz. 19),  
+n. De volgende tekst wordt toegevoegd aan punt 5.6.2 van bijlage V bij de richtlijn:  
 
-- *389 L 0595:*Richtlijn 89/595/EEG van de Raad van 30 oktober 1989 (PB L 341 van 23.11.1989, blz. 30),  
+| „Land  | Opleidingstitel  | Uitreikende instelling  | Certificaat bij de opleidingstitel  | Referentiedatum  |
+|---|---|---|---|---|
+| Zwitserland  | Eidgenössisches  Apothekerdiplom  | Eidgenössisches  Departement des Innern  | --- | 1 juni 2002”  |
+| --- | Diplôme fédéral de pharmacien  | Département fédéral de l’intérieur  | --- | --- |
+| --- | Diploma federale di farmacista  | Dipartimento federale dell’interno  | --- | --- |
 
-- *390 L 0658:*Richtlijn 90/658/EEG van de Raad van 4 december 1990 (PB L 353 van 17.12.1990, blz. 73),  
+o. De volgende tekst wordt toegevoegd aan punt 5.7.1 van bijlage V bij de richtlijn:  
 
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
+| „Land  | Opleidingstitel  | Uitreikende instelling  | Certificaat bij de opleidingstitel  | Referentie academiejaar  |
+|---|---|---|---|---|
+| Zwitserland  | Diploma di architettura  (Arch. Dipl. USI)  | Accademia di Architettura dell’Università della Svizzera Italiana  | --- | 1996-1997  |
+| --- | Master of Arts BFH/HES- SO en architecture, Master BFH/HES-SO in architectuur  | Haute école spécialisée de Suisse occidentale (HES-SO) tezamen met Berner Fachhochschule (BFH)  | –  | 2007-2008  |
+| --- | Master of Arts BFH/HES-SO in Architektur, Master BFH/HES-SO in architectuur  | Haute école spécialisée de Suisse occidentale (HES-SO) tezamen met Berner Fachhochschule (BFH)  | --- | 2007-2008  |
+| --- | Master of Arts FHNW in Architektur  | Fachhochschule Nordwestschweiz FHNW  | –  | 2007-2008  |
+| --- | Master of Arts FHZ in Architektur  | Fachhochschule Zentralschweiz (FHZ)  | –  | 2007-2008  |
+| --- | Master of Arts ZFH in Architektur  | Zürcher Fachhochschule (ZFH), Zürcher Hochschule für Angewandte Wissenschaften (ZHAW), Departement Architektur, Gestaltung und Bauingenieurwesen  | –  | 2007-2008  |
+| --- | Master of Science MSc in Architecture, Architecte (arch. dipl. EPF)  | Ecole Polytechnique Fédérale de Lausanne  | --- | 2007-2008  |
+| --- | Master of Science ETH in Architektur, MSc ETH Arch  | Eidgenössische Technische Hochschule Zurich  | --- | 2007-2008”  |
 
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).  
+p. De volgende tekst wordt toegevoegd aan bijlage VI bij de richtlijn:  
 
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   De bepalingen van de richtlijn worden voor de toepassing van deze overeenkomst als volgt gewijzigd: 
+| „Land  | Opleidingstitel  | Referentie academiejaar  |
+|---|---|---|
+| Zwitserland  | 1. Dipl. Arch. ETH,  arch. dipl. EPF,  arch. dipl. PF  | 2004-2005  |
+| --- | 2. Architecte diplômé EAUG  | 2004-2005  |
+| --- | 3. Architekt REG A  Architecte REG  A Architetto REG A  | 2004-2005”.  |
 
-a. Aan artikel 1, lid 2, wordt het volgende toegevoegd: „in Zwitserland: infirmière, infirmier Pflegefachfrau, Pflegefachmann infermiera, infermiere".  
+2 
 
-b. Artikel 3 wordt vervangen door de bijlage betreffende de titels van diploma's, certificaten en andere titels in de verpleegkunde, die als volgt wordt aangevuld:  Bijlage Titels van diploma's, certificaten en andere titels in de verpleegkunde 
+a. *377 L 0249*: Richtlijn 77/249/EEG van de Raad van 22 maart 1977 tot vergemakkelijking van de daadwerkelijke uitoefening door advocaten van het vrij verrichten van diensten (PB L 78 van 26.3.1977, blz. 17), gewijzigd bij: 
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | infirmière diplômée et infirmier diplômé  diplomierte Pflegefachfrau, diplomierter Pflegefachmann  infermiera diplomata e infermiere diplomato  | Ecoles qui proposent des filières de formation reconnues par l' État  Schulen, die staatlich anerkannte Bildungsgänge durchführen  Scuole che propongono dei cicli di formazione riconosciuti dallo Statu"  | --- |
+– 1 79 H: Akte betreffende de toetredingsvoorwaarden voor de Helleense Republiek en de aanpassingen van de Verdragen (PB L 291 van 19.11.1979, blz. 91),  
 
-10. *377 L 0453:*Richtlijn 77/453/EEG van de Raad van 27 juni 1977 inzake de coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de werkzaamheden van verantwoordelijk algemeen ziekenverpleger (PB L 176 van 15.7.1977, blz. 8), gewijzigd bij: 
+– 1 85 I: Akte betreffende de toetredingsvoorwaarden voor het Koninkrijk Spanje en de Portugese Republiek (PB L 302 van 15.11.1985, blz. 160),  
 
-- *389 L 0595:*Richtlijn 89/595/EEG van de Raad van 30 oktober 1989 (PB L 341 van 23.11.1989, blz. 30),  
+– Besluit van de Raad van de Europese Unie 95/1/EG, Euratom, EGKS, van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
 
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).     
-###Beoefenaars van de tandheelkunde
+– *1 2003 T*: Akte betreffende de toetredingsvoorwaarden van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek, en de aanpassing van de Verdragen waarop de Unie is gegrondvest (PB L 236 van 23.9.2003, blz. 33),  
 
-11. *378 L 0686:*Richtlijn 78/686/EEG van de Raad van 25 juli 1978 inzake de onderlinge erkenning van de diploma's, certificaten en anderetitels van de beoefenaar der tandheelkunde, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging en vrij verrichten van diensten (PB L 233 van 24.8.1978, blz. 1), gewijzigd bij: 
+– Richtlijn 2006/100/EG van de Raad van 20 november 2006 tot aanpassing van een aantal richtlijnen op het gebied van het vrije verkeer van personen, in verband met de toetreding van de Republiek Bulgarije en Roemenië (PB L 363 van 20.12.2006, blz. 141).    
 
-- *1 79 H:* Documenten betreffende de toetreding van de Helleense Republiek tot de Europese Gemeenschappen, Akte betreffende de toetredingsvoorwaarden voor de Helleense Republiek en de aanpassingen van de Verdragen (PB L 291 van 19.11.1979, blz. 91),  
+b. Voor de toepassing van deze overeenkomst wordt de richtlijn als volgt aangepast: 
 
-- *1 85 I:* Documenten betreffende de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Gemeenschappen, Akte betreffende de toetredingsvoorwaarden voor het Koninkrijk Spanje en de Portugese Republiek en de aanpassing van de Verdragen (PB L 302 van 15.11.1985, blz. 160),  
+1) Aan artikel 1, lid 2, wordt de volgende tekst toegevoegd: „Zwitserland: Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech Avocat Avvocato.”.  
 
-- *389 L 0594:*Richtlijn 89/594/EEG van de Raad van 30 oktober 1989 (PB L 341 van 23.11.1989, blz. 19),  
+2) Artikel 8 is niet van toepassing. De Zwitserse coördinator die door Zwitserland overeenkomstig artikel 56 van Richtlijn 2005/36/EG is aangewezen, informeert echter de Commissie en het Gemengd Comité van de wetgeving die wordt vastgesteld op basis van Richtlijn 77/249/EEG.      
 
-- *390 L 0658:*Richtlijn 90/658/EEG van de Raad van 4 december 1990 (PB L 353 van 17.12.1990, blz. 73),  
+3 
 
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
+a. *398 L 0005*: Richtlijn 98/5/EG van het Europees Parlement en de Raad van 16 februari 1998 ter vergemakkelijking van de permanente uitoefening van het beroep van advocaat in een andere lidstaat dan die waar de beroepskwalificatie is verworven (PB L 77 van 14.3.1998, blz. 36), gewijzigd bij: 
 
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).  
+– *1 2003 T*: Akte betreffende de toetredingsvoorwaarden van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek, en de aanpassing van de Verdragen waarop de Unie is gegrondvest (PB L 236 van 23.9.2003, blz. 33),  
 
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   De bepalingen van de richtlijn worden voor de toepassing van deze overeenkomst als volgt gewijzigd: 
+– Richtlijn 2006/100/EG van de Raad van 20 november 2006 tot aanpassing van een aantal richtlijnen op het gebied van het vrije verkeer van personen, in verband met de toetreding van de Republiek Bulgarije en Roemenië (PB L 363 van 20.12.2006, blz. 141).    
 
-a. Aan artikel 1 wordt het volgende toegevoegd: „in Zwitserland: médecin dentiste Zahnarzt medico-dentista".  
+b. Voor de toepassing van deze overeenkomst wordt de richtlijn als volgt aangepast: 
 
-b. Artikel 3 wordt vervangen door bijlage A betreffende de titels van diploma's, certificaten en andere titels in de tandheelkunde, die als volgt wordt aangevuld:  Bijlage A Titels van diploma's, certificaten en andere titels in de tandheelkunde 
+1) Aan artikel 1, lid 2, onder a), wordt de volgende tekst toegevoegd: „Zwitserland: Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech Avocat Avvocato.”.  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | Diplôme fédéral de médecin- dentiste Eidgenössisches Zahnarztdiplom Diploma federale di medicodentista  | Département fédéral de l'intérieur Eidgenössisches Departement des Innern Dipartimento federale dell'interno"  | --- |
+2) De artikelen 16 en 17 zijn niet van toepassing. De Zwitserse coördinator die door Zwitserland overeenkomstig artikel 56 van Richtlijn 2005/36/EG is aangewezen, informeert echter de Commissie en het Gemengd Comité van de wetgeving die wordt vastgesteld op basis van Richtlijn 98/5/EG.  
 
-c. Artikel 5 wordt vervangen door bijlage B betreffende de titels van diploma's, certificaten en andere titels in de gespecialiseerde tandheelkunde, die als volgt wordt aangevuld:  Bijlage B Titels van diploma's, certificaten en andere titels in de gespecialiseerde tandheelkunde a) Orthodontie 
+3) Artikel 14 wordt als volgt uitgevoerd: De Commissie stelt de lidstaten in kennis van de bevoegde autoriteiten die door Zwitserland worden aangewezen, zodra Zwitserland de Commissie en het Gemengd Comité daarover geïnformeerd heeft.      
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | Diplôme fédéral d'orthodontiste  Diplom für Kieferorthopädie  Diploma di ortodontista  | Département fédéral de l'intérieur et Société Suisse d'Odonto-stomatologie  Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft  Dipartimento federale dell'interno e Società Svizzera di Odontologia e Stomatologia  | --- |
+4 
 
-Bijlage B Titels van diploma's, certificaten en andere titels in de gespecialiseerde tandheelkunde b) Kaakchirurgie 
+a. *374 L 0556*: Richtlijn 74/556/EEG van de Raad van 4 juni 1974 betreffende de overgangsmaatregelen op het gebied van de werkzaamheden welke ressorteren onder de handel in en de distributie van giftige producten en de werkzaamheden die het beroepsmatig gebruik van die producten meebrengen met inbegrip van de werkzaamheden van tussenpersonen (PB L 307 van 18.11.1974, blz. 1).  
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | Diplôme fédéral de chirurgie orale Diplom für Oralchirurgie Diploma di chirurgia orale  | Département fédéral de l'intérieur et Société Suisse d'Odonto-stomatologie Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Dipartimento federale dell'interno e Società Svizzera di Odontologia e Stomatologia"  | --- |
+b. Voor de toepassing van deze overeenkomst wordt Richtlijn 74/556/EEG als volgt aangepast: 
 
-12. *378 L 0687:*Richtlijn 78/687/EEG van de Raad van 25 juli 1978 inzake de coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de werkzaamheden van de beoefenaar der tandheelkunde (PB L 233 van 24.8.1978, blz. 10), gewijzigd bij: 
+1) Artikel 4, lid 3, wordt als volgt uitgevoerd: De Commissie stelt de lidstaten in kennis van de bevoegde autoriteiten die door Zwitserland worden aangewezen, zodra Zwitserland de Commissie en het Gemengd Comité daarover geïnformeerd heeft.  
 
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
+2) Artikel 7 is niet van toepassing. De Zwitserse coördinator die door Zwitserland overeenkomstig artikel 56 van Richtlijn 2005/36/EG is aangewezen, informeert echter de Commissie en het Gemengd Comité van de wetgeving die wordt vastgesteld op basis van Richtlijn 74/556/EEG.      
 
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).  
+5 
 
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).     
-###Dierenartsen
+a. *374 L 0557*: Richtlijn 74/557/EEG van de Raad van 4 juni 1974 betreffende de verwezenlijking van de vrijheid van vestiging en het vrij verrichten van diensten voor de anders dan in loondienst verrichte werkzaamheden en voor de werkzaamheden van tussenpersonen welke onder de handel in en de distributie van giftige producten ressorteren (PB L 307 van 18.11.1974, blz. 5), gewijzigd bij: 
 
-13. *378 L 1026:*Richtlijn 78/1026/EEG van de Raad van 18 december 1978 inzake de onderlinge erkenning van diploma's, certificaten en andere titels van dierenarts, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging en het vrij verrichten van diensten (PB L 362 van 23.12.1978, blz. 1), gewijzigd bij: 
+– Besluit van de Raad van de Europese Unie 95/1/EG, Euratom, EGKS, van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
 
-- *1 79 H:* Documenten betreffende de toetreding van de Helleense Republiek tot de Europese Gemeenschappen, Akte betreffende de toetredingsvoorwaarden voor de Helleense Republiek en de aanpassingen van de Verdragen (PB L 291 van 19.11.1979, blz. 92),  
+– *1 2003 T*: Akte betreffende de toetredingsvoorwaarden van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek, en de aanpassing van de Verdragen waarop de Unie is gegrondvest (PB L 236 van 23.9.2003, blz. 33),  
 
-- *1 85 I:* Documenten betreffende de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Gemeenschappen, Akte betreffende de toetredingsvoorwaarden voor het Koninkrijk Spanje en de Portugese Republiek en de aanpassing van de Verdragen (PB L 302 van 15.11.1985, blz. 160),  
+– Richtlijn 2006/101/EG van de Raad van 20 november 2006 tot aanpassing van de Richtlijnen 73/239/EEG, 74/557/EEG en 2002/83/EG op het gebied van het vrij verrichten van diensten, in verband met de toetreding van Bulgarije en Roemenië (PB L 363 van 20.12.2006, blz. 238).    
 
-- *389 L 0594:*Richtlijn 89/594/EEG van de Raad van 30 oktober 1989 (PB L 341 van 23.11.1989, blz. 19),  
+b. Voor de toepassing van deze overeenkomst wordt Richtlijn 74/557/EEG als volgt aangepast: 
 
-- *390 L 0658:*Richtlijn 90/658/EEG van de Raad van 4 december 1990 (PB L 353 van 17.12.1990, blz. 73),  
+1) in Zwitserland: Alle producten en giftige stoffen als bedoeld in de Wet giftige stoffen (geclassificeerde compilatie van federale wetgeving (CC 813.1), en met name de in de daarbij horende ordonnanties genoemde (CC 813) producten en giftige stoffen, alsook de giftige stoffen voor het milieu (CC 814 812.31, 814 812.32 en 814 812.33)  
 
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
+2) Artikel 7, lid 5, wordt als volgt uitgevoerd: De Commissie stelt de lidstaten in kennis van de bevoegde autoriteiten die door Zwitserland worden aangewezen, zodra Zwitserland de Commissie en het Gemengd Comité daarover geïnformeerd heeft.  
 
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).  
+3) Artikel 8 is niet van toepassing. De Zwitserse coördinator die door Zwitserland overeenkomstig artikel 56 van Richtlijn 2005/36/EG is aangewezen, informeert echter de Commissie en het Gemengd Comité van de wetgeving die wordt vastgesteld op basis van Richtlijn 74/557/EEG.      
 
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   Artikel 3 wordt vervangen door de bijlage betreffende de titels van diploma's, certificaten en andere titels in de diergeneeskunde, die als volgt wordt aangevuld:  Bijlage Titels van diploma's, certificaten en andere titels in de diergeneeskunde 
+6 
 
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | Diplôme fédéral de vétérinaire  Eidgenössisches Tierarzt diplom  Diploma federale di veterinario  | Département fédéral de l'intérieur  Eidgenössisches Departement des Innern  Dipartimento federale dell'interno"  | --- |
+a. *386 L 0653*: Richtlijn 86/653/EEG van de Raad van 18 december 1986 inzake de coördinatie van de wetgevingen van de lidstaten inzake zelfstandige handelsagenten (PB L 382 van 31.12.1986, blz. 17).  
 
-14. *378 L 1027:*Richtlijn 78/1027/EEG van de Raad van 18 december 1978 inzake de coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de werkzaamheden van dierenarts (PB L 362 van 23.12.1978, blz. 7), gewijzigd bij: 
-
-- *389 L 0594:*Richtlijn 89/594/EEG van de Raad van 30 oktober 1989 (PB L 341 van 23.11.1989, blz. 19), NL 27.11.2004 Publicatieblad van de Europese Unie L 352/141  
-
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).     
-###Verloskundigen
-
-15. *380 L 0154:*Richtlijn 80/154/EEG van de Raad van 21 januari 1980 inzake de onderlinge erkenning van de diploma's, certificaten en andere titels van de verloskundige, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging en vrij verrichten van diensten (PB L 33 van 11.2.1980, blz. 1), gewijzigd bij: 
-
-- *380 L 1273:*Richtlijn 80/1273/EEG van de Raad van 22 december 1980 (PB L 375 van 31.12.1980, blz. 74),  
-
-- – 1 85 I: Documenten betreffende de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Gemeenschappen, Akte betreffende de toetredingsvoorwaarden voor het Koninkrijk Spanje en de Portugese Republiek en de aanpassing van de Verdragen (PB L 302 van 15.11.1985, blz. 161),  
-
-- *389 L 0594:*Richtlijn 89/594/EEG van de Raad van 30 oktober 1989 (PB L 341 van 23.11.1989, blz. 19),  
-
-- *390 L 0658:*Richtlijn 90/658/EEG van de Raad van 4 december 1990 (PB L 353 van 17.12.1990, blz. 73),  
-
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz.1),  
-
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).  
-
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   De bepalingen van de richtlijn worden voor de toepassing van deze overeenkomst als volgt gewijzigd: 
-
-a. Aan artikel 1 wordt het volgende toegevoegd: „in Zwitserland: sage femme Hebamme Levatrice".  
-
-b. Artikel 3 wordt vervangen door de bijlage betreffende de titels van diploma's, certificaten en andere titels in de verloskunde, die als volgt wordt aangevuld:  Bijlage Titels van diploma's, certificaten en andere titels in de verloskunde 
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | Sage-femme diplômée  Diplomierte Hebamme  Levatrice diplomata  | Ecoles qui proposent des filières de formation reconnues par l' État  Schulen, die staatlich anerkannte Bildungsgänge durchführen  Scuole che propongono dei cicli di formazione riconosciuti dallo Statu"  | --- |
-
-16. *380 L 0155:*Richtlijn 80/155/EEG van de Raad van 21 januari 1980 inzake de coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de toegang tot en de uitoefening van de werkzaamheden van verloskundige (PB L 33 van 11.2.1980, blz. 8), gewijzigd bij: 
-
-- *389 L 0594:*Richtlijn 89/594/EEG van de Raad van 30 oktober 1989 (PB L 341 van 23.11.1989, blz. 19),  
-
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).     
-###Farmacie
-
-17. *385 L 0432:*Richtlijn 85/432/EEG van de Raad van 16 september 1985 inzake de coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde werkzaamheden op farmaceutisch gebied (PB L 253 van 24.9.1985, blz. 34), gewijzigd bij: 
-
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).    
-
-18. *385 L 0433:*Richtlijn 85/433/EEG van de Raad van 16 september 1985 inzake de onderlinge erkenning van de diploma's, certificaten en andere titels op het terrein van de farmacie, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging voor bepaalde werkzaamheden op farmaceutisch gebied (PB L 253 van 24.9.1985, blz. 37), gewijzigd bij: 
-
-- *385 L 0584:*Richtlijn 85/584/EEG van de Raad van 20 december 1985 (PB L 372 van 31.12.1985, blz. 42),  
-
-- – 390 L 0658: Richtlijn 90/658/EEG van de Raad van 4 december 1990 (PB L 353 van 17.12.1990, blz. 73),  
-
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
-
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).  
-
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   De bepalingen van de richtlijn worden voor de toepassing van deze overeenkomst als volgt gewijzigd: Artikel 4 wordt vervangen door de bijlage betreffende de titels van diploma's, certificaten en andere titels in de farmacie, die als volgt wordt aangevuld:  Bijlage Titels van diploma's, certificaten en andere titels in de farmacie 
-
-| Land  | Titel van de kwalificatie  | Toekennende instantie  | Bijbehorend certificaat  |
-|:---|:---|:---|:---|
-| Zwitserland  | Diplôme de pharmacien  Eidgenössisches Apothekerdiplom  Diploma federale di farmacista  | Département fédéral de l'intérieur  Eidgenössisches Departement des Innern  Dipartimento federale dell'interno"  | --- |
-
-### D  
-
-####ARCHITECTUUR
-
-19. *385 L 0384:*Richtlijn 85/384/EEG van de Raad van 10 juni 1985 inzake de onderlinge erkenning van de diploma's, certificaten en andere titels op het gebied van de architectuur, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging en vrij verrichten van diensten (PB L 223 van 21.8.1985, blz. 15), gewijzigd bij: 
-
-- *385 L 0614:*Richtlijn 85/614/EEG van de Raad van 20 december 1985 (PB L 376 van 31.12.1985, blz. 1),  
-
-- *386 L 0017:*Richtlijn 86/17/EEG van de Raad van 27 januari 1986 (PB L 27 van 1.2.1986, blz. 71),  
-
-- *390 L 0658:*Richtlijn 90/658/EEG van de Raad van 4 december 1990 (PB L 353 van 17.12.1990, blz. 73),  
-
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz. 1),  
-
-- *32001 L 0019:*Richtlijn 2001/19/EG van het Europees Parlement en de Raad van 14 mei 2001 tot wijziging van de Richtlijnen 89/48/EEG en 92/51/EEG van de Raad betreffende het algemeen stelsel van erkenning van beroepskwalificaties en de Richtlijnen 77/452/EEG, 77/453/EEG, 78/686/EEG, 78/687/EEG, 78/1026/EEG, 78/1027/EEG, 80/154/EEG, 80/155/EEG, 85/384/EEG, 85/432/EEG, 85/433/EEG en 93/16/EEG van de Raad betreffende de beroepen van verantwoordelijk algemeen ziekenverpleger (verpleegkundige), beoefenaar der tandheelkunde, dierenarts, verloskundige, architect, apotheker en arts (PB L 206 van 31.7.2001, blz. 1).  
-
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   
-
-a. Aan artikel 11 wordt het volgende toegevoegd: „in Zwitserland: 
-
-- de diploma's uitgereikt door de „écoles polytechniques fédérales/ Eidgenössische Technische Hochschulen/Politecnici Federali": arch. dipl. EPF/dipl.Arch. ETH/arch.dipl.PF,  
-
-- de diploma's uitgereikt door de „École d'architecture de l'Université de Genève": architecte diplômé EAUG,  
-
-- de certificaten van de „Fondation des registres suisses des ingénieurs, des architectes et des techniciens"/„- Stiftung der Schweizerischen Register der Ingenieure, der Architekten und der Techniker"/Fondazione dei Registri svizzeri degli ingegneri, degli architetti e dei tecnici (REG): architecte REG A/Architekt REG A/architetto REG A".    
-
-b. Artikel 15 is niet van toepassing.    
-
-20. *98/C/217:* Diploma's, certificaten en andere titels op het gebied van de architectuur die onderling door de lidstaten worden erkend (bijwerking van mededeling 96/C 205/05 van 16 juli 1996) (PB C 217 van 11.7.1998). (Bijgewerkt door de mededelingen 99/C 351/10 van 4 december 1999, PB C 351 van 4.12.1999, 2001/C 333/02 van 28 november 2001, PB C 333 van 28.11.2001, 2002/C 214/03 van 10 september 2002, met de rectificatie in PB C 79 van 2.4.2003.) In de bijwerking 2003/C 294/02 van 4 december 2003, PB C 294 van 4.12.2003 (met de rectificatie in PB C 297 van 9.12.2003) wordt voor de toepassing van deze overeenkomst het volgende ingevoegd: „in Zwitserland: 
-
-– de diploma's uitgereikt door de „Accademia di Architettura dell'Università della Svizzera Italiana: diploma di architettura": (arch. dipl. USI)".      
-
-### E  
-
-####HANDEL EN TUSSENPERSONEN
-
-21. De richtlijnen 364 L 022, 364 L 0223, 364 L 0224, 368 L 0363, 368 L 0364, 370 L 0522, 370 L 0523 en 375 L 0369 zijn ingetrokken bij Richtlijn 1999/42/EG van het Europees Parlement en de Raad van 7 juni 1999 betreffende de invoering van een regeling voor de erkenning van diploma's betreffende beroepswerkzaamheden die binnen de werkingssfeer van de liberaliseringsrichtlijnen en van de richtlijnen houdende overgangsmaatregelen vallen en tot aanvulling van het algemene stelsel van erkenning van diploma's (PB L 201 van 31.7.1999, blz. 77, met de rectificatie 31999L0042R(01), PB L 23 van 25.1.2002, blz. 48).   
-###Handel in en distributie van giftige producten
-
-22. *374 L 0556:*Richtlijn 74/556/EEG van de Raad van 4 juni 1974 betreffende de overgangsmaatregelen op het gebied van de werkzaamheden welke ressorteren onder de handel in en de distributie van giftige producten en de werkzaamheden die het beroepsmatig gebruik van die producten meebrengen met inbegrip van de werkzaamheden van tussenpersonen (PB L 307 van 18.11.1974, blz. 1).  
-
-22bis. *374 L 0557:*Richtlijn 74/557/EEG van de Raad van 4 juni 1974 betreffende de verwezenlijking van de vrijheid van vestiging en het vrij verrichten van diensten voor de anders dan in loondienst verrichte werkzaamheden en voor de werkzaamheden van tussenpersonen welke onder de handel in en de distributie van giftige producten ressorteren (PB L 307 van 18.11.1974, blz. 5), gewijzigd bij: 
-
-- *95/1/EG, Euratom, EGKS:* Besluit van de Raad van de Europese Unie van 1 januari 1995 houdende aanpassing van de documenten betreffende de toetreding van nieuwe lidstaten tot de Europese Unie (PB L 1 van 1.1.1995, blz.1).  
-
-- Toetredingakte van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (PB L 236 van 23.9.2003).   De bepalingen van de richtlijn worden voor de toepassing van deze overeenkomst als volgt gewijzigd: „in Zwitserland: Alle giftige stoffen en producten in de zin van artikel 2 van de Wet giftige stoffen (RS 813.0), met name die welke zijn opgenomen in de lijst van giftige stoffen en producten 1, 2 en 3, overeenkomstig artikel 3 van de verordening giftige stoffen (RS 813.01)".   
-###Zelfstandige handelsagenten
-
-23. *386 L 0653:*Richtlijn 86/653/EEG van de Raad van 18 december 1986 inzake de coördinatie van de wetgevingen van de lidstaten inzake zelfstandige handelsagenten (PB L 382 van 31.12.1986, blz. 17).    
-
-### F  
-
-####INDUSTRIE EN AMBACHT
-
-24. De richtlijnen 364 L 0427, 364 L 0429, 364 L 0428, 366 L 0162, 368 L 0365, 368 L 0366 en 369 L 0082 zijn ingetrokken bij Richtlijn 1999/42/EG van het Europees Parlement en de Raad van 7 juni 1999 betreffende de invoering van een regeling voor de erkenning van diploma's betreffende beroepswerkzaamheden die binnen de werkingssfeer van de liberaliseringsrichtlijnen en van de richtlijnen houdende overgangsmaatregelen vallen en tot aanvulling van het algemene stelsel van erkenning van diploma's (PB L 201 van 31.7.1999, blz. 77, met rectificatie 31999L0042R(01), PB L 23 van 25.1.2002, blz. 48).    
-
-### G  
-
-####WERKZAAMHEDEN VAN TUSSENPERSONEN OP HET GEBIED VAN HET VERVOER
-
-25. Richtlijn 382 L 0470 is ingetrokken bij Richtlijn 1999/42/EG van het Europees Parlement en de Raad van 7 juni 1999 betreffende de invoering van een regeling voor de erkenning van diploma's betreffende beroepswerkzaamheden die binnen de werkingssfeer van de liberaliseringsrichtlijnen en van de richtlijnen houdende overgangsmaatregelen vallen en tot aanvulling van het algemene stelsel van erkenning van diploma's (PB L 201 van 31.7.1999, blz. 77, met rectificatie 31999L0042R(01), PB L 23 van 25.1.2002, blz. 48).    
-
-### H  
-
-####FILMINDUSTRIE
-
-26. De richtlijnen 363 L 0607, 365 L 0264, 368 L 0369 en 370 L 0451 zijn ingetrokken bij Richtlijn 1999/42/EG van het Europees Parlement en de Raad van 7 juni 1999 betreffende de invoering van een regeling voor de erkenning van diploma's betreffende beroepswerkzaamheden die binnen de werkingssfeer van de liberaliseringsrichtlijnen en van de richtlijnen houdende overgangsmaatregelen vallen en tot aanvulling van het algemene stelsel van erkenning van diploma's (PB L 201 van 31.7.1999, blz. 77, met rectificatie 31999L0042R(01), PB L 23 van 25.1.2002, blz. 48).    
-
-### I  
-
-####ANDERE SECTOREN
-
-27. De richtlijnen 367 L 0043, 368 L 0367, 368 L 0368, 375 L 0368 en 382 L 0489 zijn ingetrokken bij Richtlijn 1999/42/EG van het Europees Parlement en de Raad van 7 juni 1999 betreffende de invoering van een regeling voor de erkenning van diploma's betreffende beroepswerkzaamheden die binnen de werkingssfeer van de liberaliseringsrichtlijnen en van de richtlijnen houdende overgangsmaatregelen vallen en tot aanvulling van het algemene stelsel van erkenning van diploma's (PB L 201 van 31.7.1999, blz. 77, met rectificatie 31999L0042R(01), PB L 23 van 25.1.2002, blz. 48).    
-
-### J  
-
-####LANDBOUW
-
-28. De richtlijnen 363 L 0261, 363 L 0262, 365 L 0001, 367 L 0530, 367 L 0531, 367 L 0532, 367 L 0654, 368 L 0192, 368 L 0415 en 371 L 0018 zijn ingetrokken bij Richtlijn 1999/42/EG van het Europees Parlement en de Raad van 7 juni 1999 betreffende de invoering van een regeling voor de erkenning van diploma's betreffende beroepswerkzaamheden die binnen de werkingssfeer van de liberaliseringsrichtlijnen en van de richtlijnen houdende overgangsmaatregelen vallen en tot aanvulling van het algemene stelsel van erkenning van diploma's (PB L 201 van 31.7.1999, blz. 77, met rectificatie 31999L0042R(01), PB L 23 van 25.1.2002, blz. 48).    
-
-### K  
-
-####DIVERSEN
-
-29. *385 D 0368:* Besluit 85/368/EEG van de Raad van 16 juli 1985 inzake de vergelijkbaarheid van de getuigschriften van vakbekwaamheidtussen lidstaten van de Europese Gemeenschap (PB L 199 van 31.7.1985, blz. 56).    
+b. Voor de toepassing van deze overeenkomst wordt Richtlijn 86/653/EEG als volgt aangepast: Artikel 22 is niet van toepassing. De Zwitserse coördinator die door Zwitserland overeenkomstig artikel 56 van Richtlijn 2005/36/EG is aangewezen, informeert echter de Commissie en het Gemengd Comité van de wetgeving die wordt vastgesteld op basis van Richtlijn 86/653/EEG.      
 
 ### DEEL  B  
 
-####Besluiten waarvan de overeenkomstsluitende partijen akte nemen
+####HANDELINGEN WAARVAN DE OVEREENKOMSTSLUITENDE PARTIJEN NOTA NEMEN
 
-De overeenkomstsluitende partijen nemen akte van de inhoud van de volgende besluiten: 
-###In het algemeen
+Wordt voorlopig toegepast per 01-11-2011   
 
-30. *374 Y 0820(01):* Resolutie van de Raad van 6 juni 1974 betreffende de onderlinge erkenning van diploma's, certificaten en andere titels (PB C 98 van 20.8.1974, blz. 1).   
-###Algemeen stelsel
+De overeenkomstsluitende partijen nemen nota van de inhoud van het volgende besluit: 
 
-31. *389 L 0048:* Verklaring van de Raad en de Commissie betreffende Richtlijn 89/48/EEG van de Raad van 21 december 1988 betreffende een algemeen stelsel van erkenning van hoger-onderwijsdiploma's waarmee beroepsopleidingen van ten minste drie jaar worden afgesloten (PB L 19 van 24.1.1989, blz. 23).   
-###Artsen
-
-32. *375 X 0366:* Aanbeveling 75/366/EEG van de Raad van 16 juni 1975 betreffende de onderdanen van het Groothertogdom Luxemburg die in het bezit zijn van een in een derde land verleend artsendiploma (PB L 167 van 30.6.1975, blz. 20).  
-
-33. *375 X 0367:* Aanbeveling 75/367/EEG van de Raad van 16 juni 1975 betreffende het klinische gedeelte van de opleiding van de arts (PB L 167 van 30.6.1975, blz. 21).  
-
-34. *375 Y 0701(01)*: Verklaringen van de Raad afgelegd ter gelegenheid van de aanneming der teksten betreffende de vrijheid van vestiging en het vrij verrichten van diensten van artsen in de Gemeenschap (PB C 146 van 1.7.1975, blz. 1).  
-
-35. *386 X 0458:* Aanbeveling 86/458/EEG van de Raad van 15 september 1986 betreffende de onderdanen van het Groothertogdom Luxemburg die in het bezit zijn van een in een derde staat verleend artsendiploma (PB L 267 van 19.9.1986, blz. 30).  
-
-36. *389 X 0601:* Aanbeveling 89/601/EEG van de Commissie van 8 november 1989 betreffende de opleiding van gezondheidswerkers op kankergebied (PB L 346 van 27.11.1989, blz. 1).   
-###Beoefenaars van de tandheelkunde
-
-37. *378 Y 0824(01):* Verklaring betreffende de richtlijn inzake de coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de werkzaamheden van de beoefenaar der tandheelkunde (PB C 202 van 24.8.1978, blz. 1).   
-###Dierenartsen
-
-38. *378 X 1029:* Aanbeveling 78/1029/EEG van de Raad van 18 december 1978 betreffende de onderdanen van het Groothertogdom Luxemburg die houder zijn van een in een derde land afgegeven diploma van dierenarts (PB L 362 van 23.12.1978, blz. 12).  
-
-39. *378 Y 1223(01):* Verklaringen met betrekking tot de richtlijn inzake de onderlinge erkenning van de diploma's, certificaten en andere titels van dierenarts, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging en vrij verrichten van diensten (PB C 308 van 23.12.1978, blz. 1).   
-###Farmacie
-
-40. *385 X 0435:* Aanbeveling 85/435/EEG van de Raad van 16 september 1985 betreffende de onderdanen van het Groothertogdom Luxemburg die in het bezit zijn van een in een derde land afgegeven apothekersdiploma (PB L 253 van 24.9.1985, blz. 45).   
-###Architectuur
-
-41. *385 X 0386:* Aanbeveling 85/386/EEG van de Raad van 10 juni 1985 betreffende houders van een in een derde land afgegeven diploma op het gebied van de architectuur (PB L 223 van 21.8.1985, blz. 28).". NL L 352/146 Publicatieblad van de Europese Unie 27.11.2004    
+7. *389 X 0601*: Aanbeveling van de Commissie 89/601/EEG van 8 november 1989 betreffende de opleiding van gezondheidswerkers op kankergebied (PB L 346 van 27.11.1989, blz. 1).    
 
 ####Aanvullend protocol bij bijlage II bij de Overeenkomst tussen de Zwitserse Bondsstaat enerzijds en de Europese Gemeenschap en haar lidstaten anderzijds betreffende het vrije verkeer van personen
 

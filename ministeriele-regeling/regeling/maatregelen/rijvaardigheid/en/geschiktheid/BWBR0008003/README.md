@@ -62,7 +62,7 @@ c. gegevens, door de directeur uit andere bron verkregen.
 
 ####Vordering tot overgifte van het rijbewijs
 
-Een vordering tot overgifte van het rijbewijs als bedoeld in [artikel 130, tweede lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geschiedt in de volgende gevallen: 
+Een vordering tot overgifte van het rijbewijs als bedoeld in [artikel 130, tweede lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geschiedt ten aanzien van in de volgende gevallen: 
 
 a. betrokkene heeft een motorrijtuig bestuurd onder invloed van drogerende stoffen, andere dan alcohol;  
 
@@ -602,11 +602,7 @@ g. onvoldoende anticiperen op het gedrag van andere verkeersdeelnemers;
 
 h. niet adequaat reageren op bijzondere verkeerssituaties, zoals filevorming;  
 
-i. niet tijdig onderkennen van de invloed van externe of interne factoren, of.  
-
-h. onder het vijfde gedachtestreepje (nieuw) (Betrokkene heeft duidelijk een gedrag tentoongespreid dat in strijd is met essentiële verkeersregels en verkeerstekens terzake van:), onder vervanging van de punt aan het slot van onderdeel i door een puntkomma, een onderdeel toegevoegd, luidende:  
-
-j. het als bestuurder van een bromfiets overschrijden van de toegestane maximumsnelheid met 31 km/u of meer op wegen binnen de bebouwde kom.    
+i. niet tijdig onderkennen van de invloed van externe of interne factoren, of    
 
 – Betrokkene heeft duidelijk een gedrag tentoongespreid dat in strijd is met de essentiële verkeersregels en verkeerstekens terzake van: 
 
@@ -626,7 +622,9 @@ g. het negeren van een rood verkeerslicht;
 
 h. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschrijden van de toegestane maximumsnelheid met 50 km/u of meer op wegen binnen de bebouwde kom;  
 
-i. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschrijden van de toegestane maximumsnelheid met 31 km/u of meer op wegen binnen de bebouwde kom bij wegwerkzaamheden.     
+i. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschrijden van de toegestane maximumsnelheid met 31 km/u of meer op wegen binnen de bebouwde kom bij wegwerkzaamheden;  
+
+j. het als bestuurder van een bromfiets overschrijden van de toegestane maximumsnelheid met 31 km/u of meer op wegen binnen de bebouwde kom.     
 ### *Het vermoeden dat betrokkene niet beschikt over de vereiste rijvaardigheid of geschiktheid is gebaseerd op de volgende, niet aan alcohol gerelateerde, feiten en omstandigheden:* 
 
 ### *Het vertoonde gedrag is:* 
@@ -634,6 +632,9 @@ i. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschri
 – nader omschreven in bijgaande afschriften van het proces-verbaal  
 
 – nader te bekijken op bijgaande kopie van een video-opname.   
+### *Vordering in het kader van begeleid rijden* 
+
+– Betrokkene die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik – al dan niet in combinatie met het gebruik van een andere stof – de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.   
 ### *Indien van toepassing:* 
 
 Invordering als bedoeld in [artikel 130, tweede en derde lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) heeft op grond van het volgende plaatsgevonden: 
@@ -662,7 +663,9 @@ Invordering als bedoeld in [artikel 130, tweede en derde lid, van de Wegenverkee
 
 – Betrokkene is bewust ingereden op een andere weggebruiker;  
 
-– Betrokkene heeft drie maal als beginnende bestuurder een of meer van de strafbare feiten begaan die worden genoemd in bijlage 1, onderdeel IV, bij de Regeling maatregelen rijvaardigheid en geschiktheid en voor deze feiten is hij tijdens of na de in artikel 1, onderdeel f, van die regeling genoemde termijn van vijf jaar onherroepelijk veroordeeld dan wel is voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking uitgevaardigd.   
+– Betrokkene heeft drie maal als beginnende bestuurder een of meer van de strafbare feiten begaan die worden genoemd in bijlage 1, onderdeel IV, bij de Regeling maatregelen rijvaardigheid en geschiktheid en voor deze feiten is hij tijdens of na de in artikel 1, onderdeel f, van die regeling genoemde termijn van vijf jaar onherroepelijk veroordeeld dan wel is voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking uitgevaardigd;  
+
+– betrokkene die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik – al dan niet in combinatie met het gebruik van een andere stof – de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.   
 ### *Overige:* 
 
 – Het rijbewijs is bij de mededeling gevoegd.  

@@ -2322,13 +2322,13 @@ J.F.Hoogervorst
 | 0A07ECCR  | V  | 57634=10115  | Mesalazine sandoz zetpil 250mg  | 6,00  | stuk  | 0,60616  |
 | 0A07ECCR  | V  | 57635=11836  | Mesalazine sandoz zetpil 500mg  | 3,00  | stuk  | 1,01027  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0A07ECCRC  | V  | 11469  | Salofalk klysma 4g/60g flacon 60g  | 1,00  | stuk  | 10,24247  |
-| 0A07ECCRC  | V  | 11782  | Pentasa klysma 10mg/ml flacon 100ml  | 1,00  | stuk  | 10,24247  |
+| 0A07ECCRC  | V  | 11469  | Salofalk klysma 4g/60g flacon 60g  | 1,00  | stuk  | 10,24246  |
+| 0A07ECCRC  | V  | 11782  | Pentasa klysma 10mg/ml flacon 100ml  | 1,00  | stuk  | 10,24246  |
 | 0A07ECCRC  | V  | 15393  | Salofalk klysma 2g/30g flacon 30g  | 2,00  | stuk  | 5,12123  |
 | 0A07ECCRC  | V  | 15845  | Salofalk klysma 2g/60g flacon 60g  | 2,00  | stuk  | 5,12123  |
 | 0A07ECCRC  | V  | 15849  | Asacol klysma 2g/50g flacon 50g  | 2,00  | stuk  | 5,12123  |
-| 0A07ECCRC  | V  | 28179  | Salofalk schuim 1g/do flacon 14do  | 4,00  | do  | 2,56062  |
-| 0A07ECCRC  | V  | 31147//11469  | Salofalk klysma 4g/60g flacon 60g  | 1,00  | stuk  | 10,24247  |
+| 0A07ECCRC  | V  | 28179  | Salofalk schuim 1g/do flacon 14do  | 4,00  | do  | 2,56061  |
+| 0A07ECCRC  | V  | 31147//11469  | Salofalk klysma 4g/60g flacon 60g  | 1,00  | stuk  | 10,24246  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A09AAAO  | V  | 101794//16055  | Creon forte capsule mga (pancreatine 300mg)  | 2,40  | stuk  | 1,00796  |
 | 0A09AAAO  | V  | 103696//16055  | Creon forte capsule mga (pancreatine 300mg)  | 2,40  | stuk  | 1,00796  |
@@ -2959,7 +2959,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0C02KXAO  | V  | EU/1/02/220/002  | Tracleer tablet filmomhuld 62,5mg  | 4,00  | stuk  | 32,98929  |
 | 0C02KXAO  | V  | EU/1/02/220/004  | Tracleer tablet filmomhuld 125mg  | 2,00  | stuk  | 54,98214  |
-| 0C02KXAO  | V  | EU/1/06/353/002  | Thelin tablet filmcoated 100mg  | 1,00  | stuk  | 109,96429  |
 | 0C02KXAO  | V  | EU/1/08/451/002  | Volibris tablet filmomhuld 5mg  | 1,50  | stuk  | 73,30952  |
 | 0C02KXAO  | V  | EU/1/08/451/004  | Volibris tablet filmomhuld 10mg  | 0,75  | stuk  | 146,61905  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4506,17 +4505,17 @@ J.F.Hoogervorst
 | 0H02ABCO  | V  | 52471  | Cortisonacetaat rp tablet 25mg  | 1,50  | stuk  | 0,10927  |
 | 0H02ABCO  | V  | 52495  | Hydrocortison rp tablet 20mg  | 1,50  | stuk  | 0,10927  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0H02ABEP  | V  | 12916//605  | DEPO MEDROL INJVLST 40MG/ML  | 0,50  | ml  | 2,22896  |
-| 0H02ABEP  | V  | 16239//5341  | Kenacort retard 40 injsusp 40mg/ml ampul 1ml  | 0,19  | ml  | 5,94389  |
-| 0H02ABEP  | V  | 23115//5341  | Kenacort a 40 injectiesuspensie 40mg/ml ampul 1ml  | 0,19  | ml  | 5,94389  |
-| 0H02ABEP  | V  | 23847//5341  | Kenacort a 40 injectiesuspensie 40mg/ml ampul 1ml  | 0,19  | ml  | 5,94389  |
-| 0H02ABEP  | V  | 34023//5341  | Kenacort a 40 injectiesuspensie 40mg/ml ampul 1ml  | 0,19  | ml  | 5,94389  |
-| 0H02ABEP  | V  | 50823  | Dexamethasondinatriumfosf cf injvls 5mg/ml amp 1ml  | 0,30  | ml  | 3,71493  |
-| 0H02ABEP  | V  | 50859  | Prednisolonnatriumsuccinaat cf injpdr flacon 25mg  | 0,40  | stuk  | 2,78620  |
-| 0H02ABEP  | V  | 5341  | Kenacort a 40 injectiesuspensie 40mg/ml  | 0,19  | ml  | 5,94389  |
-| 0H02ABEP  | V  | 5399  | Celestone chronodose injsusp  | 0,07  | ml  | 15,88134  |
-| 0H02ABEP  | V  | 56517  | ORADEXON INJVLST 5MG/ML  | 0,30  | ml  | 3,71493  |
-| 0H02ABEP  | V  | 605  | Depo medrol injvlst 40mg/ml  | 0,50  | ml  | 2,22896  |
+| 0H02ABEP  | V  | 12916//605  | DEPO MEDROL INJVLST 40MG/ML  | 0,50  | ml  | 2,06924  |
+| 0H02ABEP  | V  | 16239//5341  | Kenacort retard 40 injsusp 40mg/ml ampul 1ml  | 0,19  | ml  | 5,51796  |
+| 0H02ABEP  | V  | 23115//5341  | Kenacort a 40 injectiesuspensie 40mg/ml ampul 1ml  | 0,19  | ml  | 5,51796  |
+| 0H02ABEP  | V  | 23847//5341  | Kenacort a 40 injectiesuspensie 40mg/ml ampul 1ml  | 0,19  | ml  | 5,51796  |
+| 0H02ABEP  | V  | 34023//5341  | Kenacort a 40 injectiesuspensie 40mg/ml ampul 1ml  | 0,19  | ml  | 5,51796  |
+| 0H02ABEP  | V  | 50823  | Dexamethasondinatriumfosf cf injvls 5mg/ml amp 1ml  | 0,30  | ml  | 3,44873  |
+| 0H02ABEP  | V  | 50859  | Prednisolonnatriumsuccinaat cf injpdr flacon 25mg  | 0,40  | stuk  | 2,58654  |
+| 0H02ABEP  | V  | 5341  | Kenacort a 40 injectiesuspensie 40mg/ml  | 0,19  | ml  | 5,51796  |
+| 0H02ABEP  | V  | 5399  | Celestone chronodose injsusp  | 0,07  | ml  | 14,74330  |
+| 0H02ABEP  | V  | 56517  | ORADEXON INJVLST 5MG/ML  | 0,30  | ml  | 3,44873  |
+| 0H02ABEP  | V  | 605  | Depo medrol injvlst 40mg/ml  | 0,50  | ml  | 2,06924  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0H03AAAO  | K  | 11718  | Euthyrox tablet 25mcg  | 6,00  | stuk  | 0,02329  |
 | 0H03AAAO  | K  | 9334  | Thyrax duotab tablet 0,025mg  | 6,00  | stuk  | 0,02329  |
@@ -5735,11 +5734,11 @@ J.F.Hoogervorst
 | 0N02AAAO  | V  | 22163  | Palladon sr capsule mga 8mg  | 1,00  | stuk  | 2,08033  |
 | 0N02AAAO  | V  | 22164  | Palladon sr capsule mga 16mg  | 0,50  | stuk  | 4,16067  |
 | 0N02AAAO  | V  | 22165  | Palladon sr capsule mga 24mg  | 0,33  | stuk  | 6,24100  |
-| 0N02AAAO  | V  | 22941  | Morfine hcl cf retard tablet mga 10mg  | 10,00  | stuk  | 0,29125  |
-| 0N02AAAO  | V  | 22942  | Morfine hcl cf retard tablet mga 30mg  | 3,33  | stuk  | 0,62410  |
-| 0N02AAAO  | V  | 22943  | Morfine hcl cf retard tablet mga 60mg  | 1,67  | stuk  | 1,24820  |
-| 0N02AAAO  | V  | 22944  | Morfine hcl cf retard tablet mga 100mg  | 1,00  | stuk  | 2,08033  |
-| 0N02AAAO  | V  | 22945  | Morfine hcl cf retard tablet mga 200mg  | 0,50  | stuk  | 4,16067  |
+| 0N02AAAO  | V  | 22941  | MORFINE HCL CF RETARD TABLET MVA 10MG  | 10,00  | stuk  | 0,29125  |
+| 0N02AAAO  | V  | 22942  | MORFINE HCL CF RETARD TABLET MVA 30MG  | 3,33  | stuk  | 0,62410  |
+| 0N02AAAO  | V  | 22943  | MORFINE HCL CF RETARD TABLET MVA 60MG  | 1,67  | stuk  | 1,24820  |
+| 0N02AAAO  | V  | 22944  | MORFINE HCL CF RETARD TABLET MVA 100MG  | 1,00  | stuk  | 2,08033  |
+| 0N02AAAO  | V  | 22945  | MORFINE HCL CF RETARD TABLET MVA 200MG  | 0,50  | stuk  | 4,16067  |
 | 0N02AAAO  | V  | 24923=22941  | Morfine hcl rp retard tablet mga 10mg  | 10,00  | stuk  | 0,29125  |
 | 0N02AAAO  | V  | 24924=22942  | Morfine hcl rp retard tablet mga 30mg  | 3,33  | stuk  | 0,62410  |
 | 0N02AAAO  | V  | 24925=22943  | Morfine hcl rp retard tablet mga 60mg  | 1,67  | stuk  | 1,24820  |
@@ -6624,10 +6623,10 @@ J.F.Hoogervorst
 | 0N06BAAO  | V  | 34024  | Medikinet tablet 5mg  | 6,00  | stuk  | 0,07270  |
 | 0N06BAAO  | V  | 34025  | Medikinet tablet 10mg  | 3,00  | stuk  | 0,12116  |
 | 0N06BAAO  | V  | 34026  | Medikinet tablet 20mg  | 1,50  | stuk  | 0,24232  |
-| 0N06BAAO  | V  | 34027  | Medikinet cr capsule mva 10mg  | 3,00  | stuk  | 0,12116  |
-| 0N06BAAO  | V  | 34028  | Medikinet cr capsule mva 20mg  | 1,50  | stuk  | 0,24232  |
-| 0N06BAAO  | V  | 34029  | Medikinet cr capsule mva 30mg  | 1,00  | stuk  | 0,36348  |
-| 0N06BAAO  | V  | 34030  | Medikinet cr capsule mva 40mg  | 0,75  | stuk  | 0,48464  |
+| 0N06BAAO  | V  | 34027  | MEDIKINET CR CAPSULE MGA 10MG  | 3,00  | stuk  | 0,12116  |
+| 0N06BAAO  | V  | 34028  | MEDIKINET CR CAPSULE MGA 20MG  | 1,50  | stuk  | 0,24232  |
+| 0N06BAAO  | V  | 34029  | MEDIKINET CR CAPSULE MGA 30MG  | 1,00  | stuk  | 0,36348  |
+| 0N06BAAO  | V  | 34030  | MEDIKINET CR CAPSULE MGA 40MG  | 0,75  | stuk  | 0,48464  |
 | 0N06BAAO  | V  | 3957  | Ritalin tablet 10mg  | 3,00  | stuk  | 0,12116  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N06BXAO  | V  | 11783  | Nootropil tablet 1200mg  | 2,00  | stuk  | 0,27499  |
@@ -7297,8 +7296,8 @@ J.F.Hoogervorst
 | 1A06ACAO  | V  | 33781//13961  | Metamucil skvr lemon poeder 3,4g in sachet  | 2,06  | stuk  | 0,20039  |
 | 1A06ACAO  | V  | 33782//13963  | Metamucil skvr orange poeder 3,4g in sachet  | 2,06  | stuk  | 0,20039  |
 | 1A06ACAO  | V  | 7716  | Volcolon granulaat 6g in sachet  | 1,77  | stuk  | 0,23340  |
-| 1A06ACAO  | V  | 7716  | Volcolon granulaat  | 10,61  | gram  | 0,03888  |
-| 1A06ACAO  | V  | 7716  | Volcolon granulaat  | 10,61  | gram  | 0,03888  |
+| 1A06ACAO  | V  | 7716  | Volcolon granulaat  | 10,61  | gram  | 0,03890  |
+| 1A06ACAO  | V  | 7716  | Volcolon granulaat  | 10,61  | gram  | 0,03890  |
 | 1A06ACAO  | V  | 7716  | Volcolon granulaat 6g in sachet  | 1,77  | stuk  | 0,23340  |
 | 1A06ACAO  | V  | 9171  | Volcolon granulaat suikervrij 980mg/g  | 7,14  | gram  | 0,05776  |
 | 1A06ACAO  | V  | 9171  | Volcolon granulaat suikervrij 980mg/g  | 7,14  | gram  | 0,05776  |
@@ -8359,7 +8358,7 @@ J.F.Hoogervorst
 | 2R06AXAO  | V  | 28337  | Loratadine pch tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 28514=25632  | Allerfre tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 28872=24710  | Loratadine neusallergie tablet 10mg  | 1,00  | stuk  | 0,50499  |
-| 2R06AXAO  | V  | 28873=24710  | Loratadine bij neusallergie tablet 10mg  | 1,00  | stuk  | 0,50499  |
+| 2R06AXAO  | V  | 28873=24710  | HOOIKOORTSTABLET LORATADINE HTP TABLET 10MG  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 33303  | Loratadine sandoz orodisp tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 34132  | Hooikoortstablet loratadine leidapharm tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 35094  | Fexofenadine hcl sandoz tablet omhuld 120mg  | 1,00  | stuk  | 0,50499  |
@@ -10219,8 +10218,8 @@ J.F.Hoogervorst
 
 | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|
-| 0L01BACP  | V  | 104433  | METHOTREXAAT SDZ INJVLST 7,5MG/0,75ML(10MG/ML)WWSP  | 0,25  | ML  | 12,59200  |
-| 0L01BACP  | V  | 101493  | METHOTREXAAT SDZ INJVLST 30 MG/1,5 ML (20 MG/ ML) WWSP  | 0,13  | ML  | 25,18400  |
+| 0L01BACP  | V  | 104433  | METHOTREXAAT SDZ INJVLST 10MG/ML WWSP  | 0,25  | ML  | 12,59200  |
+| 0L01BACP  | V  | 101493  | METHOTREXAAT SDZ INJVLST 20MG/ML WWSP  | 0,13  | ML  | 25,18400  |
 | 0L01BACP  | V  | 100943  | METOJECT INJVLST 50MG/ML  | 0,05  | ML  | 62,96000  |
 
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10375,7 +10374,7 @@ J.F.Hoogervorst
 | 0N05CDAP  | V  | 100470  | MIDAZOLAM ACCORD INJVLST 1MG/ML AMPUL 5ML  | 15,00  | ML  | 0,17988  |
 | 0N05CDAP  | V  | 100485  | MIDAZOLAM ACCORD INJVLST 5MG/ML  | 3,00  | ML  | 0,89939  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 4N05ALAO  | V  | 107109//19811  | DOGMATIL TABLET 400MG  | 2,00  | STUK  | 1,98151  |
+| 4N05ALAO  | V  | 107109//19811  | DOLMATIL TABLET 400MG  | 2,00  | STUK  | 1,98151  |
 | 4N05AXAO  | V  | 107188//20827  | SEROQUEL TABLET FILMOMHULD 100MG  | 3,00  | STUK  | 1,32101  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N06BABO  | V  | 18535  | MODIODAL TABLET 100MG  | 3,00  | STUK  | 2,81344  |
@@ -10616,7 +10615,7 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | YG04CAAO  | V  | 108059//104130  | COMBODART CAPSULE 0,5/0,4MG  | 1,00  | STUK  | 2,08572  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0H01BAAO  | V  | 32000  | DESMOPRESSINE-ACETAAT 0,1 PCH TABLETTEN 0,1 MG  | 4,00  | STUK  | 0,94769  |
+| 0H01BAAO  | V  | 32000  | DESMOPRESSINE ACETAAT PCH TABLET 0,1MG  | 4,00  | STUK  | 0,94769  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0J01DHAP  | V  | 105437  | MEROPENEM FRESENIUS KABI INF/INJPDR FLACON 500MG  | 4,00  | STUK  | 18,31911  |
 | 0J01DHAP  | V  | 105441  | MEROPENEM FRESENIUS KABI INF/INJPDR FLACON 1000MG  | 2,00  | STUK  | 36,63822  |
@@ -11224,7 +11223,7 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- |
 | YC09DAAO V  | 109236//24995  | CANDESARTAN CILEXETIL/HCT FISHER TABLET 16/12,5MG  | 1,00  | STUK  | 1,54013  |
 | --- | --- | --- | --- | --- | --- |
-| 0H02ABEP V  | 107717  | DEXAMETHASON CF INJVLST 4MG/ML AMPUL 1ML  | 0,29  | ML  | 3,90811  |
+| 0H02ABEP V  | 107717  | DEXAMETHASON CF INJVLST 4MG/ML AMPUL 1ML  | 0,29  | ML  | 3,62806  |
 | --- | --- | --- | --- | --- | --- |
 | 0J01DHAP V  | 105213  | IMIPENEM/CILASTATINE HOSPIRA INFPDR FL 500/500MG  | 4,00  | STUK  | 18,31911  |
 | --- | --- | --- | --- | --- | --- |
@@ -11353,8 +11352,8 @@ J.F.Hoogervorst
 | 0L02BBAO  | V  | 109354//18805  | ANANDRON TABLET 150MG  | 1,00  | STUK  | 5,44536  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L02BGAO  | V  | 105553  | EXEMESTAAN ACTAVIS TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
-| 0L02BGAO  | V  | 102322  | LETROZOL ACTAVIS 2,5MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
-| 0L02BGAO  | V  | 106321  | LETROZOL SANDOZ 2,5MG, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 102322  | LETROZOL ACTAVIS TABLET FILMOMHULD 2,5MG  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 106321  | LETROZOL SANDOZ TABLET FILMOMHULD 2,5MG  | 1,00  | STUK  | 4,71931  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L04AACO  | V  | 109317//30043  | CERTICAN TABLET 0,75MG  | 2,00  | STUK  | 14,23305  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11433,7 +11432,7 @@ J.F.Hoogervorst
 | 0G04ACBO  | V  | 109333//13066  | MONURIL GRANULAAT 3000MG/8G IN SACHET  | 0,25  | STUK  | 2,28706  |
 | 0G04ACBO  | V  | 109356//13066  | MONURIL GRANULAAT 3000MG/8G IN SACHET  | 0,25  | STUK  | 2,28706  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0H02ABEP  | V  | 109288//605  | DEPO MEDROL INJVLST 40MG/ML FLACON 1ML  | 0,50  | ML  | 2,22896  |
+| 0H02ABEP  | V  | 109288//605  | DEPO MEDROL INJVLST 40MG/ML FLACON 1ML  | 0,50  | ML  | 2,06924  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0J01MAAO  | V  | 102704  | LEVOFLOXACINE PCH TABLET FILMOMHULD 250MG  | 1,00  | STUK  | 3,05666  |
 | 0J01MAAO  | V  | 102705  | LEVOFLOXACINE PCH TABLET FILMOMHULD 500MG  | 0,50  | STUK  | 6,11332  |
@@ -11450,16 +11449,16 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L02BGAO  | V  | 109241//19123  | ARIMIDEX TABLET FILMOMHULD 1MG  | 1,00  | STUK  | 4,71931  |
 | 0L02BGAO  | V  | 105407  | EXEMESTAAN MYLAN TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
-| 0L02BGAO  | V  | 104036  | LETROZOL MYLAN 2,5 MG, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 104036  | LETROZOL MYLAN TABLET FILMOMHULD 2,5MG  | 1,00  | STUK  | 4,71931  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0M05BABO  | V  | 109568//28338  | ACTONEL WEKELIJKS TABLET FILMOMHULD 35MG  | 0,14  | STUK  | 8,57645  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0N02ABCO  | V  | 108843  | ABSTRAL 100 MCG TABLETTEN VOOR SUBLINGUAAL GEBRUIK  | 6,00  | STUK  | 6,04440  |
-| 0N02ABCO  | V  | 108844  | ABSTRAL 200 MCG TABLETTEN VOOR SUBLINGUAAL GEBRUIK  | 3,00  | STUK  | 10,07400  |
-| 0N02ABCO  | V  | 108845  | ABSTRAL 300 MCG TABLETTEN VOOR SUBLINGUAAL GEBRUIK  | 2,00  | STUK  | 15,11100  |
-| 0N02ABCO  | V  | 108846  | ABSTRAL 400 MCG TABLETTEN VOOR SUBLINGUAAL GEBRUIK  | 1,50  | STUK  | 20,14800  |
-| 0N02ABCO  | V  | 108847  | ABSTRAL 600 MCG TABLETTEN VOOR SUBLINGUAAL GEBRUIK  | 1,00  | STUK  | 30,22200  |
-| 0N02ABCO  | V  | 108848  | ABSTRAL 800 MCG TABLETTEN VOOR SUBLINGUAAL GEBRUIK  | 0,75  | STUK  | 40,29600  |
+| 0N02ABCO  | V  | 108843  | ABSTRAL TABLET SUBLINGUAAL 100MCG  | 6,00  | STUK  | 6,04440  |
+| 0N02ABCO  | V  | 108844  | ABSTRAL TABLET SUBLINGUAAL 200MCG  | 3,00  | STUK  | 10,07400  |
+| 0N02ABCO  | V  | 108845  | ABSTRAL TABLET SUBLINGUAAL 300MCG  | 2,00  | STUK  | 15,11100  |
+| 0N02ABCO  | V  | 108846  | ABSTRAL TABLET SUBLINGUAAL 400MCG  | 1,50  | STUK  | 20,14800  |
+| 0N02ABCO  | V  | 108847  | ABSTRAL TABLET SUBLINGUAAL 600MCG  | 1,00  | STUK  | 30,22200  |
+| 0N02ABCO  | V  | 108848  | ABSTRAL TABLET SUBLINGUAAL 800MCG  | 0,75  | STUK  | 40,29600  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N02CCBO  | V  | 109465//19470  | IMIGRAN NEUSSPRAY 20MG  | 1,00  | STUK  | 10,43468  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11613,7 +11612,7 @@ J.F.Hoogervorst
 | 0L02BGAO  | V  | 104598  | EXEMESTAAN CF TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
 | 0L02BGAO  | V  | 104488  | EXEMESTAAN PCH TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
 | 0L02BGAO  | V  | 104327  | EXEMESTAAN SANDOZ TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
-| 0L02BGAO  | V  | 102826  | LETROZOL 2,5 MG PCH FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 102826  | LETROZOL TEVA TABLET FILMOMHULD 2,5MG  | 1,00  | STUK  | 4,71931  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L04AAAP  | V  | EU/1/03/256/001  | HUMIRA 40 KIND INJVLST 50MG/ML FLACON 0,8ML  | 0,07  | STUK  | 543,28418  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11643,7 +11642,7 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0S01AABZ  | V  | 109689//10225  | TOBREX OOGZALF TUBE 3,5G  | 0,28  | GRAM  | 0,22624  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0S01BCAG  | V  | EU/1/11/692/001  | YELLOX 0,9 MG/ML OOGDRUPPELS FLACON 5ML  | 0,20  | ML  | 2,85700  |
+| 0S01BCAG  | V  | EU/1/11/692/001  | YELLOX OOGDRUPPELS 0,9MG/ML FLACON 5ML  | 0,20  | ML  | 2,85700  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0S01ECAG  | V  | 105443  | DORZOLAMIDE CF OOGDRUPPELS 20MG/ML FLACON 5ML  | 0,30  | ML  | 2,19630  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11653,6 +11652,300 @@ J.F.Hoogervorst
 | YS01EDCG  | V  | 105541  | DORZOLAMIDE/TIMOLOL ACTAVIS OOGDR 20/5MG/ML FL 5ML  | 1,00  | ML  | 3,13380  |
 | YS01EDCG  | V  | 105416  | DORZOLAMIDE/TIMOLOL CF OOGDR 20/5MG/ML FL 5ML  | 1,00  | ML  | 3,13380  |
 | YS01EDCG  | V  | 105655  | DORZOLAMIDE/TIMOLOL MYLAN OOGDR 20/5MG/ML FL 5ML  | 1,00  | ML  | 3,13380  |
+
+| --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|
+| 0A02BCAO  | V  | 107343  | ESOMEPRAZOL CF CAPSULE MSR 20MG  | 1,00  | STUK  | 1,68111  |
+| 0A02BCAO  | V  | 107345  | ESOMEPRAZOL CF CAPSULE MSR 40MG  | 0,50  | STUK  | 3,36221  |
+| 0A02BCAO  | V  | 106962  | OMEPRAZOL AUROBINDO CAPSULE MSR 10MG  | 2,00  | STUK  | 1,00866  |
+| 0A02BCAO  | V  | 106963  | OMEPRAZOL AUROBINDO CAPSULE MSR 20MG  | 1,00  | STUK  | 1,68111  |
+| 0A02BCAO  | V  | 106964  | OMEPRAZOL AUROBINDO CAPSULE MSR 40MG  | 0,50  | STUK  | 3,36221  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0A04AAAO  | V  | 105989  | ONDANSETRON AUROBINDO ORODISP TABLET 4MG  | 4,00  | STUK  | 5,81918  |
+| 0A04AAAO  | V  | 105990  | ONDANSETRON AUROBINDO ORODISP TABLET 8MG  | 2,00  | STUK  | 9,69864  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0A04AAAP  | V  | 101235  | ONDANSETRON CLARIS INJVLST 2MG/ML AMPUL  | 4,00  | ML  | 7,13683  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1A06ACAO  | V  | 109957//13963  | METAMUCIL SKVR ORANGE POEDER 3,4G IN SACHET  | 2,06  | STUK  | 0,20039  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0A07ECCO  | V  | 107302  | SALOFALK GRANU-STIX GRANULAAT MGA 3G IN SACHET  | 0,50  | STUK  | 3,75349  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0A09AAAO  | V  | 109708//10656  | CREON CAPSULE MGA (PANCREATINE 150MG)  | 6,00  | STUK  | 0,40319  |
+| 0A09AAAO  | V  | 33166  | CREON XTRA FORTE 400 MG MSR CAPSULES  | 1,50  | STUK  | 1,61274  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0B01ABAP  | V  | 109929//12787  | FRAGMIN 2500 INJVLST 12.500IE/ML WWSP 0,2ML  | 0,20  | ML  | 8,89410  |
+| 0B01ABAP  | V  | 109930//12788  | FRAGMIN 5000 INJVLST 25.000IE/ML WWSP 0,2ML  | 0,10  | ML  | 17,78820  |
+| 0B01ABAP  | V  | 109947//12788  | FRAGMIN 5000 INJVLST 25.000IE/ML WWSP 0,2ML  | 0,10  | ML  | 17,78820  |
+| 0B01ABAP  | V  | 109706//11877  | FRAXIPARINE INJVLST 9500IE/ML WWSP 0,6ML  | 0,30  | ML  | 5,92940  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0B01ACDO  | V  | 106384  | CLOPIDOGREL AUROBINDO TABLET FILMOMHULD 75MG  | 1,00  | STUK  | 1,88043  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1C03AAAO  | V  | 106654  | HYDROCHLOORTHIAZIDE SANDOZ TABLET 50MG  | 0,50  | STUK  | 0,20692  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1C07AGAO  | V  | 107593  | CARVEDILOL AUROBINDO TABLET FILMOMHULD 3,125MG  | 12,00  | STUK  | 0,12101  |
+| 1C07AGAO  | V  | 107594  | CARVEDILOL AUROBINDO TABLET FILMOMHULD 6,25MG  | 6,00  | STUK  | 0,10084  |
+| 1C07AGAO  | V  | 107595  | CARVEDILOL AUROBINDO TABLET FILMOMHULD 12,5MG  | 3,00  | STUK  | 0,20168  |
+| 1C07AGAO  | V  | 107596  | CARVEDILOL AUROBINDO TABLET FILMOMHULD 25MG  | 1,50  | STUK  | 0,40336  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0C09AAAO  | V  | 105776  | FOSINOPRILNATRIUM AUROBINDO TABLET 10MG  | 1,50  | STUK  | 0,38939  |
+| 0C09AAAO  | V  | 105777  | FOSINOPRILNATRIUM AUROBINDO TABLET 20MG  | 0,75  | STUK  | 0,77877  |
+| 0C09AAAO  | V  | 105834  | PERINDOPRIL TERT-BUTYLAMINE AUROBINDO TABLET 2MG  | 2,00  | STUK  | 0,35045  |
+| 0C09AAAO  | V  | 105835  | PERINDOPRIL TERT-BUTYLAMINE AUROBINDO TABLET 4MG  | 1,00  | STUK  | 0,58408  |
+| 0C09AAAO  | V  | 105836  | PERINDOPRIL TERT-BUTYLAMINE AUROBINDO TABLET 8MG  | 0,50  | STUK  | 1,16816  |
+| 0C09AAAO  | V  | 105268  | RAMIPRIL AUROBINDO CAPSULE 1,25MG  | 2,00  | STUK  | 0,35045  |
+| 0C09AAAO  | V  | 105271  | RAMIPRIL AUROBINDO CAPSULE 2,5MG  | 1,00  | STUK  | 0,58408  |
+| 0C09AAAO  | V  | 105272  | RAMIPRIL AUROBINDO CAPSULE 5MG  | 0,50  | STUK  | 1,16816  |
+| 0C09AAAO  | V  | 105274  | RAMIPRIL AUROBINDO CAPSULE 10MG  | 0,25  | STUK  | 2,33631  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0C09CAAO  | V  | 105815  | LOSARTAN KALIUM AUROBINDO TABLET OMHULD 25MG  | 2,00  | STUK  | 0,44652  |
+| 0C09CAAO  | V  | 105818  | LOSARTAN KALIUM AUROBINDO TABLET OMHULD 50MG  | 1,00  | STUK  | 0,74420  |
+| 0C09CAAO  | V  | 105819  | LOSARTAN KALIUM AUROBINDO TABLET OMHULD 100MG  | 0,50  | STUK  | 1,48840  |
+| 0C09CAAO  | V  | EU/1/07/405/002  | RASILEZ TABLET FILMOMHULD 150MG  | 1,00  | STUK  | 0,74420  |
+| 0C09CAAO  | V  | EU/1/07/405/012  | RASILEZ TABLET FILMOMHULD 300MG  | 0,50  | STUK  | 1,48840  |
+| --- | --- | --- | --- | --- | --- | --- |
+| YC09DAAO  | V  | 109740//100453  | VALSARTAN/HCT FISHER TABL FILMOMHULD 320MG/12,5MG  | 1,00  | STUK  | 3,02853  |
+| YC09DAAO  | V  | 109738//100454  | VALSARTAN/HCT FISHER TABL FILMOMHULD 320MG/25MG  | 1,00  | STUK  | 3,08026  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0D01BABO  | V  | 31580  | TERBINAFINE ACTAVIS TABLET 250MG  | 1,00  | STUK  | 2,33152  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0G02CBAO  | V  | 109763//15375  | DOSTINEX TABLET 0,5MG  | 0,10  | STUK  | 7,96341  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0G03AABO  | V  | 100827  | ETHINYLESTRADIOL/DROSPIRENON 0,02MG/3MG BERLIPHARM  | 0,86  | STUK  | 0,11597  |
+| 0G03AABO  | V  | 25414  | ETHINYLESTRADIOL/DROSPIRENON 0,03MG/3MG BERLIPHARM  | 0,75  | STUK  | 0,13253  |
+| 0G03AABO  | V  | 109699//23827  | YASMIN TABLET OMHULD  | 0,75  | STUK  | 0,13253  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0G03ACBO  | V  | 109357//32303  | NORLEVO TABLET 1,5MG  | 1,00  | STUK  | 5,32280  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0G04BDBO  | V  | 109760//22148  | DETRUSITOL TABLET OMHULD 1MG  | 4,00  | STUK  | 0,24894  |
+| 0G04BDBO  | V  | 109754//29151  | VESICARE TABLET FILMOMHULD 5MG  | 1,00  | STUK  | 0,82981  |
+| 0G04BDBO  | V  | 109755//29151  | VESICARE TABLET FILMOMHULD 5MG  | 1,00  | STUK  | 0,82981  |
+| 0G04BDBO  | V  | 109753//29152  | VESICARE TABLET FILMOMHULD 10MG  | 0,50  | STUK  | 1,65963  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0G04CAAO  | V  | 103826  | ALFUZOSINE HCL AUROBINDO TABLET FILMOMHULD 2,5MG  | 3,00  | STUK  | 0,32067  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0H01BAAO  | V  | 32001  | DESMOPRESSINE ACETAAT PCH TABLET 0,2MG  | 2,00  | STUK  | 1,57948  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0J01DAAP  | V  | 34535  | CEFAZOLINE AUROBINDO INJECTIEPOEDER FLAC 1000MG  | 3,00  | STUK  | 4,53780  |
+| 0J01DAAP  | V  | 34536  | CEFAZOLINE AUROBINDO INJECTIEPOEDER FLAC 2000MG  | 1,50  | STUK  | 9,07561  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0J01DABP  | V  | 33021  | CEFOTAXIM AUROBINDO INJECTIEPOEDER FLACON 250MG  | 16,00  | STUK  | 4,15664  |
+| 0J01DABP  | V  | 33022  | CEFOTAXIM AUROBINDO INJECTIEPOEDER FLACON 500MG  | 8,00  | STUK  | 5,19580  |
+| 0J01DABP  | V  | 33023  | CEFOTAXIM AUROBINDO INJECTIEPOEDER FLACON 1000MG  | 4,00  | STUK  | 10,39160  |
+| 0J01DABP  | V  | 33024  | CEFOTAXIM AUROBINDO INJECTIEPOEDER FLACON 2000MG  | 2,00  | STUK  | 20,78320  |
+| 0J01DABP  | V  | 32857  | CEFTRIAXON AUROBINDO INJPDR FLACON 250MG  | 8,00  | STUK  | 5,19580  |
+| 0J01DABP  | V  | 32858  | CEFTRIAXON AUROBINDO INJPDR FLACON 500MG  | 4,00  | STUK  | 10,39160  |
+| 0J01DABP  | V  | 32859  | CEFTRIAXON AUROBINDO INJPDR FLACON 1000MG  | 2,00  | STUK  | 20,78320  |
+| 0J01DABP  | V  | 32860  | CEFTRIAXON AUROBINDO INJPDR FLACON 2000MG  | 1,00  | STUK  | 41,56640  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0J01DHAP  | V  | 109767//17864  | MERONEM INJECTIEPOEDER FLACON 1000MG  | 2,00  | STUK  | 36,63822  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0J01GBAII  | V  | EU/1/10/652/002  | TOBI PODHALER INHALPDR 28MG MET PODHALER  | 4,00  | STUK  | 11,27360  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0J02ACAO  | V  | 101649  | FLUCONAZOL AUROBINDO CAPSULE 50MG  | 4,00  | STUK  | 3,10703  |
+| 0J02ACAO  | V  | 101650  | FLUCONAZOL AUROBINDO CAPSULE 150MG  | 1,33  | STUK  | 9,32110  |
+| 0J02ACAO  | V  | 101651  | FLUCONAZOL AUROBINDO CAPSULE 200MG  | 1,00  | STUK  | 12,42813  |
+| 0J02ACAO  | V  | 105358  | ITRACONAZOL PCH CAPSULE 100MG  | 2,00  | STUK  | 6,21407  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0J05ABCO  | V  | 109722//26746  | COPEGUS TABLET FILMOMHULD 200MG  | 5,00  | STUK  | 6,67057  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0J05ABDO  | V  | 109700//25992  | VALCYTE TABLET FILMOMHULD 450MG  | 2,00  | STUK  | 24,63379  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0L02AEAD  | V  | 104389  | PLENAXIS 100 MG PDR+OPLOSMIDDEL V SUSP V INJECTIE  | 1,00  | STUK  | 184,07590  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0L02BGAO  | V  | 109884//19123  | ARIMIDEX TABLET FILMOMHULD 1MG  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 102441  | LETROZOL ACCORD TABLET FILMOMHULD 2,5MG  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 106401  | LETROZOL CF TABLET FILMOMHULD 2,5MG  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 105802  | LETROZOL SUN TABLET FILMOMHULD 2,5MG  | 1,00  | STUK  | 4,71931  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0M03AXAP  | V  | 109468//17379  | BOTOX INJECTIEPOEDER FLACON 100E  | 0,02  | STUK  | 272,26810  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0M04AAAO  | V  | 104252  | ALLOPURINOL PCH TABLET 100MG  | 4,00  | STUK  | 0,06025  |
+| 0M04AAAO  | V  | 104257  | ALLOPURINOL PCH TABLET 300MG  | 1,33  | STUK  | 0,18076  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0M05BABO  | V  | 103205  | ALENDRONINEZUUR AUROBINDO TABLET 10MG  | 1,00  | STUK  | 1,22521  |
+| 0M05BABO  | V  | 103208  | ALENDRONINEZUUR AUROBINDO TABLET 70MG  | 0,14  | STUK  | 8,57645  |
+| 0M05BABO  | V  | 106807  | RISEDRONAATNATRIUM AUROBINDO TABL FILMOMHULD 5MG  | 1,00  | STUK  | 1,22521  |
+| 0M05BABO  | V  | 106809  | RISEDRONAATNATRIUM AUROBINDO WEKELIJKS TB OMH 35MG  | 0,14  | STUK  | 8,57645  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0N01BBAP  | V  | 102423  | BUPIVACAINE HCL CLARIS INJVLST 2,5MG/ML  | 56,00  | ML  | 0,12071  |
+| 0N01BBAP  | V  | 102425  | BUPIVACAINE HCL CLARIS INJVLST 5MG/ML  | 28,00  | ML  | 0,24141  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0N02ABCO  | V  | EU/1/09/531/011  | INSTANYL SINGLE DOSE NEUSSPRAY 50MCG  | 3,00  | DO  | 6,04440  |
+| 0N02ABCO  | V  | EU/1/09/531/015  | INSTANYL SINGLE DOSE NEUSSPRAY 100MCG  | 1,50  | DO  | 10,07400  |
+| 0N02ABCO  | V  | EU/1/09/531/019  | INSTANYL SINGLE DOSE NEUSSPRAY 200MCG  | 0,75  | DO  | 20,14800  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0N02CCAO  | V  | 109952//27212  | FROMIREX TABLET OMHULD 2,5MG  | 1,00  | STUK  | 6,21227  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0N02CCBO  | V  | 109964//19470  | IMIGRAN NEUSSPRAY 20MG  | 1,00  | STUK  | 10,43468  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0N03AXCO  | V  | 100396  | GABAPENTINE AUROBINDO CAPSULE 100MG  | 18,00  | STUK  | 0,43563  |
+| 0N03AXCO  | V  | 100398  | GABAPENTINE AUROBINDO CAPSULE 300MG  | 6,00  | STUK  | 0,65344  |
+| 0N03AXCO  | V  | 100399  | GABAPENTINE AUROBINDO CAPSULE 400MG  | 4,50  | STUK  | 0,87126  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0N03AXEO  | V  | 105862  | TOPIRAMAAT AUROBINDO TABLET FILMOMHULD 25MG  | 12,00  | STUK  | 0,39720  |
+| 0N03AXEO  | V  | 105863  | TOPIRAMAAT AUROBINDO TABLET FILMOMHULD 50MG  | 6,00  | STUK  | 0,79440  |
+| 0N03AXEO  | V  | 105864  | TOPIRAMAAT AUROBINDO TABLET FILMOMHULD 100MG  | 3,00  | STUK  | 1,58880  |
+| 0N03AXEO  | V  | 105865  | TOPIRAMAAT AUROBINDO TABLET FILMOMHULD 200MG  | 1,50  | STUK  | 3,17760  |
+| 0N03AXEO  | V  | EU/1/11/681/003  | TROBALT 50 MG FILMOMHULDE TABLETTEN 168 STUKS  | 18,00  | STUK  | 0,52960  |
+| 0N03AXEO  | V  | EU/1/11/681/006  | TROBALT 100 MG FILMOMHULDE TABLETTEN 168 STUKS  | 9,00  | STUK  | 0,52960  |
+| 0N03AXEO  | V  | EU/1/11/681/008  | TROBALT 200 MG FILMOMHULDE TABLETTEN 168 STUKS  | 4,50  | STUK  | 1,05920  |
+| 0N03AXEO  | V  | EU/1/11/681/010  | TROBALT 300 MG FILMOMHULDE TABLETTEN 168 STUKS  | 3,00  | STUK  | 1,58880  |
+| 0N03AXEO  | V  | EU/1/11/681/012  | TROBALT 400 MG FILMOMHULDE TABLETTEN 168 STUKS  | 2,25  | STUK  | 2,11840  |
+| 0N03AXEO  | V  | EU/1/11/681/013  | TROBALT STARTVERPAKKING (21TABL 50MG+42TABL 100MG)  | 0,14  | VERP  | 33,36477  |
+| 0N03AXEO  | V  | EU/1/11/681/001  | TROBALT TABLET FILMOMHULD 50MG  | 18,00  | STUK  | 0,52960  |
+| 0N03AXEO  | V  | EU/1/11/681/002  | TROBALT TABLET FILMOMHULD 50MG  | 18,00  | STUK  | 0,52960  |
+| 0N03AXEO  | V  | EU/1/11/681/004  | TROBALT TABLET FILMOMHULD 100MG  | 9,00  | STUK  | 0,52960  |
+| 0N03AXEO  | V  | EU/1/11/681/005  | TROBALT TABLET FILMOMHULD 100MG  | 9,00  | STUK  | 0,52960  |
+| 0N03AXEO  | V  | EU/1/11/681/007  | TROBALT TABLET FILMOMHULD 200MG  | 4,50  | STUK  | 1,05920  |
+| 0N03AXEO  | V  | EU/1/11/681/009  | TROBALT TABLET FILMOMHULD 300MG  | 3,00  | STUK  | 1,58880  |
+| 0N03AXEO  | V  | EU/1/11/681/011  | TROBALT TABLET FILMOMHULD 400MG  | 2,25  | STUK  | 2,11840  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4N05AHAO  | V  | 107197  | OLANZAPIN BLUEFISH 10 MG ORODISPERGEERBARE TABLET  | 1,00  | STUK  | 3,96302  |
+| 4N05AHAO  | V  | 107198  | OLANZAPIN BLUEFISH 15 MG ORODISPERGEERBARE TABLET  | 0,67  | STUK  | 5,94453  |
+| 4N05AHAO  | V  | 107199  | OLANZAPIN BLUEFISH 20 MG ORODISPERGEERBARE TABLET  | 0,50  | STUK  | 7,92603  |
+| 4N05AHAO  | V  | 107195  | OLANZAPIN BLUEFISH 5 MG ORODISPERGEERBARE TABLET  | 2,00  | STUK  | 1,98151  |
+| 4N05AHAO  | V  | 102282  | OLANZAPINE ACTAVIS 10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 3,96302  |
+| 4N05AHAO  | V  | 102283  | OLANZAPINE ACTAVIS 15 MG FILMOMHULDE TABLETTEN  | 0,67  | STUK  | 5,94453  |
+| 4N05AHAO  | V  | 102278  | OLANZAPINE ACTAVIS 2,5 MG FILMOMHULDE TABLETTEN  | 4,00  | STUK  | 1,58521  |
+| 4N05AHAO  | V  | 102284  | OLANZAPINE ACTAVIS 20 MG FILMOMHULDE TABLETTEN  | 0,50  | STUK  | 7,92603  |
+| 4N05AHAO  | V  | 102280  | OLANZAPINE ACTAVIS 5 MG FILMOMHULDE TABLETTEN  | 2,00  | STUK  | 1,98151  |
+| 4N05AHAO  | V  | 35015  | OLANZAPINE NYZOL 10 MG, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 3,96302  |
+| 4N05AHAO  | V  | 103398  | OLANZAPINE NYZOL 15 MG, FILMOMHULDE TABLETTEN  | 0,67  | STUK  | 5,94453  |
+| 4N05AHAO  | V  | 35012  | OLANZAPINE NYZOL 2,5 MG, FILMOMHULDE TABLETTEN  | 4,00  | STUK  | 1,58521  |
+| 4N05AHAO  | V  | 103399  | OLANZAPINE NYZOL 20 MG, FILMOMHULDE TABLETTEN  | 0,50  | STUK  | 7,92603  |
+| 4N05AHAO  | V  | 35013  | OLANZAPINE NYZOL 5 MG, FILMOMHULDE TABLETTEN  | 2,00  | STUK  | 1,98151  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0P01BAAO  | V  | 106659  | A-CQ 100 CHLOROQUINE TABLET 100MG  | 2,50  | STUK  | 0,02049  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0R01ADAN  | V  | 109751//15821  | RHINOCORT TURBUHALER INHPDR NASAAL 0,1MG/DO 200DO  | 2,00  | DO  | 0,16850  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0R03ACAIDC  | V  | 109750//12480  | BRICANYL TURBUHALER INHALPDR 0,5MG/DO 200DO  | 4,00  | DO  | 0,09620  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0R03ACCIDA  | V  | 109752//31993  | FORADIL AEROSOL CFKVR 12MCG/DO SPBS 100DOSES+INH  | 2,00  | DO  | 0,46172  |
+| --- | --- | --- | --- | --- | --- | --- |
+| YR03ACCIDA  | V  | 109831//34610  | BECLOMETASON/FORMOTEROL FISH AER 100/6MCG/DO 120DO  | 1,00  | DO  | 0,40611  |
+| --- | --- | --- | --- | --- | --- | --- |
+| YR03AKAIDC  | V  | 110101//25887  | SYMBICORT TURBUHALER INHALPDR 200/6MCG/DO  | 1,00  | DO  | 0,48321  |
+| YR03AKAIDC  | V  | 110105//27690  | SYMBICORT TURBUHALER INHALPDR 400/12MCG/DO 60DO  | 1,00  | DO  | 0,96642  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0S01AABZ  | V  | 109693//10225  | TOBREX OOGZALF TUBE 5G  | 0,28  | GRAM  | 0,22624  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0S01XAAG  | V  | 110177//107234  | LIPOSIC OOGGEL 2MG/G TUBE 10G  | 0,40  | GRAM  | 0,39706  |
+
+| --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|
+| 0A02BCAO V  | 109875//23211  | PARIET TABLET MSR 20MG  | 1,00  | STUK  | 1,68111  |
+| 0A02BCAO V  | 109879//23211  | PARIET TABLET MSR 20MG  | 1,00  | STUK  | 1,68111  |
+| --- | --- | --- | --- | --- | --- |
+| 0A04AAAO V  | 105867  | ONDANSETRON AUROBINDO TABLET FILMOMHULD 4MG  | 4,00  | STUK  | 5,81918  |
+| 0A04AAAO V  | 105868  | ONDANSETRON AUROBINDO TABLET FILMOMHULD 8MG  | 2,00  | STUK  | 9,69864  |
+| --- | --- | --- | --- | --- | --- |
+| 1A06ADAO V  | 108115  | MACROGOL EN ELEKTR TRAMEDICO NATUREL PDR V DR SACH  | 0,76  | STUK  | 0,54285  |
+| 1A06ADAO V  | 106666  | MOVICOLON LIQUID ORANGE 13,9 G/25 ML, CONC V DRANK  | 19,05  | ML  | 0,02026  |
+| 1A06ADAO V  | 109723//31960  | MOVICOLON NATUREL POEDER VOOR DRANK IN SACHET  | 0,76  | STUK  | 0,54285  |
+| --- | --- | --- | --- | --- | --- |
+| 0A07ECCR V  | 109851//10115  | SALOFALK ZETPIL 250MG  | 6,00  | STUK  | 0,60616  |
+| 0A07ECCR V  | 109854//11836  | SALOFALK ZETPIL 500MG  | 3,00  | STUK  | 1,01027  |
+| --- | --- | --- | --- | --- | --- |
+| 0A10BXAP V  | EU/1/11/696/002  | BYDUREON 2 MG PDR+OPLMID V SUSP V INJ MVA 3X(4X1)  | 0,14  | DO  | 33,67003  |
+| 0A10BXAP V  | EU/1/11/696/001  | BYDUREON INJPDR MVA FLACON 2MG +SOLV 0,65ML  | 0,14  | DO  | 33,67003  |
+| --- | --- | --- | --- | --- | --- |
+| 0B01ABAP V  | 110050//23794  | FRAXODI INJVLST 19000 IE/ML WWSP 0,6ML  | 0,15  | ML  | 11,85880  |
+| 0B01ABAP V  | 110049//23795  | FRAXODI INJVLST 19000 IE/ML WWSP 0,8ML  | 0,15  | ML  | 11,85880  |
+| 0B01ABAP V  | 110047//23796  | FRAXODI INJVLST 19000 IE/ML WWSP 1ML  | 0,15  | ML  | 11,85880  |
+| --- | --- | --- | --- | --- | --- |
+| 0B03XAAP V  | EU/1/01/185/106  | ARANESP 100 MCG OPLOSSING VOOR INJECTIE 1 FLACON  | 0,10  | ML  | 245,72016  |
+| 0B03XAAP V  | EU/1/01/185/107  | ARANESP 100 MCG OPLOSSING VOOR INJECTIE 4 FLACONS  | 0,10  | ML  | 245,72016  |
+| 0B03XAAP V  | EU/1/01/185/108  | ARANESP 200 MCG OPLOSSING VOOR INJECTIE 1 FLACON  | 0,05  | ML  | 491,44032  |
+| 0B03XAAP V  | EU/1/01/185/109  | ARANESP 200 MCG OPLOSSING VOOR INJECTIE 4 FLACONS  | 0,05  | ML  | 491,44032  |
+| 0B03XAAP V  | EU/1/01/185/100  | ARANESP 25 MCG OPLOSSING VOOR INJECTIE 1 FLACON  | 0,40  | ML  | 61,43004  |
+| 0B03XAAP V  | EU/1/01/185/101  | ARANESP 25 MCG OPLOSSING VOOR INJECTIE 4 FLACONS  | 0,40  | ML  | 61,43004  |
+| 0B03XAAP V  | EU/1/01/185/110  | ARANESP 300 MCG OPLOSSING VOOR INJECTIE 1 FLACON  | 0,03  | ML  | 737,16048  |
+| 0B03XAAP V  | EU/1/01/185/111  | ARANESP 300 MCG OPLOSSING VOOR INJECTIE 4 FLACONS  | 0,03  | ML  | 737,16048  |
+| 0B03XAAP V  | EU/1/01/185/102  | ARANESP 40 MCG OPLOSSING VOOR INJECTIE 1 FLACON  | 0,25  | ML  | 98,28806  |
+| 0B03XAAP V  | EU/1/01/185/103  | ARANESP 40 MCG OPLOSSING VOOR INJECTIE 4 FLACONS  | 0,25  | ML  | 98,28806  |
+| 0B03XAAP V  | EU/1/01/185/104  | ARANESP 60 MCG OPLOSSING VOOR INJECTIE 1 FLACON  | 0,17  | ML  | 147,43210  |
+| 0B03XAAP V  | EU/1/01/185/105  | ARANESP 60 MCG OPLOSSING VOOR INJECTIE 4 FLACONS  | 0,17  | ML  | 147,43210  |
+| --- | --- | --- | --- | --- | --- |
+| 0C01CAAP V  | 108932  | ANAPEN 500MCG/ 0,3ML OPL. V. INJ. IN VOORGEV. SP.  | 0,59  | ML  | 251,99950  |
+| --- | --- | --- | --- | --- | --- |
+| 1C01DAAO V  | 109748//17289  | ISOSORBIDEMONONITRAAT FISHER RETARD CAPSULE 25MG  | 2,40  | STUK  | 0,22689  |
+| --- | --- | --- | --- | --- | --- |
+| 0C09CAAO V  | EU/1/07/405/021  | RASILEZ TABLET FILMOMHULD 150MG  | 1,00  | STUK  | 0,74420  |
+| 0C09CAAO V  | EU/1/07/405/031  | RASILEZ TABLET FILMOMHULD 300MG  | 0,50  | STUK  | 1,48840  |
+| 0C09CAAO V  | 101567  | VALSARTAN ACTAVIS 160 MG, FILMOMHULDE TABLETTEN  | 0,50  | STUK  | 1,48840  |
+| 0C09CAAO V  | 101566  | VALSARTAN ACTAVIS 80 MG, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 0,74420  |
+| --- | --- | --- | --- | --- | --- |
+| YC09DAAO V  | 110156//100453  | VALSARTAN/HCT FISHER TABL FILMOMHULD 320MG/12,5MG  | 1,00  | STUK  | 3,02853  |
+| --- | --- | --- | --- | --- | --- |
+| 0C10AAAO V  | 109888//21081  | ATORVASTATINE FISHER TABLET FILMOMHULD 10MG  | 2,00  | STUK  | 0,83042  |
+| 0C10AAAO V  | 109889//21082  | ATORVASTATINE FISHER TABLET FILMOMHULD 20MG  | 1,00  | STUK  | 1,38403  |
+| 0C10AAAO V  | 109890//21083  | ATORVASTATINE FISHER TABLET FILMOMHULD 40MG  | 0,50  | STUK  | 2,76806  |
+| 0C10AAAO V  | 105244  | ATORVASTATINE TEVA TABLET FILMOMHULD 10MG  | 2,00  | STUK  | 0,83042  |
+| 0C10AAAO V  | 105245  | ATORVASTATINE TEVA TABLET FILMOMHULD 20MG  | 1,00  | STUK  | 1,38403  |
+| 0C10AAAO V  | 105246  | ATORVASTATINE TEVA TABLET FILMOMHULD 40MG  | 0,50  | STUK  | 2,76806  |
+| 0C10AAAO V  | 109991//26872  | CRESTOR TABLET FILMOMHULD 10MG  | 1,00  | STUK  | 1,38403  |
+| --- | --- | --- | --- | --- | --- |
+| 0D01BABO V  | 106096  | TERBINAFINE AUROBINDO TABLET 250MG  | 1,00  | STUK  | 2,33152  |
+| --- | --- | --- | --- | --- | --- |
+| 0D07ADADL V  | 110216//33440  | CLOBEX SHAMPOO 0,5MG/G  | 1,00  | GRAM  | 0,18635  |
+| --- | --- | --- | --- | --- | --- |
+| 1G01AFBV V  | 110153//8934  | CANESTEN GYNO 3 VAGINAALTABLET 200MG + APPLICATOR  | 3,00  | STUK  | 1,96551  |
+| 1G01AFBV V  | 109793//10634  | GYNO DAKTARIN-1 VAGINAALCAPSULE 1200MG  | 1,00  | STUK  | 5,89654  |
+| --- | --- | --- | --- | --- | --- |
+| 0G03GABP V  | 109955//24536  | MENOPUR INJPDR FLACON 75IE + SOLV 1ML  | 1,00  | STUK  | 33,54345  |
+| --- | --- | --- | --- | --- | --- |
+| 1G03DABO V  | 109696//11473  | UTROGESTAN CAPSULE 100MG  | 3,00  | STUK  | 0,09573  |
+| --- | --- | --- | --- | --- | --- |
+| 0G04CAAO V  | 106165  | TAMSULOSINE HCL MYLAN RETARD TABLET MVA 0,4MG  | 1,00  | STUK  | 0,96201  |
+| --- | --- | --- | --- | --- | --- |
+| 0H01ACAP K  | 109954//17071  | HUMATROPE PENPATROON INJPDR PATR 12MG+SOLV 3,15ML  | 0,06  | STUK  | 581,41500  |
+| --- | --- | --- | --- | --- | --- |
+| 0L02AEADI V  | 105446  | VANTASSE 50 MG, IMPLANTAAT  | 0,08  | STUK  | 2208,73410  |
+| 0L02AEADI V  | 109739//18562  | ZOLADEX IMPLANTATIESTIFT 10,8MG IN WWSP  | 0,33  | STUK  | 552,22770  |
+| 0L02AEADI V  | 109855//18562  | ZOLADEX IMPLANTATIESTIFT 10,8MG IN WWSP  | 0,33  | STUK  | 552,22770  |
+| --- | --- | --- | --- | --- | --- |
+| 0L02BGAO V  | 110053//19123  | ARIMIDEX TABLET FILMOMHULD 1MG  | 1,00  | STUK  | 4,71931  |
+| --- | --- | --- | --- | --- | --- |
+| 0L03AADP V  | EU/1/02/221/011  | PEGASYS 135MCG/0,5ML OPL.VOOR INJ.IN VOORGEV. PEN  | 0,10  | ML  | 288,43726  |
+| 0L03AADP V  | EU/1/02/221/012  | PEGASYS 135MCG/0,5ML OPL.VOOR INJ.IN VOORGEV. PEN  | 0,10  | ML  | 288,43726  |
+| 0L03AADP V  | EU/1/02/221/013  | PEGASYS 135MCG/O,5ML OPL.VOOR INJ.IN VOORGEV. PEN  | 0,10  | ML  | 288,43726  |
+| 0L03AADP V  | EU/1/02/221/014  | PEGASYS 180MCG/0,5ML OPL.VOOR INJ.IN VOORGEV. PEN  | 0,07  | ML  | 384,58302  |
+| 0L03AADP V  | EU/1/02/221/015  | PEGASYS 180MCG/0,5ML OPL.VOOR INJ.IN VOORGEV. PEN  | 0,07  | ML  | 384,58302  |
+| 0L03AADP V  | EU/1/02/221/016  | PEGASYS 180MCG/0,5ML OPL.VOOR INJ.IN VOORGEV. PEN  | 0,07  | ML  | 384,58302  |
+| --- | --- | --- | --- | --- | --- |
+| 0M01AHBO V  | 110164//34279  | ARCOXIA TABLET FILMOMHULD 30MG  | 2,00  | STUK  | 0,67913  |
+| --- | --- | --- | --- | --- | --- |
+| 1M01AEAO V  | 110165//13331  | BRUFEN BRUIS 600MG BRUISGRANULAAT IN SACHET  | 2,00  | STUK  | 0,27832  |
+| 1M01AEAO V  | 101715  | IBUPROFEN PCH BRUISGRANULAAT 600MG IN SACHET  | 2,00  | STUK  | 0,27832  |
+| --- | --- | --- | --- | --- | --- |
+| 0N02BEDO V  | 109093  | PARACETAMOL TEVA TABLET 1000MG  | 3,00  | STUK  | 0,11300  |
+| --- | --- | --- | --- | --- | --- |
+| 4N05AXAO V  | 109698//34628  | SEROQUEL XR TABLET MVA 400MG  | 0,75  | STUK  | 5,28402  |
+| --- | --- | --- | --- | --- | --- |
+| 0N06AAAO V  | 110094//3285  | NORTRILEN TABLET 10MG  | 7,50  | STUK  | 0,07666  |
+| 0N06AAAO V  | 110092//11407  | NORTRILEN TABLET 50MG  | 1,50  | STUK  | 0,29485  |
+| --- | --- | --- | --- | --- | --- |
+| 0R01ADAN V  | 110126//23837  | RHINOCORT NEVEL NEUSSPRAY 32MCG/DO 120DO  | 6,25  | DO  | 0,07684  |
+| --- | --- | --- | --- | --- | --- |
+| YR03ACCIDCV  | 109811//23530  | SERETIDE DISKUS INHPDR 50/250MCG 60DO  | 1,00  | DO  | 0,90703  |
+| --- | --- | --- | --- | --- | --- |
+| YR03AKAIDCV  | 110163//25886  | SYMBICORT TURBUHALER INHALPDR 100/6MCG/DO 60DO  | 1,00  | DO  | 0,39413  |
+| YR03AKAIDCV  | 109878//25886  | SYMBICORT TURBUHALER INHALPDR 100/6MCG/DO 120DO  | 1,00  | oO  | 0,39413  |
+| --- | --- | --- | --- | --- | --- |
+| 2R06AEAO V  | 110193//17708  | KESTINE TABLET 10MG  | 1,00  | STUK  | 0,50499  |
+| 2R06AEAO V  | 34425  | RUPAFIN TABLET 10MG  | 1,00  | STUK  | 0,50499  |
+| --- | --- | --- | --- | --- | --- |
+| 0S01BABG V  | 109981//18658  | MONOFREE DEXAMETHASON OOGDR 1MG/ML MINIM 0,4ML  | 4,00  | STUK  | 0,39116  |
+| --- | --- | --- | --- | --- | --- |
+| 0S01EXAG V  | 110091//21304  | XALATAN OOGDRUPPELS 50MCG/ML FLACON 2,5ML  | 0,20  | ML  | 8,54016  |
+| --- | --- | --- | --- | --- | --- |
+| YS01CAEG V  | 110034//14223  | TOBRADEX OOGDRUPPELS FLACON 5ML  | 1,00  | ML  | 1,15170  |
+| --- | --- | --- | --- | --- | --- |
+| YS01EDCG V  | 109749//22871  | COSOPT OOGDRUPPELS FLACON 5ML  | 1,00  | ML  | 3,13380  |
+| --- | --- | --- | --- | --- | --- |
+| 0V01AAAO V  | 109980//33788  | GRAZAX LYOPHILISAAT V ORAAL GEBRUIK 75000 SQ-T  | 1,00  | STUK  | 3,30000  |
+| 0V01AAAO V  | 110195//33788  | GRAZAX LYOPHILISAAT V ORAAL GEBRUIK 75000 SQ-T  | 1,00  | STUK  | 3,30000  |
 
 ### B  
 
@@ -11887,7 +12180,7 @@ J.F.Hoogervorst
 | EU/1/06/379/001  | Cystadane poeder  |
 | EU/1/97/039/001  | Cystagon capsule 50mg  |
 | EU/1/97/039/003  | Cystagon capsule 150mg  |
-| 33181//2784  | Cytomel tablet 25mcg  |
+| 33181//2784  | LIOTHYRONINENATRIUM ERC TABLET 25MCG  |
 | 34991//2784  | LIOTHYRONINENATRIUM GLOBAL FARMA TABLET 25MCG  |
 | 13724  | Cytotec tablet 200mcg  |
 | 101225//17877  | Daivonex creme 50mcg/g  |
@@ -12076,7 +12369,6 @@ J.F.Hoogervorst
 | 25186  | Hydrocortison zalf 10mg/g  |
 | 7487  | Hypnomidate injvlst 2mg/ml ampul 10ml  |
 | 15195  | Immukine injvlst 0,2mg/ml flacon 0,5ml  |
-| 16942  | Immunoglobuline normaal iv infpdr  |
 | 103096//21168  | IMPLANON NXT IMPLANTAAT IN APPLICATOR 68MG  |
 | 21168  | IMPLANON NXT IMPLANTAAT IN APPLICATOR 68MG  |
 | 7290  | Imuran injectiepoeder flacon 50mg  |
@@ -12090,14 +12382,11 @@ J.F.Hoogervorst
 | 56078  | Infvlst conc kcl 149,0mg/ml ampul 10ml kunststof  |
 | 51051  | Infvlst gluc/nacl 25/4,5mg/ml  |
 | 55241  | Infvlst gluc/nacl 25/4,5mg/ml  |
-| 55271  | Infvlst gluc/nacl 25/4,5mg/ml  |
 | 28838  | Infvlst gluc/nacl 25/4,5mg/ml  |
 | 51666  | Infvlst gluc/nacl 25/4,5mg/ml  |
-| 55278  | Infvlst gluc/nacl 33/3,0mg/ml  |
 | 51667  | Infvlst gluc/nacl 37,5/2,25mg/ml  |
 | 55213  | Infvlst glucosum 50mg/ml  |
 | 55213  | Infvlst glucosum 50mg/ml  |
-| 55258  | Infvlst glucosum 50mg/ml  |
 | 51047  | Infvlst glucosum 50mg/ml  |
 | 51661  | Infvlst glucosum 50mg/ml  |
 | 27516  | INFVLST GLUCOSUM 50MG/ML  |
@@ -12138,7 +12427,6 @@ J.F.Hoogervorst
 | 28309  | Infvlst ringer/lactaat  |
 | 51058  | Infvlst ringer/lactaat  |
 | 51694  | Infvlst ringer/lactaat  |
-| 55268  | INFVLST RINGER/LACTAAT  |
 | 53418  | Injpdr penicilline g natr kngsf flac 1.000.000ie  |
 | 51926  | Injvlst calcii gluconas 0,225mmol/ml amp 10ml  |
 | 52303  | Injvlst carbacholum 0,25mg/ml ampul 1ml  |
@@ -12688,7 +12976,6 @@ J.F.Hoogervorst
 | 7828  | Xylocaine injvlst 10mg/ml  |
 | 7829  | Xylocaine injvlst 20mg/ml  |
 | 7831  | Xylocaine spray 100mg/ml in verstuiver  |
-| 1639  | Xylocaine viskeus 20mg/ml drank  |
 | 7833  | Xylocaine+adrenaline inj 2%/1: 80.000 cyl.amp1,8ml  |
 | EU/1/05/312/001  | Xyrem drank 500mg/ml  |
 | 886  | Yomesan tablet 500mg  |
@@ -12718,11 +13005,11 @@ J.F.Hoogervorst
 | 16448  | DEPOTHAL HUISSTOFMIJT D FAR INST 4FL 5ML +15WWSP  |
 | 16448  | DEPOTHAL HUISSTOFMIJT D FAR VERV 1FL 5ML +15WWSP  |
 | EU/1/07/404/001  | FLEBOGAMMADIF 50MG/ML VIAL 10ML  |
-| EU/1/07/404/002  | FLEBOGAMMADIF INFVLST 50MG/ML FLACON 50ML  |
-| EU/1/07/404/003  | FLEBOGAMMADIF INFVLST 50MG/ML FLACON 100ML  |
-| EU/1/07/404/004  | FLEBOGAMMADIF INFVLST 50MG/ML FLACON 200ML  |
-| EU/1/07/404/005  | FLEBOGAMMADIF INFVLST 50MG/ML FLACON 400ML  |
-| 104881//21168  | IMPLANON NXT IMPLANTAAT IN APPLICATOR 68 MG;  |
+| EU/1/07/404/002  | FLEBOGAMMA DIF INFVLST 50MG/ML FLACON 50ML  |
+| EU/1/07/404/003  | FLEBOGAMMA DIF INFVLST 50MG/ML FLACON 100ML  |
+| EU/1/07/404/004  | FLEBOGAMMA DIF INFVLST 50MG/ML FLACON 200ML  |
+| EU/1/07/404/005  | FLEBOGAMMA DIF INFVLST 50MG/ML FLACON 400ML  |
+| 104881//21168  | IMPLANON NXT IMPLANTAAT IN APPLICATOR 68 MG  |
 | EU/1/08/497/001  | NPLATE INJECTIEPOEDER FLACON 250MCG  |
 | EU/1/08/497/002  | NPLATE INJECTIEPOEDER FLACON 500MCG  |
 | 104693//859  | PURINETHOL TABLET 50MG  |
@@ -13034,6 +13321,31 @@ J.F.Hoogervorst
 | 109682//27  | SUSTANON 250 INJVLST 250MG/ML AMPUL 1ML  |
 | 109728//28113  | ZALDIAR TABLET FILMOMHULD  |
 
+| --- | --- |
+|:---|:---|
+| 109833//32744  | COMBIGAN OOGDRUPPELS FLACON 5ML  |
+| 109684//13724  | CYTOTEC TABLET 200MCG  |
+| 109756//8938  | NIZORAL TABLET 200MG  |
+| EU/1/08/422/002  | PRADAXA CAPSULE 75MG  |
+| 109956//26191  | SPIRIVA INHALPDR 18MCG  |
+| 109946//34382  | SPIRIVA RESPIMAT OPL V INHAL 2,5MCG/DO PATR 60DO  |
+| EU/1/00/156/004  | TRIZIVIR TABLET FILMOMHULD  |
+| EU/1/07/440/001  | TYVERB 250 MG FILMOMHULDE TABLETTEN 70 STUKS  |
+| EU/1/07/440/002  | TYVERB TABLET OMHULD 250 MG  |
+| EU/1/07/440/003  | TYVERB 250 MG FILMOMHULDE TABLETTEN 84 STUKS  |
+
+| --- | --- |
+|:---|:---|
+| 109967//4473  | ALKERAN TABLET FILMOMHULD 2MG  |
+| EU/1/09/601/001  | FIRDAPSE TABLET 10MG  |
+| 110048//29964  | INSPRA TABLET 50MG  |
+| EU/1/96/016/008  | NORVIR 80 MG/ML DRANK  |
+| 110190//21551  | PHOSPHORAL DRANK  |
+| 109933//8071  | RESONIUM A POEDER  |
+| 109979//34382  | SPIRIVA RESPIMAT OPL V INHAL 2,5MCG/DO PATR 60DO  |
+| 110037//14224  | TOBRADEX OOGZALF TUBE 3,5G  |
+| EU/1/08/472/003  | XARELTO TABLET FILMOMHULD 10MG  |
+
 ### Bijlage  2  
 
 ####horende bij artikel 2.5, tweede en derde lid , van de Regeling zorgverzekering
@@ -13318,7 +13630,7 @@ b. voor dat geneesmiddel een niet-geregistreerde indicatie heeft en lijdt aan ee
 
 ### 28  
 
-#### *Ambrisentan, bosentan, epoprostenol intraveneus, iloprost voor inhalatie, sildenafil, sitaxentan, tadalafil en treprostinil subcutaan* 
+#### *Ambrisentan, bosentan, epoprostenol intraveneus, iloprost voor inhalatie, sildenafil, tadalafil en treprostinil subcutaan* 
 
 Voorwaarde: uitsluitend voor een verzekerde die: 
 
@@ -13326,7 +13638,7 @@ a. lijdt aan pulmonale arteriële hypertensie New York Heart Association klasse 
 
 b. lijdt aan pulmonale arteriële hypertensie New York Heart Association klasse III of IV en die krijgt voorgeschreven: 
 
-1°. één van de orale geneesmiddelen ambrisentan, bosentan, sitaxentan, sildenafil of tadalafil, of een combinatie van twee orale geneesmiddelen uit verschillende farmacologische groepen,  
+1°. één van de orale geneesmiddelen ambrisentan, bosentan, sildenafil of tadalafil, of een combinatie van twee orale geneesmiddelen uit verschillende farmacologische groepen,  
 
 2°. een combinatie van een oraal geneesmiddel met iloprost voor inhalatie of met epoprostenol intraveneus of met treprostinil subcutaan,  
 
@@ -13502,11 +13814,7 @@ g. die voor dit geneesmiddel een niet-geregistreerde indicatie heeft en lijdt aa
 
 #### *Ivabradine* 
 
-Voorwaarde: uitsluitend voor een verzekerde met stabiele angina pectoris die een contra-indicatie of intolerantie heeft voor een bètablokker en: 
-
-a. die een contra-indicatie voor of klinisch relevante bijwerkingen heeft op diltiazem of op de combinatie van een langwerkend nitraat en een dihydropyridine calciumantagonist, of  
-
-b. bij wie sprake is van onvoldoende anti-angineus effect bij de behandeling met diltiazem of met de combinatie van een langwerkend nitraat en een dihydropyridine calciumantagonist,   en die ivabradine als monotherapie of als combinatietherapie samen met een langwerkend nitraat of een dihydropyridine calciumantagonist gebruikt  
+Voorwaarde: uitsluitend voor een verzekerde met stabiele angina pectoris die een contra-indicatie of intolerantie heeft voor een bètablokker en niet uitkomt met diltiazem of de combinatie van een langwerkend nitraat en een dihydropyridine calciumantagonist, en die ivabradine als monotherapie of als tweevoudige therapie samen met een langwerkend nitraat of een dihydropyridine calciumantagonist gebruikt.  
 
 ### 51  
 
@@ -13685,6 +13993,16 @@ b. met actieve juveniele idiopatische artritis met een polyarticulair beloop, bi
 ####Ticagrelor
 
 Voorwaarde: uitsluitend voor een verzekerde die is aangewezen op het geneesmiddel in combinatie met acetylsalicylzuur bij een acuut coronair syndroom (instabiele angina pectoris, myocardinfarct met ST-segmentstijging of myocardinfarct zonder ST-segmentstijging), zowel bij medicamenteus behandelde patiënten als bij patiënten die een percutane coronaire interventie of arteriële coronaire bypasschirurgie moeten ondergaan.  
+
+### 71  
+
+Dit onderdeel is nog niet in werking getreden.   
+
+### 72  
+
+####Lapatinib
+
+Voorwaarde: uitsluitend voor een verzekerde postmenopauzale vrouw met gemetastaseerde borstkanker zonder snelle progressie, zonder uitgebreide viscerale metastasen en zonder hersenmetastasen, waarbij de tumor een overexpressie van HER2 (ErbB2) vertoont en hormoonreceptorpositief is, die dit middel gebruikt in combinatie met een aromataseremmer en die niet in aanmerking komt voor chemotherapie.  
 
 ### Bijlage  3  
 
@@ -14461,339 +14779,416 @@ Bijlage behorend bij artikel 6.3.1 van de Regeling zorgverzekering Het in artike
 
 ### Bijlage  9  
 
-####van de Regeling zorgverzekering
+####van Regeling zorgverzekering
 
 Bijlage behorende bij artikel 8.3, eerste lid, onderdeel a   
 
-| CER grp  | ATC-code (per 2009)  | stofnaam/omschrijving ATC-code  | DDD-waarde per toedieningsweg/opmerkingen  |--- |--- |  *O*   | oraal  |  *O (aer)*   | oraal aerosol  |  *mcg*   | microgram  |--- |--- |  *P*   | parenteraal  |  *P (depot)*   | parenteraal depot  |  *mg*   | milligram  |--- |--- |  *R*   | rectaal  |--- |--- |--- |  *g*   | gram  |--- |--- |  *INH*   | inhalatie  |  *INH (aer)*   | inhalatie aerosol  |  *ml*   | milliliter  |--- |--- |--- |--- |  *INH (pdr)*   | inhalatie poeder  |  *IE*   | internationale eenheid  |--- |--- |--- |--- |  *INH (opl)*   | inhalatie oplossing  |  *MIE*   | miljoen internationale eenheden  |--- |--- |  *TD*   | transdermaal  |--- |--- |  *do*   | dosis  |--- |--- |  *SL*   | sublinguaal  |--- |--- |  *tabl*   | tablet  |--- |--- |  *OCU*   | oculair  |--- |--- |--- |  *mcg*   | microgram   |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| --- |  *Tabel 1*   |  *Aandoeningen van hersenen en ruggemerg*   |  *O*   |  *P*   | --- | --- | --- | --- |
-|  *NMA*   | M03BX01  | BACLOFEN  | 50 mg  | 0,55 mg  | --- | --- | --- | --- |
-|  *NMA*   | L03AX13  | GLATIRAMEER  | --- | 20 mg  | --- | --- | --- | --- |
-|  *NMA*   | L03AB07  | INTERFERON BETA-1A  | --- | 4,3 mcg  | --- | --- | --- | --- |
-|  *NMA*   | L03AB08  | INTERFERON BETA-1B  | --- | 4 MIE  | --- | --- | --- | --- |
-|  *NMA*   | N07XX02  | RILUZOL  | 0,1 g  | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 2*   |  *Astma/COPD*   |  *O*   |  *P*   |  *R*   | *INH* (aer)  | *INH* (pdr)  | *INH* (opl)  |
-|  *CAR*   | R03BA01  | BECLOMETASON  | --- | --- | --- | 0,8 mg  | 0,8 mg  | 1,5 mg  |
-|  *CAR*   | R03BA02  | BUDESONIDE  | --- | --- | --- | 0,8 mg  | 0,8 mg  | 1,5 mg  |
-|  *CAR*   | R03BA08  | CICLESONIDE  | --- | --- | --- | 0,16 mg  | --- | --- |
-|  *CAR*   | R03BC01  | CROMOGLICINEZUUR  | --- | --- | --- | 40 mg  | 80 mg  | 80 mg  |
-|  *CAR*   | R03AK03  | FENOTEROL en andere ASTMA/COPD-middelen  | --- | --- | --- | 6 do  | 3 patroon  | --- |
-|  *CAR*   | R03BA05  | FLUTICASON  | --- | --- | --- | 0,6 mg  | 0,6 mg  | 1,5 mg  |
-|  *CAR*   | R03AC13  | FORMOTEROL  | --- | --- | --- | 24 mcg  | 24 mcg  | --- |
-|  *CAR*   | R03AK07  | FORMOTEROL en andere ASTMA/COPD-middelen  | --- | --- | --- | 4 do  | 24 mcg  | --- |
-|  *CAR*   | R03BB01  | IPRATROPIUM  | --- | --- | --- | 0,12 mg  | 0,12 mg  | 0,3 mg  |
-|  *CAR*   | R03DC03  | MONTELUKAST  | 10 mg  | --- | --- | --- | --- | --- |
-|  *CAR*   | R03BC03  | NEDOCROMIL  | --- | --- | --- | 8 mg  | --- | --- |
-|  *CAR*   | R03AC02  | SALBUTAMOL  | --- | --- | --- | 0,8 mg  | 0,8 mg  | 10 mg  |
-|  *CAR*   | R03CC02  | SALBUTAMOL  | 12 mg  | 12 mg  | --- | --- | --- | --- |
-|  *CAR*   | R03AK04  | SALBUTAMOL en andere ASTMA/COPD-middelen  | --- | --- | --- | 6 do  | --- | 7,5 ml  |
-|  *CAR*   | R03AC12  | SALMETEROL  | --- | --- | --- | 0,1 mg  | 0,1 mg  | --- |
-|  *CAR*   | R03AK06  | SALMETEROL en andere ASTMA/COPD-middelen  | --- | --- | --- | 4 do  | 2 do  | --- |
-|  *CAR*   | R03AC03  | TERBUTALINE  | --- | --- | --- | 2 mg  | 2 mg  | 20 mg  |
-|  *CAR*   | R03CC03  | TERBUTALINE  | 15 mg  | 15 mg  | --- | --- | --- | --- |
-|  *CAR*   | R03DA04  | THEOFYLLINE  | 0,4 g  | 0,4 g  | 0,4 g  | --- | --- | --- |
-|  *CAR*   | R03BB04  | TIOTROPIUM  | --- | --- | --- | --- | 18 mcg  | 5 mcg  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 3*   |  *Cystic Fibrosis/pancreas*   | *INH* (opl)  |  *O*   | --- | --- | --- | --- |
-|  *CFP*   | R05CB13  | DORNASE ALFA  | 2,5 mg  | --- | --- | --- | --- | --- |
-|  *CFP*   | A09AA02  | MULTI-ENZYMEN  | --- | --- | 6 tabl (4 forte tabl)  | 8 g  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 4*   |  *Diabetes I en II*   |  *O*   |  *P*   |  *INH*   | --- | --- | --- |
-|  *DIA*   | A10BF01  | ACARBOSE  | 0,3 g  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BX04  | EXENATIDE  | --- | 15 mcg  | --- | --- | --- | --- |
-|  *DIA*   | A10BB01  | GLIBENCLAMIDE  | 10 mg  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BB09  | GLICLAZIDE  | 0,16 g  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BB12  | GLIMEPIRIDE  | 2 mg  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BD04  | GLIMEPIRIDE en ROSIGLITAZON  | 1 tabl  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10AF01  | INSULINE, INHALATIE/HUMAAN  | --- | --- | 15 mg  | --- | --- | --- |
-|  *DIA*   | A10AE05  | INSULINE, LANG/DETEMIR  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AE04  | INSULINE, LANG/GLARGINE  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AD05  | INSULINE, MIDDELSNEL en SNEL/ASPART  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AD01  | INSULINE, MIDDELSNEL en SNEL/HUMAAN  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AD04  | INSULINE, MIDDELSNEL en SNEL/LISPRO  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AC01  | INSULINE, MIDDELSNEL/HUMAAN  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AB05  | INSULINE, SNEL/ASPART  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AB06  | INSULINE, SNEL/GLULISINE  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AB01  | INSULINE, SNEL/HUMAAN  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10AB04  | INSULINE, SNEL/LISPRO  | --- | 40 IE  | --- | --- | --- | --- |
-|  *DIA*   | A10BA02  | METFORMINE  | 2 g  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BD05  | METFORMINE en PIOGLITAZON  | 2 tabl  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BD03  | METFORMINE en ROSIGLITAZON  | 2 tabl  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BD07  | METFORMINE en SITAGLIPTINE  | 2 tabl  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BD02  | METFORMINE en SULFONYLUREUMDERIVATEN  | 2 tabl  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BD08  | METFORMINE en VILDAGLIPTINE  | 2 tabl  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BG03  | PIOGLITAZON  | 30 mg  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BX02  | REPAGLINIDE  | 4 mg  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BG02  | ROSIGLITAZON  | 6 mg  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BH01  | SITAGLIPTINE  | 0,1 g  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BB03  | TOLBUTAMIDE  | 1,5 g  | --- | --- | --- | --- | --- |
-|  *DIA*   | A10BH02  | VILDAGLIPTINE  | 0,1 g  | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 5*   |  *Epilepsie*   |  *O*   |  *P*   |  *R*   | --- | --- | --- |
-|  *EPI*   | N03AF01  | CARBAMAZEPINE  | 1 g  | --- | 1 g  | --- | --- | --- |
-|  *EPI*   | N03AD01  | ETHOSUXIMIDE  | 1,25 g  | --- | --- | --- | --- | --- |
-|  *EPI*   | N03AX10  | FELBAMAAT  | 2,4 g  | --- | --- | --- | --- | --- |
-|  *EPI*   | N03AA02  | FENOBARBITAL  | 0,1 g  | 0,1 g  | --- | --- | --- | --- |
-|  *EPI*   | N03AB02  | FENYTOINE  | 0,3 g  | 0,3 g  | --- | --- | --- | --- |
-|  *EPI*   | N03AX18  | LACOSAMIDE  | 0,3 g  | 0,3 g  | --- | --- | --- | --- |
-|  *EPI*   | N03AX09  | LAMOTRIGINE  | 0,3 g  | --- | --- | --- | --- | --- |
-|  *EPI*   | N03AX14  | LEVETIRACETAM  | 1,5 g  | 1,5 g  | --- | --- | --- | --- |
-|  *EPI*   | N03AF02  | OXCARBAZEPINE  | 1 g  | --- | --- | --- | --- | --- |
-|  *EPI*   | N03AA03  | PRIMIDON  | 1,25 g  | --- | --- | --- | --- | --- |
-|  *EPI*   | N03AX17  | STIRIPENTOL  | 1 g  | --- | --- | --- | --- | --- |
-|  *EPI*   | N03AX03  | SULTIAM  | 0,4 g  | --- | --- | --- | --- | --- |
-|  *EPI*   | N03AX11  | TOPIRAMAAT  | 0,3 g  | --- | --- | --- | --- | --- |
-|  *EPI*   | N03AG01  | VALPROINEZUUR  | 1,5 g  | 1,5 g  | 1,5 g  | --- | --- | --- |
-|  *EPI*   | N03AG04  | VIGABATRINE  | 2 g  | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 6*   |  *Glaucoom*   |  *O*   |  *P*   |  *OCU*   | --- | --- | --- |
-|  *GLA*   | S01EC01  | ACETAZOLAMIDE  | 0,75 g  | 0,75 g  | --- | --- | --- | --- |
-|  *GLA*   | S01EA03  | APRACLONIDINE  | --- | --- | 0,3 ml  | --- | --- | --- |
-|  *GLA*   | S01ED02  | BETAXOLOL  | --- | --- | 0,2 ml  | --- | --- | --- |
-|  *GLA*   | S01EE03  | BIMATOPROST  | --- | --- | 0,1 ml  | --- | --- | --- |
-|  *GLA*   | S01EA05  | BRIMONIDINE  | --- | --- | 0,2 ml  | --- | --- | --- |
-|  *GLA*   | S01EC04  | BRINZOLAMIDE  | --- | --- | 0,2 ml  | --- | --- | --- |
-|  *GLA*   | S01ED05  | CARTEOLOL  | --- | --- | 0,2 ml  | --- | --- | --- |
-|  *GLA*   | S01EA02  | DIPIVEFRINE  | --- | --- | 0,2 ml  | --- | --- | --- |
-|  *GLA*   | S01EC03  | DORZOLAMIDE  | --- | --- | 0,3 ml  | --- | --- | --- |
-|  *GLA*   | S01EE01  | LATANOPROST  | --- | --- | 0,1 ml  | --- | --- | --- |
-|  *GLA*   | S01ED03  | LEVOBUNOLOL  | --- | --- | 0,2 ml  | --- | --- | --- |
-|  *GLA*   | S01ED04  | METIPRANOLOL  | --- | --- | 0,2 ml  | --- | --- | --- |
-|  *GLA*   | S01ED54  | METIPRANOLOL, COMBINATIES  | --- | --- | 0,3 ml  | --- | --- | --- |
-|  *GLA*   | S01EB01  | PILOCARPINE  | --- | --- | 0,4 ml/40 mg  | --- | --- | --- |
-|  *GLA*   | S01ED01  | TIMOLOL  | --- | --- | 0,2 ml  | --- | --- | --- |
-|  *GLA*   | S01ED51  | TIMOLOL, COMBINATIES  | --- | --- | 0,2 ml/0,1 ml  | --- | --- | --- |
-|  *GLA*   | S01EE04  | TRAVOPROST  | --- | --- | 0,1 ml  | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 7*   |  *Groeihormonen*   |  *P*   | --- | --- | --- | --- | --- |
-|  *GRO*   | H01AC03  | MECASERMINE  | 2 mg  | --- | --- | --- | --- | --- |
-|  *GRO*   | H01AC01  | SOMATROPINE  | 2 IE (=0,67 mg)  | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 8*   |  *Hartaandoeningen*   |  *O*   | *O* (aer)  |  *P*   |  *SL*   |  *TD*   | --- |
-|  *HAR*   | C01BD01  | AMIODARON  | 0,2 g  | --- | 0,2 g  | --- | --- | --- |
-|  *HAR*   | C03CA02  | BUMETANIDE  | 1 mg  | --- | 1 mg  | --- | --- | --- |
-|  *HAR*   | C01AA05  | DIGOXINE  | 0,25 mg  | --- | 0,25 mg  | --- | --- | --- |
-|  *HAR*   | C01BA03  | DISOPYRAMIDE  | 0,4 g  | --- | 0,4 g  | --- | --- | --- |
-|  *HAR*   | C01CE03  | ENOXIMON  | --- | --- | 1 g  | --- | --- | --- |
-|  *HAR*   | C01BC04  | FLECAINIDE  | 0,2 g  | --- | 0,2 g  | --- | --- | --- |
-|  *HAR*   | C03CA01  | FUROSEMIDE  | 40 mg  | --- | 40 mg  | --- | --- | --- |
-|  *HAR*   | C01CA16  | IBOPAMINE  | 0,3 g  | --- | --- | --- | --- | --- |
-|  *HAR*   | C01EB03  | INDOMETACINE  | --- | --- | 1 mg  | --- | --- | --- |
-|  *HAR*   | C01CA02  | ISOPRENALINE  | 90 mg  | --- | 90 mg  | --- | --- | --- |
-|  *HAR*   | C01DA08  | ISOSORBIDE DINITRAAT  | 60 mg  | 20 mg  | 10 mg  | 20 mg  | 0,1 g  | --- |
-|  *HAR*   | C01DA14  | ISOSORBIDE MONONITRAAT  | 40 mg  | --- | --- | --- | --- | --- |
-|  *HAR*   | C01EB17  | IVABRADINE  | 10 mg  | --- | --- | --- | --- | --- |
-|  *HAR*   | C01BA01  | KINIDINE  | 1,2 g  | --- | --- | --- | --- | --- |
-|  *HAR*   | C01BB01  | LIDOCAINE  | --- | --- | 3 g  | --- | --- | --- |
-|  *HAR*   | C01CE02  | MILRINON  | --- | --- | 50 mg  | --- | --- | --- |
-|  *HAR*   | C01DX16  | NICORANDIL  | 40 mg  | --- | --- | --- | --- | --- |
-|  *HAR*   | C01DA02  | NITROGLYCERINE  | 5 mg  | 2,5 mg  | 10 mg  | 2,5 mg  | 5 mg  | --- |
-|  *HAR*   | C01BC03  | PROPAFENON  | 0,3 g  | --- | 0,3 g  | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 9*   |  *HIV/AIDS*   |  *O*   |  *P*   | --- | --- | --- | --- |
-|  *HIV*   | J05AF06  | ABACAVIR  | 0,6 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE05  | AMPRENAVIR  | 1,2 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE08  | ATAZANAVIR  | 0,3 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE10  | DARUNAVIR  | 1,2 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AF02  | DIDANOSINE  | 0,4 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AG03  | EFAVIRENZ  | 0,6 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AF09  | EMTRICITABINE  | 0,2 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AR06  | EMTRICITABINE en TENOFOVIR en EFAVIRENZ  | 1 tabl  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AX07  | ENFUVIRTIDE  | --- | 0,18 g  | --- | --- | --- | --- |
-|  *HIV*   | J05AG04  | ETRAVIRINE  | 0,4 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE07  | FOSAMPRENAVIR  | 1,4 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AD01  | FOSCARNET  | --- | 6,5 g  | --- | --- | --- | --- |
-|  *HIV*   | J05AB06  | GANCICLOVIR  | 3 g  | 0,5 g  | --- | --- | --- | --- |
-|  *HIV*   | J05AE02  | INDINAVIR  | 2,4 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AF05  | LAMIVUDINE  | 0,3 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AR02  | LAMIVUDINE en ABACAVIR  | 1 tabl  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE06  | LOPINAVIR  | 0,8 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AX09  | MARAVIROC  | 0,6 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE04  | NELFINAVIR  | 2,25 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AG01  | NEVIRAPINE  | 0,4 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AX08  | RALTEGRAVIR  | 0,8 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE03  | RITONAVIR  | 1,2 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE01  | SAQUINAVIR  | 1,8 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AF04  | STAVUDINE  | 80 mg  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AF07  | TENOFOVIR  | 0,245 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AR03  | TENOFOVIR en EMTRICITABINE  | 1 tabl  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AE09  | TIPRANAVIR  | 1 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AB14  | VALGANCICLOVIR  | 0,9 g  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AF03  | ZALCITABINE  | 2,25 mg  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AF01  | ZIDOVUDINE  | 0,6 g  | 0,6 g  | --- | --- | --- | --- |
-|  *HIV*   | J05AR01  | ZIDOVUDINE en LAMIVUDINE  | 2 tabl  | --- | --- | --- | --- | --- |
-|  *HIV*   | J05AR04  | ZIDOVUDINE en LAMIVUDINE en ABACAVIR  | 2 tabl  | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 10*   |  *Kanker*   |  *O*   |  *P*   |  *anders*   | --- | --- | --- |
-|  *KAN*   | L03AC01  | ALDESLEUKINE  | --- | 18 MIE (=1 mg)  | --- | --- | --- | --- |
-|  *KAN*   | L01XX01  | AMSACRINE  | --- | 225 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01XX25  | BEXAROTEEN  | 75 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01DC01  | BLEOMYCINE  | --- | 4,285 IE  | --- | --- | --- | --- |
-|  *KAN*   | L01XX32  | BORTEZOMIB  | --- | 3,5 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01AB01  | BUSULFAN  | 4 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01BC06  | CAPECITABINE  | 2500 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01AA02  | CHLOORAMBUCIL  | 10 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01XA01  | CISPLATINE  | --- | 8 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01AA01  | CYCLOFOSFAMIDE  | 150 mg  | 150 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01BC01  | CYTARABINE  | --- | 150 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01AX04  | DACARBAZINE  | --- | 100 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01DA01  | DACTINOMYCINE  | --- | 0,5 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01XE06  | DASATINIB  | 140 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01DB02  | DAUNORUBICINE  | --- | 60 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01DB01  | DOXORUBICINE  | --- | 5 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01DB03  | EPIRUBICINE  | --- | 5 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01XE03  | ERLOTINIB  | 150 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01XX11  | ESTRAMUSTINE  | 700 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01CB01  | ETOPOSIDE  | 100 mg  | 100 mg  | --- | --- | --- | --- |
-|  *KAN*   | L03AA02  | FILGRASTIM  | --- | 0,35 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01BB05  | FLUDARABINE  | 10 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01BC02  | FLUOROURACIL  | --- | 100 mg  | 50 mg/g  | --- | --- | --- |
-|  *KAN*   | L01XX05  | HYDROXYCARBAMIDE  | 2,5 g  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01DB06  | IDARUBICINE  | --- | 5 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01AA06  | IFOSFAMIDE  | --- | 500 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01XE01  | IMATINIB  | 400 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L04AX04  | LENALIDOMIDE  | 10 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L03AA10  | LENOGRASTIM  | --- | 0,35 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01AD02  | LOMUSTINE  | 5 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01AA03  | MELFALAN  | 10 mg  | 2,5 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01BB02  | MERCAPTOPURINE  | 150 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01DC03  | MITOMYCINE  | --- | 2 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01XX23  | MITOTAAN  | 500 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01DB07  | MITOXANTRON  | --- | 1 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01XE08  | NILOTINIB  | 800 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L03AA13  | PEGFILGRASTIM  | --- | 0,3 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01XB01  | PROCARBAZINE  | 150 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01XE05  | SORAFENIB  | 200 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01XE04  | SUNITINIB  | 25 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01BC53  | TEGAFUR, COMBINATIES  | 1 tabl  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01AX03  | TEMOZOLOMIDE  | 100 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01CB02  | TENIPOSIDE  | --- | 25 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01AC01  | THIOTEPA  | --- | --- | 15 mg  | --- | --- | --- |
-|  *KAN*   | L01BB03  | TIOGUANINE  | 150 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01XX17  | TOPOTECAN  | 1 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01XX14  | TRETINOINE  | 10 mg  | --- | --- | --- | --- | --- |
-|  *KAN*   | L01CA01  | VINBLASTINE  | --- | 1,5 mg  | --- | --- | --- | --- |
-|  *KAN*   | L01CA02  | VINCRISTINE  | --- | 2 mg  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 11*   |  *Nieraandoeningen*   |  *O*   |  *P*   |  *R*   | --- | --- | --- |
-|  *NIE*   | B03XA02  | DARBEPOETINE ALFA  | --- | 4,5 mcg  | --- | --- | --- | --- |
-|  *NIE*   | B03XA01  | EPOETINE  | --- | 1000 IE  | --- | --- | --- | --- |
-|  *NIE*   | V03AE03  | LANTHAANCARBONAAT  | 2,25 g  | --- | --- | --- | --- | --- |
-|  *NIE*   | B03XA03  | PEGZEREPOETINE BETA  | --- | 4 mcg  | --- | --- | --- | --- |
-|  *NIE*   | V03AE01  | POLYSTYREENSULFONZUUR  | 40 g  | --- | 40 g  | --- | --- | --- |
-|  *NIE*   | V03AE02  | SEVELAMER  | 6,4 g  | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 12*   |  *Parkinson*   |  *O*   |  *P*   |  *TD*   | --- | --- | --- |
-|  *PAR*   | N04BB01  | AMANTADINE  | 0,2 g  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BC07  | APOMORFINE  | --- | 20 mg  | --- | --- | --- | --- |
-|  *PAR*   | N04BC01  | BROMOCRIPTINE  | 40 mg  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BX02  | ENTACAPON  | 1 g  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BA03  | LEVODOPA en DECARBOXYLASE- en COMT-REMMER  | 0,45 g  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BA02  | LEVODOPA en DECARBOXYLASEREMMER  | 0,6 g  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BC02  | PERGOLIDE  | 3 mg  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BC05  | PRAMIPEXOL  | 2,5 mg  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BD02  | RASAGILINE  | 1 mg  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BC04  | ROPINIROL  | 6 mg  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BC09  | ROTIGOTINE  | --- | --- | 6 mg  | --- | --- | --- |
-|  *PAR*   | N04BD01  | SELEGILINE  | 5 mg  | --- | --- | --- | --- | --- |
-|  *PAR*   | N04BX01  | TOLCAPON  | 0,45 g  | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 13*   |  *Psychische aandoeningen*   |  *O*   |  *P*   | *P* (depot)  |  *R*   |  *TD*   |  *SL*   |
-|  *GGZ*   | N07BB03  | ACAMPROSAAT  | 2 g  | --- | --- | --- | --- | --- |
-|  *GGZ*   | N06AA09  | AMITRIPTYLINE  | 75 mg  | 75 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AX12  | ARIPIPRAZOL  | 15 mg  | 15 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06BA09  | ATOMOXETINE  | 80 mg  | --- | --- | --- | --- | --- |
-|  *GGZ*   | N05AD07  | BENPERIDOL  | 1,5 mg  | --- | --- | --- | --- | --- |
-|  *GGZ*   | N05AD06  | BROOMPERIDOL  | 10 mg  | 10 mg  | 3,3 mg  | --- | --- | --- |
-|  *GGZ*   | N07BC51  | BUPRENORFINE, COMBINATIES  | --- | --- | --- | --- | --- | 8 mg  |
-|  *GGZ*   | N06AX12  | BUPROPION  | 0,3 g  | exclusief (genees)middelen bij stoppen met roken  |
-|  *GGZ*   | N05BE01  | BUSPIRON  | 30 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AA01  | CHLOORPROMAZINE  | 0,3 g  | 0,1 g  | --- | 0,3 g  | --- |
-|  *GGZ*   | N05AF03  | CHLOORPROTIXEEN  | 0,3 g  | 50 mg  | --- | --- | --- |
-|  *GGZ*   | N05CC01  | CHLORALHYDRAAT  | 1 g  | --- | --- | 1 g  | --- |
-|  *GGZ*   | N06AB04  | CITALOPRAM  | 20 mg  | 20 mg  | --- | --- | --- |
-|  *GGZ*   | N06AA04  | CLOMIPRAMINE  | 0,1 g  | 0,1 g  | --- | --- | --- |
-|  *GGZ*   | N05AH02  | CLOZAPINE  | 0,3 g  | 0,3 g  | --- | --- | --- |
-|  *GGZ*   | N07BB01  | DISULFIRAM  | 0,2 g  | --- | --- | --- | --- |
-|  *GGZ*   | N06AA16  | DOSULEPINE  | 0,15 g  | --- | --- | --- | --- |
-|  *GGZ*   | N06AA12  | DOXEPINE  | 0,1 g  | 0,1 g  | --- | --- | --- |
-|  *GGZ*   | N06AX21  | DULOXETINE  | 60 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AB10  | ESCITALOPRAM  | 10 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AF03  | FENELZINE  | 60 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AB02  | FLUFENAZINE  | 10 mg  | 1 mg  | --- | --- | --- |
-|  *GGZ*   | N06AB03  | FLUOXETINE  | 20 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AF01  | FLUPENTIXOL  | 6 mg  | 4 mg  | --- | --- | --- |
-|  *GGZ*   | N05AG01  | FLUSPIRILEEN  | --- | 0,7 mg  | --- | --- | --- |
-|  *GGZ*   | N06AB08  | FLUVOXAMINE  | 0,1 g  | --- | --- | --- | --- |
-|  *GGZ*   | N06DA04  | GALANTAMINE  | 16 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AD01  | HALOPERIDOL  | 8 mg  | 8 mg  | 3,3 mg  | --- | --- |
-|  *GGZ*   | N05BB01  | HYDROXYZINE  | 75 mg  | 75 mg  | --- | --- | --- |
-|  *GGZ*   | N06AA02  | IMIPRAMINE  | 0,1 g  | 0,1 g  | --- | --- | --- |
-|  *GGZ*   | N05AN01  | LITHIUM  | 24 mmol (=885 mg)  | --- | --- | --- | --- |
-|  *GGZ*   | N06AA21  | MAPROTILINE  | 0,1 g  | 0,1 g  | --- | --- | --- |
-|  *GGZ*   | N06DX01  | MEMANTINE  | 20 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N07BC02  | METHADON  | 25 mg  | 25 mg  | --- | --- | --- |
-|  *GGZ*   | N06BA04  | METHYLFENIDAAT  | 30 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AX03  | MIANSERINE  | 60 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AX11  | MIRTAZAPINE  | 30 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AG02  | MOCLOBEMIDE  | 0,3 g  | --- | --- | --- | --- |
-|  *GGZ*   | N07BB04  | NALTREXON  | 50 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AA10  | NORTRIPTYLINE  | 75 mg  | 30 mg  | --- | --- | --- |
-|  *GGZ*   | N05AH03  | OLANZAPINE  | 10 mg  | 10 mg  | --- | --- | --- |
-|  *GGZ*   | N05AX13  | PALIPERIDON  | 6 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AB05  | PAROXETINE  | 20 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AG03  | PENFLURIDOL  | 6 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AB03  | PERFENAZINE  | 30 mg  | 10 mg  | 7 mg  | 16 mg  | --- |
-|  *GGZ*   | N05AC01  | PERICIAZINE  | 50 mg  | 20 mg  | --- | --- | --- |
-|  *GGZ*   | N05AG02  | PIMOZIDE  | 4 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AD05  | PIPAMPERON  | 0,2 g  | --- | --- | --- | --- |
-|  *GGZ*   | N05AB04  | PROCHLOORPERAZINE  | 0,1 g  | 50 mg  | --- | 0,1 g  | --- |
-|  *GGZ*   | N05AH04  | QUETIAPINE  | 0,4 g  | --- | --- | --- | --- |
-|  *GGZ*   | N05AX08  | RISPERIDON  | 5 mg  | --- | 1,8 mg  | --- | --- |
-|  *GGZ*   | N06DA03  | RIVASTIGMINE  | 9 mg  | --- | --- | --- | 9,5 mg  |
-|  *GGZ*   | N05AE03  | SERTINDOL  | 16 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AB06  | SERTRALINE  | 50 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N05AL01  | SULPIRIDE  | 0,8 g  | 0,8 g  | --- | --- | --- |
-|  *GGZ*   | N06AF04  | TRANYLCYPROMINE  | 10 mg  | --- | --- | --- | --- |
-|  *GGZ*   | N06AX05  | TRAZODON  | 0,3 g  | --- | --- | --- | --- |
-|  *GGZ*   | N06AX16  | VENLAFAXINE  | 0,1 g  | --- | --- | --- | --- |
-|  *GGZ*   | N05AF05  | ZUCLOPENTIXOL  | 30 mg  | 30 mg  | 15 mg  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 14*   |  *Reuma*   |  *O*   |  *P*   |  *R*   | --- | --- |
-|  *REU*   | L04AB04  | ADALIMUMAB  | --- | 2,9 mg  | --- | --- | --- |
-|  *REU*   | L04AC03  | ANAKINRA  | --- | 0,1 g  | --- | --- | --- |
-|  *REU*   | M01CB03  | AURANOFINE  | 6 mg  | --- | --- | --- | --- |
-|  *REU*   | M01CB01  | AUROTHIOBARNSTEENZUUR  | --- | 2,4 mg  | --- | --- | --- |
-|  *REU*   | L04AB01  | ETANERCEPT  | --- | 7 mg  | --- | --- | --- |
-|  *REU*   | P01BA02  | HYDROXYCHLOROQUINE  | 0,516 g  | --- | --- | --- | --- |
-|  *REU*   | L04AB02  | INFLIXIMAB  | --- | 3,75 mg  | --- | --- | --- |
-|  *REU*   | L04AA13  | LEFLUNOMIDE  | 20 mg  | --- | --- | --- | --- |
-|  *REU*   | L01BA01  | METHOTREXAAT  | --- | 10 mg  | --- | --- | --- |
-|  *REU*   | L04AX03  | METHOTREXAAT  | 2,5 mg  | --- | --- | --- | --- |
-|  *REU*   | A07EC01  | SULFASALAZINE  | 2 g  | --- | 2 g  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 15*   |  *Schildklieraandoeningen*   |  *O*   |  *P*   | --- | --- | --- |
-|  *THY*   | H03BB01  | CARBIMAZOL  | 15 mg  | --- | --- | --- | --- |
-|  *THY*   | H03AA01  | LEVOTHYROXINE  | 0,15 mg  | 0,15 mg  | --- | --- | --- |
-|  *THY*   | H03AA02  | LIOTHYRONINE  | 60 mcg  | 60 mcg  | --- | --- | --- |
-|  *THY*   | H03BA02  | PROPYLTHIOURACIL  | 0,1 g  | --- | --- | --- | --- |
-|  *THY*   | H03BB02  | THIAMAZOL  | 10 mg  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 16*   |  *Transplantaties*   |  *O*   |  *P*   | --- | --- | --- |
-|  *TRA*   | L04AX01  | AZATHIOPRINE  | 0,15 g  | 0,15 g  | --- | --- | --- |
-|  *TRA*   | L04AD01  | CICLOSPORINE  | 0,25 g  | 0,25 g  | --- | --- | --- |
-|  *TRA*   | L04AA18  | EVEROLIMUS  | 1,5 mg  | --- | --- | --- | --- |
-|  *TRA*   | L04AA06  | MYCOFENOLZUUR  | 2 g  | 2 g  | --- | --- | --- |
-|  *TRA*   | L04AA10  | SIROLIMUS  | 3 mg  | --- | --- | --- | --- |
-|  *TRA*   | L04AD02  | TACROLIMUS  | 5 mg  | 5 mg  | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *Tabel 17*   |  *Ziekte van Crohn/Collitis Ulcerosa*   |  *O*   |  *R*   | --- | --- | --- |
-|  *CRO*   | A07EA04  | BETAMETHASON  | --- | 5 mg (=100 ml)  | --- | --- |
-|  *CRO*   | A07EA06  | BUDESONIDE  | 9 mg  | 2,3 mg (=115 ml)  | --- | --- |
-|  *CRO*   | A07EC02  | MESALAZINE  | 1,5 g  | 1,5 g  | --- |
-|  *CRO*   | A07EC03  | OLSALAZINE  | 1 g  | --- | --- |
+| CER grp  | ATC-code (in 2010)  | stofnaam/omschrijving ATC-code  | DDD-waarde (standaard dagdosering, in 2010) per toedieningsweg/opmerkingen  |
+|:---|:---|:---|:---|
+| --- | --- |  *O*   | oraal  |  *O (aer)*   | oraal aerosol  | --- |
+| --- | --- |  *P*   | parenteraal  |  *P (depot)*   | parenteraal depot  | --- |
+| --- | --- |  *R*   | rectaal  | --- | --- | --- |
+| --- | --- |  *INH*   | inhalatie  |  *INH (aer)*   | inhalatie aerosol  | --- |
+| --- | --- | --- | --- |  *INH (pdr)*   | inhalatie poeder  | --- |
+| --- | --- | --- | --- |  *INH (opl)*   | inhalatie oplossing  | --- |
+| --- | --- |  *TD*   | transdermaal  | --- | --- |
+| --- | --- |  *SL*   | sublinguaal  | --- | --- |
+| --- | --- |  *OCU*   | oculair  | --- | --- | --- |
+| --- | --- | --- | --- |  *VS*   | voorschrift/receptregel  | (1 voorschrift = 181 DDDs)  |
+| --- | --- | --- | --- |  *mcg*   | microgram  | --- |
+| --- | --- | --- | --- |  *mg*   | milligram  | --- |
+| --- | --- | --- | --- |  *g*   | gram  | --- |
+| --- | --- | --- | --- |  *ml*   | milliliter  | --- |
+| --- | --- | --- | --- |  *IE*   | internationale eenheid  |
+| --- | --- | --- | --- |  *miljE*   | miljoen internationale eenheden  |
+| --- | --- | --- | --- |  *do*   | dosis  | --- |
+| --- | --- | --- | --- |  *tabl*   | tablet  | --- |
+| --- | --- | --- | --- |  *caps*   | capsule  | --- |
+
+Tabel 1 
+
+|--- |--- | Aandoeningen van hersenen en ruggemerg  | O  | P  |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *NMA*   | M03BX01  | BACLOFEN  | 50 mg  | 0,55 mg  | --- | --- | --- | --- | --- | --- |
+|  *NMA*   | L03AX13  | GLATIRAMEER  | --- | 20 mg  | --- | --- | --- | --- | --- | --- |
+|  *NMA*   | L03AB07  | INTERFERON BETA-1A  | --- | 4,3 mcg  | --- | --- | --- | --- | --- | --- |
+|  *NMA*   | L03AB08  | INTERFERON BETA-1B  | --- | 4 miljE  | --- | --- | --- | --- | --- | --- |
+|  *NMA*   | N07XX02  | RILUZOL  | 0,1 g  | --- | --- | --- | --- | --- | --- | --- |
+
+Tabel 2 
+
+|--- |--- | Astma/COPD  | O  | P  | R  | *INH* (aer)  | *INH* (pdr)  | *INH* (opl)  |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *CAR*   | R03BA01  | BECLOMETASON  | --- | --- | --- | 0,8 mg  | 0,8 mg  | 1,5 mg  | --- | --- |
+|  *CAR*   | R03BA02  | BUDESONIDE  | --- | --- | --- | 0,8 mg  | 0,8 mg  | 1,5 mg  | --- | --- |
+|  *CAR*   | R03BA08  | CICLESONIDE  | --- | --- | --- | 0,16 mg  | --- | --- | --- | --- |
+|  *CAR*   | R03BC01  | CROMOGLICINEZUUR  | --- | --- | --- | 40 mg  | 80 mg  | 80 mg  | --- | --- |
+|  *CAR*   | R03AK03  | FENOTEROL met andere ASTMA/COPD-middelen  | --- | --- | --- | 6 do  | 3 patroon  | --- | --- | --- |
+|  *CAR*   | R03BA05  | FLUTICASON  | --- | --- | --- | 0,6 mg  | 0,6 mg  | 1,5 mg  | --- | --- |
+|  *CAR*   | R03AC13  | FORMOTEROL  | --- | --- | --- | 24 mcg  | 24 mcg  | --- | --- | --- |
+|  *CAR*   | R03AK07  | FORMOTEROL met andere ASTMA/COPD-middelen  | --- | --- | 4 do  | 24 mcg  | --- | --- | --- |
+|  *CAR*   | R03AC18  | INDACATEROL  | --- | --- | --- | --- | 150 mcg  | --- | --- | --- |
+|  *CAR*   | R03BB01  | IPRATROPIUM  | --- | --- | --- | 0,12 mg  | 0,12 mg  | 0,3 mg  | --- | --- |
+|  *CAR*   | R03DC03  | MONTELUKAST  | 10 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *CAR*   | R03BC03  | NEDOCROMIL  | --- | --- | --- | 8 mg  | --- | --- | --- | --- |
+|  *CAR*   | R03AC02  | SALBUTAMOL  | --- | --- | --- | 0,8 mg  | 0,8 mg  | 10 mg  | --- | --- |
+|  *CAR*   | R03CC02  | SALBUTAMOL  | 12 mg  | 12 mg  | --- | --- | --- | --- | --- | --- |
+|  *CAR*   | R03AK04  | SALBUTAMOL met andere ASTMA/COPD-middelen  | --- | --- | 6 do  | --- | 7,5 ml  | --- | --- |
+|  *CAR*   | R03AC12  | SALMETEROL  | --- | --- | --- | 0,1 mg  | 0,1 mg  | --- | --- | --- |
+|  *CAR*   | R03AK06  | SALMETEROL met andere ASTMA/COPD-middelen  | --- | --- | --- | 4 do  | 2 do  | --- | --- | --- |
+|  *CAR*   | R03AC03  | TERBUTALINE  | --- | --- | --- | 2 mg  | 2 mg  | 20 mg  | --- | --- |
+|  *CAR*   | R03DA04  | THEOFYLLINE  | 0,4 g  | 0,4 g  | 0,4 g  | --- | --- | --- | --- | --- |
+|  *CAR*   | R03BB04  | TIOTROPIUM  | --- | --- | --- | --- | 18 mcg  | 5 mcg  | --- | --- |
+
+Tabel 3 
+
+|--- |--- | Cystic fibrosis/pancreas  | O  |--- | *INH* (opl)  |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *CFP*   | R05CB13  | DORNASE ALFA  | --- | --- | 2,5 mg  | --- | --- | --- | --- | --- |
+|  *CFP*   | A09AA02  | MULTI-ENZYMEN  | 4–6 tabl/caps  | --- | --- | --- | --- | --- | --- |
+
+Tabel 4 
+
+|--- |--- | Diabetes, type I en type II  | O  | P  | INH  |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *DIA*   | A10BF01  | ACARBOSE  | 0,3 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BX04  | EXENATIDE  | --- | 15 mcg  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BB01  | GLIBENCLAMIDE  | 10 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BB09  | GLICLAZIDE  | 0,16 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BB12  | GLIMEPIRIDE  | 2 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BD04  | GLIMEPIRIDE met ROSIGLITAZON  | 1 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AB01  | INSULINE (humaan)  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AC01  | INSULINE (humaan)  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AD01  | INSULINE (humaan)  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AB05  | INSULINE, ASPART  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AD05  | INSULINE, ASPART  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AE05  | INSULINE, DETEMIR  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AE04  | INSULINE, GLARGINE  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AB06  | INSULINE, GLULISINE  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AB04  | INSULINE, LISPRO  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10AD04  | INSULINE, LISPRO  | --- | 40 IE  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BX07  | LIRAGLUTIDE  | --- | 1,2 mg  | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BA02  | METFORMINE  | 2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BD05  | METFORMINE met PIOGLITAZON  | 2 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BD03  | METFORMINE met ROSIGLITAZON  | 2 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BD07  | METFORMINE met SITAGLIPTINE  | 2 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BD02  | METFORMINE met SULFONYLUREUMDERIVATEN  | 2 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BD08  | METFORMINE met VILDAGLIPTINE  | 2 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BG03  | PIOGLITAZON  | 30 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BX02  | REPAGLINIDE  | 4 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BG02  | ROSIGLITAZON  | 6 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BH03  | SAXAGLIPTINE  | 5 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BH01  | SITAGLIPTINE  | 0,1 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BB03  | TOLBUTAMIDE  | 1,5 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *DIA*   | A10BH02  | VILDAGLIPTINE  | 0,1 g  | --- | --- | --- | --- | --- | --- | --- |
+
+Tabel 5 
+
+|--- |--- | Epilepsie  | O  | P  | R  |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *EPI*   | N03AF01  | CARBAMAZEPINE  | 1 g  | --- | 1 g  | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AD01  | ETHOSUXIMIDE  | 1,25 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AX10  | FELBAMAAT  | 2,4 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AA02  | FENOBARBITAL  | 0,1 g  | 0,1 g  | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AB02  | FENYTOINE  | 0,3 g  | 0,3 g  | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AX18  | LACOSAMIDE  | 0,3 g  | 0,3 g  | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AX09  | LAMOTRIGINE  | 0,3 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AX14  | LEVETIRACETAM  | 1,5 g  | 1,5 g  | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AF02  | OXCARBAZEPINE  | 1 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AA03  | PRIMIDON  | 1,25 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AX17  | STIRIPENTOL  | 1 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AX03  | SULTIAM  | 0,4 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AX11  | TOPIRAMAAT  | 0,3 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AG01  | VALPROINEZUUR  | 1,5 g  | 1,5 g  | 1,5 g  | --- | --- | --- | --- | --- |
+|  *EPI*   | N03AG04  | VIGABATRINE  | 2 g  | --- | --- | --- | --- | --- | --- | --- |
+
+Tabel 6 
+
+|--- |--- | Glaucoom  | O  | P  | OCU  |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *GLA*   | S01EC01  | ACETAZOLAMIDE  | 0,75 g  | 0,75 g  | --- | --- | --- | --- | --- | --- |
+|  *GLA*   | S01EA03  | APRACLONIDINE  | --- | --- | 0,3 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01ED02  | BETAXOLOL  | --- | --- | 0,2 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01EE03  | BIMATOPROST  | --- | --- | 0,1 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01EA05  | BRIMONIDINE  | --- | --- | 0,2 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01EC04  | BRINZOLAMIDE  | --- | --- | 0,2 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01ED05  | CARTEOLOL  | --- | --- | 0,2 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01EA02  | DIPIVEFRINE  | --- | --- | 0,2 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01EC03  | DORZOLAMIDE  | --- | --- | 0,3 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01EE01  | LATANOPROST  | --- | --- | 0,1 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01ED03  | LEVOBUNOLOL  | --- | --- | 0,2 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01ED04  | METIPRANOLOL  | --- | --- | 0,2 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01ED54  | METIPRANOLOL, COMBINATIES  | --- | --- | 0,3 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01EB01  | PILOCARPINE  | --- | --- | 0,4 ml/40 mg  | --- | --- | --- | --- |
+|  *GLA*   | S01EE05  | TAFLUPROST  | --- | --- | 0,3 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01ED01  | TIMOLOL  | --- | --- | 0,2 ml  | --- | --- | --- | --- | --- |
+|  *GLA*   | S01ED51  | TIMOLOL, COMBINATIES  | --- | --- | 0,2 ml/0,1 ml  | --- | --- | --- | --- |
+|  *GLA*   | S01EE04  | TRAVOPROST  | --- | --- | 0,1 ml  | --- | --- | --- | --- | --- |
+
+Tabel 7 
+
+|--- |--- | Groeihormonen  |--- | P  |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *GRO*   | H01AC03  | MECASERMINE  | --- | 2 mg  | --- | --- | --- | --- | --- | --- |
+|  *GRO*   | H01AC01  | SOMATROPINE  | --- | 2 IE  | --- | --- | --- | --- | --- | --- |
+
+Tabel 8 
+
+|--- |--- | Hartaandoeningen  | O  | *O* (aer)  | P  | SL  | TD  |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *HAR*   | C01BD01  | AMIODARON  | 0,2 g  | --- | 0,2 g  | --- | --- | --- | --- | --- |
+|  *HAR*   | C03CA02  | BUMETANIDE  | 1 mg  | --- | 1 mg  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01AA05  | DIGOXINE  | 0,25 mg  | --- | 0,25 mg  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01BA03  | DISOPYRAMIDE  | 0,4 g  | --- | 0,4 g  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01CE03  | ENOXIMON  | --- | --- | 1 g  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01BC04  | FLECAINIDE  | 0,2 g  | --- | 0,2 g  | --- | --- | --- | --- | --- |
+|  *HAR*   | C03CA01  | FUROSEMIDE  | 40 mg  | --- | 40 mg  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01CA16  | IBOPAMINE  | 0,3 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HAR*   | C01EB03  | INDOMETACINE  | --- | --- | 1 mg  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01CA02  | ISOPRENALINE  | 90 mg  | --- | 90 mg  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01DA08  | ISOSORBIDE DINITRAAT  | 60 mg  | 20 mg  | 10 mg  | 20 mg  | 0,1 g  | --- | --- | --- |
+|  *HAR*   | C01DA14  | ISOSORBIDE MONONITRAAT  | 40 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *HAR*   | C01EB17  | IVABRADINE  | 10 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *HAR*   | C01BA01  | KINIDINE  | 1,2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HAR*   | C01BB01  | LIDOCAINE  | --- | --- | 3 g  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01CE02  | MILRINON  | --- | --- | 50 mg  | --- | --- | --- | --- | --- |
+|  *HAR*   | C01DX16  | NICORANDIL  | 40 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *HAR*   | C01DA02  | NITROGLYCERINE  | 5 mg  | 2,5 mg  | 10 mg  | 2,5 mg  | 5 mg  | --- | --- | --- |
+|  *HAR*   | C01BC03  | PROPAFENON  | 0,3 g  | --- | 0,3 g  | --- | --- | --- | --- | --- |
+
+Tabel 9 
+
+|--- |--- | HIV/AIDS  | O  | P  |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *HIV*   | J05AF06  | ABACAVIR  | 0,6 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE05  | AMPRENAVIR  | 1,2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE08  | ATAZANAVIR  | 0,3 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE10  | DARUNAVIR  | 1,2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AF02  | DIDANOSINE  | 0,4 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AG03  | EFAVIRENZ  | 0,6 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AF09  | EMTRICITABINE  | 0,2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AR06  | EMTRICITABINE met TENOFOVIR met EFAVIRENZ  | 1 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AX07  | ENFUVIRTIDE  | --- | 0,18 g  | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AG04  | ETRAVIRINE  | 0,4 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE07  | FOSAMPRENAVIR  | 1,4 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AD01  | FOSCARNET  | --- | 6,5 g  | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AB06  | GANCICLOVIR  | 3 g  | 0,5 g  | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE02  | INDINAVIR  | 2,4 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AF05  | LAMIVUDINE  | 0,3 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AR02  | LAMIVUDINE met ABACAVIR  | 1 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE06  | LOPINAVIR  | 0,8 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AX09  | MARAVIROC  | 0,6 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE04  | NELFINAVIR  | 2,25 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AG01  | NEVIRAPINE  | 0,4 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AX08  | RALTEGRAVIR  | 0,8 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE03  | RITONAVIR  | 1,2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE01  | SAQUINAVIR  | 1,8 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AF04  | STAVUDINE  | 80 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AF07  | TENOFOVIR DISOPROXIL  | 0,245 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AR03  | TENOFOVIR DISOPROXIL met EMTRICITABINE  | 1 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AE09  | TIPRANAVIR  | 1 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AB14  | VALGANCICLOVIR  | 0,9 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AF01  | ZIDOVUDINE  | 0,6 g  | 0,6 g  | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AR01  | ZIDOVUDINE met LAMIVUDINE  | 2 tabl  | --- | --- | --- | --- | --- | --- | --- |
+|  *HIV*   | J05AR04  | ZIDOVUDINE met LAMIVUDINE met ABACAVIR  | 2 tabl  | --- | --- | --- | --- | --- | --- | --- |
+
+Tabel 10 
+
+|--- |--- | Kanker  | O  | P  |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *KAN*   | L03AC01  | ALDESLEUKINE  | --- | 0,2 mg  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XX01  | AMSACRINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XX25  | BEXAROTEEN  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01DC01  | BLEOMYCINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XX32  | BORTEZOMIB  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01AB01  | BUSULFAN  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01BC06  | CAPECITABINE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01AA02  | CHLOORAMBUCIL  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XA01  | CISPLATINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01AA01  | CYCLOFOSFAMIDE  | 1 VS  | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01BC01  | CYTARABINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01AX04  | DACARBAZINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01DA01  | DACTINOMYCINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE06  | DASATINIB  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01DB02  | DAUNORUBICINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01DB03  | EPIRUBICINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE03  | ERLOTINIB  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XX11  | ESTRAMUSTINE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01CB01  | ETOPOSIDE  | 1 VS  | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE10  | EVEROLIMUS  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L03AA02  | FILGRASTIM  | --- | 0,35 mg  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01BB05  | FLUDARABINE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01BC02  | FLUOROURACIL  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE02  | GEFITINIB  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XX05  | HYDROXYCARBAMIDE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01DB06  | IDARUBICINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE01  | IMATINIB  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE07  | LAPATINIB  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L04AX04  | LENALIDOMIDE  | 10 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L03AA10  | LENOGRASTIM  | --- | 0,35 mg  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01AD02  | LOMUSTINE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01AA03  | MELFALAN  | 1 VS  | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01BB02  | MERCAPTOPURINE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01DC03  | MITOMYCINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XX23  | MITOTAAN  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01DB07  | MITOXANTRON  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE08  | NILOTINIB  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L03AA13  | PEGFILGRASTIM  | --- | 0,3 mg  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XB01  | PROCARBAZINE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE05  | SORAFENIB  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XE04  | SUNITINIB  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01BC53  | TEGAFUR, COMBINATIES  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01AX03  | TEMOZOLOMIDE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01CB02  | TENIPOSIDE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01AC01  | THIOTEPA  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01BB03  | TIOGUANINE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XX17  | TOPOTECAN  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01XX14  | TRETINOINE  | 1 VS  | --- | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01CA01  | VINBLASTINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+|  *KAN*   | L01CA02  | VINCRISTINE  | --- | 1 VS  | --- | --- | --- | --- | --- | --- |
+
+Tabel 11 
+
+|--- |--- | Nieraandoeningen  | O  | P  |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *NIE*   | B03XA02  | DARBEPOETINE ALFA  | --- | 4,5 mcg  | --- | --- | --- | --- | --- | --- |
+|  *NIE*   | B03XA01  | EPOETINE  | --- | 1000 IE  | --- | --- | --- | --- | --- | --- |
+|  *NIE*   | V03AE03  | LANTHAANCARBONAAT  | 2,25 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *NIE*   | B03XA03  | METHOXYPOLYETHYLEENGLYCOL EPOETINE BETA  | --- | 4 mcg  | --- | --- | --- | --- | --- | --- |
+|  *NIE*   | V03AE01  | POLYSTYREENSULFONZUUR  | 45 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *NIE*   | V03AE02  | SEVELAMER  | 6,4 g  | --- | --- | --- | --- | --- | --- | --- |
+
+Tabel 12 
+
+|--- |--- | Ziekte van Parkinson  | O  | P  | TD  |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *PAR*   | N04BB01  | AMANTADINE  | 0,2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BC07  | APOMORFINE  | --- | 20 mg  | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BC01  | BROMOCRIPTINE  | 40 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BX02  | ENTACAPON  | 1 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BA03  | LEVODOPA met DECARBOXYLASE- en COMT-REMMER  | 0,45 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BA02  | LEVODOPA met DECARBOXYLASEREMMER  | 0,6 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BC02  | PERGOLIDE  | 3 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BC05  | PRAMIPEXOL  | 2,5 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BD02  | RASAGILINE  | 1 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BC04  | ROPINIROL  | 6 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BC09  | ROTIGOTINE  | --- | --- | 6 mg  | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BD01  | SELEGILINE  | 5 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *PAR*   | N04BX01  | TOLCAPON  | 0,45 g  | --- | --- | --- | --- | --- | --- | --- |
+
+Tabel 13 
+
+|--- |--- | Psychische aandoeningen  | O  | P  | *P* (depot)  | R  | TD  | SL  |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *GGZ*   | N07BB03  | ACAMPROSAAT  | 2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AX22  | AGOMELATINE  | 25 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AA09  | AMITRIPTYLINE  | 75 mg  | 75 mg  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AX12  | ARIPIPRAZOL  | 15 mg  | 15 mg  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06BA09  | ATOMOXETINE  | 80 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AD07  | BENPERIDOL  | 1,5 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AD06  | BROOMPERIDOL  | 10 mg  | 10 mg  | 3,3 mg  | --- | --- | --- | --- | --- |
+|  *GGZ*   | N07BC01  | BUPRENORFINE  | --- | --- | --- | --- | --- | 8 mg  | --- | --- |
+|  *GGZ*   | N07BC51  | BUPRENORFINE, COMBINATIES  | --- | --- | --- | --- | --- | 8 mg  | --- | --- |
+|  *GGZ*   | N06AX12  | BUPROPION  | 0,3 g  | --- | --- | --- | *exclusief* (genees)middelen bij stoppen met roken  |
+|  *GGZ*   | N05BE01  | BUSPIRON  | 30 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AA01  | CHLOORPROMAZINE  | 0,3 g  | 0,1 g  | --- | 0,3 g  | --- | --- | --- | --- |
+|  *GGZ*   | N05AF03  | CHLOORPROTIXEEN  | 0,3 g  | 50 mg  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05CC01  | CHLORALHYDRAAT  | 1 g  | --- | --- | 1 g  | --- | --- | --- | --- |
+|  *GGZ*   | N06AB04  | CITALOPRAM  | 20 mg  | 20 mg  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AA04  | CLOMIPRAMINE  | 0,1 g  | 0,1 g  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AH02  | CLOZAPINE  | 0,3 g  | 0,3 g  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N07BB01  | DISULFIRAM  | 0,2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AA16  | DOSULEPINE  | 0,15 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AA12  | DOXEPINE  | 0,1 g  | 0,1 g  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AX21  | DULOXETINE  | 60 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AB10  | ESCITALOPRAM  | 10 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AF03  | FENELZINE  | 60 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AB02  | FLUFENAZINE  | 10 mg  | --- | 1 mg  | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AB03  | FLUOXETINE  | 20 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AF01  | FLUPENTIXOL  | 6 mg  | --- | 4 mg  | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AG01  | FLUSPIRILEEN  | --- | --- | 0,7 mg  | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AB08  | FLUVOXAMINE  | 0,1 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06DA04  | GALANTAMINE  | 16 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AD01  | HALOPERIDOL  | 8 mg  | 8 mg  | 3,3 mg  | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05BB01  | HYDROXYZINE  | 75 mg  | 75 mg  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AA02  | IMIPRAMINE  | 0,1 g  | 0,1 g  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AN01  | LITHIUM  | 24 mmol  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AA21  | MAPROTILINE  | 0,1 g  | 0,1 g  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06DX01  | MEMANTINE  | 20 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N07BC02  | METHADON  | 25 mg  | 25 mg  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06BA04  | METHYLFENIDAAT  | 30 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AX03  | MIANSERINE  | 60 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AX11  | MIRTAZAPINE  | 30 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AG02  | MOCLOBEMIDE  | 0,3 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N07BB04  | NALTREXON  | 50 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AA10  | NORTRIPTYLINE  | 75 mg  | 30 mg  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AH03  | OLANZAPINE  | 10 mg  | 10 mg  | 10 mg  | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AX13  | PALIPERIDON  | 6 mg  | --- | 2,5 mg  | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AB05  | PAROXETINE  | 20 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AG03  | PENFLURIDOL  | 6 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AB03  | PERFENAZINE  | 30 mg  | 10 mg  | 7 mg  | 16 mg  | --- | --- | --- | --- |
+|  *GGZ*   | N05AC01  | PERICIAZINE  | 50 mg  | 20 mg  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AG02  | PIMOZIDE  | 4 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AD05  | PIPAMPERON  | 0,2 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AH04  | QUETIAPINE  | 0,4 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AX08  | RISPERIDON  | 5 mg  | --- | 2,7 mg  | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06DA03  | RIVASTIGMINE  | 9 mg  | --- | --- | --- | 9,5 mg  | --- | --- | --- |
+|  *GGZ*   | N05AE03  | SERTINDOL  | 16 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AB06  | SERTRALINE  | 50 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AL01  | SULPIRIDE  | 0,8 g  | 0,8 g  | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AF04  | TRANYLCYPROMINE  | 10 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AX05  | TRAZODON  | 0,3 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N06AX16  | VENLAFAXINE  | 0,1 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *GGZ*   | N05AF05  | ZUCLOPENTIXOL  | 30 mg  | 30 mg  | 15 mg  | --- | --- | --- | --- | --- |
+
+Tabel 14 
+
+|--- |--- | Reuma  | O  | P  | R  |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *REU*   | L04AB04  | ADALIMUMAB  | --- | 2,9 mg  | --- | --- | --- | --- | --- | --- |
+|  *REU*   | L04AC03  | ANAKINRA  | --- | 0,1 g  | --- | --- | --- | --- | --- | --- |
+|  *REU*   | M01CB03  | AURANOFINE  | 6 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *REU*   | M01CB01  | AUROTHIOBARNSTEENZUUR  | --- | 2,4 mg  | --- | --- | --- | --- | --- | --- |
+|  *REU*   | L04AB05  | CERTOLIZUMAB PEGOL  | --- | 14 mg  | --- | --- | --- | --- | --- | --- |
+|  *REU*   | L04AB01  | ETANERCEPT  | --- | 7 mg  | --- | --- | --- | --- | --- | --- |
+|  *REU*   | L04AB06  | GOLIMUMAB  | --- | 1,66 mg  | --- | --- | --- | --- | --- | --- |
+|  *REU*   | P01BA02  | HYDROXYCHLOROQUINE  | 516 mg <sup>1</sup>  | --- | --- | --- | --- | --- | --- | --- |
+|  *REU*   | L04AB02  | INFLIXIMAB  | --- | 3,75 mg  | --- | --- | --- | --- | --- | --- |
+|  *REU*   | L04AA13  | LEFLUNOMIDE  | 20 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *REU*   | L01BA01  | METHOTREXAAT  | --- | 3,571 mg  | --- | --- | --- | --- | --- | --- |
+|  *REU*   | L04AX03  | METHOTREXAAT  | 2,5 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *REU*   | A07EC01  | SULFASALAZINE  | 2 g  | --- | 2 g  | --- | --- | --- | --- | --- |
+
+<sup>1</sup> WHO DDD-waarde is 516 mg (base), is gelijk aan 666mg (sulfaat) vlgns Z-index.  Tabel 15 
+
+|--- |--- | Schildklieraandoeningen  | O  | P  |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *THY*   | H03BB01  | CARBIMAZOL  | 15 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *THY*   | H03AA01  | LEVOTHYROXINE  | 0,15 mg  | 0,15 mg  | --- | --- | --- | --- | --- | --- |
+|  *THY*   | H03AA02  | LIOTHYRONINE  | 60 mcg  | 60 mcg  | --- | --- | --- | --- | --- | --- |
+|  *THY*   | H03BA02  | PROPYLTHIOURACIL  | 0,1 g  | --- | --- | --- | --- | --- | --- | --- |
+|  *THY*   | H03AA05  | SCHILDKLIER PREPARATEN  | 150 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *THY*   | H03BB02  | THIAMAZOL  | 10 mg  | --- | --- | --- | --- | --- | --- | --- |
+
+Tabel 16 
+
+|--- |--- | Transplantaties  | O  | P  |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *TRA*   | L04AX01  | AZATHIOPRINE  | 0,15 g  | 0,15 g  | --- | --- | --- | --- | --- | --- |
+|  *TRA*   | L04AD01  | CICLOSPORINE  | 0,25 g  | 0,25 g  | --- | --- | --- | --- | --- | --- |
+|  *TRA*   | L04AA18  | EVEROLIMUS  | 1,5 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *TRA*   | L04AA06  | MYCOFENOLZUUR  | 2 g  | 2 g  | --- | --- | --- | --- | --- | --- |
+|  *TRA*   | L04AA10  | SIROLIMUS  | 3 mg  | --- | --- | --- | --- | --- | --- | --- |
+|  *TRA*   | L04AD02  | TACROLIMUS  | 5 mg  | 5 mg  | --- | --- | --- | --- | --- | --- |
+
+Tabel 17 
+
+|--- |--- | Ziekte van Crohn/colitis ulcerosa  | O  | R  |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *CRO*   | A07EA04  | BETAMETHASON  | --- | 100 ml  | --- | --- | --- | --- | --- | --- |
+|  *CRO*   | A07EA06  | BUDESONIDE  | 9 mg  | 1 tabl  | --- | --- | --- | --- | --- | --- |
+|  *CRO*   | A07EC02  | MESALAZINE  | 1,5 g  | 1,5 g  | --- | --- | --- | --- | --- | --- |
+|  *CRO*   | A07EC03  | OLSALAZINE  | 1 g  | --- | --- | --- | --- | --- | --- | --- |
 
 ### Bijlage  10  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Minister van Verkeer en Waterstaat van 25 juni 2010, nr. CEND/HDJZ-2010/890 sector AWW Hoofddirectie Juridische Zaken;
 
-Gelet op [artikel 151e, eerste lid](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [artikel 186, eerste lid, onder c, van de Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op artikel 151e, eerste lid, en artikel 186, eerste lid, onder c, van de Wegenverkeerswet 1994;
 
 De Raad van State gehoord (advies van 14 juli 2010, nr. W09.10.0260/IV);
 
@@ -23,7 +23,7 @@ Dit besluit blijft, nadat het is vervallen, van toepassing op:
 
 a. bestuurders, die de leeftijd van eenentwintig jaar nog niet bereikt hebben en het rijbewijs voor de rijbewijscategorie D voorafgaand aan het vervallen van dit besluit hebben verkregen;  
 
-b. degene aan wie rijonderricht wordt gegeven als bedoeld in [artikel 173d, tweede lid](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).    
+b. degene aan wie rijonderricht wordt gegeven als bedoeld in artikel 173d.    
 
 ### Artikel  III  
 
