@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2009, nr. BV/DCA/2009/29347, houdende regels voor de documentaire informatievoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid (Kaderregeling documentaire informatievoorziening SZW 2009)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 14 van het Archiefbesluit 1995](../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md);
+Gelet op artikel 14 van het Archiefbesluit 1995;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -49,19 +49,19 @@ m.  *toepassingsprogrammatuur:*  de programmatuur die bestemd is voor de onderst
 
 ####Reikwijdte
 
-1.  Dit besluit is van toepassing op het beheer van alle archiefbescheiden van het ministerie. Op het beheer en gebruik van personeelsdossiers van ambtenaren werkzaam bij het ministerie is de Instructie beheer en inrichting personeelsdossiers SZW zoals opgenomen in dit besluit van toepassing.   
-2.  Deze regeling is onverkort van toepassing op tijdelijke overheidsorganen die onder de zorg van de minister, bedoeld in [artikel 4 tweede lid van de Archiefwet 1995](../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), vallen.   
+1.  Dit besluit is van toepassing op het beheer van alle archiefbescheiden van het ministerie. Op het beheer en gebruik van personeelsdossiers van ambtenaren werkzaam bij het ministerie is de Instructie beheer en inrichting personeelsdossiers SZW van toepassing.   
+2.  Deze regeling is onverkort van toepassing op tijdelijke overheidsorganen die onder de zorg van de minister, bedoeld in artikel 4 tweede lid van de Archiefwet 1995, vallen.   
 
 ### Artikel  3  
 
 ####Verantwoordelijkheden
 
-1.  Minister De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager, zoals bedoeld in [artikel 1 onder d van de Archiefwet 1995](../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), voor de archiefbescheiden van het ministerie.   
+1.  Minister De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager, zoals bedoeld in artikel 1 onder d van de Archiefwet 1995, voor de archiefbescheiden van het ministerie.   
 2.  Plaatsvervangend secretaris-generaal 
 
 a. De plaatsvervangend secretaris-generaal is verantwoordelijk voor een departementsbrede samenhangende bedrijfsvoering, waaronder de documentaire informatievoorziening.  
 
-b. De plaatsvervangend secretaris-generaal stelt beheersregels vast, zoals bedoeld in [artikel 14 Archiefbesluit 1995](../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md).  
+b. De plaatsvervangend secretaris-generaal stelt beheersregels vast, zoals bedoeld in artikel 14 Archiefbesluit 1995.  
 
 c. De plaatsvervangend secretaris-generaal rapporteert, indien nodig, hierover aan de Erfgoedinspectie van het ministerie van Onderwijs, Cultuur en Wetenschap.     
 3.  Directeur van een archiefvormend orgaan 
@@ -132,7 +132,7 @@ d. De directeur Bedrijfsvoering is verantwoordelijk voor het opstellen en onderh
 
 ####Afdoening archiefbescheiden
 
-1.  De directeur van een archiefvormend orgaan stelt afdoeningtermijnen vast voor de bij dat orgaan voorkomende categorieën van archiefbescheiden, een en ander met inachtneming van de normen gesteld in de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [Wet Nationale ombudsman](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), de [Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en de [Wet dwangsom en beroep bij niet tijdig beslissen](../../../../../../../wet/wet/dwangsom/en/beroep/bij/niet/tijdig/beslissen/BWBR0026450/README.md).   
+1.  De directeur van een archiefvormend orgaan stelt afdoeningtermijnen vast voor de bij dat orgaan voorkomende categorieën van archiefbescheiden, een en ander met inachtneming van de normen gesteld in de Algemene wet bestuursrecht, de Wet Nationale ombudsman, de Wet openbaarheid van bestuur, de Wet bescherming persoonsgegevens en de Wet dwangsom en beroep bij niet tijdig beslissen.   
 2.  De afdoeningtermijn wordt vastgelegd in het documentmanagementsysteem.   
 3.  Als een ingekomen archiefstuk niet binnen een vastgestelde termijn kan worden beantwoord, wordt de afzender daarvan op de hoogte gesteld.   
 4.  De directeur van een archiefvormend orgaan is verantwoordelijk voor het afdoen van de archiefbescheiden binnen de vastgestelde termijnen.   
@@ -169,7 +169,7 @@ De directeur van een archiefvormend orgaan stelt met behulp van een gangbare ord
 
 ####Duurzaamheid archiefbescheiden
 
-1.  Voor het vormen en bewaren van door het ministerie opgemaakte, permanent te bewaren archiefbescheiden, worden materialen gebruikt die voldoen aan eisen gesteld in de [Regeling duurzaamheid archiefbescheiden](../../../../../../../ministeriele-regeling/regeling/duurzaamheid/archiefbescheiden/BWBR0012804/README.md).   
+1.  Voor het vormen en bewaren van door het ministerie opgemaakte, permanent te bewaren archiefbescheiden, worden materialen gebruikt die voldoen aan eisen gesteld in de Regeling duurzaamheid archiefbescheiden.   
 2.  De directeur van een archiefvormend orgaan draagt er zorg voor dat de niet permanent te bewaren archiefbescheiden gedurende hun bewaartermijn in goede materiële staat worden gehouden.   
 3.  Indien archiefbescheiden door de aard van de oorspronkelijke gebruikte materialen of programmatuur niet (langer) voldoen aan het in het eerste en tweede lid bepaalde wordt overgegaan tot vervanging van de archiefbescheiden door reproducties, als bedoeld in artikel 15.   
 
@@ -206,7 +206,7 @@ De directeur Bedrijfsvoering laat door middel van een overeenkomst afgesloten ar
 
 ####Digitale archiefbescheiden
 
-1.  Digitaal te bewaren archiefbescheiden worden zodanig opgeslagen in een informatiesysteem dat deze archiefbescheiden blijvend voldoen aan de eisen gesteld in de [Regeling geordende en toegankelijke staat archiefbescheiden](../../../../../../../ministeriele-regeling/regeling/geordende/en/toegankelijke/staat/archiefbescheiden/BWBR0013439/README.md)   
+1.  Digitaal te bewaren archiefbescheiden worden zodanig opgeslagen in een informatiesysteem dat deze archiefbescheiden blijvend voldoen aan de eisen gesteld in de Regeling geordende en toegankelijke staat archiefbescheiden   
 2.  De directeur Bedrijfsvoering is verantwoordelijk voor het opstellen en instandhouden van een register waarin gegevens worden opgenomen over te bewaren digitale archiefbescheiden.   
 3.  De directeur van een archiefvormend orgaan is verantwoordelijk voor het aanleveren van relevante gegevens, ten behoeve van het bovengenoemde register, aan de directeur bedrijfsvoering.   
 
@@ -255,7 +255,7 @@ b) de directeur Bedrijfsvoering verantwoordelijk is voor de selectie en vernieti
 
 1.  De directeur Bedrijfsvoering is verantwoordelijk voor de overbrenging van de daarvoor in aanmerking komende archiefbescheiden naar een rijksarchiefbewaarplaats.   
 2.  De directeur Bedrijfsvoering is er voor verantwoordelijk dat de over te brengen archiefbescheiden voldoen aan de normen ‘goede en geordende staat’ van het Nationaal Archief.   
-3.  Digitale archiefbescheiden worden voor hun overbrenging opgeslagen in één van de standaarden als bedoeld in [artikel 6 van de Regeling geordende en toegankelijke staat archiefbescheiden](../../../../../../../ministeriele-regeling/regeling/geordende/en/toegankelijke/staat/archiefbescheiden/BWBR0013439/README.md).   
+3.  Digitale archiefbescheiden worden voor hun overbrenging opgeslagen in één van de standaarden als bedoeld in artikel 6 van de Regeling geordende en toegankelijke staat archiefbescheiden.   
 4.  De over te brengen archiefbescheiden worden voorzien van een document waarin is opgenomen op welke wijze de duurzaamheid, de ordening en toegankelijkheid zijn geregeld.   
 5.  Van de overbrenging van archiefbescheiden wordt een verklaring, volgens een model, opgemaakt en wordt bewaard in het archief van het archiefvormend orgaan en van de directie Bedrijfsvoering.   
 6.  Ter voorbereiding op de overbrenging overlegt de directie Bedrijfsvoering met de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden over het al dan niet stellen van beperkingen aan de openbaarheid.   
@@ -305,7 +305,7 @@ Indien een archiefvormend orgaan of een deel daarvan verhuist, maakt de directeu
 
 ####Raadpleging van archiefbescheiden door derden
 
-1.  Verzoeken van derden om archiefbescheiden te mogen raadplegen worden behandeld in overeenstemming met de van toepassing zijnde artikelen uit de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) of de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+1.  Verzoeken van derden om archiefbescheiden te mogen raadplegen worden behandeld in overeenstemming met de van toepassing zijnde artikelen uit de Algemene wet bestuursrecht, de Wet openbaarheid van bestuur of de Wet bescherming persoonsgegevens.   
 2.  Van de raadpleging van archiefbescheiden die berusten bij het ministerie door derden, wordt een verklaring opgemaakt, die een specificatie van de te raadplegen archiefbescheiden en de aan de raadpleging gestelde voorwaarden bevat.   
 3.  De verklaring van raadpleging wordt opgemaakt op basis van een model en wordt bewaard in het archief van de directie Bedrijfsvoering.   
 4.  De verklaring van raadpleging wordt ondertekend door de beheerder.   

@@ -7,25 +7,29 @@ Gelet op [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen]
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2013 
 
-De premies die ten gunste komen van de sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2011 vastgesteld op de percentages, bedoeld in bijlage 1 en 2 bij dit besluit.  
+De premies die ten gunste komen van de sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2011 vastgesteld op de percentages, bedoeld in bijlage 1 en 2 bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2013 
 
-Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2011.  
+Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2011. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2013 
 
-Dit besluit wordt aangehaald als: Besluit vaststelling sectorpremies 2011.  
+Dit besluit wordt aangehaald als: Besluit vaststelling sectorpremies 2011. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 26 oktober 2010   
 
-J.M. Linthorst,  
-voorzitter Raad van bestuur UWV   
+J.M. Linthorst, 
+voorzitter Raad van bestuur UWV  
 
-### Bijlage  1  
+### Bijlage 1  
+Materieel uitgewerkt per 01-01-2013 
 
 | Sector  | Sectorpremie  zonder Eigen Risico ZW  | Sectorpremie  Eigen Risicodragers ZW  |
 |:---|:---|:---|
@@ -91,7 +95,8 @@ voorzitter Raad van bestuur UWV
 | 68  | Railbouw  | 0,40%  | 0,22%  |
 | 69  | Telecommunicatie  | 1,49%  | 1,24%  |
 
-### Bijlage  2  
+### Bijlage 2  
+Materieel uitgewerkt per 01-01-2013 
 
 | Sector  | Premiegroep  | Premiegroepen zonder Eigen Risico ZW  | Premiegroepen Eigen Risicodragers ZW  |
 |:---|:---|:---|:---|

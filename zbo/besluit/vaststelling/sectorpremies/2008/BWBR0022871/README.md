@@ -7,29 +7,34 @@ Gelet op [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen]
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2010 
 
-De premies die ten gunste komen van de Sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) worden voor het jaar 2008 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit.  
+De premies die ten gunste komen van de Sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) worden voor het jaar 2008 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2010 
 
-Het Besluit vaststelling wachtgeldpremies 2007 wordt ingetrokken.  
+Het Besluit vaststelling wachtgeldpremies 2007 wordt ingetrokken. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2010 
 
-Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2008.  
+Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2008. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2010 
 
-Dit besluit wordt aangehaald als: Besluit vaststelling sectorpremies 2008.  
+Dit besluit wordt aangehaald als: Besluit vaststelling sectorpremies 2008. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 6 november 2007   
 
 Voorzitter Raad van bestuur UWV, 
-J.M.Linthorst  
+J.M. Linthorst    
 
-### Bijlage  1  
+### Bijlage 1  
+Materieel uitgewerkt per 01-01-2010 
 
 Sectorpremies* 2008 
 
@@ -97,7 +102,7 @@ Sectorpremies* 2008
 | 68  | Railbouw  | 0,00%  | 0,00%  |
 | 69  | Telecommunicatie  | 0,98%  | 0,85%  |
 
-* Sectorpremies exclusief opslag voor de verplichte werkgeversbijdrage kinderopvang.  Premies* per premiegroep 2008 
+* Sectorpremies exclusief opslag voor de verplichte werkgeversbijdrage kinderopvang. Premies* per premiegroep 2008  
 
 | Sectoren  |--- | Premie-  percentage  | Premiepercentage  Eigenrisicodragers ZW  |
 |:---|:---|:---|:---|
@@ -132,4 +137,4 @@ Sectorpremies* 2008
 | --- | Kort  | 5,10%  | 4,58%  |
 | --- | Lang  | 1,47%  | 0,95%  |
 
-* Sectorpremies exclusief opslag voor de verplichte werkgeversbijdrage kinderopvang. 
+* Sectorpremies exclusief opslag voor de verplichte werkgeversbijdrage kinderopvang.

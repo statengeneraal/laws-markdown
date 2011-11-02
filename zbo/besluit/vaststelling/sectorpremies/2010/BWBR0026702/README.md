@@ -7,27 +7,32 @@ Gelet op [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen]
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2012 
 
-De premies die ten gunste komen van de sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2010 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit.  
+De premies die ten gunste komen van de sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2010 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2012 
 
-Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2010.  
+Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2010.
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2012 
 
-Dit besluit wordt aangehaald als: Besluit vaststelling sectorpremies 2010.  
+Dit besluit wordt aangehaald als: Besluit vaststelling sectorpremies 2010.
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 3 november 2009   
 
 J.M. Linthorst  
-voorzitter Raad van bestuur UWV   
+voorzitter Raad van bestuur UWV  
 
 ### Bijlage  1  
 
 ####: Sectorpremies 2010
+
+Materieel uitgewerkt per 01-01-2012 
 
 | Sectoren  |--- | Premie- percentage  | Premiepercentage Eigenrisicodragers ZW  |
 |:---|:---|:---|:---|

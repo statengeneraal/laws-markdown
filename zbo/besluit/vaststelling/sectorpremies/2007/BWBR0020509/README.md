@@ -7,30 +7,35 @@ Gelet op [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen]
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2009 
 
-De premies die ten gunste komen van de sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2007 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit.  
+De premies die ten gunste komen van de sectorfondsen, bedoeld in [artikel 28, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2007 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2009 
 
-Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2007.  
+Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2007. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2009 
 
-Dit besluit wordt aangehaald als: Besluit vaststelling sectorpremies 2007.  
+Dit besluit wordt aangehaald als: Besluit vaststelling sectorpremies 2007. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 7 november 2006   
 
 De 
-VoorzitterRaad van bestuur UWV, 
-J.M.Linthorst  
+Voorzitter Raad van bestuur UWV, 
+J.M. Linthorst    
 
 ### Bijlage  1  
 
 ####Sectorpremies 2007
 
-| Sectoren  | Premie-  percentage  | Premiepercen-  tage eigen-  risicodragers ZW  |
+Materieel uitgewerkt per 01-01-2009 
+
+|  Sectoren   |  Premie-   percentage  |  Premiepercen-  tage eigen-   risicodragers ZW   |
 |:---|:---|:---|
 | 1  | Agrarisch bedrijf  | 1,29%  | 0,88%  |
 | 2  | Tabakverwerkende industrie  | 1,50%  | 1,36%  |
@@ -96,7 +101,7 @@ J.M.Linthorst
 
 Premies per premiegroep 2007 
 
-| Sectoren  | Premie-  percentage  | Premieper-  centage eigen  risicodragers  |
+|  Sectoren   |  Premie-   percentage  |  Premieper-  centage eigen   risicodragers   |
 |:---|:---|:---|
 | 1  | Agrarisch bedrijf  | --- | --- |
 | --- | Kort  | 9,25%  | 6,36%  |

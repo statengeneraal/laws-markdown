@@ -44,8 +44,8 @@ Een taxatierapport dient te worden opgesteld door een onafhankelijke taxateur, w
 Voor informatie over de inhoud van deze circulaire en andere vragen over verkoop van corporatiewoningen kunt u contact opnemen met het ministerie van BZK (070-3392474).     
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.P.H.Donner  
+minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.P.H. Donner    
 
 ### Bijlage  1  
 
