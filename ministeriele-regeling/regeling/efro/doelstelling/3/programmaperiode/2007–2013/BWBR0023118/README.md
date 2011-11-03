@@ -84,7 +84,7 @@ c. de totale subsidiabele kosten van het project minder bedragen dan € 200.00
 
 d. het project niet valt in prioriteit 1 of prioriteit 4 van het programma, bedoeld in artikel 2, onderdeel c;  
 
-e. het project niet valt in prioriteit 1 of prioriteit 5 van het programma, bedoeld in artikel 2, onderdeel d; of  
+e. het project niet valt in prioriteit 1, prioriteit 4 of prioriteit 5 van het programma, bedoeld in artikel 2, onderdeel d; of  
 
 f. het project niet past binnen de criteria, bedoeld in artikel 65, onder a, van de Kaderverordening.     
 2.  In aanvulling op het eerste lid beslist de Minister afwijzend indien een project valt in prioriteit 1 en het project niet in voldoende mate bijdraagt aan ten minste twee van de volgende doelstellingen: 

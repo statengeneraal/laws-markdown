@@ -63,7 +63,8 @@ c. de managementautoriteit door toewijzing niet zou voldoen aan één van de ver
 
 1.  De subsidieontvanger voert het project uit overeenkomstig het projectplan waarop de subsidieverlening betrekking heeft en voltooit het uiterlijk op het bij de verlening bepaalde tijdstip, behoudens schriftelijke ontheffing van de managementautoriteit voor het vertragen, het essentieel wijzigen of het stopzetten van het project.   
 2.  De subsidieontvanger voert het project in Nederland uit, behoudens voorafgaande schriftelijke ontheffing van de managementautoriteit voor gedeeltelijke uitvoering buiten Nederland.   
-3.  Aan een ontheffing als bedoeld in het eerste of tweede lid kunnen voorschriften worden verbonden.   
+3.  De in artikel 57, eerste lid, van de Kaderverordening bedoelde termijn van vijf jaar wordt in geval van een MKB-ondernemer verkort tot drie jaar.   
+4.  Aan een ontheffing als bedoeld in het eerste of tweede lid kunnen voorschriften worden verbonden.   
 
 ### Artikel  9  
 
@@ -76,6 +77,10 @@ a. indien hij een rechtspersoon is, de rechtspersoon ontbinden of geheel of gede
 b. indien hij deelnemer is in een samenwerkingsverband in de vorm van een commanditaire vennootschap, een vennootschap onder firma of een maatschap, meewerken aan de ontbinding ervan of aan het uittreden van een of meer deelnemers ervan.     
 4.  Aan een ontheffing als bedoeld in het derde lid kunnen voorschriften worden verbonden.   
 
+### Artikel  9a  
+
+Als procedure, bedoeld in artikel 19, vijfde lid, van de Uitvoeringsverordening, wordt vastgesteld de in de bij deze regeling behorende bijlage 1 opgenomen procedure.  
+
 ### Artikel  10  
 
 1.  Als subsidiabele kosten worden uitsluitend de volgende rechtstreeks aan het project toe te rekenen kosten in aanmerking genomen: 
@@ -86,7 +91,9 @@ a. de volgende door de subsidieontvanger gemaakte en betaalde kosten:
 
 – de loonkosten plus overhead systematiek, opgenomen in artikel 10a, eerste lid,  
 
-– de integraal uurtarief systematiek, opgenomen in artikel 10a, tweede tot en met vierde lid;    
+– de integraal uurtarief systematiek, opgenomen in artikel 10a, tweede tot en met vierde lid;  
+
+– forfaitaire kosten berekend door toepassing van van overheidswege gehanteerde standaardschalen van eenheidskosten;    
 
 2°. kosten ten behoeve van promotie en publiciteit;  
 
@@ -94,9 +101,9 @@ a. de volgende door de subsidieontvanger gemaakte en betaalde kosten:
 
 4°. aankoop of inbreng van gebouwen en onroerende zaken, met inbegrip van de kosten voor aankoop, belastingen, leges en taxatiekosten, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;  
 
-5°. kosten van de voor het project aangeschafte machines en apparatuur en productiemiddelen, de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;  
+5°. kosten van de voor het project aangeschafte machines en apparatuur en productiemiddelen, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;  
 
-6°. kosten van het gebruik voor het project van machines en apparatuur die in het bezit zijn van een deelnemer aan het kennisproject of van derden, de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;  
+6°. kosten van het gebruik voor het project van machines en apparatuur die in het bezit zijn van een deelnemer aan het kennisproject of van derden, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;  
 
 7°. kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen;  
 
@@ -173,4 +180,53 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van derHoeven  
+
+### Bijlage  
+
+####, bedoeld in artikel 9a  van de regeling efro doestelling 2 programmaperiode 2007–2013
+
+####Procedures voor authentiek gewaarmerkte versies van originele bewijsstukken en digitale bewijsstukken
+
+In het kader van de verantwoording dient de subsidieontvanger de kosten te onderbouwen met originele bewijsstukken. Artikel 19 van de Uitvoeringsverordening maakt het mogelijk om gewaarmerkte kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een waarmerkingsprocedure voor de vaststelling van de authenticiteit worden opgesteld. De Europese Commissie accepteert op basis van bovengenoemd artikel ten minste de volgende documenten als bewijsstukken: 
+
+a. fotokopieën van originelen;  
+
+b. microfiches van originelen;  
+
+c. elektronische versies van originelen;  
+
+d. documenten die uitsluitend in elektronische versie bestaan, mits de gebruikte computersystemen voldoen aan aanvaarde beveiligingsnormen die waarborgen dat de bewaarde documenten voldoen aan de eraan te stellen wettelijke eisen en dat bij controles op deze documenten kan worden gesteund.   Hieronder vindt u de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de EFRO-administratie. Niet vergeten mag worden dat ook voor deze bewijsstukken de bewaarplicht van bewijsstukken van toepassing is (artikel 90 van de Kaderverordening). De subsidieontvanger dient derhalve te waarborgen dat ook deze bewijsstukken daaraan zullen voldoen.  
+
+####Procedure voor het waarmerken van geconverteerde documenten (onderdelen a en b)
+
+De Belastingdienst spreekt van conversie van gegevens op het moment dat gegevens vanaf de originele gegevensdrager worden overgezet naar een andere gegevensdrager. In de opsomming van de Europese Commissie (artikel 19 van Verordening (EG) 1828/2006) gaat het dan om de onderdelen a en b: fotokopieën van originelen, microfiches van originelen. Deze procedure kan bijvoorbeeld worden toegepast indien het project een samenwerkingsverband betreft en de penvoerder - het aanspreekpunt c.q. de eerstverantwoordelijke namens alle projectpartners - alle bewijsstukken wil of dient over te leggen. U kunt deze geconverteerde gegevens onder voorwaarden gebruiken als bewijsstukken ter onderbouwing van de EFRO-administratie. Als dit op de juiste wijze gebeurt, is het, in het kader van de EFRO-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager over te leggen. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden. Voorwaarde hierbij is dat het document dat naar een nieuwe gegevensdrager wordt geconverteerd, vóór conversie wordt gewaarmerkt door de begunstigde c.q. de eigenaar van het document. Dit wordt als volgt bewerkstelligd: de betrokken functionaris zet op het origineel, voordat het wordt geconverteerd, een waarmerk door (1.) een handtekening, (2.) de datum van waarmerking en (3.) de mededeling dat het gaat om waarmerking ten behoeve van EFRO . Vervolgens is dat waarmerk ook zichtbaar op het geconverteerde document. <sup> 1  Voorzover dat niet al duidelijk blijkt.  </sup>  
+
+####Procedure voor elektronische versies van originelen (onderdeel c)
+
+In Nederland is de praktijk steeds vaker dat bij binnenkomst een document direct wordt gescand en met de gescande versie het verdere traject wordt doorlopen. In dat geval dient de betrouwbaarheid, authenticiteit en integriteit van het omzettingsproces en van de elektronische versies te worden gewaarborgd. Het is aan de subsidieontvanger om aan te tonen dat het scanproces en het verdere verloop c.q. de verdere procesgang binnen de organisatie daaraan kan voldoen. Indien de verdere procesgang volkomen elektronisch geschiedt, moet de subsidieontvanger kunnen aantonen dat: 
+
+* de originelen volgens een standaard procedure worden omgezet;  
+
+* de functiescheiding binnen het systeem wordt gewaarborgd en  
+
+* beoordelingen en vaststellingen door daartoe gerechtigden niet meer te wijzigen zijn.   Indien de verdere procesgang overeenkomt met die van een papieren bewijsstuk (de verdere afhandeling geschiedt met een print van de scan, welke aan het einde weer wordt gescand), moet de subsidieontvanger kunnen aantonen dat: 
+
+* documenten volgens een standaard procedure worden omgezet en  
+
+* het verdere verloop c.q. afhandeling blijkt uit de verschillende en/of laatste versie van de scans.    
+
+####Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
+
+Indien een subsidieontvanger gebruik maakt van elektronische documenten waarvan uitsluitend een elektronische versie bestaat, dienen de geautomatiseerde systemen voorzien te zijn van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Hierbij kan worden aangesloten op de voorschriften die de Belastingdienst stelt aan digitale administraties. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt. 
+
+1. Digitale urenadministratie Om aan de eisen van betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens te kunnen voldoen moet de subsidieontvanger kunnen aantonen dat: 
+
+* de functiescheiding binnen het systeem wordt gewaarborgd;  
+
+* de tijdigheid binnen het systeem wordt gewaarborgd;  
+
+* vaststellingen na accorderen door de leidinggevende niet meer te wijzigen zijn. Het is aan de subsidieontvanger om dit aan te tonen.    
+
+2. Facturen die digitaal worden ontvangen Om aan de eisen van betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens te kunnen voldoen kan de subsidieontvanger via de onderlinge relatie met andere documenten (zoals een offerte, opdracht en betaalbewijs) aantonen dat de voor de controle kan worden gesteund op de digitale factuur.    
+
