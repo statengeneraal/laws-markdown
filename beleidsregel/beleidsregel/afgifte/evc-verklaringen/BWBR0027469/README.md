@@ -54,17 +54,17 @@ a. het verzoek is schriftelijk ingediend;
 
 b. het verzoek bevat de aanduiding van de EVC-standaard(en) waarvoor de verklaring wordt gevraagd en de naam van de beoogde EVC-aanbieder;  
 
-c. het verzoek gaat vergezeld van een schriftelijk beoordelingsrapport van een beoordelende organisatie, en  
+c. het verzoek gaat vergezeld van een deugdelijk schriftelijk beoordelingsrapport van een beoordelende organisatie, en  
 
 d. de EVC-aanbieder voldoet aan alle onderdelen van de normtekst (zie bijlage 1).     
-2.  Indien de EVC-verklaring betrekking heeft op activiteiten die behoren tot het domein landbouw en natuurlijke omgeving vindt tevens afstemming plaats tussen de Minister en de Minister van Landbouw, Natuur en Voedselkwaliteit alvorens de verklaring wordt afgegeven.   
+2.  Indien de EVC-verklaring betrekking heeft op activiteiten die behoren tot het domein landbouw en natuurlijke omgeving vindt tevens afstemming plaats tussen de Minister en de Minister van Economische Zaken, Landbouw en Innovatie alvorens de verklaring wordt afgegeven.   
 
 ### Artikel  5  
 
 ####Besluit tot afgifte EVC-verklaring
 
 1.  Het besluit tot afgifte van een EVC-verklaring bevat een aanduiding van de EVC-standaard waarop de verklaring betrekking heeft en de naam van de EVC-aanbieder aan wie de verklaring wordt verstrekt.   
-2.  Het besluit tot afgifte van een EVC-verklaring vervalt drie jaar na de datum waarop het genomen is.   
+2.  Het besluit tot afgifte van een EVC-verklaring vervalt drie jaar na de datum waarop het genomen is. Artikel 6, tiende lid, is van overeenkomstige toepassing.   
 3.  Een EVC-aanbieder kan tot uiterlijk twee maanden voor de datum waarop het besluit tot afgifte van een EVC-verklaring vervalt een verzoek tot verlenging indienen.   
 4.  Voor het verzoek, bedoeld in het derde lid, gelden dezelfde procedurele voorwaarden als genoemd in artikel 4.   
 
@@ -75,15 +75,25 @@ d. de EVC-aanbieder voldoet aan alle onderdelen van de normtekst (zie bijlage 1)
 1.  Indien de Minister ten aanzien van een verzoek vaststelt dat niet wordt voldaan aan de normteksten, behorende bij code 1, wijst hij het verzoek af.   
 2.  Indien de Minister ten aanzien van een verzoek vaststelt dat niet wordt voldaan aan alle onderdelen van de normtekst, maar ten minste wordt voldaan aan de onderdelen bij code 1, besluit hij: 
 
-a. tot afgifte van een voorlopige EVC-verklaring onder de voorwaarde dat binnen een jaar een geheel nieuwe beoordeling plaatsvindt;  
+a. tot afgifte van een voorlopige EVC-verklaring onder de voorwaarde dat binnen een jaar een geheel nieuwe beoordeling plaatsvindt. Het tiende lid is van overeenkomstige toepassing;  
 
-b. tot afgifte van een EVC-verklaring met een geldigheidsduur van een jaar indien uit de nieuwe beoordeling, bedoeld in onderdeel a, blijkt dat ten minste wordt voldaan aan de onderdelen 1.1 tot en met 1.3, de onderdelen 3.1, 3.2, 3.3, 3.4, 3.5 en de onderdelen 4.1 tot en met 4.7 van de normtekst, onder de voorwaarde dat er binnen een jaar een gedeeltelijke nieuwe beoordeling plaatsvindt;  
+b. tot afgifte van een EVC-verklaring met een geldigheidsduur van een jaar indien uit de nieuwe beoordeling, bedoeld in onderdeel a, het vierde lid respectievelijk het zevende lid, blijkt dat ten minste wordt voldaan aan de onderdelen 1.1 tot en met 1.3, de onderdelen 3.1, 3.2, 3.3, 3.4, 3.5 en de onderdelen 4.1 tot en met 4.7 van de normtekst, onder de voorwaarde dat er binnen een jaar een gedeeltelijke nieuwe beoordeling plaatsvindt;  
 
-c. het verzoek om afgifte van een EVC-verklaring af te wijzen indien uit de geheel nieuwe beoordeling, bedoeld in onderdeel a, niet blijkt dat ten minste wordt voldaan aan de onderdelen 1.1 tot en met 1.3, de onderdelen 3.1, 3.2, 3.3, 3.4, 3.5 en de onderdelen 4.1 tot en met 4.7 van de normtekst of uit de nieuwe, gedeeltelijke beoordeling, bedoeld in onderdeel b, niet blijkt dat alsnog is voldaan aan alle onderdelen van de normtekst.     
-3.  Indien de Minister ten aanzien van een verzoek vaststelt dat niet wordt voldaan aan alle onderdelen van de normtekst, maar ten minste wordt voldaan aan de onderdelen 1.1 tot en met 1.3, de onderdelen 3.1, 3.2, 3.3, 3.4, 3.5 en de onderdelen 4.1 tot en met 4.7 van de normtekst, besluit hij tot afgifte van een voorlopige EVC-verklaring onder de voorwaarde dat binnen een jaar een gedeeltelijk nieuwe beoordeling plaatsvindt. Het tweede lid, onderdeel c, is van overeenkomstige toepassing.   
-4.  Indien de Minister ten aanzien van een verzoek vaststelt dat nog niet kan worden voldaan aan de Kwaliteitscode EVC omdat er door de aanbieder nog geen ervaringscertificaten zijn uitgereikt voor de betreffende EVC-standaard, geeft de Minister een voorlopige EVC-verklaring af als de EVC-aanbieder voldoet aan alle onderdelen van de normtekst, met uitzondering van de onderdelen 3.9, 4.6 en 5.2, onder de voorwaarde dat binnen een jaar een geheel nieuwe beoordeling plaatsvindt. Het tweede lid, onderdelen b en c, is van overeenkomstige toepassing.   
+c. het verzoek om afgifte van een EVC-verklaring af te wijzen indien uit de geheel nieuwe beoordeling, bedoeld in onderdeel a, het vierde lid respectievelijk het zevende lid, niet blijkt dat ten minste wordt voldaan aan de onderdelen 1.1 tot en met 1.3, de onderdelen 3.1, 3.2, 3.3, 3.4, 3.5 en de onderdelen 4.1 tot en met 4.7 van de normtekst of uit de nieuwe, gedeeltelijke beoordeling, bedoeld in onderdeel b respectievelijk het derde lid, niet blijkt dat alsnog is voldaan aan alle onderdelen van de normtekst.     
+3.  Indien de Minister ten aanzien van een verzoek vaststelt dat niet wordt voldaan aan alle onderdelen van de normtekst, maar ten minste wordt voldaan aan de onderdelen 1.1 tot en met 1.3, de onderdelen 3.1, 3.2, 3.3, 3.4, 3.5 en de onderdelen 4.1 tot en met 4.7 van de normtekst, besluit hij tot afgifte van een voorlopige EVC-verklaring onder de voorwaarde dat binnen een jaar een gedeeltelijk nieuwe beoordeling plaatsvindt. Het tweede lid, onderdeel c en het tiende lid is van overeenkomstige toepassing.   
+4.  Indien de Minister ten aanzien van een verzoek vaststelt dat nog niet kan worden voldaan aan de Kwaliteitscode EVC omdat er door de aanbieder nog geen ervaringscertificaten zijn uitgereikt voor de betreffende EVC-standaard, geeft de Minister een voorlopige EVC-verklaring af als de EVC-aanbieder voldoet aan alle onderdelen van de normtekst, met uitzondering van de onderdelen 3.9, 4.6 en 5.2, onder de voorwaarde dat binnen een jaar en drie maanden een geheel nieuwe beoordeling op alle onderdelen van de normtekst plaatsvindt. Het tweede lid, onderdelen b en c, is van overeenkomstige toepassing.   
 5.  Een besluit als bedoeld in het tweede lid, onderdeel a, het derde lid, respectievelijk het vierde lid, vervalt een jaar na de datum waarop het is genomen.   
 6.  Indien de in het tweede lid, onderdeel a, het derde lid, respectievelijk het vierde lid bedoelde nieuwe beoordeling leidt tot de conclusie dat het verzoek alsnog voldoet aan de Kwaliteitscode EVC wordt de geldigheidsduur van het besluit met drie jaar verlengd. Artikel 5, derde en vierde lid, is ten aanzien van het verlengde besluit van overeenkomstige toepassing.   
+7.  De Minister toetst een verzoek van een EVC-aanbieder om erkenning van een standaard, die verwant is aan de EVC-standaard waarop de EVC-verklaring betrekking heeft en waarvoor door de aanbieder nog geen ervaringscertificaten zijn uitgereikt, aan alle onderdelen van de normtekst, met uitzondering van de onderdelen 3.9, 4.6 en 5.2, onder de voorwaarde dat binnen de resterende geldigheidsduur van de eerder afgegeven EVC-verklaring een geheel nieuwe beoordeling op alle onderdelen van de normtekst plaatsvindt. Het tweede lid, onderdelen b en c en het tiende lid is van overeenkomstige toepassing.   
+8.  Het verzoek, als bedoeld in het zevende lid, moet voldoen aan de volgende voorwaarden: 
+
+a. de EVC-aanbieder heeft een eerder afgegeven EVC-verklaring, als bedoeld in artikel 5, voor een EVC-standaard die verwant is aan de standaard waarop het verzoek betrekking heeft;  
+
+b. de EVC-standaard wordt vanuit hetzelfde onderdeel van de EVC-aanbieder uitgevoerd; en  
+
+c. indien eerder aan de EVC-aanbieder voor de standaard waarop het verzoek betrekking heeft een voorlopige EVC-verklaring is afgegeven, kan de EVC-aanbieder niet eerder dan zes maanden na afloop van de voorlopige EVC-verklaring van de betreffende standaard een nieuw verzoek voor een voorlopige EVC-verklaring indienen.     
+9.  De EVC-verklaring, afgegeven met toepassing van het zevende lid, heeft een geldigheidsduur die overeenkomt met de resterende geldigheidsduur van de eerder afgegeven EVC-verklaring.   
+10.  Een EVC-aanbieder kan niet eerder dan zes maanden na het afwijzen van een verzoek op grond van artikel 6, tweede lid, onderdeel c of artikel 4, eerste lid, onderdeel d, of zes maanden na het verlopen van de EVC-verklaring, een nieuw verzoek voor een voorlopige EVC-verklaring indienen voor de betreffende standaard.   
 
 ### Artikel  7  
 
