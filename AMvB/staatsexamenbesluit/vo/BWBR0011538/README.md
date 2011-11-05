@@ -24,52 +24,60 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;  
+*centraal examen:* het centraal examen, bedoeld in artikel 4, derde lid;  
 
-b.  vervallen;   
+*college-examen:* het college-examen, bedoeld in artikel 4, tweede lid;  
 
-c. inspectie: de inspectie, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+*College voor examens:* College voor examens, genoemd in [artikel 2, eerste lid, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md);  
 
-d. vwo: voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*deeleindexamen:* het deeleindexamen, bedoeld in [artikel 1, eerste lid, van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
 
-e. havo: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*deelstaatsexamen:* het examen in één of meer van de voor het staatsexamen voorgeschreven vakken;  
 
-f. opleiding vavo: een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover leidend tot het diploma vwo, het diploma havo of het diploma voorbereidend middelbaar beroepsonderwijs theoretische leerweg, genoemd in [artikel 10 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*havo:* hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-g. school: een school voor vwo, een school voor havo of een school voor mavo, tenzij anders blijkt;  
+*inspectie:* de inspectie, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
-h. instelling voor educatie en beroepsonderwijs: een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft door die instelling verzorgde opleidingen vavo;  
+*instelling voor educatie en beroepsonderwijs:* een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft door die instelling verzorgde opleidingen vavo;  
 
-i. staatsexamen: het staatsexamen ter verkrijging van het diploma vwo, het diploma havo of het diploma voorbereidend middelbaar beroepsonderwijs theoretische leerweg, genoemd in [artikel 10 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*kandidaat:* degene die zich op grond van artikel 3 heeft aangemeld voor toelating tot het afleggen van het staatsexamen of deelstaatsexamen;  
 
-j. deelstaatsexamen: het examen in één of meer van de voor het staatsexamen voorgeschreven vakken;  
+*maatschappelijke stage:* maatschappelijke stage als bedoeld in [artikel 6f van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-k. college-examen: het college-examen, bedoeld in artikel 4, tweede lid;  
+*mavo:* middelbaar algemeen voortgezet onderwijs, als bedoeld in [artikel 9 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-l. centraal examen: het centraal examen, bedoeld in artikel 4, derde lid;  
+*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;  
 
-m. deeleindexamen: het deeleindexamen, bedoeld in [artikel 1, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
+*opleiding vavo:* een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover leidend tot het diploma vwo, het diploma havo of het diploma voorbereidend middelbaar beroepsonderwijs theoretische leerweg, genoemd in [artikel 10 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-n. College voor examens: College voor examens, genoemd in [artikel 2, eerste lid, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md);  
+*profiel:* een in [artikel 12 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) genoemd profiel;  
 
-o. profiel: een in [artikel 12 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) genoemd profiel;  
+*profielwerkstuk:* het in [artikel 4, derde lid, van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) bedoelde profielwerkstuk;  
 
-p. profielwerkstuk: het in [artikel 4, tweede lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) bedoelde profielwerkstuk;  
+*school:* een school voor vwo, een school voor havo of een school voor mavo, tenzij anders blijkt;  
 
-q. sector: een sector als bedoeld in [artikel 10, derde lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*sector:* een sector als bedoeld in [artikel 10, derde lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-r. sectorwerkstuk: het sectorwerkstuk, bedoeld in [artikel 4, vierde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
+*sectorwerkstuk:* het sectorwerkstuk, bedoeld in [artikel 4, vijfde lid, van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
 
-s. toets: een toets met schriftelijke of mondelinge vragen en opdrachten, of een praktische opdracht;  
+*staatsexamen:* het staatsexamen ter verkrijging van het diploma vwo, het diploma havo of het diploma voorbereidend middelbaar beroepsonderwijs theoretische leerweg, genoemd in [artikel 10 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-t. kandidaat: degene die zich op grond van artikel 3 heeft aangemeld voor toelating tot het afleggen van het staatsexamen of deelstaatsexamen.    
+*toets:* een toets met schriftelijke of mondelinge vragen en opdrachten, of een praktische opdracht;  
+
+*vbo:* voorbereidend beroepsonderwijs, als bedoeld in [artikel 10a van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+
+*vmbo:* vbo in een leerweg als bedoeld in de [artikelen 10](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10b](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [10d van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+
+*vwo:* voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+
+*wet:*[Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
 
 ### Artikel  2  
 
 ####Voorwaarden toelating tot afleggen (deel)staatsexamen
 
 1.  Voor toelating tot het afleggen van het staatsexamen is een bedrag van € 567 verschuldigd.   
-2.  Voor toelating tot het afleggen van deelstaatsexamens is € 56 verschuldigd voor een vak ten aanzien waarvan alleen het college-examen wordt afgelegd, en € 113 voor een vak ten aanzien waarvan zowel het college-examen als het centraal examen wordt afgelegd, met dien verstande dat per kalenderjaar in totaal niet meer is verschuldigd dan € 567.   
+2.  Voor toelating tot het afleggen van deelstaatsexamens is € 56 verschuldigd voor een vak ten aanzien waarvan alleen het centraal examen of alleen het college-examen wordt afgelegd, en € 113 voor een vak ten aanzien waarvan zowel het college-examen als het centraal examen wordt afgelegd, met dien verstande dat per kalenderjaar in totaal niet meer is verschuldigd dan € 567.   
 3.  Het verschuldigde bedrag wordt voldaan op de wijze en voor de datum, bepaald door het College voor examens.   
 4.  Het eerste en tweede lid zijn niet van toepassing op kandidaten die afkomstig zijn van een school voor speciaal voortgezet onderwijs.   
 5.  Zij die aan een staatsexamen of deelstaatsexamen deelnemen, zijn verplicht zich te legitimeren op verzoek van hen die deze examens afnemen of daarop toezicht houden.   
@@ -85,16 +93,16 @@ t. kandidaat: degene die zich op grond van artikel 3 heeft aangemeld voor toelat
 a. het verkrijgen van toelating tot het afleggen van het examen ten overstaan van het College voor examens, of  
 
 b. het overleggen aan het College voor examens van de in artikel 25, derde lid, bedoelde bewijsstukken ter verkrijging van het staatsexamendiploma, al dan niet in combinatie met het afleggen van het examen in een of meer vakken ten overstaan van het College voor examens.     
-3.  Uit de aanmelding voor het staatsexamen blijkt tevens of sprake is van een of meer vrijstellingen of ontheffingen als bedoeld in de artikelen 8 en 10.   
+3.  Uit de aanmelding voor het staatsexamen blijkt tevens of sprake is van een of meer vrijstellingen of ontheffingen als bedoeld in de artikelen 10 en 11.   
 
 ### Artikel  4  
 
-####Indeling (deel)staatsexamen; tijdvakken; profielwerkstuk en sectorwerkstuk
-
-1.  Het staatsexamen en het deelstaatsexamen bestaan voor ieder vak uit een college-examen of uit een college-examen en een centraal examen.   
-2.  Het college-examen omvat mede een profielwerkstuk of een sectorwerkstuk.   
-3.  Het centraal examen kent in elk kalenderjaar een eerste, tweede, derde en vierde tijdvak.   
-4.  Voor de aanvang van het derde tijdvak zendt Onze Minister aan de inspectie een lijst met de kandidaten, de in het eerste of tweede tijdvak door die kandidaten behaalde cijfers, voor zover van toepassing de alsnog behaalde cijfers voor het college-examen, en een overzicht van het vak of de vakken waarin elke kandidaat zal worden geëxamineerd.   
+1.  Het staatsexamen en het deelstaatsexamen kan voor ieder vak bestaan uit een college-examen, uit een centraal examen of uit beide.   
+2.  Het college-examen vwo en havo omvat mede een profielwerkstuk.   
+3.  Het profielwerkstuk heeft betrekking op één of meer vakken van het staatsexamen. Ten minste één van deze vakken heeft een omvang van 400 uur of meer voor vwo en 320 uur voor havo.   
+4.  Het college-examen vmbo voor zover het betreft de theoretisch leerweg en de gemengde leerweg omvat mede een sectorwerkstuk.   
+5.  Het centraal examen kent in elk kalenderjaar een eerste, tweede en derde tijdvak of een nader, door het College voor examens, te bepalen tijdstip.   
+6.  Voor de aanvang van het derde tijdvak zendt Onze Minister aan de inspectie een opgave met de kandidaten, de in het eerste of tweede tijdvak door die kandidaten behaalde cijfers, voor zover van toepassing de alsnog behaalde cijfers voor het college-examen, en een overzicht van het vak of de vakken waarin elke kandidaat zal worden geëxamineerd.   
 
 ### Artikel  6  
 
@@ -124,7 +132,7 @@ d. minder vergaande maatregelen dan die, bedoeld onder a tot en met c.
 
 ####Examenprogramma
 
-1.  Het staatsexamen wordt afgenomen overeenkomstig het desbetreffende examenprogramma, vastgesteld op grond van [artikel 7 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md).   
+1.  Het staatsexamen wordt afgenomen overeenkomstig het desbetreffende examenprogramma, vastgesteld op grond van [artikel 7 van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md).   
 2.  Ten aanzien van het college-examen geldt dat: 
 
 a. keuzen die ingevolge het in het eerste lid bedoelde examenprogramma moeten of kunnen worden gemaakt door de school, worden gemaakt door het College voor examens, en  
@@ -135,35 +143,35 @@ b. het College voor examens kan afwijken van voorschriften met betrekking tot he
 
 ####Vakken staatsexamens
 
-1.  De [artikelen 11](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [12](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [13](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [22 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover zij betrekking hebben op het eindexamen vwo van opleidingen vavo, het eindexamen havo van opleidingen vavo en het eindexamen voorbereidend middelbaar beroepsonderwijs theoretische leerweg van opleidingen vavo, zijn van overeenkomstige toepassing op respectievelijk het staatsexamen vwo, het staatsexamen havo en het staatsexamen voorbereidend middelbaar beroepsonderwijs van de theoretische leerweg.   
+1.  De [artikelen 11](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [12](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [13](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [22 van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover zij betrekking hebben op het eindexamen vwo van opleidingen vavo, het eindexamen havo van opleidingen vavo en het eindexamen voorbereidend middelbaar beroepsonderwijs theoretische leerweg van opleidingen vavo, zijn van overeenkomstige toepassing op respectievelijk het staatsexamen vwo, het staatsexamen havo en het staatsexamen voorbereidend middelbaar beroepsonderwijs van de theoretische leerweg.   
 2.  In afwijking van het eerste lid kan het College voor examens, al dan niet voor een bepaalde groep van kandidaten, besluiten dat geen gelegenheid wordt gegeven tot het afleggen van examen in een vak dat uitsluitend behoort tot het vrije deel van de profielen of tot het vrije deel van de theoretische leerweg. De eerste volzin is van overeenkomstige toepassing ten aanzien van de vakken kunst (drama) en kunst (dans).   
 
 ### Artikel  9  
 
 ####Keuze van staatsexamenvakken
 
-1.  De kandidaat kiest, met inachtneming van dit hoofdstuk, in welke vakken hij het staatsexamen of deelstaatsexamen aflegt.   
-2.  De kandidaat kan in meer vakken staatsexamen afleggen dan in de vakken die ten minste nodig zijn om een staatsexamendiploma te verwerven.   
+De kandidaat kiest, met inachtneming van dit hoofdstuk, in welke vakken hij het staatsexamen of deelstaatsexamen aflegt.  
 
 ### Artikel  10  
 
 ####Vrijstellingen van rechtswege
 
-1.  Onverminderd vrijstellingen en ontheffingen op grond van de [artikelen 11](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [12](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [13](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [22 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en met inachtneming van de beperking in artikel 25, derde lid, aanhef en onderdeel d, dat van een school voor voortgezet onderwijs slechts één cijferlijst in beschouwing kan worden genomen, is de kandidaat die staatsexamen aflegt, 
+1.  Onverminderd vrijstellingen en ontheffingen op grond van de [artikelen 11](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [12](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [13](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [22 van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en met inachtneming van de beperking in artikel 25, derde lid, aanhef en onderdeel d, dat van een school voor voortgezet onderwijs slechts één cijferlijst in beschouwing kan worden genomen, is de kandidaat die staatsexamen aflegt, 
 
-a. vrijgesteld van het examen in een vak in het vwo op grond van een examen vwo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald;  
+a. vrijgesteld van het examen in een vak in het vwo op grond van een examen vwo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
-b. vrijgesteld van het examen in een vak in het havo op grond van een examen vwo of havo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald, en vrijgesteld van het examen in een vak in het mavo op grond van een examen vwo, havo of mavo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald;  
+b. vrijgesteld van het examen in een vak in het havo op grond van een examen vwo of havo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald, en vrijgesteld van het examen in een vak in het mavo op grond van een examen vwo, havo of mavo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
-c. vrijgesteld van het examen in een vak van het vwo, havo of mavo op grond van het overeenkomstige examen, afgelegd in de Nederlandse Antillen of in Aruba, indien voor het overeenkomstige vak een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald;  
+c. vrijgesteld van het examen in een vak van het vwo, havo of mavo op grond van het overeenkomstige examen, afgelegd in de Nederlandse Antillen of in Aruba, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
-d. vrijgesteld van het profielwerkstuk, indien reeds eerder een profielwerkstuk is gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort, behorende tot het profiel van de kandidaat en waarvoor een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald;  
+d. vrijgesteld van het profielwerkstuk, indien reeds eerder een profielwerkstuk is gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort, behorende tot het profiel van de kandidaat en waarvoor een eindcijfer 6 of hoger is behaald;  
 
 e. vrijgesteld van het sectorwerkstuk, indien reeds eerder een sectorwerkstuk is gemaakt dat betrekking heeft op een thema uit die sector, en dat is beoordeeld als «voldoende« of «goed».     
 2.  Het eerste lid is uitsluitend van toepassing indien na het jaar waarin het eindcijfer of de beoordeling is vastgesteld, nog geen 10 jaren zijn verstreken.   
 3.  In aanvulling op het eerste lid, onder a en b, is de kandidaat vrijgesteld van het onderdeel literatuur van elke moderne taal, indien de kandidaat bij het eerder afgelegde examen, voor literatuur een cijfer 6 of hoger heeft behaald.   
 4.  In aanvulling op het eerste lid, onder a tot en met d, en derde lid, is de daar bedoelde kandidaat eveneens vrijgesteld indien het eindcijfer 5 of 4 is behaald, mits de kandidaat voldoet aan de voorwaarden van artikel 26 om te slagen voor het staatsexamen.   
 5.  Bij ministeriële regeling worden nadere voorschriften gegeven voor de toepassing van het eerste lid.   
+6.  [Artikel 52, achtste lid van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  11  
 
@@ -194,21 +202,19 @@ Een verzoek om ontheffing als bedoeld in artikel 11 wordt schriftelijk ingediend
 
 ####Examenreglement en programma van toetsing en afsluiting
 
-1.  Het examenreglement bevat in elk geval informatie over de maatregelen, bedoeld in artikel 6, en de toepassing daarvan, regels met betrekking tot de organisatie van het staatsexamen en deelstaatsexamen en de gang van zaken tijdens het staatsexamen en deelstaatsexamen, de herkansingsmogelijkheden van het college-examen.   
-2.  Het College voor examens stelt jaarlijks voor 1 oktober een programma van toetsing en afsluiting vast ten behoeve van het daaropvolgende kalenderjaar. Het programma vermeldt in elk geval: 
+1.  Het examenreglement bevat in elk geval informatie over de maatregelen, bedoeld in artikel 6, en de toepassing daarvan, regels met betrekking tot de organisatie van het staatsexamen en deelstaatsexamen en de gang van zaken tijdens het staatsexamen en deelstaatsexamen, de herkansingsmogelijkheden van het centraal examen en het college-examen.   
+2.  Het College voor examens stelt jaarlijks voor 1 oktober een programma van toetsing en afsluiting vast ten behoeve van het daaropvolgende kalenderjaar. Het programma vermeldt per vak in elk geval: 
 
-a. welke onderdelen van het examenprogramma in het college-examen worden getoetst,  
+a. welke onderdelen van het examenprogramma worden getoetst,  
 
-b. de inhoud van de verschillende onderdelen van het college-examen,  
+b. de inhoud van de verschillende onderdelen,  
 
-c. de wijze en de tijdstippen waarop het college-examen plaatsvindt, alsmede de duur van de toetsen,  
+c. de wijze en de tijdstippen waarop het centraal examen en de toetsen van het college-examen aanvangen, alsmede de duur van de toetsen,  
 
-d. regels omtrent verhindering voor het college-examen,  
+d. regels omtrent verhindering voor het college-examen, alsmede  
 
-e. de tijdstippen waarop de toetsen van het college-examen aanvangen, de wijze van herkansing van het college-examen, alsmede  
-
-f. de regels voor de wijze waarop het cijfer voor het college-examen voor een kandidaat tot stand komt.     
-3.  Het College voor examens zendt het examenreglement en het programma van toetsing en afsluiting voor 1 januari aan de inspectie. Deze documenten worden tegelijk met de bevestiging van de aanmelding, bedoeld in artikel 3, eerste lid, door de bevestigende instantie aan de kandidaten verstrekt.   
+e. de regels voor de wijze waarop het cijfer voor het college-examen voor een kandidaat tot stand komt.     
+3.  Het College voor examens zendt het examenreglement en het programma van toetsing en afsluiting voor 1 januari aan de inspectie. Deze documenten worden tegelijk met de bevestiging van de aanmelding, bedoeld in artikel 3, eerste lid, door de bevestigende instantie aan de kandidaten ter beschikking gesteld.   
 
 ### Afdeling  2  
 
@@ -242,11 +248,11 @@ Indien bij het College voor examens, al dan niet naar aanleiding van mededelinge
 
 ####Regels omtrent het centraal examen
 
-1.  Onze Minister zorgt voor het tijdig drukken en verzenden van de opgaven, bedoeld in [artikel 2, tweede lid, onderdeel c, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) aan het College voor examens.   
+1.  Onze Minister zorgt voor het tijdig beschikbaar stellen van de opgaven, bedoeld in [artikel 2, tweede lid, onderdeel c, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) aan het College voor examens.   
 2.  Het College voor examens zorgt ervoor dat de opgaven en correctievoorschriften voor het centraal examen geheim blijven tot de aanvang van de toets waarbij deze opgaven aan de kandidaten worden voorgelegd.   
 3.  Tijdens een schriftelijke toets van het centraal examen worden aan de kandidaten geen mededelingen van welke aard ook aangaande de opgaven gedaan, uitgezonderd mededeling van door het College voor examens vastgestelde errata.   
 4.  Het College voor examens draagt er zorg voor dat het nodige toezicht bij het centraal examen wordt uitgeoefend. Zij die toezicht hebben gehouden, maken daarvan een proces-verbaal op en leveren dit samen met het gemaakte examenwerk in bij het College voor examens.   
-5.  Een kandidaat die te laat komt voor een schriftelijke toets, mag nog tot uiterlijk een half uur na de aanvang van die toets worden toegelaten.   
+5.  Een kandidaat die te laat komt, mag nog tot uiterlijk een half uur na de aanvang van een toets worden toegelaten.   
 6.  De aan de kandidaten voorgelegde opgaven voor een schriftelijke toets van het centraal examen blijven in het examenlokaal tot het einde van die toets.   
 7.  De kandidaten leveren de opgaven, de door hen gemaakte aantekeningen alsmede andere door hen gemaakte stukken in bij een van degenen die toezicht houden. Het College voor examens bepaalt, in welke gevallen kan worden afgeweken van de eerste volzin, alsmede in welke gevallen en op welk tijdstip de opgaven, de aantekeningen en de andere stukken, bedoeld in die volzin, aan de kandidaten worden teruggegeven.   
 
@@ -255,7 +261,7 @@ Indien bij het College voor examens, al dan niet naar aanleiding van mededelinge
 ####Correctie centraal examen
 
 1.  Het College voor examens draagt er zorg voor dat het gemaakte werk voor het centraal examen door twee door het College voor examens aan te wijzen correctoren wordt beoordeeld.   
-2.  De correctoren kijken het werk onafhankelijk van elkaar na en zenden het met hun beoordeling aan het College voor examens. De correctoren passen bij hun beoordeling toe de beoordelingsnormen, bedoeld in [artikel 2, tweede lid, onderdeel c, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md). De correctoren drukken hun beoordeling uit in een score overeenkomstig de regels, bedoeld in [artikel 2, tweede lid, onderdeel d, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md).   
+2.  De correctoren kijken het werk onafhankelijk van elkaar na en zenden het met hun beoordeling aan het College voor examens. De correctoren passen bij hun beoordeling toe de beoordelingsnormen, bedoeld in [artikel 2, tweede lid, onderdeel d, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md). De correctoren drukken hun beoordeling uit in een score overeenkomstig de regels, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md).   
 3.  Indien dit het College voor examens noodzakelijk voorkomt, wordt het oordeel van een derde corrector ingeroepen. Het tweede lid is van overeenkomstige toepassing.   
 4.  Het College voor examens stelt op grond van de beoordelingen door de correctoren de eindscore vast.   
 
@@ -263,14 +269,14 @@ Indien bij het College voor examens, al dan niet naar aanleiding van mededelinge
 
 ####Vaststelling cijfer centraal examen
 
-Het College voor examens stelt op grond van de eindscore, bedoeld in artikel 19, vierde lid, het cijfer vast voor het centraal examen. Het College voor examens neemt daarbij in acht de regels, bedoeld in [artikel 2, tweede lid, onderdeel d, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en gebruikt daarbij één van de cijfers uit de schaal lopend van 1 tot en met 10, met de tussenliggende cijfers met 1 decimaal.  
+Het College voor examens stelt op grond van de eindscore, bedoeld in artikel 19, vierde lid, het cijfer vast voor het centraal examen. Het College voor examens neemt daarbij in acht de regels, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en gebruikt daarbij één van de cijfers uit de schaal lopend van 1 tot en met 10, met de tussenliggende cijfers met 1 decimaal.  
 
 ### Artikel  21  
 
 ####Niet op regelmatige wijze afgenomen centraal examen
 
 1.  Indien het centraal examen naar het oordeel van de inspectie niet op regelmatige wijze heeft plaatsgevonden, kan zij besluiten dat het geheel of gedeeltelijk voor een of meer kandidaten opnieuw wordt afgenomen.   
-2.  Indien het eerste lid toepassing vindt, stelt het College voor examens nieuwe opgaven vast en bepaalt het College voor examens op welke wijze en door wie het examen zal worden afgenomen.   
+2.  Indien het eerste lid toepassing vindt, stelt het College voor examens op verzoek van de inspectie nieuwe opgaven vast en bepaalt op welke wijze en door wie het examen zal worden afgenomen.   
 
 ### Artikel  22  
 
@@ -300,8 +306,9 @@ c. ook in het derde tijdvak verhinderd is, of wanneer hij het centraal examen in
 ####Eindcijfer vakken (deel)staatsexamen
 
 1.  Het eindcijfer voor alle vakken van het staatsexamen en deelstaatsexamen wordt uitgedrukt in een geheel cijfer uit de reeks van 1 tot en met 10.   
-2.  Het College voor examens bepaalt het eindcijfer voor een vak op het rekenkundig gemiddelde van het cijfer voor het college-examen en het cijfer voor het centraal examen. Is dit gemiddelde niet een geheel getal, dan wordt het, indien de cijfers achter de komma 45 of lager zijn, naar beneden afgerond en indien deze 46 of hoger zijn, naar boven afgerond.   
+2.  Het College voor examens bepaalt het eindcijfer voor een vak op het rekenkundig gemiddelde van het cijfer voor het college-examen en het cijfer voor het centraal examen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
 3.  Indien in een vak alleen een college-examen wordt afgenomen, is het cijfer voor het college-examen tevens het eindcijfer.   
+4.  Indien in een vak alleen een centraal examen wordt afgenomen, wordt het cijfer voor het centraal examen afgerond overeenkomstig het tweede lid en vormt als gevolg hiervan het eindcijfer.   
 
 ### Artikel  25  
 
@@ -323,16 +330,16 @@ e. een of meer cijferlijsten van instellingen voor educatie en beroepsonderwijs;
 
 f. bewijzen van ontheffing als bedoeld in artikel 11, vierde lid;  
 
-g. bewijzen van ontheffing als bedoeld in [artikel 10, vierde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md).     
+g. bewijzen van ontheffing als bedoeld in [artikel 10, vierde lid, van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md).     
 4.  Cijferlijsten worden uitsluitend bij de vaststelling van de uitslag betrokken, indien na het jaar waarin zij zijn vastgesteld, nog geen 10 jaren zijn verstreken. Bewijzen van ontheffing worden uitsluitend bij de vaststelling van de uitslag betrokken indien na het jaar waarin het onderliggende diploma, getuigschrift of ander bewijsstuk is vastgesteld, nog geen 10 jaren zijn verstreken.   
-5.  De uitslag luidt «geslaagd voor het staatsexamen» of «afgewezen voor het staatsexamen».   
+5.  De uitslag luidt «geslaagd» of «afgewezen».   
 6.  Indien dat nodig is om de kandidaat te laten slagen voor het staatsexamen, betrekt het College voor examens een of meer eindcijfers van de vakken niet bij de bepaling van de definitieve uitslag. De overgebleven vakken dienen een staatsexamen te vormen.   
 
 ### Artikel  26  
 
 ####Uitslag
 
-1.  De kandidaat die het staatsexamen voorbereidend middelbaar beroepsonderwijs van de theoretische leerweg, genoemd in [artikel 10 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), heeft afgelegd, is geslaagd indien hij: 
+1.  De kandidaat die het staatsexamen voorbereidend middelbaar beroepsonderwijs van de theoretische leerweg, genoemd in [artikel 10 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), heeft afgelegd, is geslaagd indien het rekenkundig gemiddelde van zijn bij het centraal examen behaalde cijfers ten minste 5,5 is, en hij tevens: 
 
 a. voor ten hoogste één van zijn examenvakken het eindcijfer 5 heeft behaald en voor zijn overige examenvakken een 6 of hoger,  
 
@@ -341,7 +348,9 @@ b. voor ten hoogste één van zijn examenvakken het eindcijfer 4 heeft behaald e
 c. voor twee van zijn examenvakken het eindcijfer 5 heeft behaald en voor zijn overige examenvakken een 6 of hoger waarvan ten minste één 7 of hoger.     
 2.  De kandidaat die staatsexamen havo of vwo heeft afgelegd, is geslaagd: 
 
-a. indien hij: 
+a. indien het rekenkundig gemiddelde van zijn bij het centraal examen behaalde cijfers ten minste 5,5 is,  
+
+b. indien hij: 
 
 1°. voor al zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald,  
 
@@ -351,7 +360,7 @@ a. indien hij:
 
 4°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald dan wel voor één van de vakken waarvoor een eindcijfer is vastgesteld als eindcijfer 4 en voor één van deze vakken als eindcijfer 5 heeft behaald, en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers tenminste 6,0 bedraagt, en    
 
-b. indien geen van de eindcijfers van onderdelen, genoemd in het derde lid, lager is dan 4.     
+c. indien geen van de eindcijfers van onderdelen, genoemd in het derde lid, lager is dan 4.     
 3.  Bij de uitslagbepaling volgens het tweede lid wordt het gemiddelde van de eindcijfers van ten minste de volgende onderdelen aangemerkt als het eindcijfer van één vak, voor zover voor deze onderdelen een eindcijfer is bepaald: maatschappijleer en het profielwerkstuk en voor v.w.o. ook algemene natuurwetenschappen. Het College voor examens kan aan die onderdelen toevoegen: 
 
 a. literatuur, als onderdeel van alle afzonderlijke moderne talen, met dien verstande dat indien het College voor examens daartoe niet besluit, literatuur voor de bepaling van de eindcijfers een onderdeel is van het college-examen van de desbetreffende taal en literatuur;  
@@ -368,7 +377,7 @@ c. algemene natuurwetenschappen in het h.a.v.o..
 
 ####Herkansing
 
-1.  Onverminderd de artikelen 6 en 23 heeft de kandidaat die in enig jaar met toepassing van artikel 26 is afgewezen voor het staatsexamen, recht op herkansing in het derde tijdvak van dat jaar. Indien de kandidaat op grond van artikel 23, eerste lid onderdeel b, in de gelegenheid wordt gesteld in het derde tijdvak het centraal examen te voltooien, wordt het recht op herkansing uitgeoefend in het vierde tijdvak.   
+1.  Onverminderd de artikelen 6 en 23 heeft de kandidaat die in enig jaar met toepassing van artikel 26 is afgewezen voor het staatsexamen, recht op herkansing in het derde tijdvak van dat jaar. Indien de kandidaat op grond van artikel 23, eerste lid onderdeel b, in de gelegenheid wordt gesteld in het derde tijdvak het centraal examen te voltooien, wordt het recht op herkansing uitgeoefend, overeenkomstig artikel 23, eerste lid, onderdeel c, op een door het College voor examens te bepalen tijdstip.   
 2.  Herkansing houdt in: 
 
 a. het recht om voor één door de kandidaat te kiezen vak waarin hij in dat jaar door het College voor examens is geëxamineerd, opnieuw deel te nemen aan het college-examen, in door het College voor examens vast te stellen onderdelen van het examenprogramma, en  
@@ -418,18 +427,18 @@ d. de vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, met v
 e. de eindcijfers voor de examenvakken, alsmede  
 
 f. de uitslag van het staatsexamen.     
-3.  Het College voor examens draagt er zorg voor dat op grond van de definitieve uitslag aan elke voor het staatsexamen geslaagde kandidaat een diploma wordt uitgereikt waarop het profiel of de profielen zijn vermeld die bij de bepaling van de uitslag zijn betrokken.   
+3.  Het College voor examens draagt er zorg voor dat op grond van de definitieve uitslag aan elke voor het staatsexamen geslaagde kandidaat een diploma wordt uitgereikt waarop het profiel of de profielen zijn vermeld die bij de bepaling van de uitslag zijn betrokken. Op het diploma vmbo-theoretische leerweg is in elk geval de sector of de sectoren vermeld die bij de uitslag worden betrokken.   
 4.  Indien een kandidaat in meer vakken examen heeft afgelegd dan in de vakken die ten minste nodig zijn voor het behalen van het staatsexamen, worden de vakken die niet bij de bepaling van de uitslag zijn betrokken, op de cijferlijst vermeld, tenzij de kandidaat daartegen bezwaar heeft.   
 5.  Onze Minister stelt de modellen van de diploma's en cijferlijsten vast.   
 6.  Voor de vermelding op de cijferlijst van vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend bij het staatsexamen geldt het volgende: 
 
 a. indien het betreft het staatsexamen v.w.o. of het staatsexamen h.a.v.o.: 
 
-1°. de vakken culturele en kunstzinnige vorming en lichamelijke opvoeding van het gemeenschappelijk deel worden niet vermeld op de cijferlijst;  
+1°. de vakken culturele en kunstzinnige vorming en lichamelijke opvoeding van het gemeenschappelijk deel en de maatschappelijke stage worden niet vermeld op de cijferlijst;  
 
 2°. de vakken algemene natuurwetenschappen en maatschappijleer waarvoor de kandidaat bij het staatsexamen v.w.o. is vrijgesteld op grond van het bezit van een diploma h.a.v.o., worden niet vermeld op de cijferlijst;  
 
-3°. vakken waarvoor de kandidaat is vrijgesteld op grond van [artikel 9 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of artikel 10 van dit besluit, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
+3°. vakken waarvoor de kandidaat is vrijgesteld op grond van [artikel 9 van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of artikel 10 van dit besluit, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
 4°. vakken waarvoor de kandidaat bij het staatsexamen v.w.o. is vrijgesteld op grond van een eerder afgelegd eindexamen of staatsexamen h.a.v.o. of v.m.b.o. voor zover het betreft de theoretische leerweg, waarvan deze v.w.o.-vakken deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
@@ -439,9 +448,9 @@ a. indien het betreft het staatsexamen v.w.o. of het staatsexamen h.a.v.o.:
 
 b. indien het betreft het staatsexamen v.m.b.o. theoretische leerweg: 
 
-1°. de vakken behorende tot de beeldende vorming, muziek, dans, drama en lichamelijke opvoeding van het gemeenschappelijk deel worden niet vermeld op de cijferlijst;  
+1°. de vakken behorende tot de beeldende vorming, muziek, dans, drama en lichamelijke opvoeding van het gemeenschappelijk deel en de maatschappelijke stage worden niet vermeld op de cijferlijst;  
 
-2°. vakken waarvoor de kandidaat is vrijgesteld op grond van [artikel 9 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of artikel 10 van dit besluit, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
+2°. vakken waarvoor de kandidaat is vrijgesteld op grond van [artikel 9 van het Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of artikel 10 van dit besluit, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
 3°. vakken waarvoor de kandidaat bij het staatsexamen v.m.b.o. voor zover het betreft de theoretische leerweg, is vrijgesteld op grond van een eerder afgelegd eindexamen v.m.b.o. voor zover het betreft de kaderberoepsgerichte leerweg of de basisberoepsgerichte leerweg waarvan deze vakken dan wel de overeenkomstige vakken, bedoeld [artikel 10, negende lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
@@ -450,7 +459,7 @@ b. indien het betreft het staatsexamen v.m.b.o. theoretische leerweg:
 
 ### Artikel  31  
 
-####Certificaat en cijferlijst
+####Certificaat en cijferlijst deelstaatsexamen
 
 1.  Het College voor examens reikt aan de kandidaat die deelstaatsexamen heeft afgelegd, een cijferlijst uit waarop zijn vermeld, voor zover van toepassing: 
 
@@ -466,8 +475,8 @@ d. de eindcijfers voor de examenvakken
 a. het vak of de vakken waarvoor de kandidaat een eindcijfer 6 of meer heeft behaald, en  
 
 b. het vak of de vakken, het onderwerp of de titel van het profielwerkstuk of het thema van het sectorwerkstuk, alsmede de beoordeling van het sectorwerkstuk, voor zover beoordeeld met «goed» of «voldoende».     
-3.  Onze Minister stelt het model van het certificaat en de cijferlijst vast.   
-4.  Het College voor examens tekent de certificaten.   
+3.  Onze Minister stelt het model van het certificaat en de cijferlijst voor het deelstaatsexamen vast.   
+4.  Het College voor examens tekent de certificaten en de cijferlijsten voor het deelstaatsexamen.   
 
 ### Artikel  32  
 
@@ -484,12 +493,12 @@ b. het vak of de vakken, het onderwerp of de titel van het profielwerkstuk of he
 
 ####Afwijking wijze van examineren
 
-1.  Het College voor examens kan toestaan dat een gehandicapte kandidaat het examen geheel of gedeeltelijk aflegt op een wijze die is aangepast aan de mogelijkheden van die kandidaat. In dat geval bepaalt het College voor examens de wijze waarop het examen zal worden afgelegd.   
+1.  Het College voor examens kan toestaan dat een gehandicapte kandidaat het examen geheel of gedeeltelijk aflegt op een wijze die is aangepast aan de mogelijkheden van die kandidaat. In dat geval bepaalt het College voor examens de wijze waarop het examen zal worden afgelegd, met dien verstande dat aan de overige bepalingen in dit besluit wordt voldaan. Het College voor examens doet hiervan zo spoedig mogelijk mededeling aan de inspectie.   
 2.  Tenzij sprake is van een objectief waarneembare lichamelijke handicap, geldt ten aanzien van de in het eerste lid bedoelde aangepaste wijze van examineren dat: 
 
 a. een deskundigenverklaring voorligt die door een ter zake deskundige psycholoog of orthopedagoog is opgesteld,  
 
-b. de aanpassing voor zover betrekking hebbend op het centraal examen in ieder geval kan bestaan uit een verlenging van de duur van de desbetreffende toets van het centraal examen met een door het College voor examens noodzakelijk geoordeelde periode, en  
+b. de aanpassing voor zover betrekking hebbend op het centraal examen in ieder geval kan bestaan uit een verlenging van de duur van de desbetreffende toets van het centraal examen met ten hoogste 30 minuten, en  
 
 c. een andere aanpassing slechts kan worden toegestaan voor zover daartoe in de onder a genoemde deskundigenverklaring ten aanzien van betrokkene een voorstel wordt gedaan dan wel indien de aanpassing aantoonbaar aansluit bij de begeleidingsadviezen, vermeld in die deskundigenverklaring.     
 3.  Het College voor examens kan ten aanzien van een kandidaat die de Nederlandse taal onvoldoende beheerst, afwijken van de bij of krachtens dit besluit vastgestelde voorschriften, indien de kandidaat met inbegrip van het jaar waarin hij staatsexamen of deelstaatsexamen aflegt, ten hoogste zes jaren onderwijs in Nederland heeft gevolgd en niet het Nederlands als moedertaal heeft. De in de eerste volzin bedoelde afwijking kan betrekking hebben op: 
@@ -497,8 +506,8 @@ c. een andere aanpassing slechts kan worden toegestaan voor zover daartoe in de 
 a. het vak Nederlandse taal en literatuur;  
 
 b. enig ander vak waarbij het gebruik van de Nederlandse taal van overwegende betekenis is.     
-4.  De in het derde lid bedoelde afwijking bestaat ten aanzien van het centraal examen uitsluitend uit een verlenging van de duur van de desbetreffende toets met een door het College voor examens noodzakelijk geoordeelde periode, en het verlenen van toestemming tot het gebruik van een verklarend woordenboek der Nederlandse taal.   
-5.  Van elke afwijking op grond van het eerste en derde lid wordt mededeling gedaan aan de inspectie, in de vorm van een totaaloverzicht van afwijkingen per tijdvak.   
+4.  De in het derde lid bedoelde afwijking bestaat ten aanzien van het centraal examen uitsluitend uit een verlenging van de duur van de desbetreffende toets met ten hoogste 30 minuten, en het verlenen van toestemming tot het gebruik van een verklarend woordenboek der Nederlandse taal.   
+5.  Van elke afwijking op grond van het eerste en derde lid wordt mededeling gedaan aan de inspectie.   
 
 ### Artikel  34  
 
@@ -570,36 +579,18 @@ Het College voor examens kan bij of krachtens dit besluit vastgestelde voorschri
 
 ####Wijziging andere besluiten
 
-### Artikel  37  
-
-####Wijziging [Eindexamenbesluit v.w.o.-.h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)
-
-Wijzigt het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.   
-
-### Artikel  38  
-
-####Wijziging [Besluit van 15 november 1997 Stb. 588](../../../../AMvB/wijzigingsbesluit/inrichtingsbesluit/v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o./enz./etc/BWBR0009021/README.md)
-
-Wijzigt het Besluit van 15 november 1997, houdende wijziging van het Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. en enkele andere besluiten in verband met invoering van profielen in het voortgezet onderwijs (invoering profielen voortgezet onderwijs; Stb. 588).   
-
-### Artikel  39  
-
-####Wijziging [Inrichtingsbesluit W.V.O.](../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md)
-
-Wijzigt het Inrichtingsbesluit W.V.O.   
-
 ### Artikel  44  
 
 ####Inwerkingtreding
 
-1.  Dit besluit treedt met uitzondering van de artikelen 37, 39, 40 wat het [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) betreft, en 41, tweede lid, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.   
-2.  De artikelen 37, 39, 40 wat het [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) betreft, en 41, tweede lid, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld, met dien verstande dat artikel 39 terugwerkt tot en met 1 augustus 1998. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan beide kamers der Staten-Generaal en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in die artikelen geregelde onderwerp bij de wet wordt geregeld.   
+1.  Dit besluit treedt met uitzondering van de artikelen 37, 39, 40 wat het [Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) betreft, en 41, tweede lid, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.   
+2.  De artikelen 37, 39, 40 wat het [Eindexamenbesluit VO](../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) betreft, en 41, tweede lid, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld, met dien verstande dat artikel 39 terugwerkt tot en met 1 augustus 1998. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan beide kamers der Staten-Generaal en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in die artikelen geregelde onderwerp bij de wet wordt geregeld.   
 
 ### Artikel  45  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit staatsexamens vwo-havo-mavo 2000.  
+Dit besluit wordt aangehaald als: Staatsexamenbesluit VO.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

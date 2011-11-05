@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van onze Minister-President, Minister van Algemene Zaken, d.d. 25 februari 1994, nr. 94M001478, handelende in overeenstemming met het gevoelen van de ministerraad van het Koninkrijk;
 
-Gelet op [artikel 10 van het Statuut voor het Koninkrijk](../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) en [artikel 45 van de Grondwet](../../../../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op artikel 10 van het Statuut voor het Koninkrijk en artikel 45 van de Grondwet;
 Hebben goedgevonden en verstaan:     
 ### §  1  
 
@@ -20,7 +20,7 @@ a. de raad: de ministerraad en voor zover zulks uit het Statuut volgt de raad va
 
 b. ministers: de minister-president, de overige bij koninklijk besluit benoemde ministers en voor zover zulks uit het Statuut volgt de gevolmachtigde ministers;  
 
-c. de gevolmachtigde minister: de door de regering van de Nederlandse Antillen onderscheidenlijk van Aruba benoemde gevolmachtigde minister.    
+c. de gevolmachtigde minister: de door de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten benoemde gevolmachtigde minister.    
 
 ### §  2  
 
@@ -38,39 +38,39 @@ c. de gevolmachtigde minister: de door de regering van de Nederlandse Antillen o
 
 1.  Aan de vergaderingen van de raad, de onderraden en de andere commissies uit de raad kunnen deelnemen met raadgevende stem: 
 
-a. de door de regering van de Nederlandse Antillen onderscheidenlijk van Aruba overeenkomstig [artikel 10, tweede lid van het Statuut](../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) aangewezen minister;  
+a. de door de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten overeenkomstig artikel 10, tweede lid van het Statuut aangewezen minister;  
 
 b. De staatssecretarissen, voorzover het zaken betreft waarbij zij uit hoofde van hun taak rechtstreeks zijn betrokken, bij afwezigheid van de minister, of voorzover de raad uit andere hoofde hun aanwezigheid wenselijk acht.     
-2.  De hoofddirecteur van de Rijksvoorlichtingsdienst kan de vergaderingen als toehoorder bijwonen, tenzij de minister-president anders bepaalt.   
+2.  De directeur-generaal van de Rijksvoorlichtingsdienst of diens plaatsvervanger kan de vergaderingen als toehoorder bijwonen, tenzij de minister-president anders bepaalt.   
 
 ### Artikel  4  
 
 1.  De raad beraadslaagt en besluit over het algemeen regeringsbeleid en bevordert de eenheid van dat beleid.   
 2.  Te dien einde beraadslaagt en besluit de raad onder meer over: 
 
-a. 1°. de voorstellen van rijkswet en van wet en de ontwerpen van algemene maatregelen van rijksbestuur en van bestuur alvorens deze aan de Raad van State van het Koninkrijk respectievelijk de Raad van State worden aangeboden, alsmede over de consequenties van de ter zake door de Raad van State van het Koninkrijk respectievelijk de Raad van State uitgebrachte adviezen, indien deze ingrijpende kritiek op de inhoud of de vormgeving van het voorstel of ontwerp bevatten;  
+a.1°. de voorstellen van rijkswet en van wet en de ontwerpen van algemene maatregelen van rijksbestuur en van bestuur alvorens deze aan de Afdeling advisering van de Raad van State van het Koninkrijk respectievelijk de Afdeling advisering van de Raad van State worden aangeboden, alsmede over de consequenties van de ter zake door de Afdeling advisering van de Raad van State van het Koninkrijk respectievelijk de Afdeling advisering van de Raad van State uitgebrachte adviezen, indien deze ingrijpende kritiek op de inhoud of de vormgeving van het voorstel of ontwerp bevatten;  
 
-a.2°. het ter zake van een voorstel van rijkswet en van wet of een ontwerp van algemene maatregel van rijksbestuur en van bestuur vragen van een spoedadvies aan de Raad van State van het Koninkrijk respectievelijk de Raad van State;  
+a.2°. het ter zake van een voorstel van rijkswet en van wet of een ontwerp van algemene maatregel van rijksbestuur en van bestuur vragen van een spoedadvies aan de Afdeling advisering van de Raad van State van het Koninkrijk respectievelijk de Afdeling advisering van de Raad van State;  
 
 a.3°. een voorstel of ontwerp waarover eerder door de raad is besloten, indien daarin ingrijpende wijzigingen worden aangebracht of indien hetgeen bij de verdere behandeling wordt aangevoerd tot ingrijpende wijziging aanleiding kan geven, dan wel indien intrekking van het voorstel of ontwerp wordt overwogen, een en ander tenzij dringende redenen zich naar het oordeel van de minister die voor het voorstel of ontwerp in de eerste plaats verantwoordelijk is en de minister-president zich tegen hernieuwde behandeling verzetten;  
 
-a.4°. de bekrachtiging van door de Staten-Generaal aangenomen initiatiefvoorstellen van wet;  
+a.4°. de bekrachtiging van door de Staten-Generaal aangenomen initiatiefvoorstellen van rijkswet en van wet, alsmede het standpunt dat terzake bij de beraadslaging in elk der Kamers der Staten-Generaal zal worden ingenomen;  
 
 b. verdragen alvorens deze ter stilzwijgende goedkeuring aan de beide Kamers der Staten-Generaal worden toegezonden;  
 
-c. nota’s aan de Staten-Generaal alsmede die adviesaanvragen aan externe adviesorganen die kunnen leiden tot belangrijke politieke en financiële consequenties;  
+c. nota’s aan de Staten-Generaal alsmede die adviesaanvragen aan adviescolleges in de zin van de Kaderwet adviescolleges en de colleges in de zin van artikel 2, onder b, van de Kaderwet adviescolleges die kunnen leiden tot belangrijke politieke en financiële consequenties;  
 
 d. het bekendheid geven aan beleidsvoornemens in welke vorm dan ook, die van invloed kunnen zijn op de positie van het kabinet, of die belangrijke financiële consequenties kunnen hebben, benevens over beleidsvoornemens van een minister die het beleid van andere ministers kunnen raken en waarover het bereiken van overeenstemming niet mogelijk is gebleken;  
 
-e. de instelling, taak en samenstelling van externe adviesorganen;  
+e. de instelling, taak en samenstelling van adviescolleges in de zin van de Kaderwet adviescolleges en de colleges in de zin van artikel 2, onder b, van de Kaderwet adviescolleges;  
 
 f. de instelling, taak en samenstelling van interdepartementale commissies, indien deze een permanent karakter hebben of indien de werkzaamheden kunnen leiden tot belangrijke politieke en financiële consequenties;  
 
-g. publikatie van de rapporten van externe adviesorganen indien daarvan ambtenaren deel uitmaken en van interdepartementale commissies indien de werkzaamheden kunnen leiden tot belangrijke politieke en financiële consequenties;  
+g. publikatie van de rapporten van colleges in de zin van artikel 2, onder b, van de Kaderwet adviescolleges en van interdepartementale commissies indien de werkzaamheden kunnen leiden tot belangrijke politieke en financiële consequenties;  
 
-h. belangrijke onderwerpen het buitenlands beleid betreffende, daaronder begrepen het in internationaal verband doen van of instemmen met voorstellen die van aanmerkelijke invloed kunnen zijn op de geldende rechtsorde, verplichtingen van blijvende aard ten gevolge kunnen hebben, dan wel de Nederlandse Antillen of Aruba raken;  
+h. belangrijke onderwerpen het buitenlands beleid betreffende, daaronder begrepen het in internationaal verband doen van of instemmen met voorstellen die van aanmerkelijke invloed kunnen zijn op de geldende rechtsorde, verplichtingen van blijvende aard ten gevolge kunnen hebben, dan wel Aruba, Curaçao of Sint Maarten raken;  
 
-i. de voorbereiding van het Nederlandse standpunt ten behoeve van vergaderingen van de ministerraad van de Europese Unie;  
+i. de voorbereiding van het Nederlandse standpunt ten behoeve van formele en informele vergaderingen van de Europese Raad en van de Raad van de Europese Unie;  
 
 j. aan delegaties dan wel aan vertegenwoordigers in het buitenland te verstrekken instructies, alsmede over de samenstelling van delegaties, een en ander voor zover het van belang is de raad hierin te kennen;  
 
@@ -78,13 +78,13 @@ k. voordrachten van de minister-president voor koninklijke besluiten tot benoemi
 
 l. andere voordrachten voor koninklijke besluiten tot benoeming van personen en ontslag wegens andere reden dan op verzoek van de betrokkenen, voor zover het niet betreft benoeming of ontslag: 
 
-1°. van in Nederland werkzame leden van de rechterlijke macht, burgerlijke rijksambtenaren en militaire ambtenaren, voor zover deze lager bezoldigd worden dan een directeur-generaal bij een ministerie alsmede van burgemeesters van gemeenten met minder dan 50 000 inwoners, voor zover het geen provinciehoofdstad betreft;  
+1°. van in Nederland werkzame leden van de rechterlijke macht, burgerlijke rijksambtenaren, ambtenaren van politie en militaire ambtenaren, voor zover deze lager bezoldigd worden dan een directeur-generaal bij een ministerie alsmede van burgemeesters van gemeenten met minder dan 50 000 inwoners, voor zover het geen provinciehoofdstad betreft;  
 
-2°. van ambtenaren die in een functie buiten Nederland werkzaam zijn bij diplomatieke vertegenwoordigingen in het buitenland, voor zover het geen hoofden van missies betreft;  
+2°. van ambtenaren die in een functie buiten Nederland werkzaam zijn bij diplomatieke vertegenwoordigingen in het buitenland, voor zover het geen hoofden van vertegenwoordigingen van het Koninkrijk in het buitenland of permanente vertegenwoordigers betreft;  
 
 3°. van personen over wie naar het oordeel van de minister-president en de desbetreffende minister geen beraadslaging en beslissing van de raad is vereist;    
 
-m. voorstellen in verband met de bij koninklijk besluit krachtens artikel 26, tweede en vierde lid, van de Bankwet 1948 te nemen beslissingen over bedenkingen van de directie van de Nederlandse Bank N.V. tegen aanwijzingen van de minister van Financiën en over publikatie van die bedenkingen en van Onze beslissingen in de Nederlandse Staatscourant.     
+m. voorstellen voor ministeriële besluiten tot benoeming van personen en tot ontslag, wegens andere reden dan op verzoek van betrokkenen, voor zover deze gelijk aan of hoger dan een directeur-generaal bij een ministerie worden bezoldigd.     
 
 ### Artikel  5  
 
@@ -192,7 +192,7 @@ b. indien zij daartoe door de voorzitter worden uitgenodigd.
 
 ### Artikel  24  
 
-1.  Voor zover in deze paragraaf niet anders is bepaald, heeft een onderraad dezelfde werkwijze als de raad.   
+Voor zover in deze paragraaf niet anders is bepaald, heeft een onderraad dezelfde werkwijze als de raad.  
 
 ### §  5  
 

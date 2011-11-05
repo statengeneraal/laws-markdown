@@ -45,7 +45,7 @@ c. [artikel 2.2.2, tweede lid, onder b, derde en zesde lid](../../../../../../..
 
 a. de [artikelen 77, eerste tot en met derde lid](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [78](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-b. de [artikelen 84 tot en met 89](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b. de [artikelen 84](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [84b](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [85, eerste tot en met derde lid](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [85a tot en met 89](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
 c. de [artikelen 96c1](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96d](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96g tot en met 96k](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96m](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96o](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96q1](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [96r](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
