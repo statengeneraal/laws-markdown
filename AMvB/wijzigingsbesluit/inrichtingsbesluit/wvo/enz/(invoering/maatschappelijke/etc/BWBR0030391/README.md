@@ -17,43 +17,43 @@ Hebben goedgevonden en verstaan:
 
 ####Wijziging van het [Bekostigingsbesluit W.V.O](../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md).
 
-Wijzigt het Bekostigingsbesluit W.V.O.   
+Wijzigt het Bekostigingsbesluit W.V.O. 
 
 ### Artikel  II  
 
 ####Wijziging van het [Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)
 
-Wijzigt het Staatsexamenbesluit VO.   
+Wijzigt het Staatsexamenbesluit VO. 
 
 ### Artikel  III  
 
 ####Wijziging van het [Besluit vbo-groen in een AOC](../../../../../../../../../AMvB/besluit/vbo-groen/in/een/aoc/BWBR0019495/README.md)
 
-Wijzigt het Besluit vbo-groen in een AOC.   
+Wijzigt het Besluit vbo-groen in een AOC. 
 
 ### Artikel  IV  
 
 ####Wijziging van het [Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)
 
-Wijzigt het Eindexamenbesluit VO.   
+Wijzigt het Eindexamenbesluit VO. 
 
 ### Artikel  V  
 
 ####Wijziging van het [Inrichtingsbesluit WVO](../../../../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md)
 
-Wijzigt het Inrichtingsbesluit WVO.   
+Wijzigt het Inrichtingsbesluit WVO. 
 
 ### Artikel  VI  
 
 ####Overgangsrecht
 
-Dit besluit is niet van toepassing op leerlingen die voorafgaand aan het schooljaar 2011–2012 zijn ingestroomd in het voortgezet onderwijs.  
+Dit besluit is niet van toepassing op leerlingen die voorafgaand aan het schooljaar 2011–2012 zijn ingestroomd in het voortgezet onderwijs. 
 
 ### Artikel  VII  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot en met een in dat besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot en met een in dat besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -61,13 +61,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 14 juni 2011  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Economische Zaken, Landbouw en Innovatie, 
+De Minister van Economische Zaken, Landbouw en Innovatie,  
 M. J. M. Verhagen   
 
 de *tweede* september 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

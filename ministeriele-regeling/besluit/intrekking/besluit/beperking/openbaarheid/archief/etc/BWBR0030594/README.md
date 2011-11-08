@@ -10,13 +10,13 @@ Besluit:
 
 ### Artikel  1  
 
-Het [besluit van 15 december 2010, nr. IV2010033582, tot beperking van de openbaarheid van inventarisnummers van het naar het Nationaal Archief over te brengen archief van het Directoraat-Generaal van de Volkshuisvesting van het voormalig ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu, (1947) 1982–1993 (1996)](../../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archief/directoraat-generaal/van/de/etc/BWBR0029206/README.md) in te trekken. Het zorgdragerschap van in het [besluit van 15 december 2010](../../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archief/directoraat-generaal/van/de/etc/BWBR0029206/README.md) genoemde archief ligt bij de minister van Binnenlandse Zaken en Koninkrijksrelaties.  
+Het [besluit van 15 december 2010, nr. IV2010033582, tot beperking van de openbaarheid van inventarisnummers van het naar het Nationaal Archief over te brengen archief van het Directoraat-Generaal van de Volkshuisvesting van het voormalig ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu, (1947) 1982–1993 (1996)](../../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archief/directoraat-generaal/van/de/etc/BWBR0029206/README.md) in te trekken. Het zorgdragerschap van in het [besluit van 15 december 2010](../../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archief/directoraat-generaal/van/de/etc/BWBR0029206/README.md) genoemde archief ligt bij de minister van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatcourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatcourant waarin het wordt geplaatst. 
 
 De 
-Minister van Infrastructuur en Milieu,namens deze:
-de hoofddirecteur Financiën Management en Control,
-J.W.Lintsen   
+Minister van Infrastructuur en Milieu, namens deze: 
+de hoofddirecteur Financiën Management en Control, 
+J.W. Lintsen     

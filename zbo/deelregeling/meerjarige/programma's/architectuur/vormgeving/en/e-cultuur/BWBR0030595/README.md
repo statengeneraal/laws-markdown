@@ -16,35 +16,35 @@ In deze deelregeling wordt verstaan onder:
 
 *bestuur:* het bestuur van de Stichting Stimuleringsfonds voor Architectuur, en  
 
-*Bijdragereglement:*[Bijdragereglement Stimuleringsfonds voor Architectuur](../../../../../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md).  
+*Bijdragereglement:* [Bijdragereglement Stimuleringsfonds voor Architectuur](../../../../../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md).  
 
-*cofinanciering:* bijdragen van derden, waaronder bijdragen van private partijen bijvoorbeeld in de vorm van deelname of sponsoring en bijdragen van publieke partijen zoals provincie, gemeente en andere bestuursorganen.    
+*cofinanciering:* bijdragen van derden, waaronder bijdragen van private partijen bijvoorbeeld in de vorm van deelname of sponsoring en bijdragen van publieke partijen zoals provincie, gemeente en andere bestuursorganen.   
 
 ### Artikel  2  
 
 ####Toepassing [Bijdragereglement](../../../../../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md)
 
-Op dit deelreglement is het [Bijdragereglement](../../../../../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) van toepassing met uitzondering van artikel 8.  
+Op dit deelreglement is het [Bijdragereglement](../../../../../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) van toepassing met uitzondering van artikel 8. 
 
 ### Artikel  3  
 
 ####Reikwijdte
 
 1.  Het bestuur kan op grond van dit reglement programmasubsidies verstrekken.   
-2.  De bepalingen in het [Bijdragereglement](../../../../../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) die betrekking hebben op projecten zijn van overeenkomstige toepassing op de verstrekking van programmasubsidies op grond van dit deelreglement.   
+2.  De bepalingen in het [Bijdragereglement](../../../../../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) die betrekking hebben op projecten zijn van overeenkomstige toepassing op de verstrekking van programmasubsidies op grond van dit deelreglement.  
 
 ### Artikel  4  
 
 ####Doelstelling Deelregeling Meerjarige Programma’s Architectuur, Vormgeving en E-cultuur
 
-Met deze deelregeling worden subsidies verstrekt voor programma’s die zich qua inhoud, opzet en uitvoering onderscheiden van het bestaande (inter)nationale aanbod, door het innovatieve en/of voorbeeldstellende karakter. Een programma is een aantal, qua vorm en inhoud met elkaar samenhangende activiteiten. Programma’s richten zich op innovatie, onderzoek, research & development, opdrachtgeverschap en publieksactiviteiten.  
+Met deze deelregeling worden subsidies verstrekt voor programma’s die zich qua inhoud, opzet en uitvoering onderscheiden van het bestaande (inter)nationale aanbod, door het innovatieve en/of voorbeeldstellende karakter. Een programma is een aantal, qua vorm en inhoud met elkaar samenhangende activiteiten. Programma’s richten zich op innovatie, onderzoek, research & development, opdrachtgeverschap en publieksactiviteiten. 
 
 ### Artikel  5  
 
 ####Subsidieperiode
 
 1.  Subsidie wordt verstrekt voor een periode van twee jaar.   
-2.  Op basis van deze regeling kan subsidie worden verstrekt voor de periode 2013–2014 en voor de periode 2015–2016.   
+2.  Op basis van deze regeling kan subsidie worden verstrekt voor de periode 2013–2014 en voor de periode 2015–2016.  
 
 ### Artikel  6  
 
@@ -52,7 +52,7 @@ Met deze deelregeling worden subsidies verstrekt voor programma’s die zich qua
 
 1.  Subsidie wordt op aanvraag verleend.   
 2.  Het bestuur maakt op de internetsite van het SfA ten minste twee termijnen bekend waarbinnen subsidieaanvragen op grond van deze regeling kunnen worden ingediend.   
-3.  De subsidieaanvraag wordt ingediend op een door het bestuur vastgesteld formulier dat verkrijgbaar is via de website van de stichting Stimuleringsfonds voor Architectuur.   
+3.  De subsidieaanvraag wordt ingediend op een door het bestuur vastgesteld formulier dat verkrijgbaar is via de website van de stichting Stimuleringsfonds voor Architectuur.  
 
 ### Artikel  7  
 
@@ -77,7 +77,7 @@ a. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of mee
 
 b. als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot *good governance* op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording;  
 
-c. als de aanvraag niet aan het bepaalde in deze regeling voldoet.     
+c. als de aanvraag niet aan het bepaalde in deze regeling voldoet.    
 
 ### Artikel  8  
 
@@ -89,7 +89,7 @@ De adviescommissie neemt alleen een aanvraag in behandeling indien:
 
 2. Over de afgelopen drie jaar de instelling 20% cofinanciering heeft gegenereerd op de projectkosten of activiteitslasten;  
 
-3. Een aanvrager die één van de beide drempelnormen uit het eerste lid niet haalt, kan desondanks wel een aanvraag indienen, maar dient in zijn aanvraag aannemelijk te maken dat hij daaraan met ingang van 2013 wel zal voldoen. Het bestuur kan bijkomende eisen stellen aan de inhoud van de aanvraag.    
+3. Een aanvrager die één van de beide drempelnormen uit het eerste lid niet haalt, kan desondanks wel een aanvraag indienen, maar dient in zijn aanvraag aannemelijk te maken dat hij daaraan met ingang van 2013 wel zal voldoen. Het bestuur kan bijkomende eisen stellen aan de inhoud van de aanvraag.   
 
 ### Artikel  9  
 
@@ -99,11 +99,11 @@ Een aanvraag voor een programma wordt getoetst op:
 
 1. De in het verleden behaalde resultaten. De adviescommissie toetst deze resultaten op basis van haar waardering van de volgende onderwerpen: 
 
-1. *kwaliteit*: in hoeverre zijn de activiteiten van de instelling in de afgelopen drie jaar qua inhoud, opzet en uitvoering onderscheidend geweest ten opzichte van het bestaande (inter)nationale aanbod;  
+1.  *kwaliteit*: in hoeverre zijn de activiteiten van de instelling in de afgelopen drie jaar qua inhoud, opzet en uitvoering onderscheidend geweest ten opzichte van het bestaande (inter)nationale aanbod;  
 
-2. *pluriformiteit*: in hoeverre heeft de instelling in de afgelopen drie jaar een onderscheidende positie ingenomen in de wijze waarop de disciplines architectuur, vormgeving en e-cultuur onder de aandacht zijn gebracht;  
+2.  *pluriformiteit*: in hoeverre heeft de instelling in de afgelopen drie jaar een onderscheidende positie ingenomen in de wijze waarop de disciplines architectuur, vormgeving en e-cultuur onder de aandacht zijn gebracht;  
 
-3. *platform*: in hoeverre hebben de activiteiten in de afgelopen drie jaar een betekenisvolle rol gespeeld in het samenspel van talentontwikkeling, onderzoek, innovatie, het genereren van publiciteit, het bij elkaar brengen van relevante disciplines en partners tot en met de implementatie.    
+3.  *platform*: in hoeverre hebben de activiteiten in de afgelopen drie jaar een betekenisvolle rol gespeeld in het samenspel van talentontwikkeling, onderzoek, innovatie, het genereren van publiciteit, het bij elkaar brengen van relevante disciplines en partners tot en met de implementatie.    
 
 2. Het activiteitenprogramma wordt door de commissie getoetst op: 
 
@@ -119,7 +119,7 @@ Een aanvraag voor een programma wordt getoetst op:
 
 6. de mate waarin het programma een betekenisvolle relatie legt tussen de ontwerpdiscipline(s) en actuele maatschappelijke vraagstukken;  
 
-7. de geografische spreiding van de activiteiten.      
+7. de geografische spreiding van de activiteiten.     
 
 ### Artikel  10  
 
@@ -135,7 +135,7 @@ c. bevorderen van goed opdrachtgeverschap;
 
 d. crosssectorale en multidisciplinaire samenwerking;  
 
-e. internationale uitwisseling.    
+e. internationale uitwisseling.   
 
 ### Artikel  11  
 
@@ -149,25 +149,25 @@ De volgende beperkingen gelden:
 
 3. een toeslag bedraagt maximaal € 50.000 per thema, per subsidieperiode;  
 
-4. er moet sprake zijn van een minimale dekking van 20% op de projectkosten door cofinanciering.    
+4. er moet sprake zijn van een minimale dekking van 20% op de projectkosten door cofinanciering.   
 
 ### Artikel  12  
 
 ####Advies voorafgaand aan subsidieverlening
 
-Het bestuur beslist over de subsidieverlening op basis van het advies van een door het bestuur in te stellen Adviescommissie Meerjarige Programma’s Architectuur, Vormgeving en E-cultuur.  
+Het bestuur beslist over de subsidieverlening op basis van het advies van een door het bestuur in te stellen Adviescommissie Meerjarige Programma’s Architectuur, Vormgeving en E-cultuur. 
 
 ### Artikel  13  
 
 ####Inwerkingtreding
 
-Deze deelregeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.  
+Deze deelregeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst. 
 
 ### Artikel  14  
 
 ####Citeertitel
 
-Deze deelregeling wordt aangehaald als: Deelregeling Meerjarige Programma’s Architectuur, Vormgeving en E-cultuur.  
+Deze deelregeling wordt aangehaald als: Deelregeling Meerjarige Programma’s Architectuur, Vormgeving en E-cultuur. 
 Deze deelregeling zal in de Staatscourant worden geplaatst.  
 
 Het bestuur van de stichting Stimuleringsfonds voor Architectuur, namens deze: 
