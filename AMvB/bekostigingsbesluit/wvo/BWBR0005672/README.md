@@ -186,39 +186,37 @@ b. als leerling van de school waaraan dat onderwijs is verbonden, in andere geva
 | Slechthorend en zeer moeilijk lerend  | € 1.564,73  | € 3.158,46  | € 3.337,35  | € 274  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.564,73  | € 3.158,46  | € 2.883,47  | € 236  |
 
-Per 1 augustus 2010:   
-
-| Toelaatbaar verklaard tot (voortgezet) speciaal onderwijs aan/van:  | Bedrag LWOO/PRO exclusief her te besteden bedragen  | Bedrag Overig VO exclusief her te besteden bedragen  | Her te besteden bedrag Personele bekostiging  | Her te besteden bedrag Materiële bekostiging  |
-|:---|:---|:---|:---|:---|
-| a. dove kinderen  | € 2.477,01  | € 3.214,23  | € 5.250,98  | € 558  |
-| b. slechthorende kinderen  | € 1.592,36  | € 3.214,23  | € 3.396,27  | € 216  |
-| c. lichamelijk gehandicapte kinderen  | € 1.621,85  | € 3.214,23  | € 4.534,39  | € 405  |
-| d. langdurig zieke kinderen met een lichamelijke handicap  | € 1.592,36  | € 3.214,23  | € 2.932,60  | € 236  |
-| e. zeer moeilijk lerende kinderen  | € 1.592,36  | € 3.214,23  | € 2.932,60  | € 128  |
-| f. cluster 4  | € 1.592,36  | € 3.214,23  | € 2.932,60  | € 236  |
-| g. meervoudig gehandicapte kinderen met de combinatie:  | --- | --- |
-| Doof en zeer moeilijk lerend  | € 1.592,36  | € 3.214,23  | € 3.396,27  | € 274  |
-| Doof en blind  | € 1.592,36  | € 3.214,23  | € 3.396,27  | € 274  |
-| Slechthorend en zeer moeilijk lerend  | € 1.592,36  | € 3.214,23  | € 3.396,27  | € 274  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.592,36  | € 3.214,23  | € 2.932,60  | € 236  |
-
 Per 1 augustus 2011:   
 
 | Toelaatbaar verklaard tot (voortgezet) speciaal onderwijs aan/van:  | Bedrag LWOO/PRO exclusief her te besteden bedragen  | Bedrag overig VO exclusief her te besteden bedragen  | Her te besteden bedrag personele bekostiging  | Her te besteden bedrag materiële bekostiging  |
 |:---|:---|:---|:---|:---|
-| a. dove kinderen  | € 2.471,60  | € 3.207,21  | € 5.239,51  | € 569  |
-| b. slechthorende kinderen  | € 1.588,88  | € 3.207,21  | € 3.388,86  | € 220  |
-| c. lichamelijk gehandicapte kinderen  | € 1.618,31  | € 3.207,21  | € 4.524,49  | € 413  |
-| d. langdurig zieke kinderen met een lichamelijke handicap  | € 1.588,88  | € 3.207,21  | € 2.926,20  | € 241  |
-| e. zeer moeilijk lerende kinderen  | € 1.588,88  | € 3.207,21  | € 2.926,20  | € 131  |
-| f. cluster 4  | € 1.588,88  | € 3.207,21  | € 2.926,20  | € 241  |
+| a. dove kinderen  | € 2.487,09  | € 3.227,31  | € 5.272,35  | € 569  |
+| b. slechthorende kinderen  | € 1.598,84  | € 3.227,31  | € 3.410,10  | € 220  |
+| c. lichamelijk gehandicapte kinderen  | € 1.628,45  | € 3.227,31  | € 4.552,84  | € 413  |
+| d. langdurig zieke kinderen met een lichamelijke handicap  | € 1.598,84  | € 3.227,31  | € 2.944,53  | € 241  |
+| e. zeer moeilijk lerende kinderen  | € 1.598,84  | € 3.227,31  | € 2.944,53  | € 131  |
+| f. cluster 4  | € 1.598,84  | € 3.227,31  | € 2.944,53  | € 241  |
 | g. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | € 1.588,88  | € 3.207,21  | € 3.388,86  | € 279  |
-| Doof en blind  | € 1.588,88  | € 3.207,21  | € 3.388,86  | € 279  |
-| Slechthorend en zeer moeilijk lerend  | € 1.588,88  | € 3.207,21  | € 3.388,86  | € 279  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.588,88  | € 3.207,21  | € 2.926,20  | € 241  |
+| Doof en zeer moeilijk lerend  | € 1.598,84  | € 3.227,31  | € 3.410,10  | € 279  |
+| Doof en blind  | € 1.598,84  | € 3.227,31  | € 3.410,10  | € 279  |
+| Slechthorend en zeer moeilijk lerend  | € 1.598,84  | € 3.227,31  | € 3.410,10  | € 279  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.598,84  | € 3.227,31  | € 2.944,53  | € 241  |
 
 2.  De bedragen, bedoeld in het eerste lid, worden jaarlijks per 1 augustus, telkens te rekenen met het laatstelijk aangepaste bedrag, bij ministeriële regeling aangepast aan de ontwikkeling van de gemiddelde personeelslasten in het speciaal onderwijs en het voortgezet speciaal onderwijs in het voorafgaande kalenderjaar.   
+
+### Artikel  8b  
+
+####Vaststelling bedrag maatschappelijke stage
+
+1.  De hoogte van het bedrag, bedoeld in [artikel 85, vierde lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), dat per schooljaar in verband met de maatschappelijke stage, bedoeld in [artikel 6f van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt verstrekt is: 
+
+a. voor elke leerling die op de school in één van de eerste vier leerjaren is ingeschreven € 70;  
+
+b. voor elke leerling die op de school in het vijfde of zesde leerjaar is ingeschreven € 0.     
+2.  In afwijking van het eerste lid, onderdeel a, is de hoogte van het daar bedoelde bedrag in de schooljaren 2011–2012 tot en met 2014–2015 € 60.   
+3.  Het bedrag, bedoeld in het eerste lid, onderdeel a, en in het tweede lid wordt in twee termijnen betaald, in november en daaropvolgend in maart van het schooljaar waarop de bekostiging betrekking heeft.   
+4.  De bedragen, bedoeld in het eerste lid, onderdeel a, en in het tweede lid worden jaarlijks voor 1 augustus, telkens te rekenen met de laatstelijk aangepaste bedragen, bij ministeriële regeling aangepast aan de ontwikkeling van de gemiddelde personeelslasten in het voortgezet onderwijs.   
+5.  Het eerste lid is tevens van toepassing op het praktijkonderwijs, met dien verstande dat voor «leerjaren» wordt gelezen: inschrijvingsjaren.   
 
 ### Artikel  9  
 
@@ -421,7 +419,7 @@ Indien een of meer scholen voor voortgezet onderwijs deel uitmaken van een schol
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Bekostigingsbesluit W.V.O.  
+Dit besluit wordt aangehaald als: Bekostigingsbesluit WVO.  
 
 's-Gravenhage 
 30 september 1992  

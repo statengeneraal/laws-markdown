@@ -328,7 +328,7 @@ De uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding v
 | Slechthorend en zeer moeilijk lerend  | € 959  | € 511  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 959  | € 442  |
 
-Per 1 augustus 2011:   
+Per 10 november 2011:   
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|
@@ -362,7 +362,7 @@ Speciale scholen voor basisonderwijs (bedragen met ingang van 1-8-2010)
 | Slechthorend en zeer moeilijk lerend  | € 750  | € 511  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 750  | € 442  |
 
-Per 1 augustus 2011:   
+Per 10 november 2011:   
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|
