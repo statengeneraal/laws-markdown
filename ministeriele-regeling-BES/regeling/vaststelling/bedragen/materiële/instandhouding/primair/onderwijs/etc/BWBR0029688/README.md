@@ -2,6 +2,10 @@
 
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 februari 2011, nr. WJZ/275507 (2756), houdende regels voor het vaststellen van de bedragen voor de materiële instandhouding primair onderwijs in Caribisch Nederland voor het jaar 2011 (Regeling vaststelling bedragen materiële instandhouding primair onderwijs BES 2011)
 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
+Gelet op de artikelen 97, vierde lid, en 98 van de Wet primair onderwijs BES;
+Besluit:    
+
 ### Artikel  1  
 
 ####Begripsbepalingen
@@ -10,21 +14,21 @@ In deze regeling wordt verstaan onder:
 
 *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-*school:* school als bedoeld in [artikel 1 van de Wet primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+*school:* school als bedoeld in artikel 1 van de wet;  
 
-*wet:*[Wet primair onderwijs BES](../../../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md).    
+*wet:*Wet primair onderwijs BES.    
 
 ### Artikel  2  
 
 ####Bedrag per school
 
-Het bedrag, bedoeld in [artikel 97, derde lid, onder a, van de wet](../../../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md) wordt vastgesteld op USD 22,172.37.  
+Het bedrag, bedoeld in artikel 97, derde lid, onder a, van de wet wordt vastgesteld op USD 22,172.37.  
 
 ### Artikel  3  
 
 ####Bedrag per leerling
 
-Het bedrag, bedoeld in [artikel 97, derde lid, onder c, van de wet](../../../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md) wordt vastgesteld op USD 348.12 per leerling.  
+Het bedrag, bedoeld in artikel 97, derde lid, onder c, van de wet wordt vastgesteld op USD 348.12 per leerling.  
 
 ### Artikel  4  
 
@@ -38,6 +42,31 @@ Het bedrag, bedoeld in [artikel 97, derde lid, onder c, van de wet](../../../../
 ####Aanvullende bekostiging: verhoging met 5%
 
 De bijzondere bekostiging bedraagt 5% van de bekostiging, berekend met in achtneming van de artikelen 2 tot en met 4.  
+
+### Artikel  5a  
+
+####Aanvullende bekostiging in verband met afschrijving eerste inrichting
+
+1.  Het bevoegd gezag van een school ontvangt aanvullende bekostiging voor de afschrijving van de eerste inrichting.   
+2.  De aanvullende bekostiging is als volgt opgebouwd: 
+
+a. een vast bedrag per school van USD 59,106.77;  
+
+b. vermeerderd met een bedrag per leerling van USD 930.45;  
+
+c. vermeerderd meteen bedrag van USD 79,184.72 voor het onderwijs in lichamelijke opvoeding;  
+
+d. verminderd met de kosten voor (remediërend) lesmateriaal dat het bevoegd gezag in 2009 en 2010 heeft ontvangen.     
+3.  In verband met de bijzondere leerlingpopulatie van de Skol Watapana te Bonaire is, in afwijking van het tweede lid, de aanvullende bekostiging aan het bevoegd gezag van deze school als volgt opgebouwd: 
+
+a. een vast bedrag per school van USD 125,403.35;  
+
+b. vermeerderd met een bedrag per leerling van USD 962.61;  
+
+c. vermeerderd meteen bedrag van USD 79,184.72 voor het onderwijs in lichamelijke opvoeding;  
+
+d. verminderd met de kosten voor (remediërend) lesmateriaal dat het bevoegd gezag in 2009 en 2010 heeft ontvangen.     
+4.  De aanvullende bekostiging bedoeld in dit artikel wordt in november 2011 in één termijn betaald.   
 
 ### Artikel  6  
 
