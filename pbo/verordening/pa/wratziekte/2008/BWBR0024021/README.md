@@ -122,7 +122,7 @@ Het gebied ten zuidoosten van Mantinge, dat als volgt is begrensd: (de hoofdlett
 
 | 10  | 9  | 8  | 7  | 6  |
 |:---|:---|:---|:---|:---|
-| Andante  | Juliane  | Achilles  | Plasstärke  | Festien  | Aurora  | Allure  |
+| Andante  | Novano  | Achilles  | Plasstärke  | Festien  | Aurora  | Allure  |
 | Avarna  | Kuba  | Aventra  | Plasuno  | Karakter  | Stefano  | Annabelle  |
 | Belita  | Pallina  | Averia  | Robény  | --- | Sofista  | Starga  |
 | Django  | Panda  | Katinka  | Signum  | --- | Valiant  | --- |
@@ -130,7 +130,7 @@ Het gebied ten zuidoosten van Mantinge, dat als volgt is begrensd: (de hoofdlett
 | Gunda  | Ulme  | Plasent  | Vebesta  | --- | --- | --- |
 | Adam  | Cekin  | Plasinka  | --- | --- | --- | --- |
 | Ibis  | Stefanie  | --- | --- | --- | --- | --- |
-| Transit  | --- | --- | --- | --- | --- | --- |
+| Transit  | Dartiest  | --- | --- | --- | --- | --- |
 
 ### Bijlage  2  
 
@@ -150,28 +150,28 @@ C 1.
 |:---|:---|:---|:---|:---|
 | Amanda  | Achilles  | Allure  | Albas  | Agria  |
 | Andante  | Altus  | Aveka  | Annabelle  | Amora  |
-| Avano  | Amorosa  | Colmo  | Astarte  | Amyla  |
+| Avano  | Amorosa  | Energie  | Astarte  | Amyla  |
 | Avaya  | Ampera  | Courage  | Asterix  | Bintje  |
 | Aventra  | Aurora  | Escort  | Baraka  | Cardinal  |
 | Averia  | Avarna  | Euronova  | Benno Vrizo  | Diamant  |
 | Axion  | Aviala  | Evita  | Burren  | Eba  |
 | Belita  | Cecile  | Fontane  | Donald  | Euroflora  |
-| Bonza  | Certo  | Kondor  | Element  | Krostar  |
+| Bonza  | Certo  | Kondor  | Antina  | Arizona  |
 | Delcora  | Cleopatra  | Leandra  | Eurobona  | Ostara  |
-| Django  | Desiree  | Melanie  | Fresco  | Raja  |
+| Django  | Desiree  | Dinky  | Fresco  | Raja  |
 | Edelstein  | Eurotango  | Mercury  | Karnico  | Realist  |
 | Eurobravo  | Festien  | Messina  | Menco  | Rumba  |
 | Gunda  | Hansa  | Nicola  | Mercator  | --- |
 | Ikone  | Irene  | Rudolph  | Mirakel  | --- |
-| Juliane  | Kantara  | Saturna  | Nomade  | --- |
+| Fabiola  | Kantara  | Saturna  | Nomade  | --- |
 | Karakter  | Kuroda  | Savona  | Origo  | --- |
-| Karolin  | Marlen  | Sophytra  | Parel  | --- |
+| Novano  | Marlen  | Sophytra  | Parel  | --- |
 | Katinka  | Merano  | Timate  | Plasuno  | --- |
 | Kuba  | Plasandes  | Ukama  | Shannon  | --- |
-| Logo  | Plasent  | Vebebe  | Stefáno  | Eigenheimer*  |
+| Logo  | Plasent  | Stratos  | Stefáno  | Eigenheimer*  |
 | Miriam  | Plasstärke  | Vebesta  | Sylvana  | Gloria*  |
-| Pallina  | Progress  | Stratos  | Antina  | --- |
-| Panda  | Robény  | Dinky  | --- | --- |
+| Pallina  | Progress  | --- | --- | --- |
+| Panda  | Robény  | --- | --- | --- |
 | Plasinka  | Romano  | --- | --- | --- |
 | Provento  | Sassy  | --- | --- | --- |
 | Scarlet  | Smaragd  | --- | --- | --- |
@@ -179,15 +179,16 @@ C 1.
 | Signum  | Starga  | --- | --- | --- |
 | Stemster  | Valiant  | --- | --- | --- |
 | Talent  | Vectra  | --- | --- | --- |
-| Ulme  | Novano  | --- | --- | --- |
+| Ulme  | Aviron  | --- | --- | --- |
 | Vebeca  | Taurus  | --- | --- | --- |
-| Adam  | Aviron  | --- | --- | --- |
+| Adam  | --- | --- | --- | --- |
 | Cekin  | --- | --- | --- | --- |
 | Gandawa  | --- | --- | --- | --- |
 | Ibis  | --- | --- | --- | --- |
 | Plasettie  | --- | --- | --- | --- |
 | Stefanie  | --- | --- | --- | --- |
 | Transit  | --- | --- | --- | --- |
+| Dartiest  | --- | --- | --- | --- |
 
 * Van deze rassen is bekend dat de veldresistentie minimaal 6 bedraagt. Een exact cijfer ontbreekt. C 2.  
 
@@ -200,6 +201,7 @@ C 1.
 | 5 Markies  | 5 Sirco  |
 | 5 Mustang  | 5 Sjamero  |
 | 5 Nectar  | 5 Victoria  |
+| 5 Aladin  | 5 Dolly  |
 
 ### Bijlage  3  
 
@@ -261,7 +263,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | ARCONA  |
 | ARIELLE  |
 | ARISTO  |
-| ARKA  |
+| --- |
 | ARKULA  |
 | ARNO  |
 | AROSA  |
@@ -289,7 +291,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | AXION*  |
 | Bafana  |
 | BALLADE  |
-| BARIMA  |
+| --- |
 | BARTINA  |
 | BEDALIN  |
 | BELITA  |
@@ -329,13 +331,13 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | CELINE  |
 | CERTO  |
 | CHALLENGER  |
-| Fanny  |
+| Luciole  |
 | CHARISMA  |
 | CHARMANTE  |
 | CHRISTA  |
 | CITADEL  |
 | CIVA  |
-| CLARINA  |
+| --- |
 | CLARISSA  |
 | CLAUDIA  |
 | CLAUSTAR  |
@@ -377,7 +379,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | DONNA  |
 | DORADO (10)  |
 | DORÉ  |
-| DORIS  |
+| --- |
 | DRAGA  |
 | DROP  |
 | EBA  |
@@ -405,7 +407,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | EVITA  |
 | Ewelina  |
 | EXCELLENT  |
-| EXODUS  |
+| --- |
 | EXQUISA  |
 | FABULA  |
 | FAMBO  |
@@ -464,9 +466,9 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | Jazmin  |
 | JELLY  |
 | JESSICA  |
-| Joker  |
-| JULIANE  |
-| JULIVER  |
+| --- |
+| --- |
+| --- |
 | JUNIOR  |
 | KANTARA  |
 | KARAKTER  |
@@ -500,7 +502,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | Lambada  |
 | LAMIA  |
 | LANORMA  |
-| LARGA  |
+| --- |
 | LATONA  |
 | LEKKERLANDER  |
 | Leonardo  |
@@ -513,7 +515,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | LINZER DELIKATTESS  |
 | LINZER GELBE  |
 | LINZER ROSE  |
-| LIU  |
+| --- |
 | LOGITA  |
 | LOGO  |
 | LOLA  |
@@ -523,7 +525,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | LYDIA  |
 | LYRA  |
 | MADELEINE  |
-| MAJA  |
+| --- |
 | MAJESTIC  |
 | Manitou  |
 | MANNA  |
@@ -557,7 +559,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | MONDIAL  |
 | MONITOR  |
 | MOZART  |
-| MULTA  |
+| --- |
 | MURILLO  |
 | MUSICA  |
 | MUSTANG  |
@@ -567,7 +569,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | NICOLA  |
 | NIKA  |
 | NIKITA  |
-| NOELLA  |
+| --- |
 | NOMADE  |
 | NOORDELING  |
 | NORA  |
@@ -577,14 +579,14 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | OKTAN  |
 | OLEVA  |
 | OLGA  |
-| OLINDA  |
+| --- |
 | OMEGA  |
 | OPERA  |
-| OPUS  |
+| --- |
 | ORCHESTRA  |
 | ORIGO  |
 | ORION  |
-| OSEKA  |
+| --- |
 | OSTARA  |
 | OTTENA  |
 | OVATIO  |
@@ -597,7 +599,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | PAREL  |
 | PASHA  |
 | PATRONA  |
-| PATRONES  |
+| --- |
 | PENTA  |
 | PENTLAND DELL  |
 | Perline  |
@@ -631,7 +633,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | PRUDENTA  |
 | QUARTA  |
 | QUINCY  |
-| RADOSA  |
+| --- |
 | RAISA  |
 | RAJA  |
 | RAMOS  |
@@ -677,7 +679,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | SANTANA  |
 | SANTE  |
 | SAPHIRE  |
-| SAPOLIA  |
+| --- |
 | SASKIA  |
 | SASSY  |
 | SATELLITE  |
@@ -696,7 +698,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | SERESTA  |
 | SHELDA  |
 | SIEGLINDE  |
-| SIENTJE  |
+| --- |
 | SIFRA  |
 | SIGNAL  |
 | SIGNUM  |
@@ -752,7 +754,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | VEBECA  |
 | VEBESTA  |
 | VECTRA  |
-| VELOKA  |
+| --- |
 | VELOX  |
 | VENOUSKA  |
 | VERDI  |
@@ -772,5 +774,5 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | WISENT  |
 | WOUDSTER  |
 
-Achilles (10) Adam (10) Alberta (10) Almera (10) Antina (10) Arrabona (10) Bionica (10) Cascada (10) Cekin (10) Collina (7) El Mundo (10) Eurobona (10) Eurogrande (10) Exklusiv (10) Finessa (10) Gandawa (10) Ibis (10) Kiebitz (10) Lacetta (10) Lady Britta (10) Leandra (10) Michelle (10) Miss Bianka (10) Miss Blush (7) Miss Mignonne (7) Mungo (10) Nafida (10) Nandina (10) Pentiand Crown (10) Pentiand Ivory (10) Primavera (10) Regina (10) Shakira (10) Skawa (10) Stayer (10) Stefanie (10) Target (10) Transit (10) Vallent (10) Vr 808 (10) Zuzanna (10)  
+Achilles (10) Adam (10) Alberta (10) Almera (10) Antina (10) Arrabona (10) Bionica (10) Cascada (10) Cekin (10) Collina (7) El Mundo (10) Eurobona (10) Eurogrande (10) Exklusiv (10) Finessa (10) Gandawa (10) Ibis (10) Kiebitz (10) Lacetta (10) Lady Britta (10) Leandra (10) Michelle (10) Miss Bianka (10) Miss Blush (7) Miss Mignonne (7) Mungo (10) Nafida (10) Nandina (10) Pentiand Crown (10) Pentiand Ivory (10) Primavera (10) Regina (10) Shakira (10) Skawa (10) Stayer (10) Stefanie (10) Target (10) Transit (10) Vallent (10) Vr 808 (10) Zuzanna (10) Amarin Arizona Arsenal Avenue Bellona Biologica Compass Crisper Dartiest Dolly Euroluna Eurostar Ivory Russet Laperia Mariette Mariska Marosso Marrakech Messina Monte Carolo Novano Okapi Panther Plasettie Printaline Red Sonia Red Sun Red Valentine Romeo Rosagold Saviola Silla Toccata  
 
