@@ -3,14 +3,14 @@
 ##Vrijstellingsbesluit kleine koppels leghennen (PPE) 2007
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Besluit van het Productschap Pluimvee en Eieren van 13 september 2007;
+Besluit van het Productschap Pluimvee en Eieren van 13 september 2007; 
 
 Gelet op [artikel 10, tweede lid, van de Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md);
 Besluit:    
 
 ### Artikel  1  
 
-Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md) (hierna: de Verordening), over en verstaat daarnaast onder ondernemer: een natuurlijk persoon of rechtspersoon die een leghennenbedrijf uitoefent.  
+Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md) (hierna: de Verordening), over en verstaat daarnaast onder ondernemer: een natuurlijk persoon of rechtspersoon die een leghennenbedrijf uitoefent. 
 
 ### Artikel  2  
 
@@ -24,12 +24,12 @@ c. De analyseresultaten die zijn verkregen uit het onderzoek van de monsters, be
 
 d. Nadat uit de analyseresultaten die zijn verkregen uit het onderzoek van de monsters, bedoeld in onderdeel a. is gebleken dat het koppel leghennen besmet is met Salmonella enteritidis of Salmonella typhimirium, laat de ondernemer onverwijld na het ontruimen van de stal waarin hij dit koppel heeft gehouden, deze stal reinigen en ontsmetten door een professioneel ontsmettingsbedrijf.  
 
-e. De door de leghennen geproduceerde consumptie-eieren worden niet afgeleverd aan een derde, tenzij de eieren aan huis worden verkocht voor directe consumptie.    
+e. De door de leghennen geproduceerde consumptie-eieren worden niet afgeleverd aan een derde, tenzij de eieren aan huis worden verkocht voor directe consumptie.   
 
 ### Artikel  3  
 
 1.  Dit besluit kan worden aangehaald als: Vrijstellingsbesluit kleine koppels leghennen (PPE) 2007.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening in het Verordeningenblad Bedrijfsorganisatie, waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening in het Verordeningenblad Bedrijfsorganisatie, waarin het wordt geplaatst.  
 
 Zoetermeer 
 13 september 2007   
