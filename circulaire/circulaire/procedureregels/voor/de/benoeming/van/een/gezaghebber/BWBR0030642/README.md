@@ -8,7 +8,7 @@
 
 1. In de Staatscourant maakt de minister van Binnenlandse Zaken en Koninkrijksrelaties bekend in welk openbaar lichaam een vacature voor een gezaghebber is of gaat ontstaan. Daarbij staat de datum aangegeven, waarop sollicitaties uiterlijk moeten zijn gezonden naar het Bureau van de Rijksvertegenwoordiger en wordt melding gemaakt van het feit dat de voor te dragen kandidaat zal worden gescreend.  
 
-2. Indien de Rijksvertegenwoordiger besluit dat een assessment eventueel deel uit maakt van de sollicitatieprocedure wordt in de tekst van de openstelling van de vacature de volgende zinsnede opgenomen: *Een assessment op één of enkele selectiecriteria kan eventueel deel uitmaken van de procedure; oogmerk daarvan zal dan zijn de Rijksvertegenwoordiger over aanvullende informatie te laten beschikken bij de totstandkoming van zijn aanbeveling.*  
+2. Indien de Rijksvertegenwoordiger besluit dat een assessment eventueel deel uit maakt van de sollicitatieprocedure wordt in de tekst van de openstelling van de vacature de volgende zinsnede opgenomen: *Een assessment op één of enkele selectiecriteria kan eventueel deel uitmaken van de procedure; oogmerk daarvan zal dan zijn de Rijksvertegenwoordiger over aanvullende informatie te laten beschikken bij de totstandkoming van zijn aanbeveling.*   
 
 3. Naast de publicatie in de Staatscourant stellen het ministerie van Binnenlandse Zaken en Koninkrijksrelaties en de Rijksvertegenwoordiger een aantal in dit kader relevante publiciteitsmedia in kennis van de opengestelde vacature. Deze publiciteitsmedia hebben hierdoor de gelegenheid ruchtbaarheid te geven aan de ontstane vacature. Oogmerk is dat ook op andere wijze dan via de Staatscourant bekendheid wordt gegeven aan vacatures en sollicitatietermijnen. Zo nodig worden er advertenties geplaatst waarin op de openstelling wordt geattendeerd. In ieder geval wordt de vacature bekend gemaakt via de internetsite www.rijksoverheid.nl, onder ministeries/ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
 
@@ -134,5 +134,5 @@ Voorafgaand aan de voordracht zal de voor te dragen kandidaat door de minister v
 3. Indien daar bij één van beide partijen behoefte aan bestaat is het mogelijk dat na afloop van de bovenbeschreven procedure een evaluerend gesprek tussen de vertrouwenscommissie en de Rijksvertegenwoordiger plaatsvindt.       
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.P.H.Donner   
+minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.P.H. Donner     

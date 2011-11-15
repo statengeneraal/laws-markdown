@@ -48,11 +48,11 @@ Waar in het besluit het begrip levering wordt gebruikt, kunnen daaronder ook de 
 
 | --- | --- |
 |:---|:---|
-| Wet  |  [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   |
-| uitvoeringsbeschikking  |  [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)   |
-| uitvoeringsbesluit  |  [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)   |
-| btw-richtlijn  | Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEG 2006, L347)  |
-| zesde richtlijn  | Richtlijn 77/388/EEG van de Raad betreffende de harmonisatie van de wetgevingen der lidstaten inzake omzetbelasting – gemeenschappelijk stelsel van de belasting over de toegevoegde waarde: uniforme grondslag (PbEG 1977, L 145)  |
+| Wet  | [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  |
+| uitvoeringsbeschikking  | [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)  |
+| uitvoeringsbesluit  | [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)  |
+| btw-richtlijn  |  Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEG 2006, L347)  |
+| zesde richtlijn  |  Richtlijn 77/388/EEG van de Raad betreffende de harmonisatie van de wetgevingen der lidstaten inzake omzetbelasting – gemeenschappelijk stelsel van de belasting over de toegevoegde waarde: uniforme grondslag (PbEG 1977, L 145)  |
 
 ### §  3  
 
@@ -184,7 +184,7 @@ Als de ondernemer goederen levert en hij ook degene is die zich verbonden heeft 
 ####Toelichting op de tabelposten
 
 Hierna worden de tabelposten per post toegelicht, tenzij geen toelichting is vereist.   
-### Post  A 1  
+### Post A 1  
 
 ### 1  
 
@@ -205,7 +205,7 @@ c.  *producten die zijn bestemd om te worden aangewend als aanvulling op dan wel
 
 ####Algemeen
 
-De meeste voedingsmiddelen kunnen worden gerangschikt onder post a1, onderdeel a (eet- en drinkwaren). De onderdelen *b* en *c* van de post zijn opgenomen om te bereiken dat deze producten, als zij niet rechtstreeks kunnen worden aangemerkt als eet- en drinkwaren, ook vallen onder het begrip voedingsmiddelen. Met voedingsmiddelen worden alleen producten bedoeld die zijn bestemd voor oraal gebruik. De vorm van voedingsmiddelen is niet van belang; zowel verse, bereide als verduurzaamde voedingsmiddelen vallen onder de post. Voor de afbakening van het begrip ‘voedingsmiddelen’ kan uit praktische overwegingen aansluiting worden gezocht bij de Warenwet en de daarop gebaseerde Warenwetbesluiten en Warenwetregelingen. In deze regelgeving is onder meer aangegeven aan welke voorwaarden producten moeten voldoen om in Nederland te koop aangeboden te mogen worden. Producten die voldoen aan de eisen die worden gesteld aan de verkoop van eet- en drinkwaren – met uitzondering van alcoholhoudende dranken – in de Warenwetgeving kunnen onder de post worden gerangschikt tenzij in de volgende onderdelen anders is bepaald. Producten die niet voldoen aan die eisen zijn onderworpen aan het algemene tarief, tenzij in de volgende onderdelen anders is bepaald. De instantie die beoordeelt of wordt voldaan aan de voorwaarden die zijn gesteld in de Warenwetgeving is de Keuringsdienst van Waren, onderdeel van de Voedsel en Waren Autoriteit. In geval van twijfel kan de ondernemer contact opnemen met deze instantie.    
+De meeste voedingsmiddelen kunnen worden gerangschikt onder post a1, onderdeel a (eet- en drinkwaren). De onderdelen *b* en *c* van de post zijn opgenomen om te bereiken dat deze producten, als zij niet rechtstreeks kunnen worden aangemerkt als eet- en drinkwaren, ook vallen onder het begrip voedingsmiddelen. Met voedingsmiddelen worden alleen producten bedoeld die zijn bestemd voor oraal gebruik. De vorm van voedingsmiddelen is niet van belang; zowel verse, bereide als verduurzaamde voedingsmiddelen vallen onder de post. Voor de afbakening van het begrip ‘voedingsmiddelen’ kan uit praktische overwegingen aansluiting worden gezocht bij de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) en de daarop gebaseerde Warenwetbesluiten en Warenwetregelingen. In deze regelgeving is onder meer aangegeven aan welke voorwaarden producten moeten voldoen om in Nederland te koop aangeboden te mogen worden. Producten die voldoen aan de eisen die worden gesteld aan de verkoop van eet- en drinkwaren – met uitzondering van alcoholhoudende dranken – in de Warenwetgeving kunnen onder de post worden gerangschikt tenzij in de volgende onderdelen anders is bepaald. Producten die niet voldoen aan die eisen zijn onderworpen aan het algemene tarief, tenzij in de volgende onderdelen anders is bepaald. De instantie die beoordeelt of wordt voldaan aan de voorwaarden die zijn gesteld in de Warenwetgeving is de Keuringsdienst van Waren, onderdeel van de Voedsel en Waren Autoriteit. In geval van twijfel kan de ondernemer contact opnemen met deze instantie.    
 ### 2.2  
 
 ####Levering of dienst
@@ -231,9 +231,9 @@ Het begrip eet- en drinkwaren moet ruim worden opgevat. Ook producten die pas ge
 Onderdeel b van de post betreft producten die kennelijk zijn bestemd om te worden aangewend voor de bereiding van de in onderdeel *a* van de post bedoelde eet- en drinkwaren en daarin geheel of ten dele opgaan. Met het begrip bereiding wordt gedoeld op zowel de huishoudelijke als de industriële bereiding van eet- en drinkwaren. Voor de voedingsmiddelenindustrie gaat het om producten als vruchtenpulp, diverse extracten, conserveringsmiddelen, geur-, kleur- en smaakstoffen. Meer in het algemeen kan worden gedacht aan producten als gist, meel, bak- en braadmiddelen, kruiden, specerijen, zout, aroma's en essences. Bij ingrediënten gaat het om een breed scala van producten: niet alleen producten die zijn vervaardigd uit natuurlijke grondstoffen maar ook producten die zijn vervaardigd uit chemische producten. Producten waarvan alleen bepaalde − bijvoorbeeld aromatische − bestanddelen opgaan in de eet- en drinkwaren zijn ook aan te merken als ingrediënten (zoals koffie, thee, kruidnagels en laurierbladen). Soms moet binnen een groep producten een onderscheid worden gemaakt tussen producten die kennelijk wél voor menselijke consumptie zijn bestemd (verlaagde tarief) en producten die kennelijk niet voor menselijke consumptie zijn bestemd (algemene tarief).   Voorbeelden: 
 
 | Wel bestemd voor menselijke consumptie  | Niet bestemd voor menselijke consumptie  |
-|---|---|
+|:---|:---|
 | tafelazijn  | schoonmaakazijn  |
-| koolzuurgas (CO <sub>2</sub>) dat, gelet op de cilinder waarin het wordt geleverd, uitsluitend kan worden aangewend voor de bereiding van koolzuurhoudende frisdranken waarin het opgaat  | koolzuurgas voor andere toepassingen  |
+| koolzuurgas (CO<sub>2</sub>) dat, gelet op de cilinder waarin het wordt geleverd, uitsluitend kan worden aangewend voor de bereiding van koolzuurhoudende frisdranken waarin het opgaat  | koolzuurgas voor andere toepassingen  |
 | tuinkruiden: tuinkruiden die plegen te worden aangewend voor menselijke consumptie  | tuinkruiden die (vrijwel) uitsluitend worden aangewend als grondstof voor de bereiding van geneesmiddelen  |
 | kaascoating dat ter conservering op de kaaskorst wordt aangebracht en geschikt voor consumptie  | kaascoating, zoals ‘plasticoat’, niet geschikt voor menselijke consumptie  |
 
@@ -259,7 +259,7 @@ Voorbeelden van goederen die onder de post vallen:
 
 − bloesem- of bloemenremedies. Bloesem- of bloemenremedies zijn tincturen – gemaakt van de bloesems van wilde struiken, bomen en planten – waarmee menselijke emoties worden beïnvloed;  
 
-− door homeopaten verstrekte (kruiden)preparaten die niet zijn aan te merken als geneesmiddel in de zin van post a 6 van Tabel I.   Als de hiervoor opgesomde producten in vloeibare vorm worden geleverd bevatten zij soms alcohol. Als volgens het gebruiksvoorschrift slechts enkele malen per dag een kleine hoeveelheid mag worden ingenomen – bijvoorbeeld enkele druppels of een lepel – worden zij niet als alcoholhoudende dranken aangemerkt. Eigenhandig door homeopaten vervaardigde producten zullen in de regel niet aan de voorwaarden van de hiervoor genoemde Warenwetgeving voldoen en zijn dan belast naar het algemene tarief. Voorbeeld van goederen die niet onder de post vallen zijn kruidenpreparaten die opgelost in alcohol in de handel worden gebracht. Deze producten worden aangemerkt als alcoholhoudende dranken. Te denken valt aan kruidenwijn en op likeuren lijkende kruidenextracten. Kruidendranken met een alcoholgehalte van niet meer dan 1,2% worden niet als alcoholhoudende drank aangemerkt.     
+− door homeopaten verstrekte (kruiden)preparaten die niet zijn aan te merken als geneesmiddel in de zin van post a 6 van [Tabel I](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   Als de hiervoor opgesomde producten in vloeibare vorm worden geleverd bevatten zij soms alcohol. Als volgens het gebruiksvoorschrift slechts enkele malen per dag een kleine hoeveelheid mag worden ingenomen – bijvoorbeeld enkele druppels of een lepel – worden zij niet als alcoholhoudende dranken aangemerkt. Eigenhandig door homeopaten vervaardigde producten zullen in de regel niet aan de voorwaarden van de hiervoor genoemde Warenwetgeving voldoen en zijn dan belast naar het algemene tarief. Voorbeeld van goederen die niet onder de post vallen zijn kruidenpreparaten die opgelost in alcohol in de handel worden gebracht. Deze producten worden aangemerkt als alcoholhoudende dranken. Te denken valt aan kruidenwijn en op likeuren lijkende kruidenextracten. Kruidendranken met een alcoholgehalte van niet meer dan 1,2% worden niet als alcoholhoudende drank aangemerkt.     
 ### 6  
 
 ####Alcoholhoudende dranken
@@ -279,7 +279,7 @@ Alcoholhoudende essences worden niet als alcoholhoudende drank aangemerkt. Als z
 ####Verstrekking van voedingsmiddelen door commerciële internaten
 
 Commerciële internaten houden zich bezig met het verlenen van volledige verzorging van de aan hun zorgen toevertrouwde minderjarigen. De dienstverlening van de commerciële internaten bestaat onder meer uit het verlenen van huisvesting en bewassing en het vormen en begeleiden van de minderjarigen. De samenstellende elementen van deze dienstverlening zijn zo nauw met elkaar verbonden dat zij één prestatie vormen, waarop het algemene tarief van toepassing is. Internaten verstrekken ook voedingsmiddelen. Een redelijke wetstoepassing brengt met zich mee dat het deel van de vergoeding dat is toe te rekenen aan de verstrekking van de in deze post bedoelde voedingsmiddelen wordt belast naar het verlaagde tarief. Dat gedeelte wordt gesteld op de aan de voedingsmiddelen toe te rekenen kosten, met inbegrip van een toe te rekenen deel van de constante algemene kosten, vermeerderd met een op basis van de totale kosten bepaald deel van de winst.     
-### Post  A 2  
+### Post A 2  
 
 ### 1  
 
@@ -317,7 +317,7 @@ Getoaste sojabonen vallen onder de post. Dit zijn sojabonen waaruit – door ver
 − voor de teelt van peulvruchten bestemde zaden en serradellazaad. Wel vallen deze zaden onder post a 41;  
 
 − erwten- en bonenmeel. Dit zijn gemalen schillen, delen van zaadlobben en kiemen die als bijproduct vrijkomen bij de bereiding van voedingsmiddelen uit erwten en bonen.       
-### Post  A 3  
+### Post A 3  
 
 ### 1  
 
@@ -335,7 +335,7 @@ Onder de post vallen zowel de jonge groente- en fruitplanten die zijn bestemd vo
 − geënt, dit is compost waaraan kort vóór de levering champignonmycelium is toegevoegd;  
 
 − doorgroeid, dit is compost waarin het champignonmycelium volledig is doorgegroeid.       
-### Post  A 4  
+### Post A 4  
 
 ### 1  
 
@@ -405,7 +405,7 @@ Slachtafvallen die gemalen of gesneden, in zakjes verpakt of in worstvorm, in de
 ####Levering van sperma en embryo’s voor de onder a en b vallende dieren (onderdeel d van de post)
 
 Onderdeel *d* van de post is van toepassing op de levering en invoer van goederen, zoals sperma en embryo’s, bestemd voor de voortplanting van de in onderdeel *a* en *b* bedoelde dieren. Het gaat hier om de levering van deze goederen zonder de dienst van het kunstmatig insemineren. Het kunstmatig insemineren van en het transplanteren van embryo’s bij deze dieren valt onder post *b* 13, onderdeel b. Zie post b 13, onderdeel 4 van dit besluit.     
-### Post  A 6  
+### Post A 6  
 
 ### 1  
 
@@ -420,14 +420,14 @@ De tekst van post a 6 luidt:  *‘geneesmiddelen als bedoeld in artikel 1, eerst
 
 ####Definitie van het begrip ‘geneesmiddel’
 
-Een geneesmiddel is een substantie of een samenstel van substanties die bestemd is om te worden toegediend of aangewend voor dan wel op enigerlei wijze wordt gepresenteerd als zijnde geschikt voor: 1 <sup>e</sup>. het genezen of voorkomen van een ziekte, gebrek, wond of pijn bij de mens, 2 <sup>e</sup>. het stellen van een geneeskundige diagnose bij de mens, of 3 <sup>e</sup>. het herstellen, verbeteren of anderszins wijzigen van fysiologische functies bij de mens door een farmacologisch, immunologisch of metabolisch effect te bewerkstelligen.    
+Een geneesmiddel is een substantie of een samenstel van substanties die bestemd is om te worden toegediend of aangewend voor dan wel op enigerlei wijze wordt gepresenteerd als zijnde geschikt voor: 1<sup>e</sup>. het genezen of voorkomen van een ziekte, gebrek, wond of pijn bij de mens, 2<sup>e</sup>. het stellen van een geneeskundige diagnose bij de mens, of 3<sup>e</sup>. het herstellen, verbeteren of anderszins wijzigen van fysiologische functies bij de mens door een farmacologisch, immunologisch of metabolisch effect te bewerkstelligen.    
 ### 2.2  
 
 ####Geneesmiddelen in de zin van de post
 
 * De definitie van het begrip ‘geneesmiddel’ onder 2.1 heeft tot gevolg dat ‘in vivo diagnostica’ onder de post vallen. Middelen voor het stellen van een medische diagnose via een laboratoriumonderzoek, de ‘in vitro diagnostica’, vallen niet onder de post.  
 
-* Alleen geneesmiddelen die in een farmaceutische vorm in de handel zijn gebracht, kunnen onder de post vallen. Een farmaceutische vorm is de fysieke vorm waarin een geneesmiddel is gebracht met het oog op de toediening of aanwending bij de mens (artikel 1, eerste lid, onderdeel v, van de Geneesmiddelenwet). Hierbij valt te denken aan pillen, poeders, tabletten, capsules, zalven, gels, crèmes, drankjes en injectievloeistoffen. Ook een geneesmiddel dat samen met een medisch hulpmiddel voor éénmalig gebruik één geïntegreerd product vormt, is een farmaceutische vorm. Voorbeelden hiervan zijn: 
+* Alleen geneesmiddelen die in een farmaceutische vorm in de handel zijn gebracht, kunnen onder de post vallen. Een farmaceutische vorm is de fysieke vorm waarin een geneesmiddel is gebracht met het oog op de toediening of aanwending bij de mens ([artikel 1, eerste lid, onderdeel v, van de Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md)). Hierbij valt te denken aan pillen, poeders, tabletten, capsules, zalven, gels, crèmes, drankjes en injectievloeistoffen. Ook een geneesmiddel dat samen met een medisch hulpmiddel voor éénmalig gebruik één geïntegreerd product vormt, is een farmaceutische vorm. Voorbeelden hiervan zijn: 
 
 − gevulde injectiespuiten;  
 
@@ -451,7 +451,7 @@ Een geneesmiddel is een substantie of een samenstel van substanties die bestemd 
 
 − wetenschappelijke rapporten waarin de aanduiding/aanprijzing van het product wordt bevestigd;  
 
-− de aanwezigheid van bepaalde werkzame bestanddelen in het desbetreffende product die ook voorkomen in producten die op basis van de Geneesmiddelenwet als geneesmiddelen zijn geregistreerd.   
+− de aanwezigheid van bepaalde werkzame bestanddelen in het desbetreffende product die ook voorkomen in producten die op basis van de [Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) als geneesmiddelen zijn geregistreerd.   
 
 * Producten die naar spraakgebruik (primair) een andere functie bezitten dan de functie van geneesmiddel (bijv. verzorgingsproducten, cosmetica, alcoholhoudende dranken) vallen buiten het toepassingsgebied van de post. Niet onder de post vallen daarom: 
 
@@ -463,31 +463,31 @@ Een geneesmiddel is een substantie of een samenstel van substanties die bestemd 
 
 − zogenoemde ‘handalcoholen’, producten die worden toegepast voor de desinfectie van de handen of de desinfectie van de intacte huid.    
 
-* Geneesmiddelen in de zin van de Geneesmiddelenwet vallen soms mede of zelfs uitsluitend onder de werking van een specifieke wettelijke regeling. Voor de toepassing van het verlaagde tarief is dit niet van belang. Zo kan dit tarief ook worden toegepast op de geneesmiddelen in farmaceutische vorm waarvoor mede het bepaalde in de Opiumwet (*Stb*. 1928, 167) van toepassing is (opiaten) en op geneesmiddelen waarvoor mede het bepaalde in de Kernenergiewet (*Stb*. 1963, 82) van toepassing is (de zgn. radiofarmaca). Hetzelfde geldt voor uit bloed(plasma) bereide producten en sera en vaccins, die uitsluitend onder de werking van de Wet inzake bloedtransfusie (*Stb*. 1988, 546) respectievelijk de Wet op sera en vaccins (*Stb*. 1927, 91) vallen.  
+* Geneesmiddelen in de zin van de [Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) vallen soms mede of zelfs uitsluitend onder de werking van een specifieke wettelijke regeling. Voor de toepassing van het verlaagde tarief is dit niet van belang. Zo kan dit tarief ook worden toegepast op de geneesmiddelen in farmaceutische vorm waarvoor mede het bepaalde in de [Opiumwet](../../../../../../wet/opiumwet/BWBR0001941/README.md) (*Stb*. 1928, 167) van toepassing is (opiaten) en op geneesmiddelen waarvoor mede het bepaalde in de [Kernenergiewet](../../../../../../wet/kernenergiewet/BWBR0002402/README.md) (*Stb*. 1963, 82) van toepassing is (de zgn. radiofarmaca). Hetzelfde geldt voor uit bloed(plasma) bereide producten en sera en vaccins, die uitsluitend onder de werking van de Wet inzake bloedtransfusie (*Stb*. 1988, 546) respectievelijk de Wet op sera en vaccins (*Stb*. 1927, 91) vallen.  
 
-* Dialysevloeistoffen zijn doorgaans als geneesmiddelen in de zin van de Geneesmiddelenwet toegelaten (en zijn als zodanig herkenbaar via het aan hen toegekende RVG-nummer) en vallen daarom onder de post.  
+* Dialysevloeistoffen zijn doorgaans als geneesmiddelen in de zin van de [Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) toegelaten (en zijn als zodanig herkenbaar via het aan hen toegekende RVG-nummer) en vallen daarom onder de post.  
 
 * Botregeneratieve producten worden gebruikt om defecten in botten te herstellen. Botregeneratieve producten kunnen een synthetische basis hebben maar ook een natuurlijke basis (bestanddelen zijn dan afkomstig van dieren, overleden mensen of lichaamseigen bot). Het basismateriaal wordt op een zodanige manier bewerkt dat een product ontstaat dat te vergelijken is met ‘eigen’ bot. Nadat het botregeneratieve product is geïmplanteerd in het defecte bot, zorgt het er voor dat het lichaam zelf weer botweefsel aanmaakt waardoor het defecte bot herstelt of aangroeit. Botregeneratieve producten zijn bestemd voor eenmalig gebruik en worden toegepast in de tandheelkunde en orthopedie. Gelet op de functie, namelijk herstel van botstructuren, zijn botregeneratieve producten aan te merken als geneesmiddelen in de zin van de post, ongeacht of het geïmplanteerde materiaal na korte of lange tijd weer uit het lichaam verdwijnt.      
 ### 2.3  
 
 ####(Niet) geregistreerde geneesmiddelen
 
-Met de komst van de Geneesmiddelenwet per 1 juli 2007 wordt de term ‘(niet) geregistreerde geneesmiddelen’ niet langer gebruikt. In bedoelde wet is sprake van ‘het verlenen van een handelsvergunning’ aan degenen die een geneesmiddel op de markt willen brengen. Omdat materieel niets is gewijzigd en in de praktijk (ook bij VWS) nog steeds sprake is van (niet) geregistreerde geneesmiddelen, blijven die termen hierna gehanteerd.   
+Met de komst van de [Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) per 1 juli 2007 wordt de term ‘(niet) geregistreerde geneesmiddelen’ niet langer gebruikt. In bedoelde wet is sprake van ‘het verlenen van een handelsvergunning’ aan degenen die een geneesmiddel op de markt willen brengen. Omdat materieel niets is gewijzigd en in de praktijk (ook bij VWS) nog steeds sprake is van (niet) geregistreerde geneesmiddelen, blijven die termen hierna gehanteerd.   
 ### 2.3.1  
 
 ####Geregistreerde geneesmiddelen
 
-Vrijwel alle geneesmiddelen zijn geregistreerd. Dit geldt voor zowel de reguliere als de homeopatische geneesmiddelen. De door het College ter beoordeling van geneesmiddelen (CBG) voor Nederland toegelaten geneesmiddelen zijn voorzien van een registratienummer. Voor de reguliere geneesmiddelen is dit een RVG-nummer, voor homeopatische geneesmiddelen is dit een RVH-nummer. In de Regeling Geneesmiddelenwet (Stcrt. 29 juni 2007, nr. 123) is aangegeven aan welke voorwaarden (ten aanzien van aanduiding en dergelijke) homeopathische geneesmiddelen moeten voldoen.    
+Vrijwel alle geneesmiddelen zijn geregistreerd. Dit geldt voor zowel de reguliere als de homeopatische geneesmiddelen. De door het College ter beoordeling van geneesmiddelen (CBG) voor Nederland toegelaten geneesmiddelen zijn voorzien van een registratienummer. Voor de reguliere geneesmiddelen is dit een RVG-nummer, voor homeopatische geneesmiddelen is dit een RVH-nummer. In de [Regeling Geneesmiddelenwet](../../../../../../ministeriele-regeling/regeling/geneesmiddelenwet/BWBR0022160/README.md) (Stcrt. 29 juni 2007, nr. 123) is aangegeven aan welke voorwaarden (ten aanzien van aanduiding en dergelijke) homeopathische geneesmiddelen moeten voldoen.    
 ### 2.3.2  
 
 ####Niet geregistreerde geneesmiddelen
 
-Er zijn ook geneesmiddelen die (nog) niet zijn geregistreerd. Het betreft bijvoorbeeld geneesmiddelen die zich nog in het stadium van proefneming bevinden of geneesmiddelen die voor een individueel geval in een apotheek worden bereid. De Geneesmiddelenwet kent als uitgangspunt dat alleen geregistreerde geneesmiddelen mogen worden verkocht als geneesmiddel.      
+Er zijn ook geneesmiddelen die (nog) niet zijn geregistreerd. Het betreft bijvoorbeeld geneesmiddelen die zich nog in het stadium van proefneming bevinden of geneesmiddelen die voor een individueel geval in een apotheek worden bereid. De [Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) kent als uitgangspunt dat alleen geregistreerde geneesmiddelen mogen worden verkocht als geneesmiddel.      
 ### 3  
 
 ####Voorbehoedmiddelen
 
-Onder ‘voorbehoedmiddelen’ worden verstaan alle niet als geneesmiddelen aan te merken anticonceptiva. De (anticonceptie)pil, zoals omschreven in de Geneesmiddelenwet, valt als geneesmiddel al onder de post. Als voorbehoedmiddel in de zin van de post kunnen worden aangemerkt: het spiraaltje, het pessarium, het condoom (het klassieke en het vrouwencondoom) en de zaaddodende pasta. Glijmiddelen kunnen niet onder de post worden gerangschikt. Ik keur goed dat glijmiddelen die samen met één of meerdere condooms in één verpakking voor één prijs worden geleverd, delen in de toepassing van het verlaagde tarief.    
+Onder ‘voorbehoedmiddelen’ worden verstaan alle niet als geneesmiddelen aan te merken anticonceptiva. De (anticonceptie)pil, zoals omschreven in de [Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), valt als geneesmiddel al onder de post. Als voorbehoedmiddel in de zin van de post kunnen worden aangemerkt: het spiraaltje, het pessarium, het condoom (het klassieke en het vrouwencondoom) en de zaaddodende pasta. Glijmiddelen kunnen niet onder de post worden gerangschikt. Ik keur goed dat glijmiddelen die samen met één of meerdere condooms in één verpakking voor één prijs worden geleverd, delen in de toepassing van het verlaagde tarief.    
 ### 4  
 
 ####Infusievloeistoffen
@@ -504,7 +504,7 @@ Onder de volgende voorwaarden keur ik goed dat steriele medische hulpmiddelen vo
 
 − de hulpmiddelen zijn uitsluitend bestemd voor het transport en/of de opslag van bloed, bloedcomponenten en/of infuusvloeistoffen en komen daarmee in aanraking en  
 
-− de hulpmiddelen voldoen aan de eisen die gesteld zijn in het Besluit medische hulpmiddelen.   Onder de in dit onderdeel van de post bedoelde steriele medische hulpmiddelen kunnen worden gerangschikt steriele, voor eenmalig gebruik bestemde 
+− de hulpmiddelen voldoen aan de eisen die gesteld zijn in het [Besluit medische hulpmiddelen](../../../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md).   Onder de in dit onderdeel van de post bedoelde steriele medische hulpmiddelen kunnen worden gerangschikt steriele, voor eenmalig gebruik bestemde 
 
 − infusiesets;  
 
@@ -564,7 +564,7 @@ Apothekers brengen aan cliënten die de aan hen geleverde genees- en verbandmidd
 ### *Goedkeuring* 
 
 Ik keur goed dat de vergoeding voor administratiekosten in zijn geheel wordt geacht deel uit te maken van de vergoeding waarop het verlaagde tarief van toepassing is.     
-### Post  A 7  
+### Post A 7  
 
 ### 1  
 
@@ -575,37 +575,37 @@ De tekst van post a 7 luidt:  *‘diergeneesmiddelen als zijn bedoeld in de Dier
 
 ####Algemeen
 
-Producten die zijn aan te merken als diergeneesmiddel in de zin van de Diergeneesmiddelenwet (*Stb*. 1985, 410) zijn belast naar het verlaagde tarief. Voorwaarde is dat zij worden toegepast bij of aan het dier zelf (in vivo gebruik). Niet onder het verlaagde tarief vallen de middelen die nodig zijn om een diagnose te stellen (in vitro gebruik) en die daartoe worden toegepast op weefsel of lichaamsvloeistoffen die uit dieren afkomstig zijn. Grondstoffen voor de bereiding van diergeneesmiddelen worden niet als diergeneesmiddelen in de zin van de Diergeneesmiddelenwet aangemerkt.    
+Producten die zijn aan te merken als diergeneesmiddel in de zin van de [Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) (*Stb*. 1985, 410) zijn belast naar het verlaagde tarief. Voorwaarde is dat zij worden toegepast bij of aan het dier zelf (in vivo gebruik). Niet onder het verlaagde tarief vallen de middelen die nodig zijn om een diagnose te stellen (in vitro gebruik) en die daartoe worden toegepast op weefsel of lichaamsvloeistoffen die uit dieren afkomstig zijn. Grondstoffen voor de bereiding van diergeneesmiddelen worden niet als diergeneesmiddelen in de zin van de [Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) aangemerkt.    
 ### 3  
 
 ####Diergeneesmiddel
 
-Op grond van artikel 1, eerste lid, van de Diergeneesmiddelenwet wordt als diergeneesmiddel aangemerkt elke substantie die is bestemd om al dan niet na be- of verwerking te worden gebruikt voor: 
+Op grond van [artikel 1, eerste lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) wordt als diergeneesmiddel aangemerkt elke substantie die is bestemd om al dan niet na be- of verwerking te worden gebruikt voor: 
 
 − het genezen, lenigen of voorkomen van enige aandoening, ziekte, ziekteverschijnsel, pijn, verwonding of gebrek van een dier;  
 
 − het herstellen, verbeteren of wijzigen van het functioneren van organen van een dier;  
 
-− het onderkennen van een ziekte of gebrek bij dieren door toepassing bij een dier.   De bestemming moet kunnen worden vastgesteld aan de hand van bijvoorbeeld de aard, vorm, verpakking of aanduiding van het product. Alle informatie over geregistreerde diergeneesmiddelen (Europese en Nederlandse) en de diergeneesmiddelen waarvoor een registratie in Nederland is aangevraagd, is terug te vinden in de diergeneesmiddelendatabase die door het CBG op het internet is gepubliceerd (www.cbg-meb.nl). Als registratie (nog) niet is vereist zal op de verpakking in ieder geval het woord diergeneesmiddel moeten worden vermeld en de diersoort(en) waarvoor het diergeneesmiddel is bestemd. Dit betekent dat het verlaagde tarief voor in Nederland toegelaten diergeneesmiddelen alleen van toepassing is op de levering van producten, die als diergeneesmiddel in de handel worden gebracht en die ook overigens aan de in de Diergeneesmiddelenwet genoemde vereisten voldoen.    
+− het onderkennen van een ziekte of gebrek bij dieren door toepassing bij een dier.   De bestemming moet kunnen worden vastgesteld aan de hand van bijvoorbeeld de aard, vorm, verpakking of aanduiding van het product. Alle informatie over geregistreerde diergeneesmiddelen (Europese en Nederlandse) en de diergeneesmiddelen waarvoor een registratie in Nederland is aangevraagd, is terug te vinden in de diergeneesmiddelendatabase die door het CBG op het internet is gepubliceerd (www.cbg-meb.nl). Als registratie (nog) niet is vereist zal op de verpakking in ieder geval het woord diergeneesmiddel moeten worden vermeld en de diersoort(en) waarvoor het diergeneesmiddel is bestemd. Dit betekent dat het verlaagde tarief voor in Nederland toegelaten diergeneesmiddelen alleen van toepassing is op de levering van producten, die als diergeneesmiddel in de handel worden gebracht en die ook overigens aan de in de [Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) genoemde vereisten voldoen.    
 ### 4  
 
 ####Middelen ter bestrijding van ongedierte bij dieren
 
 Middelen die worden gebruikt voor de bestrijding van ongedierte (zoals vlooien, luizen en teken) bij dieren zijn onder te verdelen in: 
 
-a. middelen die zijn bestemd voor inwendig gebruik door het dier (zgn. endoparasiticiden). Deze middelen worden, als zij aan de daartoe in de Diergeneesmiddelenwet gestelde voorwaarden voldoen, als diergeneesmiddel aangemerkt en vallen als zodanig onder de post. Zij zijn herkenbaar aan het registratienummer op de verpakking van deze middelen (zie ook onderdeel 3).  
+a. middelen die zijn bestemd voor inwendig gebruik door het dier (zgn. endoparasiticiden). Deze middelen worden, als zij aan de daartoe in de [Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) gestelde voorwaarden voldoen, als diergeneesmiddel aangemerkt en vallen als zodanig onder de post. Zij zijn herkenbaar aan het registratienummer op de verpakking van deze middelen (zie ook onderdeel 3).  
 
 b. middelen die zijn bestemd voor uitwendig gebruik (zgn. ectoparasiticiden), waarbij een onderscheid dient te worden gemaakt tussen: 
 
 − middelen die op het dier zelf worden toegepast (bijvoorbeeld vlooienbanden);  
 
-− middelen die in de verblijfsomgeving van het dier worden toegepast (bijvoorbeeld sprays).     De op het dier zelf toegepaste middelen vallen vanaf 1 januari 1995 voor het toelatingsregime onder de Diergeneesmiddelenwet. Zij vallen onder de post als zij aan de daarin gestelde voorwaarden voldoen en als zodanig herkenbaar zijn aan het registratienummer op de verpakking. De middelen die in de verblijfsomgeving van het dier worden toegepast vallen niet onder de werking van de Diergeneesmiddelenwet. Zij worden ook niet toegepast voor of bij het dier zelf. Deze middelen vallen niet onder de post.    
+− middelen die in de verblijfsomgeving van het dier worden toegepast (bijvoorbeeld sprays).     De op het dier zelf toegepaste middelen vallen vanaf 1 januari 1995 voor het toelatingsregime onder de [Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md). Zij vallen onder de post als zij aan de daarin gestelde voorwaarden voldoen en als zodanig herkenbaar zijn aan het registratienummer op de verpakking. De middelen die in de verblijfsomgeving van het dier worden toegepast vallen niet onder de werking van de [Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md). Zij worden ook niet toegepast voor of bij het dier zelf. Deze middelen vallen niet onder de post.    
 ### 5  
 
 ####Dierenartsen
 
 In gevallen waarin een dierenarts bij de geneeskundige behandeling van een ziek dier een diergeneesmiddel toedient, is sprake van een naar het algemene tarief belaste dienst waarin het toedienen van het diergeneesmiddel opgaat. Als de dierenarts na de behandeling van het zieke dier aan de verzorger van het dier diergeneesmiddelen levert, verricht de dierenarts een afzonderlijke aan het verlaagde tarief onderworpen levering van diergeneesmiddelen. In gevallen waarin het op correcte wijze splitsen van de aan de levering van diergeneesmiddelen toe te rekenen omzet vanuit de administratie onmogelijk is, kan de inspecteur een praktische regeling treffen. Een in dat kader aan te brengen forfaitaire splitsing van de omzet dient gebaseerd te zijn op, en zo nauwkeurig mogelijk aan te sluiten bij, de praktijkgegevens van de betrokken dierenarts.     
-### Post  A 8  
+### Post A 8  
 
 ### 1  
 
@@ -618,7 +618,7 @@ De tekst van post a 8 luidt:  *‘verbandmiddelen zoals watten, windsels, gaas, 
 
 De opsomming van verbandmiddelen is niet limitatief. Onder de post vallen niet alleen de met name genoemde verbandmiddelen, maar ook middelen die: 
 
-1. wat betreft gebruik aan de genoemde verbandmiddelen zijn gelijk te stellen, *en*  
+1. wat betreft gebruik aan de genoemde verbandmiddelen zijn gelijk te stellen, *en*   
 
 2. zijn ontwikkeld en worden aangeboden voor geneeskundige doeleinden.   Voor een ‘open’ omschrijving van het begrip is gekozen om ook de nieuwste artikelen op het gebied van de verbandmiddelen onder de post te doen vallen. Het begrip verbandmiddel omvat naar spraakgebruik alleen producten die ertoe dienen een beschadigd (in het bijzonder: gewond) of ziek lichaamsdeel te bedekken. Verbandmiddelen die gebruikt worden in de diergeneeskunde vallen ook onder de post (zie onderdeel 15 bij deze post). De zogenoemde bandagelens, een lens die na een oogoperatie wordt gebruikt om het oog af te dekken en dient als ‘verband’, valt onder de post. Gebruiksartikelen, zoals kleding en schoeisel, die een therapeutische werking bezitten, vallen niet onder de post.    
 ### 3  
@@ -759,10 +759,10 @@ Verbandmiddelensets zijn sets bestemd voor een bepaalde geneeskundige of chirurg
 ### *Goedkeuring* 
 
 Ik keur goed dat een set die is samengesteld uit verbandmiddelen, een bakje of schaaltje voor eenmalig gebruik en ten hoogste twee pincetten voor eenmalig gebruik, wordt gerangschikt onder het verlaagde tarief.     
-### Post  A 9 T/M A 27  
+### Post A 9 T/M A 27 
 
 (vervallen)    
-### Post  A 28  
+### Post A 28  
 
 ### 1  
 
@@ -817,7 +817,7 @@ Het vastrecht en de belasting op leidingwater behoren tot de vergoeding voor de 
 − het verrichten van laboratoriumwerkzaamheden;  
 
 − het tegen vergoeding inspecteren van waterleidingen en/of installaties door een waterleidingbedrijf op de aanwezigheid van legionellabacteriën.       
-### Post  A 29  
+### Post A 29 
 
 ####(vervallen per 1 januari 2011)
 
@@ -834,7 +834,7 @@ b.  *kunstvoorwerpen voor zover deze worden geleverd door:*
 
 ####Algemeen
 
-Kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten zijn gedefinieerd in artikel 2a, eerste lid, onderdeel m, van de wet in verbinding met artikel 4, tweede lid, van de uitvoeringsbeschikking en de bij die beschikking behorende bijlage J. Het verlaagde tarief geldt voor leveringen en opleveringen (zie de toelichting op post b16).    
+Kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten zijn gedefinieerd in [artikel 2a, eerste lid, onderdeel m, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) in verbinding met [artikel 4, tweede lid, van de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) en de bij die beschikking behorende [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md). Het verlaagde tarief geldt voor leveringen en opleveringen (zie de toelichting op post b16).    
 ### 3  
 
 ####Kunstvoorwerpen
@@ -843,7 +843,7 @@ Kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten zijn gedefinieer
 
 ####Algemeen
 
-In post 1 van bijlage J zijn de volgende goederen als ‘kunstvoorwerpen’ aangewezen: 
+In post 1 van [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) zijn de volgende goederen als ‘kunstvoorwerpen’ aangewezen: 
 
 a. schilderijen, collages en dergelijke decoratieve platen, schilderijen en tekeningen geheel van de hand van de kunstenaar, met uitzondering van bouwtekeningen en andere tekeningen voor industriële, commerciële, topografische en dergelijke doeleinden en van met de hand versierde voorwerpen alsmede van beschilderd doek voor theatercoulissen, voor achtergronden van studio's of voor dergelijk gebruik (GN-code 9701);  
 
@@ -880,12 +880,12 @@ Voorwerpen die het karakter hebben van een gebruiksvoorwerp (met uitzondering va
 − objecten die een soortgelijke functie vervullen als amuletten. Deze objecten worden aangeschaft vanwege de (veronderstelde) werking en niet zozeer vanwege een artistieke waarde.      
 ### 3.4  
 
-####Schilderijen, enz. (post 1, onderdeel a, bijlage J)
+####Schilderijen, enz. (post 1, onderdeel a, [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md))
 
 Of een voorwerp als een schilderij kan worden aangemerkt moet naar het spraakgebruik worden beoordeeld. Beschilderde goederen zijn pas dan als schilderijen in de zin van de post aan te merken als zij het karakter hebben van schilderijen. Hierbij geldt de voorwaarde dat het eventuele overige gebruik dat van die goederen kan worden gemaakt onbetekenend van aard is. Kledingstukken die door een kunstenaar zijn beschilderd, maar die naar hun functie zijn bestemd om als kleding te worden gedragen vallen daarom niet onder de post. Lijsten waarin schilderijen, schilderingen, tekeningen, collages en dergelijke decoratieve platen, gravures, etsen en litho’s zijn ingelijst, volgen het tarief van die kunstvoorwerpen, als de aard en de waarde van die lijsten in overeenstemming zijn met die van bedoelde kunstvoorwerpen.    
 ### 3.5  
 
-####Originele gravures, etsen en litho's (post 1, onderdeel b, bijlage J)
+####Originele gravures, etsen en litho's (post 1, onderdeel b, [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md))
 
 ### *Goedkeuring* 
 
@@ -896,12 +896,12 @@ Ik keur goed dat onder de post worden gerangschikt:
 − zeefdrukken die door een kunstenaar − al dan niet in samenwerking met een zeefdrukker − handmatig zijn vervaardigd, mits zij door de kunstenaar handmatig zijn genummerd en gesigneerd in een maximale oplage van 250 exemplaren. Als de oplage hoger is dan 250 exemplaren, geldt voor de gehele oplage het algemene tarief.      
 ### 3.6  
 
-####Originele standbeelden en origineel beeldhouwwerk (post 1, onderdeel c, bijlage J)
+####Originele standbeelden en origineel beeldhouwwerk (post 1, onderdeel c, [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md))
 
 Onder de post vallen niet alleen werken die rechtstreeks uit harde materialen, zoals steen en hout, zijn gehouwen, maar ook werken van de beeldhouwkunst die uit brons of andere materialen zijn gegoten en werken van de beeldhouwkunst die uit andere materialen dan steen, hout of metaal zijn vervaardigd. Lijfsieraden en ander ambachtswerk met een commercieel karakter en in serie vervaardigde reproducties en afgietsels met een commercieel karakter van metaal, gips, enz. kunnen niet worden gerangschikt onder de post. Beeldhouwwerk met een commercieel karakter valt niet onder de post, zelfs niet als het is ontworpen of vervaardigd door kunstenaars. Er is sprake van een beeldhouwwerk met een commercieel karakter als dat werk naar maatschappelijke opvattingen uiterlijke gelijkenis vertoont met industriële of ambachtelijke producten. Daarbij zijn de vormgeving, de afmetingen, de materiaalkeuze, de kleur enz. van dat werk bepalend voor de beoordeling/waarneming van de gelijkenis. Door de gelijkenis moet voor de toepassing van het btw-tarief worden aangenomen dat het beeldhouwwerk concurreert met gelijkaardige industriële of ambachtelijke producten waarvoor het algemene btw-tarief geldt. In dergelijke gevallen is niet van belang of het betreffende beeldhouwwerk in een museumcollectie wordt opgenomen en of de prijs aanmerkelijk verschilt van de industriële of ambachtelijk vervaardigde, gelijkaardige producten. Voorbeeld: een kunstenaar levert een door hem ontworpen gouden ring met edelstenen, die alleen qua kleur van de edelstenen verschilt van een ambachtelijk vervaardigde gouden ring. Doorgaans zal er geen uiterlijke gelijkenis bestaan waar het gaat om volstrekt persoonlijke en unieke creaties waarmee de kunstenaar een esthetisch ideaal tot uitdrukking brengt. Een door een kunstenaar ontworpen en geleverde gedenksteen is niet aan te merken als een beeldhouwwerk in de zin van de post. Omdat de gedenksteen uiterlijke gelijkenis vertoont met industriële of ambachtelijke gedenkstenen, is de steen aan te merken als grafmonument. Het verlaagde tarief is daarop niet van toepassing.    
 ### 3.7  
 
-####Unieke voorwerpen van keramiek, geheel van de hand van de kunstenaar en door hem gesigneerd (post 1, onderdeel e, bijlage J);
+####Unieke voorwerpen van keramiek, geheel van de hand van de kunstenaar en door hem gesigneerd (post 1, onderdeel e, [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md));
 
 Het criterium dat de keramische voorwerpen uniek moeten zijn, houdt in dat van het uiteindelijke voorwerp geen tweede nagenoeg identiek exemplaar is of zal worden vervaardigd. Dit betekent dat in serie gemaakte producten, waarbij de ambachtelijke vaardigheid het artistiek scheppend vermogen overheerst, niet als kunstvoorwerpen in de zin van de post kunnen worden aangemerkt. Een serie met de hand vervaardigde, vrijwel identieke, bekers (bijvoorbeeld voorzien van een beschildering van een kat), is niet aan te merken als een serie unieke voorwerpen van keramiek.    
 ### 3.8  
@@ -919,21 +919,21 @@ Ik keur goed dat de verhuur van kunstvoorwerpen (of het op een andere manier teg
 
 ####Algemeen
 
-In post 2 van bijlage J zijn de volgende goederen als ‘voorwerpen voor verzamelingen’ aangewezen: 
+In post 2 van [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) zijn de volgende goederen als ‘voorwerpen voor verzamelingen’ aangewezen: 
 
 − postzegels, fiscale zegels, gefrankeerde enveloppen en postkaarten, eerstedag-enveloppen en dergelijke, gestempeld of ongestempeld, voor zover zij niet geldig zijn of niet geldig zullen worden (GN-code 9704 00 00);  
 
 − verzamelingen en voorwerpen voor verzamelingen, met een zoölogisch, botanisch, mineralogisch, anatomisch, historisch, archeologisch, paleontologisch, etnografisch of numismatisch belang (GN-code 9705 00 00).      
 ### 4.2  
 
-####Postzegels enz. (post 2, onderdeel a, bijlage J)
+####Postzegels enz. (post 2, onderdeel a, [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md))
 
-Ongestempelde postzegels vallen alleen onder de post als zij niet (meer) voor het frankeren van poststukken kunnen worden gebruikt. De levering door TNT NV van postzegels die in Nederland kunnen worden gebruikt voor het frankeren van poststukken, valt onder de vrijstelling van artikel 11, eerste lid, onderdeel m, van de wet.    
+Ongestempelde postzegels vallen alleen onder de post als zij niet (meer) voor het frankeren van poststukken kunnen worden gebruikt. De levering door TNT NV van postzegels die in Nederland kunnen worden gebruikt voor het frankeren van poststukken, valt onder de vrijstelling van [artikel 11, eerste lid, onderdeel m, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).    
 ### 4.3  
 
-####Andere verzamelingen (post 2, onderdeel b, bijlage J)
+####Andere verzamelingen (post 2, onderdeel b, [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md))
 
-De levering van bankbiljetten en munten die in enig land de hoedanigheid van wettig betaalmiddel hebben is vrijgesteld, tenzij zij gewoonlijk niet als wettig betaalmiddel worden gebruikt of verzamelwaarde hebben (artikel 11, eerste lid, letter i van de wet). Munten met verzamelwaarde kunnen worden ondergebracht in een verzameling van numismatisch belang in de zin van de post, mits zij: 
+De levering van bankbiljetten en munten die in enig land de hoedanigheid van wettig betaalmiddel hebben is vrijgesteld, tenzij zij gewoonlijk niet als wettig betaalmiddel worden gebruikt of verzamelwaarde hebben ([artikel 11, eerste lid, letter i van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)). Munten met verzamelwaarde kunnen worden ondergebracht in een verzameling van numismatisch belang in de zin van de post, mits zij: 
 
 − de hoedanigheid van wettig betaalmiddel hebben en bovendien verzamelwaarde hebben; of  
 
@@ -948,7 +948,7 @@ De levering van bankbiljetten en munten die in enig land de hoedanigheid van wet
 
 ####Algemeen
 
-In post 3 van bijlage J zijn als ‘antiquiteiten’ aangewezen: 
+In post 3 van [bijlage J](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) zijn als ‘antiquiteiten’ aangewezen: 
 
 − andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder dan 100 jaar (GN-code 9706 00 00).       
 ### 6  
@@ -959,7 +959,7 @@ Instellingen voor kunstuitleen stellen zich ten doel hedendaagse beeldende kunst
 ### *Goedkeuring* 
 
 Ik keur goed dat geen omzetbelasting wordt geheven over het gedeelte van het abonnementsgeld dat de abonnementhouder met het oog op de toekomstige aankoop van een kunstwerk als spaartegoed bij een instelling voor kunstuitleen aanhoudt. Als het spaartegoed wordt gebruikt voor de aankoop van een kunstwerk, moet het spaartegoed worden gerekend tot de vergoeding voor de levering van het kunstwerk. Voor deze levering is dan omzetbelasting verschuldigd. Deze goedkeuring geldt ook voor artotheken en instellingen die op commerciële basis kunstwerken uitlenen.     
-### Post  A 30  
+### Post A 30  
 
 ### 1  
 
@@ -1084,7 +1084,7 @@ Bij de uitgifte van boekwerken worden regelmatig cd-roms toegevoegd als aanvulli
 
 7. Indien internetlinks kunnen worden aangemerkt als accessoir aan de informatie die op de cd/dvd staat en daarvoor éénmalig bij de levering van de cd/dvd een vergoeding wordt berekend, kan op het geheel het verlaagde tarief worden toegepast.  
 
-8. ‘Onderwijsinstelling’. Een onderwijsinstelling is een instelling die is genoemd of bedoeld in artikel 11, eerste lid, onderdeel o, van de Wet op de omzetbelasting 1968 juncto artikel 8 van het Uitvoeringsbesluit omzetbelasting 1968. Daaronder vallen ook instituten die beroepsonderwijs verstrekken als bedoeld in artikel 8, eerste lid, onderdeel a, van het Uitvoeringsbesluit en die niet zijn opgenomen in het Register Kort Beroeps Onderwijs, maar die overigens hetzelfde onderwijs verstrekken als instituten die wél daarin zijn opgenomen.       
+8. ‘Onderwijsinstelling’. Een onderwijsinstelling is een instelling die is genoemd of bedoeld in [artikel 11, eerste lid, onderdeel o, van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) juncto [artikel 8 van het Uitvoeringsbesluit omzetbelasting 1968](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md). Daaronder vallen ook instituten die beroepsonderwijs verstrekken als bedoeld in artikel 8, eerste lid, onderdeel a, van het Uitvoeringsbesluit en die niet zijn opgenomen in het Register Kort Beroeps Onderwijs, maar die overigens hetzelfde onderwijs verstrekken als instituten die wél daarin zijn opgenomen.       
 ### 2.3  
 
 ####Kopieerboeken
@@ -1152,12 +1152,12 @@ De post is niet van toepassing op drukwerk dat hoofdzakelijk is aan te merken al
 
 ####Verzenden van drukwerk
 
-Het komt voor dat een ondernemer die drukwerk levert ook de opdracht krijgt om dat drukwerk (*boeken; dagbladen, weekbladen, tijdschriften en andere tenminste driemaal per jaar periodiek verschijnende uitgaven)* van adresbanden te voorzien, te adresseren, te bundelen en ter post te bezorgen. Niet van belang is of het drukwerk digitaal of offset wordt gedrukt. Het bedrag dat voor de verzendwerkzaamheden in rekening wordt gebracht, inclusief porto- of frankeerkosten, wordt gerekend tot de vergoeding voor de levering van het drukwerk. Dit geldt ook als er voor de werkzaamheden op de factuur een afzonderlijk bedrag in rekening wordt gebracht. Als het geleverde drukwerk onder post a30 of a 31 valt, is ook de vergoeding voor de genoemde werkzaamheden onderworpen aan het verlaagde tarief. Als niet de ondernemer die het drukwerk levert de opdracht tot terpostbezorging heeft gekregen, maar die prestatie plaatsvindt op grond van een overeenkomst tussen de postbezorger en de persoon voor wie de post wordt bezorgd, kan het verlaagde tarief ter zake geen toepassing vinden. Als de porto- of frankeerkosten betrekking hebben op vrijgesteld postvervoer (op grond van artikel 11, eerste lid, letter m van de wet) kunnen die kosten worden behandeld als met doorlopende posten gelijk te stellen bedragen. Dit kan ook als de ondernemer in opdracht van de opdrachtgever drukwerk verzendt dat hij niet heeft geleverd. Zie artikel 8, vijfde lid, letter a van de wet, artikel 4, eerste lid letter c van het uitvoeringsbesluit en artikel 5 van de uitvoeringsbeschikking. Hieraan zijn de volgende voorwaarden verbonden: 
+Het komt voor dat een ondernemer die drukwerk levert ook de opdracht krijgt om dat drukwerk (*boeken; dagbladen, weekbladen, tijdschriften en andere tenminste driemaal per jaar periodiek verschijnende uitgaven)*van adresbanden te voorzien, te adresseren, te bundelen en ter post te bezorgen. Niet van belang is of het drukwerk digitaal of offset wordt gedrukt. Het bedrag dat voor de verzendwerkzaamheden in rekening wordt gebracht, inclusief porto- of frankeerkosten, wordt gerekend tot de vergoeding voor de levering van het drukwerk. Dit geldt ook als er voor de werkzaamheden op de factuur een afzonderlijk bedrag in rekening wordt gebracht. Als het geleverde drukwerk onder post a30 of a 31 valt, is ook de vergoeding voor de genoemde werkzaamheden onderworpen aan het verlaagde tarief. Als niet de ondernemer die het drukwerk levert de opdracht tot terpostbezorging heeft gekregen, maar die prestatie plaatsvindt op grond van een overeenkomst tussen de postbezorger en de persoon voor wie de post wordt bezorgd, kan het verlaagde tarief ter zake geen toepassing vinden. Als de porto- of frankeerkosten betrekking hebben op vrijgesteld postvervoer (op grond van [artikel 11, eerste lid, letter m van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)) kunnen die kosten worden behandeld als met doorlopende posten gelijk te stellen bedragen. Dit kan ook als de ondernemer in opdracht van de opdrachtgever drukwerk verzendt dat hij niet heeft geleverd. Zie [artikel 8, vijfde lid, letter a van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [artikel 4, eerste lid letter c van het uitvoeringsbesluit](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) en [artikel 5 van de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md). Hieraan zijn de volgende voorwaarden verbonden: 
 
 – de opdrachtnemer moet het bedrag voor de postverzending afzonderlijk aan zijn opdrachtgever in rekening brengen;  
 
-– dit bedrag moet gelijk zijn aan het bedrag dat de opdrachtnemer voor de postverzending daadwerkelijk aan een verlener van de universele postdienst als bedoeld in artikel 2, eerste lid, onderdeel g, van de Postwet 2009 heeft betaald.       
-### Post  A 31  
+– dit bedrag moet gelijk zijn aan het bedrag dat de opdrachtnemer voor de postverzending daadwerkelijk aan een verlener van de universele postdienst als bedoeld in [artikel 2, eerste lid, onderdeel g, van de Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md) heeft betaald.       
+### Post A 31  
 
 ### 1  
 
@@ -1187,7 +1187,7 @@ Optische leesapparaten zijn toestellen die een in zwartdruk op papier aangebrach
 
 ####Algemeen
 
-In artikel 34 van de uitvoeringsbeschikking zijn de aangewezen hulpmiddelen opgenomen:  *‘Als hulpmiddelen die speciaal zijn ontworpen dan wel bestemd voor het exclusieve en persoonlijke gebruik door blinden en slechtzienden als bedoeld in de bij de wet behorende tabel I, onderdeel a, post 31, worden aangewezen:*  
+In [artikel 34 van de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) zijn de aangewezen hulpmiddelen opgenomen:  *‘Als hulpmiddelen die speciaal zijn ontworpen dan wel bestemd voor het exclusieve en persoonlijke gebruik door blinden en slechtzienden als bedoeld in de bij de wet behorende tabel I, onderdeel a, post 31, worden aangewezen:*  
 
 a.  *sprekende koortsthermometers, bloedsuikermeters en bloeddrukmeters die worden aangewend voor zelfdiagnose;*   
 
@@ -1199,7 +1199,7 @@ d.  *programmatuur die erop is gericht om conventionele geschriften met behulp v
 
 e.  *programmatuur die erop is gericht de weergave op het beeldscherm van een computer te vergroten en/of te laten contrasteren;*   
 
-f.  *bijzondere gezichtshulpmiddelen voor slechtzienden die gewoonlijk door een arts of een optometrist worden voorgeschreven en individueel worden aangemeten, te weten: op of in een bril gemonteerde kijkerloepsystemen; telescoop- en prismaloepbrillen, de daarbij behorende opsteeklenzen daaronder begrepen; in een brilmontuur of brilglazen aan te brengen vergroot- en loepglazen; filterlenzen en -toepassingen en filterglazen bestemd voor een selectieve absorptie van meer dan 400 Nn van het licht met korte golflengte; alsmede tafelloepsystemen, al dan niet voorzien van verlichting, voor vergrotingen tot Nn 2X en bijbehorende toebehoren, en monoculaire handtelescopen.*    Artikel 34 uitvoeringsbeschikking ziet niet op producten die kunnen worden aangemerkt als massa-artikelen die doorgaans ook door niet-visueel gehandicapten worden gebruikt. Sprekende weegschalen vallen daarom niet onder de post.<sup></sup>Hulpmiddelen die zijn ontworpen en bestemd voor één specifieke visueel gehandicapte vallen ook niet onder de in dit artikel bedoelde hulpmiddelen.    
+f.  *bijzondere gezichtshulpmiddelen voor slechtzienden die gewoonlijk door een arts of een optometrist worden voorgeschreven en individueel worden aangemeten, te weten: op of in een bril gemonteerde kijkerloepsystemen; telescoop- en prismaloepbrillen, de daarbij behorende opsteeklenzen daaronder begrepen; in een brilmontuur of brilglazen aan te brengen vergroot- en loepglazen; filterlenzen en -toepassingen en filterglazen bestemd voor een selectieve absorptie van meer dan 400 Nn van het licht met korte golflengte; alsmede tafelloepsystemen, al dan niet voorzien van verlichting, voor vergrotingen tot Nn 2X en bijbehorende toebehoren, en monoculaire handtelescopen.*    [Artikel 34 uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) ziet niet op producten die kunnen worden aangemerkt als massa-artikelen die doorgaans ook door niet-visueel gehandicapten worden gebruikt. Sprekende weegschalen vallen daarom niet onder de post.<sup></sup>Hulpmiddelen die zijn ontworpen en bestemd voor één specifieke visueel gehandicapte vallen ook niet onder de in dit artikel bedoelde hulpmiddelen.    
 ### 5.2  
 
 ####Speciale computerhulpmiddelen (onderdelen b, c, d en e)
@@ -1251,7 +1251,7 @@ Aan de post zijn per 1 januari 2007 leespennen en andere apparatuur met een ver
 ### *Goedkeuring* 
 
 Ik keur goed dat de verhuur van de in de post genoemde artikelen naar het verlaagde tarief wordt belast.     
-### Post  A 32  
+### Post A 32  
 
 ### 1  
 
@@ -1287,7 +1287,7 @@ Bij verwarming ter bevordering van het groeiproces gaat het om het verwarmen van
 
 – het forceren van rabarber en witlof;  
 
-– het in cellen in bloei trekken van trekheesters.   Bij het gebruik van petroleum voor verwarmingsdoeleinden ter bevordering van het groeiproces van tuinbouwproducten komt kooldioxide (CO <sub>2</sub>) vrij, die vaak wordt gebruikt om de groei van de tuinbouwproducten in gunstige zin te beïnvloeden. Als de petroleum uitsluitend voor het opwekken van kooldioxide wordt gebruikt, is de levering ervan belast naar het verlaagde btw-tarief.    
+– het in cellen in bloei trekken van trekheesters.   Bij het gebruik van petroleum voor verwarmingsdoeleinden ter bevordering van het groeiproces van tuinbouwproducten komt kooldioxide (CO<sub>2</sub>) vrij, die vaak wordt gebruikt om de groei van de tuinbouwproducten in gunstige zin te beïnvloeden. Als de petroleum uitsluitend voor het opwekken van kooldioxide wordt gebruikt, is de levering ervan belast naar het verlaagde btw-tarief.    
 ### 4  
 
 ####Ministeriële regeling
@@ -1296,7 +1296,7 @@ Bij verwarming ter bevordering van het groeiproces gaat het om het verwarmen van
 
 ####Algemeen
 
-In de artikelen 34a tot en met 34c van de uitvoeringsbeschikking zijn nadere regels gesteld. Er zijn twee regelingen te onderscheiden: 
+In de [artikelen 34a tot en met 34c van de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) zijn nadere regels gesteld. Er zijn twee regelingen te onderscheiden: 
 
 – bij de levering van gas door middel van pijpleidingen aan tuinbouwers mogen de leverancier en de netbeheerder onder bepaalde voorwaarden direct het verlaagde tarief toepassen;  
 
@@ -1309,12 +1309,12 @@ In de artikelen 34a tot en met 34c van de uitvoeringsbeschikking zijn nadere reg
 
 ####Algemeen
 
-De leverancier die gas door middel van pijpleidingen aan een tuinbouwer levert, mag op grond van artikel 34a van de uitvoeringsbeschikking voor die levering het verlaagde tarief toepassen. De leverancier moet een door de tuinbouwer ondertekende verklaring kunnen overleggen waaruit blijkt dat deze het gas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten. De leverancier moet bij de aanvang van het kalenderjaar per aansluiting over een verklaring beschikken. Als slechts een gedeelte van het gas niet wordt gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten maar bijvoorbeeld voor de verwarming van een kantine, kantoorruimte, handelsactiviteiten of nevenactiviteiten, moet dit in de verklaring worden vermeld. Dat gedeelte moet in een percentage van het totale verbruik worden uitgedrukt. Als door een onjuiste verklaring van een tuinbouwer te weinig belasting is voldaan, moet die belasting met toepassing van artikel 20, tweede lid, van de Algemene wet inzake rijksbelastingen van de tuinbouwer worden nageheven.    
+De leverancier die gas door middel van pijpleidingen aan een tuinbouwer levert, mag op grond van [artikel 34a van de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) voor die levering het verlaagde tarief toepassen. De leverancier moet een door de tuinbouwer ondertekende verklaring kunnen overleggen waaruit blijkt dat deze het gas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten. De leverancier moet bij de aanvang van het kalenderjaar per aansluiting over een verklaring beschikken. Als slechts een gedeelte van het gas niet wordt gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten maar bijvoorbeeld voor de verwarming van een kantine, kantoorruimte, handelsactiviteiten of nevenactiviteiten, moet dit in de verklaring worden vermeld. Dat gedeelte moet in een percentage van het totale verbruik worden uitgedrukt. Als door een onjuiste verklaring van een tuinbouwer te weinig belasting is voldaan, moet die belasting met toepassing van [artikel 20, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van de tuinbouwer worden nageheven.    
 ### 4.2.2  
 
 ####Warmte
 
-Ik keur goed dat deze regeling ook wordt toegepast bij de levering van warmte door middel van een ondergronds leidingennet voor verwarming ter bevordering van het groeiproces van tuinbouwproducten. Dit kan bijvoorbeeld stadsverwarming zijn. Alle regels en aanwijzingen die zijn opgenomen in artikel 34a van de uitvoeringsbeschikking en in onderdeel 4.2.1 en 4.2.3 zijn van overeenkomstige toepassing.    
+Ik keur goed dat deze regeling ook wordt toegepast bij de levering van warmte door middel van een ondergronds leidingennet voor verwarming ter bevordering van het groeiproces van tuinbouwproducten. Dit kan bijvoorbeeld stadsverwarming zijn. Alle regels en aanwijzingen die zijn opgenomen in [artikel 34a van de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) en in onderdeel 4.2.1 en 4.2.3 zijn van overeenkomstige toepassing.    
 ### 4.2.3  
 
 ####Procedure
@@ -1325,12 +1325,12 @@ Voor het indienen van de verklaring geldt de volgende procedure. De tuinder moet
 
 – naam en adres van de afnemer;  
 
-– naam en adres van de leverancier c.q. de netbeheerder.   Voorts verwerkt de tuinbouwer in de verklaring de overige gegevens die volgens artikel 34a van de uitvoeringsbeschikking zijn vereist. Volstaan kan worden met een eenmalige verklaring. Bij wijziging van de gegevens moet de tuinbouwer binnen zes weken na die wijziging een nieuwe verklaring aan de leverancier en de netbeheerder sturen. Als het aardgas niet langer wordt gebruikt voor tuinbouwdoeleinden trekt de tuinbouwer zijn verklaring binnen zes weken in.    
+– naam en adres van de leverancier c.q. de netbeheerder.   Voorts verwerkt de tuinbouwer in de verklaring de overige gegevens die volgens [artikel 34a van de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) zijn vereist. Volstaan kan worden met een eenmalige verklaring. Bij wijziging van de gegevens moet de tuinbouwer binnen zes weken na die wijziging een nieuwe verklaring aan de leverancier en de netbeheerder sturen. Als het aardgas niet langer wordt gebruikt voor tuinbouwdoeleinden trekt de tuinbouwer zijn verklaring binnen zes weken in.    
 ### 4.2.4  
 
 ####Privé-gebruik
 
-Soms wordt een deel van het geleverde gas door de tuinbouwer gebruikt voor privédoeleinden (bijvoorbeeld huishoudelijk gebruik) en is geen aparte gasmeter voor het woonhuis aanwezig. Het verlaagde tarief is niet van toepassing op het privé-gebruik. Voor de energiebelasting is in de Wet belastingen op milieugrondslag bepaald dat 5000 m <sup>3</sup> over een verbruiksperiode van twaalf maanden voor privé-gebruik in de heffing wordt betrokken als dat privé-gebruik niet afzonderlijk wordt gemeten. Voor de omzetbelasting wordt hierbij aangesloten. Bij verbruiksperioden korter dan twaalf opeenvolgende maanden wordt het privé-gebruik tijdsevenredig berekend over 5000 m <sup>3</sup> gas. In het tijdvak waarin de jaarlijkse afrekening wordt ontvangen moet afrekening voor dit privégebruik plaatsvinden.    
+Soms wordt een deel van het geleverde gas door de tuinbouwer gebruikt voor privédoeleinden (bijvoorbeeld huishoudelijk gebruik) en is geen aparte gasmeter voor het woonhuis aanwezig. Het verlaagde tarief is niet van toepassing op het privé-gebruik. Voor de energiebelasting is in de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bepaald dat 5000 m<sup>3</sup> over een verbruiksperiode van twaalf maanden voor privé-gebruik in de heffing wordt betrokken als dat privé-gebruik niet afzonderlijk wordt gemeten. Voor de omzetbelasting wordt hierbij aangesloten. Bij verbruiksperioden korter dan twaalf opeenvolgende maanden wordt het privé-gebruik tijdsevenredig berekend over 5000 m<sup>3</sup> gas. In het tijdvak waarin de jaarlijkse afrekening wordt ontvangen moet afrekening voor dit privégebruik plaatsvinden.    
 ### 4.2.5  
 
 ####Gas niet door middel van pijpleidingen geleverd
@@ -1382,7 +1382,7 @@ Het verlaagde tarief is van toepassing op de levering van minerale olie en/of bu
 
 ####Procedure
 
-Voor het aanvragen van de teruggaaf geldt de volgende procedure. Het aangifteformulier waarmee de aanvrager teruggaaf kan verzoeken bij de Belastingdienst kan worden gedownload van de internetsite van de Belastingdienst: www.belastingdienst.nl. Op het aangiftebiljet vermeldt de tuinbouwer de gegevens die op grond van artikel 34b van de uitvoeringsbeschikking zijn vereist. Ook moet op het aangifteformulier worden aangegeven waarvoor de minerale olie wordt gebruikt. Het verzoek om teruggaaf wordt ingediend bij het bevoegde kantoor van de Belastingdienst binnen drie maanden na afloop van elk kalenderkwartaal. Bij het verzoek moeten de aankoopfacturen van de olie en/of het bulk- of flessengas worden gevoegd.    
+Voor het aanvragen van de teruggaaf geldt de volgende procedure. Het aangifteformulier waarmee de aanvrager teruggaaf kan verzoeken bij de Belastingdienst kan worden gedownload van de internetsite van de Belastingdienst: www.belastingdienst.nl. Op het aangiftebiljet vermeldt de tuinbouwer de gegevens die op grond van [artikel 34b van de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) zijn vereist. Ook moet op het aangifteformulier worden aangegeven waarvoor de minerale olie wordt gebruikt. Het verzoek om teruggaaf wordt ingediend bij het bevoegde kantoor van de Belastingdienst binnen drie maanden na afloop van elk kalenderkwartaal. Bij het verzoek moeten de aankoopfacturen van de olie en/of het bulk- of flessengas worden gevoegd.    
 ### 4.3.3  
 
 ####Privé gebruik
@@ -1392,11 +1392,11 @@ Soms wordt een deel van de geleverde minerale olie en/of het bulk- en flessengas
 
 ####Opterende tuinbouwers
 
-De teruggaafregeling geldt alleen voor tuinbouwers die onder de landbouwregeling van artikel 27, eerste lid, van de wet vallen.       
-### Post  A 33  
+De teruggaafregeling geldt alleen voor tuinbouwers die onder de landbouwregeling van [artikel 27, eerste lid, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) vallen.       
+### Post A 33  
 
 (vervallen)    
-### Post  A 34  
+### Post A 34  
 
 ### 1  
 
@@ -1411,7 +1411,7 @@ De tekst van post a 34 luidt:  *‘invalidenwagentjes en invalidenkrukken; sta-o
 
 ####Algemeen
 
-Een invalidenwagentje is een vervoermiddel dat is ingericht om te worden gebruikt door een invalide of een minder valide. Onder de post vallen ook motorvoertuigen die zijn ingericht om te worden gebruikt door een invalide. Hiervan is sprake als het desbetreffende voertuig in het maatschappelijk verkeer op basis van bestemming en presentatie als invalidenvoertuig wordt beschouwd. Zo vallen bijvoorbeeld voertuigen die worden aangedreven door een elektromotor of een verbrandingsmotor met een cilinderinhoud van ten hoogste 250 cm <sup>3</sup> onder de post. Scootmobiels worden doorgaans aangeschaft in het kader van de Wet maatschappelijke ondersteuning. Een scootmobiel die wordt aangemerkt als een invalidenvoertuig in de zin van de Wegenverkeerswet is een invalidenwagentje in de zin van de post. Een specifiek voor een invalide aangepaste personenauto valt niet onder de post.    
+Een invalidenwagentje is een vervoermiddel dat is ingericht om te worden gebruikt door een invalide of een minder valide. Onder de post vallen ook motorvoertuigen die zijn ingericht om te worden gebruikt door een invalide. Hiervan is sprake als het desbetreffende voertuig in het maatschappelijk verkeer op basis van bestemming en presentatie als invalidenvoertuig wordt beschouwd. Zo vallen bijvoorbeeld voertuigen die worden aangedreven door een elektromotor of een verbrandingsmotor met een cilinderinhoud van ten hoogste 250 cm<sup>3</sup> onder de post. Scootmobiels worden doorgaans aangeschaft in het kader van de [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md). Een scootmobiel die wordt aangemerkt als een invalidenvoertuig in de zin van de [Wegenverkeerswet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is een invalidenwagentje in de zin van de post. Een specifiek voor een invalide aangepaste personenauto valt niet onder de post.    
 ### 2.2  
 
 ####Onderdelen en toebehoren van invalidenwagentjes
@@ -1466,7 +1466,7 @@ Sta-opstoelen worden gebruikt door personen die door functiestoornissen niet (me
 
 ####Hooglaagbedden
 
-Hooglaagbedden zijn bedden die zijn voorzien van een transfersysteem (waarmee het liggedeelte in zijn geheel omhoog en omlaag kan worden gebracht) of een keermechanisme (waarmee de patiënt van de rug op de zijde of de buik wordt gedraaid). Het transfersysteem of het keermechanisme wordt aangedreven door een aan het bed aangebrachte motor. Het gaat om bedden die pas worden verstrekt nadat de medische indicatie is aangetoond. De bedden moeten speciaal zijn bedoeld om te worden gebruikt in ziekenhuizen en verpleeginrichtingen of, al dan niet verstrekt via een thuiszorginstelling, door een gehandicapte of zieke thuis. Het verlaagde tarief geldt voor de levering van het hooglaagbed. Als gelijktijdig met de levering van het hooglaagbed accessoires worden meegeleverd die specifiek voor het hooglaagbed zijn vervaardigd en bestemd delen deze accessoires (zoals een bedgalg, afneembare zijhekken, het hoofd- en voeteneinde en de eventuele tentopbouw) in het verlaagde tarief. Accessoires die niet gelijktijdig met het hooglaagbed worden geleverd zijn echter belast naar het algemene tarief . <sup> 1  Hof Den Bosch, 23 december 2010, nr. 2010/231.  </sup>    
+Hooglaagbedden zijn bedden die zijn voorzien van een transfersysteem (waarmee het liggedeelte in zijn geheel omhoog en omlaag kan worden gebracht) of een keermechanisme (waarmee de patiënt van de rug op de zijde of de buik wordt gedraaid). Het transfersysteem of het keermechanisme wordt aangedreven door een aan het bed aangebrachte motor. Het gaat om bedden die pas worden verstrekt nadat de medische indicatie is aangetoond. De bedden moeten speciaal zijn bedoeld om te worden gebruikt in ziekenhuizen en verpleeginrichtingen of, al dan niet verstrekt via een thuiszorginstelling, door een gehandicapte of zieke thuis. Het verlaagde tarief geldt voor de levering van het hooglaagbed. Als gelijktijdig met de levering van het hooglaagbed accessoires worden meegeleverd die specifiek voor het hooglaagbed zijn vervaardigd en bestemd delen deze accessoires (zoals een bedgalg, afneembare zijhekken, het hoofd- en voeteneinde en de eventuele tentopbouw) in het verlaagde tarief. Accessoires die niet gelijktijdig met het hooglaagbed worden geleverd zijn echter belast naar het algemene tarief<sup> 1 Hof Den Bosch, 23 december 2010, nr. 2010/231. </sup>.    
 ### 7  
 
 ####Passingen
@@ -1479,7 +1479,7 @@ Aan de in de post opgenomen hulpmiddelen kunnen passingen worden verricht. Met h
 ### *Goedkeuring* 
 
 Ik keur goed dat de verhuur van de onder de post vallende producten wordt belast naar het verlaagde tarief.     
-### Post  A 35  
+### Post A 35  
 
 ### 1  
 
@@ -1490,7 +1490,7 @@ De tekst van post a 35 luidt:  *‘kunstledematen, te weten: arm-, hand-, been- 
 
 ####Algemeen
 
-Het geven van adviezen door een prothesemaker valt buiten het toepassingsbereik van de post. Sinds 1 januari 2002 geldt voor de toepassing van het verlaagde tarief voor de levering van hulpmiddelen (andere dan gehoorapparaten) die speciaal zijn ontworpen dan wel bestemd voor het exclusieve en persoonlijke gebruik door doven en slechthorenden dat zij moeten zijn aangewezen bij ministeriële regeling (artikel 35 uitvoeringsbeschikking). Losse (onder)delen en toebehoren van de in de post vermelde goederen vallen alleen dan onder de post, als zij speciaal voor die goederen zijn vervaardigd en bestemd en nodig zijn voor de goede werking van die goederen.    
+Het geven van adviezen door een prothesemaker valt buiten het toepassingsbereik van de post. Sinds 1 januari 2002 geldt voor de toepassing van het verlaagde tarief voor de levering van hulpmiddelen (andere dan gehoorapparaten) die speciaal zijn ontworpen dan wel bestemd voor het exclusieve en persoonlijke gebruik door doven en slechthorenden dat zij moeten zijn aangewezen bij ministeriële regeling ([artikel 35 uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)). Losse (onder)delen en toebehoren van de in de post vermelde goederen vallen alleen dan onder de post, als zij speciaal voor die goederen zijn vervaardigd en bestemd en nodig zijn voor de goede werking van die goederen.    
 ### 3  
 
 ####Hulpmiddelen die speciaal zijn ontworpen voor het overnemen van de fixatiefunctie van een niet of slecht functionerende hand
@@ -1535,7 +1535,7 @@ Weefseltransplantaten van dierlijke oorsprong worden gebruikt als alternatief vo
 
 ####Tandheelkundige producten
 
-De levering door tandartsen en tandtechnici van (volledige) tandprothesen is vrijgesteld op grond van artikel 11, eerste lid, onderdeel g, 1°, b, van de wet. De invoer en de intracommunautaire verwerving van tandprothesen zijn belast naar het algemene tarief. De post is van toepassing op tandheelkundige implantaten die niet als volledige tandprothesen zijn aan te merken. Hierna volgen enige voorbeelden: 
+De levering door tandartsen en tandtechnici van (volledige) tandprothesen is vrijgesteld op grond van [artikel 11, eerste lid, onderdeel g, 1°, b, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). De invoer en de intracommunautaire verwerving van tandprothesen zijn belast naar het algemene tarief. De post is van toepassing op tandheelkundige implantaten die niet als volledige tandprothesen zijn aan te merken. Hierna volgen enige voorbeelden: 
 
 – kunstwortels die in de menselijke kaak worden geïmplanteerd en die de functie van de wortel van een tand of kies overnemen. Als de kunstwortel en de verankeringkraag één geheel vormen (zogenoemd 1-fase-implantaat), valt dit geheel onder de post. Genezing- en afdekschroeven die noodzakelijk zijn voor het adequaat laten vastgroeien van de kunstwortel kunnen ook onder de post worden gerangschikt;  
 
@@ -1610,7 +1610,7 @@ Onder de in de post bedoelde (onder)delen en toebehoren kunnen worden gerangschi
 
 ####Algemeen
 
-Sinds 1 januari 2002 is in de tabelpost een delegatiebepaling opgenomen voor andere apparatuur dan gehoorapparaten. Bij ministeriële regeling kunnen hulpmiddelen die speciaal zijn ontworpen of bestemd voor het exclusieve en persoonlijke gebruik door doven en slechthorenden onder de werking van de post worden gebracht. Ter uitvoering hiervan is artikel 35 in de uitvoeringsbeschikking opgenomen. Deze bepaling luidt:  *‘Als hulpmiddel dat speciaal is ontworpen dan wel bestemd voor het exclusieve en persoonlijke gebruik door doven en slechthorenden als bedoeld in de bij de wet behorende tabel I, onderdeel a, post 35, worden aangewezen:*  
+Sinds 1 januari 2002 is in de tabelpost een delegatiebepaling opgenomen voor andere apparatuur dan gehoorapparaten. Bij ministeriële regeling kunnen hulpmiddelen die speciaal zijn ontworpen of bestemd voor het exclusieve en persoonlijke gebruik door doven en slechthorenden onder de werking van de post worden gebracht. Ter uitvoering hiervan is [artikel 35 in de uitvoeringsbeschikking](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) opgenomen. Deze bepaling luidt:  *‘Als hulpmiddel dat speciaal is ontworpen dan wel bestemd voor het exclusieve en persoonlijke gebruik door doven en slechthorenden als bedoeld in de bij de wet behorende tabel I, onderdeel a, post 35, worden aangewezen:*  
 
 a.  *wek- en waarschuwingsapparatuur die er specifiek op is gericht om ten behoeve van auditief gehandicapten geluidssignalen om te zetten in zichtbare of voelbare signalen;*   
 
@@ -1702,7 +1702,7 @@ Ik keur goed dat ADL-honden, signaalhonden en seizurehonden onder post a 35 word
 ####Verhuur
 
 De verhuur van de onder de post vallende producten valt onder de post.     
-### Post  A 36  
+### Post A 36  
 
 ### 1  
 
@@ -1744,7 +1744,7 @@ De hulpmiddelen voor de zelfdiagnose van het bloedsuikergehalte zijn onder meer 
 ### *Goedkeuring* 
 
 Ik keur goed dat de verhuur van de onder de post vallende producten wordt belast naar het verlaagde tarief.     
-### Post  A 37  
+### Post A 37  
 
 ### 1  
 
@@ -1856,10 +1856,10 @@ Het gaat om computerprogramma’s voor mensen die lijden aan Essentiële tremor,
 ### *Goedkeuring* 
 
 Ik keur goed dat de verhuur van de onder de post vallende producten wordt belast naar het verlaagde tarief.     
-### Posten  A 38 EN 39  
+### Posten A 38 EN 39  
 
 (vervallen)    
-### Post  A 40  
+### Post A 40  
 
 ### 1  
 
@@ -1876,7 +1876,7 @@ Beetwortelen zijn suikerbieten. Alleen de verse voortbrengselen zoals die door d
 ####Beetwortelplanten
 
 Beetwortelplanten vallen in principe niet onder de post. Goedkeuring Ik keur goed dat beetwortelplanten die (nagenoeg) uitsluitend door landbouwers in het kader van de teelt van beetwortelen worden gebruikt onder de post vallen.     
-### Post  A 41  
+### Post A 41  
 
 ### 1  
 
@@ -1920,11 +1920,11 @@ Onder de post vallen:
 
 ####Kwekersrecht
 
-Aan kwekers die een nieuw ras van een tot het plantenrijk behorend gewas hebben gekweekt, ontdekt of ontwikkeld kan op grond van de Zaaizaad- en plantgoedwet 2005 een kwekersrecht worden verleend. Licentiehouders, dit zijn degenen die toestemming hebben gekregen om van het nieuwe ras teeltmateriaal voort te brengen, betalen aan de houder van het kwekersrecht hiervoor een vergoeding. Het komt ook voor dat zogenoemde vermeerderaars het voortkwekingsmateriaal leveren aan de licentiehouders. Deze vermeerderaars hebben daartoe contracten gesloten met de houders van de kwekersrechten. De licentiehouders worden naast de prijs voor het voortkwekingsmateriaal een licentievergoeding verschuldigd die zij rechtstreeks aan de houders van de kwekersrechten moeten voldoen. Het verlenen van een licentie op een kwekersrecht door de houder van het kwekersrecht wordt aangemerkt als de levering van zaaizaad of plantgoed waarop het recht betrekking heeft. Dit betekent dat de houder van een kwekersrecht op de licentievergoedingen het verlaagde tarief kan toepassen.     
-### Post  A 42  
+Aan kwekers die een nieuw ras van een tot het plantenrijk behorend gewas hebben gekweekt, ontdekt of ontwikkeld kan op grond van de [Zaaizaad- en plantgoedwet 2005](../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) een kwekersrecht worden verleend. Licentiehouders, dit zijn degenen die toestemming hebben gekregen om van het nieuwe ras teeltmateriaal voort te brengen, betalen aan de houder van het kwekersrecht hiervoor een vergoeding. Het komt ook voor dat zogenoemde vermeerderaars het voortkwekingsmateriaal leveren aan de licentiehouders. Deze vermeerderaars hebben daartoe contracten gesloten met de houders van de kwekersrechten. De licentiehouders worden naast de prijs voor het voortkwekingsmateriaal een licentievergoeding verschuldigd die zij rechtstreeks aan de houders van de kwekersrechten moeten voldoen. Het verlenen van een licentie op een kwekersrecht door de houder van het kwekersrecht wordt aangemerkt als de levering van zaaizaad of plantgoed waarop het recht betrekking heeft. Dit betekent dat de houder van een kwekersrecht op de licentievergoedingen het verlaagde tarief kan toepassen.     
+### Post A 42  
 
 (vervallen)    
-### Post  A 43  
+### Post A 43  
 
 ### 1  
 
@@ -1963,7 +1963,7 @@ Voorbeelden van goederen die onder de post vallen:
 ####Impregneren
 
 De ondernemer die door zijn opdrachtgever verstrekt hout impregneert verricht een dienst, die is onderworpen aan het algemene tarief.     
-### Post  A 44  
+### Post A 44  
 
 ### 1  
 
@@ -1987,17 +1987,17 @@ Erwten- en bonenstro vallen onder de post. Niet als stro kunnen worden aangemerk
 
 ####Algemeen
 
-Veevoeders zijn de voor vee bestemde voedermiddelen en mengvoeders zoals gedefinieerd in de Kaderwet diervoeders. Niet alle voedermiddelen genoemd in de Kaderwet diervoerders vallen onder het begrip veevoeders, omdat deze wet ook betrekking heeft op voeders aan andere dieren dan aan vee (bijvoorbeeld aan huisdieren).    
+Veevoeders zijn de voor vee bestemde voedermiddelen en mengvoeders zoals gedefinieerd in de [Kaderwet diervoeders](../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md). Niet alle voedermiddelen genoemd in de Kaderwet diervoerders vallen onder het begrip veevoeders, omdat deze wet ook betrekking heeft op voeders aan andere dieren dan aan vee (bijvoorbeeld aan huisdieren).    
 ### 3.2  
 
 ####Voedermiddelen
 
-De Kaderwet diervoeders verstaat onder voedermiddelen: ‘diervoeders die zijn bestemd om te worden gebruikt als vervoedering, hetzij als zodanig, hetzij na be- of verwerking, voor de bereiding van mengvoeders voor dieren of als dragers in voormengsels’. Onder diervoeders wordt verstaan: ‘producten van plantaardige of dierlijke oorsprong in natuurlijke staat, vers of verduurzaamd, afgeleide producten van de industriële verwerking van deze producten, alsmede organische of anorganische stoffen, al dan niet gemengd, met of zonder toevoegingsmiddelen en bestemd voor dierlijke voeding langs orale weg’. In de Kaderwet diervoeders, het Besluit diervoeders en de Regeling diervoeders zijn onder meer regels gesteld voor de etikettering van voedermiddelen. De ondernemer is verplicht bij het in het verkeer brengen van voedermiddelen onder meer de benaming en het woord ‘voedermiddel’ op de verpakking of recipiënt of op een begeleidend document te vermelden. De aanduidingen moeten goed zichtbaar, duidelijk leesbaar en onuitwisbaar zijn. Deel B van de bijlage bij de Richtlijn 96/25/EG van de Raad van de Europese Unie bevat een niet-limitatieve lijst van de belangrijkste in de EU gebruikte voedermiddelen. Voedermiddelen die in deze lijst zijn opgenomen mogen uitsluitend onder de in die lijst gegeven benaming in het verkeer worden gebracht.    
+De [Kaderwet diervoeders](../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) verstaat onder voedermiddelen: ‘diervoeders die zijn bestemd om te worden gebruikt als vervoedering, hetzij als zodanig, hetzij na be- of verwerking, voor de bereiding van mengvoeders voor dieren of als dragers in voormengsels’. Onder diervoeders wordt verstaan: ‘producten van plantaardige of dierlijke oorsprong in natuurlijke staat, vers of verduurzaamd, afgeleide producten van de industriële verwerking van deze producten, alsmede organische of anorganische stoffen, al dan niet gemengd, met of zonder toevoegingsmiddelen en bestemd voor dierlijke voeding langs orale weg’. In de [Kaderwet diervoeders](../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), het [Besluit diervoeders](../../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md) en de [Regeling diervoeders](../../../../../../ministeriele-regeling/regeling/diervoeders/BWBR0017259/README.md) zijn onder meer regels gesteld voor de etikettering van voedermiddelen. De ondernemer is verplicht bij het in het verkeer brengen van voedermiddelen onder meer de benaming en het woord ‘voedermiddel’ op de verpakking of recipiënt of op een begeleidend document te vermelden. De aanduidingen moeten goed zichtbaar, duidelijk leesbaar en onuitwisbaar zijn. Deel B van de bijlage bij de Richtlijn 96/25/EG van de Raad van de Europese Unie bevat een niet-limitatieve lijst van de belangrijkste in de EU gebruikte voedermiddelen. Voedermiddelen die in deze lijst zijn opgenomen mogen uitsluitend onder de in die lijst gegeven benaming in het verkeer worden gebracht.    
 ### 3.3  
 
 ####Mengvoeders
 
-De Kaderwet diervoeders verstaat onder mengvoeders: mengsels van voedermiddelen. Mengvoeders worden onderverdeeld in: 
+De [Kaderwet diervoeders](../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) verstaat onder mengvoeders: mengsels van voedermiddelen. Mengvoeders worden onderverdeeld in: 
 
 – volledige diervoeders,  
 
@@ -2007,7 +2007,7 @@ De Kaderwet diervoeders verstaat onder mengvoeders: mengsels van voedermiddelen.
 
 – melassevoeders en  
 
-– kunstmelkvoeders.   In de Kaderwet diervoeders, het Besluit diervoeders en de Regeling diervoeders zijn onder meer regels gesteld voor de etikettering van mengvoeders. De ondernemer is verplicht bij het in het verkeer brengen van mengvoeders onder meer de volgende informatie op de verpakking, de recipiënt, een daaraan bevestigd etiket of een begeleidend document te vermelden: 
+– kunstmelkvoeders.   In de [Kaderwet diervoeders](../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), het [Besluit diervoeders](../../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md) en de [Regeling diervoeders](../../../../../../ministeriele-regeling/regeling/diervoeders/BWBR0017259/README.md) zijn onder meer regels gesteld voor de etikettering van mengvoeders. De ondernemer is verplicht bij het in het verkeer brengen van mengvoeders onder meer de volgende informatie op de verpakking, de recipiënt, een daaraan bevestigd etiket of een begeleidend document te vermelden: 
 
 – de benaming volledig diervoeder, aanvullend diervoeder, mineralenmengsel, melassevoeder, volledig kunstmelkvoeder, aanvullend kunstmelkvoeder of volledig dieetvoeder al naar gelang de aard van het mengvoeder;  
 
@@ -2018,7 +2018,7 @@ De Kaderwet diervoeders verstaat onder mengvoeders: mengsels van voedermiddelen.
 
 ####Toevoegingsmiddelen, voormengsels en vervangende voederproteïnen
 
-De in de Kaderwet diervoeders genoemde toevoegingsmiddelen, voormengsels en vervangende voederproteïnen vallen niet onder de post, omdat deze producten in de Kaderwet niet als voedermiddel of mengvoeder zijn aangemerkt. De definities van deze producten luiden als volgt. ‘Toevoegingsmiddelen: stoffen of preparaten die in diervoeding worden gebruikt: 
+De in de [Kaderwet diervoeders](../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) genoemde toevoegingsmiddelen, voormengsels en vervangende voederproteïnen vallen niet onder de post, omdat deze producten in de Kaderwet niet als voedermiddel of mengvoeder zijn aangemerkt. De definities van deze producten luiden als volgt. ‘Toevoegingsmiddelen: stoffen of preparaten die in diervoeding worden gebruikt: 
 
 1. teneinde; 
 
@@ -2032,7 +2032,7 @@ De in de Kaderwet diervoeders genoemde toevoegingsmiddelen, voormengsels en verv
 
 2. niet zijnde: 
 
-– diergeneesmiddelen als bedoeld in artikel 1, eerste lid, van de Diergeneesmiddelenwet;  
+– diergeneesmiddelen als bedoeld in [artikel 1, eerste lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);  
 
 – een technisch hulpmiddel dat als stof in de verwerking van voedermiddelen of van diervoeders wordt gebruikt om tijdens de behandeling of verwerking aan een bepaalde technologische doelstelling te beantwoorden en die kan leiden tot de onbedoelde maar technisch onvermijdelijke aanwezigheid van residuen van deze stof of derivaten ervan in het eindproduct op de voorwaarde dat deze residuen geen gevaar voor de gezondheid opleveren en geen technologische effecten op het eindproduct hebben, en  
 
@@ -2070,7 +2070,7 @@ Voorbeelden van goederen die onder de post vallen:
 – visvoer;  
 
 – kuilvoerbewaarmiddelen en inkuilmiddelen.   Melasse en vinasse zijn als kuilvoerbewaar- en inkuilmiddel (algemeen tarief) te gebruiken, maar ook als voedermiddel en mengvoeder voor vee (verlaagd tarief). De specifieke aanwending van deze producten blijkt uit de presentatie op de verpakking of de vermelding in het begeleidend document. Alleen als een van de aanduidingen als bedoeld in onderdeel 3.2 of onderdeel 3.3 op de verpakking of in het begeleidend document is vermeld, valt het product onder het verlaagde tarief.      
-### Post  A 45  
+### Post A 45  
 
 ### 1  
 
@@ -2096,7 +2096,7 @@ Onder de post valt vlas, zowel ruw als in de verschillende bewerkingsstadia tot 
 – scheven (of lemen), dat zijn de houtachtige deeltjes die tijdens het productieproces worden afgescheiden;  
 
 – bepaald plantaardig vezelmateriaal dat niet als vlas in de zin van deze post is aan te merken maar dat soms wel vlas genoemd wordt, bijvoorbeeld Indisch vlas (Abroma augusta) en Nieuw-Zeelandse vlas of Nieuw-Zeelandse hennep (Phormium tenax).       
-### Post  A 46  
+### Post A 46  
 
 ### 1  
 
@@ -2108,10 +2108,10 @@ De tekst van post a 46 luidt:  *‘wol, ruw en ongewassen;’*
 ####Wol
 
 Wol, ruw en ongewassen, is de textielgrondstof die wordt verkregen van de vacht van schapen en lammeren.     
-### Post  A 47  
+### Post A 47  
 
 (vervallen)    
-### Post  A 48  
+### Post A 48  
 
 ### 1  
 
@@ -2180,7 +2180,7 @@ Onder boomkwekerijproducten in de zin van de post worden begrepen:
 
 ####Algemeen
 
-In de praktijk blijkt de tarieftoepassing op samengestelde bloemstukken, bloemwerken en dergelijke voor ondernemers/kleinhandelaren problemen op te leveren. Uit praktische overwegingen kan ik mij ermee verenigen dat ondernemers/kleinhandelaren de verschuldigde belasting over zelf samengestelde bloemstukken, bloemwerken en dergelijke berekenen volgens de berekeningsmethode van artikel 16 van het uitvoeringsbesluit, ook als zij over de andere producten die zij verkopen artikel 16 niet toepassen. Zij laten daarbij artikel 17 van het uitvoeringsbesluit buiten beschouwing. Het maakt niet uit of de ondernemers/kleinhandelaren het kasstelsel of het factuurstelsel hanteren. Daar waar de bloemisten dit wensen, kan vanzelfsprekend van dit uitgangspunt worden afgeweken en mag een andere aanvaardbare methode worden toegepast om de verschuldigde omzetbelasting over de samengestelde bloemstukken te berekenen mits de berekening van de verschuldigde omzetbelasting uit de administratie blijkt. Als de prijssamenstelling van de bloemstukken voor of op het moment van de verkoop wel administratief is vastgelegd en op basis van die prijssamenstelling wel een splitsing kan worden gemaakt in 6% en 19%, kan de forfaitaire berekeningsmethode niet worden toegepast. Als de hiervoor bedoelde ondernemers/kleinhandelaren een factuur uitreiken, kan worden volstaan met het vermelden van een btw-bedrag van 6/106 van het factuurbedrag. De vermelding van dit btw-bedrag heeft geen gevolgen voor de berekening van de verschuldigde belasting.    
+In de praktijk blijkt de tarieftoepassing op samengestelde bloemstukken, bloemwerken en dergelijke voor ondernemers/kleinhandelaren problemen op te leveren. Uit praktische overwegingen kan ik mij ermee verenigen dat ondernemers/kleinhandelaren de verschuldigde belasting over zelf samengestelde bloemstukken, bloemwerken en dergelijke berekenen volgens de berekeningsmethode van [artikel 16 van het uitvoeringsbesluit](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), ook als zij over de andere producten die zij verkopen artikel 16 niet toepassen. Zij laten daarbij [artikel 17 van het uitvoeringsbesluit](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) buiten beschouwing. Het maakt niet uit of de ondernemers/kleinhandelaren het kasstelsel of het factuurstelsel hanteren. Daar waar de bloemisten dit wensen, kan vanzelfsprekend van dit uitgangspunt worden afgeweken en mag een andere aanvaardbare methode worden toegepast om de verschuldigde omzetbelasting over de samengestelde bloemstukken te berekenen mits de berekening van de verschuldigde omzetbelasting uit de administratie blijkt. Als de prijssamenstelling van de bloemstukken voor of op het moment van de verkoop wel administratief is vastgelegd en op basis van die prijssamenstelling wel een splitsing kan worden gemaakt in 6% en 19%, kan de forfaitaire berekeningsmethode niet worden toegepast. Als de hiervoor bedoelde ondernemers/kleinhandelaren een factuur uitreiken, kan worden volstaan met het vermelden van een btw-bedrag van 6/106 van het factuurbedrag. De vermelding van dit btw-bedrag heeft geen gevolgen voor de berekening van de verschuldigde belasting.    
 ### 6.2  
 
 ####Door groothandelaren (veilingen) geleverde bloemstukken e.d.
@@ -2204,7 +2204,7 @@ Bomen of planten die zijn bestemd voor de uitpoot van groenten en fruit, vallen 
 ####Kwekersrecht enthout
 
 De goedkeuring van onderdeel 4 van post a 41 kan worden toegepast bij de licentievergoeding die wordt betaald aan de houder van een kwekersrecht op enthout.     
-### Post  B 1  
+### Post B 1  
 
 ### 1  
 
@@ -2216,7 +2216,7 @@ De tekst van post b 1 luidt:  *‘het herstellen van de in de posten a 31 en a 3
 ####Begrip ‘herstellen’
 
 Herstellen moet worden uitgelegd naar spraakgebruik. Onder herstellen mag ook worden begrepen het ‘preventieve’ onderhoud. Dit zijn werkzaamheden die noodzakelijk zijn of worden geacht om de goederen gebruiksklaar te maken of te houden (opknappen van goederen daaronder begrepen).     
-### Post  B 2  
+### Post B 2  
 
 ### 1  
 
@@ -2233,7 +2233,7 @@ In de toelichting bij post a 30 is aangegeven wat moet worden verstaan onder boe
 ####Bibliotheken
 
 In bibliotheken worden behalve boeken en dergelijke ook cd’s, dvd’s en dergelijke gegevensdragers verhuurd. De jaarlijkse bijdragen van de leden zijn in die gevallen voor een deel naar het verlaagde en voor een deel naar het algemene tarief belast. De verdeelsleutel wordt gevonden door het aantal uitleenbewegingen van beide categorieën goederen vast te stellen.     
-### Post  B 3  
+### Post B 3  
 
 ### 1  
 
@@ -2253,7 +2253,7 @@ De post gaat over het verlenen van het recht gebruik te maken van een sportaccom
 
 ####Sportaccommodatie
 
-Een sportaccommodatie in de zin van de post is een onroerende zaak die is ingericht voor de actieve sportbeoefening door de mens. Voorbeelden zijn: een ijs-, ski-, kart- en golfbaan, een manege, een sporthal, een atletiekbaan en een fitnesscentrum. Daarbij dienen ook attributen en aanvullende voorzieningen (kleed- en/of doucheruimten en sanitaire voorzieningen) ter beschikking te worden gesteld door of vanwege de exploitant aan de sporter(s). Ook openbare ruimtes zoals wegen, bossen en een vliegveld bestemd voor een zweefvliegvereniging en dergelijke kunnen een sportaccommodatie vormen als deze ruimtes voor de duur van de sportbeoefening zijn gereserveerd voor sportbeoefening. Dat kan bijvoorbeeld het geval zijn bij een marathon, een wandeltocht, een wielerwedstrijd of een skeelertocht. Van belang daarbij is dat het parkoers is gereserveerd voor de sportbeoefenaars die van de organisatie het recht krijgen gebruik te maken van de gereserveerde ruimte. Wanneer openbare ruimtes zoals bijvoorbeeld een ruiterpad of een zwemwater niet specifiek zijn gereserveerd door de ondernemer die gelegenheid geeft tot sportbeoefening zijn deze ruimtes niet aan te merken als een sportaccommodatie in de zin van de post. Wanneer de sportbeoefening echter incidenteel buiten de sportaccommodatie plaatsvindt keur ik uit praktische overwegingen het volgende goed. 
+Een sportaccommodatie in de zin van de post is een onroerende zaak die is ingericht voor de actieve sportbeoefening door de mens. Voorbeelden zijn: een ijs-, ski-, kart- en golfbaan, een manege, een sporthal, een atletiekbaan en een fitnesscentrum. Ook openbare ruimtes zoals wegen, bossen en een vliegveld bestemd voor een zweefvliegvereniging en dergelijke kunnen een sportaccommodatie vormen als deze ruimtes voor de duur van de sportbeoefening zijn gereserveerd voor sportbeoefening. Dat kan bijvoorbeeld het geval zijn bij een marathon, een wandeltocht, een wielerwedstrijd of een skeelertocht. Van belang daarbij is dat het parkoers is gereserveerd voor de sportbeoefenaars die van de organisatie het recht krijgen gebruik te maken van de gereserveerde ruimte. Wanneer openbare ruimtes zoals bijvoorbeeld een ruiterpad of een zwemwater niet specifiek zijn gereserveerd door de ondernemer die gelegenheid geeft tot sportbeoefening zijn deze ruimtes niet aan te merken als een sportaccommodatie in de zin van de post. Wanneer de sportbeoefening echter incidenteel buiten de sportaccommodatie plaatsvindt keur ik uit praktische overwegingen het volgende goed. 
 ### *Goedkeuring* 
 
 Ik keur goed dat het verlaagde tarief toepassing vindt als de sportbeoefening onder begeleiding incidenteel buiten de sportaccommodatie plaatsvindt. Dat is bijvoorbeeld het geval als vanuit de manege waar doorgaans paardrijles wordt gegeven een buitenrit wordt gemaakt onder begeleiding van de instructeur. Of als in het kader van een duikcursus die voor het grootste deel in een zwembad wordt gegeven, een duikles in open water wordt georganiseerd. Verplaatsbare sportattributen zoals trampolines, klimwanden en zeilboten zijn niet onroerend en zijn niet aan te merken als een sportaccommodatie.    
@@ -2306,7 +2306,7 @@ Hiervan is sprake als is voldaan aan twee voorwaarden:
 – de sportaccommodatie wordt gerenoveerd.   
 ### *Een voorbeeld:* 
 
-Een sportvereniging is zelf eigenaar van sportvelden en bijbehorende accommodatie (bijv. kleedruimten/clubgebouw) en wil deze renoveren. Een sportvereniging heeft volgens de wet geen recht op aftrek van voorbelasting voor de renovatiekosten. De activiteiten van de sportvereniging aan de leden zijn namelijk vrijgesteld van btw. Om toch recht op aftrek te creëren worden de sportvelden en de accommodatie door de vereniging geleverd of verhuurd aan een door de vereniging opgerichte stichting die de renovatie voor haar rekening neemt. De stichting trekt de btw op de renovatiekosten af en stelt de sportvelden en de bijbehorende voorzieningen weer als geheel als sportaccommodatie tegen een vergoeding met berekening van btw ter beschikking aan de vereniging. De vergoeding is zodanig dat er in dit samenstel meer aftrek wordt gecreëerd dan volgens de wetgeving mogelijk zou zijn zonder deze constructie, waarbij de contractvoorwaarden niet beantwoorden aan normale marktvoorwaarden. In dat geval is sprake van een belastingvoordeel verkregen in strijd met het doel van de bepalingen van de BTW-richtlijn en de nationale wettelijke regeling tot omzetting van deze richtlijn. Deze situatie zal worden bestreden met het leerstuk misbruik van recht. In dit voorbeeld is een stichting een tussenschakel, maar deze situatie kan zich ook voordoen als bijvoorbeeld een gemeente deze rol vervult. 
+Een sportvereniging is zelf eigenaar van sportvelden en bijbehorende accommodatie (bijv. kleedruimten/clubgebouw) en wil deze renoveren. Een sportvereniging heeft volgens de [wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) geen recht op aftrek van voorbelasting voor de renovatiekosten. De activiteiten van de sportvereniging aan de leden zijn namelijk vrijgesteld van btw. Om toch recht op aftrek te creëren worden de sportvelden en de accommodatie door de vereniging geleverd of verhuurd aan een door de vereniging opgerichte stichting die de renovatie voor haar rekening neemt. De stichting trekt de btw op de renovatiekosten af en stelt de sportvelden en de bijbehorende voorzieningen weer als geheel als sportaccommodatie tegen een vergoeding met berekening van btw ter beschikking aan de vereniging. De vergoeding is zodanig dat er in dit samenstel meer aftrek wordt gecreëerd dan volgens de wetgeving mogelijk zou zijn zonder deze constructie, waarbij de contractvoorwaarden niet beantwoorden aan normale marktvoorwaarden. In dat geval is sprake van een belastingvoordeel verkregen in strijd met het doel van de bepalingen van de BTW-richtlijn en de nationale wettelijke regeling tot omzetting van deze richtlijn. Deze situatie zal worden bestreden met het leerstuk misbruik van recht. In dit voorbeeld is een stichting een tussenschakel, maar deze situatie kan zich ook voordoen als bijvoorbeeld een gemeente deze rol vervult. 
 ### *Symbolische vergoeding voor ter beschikkingstelling sportaccommodatie* 
 
 Als ondernemers zoals gemeenten slechts symbolische vergoedingen berekenen voor de terbeschikkingstelling van sportaccommodaties, vormt die terbeschikkingstelling geen belastbare handeling voor de btw-heffing en bestaat daarvoor ook geen recht op aftrek. De beoordeling of sprake is van een symbolische vergoeding, vergt een beoordeling van alle feiten en omstandigheden. In algemene zin zijn hiervoor geen grensbedragen aan te geven nu de prijsstelling afhankelijk is van de lokale situatie. De prijzen voor de terbeschikkingstelling van met name buitensportaccommodaties zijn historisch gegroeid en vaak ingegeven door de mate waarin een gemeente de sport binnen haar gemeente wenst te subsidiëren. De prijzen zijn daarmee veelal onafhankelijk van de kostprijs van de sportaccommodatie en vormen doorgaans geen kostendekkende vergoeding. De gangbare prijzen voor niet commercieel door gemeenten geëxploiteerde sportaccommodaties variëren op dit moment enorm per gemeente en per verschillende soort sportaccommodatie, zoals grasvoetbalvelden, kunstgrasvoetbalvelden, gymzalen en sportzalen. Voor de bepaling of sprake is van een symbolische vergoeding is van belang welke vergoeding voor soortgelijke in het maatschappelijke verkeer verrichte prestaties wordt bedongen (HR 11/2/2005). Dit is met name het geval als zou blijken dat deze vergoeding abnormaal laag is en niet beantwoordt aan enige economische realiteit. In het geval de prijs voor de ter beschikking gestelde accommodatie zo sterk neerwaarts afwijkt van hetgeen gemiddeld in die gemeente en/of in een andere soortgelijke gemeenten gebruikelijk is voor de terbeschikkingstelling van sportaccommodaties, is mogelijk sprake van een symbolische vergoeding. Als sprake is van een symbolische vergoeding ontbreekt het economisch karakter aan de terbeschikkingstelling van de sportaccommodatie. Voorbeeld: de laagste prijs voor de terbeschikkingstelling van een sportveld in gemeente X is € 4.902 per jaar. In die gemeente wordt besloten om een soortgelijk sportveld met een vergelijkbare kostprijs aan een vereniging ter beschikking te stellen (verhuren) voor een jaarlijks bedrag van € 100. De € 100 wordt aangemerkt als een symbolische prijs voor de terbeschikkingstelling. Als een dergelijke prijs wordt gehanteerd is er geen sprake van een belastbare economische activiteit en bestaat er geen recht op aftrek.    
@@ -2354,7 +2354,7 @@ Sport waarbij de mens samen met een dier actief de sport beoefent, is sport in z
 
 ####Overgangsregeling
 
-Instellingen die zich bezighouden met het geven van gelegenheid tot sportbeoefening en die al voor 1 januari 2002 gebruik maakten van de per die datum vervallen vrijstelling van artikel 11, eerste lid, onderdeel f, van de wet (vrijstelling voor niet winstbeogende instellingen die zich bezighouden met het geven van gelegenheid tot sportbeoefening), kunnen vrijgesteld blijven exploiteren tot het moment waarop zij zelf willen overgaan tot exploitatie in de belaste sfeer.     
+Instellingen die zich bezighouden met het geven van gelegenheid tot sportbeoefening en die al voor 1 januari 2002 gebruik maakten van de per die datum vervallen vrijstelling van [artikel 11, eerste lid, onderdeel f, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) (vrijstelling voor niet winstbeogende instellingen die zich bezighouden met het geven van gelegenheid tot sportbeoefening), kunnen vrijgesteld blijven exploiteren tot het moment waarop zij zelf willen overgaan tot exploitatie in de belaste sfeer.     
 ### 3  
 
 ####Het gelegenheid geven tot baden
@@ -2363,7 +2363,7 @@ Instellingen die zich bezighouden met het geven van gelegenheid tot sportbeoefen
 
 ####Algemeen
 
-De post geldt voor de diensten door exploitanten van bad- en zweminrichtingen. Tot 1 januari 1999 gold een vrijstelling voor bad- en zweminrichtingen die geen winst beoogden (artikel 11, eerste lid, onderdeel f, van de wet juncto bijlage B, post 11 uitvoeringsbesluit). Exploitanten die voor 1 januari 1999 gebruik maakten van de vrijstelling, kunnen de zwembaden e.d. vrijgesteld blijven exploiteren tot het moment dat zij zelf kiezen voor toepassing van het verlaagde tarief. Onder de post vallen bijvoorbeeld de diensten bestaande in het gelegenheid geven tot, het begeleiden bij of het toezicht houden op: 
+De post geldt voor de diensten door exploitanten van bad- en zweminrichtingen. Tot 1 januari 1999 gold een vrijstelling voor bad- en zweminrichtingen die geen winst beoogden ([artikel 11, eerste lid, onderdeel f, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) juncto [bijlage B, post 11 uitvoeringsbesluit](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)). Exploitanten die voor 1 januari 1999 gebruik maakten van de vrijstelling, kunnen de zwembaden e.d. vrijgesteld blijven exploiteren tot het moment dat zij zelf kiezen voor toepassing van het verlaagde tarief. Onder de post vallen bijvoorbeeld de diensten bestaande in het gelegenheid geven tot, het begeleiden bij of het toezicht houden op: 
 
 – zwangerschapszwemmen;  
 
@@ -2393,7 +2393,7 @@ Het beheren van een aan een ander in eigendom toebehorende bad- en zweminrichtin
 ####Bijkomende diensten
 
 De post geldt ook voor bijkomstig dienstbetoon, zoals bijvoorbeeld het ter beschikking stellen van een kluisje door de ondernemer die gelegenheid geeft tot sportbeoefening of baden.      
-### Post  B 4  
+### Post B 4  
 
 ### 1  
 
@@ -2415,7 +2415,7 @@ Onder het ‘herstellen’ van fietsen moet worden verstaan: het door fietsenmak
 ####Administratie
 
 De toepasselijkheid van het verlaagde tarief moet aan de hand van de administratie aannemelijk worden gemaakt. Dit kan bijvoorbeeld met de afschriften van doorlopend genummerde reparatiebonnen of rekeningen als het arbeidsloon en de onderdelen hierop zijn gespecificeerd.     
-### Post  B 5  
+### Post B 5  
 
 ### 1  
 
@@ -2437,7 +2437,7 @@ Het begrip lederwaren omvat uit leer vervaardigde kleine(re) gebruiksartikelen, 
 ####Herstellen
 
 Bij het herstellen van schoeisel en lederwaren gaat het bijvoorbeeld om het repareren van stiksel of scheuren, lijmen, verven, het (opnieuw) waterafstotend maken of het verzolen. Van herstelwerkzaamheden is geen sprake bij bijvoorbeeld het slijpen en het recht maken van schaatsen. Deze prestaties vallen niet onder de post. Als regel worden herstelwerkzaamheden aan schoeisel en lederwaren uitgevoerd door schoenmakers. Ook andere ondernemers die schoeisel en lederwaren repareren (bijvoorbeeld lederwarenwinkels) kunnen voor hun reparaties het verlaagde tarief toepassen. Als de reparatie in onderaanneming wordt verricht, is het verlaagde tarief zowel in de relatie hoofdaannemer-opdrachtgever als in de relatie hoofdaannemer-onderaannemer van toepassing. Artikelen die los worden verkocht door schoenmakers, lederwarenwinkels e.d., (zoals veters, schoenzolen en -hakken, schoencrème, sleutels, spuitbussen voor het waterafstotend maken van schoeisel) zijn aan het algemene tarief onderworpen.     
-### Post  B 6  
+### Post B 6  
 
 ### 1  
 
@@ -2454,7 +2454,7 @@ Onder huishoudlinnen wordt verstaan alle textielartikelen, die in het huishouden
 ####Herstellen en vermaken
 
 Zowel het herstellen als het vermaken van kleding valt onder het verlaagde tarief. Als herstelwerkzaamheden kunnen worden aangemerkt het dichtmaken van gaten en scheuren en het vervangen van knopen, ritssluitingen en voering. Van het vermaken van kleding is bijvoorbeeld sprake bij het langer of korter maken van mouwen, broekspijpen enz. en bij het innemen of uitleggen van broeken, rokken en dergelijke. Zowel het vermaken van gebruikte kleding als van nieuwe kleding valt onder het verlaagde tarief. Voorbeelden van diensten met betrekking tot kleding en huishoudlinnen die niet onder de post vallen zijn: het wassen, chemisch reinigen, stomen en persen van kleding en/of huishoudlinnen en het borduren/appliqueren van kleding en/of huishoudlinnen. Ook het in opdracht vervaardigen van kleding en/of huishoudlinnen, al dan niet onder het ter beschikking stellen van stoffen door de opdrachtgever, valt niet onder het verlaagde tarief.     
-### Post  B 7  
+### Post B 7  
 
 ### 1  
 
@@ -2466,7 +2466,7 @@ De tekst van post b 7 luidt:  *‘de diensten die door kappers als zodanig worde
 ####Diensten door kappers
 
 Diensten die door kappers als zodanig worden verricht zijn handelingen die een kapper gewoonlijk aan menselijk haar verricht zoals knippen, wassen, föhnen, verven, permanenten, scheren en het trimmen van baarden. De producten die kappers verbruiken bij het behandelen van het haar (zoals shampoo, haarverf, permanentvloeistof, crème en gel) delen in de toepassing van het verlaagde tarief. Goedkope haarversieringen die in een kapsel worden verwerkt en die niet afzonderlijk in rekening worden gebracht (zoals strikken, linten, kralen en veertjes), kunnen delen in het verlaagde tarief voor de diensten door kappers. Ook het aanbrengen van zgn. haarextensies (haarstrengen die in het eigen haar worden verwerkt) en het aanmeten en reviseren van pruiken en toupets zijn als diensten door kappers aan te merken en vallen onder het verlaagde tarief. Hierbij is alleen de door de kapper verrichte arbeid naar het verlaagde tarief belast; de levering van het materiaal (de haarextensie, pruik of toupet) is aan het algemene tarief onderworpen. Haarverzorgingsproducten (zoals shampoo, haarverf, permanentvloeistof e.d.) die door kappers ‘los’ worden verkocht, zijn onderworpen aan het algemene tarief. Hetzelfde geldt voor losse gebruiksartikelen die door kappers worden verkocht (bijv. oorbellen, haarspeldjes e.d.). De diensten die niet eigen zijn aan c.q. kenmerkend zijn voor het kappersbedrijf zoals schoonheidsbehandelingen en lichaamsverzorging zijn aan het algemene tarief onderworpen. Het gaat hier bijvoorbeeld om het aanbrengen van make-up (bruidsmake-up e.d.), het uitbrengen van kleur- en make-upadviezen, het manicuren en pedicuren, het gelegenheid geven tot het gebruik van de zonnebank en dergelijke. Ook het verzorgen van haar van (huis)dieren (zoals het trimmen van honden) valt buiten het begrip ‘diensten die door kappers als zodanig worden verricht’.     
-### Post  B 8  
+### Post B 8  
 
 ### 1  
 
@@ -2616,7 +2616,7 @@ Als schilder-, stukadoors- of behangwerkzaamheden in onderaanneming worden verri
 ####In aannemingsprojecten opgenomen schilder- /stukadoorswerk
 
 Als schilder-, stukadoors- of behangwerkzaamheden deel uitmaken van een bepaald aannemingswerk, mogen die werkzaamheden voor de tarieftoepassing worden afgesplitst. Voorwaarde is dat de werkzaamheden op de door de aannemer uitgereikte offerte en factuur wordt afgesplitst van het overige werk.     
-### Post  B 9  
+### Post B 9  
 
 ### 1  
 
@@ -2625,15 +2625,15 @@ Als schilder-, stukadoors- of behangwerkzaamheden deel uitmaken van een bepaald 
 De tekst van post b 9 luidt:  *‘het vervoer van personen per schip, het vervoer van personen, bedoeld in artikel 1, onderdelen h, i en j, van de Wet personenvervoer 2000, het vervoer met auto’s voor de uitvoering van trouwerijen, begrafenissen en crematies daaronder begrepen, taxivervoer van personen over de weg anders dan per auto, en het vervoer van personen met luchtvaartuigen indien de plaats van vertrek en de plaats van bestemming in Nederland zijn gelegen voor zover dat vervoer geschiedt met ballonnen of met luchtvaartuigen die zijn ingericht voor het vervoer van zieken of gewonden;’*     
 ### 2  
 
-#### Wet personenvervoer 2000 
+####[Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)
 
-De tekst van artikel 1, eerste lid, onderdelen h, ien j van de Wet personenvervoer 2000 luidt: 
+De tekst van [artikel 1, eerste lid, onderdelen h, ien j van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) luidt: 
 
-– *h*. openbaar vervoer: voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig;  
+–  *h*. openbaar vervoer: voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig;  
 
-– *i.* besloten busvervoer: personenvervoer per bus, anders dan bedoeld in onderdeel h;  
+–  *i.* besloten busvervoer: personenvervoer per bus, anders dan bedoeld in onderdeel h;  
 
-– *j*. taxivervoer: personenvervoer per auto, anders dan bedoeld in onderdeel h, tegen betaling.   Bij voertuigen die via een geleidesysteem worden voortbewogen, gaat het om voertuigen die zich voortbewegen langs daartoe in, op of boven de grond geconstrueerde (hulp)banen of kabels. Hieronder vallen onder meer trolleybussen, kabelbanen en magneettreinen. Op de markt zijn er ook vormen van het tegen betaling vervoeren van personen over de weg (zijnde taxivervoer) anders dan per auto. Hierbij moet worden gedacht aan vervoermiddelen als een motortaxi, tuktuk en fietstaxi. Ook deze vormen van taxivervoer vallen onder de post. Diensten waarbij de klant door een ondernemer wordt opgehaald met zijn eigen auto of een taxi, waarin een tweede chauffeur meerijdt, zijn niet aan te merken als taxivervoer in de zin van de post. In die gevallen zorgt de ondernemer ervoor dat de klant en zijn auto worden vervoerd naar de plaats die de klant bepaalt.    
+–  *j*. taxivervoer: personenvervoer per auto, anders dan bedoeld in onderdeel h, tegen betaling.   Bij voertuigen die via een geleidesysteem worden voortbewogen, gaat het om voertuigen die zich voortbewegen langs daartoe in, op of boven de grond geconstrueerde (hulp)banen of kabels. Hieronder vallen onder meer trolleybussen, kabelbanen en magneettreinen. Op de markt zijn er ook vormen van het tegen betaling vervoeren van personen over de weg (zijnde taxivervoer) anders dan per auto. Hierbij moet worden gedacht aan vervoermiddelen als een motortaxi, tuktuk en fietstaxi. Ook deze vormen van taxivervoer vallen onder de post. Diensten waarbij de klant door een ondernemer wordt opgehaald met zijn eigen auto of een taxi, waarin een tweede chauffeur meerijdt, zijn niet aan te merken als taxivervoer in de zin van de post. In die gevallen zorgt de ondernemer ervoor dat de klant en zijn auto worden vervoerd naar de plaats die de klant bepaalt.    
 ### 3  
 
 ####Vervoer van personen
@@ -2654,7 +2654,7 @@ Het begrip vervoer van personen moet naar spraakgebruik worden uitgelegd. Onder 
 ####Binnenlands vervoer met luchtvaartuigen
 
 Met ingang van 1 januari 2002 is het verlaagde tarief niet langer van toepassing op het binnenlandse vervoer van personen met luchtvaartuigen. Dit geldt echter niet voor ballonvaarten en vluchten van ambulance- of traumahelikopters.     
-### Post  B 10  
+### Post B 10  
 
 ### 1  
 
@@ -2710,7 +2710,7 @@ De activiteiten van watersportbedrijven bestaan onder meer uit het voor recreati
 ####Korte periode
 
 De aard en de duur van het verblijf zijn bepalend voor de vraag of sprake is van ‘verblijf voor een korte periode’. Van ‘verblijf voor een korte periode’ is in ieder geval sprake als de periode maximaal zes maanden per jaar duurt. Als sprake is van een verblijf dat langer duurt dan zes maanden rust op de verhuurder de bewijslast om aan de inspecteur aannemelijk te maken dat toch sprake is van een verblijf voor een korte periode. Als de gast het middelpunt van zijn maatschappelijk leven overbrengt naar het bedrijf of daar permanent gaat wonen, is geen sprake van een ‘verblijf voor een korte periode’.     
-### Post  B 11  
+### Post B 11  
 
 ### 1  
 
@@ -2748,7 +2748,7 @@ De aard en de duur van het verblijf zijn bepalend voor de vraag of sprake is van
 
 ####Algemeen
 
-De (enkele) verhuur van accommodaties voor de opvang van asielzoekers door hotel-, pension- en vakantiebestedingsbedrijfexploitanten aan het Centraal Orgaan voor de opvang van Asielzoekers (COA) of het ministerie van VWS valt onder de post. In dit verband speelt een rol, dat het verblijf van de asielzoekers in de desbetreffende accommodatie ondanks de soms relatief lange duur ervan naar zijn aard als tijdelijk is te beschouwen. De enkele verhuur van ongemeubileerde onroerende accommodaties buiten het kader van het hotel-, pension-, kamp- en vakantiebestedingsbedrijf (bijvoorbeeld kloosters en kantoorruimte) voor de tijdelijke opvang van asielzoekers valt niet onder de post. Deze verhuur is vrijgesteld op grond van artikel 11, eerste lid, onderdeel b, van de wet. De enkele verhuur van ongemeubileerde schepen voor de tijdelijke opvang van asielzoekers is aan te merken als de verhuur van roerende zaken. De post is niet van toepassing en de verhuur is onderworpen aan het algemene tarief, tenzij het desbetreffende schip is aan te merken als een zeeschip. In dat geval is op grond van onderdeel 9 bij post b 1 van Tabel II juncto onderdeel 3 bij post a 3 van Tabel II het nultarief van toepassing. De enkele verhuur van semi-permanente accommodatie voor de tijdelijke opvang van asielzoekers is als de verhuur van roerende zaken belast naar het algemene tarief. Het gaat hier onder meer om de verhuur van ongemeubileerde stacaravans en containers die worden geplaatst op camping- of andere door het COA (of het ministerie van VWS) gehuurde of aangekochte terreinen. Bij de containers gaat het om wooncontainers en containers met keuken-, vaatwas-, koel/vries- en dergelijke apparatuur, die aan elkaar gekoppeld een asielzoekerscentrum vormen.    
+De (enkele) verhuur van accommodaties voor de opvang van asielzoekers door hotel-, pension- en vakantiebestedingsbedrijfexploitanten aan het Centraal Orgaan voor de opvang van Asielzoekers (COA) of het ministerie van VWS valt onder de post. In dit verband speelt een rol, dat het verblijf van de asielzoekers in de desbetreffende accommodatie ondanks de soms relatief lange duur ervan naar zijn aard als tijdelijk is te beschouwen. De enkele verhuur van ongemeubileerde onroerende accommodaties buiten het kader van het hotel-, pension-, kamp- en vakantiebestedingsbedrijf (bijvoorbeeld kloosters en kantoorruimte) voor de tijdelijke opvang van asielzoekers valt niet onder de post. Deze verhuur is vrijgesteld op grond van [artikel 11, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). De enkele verhuur van ongemeubileerde schepen voor de tijdelijke opvang van asielzoekers is aan te merken als de verhuur van roerende zaken. De post is niet van toepassing en de verhuur is onderworpen aan het algemene tarief, tenzij het desbetreffende schip is aan te merken als een zeeschip. In dat geval is op grond van onderdeel 9 bij post b 1 van [Tabel II](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) juncto onderdeel 3 bij post a 3 van Tabel II het nultarief van toepassing. De enkele verhuur van semi-permanente accommodatie voor de tijdelijke opvang van asielzoekers is als de verhuur van roerende zaken belast naar het algemene tarief. Het gaat hier onder meer om de verhuur van ongemeubileerde stacaravans en containers die worden geplaatst op camping- of andere door het COA (of het ministerie van VWS) gehuurde of aangekochte terreinen. Bij de containers gaat het om wooncontainers en containers met keuken-, vaatwas-, koel/vries- en dergelijke apparatuur, die aan elkaar gekoppeld een asielzoekerscentrum vormen.    
 ### 5.2  
 
 ####‘All-in’ opvang
@@ -2764,7 +2764,7 @@ Als een deel van de ten behoeve van de tijdelijke opvang van asielzoekers gehuur
 ####Dak- en thuislozen
 
 Voor de tijdelijke opvang van dak- en thuislozen in pensions en dergelijke kan op overeenkomstige wijze worden gehandeld als bij de tijdelijke opvang van asielzoekers.     
-### Post  B 12  
+### Post B 12  
 
 ### 1  
 
@@ -2788,13 +2788,13 @@ Ik keur onder voorwaarden goed dat mag worden gehandeld alsof de samenstellende 
 
 a. de ondernemer dient de in de mixdrank verwerkte hoeveelheden van de samenstellende dranken ook in ongemixte vorm ten verkoop aan te bieden, en  
 
-b. de verkoopprijs van de mixdrank is gelijk aan de som van de prijzen die voor de samenstellende dranken in rekening gebracht zou worden als zij afzonderlijk verstrekt zouden worden.   Als gevolg van deze goedkeuring kan het verlaagde tarief worden toegepast op dat deel van de verkoopprijs dat is toe te rekenen aan de alcoholvrije bestanddelen. Als de ondernemer een forfaitaire berekeningsmethode toepast dan moet de splitsing geschieden volgens de gekozen methode. Hierbij kan de toepassing van de artikelen 17 en 17a van het uitvoeringsbesluit voor deze dranken achterwege blijven. Voor mixdranken die niet aan de hiervoor genoemde voorwaarden voldoen moet de wettelijke regeling onverkort worden toegepast. Als de mixdrank meer dan 1,2% alcohol bevat, is het algemene tarief van toepassing. Ook mixdranken die in verpakking worden geleverd door bijvoorbeeld supermarkten en slijterijen vallen niet onder het verlaagde tarief.    
+b. de verkoopprijs van de mixdrank is gelijk aan de som van de prijzen die voor de samenstellende dranken in rekening gebracht zou worden als zij afzonderlijk verstrekt zouden worden.   Als gevolg van deze goedkeuring kan het verlaagde tarief worden toegepast op dat deel van de verkoopprijs dat is toe te rekenen aan de alcoholvrije bestanddelen. Als de ondernemer een forfaitaire berekeningsmethode toepast dan moet de splitsing geschieden volgens de gekozen methode. Hierbij kan de toepassing van de [artikelen 17](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) en [17a van het uitvoeringsbesluit](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) voor deze dranken achterwege blijven. Voor mixdranken die niet aan de hiervoor genoemde voorwaarden voldoen moet de wettelijke regeling onverkort worden toegepast. Als de mixdrank meer dan 1,2% alcohol bevat, is het algemene tarief van toepassing. Ook mixdranken die in verpakking worden geleverd door bijvoorbeeld supermarkten en slijterijen vallen niet onder het verlaagde tarief.    
 ### 4  
 
 ####Gezamenlijk bereiden van een maaltijd
 
 De mogelijkheid bestaat dat een restauranthouder aan groepen de gelegenheid biedt tot het bereiden van maaltijden onder professionele begeleiding. Het kenmerkende element van de prestatie voor de deelnemers is het samen nuttigen van een maaltijd. Deze dienstverlening van de restauranthouder kan daarom onder de post worden gerangschikt. Sommige bakkers organiseren kinderfeestjes. Onder leiding van een gediplomeerde bakker worden door de kinderen koekjes en broodjes gebakken die de kinderen mee naar huis nemen. Tijdens het feestje presenteert de bakker veelal koekjes en limonade. Soms wordt een film vertoond over (de geschiedenis van het) broodbakken. Er is sprake van één prestatie die dicht aanligt tegen de normale bedrijfsvoering van de bakker. Die prestatie kan onder de post worden gerangschikt. Niet onder de post vallen kookcursussen, waarbij de kennisoverdracht het kenmerkende element van de prestatie is en het nuttigen van spijzen en dranken van bijkomstige aard.     
-### Post  B 13  
+### Post B 13  
 
 ### 1  
 
@@ -2911,7 +2911,7 @@ In de volgende gevallen gaat de levering van de gebruikte materialen op in de di
 
 ####Aanleg van mestopslagplaatsen
 
-De aanleg van mestopslagplaatsen (zowel mestsilo’s als mestvijvers en mestbassins) vormt steeds een oplevering in de zin van artikel 3, eerste lid, onderdeel c, van de wet. Bij de aanleg van bedoelde opslagplaatsen worden de grondwerkzaamheden in voorkomende gevallen uitbesteed aan een andere ondernemer, zoals bijvoorbeeld een agrarisch loonbedrijf. Het gaat hierbij meestal om het maken van de bouwput, het graven van de kuil, het maken van een aarden wal met de vrijgekomen aarde en het in de grond aanbrengen van de (zuig)leiding en/of de controleput. Voor deze handelingen is het algemene tarief van toepassing.     
+De aanleg van mestopslagplaatsen (zowel mestsilo’s als mestvijvers en mestbassins) vormt steeds een oplevering in de zin van [artikel 3, eerste lid, onderdeel c, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Bij de aanleg van bedoelde opslagplaatsen worden de grondwerkzaamheden in voorkomende gevallen uitbesteed aan een andere ondernemer, zoals bijvoorbeeld een agrarisch loonbedrijf. Het gaat hierbij meestal om het maken van de bouwput, het graven van de kuil, het maken van een aarden wal met de vrijgekomen aarde en het in de grond aanbrengen van de (zuig)leiding en/of de controleput. Voor deze handelingen is het algemene tarief van toepassing.     
 ### 3.4  
 
 ####Overtollige mest
@@ -2994,7 +2994,7 @@ Ter bestrijding van de ziekte ‘Chronic Respiratory Disease’ bij pluimvee kun
 ####Vervoer naar veilingen
 
 Veemarkten vallen niet onder het begrip veilingen. Het vervoer van vee in opdracht van veehouders (en veehandelaren) naar veemarkten valt daarom onder het algemene tarief. Als het vervoer naar veilingen in opdracht van veilingexploitanten wordt verricht, valt de vervoersdienst onder het algemene tarief. Het vervoer van bloembollen in opdracht van een bloembollenkweker rechtstreeks naar een veiling van bloembollen valt onder de post. Worden de bloembollen eerst naar een plaats vervoerd waar zij een bepaalde behandeling ondergaan zoals drogen, schonen en sorteren dan is voor het vervoer het algemene tarief van toepassing. Worden de bloembollen daarna in opdracht van de bloembollenkweker van die plaats naar de veiling vervoerd, dan kan dat laatste vervoer naar het verlaagde tarief worden belast. Als de producten niet worden verkocht op de veiling en weer naar de landbouwer, veehouder, tuinbouwer of bosbouwer worden terugvervoerd valt het terugvervoer niet onder de post. Het vervoer van leeg fust (verpakkingsmateriaal voor sierteelt- en tuinbouwproducten) valt niet onder de post. Bij combinatieritten wordt het vervoer van leeg fust als een zelfstandige prestatie aangemerkt die is onderworpen aan het algemene tarief. Combinatieritten zijn in dit verband ritten waarbij vanaf de veiling naar de tuinbouwer leeg fust wordt vervoerd en vanaf de tuinbouwer naar de veiling vol fust wordt vervoerd en waarvoor de vervoerder aan de tuinbouwer één bedrag in rekening brengt. Ik keur goed dat bij het vervoer van sierteelt- en tuinbouwproducten forfaitair 88% van de vergoeding wordt toegerekend aan het vervoer van vol fust (verlaagd tarief) en dat de resterende 12% wordt toegerekend aan het vervoer van leeg fust (algemeen tarief). Deze forfaitaire regeling is alleen van toepassing op de hiervoor bedoelde combinatieritten. Vervoerders die gebruik willen maken van de forfaitaire regeling moeten deze regeling toepassen bij alle combinatieritten die zij uitvoeren. Vervoerders die geen of niet langer gebruik willen maken van de forfaitaire regeling moeten de vergoeding splitsen op basis van de gegevens uit hun administratie. Vervoerders die hebben afgezien van de toepassing van de forfaitaire regeling en ervoor hebben gekozen de vergoeding voor het vervoer te splitsen op basis van hun individuele administratie, kunnen later niet alsnog of opnieuw gebruik maken van de forfaitaire regeling.      
-### Post  B 14  
+### Post B 14 
 
 ####(onderdeel d is vervallen per 1 januari 2011)
 
@@ -3071,7 +3071,7 @@ Alleen nauw met het verlenen van toegang tot openbare musea of verzamelingen ver
 
 ####Overgangsmaatregel en tijdelijke goedkeuring
 
-*Post B 14, onderdeel d, zoals deze bepaling luidde op 31 december 2010 blijft van toepassing op vergoedingen die vóór 1 januari 2011 zijn ontvangen voor het verlenen van toegang tot muziekuitvoeringen en toneeluitvoeringen, daaronder begrepen opera’s, operettes, dansen, pantomines, revues, musicals en cabarets, alsmede lezingen die op of na 1 januari 2011 plaatsvinden*  Tevens is bij de behandeling van het Belastingplan 2011 toegezegd de ingangsdatum van de btw-verhoging voor podiumkunsten uit te stellen. Dit heeft geleid tot de volgende goedkeuring: het verlaagde btw-tarief mag worden toegepast op podiumkunsten die na 31 december 2010 maar vóór 1 juli 2011 plaatsvinden. Deze goedkeuring is opgenomen in DV2010/000537M van 21 december 2010. Voor podiumkunsten die op of na 1 juli 2011 plaatsvinden, geldt in beginsel het algemene btw-tarief. Alleen indien de vergoedingen voor podiumkunsten die op of na 1 juli 2011 plaatsvinden vóór 1 januari 2011 ontvangen zijn, geldt op grond van de overgangsmaatregel voor deze vergoedingen het verlaagde btw-tarief. Onderstaande tekst is de toelichting op de bepaling zoals die luidde op 31 december 2010. Deze toelichting blijft geldend voor de omzetbelastingheffing over tijdvakken tot 1 juli 2011. Bij het verlenen van toegang tot de in de post genoemde podiumkunsten gaat het om optredens van de uitvoerders van de in de post bedoelde podiumkunsten waarvoor afzonderlijk toegang wordt verleend. Dat wil zeggen dat voor de optredens daadwerkelijk aparte toegangsbewijzen worden verstrekt. Zo heeft de post geen betrekking op het verlenen van toegang tot bijvoorbeeld een discotheek of buitenterrein, waarbij het optreden van de artiest(en) een ondergeschikte betekenis heeft en waarbij voor dat optreden geen afzonderlijke toegangsprijs in rekening wordt gebracht. Het verlenen van diensten op het gebied van muziek- en toneeluitvoeringen aan organisatoren van muziek- en toneeluitvoeringen kan niet onder de post worden gerangschikt, omdat deze diensten als zodanig niet zijn aan te merken als het verlenen van toegang tot muziek- en toneeluitvoeringen. Als deze diensten zijn aan te merken als optredens door uitvoerende kunstenaars, is post b 17 van toepassing. Het rollenspel waarin de gasten van dinnergameshows door de organisator een rol krijgen toebedeeld, is niet aan te merken als een toneel- of muziekuitvoering in de zin van de post.    
+*Post B 14, onderdeel d, zoals deze bepaling luidde op 31 december 2010 blijft van toepassing op vergoedingen die vóór 1 januari 2011 zijn ontvangen voor het verlenen van toegang tot muziekuitvoeringen en toneeluitvoeringen, daaronder begrepen opera’s, operettes, dansen, pantomines, revues, musicals en cabarets, alsmede lezingen die op of na 1 januari 2011 plaatsvinden*  Tevens is bij de behandeling van het [Belastingplan 2011](../../../../../../wet/belastingplan/2011/BWBR0029341/README.md) toegezegd de ingangsdatum van de btw-verhoging voor podiumkunsten uit te stellen. Dit heeft geleid tot de volgende goedkeuring: het verlaagde btw-tarief mag worden toegepast op podiumkunsten die na 31 december 2010 maar vóór 1 juli 2011 plaatsvinden. Deze goedkeuring is opgenomen in [DV2010/000537M](../../../../../../beleidsregel/omzetbelasting/btw-tarief/op/podiumkunsten/BWBR0029300/README.md) van 21 december 2010. Voor podiumkunsten die op of na 1 juli 2011 plaatsvinden, geldt in beginsel het algemene btw-tarief. Alleen indien de vergoedingen voor podiumkunsten die op of na 1 juli 2011 plaatsvinden vóór 1 januari 2011 ontvangen zijn, geldt op grond van de overgangsmaatregel voor deze vergoedingen het verlaagde btw-tarief. Onderstaande tekst is de toelichting op de bepaling zoals die luidde op 31 december 2010. Deze toelichting blijft geldend voor de omzetbelastingheffing over tijdvakken tot 1 juli 2011. Bij het verlenen van toegang tot de in de post genoemde podiumkunsten gaat het om optredens van de uitvoerders van de in de post bedoelde podiumkunsten waarvoor afzonderlijk toegang wordt verleend. Dat wil zeggen dat voor de optredens daadwerkelijk aparte toegangsbewijzen worden verstrekt. Zo heeft de post geen betrekking op het verlenen van toegang tot bijvoorbeeld een discotheek of buitenterrein, waarbij het optreden van de artiest(en) een ondergeschikte betekenis heeft en waarbij voor dat optreden geen afzonderlijke toegangsprijs in rekening wordt gebracht. Het verlenen van diensten op het gebied van muziek- en toneeluitvoeringen aan organisatoren van muziek- en toneeluitvoeringen kan niet onder de post worden gerangschikt, omdat deze diensten als zodanig niet zijn aan te merken als het verlenen van toegang tot muziek- en toneeluitvoeringen. Als deze diensten zijn aan te merken als optredens door uitvoerende kunstenaars, is post b 17 van toepassing. Het rollenspel waarin de gasten van dinnergameshows door de organisator een rol krijgen toebedeeld, is niet aan te merken als een toneel- of muziekuitvoering in de zin van de post.    
 ### 5.2  
 
 ####Muziekuitvoeringen
@@ -3144,7 +3144,7 @@ Onder een attractiepark is te verstaan: een afgebakend terrein of park, waarin a
 
 ####Speeltuinen
 
-De niet-winstbeogende speeltuinverenigingen zijn vrijgesteld (post b 10 van bijlage B bij het uitvoeringsbesluit). Zij vallen daarom niet onder de post. Het verlenen van toegang tot kinderboerderijen valt onder de post. Niet alleen is een kinderboerderij aan te merken als een voorziening voor vermaak en dagrecreatie, ook ligt een kinderboerderij in het verlengde van een speeltuin.    
+De niet-winstbeogende speeltuinverenigingen zijn vrijgesteld (post b 10 van [bijlage B bij het uitvoeringsbesluit](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)). Zij vallen daarom niet onder de post. Het verlenen van toegang tot kinderboerderijen valt onder de post. Niet alleen is een kinderboerderij aan te merken als een voorziening voor vermaak en dagrecreatie, ook ligt een kinderboerderij in het verlengde van een speeltuin.    
 ### 8.4.3  
 
 ####Siertuinen
@@ -3159,13 +3159,13 @@ Door diverse bedrijven wordt op een eigen locatie een grote verscheidenheid aan 
 
 ####Verhuur onroerende zaak of toegang verlenen tot een recreatieve inrichting
 
-Als de recreatieve inrichting wordt verhuurd, geldt de vrijstelling van artikel 11, eerste lid, onderdeel b, van de wet.    
+Als de recreatieve inrichting wordt verhuurd, geldt de vrijstelling van [artikel 11, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).    
 ### 9  
 
 ####Garderobe
 
 Het gebruik van de garderobe is te beschouwen als een bijkomende dienst die op dezelfde wijze belast wordt als de hoofddienst. Bij het gebruik van de garderobe van een in de post opgenomen voorziening zijn drie situaties te onderscheiden. Het gebruik van de garderobe is in de toegangsprijs begrepen (verlaagd tarief), de bezoeker betaalt een aparte vergoeding aan de exploitant van de voorziening (verlaagd tarief) of voor het gebruik van de garderobe wordt een afzonderlijke vergoeding betaald aan een derde/ondernemer (algemeen tarief).In het laatste geval vormt de dienst voor de desbetreffende ondernemer de hoofddienst, die enkel bestaat in het in bewaring nemen van jassen en dergelijke.     
-### Post  B 15  
+### Post B 15  
 
 ### 1  
 
@@ -3177,7 +3177,7 @@ De tekst van post b 15 luidt:  *‘de diensten van exploitanten van reizende inr
 ####Algemeen
 
 Leveringen vanuit de in de post bedoelde reizende inrichtingen vallen niet onder de post. Voor de leveringen van snoep en andere etenswaren geldt het verlaagde tarief op grond van post a 1.     
-### Post  B 16  
+### Post B 16  
 
 ### 1  
 
@@ -3188,20 +3188,20 @@ De tekst van post b 16 luidt:  *‘de oplevering van roerende zaken als bedoeld 
 
 ####Algemeen
 
-Deze post is opgenomen omdat vóór 1996 de oplevering van een roerende zaak als een levering werd aangemerkt. Was het goed opgenomen in een post van onderdeel a van Tabel I, dan gold het verlaagde tarief. Deze opleveringen worden nu als diensten beschouwd. Met deze bepaling is beoogd de toepassing van het verlaagde tarief voor deze opleveringen te continueren. Dit geldt bijvoorbeeld voor de oplevering van een kunstwerk als bedoeld in post a 29 door een kunstenaar aan een instelling voor kunstuitleen.    
+Deze post is opgenomen omdat vóór 1996 de oplevering van een roerende zaak als een levering werd aangemerkt. Was het goed opgenomen in een post van onderdeel a van [Tabel I](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), dan gold het verlaagde tarief. Deze opleveringen worden nu als diensten beschouwd. Met deze bepaling is beoogd de toepassing van het verlaagde tarief voor deze opleveringen te continueren. Dit geldt bijvoorbeeld voor de oplevering van een kunstwerk als bedoeld in post a 29 door een kunstenaar aan een instelling voor kunstuitleen.    
 ### 3  
 
 ####Het in opdracht van derden opfokken of opkweken van goederen
 
-Het in opdracht van derden opfokken van dieren of opkweken van planten, groente, e.d. werd in de Nederlandse rechtspraak aangemerkt als de oplevering van roerende zaken. De oplevering van deze goederen was daardoor aan het verlaagde tarief onderworpen, als die goederen waren opgenomen in onderdeel a van Tabel I. Zie in dit verband HR 17 december 1997, nr. 32 593. Het Stenholmen-arrest van het HvJ EG heeft echter bepaald dat in deze gevallen geen sprake kan zijn van de oplevering van roerende zaken, zijnde de vervaardiging van zaken die van tevoren niet bestonden (arrest van 1 april 2004, nr. C-320/02; zie ook het Besluit Landbouw, onderdeel 1.2). Vooruitlopend op wijziging van de wetgeving keur ik het volgende goed. 
+Het in opdracht van derden opfokken van dieren of opkweken van planten, groente, e.d. werd in de Nederlandse rechtspraak aangemerkt als de oplevering van roerende zaken. De oplevering van deze goederen was daardoor aan het verlaagde tarief onderworpen, als die goederen waren opgenomen in onderdeel a van [Tabel I](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Zie in dit verband HR 17 december 1997, nr. 32 593. Het Stenholmen-arrest van het HvJ EG heeft echter bepaald dat in deze gevallen geen sprake kan zijn van de oplevering van roerende zaken, zijnde de vervaardiging van zaken die van tevoren niet bestonden (arrest van 1 april 2004, nr. C-320/02; zie ook het Besluit Landbouw, onderdeel 1.2). Vooruitlopend op wijziging van de wetgeving keur ik het volgende goed. 
 ### *Goedkeuring* 
 
 Prestaties, die als gevolg van het Stenholmen-arrest vanaf 1 april 2004 aan het algemene tarief zijn onderworpen, blijven vooralsnog belast tegen het verlaagde tarief. De diensten die onder deze goedkeuring vallen betreffen het opfokken van dieren, het opkweken van planten, groente, e.d. en het zodanig trainen van een dier dat op basis van HR 17 december 1997, nr. 32 593, een nieuw goed ontstaat. De opfok van paarden houdt in de zuivere opfok en de africhting. In de praktijk wordt onder ‘zuivere opfok’ verstaan de tijd waarin het jonge paard kan opgroeien tot jong volwassen paard. Gedurende deze periode wordt het paard verzorgd, groeit het op in groepsverband en wordt het sociaal en handelbaar gemaakt. Er worden geen prestaties van het jonge paard verwacht. De africhting is het (verder) socialiseren van het paard, het zadelmak maken van het paard en het paard zodanig africhten dat het geschikt is voor gebruiksdoeleinden als rij- of menpaard. De africhtingsfase duurt, wil deze fase nog gerekend worden tot de opfokperiode, niet langer dan 6 maanden. Bij een langere termijn is het aan de africhter om aan te tonen dat geen sprake is van training. De africhtingfase eindigt in ieder geval als er een startkaart wordt aangevraagd dan wel aan het einde van het vijfde levensjaar van het paard. Het trainen van een paard tot dressuur- of springpaard op B of ander niveau behoort niet tot de opfok van paarden.     
-### Post  B 17  
+### Post B 17 
 
 ####(vervallen per 1 januari 2011)
 
-*Overgangsmaatregel: Post B 17 zoals deze bepaling luidde op 31 december 2010 blijft van toepassing op vergoedingen die vóór 1 januari 2011 zijn ontvangen voor de optredens door uitvoerende kunstenaars die op of na 1 januari 2011 plaatsvinden.*  Tevens is bij de behandeling van het Belastingplan 2011 toegezegd de ingangsdatum van de btw-verhoging voor podiumkunsten (waaronder de optredens door uitvoerende kunstenaars) uit te stellen. Dit heeft geleid tot de volgende goedkeuring: het verlaagde btw-tarief mag worden toegepast op podiumkunsten die na 31 december 2010 maar vóór 1 juli 2011 plaatsvinden. Deze goedkeuring is opgenomen in besluit DV2010/000537M van 21 december 2010. Onderstaande tekst is de toelichting op de bepaling zoals die luidde op 31 december 2010. Deze toelichting blijft geldend voor de omzetbelastingheffing over tijdvakken tot 1 juli 2011.   
+*Overgangsmaatregel: Post B 17 zoals deze bepaling luidde op 31 december 2010 blijft van toepassing op vergoedingen die vóór 1 januari 2011 zijn ontvangen voor de optredens door uitvoerende kunstenaars die op of na 1 januari 2011 plaatsvinden.*  Tevens is bij de behandeling van het [Belastingplan 2011](../../../../../../wet/belastingplan/2011/BWBR0029341/README.md) toegezegd de ingangsdatum van de btw-verhoging voor podiumkunsten (waaronder de optredens door uitvoerende kunstenaars) uit te stellen. Dit heeft geleid tot de volgende goedkeuring: het verlaagde btw-tarief mag worden toegepast op podiumkunsten die na 31 december 2010 maar vóór 1 juli 2011 plaatsvinden. Deze goedkeuring is opgenomen in besluit [DV2010/000537M](../../../../../../beleidsregel/omzetbelasting/btw-tarief/op/podiumkunsten/BWBR0029300/README.md) van 21 december 2010. Onderstaande tekst is de toelichting op de bepaling zoals die luidde op 31 december 2010. Deze toelichting blijft geldend voor de omzetbelastingheffing over tijdvakken tot 1 juli 2011.   
 ### 1  
 
 ####Inhoud van de post
@@ -3236,8 +3236,8 @@ Uitvoerende kunstenaars verlenen hun prestaties doorgaans door tussenkomst van e
 
 1. De bemiddeling leidt er toe dat een overeenkomst tot stand komt tussen de uitvoerende kunstenaar en de opdrachtgever. Het optreden van de uitvoerende kunstenaar is aan het verlaagde tarief onderworpen (als de zogenoemde artiestenregeling omzetbelasting niet op hem van toepassing is). De dienst van de bemiddelaar is onderworpen aan het algemene tarief.  
 
-2. De bemiddelaar sluit op eigen naam maar op order en voor rekening van een ander (zoals bedoeld in artikel 4, derde lid, van de wet) overeenkomsten met de uitvoerende artiesten en de opdrachtgevers. De vergoeding die voor het optreden aan de opdrachtgever in rekening wordt gebracht, dus inclusief de vergoeding voor de bemiddelingsdienst (soms ook wel uitkoopsom genoemd), is onderworpen aan het verlaagde tarief.   Ook de dienst die de uitvoerende kunstenaar verleent aan de bemiddelaar kan onder de post worden gerangschikt.     
-### Post  B 18  
+2. De bemiddelaar sluit op eigen naam maar op order en voor rekening van een ander (zoals bedoeld in [artikel 4, derde lid, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)) overeenkomsten met de uitvoerende artiesten en de opdrachtgevers. De vergoeding die voor het optreden aan de opdrachtgever in rekening wordt gebracht, dus inclusief de vergoeding voor de bemiddelingsdienst (soms ook wel uitkoopsom genoemd), is onderworpen aan het verlaagde tarief.   Ook de dienst die de uitvoerende kunstenaar verleent aan de bemiddelaar kan onder de post worden gerangschikt.     
+### Post B 18  
 
 ### 1  
 
@@ -3248,8 +3248,8 @@ De tekst van post b 18 luidt:  *‘het vervoer van gas dat valt onder de toepass
 
 ####Het vervoer van gas
 
-Op grond van post a 32 van de tabel is het verlaagde btw-tarief onder meer van toepassing op de levering van gas voor verwarming ten behoeve van het groeiproces van tuinbouwproducten. Het vervoer van gas naar de tuinbouwer werd aanvankelijk door de leverancier verzorgd en vormde als zodanig een onderdeel van de levering van dat gas. Daardoor werd op de kosten van het vervoer die waren begrepen in de vergoeding voor de levering, ook het verlaagde tarief toegepast. Als gevolg van de totstandkoming van de Gaswet zijn de levering en het vervoer van gas twee afzonderlijke prestaties geworden die ook door afzonderlijke ondernemers worden verricht. Deze post voorziet erin dat in de nieuwe situatie het verlaagde tarief toegepast kan blijven op het vervoer van gas bestemd voor de tuinbouw.     
-### Post  B 19  
+Op grond van post a 32 van de tabel is het verlaagde btw-tarief onder meer van toepassing op de levering van gas voor verwarming ten behoeve van het groeiproces van tuinbouwproducten. Het vervoer van gas naar de tuinbouwer werd aanvankelijk door de leverancier verzorgd en vormde als zodanig een onderdeel van de levering van dat gas. Daardoor werd op de kosten van het vervoer die waren begrepen in de vergoeding voor de levering, ook het verlaagde tarief toegepast. Als gevolg van de totstandkoming van de [Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md) zijn de levering en het vervoer van gas twee afzonderlijke prestaties geworden die ook door afzonderlijke ondernemers worden verricht. Deze post voorziet erin dat in de nieuwe situatie het verlaagde tarief toegepast kan blijven op het vervoer van gas bestemd voor de tuinbouw.     
+### Post B 19  
 
 ### 1  
 
@@ -3260,10 +3260,10 @@ De tekst van post B 19 luidt:  *‘het aanbrengen van op energiebesparing gerich
 
 ####Het aanbrengen van op energiebesparing gericht isolatiemateriaal
 
-De tabelpost heeft alleen betrekking op diensten en niet op leveringen van isolatiemateriaal, daaronder begrepen het aanbrengen van een goed aan een ander goed in de zin van artikel 3, eerste lid, onderdeel f, van de wet. De tabelpost is alleen van toepassing bij het aanbrengen van op energiebesparing gericht isolatiemateriaal aan vloeren, muren en daken van woningen. De werkzaamheden moeten erop gericht zijn de woning energiezuiniger te maken en moeten ertoe leiden dat de warmteweerstand van de betreffende scheidingsconstructie tenminste voldoet aan de eisen van het Bouwbesluit. Dit kan bijvoorbeeld worden bereikt met het aanbrengen van glas-, steenwol, thermoskussens, schelpen, kleikorrels of EPS ‘piepschuim’. Het isoleren van de bodem van een woning met isolatiemateriaal valt ook onder de post. Dit geldt eveneens voor het zogenoemde opgaand werk, het isoleren van de fundering vanaf de bodem van de kruipruimte tot de vloer. Het aanbrengen van isolatiemateriaal aan de binnen- of buitenzijde van de gevel en/of het vullen van de spouwmuur met isolatiemateriaal valt ook onder de post. Constructieonderdelen zoals ramen en deuren zijn een normaal onderdeel van de woning en zijn als zodanig geen isolatiemateriaal. Op het aanbrengen van glas is het algemene btw-tarief van toepassing. 
+De tabelpost heeft alleen betrekking op diensten en niet op leveringen van isolatiemateriaal, daaronder begrepen het aanbrengen van een goed aan een ander goed in de zin van [artikel 3, eerste lid, onderdeel f, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). De tabelpost is alleen van toepassing bij het aanbrengen van op energiebesparing gericht isolatiemateriaal aan vloeren, muren en daken van woningen. De werkzaamheden moeten erop gericht zijn de woning energiezuiniger te maken en moeten ertoe leiden dat de warmteweerstand van de betreffende scheidingsconstructie tenminste voldoet aan de eisen van het [Bouwbesluit](../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md). Dit kan bijvoorbeeld worden bereikt met het aanbrengen van glas-, steenwol, thermoskussens, schelpen, kleikorrels of EPS ‘piepschuim’. Het isoleren van de bodem van een woning met isolatiemateriaal valt ook onder de post. Dit geldt eveneens voor het zogenoemde opgaand werk, het isoleren van de fundering vanaf de bodem van de kruipruimte tot de vloer. Het aanbrengen van isolatiemateriaal aan de binnen- of buitenzijde van de gevel en/of het vullen van de spouwmuur met isolatiemateriaal valt ook onder de post. Constructieonderdelen zoals ramen en deuren zijn een normaal onderdeel van de woning en zijn als zodanig geen isolatiemateriaal. Op het aanbrengen van glas is het algemene btw-tarief van toepassing. 
 ### *Overgangsmaatregel* 
 
-Van 1 juli 2009 tot 1 januari 2010 was hetaanbrengen van ramen, deuren en kozijnen en daarmee gelijk te stellen constructieonderdelen inclusief beglazing met ten hoogste een warmtedoorgangscoëfficient (W/m2K) zoals genoemd in het Bouwbesluit onder deze post gerangschikt. Wanneer met betrekking tot het aanbrengen van ramen, deuren en kozijnen inclusief beglazing zoals hierboven genoemd met een klant een verplichting is aangegaan voor 1 januari 2010 maar de werkzaamheden zelf worden pas afgerond na 31 december 2009 maar voor 1 april 2010, kan voor deze werkzaamheden het verlaagde tarief worden gehanteerd. Deze overgangsmaatregel geldt ook voor het aanbrengen van isolatieglas tenzij de waarde van het glas een beduidend deel vertegenwoordigt van de waarde van de totale dienst.    
+Van 1 juli 2009 tot 1 januari 2010 was hetaanbrengen van ramen, deuren en kozijnen en daarmee gelijk te stellen constructieonderdelen inclusief beglazing met ten hoogste een warmtedoorgangscoëfficient (W/m2K) zoals genoemd in het [Bouwbesluit](../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) onder deze post gerangschikt. Wanneer met betrekking tot het aanbrengen van ramen, deuren en kozijnen inclusief beglazing zoals hierboven genoemd met een klant een verplichting is aangegaan voor 1 januari 2010 maar de werkzaamheden zelf worden pas afgerond na 31 december 2009 maar voor 1 april 2010, kan voor deze werkzaamheden het verlaagde tarief worden gehanteerd. Deze overgangsmaatregel geldt ook voor het aanbrengen van isolatieglas tenzij de waarde van het glas een beduidend deel vertegenwoordigt van de waarde van de totale dienst.    
 ### 3  
 
 ####Voorbereidende werkzaamheden
@@ -3273,7 +3273,7 @@ Werkzaamheden die te ver af staan van het aanbrengen van op energiebesparing ger
 
 ####Woningen
 
-Voor de uitleg van het begrip ‘woning’ wordt aangesloten bij de in Tabel I – post b.8 gegeven uitleg van dit begrip.    
+Voor de uitleg van het begrip ‘woning’ wordt aangesloten bij de in [Tabel I](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) – post b.8 gegeven uitleg van dit begrip.    
 ### 5  
 
 ####Beduidend deel
@@ -3290,7 +3290,7 @@ arbeidsloon € 1000 isolatiemateriaal € 1001 of meer In deze situatie is de w
 ####Moment van tariefbepaling
 
 Het moment waarop de dienst wordt verricht, is bepalend voor het antwoord op de vraag of het verlaagde tarief van toepassing is. Het verlaagde tarief is pas van toepassing als de dienst wordt afgerond op of na 1 juli 2009. Als er deelfacturen zijn uitgereikt met het normale btw-tarief dan kan op de definitieve factuur de btw worden verrekend.     
-### Post  B 20  
+### Post B 20  
 
 ### 1  
 
@@ -3301,8 +3301,8 @@ De tekst van post B 20 luidt:  *‘het verrichten van schoonmaakwerkzaamheden bi
 
 ####Schoonmaakwerkzaamheden binnen woningen
 
-Schoonmaakwerk in de woning valt onder het verlaagde tarief. Schoonmaakwerkzaamheden aan de buitenkant van woningen, zoals gevelreiniging en glazenwassen, alsmede specifieke schoonmaakdiensten binnen woningen zoals schoorsteenvegen en CV-reiniging en andere niet tot de normale werkzaamheden van een schoonmaker behorende diensten, vallen buiten de reikwijdte van de post. Alle schoonmaakwerkzaamheden die meestal door speciale bedrijven met bijzondere apparatuur worden verricht (zoals het in de was zetten van parketvloeren, het reinigen van portieken met hoge drukreinigers, brand- en roetreiniging, schoonmaak bij zware vervuiling, reiniging waterschade, ontruimen en reiniging na overlijden bewoner) behoren niet tot de normale werkzaamheden van een schoonmaker en vallen dus niet onder de post. Voor de uitleg van het begrip ‘woning’ wordt aangesloten bij de in Tabel I – post b.8 gegeven uitleg van dit begrip. Het gaat hier om onroerende zaken die zijn bestemd voor permanente bewoning door particulieren. Het schoonmaken van een gesloten galerij (inpandige gemeenschappelijke ruimte) kan tot de post worden gerekend. Het schoonmaken van ramen aan de buitenzijde van de flat aan een open galerij valt niet onder de post. Overigens is huishoudelijke verzorging vrijgesteld van btw, voor zover het personen betreft die voor thuiszorg geïndiceerd zijn op grond van de Wet Maatschappelijke Ondersteuning. Post B 20 is van toepassing op andere dan de hiervoor bedoelde gevallen.     
-### Post  B 21  
+Schoonmaakwerk in de woning valt onder het verlaagde tarief. Schoonmaakwerkzaamheden aan de buitenkant van woningen, zoals gevelreiniging en glazenwassen, alsmede specifieke schoonmaakdiensten binnen woningen zoals schoorsteenvegen en CV-reiniging en andere niet tot de normale werkzaamheden van een schoonmaker behorende diensten, vallen buiten de reikwijdte van de post. Alle schoonmaakwerkzaamheden die meestal door speciale bedrijven met bijzondere apparatuur worden verricht (zoals het in de was zetten van parketvloeren, het reinigen van portieken met hoge drukreinigers, brand- en roetreiniging, schoonmaak bij zware vervuiling, reiniging waterschade, ontruimen en reiniging na overlijden bewoner) behoren niet tot de normale werkzaamheden van een schoonmaker en vallen dus niet onder de post. Voor de uitleg van het begrip ‘woning’ wordt aangesloten bij de in [Tabel I](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) – post b.8 gegeven uitleg van dit begrip. Het gaat hier om onroerende zaken die zijn bestemd voor permanente bewoning door particulieren. Het schoonmaken van een gesloten galerij (inpandige gemeenschappelijke ruimte) kan tot de post worden gerekend. Het schoonmaken van ramen aan de buitenzijde van de flat aan een open galerij valt niet onder de post. Overigens is huishoudelijke verzorging vrijgesteld van btw, voor zover het personen betreft die voor thuiszorg geïndiceerd zijn op grond van de [Wet Maatschappelijke Ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md). Post B 20 is van toepassing op andere dan de hiervoor bedoelde gevallen.     
+### Post B 21 
 
 ####(vervallen per 1 oktober 2011)
 
@@ -3325,7 +3325,7 @@ De Europese BTW-richtlijn maakt de toepassing van het verlaagde btw-tarief allee
 
 ####Renovatie en herstel
 
-Het verlaagde tarief is van toepassing op de arbeidscomponent van alle renovatie- en herstelwerkzaamheden die in en aan een woning worden verricht. Onder renovatie- en herstelwerkzaamheden worden in dit verband verstaan: het vernieuwen, vergroten, herstellen of vervangen en onderhouden van (delen van) de woning. *Enkele voorbeelden van werkzaamheden waarop het verlaagde tarief van toepassing is*: 
+Het verlaagde tarief is van toepassing op de arbeidscomponent van alle renovatie- en herstelwerkzaamheden die in en aan een woning worden verricht. Onder renovatie- en herstelwerkzaamheden worden in dit verband verstaan: het vernieuwen, vergroten, herstellen of vervangen en onderhouden van (delen van) de woning.  *Enkele voorbeelden van werkzaamheden waarop het verlaagde tarief van toepassing is*: 
 
 – het aanbrengen, vernieuwen en onderhouden van de badkamer, toilet, keuken, dakterras, veranda, boilers, geisers, cv-installaties, gaskachels, zonnepanelen, zonneboilers, warmtepompen, invalidentrappen en rioleringen;  
 
@@ -3341,7 +3341,7 @@ Het verlaagde tarief is van toepassing op de arbeidscomponent van alle renovatie
 
 – het aanbrengen, vernieuwen en onderhouden van vloeren die in bouwkundig opzicht onderdeel (gaan) uitmaken van de woning. Onder vloeren die in bouwkundig opzicht onderdeel uitmaken van de woning worden ook vloeren begrepen, die zodanig zijn aangebracht dat verwijdering daarvan schade toebrengt aan de vloer als geheel. Bedoeld worden onder meer betonnen gietvloeren, plavuizen, tegels en sommige parketvloeren. Ook het via volledige verlijming aanbrengen van (onder)tapijt rechtstreeks op de originele vloer of trap valt onder de post.  
 
-– het renoveren en herstellen van een bejaardentehuis, aanleunwoning, appartementencomplex. Alleen die ruimten die ter beschikking staan van de bewoners (waaronder de gemeenschappelijke ruimten zoals de hal, trappenhuis, lift en recreatieruimten) worden als woning aangemerkt.   *Enkele voorbeelden van werkzaamheden waarop het verlaagde tarief niet van toepassing is*: 
+– het renoveren en herstellen van een bejaardentehuis, aanleunwoning, appartementencomplex. Alleen die ruimten die ter beschikking staan van de bewoners (waaronder de gemeenschappelijke ruimten zoals de hal, trappenhuis, lift en recreatieruimten) worden als woning aangemerkt.    *Enkele voorbeelden van werkzaamheden waarop het verlaagde tarief niet van toepassing is*: 
 
 – het aanbrengen, vernieuwen en onderhouden van zonwering, rolluiken, alarm- en airco-installaties en sauna’s die in bouwkundig opzicht geen onderdeel (gaan) uitmaken van de woning;  
 
@@ -3364,7 +3364,7 @@ Het verlaagde tarief is van toepassing op de arbeidscomponent van alle renovatie
 
 ####Arbeid en materiaal
 
-Het verlaagde tarief is uitsluitend van toepassing op de arbeidscomponent en niet op de materiaalcomponent van de renovatie- en herstelwerkzaamheid. Dit brengt met zich mee dat het verlaagde tarief ook niet van toepassing is op het kostprijselement arbeid van het materiaal. Slechts de arbeidskosten van de plaatsing/montering van het materiaal vallen onder het verlaagde tarief. Bij het aanbrengen van goederen in of aan een woning die van rechtswege overgaan op de eigenaar van de woning (bijvoorbeeld bij de vervanging van een keuken of een cv-installatie), kan over de ter zake van die aanbrenging verrichte arbeid het verlaagde tarief worden toegepast. De verhouding tussen de materialen en de arbeidscomponent van de renovatie-/herstelwerkzaamheid wordt vastgesteld door de ondernemer die factureert. Als voor het geheel één vergoeding in rekening wordt gebracht en er is op de factuur geen splitsing aangebracht tussen de materialen en de arbeid, dan dient voor de splitsing tussen de arbeid en de materialen aangesloten te worden bij de marktwaardemethode. Dit betekent een vergelijking met soortgelijke prestaties op de markt. Als een soortgelijke prestatie ontbreekt, wordt gesplitst op basis van de kostprijs. Daarbij worden de kosten van in eigen productie vervaardigde materialen aangemerkt als materiaalkosten (ook de factor arbeid). De (voorbereidende) installatiewerkzaamheden vallen wel onder het kostprijselement arbeid. Overheadkosten mogen naar evenredigheid over de arbeid en de materialen worden verdeeld. *Voorbeeld*: 
+Het verlaagde tarief is uitsluitend van toepassing op de arbeidscomponent en niet op de materiaalcomponent van de renovatie- en herstelwerkzaamheid. Dit brengt met zich mee dat het verlaagde tarief ook niet van toepassing is op het kostprijselement arbeid van het materiaal. Slechts de arbeidskosten van de plaatsing/montering van het materiaal vallen onder het verlaagde tarief. Bij het aanbrengen van goederen in of aan een woning die van rechtswege overgaan op de eigenaar van de woning (bijvoorbeeld bij de vervanging van een keuken of een cv-installatie), kan over de ter zake van die aanbrenging verrichte arbeid het verlaagde tarief worden toegepast. De verhouding tussen de materialen en de arbeidscomponent van de renovatie-/herstelwerkzaamheid wordt vastgesteld door de ondernemer die factureert. Als voor het geheel één vergoeding in rekening wordt gebracht en er is op de factuur geen splitsing aangebracht tussen de materialen en de arbeid, dan dient voor de splitsing tussen de arbeid en de materialen aangesloten te worden bij de marktwaardemethode. Dit betekent een vergelijking met soortgelijke prestaties op de markt. Als een soortgelijke prestatie ontbreekt, wordt gesplitst op basis van de kostprijs. Daarbij worden de kosten van in eigen productie vervaardigde materialen aangemerkt als materiaalkosten (ook de factor arbeid). De (voorbereidende) installatiewerkzaamheden vallen wel onder het kostprijselement arbeid. Overheadkosten mogen naar evenredigheid over de arbeid en de materialen worden verdeeld.  *Voorbeeld*: 
 
 – A (arbeidsuren)= € 10.000  
 
@@ -3408,11 +3408,11 @@ De volgende besluiten zijn met de inwerkingtreding van dit besluit ingetrokken:
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de datum van dit besluit. In afwijking hiervan treedt post B 21 in werking met terugwerkende kracht tot 1 oktober 2010 en vervalt met ingang van 1 oktober 2011.      Dit besluit zal in de Staatscourant worden geplaatst.   
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de datum van dit besluit. In afwijking hiervan treedt post B 21 in werking met terugwerkende kracht tot 1 oktober 2010 en vervalt met ingang van 1 oktober 2011.     Dit besluit zal in de Staatscourant worden geplaatst. 
 
 Den Haag 
 27 oktober 2011   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     
