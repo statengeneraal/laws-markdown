@@ -2,51 +2,62 @@
 
 ##Besluit van de Bestuurskamer van 22 december 2004, houdende mandatering aan de secretaris van de Bestuurskamer van de bevoegdheden van de Bestuurskamer in het kader van de heffing op grond van artikel 46a van de Wet op de ondernemingsraden (Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR)
 
-De Bestuurskamer;  
+De Bestuurskamer;
 Gelet op [artikel 3, tweede lid, van de Verordening heffing scholing en vorming van ondernemingsraadsleden 2005](../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2005/BWBR0017777/README.md);
-Besluit:     
-### §  1  
+Besluit:
+###§ 1 
 
 ####Begripsbepalingen
 
-### Artikel  1  
+Materieel uitgewerkt per 29-01-2006 
 
-In dit besluit wordt verstaan onder: 
+###Artikel 1 
+Materieel uitgewerkt per 29-01-2006 
 
-a. secretaris: secretaris van de Bestuurskamer;  
+In dit besluit wordt verstaan onder:
 
-b. verordening: [Verordening heffing scholing en vorming ondernemingsraadsleden 2005](../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2005/BWBR0017777/README.md).    
+a.secretaris: secretaris van de Bestuurskamer;
 
-### §  2  
+b.verordening: [Verordening heffing scholing en vorming ondernemingsraadsleden 2005](../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2005/BWBR0017777/README.md).
+
+###§ 2 
 
 ####Mandaatverlening
 
-### Artikel  2  
+Materieel uitgewerkt per 29-01-2006 
 
-1.  De secretaris kan namens de Bestuurskamer besluiten nemen op grond van [artikel 3, tweede lid, van de verordening](../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2005/BWBR0017777/README.md).   
-2.  De secretaris kan ondermandaat verlenen.   
+###Artikel 2 
+Materieel uitgewerkt per 29-01-2006 
 
-### §  3  
+1. De secretaris kan namens de Bestuurskamer besluiten nemen op grond van [artikel 3, tweede lid, van de verordening](../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2005/BWBR0017777/README.md).
+2. De secretaris kan ondermandaat verlenen.
+
+###§ 3 
 
 ####Slotbepalingen
 
-### Artikel  3  
+Materieel uitgewerkt per 29-01-2006 
 
-Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.  
+###Artikel 3 
+Materieel uitgewerkt per 29-01-2006 
 
-### Artikel  4  
+Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.
 
-Dit besluit treedt in werking op het tijdstip waarop de verordening in werking treedt.  
+###Artikel 4 
+Materieel uitgewerkt per 29-01-2006 
 
-### Artikel  5  
+Dit besluit treedt in werking op het tijdstip waarop de verordening in werking treedt.
 
-Dit besluit wordt aangehaald als: Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR.  
+###Artikel 5 
+Materieel uitgewerkt per 29-01-2006 
 
-Den Haag 
-22 december 2004    
+Dit besluit wordt aangehaald als: Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR.
 
-H.H.F. Wijffels  
-voorzitter  
+Den Haag
+22 december 2004
 
-D.B. Modderman  
-secretaris     
+H.H.F.Wijffels
+voorzitter
+
+D.B. Modderman
+secretaris

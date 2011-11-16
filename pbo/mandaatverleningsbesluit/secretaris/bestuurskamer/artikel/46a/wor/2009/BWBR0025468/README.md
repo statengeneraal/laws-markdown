@@ -4,43 +4,54 @@
 
 De Bestuurskamer;  
 Gelet op [artikel 2, eerste lid, van de Verordening heffing scholing en vorming van ondernemingsraadsleden 2009](../../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2009/BWBR0025056/README.md);
-Besluit:     
-### §  1  
+Besluit:    
+###§ 1 
 
 ####Begripsbepalingen
 
-### Artikel  1  
+Materieel uitgewerkt per 02-01-2010 
 
-In dit besluit wordt verstaan onder: 
+###Artikel 1 
+Materieel uitgewerkt per 02-01-2010 
 
-a. secretaris: secretaris van de Bestuurskamer;  
+In dit besluit wordt verstaan onder:
 
-b. verordening: [Verordening heffing scholing en vorming ondernemingsraadsleden 2009](../../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2009/BWBR0025056/README.md).    
+a.secretaris: secretaris van de Bestuurskamer;
 
-### §  2  
+b.verordening: [Verordening heffing scholing en vorming ondernemingsraadsleden 2009](../../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2009/BWBR0025056/README.md).
+
+###§ 2 
 
 ####Mandaatverlening
 
-### Artikel  2  
+Materieel uitgewerkt per 02-01-2010 
 
-1.  De secretaris kan namens de Bestuurskamer besluiten nemen op grond van [artikel 2, eerste lid, van de verordening](../../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2009/BWBR0025056/README.md).   
-2.  De secretaris kan ondermandaat verlenen.   
+###Artikel 2 
+Materieel uitgewerkt per 02-01-2010 
 
-### §  3  
+1. De secretaris kan namens de Bestuurskamer besluiten nemen op grond van [artikel 2, eerste lid, van de verordening](../../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2009/BWBR0025056/README.md).
+2. De secretaris kan ondermandaat verlenen.
+
+###§ 3 
 
 ####Slotbepalingen
 
-### Artikel  3  
+Materieel uitgewerkt per 02-01-2010 
 
-Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.  
+###Artikel 3 
+Materieel uitgewerkt per 02-01-2010 
 
-### Artikel  4  
+Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.
 
-Dit besluit treedt in werking op het tijdstip waarop de [verordening](../../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2009/BWBR0025056/README.md) in werking treedt.  
+###Artikel 4 
+Materieel uitgewerkt per 02-01-2010 
 
-### Artikel  5  
+Dit besluit treedt in werking op het tijdstip waarop de [verordening](../../../../../../../../../pbo/verordening/heffing/scholing/en/vorming/ondernemingsraadsleden/2009/BWBR0025056/README.md) in werking treedt.
 
-Dit besluit wordt aangehaald als: Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR 2009.  
+###Artikel 5 
+Materieel uitgewerkt per 02-01-2010 
+
+Dit besluit wordt aangehaald als: Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR 2009.
 
 Den Haag 
 22 december 2008   
