@@ -9,6 +9,7 @@ Overwegende dat door de Minister van Verkeer en Waterstaat op grond van de [rege
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2008 
 
 De tarieven van de CBR-examens op grond van de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) luiden als volgt:  
 
@@ -49,11 +50,12 @@ De tarieven van de CBR-examens op grond van de [Wegenverkeerswet 1994](../../../
 | 3.  | Medische geschiktheid  | --- | --- |
 | 3.1  | Eigen Verklaring  | €  | 19,55*  |
 | 3.2  | Toeslag spoedbehandeling eigen verklaring  | €  | 5,95*  |
-| De met * bemerkte tarieven zijn inclusief 19% BTW. Waar geen * vermeld wordt, bestaat vrijstelling van BTW.  |
+|De met * bemerkte tarieven zijn inclusief 19% BTW. Waar geen * vermeld wordt, bestaat vrijstelling van BTW.  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2008 
 
-Deze regeling treedt in werking met ingang van 1 januari 2007.  
+Deze regeling treedt in werking met ingang van 1 januari 2007. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Rijswijk 
@@ -61,4 +63,4 @@ Rijswijk
 
 De 
 Algemeen Directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, 
-F.C.A.Meijer   
+F.C.A. Meijer     

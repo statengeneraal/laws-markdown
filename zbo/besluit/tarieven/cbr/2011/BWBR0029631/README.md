@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit tarieven CBR 2011
+## Besluit tarieven CBR 2011
 
 De algemeen directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen,  
 Gelet op de [artikelen 51](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [57](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [98](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [158](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [197 lid 2 van het Reglement Rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);
@@ -9,6 +9,7 @@ Overwegende dat door de Minister van Verkeer en Waterstaat op grond van de regel
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2012 
 
 De tarieven van de CBR-examens op grond van de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) luiden als volgt:  
 
@@ -60,16 +61,17 @@ De tarieven van de CBR-examens op grond van de [Wegenverkeerswet 1994](../../../
 |  *3.*   |  *Medische geschiktheid*   | --- |
 | 3.1  | Eigen Verklaring (voor Verklaring van geschiktheid)  | € 23,05  |
 
-Alle tarieven zijn inclusief 19% BTW.  
+Alle tarieven zijn inclusief 19% BTW. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2012 
 
-Deze regeling treedt in werking met ingang van 1 januari 2011.  
+Deze regeling treedt in werking met ingang van 1 januari 2011. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Rijswijk 
 4 oktober 2010   
 
 De 
-algemeen directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen,
-S.M.Zijderveld   
+algemeen directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, 
+S.M. Zijderveld     

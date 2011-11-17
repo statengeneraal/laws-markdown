@@ -2,13 +2,14 @@
 
 ##Regeling tarieven CBR-examens 2008
 
-De algemeen directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen,  
+De algemeen directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, 
 Gelet op de [artikelen 51](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [57](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [98](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [158](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [197 lid 2 van het Reglement Rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);
 
 Overwegende dat door de Minister van Verkeer en Waterstaat op grond van de regeling van 14 mei 1996, Staatscourant 101 goedkeuring is verleend als bedoeld in vorenvermelde artikelen;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2009 
 
 De tarieven van de CBR-examens op grond van de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) luiden als volgt:  
 
@@ -50,16 +51,17 @@ De tarieven van de CBR-examens op grond van de [Wegenverkeerswet 1994](../../../
 | 3.1  | Eigen Verklaring  | €  | 19,75  | *  |
 | 3.2  | Toeslag spoedbehandeling eigen verklaring  | €  | 6,10  | *  |
 
-De met * bemerkte tarieven zijn inclusief 19% BTW. Waar geen * vermeld wordt, bestaat vrijstelling van BTW.  
+De met * bemerkte tarieven zijn inclusief 19% BTW. Waar geen * vermeld wordt, bestaat vrijstelling van BTW. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2009 
 
-Deze regeling treedt in werking met ingang van 1 januari 2008.  
+Deze regeling treedt in werking met ingang van 1 januari 2008. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Rijswijk 
 8 november 2007   
 
 De 
-algemeen directeur a.i. van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, 
-C.Anker   
+algemeen directeur a.i. van de Stichting Centraal Bureau Rijvaardigheidsbewijzen,
+C. Anker     
