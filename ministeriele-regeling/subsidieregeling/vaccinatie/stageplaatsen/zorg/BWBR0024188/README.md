@@ -30,12 +30,12 @@ d. opleiding:
 
 e. studiejaar: tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 1°, of tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 2°;  
 
-f. deelnemer: door een onderwijsinstelling voor bekostiging aangemeld natuurlijke persoon die in een studiejaar ingeschreven staat of heeft gestaan voor een zorgopleiding en in het daaraan voorafgaande studiejaar niet stond ingeschreven voor een opleiding.    
+f. deelnemer: door een onderwijsinstelling voor bekostiging aangemeld natuurlijke persoon die in een studiejaar ingeschreven staat of heeft gestaan voor een zorgopleiding en in het daaraan voorafgaande studiejaar niet stond ingeschreven voor een opleiding.   
 
 ### Artikel  2  
 
 1.  De Minister kan aan een onderwijsinstelling jaarlijks een subsidie verstrekken voor het aanbieden en toedienen van vaccinatie tegen hepatitis B aan een deelnemer van een zorgopleiding.   
-2.  De subsidie wordt per studiejaar verstrekt.   
+2.  De subsidie wordt per studiejaar verstrekt.  
 
 ### Artikel  3  
 
@@ -43,7 +43,7 @@ f. deelnemer: door een onderwijsinstelling voor bekostiging aangemeld natuurlijk
 2.  Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.   
 3.  De aanvraag wordt ingediend uiterlijk 1 mei van het studiejaar voorafgaand aan het studiejaar waarvoor de subsidie wordt aangevraagd.   
 4.  De aanvraag wordt ondertekend door een persoon die daartoe bevoegd is.   
-5.  De Minister kan vrijstelling en ontheffing verlenen van de in het derde lid genoemde aanvraagtermijn.   
+5.  De Minister kan vrijstelling en ontheffing verlenen van de in het derde lid genoemde aanvraagtermijn.  
 
 ### Artikel  4  
 
@@ -51,7 +51,7 @@ f. deelnemer: door een onderwijsinstelling voor bekostiging aangemeld natuurlijk
 2.  De subsidie wordt slechts verstrekt indien naar het oordeel van de Minister mag worden verwacht dat de met de subsidiëring beoogde doeleinden zullen worden bereikt.   
 3.  De subsidie wordt vastgesteld op een door de Minister te bepalen bedrag dat in het besluit tot vaststelling wordt genoemd.   
 4.  De Minister betaalt het bedrag van de subsidie in één keer.   
-5.  De Minister kan bij de vaststelling van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.   
+5.  De Minister kan bij de vaststelling van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.  
 
 ### Artikel  5  
 
@@ -59,7 +59,7 @@ De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waa
 
 A het aantal door de onderwijsinstelling voor bekostiging aangemelde natuurlijke personen dat op 1 oktober van het tweede studiejaar voorafgaande aan het studiejaar waarvoor de subsidie wordt verstrekt ingeschreven stond voor een zorgopleiding en op 1 oktober van het derde studiejaar voorafgaande aan het studiejaar waarvoor de subsidie wordt verstrekt niet ingeschreven stond voor een opleiding;  
 
-B een normbedrag van € 125.    
+B een normbedrag van € 125.   
 
 ### Artikel  6  
 
@@ -69,7 +69,7 @@ a. het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderw
 
 b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) voor een zorgopleiding als bedoeld in artikel 1, onderdeel c, onder 2°, en voor een opleiding als bedoeld in artikel 1, onderdeel d, onder 2°.     
 2.  Indien een persoon voor meerdere opleidingen is ingeschreven, telt uitsluitend de hoofdinschrijving.   
-3.  Een persoon die is ingeschreven voor de zorgopleiding Applied Science met code 30008, telt mee voor 0,6 in plaats van 1.   
+3.  Een persoon die is ingeschreven voor de zorgopleiding Applied Science met code 30008, telt mee voor 0,6 in plaats van 1. 
 
 ### Artikel  7  
 
@@ -79,7 +79,7 @@ b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 
 a. het aanbod, bedoeld in het eerste lid, op doelmatige en doeltreffende wijze wordt gedaan;  
 
 b. elke deelnemer in de gelegenheid wordt gesteld daadwerkelijk gebruik te maken van het aanbod, bedoeld in het eerste lid.     
-3.  De onderwijsinstelling streeft naar een zo hoog mogelijke vaccinatiegraad van haar deelnemers.   
+3.  De onderwijsinstelling streeft naar een zo hoog mogelijke vaccinatiegraad van haar deelnemers.  
 
 ### Artikel  8  
 
@@ -93,26 +93,26 @@ b. elke deelnemer in de gelegenheid wordt gesteld daadwerkelijk gebruik te maken
 a. het aannemelijk is geworden dat niet of niet geheel aan de subsidieverplichtingen zal worden voldaan of  
 
 b. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.     
-3.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.   
+3.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.  
 4.  De onderwijsinstelling verstrekt aan de door de Minister aangewezen personen op hun verzoek alle bescheiden en inlichtingen die noodzakelijk zijn voor een juiste vervulling van hun taak.   
-5.  De onderwijsinstelling werkt mee aan de door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.   
+5.  De onderwijsinstelling werkt mee aan de door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.  
 
 ### Artikel  13  
 
-De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.  
+De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard. 
 
 ### Artikel  14  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  15  
 
-Deze regeling wordt aangehaald als: Subsidieregeling vaccinatie stageplaatsen zorg.  
+Deze regeling wordt aangehaald als: Subsidieregeling vaccinatie stageplaatsen zorg. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink  
+A. Klink    
 
 ### Bijlage  1  
 
@@ -120,7 +120,7 @@ A.Klink
 
 | Studiejaar  | Code  | Naam  |
 |:---|:---|:---|
-| vanaf 2008/2009  | 10775  | Tandartsassistent  |
+| vanaf 2008/2009  | 10775  | Tandartsassistent   |
 | vanaf 2008/2009  | 91410  | Tandartsassistent  |
 | vanaf 2008/2009  | 10776  | Doktersassistent  |
 | vanaf 2008/2009  | 91310  | Doktersassistent  |
@@ -151,7 +151,7 @@ A.Klink
 | vanaf 2008/2009  | 91704  | Biomedisch analist (Pathologie)  |
 | vanaf 2008/2009  | 93710  | Analist  |
 | vanaf 2008/2009  | 93711  | Analist (Analist klinische chemie)  |
-| vanaf 2008/2009  | 93712  | Analist (Analist pathologie)  |
+| vanaf 2008/2009  | 93712  | Analist (Analist pathologie)   |
 | vanaf 2008/2009  | 93713  | Analist (Biotechnologisch analist)  |
 | vanaf 2008/2009  | 93715  | Analist (Microbiologisch analist)  |
 | vanaf 2008/2009  | 92650  | Maatschappelijke Zorg (Medewerker Maatschappelijke zorg) 3  |
@@ -168,11 +168,11 @@ A.Klink
 | vanaf 2009/2010  | 91350  | Helpende  |
 | vanaf 2009/2010  | 91351  | Helpende (Zorg)  |
 | vanaf 2009/2010  | 92640  | Helpende Zorg & Welzijn  |
-| vanaf 2010/2011  | 80030  | Experimentele leergang vmbo-mbo niveau 2 in de sector zorg en welzijn  |
-| vanaf 2010/2011  | 91720  | Laboratoriummedewerker (Laborant)  |
+|vanaf 2010/2011 |80030  |Experimentele leergang vmbo-mbo niveau 2 in de sector zorg en welzijn  |
+|vanaf 2010/2011 |91720  |Laboratoriummedewerker (Laborant) |
 | vanaf 2011/2012  | 92860  | Orthopedisch technisch medewerker  |
-| vanaf 2011/2012  | 95520  | MBO-verpleegkundige  |
-| vanaf 2011/2012  | 95530  | Verzorgende-IG  |
+|vanaf 2011/2012 |95520 |MBO-verpleegkundige |
+|vanaf 2011/2012 |95530 |Verzorgende-IG |
 
 ### Bijlage  2  
 
@@ -188,11 +188,11 @@ A.Klink
 | vanaf 2008/2009  | 34581  | Opleiding Podotherapie  |
 | vanaf 2008/2009  | 34331  | Biotechnologie  |
 | vanaf 2008/2009  | 34561  | Medisch Beeldvormende en Radiotherapeutische Techniek  |
-| vanaf 2008/2009  | 30008  | Applied Science  |
+| vanaf 2008/2009  | 30008  | Applied Science   |
 | vanaf 2009/2010  | 39217  | Biometrie  |
-| vanaf 2009/2010  | 34549  | B Optometrie  |
-| vanaf 2009/2010  | 34577  | B Orthoptie  |
-| vanaf 2010/2011  | 34953  | B Orthopedische technologie  |
+| vanaf 2009/2010  | 34549   | B Optometrie  |
+| vanaf 2009/2010  | 34577  | B Orthoptie   |
+|vanaf 2010/2011  |34953  |B Orthopedische technologie |
 | vanaf 2011/2012  | 30023  | B Medische Hulpverlening  |
 | vanaf 2011/2012  | 34571  | B Oefentherapie Cesar  |
 | vanaf 2011/2012  | 34572  | B Opleiding tot Oefentherapeut-Mensendieck  |

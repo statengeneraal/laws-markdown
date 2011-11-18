@@ -7,6 +7,7 @@ Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](..
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-1991 
 
 Het bedrag dat personen die gemoedsbezwaren hebben tegen het sluiten van een verzekering verschuldigd zijn voor het verkrijgen van een bewijs van vrijstelling van de verplichting van verzekering beloopt voor het jaar 1990: 
 
@@ -24,24 +25,26 @@ Categorie 6 f 12,00 voor motorrijwielen, scooters, motorcarriers en overige niet
 
 Categorie 7 f 12,00 voor landbouwwerktuigen;  
 
-Categorie 8 f 12,00 voor rijwielen met hulpmotor.    
+Categorie 8 f 12,00 voor rijwielen met hulpmotor.   
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-1991 
 
-Deze regeling treedt in werking met ingang van 1 januari 1990.  
+Deze regeling treedt in werking met ingang van 1 januari 1990. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-1991 
 
-Deze regeling wordt in de Staatscourant geplaatst.  
+Deze regeling wordt in de Staatscourant geplaatst. 
 
 's-Gravenhage 
 29 november 1989    
 
 De 
-minister van Financiën, 
+minister van Financiën,  
 
 namens deze: 
 
 De 
-plv. directeur Binnenlands Geldwezen
-A. P.Ranner    
+plv. directeur Binnenlands Geldwezen 
+A. P. Ranner     

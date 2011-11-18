@@ -29,5 +29,5 @@ Categorie 8: f 12,00 voor rijwielen met hulpmotor.
 
 De 
 minister van Financiën, namens deze, De 
-directeurBinnenlandse Geldwezen, 
-L. C. F. A. J. S. deLeur    
+directeur  Binnenlandse Geldwezen, 
+L. C. F. A. J. S. de  Leur      
