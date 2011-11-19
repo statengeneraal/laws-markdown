@@ -284,7 +284,7 @@ b. indien de wijziging ambtshalve plaatsvindt, met ingang van de eerste dag van 
 
 ####Inkomsten uit of in verband met arbeid of bedrijf
 
-1.  De inkomsten die de belanghebbende geniet, worden met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben.   
+1.  De inkomsten die de belanghebbende geniet, worden bepaald overeenkomstig de regels van de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en worden met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben.   
 2.  Voor de toepassing van het eerste lid wordt onder inkomsten verstaan het gezamenlijk bedrag dat de belanghebbende wegens het verrichten van activiteiten geniet als 
 
 a. winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
@@ -362,10 +362,20 @@ b. in zover de belanghebbende die recht heeft op uitkering, maar die minder uitk
 
 c. indien de belanghebbende daarom verzoekt.     
 5.  Indien voor de pensioenberekening in aanmerking te nemen tijd als minister en als staatssecretaris voor het pensioen meetellen, wordt over elk van die tijden een afzonderlijk pensioen berekend. De som van die pensioenen wordt als een eenheid toegekend.   
-6.  De minister en de gewezen minister hebben bij ingang van het pensioen eenmalig de keuzemogelijkheid het pensioen met 12 percent te verhogen, voorzover het is berekend over diensttijd die is gelegen na 30 juni 1999 en die overeenkomt met de tijd die krachtens artikel 22 voor de berekening van het nabestandenpensioen in aanmerking wordt genomen.   
+6.  De minister en de gewezen minister hebben bij ingang van het pensioen eenmalig de keuzemogelijkheid het pensioen met 12 percent te verhogen, voorzover het is berekend over diensttijd die is gelegen na 30 juni 1999 en die overeenkomt met de tijd die krachtens artikel 22 voor de berekening van het nabestaandenpensioen in aanmerking wordt genomen.   
 7.  Met de verhoging van het pensioen, bedoeld in het zesde lid, vervalt de aanspraak op nabestaandenpensioen, voorzover opgebouwd na 30 juni 1999.   
 8.  De keuze, bedoeld in het zesde lid, kan slechts worden gedaan met toestemming van de echtgenoot of de aangemelde partner. Onze Minister kan nadere regels stellen met betrekking tot het doen van de keuze.   
 9.  De verhoging van het pensioen gaat in met ingang van de dag waarop het recht op pensioen ontstaat en is onherroepelijk.   
+
+### Artikel  13b  
+
+1.  De gewezen minister kan na afloop van de uitkeringsduur, bedoeld in artikel 7, eerste of tweede lid, de vanaf 1 augustus 2003 opgebouwde aanspraken op eigen pensioen omzetten in een aanspraak op nabestaandenpensioen bij overlijden voor het bereiken van de leeftijd van 65 jaar.   
+2.  Voor de omzetting van het eigen pensioen, bedoeld in het eerste lid, stelt Onze Minister bij ministeriële regeling een leeftijdsafhankelijke ruilvoet vast.   
+3.  Onze Minister informeert de gewezen minister binnen vier maanden voor de afloop van zijn uitkering over de mogelijkheid, bedoeld in het eerste lid.   
+4.  De gewezen minister dient zijn keuze binnen zes weken na ontvangst van deze mededeling schriftelijk aan Onze Minister mee te delen. Tot het moment van het eindigen van de termijn van zes weken, verkrijgt de gewezen minister een premievrije aanspraak op nabestaandenpensioen overeenkomstig de tijd tot het moment van aftreden van de minister.   
+5.  Als omzetting als bedoeld in het eerste lid gevolgd wordt door een waardeoverdracht als bedoeld in artikel 107, wordt de vermindering van het eigen pensioen aangepast. De aanspraak op nabestaandenpensioen als bedoeld in het eerste lid, wordt omgezet in een aanspraak op eigen pensioen met inachtneming van de ruilvoet, bedoeld in het tweede lid.   
+6.  Als een gewezen minister op enig moment opnieuw minister wordt, wordt de vermindering van het eigen pensioen, bedoeld in het eerste lid, aangepast. De aanspraak op nabestaandenpensioen als bedoeld in het eerste lid, wordt omgezet in een aanspraak op eigen pensioen met inachtneming van de ruilvoet, bedoeld in het tweede lid, behorende bij de leeftijd van de minister op het moment dat hij opnieuw het ambt van minister vervult.   
+7.  Het vijfde en zesde lid zijn niet van toepassing bij het einde van het huwelijk na aftreden van de minister en voor waardeoverdracht of voor het opnieuw vervullen van het ministerschap.   
 
 ### Artikel  14  
 
@@ -429,7 +439,7 @@ a. indien het huwelijk is gesloten nadat de gepensioneerde minister de leeftijd 
 
 b. bij overlijden van een gewezen minister vóór het bereiken van de leeftijd van 65 jaar, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;  
 
-c. bij overlijden van een gepensioneerd minister, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in artikel 13a, vijfde lid.     
+c. bij overlijden van een gepensioneerd minister, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in artikel 13a, zesde lid.     
 3.  Voor de toepassing van het tweede lid geldt niet als gewezen minister de gewezen minister met recht op uitkering als bedoeld in artikel 6.   
 
 ### Artikel  17  
@@ -450,7 +460,7 @@ b. indien de onder a bedoelde vrouw of man als gevolg van hertrouwen met of aanm
 
 c. bij overlijden van een minister of gewezen minister voor de leeftijd van 65 jaar, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;  
 
-d. bij overlijden van een gepensioneerd minister voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in artikel 13a, vijfde lid.     
+d. bij overlijden van een gepensioneerd minister voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in artikel 13a, zesde lid.     
 
 ### Artikel  18  
 
@@ -488,7 +498,6 @@ a. als minister vóór het bereiken van de leeftijd van 65 jaar, vijf zevende ge
 b. als gewezen minister in de periode, waarover hem een uitkering is toegekend, vijf zevende deel van het pensioen waarop de gewezen minister aanspraak zou hebben kunnen maken, indien hij tot het bereiken van de leeftijd van 65 jaar recht op uitkering zou hebben gehad, met dien verstande, dat voor de berekening van het pensioen de diensttijd wordt doorgeteld naar de mate van medetelling van diensttijd op de dag van overlijden.      
 3.  Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat zowel op nabestaandenpensioen krachtens deze afdeling als op een nabestaandenpensioen krachtens of op de voet van de derde of vijfde afdeling van deze wet, wordt voor de berekening van de eigen pensioenen waarvan de nabestaandenpensioenen zijn afgeleid, tijd, die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.   
 4.  Bij de toepassing van de voorgaande leden wordt ten aanzien van het eigen pensioen voor zover artikel 14a daarop van toepassing is, in alle gevallen gerekend met de franchise bedoeld in artikel 14a, derde lid onder a.   
-5.  Het nabestaandenpensioen wordt verminderd indien de nabestaande meer dan tien jaar jonger was dan de overledene en het huwelijk dan wel de aanmelding op de dag van overlijden nog geen vijf jaar heeft geduurd. De vermindering bedraagt drie procent voor elk vol jaar dat het leeftijdsverschil meer dan tien jaar bedraagt.   
 
 ### Artikel  22a  
 
@@ -700,6 +709,11 @@ De met ingang van een datum voorafgaande aan het tijdstip van de inwerkingtredin
 
 Pensioenen toegekend ter zake van een ontslag verleend met een ingangsdatum gelegen vóór 1 januari 1964 worden afgeleid van de laatstelijk als minister genoten wedde, nadat daarop in mindering is gebracht een zodanig gedeelte van de ter zake van die wedde berekende premie, als bedoeld in [artikel 23 van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), als geacht moet worden door wedde-verhoging te zijn gecompenseerd.  
 
+### Artikel  40a  
+
+1.  In afwijking van artikel 13b, derde lid, informeert Onze Minister de gewezen minister van wie de uitkeringsduur, bedoeld in artikel 7, eerste of tweede lid, is geëindigd in de periode gelegen tussen 31 december 2007 en de dag van inwerkingtreding van de [Wet aanpassing Appa en enkele andere wetten 2011](../../../../../../wet/wet/aanpassing/appa/en/enkele/andere/wetten/2011/BWBR0030652/README.md), binnen vier maanden na inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011 over de mogelijkheid, bedoeld in artikel 13b, eerste lid.   
+2.  De gewezen minister kan tot een jaar na de inwerkingtreding van de [Wet aanpassing Appa en enkele andere wetten 2011](../../../../../../wet/wet/aanpassing/appa/en/enkele/andere/wetten/2011/BWBR0030652/README.md) Onze Minister verzoeken tot omzetting van eigen pensioen in nabestaandenpensioen als bedoeld in artikel 13b.   
+
 ### Artikel  41  
 
 ####Het recht op weduwen- en wezenpensioen (behoort bij hoofdstuk 5, § 1)
@@ -808,7 +822,7 @@ b. indien aan de belanghebbende rechtens zijn vrijheid is ontnomen.
 
 1.  De uitkering wordt toegekend voor een duur gelijk aan de tijd waarin de belanghebbende kamerlid is geweest, maar ten minste voor de duur van twee jaren en ten hoogste voor de duur van vier jaren. Indien de belanghebbende met een of meer onderbrekingen kamerlid is geweest, wordt in aanmerking genomen de tijd gedurende welke hij kamerlid is geweest in een tijdvak, laatstelijk voor zijn aftreden, waarin zijn kamerlidmaatschap voor ten hoogste een zesde deel van dat tijdvak is onderbroken.   
 2.  In afwijking van het eerste lid wordt de uitkering toegekend voor de duur van zes maanden, indien de belanghebbende korter dan drie maanden kamerlid is geweest.   
-3.  Indien de belanghebbende ten tijde van zijn aftreden de leeftijd van 55 jaar heeft bereikt en hij in het tijdvak van twaalf jaren dat direct aan zijn aftreden voorafgaat ten minste tien jaren kamerlid is geweest, wordt de uitkering voortgezet tot het tijdstip waarop hij de leeftijd van 65 jaar bereikt. Indien de belanghebbende gedurende een onderbreking van zijn kamerlidmaatschap in een tijdvak als evenbedoeld minister is geweest, wordt dat tijdvak verlengd met de duur van de tijd waarin hij minister was.   
+3.  Indien de belanghebbende ten tijde van zijn aftreden de leeftijd van 55 jaar heeft bereikt en hij in het tijdvak van twaalf jaren dat direct aan zijn aftreden voorafgaat ten minste tien jaren kamerlid is geweest, wordt de uitkering voortgezet tot het tijdstip waarop hij de leeftijd van 65 jaar bereikt.   
 4.  Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het derde lid, wordt met tijd waarin de belanghebbende kamerlid is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in artikel 2, tweede lid, onder a en d. Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbrekingen in de uitoefening van deze functies.   
 5.  Voor de toepassing van dit artikel wordt onder kamerlid mede begrepen lid van het Europees Parlement, voorzover dat lidmaatschap niet gelijktijdig werd vervuld met het kamerlidmaatschap. Voor de vaststelling van de tijd gedurende welke de belanghebbende kamerlid is geweest, telt niet mee de tijd gedurende welke de schadeloosstelling als kamerlid niet werd genoten.   
 6.  In geval van tussentijds vervallen van de uitkering krachtens artikel 56, tweede lid, onder b, wordt de volgende uitkering toegekend ten minste tot het tijdstip waarop eerstgenoemde uitkering, indien zij niet was vervallen, zou zijn geëindigd.   
@@ -954,7 +968,7 @@ b. indien de wijziging ambtshalve plaatsvindt, met ingang van de eerste dag van 
 
 ####Inkomsten uit of in verband met arbeid of bedrijf
 
-1.  De inkomsten die de belanghebbende geniet, worden met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben.   
+1.  De inkomsten die de belanghebbende geniet, worden bepaald overeenkomstig de regels van de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en worden met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben.   
 2.  Voor de toepassing van het eerste lid wordt onder inkomsten verstaan het gezamenlijk bedrag dat de belanghebbende wegens het verrichten van activiteiten geniet als 
 
 a. winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
@@ -1027,10 +1041,20 @@ a. voor zover gedurende de in dat lid bedoelde tijd de uitkering wegens het geni
 b. in zover de belanghebbende die recht heeft op uitkering, maar die minder uitkering geniet dan de krachtens artikel 106 berekende inhoudingen ter zake van ouderdom en overlijden, er geen zorg voor draagt dat het bedrag van deze inhoudingen, welk bedrag in dit geval als een op hem rustende schuld wordt beschouwd, bij het bereiken van de 65-jarige leeftijd is voldaan;  
 
 c. indien de belanghebbende daarom verzoekt.     
-6.  Een kamerlid en een gewezen kamerlid hebben bij ingang van het pensioen eenmalig de keuzemogelijkheid het pensioen met 12 percent te verhogen, voorzover het is berekend over kamerlidtijd die is gelegen na 30 juni 1999 en die overeenkomt met de tijd die krachtens artikel 67 voor de berekening van het nabestandenpensioen in aanmerking wordt genomen.   
+6.  Een kamerlid en een gewezen kamerlid hebben bij ingang van het pensioen eenmalig de keuzemogelijkheid het pensioen met 12 percent te verhogen, voorzover het is berekend over kamerlidtijd die is gelegen na 30 juni 1999 en die overeenkomt met de tijd die krachtens artikel 67 voor de berekening van het nabestaandenpensioen in aanmerking wordt genomen.   
 7.  Met de verhoging van het pensioen, bedoeld in het zesde lid, vervalt de aanspraak op nabestaandenpensioen, voorzover opgebouwd na 30 juni 1999.   
 8.  De keuze, bedoeld in het zesde lid, kan slechts worden gedaan met toestemming van de echtgenoot of de aangemelde partner. Onze Minister kan nadere regels stellen met betrekking tot het doen van de keuze.   
 9.  De verhoging van het pensioen gaat in met ingang van de dag waarop het recht op pensioen ontstaat en is onherroepelijk.   
+
+### Artikel  58b  
+
+1.  Een gewezen kamerlid kan na afloop van de uitkeringsduur, bedoeld in artikel 52, eerste of tweede lid, de vanaf 1 augustus 2003 opgebouwde aanspraken op eigen pensioen omzetten in een aanspraak op nabestaandenpensioen bij overlijden voor het bereiken van de leeftijd van 65 jaar.   
+2.  Voor de omzetting van het eigen pensioen, bedoeld in het eerste lid, stelt Onze Minister bij ministeriële regeling een leeftijdsafhankelijke ruilvoet vast.   
+3.  Onze Minister informeert het gewezen kamerlid binnen vier maanden voor het einde van de uitkering over de mogelijkheid, bedoeld in het eerste lid.   
+4.  Het gewezen kamerlid dient zijn keuze binnen zes weken na ontvangst van deze mededeling schriftelijk aan Onze Minister mee te delen. Tot het moment van het eindigen van de termijn van zes weken, verkrijgt het gewezen kamerlid een premievrije aanspraak op nabestaandenpensioen overeenkomstig de tijd tot het moment van aftreden van het kamerlid.   
+5.  Als omzetting als bedoeld in het eerste lid gevolgd wordt door een waardeoverdracht als bedoeld in artikel 107, wordt de vermindering van het eigen pensioen aangepast. De aanspraak op nabestaandenpensioen als bedoeld in het eerste lid, wordt omgezet in een aanspraak op eigen pensioen met inachtneming van de ruilvoet, bedoeld in het tweede lid.   
+6.  Als een gewezen kamerlid op enig moment opnieuw kamerlid wordt, wordt de vermindering van het eigen pensioen, bedoeld in het eerste lid, aangepast. De aanspraak op nabestaandenpensioen als bedoeld in het eerste lid, wordt omgezet in een aanspraak op eigen pensioen met inachtneming van de ruilvoet, bedoeld in het tweede lid, behorende bij de leeftijd van het kamerlid op het moment dat hij opnieuw lid van de Tweede Kamer wordt.   
+7.  Het vijfde en zesde lid zijn niet van toepassing bij het einde van het huwelijk na aftreden van het kamerlid en voor waardeoverdracht of voor het opnieuw lid worden van de Tweede Kamer.   
 
 ### Artikel  59  
 
@@ -1049,9 +1073,9 @@ c. indien de belanghebbende daarom verzoekt.
 2.  De berekeningsgrondslag wordt voor de toepassing van het eerste lid vermenigvuldigd met een debruteringsfactor indien de schadeloosstelling laatstelijk is genoten na 31 december 1994. Deze factor is de breuk, waarvan de teller honderd bedraagt en de noemer de som is van honderd en het percentage waarmee het inkomen als kamerlid per 1 januari 1995 uitsluitend ter uitvoering van [artikel II van de wet van 19 mei 1994 tot wijziging van de Algemene pensioenwet politieke ambtsdragers (onder andere ter zake van inhoudingen op het inkomen en gelijke franchise voor de pensioenberekening)](../../../../../../wet/wijzigingswet/algemene/pensioenwet/politieke/ambtsdragers/(3)/(onder/etc/BWBR0006684/README.md) (Stb. 418) is gewijzigd.   
 3.  De in het eerste lid bedoelde franchise is: 
 
-a. voor het gepensioneerde kamerlid dat voor de toepassing van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) als gehuwd wordt aangemerkt twintig zevende maal het tot een jaarbedrag herleide bedrag dat geldt voor een gehuwde per 1 januari van het jaar waarin het recht op pensioen ontstaat;  
+a. voor het gepensioneerde kamerlid dat voor de toepassing van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) als gehuwd wordt aangemerkt twintig zevende maal het tot een jaarbedrag herleide bedrag dat geldt voor een gehuwde per 1 januari van het jaar waarin het recht op pensioen ontstaat;  
 
-b. voor het gepensioneerde kamerlid dat voor de toepassing van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) als ongehuwd wordt aangemerkt tien zevende maal het tot een jaarbedrag herleide bedrag dat geldt voor een ongehuwde per 1 januari van het jaar waarin het recht op pensioen ontstaat.     
+b. voor het gepensioneerde kamerlid dat voor de toepassing van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) als ongehuwd wordt aangemerkt tien zevende maal het tot een jaarbedrag herleide bedrag dat geldt voor een ongehuwde per 1 januari van het jaar waarin het recht op pensioen ontstaat.     
 4.  In de in het derde lid bedoelde bedragen is mede begrepen de bruto vakantie-uitkering waarop ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) recht bestaat.   
 5.  Wanneer de in het derde lid bedoelde bedragen op grond van persoonlijke omstandigheden worden gewijzigd, wordt de pensioengrondslag herberekend. Het herberekende pensioen gaat, onverminderd artikel 59c, tweede lid, in op dezelfde dag als waarop de bedoelde wijzigingen zich hebben voorgedaan.   
 
@@ -1153,14 +1177,13 @@ a. als kamerlid vóór het bereiken van de leeftijd van 65 jaar, vijf zevende ge
 b. als gewezen kamerlid in de periode, waarover hem een uitkering is toegekend, vijf zevende gedeelte van het pensioen waarop het gewezen kamerlid aanspraak zou hebben kunnen maken, indien hij tot het bereiken van de leeftijd van 65 jaar recht op uitkering zou hebben gehad, met dien verstande dat voor de berekening van het pensioen de kamerlidtijd wordt doorgeteld naar de mate van medetelling van kamerlidtijd op de dag van overlijden.     
 3.  Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat zowel op nabestaandenpensioen krachtens deze afdeling als op een nabestaandenpensioen krachtens of op de voet van de tweede of vijfde afdeling van deze wet, wordt voor de berekening van de eigen pensioenen waarvan de nabestaandenpensioenen zijn afgeleid, tijd die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.   
 4.  Bij de toepassing van de voorgaande leden wordt ten aanzien van het eigen pensioen voor zover artikel 59a daarop van toepassing is, in alle gevallen gerekend met de franchise bedoeld in artikel 59a, derde lid, onder a.   
-5.  Het nabestaandenpensioen wordt verminderd indien de nabestaande meer dan tien jaar jonger was dan de overledene en het huwelijk dan wel de aanmelding op de dag van overlijden nog geen vijf jaar heeft geduurd. De vermindering bedraagt drie procent voor elk vol jaar dat het leeftijdsverschil meer dan tien jaar bedraagt.   
 
 ### Artikel  67a  
 
 1.  De nabestaande die jonger is dan 65 jaar maar geen recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat heeft recht op een toeslag op zijn volgens artikel 67 berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.   
 2.  De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
 3.  De nabestaande, bedoeld in het eerste lid, die jonger is dan 40 jaar, heeft recht op de in dat lid bedoelde toeslag voor de duur van 12 maanden.   
-4.  De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in artikel 105, eerste lid, vanaf 1 juli 1999.   
+4.  De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in artikel 105, eerste lid, vanaf 1 juli 1999.   
 5.  Het recht op toeslag vervalt: 
 
 a. met ingang van de eerste dag van de maand waarin de nabestaande 65 jaar wordt;  
@@ -1171,7 +1194,7 @@ b. met ingang van de maand volgend op die waarin de nabestaande hertrouwt, als p
 
 1.  De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens artikel 67 berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.   
 2.  Recht op toeslag heeft eveneens de nabestaande aan wie in het tijdvak van 1 juli 1996 tot 1 juli 1999 nabestaandenpensioen is toegekend en op wiens uitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) in dat tijdvak inkomen in mindering is gebracht, met ingang van die vermindering.   
-3.  De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 percent van het verschil tussen 75 percent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de Algemene nabestaandenwet, zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, zonder de vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 percent van het in de eerste volzin eerstbedoelde bedrag en kan niet negatief zijn. De toeslag wordt nader vastgesteld: 
+3.  De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 percent van het verschil tussen 75 percent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, zonder de vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 percent van het in de eerste volzin eerstbedoelde bedrag en kan niet negatief zijn. De toeslag wordt nader vastgesteld: 
 
 a. met ingang van 1 januari van ieder jaar volgens de regels, bedoeld in artikel 105, eerste lid, vanaf 1 juli 1999;  
 
@@ -1226,11 +1249,11 @@ b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overleden
 1.  Dit artikel is uitsluitend van toepassing op pensioenberekeningen over diensttijd na 31 december 1985.   
 2.  De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) heeft recht op een toeslag op zijn volgens artikel 70 berekende pensioen, tenzij zijn ouder recht heeft op halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar: 
 
-a. voor de wees, bedoeld in artikel 70, eerste lid, onder a, 0,375 percent van de tot een jaarbedrag herleide som van de nabestaandenuitkering en de halfwezenuitkering ingevolge de Algemene nabestaandenwet, zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;  
+a. voor de wees, bedoeld in artikel 70, eerste lid, onder a, 0,375 percent van de tot een jaarbedrag herleide som van de nabestaandenuitkering en de halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;  
 
-b. voor de wees bedoeld in artikel 70, eerste lid, onder b, 0,75 percent van het onder *a* bedoelde jaarbedrag.     
+b. voor de wees bedoeld in artikel 70, eerste lid, onder b, 0,75 percent van het onder a bedoelde jaarbedrag.     
 3.  Indien aanspraak ontstaat op de toeslag, bedoeld in het tweede lid, geeft de wees hiervan onverwijld kennis aan Onze Minister. De toeslag gaat niet eerder in dan een jaar voor de eerste dag van de maand waarin de kennisgeving werd gedaan of waarin die toeslag ambtshalve is toegekend.   
-4.  De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in artikel 105, eerste lid.   
+4.  De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in artikel 105, eerste lid.   
 
 ### Artikel  71  
 
@@ -1351,6 +1374,11 @@ De in de hoofdstukken 10 en 11 van deze afdeling vervatte regelingen zullen geen
 
 Pensioenen toegekend of toe te kennen ter zake van een aftreden met een ingangsdatum gelegen vóór 1 januari 1969 worden afgeleid van de laatstelijk als kamerlid genoten schadeloosstelling aangepast naar de regelen vastgesteld bij de algemene maatregel van bestuur bedoeld in artikel 105, met dien verstande, dat, indien het betreft een aftreden vóór 1 januari 1959 de schadeloosstelling wordt verminderd overeenkomstig artikel 4, eerste lid, onder *b*, van de wet van 17 juli 1923, *Stb.* 364, zoals dit artikel luidde tot 1 januari 1959.  
 
+### Artikel  85a  
+
+1.  In afwijking van artikel 58b, derde lid, informeert Onze Minister het gewezen kamerlid van wie de uitkeringsduur, bedoeld in artikel 52, eerste of tweede lid, is geëindigd in de periode gelegen tussen 31 december 2007 en de dag van inwerkingtreding van de [Wet aanpassing Appa en enkele andere wetten 2011](../../../../../../wet/wet/aanpassing/appa/en/enkele/andere/wetten/2011/BWBR0030652/README.md), binnen vier maanden na inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011 over de mogelijkheid, bedoeld in artikel 58b, eerste lid.   
+2.  De gewezen minister kan tot een jaar na de inwerkingtreding van de [Wet aanpassing Appa en enkele andere wetten 2011](../../../../../../wet/wet/aanpassing/appa/en/enkele/andere/wetten/2011/BWBR0030652/README.md) Onze Minister verzoeken tot omzetting van eigen pensioen in nabestaandenpensioen als bedoeld in artikel 58b.   
+
 ### Artikel  86  
 
 ####Het recht op weduwen- en wezenpensioen (behoort bij hoofdstuk 12, § 1)
@@ -1440,7 +1468,7 @@ Het pensioen waarop twee of meer volle wezen recht hebben wordt, indien het als 
 
 ####Inbouwbedrag
 
-1.  Voor een belanghebbende die tevens recht heeft op een algemeen pensioen, wordt het deel daarvan dat geacht kan worden betrekking te hebben op een tijd overeenkomende met de diensttijd, waarnaar zijn pensioen is of geacht wordt te zijn berekend, tot een maximum van 40 jaren, gerekend deel uit te maken van het bedrag van zijn pensioen, met dien verstande dat: 
+1.  Voor een belanghebbende die tevens recht heeft op een algemeen pensioen, wordt het deel daarvan dat geacht kan worden betrekking te hebben op een tijd overeenkomende met de diensttijd, waarnaar zijn pensioen is of geacht wordt te zijn berekend, tot een maximum van 40 jaren, gerekend deel uit te maken van het bedrag van zijn pensioen, met dien verstande dat: 
 
 a. voor zover diensttijd met 3,5 percent per jaar met pensioen wordt vergolden, deze diensttijd met 2 wordt vermenigvuldigd;  
 
@@ -1533,7 +1561,7 @@ De bepalingen van dit hoofdstuk blijven buiten toepassing ten aanzien van degene
 
 ### Artikel  105  
 
-1.  Een pensioen op grond van de tweede of de derde afdeling van deze wet, daaronder niet begrepen de inbouw- en franchisebedragen, wordt telkens aangepast overeenkomstig een aanpassing aan een algemene bezoldigingswijziging, van een pensioen van een gepensioneerde overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) die werkzaam is geweest in de sector Rijk.   
+1.  Een pensioen op grond van de tweede of de derde afdeling van deze wet, daaronder niet begrepen de inbouw- en franchisebedragen, wordt telkens aangepast overeenkomstig een aanpassing aan een algemene bezoldigingswijziging, van een pensioen van een gepensioneerde overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) die werkzaam is geweest in de sector Rijk.   
 2.  Indien aan een gepensioneerde overheidswerknemer, als bedoeld in het eerste lid, een eenmalige uitkering wordt toegekend, wordt aan degene die recht heeft op een pensioen, als bedoeld in dat lid, overeenkomstig een eenmalige uitkering toegekend.   
 3.  Onze Minister stelt regels voor de toepassing van het eerste en het tweede lid. Deze regels werken zonodig terug tot en met de datum waarop een pensioenaanpassing is ingegaan of recht is ontstaan op een eenmalige uitkering.   
 
@@ -1963,7 +1991,7 @@ b. indien de wijziging ambtshalve plaatsvindt, met ingang van de eerste dag van 
 
 ### Artikel  134  
 
-1.  De inkomsten die de belanghebbende geniet, worden met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben.   
+1.  De inkomsten die de belanghebbende geniet, worden bepaald overeenkomstig de regels van de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en worden met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben.   
 2.  Voor de toepassing van het eerste lid worden onder inkomsten verstaan het gezamenlijk bedrag dat de belanghebbende wegens het verrichten van activiteiten, ter hand genomen met ingang van of na de dag waarop hij heeft opgehouden lid van gedeputeerde staten te zijn, geniet als 
 
 a. winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
@@ -2023,7 +2051,14 @@ c. wanneer tijdens de duur van de uitkering zich de omstandigheid voordoet, bedo
 
 ####Waarneming
 
-Dit hoofdstuk is van overeenkomstige toepassing op degene die krachtens [artikel 76, eerste lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), dan wel krachtens [artikel 78, eerste lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) het ambt vancommissaris van de Koning, respectievelijk het ambt van burgemeester gedurende meer dan dertig dagen zonder onderbreking heeft waargenomen. Voor degene die aftreedt als waarnemer is de duur van de uitkering, ten dele in afwijking van artikel 132, steeds gelijk aan de duur van de waarneming. De uitkering bedraagt het volgens artikel 133 toepasselijke percentage van de als waarnemer genoten vergoeding en wordt aangepast overeenkomstig het derde lid van dat artikel.  
+1.  Dit hoofdstuk is van overeenkomstige toepassing op degene die krachtens [artikel 76, eerste lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), dan wel krachtens [artikel 78, eerste lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) het ambt van commissaris van de Koning, respectievelijk het ambt van burgemeester gedurende meer dan dertig dagen zonder onderbreking heeft waargenomen. Voor degene die aftreedt als waarnemer is de duur van de uitkering, ten dele in afwijking van artikel 132, steeds gelijk aan de duur van de waarneming. De uitkering bedraagt het volgens artikel 133 toepasselijke percentage van de als waarnemer genoten vergoeding en wordt aangepast overeenkomstig het derde lid van dat artikel.   
+2.  In afwijking van artikel 131 komt de uitkering die de provincie of de gemeente na ontheffing van de waarneming verschuldigd is op grond van het eerste lid ten laste van Hoofdstuk VII van de rijksbegroting.   
+
+### Artikel  137b  
+
+####Uitkering na herindeling
+
+Bij eervol ontslag van een burgemeester wegens opheffing van de gemeente komt de uitkering ten laste van hoofdstuk VII van de Rijksbegroting.  
 
 ### Hoofdstuk  22  
 
@@ -2040,7 +2075,7 @@ Dit hoofdstuk is van overeenkomstige toepassing op degene die krachtens [artikel
 
 ####Bedrag van het eigen pensioen per jaar als lid van gedeputeerde staten
 
-1.  Het pensioen bedraagt voor ieder jaar als lid van gedeputeerde staten 2 percent van de daarvoor geldende pensioengrondslag, volgens een of meer van de artikelen 139, 139a en 139aa. Voor de toepassing van die artikelen wordt verstaan onder wedde: de wedde, bedoeld in artikel 130, tweede lid, onder c, aangepast volgens de regels, bedoeld in artikel 157, derde lid. Ten aanzien van een lid van gedeputeerde staten dat voor zijn bezoldiging geacht wordt niet de volledige werkweek aan het ambt te besteden, is voor de toepassing van de artikelen 139a en 139aa de wedde het tot een jaarbedrag herleide bedrag waarvan de wedde, bedoeld in artikel 130, tweede lid, onder c, is afgeleid, aangepast volgens de in de tweede volzin bedoelde regels.   
+1.  Het pensioen bedraagt voor ieder jaar als lid van gedeputeerde staten 2 percent van de daarvoor geldende pensioengrondslag, volgens een of meer van de artikelen 139, 139a en 139aa, waarbij niet in aanmerking wordt genomen de diensttijd, doorgebracht na het bereiken van de leeftijd van 65 jaar, voor zover de gewezen gedeputeerde bij of na het bereiken van die leeftijd wederom het ambt van lid van gedeputeerde staten in de betrokken provincie aanvaardt. Voor de toepassing van die artikelen wordt verstaan onder wedde: de wedde, bedoeld in artikel 130, vierde lid, onder c, aangepast volgens de regels, bedoeld in artikel 157, derde lid. Ten aanzien van een lid van gedeputeerde staten dat voor zijn bezoldiging geacht wordt niet de volledige werkweek aan het ambt te besteden, is voor de toepassing van de artikelen 139a en 139aa de wedde het tot een jaarbedrag herleide bedrag waarvan de wedde, bedoeld in artikel 130, vierde lid, onder c, is afgeleid, aangepast volgens de in de tweede volzin bedoelde regels.   
 2.  In afwijking van het eerste lid behoort niet tot de wedde de verhoging van de wedde per 1 januari 2001 ingevolge dan wel op de voet van [artikel 3 van de Wet brutering overhevelingstoeslag lonen 1993](../../../../../../wet/wet/brutering/overhevelingstoeslag/lonen/BWBR0006353/README.md).   
 3.  Als tijd als lid van gedeputeerde staten telt mee de tijd met recht op uitkering. Het pensioen over die tijd wordt berekend naar 2 percent per jaar over de eerste vier jaren van het recht op uitkering dan wel over de volledige tijd met recht op uitkering indien die tijd minder is dan vier jaren en vervolgens naar 1 percent per jaar. In het geval van een uitkering als bedoeld in artikel 133a, wordt het pensioen over de tijd met recht op uitkering berekend naar 2 percent per jaar voor zover en voor zolang het percentage van de algemene invaliditeit 55 percent of meer bedraagt. Voor de toepassing van de vorige volzin wordt een uitkering als bedoeld in artikel 131 aangemerkt als een uitkering als bedoeld in artikel 133a, indien en zolang de belanghebbende tijdens de duur van de eerstbedoelde uitkering voor 55 percent of meer algemeen invalide is.   
 4.  In afwijking van het derde lid wordt het pensioen over de in dat lid bedoelde tijd berekend naar de helft van het ingevolge dat lid toepasselijke percentage, over het gedeelte van die tijd waarin de uitkering is verminderd wegens het genieten van inkomsten als bedoeld in artikel 134. Geen meetelling van diensttijd als bedoeld in het derde lid vindt plaats: 
@@ -2050,10 +2085,20 @@ a. voor zover gedurende de in dat lid bedoelde tijd de uitkering wegens het geni
 b. in zover de belanghebbende die recht heeft op uitkering, maar die minder uitkering geniet dan de krachtens artikel 160 berekende inhoudingen ter zake van ouderdom en overlijden, er geen zorg voor draagt dat het bedrag van deze inhoudingen, welk bedrag in dit geval als een op hem rustende schuld wordt beschouwd, bij het bereiken van de 65-jarige leeftijd is voldaan;  
 
 c. indien de belanghebbende daarom verzoekt.   Voor de toepassing van de eerste en de tweede volzin wordt de vergoeding voor de werkzaamheden als lid van provinciale staten niet beschouwd als daar bedoelde inkomsten, indien gedeputeerde staten geen collectieve verzekering hebben afgesloten waarbij ten behoeve van de leden van provinciale staten wordt voorzien in de opbouw van een ouderdomspensioen en in geldelijke voorzieningen bij invaliditeit en overlijden.   
-5.  Een lid van gedeputeerde staten en een gewezen lid van gedeputeerde staten hebben bij ingang van het pensioen eenmalig de keuzemogelijkheid het pensioen met 12 percent te verhogen, voorzover het is berekend over tijd als lid van gedeputeerde staten die is gelegen na 30 juni 1999 en die overeenkomt met de tijd die krachtens artikel 145 voor de berekening van het nabestandenpensioen in aanmerking wordt genomen.   
+5.  Een lid van gedeputeerde staten en een gewezen lid van gedeputeerde staten hebben bij ingang van het pensioen eenmalig de keuzemogelijkheid het pensioen met 12 percent te verhogen, voorzover het is berekend over tijd als lid van gedeputeerde staten die is gelegen na 30 juni 1999 en die overeenkomt met de tijd die krachtens artikel 145 voor de berekening van het nabestaandenpensioen in aanmerking wordt genomen.   
 6.  Met de verhoging van het pensioen, bedoeld in het vijfde lid, vervalt de aanspraak op nabestaandenpensioen, voorzover opgebouwd na 30 juni 1999.   
 7.  De keuze, bedoeld in het vijfde lid, kan slechts worden gedaan met toestemming van de echtgenoot of de aangemelde partner. De regels, bedoeld in artikel 13a, achtste lid, zijn van overeenkomstige toepassing.   
 8.  De verhoging van het pensioen gaat in met ingang van de dag waarop het recht op pensioen ontstaat en is onherroepelijk.   
+
+### Artikel  138b  
+
+1.  Een gewezen lid van gedeputeerde staten kan na afloop van de uitkeringsduur, bedoeld in artikel 132, eerste of tweede lid, de vanaf 1 augustus 2003 opgebouwde aanspraken op eigen pensioen omzetten in een aanspraak op nabestaandenpensioen bij overlijden voor het bereiken van de leeftijd van 65 jaar.   
+2.  Voor de omzetting van het eigen pensioen, bedoeld in het eerste lid, stelt Onze Minister bij ministeriële regeling een leeftijdsafhankelijke ruilvoet vast.   
+3.  Gedeputeerde staten informeert het gewezen lid van gedeputeerde staten binnen vier maanden voor het einde van de uitkering over de mogelijkheid, bedoeld in het eerste lid.   
+4.  Het gewezen lid van gedeputeerde staten dient zijn keuze binnen zes weken na ontvangst van deze mededeling schriftelijk aan gedeputeerde staten mee te delen. Tot het moment van het eindigen van de termijn van zes weken, verkrijgt het gewezen lid van gedeputeerde staten een premievrije aanspraak op nabestaandenpensioen overeenkomstig de tijd tot het moment van aftreden van de minister.   
+5.  Als omzetting als bedoeld in het eerste lid gevolgd wordt door een waardeoverdracht als bedoeld in artikel 160a, wordt de vermindering van het eigen pensioen aangepast. De aanspraak op nabestaandenpensioen als bedoeld in het eerste lid, wordt omgezet in een aanspraak op eigen pensioen met inachtneming van de ruilvoet, bedoeld in het tweede lid.   
+6.  Als een gewezen lid van gedeputeerde staten op enig moment opnieuw lid van gedeputeerde staten wordt, wordt de vermindering van het eigen pensioen, bedoeld in het eerste lid, aangepast. De aanspraak op nabestaandenpensioen als bedoeld in het eerste lid, wordt omgezet in een aanspraak op eigen pensioen met inachtneming van de ruilvoet, bedoeld in het tweede lid, behorende bij de leeftijd van het lid van gedeputeerde staten op het moment dat hij opnieuw lid wordt van gedeputeerde staten.   
+7.  Het vijfde en zesde lid zijn niet van toepassing bij het einde van het huwelijk na aftreden van het lid van gedeputeerde staten en voor waardeoverdracht of voor het opnieuw lid worden van gedeputeerde staten.   
 
 ### Artikel  139  
 
@@ -2147,7 +2192,7 @@ b. indien de onder a bedoelde vrouw of man als gevolg van hertrouwen met of aanm
 
 c. bij overlijden van een lid van gedeputeerde staten of gewezen lid van gedeputeerde staten voor de leeftijd van 65 jaar, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;  
 
-d. bij overlijden van een gepensioneerd lid van gedeputeerde staten, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in artikel 138a, vierde lid.     
+d. bij overlijden van een gepensioneerd lid van gedeputeerde staten, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in artikel 138a, vijfde lid.     
 
 ### Artikel  143  
 
@@ -2185,7 +2230,6 @@ a. als lid van gedeputeerde staten vóór het bereiken van de leeftijd van 65 ja
 b. als gewezen lid van gedeputeerde staten in de periode, waarover hem een uitkering is toegekend, vijf zevende gedeelte van het pensioen waarop het gewezen lid aanspraak zou hebben kunnen maken, indien hij tot het bereiken van de leeftijd van 65 jaar recht op uitkering zou hebben gehad, met dien verstande dat voor de berekening van het pensioen de diensttijd wordt doorgeteld naar de mate van medetelling van diensttijd op de dag van overlijden.     
 3.  Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat op meer dan een nabestaandenpensioen op de voet van deze afdeling dan wel op een nabestaandenpensioen op de voet van deze afdeling en op een nabestaandenpensioen krachtens de tweede of derde afdeling van deze wet, wordt voor de berekening van de eigen pensioenen, waarvan de nabestaandenpensioenen zijn afgeleid, tijd die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.   
 4.  Bij de toepassing van de voorgaande leden wordt ten aanzien van het eigen pensioen voor zover artikel 139a daarop van toepassing is, in alle gevallen gerekend met de franchise bedoeld in artikel 139a, derde lid, onderdeel a.   
-5.  Het nabestaandenpensioen wordt verminderd indien de nabestaande meer dan tien jaar jonger was dan de overledene en het huwelijk dan wel de aanmelding op de dag van overlijden nog geen vijf jaar heeft geduurd. De vermindering bedraagt drie procent voor elk vol jaar dat het leeftijdsverschil meer dan tien jaar bedraagt.   
 
 ### Artikel  145a  
 
@@ -2359,7 +2403,7 @@ Hoofdstuk 17 en de artikelen 125 tot en met 127 van deze wet zijn van overeenkom
 
 ### Artikel  158  
 
-Ten aanzien van de in deze afdeling bedoelde pensioenen zijn de artikelen 111, 112, 113, 114, 115, 118, derde lid, 122, 123 en 128 van overeenkomstige toepassing.  
+Ten aanzien van de in deze afdeling bedoelde pensioenen zijn de artikelen 111, 112, 113, 114, 115, 122, 123 en 128 van overeenkomstige toepassing.  
 
 ### Artikel  159  
 
@@ -2422,6 +2466,15 @@ In afwijking van artikel 130 is deze afdeling niet van toepassing op gewezen com
 2.  Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van artikel 132, derde lid, is benoemd als lid van gedeputeerde staten, wethouder, lid van het dagelijks bestuur van een deelgemeente of lid van het dagelijks bestuur van een waterschap en op het tijdstip voorafgaand aan de inwerkingtreding van artikel 132, derde lid, niet overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) was, en na de eerstvolgende verkiezing voor de leden van provinciale staten, de gemeenteraad onderscheidenlijk het algemeen bestuur van het waterschap niet wordt herbenoemd, dan wel bij herbenoeming in hetzelfde ambt onmiddellijk na de eerstvolgende verkiezing de leeftijd van 50 jaar heeft bereikt, wordt in artikel 132, eerste lid, voor «vier jaren» gelezen «zes jaren» en in artikel 132, tweede lid, voor «55 jaar» gelezen: 50 jaar.   
 3.  Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van de artikelen 132a tot en met 132c is benoemd als lid van gedeputeerde staten, wethouder, lid van het dagelijks bestuur van een deelgemeente of lid van het dagelijks bestuur van een waterschap dat op het tijdstip voorafgaand aan de inwerkingtreding van de artikelen 132a tot en met 132c niet overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) was, en na de eerstvolgende verkiezing voor de leden van provinciale staten, de gemeenteraad onderscheidenlijk het algemeen bestuur van het waterschap niet wordt herbenoemd, zijn de artikelen 132a tot en met 132c niet van toepassing.   
 
+### Artikel  163c  
+
+1.  In afwijking van artikel 138b, derde lid, informeert gedeputeerde staten het gewezen lid van gedeputeerde staten van wie de uitkeringsduur, bedoeld in artikel 132, eerste of tweede lid, is geëindigd in de periode gelegen tussen 31 december 2007 en de dag van inwerkingtreding van de [Wet aanpassing Appa en enkele andere wetten 2011](../../../../../../wet/wet/aanpassing/appa/en/enkele/andere/wetten/2011/BWBR0030652/README.md), binnen vier maanden na inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011 over de mogelijkheid, bedoeld in artikel 138b, eerste lid.   
+2.  Het gewezen lid van gedeputeerde staten kan tot een jaar na de inwerkingtreding van de [Wet aanpassing Appa en enkele andere wetten 2011](../../../../../../wet/wet/aanpassing/appa/en/enkele/andere/wetten/2011/BWBR0030652/README.md) gedeputeerde staten verzoeken tot omzetting van eigen pensioen in nabestaandenpensioen als bedoeld in artikel 138b.   
+
+### Artikel  163d  
+
+Ten aanzien van leden van het dagelijks bestuur van een waterschap die na de waterschapsverkiezingen in 2008 op 8 januari 2009 zijn herbenoemd, wordt voor de opbouw van het pensioen over de pensioengeldige tijd tot en met 7 januari 2009 gerekend met de pensioengrondslag gebaseerd op de wedde die het lid van het dagelijks bestuur genoot op 7 januari 2009.  
+
 ### Zesde  afdeling  
 
 ### Hoofdstuk  30  
@@ -2433,6 +2486,11 @@ In afwijking van artikel 130 is deze afdeling niet van toepassing op gewezen com
 ####Kosten uitkering en pensioen
 
 De kosten van de in deze wet bedoelde uitkeringen en pensioenen en de kosten van de overname van en de gedeeltelijke vergoeding van de premie die ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de Algemene Weduwen- en Wezenwet daarover wordt geheven, voor zover niet is bepaald dat deze kosten ten laste van het Algemeen burgerlijk pensioenfonds komen, komen ten laste van Hoofdstuk VII van de rijksbegroting, voor zover deze kosten betrekking hebben op ministers, gewezen ministers, gepensioneerde ministers, nabestaanden en wezen van gewezen ministers, en ten laste van Hoofdstuk II van de rijksbegroting, indien meergenoemde kosten betrekking hebben op leden van de Tweede Kamer der Staten-Generaal, gepensioneerde kamerleden, nabestaanden en wezen van deze leden.  
+
+### Artikel  164a  
+
+1.  Onze Minister, gedeputeerde staten van een provincie, het college van burgemeester en wethouders van een gemeente en het dagelijks bestuur van een waterschap verstrekken op verzoek van de politieke ambtsdrager tijdig zijn gegevens met betrekking tot pensioenaanspraken door middel van het pensioenregister, bedoeld in [artikel 51, eerste lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md).   
+2.  [Artikel 51, vierde lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  165  
 

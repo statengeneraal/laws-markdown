@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de uitkeringsrechten van politieke ambtsdragers worden geharmoniseerd en dat de commissarissen van de Koning en de burgemeesters onder de werking van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) worden gebracht;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de uitkeringsrechten van politieke ambtsdragers worden geharmoniseerd en dat de commissarissen van de Koning en de burgemeesters onder de werking van de Algemene pensioenwet politieke ambtsdragers worden gebracht;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -43,7 +43,7 @@ Wijzigt de Ambtenarenwet.
 
 ### Artikel  V  
 
-[Artikel 6, eerste lid, onderdeel a, van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [artikel 6, eerste lid, onderdeel a, van de Ziektewet](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), zoals die bepalingen luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel T, blijven van toepassing ten aanzien van gewezen commissarissen van de Koning, burgemeesters en voorzitters van een waterschap, die zijn afgetreden voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel T.  
+Artikel 6, eerste lid, onderdeel a, van de Werkloosheidswet en artikel 6, eerste lid, onderdeel a, van de Ziektewet, zoals die bepalingen luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel T, blijven van toepassing ten aanzien van gewezen commissarissen van de Koning, burgemeesters en voorzitters van een waterschap, die zijn afgetreden voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel T.  
 
 ### Artikel  VI  
 

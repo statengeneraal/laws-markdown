@@ -26,7 +26,7 @@ c. schadeloosstelling: de schadeloosstelling voor de leden van het Europese Parl
 
 ### Artikel  2  
 
-1.  De schadeloosstelling komt overeen met de schadeloosstelling, bedoeld in [artikel 2, van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
+1.  De schadeloosstelling komt overeen met de schadeloosstelling, bedoeld in artikel 2, van de Wet schadeloosstelling leden Tweede Kamer.   
 2.  Op de schadeloosstelling wordt een bedrag van € 11 530,10 ingehouden.   
 
 ### Artikel  2a  
@@ -40,12 +40,12 @@ c. schadeloosstelling: de schadeloosstelling voor de leden van het Europese Parl
 1.  Onverminderd artikel 2, tweede lid, wordt de schadeloosstelling verminderd met de helft van het bedrag waarmee de neveninkomsten van het lid van het Europese Parlement per jaar een bedrag gelijk aan 14% van de schadeloosstelling te boven gaan, met dien verstande dat deze vermindering maximaal 35% van de schadeloosstelling bedraagt. Indien het lid een gedeelte van het kalenderjaar lid van het Europese Parlement is, gelden de bedragen naar evenredigheid.   
 2.  Onder neveninkomsten wordt verstaan het gezamenlijke bedrag dat het lid wegens het verrichten van nevenactiviteiten tijdens het lidmaatschap geniet als: 
 
-a. winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. winst uit een of meer ondernemingen, bedoeld in artikel 3.8 van de Wet inkomstenbelasting 2001;  
 
 b. belastbaar loon uit tegenwoordige arbeid en  
 
-c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [3.92 van de Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
-3.  De neveninkomsten worden bepaald overeenkomstig de regels van de [Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en worden verrekend in het jaar waarin deze zijn genoten in de zin van die [wet](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met dien verstande dat geen verrekening meer plaats heeft, indien de neveninkomsten worden genoten na 31 december van het jaar waarin het lidmaatschap wordt beëindigd.   
+c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van de Wet inkomstenbelasting 2001.     
+3.  De neveninkomsten worden bepaald overeenkomstig de regels van de Wet inkomstenbelasting 2001 en worden verrekend in het jaar waarin deze zijn genoten in de zin van die wet, met dien verstande dat geen verrekening meer plaats heeft, indien de neveninkomsten worden genoten na 31 december van het jaar waarin het lidmaatschap wordt beëindigd.   
 4.  Indien een lid van het Europese Parlement tevens lid is van de Tweede Kamer der Staten-Generaal ontvangt hij voor zijn lidmaatschap van het Europese Parlement geen schadeloosstelling. De artikelen 4 en 7 zijn op hem niet van toepassing.   
 
 ### Artikel  4  
@@ -65,27 +65,22 @@ c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een w
 2.  Zo spoedig mogelijk na het overlijden van het lid van het Europees Parlement wordt aan de weduwe of weduwnaar, van wie het overleden lid niet duurzaam gescheiden leefde, een bedrag uitgekeerd, gelijk aan driemaal het bedrag van de schadeloosstelling, dat over de laatste volle maand aan het lid is uitgekeerd. Indien de overledene geen weduwe of weduwnaar als bedoeld in de vorige volzin, nalaat, geschiedt de uitkering ten behoeve van de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de schadeloosstelling van het lid van het Europees Parlement.   
 3.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner en de nabestaande levenspartner met wie het overleden niet-gehuwde lid van het Europees Parlement samenwoonde en - met het oogmerk duurzaam samen te leven - een gemeenschappelijke huishouding heeft gevoerd op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding. Tegelijkertijd kan slechts één persoon als levenspartner worden aangemerkt. Onze Minister kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als bedoeld in de eerste volzin is gesloten.   
 
-### Artikel  6  
-
-1.  De leden van het Europees Parlement maken hun nevenfuncties en de inkomsten uit hun nevenfuncties openbaar. Zij leggen uiterlijk op 1 april na het kalenderjaar waarin de nevenfuncties zijn vervuld en de inkomsten zijn genoten een opgave ter inzage bij de griffie van de Tweede Kamer der Staten-Generaal.   
-2.  Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
-
 ### Artikel  7  
 
-De leden van het Europese Parlement hebben bij aftreden aanspraak op uitkering op de voet van de bepalingen van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) met betrekking tot leden van de Tweede Kamer der Staten-Generaal.  
+De leden van het Europese Parlement hebben bij aftreden aanspraak op uitkering op de voet van de bepalingen van de Algemene pensioenwet politieke ambtsdragers met betrekking tot leden van de Tweede Kamer der Staten-Generaal.  
 
 ### Artikel  8  
 
-1.  Behoudens het bepaalde in de volgende leden hebben de leden van het Europese Parlement en hun nabestaanden aanspraak op pensioen op de voet van de bepalingen van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) met betrekking tot leden van de Tweede Kamer der Staten-Generaal.   
-2.  Voor zover tijd, waarover als lid van het Europese Parlement aanspraak bestaat op pensioen, samenloopt met tijd, waarover als politieke ambtsdrager, als bedoeld in de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md), anders dan als lid van de Tweede Kamer der Staten-Generaal, aanspraak bestaat op pensioen, bedraagt het pensioen als lid van het Europese Parlement over die samenlopende tijd per jaar 1,75% van de schadeloosstelling die gedurende die tijd laatstelijk krachtens deze wet werd genoten of zou zijn genoten, indien geen andere inkomsten dan die als politieke ambtsdrager, als in dit lid bedoeld, en als lid van het Europese Parlement zouden zijn genoten.   
+1.  Behoudens het bepaalde in de volgende leden hebben de leden van het Europese Parlement en hun nabestaanden aanspraak op pensioen op de voet van de bepalingen van de Algemene pensioenwet politieke ambtsdragers met betrekking tot leden van de Tweede Kamer der Staten-Generaal.   
+2.  Voor zover tijd, waarover als lid van het Europese Parlement aanspraak bestaat op pensioen, samenloopt met tijd, waarover als politieke ambtsdrager, als bedoeld in de Algemene pensioenwet politieke ambtsdragers, anders dan als lid van de Tweede Kamer der Staten-Generaal, aanspraak bestaat op pensioen, bedraagt het pensioen als lid van het Europese Parlement over die samenlopende tijd per jaar 1,75% van de schadeloosstelling die gedurende die tijd laatstelijk krachtens deze wet werd genoten of zou zijn genoten, indien geen andere inkomsten dan die als politieke ambtsdrager, als in dit lid bedoeld, en als lid van het Europese Parlement zouden zijn genoten.   
 3.  Het tweede lid vindt overeenkomstige toepassing voor de berekening van weduwen- en wezenpensioenen.   
-4.  [Artikel 67, tweede lid, van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) is niet van toepassing bij de berekening van het weduwenpensioen krachtens deze wet, indien toepassing van dat artikel plaatsvindt bij de berekening van het pensioen als weduwe of als achtergebleven geregistreerde partner van een lid of gewezen lid van de Tweede Kamer der Staten-Generaal.   
-5.  Voor de toepassing van de bepalingen van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) en andere overheidspensioenwetten wordt een pensioen krachtens deze wet aangemerkt als een overheidspensioen.   
+4.  Artikel 67, tweede lid, van de Algemene pensioenwet politieke ambtsdragers is niet van toepassing bij de berekening van het weduwenpensioen krachtens deze wet, indien toepassing van dat artikel plaatsvindt bij de berekening van het pensioen als weduwe of als achtergebleven geregistreerde partner van een lid of gewezen lid van de Tweede Kamer der Staten-Generaal.   
+5.  Voor de toepassing van de bepalingen van de Algemene pensioenwet politieke ambtsdragers en andere overheidspensioenwetten wordt een pensioen krachtens deze wet aangemerkt als een overheidspensioen.   
 
 ### Artikel  9  
 
-1.  [Hoofdstuk 18 van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) is van overeenkomstige toepassing.   
-2.  Bij de overeenkomstige toepassing van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) op grond van het eerste lid en de artikelen 7 tot en met 8, wordt onder schadeloosstelling verstaan de schadeloosstelling, bedoeld in artikel 2, eerste lid.   
+1.  Hoofdstuk 18 van de Algemene pensioenwet politieke ambtsdragers is van overeenkomstige toepassing.   
+2.  Bij de overeenkomstige toepassing van de Algemene pensioenwet politieke ambtsdragers op grond van het eerste lid en de artikelen 7 tot en met 8, wordt onder schadeloosstelling verstaan de schadeloosstelling, bedoeld in artikel 2, eerste lid.   
 
 ### Artikel  11  
 
@@ -113,11 +108,11 @@ Wanneer na de dag na de inwerkingtreding van deze wet met terugwerkende kracht t
 
 ### Artikel  17  
 
-Indien een lid van het Europese Parlement dat op de dag van zijn benoemdverklaring lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder is, en krachtens artikel 7 aanspraak heeft op uitkering ter zake van het aftreden als lid van het Europese Parlement vóór of aan het einde van de in 1979 aangevangen periode van vijf jaar, bedoeld in artikel 3, eerste lid, van de Akte van 20 september 1976, *Trb.* 1976, 175, wordt de vóór het ontslag als lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder zonder wezenlijke onderbreking als zodanig vervulde tijd voor de toepassing van [artikel 52, eerste lid, tweede volzin, van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) geacht als lid van het Europese Parlement te zijn vervuld.  
+Indien een lid van het Europese Parlement dat op de dag van zijn benoemdverklaring lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder is, en krachtens artikel 7 aanspraak heeft op uitkering ter zake van het aftreden als lid van het Europese Parlement vóór of aan het einde van de in 1979 aangevangen periode van vijf jaar, bedoeld in artikel 3, eerste lid, van de Akte van 20 september 1976, *Trb.* 1976, 175, wordt de vóór het ontslag als lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder zonder wezenlijke onderbreking als zodanig vervulde tijd voor de toepassing van artikel 52, eerste lid, tweede volzin, van de Algemene pensioenwet politieke ambtsdragers geacht als lid van het Europese Parlement te zijn vervuld.  
 
 ### Artikel  17a  
 
-Onder neveninkomsten als bedoeld in artikel 3, tweede lid, wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in artikel 3, derde lid, onder[Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) verstaan Wet op de inkomstenbelasting 1964.  
+Onder neveninkomsten als bedoeld in artikel 3, tweede lid, wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in artikel 3, derde lid, onderWet inkomstenbelasting 2001 verstaan Wet op de inkomstenbelasting 1964.  
 
 ### Artikel  18  
 

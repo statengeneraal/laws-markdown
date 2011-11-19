@@ -12,7 +12,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  De bezoldiging van ministers wordt bepaald op € 10.325,86 per maand. De bezoldiging van staatssecretarissen wordt bepaald op € 9691,95 per maand.   
-2.  Indien de bezoldiging van het burgerlijk rijkspersoneel wordt gewijzigd en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt bij algemene maatregel van bestuur met ingang van de datum, waarop die wijziging ingaat, de bezoldiging van ministers en staatssecretarissen dienovereenkomstig gewijzigd, onder nadere vaststelling, voor zoveel nodig, van de in het eerste lid genoemde bedragen.   
+2.  Indien de bezoldiging van het burgerlijk rijkspersoneel wordt gewijzigd en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt bij ministeriële regeling met ingang van de datum, waarop die wijziging ingaat, de bezoldiging van ministers en staatssecretarissen dienovereenkomstig gewijzigd, onder nadere vaststelling, voor zoveel nodig, van de in het eerste lid genoemde bedragen.   
 3.  Indien aan het burgerlijk rijkspersoneel een eenmalige uitkering wordt toegekend, ontvangen ministers en staatssecretarissen deze op gelijke voet.   
 
 ### Artikel  2  
@@ -23,7 +23,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 a. de voorzieningen die aan de ministers en staatssecretarissen ter beschikking worden gesteld en noodzakelijk zijn voor de vervulling van hun ambt;  
 
 b. een vaste vergoeding voor de kosten van voorzieningen die voor eigen rekening van de ministers en staatssecretarissen komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.     
-3.  Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing en verblijf, beveiliging, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.   
+3.  In de in het tweede lid bedoelde algemene maatregel van bestuur kan worden bepaald dat in deze algemene maatregel van bestuur opgenomen bedragen bij ministeriële regeling kunnen worden gewijzigd op een in deze algemene maatregel van bestuur aangegeven wijze.   
+4.  Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing en verblijf, beveiliging, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.   
 
 ### Artikel  3  
 

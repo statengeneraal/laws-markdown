@@ -32,7 +32,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 a. de voorzieningen die aan de in het eerste lid genoemde functionarissen ter beschikking worden gesteld en noodzakelijk zijn voor de vervulling van hun ambt;  
 
 b. een vaste vergoeding voor de kosten van voorzieningen die voor eigen rekening van de in het eerste lid genoemde functionarissen komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.     
-3.  Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.   
+3.  In de in het tweede lid bedoelde algemene maatregel van bestuur kan worden bepaald dat in deze algemene maatregel van bestuur opgenomen bedragen bij ministeriële regeling kunnen worden gewijzigd op een in deze algemene maatregel van bestuur aangegeven wijze.   
+4.  Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.   
 
 ### Artikel  4  
 
@@ -41,9 +42,9 @@ b. een vaste vergoeding voor de kosten van voorzieningen die voor eigen rekening
 
 ### Artikel  5  
 
-1.  De substituut-ombudsman die ingevolge [artikel 10, eerste lid, van de Wet Nationale ombudsman](../../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) gedurende meer dan 30 dagen onafgebroken is belast met de vervanging van de ombudsman, geniet een vervangingstoelage ter hoogte van het verschil tussen zijn bezoldiging en de bezoldiging van de ombudsman.   
-2.  De substituut-ombudsman die ingevolge [artikel 10, derde lid, van de Wet Nationale ombudsman](../../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) is belast met de waarneming van het ambt van de ombudsman, geniet voor de duur van de waarneming een waarnemingstoelage tot de hoogte van het bedrag van de bezoldiging van de ombudsman.   
-3.  Degene die op grond van [artikel 2, vijfde lid](../../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), of [artikel 10, tweede of vierde lid, van de Wet Nationale ombudsman](../../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), de ombudsman vervangt respectievelijk het ambt van ombudsman waarneemt, geniet voor de duur van de vervanging respectievelijk de waarneming, de bezoldiging en de vakantie-uitkering die voor dit ambt zijn vastgesteld.   
+1.  De substituut-ombudsman die ingevolge artikel 10, eerste lid, van de Wet Nationale ombudsman gedurende meer dan 30 dagen onafgebroken is belast met de vervanging van de ombudsman, geniet een vervangingstoelage ter hoogte van het verschil tussen zijn bezoldiging en de bezoldiging van de ombudsman.   
+2.  De substituut-ombudsman die ingevolge artikel 10, derde lid, van de Wet Nationale ombudsman is belast met de waarneming van het ambt van de ombudsman, geniet voor de duur van de waarneming een waarnemingstoelage tot de hoogte van het bedrag van de bezoldiging van de ombudsman.   
+3.  Degene die op grond van artikel 2, vijfde lid, of artikel 10, tweede of vierde lid, van de Wet Nationale ombudsman, de ombudsman vervangt respectievelijk het ambt van ombudsman waarneemt, geniet voor de duur van de vervanging respectievelijk de waarneming, de bezoldiging en de vakantie-uitkering die voor dit ambt zijn vastgesteld.   
 
 ### Artikel  6  
 
@@ -55,7 +56,7 @@ Wijzigt de Wet Nationale ombudsman.
 
 ### Artikel  8  
 
-De [wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer](../../../../../../../../../../../../wet/wet/bezoldiging/raad/van/state/en/algemene/rekenkamer/BWBR0002456/README.md) (Stb. 387) en de [Wet bezoldiging Nationale ombudsman](../../../../../../../../../../../../wet/wet/bezoldiging/nationale/ombudsman/BWBR0003429/README.md) worden ingetrokken.  
+De wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer (Stb. 387) en de Wet bezoldiging Nationale ombudsman worden ingetrokken.  
 
 ### Artikel  9  
 

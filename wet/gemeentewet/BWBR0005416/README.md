@@ -438,7 +438,6 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 6.  Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
 7.  Ten aanzien van de wethouders die hun ambt in deeltijd vervullen, vindt onverminderd het vierde lid geen verrekening plaats van de inkomsten, bedoeld in het zesde lid.   
 8.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de wethouder gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.   
-5.  Van het bepaalde in het vierde lid kan de raad in bijzondere gevallen ontheffing verlenen. Het daartoe strekkende besluit van de raad wordt door het college aan gedeputeerde staten gezonden.   
 
 ### Artikel  45  
 
