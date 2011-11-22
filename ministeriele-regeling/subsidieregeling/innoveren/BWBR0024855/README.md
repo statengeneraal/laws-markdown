@@ -17,7 +17,7 @@ In deze regeling wordt verstaan onder:
 
 – *industrieel onderzoek:* industrieel onderzoek als bedoeld in paragraaf 2.2, onder f, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie, nr. 2006/C 323/01 (PbEU C 323);  
 
-– *minister:* de Minister van Economische Zaken.    
+– *minister:* de Minister van Economische Zaken, Landbouw en Innovatie.    
 
 ### Artikel  1.2  
 
@@ -232,7 +232,7 @@ Het formulier voor het indienen van een aanvraag voor:
 
 a. een subsidie is opgenomen in bijlage 3.1;  
 
-b. een subsidievaststelling is opgenomen in bijlage 3.2.    
+b. een subsidievaststelling is opgenomen in bijlage 2.2.    
 
 ### Hoofdstuk  4  
 
@@ -295,8 +295,7 @@ e. een rechtspersoon ten aanzien waarvan een instelling als bedoeld onder a, b, 
 1.  Op een IPC-penvoerder en een IPC-verband zijn de [artikelen 20](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [29](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [39, tweede lid](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [51, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) van overeenkomstige toepassing.   
 2.  Een IPC-penvoerder is een rechtspersoon zonder winstoogmerk met volledige rechtsbevoegdheid, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld, die volgens haar statuten tot doel heeft de behartiging van belangen van ondernemingen en hier volgens feitelijk handelen ook aantoonbaar minimaal één jaar ervaring mee heeft.   
 3.  Een IPC-verband bestaat, naast de IPC-penvoerder, uit ten minste tien en ten hoogste twintig niet met een andere IPC-deelnemer of de IPC-penvoerder in een groep verbonden MKB-ondernemers.   
-4.  Aan een IPC-deelnemer is op het moment van de aanvraag om subsidie, bedoeld in artikel 4.18, eerste lid, niet minder dan drie jaar geleden subsidie krachtens dit hoofdstuk of de [Subsidieregeling innovatieprestatiecontracten](../../../../ministeriele-regeling/subsidieregeling/innovatieprestatiecontracten/BWBR0020508/README.md) verstrekt.   
-5.  Indien er betrokkenheid bestaat tussen IPC-penvoerder en een of meer IPC-deelnemers, neemt het IPC-verband maatregelen om belangenverstrengeling te voorkomen.   
+4.  Indien er betrokkenheid bestaat tussen IPC-penvoerder en een of meer IPC-deelnemers, neemt het IPC-verband maatregelen om belangenverstrengeling te voorkomen.   
 
 ### §  2  
 
@@ -428,7 +427,7 @@ De subsidie bedraagt:
 
 a. voor activiteiten bedoeld in artikel 4.18, eerste lid, aanhef en onderdeel a, € 3000 per IPC-deelnemer;  
 
-b. voor activiteiten bedoeld in artikel 4.18, eerste lid, aanhef onderdeel b, 50 procent van de subsidiabele kosten van de IPC-deelnemer tot een maximum van € 30.000.    
+b. voor activiteiten bedoeld in artikel 4.18, eerste lid, aanhef en onderdeel b, 40 procent van de subsidiabele kosten van de IPC-deelnemer tot een maximum van € 25.000.    
 
 ### Artikel  4.20  
 
@@ -445,7 +444,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  4.22  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is twee jaar.  
+De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is twee jaar en wordt gerekend vanaf de aanvang van de activiteiten, bedoeld in artikel 4.18, eerste lid.  
 
 ### Artikel  4.23  
 
@@ -453,7 +452,15 @@ De minister beslist afwijzend op een aanvraag:
 
 a. indien het overkoepelende plan niet het vertrouwen geeft dat de IPC-penvoerder de begeleiding van de IPC-deelnemers bij het uitvoeren van hun innovatieplannen en de totstandkoming en begeleiding van de in het plan opgenomen samenwerkingsprojecten naar behoren kan uitvoeren;  
 
-b. voor zover voor dezelfde werkzaamheden met dezelfde IPC-deelnemers reeds op grond van deze paragraaf subsidie is verleend of in dezelfde periode is aangevraagd.    
+b. voor zover voor dezelfde werkzaamheden met dezelfde IPC-deelnemers reeds op grond van deze paragraaf subsidie is verleend of in dezelfde periode is aangevraagd;  
+
+c. indien aan een IPC-deelnemer eerder subsidie is verstrekt krachtens dit hoofdstuk of de Subsidieregeling innovatieprestatiecontracten, en 
+
+1°. tussen de datum waarop het IPC-project start en de datum waarop het vorige IPC-project is gestart, een periode verstreken is van minder dan drie jaar, of  
+
+2°. de IPC-deelnemer toestemming heeft verkregen om het IPC-project in een langere periode dan drie jaar af te ronden, maar binnen die toegestane aanvullende periode een nieuw IPC-project start;    
+
+d. indien de datum waarop het IPC-project start, meer dan zes maanden na de datum van de ontvangst van de subsidieaanvraag ligt.    
 
 ### Artikel  4.24  
 
@@ -492,7 +499,7 @@ a. een subsidie, bedoeld in de artikelen 4.3 en 4.10 is opgenomen in bijlage 4.1
 
 b. een subsidie, bedoeld in artikel 4.18 is opgenomen in bijlage 4.2;  
 
-c. de vaststelling van een subsidie, bedoeld in artikel 4.10 is opgenomen in bijlage 4.3.    
+c. de vaststelling van een subsidie, bedoeld in artikel 4.10 is opgenomen in bijlage 2.2.    
 
 ### Hoofdstuk  5  
 
@@ -1013,7 +1020,7 @@ Het formulier voor het indienen van een aanvraag voor:
 
 a. een subsidie is opgenomen in bijlage 6.2;  
 
-b. een subsidievaststelling is opgenomen in bijlage 6.3.    
+b. een subsidievaststelling is opgenomen in bijlage 2.2.    
 
 ### Hoofdstuk  7  
 
@@ -1093,16 +1100,15 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ### Bijlage  2.2  
 
-Ligt ter inzage bij SenterNovem te Den Haag.  
+####, behorende bij de artikelen 2.11, onderdeel b , 3.13, onderdeel b , 4.26, onderdeel c , en 6.9, onderdeel b .
+
+![249006](http://wetten.overheid.nl/Illustration/249006)
+![249006](http://wetten.overheid.nl/Illustration/249006)
 
 ### Bijlage  3.1  
 
 ![245971](http://wetten.overheid.nl/Illustration/245971)
 ![245971](http://wetten.overheid.nl/Illustration/245971)
-
-### Bijlage  3.2  
-
-Ligt ter inzage bij SenterNovem te Den Haag.  
 
 ### Bijlage  4.1  
 
@@ -1113,21 +1119,12 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ### Bijlage  4.2  
 
+*Aanvraag subsidie*   *Uitvoering IPC-project*    ![249443](http://wetten.overheid.nl/Illustration/249443)
 ![249443](http://wetten.overheid.nl/Illustration/249443)
 ![249443](http://wetten.overheid.nl/Illustration/249443)
 ![249443](http://wetten.overheid.nl/Illustration/249443)
 ![249443](http://wetten.overheid.nl/Illustration/249443)
 ![249443](http://wetten.overheid.nl/Illustration/249443)
-![249443](http://wetten.overheid.nl/Illustration/249443)
-
-### Bijlage  4.3  
-
-![248671](http://wetten.overheid.nl/Illustration/248671)
-![248671](http://wetten.overheid.nl/Illustration/248671)
-
-### Bijlage  4.4  
-
-Ligt ter inzage bij SenterNovem te Den Haag.  
 
 ### Bijlage  5.1  
 
@@ -1785,14 +1782,4 @@ Het domein fysieke bescherming beslaat het terrein dat toeziet op de gezondheid,
 ![245019](http://wetten.overheid.nl/Illustration/245019)
 ![245019](http://wetten.overheid.nl/Illustration/245019)
 ![245019](http://wetten.overheid.nl/Illustration/245019)
-
-### Bijlage  6.3  
-
-![245026](http://wetten.overheid.nl/Illustration/245026)
-![245026](http://wetten.overheid.nl/Illustration/245026)
-![245026](http://wetten.overheid.nl/Illustration/245026)
-![245026](http://wetten.overheid.nl/Illustration/245026)
-![245026](http://wetten.overheid.nl/Illustration/245026)
-![245026](http://wetten.overheid.nl/Illustration/245026)
-![245026](http://wetten.overheid.nl/Illustration/245026)
 

@@ -7,6 +7,7 @@ Gelet op [artikel 10:9](../../../../../../wet/algemene/wet/bestuursrecht/BWBR000
 Besluit met instemming van het bestuur van het Productschap Vis (openbare bestuursvergadering van 23 maart 2006):    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-05-2009 
 
 De secretaris van het Productschap Vis is gemandateerd om met inachtneming van de daarbij vastgestelde procedurele bepalingen in de Heffingsverordeningen 2000 tot en met 2005 en daarmee overeenkomstige bepalingen in de bestemmingsheffingsverordeningen 2000 tot en met 2005: 
 
@@ -38,12 +39,13 @@ m. de totaal verschuldigde huishoudelijke en bestemmingsheffingen van kleinhande
 
 het verkooppunt minder dan 1 kwartaal of 1 dag per week open is geweest; of;  
 
-de totaal verschuldigde heffingen tezamen meer is dan 1 % van de omzet.      
+de totaal verschuldigde heffingen tezamen meer is dan 1 % van de omzet.     
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-05-2009 
 
 1.  Dit besluit wordt aangehaald als "Besluit ondermandaatverlening uitvoering heffingsverordeningen".   
-2.  Dit besluit treedt in werking met ingang van 24 maart 2006.   
+2.  Dit besluit treedt in werking met ingang van 24 maart 2006.  
 
 Rijswijk 
 23 maart 2006   
