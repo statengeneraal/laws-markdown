@@ -12,17 +12,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *aanvrager:* migrerende beroepsbeoefenaar die erkenning van beroepskwalificaties aanvraagt;  
+a.  *aanvrager:* migrerende beroepsbeoefenaar die erkenning van beroepskwalificaties aanvraagt;  
 
-b. *dienstverrichter:* dienstverrichter als bedoeld in [artikel 21 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+b.  *dienstverrichter:* dienstverrichter als bedoeld in [artikel 21 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-c. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
+c. minister: 
 
-d. *wet:*[Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+1°. Minister van Sociale Zaken en Werkgelegenheid;  
 
-e. *kindercentrum:* voorziening als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+2°. Minister van Onderwijs, Cultuur en Wetenschap, voor zover de aanvraag en de verklaring vooraf als bedoeld in artikel 2, de gereglementeerde beroepen, genoemd in artikel 2, onderdeel a, subonderdelen 4° en 5°, betreffen;     
 
-f. *gastouderbureau:* organisatie als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).    
+d.  *wet:* [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+
+e.  *kindercentrum:* voorziening als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+
+f.  *gastouderbureau:* organisatie als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
 
 ### Artikel  2  
 
@@ -32,13 +36,17 @@ Deze regeling is van toepassing op:
 
 a. de aanvraag van een migrerende beroepsbeoefenaar tot het verlenen van erkenning van beroepskwalificaties voor de toegang tot of de uitoefening van de volgende gereglementeerde beroepen: 
 
-1°. beroepskracht als bedoeld in [artikel 1.1, eerste lid, onder 1, van de begripsomschrijving ‘beroepskracht’ in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+1°. beroepskracht als bedoeld in [artikel 1.1, eerste lid, onder 1°](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), van de begripsomschrijving ‘beroepskracht’ in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
-2°. gastouder als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+2°. beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
 
-3°. beroepskracht voorschoolse educatie als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);    
+3°. gastouder als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
 
-b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), van een dienstverrichter die een gereglementeerd beroep als bedoeld onder a wenst uit te oefenen.    
+4°. beroepskracht voorschoolse educatie als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+
+5°. beroepskracht voorschoolse educatie als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);    
+
+b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), van een dienstverrichter die een gereglementeerd beroep als bedoeld onder a wenst uit te oefenen.   
 
 ### Artikel  3  
 
@@ -58,9 +66,9 @@ c. in voorkomend geval een overzicht van de relevante opleidingsgegevens, in ied
 
 d. in voorkomend geval een bewijs van de beroepservaring;  
 
-e. voor het gereglementeerde beroep, bedoeld in artikel 2, onderdeel a, subonderdeel 2, een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in artikel 14, tweede lid, van de wet;  
+e. voor het gereglementeerde beroep, bedoeld in artikel 2, onderdeel a, subonderdeel 3°, een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in artikel 14, tweede lid, van de wet;  
 
-f. indien de aanvraag en de onder b tot en met e bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigd tolk/vertaler opgestelde vertaling daarvan in één van deze talen.    
+f. indien de aanvraag en de onder b tot en met e bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigd tolk/vertaler opgestelde vertaling daarvan in één van deze talen.   
 
 ### Artikel  4  
 
@@ -77,7 +85,7 @@ c. het opleidingsinstituut, bedoeld onder b, de criteria vaststelt voor de beoor
 d. het opleidingsinstituut, bedoeld onder b, de aanvrager binnen twee maanden nadat de aanvrager te kennen heeft gegeven de proeve van bekwaamheid te willen afleggen, de gelegenheid biedt tot het afleggen van die proeve; en  
 
 e. het opleidingsinstituut, bedoeld onder b, het resultaat van de proeve van bekwaamheid binnen twee weken schriftelijk meedeelt aan de aanvrager en aan de minister na het afnemen van de proeve van bekwaamheid.     
-2.  De aanvrager voldoet de kosten van de proeve van bekwaamheid.   
+2.  De aanvrager voldoet de kosten van de proeve van bekwaamheid.  
 
 ### Artikel  5  
 
@@ -94,13 +102,13 @@ c. in voorkomend geval de aanvullende opleiding die deel uit maakt van de aanpas
 3.  Voor een aanpassingsstage wendt de aanvrager zich tot het relevante kindercentrum of gastouderbureau met het verzoek hem in de gelegenheid te stellen een aanpassingsstage te volgen.   
 4.  De aanvrager wordt gedurende de aanpassingsstage begeleid door een gekwalificeerde beoefenaar van het betrokken beroep, aangewezen door het kindercentrum of gastouderbureau waarbinnen deze begeleider werkzaam is.   
 5.  De aanpassingsstage wordt beoordeeld op de vraag of de aanvrager de vakken, bedoeld in het eerste lid, onder a, in voldoende mate beheerst.   
-6.  Het kindercentrum of het gastouderbureau deelt het resultaat van de aanpassingsstage zo spoedig mogelijk en in elk geval binnen een maand na het doorlopen van de aanpassingsstage mee aan de aanvrager en de minister.   
+6.  Het kindercentrum of het gastouderbureau deelt het resultaat van de aanpassingsstage zo spoedig mogelijk en in elk geval binnen een maand na het doorlopen van de aanpassingsstage mee aan de aanvrager en de minister.  
 
 ### Artikel  6  
 
 ####Herkansing
 
-Indien het resultaat van de proeve van bekwaamheid of de aanpassingsstage onvoldoende is, heeft de aanvrager het recht nogmaals een proeve van bekwaamheid af te leggen of een aanpassingsstage te doorlopen.  
+Indien het resultaat van de proeve van bekwaamheid of de aanpassingsstage onvoldoende is, heeft de aanvrager het recht nogmaals een proeve van bekwaamheid af te leggen of een aanpassingsstage te doorlopen. 
 
 ### Artikel  7  
 
@@ -116,21 +124,29 @@ c. een attest dat de dienstverrichter gerechtigd is om in een andere betrokken s
 
 d. bewijs van beroepskwalificaties;  
 
-e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) een bewijs van de daar omschreven beroepservaring.    
+e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) een bewijs van de daar omschreven beroepservaring.   
 
 ### Artikel  8  
 
-####Inwerkingtreding
+####Dienst Uitvoering Onderwijs
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+1.  Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheden van de Minister van Sociale Zaken en Werkgelegenheid bedoeld in de artikelen 2, onderdelen a en b, 3, 4, eerste lid, 5, eerste lid, en 7.   
+2.  Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid, met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.   
+3.  De Directeur-generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in het eerste en tweede lid, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat hij geen onder-mandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt, is verleend.  
 
 ### Artikel  9  
 
+####Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
+
+### Artikel  10  
+
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties kinderopvangpersoneel.  
+Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties kinderopvangpersoneel. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-A.Rouvoet   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+A. Rouvoet     
