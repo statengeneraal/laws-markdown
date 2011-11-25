@@ -22,21 +22,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. de begrotingen van de onderscheiden ministeries, hierna te noemen: de departementale begrotingen;  
 
-b. de begrotingen van nationale schuld, van wonen, wijken en integratie en van jeugd en gezin;  
+b. de begrotingen van nationale schuld;  
 
 c. de begroting van koninkrijksrelaties, tenzij de verplichtingen, uitgaven en ontvangsten die samenhangen met koninkrijksrelaties worden opgenomen in de begroting van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-d. de begroting van het koninklijk huis;  
+d. de begroting van de Koning;  
 
 e. de begroting van het Kabinet van de Koning;  
 
 f. de begroting van de Staten-Generaal;  
 
-g. de begroting van de Raad van State, de Algemene Rekenkamer, de Nationale ombudsman, de kanselarij der Nederlandse Orden, het Kabinet van de Gouverneur van Aruba, het Kabinet van de Gouverneur van Curaçao en het Kabinet van de Gouverneur van Sint Maarten;  
+g. de begroting van de overige Hoge Colleges van Staat en de Kabinetten van de Gouverneurs;  
 
 h. de begroting van de Commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten;  
 
-i. de begrotingen van de onderscheiden begrotingsfondsen, bedoeld in artikel 9.     
+i. de begrotingen van de onderscheiden begrotingsfondsen, bedoeld in artikel 9;  
+
+j. een andere begroting, indien die begroting aan de Rijksbegroting wordt toegevoegd bij de wet waarmee die begroting voor de eerste keer wordt vastgesteld.     
 2.  Begrotingen bestaan uit een begrotingsstaat als bedoeld in artikel 4, eerste lid, waarin zijn opgenomen de begrotingsartikelen, en een bij die staat behorende toelichting.   
 3.  De begrotingsstaten worden elk afzonderlijk bij de wet vastgesteld.   
 4.  In afwijking van het derde lid worden de begrotingsstaten van het Kabinet van de Koning en van de Commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten vastgesteld bij de wet waarmee de departementale begrotingsstaat van het Ministerie van Algemene Zaken wordt vastgesteld.   
@@ -162,7 +164,7 @@ h. de uitgaven en ontvangsten van het personeel en het materieel met betrekking 
 
 ### Artikel  8  
 
-1.  De begroting van het koninklijk huis bevat de uitkeringen aan de leden van dat huis. De begrotingsartikelen waarin die uitkeringen worden opgenomen hebben het karakter van een niet-beleidsartikel.   
+1.  De begroting van de Koning bevat de uitkeringen aan de leden van het koninklijk huis, alsmede de uitgaven die functioneel samenhangen met het koningschap. De begrotingsartikelen waarin die uitkeringen worden opgenomen hebben het karakter van een niet-beleidsartikel.   
 2.  In overeenstemming met Onze Minister van Financiën kan de toepassing van artikel 5 op een of meer van de begrotingen van de colleges, genoemd in artikel 1, eerste lid, onder e tot en met h, gelet op de staatsrechtelijke positie van de colleges, geheel of gedeeltelijk achterwege blijven.   
 
 ### Artikel  9  
@@ -171,6 +173,12 @@ h. de uitgaven en ontvangsten van het personeel en het materieel met betrekking 
 2.  De instelling van een begrotingsfonds geschiedt bij de wet.   
 3.  De wet tot instelling van een begrotingsfonds bepaalt de aard van de uitgaven en van de ontvangsten van het betrokken fonds, de bestemming van een batig dan wel de aanvulling van een nadelig jaarsaldo van het fonds, alsmede wie van Onze Ministers verantwoordelijk is voor het beheer van de begroting van het fonds.   
 4.  In overeenstemming met Onze Minister van Financien kan de toepassing van de artikelen 5 en 6 op de begroting van een begrotingsfonds geheel of gedeeltelijk achterwege blijven. In het geval artikel 5 niet wordt toegepast, worden de begrotingsartikelen van het betrokken begrotingsfonds geacht het karakter van een niet-beleidsartikel te hebben.   
+
+### Artikel  9a  
+
+1.  In afwijking van artikel 1, eerste lid, onder i, artikel 1, tweede en derde lid, en artikel 12, eerste lid, kan vanaf het begrotingsjaar 2012 worden afgezien van het indienen van een voorstel van wet tot vaststelling van de begrotingsstaat van het Fonds economische structuurversterking.   
+2.  Indien in enig begrotingsjaar geen voorstel als bedoeld in het eerste lid wordt ingediend, worden, in afwijking van de [artikelen 2](../../../../wet/wet/fonds/economische/structuurversterking/BWBR0007788/README.md) en [3 van de Wet Fonds economische structuurversterking](../../../../wet/wet/fonds/economische/structuurversterking/BWBR0007788/README.md), de ontvangsten, respectievelijk de uitgaven van het fonds voor dat begrotingsjaar op nihil gesteld.   
+3.  Dit artikel vervalt op het moment dat een voorstel als bedoeld in het eerste lid wordt ingediend.   
 
 ### Paragraaf  2  
 
@@ -307,15 +315,11 @@ b. de inrichting van het afzonderlijk onderdeel van de toelichting bij de voorst
 1.  Onze Ministers, ieder met betrekking tot het ministerie met de leiding waarvan hij is belast, zijn verantwoordelijk voor het beheer van de begrotingen van hun ministeries.   
 2.  Onze Minister van Financiën is verantwoordelijk voor het beheer van de begroting van nationale schuld.   
 3.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is verantwoordelijk voor het beheer van de begroting van koninkrijksrelaties.   
-4.  Onze Minister-President, Minister van Algemene Zaken, is verantwoordelijk voor het beheer van de begroting van het koninklijk huis, van de begroting van het Kabinet van de Koning en van de begroting van de Commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten.   
+4.  Onze Minister-President, Minister van Algemene Zaken, is verantwoordelijk voor het beheer van de begroting van de Koning, van de begroting van het Kabinet van de Koning en van de begroting van de Commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten.   
 5.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is verantwoordelijk voor het beheer van de begroting van de Staten-Generaal en van de begroting van de colleges, genoemd in artikel 1, eerste lid, onder g.   
 6.  De colleges, genoemd in artikel 1, eerste lid, onder e tot en met h, voeren het beheer over hun begroting of hun begrotingsdeel.   
 7.  Over de aan dit beheer te geven inhoud maakt Onze betrokken Minister afspraken met de onderscheiden colleges, waarin recht wordt gedaan aan hun staatsrechtelijke positie.   
-
-### Artikel  19a  
-
-1.  Onze Minister voor wonen, wijken en integratie is verantwoordelijk voor het beheer van de begroting van wonen, wijken en integratie.   
-2.  Onze Minister voor jeugd en gezin is verantwoordelijk voor het beheer van de begroting van jeugd en gezin.   
+8.  De wet, bedoeld in artikel 1, eerste lid, onderdeel j, bepaalt wie van Onze Ministers belast is met het beheer van de begroting die met die wet aan de Rijksbegroting wordt toegevoegd.   
 
 ### Paragraaf  2  
 
@@ -551,7 +555,7 @@ b. de bevoegdheid, bedoeld in artikel 22, tweede lid.
 
 a. rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt;  
 
-b. rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Commissie van de Europese Gemeenschappen op grond van een vastgesteld programma rechtstreeks of middellijk een subsidie wordt verstrekt;  
+b. rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Europese Commissie op grond van een vastgesteld programma rechtstreeks of middellijk een subsidie wordt verstrekt;  
 
 c. rechtspersonen voor zover die een bij of krachtens de wet geregelde taak uitoefenen en daartoe geheel of gedeeltelijk worden bekostigd uit de opbrengst van bij of krachtens de wet ingestelde heffingen.     
 2.  Van de in het eerste lid bedoelde rechtspersonen, vennootschappen en natuurlijke personen kunnen Onze Ministers kennis nemen van: 
@@ -580,7 +584,7 @@ c. verslagen van onderzoeken van accountants die de bescheiden, bedoeld onder a 
 
 a. bij of krachtens de wet opgelegde verplichtingen aangaande beheer, controle of toezicht ten aanzien van de rechtmatige en doelmatige besteding van collectieve middelen als bedoeld in artikel 43, eerste lid, onder a en c;  
 
-b. bij of krachtens de oprichtingsverdragen van de Europese Gemeenschappen aan de lidstaat opgelegde verplichtingen aangaande beheer, controle of toezicht ten aanzien van de rechtmatige en doelmatige besteding van collectieve middelen als bedoeld in artikel 43, het eerste lid, onder b.     
+b. bij of krachtens het Verdrag betreffende de werking van de Europese Unie aan de lidstaat opgelegde verplichtingen aangaande beheer, controle of toezicht ten aanzien van de rechtmatige en doelmatige besteding van collectieve middelen als bedoeld in artikel 43, het eerste lid, onder b.     
 4.  Onze Ministers kunnen de in de artikelen 43 en 43a bedoelde bevoegdheden uitoefenen zolang als en over de jaren dat de Staat daarbij belang heeft.   
 
 ### Artikel  44  
@@ -723,8 +727,7 @@ d. de bedragen van de gerealiseerde ontvangsten;   waarbij voor het verslagjaar 
 
 ### Artikel  57  
 
-1.  Het jaarverslag met betrekking tot de begroting van het koninklijk huis bevat in aansluiting op artikel 8, eerste lid, de gerealiseerde uitkeringen aan de leden van dat huis.   
-2.  Onze Minister, belast met het beheer van een begrotingsfonds, kan besluiten het jaarverslag van het begrotingsfonds op te nemen in een bijlage bij het departementale jaarverslag waarvoor hij verantwoordelijk is.   
+Onze Minister, belast met het beheer van een begrotingsfonds, kan besluiten het jaarverslag van het begrotingsfonds op te nemen in een bijlage bij het departementale jaarverslag waarvoor hij verantwoordelijk is.  
 
 ### Artikel  58  
 
@@ -1045,8 +1048,8 @@ c. rechtspersonen, commanditaire vennootschappen en vennootschappen onder firma 
 
 d. rechtspersonen voor zover die een bij of krachtens de wet geregelde taak uitoefenen en daartoe geheel of gedeeltelijk worden bekostigd uit de opbrengst van bij of krachtens de wet ingestelde heffingen.     
 2.  Aan de hand van dossiers, aanwezig bij Onze verantwoordelijke Minister dan wel bij de instelling, bedoeld in het negende lid, kan de Algemene Rekenkamer kennis nemen van jaarrekeningen, daarop betrekking hebbende rapporten van hen die deze jaarrekeningen hebben gecontroleerd en overige bescheiden, en kan zij bij Onze Minister dan wel die instelling daarover nadere inlichtingen inwinnen.   
-3.  Indien de bescheiden, bedoeld in het tweede lid, haar daartoe aanleiding geven, of een of meer bescheiden ontbreken, is de Algemene Rekenkamer bevoegd bij de betrokken rechtspersonen of bij de betrokken commanditaire vennootschappen of vennootschappen onder firma daarover nadere inlichtingen in te winnen dan wel van hen het overleggen van die bescheiden te vorderen. Het inwinnen van nadere inlichtingen en het vorderen van bescheiden heeft, indien het De Nederlandsche Bank N.V. betreft, niet betrekking op taken ter uitvoering van het Verdrag tot oprichting van de Europese Gemeenschap. Het inwinnen van nadere inlichtingen en het vorderen van bescheiden geschiedt, indien het de vennootschappen betreft, bedoeld in het eerste lid, onder b, door tussenkomst van Onze Minister en heeft wat het vorderen van bescheiden betreft uitsluitend betrekking op de jaarrekeningen en rapporten, bedoeld in het tweede lid.   
-4.  De Algemene Rekenkamer kan tevens bij de betrokken rechtspersonen en vennootschappen een onderzoek instellen, behalve bij de vennootschappen, bedoeld in het eerste lid, onder b, en bij De Nederlandsche Bank N.V., voor zover het taken ter uitvoering van het Verdrag tot oprichting van de Europese Gemeenschap betreft. Een onderzoek geschiedt bij de betrokken rechtspersoon of vennootschap mede aan de hand van de administratie of bij de derde die de administratie in opdracht van de rechtspersoon of vennootschap voert. Onze betrokken Minister wordt door de Algemene Rekenkamer van haar voornemen een dergelijk onderzoek in te stellen in kennis gesteld. Artikel 87, eerste lid, is van overeenkomstige toepassing.   
+3.  Indien de bescheiden, bedoeld in het tweede lid, haar daartoe aanleiding geven, of een of meer bescheiden ontbreken, is de Algemene Rekenkamer bevoegd bij de betrokken rechtspersonen of bij de betrokken commanditaire vennootschappen of vennootschappen onder firma daarover nadere inlichtingen in te winnen dan wel van hen het overleggen van die bescheiden te vorderen. Het inwinnen van nadere inlichtingen en het vorderen van bescheiden heeft, indien het De Nederlandsche Bank N.V. betreft, niet betrekking op taken ter uitvoering van het Verdrag betreffende de werking van de Europese Unie. Het inwinnen van nadere inlichtingen en het vorderen van bescheiden geschiedt, indien het de vennootschappen betreft, bedoeld in het eerste lid, onder b, door tussenkomst van Onze Minister en heeft wat het vorderen van bescheiden betreft uitsluitend betrekking op de jaarrekeningen en rapporten, bedoeld in het tweede lid.   
+4.  De Algemene Rekenkamer kan tevens bij de betrokken rechtspersonen en vennootschappen een onderzoek instellen, behalve bij de vennootschappen, bedoeld in het eerste lid, onder b, en bij De Nederlandsche Bank N.V., voor zover het taken ter uitvoering van het Verdrag betreffende de werking van de Europese Unie betreft. Een onderzoek geschiedt bij de betrokken rechtspersoon of vennootschap mede aan de hand van de administratie of bij de derde die de administratie in opdracht van de rechtspersoon of vennootschap voert. Onze betrokken Minister wordt door de Algemene Rekenkamer van haar voornemen een dergelijk onderzoek in te stellen in kennis gesteld. Artikel 87, eerste lid, is van overeenkomstige toepassing.   
 5.  Onverminderd het tweede lid en onverminderd haar bevoegdheid tot eigen onderzoek maakt de Algemene Rekenkamer zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles. Artikel 86, tweede lid, is van overeenkomstige toepassing.   
 6.  De Algemene Rekenkamer is bevoegd inzage te vorderen in de controledossiers van de accountant die de bescheiden, bedoeld in artikel 43, tweede lid, onder a en b, heeft gecontroleerd van de in het eerste lid, onder c en d, bedoelde rechtspersonen en vennootschappen. Artikel 43a, tweede en derde lid, is van overeenkomstige toepassing.   
 7.  De Algemene Rekenkamer kan haar bevoegdheden uitoefenen zolang als en over de jaren dat de Staat daarbij belang heeft dan wel, voor zover het betreft rechtspersonen of commanditaire vennootschappen of vennootschappen onder firma als bedoeld onder d van het eerste lid, zolang als en over de jaren dat het algemeen belang dit vordert.   
@@ -1063,11 +1066,11 @@ d. rechtspersonen voor zover die een bij of krachtens de wet geregelde taak uito
 
 ### Artikel  92  
 
-1.  Onverminderd het anders bij wet bepaalde, heeft de Algemene Rekenkamer de in de volgende leden vermelde bevoegdheden ten aanzien van rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Commissie van de Europese Gemeenschappen op grond van een vastgesteld programma rechtstreeks of middellijk een subsidie wordt verstrekt.   
+1.  Onverminderd het anders bij wet bepaalde, heeft de Algemene Rekenkamer de in de volgende leden vermelde bevoegdheden ten aanzien van rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Europese Commissie op grond van een vastgesteld programma rechtstreeks of middellijk een subsidie wordt verstrekt.   
 2.  Aan de hand van dossiers aanwezig bij Onze verantwoordelijke Minister, kan de Algemene Rekenkamer kennis nemen van jaarrekeningen, daarop betrekking hebbende rapporten van hen die deze jaarrekeningen hebben gecontroleerd en overige bescheiden, en kan zij bij Onze Minister daarover nadere inlichtingen inwinnen.   
 3.  Indien de bescheiden, bedoeld in het tweede lid, haar daartoe aanleiding geven, of een of meer bescheiden ontbreken, is de Algemene Rekenkamer bevoegd bij de betrokken rechtspersoon, commanditaire vennootschap, vennootschap onder firma of natuurlijke persoon die een beroep of bedrijf uitoefent daarover nadere inlichtingen in te winnen dan wel inzage in documenten en andere informatiedragers te vorderen, alsmede, mede aan de hand van de administratie van de betrokken rechtspersoon, vennootschap of natuurlijke persoon dan wel bij de derde die de administratie in opdracht van de rechtspersoon, vennootschap of natuurlijke persoon voert, een onderzoek in te stellen. Onze betrokken Minister wordt door de Algemene Rekenkamer van haar voornemen een dergelijk onderzoek in te stellen in kennis gesteld. Artikel 87, eerste lid, is van overeenkomstige toepassing.   
 4.  De Algemene Rekenkamer is bevoegd inzage te vorderen in de controledossiers van de accountant die de bescheiden, bedoeld in artikel 43, tweede lid, onder a en b, heeft gecontroleerd van de in het eerste lid, onder b, bedoelde rechtspersonen, vennootschappen en natuurlijke personen. Artikel 43a, tweede en derde lid, is van overeenkomstige toepassing.   
-5.  De in de voorgaande leden vermelde bevoegdheden zijn gericht op oordeelsvorming over het door Onze Minister gevoerde beleid ter nakoming van de bij of krachtens de oprichtingsverdragen van de Europese Gemeenschappen aan de lidstaat opgelegde verplichtingen aangaande beheer, controle of toezicht ten aanzien van de rechtmatige en doelmatige besteding van de subsidies als bedoeld in het eerste lid.   
+5.  De in de voorgaande leden vermelde bevoegdheden zijn gericht op oordeelsvorming over het door Onze Minister gevoerde beleid ter nakoming van de bij of krachtens het Verdrag betreffende de werking van de Europese Unie aan de lidstaat opgelegde verplichtingen aangaande beheer, controle of toezicht ten aanzien van de rechtmatige en doelmatige besteding van de subsidies als bedoeld in het eerste lid.   
 6.  De Algemene Rekenkamer kan de in dit artikel vermelde bevoegdheden uitoefenen zolang als en over de jaren dat de Staat daarbij belang heeft.   
 7.  Artikel 91, vierde, vijfde, twaalfde, dertiende, veertiende, vijftiende en zestiende lid, is van overeenkomstige toepassing.   
 8.  De Algemene Rekenkamer voert overleg met de Europese Rekenkamer teneinde te komen tot afspraken over de te hanteren normen en criteria bij het in dit artikel bedoelde onderzoek en over de wijze van samenwerking met de Europese Rekenkamer.   

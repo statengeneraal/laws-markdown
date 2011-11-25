@@ -29,7 +29,7 @@ de Suppletieregeling Filminvesteringen Nederland in opdracht van het Ministerie 
 
 – het hoofdthema van de bioscoopfilm heeft betrekking op historische figuren of gebeurtenissen;  
 
-– het hoofdthema van de bioscoopfilm heeft betrekking op voor de Nederlandse bevolking relevante actuele, culturele, maatschappelijke danwel politieke kwesties.     
+– het hoofdthema van de bioscoopfilm heeft betrekking op voor de Nederlandse bevolking relevante actuele, culturele, maatschappelijke danwel politieke kwesties.    
 
 ### §  2  
 
@@ -39,37 +39,37 @@ de Suppletieregeling Filminvesteringen Nederland in opdracht van het Ministerie 
 
 In deze regeling en de daarbij behorende bijlage wordt verstaan onder: 
 
-– *aanvrager:* een rechtspersoon, die ten genoegen van het Fonds aantoonbaar een onderneming drijft, die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van bioscoopfilms. De rechtspersoon is ten tijde van de subsidieaanvraag minimaal twee kalenderjaren gevestigd en actief geweest in het Koninkrijk der Nederlanden, een Lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;  
+–*aanvrager:* een rechtspersoon, die ten genoegen van het Fonds aantoonbaar een onderneming drijft, die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van bioscoopfilms. De rechtspersoon is ten tijde van de subsidieaanvraag minimaal twee kalenderjaren gevestigd en actief geweest in het Koninkrijk der Nederlanden, een Lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;  
 
 – bestuur: het bestuur van het Fonds;  
 
 – *bioscoopfilm:* elk audiovisueel werk, dat primair bestemd is voor vertoning in bioscopen met een vertoningduur van tenminste 60 minuten;  
 
-– completion guarantor: de verzekeraar die waarborgt dat de bioscoopfilm zal worden afgemaakt en opgeleverd onder in de verzekeringspolis opgenomen (budgettaire) voorwaarden voor of op de overeengekomen uiterste opleveringsdatum, of dat – als de productie zou worden gestaakt – de tot dan toe gemaakte productiekosten worden terugbetaald;  
+– completion guarantor: de verzekeraar die waarborgt dat de bioscoopfilm zal worden afgemaakt en opgeleverd onder in de verzekeringspolis opgenomen (budgettaire) voorwaarden voor of op de overeengekomen uiterste opleveringsdatum, of dat – als de productie zou worden gestaakt – de tot dan toe gemaakte productiekosten worden terugbetaald; 
 
-– *Deferment:* het afzien van het in rekening brengen van kosten onder de voorwaarde dat deze kosten terugbetaald worden uit de eventuele opbrengsten van de bioscoopfilm;  
+–*Deferment:* het afzien van het in rekening brengen van kosten onder de voorwaarde dat deze vergoed worden uit de eventuele opbrengsten van de bioscoopfilm;  
 
-– *Filmkosten:* Productiekosten (de kosten gemoeid met de voortbrenging van een bioscoopfilm), vermeerderd met de kosten voor prints & advertising van de bioscoopfilm in bioscopen in Nederland.  
+– *Filmkosten:* Productiekosten (de kosten gemoeid met de realisering van een bioscoopfilm), vermeerderd met de kosten voor prints & advertising van de bioscoopfilm in bioscopen in Nederland.  
 
 – filmplan: het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van activiteiten dat bestaat uit het financieren, voortbrengen en (doen) exploiteren van een bioscoopfilm;  
 
 – Fonds: de stichting Nederlands Fonds voor de Film;  
 
-– garantieopbrengst: een voorschot op exploitatieopbrengsten dat niet terugvorderbaar, maar verrekenbaar is met opbrengsten die een bioscoopfilm kan genereren door vertoning in bioscopen en verdere exploitatie in de ruimste zin des woords;  
+– garantieopbrengst: een voorschot op exploitatieopbrengsten dat niet terugvorderbaar, maar verrekenbaar is met opbrengsten die een bioscoopfilm kan genereren door vertoning in bioscopen en verdere exploitatie in de ruimste zin des woords; 
 
-– *Investering:* een financiële bijdrage van een marktpartij, die ten genoegen van het bestuur aantoonbaar in de productie van de bioscoopfilm wordt geïnvesteerd en die niet bestaat uit een deferment of een, naar het oordeel van het bestuur daaraan gelijkgestelde bijdrage of een sponsorbijdrage in natura;  
+– *Investering:* een financiële bijdrage van een marktpartij, die ten genoegen van het bestuur aantoonbaar in de productie van de bioscoopfilm wordt geïnvesteerd en die niet bestaat uit een deferment of een, naar het oordeel van het bestuur daaraan gelijkgestelde bijdrage of een sponsorbijdrage in natura; 
 
-– marktpartijen: partijen wier reguliere professionele activiteiten zijn gericht op het distribueren en exploiteren van bioscoopfilms, in de ruimste zin des woords, ofwel op het doen van risicodragende investeringen;  
+– marktpartijen: partijen wier reguliere professionele activiteiten zijn gericht op het distribueren en exploiteren van bioscoopfilms, in de ruimste zin des woords, ofwel op het doen van risicodragende investeringen; 
 
-– *bioscoopuitbreng:* een bioscoopfilm met een landelijk uitbreng via een filmdistributeur, die na de première minimaal drie weken gelijktijdig in drie of meer bioscopen met een dagelijkse vertoning voor een betalend publiek in Nederland wordt uitgebracht;  
+– *bioscoopuitbreng:* de landelijk distributie van een bioscoopfilm, die na de première minimaal drie weken gelijktijdig in drie of meer bioscopen of filmtheaters met een dagelijkse vertoning voor een betalend publiek in Nederland wordt uitgebracht; 
 
-– *filmdistributeur:* de distributiemaatschappij, die de bioscoopfilm in de Nederlandse bioscoop en verder via andere distributiekanalen uitbrengt;  
+– *Filmdistributeur:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de distributie en exploitatie van bioscoopfilms in de Nederlandse bioscoop en via andere distributiekanalen. De rechtspersoon is ten tijde van de subsidieaanvraag minimaal twee jaar gevestigd en actief geweest in Nederland, een Lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland; 
 
-– *producent:* de natuurlijke persoon, die de aanvrager rechtsgeldig vertegenwoordigt, (mede)aandelenhouder en binnen de organisatie van de aanvrager voor het beleid en de bedrijfsvoering verantwoordelijk is;  
+– *producent:* de natuurlijke persoon, die de aanvrager rechtsgeldig vertegenwoordigt, (mede)aandelenhouder en binnen de organisatie van de aanvrager beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is; 
 
-– *prints & advertising (P&A):* de directe kosten samenhangend met de bioscoopuitbreng en marketing van de bioscoopfilm, inclusief de kosten voor de uitbrengkopieën;  
+–  *prints & advertising (P&A):* de directe kosten na de fase van realisering die samenhangen met de bioscoopuitbreng en marketing van de voor vertoning gereed zijnde bioscoopfilm, inclusief de kosten voor de uitbrengkopieën (printkosten); 
 
-– *Algemeen reglement:* het algemeen reglement van het Fonds.    
+– *Algemeen reglement:* het algemeen reglement van het Fonds.   
 
 ### §  3  
 
@@ -83,22 +83,20 @@ a). maximaal 140 procent bedraagt van het bedrag dat door marktpartijen wordt ge
 
 b). maximaal 30 procent van de productiekosten bedraagt; en:  
 
-c). niet meer bedraagt dan € 1.500.000,00 euro, mits de producent in de periode van zeven kalenderjaren voorafgaand aan de subsidieaanvraag aantoonbaar hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm, die na première door 400.000 of meer personen is bezocht in de Nederlandse bioscoop.  
+c). niet meer bedraagt dan € 1.500.000,00 euro, mits de producent in de periode van zeven kalenderjaren voorafgaand aan de subsidieaanvraag aantoonbaar hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm, die na première door 400.000 of meer personen is bezocht in de Nederlandse bioscoop. In het geval er op grond van deze regeling vanaf 1 januari 2011 eerder subsidie is verleend aan een of meerdere reeds in de bioscoop uitgebrachte bioscoopfilms waarvoor de producent als aanvrager verantwoordelijk was dan is het gemiddelde van het bioscoopbezoek aan de desbetreffende bioscoopfilm(s) en de bioscoopfilm met het hoogste publieksbereik uit de periode van zeven kalenderjaren voorafgaand aan de aanvraag bepalend voor de hoogte van de aan te vragen subsidie.  
 
-d). niet meer bedraagt dan 1.000.000,00 euro indien de producent in de periode van zeven kalenderjaren voorafgaand aan de subsidieaanvraag aantoonbaar hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm, die na première door 200.000 tot 400.000 personen is bezocht in de Nederlandse bioscoop.  
+d). niet meer bedraagt dan 1.000.000,00 euro indien de producent in de periode van zeven kalenderjaren voorafgaand aan de subsidieaanvraag aantoonbaar hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm, die na première door 200.000 tot 400.000 personen is bezocht in de Nederlandse bioscoop. In het geval er op grond van deze regeling vanaf 1 januari 2011 eerder subsidie is verleend aan een of meerdere reeds in de bioscoop uitgebrachte bioscoopfilms waarvoor de producent als aanvrager verantwoordelijk was dan is het gemiddelde van het bioscoopbezoek aan de desbetreffende bioscoopfilm(s) en de bioscoopfilm met het hoogste publieksbereik uit de periode van zeven kalenderjaren voorafgaand aan de aanvraag bepalend voor de hoogte van de aan te vragen subsidie.  
 
-e). niet meer bedraagt dan 500.000,00 euro indien de producent in de periode van zeven kalenderjaren voorafgaand aan de subsidieaanvraag aantoonbaar hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm, die na première door 50.000 tot 200.000 personen is bezocht in de Nederlandse bioscoop.  
+e). niet meer bedraagt dan 500.000,00 euro indien de producent in de periode van zeven kalenderjaren voorafgaand aan de subsidieaanvraag aantoonbaar hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm, die na première door 100.000 tot 200.000 personen is bezocht in de Nederlandse bioscoop. In het geval er op grond van deze regeling vanaf 1 januari 2011 eerder subsidie is verleend aan een of meerdere reeds in de bioscoop uitgebrachte bioscoopfilms waarvoor de producent als aanvrager verantwoordelijk was dan is het gemiddelde van het bioscoopbezoek aan de desbetreffende bioscoopfilm(s) en de bioscoopfilm met het hoogste publieksbereik uit de periode van zeven kalenderjaren voorafgaand aan de aanvraag bepalend voor de hoogte van de aan te vragen subsidie.  
 
-f). Het maximum aan te vragen subsidiebedrag genoemd onder sub e). kan maximaal 250.000,00 euro hoger uitkomen indien de aanvraag voor subsidieverlening een bioscoopfilm betreft die reeds voldoet aan de nationale criteria voor moeilijke films of low budgetfilms, met dien verstande dat het maximale percentage staatssteun van 55% zoals genoemd in lid 3 van dit artikel niet wordt overschreden.  
-
-g). In het geval er op grond van deze regeling subsidie verleend wordt dan zal het bioscoopbezoek aan de gesubsidieerde bioscoopfilm, mede als uitgangspunt dienen voor de beoordeling van een nieuwe aanvraag, mits de première van deze bioscoopfilm minimaal drie maanden eerder heeft plaatsgevonden.     
+f). Het maximum aan te vragen subsidiebedrag genoemd onder sub e). kan maximaal 250.000,00 euro hoger uitkomen indien de aanvraag voor subsidieverlening een bioscoopfilm betreft die reeds voldoet aan de nationale criteria voor moeilijke films of low budgetfilms, met dien verstande dat het maximale percentage staatssteun van 55% zoals genoemd in lid 3 van dit artikel niet wordt overschreden.     
 2.  Aan een bioscoopfilm waarvoor één of meer Nederlandse bestuursorganen en/of het Fonds op grond van een andere dan de onderhavige regeling een financiële bijdrage heeft verleend, kan op grond van deze regeling slechts een zodanig bedrag aan subsidie worden verleend, dat het totaal van de door Nederlandse bestuursorganen en/of het Fonds verleende financiële bijdragen niet meer bedraagt dan 50 procent van de met de voortbrenging van de film gemoeide filmkosten.   
 3.  Indien de aanvraag subsidieverlening betreft voor een bioscoopfilm die voldoet aan de nationale criteria voor moeilijke films of low budgetfilms is het vorige lid van overeenkomstige toepassing, met dien verstande dat het genoemde percentage niet meer bedraagt dan 55 procent van de productiekosten. Een ‘low budget’ film is een bioscoopfilm waarvan de productiekosten ten hoogste € 2.000.000,– bedragen. Een ‘moeilijke’ film is een bioscoopfilm, die overwegend gericht is op het Nederlandse taalgebied en derhalve beperkte commerciële waarde heeft. Bij de subsidieaanvraag dient een schriftelijke visie van de makers gevoegd te zijn waaruit naar het oordeel van het Fonds blijkt dat de filmproductie bijdraagt aan de diversiteit van film in Nederland en daarnaast ofwel een opvallende artistieke verrijking ofwel een innovatieve aanvulling betekent op het reguliere filmaanbod in Nederland.   
-4.  Indien na de indiening van de aanvraag en het financieringsplan, maar vóór de subsidieverlening, nieuwe financiële bijdragen worden verkregen, dan zal het Fonds die bijdragen in mindering brengen op de aangevraagde subsidie.   
+4.  Indien na de indiening van de aanvraag en het financieringsplan, maar vóór de subsidieverlening, nieuwe financiële bijdragen worden verkregen, dan zal het Fonds die bijdragen in mindering brengen op de aangevraagde subsidie. 
 
 ### Artikel  4  
 
-Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling bedraagt maximaal € 12.000.000,– per kalenderjaar.  
+Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling bedraagt maximaal € 12.000.000,– per kalenderjaar. 
 
 ### §  4  
 
@@ -112,8 +110,8 @@ a). van de begrote productiekosten, zoals opgenomen in het filmplan, is op het m
 
 b). de investeringen van marktpartijen bedragen tenminste 30 procent van de begrote productiekosten, zoals opgenomen in het filmplan, waarin is begrepen een bedrag gelijk aan tenminste 8 procent van de begrote productiekosten, dat door de filmdistributeur op marktconforme voorwaarden is toegezegd als investering in de vorm van een garantieopbrengst (minimum garantie) ten behoeve van de bioscoopuitbreng en verdere exploitatie in Nederland. Om verzekerd te zijn van een onafhankelijke markttoets is de filmdistributeur niet gelijk aan de producent en heeft deze ook geen zakelijk belang in de aanvrager.  
 
-c). In plaats van een investering als garantieopbrengst (minimum garantie) kan voor een investering in de prints & advertising gekozen worden om de marktpotentie aan te tonen. In een dergelijk geval is er een investering door de filmdistributeur toegezegd, die gelijk staat aan 8 procent of meer van de begrote productiekosten, welke gegarandeerd en zonder enig voorbehoud in de prints & advertising van de bioscoopuitbreng in Nederland geïnvesteerd wordt. De investering is vastgelegd in een overeenkomst tussen de aanvrager en filmdistributeur, welke tevens inzicht geeft in de onderliggende afspraken omtrent distributie fees en royaltyverdeling.     
-2.  Voor de toepassing van het eerste lid, onder b, zijn de begrote productiekosten, die dienen als grondslag voor de bepaling van de omvang van de door de filmdistributeur toezegde investering gemaximeerd op een bedrag van € 5.000.000,–.   
+c). In plaats van een investering als garantieopbrengst (minimum garantie) kan voor een investering in de prints & advertising gekozen worden om de marktpotentie aan te tonen. In een dergelijk geval is er een investering door de filmdistributeur toegezegd, die gelijk staat aan 8 procent of meer van de begrote productiekosten, welke gegarandeerd en zonder enig voorbehoud in de prints & advertising van de bioscoopuitbreng in Nederland geïnvesteerd wordt. De investering is vastgelegd in een overeenkomst tussen de aanvrager en filmdistributeur, welke tevens inzicht geeft in de onderliggende afspraken omtrent distributie fees en royaltyverdeling.    
+2.  Voor de toepassing van het eerste lid, onder b, zijn de begrote productiekosten, die dienen als grondslag voor de bepaling van de omvang van de door de filmdistributeur toezegde investering gemaximeerd op een bedrag van € 5.000.000,–.  
 
 ### Artikel  6  
 
@@ -133,14 +131,14 @@ f. niet aannemelijk is dat de bioscoopfilm conform het filmplan zal worden uitge
 
 g. onvoldoende vertrouwen bestaat dat het filmplan naar behoren wordt uitgevoerd; of:  
 
-h. de aanvraag niet voldoet aan de voorwaarden genoemd in artikelen 3 en 5 van deze regeling dan wel overigens niet voldoet aan deze regeling.  
+h.de aanvraag niet voldoet aan de voorwaarden genoemd in artikelen 3 en 5 van deze regeling dan wel overigens niet voldoet aan deze regeling.  
 
 i. de aanvraag overigens niet voldoet aan deze regeling.     
 2.  Het bestuur van het Fonds beslist afwijzend op een aanvraag tot verlening van subsidie op grond van deze regeling, indien de producent, die hoofdverantwoordelijk is voor de bioscoopfilm waarvoor de aanvraag is ingediend: 
 
 – niet eveneens hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste twee bioscoopfilms met een bioscoopuitbreng;  
 
-– in de periode van zeven kalenderjaren voorafgaand aan een subsidieaanvraag niet hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm met een bioscoopuitbreng, die na première door minimaal 50.000 personen in Nederlandse bioscoop is bezocht.     
+– in de periode van zeven kalenderjaren voorafgaand aan een subsidieaanvraag niet hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm met een bioscoopuitbreng, die na première door minimaal 100.000 personen in Nederlandse bioscoop is bezocht.     
 3.  Het bestuur van het Fonds beslist afwijzend op een aanvraag tot verlening van subsidie op grond van deze regeling, indien naar het oordeel van het bestuur verlening van de gevraagde subsidie ertoe zou leiden dat aan de aanvrager op grond van deze regeling in een kalenderjaar voor een totaalbedrag groter dan € 2.500.000 aan subsidies wordt verleend ten behoeve van de voortbrenging van meerdere bioscoopfilms door dezelfde aanvrager.   
 4.  Het bestuur van het Fonds beslist afwijzend op een aanvraag tot verlening van subsidie op grond van deze regeling, indien de aanvrager naar het oordeel van het bestuur aangemerkt moet worden als een omroepvereniging of een andere instelling die zendtijd heeft gekregen in de zin van de [Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md) of anderszins op Nederland gerichte televisie-uitzendingen verzorgt.   
 5.  Voor de toepassing van het derde en vierde lid worden als aanvrager tevens in aanmerking genomen met de aanvrager verbonden lichamen. Als een met de aanvrager verbonden lichaam wordt aangemerkt: 
@@ -149,7 +147,7 @@ a. een lichaam waarin de aanvrager, direct of indirect, voor ten minste een derd
 
 b. een lichaam dat, direct of indirect, voor ten minste een derde gedeelte belang heeft in de aanvrager; ofwel:  
 
-c. een lichaam waarin een derde, direct of indirect, voor tenminste een derde gedeelte belang heeft, terwijl deze derde, direct of indirect, tevens voor ten minste een derde gedeelte belang heeft in de aanvrager.     
+c. een lichaam waarin een derde, direct of indirect, voor tenminste een derde gedeelte belang heeft, terwijl deze derde, direct of indirect, tevens voor ten minste een derde gedeelte belang heeft in de aanvrager.    
 
 ### §  5  
 
@@ -160,7 +158,7 @@ c. een lichaam waarin een derde, direct of indirect, voor tenminste een derde ge
 1.  Een aanvraag om verlening van een subsidie op grond van deze regeling wordt ingediend met gebruikmaking van een formulier, dat wordt vastgesteld door het bestuur.   
 2.  Het aanvraagformulier bevat onder meer het filmplan, bestaande uit: 
 
-a. het scenario, inclusief synopsis van de bioscoopfilm, terzake waarvan wordt aangetoond dat de exclusieve verfilmingsrechten, of in ieder geval een optierecht daarop, in handen zijn van de aanvrager; en:  
+a. het scenario, inclusief synopsis van de bioscoopfilm, terzake waarvan wordt aangetoond dat de exclusieve verfilming- en exploitatierechten, of in ieder geval een optierecht daarop, in handen zijn van de aanvrager; en:  
 
 b. een gespecificeerde begroting van de productiekosten, die niet substantieel afwijkt van een eerder door het Fonds goedgekeurde begroting; en:  
 
@@ -176,14 +174,18 @@ i. een schatting van de opbrengsten van marktpartijen, en:
 
 ii. het percentage van de begrote productiekosten dat reeds is gedekt door schriftelijk toegezegde bijdragen van marktpartijen; en:  
 
-iii. het percentage van de begrote filmkosten dat reeds is gedekt door een investering door een filmdistributeur met het oog op de voorgenomen bioscoopuitbreng in Nederland; en:    
+iii. het percentage van de begrote filmkosten dat reeds is gedekt door een investering door een filmdistributeur met het oog op de voorgenomen bioscoopuitbreng in Nederland; en:  
 
-e. een gespecificeerd marketing- en promotieplan; en:  
+iv. de overeengekomen verdeling van nationale en internationale netto-opbrengsten (royalties) tussen aanvrager en filmdistributeur en/of andere bij de bioscoopfilm betrokken exploitanten waaruit blijkt hoe het Fonds en de overige financiers conform artikel 11 lid 7 van deze regeling, terugbetaald worden uit alle vormen van exploitatie waaronder, maar niet beperkt tot bioscoopuitbreng, verhuur en verkoop DVD/Blu-Ray en andere dragers, On Demand services, Free TV, Pay TV en overige Ancillary exploitatie. De verdeling en verplichting tot terugbetaling aan het Fonds dient realistisch en gedegen onderbouwd te zijn en geldt tevens als basis voor de rapportage aan het Fonds zoals vastgelegd in artikel 11 lid 6.  
+
+v. de kostenposten samenhangend met bioscoopexploitatie en verdere exploitatie waarbij de kosten voor prints & advertising met eerste bioscoopopbrengsten (in principe of the top) verrekend worden.   
+
+e. een gespecificeerd marketing- en promotieplan; en: 
 
 f. een actueel en waarheidsgetrouw overzicht van alle opbrengsten uit eerdere bioscoopfilms van de aanvrager en/of de producent, die met subsidie vanuit de Suppletieregeling tot stand zijn gekomen.     
-3.  Het in het eerste lid bedoelde formulier dient juist en volledig te worden ingevuld en, vergezeld van de gevraagde bijlagen, schriftelijk te worden ingediend bij het Fonds.   
-4.  Aanvragen tot subsidieverlening worden behandeld in volgorde van ontvangst. Indien de aanvrager niet heeft voldaan aan de voorwaarden van deze regeling voor het in behandeling nemen van het verzoek wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid gesteld om het verzoek aan te vullen binnen 5 werkdagen. Aanvulling binnen voornoemde termijn heeft geen invloed op de ontvangstdatum.   
-5.  Indien de aanvrager er niet in slaagt om binnen de termijn als bedoeld in lid 4 de aanvraag aan te vullen, wordt een uiterste termijn van 10 werkdagen gesteld, waarbinnen de aanvraag nog kan worden aangevuld. Aanvulling binnen de uiterste termijn leidt er toe dat de dag waarop het verzoek voldoet aan de voorwaarden van deze regeling met betrekking tot de behandeling, als datum van ontvangst geldt.   
+3.  Het in het eerste lid bedoelde formulier dient juist en volledig te worden ingevuld en, vergezeld van de gevraagde bijlagen, zowel schriftelijk als digitaal te worden ingediend bij het Fonds.   
+4.  Aanvragen tot subsidieverlening worden behandeld in volgorde van ontvangst van de schriftelijke aanvraag. Indien de aanvrager niet heeft voldaan aan de voorwaarden van deze regeling voor het in behandeling nemen van het verzoek wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid gesteld om het verzoek aan te vullen binnen 5 werkdagen. Aanvulling binnen voornoemde termijn heeft geen invloed op de ontvangstdatum.  
+5. Indien de aanvrager er niet in slaagt om binnen de termijn als bedoeld in lid 4 de aanvraag aan te vullen, wordt een uiterste termijn van 10 werkdagen gesteld, waarbinnen de aanvraag nog kan worden aangevuld. Aanvulling binnen de uiterste termijn leidt er toe dat de dag waarop het verzoek voldoet aan de voorwaarden van deze regeling met betrekking tot de behandeling, als datum van ontvangst geldt.
 
 ### Artikel  8  
 
@@ -199,7 +201,7 @@ d. de aanvrager of een daarmee op de voet van artikel 6, vijfde lid gelijk te st
 2.  Aanvragen tot subsidieverlening die aan de voorwaarden van deze regeling voor het in behandeling nemen van het verzoek en voor het verlenen van subsidie voldoen worden aangehouden, indien verlening van de subsidie zou leiden tot een overschrijding van het subsidieplafond, zoals bedoeld in artikel 4, en wel tot aan het moment waarop het Fonds weer beschikt over voldoende subsidiemiddelen om de gevraagde subsidie in haar geheel te verlenen, zonder dat die verlening dan zou leiden tot overschrijding van het subsidieplafond, zoals bedoeld in artikel 4.   
 3.  Het Fonds stelt de aanvrager, wiens aanvraag zoals bedoeld in het tweede lid, is aangehouden, zo spoedig mogelijk in kennis van het beschikbaar komen van de subsidiemiddelen die noodzakelijk zijn om de aangevraagde subsidie te kunnen verlenen binnen de termijnen, zoals genoemd in artikel 9.   
 4.  Bij de kennisgeving, zoals bedoeld in het vorige lid, stelt het Fonds de aanvrager in de gelegenheid om de aanvraag binnen 10 werkdagen schriftelijk aan te vullen met na indiening van de aanvraag gewijzigde gegevens. Indien de aanvrager deze gegevens binnen een termijn van 10 werkdagen verstrekt en de aldus aangevulde aanvraag voldoet aan de voorwaarden voor het in behandeling nemen van de aanvraag, wordt de aanvulling niet beschouwd als een aanvulling in de zin van artikel 7, vijfde lid, en geldt de datum van de oorspronkelijke aanvraag als datum van ontvangst.   
-5.  Indien een aanvraag, ingediend vóór 1 januari 2011, op grond van lid 2 wordt aangehouden dan wordt de aanvrager bij de kennisgeving als bedoeld in lid 4 tevens in de gelegenheid gesteld om de aanvraag in overeenstemming te brengen met de regeling, die per 1 januari 2011 van kracht is. De aanvrager krijgt hiervoor een termijn van 10 werkdagen.   
+5.  Indien een aanvraag, ingediend vóór 1 januari 2012, op grond van lid 2 wordt aangehouden dan wordt de aanvrager bij de kennisgeving als bedoeld in lid 4 tevens in de gelegenheid gesteld om de aanvraag in overeenstemming te brengen met de regeling, die per 1 januari 2012 van kracht is. De aanvrager krijgt hiervoor een termijn van 10 werkdagen. 
 
 ### §  6  
 
@@ -210,7 +212,7 @@ d. de aanvrager of een daarmee op de voet van artikel 6, vijfde lid gelijk te st
 1.  Een beslissing op een aanvraag om subsidieverlening op grond van deze regeling wordt binnen acht weken na ontvangst van de aanvraag genomen.   
 2.  Indien het bestuur naar zijn oordeel een beslissing op een aanvraag tot subsidieverlening niet binnen de termijn, zoals bedoeld in het eerste lid, kan geven, stelt het Fonds de aanvrager daarvan binnen acht weken in kennis en noemt daarbij een redelijke termijn waarbinnen de beslissing wel tegemoet kan worden gezien.   
 3.  De termijn voor het nemen van een beslissing wordt opgeschort met ingang van de dag waarop het Fonds de aanvrager uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken.   
-4.  Subsidies op grond van deze regeling worden verleend op voorwaarde dat de aanvrager meewerkt aan de tot standkoming van een overeenkomst ter uitvoering van de beschikking tot subsidieverlening, waartoe een standaardmodel door het Fonds wordt gehanteerd. Het bestuur van het Fonds kan in aanvulling op het model bepalingen opnemen die strekken tot verwezenlijking van het doel van de subsidie en aan de subsidieverlening voorwaarden verbinden met betrekking tot het verstrekken van zekerheden door de aanvrager of de partijen die financieringsbijdragen hebben toegezegd ten behoeve van de tot standkoming van de bioscoopfilm.   
+4.  Subsidies op grond van deze regeling worden verleend op voorwaarde dat de aanvrager meewerkt aan de tot standkoming van een overeenkomst ter uitvoering van de beschikking tot subsidieverlening, waartoe een standaardmodel door het Fonds wordt gehanteerd. Het bestuur van het Fonds kan in aanvulling op het model bepalingen opnemen die strekken tot verwezenlijking van het doel van de subsidie en aan de subsidieverlening voorwaarden verbinden met betrekking tot het verstrekken van zekerheden door de aanvrager of de partijen die financieringsbijdragen hebben toegezegd ten behoeve van de tot standkoming van de bioscoopfilm.  
 
 ### §  7  
 
@@ -227,7 +229,7 @@ b. de terzake van de financiering en exploitatie van de bioscoopfilm waarvoor su
 c. een schriftelijke verklaring te overleggen van een completion guarantor, waaruit onomstotelijk blijkt dat de begrote productiekosten van de bioscoopfilm waarvoor subsidie is verleend, zoals op genomen in de productiebegroting, toereikend zijn en dat de voortbrenging en voltooiing van de bioscoopfilm waarvoor subsidie is verleend vallen onder de dekking van deze completion guarantor vanaf het moment waarop de bioscoopfilmopnamen starten. Deze verplichting geldt voor bioscoopfilms met een productiebudget (productiekosten) vanaf twee miljoen euro.     
 2.  Binnen een termijn van acht weken na ontvangst van alle bescheiden, zoals bedoeld in het eerste lid, zal het Fonds de aanvrager schriftelijk mededelen of naar zijn oordeel is voldaan aan de verplichtingen, zoals bedoeld in het eerste lid.   
 3.  De aanvrager is verplicht er voor zorg te dragen dat de opnamen van de bioscoopfilm waarvoor subsidie is verleend starten binnen uiterlijk 12 maanden na de subsidieverlening.   
-4.  Van de termijnen, zoals genoemd in het eerste en derde lid, kan niet worden afgeweken. Indien de aanvrager deze termijnen overschrijdt, zal het Fonds de subsidieverlening intrekken. Het besluit tot intrekking werkt terug tot en met het tijdstip waarop de subsidie is verleend.   
+4.  Van de termijnen, zoals genoemd in het eerste en derde lid, kan niet worden afgeweken. Indien de aanvrager deze termijnen overschrijdt, zal het Fonds de subsidieverlening intrekken. Het besluit tot intrekking werkt terug tot en met het tijdstip waarop de subsidie is verleend.  
 
 ### Artikel  11  
 
@@ -237,8 +239,8 @@ c. een schriftelijke verklaring te overleggen van een completion guarantor, waar
 4.  De aanvrager is verplicht de subsidie aan te wenden voor de uitvoering van het filmplan.   
 5.  De aanvrager is verplicht tijdens de voortbrenging van de bioscoopfilm waarvoor subsidie is verleend het Fonds adequaat over de voortgang te informeren en na voortbrenging en uitbreng van de bioscoopfilm die gegevens te verstrekken die voor het vaststellen van de verleende subsidie noodzakelijk zijn.   
 6.  De aanvrager is verplicht het Fonds adequaat en schriftelijk te informeren over de bezoek- en verkoopcijfers over alle vormen van exploitatie en de kosten en de opbrengsten die door exploitatie van de bioscoopfilm waarvoor subsidie is verleend worden gegenereerd en tot zekerheid van nakoming van deze rapportageverplichtingen de vorderingen die hij heeft op derden terzake van opbrengsten uit exploitatie van de bioscoopfilm waarvoor subsidie is verleend te verpanden aan het Fonds.   
-7.  De netto opbrengst zal worden verdeeld zoals vastgelegd en gedefinieerd in het (terugbetaling-) recoupmentschema, welke onderdeel zal uitmaken van de uitvoeringsovereenkomst. De bijdrage op grond van de Suppletieregeling geniet een preferente positie als ware het een eigen investering van de aanvrager in de bioscoopfilm, althans tot het moment dat een bedrag is ontvangen dat gelijk is aan de bijdrage van het Fonds op grond van de Suppletieregeling. Deze positie kan een aanvrager inzetten om marktgeld voor de financiering van de bioscoopfilm aan te trekken en/of dient ten genoegen van het Fonds aantoonbaar in de ontwikkeling en realisatie van nieuwe bioscoopfilms en/of de versterking van de onderneming van de aanvrager geïnvesteerd te worden.   
-8.  Indien zou blijken dat inkomsten niet zijn ontvangen of besteed op de wijze zoals verwoord in lid 7, en/of er anderszins misbruik is gemaakt van de inkomsten, die in de terugbetalingpositie van de Suppletieregeling zijn binnengekomen dan worden deze door het Fonds teruggevorderd.   
+7.  De netto opbrengst zal worden verdeeld zoals vastgelegd en gedefinieerd in het (terugbetalings-) recoupmentschema, welke onderdeel zal uitmaken van de uitvoeringsovereenkomst. De aanvrager is verplicht om de gehele financiële bijdrage van het Fonds ten behoeve van de ontwikkeling en realisering van de bioscoopfilm terug te betalen uit de opbrengsten van de exploitatie van deze bioscoopfilm. De terugbetaling dient te geschieden conform artikel 7 van hoofdstuk 1 en hoofdstuk 3 van het Financieel & Productioneel Protocol.   
+8.  Indien zou blijken dat inkomsten niet zijn ontvangen of besteed op de wijze zoals verwoord in lid 7, en/of er anderszins misbruik is gemaakt van de inkomsten, die in de terugbetalingpositie van de Suppletieregeling zijn binnengekomen dan worden deze door het Fonds teruggevorderd. 
 
 ### Artikel  12  
 
@@ -248,12 +250,12 @@ a. welke zekerheden, voor zover daartoe naar het oordeel van het bestuur gerede 
 
 b. de frequentie waarmee en de termijnen waarbinnen en de vorm waarin de aanvrager voldoet aan de rapportage verplichtingen, zoals bedoeld in artikel 11, zesde lid; en:  
 
-c. de wijze waarop de met exploitatie van de bioscoopfilm te genereren opbrengsten worden verdeeld tussen de rechthebbenden en op welk moment deze opbrengsten dienen te worden aangewend om de op grond van deze regeling verleende subsidie terug te betalen.    
+c. de wijze waarop de met exploitatie van de bioscoopfilm te genereren opbrengsten worden verdeeld tussen de rechthebbenden en op welk moment deze opbrengsten dienen te worden aangewend om de op grond van deze regeling verleende subsidie terug te betalen.   
 
 ### Artikel  13  
 
 1.  In geval de aanvrager toerekenbaar is tekortgeschoten in de uitvoering van, dan wel niet heeft voldaan aan de verplichtingen, die zijn verbonden aan de subsidieverlening, is het Fonds bevoegd de subsidieverlening in trekken of te wijzigen ten nadele van de aanvrager. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij bij de intrekking of wijziging anders is bepaald.   
-2.  Het bestuur is voorts bevoegd de subsidieverlening ten nadele van de aanvrager te wijzigen wanneer de aanvrager na de subsidieverlening, maar vóór de vaststelling van de subsidie, nieuwe financiële bijdragen als bedoeld in artikel 5, lid 1, heeft verkregen, en de subsidie te verlagen met een bedrag gelijk aan die financiële bijdrage(n). Het bedrag waarmee de subsidie wordt verlaagd wordt in eerste instantie verrekend met de nog te verlenen voorschotten. Mocht dat niet toereikend zijn dan zullen reeds uitbetaalde voorschotten kunnen worden teruggevorderd.   
+2.  Het bestuur is voorts bevoegd de subsidieverlening ten nadele van de aanvrager te wijzigen wanneer de aanvrager na de subsidieverlening, maar vóór de vaststelling van de subsidie, nieuwe financiële bijdragen als bedoeld in artikel 5, lid 1, heeft verkregen, en de subsidie te verlagen met een bedrag gelijk aan die financiële bijdrage(n). Het bedrag waarmee de subsidie wordt verlaagd wordt in eerste instantie verrekend met de nog te verlenen voorschotten. Mocht dat niet toereikend zijn dan zullen reeds uitbetaalde voorschotten kunnen worden teruggevorderd. 
 
 ### §  8  
 
@@ -262,7 +264,7 @@ c. de wijze waarop de met exploitatie van de bioscoopfilm te genereren opbrengst
 ### Artikel  14  
 
 1.  Vaststelling van de verleende subsidie vindt plaats op basis van een daartoe door de aanvrager gedane aanvraag.   
-2.  De aanvraag tot vaststelling van de subsidie wordt, vergezeld van de daartoe noodzakelijke bescheiden, gedaan binnen uiterlijk 6 maanden na bioscoopuitbreng van de bioscoopfilm waarvoor subsidie is verleend. Indien geen bioscoopuitbreng plaats heeft of indien deze termijn wordt overschreden, is het Fonds bevoegd de verleende subsidie ambtshalve vast te stellen.   
+2.  De aanvraag tot vaststelling van de subsidie wordt, vergezeld van de daartoe noodzakelijke bescheiden, gedaan binnen uiterlijk 6 maanden na bioscoopuitbreng van de bioscoopfilm waarvoor subsidie is verleend. Indien geen bioscoopuitbreng plaats heeft of indien deze termijn wordt overschreden, is het Fonds bevoegd de verleende subsidie ambtshalve vast te stellen.  
 
 ### Artikel  15  
 
@@ -276,13 +278,13 @@ c. Uit de bij de aanvraag tot vaststelling verstrekte gegevens blijkt dat de doo
 
 d. Uit de bij de aanvraag tot vaststelling verstrekte gegevens blijkt dat het totaal van de verleende subsidie en de financiële bijdragen van een ander Nederlands bestuursorgaan en/of het Fonds op grond van een andere dan de onderhavige regeling meer bedraagt dan 50 procent van de werkelijk gemaakte kosten voor de voortbrenging van de bioscoopfilm; of:  
 
-e. Uit de bij de aanvraag tot vaststelling verstrekte gegevens blijkt dat het totaal van de verleende subsidie en de financiële bijdragen van een ander Nederlands bestuursorgaan en/of het Fonds op grond van een andere dan de onderhavige regeling meer bedraagt dan 55 procent van de werkelijk gemaakte productiekosten. Deze uitzondering geldt voor een bioscoopfilm, die voldoet aan de criteria, zoals bedoeld in [artikel 5, derde lid, van de Uitvoeringsregeling lange speelfilm](../../../../../zbo/uitvoeringsregeling/lange/speelfilm/BWBR0022005/README.md); of:  
+e. Uit de bij de aanvraag tot vaststelling verstrekte gegevens blijkt dat het totaal van de verleende subsidie en de financiële bijdragen van een ander Nederlands bestuursorgaan en/of het Fonds op grond van een andere dan de onderhavige regeling meer bedraagt dan 55 procent van de werkelijk gemaakte productiekosten. Deze uitzondering geldt voor een bioscoopfilm, die voldoet aan de criteria, zoals bedoeld in artikel 3, derde lid van deze regeling; of: 
 
-f. Uit de bij de aanvraag tot vaststelling van de subsidie verstrekte gegevens blijkt dat de aanvrager, behalve de in het ingediende financieringplan genoemde bijdragen, nog aanvullende financiële bijdragen als bedoeld in artikel 5, eerste lid, heeft verkregen.    
+f. Uit de bij de aanvraag tot vaststelling van de subsidie verstrekte gegevens blijkt dat de aanvrager, behalve de in het ingediende financieringplan genoemde bijdragen, nog aanvullende financiële bijdragen als bedoeld in artikel 5, eerste lid, heeft verkregen.   
 
 ### Artikel  16  
 
-De hoogte van de subsidievaststelling kan niet hoger zijn dan het bedrag van de subsidieverlening.  
+De hoogte van de subsidievaststelling kan niet hoger zijn dan het bedrag van de subsidieverlening. 
 
 ### §  9  
 
@@ -290,7 +292,7 @@ De hoogte van de subsidievaststelling kan niet hoger zijn dan het bedrag van de 
 
 ### Artikel  17  
 
-Ook in de gevallen waarin deze regeling niet expliciet voorziet is het Fonds, op grond van [afdeling 4.2.6 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot wijziging of intrekking van de subsidieverlening en de subsidievaststelling.  
+Ook in de gevallen waarin deze regeling niet expliciet voorziet is het Fonds, op grond van [afdeling 4.2.6 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot wijziging of intrekking van de subsidieverlening en de subsidievaststelling. 
 
 ### §  10  
 
@@ -298,7 +300,7 @@ Ook in de gevallen waarin deze regeling niet expliciet voorziet is het Fonds, op
 
 ### Artikel  18  
 
-Het subsidiebedrag wordt betaald binnen 4 weken na de subsidievaststelling, overeenkomstig de subsidievaststelling, onder verrekening van de betaalde voorschotten.  
+Het subsidiebedrag wordt betaald binnen 8 weken na de subsidievaststelling, overeenkomstig de subsidievaststelling, onder verrekening van de betaalde voorschotten. 
 
 ### Artikel  19  
 
@@ -309,13 +311,13 @@ a. met betrekking tot de verleende subsidie geen uitvoeringsovereenkomst met de 
 
 b. voor de voortbrenging en voltooiing van de bioscoopfilm waarvan de productiekosten minimaal twee miljoen euro bedragen en waarvoor subsidie is verleend nog geen definitieve verzekeringsdekking is gegeven door de completion guarantor; of:  
 
-c. de hoofdvestiging van de aanvrager niet in Nederland is gelegen en de aanvrager nalaat aan te tonen dat zij beschikt over een nevenvestiging in Nederland met ten minste één werknemer in vaste dienst.     
+c.de hoofdvestiging van de aanvrager niet in Nederland is gelegen en de aanvrager nalaat aan te tonen dat zij beschikt over een nevenvestiging in Nederland met ten minste één werknemer in vaste dienst.   
 3.  Aan het verlenen van voorschotten kan het Fonds, indien daartoe gerede aanleiding bestaat, nadere voorwaarden stellen ten aanzien van het verstrekken van zekerheden door de aanvrager of de partijen die financieringsbijdragen hebben toegezegd aan de bioscoopfilm waarvoor subsidie is verleend.   
-4.  Voorschotten worden binnen vier weken na voorschotverlening betaald, tenzij bij de voorschotverlening anders is bepaald.   
+4.  Voorschotten worden binnen vier weken na voorschotverlening betaald, tenzij bij de voorschotverlening anders is bepaald.  
 
 ### Artikel  20  
 
-Binnen een termijn van vijf kalenderjaren, te rekenen vanaf de dag van hetzij de subsidievaststelling, hetzij de dag waarop de verleende of vastgestelde subsidie is ingetrokken of ten nadele van de aanvrager is gewijzigd, kan het Fonds onverschuldigd betaalde subsidiebedragen en voorschotten terugvorderen.  
+Binnen een termijn van vijf kalenderjaren, te rekenen vanaf de dag van hetzij de subsidievaststelling, hetzij de dag waarop de verleende of vastgestelde subsidie is ingetrokken of ten nadele van de aanvrager is gewijzigd, kan het Fonds onverschuldigd betaalde subsidiebedragen en voorschotten terugvorderen. 
 
 ### §  11  
 
@@ -332,7 +334,7 @@ b. het bezwaar kennelijk ongegrond is; of
 
 c. de indiener van het bezwaar heeft verklaard geen gebruik te willen maken van het recht te worden gehoord; of:  
 
-d. aan het bezwaar volledig wordt tegemoet gekomen en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad.     
+d. aan het bezwaar volledig wordt tegemoet gekomen en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad.    
 
 ### §  12  
 
@@ -340,16 +342,16 @@ d. aan het bezwaar volledig wordt tegemoet gekomen en andere belanghebbenden daa
 
 ### Artikel  22  
 
-1.  Deze regeling treedt in werking op de tweede dag na publicatie van een daarop gericht besluit van het bestuur in de Staatscourant.   
-2.   Vervallen.    
-3.   Vervallen.    
-4.  Deze regeling heeft een onbepaalde looptijd. Indien wijzingen van het beoordelingskader voor staatsteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie, daartoe noodzaken, zal deze regeling tussentijds worden aangepast.   
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en niet eerder dan 1 januari 2012.  
+2.  Vervallen.  
+3.  Vervallen.  
+4.  Deze regeling heeft een onbepaalde looptijd. Indien wijzingen van het beoordelingskader voor staatsteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie, daartoe noodzaken, zal deze regeling tussentijds worden aangepast.  
 
 ### Artikel  23  
 
 1.  Jaarlijks, doch uiterlijk voor 1 november, kan het bestuur, vertegenwoordigers van de filmsector gehoord hebbend, een voorstel doen tot aanpassing van de percentages, zoals bedoeld in artikel 3, eerste lid onder a en b, en in artikel 5, eerste lid, onder a en b, met dien verstande dat het percentage, zoals bedoeld in artikel 3, eerste lid onder b, niet hoger kan zijn dan 40 procent en het percentage zoals bedoeld in artikel 5, eerste lid onder a, niet lager kan zijn dan 60 procent.   
-2.  Jaarlijks, doch uiterlijk voor 1 november, kan het bestuur, vertegenwoordigers van de filmsector gehoord hebbend, een voorstel doen tot aanpassing van de bedragen, zoals bedoeld in artikel 2, eerste lid onder c, en in artikel 6, derde lid.   
-3.  Jaarlijks, doch uiterlijk voor 1 november, stelt het bestuur het subsidieplafond genoemd in artikel 4 vast voor het volgende kalenderjaar tot een maximum van 12 miljoen euro.   
+2.  Jaarlijks, doch uiterlijk voor 1 november, kan het bestuur, vertegenwoordigers van de filmsector gehoord hebbend, een voorstel doen tot aanpassing van de bedragen, zoals bedoeld in artikel 3, eerste lid onder c tot en met f, en in artikel 6, derde lid.   
+3.  Jaarlijks, doch uiterlijk voor 1 november, stelt het bestuur het subsidieplafond genoemd in artikel 4 vast voor het volgende kalenderjaar tot een maximum van 12 miljoen euro. 
 
 ### §  13  
 
@@ -359,12 +361,12 @@ d. aan het bezwaar volledig wordt tegemoet gekomen en andere belanghebbenden daa
 
 1.  In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.   
 2.  Het bestuur kan om zwaarwichtige redenen afwijken van artikelen 3 lid 1 onderdelen c, d, e en f of artikel 6 lid 2 van deze regeling, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatsteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.   
-3.  Op deze regeling is het Algemeen reglement van het Fonds niet van toepassing.   
+3.  Op deze regeling zijn de [artikelen 1](../../../../../zbo/algemeen/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0030067/README.md), [2](../../../../../zbo/algemeen/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0030067/README.md), [16](../../../../../zbo/algemeen/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0030067/README.md), [17](../../../../../zbo/algemeen/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0030067/README.md), [19](../../../../../zbo/algemeen/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0030067/README.md), [20](../../../../../zbo/algemeen/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0030067/README.md) en [24 van het Algemeen reglement](../../../../../zbo/algemeen/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0030067/README.md), het Financieel & Productioneel Protocol en het Handboek Financiële Verantwoording van het Fonds van toepassing. Bij strijdigheid tussen bepalingen van deze regeling met en de toepasselijke artikelen uit het [Algemeen reglement](../../../../../zbo/algemeen/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0030067/README.md), prevaleren de bepalingen van deze regeling.  
 
 ### Artikel  25  
 
-Deze regeling wordt aangehaald als de Suppletieregeling filminvesteringen Nederland.  
+Deze regeling wordt aangehaald als de Suppletieregeling filminvesteringen Nederland. 
 
-### Bijlage  
+###Bijlage 
 
-Niet opgenomen.  
+Niet opgenomen.
