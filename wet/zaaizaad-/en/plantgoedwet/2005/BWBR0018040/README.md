@@ -216,7 +216,7 @@ c. plantengroepen als bedoeld in artikel 85.
 
 a. een vermelding van het uitgevoerde technisch onderzoek voor de toelating van een ras of een opstand, onderscheidenlijk de verlening van kwekersrecht, bedoeld in artikel 35, eerste lid, onderdelen a, b en c, onderscheidenlijk artikel 49, zevende lid;  
 
-b. voor zover het toegelaten rassen betreft: een vermelding van de instandhouder of instandhouders;  
+b. voor zover het toegelaten rassen betreft waarvoor een instandhouder is aangewezen: een vermelding van de instandhouder of instandhouders;  
 
 c. voor zover het opstanden betreft: een vermelding van de eigenaar of beheerder en de groeiplaats van de opstand.     
 

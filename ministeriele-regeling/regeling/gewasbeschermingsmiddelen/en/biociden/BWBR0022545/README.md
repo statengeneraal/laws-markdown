@@ -87,13 +87,6 @@ a. een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubehe
 b. een vergunning als bedoeld in [artikel 6.2 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) of die zijn gehanteerd bij de toepassing van de in plaats van een vergunning ingevolge [artikel 6.6 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) bij of krachtens een algemene maatregel van bestuur gestelde regels, en   het college van oordeel is dat deze gegevens voldoende zijn om met toepassing van [artikel 28, eerste lid, onderdeel b, aanhef, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) tot een oordeel te komen over de gevolgen van het gewasbeschermingsmiddel als bedoeld in [artikel 28, eerste lid, onderdeel b, onder 3 tot en met 5, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).   
 4.  In afwijking van het derde lid kan de aanvrager volstaan met de indiening van de in het derde lid, onderdelen a en b, bedoelde vergunningen, voor zover naar het oordeel van het college deze gegevens voldoende zijn om met toepassing van [artikel 28, eerste lid, onderdeel b, aanhef, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) tot een oordeel te komen over de gevolgen van het gewasbeschermingsmiddel als bedoeld in [artikel 28, eerste lid, onderdeel b, onder 3 tot en met 5, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) met betrekking tot de in de vergunning genoemde handelingen.   
 
-### Artikel  2.3a  
-
-####Niet toe te laten gebruik van gewasbeschermingsmiddelen
-
-1.  Het college verleent geen toelating voor niet-professioneel gebruik van een gewasbeschermingsmiddel dat overeenkomstig richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEU, L 200) is ingedeeld als zeer vergiftig, vergiftig, kankerverwekkend, mutageen categorie 1 of 2 of als vergiftig voor de voortplanting categorie 1 of 2.   
-2.  Dit artikel vervalt met ingang van 1 september 2011.   
-
 ### §  2  
 
 ####Algemene bepalingen inzake de beoordeling van gewasbeschermingsmiddelen
@@ -670,69 +663,110 @@ e. een aanduiding van de door het college genomen besluiten omtrent toelating of
 
 ### Artikel  6.1  
 
-####Nadere regels bewijs van vakbekwaamheid
+####Betekenis bewijs van vakbekwaamheid
 
 1.  Een bewijs van vakbekwaamheid als bedoeld in [artikel 71, eerste lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) geeft aan dat de houder: 
 
-a. voldoende op de hoogte is wanneer en onder welke omstandigheden het gebruik van de gewasbeschermingsmiddelen of biociden verantwoord is en  
+a. voldoende op de hoogte is wanneer en onder welke omstandigheden het gebruik van de gewasbeschermingsmiddelen of biociden verantwoord is;  
 
-b. voldoende op de hoogte is van de gevaren welke het gebruik met zich meebrengt en van de wijze waarop deze gevaren kunnen worden voorkomen.     
+b. voldoende op de hoogte is van de gevaren welke het gebruik met zich meebrengt en van de wijze waarop deze gevaren kunnen worden voorkomen, en  
+
+c. voor zover het een bewijs van vakbekwaamheid voor gewasbeschermingsmiddelen betreft, voldoende kennis heeft van de onderwerpen, genoemd in bijlage I bij richtlijn 2009/128/EG, rekening houdend met de taken en verantwoordelijkheden die behoren bij zijn functie.     
 2.  Indien het bewijs van vakbekwaamheid slechts betrekking heeft op bepaalde gewasbeschermingsmiddelen of biociden, op bepaalde toepassingen dan wel op de behandeling van bepaalde ruimten of terreinen, wordt de betrokkene slechts te dien aanzien als houder van een bewijs van vakbekwaamheid aangemerkt.   
 
 ### Artikel  6.2  
 
-####De aanvraag
+####Bewijs van vakbekwaamheid gewasbescherming
 
-1.  De aanvraag van een bewijs van vakbekwaamheid als bedoeld in [artikel 17, eerste en tweede lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) wordt ingediend bij een door de Minister van Landbouw, Natuur en Voedselkwaliteit voor gewasbeschermingsmiddelen, respectievelijk de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer voor biociden aangewezen instantie onder overlegging van de volgende bescheiden: 
+1.  Een aanvraag voor een bewijs van vakbekwaamheid als bedoeld in [artikel 17, eerste lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), wordt ingediend bij Bureau Erkenningen van de AOC-raad. Bij de aanvraag worden de volgende bescheiden overgelegd: 
 
-a. een naar behoren ingevuld en ondertekend aanvraagformulier,  
+a. een naar behoren ingevuld en ondertekend aanvraagformulier;  
 
-b. een goed leesbare kopie van het identiteitsbewijs van de aanvrager of, en voor zover van toepassing:  
+b. een goed leesbare kopie van het identiteitsbewijs van de aanvrager, en  
 
-c. een getuigschrift als bedoeld in [artikel 17, eerste of tweede lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), of een gewaarmerkt afschrift daarvan, of  
+c. een gewaarmerkt afschrift van een diploma of een certificaat als bedoeld in artikel 6.3, derde tot en met zesde lid, of  
 
-d. een verklaring van een door de Minister van Landbouw, Natuur en Voedselkwaliteit, respectievelijk Minister van Volkshuisvesting, Ruimtelijke ordening en Milieubeheer terzake aangewezen instantie, dat: 
-
-1°. de aanvrager beschikt over een bekwaamheidsattest of kwalificaties, bedoeld in [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), of  
-
-2°. de aanvrager beschikt over een in het buitenland behaald getuigschrift als bedoeld in [artikel 19, tweede lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), van een erkende buitenlandse opleiding of nog steeds over een gelijkwaardige kwalificatie beschikt als bedoeld in dat artikel, of  
-
-3°. de aanvrager heeft aangetoond over voldoende kennis en vaardigheden te beschikken in het licht van [artikel 27, derde lid, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).       
-2.  In aanvulling op het eerste lid kan een aanvraag bedoeld in het eerste lid voor een bewijs van vakbekwaamheid inzake gewasbeschermingsmiddelen worden ingediend bij een onderwijsinstelling die het in artikel 6.3, eerste lid, bedoelde theorie- en praktijkexamen afneemt. Deze onderwijsinstelling stelt de in bijlage V, eerste lid, genoemde instantie in kennis van de aanvraag en draagt zorg voor de ontvangst en het bewaren van de in het eerste lid, genoemde documenten.   
+d. een gewaarmerkt afschrift van een bekwaamheidsattest of opleidingstitel, dat door Bureau erkenningen van de AOC-raad is erkend op grond van [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
+2.  Ten behoeve van migrerende beroepsbeoefenaren, bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) kan Bureau Erkenningen van de AOC-raad opleidingstitels of bekwaamheidsattesten erkennen.   
+3.  De migrerende beroepsbeoefenaar legt aan Bureau Erkenningen van de AOC-raad de documenten, bedoeld in [artikel 13, eerste lid, onderdelen a, b, c, en e, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) over ten behoeve van de erkenning, bedoeld in het tweede lid.   
+4.  De tijdelijke en incidentele dienstverrichter, bedoeld in [artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), verstrekt voorafgaand aan zijn eerste dienstverrichting op het terrein van gewasbescherming in Nederland aan Bureau Erkenningen van de AOC-raad de documenten, bedoeld in [artikel 23, derde lid, onderdelen a tot en met d, van die wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).   
+5.  In geval van toepassing van [artikel 27, derde lid, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) beoordeelt Bureau Erkenningen van de AOC-raad of de dienstverrichter, bedoeld in het vierde lid, over voldoende kennis en vaardigheden beschikt ten aanzien van gewasbescherming en het veilig omgaan met gewasbeschermingsmiddelen.   
+6.  Bureau Erkenningen brengt na afloop van ieder kalenderjaar verslag uit aan de Minister van Economische Zaken, Landbouw en Innovatie over zijn werkzaamheden en het aantal verstrekte en erkende bewijzen van vakbekwaamheid.   
 
 ### Artikel  6.3  
 
 ####Verstrekken bewijs van vakbekwaamheid gewasbescherming
 
-1.  De instantie, bedoeld in bijlage V, eerste lid, verstrekt een bewijs van vakbekwaamheid voor de handelingen, bedoeld in [artikel 17, eerste lid, onder a of b of tweede lid, onder a, b en c alsmede f van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), indien aan de volgende voorwaarden is voldaan: 
+1.  Bureau Erkenningen van de AOC-raad verstrekt het bewijs van vakbekwaamheid op aanvraag.   
+2.  Een bewijs wordt niet verstrekt dan nadat het tarief van € 5,95 is voldaan.   
+3.  Het bewijs van vakbekwaamheid Uitvoeren Gewasbescherming wordt verstrekt aan de persoon die beschikt over een certificaat gewasbescherming A of een diploma dat mede dat certificaat omvat, en dat voldoet aan de op grond van de [artikelen 7.2.4](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).en [7.2.6. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde kwalificaties en beroepsvereisten.   
+4.  Het bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming wordt verstrekt aan de persoon die beschikt over een certificaat gewasbescherming B of een diploma dat mede dat certificaat omvat, en dat voldoet aan de op grond van de [artikelen 7.2.4](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).en [7.2.6. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde kwalificaties en beroepsvereisten.   
+5.  Het bewijs van vakbekwaamheid Distributie en Opslag Gewasbescherming wordt verstrekt aan de persoon die beschikt over een certificaat gewasbescherming C of een diploma dat mede dat certificaat omvat, en dat voldoet aan de op grond van de [artikelen 7.2.4](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).en [7.2.6. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde kwalificaties en beroepsvereisten.   
+6.  Het bewijs van vakbekwaamheid Mollen- en Woelrattenbestrijding wordt verstrekt aan de persoon die beschikt over een certificaat gewasbescherming MW of een diploma dat mede dat certificaat omvat, dat voldoet aan de op grond van de [artikelen 7.2.4](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).en [7.2.6. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde kwalificaties en beroepsvereisten.   
+7.  Het bewijs van vakbekwaamheid op basis van een Veiligheidsinstructie Gewasbescherming, bedoeld in artikel 6.3a, wordt verstrekt aan de persoon die een instructie op de werkplek heeft gevolgd als bedoeld in [artikel 17, eerste lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), welke instructie is erkend door Bureau Erkenningen van de AOC-raad.   
+8.  Een bewijs van vakbekwaamheid als bedoeld in het derde tot en met vijfde lid, wordt ambtshalve verlengd indien voldoende nascholingsbijeenkomsten zijn bijgewoond, die zijn erkend door Bureau Erkenningen van de AOC-raad, of opnieuw met goed gevolg een examen is afgelegd dat recht geeft op een certificaat als bedoeld in het derde tot en met vijfde lid.   
 
-a. Betrokkene legt een bewijsstuk als bedoeld in [artikel 7.4.6 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) over, dat met goed gevolg is deelgenomen aan het voor de in de aanhef aangeduide handelingen vereiste theorie- en praktijkexamen.  
+### Artikel  6.3a  
 
-b. Het examen dat recht geeft op een bewijs van vakbekwaamheid, voldoet aan de eindtermen voor onderwijs die door de Minister van Landbouw, Natuur en Voedselkwaliteit op grond van [artikel 7.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor iedere deelkwalificatie zijn vastgesteld.  
+####Instructie vakbekwaamheid gewasbescherming
 
-c. Het bewijs van vakbekwaamheid heeft slechts betrekking op een deelkwalificatie, bedoeld in [artikel 7.2.4, tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). Deze worden als volgt aangeduid: 
+1.  De handelingen, die in aanmerking komen voor een bewijs van vakbekwaamheid, bedoeld in [artikel 17, eerste lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), zijn: 
 
-– deelkwalificatie (A) toepassen gewasbescherming voor de handelingen bedoeld in [artikel 17, tweede lid, onderdeel a, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md),  
+a. het bedienen van een volledig gesloten zaadcoatingsmachine;  
 
-– deelkwalificatie (B) bedrijfsvoering gewasbescherming voor de handelingen bedoeld in [artikel 17, tweede lid, onderdeel b, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md),  
+b. het in een laboratorium ten behoeve van plantaardige weefselkweek in vitro gebruiken of voorhanden hebben van gewasbeschermingsmiddelen die volgens de desbetreffende toelating zijn bestemd om de levensprocessen van planten te beïnvloeden;  
 
-– deelkwalificatie (C) distributie van gewasbeschermingsmiddelen of gasvormende of gasvormige biociden voor de handelingen bedoeld in [artikel 17, eerste lid, onderdelen a of b, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), en  
+c. het bestrijden van aardappelopslag door middel van een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat door middel van handapparatuur, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid;  
 
-– deelkwalificatie (MW) bestrijding mollen en woelratten voor de handelingen bedoeld in [artikel 17, tweede lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md).       
-2.  De geldigheid van een bewijs van vakbekwaamheid als bedoeld in het eerste lid wordt na afloop van de termijn, bedoeld in [artikel 18, eerste lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), automatisch verlengd indien voldoende en door de in bijlage V, eerste lid, genoemde instantie erkende nascholingsbijeenkomsten zijn gevolgd.   
-3.  Een bewijs van vakbekwaamheid inzake gewasbeschermingsmiddelen wordt ingetrokken met toepassing van de in de bijlage IV opgenomen beleidsregel.   
-4.  Na intrekking van een bewijs van vakbekwaamheid als bedoeld in het derde lid kan met toepassing van het eerste lid opnieuw een bewijs van vakbekwaamheid worden verkregen met in achtneming van de termijn, genoemd in het tweede lid van bijlage IV.   
-5.  De instantie, bedoeld in bijlage V, eerste lid, brengt het in bijlage V, vierde lid, bedoelde bedrag in rekening bij het verstrekken van een bewijs van vakbekwaamheid.   
+d. het doden van ongewenste planten met handapparatuur gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat bij de selectie van bolgewassen en andere planten ten behoeve van veredeling, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid.     
+2.  Bureau Erkenningen van de AOC-raad erkent een instructie, bedoeld in [artikel 17, eerste lid, onderdeel c, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), indien zij ten minste voorlichting geeft over: 
+
+a. welke gevaren en risico’s voor de mens, gehouden dieren en het milieu, inclusief niet-doelwit-planten en -dieren, zijn verbonden aan het gebruik van het desbetreffende gewasbeschermingsmiddel door de concrete handeling;  
+
+b. wat de symptomen van vergiftiging en de in voorkomend geval te nemen eerste-hulp- maatregelen zijn;  
+
+c. wat de veiligste werkpraktijken zijn;  
+
+d. hoe restanten van het middel en aangebroken verpakkingen moeten worden opgeruimd, en  
+
+e. welke noodmaatregelen moeten worden genomen in geval van lekkages, verspilling of andere onvoorziene gebeurtenissen.     
+3.  De instructie wordt gegeven door een houder van een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren Gewasbescherming als bedoeld in artikel 6.3, derde of vierde lid.   
+4.  Artikel 6.3, eerste lid, is niet van toepassing. De werkgever of opdrachtgever van de persoon die de instructie heeft gevolgd, verstrekt een kopie van de presentielijst van de instructie aan betrokkene, en bewaart het origineel gedurende vijf jaren nadat de instructie is gegeven. De presentielijst vermeldt de handeling, bedoeld in het eerste lid, waar de instructie betrekking op heeft, en wordt gedurende vijf jaren nadat de instructie is gevolgd, aangemerkt als bewijs van vakbekwaamheid voor de desbetreffende handeling.   
+
+### Artikel  6.3b  
+
+####Intrekking bewijs van vakbekwaamheid
+
+1.  De Minister van Economische Zaken, Landbouw en Innovatie trekt een bewijs van vakbekwaamheid gewasbeschermingsmiddelen in indien niet langer wordt voldaan aan de eisen die ter zake van het verkrijgen of behouden van een zodanig bewijs van vakbekwaamheid bij of krachtens de wet zijn gesteld nadat hij betrokkene ten hoogste zes maanden in de gelegenheid heeft gesteld alsnog aan de eisen te voldoen.   
+2.  De Minister van Economische Zaken, Landbouw en Innovatie kan op grond van [artikel 85, derde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), een bewijs van vakbekwaamheid intrekken, indien 
+
+a. de houder ernstig tekort schiet in hetgeen op grond van dat bewijs van hem mag worden verwacht, of  
+
+b. jegens de houder herhaaldelijk overtredingen op grond van de wet zijn geconstateerd.     
+3.  De termijn, bedoeld in [artikel 85, vierde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) bedraagt ten hoogste een jaar vanaf het moment dat het besluit tot intrekking is genomen.   
 
 ### Artikel  6.4  
 
-####Verstrekken bewijs van vakbewaamheid biociden
+####Bewijs van vakbekwaamheid biociden
 
-1.  Een bewijs van vakbekwaamheid als bedoeld in [artikel 76, eerste lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) ten aanzien van het afweren of bestrijden van een dierplaag, het bestrijden van een houtrotverwekkende schimmel gassingsleider of gasmeetdeskundige wordt verstrekt indien de gebruiker na het met goed gevolg deelnemen aan de voor deze functie af te leggen theorie- en praktijkexamens, die voldoen aan de eindtermen voor onderwijs als genoemd in bijlage VI, onderdeel A, of VII, een getuigschrift van de instantie, bedoeld in bijlage V, tweede lid, heeft ontvangen.   
-2.  De geldigheid van een bewijs van vakbekwaamheid als bedoeld in het eerste lid wordt na afloop van de termijn, bedoeld in [18, eerste lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), automatisch verlengd indien wordt voldaan aan de eindtermen voor onderwijs als genoemd in bijlagen VI, onderdeel B of VII.   
-3.  Een bewijs van vakbekwaamheid als bedoeld in het eerste lid kan worden ingetrokken indien de houder van een getuigschrift niet voldoet aan de eindtermen voor onderwijs als genoemd in bijlagen VI of VII.   
-4.  Na intrekking van een bewijs van vakbekwaamheid als bedoeld in het derde lid kan met toepassing van het eerste lid opnieuw een bewijs van vakbekwaamheid worden verkregen. De Minister van Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan voor een bewijs van vakbekwaamheid inzake biociden een termijn vaststellen gedurende welke geen nieuw bewijs van vakbekwaamheid kan worden verkregen.   
-5.  De instantie, bedoeld in bijlage V, tweede lid, brengt het in bijlage V, vijfde lid, bedoelde bedrag in rekening bij het verstrekken van een bewijs van vakbekwaamheid.   
+1.  De aanvraag voor een bewijs van vakbekwaamheid als bedoeld in [artikel 17a, eerste lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), wordt ingediend bij de Minister van Infrastructuur en Milieu. Bij de aanvraag worden de volgende bescheiden overgelegd: 
+
+a. een naar behoren ingevuld en ondertekend aanvraagformulier;  
+
+b. een goed leesbare kopie van het identiteitsbewijs van de aanvrager, en  
+
+c. een gewaarmerkt afschrift van een behaald diploma of certificaat, of  
+
+d. een gewaarmerkt afschrift van een bekwaamheidsattest of opleidingstitel, die door de Minister van Infrastructuur en Milieu is erkend op grond van [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
+2.  Ten behoeve van migrerende beroepsbeoefenaren, bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) kan de Minister van Infrastructuur en Milieu opleidingstitels of bekwaamheidsattesten erkennen.   
+3.  De migrerende beroepsbeoefenaar legt aan de Minister van Infrastructuur en Milieu de documenten, bedoeld in [artikel 13, eerste lid, onderdelen a, b, c, en e, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) over ten behoeve van de erkenning, bedoeld in het tweede lid.   
+4.  De tijdelijke en incidentele dienstverrichter, bedoeld in [artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), verstrekt voorafgaand aan zijn eerste dienstverrichting met behulp van biociden waarvoor een bewijs van vakbekwaamheid is voorgeschreven in Nederland aan de Minister van Infrastructuur en Milieu de documenten, bedoeld in [artikel 23, derde lid, onderdelen a tot en met d, van die wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).   
+5..  In geval van toepassing van [artikel 27, derde lid, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) beoordeelt de Minister van Infrastructuur en Milieu of een door de Minister van Infrastructuur en Milieu aangewezen instantie of de dienstverrichter, bedoeld in het vierde lid, over voldoende kennis en vaardigheden beschikt.   
+6.  Een bewijs van vakbekwaamheid als bedoeld in [artikel 17a, eerste lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), ten aanzien van het afweren of bestrijden van een dierplaag, het bestrijden van houtrotverwekkende schimmel, gassingsleider of gasmeetdeskundige, wordt verstrekt indien de gebruiker met goed gevolg theorie- en praktijkexamens heeft afgelegd, die voldoen aan de eindtermen voor onderwijs, bedoeld in bijlage VI, onderdeel A, of bijlage VII, en daartoe een getuigschrift van Stichting Examen- en Certificeringsinstituut Plaagdierpreventie, of Stichting Certificeringsinstituut Plaagdierbeheersing, Milieu en Volksgezondheid heeft ontvangen.   
+7.  De kosten voor een bewijs van vakbekwaamheid bedragen voor een bewijs van vakbekwaamheid als bedoeld in bijlage VI, onderdeel A, ten hoogste € 45,–, exclusief de kosten van scholing. De kosten voor een bewijs van vakbekwaamheid als bedoeld in bijlage VI, onderdeel B, bedragen ten hoogste € 50,–, exclusief de kosten van nascholing.   
+8.  Een bewijs van vakbekwaamheid wordt ambtshalve verlengd als bedoeld in [artikel 18, tweede lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), indien wordt voldaan aan de eindtermen voor onderwijs, bedoeld in bijlage VI, onderdeel B, of bijlage VII.   
+9.  De Minister van Infrastructuur en Milieu kan een bewijs van vakbekwaamheid biociden intrekken indien de houder ervan niet voldoet aan de eindtermen voor onderwijs, bedoeld in bijlagen VI of VII. Artikel 6.3b, tweede lid, is van overeenkomstige toepassing.   
+10.  De Minister van Infrastructuur en Milieu kan een bewijs van vakbekwaamheid biociden intrekken op grond van [artikel 85, derde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). Artikel 6.3b, tweede en derde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  6.5  
 
@@ -750,19 +784,29 @@ a. het gebruik van gewasbeschermingsmiddelen bij het machinaal coaten van zaaiza
 
 b. het gebruiken, voorhanden of in voorraad hebben van gewasbeschermingsmiddelen die volgens het besluit tot toelating slechts zijn bestemd om levensprocessen van planten te beïnvloeden en worden toegepast in een laboratorium bij weefselkweek in vitro;  
 
-c. het voorhanden hebben, in voorraad hebben of afleveren door een producent, importeur of handelaar indien het gewasbeschermingsmiddel of de biocide slechts wordt opgeslagen en beheerd zonder verkoop of advies aan gebruikers;  
+c. het afleveren door personeel van reeds bestelde of reeds gekochte gewasbeschermingsmiddelen of biociden, indien dat uit een bestelbon of factuur blijkt, zonder advies aan gebruikers;  
 
-d. het afleveren door personeel van reeds bestelde of reeds gekochte gewasbeschermingsmiddelen of biociden, indien dat uit een bestelbon of factuur blijkt, zonder advies aan gebruikers;  
+d. het toepassen of doen toepassen van een gewasbeschermingsmiddel dat de werkzame stof glyfosaat bevat voor de bestrijding van aardappelopslag door middel van handapparatuur mits het gewasbeschermingsmiddel reeds door een houder van een bewijs van vakbekwaamheid in deze apparatuur is aangebracht;  
 
-e. het toepassen of doen toepassen van een gewasbeschermingsmiddel dat de werkzame stof glyfosaat bevat voor de bestrijding van aardappelopslag door middel van handapparatuur mits het gewasbeschermingsmiddel reeds door een houder van een bewijs van vakbekwaamheid in deze apparatuur is aangebracht;  
+e. het toepassen of doen toepassen van een gewasbeschermingsmiddel dat de werkzame stoffen diquat of glyfosaat bevat voor het selecteren van bloembollen of selecteren in de veredeling met apparatuur volgens de bij het besluit tot toelating gegeven voorschriften mits het gewasbeschermingsmiddel reeds door een houder van een bewijs van vakbekwaamheid in deze apparatuur is aangebracht.  
 
-f. het toepassen of doen toepassen van een gewasbeschermingsmiddel dat de werkzame stoffen diquat of glyfosaat bevat voor het selecteren van bloembollen of selecteren in de veredeling met apparatuur volgens de bij het besluit tot toelating gegeven voorschriften mits het gewasbeschermingsmiddel reeds door een houder van een bewijs van vakbekwaamheid in deze apparatuur is aangebracht.  
+f. het toepassen van een biocide voor het afweren of bestrijden van een dierplaag of het bestrijden van een houtrotverwekkende schimmel als bedoeld in artikel 6.4, eerste lid, door een agrarische ondernemer op het eigen bedrijf;  
 
-g. het toepassen van een biocide voor het afweren of bestrijden van een dierplaag of het bestrijden van een houtrotverwekkende schimmel als bedoeld in artikel 6.4, eerste lid, door een agrarische ondernemer op het eigen bedrijf;  
+g. de industriële toepassing van een biocide in hout in verband met de conservering ervan tegen schimmels of dierplagen;  
 
-h. de industriële toepassing van een biocide in hout in verband met de conservering ervan tegen schimmels of dierplagen;  
+h. het op de markt brengen van biociden.    
 
-i. het op de markt brengen van biociden.    
+### Artikel  6.7  
+
+####Werken met gewasbeschermingsmiddelen
+
+1.  Een distributeur van gewasbeschermingsmiddelen of voldoende van zijn personeel als bedoeld in [artikel 73, tweede lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming als bedoeld in artikel 6.3, vierde lid.   
+2.  Een professionele gebruiker van gewasbeschermingsmiddelen beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming als bedoeld in artikel 6.3, vierde lid.   
+3.  In afwijking van het tweede lid beschikt het bedrijfshoofd van een landbouwbedrijf dat gewasbeschermingsmiddelen ontvangt, gebruikt of voorhanden heeft als bedoeld in [artikel 71, eerste lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), en die is geboren na 1 januari 1996 ten minste over een bewijs van vakbekwaamheid Uitvoeren Gewasbescherming als bedoeld in artikel 6.3, derde lid.   
+4.  In afwijking van het tweede lid beschikt een persoon die gewasbeschermingsmiddelen ontvangt of gebruikt in opdracht van een ander, over een bewijs van vakbekwaamheid Uitvoeren Gewasbescherming als bedoeld in artikel 6.3, derde lid, voor zover in het bedrijf waar de behandeling met gewasbeschermingsmiddelen wordt uitgevoerd, ten minste een persoon aanwezig of beschikbaar is, die beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming.   
+5.  In afwijking van het tweede lid beschikt een persoon die gewasbeschermingsmiddelen gebruikt over een bewijs van vakbekwaamheid Veiligheidsinstructie als bedoeld in artikel 6.3, zesde lid, voor zover de handeling is opgenomen in artikel 6.3a, eerste lid, en op de werkplek waar de behandeling met het gewasbeschermingsmiddel plaatsvindt ten minste een persoon aanwezig is, die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming.   
+6.  In afwijking van het tweede lid beschikt een bestrijder van mollen en woelratten met gewasbeschermingsmiddelen over een bewijs van vakbekwaamheid Mollen en Woelrattenbestrijding als bedoeld in artikel 6.3, zesde lid.   
+7.  Onverminderd het eerste lid beschikt een distributeur of het personeelslid dat is belast met de dagelijkse leiding of werkzaamheden ten behoeve van het op veilige wijze transporteren en opslaan van gewasbeschermingsmiddelen over een bewijs van vakbekwaamheid Distributie en Opslag als bedoeld in artikel 6.3, vijfde lid.   
 
 ### Hoofdstuk  7  
 
@@ -797,6 +841,54 @@ b. per hoeveelheid geleverd gewasbeschermingsmiddel, de hoeveelheid werkzame sto
 ####Vrijstelling administratieplicht
 
 Degene die gewasbeschermingsmiddelen of biociden op de markt brengt, is vrijgesteld van de administratieplicht als bedoeld in [artikel 24, eerste lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), voor zover het betreft gewasbeschermingsmiddelen en biociden die zijn aangemerkt als geschikt voor niet-professioneel gebruik ingevolge [artikel 76, tweede lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  
+
+### Artikel  7.3a  
+
+####Administratie algemeen
+
+Degene die op grond van artikel 67 van verordening (EG) 1107/2009 of [artikel 24](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) of [25 van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) gegevens administreert of gegevens uit zijn administratie verstrekt, doet dit volledig en naar waarheid, en onverwijld nadat de gegevens hem bekend zijn geworden.  
+
+### Artikel  7.3b  
+
+####Bestemd voor gebruik buiten Nederland
+
+Het is de eigenaar of houder van een in Nederland gevestigd bedrijf, die beschikt over landbouwpercelen in België of Duitsland toegestaan een niet in Nederland toegelaten gewasbeschermingsmiddel op zijn bedrijf op te slaan, voor zover het desbetreffende gewasbeschermingsmiddel is toegelaten in België of Duitsland en feitelijk ook over de Nederlandse grens wordt toegepast en daarvan blijkt uit zijn administratie, bedoeld in artikel 7.3c.  
+
+### Artikel  7.3c  
+
+####Administratie van niet toegelaten gewasbeschermingsmiddelen of biociden
+
+1.  De administratie, bedoeld in [artikel 74, derde lid, onderdeel b, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en artikel 67, eerste lid, eerste volzin, van verordening (EG) 1107/2009, bevat ten minste de volgende gegevens: 
+
+a. de naam van het gewasbeschermingsmiddel en het toelatingsnummer of toelatingskenmerk in het land van bestemming;  
+
+b. het aantal verpakkingseenheden per ontvangst of aflevering, alsmede de op de verpakking aangegeven volume- of massa-eenheden;  
+
+c. de totale hoeveelheid voorraad en de veranderingen van de voorraad, waarbij onderscheid wordt gemaakt per gewasbeschermingsmiddel of biocide;  
+
+d. de naam, het adres en de woon- of vestigingsplaats van degene van wie het gewasbeschermingsmiddel of de biocide is verkregen respectievelijk aan wie is geleverd;  
+
+e. de datum van ontvangst, aflevering of verandering als bedoeld in de onderdelen b en c, en  
+
+f. de afschriften van overeenkomsten als bedoeld in artikel 7.1, eerste lid.     
+2.  De administratie bestrijkt een periode van de laatste vijf jaren.   
+3.  De gegevens, bedoeld in het eerste lid, worden op de factuur of het afleveringsbewijs aangegeven.   
+
+### Artikel  7.3d  
+
+####Opslag en vervoer, bestemd voor gebruik buiten Nederland
+
+1.  Een niet in Nederland toegelaten biocide of gewasbeschermingsmiddel als bedoeld in [artikel 74, eerste of tweede lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt gescheiden van een toegelaten middel opgeslagen.   
+2.  Het vervoer van een niet in Nederland toegelaten gewasbeschermingsmiddel of biocide is uitsluitend toegestaan, indien de vervoerder beschikt over een vrachtbrief of ander document waaruit blijkt van wie de partij afkomstig is en voor wie de partij is bestemd.   
+
+### Artikel  7.4  
+
+####Informatieplicht niet-professionele gebruiker
+
+1.  Een houder van een toelating van een gewasbeschermingsmiddel voor niet-professioneel gebruik is verantwoordelijk voor de verstrekking van de algemene informatie, bedoeld in [artikel 73, vierde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), ten behoeve van de gebruiker van zijn middel. De houder van de toelating vermeldt deze informatie tevens bij het aanprijzen van het middel op zijn website of in andere media.   
+2.  De informatie is zo weergegeven dat de strekking eenvoudig te begrijpen is.   
+3.  De houder van een toelating zorgt ervoor dat iedere distributeur van zijn gewasbeschermingsmiddel in staat is de informatie te verstrekken aan de gebruiker.   
+4.  De distributeur zorgt ervoor dat de informatie voor iedere koper van een gewasbeschermingsmiddel voor niet-professioneel gebruik in voldoende mate toegankelijk en beschikbaar is.   
 
 ### Hoofdstuk  8  
 
@@ -949,6 +1041,13 @@ f. een op een kaart die voldoet aan de door de Plantenziektenkundige Dienst gest
 4.  De melder past het gewasbeschermingsmiddel binnen 3 maanden na de op het ontvangstbewijs vermelde datum toe.   
 5.  Indien na de melding geen grondontsmetting is toegepast kan de melder door het terugsturen van het ontvangstbewijs de melding intrekken tot vier maanden na de op het ontvangstbewijs vermelde datum.   
 
+### Artikel  8.10a  
+
+####Meldingsplicht ter bescherming kwetsbare groepen mensen
+
+1.  Artikel 8.10, eerste, tweede en vierde lid, zijn van overeenkomstige toepassing op een melding als bedoeld in [artikel 27c, derde lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md).   
+2.  De termijn, bedoeld in [artikel 27c, vierde lid, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), bedraagt veertien dagen vanaf het moment dat de melding per post of op elektronische wijze is gedaan.   
+
 ### §  3  
 
 ####Monitoring na toelating
@@ -958,6 +1057,21 @@ f. een op een kaart die voldoet aan de door de Plantenziektenkundige Dienst gest
 ####Berekening MTR water
 
 Op verzoek berekent het college het maximaal toelaatbaar risico van gewasbeschermingsmiddelen voor waterorganismen, bedoeld in [artikel 2, onderdeel f, van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), aan de hand van de methode INS, bedoeld in bijlage XV, deel B.  
+
+### §  4  
+
+####Heffingen
+
+### Artikel  8.12  
+
+####Tarief voor vrijstellingen gewasbeschermingsmiddelen
+
+1.  Een aanvraag tot vrijstelling van een gewasbeschermingsmiddel als bedoeld in [artikel 38 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt eerst in behandeling genomen, nadat bij een eerste aanvraag een voorschot van € 1.300,– en bij een vervolgaanvraag een voorschot van € 520,– op het verschuldigde tarief is voldaan aan de Minister van Economische Zaken, Landbouw en Innovatie.   
+2.  Het verschuldigde tarief bedraagt: 
+
+a. indien advies aan het College voor de toelating van gewasbeschermingsmiddelen en biociden wordt gevraagd: € 3.925,–, indien het een nieuwe aanvraag betreft, of € 3.145,–, indien het een vervolgaanvraag betreft;  
+
+b. indien geen advies aan het College voor de toelating van gewasbeschermingsmiddelen en biociden behoeft te worden gevraagd: € 1.300,–, indien het een nieuwe aanvraag betreft, of € 520,– indien het een vervolgaanvraag betreft.     
 
 ### Hoofdstuk  9  
 
@@ -991,14 +1105,18 @@ Belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet
 
 ####Hoogte van de bestuurlijke boete
 
-1.  De hoogte van de bestuurlijke boete die overeenkomstig [artikel 90 van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) kan worden opgelegd, wordt vastgesteld overeenkomstig het bedrag dat in bijlage XIII voor de desbetreffende overtreding is vermeld   
-2.  Indien de omstandigheden van het geval of de ernst van de overtreding daartoe aanleiding geven, kan in voorkomend geval een ander boetebedrag worden opgelegd dan vermeld in bijlage XIII.   
+1.  De hoogte van de bestuurlijke boete, die de Minister van Economische Zaken, Landbouw en Innovatie en de Minister van Infrastructuur en Milieu op grond van [artikel 97 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) kan opleggen bij een overtreding, is gelijk aan het geldbedrag dat in bijlage XIII voor de desbetreffende overtreding is vermeld.   
+2.  In afwijking van het eerste lid bedraagt de bestuurlijke boete voor een overtreding met betrekking tot professioneel gebruik van biociden de helft van het geldbedrag, genoemd in bijlage XIII, behoudens indien: 
+
+a. de gebruiker beschikt of dient te beschikken over een bewijs van vakbekwaamheid;  
+
+b. het gebruik van de desbetreffende biocide onderdeel uitmaakt van het verrichten van een dienst.     
 
 ### Artikel  9.7  
 
-####Hoogte van de bestuurlijke boete bij recidive
+####Hoogte van de bestuurlijke boete bij herhaalde overtreding
 
-Bij recidive is de bestuurlijke boete gelijk aan de eerder opgelegde bestuurlijke boete, vermenigvuldigd met een factor 1,5.  
+De natuurlijke persoon of rechtspersoon, die binnen vijf jaren nadat een eerdere overtreding is geconstateerd een soortgelijke overtreding begaat, wordt bestraft met een bestuurlijke boete die gelijk is aan de eerder opgelegde bestuurlijke boete, vermenigvuldigd met de factor 1,5.  
 
 ### Hoofdstuk  10  
 
@@ -1176,6 +1294,35 @@ Wijzigt de Regeling GLB-inkomenssteun 2006.
 1.  De houder van een getuigschrift als bedoeld in [artikel 17, eerste of tweede lid, van de besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), die op het tijdstip van inwerkingtreding van de [besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) beschikt over een vergunning als bedoeld in [artikel 75 van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), wordt na de inwerkingtreding van de [besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) voor de termijn waarvoor de vergunning nog geldt geacht te beschikken over een bewijs van vakbekwaamheid op grond van de [artikelen 71](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) of [76 van de besluit.](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   
 2.  Het eerste lid is van overeenkomstige toepassing op een houder van een vakbekwaamheidsdiploma als bedoeld in [artikel 10a, tweede lid, onder a, van het Besluit vakkennis- en vakbekwaamheidseisen bestrijdingsmiddelen](../../../../../../AMvB/besluit/vakkennis-/en/vakbekwaamheidseisen/bestrijdingsmiddelen/BWBR0006814/README.md) of een bewijs van gelijkstelling als bedoeld in [artikel 10a, tweede lid, onder b, van dit besluit](../../../../../../AMvB/besluit/vakkennis-/en/vakbekwaamheidseisen/bestrijdingsmiddelen/BWBR0006814/README.md).   
 
+### Artikel  11.10a  
+
+####Wijziging artikel 6.6 
+
+Wijzigt deze regeling.   
+
+### Artikel  11.10b  
+
+####Toelating toevoegingstoffen
+
+1.  Het college verleent een toelating voor een toevoegingstof als bedoeld in artikel 2, derde lid, onderdeel d, van verordening (EG) 1107/2009, indien de aanvrager aantoont dat de toevoegingstof geen formuleringshulpstof bevat, die in bijlage III van verordening (EG) 1107/2009 is opgenomen.   
+2.  Het college herziet een toelating voor een toevoegingstof indien: 
+
+a. de nadere regels, bedoeld in artikel 58, tweede lid, van verordening (EG) 1107/2009 daartoe nopen, of  
+
+b. een toevoegingstof geheel of gedeeltelijk bestaat uit formuleringshulpstoffen die zijn opgenomen in bijlage III van verordening (EG) 1107/2009.     
+
+### Artikel  11.10c  
+
+####Toelating met niet-goedgekeurde beschermstoffen en synergisten
+
+1.  Een gewasbeschermingsmiddel kan worden toegelaten, hoewel het een niet goedgekeurde beschermstof of synergist bevat, als bedoeld in artikel 2, derde lid, onderdeel a respectievelijk b, van verordening (EG) 1107/2009: 
+
+a. totdat een werkprogramma als bedoeld in artikel 26 van verordening (EG) 1107/2009 is vastgesteld, en  
+
+b. zolang de desbetreffende beschermstof of synergist in het werkprogramma is opgenomen.     
+2.  Het college beperkt de duur van een toelating van een gewasbeschermingsmiddel als bedoeld in het eerste lid tot een periode van vijf jaren na de vaststelling van het werkprogramma, bedoeld in het eerste lid, onderdeel a.   
+3.  Het college herziet of wijzigt een toelating als bedoeld in het eerste lid naar gelang de ontwikkeling van het werkprogramma, bedoeld in het eerste lid, onderdeel a, of aan de hand van een besluit omtrent de desbetreffende beschermstof of synergist.   
+
 ### Artikel  11.11  
 
 ####Inwerkingtreding
@@ -1224,26 +1371,6 @@ J.M.Cramer
 | Handschoenen, vaste middelen  | 20  |
 | Laarzen (chemisch resistent)  | 10  |
 | Gesloten spuitcabines  | 10  |
-
-### Bijlage  IV  
-
-####Beleidsregels intrekken bewijs van vakbekwaamheid
-
-1. De Minister van Landbouw, Natuur en Voedselkwaliteit kan een bewijs als bedoeld in artikel 6.3, eerste lid inzake gewasbeschermingsmiddelen, intrekken indien: 
-
-a. de houder ernstig tekort schiet in hetgeen op grond van dat bewijs van hem mag worden verwacht, of  
-
-b. de houder herhaaldelijk niet voldoet aan hetgeen van hem verwacht mag worden.   2. De Minister van Landbouw, Natuur en Voedselkwaliteit kan bij de intrekking een termijn vaststellen gedurende welke geen nieuw bewijs van vakbekwaamheid kan worden verkregen. 
-
-### Bijlage  V  
-
-####Erkenning instanties die een bewijs van vakbekwaamheid verstrekken
-
-1. Een bewijs van vakbekwaamheid als bedoeld in artikel 6.3, eerste lid, wordt in het eerste jaar na inwerkingtreding van deze regeling verstrekt door bureau erkenningen van de AOC-Raad. 2. Een bewijs van vakbekwaamheid als bedoeld in artikel 6.4, eerste lid, wordt in het eerste jaar na inwerkingtreding van deze regeling verstrekt door: 
-
-– de Stichting Examen- en Certifceringsinstituut Plaagdierpreventie voor een bewijs van vakbekwaamheid inzake dierplaag- en houtrotverwekkende schimmelbestrijding;  
-
-– de Stichting Certificeringsinstituut Plaagdierbeheersing, Milieu en Volksgezondheid voor een bewijs van vakbekwaamheid inzake dierplaag- en houtrotverwekkende schimmelbestrijding.   3. Na het eerste jaar, bedoeld in het eerste en tweede lid, blijven de instanties, genoemd in het eerste en tweede lid, telkens voor een jaar erkend. 4. De verstrekking van een bewijs van vakbekwaamheid inzake gewasbeschermingsmiddelen bedraagt € 5,90 exclusief de kosten van nascholing. 5. De verstrekking van een bewijs van vakbekwaamheid inzake biociden bedragen voor een bewijs van vakbekwaamheid als bedoeld in bijlage VI, onderdeel A, ten hoogste € 45,= exclusief de kosten van scholing en voor een bewijs van vakbekwaamheid als bedoeld in bijlage VI, onderdeel B, ten hoogste € 50,- exclusief de kosten van nascholing. 
 
 ### Bijlage  VI  
 
@@ -1574,79 +1701,123 @@ Naam en toelatingsnummer gebruikte middel: ….. , N Naam, adres en telefoonnumm
 
 ### Bijlage  XIII  
 
-####beleidsregels bestuurlijke boete gewasbeschermingsmiddelen en biociden
+####Bestuurlijke boetes
 
-In de twee linker kolommen worden de artikelen aangeduid waar de desbetreffende overtreding is genoemd. De kolom wet verwijst naar de artikelen van de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). De kolom besluit verwijst naar de artikelen van het [Besluit gewasbeschermingsmiddelen en biociden](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md).  
+### A  
 
-| Wet  | Besluit  | Overtreding  | Standaard bestuurlijke boete in €  |
-|:---|:---|:---|:---|
-|  [18](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Onvoldoende zorg in acht nemen met een gewasbeschermingsmiddel of biocide of de lege verpakking ervan of de werkzame stoffen erin.  | 700  |
-| [19](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) juncto   [21](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | --- | Een werkzame stof op de markt brengen, voorhanden of in voorraad hebben of in Nederland brengen die niet tot de samenstelling behoort van een in Nederland toegelaten gewasbeschermingsmiddel of een in Nederland toegelaten of geregistreerde biocide.  | 2.000  |
-| --- | --- | Een werkzame stof gebruiken, al dan niet in een gewasbeschermingsmiddel of biocide, die niet tot de samenstelling behoort van een in Nederland toegelaten gewasbeschermingsmiddel of in Nederland toegelaten of geregistreerde biocide.  | 2.000  |
-|  [20](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Een niet in Nederland toegelaten gewasbeschermingsmiddel of niet toegelaten of niet geregistreerd biocide op de markt brengen of in Nederland brengen, voorhanden of in voorraad hebben, of gebruiken.  | 2.000  |
-| --- | --- | Een restant van een niet meer toegelaten gewasbeschermingsmiddel of niet meer toegelaten of geregistreerde biocide voorhanden of in voorraad hebben die ten hoogste 12 maanden eerder wel was toegelaten of geregistreerd  | 700  |
-| --- | --- | Een niet toegelaten gewasbeschermingsmiddel of niet toegelaten of geregistreerde biocide gebruiken in of nabij een grondwaterbeschermingsgebied  | 2.500  |
-| --- | --- | Een niet toegelaten gewasbeschermingsmiddel of niet toegelaten of geregistreerde biocide gebruiken in of nabij een watergang of ander oppervlaktewater of zodanig dat niet uit te sluiten valt dat het gebruikte middel of restanten ervan in de watergang of het oppervlaktewater terecht komt  | 2.500  |
-|  [22, 1 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Overtreding van een door het College bij de toelating van een gewasbeschermingsmiddel gesteld voorschrift als bedoeld in [artikel 29, eerste en tweede lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  | 2.000  |
-| --- | --- | Overtreding van een door het College bij de toelating van een biocide gesteld voorschrift als bedoeld in [artikel 50, eerste en tweede lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  | 2.000  |
-|  [22, 2 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Een toegelaten gewasbeschermingsmiddel of toegelaten of geregistreerd biocide op de markt brengen, voorhanden of in voorraad hebben, terwijl de gebruiksvoorschriften niet op de voorgeschreven wijze aan, op of bij de verpakking zijn vermeld.  | 1.500  |
-| --- | --- | Een toegelaten gewasbeschermingsmiddel of toegelaten of geregistreerd biocide op de markt brengen, voorhanden of in voorraad hebben, terwijl het gehalte aan werkzame stof en de verdere samenstelling, kleur, vorm, afwerking, verpakking, aanduidingen of vermeldingen niet aan de voorschriften voldoen.  | --- |
-| [37, 1 <sup>e</sup>, 4 <sup>e</sup> en 5 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) in samenhang met [22, 1 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  | --- | Een voorschrift of beperking overtreden, gesteld door het college in het kader van een vrijstelling voor een proef of experiment als bedoeld in [artikel 37, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) met betrekking tot een gewasbeschermingsmiddel.  | 2.000  |
-| [37, 6 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) in samenhang met   [22, 1 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | een door de minister vanwege de erkenning gesteld voorschrift inzake de verrichting van proeven en experimenten overtreden.  | 2.000  |
-| [38, 1 <sup>e,</sup> 3 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) in samenhang met   [22, 1 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | een door de minister gesteld voorschrift of beperking verbonden aan een vrijstelling van een gewasbeschermingsmiddel voor maximaal 120 dagen overtreden.  | 2.000  |
-|  [40, 3 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Overtreding van een door het college in het kader van een besluit tot tijdelijke beperking dan wel verbod gesteld voorschrift inzake  het op markt brengen van een toegelaten gewasbeschermingsmiddel,  binnen Nederland brengen,  op voorraad hebben,  voorhanden hebben, of  gebruiken van een toegelaten gewasbeschermingsmiddel.  | 2.000  |
-| [64, 1 <sup>e</sup>, 4 <sup>e</sup> en 5 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) in samen- hang met   [22, 1 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Een voorschrift of beperking die door het college bij de vrijstelling voor een proef of experiment als bedoeld in [artikel 64, eerste lid van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) met betrekking tot een biocide is gesteld, overtreden.  | 2.000  |
-| [64, 6 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) juncto [22, 1 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  | --- | een door de minister vanwege de erkenning gesteld voorschrift inzake de verrichting van proeven en experimenten met betrekking tot een biocide, overtreden.  | 2.000  |
-| [64, 8 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) juncto [22, 1 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  | --- | Het niet of niet tijdig melden van een proef of experiment met betrekking tot een biocide, hoewel dat wel is voorgeschreven.  | 700  |
-| [65, 1 <sup>e</sup> en 3 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) in samen- hang met [22, 1 <sup>e</sup> en 4 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  | --- | een door de minister gesteld voorschrift of beperking verbonden aan een vrijstelling van een biocide voor maximaal 120 dagen overtreden.  | 2.000  |
-|  [67, 2 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Overtreding van een door het college in het kader van een besluit tot tijdelijke beperking dan wel verbod gesteld voorschrift inzake  het op de markt brengen van een toegelaten biocide,  binnen Nederland brengen,  op voorraad hebben,  voorhanden hebben, of  gebruiken van een toegelaten biocide.  | 2.000  |
-|  [71, 1 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Een gewasbeschermingsmiddel of biocide op de markt brengen op basis van een niet meer geldig bewijs van vakbekwaamheid, hoewel dat bewijs wel is voorgeschreven.  | 300  |
-| --- | --- | een gewasbeschermingsmiddel of biocide op de markt brengen zonder ooit over een geldig bewijs van vakbekwaamheid te hebben beschikt.  | 700  |
-|  [72, 1 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | een niet in Nederland toegelaten gewasbeschermingsmiddel of biocide aanprijzen.  | 1.500  |
-|  [72, 2 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | een gewasbeschermingsmiddel of biocide aanprijzen of aanbevelen in strijd met de voor het gebruik geldende voorschriften.  | 1.500  |
-|  [72, 3 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | misleidende informatie geven over de gevaren van een gewasbeschermingsmiddel of biocide voor mens, dier, plant of milieu.  | 1.500  |
-|  [73, 1 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Een gewasbeschermingsmiddel of biocide, niet aangemerkt als geschikt voor niet-professioneel gebruik, op de markt brengen zonder te vergewissen dat de gebruiker over een geldig bewijs van vakbekwaamheid beschikt.  | 700  |
-| --- | --- | Een gewasbeschermingsmiddel of biocide, niet aangemerkt als geschikt voor niet-professioneel gebruik, op de markt brengen ten behoeve van een gebruiker die niet over een geldig bewijs van vakbekwaamheid beschikt.  | 1500  |
-| --- | --- | Bij aflevering van een gewasbeschermingsmiddel of biocide niet vragen om het identiteitsbewijs van de gebruiker of degene die het gewasbeschermingsmiddel of de biocide die het middel ontvangt.  | 300  |
-|  [74, 2 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   |  [21](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Geen administratie voeren of een ondeugdelijke administratie voeren in de in [artikel 74, tweede lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) bedoelde situatie, die op 3 of meer onderdelen niet voldoet aan het bepaalde in [artikel 21 van het Besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  | 1.500  |
-| --- |  [22, 1 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | Niet in Nederland toegelaten middelen niet apart opslaan van toegelaten middelen  | 700  |
-| --- | [10](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) juncto [22, 3 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  | Zaaizaad dat is behandeld met een niet in Nederland toegelaten gewasbeschermingsmiddel niet apart opslaan  | 700  |
-|  [75](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   |  [24](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Bedrijfsmatig toegelaten gewasbeschermingsmiddelen of biociden afleveren, terwijl de administratie op 3 of meer onderdelen niet voldoet aan het bepaalde in [artikel 24 van het Besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  | 1500  |
-| --- |  [24](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Die aan 2 onderdelen niet voldoet  | 700  |
-| --- |  [24](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Die aan 1 onderdeel niet voldoet  | 300  |
-| --- |  [25](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Gewasbeschermingsmiddelen of biociden voor een ander toepassen of voorhanden hebben zonder een deugdelijke administratie als bedoeld in [25 van het besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) gewasbeschermingsmiddel en biociden  | 1500  |
-| --- |  [25](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | De administratie voldoet op 3 of meer onderdelen niet aan het bepaalde in [artikel 25 Besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  | 1500  |
-| --- | --- | Die aan 2 onderdelen niet voldoet  | 700  |
-| --- |  [25](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Die aan 1 onderdeel niet voldoet  | 300  |
-| --- | --- | Een andere dan de hierboven genoemde overtreding van een bij of krachtens Amvb gesteld nader voorschrift omtrent het op de markt brengen van gewasbeschermingsmiddel of biocide als bedoeld in [artikel 75 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  | 700  |
-|  [76, 1 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   |  [17, 2 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Een gewasbeschermingsmiddel of biocide ontvangen, gebruiken of voorhanden hebben zonder over een geldig bewijs van vakbekwaamheid te beschikken  | 700  |
-| --- | --- | Zonder geldig bewijs van vakbekwaamheid een gewasbeschermingsmiddel of biocide ontvangen, gebruiken of voorhanden hebben, aangezien het bewijs is ingetrokken als bedoeld in [artikel 18, 4 <sup>e</sup> lid Besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md).  | 2500  |
-| --- | --- | Een gewasbeschermingsmiddel of biociden ontvangen, gebruiken of voorhanden hebben, terwijl het bewijs van vakbekwaamheid niet meer geldig is (overige gevallen)  | 300  |
-|  [77](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | als gebruiker of degene die namens gebruiker ontvangt zich niet legitimeren jegens de leverancier van het gewasbeschermingsmiddel of biocide of met een ondeugdelijk legimitatiebewijs  | 300  |
-|  [78, 1 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   |  [26, 1 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Niet beschikken over een deugdelijk gewasbeschermingsplan  | 700  |
-| --- |  [27, 1 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Gewasbeschermingsplan is niet op eerste verzoek te tonen  | 300  |
-| --- |  [26, 6 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Gebruiksadministratie voldoet niet op 2 of meer onderdelen  | 700  |
-| --- |  [26, 6 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | gebruiksadministratie voldoet op een onderdeel niet  | 300  |
-|  [78, 2 <sup>e</sup> lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de administratie van de wijze van gebruik van gewasbeschermingsmiddel of biocide.  | 300  |
-|  [79](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de uitvoering van goede praktijken bij het toepassen van biociden of gewasbeschermingsmiddel.  | 300  |
-|  [80](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   |  [29](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Een gewasbeschermingsmiddel of biocide toepassen met behulp van een luchtvaartuig, terwijl dat in het geheel niet is toegestaan  | 1500  |
-| --- |  [29, 3 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | In strijd met een of meer voorschriften een gewasbeschermingsmiddel of biocide toepassen met behulp van een luchtvaartuig  | 700  |
-| --- |  [30](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Een gasvormig of gasvormend gewasbeschermingsmiddel of biocide in een besloten ruimte toepassen in afwijking van 2 of meer onderdelen van het bepaalde [30 van het Besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  | 700  |
-| --- |  [30](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | In afwijking van één onderdeel  | 300  |
-|  [80](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   |  [29](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Een andere overtreding van een bij of krachtens AMvB gesteld voorschrift over het gebruik van:  | 300  |
-| --- |  [30](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | voertuigen,  | --- |
-| --- |  [31](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | werktuigen,  | --- |
-| --- |  [32](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | methoden,  | --- |
-| --- | --- | technieken en  materialen  bij de toepassing van een gewasbeschermingsmiddel of biocide  | --- |
-| --- | --- | --- | --- |
-|  [81](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   |  [11, 1 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Een gewasbeschermingsmiddel toepassen zonder de voorgeschreven voorafgaande melding te doen aan de aangewezen autoriteit  | 700  |
-| --- |  [16, 1 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Een biocide toepassen zonder de voorgeschreven voorafgaande melding te doen aan de aangewezen autoriteit  | 700  |
-| --- | [11, 1 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) en [16, 1 <sup>e</sup> lid](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  | Een verplichte melding als bedoeld in [artikel 11](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) respectievelijk [16 van het Besluit](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) op onjuiste wijze of te laat doen  | 300  |
-| --- |  [31](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Een gasvormig of gasvormend gewasbeschermingsmiddel of biocide buiten een besloten ruimte toepassen zonder daartoe de voorgeschreven melding te doen  | 700  |
-| --- |  [31](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | De melding als hierboven bedoeld te laat of onjuist doen  | 300  |
-| --- | --- | In strijd handelen met het bepaalde bij of krachtens [artikel 81 van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) in overige gevallen  | 700  |
-|  [115](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Overtreding van een voorschrift van een algemeen verbindend verklaarde overeenkomst  | 700  |
-|  [118](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | --- | Overtreding van een vanwege communautaire wetgeving of besluiten gesteld (gewijzigd) voorschrift, voor zover niet reeds voorzien in de hierboven genoemde gevallen  | 1500  |
+####Algemeen
+
+| Rij nr.  | grondslag  | Overtreding  | Boete in € voor distributeur ¹  | Boete in € voor professionele gebruiker  | Boete in € voor niet-professionele gebruiker  |
+|:---|:---|:---|:---|:---|:---|
+| A  | [2a wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) ²  | Algemene zorgplicht niet nakomen  | 1.000  | 500  | 250  |
+
+¹ Omvat ook de houder van de toelating. ² Het desbetreffende artikel in de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  
+
+### B  
+
+####Overtredingen met gewasbeschermingsmiddelen
+
+| Rij  | Grondslag  | Overtreding  | Boete in € voor distributeur  | Boete in € voor professionele gebruiker  | Boete in € voor niet-professionele gebruiker  |
+|:---|:---|:---|:---|:---|:---|
+| 1.  | 23 EG ¹ en [19 wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  | Een werkzame stof gebruiken die niet is toegelaten als gewasbeschermingsmiddel of niet is goedgekeurd als basisstof.  | Nvt  | 2.000  | 500  |
+| 2.  | 28, 1 <sup>e</sup> lid EG en 20, 1 <sup>e</sup> lid wet  | Een niet in Nederland toegelaten gewasbeschermingsmiddel op de markt brengen of gebruiken  | 2.500  | 2.000  | 1.000  |
+| 3.  | 20, 3 <sup>e</sup> lid wet  | Een niet meer toegelaten gewasbeschermingsmiddel voorhanden of op voorraad hebben  | 1.500  | 500  | 250  |
+| 4.  | 20, 3 <sup>e</sup> lid wet  | Een niet toegelaten toevoegingsstof voorhanden hebben of op voorraad hebben  | 500  | 250  | 50  |
+| 5.  | 20, 1 <sup>e</sup> lid wet en 55 EG  | Verkeerd gebruik van een gewasbeschermingsmiddel of toevoegingsstof  | Nvt  | 1.000  | 500  |
+| 6.  | 22, 1 <sup>e</sup> lid wet  | Een toegelaten gewasbeschermingsmiddel op de markt brengen terwijl de voorschriften en beperkingen niet op de juiste wijze op of aan of bij de verpakking zijn vermeld.  | 1.000  | Nvt  | Nvt  |
+| 7.  | 22, 2 <sup>e</sup> lid, wet  | Een toegelaten gewasbeschermingsmiddel op de markt brengen of gebruiken, terwijl het gehalte aan werkzame stof en de verdere samenstelling, kleur, vorm, afwerking, verpakking, aanduidingen of vermeldingen niet aan de voorschriften voldoen.  | 1.500  | 1.000  | 500  |
+| 8.  | 21 wet  | Zaaizaad op de markt brengen of gebruiken dat is behandeld met een niet voor dat doel in een lidstaat van de Europese Unie toegelaten gewasbeschermingsmiddel  | 2.500  | 1.000  | 250  |
+| 9.  | 20, 2 <sup>e</sup> lid, wet en 49, 4 <sup>e</sup> lid, EG  | Met een gewasbeschermingsmiddel behandeld zaaizaad op de markt brengen in strijd met de etiketteringsregels  | 1.000  | nvt  | nvt  |
+| 10.  | 52, 1 <sup>e</sup> lid, EG en 20, 1 <sup>e</sup> lid, wet  | Zonder vergunning voor parallelhandel een elders in de EU toegelaten gewasbeschermingsmiddel in Nederland brengen  | 500  | nvt  | nvt  |
+| 11.  | 52, 5 <sup>e</sup> lid, EG en 20, 1 <sup>e</sup> lid, wet  | In strijd handelen met uitvoeringsverordening en de daarin gestelde controle-eisen voor parallelhandel  | 250  | nvt  | nvt  |
+| 12.  | 56, 1 <sup>e</sup> lid EG en 20, 1 <sup>e</sup> lid, wet  | Nalaten relevante informatie over mogelijke schadelijke of mogelijk onaanvaardbare effecten te delen  | 2.500,-  | nvt  | nvt  |
+| 13.  | 56, 4 <sup>e</sup> lid EG, en 20, 2 <sup>e</sup> lid, wet  | Jaarlijkse kennisgeving achterwege laten  | 500  | nvt  | nvt  |
+| 14.  | 58, 1 <sup>e</sup> lid EG en 20, 1 <sup>e</sup> lid, wet  | Niet toegelaten toevoegingsstof op de markt brengen of gebruiken  | 2.000  | 1.000  | 250  |
+| 15.  | 64 EG en 20, 1 <sup>e</sup> lid, wet  | Verwarrende verpakking van toevoegingsstof of gewasbeschermingsmiddel  | 2.000  | nvt  | Nvt  |
+| 16.  | 65, 1 <sup>e</sup> lid EG en 20, 2 <sup>e</sup> lid, wet  | Onjuiste etikettering  | 2.000  | Nvt  | nvt  |
+| 17.  | 66 EG en 20, 2 <sup>e</sup> lid, wet  | Misleidende informatie geven over de gevaren van gewasbeschermingsmiddel voor mens, dier, plant of milieu.  | 2.000  | 1.500  | 500  |
+| 18.  | 67 EG en 20, 2 <sup>e</sup> lid, wet of 7.4 Rgb  | Onjuiste of onvolledige administratie van gewasbeschermingsmiddelen  | 1.000  | 500  | Nvt  |
+| 19.  | 54 EG en 37 wet  | Overtreding van een voorschrift of beperking, gesteld bij een ontheffing of erkenning voor proeven en experimenten  | 2.500  | nvt  | Nvt  |
+| 20.  | 53 EG en 38 wet  | Overtreding van een voorschrift of beperking, verbonden aan een vrijstelling van een gewasbeschermingsmiddel voor maximaal 120 dagen  | 1.000  | 1.000  | 500  |
+| 21.  | 71 EG en 39 wet  | In strijd met een tijdelijke beperking of tijdelijk verbod een gewasbeschermingsmiddel op de markt brengen of gebruiken  | 5.000  | 1.500  | 500  |
+| 22.  | 71, 1 <sup>e</sup> lid, wet  | Een gewasbeschermingsmiddel toegelaten voor professioneel gebruik ontvangen, gebruiken of voorhanden hebben zonder geldig bewijs van vakbekwaamheid.  | 2.500  | 1.500  | 500  |
+| 23.  | 73, 1 <sup>e</sup> lid, wet  | Een gewasbeschermingsmiddel voor professioneel gebruik op de markt brengen voor een klant die niet over een geldig bewijs van vakbekwaamheid beschikt.  | 1.500  | Nvt  | nvt  |
+| 24.  | 73, 2 <sup>e</sup> lid, wet  | Geen of onvoldoende bewijzen van vakbekwaamheid hebben als distributeur.  | 1.500  | nvt  | nvt  |
+| 25.  | 73, 2 <sup>e</sup> en 3 <sup>e</sup> lid, wet  | Geen of onvoldoende voorlichting geven bij de verkoop van gewasbeschermingsmiddelen.  | 500  | nvt  | nvt  |
+| 26.  | 74, 2 <sup>e</sup> lid, wet  | Geen administratie voeren of een ondeugdelijke administratie voeren in de in artikel 74, tweede lid bedoelde situatie  | 500  | 250  | nvt  |
+| 27.  | --- | Niet in Nederland toegelaten middelen niet apart opslaan van toegelaten middelen  | 500  | 250  | nvt  |
+| 28.  | --- | Een andere dan de hierboven genoemde overtreding van een bij of krachtens Amvb gesteld nader voorschrift omtrent het op de markt brengen van gewasbeschermingsmiddel of biocide als bedoeld in artikel 75 van de wet.  | Pm  | pm  | --- |
+| 29.  | 76 wet  | Een gewasbeschermingsmiddel ontvangen, gebruiken of voorhanden hebben zonder over een geldig bewijs van vakbekwaamheid te beschikken  | 1.500  | 1.000  | 250  |
+| 30.  | 76 wet  | Zonder geldig bewijs van vakbekwaamheid een gewasbeschermingsmiddel ontvangen, gebruiken of voorhanden hebben, aangezien het bewijs is ingetrokken als bedoeld in artikel 18, 4 <sup>e</sup> lid Besluit.  | 2.500  | 1.500  | Nvt  |
+| 31.  | --- | Een gewasbeschermingsmiddel ontvangen, gebruiken of voorhanden hebben, terwijl het bewijs van vakbekwaamheid niet meer geldig is (overige gevallen)  | 250  | 250  | 250  |
+| 32.  | --- | als gebruiker of degene die namens gebruiker ontvangt zich niet legitimeren jegens de leverancier van het gewasbeschermingsmiddel of biocide of met een ondeugdelijk legimitatiebewijs  | Nvt  | 250  | nvt  |
+| 33.  |  [26, 1 <sup>e</sup> lid, Bgb](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)   | Niet beschikken over een deugdelijk gewasbeschermingsplan  | Nvt  | 500  | Nvt  |
+| 34.  | 27, 1 <sup>e</sup> lid, Bgb  | Gewasbeschermingsplan is niet op eerste verzoek te tonen  | Nvt  | 50  | Nvt  |
+| 35.  | --- | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de uitvoering van goede praktijken bij het toepassen van biociden of gewasbeschermingsmiddel.  | --- | 250  | --- |
+| 36.  | 29 Bgb  | Een gewasbeschermingsmiddel toepassen met behulp van een luchtvaartuig, terwijl dat niet is toegestaan  | Nvt  | 1.500  | Nvt  |
+| 37.  | 29, 3 <sup>e</sup> lid, Bgb  | In strijd met een of meer voorschriften een gewasbeschermingsmiddel toepassen met behulp van een luchtvaartuig  | --- | 500  | nvt  |
+| 38.  | 30 Bgb  | Een gasvormig of gasvormend gewasbeschermingsmiddel of biocide in een besloten ruimte toepassen in afwijking van het bepaalde 30 van het Besluit  | Nvt  | 500  | 500  |
+| 39.  | --- | Een andere overtreding van een bij of krachtens AMvB gesteld voorschrift over het gebruik van:  | Pm  | Pm  | pm  |
+| 40.  | 30 Bgb  | voertuigen,  | --- | 500  | --- |
+| 41.  | 31 Bgb  | werktuigen,  | --- | 500  | --- |
+| 42.  | --- | Methoden, technieken en materialen bij de toepassing van een gewasbeschermingsmiddel of biocide  | --- | 500  | --- |
+| 43.  | 81 wet en 11, 1 <sup>e</sup> lid Bgb  | Een gewasbeschermingsmiddel toepassen zonder de voorgeschreven voorafgaande melding te doen aan de aangewezen autoriteit  | Nvt  | 500  | nvt  |
+| 44.  | 81 wet en 11, 1 <sup>e</sup> lid Bgb  | Een verplichte melding als bedoeld in artikel 11 van het Besluit op onjuiste wijze of te laat doen  | Nvt  | 250  | nvt  |
+| 45.  | 31 Bgb  | Een gasvormig of gasvormend gewasbeschermingsmiddel buiten een besloten ruimte toepassen zonder daartoe de voorgeschreven melding te doen  | nvt  | 500  | Nvt  |
+| 46.  | --- | De melding als hierboven bedoeld te laat of onjuist doen  | Nvt  | 250  | nvt  |
+| 47.  | --- | In strijd handelen met het bepaalde bij of krachtens artikel 81 van de wet in overige gevallen  | Pm  | 500  | --- |
+| 48.  | 115 Wet gewasbeschermingsmiddelen en biociden  | Overtreding van een voorschrift van een algemeen verbindend verklaarde overeenkomst  | 1.000  | 500  | --- |
+| 49.  | --- | Overtreding van een vanwege communautaire wetgeving of besluiten gesteld (gewijzigd) voorschrift, voor zover niet reeds voorzien in de hierboven genoemde gevallen  | 1.500  | 1.500  | 250  |
+
+¹ Het desbetreffende artikel in Verordening (EG) 1107/2009.  
+
+### C  
+
+####Overtredingen met biociden
+
+| Rij nr.  | Grondslag  | Overtreding  | Boete in € voor distributeur  | Boete in € voor professionele gebruiker  | Boete in € voor niet-professionele gebruiker  |
+|:---|:---|:---|:---|:---|:---|
+| 50.  |  [42 Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   | Een werkzame stof op de markt brengen, voorhanden hebben of gebruiken, die niet tot de samenstelling behoort van een in Nederland toegelaten of geregistreerde biocide of niet is goedgekeurd als basisstof.  | 2.000  | 2.000  | 1.000  |
+| 51  | 43  | Een niet in Nederland toegelaten of niet geregistreerde biocide op de markt brengen of gebruiken.  | 2.500  | 2.000  | 1.000  |
+| 52  | 43  | Een niet in Nederland toegelaten of niet geregistreerde biocide voorhanden of in voorraad hebben.  | 1.500  | 500  | 250  |
+| 53  | 43a, 1 <sup>e</sup> lid  | Overtreding van een voorschrift of beperking voor het op de markt brengen of gebruik van een biocide.  | 2.000  | 2.000  | 500  |
+| 54.  | 43a, 2 <sup>e</sup> lid  | Een toegelaten of geregistreerd biocide op de markt brengen, voorhanden of in voorraad hebben, terwijl de gebruiksvoorschriften niet op de voorgeschreven wijze aan, op of bij de verpakking zijn vermeld.  | 1.000  | 250  | 50  |
+| 55.  | 43a, 3 <sup>e</sup> lid  | Een toegelaten of geregistreerd biocide op de markt brengen, voorhanden of in voorraad hebben, of gebruiken, terwijl het gehalte aan werkzame stof en de verdere samenstelling, kleur, vorm, afwerking, verpakking, aanduidingen of vermeldingen niet aan de voorschriften voldoen.  | 1.500  | 1.000  | 500  |
+| 56.  | 64, 2 <sup>e</sup> lid  | Niet alle beschikbare gegevens verstrekken  | 1.500  | --- | --- |
+| 57.  | 64, 4 <sup>e</sup> en 5 <sup>e</sup> lid in samenhang met 43a, 1 <sup>e</sup> lid  | Overtreding van een voorschrift of beperking voor een ontheffing voor een proef of experiment met een biocide  | 2.500  | nvt  | Nvt  |
+| 58.  | 64, 6 <sup>e</sup> lid juncto 43a, 1 <sup>e</sup> lid  | Overtreding van bij de erkenning gesteld voorschrift inzake de verrichting van proeven en experimenten met betrekking tot een biocide.  | 2.500  | nvt  | Nvt  |
+| 59.  | 65, 3 <sup>e</sup> en 4 <sup>e</sup> lid in samenhang met 43a, 1 <sup>e</sup> lid  | een door de minister gesteld voorschrift of beperking verbonden aan een vrijstelling van een biocide voor maximaal 120 dagen overtreden.  | 1.000  | 1.000  | 500  |
+| 60.  | 67, 1 <sup>e</sup> lid  | Niet onmiddellijk alle nieuwe gegevens verstrekken betreffende mogelijk gevaarlijke gevolgen van een gebruik van een biocide  | 2.500  | nvt  | nvt  |
+| 61.  | 67, 2 <sup>e</sup> lid  | Overtreding van een tijdelijke beperking of tijdelijk verbod inzake het op de markt brengen van een toegelaten biocide, binnen Nederland brengen, op voorraad hebben, voorhanden hebben, of gebruiken van een toegelaten biocide.  | 2.500  | 1.500  | 500  |
+| 62.  | 71, 1 <sup>e</sup> lid  | Een biocide op de markt brengen zonder geldig bewijs van vakbekwaamheid, hoewel dat bewijs wel is voorgeschreven.  | 1.500  | --- | --- |
+| 63.  | 72, 1 <sup>e</sup> lid  | een niet in Nederland toegelaten biocide aanprijzen.  | 2.000  | 1.500  | 500  |
+| 64.  | 72, 2 <sup>e</sup> lid  | een biocide aanprijzen of aanbevelen in strijd met de voor het gebruik geldende voorschriften.  | 2.000  | 500  | 500  |
+| 65.  | 72, 3 <sup>e</sup> lid  | misleidende informatie geven over de gevaren van een biocide voor mens, dier, plant of milieu.  | 1.500  | 1.000  | 500  |
+| 66.  | 73, 1 <sup>e</sup> lid  | Een biocide, niet aangemerkt als geschikt voor niet-professioneel gebruik, op de markt brengen zonder te vergewissen dat de gebruiker over een geldig bewijs van vakbekwaamheid beschikt.  | 500  | Nvt  | nvt  |
+| 67.  | --- | Een biocide, niet aangemerkt als geschikt voor niet-professioneel gebruik, op de markt brengen ten behoeve van een gebruiker die niet over een geldig bewijs van vakbekwaamheid beschikt.  | 1.500  | Nvt  | nvt  |
+| 68.  | --- | Bij aflevering van een biocide niet vragen om het identiteitsbewijs van de gebruiker of degene die het biocide ontvangt.  | 250  | Nvt  | Nvt  |
+| 69.  | 74, 1 <sup>e</sup> lid  | Niet voldoen aan de inspectievoor-schriften gesteld in de Rgb  | 500  | 250  | nvt  |
+| 70.  | --- | Niet in Nederland toegelaten biociden niet apart opslaan  | 500  | 250  | Nvt  |
+| 71.  | 75 Wet gewasbeschermingsmiddelen en biociden en [artikel 24 Bgb](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  | Onjuiste of onvolledige administratie van biociden  | 1.000  | 500  | Nvt  |
+| 72.  | --- | Biociden voor een ander toepassen of voorhanden hebben zonder een deugdelijke administratie als bedoeld in 25 van het besluit gewasbeschermingsmiddel en biociden  | nvt  | 500  | --- |
+| 73.  | 76, 1 <sup>e</sup> lid  | Een biocide ontvangen, gebruiken of voorhanden hebben zonder over een geldig bewijs van vakbekwaamheid te beschikken  | --- | 1.000  | 250  |
+| 74.  | --- | Zonder geldig bewijs van vakbekwaamheid een biocide ontvangen, gebruiken of voorhanden hebben, aangezien het bewijs is ingetrokken als bedoeld in artikel 18, 4 <sup>e</sup> lid Besluit.  | 2.000  | 1.500  | Nvt  |
+| 75.  | --- | Een biocide ontvangen, gebruiken of voorhanden hebben, terwijl het bewijs van vakbekwaamheid niet meer geldig is (overige gevallen)  | 250  | 250  | 250  |
+| 76.  | 77  | als gebruiker of degene die namens gebruiker ontvangt zich niet legitimeren jegens de distributeur van de biocide of met een ondeugdelijk legimitatiebewijs  | nvt  | 250  | nvt  |
+| 77.  | 78, 2 <sup>e</sup> lid  | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de administratie van de wijze van gebruik van een biocide.  | 250  | 250  | 250  |
+| 78.  | 79  | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de uitvoering van goede praktijken bij het toepassen van biociden.  | --- | 250  | nvt  |
+| 79.  | 80  | Een biocide toepassen met behulp van een luchtvaartuig, terwijl dat in het geheel niet is toegestaan  | nvt  | 1.500  | Nvt  |
+| 80.  | --- | In strijd met een of meer voorschriften een biocide toepassen met behulp van een luchtvaartuig  | --- | 500  | --- |
+| 81.  | --- | Een gasvormig of gasvormend biocide in een besloten ruimte toepassen in afwijking van het bepaalde 30 van het Besluit  | --- | 500  | 500  |
+| 82.  | 80  | Een andere overtreding van een bij of krachtens AMvB gesteld voorschrift over het gebruik van:  | --- | 500  | --- |
+| 83.  | --- | voertuigen,  | --- | 500  | --- |
+| 84.  | --- | werktuigen,  | --- | 500  | --- |
+| 85.  | --- | methoden,  | --- | 500  | --- |
+| 86.  | --- | technieken en materialen bij de toepassing van een gewasbeschermingsmiddel of biocide  | --- | --- | --- |
+| 87.  | --- | --- | --- | --- | --- |
+| 88.  | --- | Een biocide toepassen zonder de voorgeschreven voorafgaande melding te doen aan de aangewezen autoriteit  | --- | 500  | --- |
+| 89.  | --- | Een verplichte melding als bedoeld in artikel 16 van het Besluit op onjuiste wijze of te laat doen  | --- | 250  | --- |
+| 90.  | --- | Een gasvormig of gasvormend biocide toepassen zonder daartoe de voorgeschreven melding te doen.  | --- | 500  | --- |
 
 ### Bijlage  XIV  
 
