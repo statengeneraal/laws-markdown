@@ -10,20 +10,20 @@ Besluit:
 
 Voor het uitoefenen van toezicht, als bedoeld in [artikel 45, vijfde lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) kunnen worden aangewezen: 
 
-a. door de gemeente voor bekostiging in aanmerking gebrachte instellingen voor ambulante verslavingszorg;  
+a. door de gemeente voor bekostiging in aanmerking gebrachte instellingen voor ambulante verslavingszorg; 
 
-b. op grond van de [Wet toelating zorginstellingen](../../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) toegelaten regionale instellingen voor ambulante geestelijke gezondheidszorg;  
+b. op grond van de [Wet toelating zorginstellingen](../../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) toegelaten regionale instellingen voor ambulante geestelijke gezondheidszorg; 
 
-c. poliklinieken van Algemene psychiatrische ziekenhuizen, psychiatrische poliklinieken van Algemene Ziekenhuizen, van Academische ziekenhuizen en van Universiteitsklinieken.    
+c. poliklinieken van Algemene psychiatrische ziekenhuizen, psychiatrische poliklinieken van Algemene Ziekenhuizen, van Academische ziekenhuizen en van Universiteitsklinieken.  
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op het tijdstip bedoeld in [artikel 80, tweede lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).  
+Deze regeling treedt in werking op het tijdstip bedoeld in [artikel 80, tweede lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md). 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling instellingen uitoefenen toezicht voorwaardelijk verlof en ontslag Bopz. Deze regeling zal in de Staatscourant worden geplaatst.  
+Deze regeling wordt aangehaald als: Regeling instellingen uitoefenen toezicht voorwaardelijk verlof en ontslag Bopz. Deze regeling zal in de Staatscourant worden geplaatst. 
 
 De 
 Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-Hans J.Simons    
+Hans J.Simons      

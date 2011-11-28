@@ -15,30 +15,30 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt onder de wet verstaan: de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).  
+In dit besluit wordt onder de wet verstaan: de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md). 
 
 ### Artikel  2  
 
-1.  Een verzoekschrift, als bedoeld in [artikel 4 van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), vermeldt in ieder geval: 
+1. Een verzoekschrift, als bedoeld in [artikel 4 van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), vermeldt in ieder geval:  
 
 a. de naam van degene voor wie een voorlopige machtiging, een voorwaardelijke machtiging of een observatiemachtiging wordt verzocht en de plaats waar deze zich bevindt;  
 
 b. de naam en het adres van de degene die het verzoek indient;  
 
-c. in welke betrekking de verzoeker staat tot de persoon voor wie een voorlopige machtiging, een voorwaardelijke machtiging of een observatiemachtiging wordt gevraagd.     
-2.  Het eerste lid is van overeenkomstige toepassing op een verzoekschrift als bedoeld in [artikel 34g van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).   
+c. in welke betrekking de verzoeker staat tot de persoon voor wie een voorlopige machtiging, een voorwaardelijke machtiging of een observatiemachtiging wordt gevraagd.   
+2. Het eerste lid is van overeenkomstige toepassing op een verzoekschrift als bedoeld in [artikel 34g van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).
 
 ### Artikel  3  
 
-Een verklaring als bedoeld in de [artikelen 5](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [14a, vierde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [14c, vijfde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [14h, vierde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [16, eerste lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [21, eerste lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [33, derde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [34 c van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) en een beschikking als bedoeld in [artikel 20, eerste lid, van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) wordt opgemaakt volgens een door Onze Minister van Volksgezondheid, Welzijn en Sport vast te stellen model.  
+Een verklaring als bedoeld in de [artikelen 5](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [14a, vierde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [14c, vijfde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [14h, vierde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [16, eerste lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [21, eerste lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [33, derde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [34 c van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) en een beschikking als bedoeld in [artikel 20, eerste lid, van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) wordt opgemaakt volgens een door Onze Minister van Volksgezondheid, Welzijn en Sport vast te stellen model. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking op het tijdstip, bedoeld in [artikel 80, tweede lid, van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).  
+Dit besluit treedt in werking op het tijdstip, bedoeld in [artikel 80, tweede lid, van de wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md). 
 
 ### Artikel  9  
 
-Dit besluit kan worden aangehaald als: Besluit administratieve bepalingen Bopz.  
+Dit besluit kan worden aangehaald als: Besluit administratieve bepalingen Bopz. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
