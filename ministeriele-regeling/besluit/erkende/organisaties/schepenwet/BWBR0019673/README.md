@@ -34,32 +34,57 @@ g. Registro Italiano Navale (RINA) te Genua, Italië.
 ####Bijzondere onderzoeken
 
 1.  Onverminderd artikel 1, tweede lid, is tot het verrichten van onderzoeken van elektronisch aangedreven liften, personenliften, niet zijnde elektrisch aangedreven liften, en roltrappen tevens bevoegd de Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut) te Amsterdam.   
-2.  Als keuringsstations voor de keuring van opblaasbare reddingsvlotten en opblaasbare hulpverleningsboten worden in het Koninkrijk aangewezen de ingevolge tabel 1 bevoegde keuringsstations. Tot het verrichten van keuringen buiten het Koninkrijk zijn bevoegd de door de bevoegde autoriteiten ter plaatse erkende keuringsstations.  Tabel 1. Keuringsstations voor opblaasbare reddingsvlotten en hulpverleningsboten 
+2.  Als keuringsinstantie voor opblaasbare reddingmiddelen als bedoeld in voorschrift III/20.8 van het SOLAS-verdrag, worden aangewezen: 
 
-| Keuringsstations  | bevoegd ten aanzien van:  | opblaasbare reddingsvlotten van het type:  | hulpverleningsboten van het type:  |
-|:---|:---|:---|:---|
-| Marin Assist B.V. te Grou  | RFD, Beaufort/Dunlop  | Zodiac  |
-| Marin Assist B.V. te Rotterdam  | RFD, Beaufort/Dunlop  | Zodiac  |
-| Nautische Unie-Hunfeld te Farmsum  | Viking  | Narwahl, Zodiac  |
-| Oceana Air-Sea Trading te Rotterdam  | DSB/Autoflug, TVB*, Plastimo, Duarry, Zodiac, Mitsubishi, Sumitomo, Tokyo Toyo, Fujikura, Euro-Vinyls, Revere, Switlik  | DSB  |
-| Oceana Air-Sea Trading te Grou  | DSB/Autoflug, TVB*, Plastimo, Duarry, Zodiac, Mitsubishi, Sumitomo, Tokyo Toyo, Fujikura, Euro-Vinyls, Revere, Switlik  | DSB  |
-| Jacobs Lifesaving B.V. te H.I. Ambacht  | Fujikura, Mitsubishi, Samgong, Sumitomo, Swastik, UFA-Plant, Uzemik  | --- |
-| Unitor Schips Service B.V. te Rotterdam  | Zodiac  | --- |
-| Viking Life-Saving B.V. te Zwijndrecht  | Viking  | Viking, Narwahl  |
-| Viking Life-Saving B.V. te Haarlem  | Viking  | --- |
-| Sail Safe RBC te IJmuiden  | --- | Duarry  |
-| Catis Marine Division N.V. te Curaçao  | Viking, DSB, AFG, TVB*, RFD-Revere survival products, RFD- Surviva, Zodiac, Avon, Survival Products Inc.  | DSB  |
-| Koninklijke Marine – Marinebedrijf te Den Helder  | Viking  | --- |
+a. Survitec Service and Distribution te Grou;  
 
-* Reddingsvlotten zonder een erkend typecertificaat overeenkomstig richtlijn nr. 96/98/EG van de Raad van de Europese Unie van 20 december 1996 inzake uitrusting van zeeschepen (PbEG 1997 L 46).   
-3.  Als testing ASP voor het verrichten van onderzoeken gericht op het testen van geschiktheid van apparatuur voor het automatisch zenden van gegevens, bedoeld in voorschrift V-19/1 van het SOLAS-verdrag worden aangewezen: 
+b. Survitec Service and Distribution te Rotterdam;  
+
+c. Nautische Unie-Hunfeld te Farmsum;  
+
+d. Jacobs Lifesaving B.V. te Strijen;  
+
+e. Wilhelmsen Ship Service B.V. te Rotterdam;  
+
+f. Viking Life-Saving B.V. te Zwijndrecht;  
+
+g. Viking Life-Saving B.V. te Den Helder;  
+
+h. Catis Marine Division N.V. te Curaçao;  
+
+i. Koninklijke Marine- Marinebedrijf te Den Helder;  
+
+j. VEVC te Urk;  
+
+k. De Wolf Products B.V. te Yerseke.     
+3.  Als testing ASP voor het verrichten van onderzoeken gericht op het testen van geschiktheid van apparatuur voor het automatisch zenden van gegevens, bedoeld in voorschrift V/19.1 van het SOLAS-verdrag worden aangewezen: 
 
 a. Alewijnse Marine Systems B.V., te Krimpen aan den IJssel;  
 
 b. Radio Holland Netherlands B.V., te Rotterdam;  
 
-c. Pole Star Space Applications Limited, te Londen, Verenigd Koninkrijk, in combinatie met de rechtspersonen, genoemd in de onderdelen a en b.     
-4.  Aan de aanwijzing, bedoeld in het derde lid, zijn de voorschriften verbonden, opgenomen in de bijlage bij dit besluit.   
+c. Pole Star Space Applications Limited, te Londen, Verenigd Koninkrijk, in combinatie met de rechtspersonen, genoemd in de onderdelen a en b;  
+
+d. Alphatron Marine B.V., te Rotterdam;  
+
+e. SAM Electronics Nederland B.V., te Rotterdam;  
+
+f. Collecte Localisation Satellites, te Ramonville Saint-Agne, Frankrijk.     
+4.  Als keuringsinstantie voor de zeegaande zeilende beroepsvaart, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, wordt aangewezen: Register Holland B.V. te Enkhuizen.   
+5.  Als keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken, wordt aangewezen: Register Holland B.V. te Enkhuizen.   
+6.  Als keuringsinstantie voor reddingmiddelen, bevoegd tot het verrichten van onderzoeken gericht op het onderhoud van reddingmiddelen als bedoeld in circulaire MSC.1/Circ.1206/Rev.1 van de Maritieme Veiligheidscommissie, wordt in het Koninkrijk aangewezen: Willem Pot B.V. te Rotterdam.   
+7.  Als keuringsinstantie voor tuigage, bevoegd tot het verrichten van onderzoeken aan de tuigage van zeilschepen, wordt aangewezen: Register Holland B.V. te Enkhuizen.   
+8.  Als keuringsinstantie voor radio-uitrusting, bevoegd tot het verrichten van onderzoeken in verband met het certificeren van de radio-uitrusting van vissersvaartuigen en schepen voor zover zij niet door een klassenbureau als bedoeld in artikel 1, eerste lid, worden onderzocht, worden aangewezen: 
+
+a. Radio Holland Netherlands B.V. te Rotterdam;  
+
+b. Alphatron Marine B.V. te Rotterdam;  
+
+c. SAM Electronics Netherlands B.V. te Rotterdam;  
+
+d. Pro Nautas B.V. te Barendrecht.     
+9.  Aan de aanwijzingen, bedoeld in het derde tot en met het achtste lid, zijn de voorschriften verbonden, opgenomen in de bijlage bij dit besluit.   
+10.  Buiten het Koninkrijk zijn aangewezen als keuringsinstantie voor opblaasbare reddingmiddelen en keuringsinstantie voor reddingmiddelen als bedoeld in het tweede respectievelijk het zesde lid, de door de bevoegde autoriteiten ter plaatse erkende organisaties.   
 
 ### Artikel  3  
 
@@ -72,7 +97,7 @@ c. Pole Star Space Applications Limited, te Londen, Verenigd Koninkrijk, in comb
 | Instanties  | bevoegd ten aanzien van de taken, bedoeld in de volgende voorschriften van de IMDG-Code  |
 |:---|:---|
 | Rechtspersonen, genoemd in artikel 1, eerste lid   | 4.2.1.7; 4.2.1.9; 4.2.3.6.4*; 4.2.3.7.1*; 4.2.5.3 (TP4, TP10, TP16 en TP24); 6.7.1.1.1; 6.7.2.2; 6.7.2.3; 6.7.2.6; 6.7.2.7; 6.7.2.8; 6.7.2.10; 6.7.2.12; 6.7.2.18; 6.7.2.19.4; 6.7.2.19.5; 6.7.19.9; 6.7.19.10; 6.7.3.2; 6.7.3.7; 6.7.3.8; 6.7.3.14; 6.7.3.15.3; 6.7.3.15.5; 6.7.3.15.9; 6.7.3.15.10; 6.7.4.2; 6.7.4.3; 6.7.4.6; 6.7.4.7; 6.7.4.13; 6.7.4.14.3; 6.7.4.14.10; 6.7.4.14.11; 6.7.5; 6.8.3.1; 6.8.3.2.1; 6.8.3.2.2.1; 6.8.3.2.3; 6.8.3.3.2.1; 6.8.3.3.3; 7.4.2.3; 7.5.1.3  |
-| TNO Product Testing & Consultancy B.V.  | 6.1.1.2*; 6.1.1.3*; 6.1.3.1; 6.1.3.7; 6.1.3.8, 6.1.5; 6.3.1.1; 6.3.2.7; 6.3.3.2; 6.5.1.1.2*; 6.5.1.1.3; 6.5.1.6.1*; 6.5.1.6.4; 6.5.1.6.7; 6.5.2; 6.5.4; 6.6.1.2*; 6.6.1.3*; 6.6.3.1; 6.6.5.1; 6.6.5.4  |
+| TÜV Rheinland Nederland B.V.  | 6.1.1.2*; 6.1.1.3*; 6.1.3.1; 6.1.3.7; 6.1.3.8, 6.1.5; 6.3.1.1; 6.3.2.7; 6.3.3.2; 6.5.1.1.2*; 6.5.1.1.3; 6.5.1.6.1*; 6.5.1.6.4; 6.5.1.6.7; 6.5.2; 6.5.4; 6.6.1.2*; 6.6.1.3*; 6.6.3.1; 6.6.5.1; 6.6.5.4  |
 | Lloyds Register Nederland  | 4.1.4.1 P200, P201, P203, P902; 4.1.4.3 LP902; 4.1.6.1.2; 6.2  |
 | SGS Redwood B.V  | 6.7.2.19.5  |
 | RDW  | 4.2.1.7; 4.2.1.9; 4.2.3.6.4*; 4.2.3.7.1*; 4.2.5.3 (TP4, TP10, TP16 en TP24); 6.7.2.2; 6.7.2.3; 6.7.2.6; 6.7.2.7; 6.7.2.8; 6.7.2.10; 6.7.2.12; 6.7.2.18; 6.7.2.19.4; 6.7.2.19.5; 6.7.2.19.9; 6.7.2.19.10; 6.7.3.2; 6.7.3.7; 6.7.3.8; 6.7.3.14; 6.7.3.15.3; 6.7.3.15.5; 6.7.3.15.9; 6.7.3.15.10; 6.7.4.2; 6.7.4.3; 6.7.4.6; 6.7.4.7; 6.7.4.13; 6.7.4.14.10; 6.7.4.14.11; 6.7.5; 6.8.2.2.3; 6.8.3.1; 6.8.3.2.1; 6.8.3.2.2.1; 6.8.3.2.3; 6.8.3.3.2.1; 6.8.3.3.3; 6.9.4.3; 6.9.4.4  |
@@ -81,21 +106,13 @@ c. Pole Star Space Applications Limited, te Londen, Verenigd Koninkrijk, in comb
 
 ####Erkende beveiligingsorganisaties
 
-Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), worden tot en met 30 juni 2009 aangewezen de in artikel 1, eerste lid, genoemde rechtspersonen.  
+Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), worden aangewezen de in artikel 1, eerste lid, genoemde rechtspersonen.  
 
 ### Artikel  5  
 
-Het [besluit van de Minister van Verkeer en Waterstaat van 31 januari 2003](../../../../../../ministeriele-regeling/aanwijzing/klassenbureaus/schepenwet/BWBR0014651/README.md) houdende aanwijzing van rechtspersonen bevoegd tot het verrichten van onderzoeken als bedoeld in hoofdstuk III van het Schepenbesluit 1965, of waarvan de regels kunnen gelden als eisen als bedoeld in [artikel 3a, eerste lid, van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), nr. HDJZ/SCH/2002-2818, Stcrt. 27, wordt ingetrokken.  
-
-### Artikel  6  
-
-Het [besluit van de Minister van Verkeer en Waterstaat van 2 september 2004](../../../../../../ministeriele-regeling/besluit/aanwijzing/erkende/beveiligingsorganisaties/zeeschepen/BWBR0017159/README.md) houdende aanwijzing erkende organisaties voor de beveiliging van zeeschepen, nr. HDJZ/SCH/2004-1717, Stcrt. 174, wordt ingetrokken.  
-
-### Artikel  7  
-
 Dit besluit wordt aangehaald als: Besluit erkende organisaties Schepenwet.  
 
-### Artikel  8  
+### Artikel  6  
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de artikelen 1 tot en met 3 en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), artikel 4, terug tot en met 1 januari 2005.  
 Dit besluit zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.  
@@ -107,11 +124,11 @@ K.M.H. Peijs
 
 ### Bijlage  
 
-####Voorschriften verbonden aan de aanwijzing, bedoeld in artikel 2, derde lid 
+####Voorschriften verbonden aan de aanwijzing, bedoeld in artikel 2, negende lid 
 
 a. Indien de instantie weigert de taken uit te voeren waarvoor de aanwijzing geldt, wordt daarvan onder opgave van redenen mededeling gedaan aan de Inspectie Verkeer en Waterstaat,  
 
-b. De instantie verstrekt de Inspectie Verkeer en Waterstaat desgevraagd inlichtingen omtrent haar taakuitoefening,  
+b. De instantie verstrekt de Inspectie Verkeer en Waterstaat desgevraagd of uit eigen beweging inlichtingen omtrent haar taakuitoefening,  
 
 c. Indien de instantie voornemens is de taken waarvoor de aanwijzing geldt te beëindigen, wordt daarvan ten minste drie maanden voor de voorgenomen datum van beëindiging mededeling gedaan aan de Inspectie Verkeer en Waterstaat, en  
 

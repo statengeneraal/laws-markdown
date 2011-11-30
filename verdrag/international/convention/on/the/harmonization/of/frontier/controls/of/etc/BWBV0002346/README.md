@@ -598,7 +598,7 @@ In the absence of relevant provisions in this annex, the Rules of Procedure of t
 
 ####Principles
 
-Complementing the provisions of the Convention and in particular those provided in Appendix 1, the present Annex intends to define the measures that need to be implemented in order to facilitate border crossing procedures for international road transport.  
+Complementing the provisions of the Convention and in particular those provided in Annex 1, the present Annex intends to define the measures that need to be implemented in order to facilitate border crossing procedures for international road transport.  
 
 ### Article  2  
 
@@ -661,6 +661,146 @@ In order to ensure that the required formalities at border crossing points are s
 ####Reporting mechanism
 
 With regard to Articles 1 to 6 of this Annex, the Executive Secretary of the Economic Commission for Europe of the United Nations (UNECE) shall carry out, every second year, a survey among Contracting Parties on progress made to improve border crossing procedures in their countries.  
+
+### Appendix  1  
+
+####to Annex 8 to the Convention International Technical Inspection Certificate
+
+<sup> 2)  As of 1 January 2004.  </sup>   In accordance with the Agreement Concerning the Adoption of Uniform Conditions for Periodical Technical Inspections of Wheeled Vehicles and the Reciprocal Recognition of such Inspections (1997), entered into force on 27 January 2001. 
+
+1. Accredited Technical Inspection Centres are responsible for conducting the inspection tests, granting the approval of compliance with the inspection requirements of the relevant Rule(s) annexed to the 1997 Vienna Agreement, and specifying the latest date of next inspection to be indicated in line No. 12.5 of the International Technical Inspection Certificate, the model of which is reproduced hereafter.  
+
+2. The International Technical Inspection Certificate shall contain the information indicated hereafter. It may be a booklet in format A6 (148x105 mm), with a green cover and white inside pages, or a sheet of green or white paper of format A4 (210x197) folded to format A6 in such a way that the section containing the distinguishing sign of the State or of the United Nations forms the top of the folded Certificate.  
+
+3. Items of the certificate and their content shall be printed in the national language of the issuing Contracting Party by maintaining the numbering.  
+
+4. The periodical inspection reports which are in use in the Contracting Parties to the Agreement may be used as an alternative. A sample of them shall be transmitted to the Secretary-General of the United Nations for information to the Contracting Parties.  
+
+5. Handwritten, typed or computer generated entries on the International Technical Inspection Certificate to be made exclusively by the competent authorities, shall be in Latin characters.     ![]()
+![]()
+![]()
+
+### Appendix  2  
+
+####to Annex 8 to the Convention International Vehicle Weight Certificate
+
+1. The objective of the International Vehicle Weight Certificate (IVWC) is to facilitate border crossing procedures and, in particular, to avoid repetitive weight measurements of goods road vehicles *en route* in the Contracting Parties. Duly filled-in certificates, accepted by the Contracting Parties, shall be accepted as bearing valid weight measurements by the competent authorities of Contracting Parties. Competent authorities shall refrain from requiring additional weight measurements apart from random checks and controls in the case of supposed irregularities.  
+
+2. The International Vehicle Weight Certificate, which shall conform to the model reproduced below in this Appendix, shall be issued and used under the supervision of a designated Governmental authority in each Contracting Party accepting such certificates in line with the procedure described in the annexed certificate.  
+
+3. The use of the certificate by transport operators is optional.  
+
+4. The Contracting Parties, accepting such certificates, shall approve authorized weighing stations to fill-in, together with the operator/driver of the goods road vehicle, the International Vehicle Weight Certificate in accordance with the following minimum requirements: 
+
+a) Weighing stations shall be equipped with certified weighing instruments. For performing the weight measurements, the Contracting Parties accepting such certificates may select the method and instruments they consider appropriate. The Contracting Party accepting such certificates shall ensure the competence of the weighing stations by, for example, an accreditation or assessment process and shall ensure the use of the appropriate weighing instruments, the deployment of qualified personnel, and the existence of properly documented quality control systems and testing procedures.  
+
+b) The weighing stations and their instruments shall be well maintained. The instruments shall be regularly verified and sealed by the relevant authorities responsible for weights and measures. The weighing instruments, their maximum permissible errors and usage shall comply with the Recommendations established by the International Organization of Legal Metrology (OIML).  
+
+c) Weighing stations shall be equipped with weighing instruments corresponding to either: 
+
+– OIML Recommendation R 76 “Non-automatic weighing instruments” accuracy class III or better;  
+
+– OIML Recommendation R 134 “Automatic instruments for weighing road vehicles in motion”, accuracy class 2 or better, higher error values may apply in case of individual axle weight measurements.      
+
+5. In exceptional cases and, particularly when irregularities are suspected, or at the demand of the transport operator/driver of the respective road vehicle, the competent authorities may re-weigh the vehicle. In case a weighing station produces several mistaken measurements, observed by the control authorities in a Contracting Party accepting such certificates, the competent authorities of the country of the weighing station shall take appropriate measures in order to ensure that such events will not occur again.  
+
+6. The model of the certificate may be reproduced in any of the languages of the Contracting Parties accepting such certificates provided that the layout of the certificate and the placing of the items therein are not modified.  
+
+7. Each Contracting Party accepting such certificates, shall publish a list of all weighing stations in their countries authorized in accordance with international principles as well as any modifications thereto. This list as well as any modification thereto shall be transmitted to the Executive Secretary of the Economic Commission for Europe of the United Nations (UNECE) for distribution to each Contracting Party and to the international organizations referred to in Annex 7, Article 2 to this Convention.  
+
+8. (Transitional provision) Since only very few weighing stations are equipped at present with weighing instruments able to provide individual axle weight or axle group measurements, the Contracting Parties, accepting such certificates agree that, during a transitional period expiring 12 months following the entry into force of this Annex, gross vehicle weight measurements as provided for under item 7.3 in the International Vehicle Weight Certificate shall be sufficient and shall be accepted by the competent national authorities.     ![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+### Annex  9  
+
+####Facilitation of border crossing procedures for international rail freight
+
+### Article  1  
+
+####Principles
+
+1.  This Annex, supplementing the provisions of the Convention, is intended to define the steps that need to be taken to facilitate and expedite the crossing of borders for international rail freight.   
+2.  The Contracting Parties shall undertake to cooperate in order to standardize as fully as possible formalities and requirements in respect of documents and procedures in all areas connected with the carriage of goods by rail.   
+
+### Article  2  
+
+####Definition
+
+“Border (interchange) station” shall mean a railway station where operational or administrative procedures are performed in view of enabling a border crossing of rail freight. This railway station may be at the border or near the border.  
+
+### Article  3  
+
+####Crossing of borders by officials and other persons engaged in international rail transport
+
+1.  The Contracting Parties shall endeavour to facilitate the procedures for granting of visas for locomotive crews, refrigerated unit crews, persons accompanying freight shipments and staff at border (interchange) stations engaged in international rail transport in accordance with national best practice for all visa applicants.   
+2.  The border crossing procedure for the persons listed in paragraph 1, including official documents confirming their status, shall be determined on the basis of bilateral agreements.   
+3.  When a joint control is carried out, the officials of the border, customs and other agencies that conduct controls at border (interchange) stations shall, in the performance of their official duties, cross the State frontier using documents stipulated by the Contracting Parties for their nationals.   
+
+### Article  4  
+
+####Requirements for border (interchange) stations
+
+To rationalize and expedite the required formalities at border (interchange) stations, the Contracting Parties shall observe the following minimum requirements for border (interchange) stations open to international rail freight traffic: 
+
+1. Border (interchange) stations shall have buildings (premises), plant, facilities and technical equipment enabling them to carry out daily and round-the-clock controls, if this is justified and is appropriate to the volume of freight traffic;  
+
+2. Border (interchange) stations where phytosanitary, veterinary and other controls are carried out shall be provided with technical equipment;  
+
+3. The carrying and traffic capacity of border (interchange) stations and adjacent tracks must be adequate for the volume of traffic;  
+
+4. Inspection areas must be available, as well as warehousing for the temporary storage of goods subject to customs or other forms of control;  
+
+5. Equipment, facilities, information technology and communications systems must be available to enable the exchange in advance of information, including on goods approaching border (interchange) stations, as contained in the railway consignment note and customs declaration;  
+
+6. Sufficient qualified staff of the railway, customs, border and other agencies must be on hand at border (interchange) stations to cope with the freight volumes involved;  
+
+7. Border (interchange) stations shall have the technical equipment, facilities, information technology and communications systems to be able, prior to the arrival of rolling stock at the border, to receive and use data concerning the technical approval and the technical inspections of the rolling stock made by authorities and railways within the framework of their competence, unless Contracting Parties put in place alternative arrangements to fulfil these functions.    
+
+### Article  5  
+
+####Cooperation between adjacent countries at border (interchange) stations
+
+In accordance with the provisions of Article 7 of the Convention, Contracting Parties shall coordinate actions with respect to the controls of rolling stock, containers, piggyback semi-trailers and goods as well as the processing of shipping and accompanying documentation and shall endeavour to arrange all forms of joint controls on the basis of bilateral agreements.  
+
+### Article  6  
+
+####Controls
+
+The Contracting Parties: 
+
+1. Shall establish a mechanism for reciprocal recognition of all forms of control of rolling stock, containers, piggyback semi-trailers and goods, provided the objectives thereof coincide;  
+
+2. Shall carry out customs controls relying on the principle of selection on the basis of risk evaluation and management. As a general rule, if required information on the goods has been provided and if the goods are contained in a properly closed and sealed rolling stock unit, container, piggyback semi-trailer or wagon, physical examination shall not be carried out;  
+
+3. Shall carry out simplified controls at border (interchange) stations and shall, as far as possible, move certain forms of controls to the stations of departure and destination;  
+
+4. Without prejudice to Article 10 of the Convention, Article 4 of Annex 2, Article 5 of Annex 3 and Article 5 of Annex 4, shall carry out inspections of transit goods only in cases where these are warranted by the actual circumstances or risks.    
+
+### Article  7  
+
+####Time limits
+
+1.  The Contracting Parties shall ensure compliance with the time limits specified in bilateral agreements for technical operations involving the reception and transfer of trains at border (interchange) stations, including all types of controls, and shall endeavour to reduce these time limits by improving the technology and equipment used. The Contracting Parties shall undertake to reach a maximum reduction in the time limit in the coming years.   
+2.  The Contracting Parties shall record delays of the trains or wagons at border (interchange) stations and transmit the information to the parties involved which conduct subsequent analysis and propose measures to reduce the delays.   
+
+### Article  8  
+
+####Documentation
+
+1.  The Contracting Parties shall ensure that shipping and accompanying documents are properly formulated in accordance with the legislation of the importing and transit countries.   
+2.  In their mutual relations, the Contracting Parties shall endeavour to reduce paper documents and to simplify documentation procedures by using electronic systems for the exchange of information corresponding to the information contained in railway consignment notes and customs declarations accompanying the goods, drawn up in accordance with the legislation of the Contracting Parties.   
+3.  The Contracting Parties shall endeavour to provide the customs authorities in advance with information on goods arriving at border (interchange) stations as contained in the railway consignment note and customs declaration. The format, and the procedure and deadlines for providing the information, shall be determined by the Contracting Parties.   
+
+### Article  9  
+
+####Use of the CIM/SMGS railway consignment note
+
+The Contracting Parties may use, instead of the other shipping documents currently stipulated by international treaties, the CIM/SMGS railway consignment note, which at the same time could be a customs document.  
 
 ####Internationale Overeenkomst inzake de harmonisatie van de goederencontroles aan de grenzen
 
@@ -1375,4 +1515,147 @@ vi. de installatie van expediteurs aan de grensposten wordt bevorderd doordat er
 ####Verslaggeving
 
 Met betrekking tot de artikelen 1 tot en met 6 van deze bijlage verricht de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) om de twee jaar bij de overeenkomstsluitende partijen een onderzoek naar de vorderingen die zijn gemaakt om de grensprocedures in hun landen te verbeteren.  
+
+### Aanhangsel  1  
+
+####bij bijlage 8 bij de Overeenkomst Internationaal technisch keuringscertificaat
+
+<sup> 3)  Vanaf 1 januari 2004.  </sup>   Krachtens het Verdrag van 1997 betreffende het aannemen van eenvormige voorwaarden voor periodieke technische keuringen van motorvoertuigen en de wederzijdse erkenning van dergelijke keuringen, dat op 27 januari 2001 in werking is getreden. 
+
+1. De verantwoordelijkheid voor het uitvoeren van de technische controles, voor het toekennen van een certificaat waaruit blijkt dat aan de voorwaarden van het/de desbetreffende Voorschrift(en) behorend bij het Verdrag van Wenen van 1997 is voldaan, en voor het vermelden van de uiterste datum van de volgende keuring onder rubriek 12.5 van het Internationaal Technisch Keuringscertificaat, waarvan in het navolgende een model is weergegeven, berust bij de erkende instanties voor technische keuringen.  
+
+2. Het Internationaal Technisch Keuringscertificaat bevat de in het navolgende vermelde informatie. Het kan de vorm hebben van een boekje op A6-formaat (148x105 mm), met een groene omslag en witte pagina's binnenin, of van een vel papier op A4-formaat (210x197 mm) dat tot een A6-formaat is gevouwen, en wel zodanig dat het gedeelte met het herkenningsteken van de staat of van de Verenigde Naties de bovenzijde van het gevouwen Certificaat vormt. <sup> 4)  Het A4-formaat is 210x297 mm.  </sup>  
+
+3. De rubrieken van het certificaat worden ingevuld in de officiële taal van de Verdragsluitende Partij die het certificaat afgeeft, met handhaving van de nummering.  
+
+4. De keuringsverslagen, die worden gebruikt door de Verdragsluitende Partijen bij het Verdrag, kunnen als alternatieve versie dienen. Een model hiervan wordt ter informatie van de Verdragsluitende Partijen gezonden aan de Secretaris-Generaal van de Verenigde Naties.  
+
+5. Handgeschreven, getypte of met behulp van de computer vervaardigde aantekeningen op de Internationale Technische Keuringscertificaten mogen slechts worden gemaakt door de bevoegde autoriteiten en dienen te worden uitgevoerd in Latijns schrift.     ![]()
+![]()
+![]()
+
+### Aanhangsel  2  
+
+####bij bijlage 8 bij de overeenkomst Internationaal weegcertificaat voor voertuigen
+
+1. Het internationaal weegcertificaat voor voertuigen (IWV) heeft tot doel de grensprocedures te vereenvoudigen en met name te voorkomen dat wegvoertuigen voor goederenvervoer die *onderweg zijn* in de overeenkomstsluitende partijen, herhaaldelijk moeten worden gewogen. Door de overeenkomstsluitende partijen aanvaarde certificaten worden, als zij naar behoren zijn ingevuld, door de bevoegde autoriteiten van de overeenkomstsluitende partijen als geldig weegbewijs aanvaard. De bevoegde autoriteiten onthouden zich ervan om, afgezien van steekproefsgewijze controles en controles in het geval van een vermoeden van onregelmatigheid, verdere wegingen te eisen.  
+
+2. Het internationaal weegcertificaat voor voertuigen, dat moet worden opgesteld volgens onderstaand model, wordt volgens de in dat certificaat beschreven procedure afgegeven en gebruikt onder toezicht van een overheidsinstantie die wordt aangewezen in elke overeenkomstsluitende partij die dergelijke certificaten aanvaardt.  
+
+3. Het gebruik van het certificaat door de vervoersondernemers is facultatief.  
+
+4. De overeenkomstsluitende partijen die dergelijke certificaten aanvaarden, machtigen erkende weegstations om, samen met de vervoerondernemer of de chauffeur van het wegvoertuig voor goederenvervoer, het internationaal weegcertificaat voor voertuigen in te vullen mits zij aan de volgende minimumvereisten voldoen: 
+
+a. de weegstations zijn uitgerust met gecertificeerde weegtoestellen. De overeenkomstsluitende partijen die dergelijke certificaten aanvaarden, mogen voor de gewichtsmetingen de methode en de toestellen kiezen die zij daarvoor geschikt achten. De overeenkomstsluitende partijen die dergelijke certificaten aanvaarden, garanderen via bijvoorbeeld een erkenning of een evaluatie dat de weegstations voldoende deskundig zijn en dat zij geschikte weegtoestellen gebruiken, gekwalificeerd personeel in dienst hebben en behoorlijk gedocumenteerde kwaliteitscontrolesystemen en testprocedures toepassen;  
+
+b. de weegstations en hun toestellen worden goed onderhouden. De toestellen worden regelmatig gecontroleerd en verzegeld door de voor maten en gewichten bevoegde autoriteiten. De weegtoestellen, het maximaal toegestane foutenpercentage en het gebruik ervan moeten in overeenstemming zijn met de aanbevelingen van de Internationale Organisatie voor wettelijke metrologie (OIML);  
+
+c. de weegstations zijn uitgerust met weegtoestellen die behoren tot: 
+
+– nauwkeurigheidsklasse III of hoger van OIML-aanbeveling R 76 „Niet-automatische weeginstrumenten”, of  
+
+– nauwkeurigheidsklasse 2 of hoger van OIML-aanbeveling R 134 „Automatische instrumenten voor het wegen van wegvoertigen in beweging”; als de belasting per as wordt gewogen mag het foutenpercentage hoger zijn.      
+
+5. In uitzonderlijke gevallen en met name wanneer onregelmatigheden worden vermoed, of indien de vervoerondernemer of de chauffeur van het betrokken wegvoertuig daarom verzoekt, mogen de bevoegde autoriteiten het voertuig opnieuw wegen. Als een controle-instantie van een overeenkomstsluitende partij die dergelijke certificaten aanvaardt, constateert dat een weegstation herhaaldelijk verkeerde wegingen verricht, nemen de bevoegde autoriteiten van het land waar het weegstation zich bevindt, passende maatregelen om ervoor te zorgen dat dergelijke fouten zich niet meer voordoen.  
+
+6. Het certificaatmodel mag worden gesteld in een van de talen van de overeenkomstsluitende partijen die dergelijke certificaten aanvaarden, op voorwaarde dat de layout van het certificaat en de presentatie van de rubrieken niet worden gewijzigd.  
+
+7. Elke overeenkomstsluitende partij die dergelijke certificaten aanvaardt, publiceert een lijst van alle weegstations in haar land die volgens internationale beginselen zijn erkend, alsmede alle wijzigingen in die lijst. Deze lijst en de eventuele wijzigingen worden aan de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) voorgelegd om te worden verspreid bij alle overeenkomstsluitende partijen en bij de internationale organisaties als bedoeld in artikel 2 van bijlage 7 bij deze overeenkomst.  
+
+8. (Overgangsbepaling) Aangezien tot dusver slechts heel weinig weegstations zijn uitgerust met weegtoestellen die het gewicht per as of assengroep kunnen wegen, gaan de overeenkomstsluitende partijen die dergelijke certificaten aanvaarden ermee akkoord dat tijdens een overgangsperiode die 12 maanden na de inwerkingtreding van deze bijlage verstrijkt, het brutogewicht van het voertuig als ingevuld in rubriek 7.3 van het internationaal weegcertificaat volstaat en door de bevoegde nationale autoriteiten wordt aanvaard.     ![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+### Bijlage  9  
+
+####Vereenvoudiging van de grensprocedures voor internationale spoorvracht
+
+### Artikel  1  
+
+####Beginselen
+
+1.  Deze bijlage, die de bepalingen van de Overeenkomst aanvult, is bedoeld om de maatregelen te omschrijven die dienen te worden genomen ter vereenvoudiging en bespoediging van de grensoverschrijding voor internationale spoorvracht.   
+2.  De overeenkomstsluitende partijen verplichten zich tot samenwerking teneinde de formaliteiten en vereisten ter zake van documenten en procedures op alle gebieden die verband houden met het goederenvervoer per spoor zo veel mogelijk te standaardiseren.   
+
+### Artikel  2  
+
+####Begripsomschrijving
+
+Onder „grens(overgangs)station” wordt verstaan een spoorwegstation waar operationele of administratieve procedures worden uitgevoerd om een grensoverschrijding van spoorvracht mogelijk te maken. Dit spoorwegstation kan zich op of nabij de grens bevinden.  
+
+### Artikel  3  
+
+####Grensoverschrijding door functionarissen en andere personen betrokken bij het internationale spoorvervoer
+
+1.  De overeenkomstsluitende partijen streven ernaar de procedures voor het verstrekken van visa aan de bemanningen van locomotieven en koeleenheden, personen die vrachten begeleiden en personeel in grens(overgangs)stations die betrokken zijn bij internationaal spoorvervoer in overeenstemming met de beste nationale praktijken voor alle aanvragers van visa te vereenvoudigen.   
+2.  De procedure voor grensoverschrijding door de personen genoemd in het eerste lid, met inbegrip van de officiële documenten ter bevestiging van hun status, wordt vastgesteld op grond van bilaterale overeenkomsten.   
+3.  Indien een gezamenlijke controle wordt uitgevoerd maken de functionarissen van de grenscontrole, douane en andere instanties die controles uitvoeren bij grens(overgangs)stations bij de uitoefening van hun officiële taken voor het overschrijden van de staatsgrens gebruik van de documenten die de overeenkomstsluitende partijen verlangen van hun onderdanen.   
+
+### Artikel  4  
+
+####Vereisten voor grens(overgangs)stations
+
+Teneinde de vereiste formaliteiten bij grens(overgangs)stations doeltreffender te maken en te bespoedigen nemen de overeenkomstsluitende partijen de volgende minimumvereisten in acht voor grens(overgangs)stations die toegankelijk zijn voor internationaal vrachtvervoer per spoor: 
+
+1. grens(overgangs)stations bestaan uit gebouwen (lokalen), installaties, faciliteiten en technische uitrusting die de uitvoering van dagelijkse en voortdurende controles mogelijk maken, indien dit gerechtvaardigd wordt door en past bij het volume van het vrachtvervoer;  
+
+2. grens(overgangs)stations waar fytosanitaire, veterinaire en andere controles worden uitgevoerd zijn voorzien van technische uitrusting;  
+
+3. de draag- en verkeerscapaciteit van grens(overgangs)stations en aangrenzende sporen moeten toereikend zijn voor het verkeersvolume;  
+
+4. er moeten inspectiezones beschikbaar zijn alsmede opslagplaatsen voor de tijdelijke opslag van goederen onder douanetoezicht of andere vormen van controle;  
+
+5. er moeten uitrusting, faciliteiten, informatietechnologie en communicatiesystemen beschikbaar zijn om de voorafgaande uitwisseling van informatie mogelijk te maken, onder meer over goederen die grens(overgangs)stations naderen, zoals vervat in de spoorvrachtbrief en douaneverklaring;  
+
+6. bij de grens(overgangs)stations moet voldoende gekwalificeerd personeel van de spoorwegen, douane, grenscontrole en andere instanties beschikbaar zijn ten behoeve van de behandeling van de desbetreffende vrachtvolumes;  
+
+7. bij de grens(overgangs)stations moeten technische uitrusting, faciliteiten, informatietechnologie en communicatiesystemen beschikbaar zijn waarmee voorafgaand aan de aankomst van rollend materieel aan de grens gegevens kunnen worden ontvangen en gebruikt betreffende de technische goedkeuring en technische inspecties van het rollend materieel binnen het kader van hun bevoegdheden verricht door de autoriteiten en spoorwegen, tenzij de overeenkomstsluitende partijen alternatieve regelingen treffen voor de uitvoering van deze taken.    
+
+### Artikel  5  
+
+####Samenwerking tussen buurlanden bij grens(overgangs)stations
+
+In overeenstemming met de bepalingen van artikel 7 van de Overeenkomst, stemmen de overeenkomstsluitende partijen maatregelen met elkaar af ter zake van de controle van rollend materieel, containers, platte draagwagens voor opleggers en goederen alsmede de verwerking van transport- en begeleidende documenten en spannen zij zich in alle vormen van gezamenlijke controles te regelen op basis van bilaterale overeenkomsten.  
+
+### Artikel  6  
+
+####Controles
+
+De overeenkomstsluitende partijen: 
+
+1. stellen een mechanisme vast voor de wederzijdse erkenning van alle vormen van controle van rollend materieel, containers, platte draagwagens voor opleggers en goederen, mits de doelen ervan met elkaar overeenstemmen;  
+
+2. verrichten douanecontroles uitgaande van het beginsel van selectie op basis van risico-evaluatie en -beheer. Indien de nodige informatie over de goederen is verstrekt en indien de goederen zich bevinden in of op een naar behoren gesloten en verzegelde treinwagon, container, platte draagwagen voor oplegger of wagon, vindt in de regel geen fysieke inspectie plaats;  
+
+3. verrichten vereenvoudigde controles uit bij grens(overgangs)stations en laten indien mogelijk bepaalde vormen van controle verrichten bij de stations van vertrek en aankomst;  
+
+4. verrichten onverminderd artikel 10 van de Overeenkomst, artikel 4 van bijlage 2, artikel 5 van bijlage 3 en artikel 5 van bijlage 4 inspecties van goederen in transit uitsluitend in gevallen waarin dat vanwege de feitelijke omstandigheden of risico’s nodig is.    
+
+### Artikel  7  
+
+####Termijnen
+
+1.  De overeenkomstsluitende partijen zien erop toe dat de termijnen omschreven in bilaterale overeenkomsten voor technische operaties ter zake van de ontvangst en overdracht van treinen bij grens(overgangs)stations, met inbegrip van alle soorten controles, worden nageleefd en trachten deze termijnen te bekorten door verbetering van de gebruikte technologie en uitrusting. De overeenkomstsluitende partijen verplichten zich de termijnen de komende jaren maximaal in te korten.   
+2.  De overeenkomstsluitende partijen registreren vertragingen van treinen of wagons bij grens(overgangs)stations en zenden de informatie aan de betrokken partijen die vervolgens analyses verrichten en maatregelen voorstellen ter beperking van de vertragingen.   
+
+### Artikel  8  
+
+####Documenten
+
+1.  De overeenkomstsluitende partijen zien erop toe dat de transport- en begeleidende documenten naar behoren worden geformuleerd in overeenstemming met de wetgeving van de importerende en transitlanden.   
+2.  De overeenkomstsluitende partijen spannen zich in om papieren documenten te beperken en de documentatieprocedures te vereenvoudigen door gebruik te maken van elektronische systemen voor de uitwisseling van informatie die overeenkomt met de informatie vervat in de begeleidende vrachtbrieven voor spoorvervoer en douaneaangiften bij de goederen die zijn opgesteld in overeenstemming met de wetgeving van de overeenkomstsluitende partijen.   
+3.  De overeenkomstsluitende partijen spannen zich in om de douaneautoriteiten vooraf te voorzien van informatie over goederen die aankomen bij de grens(overgangs)stations zoals vervat in de vrachtbrief voor spoorvervoer en douaneaangifte. Het model, de procedure en de termijnen voor het verstrekken van de informatie worden vastgesteld door de overeenkomstsluitende partijen.   
+
+### Artikel  9  
+
+####Gebruik van de CIM/SMGS-vrachtbrief voor spoorvervoer
+
+De overeenkomstsluitende partijen kunnen in plaats van de thans door internationale verdragen vereiste andere transportdocumenten gebruikmaken van de CIM/SMGS-vrachtbrief voor spoorvervoer die tevens een douanedocument kan zijn.  
 
