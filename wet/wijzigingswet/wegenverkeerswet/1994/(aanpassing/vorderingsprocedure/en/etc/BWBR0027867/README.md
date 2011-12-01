@@ -27,7 +27,7 @@ Wijzigt de Wet rijonderricht motorrijtuigen 1993.
 
 ### Artikel  V  
 
-Mededelingen die zijn gebaseerd op een of meer overtredingen van het bij of krachtens de [Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../../../wet/wet/mulder/BWBR0004581/README.md) strafbaar gestelde die zijn geconstateerd vóór de datum van inwerkingtreding van artikel I van deze wet, worden behandeld overeenkomstig de bepalingen zoals die golden voor de inwerkingtreding van artikel I.  
+Mededelingen die zijn gebaseerd op een of meer overtredingen van het bij of krachtens de Wegenverkeerswet 1994 of de Wet administratiefrechtelijke handhaving verkeersvoorschriften strafbaar gestelde die zijn geconstateerd vóór de datum van inwerkingtreding van artikel I van deze wet, worden behandeld overeenkomstig de bepalingen zoals die golden voor de inwerkingtreding van artikel I.  
 
 ### Artikel  VI  
 

@@ -228,7 +228,11 @@ y. de verklaring voor de volgens [artikel 10.02, tweede lid, onderdeel a, van he
 
 z. de verklaring betreffende de inbouw en het functioneren van het Inland AIS-apparaat;  
 
-aa. de verklaringen die volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn voor het veiligheidspersoneel aan boord van passagiersschepen zijn voorgeschreven.     
+aa. de verklaringen die volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn voor het veiligheidspersoneel aan boord van passagiersschepen zijn voorgeschreven;  
+
+ab. de bunkerverklaring als bedoeld in Bijlage 2, Deel A, artikel 3.04, eerste lid, van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (CDNI), met inbegrip van de kwitanties van de vergoedingstransacties van het SPE-CDNI over een periode van ten minste twaalf maanden. Indien de laatste afname van gasolie meer dan twaalf maanden geleden heeft plaatsgevonden, dient ten minste de laatste bunkerverklaring aan boord aanwezig te zijn;  
+
+ac. de bij artikel 15.07, tweede lid, voorgeschreven losverklaring.     
 2.  De aanwezigheid van de in het eerste lid, onderdelen a, e en f, bedoelde bescheiden is evenwel niet vereist aan boord van duwbakken waarop een metalen plaat is aangebracht met een opschrift overeenkomstig het volgende model: UNIEK EUROPEES SCHEEPSIDENTIFICATIENUMMER:.......... – R CERTIFICAAT VAN ONDERZOEK 
 
 – NUMMER:.................  
@@ -241,7 +245,7 @@ aa. de verklaringen die volgens het Reglement betreffende het scheepvaartpersone
 
 ### Artikel  1.11  
 
-####Reglement aan boord
+####Rijnvaartpolitiereglement 1995 aan boord
 
 Aan boord van een schip, met uitzondering van een klein schip en een duwbak, moet een bijgewerkt exemplaar van dit reglement, met inbegrip van de op grond van artikel 1.22, derde lid, uitgevaardigde voorschriften, aanwezig zijn. Een exemplaar dat via een elektronisch middel op ieder moment geraadpleegd kan worden, is eveneens toegestaan.  
 
@@ -571,8 +575,8 @@ c.
 i. drie heklichten op het achterschip van de duwboot, in een horizontale lijn loodrecht op de lengte-as, telkens ongeveer 1,25 m uit elkaar en op een zodanige hoogte dat zij niet door één van de andere schepen van het duwstel aan het gezicht kunnen worden onttrokken;  
 
 ii. een heklicht op het achterschip van elk ander schip dat van achteren over de volle breedte zichtbaar is. Indien echter behalve de duwboot meer dan twee schepen van achteren zichtbaar zijn, moet dit heklicht alleen door de schepen aan de buitenzijden worden gevoerd.         
-2.  Een duwstel dat door twee duwboten naast elkaar wordt voortbewogen moet de heklichten bedoeld in het eerste lid, onder *c.* i, voeren op de duwboot aan stuurboord. De andere duwboot moet het heklicht bedoeld in het eerste lid, onder *c.* ii, voeren.   
-3.  Het eerste lid is eveneens van toepassing op duwstellen die des nachts worden gesleept. De heklichten bedoeld in het eerste lid, onder *c.* i, dienen echter geel in plaats van wit te zijn.   
+2.  Een duwstel dat door twee duwboten naast elkaar wordt voortbewogen moet des nachts de heklichten bedoeld in het eerste lid, onder c.i, voeren op de duwboot aan stuurboord. De andere duwboot moet des nachts het heklicht bedoeld in het eerste lid, onder c.ii, voeren.   
+3.  Het eerste lid is eveneens van toepassing op duwstellen die des nachts worden gesleept. De heklichten bedoeld in het eerste lid, onder c.i, dienen echter geel in plaats van wit te zijn.   
 4.  Indien een duwstel des daags wordt gesleept, moet de duwboot voeren: een gele bol, op een geschikte plaats en op een zodanige hoogte dat hij van alle zijden zichtbaar is.   
 
 ### Artikel  3.11  
@@ -747,28 +751,28 @@ Een vissersschip, met inbegrip van een klein schip, dat een net of een uitlegger
 
 a. aan de zijde waar de doorvaart vrij is: 
 
--. des nachts: twee groene heldere of gewone lichten;  
+- des nachts: twee groene heldere of gewone lichten;  
 
--. des daags: het aanwijzingsbord E.1 (bijlage 7) of twee groene ruiten, in een verticale lijn met een onderlinge afstand van ongeveer 1 m; en zo nodig:     
+- des daags: het aanwijzingsbord E.1 (bijlage 7) of twee groene ruiten, in een verticale lijn met een onderlinge afstand van ongeveer 1 m; en zo nodig:     
 
 b. aan de zijde waar de doorvaart niet vrij is: 
 
--. des nachts: een rood licht, op dezelfde hoogte als het bovenste van de onder *a* voorgeschreven groene lichten en van dezelfde lichtsterkte als die lichten;  
+- des nachts: een rood helder of gewoon licht, op dezelfde hoogte als het bovenste van de onder a voorgeschreven groene lichten en van dezelfde lichtsterkte als die lichten;  
 
--. des daags: het verbodsbord A.1 ( bijlage 7), op dezelfde hoogte als het onder *a* voorgeschreven bord, of een rode bol, op dezelfde hoogte als de bovenste van de onder *a* voorgeschreven ruiten; of, in het geval dat deze schepen tevens tegen hinderlijke waterbeweging beschermd moeten worden:     
+- des daags: het verbodsbord A.1 ( bijlage 7), op dezelfde hoogte als het onder a voorgeschreven bord, of een rode bol, op dezelfde hoogte als de bovenste van de onder a voorgeschreven ruiten; of, in het geval dat deze schepen tevens tegen hinderlijke waterbeweging beschermd moeten worden:     
 
 c. aan de zijde waar de doorvaart vrij is: 
 
--. des nachts: een rood helder of gewoon licht en een wit helder of gewoon licht, in een verticale lijn met een onderlinge afstand van ongeveer 1 m, het rode licht boven;  
+- des nachts: een rood helder of gewoon licht en een wit helder of gewoon licht, in een verticale lijn met een onderlinge afstand van ongeveer 1 m, het rode licht boven;  
 
--. des daags: een vlag waarvan de bovenste helft rood en de onderste helft wit is, dan wel twee vlaggen boven elkaar, de bovenste rood en de onderste wit; en zo nodig:     
+- des daags: een vlag waarvan de bovenste helft rood en de onderste helft wit is, dan wel twee vlaggen boven elkaar, de bovenste rood en de onderste wit; en zo nodig:     
 
 d. aan de zijde waar de doorvaart niet vrij is: 
 
--. des nachts: een rood licht, op dezelfde hoogte als het onder *c* voorgeschreven rode licht en van dezelfde lichtsterkte als dit licht;  
+- des nachts: een rood licht, op dezelfde hoogte als het onder c voorgeschreven rode licht en van dezelfde lichtsterkte als dit licht;  
 
--. des daags: een rode vlag, op dezelfde hoogte als de aan de andere zijde gevoerde roodwitte vlag of de rode vlag.      Deze tekens moeten zijn aangebracht op een zodanige hoogte, dat zij van alle zijden zichtbaar zijn. De vlaggen mogen worden vervangen door borden van dezelfde kleur.   
-2.  Een vastgevaren of gezonken schip moet des nachts de bij het eerste lid, onder *c* en *d*, voorgeschreven tekens voeren. Indien een gezonken schip zodanig ligt dat daarop de tekens niet kunnen worden aangebracht, moeten deze op roeiboten, op boeien of op een andere doelmatige wijze zijn geplaatst.   
+- des daags: een rode vlag, op dezelfde hoogte als de aan de andere zijde gevoerde roodwitte vlag of de rode vlag.      Deze tekens moeten zijn aangebracht op een zodanige hoogte, dat zij van alle zijden zichtbaar zijn. De vlaggen mogen worden vervangen door borden van dezelfde kleur.   
+2.  Een vastgevaren of gezonken schip moet des nachts de bij het eerste lid, onder c en d, voorgeschreven tekens voeren. Indien een gezonken schip zodanig ligt dat daarop de tekens niet kunnen worden aangebracht, moeten deze op roeiboten, op boeien of op een andere doelmatige wijze zijn geplaatst.   
 3.  De bevoegde autoriteit kan ontheffing verlenen van de verplichting tot het voeren van de bij het eerste lid, onder *a* en *b*, voorgeschreven tekens.   
 
 ### Artikel  3.26  
@@ -830,8 +834,9 @@ b. schepen, drijvende voorwerpen en drijvende inrichtingen die zijn voorzien van
 
 ####Teken van het verbod van toegang aan boord (Bijlage 3: schets 60 )
 
-1.  Indien op grond van wettelijke voorschriften de toegang aan boord voor onbevoegden is verboden, moet dit verbod worden aangeduid door: één of meer ronde witte borden met een rode rand en een rode diagonale balk en met, in zwart, de afbeelding van een voetganger. Deze borden moeten naar behoefte aan boord of bij de loopplank worden aangebracht. In afwijking van artikel 3.03, derde lid, moet de doorsnede van deze borden ongeveer 0,60 m bedragen.   
-2.  Deze borden moeten zo nodig worden verlicht om des nachts duidelijk zichtbaar te zijn.   
+1.  Indien op grond van wettelijke voorschriften de toegang aan boord voor onbevoegden is verboden, moet dit verbod worden aangeduid door: één of meer ronde witte symbolen met een rode rand en een rode diagonale balk en met, in zwart, de afbeelding van een afwerende hand. Deze symbolen moeten naar behoefte aan boord of bij de loopplank worden aangebracht. De doorsnede van deze symbolen moet ongeveer 0,60 m bedragen.   
+2.  Deze symbolen moeten zo nodig worden verlicht om des nachts duidelijk zichtbaar te zijn.   
+3.  De symbolen die overeenkomstig de op 30 november 2011 geldende versie van het Rijnvaartpolitiereglement waren voorgeschreven, mogen tot en met 30 november 2015 worden gebruikt.   
 
 ### Artikel  3.32  
 
@@ -839,10 +844,11 @@ b. schepen, drijvende voorwerpen en drijvende inrichtingen die zijn voorzien van
 
 1.  Indien het op grond van wettelijke voorschriften aan boord is verboden: 
 
-a. te roken;  
+a) te roken;  
 
-b. onbeschermd licht of vuur te gebruiken,   moet dit verbod worden aangeduid door één of meer ronde witte borden met een rode rand en een rode diagonale balk en met de afbeelding van een rokende sigaret. Deze borden moeten naar behoefte aan boord of bij de loopplank worden aangebracht. In afwijking van artikel 3.03, derde lid, moet de doorsnede van deze borden ongeveer 0,60 m bedragen.   
-2.  Deze borden moeten zo nodig worden verlicht om des nachts duidelijk zichtbaar te zijn.   
+b) onbeschermd licht of vuur te gebruiken, moet dit verbod worden aangeduid door één of meer ronde witte symbolen met een rode rand en een rode diagonale balk en met de afbeelding van een brandende lucifer.   Deze symbolen moeten naar behoefte aan boord of bij de loopplank worden aangebracht. De doorsnede van deze symbolen moet ongeveer 0,60 m bedragen.   
+2.  Deze symbolen moeten zo nodig worden verlicht om des nachts duidelijk zichtbaar te zijn.   
+3.  De symbolen die overeenkomstig de op 30 november 2011 geldende tekst van het Rijnvaartpolitiereglement 1995 waren voorgeschreven, mogen tot en met 30 november 2015 worden gebruikt.   
 
 ### Artikel  3.33  
 
@@ -1126,8 +1132,8 @@ In een vak van de vaarweg aangeduid door één der tekens B.1, B.2 *a*, B.2 *b*,
 a. "één lange stoot gevolgd door één korte stoot", zo het over stuurboord wil keren, of  
 
 b. "één lange stoot gevolgd door twee korte stoten", zo het over bakboord wil keren.     
-3.  Het andere schip moet dan, voorzover nodig en mogelijk, zijn koers of zijn snelheid wijzigen om het keren zonder gevaar te kunnen doen geschieden. In het bijzonder ten opzichte van een schip dat wil opdraaien moet het ertoe medewerken, dat dit tijdig kan geschieden.   
-4.  In een vak van de vaarweg aangeduid door het teken A.8 (bijlage 7) is keren verboden. Is daarentegen een vak aangeduid door het teken E.8 (bijlage 7), dan wordt daarmede aan de schipper aanbevolen aldaar te keren, waarbij dit artikel in acht genomen moet worden.   
+3.  Het andere schip moet dan, voorzover nodig en mogelijk, zijn koers of zijn snelheid wijzigen om het keren zonder gevaar te kunnen doen geschieden.   
+4.  In een vak van de vaarweg aangeduid door het teken A.8 (bijlage 7) is keren verboden. Is daarentegen een vak aangeduid door het teken E.8 ( bijlage 7), dan wordt daarmede aan de schipper aanbevolen aldaar te keren, waarbij dit artikel in acht genomen moet worden.   
 
 ### Artikel  6.14  
 
@@ -1459,7 +1465,7 @@ i. op plaatsen om te keren, aangeduid door het teken E.8 (bijlage 7);
 
 k. evenwijdig aan een schip dat het bord bedoeld in artikel 3.33 voert, binnen de afstand die op de witte driehoek van dit bord in meters is aangegeven;  
 
-l. in een vak aangeduid door het teken A.5.1 (bijlage 7), binnen de afstand te rekenen vanaf het teken, die daarop in meters is aangegeven.     
+l. in een door het teken A.5.1 (bijlage 7) aangeduid vak, waarvan de breedte op het teken in meters is aangegeven. De breedte is vanaf het teken te rekenen.     
 2.  Op een gedeelte van de vaarweg waar het ligplaats nemen is verboden ingevolge het eerste lid, onder *a* tot en met *d*, mogen schepen, drijvende voorwerpen en drijvende inrichtingen evenwel ligplaats nemen op de bijzondere ligplaatsen, aangeduid door één der tekens E.5 tot en met E.7 (bijlage 7), met inachtneming van de artikelen 7.03 tot en met 7.06.   
 
 ### Artikel  7.03  
@@ -1708,7 +1714,7 @@ b. een sleep die om te kunnen opdraaien de linkeroever wil houden,
 
 c. een duwstel, indien het zich naar een laad- of los- of aanlegplaats of een ligplaats aan de linkeroever wil begeven, van een opvarend schip verlangen, dat het voorbijvaren stuurboord op stuurboord plaatsvindt. Zij mogen dit verlangen evenwel slechts kenbaar maken, indien zij zich er van hebben vergewist, dat daaraan zonder gevaar kan worden voldaan.      
 5.  Een afvarend schip, als bedoeld in het vierde lid, dat het voorbijvaren stuurboord op stuurboord wil doen geschieden, moet tijdig "twee korte stoten" geven en bovendien de in artikel 6.04, derde lid, bedoelde tekens tonen. Een opvarend schip moet aan het verlangen van het afvarende schip voldoen en dit bevestigen door het geven van "twee korte stoten" en het tonen van de in artikel 6.04, derde lid, bedoelde tekens. Zodra te vrezen is, dat de bedoeling van het afvarende schip door het opvarende schip niet is begrepen, moet het afvarende schip de in de eerste alinea van dit lid bedoelde geluidsseinen herhalen.   
-6.  is niet van toepassing.   
+6.  Artikel 6.05 is niet van toepassing.   
 
 ### Artikel  9.05  
 
@@ -1833,7 +1839,7 @@ a. een schip, met uitzondering van een klein schip niet zijnde een motorschip, m
 
 b. daar waar de plaatselijke omstandigheden het noodzakelijk maken dichter bij de oever te varen dan onder *a* is aangegeven moeten de in dat onderdeel bedoelde schepen desalniettemin zo ver mogelijk uit de oevers blijven en hun snelheid verminderen;  
 
-c. artikel 9.04 is van toepassing. Tussen Lorch (km 540,20) en St. Goar (km 556,00) moet een opvarend schip in het middelste derde gedeelte van de rivier zó dicht de linkeroever aanhouden, dat het ontmoeten met een afvarend schip zonder gevaar bakboord op bakboord kan geschieden;  
+c. artikel 9.04 blijft van toepassing. Tussen Lorch (km 540,20) en St. Goar (km 556,00) moet een opvarend schip in het middelste derde gedeelte van de rivier zó dicht de linkeroever aanhouden, dat het ontmoeten met een afvarend schip zonder gevaar bakboord op bakboord kan geschieden;  
 
 d. onverminderd artikel 6.20 mag een schip ten opzichte van de oever niet sneller varen dan 20 km per uur;  
 
@@ -2415,99 +2421,46 @@ j. met samenstellen langer dan 135 m aan de aanlegsteigers af te meren.
 
 ### Artikel  15.01  
 
-####Begripsbepalingen
+####Begripsbepalingen en toepassing
 
-In dit hoofdstuk wordt verstaan onder:  
-1.  Algemeen 
-
-a. *afval/afvalwater:* deze worden onderscheiden in scheepsbedrijfsafval en afval van de lading;  
-
-b. *scheepsbedrijfsafval:* afval en afvalwater, die bij het gebruik en het onderhoud van het schip ontstaan;  
-
-c. *afval van de lading:* afval en afvalwater, die in verband met de lading aan boord van het schip ontstaan;  
-
-d. *toegelaten inrichting voor het ontvangen van afval:* een schip als bedoeld in artikel 1.01, onder a, dan wel een inrichting aan land, voorzien van een door de bevoegde autoriteit verleende vergunning voor de ontvangst van scheepsbedrijfsafval en van afval van de lading;  
-
-e. *eenheidstransport:* transport, waarbij tijdens opeenvolgende reizen in het laadruim of de ladingtank van het schip dezelfde lading of lading, waarvan het laadruim of de ladingtank niet behoeft te worden schoongemaakt, wordt vervoerd.      
-2.  Scheepsbedrijfsafval 
-
-a. *afgewerkt vet:* gebruikt vet, dat na het vrijkomen uit de naven, lagers en smeerinrichtingen ontstaat, en overigens niet meer bruikbaar vet;  
-
-b. *afgewerkte olie:* gebruikte en overigens niet meer bruikbare motor-, transmissie- en hydroliekolie;  
-
-c. *overig olie- of vethoudend afval:* oude filters (gebruikte olie- en luchtfilters), oude lappen (verontreinigde poetslappen en poetskatoen), vaten (lege, verontreinigde blikken), verpakkingsmateriaal;  
-
-d. *bilgewater:* oliehoudend water uit de bilge van de machinekamer, de voor- en achterpiek, de kofferdammen en de ruimten tussen zijwand en beunwand;  
-
-e. *huishoudelijk afvalwater:* afvalwater uit de keuken, eet- en wasruimten (douche, wastafel) en bijkeuken evenals uit de toiletten;  
-
-f. *huisvuil:* huishoudelijk organisch en anorganisch afval (bijv. etensresten, papier, glas en soortgelijk keukenafval), in ieder geval zonder resten van het overig gedefiniëerde scheepsbedrijfsafval;  
-
-g. *zuiveringsslib:* restanten, die bij gebruik van een waterzuiveringsinstallatie aan boord van het schip ontstaan;  
-
-h. *van olie gescheiden water:* het water dat uit bilgewater wordt afgescheiden door voorzieningen aan boord van een toegelaten bilgeboot;  
-
-i. *slops:* een pompbaar of niet pompbaar mengsel bestaande uit lading en waswaterrestanten, roest en slib;  
-
-j. *overig klein chemisch afval:* scheepsbedrijfsafval, met uitzondering van het onder *a* tot en met *g* en onder *i* bedoelde afval.     
-3.  Afval van de lading 
-
-a. *restlading:* vloeibare lading, die na het lossen, zonder een efficiënt-stripping systeem als bedoeld in het ADN, in de ladingtank en in het leidingsysteem achterblijft, evenals droge lading die na het lossen, zonder gebruik van een bezem, veegmachine of een vacuümreiniger, in het laadruim achterblijft. Verpakking en stuwmateriaal behoren tot de lading;  
-
-b. *ladingrestanten:* vloeibare lading, die niet met behulp van een efficiënt-stripping systeem als bedoeld in het ADN uit de ladingtank of het leidingsysteem kan worden verwijderd, evenals droge lading die niet met behulp van een veegmachine of een bezem uit het laadruim kan worden verwijderd;  
-
-c. *overslagresten:* droge en eventueel vloeibare lading, die bij overslag buiten het laadruim op het schip achterblijft (bijv. in het gangboord);  
-
-d. *ongereinigd laadruim/ladingtank:* een laadruim of ladingtank waarin zich nog restlading bevindt;  
-
-e. *bezemschoon laadruim:* een laadruim, waaruit de restlading is verwijderd (bijv. door gebruikmaking van een veegmachine of een bezem) en waarin zich nog ladingrestanten bevinden;  
-
-f. *gestripte ladingtank:* een ladingtank, waaruit de restlading is verwijderd (bijv door een efficiënt-stripping systeem als bedoeld in het ADN) en waarin nog slechts ladingrestanten aanwezig zijn;  
-
-g. *vacuümschoon laadruim:* een laadruim, waaruit de restlading door middel van vacuümtechniek is verwijderd en dat beduidend minder ladingrestanten bevat dan een bezemschoon laadruim;  
-
-h. *schoonmaken:* het verwijderen van restlading uit de laadruimen en ladingtanks met behulp van de daarvoor geschikte middelen (bijv. een bezem, een veegmachine, vacuümtechniek, efficiënt stripping) waardoor de schoonmaakstandaard, "bezemschoon laadruim" of "vacuümschoon laadruim" of "gestripte ladingtank" wordt verkregen, evenals het verwijderen van overslagrestanten van gedeelten buiten het laadruim;  
-
-i. *wassen:* het verwijderen van ladingrestanten uit een bezemschoon of vacuümschoon laadruim dan wel uit een gestripte ladingtank door middel van gebruik van stoom of water;  
-
-j. *gewassen laadruim/ladingtank:* een laadruim of ladingtank, die na reiniging met water geschikt is voor elke soort lading;  
-
-k. *waswater:* water, dat bij het wassen van een bezemschoon of vacuümschoon laadruim dan wel van een gestripte ladingtank ontstaat. Hieronder wordt eveneens begrepen het ballast- en regenwater dat uit het laadruim of de ladingtank komt.     
+1.  De begripsbepalingen van artikel 1 van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (CDNI) en van de artikelen 5.01 en 8.01 van bijlage 2 zijn van toepassing op dit hoofdstuk.    
+2.  De toepassingsmodaliteiten van de bepalingen van dit hoofdstuk zijn in het CDNI geregeld.   
 
 ### Artikel  15.02  
 
 ####Algemene plicht tot waakzaamheid
 
-De schipper, de overige bemanning en andere personen aan boord moeten de door de omstandigheden vereiste waakzaamheid betonen om verontreiniging van de vaarweg te vermijden en de hoeveelheid afvalstoffen en afvalwater die aan boord ontstaan zo veel mogelijk te beperken.  
+De schipper, de overige bemanning en andere personen aan boord moeten de door de omstandigheden vereiste waakzaamheid betonen om verontreiniging van de vaarweg te vermijden, de hoeveelheid afvalstoffen en afvalwater die aan boord ontstaan zo veel mogelijk te beperken en vermenging van verschillende afvalsoorten zo veel mogelijk te voorkomen.  
 
 ### Artikel  15.03  
 
 ####Verbod te lozen of te water te doen geraken
 
-1.  Het is verboden vanaf schepen afgewerkte olie, bilgewater, afgewerkt vet en overige oliehoudende afvalstoffen dan wel slops, huisvuil en overig klein chemisch afval te lozen of te water te doen geraken.   
-2.  Indien afval of afvalwater als bedoeld in het eerste lid per ongeluk vrijkomt of dreigt vrij te komen, moet de schipper onverwijld de dichtstbijzijnde bevoegde autoriteit waarschuwen. Daarbij moet hij de plaats van het voorval alsmede de hoeveelheid en de aard van de stof zo nauwkeurig mogelijk aangeven.   
+1.  Het is verboden vanaf schepen afgewerkte olie, bilgewater, afgewerkt vet en overige oliehoudende afvalstoffen dan wel slops, huisvuil, zuiveringsslib, overig klein chemisch afval, delen van de lading alsmede afval van de lading te lozen of te water te doen geraken.   
+2.  Uitzonderingen op dit verbod zijn slechts toegelaten overeenkomstig het CDNI.   
+3.  Indien afval of afvalwater als bedoeld in het eerste lid per ongeluk vrijkomt of dreigt vrij te komen, moet de schipper, onverminderd de bepalingen van het CDNI, onverwijld de dichtstbijzijnde bevoegde autoriteit waarschuwen. Daarbij moet hij de plaats van het voorval alsmede de hoeveelheid en de aard van de stof zo nauwkeurig mogelijk aangeven.   
 
 ### Artikel  15.04  
 
 ####Inzamelen en behandelen aan boord
 
-1.  De schipper moet er voor zorgen dat de in artikel 15.03, eerste lid, genoemde afvalstoffen aan boord gescheiden in de daarvoor bestemde verzamelreservoirs en het bilgewater in de bilge van de machinekamer wordt verzameld. De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkende stoffen gemakkelijk en tijdig opgemerkt en het lekken gestopt kan worden.   
+1.  De schipper moet er voor zorgen dat de in artikel 15.03, eerste lid, genoemde afvalstoffen, met uitzondering van delen van de lading, alsmede afval van de lading, aan boord gescheiden in de daarvoor bestemde verzamelreservoirs en het bilgewater in de bilge van de machinekamer wordt verzameld. De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkende stoffen gemakkelijk en tijdig opgemerkt en het lekken gestopt kan worden.   
 2.  Het is verboden: 
 
 a. los aan dek staande verzamelreservoirs te gebruiken voor de opslag van afgewerkte olie;  
 
 b. afvalstoffen aan boord te verbranden;  
 
-c. reinigingsmiddelen die olie of vet oplossen dan wel emulgerend zijn in de bilge van de machinekamer te doen geraken. Van dit verbod zijn uitgezonderd reinigingsmiddelen die verwerking van het bilgewater door een toegelaten inrichting voor het ontvangen van afval niet bemoeilijken.      
+c. reinigingsmiddelen die olie of vet oplossen dan wel emulgerend zijn in de bilge van de machinekamer te doen geraken. Van dit verbod zijn uitgezonderd reinigingsmiddelen die verwerking van het bilgewater door een inrichting voor het ontvangen van afval niet bemoeilijken.     
 
 ### Artikel  15.05  
 
 ####Olie-afgifteboekje, afgifte aan inrichtingen voor het ontvangen van afval
 
-1.  Een schip met een machinekamer als bedoeld in het [Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md), met uitzondering van een klein schip, moet een geldig olie-afgifteboekje aan boord hebben, dat door de bevoegde autoriteit volgens het model van bijlage 10 wordt verstrekt. Dit afgifteboekje moet aan boord worden bewaard. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende tenminste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.   
-2.  De in artikel 15.03, eerste lid, genoemde afvalstoffen, met uitzondering van huisvuil, moeten met regelmatige, van de staat en van het gebruik van het schip afhankelijke, tussenpozen tegen ontvangstbewijs worden afgegeven bij de door de bevoegde autoriteit toegelaten inrichting voor het ontvangen van afval. Het bewijs bestaat uit een aantekening door bedoelde inrichting in het olie-afgifteboekje.   
+1.  Elk gemotoriseerd schip, indien het gasolie gebruikt, moet een geldig olie-afgifteboekje aan boord hebben, dat door de bevoegde autoriteit volgens het model van bijlage 10 wordt verstrekt. Dit afgifteboekje moet aan boord worden bewaard. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende tenminste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.   
+2.  Olie- en vethoudend scheepsbedrijfsafval, slops en overig klein chemisch afval moeten met regelmatige, van de staat en van het gebruik van het schip afhankelijke, tussenpozen bij de door de bevoegde autoriteiten toegelaten inrichtingen voor het ontvangen van afval tegen ontvangstbewijs worden afgegeven. Het bewijs bestaat uit een aantekening door de ontvangstinrichting in het olie-afgifteboekje.   
 3.  Een schip dat op grond van voorschriften die gelden buiten de Rijn andere bescheiden over de afgifte van afvalstoffen aan boord heeft, moet in deze andere bescheiden een bewijs van de afgifte van afvalstoffen buiten de Rijn kunnen leveren. Als een dergelijk bewijs geldt ook het oliejournaal op basis van het Verdrag ter voorkoming van verontreiniging van de zee door schepen (MARPOL-verdrag).   
-4.  Huisvuil moet bij de daarvoor bestemde inzamelplaatsen worden afgegeven.   
+4.  Huisvuil en zuiveringsslib moeten bij de daarvoor bestemde inzamelplaatsen worden afgegeven.   
 
 ### Artikel  15.06  
 
@@ -2522,7 +2475,7 @@ b. ingeval van afzonderlijk vullen van de tanks de afsluiters in de verbindingsl
 c. het bunkeren onder toezicht geschiedt; en,  
 
 d. een inrichting overeenkomstig [artikel 8.05, tiende lid, van het Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) wordt gebruikt.     
-2.  De schipper moet er voorts voor zorgen, dat de personen van het bunkerstation en van het schip die voor het bunkeren verantwoordelijk zijn de volgende punten zijn overeengekomen: 
+2.  De schipper moet er voorts voor zorgen, dat de personen van het bunkerstation en van het schip die voor het bunkeren verantwoordelijk zijn, voordat zij met het bunkeren beginnen, de volgende punten zijn overeengekomen: 
 
 a. het verzekerd zijn van het goede functioneren van het systeem, bedoeld in [artikel 8.05, elfde lid van het Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) alsmede het aanwezig zijn van een spreekverbinding tussen het schip en het bunkerstation;  
 
@@ -2535,15 +2488,12 @@ d. de snelheid van het schip, wanneer varend wordt gebunkerd.
 
 ### Artikel  15.07  
 
-(niet overgenomen)   
+####Verzameling, afgifte en inname van afval van de lading
+
+1.  Bij het nalossen alsmede bij de afgifte en inname van afval van de lading, dient de schipper de bepalingen van deel B van de Uitvoeringsregeling van het CDNI na te komen.   
+2.  Ieder schip dat op de Rijn is gelost, moet voor elk lossen een geldige losverklaring aan boord hebben overeenkomstig het in Aanhangsel IV van Bijlage 2 van het CDNI opgenomen model. Behoudens de in het CDNI vermelde uitzonderingen, dient de verklaring ten minste zes maanden na afgifte aan boord te worden bewaard.   
 
 ### Artikel  15.08  
-
-####Bilgeboten
-
-Van het verbod in artikel 15.03, eerste lid, is uitgezonderd het lozen in de vaarweg door toegelaten bilgeboten van van olie gescheiden water, indien de maximaal aanwezige olieresten in het afgescheiden water constant en zonder voorafgaande verdunning voldoen aan de nationale voorschriften.  
-
-### Artikel  15.09  
 
 ####Behandelen van de buitenkant van schepen
 
@@ -2555,25 +2505,36 @@ Het is verboden de scheepshuid te oliën of met middelen, die niet in het water 
 
 (indicatieve lijst)   
 
-| A  | :  | Oostenrijk  | B  | :  | België  |
-|:---|:---|:---|:---|:---|:---|
-| BG  | :  | Bulgarije  |
-| CH  | :  | Zwitserland  |
-| CZ  | :  | Tsjechische Republiek  |
-| D  | :  | Duitsland  |
-| F  | :  | Frankrijk  |
-| HRV  | :  | Croatië  |
-| HU  | :  | Hongarije  |
-| I  | :  | Italië  |
-| L  | :  | Luxemburg  |
-| MD  | :  | Republiek Moldova  |
-| N  | :  | Nederland  |
-| NO  | :  | Noorwegen  |
-| P  | :  | Portugal  |
-| PL  | :  | Polen  |
-| R  | :  | Roemenië  |
-| RU/RUS  | :  | Russische Federatie  |
-| SK  | :  | Slowakije  |
+| --- | --- | --- |
+|:---|:---|:---|
+| A  | :  | OOSTENRIJK  |
+| B  | :  | BELGIË  |
+| BG  | :  | BULGARIJE  |
+| BIH  | :  | BOSNIË-HERZEGOVINA  |
+| BY  | :  | WIT-RUSLAND  |
+| CH  | :  | ZWITSERLAND  |
+| CZ  | :  | TSJECHISCHE REPUBLIEK  |
+| D  | :  | DUITSLAND  |
+| F  | :  | FRANKRIJK  |
+| FI  | :  | FINLAND  |
+| HR  | :  | CROATIË  |
+| HU  | :  | HONGARIJE  |
+| I  | :  | ITALIË  |
+| L  | :  | LUXEMBURG  |
+| LT  | :  | LITOUWEN  |
+| MD  | :  | REPUBLIEK MOLDOVA  |
+| MLT  | :  | MALTA  |
+| N  | :  | NEDERLAND  |
+| NO  | :  | NOORWEGEN  |
+| P  | :  | PORTUGAL  |
+| PL  | :  | POLEN  |
+| R  | :  | ROEMENIË  |
+| RUS  | :  | RUSSISCHE FEDERATIE  |
+| SE  | :  | ZWEDEN  |
+| SI  | :  | SLOVENIË  |
+| SRB  | :  | SERVIË  |
+| SK  | :  | SLOWAKIJE  |
+| UA  | :  | OEKRAÏNE  |
 
 ### Bijlage  2  
 
@@ -2715,7 +2676,7 @@ ruit  Een voor de waarnemer niet zichtbaar licht is met een punt in het midden a
 | --- | 33  | --- |
 | Artikel 3.15 Schepen die meer dan 12 passagiers mogen vervoeren en warvan de maximale lengte van de romp minder dan 20 m is  |
 | --- | 34  | --- |
-| Artikel 3.14 Veerponten  Lid 1: Niet-vrijvarende veerpont.  |
+| Artikel 3.16 Veerponten  Lid 1: Niet-vrijvarende veerpont.  |
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -2810,10 +2771,8 @@ ruit  Een voor de waarnemer niet zichtbaar licht is met een punt in het midden a
 | --- | --- | --- |
 |:---|:---|:---|
 | Lichten  | Schets  | Dagtekens  |
-| --- | 60  | --- |
-| Artikel 3.31 Verboden toegang aan boord.  |
-| --- | 61  | --- |
-| Artikel 3.32 Verboden te roken, onbeschermd licht of vuur te gebruiken  |
+| --- |
+| --- |
 | --- | 62  | --- |
 | Artikel 3.33 Verbod evenwijdig aan een schip ligplaats te nemen.  |
 
@@ -2860,7 +2819,7 @@ Opmerking vooraf: Met uitzondering van klokslagen en van reeksen van klokslagen 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| A.1  | In-, uit- of doorvaren verboden (algemeen teken) ( artikelen 6.08, lid 2, 6.16, lid 4, 6.22, lid 1, 6.22a, 6.25, lid 1, 6.27, lid 1, 6.28a, 9.02, leden 5 en 6, en 10.01, lid 4 onder c)  | --- |
+| A.1  | In-, uit- of doorvaren verboden (algemeen teken) ( artikelen 3.25, lid 1, onder b, 6.08, lid 2, 6.16, lid 4, 6.22, lid 1, 6.22a, 6.25, lid 1, 6.27, lid 1, 6.28a, 9.02, leden 5 en 6, en 10.01, lid 4 onder c)  | --- |
 | óf borden  | --- |
 | óf rode lichten  | --- |
 | óf rode vlaggen  | --- |
@@ -2927,7 +2886,7 @@ Opmerking vooraf: Met uitzondering van klokslagen en van reeksen van klokslagen 
 | --- | --- | --- |
 |:---|:---|:---|
 | D.1  | Aanbevolen doorvaartopening.  a. Doorvaart uit de tegengestelde richting toegestaan.  (artikel 6.25, lid 2 onder a)  | --- |
-| --- | b. Doorvaart uit de tegengestelde of richting verboden. (artikel 6.25, lid 2 onder b)  | --- |
+| --- | b. Voor verkeer uitsluitend in de richting waarin de tekens zichtbaar zijn (Doorvaart uit de tegengestelde richting verboden) (artikel 6.25, lid 2, onder b)  | --- |
 | D.2  | Aanbeveling binnen de aangegeven begrenzing te varen. (artikel 6.24, lid 2 onder b)  | --- |
 | D.3  | Aanbeveling te varen in de richting aangegeven door:  a. de pijl.  | --- |
 | --- | b. het isofase licht.  | --- |
@@ -2938,7 +2897,7 @@ Opmerking vooraf: Met uitzondering van klokslagen en van reeksen van klokslagen 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| E.1  | In-, uit- of doorvaren toegestaan (algemeen teken). (artikelen 6.08, lid 2, en 6.28a)  | --- |
+| E.1  | In-, uit- of doorvaren toegestaan (algemeen teken).(artikelen 3.25, lid 1, onder a, 6.08, lid 2, 6.27, lid 2, en 6.28a)  | --- |
 | --- | --- | --- |
 | E.2  | Hoogspanningslijn.  | --- |
 | E.3  | niet overgenomen  | --- |
@@ -2962,7 +2921,7 @@ Opmerking vooraf: Met uitzondering van klokslagen en van reeksen van klokslagen 
 | E.6  | Toestemming te ankeren aan de zijde van de vaarweg waar het bord is aangebracht.  (artikel 7.03, lid 2)  | --- |
 | E.7  | Toestemming te meren aan de zijde van de vaarweg waar het bord is aangebracht.  (artikel 7.04, lid 2)  | --- |
 | E.7.1  | Toestemming te meren voor het onmiddellijk van of aan boord zetten van een auto.  (artikel 7.04, lid 2)  | --- |
-| E.8  | Plaats om te keren.  (artikelen 6.13 en 7.02, lid 1)  | --- |
+| E.8  | Plaats om te keren. (artikelen 6.13 en 7.02, lid 1, onder i)  | --- |
 | E.9  | a. De gevolgde vaarweg geldt als hoofdvaarweg ten opzichte van de vaarweg die daarin uitmondt.  (artikel 6.16, lid 1)  | --- |
 | --- | b. idem.  | --- |
 | --- | c. idem.  | --- |
@@ -2982,6 +2941,8 @@ Opmerking vooraf: Met uitzondering van klokslagen en van reeksen van klokslagen 
 | E.22  | Waterscooters toegestaan.  | --- |
 | E.23  | Hoogwaterpeilen.  (artikel 10.01)  Peil I  Maatgevende waterstand  | --- |
 | --- | Peil II  Maatgevende waterstand  De aanduidingen zijn in lichte kleur op donkere ondergrond of in donkere kleur op lichte ondergrond aangebracht.  | --- |
+| E.24  | niet overgenomen  | --- |
+| E.25  | aansluiting voor walstroom beschikbaar  | --- |
 
 ### AFDELING  II  
 
@@ -2994,14 +2955,17 @@ Opmerking vooraf: Met uitzondering van klokslagen en van reeksen van klokslagen 
 | --- | Maximum snelheid 7 km/u ingaande na 800 m  | --- |
 | --- | Niet-vrijvarende veerpont na 600 m  | --- |
 | 2.  | Pijlen die het riviervak aanduiden waarop het hoofdteken betrekking heeft.  Voorbeelden:  |
-| --- | a. Ligplaats nemen toegestaan op het vak tussen de borden.  | --- |
-| --- | b. Ligplaats nemen verboden op het vak tussen de borden over 2 km.  | --- |
-| --- | c. Invaren van een haven of nevenvaarwater gelegen in de richting van de pijl is verboden. (rode licht A.1 en twee witte lichtstrepen in de vorm van een pijl)  | --- |
+| --- | --- |
+| --- | a. Ligplaats nemen toegestaan.  |
+| --- | --- |
+| --- | b. Ligplaats nemen verboden (over 2000 m).  |
+| --- | c. Invaren van een haven of nevenvaarwater gelegen in de richting van het rode licht A.1 en de verlichte pijl is verboden (Artikel 6.16 lid 4).  | --- |
 | 3.  | Borden met aanvullende verklaringen of aanwijzingen. Deze borden worden onder het hoofdteken aangebracht.  Voorbeelden:  |
 | --- | Halt! Douane  | --- |
 | --- | Opletten: veerpont.  | --- |
 | --- | Geef één lange stoot.  | --- |
 | --- | Rede.  (artikel 14.01, lid 1)  | --- |
+| --- | Aansluiting voor 400 V~ beschikbaar  | --- |
 
 ### Bijlage  8  
 
@@ -3029,9 +2993,9 @@ De volgende periodelichten worden gebruikt:
 | --- | --- | --- |
 |:---|:---|:---|
 | -  | onderbroken licht  | --- |
-| --- | of een groep onderbroken lichten  | --- |
-| -  | isofase licht  | --- |
-| -  | flikkerlicht  | --- |
+| --- | of een groep onderbroken lichten  |
+| -  | isofase licht  |
+| -  | flikkerlicht  |
 
 ### II  
 
@@ -3150,8 +3114,8 @@ De volgende periodelichten worden gebruikt:
 | --- | twee groene  lichten  boven elkaar  | --- | Aanwijzingsteken E.1  of  twee groene ruiten  boven elkaar  |
 | (fig. 11)  |
 
-Bijvoorbeeld:   ![249475](http://wetten.overheid.nl/Illustration/249475)
-(fig. 12)   
+![249475](http://wetten.overheid.nl/Illustration/249475)
+
 ### *2 Voorbijvaren aan de vrije zijde toegestaan met verminderde snelheid (vermijden van hinderlijke waterbeweging)* 
 
 | --- | --- | --- | --- |
@@ -3168,11 +3132,11 @@ Bijvoorbeeld:   ![249475](http://wetten.overheid.nl/Illustration/249475)
 
 ### V  
 
-####Aanvullende markering voor het varen op radar
+####Aanvullende markering voor het varen op radar (indien nodig)
 
 ### A  
 
-####Markering van brugpijlers (indien nodig)
+####Markering van brugpijlers
 
 1. Gele drijvers met radarreflector (boven- en benedenstrooms van de pijler).   ![53342](http://wetten.overheid.nl/Illustration/53342)
 (fig. 15)  2. Uithouders met radarreflector (boven- en benedenstrooms van de pijler).    ![53342](http://wetten.overheid.nl/Illustration/53342)
@@ -3180,7 +3144,7 @@ Bijvoorbeeld:   ![249475](http://wetten.overheid.nl/Illustration/249475)
 
 ### B  
 
-####Markering van bovengrondse lijnen (indien nodig)
+####Markering van bovengrondse lijnen
 
 1. Radarreflectoren bevestigd aan de bovengrondse lijn (geeft op het radarbeeld een aantal punten waardoor de bovengrondse lijn te herkennen is).   ![53344](http://wetten.overheid.nl/Illustration/53344)
 (fig. 17)  2. Radarreflectoren geplaatst op gele drijvers die paarsgewijs dicht bij elkaar bij elke oever liggen (ieder paar drijvers geeft op het radarbeeld 2 punten naast elkaar waardoor de bovengrondse lijn te herkennen is).   ![53344](http://wetten.overheid.nl/Illustration/53344)
@@ -3190,29 +3154,26 @@ Bijvoorbeeld:   ![249475](http://wetten.overheid.nl/Illustration/249475)
 
 (vervallen) 
 
-### Bijlage  10  
+### Annexe/Anlage/Bijlage  10  
 
-####Model van het olie-afgifteboekje
+####Modele de carnet de controle des huiles usees
 
-(Artikel 15.05)  *CARNET DE CONTRÔLE DES HUILES USÉES* **   *ÖlKONTROLLBUCH* **   *OLIE-AFGIFTEBOEKJE* **  Page/Seite/Blz. 1   
+*MODELE DE CARNET DE CONTROLE DES HUILES USEES* *(Article 15.05 RPNR ; annexe 2, appendice I CDNI1)*   *MUSTER FÜR DAS ÖLKONTROLLBUCH* *(§ 15.05 RheinSchPV; Anlage 2, Anhang I CDNI1)* **   *MODEL VOOR HET OLIE-AFGIFTEBOEKJE* *(Artikel 15.05 RPR; bijlage 2, aanhangsel I CDNI1)*   *CARNET DE CONTROLE DES HUILES USEES*   *ÖLKONTROLLBUCH*   *OLIE-AFGIFTEBOEKJE*  1 Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (CDNI) Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI) Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (CDNI)  *Page/Seite/Bladzijde 1*    
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Page/Seite/Blz. 1  | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
 | --- | --- | No. d’ordre:  |
-| --- | --- | Laufende Nr.: ................................  |
+| --- | --- | Laufende Nr.:  |
 | --- | --- | Volgnummer:  |
 | --- | --- | --- |
 | --- | --- | --- |
 | .........................................  | ................................................................  |
-| Typ/Art/Aard  | Nom du bateau/Name des Schiffes/Naam van het schip  |
+| Type du bâtiment  Art des Fahrzeugs  Aard van het schip  | Nom du bâtiment  Name des Fahrzeugs  Naam van het schip  |
 | --- | --- | --- |
 | --- | --- | --- |
-| Numéro officiel:  | --- | --- |
-| Amtliche Schiffsnummer:  | ................................................................  |
-| Officieel scheepsnummer:  | --- | --- |
+| Numéro européen unique d’identification des bateaux ou numéro officiel:  | --- | --- |
+| Einheitliche europäische Schiffsnummer oder amtliche Schiffs:  | nummer: ......................................................  |
+| Uniek Europees scheepsidentificatienummer of officieel scheepnummer:  | --- | --- |
 | --- | --- | --- |
 | --- | --- | --- |
 | Lieu de délivrance:  | --- | --- |
@@ -3224,63 +3185,63 @@ Bijvoorbeeld:   ![249475](http://wetten.overheid.nl/Illustration/249475)
 | Datum der Ausstellung:  | ................................................................  |
 | Datum van afgifte:  | --- | --- |
 | --- | --- | --- |
+| Le présent carnet comprend .......... pages.  |
+| Dieses Buch enthält .......... Seiten.  |
+| Dit boekje telt .......... bladzijden.  |
 | --- | --- | --- |
-| Cachet et signature de l’autorité qui a délivré le présent carnet Stempel und Unterschrift der ausstellenden Behörde Stempel en ondertekening van de autoriteit die het boek afgeeft  |
+| Cachet et signature de l’autorité qui a délivré le présent carnet  | --- |
+| Stempel und Unterschrift der Behörde, die dieses Ölkontrollbuch ausgestellt hat  | --- |
+| Stempel en ondertekening van de autoriteit die het boekje heeft afgegeven  | ...................................................  |
 | --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | ...................................................  |
 
-Page/Seite/Blz. 2 
+*Page/Seite/Bladzijde 2*  
 
-####Établissement des carnets de contrôle des huiles usées
+####Etablissement des carnets de contrôle des huiles usées
 
-Le premier carnet de contrôle des huiles usées établi sur la page 1 sous le numéro d’ordre 1 n’est délivré que par l’autorité ayant établi au bateau le certificat de visite. Cette autorité appose également les indications prévues sur la page 1. Tous les carnets suivants numérotés dans l’ordre seront établis par une autorité compétente locale, mais ne doivent être remis que contre présentation du carnet précédent. Le carnet précédent doit porter la mention indélébile "non valable" et est rendu au conducteur. Il doit être conservé à bord durant six mois après la dernière inscription.  
+Le premier carnet de contrôle des huiles usées, muni sur la page 1 du numéro d’ordre 1, est délivré par une autorité compétente sur présentation du certificat de visite en cours de validité ou d’un autre certificat reconnu comme étant équivalent. Cette autorité appose également les indications prévues sur la page 1. Tous les carnets suivants seront établis et numérotés dans l’ordre par une autorité compétente. Toutefois, ils ne doivent être remis que sur présentation du carnet précédent. Le carnet précédent doit recevoir la mention indélébile «non valable». Après son renouvellement, le carnet précédent doit être conservé à bord durant au moins six mois à compter de la dernière inscription.  
 
 ####Ausstellung der Ölkontrollbücher
 
-Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden Nummer 1, wird nur von der Behörde ausgestellt, die dem Schiff das Schiffsattest erteilt hat. Sie trägt auch die auf Seite 1 vorgesehenen Angaben ein. Alle nachfolgenden Ölkontrollbücher werden von einer örtlich zuständigen Behörde mit der Folgenummer numeriert und ausgegeben, dürfen jedoch nur gegen Vorlage des vorangegangene Ölkontrollbuches ausgehändigt werden. Das vorangegangenen Ölkontrollbuch wird unaustilgbar "ungültig" gekennzeichnet und dem Schiffsführer zurückgegeben. Es ist während 6 Monaten nach der letzten Eintragung an Bord aufzubewahren.  
+Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden Nummer 1, wird von einer zuständigen Behörde gegen Vorlage des gültigen Schiffsattestes oder eines als gleichwertig anerkannten Zeugnisses ausgestellt. Sie trägt auch die auf Seite 1 vorgesehenen Angaben ein. Alle nachfolgenden Kontrollbücher werden von einer zuständigen Behörde mit der Folgenummer nummeriert und ausgegeben. Sie dürfen jedoch nur gegen Vorlage des vorhergehenden Kontrollbuches ausgehändigt werden. Das vorhergehende Kontrollbuch wird unaustilgbar «ungültig» gekennzeichnet. Nach seiner Erneuerung muss das vorhergehende mindestens sechs Monate nach der letzten Eintragung an Bord aufbewahrt werden.  
 
 ####Afgifte van het olie-afgifteboekje
 
-Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt slechts afgegeven door de autoriteit die het Certificaat van Onderzoek heeft afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in. Alle volgende olie-afgifteboekjes worden door een plaatselijk bevoegde autoriteit afgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na overleggen van het vorige boekje worden afgegeven. Het vorige boekje wordt, nadat het op onuitwisbare wijze als "ongeldig" is gemerkt, aan de schipper teruggegeven. Het dient gedurende 6 maanden na de laatste vermelding van een afgifte aan boord te worden bewaard.  
-Page/Seite/Blz. 3   
+Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het geldige certificaat van onderzoek of van een gelijkwaardig erkend bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in. Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit afgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olieafgifteboekje mag echter slechts na overleggen van het vorige boekje worden afgegeven. Het vorige boekje wordt op onuitwisbare wijze als «ongeldig» gemerkt. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende ten minste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.  
+*Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende*    
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *1.*   |  *Déchets acceptés survenant lors de l’exploitation du bateau:*   | --- |
-| --- |  *Akzeptierte Schiffsbetriebsabfälle:*   | --- |
-| --- |  *Ingenomen scheepsbedrijfsafval:*   | --- |
+|  *1.*   |  *Déchets huileux et graisseux survenant lors de l’exploitation du bâtiment acceptés/*   | --- |
+| --- |  *Akzeptierte öl und fetthaltige Schiffsbetriebsabfälle/*   | --- |
+| --- |  *Geaccepteerde olie- en vethoudende scheepsbedrijfsafvalstoffen:*   | --- |
 | --- | --- | --- |
 | --- | --- | --- |
 | 1.1  | Huiles usées/Altöl/afgewerkte olie  | ............................ l  |
 | --- | --- | --- |
-| 1.2  | Eau de fond de cale/Bilgenwasser/Bilgewater  | --- |
-| --- | de/aus/van:  | ............................ l  |
-| --- | Salle de machine arrière/Maschinenraum hinten/  | --- |
+| 1.2  | Eau de fond de cale de/Bilgenwasser aus/Bilgewater van  | --- |
+| --- | Salle des machines arrière/Maschinenraum hinten/  | --- |
 | --- | machinekamer achter  | ............................ l  |
-| --- | Salle de machine avant/Maschinenraum vorne/  | --- |
+| --- | Salle des machines avant/Maschinenraum vorne/  | --- |
 | --- | machinekamer voor  | ............................ l  |
-| --- | Autres/Andere/overige  | ............................ l  |
+| --- | Autres locaux/Andere Räumen/andere ruimten  | ............................ l  |
 | --- | --- | --- |
-| 1.3  | Autres déchets huileux ou graisseux/ Andere öl-oder fetthaltige Abfälle/Overig oliehoudend afval p.e./z.B./bv.:  | --- |
+| 1.3  | Autres déchets huileux ou graisseux/  | --- |
+| --- | Andere öl- oder fetthaltige Abfälle/  | --- |
+| --- | Overige olie- of vethoudende afvalstoffen:  | --- |
 | --- | Chiffons usés/Altlappen/gebruikte poetslappen  | .......................... kg  |
-| --- | Graisses usées/Altfett/gebruikt vet  | .......................... kg  |
-| --- | Filtres usés/Altfilter/gebruikte filterspièces/Stck/stk  | ..............................  |
+| --- | Graisses usées/Altfett/afgewerkt vet  | .......................... kg  |
+| --- | Filtres usés/Altfilter/gebruikte filter  | .......................... pièces/Stück/stuk  |
+| --- | Récipients/Gebinde/verpakkingen  | .......................... pièces/Stück/stuk  |
 | --- | --- | --- |
-| 1.4  | Autres déchets/anderweitige Abfälle/overig afval p.e./z.B./bv.: <sup>2</sup>  | --- |
-| --- | Récipients/Gebinde/verpakkingenunité/Anzahl/aantal  | ..............................  |
-| --- | Diluants usagés/gebrauchte Lösungsmittel/  | --- |
-| --- | gebruikte oplosmiddelen <sup>1, 2</sup>  | --- |
-| --- | Autres/Andere/overige  | --- |
+|  *2.*   |  *Notes/Bemerkungen/Opmerkingen:*   | --- |
 | --- | --- | --- |
-|  *2.*   |  *Notes/Bemerkungen/opmerkingen*   | --- |
-| --- | --- | --- |
-| 2.1  | Produits refusés/Nicht akzeptierte Abfälle/  | --- |
-| --- | niet geaccepteerde produkten  | --- |
+| 2.1  | Déchets refusés/Nicht akzeptierte Abfälle/  | --- |
+| --- | niet geaccepteerd afval  | --- |
+| --- | ...........................................................................  | --- |
 | --- | ...........................................................................  | --- |
 | --- | ...........................................................................  | --- |
 | --- | --- | --- |
-| 2.2  | Autres remarques/Andere Bemerkungen/andere opmerkingen:  | --- |
+| 2.2  | Autres remarques/Andere Bemerkungen/overige opmerkingen:  | --- |
 | --- | ...........................................................................  | --- |
 | --- | ...........................................................................  | --- |
 
@@ -3290,7 +3251,7 @@ Page/Seite/Blz. 3
 | Ort .......................................  | Datum ..................................  |
 | Plaats  | Datum  |
 
-Cachet et signature de la station de réception Stempel und Unterschrift der Annahmestelle Handtekening en stempel van de ontvangstinrichting <sup>1</sup> Quantités estimées/Mengen geschätzt/Hoeveelheden geschat <sup>2</sup> Toutes les stations de réception ne sont pas obligées ou autorisées de recevoir ces déchets/Nicht alle Annahmestellen sind verplichtet oder berechtigt, diese Abfälle abzunehmen/Niet alle ontvangstinrichtingen zijn verplicht of gerechtigd dit afval in te nemen. 
+Cachet et signature de la station de réception Stempel und Unterschrift der Annahmestelle Ondertekening en stempel van de ontvangstinrichting 
 
 ### Bijlage  11  
 

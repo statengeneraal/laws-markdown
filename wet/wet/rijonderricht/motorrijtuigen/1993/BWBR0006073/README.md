@@ -38,7 +38,9 @@ j. *bromfiets:* hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](.
 
 k. *brommobiel:* bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;  
 
-l. *richtlijn rijbewijzen:* de bij ministeriële regeling aangewezen richtlijn.    
+l. *richtlijn rijbewijzen:* de bij ministeriële regeling aangewezen richtlijn;  
+
+m. *scholing alcoholslotprogramma:* individueel of groepsgewijs onderricht gericht op de bevordering van de geschiktheid in het kader van het alcoholslotprogramma, bedoeld in [artikel 132b van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
 
 ### Hoofdstuk  II  
 
@@ -66,7 +68,7 @@ h. de beoordeling van de examens in het kader van het herintrederstraject, bedoe
 
 i. het afnemen van de toets, bedoeld in artikel 21, derde lid,  
 
-j. het afnemen van het examen docent scholing educatieve maatregel,  
+j. het afnemen van het examen docent scholing educatieve maatregel en van het aanvullend examen docent scholing alcoholslotprogramma,  
 
 k. het bijhouden van het register, bedoeld in artikel 4,  
 
@@ -86,9 +88,9 @@ m. de vaststelling van de tarieven voor de activiteiten, bedoeld in de onderdele
 2.  De commissie bestaat uit drie leden, waaronder de voorzitter, en drie plaatsvervangende leden. De leden en plaatsvervangende leden worden door Onze Minister benoemd en ontslagen. Zij zijn niet werkzaam bij of ten behoeve van het instituut. Onze Minister stelt hun beloning vast.   
 3.  In afwijking van [artikel 7:28 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor de behandeling van het beroep een bedrag verschuldigd, indien het beroep is gericht tegen een besluit ter zake van: 
 
-a. de toelating tot het examen rijinstructeur of het examen docent educatieve maatregel, of  
+a. de toelating tot het examen rijinstructeur of het examen docent educatieve maatregel of het aanvullend examen docent scholing alcoholslotprogramma, of  
 
-b. de uitslag van het examen rijinstructeur of het examen docent educatieve maatregel.     
+b. de uitslag van het examen rijinstructeur of het examen docent educatieve maatregel of het aanvullend examen docent scholing alcoholslotprogramma.     
 4.  De hoogte van het bedrag en de wijze van betaling worden vastgesteld bij ministeriële regeling.   
 5.  Indien de commissie het beroep gegrond acht, wordt het bedrag aan de indiener van het beroepschrift terugbetaald.   
 6.  Onze Minister stelt een reglement van orde vast met betrekking tot de door de commissie te volgen procedure.   
@@ -157,7 +159,7 @@ c. behoorlijk leesbaar te zijn.
 
 ### Artikel  8b  
 
-Artikel 7 is niet van toepassing op militaire rij-instructeurs voor zover zij werkzaam zijn binnen hun dienstverband.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Artikel 7 is niet van toepassing op militaire rij-instructeurs voor zover zij werkzaam zijn binnen hun dienstverband.  
 
 ### §  2  
 
@@ -199,7 +201,7 @@ b. de beoordeling van de competenties van de betrokkene en de wijze waarop die b
 
 ### Artikel  12  
 
-1.  Het instituut geeft voor certificaten die versleten of geheel of ten dele onleesbaar zijn, dan wel verloren zijn geraakt of teniet zijn gegaan, tegen betaling van het daarvoor vastgestelde tarief, vervangende certificaten af. Het instituut geeft voorts bij wijziging van de personalia van de houder van een certificaat een vervangend certificaat af.   
+1.  Het instituut geeft voor certificaten die versleten of geheel of gedeeltelijk onleesbaar zijn, dan wel verloren zijn geraakt of teniet zijn gegaan, tegen betaling van het daarvoor vastgestelde tarief, vervangende certificaten af. Het instituut geeft voorts bij wijziging van de personalia van de houder van een certificaat een vervangend certificaat af.   
 2.  Afgifte van een vervangend certificaat geschiedt slechts tegen inlevering van het eerder afgegeven versleten of geheel of ten dele onleesbaar geworden certificaat.   
 3.  Indien het te vervangen certificaat verloren is geraakt of teniet is gegaan, dient een door de aanvrager ondertekende verklaring te worden overgelegd, dat het certificaat verloren is geraakt of teniet is gegaan. In de verklaring dienen de omstandigheden waaronder het certificaat verloren geraakt of teniet gegaan is, te worden omschreven.   
 4.  Op het vervangende certificaat wordt door het instituut de geldigheidsduur van het vervangen certificaat geplaatst.   
@@ -296,11 +298,11 @@ e. het instituut de beoordeling van ten minste de laatste van de in vijf jaar ge
 
 ### Hoofdstuk  IV  
 
-####Scholing educatieve maatregel
+####Scholing educatieve maatregel en scholing alcoholslotprogramma
 
 ### Artikel  16  
 
-1.  Degene die scholing educatieve maatregel geeft dient in het bezit te zijn van een door het instituut afgegeven certificaat.   
+1.  Degene die scholing educatieve maatregel geeft, alsmede degene die scholing geeft in het kader van het alcoholslotprogramma, dient in het bezit te zijn van een door het instituut afgegeven certificaat.   
 2.  Het certificaat dient: 
 
 a. geldig te zijn voor de scholing educatieve maatregel die wordt gegeven;  
@@ -319,14 +321,22 @@ a. een geldig diploma bezit van een bij algemene maatregel van bestuur aangegeve
 b. een bij algemene maatregel van bestuur aangegeven aantal jaren beroepservaring heeft die direct verband houdt met het in onderdeel a bedoelde diploma, en  
 
 c. blijkens een door het instituut afgenomen examen voldoet aan bij algemene maatregel van bestuur vastgestelde aanvullende eisen van bekwaamheid voor het geven van scholing educatieve maatregel, die naar gelang van de te geven scholing educatieve maatregel kunnen verschillen.     
+3.  Een certificaat voor het geven van scholing in het kader van het alcoholslotprogramma wordt tegen betaling van het daarvoor door Onze Minister vastgestelde tarief afgegeven door het instituut.   
+4.  Een certificaat voor het geven van scholing in het kader van het alcoholslotprogramma wordt slechts afgegeven aan degene die: 
+
+a. een geldig diploma bezit van een bij algemene maatregel van bestuur aangegeven hoofdopleiding,  
+
+b. een bij algemene maatregel van bestuur aangegeven aantal jaren beroepservaring heeft die direct verband houdt met het onder a. bedoelde diploma, en  
+
+c. blijkens een door het instituut afgenomen examen voldoet aan bij algemene maatregel van bestuur vastgestelde aanvullende eisen van bekwaamheid voor het geven van scholing in het kader van het alcoholslotprogramma.     
 
 ### Artikel  19  
 
-Ten aanzien van certificaten ten behoeve van het geven van scholing educatieve maatregel zijn de artikelen 10-12 en 14 en 15 van overeenkomstige toepassing.  
+Ten aanzien van certificaten ten behoeve van het geven van scholing educatieve maatregel en ten aanzien van certificaten ten behoeve van het geven van scholing in het kader van het alcoholslotprogramma zijn de artikelen 10-12 en 14 en 15 van overeenkomstige toepassing.  
 
 ### Artikel  20  
 
-Een certificaat voor het geven van scholing educatieve maatregel verliest zijn geldigheid met ingang van de datum waarop het in artikel 17, tweede lid, onderdeel a, bedoelde certificaat of diploma zijn geldigheid verliest.  
+Een certificaat voor het geven van scholing educatieve maatregel alsmede een certificaat voor het geven van scholing in het kader van het alcoholslotprogramma verliest zijn geldigheid met ingang van de datum waarop het in artikel 17, tweede lid, onderdeel a, bedoelde certificaat of diploma zijn geldigheid verliest.  
 
 ### Hoofdstuk  V  
 

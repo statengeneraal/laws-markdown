@@ -123,6 +123,8 @@ Voor het kalenderjaar 2011 zijn de volgende vergoedingen verschuldigd:
 | --- | --- | --- |
 | 091  | Elektronische communicatie algemeen  | Tariefklasse 2  |
 | --- | --- | --- |
+| 0970  | 1. Elektronische communicatiediensten voor geautomatiseerde toepassingen  2. Overige elektronische communicatiediensten  | Tariefklasse 8  |
+| --- | --- | --- |
 | 10  11  12  13  14  16  18  | Bijzondere korte nummers  | Tariefklasse 1  |
 | --- | --- | --- |
 | Overige, hierboven niet genoemde nummers van het Nummerplan voor telefoon- en ISDN-diensten (uitgezonderd 01400)  | --- | Tariefklasse 1  |
@@ -162,5 +164,6 @@ Voor het kalenderjaar 2011 zijn de volgende vergoedingen verschuldigd:
 | Tariefklasse 5  | 1  | € 121  | --- | € 54  | --- |
 | Tariefklasse 6  | 1  | € 40  | € 9  | € 18  | € 9  |
 | Tariefklasse 7 <sup>2</sup>  | 100  | € 46  | --- | € 5,50  | --- |
+| Tariefklasse 8  | 1000  | € 0,50 met minimumbedrag van € 200  | --- | € 0,10 met minimumbedrag van € 55  | --- |
 
 <sup>1</sup> Het betreft het omzetten van gereserveerde nummers naar toe te kennen nummers. <sup>2</sup> De in tariefklasse 7 genoemde bedragen zijn tevens minimumbedragen indien OPTA besluit nummers in blokken kleiner dan 100 nummers toe te kennen. 

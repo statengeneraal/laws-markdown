@@ -358,7 +358,7 @@ c. een deel IA van een kentekenbewijs, bevattende de lettergroep GV en twee groe
 
 d. een kentekenbewijs, als bedoeld in [artikel 4, vijfde lid, onder a, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) (uitvoerkentekenbewijs): € 11,55;  
 
-e. een uitvoerverklaring, als bedoeld in [artikel 31, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [artikel 32, tweede lid](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), en [artikel 33, eerste lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md): € 11,55;  
+e. vervallen;  
 
 f. een kentekenbewijs, als bedoeld in [artikel 4, vijfde lid, onder b, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) (transitokentekenbewijs): € 11,55;  
 
@@ -733,6 +733,7 @@ Algemeen Directeur.
 | Afmelding BCT*  | STK  | 11,50  |
 | Afmelding BCT (via internet)*  | STK  | 12,00  |
 | Tarief gecommiteerde (dagdeel)  | STK  | 460,00  |
+| Afmelding ASP  | STK  | 11,00  |
 | --- | --- | --- |
 |  *Aanvraag SB/TA-erkenning*   | --- | --- |
 | Eerste aanvraag erkenning SB  | STK  | 265,00  |

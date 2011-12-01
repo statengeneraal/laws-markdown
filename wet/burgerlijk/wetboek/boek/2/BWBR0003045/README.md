@@ -21,11 +21,6 @@
 1.  Kerkgenootschappen alsmede hun zelfstandige onderdelen en lichamen waarin zij zijn verenigd, bezitten rechtspersoonlijkheid.   
 2.  Zij worden geregeerd door hun eigen statuut, voor zover dit niet in strijd is met de wet. Met uitzondering van artikel 5 gelden de volgende artikelen van deze titel niet voor hen; overeenkomstige toepassing daarvan is geoorloofd, voor zover deze is te verenigen met hun statuut en met de aard der onderlinge verhoudingen.   
 
-### Artikel  2a  
-
-1.  Dieren zijn geen zaken.   
-2.  Bepalingen met betrekking tot zaken zijn op dieren van toepassing, met in achtneming van de op wettelijke voorschriften en regels van ongeschreven recht gegronde beperkingen, verplichtingen en rechtsbeginselen, alsmede de openbare orde en de goede zeden.   
-
 ### Artikel  3  
 
 Verenigingen, coöperaties, onderlinge waarborgmaatschappijen, naamloze vennootschappen, besloten vennootschappen met beperkte aansprakelijkheid en stichtingen bezitten rechtspersoonlijkheid.  
@@ -376,10 +371,11 @@ d. door ontzetting.
 3.  Ontzetting kan alleen worden uitgesproken wanneer een lid in strijd met de statuten, reglementen of besluiten der vereniging handelt, of de vereniging op onredelijke wijze benadeelt.   
 4.  Tenzij de statuten dit aan een ander orgaan opdragen, geschiedt de ontzetting door het bestuur. Het lid wordt ten spoedigste schriftelijk van het besluit, met opgave van redenen, in kennis gesteld. Hem staat, behalve wanneer krachtens de statuten het besluit door de algemene vergadering is genomen, binnen één maand na ontvangst van de kennisgeving van het besluit, beroep op de algemene vergadering of een daartoe bij de statuten aangewezen orgaan of derde open. De statuten kunnen een andere regeling van het beroep bevatten, doch de termijn kan niet korter dan op één maand worden gesteld. Gedurende de beroepstermijn en hangende het beroep is het lid geschorst.   
 5.  Wanneer het lidmaatschap in de loop van een boekjaar eindigt, blijft, tenzij de statuten anders bepalen, desniettemin de jaarlijkse bijdrage voor het geheel verschuldigd.   
+6.  De vereniging draagt er zorg voor dat leden de voor opzegging van het lidmaatschap noodzakelijke informatie eenvoudig kunnen raadplegen. De informatie wordt in ieder geval opvallend vermeld op de hoofdpagina van de website en op bladzijde 1, 2 of 3 van het ledenblad, indien een vereniging gebruik maakt van deze communicatiemiddelen.   
 
 ### Artikel  36  
 
-1.  Tenzij de statuten anders bepalen, kan opzegging van het lidmaatschap slechts geschieden tegen het einde van een boekjaar en met inachtneming van een opzeggingstermijn van vier weken; op deze termijn is de [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing. In ieder geval kan het lidmaatschap worden beëindigd door opzegging tegen het eind van het boekjaar, volgend op dat waarin wordt opgezegd, of onmiddellijk, indien redelijkerwijs niet gevergd kan worden het lidmaatschap te laten voortduren.   
+1.  Tenzij de statuten anders bepalen, kan opzegging van het lidmaatschap slechts geschieden tegen het einde van een boekjaar en met inachtneming van een opzeggingstermijn van vier weken; op deze termijn is de [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing. In ieder geval kan het lidmaatschap worden beëindigd tegen het eind van het boekjaar, volgend op dat waarin wordt opgezegd, of onmiddellijk, indien redelijkerwijs niet gevergd kan worden het lidmaatschap te laten voortduren.   
 2.  Een opzegging in strijd met het in het vorige lid bepaalde, doet het lidmaatschap eindigen op het vroegst toegelaten tijdstip volgende op de datum waartegen was opgezegd.   
 3.  Een lid kan voorts zijn lidmaatschap met onmiddellijke ingang opzeggen binnen een maand nadat een besluit waarbij zijn rechten zijn beperkt of zijn verplichtingen zijn verzwaard, hem is bekend geworden of medegedeeld; het besluit is alsdan niet op hem van toepassing. Deze bevoegdheid tot opzegging kan de leden bij de statuten worden ontzegd voor het geval van wijziging van de daar nauwkeurig omschreven rechten en verplichtingen en voorts in het algemeen voor het geval van wijziging van geldelijke rechten en verplichtingen.   
 4.  Een lid kan zijn lidmaatschap ook met onmiddellijke ingang opzeggen binnen een maand nadat hem een besluit is meegedeeld tot omzetting van de vereniging is een andere rechtsvorm, tot fusie of tot splitsing.   

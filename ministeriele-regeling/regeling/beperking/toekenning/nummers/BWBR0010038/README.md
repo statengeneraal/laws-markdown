@@ -3,26 +3,26 @@
 ##Regeling beperking toekenning nummers
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 4.2, derde lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [artikel 4.3, tweede lid, onderdeel a, van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+Gelet op artikel 4.2, derde lid, en artikel 4.3, tweede lid, onderdeel a, van de Telecommunicatiewet;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. wet: [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a. wet: Telecommunicatiewet;  
 
-b. informatienummer: nummer dat in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) vastgesteld nummerplan is bestemd als nummer voor een informatiedienst;  
+b. informatienummer: nummer dat in een door de Minister van Economische Zaken op grond van artikel 4.1 van de wet vastgesteld nummerplan is bestemd als nummer voor een informatiedienst;  
 
 c. kort informatienummer: informatienummer bestaande uit minder dan 11 cijfers;  
 
-d. geharmoniseerd nummer: nummer in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) vastgesteld nummerplan dat voor dezelfde dienst en met dezelfde nummerlengte tegelijkertijd meerdere keren kan worden toegekend.  
+d. geharmoniseerd nummer: nummer in een door de Minister van Economische Zaken op grond van artikel 4.1 van de wet vastgesteld nummerplan dat voor dezelfde dienst en met dezelfde nummerlengte tegelijkertijd meerdere keren kan worden toegekend.  
 
-e. carrierselectienummer: nummer dat in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) vastgesteld nummerplan is bestemd als nummer voor een carrierselectiedienst.    
+e. carrierselectienummer: nummer dat in een door de Minister van Economische Zaken op grond van artikel 4.1 van de wet vastgesteld nummerplan is bestemd als nummer voor een carrierselectiedienst.    
 
 ### Artikel  2  
 
-De volgende nummers in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) vastgesteld nummerplan kunnen slechts worden toegekend aan en gereserveerd worden voor de in [artikel 4.2, eerste lid, onder a en b, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genoemde categorieën aanbieders: 
+De volgende nummers in een door de Minister van Economische Zaken op grond van artikel 4.1 van de wet vastgesteld nummerplan kunnen slechts worden toegekend aan en gereserveerd worden voor de in artikel 4.2, eerste lid, onder a en b, van de wet genoemde categorieën aanbieders: 
 
 a. geografische nummers;  
 
@@ -36,11 +36,13 @@ e. nummers uit de 085-serie of uit de 091-serie;
 
 f. nummers voor virtual private networks;  
 
-g. nummers voor telexdiensten.    
+g. nummers voor telexdiensten;  
+
+h. nummers uit de 0970-serie.    
 
 ### Artikel  2a  
 
-De volgende nummers in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) vastgesteld nummerplan kunnen slechts worden toegekend aan en gereserveerd worden voor de in a [rtikel 4.2, eerste lid, onder c, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genoemde categorieën aanvragers: 
+De volgende nummers in een door de Minister van Economische Zaken op grond van artikel 4.1 van de wet vastgesteld nummerplan kunnen slechts worden toegekend aan en gereserveerd worden voor de in a rtikel 4.2, eerste lid, onder c, van de wet genoemde categorieën aanvragers: 
 
 a. nummers voor toegang tot ondernemingen en instellingen;  
 

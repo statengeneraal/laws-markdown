@@ -224,7 +224,7 @@ b. consolidering en ondersteuning van de democratie, de rechtsstaat, de mensenre
 
 c. handhaving van de vrede, voorkoming van conﬂicten en versterking van de internationale veiligheid, overeenkomstig de doelstellingen en de beginselen van het Handvest van de Verenigde Naties, de beginselen van de Slotakte van Helsinki en de doelstellingen van het Handvest van Parijs, met inbegrip van de doelstellingen betreffende de buitengrenzen;  
 
-d. ondersteuning van de ontwikkeling van de ontwikkelingslanden op economisch, sociaal en milieugebied, met uitbanning van de armoede als voornaamste doel;  
+d. ondersteuning van de duurzame ontwikkeling van de ontwikkelingslanden op economisch, sociaal en milieugebied, met uitbanning van de armoede als voornaamste doel;  
 
 e. stimulering van de integratie van alle landen in de wereldeconomie, onder meer door het geleidelijk wegwerken van belemmeringen voor de internationale handel;  
 
@@ -410,11 +410,11 @@ e. bij te dragen aan het bepalen en in voorkomend geval uitvoeren van alle nutti
 ### Artikel  46  
 
 1.  De lidstaten die wensen deel te nemen aan de in artikel 42, lid 6, bedoelde permanente gestructureerde samenwerking, die voldoen aan de criteria en die de verbintenissen inzake militaire vermogens als vermeld in het Protocol betreffende permanente gestructureerde samenwerking onderschrijven, stellen de Raad en de hoge vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid in kennis van hun voornemen.   
-2.  Binnen drie maanden na de in lid 1 bedoelde kennisgeving stelt de Raad een besluit tot instelling van de permanente gestructureerde samenwerking en tot opstelling van de lijst van deelnemers vast. De Raad besluit met gekwaliﬁceerde meerderheid van stemmen, na raadpleging van de hoge vertegenwoordiger.   
+2.  Binnen drie maanden na de in lid 1 bedoelde kennisgeving stelt de Raad een besluit tot instelling van de permanente gestructureerde samenwerking en tot opstelling van de lijst van deelnemende lidstaten vast. De Raad besluit met gekwaliﬁceerde meerderheid van stemmen, na raadpleging van de hoge vertegenwoordiger.   
 3.  Iedere lidstaat die in een later stadium aan de permanente gestructureerde samenwerking wenst deel te nemen, stelt de Raad en de hoge vertegenwoordiger van zijn voornemen in kennis. De Raad stelt een besluit vast houdende bevestiging van de deelneming van de betrokken lidstaat die aan de criteria voldoet en de verbintenissen onderschrijft als bedoeld in de artikelen 1 en 2 van het Protocol betreffende permanente gestructureerde samenwerking. De Raad besluit met gekwaliﬁceerde meerderheid van stemmen, na raadpleging van de hoge vertegenwoordiger. Aan de stemming wordt alleen deelgenomen door de leden van de Raad die de deelnemende lidstaten vertegenwoordigen. De gekwaliﬁceerde meerderheid wordt vastgesteld overeenkomstig artikel 238, lid 3, onder a van het Verdrag betreffende de werking van de Europese Unie.   
 4.  Indien een deelnemende lidstaat niet langer aan de criteria voldoet of zich niet langer kan houden aan de verbintenissen als bedoeld in de artikelen 1 en 2 van het Protocol betreffende permanente gestructureerde samenwerking, kan de Raad een besluit tot schorsing van de deelneming van deze lidstaat vaststellen. De Raad besluit met gekwaliﬁceerde meerderheid van stemmen. Aan de stemming wordt alleen deelgenomen door de leden van de Raad die de deelnemende lidstaten vertegenwoordigen, met uitzondering van de betrokken lidstaat. De gekwaliﬁceerde meerderheid wordt vastgesteld overeenkomstig artikel 238, lid 3, onder a van het Verdrag betreffende de werking van de Europese Unie.   
 5.  Indien een lidstaat zijn deelneming aan de permanente gestructureerde samenwerking wenst te beëindigen, geeft hij daarvan kennis aan de Raad, die er akte van neemt dat de deelneming van de betrokken lidstaat aﬂoopt.   
-6.  Andere dan de in de leden 2 tot en met 5 bedoelde besluiten en aanbevelingen van de Raad in het kader van de gestructureerde samenwerking worden met eenparigheid van stemmen vastgesteld. Voor de toepassing van dit lid wordt eenparigheid van stemmen alleen door de stemmen van de vertegenwoordigers van de deelnemende lidstaten gevormd.   
+6.  Andere dan de in de leden 2 tot en met 5 bedoelde besluiten en aanbevelingen van de Raad in het kader van de permanente gestructureerde samenwerking worden met eenparigheid van stemmen vastgesteld. Voor de toepassing van dit lid wordt eenparigheid van stemmen alleen door de stemmen van de vertegenwoordigers van de deelnemende lidstaten gevormd.   
 
 ### TITEL  VI  
 
@@ -625,7 +625,7 @@ De bepalingen van de artikelen 2 tot en met 7 zijn van toepassing op de advocate
 
 ### Artikel  9  
 
-De gedeeltelijke vervanging van de rechters, die om de drie jaar plaatsvindt, heeft beurtelings betrekking op veertien en op dertien rechters.  
+De gedeeltelijke vervanging van de rechters, die om de drie jaar plaatsvindt, heeft beurtelings betrekking op veertien en op dertien rechters. De gedeeltelijke vervanging van de advocaten-generaal, die om de drie jaar plaatsvindt, heeft telkens betrekking op vier advocaten-generaal.  
 
 ### Artikel  10  
 
@@ -653,7 +653,7 @@ Het Hof van Justitie is permanent in functie. De rechterlijke vakanties worden d
 
 ### Artikel  16  
 
-Het Hof van Justitie vormt uit zijn midden kamers van drie en vijf rechters. De rechters kiezen uit hun midden de kamerpresident. De presidenten van de kamers van vijf rechters worden voor drie jaar gekozen. Zij zijn eenmaal herbenoembaar. De grote kamer bestaat uit 13 rechters. Zij wordt voorgezeten door de president van het Hof. Voorts maken van de grote kamer deel uit de presidenten van de kamers van vijf rechters, alsmede andere rechters die worden aangewezen overeenkomstig de in het reglement voor de procesvoering vastgestelde bepalingen. Het Hof houdt zitting in grote kamer, wanneer een lidstaat of een instelling van de Unie die partij is bij het geding daarom verzoekt. Het Hof komt in voltallige zitting bijeen wanneer een zaak aanhangig is gemaakt op grond van artikel 228, lid 2, artikel 245, en artikel 247 danwel artikel 286, lid 6, van het Verdrag betreffende de werking van de Europese Unie, Verder kan het Hof, wanneer het van oordeel is dat een aanhangige zaak van uitzonderlijk belang is, de advocaat-generaal gehoord, besluiten deze zaak naar de voltallige zitting te verwijzen.  
+Het Hof van Justitie vormt uit zijn midden kamers van drie en vijf rechters. De rechters kiezen uit hun midden de kamerpresident. De presidenten van de kamers van vijf rechters worden voor drie jaar gekozen. Zij zijn eenmaal herbenoembaar. De grote kamer bestaat uit 13 rechters. Zij wordt voorgezeten door de president van het Hof. Voorts maken van de grote kamer deel uit de presidenten van de kamers van vijf rechters, alsmede andere rechters die worden aangewezen overeenkomstig de in het reglement voor de procesvoering vastgestelde bepalingen. Het Hof houdt zitting in grote kamer, wanneer een lidstaat of een instelling van de Unie die partij is bij het geding daarom verzoekt. Het Hof komt in voltallige zitting bijeen wanneer een zaak aanhangig is gemaakt op grond van artikel 228, lid 2, artikel 245, en artikel 247 danwel artikel 286, lid 6, van het Verdrag betreffende de werking van de Europese Unie. Verder kan het Hof, wanneer het van oordeel is dat een aanhangige zaak van uitzonderlijk belang is, de advocaat-generaal gehoord, besluiten deze zaak naar de voltallige zitting te verwijzen.  
 
 ### Artikel  17  
 
@@ -809,7 +809,7 @@ In afwijking van het bepaalde in artikel 256, lid 1, van het Verdrag betreffende
 
 a. een handeling of een nalaten een besluit te nemen van het Europees Parlement of de Raad, of van beide zittingen tezamen, met uitzondering van 
 
-– de besluiten van de Raad krachtens artikel 88, lid 2, derde alinea, van het Verdrag betreffende de werking van de Europese Unie;  
+– de besluiten van de Raad krachtens artikel 108, lid 2, derde alinea, van het Verdrag betreffende de werking van de Europese Unie;  
 
 – de handelingen van de Raad krachtens een verordening van de Raad betreffende de handelspolitieke beschermingsmaatregelen in de zin van artikel 207 van het Verdrag betreffende de werking van de Europese Unie;  
 
@@ -861,10 +861,6 @@ In geval van gegrondheid van het verzoek om hogere voorziening vernietigt het Ho
 
 In de in artikel 256, leden 2 en 3, van het Verdrag betreffende de werking van de Europese Unie bedoelde gevallen kan de eerste advocaat-generaal het Hof van Justitie voorstellen, de beslissing van het Gerecht te heroverwegen, wanneer hij van oordeel is dat er een ernstig risico bestaat dat de eenheid of de samenhang van het recht van de Unie wordt aangetast. Het voorstel moet binnen een maand na de uitspraak van het Gerecht gedaan worden. Het Hof beslist binnen een maand na het door de eerste advocaat-generaal gedane voorstel of heroverweging van de uitspraak noodzakelijk is.  
 
-### TITEL  IV BIS  
-
-####GESPECIALISEERDE RECHTBANKEN
-
 ### Artikel  62 bis  
 
 Het Hof van Justitie doet, op basis van het dossier dat het Gerecht hem doet toekomen, in het kader van een spoedprocedure uitspraak op de vragen waarop de heroverweging betrekking heeft. De in artikel 23 bedoelde belanghebbenden en de partijen in de procedure voor het Gerecht in de gevallen omschreven in artikel 256, lid 2, van het Verdrag betreffende de werking van de Europese Unie hebben het recht om over de vragen waarop de heroverweging betrekking heeft, bij het Hof memories of schriftelijke opmerkingen in te dienen binnen een daartoe gestelde termijn. Het Hof kan besluiten een mondelinge behandeling te openen alvorens uitspraak te doen.  
@@ -872,6 +868,14 @@ Het Hof van Justitie doet, op basis van het dossier dat het Gerecht hem doet toe
 ### Artikel  62 ter  
 
 Onverminderd het bepaalde in de artikelen 278 en 279 van het Verdrag betreffende de werking van de Europese Unie hebben het voorstel tot heroverweging en het besluit om de heroverwegingsprocedure te openen, in de gevallen bedoeld in artikel 256, lid 2, van het Verdrag betreffende de werking van de Europese Unie geen schorsende werking. Indien het Hof van Justitie vaststelt dat de eenheid of de samenhang van het recht van de Unie door de beslissing van het Gerecht wordt aangetast, verwijst het de zaak naar het Gerecht, dat gebonden is aan de rechtsvragen die door het Hof van Justitie zijn beslist; het Hof van Justitie kan verklaren welke gevolgen van de beslissing van het Gerecht ten aanzien van de partijen in het geschil als deﬁnitief moeten worden beschouwd. Indien de oplossing van het geschil, gelet op het resultaat van de heroverweging, evenwel voortvloeit uit de feitelijke vaststelling waarop de beslissing van het Gerecht is gebaseerd, doet het Hof de zaak zelf af. In de in artikel 256, lid 3, van het Verdrag betreffende de werking van de Europese Unie bedoelde gevallen en indien geen voorstel tot heroverweging is ingediend of geen besluit tot opening van de heroverwegingsprocedure is genomen, wordt het antwoord of worden de antwoorden van het Gerecht op de hem gestelde vragen bindend bij het verstrijken van de daartoe in artikel 62, tweede alinea, vastgestelde termijn. Is er wel een heroverwegingsprocedure geopend, dan wordt het antwoord of worden de antwoorden waarvan de heroverweging wordt gevraagd, bindend na aﬂoop van deze procedure, behoudens andersluidende beslissing van het Hof. Wanneer het Hof van oordeel is dat de eenheid of de samenhang van het recht van de Unie door de beslissing van het Gerecht wordt aan getast, wordt het antwoord van het Gerecht op de vragen waarop de heroverweging betrekking heeft, vervangen door het antwoord van het Hof.  
+
+### TITEL  IV BIS  
+
+####GESPECIALISEERDE RECHTBANKEN
+
+### Artikel  62 quater  
+
+De bepalingen betreffende de bevoegdheid, samenstelling en organisatie van en de procedure voor de krachtens artikel 257 van het Verdrag betreffende de werking van de Europese Unie ingestelde gespecialiseerde rechtbanken zijn in de aan dit statuut gehechte bijlagen opgenomen.  
 
 ### TITEL  V  
 
@@ -2490,7 +2494,31 @@ In dit Protocol wordt onder „de Verdragen” verstaan het Verdrag betreffende 
 
 ### Artikel  2  
 
-Tijdig vóór de verkiezingen voor het Europees Parlement van 2009 stelt de Europese Raad, overeenkomstig artikel 14, lid 2, tweede alinea, van het Verdrag betreffende de Europese Unie, een besluit inzake de samenstelling van het Europees Parlement vast. Tot het einde van de zittingsperiode 2004-2009 blijven de samenstelling en het aantal leden van het Europees Parlement die welke bestonden bij de inwerkingtreding van het Verdrag van Lissabon.  
+1.  Voor de resterende duur van de zittingsperiode 2009-2014 vanaf de datum van inwerkingtreding van dit artikel, en in afwijking van de artikelen 189, tweede alinea, en 190, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap en van de artikelen 107, tweede alinea, en 108, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, die van kracht waren ten tijde van de verkiezingen voor het Europees Parlement van juni 2009, en in afwijking van het aantal zetels waarin is voorzien in artikel 14, lid 2, eerste alinea, van het Verdrag betreffende de Europese Unie, worden de volgende 18 zetels toegevoegd aan de huidige 736 zetels, waardoor het totaal aantal leden van het Europees Parlement tijdelijk op 754 wordt gebracht tot het einde van de zittingsperiode 2009-2014:  
+
+| --- | --- |
+|:---|:---|
+| Bulgarije  | 1  |
+| Spanje  | 4  |
+| Frankrijk  | 2  |
+| Italië  | 1  |
+| Letland  | 1  |
+| Malta  | 1  |
+| Nederland  | 1  |
+| Oostenrijk  | 2  |
+| Polen  | 1  |
+| Slovenië  | 1  |
+| Zweden  | 2  |
+| Verenigd Koninkrijk  | 1  |
+
+2.  In afwijking van artikel 14, lid 3, van het Verdrag betreffende de Europese Unie, dragen de betrokken lidstaten de personen voor die de in lid 1 bedoelde extra zetels zullen bezetten, overeenkomstig het recht van de betrokken lidstaten en op voorwaarde dat deze personen in rechtstreekse algemene verkiezingen zijn verkozen, 
+
+a) in een ad hoc georganiseerde rechtstreekse algemene verkiezing in de betrokken lidstaat, overeenkomstig de toepasselijke bepalingen voor de verkiezingen voor het Europees Parlement;  
+
+b) als resultaat van de verkiezingen voor het Europees Parlement van 4 tot en met 7 juni 2009; of  
+
+c) door voordracht, door het nationaal parlement van de betrokken lidstaat uit zijn midden, van het vereiste aantal leden, volgens de door elk van die lidstaten vastgestelde procedure.     
+3.  Tijdig vóór de verkiezingen voor het Europees Parlement van 2014 stelt de Europese Raad, overeenkomstig artikel 14, lid 2, tweede alinea, van het Verdrag betreffende de Europese Unie, een besluit inzake de samenstelling van het Europees Parlement vast.   
 
 ### TITEL  II  
 
