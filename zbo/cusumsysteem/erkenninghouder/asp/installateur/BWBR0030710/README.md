@@ -12,23 +12,23 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *herkeuring:* steekproef als bedoeld in [artikel 132m, tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a.  *herkeuring:* steekproef als bedoeld in [artikel 132m, tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-b. *cusumsysteem:* het systeem van bonus- en strafpunten als bedoeld in [artikel 67 van de Regeling aanpassing voertuigen](../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
+b.  *cusumsysteem:* het systeem van bonus- en strafpunten als bedoeld in [artikel 67 van de Regeling aanpassing voertuigen](../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
 
-c. *cusumbijdrage:* de bijdrage aan straf- en bonuspunten bij herkeuringen;  
+c.  *cusumbijdrage:* de bijdrage aan straf- en bonuspunten bij herkeuringen;  
 
-d. *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van herkeuringen;  
+d.  *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van herkeuringen;  
 
-e. *gradatie:* kwalificatie van een gebrek uitgedrukt in strafpunten bij toepassing van [artikel 13, tweede lid van de Regeling aanpassing voertuigen](../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
+e.  *gradatie:* kwalificatie van een gebrek uitgedrukt in strafpunten bij toepassing van [artikel 13, tweede lid van de Regeling aanpassing voertuigen](../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
 
-f. *klasse:* classificatie voor de kwaliteit van werkzaamheden alcoholslot door de erkenninghouder; de 3 klassen geven tevens een indicatie voor de kans op het aantal uit te voeren herkeuringen.    
+f.  *klasse:* classificatie voor de kwaliteit van werkzaamheden alcoholslot door de erkenninghouder; de 3 klassen geven tevens een indicatie voor de kans op het aantal uit te voeren herkeuringen.   
 
 ### Artikel  2  
 
 ####toepassing
 
-Het cusumsysteem wordt toegepast bij steekproeven als bedoeld in artikel [132m, tweede lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ten behoeve van het meten van de kwaliteit bij de inbouw van alcoholsloten.  
+Het cusumsysteem wordt toegepast bij steekproeven als bedoeld in artikel [132m, tweede lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ten behoeve van het meten van de kwaliteit bij de inbouw van alcoholsloten. 
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ a. fraude;
 
 b. van een apert onveilig voertuig dat 3 strafpunten oplevert en waarbij terstond intrekking van de erkenning wordt overwogen.       
 2.  Steekproef van een voertuig levert het vastgestelde bonuspunt op van 0,4 punt.   
-3.  De cusumbijdrage wordt berekend aan de hand van de formule: totaal aantal strafpunten per herkeuring minus het bonuspunt van 0,4 punt.   
+3.  De cusumbijdrage wordt berekend aan de hand van de formule: totaal aantal strafpunten per herkeuring minus het bonuspunt van 0,4 punt.  
 
 ### Artikel  4  
 
@@ -72,7 +72,7 @@ c. de penalty klasse (P), waarbij de startwaarde 4,5 is indien:
 
 3°. de som van de cusumbijdragen van de laatste 5 steekproeven groter is dan 5.       
 2.  De kans op steekproeven in genoemde klassen wordt bepaald door de verhouding N:C:P=2:1:6.   
-3.  Plaatsing in de C-klasse geeft aanleiding tot verminderd toezicht en plaatsing in de P-klasse tot verscherpt toezicht.   
+3.  Plaatsing in de C-klasse geeft aanleiding tot verminderd toezicht en plaatsing in de P-klasse tot verscherpt toezicht.  
 
 ### Artikel  5  
 
@@ -96,19 +96,19 @@ b. een gebrek van gradatie 3 wordt geconstateerd.
 
 c. één afzonderlijke cusumbijdrage 9,6 of hoger is.  
 
-d. Binnen de periode van één jaar, twee maal de P-klasse wordt bereikt.    
+d. Binnen de periode van één jaar, twee maal de P-klasse wordt bereikt.   
 
 ### Artikel  6  
 
 ####ingangsdatum
 
-Deze regeling treedt in werking met ingang van 1 december 2011.  
+Deze regeling treedt in werking met ingang van 1 december 2011. 
 
 ### Artikel  7  
 
 ####citeertitel
 
-De regeling zal worden aangehaald als: Cusumsysteem Erkenninghouder ASP installateur.  
+De regeling zal worden aangehaald als: Cusumsysteem Erkenninghouder ASP installateur. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De directie van de RDW, namens deze: 

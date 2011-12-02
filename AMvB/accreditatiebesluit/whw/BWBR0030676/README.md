@@ -24,13 +24,13 @@ a. de wijze waarop de tekortkomingen moeten worden weggenomen;
 
 b. de wijze waarop en de termijn waarbinnen uiterlijk door het instellingsbestuur aan het accreditatieorgaan moet worden gerapporteerd; en  
 
-c. de berichtgeving door het instellingsbestuur over de gestelde voorwaarden aan studenten en andere belanghebbenden.     
+c. de berichtgeving door het instellingsbestuur over de gestelde voorwaarden aan studenten en andere belanghebbenden.    
 
 ### Artikel  2  
 
 ####Herstelperiode accreditatie
 
-Het accreditatieorgaan besluit de geldigheidsduur van een accreditatie of een toets nieuwe opleiding te verlengen indien een of meer van de kwaliteitsaspecten van de opleiding, genoemd in [artikel 5a.8, tweede lid, onderdelen b tot en met f](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), respectievelijk [artikel 5a.13f, eerste lid, onderdelen b en c, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), weliswaar als onvoldoende worden beoordeeld maar de tekortkomingen naar zijn opvatting binnen een redelijke termijn kunnen worden weggenomen.  
+Het accreditatieorgaan besluit de geldigheidsduur van een accreditatie of een toets nieuwe opleiding te verlengen indien een of meer van de kwaliteitsaspecten van de opleiding, genoemd in [artikel 5a.8, tweede lid, onderdelen b tot en met f](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), respectievelijk [artikel 5a.13f, eerste lid, onderdelen b en c, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), weliswaar als onvoldoende worden beoordeeld maar de tekortkomingen naar zijn opvatting binnen een redelijke termijn kunnen worden weggenomen. 
 
 ### Artikel  3  
 
@@ -43,19 +43,19 @@ a. de wijze waarop de tekortkomingen moeten worden weggenomen:
 
 b. de wijze waarop en de termijn waarbinnen uiterlijk door het instellingsbestuur aan het accreditatieorgaan moet worden gerapporteerd, en  
 
-c. de berichtgeving door het instellingsbestuur over de gestelde voorwaarden aan studenten en andere belanghebbenden.     
+c. de berichtgeving door het instellingsbestuur over de gestelde voorwaarden aan studenten en andere belanghebbenden.    
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Acccreditatiebesluit WHW.  
+Dit besluit wordt aangehaald als: Acccreditatiebesluit WHW. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -63,13 +63,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 oktober 2011  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 H. Zijlstra   
 
-De Minister van Economische Zaken, Landbouw en Innovatie, 
+De Minister van Economische Zaken, Landbouw en Innovatie,  
 M. J. M. Verhagen   
 
 de *drieëntwintigste* november 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

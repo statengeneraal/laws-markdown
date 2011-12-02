@@ -10,21 +10,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *steekproef:* mededeling uitoefening toezicht na melding als bedoeld in [artikel 17 van de Regeling erkenning werkplaatsen boordcomputer taxi](../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md)  
+a.  *steekproef:* mededeling uitoefening toezicht na melding als bedoeld in [artikel 17 van de Regeling erkenning werkplaatsen boordcomputer taxi](../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md)  
 
-b. *cusumsysteem:* het systeem van bonus- en strafpunten;  
+b.  *cusumsysteem:* het systeem van bonus- en strafpunten;  
 
-c. *cusumbijdrage:* de bijdrage aan straf- en bonuspunten van een controle;  
+c.  *cusumbijdrage:* de bijdrage aan straf- en bonuspunten van een controle;  
 
-d. *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van de steekproeven;  
+d.  *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van de steekproeven;  
 
-e. *gradatie:* kwalificatie van een gebrek uitgedrukt in strafpunten bij toepassing van de activering of heractivering van de boordcomputer taxi;  
+e.  *gradatie:* kwalificatie van een gebrek uitgedrukt in strafpunten bij toepassing van de activering of heractivering van de boordcomputer taxi;  
 
-f. *klasse:* classificatie voor de kwaliteit van werken bij de toepassing van de activering of heractivering door de erkenninghouder; de 3 klassen geven tevens een indicatie voor de kans op het aantal uit te voeren steekproeven.    
+f.  *klasse:* classificatie voor de kwaliteit van werken bij de toepassing van de activering of heractivering door de erkenninghouder; de 3 klassen geven tevens een indicatie voor de kans op het aantal uit te voeren steekproeven.   
 
 ### Artikel  2  
 
-Het cusumsysteem wordt toegepast bij steekproeven ten behoeve van het meten van de kwaliteit bij het toepassen van de voorschriften voor activering en heractivering van de boordcomputer taxi.  
+Het cusumsysteem wordt toegepast bij steekproeven ten behoeve van het meten van de kwaliteit bij het toepassen van de voorschriften voor activering en heractivering van de boordcomputer taxi. 
 
 ### Artikel  3  
 
@@ -36,7 +36,7 @@ b. gradatie 2: een ernstig gebrek dat 3 strafpunten oplevert;
 
 c. gradatie 3: een kritiek gebrek waarbij sprake is van een apert onjuiste activering dan wel deactivering dat 3 strafpunten oplevert en waarbij terstond intrekking van de erkenning wordt overwogen.     
 2.  Goedkeuring van een activering van een boordcomputer levert de vastgestelde bonus van 0,6 punt op.   
-3.  De cusumbijdrage wordt berekend aan de hand van de formule: totaal aantal strafpunten per controle minus het bonuspunt.   
+3.  De cusumbijdrage wordt berekend aan de hand van de formule: totaal aantal strafpunten per controle minus het bonuspunt.  
 
 ### Artikel  4  
 
@@ -60,7 +60,7 @@ c. de penalty klasse (P), waarbij de startwaarde 4,5 is indien:
 
 3°. de som van de cusumbijdragen van de laatste 5 steekproeven groter is dan 5.       
 2.  De kans op steekproeven in genoemde klassen wordt bepaald door de verhouding N : C : P = 2 : 1 : 6.   
-3.  Plaatsing in de C-klasse geeft aanleiding tot verminderd toezicht en plaatsing in de P-klasse tot verscherpt toezicht.   
+3.  Plaatsing in de C-klasse geeft aanleiding tot verminderd toezicht en plaatsing in de P-klasse tot verscherpt toezicht.  
 
 ### Artikel  5  
 
@@ -82,15 +82,15 @@ b. een gebrek van gradatie 3 wordt geconstateerd;
 
 c. één afzonderlijke cusumbijdrage 9,4 of hoger is;  
 
-d. binnen een periode van 12 maanden de erkenninghouder driemaal in de P-klasse is geplaatst.    
+d. binnen een periode van 12 maanden de erkenninghouder driemaal in de P-klasse is geplaatst.   
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de eerste dag van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de eerste dag van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling cusumsysteem boordcomputer taxi.  
+Deze regeling wordt aangehaald als: Regeling cusumsysteem boordcomputer taxi. 
 Deze regeling wordt met toelichting in de Staatscourant geplaatst.   
 
 Zoetermeer 
