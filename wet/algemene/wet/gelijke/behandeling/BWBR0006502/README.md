@@ -22,9 +22,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. onderscheid: direct en indirect onderscheid, alsmede de opdracht daartoe;  
 
-b. direct onderscheid: onderscheid tussen personen op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;  
+b. direct onderscheid: indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;  
 
-c. indirect onderscheid: onderscheid op grond van andere hoedanigheden of gedragingen dan die bedoeld in onderdeel *b*, dat direct onderscheid tot gevolg heeft.     
+c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.     
 2.  Onder direct onderscheid op grond van geslacht wordt mede verstaan onderscheid op grond van zwangerschap, bevalling en moederschap.   
 
 ### Artikel  1a  
@@ -105,7 +105,13 @@ a. de vrijheid van een instelling op godsdienstige of levensbeschouwelijke grond
 b. de vrijheid van een instelling op politieke grondslag om eisen te stellen, die gelet op het doel van de instelling, nodig zijn voor de vervulling van een functie, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat en  
 
 c. de vrijheid van een instelling van bijzonder onderwijs om eisen te stellen over de vervulling van een functie, die, gelet op het doel van de instelling, nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat.     
-3.  Het eerste lid is niet van toepassing op eisen, die, gelet op het privé-karakter van de werkverhouding in redelijkheid aan een werkverhouding kunnen worden gesteld.   
+3.  Het eerste lid is niet van toepassing indien: 
+
+a. de werkverhouding een privékarakter heeft,  
+
+b. het verschil in behandeling berust op een kenmerk dat verband houdt met godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat, en  
+
+c. dat kenmerk vanwege de aard van de betrokken specifieke beroepsactiviteit of de context waarin deze wordt uitgeoefend, een wezenlijk en bepalend beroepsvereiste vormt, mits het doel legitiem is en het vereiste evenredig is aan dat doel.     
 4.  Het eerste lid is niet van toepassing op eisen met betrekking tot de politieke gezindheid die in redelijkheid kunnen worden gesteld in verband met de vervulling van functies in bestuursorganen en adviesorganen.   
 5.  Het eerste lid is niet van toepassing op eisen met betrekking tot de politieke gezindheid die in redelijkheid kunnen worden gesteld in verband met de vervulling van vertrouwensfuncties.   
 6.  Het eerste lid, onderdeel e, is niet van toepassing op onderscheid op grond van burgerlijke staat met betrekking tot nabestaandenpensioen-voorzieningen en met betrekking tot aanspraken op pensioen die vóór de datum van inwerkingtreding van [artikel I, onderdeel B, van de wet van 21 december 2000, houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten in verband met het recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen](../../../../../../wet/wijzigingswet/pensioen-/en/spaarfondsenwet/(recht/van/keuze/voor/etc/BWBR0012090/README.md) (Stb. 625), zijn opgebouwd.   
@@ -138,8 +144,14 @@ b. door de openbare dienst;
 c. door instellingen die werkzaam zijn op het gebied van volkshuisvesting, welzijn, gezondheidszorg, cultuur of onderwijs of  
 
 d. door natuurlijke personen die niet handelen in de uitoefening van een beroep of bedrijf, voor zover het aanbod in het openbaar geschiedt.     
-2.  Het eerste lid, onderdeel *c*, laat onverlet de vrijheid van een instelling van bijzonder onderwijs om bij de toelating en ten aanzien van de deelname aan het onderwijs eisen te stellen, die gelet op het doel van de instelling nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat. Onderscheid op grond van geslacht is alleen toegestaan, indien de eigen aard van de instelling dit eist en voor leerlingen van beide geslachten gelijkwaardige voorzieningen aanwezig zijn.   
-3.  Het eerste lid, onderdelen *a* en *d*, is niet van toepassing op eisen die gelet op het privé-karakter van de omstandigheden waarop de rechtsverhouding ziet in redelijkheid kunnen worden gesteld.   
+2.  Het eerste lid, onderdeel c, laat onverlet de vrijheid van een instelling van bijzonder onderwijs om bij de toelating en ten aanzien van de deelname aan het onderwijs eisen te stellen, die gelet op het doel van de instelling nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat. Onderscheid op grond van geslacht is alleen toegestaan, indien de eigen aard van de instelling dit eist en voor leerlingen van beide geslachten gelijkwaardige voorzieningen aanwezig zijn.   
+3.  Het eerste lid, onderdelen a en d, is niet van toepassing indien: 
+
+a. de rechtsverhouding een privékarakter heeft,  
+
+b. het verschil in behandeling berust op een kenmerk dat verband houdt met godsdienst, levensovertuiging, politieke gezindheid, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat, en  
+
+c. het verschil in behandeling door een legitiem doel wordt gerechtvaardigd en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.     
 
 ### Artikel  7a  
 

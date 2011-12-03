@@ -18,9 +18,9 @@ In deze wet wordt verstaan onder:
 
 a. onderscheid: direct en indirect onderscheid, alsmede de opdracht daartoe;  
 
-b. direct onderscheid: onderscheid tussen personen op grond van een werkelijke of vermeende handicap of chronische ziekte;  
+b. direct onderscheid: indien een persoon op grond van handicap of chronische ziekte op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld;  
 
-c. indirect onderscheid: onderscheid op grond van andere hoedanigheden of gedragingen dan die bedoeld in onderdeel b, dat direct onderscheid tot gevolg heeft.    
+c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een handicap of chronische ziekte in vergelijking met andere personen bijzonder treft.    
 
 ### Artikel  1a  
 

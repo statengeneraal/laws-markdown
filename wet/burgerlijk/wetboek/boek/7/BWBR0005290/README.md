@@ -595,7 +595,7 @@ e. betaling van enige andere vergoeding.
 ### Artikel  50g  
 
 1.  Op de overeenkomst betreffende een vakantieproduct van lange duur zijn de artikelen 50a tot en met 50f van overeenkomstige toepassing, met dien verstande dat de informatie, bedoeld in artikel 50b, wordt verstrekt overeenkomstig het in bijlage II bij de richtlijn opgenomen model.   
-2..  De prijs van de overeenkomst betreffende een vakantieproduct van lange duur, met inbegrip van de eventuele ledencontributie, wordt voldaan in gelijke jaarlijkse termijnen. Elke andere betaling geldt als onverschuldigd.   
+2.  De prijs van de overeenkomst betreffende een vakantieproduct van lange duur, met inbegrip van de eventuele ledencontributie, wordt voldaan in gelijke jaarlijkse termijnen. Elke andere betaling geldt als onverschuldigd.   
 3.  De handelaar zendt de consument ten minste veertien dagen voor elke vervaldag van een betalingstermijn schriftelijk, op een duurzame gegevensdrager, een verzoek om betaling.   
 4.  De consument kan vanaf de tweede betalingstermijn de overeenkomst opzeggen zonder dat hij een boete verschuldigd is door binnen veertien dagen na ontvangst van het betalingsverzoek, bedoeld in het vorige lid, een daartoe strekkende verklaring te zenden aan de handelaar.   
 
@@ -3861,6 +3861,10 @@ f. hij verlof als bedoeld in [hoofdstuk 5, afdeling 2, van de Wet arbeid en zorg
 1.  De werknemer kan tijdens de duur van de arbeidsovereenkomst geen afstand doen van zijn aanspraak op vakantie tegen schadevergoeding.   
 2.  Indien een aanspraak op vakantie is verworven die het in artikel 634 bedoelde minimum te boven gaat, kan voorzover die aanspraak dat minimum te boven gaat, bij schriftelijke overeenkomst van lid 1 worden afgeweken.   
 
+### Artikel  640a  
+
+De aanspraak op het minimum, bedoeld in artikel 634, vervalt zes maanden na de laatste dag van het kalenderjaar waarin de aanspraak is verworven, tenzij de werknemer tot aan dat tijdstip redelijkerwijs niet in staat is geweest vakantie op te nemen. Bij schriftelijke overeenkomst kan ten gunste van de werknemer worden afgeweken van de termijn van zes maanden, bedoeld in de eerste zin.  
+
 ### Artikel  641  
 
 1.  Een werknemer die bij het einde van de arbeidsovereenkomst nog aanspraak op vakantie heeft, heeft recht op een uitkering in geld tot een bedrag van het loon over een tijdvak overeenkomend met de aanspraak, tenzij artikel 639 lid 2 van toepassing is.   
@@ -3893,7 +3897,13 @@ Van de artikelen 634 tot en met 643 kan niet ten nadele van de werknemer worden 
 2.  Van lid 1 mag, voor zover het betreft het aangaan van de arbeidsovereenkomst en het verstrekken van onderricht, worden afgeweken indien het gemaakte onderscheid is gebaseerd op een kenmerk dat verband houdt met het geslacht en dat kenmerk wegens de aard van de betrokken specifieke beroepsactiviteiten of de context waarin deze worden uitgevoerd, een wezenlijk en bepalend beroepsvereiste is, mits het doel legitiem is en het vereiste evenredig aan dat doel is. Daarbij is [artikel 5, derde lid, van de Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) van overeenkomstige toepassing.   
 3.  Van lid 1 mag worden afgeweken indien het bedingen betreft die op de bescherming van de vrouw, met name in verband met zwangerschap of moederschap, betrekking hebben.   
 4.  Van lid 1 mag worden afgeweken indien het bedingen betreft die vrouwelijke werknemers in een bevoorrechte positie beogen te plaatsen ten einde nadelen op te heffen of te verminderen en het onderscheid in een redelijke verhouding staat tot het beoogde doel.   
-5.  In dit artikel wordt onder onderscheid verstaan direct en indirect onderscheid alsmede de opdracht tot het maken van onderscheid. Onder direct onderscheid wordt verstaan onderscheid tussen mannen en vrouwen. Onder direct onderscheid wordt mede verstaan onderscheid op grond van zwangerschap, bevalling en moederschap. Onder indirect onderscheid wordt verstaan onderscheid op grond van andere hoedanigheden dan het geslacht, bijvoorbeeld echtelijke staat of gezinsomstandigheden, dat onderscheid op grond van geslacht tot gevolg heeft.   
+5.  In dit artikel wordt verstaan onder: 
+
+a. onderscheid: direct en indirect onderscheid, alsmede de opdracht daartoe;  
+
+b. direct onderscheid: indien een persoon op grond van geslacht op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, met dien verstande dat onder direct onderscheid mede wordt verstaan onderscheid op grond van zwangerschap, bevalling en moederschap;  
+
+c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen van een bepaald geslacht in vergelijking met andere personen bijzonder treft.     
 6.  Het in dit artikel neergelegde verbod van direct onderscheid houdt mede in een verbod op intimidatie en een verbod op seksuele intimidatie.   
 7.  Onder intimidatie als bedoeld in lid 6 wordt verstaan: gedrag dat met het geslacht van een persoon verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.   
 8.  Onder seksuele intimidatie als bedoeld in lid 6 wordt verstaan: enige vorm van verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast, in het bijzonder wanneer een bedreigende, vijandige, beledigende, vernederende of kwetsende situatie wordt gecreëerd.   
@@ -4462,6 +4472,507 @@ De uitzendovereenkomst is de arbeidsovereenkomst waarbij de werknemer door de we
 
 1.  Indien de arbeid in Nederland wordt verricht, zijn de werkgever en de derde, ongeacht het op de arbeidsovereenkomst en de overeenkomst tussen de werkgever en de derde toepasselijke recht, hoofdelijk aansprakelijk voor de voldoening van het toepasselijke minimumloon en de toepasselijke minimumvakantiebijslag, bedoeld in de [artikelen 7](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) en [15 van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
 2.  Het eerste lid is niet van toepassing op de derde, indien op het moment van het totstandkomen van de overeenkomst tussen de werkgever en de derde de werkgever gecertificeerd is door een door de Raad voor Accreditatie erkende certificerende instelling overeenkomstig bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid aan te wijzen normen, voor zover deze normen betrekking hebben op de naleving van de [artikelen 7](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) en [15 van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
+
+### Artikel  693  
+
+Indien de arbeid aan boord van een zeeschip als bedoeld in artikel 695 lid 1 wordt verricht, is de derde, ongeacht het op de arbeidsovereenkomst en de overeenkomst tussen de werkgever en de derde toepasselijke recht, aansprakelijk voor de nakoming van de uit de artikelen 706 tot en met 709, 717 tot en met 720, 734 tot en met 734l voortvloeiende verplichtingen, indien de werkgever met de nakoming daarvan in gebreke is.  
+
+### Afdeling  12  
+
+####Bijzondere bepalingen terzake van de zee-arbeidsovereenkomst
+
+####Algemene bepalingen
+
+### Artikel  694  
+
+1.  De zee-arbeidsovereenkomst is de arbeidsovereenkomst, waaronder begrepen de uitzendovereenkomst, waarbij de zeevarende zich verbindt arbeid aan boord van een zeeschip te verrichten.   
+2.  Bij algemene maatregel van bestuur kunnen, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, categorieën van zeevarenden worden aangewezen die niet worden aangemerkt als zeevarenden als bedoeld in lid 1.   
+
+### Artikel  695  
+
+1.  Deze afdeling is van toepassing op zeeschepen die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.   
+2.  In deze afdeling wordt onder scheepsbeheerder verstaan de scheepsbeheerder, bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet zeevarenden](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md).   
+
+### Artikel  696  
+
+1.  Op de zee-arbeidsovereenkomst zijn de bepalingen van de afdelingen 1 tot en met 9 en 11 van deze titel van toepassing, voor zover daarvan in deze afdeling niet is afgeweken. De artikelen 617 en 692 zijn niet van toepassing ten aanzien van de dienst aan boord van het zeeschip.   
+2.  Van de artikelen 697 lid 2, 698, 699, 700, 705, 706, 709, 711, 712, 720, 721, 728 en 735 tot en met 738 van deze afdeling kan niet worden afgeweken.   
+3.  Van de artikelen 697 lid 1, 707, 708, 710, 714, 715, 717 tot en met 719, 723, 724, 729, 730 en 734 tot en met 734l kan niet ten nadele van de zeevarende worden afgeweken.   
+
+### Artikel  697  
+
+1.  De zee-arbeidsovereenkomst moet door partijen schriftelijk worden aangegaan en door hen worden ondertekend.   
+2.  Ieder der partijen dient te beschikken over een ondertekend origineel exemplaar van de zee-arbeidsovereenkomst.   
+
+### Artikel  698  
+
+Iedere zeevarende moet aan boord kennis kunnen nemen van zijn zee-arbeidsovereenkomst en van de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan alsmede op eenvoudige wijze duidelijke informatie kunnen krijgen over niet daarin voorkomende arbeidsvoorwaarden.  
+
+### Artikel  699  
+
+De zee-arbeidsovereenkomst vermeldt in ieder geval: 
+
+1. de naam en de voornamen van de zeevarende, de dag van zijn geboorte of zijn leeftijd en zijn geboorteplaats of het onbekend zijn van een of meer van deze gegevens;  
+
+2. de naam en het adres van de werkgever;  
+
+3. de plaats en de dag van het aangaan van de zee-arbeidsovereenkomst;  
+
+4. de aanduiding van het zeeschip of de zeeschepen waarop de zeevarende zich verbindt dienst te doen of de bepaling dat hij dienst zal doen op een of meer door de werkgever aan te wijzen zeeschepen;  
+
+5. de te ondernemen reis of reizen, als deze reeds vaststaan;  
+
+6. het bedrag van het loon van de zeevarende en, voor zover van toepassing, de wijze van berekening;  
+
+7. de aanspraak op vakantie of de wijze van berekening van deze aanspraak;  
+
+8. het bedrag van het tijdens de vakantie door te betalen loon en, voor zover van toepassing, de wijze van berekening;  
+
+9. de door de werkgever aan de zeevarende te verstrekken prestaties voor geneeskundige zorg en sociale zekerheidsuitkeringen;  
+
+10. de functie waarin de zeevarende in dienst zal treden;  
+
+11. indien mogelijk, de plaats waar en de dag waarop de dienst aan boord zal aanvangen;  
+
+12. de beëindiging van de zee-arbeidsovereenkomst, namelijk: 
+
+a. indien de overeenkomst voor bepaalde tijd wordt aangegaan, de dag waarop deze arbeidsovereenkomst eindigt, met vermelding van de inhoud van artikel 722 of indien de overeenkomst voor bepaalde tijd bij de reis wordt aangegaan, de haven overeengekomen voor de beëindiging van de overeenkomst of indien de reis eindigt in een andere dan de overeengekomen haven van de inhoud van artikel 723;  
+
+b. indien de overeenkomst voor onbepaalde tijd wordt aangegaan, de inhoud van artikel 724 lid 1, eerste volzin;    
+
+13. de aanspraak van de zeevarende op repatriëring;  
+
+14. een verwijzing naar de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.    
+
+### Artikel  700  
+
+Een zeevarende kan niet worden beperkt in zijn bevoegdheid om na het einde van de zee-arbeidsovereenkomst op zekere wijze werkzaam te zijn.  
+
+### Artikel  701  
+
+Vanaf het in de zee-arbeidsovereenkomst vastgelegde tijdstip van aanvang van de arbeidsovereenkomst heeft de zeevarende zich voor de uitoefening van zijn functie ter beschikking te houden van de werkgever. Is over de aanvang van de zee-arbeidsovereenkomst niets bepaald, dan valt deze voor de toepassing van dit artikel samen met het aangaan daarvan.  
+
+### Artikel  702  
+
+De zeevarende is in dienst aan boord van het zeeschip vanaf het tijdstip dat hij zijn werkzaamheden aan boord aanvangt tot het tijdstip waarop hij van zijn werkzaamheden aan boord wordt ontheven of hij deze neerlegt.  
+
+### Artikel  703  
+
+De kapitein vertegenwoordigt de werkgever in de uitvoering van de zee-arbeidsovereenkomsten met de zeevarenden, die in dienst zijn aan boord van het door hem gevoerde zeeschip.  
+
+### Artikel  704  
+
+1.  De zeevarende is verplicht de hem door de kapitein opgedragen werkzaamheden te verrichten, ook indien het andere werkzaamheden betreft dan hij heeft te verrichten overeenkomstig de functie, waarin hij volgens de zee-arbeidsovereenkomst aan boord dienst doet.   
+2.  De zeevarende is verplicht mee te werken aan het behoud van het zeeschip, de opvarenden en de zaken aan boord.   
+
+### Artikel  705  
+
+In zaken betreffende een zee-arbeidsovereenkomst of een collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan is, ongeacht het toepasselijke recht, de kantonrechter van de rechtbank Rotterdam bij uitsluiting bevoegd, tenzij in deze afdeling anders is bepaald.  
+
+####Loon
+
+### Artikel  706  
+
+1.  Voldoening van het in geld vastgestelde deel van het in dienst aan boord van een zeeschip verdiende loon geschiedt: 
+
+a. in de munt, waarin het in de zee-arbeidsovereenkomst is uitgedrukt;  
+
+b. in de munt, gangbaar ter plaatse van de voldoening;  
+
+c. door girale betaling als bedoeld in [artikel 114 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).     
+2.  Indien omrekening nodig is, geschiedt deze naar de koers, bedoeld in de [artikelen 124](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [126 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+
+### Artikel  707  
+
+1.  De zeevarende kan de werkgever schriftelijk verzoeken zijn loon geheel of gedeeltelijk over te maken aan door de zeevarende aan te wijzen personen. Indien omrekening nodig is, geschiedt deze naar de koers, bedoeld in de [artikelen 124](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [126 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+2.  Het schriftelijke verzoek om beëindiging van de in lid 1 bedoelde overmaking wordt uiterlijk een maand voor de eerstvolgende betaaldag gedaan.   
+
+### Artikel  708  
+
+1.  De zeevarende heeft recht op voldoening van het in dienst aan boord van een zeeschip verdiende loon: 
+
+a. indien het naar tijdruimte is vastgesteld, in iedere haven, die het zeeschip gedurende de reis aandoet, mits zeven dagen zijn verlopen sedert de laatste uitbetaling;  
+
+b. indien het niet naar tijdruimte is vastgesteld, op de in de zee-arbeidsovereenkomst vastgelegde tijdstippen voor voldoening, of, bij stilzwijgen daarvan, door het gebruik en de billijkheid, met dien verstande dat de voldoening telkens uiterlijk na een maand geschiedt.     
+2.  De voldoening van het in lid 1 onder a bedoelde loon geschiedt uiterlijk op de dag volgende op die van de aankomst, maar in ieder geval voor het vertrek uit de haven, met dien verstande dat de betalingen elkaar opvolgen met tussenpozen van niet meer dan een maand.   
+
+### Artikel  709  
+
+1.  Verricht de zeevarende arbeid langer dan de door de wet of de zee-arbeidsovereenkomst bepaalde normale arbeidsduur dan heeft hij voor die extra uren recht op een toeslag op het loon, tenzij de kapitein deze arbeid noodzakelijk acht tot behoud van het schip, de opvarenden of de zaken aan boord. Het bedrag van de toeslag wordt bepaald door de zee-arbeidsovereenkomst of, bij stilzwijgen daarvan, door het gebruik of de billijkheid.   
+2.  Bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan kan worden bepaald dat in het loon een vergoeding voor overwerk is begrepen.   
+3.  De kapitein doet van ieder geval van overwerk aantekening in een daartoe bestemd register. Elke aantekening wordt ondertekend door de zeevarende binnen een termijn van ten hoogste een maand.   
+
+### Artikel  710  
+
+Verricht de zeevarende andere werkzaamheden dan hij heeft te verrichten overeenkomstig de functie, waarin hij volgens de zee-arbeidsovereenkomst aan boord dienst doet, dan heeft hij recht op het daarmee overeenkomende loon indien dit hoger is dan het loon voortvloeiende uit de zee-arbeidsovereenkomst.  
+
+### Artikel  711  
+
+Werkt de zeevarende mee aan het behoud van het zeeschip, de opvarenden en de zaken aan boord, dan heeft hij recht op een buitengewone beloning voor de dagen, gedurende welke hij tot dit behoud werkzaam is geweest.  
+
+### Artikel  712  
+
+Indien een zeeschip, dat niet tot het verrichten van sleepdienst is bestemd, aan een ander in open zee aangetroffen schip sleepdienst bewijst onder omstandigheden die geen aanspraak op hulploon geven, hebben de zeevarenden recht op een aandeel in het sleeploon. De werkgever deelt iedere zeevarende voor de uitbetaling desgevraagd het bedrag van het sleeploon en de verdeling daarvan schriftelijk mee.  
+
+### Artikel  713  
+
+Een rechtsvordering op grond van de artikelen 709 tot en met 712 verjaart na verloop van zes maanden na het ontstaan van het vorderingsrecht.  
+
+### Artikel  714  
+
+Voor zover het in geld uitgedrukte deel van het loon is vastgesteld bij de reis, heeft de zeevarende recht op een evenredige verhoging van het loon, als de reis door toedoen van de scheepsbeheerder, door molest of door verblijf in een noodhaven of een andere soortgelijke reden wordt verlengd in het belang van het zeeschip, de opvarenden en de zaken aan boord.  
+
+### Artikel  715  
+
+De in artikel 626 bedoelde opgave wordt maandelijks verstrekt en bevat tevens een opgave van de munteenheid of de koers die afwijkt van hetgeen is overeengekomen.  
+
+### Artikel  716  
+
+Geen loon is verschuldigd voor de tijd gedurende welke de zeevarende zonder deugdelijke grond heeft geweigerd de bedongen arbeid of andere opgedragen werkzaamheden te verrichten.  
+
+####Vakantie
+
+### Artikel  717  
+
+1.  De zeevarende verwerft over ieder jaar waarin hij gedurende de volledige overeengekomen arbeidsduur recht op loon heeft gehad, aanspraak op vakantie van ten minste 30 kalenderdagen.   
+2.  De zeevarende behoudt zijn aanspraak op vakantie over het tijdvak gedurende hetwelk hij studieverlof geniet.   
+3.  Tot vakantie worden niet gerekend: 
+
+a. officieel of algemeen erkende feestdagen;  
+
+b. tijdelijk verlof om aan wal te gaan;  
+
+c. compensatieverlof;  
+
+d. de duur van het vervoer, bedoeld in lid 6;  
+
+e. de tijd doorgebracht in afwachting van repatriëring en de reisduur in verband met repatriëring.     
+4.  De werkgever is verplicht om de vakantie, bedoeld in lid 1, aaneengesloten te geven. Van deze verplichting kan worden afgeweken bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.   
+5.  De vakantie, bedoeld in lid 1 en in artikel 641 lid 3, wordt desverzocht aan de zeevarende gegeven in de plaats waar de dienst aan boord is aangevangen, of de plaats waar de zee-arbeidsovereenkomst is aangegaan, al naar gelang die plaats het dichtst is gelegen bij de woonplaats of gewone verblijfplaats van de zeevarende. Van dit lid kan worden afgeweken bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.   
+6.  Indien de zeevarende genoodzaakt is de vakantie, bedoeld in lid 1 en in artikel 641 lid 3, aan te vangen op een andere plaats dan die bedoeld in lid 5, zorgt de werkgever voor kosteloos vervoer naar die andere plaats en voor betaling van de kosten van levensonderhoud gedurende dat vervoer.   
+7.  De werkgever heeft de bevoegdheid een zeevarende die zijn vakantie, bedoeld in lid 1 en in artikel 641 lid 3, geniet, terug te roepen indien daartoe gewichtige redenen zijn en na overleg met de zeevarende. De schade die de zeevarende hierdoor lijdt, wordt door de werkgever vergoed.   
+8.  Een rechtsvordering tot toekenning van vakantie verjaart door verloop van drie jaren na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.   
+
+####Repatriëring
+
+### Artikel  718  
+
+1.  De zeevarende heeft recht op repatriëring op een snelle en geschikte wijze, zo mogelijk per vliegtuig, naar een door hem gekozen plaats van bestemming in geval: 
+
+a. van beëindiging van de zee-arbeidsovereenkomst;  
+
+b. van ziekte die repatriëring vereist;  
+
+c. van herstel van ziekte, indien hij ter verpleging is achtergelaten buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft of de plaats waar de zee-arbeidsovereenkomst is aangegaan;  
+
+d. van schipbreuk;  
+
+e. de werkgever niet in staat is zijn wettelijke of contractuele verplichtingen na te komen wegens faillissement, verkoop van het zeeschip, verandering in de registratie van het zeeschip of wegens een andere soortgelijke reden;  
+
+f. het zeeschip koers zet naar een oorlogsgebied, terwijl de zeevarende weigert naar dat gebied te gaan, of  
+
+g. van verloop van een termijn van maximaal 12 maanden waarin de zeevarende aan boord werkzaam is geweest.     
+2.  In geval van repatriëring is de werkgever verplicht de volgende kosten te vergoeden: 
+
+a. de reis naar de plaats van bestemming;  
+
+b. huisvesting en voeding vanaf de dag waarop de zeevarende het zeeschip heeft verlaten totdat hij de plaats van bestemming heeft bereikt;  
+
+c. loon en vergoedingen vanaf de dag dat de zeevarende het zeeschip heeft verlaten totdat hij de plaats van bestemming heeft bereikt;  
+
+d. medische behandeling, indien nodig, totdat de gezondheidstoestand van de zeevarende het toelaat naar de plaats van bestemming te reizen.     
+3.  Als plaats van bestemming wordt aangemerkt: 
+
+a. de plaats waar de zee-arbeidsovereenkomst is aangegaan;  
+
+b. het land waar de zeevarende zijn woonplaats of gewone verblijfplaats heeft, of  
+
+c. de plaats die in de zee-arbeidsovereenkomst of de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan is bepaald.     
+4.  Het in lid 1 bedoelde recht vervalt indien de zeevarende niet binnen twee dagen, nadat een van de in lid 1 onder a, c, d, e, f en g genoemde omstandigheden zich heeft voorgedaan, zijn wens tot repatriëring kenbaar maakt aan de kapitein. Bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan kan een langere termijn worden overeengekomen.   
+5.  Een afschrift van de wettelijke bepalingen inzake repatriëring is zowel in de Nederlandse als in de Engelse taal voor de zeevarende aan boord beschikbaar.   
+6.  Indien de werkgever de verplichtingen inzake repatriëring niet tijdig nakomt, is de scheepsbeheerder aansprakelijk voor de nakoming daarvan.   
+
+####Vergoeding in geval van schipbreuk of andere ramp aan het zeeschip en in geval van overlijden van de zeevarende
+
+### Artikel  719  
+
+1.  De werkgever is jegens de zeevarende aansprakelijk voor de schade die de zeevarende lijdt als gevolg van schipbreuk of een andere aan het zeeschip overkomen ramp.   
+2.  In geval van geheel of gedeeltelijk verlies van de uitrusting van de zeevarende ten gevolge van schipbreuk of andere ramp heeft de zeevarende aanspraak op een uitkering, waarvan de hoogte wordt vastgesteld bij algemene maatregel van bestuur.   
+3.  In geval van werkloosheid ten gevolge van schipbreuk of andere ramp heeft de zeevarende aanspraak op een uitkering ter hoogte van het bij de zee-arbeidsovereenkomst in geld vastgestelde deel van het loon voor de duur van de werkloosheid, maar ten hoogste gedurende twee maanden. Indien het loon niet naar tijdruimte is vastgesteld, betreft de uitkering een bedrag gelijk aan het loon dat volgens gebruik bij vaststelling van het gehele loon naar tijdruimte wordt voldaan.   
+4.  De uitkering, bedoeld in het derde lid, wordt verminderd met het loon waarop de zeevarende op grond van artikel 729 recht heeft.   
+5.  Indien de zeevarende bij schipbreuk of andere ramp het leven verliest, komen de in het tweede en derde lid bedoelde uitkeringen toe aan de nagelaten betrekkingen, bedoeld in artikel 674 lid 3.   
+6.  De vorderingen inzake de in het tweede en derde lid bedoelde uitkeringen zijn bevoorrecht op alle roerende en onroerende zaken van de werkgever. Het voorrecht staat in rang gelijk met dat, bedoeld in [artikel 288, onder e, van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+
+### Artikel  720  
+
+1.  Indien de zeevarende overlijdt gedurende de dienst aan boord van het zeeschip of aan de wal in verband met de dienst aan boord, komen voor rekening van de werkgever: 
+
+a. indien de lijkbezorging plaatsvindt buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft, de daartoe gemaakte kosten;  
+
+b. indien de lijkbezorging plaatsvindt in het land waar hij zijn woonplaats of gewone verblijfplaats heeft, de kosten van en in verband met het vervoer van het stoffelijk overschot naar de woonplaats of gewone verblijfplaats in dat land, alsmede de kosten van en in verband met de daartoe noodzakelijke opgraving van het stoffelijk overschot.     
+2.  De kapitein is verplicht te zorgen voor de aan boord achtergelaten zaken van een gedurende de reis ziek geworden, vermiste of overleden zeevarende en hij is verplicht ten overstaan van twee zeevarenden een behoorlijke beschrijving daarvan op te maken, die door hem en door deze zeevarenden wordt ondertekend. De kapitein draagt er zorg voor dat deze zaken worden afgegeven aan de zeevarende of in geval van vermissing of overlijden aan zijn nagelaten betrekkingen, bedoeld in artikel 674 lid 3.   
+3.  Indien de woonplaats of gewone verblijfplaats van de zeevarende of zijn nagelaten betrekkingen onbekend is of de nagelaten betrekkingen onbekend zijn, is de werkgever verplicht de aan boord achtergelaten zaken gedurende drie jaren te bewaren. Na het verstrijken van deze termijn is de werkgever bevoegd de zaken te verkopen of, indien de zaken zich niet voor verkoop lenen, deze om niet aan een derde in eigendom over te dragen of te vernietigen.   
+4.  In geval van verkoop wordt de opbrengst in de consignatiekas gestort. De in de consignatiekas gestorte opbrengst treedt in de plaats van de zaken.   
+
+####Einde van de zee-arbeidsovereenkomst
+
+### Artikel  721  
+
+Indien een proeftijd is overeengekomen, kan hierop geen beroep worden gedaan zolang de dienst aan boord niet is geëindigd.  
+
+### Artikel  722  
+
+De voor bepaalde tijd aangegane of voortgezette zee-arbeidsovereenkomst eindigt in de eerste haven, die het zeeschip aandoet nadat die tijd is verstreken en, voor zover nodig, opzegging heeft plaatsgevonden.  
+
+### Artikel  723  
+
+1.  De zee-arbeidsovereenkomst voor bepaalde tijd, aangegaan bij de reis, eindigt na afloop van de reis of de reizen waarvoor zij is aangegaan.   
+2.  Indien de reis eindigt in een andere haven dan overeengekomen, eindigt de zee-arbeidsovereenkomst op het tijdstip waarop de zeevarende overeenkomstig artikel 718 is gerepatrieerd. Indien het recht van de zeevarende op repatriëring is vervallen, eindigt de zee-arbeidsovereenkomst in de andere haven, bedoeld in de eerste volzin, op het moment waarop dit recht is vervallen.   
+
+### Artikel  724  
+
+1.  Gedurende de tijd dat de zeevarende in dienst is aan boord van een zeeschip kan ieder der partijen de voor onbepaalde tijd aangegane zee-arbeidsovereenkomst door schriftelijke opzegging doen eindigen in iedere haven die wordt aangedaan met inachtneming van een termijn van opzegging van ten minste zeven dagen. De termijn van opzegging mag voor de werkgever niet korter worden gesteld dan voor de zeevarende.   
+2.  Lid 1 is mede van toepassing als de werkgever overlijdt gedurende de tijd dat de zeevarende in dienst is aan boord van een zeeschip, en hetzij de erfgenamen van de werkgever, hetzij de zeevarende gebruik willen maken van de bevoegdheid in artikel 675.   
+
+### Artikel  725  
+
+Gedurende een reis van het zeeschip kan ieder der partijen de zee-arbeidsovereenkomst slechts op de voet van artikel 677 lid 1 opzeggen tegen het tijdstip, waarop het zeeschip zich in een haven bevindt.  
+
+### Artikel  726  
+
+Behalve in de gevallen, genoemd in artikel 678 lid 2, zullen voor de werkgever dringende redenen onder andere aanwezig geacht kunnen worden, wanneer: 
+
+a. de zeevarende een opvarende van het zeeschip mishandelt, grovelijk beledigt of op ernstige wijze bedreigt of hem verleidt of tracht te verleiden tot handelingen strijdig met de wet of de goede zeden;  
+
+b. de zeevarende zich niet op grond van artikel 701 ter beschikking houdt van de werkgever;  
+
+c. de zeevarende hetzij tijdelijk, hetzij voorgoed de bevoegdheid wordt ontnomen op een zeeschip dienst te doen in de functie waarin hij zich verbonden heeft dienst te doen;  
+
+d. de zeevarende smokkelwaren aan boord heeft gebracht of daar onder zijn berusting heeft of in geval van de kapitein, hij smokkelwaren aan boord heeft gebracht, daar onder zijn berusting heeft of daar heeft toegelaten.    
+
+### Artikel  727  
+
+Behalve in de gevallen, genoemd in artikel 679 lid 2, zullen voor de zeevarende dringende redenen aanwezig geacht kunnen worden, wanneer: 
+
+a. hem orders worden gegeven die in strijd zijn met de zee-arbeidsovereenkomst of met wettelijke verplichtingen van de zeevarende;  
+
+b. het zeeschip bestemd wordt naar een haven van een land dat in een gewapend conflict is gewikkeld of naar een haven die is geblokkeerd, tenzij de zee-arbeidsovereenkomst dit uitdrukkelijk voorziet en is aangegaan na het uitbreken van het conflict of na het afkondigen van de blokkade;  
+
+c. hem orders worden gegeven te vertrekken naar een vijandelijke haven;  
+
+d. het zeeschip wordt gebruikt in een gewapend conflict;  
+
+e. het zeeschip wordt gebruikt voor het plegen van misdrijven;  
+
+f. voor hem aan boord gevaar voor mishandeling door een andere zeevarende dreigt;  
+
+g. de accommodatie, de voeding of het drinkwater aan boord niet voldoet aan het bepaalde krachtens de [artikelen 48](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en [48a van de Wet zeevarenden](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) zodanig dat dit schadelijk is voor de gezondheid van de zeevarenden;  
+
+h. het zeeschip het recht verliest de vlag van het Koninkrijk te voeren;  
+
+j. de zee-arbeidsovereenkomst is aangegaan voor een of meer bepaalde reizen en het zeeschip andere reizen maakt.    
+
+### Artikel  728  
+
+In afwijking van artikel 705 kan het verzoek om ontbinding van de zee-arbeidsovereenkomst, bedoeld in artikel 685, mede worden gedaan aan de kantonrechter die op grond van artikel 685 lid 3 bevoegd is.  
+
+### Artikel  729  
+
+1.  Indien de zee-arbeidsovereenkomst is aangegaan bij de reis en ten gevolge van overmacht de reis niet aanvangt of, nadat zij is aangevangen, wordt gestaakt, eindigt de zee-arbeidsovereenkomst. De zeevarende heeft in het laatstbedoelde geval recht op schadevergoeding gelijk aan het in de zee-arbeidsovereenkomst naar tijdruimte in geld vastgestelde loon, totdat hij in het land van zijn woonplaats of gewone verblijfplaats kan zijn teruggekomen of hij eerder werk heeft gevonden.   
+2.  Lid 1 geldt eveneens als de zeevarende zich uitsluitend verbonden heeft aan boord van een bepaald zeeschip dienst te doen en dit zeeschip vergaat, ook als de zee-arbeidsovereenkomst niet bij de reis is aangegaan.   
+
+### Artikel  730  
+
+Indien de zee-arbeidsovereenkomst is aangegaan bij de reis en de reis door toedoen van de scheepsbeheerder niet aanvangt of, nadat zij is aangevangen, wordt gestaakt, eindigt de zee-arbeidsovereenkomst. De zeevarende heeft in die gevallen recht op schadevergoeding gelijk aan het bedrag van het voor de reis vastgestelde loon.  
+
+### Artikel  731  
+
+De werkgever is verplicht binnen een maand na het einde van de dienst aan boord de zeevarende een schriftelijke afrekening ter hand te stellen. Bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan kan een langere termijn worden overeengekomen.  
+
+### Artikel  732  
+
+Na het einde van de reis, is de zeevarende, wiens zee-arbeidsovereenkomst is geëindigd, gedurende drie werkdagen gehouden op verzoek van de kapitein mee te werken aan het opmaken van een scheepsverklaring als bedoeld in [artikel 353 van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md). De werkgever is verplicht voor deze dagen een schadevergoeding te betalen gelijk aan het in de zee-arbeidsovereenkomst naar tijdruimte in geld vastgestelde deel van dat loon, alsmede de kosten van onderhoud en zo nodig van overnachting.  
+
+### Artikel  733  
+
+De kapitein die zijn zee-arbeidsovereenkomst opzegt, terwijl het door hem gevoerde zeeschip zich op reis bevindt, is verplicht de maatregelen te nemen, die in verband daarmee nodig zijn voor de veiligheid van het zeeschip, de opvarenden en de zaken aan boord, op straffe van schadevergoeding.  
+
+####De zieke zeevarende
+
+### Artikel  734  
+
+De zeevarende die in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling verhinderd is de bedongen arbeid te verrichten, behoudt het recht op het volle loon zolang hij aan boord is.  
+
+### Artikel  734a  
+
+1.  De zeevarende, bedoeld in artikel 734, heeft tot zijn herstel recht op behoorlijke verpleging en geneeskundige behandeling.   
+2.  Dit recht komt evenwel niet toe aan: 
+
+a. de zeevarende die verzekeringsplichtige is op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), zolang hij verblijft in Nederland;  
+
+b. de zeevarende die verblijft in het land waar hij zijn woonplaats of gewone verblijfplaats heeft.     
+3.  Het recht eindigt, indien de zeevarende is teruggekeerd of heeft kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft.   
+4.  Op de aanspraken, die de zeevarende heeft ingevolge dit artikel, komen de aanspraken ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) in mindering.   
+
+### Artikel  734b  
+
+1.  De zeevarende, bedoeld in artikel 734, die verzekerd is ingevolge de Ziektewet of op wie enige daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, heeft, in afwijking van artikel 629 lid 1, voor een tijdvak van twaalf weken recht op 100 procent van het loon, bedoeld in artikel 629 lid 1, als hij ter verpleging is achtergelaten buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft.   
+2.  Het recht op betaling van 100 procent van het loon eindigt zodra de zeevarende passende arbeid kan verkrijgen en verrichten dan wel is teruggekeerd of heeft kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft.   
+
+### Artikel  734c  
+
+Voor de berekening van het tijdvak van 104 weken, genoemd in artikel 629 lid 1, worden de periode, bedoeld in artikel 734, waarin de zeevarende ziek aan boord is en de in artikel 734b lid 1 bedoelde periode in aanmerking genomen.  
+
+### Artikel  734d  
+
+1.  De zeevarende, bedoeld in artikel 734, die niet is verzekerd ingevolge de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en op wie niet een daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, heeft, zolang hij niet is hersteld en ongeacht het voortduren van de zee-arbeidsovereenkomst, gedurende ten hoogste 52 weken, recht op 80 procent van het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen hij ziek werd, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen.   
+2.  De in lid 1 bedoelde termijn van 52 weken gaat in: 
+
+a. als de zeevarende ziek wordt, terwijl hij niet aan boord van een zeeschip in dienst is, op de dag, waarop hij ziek wordt;  
+
+b. als hij ziek wordt, terwijl hij aan boord van een zeeschip in dienst is, op de dag, waarop hij aan de wal ter verpleging wordt achtergelaten of waarop hij, nog niet hersteld, met het zeeschip terugkomt. Wordt hij ter verpleging achtergelaten buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft, dan wordt de uitkering van 80 procent gedurende de eerste 12 weken verhoogd tot 100 procent.     
+3.  De uitkering, bedoeld in de laatste zin van het tweede lid, eindigt zodra de zeevarende passende arbeid kan verkrijgen en verrichten dan wel is teruggekeerd of had kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft.   
+4.  Indien de ziekte een gevolg is van opzet van de zeevarende, kan de loonaanspraak worden verbeurd of verminderd.   
+
+### Artikel  734e  
+
+1.  De zeevarende, bedoeld in artikel 734d, die een ongeval krijgt in verband met zijn zee-arbeidsovereenkomst, heeft, ongeacht het voortduren van deze overeenkomst, recht op uitkeringen en voorzieningen overeenkomstig de artikelen 734f tot en met 734k. Indien de zeevarende tengevolge van het ongeval overlijdt, gaat dit recht over op zijn nagelaten betrekkingen, bedoeld in artikel 674 lid 3.   
+2.  Voor de toepassing van het vorige lid en de artikelen 734f tot en met 734j worden met een ongeval in verband met de zee-arbeidsovereenkomst gelijkgesteld de ziekten, die voorkomen op een bij algemene maatregel van bestuur vast te stellen lijst van ziekten, indien de zeevarende die ziekte heeft gekregen in verband met de zee-arbeidsovereenkomst. De ziekte wordt, tenzij het tegendeel blijkt, geacht verband te houden met de zee-arbeidsovereenkomst, indien zij zich gedurende de arbeidsovereenkomst of binnen een bij algemene maatregel van bestuur vast te stellen termijn na het einde van de arbeidsovereenkomst openbaart.   
+3.  De in het tweede lid bedoelde gelijkstelling is niet van toepassing indien de zeevarende zonder deugdelijke grond ter zake van de in dat lid bedoelde ziekte geweigerd heeft een profylactische behandeling te ondergaan dan wel heeft nagelaten zich aan een zodanige behandeling te onderwerpen, ofschoon hem daartoe kosteloos gelegenheid werd geboden.   
+
+### Artikel  734f  
+
+1.  De zeevarende, bedoeld in artikel 734d, heeft na afloop van de in artikel 734d bedoelde termijn van 52 weken, in geval van tijdelijke gehele ongeschiktheid tot werken, recht op een uitkering van 70 procent van zijn loon en, in geval van tijdelijke gedeeltelijke ongeschiktheid tot werken, op een uitkering ter hoogte van een in verhouding tot de verloren geschiktheid tot werken staand deel van 70 procent van zijn loon.   
+2.  De in het eerste lid bedoelde uitkering eindigt met ingang van de dag, waarop blijvende gehele of gedeeltelijke ongeschiktheid tot werken intreedt, dan wel, indien de tijdelijke gehele of gedeeltelijke ongeschiktheid tot werken voortduurt, uiterlijk met ingang van de dag, gelegen drie jaren na afloop van de in artikel 734d bedoelde termijn van 52 weken.   
+3.  De zeevarende, bedoeld in artikel 734d, die op de dag, gelegen na afloop van de in artikel 734d bedoelde termijn van 52 weken, blijvend geheel of gedeeltelijk ongeschikt is tot werken of binnen drie jaren na die dag blijvend geheel of gedeeltelijk ongeschikt wordt tot werken, dan wel op de dag gelegen drie jaren na vorenbedoelde dag, nog tijdelijk geheel of gedeeltelijk ongeschikt is tot werken, heeft recht op een uitkering ineens van driemaal de uitkering over een jaar, berekend naar de uitkering, waarop hij laatstelijk aanspraak had vóór de dag, waarop dat recht ontstaat. Met ingang van de dag, waarop recht ontstaat op een uitkering ineens als bedoeld in de vorige zin, kunnen ter zake van het betreffende ongeval geen rechten meer worden ontleend aan de artikelen 734e tot en met 734k.   
+4.  Voor de toepassing van de vorige leden wordt een zeevarende geheel of gedeeltelijk ongeschikt geacht tot werken, indien hij ten gevolge van een ongeval als bedoeld in artikel 734e geheel of gedeeltelijk ongeschikt is geworden tot arbeid, die voor zijn krachten en bekwaamheden is berekend en die met het oog op zijn opleiding en vroeger beroep hem in redelijkheid kan worden opgedragen.   
+5.  Indien de zeevarende, bedoeld in artikel 734d, niet de medewerking verleent, die redelijkerwijs van hem verlangd kan worden tot het herkrijgen van zijn gezondheid of zijn arbeidsvermogen, voor zover deze door een ongeval als bedoeld in artikel 734e zijn geschaad, zal bij de schatting van de mate van ongeschiktheid tot werken, bedoeld in de vorige leden, de toestand in aanmerking genomen kunnen worden, die waarschijnlijk zou zijn ontstaan, indien die medewerking ten volle zou zijn verleend.   
+
+### Artikel  734g  
+
+1.  De zeevarende, bedoeld in artikel 734d, heeft ter zake van een ongeval als bedoeld in artikel 734e van de dag van het ongeval af recht op geneeskundige behandeling of vergoeding daarvoor, indien hij verblijft in of heeft kunnen terugkeren naar het land, waar hij zijn woonplaats of gewone verblijfplaats heeft, uiterlijk tot de dag, gelegen drie jaren na afloop van de in artikel 734d bedoelde termijn van 52 weken en onverminderd het bepaalde in de laatste volzin van artikel 734f lid 3. Onder geneeskundige behandeling is begrepen het verstrekken van kunstmiddelen, voor zover deze zijn geschiktheid tot werken kunnen bevorderen of tot verbetering van zijn levensomstandigheden kunnen bijdragen, alsmede het onderricht in het gebruik van die kunstmiddelen.   
+2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het bepaalde in dit artikel.   
+
+### Artikel  734h  
+
+1.  Onverminderd artikel 674 hebben de nagelaten betrekkingen, bedoeld in artikel 734e lid 1, recht op een uitkering ineens, die bedraagt: 
+
+a. voor degene, met wie de overledene ten tijde van het ongeval gehuwd was of een geregistreerd partnerschap was aangegaan: driemaal de uitkering over een jaar, berekend naar 30 procent van het loon van de overledene;  
+
+b. voor elk kind of stiefkind beneden de leeftijd van achttien jaar: driemaal de uitkering over een jaar, berekend naar 15 procent en, indien dit kind ouderloos is, berekend naar 20 procent van het loon van de overledene;  
+
+c. voor degene, met wie de overledene ten tijde van het ongeval in gezinsverband samenleefde en in wiens kosten van bestaan hij grotendeels voorzag, niet vallende onder a of b: driemaal hetgeen hij in de regel over een jaar tot diens levensonderhoud bijdroeg, doch niet meer dan driemaal de uitkering over een jaar, berekend naar 30 procent van het loon van de overledene, met dien verstande, dat, indien de betrokkene jonger is dan achttien jaar, niet meer wordt uitgekeerd dan hij als kind van de overledene zou hebben ontvangen.     
+2.  De in het eerste lid bedoelde uitkeringen zullen tezamen niet meer bedragen dan driemaal de uitkering over een jaar, berekend naar 60 procent van het loon van de overledene. De personen, bedoeld in het eerste lid, onder c, hebben alleen recht op een uitkering, indien de personen, bedoeld onder a en b van dat lid allen hun volle uitkering hebben ontvangen. Indien de personen, bedoeld in het eerste lid, onder a en b tezamen een uitkering zouden ontvangen van meer dan driemaal de uitkering over een jaar, berekend naar 60 procent van het loon van de overledene, ondergaat elk van deze uitkeringen een evenredige vermindering.   
+3.  Voor de toepassing van dit artikel en van artikel 734e is het bepaalde bij of krachtens [artikel 8 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) van overeenkomstige toepassing.   
+
+### Artikel  734i  
+
+Bij algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van uitkeringen of voorzieningen als bedoeld in de artikelen 734 en 734d tot en met 734h met uitkeringen of voorzieningen uit andere hoofde.  
+
+### Artikel  734j  
+
+Onder loon van de zeevarende wordt voor de toepassing van de artikelen 734f en 734h verstaan het naar tijdruimte in geld vastgestelde loon, dat hij genoot tot het ongeval, bedoeld in artikel 734e, plaatsvond, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen. Hetgeen het naar tijdruimte in geld vastgestelde loon meer bedraagt dan een bij algemene maatregel van bestuur te bepalen bedrag, wordt daarbij niet in aanmerking genomen.  
+
+### Artikel  734k  
+
+1.  Indien een daartoe door Ons erkende vereniging met volledige rechtsbevoegdheid is opgericht, is de werkgever ter waarborging van zijn tegenover de in artikel 734d bedoelde zeevarenden en hun nagelaten betrekkingen uit de artikelen 734d tot en met 734j voortvloeiende verplichtingen van rechtswege aangesloten bij die vereniging.   
+2.  In het geval, bedoeld in het eerste lid, zijn de werkgever en de vereniging hoofdelijk verbonden tegenover de in artikel 734d bedoelde zeevarenden en hun nagelaten betrekkingen en zijn de werkgever en de scheepsbeheerder hoofdelijk verbonden tegenover de vereniging voor de nakoming van de uit de artikelen 734d tot en met 734k voortvloeiende verplichtingen.   
+3.  Op haar verzoek kan een vereniging worden erkend als vereniging, bedoeld in het eerste lid, indien zij voldoet aan de volgende vereisten: 
+
+a. dat zij opgericht is door een of meer naar Ons oordeel representatieve organisaties van werkgevers en een of meer naar Ons oordeel representatieve organisaties van zeevarenden, al dan niet tezamen met een of meer werkgevers;  
+
+b. dat zij niet beoogt winst te maken.     
+4.  Voor de in het derde lid bedoelde erkenning komt niet meer dan één vereniging in aanmerking.   
+5.  De statuten van de in het eerste lid bedoelde vereniging moeten zodanige bepalingen inhouden, dat: 
+
+a. het bestuur voor de helft wordt samengesteld uit vertegenwoordigers van de werkgevers en voor de helft uit vertegenwoordigers van de zeevarenden;  
+
+b. de gezamenlijke vertegenwoordigers van de werkgevers ter vergadering evenveel stemmen uitbrengen als de gezamenlijke vertegenwoordigers van de zeevarenden;  
+
+c. de kosten van de uit de artikelen 734d tot en met 734k voortvloeiende verplichtingen met betrekking tot de in het eerste lid bedoelde zeevarenden en hun nagelaten betrekkingen, alsmede de kosten verbonden aan de vorming en instandhouding van een reserve, per jaar worden omgeslagen over de werkgevers naar rato van het loon, dat in dat jaar aan de zeevarenden is uitbetaald, waarbij onder loon wordt verstaan loon in de zin van [hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).     
+
+### Artikel  734l  
+
+1.  Na zijn herstel heeft de zeevarende, ongeacht het voortduren van de zee-arbeidsovereenkomst, recht op een uitkering, gelijk aan het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen hij ziek werd, indien hij ter verpleging is achtergelaten buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft en elders dan ter plaatse waar hij zich bevond toen hij de zee-arbeidsovereenkomst met de werkgever is aangegaan.   
+2.  De zeevarende heeft voorts recht op huisvesting en voeding.   
+3.  De in lid 1 en 2 bedoelde rechten eindigen zodra de zeevarende passende arbeid kan verkrijgen en verrichten dan wel is teruggekeerd of heeft kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft of de plaats waar hij zich bevond toen hij de arbeidsovereenkomst met de werkgever is aangegaan.   
+4.  Indien de ziekte een gevolg is van opzet van de zeevarende, kan de in lid 1 bedoelde uitkering worden verbeurd of verminderd.   
+
+### Artikel  734m  
+
+1.  [Artikel 93, aanhef en onder c, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van toepassing op alle vorderingen krachtens de artikelen 734d tot en met 734k door of tegen de in lid 1 van artikel 734k bedoelde zeevarenden of hun nagelaten betrekkingen ingesteld tegen onderscheidenlijk door de in dat lid bedoelde vereniging.   
+2.  Elk beding strijdig met enige bepaling van dit artikel of artikel 734k is nietig, behoudens dat partijen kunnen overeenkomen om een vordering als bedoeld in het eerste lid aan arbitrage te onderwerpen.   
+
+####De tijdelijk aan boord van een zeeschip werkzame werknemer
+
+### Artikel  735  
+
+Op de arbeidsovereenkomst van de werknemer die gewoonlijk arbeid aan de wal verricht, zijn de artikelen 702, 703, 704 lid 2, 709, 711, 718 tot en 720, 725, 732, 734 tot en met 734c, 734e tot en met 734m en 738 van overeenkomstige toepassing, indien en voor zolang hij gedurende de reis arbeid aan boord van een zeeschip verricht.  
+
+####De arbeidsovereenkomst naar buitenlands recht
+
+### Artikel  736  
+
+1.  Op de arbeidsovereenkomst van een zeevarende die zich verbindt arbeid te verrichten aan boord van een zeeschip en wiens arbeidsovereenkomst wordt beheerst door buitenlands recht, zijn de artikelen 697, 699, 702 tot en met 712, 714 tot en met 725, 729, 731, 732, 734, 734a, 734d tot en met 734l en 738 van overeenkomstige toepassing.   
+2.  Op de arbeidsovereenkomst van een werknemer die gewoonlijk arbeid aan de wal verricht en wiens arbeidsovereenkomst wordt beheerst door buitenlands recht zijn de artikelen 702, 703, 704 lid 2, 705, 709, 711, 718 tot en met 720, 725, 732, 734, 734a, 734d tot en met 734l en 738 van overeenkomstige toepassing, indien en voor zolang hij gedurende de reis arbeid aan boord van een zeeschip verricht.   
+
+####Verplichtingen van de scheepsbeheerder
+
+### Artikel  737  
+
+De artikelen 718 tot en met 720 zijn van overeenkomstige toepassing op personen die, anders dan op grond van een arbeidsovereenkomst en ongeacht het toepasselijke recht, werkzaamheden verrichten aan boord van een zeeschip, met dien verstande dat voor «werkgever» wordt gelezen: scheepsbeheerder.  
+
+### Artikel  738  
+
+De scheepsbeheerder is aansprakelijk voor de nakoming van de uit de artikelen 706 tot en met 709, 717 tot en met 720, 734 tot en met 734l voortvloeiende verplichtingen, indien de werkgever tot nakoming daarvan onherroepelijk is veroordeeld en niet tot nakoming overgaat.  
+
+### Afdeling  12A  
+
+####De zeevarende in de visserij
+
+### Artikel  739  
+
+In deze afdeling wordt verstaan onder: 
+
+a. *zeevisserij:* de bedrijfsmatige uitoefening van de zeevisserij buitengaats;  
+
+b. *kustvisserij:* de kustvisserij in de zin van [artikel 1, vierde lid, onder c, van de Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md);  
+
+c. *arbeidsovereenkomst in de zeevisserij:* de zee-arbeidsovereenkomst die in het kader van de zeevisserij wordt aangegaan;  
+
+d. *garantieloon:* het naar tijdruimte vastgestelde loon dat door de werkgever verschuldigd is in plaats van het loon dat geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, indien het laatstgenoemde loon lager uitkomt dan het eerstgenoemde loon.    
+
+### Artikel  740  
+
+1.  Op de arbeidsovereenkomst van de zeevarende in de zeevisserij zijn de afdelingen 1 tot en met 9 en 11 en 12 van deze titel van toepassing, voor zover daarvan in deze afdeling niet is afgeweken. De artikelen 708, 715 en 717 zijn niet van toepassing op de arbeidsovereenkomst in de zeevisserij.   
+2.  Op de arbeidsovereenkomst van de zeevarende in de kustvisserij zijn de afdelingen 1 tot en met 9 en 11 van deze titel van toepassing.   
+3.  Van artikel 741 van deze afdeling kan niet worden afgeweken.   
+4.  Van artikel 745 van deze afdeling kan niet ten nadele van de zeevarende in de zeevisserij worden afgeweken.   
+
+### Artikel  741  
+
+De werkgever en de zeevarende in de zeevisserij, wiens loon bestaat uit een aandeel in de vangst of de opbrengst daarvan, komen een garantieloon overeen.  
+
+### Artikel  742  
+
+Artikel 699 onder 6 geldt ten aanzien van zeevarenden in de zeevisserij met dien verstande dat, voorzover het in geld vastgestelde loon geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, het overeengekomen garantieloon en de berekeningswijze van het aandeel van de zeevarende in de opbrengst van de vangst worden vermeld.  
+
+### Artikel  743  
+
+1.  Ten aanzien van de zeevarende in de zeevisserij, wiens loon geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, kan bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken van artikel 623 lid 2, met dien verstande dat het tijdvak na afloop waarvan het loon moet worden voldaan niet langer dan drie maanden is.   
+2.  Wordt aan de zeevarende, bedoeld in het vorige lid, een voorschot betaald als bedoeld in artikel 624 lid 2, dan heeft de zeevarende geen aanspraak jegens de werkgever indien het aan de in artikel 707 bedoelde persoon overgemaakte bedrag meer bedraagt dan aan de zeevarende verschuldigd is.   
+
+### Artikel  744  
+
+Artikel 709 geldt niet ten aanzien van de zeevarende in de zeevisserij wiens loon bestaat uit een aandeel in de vangst of opbrengst daarvan.  
+
+### Artikel  745  
+
+Voor de zeevarenden in de zeevisserij, wier loon bestaat uit een aandeel in de vangst of de opbrengst daarvan, wordt voor de toepassing van: 
+
+a. de artikelen 719 lid 3, 732, 734, 734b, 734d, 734f, 734h, 734j en 734l onder loon verstaan het voor hen bij algemene maatregel van bestuur vastgestelde bedrag, en  
+
+b. artikel 729 lid 1 onder loon verstaan het garantieloon.    
 
 ### Titel  12  
 

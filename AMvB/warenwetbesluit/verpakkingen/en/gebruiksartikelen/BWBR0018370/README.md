@@ -31,15 +31,18 @@ b. gebruiksartikel: technisch voortbrengsel dat
 
 1°. wordt gebruikt in rechtstreekse aanraking met eet- of drinkwaren; of  
 
-2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde.    
+2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde;    
 
-c. verordening (EG) 1935/2004: verordening (EG) nr. 1935/2004 van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de richtlijnen 80/590/EEG en 89/109/EEG (PbEU L 338).    
+c. verordening (EG) 1935/2004: verordening (EG) nr. 1935/2004 van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de richtlijnen 80/590/EEG en 89/109/EEG (PbEU L 338);  
+
+d. verordening (EU) 284/2011: verordening (EU) nr. 284/2011 van de Commissie van 22 maart 2011 tot vaststelling van specifieke voorwaarden en gedetailleerde procedures voor de invoer van keukengerei van polyamide- of melaminekunststof van oorsprong of verzonden uit de Volksrepubliek China en de Speciale Administratieve Regio Hongkong van de Volksrepubliek China (PbEU 2011, L 77).    
 
 ### Artikel  2  
 
 1.  Het is verboden te handelen in strijd met artikel 3, eerste lid, en artikel 5.   
 2.  Het is verboden te handelen in strijd met de krachtens artikel 4, eerste lid, gestelde regels.   
 3.  Het is verboden te handelen in strijd met de bij artikel 3, eerste en tweede lid, artikel 4, tweede tot en met zesde lid, artikel 15, eerste, derde, vierde, zevende, achtste en negende lid, artikel 17 en de krachtens artikel 5, eerste lid, van verordening (EG) 1935/2004 gestelde voorschriften.   
+4.  Het is verboden te handelen in strijd met de bij artikel 3, eerste en derde lid, 4 en 8 van verordening (EU) 284/2011 gestelde voorschriften.   
 
 ### Artikel  3  
 
@@ -75,6 +78,11 @@ c. bevindt zich in zindelijke staat.
 ### Artikel  6  
 
 Als nationale bevoegde autoriteit, bedoeld in artikel 13 van verordening (EG) 1935/2004, wordt aangewezen Onze Minister van Volksgezondheid, Welzijn en Sport.  
+
+### Artikel  6a  
+
+1.  De importeur of zijn vertegenwoordiger is aan de Voedsel en Waren Autoriteit een retributie verschuldigd voor de materiële controles, bedoeld in artikel 6, eerste lid, onder b, van verordening (EU) 284/2011.   
+2.  Het tarief van de retributie, bedoeld in het eerste lid, wordt vastgesteld bij regeling van Onze Minister.   
 
 ### Artikel  7  
 

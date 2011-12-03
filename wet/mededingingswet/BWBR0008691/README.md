@@ -166,20 +166,20 @@ b. de gezamenlijke omzet in het voorafgaande kalenderjaar van de bij de desbetre
 1°. € 5 500 000, indien daarbij uitsluitend ondernemingen zijn betrokken wier activiteiten zich in hoofdzaak richten op het leveren van goederen;  
 
 2°. € 1 100 000, in alle andere gevallen.       
-2.  Onverminderd het bepaalde in het eerste lid, geldt artikel 6, eerste lid, voorts niet voor overeenkomsten, besluiten en onderling afgestemde feitelijke gedragingen als bedoeld in dat artikel voor zover daarbij ondernemingen of ondernemersverenigingen betrokken zijn die daadwerkelijke of potentiële concurrenten zijn op een of meer van de relevante markten, indien: 
+2.  Onverminderd het eerste lid, geldt artikel 6, eerste lid, voorts niet voor overeenkomsten, besluiten en onderling afgestemde feitelijke gedragingen als bedoeld in dat artikel voor zover daarbij ondernemingen of ondernemersverenigingen betrokken zijn die daadwerkelijke of potentiële concurrenten zijn op een of meer van de relevante markten, indien: 
 
-a. het gezamenlijke marktaandeel van de bij de overeenkomst, het besluit of de onderling afgestemde feitelijke gedraging betrokken ondernemingen of ondernemersverenigingen op geen van de relevante markten waarop de overeenkomst, het besluit of de onderling afgestemde feitelijke gedraging van invloed is, groter is dan 5%, en  
+a. het gezamenlijke marktaandeel van de bij de overeenkomst, het besluit of de onderling afgestemde feitelijke gedraging betrokken ondernemingen of ondernemersverenigingen op geen van de relevante markten waarop de overeenkomst, het besluit of de onderling afgestemde feitelijke gedraging van invloed is, groter is dan 10%, en  
 
-b. de gezamenlijke omzet in het voorafgaande kalenderjaar van de bij de overeenkomst, het besluit of de onderling afgestemde feitelijke gedraging betrokken ondernemingen of ondernemersverenigingen voor de onder de overeenkomst, het besluit of de onderling afgestemde feitelijke gedraging vallende goederen of diensten niet hoger is dan € 40 000 000.     
+b. de overeenkomst, het besluit of de onderling afgestemde feitelijke gedraging de handel tussen lidstaten niet op merkbare wijze ongunstig kan beïnvloeden.     
 3.  In geval van afzonderlijke overeenkomsten tussen een onderneming of een ondernemersvereniging en twee of meer andere ondernemingen, die dezelfde strekking hebben, worden voor de toepassing van het eerste lid die overeenkomsten tezamen beschouwd als één overeenkomst.   
 4.  Bij algemene maatregel van bestuur kan worden bepaald, zo nodig onder voorschriften en beperkingen, dat artikel 6, eerste lid, niet van toepassing is op in die maatregel omschreven categorieën van overeenkomsten, besluiten of gedragingen als bedoeld in dat artikel, die in het algemeen vanuit een oogpunt van mededinging van duidelijk ondergeschikte betekenis zijn.   
 5.  Het in het eerste lid, onder a, genoemde aantal en de in het eerste lid, onder b, genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd.   
 
 ### Artikel  8  
 
-1.  De berekening van de omzet, bedoeld in artikel 7, eerste lid, onder b en tweede lid onder b, geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.   
+1.  De berekening van de omzet, bedoeld in artikel 7, eerste lid, onder b, geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.   
 2.  Indien een onderneming behoort tot een groep als bedoeld in [artikel 24b van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden voor de berekening van de omzet van die onderneming de omzetten van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten.   
-3.  Voor de berekening van de gezamenlijke omzet van de betrokken ondernemingen, bedoeld in artikel 7, eerste lid, onder b en tweede lid onder b, worden de transacties tussen die ondernemingen buiten beschouwing gelaten.   
+3.  Voor de berekening van de gezamenlijke omzet van de betrokken ondernemingen, bedoeld in artikel 7, eerste lid, onder b, worden de transacties tussen die ondernemingen buiten beschouwing gelaten.   
 
 ### Artikel  9  
 

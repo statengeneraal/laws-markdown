@@ -157,7 +157,7 @@ b. een gewaarmerkte verklaring, afgegeven door een instelling, waaruit blijkt da
 
 1.  De gegadigde die wenst deel te nemen aan decentrale selectie, meldt zich hiertoe voor 15 januari aan bij de Minister. Indien zijn aanmelding een opleiding betreft waarop [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van toepassing is, vermeldt hij daarbij tevens bij welke universiteit hij aan de decentrale selectie deel wil nemen.   
 2.  Het bestuur van de instelling kan de in het eerste lid genoemde termijn verlengen.   
-3.  Onverminderd artikel 7 geldt de aanmelding voor decentrale selectie tevens als aanmelding voor deelname aan de selectieprocedure.   
+3.  Een aanmelding voor decentrale selectie geldt tevens als aanmelding voor de lotingsprocedure.   
 
 ### §  5  
 
@@ -167,7 +167,7 @@ b. een gewaarmerkte verklaring, afgegeven door een instelling, waaruit blijkt da
 
 ####Registratie in verband met beperking van deelname aan de selectieprocedure
 
-1.  Voor de toepassing van artikel [7.57f, tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) neemt de Minister de gegadigde die zich aanmeldt voor een fixusopleiding, op in een register. Een dergelijke aanmelding wordt daarbij beschouwd als deelname aan de lotingsprocedure in de zin van [artikel 7.57f, tweede lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+1.  Voor de toepassing van artikel [7.57f, derde lid van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) neemt de Minister de gegadigde die zich aanmeldt voor een fixusopleiding, op in een register.   
 2.  In afwijking van het eerste lid blijft registratie van de aanmelding van de gegadigde achterwege: 
 
 a. indien de gegadigde er in dat jaar niet in slaagt te voldoen aan de vooropleidingseisen, bedoeld in [artikel 7.24 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), dan wel aan de nadere vooropleidingseisen, bedoeld in [artikel 7.25 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
@@ -263,16 +263,13 @@ c. door gegadigden die in het voorgaande jaar een plaats toegewezen hebben gekre
 d. door gegadigden die door toepassing van artikel 15, onder b, een bewijs van toelating hebben ontvangen;  
 
 e. door gegadigden die in het voorgaande jaar een voorlopig bewijs van toelating hebben ontvangen als bedoeld in artikel 21, tweede en derde lid;     
-2.  De gezamenlijke vermindering op grond van het eerste lid, onder a tot en met c, overschrijdt niet de helft van het aantal plaatsen dat op grond van de [artikelen 7.53](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of [7.56 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) voor de desbetreffende opleiding is bepaald.   
-3.  Het aantal vastgestelde plaatsen wordt verdeeld over de lotingsklassen, bedoeld in [artikel 7.57b, tweede lid, onder b tot en met e, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), zodanig dat de quotiënten van het aantal plaatsen en het aantal gegadigden per lotingsklasse zich verhouden als bepaald in [artikel 7.57c, derde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij deze verdeling vindt afronding plaats naar de dichtstbijzijnde gehele getallen en bij een uitkomst van 0,5 wordt naar boven afgerond.   
-4.  Indien een verschil ontstaat tussen het aantal vastgestelde plaatsen en het krachtens het derde lid berekende aantal plaatsen, wordt dit verschil verrekend met het aantal berekende plaatsen in lotingsklasse e.   
-5.  Dit artikel is van overeenkomstige toepassing op een opleiding waarvoor [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt, met dien verstande dat: 
+2.  Het aantal vastgestelde plaatsen wordt verdeeld over de lotingsklassen, bedoeld in [artikel 7.57b, tweede lid, onder b tot en met e, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), zodanig dat de quotiënten van het aantal plaatsen en het aantal gegadigden per lotingsklasse zich verhouden als bepaald in [artikel 7.57c, derde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij deze verdeling vindt afronding plaats naar de dichtstbijzijnde gehele getallen en bij een uitkomst van 0,5 wordt naar boven afgerond.   
+3.  Indien een verschil ontstaat tussen het aantal vastgestelde plaatsen en het krachtens het derde lid berekende aantal plaatsen, wordt dit verschil verrekend met het aantal berekende plaatsen in lotingsklasse e.   
+4.  Dit artikel is van overeenkomstige toepassing op een opleiding waarvoor [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt, met dien verstande dat: 
 
-a. het eerste lid wordt toegepast op het aantal plaatsen dat voor deze opleiding aan de desbetreffende universiteiten gezamenlijk is bepaald,  
+a. het eerste lid wordt toegepast op het aantal plaatsen dat voor deze opleiding aan de desbetreffende universiteiten gezamenlijk is bepaald en  
 
-b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadigden worden toegewezen met toepassing van [artikel 7.57d, derde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en  
-
-c. het tweede lid voor elk van de opleidingen afzonderlijk geldt.     
+b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadigden worden toegewezen met toepassing van [artikel 7.57d, derde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).     
 
 ### Artikel  19  
 
@@ -286,9 +283,9 @@ c. het tweede lid voor elk van de opleidingen afzonderlijk geldt.
 
 ####Nadere regeling toewijzing plaatsen van zelfde opleiding bij verschillende universiteiten
 
-1.  Bij de toepassing van [artikel 7.57d, tweede lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), worden de gegadigden die zijn ingeloot, geplaatst bij de universiteit van hun eerste voorkeur. Indien aan de desbetreffende universiteit onvoldoende plaatsen beschikbaar zijn, worden de plaatsen verdeeld met overeenkomstige toepassing van artikel 18, derde en vierde lid.   
-2.  De gegadigden die na toepassing van het eerste lid niet kunnen worden geplaatst aan de universiteit van hun eerste voorkeur, worden geplaatst aan de universiteit van hun hoogst mogelijke voorkeur. De toewijzing van plaatsen geschiedt daarbij met overeenkomstige toepassing van artikel 18, derde en vierde lid, aan de gegadigden met de laagste lotnummers.   
-3.  De toewijzing van een plaats aan een gegadigde door het vervallen van het bewijs van toelating van een andere gegadigde geschiedt met overeenkomstige toepassing van artikel 18, derde en vierde lid, aan de gegadigde met het laagste lotnummer.   
+1.  Bij de toepassing van [artikel 7.57d, tweede lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), worden de gegadigden die zijn ingeloot, geplaatst bij de universiteit van hun eerste voorkeur. Indien aan de desbetreffende universiteit onvoldoende plaatsen beschikbaar zijn, worden de plaatsen verdeeld met overeenkomstige toepassing van artikel 18, tweede en derde lid.   
+2.  De gegadigden die na toepassing van het eerste lid niet kunnen worden geplaatst aan de universiteit van hun eerste voorkeur, worden geplaatst aan de universiteit van hun hoogst mogelijke voorkeur. De toewijzing van plaatsen geschiedt daarbij met overeenkomstige toepassing van artikel 18, tweede en derde lid, aan de gegadigden met de laagste lotnummers.   
+3.  De toewijzing van een plaats aan een gegadigde door het vervallen van het bewijs van toelating van een andere gegadigde geschiedt met overeenkomstige toepassing van artikel 18, tweede en derde lid, aan de gegadigde met het laagste lotnummer.   
 4.  De gegadigde die beschikt over een verklaring als bedoeld in artikel 1, derde lid, onder c, wordt bij inloten, zo nodig in afwijking van het eerste of derde lid, geplaatst aan de universiteit die de desbetreffende verklaring heeft afgegeven.   
 
 ### Artikel  21  
@@ -362,6 +359,7 @@ De gegadigde die toepassing verlangt van [artikel 7.57d, derde lid, van de wet](
 
 1.  Het bestuur van de instelling dat gebruik wenst te maken van de bevoegdheid gegadigden op grond van [artikel 7.57e van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) door middel van decentrale selectie in aanmerking te brengen voor de toekenning van een bewijs van toelating, maakt daarvan melding aan de Minister voor 1 juni van het kalenderjaar dat voorafgaat aan het studiejaar waarvoor de decentrale selectie geldt.   
 2.  Deze melding gaat vergezeld van de informatie bedoeld in [artikel 7.57e, tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+3.  In afwijking van het eerste lid, doet het bestuur de melding ten behoeve van het studiejaar 2012–2013 voor 1 november 2011.   
 
 ### Artikel  29  
 
@@ -375,7 +373,7 @@ De gegadigde die toepassing verlangt van [artikel 7.57d, derde lid, van de wet](
 ####Uitvoering decentrale selectie
 
 1.  Het bestuur van de instelling deelt voor 15 juni aan alle gegadigden schriftelijk de beslissing van haar selectie mee alsmede de plaats op de lijst, bedoeld in het tweede lid. Bij toepassing van het vierde lid geschiedt deze mededeling voor 1 augustus.   
-2.  Het bestuur van de instelling vermeldt de geselecteerde gegadigden op een lijst in een door hem te bepalen volgorde. Deze lijst kan meer gegadigden bevatten dan het aantal dat overeenkomt met het percentage, bedoeld in [artikel 7.57e, tweede lid, onder d, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2.  Het bestuur van de instelling vermeldt de geselecteerde gegadigden op een lijst in een door hem te bepalen volgorde. De lijst bevat ten minste het aantal gegadigden dat overeenkomt met het percentage, bedoeld in [artikel 7.57e, tweede lid, onderdeel d, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Indien het aantal decentrale plaatsen op basis van het opgegeven percentage het aantal gegadigden overtreft, bevat de lijst alle gegadigden.   
 3.  De lijst wordt voor 15 juni aan de Minister bekendgemaakt.   
 4.  In afwijking van het derde lid kan het bestuur van de instelling de lijst voor 1 augustus aan de Minister bekendmaken, indien het een selectiemethode toepast die vanwege de tijdsbelasting voor gegadigden geheel of grotendeels na 15 juni moet worden uitgevoerd. Het bestuur stelt de Minister hiervan in kennis bij de toepassing van artikel 28, eerste lid.   
 
@@ -385,6 +383,7 @@ De gegadigde die toepassing verlangt van [artikel 7.57d, derde lid, van de wet](
 
 1.  De Minister verwijdert van de in artikel 30, tweede lid, bedoelde lijst de gegadigden die na toepassing van artikel 7 niet voldoen aan de voorwaarden voor selectie. Tevens verwijdert de Minister van deze lijst de gegadigden die op grond van artikel 15 een bewijs van toelating ontvangen.   
 2.  De Minister verstrekt na toepassing van het eerste lid, en met inachtneming van de lijstvolgorde en het aantal, bedoeld in [artikel 7.57e, tweede lid, onder d, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), een bewijs van toelating aan de decentraal geselecteerde gegadigden.   
+3.  Indien blijkt dat er, na toepassing van het eerste en tweede lid, nog decentrale plaatsen voor die opleiding onbenut blijven, heeft een loting plaats onder de gegadigden, die voldoen aan de eisen, bedoeld in artikel 7. Op de loting zijn de artikelen 16 tot en met 24 van overeenkomstige toepassing.   
 
 ### Hoofdstuk  4  
 

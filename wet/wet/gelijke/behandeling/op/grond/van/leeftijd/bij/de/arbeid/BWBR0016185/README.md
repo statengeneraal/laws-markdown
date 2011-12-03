@@ -16,8 +16,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Onder onderscheid wordt in deze wet verstaan: onderscheid op grond van leeftijd of op grond van andere hoedanigheden of gedragingen dat onderscheid op grond van leeftijd tot gevolg heeft.   
-2.  Onder onderscheid wordt mede begrepen de opdracht tot het maken van onderscheid.   
+In deze wet wordt verstaan onder: 
+
+a. onderscheid: direct en indirect onderscheid, alsmede de opdracht daartoe;  
+
+b. direct onderscheid: indien een persoon op grond van leeftijd op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld;  
+
+c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde leeftijd in vergelijking met andere personen bijzonder treft.    
 
 ####Intimidatie
 

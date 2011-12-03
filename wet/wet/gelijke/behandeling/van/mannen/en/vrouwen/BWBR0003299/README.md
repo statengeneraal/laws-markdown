@@ -14,7 +14,14 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet wordt onder onderscheid verstaan direct en indirect onderscheid alsmede de opdracht tot het maken van onderscheid. Onder direct onderscheid wordt verstaan onderscheid tussen mannen en vrouwen. Onder direct onderscheid wordt mede verstaan, onderscheid op grond van zwangerschap, bevalling en moederschap. Onder indirect onderscheid wordt verstaan onderscheid op grond van andere hoedanigheden dan het geslacht, bijvoorbeeld echtelijke staat of gezinsomstandigheden, dat onderscheid op grond van geslacht tot gevolg heeft.  
+1.  In deze wet wordt verstaan onder: 
+
+a. onderscheid: direct en indirect onderscheid, alsmede de opdracht daartoe;  
+
+b. direct onderscheid: indien een persoon op grond van geslacht op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld;  
+
+c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen van een bepaald geslacht in vergelijking met andere personen bijzonder treft.     
+2.  Onder direct onderscheid wordt mede verstaan onderscheid op grond van zwangerschap, bevalling en moederschap.   
 
 ### Artikel  1a  
 

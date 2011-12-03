@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-De ambtenaar die 55 jaar of ouder is en deze leeftijd voor 1 januari 2012 heeft bereikt, wordt op zijn aanvraag door het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onder l, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), geheel of gedeeltelijk ontheffing verleend van het verrichten van dienst of het opleggen van consignatie tussen 00.00 uur en 06.00 uur, tenzij een zwaarwegend dienstbelang zich daartegen verzet.  
+De ambtenaar die 55 jaar of ouder is en deze leeftijd voor 1 juli 2012 heeft bereikt, wordt op zijn aanvraag door het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onder l, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), geheel of gedeeltelijk ontheffing verleend van het verrichten van dienst of het opleggen van consignatie tussen 00.00 uur en 06.00 uur, tenzij een zwaarwegend dienstbelang zich daartegen verzet.  
 
 ### Artikel  2  
 
