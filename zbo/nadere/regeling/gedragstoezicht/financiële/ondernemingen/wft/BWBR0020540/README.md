@@ -113,17 +113,17 @@ ag. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte
 
 ### Artikel  2:2  
 
-1.  Informatie over de belangrijkste financiële risico’s van een complex product in een schriftelijke reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), wordt weergegeven rechtsboven in de reclame-uiting door middel van de risico-indicator, berekend als bepaald in artikel 3:6 te downloaden van www.afm.nl/reclameteksten. In afwijking van artikel 3:5, derde lid geldt voor een opbouwproduct geen tussentijdse looptijd.   
-2.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via internet wordt weergegeven in de onmiddellijke nabijheid van de informatie over de opbrengsten van het complexe product in de reclame-uiting door middel van de risico-indicator, berekend als bepaald in artikel 3:6 te downloaden van www.afm.nl/reclameteksten. In afwijking van artikel 3:5, derde lid geldt voor een opbouwproduct geen tussentijdse looptijd.   
-3.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via televisie wordt weergegeven gedurende de reclame-uiting onderaan in beeld door middel van de risico-indicator, berekend als bepaald in artikel 3:6 te downloaden van www.afm.nl/reclameteksten. In afwijking van artikel 3:5, derde lid geldt voor een opbouwproduct geen tussentijdse looptijd.   
-4.  In afwijking van artikel 3:6, tweede lid en derde lid worden de risico’s: ‘klein’ en ‘groot’ niet benoemd maar wel weergegeven in de risico-indicator, bedoeld in het eerste tot en met het derde lid.   
-5.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, derde lid, Bgfo](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), van het besluit, via radio wordt weergegeven aan het einde van de reclame-uiting door overneming van het geluidsbestand, te downloaden van www.afm.nl/reclameteksten.   
-6.  De Autoriteit Financiële Markten kan de risico-indicator als bedoeld in het eerste tot en met het derde lid of een geluidsbestand als bedoeld in het vorige lid geheel of gedeeltelijk wijzigen. Een aanbieder van het complexe product verwerkt een wijziging bedoeld in de vorige zin uiterlijk de eerste dag van de vierde kalendermaand na bekendmaking daarvan.   
-7.  De risico-indicator als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1, onder 1, met dien verstande dat de risico-indicator bedoeld in het tweede lid de consument door middel van een hyperlink verwijst naar www.afm.nl/risicometer. De risico-indicator als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1, onder 2.   
-8.  De informatie bedoeld in het eerste lid wordt weergegeven, voor uitingen met een oppervlakte kleiner of gelijk aan A4,in een minimale diameter van 4 centimeter, in de kleur zwart of rood.   
-9.  De informatie bedoeld in het eerste lid wordt weergegeven, voor uitingen met een oppervlakte groter dan A4, in een oppervlakte van minimaal 5 procent van de totale oppervlakte van de reclame-uiting, in de kleur zwart of rood.   
-10.  De informatie bedoeld in het tweede lid wordt weergegeven in een minimale grootte van 180 pixels bij 180 pixels, in de kleur zwart of rood, met dien verstande dat voor de bepaling van de grootte een ingestelde beeldschermresolutie van 1024 × 768 beeldlijnen als uitgangspunt dient te worden genomen.   
-11.  De informatie als bedoeld in het derde lid wordt weergegeven in een grootte van tien procent van de grootte van de reclame-uiting.   
+1.  Informatie over de belangrijkste financiële risico’s van een complex product in een schriftelijke reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), wordt weergegeven rechtsboven in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
+2.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via internet wordt weergegeven in de onmiddellijke nabijheid van de informatie over de opbrengsten van het complexe product in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
+3.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting als bedoeld in [artikel 52, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via televisie wordt weergegeven gedurende de reclame-uiting onderaan in beeld door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
+4.  In afwijking van artikel 3:6, tweede lid en derde lid, worden de risico’s: ‘klein’ en ‘groot’ niet benoemd maar wel weergegeven in de risico-indicator van een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste tot en met derde lid.   
+5.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, derde lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via radio wordt weergegeven aan het einde van de reclame-uiting door overneming van het geluidsbestand, te downloaden van www.afm.nl/reclameteksten.   
+6.  De Autoriteit Financiële Markten kan de risico-indicator voor gebruik in reclame-uitingen, bedoeld in het eerste tot en met derde lid, of een geluidsbestand als bedoeld in het vorige lid geheel of gedeeltelijk wijzigen. Een aanbieder van het complexe product verwerkt een dergelijke wijziging uiterlijk de eerste dag van de vierde kalendermaand na bekendmaking daarvan.   
+7.  De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1, onder 1, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/risicometer. De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1, onder 2. De risico-indicator voor rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1, onder 3, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi. De risico-indicator voor rechten van deelneming in een beleggingsinstelling als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1, onder 4.   
+8.  De informatie, bedoeld in het eerste lid, wordt weergegeven, voor uitingen met een oppervlakte kleiner of gelijk aan A4, in een minimale diameter van 4 centimeter, in de kleur zwart of rood.   
+9.  De informatie, bedoeld in het eerste lid, wordt weergegeven, voor uitingen met een oppervlakte groter dan A4, in een oppervlakte van minimaal 5 procent van de totale oppervlakte van de reclame-uiting, in de kleur zwart of rood.   
+10.  De informatie, bedoeld in het tweede lid, wordt weergegeven in een minimale grootte van 180 pixels bij 180 pixels, in de kleur zwart of rood, met dien verstande dat voor de bepaling van de grootte een ingestelde beeldschermresolutie van 1024 × 768 beeldlijnen als uitgangspunt wordt genomen.   
+11.  De informatie, bedoeld in het derde lid, wordt weergegeven in een grootte van tien procent van de grootte van de reclame-uiting.   
 
 ### §  2.3  
 
@@ -162,7 +162,51 @@ h. indien de rendementscijfers niet in euro’s luiden wordt de gebruikte valuta
 
 Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling rendementsprognoses worden gepresenteerd: 
 
-a. is artikel 2:3 onderdelen a, b, f, g en h van overeenkomstige toepassing op de berekeningswijze van de rendementscijfers;  
+a. is artikel 2.4 onderdelen a, b, f, g en h van overeenkomstige toepassing op de berekeningswijze van de rendementscijfers;  
+
+b. wordt in de reclame-uiting vermeld dat het prognoses betreft; en  
+
+c. worden de prognoses onderbouwd en wordt het model dat daarbij wordt gebruikt door een deskundige als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) getoetst op de elementen die zich daartoe lenen. Het resultaat van deze toetsing wordt schriftelijk vastgelegd.    
+
+### §  2.4  
+
+####Regels met betrekking tot de berekening van historische en toekomstige rendementen, kosten en risico’s
+
+### Artikel  2:4  
+
+Indien in een reclame-uiting van een beheerder of beleggingsinstelling werkelijke rendementscijfers worden gepresenteerd: 
+
+a. wordt de referentieperiode vermeld;  
+
+b. worden rendementscijfers die betrekking hebben op meerdere jaren teruggebracht tot een gemiddeld jaarrendement of als afzonderlijke jaarrendementen vermeld. Indien een gemiddeld jaarrendement over meer dan één jaar wordt gepresenteerd, wordt een meetperiode van minimaal drie jaar gehanteerd. Indien de beleggingsinstelling nog niet zo lang actief is, kan gerekend worden vanaf het moment van initiële uitgifte van deelnemingsrechten;  
+
+c. kunnen resultaten over kortere perioden dan 12 maanden worden gepresenteerd, mits de presentatie geschiedt op consistente wijze en de resultaten niet worden geëxtrapoleerd naar rendementen op jaarbasis;  
+
+d. wordt bij vergelijking van de resultaten met een vergelijkingsmaatstaf (benchmark) deze benchmark genoemd en is de referentieperiode van de benchmark gelijk aan de genoemde referentieperiode van de beleggingsinstelling;  
+
+e. worden de rendementscijfers gepresenteerd in procenten waardeverandering van ofwel consequent de intrinsieke waarde dan wel consequent de beurswaarde per aandeel of recht van deelnemingsrecht aan het begin van het boekjaar/de periode, rekening houdend met de distributies aan aandeelhouders of deelnemers in de betreffende periode(s) waarbij die distributies mogen worden opgerent naar het einde van het boekjaar of de periode. Als rendementscijfers worden gepresenteerd aan de hand van veranderingen van de intrinsieke waarde en deze intrinsieke waarde per deelnemingsrecht afwijkt van de verkoopwaarde van dat deelnemingsrecht, dan dient dit laatste expliciet te worden vermeld;  
+
+f. indien wordt uitgegaan van de waardeverandering van de intrinsieke waarde: wordt gerefereerd aan het totale rendement van de beleggingsinstelling. Een en ander is consistent met de betreffende jaarrekeningen. Indien de instelling belastingplichtig is, wordt het rendement na belastingen genoemd;  
+
+g. indien gebruik wordt gemaakt van gesimuleerde rendementscijfers: certificeert een deskundige, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dat de simulatie rekenkundig juist, objectief meetbaar en representatief is. In de reclame-uiting wordt melding gemaakt van het feit dat gebruik is gemaakt van een simulatie. De certificering van de deskundige behoeft niet in de reclame-uiting te worden opgenomen; en  
+
+h. indien de rendementscijfers niet in euro’s luiden wordt de gebruikte valuta vermeld.    
+
+### Artikel  2:5  
+
+Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling rendementsprognoses worden gepresenteerd: 
+
+a. is artikel 2.4 onderdelen a, b, f, g en h van overeenkomstige toepassing op de berekeningswijze van de rendementscijfers;  
+
+b. wordt in de reclame-uiting vermeld dat het prognoses betreft; en  
+
+c. worden de prognoses onderbouwd en wordt het model dat daarbij wordt gebruikt door een deskundige als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) getoetst op de elementen die zich daartoe lenen. Het resultaat van deze toetsing wordt schriftelijk vastgelegd.    
+
+### Artikel  2:6  
+
+Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling rendementsprognoses worden gepresenteerd: 
+
+a. is artikel 2.4 onderdelen a, b, f, g en h van overeenkomstige toepassing op de berekeningswijze van de rendementscijfers;  
 
 b. wordt in de reclame-uiting vermeld dat het prognoses betreft; en  
 
@@ -291,7 +335,7 @@ b. indien het complexe product geen vaste looptijd kent en
 
 2°. een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering of een beleggingsobject is: een looptijd van twintig jaren; of  
 
-3°. een recht van deelneming of een spaarbeleggingsproduct zonder verzekering en zonder contractuele looptijd is: een looptijd van één jaar; of  
+3°. een spaarbeleggingsproduct zonder verzekering en zonder contractuele looptijd is: een looptijd van één jaar; of  
 
 4°. een direct ingaande lijfrente op spaarbasis: een levenslange looptijd.       
 2.  Indien het complexe product een onderdeel verzekeren kent, is de berekening van het financiële risico, de kosten en opbrengsten, in aanvulling op de contractuele looptijd bedoeld in het eerste lid, gebaseerd op de volgende parameters: 
@@ -301,7 +345,7 @@ a. één niet-rokende mannelijke verzekerde met een leeftijd van 35 jaren en voo
 b. in geval van een spaarhypotheek of een bankspaarhypotheek een jaarlijkse spaarpremie van € 3.428,87 die rendeert tegen 4% netto per jaar of een maandelijkse spaarpremie van € 287,21 die rendeert tegen 0,3333% netto per maand;  
 
 c. in geval van overige variabelen die van invloed zijn op de hoogte van de premie de meest representatieve keuze uit variabelen of indien deze niet te bepalen is die variabelen die leiden tot de hoogst mogelijke premie of kosten.     
-3.  Indien het complexe product een opbouwproduct, een recht van deelneming of een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis betreft, wordt in aanvulling op de contractuele looptijd bedoeld in het eerste lid, de berekening van het financiële risico gebaseerd op een tussenliggende looptijd van: 
+3.  Indien het complexe product een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis betreft, wordt in aanvulling op de contractuele looptijd bedoeld in het eerste lid, de berekening van het financiële risico gebaseerd op een tussenliggende looptijd van: 
 
 a. één jaar indien de contractuele looptijd langer is dan één en korter dan of gelijk is aan tien jaren;  
 
@@ -367,7 +411,7 @@ d. ‘groot’ indien de guise tussen de 65 procent en tachtig procent van de sc
 e. ‘zeer groot’ indien de guise minder dan 65 procent van de schuld bedraagt;  
 
 f. ‘zeer groot’ indien het een overwaardeconstructie betreft.     
-3.  In een financiële bijsluiter wordt het financiële risico van een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering op beleggingsbasis, een beleggingsobject, een recht van deelneming of een spaarbeleggingsproduct, voor het einde van de contractuele looptijd bedoeld in artikel 3:5, eerste lid en de tussenliggende looptijd, bedoeld in artikel 3:5, derde lid, onder voor zover van toepassing het kopje ‘Risico dat u uw inleg niet terug krijgt’ of ‘Risico dat u uw inleg niet terug krijgt en met een restschuld blijft zitten’ boven de streep en onder het kopje ‘bij tussentijdse beëindiging (… jaar)’, onder invulling van de contractuele looptijd, bedoeld in artikel 3:5, derde lid, links onder de streep en ‘bij gehele looptijd (… jaar)’ onder de streep, onder invulling van de contractuele looptijd, bedoeld in artikel 3:5, eerste lid, aangegeven als: 
+3.  In een financiële bijsluiter wordt het financiële risico van een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering op beleggingsbasis, een beleggingsobject, of een spaarbeleggingsproduct, voor het einde van de contractuele looptijd bedoeld in artikel 3:5, eerste lid en de tussenliggende looptijd, bedoeld in artikel 3:5, derde lid, onder voor zover van toepassing het kopje ‘Risico dat u uw inleg niet terug krijgt’ of ‘Risico dat u uw inleg niet terug krijgt en met een restschuld blijft zitten’ boven de streep en onder het kopje ‘bij tussentijdse beëindiging (… jaar)’, onder invulling van de contractuele looptijd, bedoeld in artikel 3:5, derde lid, links onder de streep en ‘bij gehele looptijd (… jaar)’ onder de streep, onder invulling van de contractuele looptijd, bedoeld in artikel 3:5, eerste lid, aangegeven als: 
 
 a. ‘zeer klein’ indien de uitbetaling van de inleg volledig is gegarandeerd aan de consument en de garantie op het complexe product wordt afgegeven door een instelling die onder kapitaaltoereikendheidstoezicht staat;  
 
@@ -396,7 +440,7 @@ b. ‘bij de gehele looptijd ([…] jaar) kunt u met […]% van uw schuld blijve
 c. ‘bij de gehele looptijd ([…] jaar) kunt u met de volledige schuld blijven zitten’, onder invulling van de contractuele looptijd, bedoeld in artikel 3:5, eerste lid, indien de consument een volledige schuld kan overhouden, maar het schuldproduct geen overwaardeconstructie of inkomensaanvulling betreft en onderdeel a of b niet van toepassing is of  
 
 d. ‘bij de gehele looptijd ([…] jaar) kunt u met een volledige schuld blijven zitten en uw inkomensaanvulling kan voor het einde van de looptijd wegvallen’, onder invulling van de contractuele looptijd, bedoeld in artikel 3:5, eerste lid, indien er sprake is van een onttrekking aan een beleggingsdepot of een overwaardeconstructie en onderdeel a of b niet van toepassing is.     
-3.  Een financiële bijsluiter voor een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering op beleggingsbasis, een recht van deelneming of een spaarbeleggingsproduct bevat onder het kopje ‘Wat kan er gebeuren in het ergste geval?’ een beschrijving van het meest negatieve financiële resultaat van het product voor de contractuele looptijd door vermelding van: 
+3.  Een financiële bijsluiter voor een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering op beleggingsbasis, of een spaarbeleggingsproduct bevat onder het kopje ‘Wat kan er gebeuren in het ergste geval?’ een beschrijving van het meest negatieve financiële resultaat van het product voor de contractuele looptijd door vermelding van: 
 
 a. ‘bij een gehele looptijd ([…] jaar) ontvangt u uw inleg terug’, onder invulling van respectievelijk de contractuele looptijd, bedoeld in artikel 3:5, eerste lid, indien de aanbieder van het complexe product de terugbetaling van de inleg aan de consument heeft gegarandeerd en de instelling die de garantie heeft verstrekt onder kapitaaltoereikendheidstoezicht staat;  
 
@@ -523,183 +567,6 @@ b. onder het kopje ‘Gevolgen’ en bij het kopje ‘bij opzeggen (bijvoorbeeld
 
 ####Financiële bijsluiter met betrekking tot rechten van deelneming in een beleggingsinstelling
 
-### Artikel  3:11  
-
-De financiële bijsluiter voor een recht van deelneming in een beleggingsinstelling, wordt opgesteld overeenkomstig de artikelen 3:13 tot en met 3:28 en voorzover van toepassing de artikelen 3:5, derde lid en 3:6, derde lid.  
-
-### Artikel  3:12  
-
-Een financiële bijsluiter: 
-
-a. is beknopt;  
-
-b. is actueel;  
-
-c. wordt helder aangeduid en is herkenbaar als financiële bijsluiter, alsmede visueel afgescheiden van eventueel aanwezige overige informatiedragers;  
-
-d. sluit in opzet en presentatie aan bij de gemiddelde kwaliteit van overige door een financiële onderneming verschafte informatie met betrekking tot het complexe product; en  
-
-e. bevat de datum tot waarop de financiële bijsluiter is bijgewerkt.    
-
-### Artikel  3:13  
-
-Een financiële bijsluiter bestaat uit vijf onderdelen: 
-
-a. een korte weergave van de beleggingsinstelling als bedoeld in artikel 3:14;  
-
-b. beleggingsgegevens als bedoeld in de artikelen 3:15 tot en met 3:21;  
-
-c. bedrijfsinformatie als bedoeld in de artikelen 3:22 tot en met 3:26;  
-
-d. commerciële informatie als bedoeld in artikel 3:27; en  
-
-e. aanvullende informatie als bedoeld in artikel 3:28.    
-
-### Artikel  3:14  
-
-De financiële bijsluiter verschaft een korte weergave van de beleggingsinstelling met betrekking tot: 
-
-a. de beheerder en de financiële groep waartoe de beheerder behoort;  
-
-b. de oprichtingsdatum van de beleggingsinstelling en de vermelding in welke lidstaat de beheerder zijn statutaire zetel heeft;  
-
-c. de bewaarder aan wie de activa van een beleggingsinstelling worden toevertrouwd en welke verantwoordelijkheden hem zijn toegekend;  
-
-d. de externe accountant van de beleggingsinstelling; en voor zover van toepassing:  
-
-e. vermelding van het hoofdfonds waar het subfonds onder valt; en  
-
-f. de verwachte bestaansduur van de beleggingsinstelling.    
-
-### Artikel  3:15  
-
-De financiële bijsluiter verschaft informatie over het doel van de beleggingsinstelling.  
-
-### Artikel  3:16  
-
-Indien een index wordt gevolgd of een index als vergelijkingsmaatstaf wordt gehanteerd, vermeldt de financiële bijsluiter welke index wordt gevolgd of welke index als maatstaf voor de behaalde resultaten van de beleggingsinstelling wordt gebruikt.  
-
-### Artikel  3:17  
-
-Het door de beleggingsinstelling gevoerde beleggingsbeleid wordt op een duidelijke wijze in de financiële bijsluiter omschreven waarbij voor zover van toepassing ten minste aandacht wordt besteed aan de volgende kenmerken: 
-
-a. de door de beleggingsinstelling gebruikte beleggingsinstrumenten waarmee het beleggingsdoel moet worden bereikt;  
-
-b. indien een index wordt gevolgd, op welke wijze het beleggingsbeleid op deze index wordt afgestemd;  
-
-c. de landen en sectoren waarin wordt belegd;  
-
-d. het soort obligatie (bedrijfs- of overheidsobligaties), alsmede de looptijd en ratingvereisten van de obligaties waarin wordt belegd;  
-
-e. de gehanteerde beleggingstrategie die tot gevolg kan hebben dat er zich een situatie voordoet van een zekere concentratie van beleggingen in een bepaald land of een bepaalde sector;  
-
-f. indien in derivaten wordt belegd, wordt aangegeven of deze worden gebruikt ter verhoging van het rendement, ter afdekking van risico’s of een combinatie van beiden; en  
-
-g. de garanties die verbonden zijn aan de beleggingsinstelling, alsmede eventuele beperkingen op deze garanties.    
-
-### Artikel  3:18  
-
-De financiële bijsluiter bevat met betrekking tot de risico’s de volgende tekst: ‘De waardeontwikkeling van de rechten van deelneming in de beleggingsinstelling is afhankelijk van ontwikkelingen op de kapitaal-, effecten-, valuta- en goederenmarkten’ en ‘De mogelijkheid bestaat dat uw belegging in waarde stijgt; het is echter ook mogelijk dat uw belegging weinig tot geen inkomsten zal genereren en dat uw inleg bij een ongunstig koersverloop geheel of ten dele verloren gaat’.  
-
-### Artikel  3:19  
-
-1.  Indien van toepassing bevat de financiële bijsluiter informatie met betrekking tot onder meer de volgende algemene risico’s: 
-
-a. rendementsrisico, met inbegrip van het feit dat het risico kan variëren naar gelang de keuzen van elke activa, alsmede het bestaan of ontbreken van, dan wel de beperkingen op eventuele waarborgen van derden;  
-
-b. risico’s voor waardewijziging van het kapitaal, met inbegrip van het potentiële risico van erosie als gevolg van intrekkingen van rechten van deelnemingen en winstuitkeringen die hoger zijn dan het beleggingsrendement;  
-
-c. aan het product zelf te wijten inflexibiliteit (met inbegrip van het risico van vervroegd uitstappen) en beperkingen op het overschakelen op andere aanbieders;  
-
-d. het algemene risico van inflatie waardoor ook de beleggingsopbrengsten worden aangetast; en  
-
-e. het feit dat financiële en fiscale wet- en regelgeving aan verandering onderhevig is en dat een gunstige omstandigheid ten tijde van toetreding ten nadele kan wijzigen.     
-2.  Indien van toepassing bevat de financiële bijsluiter tevens informatie met betrekking tot de volgende productspecifieke risico’s: 
-
-a. de (tijdelijk) verminderde verhandelbaarheid van de rechten van deelneming van een beleggingsinstelling;  
-
-b. het risico van het gebruik van derivaten, indien deze worden ingezet ter verhoging van het rendement;  
-
-c. het risico dat de hele markt of een activacategorie daalt, waardoor de prijs en de waarde van de activa worden beïnvloed;  
-
-d. het verschijnsel dat valutaschommelingen een negatieve invloed kunnen hebben op het beleggingsresultaat;  
-
-e. de risico’s verbonden aan garanties;  
-
-f. de risico’s die verband houden met een grote concentratie van beleggingen in bepaalde activa of op bepaalde markten; en  
-
-g. overige risico’s als het kredietrisico, bewaarnemingsrisico en het afwikkelingsrisico.     
-3.  De algemene en productspecifieke risico’s worden vermeld in één rangorde, waarbij de omvang van het risico alsmede de waarschijnlijkheid dat een bepaald risico zich manifesteert, bepalend zijn.   
-4.  Bij de beschrijving van de risico’s als bedoeld in het eerste en tweede lid, wordt in de financiële bijsluiter verwezen naar de uitgebreide risicobeschrijving in het prospectus.   
-
-### Artikel  3:20  
-
-Een financiële bijsluiter bevat in de directe nabijheid van de informatie over financiële risico’s de risico-indicator als bedoeld in artikel 3:6, derde lid, en informatie over overige financiële risico’s als bedoeld in artikel 3:7, derde lid.  
-
-### Artikel  3:21  
-
-1.  De financiële bijsluiter bevat in de vorm van een staafdiagram de beleggingsresultaten van de tien voorafgegane, afgesloten boekjaren. De gerealiseerde rendementen worden uitgedrukt in procenten verandering van de intrinsieke waarde tussen begin en einde van het boekjaar.   
-2.  Indien de beleggingsinstelling een historie heeft van minder dan tien jaar en minimaal één jaar, wordt het staafdiagram ingevuld met de resultaten over de desbetreffende periode. Indien de beleggingsinstelling korter dan één jaar bestaat, wordt in de financiële bijsluiter de volgende tekst opgenomen: ‘Omdat de beleggingsinstelling korter dan één jaar bestaat, is in de financiële bijsluiter geen staafdiagram met gerealiseerde beleggingsresultaten opgenomen’.   
-3.  Indien een bepaalde index door de beleggingsinstelling wordt gevolgd of als vergelijkingsmaatstaf wordt gebruikt, worden de in het verleden behaalde resultaten van deze index in hetzelfde staafdiagram gepresenteerd. De behaalde resultaten van deze index worden op dezelfde wijze berekend als de resultaten van de beleggingsinstelling. In de toelichting op het staafdiagram worden de gevolgen van een eventuele wijziging van de te volgen index opgenomen.   
-4.  Boven het staafdiagram wordt de volgende tekst vermeld: ‘Het hieronder gegeven cijfervoorbeeld is alleen als voorbeeld bedoeld en geeft een weerspiegeling van in het verleden behaalde resultaten van de beleggingsinstelling. Op de jaarlijkse rendementen zijn belastingkosten en andere lasten reeds in mindering gebracht. De uiteindelijke, toekomstige beleggingsresultaten zijn niet te voorspellen. De waarde van uw beleggingen kan fluctueren. In het verleden behaalde rendementen bieden geen garantie voor de toekomst.’   
-5.  Het staafdiagram wordt op onderstaande wijze in de financiële bijsluiter gepresenteerd. De voorbeeldwaarden in onderstaand staafdiagram zijn fictieve waarden waarbij is uitgegaan van een beleggingsinstelling met een historie van tien jaar.   ![241806](http://wetten.overheid.nl/Illustration/241806)
-
-### Artikel  3:22  
-
-1.  De financiële bijsluiter bevat informatie over het belastingregime dat van toepassing is op de beleggingsinstelling.   
-2.  Onverminderd het in het eerste lid bepaalde bevat de financiële bijsluiter de volgende tekst: ‘Zowel uw persoonlijke situatie als wijzigingen in de belastingregels van de lidstaat van herkomst of de lidstaat van ontvangst en de uitleg van deze regels kunnen een positieve of negatieve invloed hebben op uw persoonlijke fiscale positie. In geval van onduidelijkheden dient u contact op te nemen met een belastingadviseur’.   
-
-### Artikel  3:23  
-
-1.  De financiële bijsluiter bevat de kostenratio van het voorgaande jaar die ten minste eenmaal per jaar ex post wordt berekend, aangevuld met een toelichting. Tevens bevat de financiële bijsluiter een verwijzing naar de kostenratio in de periode als bedoeld in artikel 3:21, eerste en tweede lid.   
-2.  De kostenratio wordt afgerond op twee decimalen en wordt berekend door de totale kosten per jaar te delen door de gemiddelde intrinsieke waarde van de beleggingsinstelling.   
-3.  De gemiddelde intrinsieke waarde van de beleggingsinstelling is de som van de intrinsieke waarden gedeeld door het aantal waarnemingen. Hierbij wordt de som van de intrinsieke waarden gebaseerd op de cijfers per 31 december van het voorafgaande boekjaar, 31 maart, 30 juni, 30 september en 31 december van het onderhavige boekjaar of vergelijkbare data bij een afwijkend boekjaar. Het aantal waarnemingen is altijd vijf, tenzij sprake is van een verkort of verlengd boekjaar. De waarnemingen worden als gewogen gemiddelde beschouwd, waarbij de bedoelde tijdstippen worden gewogen in de verhouding 0,5:1:1:1:0,5 (bij vijf waarnemingen).   
-4.  Onder totale kosten worden begrepen alle kosten die in de verslagperiode ten laste van het resultaat alsmede ten laste van het eigen vermogen worden gebracht. De kosten van transacties in financiële instrumenten en de interestkosten worden buiten beschouwing gelaten, evenals de kosten verband houdend met het in- en uitstappen van deelnemers, voor zover deze gedekt worden uit de ontvangen op- en afslagen.   
-5.  Zodra een beleggingsinstelling tien procent of meer van haar netto intrinsieke waarde belegt in beleggingsinstellingen die een kostenratio bekendmaken, wordt een synthetische kostenratio opgesteld. Deze synthetische kostenratio is gelijk aan de totale exploitatiekosten inclusief de in- en uitstapkosten die door de onderliggende beleggingsinstellingen (gewogen op basis van de relatieve omvang van de belegging) worden doorberekend aan de beleggingsinstelling gedeeld door gemiddelde intrinsieke waarde van de beleggingsinstelling.   
-6.  Indien de onderliggende beleggingsinstelling geen kostenratio berekent, wordt in de financiële bijsluiter het volgende vermeld: 
-
-a. het maximale percentage van de aan de onderliggende beleggingsinstellingen aangerekende beheervergoedingen;  
-
-b. een synthetisch cijfer van de totale verwachte kosten dat wordt berekend door een gedeeltelijke synthetische kostenratio, waarin de kostenratio’s zijn opgenomen van de onderliggende beleggingsinstellingen waar wel een kostenratio van beschikbaar is, op te tellen bij de in- en uitstapkosten en de maximale schatting van de voor opneming in de kostenratio op te nemen kosten van de onderliggende beleggingsinstelling waarvan geen kostenratio beschikbaar is;  
-
-c. de onmogelijkheid een synthetische kostenratio voor de desbetreffende beleggingsinstelling te berekenen.     
-7.  De financiële bijsluiter bevat, op ex ante-basis, de verwachte kostenstructuur. De kostenstructuur wordt weergegeven afgerond op 1 decimaal indien de beleggingsinstelling een bestaansduur heeft van één jaar of langer. De kostenstructuur wordt kwalitatief beschreven indien de beleggingsinstelling een bestaansduur heeft korter dan één jaar.   
-
-### Artikel  3:24  
-
-De financiële bijsluiter bevat informatie over: 
-
-a. de in- en uitstapkosten die door deelnemers moeten worden betaald bij het verwerven of verkopen van rechten van deelneming in de beleggingsinstelling en  
-
-b. alle overige kosten die niet in de kostenratio zijn verdisconteerd,   aangevuld met een toelichting.  
-
-### Artikel  3:25  
-
-1.  De financiële bijsluiter bevat de omloopfactor.   
-2.  De omloopfactor wordt berekend door het totaal aan transacties in financiële instrumenten (aankopen + verkopen van financiële instrumenten = Totaal 1) minus het totaal aan transacties (uitgifte + inkopen =Totaal 2) van rechten van deelneming te delen door de gemiddelde intrinsieke waarde van de beleggingsinstelling (X) volgens de formule: [(Totaal 1 – Totaal 2) / X] * 100.   
-3.  De gemiddelde intrinsieke waarde als bedoeld in het tweede lid wordt berekend overeenkomstig artikel 3:23, derde lid.   
-
-### Artikel  3:26  
-
-1.  De financiële bijsluiter maakt melding, voor zover van toepassing, van het bestaan van retourprovisies en goederen die de beheerder, bestuurders, gelieerde partijen of derden ontvangen of in het vooruitzicht worden gesteld voor het uitvoeren van opdrachten ten behoeve van de beheerder of de beleggingsinstelling.   
-2.  De financiële bijsluiter bevat een verwijzing naar het prospectus voor een gedetailleerd overzicht van de regelingen als bedoeld in het eerste lid.   
-
-### Artikel  3:27  
-
-De financiële bijsluiter bevat informatie, voor zover van toepassing, over de volgende kenmerken: 
-
-a. de frequentie van prijsstellingen en waar deze prijsstellingen worden gepubliceerd;  
-
-b. de mogelijkheden en, voor zover van toepassing, de kosten om binnen een beleggingsinstelling te veranderen van sub-fonds;  
-
-c. het dividendbeleid van de beleggingsinstelling; en  
-
-d. de mogelijkheid om uit de beleggingsinstelling te stappen.    
-
-### Artikel  3:28  
-
-De financiële bijsluiter bevat de volgende tekst: ‘Voor vragen kunt u de Toezichtslijn van de Autoriteit Financiële Markten bellen: 0900-5400 540 of kijken op de website www.afm.nl’.  
-
 ### Hoofdstuk  4  
 
 ####Aanvullende regels betreffende het aanbieden van beleggingsobjecten
@@ -773,85 +640,53 @@ Bij berekening van de beleggingsobjectkosten, bedoeld in artikel 4:2, worden opb
 
 ####Regels met betrekking tot het prospectus
 
-### Artikel  5:1  
-
-Indien de bestaansduur van de beleggingsinstelling dat mogelijk maakt wordt in de kostenparagraaf van het prospectus inzicht verschaft in het niveau van de kosten van de beleggingsinstelling gerelateerd aan haar gemiddelde intrinsieke waarde van het voorgaande boekjaar door middel van de kostenratio berekend conform artikel 3:23 tweede tot en met zesde lid.  
-
 ### §  5.2  
 
 ####Regels met betrekking tot de toelichting op de balans en de winst- en verliesrekening van een beleggingsinstelling
 
 ### Artikel  5:2  
 
-1.  In de toelichting op de balans en de winst- en verliesrekening van de beleggingsinstelling wordt inzicht verschaft in het niveau van de kosten van de beleggingsinstelling gerelateerd aan haar gemiddelde intrinsieke waarde door middel van de kostenratio berekend conform artikel 3:23 tweede tot en met zesde lid.   
-2.  In de toelichting op de balans en de winst- en verliesrekening van de beleggingsinstelling wordt inzicht verschaft in de omloopsnelheid van de activa door middel van de omloopfactor berekend conform artikel 3:25, tweede en derde lid.   
+1.  In de toelichting op de balans en de winst- en verliesrekening van de beleggingsinstelling wordt inzicht verschaft in de lopende kosten van de beleggingsinstelling en eventueel in rekening gebrachte prestatievergoedingen. De berekening van de lopende kosten geschiedt conform de bepaling over lopende kosten in artikel 10, tweede lid, onderdeel b, van verordening nr. 583/2010 van de Europese Commissie van 1 juli 2010 tot uitvoering van Richtlijn 2009/65/EG van het Europees Parlement en de Raad van de Europese Unie wat betreft essentiële beleggersinformatie en de voorwaarden waaraan moet worden voldaan als de essentiële beleggersinformatie of het prospectus op een andere duurzame drager dan papier of via een website wordt verstrekt (PbEU L 176) en de uitwerking daarvan door de Europese Autoriteit voor effecten en markten.   
+2.  In de toelichting op de balans en de winst- en verliesrekening van de beleggingsinstelling wordt inzicht verschaft in de omloopsnelheid van de activa door middel van de omloopfactor.   
+3.  De omloopfactor, bedoeld in het tweede lid, wordt berekend door het totaal van transacties in financiële instrumenten (aankopen + verkopen van financiële instrumenten = Totaal 1) minus het totaal aan transacties (uitgifte + inkopen = Totaal 2) van rechten van deelneming te delen door de gemiddelde intrinsieke waarde van de beleggingsinstelling (X) volgens de formule [(Totaal 1 – Totaal 2) / X] * 100.   
+4.  De gemiddelde intrinsieke waarde, bedoeld in het derde lid, is de som van de intrinsieke waarden gedeeld door het aantal waarnemingen en wordt op dezelfde manier bepaald als door de Europese Autoriteit voor effecten en markten is voorgeschreven voor de berekening van de lopende kosten, bedoeld in het eerste lid.   
 
 ### §  5.3  
 
-####Regels met betrekking tot risicobeheersing door instellingen voor collectieve belegging in effecten
+####Regels met betrekking tot risicobeheersing door instellingen voor collectieve beleggingen in effecten
 
 ### Artikel  5:3  
 
-Bij de berekening van het marktrisico bij het gebruik van financiële derivaten worden de derivatenposities van de beleggingsinstelling omgezet in de gelijkwaardige positie in de onderliggende activa waarbij onder meer met de volgende aspecten rekening wordt gehouden: 
-
-a. actuele marktwaarde van het derivatencontract;  
-
-b. het totale derivatenrisico van de beleggingsinstelling;  
-
-c. het doel, aantal en frequentie van transacties in financiële derivaten;  
-
-d. de gehanteerde beheertechnieken;  
-
-e. in het geval van opties, de gevoeligheid van de optieprijs voor marginale veranderingen in de koers van de onderliggende activa; en  
-
-f. in het geval forwards, futures en swaps, de precieze aard van de onderliggende transacties.    
+Een beheerder berekent het totale risico van een door hem beheerde instelling voor collectieve belegging in effecten overeenkomstig de artikelen 5:4 tot en met 5:6.  
 
 ### Artikel  5:4  
 
-1.  In afwijking van artikel 5:3 kan bij de berekening van het marktrisico bij het gebruik van financiële derivaten het maximale potentiële verlies van de totale beleggingsportefeuille worden bepaald waarbij onder meer met de volgende aspecten rekening wordt gehouden: 
+1.  Het totale risico van een instelling voor collectieve belegging in effecten, bedoeld in [artikel 133, zesde lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) wordt berekend op een van de volgende wijzen: 
 
-a. een betrouwbaarheidsinterval van minimaal 95 procent;  
+a. de verhoogde blootstelling en het hefboomeffect die door de instelling voor collectieve belegging in effecten worden gegenereerd door van financiële derivaten, met inbegrip van ingepaste derivaten gebruik te maken, waarbij de totale intrinsieke waarde van de instelling voor collectieve belegging in effecten niet mag worden overschreden; of  
 
-b. een aanhoudingsperiode van maximaal één maand; en  
-
-c. volatiliteiten binnen een representatieve periode.     
-2.  Bij het hanteren van de methode, bedoeld in het eerste lid, worden op geregelde basis controles uitgevoerd om te controleren of ook met extreme financiële of economische gebeurtenissen rekening wordt gehouden.   
+b. het marktrisico van de portefeuille van de instelling voor collectieve belegging in effecten.     
+2.  Het totale risico wordt berekend door gebruik te maken van de benadering op basis van de aangegane verplichtingen, de benadering op basis van risicowaarde of door een andere geavanceerde methode voor risicometing, wanneer die beter aansluit bij de beleggingen.   
+3.  Voor de toepassing van dit artikel wordt onder risicowaarde het volgende verstaan: een raming van het maximale potentiële verlies dat binnen een bepaalde tijdshorizon met een bepaalde zekerheidsgraad zal worden geleden.   
+4.  Wanneer een instelling voor collectieve belegging in effecten technieken en instrumenten, inclusief retrocessieovereenkomsten of effectenkrediet, aanwendt om voor een extra hefboomeffect of een extra blootstelling aan marktrisico te zorgen, worden deze transacties in aanmerking genomen bij de berekening van het totale risico.   
 
 ### Artikel  5:5  
 
-Het tegenpartijrisico, bedoeld in [artikel 134, tweede lid van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), bij transacties in financiële derivaten wordt berekend op grond van het maximale potentiële verlies voor de beleggingsinstelling wanneer de tegenpartij in gebreke blijft.  
+1.  Indien voor de berekening van het totale risico van de benadering op basis van de aangegane verplichtingen wordt gebruikgemaakt, wordt deze benadering toegepast op alle posities in financiële derivaten, met inbegrip van derivaten die ingepast zijn in effecten of geldmarktinstrumenten, ongeacht of deze worden gebruikt als onderdeel van het algemene beleggingsbeleid van de instelling voor collectieve belegging in effecten, ter vermindering van het risico, dan wel met het oog op een goed portefeuillebeheer.   
+2.  Indien voor de berekening van het totale risico van de benadering op basis van de aangegane verplichtingen wordt gebruikgemaakt, wordt elke financiële derivatenpositie omgezet in de marktwaarde van een gelijkwaardige positie in het onderliggende activum van dat derivaat. Dit is de standaardbenadering op basis van de aangegane verplichtingen.   
+3.  Het gebruik van andere berekeningsmethoden is toegestaan indien deze gelijkwaardig zijn aan de standaardbenadering op basis van de aangegane verplichtingen.   
+4.  Het is toegestaan verrekening- en risicodekkingsregelingen in aanmerking te nemen bij de berekening van het totale risico, indien deze regelingen voor de hand liggende en wezenlijke risico’s niet negeren en in een duidelijke vermindering van het totale risico resulteren.   
+5.  Indien het gebruik van financiële derivaten niet in een verhoogde blootstelling voor de instelling voor collectieve belegging in effecten resulteert, hoeft het onderliggende risico bij de berekening van de verplichtingen niet in aanmerking te worden genomen.   
+6.  Indien van de benadering op basis van de aangegane verplichtingen gebruik wordt gemaakt, hoeven kortlopende leningen die in naam van de instelling voor collectieve belegging in effecten zijn aangegaan, niet in aanmerking te worden genomen bij de berekening van het totale risico indien wordt voldaan aan [artikel 133, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md).   
 
 ### Artikel  5:6  
 
-Bij de berekening van het tegenpartijrisico kan rekening worden gehouden met zekerheden ter dekking, indien deze zekerheden: 
-
-a. dagelijks tegen marktwaarde worden gewaardeerd en de waarde van het risicobedrag overtreffen;  
-
-b. alleen aan verwaarloosbare risico’s zijn blootgesteld en liquide zijn;  
-
-c. in handen zijn van een derde (bewaarnemer) die geen banden heeft met de verstrekker of juridisch afgeschermd zijn van de gevolgen van het in gebreke blijven van een verbonden partij; en  
-
-d. op ieder tijdstip volledig te gelde kunnen worden gemaakt door de beleggingsinstelling.    
-
-### Artikel  5:7  
-
-Er is geen sprake van een tegenpartijrisico indien: 
-
-a. de transactie in financiële derivaten plaatsvindt op een gereglementeerde markt of een andere erkende markt;  
-
-b. de clearinginstelling op deze markt gedekt wordt door een uitvoeringsgarantie;  
-
-c. de derivatenposities dagelijks tegen marktwaarde worden gewaardeerd; en  
-
-d. de hoogte van de marginverplichtingen ten minste eenmaal per dag wordt vastgesteld.    
-
-### Artikel  5:8  
-
-Indien het gebruik van financiële derivaten verplicht tot de automatische, of naar keuze van de tegenpartij, levering op de vervaldatum of uitoefendatum van de onderliggende financiële instrumenten, dan wel een ander gelijkwaardig onderliggend instrument dat op ieder tijdstip kan worden aangewend, worden de voor de levering van het te leveren onderliggende financiële instrument ter dekking in portefeuille van beleggingsinstellingen opgenomen.  
-
-### Artikel  5:9  
-
-Bij het gebruik van financiële derivaten die automatisch of naar keuze van de beleggingsinstelling in contanten worden afgewikkeld, worden liquide activa in de portefeuille van de beleggingsstelling opgenomen die binnen zeven werkdagen in contanten kunnen worden omgezet tegen een prijs die nauw aansluit bij de actuele waardering van het financiële instrument op zijn markt, of anderszins aan deze waarborgen wordt voldaan.  
+1.  Tegenpartijrisico dat voortvloeit uit een financieel derivaat dat niet op een gereglementeerde markt of een andere markt in financiële instrumenten wordt verhandeld wordt onderworpen aan de in [artikel 134 van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) beschreven begrenzingen.   
+2.  Indien een beheerder het door een instelling voor collectieve belegging in effecten gelopen tegenpartijrisico overeenkomstig de in [artikel 134, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) beschreven begrenzingen berekent, gebruikt de beheerder de positieve marktwaarde van het met de betrokken tegenpartij afgesloten contract betreffende een financieel derivaat, bedoeld in het eerste lid. Een beheerder mag de derivatenposities van een instelling voor collectieve belegging in effecten met eenzelfde tegenpartij verrekenen, mits zij in staat zijn verrekeningsovereenkomsten met de tegenpartij juridisch af te dwingen namens de instelling voor collectieve belegging in effecten. Verrekening is enkel toegestaan met betrekking tot financiële derivaten, bedoeld in het eerste lid, met dezelfde tegenpartij en niet met betrekking tot andere risicoposities die de instelling voor collectieve belegging in effecten jegens dezelfde tegenpartij kan hebben.   
+3.  Het tegenpartijrisico dat een instelling voor collectieve belegging in effecten wegens een transactie in financiële derivaten, bedoeld in het eerste lid, loopt, kan door middel van de ontvangst van zekerheden worden beperkt. De ontvangen zekerheden zijn voldoende liquide zodat zij snel kunnen worden verkocht tegen een prijs die hun waardering van voor de verkoop sterk benadert.   
+4.  Een beheerder neemt zekerheden in aanmerking bij de berekening van het in [artikel 134, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) bedoelde tegenpartijrisico wanneer de beheerder namens de instelling voor collectieve belegging in effecten zekerheden aan een tegenpartij in financiële derivaten, bedoeld in het eerste lid, doorgeeft. Doorgegeven zekerheden mogen enkel op nettobasis in aanmerking worden genomen indien de beheerder in staat is verrekeningsovereenkomsten met deze tegenpartij juridisch af te dwingen namens de instelling voor collectieve belegging in effecten.   
+5.  Een beheerder berekent de in [artikel 134 van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) bedoelde begrenzingen voor concentraties van beleggingen in één uitgevende instelling overeenkomstig de benadering op basis van de aangegane verplichtingen, op grond van het onderliggende risico dat uit het gebruik van financiële derivaten voortvloeit.   
+6.  Met betrekking tot het risico dat voortvloeit uit in [artikel 134, derde lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) bedoelde transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, neemt een beheerder elk aan die financiële derivaten verbonden tegenpartijrisico bij de berekening in aanmerking.   
 
 ### Hoofdstuk  6  
 
@@ -1048,15 +883,31 @@ P.M.Koster RA
 
 ### Bijlage  1  
 
-####Bijlage ter uitvoering van de artikel 2:1 , houdende het model voor risico-indicator in reclame
+####Bijlage ter uitvoering van artikel 2:2 , houdende het model voor risico-indicator in reclame
 
-#### *1. Schriftelijke reclame-uiting of reclame-uiting op internet* 
+### 1  
+
+####Schriftelijke reclame-uiting of reclame-uiting op internet voor complexe producten niet zijnde rechten van deelneming in een beleggingsinstelling
+
+![249478](http://wetten.overheid.nl/Illustration/249478)
+
+### 2  
+
+####Reclame-uiting op televisie voor complexe producten niet zijnde rechten van deelneming in een beleggingsinstelling
 
 ![241807](http://wetten.overheid.nl/Illustration/241807)
 
-#### *2. Reclame-uiting op televisie* 
+### 3  
+
+####Schriftelijke reclame-uiting of reclame-uiting op internet voor rechten van deelneming in een beleggingsinstelling
 
 ![241808](http://wetten.overheid.nl/Illustration/241808)
+
+### 4  
+
+####Reclame-uiting op televisie voor rechten van deelneming in een beleggingsinstelling
+
+![249481](http://wetten.overheid.nl/Illustration/249481)
 
 ### Bijlage  2.1  
 
