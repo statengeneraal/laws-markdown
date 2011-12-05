@@ -7,18 +7,21 @@ Gelet op [artikel 4 van de Wet op de zorgtoeslag](../../../../../../wet/wet/op/d
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2011 
 
-De standaardpremie wordt voor het jaar 2009 vastgesteld op € 1 209.  
+De standaardpremie wordt voor het jaar 2009 vastgesteld op € 1 209. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2011 
 
-Deze regeling treedt in werking met ingang van 1 januari 2009.  
+Deze regeling treedt in werking met ingang van 1 januari 2009. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2011 
 
-Deze regeling wordt aangehaald als: Regeling vaststelling standaardpremie 2009.  
+Deze regeling wordt aangehaald als: Regeling vaststelling standaardpremie 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

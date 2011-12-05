@@ -7,18 +7,21 @@ Gelet op [artikel 4 van de Wet op de zorgtoeslag](../../../../../../wet/wet/op/d
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2013 
 
-De standaardpremie wordt voor het jaar 2011 vastgesteld op € 1375,–.  
+De standaardpremie wordt voor het jaar 2011 vastgesteld op € 1375,–. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2013 
 
-Deze regeling treedt in werking met ingang van 1 januari 2011.  
+Deze regeling treedt in werking met ingang van 1 januari 2011. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2013 
 
-Deze regeling wordt aangehaald als: Regeling vaststelling standaardpremie 2011.  
+Deze regeling wordt aangehaald als: Regeling vaststelling standaardpremie 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     
