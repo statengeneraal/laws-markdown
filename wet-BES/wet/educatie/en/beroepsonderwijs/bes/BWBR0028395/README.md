@@ -1492,6 +1492,40 @@ c. onrechtmatig handelen, waaronder wordt verstaan het in de hoedanigheid van be
 2.  Degene die in strijd handelt met het eerste lid, wordt gestraft met geldboete van de eerste categorie.   
 3.  Het in het eerste lid strafbaar gestelde feit is een overtreding.   
 
+### Hoofdstuk  10a  
+
+####Experimenten
+
+### Artikel  10a.1  
+
+####Ruimte voor innovatie
+
+1.  Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het beroepsonderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van: 
+
+– titel 2 van hoofdstuk 2,  
+
+– hoofdstuk 6, en  
+
+– hoofdstuk 7.     
+2.  In geval van toepassing van het eerste lid worden bij algemene maatregel van bestuur in ieder geval bepaald: 
+
+a. het doel van het experiment,  
+
+b. op welke wijze van welke artikelen van de in het eerste lid genoemde hoofdstukken, titels of paragrafen wordt afgeweken,  
+
+c. de duur van het experiment, en  
+
+d. op welke wijze en aan de hand van welke criteria de met het experiment beoogde effecten worden geëvalueerd.   De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van een experiment.   
+4.  Een experiment duurt ten hoogste zes jaar. Indien, voordat een experiment is afgelopen, een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.   
+5.  Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.   
+6.  Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, kan bij wijze van experiment tevens worden afgeweken van: 
+
+a. [artikel 1 van de Leerplichtwet BES](../../../../../../../wet-BES/leerplichtwet/bes/BWBR0030281/README.md);  
+
+b. [artikel 1.1 van de Wet studiefinanciering BES](../../../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md).     
+7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband tussen een instelling en een school als bedoeld in de [Wet op het voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) of een instelling als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek. Bij samenwerking met een school als bedoeld in de Wet op het voortgezet onderwijs BES kan voor die school worden afgeweken van [titel II, afdeling I, hoofdstuk I](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en van [titel III, afdeling III](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), van die wet. Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de Wet op het voortgezet onderwijs BES onderscheidenlijk de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
+
 ### Hoofdstuk  11  
 
 ####Overgangs- en slotbepalingen
@@ -1550,6 +1584,18 @@ Wijzigt deze wet.
 ####Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
 
 Tot een bij koninklijk besluit te bepalen tijdstip blijven de bepalingen van de Wet educatie en beroepsonderwijs BES zoals die is komen te luiden op 10 oktober 2010, van kracht voor zover de regeling van de daarin opgenomen onderwerpen niet is vervangen door de inwerkingtreding van overeenkomstige onderwerpen in deze wet.  
+
+### Artikel  11.6b  
+
+####Overgangsbepaling eindtermgerichte opleidingen
+
+Het bevoegd gezag kan tot een bij koninklijk besluit te bepalen tijdstip op eindtermen gerichte beroepsopleidingen verzorgen. Op deze opleidingen zijn de artikelen 1.1.1, 1.4.1, 2.2.2, 7.1.2, 7.1.3, 7.2.2, 7.2.3, 7.2.4, 7.2.5, 7.2.6, 7.2.7, 7.4.2, 7.4.3, 7.4.5, 7.4.8, 8.1.1 en 8.1.5 zoals luidend op de dag voor de inwerkingtreding van de wijzigingen van die artikelen op grond van deze wet en de eindtermen die gelden op die dag van toepassing.  
+
+### Artikel  11.6b*  
+
+####Inwerkingtreding
+
+De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.  
 
 ### Artikel  11.7  
 

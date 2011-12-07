@@ -18,7 +18,7 @@ b. *school*:
 
 1°. een openbare of een uit openbare kas bekostigde bijzondere basisschool of school of inrichting voor voortgezet onderwijs;  
 
-2°. een ingevolge artikel 112 van de Wet voortgezet onderwijs BES aangewezen bijzondere school voor voortgezet onderwijs;  
+2°. een ingevolge [artikel 112 van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) aangewezen bijzondere school voor voortgezet onderwijs;  
 
 3°. een andere school die wat de inrichting van het onderwijs betreft, overeenkomt met de criteria, bedoeld in artikel 3, en wat de bevoegdheden van leraren betreft, overeenkomt met een of meer van de onder 1° bedoelde scholen;  
 
@@ -26,7 +26,7 @@ b. *school*:
 
 c. *instelling*: 
 
-1°. een instelling voor educatie en beroepsonderwijs als bedoeld in de Wet educatie en beroepsonderwijs BES;  
+1°. een instelling voor educatie en beroepsonderwijs als bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);  
 
 2°. een andere krachtens artikel 2, eerste lid, onder b, voor de toepassing van deze wet als instelling aangewezen cursus of instelling, waar onderwijs of vorming wordt gegeven;    
 
@@ -38,11 +38,11 @@ d. *hoofd*:
 
 e. *ambtenaar*: de ambtenaar, bedoeld in artikel 28;  
 
-f. *startkwalificatie*: een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs BES of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 13 onderscheidenlijk artikel 14 van de Wet voortgezet onderwijs BES;  
+f. *startkwalificatie*: een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs BES](../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 13](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) onderscheidenlijk [artikel 14 van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
 
 g. *openbaar lichaam*: het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
-h. *inspectie*: de inspectie, bedoeld in de Wet op het onderwijstoezicht;  
+h. *inspectie*: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
 i. *persoonsgebonden nummer BES*: het nummer waaronder de jongere bij de burgerlijke stand van het openbaar lichaam is ingeschreven dan wel het door Onze Minister uitgegeven onderwijsnummer.    
 
@@ -59,15 +59,15 @@ b. cursussen of instellingen waar onderwijs of vorming wordt gegeven dan wel gro
 
 ### Artikel  3  
 
-####Scholen als bedoeld in artikel 1, onderdeel b, subonderdeel 3
+####Scholen als bedoeld in artikel 1, onderdeel b, subonderdeel 3 
 
-1.  Onverminderd titel I van de Wet primair onderwijs BES en titel I van de Wet voortgezet onderwijs BES, moet een school als bedoeld in artikel 1, onderdeel b, subonderdeel 3, 
+1.  Onverminderd [titel I van de Wet primair onderwijs BES](../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) en [titel I van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), moet een school als bedoeld in artikel 1, onderdeel b, subonderdeel 3, 
 
-a. wat de inrichting van het basisonderwijs betreft, voldoen aan de criteria, bedoeld in de artikelen 10, eerste, tweede, derde, vijfde, zesde lid onderdeel a, zevende en achtste lid, 11, 12 en 13, eerste volzin, van de Wet primair onderwijs BES, en tevens heeft de school een schoolplan dat ten minste een beschrijving bevat van het beleid inzake het onderwijs, bedoeld in artikel 10, derde lid, van genoemde wet;  
+a. wat de inrichting van het basisonderwijs betreft, voldoen aan de criteria, bedoeld in de [artikelen 10, eerste, tweede, derde, vijfde, zesde lid onderdeel a, zevende en achtste lid](../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md), [11](../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md), [12](../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) en [13, eerste volzin, van de Wet primair onderwijs BES](../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md), en tevens heeft de school een schoolplan dat ten minste een beschrijving bevat van het beleid inzake het onderwijs, bedoeld in artikel 10, derde lid, van genoemde wet;  
 
-b. wat de inrichting van het voortgezet onderwijs betreft, voldoen aan de criteria, bedoeld in de artikelen 8 en 47, eerste volzin, van de Wet voortgezet onderwijs BES, en tevens heeft de school een schoolplan dat ten minste een beschrijving bevat van het beleid inzake het onderwijs, bedoeld in artikel 42 van genoemde wet en besteedt het onderwijs binnen de eerste twee leerjaren van het voortgezet onderwijs aantoonbaar aandacht aan de kerndoelen, bedoeld in artikel 34 van genoemde wet, en aansluitend aan de kerndoelen als onderwijsprogramma voor de eerste twee leerjaren, stelt het onderwijs de leerlingen aantoonbaar in staat om hun onderwijsloopbaan voort te zetten in het vervolgonderwijs op een niveau dat van de leerling verwacht mag worden.     
+b. wat de inrichting van het voortgezet onderwijs betreft, voldoen aan de criteria, bedoeld in de [artikelen 8](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en [47, eerste volzin, van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en tevens heeft de school een schoolplan dat ten minste een beschrijving bevat van het beleid inzake het onderwijs, bedoeld in [artikel 42 van genoemde wet](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en besteedt het onderwijs binnen de eerste twee leerjaren van het voortgezet onderwijs aantoonbaar aandacht aan de kerndoelen, bedoeld in [artikel 34 van genoemde wet](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en aansluitend aan de kerndoelen als onderwijsprogramma voor de eerste twee leerjaren, stelt het onderwijs de leerlingen aantoonbaar in staat om hun onderwijsloopbaan voort te zetten in het vervolgonderwijs op een niveau dat van de leerling verwacht mag worden.     
 2.  Het bestuurscollege volgt bij zijn oordeel of een onderwijsvoorziening een school is als bedoeld in artikel 1, onderdeel b, subonderdeel 3, een door de inspectie ter zake gegeven advies.   
-3.  Indien Onze Minister naar aanleiding van een melding als bedoeld in artikel 14 van de Wet op het onderwijstoezicht, aan het bestuurscollege van het openbaar lichaam waarin de school is gevestigd adviseert dat de school niet langer voldoet aan de criteria die gelden voor een school als bedoeld in artikel 1, onderdeel b, subonderdeel 3, dan volgt het bestuurscollege dit advies en oordeelt dat de school niet langer een school is als bedoeld in artikel 1, onderdeel b, subonderdeel 3.   
+3.  Indien Onze Minister naar aanleiding van een melding als bedoeld in [artikel 14 van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), aan het bestuurscollege van het openbaar lichaam waarin de school is gevestigd adviseert dat de school niet langer voldoet aan de criteria die gelden voor een school als bedoeld in artikel 1, onderdeel b, subonderdeel 3, dan volgt het bestuurscollege dit advies en oordeelt dat de school niet langer een school is als bedoeld in artikel 1, onderdeel b, subonderdeel 3.   
 4.  Indien het advies, bedoeld in het derde lid, daartoe aanleiding geeft, stelt het bestuurscollege de ouders van de leerlingen van de onderwijsvoorziening binnen 7 dagen schriftelijk op de hoogte van het feit dat de onderwijsvoorziening niet langer een school is als bedoeld in artikel 1, onderdeel b, subonderdeel 3, of verzekert het er zich van dat de onderwijsvoorziening de ouders daarvan op de hoogte heeft gesteld.   
 
 ### Artikel  4  
@@ -110,7 +110,7 @@ b. aan het einde van het schooljaar waarin de jongere de leeftijd van zestien ja
 
 ####Vervangende leerplicht
 
-1.  Indien het een jongere betreft die ten minste de leeftijd van 14 jaar heeft bereikt en waarvan naar het oordeel van het bestuurscollege is komen vast te staan, dat hij niet geschikt is volledig onderwijs aan een school te volgen, kan het bestuurscollege van het openbaar lichaam waar de jongere als ingezetene is ingeschreven, op verzoek van de in artikel 6, eerste lid, bedoelde personen, in overeenstemming met het bevoegd gezag van de school, toestaan dat gedurende een bepaald schooljaar, voor zover nodig, in afwijking van het bepaalde in de artikelen 33, 35 en 36 van de Wet voortgezet onderwijs BES de jongere aan de school een programma volgt, dat naast algemeen vormend onderwijs en op het beroep gericht onderwijs tevens praktijktijd bevat, bestaande uit arbeid van lichte aard, te verrichten naast en in de samenhang met het onderwijs.   
+1.  Indien het een jongere betreft die ten minste de leeftijd van 14 jaar heeft bereikt en waarvan naar het oordeel van het bestuurscollege is komen vast te staan, dat hij niet geschikt is volledig onderwijs aan een school te volgen, kan het bestuurscollege van het openbaar lichaam waar de jongere als ingezetene is ingeschreven, op verzoek van de in artikel 6, eerste lid, bedoelde personen, in overeenstemming met het bevoegd gezag van de school, toestaan dat gedurende een bepaald schooljaar, voor zover nodig, in afwijking van het bepaalde in de [artikelen 33](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [35](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en [36 van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) de jongere aan de school een programma volgt, dat naast algemeen vormend onderwijs en op het beroep gericht onderwijs tevens praktijktijd bevat, bestaande uit arbeid van lichte aard, te verrichten naast en in de samenhang met het onderwijs.   
 2.  Het verzoek, bedoeld in het eerste lid, gaat vergezeld van een plan van aanpak dat voorziet in een begeleidingsprogramma ten behoeve van de jongere dat is opgesteld door de school en dat ten minste bevat een beschrijving van de onderwijsdoelen en van de praktijktijd.   
 3.  Alvorens het bestuurscollege besluit op het verzoek, bedoeld in het eerste lid, hoort het bestuurscollege in elk geval: 
 
@@ -118,7 +118,7 @@ a. degene die het verzoek heeft ingediend en de jongere zelf, en
 
 b. het hoofd van de school waar de jongere staat ingeschreven.     
 4.  Het bestuurscollege besluit binnen 4 weken na ontvangst van het verzoek, bedoeld in het eerste lid, en zendt binnen 2 weken na het nemen van het besluit daarvan afschrift aan de in artikel 6, eerste lid, bedoelde personen.   
-5.  Indien de jongere nog steeds niet geschikt is volledig onderwijs als bedoeld in het eerste lid aan een school te volgen, kunnen de in artikel 6, eerste lid, bedoelde personen het bestuurscollege ten minste acht weken voor het verstrijken van de periode waarvoor toestemming is verleend, verzoeken de toestemming voor het daaropvolgend schooljaar te verlengen. Het verzoek gaat vergezeld van een verklaring van het hoofd van de school waar de jongere staat ingeschreven, waarin een overzicht is gegeven van de wijze waarop uitvoering is gegeven aan het programma en waaruit blijkt dat een terugkeer van de jongere naar het onderwijs, bedoeld in de artikelen 33 tot en met 36 van de Wet voortgezet onderwijs BES, te ontraden is, alsmede dat voortzetting van het programma bijdraagt aan de ontwikkeling van de jongere. Het tweede en derde lid zijn van toepassing.   
+5.  Indien de jongere nog steeds niet geschikt is volledig onderwijs als bedoeld in het eerste lid aan een school te volgen, kunnen de in artikel 6, eerste lid, bedoelde personen het bestuurscollege ten minste acht weken voor het verstrijken van de periode waarvoor toestemming is verleend, verzoeken de toestemming voor het daaropvolgend schooljaar te verlengen. Het verzoek gaat vergezeld van een verklaring van het hoofd van de school waar de jongere staat ingeschreven, waarin een overzicht is gegeven van de wijze waarop uitvoering is gegeven aan het programma en waaruit blijkt dat een terugkeer van de jongere naar het onderwijs, bedoeld in de [artikelen 33 tot en met 36 van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), te ontraden is, alsmede dat voortzetting van het programma bijdraagt aan de ontwikkeling van de jongere. Het tweede en derde lid zijn van toepassing.   
 6.  Een jongere die wegens gedragsproblemen de veiligheid van medeleerlingen en personeel negatief beïnvloedt en die een grens heeft overschreden of dreigt te overschrijden en daardoor tijdelijk niet meer is te handhaven binnen de school, kan door het bestuurscollege van het openbaar lichaam waar de jongere als ingezetene is ingeschreven, op verzoek van het bevoegd gezag van een school en na overleg met de in artikel 6, eerste lid, bedoelde personen, opgedragen worden een niet vrijblijvend traject te volgen buiten de school. Dit traject wordt gevolgd binnen een afgebakende periode van enkele maanden, waarin de jongere gemotiveerd wordt om zijn schoolloopbaan te vervolgen. Dit traject wordt gevolgd in een daartoe door Onze Minister aangewezen organisatie.   
 
 ### Artikel  9  
@@ -126,7 +126,7 @@ b. het hoofd van de school waar de jongere staat ingeschreven.
 ####Vervangende leerplicht laatste schooljaar
 
 1.  Op verzoek van de in artikel 6, eerste lid, bedoelde personen kan het bestuurscollege van het openbaar lichaam waar de jongere als ingezetene is ingeschreven, toestaan dat de inschrijving van de jongere aan een school voor het laatste schooljaar, bedoeld in artikel 7, eerste lid, onder a of b, wordt vervangen door de inschrijving als leerling van een instelling als bedoeld in paragraaf 3.   
-2.  Het verzoek, bedoeld in het eerste lid, gaat vergezeld van plan van aanpak dat voorziet in een begeleidingsprogramma ten behoeve van de jongere dat is opgesteld door de instelling waar de jongere ingeschreven wenst te worden. Het begeleidingsprogramma bevat ten minste een beschrijving van de onderwijs- en vormingsdoelen, waaronder algemeen vormend onderwijs en op het beroep gericht onderwijs, alsmede de wijze waarop arbeid van lichte aard zal worden verricht, naast het volgen van onderwijs aan een instelling als bedoeld in paragraaf 3 doch niet in samenhang met het onderwijs. Indien het betreft een jongere, die ten tijde van de indiening van het verzoek een programma als bedoeld in artikel 8, eerste lid, volgt, gaat het verzoek tevens vergezeld van een verklaring van het hoofd van de school waar de jongere staat ingeschreven, waarin een overzicht is gegeven van de wijze waarop uitvoering is gegeven aan het programma en waaruit blijkt dat een terugkeer van de jongere naar het onderwijs, bedoeld in de artikelen 33 tot en met 36 van de Wet voortgezet onderwijs BES, dan wel een voortgezette toepassing van artikel 8, eerste lid, te ontraden is.   
+2.  Het verzoek, bedoeld in het eerste lid, gaat vergezeld van plan van aanpak dat voorziet in een begeleidingsprogramma ten behoeve van de jongere dat is opgesteld door de instelling waar de jongere ingeschreven wenst te worden. Het begeleidingsprogramma bevat ten minste een beschrijving van de onderwijs- en vormingsdoelen, waaronder algemeen vormend onderwijs en op het beroep gericht onderwijs, alsmede de wijze waarop arbeid van lichte aard zal worden verricht, naast het volgen van onderwijs aan een instelling als bedoeld in paragraaf 3 doch niet in samenhang met het onderwijs. Indien het betreft een jongere, die ten tijde van de indiening van het verzoek een programma als bedoeld in artikel 8, eerste lid, volgt, gaat het verzoek tevens vergezeld van een verklaring van het hoofd van de school waar de jongere staat ingeschreven, waarin een overzicht is gegeven van de wijze waarop uitvoering is gegeven aan het programma en waaruit blijkt dat een terugkeer van de jongere naar het onderwijs, bedoeld in de [artikelen 33 tot en met 36 van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), dan wel een voortgezette toepassing van artikel 8, eerste lid, te ontraden is.   
 3.  Alvorens het bestuurscollege besluit op het verzoek, bedoeld in het eerste lid, hoort het bestuurscollege in elk geval: 
 
 a. degene die het verzoek heeft ingediend en de jongere zelf;  
@@ -156,7 +156,7 @@ c. de instellingen van maatschappelijke zorg die reeds bij de begeleiding van de
 a. ten aanzien van de jongere de leerplicht, bedoeld in paragraaf 2, is geëindigd, en  
 
 b. de jongere geen startkwalificatie heeft behaald.     
-2.  De verplichting, bedoeld in het eerste lid, geldt niet ten aanzien van jongeren die in het bezit zijn van een getuigschrift of een schooldiploma praktijkonderwijs als bedoeld in artikel 73 van de Wet voortgezet onderwijs BES.   
+2.  De verplichting, bedoeld in het eerste lid, geldt niet ten aanzien van jongeren die in het bezit zijn van een getuigschrift of een schooldiploma praktijkonderwijs als bedoeld in [artikel 73 van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).   
 3.  Artikel 6, tweede lid, is van overeenkomstige toepassing ten aanzien van de verplichtingen, bedoeld in het eerste lid.   
 4.  Als de inschrijving, bedoeld in het eerste lid, plaats vindt aan een andere school of instelling dan daarvoor door de jongere werd bezocht, wordt bij de inschrijving een van overheidswege verstrekt document of een bewijs van uitschrijving van een andere school of instelling overgelegd waarop de gegevens van de jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en persoonsgebonden nummer BES zijn vermeld. Als de in artikel 6, eerste lid, bedoelde personen bij de inschrijving aannemelijk hebben gemaakt dat zij geen persoonsgebonden nummer BES van de jongere kunnen overleggen, leggen zij het persoonsgebonden nummer BES van de jongere over aan de school zodra zij daarvan kennis hebben verkregen.   
 
@@ -341,7 +341,7 @@ d. de aanwijzing van de diensten en instellingen waarmee de ambtenaren bij de ui
 
 ####Controle op naleving leerplicht door ambtenaren belast met de grensbewaking
 
-1.  Onverminderd het bepaalde in artikel 28 kunnen ambtenaren belast met de grensbewaking, bedoeld in de Wet toelating en uitzetting BES, indien er ernstige twijfel bestaat of er wordt voldaan aan de verplichting de school of de instelling geregeld te bezoeken, bij vertrek van een openbaar lichaam van een jongere op wie artikel 6 of 11 van toepassing is, eisen dat deze de verklaring, bedoeld in artikel 27a, toont.   
+1.  Onverminderd het bepaalde in artikel 28 kunnen ambtenaren belast met de grensbewaking, bedoeld in de [Wet toelating en uitzetting BES](../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), indien er ernstige twijfel bestaat of er wordt voldaan aan de verplichting de school of de instelling geregeld te bezoeken, bij vertrek van een openbaar lichaam van een jongere op wie artikel 6 of 11 van toepassing is, eisen dat deze de verklaring, bedoeld in artikel 27a, toont.   
 2.  De ambtenaar, bedoeld in het eerste lid, belet de jongere die niet over de in het eerste lid bedoelde verklaring beschikt, de toegang tot luchtvaartuigen of schepen.   
 3.  De ambtenaar, bedoeld in het eerste lid, stelt de ambtenaar, bedoeld in artikel 28, zo spoedig mogelijk in kennis van een beslissing als bedoeld in het tweede lid.   
 
@@ -456,6 +456,12 @@ De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 ####Overgangsbepaling scholen waaraan aan leerplicht wordt voldaan
 
 Een school die op 9 oktober 2010 was aangemerkt als een niet bekostigde school, wordt met ingang van de datum van inwerkingtreding van dit artikel aangemerkt als een school als bedoeld in artikel 1, onderdeel b, subonderdeel 3.  
+
+### Artikel  43a  
+
+####Inwerkingtreding
+
+De artikelen 3 en 5 die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.  
 
 ### Artikel  44  
 

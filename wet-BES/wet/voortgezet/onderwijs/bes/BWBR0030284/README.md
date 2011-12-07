@@ -2910,6 +2910,12 @@ Bij twijfel of deze wet op een of meer inrichtingen van onderwijs van toepassing
 
 Een beslissing als bedoeld in de artikelen 30, tweede lid, 32, tweede lid, en 93, vierde lid, van een bevoegd gezag van een openbare school geldt als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md).  
 
+### Artikel  218a  
+
+####Inwerkingtreding
+
+De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.  
+
 ### Artikel  219  
 
 ####Citeertitel

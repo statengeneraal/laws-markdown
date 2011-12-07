@@ -30,16 +30,16 @@ Besluit:
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Archiefregeling van het Bureau Programma Ondersteuning inclusief de Projectgroep Parlementair Onderzoek College van Toezicht Sociale Verzekeringen voor de archieven op het beleidsterrein Organisatie Rijksoverheid.  
+Deze regeling wordt aangehaald als: Archiefregeling van het Bureau Programma Ondersteuning inclusief de Projectgroep Parlementair Onderzoek College van Toezicht Sociale Verzekeringen voor de archieven op het beleidsterrein Organisatie Rijksoverheid. 
 
 ### Artikel  3  
 
-De regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+De regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 Den Haag 
 5 juli 2010   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,namens deze:
-plaatsvervangend secretaris-generaal,
-H.J.I.M. deRooij   
+Minister van Sociale Zaken en Werkgelegenheid, namens deze: 
+plaatsvervangend secretaris-generaal, 
+H.J.I.M. de Rooij     
