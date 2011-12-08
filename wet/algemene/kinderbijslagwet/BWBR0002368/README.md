@@ -179,7 +179,7 @@ d. op grond van deze wet geen recht op kinderbijslag meer bestaat.
 
 ### Artikel  12  
 
-1.  Het basiskinderbijslagbedrag over een kalenderkwartaal bedraagt € 267,02 per 1 januari 2009 € 278,55 per kind.   
+1.  Het basiskinderbijslagbedrag over een kalenderkwartaal bedraagt € 268,26 per kind.   
 2.  Het aan een verzekerde over een kalenderkwartaal te betalen bedrag aan kinderbijslag bedraagt voor een kind, dat op de eerste dag van dat kwartaal: 
 
 a. jonger is dan 6 jaar: 70%  
