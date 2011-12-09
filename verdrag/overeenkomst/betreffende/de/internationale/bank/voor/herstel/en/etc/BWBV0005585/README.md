@@ -18,7 +18,7 @@ The purposes of the Bank are:
 
 (iv) To arrange the loans made or guaranteed by it in relation to international loans through other channels so that the more useful and urgent projects, large and small alike, will be dealt with first.  
 
-(v) To conduct its operations with due regard to the effect of international investment on business conditions in the territories of members and, in the immediate postwar years, to assist in bringing about a smooth transition from a wartime to a peacetime economy.   The Bank shall be guided in all its decisions by the purposes set forth above  
+(v) To conduct its operations with due regard to the effect of international investment on business conditions in the territories of members and, in the immediate postwar years, to assist in bringing about a smooth transition from a wartime to a peacetime economy.    The Bank shall be guided in all its decisions by the purposes set forth above 
 
 ### Article  II  
 
@@ -26,35 +26,35 @@ The purposes of the Bank are:
 
 ###SECTION 1 MEMBERSHIP
 
-a) The original members of the Bank shall be those members of the International Monetary Fund which accept membership in the Bank before the date specified in Article XI, Section 2 (e).  
+a)The original members of the Bank shall be those members of the International Monetary Fund which accept membership in the Bank before the date specified in Article XI, Section 2 (e).
 
-b) Membership shall be open to other members of the Fund, at such times and in accordance with such terms as may be prescribed by the Bank.   
-###SECTION 2 AUTHORIZED CAPITAL
+b)Membership shall be open to other members of the Fund, at such times and in accordance with such terms as may be prescribed by the Bank. 
+###SECTION 2 AUTHORIZED CAPITAL 
 
-a) The authorized capital stock of the Bank shall be $10,000,000,000, in terms of United States dollars of the weight and fineness in effect on July 1, 1944. The capital stock shall be divided into 100,000 shares having a par value of $100,000 each, which shall be available for subscription only by members. <sup> (1)  As of April 27, 1988, the authorized capital stock of the Bank had been increased to 1,420,500 shares.  </sup>  
+a)The authorized capital stock of the Bank shall be $10,000,000,000, in terms of United States dollars of the weight and fineness in effect on July 1, 1944. The capital stock shall be divided into 100,000 shares<sup>(1)As of April 27, 1988, the authorized capital stock of the Bank had been increased to 1,420,500 shares.</sup> having a par value of $100,000 each, which shall be available for subscription only by members.
 
-b) The capital stock may be increased when the Bank deems it advisable by a three-fourths majority of the total voting power.   
-###SECTION 3 SUBSCRIPTION OF SHARES
+b)The capital stock may be increased when the Bank deems it advisable by a three-fourths majority of the total voting power.
+###SECTION 3 SUBSCRIPTION OF SHARES 
 
-a) Each member shall subscribe shares of the capital stock of the Bank. The minimum number of shares to be subscribed by the original members shall be those set forth in Schedule A. The minimum number of shares to be subscribed by other members shall be determined by the Bank, which shall reserve a sufficient portion of its capital stock for subscription by such members.  
+a)Each member shall subscribe shares of the capital stock of the Bank. The minimum number of shares to be subscribed by the original members shall be those set forth in Schedule A. The minimum number of shares to be subscribed by other members shall be determined by the Bank, which shall reserve a sufficient portion of its capital stock for subscription by such members.
 
-b) The Bank shall prescribe rules laying down the conditions under which members may subscribe shares of the authorized capital stock of the Bank in addition to their minimum subscriptions.  
+b)The Bank shall prescribe rules laying down the conditions under which members may subscribe shares of the authorized capital stock of the Bank in addition to their minimum subscriptions.
 
-c) If the authorized capital stock of the Bank is increased, each member shall have a reasonable opportunity to subscribe, under such conditions as the Bank shall decide, a proportion of the increase of stock equivalent to the proportion which its stock theretofore subscribed bears to the total capital stock of the Bank, but no member shall be obligated to subscribe any part of the increased capital.   
-###SECTION 4 ISSUE PRICE OF SHARES
+c)If the authorized capital stock of the Bank is increased, each member shall have a reasonable opportunity to subscribe, under such conditions as the Bank shall decide, a proportion of the increase of stock equivalent to the proportion which its stock theretofore subscribed bears to the total capital stock of the Bank, but no member shall be obligated to subscribe any part of the increased capital. 
+###SECTION 4 ISSUE PRICE OF SHARES 
 
 Shares included in the minimum subscriptions of original members shall be issued at par. Other shares shall be issued at par unless the Bank by a majority of the total voting power decides in special circumstances to issue them on other terms. 
-###SECTION 5 DIVISION AND CALLS OF SUBSCRIBED CAPITAL
+###SECTION 5 DIVISION AND CALLS OF SUBSCRIBED CAPITAL 
 
 The subscription of each member shall be divided into two parts as follows: 
 
 (i) twenty percent shall be paid or subject to call under Section 7 (i) of this Article as needed by the Bank for its operations;  
 
 (ii) the remaining eighty percent shall be subject to call by the Bank only when required to meet obligations of the Bank created under Article IV, Sections 1 (a) (ii) and (iii).   Calls on unpaid subscriptions shall be uniform on all shares. 
-###SECTION 6 LIMITATION ON LIABILITY
+###SECTION 6 LIMITATION ON LIABILITY 
 
 Liability on shares shall be limited to the unpaid portion of the issue price of the shares. 
-###SECTION 7 METHOD OF PAYMENT OF SUBSCRIPTIONS FOR SHARES
+###SECTION 7 METHOD OF PAYMENT OF SUBSCRIPTIONS FOR SHARES 
 
 Payment of subscriptions for shares shall be made in gold or United States dollars and in the currencies of the members as follows: 
 
@@ -63,46 +63,46 @@ Payment of subscriptions for shares shall be made in gold or United States dolla
 (ii) when a call is made under Section 5 (ii) of this Article, payment may be made at the option of the member either in gold, in United States dollars or in the currency required to discharge the obligations of the Bank for the purpose for which the call is made;  
 
 (iii) when a member makes payments in any currency under (i) and (ii) above, such payments shall be made in amounts equal in value to the member’s liability under the call. This liability shall be a proportionate part of the subscribed capital stock of the Bank as authorized and defined in Section 2 of this Article.   
-###SECTION 8 TIME OF PAYMENT OF SUBSCRIPTIONS
+###SECTION 8 TIME OF PAYMENT OF SUBSCRIPTIONS 
 
-a) The two percent payable on each share in gold or United States dollars under Section 7 (i) of this Article, shall be paid within sixty days of the date on which the Bank begins operations, provided that 
+a)The two percent payable on each share in gold or United States dollars under Section 7 (i) of this Article, shall be paid within sixty days of the date on which the Bank begins operations, provided that 
 
 (i) any original member of the Bank whose metropolitan territory has suffered from enemy occupation or hostilities during the present war shall be granted the right to postpone payment of one-half percent until five years after that date;  
 
-(ii) an original member who cannot make such a payment because it has not recovered possession of its gold reserves which are still seized or immobilized as a result of the war may postpone an payment until such date as the Bank shall decide.    
+(ii) an original member who cannot make such a payment because it has not recovered possession of its gold reserves which are still seized or immobilized as a result of the war may postpone an payment until such date as the Bank shall decide.  
 
-b) The remainder of the price of each share payable under Section 7 (i) of this Article shall be paid as and when called by the Bank, provided that 
+b)The remainder of the price of each share payable under Section 7 (i) of this Article shall be paid as and when called by the Bank, provided that 
 
 (i) the Bank shall, within one year of its beginning operations, call not less than eight percent of the price of the share in addition to the payment of two percent referred to in (a) above;  
 
-(ii) not more than five percent of the price of the share shall be called in any period of three months.     
-###SECTION 9 MAINTENANCE OF VALUE OF CERTAIN CURRENCY HOLDINGS OF THE BANK
+(ii) not more than five percent of the price of the share shall be called in any period of three months.   
+###SECTION 9 MAINTENANCE OF VALUE OF CERTAIN CURRENCY HOLDINGS OF THE BANK 
 
-a) Whenever (i) the par value of a member’s currency is reduced, or (ii) the foreign exchange value of a member’s currency has, in the opinion of the Bank, depreciated to a significant extent within that member’s territories, the member shall pay to the Bank within a reasonable time an additional amount of its own currency sufficient to maintain the value, as of the time of initial subscription, of the amount of the currency of such member which is held by the Bank and derived from currency originally paid in to the Bank by the member under Article II, Section 7 (i), from currency referred to in Article IV, Section 2 (b), or from any additional currency furnished under the provisions of the present paragraph, and which has not been repurchased by the member for gold or for the currency of any member which is acceptable to the Bank.  
+a)Whenever (i) the par value of a member’s currency is reduced, or (ii) the foreign exchange value of a member’s currency has, in the opinion of the Bank, depreciated to a significant extent within that member’s territories, the member shall pay to the Bank within a reasonable time an additional amount of its own currency sufficient to maintain the value, as of the time of initial subscription, of the amount of the currency of such member which is held by the Bank and derived from currency originally paid in to the Bank by the member under Article II, Section 7 (i), from currency referred to in Article IV, Section 2 (b), or from any additional currency furnished under the provisions of the present paragraph, and which has not been repurchased by the member for gold or for the currency of any member which is acceptable to the Bank. 
 
-b) Whenever the par value of a member’s currency is increased, the Bank shall return to such member within a reasonable time an amount of that member’s currency equal to the increase in the value of the amount of such currency described in (a) above.  
+b)Whenever the par value of a member’s currency is increased, the Bank shall return to such member within a reasonable time an amount of that member’s currency equal to the increase in the value of the amount of such currency described in (a) above.
 
-c) The provisions of the preceding paragraphs may be waived by the Bank when a uniform proportionate change in the par values of the currencies of all its members is made by the International Monetary Fund.   
-###SECTION 10 RESTRICTION ON DISPOSAL OF SHARES
+c)The provisions of the preceding paragraphs may be waived by the Bank when a uniform proportionate change in the par values of the currencies of all its members is made by the International Monetary Fund.
+###SECTION 10 RESTRICTION ON DISPOSAL OF SHARES 
 
-Shares shall not be pledged or encumbered in any manner whatever and they shall be transferable only to the Bank.  
+Shares shall not be pledged or encumbered in any manner whatever and they shall be transferable only to the Bank. 
 
 ### Article  III  
 
 ####General Provisions Relating to Loans and Guarantees
 
-###SECTION 1 USE OF RESOURCES
+###SECTION 1 USE OF RESOURCES 
 
-a) The resources and the facilities of the Bank shall be used exclusively for the benefit of members with equitable consideration to projects for development and projects for reconstruction alike.  
+a)The resources and the facilities of the Bank shall be used exclusively for the benefit of members with equitable consideration to projects for development and projects for reconstruction alike.
 
-b) For the purpose of facilitating the restoration and reconstruction of the economy of members whose metropolitan territories have suffered great devastation from enemy occupation or hostilities, the Bank, in determining the conditions and terms of loans made to such members, shall pay special regard to lightening the financial burden and expediting the completion of such restoration and reconstruction.   
-###SECTION 2 DEALINGS BETWEEN MEMBERS AND THE BANK
+b)For the purpose of facilitating the restoration and reconstruction of the economy of members whose metropolitan territories have suffered great devastation from enemy occupation or hostilities, the Bank, in determining the conditions and terms of loans made to such members, shall pay special regard to lightening the financial burden and expediting the completion of such restoration and reconstruction.
+###SECTION 2 DEALINGS BETWEEN MEMBERS AND THE BANK 
 
 Each member shall deal with the Bank only through its Treasury, central bank, stabilization fund or other similar fiscal agency, and the Bank shall deal with members only by or through the same agencies. 
-###SECTION 3 LIMITATIONS ON GUARANTEES AND BORROWINGS OF THE BANK
+###SECTION 3 LIMITATIONS ON GUARANTEES AND BORROWINGS OF THE BANK 
 
 The total amount outstanding of guarantees, participations in loans and direct loans made by the Bank shall not be increased at any time, if by such increase the total would exceed one hundred percent of the unimpaired subscribed capital, reserves and surplus of the Bank. 
-###SECTION 4 CONDITIONS ON WHICH THE BANK MAY GUARANTEE OR MAKE LOANS
+###SECTION 4 CONDITIONS ON WHICH THE BANK MAY GUARANTEE OR MAKE LOANS 
 
 The Bank may guarantee, participate in, or make loans to any member or any political sub-division thereof and any business, industrial, and agricultural enterprise in the territories of a member, subject to the following conditions: 
 
@@ -119,47 +119,45 @@ The Bank may guarantee, participate in, or make loans to any member or any polit
 (vi) In guaranteeing a loan made by other investors, the Bank receives suitable compensation for its risk.  
 
 (vii) Loans made or guaranteed by the Bank shall, except in special circumstances, be for the purpose of specific projects of reconstruction or development.   
-###SECTION 5 USE OF LOANS GUARANTEED, PARTICIPATED IN OR MADE BY THE BANK
+###SECTION 5 USE OF LOANS GUARANTEED, PARTICIPATED IN OR MADE BY THE BANK 
 
-a) The Bank shall impose no conditions that the proceeds of a loan shall be spent in the territories of any particular member or members.  
+a)The Bank shall impose no conditions that the proceeds of a loan shall be spent in the territories of any particular member or members.
 
-b) The Bank shall make arrangements to ensure that the proceeds of any loan are used only for the purposes for which the loan was granted, with due attention to considerations of economy and efficiency and without regard to political or other non-economic influences or considerations.  
+b)The Bank shall make arrangements to ensure that the proceeds of any loan are used only for the purposes for which the loan was granted, with due attention to considerations of economy and efficiency and without regard to political or other non-economic influences or considerations.
 
-c) In the case of loans made by the Bank, it shall open an account in the name of the borrower and the amount of the loan shall be credited to this account in the currency or currencies in which the loan is made. The borrower shall be permitted by the Bank to draw on this account only to meet expenses in connection with the project as they are actually incurred.   
-###SECTION 6 LOANS TO THE INTERNATIONAL FINANCE CORPORATION
+c)In the case of loans made by the Bank, it shall open an account in the name of the borrower and the amount of the loan shall be credited to this account in the currency or currencies in which the loan is made. The borrower shall be permitted by the Bank to draw on this account only to meet expenses in connection with the project as they are actually incurred.
+###SECTION 6 LOANS TO THE INTERNATIONAL FINANCE CORPORATION<sup>(2) Section added by amendment effective December 17, 1965. </sup> 
 
-<sup> (2)  Section added by amendment effective December 17, 1965.  </sup> 
+a)The Bank may make, participate in, or guarantee loans to the International Finance Corporation, an affiliate of the Bank, for use in its lending operations. The total amount outstanding of such loans, participations and guarantees shall not be increased if, at the time or as a result thereof, the aggregate amount of debt (including the guarantee of any debt) incurred by the said Corporation from any source and then outstanding shall exceed an amount equal to four times its unimpaired subscribed capital and surplus.
 
-a) The Bank may make, participate in, or guarantee loans to the International Finance Corporation, an affiliate of the Bank, for use in its lending operations. The total amount outstanding of such loans, participations and guarantees shall not be increased if, at the time or as a result thereof, the aggregate amount of debt (including the guarantee of any debt) incurred by the said Corporation from any source and then outstanding shall exceed an amount equal to four times its unimpaired subscribed capital and surplus.  
-
-b) The provisions of Article III, Sections 4 and 5 (c) and of Article IV, Section 3 shall not apply to loans, participations and guarantees authorized by this Section.    
+b)The provisions of Article III, Sections 4 and 5 (c) and of Article IV, Section 3 shall not apply to loans, participations and guarantees authorized by this Section.
 
 ### Article  IV  
 
 ####Operations
 
-###SECTION 1 METHODS OF MAKING OR FACILITATING LOANS
+###SECTION 1 METHODS OF MAKING OR FACILITATING LOANS 
 
-a) The Bank may make or facilitate loans which satisfy the general conditions of Article III in any of the following ways: 
+a)The Bank may make or facilitate loans which satisfy the general conditions of Article III in any of the following ways: 
 
 (i) By making or participating in direct loans out of its own funds corresponding to its unimpaired paid-up capital and surplus and, subject to Section 6 of this Article, to its reserves.  
 
 (ii) By making or participating in direct loans out of funds raised in the market of a member, or otherwise borrowed by the Bank.  
 
-(iii) By guaranteeing in whole or in part loans made by private investors through the usual investment channels.    
+(iii) By guaranteeing in whole or in part loans made by private investors through the usual investment channels.  
 
-b) The Bank may borrow funds under (a) (ii) above or guarantee loans under (a) (iii) above only with the approval of the member in whose markets the funds are raised and the member in whose currency the loan is denominated, and only if those members agree that the proceeds may be exchanged for the currency of any other member without restriction.   
-###SECTION 2 AVAILABILITY AND TRANSFERABILITY OF CURRENCIES
+b)The Bank may borrow funds under (a) (ii) above or guarantee loans under (a) (iii) above only with the approval of the member in whose markets the funds are raised and the member in whose currency the loan is denominated, and only if those members agree that the proceeds may be exchanged for the currency of any other member without restriction.
+###SECTION 2 AVAILABILITY AND TRANSFERABILITY OF CURRENCIES 
 
-a) Currencies paid into the Bank under Article II, Section 7 (i), shall be loaned only with the approval in each case of the member whose currency is involved; provided, however, that if necessary, after the Bank’s subscribed capital has been entirely called, such currencies shall, without restriction by the members whose currencies are offered, be used or exchanged for the currencies required to meet contractual payments of interest, other charges or amortization on the Bank’s own borrowings, or to meet the Bank’s liabilities with respect to such contractual payments on loans guaranteed by the Bank.  
+a)Currencies paid into the Bank under Article II, Section 7 (i), shall be loaned only with the approval in each case of the member whose currency is involved; provided, however, that if necessary, after the Bank’s subscribed capital has been entirely called, such currencies shall, without restriction by the members whose currencies are offered, be used or exchanged for the currencies required to meet contractual payments of interest, other charges or amortization on the Bank’s own borrowings, or to meet the Bank’s liabilities with respect to such contractual payments on loans guaranteed by the Bank.
 
-b) Currencies received by the Bank from borrowers or guarantors in payment on account of principal of direct loans made with currencies referred to in (a) above shall be exchanged for the currencies of other members or reloaned only with the approval in each case of the members whose currencies are involved; provided, however, that if necessary, after the Bank’s subscribed capital has been entirely called, such currencies shall, without restriction by the members whose currencies are offered, be used or exchanged for the currencies required to meet contractual payments of interest, other charges or amortization on the Bank’s own borrowings, or to meet the Bank’s liabilities with respect to such contractual payments on loans guaranteed by the Bank.  
+b)Currencies received by the Bank from borrowers or guarantors in payment on account of principal of direct loans made with currencies referred to in (a) above shall be exchanged for the currencies of other members or reloaned only with the approval in each case of the members whose currencies are involved; provided, however, that if necessary, after the Bank’s subscribed capital has been entirely called, such currencies shall, without restriction by the members whose currencies are offered, be used or exchanged for the currencies required to meet contractual payments of interest, other charges or amortization on the Bank’s own borrowings, or to meet the Bank’s liabilities with respect to such contractual payments on loans guaranteed by the Bank.
 
-c) Currencies received by the Bank from borrowers or guarantors in payment on account of principal of direct loans made by the Bank under Section 1 (a) (ii) of this Article, shall be held and used, without restriction by the members, to make amortization payments, or to anticipate payment of or repurchase part or all of the Bank’s own obligations.  
+c)Currencies received by the Bank from borrowers or guarantors in payment on account of principal of direct loans made by the Bank under Section 1 (a) (ii) of this Article, shall be held and used, without restriction by the members, to make amortization payments, or to anticipate payment of or repurchase part or all of the Bank’s own obligations.
 
-d) All other currencies available to the Bank, including those raised in the market or otherwise borrowed under Section 1 (a) (ii) of this Article, those obtained by the sale of gold, those received as payments of interest and other charges for direct loans made under Sections 1 (a) (i) and (ii), and those received as payments of commissions and other charges under Section 1 (a) (iii), shall be used or exchanged for other currencies or gold required in the operations of the Bank without restriction by the members whose currencies are offered.  
+d)All other currencies available to the Bank, including those raised in the market or otherwise borrowed under Section 1 (a) (ii) of this Article, those obtained by the sale of gold, those received as payments of interest and other charges for direct loans made under Sections 1 (a) (i) and (ii), and those received as payments of commissions and other charges under Section 1 (a) (iii), shall be used or exchanged for other currencies or gold required in the operations of the Bank without restriction by the members whose currencies are offered.
 
-e) Currencies raised in the markets of members by borrowers on loans guaranteed by the Bank under Section 1 (a) (iii) of this Article, shall also be used or exchanged for other currencies without restriction by such members.   
+e)Currencies raised in the markets of members by borrowers on loans guaranteed by the Bank under Section 1 (a) (iii) of this Article, shall also be used or exchanged for other currencies without restriction by such members.
 ###SECTION 3 PROVISION OF CURRENCIES FOR DIRECT LOANS
 
 The following provisions shall apply to direct loans under Sections I (a) (i) and (ii) of this Article: 
@@ -171,7 +169,7 @@ b) The Bank may, in exceptional circumstances when local currency required for t
 c) The Bank, if the project gives rise indirectly to an increased need for foreign exchange by the member in whose territories the project is located, may in exceptional circumstances provide the borrower as part of the loan with an appropriate amount of gold or foreign exchange not in excess of the borrower’s local expenditure in connection with the purposes of the loan.  
 
 d) The Bank may, in exceptional circumstances, at the request of a member in whose territories a portion of the loan is spent, repurchase with gold or foreign exchange a part of that member’s currency thus spent but in no case shall the part so repurchased exceed the amount by which the expenditure of the loan in those territories gives rise to an increased need for foreign exchange.   
-###SECTION 4 PAYMENT PROVISIONS FOR DIRECT LOANS
+###SECTION 4 PAYMENT PROVISIONS FOR DIRECT LOANS 
 
 Loan contracts under Section 1 (a) (i) or (ii) of this Article shall be made in accordance with the following payment provisions: 
 
@@ -188,19 +186,19 @@ c) If a member suffers from an acute exchange stringency, so that the service of
 (i) The Bank may, in its discretion, make arrangements with the member concerned to accept service payments on the loan in the member’s currency for periods not to exceed three years upon appropriate terms regarding the use of such currency and the maintenance of its foreign exchange value; and for the repurchase of such currency on appropriate terms.  
 
 (ii) The Bank may modify the terms of amortization or extend the life of the loan, or both.     
-###SECTION 5 GUARANTEES
+###SECTION 5 GUARANTEES 
 
-a) In guaranteeing a loan placed through the usual investment channels, the Bank shall charge a guarantee commission payable periodically on the amount of the loan outstanding at a rate determined by the Bank. During the first ten years of the Bank’s operations, this rate shall be not less than one percent per annum and not greater than one and one-half percent per annum. At the end of this period of ten years, the rate of commission may be reduced by the Bank with respect both to the outstanding portions of loans already guaranteed and to future loans if the reserves accumulated by the Bank under Section 6 of this Article and out of other earnings are considered by it sufficient to justify a reduction. In the case of future loans the Bank shall also have discretion to increase the rate of commission beyond the above limit, if experience indicates that an increase is advisable.  
+a)In guaranteeing a loan placed through the usual investment channels, the Bank shall charge a guarantee commission payable periodically on the amount of the loan outstanding at a rate determined by the Bank. During the first ten years of the Bank’s operations, this rate shall be not less than one percent per annum and not greater than one and one-half percent per annum. At the end of this period of ten years, the rate of commission may be reduced by the Bank with respect both to the outstanding portions of loans already guaranteed and to future loans if the reserves accumulated by the Bank under Section 6 of this Article and out of other earnings are considered by it sufficient to justify a reduction. In the case of future loans the Bank shall also have discretion to increase the rate of commission beyond the above limit, if experience indicates that an increase is advisable.
 
-b) Guarantee commissions shall be paid directly to the Bank by the borrower.  
+b)Guarantee commissions shall be paid directly to the Bank by the borrower.
 
-c) Guarantees by the Bank shall provide that the Bank may terminate its liability with respect to interest if, upon default by the borrower and by the guarantor, if any, the Bank offers to purchase, at par and interest accrued to a date designated in the offer, the bonds or other obligations guaranteed.  
+c)Guarantees by the Bank shall provide that the Bank may terminate its liability with respect to interest if, upon default by the borrower and by the guarantor, if any, the Bank offers to purchase, at par and interest accrued to a date designated in the offer, the bonds or other obligations guaranteed.
 
-d) The Bank shall have power to determine any other terms and conditions of the guarantee.   
-###SECTION 6 SPECIAL RESERVE
+d)The Bank shall have power to determine any other terms and conditions of the guarantee.
+###SECTION 6 SPECIAL RESERVE 
 
 The amount of commissions received by the Bank under Sections 4 and 5 of this Article shall be set aside as a special reserve, which shall be kept available for meeting liabilities of the Bank in accordance with Section 7 of this Article. The special reserve shall be held in such liquid form, permitted under this Agreement, as the Executive Directors may decide. 
-###SECTION 7 METHODS OF MEETING LIABILITES OF THE BANK IN CASE OF DEFAULTS
+###SECTION 7 METHODS OF MEETING LIABILITES OF THE BANK IN CASE OF DEFAULTS 
 
 In cases of default on loans made, participated in, or guaranteed by the Bank: 
 
@@ -217,7 +215,7 @@ c) Whenever necessary to meet contractual payments of interest, other charges or
 (i) To redeem prior to maturity, or otherwise discharge its liability on, all or part of the outstanding principal of any loan guaranteed by it in respect of which the debtor is in default.  
 
 (ii) To repurchase, or otherwise discharge its liability on, all or part of its own outstanding borrowings.     
-###SECTION 8 MISCELLANEOUS OPERATIONS
+###SECTION 8 MISCELLANEOUS OPERATIONS 
 
 In addition to the operations specified elsewhere in this Agreement, the Bank shall have the power: 
 
@@ -228,25 +226,25 @@ In addition to the operations specified elsewhere in this Agreement, the Bank sh
 (iii) To borrow the currency of any member with the approval of that member.  
 
 (iv) To buy and sell such other securities as the Directors by a three-fourths majority of the total voting power may deem proper for the investment-of all or part of the special reserve under Section 6 of this Article.   In exercising the powers conferred by this Section, the Bank may deal with any person, partnership, association, corporation or other legal entity in the territories of any member. 
-###SECTION 9 WARNING TO BE PLACED ON SECURITIES
+###SECTION 9 WARNING TO BE PLACED ON SECURITIES 
 
 Every security guaranteed or issued by the Bank shall bear on its face a conspicious statement to the effect that it is not an obligation of any government unless expressly stated on the security. 
-###SECTION 10 POLITICAL ACTIVITY PROHIBITED
+###SECTION 10 POLITICAL ACTIVITY PROHIBITED 
 
-The Bank and its officers shall not interfere in the political affairs of any member; nor shall they be influenced in their decisions by the political character of the member or members concerned. Only economic considerations shall be relevant to their decisions, and these considerations shall be weighed impartially in order to achieve the purposes stated in Article I.  
+The Bank and its officers shall not interfere in the political affairs of any member; nor shall they be influenced in their decisions by the political character of the member or members concerned. Only economic considerations shall be relevant to their decisions, and these considerations shall be weighed impartially in order to achieve the purposes stated in Article I. 
 
 ### Article  V  
 
 ####Organization and Management
 
-###SECTION 1 STRUCTURE OF THE BANK
+###SECTION 1 STRUCTURE OF THE BANK 
 
 The Bank shall have a Board of Governors, Executive Directors, a President and such other officers and staff to perform such duties as the Bank may determine. 
-###SECTION 2 BOARD OF GOVERNORS
+###SECTION 2 BOARD OF GOVERNORS 
 
-a) All the powers of the Bank shall be vested in the Board of Governors consisting of one governor and one alternate appointed by each member in such manner as it may determine. Each governor and each alternate shall serve for five years, subject to the pleasure of the member appointing him, and may be reappointed. No alternate may vote except in the absence of his principal. The Board shall select one of the Governors as chairman.  
+a)All the powers of the Bank shall be vested in the Board of Governors consisting of one governor and one alternate appointed by each member in such manner as it may determine. Each governor and each alternate shall serve for five years, subject to the pleasure of the member appointing him, and may be reappointed. No alternate may vote except in the absence of his principal. The Board shall select one of the Governors as chairman.
 
-b) The Board of Governors may delegate to the Executive Directors authority to exercise any powers of the Board, except the power to: 
+b)The Board of Governors may delegate to the Executive Directors authority to exercise any powers of the Board, except the power to: 
 
 (i) Admit new members and determine the conditions of their admission;  
 
@@ -260,120 +258,120 @@ b) The Board of Governors may delegate to the Executive Directors authority to e
 
 (vi) Decide to suspend permanently the operations of the Bank and to distribute its assets;  
 
-(vii) Determine the distribution of the net income of the Bank.    
+(vii) Determine the distribution of the net income of the Bank.   
 
-c) The Board of Governors shall hold an annual meeting and such other meetings as may be provided for by the Board or called by the Executive Directors. Meetings of the Board shall be called by the Directors whenever requested by five members or by members having one quarter of the total voting power.  
+c)The Board of Governors shall hold an annual meeting and such other meetings as may be provided for by the Board or called by the Executive Directors. Meetings of the Board shall be called by the Directors whenever requested by five members or by members having one quarter of the total voting power.
 
-d) A quorum for any meeting of the Board of Governors shall be a majority of the Governors, exercising not less than two-thirds of the total voting power.  
+d)A quorum for any meeting of the Board of Governors shall be a majority of the Governors, exercising not less than two-thirds of the total voting power.
 
-e) The Board of Governors may by regulation establish a procedure whereby the Executive Directors, when they deem such action to be in the best interests of the Bank, may obtain a vote of the Governors on a specific question without calling a meeting of the Board.  
+e)The Board of Governors may by regulation establish a procedure whereby the Executive Directors, when they deem such action to be in the best interests of the Bank, may obtain a vote of the Governors on a specific question without calling a meeting of the Board.
 
-f) The Board of Governors, and the Executive Directors to the extent authorized, may adopt such rules and regulations as may be necessary or appropriate to conduct the business of the Bank.  
+f)The Board of Governors, and the Executive Directors to the extent authorized, may adopt such rules and regulations as may be necessary or appropriate to conduct the business of the Bank.
 
-g) Governors and alternates shall serve as such without compensation from the Bank, but the Bank shall pay them reasonable expenses incurred in attending meetings.  
+g)Governors and alternates shall serve as such without compensation from the Bank, but the Bank shall pay them reasonable expenses incurred in attending meetings.
 
-h) The Board of Governors shall determine the remuneration to be paid to the Executive Directors and the salary and terms of the contract of service of the President.   
-###SECTION 3 VOTING
+h)The Board of Governors shall determine the remuneration to be paid to the Executive Directors and the salary and terms of the contract of service of the President.
+###SECTION 3 VOTING 
 
-a) Each member shall have two hundred fifty votes plus one additional vote for each share of stock held.  
+a)Each member shall have two hundred fifty votes plus one additional vote for each share of stock held.
 
-b) Except as otherwise specifically provided, all matters before the Bank shall be decided by a majority of the votes cast.   
-###SECTION 4 EXECUTIVE DIRECTORS
+b)Except as otherwise specifically provided, all matters before the Bank shall be decided by a majority of the votes cast.
+###SECTION 4 EXECUTIVE DIRECTORS 
 
-a) The Executive Directors shall be responsible for the conduct of the general operations of the Bank, and for this purpose, shall exercise all the powers delegated to them by the Board of Governors.  
+a)The Executive Directors shall be responsible for the conduct of the general operations of the Bank, and for this purpose, shall exercise all the powers delegated to them by the Board of Governors.
 
-b) There shall be twelve Executive Directors, who need not be governors, and of whom: 
+b)There shall be twelve Executive Directors, who need not be governors, and of whom: 
 
 (i) five shall be appointed, one by each of the five members having the largest number of shares;  
 
-(ii) seven shall be elected according to Schedule B by all the Governors other than those appointed by the five members referred to in (i) above.   For the purpose of this paragraph, “members” means governments of countries whose names are set forth in Schedule A, whether they are original members or become members in accordance with Article II, Section I (b). When governments of other countries become members, the Board of Governors may, by a four-fifths majority of the total voting power, increase the total number of directors by increasing the number of directors to be elected. Executive Directors shall be appointed or elected every two years.  
+(ii) seven shall be elected according to Schedule B by all the Governors other than those appointed by the five members referred to in (i) above.   For the purpose of this paragraph, “members” means governments of countries whose names are set forth in Schedule A, whether they are original members or become members in accordance with Article II, Section I (b). When governments of other countries become members, the Board of Governors may, by a four-fifths majority of the total voting power, increase the total number of directors by increasing the number of directors to be elected. Executive Directors shall be appointed or elected every two years.
 
-(c) Each executive director shall appoint an alternate with full power to act for him when he is not present. When the executive directors appointing them are present, alternates may participate in meetings but shall not vote.  
+(c)Each executive director shall appoint an alternate with full power to act for him when he is not present. When the executive directors appointing them are present, alternates may participate in meetings but shall not vote.
 
-d) Directors shall continue in office until their successors are appointed or elected. If the office of an elected director becomes vacant more than ninety days before the end of his term, another director shall be elected for the remainder of the term by the governors who elected the former director. A majority of the votes cast shall be required for election. While the office remains vacant, the alternate of the former director shall exercise his powers, except that of appointing an alternate.  
+d)Directors shall continue in office until their successors are appointed or elected. If the office of an elected director becomes vacant more than ninety days before the end of his term, another director shall be elected for the remainder of the term by the governors who elected the former director. A majority of the votes cast shall be required for election. While the office remains vacant, the alternate of the former director shall exercise his powers, except that of appointing an alternate.
 
-e) The Executive Directors shall function in continuous session at the principal office of the Bank and shall meet as often as the business of the Bank may require.  
+e)The Executive Directors shall function in continuous session at the principal office of the Bank and shall meet as often as the business of the Bank may require.
 
-f) A quorum for any meeting of the Executive Directors shall be a majority of the Directors, exercising not less than one-half of the total voting power.  
+f)A quorum for any meeting of the Executive Directors shall be a majority of the Directors, exercising not less than one-half of the total voting power.
 
-g) Each appointed director shall be entitled to cast the number of votes allotted under Section 3 of this Article to the member appointing him. Each elected director shall be entitled to cast the number of votes which counted toward his election. All the votes which a director is entitled to cast shall be cast as a unit.  
+g)Each appointed director shall be entitled to cast the number of votes allotted under Section 3 of this Article to the member appointing him. Each elected director shall be entitled to cast the number of votes which counted toward his election. All the votes which a director is entitled to cast shall be cast as a unit.
 
-h) The Board of Governors shall adopt regulations under which a member not entitled to appoint a director under (b) above may send a representative to attend any meeting of the Executive Directors when a request made by, or a matter particularly affecting, that member is under consideration.  
+h)The Board of Governors shall adopt regulations under which a member not entitled to appoint a director under (b) above may send a representative to attend any meeting of the Executive Directors when a request made by, or a matter particularly affecting, that member is under consideration.
 
-i) The Executive Directors may appoint such committees as they deem advisable. Membership of such committees need not be limited to governors or directors or their alternates.   
-###SECTION 5 PRESIDENT AND STAFF
+i)The Executive Directors may appoint such committees as they deem advisable. Membership of such committees need not be limited to governors or directors or their alternates.
+###SECTION 5 PRESIDENT AND STAFF 
 
-a) The Executive Directors shall select a President who shall not be a governor or an executive director or an alternate for either. The President shall be Chairman of the Executive Directors, but shall have no vote except a deciding vote in case of an equal division. He may participate in meetings of the Board of Governors, but shall not vote at such meetings. The President shall cease to hold office when the Executive Directors so decide.  
+a)The Executive Directors shall select a President who shall not be a governor or an executive director or an alternate for either. The President shall be Chairman of the Executive Directors, but shall have no vote except a deciding vote in case of an equal division. He may participate in meetings of the Board of Governors, but shall not vote at such meetings. The President shall cease to hold office when the Executive Directors so decide.
 
-b) The President shall be chief of the operating staff of the Bank and shall conduct, under the direction of the Executive Directors, the ordinary business of the Bank. Subject to the general control of the Executive Directors, he shall be responsible for the organization, appointment and dismissal of the officers and staff.  
+b)The President shall be chief of the operating staff of the Bank and shall conduct, under the direction of the Executive Directors, the ordinary business of the Bank. Subject to the general control of the Executive Directors, he shall be responsible for the organization, appointment and dismissal of the officers and staff.
 
-c) The President, officers and staff of the Bank, in the discharge of their offices, owe their duty entirely to the Bank and to no other authority. Each member of the Bank shall respect the international character of this duty and shall refrain from all attempts to influence any of them in the discharge of their duties.  
+c)The President, officers and staff of the Bank, in the discharge of their offices, owe their duty entirely to the Bank and to no other authority. Each member of the Bank shall respect the international character of this duty and shall refrain from all attempts to influence any of them in the discharge of their duties.
 
-d) In appointing the officers and staff the President shall, subject to the paramount importance of securing the highest standards of efficiency and of technical competence, pay due regard to the importance of recruiting personnel on as wide a geographical basis as possible.   
-###SECTION 6 ADVISORY COUNCIL
+d)In appointing the officers and staff the President shall, subject to the paramount importance of securing the highest standards of efficiency and of technical competence, pay due regard to the importance of recruiting personnel on as wide a geographical basis as possible.
+###SECTION 6 ADVISORY COUNCIL 
 
-a) There shall be an Advisory Council of not less than seven persons selected by the Board of Governors including representatives of banking, commercial, industrial, labor, and agricultural interests, and with as wide a national representation as possible. In those fields where specialized international organizations exist, the members of the Council representative of those fields shall be selected in agreement with such organizations. The Council shall advise the Bank on matters of general policy. The Council shall meet annually and on such other occasions as the Bank may request.  
+a)There shall be an Advisory Council of not less than seven persons selected by the Board of Governors including representatives of banking, commercial, industrial, labor, and agricultural interests, and with as wide a national representation as possible. In those fields where specialized international organizations exist, the members of the Council representative of those fields shall be selected in agreement with such organizations. The Council shall advise the Bank on matters of general policy. The Council shall meet annually and on such other occasions as the Bank may request.
 
-b) Councillors shall serve for two years and may be reappointed. They shall be paid their reasonable expenses incurred on behalf of the Bank.   
-###SECTION 7 LOAN COMMITTEES
+b)Councillors shall serve for two years and may be reappointed. They shall be paid their reasonable expenses incurred on behalf of the Bank.
+###SECTION 7 LOAN COMMITTEES 
 
 The committees required to report on loans under Article III, Section 4, shall be appointed by the Bank. Each such committee shall include an expert selected by the governor representing the member in whose territories the project is located and one or more members of the technical staff of the Bank. 
-###SECTION 8 RELATIONSHIP TO OTHER INTERNATIONAL ORGANIZATIONS
+###SECTION 8 RELATIONSHIP TO OTHER INTERNATIONAL ORGANIZATIONS 
 
-a) The Bank, within the terms of this Agreement, shall cooperate with any general international organization and with public international organizations having specialized responsibilities in related fields. Any arrangements for such cooperation which would involve a modification of any provision of this Agreement may be effected only after amendment to this Agreement under Article VIII.  
+a)The Bank, within the terms of this Agreement, shall cooperate with any general international organization and with public international organizations having specialized responsibilities in related fields. Any arrangements for such cooperation which would involve a modification of any provision of this Agreement may be effected only after amendment to this Agreement under Article VIII.
 
-b) In making decisions on applications for loans or guarantees relating to matters directly within the competence of any international organization of the types specified in the preceding paragraph and participated in primarily by members of the Bank, the Bank shall give consideration to the views and recommendations of such organization.   
-###SECTION 9 LOCATION OF OFFICES
+b)In making decisions on applications for loans or guarantees relating to matters directly within the competence of any international organization of the types specified in the preceding paragraph and participated in primarily by members of the Bank, the Bank shall give consideration to the views and recommendations of such organization.
+###SECTION 9 LOCATION OF OFFICES 
 
-a) The principal office of the Bank shall be located in the territory of the member holding the greatest number of shares.  
+a)The principal office of the Bank shall be located in the territory of the member holding the greatest number of shares.
 
-b) The Bank may establish agencies or branch offices in the territories of any member of the Bank.   
-###SECTION 10 REGIONAL OFFICES AND COUNCILS
+b)The Bank may establish agencies or branch offices in the territories of any member of the Bank.
+###SECTION 10 REGIONAL OFFICES AND COUNCILS 
 
-a) The Bank may establish regional offices and determine the location of, and the areas to be covered by, each regional office.  
+a)The Bank may establish regional offices and determine the location of, and the areas to be covered by, each regional office.
 
-b) Each regional office shall be advised by a regional council representative of the entire area and selected in such manner as the Bank may decide.   
-###SECTION 11 DEPOSITORIES
+b)Each regional office shall be advised by a regional council representative of the entire area and selected in such manner as the Bank may decide.
+###SECTION 11 DEPOSITORIES 
 
-a) Each member shall designate its central bank as a depository for all the Bank’s holdings of its currency or, if it has no central bank, it shall designate such other institution as may be acceptable to the Bank.  
+a)Each member shall designate its central bank as a depository for all the Bank’s holdings of its currency or, if it has no central bank, it shall designate such other institution as may be acceptable to the Bank.
 
-b) The Bank may hold other assets, including gold, in depositories designated by the five members having the largest number of shares and in such other designated depositories as the Bank may select. Initially, at least one-half of the gold holdings of the Bank shall be held in the depository designated by the member in whose territory the Bank has its principal office, and at least forty percent shall be held in the depositories designated by the remaining four members referred to above, each of such depositories to hold, initially, not less than the amount of gold paid on the shares of the member designating it. However, all transfers of gold by the Bank shall be made with due regard to the costs of transport and anticipated requirements of the Bank. In an emergency the Executive Directors may transfer all or any part of the Bank’s gold holdings to any place where they can be adequately protected.   
-###SECTION 12 FORM OF HOLDINGS OF CURRENCY
+b)The Bank may hold other assets, including gold, in depositories designated by the five members having the largest number of shares and in such other designated depositories as the Bank may select. Initially, at least one-half of the gold holdings of the Bank shall be held in the depository designated by the member in whose territory the Bank has its principal office, and at least forty percent shall be held in the depositories designated by the remaining four members referred to above, each of such depositories to hold, initially, not less than the amount of gold paid on the shares of the member designating it. However, all transfers of gold by the Bank shall be made with due regard to the costs of transport and anticipated requirements of the Bank. In an emergency the Executive Directors may transfer all or any part of the Bank’s gold holdings to any place where they can be adequately protected.
+###SECTION 12 FORM OF HOLDINGS OF CURRENCY 
 
 The Bank shall accept from any member, in place of any part of the member’s currency, paid in to the Bank under Article II, Section 7 (i), or to meet amortization payments on loans made with such currency, and not needed by the Bank in its operations, notes or similar obligations issued by the Government of the member or the depository designated by such member, which shall be non-negotiable, non-interest-bearing and payable at their par value on demand by credit to the account of the Bank in the designated depository. 
-###SECTION 13 PUBLICATION OF REPORTS AND PROVISION OF INFORMATION
+###SECTION 13 PUBLICATION OF REPORTS AND PROVISION OF INFORMATION 
 
-a) The Bank shall publish an annual report containing an audited statement of its accounts and shall circulate to members at intervals of three months or less a summary statement of its financial position and a profit and loss statement showing the results of its operations.  
+a)The Bank shall publish an annual report containing an audited statement of its accounts and shall circulate to members at intervals of three months or less a summary statement of its financial position and a profit and loss statement showing the results of its operations.
 
-b) The Bank may publish such other reports as it deems desirable to carry out its purposes.  
+b)The Bank may publish such other reports as it deems desirable to carry out its purposes.
 
-c) Copies of all reports, statements and publications made under this section shall be distributed to members.   
-###SECTION 14 ALLOCATION OF NET INCOME
+c)Copies of all reports, statements and publications made under this section shall be distributed to members.
+###SECTION 14 ALLOCATION OF NET INCOME 
 
-a) The Board of Governors shall determine annually what part of the Bank’s net income, after making provision for reserves, shall be allocated to surplus and what part, if any, shall be distributed.  
+a)The Board of Governors shall determine annually what part of the Bank’s net income, after making provision for reserves, shall be allocated to surplus and what part, if any, shall be distributed.
 
-b) If any part is distributed, up to two percent non-cumulative shall be paid, as a first charge against the distribution for any year, to each member on the basis of the average amount of the loans outstanding during the year made under Article IV, Section 1 (a) (i), out of currency corresponding to its subscription. If two percent is paid as a first charge, any balance remaining to be distributed shall be paid to all members in proportion to their shares. Payments to each member shall be made in its own currency, or if that currency is not available in other currency acceptable to the member. If such payments are made in currencies other than the member’s own currency, the transfer of the currency and its use by the receiving member after payment shall be without restriction by the members.    
+b)If any part is distributed, up to two percent non-cumulative shall be paid, as a first charge against the distribution for any year, to each member on the basis of the average amount of the loans outstanding during the year made under Article IV, Section 1 (a) (i), out of currency corresponding to its subscription. If two percent is paid as a first charge, any balance remaining to be distributed shall be paid to all members in proportion to their shares. Payments to each member shall be made in its own currency, or if that currency is not available in other currency acceptable to the member. If such payments are made in currencies other than the member’s own currency, the transfer of the currency and its use by the receiving member after payment shall be without restriction by the members.
 
 ### Article  VI  
 
 ####Withdrawal and Suspension of Membership: Suspension of Operations
 
-###SECTION 1 RIGHT OF MEMBERS TO WITHDRAW
+###SECTION 1 RIGHT OF MEMBERS TO WITHDRAW 
 
 Any member may withdraw from the Bank at any time by transmitting a notice in writing to the Bank at its principal office. Withdrawal shall become effective on the date such notice is received. 
-###SECTION 2 SUSPENSION OF MEMBERSHIP
+###SECTION 2 SUSPENSION OF MEMBERSHIP 
 
 If a member fails to fulfill any of its obligations to the Bank, the Bank may suspend its membership by decision of a majority of the Governors, exercising a majority of the total voting power. The member so suspended shall automatically cease to be a member one year from the date of its suspension unless a decision is taken by the same majority to restore the member to good standing. While under suspension, a member shall not be entitled to exercise any rights under this Agreement, except the right of withdrawal, but shall remain subject to all obligations. 
-###SECTION 3 CESSATION OF MEMBERSHIP IN INTERNATIONAL MONETARY FUND
+###SECTION 3 CESSATION OF MEMBERSHIP IN INTERNATIONAL MONETARY FUND 
 
 Any member which ceases to be a member of the International Monetary Fund shall automatically cease after three months to be a member of the Bank unless the Bank by three-fourths of the total voting power has agreed to allow it to remain a member. 
-###SECTION 4 SETTLEMENT OF ACCOUNTS WITH GOVERNMENTS CEASING TO BE MEMBERS
+###SECTION 4 SETTLEMENT OF ACCOUNTS WITH GOVERNMENTS CEASING TO BE MEMBERS 
 
-a) When a government ceases to be a member, it shall remain liable for its direct obligations to the Bank and for its contingent liabilities to the Bank so long as any part of the loans or guarantees contracted before it ceased to be a member are outstanding; but it shall cease to incur liabilities with respect to loans and guarantees entered into thereafter by the Bank and to share either in the income or the expenses of the Bank.  
+a)When a government ceases to be a member, it shall remain liable for its direct obligations to the Bank and for its contingent liabilities to the Bank so long as any part of the loans or guarantees contracted before it ceased to be a member are outstanding; but it shall cease to incur liabilities with respect to loans and guarantees entered into thereafter by the Bank and to share either in the income or the expenses of the Bank.
 
-b) At the time a government ceases to be a member, the Bank shall arrange for the repurchase of its shares as a part of the settlement of accounts with such government in accordance with the provisions of (c) and (d) below. For this purpose the repurchase price of the shares shall be the value shown by the books of the Bank on the day the government ceases to be a member.  
+b)At the time a government ceases to be a member, the Bank shall arrange for the repurchase of its shares as a part of the settlement of accounts with such government in accordance with the provisions of (c) and (d) below. For this purpose the repurchase price of the shares shall be the value shown by the books of the Bank on the day the government ceases to be a member.
 
-c) The payment for shares repurchased by the Bank under this section shall be governed by the following conditions: 
+c)The payment for shares repurchased by the Bank under this section shall be governed by the following conditions:
 
 (i) Any amount due to the government for its shares shall be withheld so long as the government, its central bank or any of its agencies remains liable, as borrower or guarantor, to the Bank and such amount may, at the option of the Bank, be applied on any such liability as it matures. No amount shall be withheld on account of the liability of the government resulting from its subscription for shares under Article II, Section 5 (ii). In any event, no amount due to a member for its shares shall be paid until six months after the date upon which the government ceases to be a member.  
 
@@ -381,30 +379,30 @@ c) The payment for shares repurchased by the Bank under this section shall be go
 
 (iii) Payments shall be made in the currency of the country receiving payment or at the option of the Bank in gold.  
 
-(iv) If losses are sustained by the Bank on any guarantees, participations in loans, or loans which were outstanding on the date when the government ceased to be a member, and the amount of such losses exceeds the amount of the reserve provided against losses on the date when the government ceased to be a member, such government shall be obligated to repay upon demand the amount by which the repurchase price of its shares would have been reduced, if the losses had been taken into account when the repurchase price was determined. In addition, the former member government shall remain liable on any call for unpaid subscriptions under Article II Section 5 (ii), to the extent that it would have been required to respond if the impairment of capital had occurred and the call had been made at the time the repurchase price of its shares was determined.    
+(iv) If losses are sustained by the Bank on any guarantees, participations in loans, or loans which were outstanding on the date when the government ceased to be a member, and the amount of such losses exceeds the amount of the reserve provided against losses on the date when the government ceased to be a member, such government shall be obligated to repay upon demand the amount by which the repurchase price of its shares would have been reduced, if the losses had been taken into account when the repurchase price was determined. In addition, the former member government shall remain liable on any call for unpaid subscriptions under Article II Section 5 (ii), to the extent that it would have been required to respond if the impairment of capital had occurred and the call had been made at the time the repurchase price of its shares was determined.  
 
-d) If the Bank suspends permanently its operations under Section 5 (b) of this Article, within six months of the date upon which any government ceases to be a member, all rights of such government shall be determined by the provisions of Section 5 of this Article.   
-###SECTION 5 SUSPENSION OF OPERATIONS AND SETTLEMENT OF OBLIGATIONS
+d)If the Bank suspends permanently its operations under Section 5 (b) of this Article, within six months of the date upon which any government ceases to be a member, all rights of such government shall be determined by the provisions of Section 5 of this Article.
+###SECTION 5 SUSPENSION OF OPERATIONS AND SETTLEMENT OF OBLIGATIONS 
 
-a) In an emergency the Executive Directors may suspend temporarily operations in respect of new loans and guarantees pending an opportunity for further consideration and action by the Board of Governors.  
+a)In an emergency the Executive Directors may suspend temporarily operations in respect of new loans and guarantees pending an opportunity for further consideration and action by the Board of Governors.
 
-b) The Bank may suspend permanently its operations in respect of new loans and guarantees by a vote of a majority of the Governors, exercising a majority of the total voting power. After such suspension of operations the Bank shall forthwith cease all activities, except those incident to the orderly realization, conservation, and preservation of its assets and settlement of its obligations.  
+b)The Bank may suspend permanently its operations in respect of new loans and guarantees by a vote of a majority of the Governors, exercising a majority of the total voting power. After such suspension of operations the Bank shall forthwith cease all activities, except those incident to the orderly realization, conservation, and preservation of its assets and settlement of its obligations.
 
-c) The liability of all members for uncalled subscriptions to the capital stock of the Bank and in respect of the depreciation of their own currencies shall continue until all claims of creditors, including all contingent claims, shall have been discharged.  
+c)The liability of all members for uncalled subscriptions to the capital stock of the Bank and in respect of the depreciation of their own currencies shall continue until all claims of creditors, including all contingent claims, shall have been discharged.
 
-d) All creditors holding direct shall be paid out of the assets of the Bank, and then out of payments to the Bank on calls on unpaid subscriptions. Before making any payments to creditors holding direct claims, the Executive Directors shall make such arrangements as are necessary, in their judgment, to insure a distribution to holders of contingent claims ratably with creditors holding direct claims.  
+d)All creditors holding direct shall be paid out of the assets of the Bank, and then out of payments to the Bank on calls on unpaid subscriptions. Before making any payments to creditors holding direct claims, the Executive Directors shall make such arrangements as are necessary, in their judgment, to insure a distribution to holders of contingent claims ratably with creditors holding direct claims.
 
-e) No distribution shall be made to members on account of their subscriptions to the capital stock of the Bank until 
+e)No distribution shall be made to members on account of their subscriptions to the capital stock of the Bank until 
 
 (i) all liabilities to creditors have been discharged or provided for, and  
 
-(ii) a majority of the Governors, exercising a majority of the total voting power, have decided to make a distribution.    
+(ii) a majority of the Governors, exercising a majority of the total voting power, have decided to make a distribution.   
 
-f) After a decision to make a distribution has been taken under (e) above, the Executive Directors may by a two-thirds majority vote make successive distributions of the assets of the Bank to members until all of the assets have been distributed. This distribution shall be subject to the prior settlement of all outstanding claims of the Bank against each member.  
+f)After a decision to make a distribution has been taken under (e) above, the Executive Directors may by a two-thirds majority vote make successive distributions of the assets of the Bank to members until all of the assets have been distributed. This distribution shall be subject to the prior settlement of all outstanding claims of the Bank against each member.
 
-g) Before any distribution of assets is made, the Executive Directors shall fix the proportionate share of each member according to the ratio of its shareholding to the total outstanding shares of the Bank.  
+g)Before any distribution of assets is made, the Executive Directors shall fix the proportionate share of each member according to the ratio of its shareholding to the total outstanding shares of the Bank.
 
-h) The Executive Directors shall value the assets to be distributed as at the date of distribution and then proceed to distribute in the following manner: 
+h)The Executive Directors shall value the assets to be distributed as at the date of distribution and then proceed to distribute in the following manner:
 
 (i) There shall be paid to each member in its own obligations or those of its official agencies or legal entities within its territories, insofar as they are available for distribution, an amount equivalent in value to its proportionate share of the total amount to be distributed.  
 
@@ -412,18 +410,18 @@ h) The Executive Directors shall value the assets to be distributed as at the da
 
 (iii) Any balance due to a member after payment has been made under (i) and (ii) above shall be paid in gold or currency acceptable to the member, insofar as they are held by the Bank, up to an amount equivalent in value to such balance.  
 
-(iv) Any remaining assets held by the Bank after payments have been made to members under (i), (ii), and (iii) above shall be distributed *pro rata* among the members.    
+(iv) Any remaining assets held by the Bank after payments have been made to members under (i), (ii), and (iii) above shall be distributed *pro rata *among the members.  
 
-i) Any member receiving assets distributed by the Bank in accordance with (h) above, shall enjoy the same rights with respect to such assets as the Bank enjoyed prior to their distribution.    
+i)Any member receiving assets distributed by the Bank in accordance with (h) above, shall enjoy the same rights with respect to such assets as the Bank enjoyed prior to their distribution. 
 
 ### Article  VII  
 
 ####Status, Immunities and Privileges
 
-###SECTION 1 PURPOSES OF THE ARTICLE
+###SECTION 1 PURPOSES OF THE ARTICLE 
 
 To enable the Bank to fulfill the functions with which it is entrusted, the status, immunities and privileges set forth in this Article shall be accorded to the Bank in the territories of each member. 
-###SECTION 2 STATUS OF THE BANK
+###SECTION 2 STATUS OF THE BANK 
 
 The Bank shall possess full juridical personality, and, in particular, the capacity: 
 
@@ -432,22 +430,22 @@ The Bank shall possess full juridical personality, and, in particular, the capac
 (ii) to acquire and dispose of immovable and movable property;  
 
 (iii) to institute legal proceedings.   
-###SECTION 3 POSITION OF THE BANK WITH REGARD TO JUDICIAL PROCESS
+###SECTION 3 POSITION OF THE BANK WITH REGARD TO JUDICIAL PROCESS 
 
 Actions may be brought against the Bank only in a court of competent jurisdiction in the territories of a member in which the Bank has an office, has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities. No actions shall, however, be brought by members or persons acting for or deriving claims from members. The property and assets of the Bank shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Bank. 
-###SECTION 4 IMMUNITY OF ASSETS FROM SEIZURE
+###SECTION 4 IMMUNITY OF ASSETS FROM SEIZURE 
 
 Property and assets of the Bank, wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of seizure by executive or legislative action. 
-###SECTION 5 IMMUNITY OF ARCHIVES
+###SECTION 5 IMMUNITY OF ARCHIVES 
 
 The archives of the Bank shall be inviolable. 
-###SECTION 6 FREEDOM OF ASSETS FROM RESTRICTIONS
+###SECTION 6 FREEDOM OF ASSETS FROM RESTRICTIONS 
 
 To the extent necessary to carry out the operations provided for in this Agreement and subject to the provisions of this Agreement, all property and assets of the Bank shall be free from restrictions, regulations, controls and moratoria of any nature. 
-###SECTION 7 PRIVILEGE FOR COMMUNICATIONS
+###SECTION 7 PRIVILEGE FOR COMMUNICATIONS 
 
 The official communications of the Bank shall be accorded by each member the same treatment that it accords to the official communications of other members. 
-###SECTION 8 IMMUNITIES AND PRIVILEGES OF OFFICERS AND EMPLOYEES
+###SECTION 8 IMMUNITIES AND PRIVILEGES OF OFFICERS AND EMPLOYEES 
 
 All governors, executive directors, alternates, officers and employees of the Bank 
 
@@ -456,94 +454,94 @@ All governors, executive directors, alternates, officers and employees of the Ba
 (ii) not being local nationals, shall be accorded the same immunities from immigration restrictions, alien registration requirements and national service obligations and the same facilities as regards exchange restrictions as are accorded by members to the representatives, officials, and employees of comparable rank of other members;  
 
 (iii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.   
-###SECTION 9 IMMUNITIES FROM TAXATION
+###SECTION 9 IMMUNITIES FROM TAXATION 
 
-a) The Bank, its assets, property, income and its operations and transactions authorized by this Agreement, shall be immune from all taxation and from all customs duties. The Bank shall also be immune from liability for the collection or payment of any tax or duty.  
+a)The Bank, its assets, property, income and its operations and transactions authorized by this Agreement, shall be immune from all taxation and from all customs duties. The Bank shall also be immune from liability for the collection or payment of any tax or duty.
 
-b) No tax shall be levied on or in respect of salaries and emoluments paid by the Bank to executive directors, alternates, officials or employees of the Bank who are not local citizens, local subjects, or other local nationals.  
+b)No tax shall be levied on or in respect of salaries and emoluments paid by the Bank to executive directors, alternates, officials or employees of the Bank who are not local citizens, local subjects, or other local nationals.
 
-c) No taxation of any kind shall be levied on any obligation or security issued by the Bank (including any dividend or interest thereon) by whomsoever held: 
+c)No taxation of any kind shall be levied on any obligation or security issued by the Bank (including any dividend or interest thereon) by whomsoever held: 
 
 (i) which discriminates against such obligation or security solely because it is issued by the Bank; or  
 
-(ii) if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Bank.    
+(ii) if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Bank.   
 
-d) No taxation of any kind shall be levied on any obligation or security guaranteed by the Bank (including any dividend or interest thereon) by whomsoever held: 
+d)No taxation of any kind shall be levied on any obligation or security guaranteed by the Bank (including any dividend or interest thereon) by whomsoever held: 
 
 (i) which discriminates against such obligation or security solely because it is guaranteed by the Bank; or  
 
-(ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank.     
-###SECTION 10 APPLICATION OF ARTICLE
+(ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank.   
+###SECTION 10 APPLICATION OF ARTICLE 
 
-Each member shall take such action as is necessary in its own territories for the purpose of making effective in terms of its own law the principles set forth in this Article and shall inform the Bank of the detailed action which it has taken.  
+Each member shall take such action as is necessary in its own territories for the purpose of making effective in terms of its own law the principles set forth in this Article and shall inform the Bank of the detailed action which it has taken. 
 
 ### Article  VIII  
 
 ####Amendments
 
-a) Any proposal to introduce modifications in this Agreement, whether emanating from a member, a governor or the Executive Directors, shall be communicated to the Chairman of the Board of Governors who shall bring the proposal before the Board. If the proposed amendment is approved by the Board the Bank shall, by circular letter or telegram, ask all members whether they accept the proposed amendment. When three-fifths of the members, having eighty-five percent of the total voting power, have accepted the proposed amendments, the Bank shall certify the fact by formal communication addressed to all members. <sup> (3)  “Eighty-five percent” was substituted to “four-fifths” by amendment effective February 16, 1989.  </sup>  
+a)Any proposal to introduce modifications in this Agreement, whether emanating from a member, a governor or the Executive Directors, shall be communicated to the Chairman of the Board of Governors who shall bring the proposal before the Board. If the proposed amendment is approved by the Board the Bank shall, by circular letter or telegram, ask all members whether they accept the proposed amendment. When three-fifths of the members, having eighty-five percent<sup>(3)“Eighty-five percent” was substituted to “four-fifths” by amendment effective February 16, 1989.</sup> of the total voting power, have accepted the proposed amendments, the Bank shall certify the fact by formal communication addressed to all members.
 
-b) Notwithstanding (a) above, acceptance by all members is required in the case of any amendment modifying: 
+b)Notwithstanding (a) above, acceptance by all members is required in the case of any amendment modifying: 
 
 (i) the right to withdraw from the Bank provided in Article VI, Section 1;  
 
 (ii) the right secured by Article II, Section 3 (c);  
 
-(iii) the limitation on liability provided in Article II, Section 6.    
+(iii) the limitation on liability provided in Article II, Section 6.   
 
-c) Amendments shall enter into force for all members three months after the date of the formal communication unless a shorter period is specified in the circular letter or telegram.    
+c)Amendments shall enter into force for all members three months after the date of the formal communication unless a shorter period is specified in the circular letter or telegram.
 
 ### Article  IX  
 
 ####Interpretation
 
-a) Any question of interpretation of the provisions of this Agreement arising between any member and the Bank or between any members of the Bank shall be submitted to the Executive Directors for their decision. If the question particularly affects any member not entitled to appoint an Executive Director, it shall be entitled to representation in accordance with Article V, Section 4 (h).  
+a)Any question of interpretation of the provisions of this Agreement arising between any member and the Bank or between any members of the Bank shall be submitted to the Executive Directors for their decision. If the question particularly affects any member not entitled to appoint an Executive Director, it shall be entitled to representation in accordance with Article V, Section 4 (h).
 
-b) In any case where the Executive Directors have given a decision under (a) above, any member may require that the question be referred to the Board of Governors, whose decision shall be final. Pending the result of the reference to the Board, the Bank may, so far as it deems necessary, act on the basis of the decision of the Executive Directors.  
+b)In any case where the Executive Directors have given a decision under (a) above, any member may require that the question be referred to the Board of Governors, whose decision shall be final. Pending the result of the reference to the Board, the Bank may, so far as it deems necessary, act on the basis of the decision of the Executive Directors.
 
-c) Whenever a disagreement arises between the Bank and a country which has ceased to be a member, or between the Bank and any member during the permanent suspension of the Bank, such disagreement shall be submitted to arbitration by a tribunal of three arbitrators, one appointed by the Bank, another by the country involved and an umpire who, unless the parties otherwise agree, shall be appointed by the President of the Permanent Court of International justice or such other authority as may have been prescribed by regulation adopted by the Bank. The umpire shall have full power to settle an questions of procedure in any case where the parties are in disagreement with respect thereto.    
+c)Whenever a disagreement arises between the Bank and a country which has ceased to be a member, or between the Bank and any member during the permanent suspension of the Bank, such disagreement shall be submitted to arbitration by a tribunal of three arbitrators, one appointed by the Bank, another by the country involved and an umpire who, unless the parties otherwise agree, shall be appointed by the President of the Permanent Court of International justice or such other authority as may have been prescribed by regulation adopted by the Bank.The umpire shall have full power to settle an questions of procedure in any case where the parties are in disagreement with respect thereto.
 
 ### Article  X  
 
 ####Approval Deemed Given
 
-Whenever the approval of any member is required before any act may be done by the Bank, except in Article VIII, approval shall be deemed to have been given unless the member presents an objection within such reasonable period as the Bank may fix in notifying the member of the proposed act.  
+Whenever the approval of any member is required before any act may be done by the Bank, except in Article VIII, approval shall be deemed to have been given unless the member presents an objection within such reasonable period as the Bank may fix in notifying the member of the proposed act. 
 
 ### Article  XI  
 
 ####Final Provisions
 
-###SECTION 1 ENTRY INTO FORCE
+###SECTION 1 ENTRY INTO FORCE 
 
 This Agreement shall enter into force when it has been signed on behalf of governments whose minimum subscriptions comprise not less than sixty-five percent of the total subscriptions set forth in Schedule A and when the instruments referred to in Section 2 (a) of this Article have been deposited on their behalf, but in no event shall this Agreement enter into force before May 1, 1945. 
-###SECTION 2 SIGNATURE
+###SECTION 2 SIGNATURE 
 
-a) Each government on whose behalf this Agreement is signed shall deposit with the Government of the United States of America an instrument setting forth that it has accepted this Agreement in accordance with its law and has taken all steps necessary to enable it to carry out all of its obligations under this Agreement.  
+a)Each government on whose behalf this Agreement is signed shall deposit with the Government of the United States of America an instrument setting forth that it has accepted this Agreement in accordance with its law and has taken all steps necessary to enable it to carry out all of its obligations under this Agreement.
 
-b) Each government shall become a member of the Bank as from the date of the deposit on its behalf of the instrument referred to in (a) above, except that no government shall become a member before this Agreement enters into force under Section 1 of this Article.  
+b)Each government shall become a member of the Bank as from the date of the deposit on its behalf of the instrument referred to in (a) above, except that no government shall become a member before this Agreement enters into force under Section 1 of this Article.
 
-c) The Government of the United States of America shall inform the governments of all countries whose names are set forth in Schedule A, and all governments whose membership is approved in accordance with Article II, Section 1 (b), of all signatures of this Agreement and of the deposit of all instruments referred to in (a) above.  
+c)The Government of the United States of America shall inform the governments of all countries whose names are set forth in Schedule A, and all governments whose membership is approved in accordance with Article II, Section 1 (b), of all signatures of this Agreement and of the deposit of all instruments referred to in (a) above.
 
-d) At the time this Agreement is signed on its behalf, each government shall transmit to the Government of the United States of America one one-hundredth of one percent of the price of each share in gold or United States dollars for the purpose of meeting administrative expenses of the Bank. This payment shall be credited on account of the payment to be made in accordance with Article II Section 8 (a). The Government of the United States of America shall hold such funds in a special deposit account and shall transmit them to the Board of Governors of the Bank when the initial meeting has been called under Section 3 of this Article. If this Agreement has not come into force by December 31, 1945, the Government of the United States of America shall return such funds to the governments that transmitted them.  
+d)At the time this Agreement is signed on its behalf, each government shall transmit to the Government of the United States of America one one-hundredth of one percent of the price of each share in gold or United States dollars for the purpose of meeting administrative expenses of the Bank. This payment shall be credited on account of the payment to be made in accordance with Article II Section 8 (a). The Government of the United States of America shall hold such funds in a special deposit account and shall transmit them to the Board of Governors of the Bank when the initial meeting has been called under Section 3 of this Article. If this Agreement has not come into force by December 31, 1945, the Government of the United States of America shall return such funds to the governments that transmitted them. 
 
-e) This Agreement shall remain open for signature at Washington on behalf of the governments of the countries whose names are set forth in Schedule A until December 31, 1945.  
+e)This Agreement shall remain open for signature at Washington on behalf of the governments of the countries whose names are set forth in Schedule A until December 31, 1945. 
 
-f) After December 31, 1945, this Agreement shall be open for signature on behalf of the government of any country whose membership has been approved in accordance with Article II, Section 1 (b).  
+f)After December 31, 1945, this Agreement shall be open for signature on behalf of the government of any country whose membership has been approved in accordance with Article II, Section 1 (b).
 
-g) By their signature of this Agreement, all governments accept it both on their own behalf and in respect of all their colonies, overseas territories, all territories under their protection, suzerainty, or authority and all territories in respect of which they exercise a mandate.  
+g)By their signature of this Agreement, all governments accept it both on their own behalf and in respect of all their colonies, overseas territories, all territories under their protection, suzerainty, or authority and all territories in respect of which they exercise a mandate.
 
-h) In the case of governments whose metropolitan territories have been under enemy occupation, the deposit of the instrument referred to in (a) above may be delayed until one hundred and eighty days after the date on which these territories have been liberated. If, however, it is not deposited by any such government before the expiration of this period, the signature affixed on behalf of that government shall become void and the portion of its subscription paid under (d) above shall be returned to it.  
+h)In the case of governments whose metropolitan territories have been under enemy occupation, the deposit of the instrument referred to in (a) above may be delayed until one hundred and eighty days after the date on which these territories have been liberated. If, however, it is not deposited by any such government before the expiration of this period, the signature affixed on behalf of that government shall become void and the portion of its subscription paid under (d) above shall be returned to it.
 
-i) Paragraphs (d) and (h) shall come into force with regard to each signatory government as from the date of its signature.   
-###SECTION 3 INAUGURATION OF THE BANK
+i)Paragraphs (d) and (h) shall come into force with regard to each signatory government as from the date of its signature. 
+###SECTION 3 INAUGURATION OF THE BANK 
 
-a) As soon as this Agreement enters into force under Section 1 of this Article, each member shall appoint a governor and the member to whom the largest number of shares is allocated in Schedule A shall call the first meeting of the Board of Governors.  
+a)As soon as this Agreement enters into force under Section 1 of this Article, each member shall appoint a governor and the member to whom the largest number of shares is allocated in Schedule A shall call the first meeting of the Board of Governors.
 
-b) At the first meeting of the Board of Governors, arrangements shall be made for the selection of provisional executive directors. The governments of the five countries, to which the largest number of shares are allocated in Schedule A, shall appoint provisional executive directors. If one or more of such governments have not become members, the executive directorships which they would be entitled to fill shall remain vacant until they become members, or until January 1, 1946, whichever is the earlier. Seven provisional executive directors shall be elected in accordance with the provisions of Schedule B and shall remain in office until the date of the first regular election of executive directors which shall be held as soon as practicable after January 1, 1946.  
+b)At the first meeting of the Board of Governors, arrangements shall be made for the selection of provisional executive directors. The governments of the five countries, to which the largest number of shares are allocated in Schedule A, shall appoint provisional executive directors. If one or more of such governments have not become members, the executive directorships which they would be entitled to fill shall remain vacant until they become members, or until January 1, 1946, whichever is the earlier. Seven provisional executive directors shall be elected in accordance with the provisions of Schedule B and shall remain in office until the date of the first regular election of executive directors which shall be held as soon as practicable after January 1, 1946.
 
-c) The Board of Governors may delegate to the provisional executive directors any powers except those which may not be delegated to the Executive Directors.  
+c)The Board of Governors may delegate to the provisional executive directors any powers except those which may not be delegated to the Executive Directors.
 
-d) The Bank shall notify members when it is ready to commence operations.    
+d)The Bank shall notify members when it is ready to commence operations.
 
 DONE at Washington, in a single copy which shall remain deposited in the archives of the Government of the United States of America, which shall transmit certified copies to all governments whose names are set forth in Schedule A and to all governments whose membership is approved in accordance with Article II, Section I (b).  
 
@@ -564,7 +562,7 @@ DONE at Washington, in a single copy which shall remain deposited in the archive
 | Costa Rica  | 2.0  | Norway  | 50.0  |
 | Cuba  | 35.0  | Panama  | 0.2  |
 | Czechoslovakia  | 125.0  | Paraguay  | 0.8  |
-| Denmark <sup>1)</sup>  | --- | Peru  | 17.5  |
+| Denmark<sup>1)</sup>  | --- | Peru  | 17.5  |
 | Dominican Republic  | 2.0  | Philippine Commonwealth  | 15.0  |
 | Ecuador  | 3.2  | Poland  | 125.0  |
 | Egypt  | 40.0  | Union of South Africa  | 100.0  |
@@ -578,7 +576,7 @@ DONE at Washington, in a single copy which shall remain deposited in the archive
 | Iceland  | 1.0  | --- | --- |
 | India  | 400.0  |  *Total*   |  *9,100.0*   |
 
-<sup>1)</sup> The quota of Denmark shall be determined by the Bank after Denmark accepts membership in accordance with these Articles of Agreement.   
+<sup>1)</sup> The quota of Denmark shall be determined by the Bank after Denmark accepts membership in accordance with these Articles of Agreement.  
 
 ### Schedule  B  
 
@@ -612,7 +610,7 @@ iii. Het bevorderen van een evenwichtige groei op de lange termijn van de intern
 
 iv. Het afsluiten van de door haar verstrekte of gegarandeerde leningen in verband met internationale leningen, die door andere kanalen verstrekt zijn, op dusdanige wijze dat nuttiger en dringender projecten, zowel grote als kleine, het eerst ter hand genomen worden.  
 
-v. Het leiden van haar werkzaamheden waarbij naar behoren rekening wordt gehouden met de invloed van internationale investeringen op de economische toestand op de grondgebieden van de leden en, in de jaren onmiddellijk volgend op de oorlog, het verlenen van hulp bij het bewerkstelligen van een soepele overgang van een oorlogseconomie naar een economie in vredestijd.   De Bank laat zich bij al haar beslissingen leiden door de in het voorgaande vervatte doelstellingen.  
+v. Het leiden van haar werkzaamheden waarbij naar behoren rekening wordt gehouden met de invloed van internationale investeringen op de economische toestand op de grondgebieden van de leden en, in de jaren onmiddellijk volgend op de oorlog, het verlenen van hulp bij het bewerkstelligen van een soepele overgang van een oorlogseconomie naar een economie in vredestijd.   De Bank laat zich bij al haar beslissingen leiden door de in het voorgaande vervatte doelstellingen. 
 
 ### Artikel  II  
 
@@ -625,7 +623,7 @@ a. De oorspronkelijke leden van de Bank zijn de leden van het Internationale Mon
 b. Het lidmaatschap staat voor de andere leden van het Fonds open op de tijdstippen en in overeenstemming met de voorwaarden die door de Bank kunnen worden vastgesteld.   
 ###SECTIE 2 MAATSCHAPPELIJK KAPITAAL
 
-a. Het maatschappelijk aandelenkapitaal van de Bank bedraagt $10.000.000.000, uitgedrukt in Amerikaanse dollar van het gewicht en het gehalte geldend op 1 juli 1944. Het aandelenkapitaal is verdeeld in 100.000 aandelen , elk met een nominale waarde van $100.000, waarop de inschrijving uitsluitend voor leden openstaat. <sup> 1)  Met ingang van 27 april 1988 is het maatschappelijk aandelenkapitaal van de Bank verhoogd tot 1.420.500 aandelen.  </sup>  
+a. Het maatschappelijk aandelenkapitaal van de Bank bedraagt $10.000.000.000, uitgedrukt in Amerikaanse dollar van het gewicht en het gehalte geldend op 1 juli 1944. Het aandelenkapitaal is verdeeld in 100.000 aandelen<sup> 1) Met ingang van 27 april 1988 is het maatschappelijk aandelenkapitaal van de Bank verhoogd tot 1.420.500 aandelen. </sup> , elk met een nominale waarde van $100.000, waarop de inschrijving uitsluitend voor leden openstaat.  
 
 b. Het aandelenkapitaal kan, wanneer de Bank dit raadzaam acht, met een meerderheid van drie vierde van het totale aantal stemmen verhoogd worden.   
 ###SECTIE 3 INSCHRIJVING OP AANDELEN
@@ -679,7 +677,7 @@ b. Steeds wanneer de pariwaarde van de valuta van een lid verhoogd wordt, vergoe
 c. De bepalingen van de voorgaande paragrafen kunnen door de Bank terzijde worden gesteld, wanneer het Internationale Monetaire Fonds een uniforme proportionele wijziging in de pariwaardes van de valuta’s van al haar leden doorvoert.   
 ###SECTIE 10 BEPERKING VAN HET BESCHIKKINGSRECHT OVER DE AANDELEN
 
-De aandelen worden op generlei wijze verpand of bezwaard en zijn slechts overdraagbaar aan de Bank.  
+De aandelen worden op generlei wijze verpand of bezwaard en zijn slechts overdraagbaar aan de Bank. 
 
 ### Artikel  III  
 
@@ -720,13 +718,11 @@ a. De Bank stelt niet als voorwaarde dat de opbrengst van een lening op de grond
 b. De Bank treft maatregelen om te verzekeren dat de opbrengst van iedere lening uitsluitend gebruikt wordt voor het doel waarvoor de lening verstrekt werd, waarbij de nodige aandacht wordt besteed aan economische en efficiënte overwegingen en zonder rekening te houden met politieke of andere niet-economische factoren of overwegingen.  
 
 c. In het geval van door de Bank verstrekte leningen opent zij een rekening op naam van de kredietnemer en crediteert deze voor het bedrag van de lening in de valuta of valuta’s waarin de lening luidt. De Bank staat de kredietnemer uitsluitend toe ten laste van die rekening gelden op te nemen ten behoeve van uitgaven in verband met het project zodra deze daadwerkelijk moeten worden gedaan.   
-###SECTIE 6 LENINGEN AAN DE INTERNATIONALE FINANCIERINGSMAATSCHAPPIJ
-
-<sup> 2)  Sectie ingevoegd bij wijziging van kracht op 17 december 1965.  </sup> 
+###SECTIE 6 LENINGEN AAN DE INTERNATIONALE FINANCIERINGSMAATSCHAPPIJ<sup> 2)  Sectie ingevoegd bij wijziging van kracht op 17 december 1965.  </sup> 
 
 a. De Bank kan aan de met haar verbonden Internationale Financieringsmaatschappij leningen verstrekken of leningen aan haar garanderen of erin deelnemen, die deze gebruikt voor het verstrekken van leningen. Het totale uitstaande bedrag van die leningen, garanties en deelnemingen, mag niet worden verhoogd indien op het moment of ten gevolge van die verhoging, het totale op dat ogenblik uitstaande bedrag van de schulden (waaronder begrepen verstrekte garanties) die genoemde maatschappij is aangegaan, een bedrag gelijk aan viermaal het oorspronkelijk geplaatste kapitaal en het surplus overschrijdt.  
 
-b. De bepalingen van artikel III, secties 4 en 5, onderdeel c, en van artikel IV, sectie 3, zijn niet van toepassing op leningen, garanties en deelnemingen in leningen op grond van deze sectie.    
+b. De bepalingen van artikel III, secties 4 en 5, onderdeel c, en van artikel IV, sectie 3, zijn niet van toepassing op leningen, garanties en deelnemingen in leningen op grond van deze sectie.   
 
 ### Artikel  IV  
 
@@ -827,7 +823,7 @@ iv. de andere waardepapieren te kopen en te verkopen die de Bewindvoerders met e
 Ieder waardepapier dat door de Bank gegarandeerd of uitgegeven wordt, is op de voorzijde voorzien van een duidelijk zichtbare verklaring met de strekking dat het geen schuldverplichting van een regering is, tenzij dit uitdrukkelijk op het waardepapier vermeld is. 
 ###SECTIE 10 VERBOD OP POLITIEKE ACTIVITEIT
 
-De Bank en haar ambtenaren mogen zich niet in de politieke aangelegenheden van enig lid mengen; noch zullen zij zich bij hun beslissingen door het politieke karakter van het betrokken lid of de betrokken leden laten beïnvloeden. Slechts economische overwegingen zullen bij hun beslissingen ter zake dienen en deze overwegingen zullen onpartijdig afgewogen worden, teneinde de in artikel I vermelde doelstellingen te verwezenlijken.  
+De Bank en haar ambtenaren mogen zich niet in de politieke aangelegenheden van enig lid mengen; noch zullen zij zich bij hun beslissingen door het politieke karakter van het betrokken lid of de betrokken leden laten beïnvloeden. Slechts economische overwegingen zullen bij hun beslissingen ter zake dienen en deze overwegingen zullen onpartijdig afgewogen worden, teneinde de in artikel I vermelde doelstellingen te verwezenlijken. 
 
 ### Artikel  V  
 
@@ -946,7 +942,7 @@ c. Aan de leden worden afschriften verstrekt van alle verslagen, berichten en pu
 
 a. De Raad van Bestuur stelt jaarlijks vast welk deel van de nettowinst van de Bank, na voorziening van de reserves, aan het surplus toegewezen zal worden en welk gedeelte eventueel zal worden uitgekeerd.  
 
-b. Indien een deel uitgekeerd wordt, wordt als eerste betaling ten opzichte van de verdeling voor een jaar aan ieder lid een niet-cumulatief bedrag tot twee percent betaald, op basis van het gedurende het jaar gemiddeld uitstaande bedrag aan leningen ingevolge artikel IV, sectie 1, onderdeel a, onder i, uit de valuta overeenkomend met de inschrijving van het betrokken lid. Indien als eerste betaling twee percent uitgekeerd wordt, wordt het saldo dat voor uitkering overblijft, aan alle leden uitbetaald naar rato van hun aandelenbezit. De betalingen aan ieder lid vinden plaats in zijn eigen valuta of, indien deze valuta niet beschikbaar is, in een andere voor het lid aanvaardbare valuta. Indien dergelijke betalingen in andere valuta dan die van het lid zelf plaatsvinden, kan de overdracht en het gebruik van die valuta door het lid dat deze ontvangt, na betaling niet beperkt worden door de leden.    
+b. Indien een deel uitgekeerd wordt, wordt als eerste betaling ten opzichte van de verdeling voor een jaar aan ieder lid een niet-cumulatief bedrag tot twee percent betaald, op basis van het gedurende het jaar gemiddeld uitstaande bedrag aan leningen ingevolge artikel IV, sectie 1, onderdeel a, onder i, uit de valuta overeenkomend met de inschrijving van het betrokken lid. Indien als eerste betaling twee percent uitgekeerd wordt, wordt het saldo dat voor uitkering overblijft, aan alle leden uitbetaald naar rato van hun aandelenbezit. De betalingen aan ieder lid vinden plaats in zijn eigen valuta of, indien deze valuta niet beschikbaar is, in een andere voor het lid aanvaardbare valuta. Indien dergelijke betalingen in andere valuta dan die van het lid zelf plaatsvinden, kan de overdracht en het gebruik van die valuta door het lid dat deze ontvangt, na betaling niet beperkt worden door de leden.   
 
 ### Artikel  VI  
 
@@ -1008,7 +1004,7 @@ iii. Enig saldo dat aan een lid verschuldigd blijft nadat betaling onder i en ii
 
 iv. Alle overblijvende activa die door de Bank worden gehouden worden nadat betaling aan de leden ingevolge i, ii en iii hierboven is geschied, pro rata verdeeld onder de leden.    
 
-i. Ieder lid, dat ingevolge h hierboven door de Bank verdeelde activa ontvangt, oefent ten aanzien van deze activa dezelfde rechten uit als de Bank voorafgaand aan de verdeling uitoefende.    
+i. Ieder lid, dat ingevolge h hierboven door de Bank verdeelde activa ontvangt, oefent ten aanzien van deze activa dezelfde rechten uit als de Bank voorafgaand aan de verdeling uitoefende.   
 
 ### Artikel  VII  
 
@@ -1069,13 +1065,13 @@ i. die ten nadele van dergelijke schuld- of waardepapieren zou zijn uitsluitend 
 ii. indien de enige rechtsgrond voor een dergelijke belasting zou zijn de plaats waar een kantoor van de Bank gevestigd is of zij zaken doet.     
 ###SECTIE 10 TOEPASSING VAN HET ARTIKEL
 
-Ieder lid neemt op zijn grondgebied de nodige maatregelen teneinde de beginselen vervat in dit artikel overeenkomstig zijn eigen recht te implementeren en stelt de Bank nader in kennis van de genomen maatregelen.  
+Ieder lid neemt op zijn grondgebied de nodige maatregelen teneinde de beginselen vervat in dit artikel overeenkomstig zijn eigen recht te implementeren en stelt de Bank nader in kennis van de genomen maatregelen. 
 
 ### Artikel  VIII  
 
 ####Amendementen
 
-a.  Ieder voorstel tot wijziging van deze Overeenkomst wordt, ongeacht of het afkomstig is van een lid, een bestuurder of het College van Bewindvoerders, bij de voorzitter van de Raad van Bestuur ingediend die het voorstel voorlegt aan de Raad. Indien de voorgestelde wijziging door de Raad van Bestuur wordt goedgekeurd, vraagt de Bank door middel van een rondschrijven of telegram alle leden of zij de voorgestelde wijziging aanvaarden. Wanneer drie vijfde van de leden, die vijfentachtig procent van het totale aantal stemmen bezitten, de voorgestelde wijziging aangenomen hebben, zendt de Bank hiervan een officiële mededeling aan alle leden. <sup> 3)  „vier vijfde” is vervangen door „vijfentachtig procent” bij wijziging van kracht op 16 februari 1989.  </sup>   
+a.  Ieder voorstel tot wijziging van deze Overeenkomst wordt, ongeacht of het afkomstig is van een lid, een bestuurder of het College van Bewindvoerders, bij de voorzitter van de Raad van Bestuur ingediend die het voorstel voorlegt aan de Raad. Indien de voorgestelde wijziging door de Raad van Bestuur wordt goedgekeurd, vraagt de Bank door middel van een rondschrijven of telegram alle leden of zij de voorgestelde wijziging aanvaarden. Wanneer drie vijfde van de leden, die vijfentachtig procent<sup> 3) „vier vijfde” is vervangen door „vijfentachtig procent” bij wijziging van kracht op 16 februari 1989. </sup> van het totale aantal stemmen bezitten, de voorgestelde wijziging aangenomen hebben, zendt de Bank hiervan een officiële mededeling aan alle leden.   
 b.  Niettegenstaande de bepalingen van a hierboven, is aanvaarding door alle leden vereist wanneer het een wijziging betreft die leidt tot wijziging van 
 
 i. het recht zich uit de Bank terug te trekken zoals voorzien in artikel VI, sectie 1;  
@@ -1083,7 +1079,7 @@ i. het recht zich uit de Bank terug te trekken zoals voorzien in artikel VI, sec
 ii. het recht verkregen bij artikel II, sectie 3, onderdeel c;  
 
 iii. de beperking van de aansprakelijkheid voorzien in artikel II, sectie 6.     
-c.  Wijzigingen treden voor alle leden drie maanden na de datum van de officiële mededeling in werking, tenzij in de officiële mededeling of het telegram een kortere termijn vermeld is.   
+c.  Wijzigingen treden voor alle leden drie maanden na de datum van de officiële mededeling in werking, tenzij in de officiële mededeling of het telegram een kortere termijn vermeld is.  
 
 ### Artikel  IX  
 
@@ -1091,13 +1087,13 @@ c.  Wijzigingen treden voor alle leden drie maanden na de datum van de officiël
 
 a.  Ieder verschil van mening omtrent de interpretatie van de bepalingen van deze Overeenkomst tussen een lid en de Bank of tussen de leden van de Bank onderling wordt ter beslissing voorgelegd aan het College van Bewindvoerders. Een lid dat nauw betrokken is bij een verschil van mening en niet gerechtigd is een bewindvoerder te benoemen kan zich laten vertegenwoordigen in overeenstemming met artikel V, sectie 4, onderdeel h.   
 b.  In ieder geval waarin het College van Bewindvoerders ingevolge a hierboven een beslissing genomen heeft, kan een lid verzoeken de kwestie voor te leggen aan de Raad van Bestuur, wiens beslissing bindend zal zijn. In afwachting van de uitkomst van de verwijzing naar de Raad, kan de Bank indien zij dit nodig acht handelen overeenkomstig de beslissing van het College van Bewindvoerders.   
-c.  Wanneer een geschil ontstaat tussen de Bank en een voormalig lid of tussen de Bank en een lid nadat de werkzaamheden van de Bank voorgoed gestaakt zijn, wordt het geschil onderworpen aan arbitrage door een tribunaal van drie arbiters, waarvan er een door de Bank benoemd wordt, een andere door het betrokken land, en een voorzitter, die, tenzij partijen anders overeenkomen, benoemd wordt door de President van het Internationale Gerechtshof of een andere autoriteit, die daarvoor is aangewezen bij een door de Bank aangenomen regeling .   
+c.  Wanneer een geschil ontstaat tussen de Bank en een voormalig lid of tussen de Bank en een lid nadat de werkzaamheden van de Bank voorgoed gestaakt zijn, wordt het geschil onderworpen aan arbitrage door een tribunaal van drie arbiters, waarvan er een door de Bank benoemd wordt, een andere door het betrokken land, en een voorzitter, die, tenzij partijen anders overeenkomen, benoemd wordt door de President van het Internationale Gerechtshof of een andere autoriteit, die daarvoor is aangewezen bij een door de Bank aangenomen regeling .  
 
 ### Artikel  X  
 
 ####Wanneer toestemming geacht wordt te zijn gegeven
 
-Steeds wanneer de toestemming van een lid vereist is voordat de Bank een handeling kan verrichten, wordt, behalve wat betreft artikel VIII, de toestemming geacht te zijn gegeven, indien het lid niet binnen een redelijke termijn, die de Bank bij de mededeling aan het lid van de voorgestelde handeling kan vaststellen, bezwaar maakt.  
+Steeds wanneer de toestemming van een lid vereist is voordat de Bank een handeling kan verrichten, wordt, behalve wat betreft artikel VIII, de toestemming geacht te zijn gegeven, indien het lid niet binnen een redelijke termijn, die de Bank bij de mededeling aan het lid van de voorgestelde handeling kan vaststellen, bezwaar maakt. 
 
 ### Artikel  XI  
 
@@ -1133,7 +1129,7 @@ b. Tijdens de eerste vergadering van de Raad van Bestuur wordt een regeling getr
 
 c. De Raad van Bestuur kan aan de voorlopige bewindvoerders alle bevoegdheden overdragen, behalve de bevoegdheden die niet aan het College van Bewindvoerders overgedragen mogen worden.  
 
-d. De Bank deelt de leden mede wanneer zij gereed is om haar werkzaamheden aan te vangen.    
+d. De Bank deelt de leden mede wanneer zij gereed is om haar werkzaamheden aan te vangen.   
 
 GEDAAN te Washington, in een enkel exemplaar, dat nedergelegd zal blijven in de archieven van de regering van de Verenigde Staten van Amerika, die gewaarmerkte afschriften doet toekomen aan alle regeringen wier namen in Schema A vermeld zijn en alle regeringen wier lidmaatschap is goedgekeurd ingevolge artikel II, sectie 1, onderdeel b.  
 
@@ -1154,7 +1150,7 @@ GEDAAN te Washington, in een enkel exemplaar, dat nedergelegd zal blijven in de 
 | Costa Rica  | 2.0  | Noorwegen  | 50.0  |
 | Cuba  | 35.0  | Panama  | 0.2  |
 | Tsjechoslowakije  | 125.0  | Paraguay  | 0.8  |
-| Denemarken <sup>1)</sup>  | --- | Peru  | 17.5  |
+| Denemarken<sup>1)</sup>   | --- | Peru  | 17.5  |
 | Dominicaanse Republiek  | 2.0  | Filipijnse Gemenebest  | 15.0  |
 | Ecuador  | 3.2  | Polen  | 125.0  |
 | Egypte  | 40.0  | Unie van Zuid-Afrika  | 100.0  |
@@ -1168,7 +1164,7 @@ GEDAAN te Washington, in een enkel exemplaar, dat nedergelegd zal blijven in de 
 | IJsland  | 1.0  | --- | --- |
 | India  | 400.0  |  *Totaal*   |  *9,100.0*   |
 
-<sup>1)</sup> De inschrijving van Denemarken wordt door de Bank vastgesteld, zodra Denemarken het lidmaatschap in overeenstemming met de artikelen van deze Overeenkomst aanvaardt.   
+<sup>1)</sup> De inschrijving van Denemarken wordt door de Bank vastgesteld, zodra Denemarken het lidmaatschap in overeenstemming met de artikelen van deze Overeenkomst aanvaardt.  
 
 ### Schema  B  
 
