@@ -383,7 +383,7 @@ a. de uitvoering van de taken, bedoeld in de artikelen 10, 10a, 42 en 54a en hoo
 
 b. de aanleg, het beheer of het onderhoud van leidingen buiten gebouwen voor het transport van elektriciteit of  
 
-c. het ter beschikking stellen en houden van netten ten behoeve van het gebruik van daarmee verbonden zaken door derden.  
+c. het ter beschikking stellen en houden van netten ten behoeve van het gebruik van daarmee verbonden zaken door derden,  
 
 d. de aanleg, het beheer of het onderhoud van aansluitingen met een doorlaatwaarde groter dan 40 m <sup>3</sup> (n) per uur.     
 2.  Indien een netbeheerder, niet zijnde de netbeheerder van het landelijk gastransportnet, deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), is het deze groep niet toegestaan om handelingen of activiteiten te verrichten die strijdig kunnen zijn met het belang van het beheer van het desbetreffende net.   
@@ -671,7 +671,7 @@ d. een gebouw ingrijpend wordt gerenoveerd.
 5.  Bij ministeriële regeling wordt de hoogte van de vergoeding vastgesteld die voor verschillende situaties verschillend kan worden vastgesteld.   
 6.  Een ander dan een netbeheerder kan op verzoek van een afnemer als bedoeld in artikel 43, eerste lid, er na voorafgaande melding aan de betreffende netbeheerder voor zorgdragen dat die afnemer voor een of meer aansluitingen beschikt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 42a, eerste lid, gestelde eisen.   
 7.  Indien een ander dan een netbeheerder er zorg voor draagt dat een afnemer als bedoeld in artikel 43, eerste lid, beschikt over een meetinrichting die ten minste voldoet aan de krachtens artikel 42a gestelde eisen, betaalt de betreffende netbeheerder aan die ander een overnamevergoeding.   
-8.  Bij ministeriële regeling wordt de hoogte van de vergoeding als bedoeld in het zevende lid vastgesteld, die voor verschillende situaties verschillend kan worden vastgesteld.   
+8.   Dit lid is nog niet in werking getreden.    
 9.  Het is anderen dan de netbeheerder niet toegestaan bij afnemers als bedoeld in artikel 43, eerste lid, geïnstalleerde, op afstand uitleesbare meetinrichtingen te vervangen die zijn geïnstalleerd na 31 december 2005.   
 10.  Indien een op afstand uitleesbare meetinrichting door de netbeheerder ter beschikking wordt gesteld, kan een afnemer als bedoeld in artikel 43, eerste lid, deze meetinrichting weigeren. In dat geval wordt door de netbeheerder een niet op afstand uitleesbare meetinrichting ter beschikking gesteld.   
 
@@ -1232,7 +1232,7 @@ b. behalve één of meer aansluitingen met een capaciteit kleiner dan of gelijk 
 1.  Een leverancier heeft ten aanzien van een afnemer als bedoeld in artikel 43, eerste lid, tot taak de door deze afnemer verschuldigde bedragen voor de uitvoering van de bij of krachtens deze wet aan de netbeheerder opgedragen taken te factureren en innen. De leverancier brengt hiervoor geen kosten in rekening aan de netbeheerder.   
 2.  Het eerste lid is niet van toepassing op bedragen die zijn gebaseerd op tarieven met een eenmalig karakter.   
 3.  De betaling door een afnemer als bedoeld in artikel 43, eerste lid, aan een leverancier van de overeenkomstig het eerste en tweede lid gefactureerde bedragen geldt als bevrijdende betaling.   
-4.  Rechtsvorderingen tot betaling van de door de leverancier overeenkomstig het eerste en tweede lid gefactureerde bedragen verjaren door verloop van twee jaren. Indien de leverancier de factuur, bedoeld in het eerste lid, niet binnen twee jaar na het moment dat de betreffende dienst door de netbeheerder aan de afnemer is geleverd, aan de afnemer heeft gezonden, vervalt het recht om voor de betreffende dienst bij de afnemer te factureren.   
+4.  Rechtsvorderingen tot betaling van de door de leverancier overeenkomstig het eerste en tweede lid gefactureerde bedragen verjaren door verloop van twee jaren. Indien de leverancier een vordering tot betaling van een schuld van een afnemer ter zake van de uitvoering van taken als bedoeld in het eerste lid, niet heeft gedaan binnen twee jaren nadat de vordering opeisbaar is geworden, vervalt het recht om betaling te vorderen.   
 5.  Een leverancier draagt per periode de overeenkomstig het eerste lid gefactureerde of te factureren bedragen af aan de desbetreffende netbeheerder.   
 6.  Bij ministeriële regeling worden regels gesteld over de omvang en het moment van de afdracht, bedoeld in het vijfde lid, ten behoeve van een gelijkmatige afdracht aan de netbeheerders.   
 
@@ -1584,6 +1584,19 @@ Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 ### Hoofdstuk  7  
 
 ####Overgangs- en slotbepalingen
+
+### Artikel  72  
+
+1.  Een netbeheerder meldt jaarlijks voor 1 februari aan Onze Minister alle in het voorgaande kalenderjaar gesloten overeenkomsten tot transport van gas die strekken tot landsgrensoverschrijdende leveringen van gas.   
+2.  Bij de in het eerste lid bedoelde melding worden in ieder geval vermeld het land of de landen waar naartoe of van waaruit het gas werd of zal worden getransporteerd, de hoeveelheid gas die onderwerp was of zal zijn van elk transport en de termijn waarvoor de overeenkomst is gesloten.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de melding.   
+
+### Artikel  73  
+
+1.  Met inachtneming van artikel 23, tweede lid, van de richtlijn, kunnen bij ministeriële regeling afnemers, handelaren, leveranciers, overeenkomsten en landen worden aangewezen ten aanzien waarvan toestemming van Onze Minister vereist is voor het transport van gas vanuit een ander land naar Nederland.   
+2.  De in het eerste lid bedoelde aanwijzing vindt slechts plaats indien uit de in artikel 72 bedoelde meldingen blijkt dat een verstoring van het evenwicht bij het openstellen van de gasmarkten optreedt of dreigt op te treden.   
+3.  Bij de toepassing van het bepaalde bij of krachtens dit artikel houdt Onze Minister rekening met de vraag of een aanwijzing of een weigering tot het geven van toestemming noodzakelijk en proportioneel is in het licht van het doel ervan, alsmede met de vraag of de aanwijzing of de weigering de ontwikkeling van het handelsverkeer zou beïnvloeden in een mate die strijdig is met de belangen van de Gemeenschap, bedoeld in artikel 3, vijfde lid, van de richtlijn.   
+4.  Het is verboden zonder toestemming van Onze Minister het transport van gas te verrichten in het kader van een overeenkomst tot transport van gas die strekt tot de invoer van gas indien de overeenkomst, het daarbij betrokken land, de betrokken afnemer of leverancier in de in het eerste lid bedoelde ministeriële regeling is aangewezen.   
 
 ### Artikel  80  
 

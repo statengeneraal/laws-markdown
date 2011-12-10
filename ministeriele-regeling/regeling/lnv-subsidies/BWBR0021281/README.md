@@ -1893,10 +1893,11 @@ c. de liquiditeitstoename voldoende ruimte biedt om tegenvallers in de exploitat
 
 1.  In zoverre in afwijking van artikel 2:73, eerste lid, aanhef en onderdeel b, kan de kredietinstelling de looptijd van de lening, waarvoor de Minister onder de voorwaarden van deze paragraaf een garantstelling heeft verstrekt, met ten hoogste drie jaar verlengen, mits: 
 
-a. de totale looptijd van de regeling daarmee niet meer dan twee en twintig jaar bedraagt, en  
+a. de totale looptijd van de lening daarmee niet meer dan twee en twintig jaar bedraagt, en  
 
 b. verlenging noodzakelijk is in verband met betalingsmoeilijkheden van de landbouwonderneming die zijn opgetreden als gevolg van de recente uitbraak van de EHEC-bacterie in Noord-Duitsland.     
 2.  Het eerste lid is niet van toepassing op garantstellingen als bedoeld in artikel 2:80, vierde lid.   
+3.  De kredietinstelling kan de verlenging van de looptijd, bedoeld in het eerste lid, onder de in dat lid in de onderdelen a en b gestelde voorwaarden, overeenkomstig toepassen op leningen met een looptijd van maximaal 20 jaar, niet zijnde achtergestelde leningen, waarvoor garantie is verstrekt op grond van het Besluit Borgstellingsfonds of het Besluit BF bijzondere borgstellingen.   
 
 ### Artikel  2:74  
 
@@ -3804,7 +3805,6 @@ c. *referentieperiode:* maanden september, oktober en november van de jaren 2006
 
 1.  De tegemoetkoming wordt berekend naar rato van de gemiddelde inkomsten per jaar uit de verkoop van door de aanvrager gevangen aal in de referentieperiode.   
 2.  De tegemoetkoming bedraagt maximaal 100% van de totale inkomsten in de referentieperiode.   
-3.  Indien de beroepsvisser deelneemt aan een proefproject voor decentraal aalbeheer en daartoe ontheffing heeft verkregen van het visverbod op aal, bedoeld in [artikel 32a van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md), bedraagt de tegemoetkoming het overeenkomstig het eerste en tweede lid berekende bedrag verminderd met de uit die proef voortvloeiende inkomsten in de maanden september, oktober en november 2010.   
 
 ### Artikel  4:71  
 
@@ -3819,12 +3819,7 @@ b. kopieën van kasboekoverzichten;
 c. kopieën van veilingbonnen van visafslagen als genoemd in [artikel 1 van het Besluit aanwijzing bevoegde afslagen voor inning productschapsheffingen](../../../../pbo/besluit/aanwijzing/bevoegde/afslagen/voor/inning/productschapsheffingen/BWBR0026263/README.md), of  
 
 d. een combinatie van a, b en c.     
-2.  Indien de aanvrager een aanvraag heeft ingediend op grond van de Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 4 januari 2010, nr 79904, houdende wijziging van de Regeling LNV-subsidies en het Openstellingsbesluit LNV-subsidies 2010, en deze geleid heeft tot verstrekking van de in die regeling bedoelde tegemoetkomingen, wordt, voor zover het de maanden oktober en november uit de jaren van de referentieperiode betreft, uitgegaan van de opbrengsten uit de verkoop van door de betreffende aanvrager gevangen aal zoals deze in het kader van die regeling in aanmerking zijn genomen voor de verstrekking van de daar bedoelde tegemoetkomingen en behoeft de aanvrager in afwijking van het eerste lid de gegevens over de maanden oktober en november niet te verstrekken.   
-3.  Indien de aanvrager deelneemt aan de proef bedoeld in artikel 4:70, derde lid, verstrekt hij zo spoedig mogelijk doch uiterlijk 15 december 2010: 
-
-a. gegevens met betrekking tot de opbrengsten uit de verkoop van de tijdens de maanden september, oktober en november 2010 gevangen aal. Het eerste lid is van overeenkomstige toepassing op de verstrekking van deze gegevens, en  
-
-b. een afschrift van de in genoemd artikellid bedoelde verkregen ontheffing.     
+2.  Indien de aanvrager een aanvraag heeft ingediend op grond van de Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 4 januari 2010, nr 79904, houdende wijziging van de Regeling LNV-subsidies en het Openstellingsbesluit LNV-subsidies 2010, en deze geleid heeft tot verstrekking van de in die regeling bedoelde tegemoetkomingen, wordt, voor zover het de maanden september, oktober en november uit de jaren van de referentieperiode betreft, uitgegaan van de opbrengsten uit de verkoop van door de betreffende aanvrager gevangen aal zoals deze in het kader van die regeling in aanmerking zijn genomen voor de verstrekking van de daar bedoelde tegemoetkomingen en behoeft de aanvrager in afwijking van het eerste lid de gegevens over de maanden september, oktober en november niet te verstrekken.   
 
 ### Artikel  4:72  
 
