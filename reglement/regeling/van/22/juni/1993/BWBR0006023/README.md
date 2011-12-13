@@ -471,7 +471,7 @@ In een mondeling overleg kunnen met instemming van de desbetreffende minister in
 
 1.  De beraadslaging over een verslag van een algemeen overleg wordt alleen geopend indien een lid naar aanleiding van dat overleg een motie wenst in te dienen.   
 2.  In afwijking van artikel 63, eerste lid, voert elk lid slechts eenmaal het woord.   
-3.  In afwijking van artikel 64 stelt de Kamer een gelijke maximumspreektijd per fractie vast.   
+3.  In afwijking van artikel 64 bedraagt de maximumspreektijd per fractie twee minuten, met inbegrip van de benodigde tijd voor de indiening van moties.   
 
 ### Artikel  45  
 
@@ -1274,8 +1274,8 @@ e. zaken die in strijd zijn met de Grondwet en de goede zeden.
 ####Het mondelinge vragenuur
 
 1.  Het mondelinge vragenuur vindt plaats op dinsdag aan het begin van de vergadering. De ministers zijn op dit tijdstip steeds beschikbaar behoudens verplichtingen die naar het oordeel van de Voorzitter voor moeten gaan.   
-2.  Het lid dat tijdens het vragenuur vragen wil stellen, meldt dit, onder aanduiding van het onderwerp, schriftelijk bij de Voorzitter aan uiterlijk dinsdag 12.00 uur. De aanmelding kan niet eerder geschieden dan donderdag 12.00 uur in de voorgaande week dan wel, indien dit later is, direct na sluiting van de laatste vergadering in de voorgaande week.   
-3.  De Voorzitter beslist welke van de aangemelde vragen binnen het uur worden gesteld.   
+2.  Een lid kan ten hoogste één onderwerp aanmelden waarover hij tijdens het mondelinge vragenuur vragen wil stellen. Het lid meldt het onderwerp schriftelijk bij de Voorzitter aan uiterlijk dinsdag 12.00 uur. De aanmelding kan niet eerder geschieden dan donderdag 12.00 uur in de voorgaande week dan wel, indien dit later is, direct na sluiting van de laatste vergadering in de voorgaande week.   
+3.  De Voorzitter beslist over welke van de aangemelde onderwerpen binnen het vragenuur vragen worden gesteld.   
 4.  De Kamer kan in een bijzonder geval voor het mondeling vragenuur ook een ander tijdstip vaststellen. De Voorzitter bepaalt dan het tijdstip waarop het onderwerp van de vragen bij hem dient te zijn aangemeld.   
 5.  De Voorzitter nodigt de desbetreffende ministers uit voor het vragenuur, waarbij hij mededeling doet van het onderwerp van de vragen. Vervolgens maakt de Voorzitter het onderwerp van de vragen openbaar.   
 
@@ -1284,10 +1284,10 @@ e. zaken die in strijd zijn met de Grondwet en de goede zeden.
 ####Volgorde vragenstellers en spreektijden
 
 1.  De Voorzitter bepaalt de volgorde waarin de onderwerpen tijdens het vragenuur aan de orde worden gesteld.   
-2.  De vragensteller wordt voor ten hoogste twee minuten het woord verleend om aan een of meer ministers vragen te stellen en een toelichting te geven. De minister of – indien de vragen aan meer ministers zijn gericht – de ministers gezamenlijk wordt voor ten hoogste vijf minuten het woord verleend om de vragen te beantwoorden. Interrupties door de vragensteller zijn toegestaan na drie minuten.   
-3.  De vragensteller krijgt, tenzij hij gebruik gemaakt heeft van de bevoegdheid om de minister na drie minuten te interrumperen, na de beantwoording door de minister opnieuw het woord voor ten hoogste één minuut om hetzij aan een minister hetzij aan een lid aanvullende vragen te stellen. Aan ieder tot wie vragen zijn gericht, wordt voor ten hoogste drie minuten het woord verleend om de vragen te beantwoorden.   
-4.  Vervolgens kan de Voorzitter aan andere leden, ieder voor ten hoogste één minuut, het woord verlenen om vragen te stellen over hetzelfde onderwerp. Aan ieder tot wie vragen zijn gericht, wordt voor ten hoogste drie minuten het woord verleend om de vragen te beantwoorden.   
-5.  Afgezien van de bevoegdheid bedoeld in het tweede lid, worden tijdens het vragenuur geen interrupties toegelaten.   
+2.  Bij het aan de orde komen van een onderwerp wordt het lid dat het onderwerp heeft aangemeld, de vragensteller, eerst voor ten hoogste twee minuten het woord verleend om over dit onderwerp aan een minister vragen te stellen en een toelichting te geven. De minister wordt voor ten hoogste twee minuten het woord verleend om de vragen te beantwoorden.   
+3.  De vragensteller krijgt na de beantwoording opnieuw het woord voor ten hoogste twee minuten om aan de minister aanvullende vragen te stellen. De minister wordt voor ten hoogste een minuut per vraag het woord verleend om de vragen te beantwoorden.   
+4.  Vervolgens kan de Voorzitter aan andere leden, ieder voor ten hoogste een halve minuut per vraag, het woord verlenen om aan de minister vragen te stellen over hetzelfde onderwerp. De minister wordt voor ten hoogste een halve minuut per vraag het woord verleend om de vragen te beantwoorden.   
+5.  Tijdens het vragenuur zijn interrupties niet toegestaan, en kunnen de leden van een fractie gezamenlijk ten hoogste tweemaal een vraag als bedoeld in het vierde lid stellen.   
 
 ### Artikel  139  
 
