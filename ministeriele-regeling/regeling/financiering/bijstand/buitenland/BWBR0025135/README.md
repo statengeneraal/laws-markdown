@@ -12,62 +12,47 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
+a.  *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. *WWB:*[Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+b.  *WWB:* [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-c. *SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+c.  *SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-d. *valutadag:* de op de rekening-courantafschriften aangegeven dag van betaling;  
+d.  *valutadag:* de op de rekening-courantafschriften aangegeven dag van betaling;  
 
-e. *bijstandskosten:* de kosten van bijstand die verleend wordt op grond van [artikel 78h van de WWB](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+e.  *bijstandskosten:* de kosten van bijstand die verleend wordt op grond van [artikel 78h van de WWB](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-f. *uitvoeringskosten:* de kosten verbonden aan de uitvoering van de verlening van bijstand op grond van [artikel 78h van de WWB](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).    
+f.  *uitvoeringskosten:* de kosten verbonden aan de uitvoering van de verlening van bijstand op grond van [artikel 78h van de WWB](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 
 ### Artikel  2  
 
-####Raming en opgave uitgaven
+####Raming baten en lasten
 
-In het jaarplan met begroting verstrekt de SVB elk jaar aan Onze Minister: 
-
-a. een raming van het totaalbedrag van de bijstandskosten voor het komende jaar, met een uitsplitsing naar maand;  
-
-b. een opgave het totaalbedrag van de werkelijke bijstandskosten in het vorige jaar, met een uitsplitsing naar maand;  
-
-c. een raming van het totaalbedrag van de uitvoeringskosten voor het komende jaar.    
+Voor 1 oktober van elk jaar verstrekt de SVB aan de minister in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot de toekenning van bijstand, uitgesplitst naar bijstandskosten per maand en uitvoeringskosten per jaar. 
 
 ### Artikel  3  
 
-####Afdracht bijstandskosten en uitvoeringskosten
+####Betaling voorschot
 
-1.  Met als valutadag de eerste dag van elke maand stort Onze Minister op de rekening-courant van de SVB bij de Minister van Financiën het bedrag van de geraamde bijstandskosten over die maand en eentwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar.   
-2.  Onze Minister kan, na overleg met de SVB, van de geraamde bedragen, bedoeld in het eerste lid, afwijken.   
+1.  De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md), een periodiek voorschot op het bedrag, bedoeld in artikel 2, van: 
+
+a. geraamde bijstandskosten met als valutadag de tweeëntwintigste dag van elke maand, en  
+
+b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+2.  De minister kan, na overleg met de SVB, van de in het eerste lid bedoelde bedragen afwijken.  
 
 ### Artikel  4  
 
 ####Afrekening
 
-1.  Uiterlijk op 1 juli dient de SVB de afrekening van de bijstandskosten en de uitvoeringskosten over het afgelopen kalenderjaar bij Onze Minister in.   
-2.  In de afrekening van de bijstandskosten en uitvoeringskosten wordt, op basis van de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de kasstroom inzichtelijk gemaakt.   
-3.  Op grond van de afrekening van de bijstandskosten en de uitvoeringskosten vindt voor 15 augustus een betaling plaats ten gunste of ten laste van de SVB.   
-
-### Artikel  5  
-
-####Vaststelling Rijksbijdrage
-
-Onze Minister stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitgaven verbonden aan de uitvoering van [artikel 78h van de WWB](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) over het afgelopen kalenderjaar vast.  
-
-### Artikel  6  
-
-####Inwerkingtreding
-
-Indien het bij Koninklijke boodschap van 24 juni 2008 ingediende voorstel van wet tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen en enkele andere wetten in verband met de evaluatie van deze wet, de Kaderwet zelfstandige bestuursorganen en deregulering (Kamerstukken 31 514) nadat het tot wet is verheven, in werking treedt, treedt deze regeling op hetzelfde tijdstip in werking.  
+1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 3, eerste lid, uitgesplitst naar bijstandskosten en uitvoeringskosten met betrekking tot deze regeling opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling financiering bijstand buitenland.  
+Deze regeling wordt aangehaald als: Regeling financiering bijstand buitenland. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -75,4 +60,4 @@ Den Haag
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-J.Klijnsma   
+J. Klijnsma     
