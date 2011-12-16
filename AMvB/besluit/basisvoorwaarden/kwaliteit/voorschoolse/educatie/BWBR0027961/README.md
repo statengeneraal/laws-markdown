@@ -17,20 +17,20 @@ Hebben goedgevonden en verstaan:
 
 ####Basisvoorwaarden
 
-Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvoorwaarden voor kwaliteit.  
+Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvoorwaarden voor kwaliteit. 
 
 ### Artikel  2  
 
 ####Basisvoorwaarden voor omvang voorschoolse educatie
 
-Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in artikel 5.  
+Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in artikel 5. 
 
 ### Artikel  3  
 
 ####Basisvoorwaarden voor aantal beroepskrachten en groepsgrootte
 
 1.  De verhouding tussen het aantal beroepskrachten en het feitelijk aantal aanwezige kinderen in een groep waaraan voorschoolse educatie wordt aangeboden bedraagt ten minste één beroepskracht per acht kinderen.   
-2.  Een groep kinderen waaraan voorschoolse educatie wordt aangeboden bestaat uit ten hoogste 16 feitelijk aanwezige kinderen.   
+2.  Een groep kinderen waaraan voorschoolse educatie wordt aangeboden bestaat uit ten hoogste 16 feitelijk aanwezige kinderen.  
 
 ### Artikel  4  
 
@@ -44,44 +44,38 @@ b. een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algem
 2.  Onderdeel van de beroepsopleiding waarvoor het getuigschrift, bedoeld in het eerste lid, onderdeel a, is behaald, vormt ten minste één module over het verzorgen van voorschoolse educatie.   
 3.  Indien aan het tweede lid niet is voldaan bezit de beroepskracht voorschoolse educatie naast het getuigschrift, bedoeld in het eerste lid, onderdeel a, een bewijs dat met gunstig gevolg scholing is afgerond specifiek gericht op het vroegtijdig bestrijden van achterstanden bij jonge kinderen of het werken met voor- en vroegschoolse educatieprogramma’s.   
 4.  De houder van een kindercentrum of peuterspeelzaal waar voorschoolse educatie wordt aangeboden stelt jaarlijks een opleidingsplan op waarin tot uitdrukking komt op welke wijze de kennis van en de vaardigheden van de beroepskracht voorschoolse educatie in het vroegtijdig bestrijden van achterstanden door middel van voorschoolse educatie worden onderhouden.   
+5.  Het eerste lid is niet van toepassing ten aanzien van de beroepskracht voorschoolse educatie die: 
+
+a. is geboren vóór 1 januari 1955;  
+
+b. op 1 januari 2010 tenminste 15 jaar als beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) werkzaam was, en  
+
+c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in artikel 5.     
+6.  Indien in een groep waaraan voorschoolse educatie wordt aangeboden feitelijk meer dan acht kinderen aanwezig zijn, dan is ten minste één beroepskracht aanwezig die in het bezit is van een getuigschrift of erkenning als bedoeld in het eerste lid. 
 
 ### Artikel  5  
 
 ####Gebruik voorschools educatie-programma
 
-Voor de voorschoolse educatie wordt een programma gebruikt waarin op gestructureerde en samenhangende wijze de ontwikkeling wordt gestimuleerd op het gebied van taal, rekenen, motoriek en de sociaal-emotionele ontwikkeling.  
+Voor de voorschoolse educatie wordt een programma gebruikt waarin op gestructureerde en samenhangende wijze de ontwikkeling wordt gestimuleerd op het gebied van taal, rekenen, motoriek en de sociaal-emotionele ontwikkeling. 
 
 ### Artikel  6  
 
 ####Basisvoorwaarde kwaliteit lokatie
 
-Voorschoolse educatie vindt plaats in een kindercentrum of peuterspeelzaal.  
-
-### Artikel  8  
-
-####Overgangsrecht
-
-1.  Eerst twaalf maanden na inwerkingtreding van dit besluit is: 
-
-a. artikel 2 van toepassing ten aanzien van voorschoolse educatie in gemeenten, die op het moment van inwerkingtreding van dit besluit geen decentralisatie-uitkering als bedoeld in [artikel 5, tweede lid, van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) ontvingen voor voorschoolse educatie;  
-
-b. artikel 4, eerste tot en met derde lid, van toepassing ten aanzien van beroepskrachten voorschoolse educatie, die op het moment van inwerkingtreding van dit besluit reeds belast zijn met voorschoolse educatie en op dat moment niet voldoen aan de voorwaarden, bedoeld in artikel 4, eerste tot en met derde lid;  
-
-c. artikel 5 van toepassing.     
-2.  Het eerste lid, onderdelen b en c, geldt niet ten aanzien van voorschoolse educatie in de gemeenten Amsterdam, Den Haag, Rotterdam en Utrecht.   
-3.  Dit artikel vervalt met ingang van 1 januari 2012.   
+Voorschoolse educatie vindt plaats in een kindercentrum of peuterspeelzaal. 
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 25 juni 2009 ingediende [voorstel van wet tot Wijziging van de Wet kinderopvang, de Wet op het onderwijstoezicht, de Wet op het primair onderwijs en enkele andere wetten in verband met wijzigingen in het onderwijsachterstandenbeleid](../../../../../../../wet/wet/oke/BWBR0027956/README.md) (Kamerstukken II 2008/09, 31 989, nr. 2), nadat het tot wet verheven is, in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 25 juni 2009 ingediende [voorstel van wet tot Wijziging van de Wet kinderopvang, de Wet op het onderwijstoezicht, de Wet op het primair onderwijs en enkele andere wetten in verband met wijzigingen in het onderwijsachterstandenbeleid](../../../../../../../wet/wet/oke/BWBR0027956/README.md) (Kamerstukken II 2008/09, 31 989, nr. 2), nadat het tot wet verheven is, in werking treedt. 
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit basisvoorwaarden kwaliteit voorschoolse educatie.  
+Dit besluit wordt aangehaald als: Besluit basisvoorwaarden kwaliteit voorschoolse educatie. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -89,10 +83,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 7 juli 2010  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
 A. Rouvoet   
 
 de *tweeëntwintigste* juli 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

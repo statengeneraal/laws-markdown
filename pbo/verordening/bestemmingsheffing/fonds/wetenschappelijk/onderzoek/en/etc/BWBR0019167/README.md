@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Dranken van 5 december 2005 houdende vaststelling van de bestemmingsheffing ten behoeve van het Fonds voor Wetenschappelijk Onderzoek en Voorlichting voor het jaar 2006 (Verordening Bestemmingsheffing Fonds Wetenschappelijk Onderzoek en Voorlichting 2006)
 
 Het bestuur van het Productschap Dranken heeft,  
-gelet op:
+gelet op: 
 
 de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [artikel 14 van de Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
 
@@ -15,7 +15,10 @@ het advies van de Commissie ex [artikel 5 lid 1 onder c van het Instellingsbeslu
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2007 
 
 In deze verordening wordt verstaan onder: 
 
@@ -59,27 +62,32 @@ hetzij door vermenging van ethylalcohol uit landbouwproducten met water;
 
 9. commissie: d e Commissie voor gedistilleerd als bedoeld in [artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);  
 
-10. secretaris: de secretaris van de Commissie voor gedistilleerd.    
+10. secretaris: de secretaris van de Commissie voor gedistilleerd.   
 
 ### §  2  
 
 ####Onderwerp van de verordening
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  Er is een Fonds voor Wetenschappelijk Onderzoek en Voorlichting dat ten doel heeft geldmiddelen te verstrekken ter medefinanciering van onderzoeks- en ontwikkelingsactiviteiten die ten goede komen of kunnen komen van de gedistilleerdsector.   
 2.  De middelen van dit Fonds maken deel uit van het vermogen van het productschap.   
-3.  Het Fonds wordt als een afzonderlijke hoofdfunctie opgevoerd in de begroting van het productschap en wordt beheerd door de Commissie voor gedistilleerd.   
+3.  Het Fonds wordt als een afzonderlijke hoofdfunctie opgevoerd in de begroting van het productschap en wordt beheerd door de Commissie voor gedistilleerd.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2007 
 
 De baten van het Fonds bestaan uit: 
 
 a. de opbrengsten voortkomend uit de inning van (bestemmings-) heffingen verminderd met eventuele inningskosten;  
 
-b. rente van belegde gelden.    
+b. rente van belegde gelden.   
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  De middelen van het Fonds zijn bestemd voor bijdragen ter financiering van met name de volgende activiteiten: 
 
@@ -90,24 +98,29 @@ b. uitvoering van literatuurstudies, marktonderzoekingen, de begeleiding van mil
 c. het produceren en verstrekken van informatie in de ruimste zin van het woord, verband houdende met het bovenstaande;  
 
 d. de bevordering van belangstelling voor en kennis van gedistilleerde dranken.     
-2.  De Commissie voor gedistilleerd beslist over de bestemming van de middelen van het Fonds.   
+2.  De Commissie voor gedistilleerd beslist over de bestemming van de middelen van het Fonds.  
 
 ### §  3  
 
 ####Heffingen
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  5  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  Aan degenen die een onderneming drijven waarin uit grondstoffen gedistilleerde en/of zwak gedistilleerde dranken worden bereid die beschikbaar komen voor ge- of verbruik in Nederland, wordt een heffing van € 1,32 opgelegd per hectoliter ingeslagen grondstof, omgerekend tot een sterkte van 100% vol.   
 2.  Aan degenen die een onderneming drijven waarin gedistilleerde dranken en/of zwak gedistilleerde dranken voor de eerste maal beschikbaar komen voor ge- of verbruik in Nederland, en bij wie deze producten niet reeds aan heffing onderhevig zijn krachtens lid 1, wordt een heffing van € 1,32 opgelegd per hectoliter in het verkeer gebrachte gedistilleerde dranken en/of zwak gedistilleerde dranken, omgerekend tot een sterkte van 100% vol.   
-3.  De in het eerste lid bedoelde heffing is eveneens verschuldigd voor degenen die een onderneming drijven waarin gedistilleerde en/of zwak gedistilleerde dranken worden bereid anders dan uit de grondstoffen en wel berekend per hl 100% vol. van de op deze wijze verkregen gedistilleerde dranken.   
+3.  De in het eerste lid bedoelde heffing is eveneens verschuldigd voor degenen die een onderneming drijven waarin gedistilleerde en/of zwak gedistilleerde dranken worden bereid anders dan uit de grondstoffen en wel berekend per hl 100% vol. van de op deze wijze verkregen gedistilleerde dranken.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  De ondernemer is verplicht op grond van artikel 5 van de Heffingsverordening Productschap Dranken/Commissie Gedistilleerd 2006 de secretaris opgave te doen van de hoeveelheid van de per heffingsperiode bereide en in het verkeer gebrachte gedistilleerde en/of zwak gedistilleerde dranken. De secretaris draagt zorg voor de vertrouwelijkheid van de aldus verkregen informatie.   
-2.  Oplegging van de heffing geschiedt door toezending door de secretaris van een heffingsaanslag conform de in artikel 5 van deze verordening vastgestelde heffing aan de ondernemer.   
+2.  Oplegging van de heffing geschiedt door toezending door de secretaris van een heffingsaanslag conform de in artikel 5 van deze verordening vastgestelde heffing aan de ondernemer.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  Krachtens deze verordening ter kennis van het Productschap gekomen gegevens voorzover deze kennelijk van vertrouwelijke aard zijn, mogen voorzover bij of krachtens de wet niet anders is bepaald, zonder schriftelijke toestemming van de betrokken belanghebbende: 
 
@@ -117,23 +130,26 @@ niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop zij
 
 in door het bestuur aan te wijzen gevallen, waarin dit naar zijn oordeel in het belang is van de bedrijfsgenoten, bekend worden gemaakt aan de Staat, andere publiekrechtelijk organen of naar het oordeel van het bestuur daarmede gelijk te stellen publiekrechtelijke instellingen, indien de verstrekking van deze gegevens voortvloeit uit het doel van de registratie en de persoonlijke levenssfeer van de geregistreerden door de verstrekking van deze gegevens niet onevenredig wordt geschaad.     
 2.  Bekendmaking van gegevens, als bedoeld in het eerste lid, blijft ook achterwege in gevallen, waarin uit de aard der gegevens of uit een of meer andere omstandigheden zou kunnen blijken, op welke persoon en/of onderneming de gegevens betrekking hebben.   
-3.  De secretaris en de overige leden van het personeel van het secretariaat zijn met het oog op de [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) verplicht tot geheimhouding van de gegevens tegenover een ieder, met uitzondering van de accountants als genoemd in boek 9, titel 2 BW en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende.   
+3.  De secretaris en de overige leden van het personeel van het secretariaat zijn met het oog op de [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) verplicht tot geheimhouding van de gegevens tegenover een ieder, met uitzondering van de accountants als genoemd in boek 9, titel 2 BW en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende.  
 
 ### §  4  
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  8  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2006.   
 2.  De [Verordening Bestemmingsheffing Fonds voor Wetenschappelijk Onderzoek en Voorlichting 2005](../../../../../../../../../pbo/verordening/bestemmingsheffing/fonds/voor/wetenschappelijk/onderzoek/en/etc/BWBR0017537/README.md) wordt ingetrokken.   
-3.  Deze verordening kan worden aangehaald als Verordening Bestemmingsheffing Fonds Wetenschappelijk Onderzoek en Voorlichting 2006.   
+3.  Deze verordening kan worden aangehaald als Verordening Bestemmingsheffing Fonds Wetenschappelijk Onderzoek en Voorlichting 2006.  
 
 Schiedam 
 5 december 2005   
 
-P.M. Blauw  
+P.M.  Blauw  
 voorzitter  
 
-J.J. Schat  
+J.J.  Schat  
 secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 23 december 2005 en door de Minister van Economische Zaken bij beschikking van 21 december 2005, kenmerk EP/MW 5725553.    

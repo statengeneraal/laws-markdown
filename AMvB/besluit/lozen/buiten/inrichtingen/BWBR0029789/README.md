@@ -117,7 +117,7 @@ g. het brengen van afvalwater of andere afvalstoffen in een voorziening voor de 
 
 Vrijstelling wordt verleend van: 
 
-a. het verbod, bedoeld in [artikel 6.2, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), voor zover aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.11 en 3.13 tot en met 3.25;  
+a. het verbod, bedoeld in [artikel 6.2, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), voor zover aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.11 en 3.13 tot en met 3.26;  
 
 b. het verbod, bedoeld in [artikel 6.2, tweede lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), voor zover aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.5, 3.10, 3.12, 3.13, 3.22 en 3.24;  
 
@@ -470,6 +470,12 @@ c. het gehalte onopgeloste stoffen in enig steekmonster ten hoogste 300 milligr
 1.  Het lozen op of in de bodem, in een oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool is toegestaan.   
 2.  Het lozen in een vuilwaterriool is verboden, tenzij het lozen op of in de bodem, in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool of in een oppervlaktewaterlichaam redelijkerwijs niet mogelijk is.   
 3.  Bij het lozen vanuit een pompkelder van een tunnel of een verdiept weggedeelte is, indien dat redelijkerwijs mogelijk is, een voorziening aanwezig om, in afwijking van het tweede lid, het meest vervuilde hemelwater in een vuilwaterriool te lozen.   
+4.  Gewasbeschermingsmiddelen, waaronder onkruidbestrijdingsmiddelen, worden slechts op half-open en gesloten verhardingen gebruikt, indien: 
+
+a. sprake is van pleksgewijze behandeling door middel van selectieve toepassingstechnieken; en  
+
+b. de kans op neerslag voor een periode van 24 uur na het voorgenomen gebruik niet groter is dan 40% volgens het weerbericht, bedoeld in [artikel 5 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), voor de desbetreffende regio van het land.     
+5.  Gewasbeschermingsmiddelen, waaronder onkruidbestrijdingsmiddelen, worden niet gebruikt in of nabij straatkolken of putten.   
 
 ### Artikel  3.5  
 
@@ -690,6 +696,14 @@ Het lozen van afvalwater dat vrijkomt bij een calamiteitenoefening, is toegestaa
 ### Artikel  3.25  
 
 Het lozen ten gevolge van het in een oppervlaktewaterlichaam individueel verstrooien van as door de nabestaande die de zorg voor de asbus heeft, bedoeld in [artikel 66a van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), is toegestaan.  
+
+### Artikel  3.26  
+
+Bij het lozen in een oppervlaktewaterlichaam ten gevolge van het gebruik van gewasbeschermingsmiddelen, waaronder onkruidbestrijdingsmiddelen, op of langs spoorwegen worden binnen een afstand van 14 meter vanaf de insteek van dat oppervlaktewaterlichaam geen gewasbeschermingsmiddelen, waaronder onkruidbestrijdingsmiddelen, gebruikt: 
+
+a. met een spuitgeweer dat is voorzien van een werveldop of dat gebruik maakt van een werkdruk van 5 bar of hoger; en  
+
+b. bij een windsnelheid van meer dan 5 meter per seconde gemeten op spuitdophoogte.    
 
 ### Hoofdstuk  4  
 

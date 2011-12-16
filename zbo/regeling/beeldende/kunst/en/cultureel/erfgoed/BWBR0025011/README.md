@@ -11,19 +11,19 @@ De Mondriaan Stichting wil de belangstelling voor en afname van beeldende kunst,
 
 ####doelstelling
 
-Deze regeling beoogt de afname van en belangstelling voor hedendaagse beeldende kunst, vormgeving en cultureel erfgoed in het Koninkrijk der Nederlanden te stimuleren en te verdiepen. De Mondriaan Stichting wil bijdragen aan het leggen en onderhouden van sterke en diverse relaties met de samenleving, zodat de waarde van kunst en erfgoed wordt (h)erkend, gewaardeerd en aan betekenis wint. Ook wil zij bijdragen aan het versterken van de kunst- en erfgoedsector.  
+Deze regeling beoogt de afname van en belangstelling voor hedendaagse beeldende kunst en cultureel erfgoed in het Koninkrijk der Nederlanden te stimuleren en te verdiepen. De Mondriaan Stichting wil bijdragen aan het leggen en onderhouden van sterke en diverse relaties met de samenleving, zodat de waarde van kunst en erfgoed wordt (h)erkend, gewaardeerd en aan betekenis wint. Ook wil zij bijdragen aan het versterken van de kunst- en erfgoedsector. 
 
 ### Artikel  2  
 
 ####ondersteuningsmogelijkheden
 
-De Mondriaan Stichting ondersteunt activiteiten met betrekking tot professionele hedendaagse beeldende kunst, vormgeving en cultureel erfgoed, die bijdragen aan de doelstelling van de regeling: 
+De Mondriaan Stichting ondersteunt activiteiten met betrekking tot professionele hedendaagse beeldende kunst en cultureel erfgoed, die bijdragen aan de doelstelling van de regeling: 
 
 a. incidentele activiteiten: 
 
-– projecten: incidentele activiteiten op het gebied van hedendaagse beeldende kunst, vormgeving en cultureel erfgoed  
+– projecten: incidentele activiteiten op het gebied van hedendaagse beeldende kunst en cultureel erfgoed  
 
-– publicaties: eenmalige, niet-monografische en opiniërende uitgaven, die bijdragen aan de gedachtevorming over hedendaagse beeldende kunst en vormgeving;  
+– publicaties: eenmalige, niet-monografische en opiniërende uitgaven, die bijdragen aan de gedachtevorming over hedendaagse beeldende kunst;  
 
 – ontwikkelkosten: voorbereidingskosten tijdens de conceptfase van een activiteit;  
 
@@ -37,7 +37,7 @@ b. programmeringen Een programmering is een meerjarige reeks van inhoudelijk sam
 
 – cultureel erfgoed: erfgoedinstellingen met een publieksfunctie die een nieuw, experimenteel of voorbeeldstellend programma willen ontwikkelen kunnen daarvoor ondersteuning krijgen.    
 
-c. overig naast deze ondersteuningsmogelijkheden kunnen ook andere activiteiten worden ondersteund, wanneer zij bijdragen aan de doelstelling.    
+c. overig naast deze ondersteuningsmogelijkheden kunnen ook andere activiteiten worden ondersteund, wanneer zij bijdragen aan de doelstelling.   
 
 ### Artikel  3  
 
@@ -52,7 +52,7 @@ c. overig naast deze ondersteuningsmogelijkheden kunnen ook andere activiteiten 
 
 – instellingen gericht op het kunstvakonderwijs en sectorinstituten zonder museale functie.  
 
-– instellingen die reeds met cultuurmiddelen door de Rijksoverheid worden gefinancierd kunnen geen ondersteuning krijgen voor het onderdeel programmering. Organisaties kunnen slechts voor één programmering tegelijkertijd ondersteuning ontvangen.     
+– instellingen die reeds met cultuurmiddelen door de Rijksoverheid worden gefinancierd kunnen geen ondersteuning krijgen voor het onderdeel programmering. Organisaties kunnen slechts voor één programmering tegelijkertijd ondersteuning ontvangen.    
 
 ### Artikel  4  
 
@@ -64,7 +64,7 @@ a. waarvan de totale kosten minder dan € 25.000 bedragen (dit geldt niet voor 
 
 b. waarvan de resultaten grotendeels of alleen aan de aanvragende organisatie ten goede komen, zoals projecten op het gebied van bouwkundige voorzieningen;  
 
-c. die gericht zijn op de productie van beeldende kunst, vormgeving of het verwerven van erfgoed, zoals opdrachten en aankopen.  
+c. die gericht zijn op de productie van beeldende kunst of het verwerven van erfgoed, zoals opdrachten en aankopen.  
 
 d. die betrekking hebben op het behoud van gemeentelijke en Rijksmonumenten, of het opgraven van archeologische objecten;  
 
@@ -74,7 +74,7 @@ f. die een overwegend toeristisch karakter hebben;
 
 g. die betrekking hebben op documentaires en die geen deel uitmaken van een meeromvattende activiteit;  
 
-h. die betrekking hebben op publicaties en tijdschriften over cultureel erfgoed.    
+h. die betrekking hebben op publicaties en tijdschriften over cultureel erfgoed.   
 
 ### Artikel  5  
 
@@ -82,13 +82,13 @@ h. die betrekking hebben op publicaties en tijdschriften over cultureel erfgoed.
 
 Aanvragen worden aan de volgende criteria getoetst: 
 
-a. meerwaarde: de aanvraag onderscheidt zich in inhoud, opzet en uitvoering van het bestaande landelijke aanbod op het terrein van beeldende kunst, vormgeving of cultureel erfgoed door het innovatieve, uitzonderlijke of voorbeeldstellende karakter.  
+a. meerwaarde: de aanvraag onderscheidt zich in inhoud, opzet en uitvoering van het bestaande landelijke aanbod op het terrein van beeldende kunst of cultureel erfgoed door het innovatieve, uitzonderlijke of voorbeeldstellende karakter.  
 
 b. publieksbenadering: uit de aanvraag blijkt een doordachte en realistische publieksbenadering. Het project/programma en de gebruikte methode(s) sluiten aan bij de gekozen doelgroep(en). De aanvraag omvat een effectief communicatie- en publiciteitsplan.  
 
 c. excellente uitvoering: de aanvraag overtuigt van de excellente uitvoering van de activiteit. De aanvraag en de betrokken instelling(en) wekken vertrouwen in een (artistiek en/of cultuurhistorisch) kwalitatief hoogstaand eindresultaat.  
 
-d. relaties met de samenleving: de aanvraag legt door de inhoud, het onderwerp of uitvoering een betekenisvolle relatie tussen beeldende kunst, vormgeving of cultureel erfgoed en de samenleving. De activiteit draagt bij aan een groter draagvlak voor de beeldende kunst, vormgeving of cultureel erfgoed in de samenleving.   Aanvragen voor ontwikkelkosten worden alleen getoetst op de potentiële maatschappelijke betekenis en meerwaarde. Voorwaardenscheppende activiteiten worden in plaats van op maatschappelijke betekenis getoetst aan bijdrage aan de verdere professionalisering van de sector.  
+d. relaties met de samenleving: de aanvraag legt door de inhoud, het onderwerp of uitvoering een betekenisvolle relatie tussen beeldende kunst of cultureel erfgoed en de samenleving. De activiteit draagt bij aan een groter draagvlak voor de beeldende kunst of cultureel erfgoed in de samenleving.   Aanvragen voor ontwikkelkosten worden alleen getoetst op de potentiële maatschappelijke betekenis en meerwaarde. Voorwaardenscheppende activiteiten worden in plaats van op maatschappelijke betekenis getoetst aan bijdrage aan de verdere professionalisering van de sector. 
 
 ### Artikel  6  
 
@@ -97,19 +97,25 @@ d. relaties met de samenleving: de aanvraag legt door de inhoud, het onderwerp o
 1.  Bij het vaststellen van de hoogte van de bijdrage worden alleen variabele activiteitskosten in aanmerking genomen die relevant zijn in het licht van de doelstelling uit artikel 1. Lasten die op enigerlei wijze tot de normale exploitatiekosten kunnen worden gerekend en investeringen die niet direct op de realisatie van de activiteit gericht zijn, komen niet voor ondersteuning in aanmerking.   
 2.  Voor programmeringen van presentatie-instellingen en kunstenaarsinitiatieven bedraagt de ondersteuning maximaal 60% van de kosten inclusief het deel van de overhead dat redelijkerwijs aan het programma kan worden toegerekend.   
 3.  De maximale bijdrage voor tijdschriften bedraagt € 65.000 per jaar. Los van deze bijdrage kan een additioneel bedrag van maximaal € 20.000 per jaar worden toegekend ter dekking van internationale verspreiding van het tijdschrift. De ondersteuning kan maximaal drie jaren omvatten. Voor in het buitenland gevestigde Nederlandstalige tijdschriften is de ondersteuning beperkt tot de distributiekosten in Nederland met een maximum van € 25.000 per jaar.   
-4.  De maximale bijdrage voor ontwikkelkosten bedraagt € 15.000.   
+4.  De maximale bijdrage voor ontwikkelkosten bedraagt € 15.000.  
 
 ### Artikel  7  
 
 ####overig
 
-Als de middelen die de Mondriaan Stichting heeft bestemd voor specifieke activiteiten zijn uitgeput, kan een aanvraag zonder nader onderzoek worden afgewezen. De Mondriaan Stichting kan nadere regels stellen ter uitwerking van hetgeen in dit reglement is bepaald. Deze regeling is een deelreglement als bedoeld in artikel 5 lid 2 van het Algemeen Reglement van de Mondriaan Stichting. Op dit reglement is de [Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb) van toepassing.  
+Als de middelen die de Mondriaan Stichting heeft bestemd voor specifieke activiteiten zijn uitgeput, kan een aanvraag zonder nader onderzoek worden afgewezen. De Mondriaan Stichting kan nadere regels stellen ter uitwerking van hetgeen in dit reglement is bepaald. Deze regeling is een deelreglement als bedoeld in artikel 5 lid 2 van het Algemeen Reglement van de Mondriaan Stichting. Op dit reglement is de [Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb) van toepassing. 
+
+### Artikel  7a  
+
+####Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling beeldende kunst en cultureel erfgoed. 
 
 ### Artikel  8  
 
 ####overgangsregeling
 
-Deze regeling treedt in werking op 1 januari 2009, en vervangt de eerdere [Beeldende kunst en vormgevingsregeling](../../../../../../../../zbo/beeldende/kunst-/en/vormgevingsregeling/BWBR0017202/README.md) en [Presentatieregeling erfgoed](../../../../../../../../zbo/presentatieregeling/erfgoed/BWBR0017200/README.md). Deze worden ingetrokken per 31 december 2008. Per 31 december 2008 wordt ook de Regeling Cultuureducatie ingetrokken. Alle subsidieverzoeken die voor het moment van inwerkingtreding van deze regeling zijn ontvangen, worden afgehandeld volgens de op het moment van ontvangst geldende bepalingen, tenzij toepassing van onderhavige regeling gunstiger is.  
+Deze regeling treedt in werking op 1 januari 2009, en vervangt de eerdere [Beeldende kunst en vormgevingsregeling](../../../../../../../../zbo/beeldende/kunst-/en/vormgevingsregeling/BWBR0017202/README.md) en [Presentatieregeling erfgoed](../../../../../../../../zbo/presentatieregeling/erfgoed/BWBR0017200/README.md). Deze worden ingetrokken per 31 december 2008. Per 31 december 2008 wordt ook de Regeling Cultuureducatie ingetrokken. Alle subsidieverzoeken die voor het moment van inwerkingtreding van deze regeling zijn ontvangen, worden afgehandeld volgens de op het moment van ontvangst geldende bepalingen, tenzij toepassing van onderhavige regeling gunstiger is. 
 
 Het 
 Bestuur van de Mondriaan Stichting   

@@ -7,18 +7,18 @@ Vastgesteld door het Bestuur van de Mondriaan Stichting op 14 december 2010 De M
 
 ####doelstelling
 
-Deze regeling beoogt de positie van hedendaagse beeldende kunst en vormgeving uit het Koninkrijk der Nederlanden internationaal te versterken en de internationale belangstelling ervoor te vergroten door activiteiten en promotie in het buitenland te ondersteunen en te stimuleren.    
+Deze regeling beoogt de positie van hedendaagse beeldende kunst uit het Koninkrijk der Nederlanden internationaal te versterken en de internationale belangstelling ervoor te vergroten door activiteiten en promotie in het buitenland te ondersteunen en te stimuleren.    
 ### 2  
 
 ####ondersteuningsmogelijkheden
 
-De Mondriaan Stichting ondersteunt internationale activiteiten op het gebied van hedendaagse beeldende kunst en vormgeving: 
+De Mondriaan Stichting ondersteunt internationale activiteiten op het gebied van hedendaagse beeldende kunst: 
 
-a. presentaties: tentoonstellingen of andere presentatieprojecten in het buitenland van of met (werk van) beeldend kunstenaars, vormgevers of curatoren uit het Koninkrijk der Nederlanden.  
+a. presentaties: tentoonstellingen of andere presentatieprojecten in het buitenland van of met (werk van) beeldend kunstenaars en curatoren uit het Koninkrijk der Nederlanden.  
 
 b. internationale samenwerking (waaronder Arts Collaboratory): projecten waarbij organisaties in het Koninkrijk samenwerken met organisaties in het buitenland. Daarbij hebben samenwerkingsprojecten met organisaties uit Azië, Afrika en Zuid Amerika speciale aandacht.  
 
-c. beurspresentaties: standpresentaties door galeries op door de Mondriaan Stichting geselecteerde kunst- en vormgevingsbeurzen.  
+c. beurspresentaties: standpresentaties door galeries op door de Mondriaan Stichting geselecteerde kunstbeurzen.  
 
 d. lofts: kunstenaars, vormgevers en andere relevante professionals kunnen voor een zakelijk verblijf in New York tegen een onkostenvergoeding gebruik maken van door de Mondriaan Stichting beheerde lofts.   Naast de bovengenoemde ondersteuningsmogelijkheden kunnen ook overige activiteiten worden ondersteund, wanneer zij bijdragen aan de doelstelling.    
 ### 3  
@@ -29,14 +29,14 @@ d. lofts: kunstenaars, vormgevers en andere relevante professionals kunnen voor 
 
 2. Bij presentaties moet de aanvraag worden ingediend door de buitenlandse organisatie waar de presentatie plaatsvindt.  
 
-3. Beurspresentaties kunnen alleen in behandeling worden genomen als minimaal 40% van het zichtbare standoppervlak betrekking heeft op kunstenaars of vormgevers uit het Koninkrijk.      
+3. Beurspresentaties kunnen alleen in behandeling worden genomen als minimaal 40% van het zichtbare standoppervlak betrekking heeft op kunstenaars uit het Koninkrijk.      
 ### 4  
 
 ####beperkingen
 
 Uitgesloten van ondersteuning zijn: 
 
-– activiteiten die betrekking hebben op kunstenaars, vormgevers of curatoren die niet in het Koninkrijk der Nederlanden wonen en werken, met uitzondering van kunstenaars en vormgevers met een Nederlandse nationaliteit die woonachtig zijn in het buitenland en die een substantiële bijdrage leveren aan het kunstklimaat in het Koninkrijk.  
+– activiteiten die betrekking hebben op kunstenaars of curatoren die niet in het Koninkrijk der Nederlanden wonen en werken, met uitzondering van kunstenaars met een Nederlandse nationaliteit die woonachtig zijn in het buitenland en die een substantiële bijdrage leveren aan het kunstklimaat in het Koninkrijk.  
 
 – buitenlandse presentaties waarvoor geen aanzienlijk organisatorisch en financieel draagvlak in het buitenland bestaat.  
 
@@ -45,19 +45,24 @@ Uitgesloten van ondersteuning zijn:
 
 ####beoordelingscriteria
 
-– presentaties en internationale samenwerkingsprojecten worden getoetst op de internationale uitstraling en reputatie van de betrokken buitenlandse organisatie voor de hedendaagse beeldende kunst of vormgeving. Bij de beoordeling van organisaties gevestigd in landen met een beperkte lokale infrastructuur wordt rekening gehouden met de lokale context van deze organisaties. Bij recent opgerichte organisaties en projectorganisaties kan additioneel de betekenis van de activiteit een rol spelen.  
+– presentaties en internationale samenwerkingsprojecten worden getoetst op de internationale uitstraling en reputatie van de betrokken buitenlandse organisatie voor de hedendaagse beeldende kunst. Bij de beoordeling van organisaties gevestigd in landen met een beperkte lokale infrastructuur wordt rekening gehouden met de lokale context van deze organisaties. Bij recent opgerichte organisaties en projectorganisaties kan additioneel de betekenis van de activiteit een rol spelen.  
 
 – aanvragen voor beurspresentaties worden niet inhoudelijk getoetst. De Mondriaan Stichting stelt jaarlijks vast voor welke beurzen ondersteuning kan worden aangevraagd.      
 ### 6  
 
 ####hoogte van de bijdrage
 
-Voor presentaties beperkt de bijdrage zich tot de kosten voor transport en verzekering tijdens transport van het werk dat getoond zal worden, de reis- en verblijfskosten van de kunstenaar, vormgever of curator (niet werkzaam bij een universiteit of het kunstvakonderwijs) en eventuele andere professionals wiens aanwezigheid noodzakelijk is en maximaal 50% van de kosten voor een begeleidende publicatie en maximaal 50% van de huur van apparatuur bij de presentatie van (nieuwe) mediaprojecten. Voor internationale samenwerkingsprojecten beperkt de bijdrage zich tot de reis- en verblijfskosten van de samenwerkingspartners. Voor samenwerkingsprojecten met Arts Collaboratory partners kan maximaal 60% van de relevante projectkosten worden vergoed. Voor beurspresentaties bedraagt de bijdrage maximaal 40% van de huur van een stand van maximaal 50m <sup>2</sup>, exclusief inrichtingskosten en lokale belastingen, met een maximale bijdrage van € 3.500 per beurspresentatie.    
+Voor presentaties beperkt de bijdrage zich tot de kosten voor transport en verzekering tijdens transport van het werk dat getoond zal worden, de reis- en verblijfskosten van de kunstenaar of curator (niet werkzaam bij een universiteit of het kunstvakonderwijs) en eventuele andere professionals wiens aanwezigheid noodzakelijk is en maximaal 50% van de kosten voor een begeleidende publicatie en maximaal 50% van de huur van apparatuur bij de presentatie van (nieuwe) mediaprojecten. Voor internationale samenwerkingsprojecten beperkt de bijdrage zich tot de reis- en verblijfskosten van de samenwerkingspartners. Voor samenwerkingsprojecten met Arts Collaboratory partners kan maximaal 60% van de relevante projectkosten worden vergoed. Voor beurspresentaties bedraagt de bijdrage maximaal 40% van de huur van een stand van maximaal 50m<sup>2</sup>, exclusief inrichtingskosten en lokale belastingen, met een maximale bijdrage van € 3.500 per beurspresentatie.    
 ### 7  
 
 ####overig
 
-Als de middelen die de Mondriaan Stichting heeft bestemd voor specifieke activiteiten zijn uitgeput, kan een aanvraag zonder nader onderzoek worden afgewezen. De Mondriaan Stichting kan nadere regels stellen ter uitwerking van hetgeen in dit reglement is bepaald. Deze regeling is een deelreglement als bedoeld in artikel 5 lid 2 van het Algemeen Reglement van de Mondriaan Stichting. Op dit reglement is de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb) van toepassing.    
+Als de middelen die de Mondriaan Stichting heeft bestemd voor specifieke activiteiten zijn uitgeput, kan een aanvraag zonder nader onderzoek worden afgewezen. De Mondriaan Stichting kan nadere regels stellen ter uitwerking van hetgeen in dit reglement is bepaald. Deze regeling is een deelreglement als bedoeld in artikel 5 lid 2 van het Algemeen Reglement van de Mondriaan Stichting. Op dit reglement is de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb) van toepassing.   
+###Artikel 7a 
+
+####Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling internationale activiteiten beeldende kunst. 
 ### 8  
 
 ####overgangsregeling
