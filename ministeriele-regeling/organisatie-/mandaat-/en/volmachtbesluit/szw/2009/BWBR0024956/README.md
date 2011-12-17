@@ -73,7 +73,9 @@ c. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder 
 
 4°. de directie Naleving;  
 
-5°. een bureau DG-control en Managementondersteuning;    
+5°. een bureau DG-control;  
+
+6°. het programma Werken naar Vermogen;    
 
 d. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de directeur-generaal Werk: 
 
@@ -352,7 +354,9 @@ m. het bevorderen van vernieuwingen in het handhavingsbeleid van SZW en van de u
 
 n. het bevorderen van de samenhang in het handhavings- en opsporingsbeleid van SZW en de uitvoerende instanties en met het beleid van externe partijen (Samenhangend handhaven);  
 
-o. het zorgdragen voor de uitvoering van de werkzaamheden die verband houden met de afwikkeling van de opgeheven arbeidsvoorzieningsorganisatie.    
+o. het zorgdragen voor de uitvoering van de werkzaamheden die verband houden met de afwikkeling van de opgeheven arbeidsvoorzieningsorganisatie;  
+
+p. de uitwerking en de totstandkoming van een regeling die de Wet werk en bijstand, Wet investeren in jongeren, de Wet sociale werkvoorziening en de Wet werk en arbeidsondersteuning jonggehandicapten hervormt.    
 
 ### Artikel  11  
 
