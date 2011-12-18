@@ -17,8 +17,8 @@ In deze verordening wordt verstaan onder:
 | a.  | UBN  | :  | uniek bedrijfsnummer als gedefinieerd in [artikel 1, onder ee., van de Regeling identificatie en registratie dieren](../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2004, 242);  |
 | b.  | KIP nummer  | :  | registratienummer toegekend op grond van [artikel 2, tweede lid, van de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005](../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/broedeieren/etc/BWBR0019280/README.md);  |
 | c.  | antibioticum  | :  | antimicrobieel diergeneesmiddel;  |
-| d.  | ondernemer  | :  | de natuurlijk of rechtspersoon die bedrijfsmatig pluimvee houdt ten behoeve van de productie van vleeskuikens of broedeieren;  |
-| e.  | pluimvee  | :  | kippen van de soort Gallus gallus die worden opgefokt of gehouden voor de productie van vlees of broedeieren;  |
+| d.  | ondernemer  | :  | de natuurlijk of rechtspersoon die bedrijfsmatig pluimvee houdt ten behoeve van de productie van vleeskuikens, consumptie-eieren of broedeieren;  |
+| e.  | pluimvee  | :  | kippen van de soort Gallus gallus die worden opgefokt of gehouden voor de productie van vlees, consumptie-eieren of broedeieren;  |
 | f.  | koppel  | :  | alle pluimvee met dezelfde gezondheidsstatus dat in dezelfde stal of binnen dezelfde uitloopruimte wordt geplaatst of gehouden en dat een epidemiologische eenheid vormt;  |
 | g.  | EAN-code  | :  | streepjescode, bekend als European Article Numbering, bestaande uit 13-cijfers;  |
 | h.  | bedrijfsbehandelplan  | :  | door de dierenarts in samenwerking met de pluimveehouder opgesteld plan waarin staat op welke wijze antibiotica worden ingezet en op welke wijze ziekten worden behandeld dan wel tegen ziekte wordt gevaccineerd;  |
@@ -64,7 +64,7 @@ per koppel waar het antibioticum voor is bestemd: de geboortedatum, het stalnumm
 
 ### Artikel  4  
 
-1.  De door of namens de ondernemer aangeleverde gegevens en de uitslagen van onderzoek kunnen worden gebruikt in rapportages waarin feiten en statistieken inzake typen en hoeveelheden antibiotica door dierenartsen in de vleeskuikensector zijn voorgeschreven, worden weergegeven.   
+1.  De door of namens de ondernemer aangeleverde gegevens en de uitslagen van onderzoek kunnen worden gebruikt in rapportages waarin feiten en statistieken inzake typen en hoeveelheden antibiotica door dierenartsen in de pluimveesector zijn voorgeschreven, worden weergegeven.   
 2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de in de databank geregistreerde gegevens voor zover zulks in overeenstemming is met de [artikelen 8](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [9 van de Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden voor het overige slechts verstrekt aan derden voor zover zulks in overeenstemming is met de artikelen 8 en 9 van de Wet bescherming persoonsgegevens.   
 3.  De gegenereerde gegevens worden verwerkt in een periodieke rapportage die ten minste één maal per jaar wordt uitgebracht.   
 
