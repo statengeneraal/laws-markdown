@@ -20,7 +20,7 @@ d.  *bewerkersovereenkomst:*  een overeenkomst als bedoeld in [artikel 14, tweed
 
 e.  *P-Direkt:*  de baten-lastendienst, ingesteld bij [besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën van 11 februari 2009](../../../../../../../../../../ministeriele-regeling/instellingsbesluit/baten-lastendienst/p-direkt/BWBR0025362/README.md);  
 
-f.  *beheerorganisatie:*  de organisatiedelen die krachtens de [Organisatieregeling Ministerie van Justitie 2007](../../../../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/justitie/2007/BWBR0022607/README.md) zijn belast met de uitvoering van de bedrijfsvoeringstaken van het Ministerie van Justitie    
+f. *beheersorganisatie:* ‘de organisatieonderdelen die krachtens de Organisatieregeling Ministerie van Veiligheid en Justitie 2011 zijn belast met de bedrijfsvoeringstaken van het Ministerie van Veiligheid en Justitie.   
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ a. de personeelsdossiers, genoemd in de selectielijst en waarvan het beheer bij 
 b. de personeelsdossiers, genoemd in de selectielijst en waarvan het beheer aan P-Direkt zal worden overgedragen, en  
 
 c. de personeelsdossiers die bij P-Direkt zijn beheerd.     
-3.  De geldingsduur van een vervangingsbesluit overschrijdt niet de geldingsduur van de selectielijst, vastgesteld krachtens [artikel 2, tweede lid, van het Archiefbesluit 1995](../../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md).   
+3.  De geldingsduur van een vervangingsbesluit overschrijdt niet de geldingsduur van de selectielijst, vastgesteld krachtens [artikel 2, tweede lid, van het Archiefbesluit 1995](../../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md).  
 
 ### Artikel  3  
 
@@ -54,8 +54,8 @@ f. de hoofden van rechtspersonen met een wettelijke taak;
 
 g. de directeur bedrijfsvoering van de Hoge Raad;  
 
-h. het door het College van procureurs-generaal aan te wijzen lid van dat college;   voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij krachtens de [Organisatieregeling Ministerie van Justitie 2007](../../../../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/justitie/2007/BWBR0022607/README.md) zijn belast met bedrijfsvoeringstaken.   
-2.  De [Mandaatregeling Ministerie van Justitie 2005](../../../../../../../../../../ministeriele-regeling/mandaatregeling/ministerie/van/justitie/2005/BWBR0018330/README.md) en de daarop gebaseerde mandaatregelingen zijn van overeenkomstige toepassing op het nemen van een vervangingsbesluit.   
+h. het door het College van procureurs-generaal aan te wijzen lid van dat college;   voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij krachtens de [Organisatieregeling Ministerie van Veiligheid en Justitie 2011](../../../../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030837/README.md) zijn belast met bedrijfsvoeringstaken.   
+2.  De [Mandaatregeling Ministerie van Veiligheid en Justitie](../../../../../../../../../../ministeriele-regeling/mandaatregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030842/README.md) en de daarop gebaseerde mandaatregelingen zijn van overeenkomstige toepassing op het nemen van een vervangingsbesluit.  
 
 ### Artikel  4  
 
@@ -91,7 +91,7 @@ a. dat de beheerorganisatie beschikt over een technische infrastructuur die vold
 
 b. dat de beheerorganisatie beschikt over een adequate technologie afgestemd op de eisen van de gebruikersgroep en die voldoet aan eisen voor lange termijn beheer;  
 
-c. dat de beheerorganisatie beschikt over een informatiebeveiligingsplan dat voldoet aan eisen voor lange termijn beheer.     
+c. dat de beheerorganisatie beschikt over een informatiebeveiligingsplan dat voldoet aan eisen voor lange termijn beheer.    
 
 ### Artikel  5  
 
@@ -123,7 +123,7 @@ a. verzoeken van betrokkenen om inzage op grond van [artikel 35 van de Wet besch
 
 b. verzoeken van betrokkenen om verbetering, aanvulling, verwijdering of afscherming op grond van [artikel 36 van de Wet bescherming persoonsgegevens](../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. de behandeling van bezwaarschriften, beroepschriften en verzoekschriften als bedoeld in de [artikelen 45 tot en met 50 van de Wet bescherming persoonsgegevens](../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+c. de behandeling van bezwaarschriften, beroepschriften en verzoekschriften als bedoeld in de [artikelen 45 tot en met 50 van de Wet bescherming persoonsgegevens](../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).    
 
 ### Artikel  6  
 
@@ -133,7 +133,7 @@ Alvorens een vervangingsbesluit te nemen, wordt door de in artikel 3, eerste lid
 
 a. dat de ontvangst van declaratiebescheiden door P-Direkt tot en met de digitalisering en opslag daarvan plaatsvindt overeenkomstig [artikel 52, vijfde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
 
-b. dat de kwaliteit van de gedigitaliseerde bijgevoegde originele bewijsstukken die verband houden met de vrije vergoedingen en verstrekkingen voldoet aan de algemene eisen die gelden voor kleurrelevante scans als opgenomen in de [Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md).    
+b. dat de kwaliteit van de gedigitaliseerde bijgevoegde originele bewijsstukken die verband houden met de vrije vergoedingen en verstrekkingen voldoet aan de algemene eisen die gelden voor kleurrelevante scans als opgenomen in de [Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md).   
 
 ### Artikel  7  
 
@@ -142,7 +142,7 @@ b. dat de kwaliteit van de gedigitaliseerde bijgevoegde originele bewijsstukken 
 1.  Als bijlage bij een vervangingsbesluit wordt een Handboek Substitutie vastgesteld.   
 2.  Het Handboek Substitutie bevat de nadere voorschriften met betrekking tot de uitvoering van de artikelen 4, 5 en 6 van deze regeling.   
 3.  In het Handboek Substitutie is de vastlegging ingericht op een wijze dat deze tevens kan dienen ter instructie voor de personen die binnen de betreffende organisatie zijn belast met de taken in het vervangingsproces.   
-4.  De in artikel 3, eerste lid, genoemde ambtenaar wijst voor het onder hem ressorterende organisatieonderdeel een ambtenaar aan, belast met interne controlewerkzaamheden, die zorgdraagt voor de naleving van de regeling.   
+4.  De in artikel 3, eerste lid, genoemde ambtenaar wijst voor het onder hem ressorterende organisatieonderdeel een ambtenaar aan, belast met interne controlewerkzaamheden, die zorgdraagt voor de naleving van de regeling.  
 
 ### Artikel  8  
 
@@ -157,21 +157,21 @@ b. voor zover naar [artikel 2, eerste lid, onder c van het Archiefbesluit 1995](
 c. voor zover naar [artikel 2, eerste lid, onder d van het Archiefbesluit 1995](../../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), krachtens verdragen, of op grond van wettelijke bepalingen, de archiefstukken in hun oorspronkelijke vorm moeten worden bewaard.     
 2.  Van de bevoegdheid de vervangen bescheiden te vernietigen wordt gedurende en tot twee jaar na afloop van procedures geen gebruik gemaakt waar het archiefstukken betreft als bedoeld in [artikel 2, eerste lid, onder d, van het Archiefbesluit 1995](../../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) en waar recht- en bewijszoekenden gebruik van kunnen of moeten maken.   
 3.  Van de bevoegdheid de vervangen bescheiden te vernietigen wordt gedurende maximaal twee jaar geen gebruik gemaakt, waar het archiefstukken betreft waarvan de authenticiteit of integriteit na digitale vervanging niet meer is vast te stellen.   
-4.  De vernietiging van de overige archiefbescheiden en de archiefbescheiden als bedoeld in het 3 <sup>e</sup> lid van dit artikel vindt telkens plaats nadat de interne controle van de betreffende organisatie zich heeft uitgesproken dat de tot op dat moment vervangen archiefbescheiden door steekproeven zijn gecontroleerd en dat de vervanging conform deze regeling heeft plaatsgevonden.   
+4.  De vernietiging van de overige archiefbescheiden en de archiefbescheiden als bedoeld in het 3<sup>e</sup> lid van dit artikel vindt telkens plaats nadat de interne controle van de betreffende organisatie zich heeft uitgesproken dat de tot op dat moment vervangen archiefbescheiden door steekproeven zijn gecontroleerd en dat de vervanging conform deze regeling heeft plaatsgevonden.  
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010.  
+Deze regeling wordt aangehaald als: Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Justitie,
-E.M.H.Hirsch Ballin   
+Minister van Justitie, 
+E.M.H. Hirsch Ballin     

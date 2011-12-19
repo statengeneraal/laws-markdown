@@ -8,7 +8,7 @@ Handelende in overeenstemming met de Minister van Landbouw, Natuurbeheer en Viss
 Gelet op [artikel 64 van de Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);
 
 Gezien het advies van de Technische commissie bodembescherming;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -27,31 +27,31 @@ Van het verbod, gesteld in artikel 5, eerste lid, van het Besluit gebruik dierli
 
 Aan de in artikel 2 bedoelde vrijstelling zijn de volgende voorschriften verbonden: 
 
-a. Door de producent van de waterige fracties is aan het Bureau Heffingen te Assen een schriftelijke verklaring overgelegd dat door hem waterige fracties worden geproduceerd waarvan het stikstofgehalte niet groter is dan 200 milligram N-kjeldal per liter. Deze verklaring wordt overgelegd voorafgaand aan de eerste keer dat na het tijdstip van inwerkingtreding van deze regeling deze fracties niet emissie-arm worden aangewend.  
+a.  Door de producent van de waterige fracties is aan het Bureau Heffingen te Assen een schriftelijke verklaring overgelegd dat door hem waterige fracties worden geproduceerd waarvan het stikstofgehalte niet groter is dan 200 milligram N-kjeldal per liter. Deze verklaring wordt overgelegd voorafgaand aan de eerste keer dat na het tijdstip van inwerkingtreding van deze regeling deze fracties niet emissie-arm worden aangewend. 
 
-b. De verklaring, bedoeld in onderdeel a, bevat in ieder geval de volgende gegevens: 
+b.  De verklaring, bedoeld in onderdeel a, bevat in ieder geval de volgende gegevens: 
 
 naam en adres van de producent, en  
 
-de resultaten van een bemonstering van de door deze producent geproduceerde waterige fracties, neergelegd in een analyserapport als bedoeld in artikel 9.    
+de resultaten van een bemonstering van de door deze producent geproduceerde waterige fracties, neergelegd in een analyserapport als bedoeld in artikel 9.   
 
-c. De gebruiker van de waterige fracties toont op het eerste verzoek van de opsporingsambtenaar een kopie van de in onderdeel a bedoelde verklaring.  
+c.  De gebruiker van de waterige fracties toont op het eerste verzoek van de opsporingsambtenaar een kopie van de in onderdeel a bedoelde verklaring. 
 
-d. De waterige fracties zijn door de producent of namens deze door tussenkomst van ten hoogste één vervoerder rechtstreeks aan de gebruiker afgeleverd.    
+d.  De waterige fracties zijn door de producent of namens deze door tussenkomst van ten hoogste één vervoerder rechtstreeks aan de gebruiker afgeleverd.   
 
 ### Artikel  5  
 
 Aan de in artikel 3 bedoelde vrijstelling zijn de volgende voorschriften verbonden: 
 
-a. Door de producent van het reinigingswater wordt aan het Bureau Heffingen te Assen een schriftelijke verklaring overgelegd dat door hem reinigingswater wordt geproduceerd. De verklaring wordt overgelegd voorafgaand aan de eerste keer dat na het tijdstip van inwerkingtreding van deze regeling reinigingswater niet emissie-arm wordt aangewend.  
+a.  Door de producent van het reinigingswater wordt aan het Bureau Heffingen te Assen een schriftelijke verklaring overgelegd dat door hem reinigingswater wordt geproduceerd. De verklaring wordt overgelegd voorafgaand aan de eerste keer dat na het tijdstip van inwerkingtreding van deze regeling reinigingswater niet emissie-arm wordt aangewend. 
 
-b. De verklaring, bedoeld in onderdeel a, bevat in ieder geval de volgende gegevens: 
+b.  De verklaring, bedoeld in onderdeel a, bevat in ieder geval de volgende gegevens: 
 
 naam en adres van de producent, en  
 
-de resultaten van een bemonstering van het door deze producent geproduceerde reinigingswater, neergelegd in een analyserapport als bedoeld in artikel 9.    
+de resultaten van een bemonstering van het door deze producent geproduceerde reinigingswater, neergelegd in een analyserapport als bedoeld in artikel 9.   
 
-c. De gebruiker van het reinigingswater toont op het eerste verzoek van de opsporingsambtenaar een kopie van de in onderdeel a bedoelde verklaring.    
+c.  De gebruiker van het reinigingswater toont op het eerste verzoek van de opsporingsambtenaar een kopie van de in onderdeel a bedoelde verklaring.   
 
 ### Artikel  6  
 
@@ -61,13 +61,14 @@ Aan de in de artikelen 2 en 3 bedoelde vrijstellingen zijn voorts, voor zover va
 
 1.  Waterige fracties worden op het bedrijf waarop zij zijn geproduceerd vanuit het mestscheidingssysteem apart opgevangen.   
 2.  Waterige fracties worden op het in het eerste lid bedoelde bedrijf opgeslagen, zonder toevoeging van andere stoffen, in een opslag die uitsluitend voor waterige fracties wordt gebruikt.   
-3.  Het tweede lid is van overeenkomstige toepassing op reinigingswater.   
+3.  Het tweede lid is van overeenkomstige toepassing op reinigingswater.  
 
 ### Artikel  8  
 
 1.  De producent van waterigefracties laat uiterlijk zes maanden voorafgaand aan het gebruik van de waterigefracties uit de in artikel 7, tweede lid, bedoelde opslag een representatief monster nemen en analyseren door een onderzoekslaboratorium dat blijkens accreditatie aantoonbaar voldoet aan NEN-EN-ISO/IEC 17025.   
 2.  De producent van reinigingswater laat uiterlijk zes maanden voorafgaand aan het gebruik van het reinigingswater uit de opslag van het reinigingswater een monster nemen door een onderzoekslaboratorium, als bedoeld in het eerste lid, en laat dit monster analyseren door dit onderzoekslaboratorium.   
-3.  De in het eerste en tweede lid bedoelde bemonstering en de analyse van de monsters vindt plaats volgens de voorschriften en methoden opgenomen in de bij deze regeling behorende bijlage.   
+3.  De in het eerste en tweede lid bedoelde bemonstering en de analyse van de monsters vindt plaats volgens de voorschriften en methoden opgenomen in de bij deze regeling behorende bijlage.    
+4.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in het eerste lid. 
 
 ### Artikel  9  
 
@@ -101,7 +102,7 @@ Reinigingswater wordt uitsluitend gebruikt op de tot het bedrijf van de producen
 
 ### Artikel  12  
 
-Waterige fracties en reinigingswater worden gebruikt zonder toegevoegde andere stoffen en uitsluitend tussen één uur na zonsopgang en één uur voor zonsondergang.  
+Waterige fracties en reinigingswater worden gebruikt zonder toegevoegde andere stoffen en uitsluitend tussen één uur na zonsopgang en één uur voor zonsondergang. 
 
 ### Artikel  13  
 
@@ -109,7 +110,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  14  
 
-Deze regeling wordt aangehaald als: Vrijstellingsregeling waterige fracties en reinigingswater 1998.  
+Deze regeling wordt aangehaald als: Vrijstellingsregeling waterige fracties en reinigingswater 1998. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -117,11 +118,11 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-Margaretha deBoer   
+Margaretha de Boer    
 
-### Bijlage  
+### Bijlage 
 
-####bij Vrijstellingsregeling waterige fracties en reinigingswater 1998
+#### bij Vrijstellingsregeling waterige fracties en reinigingswater 1998
 
 ####1. Bemonstering
 
@@ -141,17 +142,17 @@ Het monster wordt genomen met behulp van een steekbuis. De steekbuis bestaat uit
 
 ####Flesmethode
 
-Het monster wordt genomen met behulp van een houder waarin een fles wordt geklemd. De houder is verzwaard en kan met behulp van een ketting die aan de houder is bevestigd, op de gewenste diepte worden gebracht. Aan de houder is tevens een stop bevestigd die een stukje in de fles kan worden gedrukt, waardoor de fles wordt afgesloten. Door een ruk aan de ketting kan de stop uit de fles worden getrokken, waardoor de fles met mest wordt gevuld. De bemonstering vindt plaats door het nemen van deelmonsters. De deelmonsters worden genomen verdeeld over de gehele diepte van de waterige fractie of het reinigingswater, en wel zodanig dat het diepteverschil telkens 75 centimeter bedraagt. Indien mogelijk, worden de deelmonsters tevens genomen op tegenoverliggende plaatsen in de opslag. De verschillende deelmonsters zijn even groot in omvang. De deelmonsters worden verzameld in een schone emmer, waarna onder voortdurend roeren een inzendmonster wordt samengesteld. De minimale omvang van een inzendmonster bedraagt 0,75 liter.  
+Het monster wordt genomen met behulp van een houder waarin een fles wordt geklemd. De houder is verzwaard en kan met behulp van een ketting die aan de houder is bevestigd, op de gewenste diepte worden gebracht. Aan de houder is tevens een stop bevestigd die een stukje in de fles kan worden gedrukt, waardoor de fles wordt afgesloten. Door een ruk aan de ketting kan de stop uit de fles worden getrokken, waardoor de fles met mest wordt gevuld. De bemonstering vindt plaats door het nemen van deelmonsters. De deelmonsters worden genomen verdeeld over de gehele diepte van de waterige fractie of het reinigingswater, en wel zodanig dat het diepteverschil telkens 75 centimeter bedraagt. Indien mogelijk, worden de deelmonsters tevens genomen op tegenoverliggende plaatsen in de opslag. De verschillende deelmonsters zijn even groot in omvang. De deelmonsters worden verzameld in een schone emmer, waarna onder voortdurend roeren een inzendmonster wordt samengesteld. De minimale omvang van een inzendmonster bedraagt 0,75 liter. 
 
 ### 1.4  
 
 ####Overige voorschriften bemonstering
 
-De bemonstering geschiedt met behulp van monstername-apparatuur die grondig met water is gereinigd en vervolgens is gedesinfecteerd.  
+De bemonstering geschiedt met behulp van monstername-apparatuur die grondig met water is gereinigd en vervolgens is gedesinfecteerd. 
 
 ### 2  
 
 ####Analyse van de monsters
 
-De bepaling van het N-kjeldal-gehalte wordt uitgevoerd volgens de methode NEN-ISO 5663 (1993). Op het onderzoekslaboratorium dient het monster vóór de analyse 5 keer te worden verdund. De bepaling van het NH3-gehalte wordt uitgevoerd volgens de methode NEN 6472 (1983). De bepaling van het droge stofpercentage wordt uitgevoerd volgens de methode NEN 6620. Met een in deze bijlage genoemde NEN worden gelijkgesteld normen die zijn vastgesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de betrokken NEN wordt nagestreefd.  
+De bepaling van het N-kjeldal-gehalte wordt uitgevoerd volgens de methode NEN-ISO 5663 (1993). Op het onderzoekslaboratorium dient het monster vóór de analyse 5 keer te worden verdund. De bepaling van het NH3-gehalte wordt uitgevoerd volgens de methode NEN 6472 (1983). De bepaling van het droge stofpercentage wordt uitgevoerd volgens de methode NEN 6620. Met een in deze bijlage genoemde NEN worden gelijkgesteld normen die zijn vastgesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de betrokken NEN wordt nagestreefd.
 
