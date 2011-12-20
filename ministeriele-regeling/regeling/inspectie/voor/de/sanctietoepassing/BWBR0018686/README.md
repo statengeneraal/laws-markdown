@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Justitie van 22 augustus 2005, houdende regeling van de werkzaamheden van de Inspectie voor de Sanctietoepassing (Regeling Inspectie voor de Sanctietoepassing)
 
 De Minister van Justitie,  
-Gelet op [artikel 28 van de Organisatieregeling Ministerie van Justitie 2005](../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/justitie/2005/BWBR0018331/README.md);
+Gelet op artikel 28 van de Organisatieregeling Ministerie van Justitie 2005;
 Besluit:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ a. ISt: de Inspectie voor de Sanctietoepassing;
 
 b. hoofdinspecteur: het hoofd van de ISt;  
 
-c. DJI: de Dienst Justitiële Inrichtingen, bedoeld in [artikel 30 van de Organisatieregeling Ministerie van Justitie 2005](../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/justitie/2005/BWBR0018331/README.md).    
+c. DJI: de Dienst Justitiële Inrichtingen, bedoeld in artikel 29 van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011.    
 
 ### Artikel  2  
 
@@ -65,7 +65,7 @@ De ISt legt de hoofdlijnen van haar werkzaamheden vast in een protocol voor de w
 1.  Bij de uitvoering van een onderzoek ontvangt de ISt geen aanwijzingen over de te hanteren methodiek, haar oordeelsvorming en de rapportage daarover.   
 2.  De rapporten van de ISt worden vastgesteld door de hoofdinspecteur. Deze zendt een exemplaar van elk rapport direct na vaststelling naar de minister.   
 3.  De rapporten van de ISt worden behoudens het bepaalde in het vierde lid binnen zes weken na vaststelling openbaar door plaatsing op de website van de ISt en aankondiging daarvan in de Staatscourant.   
-4.  Rapporten of gedeelten daarvan worden niet openbaar indien een van de gronden genoemd in de [artikelen 10](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en [11 van de Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) zich daartegen verzet.   
+4.  Rapporten of gedeelten daarvan worden niet openbaar indien een van de gronden genoemd in de artikelen 10 en 11 van de Wet openbaarheid van bestuur zich daartegen verzet.   
 
 ### Artikel  8  
 
