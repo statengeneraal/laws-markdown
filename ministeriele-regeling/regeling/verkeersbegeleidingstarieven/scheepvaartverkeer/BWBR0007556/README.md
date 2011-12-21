@@ -3,7 +3,7 @@
 ##Regeling verkeersbegeleidingstarieven scheepvaartverkeer
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 15c, eer ste lid](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), en [15d, derde lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);
+Gelet op de artikelen 15c, eer ste lid, en 15d, derde lid, van de Scheepvaartverkeerswet;
 Besluit:    
 
 ### Artikel  1  
@@ -16,11 +16,12 @@ De betaling van het verschuldigde tarief geschiedt binnen twee weken na dagteken
 
 ### Artikel  3  
 
-De ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane, zijn belast met de inning van het tarief.  
+1.  De inspecteur, bedoeld in artikel 1:4 van de Algemene douaneregeling, is belast met het uitbrengen van de in artikel 2 bedoelde schriftelijke betalingsverzoeken en het vaststellen van de hoogte van de zekerheid, bedoeld in artikel 8 van het Besluit verkeersbegeleidingstarieven scheepvaartverkeerswet.   
+2.  De ontvanger, bedoeld in artikel 1:4 van de Algemene douaneregeling, is belast met het in ontvangst nemen van de zekerheid, bedoeld in artikel 8 van het Besluit verkeersbegeleidingstarieven scheepvaartverkeerswet alsmede de verdere inning van het tarief.   
 
 ### Artikel  4  
 
-De ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane, zijn bevoegd ten behoeve van de inning van het tarief van de kapitein inzage te verlangen in de meetbrief van het desbetreffende zeeschip.  
+De ontvanger en de inspecteur zijn bevoegd ten behoeve van de inning van het tarief van de kapitein inzage te verlangen in de meetbrief van het desbetreffende zeeschip.  
 
 ### Artikel  5  
 
@@ -28,7 +29,7 @@ Deze regeling treedt in werking met ingang van 1 oktober 1995.
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: [Regeling verkeersbegeleidingstarieven scheepvaartverkeer](../../../../../ministeriele-regeling/regeling/verkeersbegeleidingstarieven/scheepvaartverkeer/BWBR0007556/README.md).  
+Deze regeling wordt aangehaald als: Regeling verkeersbegeleidingstarieven scheepvaartverkeer.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
