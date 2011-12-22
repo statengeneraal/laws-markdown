@@ -874,7 +874,7 @@ a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtin
 b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;  
 
 c. de kostencomponent van de vaste bedragen ter verrekening van de in 2011 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.     
-8.  Het College zorgverzekeringen merkt de honorariumcomponent van niet onderhandelbare of onderhandelbare maar gemaximeerde dbc-tarieven en eventuele overige declaraties van vrijgevestigde specialisten voor 100 procent aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, met uitzondering van de kosten- en honorariumcomponent, bedoeld in het zevende lid, onderdeel a.   
+8.  Het College zorgverzekeringen merkt de eventuele overige declaraties van vrijgevestigde specialisten en de kosten voor de Stichting Kwaliteitsgelden Medisch Specialisten en de honorariumcomponent van niet onderhandelbare of onderhandelbare maar gemaximeerde dbc-tarieven voor 100 procent aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, met uitzondering van de kosten- en honorariumcomponent, bedoeld in het zevende lid, onderdeel a.   
 9.  Het College zorgverzekeringen betrekt de renteheffingstarieven niet bij de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.   
 10.  Het College zorgverzekeringen past overeenkomstig artikel 3.13 hogekostencompensatie toe op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.   
 11.  Het College zorgverzekeringen calculeert 30 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, vastgesteld ingevolge het eerste tot en met negende lid enerzijds, en het herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp na toepassing van het tiende lid anderzijds.   
@@ -902,11 +902,13 @@ c. de kostencomponent van de vaste bedragen ter verrekening van de in 2011 gerea
 
 ### Artikel  3.17  
 
-Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar en het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar.  
+1.  Het College zorgverzekeringen merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2011 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar.   
+2.  Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar en het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg van verzekerden jonger dan achttien jaar.   
 
 ### Artikel  3.18  
 
-Het College zorgverzekeringen past overeenkomstig artikel 3.13 hoge-kostencompensatie toe op het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.  
+1.  Het College zorgverzekeringen merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2011 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten die behoren tot het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.   
+2.  Het College zorgverzekeringen past overeenkomstig artikel 3.13 hogekostencompensatie toe op het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.   
 
 ### Artikel  3.19  
 

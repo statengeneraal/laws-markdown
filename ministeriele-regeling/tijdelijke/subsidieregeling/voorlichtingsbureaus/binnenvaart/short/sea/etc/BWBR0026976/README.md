@@ -34,7 +34,7 @@ De in artikel 2 bedoelde subsidie bedraagt ten hoogste:
 
 a. voor de Stichting Bureau Voorlichting Binnenvaart te Rotterdam € 219.000 in 2010, € 219.000 in 2011 en € 94.000 in 2012.  
 
-b. voor de Stichting Railcargo Information Centre Netherlands te Rotterdam gedurende 2010 tot en met 2012 € 185.000 jaarlijks;  
+b. voor de Stichting Railcargo Information Netherlands te Rotterdam voor de jaren 2010 en 2011 € 185.000 en voor het jaar 2012 € 211.000.  
 
 c. voor de Stichting Voorlichtingsbureau Short Sea Shipping te Rotterdam gedurende 2010 tot en met 2012 € 159.000 jaarlijks.    
 
