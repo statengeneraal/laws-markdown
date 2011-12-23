@@ -4,7 +4,7 @@
 
 De Nederlandse Zorgautoriteit heeft krachtens de [paragrafen 2](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg), gelet op [artikel 35](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [artikel 50 lid 2 onder c](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [artikel 52 aanhef en onder e van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en met inachtneming van het bepaalde in de beleidsregel en de regeling ‘Macrobeheersmodel’ en van de onderstaande definities voor de gezamenlijke 
 
-− instellingen voor medisch specialistische zorg ; <sup> 1  Ook bekend als: (algemene en categorale) ziekenhuizen, universitaire medische centra, zelfstandige behandelcentra, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra, dialysecentra.  </sup>  
+− instellingen voor medisch specialistische zorg<sup> 1 Ook bekend als: (algemene en categorale) ziekenhuizen, universitaire medische centra, zelfstandige behandelcentra, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra, dialysecentra. </sup>;  
 
 − audiologische centra;  
 

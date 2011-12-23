@@ -40,15 +40,19 @@ Commuun en verkeer
 
 49 punten    
 
+####Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket    
+
 ####Basisfactoren
 
-Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden: : 
+Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden 
 
-– Schijf 1: f 0 t/m f 2600: bedrag gedeeld door 100 pt  
-
-– Schijf 2: het gedeelte tussen f 2600 en f 10000: bedrag gedeeld door 500 pt  
-
-– Schijf 3: het gedeelte boven f 10000: bedrag gedeeld door 1000 pt      
+| --- | --- |
+|:---|:---|
+| – Schijf 1: € 0 t/m € 1200  | bedrag gedeeld door 50 pt  |
+| – Schijf 2: het gedeelte tussen € 1200 en € 5000  | bedrag gedeeld door 250 pt  |
+| – Schijf 3: het gedeelte boven € 5000  | bedrag gedeeld door 500 pt  |
 
 ####Delictspecifieke factoren
 
@@ -72,14 +76,16 @@ Medeplichtigheid
 
 ####Recidiveregeling
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| • Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  |  *(DV, NH)*   |
+
+*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*     
 
 ####Draagkracht
 
@@ -87,7 +93,7 @@ Geen
 
 ####Speciale regelingen
 
-– Schaderegeling    
+Geen    
 
 ####Bijzonderheden
 

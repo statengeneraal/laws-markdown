@@ -15,8 +15,6 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*aangewezen instelling:* instelling die door de minister is aangewezen als een instelling als bedoeld in [artikel 4b van de wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);  
-
 *instelling:* privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid dan wel krachtens publiekrecht ingestelde rechtspersoon;  
 
 *jaarlijkse instellingssubsidie:* subsidie als bedoeld in [artikel 1, tweede lid, van het Besluit op het specifiek cultuurbeleid](../../../../../../../AMvB/besluit/op/het/specifiek/cultuurbeleid/BWBR0027600/README.md);  
@@ -25,7 +23,7 @@ In deze regeling wordt verstaan onder:
 
 *projectsubsidie:* subsidie als bedoeld in [artikel 1, derde lid, van het Besluit op het specifiek cultuurbeleid](../../../../../../../AMvB/besluit/op/het/specifiek/cultuurbeleid/BWBR0027600/README.md);  
 
-*vierjaarlijkse instellingssubsidie:* subsidie aan een instelling op grond van [artikel 4a](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), [4b](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) of [4c van de wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);  
+*vierjaarlijkse instellingssubsidie:* subsidie aan een instelling op grond van [artikel 4a](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) of [4c van de wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);  
 
 *wet:*[Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).    
 
@@ -280,6 +278,7 @@ Het activiteitenverslag beschrijft de aard, duur en omvang van de activiteiten w
 2.  De jaarrekening van een ontvanger van vierjaarlijkse instellingssubsidie is tevens voorzien van een rapport van feitelijke bevindingen over de prestatieverantwoording.   
 3.  In de verklaring, bedoeld in het eerste lid, doet de accountant een uitspraak over de naleving van de subsidiebepalingen door de subsidieontvanger overeenkomstig de controleprotocollen opgenomen in de bij deze regeling gevoegde bijlagen IIA onderscheidenlijk IIB met gebruikmaking van de bij die bijlagen opgenomen modellen voor accountantsverklaringen.   
 4.  De verklaring, bedoeld in het eerste lid, heeft geen betrekking op een in de jaarrekening opgenomen prestatieverantwoording.   
+5.  Dit artikel is niet van toepassing op vierjaarlijkse instellingssubsidies die zijn verleend voor de jaren 2009 tot en met 2012 en die minder dan € 125.000 per jaar bedragen.   
 
 ### Artikel  2.28  
 
@@ -303,12 +302,686 @@ Het bestuursverslag, het activiteitenverslag en de jaarrekening, waaronder de pr
 
 ### Hoofdstuk  3  
 
-####Specifieke bepalingen voor verstrekking van vierjaarlijkse instellingssubsidies op grond van [artikel 4a van de wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md)
+####Specifieke bepalingen voor verstrekking van vierjaarlijkse instellingssubsidies op grond van [artikel 4a van de wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) voor de periode 2013–2016
 
-[Gereserveerd]    
+### Afdeling  3.1  
+
+####Algemene bepalingen
+
+### Artikel  3.1  
+
+####Definities
+
+1.  In dit hoofdstuk wordt verstaan onder: 
+
+*Brabantstad:* gemeente Den Bosch, gemeente Eindhoven of gemeente Tilburg;  
+
+*grote gemeente:* gemeente Amsterdam, gemeente Rotterdam of gemeente Den Haag;  
+
+*kernpunt:* gemeente Groningen, gemeente Arnhem, gemeente Utrecht, gemeente Maastricht, gemeente Den Haag, gemeente Rotterdam, gemeente Amsterdam of Brabantstad;  
+
+*podium:* voorziening in een gebouw die bestemd of geschikt is voor de presentatie van podiumkunsten;  
+
+1°. Noord: provincies Groningen, Friesland en Drenthe;  
+
+2°. Oost: provincies Overijssel en Gelderland;  
+
+3°. Midden: provincies Flevoland en Utrecht; of  
+
+4°. Zuid: provincies Zeeland, Noord-Brabant en Limburg;    
+
+*standplaats:* gemeente waar de instelling haar huisvesting heeft en in de lokale culturele infrastructuur is ingebed.     
+2.  Onder eigen inkomsten worden in dit hoofdstuk de volgende baten, welke terug te vinden zijn in de jaarrekening aan de batenkant van de exploitatierekening, verstaan: 
+
+a. publieksinkomsten; en  
+
+b. overige inkomsten zijnde: 
+
+1° directe opbrengsten: sponsorinkomsten en overige inkomsten;  
+
+2° indirecte opbrengsten; en  
+
+3° overige bijdragen.       
+3.  Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten: 
+
+a. subsidies die zijn verstrekt door een bestuursorgaan;  
+
+b. overige bijdragen uit publieke middelen;  
+
+c. rentebaten;  
+
+d. bijdragen in natura; en  
+
+e. overige baten die geen relatie hebben met cultureel ondernemerschap.     
+
+### Artikel  3.2  
+
+####Indieningstermijn aanvraag en in te dienen bescheiden
+
+1.  Een aanvraag voor vierjaarlijkse instellingssubsidie voor de jaren 2013 tot en met 2016 op grond van dit hoofdstuk wordt ontvangen na 30 november 2011 en uiterlijk ontvangen op 1 februari 2012 om 17:00 uur.   
+2.  Onverminderd de artikelen 2.3 en 2.6 dienen instellingen, bedoeld in artikel 3.5, eerste lid, tevens de jaarrekeningen van de instelling over de jaren 2010 en 2011 in. Deze zijn voorzien van een accountantsverklaring als bedoeld in artikel 2.27.   
+3.  In afwijking van het eerste lid wordt de jaarrekening over het jaar 2011 voor 1 april 2012 door de minister ontvangen.   
+4.  De jaarrekening over het jaar 2010 gaat niet bij de aanvraag voor zover de instelling er redelijkerwijs van uit kan gaan dat deze al in het bezit van de minister is.   
+
+### Artikel  3.3  
+
+####Wijze van indiening
+
+1.  Voor de indiening van een aanvraag voor vierjaarlijkse instellingssubsidie wordt gebruik gemaakt van het hiervoor bestemde aanvraagformulier dat wordt bekend gemaakt op de website www.cultuursubsidie.nl.   
+2.  Een subsidieaanvraag voor een vierjaarlijkse instellingssubsidie wordt bij voorkeur elektronisch ingediend. De elektronische indiening geschiedt via de website www.cultuursubsidie.nl. Bij verzending van de aanvraag per post wordt de aanvraag gestuurd naar postbus 16375, 2500 BJ Den Haag.   
+3.  Bij elektronische indiening van de aanvraag wordt een ondertekende afdruk van de laatste pagina van het formulier per post gezonden naar het adres, bedoeld in het tweede lid. Als tijdstip van indiening van de aanvraag geldt de datum waarop de ondertekende pagina is ontvangen.   
+4.  Een aanvraag om subsidie als bedoeld in artikel 3.9, tweede lid, of artikel 3.29, derde lid, kan tevens worden aangemerkt als een aanvraag op grond van artikel 3.9, derde lid, onderscheidenlijk artikel 3.29, tweede lid.   
+
+### Artikel  3.4  
+
+####Wijze verdeling beschikbare middelen
+
+1.  De minister beslist gelijktijdig op alle aanvragen op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de bij of krachtens de wet gestelde regels.   
+2.  Indien na beoordeling van alle aanvragen een bepaald beschikbaar bedrag niet geheel wordt verleend, kan de minister het resterende bedrag toevoegen aan een ander subsidieplafond binnen die paragraaf onderscheidenlijk afdeling.   
+3.  Het tweede lid is niet van toepassing op paragraaf 3.2.3.   
+
+### Artikel  3.5  
+
+####Weigeringsgronden
+
+1.  Aan een instelling als bedoeld in afdeling 3.2, met uitzondering van artikel 3.16, en de artikelen 3.23, 3.29 en 3.32 wordt geen subsidie op grond van dit hoofdstuk verleend indien de eigen inkomsten van de instelling gemiddeld over de jaren 2010 en 2011 minder dan 17,5 procent bedragen van het totaal aan subsidies van bestuursorganen ten behoeve van de exploitatie van die instelling, met uitzondering van 
+
+a. subsidies verstrekt op grond van de [Kaderregeling exploitatiesubsidies onderzoek en wetenschap](../../../../../../../ministeriele-regeling/kaderregeling/exploitatiesubsidies/onderzoek/en/wetenschap/BWBR0013566/README.md); en  
+
+b. het deel van de subsidie van een orkest dat verhoudingsgewijs bestemd is voor begeleidende activiteiten om niet.     
+2.  Indien een instelling die subsidie aanvraagt de rechtsopvolger of feitelijke opvolger is van een instelling die in de jaren 2010 en 2011 subsidie van bestuursorganen ontving ten behoeve van de exploitatie van die instelling, wordt het percentage eigen inkomsten van de aanvrager vastgesteld aan de hand van de gegevens van die verdwenen onderscheidenlijk aanvankelijk gesubsidieerde instelling.   
+3.  Indien bij een instelling die subsidie aanvraagt sprake is van fusie van twee of meer instellingen die in de jaren 2010 en 2011 subsidie voor de exploitatie van bestuursorganen ontvingen, wordt het percentage eigen inkomsten van de aanvrager vastgesteld aan de hand van het totaal van eigen inkomsten in verhouding tot het totaal van ontvangen subsidies van bestuursorganen ten behoeve van de exploitatie van die gefuseerde instellingen in 2010 en 2011.   
+4.  Van fusie als bedoeld in het derde lid is sprake indien de te fuseren instellingen bij de aanvraag om subsidie een voorstel tot fusie als bedoeld in [artikel 312 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) overleggen en de fusie voor 1 september 2012 tot stand is gekomen en uiterlijk van kracht wordt met ingang van 1 januari 2013.   
+5.  De minister kan bij het vaststellen van het percentage eigen inkomsten: 
+
+a. bepaalde eigen inkomsten buiten beschouwing laten, indien deze door de instelling in de jaarrekening zijn verantwoord op een wijze die het karakter vertoont van oneigenlijk gebruik van deze regeling; of  
+
+b. bepaalde bedragen beschouwen als onderdeel van de subsidies ten behoeve van de exploitatie van die instelling, indien die bedragen onderdeel uitmaakten van een beschikking tot subsidieverlening ten behoeve van die exploitatie en deze beschikking later is ingetrokken of ten nadele van de subsidieontvanger is gewijzigd op grond van [artikel 4:48](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [artikel 4:50 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+6.  Indien een instelling in het jaar 2010 of 2011 naar maatstaven van redelijkheid en billijkheid grotendeels niet in staat is geweest publieksactiviteiten te ontplooien, kan de minister in ieder geval het eerste lid buiten toepassing laten als bedoeld in artikel 6.1.   
+7.  Aan een instelling wordt tevens geen subsidie verleend op grond van dit hoofdstuk, indien aan de instelling voor het jaar 2011 subsidie is verstrekt voor de exploitatie van die instelling en subsidie uitsluitend is verstrekt afkomstig uit middelen van de begrotingsstaat, met uitzondering van artikel 14, behorende bij de Wet van 3 februari 2011, houdende vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2011 (Stb. 78).   
+
+### Artikel  3.6  
+
+####Algemene beoordelingscriteria
+
+Bij de beoordeling van aanvragen voor subsidie houdt de minister onder meer rekening met: 
+
+a. artistieke kwaliteit;  
+
+b. ondernemerschap;  
+
+c. publieksbereik van de instelling;  
+
+d. het voeren van een beleid dat educatie en participatie van de jeugd bevordert;  
+
+e. aanbod of collectie van nationaal of internationaal belang;  
+
+f. geografische spreiding.    
+
+### Artikel  3.7  
+
+####Afwijking in verband met geografische spreiding
+
+1.  Indien in de navolgende afdelingen een maximum is gesteld aan het aantal instellingen waaraan per regio of kernpunt subsidie kan worden verstrekt, en geen van de subsidieaanvragen ingediend voor die regio of dat kernpunt voldoet aan alle daarvoor in deze regeling gestelde vereisten, kan de minister niettemin aan ten hoogste het voor de betreffende regio of kernpunt gestelde aantal instellingen subsidie verstrekken, voor zover het met deze regeling te dienen doel van geografische spreiding naar zijn oordeel in onvoldoende mate zou worden bereikt ingeval van het niet verstrekken van subsidie.   
+2.  Het eerste lid vindt in ieder geval geen toepassing, voor zover een aanvraag naar het oordeel van de minister in onvoldoende mate beantwoordt aan het criterium, bedoeld in artikel 3.6, onderdeel a.   
+
+### Artikel  3.8  
+
+####Subsidieverplichting
+
+1.  Een instelling die op grond van afdeling 3.2, met uitzondering van de artikelen 3.10 en 3.16, of artikel 3.32 subsidie ontvangt, behaalt gedurende de subsidieperiode ten minste 21,5 procent eigen inkomsten van het totaal aan subsidies van bestuursorganen ten behoeve van de exploitatie van die instelling, met uitzondering van: 
+
+a. subsidies verstrekt op grond van de [Kaderregeling exploitatiesubsidies onderzoek en wetenschap](../../../../../../../ministeriele-regeling/kaderregeling/exploitatiesubsidies/onderzoek/en/wetenschap/BWBR0013566/README.md); en  
+
+b. het deel van de subsidie van een orkest dat verhoudingsgewijs bestemd is voor begeleidende activiteiten om niet.     
+2.  Een instelling die op grond van artikel 3.10, artikel 3.23 of artikel 3.29 subsidie ontvangt, behaalt gedurende de subsidieperiode ten minste 17,5 procent eigen inkomsten van het totaal aan subsidies van bestuursorganen ten behoeve van de exploitatie van die instelling, met uitzondering van subsidies verstrekt op grond van de [Kaderregeling exploitatiesubsidies onderzoek en wetenschap](../../../../../../../ministeriele-regeling/kaderregeling/exploitatiesubsidies/onderzoek/en/wetenschap/BWBR0013566/README.md).   
+3.  Een instelling maakt bij de aanvraag om subsidie in het activiteitenplan aannemelijk dat zij aan de subsidieverplichting in het eerste onderscheidenlijk tweede lid zal voldoen.   
+4.  Onverminderd artikel 2.15, tweede tot en met vierde lid, maakt een instelling als bedoeld in artikel 3.5, eerste lid, in het bestuursverslag dat wordt ingediend over het eerste, tweede en derde jaar van de vierjaarlijkse periode waarvoor subsidie is verleend, inzichtelijk hoe de instelling gedurende die periode een jaarlijkse groei zal behalen van gemiddeld één procentpunt eigen inkomsten van het totaal aan subsidies van bestuursorganen ten behoeve van de exploitatie van die instelling, met uitzondering van: 
+
+a. subsidies verstrekt op grond van de [Kaderregeling exploitatiesubsidies onderzoek en wetenschap](../../../../../../../ministeriele-regeling/kaderregeling/exploitatiesubsidies/onderzoek/en/wetenschap/BWBR0013566/README.md); en  
+
+b. het deel van de subsidie van een orkest dat verhoudingsgewijs bestemd is voor begeleidende activiteiten om niet.     
+5.  Het vierde lid is niet van toepassing op een instelling, indien die instelling over de jaren van de subsidieperiode waarover de periodieke verslaglegging, bedoeld in artikel 2.15, is afgelegd, gemiddeld ten minste vier procent meer eigen inkomsten behaalt dan op die instelling van toepassing is op grond van het eerste onderscheidenlijk tweede lid.   
+6.  Artikel 3.5, vijfde lid, is van overeenkomstige toepassing.   
+
+### Afdeling  3.2  
+
+####Podiumkunsten
+
+### §  3.2.1  
+
+####Theater
+
+### Artikel  3.9  
+
+####Algemeen theater
+
+1.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan een instelling met als kernactiviteit het verzorgen van theatervoorstellingen, indien de instelling: 
+
+a. de beschikking heeft over een podium of een podium bespeelt, dat minimaal 400 zitplaatsen heeft in haar standplaats;  
+
+b. haar activiteiten verspreid over het jaar realiseert;  
+
+c. voor haar artistieke continuïteit niet afhankelijk is van één maker of een groep van makers van theater; en  
+
+d. een beleid voert dat, bij voorkeur in samenwerking met derden, talentontwikkeling bevordert.     
+2.  De minister kan op grond van het eerste lid aan ten hoogste vier grote instellingen in de kernpunten subsidie verstrekken, waarvan ten hoogste twee instellingen hun standplaats hebben in de grote gemeenten, voor zover de instelling: 
+
+a. per jaar ten minste drie producties bestemd voor een podium met ten minste 400 zitplaatsen uitvoert; en  
+
+b. een beleid voert dat doorstroming van talent naar de grote zaal bevordert.     
+3.  De minister kan op grond van het eerste lid aan ten hoogste vier middelgrote instellingen in de kernpunten subsidie verstrekken, waarvan niet meer dan één instelling haar standplaats heeft in de grote gemeenten, voor zover de instelling ten minste per jaar één productie bestemd voor een podium met ten minste 400 zitplaatsen uitvoert.   
+4.  De minister kan op grond van het eerste lid subsidie verstrekken aan ten hoogste één instelling die haar standplaats heeft in de regio Noord en haar theatervoorstellingen in de Friese taal verzorgt.   
+5.  Per kernpunt verstrekt de minister op grond van dit artikel aan niet meer dan één instelling subsidie.   
+
+### Artikel  3.10  
+
+####Jeugdtheater
+
+1.  De minister kan aan een instelling een vierjaarlijkse instellingssubsidie of een aanvullend bedrag naast subsidie op grond van artikel 3.9 verstrekken voor het verzorgen van repertoire op het terrein van de podiumkunsten voor de jeugd tot 18 jaar, indien de instelling: 
+
+a. een substantieel deel van haar voorstellingen realiseert op een podium; en  
+
+b. haar activiteiten verspreid over het jaar realiseert.     
+2.  Voor subsidie op grond van dit artikel komen ten hoogste acht instellingen in aanmerking, met dien verstande dat per gemeente aan ten hoogste één instelling subsidie wordt verstrekt.   
+3.  Indien een instelling een subsidieaanvraag indient voor zowel subsidie op grond van artikel 3.9 als op grond van dit artikel dan wordt dit duidelijk in de aanvraag vermeld.   
+
+### Artikel  3.11  
+
+####Subsidieplafonds
+
+1.  Voor subsidieverstrekking op grond van de artikelen 3.9 en 3.10 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor een instelling als bedoeld in artikel 3.9, tweede lid: € 2,5 miljoen;  
+
+b. voor een instelling als bedoeld in artikel 3.9, derde en vierde lid: € 1,5 miljoen;  
+
+c. voor een instelling als bedoeld in artikel 3.10: € 500.000.     
+2.  In afwijking van het eerste lid, onderdeel a, is ten hoogste 110 procent van het daar genoemde bedrag beschikbaar voor ten hoogste één instelling die zich internationaal onderscheidt door een excellent uitvoeringsniveau.   
+
+### §  3.2.2  
+
+####Dans
+
+### Artikel  3.12  
+
+####Dans
+
+1.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan een instelling die haar standplaats in een kernpunt heeft en met als kernactiviteit het verzorgen van dansrepertoire, indien de instelling: 
+
+a. de beschikking heeft over een podium of een podium bespeelt, dat minimaal 400 zitplaatsen heeft in de regio of de gemeente waar de instelling haar standplaats heeft;  
+
+b. haar activiteiten verspreid over het jaar realiseert;  
+
+c. voor haar artistieke continuïteit niet afhankelijk is van één maker of een groep van makers van dans; en  
+
+d. een beleid voert dat, bij voorkeur in samenwerking met derden, talentontwikkeling bevordert.     
+2.  Aan ten hoogste vier instellingen wordt subsidie verstrekt, waarvan: 
+
+a. één instelling voorziet in een voor Nederland onderscheidend grootschalig repertoire op het gebied van ballet in een internationale context en zich richt op een groot landelijk publieksbereik;  
+
+b. één instelling voorziet in de verzorging van grootschalig, onderscheidend modern dansaanbod in een internationale context;  
+
+c. één instelling voorziet in de productie en distributie van grootschalig, onderscheidend dansaanbod en in de productie en distributie van jeugddans; en  
+
+d. één instelling die voorziet in de productie en distributie van grootschalig, onderscheidend dansaanbod.     
+3.  Per kernpunt verstrekt de minister op grond van dit artikel aan niet meer dan één instelling subsidie.   
+
+### Artikel  3.13  
+
+####Subsidieplafonds
+
+Voor subsidieverstrekking op grond van artikel 3.12 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor een instelling als bedoeld in artikel 3.12, tweede lid, onder a: € 6,33 miljoen;  
+
+b. voor een instelling als bedoeld in artikel 3.12, tweede lid, onder b: € 5,92 miljoen;  
+
+c. voor een instelling als bedoeld in artikel 3.12, tweede lid, onder c: € 2,5 miljoen;  
+
+d. voor een instelling als bedoeld in artikel 3.12, tweede lid, onder d: € 1,5 miljoen.    
+
+### §  3.2.3  
+
+####Muziek en muziektheater
+
+### Artikel  3.14  
+
+####Symfonieorkesten
+
+1.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan een instelling met als kernactiviteit het verzorgen van symfonisch aanbod, indien de instelling: 
+
+a. een breed repertoire aanbiedt;  
+
+b. haar activiteiten geografisch op een geconcentreerde wijze spreidt in de regio of het verzorgingsgebied waarin zij haar standplaats heeft;  
+
+c. ten minste eenmaal per jaar om niet beschikbaar is voor de begeleiding van een productie van een instelling die een vierjaarlijkse instellingssubsidie ontvangt op grond van artikel 3.18 of 3.19; en  
+
+d. een beleid voert dat, bij voorkeur in samenwerking met derden, talentontwikkeling bevordert.     
+2.  De minister kan op grond van het eerste lid aan ten hoogste vijf instellingen subsidie verstrekken, waarvan er: 
+
+a. steeds één haar standplaats heeft in de regio Noord, de regio Oost, de regio Zuid, de gemeente Amsterdam; en  
+
+b. één het verzorgingsgebied van de gemeenten Rotterdam en Den Haag bestrijkt.     
+3.  In afwijking van het tweede lid kan de minister aan meer dan vijf instellingen subsidie verstrekken indien in de regio Oost, de regio Zuid of het verzorgingsgebied van de gemeenten Den Haag en Rotterdam twee instellingen in die regio onderscheidenlijk dat verzorgingsgebied een volwaardig symfonisch aanbod verzorgen en beide instellingen voldoende aanvullende financiering realiseren.   
+
+### Artikel  3.15  
+
+####Symfonieorkest met begeleidingsactiviteiten primair voor opera
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteiten het begeleiden van operaproducties en het verzorgen van symfonisch aanbod, indien de instelling: 
+
+a. voldoet aan artikel 3.14, eerste lid, onderdelen a en d;  
+
+b. in aanvulling op haar activiteiten een relevante seizoensprogrammering aanbiedt van ten minste twaalf symfonische concerten in het verzorgingsgebied van de gemeente Haarlem;  
+
+c. ten minste zes maal per jaar om niet beschikbaar is voor de begeleiding van een productie van een instelling die een vierjaarlijkse instellingssubsidie ontvangt op grond van artikel 3.18; en  
+
+d. ten minste twee maal in de subsidieperiode om niet beschikbaar is voor de begeleiding van een productie van een instelling die een vierjaarlijkse instellingssubsidie ontvangt op grond van artikel 3.12, tweede lid, onder a.    
+
+### Artikel  3.16  
+
+####Subsidie symfonieorkest met begeleidingsactiviteiten voor dans
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het begeleiden van dansproducties, indien de instelling: 
+
+a. beschikbaar is voor de begeleiding van de producties van een instelling die een vierjaarlijkse instellingssubsidie ontvangt op grond van artikel 3.12, tweede lid, onder a; en  
+
+b. ten minste eenmaal per jaar beschikbaar is voor de begeleiding van een productie van een instelling die een vierjaarlijkse instellingssubsidie ontvangt op grond van artikel 3.12, tweede lid, onder b;   voor zover de begeleiding in de basisbezetting van haar orkest om niet plaatsvindt, en niet meer dan een redelijke prijs in rekening wordt gebracht voor de kosten die verband houden met een aanvullende bezetting bij repertoire waarbij een basisbezetting naar algemeen gangbare artistieke maatstaven niet volstaat.  
+
+### Artikel  3.17  
+
+####Subsidieplafonds symfonieorkesten
+
+1.  Voor subsidieverstrekking op grond van de artikelen 3.14 tot en met 3.16 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor instellingen, bedoeld in artikel 3.14, tweede lid: € 6 miljoen;  
+
+b. voor een instelling als bedoeld in artikel 3.15: € 10 miljoen; en  
+
+c. voor een instelling als bedoeld in artikel 3.16: € 3,5 miljoen.     
+2.  In afwijking van het eerste lid, onder a, is ten hoogste 110 procent van het daar genoemde bedrag beschikbaar voor ten hoogste één instelling die zich: 
+
+a. internationaal onderscheidt door een excellent uitvoeringsniveau; en  
+
+b. profileert op de relevante internationale concertpodia.     
+3.  Indien twee instellingen voldoen aan artikel 3.14, derde lid, is voor die instellingen gezamenlijk jaarlijks ten hoogste een bedrag van € 6 miljoen beschikbaar.   
+4.  Het bedrag, bedoeld in het derde lid, bedraagt jaarlijks voor de twee instellingen gezamenlijk ten hoogste € 7 miljoen, indien die instellingen: 
+
+a. gericht zijn op structurele samenwerking tijdens en na de periode waarvoor subsidie wordt gevraagd; en  
+
+b. gezamenlijk een plan indienen voor de verzorging van een volwaardig symfonisch aanbod in die regio of dat verzorgingsgebied.     
+
+### Artikel  3.18  
+
+####Grootschalig opera-aanbod
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling die haar standplaats in een kernpunt heeft en met als kernactiviteit het verzorgen van grootschalig opera-aanbod, indien de instelling: 
+
+a. een breed repertoire aanbiedt;  
+
+b. zich richt op een groot landelijk publieksbereik;  
+
+c. een beleid voert dat, bij voorkeur in samenwerking met derden, talentontwikkeling bevordert en coördinerende activiteiten op dit gebied uitvoert; en  
+
+d. zich internationaal onderscheidt door een excellent uitvoeringsniveau.    
+
+### Artikel  3.19  
+
+####Overig opera-aanbod
+
+1.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling die haar standplaats heeft in de regio Oost en met als kernactiviteit het verzorgen van opera-aanbod, indien de instelling: 
+
+a. voldoet aan artikel 3.18, onderdelen a en b;  
+
+b. haar activiteiten geografisch op een geconcentreerde wijze spreidt; en  
+
+c. een beleid voert dat, bij voorkeur in samenwerking met derden, talentontwikkeling bevordert.     
+2.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling die haar standplaats heeft in de regio Zuid en met als kernactiviteit het verzorgen van opera-aanbod, indien de instelling: 
+
+a. voldoet aan artikel 3.18, onderdeel a;  
+
+b. haar activiteiten geografisch in ieder geval in haar regio op een geconcentreerde wijze spreidt;  
+
+c. samenwerkt met andere instellingen die opera-aanbod verzorgen; en  
+
+d. een beleid voert dat, bij voorkeur in samenwerking met derden, talentontwikkeling bevordert.     
+
+### Artikel  3.20  
+
+####Subsidieplafonds opera
+
+Voor subsidieverstrekking op grond van de artikelen 3.18 en 3.19 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor een instelling als bedoeld in artikel 3.18: € 24,04 miljoen;  
+
+b. voor een instelling als bedoeld in artikel 3.19, eerste lid: € 3,5 miljoen;  
+
+c. voor een instelling als bedoeld in artikel 3.19, tweede lid: € 1 miljoen.    
+
+### §  3.2.4  
+
+####Festival
+
+### Artikel  3.21  
+
+####Festival
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling die haar standplaats in een kernpunt heeft en als kernactiviteit de presentatie van actueel of vernieuwend, grootschalig aanbod in een internationale context op het terrein van theater, dans, opera en muziek, waaronder symfonisch repertoire, indien de activiteiten van de instelling: 
+
+a. er mede op gericht zijn een platform te bieden voor internationale uitwisseling tussen vakgenoten;  
+
+b. jaarlijks of tweejaarlijks gedurende een in de tijd beperkte periode plaatsvinden; en  
+
+c. niet zijn aan te merken als activiteiten van één specifieke schouwburg, concertzaal of andere organisatie die zich primair richt op de presentatie van cultuuruitingen.    
+
+### Artikel  3.22  
+
+####Subsidieplafond
+
+Voor subsidieverstrekking op grond van deze paragraaf is jaarlijks ten hoogste een bedrag van € 2.99 miljoen beschikbaar.  
+
+### Afdeling  3.3  
+
+####Musea
+
+### Artikel  3.23  
+
+####Musea
+
+1.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan een instelling met als kernactiviteit het beheer en behoud van een collectie van cultureel erfgoed, indien de instelling: 
+
+a. in de subsidieperiode ten minste een gelijk aantal bezoeken behaalt ten opzichte van de jaren 2009 tot en met 2012;  
+
+b. in de subsidieperiode ten minste een gelijk aantal bezoeken van scholieren in het primair en voortgezet onderwijs in schoolverband behaalt ten opzichte van de jaren 2009–2012;  
+
+c. een beleid voert om het aantal unieke bezoekers van de website van de instelling in de subsidieperiode te verhogen ten opzichte van de jaren 2009–2012; en  
+
+d. indien van toepassing, een beleid voert om de registratieachterstand van de collectie weg te werken.     
+2.  Indien een instelling niet voldoet aan artikel 3.5, eerste lid, en de instelling met de Staat der Nederlanden gedurende de looptijd van de subsidieperiode een overeenkomst heeft voor het beheer van museale voorwerpen als bedoeld in [artikel 1, onderdeel c, van de Regeling materieelbeheer museale voorwerpen](../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md), die aan het Rijk toebehoren dan wel zijn toevertrouwd, kan de minister een vierjaarlijkse instellingssubsidie verstrekken voor slechts het beheer en behoud van de collectie.   
+
+### Artikel  3.24  
+
+####Ondersteunende instelling
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit kunsthistorische documentatie.  
+
+### Artikel  3.25  
+
+####Subsidieplafonds
+
+1.  Voor subsidieverstrekking op grond van de artikelen 3.23 en 3.24 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor de instellingen, bedoeld in artikel 3.23, gezamenlijk: € 142 miljoen;  
+
+b. voor de instelling, bedoeld in artikel 3.24: € 5,09 miljoen.     
+2.  Aan een instelling aan welke de minister tevens een vierjaarlijkse instellingssubsidie heeft verleend voor de jaren 2009 tot en met 2012 verleent de minister op grond van deze afdeling niet meer subsidie dan in die periode, tenzij de minister het wenselijk acht dat de instelling specifieke nieuwe activiteiten ontplooit.   
+
+### Artikel  3.26  
+
+####Specifieke weigeringsgrond
+
+1.  Een instelling komt niet voor een vierjaarlijkse instellingssubsidie op grond van deze afdeling in aanmerking indien de instelling in de vier jaar voorafgaand aan de periode waarvoor subsidie wordt gevraagd, subsidie voor het beheer en behoud van haar collectie van cultureel erfgoed ontvangt of heeft ontvangen en subsidie uitsluitend verstrekt is door een ander bestuursorgaan dan de minister.   
+2.  Onder subsidie als bedoeld in het eerste lid wordt niet verstaan subsidie voor een afgerond geheel van activiteiten, dat beperkt is in de tijd.   
+
+### Artikel  3.27  
+
+####Rangorde
+
+1.  Ten behoeve van de beslissing aan welke instellingen vierjaarlijkse instellingssubsidie wordt verleend, maakt de minister een rangorde van de instellingen die voor subsidie in aanmerking komen op grond van artikel 3.23.   
+2.  In de rangorde hebben instellingen waarmee de Staat der Nederlanden gedurende de looptijd van de vierjaarlijkse instellingssubsidie een overeenkomst heeft voor het beheer van museale voorwerpen als bedoeld in [artikel 1, onderdeel c, van de Regeling materieelbeheer museale voorwerpen](../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md), die aan het Rijk toebehoren dan wel zijn toevertrouwd, voorrang op andere instellingen.   
+
+### Artikel  3.28  
+
+####Subsidieverplichting
+
+1.  Onverminderd artikel 2.15, tweede tot en met vierde lid, geeft een instelling waaraan op grond van artikel 3.23 subsidie is verleend jaarlijks in het bestuursverslag, bedoeld in de artikelen 2.15 en 2.23, tweede lid, inzicht in: 
+
+a. het aantal objecten van de collectie dat is geregistreerd, gedigitaliseerd en ontsloten;  
+
+b. het aantal geconserveerde en gerestaureerde objecten van de collectie;  
+
+c. het aantal objecten uit legaten en schenkingen dat door de instelling is aanvaard op eigen naam of namens de Staat der Nederlanden; en  
+
+d. het aantal objecten dat zichtbaar is voor het algemene publiek.     
+2.  Indien een instelling voor een wetenschappelijke functie subsidie ontvangt, geeft de instelling tevens in het bestuursverslag inzicht over het desbetreffende jaar in: 
+
+a. het aantal wetenschappelijke publicaties van de instelling;  
+
+b. het aantal verrichte wetenschappelijke onderzoeken al dan niet in samenwerking met een onderzoeksinstelling; en  
+
+c. behaalde wetenschappelijke prijzen, citaten van wetenschappelijk onderzoek van de instelling en de onderzoeksallianties die zijn aangegaan met universiteiten.     
+
+### Afdeling  3.4  
+
+####Beeldende kunst
+
+### Artikel  3.29  
+
+####Presentatie-instellingen
+
+1.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan een instelling die haar standplaats in een grote gemeente of een regio heeft en als kernactiviteit de presentatie van een vernieuwend of experimenteel aanbod van hedendaagse beeldende kunst in een internationale context, indien de instelling: 
+
+a. beschikt over een ruimte die geschikt is voor het tonen van de presentaties;  
+
+b. haar activiteiten verspreid over het jaar realiseert;  
+
+c. een toonaangevende programmering verzorgt;  
+
+d. voor haar artistieke continuïteit niet afhankelijk is van één of enkele artistiek leiders; en  
+
+e. niet overwegend gericht is op het beheer en behoud van een collectie van cultureel erfgoed.     
+2.  De minister verstrekt op grond van het eerste lid aan ten hoogste twee instellingen subsidie.   
+3.  Tevens kan de minister op grond van het eerste lid aan ten hoogste vier andere instellingen subsidie verstrekken, waarvan ten hoogste twee instellingen hun standplaats in de grote gemeenten hebben, indien die instellingen eveneens over een groot internationaal netwerk beschikken.   
+4.  Op grond van dit artikel wordt aan ten hoogste één instelling per grote gemeente subsidie verstrekt.   
+
+### Artikel  3.30  
+
+####Ondersteunende instelling
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan een instelling die haar standplaats in een kernpunt heeft en met als kernactiviteit het verzorgen van een begeleidingsprogramma op het terrein van beeldende kunst, dat een vervolg is op een bachelor- of masteropleiding op het gebied van de kunst, indien de instelling een internationaal toonaangevend programma verzorgt en ten minste tien deelnemers begeleidt.  
+
+### Artikel  3.31  
+
+####Subsidieplafonds
+
+1.  Voor subsidieverstrekking op grond van artikel 3.29 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor een instelling als bedoeld in het tweede lid: € 200.000;  
+
+b. voor een instelling als bedoeld in het derde lid: € 500.000.     
+2.  Voor subsidieverstrekking op grond van artikel 3.30 is jaarlijks voor een instelling per deelnemer ten hoogste € 50.000 beschikbaar en is in totaal jaarlijks ten hoogste een bedrag van € 2,5 miljoen beschikbaar.   
+
+### Afdeling  3.5  
+
+####Film
+
+### Artikel  3.32  
+
+####Festivals
+
+1.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit de presentatie van actueel of vernieuwend aanbod in een internationale context op het terrein van art housefilms en aan ten hoogste één instelling met als kernactiviteit de presentatie van actueel of vernieuwend aanbod in een internationale context op het terrein van documentaires, indien de activiteiten van de instelling: 
+
+a. een groot publiek bereiken;  
+
+b. er mede op gericht zijn een platform te bieden voor internationale uitwisseling tussen vakgenoten;  
+
+c. jaarlijks of tweejaarlijks gedurende een in de tijd beperkte periode plaatsvinden; en  
+
+d. een aantoonbare impuls leveren aan het aanbod en de regionale spreiding van films in het commerciële en niet-commerciële bioscoopcircuit.     
+2.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit de presentatie van actueel of vernieuwend aanbod op het terrein van de Nederlandse film, indien de activiteiten van de instelling: 
+
+a. een groot publiek bereiken;  
+
+b. er mede op gericht zijn een platform te bieden voor uitwisseling tussen vakgenoten; en  
+
+c. jaarlijks of tweejaarlijks gedurende een in de tijd beperkte periode plaatsvinden.     
+
+### Artikel  3.33  
+
+####Ondersteunende instelling
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het verrichten van ondersteunende activiteiten op het terrein van de film, indien de activiteiten van de instelling gericht zijn op: 
+
+a. behoud, beheer en ontsluiting van collecties;  
+
+b. ontwikkeling en verspreiding van leermateriaal voor het onderwijs en verzorging van klassenvoorstellingen; en  
+
+c. internationale promotie en versterking van de internationale marktpositie van de Nederlandse filmsector.    
+
+### Artikel  3.34  
+
+####Subsidieplafonds
+
+Voor subsidieverstrekking op grond van de artikelen 3.32 en 3.33 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor de instellingen, bedoeld in artikel 3.32, gezamenlijk: € 2,42 miljoen;  
+
+b. voor een instelling als bedoeld in artikel 3.33: € 6,68 miljoen.    
+
+### Afdeling  3.6  
+
+####Letteren
+
+### Artikel  3.35  
+
+####Ondersteunende instellingen
+
+1.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit de landelijke coördinatie van de leesbevordering en literatuureducatie.   
+2.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit de landelijke bemiddeling tussen schrijvers, scholen en bibliotheken voor het geven van lezingen over en rond het werk van die schrijvers ter bevordering van het lezen.   
+3.  De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit de landelijke ondersteuning van bijzondere journalistieke projecten die leiden tot journalistieke producten of andere non-fictie werken.   
+
+### Artikel  3.36  
+
+####Subsidieplafonds
+
+Voor subsidieverstrekking op grond van artikel 3.35 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor een instelling als bedoeld in het eerste lid: € 1,83 miljoen;  
+
+b. voor een instelling als bedoeld in het tweede lid: € 640.000;  
+
+c. voor een instelling als bedoeld in het derde lid: € 390.000.    
+
+### Afdeling  3.7  
+
+####Creatieve industrie (architectuur, vormgeving en nieuwe media)
+
+### Artikel  3.37  
+
+####Ondersteunende instelling
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het verrichten van ondersteunende activiteiten op het terrein van architectuur, vormgeving en nieuwe media, indien de activiteiten van de instelling gericht zijn op: 
+
+a. behoud, beheer en ontsluiting van collecties op het terrein van architectuur;  
+
+b. internationale promotie en versterking van de internationale marktpositie van de Nederlandse architectuur-, vormgeving- en nieuwe mediasector;  
+
+c. kennisontwikkeling en kennisspreiding;  
+
+d. volgen en stimuleren van multidisciplinaire ontwikkelingen; en  
+
+e. bevorderen van culturele, maatschappelijke en economische meerwaarde van de architectuur-, vormgeving- en nieuwe mediasector.    
+
+### Artikel  3.38  
+
+####Subsidieplafond
+
+Voor subsidieverstrekking op grond van deze afdeling is jaarlijks ten hoogste een bedrag van € 7,81 miljoen beschikbaar.  
+
+### Afdeling  3.8  
+
+####Bibliotheken
+
+### Artikel  3.39  
+
+####Ondersteunende instelling
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het verrichten van ondersteunende activiteiten op het terrein van de openbare bibliotheken, indien de activiteiten van de instelling gericht zijn op: 
+
+a. afstemming en coördinatie;  
+
+b. informatie en reflectie;  
+
+c. vertegenwoordiging en promotie; en  
+
+d. instandhouding van een bibliotheekvoorziening voor zowel leesgehandicapten als varenden.    
+
+### Artikel  3.40  
+
+####Subsidieplafond
+
+Voor subsidieverstrekking op grond van deze afdeling is jaarlijks ten hoogste een bedrag van € 14,44 miljoen beschikbaar.  
+
+### Afdeling  3.9  
+
+####Amateurkunst en cultuureducatie
+
+### Artikel  3.41  
+
+####Ondersteunende instelling
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het verrichten van ondersteunende activiteiten op het terrein van amateurkunst en cultuureducatie, indien de activiteiten van de instelling gericht zijn op: 
+
+a. professionalisering van de educatiefunctie in de culturele sector;  
+
+b. landelijke informatie- en netwerkfunctie voor zowel amateurkunst als cultuureducatie; en  
+
+c. onderzoek en monitoring voor zowel amateurkunst als cultuureducatie.    
+
+### Artikel  3.42  
+
+####Subsidieplafond
+
+Voor subsidieverstrekking op grond van deze afdeling is jaarlijks ten hoogste een bedrag van € 4,76 miljoen beschikbaar.  
+
+### Afdeling  3.10  
+
+####Bovensectorale ondersteunende instellingen
+
+### Artikel  3.43  
+
+####Internationaal cultuurbeleid
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit de coördinatie van de uitvoering van het internationaal cultuurbeleid, indien de activiteiten van de instelling gericht zijn op: 
+
+a. de coördinatie van internationale sectoroverschrijdende activiteiten;  
+
+b. het stimuleren van de mobiliteit van kunstenaars en instellingen; en  
+
+c. voorlichting over en ondersteuning van subsidieprogramma’s van de Europese Unie.    
+
+### Artikel  3.44  
+
+####Digitalisering erfgoed
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit de digitalisering van erfgoed, indien de activiteiten van de instelling gericht zijn op een duurzame nationale infrastructuur voor digitaal erfgoed.  
+
+### Artikel  3.45  
+
+####Onderzoek en statistiek
+
+De minister kan een vierjaarlijkse instellingssubsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het verzamelen en verspreiden van kennis en informatie over kunst en cultuur in beleid en praktijk, indien de activiteiten van de instelling gericht zijn op: 
+
+a. het bevorderen en faciliteren van onderzoek over de productie, distributie en afname van kunst en cultuur en over het nationale en internationale kunst- en cultuurbeleid; en  
+
+b. het bevorderen en faciliteren van meningsvorming over de productie, distributie en afname van kunst en cultuur en over het nationale en internationale kunst- en cultuurbeleid.    
+
+### Artikel  3.46  
+
+####Subsidieplafonds
+
+Voor subsidieverstrekking op grond van de artikelen 3.43 tot en met 3.45 zijn jaarlijks ten hoogste de volgende bedragen beschikbaar: 
+
+a. voor een instelling als bedoeld in artikel 3.43: € 880.000;  
+
+b. voor een instelling als bedoeld in artikel 3.44: € 570.000;  
+
+c. voor een instelling als bedoeld in artikel 3.45: € 710.000.    
+
 ### Hoofdstuk  4  
 
-####Specifieke bepalingen voor verstrekking van vierjaarlijkse instellingssubsidies aan aangewezen instellingen en fondsen op grond van [artikel 4b](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) en [4c van de wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md)
+####Specifieke bepalingen voor verstrekking van vierjaarlijkse instellingssubsidies aan fondsen op grond van [artikel 4c van de wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md)
 
 ### §  4.1  
 
@@ -318,31 +991,21 @@ Het bestuursverslag, het activiteitenverslag en de jaarrekening, waaronder de pr
 
 ####Toepassing
 
-Paragraaf 2.2 is niet van toepassing op de verstrekking van vierjaarlijkse instellingssubsidies aan aangewezen instellingen en fondsen.  
+Paragraaf 2.2 is niet van toepassing op de verstrekking van vierjaarlijkse instellingssubsidies aan fondsen.  
 
 ### Artikel  4.2  
 
 ####Indiening van de begroting
 
-1.  Aangewezen instellingen en fondsen dienen uiterlijk zes maanden voor aanvang van de subsidieperiode van vier kalenderjaren een begroting in.   
+1.  De fondsen dienen uiterlijk op 1 februari in het jaar voorafgaand aan de aanvang van de subsidieperiode van vier kalenderjaren een begroting en een beleidsplan in.   
 2.  Op de begroting is artikel 2.5 van overeenkomstige toepassing.   
 3.  Indien de minister hier om verzoekt, verstrekt de aanvrager tevens een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd.   
-4.  Artikel 2.7 is van overeenkomstige toepassing op de aangewezen instellingen en fondsen bij de indiening van de begroting.   
+4.  Artikel 2.7 is van overeenkomstige toepassing op de fondsen bij de indiening van de begroting.   
+5.  Een fonds stelt zijn beleidsplan op aan de hand van het voor het desbetreffende fonds door de minister bekendgemaakte beleidskader.   
 
 ### §  4.2  
 
 ####Verplichtingen van de subsidieontvanger
-
-### Artikel  4.3  
-
-####Visitatie
-
-1.  Tijdens iedere periode waarin aan de aangewezen instellingen of fondsen subsidie is verleend, wordt bij ieder van die instellingen een visitatie uitgevoerd die ten doel heeft de wijze waarop die instelling haar taken verricht te beoordelen.   
-2.  Met de visitatie zijn visitatiecommissies belast.   
-3.  Een visitatiecommissie wordt door de minister ingesteld na overleg met de instelling of instellingen waarbij die visitatie wordt uitgevoerd. De minister stelt daarbij vast over welke instelling of instellingen de visitatiecommissie haar bemoeienis uitstrekt.   
-4.  De leden van de visitatiecommissie worden benoemd, ontslagen en geschorst door de minister, gehoord de instelling of instellingen waartoe de visitatiecommissie haar bemoeienis zal uitstrekken.   
-5.  Na afloop van iedere visitatie stelt de visitatiecommissie een visitatierapport vast. Het visitatierapport is openbaar.   
-6.  De minister kan van het eerste lid in bijzondere gevallen ontheffing verlenen.   
 
 ### §  4.3  
 
@@ -601,15 +1264,15 @@ J.M. vanBijsterveldt-Vliegenthart
 
 ### Bijlage  Ia  
 
-####, als bedoeld in artikel 2.28  van de regeling op het specifiek cultuurbeleid
+####, als bedoeld in artikel 2.28  van de Regeling op het specifiek cultuurbeleid
 
-####Handboek verantwoording Cultuursubsidies Instellingen 2009–2012 (inclusief musea en sectorinstituten)
+####Handboek verantwoording Cultuursubsidies Instellingen 2009–2012
 
 Deze publicatie van het Ministerie van Onderwijs, Cultuur en Wetenschap staat op de websites www.rijksoverheid.nl, www.cultuursubsidie.nl en www.wetten.nl. 
 
 ####Inleiding
 
-Het Handboek Verantwoording Cultuursubsidies Instellingen (hierna: handboek) is bedoeld voor rechtspersonen (zowel aangewezen als niet aangewezen instellingen) die op grond van de [artikelen 4](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), [4a](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) en [4b van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) een vierjaarlijkse instellingssubsidie of een jaarlijkse instellingssubsidie ontvangen. Daarnaast geldt dit handboek voor rechtspersonen die alleen een projectsubsidie vanaf € 125.000 ontvangen. Als uw instelling een van dergelijke subsidies ontvangt, dient u over de besteding van de subsidie jaarlijks verantwoording aan de minister van Onderwijs, Cultuur en Wetenschap (hierna: OCW) af te leggen. Dit is een verplichting die geldt voor ieder boekjaar waarvoor subsidie is verleend. Hoofdstuk 5 ‘wetgeving en richtlijnen’ van dit handboek verwijst naar de kaders waarbinnen deze verantwoordingsverplichting bestaat. Rapportage van de besteding van ontvangen projectsubsidies vindt bij voorkeur plaats door middel van uw reguliere jaarverantwoording. Voor instellingen die op grond van [artikel 4c van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) subsidie ontvangen geldt het Handboek Verantwoording Cultuursubsidies Fondsen. 
+Het Handboek Verantwoording Cultuursubsidies Instellingen (hierna: handboek) is bedoeld voor rechtspersonen (zowel aangewezen als niet aangewezen instellingen) die op grond van de [artikelen 4](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), [4a](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) en [4b van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) een vierjaarlijkse instellingssubsidie of een jaarlijkse instellingssubsidie ontvangen in de periode 2009–2012. Daarnaast geldt dit handboek voor rechtspersonen die alleen een projectsubsidie vanaf € 125.000 ontvangen. Als uw instelling een van dergelijke subsidies ontvangt, dient u over de besteding van de subsidie jaarlijks verantwoording aan de minister van Onderwijs, Cultuur en Wetenschap (hierna: OCW) af te leggen. Dit is een verplichting die geldt voor ieder boekjaar waarvoor subsidie is verleend. Hoofdstuk 5 ‘wetgeving en richtlijnen’ van dit handboek verwijst naar de kaders waarbinnen deze verantwoordingsverplichting bestaat. Rapportage van de besteding van ontvangen projectsubsidies vindt bij voorkeur plaats door middel van uw reguliere jaarverantwoording. Voor instellingen die op grond van [artikel 4c van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) subsidie ontvangen geldt het Handboek Verantwoording Cultuursubsidies Fondsen. 
 
 ####Doel van de verantwoording
 
@@ -619,7 +1282,7 @@ De verantwoording van uw instelling dient om na te gaan of de subsidie is bestee
 
 Uitgangspunten voor de verantwoording van de subsidie(s) zijn uw geaccordeerde prestatieoverzicht en meerjarenbegroting en de door de minister van OCW verleende subsidie(s).  
 
-####Verantwoording voor instellingen met een vierjaarlijkse subsidie
+#### *Verantwoording voor instellingen met een vierjaarlijkse subsidie* 
 
 In het verantwoordingsproces wordt een onderscheid gemaakt tussen instellingen die een jaarlijkse instellingssubsidie ontvangen en instellingen die een vierjaarlijkse instellingssubsidie ontvangen (aangewezen- én niet aangewezen instellingen). Op de verantwoording van vierjaarlijkse instellingssubsidies wordt in dit hoofdstuk verder ingegaan. Voor de verantwoording door instellingen die een jaarlijkse instellingssubsidie ontvangen wordt verwezen naar hoofdstuk 3 van dit handboek. U dient binnen dertien weken na het eerste, tweede en derde jaar van de vierjaarlijkse subsidieperiode, over het betreffende boekjaar de verantwoording digitaal aan te leveren. De verantwoording over het vierde jaar van de vierjaarlijkse subsidieperiode dient u tussen acht en dertien weken na afloop van het betreffende boekjaar digitaal aan te leveren. Als u naast de vierjaarlijkse instellingssubsidie een (of meer) projectsubsidie(s) heeft ontvangen, dan dient u tevens rekening te houden met de aanwijzingen in hoofdstuk 4 ‘verantwoording projectsubsidie’. De jaarlijkse verantwoording voor vierjaarlijkse instellingssubsidies bestaat uit twee onderdelen: de jaarrekening (inclusief prestatieverantwoording) en het bestuursverslag. Daarnaast voegt de accountant een aantal accountantsproducten toe. 
 
@@ -629,14 +1292,9 @@ De jaarrekening, als bedoeld in artikel 2.26 van de Regeling op het specifiek cu
 
 * Balans De balans dient opgesteld te worden volgens model I. Alle balansposten dienen te worden toegelicht.  
 
-* Exploitatierekening De exploitatierekening dient opgesteld te worden volgens model II (A t/m D). In de toelichting op de modellen wordt aangegeven welke variant op uw instelling van toepassing is. Op de exploitatierekening geeft u een toelichting.  
+* Exploitatierekening De exploitatierekening dient opgesteld te worden volgens model II (A t/m H en IIF). In de toelichting op de modellen wordt aangegeven welke variant op uw instelling van toepassing is. Op de exploitatierekening geeft u een toelichting.  
 
-* Prestatieverantwoording De prestatieverantwoording geeft een inzichtelijk kwantitatief overzicht van de activiteiten die zijn verricht in het jaar waarop de jaarrekening betrekking heeft, in relatie tot de voorgenomen activiteiten (zoals vermeld in het prestatieoverzicht bij uw begroting). De prestatieverantwoording dient opgesteld te worden volgens model III in dit handboek. U vermeldt in het model alleen de kwantitatieve gegevens. Wat betreft de musea kan voor een deel van de voorgenomen activiteiten volstaan worden met de rapportage van de stand van zaken.    
-
-| --- | --- |
-|:---|:---|
-| --- | --- |
-| Aandachtspunt:  | Voor zover uw instelling nauwe banden onderhoudt met gelieerde rechtspersonen die een noemenswaardige invloed op uw resultaat en/of het functioneren van uw instelling hebben, is het in afwijking van de Richtlijnen van de Raad voor de Jaarverslaggeving (hierna: RJ), voor de verantwoording aan de minister van OCW niet verplicht de jaarrekeningen te consolideren. Wel dient u dan de jaarrekeningen van deze gelieerde rechtspersonen mee te zenden, teneinde een goed en volledig inzicht te krijgen in de financiële positie van uw instelling. Er is sprake van noemenswaardige invloed wanneer een rechtspersoon feitelijk beleidsbepalende invloed kan uitoefenen in een andere rechtspersoon, bijvoorbeeld door middel van het benoemen van bestuursleden.  |
+* Prestatieverantwoording De prestatieverantwoording geeft een inzichtelijk kwantitatief overzicht van de activiteiten die zijn verricht in het jaar waarop de jaarrekening betrekking heeft, in relatie tot de voorgenomen activiteiten (zoals vermeld in het prestatieoverzicht bij uw begroting). De prestatieverantwoording dient opgesteld te worden volgens model III in dit handboek. U vermeldt in het model alleen de kwantitatieve gegevens. Wat betreft de musea kan voor een deel van de voorgenomen activiteiten volstaan worden met de rapportage van de stand van zaken.   Aandachtspunt: Voor zover uw instelling nauwe banden onderhoudt met gelieerde rechtspersonen die een noemenswaardige invloed op uw resultaat en/of het functioneren van uw instelling hebben, is het in afwijking van de Richtlijnen van de Raad voor de Jaarverslaggeving (hierna: RJ), voor de verantwoording aan de minister van OCW niet verplicht de jaarrekeningen te consolideren. Wel dient u dan de jaarrekeningen van deze gelieerde rechtspersonen mee te zenden, teneinde een goed en volledig inzicht te krijgen in de financiële positie van uw instelling. Er is sprake van noemenswaardige invloed wanneer een rechtspersoon feitelijk beleidsbepalende invloed kan uitoefenen in een andere rechtspersoon, bijvoorbeeld door middel van het benoemen van bestuursleden.  
 
 ####Bestuursverslag
 
@@ -652,21 +1310,21 @@ d. de zaken die nu en in de toekomst van invloed kunnen zijn op het functioneren
 
 e. de specifieke aandachtspunten die in de beschikking tot subsidieverlening zijn vermeld.   Voorts bevat het bestuursverslag: 
 
-a. een inzichtelijke kwalitatieve beschrijving in kort bestek van de verrichte activiteiten in het afgelopen jaar; en  
+f. een inzichtelijke kwalitatieve beschrijving in kort bestek van de verrichte activiteiten in het afgelopen jaar; en  
 
-b. de samenstelling van het bestuur, de directie en eventueel de Raad van Toezicht.    
+g. de samenstelling van het bestuur, de directie en eventueel de Raad van Toezicht.    
 
 ####Accountantsproducten
 
 De jaarlijkse verantwoording wordt conform artikel 2.27 van de Rsc door uw accountant voorzien van de volgende producten: 
 
-* De accountantsverklaring bij de jaarrekening;  
+* De controleverklaring bij de jaarrekening;  
 
 * Het rapport van bevindingen (indien opgesteld);  
 
-* Het rapport van feitelijke bevindingen bij de prestatieverantwoording (COS4400).   Bij de Rsc is in bijlage IIA het Controleprotocol Cultuursubsidies Instellingen opgenomen. Onderdeel van dit protocol is het verplichte model voor de accountantsverklaring. Indien de accountant een rapport van bevindingen heeft opgesteld omtrent de naleving van de subsidiebepalingen, voegt u dat bij uw jaarverantwoording. Het rapport van feitelijke bevindingen bij de prestatieverantwoording dient altijd opgemaakt en bijgevoegd te worden. Op ontvangers van een vierjaarlijkse instellingssubsidie, waarvan het verleende bedrag minder dan € 125.000 bedraagt, is een ander regime van toepassing. Zie daarvoor artikel 6.2a van de Regeling op het specifiek cultuurbeleid.  
+* Het rapport van feitelijke bevindingen bij de prestatieverantwoording (COS4400).   Bij de Rsc is in bijlage IIA het Controleprotocol Cultuursubsidies Instellingen opgenomen. Onderdeel van dit protocol is het verplichte model voor de controleverklaring. Indien de accountant een rapport van bevindingen heeft opgesteld omtrent de naleving van de subsidiebepalingen, voegt u dat bij uw jaarverantwoording. Het rapport van feitelijke bevindingen bij de prestatieverantwoording dient altijd opgemaakt en bijgevoegd te worden.  
 
-####Verantwoording voor instellingen met een jaarlijkse subsidie
+#### *Verantwoording voor instellingen met een jaarlijkse subsidie* 
 
 Bij de verantwoording van jaarlijkse instellingssubsidies wordt onderscheid gemaakt tussen subsidies tot € 125.000 en subsidies vanaf € 125.000 (zie hierna). De verantwoording van de jaarlijkse instellingssubsidie dient u tussen acht en dertien weken na afloop van het betreffende boekjaar digitaal aan te leveren. Als u naast de jaarlijkse instellingssubsidie een (of meer) projectsubsidie(s) heeft ontvangen, dan dient u tevens rekening te houden met de aanwijzingen in hoofdstuk 4 ‘verantwoording projectsubsidie’. 
 
@@ -682,13 +1340,13 @@ Als het van OCW ontvangen jaarlijkse subsidiebedrag (exclusief eventuele project
 
 * Accountantsproducten 
 
-○ accountantsverklaring bij de jaarrekening;  
+○ controleverklaring bij de jaarrekening;  
 
 ○ rapport van bevindingen (indien opgesteld).   Voor een toelichting bij deze producten: zie hoofdstuk 2 van dit handboek. Omdat de jaarrekening van een ontvanger van een jaarlijkse instellingssubsidie geen prestatieverantwoording bevat hoeft in dit geval door de accountant ook geen rapport van feitelijke bevindingen bij de prestatieverantwoording te worden opgemaakt.  
 
 * Activiteitenverslag Het activiteitenverslag (artikel 2.25 Rsc) is vormvrij en beschrijft de aard, duur en omvang van de activiteiten waarvoor subsidie werd verleend.    
 
-####Verantwoording projectsubsidie
+#### *Verantwoording projectsubsidie* 
 
 Voor het indienen van een aanvraag tot vaststelling van een projectsubsidie geldt in beginsel de termijn genoemd in het eerste lid van artikel 5.10 van de Rsc. Het tweede lid van dit artikel geeft u, als ontvanger van een jaarlijkse of vierjaarlijkse instellingssubsidie, echter de mogelijkheid in plaats daarvan uw aanvraag tot subsidievaststelling voor een projectsubsidie tegelijk in te dienen met de aanvraag tot vaststelling van de jaarlijkse instellingssubsidie of met de jaarlijkse verantwoording over uw vierjaarlijkse instellingssubsidie. U doet dit bij de verantwoording over het jaar waarin de activiteiten van het project, volgens de beschikking waarmee de projectsubsidie is verleend, uiterlijk worden afgerond. Door de invoering van de Aanwijzingen voor subsidieverstrekking (het Uniform Subsidiekader) wordt voor wat betreft de verantwoordingseisen onderscheid gemaakt tussen subsidies kleiner dan € 25.000, subsidies vanaf € 25.000 tot € 125.000 en subsidies vanaf € 125.000. De bijzonderheden voor elk van deze categorieën zijn onder de volgende kopjes in dit handboek verder uitgewerkt. Aandachtspunten: 
 
@@ -720,11 +1378,11 @@ U dient na afloop van het project een aanvraag tot subsidievaststelling in, voor
 
 ○ sluit aan op de indeling van de begroting die voorafgaand aan de subsidieverlening is ingediend;  
 
-○ geeft een toelichting bij belangrijke verschillen tussen financieel verslag en begroting.   Het financieel verslag gaat vergezeld van een accountantsverklaring. In plaats van de hiervoor genoemde wijze van verantwoorden is het ook toegestaan om de verantwoording over de projectsubsidie op te nemen in de jaarlijkse verantwoording over uw instellingssubsidie. Dat betekent het volgende: 
+○ geeft een toelichting bij belangrijke verschillen tussen financieel verslag en begroting.   Het financieel verslag gaat vergezeld van een controleverklaring. In plaats van de hiervoor genoemde wijze van verantwoorden is het ook toegestaan om de verantwoording over de projectsubsidie op te nemen in de jaarlijkse verantwoording over uw instellingssubsidie. Dat betekent het volgende: 
 
 * De financiële eindverantwoording over het project neemt u op in de reguliere door een accountant gecertificeerde jaarrekening, op zodanige wijze dat de baten en lasten met betrekking tot het project afzonderlijk kunnen worden afgelezen;  
 
-* Het activiteitenverslag bij het project neemt u op in uw bestuursverslag (als u een vierjaarlijkse instellingssubsidie ontvangt) of (als u een jaarlijkse instellingssubsidie ontvangt) in het activiteitenverslag bij uw instellingssubsidie, op een zodanige wijze dat de projectactiviteiten afzonderlijk herkenbaar zijn.   Een afzonderlijke accountantsverklaring bij het project is in dit geval niet nodig.  
+* Het activiteitenverslag bij het project neemt u op in uw bestuursverslag (als u een vierjaarlijkse instellingssubsidie ontvangt) of (als u een jaarlijkse instellingssubsidie ontvangt) in het activiteitenverslag bij uw instellingssubsidie, op een zodanige wijze dat de projectactiviteiten afzonderlijk herkenbaar zijn.   Een afzonderlijke controleverklaring bij het project is in dit geval niet nodig.  
 
 ####Wetgeving en richtlijnen
 
@@ -738,25 +1396,59 @@ De volgende wet- en regelgeving is van toepassing op de verantwoording:
 
 * Regeling op het specifiek cultuurbeleid (Rsc)  
 
-* Richtlijnen van de Raad voor de Jaarverslaggeving   U vindt de eerste vier documenten op de websites www.rijksoverheid.nl, www.cultuursubsidie.nl of www.wetten.nl. Krachtens artikel 2.26, eerste lid, van de Rsc, is [BW 2 Titel 9](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) overeenkomstig van toepassing op deze verantwoording, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening. Artikel 2.26, tweede lid, van de Rsc, laat aan de minister ruimte om bepalingen van [BW 2 Titel 9](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of onderdelen daarvan buiten toepassing te verklaren op bepaalde instellingen of categorieën van instellingen. Op basis van deze bevoegdheid zijn de [afdelingen 1](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [10](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [11](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [12](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [13](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [14](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [15](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [16 van Boek 2 Titel 9 BW](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) niet van toepassing op de jaarlijkse verantwoording. [Afdeling 7](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing met dien verstande dat het jaarverslag bij vierjaarlijkse instellingssubsidies wordt vervangen door een bestuursverslag conform artikel 2.15 van de Rsc. 
+* Richtlijnen van de Raad voor de Jaarverslaggeving   U vindt de eerste vier documenten op de websites www.rijksoverheid.nl, www.cultuursubsidie.nl of www.wetten.nl. Krachtens artikel 2.26, eerste lid, van de Rsc, is [BW 2 Titel 9](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) overeenkomstig van toepassing op deze verantwoording, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening. Artikel 2.26, tweede lid, van de Rsc, laat aan de minister ruimte om bepalingen van [BW 2 Titel 9](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of onderdelen daarvan buiten toepassing te verklaren op bepaalde instellingen of categorieën van instellingen. Op basis van deze bevoegdheid zijn de [afdelingen 1](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [10](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [11](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [12](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [13](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [14](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [15](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [16 van Boek 2 Titel 9 BW](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) niet van toepassing op de jaarlijkse verantwoording. [Afdeling 7](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing met dien verstande dat het jaarverslag bij vierjaarlijkse instellingssubsidies wordt vervangen door een bestuursverslag conform artikel 2.15 van de Rsc.  
 
-####Sica
+####SICA
 
 | --- |
 |:---|
-| Uw internationale activiteiten kunt u melden aan de Stichting Internationale Culturele Activiteiten (www.sica.nl)  SICA is het instituut voor internationaal cultuurbeleid. Als netwerk- en expertisecentrum adviseert SICA over alle aspecten van internationale culturele activiteiten. SICA organiseert regelmatig publieksbijeenkomsten, bezoekersprogramma's voor buitenlandse cultuurdeskundigen en publiceert ieder kwartaal het SICAmag.  Het Europees Cultureel ContactPunt (CCP) is onderdeel van de SICA en informeert over het Europese financieringsprogramma Kaderprogramma Cultuur. Daarnaast is SICA de uitvoerende organisatie voor de Netherlands China Arts Foundation. Ook voert SICA het secretariaat van EUNIC Netherlands, de Nederlandse afdeling van de overkoepelende organisatie voor nationale instituten voor cultuur van de Europese Unie.  |
+| Uw internationale activiteiten kunt u melden aan de Stichting Internationale Culturele Activiteiten (www.sica.nl)  SICA is het instituut voor internationaal cultuurbeleid. Als netwerk- en expertisecentrum adviseert SICA over alle aspecten van internationale culturele activiteiten. SICA organiseert regelmatig publieksbijeenkomsten, bezoekersprogramma's voor buitenlandse cultuurdeskundigen en onderhoudt een website.  Het Europees Cultureel ContactPunt (CCP) is onderdeel van de SICA en informeert over het Europese financieringsprogramma Kaderprogramma Cultuur.  |
 
-####Modellen voor de verantwoording
+####MODELLEN VOOR DE VERANTWOORDING
 
-![246515](http://wetten.overheid.nl/Illustration/246515)
-![246515](http://wetten.overheid.nl/Illustration/246515)
-![246515](http://wetten.overheid.nl/Illustration/246515)
-![246515](http://wetten.overheid.nl/Illustration/246515)
-![246515](http://wetten.overheid.nl/Illustration/246515)
-![246515](http://wetten.overheid.nl/Illustration/246515)
-![246515](http://wetten.overheid.nl/Illustration/246515)
-![246515](http://wetten.overheid.nl/Illustration/246515)
-![246515](http://wetten.overheid.nl/Illustration/246515)
+####Model I voor de balans (voor alle instellingen)
+
+![249551](http://wetten.overheid.nl/Illustration/249551)
+
+####Model IIA voor de categoriale exploitatierekening
+
+(Podiumkunsten: toneelgezelschap, productiehuis, orkest, operagezelschap, jeugdgezelschap, dansgezelschap)   ![249552](http://wetten.overheid.nl/Illustration/249552)
+
+####Model IIB voor de categoriale exploitatierekening
+
+![249553](http://wetten.overheid.nl/Illustration/249553)
+
+####Model IIC voor de categoriale exploitatierekening
+
+(Overige instellingen waaronder presentatie-instellingen, sectorinstituten, postacademische instellingen, ontwikkelinstellingen).   ![249554](http://wetten.overheid.nl/Illustration/249554)
+
+####Model IID voor de categoriale exploitatierekening (Musea)
+
+![249555](http://wetten.overheid.nl/Illustration/249555)
+
+####Model IIE voor de categoriale en functionele exploitatierekening (Musea)
+
+![249556](http://wetten.overheid.nl/Illustration/249556)
+
+####Model IIF voor de categoriale en functionele exploitatierekening (Sectorinstituten)
+
+![249557](http://wetten.overheid.nl/Illustration/249557)
+
+####Model III voor de prestatieverantwoording (1)
+
+![249558](http://wetten.overheid.nl/Illustration/249558)
+
+####Model III voor de prestatieverantwoording (2)
+
+![249559](http://wetten.overheid.nl/Illustration/249559)
+
+####Model III voor de prestatieverantwoording (3)
+
+![249560](http://wetten.overheid.nl/Illustration/249560)
+
+####Model III voor de prestatieverantwoording (4)
+
+![249561](http://wetten.overheid.nl/Illustration/249561)
 
 ####Toelichting op de modellen
 
@@ -768,7 +1460,7 @@ Het is niet toegestaan van model I af te wijken. Voor specificaties van de in he
 
 ####Vaste activa
 
-Als u subsidie ontvangt voor investering in vaste activa, dan vindt verantwoording van de subsidie niet plaats in de exploitatierekening. U neemt de investering op in de balans. De ontvangen subsidie neemt u op onder de Langlopende schulden met als subpost ‘Investeringssubsidie’. Deze post ‘Investeringssubsidie’ valt vrij via de exploitatierekening, gelijk lopend met de afschrijvingstermijn van de investering. U kunt activa verkregen uit sponsoring activeren. De daarvoor verkregen sponsoring neemt u, analoog aan de hierboven beschreven methode, op als subpost Sponsoring onder de Langlopende schulden. Het is voor musea niet toegestaan collectieonderdelen te activeren.  
+Als u subsidie ontvangt voor investering in vaste activa, dan vindt verantwoording van de subsidie niet plaats in de exploitatierekening. U neemt de investering op in de balans. De ontvangen subsidie neemt u op onder de Langlopende schulden met als subpost ‘Investeringssubsidie’. Deze post ‘Investeringssubsidie’ valt vrij via de exploitatierekening, gelijklopend met de afschrijvingstermijn van de investering. U kunt activa verkregen uit sponsoring activeren. De daarvoor verkregen sponsoring neemt u, analoog aan de hierboven beschreven methode, op als subpost Sponsoring onder de Langlopende schulden. Het is musea niet toegestaan collectieonderdelen te activeren.  
 
 ####Vlottende activa
 
@@ -776,27 +1468,27 @@ Alleen variabele voorbereidingslasten voor een activiteit (Onderhanden werk) die
 
 ####Eigen vermogen
 
-Bij het maken van onderscheid tussen algemene reserve, bestemmingsreserves en bestemmingsfondsen volgt u de actuele Richtlijnen van de Raad voor de Jaarverslaggeving, RJ 640 (640.305–313). De resultaatbestemming, dit is de wijze waarop het exploitatieresultaat aan een bestemmingsreserve of bestemmingsfonds wordt toegerekend en/of op een andere wijze wordt aangewend, voorziet u van een toelichting. Over de bestemming van de, aan het einde van de betreffende subsidieperiode resterende middelen in het ‘Bestemmingsfonds OCW’, zal bij de vaststelling van de subsidie van de betreffende subsidieperiode een beslissing worden genomen.  
+Bij het maken van onderscheid tussen algemene reserve, bestemmingsreserves en bestemmingsfondsen volgt u de actuele Richtlijnen van de Raad voor de Jaarverslaggeving, RJ 640 (640.305-313). De resultaatbestemming, dit is de wijze waarop het exploitatieresultaat aan een bestemmingsreserve of bestemmingsfonds wordt toegerekend en/of op een andere wijze wordt aangewend, voorziet u van een toelichting. Over de bestemming van de, aan het einde van de betreffende subsidieperiode resterende middelen in het ‘Bestemmingsfonds OCW’, zal bij de vaststelling van de subsidie van de betreffende subsidieperiode een beslissing worden genomen. Op 21 november 2011 is de [Regeling frictie- en transitiekosten culturele basisinfrastructuur 2009–2012](../../../../../../../ministeriele-regeling/regeling/frictie-/en/transitiekosten/culturele/basisinfrastructuur/etc/BWBR0030665/README.md) gepubliceerd in de Staatscourant (nr. 20943). In [artikel 9 van deze regeling](../../../../../../../ministeriele-regeling/regeling/frictie-/en/transitiekosten/culturele/basisinfrastructuur/etc/BWBR0030665/README.md) staat dat voor iedere aanwending van het bestemmingsfonds OCW toestemming nodig is van de bewindspersoon, ook wanneer sprake is van een negatief exploitatieresultaat. In beginsel zal toestemming geweigerd worden.  
 
 ####Aankoopfondsen (musea)
 
 De aankoopfondsen krijgen een afzonderlijke vermelding en maken geen deel uit van het eigen vermogen.  
 
-####Toelichting op de modellen IIA t/m D voor de categoriale en/of functionele exploitatierekening
+####Toelichting op de modellen IIA t/m F voor de categoriale en/of functionele exploitatierekening
 
 ####Algemeen
 
-Het is niet toegestaan van model IIA af te wijken behalve voor musea en sectorinstituten. Voor deze twee typen instellingen gelden specifieke varianten (model IIB, IIC en IID). Voor specificaties van de in het model vermelde hoofdposten gelden geen voorschriften.  
+Voor specificaties van de in de modellen vermelde hoofdposten gelden geen voorschriften.  
 
-####Opzet voor model IIC (voor musea)
+####Opzet voor model IIE (Musea)
 
-Het voorgeschreven model IIC bestaat in grote lijnen uit een gecombineerde kostensoorten- en kostenplaatsen overzicht. De in model IIB opgenomen baten en lasten van het huidig boekjaar neemt u over in model IIC, in de kolom *Totaal*. U rekent vervolgens de baten en lasten uit de kolom *Totaal* toe aan de in het model opgenomen kostenplaatsen; de museale functies. Daarbij houdt u rekening met de omschrijvingen van de museale functies, zoals vermeld in de *Toelichting op model IIC – definities van museale functies*, hierna. Het saldo van de kolom *Algemeen beheer* rekent u ook toe aan de overige functies (zie de pijl in het model). Voor de verdeling van baten en lasten over de museale functies gebruikt u verdeelsleutels. De controleerbaarheid ten aanzien van het gebruik van deze verdeelsleutels staat voorop. U formuleert uw eigen verdeelsleutels, beschrijft en onderbouwt ze in de jaarrekening en hanteert ze consistent over de jaren heen. Zoveel mogelijk kiest u voor objectieve gronden. Baten en lasten die niet zijn toe te rekenen aan de museale functies vermeldt u in de kolom *Algemeen Beheer*.  
+Het voorgeschreven model IIE bestaat in grote lijnen uit een gecombineerde kostensoorten- en kostenplaatsen overzicht. De in model IID opgenomen baten en lasten van het huidig boekjaar neemt u over in model IIE, in de kolom *Totaal*. U rekent vervolgens de baten en lasten uit de kolom *Totaal* toe aan de in het model opgenomen kostenplaatsen; de museale functies. Daarbij houdt u rekening met de omschrijvingen van de museale functies, zoals vermeld in de *Toelichting op model IIE – definities van museale functies*, hierna. Het saldo van de kolom *Algemeen beheer* rekent u ook toe aan de overige functies (zie de pijl in het model). Voor de verdeling van baten en lasten over de museale functies gebruikt u verdeelsleutels. De controleerbaarheid ten aanzien van het gebruik van deze verdeelsleutels staat voorop. U formuleert uw eigen verdeelsleutels, beschrijft en onderbouwt ze in de jaarrekening en hanteert ze consistent over de jaren heen. U kiest zoveel mogelijk voor objectieve gronden. Baten en lasten die niet zijn toe te rekenen aan de museale functies vermeldt u in de kolom *Algemeen Beheer*.  
 
-####Opzet voor model IID (voor sectorinstituten)
+####Opzet voor model IIF (Sectorinstituten)
 
-Het voorgeschreven model IID bestaat in grote lijnen uit een gecombineerde kostensoorten- en kostenplaatsen overzicht. De in model IIA opgenomen baten en lasten van het huidig boekjaar neemt u over in model IID, in de kolom *Totaal*. U rekent vervolgens de baten en lasten uit de kolom *Totaal* toe aan de in het model opgenomen kostenplaatsen; de vijf hoofdfuncties. Voor de verdeling van baten en lasten over de vijf hoofdfuncties gebruikt u verdeelsleutels. De controleerbaarheid ten aanzien van het gebruik van deze verdeelsleutels staat voorop. U formuleert uw eigen verdeelsleutels, beschrijft en onderbouwt ze in de jaarrekening en hanteert ze consistent over de jaren heen.  
+Het voorgeschreven model IIF bestaat in grote lijnen uit een gecombineerde kostensoorten- en kostenplaatsenoverzicht. De in model IIC opgenomen baten en lasten van het huidig boekjaar neemt u over in model IIF, in de kolom *Totaal*. U rekent vervolgens de baten en lasten uit de kolom *Totaal* toe aan de in het model opgenomen kostenplaatsen; de vijf hoofdfuncties. Voor de verdeling van baten en lasten over de vijf hoofdfuncties gebruikt u verdeelsleutels. De controleerbaarheid ten aanzien van het gebruik van deze verdeelsleutels staat voorop. U formuleert uw eigen verdeelsleutels, beschrijft en onderbouwt ze in de jaarrekening en hanteert ze consistent over de jaren heen.  
 
-####Begrotingskolom (model IIA en IIB)
+####Begrotingskolom (model IIA t/D)
 
 Zorg ervoor dat cijfers in de kolom *Begroting* overeenstemmen met de meerjarenbegroting die de minister heeft goedgekeurd of in geval van andere dan trendmatige wijzigingen op die begroting, de meest recente begroting. In dat laatste geval geeft u een toelichting op de wijzigingen op de oorspronkelijke begroting.  
 
@@ -804,53 +1496,57 @@ Zorg ervoor dat cijfers in de kolom *Begroting* overeenstemmen met de meerjarenb
 
 Bij deze post wordt onderscheid gemaakt tussen Opbrengsten, Subsidies en Bijdragen. Onder Subsidies worden de subsidies van overheden en publieke fondsen begrepen. Onder Bijdragen verantwoordt u de inkomsten uit private fondsen. 
 
-* Directe Opbrengsten Onder de directe opbrengsten verantwoordt u alle inkomsten die in enige relatie staan tot uw kernactiviteiten. U maakt onderscheid tussen Publieksinkomsten, Sponsorinkomsten en Overige inkomsten. *Publieksinkomsten* zijn inkomsten die direct aan de publieksactiviteiten zijn gekoppeld, zoals kaartverkoop, horeca tijdens uitvoeringen, verkoop van programma’s, beeld- of geluiddragers, vergoedingen voor radio- of televisieoptredens, uitkoopsommen, auteursrecht en eventueel overige direct aan het publiek gerelateerde inkomsten. *Sponsorinkomsten* betreffen alle inkomsten uit sponsoring door ondernemingen. Sponsoring wordt overeenkomstig de *Code Cultuursponsoring* gedefinieerd als de overeenkomst tussen een onderneming (de sponsor) die geld en/of op geld waardeerbare prestaties levert, en een culturele instelling of een organisator van een cultureel evenement (de gesponsorde), die communicatiemogelijkheden, toegangskaarten en/of overige faciliteiten als tegenprestatie levert in verband met de door de gesponsorde te verrichten culturele activiteit. Onder sponsoring wordt niet verstaan reclame. *Overige inkomsten* betreffen alle overige inkomsten die een directe relatie hebben met uw kernactiviteiten.  
+* Directe Opbrengsten Onder de directe opbrengsten verantwoordt u alle inkomsten die in enige relatie staan tot uw kernactiviteiten. U maakt onderscheid tussen Publieksinkomsten, Sponsorinkomsten en Overige inkomsten. *Publieksinkomsten* zijn inkomsten die direct aan de publieksactiviteiten zijn gekoppeld, zoals kaartverkoop, horeca tijdens uitvoeringen, verkoop van programma's, beeld- of geluiddragers, vergoedingen voor radio- of televisieoptredens, recettes, uitkoopsommen, partages, auteursrecht en eventueel overige direct aan het publiek gerelateerde inkomsten. U maakt onderscheid tussen de publieksinkomsten in het buitenland en het binnenland. Voor de laatste categorie maakt u daarbij nog een verder onderscheid. Podiumkunsteninstellingen maken een onderscheid in recettes, uitkoop en partage. Presentatie-instellingen beeldende kunst, filmfestivals, musea en sectorinstituten maken een onderscheid in publieksinkomsten kaartverkoop en publieksinkomsten overig. Als u vrijkaarten waardeert dan dient u deze onder deze post onder te brengen. In de toelichting op de exploitatierekening maakt u de hoogte van de waardering vrijkaarten apart inzichtelijk. De waardering van vrijkaarten wordt door OCW niet meegenomen in het bepalen van het percentage eigen inkomsten *Sponsorinkomsten* betreffen alle inkomsten uit sponsoring door ondernemingen. Sponsoring wordt gedefinieerd als de overeenkomst tussen een onderneming (de sponsor) die geld of een dienst levert, en een culturele instelling of een organisator van een cultureel evenement (de gesponsorde), die communicatiemogelijkheden, toegangskaarten en/of overige faciliteiten als tegenprestatie levert in verband met de door de gesponsorde te verrichten culturele activiteit. Onder sponsoring wordt niet verstaan reclame. In de toelichting op de exploitatierekening maakt u een onderscheid tussen sponsoring in financiële middelen en sponsoring in natura. De laatste categorie wordt door OCW niet meegenomen in het bepalen van het percentage eigen inkomsten. *Overige inkomsten* die een directe relatie hebben met uw kernactiviteiten en niet onder publiek- en sponsorinkomsten vallen. Dit betreft een restpost. Bedragen die u in deze post opneemt, dient u in de toelichting te specificeren en de aard daarvan dient u te omschrijven.  
 
-* Indirecte Opbrengsten Indirecte opbrengsten zijn opbrengsten die geen of slechts een indirecte relatie hebben met uw kernactiviteiten. U verantwoordt hier baten zoals verhuur onroerend goed, horeca los van voorstellingen of vergoedingen voor het uitlenen van personeel. Zie ook de opmerking onder Saldo bijzondere baten/lasten.  
+* Indirecte Opbrengsten Indirecte opbrengsten zijn opbrengsten die geen of slechts een indirecte relatie hebben met uw kernactiviteiten. Bijvoorbeeld verhuur onroerend goed, horeca los van voorstellingen of vergoedingen voor het uitlenen van personeel. U dient van elk type indirecte opbrengst het bedrag in de toelichting te noemen en de aard ervan te omschrijven. Indien u de inzet van vrijwilligers kapitaliseert dient u dit ook apart te verantwoorden in de toelichting. De kapitalisatie van de inzet van vrijwilligers wordt door OCW niet meegenomen in het bepalen van het percentage eigen inkomsten. Zie ook de opmerking onder *Saldo bijzondere baten/lasten.*  
 
-* Subsidies OCW, provincie en gemeente Vermeldt hier alle structurele subsidies die u uit deze bron ontvangt. Incidentele subsidies uit deze bron vermeldt u onder *Overige subsidies/bijdragen, Subsidies uit publieke middelen.*  
+* Subsidies OCW, provincie en gemeente Hier vermeldt u alle *structurele* subsidies die u uit deze bronnen ontvangt. Een structurele subsidie is een subsidie ten behoeve van de exploitatie voor uw voortdurende activiteiten. Dat is bijvoorbeeld de vierjaarlijkse subsidie in het kader van de BIS. Meerjarige projectsubsidies vallen hier niet onder. Deze en incidentele subsidies uit deze bronnen vermeldt u onder Overige subsidies/bijdragen, Subsidies uit publieke middelen. Orkesten vermelden in hun toelichting op de exploitatierekening het deel van de structurele subsidie dat verhoudingsgewijs bestemd is voor begeleidende activiteiten (ballet- en operabegeleidingen). Het deel kan als volgt berekend worden. Alle gerealiseerde begeleidende activiteiten om niet worden gedeeld door het totaal aan gerealiseerde uitvoeringen. Dit percentage wordt vermenigvuldigd met het totaal aan de structurele subsidies van alle overheidslagen (OCW, provincie en gemeenten). De subsidie voor begeleidende activiteiten om niet wordt door OCW niet meegenomen in het bepalen van het percentage eigen inkomsten. Musea vermelden onder ‘Onderdeel kaderregeling exploitatiesubsidies onderzoek en wetenschap’ de subsidies die zij in dit kader ontvangen.  
 
-* Overige subsidies/bijdragen Onder *Subsidies uit publieke middelen* geeft u een opsomming van alle overige subsidies, zowel van binnenlandse als buitenlandse overheden als van fondsen die subsidie ontvangen van een overheid. Bepalend is of de subsidie is verstrekt door of namens een overheid. Van het laatste is sprake als de overheid invloed heeft op de verdeling van de subsidies. Het gaat om de volgende categorieën: 
+* Structurele subsidie ander orgaan dan OCW, provincie, gemeente Hier vermeldt u alle *structurele* subsidies die u van andere ministeries dan OCW (bijvoorbeeld het ministerie van Financiën) ontvangt. Ook *structurele* bijdragen van ZBO’s zoals cultuurfondsen of ontvangen *structurele* gelden van buitenlandse overheden/publieke fondsen/arts councils vallen onder deze post. U wordt gevraagd de bijdragen van ieder orgaan apart te specificeren in de toelichting. Alle bovengenoemde structurele subsidies worden door OCW meegenomen in het bepalen van het percentage eigen inkomsten.  
 
-1. subsidies die rechtstreeks zijn verstrekt door het Rijk (ministeries, agentschappen, rijksdiensten), gemeenten, provincies of waterschappen;  
+* Overige subsidies/bijdragen Onder *Subsidies uit publieke middelen* geeft u een opsomming van alle overige niet-structurele subsidies, zowel van binnenlandse als buitenlandse overheden als van fondsen die subsidie ontvangen van een overheid. Bepalend is of de subsidie is verstrekt door of namens een overheid. Van het laatste is sprake als de overheid invloed heeft op de verdeling van de subsidies. Het gaat om de volgende categorieën: 
+
+1. subsidies die rechtstreeks zijn verstrekt door het Rijk (ministeries, agentschappen, rijksdiensten, ambassades etc.), gemeenten, provincies of waterschappen;  
 
 2. subsidies die zijn verstrekt door een zelfstandig bestuursorgaan, zoals een cultuurfonds (NFPK+, Fonds BKVB, Mondriaan Stichting, Stimuleringsfonds voor Architectuur, Nederlands Letterenfonds, Fonds voor Cultuurparticipatie, Nederlands Fonds voor de Film), een gemeentelijk of provinciaal fonds (zoals het Amsterdams Fonds voor de Kunst);  
 
 3. subsidies die zijn verstrekt door (andere) organisaties met publiekrechtelijke rechtspersoonlijkheid (zoals de Taalunie);  
 
-4. subsidies die zijn verstrekt door de Europese Unie, buitenlandse overheden of buitenlandse publieke fondsen.     Subsidie van een publiek-privaat fonds wordt verantwoord als subsidie van een publiek fonds. N.B. Loonkostensubsidies saldeert u met de loonkosten. Onder *Bijdragen uit private middelen* vermeldt u alle bijdragen van private fondsen, alsook contributies, schenkingen, donaties of legaten en bijdragen van vriendenstichtingen. Van de bijdrage die u ontvangt van het VSB-fonds maakt u een afzonderlijke vermelding onder *Bijdragen van VSB-fonds*.  
+4. subsidies die zijn verstrekt door de Europese Unie, buitenlandse overheden of buitenlandse publieke fondsen en art councils.     Subsidie van een publiek-privaat fonds wordt verantwoord als subsidie van een publiek fonds. N.B. Loonkostensubsidies saldeert u met de loonkosten. *Bijdragen uit private middelen* is onderverdeeld naar herkomst van de middelen. De volgende private partijen worden onderscheiden: particulieren, bedrijven, private fondsen en goededoelenloterijen. Onder bijdragen van private partijen waarvan particulieren verantwoordt u alle contributies, schenkingen, donaties of legaten en bijdragen van vriendenvereningen van particulieren. Deze bijdragen hoeft u verder niet te specificeren. Onder bijdragen van private partijen waarvan bedrijven verantwoordt u alle contributies, schenkingen, donaties of legaten en bijdragen van vriendenverenigingen van bedrijven. Deze bijdragen hoeft u verder niet te specificeren. Onder bijdragen van private partijen, waarvan private fondsen verantwoordt u alle bijdragen van private fondsen. U wordt gevraagd de bijdragen van ieder privaat fonds apart te specificeren in de toelichting. Voorbeelden van private fondsen zijn: VandenEnde Foundation, VSB fonds, SNS Reaalfonds, Prins Bernhard Cultuurfonds, Turing Foundation, Ammodofonds. Onder bijdragen van private partijen waaronder goede doelenloterijen verantwoordt u alle bijdragen van goededoelenloterijen zoals de Bankgiroloterij. Deze hoeft u verder niet te speciferen. Algemene opmerking ten opzichte van het boeken van baten: De minister kan besluiten bepaalde baten niet mee te nemen in de berekening van het percentage eigen inkomsten als die baten naar de aard niet als eigen inkomsten op te vatten zijn voor de toepassing van de regeling op het specifiek cultuurbeleid.  
 
 ####Lasten
 
 Onder de lasten maakt u onderscheid naar beheerslasten en activiteitenlasten. 
 
-* Beheerslasten (model IIA en IID) Tot de *Beheerslasten* worden gerekend alle personele en materiële lasten die samenhangen met het beheer van uw organisatie (overheadlasten).  
+* Beheerslasten (model IIA t/m C en IIF) Tot de *Beheerslasten* worden gerekend alle personele en materiële lasten die samenhangen met het beheer van uw organisatie (overheadlasten).  
 
-* Activiteitenlasten (model IIA en IID) Tot de *Activiteitenlasten* behoren lasten die direct samenhangen met de activiteiten van uw instelling.  
+* Activiteitenlasten (model IIA t/m C en IIF) Tot de *Activiteitenlasten* behoren lasten die direct samenhangen met de activiteiten van uw instelling.  
 
-* Saldo bijzondere baten/lasten Inkomsten die los staan van enig cultureel ondernemerschap zoals uitkeringen van verzekeringsmaatschappijen of het afboeken van een voorziening, verantwoordt u onder *Saldo bijzondere baten/lasten*. Volg daarbij de actuele Richtlijnen van de Raad voor de Jaarverslaggeving (RJ 270).    
+* Rentebaten/lasten Opbrengsten c.q. kosten die verband hebben met het ter beschikking stellen c.q. krijgen van een bepaalde geldlening. Rentebaten worden door OCW niet meegenomen in het bepalen van het percentage eigen inkomsten.  
 
-####Toelichting op model IIC – definities van museale functies
+* Saldo bijzondere baten/lasten Inkomsten die los staan van enig cultureel ondernemerschap zoals uitkeringen van verzekeringsmaatschappen, het afboeken van een voorziening (zoals een verbouwing die niet doorgaat, waardoor gereserveerde gelden vrijvallen), uitkering ziekengeld en vrijval investeringsbijdrage, vrijval reserveringen. Volg daarbij de actuele Richtlijnen van de Raad voor de Jaarverslaggeving (RJ 270). Bijzondere baten worden door OCW niet meegenomen in het bepalen van het percentage eigen inkomsten.    
 
-Naast het algemeen beheer worden er drie museale functies onderscheiden. Deze functies zijn onderverdeeld in zes taakgebieden. Hieronder treft u daarvan een korte omschrijving ten behoeve van de toerekening van baten en lasten in model IIC. 
+####Toelichting op model IIE – definities van museale functies
+
+Naast het algemeen beheer worden er drie museale functies onderscheiden. Deze functies zijn onderverdeeld in zes taakgebieden. Hieronder treft u daarvan een korte omschrijving ten behoeve van de toerekening van baten en lasten in model IIE. 
 
 * Publieksfunctie Hieronder vallen alle werkzaamheden en uitgaven die rechtstreeks te maken hebben met de taak van musea om het in het museum aanwezige cultureel erfgoed voor publiek toegankelijk te maken. Betekenis geven is daarbij het kernbegrip. 
 
-a) Vaste opstelling De vaste opstelling is dat deel van de collectie dat voor langere tijd wordt tentoongesteld en waarin binnen die termijn relatief weinig wijzigingen worden aangebracht. Alle kosten en opbrengsten die verbonden zijn aan het vormgeven, onderhouden en beheren van de vaste tentoonstelling worden aan deze functie toegerekend. Dat geldt ook voor het onderzoek, de communicatie, marketing en educatieve programma’s die ten behoeve van de ontsluiting van de vaste opstelling worden uitgevoerd. <sup> 1  De begrippen langere en kortere tijd zijn gekozen omdat dit per museum kan verschillen. Voor sommige musea is een jaar relatief lang voor een opstelling. Andere gaan uit van de eeuwigheid, een tijdelijke tentoonstelling duurt dan ongeveer vijf jaar. Ieder museum definieert deze begrippen zelf.  </sup>  
+a)  *Vaste opstelling*  De vaste opstelling is dat deel van de collectie dat voor langere tijd wordt tentoongesteld en waarin binnen die termijn relatief weinig wijzigingen worden aangebracht. Alle kosten en opbrengsten die verbonden zijn aan het vormgeven, onderhouden en beheren van de vaste tentoonstelling worden aan deze functie toegerekend. Dat geldt ook voor het onderzoek, de communicatie, marketing en educatieve programma’s die ten behoeve van de ontsluiting van de vaste opstelling worden uitgevoerd. <sup> 1  De begrippen langere en kortere tijd zijn gekozen omdat dit per museum kan verschillen. Voor sommige musea is een jaar relatief lang voor een opstelling. Andere gaan uit van de eeuwigheid, een tijdelijke tentoonstelling duurt dan ongeveer vijf jaar. Ieder museum definieert deze begrippen zelf.  </sup>  
 
-b) Tijdelijke presentaties De tijdelijke presentaties zijn alle opstellingen die voor kortere tijd worden geplaatst. Alle kosten en opbrengsten die verbonden zijn aan het ontwerpen, vormgeven, opstellen, onderhouden en beheren van tijdelijke presentaties worden aan deze functie toegeschreven. Dit is inclusief de kosten die zijn verbonden aan de voor de presentatie verkregen bruiklenen. Dat geldt ook voor het onderzoek, de communicatie, marketing en educatieve programma’s die ten behoeve van de ontsluiting van een tijdelijke presentatie worden uitgevoerd. <sup> 2  Zie voorgaande voetnoot.  </sup>     
+b)  *Tijdelijke presentaties*  De tijdelijke presentaties zijn alle opstellingen die voor kortere tijd worden geplaatst. Alle kosten en opbrengsten die verbonden zijn aan het ontwerpen, vormgeven, opstellen, onderhouden en beheren van tijdelijke presentaties worden aan deze functie toegeschreven. Dit is inclusief de kosten die zijn verbonden aan de voor de presentatie verkregen bruiklenen. Dat geldt ook voor het onderzoek, de communicatie, marketing en educatieve programma’s die ten behoeve van de ontsluiting van een tijdelijke presentatie worden uitgevoerd. <sup> 1  De begrippen langere en kortere tijd zijn gekozen omdat dit per museum kan verschillen. Voor sommige musea is een jaar relatief lang voor een opstelling. Andere gaan uit van de eeuwigheid, een tijdelijke tentoonstelling duurt dan ongeveer vijf jaar. Ieder museum definieert deze begrippen zelf.  </sup>    
 
 * Collectiefunctie Hieronder vallen alle kosten die gemaakt worden ten behoeve van het beheer van de museale collectie. 
 
-c) Registratie en onderzoek Aan deze functie worden de werkzaamheden en de kosten toegerekend die gemaakt zijn in het kader van het onderzoek aan de eigen collectie ten behoeve van registratie, restauratie en conservering. Doel is dat op elk gewenst moment eenduidig en volledig inzicht kan worden verschaft in de collectie, inclusief de kwantitatieve en kwalitatieve staat daarvan.  
+c)  *Registratie en onderzoek*  Aan deze functie worden de werkzaamheden en de kosten toegerekend die gemaakt zijn in het kader van het onderzoek aan de eigen collectie ten behoeve van registratie, restauratie en conservering. Doel is dat op elk gewenst moment eenduidig en volledig inzicht kan worden verschaft in de collectie, inclusief de kwantitatieve en kwalitatieve staat daarvan.  
 
-d) Conserveren en restaureren Aan de functie conserveren en restaureren worden al die kosten toegerekend die worden gemaakt voor het restaureren en conserveren van de collectie, zowel in de opstellingen als in depot of opslag. Ook alle kosten die worden gemaakt om de collectie kwalitatief op niveau te houden, worden toegerekend aan deze functie.  
+d)  *Conserveren en restaureren*  Aan de functie conserveren en restaureren worden al die kosten toegerekend die worden gemaakt voor het restaureren en conserveren van de collectie, zowel in de opstellingen als in depot of opslag. Ook alle kosten die worden gemaakt om de collectie kwalitatief op niveau te houden, worden toegerekend aan deze functie.  
 
-e) Verwerving en afstoten De ten behoeve van verwerving en afstoting gemaakte kosten voor werkzaamheden, transport en eventueel de aankoopsom, worden aan deze functie toegerekend.    
+e)  *Verwerving en afstoten*  De ten behoeve van verwerving en afstoting gemaakte kosten voor werkzaamheden, transport en eventueel de aankoopsom, worden aan deze functie toegerekend.    
 
 * Wetenschappelijke functie Hieronder vallen alle kosten die gemaakt worden om de door het museum beheerde collectie in de brede context van het cultureel erfgoed te positioneren. 
 
-f) Onderzoek en documentatie Aan deze functie worden de kosten toegerekend voor onderzoek dat de eigen collectie in breder verband plaatst, wetenschappelijk onderzoek in algemene zin en bijvoorbeeld de uitgave van bestandscatalogi. Ook de kosten en opbrengsten van documentatiecentrum en bibliotheek worden onder deze functie gevat.    
+f)  *Onderzoek en documentatie*  Aan deze functie worden de kosten toegerekend voor onderzoek dat de eigen collectie in breder verband plaatst, wetenschappelijk onderzoek in algemene zin en bijvoorbeeld de uitgave van bestandscatalogi. Ook de kosten en opbrengsten van documentatiecentrum en bibliotheek worden onder deze functie gevat.    
 
 * Lasten algemeen beheer Tot de lasten in de kolom *Algemeen beheer* worden gerekend alle personele en materiële lasten die samenhangen met het beheer van uw organisatie (overhead).    
 
@@ -858,17 +1554,15 @@ f) Onderzoek en documentatie Aan deze functie worden de kosten toegerekend voor 
 
 ####Algemeen
 
-Om inzicht te verwerven in de aard, omvang en bereik van uw activiteiten, specificeert u de door uw instelling verrichte activiteiten en het bereik (bezoekers, gebruikers of deelnemers) in het boekjaar volgens het voor uw instelling relevante deel van model III voor de prestatieverantwoording. Activiteitensoorten die niet in het overzicht staan vermeld, dient u toe te voegen onder *Anders, nl. .....,* zoals bijv. bij *Overige activiteiten*. Vermeld ook de resultaten uit het vorige boekjaar. In de kolom *Voorgenomen activiteiten* is het gemiddelde aantal activiteiten per jaar vermeld dat uw instelling in de periode 2009–2012 wil realiseren. Deze kolom komt overeen met het door de minister goedgekeurde prestatieoverzicht 2009–2012. Wanneer de resultaten in het boekjaar naar soort en omvang afwijken van uw planning (= kolom *Voorgenomen activiteiten*), voorziet u de verschillen van een toelichting. In het bestuursverslag geeft u een reflectie op het resultaat en ziet u vooruit naar de mogelijke consequenties voor toekomstige activiteiten.  
+Om inzicht te verwerven in de aard, omvang en bereik van uw activiteiten, specificeert u de door uw instelling verrichte activiteiten en het bereik (bezoekers, gebruikers of deelnemers) in het boekjaar volgens het voor uw instelling relevante deel van model III voor de prestatieverantwoording. Activiteitensoorten die niet in het overzicht staan vermeld, dient u toe te voegen onder *Anders, nl……,* zoals bijv. bij *Overige activiteiten*. Vermeld ook de resultaten uit het vorige boekjaar. In de kolom *Voorgenomen activiteiten* is het gemiddelde aantal activiteiten per jaar vermeld dat uw instelling in de periode 2009-2012 wil realiseren. Deze kolom komt overeen met het door de minister goedgekeurde prestatieoverzicht 2009-2012. Wanneer de resultaten in het boekjaar naar soort en omvang afwijken van uw planning (= kolom *Voorgenomen activiteiten*), voorziet u de verschillen van een toelichting. In het bestuursverslag geeft u een reflectie op het resultaat en ziet u vooruit naar de mogelijke consequenties voor toekomstige activiteiten.  
 
-### A  
-
-####Podiumkunstinstellingen
+### A  Podiumkunstinstellingen  
 
 (Toneelgezelschappen, dansgezelschappen, operagezelschappen en orkesten) 
 
 * Vermeld onder *1. Producties/programma’s* het aantal verschillende producties of programma’s voor het betreffende boekjaar en maak daarbij een onderscheid naar nieuwe producties en reprises.  
 
-* Vermeld onder *2. Voorstellingen/concerten* het totaal door uw instelling verrichte reguliere uitvoeringen.  
+* Vermeld onder *2. Voorstellingen/concerten* het totaal door uw instelling verrichte reguliereuitvoeringen.  
 
 * Vermeld onder *3. Schoolvoorstellingen/-concerten* alle besloten uitvoeringen die specifiek op scholieren zijn gericht, ongeacht de speellocatie.  
 
@@ -920,7 +1614,7 @@ Instellingen, zoals postacademiale en ontwikkelinstellingen, die niet tot een va
 
 ####Sectorinstituten
 
-Volg bij de kwantitatieve verantwoording van uw activiteiten de indeling volgens de eerder bij model IID genoemde vijf hoofdfuncties. Vermeld de specifieke activiteiten die binnen uw instituut worden verricht op de wijze zoals opgenomen in uw activiteitenplan of prestatieoverzicht. Vermeld indien mogelijk ook het bereik in termen van aantal bezoekers, gebruikers of deelnemers. 
+Volg bij de kwantitatieve verantwoording van uw activiteiten de indeling volgens de eerder bij model IIF genoemde vijf hoofdfuncties. Vermeld de specifieke activiteiten die binnen uw instituut worden verricht op de wijze zoals opgenomen in uw activiteitenplan of prestatieoverzicht. Vermeld indien mogelijk ook het bereik in termen van aantal bezoekers, gebruikers of deelnemers. 
 
 * Bij *3. Erfgoedtaken* wordt met *Verwervingsactiviteiten* gedoeld op activiteiten die bijdragen aan een duurzaam behoud van relevant sectoraal erfgoed, waaronder (het bevorderen van) aankopen (door derden) en schenkingen (aan derden).  
 

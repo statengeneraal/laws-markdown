@@ -11,48 +11,48 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-*[Vervallen]*   
+*[Vervallen]* 
 
 ### Artikel  II  
 
 ####Wijziging van de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md)
 
-Wijzigt de Ziektewet.   
+Wijzigt de Ziektewet. 
 
 ### Artikel  III  
 
 ####Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)
 
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.   
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
 
 ### Artikel  IV  
 
 ####Grondslag Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever
 
-Na de inwerkingtreding van artikel III van de Wet wijziging verrekening inkomsten met ziekengeld berust de [Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever](../../../../../../../../ministeriele-regeling/regeling/procesgang/eerste/en/tweede/ziektejaar/voor/vangnetters/zonder/etc/BWBR0022309/README.md) op [artikel 26, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/618.Na de inwerkingtreding van artikel III van de Wet wijziging verrekening inkomsten met ziekengeld berust de [Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever](../../../../../../../../ministeriele-regeling/regeling/procesgang/eerste/en/tweede/ziektejaar/voor/vangnetters/zonder/etc/BWBR0022309/README.md) op [artikel 26, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md). 
 
 ### Artikel  V  
 
 ####Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  VI  
 
 ####Citeertitel
 
-Deze wet wordt aangehaald als: Wet wijziging verrekening inkomsten met ziekengeld.  
+Deze wet wordt aangehaald als: Wet wijziging verrekening inkomsten met ziekengeld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 6 juni 2011  
 Beatrix  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 H. G. J. Kamp   
 
 de *drieëntwintigste* juni 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

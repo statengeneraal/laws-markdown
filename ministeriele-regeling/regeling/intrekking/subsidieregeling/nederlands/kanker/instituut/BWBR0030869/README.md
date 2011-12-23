@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-De [Subsidieregeling Nederlands Kanker Instituut](../../../../../../../../ministeriele-regeling/subsidieregeling/nederlands/kanker/instituut/BWBR0013432/README.md) wordt ingetrokken.  
+De [Subsidieregeling Nederlands Kanker Instituut](../../../../../../../../ministeriele-regeling/subsidieregeling/nederlands/kanker/instituut/BWBR0013432/README.md) wordt ingetrokken. 
 
 ### Artikel  II  
 
@@ -41,12 +41,12 @@ i. de jaarrekening voorzien is van een controleverklaring van een accountant als
 
 j. de jaarrekening vergezeld gaat van een rapport van feitelijke bevindingen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
-k. de controleverklaring en het rapport van feitelijke bevindingen opgesteld zijn overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld protocol.     
+k. de controleverklaring en het rapport van feitelijke bevindingen opgesteld zijn overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld protocol.    
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

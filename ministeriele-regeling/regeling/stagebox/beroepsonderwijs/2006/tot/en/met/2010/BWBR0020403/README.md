@@ -24,7 +24,7 @@ d. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld i
 
 e. Colo: de Vereniging van kenniscentra beroepsonderwijs bedrijfsleven;  
 
-f. procesmanagement: het gemeenschappelijk procesmanagement herontwerp kwalificatiestructuur/MBO, bedoeld in [artikel 1 onderdeel i van de Regeling experimenten herontwerp kwalificatiestructuur mbo 2010–2011](../../../../../../../../../../ministeriele-regeling/regeling/experimenten/herontwerp/kwalificatiestructuur/mbo/2010–2011/BWBR0027490/README.md);  
+f.  vervallen.   
 
 g. simulatieplaats: een leerplaats buiten een leerbedrijf voor de beroepspraktijkvorming, als aanloop naar een leerplaats bij een erkend leerbedrijf;  
 
@@ -40,7 +40,7 @@ a. instellingen;
 
 b. kenniscentra;  
 
-c. procesmanagement;  
+c.  vervallen.   
 
 d. Colo.    
 
@@ -82,27 +82,21 @@ c. de competentiegerichte beroepsopleidingen.
 
 De minister verstrekt per kalenderjaar aan Colo een aanvullende vergoeding als bedoeld in [artikel 2.7 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor coördinatie van de voortgang van de uitvoering van de taken door de kenniscentra, bedoeld in artikel 4, kennisuitwisseling ter zake van goede praktijkvoorbeelden en informatielevering ten behoeve van de stagemonitor.  
 
-### Artikel  6  
-
-####Aanwending aanvullende vergoeding procesmanagement
-
-De minister verstrekt per kalenderjaar aan het procesmanagement een aanvullende vergoeding, als bedoeld in [artikel 2.7 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor de voortzetting van het project ‘Vergroten kwantiteit en kwaliteit van stageplaatsen ten behoeve van competentiegericht beroepsonderwijs’ ten behoeve van de opleiding arbeidsmarktgekwalificeerd assistent.  
-
 ### Artikel  7  
 
 ####Stagemonitor
 
 1.  De resultaten van de taken van instellingen, bedoeld in artikel 3, eerste lid onderdelen a en b, en de taken van kenniscentra, bedoeld in artikel 4, eerste lid, worden opgenomen in een stagemonitor.   
-2.  Instellingen, kenniscentra, Colo en het procesmanagement verlenen medewerking aan de informatielevering voor de stagemonitor.   
+2.  Instellingen, kenniscentra en Colo verlenen medewerking aan de informatielevering voor de stagemonitor.   
 3.  De informatie, bedoeld in het tweede lid, bestaat in het jaar 2006 uit een beschrijving van de plannen en doelen voor het jaar 2006.   
-4.  De informatie, bedoeld in het tweede lid, bestaat in de jaren 2007 tot en met 2011 uit een beschrijving van de plannen en doelen voor dat jaar, de realisatie van de doelen gesteld in het vorige jaar en de factoren die bij de realisatie van de doelen bevorderend dan wel belemmerend hebben gewerkt.   
+4.  De informatie, bedoeld in het tweede lid, bestaat in de jaren 2007 tot en met 2012 uit een beschrijving van de plannen en doelen voor dat jaar, de realisatie van de doelen gesteld in het vorige jaar en de factoren die bij de realisatie van de doelen bevorderend dan wel belemmerend hebben gewerkt.   
 5.  Indien de doelen niet, of niet volledig, worden gerealiseerd, wordt daarvoor een verklaring gegeven.   
 
 ### Artikel  8  
 
 ####Vaststelling subsidieplafond
 
-Voor subsidieverstrekking op grond van deze regeling zijn voor de periode van 2008 tot en met 2011 jaarlijks de volgende bedragen beschikbaar: 
+Voor subsidieverstrekking op grond van deze regeling zijn voor de periode van 2008 tot en met 2012 jaarlijks de volgende bedragen beschikbaar: 
 
 a. voor instellingen voor de taken, genoemd in artikel 3, eerste lid, onderdelen a en b: € 26.600.000,–,  
 
@@ -120,7 +114,7 @@ a. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid
 
 b. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel b, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met de factor 0,4 wordt vermenigvuldigd.     
 2.  Bij de toepassing van het eerste lid worden de deeltijddeelnemers, bedoeld in [artikel 2.1.2 van het Uitvoeringsbesluit WEB](../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), in de beroepsopleidende leerweg buiten beschouwing gelaten.   
-3.  De aanvullende vergoeding voor het procesmanagement bedraagt € 3.000.000.   
+3.   vervallen.    
 4.  De aanvullende vergoeding voor de kenniscentra wordt berekend naar rato van de omvang van de vergoeding voor exploitatiekosten die het kenniscentrum ontvangt voor dat kalenderjaar.   
 5.  De aanvullende vergoeding voor Colo bedraagt € 75.000.   
 
@@ -129,7 +123,7 @@ b. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid
 ####Betaaltermijnen
 
 1.  De betaling van de aanvullende vergoeding vindt in het jaar 2006 plaats binnen zes weken na inwerkingtreding van deze regeling.   
-2.  De betaling van de aanvullende vergoeding in de jaren 2007 tot en met 2011 vindt plaats in maart van dat jaar.   
+2.  De betaling van de aanvullende vergoeding in de jaren 2007 tot en met 2012 vindt plaats in maart van dat jaar.   
 
 ### Artikel  11  
 
@@ -142,7 +136,7 @@ Instellingen en kenniscentra leggen jaarlijks in ieder geval via het jaarverslag
 ####Financiële verantwoording
 
 1.  De aanvullende vergoeding wordt aan instellingen en kenniscentra verstrekt als tegemoetkoming in de uitgaven die zijn verbonden aan de in deze regeling omschreven doelen.   
-2.  Middelen die zijn verstrekt aan instellingen en kenniscentra, die op 1 januari 2013 niet zijn besteed worden teruggevorderd.   
+2.  Middelen die zijn verstrekt aan instellingen en kenniscentra, die op 1 januari 2014 niet zijn besteed worden teruggevorderd.   
 3.  De aanvullende vergoeding die is verstrekt aan instellingen en kenniscentra, wordt verantwoord in de jaarrekening die betrekking heeft op het jaar of de jaarrekeningen die betrekking hebben op de jaren waarin de aanvullende vergoeding wordt ontvangen of besteed.   
 4.  De verklaring van de accountant bij de jaarrekening, bedoeld in het derde lid, omvat tevens een oordeel over de rechtmatige besteding van de aanvullende vergoeding.   
 5.  Colo dient binnen zes maanden na afloop van het boekjaar een verzoek tot subsidievaststelling in bij de minister. Het verzoek omvat een financieel verslag en een activiteitenverslag als bedoeld in [artikel 4:75 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
@@ -154,14 +148,14 @@ Instellingen en kenniscentra leggen jaarlijks in ieder geval via het jaarverslag
 
 ####Evaluatie
 
-In 2012 worden de effecten van deze regeling in de praktijk geëvalueerd.  
+In 2013 worden de effecten van deze regeling in de praktijk geëvalueerd.  
 
 ### Artikel  14  
 
 ####Inwerkingtreding en beëindiging van de regeling
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2006.   
-2.  Deze regeling vervalt met ingang van 1 februari 2013.   
+2.  Deze regeling vervalt met ingang van 1 februari 2015.   
 
 ### Artikel  15  
 

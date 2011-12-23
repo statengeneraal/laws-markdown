@@ -12,25 +12,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-– *bijlage:* de bijlage bij deze regeling;  
+–  *bijlage:* de bijlage bij deze regeling;  
 
-– *SOLAS-verdrag:* het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;  
+–  *SOLAS-verdrag:* het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;  
 
-– *vaartuig:* een vissersvaartuig als bedoeld in [artikel 1, eerste lid, van de Schepenwet](../../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md).    
+–  *vaartuig:* een vissersvaartuig als bedoeld in [artikel 1, eerste lid, van de Schepenwet](../../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md).   
 
 ### Artikel  2  
 
 ####Toepassingsbereik
 
-Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 meter die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.  
+Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 meter die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren. 
 
 ### Artikel  3  
 
 ####Benodigde medische uitrusting
 
-1.  Aan boord van een vaartuig zijn de in de tabellen 1 en 2 van de bijlage voorgeschreven geneesmiddelen, antidota, verpleeg- en verbandmiddelen, handboeken en overige benodigdheden aanwezig.   
+1.  Aan boord van een vaartuig zijn de in de tabellen 1 en 2 van de bijlage voorgeschreven geneesmiddelen, antidota, verpleeg- en verbandmiddelen, handboeken en overige benodigdheden aanwezig. De eigenaar van een schip draagt voor eigen rekening zorg voor de levering en de vernieuwing van de medische uitrusting.   
 2.  De in de kolommen A tot en met E genoemde hoeveelheden gelden voor vaartuigen met een gemonsterde bemanning tot en met 15 personen. Bij een bemanningssterkte van meer dan 15 personen, worden deze hoeveelheden voor elke volgende groep van ten hoogste 15 personen steeds met honderd procent vermeerderd, met dien verstande dat daarbij de in de tabellen vermelde maximumhoeveelheden niet behoeven te worden overschreden en voor de receptplichtige middelen ook niet mogen worden overschreden.   
-3.  In afwijking van het tweede lid behoeven bij een bemanningssterkte van 15 tot en met 24 personen de in de tabellen 1 en 2 genoemde hoeveelheden slechts met vijftig procent te worden vermeerderd. Indien de in de tabellen genoemde hoeveelheid van een middel één bedraagt, behoeft deze hoeveelheid bij een bemanningssterkte van 15 tot en met 24 personen niet te worden vermeerderd.   
+3.  In afwijking van het tweede lid behoeven bij een bemanningssterkte van 15 tot en met 24 personen de in de tabellen 1 en 2 genoemde hoeveelheden slechts met vijftig procent te worden vermeerderd. Indien de in de tabellen genoemde hoeveelheid van een middel één bedraagt, behoeft deze hoeveelheid bij een bemanningssterkte van 15 tot en met 24 personen niet te worden vermeerderd.  
 
 ### Artikel  4  
 
@@ -38,14 +38,14 @@ Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 
 
 1.  Voor vaartuigen waarmee gevaarlijke stoffen als bedoeld in hoofdstuk VII, deel A, van het SOLAS-verdrag worden vervoerd, kunnen afwijkende hoeveelheden geneesmiddelen, antidota, verpleeg- en verbandmiddelen en overige benodigdheden gelden. Deze afwijkende hoeveelheden staan in de tabellen 1 en 2 van de bijlage tussen haakjes vermeld.   
 2.  Aan boord van een vaartuig waarmee gevaarlijke stoffen als bedoeld in hoofdstuk VII van het SOLAS-verdrag worden vervoerd, is een Nederlandstalige uitgave van de bij circulaire MSC/Circ.857 van de Maritieme Veiligheidscommissie van de IMO vastgestelde Medische Eerste Hulp Gids bij ongevallen met gevaarlijke stoffen *(Medical First Aid Guide for use in accidents involving dangerous goods; MFAG)* aanwezig.   
-3.  Aan boord van vaartuigen waarop de in voorschrift V/14.3 van het SOLAS-verdrag bedoelde werktaal niet het Nederlands is, is in plaats van een Nederlandstalige uitgave een Engelstalige uitgave van de in het tweede lid bedoelde Gids aanwezig.   
+3.  Aan boord van vaartuigen waarop de in voorschrift V/14.3 van het SOLAS-verdrag bedoelde werktaal niet het Nederlands is, is in plaats van een Nederlandstalige uitgave een Engelstalige uitgave van de in het tweede lid bedoelde Gids aanwezig.  
 
 ### Artikel  5  
 
 ####Inhoud medicijnkisten aan boord van reddingboten e.d.
 
 1.  De tot de uitrusting van reddingboten, reddingvlotten en hulpverleningsboten behorende medicijnkisten, bevatten de in kolom R van de tabellen 1 en 2 van de bijlage voorgeschreven middelen.   
-2.  De in kolom R genoemde hoeveelheden gelden per 50 personen, met uitzondering van het middel tegen zeeziekte, waarvoor de per persoon benodigde hoeveelheden zijn vermeld.   
+2.  De in kolom R genoemde hoeveelheden gelden per 50 personen, met uitzondering van het middel tegen zeeziekte, waarvoor de per persoon benodigde hoeveelheden zijn vermeld.  
 
 ### Artikel  6  
 
@@ -54,24 +54,24 @@ Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 
 1.  De schipper inspecteert jaarlijks, met inachtneming van hetgeen in dit artikel is bepaald, de aan boord van het vaartuig aanwezige medische uitrusting.   
 2.  De jaarlijkse inspectie van de medische uitrusting vindt plaats voorafgaand aan de onderzoeken waaraan het vaartuig wordt onderworpen in verband met de voor dat vaartuig benodigde certificaten. De inspectie heeft geen betrekking op de in artikel 5 bedoelde medische uitrusting voor reddingvlotten.   
 3.  De schipper stelt bij de inspectie een controlelijst op met daarop de benamingen en codes van alle geneesmiddelen, verpleeg- en verbandmiddelen en antidota die ingevolge de bijlage aan boord van het vaartuig zijn vereist, en vermeldt daarbij zowel de voorgeschreven hoeveelheden als de daadwerkelijk aan boord aanwezige hoeveelheden. In voorkomend geval wordt tevens de houdbaarheidsdatum van die middelen vermeld. De controlelijst vermeldt voorts de naam, de vlag en de thuishaven van het vaartuig.   
-4.  Indien de inspectie uitwijst dat de medische uitrusting van het vaartuig in overeenstemming is met de bijlage, ondertekent de schipper de controlelijst en biedt hij deze aan de Scheepvaartinspectie of, indien het onderzoek door een krachtens [artikel 6, tweede lid, van de Schepenwet](../../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) aangewezen natuurlijke persoon of rechtspersoon wordt verricht, aan die natuurlijke persoon of rechtspersoon ter visering aan.   
+4.  Indien de inspectie uitwijst dat de medische uitrusting van het vaartuig in overeenstemming is met de bijlage, ondertekent de schipper de controlelijst en biedt hij deze aan de Scheepvaartinspectie of, indien het onderzoek door een krachtens [artikel 6, tweede lid, van de Schepenwet](../../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) aangewezen natuurlijke persoon of rechtspersoon wordt verricht, aan die natuurlijke persoon of rechtspersoon ter visering aan.  
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling medische uitrusting aan boord van Nederlandse vissersvaartuigen.  
+Deze regeling wordt aangehaald als: Regeling medische uitrusting aan boord van Nederlandse vissersvaartuigen. 
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat,
-C.M.P.S.Eurlings  
+Minister van Verkeer en Waterstaat, 
+C.M.P.S. Eurlings    
 
-### Bijlage  
+### Bijlage 
 
 ####bij de regeling medische uitrusting aan boord van nederlandse vissersvaartuigen
 
@@ -105,8 +105,8 @@ Tabel 1. Geneesmiddelen, limitatieve lijst
 | 1.1.02  | --- | RMA  | Adrenaline amp 1 mg/1 ml (voor im, iv en sc inj)  | 6  | 3  | –  | 6  | 6  | 12  | –  |
 | 1.2.02  | --- | RMA  | Isosorbide-dinitraat tabl 5 mg  | 20  | 10  | 10  | 20  | 20  | 60  | 10  |
 | 1.3.03  | --- | RMA  | Furosemide amp 40 mg/4 ml (voor im en iv inj)  | 3  [10]  | 2  [10]  | –  | 3  | 2  [10]  | 6  [20]  | –  |
-| 1.4.02  | --- | RMA  | Fytomenadion amp 10 mg/1 ml (voor im inj)  | 2 <sup>z</sup>  [10]  | 2 <sup>z</sup>  [5]  | 2 <sup>z</sup>  | 2  | 2  [5]  | 4  [15]  | 2  |
-| 1.4.03  | --- | RMA  | Oxytocine amp 5U/1 ml (voor im en iv inj)  | 6 <sup>f</sup>  | 3 <sup>f</sup>  | 3 <sup>f</sup>  | 6  | 3  | 12  | –  |
+| 1.4.02  | --- | RMA  | Fytomenadion amp 10 mg/1 ml (voor im inj)  | 2<sup>z</sup>   [10]  | 2<sup>z</sup>   [5]  | 2<sup>z</sup>   | 2  | 2  [5]  | 4  [15]  | 2  |
+| 1.4.03  | --- | RMA  | Oxytocine amp 5U/1 ml (voor im en iv inj)  | 6<sup>f</sup>   | 3<sup>f</sup>   | 3<sup>f</sup>   | 6  | 3  | 12  | 3  |
 | 1.5.02  | --- | RMA  | Metoprolol tabl 50 mg  | 30  | 10  | –  | 30  | 10  | 60  | –  |
 | 1.6.02  | --- | RMA  | Carbasalaatcalcium 100 mg of Acetylsalicylzuur tabl 80 mg  | 20  | 10  | –  | 20  | 10  | 40  | –  |
 |  *Geneesmiddelen voor het maagdarmkanaal*   |
@@ -151,15 +151,15 @@ Tabel 1. Geneesmiddelen, limitatieve lijst
 | 7.1.08  | --- | RMA  | Cefuroxim amp 750 mg + 5 ml opl (voor im inj)  | 15  | 6  | –  | 15  | 6  | 30  | –  |
 | 7.2.02  | --- | RMA  | Co-trimoxazol tabl 800+160 mg  | 30  | 10  | –  | 30  | 10  | 60  | –  |
 | 7.4.02  | --- | RMA  | Metronidazol tabl 500 mg  | 20  | 10  | –  | 20  | 10  | 50  | –  |
-| 7.4.03  | --- | RMA  | Metronidazol supp of ovule 500 mg <sup>1</sup>  | –  [10]  | –  | –  | –  | –  | –  [25]  | –  |
+| 7.4.03  | --- | RMA  | Metronidazol supp of ovule 500 mg<sup>1</sup>   | –  [10]  | –  | –  | –  | –  | –  [25]  | –  |
 | 7.5.01  | --- | RMA  | Ciprofloxacine tabl 250 mg  | 40  | 20  | –  | 40  | 20  | 100  | –  |
 | 7.6.01  | --- | RMA  | Tetanusvaccin amp 0,5 ml (voor im inj)  (KOEL BEWAREN)  | 5  | 2  | –  | 5  | 2  | 5  | –  |
 | 7.6.02  | --- | RMA  | Anti-tetanus immunoglobuline amp 250 E/2 ml (voor im inj)  (KOEL BEWAREN)  | 3  | 1  | –  | 3  | 1  | 5  | –  |
 | 7.7.01  | .t  | RMA  | Kinine sulfaat tabl/drag 200 mg  | 70  | 70  | –  | 70  | 70  | 200  | –  |
-| 7.7.02  | .t  | --- | Proguanil tabl 100 mg <sup>2</sup>  | 500  | 250  | –  | 500  | 500  | 1500  | –  |
-| 7.7.03  | .t  | --- | Chloroquinesulfaat tabl 100 mg <sup>3</sup>  | 60  | 30  | –  | 60  | 60  | 180  | –  |
+| 7.7.02  | .t  | --- | Proguanil tabl 100 mg<sup>2</sup>  | 500  | 250  | –  | 500  | 500  | 1500  | –  |
+| 7.7.03  | .t  | --- | Chloroquinesulfaat tabl 100 mg<sup>3</sup>  | 60  | 30  | –  | 60  | 60  | 180  | –  |
 | 7.7.04  | .t  | RMA  | Kininehydrochloride amp 600 mg/2 ml  (voor im inj)  | 10  | 5  | –  | 10  | 5  | 20  | –  |
-| 7.7.05  | .t  | --- | Malarone <sup>®</sup> tabl 250/100 mg <sup>4</sup>  | 250  | 125  | –  | 250  | 125  | 750  | –  |
+| 7.7.05  | .t  | --- | Malarone<sup>®</sup> tabl 250/100 mg<sup>4</sup>  | 250  | 125  | –  | 250  | 125  | 750  | –  |
 | --- | .t  | RMA  | Aqua dest amp 5 ml voor verdunnen 7.7.04  (voor im inj)  | 20  | 10  | –  | 20  | 10  | 40  | –  |
 |  *Preparaten bestemd voor rehydratie en toevoer van calorieën en plasmavervangmiddelen*   |
 | 8.1.01  | --- | --- | ORS met samenstelling vlgs WHO standaard, zakje voor de bereiding van1 liter rehydratie-vloeistof  | 18  | 6  | –  | 18  | 6  | 36  | –  |
@@ -201,9 +201,9 @@ Tabel 1. Geneesmiddelen, limitatieve lijst
 | 10.2.09  | --- | RMA  | Geactiveerde kool, poeder, flac 50 g  | –  [2]  | –  [2]  | –  | –  | –  [2]  | –  [2]  | –  |
 | 10.2.10  | --- | RMA  | Aethylacohol opl 95%, flac 500 ml  | –  [3]  | –  [1]  | –  | –  | –  [1]  | –  [3]  | –  |
 |  *Diversen*   |
-| 12.1.01  | --- | RMA  | Glucagon amp 1 mg + 1 ml opl (voor im en iv inj)  (KOEL BEWAREN)  | 2 <sup>z</sup>  | 2 <sup>z</sup>  | 2 <sup>z</sup>  | 4  | 2  | 4  | –  |
+| 12.1.01  | --- | RMA  | Glucagon amp 1 mg + 1 ml opl (voor im en iv inj)  (KOEL BEWAREN)  | 2<sup>z</sup>   | 2<sup>z</sup>   | 2<sup>z</sup>   | 4  | 2  | 4  | –  |
 
-<sup>1</sup> De bereiding en aflevering van Metronidazol zetpillen kan op praktische bezwaren stuiten. Volgens informatie van de fabrikant is het mogelijk om vaginale ovules ook rectaal te gebruiken. Ovules (Flagyl) zijn daarom een gelijkwaardig alternatief. <sup>2</sup> Te gebruiken voor de profylaxe van malaria. Zie voor verdere informatie het Geneeskundig Handboek voor de Scheepvaart. Daarnaast dient gezorgd te worden voor de meest actuele informatie over resistentiegebieden. Malarone® is in Nederland slechts geregistreerd voor gebruik tot vier weken. De betrokken zeevarende tekent bij een arts een ‘informed consent’ oftewel bewustzijnsverklaring, voor gebruik langer dan vier weken aaneengesloten. <sup>3</sup> Te gebruiken voor de profylaxe van malaria. Zie voor verdere informatie het Geneeskundig Handboek voor de Scheepvaart. Daarnaast dient gezorgd te worden voor de meest actuele informatie over resistentiegebieden. Malarone® is in Nederland slechts geregistreerd voor gebruik tot vier weken. De betrokken zeevarende tekent bij een arts een ‘informed consent’ oftewel bewustzijnsverklaring, voor gebruik langer dan vier weken aaneengesloten. <sup>4</sup> Te gebruiken voor de profylaxe van malaria. Zie voor verdere informatie het Geneeskundig Handboek voor de Scheepvaart. Daarnaast dient gezorgd te worden voor de meest actuele informatie over resistentiegebieden. Malarone® is in Nederland slechts geregistreerd voor gebruik tot vier weken. De betrokken zeevarende tekent bij een arts een ‘informed consent’ oftewel bewustzijnsverklaring, voor gebruik langer dan vier weken aaneengesloten.  Tabel 2. Verpleeg- en verbandmiddelen 
+<sup>1</sup> De bereiding en aflevering van Metronidazol zetpillen kan op praktische bezwaren stuiten. Volgens informatie van de fabrikant is het mogelijk om vaginale ovules ook rectaal te gebruiken. Ovules (Flagyl) zijn daarom een gelijkwaardig alternatief.<sup>2</sup> Te gebruiken voor de profylaxe van malaria. Zie voor verdere informatie het Geneeskundig Handboek voor de Scheepvaart. Daarnaast dient gezorgd te worden voor de meest actuele informatie over resistentiegebieden. Malarone® is in Nederland slechts geregistreerd voor gebruik tot vier weken. De betrokken zeevarende tekent bij een arts een ‘informed consent’ oftewel bewustzijnsverklaring, voor gebruik langer dan vier weken aaneengesloten.<sup>3</sup> Te gebruiken voor de profylaxe van malaria. Zie voor verdere informatie het Geneeskundig Handboek voor de Scheepvaart. Daarnaast dient gezorgd te worden voor de meest actuele informatie over resistentiegebieden. Malarone® is in Nederland slechts geregistreerd voor gebruik tot vier weken. De betrokken zeevarende tekent bij een arts een ‘informed consent’ oftewel bewustzijnsverklaring, voor gebruik langer dan vier weken aaneengesloten.<sup>4</sup> Te gebruiken voor de profylaxe van malaria. Zie voor verdere informatie het Geneeskundig Handboek voor de Scheepvaart. Daarnaast dient gezorgd te worden voor de meest actuele informatie over resistentiegebieden. Malarone® is in Nederland slechts geregistreerd voor gebruik tot vier weken. De betrokken zeevarende tekent bij een arts een ‘informed consent’ oftewel bewustzijnsverklaring, voor gebruik langer dan vier weken aaneengesloten. Tabel 2. Verpleeg- en verbandmiddelen 
 
 | Code  | Vereiste middelen  | A  | B  | C  | D  | E  | Max.  | R  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -211,7 +211,7 @@ Tabel 1. Geneesmiddelen, limitatieve lijst
 | II.1.01  | Beademingsballon reserve met masker, bij voorkeur op te bergen bij II.1.02.a  | –  [1]  | –  [1]  | –  | –  | –  [1]  | –  [1]  | –  |
 | II.1.02.a  | Zuurstofkoffer draagbaar, compleet met gebruiksaanwijzingen, inclusief 1 zuurstoffles 2 l/200 bar, reduceerventiel met flowmeter, verdeelblok met externe zuurstofaansluiting en beademingsballon met masker  | 1  | 1  | –  | 1  | 1  | 1  | –  |
 | II.1.02.b  | Zuurstoffles reserve 2 l/200 bar bij voorkeur op te bergen bij II.1.02.a  | –  [1]  | –  [1]  | –  | –  | –  [3]  | –  [3]  | –  |
-| II.1.02.c  | Zuurstoffles met zuurstof voor medische toepassing 40 l/200 bar <sup>1</sup> of verdeeld over maximaal 4 flessen die allen dezelfde kleurcodering, vuldruk en aansluiting hebben, klaar voor direct gebruik in het ziekenverblijf van het schip, met 2 flowmeters voor het toedienen van zuurstof aan 2 personen tegelijk <sup>1</sup>  | –  [1]  | –  [1]  | –  | –  | –  [1]  | –  [1]  | –  |
+| II.1.02.c  | Zuurstoffles met zuurstof voor medische toepassing 40 l/200 bar<sup>1</sup> of verdeeld over maximaal 4 flessen die allen dezelfde kleurcodering, vuldruk en aansluiting hebben, klaar voor direct gebruik in het ziekenverblijf van het schip, met 2 flowmeters voor het toedienen van zuurstof aan 2 personen tegelijk<sup>1</sup>  | –  [1]  | –  [1]  | –  | –  | –  [1]  | –  [1]  | –  |
 | II.1.03  | Afzuigeenheid mechanisch om de luchtwegen vrij te maken, bij voorkeur als onderdeel van II.1.02.a  | 1  | 1  | –  | 1  | 1  | 1  | –  |
 | II.1.04  | Brook Airway of Lifeway of equivalent  | 1  [2]  | 1  [2]  | 1  | 2  | 2  | 4  | 1  |
 | II.1.05.a  | Guedel (Mayo-tube) no 2  | –  [2]  | –  [2]  | –  | –  | –  [2]  | –  [4]  | –  |
@@ -273,10 +273,10 @@ Tabel 1. Geneesmiddelen, limitatieve lijst
 | II.5.02.a  | Druppelclysma rectaal met druppelteller, inclusief 1 catheter  | 1  | –  | –  | 1  | 1  | 2  | –  |
 | II.5.02.b  | Catheter 26 Fr voor druppelclysma rectaal  | [6]  | –  | –  | –  | –  | [12]  | –  |
 | II.5.04  | Urinezak met aansluiting op condoom  | 2  | –  | –  | 2  | 1  | 2  | –  |
-| II.5.05.a  | Injectiespuiten steriel 2 ml disposable  | 50  [100]  | 25  [50]  | 5  | 50  | 40  [50]  | 100  [200]  | –  |
+| II.5.05.a  | Injectiespuiten steriel 2 ml disposable  | 50  [100]  | 25  [50]  | 5  | 50  | 40  [50]  | 100  [200]  | 5  |
 | II.5.05.b  | Injectiespuiten steriel 5 ml disposable  | 10  | 5  [10]  | –  | 10  | 10  | 20  [20]  | –  |
 | II.5.05.c  | Injectienaalden steriel sc 16×½ mm, passend op II.5.05.a/.b  | 25  | 10  | –  | 25  | 10  | 50  | –  |
-| II.5.05.d  | Injectienaalden steriel im 40×0,8 mm, passend op II.5.05.a/.b  | 50  [100]  | 25  [50]  | 5  | 50  | 25  [50]  | 100  [200]  | –  |
+| II.5.05.d  | Injectienaalden steriel im 40×0,8 mm, passend op II.5.05.a/.b  | 50  [100]  | 25  [50]  | 5  | 50  | 25  [50]  | 100  [200]  | 5  |
 | II.5.05.e  | Vleugelnaalden steriel 1,2 te gebruiken bij inbrengen infuus  | 4  [10]  | 2  [10]  | –  | 8  | 4  [10]  | 8  [20]  | –  |
 | II.5.05.f  | Infuus systeem steriel voor 8.1.02 en 8.3.01  | 4  [10]  | 2  [10]  | –  | 8  | 4  [10]  | 8  [20]  | –  |
 | II.5.05.g  | Stuwband te gebruiken bij inbrengen infuus  | 1  [2]  | 1  [2]  | –  | 2  | 1  [2]  | 4  [4]  | –  |
@@ -296,7 +296,7 @@ Tabel 1. Geneesmiddelen, limitatieve lijst
 | II.7.04  | Dijbeenspalk Thomas  | 1  | 1  | –  | 1  | 1  | 2  | –  |
 | II.7.05  | Nekkraag Stifneck Select of equivalent: instelbaar  | 2  | 2  | –  | 2  | 2  | 4  | –  |
 | II.7.06  | Vacuumschelpmatras met voetpomp  | 1  | –  | –  | 1  | 1  | 1  | –  |
-| II.07.07  | Waar de voorgeschreven bemanning uit meer dan 3 personen bestaat: brancard <sup>2</sup>  | 1  | 1  | 1  | 2  | 2  | 2  | –  |
+| II.07.07  | Waar de voorgeschreven bemanning uit meer dan 3 personen bestaat: brancard<sup>2</sup>  | 1  | 1  | 1  | 2  | 2  | 2  | –  |
 |  *Desinfectie, insectenverdeliging, bescherming*   |
 | II.8.01  | Drinkwater desinfectiemiddel, geschikt voor menselijke consumptie, hoeveelheid voor 1 keer de totale drinkwatervoorraad aan boord  | 2  | 1  | –  | 2  | 2  | 5  | –  |
 | II.8.04  | Diëthyltoluamide (DEET) 50% insect repellent, flac 30 ml  | 30  | 15  | –  | 30  | 30  | 60  | –  |
@@ -314,4 +314,4 @@ Tabel 1. Geneesmiddelen, limitatieve lijst
 | II.9.12  | EHBO-boekje Oranje Kruis, laatste editie  | –  | –  | 1  | –  | –  | 1  | –  |
 | II.9.13  | Hersluitbare waterdichte medicijnkist, bestemd voor alle artikelen uit kolom R met inhoudsopgave en behandelingsvoorschrift gedrukt op waterbestendig materiaal.  | –  | –  | –  | –  | –  | –  | 1  |
 
-<sup>1</sup> In verband met het explosiegevaar dat zuurstof onder druk kan opleveren, geschiedt de berging van de zuurstoffles(sen) op een wijze die passend is, bij voorkeur in de buitenlucht of in een geventileerde ruimte. <sup>2</sup> De brancard heeft een raamwerk met onbuigzame ondersteunende bodem en is zodanig geconstrueerd, dat het gehele lichaam van de patiënt bescherming wordt geboden en kan worden gefixeerd, waarbij rekening is gehouden met de uiteenlopende omstandigheden waaronder de brancard moet kunnen worden gebruikt. De brancard is vervaardigd van brandvertragend materiaal en voorzien van hijsogen en banden ten behoeve van horizontaal en verticaal transport, onder andere door mangaten en vluchtluiken. 
+<sup>1</sup> In verband met het explosiegevaar dat zuurstof onder druk kan opleveren, geschiedt de berging van de zuurstoffles(sen) op een wijze die passend is, bij voorkeur in de buitenlucht of in een geventileerde ruimte.<sup>2</sup> De brancard heeft een raamwerk met onbuigzame ondersteunende bodem en is zodanig geconstrueerd, dat het gehele lichaam van de patiënt bescherming wordt geboden en kan worden gefixeerd, waarbij rekening is gehouden met de uiteenlopende omstandigheden waaronder de brancard moet kunnen worden gebruikt. De brancard is vervaardigd van brandvertragend materiaal en voorzien van hijsogen en banden ten behoeve van horizontaal en verticaal transport, onder andere door mangaten en vluchtluiken.

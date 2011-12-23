@@ -112,7 +112,7 @@ a. alleen de werkelijk gemaakte kosten komen voor vergoeding in aanmerking;
 
 b. de kosten die de instelling redelijkerwijs zelf kan dragen komen voor rekening van de instelling; en  
 
-c. vergoeding vindt plaats naar rato van het verleende subsidiebedrag in de periode 2009 tot en met 2012 in relatie tot de totale inkomsten van de instelling in die periode.     
+c. alleen kosten komen in aanmerking voor vergoeding die verband houden met de beëindiging van activiteiten waarvoor de minister in de jaren 2009 tot en met 2012 subsidie verstrekte, met dien verstande dat ingeval voor de desbetreffende activiteiten tevens een ander bestuursorgaan subsidie verstrekte en dat bestuursorgaan ook geen of minder subsidie meer verstrekt voor die activiteiten, de minister naar rato van zijn aandeel subsidie de kosten vergoedt.     
 
 ### Artikel  9  
 

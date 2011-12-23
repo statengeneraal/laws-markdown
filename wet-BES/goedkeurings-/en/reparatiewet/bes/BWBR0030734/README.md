@@ -10,58 +10,68 @@ Alzo Wij in overweging genomen hebben, dat ingevolge [artikel 20, eerste lid, va
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 07-12-2013 
 
-De Aanpassingsregeling BES-wetten BZK wordt goedgekeurd.  
+De Aanpassingsregeling BES-wetten BZK wordt goedgekeurd.
 
 ### Artikel  II  
+Materieel uitgewerkt per 07-12-2013 
 
-Wijzigt de Leerplichtwet BES.   
+Wijzigt de Leerplichtwet BES. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 07-12-2013 
 
-Wijzigt de Mediawet BES.   
+Wijzigt de Mediawet BES. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 07-12-2013 
 
-Wijzigt de Wet educatie en beroepsonderwijs BES.   
+Wijzigt de Wet educatie en beroepsonderwijs BES. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 07-12-2013 
 
-Wijzigt de Wet primair onderwijs BES.   
+Wijzigt de Wet primair onderwijs BES. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 07-12-2013 
 
-Wijzigt de Wet voortgezet onderwijs BES.   
+Wijzigt de Wet voortgezet onderwijs BES. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 07-12-2013 
 
-Wijzigt de Luchtvaartwet BES.   
+Wijzigt de Luchtvaartwet BES. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 07-12-2013 
 
-Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.   
+Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 07-12-2013 
 
-Deze wet wordt aangehaald als: Goedkeurings- en reparatiewet BES.  
+Deze wet wordt aangehaald als: Goedkeurings- en reparatiewet BES. 
 
 ### Artikel  X  
+Materieel uitgewerkt per 07-12-2013 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 17 november 2011  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. P. H. Donner   
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
 de *zesde* december 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

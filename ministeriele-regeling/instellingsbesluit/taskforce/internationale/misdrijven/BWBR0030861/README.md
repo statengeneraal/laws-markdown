@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een Taskforce internationale misdrijven, hierna te noemen: de Taskforce.  
+Er is een Taskforce internationale misdrijven, hierna te noemen: de Taskforce. 
 
 ### Artikel  2  
 
@@ -26,7 +26,7 @@ De Taskforce levert een bijdrage aan het bereiken van de volgende doelstellingen
 
 6. bevorderen van een toename van het aantal opsporingsonderzoeken en/of strafzaken – uitgevoerd door het Landelijk Parket en de Nationale Recherche – jegens plegers van internationale misdrijven;  
 
-7. identificeren en activeren van overige (rechts)middelen die dienstbaar kunnen zijn voor het verwezenlijken van de missie dat Nederland geen veilige haven mag zijn voor verdachten van deze misdrijven.    
+7. identificeren en activeren van overige (rechts)middelen die dienstbaar kunnen zijn voor het verwezenlijken van de missie dat Nederland geen veilige haven mag zijn voor verdachten van deze misdrijven.   
 
 ### Artikel  3  
 
@@ -44,7 +44,7 @@ De Taskforce heeft tot taak:
 
 * het uitwisselen van best practices te bevorderen tussen ketenpartners en in internationaal verband;  
 
-* het informeren van de Staatssecretaris van Veiligheid en Justitie, de Minister van Buitenlandse Zaken en de Minister voor Immigratie en Asiel over de voortgang van de werkzaamheden van de Taskforce, eenmaal per jaar, voorafgaand aan het opstellen van de jaarlijkse rapportagebrief internationale misdrijven.      
+* het informeren van de Staatssecretaris van Veiligheid en Justitie, de Minister van Buitenlandse Zaken en de Minister voor Immigratie en Asiel over de voortgang van de werkzaamheden van de Taskforce, eenmaal per jaar, voorafgaand aan het opstellen van de jaarlijkse rapportagebrief internationale misdrijven.     
 
 ### Artikel  4  
 
@@ -64,33 +64,33 @@ De Taskforce bestaat uit de volgende leden:
 
 − mr. T.J.M. van Oorschot, directeur Juridische Zaken van het Ministerie van Buitenlandse Zaken, agendalid; en  
 
-− mr. H.P. Heida, directeur Migratiebeleid en Besturing Vreemdelingenketen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, agendalid.    
+− mr. H.P. Heida, directeur Migratiebeleid en Besturing Vreemdelingenketen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, agendalid.   
 
 ### Artikel  5  
 
-De Taskforce wordt bijgestaan door eenambtelijk secretaris, werkzaam bij het Openbaar Ministerie, die onder toezicht van de voorzitter de dagelijkse coördinatie, de agendasamenstelling en de logistiek verzorgt.  
+De Taskforce wordt bijgestaan door eenambtelijk secretaris, werkzaam bij het Openbaar Ministerie, die onder toezicht van de voorzitter de dagelijkse coördinatie, de agendasamenstelling en de logistiek verzorgt. 
 
 ### Artikel  6  
 
-Voor zover dat voor de verwezenlijking van zijn taak noodzakelijk is, kan de Taskforce een beroep doen op deskundigen van binnen en buiten de organisaties.  
+Voor zover dat voor de verwezenlijking van zijn taak noodzakelijk is, kan de Taskforce een beroep doen op deskundigen van binnen en buiten de organisaties. 
 
 ### Artikel  7  
 
-De Taskforce wordt ingesteld voor de duur van twee jaren gerekend vanaf 1 januari 2012.  
+De Taskforce wordt ingesteld voor de duur van twee jaren gerekend vanaf 1 januari 2012. 
 
 ### Artikel  8  
 
-De archiefbescheiden van de Taskforce worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Veiligheid en Justitie.  
+De archiefbescheiden van de Taskforce worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Veiligheid en Justitie. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Taskforce internationale misdrijven.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Taskforce internationale misdrijven. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven     

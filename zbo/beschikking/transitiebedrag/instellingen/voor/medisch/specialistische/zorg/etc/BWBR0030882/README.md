@@ -4,7 +4,7 @@
 
 De Nederlandse Zorgautoriteit heeft krachtens de [paragrafen 2](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg), gelet op [artikel 35](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [artikel 50 lid 2 onder a van de Wmg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en met inachtneming van het bepaalde in de beleidsregel en de regeling ‘Transitie bekostigingsstructuur medisch specialistische zorg’ en van de onderstaande definities voor elk(e) afzonderlijk(e) 
 
-– (categorale) instelling voor medisch specialistische zorg <sup> 1  Ook bekend als: algemene ziekenhuizen en universitaire medische centra, zelfstandige revalidatiecentra, zelfstandige dialysecentra en zelfstandige radiotherapeutische instellingen.  </sup>  
+– (categorale) instelling voor medisch specialistische zorg<sup> 1 Ook bekend als: algemene ziekenhuizen en universitaire medische centra, zelfstandige revalidatiecentra, zelfstandige dialysecentra en zelfstandige radiotherapeutische instellingen. </sup>   
 
 – audiologisch centrum  
 
