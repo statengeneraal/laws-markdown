@@ -218,10 +218,9 @@ g. de werkzaamheden die noodzakelijkerwijs voortvloeien uit het verrichten van d
 
 ### Artikel  11c  
 
-1.  De toegelaten instelling vervreemdt haar woongelegenheden, indien de verkrijger daarvan geen toegelaten instelling is, slechts tegen een prijs van ten minste 90 procent van de onderhandse verkoopwaarde vrij van huur en gebruik van die woongelegenheden, met uitzondering van de gevallen, genoemd in het tweede, derde en vierde lid.   
-2.  Indien een woning in de zin van de [Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) wordt verkocht aan een eigenaar-bewoner in de zin van die wet die een eigenwoningbijdrage in de zin van die wet zal ontvangen en in die woning zijn hoofdverblijf zal hebben, vervreemdt de toegelaten instelling die woning tegen een prijs van ten minste 80 procent van de onderhandse verkoopwaarde vrij van huur en gebruik van die woning.   
-3.  Indien een bestaande woning in de zin van de [Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) wordt verkocht aan een eigenaar-bewoner in de zin van die wet die een eigenwoningbijdrage in de zin van die wet zal ontvangen en in die woning voor de verkoop reeds zijn hoofdverblijf had, vervreemdt de toegelaten instelling die woning tegen een prijs van ten minste 70 procent van de onderhandse verkoopwaarde vrij van huur en gebruik van die woning.   
-4.  Onze Minister kan op een daartoe strekkende aanvraag van een toegelaten instelling afwijking van het eerste lid toestaan in andere gevallen dan die, genoemd in het tweede en derde lid, indien het belang van de volkshuisvesting zich naar zijn oordeel niet tegen die afwijking verzet. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de aanvraag om afwijking, voor zover die afwijking betrekking heeft op de vervreemding van woongelegenheden aan natuurlijke personen die daarin hun hoofdverblijf hebben of zullen hebben.   
+1.  De toegelaten instelling vervreemdt haar woongelegenheden, indien de verkrijger daarvan geen toegelaten instelling is, slechts tegen een prijs van ten minste 90 procent van de onderhandse verkoopwaarde vrij van huur en gebruik van die woongelegenheden, met uitzondering van de gevallen, bedoeld in het tweede en derde lid.   
+2.  In bij ministeriële regeling aangegeven gevallen kan de toegelaten instelling haar woongelegenheden vervreemden tegen een lagere verkoopprijs dan die, bedoeld in het eerste lid, indien de verkrijger daarvan een natuurlijke persoon is die in die woning zijn hoofdverblijf heeft of zal hebben, en wordt voldaan aan de daarbij gestelde voorwaarden.   
+3.  Onze Minister kan op een daartoe strekkende aanvraag van een toegelaten instelling voor andere vervreemdingen van woongelegenheden als bedoeld in het eerste lid of in de in het tweede lid bedoelde ministeriële regeling, toestemming verlenen indien het belang van de volkshuisvesting zich naar zijn oordeel daartegen niet verzet. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de aanvraag om toestemming, voor zover die toestemming betrekking heeft op de vervreemding van woongelegenheden aan natuurlijke personen die daarin hun hoofdverblijf hebben of zullen hebben.   
 
 ### Artikel  11d  
 
@@ -346,7 +345,7 @@ d. die een onzelfstandige woonruimte vormen.
 
 ### Artikel  17  
 
-1.  Indien de toegelaten instelling een meerjarenplan of een stuk, genoemd in de artikelen 25a en 26, eerste, tweede en vijfde lid, opstelt, informeert zij de betrokken huurdersorganisaties en de betrokken bewonerscommissies, bedoeld in [artikel 1 van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), over deze onderwerpen.   
+1.  Indien de toegelaten instelling een meerjarenplan of een stuk, genoemd in de artikelen 25a en 26, eerste, tweede en derde lid, opstelt, informeert zij de betrokken huurdersorganisaties en de betrokken bewonerscommissies, bedoeld in [artikel 1 van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), over deze onderwerpen.   
 2.  Indien de betrokken huurdersorganisaties of de betrokken bewonerscommissies, bedoeld in [artikel 1 van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), de toegelaten instelling te kennen hebben gegeven een advies te willen geven of overleg met haar te willen voeren over de verstrekte informatie, bedoeld in het eerste lid, stelt de toegelaten instelling de betrokken huurdersorganisaties of de betrokken bewonerscommissies daartoe in de gelegenheid.   
 
 ### §  5  
@@ -418,15 +417,11 @@ De toegelaten instellingen dragen er zorg voor dat de colleges van burgemeester 
 
 ### Artikel  26  
 
-1.  De toegelaten instelling stelt jaarlijks een jaarrekening en een jaarverslag op, waarop van overeenkomstige toepassing zijn: 
+1.  De toegelaten instelling stelt jaarlijks een jaarrekening en een jaarverslag op, waarop de [afdelingen 2 tot en met 8](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [10](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [11](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [13](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [16 van titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing zijn, met dien verstande dat voor de toepassing van de artikelen van die afdelingen de leden van het orgaan, bedoeld in artikel 7, eerste lid, onderdeel b, gelijk staan aan commissarissen als bedoeld in die artikelen, en in [artikel 408, eerste lid, onderdeel e](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), voor «de in onderdeel d genoemde stukken of vertalingen» wordt gelezen «de geconsolideerde jaarrekening en het jaarverslag», alsmede met uitzondering van: 
 
-a. de [afdelingen 2 tot en met 8](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [10](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [11](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [13 van titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met dien verstande dat voor de toepassing van de artikelen van die afdelingen de leden van het orgaan, bedoeld in artikel 7, eerste lid, onderdeel b, gelijk staan aan commissarissen als bedoeld in die artikelen, en in [artikel 408, eerste lid, onderdeel e](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), voor «de in onderdeel d genoemde stukken of vertalingen» wordt gelezen «de geconsolideerde jaarrekening en het jaarverslag», alsmede met uitzondering van: 
+a. de bepalingen die gezien hun inhoud niet op verenigingen of stichtingen van toepassing kunnen zijn, en  
 
-1°. de bepalingen die gezien hun inhoud niet op verenigingen of stichtingen van toepassing kunnen zijn, en  
-
-2°. de [artikelen 361, tweede lid, eerste volzin](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), zinsnede «en de in [artikel 360 lid 3](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde stichtingen en verenigingen», [362, zesde lid, tweede volzin](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vanaf «handelsregister», zevende lid, eerste volzin en tweede volzin vanaf «omschreven», [373, vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [383a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [389, vierde en vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [390](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [391, eerste lid, tweede volzin](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vanaf «gesteld», [392, eerste lid, onderdelen a en e, en derde, vierde en vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [396, zesde, zevende en achtste lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [398, derde en vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [406, vierde tot en met zevende lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [408, eerste lid, onderdeel d](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md),   en  
-
-b. de [elfde titel van het derde boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), met dien verstande dat [artikel 999, eerste volzin](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), niet van toepassing is op de verklaring en de mededelingen, bedoeld in artikel 29, eerste lid, en met uitzondering van [artikel 999, tweede volzin](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).     
+b. de [artikelen 361, tweede lid, eerste volzin](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), zinsnede «en de in [artikel 360 lid 3](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde stichtingen en verenigingen», [362, zesde lid, tweede volzin](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vanaf «handelsregister», zevende lid, eerste volzin en tweede volzin vanaf «omschreven», achtste en negende lid, [373, vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [378, tweede tot en met vierde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [383a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [389, vierde en vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [390](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [391, eerste lid, vijfde volzin](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vanaf «gesteld», [392, eerste lid, onderdelen a en e, en derde, vierde en vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [396, zesde tot en met negende lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [398, derde en vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [406, derde tot en met vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [408, eerste lid, onderdeel d](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
 2.  De toegelaten instelling stelt jaarlijks een volkshuisvestingsverslag op, waaruit elke gemeente waar zij feitelijk werkzaam is kan afleiden welke gegevens met name op haar betrekking hebben, en dat omvat: 
 
 a. een uiteenzetting over het in het verslagjaar gevoerde beleid inzake de werkzaamheden, genoemd in artikel 11, tweede lid, onderdelen a, b en c, in welke uiteenzetting zij aannemelijk maakt, dat dit beleid voldoet aan artikel 12;  
@@ -441,26 +436,22 @@ e. een uiteenzetting over de wijze waarop zij in het verslagjaar de bewoners van
 
 f. een uiteenzetting over het in het verslagjaar gevoerde beleid en beheer op financieel gebied, in welke uiteenzetting zij aannemelijk maakt, dat dit beleid en beheer voldoet aan de artikelen 21 en 22;  
 
-g. een uiteenzetting over haar werkzaamheden in het verslagjaar aangaande het bouwen van woningen, voor zover de kosten van het verkrijgen in eigendom van die woningen hoger zijn dan of gelijk zijn aan € 200 000, in welke uiteenzetting zij aannemelijk maakt, dat die werkzaamheden hebben bijgedragen aan de beleidsresultaten, uiteengezet ingevolge de onderdelen a tot en met f;  
+g. een uiteenzetting over haar overige werkzaamheden in het verslagjaar op het gebied van de volkshuisvesting, voor zover daarover niet ingevolge het eerste lid verslag dient te worden gelegd, in welke uiteenzetting zij aannemelijk maakt, dat die werkzaamheden hebben bijgedragen aan de beleidsresultaten, uiteengezet ingevolge de onderdelen a tot en met f;  
 
-h. een uiteenzetting over haar overige werkzaamheden in het verslagjaar op het gebied van de volkshuisvesting, voor zover daarover niet ingevolge het eerste lid verslag dient te worden gelegd, in welke uiteenzetting zij aannemelijk maakt, dat die werkzaamheden hebben bijgedragen aan de beleidsresultaten, uiteengezet ingevolge de onderdelen a tot en met f;  
+h. een uiteenzetting over het door haar gevoerde overleg met de gemeenten waar zij feitelijk werkzaam is over het in die gemeenten geldende volkshuisvestingsbeleid en de daaruit voortgevloeide afspraken daarover met die gemeenten, in welke uiteenzetting zij aannemelijk maakt, dat is voldaan aan artikel 11f;  
 
-i. een uiteenzetting over het door haar gevoerde overleg met de gemeenten waar zij feitelijk werkzaam is over het in die gemeenten geldende volkshuisvestingsbeleid en de daaruit voortgevloeide afspraken daarover met die gemeenten, in welke uiteenzetting zij aannemelijk maakt, dat is voldaan aan artikel 11f;  
+i. een overzicht van en een uiteenzetting over de verbindingen met andere rechtspersonen en vennootschappen waartoe zij in het verslagjaar heeft besloten, in welke uiteenzetting zij aannemelijk maakt, dat is voldaan aan artikel 11a, tweede lid;  
 
-j. een overzicht van en een uiteenzetting over de verbindingen met andere rechtspersonen en vennootschappen waartoe zij in het verslagjaar heeft besloten, in welke uiteenzetting zij aannemelijk maakt, dat is voldaan aan artikel 11a, tweede lid;  
+j. een overzicht van haar overige activiteiten in het verslagjaar op het gebied van verbindingen met andere rechtspersonen of vennootschappen, welk overzicht een juist en volledig inzicht geeft in de werkzaamheden en de financiële situatie van die rechtspersonen en vennootschappen;  
 
-k. een overzicht van haar overige activiteiten in het verslagjaar op het gebied van verbindingen met andere rechtspersonen of vennootschappen, welk overzicht een juist en volledig inzicht geeft in de werkzaamheden en de financiële situatie van die rechtspersonen en vennootschappen;  
+k. een overzicht van haar activiteiten in het verslagjaar op het gebied van beleggingen;  
 
-l. een overzicht van haar activiteiten in het verslagjaar op het gebied van beleggingen;  
+l. een overzicht van haar onrendabele investeringen in het verslagjaar en  
 
-m. een overzicht van haar onrendabele investeringen in het verslagjaar en  
+m. een verklaring, dat zij in het verslagjaar haar middelen uitsluitend heeft besteed in het belang van de volkshuisvesting.  
 
-n. een verklaring, dat zij in het verslagjaar haar middelen uitsluitend heeft besteed in het belang van de volkshuisvesting.  
-
-o. een overzicht van de activiteiten in het kader van de uitvoeringsovereenkomst, bedoeld in [artikel 1, onderdeel c, van het Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md).     
-3.  Indien de grond waarop de woningen, bedoeld in het tweede lid, onderdeel g, worden gebouwd in erfpacht wordt verkregen, dient in de kosten van het verkrijgen in eigendom, bedoeld in dat onderdeel, per kavel voor grondkosten mede te worden begrepen een bedrag dat vergelijkbaar is met de kosten van een vergelijkbare in eigendom verkrijgbare kavel.   
-4.  Het bedrag, genoemd in het tweede lid, onderdeel g, kan bij ministeriële regeling met ingang van 1 januari van enig kalenderjaar worden gewijzigd, indien daartoe aanleiding bestaat wegens wijziging van de prijzen in verband met het bouwen van woningen.   
-5.  De toegelaten instelling stelt van haarzelf en van haar verbindingen met andere rechtspersonen en vennootschappen als bedoeld in artikel 2a, voor zover deze verbindingen betrekking hebben op onroerende zaken, jaarlijks een overzicht op met cijfermatige kerngegevens over het verslagjaar. Bij de bepaling van het aantal woongelegenheden dat de toegelaten instelling in het verslagjaar in eigendom of in beheer had, begrijpt zij steeds mede de woongelegenheden, die zij in het verslagjaar heeft verkregen als gevolg van een fusie als bedoeld in [artikel 309 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Het overzicht wordt ingericht overeenkomstig bijlage II bij dit besluit, welke bijlage bij ministeriële regeling kan worden gewijzigd.   
+n. een overzicht van de activiteiten in het kader van de uitvoeringsovereenkomst, bedoeld in [artikel 1, onderdeel c, van het Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md).     
+3.  De toegelaten instelling stelt van haarzelf en van haar verbindingen met andere rechtspersonen en vennootschappen als bedoeld in artikel 2a, voor zover deze verbindingen betrekking hebben op onroerende zaken, jaarlijks een overzicht op met verantwoordingsgegevens over het verslagjaar. Dit overzicht wordt ingericht overeenkomstig bijlage II bij dit besluit, welke bijlage bij ministeriële regeling kan worden gewijzigd.   
 
 ### Artikel  27  
 
@@ -471,11 +462,11 @@ o. een overzicht van de activiteiten in het kader van de uitvoeringsovereenkomst
 
 De toegelaten instelling laat de ingevolge artikel 27 aangewezen accountant of organisatie onderzoeken, of: 
 
-a. de jaarrekening, bedoeld in [artikel 26, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), het in [artikel 362, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vereiste inzicht geeft en voldoet aan de overige krachtens artikel 26, eerste lid, aanhef en onderdeel a, daarop van toepassing zijnde voorschriften;  
+a.  vervallen;   
 
-b. het volkshuisvestingsverslag, bedoeld in artikel 26, tweede lid, voor zover deze dat kan beoordelen overeenkomstig dat lid is opgesteld en met de jaarrekening verenigbaar is en  
+b. het jaarverslag, bedoeld in artikel 26, eerste lid, en het volkshuisvestingsverslag, bedoeld in artikel 26, tweede lid, voor zover deze dat kan beoordelen, overeenkomstig die leden zijn opgesteld en met de jaarrekening verenigbaar zijn, en  
 
-c. het overzicht, bedoeld in artikel 26, vijfde lid, in overeenstemming is met de vastgestelde jaarrekening.    
+c. het overzicht, bedoeld in artikel 26, derde lid, in overeenstemming is met de vastgestelde jaarrekening.    
 
 ### Artikel  29  
 
@@ -483,9 +474,11 @@ c. het overzicht, bedoeld in artikel 26, vijfde lid, in overeenstemming is met d
 
 a. een verklaring omtrent de getrouwheid van de jaarrekening, bedoeld in artikel 26, eerste lid;  
 
-b. een mededeling omtrent het volkshuisvestingsverslag, bedoeld in artikel 26, tweede lid, en  
+b. een mededeling omtrent het volkshuisvestingsverslag, bedoeld in artikel 26, tweede lid;  
 
-c. een mededeling omtrent het overzicht, bedoeld in artikel 26, vijfde lid.     
+c. een mededeling omtrent het overzicht, bedoeld in artikel 26, derde lid, en  
+
+d. een accountantsverslag als bedoeld in het [vierde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
 2.  De jaarrekening wordt niet vastgesteld of goedgekeurd, indien de toegelaten instelling geen kennis heeft kunnen nemen van de verklaring, bedoeld in het eerste lid, onderdeel *a*, die aan de jaarrekening moest zijn toegevoegd, tenzij onder de overige gegevens een wettige grond wordt meegedeeld waarom die verklaring ontbreekt.   
 3.  De in het eerste lid, onderdelen a, b en c, genoemde stukken worden opgesteld overeenkomstig bijlage III bij dit besluit, welke bijlage bij ministeriële regeling kan worden gewijzigd.   
 
@@ -495,11 +488,12 @@ c. een mededeling omtrent het overzicht, bedoeld in artikel 26, vijfde lid.
 
 ### Artikel  30  
 
-De toegelaten instelling doet jaarlijks voor 1 juli aan Onze Minister, aan het college van burgemeester en wethouders van de gemeente waar zij haar woonplaats heeft en van elke gemeente waar zij feitelijk werkzaam is, en aan het bestuur van het Centraal Fonds voor de Volkshuisvesting toekomen: 
+1.  De toegelaten instelling doet jaarlijks voor 1 juli aan Onze Minister, aan het college van burgemeester en wethouders van de gemeente waar zij haar woonplaats heeft en van elke gemeente waar zij feitelijk werkzaam is, en aan het bestuur van het Centraal Fonds voor de Volkshuisvesting toekomen: 
 
 a. de ingevolge artikel 26 opgestelde stukken over het aan die datum voorafgaande verslagjaar en  
 
-b. de bij die stukken behorende verklaring en mededelingen, bedoeld in artikel 29, eerste lid.    
+b. de bij die stukken behorende verklaring en mededelingen, bedoeld in artikel 29, eerste lid, onderdelen a, b en c.     
+2.  De toegelaten instelling doet jaarlijks voor 1 juli aan Onze Minister en aan het bestuur van het Centraal Fonds voor de Volkshuisvesting het accountantsverslag, bedoeld in artikel 29, eerste lid, onderdeel d, toekomen.   
 
 ### Artikel  31  
 
