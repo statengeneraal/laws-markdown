@@ -2,7 +2,7 @@
 
 ##Tariefbeschikking 5500-1900-11-1
 
-De Nederlandse Zorgautoriteit, Op grond van de [paragrafen 2](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wmg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md); Op basis van de beleidsregels orthodontie; En gelet op [artikel 35](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) jo [artikel 52, lid 5 Wmg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  *Besloten:*  dat rechtsgeldig  *door:*  
+De Nederlandse Zorgautoriteit, Op grond van de [paragrafen 2](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wmg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md); Op basis van de beleidsregels orthodontie;  En gelet op [artikel 35](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) jo [artikel 52, lid 5 Wmg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);   *Besloten:*  dat rechtsgeldig  *door:*  
 
 1. zorgaanbieders, die als tandartsspecialist in de dentomaxillaire orthopaedie staan ingeschreven in het BIG-register (orthodontisten);  
 
@@ -26,7 +26,7 @@ J.C.E. Kursten
 
 2.  *zorgaanbieders, die orthodontische zorg verlenen waarop bij of krachtens de Zvw of AWBZ aanspraak bestaat, uitgezonderd tandartsen algemeen practici,*   
 
-3. *zorgaanbieders als bedoeld in artikel 1, onder c, sub 2, van de Wmg (factormaatschappijen)*.   Op de tarieven zijn van toepassing de Inleidende Bepalingen en Algemene Bepalingen, zoals opgenomen in bijlage 3 bij deze tariefbeschikking. 
+3.  *zorgaanbieders als bedoeld in artikel 1, onder c, sub 2, van de Wmg (factormaatschappijen)*.   Op de tarieven zijn van toepassing de Inleidende Bepalingen en Algemene Bepalingen, zoals opgenomen in bijlage 3 bij deze tariefbeschikking. 
 
 ### A)  
 
@@ -62,7 +62,7 @@ J.C.E. Kursten
 | 221118  | vervaardiging voor-achterwaartse schedelröntgenfoto  | € 15,13  |
 | 221119  | beoordeling voor-achterwaartse schedelröntgenfoto  | € 42,23  |
 
-### III  
+### III 
 
 ####Behandeling
 
@@ -71,7 +71,7 @@ J.C.E. Kursten
 | CODE  | OMSCHRIJVING  | MAXIMUMTARIEF  |
 |:---|:---|:---|
 | 221120  | aanvangstoeslag vacuümgevormde apparatuur  | € 546,79  |
-| 221123  | behandelingsmaandtarief t/m 24 <sup>e</sup> behandelingsmaand  | € 33,55  |
+| 221123  | behandelingsmaandtarief t/m 24<sup>e</sup> behandelingsmaand  | € 33,55  |
 
 ####Behandeling met uitsluitend of voornamelijk uitneembare apparatuur
 
@@ -80,7 +80,7 @@ J.C.E. Kursten
 | 221130  | aanvangstoeslag uitneembare apparatuur  | € 122,44  |
 | 221131  | overgangstoeslag uitneembaar naar partieel vast  | € 362,29  |
 | 221132  | overgangstoeslag uitneembaar naar volledig vast  | € 546,79  |
-| 221133  | behandelingsmaandtarief t/m 24 <sup>e</sup> behandelingsmaand  | € 23,48  |
+| 221133  | behandelingsmaandtarief t/m 24<sup>e</sup> behandelingsmaand  | € 23,48  |
 
 ####Behandeling met partieel vaste apparatuur
 
@@ -88,14 +88,14 @@ J.C.E. Kursten
 |:---|:---|:---|
 | 221140  | aanvangstoeslag partieel vaste apparatuur  | € 362,29  |
 | 221141  | overgangstoeslag partieel vast naar volledig vast  | € 273,40  |
-| 221143  | behandelingsmaandtarief t/m 24 <sup>e</sup> behandelingsmaand  | € 26,84  |
+| 221143  | behandelingsmaandtarief t/m 24<sup>e</sup> behandelingsmaand  | € 26,84  |
 
 ####Behandeling met volledig vaste apparatuur in boven- en onderkaak
 
 | CODE  | OMSCHRIJVING  | MAXIMUMTARIEF  |
 |:---|:---|:---|
 | 221150  | aanvangstoeslag volledig vaste apparatuur  | € 546,79  |
-| 221153  | behandelingsmaandtarief t/m 24 <sup>e</sup> behandelingsmaand  | € 33,55  |
+| 221153  | behandelingsmaandtarief t/m 24<sup>e</sup> behandelingsmaand  | € 33,55  |
 
 ####Behandeling met vaste linguale apparatuur
 
@@ -103,21 +103,21 @@ J.C.E. Kursten
 |:---|:---|:---|
 | 221144  | aanvangstoeslag partieel vaste linguale apparatuur  | € 362,29  |
 | 221145  | behandelingsmaandtarief partieel vaste linguale  | --- |
-| --- | apparatuur t/m 24 <sup>e</sup> behandelingsmaand  | € 40,25  |
+| --- | apparatuur t/m 24<sup>e</sup> behandelingsmaand  | € 40,25  |
 | 221154  | overgangstoeslag partieel vaste linguale apparatuur  | --- |
 | --- | naar volledig vaste linguale apparatuur  | € 273,40  |
 | 221155  | aanvangstoeslag volledig vaste linguale apparatuur  | € 546,79  |
 | 221156  | behandelingsmaandtarief volledig vaste linguale  | --- |
-| --- | apparatuur t/m 24 <sup>e</sup> behandelingsmaand  | € 50,32  |
+| --- | apparatuur t/m 24<sup>e</sup> behandelingsmaand  | € 50,32  |
 
 ####Behandeling met vacuümgevormde, uitneembare, partieel vaste, volledig vaste én linguale apparatuur
 
 | CODE  | OMSCHRIJVING  | MAXIMUMTARIEF  |
 |:---|:---|:---|
-| 221163  | behandelingsmaandtarief 25 <sup>e</sup> behandelingsmaand en volgende  | € 23,48  |
+| 221163  | behandelingsmaandtarief 25<sup>e</sup> behandelingsmaand en volgende  | € 23,48  |
 | 221171  | behandeling met behulp van eenvoudige orthodontische apparatuur (exclusief techniekkosten)  | € 27,34  |
 
-### IV  
+### IV 
 
 ####Diversen
 
@@ -140,7 +140,7 @@ J.C.E. Kursten
 
 ####Behandeling van patiënten met (een) in ernst met schisis vergelijkbare afwijking(en)
 
-### I  
+### I   
 
 ####Consultatie en diagnostiek
 
@@ -222,7 +222,7 @@ J.C.E. Kursten
 |:---|:---|:---|
 | 221271  | behandeling met behulp van eenvoudige orthodontische apparatuur (exclusief techniekkosten)  | € 41,58  |
 
-### IV  
+### IV   
 
 ####Diversen
 
@@ -260,7 +260,7 @@ J.C.E. Kursten
 | 221407  | multidisciplinair consult (deelbaar in eenheden van vijf minuten)  | € 113,77  |
 | 221408  | prenataal consult (deelbaar in eenheden van vijf minuten)  | € 66,32  |
 
-### II  
+### II   
 
 ####Röntgenonderzoek
 
@@ -277,7 +277,7 @@ J.C.E. Kursten
 | 221418  | vervaardiging voor-achterwaartse schedelröntgenfoto  | € 23,01  |
 | 221419  | beoordeling voor-achterwaartse schedelröntgenfoto  | € 64,23  |
 
-### III  
+### III   
 
 ####Behandeling
 
@@ -374,7 +374,7 @@ De techniekkosten kunnen additioneel in rekening worden gebracht, tenzij deze ko
 
 – op welke verrichting(en) de declaratie betrekking heeft;  
 
-– op welke datum deze is (zijn) uitgevoerd respectievelijk op welke kalendermaand deze betrekking heeft (hebben).     Nota's dienen door de zorgaanbieder gewaarmerkt te zijn.  
+– op welke datum deze is (zijn) uitgevoerd respectievelijk op welke kalendermaand deze betrekking heeft (hebben).     Nota's dienen door de zorgaanbieder gewaarmerkt te zijn. 
 
 ####Algemene bepalingen
 
@@ -396,7 +396,7 @@ Voor de waarde van de verwijskaart verricht de zorgaanbieder een eenvoudig diagn
 
 – het voorschrijven van oefeningen;  
 
-– het adviseren van ouders en verzorgers.   De verwijskaart heeft een geldigheidsduur van één maand. Deze termijn vangt aan op de dag na de dag waarop de patiënt zich voor het eerst persoonlijk bij de zorgaanbieder vervoegt.  
+– het adviseren van ouders en verzorgers.   De verwijskaart heeft een geldigheidsduur van één maand. Deze termijn vangt aan op de dag na de dag waarop de patiënt zich voor het eerst persoonlijk bij de zorgaanbieder vervoegt. 
 
 ### 2  
 
@@ -410,7 +410,7 @@ Voor het tarief van het eerste consult verricht de zorgaanbieder een eenvoudig d
 
 – het voorschrijven van oefeningen;  
 
-– het adviseren van ouders en verzorgers.    
+– het adviseren van ouders en verzorgers.   
 
 ### B  
 
@@ -428,7 +428,7 @@ Voor het tarief van de herhalingskaart verricht de zorgaanbieder dezelfde werkza
 
 – het voorschrijven van oefeningen;  
 
-– het adviseren van ouders en verzorgers.   De herhalingskaart heeft een geldigheidsduur van één maand. Deze termijn gaat in op de datum van het eerste bezoek van de patiënt aan de zorgaanbieder en na afloop van de geldigheidsduur van de voorafgaande verwijs- of herhalingskaart. In een periode van twaalf aaneengesloten maanden kunnen ten hoogste vier herhalingskaarten worden gedeclareerd.  
+– het adviseren van ouders en verzorgers.   De herhalingskaart heeft een geldigheidsduur van één maand. Deze termijn gaat in op de datum van het eerste bezoek van de patiënt aan de zorgaanbieder en na afloop van de geldigheidsduur van de voorafgaande verwijs- of herhalingskaart. In een periode van twaalf aaneengesloten maanden kunnen ten hoogste vier herhalingskaarten worden gedeclareerd. 
 
 ### 2  
 
@@ -442,31 +442,31 @@ Voor het tarief van het vervolgconsult verricht de zorgaanbieder dezelfde werkza
 
 – het voorschrijven van oefeningen;  
 
-– het adviseren van ouders en verzorgers.   Het tarief voor een vervolgconsult kan niet in rekening worden gebracht voor een vervolgconsult binnen één maand na de datum waarop de patiënt zich voor het eerste consult bij de zorgaanbieder heeft vervoegd dan wel binnen één maand na de datum van een voorafgaand vervolgconsult dat in rekening is gebracht. In een periode van twaalf aaneengesloten maanden kunnen ten hoogste vier vervolgconsulten worden gedeclareerd.  
+– het adviseren van ouders en verzorgers.   Het tarief voor een vervolgconsult kan niet in rekening worden gebracht voor een vervolgconsult binnen één maand na de datum waarop de patiënt zich voor het eerste consult bij de zorgaanbieder heeft vervoegd dan wel binnen één maand na de datum van een voorafgaand vervolgconsult dat in rekening is gebracht. In een periode van twaalf aaneengesloten maanden kunnen ten hoogste vier vervolgconsulten worden gedeclareerd. 
 
 ### C  
 
 ####Controlebezoek (221103/221403)
 
-Indien tijdens een aangevangen behandeling met apparatuur wordt besloten om deze enige tijd te onderbreken en de patiënt tijdens deze onderbreking geen apparatuur draagt, kan voor een controlebezoek code 221103/221403 in rekening worden gebracht. Controlebezoeken kunnen worden gedeclareerd met een maximum van zes controlebezoeken per periode van twaalf aaneengesloten kalendermaanden en een maximum van één per maand.  
+Indien tijdens een aangevangen behandeling met apparatuur wordt besloten om deze enige tijd te onderbreken en de patiënt tijdens deze onderbreking geen apparatuur draagt, kan voor een controlebezoek code 221103/221403 in rekening worden gebracht. Controlebezoeken kunnen worden gedeclareerd met een maximum van zes controlebezoeken per periode van twaalf aaneengesloten kalendermaanden en een maximum van één per maand. 
 
 ### D  
 
 ####Second opinion (221104/221404)
 
-Voor dit tarief verricht de zorgaanbieder een eenvoudig onderzoek bij de patiënt, niet leidend tot een behandelingsplan. Het tarief is exclusief röntgenonderzoek en het maken en beoordelen van gebitsmodellen. Verder is in dit tarief begrepen de mondelinge of (indien gewenst) schriftelijke rapportage aan de patiënt en/of diens tandarts, en/of de behandelend tandarts of tandartsspecialist. Het tarief kan uitsluitend in rekening worden gebracht, als de second opinion geschiedt op verzoek van de patiënt, en deze niet in behandeling is of komt bij desbetreffende zorgaanbieder. Het tarief is niet van toepassing voor intercollegiale consultatie.  
+Voor dit tarief verricht de zorgaanbieder een eenvoudig onderzoek bij de patiënt, niet leidend tot een behandelingsplan. Het tarief is exclusief röntgenonderzoek en het maken en beoordelen van gebitsmodellen. Verder is in dit tarief begrepen de mondelinge of (indien gewenst) schriftelijke rapportage aan de patiënt en/of diens tandarts, en/of de behandelend tandarts of tandartsspecialist. Het tarief kan uitsluitend in rekening worden gebracht, als de second opinion geschiedt op verzoek van de patiënt, en deze niet in behandeling is of komt bij desbetreffende zorgaanbieder. Het tarief is niet van toepassing voor intercollegiale consultatie. 
 
 ### E  
 
 ####Multidisciplinair consult (221107/221407)
 
-Het multidisciplinair consult is het gezamenlijk consult van meerdere behandelende tandheelkundige of medische disciplines waarbij de patiënt, al of niet vergezeld door ouders of derden, voor een belangrijk deel aanwezig is. Het multidisciplinair consult wordt uitgevoerd voorafgaand aan, tijdens of na een behandeling. Doel van de gezamenlijke consultatie, voorafgaand aan de behandeling, is te komen tot een eensluidende diagnose en een op de diverse facetten van de afwijking gefaseerd behandelplan, waarbij de inbreng van de verschillende disciplines op elkaar is afgestemd. Een multidisciplinair consult tijdens of na de behandeling heeft tot doel om de voortgang van het gezamenlijke behandelplan te evalueren, waar nodig bij te stellen en het vervolg van de behandeling vanuit meerdere disciplines af te stemmen. Het tarief is inclusief het mondeling of schriftelijk overleg tussen de behandelaren, dat ontstaat naar aanleiding van de consultatie van de patiënt. Het tarief van het multidisciplinaire consult is een maximum- uurtarief. Delen van het uurtarief zijn, naar rato van de feitelijk bestede tijd, te berekenen in eenheden van 5 minuten. Het multidisciplinair consult is niet bedoeld voor regulier intercollegiaal overleg.  
+Het multidisciplinair consult is het gezamenlijk consult van meerdere behandelende tandheelkundige of medische disciplines waarbij de patiënt, al of niet vergezeld door ouders of derden, voor een belangrijk deel aanwezig is. Het multidisciplinair consult wordt uitgevoerd voorafgaand aan, tijdens of na een behandeling. Doel van de gezamenlijke consultatie, voorafgaand aan de behandeling, is te komen tot een eensluidende diagnose en een op de diverse facetten van de afwijking gefaseerd behandelplan, waarbij de inbreng van de verschillende disciplines op elkaar is afgestemd. Een multidisciplinair consult tijdens of na de behandeling heeft tot doel om de voortgang van het gezamenlijke behandelplan te evalueren, waar nodig bij te stellen en het vervolg van de behandeling vanuit meerdere disciplines af te stemmen. Het tarief is inclusief het mondeling of schriftelijk overleg tussen de behandelaren, dat ontstaat naar aanleiding van de consultatie van de patiënt. Het tarief van het multidisciplinaire consult is een maximum- uurtarief. Delen van het uurtarief zijn, naar rato van de feitelijk bestede tijd, te berekenen in eenheden van 5 minuten. Het multidisciplinair consult is niet bedoeld voor regulier intercollegiaal overleg. 
 
 ### F  
 
 ####Prenataal consult (221408)
 
-Tijdens het prenataal consult bespreekt de zorgaanbieder met de aankomende ouder(s) de bevindingen van eerder uitgevoerd prenataal diagnostisch onderzoek en de mogelijke consequenties van deze bevindingen voor het kind. Tijdens dit consult wordt reeds in algemene zin ingegaan op mogelijke latere behandelstrategieën. Het tarief van het prenataal consult is gebaseerd op de duur van het consult van 35 minuten. Het tarief van het prenataal consult is een maximum-uurtarief. Delen van het uurtarief zijn, naar rato van de feitelijk bestede tijd, te berekenen in eenheden van 5 minuten.  
+Tijdens het prenataal consult bespreekt de zorgaanbieder met de aankomende ouder(s) de bevindingen van eerder uitgevoerd prenataal diagnostisch onderzoek en de mogelijke consequenties van deze bevindingen voor het kind. Tijdens dit consult wordt reeds in algemene zin ingegaan op mogelijke latere behandelstrategieën. Het tarief van het prenataal consult is gebaseerd op de duur van het consult van 35 minuten. Het tarief van het prenataal consult is een maximum-uurtarief. Delen van het uurtarief zijn, naar rato van de feitelijk bestede tijd, te berekenen in eenheden van 5 minuten. 
 
 ####Algemene bepalingen betreffende hoofdstuk I (Beoordeling van gebitsmodellen) en hoofdstuk II (Röntgenonderzoek)
 
@@ -474,13 +474,13 @@ Tijdens het prenataal consult bespreekt de zorgaanbieder met de aankomende ouder
 
 ####Uitgebreid onderzoek
 
-Uitgebreid onderzoek verricht de zorgaanbieder aan de hand van röntgenonderzoek en/of beoordeling van gebitsmodellen in die gevallen waarin een eenvoudig diagnostisch onderzoek niet tot een verantwoorde diagnose leidt.  
+Uitgebreid onderzoek verricht de zorgaanbieder aan de hand van röntgenonderzoek en/of beoordeling van gebitsmodellen in die gevallen waarin een eenvoudig diagnostisch onderzoek niet tot een verantwoorde diagnose leidt. 
 
 ### 1  
 
 ####Röntgenonderzoek
 
-Het röntgenonderzoek kan in alle gevallen, indien van toepassing, als afzonderlijke verrichting worden gedeclareerd. In de tarieven voor röntgenonderzoek zijn alle kosten voor het vervaardigen van de röntgenfoto's begrepen, behalve met betrekking tot de codes 221115/221415, 221117/221417, 221119/221419 die uitsluitend de beoordeling van röntgenfoto's betreffen. Bij het vervaardigen en beoordelen van een orthopantomogram en/of een schedelröntgenfoto voor het opstellen van een diagnose/behandelingsplan, kan naast het tarief voor de vervaardiging van de opname (221114/221414, 221116/221416, respectievelijk 221118/221418) het tarief voor de beoordeling van de betreffende opname in rekening worden gebracht. Dit tarief (221115/221415, 221117/221417, respectievelijk 221119/221419) kan tevens separaat in rekening worden gebracht, indien het de beoordeling betreft van (een) door een derde vervaardigde röntgenfoto(’s), bijvoorbeeld bij het overnemen van een behandeling, of bij het op verzoek van een patiënt (mede) beoordelen van een gestelde diagnose en/of van een behandelingsvoorstel.  
+Het röntgenonderzoek kan in alle gevallen, indien van toepassing, als afzonderlijke verrichting worden gedeclareerd. In de tarieven voor röntgenonderzoek zijn alle kosten voor het vervaardigen van de röntgenfoto's begrepen, behalve met betrekking tot de codes 221115/221415, 221117/221417, 221119/221419 die uitsluitend de beoordeling van röntgenfoto's betreffen. Bij het vervaardigen en beoordelen van een orthopantomogram en/of een schedelröntgenfoto voor het opstellen van een diagnose/behandelingsplan, kan naast het tarief voor de vervaardiging van de opname (221114/221414, 221116/221416, respectievelijk 221118/221418) het tarief voor de beoordeling van de betreffende opname in rekening worden gebracht. Dit tarief (221115/221415, 221117/221417, respectievelijk 221119/221419) kan tevens separaat in rekening worden gebracht, indien het de beoordeling betreft van (een) door een derde vervaardigde röntgenfoto(’s), bijvoorbeeld bij het overnemen van een behandeling, of bij het op verzoek van een patiënt (mede) beoordelen van een gestelde diagnose en/of van een behandelingsvoorstel. 
 
 ### 2  
 
@@ -490,13 +490,13 @@ Het röntgenonderzoek kan in alle gevallen, indien van toepassing, als afzonderl
 
 2.2 Het tarief voor beoordeling van gebitsmodellen kan in rekening worden gebracht in die gevallen waarin nog geen behandeling met apparatuur heeft plaatsgevonden dan wel geen behandeling zal plaatsvinden. Bij reeds aangevangen behandelingen met apparatuur kan deze verrichting niet worden gedeclareerd (de vergoeding is begrepen in het behandelingsmaandtarief). In het geval dat een zorgaanbieder een door een collega aangevangen behandeling voortzet (bijvoorbeeld als gevolg van verhuizing van de patiënt) en deze zorgaanbieder een nieuwe beoordeling van gebitsmodellen geïndiceerd acht, kan − in afwijking van het hiervoor gestelde en artikel 3. hiernavolgend − het tarief voor beoordeling van gebitsmodellen eenmalig worden gedeclareerd naast het behandelingsmaandtarief.  
 
-2.3 Het tarief voor beoordeling van gebitsmodellen kan niet opnieuw worden gedeclareerd binnen een periode van twaalf maanden na een eerder gedeclareerde beoordeling van gebitsmodellen.    
+2.3 Het tarief voor beoordeling van gebitsmodellen kan niet opnieuw worden gedeclareerd binnen een periode van twaalf maanden na een eerder gedeclareerde beoordeling van gebitsmodellen.   
 
 ### 3  
 
 ####Gebitsmodellen (221105/221405)
 
-Het vervaardigen van gebitsmodellen, zonder dat tevens beoordeling daarvan (onder code 221105/221405) gedeclareerd wordt, is alleen in rekening te brengen indien dit geschiedt op verzoek van de adviserend tandarts of adviserend geneeskundige van ziektekostenverzekeraars dan wel een orgaan belast met (tucht)rechtspraak.  
+Het vervaardigen van gebitsmodellen, zonder dat tevens beoordeling daarvan (onder code 221105/221405) gedeclareerd wordt, is alleen in rekening te brengen indien dit geschiedt op verzoek van de adviserend tandarts of adviserend geneeskundige van ziektekostenverzekeraars dan wel een orgaan belast met (tucht)rechtspraak. 
 
 ####Algemene bepalingen betreffende hoofdstuk III (Behandeling met apparatuur)
 
@@ -546,29 +546,29 @@ Het vervaardigen van gebitsmodellen, zonder dat tevens beoordeling daarvan (onde
 
 13.7 onder met banden vastzittende kaakcorrectie-apparatuur wordt apparatuur zoals Herbst en MARA verstaan.  
 
-13.8 onder uitneembare apparatuur wordt verstaan: alle apparatuur die niet aan één van bovengenoemde omschrijvingen voldoet.    
+13.8 onder uitneembare apparatuur wordt verstaan: alle apparatuur die niet aan één van bovengenoemde omschrijvingen voldoet.   
 
 ####Aanvangstoeslag
 
-14. Bij aanvang van de actieve behandeling met apparatuur kan, naast het tarief van de eerste behandelingsmaand, eenmalig het tarief van de aanvangstoeslag in rekening worden gebracht (A en B-lijst). Voor de behandeling van patiënten met een cheilo- /gnatho-/palatoschisis (C-lijst) geldt dat gedurende de behandeling van de patiënt meer dan één keer het tarief van de aanvangstoeslag in rekening mag worden gebracht. Bij toepassing van vacuümgevormde apparatuur geldt de aanvangstoeslag vacuümgevormde apparatuur, bij uitneembare of voornamelijk uitneembare apparatuur geldt de aanvangstoeslag voor uitneembare apparatuur, bij partieel vaste apparatuur de aanvangstoeslag voor partieel vaste apparatuur, bij volledig vaste apparatuur de aanvangstoeslag voor volledig vaste apparatuur en bij linguale apparatuur de aanvangstoeslag voor partieel vaste linguale apparatuur of volledig vaste linguale apparatuur.    
+14. Bij aanvang van de actieve behandeling met apparatuur kan, naast het tarief van de eerste behandelingsmaand, eenmalig het tarief van de aanvangstoeslag in rekening worden gebracht (A en B-lijst). Voor de behandeling van patiënten met een cheilo- /gnatho-/palatoschisis (C-lijst) geldt dat gedurende de behandeling van de patiënt meer dan één keer het tarief van de aanvangstoeslag in rekening mag worden gebracht. Bij toepassing van vacuümgevormde apparatuur geldt de aanvangstoeslag vacuümgevormde apparatuur, bij uitneembare of voornamelijk uitneembare apparatuur geldt de aanvangstoeslag voor uitneembare apparatuur, bij partieel vaste apparatuur de aanvangstoeslag voor partieel vaste apparatuur, bij volledig vaste apparatuur de aanvangstoeslag voor volledig vaste apparatuur en bij linguale apparatuur de aanvangstoeslag voor partieel vaste linguale apparatuur of volledig vaste linguale apparatuur.   
 
 ####Overgangstoeslag
 
 15. Bij overgang van uitneembare apparatuur naar partieel vaste apparatuur kan naast het behandelingsmaandtarief eenmalig het tarief van de desbetreffende overgangstoeslag gedeclareerd worden (code 221131 of 221231, A en B-lijst). Bij overgang van uitneembare apparatuur naar volledig vaste apparatuur kan naast het behandelingsmaandtarief eenmalig het tarief van de desbetreffende overgangstoeslag gedeclareerd worden (code 221132 of 221232; A en B-lijst). Bij overgang van partieel vaste apparatuur naar volledig vaste apparatuur kan naast het behandelingsmaandtarief eenmalig het tarief van de desbetreffende overgangstoeslag gedeclareerd worden (code 221141 of 221241; A en B-lijst). Voor de behandeling van patiënten met een cheilo-/gnatho-//palatoschisis (C-lijst) geldt dat gedurende de behandeling van de patiënt meer dan één keer het tarief van de betreffende overgangstoeslag in rekening mag worden gebracht. Voor vacuümgevormde apparatuur mag geen overgangstoeslag in rekening worden gebracht.  
 
-16. De overgangstoeslag wordt gedeclareerd in combinatie met het behandelingsmaandtarief voor de vervangende apparatuur in de kalendermaand, waarin de vervangende apparatuur wordt geplaatst, echter de behandelmaandtelling wordt van de vervangen apparatuur op de vervangende apparatuur voortgezet. Het behandelingsmaandtarief voor een bepaalde apparatuur kan uitsluitend in rekening worden gebracht in combinatie met, of na declaratie van, de aanvangstoeslag of overgangstoeslag voor die apparatuur.    
+16. De overgangstoeslag wordt gedeclareerd in combinatie met het behandelingsmaandtarief voor de vervangende apparatuur in de kalendermaand, waarin de vervangende apparatuur wordt geplaatst, echter de behandelmaandtelling wordt van de vervangen apparatuur op de vervangende apparatuur voortgezet. Het behandelingsmaandtarief voor een bepaalde apparatuur kan uitsluitend in rekening worden gebracht in combinatie met, of na declaratie van, de aanvangstoeslag of overgangstoeslag voor die apparatuur.   
 
 ####Aanvangstoeslag/overgangstoeslag
 
-17. Binnen een periode van drie maanden kan slechts één aanvangstoeslag of overgangstoeslag worden gedeclareerd (A en B-lijst). Voor de behandeling van patiënten met een cheilo-/gnatho-/palatoschisis (C-lijst) geldt dat gedurende een periode van drie maanden meer dan één keer het tarief van de betreffende aanvangstoeslag en/of overgangstoeslag in rekening mag worden gebracht.    
+17. Binnen een periode van drie maanden kan slechts één aanvangstoeslag of overgangstoeslag worden gedeclareerd (A en B-lijst). Voor de behandeling van patiënten met een cheilo-/gnatho-/palatoschisis (C-lijst) geldt dat gedurende een periode van drie maanden meer dan één keer het tarief van de betreffende aanvangstoeslag en/of overgangstoeslag in rekening mag worden gebracht.   
 
 ####Eenvoudige apparatuur
 
-18. Het tarief voor toepassing van eenvoudige apparatuur volgens codenummer 221171, 221271 of 221471 kan binnen een periode van twaalf maanden slechts eenmalig in rekening worden gebracht. Het tarief geldt als vergoeding voor de vervaardiging en plaatsing van de apparatuur alsmede het geven van instructies omtrent het gebruik. Naast dit tarief kunnen geen behandelingsmaandtarieven en/of -toeslagen worden gedeclareerd. Het bedrag is exclusief techniekkosten.    
+18. Het tarief voor toepassing van eenvoudige apparatuur volgens codenummer 221171, 221271 of 221471 kan binnen een periode van twaalf maanden slechts eenmalig in rekening worden gebracht. Het tarief geldt als vergoeding voor de vervaardiging en plaatsing van de apparatuur alsmede het geven van instructies omtrent het gebruik. Naast dit tarief kunnen geen behandelingsmaandtarieven en/of -toeslagen worden gedeclareerd. Het bedrag is exclusief techniekkosten.   
 
 ####Mondbeschermer
 
-19. Het tarief van een mondbeschermer geldt als vergoeding voor de vervaardiging en plaatsing van een mondbeschermer, alsmede het geven van instructie omtrent het gebruik, tijdens behandeling met orthodontische apparatuur. Het bedrag is exclusief techniekkosten.    
+19. Het tarief van een mondbeschermer geldt als vergoeding voor de vervaardiging en plaatsing van een mondbeschermer, alsmede het geven van instructie omtrent het gebruik, tijdens behandeling met orthodontische apparatuur. Het bedrag is exclusief techniekkosten.   
 
 ####Algemene bepalingen betreffende hoofdstuk IV (Diversen)
 
@@ -582,7 +582,7 @@ De kosten van vervanging van apparatuur zijn begrepen in het tarief voor behande
 
 2. de kosten van vervanging, omdat de patiënt zich niet tijdig volgens afspraak bij de zorgaanbieder heeft vervoegd;  
 
-3. de kosten van vervanging van apparatuur die als gevolg van duidelijk onzorgvuldig gebruik zodanig is beschadigd dat reparatie niet meer mogelijk is.   In genoemde gevallen kan de zorgaanbieder het tarief voor vervanging van apparatuur in rekening brengen, vermeerderd met de bijbehorende techniekkosten.  
+3. de kosten van vervanging van apparatuur die als gevolg van duidelijk onzorgvuldig gebruik zodanig is beschadigd dat reparatie niet meer mogelijk is.   In genoemde gevallen kan de zorgaanbieder het tarief voor vervanging van apparatuur in rekening brengen, vermeerderd met de bijbehorende techniekkosten. 
 
 ### B  
 
@@ -592,17 +592,17 @@ De kosten van vervanging van apparatuur zijn begrepen in het tarief voor behande
 
 ####Reparatie van uitneembare apparatuur
 
-De kosten van reparatie van uitneembare apparatuur zijn begrepen in het tarief voor behandeling met apparatuur, met uitzondering van de kosten van reparatie die het gevolg zijn van duidelijk onzorgvuldig gebruik door de patiënt. In dat geval kan de zorgaanbieder het tarief voor reparatie van apparatuur in rekening brengen, vermeerderd met de bijbehorende techniekkosten.  
+De kosten van reparatie van uitneembare apparatuur zijn begrepen in het tarief voor behandeling met apparatuur, met uitzondering van de kosten van reparatie die het gevolg zijn van duidelijk onzorgvuldig gebruik door de patiënt. In dat geval kan de zorgaanbieder het tarief voor reparatie van apparatuur in rekening brengen, vermeerderd met de bijbehorende techniekkosten. 
 
 ### 2  
 
 ####Reparatie van vaste apparatuur
 
-De kosten van reparatie van vaste apparatuur zijn begrepen in het tarief voor behandeling met apparatuur, met uitzondering van de kosten van reparaties in die gevallen waarin bij een patiënt sprake is van duidelijk aanwijsbare en met grote regelmaat plaatsvindende beschadiging van apparatuur of als gevolg van duidelijke opzet. In dat geval kan de zorgaanbieder het tarief voor reparatie van apparatuur in rekening brengen, vermeerderd met de bijbehorende techniekkosten.  
+De kosten van reparatie van vaste apparatuur zijn begrepen in het tarief voor behandeling met apparatuur, met uitzondering van de kosten van reparaties in die gevallen waarin bij een patiënt sprake is van duidelijk aanwijsbare en met grote regelmaat plaatsvindende beschadiging van apparatuur of als gevolg van duidelijke opzet. In dat geval kan de zorgaanbieder het tarief voor reparatie van apparatuur in rekening brengen, vermeerderd met de bijbehorende techniekkosten. 
 
 ### C  
 
-####mandibulair repositie apparaat (mra)
+#### mandibulair repositie apparaat (mra)
 
 1. Onder een Mandibulair Repositie Apparaat (MRA) wordt verstaan: Een apparaat waarmee de onderkaak gedwongen van positie verandert met als doel de bovenste luchtwegen te verruimen en/of snurken te beperken.  
 
@@ -624,5 +624,5 @@ De kosten van reparatie van vaste apparatuur zijn begrepen in het tarief voor be
 
 6. In het geval het MRA gemaakt wordt vanwege OSAS (Obstructief Slaap Apneu Syndroom) zal multidisciplinaire diagnostiek tot de indicatie MRA-behandeling hebben geleid. Voor de keuze van een type MRA kan het noodzakelijk zijn om aanvullend onderzoek te doen. Dit aanvullend onderzoek kan apart in rekening worden gebracht met behulp van de prestatiebeschrijvingen uit hoofdstuk I Consultatie en diagnostiek en hoofdstuk II Röntgenonderzoek.  
 
-7. In het geval er voor het repareren van het MRA (codes 221192/221292/221492) opnieuw moet worden geregistreerd, is het vervaardigen en declareren van een nieuwe MRA mogelijk (codes 221190/221290/221490 plus techniekkosten).    
+7. In het geval er voor het repareren van het MRA (codes 221192/221292/221492) opnieuw moet worden geregistreerd, is het vervaardigen en declareren van een nieuwe MRA mogelijk (codes 221190/221290/221490 plus techniekkosten).   
 

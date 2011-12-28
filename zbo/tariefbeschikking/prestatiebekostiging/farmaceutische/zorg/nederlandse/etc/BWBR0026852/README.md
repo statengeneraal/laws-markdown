@@ -7,5 +7,5 @@ De Nederlandse Zorgautoriteit, heeft krachtens de [paragrafen 2](../../../../../
 Hoogachtend, 
 
 Nederlandse Zorgautoriteit, 
-M.S.Mulder,
-directeur Zorgmarkten Cure.   
+M.S. Mulder,  
+directeur Zorgmarkten Cure.    

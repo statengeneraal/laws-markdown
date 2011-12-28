@@ -2,7 +2,7 @@
 
 ##Regeling Tariefbeschikking Overige producten GGZ Zvw
 
-De Nederlandse Zorgautoriteit,    heeft krachtens de [paragrafen 2](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wmg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md)  *op basis van de beleidsregel:*  Beleidsregel overige producten GGZ Zvw  *en gelet op:*  [artikel 35](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) jo. [52, vijfde lid, van de Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg)  *ambtshalve besloten:*  dat met ingang van 1 januari 2010 rechtsgeldig  *door:*  
+De Nederlandse Zorgautoriteit,    heeft krachtens de [paragrafen 2](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wmg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md)  *op basis van de beleidsregel:*  Beleidsregel overige producten GGZ Zvw  *en gelet op:*  [artikel 35](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) jo.[52, vijfde lid, van de Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg)  *ambtshalve besloten:*  dat met ingang van 1 januari 2010 rechtsgeldig  *door:*  
 
 – vrijgevestigde zorgaanbieders die curatieve geestelijke gezondheidszorg (GGZ) als bedoeld in de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) (Zvw) leveren, voor zover deze zijn ingeschreven in een Big-register;  
 
@@ -27,8 +27,8 @@ Ingevolge [artikel 105 van de Wet marktordening gezondheidszorg](../../../../../
 Hoogachtend, 
 
 Nederlandse Zorgautoriteit, 
-M.S.Mulder
-directeur Zorgmarkten Cure  
+M.S. Mulder 
+directeur Zorgmarkten Cure   
 
 ### Bijlage  1  
 
@@ -43,7 +43,7 @@ directeur Zorgmarkten Cure
 | 119015  | Onderzoek en rapportage ter beoordeling van de gezondheid in verband met verplichtingen uit levensverzekeringen en particuliere inkomensverzekeringen;   *op verzoek van*   1. verzekeringsmaatschappijen;  2. arbodiensten;  3. verzekeringnemer/verzekerde of diens vertegenwoordiger;   *welke in rekening worden gebracht aan*   de verzoeker.  | € 340,12  |
 | 119018  | Onderzoek en rapportage ter beoordeling van de gezondheid in verband met de uitvoering van sociale zekerheidswetgeving;   *op verzoek van*   1. het orgaan dat is belast met de uitvoering van sociale zekerheidswetgeving;  2. arbodiensten;  3. de betrokkene, of diens vertegenwoordiger   *welke in rekening worden gebracht aan*   de verzoeker.  | € 272,71  |
 | 119020  | Keuring en rapportage ter beoordeling van de gezondheid in verband met de rijvaardigheid;   *op verzoek van*   het Centraal Bureau Rijvaardigheidsbewijzen (CBR)   *welke in rekening worden gebracht aan*   de te keuren persoon (de houder of aanvrager van het rijbewijs).  | € 189,35  |
-| 119021  | Keuring en rapportage ter beoordeling van de gezondheid in verband met de rijvaardigheid;  o *p verzoek van*  de politie   *welke in rekening worden gebracht aan*   het Centraal Bureau Rijvaardigheidsbewijzen (CBR)  | € 302,04  |
+| 119021  | Keuring en rapportage ter beoordeling van de gezondheid in verband met de rijvaardigheid;  o*p verzoek van*   de politie   *welke in rekening worden gebracht aan*   het Centraal Bureau Rijvaardigheidsbewijzen (CBR)  | € 302,04  |
 | 119034  | Uitgebreid onderzoek en rapportage ter beoordeling van de gezondheid in verband met behandeling van sociale zekerheidsgeschillen door rechtbanken, alsmede institutionele geschillencommissies/beroepsinstanties en hun hoger beroepsinstanties.   *op verzoek van*   1. de rechtsprekende instantie;  2. de partijen in het geschil;   *welke in rekening worden gebracht aan*   verzoeker  | € 340,12  |
 | 119035  | Beperkt onderzoek en rapportage ter beoordeling van de gezondheid in verband met behandeling van sociale zekerheidsgeschillen door rechtbanken en Centrale Raad van Beroep, alsmede institutionele geschillencommissies/beroepsinstanties en hun hoger beroepsinstanties.   *op verzoek van*   3. de rechtsprekende instantie;  4. de partijen in het geschil;   *welke in rekening worden gebracht aan*   verzoeker  | € 135,84  |
 | 119047  | Spreekuur per klokuur voor medewerkers van organen die op grond van hun wettelijke taak of statuten zorggerelateerde hulpverlening bieden, doch die niet kunnen worden aangemerkt als zorgaanbieder in de zin van de [Wmg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (bijv. scholen voor speciaal onderwijs, bureaus voor alcoholisme)   *op verzoek van*   de hulpverlenende instantie   *in rekening te brengen aan*   verzoeker  | € 44,25  |

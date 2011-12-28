@@ -24,8 +24,8 @@ De Nederlandse Zorgautoriteit heeft krachtens de [paragrafen 2](../../../../../.
 | K304  | per uur Beg. Speciaal 2 (auditief)  | 01-01-2011  | € 97,66  |
 | K107  | per Transfer/indicatiestelling  | 01-01-2011  | € 102,10  |
 
-*declaratievoorschriften:*  Declaratie van de maximum uurtarieven vindt plaats op basis van directe contacturen bij de cliënt. De tarieven zijn inclusief BTW-kosten maar exclusief de BTW-heffing en -afdracht door de zorgaanbieder. Met de afgifte van deze tariefbeschikking wordt de geldigheidsduur van de geldende tariefbeschikking beperkt tot de ingangsdatum van deze tariefbeschikking.    
+*declaratievoorschriften:*  Declaratie van de maximum uurtarieven vindt plaats op basis van directe contacturen bij de cliënt. De tarieven zijn inclusief BTW-kosten maar exclusief de BTW-heffing en -afdracht door de zorgaanbieder.Met de afgifte van deze tariefbeschikking wordt de geldigheidsduur van de geldende tariefbeschikking beperkt tot de ingangsdatum van deze tariefbeschikking.    
 
-De Raad van Bestuur van de Nederlandse Zorgautoriteit,
-H.Lagerwaard,
-directeur Zorgmarkten Care.   
+De Raad van Bestuur van de Nederlandse Zorgautoriteit, 
+H. Lagerwaard,  
+directeur Zorgmarkten Care.    

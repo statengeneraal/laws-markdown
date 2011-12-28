@@ -15,29 +15,29 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder: 
 
-a. *minister:* de minister van Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* de minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+b.  *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+c.  *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-d. *aanwijzing transitiemodel:* de [Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3072825, van 29 juli 2011 inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012 (Stcrt. 2011, 13950)](../../../../../../../../ministeriele-regeling/aanwijzing/transitiemodel/prestatiebekostiging/medisch/specialistische/etc/BWBR0030318/README.md);  
+d.  *aanwijzing transitiemodel:* de [Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3072825, van 29 juli 2011 inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012 (Stcrt. 2011, 13950)](../../../../../../../../ministeriele-regeling/aanwijzing/transitiemodel/prestatiebekostiging/medisch/specialistische/etc/BWBR0030318/README.md);  
 
-e. *transitiemodel prestatiebekostiging:* het transitiemodel geschetst in de aanwijzing transitiemodel;  
+e.  *transitiemodel prestatiebekostiging:* het transitiemodel geschetst in de aanwijzing transitiemodel;  
 
-f. *transitiebedrag:* bedrag als bedoeld in [artikel 5 van de aanwijzing transitiemodel](../../../../../../../../ministeriele-regeling/aanwijzing/transitiemodel/prestatiebekostiging/medisch/specialistische/etc/BWBR0030318/README.md);  
+f.  *transitiebedrag:* bedrag als bedoeld in [artikel 5 van de aanwijzing transitiemodel](../../../../../../../../ministeriele-regeling/aanwijzing/transitiemodel/prestatiebekostiging/medisch/specialistische/etc/BWBR0030318/README.md);  
 
-g. *verrekenbedrag:* bedrag als bedoeld in [artikel 6 van de aanwijzing transitiemodel](../../../../../../../../ministeriele-regeling/aanwijzing/transitiemodel/prestatiebekostiging/medisch/specialistische/etc/BWBR0030318/README.md);  
+g.  *verrekenbedrag:* bedrag als bedoeld in [artikel 6 van de aanwijzing transitiemodel](../../../../../../../../ministeriele-regeling/aanwijzing/transitiemodel/prestatiebekostiging/medisch/specialistische/etc/BWBR0030318/README.md);  
 
-h. *aanwijzing overgangsregeling kapitaallasten:* de [Aanwijzing inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen van 22 juni 2010 (Stcrt. 2010, nr. 10255)](../../../../../../../../ministeriele-regeling/aanwijzing/ex/artikel/7/wet/marktordening/gezondheidszorg/etc/BWBR0027853/README.md);  
+h.  *aanwijzing overgangsregeling kapitaallasten:* de [Aanwijzing inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen van 22 juni 2010 (Stcrt. 2010, nr. 10255)](../../../../../../../../ministeriele-regeling/aanwijzing/ex/artikel/7/wet/marktordening/gezondheidszorg/etc/BWBR0027853/README.md);  
 
-i. *overgangsregeling kapitaallasten:* de overgangsregeling kapitaallasten als bedoeld in de aanwijzing overgangsregeling kapitaallasten.    
+i.  *overgangsregeling kapitaallasten:* de overgangsregeling kapitaallasten als bedoeld in de aanwijzing overgangsregeling kapitaallasten.   
 
 ### Artikel  2  
 
 ####opdrachtverlening
 
-De zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsregels en regels vast.  
+De zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsregels en regels vast. 
 
 ### Hoofdstuk  II  
 
@@ -47,14 +47,14 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsregels en rege
 
 ####werkingssfeer
 
-Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) welke wordt geleverd door instellingen als bedoeld in [artikel 3 van de aanwijzing transitiemodel](../../../../../../../../ministeriele-regeling/aanwijzing/transitiemodel/prestatiebekostiging/medisch/specialistische/etc/BWBR0030318/README.md).  
+Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) welke wordt geleverd door instellingen als bedoeld in [artikel 3 van de aanwijzing transitiemodel](../../../../../../../../ministeriele-regeling/aanwijzing/transitiemodel/prestatiebekostiging/medisch/specialistische/etc/BWBR0030318/README.md). 
 
 ### Artikel  4  
 
 ####garantie kapitaallasten na transitiemodel
 
 1.  De overgangsregeling kapitaallasten blijft ongewijzigd van kracht en wordt separaat van het transitiemodel prestatiebekostiging toegepast.   
-2.  De zorgautoriteit voert de overgangsregeling kapitaallasten uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in artikel 3 behouden na de vaststelling van het verrekenbedrag.   
+2.  De zorgautoriteit voert de overgangsregeling kapitaallasten uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in artikel 3 behouden na de vaststelling van het verrekenbedrag.  
 
 ### Hoofdstuk  III  
 
@@ -64,7 +64,7 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 ####werkingssfeer
 
-Dit hoofdstuk is van toepassing op zorg of dienst als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) welke wordt geleverd door zelfstandige revalidatiecentra, radiotherapeutische centra en dialysecentra.  
+Dit hoofdstuk is van toepassing op zorg of dienst als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) welke wordt geleverd door zelfstandige revalidatiecentra, radiotherapeutische centra en dialysecentra. 
 
 ### Artikel  6  
 
@@ -94,20 +94,20 @@ a. een suppletie wordt toegekend als de kapitaallastenvergoeding onder het nieuw
 
 b. de afschrijving van eventuele resterende boekwaarden van buiten gebruik gestelde gebouwen zal regulier met het thans toepasselijke jaarlijkse afschrijvingspercentage van de aanschafwaarde tot uiterlijk 1 januari 2017 in de garantie meelopen (bouw 2%, verbouwingen uit trekkingsrechten 5%);  
 
-c. indien budgetbekostiging later dan met ingang van 2012 wordt beëindigd, blijft de ingangsdatum en einddatum van de regeling ongewijzigd.    
+c. indien budgetbekostiging later dan met ingang van 2012 wordt beëindigd, blijft de ingangsdatum en einddatum van de regeling ongewijzigd.   
 
 ### Artikel  8  
 
 ####samenloop transitiemodel
 
 1.  De overgangsregeling kapitaallasten als bedoeld in artikel 6 wordt separaat van het transitiemodel prestatiebekostiging voor de instellingen als bedoeld in artikel 5 toegepast.   
-2.  De zorgautoriteit voert de overgangsregeling kapitaallasten als bedoeld in artikel 6 uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in artikel 5 behouden nà de vaststelling en de verrekening van het verrekenbedrag.   
+2.  De zorgautoriteit voert de overgangsregeling kapitaallasten als bedoeld in artikel 6 uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in artikel 5 behouden nà de vaststelling en de verrekening van het verrekenbedrag.  
 
 ### Artikel  9  
 
 ####immateriële vaste activa
 
-De zorgautoriteit voorziet er met betrekking tot de voor de in het budget opgenomen afschrijvingen in dat de immateriële vaste activa die ultimo 2011, met inachtneming van de reguliere afschrijvingen 2011 resteren, volledig ten laste van de budgetten 2011 worden afgeschreven.  
+De zorgautoriteit voorziet er met betrekking tot de voor de in het budget opgenomen afschrijvingen in dat de immateriële vaste activa die ultimo 2011, met inachtneming van de reguliere afschrijvingen 2011 resteren, volledig ten laste van de budgetten 2011 worden afgeschreven. 
 
 ### Hoofdstuk  IV  
 
@@ -117,14 +117,14 @@ De zorgautoriteit voorziet er met betrekking tot de voor de in het budget opgeno
 
 ####afwikkeling overgangsregeling kapitaallasten
 
-1.  Indien de som van de opbrengsten ten behoeve van de dekking van de kapitaallasten van de instellingen, bedoeld in de artikelen 3 en 5, uit de DOT systematiek, het verrekenbedrag en beschikbaarheidbijdragen naar het oordeel van de zorgautoriteit lager is dan het bedrag waar de desbetreffende instelling op grond van de voor die instellingen geldende overgangsregeling inzake kapitaallasten recht op heeft, wordt door de zorgautoriteit een bedrag per relevante zorgverzekeraar vastgesteld naar rato van het marktaandeel van de desbetreffende zorgverzekeraar per instelling. Onder DOT-systematiek in de eerste volzin wordt volstaan de som van de tarieven die met betrekking tot de zorg verleend door de instellingen, bedoeld in de artikelen 3 en 5, in rekening zijn gebracht of hadden kunnen worden gebracht met toepassing van de beleidsregels die gelden voor het desbetreffende jaar.   
-2.   Dit lid is nog niet in werking getreden.    
+1.  Indien de som van de opbrengsten ten behoeve van de dekking van de kapitaallasten van de instellingen, bedoeld in de artikelen 3 en 5, uit de DOT systematiek, het verrekenbedrag en beschikbaarheidbijdragen naar het oordeel van de zorgautoriteit lager is dan het bedrag waar de desbetreffende instelling op grond van de voor die instellingen geldende overgangsregeling inzake kapitaallasten recht op heeft, wordt door de zorgautoriteit een bedrag per relevante zorgverzekeraar vastgesteld naar rato van het marktaandeel van de desbetreffende zorgverzekeraar per instelling. Onder DOT-systematiek in de eerste volzin wordt volstaan de som van de tarieven die met betrekking tot de zorg verleend door de instellingen, bedoeld in de artikelen 3 en 5, in rekening zijn gebracht of hadden kunnen worden gebracht met toepassing van de beleidsregels die gelden voor het desbetreffende jaar.  
+2. Het bepaalde in het eerste lid is niet van toepassing indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) voor de afwikkeling van het transitiemodel is toegestaan, daartoe op grond van [artikel 59, aanhef en onder e, van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een aanwijzing aan de zorgautoriteit is gegeven en de zorgautoriteit op grond van die aanwijzing met betrekking tot die afwikkeling beleidsregels heeft vastgesteld. 
 
 ### Artikel  11  
 
 ####citeertitel
 
-Deze aanwijzing wordt aangehaald als: Aanwijzing kapitaallasten transitiemodel prestatiebekostiging medisch specialistische zorg 2012  
+Deze aanwijzing wordt aangehaald als: Aanwijzing kapitaallasten transitiemodel prestatiebekostiging medisch specialistische zorg 2012 
 
 ### Artikel  12  
 
@@ -132,14 +132,14 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing kapitaallasten transitiemodel p
 
 1.  Met uitzondering van de artikelen 4, 8 en 10, tweede lid, treedt deze aanwijzing terstond in werking.   
 2.  De artikelen 4 en 8 treden in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.   
-3.  Artikel 10, tweede lid, van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van artikel 56a van de wet voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een aanwijzing aan de zorgautoriteit is gegeven.   
+3.  Artikel 10, tweede lid, van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van artikel 56a van de wet voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een aanwijzing aan de zorgautoriteit is gegeven.  
 
 ### Artikel  13  
 
 ####publicatie
 
-Deze aanwijzing wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport,
+E.I. Schippers     

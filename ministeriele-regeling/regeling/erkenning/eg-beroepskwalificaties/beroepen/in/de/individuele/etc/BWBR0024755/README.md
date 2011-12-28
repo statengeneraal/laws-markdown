@@ -12,29 +12,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *aanpassingsstage:* aanpassingsstage, bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+a.  *aanpassingsstage:* aanpassingsstage, bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-b. *beroepskwalificaties:* beroepskwalificaties, bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+b.  *beroepskwalificaties:* beroepskwalificaties, bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-c. *betrokken staat:* betrokken staat, bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+c.  *betrokken staat:* betrokken staat, bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-d. *commissie:* de in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](../../../../../../../../../../AMvB/besluit/buitenslands/gediplomeerden/volksgezondheid/BWBR0007397/README.md) bedoelde commissie;  
+d.  *commissie:* de in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](../../../../../../../../../../AMvB/besluit/buitenslands/gediplomeerden/volksgezondheid/BWBR0007397/README.md) bedoelde commissie;  
 
-e. *dienstverrichter:* dienstverrichter, bedoeld in [artikel 21 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+e.  *dienstverrichter:* dienstverrichter, bedoeld in [artikel 21 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-f. *minister:* Minister van Volksgezondheid, Welzijn en Sport;  
+f.  *minister:* Minister van Volksgezondheid, Welzijn en Sport;  
 
-g. *proeve van bekwaamheid:* proeve van bekwaamheid, bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+g.  *proeve van bekwaamheid:* proeve van bekwaamheid, bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-h. *richtlijn:*richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEG, L 255);  
+h.  *richtlijn:* richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEG, L 255);  
 
-i. *wet:*[Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+i.  *wet:* [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-j. *wet BIG:*[Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md).    
+j.  *wet BIG:* [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md).   
 
 ### Artikel  2  
 
-1.  De aanvraag tot een erkenning van beroepskwalificaties, als bedoeld in [artikel 41, eerste lid, onderdeel c](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), en [artikel 45, eerste lid, onderdeel c, van de wet BIG](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), geschiedt met gebruikmaking van een daarvoor door de minister beschikbaar te stellen aanvraagformulier.   
+1.  De aanvraag tot een erkenning van beroepskwalificaties, als bedoeld in [artikel 41, eerste lid, onderdeel c](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), en [artikel 45, eerste lid, onderdeel c, van de wet BIG](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) alsmede tot erkenning van de beroepskwalificatie van de physician assistant, geschiedt met gebruikmaking van een daarvoor door de minister beschikbaar te stellen aanvraagformulier.   
 2.  Bij de aanvraag worden de volgende gegevens en bescheiden verstrekt: 
 
 a. het in het eerste lid bedoelde aanvraagformulier;  
@@ -58,17 +58,17 @@ g. indien de aanvrager houder is van een getuigschrift afgegeven in een ander la
 – voor zover de verklaring betrekking heeft op een beroep dat valt onder titel III van hoofdstuk III van de richtlijn dat bij de eerste erkenning rekening is gehouden met de in genoemd hoofdstuk van de richtlijn bedoelde minimum opleidingseisen;    
 
 h. bewijsstukken van eventuele beroepservaring en aanvullend onderwijs.     
-3.  De bescheiden bedoeld in het tweede lid, onderdeel c, tot en met onderdeel i, zijn gesteld in het Nederlands, Engels, Frans of Duits, dan wel door een beëdigd vertaler in een van deze talen vertaald. Fotokopieën van deze bescheiden zijn gewaarmerkt.   
+3.  De bescheiden bedoeld in het tweede lid, onderdeel c, tot en met onderdeel i, zijn gesteld in het Nederlands, Engels, Frans of Duits, dan wel door een beëdigd vertaler in een van deze talen vertaald. Fotokopieën van deze bescheiden zijn gewaarmerkt.  
 
 ### Artikel  3  
 
 1.  Teneinde te kunnen beoordelen of een van de situaties, genoemd in [artikel 11, eerste lid, van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) zich voordoet, wint de minister, alvorens te beslissen op een aanvraag tot het verkrijgen van een erkenning voor beroepskwalificaties, advies in van de commissie.   
 2.  De commissie laat de minister weten of naar haar oordeel een van de situaties, bedoeld in [artikel 11, eerste lid, van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) zich voordoet en adviseert de minister over de beroepservaring die de aanvrager moet aantonen, dan wel de proeve van bekwaamheid die de aanvrager moet afleggen of de aanpassingsstage die de aanvrager moet doorlopen.   
-3.  Indien de aanvrager een proeve van bekwaamheid heeft afgelegd of een aanpassingsstage heeft doorlopen, raadpleegt de minister de commissie over de vraag of de aanvrager voldoende gescoord heeft op de proeve van bekwaamheid of de aanpassingsstage met succes is afgesloten om de wezenlijke verschillen te compenseren.   
+3.  Indien de aanvrager een proeve van bekwaamheid heeft afgelegd of een aanpassingsstage heeft doorlopen, raadpleegt de minister de commissie over de vraag of de aanvrager voldoende gescoord heeft op de proeve van bekwaamheid of de aanpassingsstage met succes is afgesloten om de wezenlijke verschillen te compenseren.  
 
 ### Artikel  4  
 
-Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep van apotheker, arts, tandarts, verloskundige of verpleegkundige en een van de situaties, genoemd in [artikel 11, eerste lid, van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) van toepassing is, wordt een aanpassingsstage doorlopen van een periode van ten hoogste drie jaar.  
+Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep van apotheker, arts, tandarts, verloskundige of verpleegkundige en een van de situaties, genoemd in [artikel 11, eerste lid, van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) van toepassing is, wordt een aanpassingsstage doorlopen van een periode van ten hoogste drie jaar. 
 
 ### Artikel  5  
 
@@ -94,7 +94,7 @@ f. indien de aanvrager houder is van een getuigschrift afgegeven in een ander la
 
 g. voor gevallen als bedoeld in [artikel 22, onderdeel b, van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) een bewijs van de in [genoemd artikel](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) omschreven beroepservaring.     
 2.  De dienstverrichter verstrekt de in het eerste lid bedoelde verklaring een maal per jaar indien hij voornemens is gedurende dat jaar in Nederland diensten te verrichten. Daarbij verstrekt de dienstverrichter opnieuw de documenten genoemd in het eerste lid voor zover zich daarin een wijziging heeft voorgedaan.   
-3.  De bescheiden genoemd in het eerste lid, onderdeel a, c, d, e, f en g, zijn gesteld in het Nederlands, Engels, Frans of Duits, dan wel door een beëdigd vertaler in een van deze talen vertaald. Fotokopieën van deze bescheiden zijn gewaarmerkt.   
+3.  De bescheiden genoemd in het eerste lid, onderdeel a, c, d, e, f en g, zijn gesteld in het Nederlands, Engels, Frans of Duits, dan wel door een beëdigd vertaler in een van deze talen vertaald. Fotokopieën van deze bescheiden zijn gewaarmerkt.  
 
 ### Artikel  6  
 
@@ -105,13 +105,13 @@ g. voor gevallen als bedoeld in [artikel 22, onderdeel b, van de wet](../../../.
 – het beroep uitoefent van fysiotherapeut, gezondheidszorgpsycholoog of   psychotherapeut.   
 2.  In aanvulling op de documenten genoemd in artikel 5, eerste lid, verstrekt de dienstverrichter voor de controle de documenten, genoemd in artikel 2, tweede lid, onderdeel d, e en i.   
 3.  Teneinde te kunnen beoordelen of de situatie, genoemd in [artikel 27, derde lid, van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) zich voordoet, wint de minister advies in van de commissie. De commissie laat de minister weten of naar haar oordeel de situatie bedoeld in [artikel 27, derde lid, van de wet](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) zich voordoet en adviseert de minister over de wijze waarop de dienstverrichter kan aantonen dat deze de ontbrekende kennis en vaardigheden inmiddels heeft verworven.   
-4.  De minister kan de commissie raadplegen over de vraag of de aanvrager voldoende heeft aangetoond dat hij de ontbrekende kennis en vaardigheden heeft verworven.   
+4.  De minister kan de commissie raadplegen over de vraag of de aanvrager voldoende heeft aangetoond dat hij de ontbrekende kennis en vaardigheden heeft verworven.  
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties beroepen in de individuele gezondheidszorg.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

@@ -2,7 +2,7 @@
 
 ##Tariefbeschikking overige producten GGZ Zvw
 
-De Nederlandse Zorgautoriteit, heeft krachtens de [paragrafen 2](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  *op basis van de beleidsregel:*  Overige producten GGZ Zvw, kenmerk CU-5020;  *en gelet op:*  [artikel 35](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) jo. [52, vijfde lid, van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg);  *ambtshalve besloten:*  dat met ingang van 1 januari 2011 rechtsgeldig;  *door:*  
+De Nederlandse Zorgautoriteit, heeft krachtens de [paragrafen 2](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [4 van hoofdstuk 4 van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  *op basis van de beleidsregel:*  Overige producten GGZ Zvw, kenmerk CU-5020;  *en gelet op:*   [artikel 35](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) jo. [52, vijfde lid, van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg);  *ambtshalve besloten:*  dat met ingang van 1 januari 2011 rechtsgeldig;  *door:*  
 
 – vrijgevestigde zorgaanbieders die curatieve geestelijke gezondheidszorg (GGZ) als bedoeld in de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) (Zvw) leveren, voor zover deze zijn ingeschreven in een Big-register;  
 
@@ -52,7 +52,7 @@ Nederlandse Zorgautoriteit,
 M.S. Mulder,  
 directeur Zorgmarkten Cure.   
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####– overzicht prestaties en tarieven overige producten
 

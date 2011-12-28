@@ -52,6 +52,6 @@ Nederlandse Zorgautoriteit,
 M.S. Mulder,  
 directeur Zorgmarkten Cure.   
 
-### Bijlage  1  
+###Bijlage 1 
 
-Niet opgenomen.  
+Niet opgenomen.
