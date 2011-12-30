@@ -8,11 +8,12 @@ Besluit:
 
 ### Artikel  1  
 
-Deze regeling geeft uitvoering aan de [artikelen 4, tweede lid](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), [4c, vierde lid](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), [4e](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), [4f](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), [9](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) en [10 van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 4, tweede lid](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), [4c, vierde lid](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), [4e](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), [4f](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), [9](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) en [10 van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md). 
 
 ### Artikel  1a  
 
-Voor de toepassing van de [artikelen 4, tweede lid](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), en [10, tweede lid, van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.  
+1. Voor de toepassing van de [artikelen 4, tweede lid](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), en [10, tweede lid, van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.  
+2.  Voor de toepassing van [artikel 10, derde lid, van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen. 
 
 ### Artikel  1aa  
 
@@ -41,11 +42,11 @@ b. voor de toepassing van het derde lid: een gedeelte dat evenredig is aan de ve
 
 ### Artikel  1ab  
 
-Op grond van [artikel 4e van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat hij met betrekking tot dat dividend een verzoek zal doen om toepassing van [artikel 4.12a van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).  
+Op grond van [artikel 4e van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat hij met betrekking tot dat dividend een verzoek zal doen om toepassing van [artikel 4.12a van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). 
 
 ### Artikel  1ac  
 
-Op grond van [artikel 4f van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat met betrekking tot dat dividend sprake is van een situatie als bedoeld in [artikel 25, elfde lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).  
+Op grond van [artikel 4f van de Wet op de dividendbelasting 1965](../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat met betrekking tot dat dividend sprake is van een situatie als bedoeld in [artikel 25, elfde lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). 
 
 ### Artikel  1b  
 
@@ -59,21 +60,21 @@ c. de dag waarop de opbrengst ter beschikking is gesteld;
 
 d. de omschrijving en het bedrag van de opbrengst;  
 
-e. de ingehouden belasting over de totale in de dividendnota begrepen opbrengst.    
+e. de ingehouden belasting over de totale in de dividendnota begrepen opbrengst.   
 
 ### Artikel  5  
 
 1.  Deze beschikking treedt in werking met ingang van 1 januari 1966.   
-2.  Deze beschikking kan worden aangehaald als: Uitvoeringsbeschikking dividendbelasting 1965.   
+2.  Deze beschikking kan worden aangehaald als: Uitvoeringsbeschikking dividendbelasting 1965.  
 
 's-Gravenhage 
 28 december 1965    
 
 De 
-Staatssecretaris van Financiën, 
+Staatssecretaris van Financiën,  
 
 Voor deze: 
 
 De 
 directeur-generaal voor fiscale zaken in algemene dienst, 
-C. P.Tuk    
+C. P. Tuk     
