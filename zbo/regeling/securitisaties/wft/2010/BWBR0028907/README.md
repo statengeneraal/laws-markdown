@@ -23,7 +23,7 @@ Besluit:
 
 ### Artikel  1  
 
-Naast de in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) en artikel 1:1 van de Regeling solvabiliteitseisen kredietrisico en grote posities Wft 2010 gedefinieerde begrippen, wordt in deze regeling verstaan onder: 
+Naast de in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) en [artikel 1:1 van de Regeling solvabiliteitseisen kredietrisico en grote posities Wft 2010](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md) gedefinieerde begrippen, wordt in deze regeling verstaan onder: 
 
 a. *ABCP-programma (asset backed commercial paper programma):* een securitisatieprogramma in het kader waarvan effecten worden uitgegeven, voornamelijk in de vorm van kortlopend schuldpapier (commercial paper) met een oorspronkelijke looptijd van maximaal een (1) jaar;  
 
@@ -38,6 +38,10 @@ e. *E* (volledig aangepaste waarde van de vordering):* de waarde van de vorderin
 f. *erkend kredietbeoordelingsbureau:* een kredietbeoordelingsbureau als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), dat ingevolge [artikel 88 van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) is erkend;  
 
 g. *financiële onderneming:* een bank of een beleggingsonderneming;  
+
+g1. *hersecuritisatie:* een securitisatie waarbij het risico dat is verbonden aan een onderliggende pool vorderingen, in tranches is onderverdeeld en ten minste één van de onderliggende vorderingen een securitisatiepositie is;  
+
+g2. *hersecuritisatiepositie:* een vordering in het kader van een hersecuritisatie;  
 
 h. *K <sub>irb</sub>:* 8% van de risicogewogen posten die overeenkomstig de [artikelen 69 tot en met 76, derde lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) met betrekking tot de gesecuritiseerde vordering ouden zijn berekend, indien zij niet gesecuritiseerd zouden zijn, vermeerderd met het bedrag van de overeenkomstig deze artikelen berekende verwachte verliesposten die met deze vorderingen verband houden;  
 
@@ -61,7 +65,7 @@ q. *risicogewogen posten:* de naar kredietrisico of verwateringsrisico gewogen a
 
 q1. *Rsk 2010:* de Regeling solvabiliteitseisen kredietrisico en grote posities Wft 2010:  
 
-q2. *Rsm 2010:* de Regeling solvabiliteitseisen marktrisico Wft 2010;    
+q2. *Rsm 2011:* de [Regeling solvabiliteitseisen marktrisico Wft 2011](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md);    
 
 r. *securitisatiepositie met externe kredietbeoordeling:* een securitisatiepositie waarvoor een externe kredietbeoordeling van een erkend kredietbeoordelingsbureau beschikbaar is;  
 
@@ -326,7 +330,8 @@ b. indien een financiële onderneming de risicogewogen posten berekent overeenko
 3.  De waarde van een niet uit de balans blijkende securitisatiepositie is, onverminderd het bepaalde in artikel 13, derde lid, gelijk aan haar nominale waarde vermenigvuldigd met een omrekeningsfactor van 100%, tenzij in dit hoofdstuk een andere omrekeningsfactor is aangegeven.   
 4.  De waarde van een securitisatiepositie die voortvloeit uit een in [bijlage B bij het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) vermeld derivaat wordt bepaald overeenkomstig hoofdstuk 5 van de Rsk 2010.   
 5.  Wanneer op een securitisatiepositie een volgestorte kredietprotectie van toepassing is, kan de waarde van die positie worden gewijzigd overeenkomstig de in de [artikelen 81, zesde lid](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), en [82, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) bedoelde vereisten.   
-6.  Wanneer een financiële onderneming twee of meer securitisatieposities in een securitisatie heeft die elkaar overlappen, neemt zij, in de mate waarin de securitisatieposities elkaar overlappen, bij haar berekening van risicogewogen posten uitsluitend de securitisatiepositie of deelpositie in aanmerking die de hoogste risicogewogen posten oplevert.   
+6.  Wanneer een financiële onderneming twee of meer posities in een securitisatie heeft die elkaar overlappen, is zij verplicht om in de mate waarin de posities elkaar overlappen bij haar berekening van risicogewogen posten uitsluitend de positie of deelpositie in aanmerking te nemen die de hogere risicogewogen posten oplevert. De financiële onderneming kan een dergelijke overlap tussen kapitaalvereisten voor specifieke risico's voor posities in de handelsportefeuille en kapitaalvereisten voor posities in de beleggingsportefeuille ook erkennen, mits de financiële onderneming in staat is de kapitaalvereisten voor de posities in kwestie te berekenen en te vergelijken.   
+7.  Wanneer sprake is van de situatie als bedoeld in artikel 15, onder d, dan mag de financiële onderneming voor het asset backed commercial paper (ABCP), na toestemming van DNB, voor de berekening van de bijbehorende risicogewogen post het toegekende risicogewicht van een liquiditeitsfaciliteit hanteren indien de liquiditeitsfaciliteit van gelijke rang is als het ABCP waardoor zij overlappende posities vormen en het uigegeven ABCP voor 100% onder de liquiditeitsfaciliteiten valt.   
 
 ### Afdeling  3.2  
 
@@ -340,11 +345,13 @@ b. indien een financiële onderneming de risicogewogen posten berekent overeenko
 
 Een kredietbeoordeling van een erkend kredietbeoordelingsbureau kan uitsluitend voor de berekening van risicogewogen posten overeenkomstig dit hoofdstuk worden gebruikt, indien: 
 
-a. er geen incongruentie is tussen de soorten betalingen die in de kredietbeoordeling tot uiting komen en de soorten betalingen waarop de financiële onderneming, ingevolge het contract dat tot de betrokken securitisatiepositie heeft geleid, recht heeft; en  
+a. er geen incongruentie is tussen de soorten betalingen die in de kredietbeoordeling tot uiting komen en de soorten betalingen waarop de financiële onderneming, ingevolge het contract dat tot de betrokken securitisatiepositie heeft geleid, recht heeft;  
 
 b. de kredietbeoordeling voor het publiek toegankelijk is;  
 
-c. het erkende kredietbeoordelingsbureau publiekelijk bekend maakt hoe de prestaties van poolactiva haar kredietbeoordelingen beïnvloeden.    
+c. het erkende kredietbeoordelingsbureau publiekelijk bekend maakt hoe de prestaties van poolactiva haar kredietbeoordelingen beïnvloeden; en  
+
+d. de kredietbeoordeling wordt niet geheel of gedeeltelijk gebaseerd op niet-volgestorte steun die door de financiële onderneming zelf wordt verstrekt. Indien de kredietbeoordeling geheel of gedeeltelijk wordt gebaseerd op niet-volgestorte steun die door de financiële onderneming zelf wordt verstrekt, dan beschouwt de financiële onderneming de positie als een positie zonder externe kredietbeoordeling en past zij de behandeling toe van posities zonder externe kredietbeoordeling uit hoofdstuk 4 of hoofdstuk 5.    
 
 ### §  3.2.2  
 
@@ -385,7 +392,7 @@ De risicogewichten van posten die securitisatieposities vertegenwoordigen, worde
 
 ### Artikel  18  
 
-1.  Onverminderd het bepaalde in artikel 19, worden de risicogewogen posten van een securitisatiepositie met een externe kredietbeoordeling berekend door op de waarde van die posten het risicogewicht toe te passen dat overeenkomt met de kredietkwaliteitscategorie waarin de kredietbeoordeling overeenkomstig [artikel 85, vierde en vijfde lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) is ondergebracht, zoals in Bijlage 2, tabellen 1 en 2, is weergegeven.   
+1.  Onverminderd het bepaalde in artikel 19 wordt de risicogewogen post van een securitisatie- of hersecuritisatiepositie met een externe kredietbeoordeling berekend door op de waarde van de post het risicogewicht toe te passen dat overeenkomt met de kredietkwaliteitscategorie waarin de kredietbeoordeling overeenkomstig [artikel 85, vierde en vijfde lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) is ondergebracht, zoals in Bijlage 2, tabel 1, is weergegeven.   
 2.  Onverminderd het bepaalde in de afdelingen 4.2. tot en met 4.4., wordt de risicogewogen post van een securitisatiepositie zonder externe kredietbeoordeling berekend door een risicogewicht van 1250% toe te passen.   
 
 ### §  4.1.3  
@@ -555,12 +562,13 @@ c. alle afgeleide kredietbeoordelingen worden voortdurend geactualiseerd om even
 
 ### Artikel  30  
 
-1.  Bij de toepassing van de op ratings gebaseerde methode wordt de risicogewogen post van een securitisatiepositie met externe kredietbeoordeling berekend door op de waarde van de post het risicogewicht toe te passen dat verbonden is met de kredietkwaliteitscategorie waarin de kredietbeoordeling overeenkomstig [artikel 85, vierde en vijfde lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) is ondergebracht, zoals in Bijlage 2, tabellen 3 en 4, is weergegeven, vermenigvuldigd met de factor 1,06.   
-2.  Onverminderd het bepaalde in het derde en vierde lid, worden de risicogewichten van kolom A van de tabellen 3 en 4 van Bijlage 2 toegepast wanneer de securitisatiepositie met externe kredietbeoordeling zich bevindt in de tranche van de hoogste rangorde. Bij het bepalen of een bepaalde tranche de hoogste rangorde heeft, hoeft geen rekening te worden gehouden met verschuldigde bedragen in het kader van rente- of valutaderivatencontracten, verschuldigde vergoedingen of andere soortgelijke betalingen.   
-3.  De in kolom C van de tabellen 3 en 4 van Bijlage 2 genoemde risicogewichten worden toegepast wanneer de securitisatiepositie met externe kredietbeoordeling een securitisatie betreft met een effectief aantal gesecuritiseerde vorderingen van minder dan zes. Bij het berekenen van het effectieve aantal gesecuritiseerde vorderingen worden meerdere vorderingen op één (1) debiteur als één (1) vordering aangemerkt en wordt de volgende formule gebruikt:   ![247883](http://wetten.overheid.nl/Illustration/247883)
-waarbij N het effectieve aantal gesecuritiseerde vorderingen is en EADi de som is van de waarde van alle vorderingen op de i-de debiteur. Bij hersecuritisatie (de securitisatie van securitisatieposities) neemt de financiële onderneming het aantal securitisatieposities in de pool in aanmerking en niet het aantal onderliggende vorderingen in de oorspronkelijke pools waaruit de onderliggende securitisatieposities afkomstig zijn. Indien het met de grootste vordering, C1, verbonden portefeuille-aandeel beschikbaar is, kan de financiële onderneming N berekenen als 1/C1.   
-4.  De in kolom B van de tabellen 3 en 4 van Bijlage 2 genoemde risicogewichten worden op alle andere securitisatieposities toegepast.   
-5.  Kredietrisicovermindering ten aanzien van securitisatieposities kan overeenkomstig de artikelen 40 tot en met 42 worden erkend.   
+1.  Bij de toepassing van de op ratings gebaseerde methode wordt de risicogewogen post van een securitisatie- of hersecuritisatiepositie met externe kredietbeoordeling berekend door op de waarde van de post het risicogewicht toe te passen dat verbonden is met de kredietkwaliteitscategorie waarin de kredietbeoordeling overeenkomstig artikel 85, vierde en vijfde lid, van het Besluit is ondergebracht, zoals in Bijlage 2, tabel 2, is weergegeven, vermenigvuldigd met de factor 1,06.   
+2.  Onverminderd het bepaalde in het derde en vierde lid, worden de risicogewichten van kolom A van tabel 2 van Bijlage 2 toegepast wanneer de securitisatiepositie met externe kredietbeoordeling zich bevindt in de tranche van de hoogste rangorde. Bij het bepalen of een bepaalde tranche de hoogste rangorde heeft, hoeft geen rekening te worden gehouden met verschuldigde bedragen in het kader van rente- of valutaderivatencontracten, verschuldigde vergoedingen of andere soortgelijke betalingen.   
+3.  De in kolom C van tabel 2 van Bijlage 2 genoemde risicogewichten worden toegepast wanneer de securitisatiepositie met externe kredietbeoordeling geen hersecuritisatie betreft met een effectief aantal gesecuritiseerde vorderingen van minder dan zes. Bij het berekenen van het effectieve aantal gesecuritiseerde vorderingen worden meerdere vorderingen op één (1) debiteur als één (1) vordering aangemerkt en wordt de volgende formule gebruikt:   ![247883](http://wetten.overheid.nl/Illustration/247883)
+waarbij N het effectieve aantal gesecuritiseerde vorderingen is en EAD <sub>i</sub> de som is van de waarde van alle vorderingen op de i-de debiteur. Bij hersecuritisatie neemt de financiële onderneming het aantal securitisatieposities in de pool in aanmerking en niet het aantal onderliggende vorderingen in de oorspronkelijke pools waaruit de onderliggende securitisatieposities afkomstig zijn. Indien het met de grootste vordering, C1, verbonden portefeuille-aandeel beschikbaar is, kan de financiële onderneming N berekenen als 1/C1.   
+4.  De in kolom B van tabel 2 van Bijlage 2 genoemde risicogewichten worden op alle andere securitisatieposities, niet zijnde hersecuritisatieposites, toegepast.   
+5.  Op hersecuritisatieposities worden de risicogewichten van kolom E van tabel 2 van Bijlage 2 toegepast, tenzij de hersecuritisatiepositie zich in de tranche van de hoogste rang van een hersecuritisatie bevindt en geen van de onderliggende vorderingen zelf hersecuritisatieposities waren, in welk geval de risicogewichten van kolom D van tabel 2 van Bijlage 2 worden toegepast. Om vast te stellen of een bepaalde tranche de hoogste rang heeft, behoeft geen rekening te worden gehouden met verschuldigde bedragen in het kader van rente- of valutaderivatencontracten, verschuldigde vergoedingen of andere soortgelijke betalingen.   
+6.  Kredietrisicovermindering ten aanzien van securitisatieposities kan overeenkomstig de artikelen 40 tot en met 42 worden erkend.   
 
 ### Afdeling  5.4  
 
@@ -624,7 +632,7 @@ e. het ABCP-programma bevat met betrekking tot de aankoop van vorderingen struct
 
 ### Artikel  36  
 
-1.  Onverminderd het bepaalde in artikel 39, is, in het kader van de benadering met toezichthoudersformule, het risicogewicht van een securitisatiepositie 7% respectievelijk het risicogewicht dat overeenkomstig het tweede lid is berekend, al naar gelang welk risicogewicht het hoogst is.   
+1.  Onverminderd het bepaalde in artikel 39 is, in het kader van de benadering met toezichthoudersformule, het risicogewicht dat overeenkomstig het tweede lid is berekend niet lager dan 20% voor een hersecuritisatiepositie en niet lager dan 7% voor overige securitisatieposities.   
 2.  Onverminderd het bepaalde in artikel 39, is het risicogewicht dat op de securitisatiepositie wordt toegepast het risicogewicht dat wordt verkregen door berekening volgens de toezichthoudersformule, bedoeld in onderdeel A van bijlage 1 (Toezichthoudersformule).   
 3.  Indien de waarde van de grootste gesecuritiseerde vordering niet meer dan 3% van de som van de waarde van de gesecuritiseerde vorderingen bedraagt, kan de financiële onderneming in het kader van de benadering met toezichthoudersformule, bedoeld in het tweede lid, gebruik maken van de vereenvoudigde input, bedoeld in onderdeel B van bijlage 1 (Vereenvoudigde input).   
 4.  Een financiële onderneming kan op securitisaties van vorderingen op particulieren of op kleine partijen de benadering met toezichthoudersformule toepassen met gebruikmaking van de vereenvoudigingen h = 0 en v = 0, indien het effectieve aantal vorderingen, bedoeld in artikel 30, vierde lid, meer bedraagt dan 500, of indien de financiële onderneming zich ervan vergewist dat het toepassen van de vereenvoudigingen geen materiële wijziging van de vereiste minimumomvang van het toetsingsvermogen tot gevolg heeft.   
@@ -966,7 +974,7 @@ Met inachtneming van de geheimhoudingsplicht en de uitzonderingen dienaangaande,
 1.  Voor securitisatieposities waarop een vermindering van toepassing is overeenkomstig de behandeling, bedoeld in [artikel 94, tweede lid, onderdeel g, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), of waarop een risicogewicht van 1250% van toepassing is, is een aanvullend solvabiliteitsvereiste voor het specifieke positierisico van toepassing dat niet kleiner is dan de solvabiliteitseisen op grond van deze behandelingen.   
 2.  Voor liquiditeitsfaciliteiten waaraan geen rating is toegekend, geldt een aanvullend solvabiliteitsvereiste dat niet kleiner is dan het aanvullende solvabiliteitsvereiste, bedoeld in de hoofdstukken 4, 5 en 6.   
 3.  In afwijking van het eerste lid, is het een financiële onderneming die een actieve handelaar is in securitisatieposities als bedoeld in het eerste lid, toegestaan om het aanvullende solvabiliteitsvereiste voor het specifieke positierisico op grond van een andere behandeling dan genoemd in het eerste lid te berekenen. De vorige volzin vindt uitsluitend toepassing, indien de financiële onderneming kan aantonen dat er, bovenop de handelsopzet, voor de securitisatieposities respectievelijk, in het geval van synthetische securitisaties die uitsluitend op kredietderivaten berusten, voor de securitisatieposities zelf of alle risicocomponenten waaruit deze zijn samengesteld, een liquide vraag- en aanbodmarkt bestaat.   
-4.  De in het derde lid bedoelde afwijkende behandeling kan bovendien uitsluitend worden toegestaan, indien de financiële onderneming aantoont dat zij over voldoende marktgegevens beschikt om te waarborgen dat zij het geconcentreerde wanbetalingsrisico van voornoemde securitisatieposities volledig weergeeft met haar interne methode voor het meten van het additioneel wanbetalingsrisico, overeenkomstig de normen voor de modellering van dit risico, bedoeld in artikel 4:7, vierde tot en met zesde lid, van de Rsm 2010.   
+4.  De in het derde lid bedoelde afwijkende behandeling kan bovendien uitsluitend worden toegestaan, indien de financiële onderneming aantoont dat zij over voldoende marktgegevens beschikt om te waarborgen dat zij het geconcentreerde wanbetalingsrisico van voornoemde securitisatieposities volledig weergeeft met haar interne methode voor het meten van het additioneel wanbetalingsrisico, overeenkomstig de normen voor de modellering van dit risico, bedoeld in [artikel 4:6, vierde tot en met zesde lid, van de Rsm 2011](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md).   
 5.  Voor de toepassing van het vierde lid wordt van een vraag- en aanbodmarkt geacht sprake te zijn wanneer op de betreffende markt onafhankelijke aanbiedingen te goeder trouw zijn om te kopen en verkopen zodat er binnen een (1) dag een prijs kan worden vastgesteld die gerelateerd is aan de prijs van de laatste verkoop of actuele concurrerende vraag- en aanbodnoteringen te goeder trouw, en de koop tegen die prijs binnen korte tijd kan worden gesloten, overeenkomstig de handelsgewoonten.   
 
 ### Hoofdstuk  9  
@@ -1003,7 +1011,7 @@ directeur
 ####Onderdeel A - Toezichthoudersformule als bedoeld in artikel 36, tweede lid 
 
 Het risicogewicht voor een securitisatiepositie volgens de benadering met de toezichthoudersformule bedraagt:   ![247882](http://wetten.overheid.nl/Illustration/247882)
-In deze uitdrukkingen verwijst Beta [x; a, b] naar de cumulatieve kansdichtheidsfunctie van de beta-verdeling met de parameters a en b, berekend in het punt x; T (de omvang van de tranche waarin de securitisatiepositie wordt gehouden) wordt gemeten als de verhouding tussen (a) het nominale bedrag van de tranche en (b) de som van de waarde van de vorderingen die zijn gesecuritiseerd; Hierbij is de waarde van een in [bijlage B bij het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) genoemd afgeleid instrument, indien de actuele vervangingskostprijs geen positieve waarde is, de potentiële toekomstige vordering, berekend overeenkomstig hoofdstuk 5 van deze regeling; Kirbr is de verhouding tussen (a) *K <sub>irb</sub>* en (b) de som van de waarde van de vorderingen die gesecuritiseerd zijn. Kirbr wordt in decimale vorm uitgedrukt (bijvoorbeeld *K <sub>irb</sub>* = 15% van de pool zou worden uitgedrukt als een Kirbr van 0,15); L (het kredietverbeteringsniveau) wordt gemeten als de verhouding tussen het nominale bedrag van alle tranches die achtergesteld zijn bij de tranche waarin de securitisatiepositie wordt gehouden en de som van de waarde van de vorderingen die gesecuritiseerd zijn; Gekapitaliseerde toekomstige inkomsten worden niet in de meting van L betrokken. Door tegenpartijen verschuldigde bedragen in verband met in [bijlage B bij het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) genoemde afgeleide instrumenten die tranches van een lagere rangorde vertegenwoordigen dan de desbetreffende tranche, kunnen bij de berekening van het niveau van de kredietverbetering tegen hun actuele vervangingskostprijs worden berekend (exclusief de potentiële toekomstige vordering); N is het effectieve aantal vorderingen, berekend overeenkomstig artikel 30, vierde lid; ELGD, het risicogewogen gemiddelde verlies bij wanbetaling, wordt als volgt berekend:   ![247882](http://wetten.overheid.nl/Illustration/247882)
+In deze uitdrukkingen verwijst Beta [x; a, b] naar de cumulatieve kansdichtheidsfunctie van de beta-verdeling met de parameters a en b, berekend in het punt x; T (de omvang van de tranche waarin de securitisatiepositie wordt gehouden) wordt gemeten als de verhouding tussen (a) het nominale bedrag van de tranche en (b) de som van de waarde van de vorderingen die zijn gesecuritiseerd; Hierbij is de waarde van een in [bijlage B bij het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) genoemd afgeleid instrument, indien de actuele vervangingskostprijs geen positieve waarde is, de potentiële toekomstige vordering, berekend overeenkomstig hoofdstuk 5 van deze regeling; Kirbr is de verhouding tussen (a) *K <sub>irb</sub>* en (b) de som van de waarde van de vorderingen die gesecuritiseerd zijn. Kirbr wordt in decimale vorm uitgedrukt (bijvoorbeeld *K <sub>irb</sub>* = 15% van de pool zou worden uitgedrukt als een Kirbr van 0,15); L (het kredietverbeteringsniveau) wordt gemeten als de verhouding tussen het nominale bedrag van alle tranches die achtergesteld zijn bij de tranche waarin de securitisatiepositie wordt gehouden en de som van de waarde van de vorderingen die gesecuritiseerd zijn; Gekapitaliseerde toekomstige inkomsten worden niet in de meting van L betrokken. Door tegenpartijen verschuldigde bedragen in verband met in [bijlage B bij het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) genoemde afgeleide instrumenten die tranches van een lagere rangorde vertegenwoordigen dan de desbetreffende tranche, kunnen bij de berekening van het niveau van de kredietverbetering tegen hun actuele vervangingskostprijs worden berekend (exclusief de potentiële toekomstige vordering); N is het effectieve aantal vorderingen, berekend overeenkomstig artikel 30, derde lid; ELGD, het risicogewogen gemiddelde verlies bij wanbetaling, wordt als volgt berekend:   ![247882](http://wetten.overheid.nl/Illustration/247882)
 waarbij LGD <sub>i</sub> het gemiddelde LGD is dat verbonden is met alle vorderingen op de i-de debiteur; en LGD overeenkomstig de [artikelen 69 tot en met 76 van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) wordt bepaald; In geval van hersecuritisatie wordt een LGD van 100% op de gesecuritiseerde posities toegepast. Wanneer wanbetaling en verwateringsrisico voor kortlopende gekochte vorderingen in een securitisatie gezamenlijk worden behandeld (dat wil zeggen er is een enkele reserve beschikbaar of er is sprake van ‘over-collateralisation’ om verliezen uit beide bronnen te dekken), wordt de input van het ELGD geconstrueerd als een gewogen gemiddelde van het LGD voor kredietrisico en 75% van het LGD voor het verwateringsrisico. De risicogewichten zijn de afzonderlijke kapitaalvereisten voor respectievelijk kredietrisico en verwateringsrisico.  
 
 ####Onderdeel B – Vereenvoudigde input als bedoeld in artikel 36, derde lid 
@@ -1017,43 +1025,29 @@ ofwel N = 1/C1. In de bovenstaande formule is C <sub>m</sub> de verhouding tusse
 
 ####Risicogewichten van securitisatieposities
 
-Tabel 1. bij artikel 18 – Risicogewichten van securitisatieposities met een kredietbeoordeling anders dan voor de korte termijn (in procenten) 
+Tabel 1. bij artikel 18 – Risicogewichten van securitisatie- en hersecuritisatieposities met een externe kredietbeoordeling in het kader van de standaardbenadering (in procenten) 
 
-| Kredietkwaliteitscategorie  | 1  | 2  | 3  | 4  | Lager dan 4  |
-|:---|:---|:---|:---|:---|:---|
-| risicogewicht  | 20  | 50  | 100  | 350  | 1250  |
+|--- | Kredietkwaliteitscategorie  | 1  | 2  | 3  | 4¹  | Alle overige krediet- kwaliteitscategorieën  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Risicogewicht (%)  | Securitisatie  | 20  | 50  | 100  | 350  | 1250  |
+| Hersecuritisatie  | 40  | 100  | 225  | 650  | 1250  |
 
-Tabel 2. bij artikel 18 – Risicogewichten van securitisatieposities met een kredietbeoordeling voor de korte termijn (in procenten) 
+¹ Alleen voor andere kredietbeoordelingen dan kredietbeoordelingen voor de korte termijn.  Tabel 2. bij artikel 30 – Risicogewichten van securitisatie- en hersecuritisatieposities met een externe kredietbeoordeling in het kader van de op ratingsgebaseerde methode (in procenten) 
 
-| Kredietkwaliteitscategorie  | 1  | 2  | 3  | Lager dan 3  |
-|:---|:---|:---|:---|:---|
-| risicogewicht  | 20  | 50  | 100  | 1250  |
+| Kredietkwaliteitscategorie  | Securitisatieposities  | Hersecuritisatieposities  | Andere krediet- beoordelingen dan kredietbe- oordelingen voor de korte termijn.  | Kredietbeoor- deling voor de korte termijn  | A  | B  | C  | D  | E  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | 1  | 7  | 12  | 20  | 20  | 30  |
+| 2  | --- | 8  | 15  | 25  | 25  | 40  |
+| 3  | --- | 10  | 18  | 35  | 35  | 50  |
+| 4  | 2  | 12  | 20  | 35  | 40  | 65  |
+| 5  | --- | 20  | 35  | 35  | 60  | 100  |
+| 6  | --- | 35  | 50  | 50  | 100  | 150  |
+| 7  | 3  | 60  | 75  | 75  | 150  | 225  |
+| 8  | --- | 100  | 100  | 100  | 200  | 350  |
+| 9  | --- | 250  | 250  | 250  | 300  | 500  |
+| 10  | --- | 425  | 425  | 425  | 500  | 650  |
+| 11  | --- | 650  | 650  | 650  | 750  | 850  |
+| Alle overige en zonder rating  | 1250  | 1250  | 1250  | 1250  | 1250  |
 
-Tabel 3. bij artikel 30 – Risicogewichten van securitisatieposities met een kredietbeoordeling anders dan voor de korte termijn (in procenten) 
-
-| Kredietkwaliteitscategorie  | Risicogewicht  | A  | B  | C  |
-|:---|:---|:---|:---|:---|
-| 1  | 7  | 12  | 20  |
-| 2  | 8  | 15  | 25  |
-| 3  | 10  | 18  | 35  |
-| 4  | 12  | 20  | 35  |
-| 5  | 20  | 35  | 35  |
-| 6  | 35  | 50  | 50  |
-| 7  | 60  | 75  | 75  |
-| 8  | 100  | 100  | 100  |
-| 9  | 250  | 250  | 250  |
-| 10  | 425  | 425  | 425  |
-| 11  | 650  | 650  | 650  |
-| Lager dan 11  | 1250  | 1250  | 1250  |
-
-Tabel 4. bij artikel 30 – Risicogewichten van securitisatieposities met een kredietbeoordeling voor de korte termijn (in procenten) 
-
-| Kredietkwaliteitscategorie  | Risicogewicht  | A  | B  | C  |
-|:---|:---|:---|:---|:---|
-| 1  | 7  | 12  | 20  |
-| 2  | 12  | 20  | 35  |
-| 3  | 60  | 75  | 75  |
-| Lager dan 3  | 1250  | 1250  | 1250  |
-
-Zie voor een overzicht van de mapping van erkende kredietbeoordelingbureaus de website van het Committee of European Banking Supervisors (CEBS): http://www.c-ebs.org/sd/spreadsheets/rules/ecai_recognition.xls  
+Zie voor een overzicht van de mapping van erkende kredietbeoordelingbureaus de website van de European Banking Authority (EBA): http://www.eba.europa.eu/sd/spreadsheets/rules/ecai_recognition.xls  
 

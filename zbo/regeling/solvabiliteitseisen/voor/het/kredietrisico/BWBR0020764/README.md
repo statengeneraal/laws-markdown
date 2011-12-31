@@ -83,7 +83,7 @@ u. *risicogewicht*: de wegingsfactor waarmee een vordering in de berekening van 
 
 v. *risicogewogen posten*: de naar kredietrisico of verwateringsrisico gewogen activa en posten buiten de balanstelling, dan wel de naar risico gewogen securitisatieposities;  
 
-v1. *Rsm 2010:* de [Regeling solvabiliteitseisen marktrisico Wft 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md);  
+v1. *Rsm 2011:* de [Regeling solvabiliteitseisen marktrisico Wft 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md).  
 
 w. *toezichthoudend orgaan*: het orgaan, bedoeld in [artikel 3:9, eerste lid, tweede volzin, van de Wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -275,8 +275,8 @@ Vorderingen op centrale overheden of centrale banken, waarop de vorige artikelen
 
 ### Artikel  2:7  
 
-1.  Vorderingen op regionale of lokale overheden hebben een risicogewicht dat is afgeleid van de kredietkwaliteitstrap waarin de kredietbeoordeling van vorderingen op hun centrale overheid is ondergebracht, op de wijze zoals voorzien in tabel A van bijlage 2A.   
-2.  Vorderingen op regionale of lokale overheden van landen met een centrale overheid waarvoor geen kredietbeoordeling beschikbaar is, hebben een risicogewicht van 100%.   
+1.  Aan vorderingen op regionale en lokale overheden wordt hetzelfde risicogewicht toegekend als aan vorderingen op financiële ondernemingen, behoudens het volgende lid, op wijze zoals voorzien in tabel A van bijlage 2A. Artikelen 2:19 en 2:21 zijn niet van toepassing.   
+2.  Vorderingen op regionale en lokale overheden van lidstaten, luidende en gefinancierd in de binnenlandse munteenheid van de betrokken regionale en lokale overheden, hebben een risicogewicht van 20%.   
 
 ### Artikel  2:8  
 
@@ -318,7 +318,7 @@ b. de toezichthoudende instantie van het betrokken land zijn financiële onderne
 
 ### Artikel  2:14  
 
-1.  De risicogewichten genoemd in paragraaf 2.2.2 zijn van overeenkomstige toepassing op vorderingen op kerkgenootschappen of op andere godsdienstige gemeenschappen die: 
+1.  De risicogewichten genoemd in artikel 2:7 en artikel 2:9 zijn van overeenkomstige toepassing op vorderingen op kerkgenootschappen of op andere godsdienstige gemeenschappen die: 
 
 a. krachtens publiekrecht zijn ingesteld;  
 
@@ -3097,7 +3097,7 @@ cc. *werkelijke verdeling*: een verdeling van marktwaarden of posities tijdens e
 ### Artikel  5:2  
 
 1.  Met inachtneming van deze afdeling, bepaalt een financiële onderneming de positiewaarde die voortvloeit uit afgeleide financiële instrumenten als bedoeld in [bijlage B bij het Besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), aan de hand van één van de methoden, bedoeld in de afdelingen 5.3 tot en met 5.6.   
-2.  Een financiële onderneming die niet aan de voorwaarden, bedoeld in [artikel 62, eerste lid, van het Besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) respectievelijk [afdeling 1.2 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) voldoet, is uitgesloten van de toepassing van de methode, bedoeld in afdeling 5.4.   
+2.  Een financiële onderneming die niet aan de voorwaarden, bedoeld in [artikel 62, eerste lid, van het Besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) respectievelijk [afdeling 1.2 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) voldoet, is uitgesloten van de toepassing van de methode, bedoeld in afdeling 5.4.   
 3.  De methode, bedoeld in afdeling 5.4, kan niet worden gebruikt voor de bepaling van de positiewaarde die voortvloeit uit afgeleide instrumenten als bedoeld in punt 3 van [bijlage B bij het Besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md).   
 4.  De in de afdelingen 5.3 tot en met 5.6 bedoelde methoden kunnen binnen een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) in combinatie worden toegepast, mits dit op permanente basis geschiedt. Binnen de afzonderlijke juridisch-zelfstandige entiteiten die onderdeel uitmaken van de groep, is gecombineerde toepassing niet mogelijk.   
 5.  In afwijking van het vierde lid, tweede volzin, kunnen de in afdelingen 5.3 en 5.5 bedoelde methoden binnen de juridisch zelfstandige entiteiten die onderdeel uitmaken van de groep, bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), in combinatie worden toegepast, indien tenminste één van deze methoden wordt gebruikt voor de toepassing van artikel 5:18.   
@@ -3162,7 +3162,7 @@ e. onder de voorwaarde dat voor de CCR-vorderingen van de centrale tegenpartij m
 1.  Binnen de marktwaardemethode, wordt de positiewaarde per post berekend als de som van de positieve actuele vervangingswaarde per post en de potentiële toekomstige kredietpositie.   
 2.  De actuele vervangingswaarde wordt vastgesteld op basis van de actuele marktwaarde van contracten met een positieve waarde.   
 3.  De waarde van de potentiële toekomstige kredietpositie wordt vastgesteld, ongeacht of de actuele vervangingswaarde positief of negatief is, op basis van het totaal van de de theoretische hoofdsommen of op basis van de onderliggende waarden, voor zover van toepassing, vermenigvuldigd met de in tabel 1 van bijlage 5A genoemde percentages.   
-4.  Indien daartoe de voorafgaande toestemming van de DNB is verkregen, kan een financiële onderneming ingeval van contracten in grondstoffen en edele metalen anders dan goud voor de berekening van de potentiële kredietpositie, in afwijking van de percentages genoemd in tabel 1 van bijlage 5A, gebruik maken van de percentages genoemd in tabel 2 van bijlage 5A, mits de financiële onderneming voor de berekening van het positierisico in desbetreffende grondstoffen of edele metalen gebruik maakt van de looptijdmethode, bedoeld in [artikel 3:40 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md).   
+4.  Indien daartoe de voorafgaande toestemming van de DNB is verkregen, kan een financiële onderneming ingeval van contracten in grondstoffen en edele metalen anders dan goud voor de berekening van de potentiële kredietpositie, in afwijking van de percentages genoemd in tabel 1 van bijlage 5A, gebruik maken van de percentages genoemd in tabel 2 van bijlage 5A, mits de financiële onderneming voor de berekening van het positierisico in desbetreffende grondstoffen of edele metalen gebruik maakt van de looptijdmethode, bedoeld in [artikel 3:40 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md).   
 5.  In afwijking van de berekeningsmethode bedoeld in het eerste lid mag voor de berekening van de positiewaarde in geval van op één valuta betrekking hebbende floating renteswaps de vervangingswaarde van deze swaps worden genomen.   
 
 ### Afdeling  5.4  
@@ -3201,7 +3201,7 @@ De gestandaardiseerde methode wordt uitsluitend gebruikt voor verhandelde OTC-de
 
 1.  Binnen de gestandaardiseerde methode, wordt de positiewaarde van de post voor elk samenstel van verrekenbare transacties afzonderlijk berekend.   
 2.  De omvang van de positiewaarde, zekerheden in aanmerking genomen, wordt berekend op basis van formule 1 van bijlage 5B.   
-3.  Voor de toepassing van de gestandaardiseerde methode worden uitsluitend zekerheden als bedoeld in artikel 4:27 van deze regeling respectievelijk [artikel 3:32 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) erkend.   
+3.  Voor de toepassing van de gestandaardiseerde methode worden uitsluitend zekerheden als bedoeld in artikel 4:27 van deze regeling respectievelijk [artikel 3:32 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) erkend.   
 
 ### §  5.5.3  
 
@@ -3218,7 +3218,7 @@ b. transacties die uit twee betalingsgedeelten bestaan en in dezelfde valuta lui
 3.  Transacties met een lineair risicoprofiel waarbij een schuldinstrument als het onderliggende instrument fungeert, worden gekoppeld aan een rentetarief-risicopositie voor het schuldinstrument en aan een andere rentetarief-risicopositie voor het betalingsgedeelte.   
 4.  Indien het in het derde lid bedoelde onderliggende schuldinstrument in een buitenlandse valuta luidt, wordt het schuldinstrument gekoppeld aan een risicopositie in de desbetreffende valuta. Indien het betalingsgedeelte in een buitenlandse valuta luidt, wordt dit onverminderd het derde lid tevens aan een risicopositie in de desbetreffende valuta gekoppeld.   
 5.  Bij transacties met een lineair risicoprofiel die voorzien in de ruil van twee betalingen, wordt elk van beide betalingsgedeelten aan een rentetarief-risicopositie gekoppeld. Dit geldt ook voor valutatermijntransacties.   
-6.  Indien een betalingsgedeelte in een buitenlandse valuta luidt, wordt dat betalingsgedeelte tevens betrokken in de berekening van de eigen positie van de financiële onderneming in desbetreffende valuta volgens de [Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md).   
+6.  Indien een betalingsgedeelte in een buitenlandse valuta luidt, wordt dat betalingsgedeelte tevens betrokken in de berekening van de eigen positie van de financiële onderneming in desbetreffende valuta volgens de [Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md).   
 7.  Aan de post die uit een valuta-basisswap voortvloeit, wordt een waarde van nul toegekend.   
 
 ### §  5.5.4  
@@ -3255,11 +3255,11 @@ De risicoposities worden gegroepeerd in samenstellen van afdekkingsinstrumenten 
 
 ### Artikel  5:15  
 
-1.  Rentetarief-risicoposities die voortvloeien uit gelddeposito’s die van een tegenpartij als zekerheid uit betalingsgedeelten en onderliggende schuldinstrumenten zijn ontvangen en waarop volgens [artikel 3:9, derde lid, onderdeel d, van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) een solvabiliteitsvereiste van ten hoogste 1,6% van toepassing is, worden gegroepeerd in zes samenstellen van afdekkingsinstrumenten (hedging sets) voor elke valuta, zoals bedoeld in tabel 1 van bijlage 5B.   
+1.  Rentetarief-risicoposities die voortvloeien uit gelddeposito’s die van een tegenpartij als zekerheid uit betalingsgedeelten en onderliggende schuldinstrumenten zijn ontvangen en waarop volgens [artikel 3:9, derde lid, onderdeel d, van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) een solvabiliteitsvereiste van ten hoogste 1,6% van toepassing is, worden gegroepeerd in zes samenstellen van afdekkingsinstrumenten (hedging sets) voor elke valuta, zoals bedoeld in tabel 1 van bijlage 5B.   
 2.  Hedging sets worden gedefinieerd door middel van een combinatie van de criteria looptijd en referentierentetarieven.   
 3.  Voor rentetarief-risicoposities die voortvloeien uit onderliggende schuldinstrumenten of betalingsgedeelten en waarvan het rentetarief gekoppeld is aan een referentierentetarief dat een algemeen marktrenteniveau weerspiegelt, is de resterende looptijd gelijk aan de duur van het tijdsinterval tot de volgende aanpassing van het rentetarief. In alle overige gevallen is de resterende looptijd gelijk aan de resterende looptijd van het onderliggende schuldinstrument of, in het geval van een betalingsgedeelte, de resterende looptijd van de transactie.   
 4.  Er is één hedging set voor elke emittent die een referentieschuldinstrument uitgeeft, dat als onderliggende waarde van een credit default swap fungeert.   
-5.  Rentetarief-risicoposities die voortvloeien uit gelddeposito’s die bij een tegenpartij als zekerheid worden ondergebracht, worden voor elke emittent gegroepeerd in een hedging set, tenzij de tegenpartij schuldverplichtingen van een laag specifiek risico uit onderliggende schuldinstrumenten heeft waarop op grond van [artikel 3:9, derde lid, onderdeel d, van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) een solvabiliteitsvereiste van meer dan 1,6% van toepassing is. Wanneer een betalingsgedeelte is geënt op een schuldinstrument als bedoeld in de vorige volzin, is er eveneens één hedging set voor elke emittent van het referentieschuldinstrument.   
+5.  Rentetarief-risicoposities die voortvloeien uit gelddeposito’s die bij een tegenpartij als zekerheid worden ondergebracht, worden voor elke emittent gegroepeerd in een hedging set, tenzij de tegenpartij schuldverplichtingen van een laag specifiek risico uit onderliggende schuldinstrumenten heeft waarop op grond van [artikel 3:9, derde lid, onderdeel d, van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) een solvabiliteitsvereiste van meer dan 1,6% van toepassing is. Wanneer een betalingsgedeelte is geënt op een schuldinstrument als bedoeld in de vorige volzin, is er eveneens één hedging set voor elke emittent van het referentieschuldinstrument.   
 6.  Risicoposities die voortvloeien uit schuldinstrumenten van een bepaalde emittent of uit referentieschuldinstrumenten van dezelfde emittent waarop betalingsgedeelten zijn geënt respectievelijk die als onderliggende waarde van een credit default swap fungeren, kunnen in dezelfde hedging set worden ondergebracht.   
 
 ### Artikel  5:16  
@@ -3348,7 +3348,7 @@ Indien daarvoor de voorafgaande toestemming van DNB is verkregen, kan een financ
 a. het model specificeert de prognoseverdeling voor veranderingen in de marktwaarde van het samenstel van verrekenbare transacties die toe te schrijven zijn aan veranderingen in marktvariabelen; en  
 
 b. vervolgens berekent het model de waarde van de uit het samenstel van verrekenbare transacties voortvloeiende post in het licht van de veranderingen in de marktvariabelen op elke datum in de toekomst.     
-2.  Voor de toepassing van het eerste lid, onderdeel a, kan de financiële onderneming een erkende financiële zekerheid als bedoeld in artikel 4:27 van deze regeling respectievelijk [artikel 3:32 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md), in haar specificatie van de prognoseverdeling opnemen, indien wordt voldaan aan de kwantitatieve, kwalitatieve en gegevensvereisten voor de interne modellenmethode voor wat betreft de zekerheid. Ingeval van tegenpartijen met margeverplichtingen kan ook met toekomstige overdrachten van zekerheden rekening worden houden.   
+2.  Voor de toepassing van het eerste lid, onderdeel a, kan de financiële onderneming een erkende financiële zekerheid als bedoeld in artikel 4:27 van deze regeling respectievelijk [artikel 3:32 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md), in haar specificatie van de prognoseverdeling opnemen, indien wordt voldaan aan de kwantitatieve, kwalitatieve en gegevensvereisten voor de interne modellenmethode voor wat betreft de zekerheid. Ingeval van tegenpartijen met margeverplichtingen kan ook met toekomstige overdrachten van zekerheden rekening worden houden.   
 3.  Na toepassing van het eerste en tweede lid, wordt de positiewaarde overeenkomstig bijlage 5C berekend als het product van alfa en de effectieve EPE.   
 
 ### §  5.6.5  
@@ -3592,7 +3592,7 @@ Een financiële onderneming die gebruik maakt van zekerheden om haar tegenpartij
 
 ### Artikel  5:49  
 
-1.  Een financiële onderneming waarborgt dat haar EPE-model, onverminderd de volgende leden van dit artikel, in ieder geval aan de kwalitatieve validatievereisten van de [artikelen 4:4](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md), [4:5](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) en [4:7 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) voldoet.   
+1.  Een financiële onderneming waarborgt dat haar EPE-model, onverminderd de volgende leden van dit artikel, in ieder geval aan de kwalitatieve validatievereisten van de [artikelen 4:3](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md), [4:4](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) en [4:6 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md) voldoet.   
 2.  Onverminderd het eerste lid, worden rentetarieven, wisselkoersen, aandelenkoersen, grondstoffen en andere marktrisicofactoren over lange tijdshorizonten geprognosticeerd voor de meting van het tegenpartijrisico. De resultaten van het prognosemodel voor de marktrisicofactoren worden over een lange tijdshorizon gevalideerd.   
 3.  Onverminderd het eerste lid, worden de prijsmodellen voor de berekening van de vordering op een tegenpartij op basis van een scenario waarin marktrisicofactoren toekomstige schokken ondergaan, getest in het kader van het validatieproces, bedoeld in artikel 5:45. Voor de toepassing van de vorige volzin, wordt in prijsmodellen voor opties rekening gehouden met de niet-lineariteit van de optiewaarde ten opzichte van marktrisicofactoren.   
 
@@ -4004,11 +4004,11 @@ b. *toetsingsvermogen:* het toetsingsvermogen, bedoeld in [artikel 90, eerste li
 
 1.  De totale waarde van de positie met betrekking tot een individuele wederpartij of groep van verbonden wederpartijen in het kader van de handelsportefeuille, is gelijk aan de som van: 
 
-a. het verschil, indien positief, tussen de lange en korte posities van de financiële onderneming in alle door de betrokken wederpartij of groep van verbonden wederpartijen uitgegeven financiële instrumenten, waarbij de netto positie in elk onderscheiden instrument wordt berekend overeenkomstig [paragraaf 3.2 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md);  
+a. het verschil, indien positief, tussen de lange en korte posities van de financiële onderneming in alle door de betrokken wederpartij of groep van verbonden wederpartijen uitgegeven financiële instrumenten, waarbij de netto positie in elk onderscheiden instrument wordt berekend overeenkomstig [paragraaf 3.2 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md);  
 
-b. in het geval van overneming van emissies van schuldinstrumenten: de positie berekend overeenkomstig [paragraaf 3.5 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md); en  
+b. in het geval van overneming van emissies van schuldinstrumenten: de positie berekend overeenkomstig [paragraaf 3.5 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md); en  
 
-c. in het geval van niet-afgewikkelde posities en posities die onderworpen zijn aan tegenpartijrisico: de positie berekend overeenkomstig [paragraaf 3.8 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md).     
+c. in het geval van niet-afgewikkelde posities en posities die onderworpen zijn aan tegenpartijrisico: de positie berekend overeenkomstig [paragraaf 3.8 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md).     
 2.  De totale waarde van de positie met betrekking tot een individuele wederpartij of groep van verbonden wederpartijen is gelijk aan de som van: 
 
 a. de totale waarde van de positie met betrekking tot die wederpartij of groep van verbonden wederpartijen in het kader van de handelsportefeuille, bedoeld in het eerste lid; en  
@@ -4053,7 +4053,7 @@ b. in het geval van posities anders dan bedoeld in onderdeel a: 1% van het toets
 
 a. de overschrijding doet zich integraal voor binnen de handelsportefeuille;  
 
-b. de financiële onderneming voldoet ten aanzien van deze overschrijdingen aan de aanvullende solvabiliteitsvereisten bedoeld in [paragraaf 3.11 van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md);  
+b. de financiële onderneming voldoet ten aanzien van deze overschrijdingen aan de aanvullende solvabiliteitsvereisten bedoeld in [paragraaf 3.11 van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md);  
 
 c. de waarde van de positie met betrekking tot de desbetreffende wederpartij of groep van verbonden wederpartijen binnen de handelsportefeuille bedraagt niet meer dan 250% van het toetsingsvermogen van de financiële onderneming, in het geval niet meer dan tien dagen zijn verstreken sedert het ontstaan van de overschrijding;  
 
@@ -4242,39 +4242,42 @@ c. leningen die gedekt zijn door:
 
 ####Houdende tabellen met betrekking tot de risicogewichten toe te kennen aan vorderingen
 
-*Tabel A. Risicogewichten gebaseerd op kredietbeoordelingen door EKBI's (in %)*  
+Tabel A. Risicogewichten gebaseerd op kredietbeoordelingen door EKBI's (in %) 
 
 | Kredietkwaliteitstrap  | 1  | 2  | 3  | 4  | 5  | 6  |
 |:---|:---|:---|:---|:---|:---|:---|
-| Centrale overheden en centrale banken  | 0  | 20  | 50  | 100  | 100  | 150  |
-| Regionale en lokale overheden  | 20  | 50  | 100  | 100  | 100  | 150  |
-| Financiële ondernemingen  (resterende looptijd > 3 maanden)  | 20  | 50  | 50  | 100  | 100  | 150  |
-| Financiële ondernemingen  (resterende looptijd ≤ 3 maanden)  | 20  | 20  | 20  | 50  | 50  | 150  |
-| Ondernemingen (niet zijnde financiële ondernemingen of icbe’s)  | 20  | 50  | 100  | 100  | 150  | 150  |
-| Vorderingen op financiële ondernemingen met een kredietbeoordeling voor de korte termijn  | 20  | 50  | 100  | 150  | 150  | 150  |
-| Instellingen voor collectieve belegging in effecten (icbe’s)  | 20  | 50  | 100  | 100  | 150  | 150  |
+| Centrale overheden en centrale banken, zoals bedoeld in artikel 2:2 lid 1  | 0  | 20  | 50  | 100  | 100  | 150  |
+| Regionale en lokale overheden (resterende looptijd > 3 maanden), zoals bedoeld in artikel 2:7 lid 1  | 20  | 50  | 50  | 100  | 100  | 150  |
+| Regionale en lokale overheden (resterende looptijd < 3 maanden), zoals bedoeld in artikel 2:7 lid 1  | 20  | 50  | 50  | 100  | 100  | 150  |
+| Regionale en lokale overheden, zoals bedoeld in artikel 2:7 lid 2  | 20  | 20  | 20  | 20  | 20  | 20  |
+| Regionale en lokale overheden, zoals bedoeld in artikel 2:8  | 0  | 20  | 50  | 100  | 100  | 150  |
+| Regionale en lokale overheden, zoals bedoeld in artikel 2:9  | 0  | 20  | 50  | 100  | 100  | 150  |
+| Financiële ondernemingen (resterende looptijd > 3 maanden), zoals bedoeld in artikel 2:18  | 20  | 50  | 50  | 100  | 100  | 150  |
+| Financiële ondernemingen (resterende looptijd < 3 maanden), zoals bedoeld in artikel 2:19  | 20  | 20  | 20  | 50  | 50  | 150  |
+| Ondernemingen (niet zijnde financiële ondernemingen  of icbe's) , zoals bedoeld in artikel 2:24  | 20  | 50  | 100  | 100  | 150  | 150  |
+| Vorderingen op financiële ondernemingen met een  kredietbeoordeling voor de korte termijn, zoals bedoeld in artikel 2:26  | 20  | 50  | 100  | 150  | 150  | 150  |
+| Instellingen voor collectieve belegging in effecten (icb's), zoals bedoeld in artikel 2:43  | 20  | 50  | 100  | 100  | 150  | 150  |
 
-*Tabel B. Risicogewichten gebaseerd op kredietbeoordelingen door exportkredietverzekeringsmaatschappijen (in %)*  
+Tabel B. Risicogewichten gebaseerd op kredietbeoordelingen door exportkredietverzekeringsmaatschappijen (in %) 
 
 | Minimum exportverzekeringspremie (MEVP)  | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Risicogewicht  | 0  | 0  | 20  | 50  | 100  | 100  | 100  | 150  |
 
-Zie voor een overzicht van de mapping van erkende kredietbeoordelingbureaus de website van het Committee of European Banking Supervisors (CEBS): http://www.c-ebs.org/sd/spreadsheets/rules/ecai_recognition.xls 
+Zie voor een overzicht van de mapping van erkende kredietbeoordelingbureaus de website van de European Banking Authority (EBA): http://www.eba.europa.eu/sd/spreadsheets/rules/ecai_recognition.xls 
 
 ### Bijlage  2B  
 
 ####Houdende een lijst van regionale en lokale overheden waarvoor hetzelfde risicogewicht geldt als voor hun centrale overheid
 
-###Nederland
-
-Provincies Gemeenten Waterschappen Gemeenschappelijke regelingen met een bestuurlijk karakter 
-###Overige lidstaten van de Europese Unie
-
-Regionale en lokale overheden die door de toezichthouder op financiële ondernemingen in het betrokken land op de lijst zijn geplaatst van regionale en lokale overheden waarvoor hetzelfde risicogewicht geldt als voor hun centrale overheid. 
-###Overige landen
-
-Regionale en lokale overheden die door de toezichthouder op financiële ondernemingen in de landen genoemd in bijlage 2E op de lijst zijn geplaatst van regionale en lokale overheden waarvoor hetzelfde risicogewicht geldt als voor hun centrale overheid. 
+| --- | --- |
+|:---|:---|
+|  *Nederland*   | Provincies  |
+| Gemeenten  |
+| Waterschappen  |
+| Gemeenschappelijke regelingen met een bestuurlijk karakter  |
+|  *Overige lidstaten van de Europese Unie*   | Regionale en lokale overheden die door de toezichthouder op financiële ondernemingen in het betrokken land op de lijst zijn geplaatst van regionale en lokale overheden waarvoor hetzelfde risicogewicht geldt als voor hun centrale overheid.  |
+|  *Overige landen*   | Regionale en lokale overheden die door de toezichthouder op financiële ondernemingen in de landen genoemd in bijlage 2E op de lijst zijn geplaatst van regionale en lokale overheden waarvoor hetzelfde risicogewicht geldt als voor hun centrale overheid, indien:  a. geen verschil in risico bestaat vanwege de specifieke bevoegdheden van de regionale en lokale overheden om inkomsten te verkrijgen; en  b. het bestaan van specifieke institutionele regels waardoor de kans dat genoemde overheden in gebreke blijven, wordt verminderd.  |
 
 ### Bijlage  2C  
 
@@ -4529,7 +4532,7 @@ De in aanmerking te nemen vorderingswaarde van het potentiële kredietrisico van
 
 a. 5%, wanneer de referentieverplichting, gesteld dat zij voor de financiële onderneming een direct risico deed ontstaan, als gekwalificeerde post in aanmerking zou worden genomen; of  
 
-b. 10%, wanneer de referentieverplichting, gesteld dat zij voor de financiële onderneming een direct risico deed ontstaan, niet als gekwalificeerde post in aanmerking zou worden genomen.   Onder gekwalificeerde post wordt in dit verband verstaan de posities in schuldinstrumenten bedoeld in [artikel 3:9, derde lid, onderdelen a tot en met d, en vierde lid, onderdelen a tot en met e, van de Rsm 2010](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md). In het geval van een credit default swap is het financiële ondernemingen waarvoor het aan de swap verbonden risico een lange positie in de onderliggende waarde vertegenwoordigt, echter toegestaan om voor het potentiële toekomstige kredietrisico een percentage van 0% toe te passen, tenzij de credit default swap bezwaard is met closeout in geval van insolventie van de entiteit waarvoor het aan de swap verbonden risico een korte positie in de onderliggende waarde vertegenwoordigt, ook al is er voor de onderliggende waarde geen sprake van wanbetaling. Wanneer het kredietderivaat protectie verschaft voor het n <sup>de</sup> optredende default (kredietverzuim) onder een aantal onderliggende verplichtingen, wordt bepaald welk van de bovengenoemde percentages van toepassing is, aan de hand van de verplichting met de n <sup>de</sup> laagste kredietkwaliteit. De verplichting met de n <sup>de</sup> laagste kredietkwaliteit wordt op haar beurt bepaald door het antwoord op de vraag of de onderliggende verplichting, gesteld da zij in hoofde van de financiële onderneming een direct risico deed ontstaan, als gekwalificeerde post – zoals in de eerste alinea hierboven gedefinieerd – in aanmerking zou worden genomen. 
+b. 10%, wanneer de referentieverplichting, gesteld dat zij voor de financiële onderneming een direct risico deed ontstaan, niet als gekwalificeerde post in aanmerking zou worden genomen.   Onder gekwalificeerde post wordt in dit verband verstaan de posities in schuldinstrumenten bedoeld in [artikel 3:9, derde lid, onderdelen a tot en met d, en vierde lid, onderdelen a tot en met e, van de Rsm 2011](../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/marktrisico/BWBR0020700/README.md). In het geval van een credit default swap is het financiële ondernemingen waarvoor het aan de swap verbonden risico een lange positie in de onderliggende waarde vertegenwoordigt, echter toegestaan om voor het potentiële toekomstige kredietrisico een percentage van 0% toe te passen, tenzij de credit default swap bezwaard is met closeout in geval van insolventie van de entiteit waarvoor het aan de swap verbonden risico een korte positie in de onderliggende waarde vertegenwoordigt, ook al is er voor de onderliggende waarde geen sprake van wanbetaling in welk geval het percentage voor het toekomstige kredietrisico van de instelling wordt beperkt tot het bedrag van de premies die nog niet door de entiteit aan de instelling zijn betaald. Wanneer het kredietderivaat protectie verschaft voor het n <sup>de</sup> optredende default (kredietverzuim) onder een aantal onderliggende verplichtingen, wordt bepaald welk van de bovengenoemde percentages van toepassing is, aan de hand van de verplichting met de n <sup>de</sup> laagste kredietkwaliteit. De verplichting met de n <sup>de</sup> laagste kredietkwaliteit wordt op haar beurt bepaald door het antwoord op de vraag of de onderliggende verplichting, gesteld da zij in hoofde van de financiële onderneming een direct risico deed ontstaan, als gekwalificeerde post – zoals in de eerste alinea hierboven gedefinieerd – in aanmerking zou worden genomen. 
 ###Tabel 2
 
 Optioneel, ter berekening van de potentiële toekomstig kredietpositie op basis van de theoretische hoofdsommen of onderliggende waarden, onder de voorwaarden zoals genoemd in artikel 5:6, vierde lid  Tabel 2 
@@ -4574,8 +4577,8 @@ Bij artikel 5:17:   *Tabel 2*
 |--- | Hedging set categorieën  | CCRM  |
 |:---|:---|:---|
 | 1.  | Rentetarieven  | 0,2%  |
-| 2.  | Rentetarieven voor risicoposities die voortvloeien uit een referentieschuldinstrument dat als onderliggende waarde van een credit default swap fungeert en waarop ingevolge artikel 1:10 van de Rsm 2010 een kapitaalvereiste voor het specifieke positierisico van ten hoogste 1,6% op van toepassing is.  | 0,3%  |
-| 3.  | Rentetarieven voor risicoposities die voortvloeien uit een schuldinstrument of een referentieschuldinstrument waarop ingevolge artikel 1:10 van de Rsm 2010 een kapitaalvereiste van meer dan 1,6% van toepassing is.  | 0,6%  |
+| 2.  | Rentetarieven voor risicoposities die voortvloeien uit een referentieschuldinstrument dat als onderliggende waarde van een credit default swap fungeert en waarop ingevolge artikel 1:10 van de Rsm 2011 een kapitaalvereiste voor het specifieke positierisico van ten hoogste 1,6% op van toepassing is.  | 0,3%  |
+| 3.  | Rentetarieven voor risicoposities die voortvloeien uit een schuldinstrument of een referentieschuldinstrument waarop ingevolge artikel 1:10 van de Rsm 2011 een kapitaalvereiste van meer dan 1,6% van toepassing is.  | 0,6%  |
 | 4.  | Buitenlandse valuta (FX)  | 2,5%  |
 | 5.  | Electrische energie  | 4%  |
 | 6.  | Goud  | 5%  |

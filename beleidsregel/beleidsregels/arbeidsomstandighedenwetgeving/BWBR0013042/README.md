@@ -95,10 +95,6 @@ c. bij de berekening van de op te leggen bestuurlijke boete kunnen de drie facto
 
 ####Beleidsregels [arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)
 
-### Paragraaf  1  
-
-####Hoofdstuk 1 Definities en toepassingsgebied
-
 ### Beleidsregel  1.42  
 
 ####Organisatie van de arbeid van zwangere werknemers en werknemers tijdens de lactatie
@@ -133,10 +129,6 @@ a. stoffen die de gezondheid schade kunnen toebrengen via een zogenaamd genotoxi
 
 b. stoffen die, via een niet-genotoxisch werkingsmechanisme door blootstelling van de moeder de gezondheid van het ongeboren kind of de zuigeling kunnen schaden.     
 
-### Paragraaf  2  
-
-####Hoofdstuk 2 Arbozorg en organisatie van de arbeid
-
 ### Beleidsregel  2-2  
 
 ####Aanvullende eisen risico-inventarisatie en - evaluatie, aanwijzing installaties
@@ -165,49 +157,49 @@ c. Bij ontplofbare stoffen (onder deze categorie zijn ook mengsels begrepen) sch
 6.  Bij de afleiding van grenswaarden voor toxische stoffen, als bedoeld in [artikel 2.4, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt uitgegaan van het volgende schema:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 |  *LC50 IHL-RAT/1h mg/m <sup>3</sup>*   |  *Hoedanigheid bij 25 ºC*   |  *Grenswaarde (kg)*   |
 | 20 < LC ≤ 100  | gasvormig  | 3  |
 | --- | vloeibaar (L)  | 10  |
 | --- | vloeibaar (M)  | 30  |
 | --- | vloeibaar (H)  | 100  |
-| --- | vast  <sup> 1)   als respirabele stof    </sup> | 300  |
+| --- | vast ¹  | 300  |
 | 100 < LC ≤ 500  | gasvormig  | 30  |
 | --- | vloeibaar (L)  | 100  |
 | --- | vloeibaar (M)  | 300  |
 | --- | vloeibaar (H)  | 1000  |
-| --- | vast  <sup> 1)   als respirabele stof    </sup> | 3000  |
+| --- | vast ¹  | 3000  |
 | 500 < LC ≤ 2.000  | gasvormig  | 300  |
 | --- | vloeibaar (L)  | 1000  |
 | --- | vloeibaar (M)  | 3000  |
 | --- | vloeibaar (H)  | 10000  |
-| --- | vast  <sup> 1)   als respirabele stof    </sup> | GEEN  |
+| --- | vast ¹  | GEEN  |
 | 2.000 < LC ≤ 20.000  | gasvormig  | 3000  |
 | --- | vloeibaar (L)  | 10000  |
 | --- | vloeibaar (M)  | GEEN  |
 | --- | vloeibaar (H)  | GEEN  |
-| --- | vast  <sup> 1)   als respirabele stof    </sup> | GEEN  |
+| --- | vast ¹  | GEEN  |
 
-L: atmosferisch kookpunt tussen 25 °C en 50 °C M: atmosferisch kookpunt tussen 50 °C en 100 °C H: atmosferisch kookpunt boven 100 °C   
+¹ als respirabele stof L: atmosferisch kookpunt tussen 25 °C en 50 °C M: atmosferisch kookpunt tussen 50 °C en 100 °C H: atmosferisch kookpunt boven 100 °C   
 7.  Op basis van het gestelde in [artikel 2.4, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) is een lijst van grenswaarden van toxische stoffen opgesteld, welke is opgenomen als bijlage 4 bij deze beleidsregels. Tevens is een lijst van explosieve stoffen vastgesteld, welke is opgenomen als bijlage 5a bij deze beleidsregels. De lijsten zijn niet limitatief. Ze kunnen worden aangevuld dan wel gewijzigd indien meer of betere gegevens bekend worden. Het kan daadoor voorkomen dat een installatie op het moment van aanvulling van de lijst ARIE-plichtig wordt. De verplichting tot het opstellen van een ARIE is dan gekoppeld aan het tijdstip waarop de desbetreffende stof met de bijbehorende grenswaarde voor het eerst op de lijst verschijnt’.   
 8.  Als de procestemperatuur bedoeld in [artikel 2.5, onder e en f, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) gelijk is aan de omgevingstemperatuur, wordt een temperatuur van 25 °C aangehouden.   
 9.  De in [artikel 2.5 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) omschreven omstandigheidsfactoren kunnen als volgt in tabelvorm samengevat worden:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- |  *Omstandigheidsfactoren*   |  *Waarde*   |
 | a.  | Factor O <sub>s</sub> voor stof in opslag  | 0,01  |
 | b.  | Factor O <sub>c</sub> voor installatie binnen een omhulling  | 10  |
 | c.  | Factor O <sub>p</sub>: voor stof onder procesomstandigheden  | --- |
-| 1°  | vloeistof met procestemperatuur boven atmosferisch kookpunt  <sup> 1)   Voor een procestemperatuur beneden 25 °C, zie 10e lid, onder d.    </sup> <sup> 2)   Voor gecompliceerde mengsels, zie 10e lid, onder a.    </sup> | 1 tot 10 (zie tabel)  |
-| 2°  | vloeistof met procestemperatuur beneden atmosferisch kookpunt  <sup> 1)   Voor een procestemperatuur beneden 25 °C, zie 10e lid, onder d.    </sup> <sup> 2)   Voor gecompliceerde mengsels, zie 10e lid, onder a.    </sup> | 0,1 tot 1 (zie tabel)  |
+| 1°  | vloeistof met procestemperatuur ¹ boven atmosferisch kookpunt ²  | 1 tot 10 (zie tabel)  |
+| 2°  | vloeistof met procestemperatuur ¹ beneden atmosferisch kookpunt ²  | 0,1 tot 1 (zie tabel)  |
 | 3°  | stof in de gasfase  | 10  |
-| 4°  | stof in de vaste fase (respirabel poeder)  <sup> 3)   Vaste toxische en extreem toxische stoffen worden alleen in beschouwing genomen voor zover ze in poedervorm voorkomen (respirabel).    </sup> | 0,1  |
+| 4°  | stof in de vaste fase (respirabel poeder) ³  | 0,1  |
 
-Berekeningswijze factor O <sub>p</sub> voor vloeistoffen 
+¹ Voor een procestemperatuur beneden 25 °C, zie 10e lid, onder d. ² Voor gecompliceerde mengsels, zie 10e lid, onder a. ³ Vaste toxische en extreem toxische stoffen worden alleen in beschouwing genomen voor zover ze in poedervorm voorkomen (respirabel).  Berekeningswijze factor O <sub>p</sub> voor vloeistoffen 
 
 |  *Procestemperatuur ten opzichte van het atmosferisch kookpunt:*   |  *Factor O <sub>p</sub>*   |
-|---|---|
+|:---|:---|
 | meer dan 90 °C lager  | 0,1  |
 | 80 °C tot 90 °C lager  | 0,2  |
 | 70 °C tot 80 °C lager  | 0,3  |
@@ -239,7 +231,7 @@ c. De factor O <sub>p</sub> mag in een dergelijk geval tussen de grenzen 0,1 en 
 d. Bij een procestemperatuur beneden 25°C wordt O <sub>p</sub> voor vloeistoffen als volgt verhoogd:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | procestemperatuur:  | 25 °C tot -25 °C  | O <sub>p</sub> + 0  |
 | --- | -25 °C tot -75 °C  | O <sub>p</sub> + 1  |
 | --- | -75 °C tot -125 °C  | O <sub>p</sub> + 2  |
@@ -249,10 +241,6 @@ met dien verstande dat de resulterende O <sub>p</sub> maximaal 10 bedraagt.
 
 e. De totale omstandigheidsfactor O is gelijk aan het product van de factor voor opslag (O <sub>s</sub>), de factor voor omhulling(O <sub>c</sub>) en de procesfactor(O <sub>p</sub>) .     
 11.  Omstandigheidsfactor voor opslag. In of aan installaties voor opslag kunnen voorzieningen zijn getroffen die tot doel hebben de opgeslagen stof onder opslagcondities te houden. (Bijvoorbeeld een warmtewisselaar, roerwerk, circulatiesysteem, doseersysteem). Het in gebruik hebben van een dergelijke voorziening heeft niet tot gevolg dat de installatie voor opslag als een installatie voor bewerking bezien moet worden. De toe te kennen omstandigheidsfactor blijft 0,01.   
-
-### Paragraaf  3  
-
-####Hoofdstuk 3 Inrichting arbeidsplaatsen
 
 ### Beleidsregel  3.5g -1  
 
@@ -299,10 +287,6 @@ b. ten aanzien van de sterkte
 5.  Werkvloeren zijn altijd gesloten of dichtgelegd. Voor afwateringsdoeleinden e.d. zijn geringe openingen toegestaan, die door een kubus met zijden van 8 cm met kunnen worden gepasseerd.   
 6.  Onder "het verrichten van arbeid waarbij valgevaar bestaat" wordt ook verstaan het zich begeven naar de arbeidsplaats. Doelmatige voorzieningen hiervoor kunnen ladders zijn, mits deze bij klimhoogten van 10 m of meer op maximale afstanden van 7,50 m zijn onderbroken door rustbordessen. Op het te betreden vlak is aan weerszijden van de toegang randbeveiliging aangebracht over een lengte van 4,0 m of sluit de toegang aan op de aanwezige randbeveiliging.  Deze beleidsregel is niet van toepassing aan boord van schepen. Voor schepen gelden de voorschriften voor de voorzieningen bij valgevaar zoals die in de schepenwetgeving zijn opgenomen.  
 
-### Paragraaf  4  
-
-####Hoofdstuk 4 Gevaarlijke stoffen en biologische agentia
-
 ### Beleidsregel  4.1c -2  
 
 ####Etikettering gevaarlijke stoffen die op de werkplek aanwezig zijn
@@ -317,7 +301,7 @@ b. gevaarssymbolen en gevaarsbenamingen,
 
 c. waarschuwingszinnen     
 2.  Voor de aanduiding geldt dat een stof niet alleen in een gevaarscategorie wordt ingedeeld als de desbetreffende indelingscriteria van de Wet milieubeheer (Wm) daartoe aanleiding geven, maar ook als onderzoeksresultaten met die stof voldoen aan de criteria van de Wm.   
-3.  In afwijking van het eerste lid worden op laboratoriumhulpmiddelen die voor steeds wisselende chemicaliën worden gebruikt, niet steeds alle voor de werkpleketikettering verplichte aanduidingen aangebracht. In dit geval wordt aan de verplichting als bedoeld in artikel 4.1c, eerste lid, onder i, van het Arbeidsomstandighedenbesluit voldaan als voor een enkelvoudige stof de officiële stofnaam, en voor een meervoudige stof de gangbare benaming of de gevaarlijke bestanddelen op de bedoelde hulpmiddelen worden aangebracht. Deze aanduidingen zijn met verplicht wanneer hulpmiddelen alleen gebruikt worden voor kortdurende handelingen.   
+3.  In afwijking van het eerste lid worden op laboratoriumhulpmiddelen die voor steeds wisselende chemicaliën worden gebruikt, niet steeds alle voor de werkpleketikettering verplichte aanduidingen aangebracht. In dit geval wordt aan de verplichting als bedoeld in artikel 4.1c, eerste lid, onder i, van het Arbeidsomstandighedenbesluit voldaan als voor een enkelvoudige stof de officiële stofnaam, en voor een meervoudige stof de gangbare benaming of de gevaarlijke bestanddelen op de bedoelde hulpmiddelen worden aangebracht. Deze aanduidingen zijn niet verplicht wanneer hulpmiddelen alleen gebruikt worden voor kortdurende handelingen.   
 4.  In afwijking van het eerste lid wordt in het geval van opslag van stoffen in grotere hoeveelheden in speciale opslagruimten aan artikel 4.1c, eerste lid, onder i, van het Arbeidsomstandighedenbesluit voldaan, wanneer voor meerdere identieke verpakkingen door middel van één etiket-afdruk (bijvoorbeeld op een bord) opvallend en goed leesbaar de verplichte aanduidingen aangebracht zijn. Deze aanduidingen worden zodanig aangebracht dat voor elke afzonderlijk opgeslagen verpakking te allen tijde ter plekke duidelijk is dat de aanduidingen op de betreffende verpakking van toepassing zijn. Wanneer stoffen uitsluitend voor de verkoop zijn opgeslagen kan worden volstaan met het aanbrengen van de aanduidingen welke krachtens de Wm of andere regelgeving bij aflevering in Nederland verplicht zijn.   
 5.  In afwijking van het eerste lid wordt in geval van het vervoer en het laden en lossen van gevaarlijke stoffen aan artikel 4.1c, eerste lid, onder i, voldaan, als de vervoerders (chauffeurs en bijrijders) en de laders en lossers tijdens hun werkzaamheden ter plekke beschikken over de gegevens welke op grond van het tweede lid op het etiket zouden moeten zijn vermeld. Het in het eerste lid gestelde vindt geen toepassing voor die gevallen waarop de Wet vervoer gevaarlijke stoffen van toepassing is.   
 
@@ -573,18 +557,6 @@ d. R41: "Gevaar voor ernstig oogletsel"
 
 e. S39: "Een beschermingsmiddel voor de ogen/voor het gezicht dragen".   In dergelijke situaties worden doelmatige persoonlijke oog- of gezichtbeschermingsmiddelen gedragen.   
 
-### Paragraaf  5  
-
-####Hoofdstuk 5 Fysieke belasting
-
-### Paragraaf  6  
-
-####Hoofdstuk 6 Fysische factoren
-
-### Paragraaf  7  
-
-####Hoofdstuk 7 Arbeidsmiddelen en specifieke werkzaamheden
-
 ### Beleidsregel  7.4 -3  
 
 ####Deugdelijkheid van vierwielige trekkers
@@ -593,10 +565,6 @@ Grondslag: Arbobesluit artikel 7.4.
 
 1.  Vierwielige trekkers met een massa groter dan 800 kg zijn ter voldoening aan artikel 7.4, eerste en tweede lid, van het Arbeidsomstandighedenbesluit, ter bescherming van de bestuurder of meerijder(s) tegen het gevaar van kantelen of achter overslaan, uitgerust met een doelmatige veiligheids-cabine, -frame of -beugel. In geval zij zijn voorzien van een open veiligheidsframe of -beugel zijn zij tevens uitgerust met veiligheidsgordels voor de zitplaatsen van bestuurder en meerijder(s);   
 2.  Ter voldoening aan het gestelde in artikel 7.4, derde lid, van het Arbeidsomstandighedenbesluit zijn de in het eerste lid van deze beleidsregel bedoelde trekkers uitgerust met een laag aankoppelpunt om het gevaar voor achteroverslaan te voorkomen.   
-
-### Paragraaf  8  
-
-####Hoofdstuk 8 Persoonlijke beschermingsmiddelen en veiligheids- en gezondheidssignalering
 
 ### Hoofdstuk  3  
 
