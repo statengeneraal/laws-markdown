@@ -28,6 +28,8 @@ e. rechtens zijn vrijheid is ontnomen: rechtens zijn vrijheid is ontnomen, behou
 
 f. justitiële inrichting: een penitentiaire inrichting of een inrichting voor verpleging van ter beschikking gestelden;  
 
+g. continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland;  
+
 g. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geworden vonnis opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), behoudens de gevallen, bedoeld in [artikel 37, eerste lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).     
 2.  In deze wet en de daarop berustende bepalingen wordt gelijkgesteld met: 
 
@@ -78,7 +80,7 @@ Ingezetene in de zin van deze wet is degene, die in Nederland woont.
 
 a. ingezetene is;  
 
-b. geen ingezetene is, doch ter zake van in Nederland in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
+b. geen ingezetene is, doch ter zake van in Nederland of op het continentaal plat in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
 2.  Niet verzekerd is de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 3.  Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het eerste en tweede lid, uitbreiding dan wel beperking worden gegeven aan de kring der verzekerden.   
 4.  Bij een maatregel, als bedoeld in het derde lid, kan worden afgeweken van het tweede lid ten aanzien van: 
@@ -314,7 +316,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../we
 ### Artikel  17i  
 
 1.  De Sociale verzekeringsbank verrekent de bestuurlijke boete met het ouderdomspensioen dat degene aan wie een bestuurlijke boete is opgelegd op grond van deze wet ontvangt.   
-2.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet werk en inkomen kunstenaars](../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md).   
+2.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 4.  Zolang de belanghebbende zijn verplichting, bedoeld in artikel 17c, vierde lid, niet of niet behoorlijk nakomt: 
 
@@ -330,7 +332,7 @@ a. aan de langstlevende van de echtgenoten;
 
 b. bij ontstentenis van de in onderdeel a bedoelde persoon, aan de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond;  
 
-c. bij ontstentenis van de in de onderdelen a en b bedoelde personen, aan degenen met wie de overledene.     
+c. bij ontstentenis van de in de onderdelen a en b bedoelde personen, aan degenen met wie de overledene in gezinsverband leefde.     
 2.  De overlijdensuitkering is gelijk aan het bedrag van het ouderdomspensioen over één maand, met uitzondering van de toeslag, berekend naar de hoogte van het ouderdomspensioen in de maand van overlijden van degene aan wie ouderdomspensioen is toegekend.   
 3.  De overlijdensuitkering wordt ambtshalve of op verzoek aan de rechthebbende of rechthebbenden door de Sociale verzekeringsbank uitbetaald.   
 4.  De overlijdensuitkering wordt in een bedrag ineens aan de rechthebbende of rechthebbenden uitbetaald.   
@@ -415,7 +417,7 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 
 c. de vordering van de Sociale verzekeringsbank wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
 
-d. een naar het oordeel van de Sociale verzekeringsbank betrouwbare schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
+d. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
 
 e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
@@ -432,7 +434,7 @@ c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste
 
 ### Artikel  25a  
 
-Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 25 van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 25 is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
 
 ### Artikel  26  
 
@@ -503,7 +505,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder gewezen
 
 a. de gewezen verzekerde die in dienstbetrekking staat tot een Nederlandse publiekrechtelijke rechtspersoon dan wel uit anderen hoofde loon geniet van een zodanige rechtspersoon;  
 
-b. de gewezen verzekerde die is uitgezonden om werkzaamheden te verrichten voor door Onze Minister in overeenstemming met Onze Minister voor Ontwikkelingssamenwerking aan te wijzen organisaties voor ontwikkelingssamenwerking;  
+b. de gewezen verzekerde die is uitgezonden om werkzaamheden te verrichten voor door Onze Minister in overeenstemming met Onze Minister van Buitenlandse Zaken aan te wijzen organisaties voor ontwikkelingssamenwerking;  
 
 c. de gewezen verzekerde die werkzaam is bij een door Onze Minister, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen volkenrechtelijke organisatie;  
 

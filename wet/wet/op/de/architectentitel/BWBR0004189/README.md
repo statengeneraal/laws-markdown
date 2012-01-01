@@ -194,7 +194,7 @@ e. een in een derde land behaald of verworven diploma, certificaat of andere tit
 
 f. een getuigschrift op het gebied van tuin- en landschapsarchitectuur, dat door een daartoe bevoegde instelling in een derde land is verstrekt en door het bureau, na een daartoe ingesteld onderzoek, is erkend.     
 2.  Een persoon kan krachtens artikel 28 of 29 als tuin- en landschapsarchitect in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.   
-3.  Onze Minister van Landbouw en Visserij stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.   
+3.  Onze Minister van Landbouw, Natuur en Voedselkwaliteit stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.   
 
 ### Artikel  12  
 
@@ -247,6 +247,103 @@ e. de vergoeding van de leden van de examencommissie.
 1.  Een persoon die in het bezit is van een opleidingstitel op het gebied van architectuur als bedoeld in artikel 21 van de richtlijn, of van een opleidingstitel als bedoeld in artikel 10, eerste lid, onderdeel d, 11, eerste lid, onderdeel d, of 12, eerste lid, onderdeel d, wordt in het register ingeschreven indien hij in de staat, waar hij die opleidingstitel heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in artikel 12e, heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.   
 2.  Een persoon die in het bezit is van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f, wordt in het register ingeschreven indien hij in het derde land, waar hij dat getuigschrift heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in artikel 12e, heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.   
 
+### Hoofdstuk  IVa  
+
+####Beroepservaringperiode
+
+### Artikel  12d  
+
+1.  Een persoon die in het bezit is van een getuigschrift van een opleiding als bedoeld in artikel 9, eerste lid, onderdeel a, b of c, 10, eerste lid, onderdeel a, b of c, 11, eerste lid, onderdeel a, b of c, of 12, eerste lid, onderdeel a, b of c, waarvan de inrichting voldoet aan de voorschriften, bedoeld in het derde lid van die artikelen, wordt op verzoek in het register ingeschreven, indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in artikel 12e, heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.   
+2.  Het eerste lid is niet van toepassing op een persoon, die in het jaar waarin de regels, bedoeld in artikel 12e, worden bekend gemaakt of in de twee daaropvolgende jaren het getuigschrift, bedoeld in het eerste lid, heeft behaald.   
+3.  Het bureau kan besluiten dat het getuigschrift van een opleiding als bedoeld in artikel 9, eerste lid, onderdeel b, 10, eerste lid, onderdeel b, 11, eerste lid, onderdeel b, of 12, eerste lid, onderdeel b, een vrijstelling oplevert van de tweejarige beroepservaringperiode, bedoeld in artikel 12e, indien: 
+
+a. het praktijkgedeelte van die opleiding wat betreft inrichting en inhoud vergelijkbaar is aan hetgeen daaromtrent krachtens artikel 12e, tweede lid, is bepaald ten aanzien van de tweejarige beroepservaringperiode;  
+
+b. geborgd is dat de persoon die in het bezit is van het getuigschrift het praktijkgedeelte van die opleiding overeenkomstig onderdeel a heeft gevolgd, en  
+
+c. geborgd is dat het bureau tijdig in kennis wordt gesteld van een voornemen tot wijziging in het praktijkgedeelte.     
+
+### Artikel  12e  
+
+1.  De tweejarige beroepservaringperiode is gericht op het zich in de praktijk bekwamen in de uitoefening van het beroep waarvoor met goed gevolg een opleiding is gevolgd als bedoeld in artikel 9, eerste lid, onderdeel a, b of c, 10, eerste lid, onderdeel a, b of c, 11, eerste lid, onderdeel a, b of c, of 12, eerste lid, onderdeel a, b of c, onder begeleiding van een persoon die bij de aanvang van de begeleiding blijkens de inschrijving in het register ten minste drie jaar beroepsmatig werkzaam is in datzelfde beroep.   
+2.  Het bureau stelt regels vast met betrekking tot de tweejarige beroepservaringperiode. Die regels hebben in ieder geval betrekking op: 
+
+a. de inrichting van die periode;  
+
+b. het niveau van kennis, inzicht en vaardigheden, waarover een persoon als bedoeld in artikel 12d, eerste lid, in ieder geval dient te beschikken na het doorlopen van die periode;  
+
+c. de wijze waarop die periode wordt afgesloten;  
+
+d. voorwaarden waaronder geheel of gedeeltelijk vrijstelling kan worden verkregen van het gedurende twee jaar doorlopen van die periode;  
+
+e. de begeleiding;  
+
+f. een voorziening in geval van een conflict tussen de begeleider en de persoon die hij begeleidt.     
+
+### Hoofdstuk  IVb  
+
+####Inschrijving en doorhaling in het register
+
+### Artikel  13  
+
+1.  Een persoon die in het register wenst te worden ingeschreven, dient daartoe een verzoek in bij het bureau. Een verzoek gaat vergezeld van de stukken aan de hand waarvan het bureau de identiteit, de opleiding en de beroepservaring van de verzoeker kan vaststellen.   
+2.  Het bureau kan een verzoek als bedoeld in het eerste lid of een aanvraag als bedoeld in het derde lid niet in behandeling nemen indien de krachtens artikel 8, aanhef en onderdeel a of b, vastgestelde vergoeding niet is ontvangen.   
+3.  Het bureau bevestigt binnen een maand de ontvangst van een aanvraag om erkenning van een opleidingstitel als bedoeld in artikel 9, eerste lid, onderdeel h, 10, eerste lid, onderdeel d, 11, eerste lid, onderdeel d, of 12, eerste lid, onderdeel d, of van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f. Het wijst er in die bevestiging op dat het besluit omtrent de aangevraagde erkenning gelijktijdig een besluit kan inhouden omtrent inschrijving in het register indien de aanvrager alsnog verzoekt om inschrijving in het register overeenkomstig het eerste lid.   
+4.  Indien een persoon blijkens zijn verzoek om inschrijving in het register in het bezit is van een opleidingstitel als bedoeld in artikel 9, eerste lid, onderdeel h, 10, eerste lid, onderdeel d, 11, eerste lid, onderdeel d, of 12, eerste lid, onderdeel d, of van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f, die of dat nog niet door het bureau is erkend, merkt het bureau het verzoek om inschrijving tevens aan als een aanvraag om erkenning van die opleidingstitel of dat getuigschrift. Het bureau doet daarvan binnen een maand na de ontvangst mededeling in de bevestiging van de ontvangst van het verzoek.   
+5.  Het bureau neemt in een geval waarin een aanvraag om erkenning of een verzoek om inschrijving in het register betrekking heeft op een opleidingstitel als bedoeld in artikel 9, eerste lid, onderdeel h, 10, eerste lid, onderdeel d, 11, eerste lid, onderdeel d, of 12, eerste lid, onderdeel d, binnen drie maanden na ontvangst van alle stukken die het nodig acht voor zijn oordeelsvorming een besluit omtrent de erkenning.   
+6.  Indien het bureau toepassing geeft aan [artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) houdt het het besluit omtrent de erkenning aan overeenkomstig [artikel 19, derde lid, van die wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md). Het derde en vierde lid van dat artikel zijn van overeenkomstige toepassing.   
+
+### Artikel  14  
+
+1.  Het bureau draagt zorg dat na het nemen van een besluit tot inschrijving ten spoedigste inschrijving van de verzoeker in het register plaatsvindt.   
+2.  In het register worden opgenomen naam, voornamen, geboortedatum, adres en opleiding van de verzoeker, alsmede de titel waaronder de inschrijving is verkregen.   
+3.  Het bureau verstrekt de aanvrager onmiddellijk na de inschrijving in het register een bewijs van inschrijving.   
+
+### Artikel  15  
+
+Het bureau kan bepalen dat de indiener van het verzoek in persoon voor hem zal verschijnen. De oproeping maakt van een zodanig besluit melding.  
+
+### Artikel  16  
+
+1.  Dadelijk na inschrijving in het register en voorts telkens na verloop van een jaar is de ingeschrevene de krachtens artikel 8, aanhef en onderdeel d, vastgestelde vergoeding verschuldigd.   
+2.  In geval de bijdrage door middel van girale betaling is voldaan, zendt het bureau na ontvangst van de bijdrage een bewijs van betaling aan degene die heeft betaald.   
+
+### Artikel  17  
+
+1.  Het bureau haalt een inschrijving in het register door: 
+
+a. indien de inschrijving, gelet op het bij of krachtens deze wet bepaalde, ten onrechte is geschied;  
+
+b. indien de ingeschrevene niet voldoet aan de verplichting tot het betalen van de in artikel 16, eerste lid, bedoelde bijdrage;  
+
+c. op verzoek van de ingeschrevene;  
+
+d. na het overlijden van de ingeschrevene.     
+2.  Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder *a*, wordt niet genomen dan nadat overeenkomstige toepassing is gegeven aan [artikel 4:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder *b*, wordt niet genomen dan nadat vier weken zijn is verstreken na de dag, waarop de betrokkene op zijn verzuim en het in het eerste lid bedoelde gevolg daarvan is gewezen.   
+4.  Elke doorhaling van een inschrijving op een der gronden, bedoeld in het eerste lid, onderdelen a tot en met c, wordt onmiddellijk bekendgemaakt, onder vermelding van hetgeen in artikel 18 is bepaald.   
+5.  Het bureau houdt aantekening van de doorhalingen en van de data waarop deze zijn geschied.   
+
+### Artikel  18  
+
+1.  Degene, van wie de inschrijving op grond van artikel 17, eerste lid, onderdeel b of c, is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken.   
+2.  Het in het eerste lid bedoelde verzoek wordt niet in behandeling genomen zolang niet de krachtens artikel 8, aanhef en onderdeel a, vastgestelde vergoeding is betaald, en zolang niet de reeds vóór het tijdstip van doorhaling verschuldigde, maar nog niet betaalde vergoedingen als bedoeld in artikel 8, aanhef en onderdeel d, zijn voldaan.   
+
+### Artikel  19  
+
+1.  Het bureau maakt binnen vier weken na ontvangst van het verzoek, bedoeld in artikel 18, eerste lid, de doorhaling ongedaan.   
+2.  Artikel 14, derde lid, is van overeenkomstige toepassing.   
+
+### Artikel  20  
+
+Voor de toepassing van het bepaalde in artikel 16, eerste lid, geldt het tijdstip waarop een doorhaling ongedaan is gemaakt als tijdstip van inschrijving in het register.  
+
+### Artikel  21  
+
+1.  Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
+2.  [Artikel 8:4, onderdeel e, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+3.  Voor zover een besluit inzake een erkenning als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f, aangemerkt wordt als algemeen verbindend voorschrift, kan in afwijking van [artikel 8:2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) beroep ingesteld worden bij het College van Beroep voor het bedrijfsleven.   
+
 ### Hoofdstuk  V  
 
 ####Titelbescherming
@@ -277,27 +374,7 @@ e. de vergoeding van de leden van de examencommissie.
 
 ### Hoofdstuk  VI  
 
-####Examens
-
-### Artikel  25  
-
-1.  Ten minste eenmaal per jaar geeft Onze Minister die ingevolge onderscheidenlijk de artikelen 9, eerste lid, onder *g*, 10, eerste lid, onder *e*, 11, eerste lid, onder *g*, en 12, eerste lid, onder *d*, bevoegd is tot het verlenen van ontheffing, de mogelijkheid tot het afleggen van het examen, bedoeld in die artikelen.   
-2.  De omvang en inrichting van de examens worden vastgesteld bij of krachtens algemene maatregel van bestuur. Daarbij worden tevens geregeld de eisen voor de toelating tot het afleggen van de examens, alsmede die voor het verkrijgen van vrijstelling voor bepaalde onderdelen daarvan.   
-3.  Een krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, vastgesteld examenreglement, alsmede elke wijziging daarvan, behoeft de goedkeuring van Onze ingevolge het bepaalde in het eerste lid betrokken Minister.   
-4.  De voordracht tot de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt gedaan door Onze ingevolge het bepaalde in het eerste lid betrokken Minister.   
-
-### Artikel  26  
-
-1.  Ten minste eenmaal per jaar stelt Onze Minister degene die voldoet aan artikel 9, eerste lid, onder c, en die is ingeschreven in het register, doch niet volledig voldoet aan artikel 47, tweede lid, van de richtlijn, in de gelegenheid tot het afleggen van een examen als bedoeld in dat artikellid van de richtlijn.   
-2.  Artikel 25, tweede, derde en vierde lid, zijn van toepassing, met dien verstande dat de voordracht wordt gedaan door Onze Minister.   
-
-### Artikel  27  
-
-Zij die zich aan een van de in artikel 25 bedoelde examens of bepaalde onderdelen daarvan dan wel aan het in artikel 26 bedoelde examen wensen te onderwerpen, worden hiertoe niet toegelaten dan na betaling van een examengeld, waarvan het bedrag ingevolge het bepaalde in artikel 7 is vastgesteld.  
-
-### Hoofdstuk  VII  
-
-####Bij- en nascholing
+####Bij- en nascholing; informatieplicht
 
 ### Artikel  27a  
 
@@ -313,7 +390,7 @@ b. op diens verzoek in het register wordt aangemerkt als niet beroepsmatig actie
 
 Degene die is ingeschreven in het register informeert de persoon die hem een offerte vraagt over zijn relevante deskundigheid en vakbekwaamheid, met inbegrip van zijn bij- en nascholingsactiviteiten, de dekking van de door hem te verrichten werkzaamheden door een beroepsaansprakelijkheidsverzekering, diens rechten en plichten jegens hem als opdrachtgever en de borging daarvan, alsmede over diens rechten en plichten jegens een derde, ingeval die derde het werk heeft ontworpen waarop de offerte betrekking heeft of werkzaamheden heeft gestaakt die blijkens de offerte dienen te worden hervat.  
 
-### Hoofdstuk  VIIa  
+### Hoofdstuk  VII  
 
 ####Dienstverrichting op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur
 
@@ -338,6 +415,10 @@ c. ingeval het beroep niet is gereglementeerd in zijn staat een bewijs dat hij h
 2.  Het bureau kan bij de bevoegde autoriteit van een andere betrokken staat gegevens van een dienstverrichter opvragen voor zover noodzakelijk voor de afhandeling van een klacht van een afnemer over de dienstverrichter in het kader van zijn dienstverrichting.   
 3.  Het bureau verstrekt aan de bevoegde autoriteit van een andere betrokken staat gegevens van een in het register ingeschrevene voor zover noodzakelijk voor de afhandeling van een klacht van een afnemer over die ingeschrevene in het kader van zijn dienstverrichting.   
 
+### Hoofdstuk  VIIa  
+
+####Overgangsbepalingen
+
 ### Artikel  28  
 
 1.  Onverminderd de doorhaling van een inschrijving in het register krachtens artikel 17 blijft degene die in het register is ingeschreven door de Stichting bureau architectenregister ingeschreven in het register.   
@@ -356,6 +437,10 @@ b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in onderdee
 a. hij daarvoor in Nederland een opleiding volgde op het tijdstip, bedoeld in het eerste lid, onderdeel a, en  
 
 b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in het eerste lid, onderdeel a, recht gaf op inschrijving in het register.     
+
+### Artikel  30  
+
+Een persoon die op het tijdstip, bedoeld in artikel 28, eerste lid, of die daarna krachtens artikel 29, eerste lid, in het register is ingeschreven als architect, stedenbouwkundige of tuin- en landschapsarchitect kan een overeenkomstig verzoek doen als bedoeld in artikel 12a, tweede lid, indien hij voldoet aan de krachtens dat lid gestelde nadere eisen.  
 
 ### Hoofdstuk  VIII  
 

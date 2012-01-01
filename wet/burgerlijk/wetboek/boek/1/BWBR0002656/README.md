@@ -917,7 +917,7 @@ Wordt in een geding betwist dat een kind, dat uiterlijk bezit van staat heeft, u
 
 ### Artikel  80b  
 
-Op een geregistreerd partnerschap zijn de titels 6, 7 en 8 van overeenkomstige toepassing.  
+Op een geregistreerd partnerschap zijn de titels 6, 7 en 8 van overeenkomstige toepassing met uitzondering van het omtrent scheiding van tafel en bed bepaalde.  
 
 ### Artikel  80c  
 
@@ -960,7 +960,7 @@ d. de verevening of verrekening van pensioenrechten.
 
 ### Artikel  80f  
 
-Indien de partijen wier geregistreerd partnerschap is beëindigd, opnieuw een geregistreerd partnerschap met elkaar aangaan dan wel met elkaar in het huwelijk treden, herleven alle gevolgen van het geregistreerd partnerschap van rechtswege alsof er geen beëindiging heeft plaats gehad. Nochtans wordt de geldigheid van rechtshandelingen die tussen de inschrijving van de beëindiging en de nieuwe registratie of het huwelijk zijn verricht, beoordeeld naar het tijdstip van de handeling. Op het maken of wijzigen van de voorwaarden, bedoeld in titel 8, vóór het aangaan van de nieuwe registratie of het huwelijk is artikel 119 van overeenkomstige toepassing.  
+Indien de partijen wier geregistreerd partnerschap is beëindigd, opnieuw een geregistreerd partnerschap met elkaar aangaan dan wel met elkaar in het huwelijk treden, herleven alle gevolgen van het geregistreerd partnerschap van rechtswege alsof er geen beëindiging heeft plaats gehad. Nochtans wordt de geldigheid van rechtshandelingen die tussen de inschrijving van de beëindiging en de nieuwe registratie of het huwelijk zijn verricht, beoordeeld naar het tijdstip van de handeling.  
 
 ### Artikel  80g  
 
@@ -980,6 +980,10 @@ Echtgenoten zijn elkander getrouwheid, hulp en bijstand verschuldigd. Zij zijn v
 
 Echtgenoten zijn jegens elkaar verplicht de tot het gezin behorende minderjarige kinderen te verzorgen en op te voeden en de kosten van die verzorging en opvoeding te dragen.  
 
+### Artikel  83  
+
+Echtgenoten verschaffen elkaar desgevraagd inlichtingen over het door hen gevoerde bestuur alsmede over de stand van hun goederen en schulden.  
+
 ### Artikel  84  
 
 1.  De kosten der huishouding, daaronder begrepen de kosten van verzorging en opvoeding van de kinderen, komen ten laste van het gemene inkomen van de echtgenoten en, voor zover dit ontoereikend is, ten laste van hun eigen inkomens in evenredigheid daarvan; voor zover de inkomens ontoereikend zijn, komen deze kosten ten laste van het gemene vermogen en, voor zover ook dit ontoereikend is, ten laste van de eigen vermogens naar evenredigheid daarvan. Een en ander geldt niet voor zover bijzondere omstandigheden zich er tegen verzetten.   
@@ -998,6 +1002,24 @@ De ene echtgenoot is naast de andere voor het geheel aansprakelijk voor de door 
 2.  Een overeenkomstig dit artikel gegeven rechterlijke beschikking kan bij veranderde omstandigheden op gelijke wijze als zij is tot stand gekomen, worden gewijzigd of opgeheven.   
 3.  De beschikking kan aan derden die van haar bestaan onkundig waren, slechts worden tegengeworpen, indien zij ingeschreven was in het huwelijksgoederenregister, aangewezen in artikel 116 van dit boek, en na de inschrijving veertien dagen waren verlopen.   
 4.  In de beschikking kan worden bepaald dat zij bovendien moet worden bekend gemaakt in een of meer door de rechter aangewezen dagbladen. In dat geval werkt de beschikking ten nadele van derden die daarvan onkundig waren, ook niet vóór deze bekendmaking.   
+
+### Artikel  87  
+
+1.  Indien een echtgenoot ten laste van het vermogen van de andere echtgenoot een goed dat tot zijn eigen vermogen zal behoren, verkrijgt of indien ten laste van het vermogen van de andere echtgenoot een schuld ter zake van een tot zijn eigen vermogen behorend goed wordt voldaan of afgelost, ontstaat voor de eerstgenoemde echtgenoot een plicht tot vergoeding.   
+2.  De vergoeding beloopt een gedeelte van de waarde van het goed op het tijdstip waarop de vergoeding wordt voldaan. Dit gedeelte: 
+
+a. is in het geval van een verkrijging ten laste van het vermogen van de andere echtgenoot evenredig aan het uit diens vermogen afkomstige aandeel in de tegenprestatie voor het goed;  
+
+b. komt in het geval van een voldoening of aflossing ten laste van het vermogen van de andere echtgenoot overeen met de verhouding tussen het uit diens vermogen voldane of afgeloste bedrag ten opzichte van de waarde van het goed op het tijdstip van die voldoening of aflossing.     
+3.  Ten aanzien van de vergoeding gelden voorts de volgende regels: 
+
+a. tenzij de echtgenoot het vermogen van de andere echtgenoot met diens toestemming heeft aangewend op de wijze als bedoeld in het eerste lid, beloopt de vergoeding ten minste het nominale bedrag dat ten laste van het vermogen van de andere echtgenoot is gekomen;  
+
+b. ter zake van goederen die naar hun aard bestemd zijn om te worden verbruikt, beloopt de vergoeding steeds het nominale bedrag dat ten laste van het vermogen van de andere echtgenoot is gekomen;  
+
+c. ter zake van goederen die inmiddels zijn vervreemd zonder dat daarvoor andere goederen in de plaats zijn gekomen, wordt in plaats van de waarde, bedoeld in de aanhef van het tweede lid, uitgegaan van de waarde ten tijde van de vervreemding. Met een vervreemding wordt gelijkgesteld het onherroepelijk worden van een begunstiging bij een sommenverzekering of een andere begunstiging bij een beding ten behoeve van een derde.     
+4.  Echtgenoten kunnen bij overeenkomst afwijken van het eerste lid tot en met het derde lid. Geen vergoeding is verschuldigd voorzover door de verkrijging, voldoening of aflossing ten laste van het vermogen van de andere echtgenoot wordt voldaan aan een op die echtgenoot rustende verbintenis.   
+5.  Kan de vergoeding overeenkomstig het eerste tot en met het vierde lid niet nauwkeurig worden vastgesteld, dan wordt zij geschat.   
 
 ### Artikel  88  
 
@@ -1027,7 +1049,7 @@ d. overeenkomsten van koop op afbetaling, behalve van zaken welke kennelijk uits
 ### Artikel  90  
 
 1.  Een echtgenoot is bevoegd tot het bestuur van zijn eigen goederen en, volgens de regels van artikel 97, tot het bestuur van goederen van een gemeenschap.   
-2.  Het bestuur van een echtgenoot over een goed omvat de uitoefening, met uitsluiting van de andere echtgenoot, van de daaraan verbonden bevoegdheden, daaronder begrepen de bevoegdheid tot beschikking en de bevoegdheid om ten aanzien van dat goed feitelijke handelingen te verrichten en toe te laten, onverminderd de bevoegdheden tot genot en gebruik die de andere echtgenoot overeenkomstig de huwelijksverhouding toekomen.   
+2.  Het bestuur van een echtgenoot over een goed omvat de uitoefening van de daaraan verbonden bevoegdheden, daaronder begrepen de bevoegdheid tot beschikking en tot beheer en de bevoegdheid om ten aanzien van dat goed feitelijke handelingen te verrichten en toe te laten, onverminderd de bevoegdheden tot genot en gebruik die de andere echtgenoot overeenkomstig de huwelijksverhouding toekomen.   
 3.  Tussen de echtgenoot die het hem toekomend bestuur overlaat aan de andere echtgenoot, en deze laatste zijn de bepalingen omtrent opdracht van overeenkomstige toepassing, met inachtneming van de aard van de huwelijksverhouding en de aard der goederen.   
 4.  De echtgenoot die een goed bestuurt, kan als partij naast de andere echtgenoot toetreden tot een rechtshandeling die deze laatste met betrekking tot dat goed heeft verricht. De verklaring van toetreding wordt gericht tot hen die partij bij de rechtshandeling zijn; [artikel 56 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van overeenkomstige toepassing. Is voor het verrichten van de rechtshandeling een bepaalde vorm voorgeschreven, dan geldt voor de toetreding hetzelfde vereiste. De echtgenoot kan toetreding tot bijkomstige en tot reeds opeisbare rechten en verplichtingen uitsluiten; hij wordt geacht zich slechts te hebben verbonden onder eerbiediging van tevoren aan derden verleende rechten.   
 
@@ -1058,24 +1080,39 @@ Deze titel is niet van toepassing op van tafel en bed gescheiden echtgenoten.
 
 ### Artikel  93  
 
-Van het ogenblik der voltrekking van het huwelijk bestaat tussen de echtgenoten van rechtswege algehele gemeenschap van goederen, voor zover daarvan bij huwelijkse voorwaarden niet is afgeweken.  
+Bij huwelijkse voorwaarden kan uitdrukkelijk of door de aard der bedingen worden afgeweken van bepalingen van deze titel, behalve voorzover bepalingen zich uitdrukkelijk of naar hun aard tegen afwijking verzetten.  
 
 ### Artikel  94  
 
-1.  De gemeenschap omvat, wat haar baten betreft, alle tegenwoordige en toekomstige goederen der echtgenoten, met uitzondering van goederen ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen, en met uitzondering van het vruchtgebruik, bedoeld in afdeling 2 van titel 3 van Boek 4.   
-2.  Zij omvat, wat haar lasten betreft, alle schulden van ieder der echtgenoten.   
+1.  Van het ogenblik der voltrekking van het huwelijk bestaat tussen de echtgenoten van rechtswege een gemeenschap van goederen.   
+2.  De gemeenschap omvat, wat haar baten betreft, alle goederen der echtgenoten, bij aanvang van de gemeenschap aanwezig of nadien, zolang de gemeenschap niet is ontbonden, verkregen, met uitzondering van: 
+
+a. goederen ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen;  
+
+b. pensioenrechten waarop de [Wet verevening pensioenrechten bij scheiding](../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) van toepassing is alsmede met die pensioenrechten verband houdende rechten op nabestaandenpensioen;  
+
+c. rechten op het vestigen van vruchtgebruik als bedoeld in de [artikelen 29](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [30 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge [artikel 34 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).     
 3.  Goederen en schulden die aan een der echtgenoten op enigerlei bijzondere wijze verknocht zijn, vallen slechts in de gemeenschap voor zover die verknochtheid zich hiertegen niet verzet.   
-4.  Onverminderd het in artikel 155 van dit boek bepaalde vallen pensioenrechten waarop de [Wet verevening pensioenrechten bij scheiding](../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) (*Stb.* 1994, 342) van toepassing is alsmede met die pensioenrechten verband houdende rechten op nabestaandenpensioen niet in de gemeenschap.   
+4.  Vruchten van goederen die niet in de gemeenschap vallen, vallen evenmin in de gemeenschap. Buiten de gemeenschap valt hetgeen wordt geïnd op een vordering die buiten de gemeenschap valt, alsmede een vordering tot vergoeding die in de plaats van een eigen goed van een echtgenoot treedt, waaronder begrepen een vordering ter zake van waardevermindering van zulk een goed.   
+5.  De gemeenschap omvat, wat haar lasten betreft, alle schulden van ieder der echtgenoten, met uitzondering van schulden: 
+
+a. betreffende van de gemeenschap uitgezonderde goederen;  
+
+b. uit door een der echtgenoten gedane giften, gemaakte bedingen en aangegane omzettingen als bedoeld in [artikel 126, eerste lid, en tweede lid, onder a en c, van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).     
+6.  Bestaat tussen echtgenoten een geschil aan wie van hen beiden een goed toebehoort en kan geen van beiden zijn recht op dit goed bewijzen, dan wordt dat goed als gemeenschapsgoed aangemerkt. Het vermoeden werkt niet ten nadele van de schuldeisers der echtgenoten.   
 
 ### Artikel  95  
 
-1.  Voor een schuld van een echtgenoot, die in de gemeenschap is gevallen, kunnen zowel de goederen der gemeenschap als zijn eigen goederen worden uitgewonnen.   
-2.  De echtgenoot uit wiens eigen goederen een schuld der gemeenschap is voldaan, heeft deswege recht op vergoeding uit de goederen der gemeenschap.   
+1.  Een goed dat een echtgenoot anders dan om niet verkrijgt, blijft buiten de gemeenschap indien de tegenprestatie bij de verkrijging van dit goed voor meer dan de helft ten laste komt van zijn eigen vermogen. Voor zover de tegenprestatie ten laste van de gemeenschap komt, is de echtgenoot gehouden tot een vergoeding aan de gemeenschap. Het beloop van de vergoeding wordt bepaald overeenkomstig artikel 87, tweede en derde lid.   
+2.  Indien een goed tot de gemeenschap gaat behoren en een echtgenoot bij de verkrijging uit zijn eigen vermogen aan de tegenprestatie heeft bijgedragen, komt deze echtgenoot een vergoedingsvordering toe, waarvan het beloop overeenkomstig artikel 87, tweede en derde lid, wordt bepaald.   
 
 ### Artikel  96  
 
-1.  Ook voor een schuld van een echtgenoot, die niet in de gemeenschap is gevallen, kunnen de goederen der gemeenschap worden uitgewonnen, tenzij de andere echtgenoot eigen goederen van eerstgenoemde aanwijst, die voldoende verhaal bieden.   
-2.  De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen der gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap.   
+1.  Voor een schuld van een echtgenoot kunnen, ongeacht of deze in de gemeenschap is gevallen, zowel de goederen der gemeenschap als zijn eigen goederen worden uitgewonnen.   
+2.  Voor een niet in de gemeenschap gevallen schuld van een echtgenoot kunnen de goederen van de gemeenschap niet worden uitgewonnen, indien de andere echtgenoot eigen goederen van eerstgenoemde aanwijst, die voldoende verhaal bieden.   
+3.  De echtgenoot uit wiens eigen goederen een schuld der gemeenschap is voldaan, heeft deswege recht op vergoeding uit de goederen der gemeenschap. Betreft het een schuld ter zake van een tot de gemeenschap behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig artikel 87, tweede en derde lid.   
+4.  De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen der gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap. Betreft het een schuld ter zake van een tot zijn eigen vermogen behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig artikel 87, tweede en derde lid.   
+5.  De echtgenoot die een schuldeiser tegenwerpt dat een goed waarop deze verhaal zoekt niet behoort tot de gemeenschap, draagt daarvan de bewijslast.   
 
 ### Artikel  96a  
 
@@ -1091,12 +1128,9 @@ Echtgenoten kunnen bij overeenkomst het beloop van vergoedingen ingevolge de art
 
 ### Artikel  97  
 
-1.  Een goed der gemeenschap staat onder het bestuur van de echtgenoot van wiens zijde het in de gemeenschap is gevallen, voor zover niet de echtgenoten bij huwelijkse voorwaarden anders zijn overeengekomen of de rechter met toepassing van artikel 91 van dit boek anders heeft bepaald. Een goed dat moet worden geacht in de plaats te treden van een bepaald ander goed, komt onder het bestuur van de echtgenoot die het vervangen goed bestuurde. Een goed dat op naam van een der echtgenoten is gesteld, staat evenwel onder diens bestuur. Elk der echtgenoten is bevoegd tot stuiting van verjaring ten behoeve van de gemeenschap.   
-2.  Is een goed der gemeenschap met toestemming, verleend door de echtgenoot onder wiens bestuur het stond, dienstbaar aan een beroep of bedrijf van de andere echtgenoot, dan berust het bestuur van dat goed, voor zover het handelingen betreft die als normale uitoefening van dat beroep of bedrijf zijn te beschouwen, bij laatstgenoemde echtgenoot en voor het overige bij de echtgenoten gezamenlijk. Een verleende toestemming geldt voor de gehele duur van het beroep of bedrijf, tenzij de echtgenoten anders overeenkomen, doch de rechtbank kan de dienstbaarheid op verzoek van een echtgenoot te allen tijde wegens gegronde redenen beëindigen.   
-
-### Artikel  98  
-
-De echtgenoten verstrekken elkander desgevraagd inlichtingen over het gevoerde bestuur, alsmede over de stand der goederen en schulden van de gemeenschap.  
+1.  Een goed dat op naam van een echtgenoot staat of dat hij krachtens erfopvolging bij versterf, making, lastbevoordeling of gift heeft verkregen, staat onder diens bestuur. Voor het overige is ieder der echtgenoten bevoegd tot het bestuur over de goederen van de gemeenschap. [Artikel 170, eerste lid, van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van overeenkomstige toepassing.   
+2.  Is een goed der gemeenschap met toestemming, verleend door de echtgenoot onder wiens bestuur dat goed alleen of mede stond, dienstbaar aan een beroep of bedrijf van de andere echtgenoot, dan berust het bestuur van dat goed, voor zover het handelingen betreft die als normale uitoefening van dat beroep of bedrijf zijn te beschouwen, uitsluitend bij laatstbedoelde echtgenoot en voor het overige bij de echtgenoten gezamenlijk. Een verleende toestemming geldt voor de gehele duur van het beroep of bedrijf, tenzij de echtgenoten anders overeenkomen, doch de rechtbank kan de dienstbaarheid op verzoek van een echtgenoot te allen tijde wegens gegronde redenen beëindigen.   
+3.  Geschillen tussen de echtgenoten over het bestuur ten aanzien van tot de gemeenschap behorende goederen, kunnen op verzoek van de echtgenoten of van een van hen aan de rechtbank worden voorgelegd.   
 
 ### Afdeling  3  
 
@@ -1106,14 +1140,22 @@ De echtgenoten verstrekken elkander desgevraagd inlichtingen over het gevoerde b
 
 1.  De gemeenschap wordt van rechtswege ontbonden: 
 
-a. door het eindigen van het huwelijk;  
+a. in geval van het eindigen van het huwelijk of het geregistreerd partnerschap door overlijden: op het tijdstip van overlijden;  
 
-b. door scheiding van tafel en bed;  
+b. in geval van beëindiging van het huwelijk door echtscheiding of ontbinding van het geregistreerd partnerschap door de rechter: op het tijdstip van indiening van het verzoek tot echtscheiding onderscheidenlijk indiening van het verzoek tot ontbinding van het geregistreerd partnerschap;  
 
-c. door een beschikking die de gemeenschap opheft;  
+c. in geval van scheiding van tafel en bed: op het tijdstip van indiening van het verzoek tot scheiding van tafel en bed;  
 
-d. door opheffing bij latere huwelijkse voorwaarden.     
-2.  Tezamen met een verzoek waarvan toewijzing ontbinding tot gevolg zal hebben kan reeds overeenkomstig [titel 7 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) een vordering worden ingesteld tot verdeling van de gemeenschap, tot gelasten van de wijze van verdeling en tot vaststelling van de verdeling, telkens voor het geval de gemeenschap wordt ontbonden.   
+d. in geval van opheffing van de gemeenschap door een beschikking: op het tijdstip van indiening van het verzoek tot opheffing van de gemeenschap;  
+
+e. in geval van beëindiging van het geregistreerd partnerschap met wederzijds goedvinden: op het tijdstip waarop de overeenkomst tot beëindiging wordt gesloten;  
+
+f. in geval van vermissing en een daarop gevolgd huwelijk of geregistreerd partnerschap: op het tijdstip waarop de beschikking, bedoeld in artikel 417, eerste lid, in kracht van gewijsde is gegaan;  
+
+g. in geval van opheffing bij latere huwelijkse voorwaarden: op het tijdstip, bedoeld in artikel 120, eerste lid.     
+2.  De ontbinding van de gemeenschap door indiening van een verzoek als bedoeld in het eerste lid, onder b, c en d, alsmede door sluiting van een overeenkomst als bedoeld onder e, kan aan derden die daarvan onkundig waren slechts worden tegengeworpen, indien het desbetreffende verzoek dan wel de overeenkomst ingeschreven was in het huwelijksgoederenregister, bedoeld in artikel 116.   
+3.  Indien vast komt te staan dat een verzoek als bedoeld in het eerste lid, onder b, c en d, dan wel een overeenkomst als bedoeld in het eerste lid, onder e, niet meer kan leiden tot echtscheiding, ontbinding van het geregistreerd partnerschap, scheiding van tafel en bed, opheffing van de gemeenschap door een beschikking, onderscheidenlijk beëindiging van het geregistreerd partnerschap met wederzijds goedvinden, herleven van rechtswege alle gevolgen van de gemeenschap, alsof er geen verzoek was ingediend of overeenkomst was gesloten, tenzij zich inmiddels een andere grond voor ontbinding heeft voorgedaan. Nochtans wordt de geldigheid van rechtshandelingen die zijn verricht tussen het tijdstip van indiening van het verzoek of sluiting van de overeenkomst en het tijdstip waarop komt vast te staan dat het verzoek of de overeenkomst niet meer tot het in de eerste zin bedoelde gevolg kan leiden, beoordeeld naar het tijdstip van de handeling.   
+4.  Tezamen met een verzoek als bedoeld in het eerste lid, onder b, c of d kan reeds overeenkomstig [titel 7 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) een vordering worden ingesteld tot verdeling van de gemeenschap, tot gelasten van de wijze van verdeling en tot vaststelling van de verdeling.   
 
 ### Artikel  100  
 
@@ -1126,7 +1168,7 @@ Na de ontbinding der gemeenschap heeft ieder der echtgenoten de bevoegdheid de t
 
 ### Artikel  102  
 
-Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aansprakelijk voor de gemeenschapsschulden, waarvoor hij voordien aansprakelijk was. Voor andere schulden van de gemeenschap is hij voor de helft aansprakelijk; voor dat gedeelte der schuld is hij hoofdelijk met de andere echtgenoot verbonden.  
+Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aansprakelijk voor de gemeenschapsschulden waarvoor hij voordien aansprakelijk was. Voor andere gemeenschapsschulden is hij hoofdelijk met de andere echtgenoot verbonden, met dien verstande evenwel dat daarvoor slechts kan worden uitgewonnen hetgeen hij uit hoofde van verdeling van de gemeenschap heeft verkregen, onverminderd de [artikelen 190, eerste lid](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [191, eerste lid, van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). De rechtsvordering tot voldoening van de in de tweede volzin bedoelde schuld verjaart tegelijkertijd met de rechtsvordering tegen de echtgenoot, in wiens persoon de in die volzin bedoelde gemeenschapsschuld is ontstaan.  
 
 ### Artikel  103  
 
@@ -1140,7 +1182,7 @@ Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aa
 ### Artikel  104  
 
 1.  De echtgenoot die van het bij het vorige artikel omschreven voorrecht wil gebruik maken, is verplicht binnen drie maanden na de ontbinding der gemeenschap een akte van afstand te doen inschrijven in het huwelijksgoederenregister, aangewezen in artikel 116 van dit boek, op verbeurte van dit voorrecht.   
-2.  Indien de gemeenschap door de dood van de andere echtgenoot wordt ontbonden, begint de termijn van drie maanden te lopen op de dag waarop de echtgenoot die van het voorrecht wil gebruik maken, van dat overlijden kennis heeft genomen. Indien de gemeenschap door opheffing of door scheiding van tafel en bed is ontbonden, eindigt de termijn drie maanden nadat de beschikking in kracht van gewijsde is gegaan.   
+2.  Indien de gemeenschap door de dood van de andere echtgenoot wordt ontbonden, begint de termijn van drie maanden te lopen op de dag waarop de echtgenoot die van het voorrecht wil gebruik maken, van dat overlijden kennis heeft genomen. Indien de gemeenschap is ontbonden op de wijze als bedoeld in artikel 99, eerste lid, onder c en d, eindigt de termijn drie maanden nadat het verzoek tot opheffing van de gemeenschap of tot scheiding van tafel en bed bij de rechtbank is ingediend.   
 
 ### Artikel  105  
 
@@ -1171,19 +1213,12 @@ Een echtgenoot kan opheffing van de gemeenschap verzoeken, wanneer de andere ech
 
 ### Artikel  110  
 
-1.  Het verzoek moet in het huwelijksgoederenregister, aangewezen in artikel 116 van dit boek, worden ingeschreven, en moet openlijk worden bekend gemaakt in een landelijk dagblad of in een dagblad verschijnend in de streek waar de tot kennisneming van het verzoek bevoegde rechter zitting houdt. De bekendmaking vermeldt de datum van het verzoek en de naam, de voornamen, het beroep en de woonplaats van ieder der echtgenoten. De beschikking mag niet worden gegeven binnen een maand nadat de bekendmaking heeft plaatsgehad.   
-2.  De echtgenoot die de opheffing van de gemeenschap vraagt, kan tot behoud van zijn recht de maatregelen nemen, die in het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) nader zijn aangegeven.   
+De echtgenoot die de opheffing van de gemeenschap verzoekt, kan tot behoud van zijn recht de maatregelen nemen, die in het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) nader zijn aangegeven.  
 
 ### Artikel  111  
 
-1.  De beschikking, waarbij het verzoek tot opheffing van de gemeenschap is toegewezen, werkt terug tot de dag, waarop aan het eerste lid van het vorige artikel is voldaan, vanaf welke dag de echtgenoten worden geacht te zijn gehuwd met uitsluiting van gemeenschap van goederen, onder al zodanige bedingen als de beschikking zal hebben vastgesteld.   
-2.  Indien de echtgenoot tegen wie het verzoek is toegewezen, de gemeenschap heeft benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of een rechtshandeling als bedoeld in artikel 88 van dit boek zonder de vereiste toestemming of machtiging heeft verricht, is hij gehouden de aangerichte schade aan de gemeenschap te vergoeden.   
-3.  Een op het vorige lid gegronde vordering kan niet later worden ingesteld dan drie jaren nadat de beschikking in kracht van gewijsde is gegaan.   
-
-### Artikel  112  
-
-1.  De opheffing van de gemeenschap moet, om tegen derden die daarvan onkundig waren te werken, openlijk worden bekend gemaakt en, nadat de beschikking in kracht van gewijsde is gegaan, worden ingeschreven in het huwelijksgoederenregister, aangewezen in artikel 116 van dit boek.   
-2.  De bekendmaking geschiedt door plaatsing van een uittreksel van de beschikking in de *Staatscourant* en in een of meer in de beschikking aangewezen dagbladen. Het uittreksel bevat de gegevens, bedoeld in artikel 110, eerste lid, alsmede de dagtekening van de beschikking en de aanduiding van de rechtbank die haar heeft gegeven. De gronden waarop de beschikking berust mogen in het uittreksel niet worden opgenomen.   
+1.  Indien de echtgenoot tegen wie het verzoek is toegewezen, de gemeenschap heeft benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of een rechtshandeling als bedoeld in artikel 88 van dit boek zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden de aangerichte schade aan de gemeenschap te vergoeden.   
+2.  Een op het vorige lid gegronde vordering kan niet later worden ingesteld dan drie jaren nadat het verzoek tot opheffing van de gemeenschap bij de rechtbank is ingediend.   
 
 ### Artikel  113  
 
@@ -1210,6 +1245,7 @@ Huwelijkse voorwaarden kunnen zowel door aanstaande echtgenoten vóór het sluit
 
 1.  Bepalingen in huwelijkse voorwaarden kunnen aan derden die daarvan onkundig waren, slechts worden tegengeworpen, indien die bepalingen ingeschreven waren in het openbaar huwelijksgoederenregister, gehouden ter griffie der rechtbank binnen welker rechtsgebied het huwelijk is voltrokken, of, indien het huwelijk buiten Nederland is aangegaan, ter griffie van de rechtbank te 's-Gravenhage.   
 2.  De wijze van inrichting en raadpleging van het register wordt nader bij algemene maatregel van bestuur geregeld.   
+3.  In afwijking van het eerste lid kan bij algemene maatregel van bestuur worden bepaald dat het register elders dan ter griffie der rechtbank wordt gehouden. Bij algemene maatregel van bestuur kan eveneens worden bepaald dat de verstrekking van gegevens ter inschrijving in het register uitsluitend op een in die maatregel aan te geven wijze plaats vindt.   
 
 ### Artikel  117  
 
@@ -1219,12 +1255,6 @@ Huwelijkse voorwaarden kunnen zowel door aanstaande echtgenoten vóór het sluit
 ### Artikel  118  
 
 De echtgenoot die onder curatele staat, kan na de huwelijksvoltrekking slechts met toestemming van zijn curator huwelijkse voorwaarden maken of wijzigen.  
-
-### Artikel  119  
-
-1.  Het maken of wijzigen van huwelijkse voorwaarden tijdens het huwelijk behoeft de goedkeuring van de rechtbank. Bij het verzoekschrift der echtgenoten wordt een ontwerp van de notariële akte overgelegd. Het verzoekschrift kan zonder tussenkomst van een advocaat worden ingediend.   
-2.  De gehele of gedeeltelijke goedkeuring wordt slechts geweigerd, indien gevaar voor benadeling van schuldeisers bestaat, of indien een of meer voorwaarden strijden met dwingende wetsbepalingen, de goede zeden of de openbare orde.   
-3.  Indien de akte niet is verleden binnen drie maanden na het in kracht van gewijsde gaan van de beschikking waarbij de goedkeuring is verleend, vervalt deze.   
 
 ### Artikel  120  
 
@@ -1237,45 +1267,13 @@ De echtgenoot die onder curatele staat, kan na de huwelijksvoltrekking slechts m
 2.  Zij kunnen niet bepalen dat een hunner tot een groter aandeel in de schulden zal zijn gehouden, dan zijn aandeel in de goederen der gemeenschap beloopt.   
 3.  Zij kunnen niet afwijken van de rechten die uit het ouderlijk gezag voortspruiten, noch van de rechten die de wet aan een langstlevende echtgenoot toekent.   
 
-### Artikel  122  
-
-De bepalingen van de vorige titel zijn van toepassing, voor zover daarvan niet uitdrukkelijk of door de aard der bedingen, bij de huwelijkse voorwaarden gemaakt, is afgeweken.  
-
-### Artikel  123  
-
-Wanneer bij huwelijkse voorwaarden een gemeenschap van vruchten en inkomsten is overeengekomen, gelden de artikelen 124-127 van dit boek, voor zover daarvan niet uitdrukkelijk of door de aard der bedingen is afgeweken.  
-
-### Artikel  124  
-
-1.  De gemeenschap van vruchten en inkomsten omvat, wat haar baten betreft, alle goederen die de echtgenoten tijdens het bestaan van de gemeenschap hebben verkregen anders dan door erfopvolging, making of gift, met uitzondering van hetgeen krachtens de volgende leden buiten de gemeenschap valt.   
-2.  Een goed dat een echtgenoot anders dan om niet verkrijgt, blijft buiten de gemeenschap, indien het voor meer dan de helft van zijn prijs ten laste van hem persoonlijk komt.   
-3.  Buiten de gemeenschap valt hetgeen wordt geïnd op een vordering die buiten de gemeenschap valt, alsmede een vordering tot vergoeding die in de plaats van een eigen goed van een echtgenoot treedt, waaronder begrepen een vordering ter zake van waardevermindering van zulk een goed.   
-
-### Artikel  125  
-
-De gemeenschap van vruchten en inkomsten omvat, wat haar lasten betreft, alle schulden van de echtgenoten, met uitzondering van die welke hetzij bij de aanvang van de gemeenschap bestonden, hetzij op verkrijgingen door erfopvolging, making of gift drukken, hetzij slechts de persoon of eigen goederen van één der echtgenoten betreffen en noch geheel noch gedeeltelijk uit inkomsten betaald plegen te worden. Een schuld die een echtgenoot met medeweten van de schuldeiser in verband met de verwerving van een eigen goed aangaat, valt niet in de gemeenschap.  
-
-### Artikel  126  
-
-1.  Buiten de gemeenschap van vruchten en inkomsten vallen de goederen en schulden die behoren tot een door één der echtgenoten uitgeoefend bedrijf of vrij beroep. Deze bepaling is niet van toepassing op registergoederen op naam van de andere echtgenoot.   
-2.  Ten bate of ten laste van de gemeenschap komen vergoedingen ten bedrage van de winsten en verliezen van het bedrijf of beroep, vast te stellen naar normen die in het maatschappelijk verkeer als redelijk worden beschouwd.   
-3.  Voor zover een echtgenoot in overwegende mate bij machte is te bepalen dat de winsten van een niet op zijn eigen naam uitgeoefend bedrijf hem rechtstreeks of middellijk ten goede komen, wordt dat bedrijf voor de toepassing van het vorige lid aangemerkt als een door die echtgenoot uitgeoefend bedrijf.   
-
-### Artikel  127  
-
-Voor zover bij de ontbinding van de gemeenschap van vruchten en inkomsten de goederen der gemeenschap, met inachtneming van de in het vorige artikel en de artikelen 95 lid 2 en 96 lid 2 van dit boek bedoelde vergoedingen, niet toereikend zijn om de schulden van de gemeenschap te voldoen, worden deze gedragen door de echtgenoot van wiens zijde zij in de gemeenschap zijn gevallen, voor zover de aard der schulden niet tot een andere draagplicht leidt.  
-
-### Artikel  128  
-
-Wanneer bij huwelijkse voorwaarden is overeengekomen dat er gemeenschap van winst en verlies zal bestaan, zijn de artikelen 124-126 van dit boek van overeenkomstige toepassing, voor zover daarvan niet uitdrukkelijk of door de aard der bedingen is afgeweken.  
-
 ### Artikel  130  
 
 Een echtgenoot kan tegen derden zijn aanbreng van bij huwelijkse voorwaarden buiten de gemeenschap gehouden goederen, voor wat betreft rechten aan toonder en zaken die geen registergoederen zijn, slechts bewijzen door hun vermelding in de akte van huwelijkse voorwaarden of in een door de partijen en de notaris ondertekende, aan de minuut van die akte vastgehechte beschrijving. Indien de vermelding van een goed geen afdoende omschrijving daarvan biedt, kan aanvullend bewijs door alle middelen worden geleverd; ten aanzien van goederen die een echtgenoot buiten diens weten opgekomen waren, kan het bewijs door alle middelen worden geleverd.  
 
 ### Artikel  131  
 
-1.  Bestaat tussen de echtgenoten een geschil aan wie van hen beiden een recht aan toonder of een zaak die geen registergoed is, toebehoort en kan geen van beiden zijn recht op dit goed bewijzen, dan wordt dat goed als gemeenschapsgoed aangemerkt, wanneer tussen hen een gemeenschap bestaat die dit goed kan omvatten; bestaat er geen zodanige gemeenschap, dan wordt het goed geacht aan ieder der echtgenoten voor de helft toe te behoren.   
+1.  Bestaat tussen niet in gemeenschap van goederen gehuwde echtgenoten een geschil aan wie van hen beiden een recht aan toonder of een zaak die geen registergoed is, toebehoort en kan geen van beiden zijn recht op dit goed bewijzen, dan wordt het goed geacht aan ieder der echtgenoten voor de helft toe te behoren.   
 2.  Het vermoeden werkt niet ten nadele van de schuldeisers der echtgenoten.   
 
 ### Afdeling  2  
@@ -1294,11 +1292,11 @@ Een echtgenoot kan tegen derden zijn aanbreng van bij huwelijkse voorwaarden bui
 ### Artikel  133  
 
 1.  De verplichting tot verrekening van inkomsten of van vermogen is wederkerig.   
-2.  De verplichting tot verrekening heeft uitsluitend betrekking op inkomsten die of op vermogen dat de echtgenoten tijdens het bestaan van deze verplichting hebben verkregen. De verplichting tot verrekening heeft geen betrekking op vermogen dat krachtens erfopvolging, making of gift wordt verkregen en ook niet op de vruchten daaruit of de voor dat vermogen of voor die vruchten in de plaats getreden goederen.   
+2.  De verplichting tot verrekening heeft uitsluitend betrekking op inkomsten die of op vermogen dat de echtgenoten tijdens het bestaan van deze verplichting hebben verkregen. De verplichting tot verrekening heeft geen betrekking op vermogen dat krachtens erfopvolging bij versterf, making, lastbevoordeling of gift wordt verkregen en ook niet op de vruchten daaruit of de voor dat vermogen of voor die vruchten in de plaats getreden goederen. Evenmin heeft de verplichting tot verrekening betrekking op vermogen dat bestaat uit rechten op het vestigen van vruchtgebruik als bedoeld in de [artikelen 29](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [30 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge de [artikelen 34](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), [35](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), [36](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), [38](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [126, tweede lid, onder a en c, van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), en [afdeling 3 van titel 4 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).   
 
 ### Artikel  134  
 
-Bij uiterste wilsbeschikking van de erflater of bij de gift kan worden bepaald dat geen verrekening van krachtens erfopvolging, making of gift verkregen vermogen en van de vruchten daarvan plaatsvindt, indien verrekening daarvan ingevolge huwelijkse voorwaarden zou behoren plaats te vinden.  
+Bij uiterste wilsbeschikking of bij de gift kan worden bepaald dat geen verrekening van krachtens erfopvolging bij versterf, making, lastbevoordeling of gift verkregen vermogen en van de vruchten daarvan plaatsvindt, indien verrekening daarvan ingevolge huwelijkse voorwaarden zou behoren plaats te vinden.  
 
 ### Artikel  135  
 
@@ -1326,7 +1324,7 @@ Bij uiterste wilsbeschikking van de erflater of bij de gift kan worden bepaald d
 ### Artikel  139  
 
 1.  Een echtgenoot kan de opheffing van de wederzijdse verplichting tot verrekening verzoeken, wanneer de andere echtgenoot op lichtvaardige wijze schulden maakt, zijn goederen verspilt of weigert de in artikel 138, tweede lid, bedoelde verplichte opgave omtrent zijn te verrekenen inkomsten of vermogen te verstrekken.   
-2.  Indien de echtgenoot tegen wie het verzoek zich richt, het te verrekenen vermogen benadeelt doordat hij na de aanvang van het geding of binnen zes maanden daarvoor lichtvaardig schulden heeft gemaakt, te verrekenen goederen heeft verspild, of een rechtshandeling als bedoeld in artikel 88 zonder de vereiste toestemming of machtiging heeft verricht, is hij gehouden de aangerichte schade te vergoeden.   
+2.  Indien de echtgenoot tegen wie het verzoek zich richt, het te verrekenen vermogen benadeelt doordat hij na de aanvang van het geding of binnen zes maanden daarvoor lichtvaardig schulden heeft gemaakt, te verrekenen goederen heeft verspild, of een rechtshandeling als bedoeld in artikel 88 zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden de aangerichte schade te vergoeden.   
 3.  Van het eerste en tweede lid kan niet worden afgeweken.   
 
 ### Artikel  140  
@@ -1368,7 +1366,9 @@ e. in geval van beëindiging van het geregistreerd partnerschap met wederzijds g
 
 f. in geval van ontbinding van het geregistreerd partnerschap op verzoek: het tijdstip van indiening van het verzoek;  
 
-g. in geval van vermissing en een daarop gevolgd huwelijk of geregistreerd partnerschap: het tijdstip waarop de beschikking, bedoeld in artikel 417, eerste lid, in kracht van gewijsde is gegaan.     
+g. in geval van vermissing en een daarop gevolgd huwelijk of geregistreerd partnerschap: het tijdstip waarop de beschikking, bedoeld in artikel 417, eerste lid, in kracht van gewijsde is gegaan;  
+
+h. in geval van opheffing van de wederzijdse verplichting tot verrekening bij huwelijkse voorwaarden: het tijdstip, bedoeld in artikel 120, eerste lid.     
 2.  Van het eerste lid, aanhef en onder b tot en met f, kan bij op schrift gestelde overeenkomst worden afgeweken.   
 
 ### Artikel  143  
@@ -1467,7 +1467,7 @@ Een verplichting van een gewezen echtgenoot om uit hoofde van echtscheiding leve
 
 ### Artikel  164  
 
-1.  Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in artikel 88 van dit boek zonder de vereiste toestemming of machtiging heeft verricht, is hij gehouden na de inschrijving van de beschikking waarbij de echtscheiding is uitgesproken, de aangerichte schade aan de gemeenschap te vergoeden.   
+1.  Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in artikel 88 van dit boek zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden na de inschrijving van de beschikking waarbij de echtscheiding is uitgesproken, de aangerichte schade aan de gemeenschap te vergoeden.   
 2.  Een op het vorige lid gegronde rechtsvordering kan niet later worden ingesteld dan drie jaren na de inschrijving van de beschikking.   
 
 ### Artikel  165  
@@ -1478,7 +1478,7 @@ Een verplichting van een gewezen echtgenoot om uit hoofde van echtscheiding leve
 
 ### Artikel  166  
 
-Indien de gescheiden echtgenoten met elkander hertrouwen of een geregistreerd partnerschap aangaan, herleven alle gevolgen van het huwelijk van rechtswege, alsof er geen echtscheiding had plaats gehad. Nochtans wordt de geldigheid van rechtshandelingen die tussen de ontbinding van het huwelijk en het nieuwe huwelijk of het geregistreerd partnerschap zijn verricht, beoordeeld naar het tijdstip der handeling. Op het maken of wijzigen van de voorwaarden, bedoeld in titel 8, voor het aangaan van het nieuwe huwelijk of de registratie vindt artikel 119 overeenkomstige toepassing.  
+Indien de gescheiden echtgenoten met elkander hertrouwen of een geregistreerd partnerschap aangaan, herleven alle gevolgen van het huwelijk van rechtswege, alsof er geen echtscheiding had plaats gehad. Nochtans wordt de geldigheid van rechtshandelingen die tussen de ontbinding van het huwelijk en het nieuwe huwelijk of het geregistreerd partnerschap zijn verricht, beoordeeld naar het tijdstip der handeling.  
 
 ### Titel  10  
 
@@ -1502,7 +1502,7 @@ Indien de gescheiden echtgenoten met elkander hertrouwen of een geregistreerd pa
 
 ### Artikel  174  
 
-1.  Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in artikel 88 van dit boek zonder de vereiste toestemming of machtiging heeft verricht, is hij gehouden, nadat de beschikking waarbij de scheiding van tafel en bed is uitgesproken, is ingeschreven, de aangerichte schade aan de gemeenschap te vergoeden.   
+1.  Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in artikel 88 van dit boek zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden, nadat de beschikking waarbij de scheiding van tafel en bed is uitgesproken, is ingeschreven, de aangerichte schade aan de gemeenschap te vergoeden.   
 2.  Een op het eerste lid gegronde rechtsvordering kan niet later worden ingesteld dan drie jaren na de inschrijving van de beschikking van scheiding van tafel en bed.   
 
 ### Artikel  175  
@@ -2296,7 +2296,7 @@ Indien een medische behandeling van een minderjarige jonger dan twaalf jaren noo
 1.  Verzoeken op grond van artikel 254, vijfde lid, en de artikelen 256-264 moeten schriftelijk worden gedaan. Voor zover zij zich tot de kinderrechter richten, kunnen zij worden ingediend zonder advocaat.   
 2.  De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) die een verzoek indient of wordt opgeroepen, zendt bij het verzoekschrift of onverwijld na de oproep, het plan, bedoeld in [artikel 13, derde lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en een verslag van het verloop van de ondertoezichtstelling aan de kinderrechter.   
 3.  Het plan en het verslag, bedoeld in het tweede lid, worden eveneens gezonden aan de raad voor de kinderbescherming.   
-4.  De verzoeken die de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) ter uitvoering van haar taak tot de rechter richt, kunnen worden ingediend zonder procureur en worden kosteloos behandeld; de grossen, afschriften en uittreksels, die zij tot dat doel aanvraagt, worden haar door de griffiers vrij van alle kosten uitgereikt.   
+4.  De verzoeken die de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) ter uitvoering van haar taak tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld; de grossen, afschriften en uittreksels, die zij tot dat doel aanvraagt, worden haar door de griffiers vrij van alle kosten uitgereikt.   
 
 ### Afdeling  5  
 
@@ -2759,7 +2759,7 @@ c. een making of gift, waaraan lasten of voorwaarden zijn verbonden, aannemen;
 d. geld lenen of de minderjarige als borg of hoofdelijke medeschuldenaar verbinden;  
 
 e. overeenkomen dat een boedel, waartoe de minderjarige gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten.     
-2.  De kantonrechter kan bepalen dat de voogd zijn machtiging behoeft voor het innen van vorderingen van de minderjarige, het disponeren over saldi bij een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) daaronder begrepen.   
+2.  De kantonrechter kan bepalen dat de voogd zijn machtiging behoeft voor het innen van vorderingen van de minderjarige, het disponeren over saldi bij een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) daaronder begrepen.   
 3.  Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van [artikel 87 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of indien het voorwerp van de onzekerheid of het geschil een waarde van € 700 niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.   
 
 ### Artikel  346  

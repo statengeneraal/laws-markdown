@@ -237,6 +237,11 @@ b. zonder zich te begeven naar de gekozen dichtstbijzijnde reparatiewerf.
 
 In afwijking van het bepaalde in artikel 11 en 11b kan de havenbeheerder in overeenstemming met Onze Minister een schip in de haven toelaten in geval van overmacht, prevalerende veiligheidsredenen of om het gevaar van vervuiling te beperken of te minimaliseren of tekortkomingen te verhelpen, mits de kapitein of de exploitant naar het oordeel van de havenbeheerder afdoende maatregelen voor een veilige binnenkomst heeft genomen.  
 
+### Artikel  11d  
+
+1.  Onze Minister kan een besluit nemen tot verwijdering van een schip uit een haven indien bij een inspectie wordt vastgesteld dat het certificaat, bedoeld in bijlage IV, onder 41, van de richtlijn niet aan boord is.   
+2.  De havenbeheerder van een haven weigert een schip de toegang tot zijn haven, indien met betrekking tot dit schip in een haven van een lidstaat een besluit is genomen tot verwijdering ervan vanwege het niet aan boord hebben van het certificaat, bedoeld in bijlage IV, onder 41, van de richtlijn totdat de exploitant kennis geeft van een dergelijk bewijs.   
+
 ### Hoofdstuk  V  
 
 ####Verplichtingen en verboden kapitein, exploitant, betrokken ambtenaren en registerloodsen

@@ -16,57 +16,102 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Verkeer en Waterstaat;  
+*hoofdvaarweg:* een vaarweg van nationaal belang;  
 
-b. Onze Ministers: Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+*hoofdweg:* een auto- of autosnelweg van nationaal belang;  
 
-bb. regionaal openbaar lichaam: een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
+*landelijke spoorweg:* een spoorweg van nationaal belang;  
 
-c. hoofdweg: een weg waarvoor een verbinding is aangegeven op een kaart van indicatieve en limitatieve hoofdwegverbindingen, die behoort tot een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+*Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-d. landelijke spoorweg: een spoorweg waarvoor een verbinding is aangegeven op een kaart van indicatieve en limitatieve spoorwegverbindingen, die behoort tot een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
-
-e. hoofdvaarweg: een vaarweg waarvoor een verbinding is aangegeven op een kaart van indicatieve en limitatieve hoofdvaarwegverbindingen, die behoort tot een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
-
-f. bijkomende infrastructurele voorzieningen: werken of bouwwerken, daaronder begrepen oplaadpunten bestemd voor het laden van accu’s van voertuigen die een elektromotor als hoofdmotor hebben, die, zonder deel uit te maken van het profiel van een hoofdweg, een landelijke spoorweg of een hoofdvaarweg, met die weg, spoorweg of vaarweg zijn verbonden en dienen voor de instandhouding dan wel het veilig en doelmatig gebruik daarvan;  
-
-g. verkeers- en vervoertraject: een verkeers- en vervoergebied gelegen tussen twee punten van een verbinding als bedoeld onder *c, d* of *e* van dit artikellid;  
-
-h. tracé: 
-
-1°. de aanduiding op een of meer topografische of geografische kaarten van het verloop en de geografische omvang van een aan te leggen of te wijzigen hoofdweg, landelijke spoorweg of hoofdvaarweg, en  
-
-2°. een nauwkeurige beschrijving van: 
-
-– de daarbij te realiseren ligging in het terrein,  
-
-– de daarbij te realiseren bijkomende infrastructurele voorzieningen en  
-
-– de daarbij te realiseren maatregelen van landschappelijke, landbouwkundige en ecologische aard, en    
-
-3°. indien het de aanleg of wijziging van een hoofdweg betreft: 
-
-– een nauwkeurige beschrijving van het daarbij te realiseren aantal rijstroken en  
-
-– de in acht te nemen grenswaarden voor geluidhinder en de aanduiding van de maatregelen, gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen onderscheidenlijk aan de grens van geluidsgevoelige terreinen als bedoeld in de [Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), of    
-
-4°. indien het de aanleg of wijziging van een landelijke spoorweg betreft: 
-
-– een nauwkeurige beschrijving van het daarbij te realiseren aantal sporen en  
-
-– de in acht te nemen grenswaarden voor geluidhinder en de aanduiding van de maatregelen, gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen onderscheidenlijk aan de grens van geluidsgevoelige terreinen als bedoeld in de [Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), met betrekking tot de aanleg of wijziging van de landelijke spoorweg, alsmede de aansluitende landelijke spoorweg waarop ten gevolge van de aanleg of wijziging sprake is van een aanpassing in de zin van [artikel 106, eerste lid, onder l, van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md).         
+*startbeslissing:* de beslissing, bedoeld in artikel 2, eerste lid.     
 2.  Ontheffingen, dispensaties, afwijkingen en soortgelijke beschikkingen worden voor de toepassing van deze wet als vergunning aangemerkt.   
 3.  In deze wet wordt onder aanleg of wijziging van een hoofdweg, landelijke spoorweg of hoofdvaarweg mede verstaan de aanleg of wijziging van een deel van die hoofdweg, landelijke spoorweg of hoofdvaarweg.   
 
+### Hoofdstuk  II  
+
+####Startbeslissing en verkenning
+
 ### Artikel  2  
 
-1.  Deze wet is van toepassing op: 
+1.  De beslissing om een verkenning uit te voeren naar een mogelijk bestaand of toekomstig probleem op of door het ontbreken van een hoofdweg, een landelijke spoorweg of een hoofdvaarweg wordt genomen door Onze Minister.   
+2.  Bij de voorbereiding van de startbeslissing betrekt Onze Minister de betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg.   
+3.  De startbeslissing bevat ten minste: 
+
+a. een omschrijving van het gebied waarop de verkenning is gericht;  
+
+b. een beschrijving van de aard van het te verkennen probleem en die van de ruimtelijk relevante ontwikkelingen in het gebied;  
+
+c. de wijze waarop burgers, maatschappelijke organisaties, betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg worden betrokken bij de verkenning;  
+
+d. de termijn waarbinnen en de wijze waarop de verkenning zal worden uitgevoerd.     
+4.  De startbeslissing kan tevens inhouden dat ter voorbereiding van de besluitvorming op grond van hoofdstuk III een structuurvisie als bedoeld in [artikel 2.3, tweede lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) wordt vastgesteld. Een structuurvisie wordt in ieder geval vastgesteld indien Onze Minister voornemens is ter oplossing van het eerste lid bedoelde probleem de aanleg van een hoofdweg, landelijke spoorweg of hoofdvaarweg of de wijziging van een hoofdweg of een landelijke spoorweg met meer dan twee rijstroken onderscheidenlijk meer dan twee doorgaande sporen in overweging te nemen.   
+5.  Onze Minister geeft kennis van de startbeslissing door middel van plaatsing in de Staatscourant. Volstaan kan worden met de vermelding van de zakelijke inhoud.   
+6.  Onze Minister zendt de startbeslissing tevens aan de Tweede Kamer der Staten-Generaal, de betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg.   
+
+### Artikel  3  
+
+Bij de verkenning vergaart Onze Minister de nodige kennis en inzichten omtrent de aard van het probleem, bedoeld in artikel 2, eerste lid, de relevante ruimtelijke ontwikkelingen en mogelijke oplossingen voor dat probleem.  
+
+### Artikel  4  
+
+1.  De structuurvisie, bedoeld in artikel 2, vierde lid, bevat: 
+
+a. de resultaten van de uitgevoerde verkenning;  
+
+b. een verantwoording over de wijze waarop burgers, maatschappelijke organisaties, betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg zijn betrokken bij de verkenning en de resultaten daarvan;  
+
+c. de voorkeur van Onze Minister voor de oplossing van het in artikel 2, eerste lid, bedoelde probleem en de motivering van die voorkeur.     
+2.  In de structuurvisie kan worden aangegeven dat vanwege de samenhang met andere te verwezenlijken ruimtelijke ontwikkelingen voor de verdere besluitvorming over de activiteit, bedoeld in artikel 8, toepassing wordt gegeven aan [afdeling 3.1](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.5 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en hoofdstuk III dientengevolge buiten toepassing blijft.   
+3.  [Artikel 2.3, derde lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is niet van toepassing.   
+
+### Artikel  5  
+
+1.  De voorkeur, bedoeld in artikel 4, eerste lid, onderdeel c, kan inhouden: 
+
+a. de aanleg of wijziging van een hoofdweg, landelijke spoorweg of hoofdvaarweg;  
+
+b. een oplossing zonder aanleg of wijziging van een hoofdweg, landelijke spoorweg of hoofdvaarweg;  
+
+c. een combinatie van a of b met de realisering van andere ruimtelijke projecten;  
+
+d. dat er geen oplossing wordt uitgewerkt.     
+2.  Indien de voorkeur, bedoeld in eerste lid, geheel of mede uitgaat naar onderdeel a van dat lid, bevat de structuurvisie tevens: 
+
+a. een globale beschrijving van de te treffen maatregelen en van de noodzakelijke maatregelen en voorzieningen als bedoeld in artikel 10;  
+
+b. een beschrijving van de verwezenlijking van de voorgenomen activiteit in relatie tot de ruimtelijke ontwikkelingen;  
+
+c. een raming van de kosten en een onderbouwing van de financiële uitvoerbaarheid.     
+
+### Artikel  6  
+
+1.  Onze Minister geeft kennis van het ontwerp van de structuurvisie met overeenkomstige toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Hij zendt het ontwerp aan de Tweede Kamer der Staten-Generaal, de betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg.   
+2.  De [artikelen 3:11](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:14](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:15, eerste lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing, met dien verstande dat zienswijzen naar voren kunnen worden gebracht door een ieder.   
+
+### Artikel  7  
+
+1.  Onze Minister geeft kennis van de structuurvisie door middel van plaatsing in de Staatscourant. Volstaan kan worden met de vermelding van de zakelijke inhoud.   
+2.  Onze Minister zendt de structuurvisie toe aan de Tweede Kamer der Staten-Generaal, aan de betrokken bestuursorganen en, voor zover van toepassing, aan de beheerder van de landelijke spoorweg.   
+3.  [Artikel 2.3, vierde lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is niet van toepassing.   
+
+### Hoofdstuk  III  
+
+####Tracébesluit
+
+### Paragraaf  3.1  
+
+####Algemene bepalingen
+
+### Artikel  8  
+
+Dit hoofdstuk is, tenzij toepassing is gegeven aan artikel 4, tweede lid, van toepassing op: 
 
 a. de aanleg van een hoofdweg, landelijke spoorweg of hoofdvaarweg;  
 
 b. een wijziging van een hoofdweg, die bestaat uit: 
 
-1°. de ombouw van een weg tot autosnelweg of  
+1°. de ombouw van een weg tot autosnelweg; of  
 
 2°. de uitbreiding van een weg met één of meer rijstroken, indien het uit te breiden weggedeelte twee knooppunten of aansluitingen met elkaar verbindt;    
 
@@ -80,189 +125,129 @@ c. een wijziging van een landelijke spoorweg waarmee Onze Minister de bruikbaarh
 
 4°. een geheel van onderling samenhangende maatregelen ten aanzien van die spoorweg;    
 
-d. het opnieuw in gebruik nemen van een reeds aangelegde landelijke spoorweg voor zover het gaat om een lengte van 5 kilometer of meer;  
+d. het opnieuw in gebruik nemen van een reeds aangelegde landelijke spoorweg voor zover het gaat om een lengte van vijf kilometer of meer;  
 
-e. een wijziging van de hoofdvaarweg, die bestaat uit: 
-
-1°. een vergroting of verdieping waardoor het ruimte-oppervlak van de hoofdvaarweg met ten minste twintig procent toeneemt dan wel de hoofdvaarweg blijvend wordt verdiept waarbij meer dan vijf miljoen kubieke meter grond wordt verzet of  
-
-2°. een verlegging van een rivier waarbij het zomerbed wordt verlegd en de verlegging een oppervlakte beslaat van ten minste 50 hectare.       
-2.  Een beslissing om de procedure ten aanzien van de aanleg of wijziging van een hoofdweg of hoofdvaarweg of de medewerking aan de aanleg of wijziging van een landelijke spoorweg aan te vangen, wordt genomen door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
-3.  In de beslissing, bedoeld in het tweede lid, wordt ten aanzien van de projecten, genoemd in het eerste lid, onder b tot en met e, aangegeven of het ontwerp-tracébesluit, bedoeld in artikel 11, en het tracébesluit, bedoeld in artikel 15, worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dan wel door Onze Minister.   
-
-### Hoofdstuk  II  
-
-####Trajectnota en standpunt
-
-### Artikel  2a  
-
-Hoofdstuk II is alleen van toepassing op besluitvorming omtrent een project als bedoeld in artikel 2, eerste lid, onder a.  
-
-### Artikel  3  
-
-1.  Onze Minister stelt een trajectnota op ter voorbereiding van het standpunt, bedoeld in artikel 9, en het tracébesluit, bedoeld in artikel 15.   
-2.  Bij de voorbereiding betrekt Onze Minister de raden van de gemeenten, de provinciale staten van de provincies en de besturen van de regionale openbare lichamen en waterschappen op het gebied waarvan de trajectnota redelijkerwijs betrekking kan hebben dan wel betrekking heeft.   
-3.  Onze Minister geeft kennis van zijn voornemen om een trajectnota op te stellen met overeenkomstige toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Deze kennisgeving geschiedt gelijktijdig met de kennisgeving, die is voorgeschreven in [artikel 7.27, derde lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-4.  De terinzagelegging van het voornemen geschiedt ten kantore van de betrokken bestuursorganen.   
-5.  Onze Minister stelt een ieder in de gelegenheid naar keuze schriftelijk of mondeling zijn zienswijze omtrent het voornemen naar voren te brengen.   
-6.  Onze Minister bereidt de trajectnota voor gelijktijdig en in samenhang met de voorbereiding van het milieueffectrapport, als voorgeschreven bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-7.  Een trajectnota als bedoeld in dit hoofdstuk wordt voor de toepassing van de [artikelen 7.30, eerste lid](../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [7.32 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) gelijkgesteld met een voorontwerp van een besluit als bedoeld in [artikel 7.36a van laatstbedoelde wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-
-### Artikel  4  
-
-1.  Een trajectnota bevat ten minste de volgende onderdelen: 
-
-a. een omschrijving van het verkeers- en vervoertraject waarop de nota betrekking heeft, en een aanduiding daarvan op een of meer topografische of geografische kaarten;  
-
-b. een beschrijving van de bestaande verkeers- en vervoervoorzieningen in het desbetreffende verkeers- en vervoertraject;  
-
-c. een uiteenzetting van de bestaande en te verwachten verkeers- en vervoerbehoeften voor het desbetreffende verkeers- en vervoertraject;  
-
-d. een uiteenzetting van: 
-
-1°. de mogelijke redenen om in de onder *c* bedoelde behoeften niet te voorzien;  
-
-2°. de mogelijkheden om in de onder *c* bedoelde behoeften te voorzien zonder aanleg van een hoofdweg, landelijke spoorweg of hoofdvaarweg, als bedoeld in artikel 2, eerste lid, onder a;  
-
-3°. de mogelijkheden om in de onder *c* bedoelde behoeften te voorzien door aanleg van een hoofdweg, landelijke spoorweg of hoofdvaarweg, als bedoeld in artikel 2, eerste lid, onder a, alsmede een beschrijving van hetgeen met de voorgenomen activiteit wordt beoogd:    
-
-e. het tracé van de hoofdweg, landelijke spoorweg of hoofdvaarweg, zo mogelijk uitgewerkt in een of meer varianten, waarbij voor elke variant de mogelijkheid van een verschuiving van de as van het tracé van ten hoogste 100 meter aan elke zijde en van een verschuiving van ten hoogste twee meter naar boven of naar beneden is open gelaten, alsmede een beschrijving van de kenmerken van die varianten;  
-
-f. een beschrijving van de bestaande inrichting en het gebruik van de grond, daaronder begrepen water, in het desbetreffende verkeers- en vervoertraject;  
-
-g. een beschrijving van de ruimtelijke ontwikkeling van het desbetreffende verkeers- en vervoertraject en de mate waarin in structuurvisies als bedoeld in de [artikelen 2.1](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [2.2 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), in een verordening als bedoeld in [artikel 4.1 van die wet](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), in een bestemmingsplan als bedoeld in [artikel 3.1 van die wet](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of een beheersverordening als bedoeld in [artikel 3.38 van die wet](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) met de aanleg van de hoofdweg, landelijke spoorweg of hoofdvaarweg is rekening gehouden, alsmede een beschrijving van de ruimtelijke gevolgen van de aanleg van de hoofdweg, landelijke spoorweg of hoofdvaarweg voor het in de omgeving van het desbetreffende verkeers- en vervoertraject gelegen gebied;  
-
-h. een beschrijving van de voor- en nadelen van de onder *d* bedoelde alternatieven en de onder *e* bedoelde varianten;  
-
-i. een raming van de kosten van de aanleg van de hoofdweg, landelijke spoorweg of hoofdvaarweg.     
-2.  Bij de toepassing van het eerste lid onder *a* wordt gebruik gemaakt van een of meer overzichtskaarten met een schaal van ten minste 1:50 000.   
-3.  Bij de toepassing van het eerste lid onder *e* wordt ter voldoening aan artikel 1, eerste lid onder h, onder 1° gebruik gemaakt van een of meer detailkaarten met een schaal van ten minste 1:10 000 en van een of meer overzichtskaarten met een schaal van ten minste 1:50 000.   
-
-### Artikel  5  
-
-Indien de trajectnota betrekking heeft op het tracé van een landelijke spoorweg, betrekt Onze Minister de beheerder van de spoorweg bij de voorbereiding daarvan. Deze verleent de in verband daarmee nodige medewerking aan het opstellen van de trajectnota.  
-
-### Artikel  6  
-
-1.  Onze Minister voert ter voorbereiding van de trajectnota met de betrokken bestuursorganen overleg over de opzet van de nota ten aanzien van het verkeers- en vervoertraject als bedoeld in artikel 4, eerste lid onder *a*, en de te behandelen alternatieven en varianten als bedoeld in artikel 4, eerste lid onder *d* en *e*.   
-2.  Onze Minister voert met de betrokken bestuursorganen voorts overleg bij de verdere voorbereiding van de trajectnota.   
-
-### Artikel  7  
-
-1.  Onze Minister geeft kennis van de trajectnota met overeenkomstige toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De [artikelen 3:11](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:14](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:15, eerste lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing, met dien verstande dat in plaats van «het ontwerp van het te nemen besluit» en het «ontwerp» wordt gelezen: de trajectnota. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
-
-### Artikel  8  
-
-1.  Binnen een door Onze Minister te bepalen termijn van ten hoogste vier maanden na de dag waarop de trajectnota ter inzage is gelegd, geven de betrokken bestuursorganen in een met redenen omkleed advies ten minste aan: 
-
-a. welke van de in de trajectnota behandelde alternatieven en varianten naar hun oordeel passen in hun ruimtelijk beleid;  
-
-b. welke van die alternatieven en varianten naar hun oordeel de voorkeur verdienen;  
-
-c. of en zo ja, tegen welke van die alternatieven en varianten zij bedenkingen hebben.     
-2.  Indien de betrokken bestuursorganen binnen de gestelde termijn geen advies hebben uitgebracht stemmen zij in met de volledigheid van de in de trajectnota behandelde alternatieven en varianten.   
+e. een wijziging van de hoofdvaarweg, die bestaat uit een vergroting of verdieping waardoor het ruimteoppervlak van de hoofdvaarweg met ten minste twintig procent toeneemt dan wel de hoofdvaarweg blijvend wordt verdiept waarbij meer dan vijf miljoen kubieke meter grond wordt verzet.    
 
 ### Artikel  9  
 
-1.  Onze Minister bepaalt binnen acht weken na het verstrijken van de ingevolge artikel 8, eerste lid, bepaalde termijn, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, zijn standpunt met betrekking tot de aanleg van de hoofdweg, hoofdvaarweg of landelijke spoorweg of de medewerking aan de aanleg van de landelijke spoorweg. Het standpunt houdt in dat hij de aanleg van het in de eerste volzin bedoelde werk of de medewerking daaraan al dan niet verder in overweging neemt.   
-2.  Indien de trajectnota betrekking heeft op het tracé van een landelijke spoorweg, voert Onze Minister overleg over het door hem te bepalen standpunt met de beheerder van de spoorweg.   
-3.  Onze Minister deelt het standpunt onder opgave van redenen schriftelijk mee aan de betrokken bestuursorganen en, indien de trajectnota betrekking heeft op het tracé van een landelijke spoorweg, aan de beheerder van de spoorweg.   
-4.  Binnen een week na de mededeling, bedoeld in het derde lid, legt Onze Minister het standpunt ter inzage. Artikel 3, vierde lid, van deze wet en [artikel 3:11, derde en vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+1.  Het tracébesluit wordt uiterlijk twee jaar nadat de structuurvisie is toegezonden aan de Tweede Kamer der Staten-Generaal vastgesteld door Onze Minister. Indien geen toepassing is gegeven aan artikel 2, vierde lid, wordt het tracébesluit vastgesteld uiterlijk twee jaar nadat de startbeslissing is toegezonden aan de Tweede Kamer der Staten-Generaal.   
+2.  Indien krachtens artikel 13, zevende lid, toepassing wordt gegeven aan [artikel 19j van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of toepassing wordt gegeven aan artikel 13, achtste lid, wordt het tracébesluit vastgesteld mede in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. Indien niet binnen drie weken na het daartoe strekkende verzoek van Onze Minister overeenstemming is bereikt tussen Onze Minister en Onze Minister van Landbouw, Natuur en Voedselkwaliteit legt Onze Minister dit voor aan Onze Minister-President, Minister van Algemene Zaken.   
+3.  Indien de voorkeur, bedoeld in artikel 4, eerste lid, onderdeel c, een keuze voor artikel 5, eerste lid, onderdeel c, inhoudt, bevordert Onze Minister de vaststelling van de voor de verwezenlijking van die voorkeur noodzakelijke ruimtelijke plannen.   
 
 ### Artikel  10  
 
-1.  Indien het standpunt van Onze Minister inhoudt dat hij de aanleg van de hoofdweg, hoofdvaarweg of landelijke spoorweg of de medewerking aan de aanleg van de landelijke spoorweg verder in overweging neemt, houdt het standpunt tevens in welk tracé de voorkeur verdient.   
-2.  In geval van toepassing van het eerste lid wordt binnen zes maanden na het uitbrengen van het standpunt een ontwerp-tracébesluit vastgesteld.   
+1.  Het tracébesluit bevat ten minste: 
 
-### Hoofdstuk  III  
+a. een beschrijving van de te treffen maatregelen, de inpassing van die maatregelen en de te realiseren ligging in het terrein;  
 
-####Tracébesluit
+b. een beschrijving van de te treffen voorzieningen, gericht op het ongedaan maken, beperken of compenseren van de nadelige gevolgen van de uitvoering van het werk, voor zover die voorzieningen rechtstreeks verband houden met de uitvoering van het werk;  
 
-### Artikel  10a  
+c. een beschrijving van de te treffen voorzieningen die dienen voor de instandhouding dan wel het veilig en doelmatig gebruik van een hoofdweg, landelijke spoorweg of hoofdvaarweg;  
 
-Indien op grond van [artikel 7.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) een milieueffectrapport wordt opgesteld ten aanzien van een project als bedoeld in artikel 2, eerste lid, onder b, zijn ten aanzien van de projecten, opgenomen in de bij deze wet behorende bijlage, de [artikelen 7.27, eerste tot en met vijfde en zevende lid](../../../wet/wet/milieubeheer/BWBR0003245/README.md), [7.32, vijfde lid](../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [7.39 tot en met 7.42 van die wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing.  
+d. een beschrijving van de tijdelijke maatregelen en de tijdelijk te treffen voorzieningen die nodig zijn voor de verwezenlijking van de voorgenomen aanleg of wijziging van een hoofdweg, landelijke spoorweg of hoofdvaarweg;  
 
-### Artikel  10b  
+e. de aanduiding op een of meer topografische of geografische kaarten van het verloop en de geografische omvang van het werk, waarbij gebruik wordt gemaakt van een of meer detailkaarten met een schaal van ten minste 1:2500 en van een of meer overzichtskaarten;  
 
-1.  Het bepaalde in het tweede en derde lid is van toepassing op projecten tot wijziging van een hoofdweg als bedoeld in artikel 2, eerste lid, onder b, opgenomen in de bij deze wet behorende bijlage.   
-2.  In een geval van de wijziging van een hoofdweg als bedoeld in artikel 2, eerste lid, onder b, worden voornemens tot invoering van een prijs voor het rijden met een motorrijtuig op de weg buiten beschouwing gelaten bij de toepassing van de artikelen 11, eerste lid, en 15, eerste lid.   
-3.  Indien op grond van [artikel 7.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) een milieueffectrapport wordt opgesteld ten aanzien van een project als bedoeld in artikel 2, eerste lid, onder b, worden voornemens tot invoering van een prijs voor het rijden met een motorrijtuig op de weg buiten beschouwing gelaten bij de beschrijving van de alternatieven, bedoeld in [artikel 7.23, eerste lid, onderdeel b, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md), alsmede bij de beschrijving van de bestaande toestand van het milieu en van de te verwachten ontwikkeling van dat milieu, bedoeld in artikel 7.23, eerste lid, onderdeel d, van die wet.   
+f. de termijn waarbinnen Onze Minister de gevolgen van de ingebruikneming van de aan te leggen of te wijzigen hoofdweg, landelijke spoorweg of hoofdvaarweg onderzoekt en een opgave van de daarbij te onderzoeken milieuaspecten.     
+2.  Het tracébesluit inzake de aanleg of wijziging van een hoofdweg bevat, voor zover van toepassing, voorts: 
+
+a. een beschrijving van het aantal te realiseren rijstroken;  
+
+b. de in acht te nemen grenswaarden voor geluidhinder en de aanduiding van de maatregelen, gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen onderscheidenlijk aan de grens van geluidsgevoelige terreinen als bedoeld in de [Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+
+c. de beslissing tot vaststelling van hogere waarden voor de ten hoogste toelaatbare geluidsbelasting in de zone ingevolge de [artikelen 87e tot en met 87i van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md); en  
+
+d. de wijze waarop rekening is gehouden met de risicoanalyse, bedoeld in [artikel 6, eerste lid, van de Wet aanvullende regels veiligheid wegtunnels](../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md).     
+3.  Het tracébesluit inzake de aanleg of wijziging van een landelijke spoorweg bevat, voor zover van toepassing, voorts: 
+
+a. een beschrijving van het aantal te realiseren sporen;  
+
+b. de in acht te nemen grenswaarden voor geluidhinder en de aanduiding van de maatregelen, gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen onderscheidenlijk aan de grens van geluidsgevoelige terreinen als bedoeld in de [Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), met betrekking tot de aanleg of wijziging van de landelijke spoorweg, alsmede de aansluitende landelijke spoorweg waarop ten gevolge van de aanleg of wijziging sprake is van een aanpassing in de zin van [artikel 106, eerste lid, onderdeel l, van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md); en  
+
+c. de beslissing tot vaststelling van hogere waarden voor de ten hoogste toelaatbare geluidsbelasting in de zone ingevolge de [artikelen 106d tot en met 106h van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md).     
+4.  Bij het tracébesluit wordt aangegeven op welke wijze burgers en maatschappelijke organisaties betrokken zijn. Indien geen structuurvisie is vastgesteld, wordt bij het tracébesluit aangegeven wat de resultaten van de verkenning, bedoeld in artikel 3, zijn en verantwoording afgelegd over de wijze waarop burgers, maatschappelijke organisaties, betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg zijn betrokken bij die verkenning en de resultaten daarvan.   
 
 ### Artikel  11  
 
-1.  Het ontwerp-tracébesluit wordt vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dan wel door Onze Minister.   
-2.  Het ontwerp-tracébesluit bevat ten minste: 
+1.  Op de voorbereiding van het tracébesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat zienswijzen naar voren kunnen worden gebracht door een ieder.   
+2.  Bij de voorbereiding van het tracébesluit betrekt Onze Minister de betrokken bestuursorganen van gemeenten, provincies en waterschappen.   
+3.  Onze Minister zendt het ontwerp-tracébesluit aan: 
 
-a. de voorgenomen beslissing tot vaststelling van hogere waarden voor de ten hoogste toelaatbare geluidsbelasting in zones ingevolge de [artikelen 87e tot en met 87i](../../../wet/wet/geluidhinder/BWBR0003227/README.md) of [106d tot en met 106h van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+a. de betrokken bestuursorganen;  
 
-b. een beschrijving van de wijze waarop de inpassing van de aan te leggen of te wijzigen hoofdweg, landelijke spoorweg of hoofdvaarweg zal geschieden, en waar dit in redelijkheid niet kan worden verlangd, welke compenserende maatregelen zullen worden getroffen;  
-
-c. een beschrijving van de wijze waarop rekening is gehouden met het advies van de Commissie voor de tunnelveiligheid ten aanzien van het tracé van een in de desbetreffende hoofdweg of landelijke spoorweg geplande tunnel en, indien het een tunnel in een hoofdweg betreft, de wijze waarop rekening is gehouden met de risicoanalyse, bedoeld in [artikel 6, eerste lid, van de Wet aanvullende regels veiligheid wegtunnels](../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md).     
-3.  Bij het ontwerp-tracébesluit wordt ter voldoening aan artikel 1, eerste lid, onder h, onder 1°, gebruik gemaakt van een of meer detailkaarten met een schaal van ten minste 1:2500 en van een of meer overzichtskaarten met een schaal van ten minste 1:20 000.   
-
-### Artikel  12  
-
-1.  Onze Minister zendt het ontwerp-tracébesluit aan de betrokken bestuursorganen en, indien het ontwerp-tracébesluit betrekking heeft op het tracé van een landelijke spoorweg, aan de beheerder van de spoorweg.   
-2.  Onze Minister zendt het ontwerp-tracébesluit, indien het hogere waarden bevat voor de ten hoogste toelaatbare geluidsbelasting in zones ingevolge de [artikelen 87e tot en met 87i](../../../wet/wet/geluidhinder/BWBR0003227/README.md) of  [106d tot en met 106h van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), voorts aan: 
+b. de beheerder van de spoorweg, indien het betrekking heeft op een landelijke spoorweg.     
+4.  Indien het ontwerp-besluit hogere waarden bevat voor de ten hoogste toelaatbare geluidsbelasting in zones ingevolge de [artikelen 87e tot en met 87i](../../../wet/wet/geluidhinder/BWBR0003227/README.md) of [106d tot en met 106h van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), zendt Onze Minister het ontwerp-besluit tevens toe aan: 
 
 a. de gebruikers van de woningen of de woonwagenstandplaatsen, het bevoegd gezag van scholen en de directies van ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen waarvoor een hogere waarde wordt bepaald;  
 
-b. de Minister van Onderwijs, Cultuur en Wetenschappen, indien het betrekking heeft op scholen.     
-3.  Op de voorbereiding van het tracébesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Bij de voorbereiding betrekt Onze Minister de raden van de gemeenten, de provinciale staten van de provincies en de besturen van waterschappen op het gebied waarvan het te nemen tracébesluit betrekking heeft. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
-4.  In afwijking van het tweede lid, aanhef en onder a, kan Onze Minister, indien de omvang van het ontwerp-tracébesluit daartoe aanleiding geeft, volstaan met eenieder van de in het tweede lid, onder a, bedoelde personen de strekking van het ontwerp-tracébesluit mee te delen en de onderdelen van het ontwerp-tracébesluit die voor de betrokkene redelijkerwijs van belang zijn, toe te zenden.   
+b. de Minister van Onderwijs, Cultuur en Wetenschap, indien het betrekking heeft op scholen.     
+5.  In afwijking van het vierde lid, aanhef en onderdeel a, kan Onze Minister, indien de omvang van het ontwerp-tracébesluit daartoe aanleiding geeft, volstaan met een ieder van de in het vierde lid, onderdeel a, bedoelde personen de strekking van het ontwerp-tracébesluit mee te delen en de onderdelen van het ontwerp-tracébesluit die voor de betrokkene redelijkerwijs van belang zijn, toe te zenden.   
 
-### Artikel  15  
+### Artikel  12  
 
-1.  Het tracébesluit wordt binnen vijf maanden na de terinzagelegging van het ontwerp-tracébesluit vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, dan wel door Onze Minister. Indien krachtens het tiende lid toepassing wordt gegeven aan [artikel 19j van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of toepassing wordt gegeven aan het elfde lid wordt het tracébesluit vastgesteld mede in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. Indien niet binnen drie weken na het daartoe strekkende verzoek van Onze Minister overeenstemming is bereikt tussen Onze Minister en Onze Minister van Landbouw, Natuur en Voedselkwaliteit legt Onze Minister dit voor aan Onze Minister-President, Minister van Algemene Zaken. De artikelen 9, tweede lid, en 11, tweede lid, onderdeel b, en derde lid, zijn van overeenkomstige toepassing. Bij de vaststelling van het tracébesluit inzake de aanleg of wijziging van een hoofdweg, bedoeld in artikel 2, eerste lid, onder a en b, wordt, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+1.  Bij de vaststelling van het tracébesluit wordt gebruik gemaakt van: 
 
 a. de verkeersgegevens en de daarop gebaseerde onderzoeken,  
 
 b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) bekendgemaakte gegevens en de daarop gebaseerde onderzoeken, en  
 
-c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en de daarop gebaseerde onderzoeken,   die ten grondslag hebben gelegen aan het ontwerp-tracébesluit, met dien verstande dat indien de rapporten waarin die gegevens, onderzoeken en inventarisaties en gevolgen zijn vervat, bij de vaststelling van het tracébesluit ouder zijn dan twee jaar, het tracébesluit een motivering van de actualiteit van die rapporten bevat. Onze Ministers kunnen nadere regels stellen ten aanzien van de methoden en uitgangspunten voor de beoordeling van effecten van een project tot aanleg of wijziging van een hoofdweg.   
-2.  Een beslissing tot het vaststellen van een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting in zones ingevolge de artikelen [artikelen 87e tot en met 87i](../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [106d tot en met 106h van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) met betrekking tot het gebied dat is begrepen in een tracébesluit, maakt deel uit van het tracébesluit.   
-3.  Voor het gebied dat is begrepen in een tracébesluit geldt het tracébesluit als voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). Voor de bij het tracébesluit behorende zone, bedoeld in [artikel 74, eerste lid, van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) onderscheidenlijk de zone, bedoeld in [artikel 106b van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md), geldt dat tracébesluit als voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), met dien verstande dat dit slechts geldt met betrekking tot geprojecteerde woningen en andere geprojecteerde geluidsgevoelige objecten ten aanzien waarvan de geluidsbelasting vanwege de hoofdweg of de landelijke spoorweg of vanwege binnen de zone van die hoofdweg of landelijke spoorweg gelegen wegen of spoorwegen de waarden die ingevolge de [artikelen 87e tot en met 87i](../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [106d tot en met 106h van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) als ten hoogst toelaatbare waarden worden aangemerkt, te boven zal gaan. Voor zover het tracébesluit geldt als voorbereidingsbesluit, is [artikel 3.7, vijfde en zesde lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) niet van toepassing. Het tracébesluit geldt niet meer als voorbereidingsbesluit indien voor het in de eerste volzin bedoelde gebied en de in de tweede volzin bedoelde zone een bestemmingsplan in overeenstemming met het tracébesluit van kracht is geworden.   
-4.  Onder een geprojecteerde woning of een ander geprojecteerd geluidsgevoelig object als bedoeld in de tweede volzin van het derde lid wordt verstaan een nog niet aanwezige woning of ander geluidsgevoelig object waarvoor het geldende bestemmingsplan verlening van de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) toelaat, maar deze nog niet is afgegeven.   
-5.  [Artikel 3.3, eerste tot en met derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing op aanvragen om een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van die wet](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) ter uitvoering van het tracébesluit.   
-6.  Voor zover het tracébesluit en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het tracébesluit als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij de toepassing van [artikel 2.10 van die wet](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder bestemmingsplan of beheersverordening mede het tracébesluit begrepen.   
-7.  Voor zover een bestemmingsplan, een beheersverordening of een ander besluit voor de uitvoering van werken of werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet voor de uitvoering van werken of werkzaamheden ter uitvoering van het tracébesluit in het gebied dat is begrepen in een tracébesluit. Indien ter uitvoering van het tracébesluit handelingen worden verricht waarvoor krachtens [artikel 15 van de Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een verkeersbesluit is vereist, is dat artikel niet van toepassing.   
-8.  De gemeenteraad stelt binnen een jaar nadat het tracébesluit onherroepelijk is geworden een bestemmingsplan of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) overeenkomstig het tracébesluit vast. Voor zover een ontwerp van een bestemmingsplan zijn grondslag vindt in het tracébesluit kunnen zienswijzen geen betrekking hebben op dat deel van het ontwerpplan.   
-9.  Indien het bestemmingsplan nog niet in overeenstemming is met het tracébesluit, verleent het college van burgemeester en wethouders aan degenen die inzage verlangen in dat plan tevens inzage in het tracébesluit.   
-10.  De [artikelen 19d](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en [19kc van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) zijn niet van toepassing op handelingen waarop het tracébesluit betrekking heeft. Indien die handelingen de kwaliteit van de natuurlijke habitats en de habitats van soorten in een Natura 2000-gebied als bedoeld in die wet kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor het gebied is aangewezen, gelet op de instandhoudingsdoelstelling voor dat gebied, zijn de [artikelen 19j, eerste tot en met derde lid en vijfde lid](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), en [19kd van die wet](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en het krachtens [artikel 19kb, eerste lid, van die wet](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) bepaalde, van overeenkomstige toepassing op het vaststellen van een tracébesluit.   
-11.  [Artikel 16, eerste lid, van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is niet van toepassing op handelingen waarop het tracébesluit betrekking heeft. Indien die handelingen in een beschermd natuurmonument als bedoeld in artikel 16, eerste lid, van die wet plaatsvinden, of daarbuiten in de gevallen, bedoeld in het vierde lid van dat artikel, en de handelingen schadelijk kunnen zijn voor de waarden, bedoeld in het eerste lid van dat artikel, betrekt Onze Minister bij de besluitvorming over het tracébesluit het belang van bescherming van de waarden van het beschermde natuurmonument.   
-12.  [Artikel 19j van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is niet van toepassing op de vaststelling van het tracébesluit indien de handelingen waarop het tracébesluit betrekking heeft, zijn opgenomen in een beheerplan als bedoeld in [artikel 19a](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of  [19b van die wet](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), of in het programma op grond van [artikel 19kh, vijfde lid](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), en die handelingen overeenkomstig dat plan of dat programma worden uitgevoerd.   
+c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en de daarop gebaseerde onderzoeken,   die ten grondslag hebben gelegen aan het ontwerp-tracébesluit, met dien verstande dat indien de rapporten waarin die gegevens, onderzoeken en inventarisaties en gevolgen zijn vervat, bij de vaststelling van het tracébesluit ouder zijn dan twee jaar, het tracébesluit een motivering van de actualiteit van die rapporten bevat.   
+2.  Onze Minister kan nadere regels stellen ten aanzien van de methoden en uitgangspunten voor de beoordeling van effecten van een project tot aanleg of wijziging van een hoofdweg, een landelijke spoorweg of een hoofdvaarweg.   
 
-### Artikel  15a  
+### Artikel  13  
 
-1.  [Artikel 5.16, eerste lid, aanhef, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) is ook van toepassing indien het tracébesluit inzake de aanleg of wijziging van een hoofdweg, bedoeld in artikel 2, eerste lid, onder a en b, is genoemd of beschreven in, dan wel past binnen of in elk geval niet in strijd is met een overeenkomstig [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ter inzage gelegd ontwerp van het programma, bedoeld in [artikel 5.12, eerste lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-2.  In het tracébesluit dat wordt vastgesteld met toepassing van het eerste lid, wordt ten aanzien van het bepaalde in de [bijlage 2 bij de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) uitsluitend aannemelijk gemaakt dat: 
+1.  Voor het gebied dat is begrepen in een tracébesluit geldt het tracébesluit als voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../wet/wet/milieubeheer/BWBR0003245/README.md). Voor de bij het tracébesluit behorende zone, bedoeld in [artikel 74, eerste lid, van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) onderscheidenlijk de zone, bedoeld in [artikel 106b van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md), geldt dat tracébesluit als voorbereidingsbesluit als bedoeld in artikel 3.7 van de Wet ruimtelijke ordening, met dien verstande dat dit slechts geldt met betrekking tot geprojecteerde woningen en andere geprojecteerde geluidsgevoelige objecten ten aanzien waarvan de geluidsbelasting vanwege de hoofdinfrastructuur of vanwege binnen de zone van die hoofdinfrastructuur gelegen wegen of spoorwegen de waarden die ingevolge de [artikelen 87e tot en met 87i](../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [106d tot en met 106h van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) als ten hoogst toelaatbare waarden worden aangemerkt, te boven zal gaan. Voor zover het tracébesluit geldt als voorbereidingsbesluit, is artikel 3.7, vijfde en zesde lid, van de Wet ruimtelijke ordening niet van toepassing. Het tracébesluit geldt niet meer als voorbereidingsbesluit indien voor het in de eerste volzin bedoelde gebied en de in de tweede volzin bedoelde zone een bestemmingsplan in overeenstemming met het tracébesluit van kracht is geworden.   
+2.  Onder een geprojecteerde woning of een ander geprojecteerd geluidsgevoelig object als bedoeld in de tweede volzin van het eerste lid wordt verstaan een nog niet aanwezige woning of ander geluidsgevoelig object waarvoor het geldende bestemmingsplan verlening van de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) toelaat, maar deze nog niet is afgegeven.   
+3.  [Artikel 3.3, eerste tot en met derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing op aanvragen om een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van die wet](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) ter uitvoering van het tracébesluit.   
+4.  Voor zover het tracébesluit en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het tracébesluit als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij die toepassing van [artikel 2.10 van die wet](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder het bestemmingsplan of beheersverordening mede het tracébesluit begrepen.   
+5.  Voor zover een bestemmingsplan, een beheersverordening of een ander besluit voor de uitvoering van werken of werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel b, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet voor de uitvoering van werken of werkzaamheden ter uitvoering van het tracébesluit in het gebied dat is begrepen in een tracébesluit.   
+6.  Indien ter uitvoering van het tracébesluit handelingen worden verricht waarvoor krachtens artikel 15 van de Wegenverkeerswet 1994 een verkeersbesluit is vereist, is dat artikel niet van toepassing.   
+7.  De [artikelen 19d](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en [19kc van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) zijn niet van toepassing op handelingen waarop het tracébesluit betrekking heeft. Indien die handelingen de kwaliteit van de natuurlijke habitats en de habitats van soorten in een Natura 2000-gebied als bedoeld in die wet kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor het gebied is aangewezen, gelet op de instandhoudingsdoelstelling voor dat gebied, zijn de [artikelen 19j, eerste tot en met derde lid en vijfde lid](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), en [19kd van die wet](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en het krachtens [artikel 19kb, eerste lid, van die wet](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) bepaalde, van overeenkomstige toepassing op het vaststellen van een tracébesluit.   
+8.  [Artikel 16, eerste lid, van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is niet van toepassing op handelingen waarop het tracébesluit betrekking heeft. Indien die handelingen in een beschermd natuurmonument als bedoeld in artikel 16, eerste lid, van die wet plaatsvinden, of daarbuiten in de gevallen, bedoeld in het vierde lid van dat artikel, en de handelingen schadelijk kunnen zijn voor de waarden, bedoeld in het eerste lid van dat artikel, betrekt Onze Minister bij de besluitvorming over het tracébesluit het belang van bescherming van de waarden van het beschermde natuurmonument.   
+9.  [Artikel 19j van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is niet van toepassing op de vaststelling van het tracébesluit indien de handelingen waarop het tracébesluit betrekking heeft, zijn opgenomen in een beheerplan als bedoeld in [artikel 19a](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of [19b van die wet](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), of in het programma op grond van [artikel 19kh, vijfde lid](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), en die handelingen overeenkomstig dat plan worden uitgevoerd.   
+10.  De gemeenteraad stelt binnen een jaar nadat het tracébesluit onherroepelijk is geworden een bestemmingsplan of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) overeenkomstig het tracébesluit vast. Voor zover een ontwerp van een bestemmingsplan zijn grondslag vindt in het tracébesluit kunnen zienswijzen geen betrekking hebben op dat deel van het ontwerpplan.   
+11.  Indien het bestemmingsplan nog niet in overeenstemming is met het tracébesluit, verleent het college van burgemeester en wethouders aan degenen die inzage verlangen in dat plan tevens inzage in het tracébesluit.   
 
-a. gedurende het eerste jaar na ingebruikneming van de overeenkomstig het tracébesluit aangelegde of gewijzigde weg bij de gedurende dat jaar verwachte toename van de concentraties verontreinigende stoffen in de buitenlucht door de toename van het verkeer gedurende dat jaar die rechtstreeks verband houdt met die aanleg of wijziging, geen overschrijding plaatsvindt van een grenswaarde voor luchtkwaliteit; of  
+### Artikel  14  
 
-b. de verwachte toename van de concentraties gedurende het onder a bedoelde jaar door de toename van het verkeer gedurende dat jaar die rechtstreeks verband houdt met de overeenkomstig het tracébesluit aan te leggen of te wijzigen weg, niet 1% van de grenswaarde voor de jaargemiddelde concentratie van zwevende deeltjes (PM <sub>10</sub>) of stikstofdioxide overschrijdt.     
-3.  Onverminderd artikel 15, in samenhang met artikel 11, tweede lid, bevat een tracébesluit dat vastgesteld wordt met toepassing van het eerste lid tevens de maatregelen die onlosmakelijk verbonden zijn met het tracébesluit voor zover die genoemd of beschreven zijn in het ontwerp van het programma, bedoeld in het eerste lid.   
-4.  Het luchtkwaliteitsonderzoek ten behoeve van een tracébesluit voor de aanleg of wijziging van een hoofdweg, bedoeld in artikel 2, eerste lid, onder a en b, wordt beperkt tot het gebied dat zich uitstrekt van de voorafgaande tot en met de eerstvolgende aansluiting op of aan de aan te leggen of te wijzigen weg en ter weerszijden van dit wegvak tot één kilometer vanuit de meest buiten gelegen rijstroken, een en ander voor zover gelegen op Nederlands grondgebied. Onder aansluiting wordt tevens knooppunt verstaan.   
+1.  Onze Minister kan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing laten bij de voorbereiding van een besluit tot wijziging van een tracébesluit waartegen beroep aanhangig is, indien het een wijziging van ondergeschikte aard betreft.   
+2.  Het wijzigingsbesluit als bedoeld in het eerste lid wordt vastgesteld uiterlijk tien dagen voor de zitting, die plaatsvindt ten behoeve van de beoordeling van het bestreden besluit.   
 
-### Artikel  15b  
+### Paragraaf  3.2  
 
-1.  Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dan wel Onze Minister is bevoegd om hangende het beroep tegen een tracébesluit, een besluit tot wijziging van dat tracébesluit vast te stellen.   
-2.  Artikel 12, derde lid, is niet van toepassing op het besluit, bedoeld in het eerste lid, indien het een wijziging van ondergeschikte aard betreft. Het wijzigingsbesluit, bedoeld in het eerste lid, wordt vastgesteld uiterlijk tien dagen voor de zitting, die plaatsvindt ten behoeve van de beoordeling van het bestreden besluit.   
-3.  [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op het besluit, bedoeld in het eerste lid.   
+####Bijzondere bepalingen
+
+### Artikel  15  
+
+1.  Het tweede lid is van toepassing op projecten opgenomen in de bij deze wet behorende bijlage en voor zover het ontwerp-tracébesluit na 1 januari 2009 ter inzage is gelegd.   
+2.  Indien op grond van [artikel 7.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) een milieueffectrapport wordt opgesteld ten behoeve van een tracébesluit zijn de [artikelen 7.27, eerste tot en met vijfde en zevende lid](../../../wet/wet/milieubeheer/BWBR0003245/README.md), [7.32, vijfde lid](../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [7.39 tot en met 7.42 van die wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing.   
 
 ### Artikel  16  
 
-1.  Onze Minister zendt het tracébesluit aan de betrokken bestuursorganen en, indien het tracébesluit betrekking heeft op het tracé van een landelijke spoorweg, aan de beheerder van de spoorweg.   
-2.  Bij de bekendmaking van het tracébesluit worden de motivering en de toelichting op het tracé vermeld.   
-3.  De terinzagelegging geschiedt tevens ten kantore van de betrokken bestuursorganen.   
+[VERVALLEN]  
+
+### Artikel  17  
+
+1.  Het luchtkwaliteitsonderzoek ten behoeve van een tracébesluit voor de aanleg of wijziging van een hoofdweg wordt beperkt tot het gebied dat zich uitstrekt van de voorafgaande tot en met de eerstvolgende aansluiting op of aan de aan te leggen of te wijzigen weg en ter weerszijden van dit wegvak tot één kilometer vanuit de meest buiten gelegen rijstroken, een en ander voor zover gelegen op Nederlands grondgebied. Onder aansluiting wordt tevens knooppunt verstaan.   
+2.  Het eerste lid is van overeenkomstige toepassing op het luchtkwaliteitsonderzoek ten behoeve van een tracébesluit voor de aanleg of wijziging van een landelijke spoorweg.   
+
+### Paragraaf  3.3  
+
+####Overige bepalingen
+
+### Artikel  18  
+
+1.  Onze Minister zendt het tracébesluit aan de betrokken bestuursorganen en, indien het tracébesluit betrekking heeft op een landelijke spoorweg, aan de beheerder van de spoorweg.   
+2.  De terinzagelegging geschiedt tevens ten kantore van de betrokken bestuursorganen.   
 
 ### Hoofdstuk  IV  
 
 ####Projectuitvoering
 
-### Artikel  18  
+### Artikel  19  
 
-Indien de aanleg of wijziging van een hoofdweg, landelijke spoorweg of hoofdvaarweg niet is opgenomen in een jaarlijks voortschrijdend meerjarig uitvoeringsprogramma voor hoofdwegen, landelijke spoorwegen en hoofdvaarwegen, dat bij besluit van Onze Minister is vastgesteld voor het derde jaar na het jaar waarin het tracébesluit van kracht is geworden, vervalt het tracébesluit van rechtswege. Het tracébesluit vervalt eveneens van rechtswege indien het niet binnen tien jaar na het tijdstip waarop het onherroepelijk is geworden in uitvoering is genomen.  
+Het tracébesluit vervalt van rechtswege indien het niet binnen tien jaar na het tijdstip waarop het onherroepelijk is geworden in uitvoering is genomen.  
 
 ### Artikel  20  
 
@@ -288,16 +273,16 @@ e. de besluiten onverwijld worden toegezonden aan Onze Minister.
 10.  De in het tweede lid bedoelde besluiten worden, voor zover ten aanzien daarvan het vierde lid is toegepast, gelijktijdig door Onze Minister bekendgemaakt.   
 11.  Voor zover een ontwerp van een besluit als bedoeld in het tweede lid, zijn grondslag vindt in een tracébesluit, kunnen bedenkingen daarop geen betrekking hebben.   
 
-### Artikel  20a  
+### Artikel  21  
 
 1.  De in artikel 2 bedoelde werken worden voor de toepassing van de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) aangemerkt als openbare werken van algemeen nut.   
 2.  Indien voor de uitvoering van een of meer besluiten als bedoeld in artikel 20, tweede lid, toepassing van de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) noodzakelijk is: 
 
-a. kan Onze Minister van Verkeer en Waterstaat in afwijking van [artikel 2, vierde lid, van de Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md): 
+a. kan Onze Minister in afwijking van [artikel 2, vierde lid, van de Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md): 
 
 1°. een andere plaats of gemeente aanwijzen waar de zitting plaatsvindt;  
 
-2°. bepalen dat de zitting wordt geleid door een door Onze Minister van Verkeer en Waterstaat aan te wijzen persoon;    
+2°. bepalen dat de zitting wordt geleid door een door Onze Minister aan te wijzen persoon;    
 
 b. worden in afwijking van de [artikelen 2, vijfde lid](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), en [3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) gedeputeerde staten niet gehoord;  
 
@@ -309,71 +294,48 @@ c. geldt in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](../../..
 
 3°. de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort wordt totdat de termijn voor het indienen van een beroepschrift is verstreken.       
 
-### Artikel  20b  
-
-De in [artikel 18, eerste lid, van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) bedoelde dagvaarding kan geschieden nadat het tracébesluit is vastgesteld.  
-
-### Artikel  20c  
-
-1.  Onverminderd het bepaalde in [artikel 59, eerste lid, van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) kan het vonnis van onteigening van de rechtbank niet eerder in de openbare registers worden ingeschreven dan nadat het tracébesluit onherroepelijk is geworden.   
-2.  In aanvulling op de [artikelen 54n](../../../wet/onteigeningswet/BWBR0001842/README.md) en [59 van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) is ten behoeve van de in het eerste lid bedoelde inschrijving een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State dan wel een verklaring van de Secretaris van de Raad van State nodig, waaruit blijkt dat het tracébesluit onherroepelijk is geworden.   
-
-### Artikel  20d  
+### Artikel  22  
 
 1.  Indien een belanghebbende ten gevolge van een tracébesluit schade lijdt of zal lijden, die redelijkerwijs niet of niet geheel te zijnen laste behoort te blijven en ten aanzien waarvan de vergoeding niet of niet voldoende anderszins is verzekerd, kent Onze Minister hem op zijn verzoek een naar billijkheid te bepalen schadevergoeding toe.   
 2.  [Afdeling 6.1 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) blijft buiten toepassing voor zover de belanghebbende met betrekking tot de schade een beroep doet of kan doen op een schadevergoeding als bedoeld in het eerste lid.   
 3.  Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de indiening en afhandeling van een verzoek om schadevergoeding.   
 
+### Artikel  23  
+
+1.  Onze Minister onderzoekt voor afloop van de termijn, genoemd in artikel 10, eerste lid, onderdeel f, de gevolgen van de ingebruikneming van een aangelegde of gewijzigde hoofdweg, landelijke spoorweg of hoofdvaarweg ten aanzien van de in dat artikel bedoelde milieuaspecten.   
+2.  Indien het onderzoek betrekking heeft op het aspect luchtkwaliteit, wordt, voor zover voorhanden, gebruik gemaakt van de gegevens als bedoeld in [artikel 5.14 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md), aangegeven welke aanvullende maatregelen naar aanleiding van dat onderzoek nodig zijn en binnen welke termijn die maatregelen worden getroffen.   
+3.  Indien het onderzoek betrekking heeft op het aspect geluidhinder, wordt inzicht gegeven in de geluidbelasting na realisering van de in het tracébesluit opgenomen geluidmaatregelen, aangegeven welke aanvullende maatregelen naar aanleiding van dat onderzoek nodig zijn en binnen welke termijn die maatregelen worden getroffen.   
+4.  Onze Minister zendt de Tweede Kamer der Staten-Generaal, de betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg de resultaten van het onderzoek toe alsmede een beschrijving van de maatregelen die nodig zijn om alsnog te voldoen aan de milieueisen die ten grondslag liggen aan de in het tracébesluit opgenomen maatregelen.   
+5.  De in het vierde lid bedoelde toezending geschiedt gelijktijdig met die van het eerstvolgende verslag, bedoeld in artikel 24.   
+
+### Artikel  24  
+
+Onze Minister zendt de Staten-Generaal ieder half jaar een verslag over de voortgang van de projecten.  
+
 ### Hoofdstuk  V  
-
-####Bijzondere procedure voor grote projecten van nationaal belang
-
-### Hoofdstuk  VA  
 
 ####Beroep
 
-### Artikel  25a  
+### Artikel  25  
 
 1.  Tegen een tracébesluit of een ander in artikel 20, tweede lid, bedoeld besluit kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
 2.  In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het indienen van een beroepschrift tegen de in artikel 20, tweede lid, bedoelde besluiten aan met ingang van de dag na die waarop de in artikel 20, tiende lid, bedoelde bekendmaking is geschied.   
+3.  Voor zover beroep kan worden ingesteld tegen een of meer onderdelen van een planologische kernbeslissing als bedoeld in [artikel 39 van de Wet op de Ruimtelijke Ordening](../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), vangt, in afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de termijn voor het indienen van een beroepschrift ter zake van die onderdelen aan met ingang van de dag waarop beroep kan worden ingesteld tegen het op de planologische kernbeslissing berustende tracébesluit. Indien niet binnen een jaar na het van kracht worden van de planologische kernbeslissing een daarop berustend tracébesluit is vastgesteld, vangt de beroepstermijn aan met ingang van de dag waarop dat jaar is verstreken.   
+4.  [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing met betrekking tot een tracébesluit.   
 
-### Artikel  25b  
+### Artikel  26  
 
-1.  Met betrekking tot beroepen tegen een tracébesluit beslist de Afdeling bestuursrechtspraak van de Raad van State binnen twaalf maanden na ontvangst van een verweerschrift. Met betrekking tot beroepen tegen het tracébesluit A74 beslist de Afdeling in afwijking van het bepaalde in de eerste volzin binnen zes maanden na ontvangst van het verweerschrift.   
+1.  Met betrekking tot beroepen tegen een tracébesluit beslist de Afdeling bestuursrechtspraak van de Raad van State binnen twaalf maanden na ontvangst van een verweerschrift.   
 2.  In bijzondere omstandigheden kan de Afdeling de in het eerste lid genoemde termijn met ten hoogste drie maanden verlengen.   
 3.  Met betrekking tot beroepen tegen de in artikel 20, tweede lid, bedoelde besluiten beslist de Afdeling bestuursrechtspraak van de Raad van State binnen zes maanden na ontvangst van de desbetreffende verweerschriften.   
 
-### Artikel  25c  
+### Artikel  27  
 
-Indien tegen een in artikel 20, tweede lid, bedoeld besluit beroep kan worden ingesteld, kunnen bij dit beroep geen gronden worden aangevoerd die betrekking hebben op een tracébesluit waarop dat besluit rust.  
-
-### Artikel  25d  
-
-1.  Indien de Afdeling bestuursrechtspraak van de Raad van State van oordeel is dat het beroep tegen het tracébesluit gegrond is, kan zij een tussenuitspraak doen, waarbij zij Onze Minister in de gelegenheid stelt om de gebreken weg te nemen.   
-2.  In haar tussenuitspraak stelt de Afdeling vast in welk opzicht het beroep gegrond is. [Afdeling 8.2.6](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [artikel 8:72, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. De Afdeling vermeldt een termijn binnen welke de gebreken moeten zijn weggenomen. De Afdeling kan door middel van een wijziging van de tussenuitspraak de termijn op verzoek van Onze Minister verlengen.   
-3.  Indien Onze Minister aangeeft geen gebruik te willen maken van de gelegenheid om de gebreken weg te nemen dan wel de termijn die daarvoor geldt, laat verstrijken, wordt het onderzoek geacht te zijn gesloten op de dag van ontvangst van de mededeling van Onze Minister dan wel op de dag dat de bedoelde termijn is verstreken.   
-4.  Onze Minister stelt de Afdeling schriftelijk in kennis van de wijze waarop de gebreken zijn weggenomen.   
-5.  De Afdeling stelt de andere partijen in de gelegenheid binnen een door haar te stellen termijn schriftelijk te reageren op de kennisgeving, bedoeld in het vierde lid.   
-6.  Indien de Afdeling een onderzoek ter zitting nodig acht, deelt zij dit zo spoedig mogelijk aan partijen mede.   
+Indien tegen een in artikel 20, tweede lid, bedoeld besluit beroep kan worden ingesteld, kan dat beroep geen grond vinden in bedenkingen tegen een planologische kernbeslissing als bedoeld in [artikel 39 van de Wet op de Ruimtelijke Ordening](../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) of tegen een tracébesluit.  
 
 ### Hoofdstuk  VI  
 
 ####Overgangs- en slotbepalingen
-
-### Artikel  26  
-
-1.  Deze wet blijft buiten toepassing ten aanzien van besluiten van Onze Minister tot vaststelling van een tracé voor de aanleg of wijziging van hoofdwegen, landelijke spoorwegen en hoofdvaarwegen die vóór de inwerkingtreding van deze wet zijn genomen, voor zover deze besluiten vóór 1 januari 1997 worden opgenomen in een uitvoeringsprogramma als bedoeld in artikel 18, eerste lid. In het laatste geval vervalt het besluit indien het niet binnen tien jaar na eerste opneming in het uitvoeringsprogramma ten uitvoer wordt gebracht.   
-2.  Het eerste lid is van overeenkomstige toepassing op besluiten als bedoeld in dat lid die binnen een jaar na inwerkingtreding van deze wet zijn genomen alsmede op door Onze Ministers aan te wijzen besluiten die binnen twee jaar na inwerkingtreding van deze wet zijn genomen.   
-3.  Het tweede lid geldt niet voor besluiten ter uitvoering van planologische kernbeslissingen als bedoeld in artikel 28.   
-4.  Artikel 18 is van overeenkomstige toepassing op besluiten als bedoeld in het tweede lid.   
-
-### Artikel  27  
-
-Trajectnota's die na inwerkingtreding van deze wet worden vastgesteld maar geheel of gedeeltelijk vóór de inwerkingtreding van deze wet zijn voorbereid worden aangemerkt als trajectnota's in de zin van deze wet indien deze voorbereiding is geschied overeenkomstig de eisen die de Tracéwet aan de voorbereiding van trajectnota's stelt.  
-
-### Artikel  28a  
-
-Onze Minister zendt de Staten-Generaal ieder half jaar een verslag over de voortgang van de projecten, waarvoor een beslissing is genomen als bedoeld in artikel 2, tweede lid.  
 
 ### Artikel  29  
 
@@ -420,9 +382,9 @@ E. M. H. Hirsch Ballin
 
 ####bij de Tracéwet
 
-####Bijlage behorend bij de artikelen 10a  en 10b  van de Tracéwet
+####Bijlage behorend bij artikel 15  van de Tracéwet
 
-Projecten als bedoeld in de artikelen 10a en 10b, eerste lid, van de Tracéwet. Omschrijving project:  
+Projecten als bedoeld in artikel 15 van de Tracéwet. Omschrijving project:  
 
 | --- | --- |
 |:---|:---|

@@ -254,6 +254,17 @@ b. de veroordeelde, voor zover aan de toepassing van artikel 14a bijzondere voor
 1.  De rechter die de voorwaarde heeft gesteld kan hetzij na de ontvangst van een vordering van het openbaar ministerie, hetzij op verzoek van de veroordeelde de proeftijd verkorten of deze éénmaal verlengen. De verlenging geschiedt met ten hoogste één jaar.   
 2.  Evenzo kan de in het eerste lid bedoelde rechter gedurende de proeftijd of gedurende de tijd dat deze is geschorst in de gestelde bijzondere voorwaarden of in de termijn waartoe deze voorwaarden in haar werking binnen de proeftijd zijn beperkt wijziging brengen, deze voorwaarden opheffen, alsnog bijzondere voorwaarden stellen en een opdracht als bedoeld in artikel 14 *d* geven, wijzigen of opheffen.   
 
+### Artikel  14fa  
+
+1.  In geval van veroordeling tot een vrijheidsstraf waarvan de rechter heeft bepaald dat de straf of een gedeelte daarvan niet ten uitvoer zal worden gelegd, kan het openbaar ministerie de aanhouding van de veroordeelde bevelen, indien er ernstige redenen bestaan voor het vermoeden dat enige gestelde voorwaarde niet wordt nageleefd. Indien het bevel van het openbaar ministerie niet kan worden afgewacht, kan de hulpofficier de aanhouding van de veroordeelde bevelen. De hulpofficier geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan het openbaar ministerie.   
+2.  Het openbaar ministerie dient, indien het de aanhouding noodzakelijk blijft vinden, onverwijld een vordering tot voorlopige tenuitvoerlegging in bij de rechter-commissaris en een vordering als bedoeld in artikel 14g, eerste lid, in bij de rechter.   
+3.  De rechter-commissaris beslist binnen driemaal vierentwintig uur na aanhouding. Hangende de beslissing van de rechter-commissaris wordt de veroordeelde niet in vrijheid gesteld.   
+4.  De veroordeelde wordt door de rechter-commissaris gehoord. De [artikelen 40](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [191 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing. De raadsman is bevoegd bij het onderzoek tegenwoordig te zijn en van de daarop betrekking hebbende stukken kennis te nemen.   
+5.  Indien de rechter-commissaris de vordering van het openbaar ministerie toewijst, beveelt hij de voorlopige tenuitvoerlegging van de niet ten uitvoer gelegde vrijheidsstraf. Indien hij de vordering afwijst, beveelt hij de invrijheidstelling van de veroordeelde.   
+6.  Het openbaar ministerie stelt de veroordeelde onverwijld schriftelijk in kennis van de beslissing van de rechter-commissaris.   
+7.  De termijn van de voorlopige tenuitvoerlegging eindigt van rechtswege met ingang van het tijdstip waarop de duur van de vrijheidsbeneming gelijk wordt aan de duur van de ten uitvoer te leggen straf.   
+8.  Het bevel tot voorlopige tenuitvoerlegging kan door de rechter die bevoegd is te oordelen over de vordering tot tenuitvoerlegging ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.   
+
 ### Artikel  14g  
 
 1.  Indien enige gestelde voorwaarde niet wordt nageleefd kan de rechter, indien hij daartoe termen vindt, na ontvangst van een vordering van het openbaar ministerie en onverminderd het bepaalde in artikel 14 *f*, 
@@ -498,7 +509,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ove
 1.  Hij die tot een geldboete is veroordeeld is verplicht tot betaling van het vastgestelde bedrag aan de staat binnen de termijn door het openbaar ministerie dat met de tenuitvoerlegging van de strafbeschikking of het vonnis of arrest is belast, te stellen.   
 2.  Het bedrag van de geldboete is ten minste € 3.   
 3.  De geldboete die voor een strafbaar feit ten hoogste kan worden opgelegd, is gelijk aan het bedrag van de categorie die voor dat feit is bepaald.   
-4.  Er zijn zes categorieën: de eerste categorie, € 335 Per 1 januari 2010: € 380.; de tweede categorie, € 3 350 Per 1 januari 2010: € 3 800.; de derde categorie, € 6 700 Per 1 januari 2010: € 7 600.; de vierde categorie, € 16 750 Per 1 januari 2010: € 19 000.; de vijfde categorie, € 67 000 Per 1 januari 2010: € 76 000.; de zesde categorie, € 670 000 Per 1 januari 2010: € 760 000..   
+4.  Er zijn zes categorieën: de eerste categorie, € 335 Per 1 januari 2012: € 390.; de tweede categorie, € 3 350 Per 1 januari 2012: € 3 900.; de derde categorie, € 6 700 Per 1 januari 2012: € 7 800.; de vierde categorie, € 16 750 Per 1 januari 2012: € 19 500.; de vijfde categorie, € 67 000 Per 1 januari 2012: € 78 000.; de zesde categorie, € 670 000 Per 1 januari 2012: € 780 000..   
 5.  Voor een overtreding, onderscheidenlijk een misdrijf, waarop geen geldboete is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie.   
 6.  Voor een overtreding, onderscheidenlijk een misdrijf, waarop een geldboete is gesteld, maar waarvoor geen boetecategorie is bepaald, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie, indien dit bedrag hoger is dan het bedrag van de op het betrokken strafbare feit gestelde geldboete.   
 7.  Bij veroordeling van een rechtspersoon kan, indien de voor het feit bepaalde boetecategorie geen passende bestraffing toelaat, een geldboete worden opgelegd tot ten hoogste het bedrag van de naast hogere categorie.   
@@ -947,6 +958,50 @@ b. zodra degene die in een inrichting geplaatst is, langer dan een dag ongeoorlo
 ### Artikel  38u  
 
 Onze Minister van Justitie kan de maatregel te allen tijde beëindigen.  
+
+### Vierde  afdeling  
+
+####Oplegging vrijheidsbeperkende maatregel
+
+### Artikel  38v  
+
+1.  Ter beveiliging van de maatschappij of ter voorkoming van strafbare feiten kan een maatregel strekkende tot beperking van de vrijheid worden opgelegd bij de rechterlijke uitspraak: 
+
+1°. waarbij iemand wegens een strafbaar feit wordt veroordeeld;  
+
+2°. waarbij overeenkomstig artikel 9a wordt bepaald dat geen straf zal worden opgelegd.     
+2.  De maatregel kan inhouden dat de verdachte wordt bevolen: 
+
+a. zich niet op te houden in een bepaald gebied,  
+
+b. zich te onthouden van contact met een bepaalde persoon of bepaalde personen,  
+
+c. zich op bepaalde tijdstippen te melden bij de daartoe aangewezen opsporingsambtenaar.     
+3.  De maatregel kan voor een periode van ten hoogste twee jaren worden opgelegd.   
+4.  De rechter kan bij zijn uitspraak, ambtshalve of op vordering van de officier van justitie, bevelen dat de maatregel dadelijk uitvoerbaar is indien er ernstig rekening mee moet worden gehouden dat de verdachte opnieuw een strafbaar feit pleegt of zich belastend gedraagt jegens een bepaalde persoon of bepaalde personen.   
+5.  Het bevel, bedoeld in het vierde lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.   
+6.  De maatregel kan tezamen met straffen en andere maatregelen worden opgelegd.   
+
+### Artikel  38w  
+
+1.  In het vonnis waarbij de maatregel als bedoeld in artikel 38v wordt opgelegd, beveelt de rechter dat vervangende hechtenis zal worden toegepast voor het geval niet aan de maatregel wordt voldaan.   
+2.  De rechter bepaalt in het vonnis de duur van de vervangende hechtenis die ten hoogste ten uitvoer wordt gelegd voor iedere keer dat niet aan de maatregel wordt voldaan. De duur van deze vervangende hechtenis wordt in gehele dagen, weken of maanden vastgesteld en bedraagt ten minste drie dagen.   
+3.  De totale duur van de tenuitvoergelegde vervangende hechtenis bedraagt ten hoogste zes maanden.   
+4.  Toepassing van de vervangende hechtenis heft de verplichtingen ingevolge de maatregel, bedoeld in artikel 38v, tweede lid, niet op.   
+
+### Artikel  38x  
+
+1.  Indien er ernstige redenen bestaan voor het vermoeden dat de veroordeelde de maatregel niet naleeft of heeft nageleefd, kan zijn aanhouding worden bevolen door het openbaar ministerie. Indien het bevel van het openbaar ministerie niet kan worden afgewacht, kan de hulpofficier de aanhouding van de veroordeelde bevelen. De hulpofficier geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan het openbaar ministerie.   
+2.  Het openbaar ministerie dient na aanhouding onverwijld een vordering tot tenuitvoerlegging van de vervangende hechtenis in bij de rechter-commissaris.   
+3.  De rechter-commissaris beslist binnen driemaal vierentwintig uur na indiening van de vordering. Hangende de beslissing van de rechter-commissaris wordt de aangehouden veroordeelde niet in vrijheid gesteld.   
+4.  De veroordeelde wordt door de rechter-commissaris gehoord. De [artikelen 40](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [191 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing. De raadsman is bevoegd bij het onderzoek tegenwoordig te zijn en van de daarop betrekking hebbende stukken kennis te nemen.   
+5.  Indien de rechter-commissaris de vordering van het openbaar ministerie toewijst, beveelt hij de gehele of gedeeltelijke tenuitvoerlegging van de in het vonnis bepaalde vervangende hechtenis. De vrijheidsbeneming ondergaan op grond van het derde lid wordt geheel in mindering gebracht op de tenuitvoerlegging van de vervangende hechtenis. Indien hij de vordering afwijst, wordt de aangehouden veroordeelde in vrijheid gesteld.   
+6.  Het openbaar ministerie stelt de veroordeelde onverwijld schriftelijk in kennis van de beslissing van de rechter-commissaris. De kennisgeving behelst het oordeel van de rechter-commissaris over het niet naleven van de maatregel, alsmede het aantal dagen vervangende hechtenis.   
+7.  Tegen de beslissing van de rechter-commissaris staat voor de veroordeelde en het openbaar ministerie binnen veertien dagen hoger beroep open bij de rechter die de maatregel oplegde. Bij het instellen van hoger beroep zendt het openbaar ministerie de daarop betrekking hebbende stukken aan het gerecht toe. De rechter bepaalt daarop onverwijld een dag voor het onderzoek van de zaak, tenzij hij vaststelt dat de veroordeelde in zijn hoger beroep niet ontvankelijk is. Het openbaar ministerie doet de veroordeelde tot bijwoning van de zitting oproepen onder betekening van de vordering. De artikelen 14i en 14j zijn van overeenkomstige toepassing.   
+
+### Artikel  38ij  
+
+In de gevallen waarin een vordering tot tenuitvoerlegging, als bedoeld in artikel 38x, tweede lid, wordt afgewezen, het openbaar ministerie in zijn vordering niet ontvankelijk wordt verklaard, of de rechter de beslissing van de rechter-commissaris tot tenuitvoerlegging als bedoeld in artikel 38x, vijfde lid, vernietigt, of indien de zaak eindigt zonder oplegging van de maatregel als bedoeld in artikel 38v, kan het gerecht in feitelijke aanleg dat als laatste over de vrijheidsbeperkende maatregel heeft geoordeeld op verzoek van de veroordeelde hem een vergoeding ten laste van de staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming ondergaan uit hoofde van artikel 38x. De [artikelen 89, eerste lid, tweede volzin, tweede lid, en zesde lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [90](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.  
 
 ### Titel  III  
 
@@ -1579,6 +1634,17 @@ a. een recent opgemaakt, met redenen omkleed advies, afkomstig van de raad voor 
 b. een afschrift van de aantekeningen omtrent het gedrag van de veroordeelde, afkomstig van de instelling of organisatie die belast is met de uitvoering van de maatregel.     
 4.  In de beslissing omtrent de verlenging geeft de rechter aan waaruit de verlenging van de maatregel bestaat. De verlenging kan inhouden dat het programma waaraan de veroordeelde deelneemt wordt verlengd. De verlenging kan ook inhouden dat de veroordeelde deelneemt aan een door de rechter aan te wijzen programma in een daarbij aan te wijzen inrichting of dat de veroordeelde een door de rechter aan te wijzen ambulant programma zal volgen onder begeleiding van een in de beslissing aangewezen organisatie.   
 5.  De artikelen 77wa, 77wb en 77wc zijn van overeenkomstige toepassing.   
+
+### Artikel  77we  
+
+1.  In het vonnis waarbij de vrijheidsbeperkende maatregel wordt opgelegd, beveelt de rechter dat vervangende jeugddetentie zal worden toegepast voor het geval niet aan de maatregel wordt voldaan.   
+2.  De artikelen 38v, 38w, tweede tot en met het vierde lid, en 77p, vierde lid, zijn van overeenkomstige toepassing.   
+
+### Artikel  77wf  
+
+1.  Indien er ernstige redenen bestaan voor het vermoeden dat de veroordeelde de maatregel niet naleeft of heeft nageleefd, kan zijn aanhouding worden bevolen door het openbaar ministerie. Indien het bevel van het openbaar ministerie niet kan worden afgewacht, kan de hulpofficier de aanhouding van de veroordeelde bevelen. De hulpofficier geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan het openbaar ministerie.   
+2.  Het openbaar ministerie dient na aanhouding onverwijld een vordering tot tenuitvoerlegging van de vervangende jeugddetentie in bij de rechter-commissaris. De artikelen 38x, derde tot en met zesde lid, 38ij en 77p zijn van overeenkomstige toepassing.   
+3.  Tegen de beslissing van de rechter-commissaris staat voor de veroordeelde en het openbaar ministerie binnen veertien dagen hoger beroep open bij de rechter die de maatregel oplegde. Bij het instellen van hoger beroep zendt het openbaar ministerie de daarop betrekking hebbende stukken aan het gerecht toe. De rechter bepaalt daarop onverwijld een dag voor het onderzoek van de zaak, tenzij hij vaststelt dat de veroordeelde in zijn hoger beroep niet ontvankelijk is. Het openbaar ministerie doet de veroordeelde tot bijwoning van de zitting oproepen onder betekening van de vordering. De artikelen 14i, tweede tot en met het zesde lid, 14j en 77ee, tweede lid, van dit wetboek en artikel 495b van het Wetboek van Strafvordering, zijn van overeenkomstige toepassing.   
 
 ### Artikel  77x  
 
@@ -2324,7 +2390,7 @@ Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categ
 ### Artikel  140  
 
 1.  Deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.   
-2.  Deelneming aan de voortzetting van de werkzaamheid van een organisatie die bij onherroepelijke rechterlijke beslissing verboden is verklaard of van rechtswege is verboden of ten aanzien waarvan een onherroepelijke verklaring als bedoeld in [artikel 5a, eerste lid, van de Wet conflictenrecht corporaties](../../../../../../../wet/wet/conflictenrecht/corporaties/BWBR0009192/README.md) is afgegeven, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.   
+2.  Deelneming aan de voortzetting van de werkzaamheid van een organisatie die bij onherroepelijke rechterlijke beslissing verboden is verklaard of van rechtswege is verboden of ten aanzien waarvan een onherroepelijke verklaring als bedoeld in [artikel 122, eerste lid, van Boek 10 Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/10/BWBR0030068/README.md) is afgegeven, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.   
 3.  Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.   
 4.  Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.   
 

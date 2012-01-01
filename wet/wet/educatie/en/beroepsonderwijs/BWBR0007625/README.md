@@ -24,17 +24,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
 b. instelling: 
 
 1º. een regionaal opleidingencentrum als bedoeld in artikel 1.3.1,  
 
-2º. een regionaal opleidingencentrum in een samenwerkingsverband als bedoeld in artikel 1.3.2,  
+2º. een vakinstelling als bedoeld in artikel 1.3.2a, of  
 
-3º. een vakinstelling als bedoeld in artikel 1.3.2a, of  
-
-4º. een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3;   tenzij anders blijkt;  
+3º. een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3;   tenzij anders blijkt;  
 
 b1. kenniscentrum beroepsonderwijs bedrijfsleven: kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1;  
 
@@ -48,9 +46,11 @@ f. onderwijs: educatie en beroepsonderwijs;
 
 g. educatie: onderwijs als bedoeld in artikel 1.2.1, eerste lid;  
 
+g1. eindtermen: de eindtermen, bedoeld in artikel 7.3.3;  
+
 h. beroepsonderwijs: onderwijs als bedoeld in artikel 1.2.1, tweede lid;  
 
-i. beroepsopleiding: een opleiding als bedoeld in artikel 7.2.2, eerste lid, waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in artikel 7.2.4, eindtermen zijn vastgesteld;  
+i. beroepsopleiding: een opleiding als bedoeld in artikel 7.1.2, tweede lid;  
 
 i1. voltijdse beroepsopleiding: een beroepsopleiding als bedoeld in artikel 7.2.7, derde lid;  
 
@@ -66,9 +66,9 @@ m. beroepsbegeleidende leerweg: de leerweg, bedoeld in artikel 7.2.2, tweede lid
 
 n. opleiding educatie: een opleiding als bedoeld in artikel 7.3.1, eerste lid;  
 
-o. examinering: het nemen van beslissingen over inhoud en niveau van examens van een beroepsopleiding in relatie tot de eindtermen, procedures en voorwaarden waaronder examens worden afgenomen, alsmede het vaststellen van de uitslag van examens. De vorige volzin is van overeenkomstige toepassing op examens van de afzonderlijke leerwegen van een opleiding indien Onze Minister ingevolge artikel 7.2.4, derde lid, heeft besloten dat een opleiding zowel in de beroepsopleidende als in de beroepsbegeleidende leerweg kan worden verzorgd;  
+o. examinering: het nemen van beslissingen over inhoud en niveau van examens van een beroepsopleiding, procedures en voorwaarden waaronder examens worden afgenomen, alsmede het vaststellen van de uitslag van examens. De vorige volzin is van overeenkomstige toepassing op examens van de afzonderlijke leerwegen van een opleiding indien Onze Minister ingevolge artikel 7.2.4, tweede lid, heeft besloten dat een opleiding zowel in de beroepsopleidende als in de beroepsbegeleidende leerweg kan worden verzorgd;  
 
-p. deelkwalificatie: een deelkwalificatie als bedoeld in artikel 7.2.3;  
+p.  vervallen;   
 
 q. volwassene: een in Nederland woonachtige van 18 jaren of ouder;  
 
@@ -76,11 +76,15 @@ r. studiejaar: het tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van 
 
 s. inspectie: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
-t. eindtermen: de eindtermen, bedoeld in artikel 7.1.3;  
+t. kwalificatie: de kwalificatie, bedoeld in artikel 7.1.3;  
 
-u. Centraal register: het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1, eerste lid;  
+t1. kwalificatiedossier: een document waarin een of meer kwalificaties zijn beschreven;  
 
-v. commissie onderwijs-bedrijfsleven: de commissie, bedoeld in artikel 9.2.1, derde lid;  
+t2. opleidingsdomein: een samenhangend geheel van kwalificatiedossiers die zijn gericht op en van belang zijn voor eenzelfde bedrijfstak of groep van bedrijfstakken;  
+
+u. Centraal register: het Centraal register beroepsonderwijs, bedoeld in artikel 6.4.1, eerste lid;  
+
+v. paritaire commissie beroepsonderwijs bedrijfsleven: de commissie, bedoeld in artikel 9.2.1, derde lid;  
 
 v1. college van bestuur van een bijzondere instelling: het orgaan van de instelling dat als zodanig in de statuten is aangewezen;  
 
@@ -147,7 +151,7 @@ ee. ondernemingsraad: een ondernemingsraad als bedoeld in de [Wet op de ondernem
 1.  Aan regionale opleidingencentra worden opleidingen beroepsonderwijs verzorgd en worden tot op een bij algemene maatregel van bestuur te bepalen tijdstip opleidingen educatie verzorgd. Vanaf het tijdstip, bedoeld in de eerste volzin, kunnen aan regionale opleidingencentra opleidingen educatie worden verzorgd.   
 2.  Het regionaal opleidingencentrum dat daarvoor op grond van artikel 2.1.3, eerste en tweede lid, in aanmerking komt, heeft aanspraak op bekostiging uit 's Rijks kas voor het verzorgen van beroepsopleidingen die op de voet van artikel 2.1.1 voor bekostiging in aanmerking komen.   
 3.  De regionale opleidingencentra die daarvoor op grond van artikel 2.3.3 in aanmerking komen, ontvangen voor het verzorgen van opleidingen educatie een bedrag van het college van burgemeester en wethouders.   
-4.  Aan de met goed gevolg afgelegde examens of onderdelen van examens van opleidingen als bedoeld in het tweede en derde lid, is een bewijsstuk als bedoeld in artikel 7.4.6 dan wel artikel 7.4.15 verbonden.   
+4.  Aan de met goed gevolg afgelegde examens of onderdelen van examens van opleidingen als bedoeld in het tweede en derde lid, is een bewijsstuk als bedoeld in artikel 7.4.6 verbonden.   
 
 ### Artikel  1.3.2a  
 
@@ -160,7 +164,7 @@ ee. ondernemingsraad: een ondernemingsraad als bedoeld in de [Wet op de ondernem
 
 ####Agrarische opleidingscentra
 
-1.  Agrarische opleidingscentra zijn instellingen waarin beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving en voorbereidend beroepsonderwijs in de afdeling landbouw en natuurlijke omgeving, bedoeld in [artikel 10c, onderdeel d, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden verzorgd. Voor zover dat bij wet is bepaald, kan aan een agrarisch opleidingscentrum tevens ander voortgezet onderwijs worden verzorgd.   
+1.  Agrarische opleidingscentra zijn instellingen waarin beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel en voorbereidend beroepsonderwijs in de afdeling landbouw, natuurlijke omgeving en voedsel, bedoeld in [artikel 10c, onderdeel d, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden verzorgd. Voor zover dat bij wet is bepaald, kan aan een agrarisch opleidingscentrum tevens ander voortgezet onderwijs worden verzorgd.   
 2.  Artikel 1.3.1, tweede en vierde lid, is van overeenkomstige toepassing.   
 
 ### §  2  
@@ -235,12 +239,25 @@ d. de onderwijsovereenkomst, bedoeld in artikel 8.1.3, eerste tot en met derde l
 
 e. de vooropleidingseisen, bedoeld in artikel 8.2.1, en  
 
-f. de opneming in het Centraal register.   Het bevoegd gezag voegt bij deze aanvraag in elk geval het ontwerp van de in artikel 7.4.8 bedoelde onderwijs- en examenregeling voor de beroepsopleiding waarop de aanvraag betrekking heeft.   
+f. de opneming in het Centraal register.   Het bevoegd gezag voegt bij deze aanvraag in elk geval een beschrijving van de regeling voor het onderwijsprogramma en de examens, bedoeld in artikel 7.4.8, voor de beroepsopleiding waarop de aanvraag betrekking heeft.   
 2.  Onze Minister besluit binnen drie maanden na ontvangst van een aanvraag als bedoeld in het eerste lid. Indien de beschikking niet binnen drie maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
-3.  Het in het eerste lid bedoelde bevoegd gezag verstrekt Onze Minister de nodige inlichtingen omtrent de instelling. Het bevoegd gezag doet Onze Minister jaarlijks voor 1 maart een verslag toekomen omtrent de werkzaamheden van de instelling voor zover betrekking hebbend op beroepsopleidingen. Het verslag bevat tevens het aantal deelnemers per beroepsopleiding en het aantal uitgereikte certificaten en diploma's, bedoeld in artikel 7.4.6.   
+3.  Het in het eerste lid bedoelde bevoegd gezag verstrekt Onze Minister de nodige inlichtingen omtrent de instelling. Het bevoegd gezag doet Onze Minister jaarlijks voor 1 maart een verslag toekomen omtrent de werkzaamheden van de instelling voor zover betrekking hebbend op beroepsopleidingen.   
 4.  Voor zover ten aanzien van een instelling toepassing is gegeven aan het eerste lid, wordt die instelling voor de toepassing van deze wet aangemerkt als een niet uit ’s Rijks kas bekostigde instelling.   
 5.  Artikel 1.3.8, eerste tot en met derde lid, is van overeenkomstige toepassing op instellingen als bedoeld in het eerste lid.   
-5a.  Het eerste lid is niet van toepassing op opleidingen, bedoeld in artikel 12.1a.2, eerste lid.   
+6.  Voor een andere dan een in artikel 1.1.1, onderdeel b, bedoelde instelling of een instelling zijn voor zover het betreft een beroepsopleiding ten aanzien waarvan toepassing is gegeven aan het eerste lid van overeenkomstige toepassing: 
+
+a. de artikelen 2.5.5a, eerste, tweede, vijfde tot en met zevende, en negende tot en met twaalfde lid, met dien verstande dat van de gegevens, bedoeld in artikel 2.5.5a, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met d, h tot en met j, en l en o, van dat lid;  
+
+b. artikel 2.5.5b;  
+
+c. artikel 2.5.5c, eerste en derde lid, met dien verstande dat artikel 2.5.5c, eerste lid, onderdeel a, wordt gelezen als: Onze Minister voor zover deze gegevens noodzakelijk zijn voor de beleidsvoorbereiding;  
+
+d. artikel 2.5.5e;  
+
+e. de artikelen 8.1.1a, 8.1.8 en 8.1.8a; en  
+
+f. de artikelen 8.3.1 tot en met 8.3.3.     
+7.  Voor een beroepsopleiding als bedoeld in de aanhef van het zesde lid kan bij ministeriële regeling een nadere specificatie worden gegeven van de gegevens, bedoeld in artikel 2.5.5a, tweede lid, voor zover dat lid van overeenkomstige toepassing is verklaard in het zesde lid, onderdeel a, en worden bepaald welke van die gegevens niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van die gegevens. Bij ministeriële regeling worden regels gesteld ter uitvoering van artikel 2.5.5c, eerste en derde lid, voor zover die leden van overeenkomstige toepassing zijn verklaard in het zesde lid, onderdeel c, in ieder geval omtrent de inhoud en de samenstelling van die gegevens, de wijze waarop de gegevens uit het basisregister onderwijs worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt, en de perioden waarop de gegevens betrekking hebben.   
 
 ### Titel  4a  
 
@@ -255,8 +272,22 @@ f. de opneming in het Centraal register.   Het bevoegd gezag voegt bij deze aanv
 3.  Een aanvraag als bedoeld in het eerste lid heeft betrekking op een opleiding educatie waarvoor de instelling geen bedrag als bedoeld in artikel 2.3.3 van de gemeente ontvangt.   
 4.  Een aanvraag als bedoeld in het eerste lid heeft uitsluitend betrekking op opleidingen educatie als bedoeld in artikel 7.3.1, eerste lid, onder a, alsmede op andere in dat lid bedoelde opleidingen, voor zover daarvoor bij ministeriële regeling eindtermen zijn vastgesteld.   
 5.  Onze Minister besluit binnen drie maanden na ontvangst van een aanvraag als bedoeld in het eerste lid. Indien de beschikking niet binnen drie maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien. Een begunstigende beschikking is voor het eerst van kracht ten aanzien van een opleiding educatie die aanvangt nadat die beschikking is bekend gemaakt.   
-6.  Het in het eerste lid bedoelde bevoegd gezag verstrekt Onze Minister jaarlijks voor 15 oktober een opgave van de opleidingen educatie, bedoeld in het eerste lid, die de instelling verzorgt in het lopende studiejaar, alsmede van de opleidingen educatie die de instelling heeft verzorgd in het daaraan voorafgaande studiejaar. De opgave bevat per opleiding educatie met betrekking tot het lopende studiejaar het aantal deelnemers op de peildatum 1 oktober, en met betrekking tot het daaraan voorafgaande studiejaar het aantal verstrekte diploma's en certificaten, bedoeld in artikel 7.4.6.   
+6.  Het in het eerste lid bedoelde bevoegd gezag verstrekt Onze Minister jaarlijks voor 15 oktober een opgave van de opleidingen educatie, bedoeld in het eerste lid, die de instelling verzorgt in het lopende studiejaar, alsmede van de opleidingen educatie die de instelling heeft verzorgd in het daaraan voorafgaande studiejaar.   
 7.  Voor zover ten aanzien van een instelling die een opleiding educatie verzorgt, toepassing is gegeven aan het eerste lid, wordt die instelling voor de toepassing van deze wet wat deze opleiding betreft, aangemerkt als een andere instelling dan bedoeld in artikel 1.1.1, onder b.   
+8.  Voor een andere dan een in artikel 1.1.1, onderdeel b, bedoelde instelling of een instelling zijn voor zover het betreft een opleiding educatie ten aanzien waarvan toepassing is gegeven aan het eerste lid van overeenkomstige toepassing: 
+
+a. artikel 2.3.6a, eerste, tweede, vierde, vijfde, en zevende tot en met negende lid, met dien verstande dat van de gegevens, bedoeld in artikel 2.3.6a, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met c, e tot en met i, en k en l, waarbij onderdeel g wordt gelezen als: het uitstroomniveau of het behaalde diploma en de datum waarop het diploma is behaald;  
+
+b. artikel 2.3.6b;  
+
+c. artikel 2.3.6c, eerste en tweede lid, met dien verstande dat artikel 2.3.6c, eerste lid, onderdeel a, wordt gelezen als: Onze Minister voor zover deze gegevens noodzakelijk zijn voor de beleidsvoorbereiding;  
+
+d. artikel 2.3.6d;  
+
+e. de artikelen 8.1.1a, 8.1.8 en 8.1.8a; en  
+
+f. de artikelen 8.3.1 tot en met 8.3.3.     
+9.  Voor een opleiding educatie als bedoeld in de aanhef van het achtste lid kan bij ministeriële regeling een nadere specificatie worden gegeven van de gegevens, bedoeld in artikel 2.3.6a, tweede lid, voor zover dat lid van overeenkomstige toepassing is verklaard in het achtste lid, onderdeel a, en worden bepaald welke van die gegevens niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van die gegevens. Bij ministeriële regeling worden regels gesteld ter uitvoering van artikel 2.3.6c, eerste en tweede lid, voor zover die leden van overeenkomstige toepassing zijn verklaard in het achtste lid, onderdeel c, in ieder geval omtrent de inhoud en de samenstelling van die gegevens, de wijze waarop de gegevens uit het basisregister onderwijs worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt, en de perioden waarop de gegevens betrekking hebben.   
 
 ### Titel  5  
 
@@ -319,8 +350,7 @@ c. de rechtsbescherming van de deelnemers, bedoeld in hoofdstuk 7, titel 5.
 
 ####Bekostiging landelijk aanbod beroepsonderwijs
 
-1.  Onverminderd de artikelen 1.3.2a en 1.3.3 komt een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onder a tot en met e, van een instelling voor bekostiging in aanmerking indien Onze Minister voor die opleiding eindtermen heeft vastgesteld en de rechten, genoemd in artikel 1.3.1, ten aanzien van die opleiding niet zijn ontnomen op grond van artikel 6.1.4.   
-2.  Het eerste lid is niet van toepassing op opleidingen, bedoeld in artikel 12.1a.1, eerste lid.   
+Onverminderd de artikelen 1.3.2a en 1.3.3 komt een beroepsopleiding bij een instelling voor bekostiging in aanmerking indien zij is gericht op een kwalificatie of kwalificaties als bedoeld in artikel 7.2.4, tweede lid, onder b3° en de rechten, genoemd in artikel 1.3.1, met betrekking tot de desbetreffende beroepsopleiding niet zijn ontnomen op grond van artikel 6.1.4.  
 
 ### Artikel  2.1.3  
 
@@ -465,7 +495,7 @@ g. heffingen,
 
 h. inkoop van diensten,  
 
-i. kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid aan gewezen personeel alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), waaronder mede begrepen gewezen personeel dat was belast met werkzaamheden op het gebied van de educatie, met inbegrip van educatieve programma's als bedoeld in artikel 2.3.1, tweede lid,  
+i. kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid aan gewezen personeel alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), waaronder mede begrepen gewezen personeel dat was belast met werkzaamheden op het gebied van de educatie, met inbegrip van educatieve programma's als bedoeld in artikel 2.3.1, tweede lid, zoals luidend op 31 december 2008,  
 
 j. loopbaanoriëntatie en -begeleiding,  
 
@@ -544,7 +574,7 @@ c. de instantie die de werkloosheidsuitkeringen, de suppleties inzake arbeidsong
 
 1.  Voor de toepassing van deze paragraaf wordt verstaan onder: 
 
-a. beroepsopleiding: een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onder a tot en met e;  
+a. beroepsopleiding: een beroepsopleiding die op grond van artikel 2.1.1 voor bekostiging in aanmerking komt;  
 
 b. deelnemer: de aan een instelling ingeschreven deelnemer die een beroepsopleiding volgt waarvoor het bevoegd gezag een in instellingstijd verzorgd onderwijsprogramma heeft vastgesteld dat, met inbegrip van de beroepspraktijkvorming, een omvang van tenminste 300 uren per volledig studiejaar heeft.     
 2.  Voor de toepassing van deze paragraaf zijn de [artikelen 8a, eerste en tweede lid](../../../../../../wet/isovso/BWBR0003549/README.md), [28b, zesde lid tot en met achtste lid](../../../../../../wet/isovso/BWBR0003549/README.md), met uitzondering van het zesde lid, onder f, [28c](../../../../../../wet/isovso/BWBR0003549/README.md), met uitzondering van het eerste lid, onder b, en het derde lid, [28d](../../../../../../wet/isovso/BWBR0003549/README.md) en [71a van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) van overeenkomstige toepassing met dien verstande dat: 
@@ -660,7 +690,7 @@ j. indien van toepassing het zijn van examendeelnemer;
 
 k. het aantal uren per week dat onderwijs wordt gevolgd aan de instelling; en  
 
-l. indien van toepassing de reden van uitstroom.     
+l. indien van toepassing de reden van het uitstromen.     
 3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en vijfde lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en vijfde lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en vijfde lid.   
 4.  Het bevoegd gezag gebruikt bij de opgave aan burgemeester en wethouders, bedoeld in artikel 8.1.8, eerste lid, het persoonsgebonden nummer van de betrokkene.   
 5.  Indien de gegevens over de nationaliteit van de deelnemer niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
@@ -778,9 +808,9 @@ Indien bijzondere ontwikkelingen in het beroepsonderwijs daartoe aanleiding geve
 
 a. geslacht, geboortedatum en postcode van de woonplaats;  
 
-b. de datum van inschrijving of einde inschrijving;  
+b. de datum van inschrijving of van de wijziging of beëindiging daarvan;  
 
-c. de kwalificatie;  
+c. de code, bedoeld in artikel 6.4.1, tweede lid, onder a, van het opleidingsdomein, het kwalificatiedossier of de kwalificatie waarvoor de deelnemer is ingeschreven en bij inschrijving voor een opleidingsdomein of een kwalificatiedossier het niveau, bedoeld in artikel 7.2.2, derde lid, van de beroepsopleiding;  
 
 d. de leerweg;  
 
@@ -788,7 +818,7 @@ e. het al dan niet hebben van een handicap of chronische ziekte die extra onders
 
 f. de hoogste vooropleiding;  
 
-g. de behaalde deelkwalificaties, voorzover het betreft het beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving;  
+g.  vervallen;   
 
 h. het uitstroomniveau of het behaalde diploma en de datum waarop het diploma is behaald;  
 
@@ -796,7 +826,7 @@ i. de omvang van beroepspraktijkvorming, de datum van begin en einde daarvan, de
 
 j. het registratienummer van de instelling;  
 
-k. het al dan niet zijn van risicodeelnemer;  
+k.  vervallen;   
 
 l. het volgen van de opleiding in voltijd of deeltijd;  
 
@@ -804,7 +834,7 @@ m. indien van toepassing het zijn van examendeelnemer;
 
 n. het al dan niet voor bekostiging in aanmerking komen van de deelnemer of het diploma; en  
 
-o. indien van toepassing de reden van uitstroom.     
+o. indien van toepassing de reden van het uitstromen.     
 3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en zevende lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en zevende lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en zevende lid.   
 4.  Het bevoegd gezag kan het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en zevende lid, gebruiken in het verkeer met Onze Minister ten behoeve van de vaststelling van de bekostiging van de instelling.   
 5.  Het bevoegd gezag en het hoofd, bedoeld in [artikel 1, onder d, van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), gebruiken het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in contacten met een gemeente in het kader van de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.   
@@ -1234,7 +1264,7 @@ Op een kenniscentrum beroepsonderwijs bedrijfsleven zijn de artikelen 4.1.5, 4.1
 
 ####Onderwijsaanbod instellingen
 
-Het bevoegd gezag bepaalt welke beroepsopleidingen de instelling verzorgt. Ten aanzien van die opleidingen geldt de aanspraak op bekostiging uitsluitend indien Onze Minister krachtens artikel 2.1.1 heeft besloten dat de opleidingen voor bekostiging in aanmerking komen.  
+Het bevoegd gezag bepaalt welke beroepsopleidingen de instelling verzorgt. Ten aanzien van die opleidingen geldt de aanspraak op bekostiging uitsluitend indien de opleidingen krachtens artikel 2.1.1 voor bekostiging in aanmerking komen.  
 
 ### Artikel  6.1.3  
 
@@ -1260,7 +1290,7 @@ a. de aanspraak op bekostiging, bedoeld in artikel 1.3.1, voor zover van toepass
 
 b. aan de examens of onderdelen daarvan geen diploma of certificaat als bedoeld in artikel 7.4.6 meer is verbonden, en  
 
-c. de registratie in het Centraal register wordt beëindigd.     
+c. in het Centraal register wordt geregistreerd dat de rechten, genoemd in artikel 1.3.1, van de instelling met betrekking tot de opleiding zijn ontnomen en de ingangsdatum en de einddatum daarvan.     
 3.  Bij een beschikking tot ontneming van rechten bepaalt Onze Minister het tijdstip waarop die beschikking van kracht wordt zodanig, dat de voor de opleiding ingeschreven deelnemers de opleiding aan een andere instelling binnen een redelijke tijd kunnen voltooien.   
 4.  Onze Minister neemt een beschikking als bedoeld in het eerste lid voor 1 november van het jaar voorafgaand aan het studiejaar waarin het in het derde lid bedoelde tijdstip valt.   
 5.  Onze Minister maakt de ontneming van rechten, bedoeld in dit artikel, openbaar.   
@@ -1302,7 +1332,7 @@ b. Onze Minister aan de hand van een nader onderzoek tot het oordeel is gekomen 
 ####Diploma-erkenning ten aanzien van beroepsopleidingen, verzorgd door niet uit ’s Rijks kas bekostigde instellingen
 
 1.  De aanvraag om toepassing van artikel 1.4.1 geldt mede als aanmelding voor registratie in het Centraal register. In aanvulling op de gegevens, bedoeld in artikel 6.4.1, vijfde lid, en zesde lid, onder a en b, verschaft het bevoegd gezag van een niet uit ’s Rijks kas bekostigde instelling bij de aanmelding de gegevens waaruit blijkt dat het onderwijs van voldoende kwaliteit is of zal zijn, en dat wordt voldaan aan de voorwaarde, bedoeld in artikel 1.4.1, eerste lid.   
-2.  Indien Onze Minister de aanvraag om toepassing van artikel 1.4.1 inwilligt, registreert hij bij de eerstvolgende gelegenheid daartoe, de opleiding in het Centraal register.   
+2.  Indien Onze Minister de aanvraag om toepassing van artikel 1.4.1 inwilligt, registreert hij bij de eerstvolgende gelegenheid daartoe, de naam van de instelling bij de kwalificatie waarop de opleiding is gericht in het Centraal register.   
 
 ### Artikel  6.2.2  
 
@@ -1310,9 +1340,9 @@ b. Onze Minister aan de hand van een nader onderzoek tot het oordeel is gekomen 
 
 1.  Onze Minister kan ten aanzien van een beroepsopleiding, verzorgd door een niet uit ’s Rijks kas bekostigde instelling, het recht, bedoeld in artikel 1.4.1, ontnemen indien 
 
-a. gebleken is dat de kwaliteit van de opleiding gedurende een reeks van jaren onvoldoende is geweest,  
+a. gebleken is dat de kwaliteit van de opleiding langer dan één jaar onvoldoende is geweest,  
 
-b. niet of niet meer voldaan wordt aan de voorwaarde, bedoeld in artikel 1.4.1, eerste lid, of  
+b. niet of niet meer voldaan wordt aan de voorwaarde, bedoeld in artikel 1.4.1, eerste lid, of aan artikel 1.4.1, zesde lid, onderdelen a tot en met e, of  
 
 c. in strijd is gehandeld met [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
 2.  Een beschikking op grond van het eerste lid houdt in dat aan de examens of onderdelen daarvan geen diploma of certificaat als bedoeld in artikel 7.4.6 is verbonden en dat de registratie in het Centraal register wordt beëindigd.   
@@ -1371,43 +1401,55 @@ Artikel 6.2.3b is van overeenkomstige toepassing op exameninstellingen.
 
 ### Titel  4  
 
-####Het Centraal register beroepsopleidingen
+####Het Centraal register beroepsonderwijs
 
 ### Artikel  6.4.1  
 
-####Het Centraal register beroepsopleidingen
+####Het Centraal register beroepsonderwijs
 
-1.  Het Centraal register beroepsopleidingen is een systematisch geordende verzameling gegevens met betrekking tot de beroepsopleidingen waarvoor eindtermen zijn vastgesteld en de examinering die door de exameninstellingen wordt verzorgd. Onze Minister is belast met de aanleg, het beheer en de bekendmaking van het register en met het verstrekken van informatie uit het register. De bekendmaking en het verstrekken van informatie kunnen digitaal plaatsvinden.   
-2.  Het Centraal register bevat van elke beroepsopleiding de volgende gegevens: 
+1.  Het Centraal register beroepsonderwijs is een systematisch geordende verzameling gegevens met betrekking tot de opleidingsdomeinen, kwalificatiedossiers en kwalificaties in het beroepsonderwijs, de instellingen en de exameninstellingen. Onze Minister is belast met de aanleg, het beheer en de bekendmaking van het register en met het verstrekken van informatie uit het register. De bekendmaking en het verstrekken van informatie kunnen digitaal plaatsvinden.   
+2.  Het Centraal register bevat de volgende gegevens: 
 
-a. de naam van de opleiding, de leerweg of leerwegen waarin de opleiding wordt verzorgd, de code waarmee het geheel van de eindtermen van de opleiding wordt aangeduid, de code waarmee de deelkwalificaties van de opleiding worden aangeduid,  
+a. de naam en de code van de opleidingsdomeinen, de kwalificatiedossiers en de bijbehorende kwalificaties,  
 
-b. of de opleiding is vermeld in het overzicht, bedoeld in artikel 2.1.1, derde lid,  
+b. de studielast van de beroepsopleidingen die gericht zijn op de kwalificaties, en  
 
-c. de studielast, en  
+c. of in een kwalificatiedossier ten behoeve van een kwalificatie vereisten zijn opgenomen die bij of krachtens wet zijn vastgesteld voor het beroep waarop de kwalificatie is gericht.     
+3.  Het Centraal register bevat voorts per kwalificatie de volgende gegevens, voor zover van toepassing: 
 
-d. of het een opleiding betreft die is gericht op een bepaald beroep waarvoor bij of krachtens de wet vereisten zijn vastgesteld.     
-3.  Het Centraal register bevat voorts de volgende gegevens, voor zover van toepassing: 
+a. de namen van de uit ’s Rijks kas bekostigde instellingen 
 
-a. de namen van de instellingen die de opleiding verzorgen,  
+1° die blijkens de opgave van het aantal deelnemers daadwerkelijk de desbetreffende beroepsopleiding verzorgen,  
 
-b. de namen van de exameninstellingen die het recht hebben tot examinering van een beroepsopleiding,  
+2° waaraan de rechten, genoemd in artikel 1.3.1, met betrekking tot de desbetreffende beroepsopleiding zijn ontnomen en de ingangs- en einddatum daarvan,  
 
-c. de bepaling dat het recht op examinering is ontnomen, en met ingang van welk tijdstip, en  
+3° waaraan het recht op examinering van de desbetreffende beroepsopleiding is ontnomen en de ingangsdatum daarvan,    
 
-d. de bepaling dat de registratie zal worden beëindigd, alsmede het tijdstip waarop.     
+b. de namen van de niet uit ’s Rijks kas bekostigde instellingen 
+
+1° waaraan het recht, bedoeld in artikel 1.4.1, eerste lid, met betrekking tot de desbetreffende beroepsopleiding is toegekend en die niet te kennen hebben gegeven dat zij deze beroepsopleiding niet langer zullen verzorgen,  
+
+2° waaraan het recht, bedoeld in artikel 1.4.1, eerste lid, met betrekking tot de desbetreffende beroepsopleiding is ontnomen en de ingangsdatum daarvan,  
+
+3° waaraan het recht op examinering van de desbetreffende beroepsopleiding is ontnomen en de ingangsdatum daarvan,    
+
+c. de namen van de exameninstellingen 
+
+1° die het recht hebben op examinering van de desbetreffende beroepsopleiding en die niet te kennen hebben gegeven dat zij die examinering niet langer zullen verzorgen en  
+
+2° waaraan het recht is ontnomen op examinering van de desbetreffende beroepsopleiding, en de ingangsdatum daarvan.       
 
 ### Artikel  6.4.2  
 
 ####De registratieprocedure voor beroepsopleidingen van uit ’s Rijks kas bekostigde instellingen
 
-Onze Minister registreert per beroepsopleiding de instellingen die blijkens de opgave van het aantal deelnemers de opleiding daadwerkelijk verzorgen.  
+Onze Minister registreert per kwalificatie de instellingen die blijkens de opgave van het aantal deelnemers de desbetreffende beroepsopleiding daadwerkelijk verzorgen.  
 
 ### Artikel  6.4.4  
 
 ####Beëindiging registratie beroepsopleidingen niet uit ’s Rijks kas bekostigde instellingen; beëindiging registratie examinering
 
-1.  Onverminderd artikel 6.2.2 beëindigt Onze Minister de registratie van een beroepsopleiding van een niet uit ’s Rijks kas bekostigde instelling indien het bevoegd gezag te kennen geeft dat de instelling de opleiding niet langer zal verzorgen. Onverminderd artikel 6.3.2 beëindigt Onze Minister de registratie van de examinering van een beroepsopleiding, indien het bevoegd gezag te kennen geeft dat de exameninstelling die examinering niet langer zal verzorgen.   
+1.  Onverminderd artikel 6.2.2 beëindigt Onze Minister de registratie bij een kwalificatie van een niet uit ’s Rijks kas bekostigde instelling, indien het bevoegd gezag te kennen geeft dat de instelling de desbetreffende beroepsopleiding niet langer zal verzorgen. Onverminderd artikel 6.3.2 beëindigt Onze Minister de registratie bij een kwalificatie van de examinering door een exameninstelling, indien het bevoegd gezag te kennen geeft dat de exameninstelling de examinering van de desbetreffende beroepsopleiding niet langer zal verzorgen.   
 2.  De kennisgeving, bedoeld in het eerste lid, geschiedt voor 1 oktober van het jaar voorafgaand aan het eerste studiejaar waarin de inschrijving voor de opleiding niet meer openstaat.   
 3.  Onze Minister beëindigt de registratie ambtshalve wanneer de instelling de opleiding niet langer verzorgt en het bevoegd gezag de kennisgeving, bedoeld in het eerste lid, niet of niet tijdig doet.   
 4.  Het tweede en derde lid zijn van overeenkomstige toepassing op de registratie van de examinering door exameninstellingen.   
@@ -1445,7 +1487,7 @@ c. in voorkomende gevallen, de bepaling dat de registratie zal worden beëindigd
 
 a. gebleken is dat de kwaliteit van een of meer examens of een of meer onderdelen van een examen van die opleiding onvoldoende is geweest, of  
 
-b. niet of niet meer voldaan wordt aan de voorwaarden, bedoeld in artikel 1.4a.1, eerste lid, of aan de voorwaarde, bedoeld in artikel 1.4a.1, zesde lid.     
+b. niet of niet meer voldaan wordt aan de voorwaarden, bedoeld in artikel 1.4a.1, eerste lid, of aan de voorwaarde, bedoeld in artikel 1.4a.1, zesde lid, of aan artikel 1.4a.1, achtste lid, onderdelen a tot en met e.     
 2.  Een beschikking op grond van het eerste lid houdt in dat aan de examens of onderdelen daarvan geen diploma of certificaat als bedoeld in artikel 7.4.6 is verbonden.   
 
 ### Artikel  6a.1.3  
@@ -1464,6 +1506,24 @@ b. Onze Minister aan de hand van een hernieuwd onderzoek tot het oordeel is geko
 ####Beëindiging diploma-erkenning van rechtswege van opleidingen educatie van instellingen, bedoeld in artikel 1.4a.1 
 
 Indien het bevoegd gezag van een instelling als bedoeld in artikel 1.4a.1, langer dan een studiejaar een opleiding educatie niet heeft verzorgd, vervalt van rechtswege het recht om voor de desbetreffende opleiding een diploma of certificaat als bedoeld in artikel 1.4a.1, eerste lid, uit te reiken.  
+
+### Titel  2  
+
+####Ontneming recht op examinering educatie
+
+### Artikel  6a.2.1  
+
+####Ontneming recht op examinering educatie
+
+1.  Onze Minister kan aan een instelling het recht op examinering van een opleiding educatie als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, ontnemen, indien 
+
+a. de kwaliteit van de examens van die opleiding langer dan één jaar onvoldoende is geweest, of  
+
+b. niet of niet meer wordt voldaan aan hetgeen bij of krachtens deze wet is bepaald ten aanzien van de examens.     
+2.  Bij de ontneming van het recht, bedoeld in het eerste lid, wordt bepaald met ingang van welk tijdstip dit geschiedt. Het besluit tot ontneming van het recht op examinering wordt openbaar gemaakt.   
+3.  Voordat Onze Minister een besluit als bedoeld in het eerste lid neemt, geeft hij het bevoegd gezag een waarschuwing op grond van zijn bevindingen over de kwaliteit van de examinering, onder bepaling van de termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven. Artikel 6.1.5, derde lid, is van overeenkomstige toepassing.   
+4.  Het bevoegd gezag kan niet eerder dan na verloop van drie studiejaren na het besluit tot ontneming, bedoeld in het eerste lid, het recht op examinering opnieuw verkrijgen. Artikel 1.4a.1 is van overeenkomstige toepassing.   
+5.  Dit artikel is van overeenkomstige toepassing op instellingen als bedoeld in artikel 1.4a.1.   
 
 ### Hoofdstuk  7  
 
@@ -1485,17 +1545,18 @@ b. indien de specifieke aard, de inrichting of de kwaliteit van het onderwijs da
 
 ### Artikel  7.1.2  
 
-####Opleidingen en onderwijseenheden
+####Opleidingen
 
-1.  De instelling biedt het onderwijs aan in de vorm van opleidingen. Voor zover het een beroepsopleiding betreft, wordt deze opleiding door de instelling in het maatschappelijk verkeer aangeduid met de naam waaronder deze opleiding is vermeld in het Centraal register.   
-2.  Een opleiding is een samenhangend geheel van onderwijseenheden, gericht op de verwezenlijking van eindtermen dan wel gericht op het behalen van een diploma, gelijkwaardig aan een diploma van scholen, bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van een dergelijk diploma.   
-3.  Elke opleiding wordt afgesloten met een examen. Elke onderwijseenheid die, onderscheidenlijk elk samenstel van onderwijseenheden dat leidt tot een deelkwalificatie als bedoeld in artikel 7.2.3, wordt afgesloten met een toets.   
+1.  De instelling biedt het onderwijs aan in de vorm van beroepsopleidingen of opleidingen educatie. Een beroepsopleiding wordt door de instelling in het maatschappelijk verkeer aangeduid met de naam van de kwalificatie waarop zij is gericht of voorzover het gaat om deelnemers die ingeschreven zijn of zullen worden voor een opleidingsdomein of kwalificatiedossier, de naam van dat opleidingsdomein of dat kwalificatiedossier.   
+2.  Een beroepsopleiding is een onderwijstraject dat voor een deelnemer is ingericht overeenkomstig de eisen van hoofdstuk 7, titel 2, en dat is gericht op het behalen van een kwalificatie in het beroepsonderwijs, ten bewijze waarvan een diploma wordt uitgereikt.   
+3.  Een opleiding educatie is een samenhangend geheel van onderwijseenheden, gericht op de verwezenlijking van eindtermen of het behalen van een diploma, gelijkwaardig aan een diploma van scholen, bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van een dergelijk diploma.   
+4.  Beroepsopleidingen worden afgesloten met een examen. Opleidingen educatie kunnen worden afgesloten met een examen.   
 
 ### Artikel  7.1.3  
 
-####Eindtermen
+####Kwalificatie
 
-Eindtermen zijn als zodanig omschreven kwaliteiten op het gebied van kennis, inzicht, vaardigheden en in voorkomende gevallen beroepshoudingen, waarover degene die de opleiding voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken, en die in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs.  
+Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een beroepsopleiding kwalificeren voor het functioneren in een beroep of een groep van samenhangende beroepen, in het vervolgonderwijs en als burger en dat is beschreven binnen een kwalificatiedossier.  
 
 ### Artikel  7.1.4  
 
@@ -1527,13 +1588,13 @@ Deze titel is van toepassing op beroepsopleidingen.
 
 ### §  2  
 
-####Beroepsopleidingen en eindtermen beroepsopleidingen
+####Beroepsopleidingen en kwalificatiestructuur
 
 ### Artikel  7.2.2  
 
 ####Onderscheid beroepsopleidingen; niveau; leerwegen
 
-1.  De volgende beroepsopleidingen worden onderscheiden: 
+1.  De volgende soorten beroepsopleidingen worden onderscheiden: 
 
 a. de assistentopleiding,  
 
@@ -1541,11 +1602,9 @@ b. de basisberoepsopleiding,
 
 c. de vakopleiding,  
 
-d. de middenkaderopleiding,  
+d. de middenkaderopleiding, en  
 
-e. de specialistenopleiding, en  
-
-f. andere opleidingen.     
+e. de specialistenopleiding.     
 2.  De in het eerste lid bedoelde opleidingen bestaan uit: 
 
 a. een beroepsopleidende leerweg, omvattend een praktijkdeel van ten minste 20% en minder dan 60% van de studieduur, of  
@@ -1553,76 +1612,94 @@ a. een beroepsopleidende leerweg, omvattend een praktijkdeel van ten minste 20% 
 b. een beroepsbegeleidende leerweg, omvattend een praktijkdeel van 60% of meer van de studieduur, dan wel  
 
 c. zowel de onder *a* als de onder *b* bedoelde leerweg.     
-3.  De opleidingen, bedoeld in het eerste lid, onder *a* tot en met *e*, richten zich op de kwalificatie voor opeenvolgende niveaus van beroepsuitoefening, waarbij de assistentopleiding is gericht op het eerste en de middenkaderopleiding en de specialistenopleiding op het vierde en hoogste niveau van beroepsuitoefening.   
-4.  Aan de in het eerste lid bedoelde opleidingen kunnen ten behoeve van individuele deelnemers voorbereidende en ondersteunende activiteiten worden toegevoegd ter bevordering van het kunnen instromen in en met gunstig gevolg voltooien van de opleiding. Deze activiteiten maken geen deel uit van de opleiding. Voorbereidende en ondersteunende activiteiten zijn bestemd voor deelnemers wier vooropleiding naar het oordeel van het bevoegd gezag onvoldoende uitzicht biedt op verwezenlijking van de eindtermen van de opleiding binnen redelijke tijd.   
+3.  De assistentopleidingen richten zich op de kwalificatie voor het eerste niveau van beroepsuitoefening of voor de entree op de arbeidsmarkt. De basisberoepsopleidingen richten zich op de kwalificatie voor het tweede, de vakopleidingen op de kwalificatie voor het derde en de middenkader- en specialistenopleidingen op de kwalificatie voor het vierde en hoogste niveau van beroepsuitoefening.   
+4.  Aan de in het eerste lid bedoelde opleidingen kunnen ten behoeve van individuele deelnemers voorbereidende en ondersteunende activiteiten worden toegevoegd ter bevordering van het kunnen instromen in en met gunstig gevolg voltooien van de opleiding. Deze activiteiten maken geen deel uit van de opleiding. Voorbereidende en ondersteunende activiteiten zijn bestemd voor deelnemers wier vooropleiding naar het oordeel van het bevoegd gezag onvoldoende uitzicht biedt op het binnen een redelijke tijd behalen van de kwalificatie waarvoor de deelnemer en de instelling een onderwijsovereenkomst hebben gesloten.   
 
 ### Artikel  7.2.3  
 
-####Deelkwalificaties
+####Certificaten
 
-Eindtermen voor beroepsopleidingen zijn onderverdeeld in deelkwalificaties. Een deelkwalificatie is een combinatie van eindtermen, vastgesteld voor een bepaalde beroepsopleiding, die in het licht van de uitoefening van het beroep waarop de opleiding is gericht een zelfstandige betekenis hebben.  
+1.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat aan onderdelen van een kwalificatie of kwalificaties een certificaat is verbonden.   
+2.  Artikel 7.4.6 is van overeenkomstige toepassing op certificaten.   
 
 ### Artikel  7.2.4  
 
-####Landelijke kwalificatiestructuur; eindtermen beroepsonderwijs
+####Landelijke kwalificatiestructuur beroepsonderwijs
 
-1.  Met het oog op de totstandkoming van een landelijke kwalificatiestructuur, gericht op de aansluiting tussen het aanbod van het beroepsonderwijs en de maatschappelijke behoeften daaraan, mede in het licht van de arbeidsmarktperspectieven voor afgestudeerden, draagt Onze Minister, in voorkomende gevallen in overeenstemming met Onze Minister wie het, gezien de aard van de in artikel 7.2.6 bedoelde vereisten, mede aangaat, zorg voor het vaststellen en onderhouden van een samenhangend en gedifferentieerd geheel van eindtermen voor beroepsopleidingen die voor de desbetreffende bedrijfstakken of beroepencategorieën van betekenis zijn.   
-2.  Daartoe worden bij ministeriële regeling per beroepsopleiding vóór 1 september vastgesteld: 
+1.  Met het oog op het functioneren van een landelijke kwalificatiestructuur, gericht op de aansluiting tussen het aanbod van het beroepsonderwijs en de maatschappelijke behoeften daaraan, mede in het licht van de arbeidsmarktperspectieven voor afgestudeerden, draagt Onze Minister zorg voor het vaststellen en onderhouden van een samenhangend en gedifferentieerd geheel van opleidingsdomeinen, kwalificatiedossiers en bijbehorende kwalificaties die voor de desbetreffende bedrijfstakken of beroepencategorieën van belang zijn.   
+2.  Daartoe worden op voorstel van de desbetreffende kenniscentra beroepsonderwijs bedrijfsleven bij ministeriële regeling vastgesteld: 
 
-a. de eindtermen,  
+a. de kwalificatiedossiers,  
 
-b. de indeling daarvan in deelkwalificaties,  
+b. van elk kwalificatiedossier: 
 
-c. welke deelkwalificaties verplicht zijn voor het behalen van het diploma van de desbetreffende beroepsopleiding,  
+1° het opleidingsdomein waartoe het kwalificatiedossier behoort, tenzij het een kwalificatiedossier betreft dat uitsluitend is gericht op de kwalificatie voor de entree op de arbeidsmarkt,  
 
-d. de hoogte van de studielast, met inachtneming van het negende lid,  
+2° de kwalificatie of kwalificaties die het kwalificatiedossier bevat,  
 
-e. welk van de soorten opleidingen, bedoeld in artikel 7.2.2, eerste lid, het betreft,  
+3° de kwalificatie of kwalificaties op grond waarvan een beroepsopleiding kan worden ingericht die voor bekostiging in aanmerking komt, en  
 
-f. in welke leerwegen, bedoeld in artikel 7.2.2, tweede lid, de opleiding verzorgd wordt, en, voor zover mogelijk  
+4° indien het een kwalificatiedossier betreft dat door twee of meer kenniscentra beroepsonderwijs bedrijfsleven gezamenlijk is ingediend, op welke bedrijfstak of groep van bedrijfstakken de kwalificatie of de kwalificaties gericht zijn,    
 
-g. het beroep of de beroepencategorie op de voorbereiding waarvan de beroepsopleiding is gericht.     
-2a.  Bij de vaststelling van de eindtermen van een beroepsopleiding worden het referentieniveau Nederlandse taal en het referentieniveau rekenen in acht genomen die voor de soort opleiding waartoe die beroepsopleiding behoort, zijn vastgesteld op grond van [artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md).   
-3.  Onze Minister stelt de in het tweede lid bedoelde ministeriële regeling vast op voorstel van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven. Het kenniscentrum beroepsonderwijs bedrijfsleven doet een dergelijk voorstel telkens vóór 1 juni en neemt daarbij het tweede lid en lid 2a in acht.   
-3a.  Met het oog op de ontwikkeling van nieuwe kwalificaties kunnen met afwijking van de termijnen, bedoeld in het tweede en derde lid, eindtermen tot stand worden gebracht.   
-4.  Bij het voorstel voor de eindtermen voegt het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven: 
+c. van elke kwalificatie: 
 
-a. het advies van de commissie, bedoeld in artikel 6.1.2, en  
+1° de soort beroepsopleiding, bedoeld in artikel 7.2.2, eerste lid, waarop de kwalificatie is gericht,  
 
-b. het voorstel, bedoeld in artikel 1.5.2, tweede lid. Uit het voorstel blijkt dat het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven voldoende acht heeft geslagen op de aansluiting tussen de opleidingen voorbereidend beroepsonderwijs, de opleidingen middelbaar algemeen voortgezet onderwijs, de beroepsopleidingen en de opleidingen hoger beroepsonderwijs, in elk geval door raadpleging van vertegenwoordigers van die onderwijsvelden. Indien ook andere instanties nauw bij het voorstel voor de eindtermen zijn betrokken, maakt het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven in zijn voorstel melding van de wijze waarop het oordeel van die instanties is betrokken in het voorstel.     
-5.  Indien het in het derde en vierde lid een kenniscentrum beroepsonderwijs bedrijfsleven betreft waarvan de samenstelling van het bestuur voldoet aan artikel 9.2.1, tweede lid, onder b, wordt het voorstel gedaan door de commissie onderwijs-bedrijfsleven.   
-6.  De eindtermen hebben betrekking op opleidingen met de verzorging waarvan de instellingen in het studiejaar na het jaar van de vaststelling een aanvang kunnen maken.   
-7.  Het bevoegd gezag stelt de studieduur van de opleiding vast met inachtneming van de studielast. De studieduur kan verschillen voor onderscheiden deelnemers of groepen van deelnemers.   
-8.  De studielast van elke opleiding wordt uitgedrukt in normatieve studiejaren. Een normatief studiejaar telt veertig weken van elk veertig uren studie, daaronder mede begrepen het onderricht in de praktijk. De studielast bedraagt voor de onderscheiden in artikel 7.2.2, eerste lid, onder a tot en met f, bedoelde opleidingen het volgende aantal normatieve studiejaren of het volgende gedeelte daarvan: 
+2°. de leerweg of leerwegen, bedoeld in artikel 7.2.2, tweede lid, waarin die beroepsopleiding kan worden verzorgd,  
 
-a. ten minste een half jaar en ten hoogste 1 jaar,  
+3° het niveau, bedoeld in artikel 7.2.2, derde lid, van die beroepsopleiding,  
+
+4° de hoogte van de studielast van die beroepsopleiding, met inachtneming van het negende lid, en  
+
+5° of toepassing is gegeven aan artikel 7.2.6, eerste lid.       
+3.  Het kenniscentrum neemt bij het voorstel voor een kwalificatiedossier het bepaalde in het tweede en vierde lid in acht. Uit het voorstel blijkt dat het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven voldoende acht heeft geslagen op de aansluiting tussen de opleidingen voorbereidend beroepsonderwijs, de opleidingen middelbaar algemeen voortgezet onderwijs, de beroepsopleidingen en de opleidingen hoger beroepsonderwijs, in elk geval door raadpleging van vertegenwoordigers van die onderwijsvelden. Indien ook andere instanties nauw bij het voorstel voor het kwalificatiedossier zijn betrokken, maakt het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven in zijn voorstel melding van de wijze waarop het oordeel van die instanties is betrokken in het voorstel.   
+4.  Bij de vaststelling van een kwalificatiedossier worden de referentieniveaus Nederlandse taal en de referentieniveaus rekenen in acht genomen die op grond van [artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md) zijn vastgesteld voor de soorten opleiding als bedoeld in artikel 7.2.2, eerste lid, onder a tot en met e.   
+5.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven voor de inhoud van een kwalificatiedossier.   
+6.  Bij ministeriële regeling worden voorschriften gegeven voor de termijnen bij de totstandkoming, vaststelling en geldigheidsduur van kwalificatiedossiers. Tevens worden bij ministeriële regeling een model en een toetsingskader voor kwalificatiedossiers vastgesteld.   
+7.  Deelnemers worden behoudens de tweede volzin opgeleid overeenkomstig het kwalificatiedossier dat voor de desbetreffende beroepsopleiding is vastgesteld voor de aanvang van het studiejaar waarin zij met het eerste jaar van die opleiding starten. Nadat de geldigheidsduur van een kwalificatiedossier is verstreken, kan een diploma op basis van dat kwalificatiedossier nog worden uitgereikt gedurende een periode die overeenkomt met de normatieve studieduur van de desbetreffende beroepsopleiding, vermeerderd met 2 jaren.   
+8.  Het bevoegd gezag stelt de studieduur van de opleiding vast met inachtneming van de studielast. De studieduur kan verschillen voor onderscheiden deelnemers of groepen van deelnemers.   
+9.  De studielast van elke kwalificatie wordt uitgedrukt in normatieve studiejaren. Een normatief studiejaar telt veertig weken van elk veertig uren studie, daaronder mede begrepen het onderricht in de praktijk. De studielast bedraagt voor de onderscheiden in artikel 7.2.2, eerste lid, onder a tot en met e, bedoelde opleidingen het volgende aantal normatieve studiejaren of het volgende gedeelte daarvan: 
+
+a. 1 jaar,  
 
 b. ten minste 2 en ten hoogste 3 jaren,  
 
 c. ten minste 2 en ten hoogste 4 jaren,  
 
-d. ten minste 3 en ten hoogste 4 jaren,  
+d. ten minste 3 en ten hoogste 4 jaren, en  
 
-e. ten minste 1 jaar en ten hoogste 2 jaren, en  
+e. ten minste 1 jaar en ten hoogste 2 jaren.     
 
-f. ten minste 15 weken.     
-9.  Dit artikel is van overeenkomstige toepassing bij wijzigingen van de eindtermen en de indeling daarvan.   
+### Artikel  7.2.5  
+
+####Advisering over kwalificatiestructuur en kwalificatiedossiers
+
+Bij ministeriële regeling kan een organisatie worden aangewezen die belast is met de advisering over de landelijke kwalificatiestructuur, bedoeld in artikel 7.2.4, eerste lid, en over de voorstellen tot vaststelling van kwalificatiedossiers, bedoeld in artikel 7.2.4, tweede en derde lid. Laatstgenoemde advisering heeft in elk geval betrekking op de vraag of en in hoeverre deze voorstellen bijdragen aan de ontwikkeling van de landelijke kwalificatiestructuur. In de ministeriële regeling worden tevens regels gesteld voor de werkwijze van de organisatie en de subsidiëring van de werkzaamheden, bedoeld in de eerste volzin.  
+
+### Artikel  7.2.5a  
+
+####Vaststelling opleidingsdomeinen
+
+Bij ministeriële regeling worden op voorstel van de instellingen in overleg met de kenniscentra beroepsonderwijs bedrijfsleven de opleidingsdomeinen vastgesteld.  
 
 ### Artikel  7.2.6  
 
 ####Beroepsvereisten
 
-Indien voor een beroep bij of krachtens een wet, verdrag of bindend besluit van een volkenrechtelijke organisatie, vereisten zijn vastgesteld over de kwaliteiten op het gebied van kennis, inzicht, vaardigheden of beroepshoudingen waarover degenen die een opleiding gericht op dat beroep voltooien, moeten beschikken, of over de examinering bij de desbetreffende beroepsopleiding: 
+1.  Indien voor een beroep bij of krachtens een wet, verdrag of bindend besluit van een volkenrechtelijke organisatie, vereisten zijn vastgesteld over de kwaliteiten onder meer op het gebied van kennis, inzicht, vaardigheden of beroepshoudingen waarover degenen die een opleiding gericht op dat beroep voltooien, moeten beschikken, of over de examinering bij de desbetreffende beroepsopleiding: 
 
-a. neemt Onze Minister deze vereisten in acht bij de vaststelling van de eindtermen en bij de vaststelling van de standaarden, bedoeld in artikel 7.4.4, en  
+a. draagt het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven ervoor zorg dat deze vereisten verwerkt zijn bij het doen van het voorstel, bedoeld in artikel 7.2.4, tweede en derde lid,  
 
-b. draagt de instelling er bij het aanbieden van een beroepsopleiding zorg voor dat degenen die deze opleiding volgen, ten minste in de gelegenheid zijn aan die vereisten te voldoen, en dat bij de examinering, zo nodig in afwijking van titel 4 van dit hoofdstuk, aan die vereisten wordt voldaan.    
+b. voegt het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven een verklaring van Onze Minister die het aangaat dat deze vereisten correct zijn verwerkt in het voorstel, bedoeld in artikel 7.2.4, tweede en derde lid, en  
+
+c. neemt Onze Minister deze vereisten in acht bij de vaststelling van de standaarden, bedoeld in artikel 7.4.4.     
+2.  De instelling draagt er bij het aanbieden van een beroepsopleiding zorg voor dat degenen die deze opleiding volgen, ten minste in de gelegenheid zijn aan de in het eerste lid bedoelde vereisten te voldoen en dat bij de examinering, zo nodig in afwijking van titel 4 van dit hoofdstuk, aan die vereisten wordt voldaan.   
 
 ### Artikel  7.2.7  
 
 ####Inrichting opleidingen
 
-1.  Het bevoegd gezag draagt er zorg voor dat de opleidingen zodanig zijn ingericht dat de deelnemers de eindtermen binnen de vastgestelde studieduur kunnen bereiken.   
+1.  Het bevoegd gezag draagt er zorg voor dat beroepsopleidingen zodanig zijn ingericht dat deelnemers, ongeacht of zij eerst worden ingeschreven voor een opleidingsdomein of voor een kwalificatiedossier, de kwalificatie binnen de vastgestelde studieduur kunnen bereiken.   
 2.  Beroepsopleidingen zijn voltijds of deeltijds dan wel zowel voltijds als deeltijds ingericht.   
 3.  Voltijdse beroepsopleidingen zijn opleidingen in de beroepsopleidende leerweg waarvan elk volledig studiejaar een studielast van 1600 uren of meer heeft, en waarvoor het bevoegd gezag voor de deelnemer in instellingstijd een onderwijsprogramma verzorgt dat ten minste 850 uren per volledig studiejaar omvat. Indien de door Onze Minister vastgestelde studielast ertoe leidt dat in het laatste studiejaar de duur van de opleiding gerekend vanaf 1 september en naar boven afgerond op hele maanden minder is dan 10 maanden, dan wordt de norm van 850 uren in dat jaar evenredig verlaagd.   
 4.  Het in instellingstijd verzorgde onderwijsprogramma, bedoeld in het derde lid, omvat alle onderwijsactiviteiten, gericht op het bereiken van de onderwijs- en vormingsdoelen van de opleiding, waaraan door de deelnemer wordt deelgenomen onder verantwoordelijkheid en toezicht van het bevoegd gezag.   
@@ -1632,17 +1709,17 @@ b. draagt de instelling er bij het aanbieden van een beroepsopleiding zorg voor 
 
 ####De beroepspraktijkvorming
 
-1.  Van elke beroepsopleiding maakt onderricht in de praktijk van het beroep deel uit.   
+1.  Van elke beroepsopleiding maakt onderricht in de praktijk van het beroep deel uit. De beroepspraktijkvorming kan voor een deel plaatsvinden in de periode waarin de deelnemer is ingeschreven voor een opleidingsdomein of een kwalificatiedossier.   
 2.  De beroepspraktijkvorming wordt verzorgd op grondslag van een overeenkomst, gesloten door de in artikel 7.2.9 genoemde partijen. De overeenkomst regelt de rechten en verplichtingen van partijen en omvat met inachtneming van het dienaangaande bij of krachtens deze wet bepaalde, ten minste bepalingen over: 
 
 a. de aanvangsdatum en einddatum van de beroepspraktijkvorming, alsmede het aantal te volgen praktijkuren per kalenderjaar,  
 
 b. de begeleiding van de deelnemer,  
 
-c. dat deel van de eindtermen dat de deelnemer tijdens de praktijkperiode dient te realiseren en de beoordeling daarvan, en  
+c. dat deel van de kwalificatie dat de deelnemer tijdens de beroepspraktijkvorming dient te behalen, en de beoordeling daarvan, en  
 
 d. de gevallen waarin en de wijze waarop de overeenkomst voortijdig kan worden ontbonden.     
-3.  Het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt, draagt zorg voor de begeleiding van de deelnemers binnen het bedrijf. Het bevoegd gezag beoordeelt of de deelnemer het in het tweede lid, onder *c*, bedoelde deel van de eindtermen heeft gerealiseerd. Het bevoegd gezag betrekt bij die beoordeling het oordeel van het bedrijf onderscheidenlijk de organisatie, met inachtneming van de desbetreffende in de onderwijs- en examenregeling op te nemen regels.   
+3.  Het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt, draagt zorg voor de begeleiding van de deelnemers binnen het bedrijf. Het bevoegd gezag beoordeelt of de deelnemer het in het tweede lid, onder c, bedoelde deel van de kwalificatie heeft behaald. Het bevoegd gezag betrekt bij die beoordeling het oordeel van het bedrijf onderscheidenlijk de organisatie, met inachtneming van de desbetreffende in de onderwijs- en examenregeling op te nemen regels.   
 
 ### Artikel  7.2.9  
 
@@ -1736,7 +1813,7 @@ Deze paragraaf is van toepassing op beroepsopleidingen en opleidingen educatie, 
 ####Algemene bepaling inzake examens
 
 1.  Het bevoegd gezag van een instelling geeft de deelnemers de gelegenheid een examen af te leggen.   
-2.  Het examen omvat een onderzoek naar de kennis, het inzicht, de vaardigheden en, in voorkomende gevallen, de beroepshoudingen die de examinandus zich bij voltooiing van de opleiding moet hebben eigen gemaakt, alsmede de beoordeling van de uitkomsten van dat onderzoek aan de hand van de eindtermen.   
+2.  Het examen omvat een onderzoek naar de kennis, het inzicht, de vaardigheden en, in voorkomende gevallen, de beroepshoudingen die de examinandus zich bij voltooiing van de opleiding moet hebben eigen gemaakt, alsmede de beoordeling van de uitkomsten van dat onderzoek aan de hand van de eindtermen of de kwalificatie-eisen in het kwalificatiedossier.   
 3.   Vervallen.    
 4.  Bij algemene maatregel van bestuur kunnen in afwijking van de [artikelen 6:7](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7:10](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:24 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kortere termijnen dan in die artikelen vermeld, worden bepaald voor de indiening van een bezwaar- of beroepschrift en voor de daarop te nemen beslissing ter zake van de deelneming aan de in dit artikel bedoelde examens.   
 
@@ -1744,9 +1821,7 @@ Deze paragraaf is van toepassing op beroepsopleidingen en opleidingen educatie, 
 
 ####Examens beroepsopleidingen
 
-1.  Het examen van een beroepsopleiding is niet met gunstig gevolg afgelegd dan na een gunstige beoordeling als bedoeld in artikel 7.2.8, derde lid.   
-2.  Het examen van beroepsopleidingen bestaat uit onderdelen die overeenkomen met de deelkwalificaties.   
-3.  Deelnemers die in het bezit zijn van een certificaat van een andere instelling zijn vrijgesteld van het daarmee overeenkomende examenonderdeel.   
+Het examen van een beroepsopleiding is eerst dan met goed gevolg afgesloten wanneer zowel de beroepspraktijkvorming als het overige deel van de beroepsopleiding met goed gevolg is afgesloten.  
 
 ### Artikel  7.4.3a  
 
@@ -1761,7 +1836,7 @@ Deze paragraaf is van toepassing op beroepsopleidingen en opleidingen educatie, 
 
 Bij ministeriële regeling worden landelijke standaarden voor de kwaliteit van de examens van de beroepsopleidingen vastgesteld die betrekking hebben op: 
 
-a. de inhoud en het niveau van de examens, in relatie tot de eindtermen, bedoeld in artikel 7.2.4;  
+a. de inhoud en het niveau van de examens, in relatie tot de kwalificatie-eisen in het kwalificatiedossier, bedoeld in artikel 7.2.4;  
 
 b. de procedures rond de examens en de voorwaarden waaronder examens worden afgenomen.    
 
@@ -1782,14 +1857,10 @@ b. de procedures rond de examens en de voorwaarden waaronder examens worden afge
 
 ### Artikel  7.4.6  
 
-####Bewijsstukken van afgelegde toetsen, examenonderdelen en examens
+####Diploma’s
 
-1.  Ten bewijze dat een toets of examenonderdeel met goed gevolg is afgelegd, reikt de examencommissie een bewijsstuk uit. Indien het examenonderdeel een deelkwalificatie betreft reikt de examencommissie een certificaat uit. Ten bewijze dat een examen met goed gevolg is afgelegd reikt de examencommissie een diploma uit. Het examen van beroepsopleidingen is eerst dan met goed gevolg afgesloten wanneer zowel de beroepspraktijkvorming als het overige deel van het onderricht met goed gevolg zijn afgesloten.   
-2.  De bewijsstukken, bedoeld in het eerste lid, vermelden, voorzover zij betrekking hebben op een beroepsopleiding: 
-
-a. de naam van het kenniscentrum beroepsopleidingen bedrijfsleven op voorstel waarvan de eindtermen van die beroepsopleiding zijn vastgesteld, en  
-
-b. de naam van de instelling waaraan de deelnemer is ingeschreven.     
+1.  Ten bewijze dat een examen met goed gevolg is afgelegd, reikt de examencommissie een diploma uit.   
+2.  Bij ministeriële regeling worden modellen en technische veiligheidseisen voor het diploma en de resultatenlijst van een beroepsopleiding vastgesteld.   
 
 ### Artikel  7.4.7  
 
@@ -1857,7 +1928,7 @@ Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwasseneno
 2.  Artikel 7.4.5 is van overeenkomstige toepassing.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent de examens van de opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als tweede taal I en II, bedoeld in artikel 7.3.1, eerste lid, onder a en c. Bij deze algemene maatregel van bestuur kunnen tevens voorschriften worden gegeven omtrent de examenprogramma’s en de verdeling daarvan in onderdelen.   
 4.  Ten behoeve van de bijzondere inrichting van het onderwijs aan een instelling kan Onze Minister toestaan dat wordt afgeweken van het bepaalde bij of krachtens het tweede en derde lid. Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
-5.  Artikel 7.4.6 is van toepassing, met dien verstande dat degene die een onderdeel van het examen Nederlands als tweede taal I of II met goed gevolg heeft afgelegd een certificaat ontvangt. Bij of krachtens algemene maatregel van bestuur wordt bepaald onder welke voorwaarden het bezit van certificaten aanspraak geeft op een diploma.   
+5.  Artikel 7.4.6 is van toepassing, met dien verstande dat degene die een onderdeel van een examen van de opleiding voortgezet algemeen volwassenenonderwijs of Nederlands als tweede taal I of II met goed gevolg heeft afgelegd een certificaat ontvangt. Bij of krachtens algemene maatregel van bestuur wordt bepaald onder welke voorwaarden het bezit van certificaten aanspraak geeft op een diploma.   
 6.  Bij algemene maatregel van bestuur kunnen in afwijking van de artikelen [6:7](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7:10](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:24 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kortere termijnen dan in die artikelen vermeld, worden bepaald voor de indiening van een bezwaar- of beroepschrift en voor de daarop te nemen beslissing ter zake van de deelneming aan de in dit artikel bedoelde examens.   
 
 ### Paragraaf  3  
@@ -1942,8 +2013,8 @@ c. vreemdeling is, 18 jaar of ouder is op de eerste dag waarop de opleiding of h
 
 d. vreemdeling is, niet meer voldoet aan een van de voorwaarden genoemd onder b of c, en eerder in overeenstemming met een van die onderdelen is ingeschreven voor een opleiding of het onderdeel van de opleiding van een instelling, welke opleiding of welk onderdeel van de opleiding nog steeds wordt gevolgd en nog niet is voltooid.     
 1a.  Indien na de inschrijving voor de opleiding of een onderdeel van de opleiding blijkt dat deze op welke grond dan ook niet in overeenstemming met de vijfde volzin van het eerste lid heeft plaatsgevonden, wordt de onderwijsovereenkomst, bedoeld in artikel 8.1.3, met onmiddellijke ingang ontbonden.   
-2.  De inschrijving geschiedt voor een opleiding, dan wel een onderdeel daarvan. Indien het verzoek om inschrijving betrekking heeft op een beroepsopleiding, wordt daarbij aangegeven op welke leerweg het verzoek van toepassing is. Tevens wordt bij de inschrijving vastgelegd of sprake is van inschrijving voor een opleidingstraject als bedoeld in artikel 7.4.8, eerste lid, onder f.   
-3.  De inschrijving staat uitsluitend open voor degenen ten aanzien van wie het bevoegd gezag beslist dat zij tot de instelling worden toegelaten, onverminderd de vierde volzin van het eerste lid, het vijfde lid en artikel 8.1.6. Het bevoegd gezag kan het nemen van de beslissing over de toelating opdragen aan een door hem in te stellen toelatingscommissie. Het bevoegd gezag regelt de bevoegdheden en de werkzaamheden van de toelatingscommissie.   
+2.  De inschrijving geschiedt voor een opleiding of een onderdeel daarvan. In geval van een beroepsopleiding geschiedt de inschrijving voor een opleidingsdomein, een kwalificatiedossier of een kwalificatie. Bij de inschrijving worden alle gegevens vermeld die het bevoegd gezag nodig heeft om te kunnen voldoen aan de verplichting, bedoeld in artikel 2.3.6a, tweede lid, of ingeval van een beroepsopleiding, artikel 2.5.5a, tweede lid.   
+3.  De inschrijving staat uitsluitend open voor degenen ten aanzien van wie het bevoegd gezag beslist dat zij tot de instelling worden toegelaten, onverminderd het eerste lid, vierde volzin, en het vijfde lid. Het bevoegd gezag kan het nemen van de beslissing over de toelating opdragen aan een door hem in te stellen toelatingscommissie. Het bevoegd gezag regelt de bevoegdheden en de werkzaamheden van de toelatingscommissie.   
 4.  De toelating tot beroepsopleidingen staat voor zover het de beroepsbegeleidende leerweg betreft, uitsluitend open voor degenen voor wie de volledige leerplicht, bedoeld in [paragraaf 2 van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), is geëindigd.   
 5.  In afwijking van het derde lid en met inachtneming van artikel 8.2.1 en het krachtens artikel 8.2.2 bepaalde” doch onverminderd de vierde volzin van het eerste lid, staat de inschrijving voor een assistentopleiding of basisberoepsopleiding als bedoeld in artikel 7.2.2, eerste lid, open voor een ieder, met dien verstande dat het bevoegd gezag van een bijzondere instelling kan aangeven dat degenen die wensen te worden ingeschreven, geacht worden de grondslag en de doelstellingen van de instelling te respecteren. De inschrijving kan worden geweigerd dan wel ingetrokken indien de betrokkene de grondslag en de doelstellingen van de instelling niet respecteert. De inschrijving aan een bijzondere instelling kan eveneens worden geweigerd dan wel ingetrokken indien gegronde vrees bestaat dat de betrokkene van die inschrijving en de daaraan verbonden rechten misbruik zal maken door in ernstige mate afbreuk te doen aan de eigen aard van die instelling, dan wel indien is gebleken dat de betrokkene van die inschrijving en de daaraan verbonden rechten een dergelijk misbruik heeft gemaakt. De weigering dan wel intrekking van de inschrijving geschiedt schriftelijk en is met redenen omkleed. De inschrijving kan niet worden ingetrokken op grond van de tweede volzin indien voor betrokkene geen gelegenheid bestaat de opleiding aan een andere instelling te volgen.   
 6.  De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen. De toelating tot de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onderdelen c en d, staat tot een bij algemene maatregel van bestuur te bepalen tijdstip niet open voor volwassenen die: 
@@ -1953,6 +2024,8 @@ a. inburgeringsplichtig zijn in de zin van [artikel 1, aanhef en onder b, van de
 b. behoren tot de categorie personen voor wie bij regeling van Onze Minister voor Vreemdelingenzaken en Integratie per 1 januari 2007 een voorziening in het kader van inburgering is getroffen en die niet in het kader van die regeling het inburgeringsexamen, bedoeld in [artikel 13 van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md), hebben afgelegd, of  
 
 c. vrijwillige inburgeraar zijn in de zin van [artikel 1, eerste lid, onderdeel r, van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en die niet het inburgeringsexamen, bedoeld in [artikel 13 van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md), hebben afgelegd.     
+7.  De inschrijving voor een opleidingsdomein kan uitsluitend geschieden voor een beroepsopleiding in de beroepsopleidende leerweg op het tweede, derde of vierde niveau, bedoeld in artikel 7.2.2, derde lid.   
+8.  Bij ministeriële regeling kan een maximum worden vastgesteld voor het percentage van de deelnemers in het beroepsonderwijs dat in een jaar kan worden ingeschreven voor een opleidingsdomein.   
 
 ### Artikel  8.1.1a  
 
@@ -1977,19 +2050,20 @@ c. vrijwillige inburgeraar zijn in de zin van [artikel 1, eerste lid, onderdeel 
 ####Onderwijsovereenkomst
 
 1.  Aan de inschrijving ligt een overeenkomst tussen het bevoegd gezag en de deelnemer ten grondslag.   
-2.  De overeenkomst wordt, overeenkomstig een door het bevoegd gezag vastgesteld model, schriftelijk aangegaan. De overeenkomst wordt gesloten voor de duur van de opleiding dan wel voor het deel van de opleiding waarop de inschrijving betrekking heeft.   
+2.  De overeenkomst wordt, overeenkomstig een door het bevoegd gezag vastgesteld model, schriftelijk aangegaan. De overeenkomst wordt gesloten voor de duur van de beroepsopleiding of een deel daarvan, de opleiding educatie of het deel van de opleiding educatie waarop de inschrijving betrekking heeft.   
 3.  De overeenkomst regelt de rechten en verplichtingen van partijen, daaronder begrepen die, welke voortvloeien uit de wet, en omvat ten minste bepalingen over: 
 
-a. de inhoud en inrichting van de opleiding, waaronder voor een beroepsopleiding begrepen het voltijdse of deeltijdse karakter en de leerweg, alsmede de examenvoorzieningen,  
+a. de inhoud en inrichting van een opleiding, waaronder voor een beroepsopleiding begrepen het voltijdse of deeltijdse karakter, de leerweg, de examenvoorzieningen en de kwalificatie, of, bij inschrijving voor een opleidingsdomein of een kwalificatiedossier, dat opleidingsdomein of dat kwalificatiedossier en het beoogde niveau van de te behalen kwalificatie,  
 
 b. de tijdvakken waarbinnen en, voor zover mogelijk, de lokaties waarop het onderwijs verzorgd wordt,  
 
 c. de wijze waarop partijen uit de overeenkomst voortkomende prestaties gestalte zullen geven,  
 
-d. in voorkomend geval, terugbetaling van voorschotten, verstrekt door het bevoegd gezag, ter voldoening van een bij of krachtens de wet geregelde geldelijke bijdrage als bedoeld in artikel 8.1.4, en  
+d. in voorkomend geval, terugbetaling van voorschotten, verstrekt door het bevoegd gezag, ter voldoening van een bij of krachtens de wet geregelde geldelijke bijdrage als bedoeld in artikel 8.1.4,  
 
-e. de terugbetaling van cursusgeld in andere gevallen dan bedoeld in [artikel 14, tweede lid onder a tot en met d, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md).     
-3a.  De overeenkomst met betrekking tot een opleiding als bedoeld in artikel 12.1a.1, eerste lid, of artikel 12.1a.2, eerste lid, bevat tevens de regeling, bedoeld in de laatste volzin van die artikelleden.   
+e. de terugbetaling van cursusgeld in andere gevallen dan bedoeld in [artikel 14, tweede lid onder a tot en met d, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), en  
+
+f. het verzuimbeleid van het bevoegd gezag.     
 4.  Indien tot een bijzondere instelling andere deelnemers worden toegelaten dan voor wie de instelling in verband met de godsdienstige of levensbeschouwelijke richting wordt in stand gehouden, kunnen deze deelnemers niet worden verplicht tot het volgen van onderwijs dat in verband met die richting door de instelling wordt verzorgd.   
 5.  Definitieve verwijdering van een deelnemer waarop de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) van toepassing is, vindt niet plaats dan nadat het bevoegd gezag ervoor heeft zorggedragen dat een andere instelling, een school voor speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs, dan wel een instelling als bedoeld in [artikel 1, onder c, van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) bereid is de deelnemer toe te laten. Indien aantoonbaar gedurende 8 weken zonder succes is gezocht naar een zodanige instelling of school waarnaar kan worden verwezen, kan in afwijking van de eerste volzin tot definitieve verwijdering worden overgegaan.   
 6.  Dit artikel is van overeenkomstige toepassing op examendeelnemers als bedoeld in artikel 8.1.1, eerste lid.   
@@ -2005,7 +2079,7 @@ De inschrijving wordt niet afhankelijk gesteld van een andere dan een bij of kra
 ####Controle op langdurige afwezigheid
 
 1.  Het bevoegd gezag stelt van iedere aan de instelling ingeschreven deelnemer die valt onder de werking van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) of van de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), vast, of deze deelnemer gedurende een aaneengesloten periode van ten minste 5 weken zonder geldige reden niet aan het onderwijs heeft deelgenomen. In afwijking van de vorige volzin kan Onze Minister bepalen dat voor soorten van onderwijs als bedoeld in deze wet, de in die volzin bedoelde vaststelling wordt gedaan indien een ingeschreven deelnemer in een of meer vakken niet aan het onderwijs heeft deelgenomen. Onder afwezigheid met geldige reden wordt verstaan afwezigheid wegens ziekte van de deelnemer, welke ziekte uitsluitend kan worden aangetoond door middel van een gedagtekende verklaring van een arts, en afwezigheid wegens bijzondere familie-omstandigheden.   
-2.  Het bevoegd gezag meldt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van 5 weken aan de deelnemer dat daarvan in de administratie van de instelling aantekening is gemaakt en verzoekt de deelnemer om opgaaf van de reden van de afwezigheid.   
+2.  Het bevoegd gezag meldt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van vier weken aan de deelnemer dat daarvan in de administratie van de instelling aantekening is gemaakt en verzoekt de deelnemer om opgaaf van de reden van de afwezigheid. Het bevoegd gezag doet daarbij mededeling van de opgave van de gegevens van de deelnemer, bedoeld in artikel 8.1.8a, eerste lid.   
 3.  Uiterlijk op de vijfde werkdag na de periode van 8 weken stelt het bevoegd gezag vast: 
 
 a. of de reden die de deelnemer binnen 8 weken na de aanvang van de periode van 5 weken gaf voor zijn afwezigheid, een geldige is, of  
@@ -2018,11 +2092,9 @@ b. dat de deelnemer binnen 8 weken na de aanvang van de periode van 5 weken geen
 8.  Indien het bevoegd gezag van een bijzondere instelling aan Onze Minister de in het vijfde lid bedoelde mededeling heeft gedaan, kan de deelnemer binnen 6 weken na ontvangst van de gegevens, bedoeld in het zevende lid, bij het bevoegd gezag schriftelijk bedenkingen uiten tegen die mededeling.   
 9.  Onder «deelnemer» als bedoeld in het vijfde en zevende lid wordt verstaan de deelnemer die 
 
-a. een assistentopleiding of een basisberoepsopleiding volgt als bedoeld in artikel 7.2.2, eerste lid, onderdelen a of b,  
+a. een assistentopleiding of een basisberoepsopleiding volgt als bedoeld in artikel 7.2.2, eerste lid, onderdelen a of b, of  
 
-b. een andere opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel f, volgt waarvan bij ministeriële regeling is aangegeven dat deze voor de toepassing van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) wordt aangemerkt als een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a of b, of  
-
-c. voor 1 augustus 2005 studiefinanciering in de zin van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) ontving.     
+b. voor 1 augustus 2005 studiefinanciering in de zin van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) ontving.     
 
 ### Artikel  8.1.8  
 
@@ -2041,7 +2113,7 @@ c. die bij de instelling wordt verwijderd.
 
 ####Melding verzuim niet-leerplichtigen
 
-1.  Het bevoegd gezag doet onverwijld opgave aan Onze Minister van de gegevens van degene die voldoet aan artikel 8.1.8, eerste lid, onderdelen a en b, en die het onderwijs of de educatie aan de instelling gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt.   
+1.  Het bevoegd gezag doet onverwijld opgave aan Onze Minister van de gegevens van degene die voldoet aan artikel 8.1.8, eerste lid, onderdelen a en b, en die het onderwijs of de educatie aan de instelling gedurende een aaneengesloten periode van ten minste vier weken of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt.   
 2.  Onze Minister neemt de op grond van dit artikel door het bevoegd gezag verstrekte gegevens op in het meldingsregister relatief verzuim.   
 3.  Onze Minister bericht burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft onverwijld na ontvangst van de opgave, bedoeld in het eerste lid, dat een zodanige opgave heeft plaatsgevonden.   
 4.  Onze Minister verstrekt uit het meldingsregister relatief verzuim aan het betrokken bevoegd gezag en aan burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft de ter zake van die betrokkene geregistreerde gegevens.   
@@ -2052,6 +2124,7 @@ c. die bij de instelling wordt verwijderd.
 9.  Bij de verwerking van gegevens, bedoeld in dit artikel, wordt het persoonsgebonden nummer van de betrokkene gebruikt.   
 10.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van de verstrekking van gegevens op grond van het eerste en vijfde lid en wordt een nadere specificatie gegeven van de gegevens die op grond van het eerste en vijfde lid worden verstrekt.   
 11.  De gegevens die worden verstrekt op grond van het eerste lid kunnen persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) omvatten, met uitzondering van gegevens over ras, politieke gezindheid, seksueel leven of het lidmaatschap van een vakvereniging, voor zover deze persoonsgegevens noodzakelijk zijn met het oog op de informatieverstrekking over de achtergronden van het verzuim.   
+12.  Op verzoek van burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft, komen hun rechten en verplichtingen als bedoeld in dit artikel toe aan burgemeester en wethouders van de contactgemeente, bedoeld in artikel 8.3.2, derde lid.   
 
 ### Titel  2  
 
@@ -2105,7 +2178,7 @@ e. een ander bij ministeriële regeling aangewezen diploma of bewijsstuk.   Indi
 
 1.  Onder een voortijdige schoolverlater in de zin van deze titel wordt verstaan degene op wie artikel 8.1.8, eerste lid onder a en b, van toepassing is en 
 
-a. die het onderwijs of de educatie aan de instelling waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
+a. die het onderwijs of de educatie aan de instelling waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste vier weken of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
 
 b. die niet meer aan een instelling is ingeschreven en evenmin is ingeschreven aan een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel aan een school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md).     
 2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdig schoolverlater niet verstaan degene die in het bezit is van een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel a, dan wel een getuigschrift van het praktijkonderwijs als bedoeld in [artikel 10f van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.   
@@ -2506,8 +2579,8 @@ In afwijking van artikel 9.1.4, eerste lid, kan een functionele scheiding tussen
 a. ofwel voor een derde deel uit vertegenwoordigers van werkgeversorganisaties, voor een derde deel uit vertegenwoordigers van werknemersorganisaties en voor een derde deel uit vertegenwoordigers van de instellingen en de andere instellingen, bedoeld in artikel 1.4.1;  
 
 b. ofwel voor de helft uit vertegenwoordigers van werkgeversorganisaties en voor de helft uit vertegenwoordigers van werknemersorganisaties.     
-3.  Aan het kenniscentrum beroepsonderwijs bedrijfsleven waarvan de samenstelling van het bestuur voldoet aan het tweede lid, onder *b*, is een commissie onderwijs-bedrijfsleven verbonden, die voor de helft bestaat uit vertegenwoordigers van het bedrijfsleven en voor de helft uit vertegenwoordigers van de instellingen en de andere instellingen, bedoeld in artikel 1.4.1, die opleidingen verzorgen op het terrein waarop het kenniscentrum beroepsonderwijs bedrijfsleven werkzaam is.   
-4.  Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven kan indien dat dienstig is voor een goede uitvoering van deze wet, aan het bevoegd gezag van een instelling de uitoefening van hem bij wettelijk voorschrift opgedragen taken en bevoegdheden opdragen, met uitzondering van de in artikel 7.2.4, eerste lid, bedoelde taak. Indien het bestuur gebruik maakt van deze mogelijkheid, stelt het een reglement vast waarin in elk geval worden vastgelegd de taken en bevoegdheden die het bestuur ter uitoefening opdraagt aan het bevoegd gezag, alsmede richtlijnen voor uitoefening van de aan het bevoegd gezag opgedragen taken en bevoegdheden.   
+3.  Aan een kenniscentrum beroepsonderwijs bedrijfsleven is een paritaire commissie beroepsonderwijs bedrijfsleven verbonden, die voor de helft bestaat uit vertegenwoordigers van het bedrijfsleven en voor de helft uit vertegenwoordigers van de instellingen en de andere instellingen, bedoeld in artikel 1.4.1, die opleidingen verzorgen op het terrein waarop het kenniscentrum beroepsonderwijs bedrijfsleven werkzaam is. Onder de vertegenwoordigers van de instellingen bevinden zich in elk geval een of meer docenten als bedoeld in artikel 4.2.1. De paritaire commissie heeft tot taak om overeenstemming te bereiken tussen vertegenwoordigers van het bedrijfsleven en vertegenwoordigers van de instellingen over de inhoud van de bij Onze Minister in te dienen voorstellen voor kwalificatiedossiers.   
+4.  Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven kan indien dat dienstig is voor een goede uitvoering van deze wet, aan het bevoegd gezag van een instelling de uitoefening van hem bij wettelijk voorschrift opgedragen taken en bevoegdheden opdragen, met uitzondering van het doen van voorstellen als bedoeld in artikel 7.2.4, tweede en derde lid. Indien het bestuur gebruik maakt van deze mogelijkheid, stelt het een reglement vast waarin in elk geval worden vastgelegd de taken en bevoegdheden die het bestuur ter uitoefening opdraagt aan het bevoegd gezag, alsmede richtlijnen voor uitoefening van de aan het bevoegd gezag opgedragen taken en bevoegdheden.   
 
 ### Artikel  9.2.2  
 
@@ -2598,6 +2671,44 @@ Indien de uitspraak op een beroep als bedoeld in artikel 10.1 strekt tot ondersc
 
 ####Opschorten en terugvorderen rijksbijdrage educatie
 
+### Hoofdstuk  11a  
+
+####Experimenten
+
+### Artikel  11a.1  
+
+####Ruimte voor innovatie
+
+1.  Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het beroepsonderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van: 
+
+– titel 2 van hoofdstuk 2,  
+
+– hoofdstuk 6, en  
+
+– hoofdstuk 7.     
+2.  In geval van toepassing van het eerste lid worden bij algemene maatregel van bestuur in ieder geval bepaald: 
+
+a. het doel van het experiment,  
+
+b. op welke wijze van welke artikelen van de in het eerste lid genoemde hoofdstukken, titels of paragrafen wordt afgeweken,  
+
+c. de duur van het experiment, en  
+
+d. op welke wijze en aan de hand van welke criteria de met het experiment beoogde effecten worden geëvalueerd.   De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van een experiment.   
+4.  Een experiment duurt ten hoogste zes jaar. Indien, voordat een experiment is afgelopen, een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.   
+5.  Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.   
+6.  Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, kan bij wijze van experiment tevens worden afgeweken van: 
+
+a. [artikel 1 van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md);  
+
+b. [artikel 1 de Les- en cursusgeldwet](../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md);  
+
+c. [artikel 1.1 van de Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md);  
+
+d. [artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).     
+7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband tussen een instelling en een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of een instelling als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij samenwerking met een school als bedoeld in de Wet op het voortgezet onderwijs kan voor die school worden afgeweken van [titel II, afdeling I, hoofdstuk I](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en van [titel III, afdeling II, van die wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de Wet op het voortgezet onderwijs onderscheidenlijk de Wet op het hoger onderwijs en wetenschappelijk onderzoek vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
+
 ### Hoofdstuk  12  
 
 ####Overgangs-, invoerings- en slotbepalingen
@@ -2609,58 +2720,6 @@ Indien de uitspraak op een beroep als bedoeld in artikel 10.1 strekt tot ondersc
 ### Titel  1a  
 
 ####Bepalingen met betrekking tot experimentele opleidingen
-
-### Artikel  12.1a.1  
-
-####Bekostiging van experimentele opleidingen
-
-1.  Met het oog op de ontwikkeling van nieuwe kwalificaties en de daarop gerichte opleidingen kan Onze Minister op aanvraag van het bevoegd gezag van een instelling als bedoeld in artikel 1.1.1, onderdeel b, een instituut als bedoeld in artikel 12.3.8 of een hogeschool als bedoeld in artikel 12.3.9 besluiten dat een beroepsopleiding waarvoor de eindtermen worden voorbereid of met toepassing van artikel 7.2.4, lid 3a, of [artikel 17 van de Regeling subsidiëring proeftuinen herontwerp beroepsonderwijs studiejaar 2004–2005](../../../../../../ministeriele-regeling/regeling/subsidiëring/proeftuinen/herontwerp/beroepsonderwijs/studiejaar/etc/BWBR0017157/README.md) zijn vastgesteld, voor bekostiging overeenkomstig hoofdstuk 2, titel 2, paragraaf 1 in aanmerking komt. Onze Minister bepaalt de aanvang en het einde van de bekostiging en de aanvullende voorwaarden voor bekostiging, die in elk geval betrekking hebben op de regeling die de instelling treft om de belangen van de deelnemers te waarborgen.   
-2.  Bij de aanvraag, bedoeld in het eerste lid, vermeldt het bevoegd gezag in elk geval 
-
-1°. de naam en de studielast van de opleiding,  
-
-2°. de leerweg of leerwegen waarin de opleiding wordt verzorgd,  
-
-3°. indien beschikbaar, de code waarmee het geheel van de desbetreffende eindtermen wordt aangeduid en de code waarmee de deelkwalificaties van de opleiding worden aangeduid,  
-
-4°. of het een opleiding betreft die is gericht op een bepaald beroep waarvoor bij of krachtens de wet vereisten zijn vastgesteld en  
-
-5°. een voorstel voor de regeling, bedoeld in het eerste lid, laatste volzin.     
-3.  De aanvraag, bedoeld in het eerste lid, geldt mede als aanmelding voor registratie in het Centraal register. Indien Onze Minister de aanvraag inwilligt en de eindtermen zijn vastgesteld, registreert hij bij de eerstvolgende gelegenheid daartoe de in het tweede lid, onder 1° tot en met 4°, genoemde gegevens in het Centraal register.   
-4.  De bekostiging op grond van het eerste lid eindigt op het door Onze Minister in de bekostigingsbeschikking bepaalde tijdstip of, indien dat eerder is, zodra de desbetreffende opleiding wordt bekostigd op grond van artikel 2.1.1, eerste lid. Bij niet nakoming van de voorwaarden, bedoeld in het eerste lid, kan Onze Minister onverminderd artikel 11.1 bepalen dat de bekostiging met ingang van een eerder tijdstip dan bedoeld in de eerste volzin eindigt.   
-5.  Artikel 1.3.1, vierde lid, is van overeenkomstige toepassing.   
-6.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de toepassing van het eerste tot en met vijfde lid.   
-
-### Artikel  12.1a.2  
-
-####Erkenning van experimentele opleidingen
-
-1.  Met het oog op de ontwikkeling van nieuwe kwalificaties en de daarop gerichte opleidingen kan Onze Minister op aanvraag van het bevoegd gezag van een andere instelling dan bedoeld in artikel 1.1.1, onderdeel b, of van een instelling besluiten dat aan de met goed gevolg afgelegde examens of onderdelen van examens van opleidingen waarvoor de eindtermen zijn vastgesteld met toepassing van artikel 7.2.4, lid 3a, of [artikel 17 van de Regeling subsidiëring proeftuinen herontwerp beroepsonderwijs studiejaar 2004–2005](../../../../../../ministeriele-regeling/regeling/subsidiëring/proeftuinen/herontwerp/beroepsonderwijs/studiejaar/etc/BWBR0017157/README.md), een diploma of certificaat als bedoeld in artikel 7.4.6 is verbonden. Voorwaarde voor de toepassing van de eerste volzin is dat de desbetreffende instelling de voorschriften, bedoeld in artikel 1.4.1, eerste lid, in acht neemt. Onze Minister bepaalt de aanvang en het einde van de erkenning en de aanvullende voorwaarden voor erkenning, die in elk geval betrekking hebben op de regeling die de instelling treft om de belangen van de deelnemers te waarborgen.   
-2.  Artikel 1.4.1, tweede tot en met vijfde lid, en artikel 12.1a.1, tweede lid, zijn van overeenkomstige toepassing op de aanvragen, bedoeld in het eerste lid. In aanvulling op de gegevens, bedoeld in artikel 12.1a.1, tweede lid, verschaft het bevoegd gezag van een niet uit ’s Rijks kas bekostigde instelling bij de aanvraag tevens de gegevens waaruit blijkt dat het onderwijs van voldoende kwaliteit is of zal zijn en dat wordt voldaan aan de voorschriften, bedoeld in artikel 1.4.1, eerste lid. De aanvraag, bedoeld in het eerste lid, geldt mede als aanmelding voor registratie in het Centraal register. Indien Onze Minister de aanvraag inwilligt en de eindtermen zijn vastgesteld, registreert hij bij de eerstvolgende gelegenheid daartoe de in artikel 12.1a.1, tweede lid, onder 1° tot en met 4°, genoemde gegevens in het Centraal register.   
-3.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de toepassing van het eerste en tweede lid.   
-4.  Voor de toepassing van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) en de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) wordt een opleiding als bedoeld in het eerste lid gelijkgesteld met een opleiding als bedoeld in artikel 1.4.1.   
-
-### Artikel  12.1a.3  
-
-####Voortzetting bekostiging proeftuinen voor cohort 2004–2005
-
-De opleidingen die op basis van de [Regeling subsidiëring proeftuinen herontwerp beroepsonderwijs studiejaar 2004–2005](../../../../../../ministeriele-regeling/regeling/subsidiëring/proeftuinen/herontwerp/beroepsonderwijs/studiejaar/etc/BWBR0017157/README.md) voor bekostiging in aanmerking zijn gebracht, gelden met ingang van het studiejaar 2005–2006 voor de toepassing van deze wet als opleidingen die op basis van artikel 12.1a.1, eerste lid, voor bekostiging in aanmerking zijn gebracht voor zover het deelnemers betreft die in het studiejaar 2004–2005 reeds voor de desbetreffende opleiding waren ingeschreven.  
-
-### Artikel  12.1a.4  
-
-####Evaluatiebepaling
-
-Onze Minister zendt voor 1 oktober 2007 aan de Tweede Kamer der Staten-Generaal een door een onafhankelijke organisatie op te stellen verslag over de doeltreffendheid en de effecten van de opleidingen, bedoeld in de artikelen 12.1a.1 tot en met 12.1a.3.  
-
-### Artikel  12.1a.5  
-
-####Vervallen van experimenteerbepalingen
-
-De artikelen 1.4.1, lid 5a, 2.1.1, lid 2, en de aanduiding van het eerste lid, 6.4.2, lid 6a, 7.2.4, lid 3a, 7.4.8, lid 1a, 7.4.9, tweede volzin, 8.1.3, lid 3a, 12.1a.1 en 12.1a.2 vervallen met ingang van 1 augustus 2012, met dien verstande dat 
-
-a. zij van toepassing blijven op opleidingen die voor die datum op basis van artikel 12.1a.1, eerste lid, voor bekostiging in aanmerking zijn gebracht of op basis van artikel 12.1a.2, eerste lid, zijn erkend en  
-
-b. deelnemers aan een opleiding die op basis van artikel 12.1a.1, eerste lid, voor bekostiging in aanmerking is gebracht, onverminderd de overige eisen kunnen worden meegeteld voor de berekening van de rijksbijdrage als zij op de desbetreffende teldatum waren ingeschreven voor die opleiding.    
 
 ### Titel  2  
 

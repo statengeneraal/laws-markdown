@@ -20,7 +20,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder: *beroepsbeg
 
 2. wat een bijzondere instelling betreft: de natuurlijke persoon of het bestuur;  
 
-3. wat een exameninstelling als bedoeld in artikel 1.6.1 betreft: het bestuur van de rechtspersoon waarvan de instelling uitgaat;   *bijzondere instelling*: een instelling in stand gehouden door een natuurlijke persoon of een privaatrechtelijke rechtspersoon; *Centraal register*: het Centraal register beroepsopleidingen BES, bedoeld in artikel 6.1.1, eerste lid; *deelkwalificatie*: een deelkwalificatie als bedoeld in artikel 7.2.3; *deelnemer*: een deelnemer als bedoeld in artikel 8.1.1, eerste lid, eerste volzin; *deeltijdse beroepsopleiding*: een beroepsopleiding als bedoeld in artikel 7.2.6, vijfde lid; *deskundige*: een deskundige als bedoeld in [artikel 121, zesde lid, van Boek 2, van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md); *educatie*: onderwijs als bedoeld in artikel 1.2.1, eerste lid; *eindtermen*: de eindtermen, bedoeld in artikel 7.1.3; *exameninstelling*: een instelling als bedoeld in artikel 1.6.1; *examinering*: het nemen van beslissingen over inhoud en niveau van examens van een beroepsopleiding in relatie tot de eindtermen, procedures en voorwaarden waaronder examens worden afgenomen, alsmede het vaststellen van de uitslag van examens; *expertisecentrum onderwijszorg*: de rechtspersoon, bedoeld in artikel 3.4, eerste lid; *inspectie*: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md); *instelling*: een organisatorische eenheid die opleidingen educatie of opleidingen beroepsonderwijs verzorgt; *leerlingen*: leerlingen als bedoeld in de [WPO BES](../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) en [WVO BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md); *leerweg*: een leerweg als bedoeld in artikel 7.2.2, tweede lid; *onderwijs*: educatie en beroepsonderwijs; *Onze Minister*: Onze Minister van Onderwijs, Cultuur en Wetenschap; *openbaar lichaam*: het openbaar lichaam Bonaire, Sint Eustatius of Saba; *openbare instelling*: een instelling in stand gehouden door een openbaar lichaam; *opleiding educatie*: een opleiding als bedoeld in artikel 7.3.1, eerste lid; *persoonsgebonden nummer BES*: het administratienummer van de deelnemer, dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in artikel 8.1.3, vierde lid; *raad*: Raad onderwijs arbeidsmarkt als bedoeld in artikel 1.5.1, eerste lid; *studiejaar*: het tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daarop volgend jaar; *voltijdse beroepsopleiding*: een beroepsopleiding als bedoeld in artikel 7.2.6, derde lid; *volwassene*: een in Nederland woonachtige van 18 jaren of ouder.  
+3. wat een exameninstelling als bedoeld in artikel 1.6.1 betreft: het bestuur van de rechtspersoon waarvan de instelling uitgaat;   *bijzondere instelling*: een instelling in stand gehouden door een natuurlijke persoon of een privaatrechtelijke rechtspersoon; *Centraal register*: het Centraal register beroepsopleidingen BES, bedoeld in artikel 6.1.1, eerste lid; *deelnemer*: een deelnemer als bedoeld in artikel 8.1.1, eerste lid, eerste volzin; *deeltijdse beroepsopleiding*: een beroepsopleiding als bedoeld in artikel 7.2.6, vijfde lid; *deskundige*: een deskundige als bedoeld in [artikel 121, zesde lid, van Boek 2, van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md); *educatie*: onderwijs als bedoeld in artikel 1.2.1, eerste lid; *eindtermen*: de eindtermen, bedoeld in artikel 7.3.2; *exameninstelling*: een instelling als bedoeld in artikel 1.6.1; *examinering*: het nemen van beslissingen over inhoud en niveau van examens van een beroepsopleiding in relatie tot de eindtermen, procedures en voorwaarden waaronder examens worden afgenomen, alsmede het vaststellen van de uitslag van examens; *expertisecentrum onderwijszorg*: de rechtspersoon, bedoeld in artikel 3.4, eerste lid; *inspectie*: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md); *instelling*: een organisatorische eenheid die opleidingen educatie of opleidingen beroepsonderwijs verzorgt; *kwalificatie:* de kwalificatie, bedoeld in artikel 7.1.3; *kwalificatiedossier:* een document waarin een of meer kwalificaties zijn beschreven; *leerlingen*: leerlingen als bedoeld in de [WPO BES](../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) en [WVO BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md); *leerweg*: een leerweg als bedoeld in artikel 7.2.2, tweede lid; *onderwijs*: educatie en beroepsonderwijs; *Onze Minister*: Onze Minister van Onderwijs, Cultuur en Wetenschap; *openbaar lichaam*: het openbaar lichaam Bonaire, Sint Eustatius of Saba; *openbare instelling*: een instelling in stand gehouden door een openbaar lichaam; *opleiding educatie*: een opleiding als bedoeld in artikel 7.3.1, eerste lid; *opleidingsdomein BES:* een samenhangend geheel van kwalificaties die zijn gericht op en van belang zijn voor eenzelfde bedrijfstak of groep van bedrijfstakken; *persoonsgebonden nummer BES*: het administratienummer van de deelnemer, dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in artikel 8.1.3, vierde lid; *raad*: Raad onderwijs arbeidsmarkt als bedoeld in artikel 1.5.1, eerste lid; *studiejaar*: het tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daarop volgend jaar; *voltijdse beroepsopleiding*: een beroepsopleiding als bedoeld in artikel 7.2.6, derde lid; *volwassene*: een in Nederland woonachtige van 18 jaren of ouder.  
 
 ### Artikel  1.1.2  
 
@@ -122,7 +122,7 @@ b. een privaatrechtelijke rechtspersoon.
 
 ####Erkenning beroepsopleidingen
 
-1.  Onze Minister kan op aanvraag van het bevoegd gezag een beroepsopleiding erkennen.   
+1.  Onze Minister kan op aanvraag van het bevoegd gezag een beroepsopleiding erkennen indien de kwalificatie waarop de beroepsopleiding is gebaseerd, is opgenomen in de ministeriële regeling, bedoeld in artikel 7.2.4, eerste lid.   
 2.  Erkenning houdt in dat aan de met goed gevolg afgelegde examens of onderdelen van examens van die opleiding een diploma of certificaat als bedoeld in artikel 7.4.8 is verbonden.   
 3.  Voorwaarde voor erkenning is dat de desbetreffende instelling voor die opleiding in acht neemt hetgeen bij of krachtens deze wet is bepaald ten aanzien van: 
 
@@ -826,6 +826,19 @@ b. niet of niet meer wordt voldaan aan de voorwaarden, bedoeld in artikel 1.4.2,
 3.  Een beschikking op grond van het tweede lid houdt in dat ten aanzien van het desbetreffende onderwijs aan de examens of onderdelen daarvan geen diploma of certificaat als bedoeld in artikel 7.4.8 meer is verbonden.   
 4.  Onze Minister maakt de ontneming van rechten, bedoeld in dit artikel, openbaar.   
 
+### Artikel  6.2.2a  
+
+####Ontneming recht op examinering educatie; waarschuwing
+
+1.  Onze Minister kan aan een instelling het recht op examinering van een opleiding educatie als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, ontnemen, indien 
+
+a. de kwaliteit van de examens van die opleiding langer dan één jaar onvoldoende is geweest, of  
+
+b. niet of niet meer wordt voldaan aan hetgeen bij of krachtens deze wet is bepaald ten aanzien van de examens.     
+2.  Bij de ontneming van het recht, bedoeld in het eerste lid, wordt bepaald met ingang van welk tijdstip dit geschiedt. Onze Minister maakt de ontneming van het recht, bedoeld in het eerste lid, openbaar.   
+3.  Voordat Onze Minister een besluit als bedoeld in het eerste lid neemt, geeft hij het bevoegd gezag een waarschuwing op grond van zijn bevindingen over de kwaliteit van de examinering, onder bepaling van de termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven. Onze Minister maakt de waarschuwing openbaar.   
+4.  Het bevoegd gezag kan niet eerder dan na verloop van drie studiejaren na het besluit tot ontneming, bedoeld in het eerste lid, het recht op examinering opnieuw verkrijgen. Artikel 1.4.2 is van overeenkomstige toepassing.   
+
 ### Artikel  6.2.3  
 
 ####Waarschuwing
@@ -891,17 +904,18 @@ e. de beschikbaarheid van lesmateriaal in de desbetreffende instructietaal.
 
 ### Artikel  7.1.2  
 
-####Opleidingen en onderwijseenheden
+####Opleidingen
 
-1.  De instelling biedt het onderwijs aan in de vorm van opleidingen. Voor zover het een beroepsopleiding betreft, wordt deze opleiding door de instelling in het maatschappelijk verkeer aangeduid met de naam waaronder deze opleiding is vermeld in het Centraal register.   
-2.  Een opleiding is een samenhangend geheel van onderwijseenheden, gericht op de verwezenlijking van eindtermen dan wel gericht op het behalen van een diploma, gelijkwaardig aan een diploma van scholen, bedoeld in de [artikelen 13 tot en met 15 van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of onderdelen van een dergelijk diploma.   
-3.  Elke opleiding wordt afgesloten met een examen. Elke onderwijseenheid die, onderscheidenlijk elk samenstel van onderwijseenheden dat leidt tot een deelkwalificatie als bedoeld in artikel 7.2.3 wordt afgesloten met een toets.   
+1.  De instelling biedt het onderwijs aan in de vorm van beroepsopleidingen of opleidingen educatie. Een beroepsopleiding wordt door de instelling in het maatschappelijk verkeer aangeduid met de naam van de kwalificatie waarop zij is gericht of voorzover het gaat om deelnemers die ingeschreven zijn of zullen worden voor een opleidingsdomein BES of een kwalificatiedossier, de naam van dat opleidingsdomein BES of dat kwalificatiedossier.   
+2.  Een beroepsopleiding is een onderwijstraject dat voor een deelnemer is ingericht overeenkomstig de eisen van hoofdstuk 7, titel 2, en dat is gericht op het behalen van een kwalificatie in het beroepsonderwijs, ten bewijze waarvan een diploma wordt uitgereikt.   
+3.  Een opleiding educatie is een samenhangend geheel van onderwijseenheden, gericht op de verwezenlijking van eindtermen of het behalen van een diploma, gelijkwaardig aan een diploma van scholen, bedoeld in de [artikelen 13 tot en met 15 van de Wet op het voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of onderdelen van een dergelijk diploma.   
+4.  Beroepsopleidingen worden afgesloten met een examen. Opleidingen educatie kunnen worden afgesloten met een examen.   
 
 ### Artikel  7.1.3  
 
-####Eindtermen
+####Kwalificatie
 
-Eindtermen zijn als zodanig omschreven kwaliteiten op het gebied van kennis, inzicht, vaardigheden en in voorkomende gevallen beroepshoudingen, waarover degene die de opleiding voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken, en die in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs.  
+Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een beroepsopleiding kwalificeren voor het functioneren in een beroep of een groep van samenhangende beroepen, in het vervolgonderwijs en als burger en dat is beschreven binnen een kwalificatiedossier.  
 
 ### Titel  2  
 
@@ -919,13 +933,13 @@ Deze titel is van toepassing op beroepsopleidingen.
 
 ### §  2  
 
-####Beroepsopleidingen en eindtermen beroepsopleidingen
+####Beroepsopleidingen en kwalificatiestructuur
 
 ### Artikel  7.2.2  
 
 ####Onderscheid beroepsopleidingen; niveau; leerwegen
 
-1.  De volgende beroepsopleidingen worden onderscheiden: 
+1.  De volgende soorten beroepsopleidingen worden onderscheiden: 
 
 a. de assistentopleiding,  
 
@@ -941,20 +955,22 @@ e. de specialistenopleiding.
 a. een beroepsopleidende leerweg, omvattend een praktijkdeel van ten minste 20% en minder dan 60% van de studieduur, of  
 
 b. een beroepsbegeleidende leerweg, omvattend een praktijkdeel van 60% of meer van de studieduur.     
-3.  De assistentopleidingen richten zich op de kwalificatie voor het eerste niveau van beroepsuitoefening. De basisberoepsopleidingen richten zich op het tweede, de vakopleidingen op het derde en de middenkader- en specialistenopleidingen op het vierde en hoogste niveau van beroepsuitoefening.   
-4.  Aan de in het eerste lid bedoelde opleidingen kunnen ten behoeve van individuele deelnemers voorbereidende en ondersteunende activiteiten worden toegevoegd ter bevordering van het kunnen instromen in en met gunstig gevolg voltooien van de opleiding. Deze activiteiten maken geen deel uit van de opleiding. Voorbereidende en ondersteunende activiteiten zijn bestemd voor deelnemers wier vooropleiding naar het oordeel van het bevoegd gezag onvoldoende uitzicht biedt op verwezenlijking van de eindtermen van de opleiding binnen redelijke tijd.   
+3.  De assistentopleidingen richten zich op de kwalificatie voor het eerste niveau van beroepsuitoefening of voor de entree op de arbeidsmarkt. De basisberoepsopleidingen richten zich op de kwalificatie voor het tweede, de vakopleidingen op de kwalificatie voor het derde en de middenkader en specialistenopleidingen op de kwalificatie voor het vierde en hoogste niveau van beroepsuitoefening.   
+4.  Aan de in het eerste lid bedoelde opleidingen kunnen ten behoeve van individuele deelnemers voorbereidende en ondersteunende activiteiten worden toegevoegd ter bevordering van het kunnen instromen in en met gunstig gevolg voltooien van de opleiding. Deze activiteiten maken geen deel uit van de opleiding. Voorbereidende en ondersteunende activiteiten zijn bestemd voor deelnemers wier vooropleiding naar het oordeel van het bevoegd gezag onvoldoende uitzicht biedt op het binnen een redelijke tijd behalen van de kwalificatie waarvoor de deelnemer en de instelling een onderwijsovereenkomst hebben gesloten.   
 
 ### Artikel  7.2.3  
 
-####Deelkwalificaties
+####Certificaten
 
-Eindtermen voor beroepsopleidingen zijn onderverdeeld in deelkwalificaties. Een deelkwalificatie is een combinatie van eindtermen, vastgesteld voor een bepaalde beroepsopleiding, die in het licht van de uitoefening van het beroep waarop de opleiding is gericht een zelfstandige betekenis hebben.  
+1.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat aan onderdelen van een kwalificatie of kwalificaties een certificaat is verbonden.   
+2.  Artikel 7.4.8 is van overeenkomstige toepassing op certificaten.   
 
 ### Artikel  7.2.4  
 
 ####Kwalificatiestructuur
 
-Bij ministeriële regeling kunnen opleidingen uit de kwalificatiestructuur voor het beroepsonderwijs, bedoeld in [artikel 7.2.4, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), aanwijzen die in de openbare lichamen kunnen worden verzorgd.  
+1.  Bij ministeriële regeling wordt vastgesteld voor welke kwalificaties uit de kwalificatiedossiers, bedoeld in [artikel 7.2.4, tweede lid, onder a, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), beroepsopleidingen verzorgd kunnen worden.   
+2.  Bij ministeriële regeling worden op voorstel van de instellingen opleidingsdomeinen BES vastgesteld.   
 
 ### Artikel  7.2.5  
 
@@ -962,7 +978,7 @@ Bij ministeriële regeling kunnen opleidingen uit de kwalificatiestructuur voor 
 
 Indien voor een beroep bij of krachtens een wet, verdrag of bindend besluit van een volkenrechtelijke organisatie, vereisten zijn vastgesteld over de kwaliteiten op het gebied van kennis, inzicht, vaardigheden of beroepshoudingen waarover degenen die een opleiding gericht op dat beroep voltooien, moeten beschikken, of over de examinering bij de desbetreffende beroepsopleiding: 
 
-a. neemt Onze Minister deze vereisten in acht bij de vaststelling van de eindtermen en bij de vaststelling van de standaarden, bedoeld in artikel 7.4.5, en  
+a. neemt Onze Minister deze vereisten in acht bij de vaststelling van de standaarden, bedoeld in artikel 7.4.5, en  
 
 b. draagt de instelling er bij het aanbieden van een beroepsopleiding zorg voor dat degenen die deze opleiding volgen, ten minste in de gelegenheid zijn aan die vereisten te voldoen, en dat bij de examinering, zo nodig in afwijking van titel 4 van dit hoofdstuk, aan die vereisten wordt voldaan.    
 
@@ -970,7 +986,7 @@ b. draagt de instelling er bij het aanbieden van een beroepsopleiding zorg voor 
 
 ####Inrichting opleidingen
 
-1.  Het bevoegd gezag draagt er zorg voor dat de opleidingen zodanig zijn ingericht dat de deelnemers de eindtermen binnen de vastgestelde studieduur kunnen bereiken.   
+1.  Het bevoegd gezag draagt er zorg voor dat beroepsopleidingen zodanig zijn ingericht dat deelnemers, ongeacht of zij eerst worden ingeschreven voor een opleidingsdomein BES of voor een kwalificatiedossier, de kwalificatie binnen de vastgestelde studieduur kunnen bereiken.   
 2.  Beroepsopleidingen zijn voltijds of deeltijds dan wel zowel voltijds als deeltijds ingericht.   
 3.  Voltijdse beroepsopleidingen zijn opleidingen in de beroepsopleidende leerweg waarvan elk volledig studiejaar een studielast van 1 600 uren of meer heeft, en waarvoor het bevoegd gezag voor de deelnemer in instellingstijd een onderwijsprogramma verzorgt dat ten minste 850 uren per volledig studiejaar omvat. Indien de door Onze Minister vastgestelde studielast ertoe leidt dat in het laatste studiejaar de duur van de opleiding gerekend vanaf 1 september en naar boven afgerond op hele maanden minder is dan 10 maanden, dan wordt de norm van 850 uren in dat jaar evenredig verlaagd.   
 4.  Het in instellingstijd verzorgde onderwijsprogramma, bedoeld in het derde lid, omvat alle onderwijsactiviteiten, gericht op het bereiken van de onderwijs- en vormingsdoelen van de opleiding, waaraan door de deelnemer wordt deelgenomen onder verantwoordelijkheid en toezicht van het bevoegd gezag.   
@@ -980,17 +996,17 @@ b. draagt de instelling er bij het aanbieden van een beroepsopleiding zorg voor 
 
 ####De beroepspraktijkvorming
 
-1.  Van elke opleiding maakt onderricht in de praktijk van het beroep deel uit.   
+1.  Van elke opleiding maakt onderricht in de praktijk van het beroep deel uit. De beroepspraktijkvorming kan voor een deel plaatsvinden in de periode waarin de deelnemer is ingeschreven voor een opleidingsdomein BES of een kwalificatiedossier.   
 2.  De beroepspraktijkvorming wordt verzorgd op grondslag van een overeenkomst inzake de beroepspraktijkvorming, gesloten door de in artikel 7.2.8 genoemde partijen. De overeenkomst regelt de rechten en verplichtingen van partijen en omvat met inachtneming van het dienaangaande bij of krachtens deze wet bepaalde, ten minste bepalingen over: 
 
 a. de aanvangsdatum en einddatum van de beroepspraktijkvorming, alsmede het aantal te volgen praktijkuren per jaar,  
 
 b. de begeleiding van de deelnemer,  
 
-c. dat deel van de eindtermen dat de deelnemer tijdens de beroepspraktijkvorming dient te realiseren en de beoordeling daarvan, en  
+c. dat deel van de kwalificatie dat de deelnemer tijdens de beroepspraktijkvorming dient te behalen en de beoordeling daarvan, en  
 
 d. de gevallen waarin en de wijze waarop de overeenkomst voortijdig kan worden ontbonden.     
-3.  Het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt, draagt zorg voor de begeleiding van de deelnemers binnen het bedrijf. Het bevoegd gezag beoordeelt of de deelnemer het in het tweede lid, onderdeel c, bedoelde deel van de eindtermen heeft gerealiseerd. Het bevoegd gezag betrekt bij die beoordeling het oordeel van het bedrijf onderscheidenlijk de organisatie, met inachtneming van de desbetreffende in de onderwijs- en examenregeling op te nemen regels.   
+3.  Het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt, draagt zorg voor de begeleiding van de deelnemers binnen het bedrijf. Het bevoegd gezag beoordeelt of de deelnemer het in het tweede lid, onderdeel c, bedoelde deel van de kwalificatie heeft behaald. Het bevoegd gezag betrekt bij die beoordeling het oordeel van het bedrijf onderscheidenlijk de organisatie, met inachtneming van de desbetreffende in de onderwijs- en examenregeling op te nemen regels.   
 
 ### Artikel  7.2.8  
 
@@ -1067,16 +1083,14 @@ Deze paragraaf is van toepassing op beroepsopleidingen en opleidingen educatie, 
 ####Algemene bepalingen inzake examens
 
 1.  Het bevoegd gezag geeft de deelnemers de gelegenheid een examen af te leggen.   
-2.  Het examen omvat een onderzoek naar de kennis, het inzicht, de vaardigheden en, in voorkomende gevallen, de beroepshoudingen die de examinandus zich bij voltooiing van de opleiding moet hebben eigen gemaakt, alsmede de beoordeling van de uitkomsten van dat onderzoek aan de hand van de eindtermen.   
-3.  Het examen bestaat uit afzonderlijke onderdelen. Het examen van een beroepsopleiding is met gunstig gevolg afgelegd indien alle toetsen van die opleiding met gunstig gevolg zijn afgelegd, onverminderd artikel 7.4.3, eerste lid.   
+2.  Het examen omvat een onderzoek naar de kennis, het inzicht, de vaardigheden en, in voorkomende gevallen, de beroepshoudingen die de examinandus zich bij voltooiing van de opleiding moet hebben eigen gemaakt, alsmede de beoordeling van de uitkomsten van dat onderzoek aan de hand van de eindtermen of de kwalificatie-eisen in het kwalificatiedossier.   
+3.  Het examen bestaat uit afzonderlijke onderdelen. Het examen van een beroepsopleiding is met gunstig gevolg afgelegd indien alle toetsen van die opleiding met gunstig gevolg zijn afgelegd, onverminderd artikel 7.4.3.   
 
 ### Artikel  7.4.3  
 
 ####Examens beroepsopleidingen
 
-1.  Het examen van een beroepsopleiding is niet met gunstig gevolg afgelegd dan na een gunstige beoordeling als bedoeld in artikel 7.2.7, derde lid.   
-2.  Het examen van een opleiding bestaat uit onderdelen die overeenkomen met de deelkwalificaties.   
-3.  Deelnemers die in het bezit zijn van een certificaat van een andere instelling zijn vrijgesteld van het daarmee overeenkomende examenonderdeel.   
+Het examen van een beroepsopleiding is eerst dan met goed gevolg afgesloten wanneer zowel de beroepspraktijkvorming als het overige deel van de beroepsopleiding met goed gevolg is afgesloten.  
 
 ### Artikel  7.4.4  
 
@@ -1090,7 +1104,7 @@ Bij algemene maatregel van bestuur kunnen onderdelen van een beroepsopleiding wo
 
 Bij ministeriële regeling worden standaarden voor de kwaliteit van de examens van de beroepsopleidingen vastgesteld die betrekking hebben op: 
 
-a. de inhoud en het niveau van de examens, in relatie tot de eindtermen, bedoeld in artikel 7.2.3, en  
+a. de inhoud en het niveau van de examens, in relatie tot de kwalificatie-eisen in het kwalificatie-dossier, bedoeld in artikel 7.2.4, en  
 
 b. de procedures rond de examens en de voorwaarden waaronder examens worden afgenomen.    
 
@@ -1111,12 +1125,10 @@ b. de procedures rond de examens en de voorwaarden waaronder examens worden afge
 
 ### Artikel  7.4.8  
 
-####Bewijsstukken van afgelegde toetsen, examenonderdelen en examens
+####Diploma’s
 
-1.  Ten bewijze dat een toets of examenonderdeel met goed gevolg is afgelegd, reikt de examencommissie een bewijsstuk uit. Indien het examenonderdeel een deelkwalificatie betreft, reikt de examencommissie een certificaat uit.   
-2.  Ten bewijze dat een examen met goed gevolg is afgelegd, reikt de examencommissie een diploma uit. Het examen van beroepsopleidingen is eerst dan met goed gevolg afgesloten wanneer zowel de beroepspraktijkvorming als het overige deel van het onderricht met goed gevolg zijn afgesloten.   
-3.  De bewijsstukken, bedoeld in het eerste lid, vermelden de naam van de instelling waaraan de deelnemer is ingeschreven, voorzover zij betrekking hebben op een beroepsopleiding.   
-4.  Onze Minister kan modellen voor diploma's en certificaten vaststellen.   
+1.  Ten bewijze dat een examen met goed gevolg is afgelegd, reikt de examencommissie een diploma uit.   
+2.  Bij ministeriële regeling worden modellen en technische veiligheidseisen voor het diploma en de resultatenlijst van een beroepsopleiding vastgesteld.   
 
 ### Artikel  7.4.9  
 
@@ -1237,11 +1249,13 @@ c. vreemdeling is, 18 jaar of ouder is op de eerste dag waarop de opleiding of h
 
 d. vreemdeling is, niet meer voldoet aan een van de voorwaarden genoemd onder b of c, en eerder in overeenstemming met een van die onderdelen is ingeschreven voor een opleiding of het onderdeel van de opleiding van een instelling, welke opleiding of welk onderdeel van de opleiding nog steeds wordt gevolgd en nog niet is voltooid.     
 3.  Indien na de inschrijving voor de opleiding of een onderdeel van de opleiding blijkt dat deze op welke grond dan ook niet in overeenstemming met het tweede lid heeft plaatsgevonden, wordt de onderwijsovereenkomst, bedoeld in artikel 8.1.5, met onmiddellijke ingang ontbonden.   
-4.  De inschrijving geschiedt voor een opleiding, dan wel een onderdeel daarvan. Indien het verzoek om inschrijving betrekking heeft op een beroepsopleiding, wordt daarbij aangegeven op welke leerweg het verzoek van toepassing is. Tevens wordt bij de inschrijving vastgelegd of sprake is van inschrijving voor een voltijds of deeltijds opleidingstraject.   
+4.  De inschrijving geschiedt voor een opleiding of een onderdeel daarvan. In geval van een beroepsopleiding geschiedt de inschrijving voor een opleidingsdomein BES, een kwalificatiedossier, voor zover de daarin opgenomen kwalificaties zijn vermeld in de ministeriële regeling, bedoeld in artikel 7.2.4, eerste lid, of een kwalificatie. Bij de inschrijving voor een beroepsopleiding worden alle gegevens vermeld die het bevoegd gezag nodig heeft om te kunnen voldoen aan de verplichting, bedoeld in artikel 2.3.4, tweede lid.   
 5.  De inschrijving staat uitsluitend open voor degenen ten aanzien van wie het bevoegd gezag beslist dat zij tot de instelling worden toegelaten, onverminderd de vierde volzin van het eerste lid en het zevende. Het bevoegd gezag kan het nemen van de beslissing over de toelating opdragen aan een door hem in te stellen toelatingscommissie. Het bevoegd gezag regelt de bevoegdheden en de werkzaamheden van de toelatingscommissie.   
 6.  De toelating tot beroepsopleidingen staat voor zover het de beroepsbegeleidende leerweg betreft, uitsluitend open voor degenen voor wie de leerplicht, bedoeld in [paragraaf 2 van de Leerplichtwet BES](../../../../../../../wet-BES/leerplichtwet/bes/BWBR0028760/README.md), is geëindigd.   
 7.  In afwijking van het vijfde lid en met inachtneming van artikel 8.2.1 en het krachtens artikel 8.2.2 bepaalde doch onverminderd de vierde volzin van het eerste lid staat de inschrijving voor een assistentopleiding of basisberoepsopleiding als bedoeld in artikel 7.2.2, eerste lid open voor een ieder, met dien verstande dat het bevoegd gezag van een bijzondere instelling kan aangeven dat degenen die wensen te worden ingeschreven, geacht worden de grondslag en de doelstellingen van de instelling te respecteren. De inschrijving kan worden geweigerd dan wel ingetrokken indien de betrokkene de grondslag en de doelstellingen van de instelling niet respecteert. De inschrijving aan een bijzondere instelling kan eveneens worden geweigerd dan wel ingetrokken indien gegronde vrees bestaat dat de betrokkene van die inschrijving en de daaraan verbonden rechten misbruik zal maken door in ernstige mate afbreuk te doen aan de eigen aard van die instelling, dan wel indien is gebleken dat de betrokkene van die inschrijving en de daaraan verbonden rechten een dergelijk misbruik heeft gemaakt. De weigering dan wel intrekking van de inschrijving geschiedt schriftelijk en is met redenen omkleed. De inschrijving kan niet worden ingetrokken op grond van de tweede volzin indien voor betrokkene geen gelegenheid bestaat de opleiding aan een andere instelling te volgen.   
 8.  De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen.   
+9.  De inschrijving voor een opleidingsdomein BES kan uitsluitend geschieden voor een beroepsopleiding in de beroepsopleidende leerweg op het tweede, derde of vierde niveau, bedoeld in artikel 7.2.2, derde lid.   
+10.  Bij ministeriële regeling kan een maximum worden vastgesteld voor het percentage van de deelnemers in het beroepsonderwijs dat in een jaar kan worden ingeschreven voor een opleidingsdomein BES.   
 
 ### Artikel  8.1.2  
 
@@ -1250,6 +1264,13 @@ d. vreemdeling is, niet meer voldoet aan een van de voorwaarden genoemd onder b 
 1.  Het bevoegd gezag kan in afwijking van artikel 8.1.1, in gevallen als geregeld in en met inachtneming van [artikel 62 van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) ook tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school voor voortgezet onderwijs.   
 2.  Bij algemene maatregel van bestuur kunnen voorschriften worden vastgesteld over de verantwoording van de bedragen die het bevoegd gezag met toepassing van [artikel 172, zevende lid, van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) heeft ontvangen.   
 3.  Indien het bevoegd gezag van een school voor voortgezet onderwijs ter uitvoering van [artikel 62, eerste en tweede lid, van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, ook onderwijs wil kunnen laten volgen dat een instelling van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen van het derde lid, aanhef en onder a tot en met e, van dat artikel.   
+
+### Artikel  8.1.2a  
+
+####Samenwerking met onbekostigde VO-scholen
+
+1.  Het bevoegd gezag van een instelling die een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, verzorgt die is erkend op grond van artikel 1.4.2, kan, ten aanzien van genoemde opleiding, in afwijking van artikel 8.1.1, achtste lid, in gevallen als geregeld in en met inachtneming van de voorschriften gegeven bij of krachtens [artikel 114a van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een ingevolge [artikel 112 van de Wet voorgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) aangewezen school.   
+2.  Indien het bevoegd gezag van een ingevolge [artikel 112 van de Wet voorgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) aangewezen school ter uitvoering van [artikel 114a, eerste en tweede lid, van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, onderwijs wil kunnen laten volgen dat een instelling van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen, bedoeld in artikel 114a, derde lid, aanhef en onder a tot en met d, van de Wet voortgezet onderwijs BES.   
 
 ### Artikel  8.1.3  
 
@@ -1274,10 +1295,10 @@ d. vreemdeling is, niet meer voldoet aan een van de voorwaarden genoemd onder b 
 ####Onderwijsovereenkomst
 
 1.  Aan de inschrijving ligt een overeenkomst tussen het bevoegd gezag en de deelnemer ten grondslag.   
-2.  De overeenkomst wordt, overeenkomstig een door het bevoegd gezag vastgesteld model, schriftelijk aangegaan. De overeenkomst wordt gesloten voor de duur van de opleiding dan wel voor het deel van de opleiding waarop de inschrijving betrekking heeft.   
+2.  De overeenkomst wordt, overeenkomstig een door het bevoegd gezag vastgesteld model, schriftelijk aangegaan. De overeenkomst wordt gesloten voor de duur van de beroepsopleiding of een deel daarvan, de opleiding educatie of het deel van de opleiding educatie waarop de inschrijving betrekking heeft.   
 3.  De overeenkomst regelt de rechten en verplichtingen van partijen, daaronder begrepen die, welke voortvloeien uit de wet, en omvat ten minste bepalingen over: 
 
-a. de inhoud en inrichting van de opleiding, waaronder voor een beroepsopleiding begrepen het voltijdse of deeltijdse karakter en de leerweg, alsmede de examenvoorzieningen,  
+a. de inhoud en inrichting van een opleiding, waaronder voor een beroepsopleiding begrepen het voltijdse of deeltijdse karakter, de leerweg, de examenvoorzieningen en de kwalificatie, of, bij inschrijving voor een opleidingsdomein BES of een kwalificatiedossier, dat opleidingsdomein BES of dat kwalificatiedossier en het beoogde niveau van de te behalen kwalificatie,  
 
 b. de tijdvakken waarbinnen en, voor zover mogelijk, de locaties waar het onderwijs verzorgd wordt, en  
 

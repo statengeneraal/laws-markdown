@@ -311,7 +311,7 @@ a. ondernemingen die diensten verrichten welke de handel tussen lidstaten niet o
 b. ondernemingen waarvan de totale nettojaaromzet minder dan 40 miljoen heeft bedragen gedurende de twee boekjaren voorafgaande aan het boekjaar waarin de onderneming een bijzonder of uitsluitend recht heeft genoten dat overeenkomstig artikel 86, eerste lid, van het Verdrag is verleend of waarin zij is belast met het beheer van een dienst van algemeen economisch belang overeenkomstig artikel 86, tweede lid, van het Verdrag;  
 
 c. ondernemingen die voor een redelijke periode met het beheer van een dienst van algemeen economisch belang belast zijn overeenkomstig artikel 86, tweede lid, van het Verdrag, indien de overheidssteun in enigerlei vorm, waaronder een subsidie, ondersteuning of compensatie, die zij ontvangen, was vastgesteld ingevolge een open, doorzichtige en niet-discriminerende procedure.     
-2.  Voor de toepassing van het eerste lid, onderdeel b, wordt ten aanzien van openbare kredietinstellingen de nettojaaromzet vervangen door een balanstotaal van minder dan € 800 miljoen.   
+2.  Voor de toepassing van het eerste lid, onderdeel b, wordt ten aanzien van openbare banken de nettojaaromzet vervangen door een balanstotaal van minder dan € 800 miljoen.   
 3.  Het in het eerste lid, onderdeel b, en het in het tweede lid genoemde bedrag kunnen bij regeling van Onze Minister worden gewijzigd indien de wijziging voortvloeit uit een bindend besluit van een orgaan van de Europese Gemeenschappen.   
 
 ### Artikel  25e  
@@ -438,7 +438,7 @@ b. het direct of indirect verkrijgen van zeggenschap door
 
 1.  In afwijking van artikel 27 wordt niet als concentratie beschouwd: 
 
-a. het door kredietinstellingen, financiële instellingen of verzekeraars als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), tot wier normale werkzaamheden de verhandeling van effecten voor eigen rekening of voor rekening van derden behoort, tijdelijk houden van deelnemingen die zij in een onderneming hebben verworven ten einde deze deelnemingen weer te verkopen, mits zij de aan deze deelnemingen verbonden stemrechten niet uitoefenen om het marktgedrag van deze onderneming te bepalen, of zij deze stemrechten slechts uitoefenen om de verkoop van deze deelnemingen voor te bereiden, en deze verkoop plaatsvindt binnen een jaar na de verwerving;  
+a. het door banken, financiële instellingen of verzekeraars als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), tot wier normale werkzaamheden de verhandeling van effecten voor eigen rekening of voor rekening van derden behoort, tijdelijk houden van deelnemingen die zij in een onderneming hebben verworven ten einde deze deelnemingen weer te verkopen, mits zij de aan deze deelnemingen verbonden stemrechten niet uitoefenen om het marktgedrag van deze onderneming te bepalen, of zij deze stemrechten slechts uitoefenen om de verkoop van deze deelnemingen voor te bereiden, en deze verkoop plaatsvindt binnen een jaar na de verwerving;  
 
 b. het verkrijgen van zeggenschap door: 
 
@@ -497,7 +497,7 @@ b. rekening gehouden met de omzet die het resultaat is van de verkoop van produk
 
 ### Artikel  31  
 
-1.  Voor de toepassing van artikel 29, eerste lid, wordt ten aanzien van kredietinstellingen en financiële instellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de omzet vervangen door de som van de volgende, overeenkomstig de regels op grond van [artikel 417 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), op de winst- en verliesrekening over het voorafgaande boekjaar opgenomen baten: 
+1.  Voor de toepassing van artikel 29, eerste lid, wordt ten aanzien van banken en financiële instellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de omzet vervangen door de som van de volgende, overeenkomstig de regels op grond van [artikel 417 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), op de winst- en verliesrekening over het voorafgaande boekjaar opgenomen baten: 
 
 a. rentebaten en soortgelijke baten;  
 

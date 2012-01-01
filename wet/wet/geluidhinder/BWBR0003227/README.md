@@ -85,75 +85,9 @@ c. een snelheidsverhoging tot ten hoogste de maximumsnelheid, zoals die gold vó
 
 ####Toestellen
 
-### Artikel  2  
-
-1.  In het belang van het voorkomen of beperken van geluidhinder kunnen bij algemene maatregel van bestuur regels worden gesteld omtrent: 
-
-a. het vervaardigen, invoeren, in voorraad hebben, te koop aanbieden, afleveren of vervoeren van toestellen;  
-
-b. het gebruiken van toestellen, anders dan in particuliere huishoudens.     
-2.  Hiertoe kunnen behoren regels, inhoudende: 
-
-a. een verbod in het eerste lid genoemde handelingen, bij de maatregel aangewezen, met betrekking tot toestellen, behorende tot een bij de maatregel aangewezen categorie, te verrichten;  
-
-b. een verbod zulks te doen zonder vergunning, verleend door een bij de maatregel aangewezen orgaan;  
-
-c. een verbod zulks te doen indien de geluidproduktie van het toestel een hogere waarde heeft dan bij of krachtens de maatregel vastgesteld of het toestel anderszins niet voldoet aan de bij de maatregel gestelde eisen;  
-
-d. een verbod zulks te doen indien het toestel niet behoort tot een type dat bij een keuring, verricht aan de hand van de bij of krachtens de maatregel daartoe vastgestelde voorschriften, is goedgekeurd;  
-
-e. een verbod een toestel, behorende tot een bij de maatregel aangewezen categorie, te gebruiken indien niet het bewijs kan worden overgelegd dat het binnen een bij de maatregel bepaalde voorafgaande termijn bij een keuring, verricht aan de hand van de bij of krachtens de maatregel daartoe vastgestelde voorschriften, is goedgekeurd.     
-3.  In afwijking van het eerste lid kan het vaststellen van regels als in dat lid bedoeld ter uitvoering van voor Nederland verbindende verdragen en besluiten van volkenrechtelijke organisaties geschieden door Onze Minister in overeenstemming met Onze Ministers wie het mede aangaat. De artikelen 3, 4, 5, 6 en 7 zijn van toepassing op een ministeriële regeling die ingevolge dit lid wordt vastgesteld.   
-
-### Artikel  3  
-
-Een algemene maatregel van bestuur als bedoeld in artikel 2 kan, behoudens in geval van toepassing van artikel 2, tweede lid, onder *b*, tevens de verplichting inhouden te voldoen aan door bestuursorganen die bij de maatregel zijn aangewezen, omtrent onderwerpen die in de maatregel zijn geregeld, aan de betrokkene gestelde nadere eisen. Bij het stellen van zodanige eis wordt tevens het tijdstip bepaald waarop ten aanzien van die eis de verplichting ingaat.  
-
-### Artikel  4  
-
-In een algemene maatregel van bestuur waarbij regels van de in artikel 2, tweede lid, onder *a, b, c* of *d*, bedoelde strekking worden gesteld, worden tevens termijnen vastgesteld, tot het verstrijken waarvan die regels niet van toepassing zijn ten aanzien van toestellen die bij het in werking treden van de maatregel reeds vervaardigd en hier te lande aanwezig waren, en ten aanzien van toestellen, behorende tot een reeks die op dat tijdstip reeds hier te lande in produktie was genomen.  
-
-### Artikel  5  
-
-1.  Indien toepassing wordt gegeven aan artikel 2, tweede lid, onder b, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing op de voorbereiding van de beschikking op de aanvraag om een vergunning. [Artikel 2.26, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is van overeenkomstige toepassing.   
-2.  De vergunning kan slechts in het belang van het voorkomen of beperken van geluidhinder worden geweigerd.   
-3.  Aan een vergunning kunnen in het belang van het voorkomen of beperken van geluidhinder voorschriften worden verbonden. De voorschriften kunnen voor zover bij de maatregel niet anders is bepaald, de verplichting inhouden te voldoen aan door bestuursorganen die bij het voorschrift zijn aangewezen, in het belang van het voorkomen of beperken van geluidhinder gestelde nadere eisen. Bij het stellen van zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.   
-4.  Voor zover zulks bij algemene maatregel van bestuur is bepaald, kan de vergunning worden gewijzigd en ingetrokken.   
-5.  Intrekking kan slechts geschieden: 
-
-a. indien de vergunning niet wordt nageleefd, of  
-
-b. indien het toestel ontoelaatbare geluidhinder veroorzaakt en wijziging of aanvulling van de aan de vergunning verbonden voorschriften redelijkerwijs geen oplossing kan bieden.     
-6.  Op de voorbereiding van een wijziging van een vergunning of intrekking van een vergunning op de grond, bedoeld in het vijfde lid, onder b, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing. [Artikel 2.26, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is van overeenkomstige toepassing.   
-
-### Artikel  6  
-
-Indien toepassing wordt gegeven aan artikel 2, tweede lid, onder *d* of *e*, worden bij of krachtens de maatregel de instanties aangewezen, die de in die bepalingen bedoelde keuringen verrichten. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de wijze waarop die keuringen plaatshebben.  
-
-### Artikel  7  
-
-1.  Bij een algemene maatregel van bestuur als bedoeld in artikel 2 kunnen ter zake van de toepasselijkheid van daarbij gestelde regels beperkingen worden gesteld.   
-2.  Zodanige beperking kan onder meer inhouden: 
-
-a. dat de regel slechts geldt in de bij de maatregel aangewezen gebieden;  
-
-b. dat de regel niet geldt met betrekking tot inrichtingen, behorende tot een daartoe bij de maatregel aangewezen categorie.     
-
-### Artikel  8  
-
-Bij algemene maatregel van bestuur kan in het belang van het voorkomen of beperken van geluidhinder worden verboden toestellen, behorende tot een bij de maatregel aangewezen categorie, te verhandelen anders dan met inachtneming van de voorschriften, bij de maatregel gesteld met betrekking tot hun aanduiding of benaming. Artikel 2, derde lid, is van overeenkomstige toepassing.  
-
 ### §  2  
 
 ####Geluidwerende voorzieningen
-
-### Artikel  9  
-
-Bij algemene maatregel van bestuur kan in het belang van het voorkomen of beperken van geluidhinder worden verboden voor gebruik als geluidwerende voorziening bestemde of geschikte materialen of andere zaken, welke behoren tot een bij de maatregel aangewezen categorie, te verhandelen anders dan met inachtneming van de voorschriften, bij de maatregel gesteld met betrekking tot hun aanduiding of benaming. Artikel 2, derde lid, is van overeenkomstige toepassing.  
-
-### Artikel  10  
-
-In het belang van het voorkomen of beperken van geluidhinder kan bij algemene maatregel van bestuur worden verboden een uitlaatsysteem, behorende tot een bij de maatregel aangewezen categorie, te vervaardigen, in te voeren, in voorraad te hebben, te koop aan te bieden, af te leveren of te vervoeren, indien de geluidwerende eigenschappen ervan niet voldoen aan de bij of krachtens de maatregel gestelde eisen. Artikel 2, derde lid, is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  III  
 
@@ -535,17 +469,17 @@ b. een wezenlijke toename van het aantal geluidgehinderden bij toetsing op bouwp
 
 ### Afdeling  2A  
 
-####De aanleg, wijziging of verbreding van een hoofdweg in de zin van [artikel 2 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
+####De aanleg, wijziging of verbreding van een hoofdweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
 
 ### Artikel  87b  
 
 1.  In deze afdeling wordt verstaan onder: 
 
-a. Onze Ministers: Onze Minister en Onze Minister van Verkeer en Waterstaat dan wel Onze Minister van Verkeer en Waterstaat, indien dat volgt uit de beslissing, bedoeld in [artikel 2, tweede lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+a. Onze Ministers: Onze Minister en Onze Minister van Verkeer en Waterstaat dan wel Onze Minister van Verkeer en Waterstaat, indien dat volgt uit de beslissing, bedoeld in [artikel 2, tweede lid, onderdeel e](../../../../wet/tracéwet/BWBR0006147/README.md), of [artikel 4, eerste lid, onderdeel d, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
 
-b. hoofdweg: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder c, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+b. hoofdweg: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
 
-c. aanleg, wijziging of verbreding van een hoofdweg: aanleg, wijziging of verbreding van een hoofdweg in de zin van [artikel 2 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+c. aanleg, wijziging of verbreding van een hoofdweg: aanleg, wijziging of verbreding van een hoofdweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
 
 d. woonwagenstandplaats: een standplaats als bedoeld in [artikel 1, eerste lid, onder h, van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md);  
 
@@ -563,7 +497,7 @@ f. geluidsgevoelige terreinen:
 
 2°. woonwagenstandplaatsen;    
 
-g. tracé: tracé als bedoeld in [artikel 1, eerste lid, onder h, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+g. tracé: tracé als omschreven in [artikel 10, eerste en tweede lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
 
 h. aanpassing van een weg: een aanpassing met betrekking tot een aanwezige weg waarvan uit akoestisch onderzoek als bedoeld in artikel 87d blijkt dat ten gevolge van die aanpassing de berekende geluidsbelasting vanwege de weg in het toekomstig maatgevende jaar zonder het treffen van maatregelen ten opzichte van de geluidsbelasting die op grond van deze afdeling en afdeling 2 van hoofdstuk VII als de ten hoogste toelaatbare geluidsbelasting geldt met 2 dB of meer wordt verhoogd;  
 
@@ -713,7 +647,7 @@ b. het vierde lid, onder 1° en 2°, niet van toepassing is.
 
 a. de geluidsbelasting vanwege binnen het tracé van die hoofdweg gelegen spoorwegen op 1 juli 1987, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van deze spoorwegen lager was dan of gelijk was aan 65 dB(A), of  
 
-b. binnen het tracé van die hoofdweg gelegen spoorwegen na 1 juli 1987 zijn aangelegd op grond van een bestemmingsplan dat is vastgesteld of herzien met toepassing van het bij of krachtens deze wet bepaalde,   de voor de wijziging of verbreding van de hoofdweg ter plaatse heersende geluidsbelasting, met dien verstande dat een geluidsbelastingwaarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft.   
+b. binnen het tracé van die hoofdweg gelegen spoorwegen na 1 juli 1987 zijn aangelegd op grond van een bestemmingsplan dat is vastgesteld of herzien met toepassing van het bij of krachtens deze wet bepaalde,   de voor de wijziging of verbreding van de hoofdweg ter plaatse heersende geluidsbelasting, met dien verstande dat een geluidsbelasting waarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft.   
 2.  In geval eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) of de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) een hogere waarde voor de ten hoogst toelaatbare geluidsbelasting, vanwege de betrokken spoorwegen is vastgesteld dan 55 dB, is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten gevolge waarvan binnen het tracé van die hoofdweg gelegen spoorwegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, de laagste van de volgende twee waarden, met dien verstande dat een geluidsbelasting waarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft: 
 
 a. de heersende waarde;  
@@ -848,7 +782,7 @@ In het belang van het voorkomen of beperken van geluidhinder, veroorzaakt door h
 
 ### Afdeling  2  
 
-####De aanleg of wijziging van een landelijke spoorweg in de zin van [artikel 2 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
+####De aanleg of wijziging van een landelijke spoorweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
 
 ### Artikel  105a  
 
@@ -858,11 +792,11 @@ Afdeling 1 van hoofdstuk VIIIA is niet van toepassing op deze afdeling.
 
 1.  In deze afdeling wordt verstaan onder: 
 
-a. Onze Ministers: Onze Minister en Onze Minister van Verkeer en Waterstaat dan wel Onze Minister van Verkeer en Waterstaat, indien dat volgt uit de beslissing, bedoeld in [artikel 2, tweede lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+a. Onze Ministers: Onze Minister en Onze Minister van Verkeer en Waterstaat dan wel Onze Minister van Verkeer en Waterstaat, indien dat volgt uit de beslissing, bedoeld in [artikel 2, tweede lid, onderdeel e](../../../../wet/tracéwet/BWBR0006147/README.md), of [artikel 4, eerste lid, onderdeel d, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
 
-b. landelijke spoorweg: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder d, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+b. landelijke spoorweg: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
 
-c. aanleg of wijziging van een landelijke spoorweg: aanleg of wijziging van een landelijke spoorweg in de zin van [artikel 2 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+c. aanleg of wijziging van een landelijke spoorweg: aanleg of wijziging van een landelijke spoorweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
 
 d. woonwagenstandplaats: een standplaats als bedoel in [artikel 1, eerste lid, onder h, van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md);  
 
@@ -880,7 +814,7 @@ f. geluidsgevoelige terreinen:
 
 2°. woonwagenstandplaatsen;    
 
-g. tracé: tracé als bedoeld in [artikel 1, eerste lid, onder h, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+g. tracé: tracé als omschreven in [artikel 10, eerste en derde lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
 
 h. aanpassing van een weg: hetgeen daaronder wordt verstaan in artikel 87b, eerste lid, onder h;  
 
@@ -1464,7 +1398,7 @@ Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van
 
 ### Artikel  148  
 
-1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing, met dien verstande dat met het toezicht op de naleving van het bij of krachtens deze wet bepaalde ten aanzien van inrichtingen als bedoeld in artikel 170, derde lid, uitsluitend belast zijn de daartoe bij besluit van Onze Minister aangewezen ambtenaren.   
+1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing, met dien verstande dat met het toezicht op de naleving van het bij of krachtens deze wet bepaalde ten aanzien van inrichtingen als bedoeld in artikel 170, eerste lid, uitsluitend belast zijn de daartoe bij besluit van Onze Minister aangewezen ambtenaren.   
 2.  Het in [artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften.   
 
 ### §  2  
@@ -1488,7 +1422,7 @@ Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van
 1.  Burgemeester en wethouders van de gemeente waarin een industrieterrein geheel of in hoofdzaak is gelegen zorgen ervoor dat er voldoende informatie beschikbaar is over de geluidsruimte binnen de zone.   
 2.  Het eerste lid is niet van toepassing op industrieterreinen van regionaal belang die zijn aangewezen bij provinciale verordening krachtens de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). In dat geval dragen gedeputeerde staten voor de in het eerste lid genoemde taken zorg.   
 3.  Het eerste lid is niet van toepassing wanneer burgemeester en wethouders in overeenstemming met gedeputeerde staten besluiten dat gedeputeerde staten voor de in het eerste lid genoemde taken zorgdragen.   
-4.  Het eerste tot en met derde lid is niet van toepassing op industrieterreinen waarop zich inrichtingen bevinden als bedoeld in artikel 170, derde lid. Voor die industrieterreinen draagt Onze Minister voor de in het eerste lid genoemde taken zorg.   
+4.  Het eerste tot en met derde lid is niet van toepassing op industrieterreinen waarop zich inrichtingen bevinden als bedoeld in artikel 170, eerste lid. Voor die industrieterreinen draagt Onze Minister voor de in het eerste lid genoemde taken zorg.   
 
 ### Artikel  164  
 
@@ -1500,7 +1434,7 @@ Ter vervulling van de in artikel 163 bedoelde taak kan een zonebeheerplan worden
 2.  Onze Minister kan omtrent de bepaling en de vastlegging van de in het eerste lid bedoelde gegevens regels stellen.   
 3.  Het eerste lid is niet van toepassing op industrieterreinen van regionaal belang die zijn aangewezen bij provinciale verordening krachtens de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). In dat geval hebben gedeputeerde staten de in het eerste lid genoemde bevoegdheden.   
 4.  Het eerste lid is niet van toepassing wanneer burgemeester en wethouders in overeenstemming met gedeputeerde staten besluiten dat gedeputeerde staten voor de artikel 163, eerste lid, genoemde taken zorgdragen. In dat geval hebben gedeputeerde staten de in het eerste lid genoemde bevoegdheden.   
-5.  Het eerste lid is niet van toepassing op industrieterreinen waarop zich inrichtingen bevinden als bedoeld in artikel 170, derde lid. In dat geval heeft Onze Minister de in het eerste lid genoemde bevoegdheden.   
+5.  Het eerste lid is niet van toepassing op industrieterreinen waarop zich inrichtingen bevinden als bedoeld in artikel 170, eerste lid. In dat geval heeft Onze Minister de in het eerste lid genoemde bevoegdheden.   
 
 ### Artikel  166  
 
@@ -1513,23 +1447,13 @@ Ter vervulling van de in artikel 163 bedoelde taak kan een zonebeheerplan worden
 
 ### Artikel  170  
 
-1.  Wij kunnen in het belang van de landsverdediging van de bij of krachtens artikel 2 of 10 gestelde verboden en verplichtingen: 
-
-a. bij algemene maatregel van bestuur vrijstelling verlenen;  
-
-b. op daartoe strekkend verzoek ontheffing verlenen.     
-2.  Aan een vrijstelling of ontheffing worden de voorschriften verbonden, die naar Ons oordeel in het belang van het voorkomen of beperken van geluidhinder nodig zijn.   
-3.  In afwijking van het bepaalde in artikel 62, tweede lid, stelt Onze Minister het programma van aktiviteiten als omschreven in dat artikellid op, voor zover het programma betrekking heeft op inrichtingen, die in gebruik of mede in gebruik zijn ten behoeve van de landsverdediging. Onze Minister stelt het programma op na overleg met Onze Minister van Defensie.   
-4.  Bij de vaststelling van het programma deelt Onze Minister aan burgemeester en wethouders van de gemeente, waarin de in het derde lid bedoelde inrichting is gelegen, en aan gedeputeerde staten mede de geluidsbelasting vanwege die inrichting na de volledige uitvoering van het programma.   
-5.  Onze Minister van Defensie is ermee belast dat het programma, bedoeld in artikel 62, ten aanzien van inrichtingen als bedoeld in het derde lid, wordt uitgevoerd.   
+1.  In afwijking van het bepaalde in artikel 62, tweede lid, stelt Onze Minister het programma van aktiviteiten als omschreven in dat artikellid op, voor zover het programma betrekking heeft op inrichtingen, die in gebruik of mede in gebruik zijn ten behoeve van de landsverdediging. Onze Minister stelt het programma op na overleg met Onze Minister van Defensie.   
+2.  Bij de vaststelling van het programma deelt Onze Minister aan burgemeester en wethouders van de gemeente, waarin de in het derde lid bedoelde inrichting is gelegen, en aan gedeputeerde staten mede de geluidsbelasting vanwege die inrichting na de volledige uitvoering van het programma.   
+3.  Onze Minister van Defensie is ermee belast dat het programma, bedoeld in artikel 62, ten aanzien van inrichtingen als bedoeld in het derde lid, wordt uitgevoerd.   
 
 ### Artikel  174  
 
 Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.  
-
-### Artikel  175  
-
-Een gedraging in strijd met een voorschrift, krachtens artikel 5, derde lid, aan een vergunning verbonden, is verboden.  
 
 ### Artikel  176  
 

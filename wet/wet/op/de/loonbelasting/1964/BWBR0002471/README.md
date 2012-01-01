@@ -286,7 +286,7 @@ j. bedragen die worden ingehouden:
 
 k. uitkeringen en verstrekkingen tot vergoeding van door de werknemer in verband met zijn dienstbetrekking geleden schade aan of verlies van persoonlijke zaken;  
 
-l.  vervallen;   
+l. bij ministeriële regeling aan te wijzen voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit;  
 
 m. eenmalige uitkeringen en verstrekkingen ter zake van overlijden van de werknemer, zijn partner in het kalenderjaar of in het voorafgaande kalenderjaar – in de zin van [artikel 1.2 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of zijn kinderen en pleegkinderen, voorzover deze uitkeringen en verstrekkingen niet overtreffen driemaal het loon over een maand bepaald met inachtneming van bij ministeriële regeling te stellen regels, alsmede aanspraken op de hiervoor bedoelde uitkeringen en verstrekkingen;  
 
@@ -396,22 +396,6 @@ d. het genot van een in het kader van de dienstbetrekking ter beschikking gestel
 5.  Bij ministeriële regeling kunnen, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nadere regels worden gesteld met betrekking tot de waardering van aanspraken.   
 6.  De ingevolge de vorige leden in aanmerking te nemen waarde wordt verminderd met het bedrag dat de werknemer ter zake in rekening wordt gebracht, met dien verstande dat de aldus verminderde waarde ten minste op nihil wordt gesteld.   
 
-### Artikel  13a  
-
-1.  Loon wordt beschouwd te zijn genoten op het tijdstip waarop het: 
-
-a. betaald of verrekend wordt, ter beschikking van de werknemer wordt gesteld of rentedragend wordt, dan wel  
-
-b. vorderbaar en tevens inbaar wordt.     
-2.  Indien is overeengekomen dat het loon geheel of gedeeltelijk op een ongebruikelijk tijdstip zal worden genoten, wordt daarmee voor de toepassing van het eerste lid geen rekening gehouden.   
-3.  Voor zover ingevolge artikel 12a het loon hoger is dan het werkelijk genoten loon, wordt het meerdere geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt.   
-4.  In afwijking van het eerste lid: 
-
-a. wordt loon dat ingevolge artikel 27bis is begrepen in de laatste aangifte van het kalenderjaar, geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt;  
-
-b. worden vergoedingen ter zake van vervoer in het kader van de dienstbetrekking, waaronder woon-werkverkeer, op andere wijze dan per taxi, luchtvaartuig, schip of vervoer vanwege de werkgever, voor zover deze € 0,19 per kilometer te boven gaan en voor zover deze niet hoger zijn dan de werkelijke kosten, geacht te zijn genoten bij het einde van het kalenderjaar of bij het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt, indien in het kalenderjaar ook vergoedingen ter zake van de hiervoor bedoelde wijze van vervoer zijn of naar verwachting zullen worden berekend naar een bedrag van minder dan € 0,19 per kilometer.     
-5.  Het vierde lid, onderdeel b, is niet van toepassing op vergoedingen ter zake van vervoer in het kader van de dienstbetrekking, waaronder woon-werkverkeer, per openbaar vervoer indien deze vergoedingen zijn vastgesteld op basis van de werkelijke kosten.   
-
 ### Artikel  13bis  
 
 1.  Indien ook voor privé-doeleinden een auto ter beschikking is gesteld, wordt het voordeel op kalenderjaarbasis gesteld op ten minste: 
@@ -453,6 +437,27 @@ d. de inhoudingsplichtige een passende sanctie oplegt indien het verbod wordt ov
 17.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de verklaring geen privé-gebruik.   
 18.  De in het tweede en derde lid vermelde CO <sub>2</sub> -uitstootgrenzen worden na afloop van iedere periode van vier kalenderjaren van rechtswege vervangen door de grenzen die krachtens [artikel 10.7a van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden vastgesteld ter vervanging van de in [artikel 3.20 van die wet](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermelde grenzen.   
 19.  Na vervanging van de CO <sub>2</sub> -uitstootgrenzen in het tweede en derde lid op grond van het achttiende lid, blijven met betrekking tot auto’s die volgens het kentekenbewijs een datum van eerste toelating hebben van voor deze vervanging, de tot deze vervanging voor deze auto’s geldende begrenzingen van toepassing.   
+
+### Artikel  13a  
+
+1.  Loon wordt beschouwd te zijn genoten op het tijdstip waarop het: 
+
+a. betaald of verrekend wordt, ter beschikking van de werknemer wordt gesteld of rentedragend wordt, dan wel  
+
+b. vorderbaar en tevens inbaar wordt.     
+2.  Indien is overeengekomen dat het loon geheel of gedeeltelijk op een ongebruikelijk tijdstip zal worden genoten, wordt daarmee voor de toepassing van het eerste lid geen rekening gehouden.   
+3.  Voor zover ingevolge artikel 12a het loon hoger is dan het werkelijk genoten loon, wordt het meerdere geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt.   
+4.  In afwijking van het eerste lid: 
+
+a. wordt loon dat ingevolge artikel 27bis is begrepen in de laatste aangifte van het kalenderjaar, geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt;  
+
+b. worden vergoedingen ter zake van vervoer in het kader van de dienstbetrekking, waaronder woon-werkverkeer, op andere wijze dan per taxi, luchtvaartuig, schip of vervoer vanwege de inhoudingsplichtige, voor zover deze € 0,19 per kilometer te boven gaan en voor zover deze niet hoger zijn dan de werkelijke kosten, geacht te zijn genoten bij het einde van het kalenderjaar of bij het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt, indien in het kalenderjaar ook vergoedingen ter zake van de hiervoor bedoelde wijze van vervoer zijn of naar verwachting zullen worden berekend naar een bedrag van minder dan € 0,19 per kilometer.     
+5.  Het vierde lid, onderdeel b, is niet van toepassing op vergoedingen ter zake van vervoer in het kader van de dienstbetrekking, waaronder woon-werkverkeer, per openbaar vervoer indien deze vergoedingen zijn vastgesteld op basis van de werkelijke kosten.   
+6.  Voor de toepassing van het vierde lid, onderdeel b, wordt onder vervoer vanwege de inhoudingsplichtige verstaan: 
+
+1°. vanwege de inhoudingsplichtige georganiseerd vervoer;  
+
+2°. het reizen per openbaar vervoer op basis van door de inhoudingsplichtige aangeschafte en door hem aan de werknemer verstrekte plaatsbewijzen.     
 
 ### Hoofdstuk  IIA  
 
@@ -733,10 +738,10 @@ c. de inhoudingsplichtige aan de werknemer een bijdrage ten behoeve van de leven
 
 | Bij een belastbaar loon van meer dan  | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare loon dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | € 18 628  | –  | 1,85%  |
-| € 18 628  | € 33 436  | € 344  | 10,80%  |
-| € 33 436  | € 55 694  | € 1 943  | 42%  |
-| € 55 694  | –  | € 11 291  | 52%  |
+| –  | € 18 628  | –  | 2,00%  |
+| € 18 628  | € 33 436  | € 372  | 10,80%  |
+| € 33 436  | € 55 694  | € 1 971  | 42%  |
+| € 55 694  | –  | € 11 319  | 52%  |
 
 2.  De in het eerste lid vermelde bedragen worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen die krachtens [artikel 10.1 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden vastgesteld ter vervanging van de in [artikel 2.10 van die wet](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermelde bedragen.   
 
@@ -746,10 +751,10 @@ c. de inhoudingsplichtige aan de werknemer een bijdrage ten behoeve van de leven
 
 | Bij een belastbaar loon van meer dan  | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare loon dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | € 18 628  | –  | 1,85%  |
-| € 18 628  | € 33 485  | € 344  | 10,80%  |
-| € 33 485  | € 55 694  | € 1 948  | 42%  |
-| € 55 694  | –  | € 11 275  | 52%  |
+| –  | € 18 628  | –  | 2,00%  |
+| € 18 628  | € 33 485  | € 372  | 10,80%  |
+| € 33 485  | € 55 694  | € 1 976  | 42%  |
+| € 55 694  | –  | € 11 303  | 52%  |
 
 2.  De in het eerste lid vermelde bedragen worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen die krachtens [artikel 10.1 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden vastgesteld ter vervanging van de in [artikel 2.10a van die wet](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermelde bedragen.   
 
@@ -788,7 +793,7 @@ f. de levensloopverlofkorting (artikel 22ca).
 ### Artikel  22  
 
 1.  Voor de werknemer is de algemene heffingskorting van toepassing.   
-2.  De algemene heffingskorting bedraagt € 1987.   
+2.  De algemene heffingskorting bedraagt € 1974.   
 
 ### Artikel  22a  
 
@@ -908,9 +913,9 @@ In afwijking van de artikelen 20, 20a, 20b en 26 bedraagt de belasting 52% van h
 
 a. de werknemer zijn naam, adres, woonplaats of burgerservicenummer of, bij het ontbreken daarvan, zijn sociaal-fiscaalnummer niet aan de inhoudingsplichtige heeft verstrekt;  
 
-b. bij een werknemer die loon uit tegenwoordige dienstbetrekking geniet, de inhoudingsplichtige zijn identiteit niet heeft vastgesteld en opgenomen in de loonadministratie overeenkomstig artikel 28, onderdeel e;  
+b. bij een werknemer die loon uit tegenwoordige dienstbetrekking geniet, de inhoudingsplichtige zijn identiteit niet heeft vastgesteld en opgenomen in de loonadministratie overeenkomstig artikel 28, eerste lid, onderdeel e;  
 
-c. bij een werknemer die loon uit tegenwoordige dienstbetrekking geniet, vreemdeling is in de zin van de [Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en niet behoort tot de categorie werknemers die op grond van overeenkomsten van internationaal recht is uitgezonderd van de verplichting tot het hebben van een geldige verblijfsvergunning als bedoeld in [die wet](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en een geldige tewerkstellingsvergunning als bedoeld in de [Wet arbeid vreemdelingen](../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md), de inhoudingsplichtige zijn verblijfsrechtelijke positie ter zake van het verrichten van arbeid niet heeft vastgesteld en opgenomen in de loonadministratie overeenkomstig artikel 28, onderdeel e;  
+c. bij een werknemer die loon uit tegenwoordige dienstbetrekking geniet, vreemdeling is in de zin van de [Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en niet behoort tot de categorie werknemers die op grond van overeenkomsten van internationaal recht is uitgezonderd van de verplichting tot het hebben van een geldige verblijfsvergunning als bedoeld in [die wet](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en een geldige tewerkstellingsvergunning als bedoeld in de [Wet arbeid vreemdelingen](../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md), de inhoudingsplichtige zijn verblijfsrechtelijke positie ter zake van het verrichten van arbeid niet heeft vastgesteld en opgenomen in de loonadministratie overeenkomstig artikel 28, eerste lid, onderdeel e;  
 
 d. de werknemer ter zake van de in de onderdelen a tot en met c bedoelde inlichtingen onjuiste gegevens heeft verstrekt en de inhoudingsplichtige dit weet of redelijkerwijs moet weten.   De eerste volzin, aanhef en onderdeel c, is niet van toepassing bij werknemers die werkzaamheden verrichten in dienstbetrekking bij de Staat der Nederlanden, niet in Nederland wonen en hun dienstbetrekking geheel buiten Nederland vervullen. Indien de belasting ingevolge artikel 27b, eerste lid, in één bedrag met de premie voor de volksverzekeringen wordt geheven, wordt in afwijking in zoverre van de eerste volzin het bedrag van de verschuldigde belasting te zamen met het bedrag van de verschuldigde premie voor de volksverzekeringen gesteld op 52% van het loon.  
 
@@ -983,7 +988,7 @@ g. mededeling aan de inspecteur te doen omtrent het einde van zijn inhoudingspli
 
 ### Artikel  28bis  
 
-1.  De inspecteur kan de verplichting tot het doen van eerstedagsmeldingen slechts opleggen indien ten aanzien van de inhoudingsplichtige in de periode van zes maanden welke voorafgaat aan de dagtekening van de beschikking, bedoeld in artikel 28, onderdeel f, een van de volgende gebeurtenissen zich heeft voorgedaan: 
+1.  De inspecteur kan de verplichting tot het doen van eerstedagsmeldingen slechts opleggen indien ten aanzien van de inhoudingsplichtige in de periode van zes maanden welke voorafgaat aan de dagtekening van de beschikking, bedoeld in artikel 28, eerste lid, onderdeel f, een van de volgende gebeurtenissen zich heeft voorgedaan: 
 
 a. een naheffingsaanslag in verband met de toepassing van artikel 30a is opgelegd;  
 
@@ -1019,15 +1024,15 @@ e. strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang 
 
 ### Artikel  28c  
 
-1.  Indien de inhoudingsplichtige de opgave, bedoeld in artikel 28, onderdeel f, niet, onjuist, onvolledig dan wel niet binnen de gestelde termijn heeft verstrekt, vormt dit een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1230 kan opleggen.   
-2.  De bevoegdheid tot het opleggen van een bestuurlijke boete wegens het feit, bedoeld in het eerste lid, vervalt door verloop van één jaar na het einde van het kalenderjaar waarin de opgave, bedoeld in artikel 28, onderdeel f, had moeten worden verstrekt.   
+1.  Indien de inhoudingsplichtige de opgave, bedoeld in artikel 28, eerste lid, onderdeel f, niet, onjuist, onvolledig dan wel niet binnen de gestelde termijn heeft verstrekt, vormt dit een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1230 kan opleggen.   
+2.  De bevoegdheid tot het opleggen van een bestuurlijke boete wegens het feit, bedoeld in het eerste lid, vervalt door verloop van één jaar na het einde van het kalenderjaar waarin de opgave, bedoeld in artikel 28, eerste lid, onderdeel f, had moeten worden verstrekt.   
 3.  [Artikel 67cb van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op het in het eerste lid genoemde bedrag.   
 
 ### Artikel  29  
 
 1.  De werknemer is volgens bij ministeriële regeling te stellen regels gehouden aan de inhoudingsplichtige opgave te verstrekken van gegevens waarvan de kennisneming voor de heffing van de belasting van belang kan zijn. Ingeval de werknemer loon uit tegenwoordige dienstbetrekking geniet, is hij voorts gehouden aan de inhoudingsplichtige ter inzage te verstrekken, een op hem betrekking hebbend document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) alsmede – zo hij ook een vreemdeling is in de zin van de [Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en niet behoort tot de categorie werknemers die op grond van overeenkomsten van internationaal recht is uitgezonderd van de verplichting tot het hebben van een geldige verblijfsvergunning als bedoeld in [die wet](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) – een geldige verblijfsvergunning ter vaststelling van de verblijfsrechtelijke status ter zake van het verrichten van arbeid en is hij gehouden een afschrift van een en ander in de loonadministratie van de inhoudingsplichtige te laten opnemen.   
 2.  De werknemer is echter niet gehouden opgave te verstrekken van gegevens met betrekking tot de heffingskorting. Indien de werknemer deze gegevens niet verstrekt, wordt met de heffingskorting geen rekening gehouden.   
-3.  Tot de in het eerste lid en de in artikel 28, onderdelen a en d, bedoelde gegevens wordt mede gerekend het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de werknemer.   
+3.  Tot de in het eerste lid en de in artikel 28, eerste lid, onderdelen a en d, bedoelde gegevens wordt mede gerekend het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de werknemer.   
 4.  De vorige leden zijn niet van toepassing ten aanzien van de werknemer die niet in Nederland woont en die werkzaamheden verricht of heeft verricht in een in artikel 2, derde lid, genoemde dienstbetrekking, indien het heffingrecht over het loon uit die dienstbetrekking op grond van een belastingverdrag niet aan Nederland is toegewezen en de werknemer niet premieplichtig is voor de volksverzekeringen.   
 
 ### Artikel  30  
@@ -1108,7 +1113,7 @@ e. misdrijven ter zake waarvan jegens de werknemer een onherroepelijk geworden s
 
 f. wapens en munitie, tenzij ter zake een erkenning, consent, vergunning, verlof of ontheffing is verleend krachtens de [Wet wapens en munitie](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);  
 
-g. dieren jegens welke onherroepelijke bestuursrechtelijke of strafrechtelijke maatregelen zijn genomen.     
+g. dieren die krachtens een onherroepelijke bestuursrechtelijke of strafrechtelijke maatregel in verband met agressie niet mogen worden gehouden.     
 5.  Voor de bepaling van de verschuldigde belasting op de voet van het tweede lid, onderdeel b en onderdeel c, wordt buiten beschouwing gelaten dat de belasting wordt geheven van de inhoudingsplichtige.   
 6.  Ingeval loon als bedoeld in het eerste lid, onderdeel e, wordt genoten in de vorm van aandelenoptierechten als bedoeld in artikel 10a, zesde lid, of in de vorm van aandelen in het kapitaal van de inhoudingsplichtige of in dat van een met hem verbonden vennootschap, wordt het bedrag genoemd in bedoeld onderdeel e verhoogd. De verhoging bedraagt het in het eerste lid, onderdeel e, genoemde bedrag voor de toepassing van de eerste volzin, verminderd met het niet in de vorm van aandelenoptierechten of in de vorm van aandelen in het kapitaal van de inhoudingsplichtige of in dat van een met hem verbonden vennootschap, gespaarde bedrag.   
 7.  Voorzover in hetzelfde loontijdvak of dezelfde loontijdvakken door meer dan één werknemer eindheffingsbestanddelen worden genoten kan, mits dat leidt tot een beduidende vereenvoudiging van de vaststelling van de verschuldigde belasting, de verschuldigde belasting globaal worden vastgesteld, zodanig dat deze redelijkerwijs overeenkomt met de verschuldigde belasting die op de voet van de vorige leden zou zijn bepaald.   
@@ -1122,11 +1127,11 @@ g. dieren jegens welke onherroepelijke bestuursrechtelijke of strafrechtelijke m
 
 a. vervoer in het kader van de dienstbetrekking, waaronder woon-werkverkeer: 
 
-1°. indien het vervoer plaatsvindt per taxi, luchtvaartuig, schip of vervoer vanwege de werkgever: tot de werkelijke kosten, met dien verstande dat de vermindering niet geldt voor vergoedingen ter zake van vervoer vanwege de werkgever;  
+1°. indien het vervoer plaatsvindt per taxi, luchtvaartuig, schip of vervoer vanwege de inhoudingsplichtige: tot de werkelijke kosten, met dien verstande dat de vermindering niet geldt voor vergoedingen ter zake van vervoer vanwege de inhoudingsplichtige;  
 
 2°. indien het vervoer plaatsvindt per openbaar vervoer, anders dan in de vorm van vervoer vanwege de inhoudingsplichtige, en de vergoedingen hoger zijn dan € 0,19 per kilometer en zijn vastgesteld op basis van de werkelijke kosten: tot de werkelijke kosten;  
 
-3°. in de overige situaties: tot € 0,19 per afgelegde kilometer;   met dien verstande dat ingeval voor het vervoer, niet zijnde vervoer per taxi, luchtvaartuig, schip of vervoer vanwege de werkgever, een vaste vergoeding wordt gegeven aan een werknemer die op tenminste 128 dagen per kalenderjaar naar een vaste plaats van werkzaamheden reist, deze vergoeding mag worden berekend alsof de werknemer op ten hoogste 214 dagen per kalenderjaar naar die vaste plaats van werkzaamheden reist;  
+3°. in de overige situaties: tot € 0,19 per afgelegde kilometer;   met dien verstande dat ingeval voor het vervoer, niet zijnde vervoer per taxi, luchtvaartuig, schip of vervoer vanwege de inhoudingsplichtige, een vaste vergoeding wordt gegeven aan een werknemer die op ten minste 128 dagen per kalenderjaar naar een vaste plaats van werkzaamheden reist, deze vergoeding mag worden berekend alsof de werknemer op ten hoogste 214 dagen per kalenderjaar naar die vaste plaats van werkzaamheden reist;  
 
 b. tijdelijk verblijf in het kader van de dienstbetrekking, niet zijnde een tijdelijk verblijf als bedoeld in onderdeel e, alsmede maaltijden met een meer dan bijkomstig zakelijk karakter;  
 
@@ -1136,21 +1141,26 @@ d. het volgen van een opleiding of studie met het oog op het verwerven van inkom
 
 1°. vergoedingen en verstrekkingen die verband houden met een werk- of studeerruimte, daaronder begrepen de inrichting;  
 
-2°. vergoedingen van binnenlandse reizen voorzover de vergoeding meer bedraagt dan het bedrag per kilometer, bedoeld in onderdeel a, onder 2°;    
+2°. vergoedingen van binnenlandse reizen voor zover de vergoeding meer bedraagt dan het bedrag dat wordt bepaald met overeenkomstige toepassing van onderdeel a;    
 
-e. extra kosten van tijdelijk verblijf buiten het land van herkomst in het kader van de dienstbetrekking (extraterritoriale kosten), met dien verstande dat voor bij algemene maatregel van bestuur aan te wijzen groepen werknemers die door een inhoudingsplichtige van buiten Nederland in dienstbetrekking worden genomen of buiten Nederland worden uitgezonden, onder daarbij te stellen voorwaarden, geldt dat vergoedingen van kosten en verstrekkingen van verblijf buiten het land van herkomst – voor van buiten Nederland in dienstbetrekking genomen werknemers gedurende ten hoogste tien jaar – ten minste worden beschouwd als vergoeding voor extraterritoriale kosten tot ten hoogste 30 percent van het loon, alsmede tot het bedrag van de daarbij aan te wijzen schoolgelden;  
+e. extra kosten van tijdelijk verblijf buiten het land van herkomst in het kader van de dienstbetrekking (extraterritoriale kosten), met dien verstande dat voor bij algemene maatregel van bestuur aan te wijzen groepen werknemers die door een inhoudingsplichtige van buiten Nederland in dienstbetrekking worden genomen of buiten Nederland worden uitgezonden, onder daarbij te stellen voorwaarden, geldt dat vergoedingen van kosten en verstrekkingen van verblijf buiten het land van herkomst – voor van buiten Nederland in dienstbetrekking genomen werknemers gedurende ten hoogste tien jaar – ten minste worden beschouwd als vergoeding voor extraterritoriale kosten tot ten hoogste 30% van het daarbij aan te wijzen gedeelte van het loon, alsmede tot het bedrag van de daarbij aan te wijzen schoolgelden;  
 
 f. verhuizing in het kader van de dienstbetrekking, ter omvang van de kosten van het overbrengen van de inboedel vermeerderd met € 7750, waarbij bij ministeriële regeling regels kunnen worden gesteld voor de beoordeling of in ieder geval in het kader van de dienstbetrekking wordt verhuisd.     
 3.  In afwijking in zoverre van het tweede lid worden vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, bij de bepaling van de daarover verschuldigde belasting niet verminderd met vaste vergoedingen ter zake van de in het tweede lid bedoelde kosten ingeval aan deze vergoedingen geen onderzoek naar de werkelijk gemaakte kosten ten grondslag ligt.   
 4.  In afwijking in zoverre van het tweede lid is het bij de berekening van de verschuldigde belasting met betrekking tot vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, toegestaan om gedurende het kalenderjaar gebruik te maken van het door de inhoudingsplichtige verstrekte loon over het gehele voorafgaande kalenderjaar, met toepassing van de herleidingsregels, bedoeld in artikel 25, eerste lid. Bij toepassing van de eerste volzin vindt uiterlijk in het eerste aangiftetijdvak van het volgende kalenderjaar herrekening van de verschuldigde belasting plaats op basis van het daadwerkelijk door de inhoudingsplichtige verstrekte loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting is geheven.   
 5.  Ingeval de vergoedingen en verstrekkingen, bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, verminderd met de vergoedingen en verstrekkingen, bedoeld in het tweede lid, onderdelen a tot en met f, meer bedragen dan 1,4% van het loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting wordt geheven, is het, in afwijking van artikel 27a, tweede lid, toegestaan de verschuldigde belasting eerst vast te stellen en af te dragen voor zover de vergoedingen en verstrekkingen, bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, verminderd met de vergoedingen en verstrekkingen, bedoeld in het tweede lid, onderdelen a tot en met f, over de in het kalenderjaar verstreken aangiftetijdvakken meer bedragen dan 1,4% van het door de inhoudingsplichtige over het gehele voorafgaande kalenderjaar verstrekte loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting is geheven. Bij toepassing van de eerste volzin vindt uiterlijk in het eerste aangiftetijdvak van het volgende kalenderjaar herrekening van de verschuldigde belasting plaats op basis van het daadwerkelijk door de inhoudingsplichtige verstrekte loon.   
-6.  Voor de toepassing van het tweede lid wordt onder vervoer vanwege de inhoudingsplichtige verstaan: 
-
-1°. vanwege de inhoudingsplichtige georganiseerd vervoer;  
-
-2°. het reizen per openbaar vervoer op basis van door de inhoudingsplichtige aangeschafte en door hem aan de werknemer verstrekte plaatsbewijzen.     
+6.  Voor de toepassing van het tweede lid wordt onder vervoer vanwege de inhoudingsplichtige verstaan: vervoer als bedoeld in artikel 13a, zesde lid.   
 7.  Voor de toepassing van dit artikel worden vergoedingen ter zake van vervoer als bedoeld in het tweede lid, onderdeel a, onder 3°, geacht niet hoger te zijn dan € 0,19 per afgelegde kilometer voor zover deze vergoedingen in totaal niet meer hebben bedragen dan het aantal in het kalenderjaar in dit kader afgelegde kilometers vermenigvuldigd met € 0,19.   
-8.  Bij de bepaling van het in het tweede lid bedoelde loon wordt buiten beschouwing gelaten: 
+8.  Voor de berekening van de in het tweede lid, onderdeel a, bedoelde vaste vergoeding ter zake van vervoer worden de in dat onderdeel genoemde aantallen dagen: 
+
+a. vermenigvuldigd met vier vijfde, drie vijfde, twee vijfde of een vijfde ingeval de werknemer een vierdaagse, een driedaagse, een tweedaagse onderscheidenlijk een eendaagse werkweek heeft;  
+
+b. naar tijdsgelang herrekend bij: 
+
+1°. een wijziging van de reisafstand in de loop van het kalenderjaar;  
+
+2°. het aanvangen of beëindigen van de vergoeding in de loop van het kalenderjaar.       
+9.  Bij de bepaling van het in het tweede lid bedoelde loon wordt buiten beschouwing gelaten: 
 
 a. loon uit vroegere dienstbetrekking indien de inhoudingsplichtige in meer dan bijkomstige mate loon uit vroegere dienstbetrekking verstrekt;  
 
@@ -1260,9 +1270,9 @@ d. ingeval de dienstbetrekking is aangevangen in het kalenderjaar waarin de dien
 
 1.  De in Nederland wonende of gevestigde inhoudingsplichtige wordt geacht met het door hem verschuldigde loon van een in Nederland wonende werknemer tevens te verstrekken het loon dat de werknemer zonder toepassing van dit artikel zou hebben genoten als werknemer van een andere inhoudingsplichtige, indien: 
 
-a. de werknemer uit hoofde van zijn dienstbetrekking tevens werkzaam is als werknemer van die andere inhoudingsplichtige onder de verplichting het hem toekomende loon en de bijbehorende vrije vergoedingen af te staan aan de inhoudingsplichtige, en  
+a. de werknemer uit hoofde van zijn dienstbetrekking tevens werkzaam is als werknemer van die andere inhoudingsplichtige onder de verplichting het hem toekomende loon af te staan aan de inhoudingsplichtige, en  
 
-b. die andere inhoudingsplichtige het bedoelde loon en de bijbehorende vrije vergoedingen rechtstreeks afdraagt aan de inhoudingsplichtige en aan de werknemer geen vrije verstrekkingen verstrekt die niet vooraf aan de inhoudingsplichtige zijn medegedeeld. Aan de voorwaarde in de eerste volzin, onderdeel a, dat de werknemer uit hoofde van zijn dienstbetrekking tevens werkzaam is als werknemer van een andere inhoudingsplichtige is ook voldaan indien de inhoudingsplichtige waaraan het loon wordt afgestaan een lichaam is waarin de werknemer een aanmerkelijk belang heeft in de zin van de [Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de werknemer via dit lichaam een belang heeft in de andere inhoudingsplichtige en dit belang tezamen met zijn werkzaamheden voor die andere inhoudingsplichtige materieel grotendeels overeenkomt met het aandeel en de werkzaamheden van een vennoot in een vennootschap onder firma.     
+b. die andere inhoudingsplichtige het bedoelde loon rechtstreeks afdraagt aan de inhoudingsplichtige en aan de werknemer geen verstrekkingen verstrekt die niet vooraf aan de inhoudingsplichtige zijn medegedeeld. Aan de voorwaarde in de eerste volzin, onderdeel a, dat de werknemer uit hoofde van zijn dienstbetrekking tevens werkzaam is als werknemer van een andere inhoudingsplichtige is ook voldaan indien de inhoudingsplichtige waaraan het loon wordt afgestaan een lichaam is waarin de werknemer een aanmerkelijk belang heeft in de zin van de [Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de werknemer via dit lichaam een belang heeft in de andere inhoudingsplichtige en dit belang tezamen met zijn werkzaamheden voor die andere inhoudingsplichtige materieel grotendeels overeenkomt met het aandeel en de werkzaamheden van een vennoot in een vennootschap onder firma.     
 2.  Het eerste lid is van overeenkomstige toepassing ten aanzien van een niet in Nederland wonende werknemer ingeval het aan de inhoudingsplichtige afgestane loon voor de toepassing van regelingen ter voorkoming van dubbele belasting niet anders zou worden behandeld dan het door deze inhoudingsplichtige aan de werknemer uit te betalen loon.   
 3.  Het eerste en tweede lid zijn slechts van toepassing als de inspecteur onder wie de inhoudingsplichtige ressorteert die zonder toepassing van deze leden belasting had moeten inhouden, op gezamenlijk verzoek van deze inhoudingsplichtige, de inhoudingsplichtige aan wie het loon wordt afgestaan en de werknemer bij voor bezwaar vatbare beschikking, die te allen tijde bij nadere, voor bezwaar vatbare, beschikking kan worden herroepen, heeft vastgesteld dat aan de gestelde voorwaarden is voldaan.   
 4.  Het derde lid is niet van toepassing indien: 
@@ -1289,7 +1299,9 @@ b. de voorwaarden waaronder een vermindering met het loon van hulpen plaatsvindt
 
 c. het vaststellen van tabelloon in de gevallen, bedoeld in het tweede lid, onderdeel c;  
 
-d. het door de inhoudingsplichtige aan het einde van het kalenderjaar herrekenen van de belasting geheven over uitkeringen en verstrekkingen ingevolge de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de [Wet investeren in jongeren](../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).     
+d. het door de inhoudingsplichtige aan het einde van het kalenderjaar herrekenen van de belasting geheven over uitkeringen en verstrekkingen ingevolge de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de [Wet investeren in jongeren](../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+
+e. de inhoudingsplicht ter zake van loon dat een werknemer geniet van een derde.     
 2.  Bij ministeriële regeling kunnen aanvullende regels worden gesteld betreffende: 
 
 a. de heffing van de belasting ingeval loon van meer dan één inhoudingsplichtige of mede loon van een derde, dan wel over enig tijdvak meer dan één beloning wordt genoten;  
@@ -1599,7 +1611,7 @@ Ingeval de inhoudingsplichtige loon verstrekt met betrekking tot verstreken loon
 
 ### Artikel  39c  
 
-1.  Ingeval de inhoudingsplichtige daar bij de aanvang van het kalenderjaar, dan wel bij aanvang van de inhoudingsplicht, voor kiest, blijven artikel 10, eerste lid, artikel 11, eerste lid, onderdelen a, b, i, m, q, s en t, artikel 13, artikel 13a, hoofdstuk IIA, artikel 31 en artikel 32a zoals deze op 31 december 2010 luidden, alsmede de daarop gebaseerde bepalingen, voor al zijn werknemers van toepassing voor dat kalenderjaar onderscheidenlijk voor het vanaf de aanvang van de inhoudingsplicht resterende gedeelte van het kalenderjaar, en zijn artikel 31a en de daarop gebaseerde bepalingen niet van toepassing voor dat kalenderjaar onderscheidenlijk voor het vanaf de aanvang van de inhoudingsplicht resterende gedeelte van het kalenderjaar. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van de op deze wet gebaseerde uitvoeringsbepalingen.   
+1.  Ingeval de inhoudingsplichtige daar bij de aanvang van het kalenderjaar, dan wel bij aanvang van de inhoudingsplicht, voor kiest, blijven artikel 10, eerste lid, artikel 11, eerste lid, onderdelen a, b, i, m, q, s en t, artikel 13, artikel 13a, hoofdstuk IIA, artikel 31, artikel 32a en artikel 32d zoals deze op 31 december 2010 luidden, alsmede de daarop gebaseerde bepalingen, voor al zijn werknemers van toepassing voor dat kalenderjaar onderscheidenlijk voor het vanaf de aanvang van de inhoudingsplicht resterende gedeelte van het kalenderjaar, en zijn artikel 31a en de daarop gebaseerde bepalingen niet van toepassing voor dat kalenderjaar onderscheidenlijk voor het vanaf de aanvang van de inhoudingsplicht resterende gedeelte van het kalenderjaar. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van de op deze wet gebaseerde uitvoeringsbepalingen.   
 2.  Bij toepassing van het eerste lid wordt artikel 15b, eerste lid, onderdeel ha, zoals dat op 31 december 2010 luidde, vanaf 1 januari 2011 als volgt gelezen: 
 
 ha. personeelsreizen, personeelsfestiviteiten en dergelijke incidentele voorzieningen, behoudens voor zover de vergoeding, volgens bij ministeriële regeling te stellen regels, niet meer bedraagt dan € 454 per jaar.     

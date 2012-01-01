@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 4](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [7](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18h](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [19a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [31a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [33](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [34](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35f](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [35n van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 4](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [7](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [13bis](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18h](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [19a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [31a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [33](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [34](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35f](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [35n van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 2.  Dit besluit verstaat onder: 
 
 a. wet: [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
@@ -160,32 +160,48 @@ b. in de gevallen, bedoeld in [artikel 33, tweede lid, onderdeel c, onder 2°, v
 
 ### Artikel  7a  
 
-1.  Als een onderneming of instelling die bevoegd als kredietinstelling of als beheerder van een beleggingsinstelling optreedt als bedoeld in [artikel 11a, tweede lid, onderdeel c, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) kan door Onze Minister worden aangewezen een onderneming of instelling die op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevoegd is diensten naar Nederland te verrichten.   
+1.  Als een onderneming of instelling die bevoegd als bank of als beheerder van een beleggingsinstelling optreedt als bedoeld in [artikel 11a, tweede lid, onderdeel c, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) kan door Onze Minister worden aangewezen een onderneming of instelling die op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevoegd is diensten naar Nederland te verrichten.   
 2.  Alvorens tot een aanwijzing wordt overgegaan, dient de onderneming of instelling zich tegenover Onze Minister, onder door hem te stellen voorwaarden, te verplichten om met betrekking tot de bij deze onderneming of instelling aangehouden stamrechtspaarrekeningen, onderscheidenlijk met betrekking tot de door deze onderneming of instelling beheerde stamrechtbeleggingsrechten, bedoeld in [artikel 11a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), inlichtingen te verstrekken over de uitvoering van de stamrechtovereenkomsten en een in Nederland uitwinbare zekerheid jegens de ontvanger te stellen voor de invordering van de belasting die mocht worden verschuldigd door toepassing van [artikel 19b, achtste lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). In afwijking van de eerste volzin behoeft een in een van de lidstaten van de Europese Unie of een in een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde onderneming of instelling jegens de ontvanger geen in Nederland uitwinbare zekerheid te stellen indien deze onderneming of instelling, onder door Onze Minister te stellen voorwaarden, ingevolge een overeenkomst met de ontvanger aansprakelijkheid aanvaardt voor de in die volzin bedoelde belasting.   
 3.  De aanwijzing kan eveneens plaatsvinden indien de in het tweede lid bedoelde zekerheid niet door de onderneming of instelling maar door de werknemer of de gewezen werknemer wordt gesteld, waarbij deze tevens de mogelijkheid heeft zekerheid te stellen door middel van verpanding van het recht op het tegoed van een stamrechtspaarrekening, onderscheidenlijk van het recht op de waarde van een stamrechtbeleggingsrecht aan de ontvanger, mits de onderneming of instelling instemt met deze verpanding.   
-4.  De aanwijzing kan door Onze Minister worden ingetrokken wanneer de kredietinstelling of beheerder van een beleggingsinstelling niet meer aan de verplichtingen met betrekking tot het verschaffen van inlichtingen of het stellen van zekerheid voldoet of niet aan een juiste wijze van uitvoering van een verpanding of van de in het tweede lid bedoelde overeenkomst inzake aansprakelijkheid meewerkt.   
-5.  Indien de aanwijzing wordt ingetrokken, worden de tegoeden ingevolge een stamrechtspaarrekening, onderscheidenlijk de waarden van een stamrechtbeleggingsrecht niet op het onmiddellijk daaraan voorafgaande tijdstip aangemerkt als loon uit vroegere dienstbetrekking van de werknemers of gewezen werknemers, dan wel indien een werknemer of gewezen werknemer is overleden, van de gerechtigden tot de tegoeden, onderscheidenlijk van de gerechtigden tot de waarde van de rechten, indien deze onder door Onze Minister te stellen voorwaarden alsnog overgaan op een kredietinstelling of beheerder van een beleggingsinstelling die voldoet aan de in [artikel 11a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) gestelde voorwaarden.   
+4.  De aanwijzing kan door Onze Minister worden ingetrokken wanneer de bank of beheerder van een beleggingsinstelling niet meer aan de verplichtingen met betrekking tot het verschaffen van inlichtingen of het stellen van zekerheid voldoet of niet aan een juiste wijze van uitvoering van een verpanding of van de in het tweede lid bedoelde overeenkomst inzake aansprakelijkheid meewerkt.   
+5.  Indien de aanwijzing wordt ingetrokken, worden de tegoeden ingevolge een stamrechtspaarrekening, onderscheidenlijk de waarden van een stamrechtbeleggingsrecht niet op het onmiddellijk daaraan voorafgaande tijdstip aangemerkt als loon uit vroegere dienstbetrekking van de werknemers of gewezen werknemers, dan wel indien een werknemer of gewezen werknemer is overleden, van de gerechtigden tot de tegoeden, onderscheidenlijk van de gerechtigden tot de waarde van de rechten, indien deze onder door Onze Minister te stellen voorwaarden alsnog overgaan op een bank of beheerder van een beleggingsinstelling die voldoet aan de in [artikel 11a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) gestelde voorwaarden.   
 6.  Onze Minister maakt het aanwijzen als een lichaam als bedoeld in het eerste lid op een daartoe geschikte wijze publiek bekend. Indien Onze Minister een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.   
 
 ### Hoofdstuk  3  
 
-Vervallen door vernummering 
+####Verklaringen gebruik auto
 
 ### Artikel  8  
 
-Vervallen door vernummering.   
+1.  De werknemer is gehouden voordat met de auto waarop de verklaring geen privé-gebruik, bedoeld in [artikel 13bis, twaalfde lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), betrekking heeft op kalenderjaarbasis meer dan 500 kilometer voor privédoeleinden wordt gereden, mede te delen dat hij om intrekking van de verklaring verzoekt.   
+2.  De mededeling, bedoeld in het eerste lid, geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.   
+3.  Het niet of niet tijdig doen van de mededeling, bedoeld in het eerste lid, en het niet doen van die mededeling op de in het tweede lid voorgeschreven wijze worden aangemerkt als een overtreding.   
+4.  De bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het derde lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de verplichting tot het doen van de mededeling, bedoeld in het eerste lid, is ontstaan.   
 
 ### Artikel  9  
 
-Vervallen door vernummering.   
+1.  Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in [artikel 13bis, achttiende lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.   
+2.  De werknemer is gehouden voordat met de bestelauto waarop de verklaring, bedoeld in het eerste lid, betrekking heeft voor privédoeleinden wordt gereden, door tussenkomst van de inhoudingsplichtige mede te delen dat hij de verklaring intrekt.   
+3.  De mededeling, bedoeld in het tweede lid, geschiedt door het toezenden van het daartoe langs elektronische weg ter beschikking gestelde modelformulier aan de inspecteur.   
+4.  Indien de inhoudingsplichtige weet of vermoedt dat de werknemer met de bestelauto waarop de verklaring, bedoeld in het eerste lid, betrekking heeft voor privédoeleinden heeft gereden, is de inhoudingsplichtige gehouden schriftelijk mededeling te doen van het ten onrechte niet intrekken van de verklaring door de werknemer.   
+5.  De mededeling, bedoeld in het vierde lid, bevat ten minste de volgende gegevens: 
 
-### Artikel  10  
+a. de naam, het loonbelasting(sub)nummer van de inhoudingsplichtige;  
 
-Vervallen door vernummering.   
+b. de naam, het adres en het burgerservicenummer of, bij het ontbreken daarvan, het sociaal fiscaalnummer van de werknemer;  
+
+c. het kenteken van de bestelauto.     
+6.  Naar aanleiding van de mededeling, bedoeld in het vierde lid, beslist de inspecteur bij voor bezwaar vatbare beschikking, dat de verklaring uitsluitend zakelijk gebruik bestelauto geacht wordt te zijn ingetrokken met ingang van de dag na die van de dagtekening van die beschikking.   
+7.  Het niet of niet tijdig doen van de mededeling, bedoeld in het tweede en vierde lid, en het niet doen van die mededeling op de in het derde en vierde lid voorgeschreven wijze worden aangemerkt als een overtreding.   
+8.  De bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het zevende lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de verplichting tot het doen van de mededeling, bedoeld in het tweede en vierde lid, is ontstaan.   
 
 ### Hoofdstuk  4  
 
 ####Pensioenregelingen ([Hoofdstuk IIB van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md))
+
+### Artikel  10  
+
+Vervallen door vernummering.   
 
 ### Artikel  10a  
 
@@ -197,13 +213,19 @@ a. de periode gedurende welke de dienstbetrekking heeft geduurd, daaronder begre
 
 2°. sabbatsverlof krachtens een schriftelijk vastgelegde regeling van de inhoudingsplichtige gedurende ten hoogste twaalf maanden;  
 
-3°. studieverlof voor cursussen, voor opleidingen of studie voor een beroep, voor het op peil houden van de vakkennis en voor cursussen, opleidingen of studie die door de inhoudingsplichtige worden gefinancierd;  
-
-4°. verlof als bedoeld in [artikel 19g van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);   met dien verstande dat bij dienstbetrekkingen in deeltijd de aldus in aanmerking te nemen periode wordt verminderd overeenkomstig de deeltijdfactor.  
+3°. studieverlof voor cursussen, voor opleidingen of studie voor een beroep, voor het op peil houden van de vakkennis en voor cursussen, opleidingen of studie die door de inhoudingsplichtige worden gefinancierd;   met dien verstande dat bij dienstbetrekkingen in deeltijd de aldus in aanmerking te nemen periode wordt verminderd overeenkomstig de deeltijdfactor.  
 
 b. perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een met de inhoudingsplichtige verbonden lichaam als bedoeld in [artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dat niet in Nederland is gevestigd, voorzover hij bij dat verbonden lichaam niet heeft deelgenomen aan een pensioenregeling;  
 
-c. perioden gedurende welke, in aansluiting op de in de onderdelen a en b bedoelde perioden, na onvrijwillig ontslag loongerelateerde uitkeringen worden ontvangen, of, onder door Onze Minister te stellen voorwaarden, perioden na ontslag van ten hoogste drie jaar;  
+c. perioden gedurende welke, in aansluiting op de in de onderdelen a en b bedoelde perioden, na onvrijwillig ontslag loongerelateerde uitkeringen worden ontvangen, of, onder door Onze Minister te stellen voorwaarden, perioden na ontslag van ten hoogste drie jaar, doch van ten hoogste tien jaar ingeval vanaf het vierde kalenderjaar na het jaar van ontslag in het kalenderjaar geen hoger bedrag als pensioengevend loon in aanmerking wordt genomen dan het in het tweede kalenderjaar voorafgaand aan dat kalenderjaar door de gewezen werknemer genoten gezamenlijke bedrag van: 
+
+1°. de winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek;  
+
+2°. het belastbare loon;  
+
+3°. het belastbare resultaat uit overige werkzaamheden; en  
+
+4°. de belastbare periodieke uitkeringen en verstrekkingen;    
 
 d. perioden gedurende welke, in aansluiting op de in onderdelen a en b bedoelde perioden, uitkeringen worden ontvangen ingevolge een regeling voor vervroegde uittreding als bedoeld in [artikel 38c van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
@@ -222,16 +244,16 @@ g. perioden waarin de werknemer een tot zijn huishouden behorend kind heeft verz
 | Indien bij een eindloonloonstelsel bij de toepassing van [artikel 18a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) een percentage per dienstjaar wordt toegepast van  | wordt het in [artikel 18a, achtste lid, onderdeel a, eerste volzin](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bedoelde bedrag vervangen door 70% van  |
 |:---|:---|
 | meer dan  | maar niet meer dan  | --- |
-| –  | 1,8%  | €€ 10 667  |
-| 1,8%  | 1,9%  | € 11 803  |
+| –  | 1,8%  | € 10 802  |
+| 1,8%  | 1,9%  | € 11 953  |
 
 2.    
 
 | Indien bij een middelloonstelsel bij de toepassing van [artikel 18a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) een percentage per dienstjaar wordt toegepast van  | wordt het in [artikel 18a, achtste lid, onderdeel a, eerste volzin](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bedoelde bedrag vervangen door 70% van  |
 |:---|:---|
 | meer dan  | maar niet meer dan  | --- |
-| –  | 2,05%  | € 10 667  |
-| 2,05%  | 2,15%  | € 11 803  |
+| –  | 2,05%  | € 10 802  |
+| 2,05%  | 2,15%  | € 11 953  |
 
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing met betrekking tot een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen als bedoeld in [artikel 18a, derde lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
 4.  De vorige leden zijn van overeenkomstige toepassing met betrekking tot partnerpensioen en wezenpensioen, met dien verstande dat daarbij de in het eerste lid en het tweede lid opgenomen percentages naar evenredigheid worden verlaagd overeenkomstig de verhouding tussen de in [artikel 18b, eerste en tweede lid](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), onderscheidenlijk [artikel 18c, eerste en tweede lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) genoemde percentages per dienstjaar en die in [artikel 18a van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
@@ -329,9 +351,13 @@ e. niet aan een juiste wijze van uitvoering van de in het tweede lid, onderdeel 
 
 a. extraterritoriale werknemers: ingekomen werknemers en uitgezonden werknemers;  
 
-b. ingekomen werknemer: door een inhoudingsplichtige uit een ander land aangeworven, of naar een inhoudingsplichtige gezonden werknemer in de zin van [artikel 2](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van de wet, met een specifieke deskundigheid die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is;  
+b. ingekomen werknemer: door een inhoudingsplichtige uit een ander land aangeworven, of naar een inhoudingsplichtige gezonden werknemer in de zin van [artikel 2 van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
 
-c. uitgezonden werknemer: werknemer in de zin van [artikel 2](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van de wet, door een inhoudingsplichtige naar het buitenland gezonden met het oog op: 
+1°. met een specifieke deskundigheid die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is; en  
+
+2°. die in meer dan twee derde van de periode van 24 maanden voorafgaand aan de aanvang van de tewerkstelling in Nederland woonachtig was op een afstand van meer dan 150 kilometer van de grens van Nederland exclusief de territoriale zee van Nederland en de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md).    
+
+c. uitgezonden werknemer: werknemer in de zin van [artikel 2 van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), door een inhoudingsplichtige naar het buitenland gezonden met het oog op: 
 
 1°. plaatsing als ambtenaar bij een vertegenwoordiging van het Koninkrijk der Nederlanden in het buitenland (post);  
 
@@ -344,8 +370,9 @@ c. uitgezonden werknemer: werknemer in de zin van [artikel 2](../../../../../wet
 5°. het beoefenen van wetenschap of het geven van onderwijs.    
 
 d. looptijd: de periode gedurende welke dit hoofdstuk voor een werknemer van toepassing is.     
-3.  Een werknemer wordt slechts als uitgezonden aangemerkt indien hij in een periode van twaalf maanden ten minste 45 dagen ten behoeve van zijn werkzaamheden verblijft in een of meer plaatsen waarnaar hij is gezonden. Bij de bepaling of aan deze voorwaarde is voldaan worden verblijfsperioden van minder dan 15 dagen niet in aanmerking genomen en worden dagen waarop de werknemer zonder onderbreking naar de desbetreffende plaatsen en terug reist – of zou reizen bij gebruikmaking van het voor werknemers in het algemeen meest gebruikelijke vervoermiddel – als dagen van verblijf in die plaatsen aangemerkt. Indien aan de voorwaarde is voldaan, kan de werknemer tevens als uitgezonden worden beschouwd gedurende alle overige dienstreizen van ten minste 10 dagen naar de desbetreffende plaatsen.   
-4.  Ambtenaren bij een post zijn: 
+3.  Indien de tewerkstelling van een werknemer met de titel van doctor (gepromoveerde) plaatsvindt binnen een jaar na het behalen van deze titel, blijven bij de beoordeling of deze werknemer door een inhoudingsplichtige uit een ander land in dienstbetrekking wordt aangeworven buiten beschouwing de periode van verblijf in het kader van het behalen van deze titel in Nederland of in het gebied binnen 150 kilometer van de grens van Nederland exclusief de territoriale zee van Nederland en de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), alsmede de periode na de promotie.   
+4.  Een werknemer wordt slechts als uitgezonden aangemerkt indien hij in een periode van twaalf maanden ten minste 45 dagen ten behoeve van zijn werkzaamheden verblijft in een of meer plaatsen waarnaar hij is gezonden. Bij de bepaling of aan deze voorwaarde is voldaan worden verblijfsperioden van minder dan 15 dagen niet in aanmerking genomen en worden dagen waarop de werknemer zonder onderbreking naar de desbetreffende plaatsen en terug reist – of zou reizen bij gebruikmaking van het voor werknemers in het algemeen meest gebruikelijke vervoermiddel – als dagen van verblijf in die plaatsen aangemerkt. Indien aan de voorwaarde is voldaan, kan de werknemer tevens als uitgezonden worden beschouwd gedurende alle overige dienstreizen van ten minste 10 dagen naar de desbetreffende plaatsen.   
+5.  Ambtenaren bij een post zijn: 
 
 a. overplaatsbare ambtenaren van de Dienst Buitenlandse Zaken van het ministerie van Buitenlandse Zaken, zijnde ambtenaren die zijn aangesteld om waar ook ter wereld werkzaam te zijn;  
 
@@ -356,7 +383,7 @@ c. ambtenaren van andere ministeries die op een post zijn tewerkgesteld;
 d. militairen en burgerpersoneel van het ministerie van Defensie die op een post zijn geplaatst, alsmede vlag- en opperofficieren die zijn geplaatst op internationale staven in het buitenland;  
 
 e. werknemers die op basis van een arbeidsovereenkomst naar burgerlijk recht na uitzending vanuit Nederland werkzaamheden verrichten bij een post.     
-5.  Onder het beoefenen van wetenschap of het geven van onderwijs wordt verstaan: 
+6.  Onder het beoefenen van wetenschap of het geven van onderwijs wordt verstaan: 
 
 a. het buiten Nederland verrichten van onderzoek op de financiële basis van: 
 
@@ -367,7 +394,7 @@ a. het buiten Nederland verrichten van onderzoek op de financiële basis van:
 3°. door Onze minister aan te wijzen vergelijkbare beurzen, stipendia en fellowships;    
 
 b. het als leerkracht of beoefenaar van wetenschap door een instelling op het gebied van onderwijs of wetenschap worden uitgezonden dan wel op uitnodiging van een dergelijke in het buitenland gevestigde instelling zich naar het buitenland begeven, met het doel aldaar onderwijs te geven aan een instelling op het gebied van onderwijs of wetenschap of wetenschappelijk onderzoek te verrichten voor een dergelijke instelling.     
-6.  Schoolgelden zijn uitgaven voor het door kinderen van de extraterritoriale werknemer volgen van basisonderwijs of voortgezet onderwijs aan internationale scholen en internationale afdelingen van niet-internationale scholen, tot de bedragen die door de school overeenkomstig haar tarieven voor onderwijs in rekening worden gebracht, met uitzondering van kosten van kost en inwoning maar met inbegrip van vervoerskosten.   
+7.  Schoolgelden zijn uitgaven voor het door kinderen van de extraterritoriale werknemer volgen van basisonderwijs of voortgezet onderwijs aan internationale scholen en internationale afdelingen van niet-internationale scholen, tot de bedragen die door de school overeenkomstig haar tarieven voor onderwijs in rekening worden gebracht, met uitzondering van kosten van kost en inwoning maar met inbegrip van vervoerskosten.   
 
 ### Artikel  10ea  
 
@@ -375,7 +402,7 @@ b. het als leerkracht of beoefenaar van wetenschap door een instelling op het ge
 
 a. 30% van de grondslag, waarbij de grondslag de som is van: 
 
-1°. het loon uit tegenwoordige dienstbetrekking ter zake van het verblijf buiten het land van herkomst waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting wordt geheven, voor zover de ingekomen of uitgezonden werknemer ter zake geen recht heeft op voorkoming van dubbele belasting;  
+1°. het loon uit tegenwoordige dienstbetrekking ter zake van het verblijf buiten het land van herkomst dat is genoten tijdens de looptijd van de bewijsregel en waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting wordt geheven, voor zover de ingekomen of uitgezonden werknemer ter zake geen recht heeft op voorkoming van dubbele belasting;  
 
 2°. de vergoeding voor extraterritoriale kosten, bedoeld in [artikel 31a, tweede lid, onderdeel e, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);    
 
@@ -384,38 +411,44 @@ b. het bedrag van de schoolgelden.
 
 ### Artikel  10eb  
 
-1.  Bij de beoordeling of een ingekomen werknemer specifieke deskundigheid bezit die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is, wordt in onderlinge samenhang rekening gehouden met de volgende factoren, voorzover relevant: 
+1.  Een werknemer bezit specifieke deskundigheid indien het loon, bedoeld in [paragraaf 3.3.1 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op jaarbasis meer bedraagt dan € 35 000.   
+2.  In afwijking van het eerste lid bezit een werknemer die de titel van master heeft behaald aan een instelling voor wetenschappelijk onderwijs en die de leeftijd van 30 jaar nog niet heeft bereikt, specifieke deskundigheid indien het loon, bedoeld in [paragraaf 3.3.1 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op jaarbasis meer bedraagt dan € 26 605.   
+3.  In afwijking in zoverre van het eerste en tweede lid bezit een werknemer ook specifieke deskundigheid indien de werknemer: 
+
+a. in het kader van wetenschappelijk onderzoek of wetenschappelijk onderwijs in Nederland wordt tewerkgesteld bij een onderzoeksinstelling die is aangewezen op grond van [artikel 3.18b, onderdelen a of b, van het Voorschrift Vreemdelingen 2000](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md), of  
+
+b. in Nederland wordt tewerkgesteld als arts in opleiding tot specialist aan een door de Medisch Specialisten Registratie Commissie, de Sociaal-Geneeskundigen Registratie Commissie of de Huisarts en Verpleeghuisarts Registratie Commissie aangewezen opleidingsinstituut.     
+4.  Bij de beoordeling of de specifieke deskundigheid die een ingekomen werknemer bezit niet of schaars aanwezig is op de Nederlandse arbeidsmarkt, wordt in onderlinge samenhang rekening gehouden met de volgende factoren, voor zover relevant: 
 
 a. het niveau van de door de werknemer gevolgde opleiding;  
 
 b. de voor de functie relevante ervaring van de werknemer;  
 
 c. het beloningsniveau van de onderhavige functie in Nederland in verhouding tot het beloningsniveau in het land van herkomst van de werknemer.     
-2.  Een werknemer van het middenkader of hoger kader van een internationaal concern met ten minste twee en een half jaar ervaring in dat concern die in het kader van roulatie wordt uitgezonden naar Nederland, wordt geacht specifieke deskundigheid te bezitten die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is.   
+5.   Dit lid is nog niet in werking getreden.    
+6.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de toepassing van dit artikel.   
 
 ### Artikel  10ec  
 
-1.  Voor ingekomen werknemers bedraagt de looptijd van de bewijsregel maximaal tien jaar, ingaande op de eerste dag van de tewerkstelling door de inhoudingsplichtige.   
+1.  Voor ingekomen werknemers bedraagt de looptijd van de bewijsregel maximaal acht jaar, ingaande op de eerste dag van de tewerkstelling door de inhoudingsplichtige.   
 2.  Voor uitgezonden werknemers is de looptijd van de bewijsregel gelijk aan de duur van de uitzending.   
 
 ### Artikel  10ed  
 
-1.  Indien een ingekomen werknemer tijdens de looptijd een andere inhoudingsplichtige krijgt, blijft op gezamenlijk verzoek van de werknemer en de nieuwe inhoudingsplichtige de bewijsregel gedurende de resterende looptijd van toepassing, mits de periode tussen het einde van de tewerkstelling door de oude inhoudingsplichtige en de aanvang van de tewerkstelling door de nieuwe inhoudingsplichtige niet langer is dan drie maanden.   
+1.  Indien een ingekomen werknemer tijdens de looptijd een andere inhoudingsplichtige krijgt, blijft op gezamenlijk verzoek van de werknemer en de nieuwe inhoudingsplichtige de bewijsregel gedurende de resterende looptijd van toepassing, mits de periode tussen het einde van de tewerkstelling door de oude inhoudingsplichtige en de totstandkoming van de arbeidsovereenkomst met de nieuwe inhoudingsplichtige niet langer is dan drie maanden.   
 2.  Bij een dergelijk verzoek moet door de nieuwe inhoudingsplichtige opnieuw aannemelijk worden gemaakt dat de werknemer behoort te worden aangemerkt als ingekomen werknemer.   
 
 ### Artikel  10ee  
 
-1.  Indien de ingekomen werknemer niet langer specifieke deskundigheid bezit die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is, wordt de looptijd verminderd tot op het moment waarop deze situatie zich gaat voordoen, maar tot op niet minder dan vijf jaar.   
-2.  Met ingang van het zesde jaar van de looptijd kan de inspecteur de inhoudingsplichtige verzoeken aannemelijk te maken dat de werknemer nog steeds behoort te worden aangemerkt als ingekomen werknemer.   
-3.  Indien de inhoudingsplichtige met ingang van het zesde jaar van de looptijd aannemelijk maakt dat de werknemer op dat moment nog steeds behoort te worden aangemerkt als een ingekomen werknemer, is het tweede lid gedurende de resterende looptijd niet meer van toepassing.   
+Indien de ingekomen werknemer niet langer specifieke deskundigheid bezit die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is, wordt de looptijd verminderd tot op het moment waarop deze situatie zich voordoet.  
 
 ### Artikel  10ef  
 
 1.  Indien de ingekomen werknemer voorafgaand aan de aanvang van de tewerkstelling als ingekomen werknemer door de inhoudingsplichtige, in Nederland is tewerkgesteld of is verbleven, wordt de looptijd verminderd met de perioden van eerdere tewerkstelling en eerder verblijf.   
-2.  Perioden van eerdere tewerkstelling en eerder verblijf die meer dan vijftien jaar voorafgaand aan de tewerkstelling zijn geëindigd, worden niet in aanmerking genomen.   
-3.  Perioden van eerdere tewerkstelling en eerder verblijf die meer dan tien jaar maar minder dan vijftien jaar voorafgaand aan de tewerkstelling zijn geëindigd, worden niet in aanmerking genomen indien de ingekomen werknemer in de periode van tien jaar niet in Nederland is tewerkgesteld of is verbleven.   
-4.  Voor de toepassing van het derde lid is de ingekomen werknemer niet in Nederland tewerkgesteld indien hij in elk kalenderjaar van de periode van tien jaar maximaal 20 dagen hier te lande heeft gewerkt.   
-5.  Voor de toepassing van het derde lid is de ingekomen werknemer niet in Nederland verbleven indien hij in elk kalenderjaar van de periode van tien jaar in totaal niet langer dan zes weken in Nederland is verbleven wegens vakantie, familiebezoek of andere persoonlijke omstandigheden, waarbij in de periode van tien jaar eenmalig een periode van maximaal drie aaneengesloten maanden in Nederland wegens vakantie, familiebezoek of andere persoonlijke omstandigheden niet in aanmerking wordt genomen.   
+2.  Perioden van eerdere tewerkstelling en eerder verblijf die meer dan vijfentwintig jaar voorafgaand aan de tewerkstelling zijn geëindigd, worden niet in aanmerking genomen.   
+3.  Voor de toepassing van het eerste en tweede lid is de ingekomen werknemer niet in Nederland tewerkgesteld indien hij in elk kalenderjaar van de periode van vijfentwintig jaar maximaal 20 dagen hier te lande heeft gewerkt.   
+4.  Voor de toepassing van het eerste en tweede lid is de ingekomen werknemer niet in Nederland verbleven indien hij in elk kalenderjaar van de periode van vijfentwintig jaar in totaal niet langer dan zes weken in Nederland is verbleven wegens vakantie, familiebezoek of andere persoonlijke omstandigheden, waarbij in de periode van vijfentwintig jaar eenmalig een periode van maximaal drie aaneengesloten maanden in Nederland wegens vakantie, familiebezoek of andere persoonlijke omstandigheden niet in aanmerking wordt genomen.   
+5.  Voor de toepassing van het eerste en tweede lid wordt een werknemer geacht in Nederland te zijn tewerkgesteld gedurende de gehele periode dat hij een door een inhoudingsplichtige uit een ander land aangeworven, of naar een inhoudingsplichtige gezonden werknemer in de zin van [artikel 2 van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) is.   
 
 ### Artikel  10eg  
 
@@ -423,7 +456,7 @@ Indien een verzoek om toepassing van de bewijsregel als bedoeld in artikel 10ei 
 
 ### Artikel  10eh  
 
-Bij vermindering van de looptijd volgens dit hoofdstuk wordt een periode waarmee de looptijd wordt verminderd naar boven afgerond op gehele kalendermaanden.  
+Bij vermindering van de looptijd volgens dit hoofdstuk wordt elke periode waarmee de looptijd wordt verminderd naar boven afgerond op gehele kalendermaanden.  
 
 ### Artikel  10ei  
 
@@ -448,13 +481,13 @@ b. aannemelijk is dat de werknemer opnieuw zou worden aangemerkt als ingekomen w
 
 a. de navolgende termijnen van lijfrenten en andere periodieke uitkeringen en verstrekkingen, negatieve uitgaven voor inkomensvoorzieningen en afkoopsommen: 
 
-1°. termijnen van lijfrenten verstrekt door een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), alsmede termijnen als bedoeld in [artikel 3.126a, vierde, vijfde en zesde lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) verstrekt door een kredietinstelling of beheerder als bedoeld in artikel 3.126a van die wet;  
+1°. termijnen van lijfrenten verstrekt door een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), alsmede termijnen als bedoeld in [artikel 3.126a, vierde, vijfde en zesde lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) verstrekt door een bank of beheerder als bedoeld in artikel 3.126a van die wet;  
 
 2°. periodieke uitkeringen en verstrekkingen ter zake van invaliditeit, ziekte of ongeval als bedoeld in [artikel 3.100, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), verstrekt door een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 3°. negatieve uitgaven voor inkomensvoorzieningen ter zake van een afkoop als bedoeld in [artikel 3.133, tweede lid, onderdeel d, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), indien de afkoopsom is verstrekt door een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); daarbij wordt de loonbelasting geheven over de afkoopsom;  
 
-4°. uitkeringen die worden verstrekt door een kredietinstelling of beheerder als bedoeld in [artikel 3.126a van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die ingevolge [artikel 3.133, achtste lid, van die wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangemerkt als negatieve uitgaven voor inkomensvoorzieningen;  
+4°. uitkeringen die worden verstrekt door een bank of beheerder als bedoeld in [artikel 3.126a van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die ingevolge [artikel 3.133, achtste lid, van die wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangemerkt als negatieve uitgaven voor inkomensvoorzieningen;  
 
 5°. afkoopsommen ter zake van lijfrenten verstrekt door een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover met betrekking tot die afkoopsommen ingevolge [hoofdstuk 2, artikel I, onderdeel O, eerste lid, aanhef en onderdeel a, van de Invoeringswet Wet inkomstenbelasting 2001](../../../../../wet/invoeringswet/wet/inkomstenbelasting/2001/BWBR0011354/README.md) en artikel 75 van de Wet op de inkomstenbelasting 1964 de regels die daarvoor golden op 31 december 1991 van toepassing blijven;  
 

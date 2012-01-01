@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-#### [Wijziging Wet kinderopvang](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) 
+####Wijziging [Wet kinderopvang](../../../../wet/wet/kinderopvang/BWBR0017017/README.md)
 
 Wijzigt de Wet kinderopvang.   
 

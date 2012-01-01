@@ -108,15 +108,16 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 2:9, eerste en tweede lid  | 1  |
 | 2:10, eerste lid en tweede lid  | 1  |
 | 2:10, vierde lid  | 2  |
+| 2:10a, eerste lid  | 3  |
+| 2:10e, eerste lid  | 3  |
+| 2:10f, eerste lid  | 3  |
 | 2:11, eerste lid  | 3  |
 | 2:15, eerste lid  | 1  |
 | 2:15, tweede lid  | 2  |
 | 2:16, eerste en derde lid  | 3  |
 | 2:18, eerste lid  | 1  |
 | 2:18, tweede lid  | 2  |
-| 2:19  | 1  |
-| 2:20, eerste lid  | 3  |
-| 2:23, eerste lid  | 3  |
+| 2:20  | 3  |
 | 2:25, eerste lid  | 1  |
 | 2:25, tweede lid  | 2  |
 | 2:26  | 2  |
@@ -169,6 +170,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 2:103a, eerste lid  | 2  |
 | 2:106a, eerste lid  | 2  |
 | 2:107, eerste lid  | 1  |
+| 2:107a, eerste en tweede lid  | 1  |
 | 2:108, eerste lid  | 1  |
 | 2:110, eerste lid  | 1  |
 | 2:111, eerste lid  | 1  |
@@ -213,12 +215,11 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:24  | 2  |
 | 3:29, eerste lid  | 2  |
 | 3:29, tweede lid  | 1  |
-| 3:29a  | 3  |
+| 3:29b  | 2  |
 | 3:29c, eerste lid  | 2  |
 | 3:30, eerste lid  | 2  |
 | 3:32  | 2  |
-| 3:34, eerste en tweede lid  | 2  |
-| 3:35  | 2  |
+| 3:34  | 2  |
 | 3:35a, eerste en tweede lid  | 2  |
 | 3:36, eerste, tweede lid  | 3  |
 | 3:36, derde en zesde lid  | 2  |
@@ -260,7 +261,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:74, eerste lid  | 1  |
 | 3:74a, eerste, tweede en vierde lid  | 2  |
 | 3:74a, derde lid  | 1  |
-| 3:74b  | 2  |
+| 3:74b, eerste en tweede lid  | 2  |
 | 3:75  | 2  |
 | 3:76, eerste en tweede lid  | 1  |
 | 3:77  | 2  |
@@ -379,7 +380,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:27, eerste, tweede en vierde lid  | 2  |
 | 4:29, vierde lid  | 2  |
 | 4:30a, eerste tot en met derde lid  | 2  |
-| 4:31, eerste lid  | 2  |
+| 4:31, eerste tot en met derde lid  | 2  |
+| 4:31a  | 2  |
 | 4:32, eerste en tweede lid  | 2  |
 | artikel 4:33, eerste lid  | 2  |
 | 4:34, eerste en tweede lid  | 3  |
@@ -631,6 +633,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 30,  | 2  |
 | 31, eerste lid  | 1  |
 | 31, tweede lid  | 2  |
+| 32b, eerste lid  | 1  |
 | 33, eerste tot en met derde lid  | 1  |
 | 34, eerste lid  | 2  |
 | 34, tweede lid  | 1  |
@@ -641,6 +644,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 39, eerste tot en met vijfde lid  | 2  |
 | 40, eerste lid  | 2  |
 | 40, tweede lid  | 1  |
+| 40a, eerste, tweede en vijfde lid  | 2  |
+| 40b  | 3  |
 | 41, tweede lid  | 2  |
 | 44, tweede tot en met vierde en zesde lid  | 1  |
 | 45, eerste en derde lid  | 1  |
@@ -650,6 +655,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 55, eerste lid  | 3  |
 | 56, tweede tot en met het vierde lid  | 2  |
 | 59, eerste en tweede lid  | 2  |
+| 60a, eerste en tweede lid  | 2  |
 | 61a, eerste en tweede lid  | 2  |
 | 62, tweede en derde lid  | 2  |
 | 62, vierde lid  | 3  |
@@ -658,7 +664,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 62c, tweede lid  | 2  |
 | 62e, eerste lid  | 3  |
 | 63, eerste en tweede lid  | 2  |
-| 64  | 2  |
+| 64, vierde lid  | 2  |
 | 64a  | 2  |
 | 64b, eerste tot en met derde lid  | 2  |
 | 64c, eerste en tweede lid  | 3  |
@@ -685,7 +691,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 102, eerste, tweede en vierde lid  | 2  |
 | 103, eerste, tweede en vierde lid  | 2  |
 | 104, eerste tot en met derde lid  | 3  |
-| 105, eerste en derde lid  | 2  |
 | 106  | 2  |
 | 107, tweede lid  | 2  |
 | 111, tweede, vierde en vijfde lid  | 2  |
@@ -705,7 +710,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 126, achtste lid  | 3  |
 | 127, eerste tot en met derde lid  | 2  |
 | 129  | 1  |
-| 131, vierde lid  | 2  |
+| 131, eerste en vierde lid  | 2  |
 | 133, eerste lid  | 2  |
 | 133, tweede lid  | 1  |
 | 134, eerste lid  | 1  |
@@ -762,8 +767,11 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 38c, eerste lid  | 2  |
 | 38d, eerste lid  | 2  |
 | 38e, eerste en tweede lid  | 2  |
+| 38f  | 2  |
 | 38f, eerste en tweede lid  | 2  |
 | 38g  | 2  |
+| 38g  | 2  |
+| 38h  | 1  |
 | 38h  | 3  |
 | 38i  | 2  |
 | 38j  | 2  |
@@ -794,6 +802,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 58f, derde tot en met vijfde lid  | 2  |
 | 59  | 2  |
 | artikel 59a, eerste en tweede lid  | 3  |
+| 59a, eerste en tweede lid  | 2  |
+| 59b, eerste tot en met vierde lid  | 2  |
+| 59c, eerste en tweede lid  | 2  |
+| 59d, eerste tot en met derde lid  | 2  |
+| 59e, eerste lid  | 2  |
+| 59f, eerste lid  | 2  |
+| 59g, eerste en derde lid  | 2  |
 | 60, eerste en vierde lid  | 2  |
 | 61, eerste lid  | 2  |
 | 62  | 2  |
@@ -809,6 +824,12 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 70, eerste tot en met zevende lid  | 2  |
 | 71, eerste en tweede lid  | 2  |
 | 71a, eerste, derde en vierde lid  | 2  |
+| 71c  | 2  |
+| 71d  | 2  |
+| 71e  | 2  |
+| 71f, eerste lid  | 2  |
+| 71g, eerste lid  | 2  |
+| 71l  | 2  |
 | 72, eerste tot en met derde en vijfde lid  | 2  |
 | 73, eerste en tweede lid  | 2  |
 | 74  | 2  |

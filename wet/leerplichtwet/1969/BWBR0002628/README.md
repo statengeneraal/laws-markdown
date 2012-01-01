@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Deze wet verstaat onder: 
 
-a. "Onze minister": Onze Minister van Onderwijs, Cultuur en Wetenschap;  
+a. "Onze minister": Onze Minister van Onderwijs, Cultuur en Wetenschap, tenzij uitdrukkelijk anders bepaald;  
 
 b. "school": 
 
@@ -28,13 +28,13 @@ b. "school":
 
 3. een andere dagschool die wat de inrichting van het onderwijs betreft, overeenkomt met de criteria, bedoeld in artikel 1a1, en wat de bevoegdheden van de leraren betreft, overeenkomt met een of meer van de onder 1 bedoelde scholen;  
 
-4. een andere krachtens artikel 1a, onder a, voor de toepassing van deze wet als school aangewezen onderwijsinstelling;    
+4. een andere krachtens artikel 1a, eerste lid, voor de toepassing van deze wet als school aangewezen onderwijsinstelling;    
 
-c. "instelling": 
+c. «instelling»: 
 
-1. een instelling voor educatie en beroepsonderwijs als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+1. instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-2. een andere krachtens artikel 1a, onder b, voor de toepassing van deze wet als instelling aangewezen cursus of instelling, waar onderwijs of vorming wordt gegeven;    
+2. beroepsopleiding ten aanzien waarvan toepassing is gegeven aan [artikel 1.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    
 
 d. "hoofd": 
 
@@ -52,14 +52,10 @@ h. meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedo
 
 ### Artikel  1a  
 
-####Aanwijzing scholen en instellingen
+####Aanwijzing scholen
 
-1.  Bij ministeriële regeling dan wel bij beschikking van Onze minister kunnen: 
-
-a. onderwijsinstellingen dan wel groepen daarvan worden aangewezen als school bedoeld in artikel 1, onderdeel b onder 4, en  
-
-b. cursussen of instellingen waar onderwijs of vorming wordt gegeven dan wel groepen daarvan worden aangewezen als instelling bedoeld in artikel 1, onderdeel c, onder 2.    Aan de aanwijzing kunnen voorwaarden worden verbonden.  
-2.  Onze minister kan de aanwijzing intrekken indien het hoofd of het personeel van de school of instelling in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Bij ministeriële regeling dan wel bij beschikking van Onze minister kunnen onderwijsinstellingen dan wel groepen daarvan worden aangewezen als school als bedoeld in artikel 1, onderdeel b, subonderdeel 4. Aan de aanwijzing kunnen voorwaarden worden verbonden.   
+2.  Onze minister kan de aanwijzing intrekken indien het hoofd of het personeel van de school in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  1a1  
 
@@ -323,7 +319,7 @@ In andere gevallen dan genoemd in artikel 5 kunnen burgemeester en wethouders op
 
 ####Leerplichtambtenaren
 
-1.  Het toezicht op de naleving van deze wet is opgedragen aan burgemeester en wethouders. Zij wijzen daartoe een of meer ambtenaren aan.   
+1.  Het toezicht op de naleving van deze wet anders dan door de hoofden is opgedragen aan burgemeester en wethouders. Zij wijzen daartoe een of meer ambtenaren aan.   
 2.  Alvorens hun ambt te aanvaarden, leggen deze ambtenaren in handen van de burgemeester de eed of de belofte af, waarvan het formulier bij ministeriële regeling wordt vastgesteld.   
 3.  Deze ambtenaren zijn bevoegd hun taak uit te oefenen ten aanzien van leerlingen die in Nederland woon- of verblijfplaats hebben.   
 4.  Burgemeester en wethouders stellen een instructie vast voor deze ambtenaren, die ten minste bevat: 
@@ -336,6 +332,12 @@ c. de wijze waarop de ambtenaren bij de uitvoering van hun taken overleg plegen 
 
 d. de aanwijzing van de diensten en instellingen waarmee de ambtenaren bij de uitvoering van hun taken dienen samen te werken.     
 5.  De ambtenaren, bedoeld in het eerste lid, tweede volzin, zijn belast met de opsporing van de bij deze wet strafbaar gestelde feiten, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+
+### Artikel  16a  
+
+####Inspectie van het onderwijs
+
+Het toezicht op de naleving van deze wet door de hoofden is opgedragen aan de Inspectie van het onderwijs.  
 
 ### Artikel  17  
 
@@ -351,6 +353,7 @@ Gemeenschappelijke regelingen betreffende het toezicht op de naleving van deze w
 2.  Indien de jongere geen volledig onderwijsprogramma volgt, geeft het hoofd van een instelling aan burgemeester en wethouders bericht van het programma van de combinatie leren en werken, bedoeld in artikel 4c, eerste lid, dat door de jongere wordt gevolgd.   
 3.  De hoofden geven aan burgemeester en wethouders en aan de ambtenaar alle inlichtingen die deze in verband met de uitvoering van deze wet verlangen.   
 4.  In de kennisgeving, bedoeld in het eerste lid, en in de mededeling, bedoeld in het tweede lid, vermeldt het hoofd zo mogelijk mede het burgerservicenummer of onderwijsnummer van de jongere.   
+6.  Indien burgemeester en wethouders van de gemeente waar de leerling woon- of verblijfplaats heeft hun bevoegdheden op grond van deze wet hebben ondergebracht in een gemeenschappelijke regeling als bedoeld in [artikel 1, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), vindt de informatieverstrekking door de hoofden, bedoeld in dit artikel, plaats aan het orgaan dat daartoe volgens die gemeenschappelijke regeling is aangewezen.   
 
 ### Artikel  18a  
 
@@ -366,18 +369,18 @@ Burgemeester en wethouders controleren, of de jongeren die als ingezetene in de 
 
 ### Artikel  21  
 
-####Kennisgeving relatief verzuim niet-bekostigd onderwijs
+####Decentrale kennisgeving relatief verzuim
 
-1.  Indien een ingeschreven leerling van een school ten aanzien van wie deze wet van toepassing is, niet zijnde een dagschool voor voortgezet onderwijs als bedoeld in artikel 1, onderdeel b, subonderdeel 1, zonder geldige reden les- of praktijktijd heeft verzuimd en dit verzuim gedurende een periode van vier opeenvolgende lesweken in totaal zestien uren les- of praktijktijd bedraagt, geeft het hoofd van de school hiervan onverwijld kennis aan burgemeester en wethouders van de gemeente waar de leerling woon- of verblijfplaats heeft.   
-2.  Indien een ingeschreven leerling van een instelling ten aanzien van wie deze wet van toepassing is, niet zijnde een instelling als bedoeld in artikel 1, onderdeel c, subonderdeel 1, zonder geldige reden gedurende een periode van vier opeenvolgende lesweken in totaal zestien uren van de lestijd heeft verzuimd, geeft het hoofd van de instelling hiervan onverwijld kennis aan burgemeester en wethouders van de gemeente waar de leerling woon- of verblijfplaats heeft.   
-3.  In de kennisgeving, bedoeld in het eerste en tweede lid, vermeldt het hoofd zo mogelijk mede het burgerservicenummer of onderwijsnummer van de jongere.   
+1.  Indien een ingeschreven leerling van een school ten aanzien van wie deze wet van toepassing is, niet zijnde een dagschool voor voortgezet onderwijs als bedoeld in artikel 1, onderdeel b, subonderdelen 1 en 2, zonder geldige reden les- of praktijktijd heeft verzuimd en dit verzuim gedurende een periode van vier opeenvolgende lesweken in totaal zestien uren les- of praktijktijd bedraagt, geeft het hoofd van de school hiervan onverwijld kennis aan burgemeester en wethouders van de gemeente waar de leerling woon- of verblijfplaats heeft.   
+2.  In de kennisgeving, bedoeld in het eerste lid, vermeldt het hoofd zo mogelijk mede het burgerservicenummer of onderwijsnummer van de jongere.   
+3.  Indien burgemeester en wethouders van de gemeente waar de leerling woon- of verblijfplaats heeft hun bevoegdheden op grond van deze wet hebben ondergebracht in een gemeenschappelijke regeling als bedoeld in [artikel 1, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), vindt de kennisgeving, bedoeld in het eerste lid, plaats aan het orgaan dat daartoe volgens die gemeenschappelijke regeling is aangewezen.   
 
 ### Artikel  21a  
 
-####Kennisgeving relatief verzuim bekostigd onderwijs
+####Centrale kennisgeving relatief verzuim
 
-1.  Indien een ingeschreven leerling van een dagschool voor voortgezet onderwijs als bedoeld in artikel 1, onderdeel b, subonderdeel 1, zonder geldige reden les- of praktijktijd heeft verzuimd en dit verzuim gedurende een periode van vier opeenvolgende lesweken in totaal zestien uren les- of praktijktijd bedraagt, geeft het hoofd van de school hiervan onverwijld kennis aan Onze minister, zo mogelijk onder opgave van de reden die naar zijn oordeel ten grondslag ligt aan het verzuim.   
-2.  Indien een ingeschreven leerling van een instelling als bedoeld in artikel 1, onderdeel c, subonderdeel 1, zonder geldige reden gedurende een periode van vier opeenvolgende lesweken in totaal zestien uren van de lestijd heeft verzuimd, geeft het hoofd van de instelling hiervan onverwijld kennis aan Onze minister, zo mogelijk onder opgave van de reden die naar zijn oordeel ten grondslag ligt aan het verzuim.   
+1.  Indien een ingeschreven leerling van een dagschool voor voortgezet onderwijs als bedoeld in artikel 1, onderdeel b, subonderdelen 1 en 2, zonder geldige reden les- of praktijktijd heeft verzuimd en dit verzuim gedurende een periode van vier opeenvolgende lesweken in totaal zestien uren les- of praktijktijd bedraagt, geeft het hoofd van de school hiervan onverwijld kennis aan Onze minister, zo mogelijk onder opgave van de reden die naar zijn oordeel ten grondslag ligt aan het verzuim.   
+2.  Indien een ingeschreven leerling van een instelling als bedoeld in artikel 1, onderdeel c, zonder geldige reden gedurende een periode van vier opeenvolgende lesweken in totaal zestien uren van de lestijd heeft verzuimd, geeft het hoofd van de instelling hiervan onverwijld kennis aan Onze minister, zo mogelijk onder opgave van de reden die naar zijn oordeel ten grondslag ligt aan het verzuim.   
 3.  Onze minister neemt de op grond van dit artikel door het hoofd verstrekte gegevens van de betrokken leerling op in het meldingsregister relatief verzuim.   
 4.  Onze minister bericht burgemeester en wethouders van de gemeente waar de betrokken leerling woon- of verblijfplaats heeft onverwijld na de kennisgeving, bedoeld in het eerste en tweede lid, dat een zodanige kennisgeving heeft plaatsgevonden.   
 5.  Onze minister verstrekt uit het meldingsregister relatief verzuim aan het betrokken hoofd van de school en aan burgemeester en wethouders van de gemeente waar de betrokken leerling woon- of verblijfplaats heeft de ter zake van die leerling geregistreerde gegevens.   
@@ -388,12 +391,13 @@ Burgemeester en wethouders controleren, of de jongeren die als ingezetene in de 
 10.  Bij de verwerking van gegevens, bedoeld in dit artikel, wordt het persoonsgebonden nummer van de betrokken leerling gebruikt.   
 11.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van de verstrekking van gegevens op grond van het eerste, tweede en zesde lid en wordt een nadere specificatie gegeven van de gegevens die op grond van het eerste, tweede en zesde lid worden verstrekt.   
 12.  De gegevens die worden verstrekt op grond van het eerste en tweede lid kunnen persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) omvatten, met uitzondering van gegevens over ras, politieke gezindheid, seksueel leven of het lidmaatschap van een vakvereniging, voor zover deze persoonsgegevens noodzakelijk zijn met het oog op de informatieverstrekking over de achtergronden van het relatief verzuim.   
+13.  Indien burgemeester en wethouders van de gemeente waar de leerling woon- of verblijfplaats heeft hun bevoegdheden op grond van deze wet hebben ondergebracht in een gemeenschappelijke regeling als bedoeld in [artikel 1, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en daarvan mededeling hebben gedaan aan Onze minister, komen hun rechten en verplichtingen als bedoeld in dit artikel toe aan het orgaan dat daartoe volgens die gemeenschappelijke regeling is aangewezen.   
 
 ### Artikel  21b  
 
 ####Overgangsbepaling kennisgeving relatief verzuim primair onderwijs en (voortgezet) speciaal onderwijs
 
-Tot een bij koninklijk besluit te bepalen tijdstip wordt in artikel 21, eerste lid, voor «niet zijnde een school» gelezen «niet zijnde een dagschool voor voortgezet onderwijs» en wordt in artikel 21a, eerste lid, voor «een ingeschreven leerling van een school» gelezen: een ingeschreven leerling van een dagschool voor voortgezet onderwijs.  
+Tot een bij koninklijk besluit te bepalen tijdstip wordt in artikel 21, eerste lid, voor «niet zijnde een school als bedoeld in artikel 1, onderdeel b, subonderdelen 1 en 2 » gelezen «niet zijnde een dagschool voor voortgezet onderwijs als bedoeld in artikel 1, onderdeel b, subonderdeel 1, of een school als bedoeld in artikel 1, onderdeel b, subonderdeel 2» en wordt in artikel 21a, eerste lid, voor «een ingeschreven leerling van een school als bedoeld in artikel 1, onderdeel b, subonderdelen 1 en 2» gelezen: een ingeschreven leerling van een dagschool voor voortgezet onderwijs als bedoeld in artikel 1, onderdeel b, subonderdeel 1, of een school als bedoeld in artikel 1, onderdeel b, subonderdeel 2.  
 
 ### Artikel  22  
 
@@ -427,7 +431,7 @@ Ambtenaren, aangesteld voor de uitvoering van de politietaak, zijn bevoegd een j
 
 ### §  5  
 
-####Strafbepalingen
+####Sanctiebepalingen
 
 ### Artikel  26  
 
@@ -438,13 +442,13 @@ Ambtenaren, aangesteld voor de uitvoering van de politietaak, zijn bevoegd een j
 
 ### Artikel  27  
 
-####Strafbedreiging hoofd
+####Bestuurlijke boete hoofd
 
-Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft het hoofd dat: 
+Onze minister dan wel, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit, kan een bestuurlijke boete van ten hoogste 1 000 euro per overtreding, met een maximum van 100 000 euro per schooljaar, opleggen aan het hoofd dat: 
 
 a. in strijd handelt met artikel 13a, tweede lid, of artikel 14, derde lid, eerste volzin,  
 
-b. niet voldoet aan een der verplichtingen, opgelegd in de artikelen 18 en 21, of  
+b. niet voldoet aan een der verplichtingen, opgelegd in de artikelen 18, 21 en 21a, of  
 
 c. bij de uitvoering van deze wet onjuiste of onvolledige inlichtingen verstrekt.    
 

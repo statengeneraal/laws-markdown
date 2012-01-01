@@ -127,7 +127,7 @@ b. een subsidievaststelling is opgenomen in bijlage 2.2.
 
 In dit hoofdstuk wordt verstaan onder: 
 
-– duurzaam technisch ontwikkelingsproject: een technisch ontwikkelingsproject gericht op producten, processen of diensten die een aantoonbaar perspectief bieden op een substantiële vermindering van de belasting van het milieu ten opzichte van bestaande producten, processen of diensten met een vergelijkbare functie;  
+– certificeringstraject: certificering op basis van de resultaten van uitvoerige beproevingen en berekeningen;  
 
 – klinisch ontwikkelingsproject: een planmatig geheel van activiteiten in de fase van experimentele ontwikkeling, gericht op het omzetten van resultaten van industrieel onderzoek in plannen, schema’s of ontwerpen voor nieuwe, gewijzigde of verbeterde producten of processen, die nieuw zijn voor Nederland, en 
 
@@ -149,15 +149,16 @@ b. welke producten, processen of diensten door het goede commerciële perspectie
 
 ### Artikel  3.2  
 
-1.  De minister verstrekt op aanvraag ten behoeve van de financiering van een ontwikkelingsproject subsidie aan een MKB-ondernemer, die een ontwikkelingsproject uitvoert. De subsidie wordt verstrekt in de vorm van krediet.   
-2.  De minister verstrekt op aanvraag ten behoeve van de financiering van een duurzaam technisch ontwikkelingsproject subsidie aan een ondernemer die geen MKB-ondernemer is, die een duurzaam technisch ontwikkelingsproject uitvoert. De subsidie wordt verstrekt in de vorm van een krediet.   
-3.  Geen subsidie op grond van het tweede lid wordt verstrekt, indien één of meer overheidsinstanties of openbare lichamen gezamenlijk direct of indirect zeggenschap heeft of hebben over 25 procent of meer van het kapitaal of van de stemrechten.   
-4.  In aanvulling op [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) kan ook subsidie worden verstrekt aan een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
+1.  De minister verstrekt op aanvraag ten behoeve van de financiering van een ontwikkelingsproject subsidie aan een ondernemer, die een ontwikkelingsproject uitvoert. De subsidie wordt verstrekt in de vorm van krediet.   
+2.  In aanvulling op [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) kan ook subsidie worden verstrekt aan een ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
 
 ### Artikel  3.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie in de vorm van krediet 35 procent van de subsidiabele kosten.   
-2.  In afwijking van de Regeling steunintensiteit en van het eerste lid bedraagt de subsidie in de vorm van krediet, bedoeld in artikel 3.2, tweede lid, 25 procent van de subsidiabele kosten.   
+In afwijking van de [Regeling steunintensiteit](../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie in de vorm van krediet aan: 
+
+a. een MKB-ondernemer, 35 procent van de subsidiabele kosten;  
+
+b. een ondernemer die geen MKB-ondernemer is, 25 procent van de subsidiabele kosten.    
 
 ### Artikel  3.4  
 
@@ -170,17 +171,14 @@ De minister verdeelt de subsidieplafonds op volgorde van binnenkomst van de aanv
 
 ### Artikel  3.6  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md): 
-
-a. is vier jaar voor projecten als bedoeld in artikel 3.2, eerste lid;  
-
-b. eindigt op 31 december 2011 voor projecten als bedoeld in artikel 3.2, tweede lid.    
+1.  De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.   
+2.  De minister kan de termijn, bedoeld in het eerste lid, op verzoek met ten hoogste twee jaar verlengen indien sprake is van een technisch ontwikkelingsproject met een certificeringstraject.   
 
 ### Artikel  3.7  
 
 1.  De minister beslist afwijzend op een aanvraag indien: 
 
-a. hij de subsidiabele kosten raamt op minder dan € 300.000;  
+a. hij de subsidiabele kosten raamt op minder dan € 150.000;  
 
 b. onvoldoende vertrouwen bestaat dat de subsidie-ontvanger het ontwikkelingsproject en de daarop volgende fase van commercialisatie kan financieren;  
 
@@ -196,7 +194,7 @@ e. van het ontwikkelingsproject onvoldoende positieve gevolgen voor de Nederland
 1.  De subsidie-ontvanger is verplicht de verstrekte subsidie volgens een in de beschikking tot subsidieverlening vastgelegd schema terug te betalen aan de minister.   
 2.  De subsidie-ontvanger is verplicht over het uitstaande saldo aan de minister jaarlijks een bij de beschikking tot subsidieverlening, overeenkomstig artikel 3.9, bepaald rentepercentage te betalen, dat op een ontwikkelingsproject van toepassing blijft tot aan de betalingsverplichtingen geheel is voldaan.   
 3.  De rente wordt aan het eind van elk kalenderjaar rentedragend bij het uitstaande saldo bijgeschreven.   
-4.  De subsidie-ontvanger is verplicht het uitstaande saldo, behoudens indien een ontheffing als bedoeld in [artikel 42, derde of vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is verleend, binnen zes jaar na vaststelling van de subsidie aan de minister te betalen.   
+4.  De subsidie-ontvanger is verplicht het uitstaande saldo, behoudens indien een ontheffing als bedoeld in [artikel 42, derde of vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is verleend, binnen 10 jaar na vaststelling van de subsidie aan de minister te betalen.   
 5.  De termijn genoemd in het vierde lid kan naar aanleiding van een ontheffingsverzoek als bedoeld in [artikel 42, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) worden verlengd.   
 
 ### Artikel  3.9  

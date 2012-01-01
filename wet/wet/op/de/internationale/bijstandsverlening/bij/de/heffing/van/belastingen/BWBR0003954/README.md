@@ -17,7 +17,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 1.  De bepalingen van deze wet strekken tot uitvoering van richtlijnen van de Raad van de Europese Unie en andere regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing van belastingen, alsmede renten daarover en bestuursrechtelijke sancties en boeten die daarmee verband houden.   
 2.  Deze wet is niet van toepassing bij het verlenen van wederzijdse bijstand op het gebied van: 
 
-a. de omzetbelasting in het kader van verordening (EG) nr. 1798/2003 van de Raad van de Europese Unie van 7 oktober 2003 betreffende de administratieve samenwerking op het gebied van de belasting over de toegevoegde waarde en tot intrekking van verordening (EEG) nr. 218/92 (PbEU L 264);  
+a. de omzetbelasting in het kader van Verordening (EU) nr. 904/2010 van de Raad van 7 oktober 2010 betreffende de administratieve samenwerking en de bestrijding van fraude op het gebied van de belasting over de toegevoegde waarde (PbEU 2010, L 268);  
 
 b. de accijnzen in het kader van verordening (EG) nr. 2073/2004 van de Raad van de Europese Unie van 16 november 2004 betreffende de administratieve samenwerking op het gebied van de accijnzen (PbEU L 359).   Bij toepassing van die verordeningen zijn de artikelen 8, tweede lid, en 11 van deze wet van overeenkomstige toepassing.   
 3.  Deze wet is niet van toepassing bij het verlenen van wederzijdse bijstand op het gebied van rechten bij invoer en rechten bij uitvoer met inbegrip van de belasting bij invoer, genoemd in [artikel 22 van de Wet op de omzetbelasting 1968](../../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en van accijns bij invoer, genoemd in [artikel 62 van de Wet op de accijns](../../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
@@ -71,7 +71,7 @@ c. marktdeelnemer: ieder lichaam als bedoeld in [artikel 2, eerste lid, onderdee
 
 d. uitbetalende instantie: de marktdeelnemer die rente uitbetaalt of een rentebetaling bewerkstelligt ten onmiddellijke gunste van de uiteindelijk gerechtigde, ongeacht of deze marktdeelnemer de debiteur is van de rentedragende schuldvordering dan wel de marktdeelnemer die door de debiteur of de uiteindelijk gerechtigde is belast met het uitbetalen van de rente of het bewerkstelligen van de rentebetaling;  
 
-e. icbe: een instelling voor collectieve belegging in effecten waaraan een vergunning is verleend overeenkomstig de algemene vereisten van richtlijn nr. 85/611/EEG van de Raad van de Europese Gemeenschappen van 20 december 1985 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging in effecten (Pb EG L 375).     
+e. icbe: een instelling voor collectieve belegging in effecten waaraan een vergunning is verleend overeenkomstig de algemene vereisten van Richtlijn 2009/65/EG van het Europees Parlement en de Raad van 13 juli 2009 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging in effecten (icbe’s) (PbEU 2009, L 302).     
 2.  Waar een uiteindelijke gerechtigde woont, of waar een marktdeelnemer of een uitbetalende instantie woont of is gevestigd, wordt naar de omstandigheden beoordeeld.   
 3.  Voor de toepassing van deze afdeling of bepalingen daarvan kunnen bij ministeriële regeling Mogendheden, bedoeld in artikel 17, tweede lid, onderdeel i, van de richtlijn 2003/48/EG, en afhankelijke en geassocieerde gebieden, bedoeld in artikel 17, tweede lid, onderdeel ii, van die richtlijn, worden gelijkgesteld met een lidstaat.   
 
@@ -104,7 +104,17 @@ c. een instelling voor collectieve belegging die niet is gevestigd in een van de
 
 ####Tijdelijk uitgezonderde schuldvorderingen
 
-1.  Binnenlandse en internationale obligaties en andere verhandelbare schuldinstrumenten die voor het eerst zijn uitgegeven vóór 1 maart 2001 of waarvan het oorspronkelijke emissieprospectus vóór die datum is goedgekeurd door de bevoegde autoriteiten in de zin van de richtlijn nr. 80/390/EEG van de Raad van de Europese Gemeenschappen van 17 april 1980 tot coördinatie van de eisen gesteld aan de opstelling van, het toezicht op en de verspreiding van het prospectus dat gepubliceerd moet worden voor de toelating van effecten tot de officiële notering aan een effectenbeurs (Pb EG L 100) of door de verantwoordelijke autoriteiten in landen buiten de Europese Unie, worden niet aangemerkt als schuldvorderingen.   
+1.  Voor de toepassing van deze afdeling worden niet als schuldvorderingen aangemerkt binnenlandse en internationale obligaties en andere verhandelbare schuldinstrumenten: 
+
+a. die voor het eerst zijn uitgegeven vóór 1 maart 2001 of waarvan het oorspronkelijke emissieprospectus vóór die datum is goedgekeurd door de bevoegde autoriteiten in de zin van richtlijn nr. 80/390/EEG van de Raad van de Europese Gemeenschappen van 17 maart 1980 tot coördinatie van de eisen gesteld aan de opstelling van, het toezicht op en de verspreiding van het prospectus dat gepubliceerd moet worden voor de toelating van effecten tot de officiële notering aan een effectenbeurs (PbEG L 100) of door de verantwoordelijke autoriteiten in landen buiten de Europese Unie;  
+
+b. die clausules bevatten inzake gross-up en vroegtijdige aflossing, en  
+
+c. waarvoor geldt dat de uitbetalende instantie van de emittent: 
+
+1°. gevestigd is in een lidstaat die bronbelasting inhoudt, en  
+
+2°. de rente rechtstreeks betaalt aan een uiteindelijke gerechtigde die zijn woonplaats in een andere lidstaat heeft.       
 2.  Het eerste lid is niet van toepassing indien op of na 1 maart 2002 een aanvullende emissie plaatsvindt of heeft plaatsgevonden van de daar bedoelde verhandelbare schuldinstrumenten.   
 3.  Indien op of na 1 maart 2002 een vervolgemissie plaatsvindt van een verhandelbaar schuldinstrument als bedoeld in het eerste lid, dat is uitgegeven door een overheid of een gelijkgestelde entiteit die als overheidsinstantie optreedt of waarvan de rol is erkend bij een internationaal verdrag als bedoeld in de bijlage bij de richtlijn 2003/48/EG, wordt de gehele emissie van dit schuldinstrument, bestaande uit de oorspronkelijke emissie en vervolgemissies, aangemerkt als een schuldvordering.   
 4.  Indien op of na 1 maart 2002 een vervolgemissie plaatsvindt van een verhandelbaar schuldinstrument als bedoeld in het eerste lid, dat is uitgegeven door een emittent die niet valt onder het bepaalde in het derde lid, wordt deze nieuwe emissie aangemerkt als een schuldvordering.   
@@ -332,7 +342,7 @@ d. zulks overigens naar het oordeel van Onze Minister is geboden.
 
 1.  Onze Minister laat door een ambtenaar van de rijksbelastingdienst zo nodig een onderzoek instellen ten behoeve van het verstrekken van inlichtingen, bedoeld in de artikelen 5, 6 of  7.   
 2.  Bij het in het eerste lid bedoelde onderzoek zijn de bepalingen van [Hoofdstuk VIII, afdeling 2](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
-3.  Bij of krachtens algemene maatregel van bestuur worden administratieplichtigen aangewezen die gehouden zijn eigener beweging bij of krachtens algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen te verstrekken aan onze Minister met het oog op de uitvoering van richtlijnen van de Raad van de Europese Unie of van andere regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing van belastingen.   
+3.  Bij of krachtens algemene maatregel van bestuur worden administratieplichtigen aangewezen die gehouden zijn eigener beweging bij of krachtens algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen te verstrekken aan Onze Minister met het oog op de uitvoering van richtlijnen van de Raad van de Europese Unie of van andere regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing van belastingen. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de in de eerste volzin bedoelde gegevens en inlichtingen aan Onze Minister dienen te worden verstrekt.   
 4.  Geen beroep kan worden ingesteld tegen de aankondiging van een onderzoek als bedoeld in het eerste lid, alsmede tegen het onderzoek zelve.   
 
 ### Artikel  8a  

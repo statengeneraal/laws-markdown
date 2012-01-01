@@ -49,7 +49,9 @@ M.J.A. van derHoeven
 
 ####, bedoeld in artikel 1 
 
-####Hoofdstuk 1 – Vergunningstelsels en eisen van de Rijksoverheid
+### Hoofdstuk  1  
+
+####– Vergunningstelsels en eisen van de Rijksoverheid
 
 ### §  1.1  
 
@@ -69,68 +71,37 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 45  | Mijnbouwbesluit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 39 jo. artikelen 34 en 36  |  [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.4.1 en 3.4.2  |  [Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md)   |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 66b, eerste en tweede lid  |  [Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 66b, eerste en tweede lid  | Gaswet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 1.2 en 1.5  | Meetcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 1.3  | Meetcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 5 tot en met 8 jo. artikelen 9 tot en met 17 Handelsregisterwet 2007; artikelen 1 jo. 11 tot en met 32 en 35 tot en met 41 Handelsregisterbesluit 2008  | [Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);   [Handelsregisterbesluit 2008](../../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 1.8  | Meetcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 1.4  | Meetcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2.1 en 2.4  | Meetvoorwaarden Gas-RNB  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 9 tot en met 17 jo. artikelen 35 tot en met 41  |  Handelsregisterwet   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 9 tot en met 17 jo. artikelen 35 tot en met 41  | Handelsregisterwet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2.2  | Meetvoorwaarden Gas-RNB  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 3.2.1 tot en met 3.2.15  | Systeemcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 94 tot en met 96  |  [Mijnbouwbesluit](../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 151 tot en met 153 jo. artikel 149  | Mijnbouwbesluit  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 23a  |  [Rijksoctrooiwet 1995](../../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 23a  | Rijksoctrooiwet 1995  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 23b  | Rijksoctrooiwet 1996  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2.1.5  | Aansluitvoorwaarden Gas-RNB  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.5.2.  | Aansluitvoorwaarden Gas-LNB  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 40, tweede lid  |  [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md)   |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 18  |  [Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)   |
-| Ministerie van Financiën  | artikel 5  |  [Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   |
-| Ministerie van Financiën  | artikel 27  |  [Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   |
-| Ministerie van Financiën  | artikelen 1 en 27  |  [Besluit toezicht accountantsorganisaties](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 5, vierde lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | artikel 2, eerste lid  |  [Advocatenwet](../../../../../../../wet/advocatenwet/BWBR0002093/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6, 7 jo. 4, 8 tot en met 13 en 16 van het Speelautomatenbesluit 2000;  artikelen 3 en 4 Speelautomatenregeling  | [Wet op de kansspelen](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  [Speelautomatenbesluit 2000](../../../../../../../AMvB/speelautomatenbesluit/2000/BWBR0011373/README.md);   [Speelautomatenregeling](../../../../../../../ministeriele-regeling/speelautomatenregeling/2000/BWBR0011382/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 12, eerste en vierde lid  |  [Advocatenwet](../../../../../../../wet/advocatenwet/BWBR0002093/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikelen 2, 4, 3b, en 14  |  [Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 7, eerste lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | artikel 7, eerste en tweede lid  |  [Besluit DNA-onderzoek in strafzaken](../../../../../../../AMvB/besluit/dna-onderzoek/in/strafzaken/BWBR0012791/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 7, tweede lid  |  [Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 9, derde lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | artikel 4  |  [Verordening op de Permanente Opleiding 2000](../../../../../../../pbo/verordening/op/de/permanente/opleiding/2000/BWBR0010191/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 11a  | Stage verordening 1988/2005  |
-| Ministerie van Veiligheid en Justitie  | artikel 10, eerste jo. vijfde lid  |  [Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 6 Wet particuliere beveiligingsorganisaties en recherchebureaus jo. artikel 20, eerste en tweede lid, Regeling particuliere beveiligingsorganisaties en recherchebureaus  | Wet particuliere beveiligingsorganisaties en recherchebureaus;   [Regeling particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../ministeriele-regeling/regeling/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0010256/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t  | Wet op de kansspelen  |
-| Ministerie van Veiligheid en Justitie  | artikelen 2, tweede lid, en 2a, vijfde lid  | Advocatenwet  |
-| Ministerie van Veiligheid en Justitie  | artikel 2 tweede lid  | Advocatenwet  |
-| Ministerie van Veiligheid en Justitie  | artikelen 2, 3, 4 en 5  |  [Wet beëdigde tolken en vertalers](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 16g tot en met 16k  | Advocatenwet  |
-| Ministerie van Veiligheid en Justitie  | artikel 23b tot en met 23k  | Regeling particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | artikel 14, eerste lid  |  [Wet wapens en munitie](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikelen 9a, 9aa en 9b  | Advocatenwet  |
-| Ministerie van Veiligheid en Justitie  | artikelen 4, onderdeel c, jo. artikel 5, jo. artikel 6  |  [Samenwerkingsverordening 1993](../../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 7  | Samenwerkingsverordening 1993  |
-| Ministerie van Veiligheid en Justitie  | artikel 9, tweede lid  | Samenwerkingsverordening 1993  |
-| Ministerie van Veiligheid en Justitie  | artikel 4, eerste lid Stageverordening 1988;  artikel 4, eerste lid Stageverordening 2005  | Stageverordening 1988;   [Stageverordening 2005](../../../../../../../pbo/stageverordening/1998/BWBR0013310/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikel 4, vijfde lid, Stageverordening 1988;  artikel 4, vijfde lid, Stageverordening 2005  | Stageverordening 1988;  Stageverordening 2005  |
-| Ministerie van Veiligheid en Justitie  | artikel 10, tweede lid, Stageverordening 1988;  artikel 10, tweede lid, Stageverordening 2005  | Stageverordening 1988;  Stageverordening 2005  |
-| Ministerie van Veiligheid en Justitie  | artikel 4, vierde lid  | Stageverordening verordening op de praktijkrechtspersoon  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 40, tweede lid  | Mijnbouwwet  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 18  | Handelsregisterwet 2007  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 8, tweede lid  |  [Besluit doden van dieren](../../../../../../../AMvB/besluit/doden/van/dieren/BWBR0008686/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3, 4 en 5  |  [Regeling doden van dieren](../../../../../../../ministeriele-regeling/regeling/doden/van/dieren/BWBR0008834/README.md)   |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3, 4 en 5  | Tijdelijke vrijstellingsregeling gasverdoving biggen  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3, 4 en 5  |  [Tijdelijke vrijstellingsregeling gasverdoving biggen](../../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/gasverdoving/biggen/2008/BWBR0024406/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 3, 4, 5, en 6 Besluit doden van dieren;  artikel 107 Gezondheids- en welzijnswet voor dieren  | Besluit doden van dieren;   [Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 16  |  [Natuurbeschermingswet 1998](../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 17  | Natuurbeschermingswet 1998  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 77, 80, eerste lid, jo. artikelen 81, derde lid, en 125  |  [Uitvoeringsregeling Meststoffenwet](../../../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md)   |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 21, zesde lid, 23, eerste lid, onderdeel c en 24, eerste lid, onderdeel c  | Wijziging [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) in verband met de herziening van de preventieregels voor evenhoevigen  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4b  | [Besluit gebruik meststoffen](../../../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) wet  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 21, zesde lid, 23, eerste lid, onderdeel c en 24, eerste lid, onderdeel c  | Wijziging Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's in verband met de herziening van de preventieregels voor evenhoevigen  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4b  | Besluit gebruik meststoffen wet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 7 Besluit tot beperking toegankelijkheid natuurgebieden;  artikelen 20, 41 en 43 Natuurbeschermingswet 1998  | [Besluit tot beperking toegankelijkheid natuurgebieden](../../../../../../../ministeriele-regeling/besluit/beperking/toegankelijkheid/natuurgebieden/ex/art./20/nbwet/natura/etc/BWBR0020122/README.md);  Natuurbeschermingswet 1998  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2 en 3.1  |  [Regeling erkenning en aanwijzing veterinaire labaratoria](../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 6.1  | Regeling erkenning en aanwijzing veterinaire labaratoria  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 6, 9 Besluit paraveterinairen;  artikelen 15, 18, 19, derde lid, Regeling paraveterinairen  | [Besluit paraveterinairen](../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md);   [regeling paraveterinairen](../../../../../../../ministeriele-regeling/regeling/paraveterinairen/BWBR0006492/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 6, 9 Besluit paraveterinairen;  artikelen 15, 18, 19, derde lid, Regeling paraveterinairen  | Besluit paraveterinairen;   [regeling paraveterinairen](../../../../../../../ministeriele-regeling/regeling/paraveterinairen/BWBR0006492/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2 Besluit paraveterinairen;  artikelen 2 en 19, derde lid Regeling paraveterinairen  | Besluit paraveterinairen;  Regeling paraveterinairen  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 41, eerste lid  | Gezondheids- en welzijnswet voor dieren  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2  |  [Besluit gebruik Sera en entstoffen](../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md)   |
@@ -140,17 +111,17 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 13, en 75, eerste lid Flora- en Faunawet;  artikelen 5, eerste lid 1, en 7 Besluit vrijstelling beschermde dier- en plantensoorten;  artikel 8 Regeling afgifte en kenmerken gesloten pootringen en andere merktekens  | [Flora- en Faunawet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  [Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md); [Regeling afgifte en kenmerken gesloten pootringen en andere merktekens](../../../../../../../ministeriele-regeling/regeling/afgifte/en/kenmerken/gesloten/pootringen/en/andere/merktekens/BWBR0013484/README.md)  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 44, vierde tot en met achtste lid Gezondheids- en welzijnswet voor dieren;  artikel 9 Vrijstellingsregeling dierenwelzijn  | Gezondheids- en welzijnswet voor dieren;   [Vrijstellingsregeling dierenwelzijn](../../../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 13, en 75, eerste lid Flora -en Faunawet;  artikelen 10, 11, tweede lid Besluit vrijstelling beschermde dier- en plantensoorten  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 18, 21, 22, 23 en 25  |  [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)   |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 18, 21, 22, 23 en 26  | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 18, 21, 22, 23 en 25  |  [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 18, 21, 22, 23 en 26  | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 61 jo. artikel 107  | Gezondheids- en welzijnswet voor dieren  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 59 tot en met 62 en bijlage 9a  | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 59 tot en met 62 en bijlage 9a  | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 40, eerste lid, en 62, tweede lid, Flora- en Faunawet; artikelen 2, 3, 4, eerste lid en lid 2a Regeling prepareren dieren;  artikel 7 Jachtbesluit;  artikel 7 Jachtregeling  | Flora- en Faunawet;  [Besluit prepareren dieren](../../../../../../../AMvB/besluit/prepareren/van/dieren/BWBR0011852/README.md); [Jachtbesluit](../../../../../../../AMvB/jachtbesluit/BWBR0011848/README.md);  [Regeling prepareren van dieren](../../../../../../../ministeriele-regeling/regeling/prepareren/van/dieren/BWBR0013138/README.md);   [Jachtregeling](../../../../../../../ministeriele-regeling/jachtregeling/BWBR0013181/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 5, 6, 8, 9, 10 Kalverenbesluit;  artikel 107 Gezondheids- en welzijnswet voor dieren  | [Kalverenbesluit](../../../../../../../AMvB/kalverenbesluit/BWBR0006805/README.md);  Gezondheids- en welzijnswet voor dieren  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 44, 45, en 46 Regeling preventie, bestrijding en monitoring besmettelijke dierziekten en zoonosen en TSE ‘s;  artikelen 2.5, eerste lid, tweede lid, onderdeel a, en derde lid Regeling tijdelijke maatregelen dierziekten  | Regeling preventie, bestrijding en monitoring besmettelijke dierziekten en zoonosen en TSE's;   [Regeling tijdelijke maatregelen dierziekten](../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 44, 45, en 46 Regeling preventie, bestrijding en monitoring besmettelijke dierziekten en zoonosen en TSE’s;  artikelen 2.5, eerste lid, tweede lid, onderdeel a, en derde lid Regeling tijdelijke maatregelen dierziekten  | Regeling preventie, bestrijding en monitoring besmettelijke dierziekten en zoonosen en TSE's;  Regeling tijdelijke maatregelen dierziekten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 5, 7 tot en met 13, 15 en 19  |  [Tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee en biologische legkippen en legkippen met vrije uitloop](../../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/vaccinatie/hobbypluimvee/biologische/etc/BWBR0019657/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 13, eerste lid, en 63, eerste en tweede lid, Flora- en Faunawet;  artikelen 6 en 7 Besluit prepareren dieren;  artikel 3 Regeling prepareren van dieren;  | Flora- en Faunawet;  Besluit prepareren dieren;  Regeling prepareren van dieren  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 81f  | Gezondheids- en welzijnswet voor dieren  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 24, eerste lid  | Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 24, eerste lid  |  [Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 107  | Gezondheids- en welzijnswet voor dieren  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 5, 8, tweede en derde lid, 9, eerste en derde lid, Besluit ritueel slachten;  artikel 107 Gezondheids- en welzijnswet voor dieren  | Gezondheids- en welzijnswet voor dieren jo [Besluit ritueel slachten](../../../../../../../AMvB/besluit/ritueel/slachten/BWBR0008316/README.md)  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2 en 13  |  [Boswet](../../../../../../../wet/boswet/BWBR0002357/README.md)   |
@@ -159,8 +130,8 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 10 en 11  |  [Regeling vleeskeuring](../../../../../../../ministeriele-regeling/regeling/vleeskeuring/BWBR0019274/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3 en 4 Diergeneesmiddelenwet; artikelen 2 en 3 Diergeneesmiddelenregeling  | [Diergeneesmiddelenwet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);   [Diergeneesmiddelenregeling](../../../../../../../ministeriele-regeling/diergeneesmiddelenregeling/BWBR0019277/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 38, zevende lid  | Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkolonieën  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 4, 8, tweede lid, en 15  | Wet op de uitoefening van de diergeneeskunde  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, en 3  | Besluit paraveterinairen  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 4, 8, tweede lid, en 15  |  [Wet op de uitoefening van de diergeneeskunde](../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, en 3  |  [Besluit paraveterinairen](../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 8 tot en met 18, 19, 21, 22, 25, 26 Honden- en kattenbesluit 1999;  artikel 107 Gezondheids- en welzijnswet voor dieren  | [Honden- en kattenbesluit 1999](../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md);  Gezondheids- en welzijnswet voor dieren  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 6 7. 9 en 10  | Besluit paraveterinairen  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3, 4, 5 en 6 Honden- en kattenbesluit 1999; artikel 107 Gezondheids- en welzijnswet voor dieren  | Honden- en kattenbesluit 1999;  Gezondheids- en welzijnswet voor dieren  |
@@ -169,107 +140,18 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3, en 9 Besluit eisen dierlijk sperma en spermawincentra  |  [Besluit eisen dierlijk sperma en spermawincentra](../../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 13, 64, tweede lid, en 75, derde lid  | Flora- en Faunawet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 27, tweede lid  |  [Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md)   |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 27, eerste en tweede lid, en 125  | Uitvoeringsregeling Meststoffenwet  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 27, eerste en tweede lid, en 125  |  [Uitvoeringsregeling Meststoffenwet](../../../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 32, tweede lid, 33, eerste lid, en 125  | Uitvoeringsregeling Meststoffenwet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 107 Gezondheids- en Welzijnswet voor Dieren jo. artikel 3, tweede lid, Besluit voortplantingstechnieken bij dieren;  | Besluit voortplantingstechnieken bij dieren;  Gezondheids- en Welzijnswet voor Dieren  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4, eerste lid  |  [Dierentuinenbesluit](../../../../../../../AMvB/dierentuinenbesluit/BWBR0013625/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 28, eerste lid, onderdeel b  |  [Besluit diervoeders](../../../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md)   |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 23 Kaderwet diervoeders jo. artikel 99 Regeling diervoeders  | [Kaderwet diervoeders](../../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md);   [Regeling diervoeders](../../../../../../../ministeriele-regeling/regeling/diervoeders/BWBR0017259/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 23 Kaderwet diervoeders jo. artikel 99 Regeling diervoeders  | [Kaderwet diervoeders](../../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md);  Regeling diervoeders  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 9 van de Wet op de uitoefening van de diergeneeskunde 1990 en de Regeling aanmelding tot uitoefening der diergeneeskunde  | [Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);   [Regeling aanmelding tot uitoefening der diergeneeskunde](../../../../../../../ministeriele-regeling/regeling/aanmelding/tot/uitoefening/der/diergeneeskunde/BWBR0005297/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3  |  [Fokkerijbesluit](../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | Artikel 46b, eerste lid  |  [Natuurbeschermingswet 1998](../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md)   |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikel 45  |  [Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md)   |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikelen 1.12 en 1.12a  |  [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)   |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikel 6.9 jo. artikel 1.11  | Wet op het hoger onderwijs en wetenschappelijk onderzoek  |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikelen 1.45, 1.47, 1.49, 1.50, 1.51, 1.55, en 1.56  |  [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md)   |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikelen 1.48 en 1.48a  | Wet kinderopvang en kwaliteitseisen peuterspeelzalen  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 3, 4, 5, 6, en 14  |  [Regeling verkeersregelaars](../../../../../../../ministeriele-regeling/regeling/verkeersregelaars/BWBR0011295/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikelen 11, derde lid, onderdeel e, 12 en 24  |  [Wet op de waterhuishouding](../../../../../../../wet/wet/op/de/waterhuishouding/BWBR0004575/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 2, onderdelen a en b  |  [Regeling verkeersregelaars 2009](../../../../../../../ministeriele-regeling/regeling/verkeersregelaars/2009/BWBR0025299/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 5  | Regeling verkeersregelaars 2009  |
-| Ministerie van Infrastructuur en Milieu  | artikel 6  | Regeling verkeersregelaars 2009  |
-| Ministerie van Infrastructuur en Milieu  | artikel 7  | Regeling verkeersregelaars 2009  |
-| Ministerie van Infrastructuur en Milieu  | artikel 8  | Regeling verkeersregelaars 2009  |
-| Ministerie van Infrastructuur en Milieu  | artikel 6.2 Waterwet jo. artikelen 6.2 tot en met 6.6 Waterbesluit  | [Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md);   [Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 6.4  | Waterwet  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 6.13 en 6.14  | Besluit houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterbesluit)  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 6.8, eerste lid, en 6.9, eerste lid, Waterbesluit jo. artikel 6.3 Waterwet  | Besluit houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterbesluit);  Waterwet  |
-| Ministerie van Infrastructuur en Milieu  | artikel 6.10  | Besluit houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterbesluit)  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 6d, eerste lid, onderdeel b  |  [Warenwetbesluit persoonlijke beschermingsmiddelen](../../../../../../../AMvB/warenwetbesluit/persoonlijke/beschermingsmiddelen/BWBR0005570/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 2  |  [Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 11a Wet op de dierproeven;  artikel 11a Dierproevenbesluit  | Wet op de dierproeven;   [Dierproevenbesluit](../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 10a, 10c, en 18a tot en met 18g Wet op de dierproeven;  artikel 2a Dierproevenbesluit  | Wet op de dierproeven;  Dierproevenbesluit  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 10, 10b, 10d, 10e, 11, en 16 Wet op de dierproeven  | Wet op de dierproeven  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 12, 13, 15 en 16 Wet op de dierproeven;  artikel 10 Dierproevenbesluit;  artikel 2 Regeling erkenning diploma's Dierproevenbesluit  | Wet op de dierproeven;  Dierproevenbesluit;   [Regeling erkenning diploma's Dierproevenbesluit](../../../../../../../ministeriele-regeling/regeling/erkenning/diploma's/dierproevenbesluit/BWBR0005982/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 9 Wet op de dierproeven;  artikel 10 Dierproevenbesluit;  artikel 1 Regeling registratie proefdieren en dierproeven  | Wet op de dierproeven;  Dierproevenbesluit;  Regeling registratie proefdieren en dierproeven  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 23  |  [Drank- en Horecawet](../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 8, 10, 11, 12, 13, en 19, eerste lid, onderdeel a  |  [Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 35  | Drank- en Horecawet  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 24 Warenwet;  artikelen 3, 6, en 9  Warenwetbesluit tatoeëren en piercen  |  [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md)    [Warenwetbesluit Tatoeeren en piercen](../../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 3, 4, 5 en 7 Drank- en Horeacwet;  artikelen 2, 3 en 4 Regeling aanvraagformulieren Drank- en Horecawet  | Drank- en Horeacwet en Regeling aanvraagformulieren Drank- en Horecawet  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 8, 10, 11, 12, 13, en 19, eerste lid, onderdeel b  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  |
-| Ministerie van Infrastructuur en Milieu  | artikel 11h, derde lid  |  [Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 3.2.7 van bijlage 2 Besluit glastuinbouw;  voorschriften 1.3.13 en 3.2.6 van bijlage Besluit landbouw milieubeheer  | [Besluit glastuinbouw](../../../../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md);   [Besluit landbouw milieubeheer](../../../../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikelen 2 en 18  | Uitvoeringsregeling gefluoreerde broeikasgassen en gereguleerde stoffen milieubeheer  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 6 en 8  |  [Regeling nucleaire drukapparatuur](../../../../../../../ministeriele-regeling/regeling/nucleaire/drukapparatuur/BWBR0022812/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 10  |  [Wet hygiene en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikelen 10, 11 en 15  |  [Wet explosieven voor civiel gebruik](../../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 1.6.2  | Besluit glastuinbouw  |
-| Ministerie van Infrastructuur en Milieu  | artikel 17 tot en met 19  | Wet explosieven voor civiel gebruik  |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 2.4.2, bijlage 2  | Besluit glastuinbouw  |
-| Ministerie van Infrastructuur en Milieu  | artikel 2.12.1  | Besluit brandveilig gebruik bouwwerken  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 1, onderdeel f, en 4, tweede lid  |  [Inzamelingsregeling CFK en halonen](../../../../../../../ministeriele-regeling/inzamelingsregeling/cfk/en/halonen/BWBR0013984/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 3.2.7, bijlage 2  | Besluit glastuinbouw  |
-| Ministerie van Infrastructuur en Milieu  | artikel 5, vierde lid  |  [Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 5, eerste tweede en vierde lid  |  [Regeling geluidemissie buitenmaterieel](../../../../../../../ministeriele-regeling/regeling/geluidemissie/buitenmaterieel/BWBR0012766/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikelen 3.1, 3.2 en 3.6  |  [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel a  |  [Besluit inzamelen afvalstoffen](../../../../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 9 onderdeel b  | Besluit inzamelen afvalstoffen  |
-| Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL 7500 Bewerken van grond  |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 2.9.2, bijlage  | Besluit landbouw  |
-| Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel c  | Besluit inzamelen afvalstoffen  |
-| Ministerie van Infrastructuur en Milieu  | voorschriften 3.2.10 en 3.2.11, bijlage  | Besluit landbouw  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 3 en 4  |  [Besluit mobiel breken bouw-en sloopafval](../../../../../../../AMvB/besluit/mobiel/breken/bouw-/en/sloopafval/BWBR0016292/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 8, eerste lid  | [Wet bescherming Antarctica](../../../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md) en [Besluit bescherming Antarctica](../../../../../../../AMvB/besluit/bescherming/antarctica/BWBR0009867/README.md)  |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 1.2, bijlage I  |  [Besluit LPG-tankstations milieubeheer](../../../../../../../AMvB/besluit/lpg-tankstations/milieubeheer/BWBR0004327/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 4  |  [Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 1.5 en 2.1, bijlage I  |  [Besluit mestbassins milieubeheer](../../../../../../../AMvB/besluit/mestbassins/milieubeheer/BWBR0004990/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 10.2.2 van de bijlage  | Besluit emissie-eisen stookinstallaties milieubeheer  |
-| Ministerie van Infrastructuur en Milieu  | voorschriften 10.3.2 en 10.3.12 van de bijlage  |  [Besluit emissie-eisen stookinstallaties milieubeheer B](../../../../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/b/BWBR0004833/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 2  |  [Productenregeling Asbest](../../../../../../../ministeriele-regeling/productenregeling/asbest/BWBR0018026/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 1.10  |  [Besluit algemene regels voor inrichtingen milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 8, eerste lid  |  [Vrijstellingsregeling waterige fracties en reinigingswater 1998](../../../../../../../ministeriele-regeling/vrijstellingsregeling/waterige/fracties/en/reinigingswater/1998/BWBR0009351/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL SIKB 7000 Uitvoering van bodemsaneringen  |
-| Ministerie van Infrastructuur en Milieu  | artikel 1, derde en vierde lid  | Besluit broeikasgassen Wms 2003  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 1 tot en met 8  |  [Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden](../../../../../../../AMvB/besluit/typekeuring/verwarmingstoestellen/luchtverontreiniging/etc/BWBR0007465/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel b  | Besluit inzamelen afvalstoffen  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 21  |  [Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 3.14  |  [Regeling algemene regels voor inrichtingen milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikelen 15, 38 en 40  | [Besluit bodemkwaliteit](../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [Regeling bodemkwaliteit](../../../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md)  |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 1.3.6, bijlage 2  | Besluit glastuinbouw  |
-| Ministerie van Infrastructuur en Milieu  | artikel 30b, vijfde lid  | Besluit emissie-eisen stookinstallaties milieubeheer A  |
-| Ministerie van Infrastructuur en Milieu  | Voorschrift 1.3.13, bijlage  | Besluit landbouw milieubeheer  |
-| Ministerie van Infrastructuur en Milieu  | voorschrift 2.1.1, bijlage en Richtlijnen mestbassins  | Besluit landbouw milieubeheer  |
-| Ministerie van Infrastructuur en Milieu  | artikel 3, tweede lid  |  [Regeling merkteken niet-herbruikbaar en niet-verbrandbaar bouw-en sloopafval](../../../../../../../ministeriele-regeling/regeling/merkteken/niet-herbruikbaar/en/niet-verbrandbaar/bouw-/en/etc/BWBR0011352/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3  | Regeling nucleaire drukapparatuur  |
-| Ministerie van Infrastructuur en Milieu  | artikel 10  |  [Stortbesluit bodembescherming](../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 10, eerste en tweede lid  |  [Waterleidingbesluit](../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikelen 9 en 16 Besluit handel in emissierechten;  artikelen 17 en 47 Regeling monitoring handel in emissierechten  | [Besluit handel in emissierechten](../../../../../../../AMvB/besluit/handel/in/emissierechten/BWBR0017779/README.md);   [Regeling monitoring handel in emissierechten](../../../../../../../ministeriele-regeling/regeling/monitoring/handel/in/emissierechten/BWBR0017699/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 10, vierde lid  | Waterleidingbesluit  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 3.3.2 en 3.3.3  |  [Vuurwerkbesluit](../../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 10  |  [Besluit hygiene en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../AMvB/besluit/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0003716/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 1.12 en 1.13  |  [Regeling bouwbesluit 2003](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikelen 5 en 6  | Wet explosieven voor civiel gebruik  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 3.20 en 4.80  | Besluit algemene regels voor inrichtingen milieubeheer  |
-| Ministerie van Infrastructuur en Milieu  | artikel 4.18  | Besluit algemene regels voor inrichtingen milieubeheer  |
-| Ministerie van Infrastructuur en Milieu  | artikel 3.3.2, derde lid, en 3.3.4  | Vuurwerkbesluit  |
-| Ministerie van Infrastructuur en Milieu  | artikelen 3 en 4  | Besluit mobiel breken bouw- en sloopafval  |
-| Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel a  | Besluit inzamelen afvalstoffen  |
-| Ministerie van Infrastructuur en Milieu  | bijlage 1, voorschrift 5.2 en bijlage 2, voorschrift 1.5  | Vuurwerkbesluit  |
-| Ministerie van Infrastructuur en Milieu  | bijlage 1, voorschrift 5.3 en bijlage 2, voorschrift 1.6  | Vuurwerkbesluit  |
-| Ministerie van Infrastructuur en Milieu  | artikel 2.1, eerste lid, onder d en e  |  [Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 21  |  [Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 15  |  [Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 22, vierde lid, en 33, vierde lid  | Kernenergiewet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 8, eerste lid  |  [Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md)   |
@@ -286,9 +168,130 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 91, tweede lid  | Besluit stralingsbescherming  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 107  | Besluit stralingsbescherming  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 123  | Besluit stralingsbescherming  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | Artikel 2, vierde lid, artikel 3, derde lid, artikel, 4 derde tot en met het vijfde lid, artikel 5, eerste en tweede lid en artikel 6  |  [Wet strategische diensten](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 29, eerste lid  | Kernenergiewet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 42, derde lid  | Besluit kerninstallaties, splijtstoffen en ertsen  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3, eerste lid,  |  [Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen](../../../../../../../AMvB/besluit/in-/uit-/en/doorvoer/van/radioactieve/afvalstoffen/en/bestraalde/etc/BWBR0025680/README.md)   |
+| Ministerie van Financiën  | artikel 5  |  [Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   |
+| Ministerie van Financiën  | artikel 27  | Wet toezicht accountantsorganisaties  |
+| Ministerie van Financiën  | artikelen 1 en 27  |  [Besluit toezicht accountantsorganisaties](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 11h, derde lid  |  [Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 3.2.7 van bijlage 2 Besluit glastuinbouw;  voorschriften 1.3.13 en 3.2.6 van bijlage Besluit landbouw milieubeheer  | [Besluit glastuinbouw](../../../../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md);   [Besluit landbouw milieubeheer](../../../../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 2 en 18  | Uitvoeringsregeling gefluoreerde broeikasgassen en gereguleerde stoffen milieubeheer  |
+| Ministerie van Infrastructuur en Milieu  | artikel 10  |  [Wet hygiene en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 10, 11 en 15  |  [Wet explosieven voor civiel gebruik](../../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 1.6.2  |  [Besluit glastuinbouw](../../../../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 17 tot en met 19  |  [Wet explosieven voor civiel gebruik](../../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 2.4.2, bijlage 2  | Besluit glastuinbouw  |
+| Ministerie van Infrastructuur en Milieu  | artikel 2.12.1  |  [Besluit brandveilig gebruik bouwwerken](../../../../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 1, onderdeel f, en 4, tweede lid  |  [Inzamelingsregeling CFK en halonen](../../../../../../../ministeriele-regeling/inzamelingsregeling/cfk/en/halonen/BWBR0013984/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 3.2.7, bijlage 2  | Besluit glastuinbouw  |
+| Ministerie van Infrastructuur en Milieu  | artikel 5, vierde lid  | Besluit ozonlaagafbrekende stoffen Wms 2003  |
+| Ministerie van Infrastructuur en Milieu  | artikel 5, eerste tweede en vierde lid  |  [Regeling geluidemissie buitenmaterieel](../../../../../../../ministeriele-regeling/regeling/geluidemissie/buitenmaterieel/BWBR0012766/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 3.1, 3.2 en 3.6  |  [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel a  |  [Besluit inzamelen afvalstoffen](../../../../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 9 onderdeel b  | Besluit inzamelen afvalstoffen  |
+| Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL 7500 Bewerken van grond  |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 2.9.2, bijlage  | Besluit landbouw  |
+| Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel c  | Besluit inzamelen afvalstoffen  |
+| Ministerie van Infrastructuur en Milieu  | voorschriften 3.2.10 en 3.2.11, bijlage  | Besluit landbouw  |
+| Ministerie van Infrastructuur en Milieu  | artikelen 3 en 4  |  [Besluit mobiel breken bouw-en sloopafval](../../../../../../../AMvB/besluit/mobiel/breken/bouw-/en/sloopafval/BWBR0016292/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 8, eerste lid  | [Wet bescherming Antarctica](../../../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md) en [Besluit bescherming Antarctica](../../../../../../../AMvB/besluit/bescherming/antarctica/BWBR0009867/README.md)  |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 1.2, bijlage I  |  [Besluit LPG-tankstations milieubeheer](../../../../../../../AMvB/besluit/lpg-tankstations/milieubeheer/BWBR0004327/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 4  |  [Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 1.5 en 2.1, bijlage I  |  [Besluit mestbassins milieubeheer](../../../../../../../AMvB/besluit/mestbassins/milieubeheer/BWBR0004990/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 10.2.2 van de bijlage  |  [Besluit emissie-eisen stookinstallaties milieubeheer](../../../../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/a/BWBR0004147/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | voorschriften 10.3.2 en 10.3.12 van de bijlage  |  [Besluit emissie-eisen stookinstallaties milieubeheer B](../../../../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/b/BWBR0004833/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 2  |  [Productenregeling Asbest](../../../../../../../ministeriele-regeling/productenregeling/asbest/BWBR0018026/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 1.10  |  [Besluit algemene regels voor inrichtingen milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 8, eerste lid  |  [Vrijstellingsregeling waterige fracties en reinigingswater 1998](../../../../../../../ministeriele-regeling/vrijstellingsregeling/waterige/fracties/en/reinigingswater/1998/BWBR0009351/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL SIKB 7000 Uitvoering van bodemsaneringen  |
+| Ministerie van Infrastructuur en Milieu  | artikel 1, derde en vierde lid  | Besluit broeikasgassen Wms 2003  |
+| Ministerie van Infrastructuur en Milieu  | artikelen 1 tot en met 8  |  [Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden](../../../../../../../AMvB/besluit/typekeuring/verwarmingstoestellen/luchtverontreiniging/etc/BWBR0007465/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel b  | Besluit inzamelen afvalstoffen  |
+| Ministerie van Infrastructuur en Milieu  | artikel 3.14  |  [Regeling algemene regels voor inrichtingen milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | Artikelen 9, 15, 38 en 40  | [Besluit bodemkwaliteit](../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [Regeling bodemkwaliteit](../../../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md)  |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 1.3.6, bijlage 2  |  [Besluit glastuinbouw](../../../../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 30b, vijfde lid  | Besluit emissie-eisen stookinstallaties milieubeheer A  |
+| Ministerie van Infrastructuur en Milieu  | Voorschrift 1.3.13, bijlage  |  [Besluit landbouw milieubeheer](../../../../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | voorschrift 2.1.1, bijlage en Richtlijnen mestbassins  | Besluit landbouw milieubeheer  |
+| Ministerie van Infrastructuur en Milieu  | artikel 3, tweede lid  |  [Regeling merkteken niet-herbruikbaar en niet-verbrandbaar bouw-en sloopafval](../../../../../../../ministeriele-regeling/regeling/merkteken/niet-herbruikbaar/en/niet-verbrandbaar/bouw-/en/etc/BWBR0011352/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek  |
+| Ministerie van Infrastructuur en Milieu  | artikel 10  |  [Stortbesluit bodembescherming](../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 10, eerste en tweede lid  |  [Waterleidingbesluit](../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 9 en 16 Besluit handel in emissierechten;  artikelen 17 en 47 Regeling monitoring handel in emissierechten  | [Besluit handel in emissierechten](../../../../../../../AMvB/besluit/handel/in/emissierechten/BWBR0017779/README.md);   [Regeling monitoring handel in emissierechten](../../../../../../../ministeriele-regeling/regeling/monitoring/handel/in/emissierechten/BWBR0017699/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 10, vierde lid  | Waterleidingbesluit  |
+| Ministerie van Infrastructuur en Milieu  | artikelen 3.3.2 en 3.3.3  |  [Vuurwerkbesluit](../../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 10  |  [Besluit hygiene en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../AMvB/besluit/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0003716/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering  |
+| Ministerie van Infrastructuur en Milieu  | artikelen 1.12 en 1.13  |  [Regeling bouwbesluit 2003](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 5 en 6  |  [Wet explosieven voor civiel gebruik](../../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 3.20 en 4.80  | Besluit algemene regels voor inrichtingen milieubeheer  |
+| Ministerie van Infrastructuur en Milieu  | artikel 4.18  | Besluit algemene regels voor inrichtingen milieubeheer  |
+| Ministerie van Infrastructuur en Milieu  | artikel 3.3.2, derde lid, en 3.3.4  | Vuurwerkbesluit  |
+| Ministerie van Infrastructuur en Milieu  | artikelen 3 en 4  |  [Besluit mobiel breken bouw- en sloopafval](../../../../../../../AMvB/besluit/mobiel/breken/bouw-/en/sloopafval/BWBR0016292/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 9, onderdeel a jo. artikel 10  | Besluit inzamelen afvalstoffen  |
+| Ministerie van Infrastructuur en Milieu  | bijlage 1, voorschrift 5.2 en bijlage 2, voorschrift 1.5  | Vuurwerkbesluit  |
+| Ministerie van Infrastructuur en Milieu  | bijlage 1, voorschrift 5.3 en bijlage 2, voorschrift 1.6  | Vuurwerkbesluit  |
+| Ministerie van Infrastructuur en Milieu  | artikel 2.1, eerste lid, onder d en e  |  [Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 3, 4, 5, 6, en 14  |  [Regeling verkeersregelaars](../../../../../../../ministeriele-regeling/regeling/verkeersregelaars/BWBR0011295/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 11, derde lid, onderdeel e, 12 en 24  |  [Wet op de waterhuishouding](../../../../../../../wet/wet/op/de/waterhuishouding/BWBR0004575/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 2, onderdelen a en b  |  [Regeling verkeersregelaars 2009](../../../../../../../ministeriele-regeling/regeling/verkeersregelaars/2009/BWBR0025299/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 5  | Regeling verkeersregelaars 2009  |
+| Ministerie van Infrastructuur en Milieu  | artikel 6  | Regeling verkeersregelaars 2009  |
+| Ministerie van Infrastructuur en Milieu  | artikel 7  | Regeling verkeersregelaars 2009  |
+| Ministerie van Infrastructuur en Milieu  | artikel 8  | Regeling verkeersregelaars 2009  |
+| Ministerie van Infrastructuur en Milieu  | artikel 6.2 Waterwet jo. artikelen 6.2 tot en met 6.6 Waterbesluit  | [Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md);   [Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 6.4  | Waterwet  |
+| Ministerie van Infrastructuur en Milieu  | artikelen 6.13 en 6.14  | Besluit houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterbesluit)  |
+| Ministerie van Infrastructuur en Milieu  | artikelen 6.8, eerste lid, en 6.9, eerste lid, Waterbesluit jo. artikel 6.3 Waterwet  | Besluit houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterbesluit);  Waterwet  |
+| Ministerie van Infrastructuur en Milieu  | artikel 6.10  | Besluit houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterbesluit)  |
+| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikel 45  |  [Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md)   |
+| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikelen 1.12 en 1.12a  |  [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)   |
+| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikel 6.9 jo. artikel 1.11  | Wet op het hoger onderwijs en wetenschappelijk onderzoek  |
+| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikelen 1.45, 1.47, 1.49, 1.50, 1.51, 1.55, en 1.56  |  [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md)   |
+| Ministerie van Onderwijs, Cultuur en Wetenschap  | artikelen 1.48 en 1.48a  | Wet kinderopvang en kwaliteitseisen peuterspeelzalen  |
+| Ministerie van Veiligheid en Justitie  | artikel 5, vierde lid  |  [Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikel 2, eerste lid  |  [Advocatenwet](../../../../../../../wet/advocatenwet/BWBR0002093/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6, 7 jo. 4, 8 tot en met 13 en 16 van het Speelautomatenbesluit 2000;  artikelen 3 en 4 Speelautomatenregeling  | [Wet op de kansspelen](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  [Speelautomatenbesluit 2000](../../../../../../../AMvB/speelautomatenbesluit/2000/BWBR0011373/README.md);   [Speelautomatenregeling](../../../../../../../ministeriele-regeling/speelautomatenregeling/2000/BWBR0011382/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikel 12, eerste en vierde lid  | Advocatenwet  |
+| Ministerie van Veiligheid en Justitie  | artikelen 2, 4, 3b, en 14  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 7, eerste lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 7, eerste en tweede lid  |  [Besluit DNA-onderzoek in strafzaken](../../../../../../../AMvB/besluit/dna-onderzoek/in/strafzaken/BWBR0012791/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikel 7, tweede lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 9, derde lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 4  |  [Verordening op de Permanente Opleiding 2000](../../../../../../../pbo/verordening/op/de/permanente/opleiding/2000/BWBR0010191/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikel 11a  | Stageverordening 1988 / [2005](../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/directie/kennis/BWBR0018276/README.md)  |
+| Ministerie van Veiligheid en Justitie  | artikel 10, eerste jo. vijfde lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 6 Wet particuliere beveiligingsorganisaties en recherchebureaus jo. artikel 20, eerste en tweede lid, Regeling particuliere beveiligingsorganisaties en recherchebureaus  | Wet particuliere beveiligingsorganisaties en recherchebureaus;  Regeling particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t  | Wet op de kansspelen  |
+| Ministerie van Veiligheid en Justitie  | artikelen 2, tweede lid, en 2a, vijfde lid  | Advocatenwet  |
+| Ministerie van Veiligheid en Justitie  | artikel 2 tweede lid  | Advocatenwet  |
+| Ministerie van Veiligheid en Justitie  | artikelen 2, 3, 4 en 5  |  [Wet beëdigde tolken en vertalers](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikel 16g tot en met 16k  | Advocatenwet  |
+| Ministerie van Veiligheid en Justitie  | artikel 23b tot en met 23k  | Regeling particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 14, eerste lid  |  [Wet wapens en munitie](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikelen 9a, 9aa en 9b  | Advocatenwet  |
+| Ministerie van Veiligheid en Justitie  | artikelen 4, onderdeel c, jo. artikel 5, jo. artikel 6  |  [Samenwerkingsverordening 1993](../../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikel 7  | Samenwerkingsverordening 1993  |
+| Ministerie van Veiligheid en Justitie  | artikel 9, tweede lid  | Samenwerkingsverordening 1993  |
+| Ministerie van Veiligheid en Justitie  | artikel 4, eerste lid Stageverordening 1988;  artikel 4, eerste lid Stageverordening 2005  | Stageverordening 1988;  Stageverordening 2005  |
+| Ministerie van Veiligheid en Justitie  | artikel 4, vijfde lid, Stageverordening 1988;  artikel 4, vijfde lid, Stageverordening 2005  | Stageverordening 1988;  Stageverordening 2005  |
+| Ministerie van Veiligheid en Justitie  | artikel 10, tweede lid, Stageverordening 1988;  artikel 10, tweede lid, Stageverordening 2005  | Stageverordening 1988;  Stageverordening 2005  |
+| Ministerie van Veiligheid en Justitie  | artikel 4, vierde lid  |  [Stageverordening verordening op de praktijkrechtspersoon](../../../../../../../pbo/verordening/op/de/praktijkrechtspersoon/BWBR0007831/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 6d, eerste lid, onderdeel b  |  [Warenwetbesluit persoonlijke beschermingsmiddelen](../../../../../../../AMvB/warenwetbesluit/persoonlijke/beschermingsmiddelen/BWBR0005570/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 2  |  [Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 11a Wet op de dierproeven;  artikel 11a Dierproevenbesluit  | Wet op de dierproeven;   [Dierproevenbesluit](../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 10a, 10c, en 18a tot en met 18g Wet op de dierproeven;  artikel 2a Dierproevenbesluit  | Wet op de dierproeven;  Dierproevenbesluit  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 10, 10b, 10d, 10e, 11, en 16 Wet op de dierproeven  | Wet op de dierproeven  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 12, 13, 15 en 16 Wet op de dierproeven;  artikel 10 Dierproevenbesluit;  artikel 2 Regeling erkenning diploma's Dierproevenbesluit  | Wet op de dierproeven;  Dierproevenbesluit;   [Regeling erkenning diploma's Dierproevenbesluit](../../../../../../../ministeriele-regeling/regeling/erkenning/diploma's/dierproevenbesluit/BWBR0005982/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 9 Wet op de dierproeven;  artikel 10 Dierproevenbesluit;  artikel 1 Regeling registratie proefdieren en dierproeven  | Wet op de dierproeven;  Dierproevenbesluit;   [Regeling registratie proefdieren en dierproeven](../../../../../../../ministeriele-regeling/registratie/proefdieren/en/dierproeven/BWBR0003885/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 23  |  [Drank- en Horecawet](../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 8, 10, 11, 12, 13, en 19, eerste lid, onderdeel a  | [Warenwetbesluit attractie- en speeltoestellen](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) en [nadere regels attractie en speeltoestellen](../../../../../../../ministeriele-regeling/nadere/regels/attractie-/en/speeltoestellen/BWBR0008545/README.md)  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 35  | Drank- en Horecawet  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 24 Warenwet;  artikelen 3, 6, en 9  Warenwetbesluit tatoeëren en piercen  |  [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md)    [Warenwetbesluit Tatoeeren en piercen](../../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 3, 4, 5 en 7 Drank- en Horeacwet;  artikelen 2, 3 en 4 Regeling aanvraagformulieren Drank- en Horecawet  | Drank- en Horeacwet en Regeling aanvraagformulieren Drank- en Horecawet  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 8, 10, 11, 12, 13, en 19, eerste lid, onderdeel b  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  |
 
 ### §  1.2  
 
@@ -302,6 +305,7 @@ M.J.A. van derHoeven
 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikel 10  | Uitvoeringswet huurprijzen woonruimte  |
 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikelen 5 en 12  | Besluit huurprijzen woonruimte  |
 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | artikelen 2 tot en met 6  | Uitvoeringsregeling huurprijzen woonruimte  |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | n.v.t.  | Bouwbesluit 2012  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2, eerste, tweede en derde lid, jo. artikel 5, eerste tot en met zesde lid  | Besluit informatie-uitwisseling ondergrondse netten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3, eerste lid  | Wet informatie-uitwisseling ondergrondse netten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 7, eerste en derde lid  | Besluit informatie-uitwisseling ondergrondse netten  |
@@ -311,7 +315,7 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 7, zevende lid  | Besluit informatie-uitwisseling ondergrondse netten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 5.1  | Meetcode Elektriciteit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.1.5  | Systeemcode Elektriciteit  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | punt 7  |  [Besluit tot vaststelling meettarieven elektriciteit 2008](../../../../../../../ministeriele-regeling/regeling/meettarieven/elektriciteit/2008/BWBR0022315/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | punt 7  | Besluit tot vaststelling meettarieven elektriciteit 2008  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | Artikel 66b, tweede, vierde en vijfde lid  | Gaswet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 80a en 81e  | Gaswet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.1.10  | Systeemcode Elektriciteit  |
@@ -342,33 +346,18 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 23, eerste lid  | Mijnbouwbesluit  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 19  | Handelsregisterwet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 3.2g, eerste lid, onderdeel b, en tweede lid  | Regeling universele dienstverlening en eindgebruikersbelangen  |
-| Ministerie van Veiligheid en Justitie  | artikelen 2, eerste en derde lid, 3 en 4  |  [Uitvoeringswet verdrag biologische wapens](../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6, 7 jo. 4, 8 tot en met 13 en 16 Speelautomatenbesluit 2000  artikelen 3 en 4 Speelautomatenregeling  | Wet op de kansspelen;  Speelautomatenbesluit 2000;  Speelautomatenregeling  |
-| Ministerie van Veiligheid en Justitie  | artikel 12, tweede lid  | Advocatenwet  |
-| Ministerie van Veiligheid en Justitie  | artikel 3, eerste lid  | Wet informatie-uitwisseling ondergrondse netten  |
-| Ministerie van Veiligheid en Justitie  | artikelen 6, 7, 9, eerste, tweede, derde en vijfde lid, 10 en 12 Wet wapens en munitie; artikelen 8, 8a, 9, 10, 11, 12, 14, 15, 16 en 48 Regeling wapens en munitie  | Wet wapens en munitie;   [Regeling wapens en munitie](../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md)   |
-| Ministerie van Veiligheid en Justitie  | artikelen 6, 7 en 13  | Wet wapens en munitie  |
-| Ministerie van Veiligheid en Justitie  | artikel 18  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | artikelen 4, 6, 7, 9, eerste lid, en 13  | Wet wapens en munitie  |
-| Ministerie van Veiligheid en Justitie  | artikel 6, onderdelen b, c en j Wet particuliere beveiligingsorganisaties en recherchebureaus;  artikel 20 Regeling particuliere beveiligingsorganisaties en recherchebureaus  | Wet particuliere beveiligingsorganisaties en recherchebureaus;  Regeling particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | artikel 3.6  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | artikel 9, achtste lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | artikel 12, tweede lid  | Advocatenwet  |
-| Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t Wet op de kansspelen  artikelen 4, 6, 7, 8 tot en met 13 en 16 Speelautomatenbesluit 2000;  artikelen 3 en 4 Speelautomatenregeling  | Wet op de kansspelen;  Speelautomatenbesluit 2000;  Speelautomatenregeling  |
-| Ministerie van Veiligheid en Justitie  | artikelen 8, 12, 15, 30, 31, 33 en 36 Wet beëdigde tolken en vertalers;  artikel 11 Besluit beëdigde tolken en vertalers  | Wet beëdigde tolken en vertalers;  [Besluit beëdigde tolken en vertalers](../../../../../../../AMvB/besluit/beëdigde/tolken/en/vertalers/BWBR0024896/README.md)    |
-| Ministerie van Veiligheid en Justitie  | artikel 2, tweede lid  | Wet informatie-uitwisseling ondergrondse netten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 21, tweede lid  | Natuurbeschermingswet 1998  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 13 en 75, eerste lid Flora- en Faunawet;  artikelen 4, 5, eerste lid, en 9 Besluit vrijstelling beschermde dier- en plantensoorten  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2, eerste lid  |  [Regeling eisen aan administraties inzake zoetwatervis](../../../../../../../ministeriele-regeling/regeling/eisen/aan/administratie/inzake/zoetwatervis/BWBR0014543/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2, eerste lid  | Regeling eisen aan administraties inzake zoetwatervis  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2, tweede lid  | Regeling eisen aan administratie inzake zoetwatervis  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 28, tweede lid  |  [Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkolonieën](../../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 28, tweede lid  | Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkolonieën  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 32, eerste lid  | Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkolonieën  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 10a  |  [Reglement voor de binnenvisserij 1985](../../../../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 10a  | Reglement voor de binnenvisserij 1985  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 81, eerste lid  | Uitvoeringsregeling Meststoffenwet  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 5  |  [Reglement zee- en kustvisserij 1977](../../../../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md)   |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 5  | Reglement zee- en kustvisserij 1977  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 14, 15 en 16  | Regeling erkenning en aanwijzing veterinaire laboratoria  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 25, tweede en vierde lid  |  [Regeling eisen, administratie en registratie inzake uitoefening visserij](../../../../../../../ministeriele-regeling/regeling/eisen/administratie/en/registratie/inzake/uitoefening/visserij/BWBR0020043/README.md)   |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2, tweede lid  | Regeling eisen aan administratie inzake zoetwatervis  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 25, tweede en vierde lid  | Regeling eisen, administratie en registratie inzake uitoefening visserij  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 2, tweede lid  |  [Regeling eisen aan administratie inzake zoetwatervis](../../../../../../../ministeriele-regeling/regeling/eisen/aan/administratie/inzake/zoetwatervis/BWBR0014543/README.md)   |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 25, tweede en vierde lid  | Regeling eisen aan administraties inzake zoetwatervis  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 19 en 20  | Regeling preventie, bestrijding, monitoring van besmettelijke dierziekten en zoonosen en TSE's)  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 25, tweede en vierde lid  | Regeling eisen, administratie en registratie inzake uitoefening visserij  |
@@ -377,7 +366,7 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 13 en 75, eerste lid  | Flora- en Faunawet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 5 en 9, derde lid  | Besluit ritueel slachten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 14, derde en vierde lid, Flora- en faunawet;  artikel 9a Besluit vrijstelling beschermde dier- en plantensoorten  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3 en 4 Ingrepenbesluit;  artikelen 1 en 2 Vrijstellingsregeling dierenwelzijn  | [Ingrepenbesluit](../../../../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md); Vrijstellingsregeling dierenwelzijn  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3 en 4 Ingrepenbesluit;  artikelen 1 en 2 Vrijstellingsregeling dierenwelzijn  | Ingrepenbesluit ; Vrijstellingsregeling dierenwelzijn  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 27, eerste lid  | Meststoffenwet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 9, eerste lid  | Regeling vleeskeuring  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 8 en 10  | Besluit eisen dierlijk sperma en spermawincentra  |
@@ -386,38 +375,28 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 13 en 75, eerste lid, Flora-en Faunawet;  artikelen 10 en 11, tweede lid, Besluit vrijstelling beschermde dier- en plantensoorten  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 27  | Uitvoeringsregeling Meststoffenwet  |
 | Ministerie van Economische Zaken, Landbouw en Innovatie  | artikelen 2, 3, 4 en 7  | Tijdelijke vrijstellingsregeling gasverdoving biggen  |
-| Ministerie van Infrastructuur en Milieu  | n.v.t.  |  [Regeling aanpassing voertuigen](../../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikelen 5 tot en met 18  |  [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 1 tot en met 5  |  [Regeling tabaksreclame in of aan tabaksspeciaalzaken en tabaksverkooppunten](../../../../../../../ministeriele-regeling/regeling/tabaksreclame/in/of/aan/tabaksspeciaalzaken/en/etc/BWBR0021829/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 9 en 14 Wet op de dierproeven;  artikelen 2, 3 en 5 Dierproevenbesluit;  artikelen 1 en 1a Regeling erkenning diploma's Dierproevenbesluit  | Wet op de dierproeven;  Dierproevenbesluit;  Regeling erkenning diploma's  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 38 en 51 tot en met 55  |  [Wet publieke gezondheid](../../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 6g warenwetbesluit machines;  artikel 2b Warenwetregeling machines  | [Warenwetbesluit machines](../../../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md);   [Warenregeling machines](../../../../../../../ministeriele-regeling/warenwetregeling/machines/BWBR0006022/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 6d, eerste lid, onderdeel a  | Warenwetbesluit persoonlijke beschermingsmiddelen  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 6g besluit, eerste lid, onderdeel a  | Warenwetbesluit machines  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 12 tot en met 22, 24 en 25  | Drank- en Horecawet  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 3  | Warenwetregeling persoonlijke beschermingsmiddelen  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 4  | Warenwetregeling  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 25  |  [Infectieziektenwet](../../../../../../../wet/infectieziektenwet/BWBR0009684/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 3a, 15,16 en 20  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 10 Drank- en horecawet;  artikel 2 Besluit eisen inrichting Drank- en Horecawet  | Drank- en horecawet;   Besluit eisen inrichting Drank- en Horecawet   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 8, vierde lid, Drank- en horecawet;  artikelen 1 en 2 Besluit kennis en inzicht Hygiene Drank- en Horecawet  | Drank- en horecawet;   [Besluit kennis en inzicht Hygiene Drank- en Horecawet](../../../../../../../AMvB/besluit/kennis/en/inzicht/sociale/hygiëne/drank-/en/horecawet/BWBR0007689/README.md)   |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 8, 10, 11, 12, 13, 19, eerste lid, onderdeel a  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4 en bijlage  | Regeling detectie radioactief besmet schroot  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4  | Regeling nucleaire drukapparatuur  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4  | Regeling detectie radioactief besmet schroot  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 5  | Regeling detectie radioactief besmet schroot  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 6  | Besluit detectie radioactief besmet schroot  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 120  | Besluit stralingsbescherming  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 28  | Kernenergiewet  |
+| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 31, eerste, tweede en vierde lid,  | Besluit stralingsbescherming  |
 | Ministerie van Infrastructuur en Milieu  | artikel 30b, zesde lid  | Besluit emissie-eisen stookinstallaties milieubeheer A  |
 | Ministerie van Infrastructuur en Milieu  | artikelen 1.12 en 1.13  | Regeling bouwbesluit 2003  |
 | Ministerie van Infrastructuur en Milieu  | artikel 1.14  | Regeling bouwbesluit 2003  |
 | Ministerie van Infrastructuur en Milieu  | artikel 1 tweede lid jo. bijlage B, onderdeel III, en artikel 2  |  [Regeling bepalingsmethode cadmiumgehalte van producten Wms 2000](../../../../../../../ministeriele-regeling/regeling/bepalingsmethode/cadmiumgehalte/van/producten/wms/2000/BWBR0011638/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | artikelen 1, eerste lid, onderdeel j, en 9 van de Wet inburgering;  artikel 1.2 van de Regeling inburgering:  | [Wet inburgering](../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);   [Regeling inburgering](../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | artikel 2 en bijlage B, onderdeel 2  |  [Regeling bepalingsmethoden organisch-halogeengehalte van brandstoffen](../../../../../../../ministeriele-regeling/regeling/bepalingsmethoden/organisch-halogeengehalte/van/brandstoffen/BWBR0004524/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 2, eerste lid  | [Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../ministeriele-regeling/regeling/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017313/README.md) (1.72)  |
+| Ministerie van Infrastructuur en Milieu  | artikel 2, eerste lid  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  |
 | Ministerie van Infrastructuur en Milieu  | artikel 2, tweede lid  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  |
-| Ministerie van Infrastructuur en Milieu  | artikel 3 en bijlage  |  [Regeling niet-reinigbaar straalgrit](../../../../../../../ministeriele-regeling/regeling/niet-reinigbaar/straalgrit/BWBR0009203/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 3 en bijlage  | Regeling niet-reinigbaar straalgrit  |
 | Ministerie van Infrastructuur en Milieu  | artikel 3, derde, vierde en vijfde lid  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  |
 | Ministerie van Infrastructuur en Milieu  | artikel 3, eerste lid  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  |
 | Ministerie van Infrastructuur en Milieu  | artikel 3, tweede lid  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4 en bijlage  |  [Regeling detectie radioactief besmet schroot](../../../../../../../ministeriele-regeling/regeling/detectie/radioactief/besmet/schroot/BWBR0014983/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | artikelen 4 tot en met 7  | Inzamelingsregeling CFK en halonen  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4  | Regeling nucleaire drukapparatuur  |
-| Ministerie van Infrastructuur en Milieu  | artikel 5.1  |  [Regeling verwijdering PCB’s](../../../../../../../ministeriele-regeling/regeling/verwijdering/pcb's/BWBR0009821/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 5.1  |  [Regeling verwijdering PCB's](../../../../../../../ministeriele-regeling/regeling/verwijdering/pcb's/BWBR0009821/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | artikel 8, derde lid  | Vrijstellingsregeling waterige fracties en reinigingswater  |
 | Ministerie van Infrastructuur en Milieu  | artikel 9  | Vrijstellingsregeling waterige fracties en reinigingswater 1998  |
 | Ministerie van Infrastructuur en Milieu  | artikelen 1, onderdeel g, en 4, tweede lid  | Inzamelingsregeling CFK en halonen  |
@@ -449,11 +428,8 @@ M.J.A. van derHoeven
 | Ministerie van Infrastructuur en Milieu  | artikel 3.9  | Regeling algemene regels voor inrichtingen milieubeheer  |
 | Ministerie van Infrastructuur en Milieu  | artikel 30b, tweede lid  | Besluit emissie-eisen stookinstallaties milieubeheer A  |
 | Ministerie van Infrastructuur en Milieu  | artikel 32 en 42  | Besluit bodemkwaliteit en Regeling bodemkwaliteit  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 4  | Regeling detectie radioactief besmet schroot  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 5  | Regeling detectie radioactief besmet schroot  |
 | Ministerie van Infrastructuur en Milieu  | artikel 5, eerste, tweede en vierde lid  | Regeling geluidemissie buitenmaterieel  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 6  |  [Besluit detectie radioactief besmet schroot](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 6b, 6c en 6e  | Regeling houdende wijziging van de [Regeling melden bedrijfafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../ministeriele-regeling/regeling/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017313/README.md)  |
+| Ministerie van Infrastructuur en Milieu  | artikel 6b, 6c en 6e  | Regeling houdende wijziging van de Regeling melden bedrijfafvalstoffen en gevaarlijke afvalstoffen  |
 | Ministerie van Infrastructuur en Milieu  | artikelen 22 tot en met 29 en 30  |  [Regeling acceptatie afvalstoffen op stortplaatsen](../../../../../../../ministeriele-regeling/regeling/acceptatie/afvalstoffen/op/stortplaatsen/BWBR0026131/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | artikelen 1 tot en met 3  |  [Regeling lekdichtheidsvoorschriften koelinstallaties op schepen](../../../../../../../ministeriele-regeling/regeling/lekdichtheidsvoorschriften/koelinstallaties/1997/BWBR0008743/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | artikel 2 tot en met 7  | Besluit inzamelen afvalstoffen  |
@@ -464,8 +440,8 @@ M.J.A. van derHoeven
 | Ministerie van Infrastructuur en Milieu  | n.v.t.  |  [Richtlijn decontaminatie apparatuur ziekenhuisafval](../../../../../../../circulaire/richtlijn/decontaminatie/apparatuur/ziekenhuisafval/BWBR0022549/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | voorschrift 3.2.7 van bijlage 2  | Besluit glastuinbouw  |
 | Ministerie van Infrastructuur en Milieu  | artikelen 2 tot en met 30 en de bijlage  | Typekeuringsregeling verwarmingstoestellen luchtverontreiniging stikstofoxiden (48B)  |
-| Ministerie van Infrastructuur en Milieu  | artikel 7 jo. artikel 1  |  [Regeling externe veiligheid inrichtingen](../../../../../../../ministeriele-regeling/regeling/externe/veiligheid/inrichtingen/BWBR0017168/README.md)   |
-| Ministerie van Infrastructuur en Milieu  | artikel 6  |  [Regeling risico’s zware ongevallen 1999](../../../../../../../ministeriele-regeling/regeling/risico's/zware/ongevallen/1999/BWBR0010579/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 7 jo. artikel 1  |  [Regeling externe veiligheid inrichtingen](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikel 6  |  [Regeling risico's zware ongevallen 1999](../../../../../../../ministeriele-regeling/regeling/risico's/zware/ongevallen/1999/BWBR0010579/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | hoofdstuk 2  |  [Regeling beoordeling reinigbaarheid grond 2006](../../../../../../../ministeriele-regeling/regeling/beoordeling/reinigbaarheid/grond/2006/BWBR0020104/README.md)   |
 | Ministerie van Infrastructuur en Milieu  | hoofdstuk 4  | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit  |
 | Ministerie van Infrastructuur en Milieu  | hoofdstuk 6  | BRL 2319, 62, 71, 72 Aanleg van vloeistofdichte voorzieningen  |
@@ -492,7 +468,6 @@ M.J.A. van derHoeven
 | Ministerie van Infrastructuur en Milieu  | voorschrift 3.2.3 van bijlage 2  | Besluit glastuinbouw  |
 | Ministerie van Infrastructuur en Milieu  | voorschrift 3.2.6 van de bijlage  | Besluit landbouw milieubeheer  |
 | Ministerie van Infrastructuur en Milieu  | artikelen 1 tot en met 9  | Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 120  | Besluit stralingsbescherming  |
 | Ministerie van Infrastructuur en Milieu  | artikelen 2 tot en met 7  | [Besluit melden bedrijfsafvalstoffen en gevaarlijke stoffen](../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) (1.29)  |
 | Ministerie van Infrastructuur en Milieu  | hoofdstuk 3  | BRL 7500 Bewerken van grond  |
 | Ministerie van Infrastructuur en Milieu  | hoofdstuk 3  | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering  |
@@ -512,10 +487,41 @@ M.J.A. van derHoeven
 | Ministerie van Infrastructuur en Milieu  | voorschrift 1.3, bijlage I  | Besluit mestbassins milieubeheer  |
 | Ministerie van Infrastructuur en Milieu  | voorschrift 2.1 en 2.4, bijlage I  | Besluit LPG-tankstations milieubeheer  |
 | Ministerie van Infrastructuur en Milieu  | voorschrift 2.3, 2.5 en 2.6, bijlage I  | Besluit LPG-tankstations milieubeheer  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 28  | Kernenergiewet  |
-| Ministerie van Economische Zaken, Landbouw en Innovatie  | artikel 31, eerste, tweede en vierde lid,  | Besluit stralingsbescherming  |
+| Ministerie van Infrastructuur en Milieu  | n.v.t.  |  [Regeling aanpassing voertuigen](../../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md)   |
+| Ministerie van Infrastructuur en Milieu  | artikelen 5 tot en met 18  |  [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikelen 2, eerste en derde lid, 3 en 4  |  [Uitvoeringswet verdrag biologische wapens](../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6, 7 jo. 4, 8 tot en met 13 en 16 Speelautomatenbesluit 2000  artikelen 3 en 4 Speelautomatenregeling  | Wet op de kansspelen;  Speelautomatenbesluit 2000;  Speelautomatenregeling  |
+| Ministerie van Veiligheid en Justitie  | artikel 12, tweede lid  | Advocatenwet  |
+| Ministerie van Veiligheid en Justitie  | artikel 3, eerste lid  | Wet informatie-uitwisseling ondergrondse netten  |
+| Ministerie van Veiligheid en Justitie  | artikelen 6, 7, 9, eerste, tweede, derde en vijfde lid, 10 en 12 Wet wapens en munitie; artikelen 8, 8a, 9, 10, 11, 12, 14, 15, 16 en 48 Regeling wapens en munitie  | Wet wapens en munitie;   [Regeling wapens en munitie](../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikelen 6, 7 en 13  | Wet wapens en munitie  |
+| Ministerie van Veiligheid en Justitie  | artikel 18  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikelen 4, 6, 7, 9, eerste lid, en 13  | Wet wapens en munitie  |
+| Ministerie van Veiligheid en Justitie  | artikel 6, onderdelen b, c en j Wet particuliere beveiligingsorganisaties en recherchebureaus;  artikel 20 Regeling particuliere beveiligingsorganisaties en recherchebureaus  | Wet particuliere beveiligingsorganisaties en recherchebureaus;  Regeling particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 3.6  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 9, achtste lid  | Wet particuliere beveiligingsorganisaties en recherchebureaus  |
+| Ministerie van Veiligheid en Justitie  | artikel 12, tweede lid  | Advocatenwet  |
+| Ministerie van Veiligheid en Justitie  | artikelen 30h, 30i en 30t Wet op de kansspelen  artikelen 4, 6, 7, 8 tot en met 13 en 16 Speelautomatenbesluit 2000;  artikelen 3 en 4 Speelautomatenregeling  | Wet op de kansspelen;  Speelautomatenbesluit 2000;  Speelautomatenregeling  |
+| Ministerie van Veiligheid en Justitie  | artikelen 8, 12, 15, 30, 31, 33 en 36 Wet beëdigde tolken en vertalers;  artikel 11 Besluit beëdigde tolken en vertalers  | Wet beëdigde tolken en vertalers;   [Besluit beëdigde tolken en vertalers](../../../../../../../AMvB/besluit/beëdigde/tolken/en/vertalers/BWBR0024896/README.md)   |
+| Ministerie van Veiligheid en Justitie  | artikel 2, tweede lid  | Wet informatie-uitwisseling ondergrondse netten  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 1 tot en met 5  | Regeling tabaksreclame in of aan tabaksspeciaalzaken en tabaksverkooppunten  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 9 en 14 Wet op de dierproeven;  artikelen 2, 3 en 5 Dierproevenbesluit;  artikelen 1 en 1a Regeling erkenning diploma's Dierproevenbesluit  | Wet op de dierproeven;  Dierproevenbesluit;  Regeling erkenning diploma's  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 38 en 51 tot en met 55  |  [Wet publieke gezondheid](../../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 6g warenwetbesluit machines;  artikel 2b Warenwetregeling machines  | [Warenwetbesluit machines](../../../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md);   [Warenregeling machines](../../../../../../../ministeriele-regeling/warenwetregeling/machines/BWBR0006022/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 6d, eerste lid, onderdeel a  | Warenwetbesluit persoonlijke beschermingsmiddelen  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 6g besluit, eerste lid, onderdeel a  | Warenwetbesluit machines  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 12 tot en met 22, 24 en 25  | Drank- en Horecawet  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 3  | Warenwetregeling persoonlijke beschermingsmiddelen  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 4  | Warenwetregeling  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 25  |  [Infectieziektenwet](../../../../../../../wet/infectieziektenwet/BWBR0009684/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 3a, 15,16 en 20  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikel 10 Drank- en horecawet;  artikel 2 Besluit eisen inrichting Drank- en Horecawet  | Drank- en horecawet;   Besluit eisen inrichting Drank- en Horecawet   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 8, vierde lid, Drank- en horecawet;  artikelen 1 en 2 Besluit kennis en inzicht Hygiene Drank- en Horecawet  | Drank- en horecawet;   [Besluit kennis en inzicht Hygiene Drank- en Horecawet](../../../../../../../AMvB/besluit/kennis/en/inzicht/sociale/hygiëne/drank-/en/horecawet/BWBR0007689/README.md)   |
+| Ministerie van Volksgezondheid, Welzijn en Sport  | artikelen 8, 10, 11, 12, 13, 19, eerste lid, onderdeel a  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  |
 
-####Hoofdstuk 2 – Vergunningstelsels en eisen van Provincies
+### Hoofdstuk  2  
+
+####– Vergunningstelsels en eisen van Provincies
 
 ### §  2.1  
 
@@ -523,15 +529,15 @@ M.J.A. van derHoeven
 
 | Regelgever  | bepaling/artikel (nummer)  | Naam regelgeving  |
 |:---|:---|:---|
-| Drenthe   | artikel 5.3  | Provinciale omgevingsverordening Drenthe  |
+| Drenthe  | artikel 5.3  | Provinciale omgevingsverordening Drenthe  |
 | Flevoland  | hoofdstuk 9, onderdeel wegen en vaarwegen  | Verordening voor de fysieke leefomgeving Flevoland  |
-| Fryslân   | artikel 19  | Vaarwegenverordening Friesland  |
-| Fryslân   | artikel 3, tweede lid  | Wegenverordening provincie Fryslân  |
-| Fryslân   | artikel 5.5.2  | Provinciale milieuverordening Fryslân  |
-| Fryslân   | artikel 19  | Vaarwegenverordening Friesland  |
-| Fryslân   | artikel 4.6.3 en hoofdstuk 4  | Provinciale milieuverordening Fryslân  |
-| Fryslân   | titel 5.4  | Provinciale milieuverordening Fryslân  |
-| Fryslân   | artikelen 5 en 6  | Wadloopverordening 1996  |
+| Fryslân  | artikel 19  | Vaarwegenverordening Friesland  |
+| Fryslân  | artikel 3, tweede lid  | Wegenverordening provincie Fryslân  |
+| Fryslân  | artikel 5.5.2  | Provinciale milieuverordening Fryslân  |
+| Fryslân  | artikel 19  | Vaarwegenverordening Friesland  |
+| Fryslân  | artikel 4.6.3 en hoofdstuk 4  | Provinciale milieuverordening Fryslân  |
+| Fryslân  | titel 5.4  | Provinciale milieuverordening Fryslân  |
+| Fryslân  | artikelen 5 en 6  | Wadloopverordening 1996  |
 | Gelderland  | artikel 10, eerste lid jo. artikel 16, eerste lid  | Gelderse Wegenverordening  |
 | Gelderland  | artikel 12, eerste lid, onderdeel a jo. artikel 16, eerste lid  | Gelderse Wegenverordening  |
 | Gelderland  | artikel 12, eerste lid, onderdeel e, jo. artikel 16, eerste lid  | Gelderse Wegenverordening  |
@@ -600,7 +606,7 @@ M.J.A. van derHoeven
 | Zuid-Holland  | bijlage 10B, titel 2  | Provinciale Milieuverordening  |
 | Zuid-Holland  | bijlage 10B, titel 3  | Provinciale Milieuverordening  |
 | Zuid-Holland  | bijlage 10B, titel 4  | Provinciale Milieuverordening  |
-| Zuid-Holland  | artikel 4.3.1 en artikel 4.4.2 jo. artikel 4.4.3  | Provinciale Milieuverordening  |
+| Zuid-Holland  | artikelen 4.3.1 en 4.4.2 jo. artikel 4.4.3  | Provinciale Milieuverordening  |
 | Zuid-Holland  | artikelen 5.1.1, 5.4.1 en 5.5.2  | Provinciale Milieuverordening  |
 | Zuid-Holland  | artikel 5, eerste lid, onder i  | Wegenverordening Zuid-Holland 2010  |
 | Zuid-Holland  | bijlage 10 A  | Provinciale Milieuverordening  |
@@ -611,10 +617,10 @@ M.J.A. van derHoeven
 
 | Regelgever  | bepaling/artikel (nummer)  | Naam regelgeving  |
 |:---|:---|:---|
-| Drenthe   | hoofdstuk 7, titel 7.4  | Provinciale omgevingsverordening Drenthe  |
+| Drenthe  | hoofdstuk 7, titel 7.4  | Provinciale omgevingsverordening Drenthe  |
 | Flevoland  | hoofdstuk 11  | Verordening voor de fysieke leefomgeving Flevoland  |
-| Fryslân   | hoofdstuk 6 van deel B  | Nota Beheerbeleid voor Provinciale wegen 2006  |
-| Fryslân   | hoofdstuk 2 van deel B  | Nota Beheerbeleid voor Provinciale wegen 2006  |
+| Fryslân  | hoofdstuk 6 van deel B  | Nota Beheerbeleid voor Provinciale wegen 2006  |
+| Fryslân  | hoofdstuk 2 van deel B  | Nota Beheerbeleid voor Provinciale wegen 2006  |
 | Limburg  | artikelen 6.2, 6.3, en 6.3.a  | Provinciale Milieuverordening Limburg  |
 | Limburg  | artikel 4.1 jo. bijlage 2  | Provinciale Milieuverordening Limburg  |
 | Limburg  | hoofdstuk 4  | Algemene Plaatselijke Verordening  |
@@ -627,7 +633,9 @@ M.J.A. van derHoeven
 | Zeeland  | artikel 3, eerste lid  | Beleidsregel zonebeheersysteem Vlissingen-Oost 2008  |
 | Zuid-Holland  | artikelen 6.2, 6.3 en 6.4  | Provinciale Milieuverordening  |
 
-####Hoofdstuk 3 – Vergunningstelsels en eisen van Gemeenten
+### Hoofdstuk  3  
+
+####– Vergunningstelsels en eisen van Gemeenten
 
 ### §  3.1  
 
@@ -652,10 +660,14 @@ M.J.A. van derHoeven
 | Aalsmeer  | artikel 7  | Afvalstoffenverordening  |
 | Aalsmeer  | artikel 8.3.4  | Bouwverordening  |
 | Aalsmeer  | artikel 2.1.4.1  | Algemene Plaatselijke Verordening  |
+| Aalsmeer  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Aalsmeer  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Aalsmeer  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Aalsmeer  | artikelen 2.2.2, en 2.2.4  | Algemene Plaatselijke Verordening  |
-| Aalsmeer  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
+| Aalsmeer  | artikel 5.2.2 en 5.2.3  | Algemene Plaatselijke Verordening  |
+| Aalsmeer  | artikel 5.3.11  | Algemene Plaatselijke Verordening  |
 | Aalsmeer  | artikelen 6.1.1, 6.1.5, en 6.1.6  | Bouwverordening  |
+| Aalsmeer  | artikelen 3 en 4  | Drank/ en Horecaverordening Aalsmeer 2002  |
 | Aalten  | artikel 2  | Brandbeveiligingsverordening  |
 | Aalten  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 2:28  | Algemene Plaatselijke Verordening  |
@@ -847,12 +859,12 @@ M.J.A. van derHoeven
 | Arnhem  | artikel 4.8.3, eerste lid  | Algemene Plaatselijke Verordening  |
 | Arnhem  | artikel 5.2.4, eerste lid  | Algemene Plaatselijke Verordening  |
 | Arnhem  | artikel 5.7.1.  | Algemene Plaatselijke Verordening  |
-| Arnhem  | n.v.t.   | prositutiebeleid (van rood naar groen deel 1)  |
+| Arnhem  | n.v.t.  | prositutiebeleid (van rood naar groen deel 1)  |
 | Arnhem  | n.v.t.  | handhavingsbeleid coffeeshops 2009  |
 | Arnhem  | n.v.t.  | beleidsregels exploitatie seksinrichtingen en escortbedrijven  |
 | Arnhem  | n.v.t.  | Beleid uitgifte vergunningen straatprostitutie  |
 | Arnhem  | n.v.t.  | beleidsregels woningonttrekking 2007  |
-| Arnhem   | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Arnhem  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Assen  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Assen  | artikel 2.1.5.2  | Algemene Plaatselijke Verordening  |
 | Assen  | artikel 2.3.2.2  | Algemene Plaatselijke Verordening  |
@@ -945,15 +957,24 @@ M.J.A. van derHoeven
 | Bergambacht  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Bergambacht  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Bergen (NH)  | artikel 2  | Kwaliteit Peuterspeelzaalwerk  |
-| Bergen (NH)  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Bergen (NH)  | artikel 2, tweede lid jo. artikel 6  | Afvalstoffenverordening  |
+| Bergen (NH)  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikelen 2:24 en 2:25  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikelen 2:27 en 2:28  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Bergen (NH)  | artikel 5.3A.9  | Algemene Plaatselijke Verordening  |
-| Bergen L  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
-| Bergen L  | artikel 2  | Brandbeveiligingsverordening  |
-| Bergen L  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Bergen L  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Bergen L  | artikel 2:39, tweede lid,  | Algemene Plaatselijke Verordening  |
-| Bergen L  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Bergen L  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikelen 5:22 en 5:23  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikelen 2 en 3  | Brandbeveiligingsverordening  |
+| Bergen (NH)  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
+| Bergen (NH)  | artikelen 4, 6, 7 en 10  | Marktverordening  |
+| Bergen (L)  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
+| Bergen (L)  | artikel 2  | Brandbeveiligingsverordening  |
+| Bergen (L)  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Bergen (L)  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Bergen (L)  | artikel 2:39, tweede lid,  | Algemene Plaatselijke Verordening  |
+| Bergen (L)  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Bergen (L)  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Bergen op Zoom  | artikelen 2, eerste lid, en 8 tot en met 14  | Kwaliteit Peuterspeelzaalwerk  |
 | Bergen op Zoom  | artikel 2  | Brandbeveiligingsverordening  |
 | Bergen op Zoom  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
@@ -977,13 +998,14 @@ M.J.A. van derHoeven
 | Berkelland  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Berkelland  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Berkelland   | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Berkelland  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Bernheze  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 5:2.4  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 4.1 en 3.1  | Afvalstoffenverordening  |
+| Bernheze  | artikelen 2 en 3  | Brandbeveiligingsverordening  |
 | Bernisse  | artikel 2  | Brandbeveiligingsverordening  |
 | Bernisse  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Bernisse  | artikel 2  | Telecommunicatieverordening  |
@@ -1058,7 +1080,7 @@ M.J.A. van derHoeven
 | Bladel  | artikel 4.10  | Bouwverordening  |
 | Blaricum  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
-| Blaricum  | artikel 2.1.1  | Brandbeveiligingsverordening  |
+| Blaricum  | artikel 2 en 3  | Brandbeveiligingsverordening  |
 | Blaricum  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 2.3.3.1, tweede lid,  | Algemene Plaatselijke Verordening  |
 | Blaricum  | artikel 2.9  | Algemene Plaatselijke Verordening  |
@@ -1185,6 +1207,9 @@ M.J.A. van derHoeven
 | Breukelen  | artikelen 7 en 11  | Afvalstoffenverordening  |
 | Breukelen  | artikel 2  | Drank- en Horecaverordening  |
 | Brielle  | artikelen 2.2.1, 2.2.2 en 2.2.3  | Algemene Plaatselijke Verordening  |
+| Brielle  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Brielle  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening  |
+| Brielle  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Brielle  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Brielle  | artikelen 7 en 11  | Afvalstoffenverordening  |
 | Brielle  | artikelen 6.1.1, 6.1.5, 6.1.6  | Bouwverordening  |
@@ -1261,12 +1286,12 @@ M.J.A. van derHoeven
 | Capelle aan den IJssel  | artikel 2:12 , eerste lid  | Algemene Plaatselijke Verordening  |
 | Capelle aan den IJssel  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Capelle aan den IJssel  | artikel 3:4 , eerste lid  | Algemene Plaatselijke Verordening  |
-| Capelle aan den IJssel   | artikel 2.1.1  | Algemene Plaatselijke Verordening  |
-| Capelle aan den IJssel   | artikel 2.11.2  | Algemene Plaatselijke Verordening  |
-| Capelle aan den IJssel   | artikel 2.3.2  | Algemene Plaatselijke Verordening  |
-| Capelle aan den IJssel   | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
-| Capelle aan den IJssel   | artikel 5.2.3  | Algemene Plaatselijke Verordening  |
-| Capelle aan den IJssel   | artikel 6 , eerste lid  | Afvalstoffenverordening  |
+| Capelle aan den IJssel  | artikel 2.1.1  | Algemene Plaatselijke Verordening  |
+| Capelle aan den IJssel  | artikel 2.11.2  | Algemene Plaatselijke Verordening  |
+| Capelle aan den IJssel  | artikel 2.3.2  | Algemene Plaatselijke Verordening  |
+| Capelle aan den IJssel  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Capelle aan den IJssel  | artikel 5.2.3  | Algemene Plaatselijke Verordening  |
+| Capelle aan den IJssel  | artikel 6 , eerste lid  | Afvalstoffenverordening  |
 | Castricum  | artikelen 6.1.1, 6.1.5, en 6.1.6  | Bouwverordening  |
 | Castricum  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Castricum  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
@@ -1332,15 +1357,22 @@ M.J.A. van derHoeven
 | Dantumadeel  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Dantumadeel  | artikel 2.2.2  | Algemene Plaatselijke Verordening Dantumadiel 2008  |
 | Dantumadeel  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening Dantumadiel 2008  |
-| Dantumadeel  | artikel 3:4  | Algemene Plaatselijke Verordening gemeente Dantuamdiel 2008  |
+| Dantumadeel  | artikel 3:4  | Algemene Plaatselijke Verordening gemeente Dantumadiel 2008  |
 | de Bilt  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening De Bilt 2007  |
 | de Bilt  | artikelen 2.2.1 en 2.2.2  | Algemene Plaatselijke Verordening De Bilt 2007  |
 | de Bilt  | artikel 2.3.1.1 en 2.3.1.2  | Algemene Plaatselijke Verordening De Bilt 2007  |
 | de Bilt  | artikel 2.5.4  | Algemene Plaatselijke Verordening De Bilt 2007  |
 | de Bilt  | artikel 5.2.2  | Algemene Plaatselijke Verordening De Bilt 2007  |
+| De Marne  | artikelen 7 en 11  | Afvalstoffenverordening  |
+| De Marne  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| De Marne  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | De Marne  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | De Marne  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| De Marne   | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
+| De Marne  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| De Marne  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| De Marne  | artikel 2  | Brandbeveiligingsverordening  |
+| De Marne  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
+| De Marne  | artikel 8  | Verordening Waddenzee  |
 | De Ronde Venen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening 2011  |
 | De Ronde Venen  | artikel 2:25  | Algemene Plaatselijke Verordening 2011  |
 | De Ronde Venen  | artikel 2:28, tweede lid  | Algemene Plaatselijke Verordening 2011  |
@@ -1414,7 +1446,7 @@ M.J.A. van derHoeven
 | Den Haag  | n.v.t.  | Straathandelsverordening Den Haag  |
 | Den Haag  | artikel 14  | Afvalstoffenverordening  |
 | Den Haag  | hoofdstuk 6a  | Bouwverordening  |
-| Den Haag  |  n.v.t.  | Liftenverordening  |
+| Den Haag  | n.v.t.  | Liftenverordening  |
 | Den Haag  | n.v.t.  | Beleidsregels Parkeervergunningen  |
 | Den Haag  | Verordening op de Binnenwateren  | Verordening op de Binnenwateren  |
 | Den Haag  | n.v.t.  | Afvalstoffenverordening  |
@@ -1464,7 +1496,15 @@ M.J.A. van derHoeven
 | Dinkelland  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Dinkelland  | artikel 5.2.3  | Algemene Plaatselijke Verordening  |
 | Dinkelland  | artikel 7, tweede lid  | Afvalstoffenverordening  |
+| Dirksland  | artikel 2, tweede lid en artikel 6  | Afvalstoffenverordening  |
 | Dirksland  | artikelen 2.3.1.2 en 2:28  | Algemene plaatselijke verordening gemeente Dirksland 2008 / 2010  |
+| Dirksland  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikelen 2:24 en 2:25  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikelen 5:22 en 5:23  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikelen 2 en 3  | Brandbeveiligingsverordening  |
+| Dirksland  | artikel 2, eerste lid en artikelen 8 tot en met 14  | Verordening peuterspeelzaalwerken gemeente Dirksland 2008  |
 | Doesburg  | artikelen 6.1.1, 6.1.5 en 6.1.6  | Bouwverordening  |
 | Doesburg  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Doesburg  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
@@ -1541,14 +1581,15 @@ M.J.A. van derHoeven
 | Druten  | artikel 2.1.2.2  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikelen 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.3.2, 3.4.1, en 3.4.2  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 4  | Verordening op de verblijfsgebouwen  |
-| Druten  | artikel 5.2.2  | Algemene Plaatselijke Verordening 2010  |
-| Druten  | artikel 5.2.4  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 3, eerste lid  | Verordening op de verblijfsgebouwen  |
+| Druten  | artikel 2.1.2.2  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 2.2.2, eerste lid  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikel 2.3.2.2  | Algemene Plaatselijke Verordening 2010  |
+| Druten  | artikel 5.2.2  | Algemene Plaatselijke Verordening 2010  |
+| Druten  | artikel 5.2.4  | Algemene Plaatselijke Verordening 2010  |
 | Druten  | artikelen 6.1.1, 6.1.5, en 6.1.6  | Bouwverordening gemeente Druten 2007  |
 | Duiven  | artikel 3:10  | Algemene Plaatselijke Verordening 2009  |
 | Echt-Susteren  | artikel 2, tweede lid  | Afvalstoffenverordening  |
@@ -1558,7 +1599,7 @@ M.J.A. van derHoeven
 | Echt-Susteren  | artikel 5:22, eerste lid  | Algemene Plaatselijke Verordening  |
 | Echt-Susteren  | artikelen 4, 6, 7, en 10  | Marktverordening  |
 | Echt-Susteren  | artikel 5.1.2, eerste lid  | Bouwverordening  |
-| Echt-Susteren   | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Echt-Susteren  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Edam-Volendam  | artikel 13  | Marktverordening  |
 | Edam-Volendam  | artikelen 15 en 40  | Marktverordening  |
 | Edam-Volendam  | artikel 2.1.4.3, vierde lid  | Algemene Plaatselijke Verordening  |
@@ -1582,7 +1623,7 @@ M.J.A. van derHoeven
 | Ede  | artikel 33  | Huisvestingsverordening  |
 | Eemnes  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2.1.4.3, derde lid  | Algemene Plaatselijke Verordening  |
-| Eemnes  | artikel 2  | Brandbeveiligingsverordening  |
+| Eemnes  | artikel 2 en 3  | Brandbeveiligingsverordening  |
 | Eemnes  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2.25, eerste lid  | Algemene Plaatselijke Verordening  |
 | Eemnes  | artikel 2.28  | Algemene Plaatselijke Verordening  |
@@ -1633,6 +1674,7 @@ M.J.A. van derHoeven
 | Eindhoven  | artikel 2.1.1  | Brandbeveiligingsverordening  |
 | Eindhoven  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Eindhoven  | artikel 2.2.6  | Algemene Plaatselijke Verordening  |
+| Eindhoven  | artikel 2.3.1.2, tiende lid  | Algemene Plaatselijke Verordening  |
 | Eindhoven  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Eindhoven  | artikel 2.4.2  | Algemene Plaatselijke Verordening  |
 | Eindhoven  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
@@ -1683,7 +1725,7 @@ M.J.A. van derHoeven
 | Enschede  | artikel 3:2.1  | Besluit maximering vergunningen prostitutiebedrijven  |
 | Epe  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Epe  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
-| Epe  | artikel 4.15  | Algemene Plaatselijke Verordening  |
+| Epe  | artikel 4:15  | Algemene Plaatselijke Verordening  |
 | Epe  | artikel 5.2.3  | Algemene Plaatselijke Verordening  |
 | Epe  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Epe  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -1823,11 +1865,11 @@ M.J.A. van derHoeven
 | Graafstroom  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Graafstroom  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Graafstroom  | n.v.t.  | Beleidsregels inzake standplaatsen  |
-| Graft - De Rijp  | artikelen 2.2.1 en 2.2.2  | Algemene Plaatselijke Verordening  |
-| Graft - De Rijp  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
-| Graft - De Rijp  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
-| Graft - De Rijp  | artikel 5.2.3  | Algemene Plaatselijke Verordening  |
-| Graft - De Rijp  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
+| Graft – De Rijp  | artikelen 2.2.1 en 2.2.2  | Algemene Plaatselijke Verordening  |
+| Graft – De Rijp  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Graft – De Rijp  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
+| Graft – De Rijp  | artikel 5.2.3  | Algemene Plaatselijke Verordening  |
+| Graft – De Rijp  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Grave  | artikel 6.1.1  | Bouwverordening  |
 | Grave  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Grave  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
@@ -1932,10 +1974,7 @@ M.J.A. van derHoeven
 | Harderwijk  | artikel 2:39, tweede en derde lid  | Algemene Plaatselijke Verordening  |
 | Harderwijk  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Harderwijk  | artikelen 10, tweede lid, en 6  | Afvalstoffenverordening  |
-| Harderwijk   | artikel 6.1.1  | Bouwverordening  |
-| Harderwijk   | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Harderwijk   | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Harderwijk   | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Harderwijk  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Haren  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Haren  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Haren  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
@@ -1993,9 +2032,9 @@ M.J.A. van derHoeven
 | Heerhugowaard  | artikel 2.3.3.1 (2)  | Algemene Plaatselijke Verordening  |
 | Heerhugowaard  | artikel 3.2.1.  | Algemene Plaatselijke Verordening  |
 | Heerhugowaard  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
-| Heerlen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Heerlen  | artikel 2, tweede lid en artikel 6  | Afvalstoffenverordening  |
 | Heerlen  | artikel 2  | Standplaatsenverordening  |
-| Heerlen  | onderdelen 1, 2 en 3  | Beleidsregels speelautomatenhalvergunningen .  |
+| Heerlen  | onderdelen 1, 2 en 3  | Beleidsregels speelautomatenhalvergunningen  |
 | Heerlen  | artikelen 2 en 4  | Verordening speelautomaten  |
 | Heerlen  | artikel 2:8, derde lid  | Algemene Plaatselijke Verordening 2010  |
 | Heerlen  | artikel 2:24  | Algemene Plaatselijke Verordening 2010  |
@@ -2011,7 +2050,7 @@ M.J.A. van derHoeven
 | Heerlen  | n.v.t.  | Beleidsregel omtrent ontheffingen straatartiesten  |
 | Heerlen  | afdeling 3  | Drank- en Horecaverordening  |
 | Heerlen  | n.v.t.  | Beleid feesttentenregeling evenementenvergunning  |
-| Heerlen  | artikelen 3 t/m 11, 11A, 12, 13 en 14  | Leefmilieuverordening Heerlen 2003–2008  |
+| Heerlen  | artikelen 3 t/m 11, 11A, 12, 13 en 14  | Leefmilieuverordening Heerlen 2003-2008  |
 | Heerlen  | n.v.t.  | Sectoraal geluidsbeleid bij evenementen in de open lucht  |
 | Heerlen  | n.v.t.  | Softdrugsbeleid  |
 | Heeze-Leende  | artikel 2 en 3  | Brandbeveiligingsverordening  |
@@ -2022,8 +2061,8 @@ M.J.A. van derHoeven
 | Heeze-Leende  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Heeze-Leende  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Heeze-Leende  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Heeze-Leende   | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
-| Heeze-Leende   | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
+| Heeze-Leende  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
+| Heeze-Leende  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Heiloo  | artikelen 2 en 3  | Brandbeveiligingsverordening  |
 | Hellendoorn  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Hellendoorn  | artikel 6.1.1  | Bouwverordening  |
@@ -2087,7 +2126,7 @@ M.J.A. van derHoeven
 | Hillegom  | artikel 4.4.4  | Algemene Plaatselijke Verordening  |
 | Hillegom  | artikel 5.2.3 en het standplaatsenbeleid  | Algemene Plaatselijke Verordening  |
 | Hillegom  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
-| Hillegom  | artikelen 13, 14, en 16  | Verordening wijziging woningvoorraad .  |
+| Hillegom  | artikelen 13, 14, en 16  | Verordening wijziging woningvoorraad  |
 | Hillegom  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening  |
 | Hillegom  | artikel 2.3.1.9  | Algemene Plaatselijke Verordening  |
 | Hilvarenbeek  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
@@ -2121,9 +2160,6 @@ M.J.A. van derHoeven
 | Hoorn  | artikelen 2, 3, 4, 6, 7, 8, en 9  | Overlastverordening 1994  |
 | Hoorn  | artikelen 4, 5, 9, 22, 24, 30, 31, 32, 33, 35, 34, en 49  | Havenverordening Hoorn 2005  |
 | Hoorn  | artikelen 2.1.4.2, 2.1.5.1, 2.1.6.2, 2.2, 2.3.1.2/2a, 5.22, 3.2.1, 4.5.2, en 5.2.4  | Algemene Plaatselijke Verordening met bijlagen en diverse beleisregels  |
-| Horst aan de Maas  | artikel 4  | Marktverordening  |
-| Horst aan de Maas  | artikel 2  | Brandbeveiligingsverordening  |
-| Horst aan de Maas  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Horst aan de Maas  | artikel 2.1.4.3, derde lid  | Algemene plaatselijke verordening  |
 | Horst aan de Maas  | artikel 2.2.2.2  | Algemene Plaatselijke Verordening  |
 | Horst aan de Maas  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
@@ -2149,9 +2185,9 @@ M.J.A. van derHoeven
 | Huizen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Huizen  | artikel 3:4, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Huizen  | artikel 5:22, eerste lid  | Algemene Plaatselijke Verordening  |
-| Huizen   | artikelen 2, en 3  | Brandbeveiligingsverordening  |
-| Huizen   | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Huizen   | artikel 2:39, tweede en derde lid  | Algemene Plaatselijke Verordening  |
+| Huizen  | artikelen 2, en 3  | Brandbeveiligingsverordening  |
+| Huizen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Huizen  | artikel 2:39, tweede en derde lid  | Algemene Plaatselijke Verordening  |
 | Hulst  | artikel 2.1.4.1, eerste lid  | Algemene Plaatselijke Verordening  |
 | Hulst  | artikel 2.22  | Algemene Plaatselijke Verordening  |
 | Hulst  | artikelen 2:25 en 2.3.1.2  | Algemene Plaatselijke Verordening  |
@@ -2232,27 +2268,29 @@ M.J.A. van derHoeven
 | Krimpen aan den Ijsel  | artikel 2.1.1  | Brandbeveiligingsverordening  |
 | Krimpen aan den Ijsel  | artikel 2.1.4.1  | Algemene Plaatselijke Verordening  |
 | Krimpen aan den Ijsel  | artikel 2.2.2, eerste lid  | Algemene Plaatselijke Verordening  |
-| Krimpen aan den Ijsel  | artikel 2.3.3.1, tweede lid  | Algemene Plaatselijke Verordening  |
+| Krimpen aan den IJsel  | artikel 2.3.3.1, tweede lid  | Algemene Plaatselijke Verordening  |
 | Krimpen aan den Ijsel  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Krimpen aan den Ijsel  | artikel 7, tweede lid  | Afvalstoffenverordening  |
 | Krimpen aan den Ijsel  | artikel 15, eerste lid  | Drank- en Horecaverordening  |
 | Laarbeek  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+
+| --- | --- | --- |
+|:---|:---|:---|
 | Laarbeek  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Laarbeek  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Laarbeek  | artikel 2:9  | Algemene Plaatselijke Verordening  |
 | Laarbeek  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Laarbeek  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Landert  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening 2010  |
-| Landert  | artikel 2, tweede lid  | Brandbeveiligingsverordening  |
-| Landert  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Landert  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Landert  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
-| Landert  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Landert  | artikel 5:23  | Algemene Plaatselijke Verordening  |
+| Landerd  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening 2010  |
+| Landerd  | artikel 2, tweede lid  | Brandbeveiligingsverordening  |
+| Landerd  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Landerd  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Landerd  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Landerd  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Landerd  | artikel 5:23  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 1  | Voorwaarden voor de verhuur van standplaatsen op kermisterreinen in Landgraaf  |
 | Landgraaf  | artikel 11  | Afvalstoffenverordening  |
 | Landgraaf  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Landgraaf  | artikel 2, tweede lid  | Verordening Speelautomaten  |
 | Landgraaf  | artikel 2.1.4.1  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 2.3.3.1, tweede lid  | Algemene Plaatselijke Verordening  |
@@ -2260,7 +2298,7 @@ M.J.A. van derHoeven
 | Landgraaf  | artikel 3  | Brandbeveiligingsverordening  |
 | Landgraaf  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
-| Landgraaf   | artikel 2, tweede lid  | Verordening speelautomaten  |
+| Landgraaf  | artikel 2, tweede lid  | Verordening speelautomaten  |
 | Landsmeer  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Landsmeer  | artikel 2  | Brandbeveiligingsverordening  |
 | Landsmeer  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -2269,7 +2307,6 @@ M.J.A. van derHoeven
 | Landsmeer  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Landsmeer  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Landsmeer  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Langedijk  | 4.16  | Algemene Plaatselijke Verordening  |
 | Langedijk  | artikelen 2, eerste lid, 8 tot en met 14  | Kwaliteit Peuterspeelzaalwerk  |
 | Langedijk  | artikel 2  | Brandbeveiligingsverordening  |
 | Langedijk  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -2278,7 +2315,6 @@ M.J.A. van derHoeven
 | Langedijk  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening  |
 | Langedijk  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Langedijk  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Langedijk  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Lansingerland  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Lansingerland  | artikel 2  | Brandbeveiligingsverordening  |
 | Lansingerland  | artikel 2, eerste lid  | Handhavings- en sanctiebeleid kwaliteit kinderopvang  |
@@ -2292,22 +2328,18 @@ M.J.A. van derHoeven
 | Laren  | Beleidsregel 5  | Evenementenbeleid  |
 | Laren  | n.v.t.  | Uitstalbeleid  |
 | Laren  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
-| Laren  | artikel 2  | Brandbeveiligingsverordening  |
+| Laren  | artikel 2 en 3  | Brandbeveiligingsverordening  |
 | Laren  | artikel 2.1.2.1  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
-| Laren  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
-| Laren  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 2.4.7a  | Algemene Plaatselijke Verordening  |
 | Laren  | artikelen 2:3.3.2, 2.3.3.3, 2.3.3.4, en 2.3.3.5.  | Algemene Plaatselijke Verordening  |
-| Laren  | artikel 2.9  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 2.25, eerste lid  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 2.28  | Algemene Plaatselijke Verordening  |
-| Laren  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Laren  | artikelen 3.3 en 3.4  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 5.2.1,  | Algemene Plaatselijke Verordening  |
-| Laren  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 5.23  | Algemene Plaatselijke Verordening  |
-| Laren  |  n.v.t.  | Circusbeleid  |
+| Laren  | n.v.t.  | Circusbeleid  |
 | Laren  | paragraaf 5.4  | Vent- en standplaatsenbeleid  |
 | Laren  | paragraaf 5.6  | Vent- en standplaatsenbeleid  |
 | Laren  | n.v.t.  | Beleidsregels snuffelmarkten  |
@@ -2387,18 +2419,18 @@ M.J.A. van derHoeven
 | Lelystad  | artikelen 2.3.1.1.a, 2.3.1.1.c, 2.3.1.1.e, 2.3.1.9, 2.3.1.11, 2.3.1.2, 2.3.1.3, en 2.5.5  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikelen 2.3.1.4, 2.3.1.5, 2.3.1.6, 2.3.1.7, en 2.3.1.8  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikelen 2.3.3.2, en 2.3.3.3  | Algemene Plaatselijke Verordening  |
-| Lelystad  | artikelen 2.3.4.2 tot en met 2.3.4.11, 2.3.4.14, en 2.3.4.15  | Algemene Plaatselijke Verordening  |
+| Lelystad  | artikelen 2.3.4.3 tot en met 2.3.4.11, 2.3.4.14, en 2.3.4.15  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikel 7, tweede lid, en 11  | Afvalstoffenverordening  |
 | Lelystad  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
-| Lelystad  | artikelen 3.2.1 tot en met 3.2.5, 3.3.2, 3.4.1, en 3.4.2  | Algemene Plaatselijke Verordening  |
-| Lelystad  | artikel 6.1.1  | Bouwverordening  |
+| Lelystad  | artikelen 3.2.2 tot en met 3.2.5, 3.3.2, 3.4.1, en 3.4.2  | Algemene Plaatselijke Verordening  |
+| Lelystad  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikelen 5.2.2 en 5.2.3  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Lelystad  | artikel 6.1.1  | Bouwverordening  |
 | Lelystad  | n.v.t.  | Bouwverordening  |
-| Lelystad  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Lelystad  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Lelystad  | n.v.t.  | Beleidsregel Bed & Breakfast  |
 | Lemsterland  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -2427,7 +2459,7 @@ M.J.A. van derHoeven
 | Lingewaal  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening  |
 | Lingewaal  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Lingewaal  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Lingewaal  | n.v.t.   | Huisvestingsverordening voor standplaatsen van woonwagens  |
+| Lingewaal  | n.v.t.  | Huisvestingsverordening voor standplaatsen van woonwagens  |
 | Lisse  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Lisse  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Lisse  | artikel 2:28  | Algemene Plaatselijke Verordening  |
@@ -2532,18 +2564,17 @@ M.J.A. van derHoeven
 | Menterwolde  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Menterwolde  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Menterwolde  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Meppel  | artikel 2.1.3.1  | Algemene Plaatselijke Verordening  |
 | Meppel  | artikel 2.2.2.  | Algemene Plaatselijke Verordening  |
 | Meppel  | artikel 2.3.1.2.  | Coffeeshopbeleid.  |
 | Meppel  | artikel 2  | Verordening Kinderopvang Gemeente Meppel  |
 | Meppel  | artikel 2  | Brandbeveiligingsverordening  |
 | Meppel  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Meppel  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Meppel  | artikel 2.1.3.1  | Winkeluitstallingenbeleid .  |
+| Meppel  | artikel 2.1.3.1  | Winkeluitstallingenbeleid  |
 | Meppel  | artikelen 24 en 25  | Verordening op de warenmarkt(en)  |
 | Meppel  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Meppel  | artikel 2.3.1.2  | Terrassenbeleid  |
-| Meppel  | artikel 6.1.1  | Notitie bed & breakfast. .  |
+| Meppel  | artikel 6.1.1  | Notitie bed & breakfast  |
 | Middelburg  | artikel 2.1.6.2a  | Algemene Plaatselijke Verordening  |
 | Middelburg  | artikelen 2.3.1.10, 2.3.1.11, 2.3.1.12, 2.3.1.13, 2.3.1.14 en 2.3.1.15  | Algemene Plaatselijke Verordening  |
 | Middelharnis  | artikel 3.2.2  | Algemene Plaatselijke Verordening  |
@@ -2794,7 +2825,6 @@ M.J.A. van derHoeven
 | Oldenzaal  | artikel 3:4  | Algemene plaatselijke verordening  |
 | Oldenzaal  | artikel 5:22 en 5:23  | Algemene plaatselijke verordening  |
 | Oldenzaal  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
-| Olst-Wijhe  | artikelen 2, eerste lid, en 8 tot en met 14  | Kwaliteit Peuterspeelzaalwerk  |
 | Olst-Wijhe  | artikel 2  | Brandbeveiligingsverordening  |
 | Olst-Wijhe  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Olst-Wijhe  | artikelen 2:24, en 2:25, eerste lid  | Algemene Plaatselijke Verordening  |
@@ -3114,10 +3144,15 @@ M.J.A. van derHoeven
 | Roosendaal  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Roosendaal  | artikel 2  | Brandbeveiligingsverordening  |
 | Roosendaal  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
+| Rotterdam  | artikel 2, tweede lid jo. artikel 6  | Afvalstoffenverordening  |
 | Rotterdam  | artikel 2.1.8  | Algemene Plaatselijke Verordening  |
 | Rotterdam  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Rotterdam  | artikel 2.2.2a  | Algemene Plaatselijke Verordening  |
+| Rotterdam  | artikelen 2.3.2, 2.3.3 en 2.3.6  | Algemene Plaatselijke Verordening  |
+| Rotterdam  | artikel 2.3a.3 jo. 2.3a.8  | Algemene Plaatselijke Verordening  |
+| Rotterdam  | artikelen 3.2.2 en 3.2.3  | Huisvestingsverordening aangewezen gebieden Rotterdam  |
 | Rotterdam  | artikel 2.1.1  | Brandbeveiligingsverordening  |
+| Rotterdam  | artikelen 2, 4, 5 en 8 tot en met 14  | Verordening peuterspeelzaalwerken Rotterdam  |
 | Rotterdam  | artikelen 5, 6, 8 en 10.  | Verordening bodemsanering  |
 | Rucphen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Rucphen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -3136,7 +3171,7 @@ M.J.A. van derHoeven
 | Schagen  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
 | Schagen  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
 | Schagen  | artikel 2.2.2, eerste lid  | Algemene Plaatselijke Verordening  |
-| Schagen  | artikelen 2.3.1.2, 2.3.1.3, 2.3.1.4, en 2.3.1.5  | Algemene Plaatselijke Verordening  |
+| Schagen  | artikelen 2:34 tot en met 2:37  | Algemene Plaatselijke Verordening  |
 | Schagen  | artikelen 2.3.2.2, 2.3.1.2, en 2.3.2.3  | Algemene Plaatselijke Verordening  |
 | Schagen  | artikel 2.3.3.1 (2)  | Algemene Plaatselijke Verordening  |
 | Schagen  | artikelen 3.2.1 3.2.2 3.2.3 3.2.4 3.2.5 3.3.2 3.4.1., en 3.4.2  | Algemene Plaatselijke Verordening  |
@@ -3155,11 +3190,9 @@ M.J.A. van derHoeven
 | Scherpenzeel  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Schiermonnikoog  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Schiermonnikoog  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Schiermonnikoog  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Schiermonnikoog  | artikel 2:9  | Algemene Plaatselijke Verordening  |
 | Schiermonnikoog  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Schiermonnikoog  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Schiermonnikoog  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Schijndel  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Schijndel  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Schijndel  | artikel 2:39  | Algemene Plaatselijke Verordening  |
@@ -3184,46 +3217,44 @@ M.J.A. van derHoeven
 | Schoonhoven  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Schoonhoven  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Schoonhoven  | artikel 6  | Huisvestingsverordening  |
-| Schouen Duiveland  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
+| Schouwen Duiveland  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Schouwen Duiveland  | artikel 3.2.2  | Huisvestingsverordening  |
 | Schouwen Duiveland  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| s-Hertogenbosch  | artikel 13b  | Opiumwet  |
-| s-Hertogenbosch  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| s-Hertogenbosch  | artikel 3.2.2  | Huisvestingsverordening  |
-| s-Hertogenbosch  | artikel 17 jo. artikelen 11, 12, en 109 tot en met 111  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 18  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 19  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 20  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikelen 29b en 29c  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 30  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 32  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 33  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 61  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 62  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 3.15  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 3.3 jo. artikel 3.4  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 3.4 jo. artikel 3.13  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 3.4  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 77 jo. artikel 78  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 90  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 103  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 108  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 110  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 115  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 116  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 118  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 119  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 128  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 129  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 130  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 131  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 93  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 11  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 1.2  | Verordening openingstijden horeca ’s  |
-| s-Hertogenbosch  | artikel 2.2  | Verordening openingstijden horeca ’s  |
-| s-Hertogenbosch  | artikel 4  | Marktverordening  |
-| Simpelveld  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Simpelveld  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| ‘s-Hertogenbosch  | artikel 13b  | Opiumwet  |
+| ‘s-Hertogenbosch  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| ‘s-Hertogenbosch  | artikel 3.2.2  | Huisvestingsverordening  |
+| ‘s-Hertogenbosch  | artikel 17 jo. artikelen 11, 12, en 109 tot en met 111  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 18  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 19  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 20  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikelen 29b en 29c  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 30  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 32  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 33  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 61  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 62  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 3.15  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 3.3 jo. artikel 3.4  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 3.4 jo. artikel 3.13  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 3.4  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 77 jo. artikel 78  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 90  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 103  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 108  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 110  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 115  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 116  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 118  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 119  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 128  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 129  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 130  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 131  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 93  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 11  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 1.2  | Verordening openingstijden horeca 's  |
+| ‘s-Hertogenbosch  | artikel 2.2  | Verordening openingstijden horeca 's  |
+| ‘s-Hertogenbosch  | artikel 4  | Marktverordening  |
 | Simpelveld  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Simpelveld  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Simpelveld  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
@@ -3239,13 +3270,13 @@ M.J.A. van derHoeven
 | Sint Anthonis  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Sint Anthonis  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Sint Anthonis  | artikel 4  | Marktverordening  |
-| Sint-Michielgestel  | artikel 2  | Brandbeveiligingsverordening  |
-| Sint-Michielgestel  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Sint-Michielgestel  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Sint-Michielgestel  | artikel 2:39  | Algemene Plaatselijke Verordening  |
-| Sint-Michielgestel  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Sint-Michielgestel  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Sint-Michielgestel  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 2  | Brandbeveiligingsverordening  |
+| Sint-Michielsgestel  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 2:39  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Sint-Oedenrode  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Sint-Oedenrode  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Sint-Oedenrode  | artikel 2:28  | Algemene Plaatselijke Verordening  |
@@ -3253,22 +3284,16 @@ M.J.A. van derHoeven
 | Sint-Oedenrode  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Sint-Oedenrode  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Sint-Oedenrode  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
-| Sittard Geleen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 2:39  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Sittard-Geleen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Sittard-Geleen  | artikel 2:39  | Algemene Plaatselijke Verordening  |
+| Sittard-Geleen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Sittard-Geleen  | artikelen 2, eerste lid, en 8 tot en met 14  | Kwaliteit Peuterspeelzaalwerk  |
 | Sittard-Geleen  | artikel 2  | Brandbeveiligingsverordening  |
 | Sittard-Geleen  | artikel 2.3.3.1, tweede lid  | Algemene Plaatselijke Verordening  |
 | Sittard-Geleen  | artikelen 2:24 en 2:25, eerste lid  | Algemene Plaatselijke Verordening  |
 | Sittard-Geleen  | artikelen 2:27 en 2:28  | Algemene Plaatselijke Verordening  |
 | Sittard-Geleen  | artikel 3, eerste lid  | Verordening Speelautomaten  |
-| Sittard-Geleen  | artikelen 5:14 en 5:15  | Algemene Plaatselijke Verordening  |
 | Sittard-Geleen  | artikelen 5:22 en 5:23  | Algemene Plaatselijke Verordening  |
-| Sittard-Geleen  | artikel 2:9, eerste, tweede en derde lid  | Algemene Plaatselijke Verordening  |
 | Skarsterlân  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Skarsterlân  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Skarsterlân  | artikel 2:28  | Algemene Plaatselijke Verordening  |
@@ -3287,6 +3312,7 @@ M.J.A. van derHoeven
 | Sluis  | n.v.t.  | Nota terrassenbeleid  |
 | Sluis  | n.v.t.  | Beleidsregels prostitutie gemeente Sluis 2007 (uitwerking van hoofdstuk 3 APV)  |
 | Sluis  | artikel 6  | Kermisverordening  |
+| Sluis  | artikel 2  | Verordening brandveiligheid en hulpverlening  |
 | Smallingerland  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Smallingerland  | artikelen 4, 6, 7, en 10  | Marktverordening  |
 | Sneek  | artikel 2  | Brandbeveiligingsverordening  |
@@ -3300,7 +3326,6 @@ M.J.A. van derHoeven
 | Sneek  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Sneek  | artikelen 7, en 11  | Afvalstoffenverordening  |
 | Sneek  | artikel 4  | Markt- en standplaatsenverordening  |
-| Sneek  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Soest  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Soest  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
 | Soest  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
@@ -3333,27 +3358,33 @@ M.J.A. van derHoeven
 | Staphorst  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Staphorst  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Staphorst  | artikel 2:39, tweede lid,  | Algemene Plaatselijke Verordening  |
-| Stede Broec  | artikelen 2, en 3 tot en met 10  | Passagiersschepenverordening  |
 | Stede Broec  | artikel 2  | Brandbeveiligingsverordening  |
 | Stede Broec  | artikel 2, artikel 3  | Brandbeveiligingsverordening  |
 | Stede Broec  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Stede Broec  | artikel 2:25 Evenement  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Stede Broec  | artikel 2:28 Exploitatievergunning horecabedrijf  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikel 2:39  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikel 2:39, tweede lid, derde lid.  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikelen 7 en 11  | Regionale Afvalstoffenverordening West-Friesland  |
-| Stede-Broec  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Stede-Broec  | artikelen 2, en 3 tot en met 10  | Passagiersschepenverordening  |
+| Stede Broec  | artikelen 2, en 3 tot en met 10  | Passagiersschepenverordening  |
 | Steenbergen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Steenbergen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Steenbergen  | artikel 2:39  | Algemene Plaatselijke Verordening  |
 | Steenbergen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Steenbergen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Steenbergen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Steenwijkerland  | artikel 2:25  | Algemene Plaatselijke Verordening jo. Beleidsregels behandeling aanvragen vergunningplichtige evenementen  |
+| Steenwijkerland  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Steenwijkerland  | artikel 2:39a, eerste lid  | Algemene Plaatselijke Verordening  |
+| Steenwijkerland  | artikel 2:40, eerste lid  | Algemene Plaatselijke Verordening  |
+| Steenwijkerland  | artikel 3:4, eerste lid, jo. Nadere regels voor seksinrichtingen en escortbedrijven  | Algemene Plaatselijke Verordening jo. Nadere regels voor seksinrichtingen en escortbedrijven  |
+| Steenwijkerland  | artikel 5:17  | Algemene Plaatselijke Verordening  |
+| Steenwijkerland  | artikel 5:23  | Algemene Plaatselijke Verordening  |
+| Steenwijkerland  | artikel 7, tweede lid en artikel 11  | Afvalstoffenverordening  |
+| Steenwijkerland  | artikel 2, eerste lid en artikelen 8 tot en met 14  | Modelverordening kwaliteitsregels peuterspeelzaalwerk  |
+| Steenwijkerland  | artikel 2  | Brandbeveiligingsverordening  |
 | Stein (L)  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Stein (L)  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Stein (L)  | artikel 2:28  | Algemene Plaatselijke Verordening  |
@@ -3362,6 +3393,14 @@ M.J.A. van derHoeven
 | Stein (L)  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Stein (L)  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Stein (L)  | artikelen 4, 6, 7, en 10  | Marktverordening  |
+| Strijen  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikel 5.2.3.2  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikelen 2.1.1, 2.1.2 en 2.1.3  | Brandbeveiligingsverordening  |
+| Strijen  | artikelen 2 en 8 tot en met 15  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Ten Boer  | artikelen 2, en 3  | Brandbeveiligingsverordening  |
 | Ten Boer  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
 | Ten Boer  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -3405,7 +3444,7 @@ M.J.A. van derHoeven
 | Teylingen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Teylingen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Teylingen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Tholen  | artikel 4  | Havenregelement  |
+| Tholen  | n.v.t.  | Havenreglement  |
 | Tholen  | artikelen 1, en 2  | Algemene Plaatselijke Verordening  |
 | Tholen  | artikelen 2, en 3  | Brandbeveiligingsverordening  |
 | Tholen  | artikel 2.31  | Algemene Plaatselijke Verordening  |
@@ -3427,6 +3466,7 @@ M.J.A. van derHoeven
 | Tilburg  | artikel 26  | Algemene Plaatselijke Verordening  |
 | Tilburg  | artikel 38  | Algemene Plaatselijke Verordening  |
 | Tilburg  | artikel 97  | Algemene Plaatselijke Verordening  |
+| Tilburg  | artikel 2, eerste lid en artikelen 8 tot en met 14  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Tilburg  | artikel 2.2  | Verordening voor kamerverhuur- en logiespanden  |
 | Tubbergen  | artikel 2  | Brandbeveiligingsverordening  |
 | Tubbergen  | artikel 2  | Verblijfsrecreatie Verordening  |
@@ -3435,7 +3475,6 @@ M.J.A. van derHoeven
 | Tubbergen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Tubbergen  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Tubbergen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Tubbergen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Tubbergen  | artikel 4  | Algemene Verordening  |
 | Tubbergen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Tubbergen  | artikel 5.2.2.  | Algemene Plaatselijke Verordening  |
@@ -3489,6 +3528,7 @@ M.J.A. van derHoeven
 | Uden  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Uden  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Uden  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Uden  | artikelen 2 en 3  | Brandbeveiligingsverordening  |
 | Uitgeest  | artikelen 2.2.1 en 2.2.2  | Algemene Plaatselijke Verordening  |
 | Uitgeest  | artikelen 2.3.1.1 en 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Uitgeest  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -3515,7 +3555,7 @@ M.J.A. van derHoeven
 | Uithoorn  | artikel 5.2.2.  | Algemene Plaatselijke Verordening  |
 | Uithoorn  | artikel 7  | Afvalstoffenverordening  |
 | Urk  | artikel 2:25  | Algemene Plaatselijke Verordening  |
-| Urk  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Urk  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
 | Urk  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Urk  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Urk  | artikel 2:28  | Algemene Plaatselijke Verordening  |
@@ -3573,7 +3613,7 @@ M.J.A. van derHoeven
 | Veghel  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Veghel  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Veghel  | n.v.t.  | Beleidsregel coffeeshops  |
-| Veldhoven  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Veldhoven  | artikel 2 jo. artikel 6  | Afvalstoffenverordening  |
 | Veldhoven  | artikel 2:7  | Algemene Plaatselijke Verordening  |
 | Veldhoven  | artikel 2:13  | Algemene Plaatselijke Verordening  |
 | Veldhoven  | artikel 2:15  | Algemene Plaatselijke Verordening  |
@@ -3600,25 +3640,29 @@ M.J.A. van derHoeven
 | Venlo  | n.v.t.  | Beleidsregels ter voorkoming en bestrijding van drugsoverlast  |
 | Venlo  | artikel 5  | Besluit meldingsplicht evenementen  |
 | Venlo  | n.v.t.  | Gedoogde coffeeshops  |
-| Venlo   | artikelen 2 , eerste lid en 8 tot en met 15  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
-| Venlo   | n.v.t.  | Beleidslijn ontheffingen en projectbesluiten woongebieden  |
-| Venray   | artikel 2:28  | Algemene Plaatselijke Verordening  |
-| Venray   | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
+| Venlo  | artikelen 2 , eerste lid en 8 tot en met 15  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
+| Venlo  | n.v.t.  | Beleidslijn ontheffingen en projectbesluiten woongebieden  |
+| Venray  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Venray  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Vlaardingen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Vlaardingen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Vlaardingen  | artikel 2:39  | Algemene Plaatselijke Verordening  |
 | Vlaardingen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Vlaardingen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Vlaardingen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Vlaardingen   | n.v.t.  | Coffeeshopbeleid Vlaardingen  |
-| Vlaardingen   | artikel 5  | Bibob-beleidsregels  |
+| Vlaardingen  | n.v.t.  | Coffeeshopbeleid Vlaardingen  |
+| Vlaardingen  | artikel 5  | Bibob-beleidsregels  |
 | Vlagtwedde  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Vlagtwedde  | artikelen 7 en 11  | Afvalstoffenverordening  |
 | Vlagtwedde  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Vlagtwedde  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Vlagtwedde  | artikel 2:39  | Algemene Plaatselijke Verordening  |
 | Vlagtwedde  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Vlagtwedde  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Vlagtwedde  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Vlagtwedde  | n.v.t.  | Beleid tent- en schuurfeesten  |
+| Vlagtwedde  | n.v.t.  | Beleidsregels inzake het verlenen van een vergunning voor de exploitatie van een terras bij een horecabedrijf  |
+| Vlagtwedde  | n.v.t.  | Beleidsregels met betrekking tot de toepassing van het zogenoemde 6 dagen beleid  |
 | Vlieland  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Vlieland  | artikel 2:39 , tweede lid  | Algemene Plaatselijke Verordening  |
 | Vlieland  | artikel 5:22  | Algemene Plaatselijke Verordening  |
@@ -3655,6 +3699,11 @@ M.J.A. van derHoeven
 | Voorschoten  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Voorschoten  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
 | Voorst  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Voorst  | artikel 2:9 lid 3  | Algemene Plaatselijke Verordening  |
+| Voorst  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Voorst  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Voorst  | artikel 5:17  | Algemene Plaatselijke Verordening  |
+| Voorst  | artikelen 5:22 en 5:23  | Algemene Plaatselijke Verordening  |
 | Voorst  | artikel 3.2.2  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
 | Vught  | artikel 2.3.1.2.  | Algemene Plaatselijke Verordening 2009  |
 | Vught  | artikel 3.2.1.  | Algemene Plaatselijke Verordening 2009  |
@@ -3682,6 +3731,7 @@ M.J.A. van derHoeven
 | Waalwijk  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
 | Waalwijk  | artikelen 2.3.1.2 en 2.3.1.4  | Algemene Plaatselijke Verordening  |
 | Waalwijk  | artikelen 2.3.4.3, 2.3.4.3a, en 2.3.4.4  | Algemene Plaatselijke Verordening  |
+| Waalwijk  | Artikelen 2:83, 2:87 en 2:88  | Algemene Plaatselijke Verordening  |
 | Waalwijk  | artikelen 3.2.1 en 3.2.2  | Algemene Plaatselijke Verordening  |
 | Waalwijk  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Waalwijk  | artikel 2:25  | Algemene Plaatselijke Verordening  |
@@ -3698,15 +3748,20 @@ M.J.A. van derHoeven
 | Waddinxveen  | artikel 2:28  | Algemene Plaatselijke Verordening 2009  |
 | Waddinxveen  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening 2009  |
 | Waddinxveen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening 2009  |
-| --- | artikel 2:25  | Algemene Plaatselijke Verordening 2009  |
+| Waddinxveen  | artikel 2:25  | Algemene Plaatselijke Verordening 2009  |
 | Waddinxveen  | artikel 3:4  | Algemene Plaatselijke Verordening 2009  |
-| --- | artikel 5:18  | Algemene Plaatselijke Verordening 2009  |
+| Waddinxveen  | artikel 5:18  | Algemene Plaatselijke Verordening 2009  |
 | Waddinxveen  | artikel 5:22  | Algemene Plaatselijke Verordening 2009  |
 | Waddinxveen  | artikelen 7 en 11  | Afvalstoffenverordening  |
 | Waddinxveen  | artikel 2  | Brandbeveiligingsverordening  |
+| Waddinxveen  | n.v.t.  | Beleidsnotitie huis aan huis inzameling van textiel  |
 | Wageningen  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
+| Wageningen  | artikelen 7 en 11  | Afvalstoffenverordening  |
 | Wageningen  | artikel 7  | Afvalstoffenverordening  |
 | Wageningen  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
+| Wageningen  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Wageningen  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening  |
+| Wageningen  | artikelen 3.2.1 tot en met 3.2.5  | Algemene Plaatselijke Verordening  |
 | Wageningen  | artikelen 5.2.2 en 5.2.3  | Algemene Plaatselijke Verordening  |
 | Wageningen  | artikel 5.2.4  | Algemene Plaatselijke Verordening  |
 | Wageningen  | artikelen 6.1.1, 6.1.5, en 6.1.6.  | Bouwverordening  |
@@ -3736,6 +3791,8 @@ M.J.A. van derHoeven
 | Werkendam  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Werkendam  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Werkendam  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Wervershoof  | artikel 2.3.3.1  | Algemene Plaatselijke Verordening  |
+| Wervershoof  | artikelen 3.2.1 tot en met 3.2.5  | Algemene Plaatselijke Verordening  |
 | Wervershoof  | artikelen 2.1.1, en 2.1.3  | Brandbeveiligingsverordening  |
 | West Maas en Waal  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | West Maas en Waal  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
@@ -3810,16 +3867,21 @@ M.J.A. van derHoeven
 | Wierden  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Wierden  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Wierden  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Wieringen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Wieringen  | artikel 2, tweede lid en artikel 6  | Afvalstoffenverordening  |
+| Wieringen  | artikel 2:24 en 2:25  | Algemene Plaatselijke Verordening  |
+| Wieringen  | artikelen 2:27 en 2:28  | Algemene Plaatselijke Verordening  |
 | Wieringen  | artikel 2:39 , tweede lid  | Algemene Plaatselijke Verordening  |
-| Wieringen  | artikel 5:22  | Algemene Plaatselijke Verordening  |
-| Wieringen  | artikel 2:28  | Algemene Plaatselijke Verordening  |
+| Wieringen  | artikelen 5:22 en 5:23  | Algemene Plaatselijke Verordening  |
 | Wieringen  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Wieringen  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
+| Wieringen  | artikelen 2 en 3  | Brandbeveiligingsverordening  |
+| Wieringen  | artikelen 3.2.2, 3.2.3 en 3.2.4  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
+| Wieringen  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
+| Wieringen  | artikel 2, eerste lid en artikelen 8 tot en met 14  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Wieringermeer  | artikel 6.1.1  | Bouwverordening  |
 | Wieringermeer  | artikel 2.1.1  | Brandbeveiligingsverordening  |
 | Wieringermeer  | artikel 2.1.4.2, eerste lid  | Algemene Plaatselijke Verordening  |
-| Wieringermeer  | artikel 2.2.2, eerste lid;  artikelen 2.1.1, 2.1.8 tot en met 2.1.13, 2.1.15 en 2.1.16  | Algemene Plaatselijke Verordening; Beleidsregel evenementen op schepen  |
+| Wieringermeer  | artikel 2.2.2, eerste lid  | Algemene Plaatselijke Verordening  |
 | Wieringermeer  | artikel 2.3.1.13  | Algemene Plaatselijke Verordening  |
 | Wieringermeer  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
 | Wieringermeer  | artikel 2.3.1.2  | Beleidsnotitie horeca-activiteiten in winkels  |
@@ -3827,7 +3889,6 @@ M.J.A. van derHoeven
 | Wieringermeer  | artikel 2.7.2, eerste lid  | Algemene Plaatselijke Verordening  |
 | Wieringermeer  | artikel 5.2.2, eerste lid  | Algemene Plaatselijke Verordening  |
 | Wieringermeer  | artikel 5.2.4, eerste lid  | Algemene Plaatselijke Verordening  |
-| Wieringermeer  | artikelen 2.1.1, 2.1.8, 2.1.9, 2.1.10, 2.1.11, 2.1.12, 2.1.13, 2.1.15 en 2.1.16  | Beleidsregel evenementen op schepen  |
 | Wijchen  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Wijchen  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Wijchen  | artikel 2.1.1  | Brandbeveiligingsverordening  |
@@ -3899,7 +3960,6 @@ M.J.A. van derHoeven
 | Woudrichem  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Woudrichem  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Woudrichem  | n.v.t.  | Lokale prostitutienota Woudrichem  |
-| Woudrichem  | n.v.t.  | Notitie lokaal coffeeshopbeleid/drugsbeleid Gemeente Woudrichem  |
 | Woudrichem  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Woudrichem  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Woudrichem  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
@@ -3929,15 +3989,23 @@ M.J.A. van derHoeven
 | Zaanstad  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Zaanstad  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
 | Zaanstad  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
-| Zaltbommel   | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
-| Zaltbommel   | artikel 2, eerste lid  | Deelverordening peuterspeelzaalwerk  |
-| Zaltbommel   | artikel 2:28, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Zaltbommel   | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
+| Zaltbommel  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
+| Zaltbommel  | artikel 2, eerste lid  | Deelverordening peuterspeelzaalwerk  |
+| Zaltbommel  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Zaltbommel  | artikel 2:28, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Zaltbommel  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Zaltbommel  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Zaltbommel  | artikelen 3.2.2, 3.2.3, en 3.2.4  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
+| Zaltbommel  | artikel 2.1  | Prostitutiebeleid  |
+| Zandvoort  | artikelen 7, tweede lid jo. artikel 11  | Afvalstoffenverordening  |
 | Zandvoort  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
 | Zandvoort  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Zandvoort  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Zandvoort  | artikel 2:9, derde lid  | Algemene plaatselijke verordening  |
-| Zandvoort   | artikel 2:25  | Algemene plaatselijke verordening  |
+| Zandvoort  | artikel 2:25  | Algemene plaatselijke verordening  |
+| Zandvoort  | artikelen 2 en 3  | Brandbeveiligingsverordening  |
+| Zandvoort  | artikelen 3.2.2, 3.2.3 en 3.2.4  | Huisvestingsverordening met totaaloverzicht van de mogelijkheden  |
+| Zandvoort  | artikel 2, eerste lid  | Speelautomatenhallenverordening  |
 | Zederik  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Zederik  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Zederik  | artikel 2:39, tweede lid  | Algemene Plaatselijke Verordening  |
@@ -3996,8 +4064,13 @@ M.J.A. van derHoeven
 | Zoetermeer  | artikel 2  | Brandbeveiligingsverordening  |
 | Zoetermeer  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Zoetermeer  | artikel 2.3.2  | Algemene regels met betrekking tot de oprichting van een terras  |
+| Zuidhorn  | artikel 2, tweede lid  | Afvalstoffenverordening  |
+| Zuidhorn  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Zuidhorn  | artikel 3:4  | Algemene Plaatselijke Verordening  |
+| Zuidhorn  | artikel 5:17  | Algemene Plaatselijke Verordening  |
 | Zuidhorn  | artikel 2, eerste lid  | Verordening kwaliteitsregels peuterspeelzaalwerk  |
 | Zuidhorn  | artikel 2.1.1  | Brandbeveiligingsverordening  |
+| Zuidhorn  | artikel 2.1.1, 2.1.2 en 2.1.3  | Brandbeveiligingsverordening  |
 | Zuidhorn  | artikel 4  | Woonschepenverordening  |
 | Zuidplas  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
 | Zuidplas  | artikel 2  | Brandbeveiligingsverordening  |
@@ -4082,7 +4155,11 @@ M.J.A. van derHoeven
 | Aalburg  | artikel 8.3.4  | Bouwverordening  |
 | Aalburg  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Aalburg  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Aalsmeer  | artikel 2.3.1.1  | Algemene Plaatselijke Verordening  |
+| Aalsmeer  | artikel 4.1.3  | Algemene Plaatselijke Verordening  |
+| Aalsmeer  | artikel 4.1.3a  | Algemene Plaatselijke Verordening  |
 | Aalsmeer  | artikelen 7.7.2, 7.7.3, en 7.7.4  | Bouwverordening  |
+| Aalsmeer  | artikel 2  | Kwaliteitsregels Peuterspeelzalen  |
 | Aalten  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Aalten  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -4094,7 +4171,7 @@ M.J.A. van derHoeven
 | Aalten  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Aalten  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Aalten  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Aalten  | artikel 8.3.4 :  | Bouwverordening  |
+| Aalten  | artikel 8.3.4  | Bouwverordening  |
 | Aalten  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Aalten  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Achtkarspelen  | artikel 4.13, eerste lid  | Bouwverordening  |
@@ -4272,6 +4349,7 @@ M.J.A. van derHoeven
 | Baarle-Nassau  | artikel 1  | Beleidsregeling seksinrichtingen en escortbedrijven  |
 | Baarle-Nassau  | artikel 11  | Afvalstoffenverordening  |
 | Baarle-Nassau  | artikel 2:25  | Algemene Plaatselijke Verordening  |
+| Baarle-Nassau  | artikel 2  | Verordening Speelautomatenhallen  |
 | Baarle-Nassau  | artikel 3.4  | Algemene Plaatselijke Verordening  |
 | Baarn  | artikel 4.11  | Bouwverordening  |
 | Baarn  | artikel 2.1.4.3, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -4379,13 +4457,27 @@ M.J.A. van derHoeven
 | Bergambacht  | artikel 8.3.4  | Bouwverordening  |
 | Bergambacht  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Bergambacht  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Bergen (NH)  | artikel 19  | Afvalstoffenverordening  |
+| Bergen (NH)  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikelen 5:14 en 5:15  | Algemene Plaatselijke Verordening  |
 | Bergen (NH)  | artikel 2  | Kwaliteit Peuterspeelzaalwerk  |
+| Bergen (NH)  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Bergen (NH)  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Bergen (NH)  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Bergen (NH)  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Bergen (NH)  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Bergen (NH)  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Bergen (NH)  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Bergen (NH)  | artikel 8.3.4  | Bouwverordening  |
+| Bergen (NH)  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Bergen (NH)  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Bergen L  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Bergen L  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Bergen L  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Bergen L  | artikel 5:22  | Algemene Plaatselijke Verordening  |
+| Bergen (NH)  | artikel 2, tweede lid  | Speelautomatenverordening  |
+| Bergen (L)  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Bergen (L)  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Bergen (L)  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Bergen (L)  | artikel 5:22  | Algemene Plaatselijke Verordening  |
 | Bergen op Zoom  | artikel 4.11  | Bouwverordening  |
 | Bergen op Zoom  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
 | Bergen op Zoom  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -4426,8 +4518,20 @@ M.J.A. van derHoeven
 | Berkelland  | artikel 8.3.4  | Bouwverordening  |
 | Berkelland  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Berkelland  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Bernheze  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Bernheze  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
+| Bernheze  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Bernheze  | artikel 4.8, eerste en tweede lid  | Bouwverordening  |
+| Bernheze  | artikel 4.10  | Bouwverordening  |
+| Bernheze  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Bernheze  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Bernheze  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Bernheze  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Bernheze  | artikel 8.3.4  | Bouwverordening  |
+| Bernheze  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Bernheze  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Bernheze  | artikel 2  | Kwaliteitsregels Peuterspeelzalen  |
 | Bernisse  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Bernisse  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Bernisse  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -4682,8 +4786,13 @@ M.J.A. van derHoeven
 | Breukelen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Breukelen  | n.v.t.  | Evenementenbeleid  |
 | Breukelen  | n.v.t.  | Beleidsregel Geluidsnormen  |
+| Brielle  | artikel 2.3.2.1  | Algemene Plaatselijke Verordening  |
+| Brielle  | artikel 4.1.3  | Algemene Plaatselijke Verordening  |
+| Brielle  | artikel 5.1.2  | Algemene Plaatselijke Verordening  |
+| Brielle  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
 | Brielle  | artikel 5.2.2.2 en artikel 5.2.3.1  | Algemene Plaatselijke Verordening  |
 | Brielle  | artikel 8.3.4  | Bouwverordening  |
+| Brielle  | artikel 1a  | Verordening beperking drankverstrekking  |
 | Bronckhorst  | artikel 4.11  | Bouwverordening  |
 | Bronckhorst  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Bronckhorst  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -4775,16 +4884,16 @@ M.J.A. van derHoeven
 | Bussum  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Capelle aan den Ijssel  | artikel 2:27  | Algemene Plaatselijke Verordening  |
 | Capelle aan den IJssel  | artikel 3:11  | Algemene Plaatselijke Verordening  |
-| Capelle aan den IJssel   | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 4.12, eerste lid  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 4.13, eerste lid  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 8.3.4  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Capelle aan den IJssel   | artikel 4,11, eerste lid, onderdelen a tot en met d, tweede lid en, derde lid  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 8.3.4  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Capelle aan den IJssel  | artikel 4,11, eerste lid, onderdelen a tot en met d, tweede lid en, derde lid  | Bouwverordening  |
 | Castricum  | artikel 4.10  | Bouwverordening  |
 | Castricum  | artikel 4.8  | Bouwverordening  |
 | Coevorden  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -4876,7 +4985,19 @@ M.J.A. van derHoeven
 | de Bilt  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | de Bilt  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | De Marne  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
+| De Marne  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | De Marne  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| De Marne  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| De Marne  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| De Marne  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| De Marne  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| De Marne  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| De Marne  | artikel 4.12, eerste lid  | Bouwverordening  |
+| De Marne  | artikel 4.13, eerste lid  | Bouwverordening  |
+| De Marne  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| De Marne  | artikel 8.3.4  | Bouwverordening  |
+| De Marne  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| De Marne  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | De Ronde Venen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening 2011  |
 | De Ronde Venen  | artikel 2:36  | Algemene Plaatselijke Verordening 2011  |
 | De Ronde Venen  | artikel 2:40, tweede en derde lid  | Algemene Plaatselijke Verordening 2011  |
@@ -5014,6 +5135,21 @@ M.J.A. van derHoeven
 | Dinkelland  | artikel 8.3.4  | Bouwverordening  |
 | Dinkelland  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Dinkelland  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Dirksland  | artikel 19  | Afvalstoffenverordening  |
+| Dirksland  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikelen 5:14 en 5:15  | Algemene Plaatselijke Verordening  |
+| Dirksland  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Dirksland  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Dirksland  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Dirksland  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Dirksland  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Dirksland  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Dirksland  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Dirksland  | artikel 8.3.4  | Bouwverordening  |
+| Dirksland  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Dirksland  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Doesburg  | artikel 8.3.4  | Bouwverordening  |
 | Doesburg  | artikel 8.3.5  | Bouwverordening  |
 | Doetinchem  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -5443,8 +5579,8 @@ M.J.A. van derHoeven
 | Graafstroom  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Graafstroom  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Graafstroom  | n.v.t.  | Beleidsregels inzake het optreden van straatartiesten, straatfotografen, tekenaars, filmoperateurs of gidsen  |
-| Graft - De Rijp  | artikelen 2.3.1.1 en 2.3.1.2  | Algemene Plaatselijke Verordening  |
-| Graft - De Rijp  | artikel 2  | Afvalstoffenverordening  |
+| Graft – De Rijp  | artikelen 2.3.1.1 en 2.3.1.2  | Algemene Plaatselijke Verordening  |
+| Graft – De Rijp  | artikel 2  | Afvalstoffenverordening  |
 | Grave  | artikel 4.11  | Bouwverordening  |
 | Grave  | artikel 6.1.1  | Bouwverordening  |
 | Grave  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -5525,6 +5661,9 @@ M.J.A. van derHoeven
 | Haarlem  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Haarlem  | artikel 8.3.4  | Bouwverordening  |
 | Haarlem  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+
+| --- | --- | --- |
+|:---|:---|:---|
 | Haarlem  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Haarlemmerliede en Spaarnwoude  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Haarlemmerliede en Spaarnwoude  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -5668,9 +5807,8 @@ M.J.A. van derHoeven
 | Heerhugowaard  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Heerhugowaard  | artikel 8.3.4  | Bouwverordening Heerhugowaard 2006  |
 | Heerlen  | artikelen 1.1, 1.2, en 1.3  | Beleidsregel: Buitenevenementen en principetoestemmingen 2009  |
-| Heerlen  | artikelen 2, tweede lid, en 6  | Afvalstoffenverordening  |
-| Heerlen  | onderdelen 1, 2, en 3  | Beleidsregels speelautomatenhalvergunningen .  |
-| Heerlen  | artikelen 2.1.4.3, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Heerlen  | onderdelen 1, 2, en 3  | Beleidsregels speelautomatenhalvergunningen  |
+| Heerlen  | artikel 2, tweede lid, jo. artikel 6  | Afvalstoffenverordening  |
 | Heerlen  | artikel 2.4.8a  | Algemene Plaatselijke Verordening  |
 | Heerlen  | artikel 2:8, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Heerlen  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
@@ -5685,7 +5823,7 @@ M.J.A. van derHoeven
 | Heerlen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Heerlen  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Heerlen  | n.v.t  | Beleidslijn inzake APV-vergunningen en ontheffingen voor horeca-inrichtingen  |
-| Heerlen  | artikelen 3 t/m 11,  11A, 12, 13 en 14  | Leefmilieuverordening Heerlen 2003–2008  |
+| Heerlen  | artikelen 3 t/m 11,  11A, 12, 13 en 14  | Leefmilieuverordening Heerlen 2003-2008  |
 | Heerlen  | n.v.t.  | Softdrugsbeleid  |
 | Heerlen  | n.v.t.  | Feesttentenregeling 2011  |
 | Heeze-Leende  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -5859,12 +5997,12 @@ M.J.A. van derHoeven
 | Huizen  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Huizen  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Huizen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Huizen   | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Huizen   | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Huizen   | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Huizen   | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Huizen   | artikel 8.3.4  | Bouwverordening  |
-| Huizen   | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Huizen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Huizen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Huizen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Huizen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Huizen  | artikel 8.3.4  | Bouwverordening  |
+| Huizen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Hulst  | n.v.t.  | Bedrijfsterreinenvisie Zeeuws-Vlaanderen  |
 | Hulst  | n.v.t.  | Beleidsnotitie Supermarktstructuur gemeente Hulst  |
 | Hulst  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -5998,19 +6136,19 @@ M.J.A. van derHoeven
 | Laarbeek  | artikel 8.3.4  | Bouwverordening  |
 | Laarbeek  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Laarbeek  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Landert  | artikel 2:36  | Algemene Plaatselijke Verordening  |
-| Landert  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Landert  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Landert  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
-| Landert  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Landert  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Landert  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Landert  | artikel 4.12, eerste lid  | Bouwverordening  |
-| Landert  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Landert  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
-| Landert  | artikel 8.3.4  | Bouwverordening  |
-| Landert  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Landert  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
+| Landerd  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Landerd  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Landerd  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Landerd  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
+| Landerd  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Landerd  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Landerd  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Landerd  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Landerd  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Landerd  | artikel 7.3.2, a tot en met c  | Bouwverordening  |
+| Landerd  | artikel 8.3.4  | Bouwverordening  |
+| Landerd  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Landerd  | artikel 8.4.1, eerste lid, sub a tot en met g, en tweede lid  | Bouwverordening  |
 | Landgraaf  | artikel 4.11  | Bouwverordening  |
 | Landgraaf  | artikel 2.1.4.1, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Landgraaf  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -6074,7 +6212,7 @@ M.J.A. van derHoeven
 | Laren  | artikel 2, eerste lid  | Kwaliteit Peuterspeelzaalwerk  |
 | Laren  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Laren  | artikel 2.3.3.14.  | Algemene Plaatselijke Verordening  |
-| Laren  | artikel 2.9  | Algemene Plaatselijke Verordening  |
+| Laren  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 2.25, tweede lid  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 3.2.6  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
@@ -6083,7 +6221,6 @@ M.J.A. van derHoeven
 | Laren  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Laren  | artikel 4.2.4  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Laren  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 5.15  | Algemene Plaatselijke Verordening  |
 | Laren  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Laren  | artikel 8.3.4  | Bouwverordening  |
@@ -6091,7 +6228,7 @@ M.J.A. van derHoeven
 | Laren  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Laren  | artikel 2.1.4.3 , eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Laren  | beleidsregels 2 tot en met 4 en 6 tot en met 8,  | Evenementenbeleid  |
-| Laren  |  n.v.t.  | BIBO-beleid  |
+| Laren  | n.v.t.  | BIBO-beleid  |
 | Laren  | artikelen 5, 6 en 7  | Procedureverordening planschadevergoeding  |
 | Laren  | artikel 2.1.5.1.  | Uitstalbeleid  |
 | Leek  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -6559,6 +6696,7 @@ M.J.A. van derHoeven
 | Montfoort  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Montfoort  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Montfoort  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Montfoort  | artikel 4.10, eerste lid, jo. artikel 8.3.1, tweede en derde lid  | Bouwverordening  |
 | Montfoort  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Montfoort  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Montfoort  | artikel 4.13, eerste lid  | Bouwverordening  |
@@ -6731,6 +6869,7 @@ M.J.A. van derHoeven
 | Nijkerk  | artikel 8.3.4  | Bouwverordening  |
 | Nijkerk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Nijkerk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Nijmegen  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
 | Nijmegen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Nijmegen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Nijmegen  | artikel 4.11, eerste lid, sub a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -6854,7 +6993,6 @@ M.J.A. van derHoeven
 | Oisterwijk  | artikel 8.3.4  | Bouwverordening  |
 | Oisterwijk  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Oisterwijk  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Oldambt  | artikel 19  | Afvalstoffenverordening  |
 | Oldambt  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Oldambt  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Oldambt  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
@@ -7027,7 +7165,6 @@ M.J.A. van derHoeven
 | Ouder Amstel  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Ouder Amstel  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Ouder Amstel  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Ouder Amstel  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Ouder Amstel  | artikel 2:28  | Algemene Plaatselijke Verordening  |
 | Ouder Amstel  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Ouder Amstel  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -7039,6 +7176,9 @@ M.J.A. van derHoeven
 | Ouder Amstel  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Ouder Amstel  | artikel 8.3.4  | Bouwverordening  |
 | Ouder Amstel  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+
+| --- | --- | --- |
+|:---|:---|:---|
 | Ouder Amstel  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Ouderkerk  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Ouderkerk  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -7292,10 +7432,18 @@ M.J.A. van derHoeven
 | Roosendaal  | artikel 8.3.4  | Bouwverordening  |
 | Roosendaal  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Roosendaal  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Rotterdam  | artikel 2  | Afvalstoffenverordening  |
+| Rotterdam  | artikel 19  | Afvalstoffenverordening  |
+| Rotterdam  | artikel 2.3.2a  | Algemene Plaatselijke Verordening  |
+| Rotterdam  | artikel 2.3a.5 en 2.3a.6  | Algemene Plaatselijke Verordening  |
+| Rotterdam  | artikelen 2.3.8, 2.3.9 en 2.3.10  | Algemene Plaatselijke Verordening  |
 | Rotterdam  | artikel 3.2.1a  | Algemene Plaatselijke Verordening  |
 | Rotterdam  | artikel 3.2.2  | Algemene Plaatselijke Verordening  |
+| Rotterdam  | artikelen 4.1.3, 4.1.3a en 4.1.4  | Algemene Plaatselijke Verordening  |
 | Rotterdam  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
+| Rotterdam  | artikelen 2 tot en met 8  | Nadere regels openbare inrichtingen behorende bij hoofdstuk 2, paragraaf 3 van de Algemene Plaatselijke Verordening  |
+| Rotterdam  | n.v.t.  | Nadere regels seksinrichtingen en escortbedrijven  |
+| Rotterdam  | artikelen 1 onder A en B jo. artikel 2  | Verordening beperking drankverstrekking  |
+| Rotterdam  | artikel 3 en artikel 4 onder A  | Verordening beperking drankverstrekking  |
 | Rucphen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Rucphen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Rucphen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -7343,7 +7491,6 @@ M.J.A. van derHoeven
 | Schiermonnikoog  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Schiermonnikoog  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Schiermonnikoog  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Schiermonnikoog  | artikel 2:25  | Algemene Plaatselijke Verordening  |
 | Schiermonnikoog  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Schiermonnikoog  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Schiermonnikoog  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -7394,10 +7541,8 @@ M.J.A. van derHoeven
 | Schoonhoven  | artikel 8.3.4  | Bouwverordening  |
 | Schoonhoven  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Schoonhoven  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Schouwen Duiveland  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
 | Schouwen Duiveland  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Schouwen Duiveland  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Schouwen Duiveland  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
 | Schouwen Duiveland  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Schouwen Duiveland  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Schouwen Duiveland  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -7406,19 +7551,19 @@ M.J.A. van derHoeven
 | Schouwen Duiveland  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Schouwen Duiveland  | artikel 8.3.4  | Bouwverordening  |
 | Schouwen Duiveland  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 15  | Verordening kwaliteitsregels peuterspeelzalen 2005  |
-| s-Hertogenbosch  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 4.12, eerste lid  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 4.13, eerste lid  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 8.3.4  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| s-Hertogenbosch  | artikel 3.11  | Algemene Plaatselijke Verordening  |
-| s-Hertogenbosch  | artikel 3.9  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 15  | Verordening kwaliteitsregels peuterspeelzalen 2005  |
+| ‘s-Hertogenbosch  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 4.12, eerste lid  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 4.13, eerste lid  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 8.  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| ‘s-Hertogenbosch  | artikel 3.11  | Algemene Plaatselijke Verordening  |
+| ‘s-Hertogenbosch  | artikel 3.9  | Algemene Plaatselijke Verordening  |
 | Simpelveld  | artikel 2  | Brandbeveiligingsverordening  |
 | Simpelveld  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
 | Simpelveld  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -7437,9 +7582,19 @@ M.J.A. van derHoeven
 | Sint Anthonis  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Sint Anthonis  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Sint Anthonis  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Sint-Michielgestel  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Sint-Michielgestel  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Sint-Michielgestel  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Sint-Michielsgestel  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 8.3.4  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Sint-Michielsgestel  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Sint-Oedenrode  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Sint-Oedenrode  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Sint-Oedenrode  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -7453,20 +7608,18 @@ M.J.A. van derHoeven
 | Sint-Oedenrode  | artikel 8.3.4  | Bouwverordening  |
 | Sint-Oedenrode  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Sint-Oedenrode  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Sittard Geleen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Sittard Geleen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Sittard Geleen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Sittard Geleen  | artikel 4.12, eerste lid  | Bouwverordening  |
-| Sittard Geleen  | artikel 4.13, eerste lid  | Bouwverordening  |
-| Sittard Geleen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Sittard Geleen  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Sittard Geleen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
-| Sittard Geleen  | artikel 8.3.4  | Bouwverordening  |
-| Sittard Geleen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Sittard Geleen  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Sittard-Geleen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Sittard-Geleen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Sittard-Geleen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Sittard-Geleen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Sittard-Geleen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Sittard-Geleen  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Sittard-Geleen  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Sittard-Geleen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Sittard-Geleen  | artikelen 5:14 en 5:15  | Algemene Plaatselijke Verordening  |
+| Sittard-Geleen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Sittard-Geleen  | artikel 8.3.4  | Bouwverordening  |
+| Sittard-Geleen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Sittard-Geleen  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Sittard-Geleen  | artikel 3, tweede lid  | Verordening Speelautomaten  |
 | Skarsterlân  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Skarsterlân  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -7494,6 +7647,16 @@ M.J.A. van derHoeven
 | Slochteren  | artikel 8.3.4  | Bouwverordening  |
 | Slochteren  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Slochteren  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Sluis  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Sluis  | artikel 4.8, eerste en tweede lid jo. artikel 8.3.1  | Bouwverordening  |
+| Sluis  | artikel 4.10, eerste lid jo. artikel 8.3.1  | Bouwverordening  |
+| Sluis  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Sluis  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Sluis  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Sluis  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Sluis  | artikel 8.3.4  | Bouwverordening  |
+| Sluis  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Sluis  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Sluis  | n.v.t.  | Nota evenementenbeleid  |
 | Sluis  | n.v.t.  | Vent- en standplaatsenbeleid  |
 | Smallingerland  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
@@ -7575,7 +7738,6 @@ M.J.A. van derHoeven
 | Stadskanaal  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Stadskanaal  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Staphorst  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Staphorst  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Staphorst  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Staphorst  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Staphorst  | artikel 2:9, derde lid  | Algemene Plaatselijke Verordening  |
@@ -7595,12 +7757,12 @@ M.J.A. van derHoeven
 | Stede Broec  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Stede Broec  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Stede Broec  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Stede Broec  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en zesde lid  | Bouwverordening  |
 | Stede Broec  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Stede Broec  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Stede Broec  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Stede Broec  | artikel 4.11, eerste lid onderdelen a tot en met d, lid 2 en lid 6  | Bouwverordening  |
 | Stede Broec  | artikel 5:15  | Algemene Plaatselijke Verordening  |
-| Stede Broec  | artikel 5:15 Ventverbod  | Algemene Plaatselijke Verordening  |
 | Stede Broec  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Stede Broec  | artikel 8.3.4 :  | Bouwverordening  |
 | Stede Broec  | artikel 8.3.5, tweede lid  | Bouwverordening  |
@@ -7618,6 +7780,10 @@ M.J.A. van derHoeven
 | Steenbergen  | artikel 8.3.4  | Bouwverordening  |
 | Steenbergen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Steenbergen  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Steenwijkerland  | artikel 28  | Afvalstoffenverordening  |
+| Steenwijkerland  | artikel 2:39b, tweede en derde lid  | Algemene Plaatselijke Verordening  |
+| Steenwijkerland  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Steenwijkerland  | artikel 2:40, tweede lid  | Algemene Plaatselijke Verordening  |
 | Steenwijkerland  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Steenwijkerland  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Steenwijkerland  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -7631,6 +7797,11 @@ M.J.A. van derHoeven
 | Stein (L)  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Stein (L)  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Stein (L)  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikel 3.2.6  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikelen 2.3.2.2 en 2.3.2.3  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikelen 4.1.3 en 4.1.4  | Algemene Plaatselijke Verordening  |
+| Strijen  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
 | Strijen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Strijen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Strijen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -7693,7 +7864,7 @@ M.J.A. van derHoeven
 | Teylingen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Tholen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Tholen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
-| Tholen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Tholen  | artikel 4.10 jo. artikel 8.3.1  | Bouwverordening  |
 | Tholen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Tholen  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Tholen  | artikel 4.13, eerste lid  | Bouwverordening  |
@@ -7767,7 +7938,7 @@ M.J.A. van derHoeven
 | Tytsjerksteradiel  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Tytsjerksteradiel  | artikel 5.2.2.2  | Algemene Plaatselijke Verordening  |
 | Tytsjerksteradiel  | artikel 8.3.4  | Bouwverordening  |
-| Tytsjersteradiel  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
+| Tytsjerksteradiel  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Ubbergen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Ubbergen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Ubbergen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
@@ -7784,6 +7955,16 @@ M.J.A. van derHoeven
 | Uden  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Uden  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Uden  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Uden  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Uden  | artikel 4.8, eerste en tweede lid jo. artikel 8.3.1  | Bouwverordening  |
+| Uden  | artikel 4.10, eerste lid jo. artikel 8.3.1  | Bouwverordening  |
+| Uden  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Uden  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Uden  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Uden  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Uden  | artikel 8.3.4  | Bouwverordening  |
+| Uden  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Uden  | artikel 8.4.1, eerste lid, onderdelen a tot en met g en tweede lid  | Bouwverordening  |
 | Uitgeest  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Uitgeest  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Uitgeest  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -7880,7 +8061,7 @@ M.J.A. van derHoeven
 | Valkenswaard  | artikel 8.3.4  | Bouwverordening  |
 | Valkenswaard  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Valkenswaard  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Veendam  | artikelen 2, 3, eerste lid, en 4  | Beleidsregels Leegstandwet Veendam  |
+| Veendam  | artikelen 2, tweede lid, 3, eerste lid, en 4  | Beleidsregels Leegstandwet Veendam  |
 | Veendam  | n.v.t.  | Beleidsregels Kleinschalig Kamperen in het Landelijk gebied  |
 | Veendam  | artikelen 5.15 en 5.19  | Algemene Plaatselijke Verordening  |
 | Veendam  | onderdelen 4.5, 4.6 en 4.7  | Notitie Coffeeshopbeleid Veendam; Wiet in de parkstad.  |
@@ -7900,7 +8081,6 @@ M.J.A. van derHoeven
 | Veenendaal  | artikel 2:28A jo. artikelen 2:228B en 2:28C  | Algemene Plaatselijke Verordening  |
 | Veenendaal  | artikel 27  | Huisvestingsverordening  |
 | Veenendaal  | artikelen 3 tot en met 6  | Leefmilieuverordening  |
-| Veenendaal  | artikel 4  | Beheervordering  |
 | Veenendaal  | artikel 4  | Beheerverordening  |
 | Veenendaal  | n.v.t.  | Wet, Besluit en Regeling inburgering  |
 | Veenendaal  | artikel 2:27 jo. artikelen 2:28a en 2:28c  | Algemene Plaatselijke Verordening  |
@@ -7985,6 +8165,17 @@ M.J.A. van derHoeven
 | Vlagtwedde  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Vlagtwedde  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Vlagtwedde  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Vlagtwedde  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Vlagtwedde  | artikel 4.8, eerste en tweede lid jo. artikel 8.3.1  | Bouwverordening  |
+| Vlagtwedde  | artikel 4.10, eerste lid jo. artikel 8.3.1  | Bouwverordening  |
+| Vlagtwedde  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Vlagtwedde  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Vlagtwedde  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Vlagtwedde  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Vlagtwedde  | artikel 8.3.4  | Bouwverordening  |
+| Vlagtwedde  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Vlagtwedde  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Vlagtwedde  | n.v.t.  | Nadere regels seksinrichtingen in verband met de veiligheid en de gezondheidszorg  |
 | Vlieland  | artikel 2  | Brandbeveiligingsverordening  |
 | Vlieland  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Vlieland  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -8010,7 +8201,6 @@ M.J.A. van derHoeven
 | Vlissingen  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Vlissingen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Vlissingen  | artikelen 5:13 jo. 5:14  | Algemene Plaatselijke Verordening Vlissingen 2009  |
-| Vlissingen  | artikel 5:14  | Algemene Plaatselijke Verordening  |
 | Vlissingen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Vlissingen  | artikel 8.3.4  | Bouwverordening  |
 | Vlissingen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
@@ -8061,6 +8251,9 @@ M.J.A. van derHoeven
 | Voorschoten  | artikel 9, derde lid  | Beheersverordening  |
 | Voorschoten  | paragraaf 1  | Brandbeveiligingsverordening  |
 | Voorschoten  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Voorst  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Voorst  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Voorst  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Voorst  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Voorst  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Voorst  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
@@ -8125,10 +8318,10 @@ M.J.A. van derHoeven
 | Waalwijk  | paragraaf 2.4,  | Prostitutiebeleid  |
 | Waalwijk  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Waalwijk  | paragrafen 1.2, onder punt 3, en 2  | BIBOB beleid  |
-| Waddingxveen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
-| Waddingxveen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Waddingxveen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
-| Waddingxveen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Waddinxveen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Waddinxveen  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Waddinxveen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Waddinxveen  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Waddinxveen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Waddinxveen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Waddinxveen  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -8137,12 +8330,14 @@ M.J.A. van derHoeven
 | Waddinxveen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Waddinxveen  | artikel 8.3.4  | Bouwverordening  |
 | Waddinxveen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Wageningen  | artikel 28  | Afvalstoffenverordening  |
 | Wageningen  | artikel 8.3.4  | Bouwverordening  |
 | Wageningen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Wassenaar  | artikelen 29  | Afvalstoffenverordening  |
+| Wageningen  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
+| Wageningen  | artikelen 4.1.3 en 4.1.4  | Algemene Plaatselijke Verordening  |
+| Wassenaar  | artikel 29  | Afvalstoffenverordening  |
 | Wassenaar  | artikelen 2.1.4.3, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Wassenaar  | artikelen 2.3.2.2  | Algemene Plaatselijke Verordening  |
-| Wassenaar  | artikelen 3, tweede lid  | Verordening Speelautomatenhallen  |
 | Wassenaar  | artikelen 3, tweede lid  | Verordening Speelautomatenhallen  |
 | Wassenaar  | artikel 2.1.5, eerste lid, sub a tot en met c  | Bouwverordening  |
 | Wassenaar  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
@@ -8167,7 +8362,6 @@ M.J.A. van derHoeven
 | Weesp  | artikel 2:42  | Algemene Plaatselijke Verordening  |
 | Weesp  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Weesp  | artikel 8.3.5, tweede lid  | Bouwverordening  |
-| Weesp  | artikel 3:4  | Algemene Plaatselijke Verordening  |
 | Weesp  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Weesp  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
 | Weesp  | artikel 4.12, eerste lid  | Bouwverordening  |
@@ -8186,7 +8380,6 @@ M.J.A. van derHoeven
 | Werkendam  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Werkendam  | artikel 4.13, eerste lid  | Bouwverordening  |
 | Werkendam  | artikel 4.8, eerste en tweede lid, jo. artikel 8.3.1  | Bouwverordening  |
-| Werkendam  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Werkendam  | n.v.t.  | Nulbeleid voor coffeeshops  |
 | Werkendam  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
 | Werkendam  | artikel 8.3.4  | Bouwverordening  |
@@ -8197,6 +8390,8 @@ M.J.A. van derHoeven
 | Wervershoof  | artikel 6.1.1  | Bouwverordening  |
 | Wervershoof  | artikel 2.1.4.3  | Algemene Plaatselijke Verordening  |
 | Wervershoof  | artikel 2.2.2  | Algemene Plaatselijke Verordening  |
+| Wervershoof  | artikelen 2.3.2.1, 2.3.2.2 en 2.3.2.3  | Algemene Plaatselijke Verordening  |
+| Wervershoof  | artikel 2.3.3.2  | Algemene Plaatselijke Verordening  |
 | Wervershoof  | artikel 5.2.2  | Algemene Plaatselijke Verordening  |
 | Wervershoof  | artikel 2.1.4.2  | Algemene Plaatselijke Verordening  |
 | West Maas en Waal  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
@@ -8269,8 +8464,22 @@ M.J.A. van derHoeven
 | Wierden  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Wierden  | artikel 4  | Algemene Verordening Ondergrondse Infrastructuur  |
 | Wierden  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Wieringen  | artikel 19  | afvalstoffenverordening  |
+| Wieringen  | artikel 2:36  | Algemene Plaatselijke Verordening  |
 | Wieringen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Wieringen  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
+| Wieringen  | Artikelen 5:14 en 5:15  | Algemene Plaatselijke Verordening  |
+| Wieringen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Wieringen  | artikel 4.8, eerste en tweede lid jo. artikel 8.3.1  | Bouwverordening  |
+| Wieringen  | artikel 4.10, eerste lid jo. artikel 8.3.1  | Bouwverordening  |
+| Wieringen  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Wieringen  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Wieringen  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Wieringen  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Wieringen  | artikel 8.3.4  | Bouwverordening  |
+| Wieringen  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Wieringen  | artikel 8.4.1, eerste lid, onderdelen a tot en met g en tweede lid  | Bouwverordening  |
+| Wieringen  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
 | Wieringermeer  | artikel 3.2.1  | Algemene Plaatselijke Verordening  |
 | Wijchen  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Wijchen  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -8388,7 +8597,6 @@ M.J.A. van derHoeven
 | Woudenberg  | artikel 8.3.4  | Bouwverordening  |
 | Woudenberg  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Woudenberg  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
-| Woudenberg  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Woudrichem  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Woudrichem  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Woudrichem  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
@@ -8401,11 +8609,11 @@ M.J.A. van derHoeven
 | Woudrichem  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Woudrichem  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Woudrichem  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Woudrichem  |  n.v.t.  | Lokale prostitutienota Woudrichem  |
+| Woudrichem  | n.v.t.  | Lokale prostitutienota Woudrichem  |
 | Woudrichem  | artikel 5:15  | Algemene Plaatselijke Verordening  |
 | Woudrichem  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Woudrichem  | artikel 2.3.1.2  | Algemene Plaatselijke Verordening  |
-| Woudrichem  | n.v.t.  | Notitie lokaal coffeeshopbeleid/drugsbeleid2009  |
+| Woudrichem  | n.v.t.  | Notitie lokaal coffeeshopbeleid/drugsbeleid Gemeente Woudrichem 2009  |
 | Wunseradiel  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Wunseradiel  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Wunseradiel  | artikel 5:15  | Algemene Plaatselijke Verordening  |
@@ -8425,7 +8633,7 @@ M.J.A. van derHoeven
 | Zaanstad  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Zaanstad  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Zaanstad  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
-| Zaanstad  | artikel 4.10, eerste lid, jo. artikel 8.3.1  | Bouwverordening  |
+| Zaanstad  | artikel 4.10, eerste lid jo. artikel 8.3.1  | Bouwverordening  |
 | Zaanstad  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
 | Zaanstad  | artikel 4.12, eerste lid  | Bouwverordening  |
 | Zaanstad  | artikel 4.13, eerste lid  | Bouwverordening  |
@@ -8435,9 +8643,34 @@ M.J.A. van derHoeven
 | Zaanstad  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Zaanstad  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
 | Zaanstad  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Zaltbommel  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Zaltbommel  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Zaltbommel  | artikel 2:40  | Algemene Plaatselijke Verordening  |
+| Zaltbommel  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Zaltbommel  | artikel 4.8, eerste en tweede lid jo. artikel 8.3.1  | Bouwverordening  |
+| Zaltbommel  | artikel 4.10, eerste lid jo. artikel 8.3.1  | Bouwverordening  |
+| Zaltbommel  | artikel 4.11, eerste lid, onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Zaltbommel  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Zaltbommel  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Zaltbommel  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Zaltbommel  | artikel 8.3.4  | Bouwverordening  |
+| Zaltbommel  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Zaltbommel  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Zandvoort  | artikel 29  | Afvalstoffenverordening  |
 | Zandvoort  | artikel 2:40  | Algemene Plaatselijke Verordening  |
 | Zandvoort  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Zandvoort  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Zandvoort  | artikel 2.1.5 eerste lid, onderdelen a tot en met c  | Bouwverordening  |
+| Zandvoort  | artikel 4.8 eerste en tweede lid jo. artikel 8.3.1  | Bouwverordening  |
+| Zandvoort  | artikel 4.10 lid 1 jo. artikel 8.3.1  | Bouwverordening  |
+| Zandvoort  | artikel 4.11 eerste lid onderdelen a tot en met d, tweede en derde lid  | Bouwverordening  |
+| Zandvoort  | artikel 4.12, eerste lid  | Bouwverordening  |
+| Zandvoort  | artikel 4.13, eerste lid  | Bouwverordening  |
+| Zandvoort  | artikel 7.3.2, onderdelen a tot en met c  | Bouwverordening  |
+| Zandvoort  | artikel 8.3.4  | Bouwverordening  |
+| Zandvoort  | artikel 8.3.5, tweede lid  | Bouwverordening  |
+| Zandvoort  | artikel 8.4.1 eerste lid, onderdelen a tot en met g en tweede lid  | Bouwverordening  |
+| Zandvoort  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
 | Zederik  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Zederik  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 | Zederik  | artikel 2:40  | Algemene Plaatselijke Verordening  |
@@ -8518,6 +8751,12 @@ M.J.A. van derHoeven
 | Zoetermeer  | artikel 8.3.4  | Bouwverordening  |
 | Zoetermeer  | artikel 8.3.5, tweede lid  | Bouwverordening  |
 | Zoetermeer  | artikel 8.4.1, eerste lid, onderdelen a tot en met g, en tweede lid  | Bouwverordening  |
+| Zuidhorn  | artikel 16  | Afvalstoffenverordening  |
+| Zuidhorn  | artikel 2:36  | Algemene Plaatselijke Verordening  |
+| Zuidhorn  | artikel 5:15  | Algemene Plaatselijke Verordening  |
+| Zuidhorn  | n.v.t.  | Bed and breakfast-beleid  |
+| Zuidhorn  | n.v.t.  | Beleidsnotitie aan huis verbonden beroepen en bedrijven  |
+| Zuidhorn  | n.v.t.  | Festiviteitenbeleid  |
 | Zuidplas  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Zuidplas  | artikel 2, tweede lid  | Afvalstoffenverordening  |
 | Zuidplas  | artikel 2, tweede lid  | Speelautomatenhallenverordening  |
@@ -8599,7 +8838,9 @@ M.J.A. van derHoeven
 | Zwolle  | artikel 2:9, eerste en tweede lid  | Algemene Plaatselijke Verordening  |
 | Zwolle  | artikel 2.1.5, eerste lid, onderdelen a tot en met c  | Bouwverordening  |
 
-####Hoofdstuk 4 – Eisen en vergunningstelsels van Waterschappen
+### Hoofdstuk  4  
+
+####– Eisen en vergunningstelsels van Waterschappen
 
 ### §  4.1  
 
@@ -8607,7 +8848,7 @@ M.J.A. van derHoeven
 
 | Regelgever  | bepaling/artikel (nummer)  | Naam regelgeving  |
 |:---|:---|:---|
-| Hoogheemraadschap Amstel, Gooi en Vecht  | artikel 7  | Verordening aanvragen Wvo-vergunningen ([Wet verontreiniging oppervlaktewateren](../../../../../../../wet/wet/verontreiniging/oppervlaktewateren/BWBR0002682/README.md))  |
+| Hoogheemraadschap Amstel, Gooi en Vecht  | artikel 7  | Verordening aanvragen Wvo-vergunningen (Wet verontreiniging oppervlaktewateren)  |
 | Hoogheemraadschap De Stichtse Rijnlanden  | artikel 7  | Verordening aanvragen Wvo-vergunningen (Wet verontreiniging oppervlaktewateren)  |
 | Hoogheemraadschap van Rijnland  | artikel 6, vierde lid  | Lozingsverordening Rijnland 2005  |
 | Hoogheemraadschap van Schieland en de Krimpenerwaard  | artikel 7  | Verordening aanvragen Wvo-vergunningen (Wet verontreiniging oppervlaktewateren)  |
@@ -8637,7 +8878,9 @@ M.J.A. van derHoeven
 | Hoogheemraadschap van Schieland en de Krimpenerwaard  | n.v.t.  | Beleidsregel toepassing ontzilt zeezand  |
 | Waterschap Zeeuwse Eilanden  | artikel 4.2  | Bewegwijzering bedrijven buitengebied  |
 
-####Hoofdstuk 5 – Eisen en vergunningstelsels van andere openbare lichamen
+### Hoofdstuk  5  
+
+####– Eisen en vergunningstelsels van andere openbare lichamen
 
 ### §  5.1  
 
@@ -8651,23 +8894,23 @@ M.J.A. van derHoeven
 | Groengebied Amstelland  | artikel 3:5  | Algemene Verordening Groengebied Amstelland  |
 | Groengebied Amstelland  | artikel 4:3  | Algemene Verordening Groengebied Amstelland  |
 | Havenschap Moerdijk  | n.v.t.  | Toetsingskader "Goedkeuring en toestemming bedrijfsverstigingen, wijziging van bedrijfsactiviteiten, bedrijfsverplaatsingen en grondvervreemdingen"  |
-| Nederlandse Orde van Advocaten  | artikel 4  | Verordening op de Permanente Opleiding 2000  |
-| Nederlandse Orde van Advocaten  | artikel 11a  | Stage verordening 1988/2005  |
+| Nederlandse Orde van Advocaten  | artikel 4  |  [Verordening op de Permanente Opleiding 2000](../../../../../../../pbo/verordening/op/de/permanente/opleiding/2000/BWBR0010191/README.md)   |
+| Nederlandse Orde van Advocaten  | artikel 11a  | Stageverordening 1988/2005  |
 | Productschap Dranken  | n.v.t.  | Verordening W registratie handelaren in wijn 2003  |
-| Productschap Vee en Vlees  | artikel 2, derde lid  | Verordening bestrijding vesiculaire varkensziekte (PVV) 2004  |
-| Productschap Vee en Vlees  | artikelen, derde lid, en 4, derde lid  | Verordening zelfcontrole runderen op het verbod gebruik van bepaalde stoffen  |
+| Productschap Vee en Vlees  | artikel 2, derde lid  |  [Verordening bestrijding vesiculaire varkensziekte (PVV) 2004](../../../../../../../pbo/verordening/bestrijding/vesiculaire/varkensziekte/(pvv)/2004/BWBR0017336/README.md)   |
+| Productschap Vee en Vlees  | artikelen, derde lid, en 4, derde lid  |  [Verordening zelfcontrole runderen op het verbod gebruik van bepaalde stoffen](../../../../../../../pbo/verordening/zelfcontrole/runderen/op/het/verbod/gebruik/van/bepaalde/etc/BWBR0010608/README.md)   |
 | Productschap Vee en Vlees  | artikel 3, eerste lid  | Verordening ziekte van Aujeszky 2006  |
-| Productschap voor pluimvee en eieren  | artikelen 10a, eerste lid, 10b, eerste en tweede lid  | Verordening welzijnsnormen nertsen (PPE) 2003  |
-| Productschap voor pluimvee en eieren  | artikelen 12a, eerste lid, 12b, eerste en tweede lid  | Verordening welzijnsnormen vleeskalkoenen 2003  |
+| Productschap voor pluimvee en eieren  | artikelen 10a, eerste lid, 10b, eerste en tweede lid  |  [Verordening welzijnsnormen nertsen (PPE) 2003](../../../../../../../pbo/verordening/welzijnsnormen/nertsen/(ppe)/2003/BWBR0016065/README.md)   |
+| Productschap voor pluimvee en eieren  | artikelen 12a, eerste lid, 12b, eerste en tweede lid  |  [Verordening welzijnsnormen vleeskalkoenen 2003](../../../../../../../pbo/verordening/welzijnsnormen/vleeskalkoenen/2003/BWBR0015121/README.md)   |
 | Productschap voor pluimvee en eieren  | artikelen 2, eerste, tweede en derde lid  | Verordening monitoring Aviaire influzenza (PPE) 2005  |
-| Productschap voor pluimvee en eieren  | artikel 2, eerste, tweede en derde lid  | Verordening hygiënevoorschriften kalkoenhouderij industrie 1999  |
+| Productschap voor pluimvee en eieren  | artikel 2, eerste, tweede en derde lid  |  [Verordening hygiënevoorschriften kalkoenhouderij industrie 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md)   |
 | Productschap voor pluimvee en eieren  | artikel 3, derde en zesde lid  | Verordening hygiëne voorschriften pluimveehouderij 2000  |
-| Productschap voor pluimvee en eieren  | artikel 3, vierde, vijfde en zesde lid  | Verordening hygiëne voorschriften pluimveehouderij 1999  |
+| Productschap voor pluimvee en eieren  | artikel 3, vierde, vijfde en zesde lid  |  [Verordening hygiëne voorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md)   |
 | Productschap voor pluimvee en eieren  | artikel 4, eerste, derde en zesde lid  | Verordening hygiënevoorschriften kalkoenhouderij industrie 1999  |
 | Productschap voor pluimvee en eieren  | artikel 6, derde en zevende lid  | Verordening hygiëne voorschriften pluimveehouderij 1999  |
+| Productschap voor pluimvee en eieren  | artikel 6a, eerste en tweede lid  |  [Verordening hygiënevoorschriften pluimveeverwerkende industrie 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveeverwerkende/industrie/1999/BWBR0010836/README.md)   |
 | Productschap voor pluimvee en eieren  | artikel 6a, eerste en tweede lid  | Verordening hygiënevoorschriften pluimveeverwerkende industrie 1999  |
-| Productschap voor pluimvee en eieren  | artikel 6a, eerste en tweede lid  | Verordening hygiënevoorschriften pluimveeverwerkende industrie 1999  |
-| Productschap voor pluimvee en eieren  | artikel 10, eerste lid  | Verordening welzijnsnormen konijnen (PPE) 2006  |
+| Productschap voor pluimvee en eieren  | artikel 10, eerste lid  |  [Verordening welzijnsnormen konijnen (PPE) 2006](../../../../../../../pbo/verordening/welzijnsnormen/konijnen/(ppe)/2006/BWBR0019560/README.md)   |
 | Productschap Zuivel  | artikel 12  | Zuivelverordening 2010  |
 | Recreatieschap Alkmaarder- en Uitgeestermeer  | artikel 2, eerste lid  | Algemene Verordening Recreatieschap Alkmaarder- en Uitgeestermeer  |
 | Recreatieschap Alkmaarder- en Uitgeestermeer  | artikel 2:2  | Algemene Verordening Recreatieschap Alkmaarder- en Uitgeestermeer  |
@@ -8701,11 +8944,11 @@ M.J.A. van derHoeven
 
 | Regelgever  | bepaling/artikel (nummer)  | Naam regelgeving  |
 |:---|:---|:---|
-| Bedrijfschap Horeca en Catering  | n.v.t.  | Registratieverordening Bedrijfschap Horeca en Catering 2003 en [Registratiereglement Bedrijfschap Horeca en Catering](../../../../../../../pbo/registratiereglement/bedrijfschap/horeca/en/catering/BWBR0026757/README.md)  |
+| Bedrijfschap Horeca en Catering  | n.v.t.  | [Registratieverordening Bedrijfschap Horeca en Catering 2003](../../../../../../../pbo/registratieverordening/bedrijfschap/horeca/en/catering/2003/BWBR0014802/README.md) en [Registratiereglement Bedrijfschap Horeca en Catering](../../../../../../../pbo/registratiereglement/bedrijfschap/horeca/en/catering/BWBR0026757/README.md)  |
 | Bedrijfschap Horeca en Catering  | n.v.t.  | [Hotelclassificatiebesluit 2003](../../../../../../../pbo/hotelclassificatiebesluit/2003/BWBR0016125/README.md) e.a.  |
 | Hoofdbedrijfschap Afbouw en Onderhoud  | n.v.t.  |  [Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../pbo/verordening/registratie/en/inzage/van/boeken/en/bescheiden/etc/BWBR0014995/README.md)   |
 | Hoofdbedrijfschap Ambachten  | n.v.t.  |  [Registratieverordening Hoofdbedrijfschap Ambachten 2004](../../../../../../../pbo/registratieverordening/hoofdbedrijfschap/ambachten/2004/BWBR0016480/README.md)   |
-| Koninklijk Nederlands Instituut van Registeraccountants  | n.v.t.  |  [Verordening gedragscode](../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md)   |
+| Koninklijk Nederlands Instituut van Registeraccountants  | n.v.t.  |  [Verordening gedragscode](../../../../../../../ministeriele-regeling/wijzigingsregeling/tijdelijke/subsidieregeling/innovatieketen/water/BWBR0026628/README.md)   |
 | Koninklijk Nederlands Instituut van Registeraccountants  | n.v.t.  | Verordening gedragscode  |
 | Koninklijk Nederlands Instituut van Registeraccountants  | artikel 35  |  [Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten](../../../../../../../pbo/nadere/voorschriften/accountantskantoren/ter/zake/van/assurance-opdrachten/BWBR0027001/README.md)   |
 | Koninklijk Nederlands Instituut van Registeraccountants  | artikel B1-291.1  | Verordening gedragscode  |

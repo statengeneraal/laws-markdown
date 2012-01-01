@@ -1504,7 +1504,6 @@ d. het nummer van de inschrijving.
 
 1.  Indien bij het verzoek tot vernieuwing niet is voldaan aan het bepaalde in de regels 1.9, 3.3 en 3.6, stelt het Bureau de verzoeker onverwijld daarvan in kennis en geeft hem de gelegenheid alsnog aan deze vereisten te voldoen. Onverminderd het bepaalde in regel 1.18, lid 6, bedraagt de termijn hiervoor minimaal een maand. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.   
 2.  Indien binnen deze termijn niet aan de vereisten is voldaan, wordt het vernieuwingsverzoek buiten behandeling gelaten.   
-3.  Bij de vernieuwing past het Bureau de meest recente versie van de classificatie van de Overeenkomst van Nice toe.   
 
 ### Regel  1.11  
 
@@ -1802,7 +1801,7 @@ c. een domicilie kiezen in de Europese Gemeenschap of de Europese Economische Ru
 
 ### TITEL  II  
 
-####TEKENINGEN OF MODELLENN
+####TEKENINGEN OF MODELLEN
 
 ### Regel  2.1  
 

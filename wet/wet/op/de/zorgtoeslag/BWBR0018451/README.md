@@ -34,12 +34,20 @@ h. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen 
 
 1.  Indien de normpremie voor een verzekerde in het berekeningsjaar minder bedraagt dan de standaardpremie in dat jaar, heeft de verzekerde aanspraak op een zorgtoeslag ter grootte van dat verschil. Voor een verzekerde met een partner wordt daarbij tweemaal de standaardpremie in aanmerking genomen; in dat geval worden de verzekerde en zijn partner voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.   
 2.  De normpremie bedraagt een percentage van het drempelinkomen in het berekeningsjaar, vermeerderd met een percentage van het toetsingsinkomen van de verzekerde in dat jaar voorzover dat toetsingsinkomen het drempelinkomen te boven gaat. Voor een verzekerde met een partner wordt daarbij het gezamenlijke toetsingsinkomen in aanmerking genomen.   
-3.  De percentages worden voor verzekerden met een partner vastgesteld op 5,015% van het drempelinkomen, vermeerderd met 5,03% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat en voor een verzekerde zonder partner op 2,715% van het drempelinkomen, vermeerderd met 5,03% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat. Deze percentages kunnen bij algemene maatregel van bestuur worden gewijzigd.   
+3.  De percentages worden voor verzekerden met een partner vastgesteld op 5,530% van het drempelinkomen, vermeerderd met 5,435% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat en voor een verzekerde zonder partner op 2,930% van het drempelinkomen, vermeerderd met 5,435% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat. Deze percentages kunnen bij algemene maatregel van bestuur worden gewijzigd.   
 4.  In afwijking van het eerste lid bedraagt de aanspraak op een zorgtoeslag voor een verzekerde met een partner die geen verzekerde is, vijftig procent van het op grond van het eerste lid berekende bedrag.   
 5.  In afwijking van het eerste lid heeft een verzekerde met een partner die niet heeft voldaan aan de voor hem op grond van [artikel 2 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geldende verplichting zich krachtens een zorgverzekering te verzekeren, geen aanspraak op een zorgtoeslag.   
 6.  De aanspraak op een zorgtoeslag wordt voor iedere kalendermaand afzonderlijk bepaald.   
 7.  Bij regeling van Onze Minister kunnen omtrent het bepaalde in het zesde lid nadere regels worden gesteld.   
 8.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+
+### Artikel  2a  
+
+1.  In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) bestaat geen aanspraak op een zorgtoeslag indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), van de belanghebbende in het berekeningsjaar meer bedraagt dan € 80 000, dan wel, ingeval de belanghebbende het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001, van de belanghebbende en zijn partner in het berekeningsjaar meer bedraagt dan € 80 000.   
+2.  Bij het begin van het kalenderjaar wordt het bedrag, bedoeld in het eerste lid, bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+3.  Indien er aanleiding is om het bedrag, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het tweede lid, wordt het bedrag vastgesteld bij algemene maatregel van bestuur.   
+4.  Het overeenkomstig het eerste of tweede lid aangepaste bedrag treedt in de plaats van het bedrag, genoemd in het eerste lid.   
+5.  Indien een verhoging als bedoeld in het derde lid wordt toegepast, vindt deze verhoging plaats nadat het tweede lid toepassing heeft gevonden.   
 
 ### Artikel  3  
 

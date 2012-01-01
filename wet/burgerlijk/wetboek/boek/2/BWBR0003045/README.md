@@ -473,7 +473,7 @@ In alle gevallen waarin de vereniging een tegenstrijdig belang heeft met een of 
 3.  De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.   
 4.  Artikel 48 lid 1 is niet van toepassing op de vereniging bedoeld in artikel 360 lid 3. Artikel 48 lid 2 is hierop van toepassing met dien verstande dat onder stukken wordt verstaan de stukken die ingevolge lid 1 worden overgelegd.   
 5.  Een vereniging als bedoeld in artikel 360 lid 3 mag ten laste van de door de wet voorgeschreven reserves een tekort slechts delgen voor zover de wet dat toestaat.   
-6.  Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening.   
+6.  Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. [Afdeling 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op deze verzoeken tot ontheffing.   
 
 ### Artikel  50  
 
@@ -550,7 +550,7 @@ De bepalingen van de vorige titel zijn, met uitzondering van de artikelen 26 lid
 2.  De opgemaakte jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.   
 3.  De rechtspersoon zorgt dat de opgemaakte jaarrekening, het jaarverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot behandeling van de jaarrekening, te zijnen kantore aanwezig zijn. De leden kunnen de stukken aldaar inzien en er kosteloos een afschrift van verkrijgen.   
 4.  Ten laste van de door de wet voorgeschreven reserves mag een tekort slechts worden gedelgd voor zover de wet dat toestaat.   
-5.  Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening.   
+5.  Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. [Afdeling 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op deze verzoeken tot ontheffing.   
 
 ### Artikel  59  
 
@@ -1278,7 +1278,7 @@ Het bestuur en de raad van commissarissen zijn bevoegd tot het bijeenroepen van 
 
 ### Artikel  110  
 
-1.  Een of meer houders van aandelen die gezamenlijk ten minste een tiende gedeelte van het geplaatste kapitaal vertegenwoordigen, of een zoveel geringer bedrag als bij de statuten is bepaald, kunnen door de voorzieningenrechter van de rechtbank op hun verzoek worden gemachtigd tot de bijeenroeping van een algemene vergadering. De voorzieningenrechter wijst dit verzoek af, indien hem niet is gebleken, dat verzoekers voordien aan het bestuur en aan de raad van commissarissen schriftelijk en onder nauwkeurige opgave van de te behandelen onderwerpen het verzoek hebben gericht een algemene vergadering bijeen te roepen, en dat noch het bestuur noch de raad van commissarissen - daartoe in dit geval gelijkelijk bevoegd - de nodige maatregelen hebben getroffen, opdat de algemene vergadering binnen zes weken na het verzoek kon worden gehouden.   
+1.  Een of meer houders van aandelen die gezamenlijk ten minste een tiende gedeelte van het geplaatste kapitaal vertegenwoordigen, of een zoveel geringer bedrag als bij de statuten is bepaald, kunnen door de voorzieningenrechter van de rechtbank op hun verzoek worden gemachtigd tot de bijeenroeping van een algemene vergadering. De voorzieningenrechter wijst dit verzoek af, indien hem niet is gebleken, dat verzoekers voordien aan het bestuur en aan de raad van commissarissen schriftelijk en onder nauwkeurige opgave van de te behandelen onderwerpen het verzoek hebben gericht een algemene vergadering bijeen te roepen, en dat noch het bestuur noch de raad van commissarissen - daartoe in dit geval gelijkelijk bevoegd - de nodige maatregelen hebben getroffen, opdat de algemene vergadering binnen zes weken na het verzoek kon worden gehouden. Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bedraagt deze termijn acht weken.   
 2.  Voor de toepassing van dit artikel worden met houders van aandelen gelijkgesteld de houders van de certificaten van aandelen, welke met medewerking van de vennootschap zijn uitgegeven.   
 3.  Tenzij de statuten anders bepalen, wordt aan de eis van schriftelijkheid van het verzoek als bedoeld in lid 1 voldaan indien dit verzoek elektronisch is vastgelegd.   
 
@@ -1434,7 +1434,7 @@ Wijziging van een bepaling der statuten, waarbij aan een ander dan aan aandeelho
 ### Artikel  124  
 
 1.  Van een wijziging in de statuten wordt, op straffe van nietigheid, een notariële akte opgemaakt. De akte wordt verleden in de Nederlandse taal.   
-2.  Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd. De algemene vergadering kan het bestuur of een of meer andere personen machtigen de veranderingen aan te brengen, die nodig mochten blijken om de bij het volgende artikel bedoelde verklaring te verkrijgen.   
+2.  Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd.   
 3.  Wordt het maatschappelijke kapitaal gewijzigd, dan vermeldt de akte welk deel daarvan is geplaatst.   
 
 ### Artikel  126  
@@ -1843,7 +1843,7 @@ c. op het bij de oprichting geplaatste kapitaal ten minste een vierde van het no
 ### Artikel  183  
 
 1.  Wanneer een naamloze vennootschap zich krachtens artikel 18 omzet in een besloten vennootschap, wordt aan de akte van omzetting een verklaring van een deskundige als bedoeld in artikel 393 gehecht waaruit blijkt dat het eigen vermogen van de vennootschap op een dag binnen vijf maanden voor de omzetting ten minste overeenkwam met het gestorte en opgevraagde deel van het kapitaal volgens de akte van omzetting.   
-2.  Wanneer een andere rechtspersoon zich krachtens artikel 18 omzet in een besloten vennootschap, worden aan de akte van omzetting gehecht: 
+2.  Wanneer een rechtspersoon zich krachtens artikel 18 omzet in een besloten vennootschap, worden aan de akte van omzetting gehecht: 
 
 a. een verklaring van een deskundige als bedoeld in artikel 393, waaruit blijkt dat het eigen vermogen van de rechtspersoon op een dag binnen vijf maanden voor de omzetting ten minste het bedrag beloopt van het gestorte deel van het geplaatste kapitaal volgens de akte van omzetting; bij het eigen vermogen mag de waarde worden geteld van hetgeen na die dag uiterlijk onverwijld na de omzetting op aandelen zal worden gestort;  
 
@@ -2325,7 +2325,7 @@ Wijziging van een bepaling der statuten, waarbij aan een ander dan aan aandeelho
 ### Artikel  234  
 
 1.  Van een wijziging in de statuten wordt, op straffe van nietigheid, een notariële akte opgemaakt. De akte wordt verleden in de Nederlandse taal.   
-2.  Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd. De algemene vergadering kan het bestuur of een of meer andere personen machtigen de veranderingen aan te brengen, die nodig mochten blijken om de bij het volgende artikel bedoelde verklaring te verkrijgen.   
+2.  Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd.   
 3.  Wordt het maatschappelijke kapitaal gewijzigd, dan vermeldt de akte welk deel daarvan is geplaatst.   
 
 ### Artikel  236  
@@ -2764,7 +2764,7 @@ Een stichting die een of meer ondernemingen in stand houdt welke ingevolge de we
 2.  De jaarrekening wordt ondertekend door de bestuurders en door hen die deel uitmaken van het toezicht houdende orgaan; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.   
 3.  De jaarrekening wordt uiterlijk een maand na afloop van de termijn vastgesteld door het daartoe volgens de statuten bevoegde orgaan. Indien de statuten deze bevoegdheid niet aan enig orgaan verlenen, komt deze bevoegdheid toe aan het toezicht houdende orgaan en bij gebreke daarvan aan het bestuur.   
 4.  Een stichting als bedoeld in artikel 360 lid 3 mag ten laste van de door de wet voorgeschreven reserves een tekort slechts delgen voor zover de wet dat toestaat.   
-5.  Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening.   
+5.  Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. [Afdeling 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op deze verzoeken tot ontheffing.   
 
 ### Artikel  300a  
 
@@ -3676,7 +3676,7 @@ e. in de algemene vergadering elk aandeel in verband met het besluit over handel
 
 ### Artikel  360  
 
-1.  Deze titel is van toepassing op de coöperatie, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid. Ongeacht hun rechtsvorm is deze titel op banken als bedoeld in artikel 415 en betaalinstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing.   
+1.  Deze titel is van toepassing op de coöperatie, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid. Ongeacht hun rechtsvorm is deze titel op banken als bedoeld in artikel 415, betaalinstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en elektronischgeldinstellingen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht van toepassing.   
 2.  Deze titel is eveneens van toepassing op een commanditaire vennootschap of een vennootschap onder firma waarvan alle vennoten die volledig jegens schuldeisers aansprakelijk zijn voor de schulden, kapitaalvennootschappen naar buitenlands recht zijn.   
 3.  Deze titel is eveneens van toepassing op de stichting en de vereniging die een of meer ondernemingen in stand houden welke ingevolge de wet in het handelsregister moeten worden ingeschreven, indien de netto-omzet van deze ondernemingen gedurende twee opeenvolgende boekjaren zonder onderbreking nadien gedurende twee opeenvolgende boekjaren, de helft of meer bedraagt van het in artikel 396 lid 1, onder b, bedoelde bedrag, zoals gewijzigd op grond van artikel 398 lid 4. Indien de stichting of vereniging bij of krachtens de wet verplicht is een financiële verantwoording op te stellen die gelijkwaardig is aan een jaarrekening als bedoeld in deze titel en indien deze openbaar wordt gemaakt, blijft de eerste volzin buiten toepassing.   
 
@@ -3881,7 +3881,7 @@ b. de voorziening voor pensioenverplichtingen.
 
 a. obligatieleningen, pandbrieven en andere leningen met afzonderlijke vermelding van de converteerbare leningen;  
 
-b. schulden aan kredietinstellingen;  
+b. schulden aan banken;  
 
 c. ontvangen vooruitbetalingen op bestellingen voor zover niet reeds op actiefposten in mindering gebracht;  
 
@@ -4537,7 +4537,7 @@ e. het bedrag van het eigen vermogen en resultaat van elke krachtens onderdeel e
 
 ### Artikel  415  
 
-In deze afdeling wordt onder bank verstaan: een financiële onderneming met zetel in Nederland die een vergunning heeft voor het uitoefenen van het bedrijf van kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+In deze afdeling wordt onder bank verstaan: een financiële onderneming met zetel in Nederland die een vergunning heeft voor het uitoefenen van het bedrijf van bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
 
 ### Artikel  416  
 
@@ -5064,7 +5064,7 @@ b. de advocaat-generaal bij het gerechtshof te Amsterdam in het openbaar belang.
 3.  Onverminderd de leden 4 tot en met 8 worden andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, niet opgeroepen en kunnen zij geen verweerschrift indienen.   
 4.  Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) en het verzoek niet is gedaan door de Stichting Autoriteit Financiële Markten, wordt deze in de gelegenheid gesteld te worden gehoord over de in het verzoek genoemde onderwerpen en, indien [artikel 194 van het Wetboek van Burgerlijke rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) toepassing heeft gevonden, in de gelegenheid gesteld haar mening over het deskundigenbericht aan de ondernemingskamer kenbaar te maken.   
 5.  De ondernemingskamer beslist niet dan nadat zij de accountant die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.   
-6.  De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar of kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), geen beslissing zonder dat de Nederlandsche Bank N.V. in de gelegenheid is gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.   
+6.  De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar of bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), geen beslissing zonder dat de Nederlandsche Bank N.V. in de gelegenheid is gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.   
 7.  De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.   
 8.  De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.   
 

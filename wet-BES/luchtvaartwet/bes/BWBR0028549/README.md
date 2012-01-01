@@ -94,7 +94,7 @@ Het is verboden op zodanige wijze aan het luchtverkeer deel te nemen dan wel luc
 ### Artikel  8  
 
 1.  Voor zover bij internationale overeenkomst niet anders is bepaald mag het beroepsvervoer met luchtvaartuigen binnen, naar of uit de openbare lichamen Bonaire, Sint Eustatius of Saba, of met een binnen de openbare lichamen Bonaire, Sint Eustatius of Saba gelegen punt als tussenstation, slechts geschieden door luchtvaartmaatschappijen aan wie daartoe bij algemene maatregel van bestuur respectievelijk door de Minister vergunning is verleend.   
-2.  Een luchtvaartmaatschappij als bedoeld in het eerste lid is een rechtspersoon opgericht volgens het [Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), waarvan de hoofdzetel is gevestigd in de openbare lichamen Bonaire, Sint Eustatius of Saba alwaar zij haar voornaamste plaats van bedrijvigheid heeft en waarvan het overwegend deel van het aandelenkapitaal in handen is van ingezetenen van de openbare lichamen Bonaire, Sint Eustatius of Saba van Nederlandse nationaliteit en waarvan de daadwerkelijke zeggenschap in en de leiding van de onderneming berusten bij deze ingezetenen.   
+2.  Een luchtvaartmaatschappij als bedoeld in het eerste lid is een rechtspersoon opgericht volgens het Burgerlijk Wetboek BES, waarvan de hoofdzetel is gevestigd in de openbare lichamen Bonaire, Sint Eustatius of Saba alwaar zij haar voornaamste plaats van bedrijvigheid heeft en waarvan het overwegend deel van het aandelenkapitaal in handen is van ingezetenen van de openbare lichamen Bonaire, Sint Eustatius of Saba van Nederlandse nationaliteit en waarvan de daadwerkelijke zeggenschap in en de leiding van de onderneming berusten bij deze ingezetenen.   
 3.  Een vergunning kan op aanvraag worden verleend voor een termijn van ten hoogste vijf jaar en wordt verleend voor geregeld of ongeregeld vervoer. De vergunning voor geregeld vervoer wordt verleend bij algemene maatregel van bestuur, de vergunning voor ongeregeld vervoer door de Minister.   
 4.  Aanvragen om vergunning worden beoordeeld met inachtneming van de bij of krachtens algemene maatregel van bestuur vastgestelde regels.   
 5.  Aan een vergunning kunnen voorschriften worden verbonden.   
@@ -127,7 +127,7 @@ c. dood of ernstig letsel van derden of schade toegebracht aan derden op het aar
 ### Artikel  11  
 
 1.  Door de Minister kan uitsluitend ten behoeve van het eigen bedrijf of de eigen onderneming vergunning worden verleend voor het niet tegen vergoeding vervoeren van bedrijfswerknemers en bedrijfsgoederen.   
-2.  Een bedrijf als bedoeld in het eerste lid is een rechtspersoon opgericht volgens het [Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), waarvan de hoofdzetel is gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba alwaar zij haar voornaamste plaats van bedrijvigheid heeft en waarvan het overwegend deel van het aandelenkapitaal in handen is van ingezetenen van de openbare lichamen Bonaire, Sint Eustatius en Saba van Nederlandse nationaliteit en waarvan de daadwerkelijke zeggenschap in en de leiding van de onderneming berusten bij deze ingezetenen.   
+2.  Een bedrijf als bedoeld in het eerste lid is een rechtspersoon opgericht volgens het Burgerlijk Wetboek BES, waarvan de hoofdzetel is gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba alwaar zij haar voornaamste plaats van bedrijvigheid heeft en waarvan het overwegend deel van het aandelenkapitaal in handen is van ingezetenen van de openbare lichamen Bonaire, Sint Eustatius en Saba van Nederlandse nationaliteit en waarvan de daadwerkelijke zeggenschap in en de leiding van de onderneming berusten bij deze ingezetenen.   
 3.  Door de Minister kan van het vereiste ten aanzien van de nationaliteit, zoals bepaald in het tweede lid, worden afgeweken.   
 4.  De vergunning wordt verleend telkens voor ten hoogste vijf jaar.   
 5.  Aan een vergunning kunnen voorschriften worden verbonden.   
@@ -162,7 +162,7 @@ c. in strijd wordt gehandeld met de wettelijke bepalingen.
 ### Artikel  13  
 
 1.  Door de Minister kan ten behoeve van het verrichten van luchtwerk vergunning worden verleend.   
-2.  In het geval dat een bedrijf de vergunning, bedoeld in het eerste lid, aanvraagt dient zij een rechtspersoon te zijn, opgericht volgens het [Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), waarvan de hoofdzetel is gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba, alwaar zij haar voornaamste plaats van bedrijvigheid heeft en waarvan een overwegend deel der aandelen in handen is van ingezetenen van de openbare lichamen Bonaire, Sint Eustatius en Saba van Nederlandse nationaliteit en waarvan de daadwerkelijke zeggenschap in en de leiding van de onderneming berusten bij deze ingezetenen.   
+2.  In het geval dat een bedrijf de vergunning, bedoeld in het eerste lid, aanvraagt dient zij een rechtspersoon te zijn, opgericht volgens het Burgerlijk Wetboek BES, waarvan de hoofdzetel is gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba, alwaar zij haar voornaamste plaats van bedrijvigheid heeft en waarvan een overwegend deel der aandelen in handen is van ingezetenen van de openbare lichamen Bonaire, Sint Eustatius en Saba van Nederlandse nationaliteit en waarvan de daadwerkelijke zeggenschap in en de leiding van de onderneming berusten bij deze ingezetenen.   
 3.  In de vergunning wordt aangegeven welke werkzaamheden de houder van de vergunning gerechtigd is als luchtwerk te verrichten en met welk luchtvaartuig of welke luchtvaartuigen dit luchtwerk wordt verricht.   
 4.  De vergunning wordt telkens verleend voor ten hoogste vijf jaar.   
 5.  Aan een vergunning kunnen voorschriften worden verbonden.   
@@ -177,7 +177,7 @@ c. in strijd wordt gehandeld met de wettelijke bepalingen.
 ### Artikel  14  
 
 1.  Door de Minister kan ten behoeve van het verrichten van een bijzondere activiteit in de lucht welke hetzij als een vervoersvlucht hetzij als een niet-vervoersvlucht is aan te merken doch van commerciële aard is, vergunning worden verleend.   
-2.  In het geval dat een bedrijf de vergunning, bedoeld in het eerste lid, aanvraagt dient zij een rechtspersoon te zijn, opgericht volgens het [Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), waarvan de hoofdzetel is gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba, alwaar zij haar voornaamste plaats van bedrijvigheid heeft en waarvan een overwegend deel der aandelen in handen is van ingezetenen van de openbare lichamen Bonaire, Sint Eustatius en Saba van Nederlandse nationaliteit en waarvan de daadwerkelijke zeggenschap in en de leiding van de onderneming berusten bij deze ingezetenen.   
+2.  In het geval dat een bedrijf de vergunning, bedoeld in het eerste lid, aanvraagt dient zij een rechtspersoon te zijn, opgericht volgens het Burgerlijk Wetboek BES, waarvan de hoofdzetel is gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba, alwaar zij haar voornaamste plaats van bedrijvigheid heeft en waarvan een overwegend deel der aandelen in handen is van ingezetenen van de openbare lichamen Bonaire, Sint Eustatius en Saba van Nederlandse nationaliteit en waarvan de daadwerkelijke zeggenschap in en de leiding van de onderneming berusten bij deze ingezetenen.   
 3.  In de vergunning wordt aangegeven welke werkzaamheden de houder van de vergunning gerechtigd is te verrichten en met welk luchtvaartuig of welke luchtvaartuigen deze activiteit wordt verricht.   
 4.  De vergunning wordt telkens verleend voor ten hoogste vijf jaar.   
 5.  Aan een vergunning kunnen voorschriften worden verbonden.   
@@ -299,8 +299,8 @@ a. terzake de luchtverkeerdienstverlening in genoemd gebied, de doeleinden hierv
 b. met betrekking tot de uitvoering van de luchtverkeersdienstverlening;  
 
 c. ter bevordering van de veiligheid en de regelmaat van het luchtverkeer.     
-2.  Het bepaalde bij of krachtens [afdeling 3A van Hoofdstuk IV van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) is met uitzondering van [§ 4](../../../../wet/luchtvaartwet/BWBR0002267/README.md) van overeenkomstige toepassing op de beveiliging van de burgerluchtvaart, met dien verstande dat in de [artikelen 37ab](../../../../wet/luchtvaartwet/BWBR0002267/README.md), [37ae, eerste en tweede lid](../../../../wet/luchtvaartwet/BWBR0002267/README.md), en [37t](../../../../wet/luchtvaartwet/BWBR0002267/README.md) de verwijzing naar ‘een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart’ buiten beschouwing blijft.   
-3.  De luchtvaartmaatschappij draagt zorg voor de controle van vracht op de aanwezigheid van gevaarlijke goederen als bedoeld in [artikel 37a, eerste lid, onderdeel d, van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) en is gehouden te voldoen aan door Onze Minister van Justitie of namens deze door de Commandant van de Koninklijke marechaussee gegeven aanwijzingen ter zake. Onze Minister van Justitie kan nadere regels stellen over de controle van vracht.   
+2.  Het bepaalde bij of krachtens afdeling 3A van Hoofdstuk IV van de Luchtvaartwet is met uitzondering van § 4 van overeenkomstige toepassing op de beveiliging van de burgerluchtvaart, met dien verstande dat in de artikelen 37ab, 37ae, eerste en tweede lid, en 37t de verwijzing naar ‘een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart’ buiten beschouwing blijft. Titel 5.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+3.  De luchtvaartmaatschappij draagt zorg voor de controle van vracht op de aanwezigheid van gevaarlijke goederen als bedoeld in artikel 37a, eerste lid, onderdeel d, van de Luchtvaartwet en is gehouden te voldoen aan door Onze Minister van Justitie of namens deze door de Commandant van de Koninklijke marechaussee gegeven aanwijzingen ter zake. Onze Minister van Justitie kan nadere regels stellen over de controle van vracht.   
 4.  Bij regeling van Onze Minister van Veiligheid en Justitie kan ten aanzien van bepaalde luchthavens vrijstelling worden verleend van een of meer van de beveiligingsmaatregelen die bij of krachtens afdeling 3A van Hoofdstuk IV van de Luchtvaartwet zijn vastgesteld. Indien een vrijstelling is verleend, kan Onze Minister van Veiligheid en Justitie met het oog op een adequate beveiliging aanwijzingen geven over vervangende maatregelen.   
 
 ### Artikel  22a  
@@ -503,7 +503,7 @@ Indien de exploitant van een luchtvaartterrein tarieven en voorwaarden vaststelt
 
 ### Artikel  44  
 
-In bijzondere omstandigheden in geval van ernstige verstoring van de binnenlandse openbare orde of veiligheid is [artikel 9.1 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) van overeenkomstige toepassing op het geven van aanwijzingen met betrekking tot het verzorgen van luchtverkeersdiensten.  
+In bijzondere omstandigheden in geval van ernstige verstoring van de binnenlandse openbare orde of veiligheid is artikel 9.1 van de Wet luchtvaart van overeenkomstige toepassing op het geven van aanwijzingen met betrekking tot het verzorgen van luchtverkeersdiensten.  
 
 ### Artikel  45 t/m 49  
 
@@ -517,24 +517,36 @@ In bijzondere omstandigheden in geval van ernstige verstoring van de binnenlands
 
 ### Artikel  50  
 
-1.  Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de artikelen 2, 3, 8, eerste lid, 9, 11 eerste lid, 12 eerste lid, 13 eerste lid, 14 eerste lid, 22, 25, 26, eerste lid, 28 eerste en tweede lid, 37, 38, 39, 40 of 43, tweede lid, wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.   
-2.  Handelen in strijd met de voorschriften, gesteld bij of krachtens deze landsverordening in de artikelen 2, 3, 8, eerste lid, 9, 11, eerste lid, 12, eerste lid, 13, eerste lid, 14, eerste lid, 22, 25, 26, eerste lid, 28, eerste en tweede lid, 37, 38, 39, 40 of 43, tweede lid, wordt, voor zover niet opzettelijk begaan, gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
+1.  Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de artikelen 2, 3, 8, eerste lid, 9, 11, eerste lid, 12, eerste lid, 13, eerste lid, 14, eerste lid, 16, eerste lid, 22, 25, 26, eerste lid, 28, eerste en tweede lid, 37, 38, 39, 40 of 43, tweede lid, wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.   
+2.  De eigenaar of houder van een luchtvaartuig, die in strijd met een van de artikelen 2, 3, 8, eerste lid, 11, eerste lid, 12, eerste lid, 13, eerste lid, 14, eerste lid, of 16, eerste lid, de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
 3.  Met dezelfde straf wordt gestraft de gezagvoerder, die één van de artikelen 2, 3, 25, onderdelen a en b of 28, eerste en tweede lid, overtreedt.   
 4.  Op overtreding van een voorschrift, gegeven bij of krachtens algemene maatregel van bestuur ingevolge deze wet, wordt bij die algemene maatregel van bestuur geen andere of hogere hoofdstraf gesteld, dan hetzij hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
-5.  De eigenaar of houder van een luchtvaartuig, die in strijd met een van de artikelen 2, 3, 8, eerste lid, 11, eerste lid, 12, eerste lid, 13, eerste lid, 14 eerste lid, de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
+5.  De eigenaar of houder van een luchtvaartuig, die in strijd met een van de artikelen 2, 3, 8, eerste lid, 11, eerste lid, 12, eerste lid, 13, eerste lid, 14 eerste lid, en 16, eerste lid, de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.   
 
 ### Artikel  51  
 
 Overtreding van de artikelen 24 of 53 wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van ten hoogste de zesde categorie, hetzij met beide straffen. Voor zover dat niet opzettelijk is begaan wordt de overtreding gestraft met een gevangenisstraf van vier jaren en een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.  
 
+### Artikel  52  
+
+1.  Bij veroordeling wegens overtreding van de artikelen 8, eerste lid, 11, eerste lid, 12, eerste lid, 13, eerste lid, 14, eerste lid, en 16, eerste lid, kan de schuldige de bevoegdheid om een luchtvaartuig te bedienen voor ten hoogste drie jaren worden ontzegd.   
+2.  Bij toepassing van het bepaalde in het eerste lid verliest een aan de veroordeelde afgegeven bewijs van bevoegdheid of van gelijkstelling zijn geldigheid voor de duur van de ontzegging, zodra de rechterlijke uitspraak, voor wat betreft deze bijkomende straf, voor ten uitvoerlegging vatbaar is geworden.   
+3.  Door de Minister kan, met schriftelijke opgave van redenen aan de betrokkene, een bewijs van bevoegdheid worden ingetrokken, indien de houder daarvan zich heeft schuldig gemaakt aan een strafbaar feit, bij veroordeling wegens hetwelk hem bij rechterlijke uitspraak de bevoegdheid daarvan kan worden ontzegd. De intrekking vervalt, zodra de rechterlijke uitspraak, bedoeld in het tweede lid, voor ten uitvoerlegging vatbaar is geworden.   
+4.  Indien tijdens de overtreding van de in het eerste lid genoemde artikelen nog geen vijf jaren zijn verlopen, sedert een vroegere veroordeling, kan de schuldige van de uitoefening van de bevoegdheid om een luchtvaartuig te bedienen worden ontzet.   
+
+### Artikel  53  
+
+Het is degene, die weet of redelijkerwijze moet vermoeden, dat hem bij rechterlijke uitspraak de bevoegdheid een luchtvaartuig te bedienen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid ontzegd is, een luchtvaartuig te bedienen.  
+
 ### Artikel  57  
 
-De feiten strafbaar gesteld bij de artikelen 50, eerste lid, en artikel 51 zijn misdrijven. De feiten strafbaar gesteld bij de artikel 50, tweede lid zijn overtredingen.  
+1.  De feiten strafbaar gesteld bij artikel 50, tweede en vijfde lid, zijn overtredingen.   
+2.  De feiten strafbaar gesteld bij de artikelen 50, eerste lid, en 51 zijn misdrijven.   
 
 ### Artikel  58  
 
 1.  Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.   
-2.  Het eerste lid is niet van toepassing ten aanzien van de strafbare feiten omschreven in de [artikelen 198](../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [200 van het Wetboek van Strafrecht BES](../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md). De Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod.   
+2.  Het eerste lid is niet van toepassing ten aanzien van de strafbare feiten omschreven in de artikelen 198 en 200 van het Wetboek van Strafrecht BES. De Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod.   
 3.  Degene die opzettelijk de hem ingevolge het eerste lid opgelegde geheimhoudingsplicht schendt, wordt gestraft met gevangenisstraf van ten hoogste twee jaar of een geldboete van ten hoogste de vierde categorie, met of zonder ontzetting van het recht bepaalde ambten te bekleden.   
 4.  Degene aan wiens schuld schending van de geheimhouding te wijten is, wordt gestraft met gevangenisstraf van ten hoogste één jaar of een geldboete van ten hoogste de vierde categorie.   
 6.  Vervolging inzake schending van de geheimhouding wordt slechts ingesteld op klacht van hem, te wiens aanzien de geheimhouding is geschonden.   
@@ -547,12 +559,12 @@ De feiten strafbaar gesteld bij de artikelen 50, eerste lid, en artikel 51 zijn 
 
 ### Artikel  61  
 
-Indien tijdens het plegen van een misdrijf nog geen jaar is verlopen, sedert een vroegere veroordeling wegens een gelijke overtreding onherroepelijk is geworden of indien niet vrijwillig is voldaan aan de voorwaarden door de bevoegde ambtenaar van het Openbaar Ministerie krachtens [artikel 76 van het Wetboek van Strafrecht BES](../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) gesteld, kan de schuldige gestraft worden met een hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie.  
+Indien tijdens het plegen van een misdrijf nog geen jaar is verlopen, sedert een vroegere veroordeling wegens een gelijke overtreding onherroepelijk is geworden of indien niet vrijwillig is voldaan aan de voorwaarden door de bevoegde ambtenaar van het Openbaar Ministerie krachtens artikel 76 van het Wetboek van Strafrecht BES gesteld, kan de schuldige gestraft worden met een hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie.  
 
 ### Artikel  61a  
 
-1.  Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde personen, belast de daartoe bij ministeriële regeling aangewezen ambtenaren en personen.   
-2.  Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in het eerste lid bedoelde ambtenaren en personen toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te laten vergezellen. Voor het betreden van woningen is [artikel 155 van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) onverkort van toepassing.   
+1.  Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde personen, belast de daartoe bij ministeriële regeling aangewezen ambtenaren en personen.   
+2.  Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in het eerste lid bedoelde ambtenaren en personen toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te laten vergezellen. Voor het betreden van woningen is artikel 155 van het Wetboek van Strafvordering BES onverkort van toepassing.   
 3.  Bij algemene maatregel van bestuur, kunnen regels worden gesteld met betrekking tot de vereisten waaraan de krachtens het eerste lid aangewezen ambtenaren en personen dienen te voldoen.   
 
 ### Afdeling  2  
@@ -652,8 +664,8 @@ VIII. De Beschikking werk- en rusttijden luchtvaartpersoneel (P.B. 1995, no. 112
 
 ### Artikel  69  
 
-1.  Op verzoek wordt een bewijs van inschrijving, luchtwaardigheid, bevoegdheid of gelijkstelling, of een ontheffing afgegeven bij of krachtens hoofdstuk II van de Luchtvaartlandsverordening, zoals deze gold voor de inwerkingtreding van de Aanpassingswet BES, en die haar geldigheid niet verloren heeft voor een periode van vijf jaren vanaf de datum van inwerkingtreding van de Aanpassingswet BES gelijkgesteld met een bewijs van inschrijving, luchtwaardigheid, bevoegdheid of gelijksteling, of een ontheffing afgegeven bij of krachtens [hoofdstuk 2](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [3 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
-2.  Op verzoek wordt een vergunning of ontheffing afgegeven bij of krachtens hoofdstuk III, afdeling 2 en afdeling 3, paragraaf 5, van de Luchtvaartlandsverordening, zoals deze gold voor de inwerkingtreding van de Aanpassingswet BES, en die haar geldigheid niet heeft verloren voor een periode van vijf jaren vanaf de datum van inwerkingtreding van de Aanpassingswet BES gelijkgesteld met een vergunning afgegeven bij of krachtens [hoofdstuk 4 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
+1.  Op verzoek wordt een bewijs van inschrijving, luchtwaardigheid, bevoegdheid of gelijkstelling, of een ontheffing afgegeven bij of krachtens hoofdstuk II van de Luchtvaartlandsverordening, zoals deze gold voor de inwerkingtreding van de Aanpassingswet BES, en die haar geldigheid niet verloren heeft voor een periode van vijf jaren vanaf de datum van inwerkingtreding van de Aanpassingswet BES gelijkgesteld met een bewijs van inschrijving, luchtwaardigheid, bevoegdheid of gelijksteling, of een ontheffing afgegeven bij of krachtens hoofdstuk 2 of 3 van de Wet luchtvaart.   
+2.  Op verzoek wordt een vergunning of ontheffing afgegeven bij of krachtens hoofdstuk III, afdeling 2 en afdeling 3, paragraaf 5, van de Luchtvaartlandsverordening, zoals deze gold voor de inwerkingtreding van de Aanpassingswet BES, en die haar geldigheid niet heeft verloren voor een periode van vijf jaren vanaf de datum van inwerkingtreding van de Aanpassingswet BES gelijkgesteld met een vergunning afgegeven bij of krachtens hoofdstuk 4 van de Wet luchtvaart.   
 3.  Andere dan de in het eerste of tweede lid genoemde bij of krachtens de Luchtvaartlandsverordening, zoals deze gold voor de inwerkingtreding van de Aanpassingswet BES, afgegeven beschikkingen die hun geldigheid niet hebben verloren behouden vanaf de inwerkingtreding van de Aanpassingwet BES gedurende 5 jaren hun geldigheid voor zover gedurende die periode aan het bij of krachtens de Luchtvaartlandsverordening, zoals deze gold voor de inwerkingtreding van de Aanpassingswet BES, is voldaan.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de inhoud en de procedure voor de afgifte van een gelijkstelling.   
 

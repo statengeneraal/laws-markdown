@@ -30,6 +30,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *buitenwater:* water van een oppervlaktewaterlichaam waarvan de waterstand direct invloed ondergaat bij hoge stormvloed, bij hoog opperwater van een van de grote rivieren, bij hoog water van het IJsselmeer of het Markermeer, dan wel bij een combinatie daarvan;  
 
+*deltafonds:* fonds, bedoeld in artikel 7.22a;  
+
+*deltaprogramma:* programma, bedoeld in artikel 4.9;  
+
 *dijkring:* stelsel van primaire waterkeringen dat, al dan niet tezamen met hoge gronden, beveiliging biedt tegen overstroming, in het bijzonder door buitenwater;  
 
 *grondwater:* water dat vrij onder het aardoppervlak voorkomt, met de daarin aanwezige stoffen;  
@@ -244,6 +248,47 @@ b. waarschuwingen en verdere inlichtingen worden verschaft aan de beheerders van
 1.  De gemeenteraad en het college van burgemeester en wethouders dragen zorg voor het in het openbaar gemeentelijke gebied treffen van maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, voor zover het treffen van die maatregelen doelmatig is en niet tot de zorg van het waterschap of de provincie behoort.   
 2.  De maatregelen, bedoeld in het eerste lid, omvatten mede de verwerking van het ingezamelde grondwater, waaronder in ieder geval worden begrepen de berging, het transport, de nuttige toepassing en het, al dan niet na zuivering, op of in de bodem of in het oppervlaktewater brengen van ingezameld grondwater, en het afvoeren naar een zuiveringtechnisch werk.   
 
+### §  1a  
+
+####De deltacommissaris
+
+### Artikel  3.6a  
+
+1.  Er is een rechtstreeks onder Onze Minister ressorterende regeringscommissaris voor het deltaprogramma. Deze draagt de titel «deltacommissaris».   
+2.  De deltacommissaris wordt benoemd bij koninklijk besluit, in overeenstemming met het gevoelen van de ministerraad. Hij kan voorts bij koninklijk besluit worden geschorst en ontslagen.   
+3.  De deltacommissaris wordt benoemd voor een periode van ten hoogste zeven jaren en is eenmaal herbenoembaar.   
+4.  Bij ministeriële regeling kunnen nadere regels worden gesteld betreffende: 
+
+a. benoeming, schorsing, tijdelijk niet uitoefenen van zijn functie, ontslag;  
+
+b. aanspraken ingeval van ziekte;  
+
+c. andere aangelegenheden, zijn rechtspositie betreffende, die regeling behoeven.     
+
+### Artikel  3.6b  
+
+De deltacommissaris bevordert de totstandkoming en uitvoering van het deltaprogramma. Daartoe: 
+
+– doet hij jaarlijks een voorstel voor het deltaprogramma en legt dit voor aan Onze Ministers;  
+
+– bevordert hij overleg met betrokken bestuursorganen, bedrijven en maatschappelijke organisaties;  
+
+– bewaakt hij de voortgang van de uitvoering van het deltaprogramma en rapporteert en adviseert daarover aan Onze Ministers.    
+
+### Artikel  3.6c  
+
+De deltacommissaris verkrijgt ten behoeve van de totstandkoming en de uitvoering van het deltaprogramma desgevraagd van Onze Ministers de gegevens die aan hen bij of krachtens de wet dienen te worden verschaft.  
+
+### Artikel  3.6d  
+
+1.  Ter uitvoering van artikel 3.6b voert de deltacommissaris regelmatig overleg met betrokken bestuursorganen van provincies, waterschappen en gemeenten.   
+2.  Aan het overleg kunnen, op uitnodiging, ook andere betrokken bestuursorganen deelnemen.   
+3.  In het overleg worden in ieder geval besproken de voortgang van de uitvoering van het deltaprogramma en voorstellen voor maatregelen en voorzieningen in het kader van het deltaprogramma.   
+
+### Artikel  3.6e  
+
+De deltacommissaris is op het terrein van waterbeheer, natuur, milieu of ruimtelijke kwaliteit niet werkzaam in een andere publiek-bestuurlijke of ambtelijke functie of in de private sector.  
+
 ### §  2  
 
 ####Interbestuurlijke samenwerking
@@ -290,6 +335,11 @@ Waterschappen en gemeenten dragen zorg voor de met het oog op een doelmatig en s
 2.  Een aanwijzing wordt niet gegeven dan nadat het betrokken bestuursorgaan en, indien de aanwijzing is gericht tot het bestuur van een waterschap, gedeputeerde staten van de provincie of provincies waaraan het toezicht op dat waterschap is opgedragen, in de gelegenheid zijn gesteld van hun gevoelen omtrent het voornemen tot het geven van de aanwijzing te doen blijken, tenzij spoedeisende omstandigheden zich daartegen verzetten.   
 3.  Wanneer gedeputeerde staten of het bestuur van een waterschap een krachtens het eerste lid gevorderde beslissing niet of niet naar behoren neemt, is Onze Minister bevoegd daarin namens dat bestuur en ten laste van het desbetreffende openbaar lichaam te voorzien.   
 
+### Artikel  3.14  
+
+1.  Onze Minister ziet toe op een evenwichtige onderlinge verdeling van de kosten omtrent hoogwaterbescherming voor waterschappen.   
+2.  Onze Minister informeert beide Kamers der Staten-Generaal van een voorgenomen wijziging in de verdeling van de kosten, bedoeld in het eerste lid.   
+
 ### Hoofdstuk  4  
 
 ####Plannen
@@ -307,7 +357,9 @@ a. een aanduiding, in het licht van de wettelijke doelstellingen en normen, van 
 
 b. een uiteenzetting van de maatregelen en voorzieningen, die met het oog op die ontwikkeling, werking en bescherming nodig zijn;  
 
-c. een aanduiding van de redelijkerwijze te verwachten financiële en economische gevolgen van het te voeren beleid.     
+c. een aanduiding van de redelijkerwijze te verwachten financiële en economische gevolgen van het te voeren beleid;  
+
+d. een visie op de gewenste ontwikkelingen in verband met de voorkoming en waar nodig beperking van overstromingen en waterschaarste, voor een periode van ten minste veertig jaren mede in verband met de verwachte klimaatveranderingen.     
 3.  In het plan worden voorts opgenomen: 
 
 a. de stroomgebiedbeheerplannen voor de stroomgebieddistricten Rijn, Maas, Schelde en Eems, voor zover die betrekking hebben of mede betrekking hebben op het Nederlandse grondgebied;  
@@ -399,6 +451,36 @@ c. de goedkeuring van een beheerplan betreffende regionale wateren door gedepute
 1.  De in dit hoofdstuk bedoelde plannen worden eenmaal in de zes jaren herzien. Voorts is tussentijdse herziening van de plannen mogelijk.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de termijn waarbinnen de herziening van een plan operationeel moet zijn.   
 
+### Hoofdstuk  4a  
+
+####Deltaprogramma
+
+### Artikel  4.9  
+
+1.  Er is een deltaprogramma.   
+2.  Het deltaprogramma bevat, in verband met de opgaven op het gebied van waterveiligheid en zoetwatervoorziening: 
+
+a. maatregelen en voorzieningen van nationaal belang ter voorkoming en waar nodig beperking van overstromingen en waterschaarste;  
+
+b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen, voor zover deze onderdeel uitmaken van de opgaven.     
+3.  Het deltaprogramma kan tevens ambities op andere beleidsterreinen bevatten, mits deze niet ten koste gaan van de opgaven, bedoeld in het tweede lid.   
+4.  Van het deltaprogramma kunnen tevens deel uitmaken onderzoeken ten behoeve van de in het tweede en derde lid bedoelde maatregelen en voorzieningen.   
+5.  In het deltaprogramma wordt jaarlijks voor de eerstvolgende zes jaren zo gedetailleerd als redelijkerwijs mogelijk is aangegeven welke maatregelen en voorzieningen in die periode zullen worden uitgevoerd en welke middelen beschikbaar worden gesteld voor: 
+
+a. opgaven als bedoeld in het tweede lid, onderdeel a respectievelijk onderdeel b, waarbij onderscheid wordt gemaakt tussen beheer en onderhoud enerzijds en aanleg anderzijds;  
+
+b. ambities als bedoeld in het derde lid, waarbij wordt aangegeven hoe deze ambities worden gefinancierd;  
+
+c. onderzoeken als bedoeld in het vierde lid.   Tevens geeft het indicatief aan welke maatregelen of soorten van maatregelen in de daaropvolgende twaalf jaren worden voorzien en welke middelen daarvoor vermoedelijk beschikbaar zijn bij ongewijzigd beleid.   
+6.  Het deltaprogramma maakt zichtbaar op welke wijze daarmee bijgedragen wordt aan het bereiken van de doelstellingen van het nationale waterplan op het gebied van waterveiligheid en zoetwatervoorziening.   
+7.  In het deltaprogramma wordt aangegeven op welke wijze rekening is gehouden met het voorstel en de adviezen, bedoeld in artikel 3.6b.   
+
+### Artikel  4.10  
+
+1.  Onze Minister biedt jaarlijks, gelijktijdig met de begroting van het deltafonds voor het nieuwe jaar het deltaprogramma aan de Staten-Generaal aan.   
+2.  Onze Minister stelt de Staten-Generaal schriftelijk op de hoogte van de gevolgtrekkingen die hij aan de beraadslagingen in de Staten-Generaal over het deltaprogramma verbindt voor de uitvoering van dat programma.   
+3.  Gevolgtrekkingen als bedoeld in het tweede lid worden aangemerkt als onderdeel van het deltaprogramma.   
+
 ### Hoofdstuk  5  
 
 ####Aanleg en beheer van waterstaatswerken
@@ -426,9 +508,11 @@ De beheerder neemt, met inachtneming van de bij of krachtens hoofdstuk 2 gesteld
 ### Artikel  5.4  
 
 1.  De aanleg of wijziging van een waterstaatswerk door of vanwege de beheerder geschiedt overeenkomstig een daartoe door hem vast te stellen projectplan. Met de aanleg of wijziging van een waterstaatswerk wordt gelijkgesteld de uitvoering van een werk tot beïnvloeding van een grondwaterlichaam.   
-2.  Het plan bevat ten minste een beschrijving van het betrokken werk en de wijze waarop dat zal worden uitgevoerd, alsmede een beschrijving van de te treffen voorzieningen, gericht op het ongedaan maken of beperken van de nadelige gevolgen van de uitvoering van het werk.   
-3.  Indien het plan de verlegging van een primaire waterkering betreft, kan het voorts voorzieningen bevatten met betrekking tot de inpassing in de omgeving van het gebied tussen de plaats waar de oorspronkelijke primaire waterkering is gelegen, en de plaats waar de nieuwe primaire waterkering komt te liggen.   
-4.  Het eerste lid is niet van toepassing, indien ten aanzien van een in dat lid bedoeld werk de [Tracéwet](../../../wet/tracéwet/BWBR0006147/README.md) of de [Spoedwet wegverbreding](../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) van toepassing is, of indien ten aanzien van dat werk toepassing wordt gegeven aan [afdeling 3.5 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
+2.  Het plan bevat ten minste een beschrijving van het betrokken werk en de wijze waarop dat zal worden uitgevoerd, alsmede een beschrijving van de te treffen voorzieningen, gericht op het ongedaan maken of beperken van de nadelige gevolgen van de uitvoering van het werk. Voor in bij algemene maatregel van bestuur te bepalen gevallen bevat het plan een inventarisatie van maatschappelijke functies en ambities en mogelijke innovaties waarmee de aanleg of wijziging van een waterstaatswerk gecombineerd zou kunnen worden, inclusief de mogelijkheden om het desbetreffende werk middels een concessie voor werken of andere vorm van publiek-private samenwerking te realiseren.   
+3.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, kunnen regels worden gesteld over de wijze waarop de inventarisatie wordt uitgevoerd en private partijen daarbij betrokken worden.   
+4.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+5.  Indien het plan de verlegging van een primaire waterkering betreft, kan het voorts voorzieningen bevatten met betrekking tot de inpassing in de omgeving van het gebied tussen de plaats waar de oorspronkelijke primaire waterkering is gelegen, en de plaats waar de nieuwe primaire waterkering komt te liggen.   
+6.  Het eerste lid is niet van toepassing, indien ten aanzien van een in dat lid bedoeld werk de [Tracéwet](../../../wet/tracéwet/BWBR0006147/README.md) of de [Spoedwet wegverbreding](../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) van toepassing is, of indien ten aanzien van dat werk toepassing wordt gegeven aan [afdeling 3.5 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
 
 ### §  2  
 
@@ -494,7 +578,7 @@ De in artikel 5.8, eerste lid, bedoelde besluiten worden, voor zover zij gecoör
 
 ### Artikel  5.14  
 
-1.  Onteigening ingevolge [titel II](../../../wet/onteigeningswet/BWBR0001842/README.md) of [IIa van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) kan mede geschieden ter uitvoering van de in een projectplan opgenomen voorzieningen, bedoeld in artikel 5.4, tweede of derde lid.   
+1.  Onteigening ingevolge [titel II](../../../wet/onteigeningswet/BWBR0001842/README.md) of [IIa van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) kan mede geschieden ter uitvoering van de in een projectplan opgenomen voorzieningen, bedoeld in artikel 5.4, tweede of vijfde lid.   
 2.  De in [artikel 18, eerste lid, van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) bedoelde dagvaarding kan geschieden nadat het projectplan door gedeputeerde staten is goedgekeurd. De rechtbank spreekt de onteigening niet uit dan nadat het projectplan onherroepelijk is geworden.   
 
 ### §  3  
@@ -1075,6 +1159,62 @@ Voor de toepassing van artikel 7.14 wordt onder schade mede verstaan schade in v
 4.  De bevoegdheden, bedoeld in het eerste en derde lid, komen toe aan het waterschap in gevallen waarin kosten als bedoeld in het eerste lid geheel te haren laste komen, alsmede in gevallen waarin de Staat niet van deze bevoegdheid gebruik maakt, voor zover zodanige kosten te haren laste komen.   
 5.  [Artikel 75, vijfde lid, van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) is van overeenkomstige toepassing.   
 
+### §  4a  
+
+####Het deltafonds
+
+### Artikel  7.22a  
+
+1.  Er is een deltafonds.   
+2.  Het deltafonds heeft ten doel de financiering en bekostiging van: 
+
+a. maatregelen en voorzieningen in verband met de opgaven op het gebied van waterveiligheid en zoetwatervoorziening, bedoeld in artikel 4.9, tweede lid;  
+
+b. het inwinnen, bewerken en verspreiden van met onderdeel a samenhangende gegevens en het verrichten van met onderdeel a samenhangende onderzoeken.     
+
+### Artikel  7.22b  
+
+1.  Het deltafonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+2.  Onze Minister beheert het deltafonds.   
+
+### Artikel  7.22c  
+
+1.  De ontvangsten van het deltafonds zijn: 
+
+a. een bijdrage ten laste van de begroting van het ministerie van Verkeer en Waterstaat;  
+
+b. bijdragen ten laste van andere begrotingen van het Rijk;  
+
+c. bijdragen van derden;  
+
+d. andere ontvangsten in het kader van het bereiken van de doelen van het deltafonds.     
+2.  Ten gunste van de begroting van het deltafonds van enig jaar wordt het batige saldo van dat fonds van het voorafgaande jaar gebracht.   
+
+### Artikel  7.22d  
+
+1.  Ten laste van het deltafonds komen in verband met de opgaven, bedoeld in artikel 4.9, tweede lid, de uitgaven ten behoeve van: 
+
+a. aanleg, verbetering, beheer, onderhoud en bediening van waterstaatswerken die bij het Rijk in beheer zijn of zullen zijn, ter voorkoming en waar nodig beperking van overstromingen en waterschaarste;  
+
+b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen, voor zover deze onderdeel uitmaken van de opgaven, bedoeld in artikel 4.9, tweede lid, onderdeel a, en;  
+
+c. het inwinnen, bewerken en verspreiden van met de onderdelen a en b samenhangende gegevens;  
+
+d. met de onderdelen a en b samenhangende onderzoeken.     
+2.  Onze Minister kan in verband met de opgaven, bedoeld in artikel 4.9, tweede lid, uit het deltafonds subsidies vertrekken ten behoeve van: 
+
+a. aanleg, verbetering, beheer, onderhoud en bediening van waterstaatswerken die niet bij het Rijk in beheer zijn of zullen zijn, ter voorkoming en waar nodig beperking van overstromingen en waterschaarste;  
+
+b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen, voor zover deze onderdeel uitmaken van de opgaven, bedoeld in artikel 4.9, tweede lid, onderdeel a;  
+
+c. met de onderdelen a en b samenhangende onderzoeken.     
+3.  Op subsidies die ten laste komen van het deltafonds zijn de [artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat](../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) van toepassing.   
+4.  Subsidies als bedoeld in het tweede lid die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+5.  Ten laste van het deltafonds kunnen eveneens uitgaven worden gebracht ten behoeve van maatregelen en voorzieningen als bedoeld in artikel 7.22a, tweede lid, onderdeel a, alsmede ten behoeve van het inwinnen, verspreiden en bewerken van gegevens en het doen van onderzoek als bedoeld in artikel 7.22a, tweede lid, onderdeel b, met betrekking tot buiten het Nederlandse grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde.   
+6.  Ten laste van het deltafonds komen tevens uitgaven ten behoeve van het bureau ter ondersteuning van de werkzaamheden van de deltacommissaris, de huisvestingskosten van het bureau en verdere aan de taakvervulling van de deltacommissaris verbonden uitgaven.   
+7.  Ten laste van het deltafonds komen voorts andere uitgaven in het kader van het bereiken van de doelen van dat fonds.   
+8.  Ten laste van de begroting van enig jaar wordt het nadelige saldo van het deltafonds van het voorafgaande jaar gebracht.   
+
 ### §  5  
 
 ####Financiering en bekostiging maatregelen primaire waterkeringen
@@ -1083,7 +1223,7 @@ Voor de toepassing van artikel 7.14 wordt onder schade mede verstaan schade in v
 
 1.  Onze Minister verleent op aanvraag een subsidie aan de beheerder die vanwege wijziging van de krachtens artikel 2.2, 2.3 of 2.12, vierde lid, gestelde regels maatregelen dient te treffen, indien de desbetreffende maatregelen zijn opgenomen in een jaarlijks door Onze Minister vast te stellen programma.   
 2.  De subsidie, bedoeld in het eerste lid, wordt verleend voor honderd procent van de kosten van uitvoering.   
-3.  De [Kaderwet subsidies Verkeer en Waterstaat](../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) is van toepassing.   
+3.  De [artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat](../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) zijn van toepassing.   
 
 ### Artikel  7.24  
 

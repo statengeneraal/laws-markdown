@@ -15,7 +15,7 @@ Besluit: Uitvoeringsregeling inkomstenbelasting 2001
 
 ####Reikwijdte en definitie
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 1.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [1.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.10](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.13](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.22](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.27](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.55](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.56](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.57](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.63](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.87](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.104](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.138](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.152](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.154](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17c](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.41](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.51](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.18](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.18a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.26](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.31](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.33](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.4](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10a.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [artikelen 14](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [artikel XXXIII van het Belastingplan 2010](../../../../../wet/belastingplan/2010/BWBR0026958/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 1.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [1.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.10](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.13](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.22](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.27](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.55](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.56](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.57](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.63](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.87](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.104](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.138](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.152](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.154](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17c](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.41](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.51](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.18](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.18a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.26](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.31](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.33](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.9a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.4](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10a.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [artikelen 14](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [artikel XXXIII van het Belastingplan 2010](../../../../../wet/belastingplan/2010/BWBR0026958/README.md).   
 2.  Deze regeling verstaat onder: 
 
 a. wet: [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
@@ -73,7 +73,7 @@ a. de termijnen worden op de ingangsdatum uitgedrukt in een vast aantal beleggin
 b. de hoogte van de uiteindelijk in euro’s uit te keren termijnen dient uitsluitend te worden beïnvloed door het verschil tussen het feitelijk behaalde beleggingsrendement en de rekenrente die ten tijde van het ingaan van de termijnen als rekenrendement is gehanteerd.     
 3.  Met betrekking tot de grondslagen voor het berekenen van de termijnen gelden de volgende regels: 
 
-a. de kredietinstelling of beheerder, bedoeld in [artikel 3.126a, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), gaat ter berekening van het op jaarbasis uit te keren vaste aantal beleggingseenheden uit van ten hoogste het netto rekenrendement dat hij op de ingangsdatum hanteert voor soortgelijke termijnen in euro’s of van het op de ingangsdatum van de termijnen geldende u-rendement zoals dat periodiek wordt gepubliceerd door het Centrum voor Verzekeringstatistiek van het Verbond van Verzekeraars; gedurende de looptijd vindt geen herberekening plaats van het aantal jaarlijks uit te keren beleggingseenheden;  
+a. de bank of beheerder, bedoeld in [artikel 3.126a, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), gaat ter berekening van het op jaarbasis uit te keren vaste aantal beleggingseenheden uit van ten hoogste het netto rekenrendement dat hij op de ingangsdatum hanteert voor soortgelijke termijnen in euro’s of van het op de ingangsdatum van de termijnen geldende u-rendement zoals dat periodiek wordt gepubliceerd door het Centrum voor Verzekeringstatistiek van het Verbond van Verzekeraars; gedurende de looptijd vindt geen herberekening plaats van het aantal jaarlijks uit te keren beleggingseenheden;  
 
 b. in de hoogte van de termijnen in beleggingseenheden wordt geen inflatie-element verdisconteerd.     
 4.  Met betrekking tot de peildatum en de periode van vaststellen van de termijnen in euro’s gelden de volgende regels: 
@@ -90,7 +90,7 @@ b. gedurende een periode van ten hoogste 12 maanden (herrekenperiode) kunnen de 
 
 ####Woonplaatsfictie; keuzerecht voor buitenlandse belastingplichtigen; aanwijzing mogendheid
 
-Voor de toepassing van artikelen 2.2, eerste lid, en 2.5, eerste lid van de wet, worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn, met uitzondering van Zwitserland.  
+Voor de toepassing van [artikelen 2.2, eerste lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [2.5, eerste lid van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.  
 
 ### Artikel  4a  
 
@@ -137,10 +137,23 @@ b. zij niet ten laste van het belastbaar inkomen uit werk en woning kunnen of ko
 
 ####Belastbare winst uit onderneming; overige vrijstellingen; gedeeltelijke vrijstelling van bos en natuur
 
-1.  Als regelingen ten behoeve van de ontwikkeling en instandhouding van bos en natuur en als overeenkomsten die op die regelingen vooruitlopen, als bedoeld in [artikel 3.13, eerste lid, onderdeel g, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: de Tijdelijke regeling particulier natuurbeheer zoals die luidde tot 1 januari 2000, de [Subsidieregeling natuurbeheer 2000](../../../../../ministeriele-regeling/subsidieregeling/natuurbeheer/2000/BWBR0010999/README.md) zoals die luidde tot 1 januari 2007, de Subsidieregeling natuurbeheer van de onderscheiden provincies, de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) zoals die luidde tot 1 januari 2007, voor zover betrekking hebbend op de landschapssubsidie bedoeld in [artikel 2, aanhef en onderdeel b, van die regeling](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md), de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies voor zover betrekking hebbend op de landschapssubsidie bedoeld in artikel 2, eerste lid, aanhef en onderdeel b, van die regeling, respectievelijk de in het tweede lid genoemde overeenkomsten.   
-2.  De in het eerste lid bedoelde overeenkomsten betreffen: 
+1.  Als regelingen ten behoeve van de ontwikkeling en instandhouding van bos en natuur of overeenkomsten die op die regelingen vooruitlopen als bedoeld in [artikel 3.13, eerste lid, onderdeel g, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
 
-a. de overeenkomsten met het Bureau Beheer Landbouwgronden 
+a. de Tijdelijke regeling particulier natuurbeheer zoals die luidde tot 1 januari 2000;  
+
+b. de [Subsidieregeling natuurbeheer 2000](../../../../../ministeriele-regeling/subsidieregeling/natuurbeheer/2000/BWBR0010999/README.md) zoals die luidde tot 1 januari 2007;  
+
+c. de Subsidieregeling natuurbeheer van de onderscheiden provincies;  
+
+d. de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) zoals die luidde tot 1 januari 2007, voor zover betrekking hebbende op de landschapssubsidie, bedoeld in [artikel 2, aanhef en onderdeel b, van die regeling](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md);  
+
+e. de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies, voor zover betrekking hebbende op de landschapssubsidie, bedoeld in artikel 2, eerste lid, aanhef en onderdeel b, van die regeling;  
+
+f. de Subsidieverordening natuur- en landschapsbeheer van de onderscheiden provincies, voor zover betrekking hebbende op de subsidie natuurbeheer, bedoeld in artikel 3.1 van die verordening, en de subsidie landschapsbeheer, bedoeld in artikel 5.1.1.1 van die verordening;  
+
+g. de Subsidieregeling kwaliteitsimpuls natuur en landschap van de onderscheiden provincies, voor zover betrekking hebbende op de investeringssubsidie, bedoeld in artikel 8, eerste, derde en vierde lid, van die regeling, en de subsidie functieverandering, bedoeld in artikel 15 van die regeling;  
+
+h. de overeenkomsten met het Bureau Beheer Landbouwgronden: 
 
 1°. met het door de Dienst Landelijk Gebied toegekende nummer: 005/9001 van 29 mei 1996;  
 
@@ -148,30 +161,28 @@ a. de overeenkomsten met het Bureau Beheer Landbouwgronden
 
 3°. met het door de Dienst Landelijk Gebied toegekende nummer: 004/9001 van 27 oktober 1997;  
 
-4°. met het door de Dienst Landelijk Gebied toegekende nummer: 003/9001 van 15 december 1997;    
+4°. met het door de Dienst Landelijk Gebied toegekende nummer: 003/9001 van 15 december 1997;    
 
-b. de beschikkingen van de Minister van Economische Zaken, Landbouw en Innovatie van 18 april 1998 met de beschikkingnummers kaderwet/pnb/01, kaderwet/pnb/02 en kaderwet/pnb/03.     
-3.  Van de voordelen die worden genoten op grond van de in het eerste lid bedoelde regelingen en overeenkomsten behoort 90% niet tot de winst. In afwijking van de eerste volzin behoort van de voordelen die worden genoten op grond van de [Subsidieregeling natuurbeheer 2000](../../../../../ministeriele-regeling/subsidieregeling/natuurbeheer/2000/BWBR0010999/README.md) zoals die luidde tot 1 januari 2007, de Subsidieregeling natuurbeheer van de onderscheiden provincies, de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) zoals die luidde tot 1 januari 2007, voor zover betrekking hebbend op de landschapssubsidie bedoeld in [artikel 2, aanhef en onderdeel b, van die regeling](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) respectievelijk de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies voor zover betrekking hebbend op de landschapssubsidie bedoeld in [artikel 2, eerste lid, aanhef en onderdeel b, van die regeling](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md), 100% niet tot de winst.   
+i. de beschikkingen van de Minister van Economische Zaken, Landbouw en Innovatie van 18 april 1998 met de beschikkingnummers kaderwet/pnb/01, kaderwet/pnb/02 en kaderwet/pnb/03.     
+2.  Van de voordelen die worden genoten op grond van de in het eerste lid, onderdelen a, h en i, bedoelde regelingen en overeenkomsten behoort 90% niet tot de winst. Van de voordelen die worden genoten op grond van de in het eerste lid, onderdelen b tot en met g, bedoelde regelingen en overeenkomsten behoort 100% niet tot de winst.   
 
 ### Artikel  6a  
 
 ####Belastbare winst uit onderneming; overige vrijstellingen; vrijstelling mobiliteitsprojecten
 
-Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobiliteit als bedoeld in [artikel 3.13, eerste lid, onderdeel i, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
+Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobiliteit of het programma Beter Benutten als bedoeld in [artikel 3.13, eerste lid, onderdeel i, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
 
 a. Spitsmijden A15 als bedoeld in het Uitvoeringsconvenant Spitsmijden A15 (Stcrt. 2009, 14);  
 
 b. Mobiliteitsproject ‘Prijsprikkels door Bedrijven voor de Bereikbaarheid van Haaglanden’ als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject ‘Prijsprikkels door Bedrijven voor de Bereikbaarheid van Haaglanden’ (Stcrt. 2009, 10581);  
 
-c. Betaald Rijden Proef Stadsregio Amsterdam als bedoeld in het Uitvoeringsconvenant mobiliteitsproject Proef Betaald Rijden (Amsterdam) (Stcrt. 2009, 11593);  
+c. Mobiliteitsproject regio Eindhoven-’s-Hertogenbosch als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject regio Eindhoven-’s-Hertogenbosch (Stcrt. 2009, 11790);  
 
-d. Mobiliteitsproject regio Eindhoven-’s-Hertogenbosch als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject regio Eindhoven-’s-Hertogenbosch (Stcrt. 2009, 11790);  
+d. Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug als bedoeld in het Uitvoeringsconvenant Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug (Stcrt. 2009, 18102);  
 
-e. Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug als bedoeld in het Uitvoeringsconvenant Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug (Stcrt. 2009, 18102);  
+e. Mobiliteitproject Beloningsmaatregel Utrecht Oost als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject Beloningsmaatregel Utrecht Oost (Stcrt. 2009, 18120);  
 
-f. Mobiliteitproject Beloningsmaatregel Utrecht Oost als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject Beloningsmaatregel Utrecht Oost (Stcrt. 2009, 18120);  
-
-g. Mobiliteitsproject Beloningsmaatregel A2 Utrecht Bereikbaar als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject Beloningsmaatregel A2 Utrecht Bereikbaar (Stcrt. 2010, 1447).    
+f. Mobiliteitsproject Spitsmijden A12-corridor.    
 
 ### Artikel  7  
 
@@ -197,6 +208,12 @@ a. merk, type en kenteken van de auto;
 b. periode van terbeschikkingstelling van de auto;  
 
 c. per rit: 10. datum; 20. beginstand en eindstand van de kilometerteller; 30. beginadres en eindadres; 40. de gereden route indien deze afwijkt van de meest gebruikelijke; 50. het karakter van de rit.    
+
+### Artikel  9a  
+
+####Constatering van het niet afgenomen zijn van het aandeel van de netto-tonnage van bepaalde schepen
+
+Met betrekking tot het kalenderjaar 2012 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2008 tot en met 2010 ten opzichte van de periode 2007 tot en met 2009 niet is afgenomen.  
 
 ### Artikel  10  
 
@@ -283,6 +300,7 @@ i. uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling verstrekkinge
 
 j. uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling voortzetting verstrekkingen gerepatrieerden Libanon](../../../../../ministeriele-regeling/tijdelijke/regeling/voortzetting/verstrekkingen/gerepatrieerden/libanon/BWBR0020553/README.md).     
 2.  Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in [artikel 3.104, onderdeel i, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden aangewezen: uitkeringen ingevolge de [Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000](../../../../../ministeriele-regeling/regeling/tegemoetkoming/ouders/van/thuiswonende/gehandicapte/kinderen/BWBR0010997/README.md).   
+3.  Als voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit als bedoeld in [artikel 3.104, onderdeel o, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: voorzieningen in de zin van de [Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers](../../../../../ministeriele-regeling/voorzieningenregeling/voor/militaire/oorlogs-/en/dienstslachtoffers/BWBR0008406/README.md).   
 
 ### Artikel  17bis  
 
@@ -329,7 +347,7 @@ Bij het in [artikel 3.154, eerste lid, van de wet](../../../../../wet/wet/inkoms
 
 ####Aanmerkelijk belang; soortbenadering; aandelen verkregen in het kader van een premiespaarregeling of spaarloonregeling
 
-Ten aanzien van de belastingplichtige die geen andere aandelen in een vennootschap houdt dan die welke hij heeft verkregen in het kader van een spaarloonregeling als bedoeld in [artikel 32 van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), worden die aandelen voor de toepassing van [artikel 4.7 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) aangemerkt als aandelen van dezelfde soort als die waarin het grootste gedeelte van het geplaatste kapitaal van de vennootschap is uitgedrukt.  
+Ten aanzien van de belastingplichtige die geen andere aandelen in een vennootschap houdt dan die welke hij heeft verkregen in het kader van een spaarloonregeling als bedoeld in [artikel 32 van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) zoals dat artikel luidde op 31 december 2011, worden die aandelen voor de toepassing van [artikel 4.7 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) aangemerkt als aandelen van dezelfde soort als die waarin het grootste gedeelte van het geplaatste kapitaal van de vennootschap is uitgedrukt.  
 
 ### Artikel  26  
 
@@ -580,18 +598,18 @@ b. de in [artikel 5a van het Samenloopbesluit kinderbijslag](../../../../../AMvB
 
 1.  De in [artikel 6.15 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde uitgaven voor levensonderhoud van een kind worden, indien de kosten van dat onderhoud in belangrijke mate op de belastingplichtige drukken, in aanmerking genomen tot een bedrag van: 
 
-a. € 290 per kalenderkwartaal indien het kind jonger dan 6 jaar is;  
+a. € 295 per kalenderkwartaal indien het kind jonger dan 6 jaar is;  
 
-b. € 350 per kalenderkwartaal indien het kind 6 jaar of ouder doch jonger dan 12 jaar is;  
+b. € 355 per kalenderkwartaal indien het kind 6 jaar of ouder doch jonger dan 12 jaar is;  
 
-c. € 410 per kalenderkwartaal indien het kind 12 jaar of ouder doch jonger dan 18 jaar is;  
+c. € 415 per kalenderkwartaal indien het kind 12 jaar of ouder doch jonger dan 18 jaar is;  
 
-d. € 350 per kalenderkwartaal indien het kind 18 jaar of ouder is.     
+d. € 355 per kalenderkwartaal indien het kind 18 jaar of ouder is.     
 2.  Het in het eerste lid, onderdeel d, vermelde bedrag wordt verhoogd tot: 
 
-a. € 700, indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 700 per kwartaal belopen en de kosten van het onderhoud van het kind tevens grotendeels op de belastingplichtige drukken;  
+a. € 710, indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 710 per kwartaal belopen en de kosten van het onderhoud van het kind tevens grotendeels op de belastingplichtige drukken;  
 
-b. € 1050, indien het kind niet tot het huishouden van de belastingplichtige behoort, de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 1050 per kwartaal belopen en de kosten van het onderhoud van het kind tevens geheel of nagenoeg geheel op de belastingplichtige drukken.     
+b. € 1065, indien het kind niet tot het huishouden van de belastingplichtige behoort, de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 1065 per kwartaal belopen en de kosten van het onderhoud van het kind tevens geheel of nagenoeg geheel op de belastingplichtige drukken.     
 3.  Indien zowel de belastingplichtige als zijn partner uitgaven voor levensonderhoud van kinderen in aanmerking nemen, worden de in aanmerking te nemen bedragen gesteld op de helft van de bedragen vermeld in het eerste en tweede lid, zonodig naar boven af te ronden op een geheel getal.   
 4.  Voor de toepassing van de vorige leden is beslissend de toestand bij het begin van het kalenderkwartaal.   
 
@@ -601,52 +619,54 @@ b. € 1050, indien het kind niet tot het huishouden van de belastingplichtige 
 
 1.  De extra kosten van een op voorschrift van een arts of een diëtist gehouden dieet als bedoeld in [artikel 6.17, eerste lid, onderdeel f, en zevende lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden bepaald aan de hand van de navolgende tabel:  
 
-| Voor het dieet bij het ziektebeeld en de aandoening  |--- | op welk dieet de in deze kolom genoemde typering van toepassing is  | bedragen de extra uitgaven  |
-|:---|:---|:---|:---|
-| Algemene symptomen  | groeiachterstand bij kinderen  | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
-| --- | --- | energieverrijkt  | € 650  |
-| --- | ondervoeding  | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
-| --- | --- | energieverrijkt  | € 650  |
-| --- | decubitus  | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
+| Voor het dieet bij het ziektebeeld en de aandoening  | op welk dieet de in deze kolom genoemde typering van toepassing is  | bedragen de extra uitgaven  |
+|:---|:---|:---|
+| Algemene symptomen  | groeiachterstand bij kinderen  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| energieverrijkt  | € 600  |
+| ondervoeding  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| energieverrijkt  | € 600  |
+| decubitus  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
 | Hartziekten  | decompensatio cordis, hartfalen  | natriumbeperkt  | € 100  |
-| Infectieziekten  | aids  | energieverrijkt in combinatie met eitwitverrijkt  | € 950  |
-| Luchtwegen  | chronische obstructieve longziekten (COPD)  | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
-| --- | --- | energieverrijkt  | € 650  |
-| Maag-, darm- en leverziekten  | dumping syndroom  | lactosebeperkt/lactosevrij  | € 150  |
-| --- | chronische pancreatitis  | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
-| --- | cystic fibrosis  | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
-| --- | --- | energieverrijkt  | € 650  |
-| --- | coeliakie en ziekte van Dühring  | glutenvrij  | € 1350  |
-| --- | --- | glutenvrij in combinatie met lactosebeperkt/lactosevrij  | € 1450  |
-| --- | overige  | energieverrijkt (met en zonder vitaminepreparaat)  | € 650  |
-| --- | --- | energieverrijkt in combinatie met  MCT-vetverrijkt (met en zonder vitaminepreparaat)  | € 1350  |
-| --- | --- | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
-| --- | --- | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij  | € 1150  |
+| Infectieziekten  | aids  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| Luchtwegen  | chronische obstructieve longziekten (COPD)  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| energieverrijkt  | € 600  |
+| Maag-, darm- en leverziekten  | dumping syndroom  | lactosebeperkt/lactosevrij  | € 100  |
+| chronische pancreatitis  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| cystic fibrosis  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| energieverrijkt  | € 600  |
+| coeliakie en ziekte van Dühring  | glutenvrij  | € 1300  |
+| glutenvrij in combinatie met lactosebeperkt/lactosevrij  | € 1400  |
+| overige  | energieverrijkt met vitaminepreparaat  | € 650  |
+| energieverrijkt  | € 600  |
+| energieverrijkt in combinatie met MCT-vetverrijkt (met en zonder vitaminepreparaat)  | € 1350  |
+| energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij  | € 1000  |
 | Metabole ziekten  | hypercholesterolemie  | verzadigd vetbeperkt in combinatie met fyto/plantensterolenverrijkt  | € 100  |
-| --- | vetstofwisselingsstoornis  | vetbeperkt in combinatie met  MCT-vetverrijkt  | € 800  |
-| --- | galactosemie  | galactosevrij  | € 100  |
-| --- | sacharase isomaltase deficiëntie  | sterk sacharosebeperkt in combinatie  met (iso)maltosebeperkt  | € 3700  |
-| --- | eiwitstofwisselings-  stoornis (zoals PKU en hyperlysinemie )  | sterk eiwitbeperkt  | € 2600  |
+| vetstofwisselingsstoornis  | vetbeperkt in combinatie met MCT-vetverrijkt  | € 850  |
+| fructose-intolerantie  | fructosebeperkt  | € 50  |
+| galactosemie  | galactosevrij  | € 50  |
+| sacharase isomaltase deficiëntie  | sterk sacharosebeperkt in combinatie met (iso)maltosebeperkt  | € 3550  |
+| eiwitstofwisselingsstoornis (zoals PKU en hyperlysinemie)  | sterk eiwitbeperkt  | € 2700  |
 | Nierziekten  | nierziekten  | natriumbeperkt  | € 100  |
-| --- | chronische nier-  insufficiëntie met hemodialyse  | eiwitverrijkt in combinatie met natriumbeperkt  | € 250  |
-| --- | nefrotisch syndroom  | natriumbeperkt  | € 100  |
-| Oncologie  | oncologie  | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
-| --- | --- | energieverrijkt  | € 650  |
-| Overige  | voedselovergevoelig  heid  | koemelkeiwitvrij  | € 150  |
-| --- | --- | soja-eiwitvrij  | € 50  |
-| --- | --- | kippenei-eiwitvrij  | € 50  |
-| --- | --- | lactosebeperkt/lactosevrij  | € 150  |
-| --- | --- | tarwevrij  | € 950  |
-| --- | --- | tarwevrij in combinatie met kippenei-eitwitvrij  | € 1050  |
-| --- | --- | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij  | € 150  |
-| --- | --- | koemelkeiwitvrij in combinatie met soja-eiwitvrij  | € 300  |
-| --- | --- | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij  | € 300  |
-| --- | --- | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij  | € 1200  |
-| --- | --- | koemelkeiwitvrij in combinatie met glutenvrij  | € 1400  |
-| --- | --- | koemelkeiwitvrij in combinatie met glutenvrij en tarwevrij  | € 1400  |
-| --- | brandwonden  | energieverrijkt in combinatie met eiwitverrijkt  | € 950  |
-| --- | lymfe lekkage  | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt  | € 1100  |
-| --- | epilepsie  | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt  | € 550  |
+| chronische nierinsufficiëntie met hemodialyse/peritoneale dialyse  | eiwitverrijkt in combinatie met natriumbeperkt  | € 250  |
+| nefrotisch syndroom  | natriumbeperkt  | € 100  |
+| Oncologie  | oncologie  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| energieverrijkt  | € 600  |
+| Overige  | voedselovergevoeligheid  | koemelkeiwitvrij  | € 100  |
+| soja-eiwitvrij  | € 50  |
+| kippenei-eiwitvrij  | € 50  |
+| lactosebeperkt/lactosevrij  | € 100  |
+| tarwevrij  | € 900  |
+| tarwevrij in combinatie met kippenei-eiwitvrij  | € 1000  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij  | € 150  |
+| koemelkeiwitvrij in combinatie met soja-eiwitvrij  | € 300  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij  | € 350  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij  | € 1150  |
+| koemelkeiwitvrij in combinatie met glutenvrij  | € 1300  |
+| koemelkeiwitvrij in combinatie met glutenvrij en tarwevrij  | € 1300  |
+| brandwonden  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
+| lymfe lekkage  | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt  | € 1100  |
+| Epilepsie  | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt  | € 600  |
 
 Voor overige diëten worden de extra kosten gesteld op nihil.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder: 
@@ -659,25 +679,27 @@ c. *energieverrijkt:* een voorgeschreven energiebehoefte van ten minste 125% ten
 
 d. *natriumbeperkt:* een voorgeschreven beperking tot 2000 milligram natrium per etmaal;  
 
-e. *lactosebeperkt:* een voorgeschreven lactosebeperking tot 5 gram per etmaal;  
+e. *lactosebeperkt/lactosevrij:* een voorgeschreven lactosebeperking tot 5 gram per etmaal;  
 
-f. *glutenvrij in combinatie met lactosebeperkt:* glutenvrij en een voorgeschreven lactosebeperking tot 5 gram per etmaal;  
+f. *glutenvrij in combinatie met lactosebeperkt/lactosevrij:* glutenvrij en een voorgeschreven lactosebeperking tot 5 gram per etmaal;  
 
 g. *energieverrijkt in combinatie met MCT-vetverrijkt:* een voorgeschreven energiebehoefte van ten minste 125% ten opzichte van de referentievoeding en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;  
 
-h. *energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt:* een voorgeschreven energiebehoefte van ten minste 125% ten opzichte van de referentievoeding, een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie en een voorgeschreven lactosebeperking tot 5 gram per etmaal;  
+h. *energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij:* een voorgeschreven energiebehoefte van ten minste 125% ten opzichte van de referentievoeding, een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie en een voorgeschreven lactosebeperking tot 5 gram per etmaal;  
 
 i. *verzadigd vetbeperkt in combinatie met fyto/plantensterolenverrijkt:* een voorgeschreven hoeveelheid verzadigd vet die voorziet in niet meer dan 10% van de hoeveelheid energie en een voorgeschreven hoeveelheid plantaardige stanolen of van plantaardige sterolen van ten minste 2 gram per etmaal;  
 
 j. *vetbeperkt in combinatie met MCT-vetverrijkt:* een voorgeschreven hoeveelheid vet die voorziet in niet meer dan 15% van de hoeveelheid energie en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;  
 
-k. *sterk eiwitbeperkt:* een voorgeschreven beperking tot 10 gram eiwit per etmaal;  
+k. *fructosebeperkt:* een voorgeschreven fructosebeperking tot 2 gram per etmaal;  
 
-l. *eiwitverrijkt in combinatie met natriumbeperkt:* een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie en een voorgeschreven beperking tot 2000 milligram natrium per etmaal;  
+l. *sterk eiwitbeperkt:* een voorgeschreven beperking tot 10 gram eiwit per etmaal;  
 
-m. *eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt:* een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie, een voorgeschreven hoeveelheid vet die voorziet in niet meer dan 10% van de hoeveelheid energie en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;  
+m. *eiwitverrijkt in combinatie met natriumbeperkt:* een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie en een voorgeschreven beperking tot 2000 milligram natrium per etmaal;  
 
-n. *sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt:* een voorgeschreven hoeveelheid eiwit die voorziet in niet meer dan 10% van de hoeveelheid energie, een voorgeschreven hoeveelheid koolhydraten die voorziet in niet meer dan 20% van de hoeveelheid energie, een voorgeschreven hoeveelheid vet van ten minste 70% van de hoeveelheid energie ten opzichte van de referentievoeding waarvan een voorgeschreven hoeveelheid MCT-vet van 25% van de hoeveelheid energie.     
+n. *eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt:* een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie, een voorgeschreven hoeveelheid vet die voorziet in niet meer dan 10% van de hoeveelheid energie en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;  
+
+o. *sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt:* een voorgeschreven hoeveelheid eiwit die voorziet in niet meer dan 10% van de hoeveelheid energie, een voorgeschreven hoeveelheid koolhydraten die voorziet in niet meer dan 20% van de hoeveelheid energie, een voorgeschreven hoeveelheid vet van ten minste 70% van de hoeveelheid energie ten opzichte van de referentievoeding waarvan een voorgeschreven hoeveelheid MCT-vet van 25% van de hoeveelheid energie.     
 3.  Voor de toepassing van het eerste lid geldt voor: 
 
 a. eenzelfde dieettypering die meerdere keren in aanmerking zou komen éénmaal het bedrag behorende bij die dieettypering;  
@@ -702,12 +724,49 @@ e. de dagtekening van het voorschrift, de ingangsdatum van het te volgen dieet e
 
 ####Uitgaven voor specifieke zorgkosten; extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven
 
-1.  Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel g, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden in aanmerking genomen voor een bedrag van € 300 dan wel, indien blijkt dat die uitgaven € 600 te boven gaan, voor een bedrag van € 750, indien: 
+1.  Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel g, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden in aanmerking genomen voor een bedrag van € 310 dan wel, indien blijkt dat die uitgaven € 620 te boven gaan, voor een bedrag van € 775, indien: 
 
 a. de genoemde uitgaven voortvloeien uit ziekte of invaliditeit van een persoon als bedoeld in [artikel 6.16 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) die tot het huishouden van de belastingplichtige behoort; en  
 
 b. de ziekte of invaliditeit ten minste een jaar heeft geduurd of vermoedelijk zal duren.     
 2.  Ingeval aan de in het eerste lid gestelde voorwaarden niet gedurende het gehele kalenderjaar is voldaan, wordt dat lid naar tijdsgelang toegepast.   
+
+### Artikel  39  
+
+####Uitgaven voor specifieke zorgkosten; paramedici met directe toegang
+
+1.  Als paramedicus als bedoeld in [artikel 6.17, negende lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangewezen de persoon die bevoegd is tot het voeren van de titel: 
+
+a. fysiotherapeut;  
+
+b. diëtist;  
+
+c. ergotherapeut;  
+
+d. logopedist;  
+
+e. oefentherapeut;  
+
+f. orthoptist;  
+
+g. podotherapeut;  
+
+h. mondhygiënist; of  
+
+i. huidtherapeut.     
+2.  Een verklaring als bedoeld in [artikel 6.17, negende lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bevat ten minste: 
+
+a. gegevens waaruit blijkt dat degene die de verklaring afgeeft een paramedicus als bedoeld in het eerste lid is;  
+
+b. naam, praktijkadres, telefoonnummer en handtekening van de paramedicus die de verklaring afgeeft;  
+
+c. naam, adres en burgerservicenummer van de persoon die onder behandeling is van de paramedicus;  
+
+d. de aandoening van de persoon, bedoeld in onderdeel c, die aanleiding is voor de behandeling;  
+
+e. het aantal behandelingen dat voortvloeit uit ziekte of invaliditeit;  
+
+f. de dagtekening van de verklaring.     
 
 ### Artikel  40  
 
@@ -725,14 +784,6 @@ b. € 0,19 per kilometer voor het vervoer per auto van de gehandicapte door de
 ####Scholingsuitgaven; afgifte EVC-verklaringen
 
 De verklaring, bedoeld in [artikel 6.27, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt afgegeven door de Minister van Onderwijs, Cultuur en Wetenschap.  
-
-### Artikel  41  
-
-####Afschrijving monumentenpand
-
-1.  De afschrijving op een eigen monumentenwoning wordt gesteld op 15 percent van het bruto eigenwoningforfait.   
-2.  Het bruto eigenwoningforfait wordt berekend door de som van het voor de monumentenwoning geldende forfaitpercentage, bedoeld in [artikel 3.112, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en het in [artikel 6.31, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermelde percentage, te vermenigvuldigen met de eigenwoningwaarde van de monumentenwoning, met dien verstande dat hierbij als eigenwoningwaarde van de monumentenwoning ten hoogste € 1 000 000 in aanmerking wordt genomen.   
-3.  In afwijking van het eerste lid wordt voor monumentenwoningen waarvan het bruto eigenwoningforfait in aanmerkelijke mate de invloed ondergaat van ongebouwde en gebouwde aanhorigheden de afschrijving beperkt tot 15 percent van het aan het monumentale gedeelte van de monumentenwoning toe te rekenen deel van het bruto eigenwoningforfait.   
 
 ### Artikel  41a  
 
@@ -826,7 +877,7 @@ Als mogendheid als bedoeld in [artikel 6.33, eerste lid, onderdeel b en onderdee
 
 ####Bijzondere verhoging heffingskorting voor niet inwoners; aanwijzing mogendheid
 
-Voor de toepassing van [artikel 8.9a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn, met uitzondering van Zwitserland.  
+Voor de toepassing van [artikel 8.9a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.  
 
 ### Artikel  44b  
 

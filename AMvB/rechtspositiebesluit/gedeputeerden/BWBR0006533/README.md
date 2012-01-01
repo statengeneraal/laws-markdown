@@ -123,7 +123,7 @@ Indien aan de gedeputeerde een dienstauto ter beschikking is gesteld en hij voor
 
 ### Artikel  21  
 
-1.  Provinciale staten kunnen bij verordening bepalen dat aan een gedeputeerde een onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten wordt toegekend die ten hoogste € 319,89 per maand bedraagt.   
+1.  Provinciale staten kunnen bij verordening bepalen dat aan een gedeputeerde een onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten wordt toegekend die ten hoogste € 328,53 per maand bedraagt.   
 2.  Het bedrag, bedoeld in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande kalenderjaar.   
 
 ### Artikel  22  

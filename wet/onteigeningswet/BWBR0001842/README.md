@@ -568,7 +568,7 @@ Bij het koninklijk besluit worden de te onteigenen onroerende zaken en rechten a
 
 ### Artikel  72a  
 
-1.  Onteigening van wegen, bruggen, bermen, bermslooten en kanalen, alsmede daarop rustende zakelijke rechten als in artikel 4 bedoeld, en onteigening voor aanleg en verbetering van wegen, bruggen, spoorwegwerken, kanalen, – waaronder begrepen onteigening voor aanleg en verbetering van werken ter uitvoering van een tracébesluit als bedoeld in [artikel 15, eerste lid, van de Tracéwet](../../../wet/tracéwet/BWBR0006147/README.md) – havenwerken, werken ten behoeve van de bestrijding van de verontreiniging van oppervlaktewateren en terreinen en werken ten behoeve van verbetering of verruiming van rivieren kan geschieden uit kracht van een door Ons, den Raad van State gehoord, genomen besluit.   
+1.  Onteigening van wegen, bruggen, bermen, bermslooten en kanalen, alsmede daarop rustende zakelijke rechten als in artikel 4 bedoeld, en onteigening voor aanleg en verbetering van wegen, bruggen, spoorwegwerken, kanalen, – waaronder begrepen onteigening voor aanleg en verbetering van werken ter uitvoering van een tracébesluit als bedoeld in [artikel 9, eerste lid, van de Tracéwet](../../../wet/tracéwet/BWBR0006147/README.md) – havenwerken, werken ten behoeve van de bestrijding van de verontreiniging van oppervlaktewateren en terreinen en werken ten behoeve van verbetering of verruiming van rivieren kan geschieden uit kracht van een door Ons, den Raad van State gehoord, genomen besluit.   
 2.  Onder de onteigening, bedoeld in het eerste lid, wordt mede begrepen de onteigening voor de aanleg en verbetering van de in dat lid bedoelde werken en rechtstreeks daaruit voortvloeiende bijkomende voorzieningen ter uitvoering van: 
 
 a. een bestemmingsplan als bedoeld in [artikel 3.1, eerste lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
@@ -643,11 +643,13 @@ Wanneer hij, in wiens naam de onteigening gelast is, den eigendom van de zaak ni
 
 ### Artikel  76a bis  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Wanneer ogenblikkelijke inbezitneming volstrekt noodzakelijk geacht wordt, kan deze op last van de hoogste militaire autoriteit, ter plaatse aanwezig, geschieden onder zo spoedig mogelijke afgifte van een schriftelijk bewijsstuk van de inbezitneming.   
 2.  Op de in het eerste lid bedoelde inbezitneming is het bepaalde in artikel 73, ten aanzien van de eigendomsovergang en de overschrijving in de openbare registers, van overeenkomstige toepassing.   
 
 ### Artikel  76a ter  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Door of op last van de burgemeesters kunnen, na bijzondere of algemene machtiging van Onze Minister van Landbouw, Natuur en Voedselkwaliteit onderscheidenlijk Onze Minister van Economische Zaken, levensmiddelen, grondstoffen van levensmiddelen onderscheidenlijk huishoudelijke artikelen en brandstoffen onmiddellijk in bezit worden genomen onder zo spoedig mogelijke afgifte van een schriftelijk bewijsstuk van de inbezitneming.   
 2.  De op grond van het eerste lid in bezit genomen waren worden onverwijld, op door de burgemeester te bepalen wijze, ter beschikking gesteld ten behoeve van de bevolking van de gemeente of van aldaar bestaande bedrijven, tegen prijzen, die niet te boven gaan de daarvoor door Onze voornoemde Minister bepaalde bedragen.   
 3.  De schadeloosstelling, voor de in bezit genomen waren door de gemeente te bepalen, wordt door twee schatters, elk afzonderlijk, geschat, en een bon voor het gemiddelde van die twee schattingen wordt aan de vroegere houder van de waren gegeven.   
@@ -657,10 +659,11 @@ Wanneer hij, in wiens naam de onteigening gelast is, den eigendom van de zaak ni
 
 ### Artikel  76b  
 
-Indien degene, onder wien de burgemeester in het vorig artikel genoemde waren in bezit wil nemen, onmiddellijk ten genoegen van den burgemeester aanbiedt zelf op door dezen goedgekeurde wijze die waren ter beschikking te stellen tegen prijzen, die niet te boven gaan de daarvoor door Onzen voornoemden Minister bepaalde bedragen, kan de burgemeester de inbezitneming opschorten.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Indien degene, onder wien de burgemeester in het vorig artikel genoemde waren in bezit wil nemen, onmiddellijk ten genoegen van den burgemeester aanbiedt zelf op door dezen goedgekeurde wijze die waren ter beschikking te stellen tegen prijzen, die niet te boven gaan de daarvoor door Onzen voornoemden Minister bepaalde bedragen, kan de burgemeester de inbezitneming opschorten.  
 
 ### Artikel  76c  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze voornoemde Minister kan bepalen, dat de burgemeester bepaalde soorten of hoeveelheden van genoemde waren in bezit zal nemen, alsmede dat van in bezit genomen waren gedeelten ter beschikking worden gesteld van den burgemeester eener andere gemeente tegen den prijs en op de wijze, door dien Minister te bepalen.   
 2.  Voldoet de burgemeester niet onmiddellijk hieraan, dan geschiedt de inbezitneming en de terbeschikkingstelling van burgemeesters van andere gemeenten door dien Minister.   
 3.  Alsdan wordt de schadeloosstelling bepaald op de wijze, bij artikel 76a ter geregeld, met dien verstande, dat de benoeming der schatters dan steeds geschiedt door dien Minister.   
@@ -668,16 +671,18 @@ Indien degene, onder wien de burgemeester in het vorig artikel genoemde waren in
 
 ### Artikel  76e  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  De burgemeester zoomede de door hem aan te wijzen ambtenaren zijn te allen tijde bevoegd de uitlevering te vorderen van de in bezit te nemen waren. Zij, alsmede de hen op hun last vergezellende personen hebben te allen tijde vrijen toegang tot alle plaatsen, waar redelijkerwijs vermoed kan worden, dat zich de waren bevinden. Wordt hun de toegang geweigerd, dan verschaffen zij zich dien desnoods met inroeping van den sterken arm.   
 2.  Is de plaats tevens eene woning of alleen door eene woning toegankelijk, dan treden zij deze tegen den wil des bewoners niet binnen dan op bijzonderen of algemeenen schriftelijken last van den burgemeester.   
 3.  Van dit binnentreden wordt door hen procesverbaal opgemaakt.   
 
 ### Artikel  76f  
 
-In geval, op grond van [artikel 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), bepalingen uit de [Oorlogswet voor Nederland](../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, geschieden de machtigingen, bedoeld in artikel 76a ter, eerste lid, niet dan na overleg met het militair gezag.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  In geval, op grond van [artikel 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), bepalingen uit de [Oorlogswet voor Nederland](../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, geschieden de machtigingen, bedoeld in artikel 76a ter, eerste lid, niet dan na overleg met het militair gezag.  
 
 ### Artikel  76fbis  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Door of op last van de burgemeesters kunnen, na algemene of bijzondere machtiging van Onze Minister van Binnenlandse Zaken, in de gemeente aanwezige verbruiksartikelen, bestemd voor bescherming en ontsmetting in het belang van de bestrijding van rampen en zware ongevallen, van de beperking van de onmiddellijke gevolgen daarvan alsmede van de voorbereiding op deze bestrijding en beperking, onmiddellijk in bezit worden genomen onder zo spoedig mogelijke afgifte van een schriftelijk bewijsstuk van de inbezitneming.   
 2.  De artikelen 76a ter, derde lid tot en met zesde lid, 76b, 76c, 76e en 76f vinden overeenkomstige toepassing.   
 

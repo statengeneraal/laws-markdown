@@ -619,7 +619,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 ### Artikel  2.50  
 
 1.  Bij de uitoefening van zijn taak namens de inspecteur draagt de ambtenaar een legitimatiebewijs bij zich, afgegeven door of vanwege Onze Minister wie het aangaat of een door hem aangewezen ambtenaar.   
-2.  Het legitimatiebewijs bevat een foto van de ambtenaar en vermeldt in ieder geval diens naam en hoedanigheid. Het model van het legitimatiebewijs wordt vastgesteld bij regeling van Onze Minister van Justitie.   
+2.  Het legitimatiebewijs bevat een foto van de ambtenaar en vermeldt in ieder geval diens naam en hoedanigheid. Het model van het legitimatiebewijs wordt vastgesteld bij regeling van Onze Minister van Veiligheid en Justitie.   
 3.  Het legitimatiebewijs wordt desgevraagd onverwijld aan de belanghebbende getoond.   
 
 ### Artikel  2.51  
@@ -700,7 +700,7 @@ c. waarvan het vervoer aan beperkende voorwaarden is onderworpen.
 1.  De inspecteur is bevoegd goederen, die worden vervoerd zonder zich in of op een vervoermiddel te bevinden, aan alle onderzoekingen en opnemingen te onderwerpen die hij nodig oordeelt.   
 2.  Ten behoeve van het onderzoek zijn personen die goederen vervoeren die zich niet in of op een vervoermiddel bevinden, op eerste vordering van de inspecteur gehouden terstond stil te staan en hem inzage te verlenen van de bij de goederen behorende vracht- of ladingspapieren, alsmede van de bescheiden welke krachtens wettelijke regelingen bij de goederen aanwezig moeten zijn. Artikel 2.54 is van overeenkomstige toepassing.   
 3.  Degene aan wie inzage van de papieren of bescheiden, bedoeld in het tweede lid, wordt verzocht, wordt geacht die in zijn bezit te hebben, tenzij hij het tegendeel aannemelijk maakt.   
-4.  Bij regeling van Onze Minister van Justitie wordt bepaald op welke wijze de vordering tot stilstaan wordt gedaan.   
+4.  Bij regeling van Onze Minister van Veiligheid en Justitie wordt bepaald op welke wijze de vordering tot stilstaan wordt gedaan.   
 
 ### Artikel  2.60  
 
@@ -712,7 +712,7 @@ c. waarvan het vervoer aan beperkende voorwaarden is onderworpen.
 1.  De inspecteur is te allen tijde bevoegd vervoermiddelen aan onderzoek te onderwerpen.   
 2.  Bij visitatie van een vervoermiddel is de inspecteur bevoegd het vervoermiddel, en de daarin, daaronder of daarop aanwezige goederen, aan alle onderzoekingen en opnemingen te onderwerpen die hij nodig oordeelt.   
 3.  Ten behoeve van een visitatie is de inspecteur bevoegd van de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt.   
-4.  Bij regeling van Onze Minister van Justitie wordt bepaald op welke wijze de in het derde lid bedoelde vordering tot stilstaan wordt gedaan.   
+4.  Bij regeling van Onze Minister van Veiligheid en Justitie wordt bepaald op welke wijze de in het derde lid bedoelde vordering tot stilstaan wordt gedaan.   
 5.  Bij de onderzoekingen en opnemingen, noodzakelijk naar het oordeel van de inspecteur, van goederen die zich in vervoer bevinden, is de gezagvoerder of de bestuurder van het vervoermiddel, of de beheerder van de goederen gehouden op eerste vordering van de inspecteur, deze inzage te verlenen van de bij het vervoermiddel of de goederen behorende vracht- of ladingspapieren, alsmede van de bescheiden welke krachtens deze wet bij de goederen aanwezig moeten zijn. Artikel 2.54 is van overeenkomstige toepassing.   
 6.  Degene aan wie inzage van de in het vijfde lid bedoelde papieren of bescheiden wordt verzocht, wordt geacht die in zijn bezit te hebben, tenzij hij het tegendeel aannemelijk maakt.   
 
@@ -1475,7 +1475,7 @@ Bij veroordeling wegens een in de artikelen 2.126 tot en met 2.129 en 2.133 omsc
 
 ### Artikel  2.153  
 
-Ten dienste van de vervolging en berechting van bij dit hoofdstuk of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen die het contact onderhouden met het openbaar ministerie.  
+Ten dienste van de vervolging en berechting van bij dit hoofdstuk of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Veiligheid en Justitie, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen die het contact onderhouden met het openbaar ministerie.  
 
 ### Artikel  2.154  
 
@@ -1494,10 +1494,6 @@ De griffier van het Gemeenschappelijk Hof van Justitie verstrekt aan de inspecte
 
 1.  Een ieder die betrokken is bij de uitvoering van dit hoofdstuk, hoofdstuk III of hoofdstuk V en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.   
 2.  Onze Minister van Financiën kan ontheffing verlenen van de geheimhoudingsplicht, bedoeld in het eerste lid.   
-
-### Artikel  2.157  
-
-[Artikel XLIX van de Aanpassingswet Algemene douanewet](../../../../../../wet/aanpassingswet/algemene/douanewet/BWBR0023754/README.md) is van overeenkomstige toepassing op de BES eilanden met inachtneming van de bepalingen uit deze wet.  
 
 ### Hoofdstuk  III  
 
@@ -2158,8 +2154,8 @@ b. alcoholische producten:
 
 ### Artikel  3.46  
 
-1.  Voor in het buitenland verkregen goederen, niet zijnde goederen als bedoeld in artikel 3.45, tweede lid, wordt de vrijstelling verleend tot een totale waarde van USD 175 per reiziger.   
-2.  Voor reizigers, jonger dan vijftien jaar is het in het eerste lid bedoelde bedrag beperkt tot USD 50.   
+1.  Voor in het buitenland verkregen goederen, niet zijnde goederen als bedoeld in artikel 3.45, tweede lid, wordt de vrijstelling verleend tot een totale waarde van USD 500 per reiziger.   
+2.  Voor reizigers, jonger dan vijftien jaar is het in het eerste lid bedoelde bedrag beperkt tot USD 150.   
 3.  Indien de totale waarde van de in het eerste lid bedoelde goederen het op grond van het eerste of tweede lid geldende maximum overschrijdt, is de vrijstelling slechts van toepassing voor goederen met een waarde tot deze bedragen, met dien verstande dat de waarde van een afzonderlijk goed niet mag worden gesplitst.   
 
 ### Artikel  3.47  
@@ -3406,7 +3402,7 @@ b. een accijnsgoed voorhanden te hebben dat niet overeenkomstig de bepalingen va
 
 ### Artikel  4.7  
 
-Onder benzine wordt verstaan elk product dat is ingedeeld onder post 27.10 van het geharmoniseerde systeem, bedoeld in artikel 3.1, tweede lid, onderdeel a.  
+Onder benzine wordt verstaan elk product dat is ingedeeld onder postonderverdeling 27.10.11 van het geharmoniseerde systeem, bedoeld in artikel 3.1, tweede lid, onderdeel a.  
 
 ### Artikel  4.8  
 
@@ -3428,7 +3424,7 @@ Onder bier wordt verstaan elk product dat is ingedeeld onder post 22.03 van het 
 
 ### Artikel  4.11  
 
-Onder wijn wordt verstaan elk product dat is ingedeeld onder post 24.04 van het geharmoniseerde systeem als bedoeld in artikel 3.1, tweede lid, onderdeel a.  
+Onder wijn wordt verstaan elk product dat is ingedeeld onder de posten 22.04, 22.05 en 22.06 van het geharmoniseerde systeem als bedoeld in artikel 3.1, tweede lid, onderdeel a.  
 
 ### Artikel  4.12  
 
@@ -3707,6 +3703,15 @@ d. voor oorlogsvaartuigen voor eigen gebruik wordt ingeladen.
 ### Artikel  4.50  
 
 Ter zake van de uitslag en invoer van gedistilleerd, dat op bij regeling van Onze Minister van Financiën voorgeschreven wijze is gedenatureerd, wordt vrijstelling van accijns verleend.  
+
+### Titel  5a  
+
+#### *Teruggaaf* 
+
+### Artikel  4.50a  
+
+1.  Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt op verzoek teruggaaf van accijns verleend voor accijnsgoederen die naar een plaats buiten de BES eilanden of, indien het de accijnsgoederen, bedoeld in artikel 4.1, tweede lid, betreft, buiten Bonaire zijn gebracht.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.   
 
 ### Titel  6  
 

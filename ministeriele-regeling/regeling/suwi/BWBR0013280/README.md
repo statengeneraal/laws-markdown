@@ -952,10 +952,6 @@ De Verantwoordingsrichtlijn (privacy en beveiliging van de GeVS) is een gezamenl
 | • Code soort overige inkomsten  | --- | --- | --- |  *X*   |
 | • Code classificatie BBZ  | --- | --- | --- |  *X*   |
 | • Code munteenheid  | --- | --- | --- |  *X*   |
-|  *Gegevens betreffende WWIK.*   |  *X*   | --- | --- | --- |
-| • Datum ingang uitkering  • Datum beëindiging uitkering  | --- | --- | --- | --- |
-|  *Gegevens betreffende WIJ.*   | --- | --- |  *X*   | --- |
-| • Begindatum inkomensvoorziening  • Einddatum inkomensvoorziening  • Datum aanvang maatregel  • Datum einde maatregel  • Reden maatregel  • Huisvesting  • Leefvorm  • Soort normbedrag  • Normbedrag  • Reden beëindiging inkomensvoorziening  • Datum besluit vordering  • Reden vordering  • Bedrag aanvang vordering  • Bedrag saldo vordering  • Status vordering  | --- | --- | --- | --- |
 |  *Gegevens betreffende IOAW.*   | --- | --- | --- | --- |
 | • Datum ingang uitkering  • Datum beëindiging uitkering  |  *X*   | --- | --- | --- |
 | • Reden beëindiging  • Bedrag grondslag  • Datum besluit vordering  • Reden vordering  • Bedrag aanvang vordering  • Bedrag saldo vordering  • Status vordering  | --- | --- | --- |  *X*   |
@@ -2738,7 +2734,7 @@ Gepubliceerd op www.inlichtingenbureau.nl.
 
 ####Planning & control producten van BKWI
 
-Bijlage XX behorende bij de artikelen 5.3 en 5.10a van de Regeling SUWI In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van artikel 5.3 en 5.10a van de Regeling SUWI. Het betreft de volgende producten: 
+In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van artikel 5.3 en 5.10a van de Regeling SUWI. Het betreft de volgende producten: 
 
 I meerjarenbeleidsplan (*niet van toepassing op BKWI*)  
 

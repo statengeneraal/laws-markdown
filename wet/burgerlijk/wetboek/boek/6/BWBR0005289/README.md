@@ -1293,15 +1293,13 @@ a. [artikel 15d leden 1 en 2](../../../../../../wet/burgerlijk/wetboek/boek/3/BW
 
 b. [artikel 46c lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
 
-c. [artikel 48f leden 1 en 2 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+c. [artikel 501 lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
 
-d. [artikel 501 lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+d. [artikelen 73 tot en met 75 van de Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
 
-e. [artikelen 73 tot en met 75 van de Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+e. [artikelen 4:20](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:73](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:13 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-f. [artikelen 4:20](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:73](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:13 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
-
-g. [artikel 2b van de Prijzenwet](../../../../../../wet/prijzenwet/BWBR0002353/README.md).    
+f. [artikel 2b van de Prijzenwet](../../../../../../wet/prijzenwet/BWBR0002353/README.md).    
 
 ### Artikel  193g  
 
@@ -1869,7 +1867,7 @@ b. indien de gebruiker aan de wederpartij niet een redelijke mogelijkheid heeft 
 
 ### Artikel  234  
 
-1.  De gebruiker heeft aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel en Fabrieken of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt. Het omtrent de verplichting tot toezending bepaalde is niet van toepassing, voor zover deze toezending redelijkerwijze niet van de gebruiker kan worden gevergd.   
+1.  De gebruiker heeft aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld, de voorwaarden overeenkomstig de in artikel 230c voorziene wijze heeft verstrekt of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel en Fabrieken of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt. Het omtrent de verplichting tot toezending bepaalde is niet van toepassing, voor zover deze toezending redelijkerwijze niet van de gebruiker kan worden gevergd.   
 2.  De gebruiker heeft tevens aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking heeft gesteld op een zodanige wijze dat deze door haar kunnen worden opgeslagen en voor haar toegankelijk zijn ten behoeve van latere kennisneming of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt waar van de voorwaarden langs elektronische weg kan worden kennisgenomen, alsmede dat zij op verzoek langs elektronische weg of op andere wijze zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten langs elektronische weg of op andere wijze aan haar toezendt.   
 3.  Voor het op de in lid 2 bedoelde wijze bieden van een redelijke mogelijkheid om van de algemene voorwaarden kennis te nemen is de uitdrukkelijke instemming van de wederpartij vereist indien de overeenkomst niet langs elektronische weg tot stand komt.   
 
@@ -1906,7 +1904,7 @@ h. dat voor het geval bij de uitvoering van de overeenkomst schade aan een derde
 
 i. dat de gebruiker de bevoegdheid geeft de door hem bedongen prijs binnen drie maanden na het sluiten van de overeenkomst te verhogen, tenzij de wederpartij bevoegd is in dat geval de overeenkomst te ontbinden;  
 
-j. dat in geval van een overeenkomst tot het geregeld afleveren van zaken, elektriciteit daaronder begrepen, of tot het geregeld doen van verrichtingen, leidt tot stilzwijgende verlenging of vernieuwing van meer dan een jaar;  
+j. dat in geval van een overeenkomst tot het geregeld afleveren van zaken, elektriciteit daaronder begrepen en dag-, nieuws- en weekbladen en tijdschriften niet daaronder begrepen, of tot het geregeld doen van verrichtingen, leidt tot stilzwijgende verlenging of vernieuwing in een overeenkomst voor bepaalde duur, dan wel tot een stilzwijgende voortzetting in een overeenkomst voor onbepaalde duur zonder dat de wederpartij de bevoegdheid heeft om de voortgezette overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand;  
 
 k. dat de bevoegdheid van de wederpartij om bewijs te leveren uitsluit of beperkt, of dat de uit de wet voortvloeiende verdeling van de bewijslast ten nadele van de wederpartij wijzigt, hetzij doordat het een verklaring van haar bevat omtrent de deugdelijkheid van de haar verschuldigde prestatie, hetzij doordat het haar belast met het bewijs dat een tekortkoming van de gebruiker aan hem kan worden toegerekend;  
 
@@ -1914,7 +1912,17 @@ l. dat ten nadele van de wederpartij afwijkt van [artikel 37 van Boek 3](../../.
 
 m. waarbij een wederpartij die bij het aangaan van de overeenkomst werkelijke woonplaats in een gemeente in Nederland heeft, woonplaats kiest anders dan voor het geval zij te eniger tijd geen bekende werkelijke woonplaats in die gemeente zal hebben, tenzij de overeenkomst betrekking heeft op een registergoed en woonplaats ten kantore van een notaris wordt gekozen;  
 
-n. dat voorziet in de beslechting van een geschil door een ander dan hetzij de rechter die volgens de wet bevoegd zou zijn, hetzij een of meer arbiters, tenzij het de wederpartij een termijn gunt van tenminste een maand nadat de gebruiker zich schriftelijk jegens haar op het beding heeft beroepen, om voor beslechting van het geschil door de volgens de wet bevoegde rechter te kiezen.    
+n. dat voorziet in de beslechting van een geschil door een ander dan hetzij de rechter die volgens de wet bevoegd zou zijn, hetzij een of meer arbiters, tenzij het de wederpartij een termijn gunt van tenminste een maand nadat de gebruiker zich schriftelijk jegens haar op het beding heeft beroepen, om voor beslechting van het geschil door de volgens de wet bevoegde rechter te kiezen;  
+
+o. dat de bevoegdheid van de wederpartij om de overeenkomst, die mondeling, schriftelijk of langs elektronische weg tot stand is gekomen, op een overeenkomstige wijze op te zeggen, uitsluit of beperkt;  
+
+p. dat in geval van een overeenkomst tot het geregeld afleveren van dag-, nieuws- en weekbladen en tijdschriften, leidt tot een stilzwijgende verlenging of vernieuwing van de overeenkomst met een duur die langer is dan drie maanden, dan wel tot een stilzwijgende verlenging of vernieuwing van de overeenkomst met een duur van ten hoogste drie maanden zonder dat de wederpartij de bevoegdheid heeft om de overeenkomst telkens tegen het einde van de duur van de verlenging of de vernieuwing op te zeggen met een opzegtermijn van ten hoogste een maand;  
+
+q. dat in geval van een overeenkomst tot het geregeld afleveren van dag-, nieuws- en weekbladen en tijdschriften, leidt tot een stilzwijgende voortzetting in een overeenkomst voor onbepaalde duur zonder dat de wederpartij de bevoegdheid heeft om de voortgezette overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand of, in geval de geregelde aflevering minder dan eenmaal per maand plaats heeft, met een opzegtermijn van ten hoogste drie maanden;  
+
+r. dat de wederpartij verplicht de verklaring tot opzegging van een overeenkomst als bedoeld onder j of p respectievelijk q te laten plaatsvinden op een bepaald moment;  
+
+s. dat in geval van een overeenkomst met beperkte duur tot het geregeld ter kennismaking afleveren van dag-, nieuws-, weekbladen en tijdschriften leidt tot voortzetting van de overeenkomst.    
 
 ### Artikel  237  
 
@@ -1940,13 +1948,15 @@ i. dat voor het geval de overeenkomst wordt beëindigd anders dan op grond van h
 
 j. dat de wederpartij verplicht tot het sluiten van een overeenkomst met de gebruiker of met een derde, tenzij dit, mede gelet op het verband van die overeenkomst met de in dit artikel bedoelde overeenkomst, redelijkerwijze van de wederpartij kan worden gevergd;  
 
-k. dat voor een overeenkomst als bedoeld in artikel 236 onder *j* een duur bepaalt van meer dan een jaar, tenzij de wederpartij de bevoegdheid heeft de overeenkomst telkens na een jaar op te zeggen;  
+k. dat voor een overeenkomst als bedoeld in artikel 236 onder j of p respectievelijk q een duur bepaalt van meer dan een jaar, tenzij de wederpartij na een jaar de bevoegdheid heeft de overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand;  
 
-l. dat de wederpartij aan een opzegtermijn bindt die langer is dan drie maanden of langer dan de termijn waarop de gebruiker de overeenkomst kan opzeggen;  
+l. dat de wederpartij aan een opzegtermijn bindt die langer is dan de termijn waarop de gebruiker de overeenkomst kan opzeggen;  
 
 m. dat voor de geldigheid van een door de wederpartij te verrichten verklaring een strengere vorm dan het vereiste van een onderhandse akte stelt;  
 
-n. dat bepaalt dat een door de wederpartij verleende volmacht onherroepelijk is of niet eindigt door haar dood of ondercuratelestelling, tenzij de volmacht strekt tot levering van een registergoed.    
+n. dat bepaalt dat een door de wederpartij verleende volmacht onherroepelijk is of niet eindigt door haar dood of ondercuratelestelling, tenzij de volmacht strekt tot levering van een registergoed;  
+
+o. dat de wederpartij bij overeenkomsten, niet zijnde verlengde, vernieuwde of voortgezette overeenkomsten als bedoeld in artikel 236, onder j of p respectievelijk q, aan een opzegtermijn bindt die langer is dan een maand.    
 
 ### Artikel  238  
 

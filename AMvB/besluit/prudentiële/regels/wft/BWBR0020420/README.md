@@ -287,9 +287,9 @@ Bepalingen ter uitvoering van [artikel 3:17, tweede lid, aanhef en onderdeel a, 
 
 1.  De bedrijfsvoering van een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, premiepensioeninstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat: 
 
-a. een duidelijke en adequate organisatiestructuur;  
+a. een duidelijke, evenwichtige en adequate organisatiestructuur;  
 
-b. een duidelijke en adequate verdeling van taken, bevoegdheden en verantwoordelijkheden;  
+b. een duidelijke, evenwichtige en adequate verdeling van taken, bevoegdheden en verantwoordelijkheden;  
 
 c. een adequate vastlegging van rechten en verplichtingen;  
 

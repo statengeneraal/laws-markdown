@@ -72,13 +72,13 @@ Degene, die verzekerd is geweest en de leeftijd van 65 jaar heeft bereikt, heeft
 
 ### Artikel  7  
 
-1.  Het ouderdomspensioen bedraagt USD 365 per 1 januari 2011: USD 524 per maand.   
+1.  Het ouderdomspensioen bedraagt USD 365  per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 555;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 582;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 558;   per 1 januari 2012 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 555  per maand.   
 2.  Het pensioenbedrag, bedoeld in het eerste lid, wordt bij ministeriële regeling met ingang van elk kalenderjaar aangepast aan de ontwikkeling van het consumentenprijsindexcijfer.   
 3.  De aanpassing van het pensioenbedrag, bedoeld in het tweede lid, vindt plaats met ingang van de eerste dag van enig kalenderjaar op basis van de stijging die het consumentenprijsindexcijfer voor het derde kwartaal daaraan voorafgaande aangeeft ten opzichte van het consumentenprijsindexcijfer voor het derde kwartaal van het voorafgaande jaar. Onze Minister bepaalt welk consumentenprijsindexcijfer, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin wordt gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.   
 
 ### Artikel  7a  
 
-1.  Degene aan wie een ouderdomspensioen is toegekend en die gehuwd is met iemand die jonger is dan 65 jaar heeft recht op een toeslag van ten hoogste USD 250 per 1 januari 2011: USD 359 per maand, voorzover het gezamenlijk inkomen niet meer dan USD 6.704 per 1 januari 2011: USD 6.830 per jaar bedraagt.   
+1.  Degene aan wie een ouderdomspensioen is toegekend en die gehuwd is met iemand die jonger is dan 65 jaar heeft recht op een toeslag van ten hoogste USD 250  per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 380;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 399;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 382;   per 1 januari 2012 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 380  per maand, voorzover het gezamenlijk inkomen niet meer dan USD 6.704  per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 7233;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 7595;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 7281;   per 1 januari 2012 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 7233  per 1 januari 2011: USD 6.830 per jaar bedraagt.   
 2.  De toeslag wordt door Onze Minister betaalbaar gesteld aan degene met wie degene aan wie het ouderdomspensioen is toegekend, gehuwd is. De betaling geschiedt per kalendermaand.   
 3.  De toeslag eindigt: 
 
@@ -90,7 +90,9 @@ c. bij overlijden van degene aan wie het ouderdomspensioen is toegekend of van d
 
 d. bij intrekking van het pensioen of de toeslag;  
 
-e. wanneer het gezamenlijk inkomen, bedoeld in het eerste lid, meer dan USD 6.704 per 1 januari 2011: USD 6.830 per jaar bedraagt.     
+e. wanneer het gezamenlijk inkomen, bedoeld in het eerste lid, meer dan USD 6.704  per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 7233;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 7595;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 7281;   per 1 januari 2012 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 7233   
+
+per jaar bedraagt.     
 4.  Onder inkomen als bedoeld in het eerste lid en het derde lid, onderdeel e, wordt verstaan de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).   
 5.  De toeslag eindigt met ingang van de maand, volgende op die, waarin het feit of de omstandigheid, bedoeld in het derde lid, heeft plaatsgevonden , dan wel is ontstaan, die het einde van de toeslag ten gevolge heeft.   
 6.  De artikelen 12, 13, tweede tot en met vierde lid, 14, 15, 16, 18, 19, 22a tot en met 22c, 23, 34, 37, 44, eerste lid, 47 en 52 zijn van overeenkomstige toepassing op de toeslag.   
@@ -139,7 +141,7 @@ De aanvraag om ouderdomspensioen of om een verhoging van het ouderdomspensioen w
 1.  Het ouderdomspensioen wordt door Onze Minister ingetrokken of herzien, wanneer degene aan wie het is toegekend, ingevolge het op grond van deze wet bepaalde, daarvoor niet of niet of niet meer in aanmerking komt, dan wel voor een hoger of lager ouderdomspensioen in aanmerking komt.   
 2.  De herziening van het ouderdomspensioen, die voortvloeit uit een wijziging van de omstandigheden en die een verhoging van dit pensioen tot gevolg heeft, gaat in op de eerste dag van de maand, volgende op de maand waarin de wijziging van die omstandigheden heeft plaats gevonden. Het bepaalde in artikel 11, tweede lid, is van overeenkomstige toepassing.   
 3.  De intrekking van het ouderdomspensioen of de herziening daarvan, die een verlaging van dit pensioen tot gevolg heeft, gaat, behoudens in bij algemene maatregel van bestuur aan te wijzen gevallen, in op de eerste dag van de maand, volgende op die, waarin de dag van de dagtekening van de kennisgeving op grond van artikel 37, eerste lid, onderdeel a, is gelegen.   
-4.  De herziening van het ouderdomspensioenin verband met artikel 7, derde lid, gaat, in afwijking van het bepaalde in het tweede en derde lid, in op de dag, met ingang waarvan op grond van artikel 7, derde lid,, de in dat artikel genoemde bedragen van het ouderdomspensioen zijn herzien.   
+4.  De herziening van het ouderdomspensioen in verband met artikel 7, derde lid, gaat, in afwijking van het bepaalde in het tweede en derde lid, in op de dag, met ingang waarvan op grond van artikel 7, derde lid, de in dat artikel genoemde bedragen van het ouderdomspensioen zijn herzien.   
 5.  Ter uitvoering van het bepaalde in dit artikel kunnen bij algemene maatregel van bestuur nadere voorschriften worden gegeven. Daarbij kunnen tevens nadere regels worden gesteld met betrekking tot schorsing en opschorting van de uitbetaling van het ouderdomspensioen.   
 
 ### Artikel  13  
@@ -398,7 +400,7 @@ c. alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestem
 
 ### Artikel  45  
 
-Hij, die op grond van bij of krachtens deze wet is inlichtingen of gegevens te verstrekken, een aangifte of mededeling te doen of een verklaring af te leggen en daarbij opzettelijk een valse opgave doet dan wel opzettelijk in strijd met bedoelde gehoudenheid iets verzwijgt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren.  
+Hij, die op grond van bij of krachtens deze wet vastgestelde bepalingen gehouden is inlichtingen of gegevens te verstrekken, een aangifte of mededeling te doen of een verklaring af te leggen en daarbij opzettelijk een valse opgave doet dan wel opzettelijk in strijd met bedoelde gehoudenheid iets verzwijgt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren.  
 
 ### Artikel  46  
 

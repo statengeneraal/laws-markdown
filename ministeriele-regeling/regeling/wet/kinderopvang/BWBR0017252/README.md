@@ -19,7 +19,7 @@ a. wet: [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../we
 
 b. college: college van burgemeester en wethouders;  
 
-c. Minister: de Minister van Onderwijs, Cultuur en Wetenschap;  
+c. Minister: de Minister van Sociale Zaken en Werkgelegenheid;  
 
 d. vraagouder: ouder die kinderopvang vraagt die geboden wordt door een gastouder.    
 
@@ -53,24 +53,17 @@ Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als
 
 ####Regels inzake registratie van voorzieningen
 
-### Artikel  9a  
-
-####Formulier
-
-Het formulier, bedoeld in [artikel 4 van het Besluit registratie kinderopvang](../../../../../AMvB/besluit/registratie/kinderopvang/BWBR0026966/README.md) wordt, onderscheiden naar categorie voorziening en voor eerste inschrijvingen en wijzigingen, vastgesteld overeenkomstig de bij dit besluit gevoegde bijlagen 1a tot en met 1g.  
-
 ### Artikel  9b  
 
 ####Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 6, derde lid, van het Besluit registratie kinderopvang](../../../../../AMvB/besluit/registratie/kinderopvang/BWBR0026966/README.md), wordt vastgesteld overeenkomstig de bij dit besluit gevoegde bijlage 2.  
+De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers kinderopvang en peuterspeelzaalwerk](../../../../../AMvB/besluit/registers/kinderopvang/en/peuterspeelzaalwerk/BWBR0030892/README.md), wordt vastgesteld overeenkomstig de bij deze regeling behorende bijlage 1.  
 
 ### Artikel  9c  
 
-####Taken van de Dienst Uitvoering Onderwijs
+####Taak Dienst Uitvoering Onderwijs
 
-1.  Het dagelijks beheer van het register berust bij de directeur-generaal van de Dienst Uitvoering Onderwijs.   
-2.  Gedurende de periode dat een gemeente nog niet is aangesloten op het register kinderopvang zomede nadien op verzoek van het college van burgemeester en wethouders verzorgt de directeur-generaal van de Dienst Uitvoering Onderwijs de invoer van de gegevens van die gemeente in dat register.   
+De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [artikel 4 van het Besluit registers kinderopvang en peuterspeelzaalwerk](../../../../../AMvB/besluit/registers/kinderopvang/en/peuterspeelzaalwerk/BWBR0030892/README.md).  
 
 ### Paragraaf  4  
 
@@ -83,8 +76,8 @@ De systeembeschrijving, bedoeld in [artikel 6, derde lid, van het Besluit regist
 a. Helpende Zorg en Welzijn 2; Helpende welzijn 2; en  
 
 b. Helpende breed 2; Helpende sociaal agogisch werk 2; Verzorgingsassistent(e).     
-2.  In aanvulling op het eerste lid kan de Minister van Sociale Zaken en Werkgelegenheid op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen, genoemd het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
-3.  De Minister van Sociale Zaken en Werkgelegenheid stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
+2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen, genoemd het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
+3.  De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
 
 ### Artikel  10a  
 
@@ -93,8 +86,8 @@ b. Helpende breed 2; Helpende sociaal agogisch werk 2; Verzorgingsassistent(e).
 a. Gespecialiseerd pedagogisch medewerker 4 kinderopvang; Onderwijsassistent; Onderwijsassistent PO/SO (primair onderwijs/speciaal onderwijs); Pedagogisch medewerker 3 kinderopvang; Pedagogisch Werker 3 Kinderopvang; Pedagogisch Werker 4 Kinderopvang; Pedagogisch Werker niveau 3; Pedagogisch Werker niveau 4; Sociaal-Cultureel Werker (SCW); Sociaal Pedagogisch Werker 3 (SPW-3); Sociaal Pedagogisch Werker 4 (SPW4); Sport en Bewegen (niveau 3 en 4); Sport- en bewegingscoördinator (niveau 4); Sport- en bewegingsleider (niveau 3); en en  
 
 b. A verpleegkundige; Activiteitenbegeleider (AB); Activiteitenbegeleiding (AB); Agogisch Werk (AW); akte hoofdleidster kleuteronderwijs; akte Kleuterleidster A; akte Kleuterleidster B; Akte van bekwaamheid als hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als leidster aan kleuterscholen; Akte van bekwaamheid als leidster bij het kleuteronderwijs; Arbeidstherapie (AT); A-Verpleegkundige; A-verpleger; B Verpleegkundige; B-Verpleegkundige; B-verpleger; Cultureel werk (CW); Getuigschrift A (ziekenverpleging); Getuigschrift B (ziekenverpleging); Extramurale gezondheidszorg (EMGZ); Inrichtingswerk (IW); Kinderbescherming A; Kinderbescherming B; Kinderverzorging en Opvoeding; Kinderverzorging/Jeugdverzorging (KV/JV); Kinderverzorgster (KV); Kinderverzorgster van de centrale raad voor de kinderuitzending; Kultureel werk (KW); Leidster kindercentra (niet van OVDB); Leidster Kindercentra van de OVDB; Residentieel Werk (RW); Sociaal Agogisch 2; Sociaal Agogisch II; Sociaal Cultureel Werk; Sociaal Dienstverlener (SD); Sociaal Pedagogisch Werker; Sociale Arbeid (SA, SA2 of SAII); Sociale Dienstverlening (SD, SA, SA1 of SAI); SPW lang; Vakopleiding Leidster kindercentra (conform de WEB); Verdere Scholing in Dienstverband (VSID) richting kinderdagverblijven; Verpleegkunde; Verpleegkunde A; Verpleegkunde B; Verpleegkunde Z; Verpleegkundige; Verplegende (VP); Verpleging (VP); Verpleging A; Verpleging B; Verzorgende (VZ niveau 3 of VZ lang); Verzorgende beroepen (VZ); Verzorgende Individuele Gezondheidszorg (VIG); Verzorging (VZ); Z Verpleegkundige; Z-Verpleegkundige; Zwakzinnigenzorg.     
-2.  In aanvulling op het eerste lid kan de Minister van Sociale Zaken en Werkgelegenheid op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
-3.  De Minister van Sociale Zaken en Werkgelegenheid stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
+2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
+3.  De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
 
 ### Artikel  10b  
 
@@ -103,8 +96,8 @@ b. A verpleegkundige; Activiteitenbegeleider (AB); Activiteitenbegeleiding (AB);
 a. Culturele en Maatschappelijke vorming (CMV); Kunstzinnig vormende opleiding op HBO-niveau (docentenrichting binnenkunstonderwijs of kunstzinnige richting binnen lerarenopleiding); Leraar basisonderwijs (aan Hogeschool, PABO of IPABO); Leraar lichamelijke oefening (ALO); Pedagogiek (HBO-bachelor); Sociaal Pedagogische Hulpverlening (SPH); Sport en Bewegen; en  
 
 b. Akte Lager onderwijs zonder hoofdakte (oude kweekschoolopleiding); Akte van bekwaamheid als hoofdonderwijzer(es); Akte van bekwaamheid als leidster of hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als onderwijzer(es); Akte van bekwaamheid als volledig bevoegd onderwijzer(es); Akte van bekwaamheid N XI; Akte van bekwaamheid tot het geven van middelbaar onderwijs in de lichamelijke oefening; Applicatiecursus leraar basisonderwijs (als vervolg op en in combinatie met kleuterakte A/B); Applicatiecursus volledig bevoegd onderwijzer(es); Bachelor of Nursing; Creatieve therapie (waaronder Mikojel); Cultureel Werk (CW); Docent Dans; Docent Drama; Docerend musicus; Educatieve therapie (Mikojel); Extramurale gezondheidszorg (EMGZ); Hogere sociaal-pedagogische opleiding van leiders op het terrein van jeugdvorming en volksontwikkeling; Hoofdonderwijzer; Inrichtingswerk (IW); Jeugdwelzijnswerk; Kinderverzorging en kinderopvoeding; Kinderverzorging en opvoeding; Kreatief Educatief Werk; Kunstzinnige therapie; Leraar voortgezet onderwijs van eerste graad in tekenen; Lerarenopleiding Omgangskunde; Lerarenopleiding Verzorging/Gezondheidskunde; Lerarenopleiding Verzorging/Huishoudkunde; Maatschappelijk Werk (MW); Maatschappelijk Werk en Dienstverlening (MWD); NXX (volgens de Wet op het voortgezet onderwijs); Pedagogiek MO-A of kandidaatsexamen Pedagogiek; Pedagogische Academie; Verpleegkunde.     
-2.  In aanvulling op het eerste lid kan de Minister van Sociale Zaken en Werkgelegenheid op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
-3.  De Minister van Sociale Zaken en Werkgelegenheid stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
+2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
+3.  De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
 
 ### Artikel  10c  
 
@@ -166,8 +159,8 @@ e. geregistreerd certificaat Eerstehulpverlener van NIKTA,
 
 f. geregistreerd certificaat Spoedeisende Hulpverlening bij Kinderen (SEHBK) van NedCert, of  
 
-g. een door de minister aan te wijzen certificaat dat aan vergelijkbare eisen voldoet.     
-2.  In aanvulling op het eerste lid kan de Minister van Sociale Zaken en Werkgelegenheid een certificaat aanwijzen waarmee eveneens wordt voldaan aan de in [artikel 2, onder b, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
+g.  vervallen.      
+2.  In aanvulling op het eerste lid kan de minister een certificaat aanwijzen waarmee eveneens wordt voldaan aan de in [artikel 2, onder b, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
 3.  Een aanwijzing, bedoeld in het tweede lid, kan alleen plaatsvinden indien het certificaat slechts wordt afgegeven indien ten minste de volgende inhoudelijke criteria zijn getoetst: 
 
 a. aantoonbare kennis van en inzicht in de voor eerstehulpverlening relevante fysieke verschillen tussen zuigelingen, kinderen en volwassenen;  
@@ -197,7 +190,7 @@ g. de certificerende instantie registreert zelf de behaalde certificaten en de g
 
 ### Artikel  10e  
 
-1.  Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de Minister van Sociale Zaken en Werkgelegenheid, genoemd in de artikelen 10, tweede lid, 10a, tweede lid en 10b, tweede lid.   
+1.  Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de artikelen 10, tweede lid, 10a, tweede lid en 10b, tweede lid.   
 2.  Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid en met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat de Directeur-generaal in mandaat heeft genomen.   
 3.  De Directeur-generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in het eerste en tweede lid, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat de Directeur-generaal geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt, is verleend.   
 
@@ -260,7 +253,7 @@ g. een jaaroverzicht per vraagouder, met vermelding van de naam, het burgerservi
 
 ### Paragraaf  5a  
 
-####Bepalingen voor gastouderbureaus
+####Bepalingen voor gastouderbureaus en vraagouders
 
 ### Artikel  11a  
 
@@ -292,6 +285,36 @@ Het gastouderbureau brengt in kalenderjaar 2010 op basis van [artikel 3.2, acht
 
 In de schriftelijke overeenkomst, bedoeld in [artikel 1.56, vierde lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), wordt het unieke registratienummer van de gastouder opgenomen.  
 
+### Artikel  11f  
+
+####Betalingstermijn vraagouder
+
+De vraagouder betaalt periodiek de kosten voor gastouderopvang uiterlijk binnen twee kalendermaanden na afloop van het tijdvak waarover de kosten op grond van de overeenkomst worden berekend.  
+
+### Paragraaf  5b  
+
+####Administratie van gegevens peuterspeelzalen
+
+### Artikel  11g  
+
+####Inrichting administratie peuterspeelzaal
+
+1.  De administratie van een peuterspeelzaal is zodanig ingericht dat op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), tijdig de gegevens, bedoeld in het tweede lid, kunnen worden verstrekt die voor de naleving van bij en krachtens [hoofdstuk 2, paragraaf 2](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [3 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) gegeven voorschriften van belang zijn.   
+2.  De administratie van een peuterspeelzaal bevat de volgende gegevens: 
+
+a. een overzicht van alle bij die peuterspeelzaal werkzame beroepskrachten, vermeldende in ieder geval naam, geboortedatum, en de behaalde diploma’s en getuigschriften;  
+
+b. afschriften van alle afgegeven verklaringen omtrent het gedrag afgegeven volgens de Wet justitiële en strafvorderlijke gegevens van bij de peuterspeelzaal werkzame personen;  
+
+c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 2.9 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
+
+d. een overzicht van de omvang en de samenstelling van de oudercommissie, bedoeld in [artikel 2.15 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+
+e. een afschrift van het reglement van de oudercommissie, bedoeld in [artikel 2.16 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md); en  
+
+f. een overzicht van alle ingeschreven kinderen, vermeldende per kind: naam, geboortedatum, adres, postcode, woonplaats, telefoonnummer en het adres en telefoonnummer van de ouders en de dagdelen waarvoor een kind is ingeschreven.     
+3.  De houder van een peuterspeelzaal kan de gegevens, bedoeld in het tweede lid, op een andere plaats administreren dan op de plaats van vestiging van de peuterspeelzaal, mits de gegevens, bedoeld in het tweede lid, op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van de peuterspeelzaal.   
+
 ### Paragraaf  6  
 
 ####Gemeentelijk jaarverslag
@@ -313,7 +336,7 @@ d. de onderzoeksresultaten, en
 
 e. de wijze waarop handhaving van het bepaalde bij en krachtens [hoofdstuk 1, afdeling 3, paragrafen 2](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [3, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), heeft plaatsgevonden, naar aanleiding van de onderzoeksresultaten, bedoeld in onderdeel d van dit lid.     
 3.  Het verslag dat het college ingevolge [artikel 1.67, eerste lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) aan de gemeenteraad en de Minister zendt, staat tevens ten dienste van de Inspectie voor het Onderwijs.   
-4.  Een verslag wordt ingericht overeenkomstig het als bijlage 3 bij deze regeling opgenomen model.   
+4.  Een verslag wordt ingericht overeenkomstig het als bijlage 2 bij deze regeling opgenomen model.   
 
 ### Paragraaf  7  
 
@@ -321,9 +344,9 @@ e. de wijze waarop handhaving van het bepaalde bij en krachtens [hoofdstuk 1, af
 
 ### Artikel  13  
 
-####Aanvraag van buitenlandse kinderopvang ten behoeve van opneming in centraal register
+####Aanvraag ten behoeve van opneming in het register buitenlandse kinderopvang
 
-1.  Bij een aanvraag als bedoeld in [artikel 1.48, tweede lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), vermeldt een ouder die voornemens is gebruik te maken van kinderopvang buiten Nederland, aan de Minister de volgende gegevens: 
+1.  Bij een aanvraag als bedoeld in [artikel 1.48, tweede lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), vermeldt een ouder die voornemens is gebruik te maken van kinderopvang buiten Nederland en die op grond van de wet in aanmerking kan komen voor kinderopvangtoeslag, de volgende gegevens: 
 
 a. een opgave van de soort kinderopvangvoorziening,  
 
@@ -331,6 +354,8 @@ b. de naam, het adres, de plaats van vestiging en het telefoonnummer van de kind
 
 c. de naam, het adres, de plaats van vestiging en het telefoonnummer van de houder.     
 2.  De ouder, bedoeld in het eerste lid, voegt bij de aanvraag tevens een bewijsstuk waaruit blijkt dat de kwaliteit van de betreffende kinderopvangvoorziening voldoet aan de geldende regels en voorwaarden in het betreffende land.   
+3.  Uiterlijk tien weken na de ontvangst van de aanvraag, bedoeld in [artikel 1.48, tweede lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), beschikt de minister op deze aanvraag.   
+4.  Indien de minister positief beschikt op deze aanvraag, vindt de in [artikel 1.48, eerste lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) bedoelde opname in het register buitenlandse kinderopvang plaats per de datum waarop de minister de aanvraag heeft ontvangen.   
 
 ### Artikel  15  
 
@@ -421,9 +446,9 @@ b. geregistreerde gastouders (registered childminders).
 
 ### Artikel  16  
 
-####Wijzigingen in centraal register
+####Wijzigingen in het register buitenlandse kinderopvang
 
-De minister kan wijzigingen in het centrale register, bedoeld in [artikel 1.48 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in artikel 13, niet overeenstemmen met de werkelijke situatie.  
+De minister kan wijzigingen in het register buitenlandse kinderopvang, bedoeld in [artikel 1.48 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in artikel 13, niet overeenstemmen met de werkelijke situatie.  
 
 ### Paragraaf  7a  
 
@@ -490,13 +515,6 @@ Als buiten Nederland gevestigde voorzieningen voor gastouderopvang die worden ge
 
 De verplichting van artikel 12 geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.  
 
-### Artikel  17a  
-
-####Gewijzigde uitvoering voor het kalenderjaar 2010
-
-1.  In het kalenderjaar 2010 is [artikel 3.3, tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) niet van toepassing.   
-2.  Dit artikel vervalt met ingang van 1 januari 2012.   
-
 ### Artikel  17b  
 
 Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](../../../../../AMvB/besluit/basisvoorwaarden/kwaliteit/voorschoolse/educatie/BWBR0027961/README.md).  
@@ -521,68 +539,8 @@ De
 Minister van Sociale Zaken en Werkgelegenheid, 
 A.J.de Geus   
 
-### Bijlage  1a  
-
-![246616](http://wetten.overheid.nl/Illustration/246616)
-![246616](http://wetten.overheid.nl/Illustration/246616)
-![246616](http://wetten.overheid.nl/Illustration/246616)
-
-### Bijlage  1b  
-
-![246619](http://wetten.overheid.nl/Illustration/246619)
-![246619](http://wetten.overheid.nl/Illustration/246619)
-![246619](http://wetten.overheid.nl/Illustration/246619)
-
-### Bijlage  1c  
-
-![246622](http://wetten.overheid.nl/Illustration/246622)
-![246622](http://wetten.overheid.nl/Illustration/246622)
-![246622](http://wetten.overheid.nl/Illustration/246622)
-
-### Bijlage  1d  
-
-![246626](http://wetten.overheid.nl/Illustration/246626)
-![246626](http://wetten.overheid.nl/Illustration/246626)
-![246626](http://wetten.overheid.nl/Illustration/246626)
-
-### Bijlage  1e  
-
-![246629](http://wetten.overheid.nl/Illustration/246629)
-![246629](http://wetten.overheid.nl/Illustration/246629)
-![246629](http://wetten.overheid.nl/Illustration/246629)
-
-### Bijlage  1f  
-
-![246632](http://wetten.overheid.nl/Illustration/246632)
-![246632](http://wetten.overheid.nl/Illustration/246632)
-![246632](http://wetten.overheid.nl/Illustration/246632)
-
-### Bijlage  1g  
-
-![246634](http://wetten.overheid.nl/Illustration/246634)
-![246634](http://wetten.overheid.nl/Illustration/246634)
-
 ### Bijlage  3  
 
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
 ![246708](http://wetten.overheid.nl/Illustration/246708)
 ![246708](http://wetten.overheid.nl/Illustration/246708)
 ![246708](http://wetten.overheid.nl/Illustration/246708)

@@ -30,17 +30,25 @@ d. indicatiebesluit: het besluit van een indicatieorgaan waarbij beoordeeld word
 
 e. het besluit: het [Besluit zorgaanspraken AWBZ](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
 
-f. cliëntprofiel: een profiel van zorgvragers met een vergelijkbare zorgbehoefte en beperkingen op dezelfde terreinen, bij wie de verzorgings-, verplegings-, begeleidings- of behandelingsdoelen naar aard en inhoud overeenkomen en die op verblijf als bedoeld in [artikel 9, eerste en tweede lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of [artikel 13, tweede lid, van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) zijn aangewezen.    
+f. cliëntprofiel: een profiel van zorgvragers met een vergelijkbare zorgbehoefte en beperkingen op dezelfde terreinen, bij wie de verzorgings-, verplegings-, begeleidings- of behandelingsdoelen naar aard en inhoud overeenkomen en die op verblijf als bedoeld in [artikel 9, eerste en tweede lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of [artikel 13, tweede lid, van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) zijn aangewezen;  
+
+h. zorgzwaarte pakket: naar aard, inhoud en omvang bij een cliëntprofiel passende, samenhangende zorg als omschreven op grond van het besluit.    
 
 ### Artikel  2  
 
-Als vormen van zorg als bedoeld in [artikel 9a, eerste lid, van de AWBZ](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) worden aangewezen de vormen van zorg, bedoeld in de [artikelen 4 tot en met 6](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9, eerste en tweede lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [10](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), en [13, tweede lid, van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), met uitzondering van: 
+Als vormen van zorg als bedoeld in [artikel 9a, eerste lid, van de AWBZ](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) worden aangewezen de vormen van zorg, bedoeld in de [artikelen 4 tot en met 6](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9, eerste en tweede lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [10](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [13, tweede lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), en [34 van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), met uitzondering van: 
 
 a. de zorg, bedoeld in [artikel 5 van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), voor zover het betreft advies, instructie en voorlichting door een aan de instelling verbonden gespecialiseerde verpleegkundige ten behoeve van een niet in de instelling verblijvende verzekerde;  
 
-b. de zorg, bedoeld in [artikel 8 van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), voor zover het betreft consultatie van een aan de instelling verbonden verpleeghuisarts of arts voor verstandelijk gehandicapten ten behoeve van een niet in de instelling verblijvende verzekerde;  
+b. de zorg, bedoeld in [artikel 8 van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): 
 
-c. forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md).    
+1°. voor zover het betreft consultatie van een aan de instelling verbonden verpleeghuisarts of arts voor verstandelijk gehandicapten ten behoeve van een niet in de instelling verblijvende verzekerde, of  
+
+2°. die in verband met een zintuiglijke handicap wordt verleend;    
+
+c. de zorg, bedoeld in [artikel 9](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of [13, tweede lid, van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), voor zover het meer zorg betreft dan is begrepen in het voor de zorgdrager geïndiceerde zwaartepakket;  
+
+d. forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md).    
 
 ### Artikel  3  
 
@@ -96,7 +104,7 @@ Het onderzoek wordt verricht door personen dan wel organisaties die over voldoen
 
 ### Artikel  9  
 
-1.  Indien uit de aanvraag blijkt dat de zorgvrager langdurig verblijf of langdurige intensieve zorg thuis wenst, dan wel na het indienen van de aanvraag blijkt dat redelijkerwijs te verwachten is dat een indicatiebesluit zal worden genomen, waaruit blijkt dat een zorgvrager voor zodanig verblijf of zodanige zorg in aanmerking komt, wordt de aanvraag onderzocht door een team van deskundigen.   
+1.  Indien uit de aanvraag blijkt dat de zorgvrager die jonger is dan tachtig jaar langdurig verblijf of langdurige intensieve zorg thuis wenst, dan wel na het indienen van de aanvraag blijkt dat redelijkerwijs te verwachten is dat een indicatiebesluit zal worden genomen, waaruit blijkt dat een zorgvrager die jonger is dan tachtig jaar voor zodanig verblijf of zodanige zorg in aanmerking komt, wordt de aanvraag onderzocht door een team van deskundigen.   
 2.  In een team als bedoeld in het eerste lid is, voor zover dat voor de beoordeling van de aanvraag van belang kan zijn, deskundigheid aanwezig op de terreinen van de zorg, bedoeld in artikel 2, alsmede op de terreinen van woningaanpassing en voorzieningen die op grond van de [Wet maatschappelijke ondersteuning](../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) verstrekt kunnen worden.   
 
 ### Paragraaf  5  
@@ -133,7 +141,7 @@ b. de aandoening, beperking of handicap als gevolg waarvan de zorgvrager op het 
 
 c. het bij de zorgvrager best passende cliëntprofiel, en  
 
-d. de omvang van de samenhangende zorg.     
+d. het daarbij behorende zorgzwaartepakket.     
 3.  In het indicatiebesluit wordt aangegeven met ingang van welke datum de zorgvrager op de geïndiceerde vorm van zorg of vormen van zorg is aangewezen.   
 4.  Indien een indicatieorgaan van mening is dat andere professionele zorg dan de zorg, bedoeld in artikel 2, noodzakelijk, dan wel mede noodzakelijk is, geeft het indicatieorgaan daarover zo mogelijk advies.   
 

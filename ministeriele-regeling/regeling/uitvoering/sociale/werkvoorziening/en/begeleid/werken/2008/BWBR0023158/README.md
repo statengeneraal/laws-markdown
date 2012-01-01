@@ -70,7 +70,7 @@ e. uit zijn houding en gedragingen ondubbelzinnig blijkt dat hij niet bereid is 
 
 ####Garantiestelling
 
-1.  Het percentage, bedoeld in [artikel 16, zesde lid, van het besluit](../../../../../../../../../../AMvB/besluit/uitvoering/sociale/werkvoorziening/en/begeleid/werken/BWBR0017240/README.md), bedraagt 95 voor het jaar 2011.   
+1.  Het percentage, bedoeld in [artikel 16, zesde lid, van het besluit](../../../../../../../../../../AMvB/besluit/uitvoering/sociale/werkvoorziening/en/begeleid/werken/BWBR0017240/README.md), bedraagt 94 voor het jaar 2012.   
 2.  Het totaal aantal arbeidsjaren, bedoeld in factor D in [artikel 16, eerste lid, van het besluit](../../../../../../../../../../AMvB/besluit/uitvoering/sociale/werkvoorziening/en/begeleid/werken/BWBR0017240/README.md), bedraagt: 
 
 – voor het jaar 2008 3.826,66;  
@@ -79,7 +79,9 @@ e. uit zijn houding en gedragingen ondubbelzinnig blijkt dat hij niet bereid is 
 
 – voor het jaar 2010 745,02;  
 
-– voor het jaar 2011 623,13.     
+– voor het jaar 2011 623,13;  
+
+– voor het jaar 2012 275,82.     
 
 ### Artikel  6  
 

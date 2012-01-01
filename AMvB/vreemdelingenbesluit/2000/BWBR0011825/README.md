@@ -36,7 +36,7 @@ e. minderjarigheid: hetgeen daaronder wordt verstaan in [artikel 233 van Boek 1 
 
 f.  vervallen;   
 
-g. Schengengebied: het grondgebied van de landen waarop de Schengengrenscode en de Schengen Uitvoeringsovereenkomst van toepassing zijn;  
+g. Schengengebied: het grondgebied van de staten waarop de Schengengrenscode en de Schengen Uitvoeringsovereenkomst van toepassing zijn;  
 
 h. Schengen Informatiesysteem: het in titel IV van de Schengen Uitvoeringsovereenkomst bedoelde gemeenschappelijke informatiesysteem;  
 
@@ -70,20 +70,15 @@ v. *Europese blauwe kaart:* de verblijfsvergunning voor bepaalde tijd, bedoeld i
 
 ### Artikel  1.2  
 
-1.  In dit besluit wordt verstaan onder reisvisum: 
+In dit besluit wordt verstaan onder: 
 
-a. een visum, verleend door de bevoegde autoriteiten van één van de staten, die partij zijn bij een verdrag waarbij de grenscontrole is verlegd naar buitengrenzen, geldig voor het gehele of een gedeelte van het grondgebied van de bij dat verdrag aangesloten staten waarover de werking van dat verdrag zich uitstrekt, hetwelk krachtens dat verdrag kan worden afgegeven voor een verblijf van ten hoogste drie maanden, en  
+a. *reisvisum:* het visum, bedoeld in artikel 2, punt 2, onder a, van de Verordening nr. 810/2009/EG van het Europees Parlement en de Raad van 13 juli 2009 tot vaststelling van een gemeenschappelijke Visumcode (Visumcode) (PbEU, L 243);  
 
-b. voorzover bij of krachtens dit besluit niet anders is bepaald; een visumverklaring, afgegeven krachtens het onder a bedoelde verdrag.     
-2.  In dit besluit wordt verstaan onder doorreisvisum: 
-
-a. een visum, verleend door de bevoegde autoriteiten van één van de staten, die partij zijn bij een verdrag waarbij de grenscontrole is verlegd naar buitengrenzen, hetwelk overeenkomstig het bepaalde onder «reisvisum» kan worden afgegeven voor een doorreis al dan niet met een oponthoud van ten hoogste vijf dagen, en  
-
-b. voorzover bij of krachtens dit besluit niet anders is bepaald: doorreisvisumverklaring, afgegeven krachtens het onder «reisvisum» bedoelde verdrag.     
+b. *doorreisvisum:* het visum, bedoeld in artikel 2, punt 2, onder b, van de Visumcode.    
 
 ### Artikel  1.3  
 
-Ter uitvoering van een verdrag waarbij de grenscontrole is verlegd naar buitengrenzen, wordt in hoofdstuk 4, afdeling 1, de artikelen 4.24 en 4.25, alsmede in artikel 4.29, eerste lid, onderdeel i, onder «Nederland» mede verstaan het grondgebied van andere bij dat verdrag aangesloten landen waarover de werking van dat verdrag zich uitstrekt.  
+Ter uitvoering van een verdrag of een EU-verordening, -richtlijn of -besluit, op grond waarvan de grenscontrole plaatsvindt aan de buitengrenzen van het Schengengebied, wordt in hoofdstuk 4, afdeling 1, alsmede in de artikelen 4.24 en 4.25, artikel 4.29, eerste lid, onder i, artikel 4.35a, artikel 4.52a, eerste lid, artikel 4.52b, eerste lid, artikel 6.5a, vierde lid, onder d, en artikel 6.5b, eerste en tweede lid, onder «Nederland» mede verstaan: de tot het Schengengebied behorende grondgebieden van andere staten.  
 
 ### Artikel  1.4  
 
@@ -133,6 +128,11 @@ De commissie kan haar werkwijze nader vaststellen in een reglement van orde als 
 a. houder of voormalig houder van een door Onze Minister afgegeven Europese blauwe kaart;  
 
 b. gezinslid van een vreemdeling als bedoeld in onderdeel a, voor zover dat gezinslid houder is of is geweest van een door Onze Minister afgegeven verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met gezinshereniging of gezinsvorming met die vreemdeling.     
+
+### Artikel  2.1b  
+
+1.  De toegang wordt niet geweigerd indien de vreemdeling van een andere staat als bedoeld in artikel 1.3 het bevel heeft gekregen onmiddellijk naar Nederland terug te keren, en hij op dat moment rechtmatig verblijf als bedoeld in [artikel 8 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) had.   
+2.  De toegang wordt evenmin geweigerd indien Nederland op grond van een op 13 januari 2009 geldende bilaterale of multilaterale overeenkomst of regeling een vreemdeling van een andere staat als bedoeld in artikel 1.3 moet terugnemen en die vreemdeling in die andere staat verblijft zonder verblijfstitel of andere toestemming tot verblijf. In dat geval geeft Onze Minister aan die vreemdeling de kennisgeving, bedoeld in [artikel 62a, eerste lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), tenzij de vreemdeling rechtmatig verblijf heeft als bedoeld in [artikel 8, onder a tot en met e, of l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 
 ### Artikel  2.2  
 
@@ -359,9 +359,11 @@ b. voor houders van een doorreisvisum met bevoegdheid tot oponthoud of van een r
 
 c. voor vreemdelingen die voor een verblijf van niet langer dan drie maanden naar Nederland zijn gekomen: drie maanden of, in geval van verlenging door Onze Minister van de termijn wegens bijzondere omstandigheden, zes maanden;  
 
-d. voor de houder van een EG-verblijfsvergunning voor langdurig ingezetenen die is afgegeven door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie, dan wel voor de echtgenoot of het minderjarig kind van die houder in geval het gezin reeds was gevormd in die staat: drie maanden;  
+d. voor houders van een visum voor verblijf van langere duur of een verblijfstitel als bedoeld in artikel 18, eerste lid, onderscheidenlijk artikel 21, eerste lid, van de Schengen Uitvoeringsovereenkomst: drie maanden of, in geval van verlenging door Onze Minister van de termijn wegens bijzondere omstandigheden, zes maanden;  
 
-e. voor andere vreemdelingen: acht dagen.     
+e. voor de houder van een EG-verblijfsvergunning voor langdurig ingezetenen die is afgegeven door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie, dan wel voor de echtgenoot of het minderjarig kind van die houder in geval het gezin reeds was gevormd in die staat: drie maanden;  
+
+f. voor andere vreemdelingen: acht dagen.     
 2.  De in het eerste lid, onder b en c, bedoelde termijn verstrijkt in geen geval later dan op de achtste dag nadat zich omstandigheden hebben voorgedaan, waaruit kan worden afgeleid dat de vreemdeling het voornemen heeft langer dan drie maanden binnen een tijdvak van zes maanden in Nederland te verblijven.   
 3.  In afwijking van het tweede lid verstrijkt de termijn, bedoeld in het eerste lid, onderdeel c, in geval van verlenging wegens bijzondere omstandigheden, niet later dan op de achtste dag nadat zich feiten of omstandigheden hebben voorgedaan, waaruit kan worden afgeleid dat de vreemdeling het voornemen heeft langer dan zes maanden in Nederland te verblijven.   
 
@@ -1778,6 +1780,12 @@ De aanvraag wordt getoetst aan het recht dat gold op het tijdstip waarop de aanv
 4.  Indien Onze Minister beslist op een aanvraag tot het verlenen van een Europese blauwe kaart ten behoeve van een vreemdeling die door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie reeds in het bezit is gesteld van een Europese blauwe kaart, doet hij daarvan mededeling aan de autoriteiten van die andere staat.   
 5.  Onze Minister vormt het contactpunt dat door een staat als bedoeld in het eerste en vierde lid kan worden geraadpleegd, ter uitvoering van de in het eerste en vierde lid bedoelde richtlijn, en is verantwoordelijk voor het ontvangen en toezenden van de informatie, bedoeld in de voorgaande leden.   
 
+### Artikel  3.103b  
+
+1.  Indien Onze Minister een inreisverbod uitvaardigt, registreert Onze Minister dit inreisverbod in het Schengen Informatiesysteem.   
+2.  Indien Onze Minister overweegt een vreemdeling die houder is van een verblijfstitel of andere toestemming tot verblijf, afgegeven door een andere staat als bedoeld in artikel 1.3, uit te zetten naar de staat waarvan de vreemdeling de nationaliteit bezit of bij het ontbreken van een nationaliteit naar de staat van zijn vroegere verblijfplaats, wint Onze Minister de nodige informatie in bij de autoriteiten van die andere staat. Indien Onze Minister besluit de vreemdeling uit te zetten, verstrekt hij de autoriteiten van die andere staat alle nodige informatie met betrekking tot de uitzetting.   
+3.  Onze Minister vormt het contactpunt ter uitvoering van de Richtlijn 2008/115/EG van het Europees Parlement en de Raad van 16 december 2008 over gemeenschappelijke normen en procedures in de lidstaten voor de terugkeer van onderdanen van derde landen die illegaal op hun grondgebied verblijven (PbEU, L 348) en is verantwoordelijk voor het inwinnen en verstrekken van de informatie, bedoeld in het tweede lid.   
+
 ### Artikel  3.104  
 
 1.  De beschikking, waarbij de aanvraag tot het verlenen, het wijzigen of het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in [artikel 14](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [20 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), geheel of gedeeltelijk wordt ingewilligd, of waarbij de verblijfsvergunning ambtshalve wordt verleend of gewijzigd, wordt bekendgemaakt door uitreiking van het document, bedoeld in [artikel 9, eerste lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), waaruit het rechtmatig verblijf op grond van [artikel 8, onder a onderscheidenlijk onder b, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt.   
@@ -2348,9 +2356,11 @@ f. het beperken van de vrijheid van beweging overeenkomstig [artikel 56 van de W
 
 g. vertrek of uitzetting uit Nederland;  
 
-h. ongewenstverklaring, en  
+h. ongewenstverklaring;  
 
-i. de datum en plaats van inreis in Nederland.     
+i. de datum en plaats van inreis in Nederland, en  
+
+j. het inreisverbod.     
 2.  Elke doorhaling of vervallenverklaring van een in het reis- of identiteitspapier van een vreemdeling gestelde aantekening wordt door de ambtenaar die de doorhaling of vervallenverklaring verricht, gedateerd en van diens paraaf voorzien.   
 3.  In afwijking van het eerste lid, wordt een aantekening op een aan de vreemdeling te verstrekken afzonderlijk inlegblad gesteld, indien: 
 
@@ -2405,6 +2415,11 @@ d. een aantekening omtrent uitzetting, indien naar het oordeel van de korpschef 
 
 1.  De aantekening, bedoeld in artikel 4.29, eerste lid, onder h, wordt geplaatst, indien de korpschef of de bevelhebber van de Koninklijke marechaussee vermoedt dat de vreemdeling zal trachten naar Nederland terug te keren zonder te voldoen aan de vereisten voor toegang tot Nederland. De aantekening wordt niet gesteld indien het vertrek, de uitzetting of de doorreis van de vreemdeling door, of diens toelating tot een derde land daardoor wordt bemoeilijkt.   
 2.  Uit de aantekening blijkt de datum waarop de vreemdeling ongewenst is verklaard.   
+
+### Artikel  4.35a  
+
+1.  De aantekening, bedoeld in artikel 4.29, eerste lid, onder j, wordt geplaatst, indien de korpschef of de bevelhebber van de Koninklijke marechaussee vermoedt dat de vreemdeling zal trachten naar Nederland terug te keren zonder te voldoen aan de vereisten voor toegang tot Nederland. De aantekening wordt niet gesteld indien het vertrek, de uitzetting of de doorreis van de vreemdeling door, of diens toegang tot een derde land, niet zijnde een andere staat als bedoeld in artikel 1.3, daardoor wordt bemoeilijkt.   
+2.  Uit de aantekening blijken de duur van het inreisverbod en de datum waarop het is uitgevaardigd.   
 
 ### Artikel  4.36  
 
@@ -2562,7 +2577,7 @@ b. rechtmatig verblijft als bedoeld in [artikel 8, onder f, g of h, van de Wet](
 
 ### Paragraaf  7  
 
-####Documenten
+####Documenten en het stellen van zekerheid
 
 ### Artikel  4.52  
 
@@ -2572,6 +2587,39 @@ a. zodra hij niet meer rechtmatig verblijft, doch uiterlijk op het moment waarop
 
 b. vóór zijn vertrek naar het buitenland, indien hij zijn hoofdverblijf buiten Nederland verplaatst.     
 2.  De persoon die het Nederlanderschap heeft verkregen levert het document, bedoeld in [artikel 9 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in bij de korpschef van het regionale politiekorps waarin de gemeente waar hij zijn woon- of verblijfsplaats heeft is gelegen.   
+
+### Artikel  4.52a  
+
+1.  De ambtenaar belast met de grensbewaking of het toezicht op vreemdelingen kan van de vreemdeling die Nederland ingevolge [artikel 62, eerste lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) uit eigen beweging binnen vier weken moet verlaten zekerheid verlangen, teneinde het risico te beperken dat de vreemdeling zich zal onttrekken aan het toezicht.   
+2.  De zekerheid, bedoeld in het eerste lid, kan ook worden verlangd in geval van uitstel van vertrek of uitzetting: 
+
+a. op grond dat het vertrek of de uitzetting in strijd zou zijn met het beginsel van non-refoulement;  
+
+b. zolang de vreemdeling rechtmatig verblijf heeft als bedoeld in [artikel 8, onder h of j, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md); of  
+
+c. wegens technische redenen, zoals het ontbreken van vervoermiddelen of het mislukken van het vertrek of de uitzetting wegens onvoldoende identificatie.     
+3.  De zekerheid, bedoeld in het eerste lid, kan bestaan uit: 
+
+a. de overlegging van een reis- of identiteitsdocument;  
+
+b. de overlegging van een passagebiljet;  
+
+c. het deponeren van een waarborgsom;  
+
+d. een verklaring van een solvabele derde die zich voor de kosten garant stelt;  
+
+e. de overlegging van bewijs van het voldoende verzekerd zijn tegen ziektekosten met inbegrip van opname en verpleging in een sanatorium of psychiatrische inrichting.     
+3.  Het model van de garantverklaring wordt bij ministeriële regeling vastgesteld.   
+
+### Artikel  4.52b  
+
+1.  De waarborgsom, bedoeld in artikel 4.52a, derde lid, onder c, wordt door Onze Minister in ieder geval aan de rechthebbende teruggegeven: 
+
+a. zodra de vreemdeling, bedoeld in artikel 4.52a, eerste lid, binnen de voor hem geldende vertrektermijn uit eigen beweging Nederland heeft verlaten zonder zich tussentijds aan het toezicht te hebben onttrokken; dan wel  
+
+b. zodra de vreemdeling na uitstel van het vertrek of de uitzetting, bedoeld in artikel 4.52a, tweede lid, Nederland heeft verlaten of is uitgezet zonder zich tussentijds aan het toezicht te hebben onttrokken.     
+2.  Onze Minister berekent rente over de waarborgsommen, gedeponeerd krachtens artikel 4.52a, derde lid, onder c. Artikel 3.9, tweede lid, en artikel 3.10, tweede lid zijn van overeenkomstige toepassing.   
+3.  De waarborgsom wordt teruggegeven en de rente wordt uitbetaald zo spoedig mogelijk nadat één van de in het eerste lid genoemde gronden zich voordoet.   
 
 ### Paragraaf  8  
 
@@ -2618,6 +2666,46 @@ b. een verplichting zich te houden aan een verbod om zich in een bepaald gedeelt
 
 ####Vrijheidsontnemende maatregelen
 
+### Artikel  5.1a  
+
+1.  De vreemdeling die geen rechtmatig verblijf heeft, kan in bewaring worden gesteld op grond dat het belang van de openbare orde of nationale veiligheid zulks vordert, indien: 
+
+a. een risico bestaat dat de vreemdeling zich aan het toezicht zal onttrekken, of  
+
+b. de vreemdeling de voorbereiding van het vertrek of de uitzettingsprocedure ontwijkt of belemmert.     
+2.  De vreemdeling kan eveneens in bewaring worden gesteld op grond dat de het belang van de openbare orde of de nationale veiligheid zulks vordert, indien een concreet aanknopingspunt bestaat voor een overdracht als bedoeld in de Verordening (EG) nr. 343/2003 van de Raad van de Europese Unie van 18 februari 2003 tot vaststelling van de criteria en instrumenten om te bepalen welke lidstaat verantwoordelijk is voor de behandeling van een asielverzoek dat door een onderdaan van een derde land bij een van de lidstaten wordt ingediend (PbEU, L 50).   
+
+### Artikel  5.1b  
+
+1.  Aan de voorwaarden voor inbewaringstelling, bedoeld in artikel 5.1a, eerste lid, wordt voldaan indien de vreemdeling: 
+
+a. Nederland niet op de voorgeschreven wijze is binnengekomen en zich in strijd met de vreemdelingenwetgeving gedurende enige tijd aan het toezicht op vreemdelingen heeft onttrokken;  
+
+b. zich niet aan een of meer andere voor hem geldende verplichtingen van hoofdstuk 4 heeft gehouden;  
+
+c. eerder een visum, besluit, kennisgeving of aanzegging heeft ontvangen waaruit de plicht Nederland te verlaten blijkt en hij daaraan niet uit eigen beweging binnen de daarin besloten of gestelde termijn gevolg heeft gegeven;  
+
+d. niet dan wel niet voldoende meewerkt aan het vaststellen van zijn identiteit en nationaliteit;  
+
+e. meerdere aanvragen tot het verlenen van een verblijfsvergunning heeft ingediend die niet tot verlening van een verblijfsvergunning hebben geleid;  
+
+f. in verband met zijn aanvraag om toelating onjuiste of tegenstrijdige gegevens heeft verstrekt met betrekking tot zijn identiteit, nationaliteit of de reis naar Nederland of een andere lidstaat;  
+
+g. zich zonder noodzaak heeft ontdaan van zijn reis- of identiteitsdocumenten;  
+
+h. in het Nederlandse rechtsverkeer gebruik heeft gemaakt van valse of vervalste documenten;  
+
+i. geen vaste woon- of verblijfplaats heeft;  
+
+j. niet beschikt over voldoende middelen van bestaan;  
+
+k. arbeid heeft verricht in strijd met de [Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md);  
+
+l. verdachte is van enig misdrijf dan wel daarvoor is veroordeeld; of  
+
+m. tot ongewenst vreemdeling is verklaard als bedoeld in [artikel 67 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Wet.     
+2.  Aan de voorwaarden voor inbewaringstelling, bedoeld in artikel 5.1a, eerste lid, wordt niet voldaan indien slechts één van de feiten of omstandigheden, bedoeld in het eerste lid, van toepassing is.   
+
 ### Artikel  5.2  
 
 1.  Voordat de vreemdeling op grond van [artikel 59 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in bewaring wordt gesteld, wordt hij gehoord.   
@@ -2658,15 +2746,27 @@ Overeenkomstig door Onze Minister te geven algemene en bijzondere aanwijzingen s
 
 ### Hoofdstuk  6  
 
-####Vertrek, uitzetting en ongewenstverklaring
+####Vertrek, uitzetting, inreisverbod en ongewenstverklaring
 
 ### Afdeling  1  
 
-####Uitzetting
+####Vertrek en uitzetting
 
 ### Artikel  6.1  
 
-Onze Minister is bevoegd om, bij de uitoefening van zijn bevoegdheid tot uitzetting als bedoeld in [artikel 63, tweede lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) alle daartoe benodigde handelingen te verrichten.  
+1.  Een risico als bedoeld in [artikel 62, tweede lid, onder a, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan worden aangenomen indien feiten of omstandigheden als bedoeld in artikel 5.1b, eerste lid, op de vreemdeling van toepassing zijn.   
+2.  Artikel 5.1b, tweede lid, is van overeenkomstige toepassing.   
+
+### Artikel  6.1a  
+
+1.  Onze Minister is bevoegd om, bij de uitoefening van zijn bevoegdheid tot uitzetting als bedoeld in [artikel 63, tweede lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) alle daartoe benodigde handelingen te verrichten.   
+2.  Bij toepassing van het eerste lid worden de grondrechten, de waardigheid en fysieke integriteit van de vreemdeling geëerbiedigd.   
+3.  In geval van uitzetting door de lucht houdt Onze Minister rekening met de gemeenschappelijke richtsnoeren voor veiligheidsvoorzieningen voor gezamenlijke verwijdering door de lucht, bedoeld in artikel 7 van de beschikking van de Raad van de Europese Unie van 29 april 2004, nr. 2004/573/EG (PbEU, L 261).   
+
+### Artikel  6.1b  
+
+1.  Ingeval de vreemdeling ingevolge [artikel 62, tweede lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onmiddellijk moet vertrekken of niet is vertrokken binnen de voor hem geldende vertrektermijn, kan de uitzetting worden uitgesteld. Bij het uitstel wordt in ieder geval rekening gehouden met de fysieke of mentale gesteldheid van de vreemdeling en technische redenen, zoals het ontbreken van vervoermiddelen of het mislukken van de uitzetting wegens onvoldoende identificatie.   
+2.  Ingeval de uitzetting wordt uitgesteld op grond van het eerste lid, is artikel 4.52a van overeenkomstige toepassing, onverminderd het overigens krachtens de [artikelen 54](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [56 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) bepaalde.   
 
 ### Afdeling  2  
 
@@ -2693,6 +2793,76 @@ c. het verblijf van de vreemdeling in Nederland in de periode nadat de vervoerso
 2.  De in het voorgaande lid bedoelde kosten van uitzetting omvatten de kosten, genoemd in artikel 6.3, tweede lid, onder a en b.   
 
 ### Afdeling  3  
+
+####Inreisverbod
+
+### Artikel  6.5  
+
+1.  Tegen een vreemdeling wordt geen inreisverbod uitgevaardigd, indien een redelijke termijn als bedoeld in artikel 3.82 nog niet is verstreken na afloop van het rechtmatig verblijf, bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of als Nederlander.   
+2.  Tegen een vreemdeling wordt geen inreisverbod uitgevaardigd, indien deze: 
+
+a. als slachtoffer of getuige in aanmerking komt voor bedenktijd voor de aangifte van mensenhandel of mensensmokkel;  
+
+b. als slachtoffer- of getuige-aangever in aanmerking komt voor een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+
+c. als slachtoffer van huiselijk geweld van de persoon bij wie eerder verblijf als bedoeld in [artikel 8, onder a, c dan wel e of l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) was toegestaan of als slachtoffer van eergerelateerd geweld in aanmerking komt voor een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+
+d. als echtgenoot of minderjarig kind in het land van herkomst is achtergelaten door de persoon bij wie eerder rechtmatig verblijf als bedoeld in [artikel 8, onder a, c dan wel e, of l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) was toegestaan, en op die grond in aanmerking komt voor de verlening van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+
+e. in aanmerking komt voor een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) op grond dat hij buiten zijn schuld niet uit Nederland kan vertrekken;  
+
+f. minderjarig is; of  
+
+g. in aanmerking komt voor een verblijfsvergunning op grond van Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, of niet wordt uitgezet om reden dat diens uitzetting in strijd zou zijn met de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1964, 217), het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij die overeenkomst (Trb. 1971, 70) of genoemd Besluit nr. 1/80.     
+3.  Het inreisverbod wordt opgeheven, indien zich een van de gevallen, bedoeld in het tweede lid, voordoet.   
+4.  Van het eerste tot en met derde lid kan worden afgeweken ingeval de vreemdeling een gevaar vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid.   
+5.  Bij regeling van Onze Minister kunnen andere gevallen worden aangewezen waarin het inreisverbod om humanitaire of andere redenen achterwege wordt gelaten dan wel wordt opgeheven.   
+
+### Artikel  6.5a  
+
+1.  De duur van het inreisverbod bedraagt ten hoogste twee jaren.   
+2.  In afwijking van het eerste lid, bedraagt de duur van het inreisverbod ten hoogste één jaar, indien het betreft de vreemdeling die de vrije termijn, bedoeld in artikel 3.3, heeft overschreden met meer dan drie dagen maar niet meer dan drie maanden.   
+3.  In afwijking van het eerste en tweede lid, bedraagt de duur van het inreisverbod ten hoogste drie jaren, indien het betreft een vreemdeling die is veroordeeld tot een vrijheidsstraf van minder dan zes maanden.   
+4.  In afwijking van het eerste tot en met derde lid, bedraagt de duur van het inreisverbod ten hoogste vijf jaren, indien het betreft een vreemdeling die: 
+
+a. is veroordeeld tot een vrijheidsstraf van zes maanden of langer;  
+
+b. gebruik heeft gemaakt van valse of vervalste reis- of identiteitspapieren dan wel opzettelijk reis- of identiteitspapieren heeft overgelegd die niet op hem betrekking hebben;  
+
+c. reeds het onderwerp is geweest van meer dan één terugkeerbesluit, of  
+
+d. zich op het grondgebied van Nederland heeft begeven terwijl een inreisverbod van kracht was.     
+5.  In afwijking van het eerste tot en met vierde lid, bedraagt de duur van het inreisverbod ten hoogste tien jaren, indien het betreft een vreemdeling die een ernstige bedreiging vormt voor de openbare orde of de openbare veiligheid. Deze ernstige bedreiging kan blijken uit onder meer: 
+
+a. een veroordeling naar aanleiding van een geweldsdelict of opiumdelict;  
+
+b. een veroordeling tot een vrijheidsstraf wegens een misdrijf waartegen een gevangenisstraf van meer dan zes jaren is bedreigd;  
+
+c. de omstandigheid dat hem artikel 1F van het Vluchtelingenverdrag wordt tegengeworpen, of  
+
+d. de oplegging van een maatregel als bedoeld in [artikel 37a van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).     
+6.  In afwijking van het eerste tot en met vijfde lid, bedraagt de duur van het inreisverbod ten hoogste twintig jaren, indien de vreemdeling naar het oordeel van Onze Minister een ernstige bedreiging vormt voor de nationale veiligheid of indien naar zijn oordeel zwaarwegende belangen nopen tot een duur van meer dan tien jaren.   
+
+### Artikel  6.5b  
+
+1.  Onze Minister kan op aanvraag het inreisverbod dat is uitgevaardigd met toepassing van [artikel 66a, tweede lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), opheffen indien de vreemdeling aantoont Nederland geheel in overeenstemming met de op hem rustende verplichting, bedoeld in [artikel 61, eerste lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), te hebben verlaten.   
+2.  In andere gevallen dan bedoeld in het eerste lid, kan Onze Minister op aanvraag het inreisverbod opheffen, indien de vreemdeling aantoont dat hij sinds zijn vertrek uit Nederland na het inreisverbod een ononderbroken periode van ten minste de helft van de duur van het inreisverbod buiten Nederland heeft verbleven en hij zich in die periode niet schuldig heeft gemaakt aan misdrijven en dat hij niet aan strafvervolging onderworpen is.   
+3.  De gegevens, bedoeld in [artikel 4:2, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), die de vreemdeling bij de aanvraag, bedoeld in het tweede lid, verstrekt, zijn in ieder geval: 
+
+a. een schriftelijke verklaring dat hij voldoet aan de in het tweede lid bedoelde voorwaarden voor opheffing van het inreisverbod;  
+
+b. een kopie van de documenten voor grensoverschrijding die de vreemdeling sinds zijn inreisverbod heeft gehouden;  
+
+c. een overzicht van de plaatsen waar de vreemdeling sinds zijn inreisverbod heeft verbleven, voorzien van bewijsstukken;  
+
+d. een schriftelijke verklaring, afgegeven door de daartoe bevoegde autoriteiten van de staat of staten waar de vreemdeling sinds zijn inreisverbod heeft verbleven, dat de vreemdeling zich tijdens dat verblijf niet schuldig heeft gemaakt aan misdrijven en niet aan strafvervolging onderworpen is.     
+4.  Het derde lid, onderdeel d, is niet van toepassing op de vreemdeling ten aanzien wie van de duur van het inreisverbod is bepaald met toepassing van artikel 6.5a, eerste of tweede lid.   
+
+### Artikel  6.5c  
+
+In zeer uitzonderlijke en dringende gevallen kan Onze Minister het inreisverbod tijdelijk opheffen. Aan de tijdelijke opheffing worden voorwaarden gesteld omtrent de plaats van binnenkomst en de duur van het verblijf in Nederland.  
+
+### Afdeling  4  
 
 ####Ongewenstverklaring
 
@@ -2949,7 +3119,7 @@ b. indien hij na werkzaamheden als werknemer of zelfstandige van ten minste een 
 c. gedurende een periode van ten minste zes maanden, nadat hij onvrijwillige werkloos is geworden door de afloop van een arbeidsovereenkomst korter dan een jaar, dan wel nadat hij gedurende de eerste twaalf maanden onvrijwillig werkloos geworden is, indien hij als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen is ingeschreven;  
 
 d. indien hij een beroepsopleiding gaat volgen, die, behoudens ingeval van onvrijwillige werkloosheid, verband houdt met de voorafgaande beroepsactiviteit.     
-3.  Voor de toepassing van het eerste lid, onder b, beschikt de vreemdeling met een inkomen ter hoogte van het normbedrag dat in artikel 3.74 of ingevolge de [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) voor de desbetreffende categorie is vastgesteld, in ieder geval over voldoende middelen van bestaan.   
+3.  Voor de toepassing van het eerste lid, onder b, beschikt de vreemdeling met een inkomen ter hoogte van het normbedrag dat in artikel 3.74 voor de desbetreffende categorie is vastgesteld, in ieder geval over voldoende middelen van bestaan.   
 4.  De vreemdeling, bedoeld in het eerste lid, meldt zich uiterlijk binnen een maand na afloop van de in artikel 8.11, eerste lid, bedoelde periode aan bij Onze Minister ter inschrijving in de vreemdelingenadministratie in geval hij beoogt langer dan drie maanden in Nederland te verblijven.   
 5.  Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de gegevens en bescheiden die de vreemdeling bij de in het vorige lid bedoelde melding moet verstrekken of overleggen.   
 6.  Onze Minister verstrekt na de in het vierde lid bedoelde inschrijving onmiddellijk een verklaring van inschrijving, waarin naam en adres van de ingeschreven vreemdeling en de datum van inschrijving worden vermeld.   
@@ -3020,7 +3190,7 @@ a. werknemer of zelfstandige is;
 b. voor zichzelf en zijn familieleden beschikt over voldoende middelen van bestaan om te voorkomen dat zij tijdens hun verblijf in Nederland ten laste komen van de algemene middelen, en beschikt over een verzekering die de ziektekosten in Nederland volledig dekt; of  
 
 c. gezinslid is van het reeds in Nederland gevormde gezin van een persoon die voldoet aan de voorwaarden, bedoeld onder a of b.     
-6.  Voor de toepassing van het vijfde lid, onder b, beschikt de vreemdeling met een inkomen ter hoogte van het normbedrag dat in artikel 3.74 of ingevolge de [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) voor de desbetreffende categorie is vastgesteld, in ieder geval over voldoende middelen van bestaan.   
+6.  Voor de toepassing van het vijfde lid, onder b, beschikt de vreemdeling met een inkomen ter hoogte van het normbedrag dat in artikel 3.74 voor de desbetreffende categorie is vastgesteld, in ieder geval over voldoende middelen van bestaan.   
 
 ### Artikel  8.16  
 

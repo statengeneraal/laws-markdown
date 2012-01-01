@@ -26,7 +26,7 @@ a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 b. betrokkene: 
 
-1e. de ambtenaar in vaste dienst, die op basis van het [Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), het [Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) of het [Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) in burgerlijke rijksdienst werkzaam is of is geweest en die ten gevolge van een ontslag, met uitzondering van een ontslag op grond van de artikelen [81, eerste lid, onder l](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [94a, eerste lid](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), en [97, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), de [artikelen 116, eerste lid, onderdeel l](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), en [124a, eerste lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), of de [artikelen 91](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en [101, dertiende en veertiende lid, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), werkloos is geworden in de zin van de [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+1e. de ambtenaar in vaste dienst, die op basis van het [Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), het [Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) of het [Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) in burgerlijke rijksdienst werkzaam is of is geweest en die ten gevolge van een ontslag, met uitzondering van een ontslag op grond van de artikelen [81, eerste lid, onder l](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [94a, eerste lid](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), en [97, tweede en derde lid](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [130c](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [130d, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), de [artikelen 116, eerste lid, onderdeel l](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), en [124a, eerste lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), of [artikel 87, eerste lid, onder l, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), werkloos is geworden in de zin van de [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
 
 2e. de ambtenaar in vaste dienst die is aangesteld op basis van het [Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), het [Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) of het [Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en die tengevolge van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte werkloos is geworden in de zin van de [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);    
 
@@ -71,17 +71,8 @@ p. werkloosheidsuitkering: een uitkering in de zin van de [Werkloosheidswet](../
 
 ### Artikel  2  
 
-####Berekeningswijze duur van de bovenwettelijke uitkering
-
-1.  Met ingang van de dag waarop het ontslag ingaat wordt de duur van de uitkering vastgesteld op drie maanden, vermeerderd voor betrokkene: 
-
-a. die op de dag van ontslag de leeftijd van 21 jaar nog niet heeft bereikt met een periode gelijk aan 18% van de diensttijd;  
-
-b. die op de dag van ontslag 21 jaar oud is met een duur van 19,5% van de diensttijd en zo vervolgens per leeftijdsjaar opklimmend met 1,5%;  
-
-c. die op de dag van ontslag 60 jaar of ouder is, met een duur gelijk aan 78% van de diensttijd.     
-2.  Onverminderd het bepaalde in het eerste lid, is de duur van de uitkering in ieder geval gelijk aan de periode gedurende welke recht op een werkloosheidsuitkering bestaat.   
-3.  De duur van de uitkering van betrokkene die ten tijde van het ontslag 55 jaar of ouder is en een diensttijd, voor zover geldig voor pensioen, van tenminste tien jaar heeft volbracht, wordt na afloop van de termijn, welke op basis van het eerste lid is toegekend, verlengd tot de eerste dag van de kalendermaand volgend op die waarin hij de leeftijd van 65 jaar heeft bereikt.   
+1.  De uitkeringsduur van de bovenwettelijke uitkering bedraagt drie maal de uitkeringsduur zoals vastgesteld op grond van [hoofdstuk 2, paragraaf 4, van de Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
+2.  De duur van de uitkering van betrokkene die ten tijde van het ontslag 57 jaar of ouder is en een diensttijd, voor zover geldig voor pensioen, van ten minste tien jaar heeft volbracht, wordt na afloop van de termijn, voor welke die uitkering op basis van het eerste lid is toegekend, verlengd tot de eerste dag van de kalendermaand waarin hij de leeftijd van 65 jaar bereikt.   
 
 ### Hoofdstuk  2  
 
@@ -115,9 +106,9 @@ c. die op de dag van ontslag 60 jaar of ouder is, met een duur gelijk aan 78% va
 
 a. in verband met haar zwangerschap en bevalling gedurende ten minste 16 weken aangevuld tot 100% van het voor haar geldende dagloon, en wel voor de periode 
 
-1°. die aanvangt zes weken voor de vermoedelijke datum van bevalling, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Indien de betrokkene dat wenst, vangt het recht op uitkering in verband met zwangerschap aan op een later tijdstip, doch uiterlijk vier weken voor de dag na de vermoedelijk datum van bevalling; en  
+1°. die aanvangt zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Indien de betrokkene dat wenst, vangt het recht op uitkering in verband met zwangerschap aan op een later tijdstip, doch uiterlijk vier weken voor de dag na de vermoedelijk datum van bevalling; en  
 
-2°. die aanvangt op de dag na de bevalling en bedraagt tien aaneengesloten weken of zoveel meer als het aantal dagen dat de uitkering in verband met zwangerschap minder dan zes weken heeft geduurd; of    
+2°. Het bevallingsverlof gaat in op de dag na de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen;    
 
 b. in verband met adoptie gedurende ten hoogste vier aaneengesloten weken vanaf twee weken vóór de eerste dag dat de feitelijke opneming ter adoptie een aanvang heeft genomen of zal nemen, aangevuld tot 100% van het voor betrokkene geldende dagloon; of  
 
@@ -144,7 +135,7 @@ Indien ten aanzien van de uitkering die betrokkene krachtens de [Werkloosheidswe
 1.  Indien op het moment van ontslag de duur van de uitkering berekend op basis van artikel 2 van dit besluit langer is dan de duur van de uitkering berekend op basis van de [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), heeft betrokkene, die het einde van de uitkeringsduur krachtens de [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) heeft bereikt, met ingang van dat moment recht op een aansluitende uitkering, met dien verstande dat de verloren arbeidsuren waarvoor hij geen betrokkene is geen aanspraak geven op een uitkering krachtens dit besluit.   
 2.  Op de aansluitende uitkering zijn [hoofdstuk II, paragrafen 1 tot en met 3](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), en de [artikelen 75](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [76](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [76a](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [77a](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [78 van de Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) van overeenkomstige toepassing.   
 3.  In afwijking van het tweede lid zijn de [artikelen 19, eerste lid, onderdelen a, b, c en h](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), en [20, eerste lid, onderdeel e, van de Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), niet van overeenkomstige toepassing op de aansluitende uitkering, bedoeld in het eerste en tweede lid.   
-4.  Het recht op aansluitende uitkering eindigt na ommekomst van de duur van de aansluitende uitkering, maar uiterlijk op de eerste dag van de kalendermaand volgend op die waarin de betrokkene de leeftijd van 65 jaar heeft bereikt.   
+4.  Het recht op aansluitende uitkering eindigt na ommekomst van de duur van de aansluitende uitkering, maar uiterlijk op de eerste dag van de kalendermaand waarin betrokkene de leeftijd van 65 jaar bereikt.   
 
 ### Artikel  9  
 
@@ -155,8 +146,7 @@ De duur van de aansluitende uitkering is de op het moment van ontslag berekende 
 ####De hoogte van de aansluitende uitkering
 
 1.  De aansluitende uitkering bedraagt 70% van het voor betrokkene geldende dagloon.   
-2.  In afwijking van het bepaalde in het eerste lid bedraagt de aansluitende uitkering van de betrokkene die ten tijde van het ontslag de leeftijd van 55 jaar nog niet had bereikt, in de laatste twee jaar voor ommekomst van de aansluitende uitkering, 75% van het minimumloon dat voor betrokkene zou gelden, doch ten hoogste 70% van het dagloon.   
-3.  Ten aanzien van de hoogte van de aansluitende uitkering is [artikel 47, tweede en derde lid, van de Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) van overeenkomstige toepassing.   
+2.  Ten aanzien van de hoogte van de aansluitende uitkering is [artikel 47, tweede en derde lid, van de Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  11  
 
@@ -210,7 +200,6 @@ De duur van de aansluitende uitkering is de op het moment van ontslag berekende 
 3.  De hoogte van de loonaanvulling is gelijk aan het verschil tussen het dagloon in zijn nieuwe betrekking en het dagloon van de betrekking waaruit betrokkene werkloos is geworden.   
 4.  De loonaanvulling wordt proportioneel toegekend, indien de omvang van de nieuwe betrekking minder bedraagt dan de betrekking waaruit de betrokkene is ontslagen. Indien de omvang van de nieuwe betrekking groter is dan de omvang van de betrekking waaruit de betrokkene is ontslagen, bedraagt de hoogte van de loonaanvulling het feitelijke verschil in dagloon tussen de oude en nieuwe betrekking.   
 5.  De aanvraag om loonaanvulling wordt binnen drie maanden na het aanvaarden van de nieuwe betrekking ingediend. De loonaanvulling wordt door middel van een beschikbaar gesteld formulier aangevraagd. Bij overschrijding van deze termijn wordt de loonaanvulling toegekend vanaf het moment dat de aanvraag werd ingediend.   
-6.  De loonaanvulling vormt geen onderdeel van het ambtelijk inkomen en telt niet mee voor de berekening van het pensioen.   
 
 ### Artikel  16  
 
@@ -256,6 +245,11 @@ b. de aansluitende uitkering.
 ### Artikel  20d  
 
 [Artikel 130p van de Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) is van toepassing op de in artikel 3, tweede lid, van overeenkomstige toepassing verklaarde onderdelen van de [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).  
+
+### Artikel  20e  
+
+1.  Ten aanzien van de betrokkene die op 31 december 2011 recht had op een bovenwettelijke uitkering op basis van dit besluit, blijft dit besluit van toepassing zoals het op die dag luidde.   
+2.  Ten aanzien van de ambtenaar die voor 1 januari 2012 is aangewezen als herplaatsingskandidaat als bedoeld in [artikel 49d](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [artikel 49e, tweede lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [artikel 84d](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) of [artikel 84e, tweede lid, van Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en [artikel 58c](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) of [artikel 58d, tweede lid, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en waarvan het ontslag, bedoeld in [artikel 96 van het Algemeen Rijksambtenarenreglemen](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) t respectievelijk in [artikel 126 van het Ambtenarenreglement Staten-Generaal](../../../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) of in [artikel 99 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), ingaat op of na 1 januari 2012, blijft artikel 2 van dit besluit van toepassing zoals het op 31 december 2011 luidde.   
 
 ### Artikel  21  
 

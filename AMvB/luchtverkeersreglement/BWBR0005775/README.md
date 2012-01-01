@@ -80,6 +80,8 @@ meldingspunt: de geografisch bepaalde plaats, ten opzichte waarvan de positie va
 
 MLA: MLA als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);  
 
+*MLH:* MLH als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);  
+
 modelraket: modelraket als bedoeld in [artikel 1 van de Regeling modelraketten](../../../ministeriele-regeling/regeling/modelraketten/BWBR0020593/README.md);  
 
 motorzweefvliegtuig: vliegtuig dat bij uitgeschakelde motor de eigenschappen heeft van een zweefvliegtuig;  
@@ -159,7 +161,7 @@ e. onbemande vrije ballon, zijnde een vrije ballon die niet is ingericht of best
 f. valscherm, zijnde een scherm dat dient om de daalsnelheid van een persoon zodanig te beperken dat deze veilig het aardoppervlak kan bereiken;  
 
 g. valschermzweeftoestel, zijnde een toestel, zwaarder dan lucht en niet voorzien van een voortstuwingsinrichting, in de vorm van een scherm met één of twee harnassen, dat in de lucht wordt gebracht en voortbewogen met een voer- of vaartuig waarmee het dan is verbonden met één of meer lijnen.     
-2.  In afwijking van het eerste lid, is [artikel 5.3 van de Wet luchtvaart](../../../wet/wet/luchtvaart/BWBR0005555/README.md) van toepassing op de luchtvaartuigen, genoemd in het eerste lid.   
+2.  In afwijking van het eerste lid, zijn de [artikelen 5.3](../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [5.5 van de Wet luchtvaart](../../../wet/wet/luchtvaart/BWBR0005555/README.md) van toepassing op de luchtvaartuigen, genoemd in het eerste lid.   
 3.  Bij regeling van Onze Minister worden regels gesteld ten aanzien van de deelname aan het luchtverkeer met een luchtvaartuig als genoemd in het eerste lid.   
 
 ### Artikel  1b  
@@ -427,7 +429,7 @@ c. zweeftoestellen verlenen voorrang aan vrije ballonnen;
 
 d. vliegtuigen, helikopters en luchtschepen verlenen voorrang aan luchtvaartuigen waarvan wordt gezien dat zij een ander luchtvaartuig of voorwerp slepen;  
 
-e. luchtvaartuigen, bedoeld in artikel 1a, modelraketten en overige luchtvaartuigen die niet zijn gedefinieerd in artikel 1 verlenen voorrang aan vliegtuigen, helikopters, vrije ballonnen en luchtschepen.     
+e. luchtvaartuigen, bedoeld in artikel 1a, modelraketten en overige luchtvaartuigen die niet zijn gedefinieerd in artikel 1 verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonnen en luchtschepen.     
 3.  Het eerste lid geldt niet voor een luchtvaartuig dat het luchtverkeerscircuit volgt.   
 
 ### Artikel  21  

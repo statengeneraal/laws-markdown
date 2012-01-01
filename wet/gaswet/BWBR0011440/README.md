@@ -72,11 +72,13 @@ y. continentaal plat: het onder de Noordzee gelegen deel van de zeebodem en de o
 
 z. landsgrensoverschrijdend gastransportnet: een gastransportnet dat de grens van tenminste twee landen overschrijdt en dat uitsluitend als doel heeft de gastransportnetten van die landen onderling te koppelen;  
 
-aa. aansluitpunt: het deel van de aansluiting vanaf het gastransportnet tot en met de eerste afsluiter.  
+aa. aansluitpunt: het deel van de aansluiting vanaf het gastransportnet tot en met de eerste afsluiter;  
 
 ab. meetinrichting: het gehele samenstel van apparatuur dat ten minste tot doel heeft het uitgewisselde gas te meten;  
 
-ac. meetbedrijf: een organisatorische eenheid die zich bezighoudt met het collecteren, valideren en vaststellen van meetgegevens betreffende gas.     
+ac. meetbedrijf: een organisatorische eenheid die zich bezighoudt met het collecteren, valideren en vaststellen van meetgegevens betreffende gas;  
+
+bb. verordening 994/2010: verordening (EU) nr. 994/2010 van het Europees Parlement en de Raad van 20 oktober 2010 betreffende maatregelen tot veiligstelling van de gaslevering en houdende intrekking van Richtlijn 2004/67/EG (PbEU 2010, L 295).     
 2.  Bij algemene maatregel van bestuur kan deze wet geheel of gedeeltelijk van toepassing worden verklaard op andere gasvormige stoffen dan de stof, bedoeld in het eerste lid, onderdeel b.   
 3.  Deze wet en de daarop berustende bepalingen zijn mede van toepassing op gasopslaginstallaties, LNG-installaties en landsgrensoverschrijdende gastransportnetten die zijn gelegen binnen de Nederlandse exclusieve economische zone of op het continentaal plat.   
 
@@ -233,7 +235,7 @@ b. inspecties van netten met het oog op de veiligheid;
 
 c. speur- en ontwikkelingswerk ten behoeve van de aanleg, het onderhoud en de veiligheid van netten;  
 
-d. de werkzaamheden ter uitvoering van artikel 10a, eerste lid, onderdelen c, d en f.     
+d. de werkzaamheden ter uitvoering van artikel 10, vijfde lid, en 10a, eerste lid, onderdelen c, d en f.     
 3.  Ingeval van uitbesteding van werkzaamheden als bedoeld in het tweede lid: 
 
 a. behoudt de netbeheerder de verantwoordelijkheid voor de volledige en juiste uitvoering van de desbetreffende taken,  
@@ -287,7 +289,7 @@ g. de periode waarop het document of onderdelen daarvan betrekking hebben.
 ### Artikel  8a  
 
 1.  Indien zich met betrekking tot een gastransportnet een voorval voordoet of heeft voorgedaan, waardoor nadelige gevolgen voor de mens of het milieu zijn ontstaan of dreigen te ontstaan, meldt de netbeheerder dat voorval zo spoedig mogelijk aan Onze Minister.   
-2.   Dit lid is nog niet in werking getreden.    
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de door de netbeheerder te nemen maatregelen ten aanzien van de veiligheid en betrouwbaarheid van zijn netten.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de meldplicht, bedoeld in het eerste lid.   
 
 ### Artikel  9  
@@ -337,6 +339,13 @@ a. een ieder die verzoekt om een aansluiting die een doorlaatwaarde heeft kleine
 
 b. een ieder die verzoekt om een aansluitpunt ten behoeve van een aansluiting die een doorlaatwaarde heeft groter dan 40 m <sup>3</sup> (n) per uur te voorzien van een aansluitpunt op het dichtstbijzijnde punt van het gastransportnet met een voor die aansluiting geschikte druk en voldoende capaciteit.     
 6.  Het is anderen dan de desbetreffende netbeheerder verboden een taak uit te voeren als bedoeld in het vijfde lid.   
+5.  Een netbeheerder heeft met betrekking tot zijn netten, in aanvulling op de in het eerste en derde lid genoemde taken, tevens tot taak: 
+
+a. ervoor zorg te dragen dat een afnemer als bedoeld in artikel 43, eerste lid, voor elke aansluiting beschikt over een geïnstalleerde meetinrichting, tenzij die afnemer blijkens de voorwaarden, bedoeld in artikel 12b, eerste lid, onderdelen a of b, beschikt over een onbemeten aansluiting;  
+
+b. zorg te dragen voor het beheer en onderhoud van de bij een afnemer als bedoeld in artikel 43, eerste lid, geïnstalleerde meetinrichting.     
+6.  Het is anderen dan de desbetreffende netbeheerder verboden een taak uit te voeren als bedoeld in het vijfde lid.   
+7.  [Vervallen]   
 
 ### Artikel  10a  
 
@@ -364,7 +373,9 @@ e. een programmaverantwoordelijke actuele en zo correct en volledig mogelijke in
 
 f. indien Onze Minister hem dit opdraagt, werkzaamheden te verrichten ter uitvoering van de taak, bedoeld in artikel 52a, en  
 
-g. voorzieningen te treffen, gericht op de beschikbaarheid van voldoende transportcapaciteit met het oog op voldoende transportzekerheid.     
+g. voorzieningen te treffen, gericht op de beschikbaarheid van voldoende transportcapaciteit met het oog op voldoende transportzekerheid;  
+
+h. indien Onze Minister hem dit opdraagt, werkzaamheden te verrichten ter uitvoering van verordening 994/2010.     
 2.  Indien de netbeheerder van het landelijk gastransportnet bij de uitvoering van zijn wettelijke taken energie inkoopt, doet hij dit op basis van een transparante, niet-discriminatoire en marktconforme procedure.   
 3.  De rechtspersoon, bedoeld in artikel 54, eerste lid, is verplicht de netbeheerder van het landelijk gastransportnet een aanbod met redelijke tarieven en voorwaarden te doen tot levering aan de door de netbeheerder van het landelijk gastransportnet ter uitvoering van zijn wettelijke taken benodigde hoeveelheden gas in de door hem gevraagde hoeveelheden en op de door hem gewenste tijdstippen.   
 4.  Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van de taak, bedoeld in het eerste lid, onderdeel a en artikel 10, derde lid, onderdeel c. Deze regels hebben mede betrekking op de wijze waarop enerzijds de netbeheerder van het landelijk gastransportnet, en anderzijds gasproductiebedrijven, gasopslagbedrijven, LNG-bedrijven, andere netbeheerders, leveranciers en afnemers zich jegens elkaar gedragen.   
@@ -471,7 +482,7 @@ c. keert de netbeheerder geen dividend uit aan zijn aandeelhouders.
 
 Met inachtneming van de in artikel 12 bedoelde regels zenden de gezamenlijke netbeheerders aan de raad van bestuur van de mededingingsautoriteit een voorstel met betrekking tot de door hen jegens netgebruikers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van: 
 
-a. het tarief voor transport van gas, met inbegrip van invoer, uitvoer en doorvoer van gas en de het transport ondersteunende diensten ten behoeve van netgebruikers en met inbegrip van de in artikel 10a, eerste lid, onderdelen a, b, c, e, f en g, omschreven wettelijke taken,  
+a. het tarief voor transport van gas, met inbegrip van invoer, uitvoer en doorvoer van gas en de het transport ondersteunende diensten ten behoeve van netgebruikers en met inbegrip van de in artikel 10a, eerste lid, onderdelen a, b, c, e, f, g en h, omschreven wettelijke taken,  
 
 b. het tarief waarvoor de netbeheerder van het landelijk gastransportnet uitvoering zal geven aan zijn in artikel 10a, eerste lid, onderdeel d, omschreven taak en  
 
@@ -983,10 +994,10 @@ b. anders dan bedrijfsmatig gas leveren overeenkomstig de in artikel 43, tweede 
 
 ### Artikel  34  
 
-1.  Onze Minister kan verlangen dat een gasbedrijf, een gas- of elektriciteitsbeurs, een netgebruiker of een afnemer hem inzage geeft in gegevens en bescheiden, onderscheidenlijk hem gegevens en inlichtingen verstrekt, die hij nodig heeft voor de uitvoering van de hem in deze wet of de verordening opgedragen taken en voor het opstellen van het in artikel 52 bedoelde energierapport.   
+1.  Onze Minister kan verlangen dat een gasbedrijf, een gas- of elektriciteitsbeurs, een netgebruiker of een afnemer hem inzage geeft in gegevens en bescheiden, onderscheidenlijk hem gegevens en inlichtingen verstrekt, die hij nodig heeft voor de uitvoering van de hem in deze wet, de verordening of verordening 994/2010 opgedragen taken en voor het opstellen van het in artikel 52 bedoelde energierapport.   
 2.  Degene aan wie een verzoek is gedaan inzage te geven in gegevens en bescheiden onderscheidenlijk gegevens en inlichtingen te verstrekken, is verplicht binnen de door Onze Minister te stellen redelijke termijn alle medewerking te verlenen die hij redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
-3.  Onze Minister gebruikt bescheiden, gegevens of inlichtingen over het gasbedrijf, een gas- of elektriciteitsbeurs, een netgebruiker of een afnemer, welke hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van een van zijn taken op grond van deze wet of de verordening, uitsluitend voor de uitvoering van deze wet of de verordening.   
-4.  Indien Onze Minister op grond van artikel 10a, eerste lid, onderdeel f, de netbeheerder van het landelijk gastransportnet opdraagt werkzaamheden te verrichten ter uitvoering van de taak, bedoeld in artikel 52a, zijn het eerste tot en met derde lid van overeenkomstige toepassing op die netbeheerder.   
+3.  Onze Minister gebruikt bescheiden, gegevens of inlichtingen over het gasbedrijf, een gas- of elektriciteitsbeurs, een netgebruiker of een afnemer, welke hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van een van zijn taken op grond van deze wet, de verordening of verordening 994/2010, uitsluitend voor de uitvoering van deze wet, de verordening of verordening 994/2010.   
+4.  Indien Onze Minister op grond van artikel 10a, eerste lid, onderdelen f en h, de netbeheerder van het landelijk gastransportnet opdraagt werkzaamheden te verrichten, zijn het eerste tot en met derde lid van overeenkomstige toepassing op die netbeheerder.   
 5.  In afwijking van het derde lid is Onze Minister bevoegd bescheiden, gegevens of inlichtingen, bedoeld in het derde lid, te verstrekken aan: 
 
 a. een buitenlandse instelling, die op grond van nationale wettelijke regels is belast met de toepassing van de regels op het gebied van gas, voor zover die bescheiden, gegevens en inlichtingen van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die instelling;  
@@ -1000,7 +1011,7 @@ b. voldoende is gewaarborgd dat de bescheiden, gegevens of inlichtingen niet zul
 
 ### Artikel  35  
 
-Artikel 34 is van overeenkomstige toepassing op de raad van bestuur van de mededingingsautoriteit, voor zover hij inlichtingen en gegevens nodig heeft voor de uitvoering van zijn taken op grond van deze wet of de verordening, met dien verstande dat hij de door hem verkregen inlichtingen en gegevens ook kan gebruiken in verband met de toepassing van de [Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md), de [artikelen 4.4](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) en [4.5 van de Wet handhaving consumentenbescherming](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) en de [Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).  
+Artikel 34 is van overeenkomstige toepassing op de raad van bestuur van de mededingingsautoriteit, voor zover hij inlichtingen en gegevens nodig heeft voor de uitvoering van zijn taken op grond van deze wet, de verordening of verordening 994/2010, met dien verstande dat hij de door hem verkregen inlichtingen en gegevens ook kan gebruiken in verband met de toepassing van de [Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md), de [artikelen 4.4](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) en [4.5 van de Wet handhaving consumentenbescherming](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) en de [Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).  
 
 ### Artikel  35a  
 
@@ -1319,6 +1330,12 @@ b. degenen van wie Onze Minister, onverminderd artikel 34, kan verlangen dat zij
 
 c. de termijn waarbinnen, de wijze waarop en de vorm waarin de gegevens en inlichtingen aan Onze Minister worden verstrekt.     
 
+### Artikel  52ab  
+
+1.  Onze Minister is de bevoegde instantie, bedoeld in verordening 994/2010.   
+2.  Onze Minister is belast met de taak, bedoeld in artikel 6, eerste en zevende lid, van verordening 994/2010.   
+3.  Een voorstel of verzoek als bedoeld in artikel 7, eerste en zesde lid, van verordening 994/2010 wordt ingediend bij Onze Minister.   
+
 ### Paragraaf  5.3a  
 
 ####Consumentenbescherming
@@ -1419,15 +1436,15 @@ c. het jaarlijks aan Onze Minister overleggen van een overzicht waarin ten aanzi
 
 ### Artikel  59  
 
-1.  De raad van bestuur van de mededingingsautoriteit is belast met taken ter uitvoering van deze wet en de verordening, alsmede met het toezicht op de naleving van deze wet en de verordening, met uitzondering van paragraaf 1.2 en van de artikelen 35a, 51, 54 tot en met 57, 72 en 73 van de wet.   
-2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van paragraaf 1.2 en van de artikelen 35a, 51, 54 tot en met 57, 72 en 73, en van de verordening zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren van de Nederlandse mededingingsautoriteit. Het toezicht op de naleving van de artikelen 14 tot en met 16 en artikel 18h, voor zover het betreft landsgrensoverschrijdende transporten, wordt uitgeoefend in overleg met de bevoegde instantie van de andere betrokken lidstaat of lidstaten van de Europese Unie.   
+1.  De raad van bestuur van de mededingingsautoriteit is belast met taken ter uitvoering van deze wet en de verordening, alsmede met het toezicht op de naleving van deze wet, de verordening en verordening 994/2010, met uitzondering van paragraaf 1.2 en van de artikelen 35a, 51, 54 tot en met 57, 72 en 73 van de wet.   
+2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van paragraaf 1.2 en van de artikelen 35a, 51, 54 tot en met 57, 72 en 73, en van de verordening en verordening 994/2010 zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren van de Nederlandse mededingingsautoriteit. Het toezicht op de naleving van de artikelen 14 tot en met 16 en artikel 18h, voor zover het betreft landsgrensoverschrijdende transporten, wordt uitgeoefend in overleg met de bevoegde instantie van de andere betrokken lidstaat of lidstaten van de Europese Unie.   
 3.  Met het toezicht op de naleving van het bepaalde bij of krachtens paragraaf 1.2 en van de artikelen 35a, 54 tot en met 57, 72, 73 en 80 tot en met 85a, zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
 4.  Een besluit als bedoeld in het eerste of tweede lid wordt in de Staatscourant bekendgemaakt.   
 
 ### Artikel  60  
 
 1.  De werkzaamheden in verband met de uitvoering van artikel 19, eerste en tweede lid, worden verricht door personen die niet betrokken zijn bij werkzaamheden op grond van hoofdstuk 2, paragrafen 2.2 en 2.3.   
-2.  De raad van bestuur van de mededingingsautoriteit kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet en van de verordening. Van de beschikking wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
+2.  De raad van bestuur van de mededingingsautoriteit kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, van de verordening en verordening 994/2010. Van de beschikking wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
 
 ### Paragraaf  5.5a  
 
@@ -1435,7 +1452,7 @@ c. het jaarlijks aan Onze Minister overleggen van een overzicht waarin ten aanzi
 
 ### Artikel  60ac  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de artikelen 5, 9, tweede lid, 13a, 13d, vijfde lid, en 13e, tiende lid, 54, eerste lid, 54a, eerste lid, en artikel 55, tweede en derde lid, en van de verordening de overtreder een last onder dwangsom opleggen.   
+1.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de artikelen 5, 9, tweede lid, 13a, 13d, vijfde lid, en 13e, tiende lid, 54, eerste lid, 54a, eerste lid, en artikel 55, tweede en derde lid, van de verordening en verordening 994/2010 de overtreder een last onder dwangsom opleggen.   
 2.  Indien daarvoor naar zijn oordeel aanleiding bestaat, gelet op het voorschrift waarop de overtreding betrekking heeft, geeft de raad van bestuur van de mededingingsautoriteit een bindende aanwijzing als bedoeld in artikel 60, tweede lid, alvorens een last onder dwangsom op te leggen.   
 3.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad van bestuur van de mededingingsautoriteit.   
 4.  De bevoegdheid tot het opleggen van een last onder dwangsom vervalt vijf jaren nadat de overtreding heeft plaatsgevonden.   
@@ -1666,11 +1683,9 @@ d. zijn vastgesteld met gebruikmaking van gegevens omtrent kosten voor bepaalde 
 
 1.  Het tarief voor de meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, heeft betrekking op: 
 
-a. het gebruik van de ter beschikking gestelde meter;  
+a. het beheer van de meetinrichtingen;  
 
-b. de vaststelling van het van het net afgenomen en verbruikte gas;  
-
-c. het meedelen van de gegevens aan de desbetreffende afnemer en aan de netbeheerder op wiens net de afnemer is aangesloten.     
+b. het verschaffen van toegang tot meetgegevens als bedoeld in artikel 13b, tweede en derde lid.     
 2.  De tarieven voor de meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, worden vastgesteld door de raad van bestuur van de mededingingsautoriteit na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot procedure tot vaststelling van de tarieven voor de meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, en de wijze van berekening van deze tarieven.   
 
 ### Artikel  82  

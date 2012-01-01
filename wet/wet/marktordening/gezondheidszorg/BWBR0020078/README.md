@@ -106,7 +106,7 @@ q. Zorgverzekeringsfonds: het fonds, genoemd in [artikel 39 van de Zorgverzekeri
 a. de onderwerpen waaromtrent de zorgautoriteit ingevolge deze wet bevoegd is regels vast te stellen;  
 
 b. de onderwerpen waaromtrent de zorgautoriteit ingevolge deze wet bevoegd is beleidsregels vast te stellen.     
-2.  Onze Minister kan in een aanwijzing als bedoeld in het eerste lid, onder b, bepalen dat de zorgautoriteit ambtshalve een tarief als bedoeld in artikel 57, vierde lid, onder a of b, of een prestatiebeschrijving vaststelt.   
+2.  Onze Minister kan in een aanwijzing als bedoeld in het eerste lid, onder b, bepalen dat de zorgautoriteit ambtshalve een tarief als bedoeld in artikel 50, eerste lid, onderdeel b of c, of een prestatiebeschrijving vaststelt.   
 3.  Een aanwijzing heeft geen betrekking op een individuele zorgaanbieder, ziektekostenverzekeraar of consument.   
 
 ### Artikel  8  
@@ -366,24 +366,50 @@ c. de eenvormige invulling van procedures, waarbij kan worden voorgeschreven dat
 
 1.  Het is een zorgaanbieder verboden een tarief in rekening te brengen: 
 
-a. voor een prestatie waarvoor geen prestatiebeschrijving op grond van artikel 56 is vastgesteld;  
+a. dat niet overeenkomt met het tarief dat voor de betrokken prestatie op grond van artikel 50, eerste lid, onderdeel b, is vastgesteld;  
 
-b. voor een prestatie waarvoor een andere prestatiebeschrijving wordt gehanteerd dan op grond van artikel 56 is vastgesteld;  
+b. dat niet ligt binnen de tariefruimte die op grond van artikel 50, eerste lid, onderdeel c, voor de betrokken prestatie is vastgesteld;  
 
-c. dat niet overeenkomt met het tarief dat voor de betrokken prestatie op grond van artikel 50 of 52 is vastgesteld;  
+c. voor een prestatie waarvoor geen prestatiebeschrijving op grond van artikel 50, eerste lid, onderdeel d, is vastgesteld;  
 
-d. dat niet ligt binnen de tariefruimte die op grond van artikel 54 voor de betrokken prestatie is vastgesteld;  
+d. voor een prestatie waarvoor een andere prestatiebeschrijving wordt gehanteerd dan op grond van artikel 50, eerste lid, onderdeel d, is vastgesteld;  
 
 e. anders dan op de wijze die overeenkomstig deze wet is vastgesteld.     
 2.  Het is een zorgaanbieder verboden een tarief als bedoeld in het eerste lid, te betalen aan een andere zorgaanbieder of aan derden te vergoeden.   
 3.  Het is een ziektekostenverzekeraar verboden een tarief als bedoeld in het eerste lid, te betalen of aan derden te vergoeden.   
-4.  Een zorgaanbieder en een ziektekostenverzekeraar kunnen aan het aanbieden, overeenkomen of leveren van een prestatie als bedoeld in het eerste lid, onder a of b, dan wel aan het in rekening brengen, betalen of aan een derde vergoeden van een tarief als bedoeld in het eerste lid, geen rechten ontlenen.   
+4.  Een zorgaanbieder en een ziektekostenverzekeraar kunnen aan het aanbieden, overeenkomen of leveren van een prestatie als bedoeld in het eerste lid, onder c of d, dan wel aan het in rekening brengen, betalen of aan een derde vergoeden van een tarief als bedoeld in het eerste lid, geen rechten ontlenen.   
 5.  Het derde en vierde lid zijn van overeenkomstige toepassing op een verzekeraar in de zin van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover niet begrepen onder artikel 1, onder f, sub 3, van deze wet.   
+6.  Indien de zorgautoriteit een regel heeft vastgesteld als bedoeld in artikel 37, eerste lid, is het een zorgaanbieder als bedoeld in het vierde lid van dat artikel, die de betalingen uit in rekening gebrachte tarieven ontvangt, verboden: 
+
+a. meer over te dragen dan het bedrag dat bij of krachtens deze wet is bepaald;  
+
+b. af te wijken van de bij die regel gestelde voorwaarden, voorschriften en beperkingen.     
+7.  Indien de zorgautoriteit bij de vaststelling van een tarief als bedoeld in artikel 50, eerste lid, onderdelen a, b of c, op grond van het tweede lid van dat artikel een grens heeft vastgesteld, is het een zorgaanbieder verboden: 
+
+a. met de som van de tarieven voor de betrokken prestaties gerelateerd aan de daarbij aangegeven periode van die grens af te wijken;  
+
+b. af te wijken van de aan de grens verbonden voorschriften of beperkingen.     
+
+### Artikel  35a  
+
+Het is een zorgaanbieder verboden een bedrag als bedoeld in artikel 56a in rekening te brengen: 
+
+a. dat hoger is dan het bedrag dat als bijdrage voor de beschikbaarheid van de desbetreffende zorg op grond van artikel 56a, eerste lid, is vastgesteld;  
+
+b. anders dan op de wijze die overeenkomstig deze wet is vastgesteld.    
+
+### Artikel  35b  
+
+Het is een ziektekostenverzekeraar verboden een bedrag als bedoeld in artikel 56b in rekening te brengen: 
+
+a. dat hoger is dan het bedrag dat voor de betrokken vereffening op grond van artikel 56b, eerste lid, is vastgesteld;  
+
+b. anders dan op de wijze die overeenkomstig deze wet is vastgesteld.    
 
 ### Artikel  36  
 
 1.  Zorgaanbieders en ziektekostenverzekeraars voeren een administratie waaruit in ieder geval de overeengekomen en geleverde prestaties blijken, alsmede wanneer die prestaties zijn geleverd, aan welke patiënt onderscheidenlijk aan welke verzekerde die prestaties door een zorgaanbieder zijn geleverd, de daarvoor in rekening gebrachte tarieven en de in verband daarmee ontvangen of verrichte betalingen of vergoedingen aan derden.   
-2.  Zorgaanbieders en ziektekostenverzekeraars voeren op zodanige wijze een administratie dat te allen tijde mogelijk is elk tarief dat overeenkomstig artikel 50 of 52 is vastgesteld of dat ligt binnen de tariefruimte die op grond van artikel 54 is vastgesteld, in rekening te brengen, te betalen of aan derden te vergoeden.   
+2.  Zorgaanbieders en ziektekostenverzekeraars voeren op zodanige wijze een administratie dat te allen tijde mogelijk is elk tarief dat overeenkomstig artikel 50 of 52 is vastgesteld of dat ligt binnen de tariefruimte die op grond van artikel 50, eerste lid, onderdeel c, is vastgesteld, in rekening te brengen, te betalen of aan derden te vergoeden.   
 3.  De zorgautoriteit kan, ten behoeve van de vergelijkbaarheid van gegevens, toepassing van uniforme principes bij de toerekening van kosten en opbrengsten en bij het registreren van gegevens over kwaliteit en opbrengsten, nadere regels stellen betreffende de administratie van: 
 
 a. zorgaanbieders en ziektekostenverzekeraars met het oog op de bevordering van concurrentie, het voorkomen van fraude, de inzichtelijkheid en toegankelijkheid van die administratie alsmede het vaststellen van tarieven, en  
@@ -393,7 +419,23 @@ b. zorgverzekeraars en AWBZ-verzekeraars met het oog op de bevordering van een g
 
 ### Artikel  37  
 
-De zorgautoriteit kan regels vaststellen, inhoudende aan wie, door wie of op welke wijze, onder welke voorwaarden of met inachtneming van welke voorschriften of beperkingen een tarief in rekening wordt gebracht.  
+1.  De zorgautoriteit kan regels vaststellen, inhoudende op welke wijze en onder welke voorwaarden of met inachtneming van welke voorschriften en beperkingen: 
+
+a. aan wie, door wie, namens wie of via wie een tarief in rekening wordt gebracht;  
+
+b. aan wie of via wie een in rekening gebracht tarief mag worden betaald;  
+
+c. door wie of namens wie ontvangsten voor een in rekening gebracht tarief moeten worden ingehouden, af- of overgedragen;  
+
+d. door wie of namens wie een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de op grond van artikel 50, tweede lid, onderdelen a, c of d, vastgestelde grens wordt ingehouden en afgedragen.     
+2.  Indien de zorgautoriteit een regel vaststelt als bedoeld in het eerste lid, aanhef en onder a, voor een prestatie die door twee of meer zorgaanbieders gezamenlijk wordt geleverd, kan zij in die regel bepalen dat uitsluitend een daarbij door haar aangewezen zorgaanbieder een tarief voor die prestatie in rekening mag brengen aan de consument of diens ziektekostenverzekeraar, waarbij de andere bij die prestatie betrokken zorgaanbieders uitsluitend aan de aangewezen zorgaanbieder voor het deel van die prestatie dat door hen is geleverd een tarief in rekening kunnen brengen.   
+3.  Indien de zorgautoriteit een regel vaststelt als bedoeld in het eerste lid, aanhef en onder a, voor een prestatie die door twee of meer zorgaanbieders gezamenlijk wordt geleverd, kan zij, in die regel bepalen dat de bij die prestatie betrokken zorgaanbieders het tarief voor hun deel van die prestatie via de door haar aangewezen zorgaanbieder of een derde in rekening brengen bij de consument of diens ziektekostenverzekeraar en dat daarbij de aangewezen zorgaanbieder of derde het tarief op een zodanige wijze in rekening brengt dat duidelijk tot uitdrukking komt welk deel van de te verzenden rekening betrekking heeft op de door de eerstbedoelde zorgaanbieders verrichte deel van de prestatie.   
+4.  Indien de zorgautoriteit in een regel als bedoeld in het eerste lid, aanhef en onder a en b, voor een prestatie die door twee of meer zorgaanbieders gezamenlijk wordt geleverd, bepaalt dat een in rekening gebracht tarief aan of via een in die regel aangewezen zorgaanbieder of derde, verder te noemen ontvanger, moet worden betaald, draagt deze ontvanger er zorg voor dat de ontvangsten voor de door de andere zorgaanbieders in rekening gebrachte tarieven worden ingehouden en alleen aan hen worden overgedragen indien en voor zover een betaling is ontvangen van de consument of diens ziektekostenverzekeraar. Indien de ontvanger tevens is aangewezen op grond van artikel 37, eerste lid, aanhef en onder d, draagt deze er zorg voor dat de ontvangsten voor de door de andere zorgaanbieders in rekening gebrachte tarieven alleen worden overgedragen met inachtneming van hetgeen met betrekking tot die vergoeding of het geheel van vergoedingen voor een van de andere zorgaanbieders of voor alle andere zorgaanbieders gezamenlijk bij of krachtens deze wet is bepaald.   
+5.  Indien en voor zover de zorgautoriteit in een regel als bedoeld in het eerste lid, aanhef en onder b, vaststelt aan wie of via wie een in rekening gebracht tarief moet worden betaald, is de consument of diens ziektekostenverzekeraar die betaling uitsluitend aan deze verschuldigd.   
+6.  De zorgautoriteit past het tweede en derde lid niet toe dan na een aanwijzing van Onze Minister op grond van artikel 7. Artikel 8 is van overeenkomstige toepassing.   
+7.  Voor de verdere uitvoering van de wet wordt onder zorgaanbieder mede verstaan een ieder die de ontvangsten uit in rekening gebrachte tarieven ontvangt, inhoudt, af- of overdraagt.   
+8.  Het bepaalde bij of krachtens dit artikel is mede van toepassing ten aanzien van een ieder die voor een zorgaanbieder een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het in rekening brengen of betalen van een tarief, het ontvangen, inhouden, af- of overdragen van ontvangsten voor een in rekening gebracht tarief of het inhouden, af- of overdragen van een door de zorgautoriteit te bepalen bedrag in verband met het overschrijden van een door de zorgautoriteit op grond van artikel 50, tweede lid, onderdelen a, c of d, vastgestelde grens.   
+9.  De voorgaande leden zijn van overeenkomstige toepassing voor het in rekening brengen of betalen van een tarief voor een deel van een prestatie of een geheel van prestaties.   
 
 ### Artikel  38  
 
@@ -462,9 +504,17 @@ b. op uitdrukkelijk verzoek van de verzekerde met de uitvoering van de overeenko
 
 Het bepaalde bij of krachtens de artikelen 36 en 38 tot en met 43 is mede van toepassing ten aanzien van degene die voor een zorgaanbieder of ziektekostenverzekeraar een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het aanbieden, overeenkomen, leveren, in rekening brengen, betalen of vergoeden aan derden van een prestatie of een tarief of het ontvangen van een betaling.  
 
+### Paragraaf  4.2.a  
+
+####Invloed op overeenkomsten
+
 ### Artikel  45  
 
 De zorgautoriteit kan, met het oog op de inzichtelijkheid van de zorgmarkten of de bevordering van de concurrentie, regels stellen betreffende de wijze van totstandkoming van overeenkomsten met betrekking tot zorg of tarieven en betreffende de voorwaarden in die overeenkomsten.  
+
+### Artikel  46  
+
+De zorgautoriteit kan bij het vaststellen van een regel op grond van deze wet bepalen dat overeenkomsten in strijd met die regel nietig zijn indien en voor zover deze niet zijn aangepast binnen een door de zorgautoriteit te stellen termijn.  
 
 ### Paragraaf  4.3  
 
@@ -478,9 +528,11 @@ a. zijn concurrenten;
 
 b. ziektekostenverzekeraars, indien het een zorgaanbieder betreft;  
 
-c. zorgaanbieders, indien het een ziektekostenverzekeraar betreft, of  
+c. zorgaanbieders, indien het een zorgaanbieder betreft;  
 
-d. consumenten.    
+d. zorgaanbieders, indien het een ziektekostenverzekeraar betreft, of  
+
+e. consumenten.    
 
 ### Artikel  48  
 
@@ -508,7 +560,9 @@ j. de verplichting om ten behoeve van de vaststelling als bedoeld onder i een ko
 
 k. de verplichting om op door de zorgautoriteit te bepalen wijze door middel van een accountantsverklaring of anderszins, eenmalig of periodiek aan te tonen dat aan de onder i en j bedoelde verplichting is voldaan;  
 
-l. andere, bij ministeriële regeling aangewezen verplichtingen.     
+l. de verplichting voor een zorgaanbieder om in zijn overeenkomsten met andere zorgaanbieders niet een onredelijk hoge capaciteit overeen te komen in relatie tot de capaciteit die de eerstbedoelde zorgaanbieder naar verwachting voor zijn consumenten nodig heeft;  
+
+m. andere, bij ministeriële regeling aangewezen verplichtingen.     
 2.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
 3.  De zorgautoriteit neemt bij het opleggen van verplichtingen als bedoeld in het eerste lid de eisen van proportionaliteit in acht.   
 4.  De zorgautoriteit kan aan de verplichtingen, bedoeld in het eerste lid, voorschriften en beperkingen verbinden die nodig zijn voor een goede uitvoering van de verplichtingen.   
@@ -522,78 +576,136 @@ l. andere, bij ministeriële regeling aangewezen verplichtingen.
 
 ### Paragraaf  4.4  
 
-####Tariefregulering van vormen van zorg
+####Vaststelling van tarieven en prestatiebeschrijvingen
 
 ### Artikel  50  
 
-1.  Indien een zorgaanbieder met een ziektekostenverzekeraar een tarief is overeengekomen, vragen zij de zorgautoriteit dat tarief vast te stellen.   
-2.  Een op een in het eerste lid bedoelde aanvraag gedane vaststelling geldt voor alle gevallen waarin de zorgaanbieder het tarief in rekening brengt aan de ziektekostenverzekeraar of aan degene die bij deze voor de prestatie waarop het tarief van toepassing is, is verzekerd.   
+1.  De zorgautoriteit legt, met inachtneming van de artikelen 51 tot en met 56 en 59, in een beschikking ten behoeve van het rechtsgeldig in rekening kunnen brengen van een tarief vast: 
+
+a. of er sprake is van een vrij tarief, zijnde een tarief waarop artikel 35, eerste lid, onderdelen a en b, niet van toepassing is;  
+
+b. of er sprake is van een vast tarief;  
+
+c. of er sprake is van een bedrag dat ten minste of ten hoogste als tarief in rekening kan worden gebracht;  
+
+d. de beschrijving van de prestatie, deel van de prestatie of geheel van prestaties behorend bij het tarief bedoeld in de onderdelen a, b en c.   Bij de toepassing van de aanhef en onderdelen b en c in de eerste volzin stelt de zorgautoriteit de hoogte van het tarief dan wel het bedrag dat als tarief in rekening kan worden gebracht vast in die beschikking.   
+2.  De zorgautoriteit kan bij de toepassing van het eerste lid ambtshalve voor de som van de tarieven voor de betrokken prestaties gerelateerd aan een daarbij aangegeven periode, voorafgaand aan die periode, vaststellen: 
+
+a. een vaste grens,  
+
+b. een ondergrens,  
+
+c. een bovengrens of  
+
+d. een bandbreedtegrens.   Voor onderscheiden delen van een prestatie of geheel van prestaties als bedoeld in artikel 57, derde lid, kunnen afzonderlijke grenzen en grenssoorten als bedoeld in de voorgaande volzin worden vastgesteld.   
+3.  De zorgautoriteit kan aan de vaststelling van een tarief, een prestatiebeschrijving of een grens als bedoeld in de voorgaande leden voorschriften of beperkingen verbinden.   
+4.  De vaststelling van een tarief of een prestatiebeschrijving bevat in ieder geval voor zover van toepassing de onderwerpen, genoemd in artikel 54.   
 
 ### Artikel  51  
 
-1.  Een aanvraag als bedoeld artikel 50, eerste lid, bevat een voorstel voor: 
-
-a. de toe te passen prestatiebeschrijving;  
-
-b. het voor de prestatie in rekening te brengen tarief.     
-2.  Indien de zorgautoriteit geen regels heeft vastgesteld als bedoeld in artikel 37 bevat de aanvraag voorts een voorstel voor: 
-
-a. degene aan wie het tarief in rekening wordt gebracht;  
-
-b. degene door wie het tarief in rekening wordt gebracht;  
-
-c. de wijze waarop het tarief in rekening wordt gebracht.     
+De zorgautoriteit past artikel 50, eerste lid, onderdeel a, uitsluitend ambtshalve toe.  
 
 ### Artikel  52  
 
-1.  Indien de zorgautoriteit op een ingevolge artikel 50 gedane aanvraag afwijzend beslist, stelt zij op aanvraag van partijen of van een van hen dan wel ambtshalve een tarief vast. Artikel 50, tweede lid, is met betrekking tot dat tarief van overeenkomstige toepassing.   
-2.  Op aanvraag van een zorgaanbieder of van een ziektekostenverzekeraar stelt de zorgautoriteit voorts een tarief vast, indien een overeenkomst als bedoeld in artikel 50 niet tot stand komt. Daarbij wordt bepaald in welke gevallen het vastgestelde tarief geldt.   
-3.  Op aanvraag van een zorgaanbieder dan wel ambtshalve stelt de zorgautoriteit een tarief vast voor alle gevallen waarin het in rekening wordt gebracht aan iemand die voor de prestatie waarop het tarief van toepassing is, niet is verzekerd bij een ziektekostenverzekeraar. Daarbij kunnen met betrekking tot de kring van hen aan wie het tarief rechtsgeldig in rekening kan worden gebracht, beperkingen worden gesteld.   
-4.  Indien een aanvraag als bedoeld in artikel 50 of het eerste tot en met derde lid van het onderhavige artikel, niet voldoet aan het bij of krachtens deze paragraaf bepaalde kan de zorgautoriteit ambtshalve een tarief vaststellen.   
-5.  In gevallen waarin een beleidsregel als bedoeld in artikel 57 dat vordert, stelt de zorgautoriteit ambtshalve een tarief vast.   
-6.  Een beschikking op grond van dit artikel bevat in ieder geval de onderwerpen, genoemd in artikel 51, voor zover van toepassing.   
-7.  De zorgautoriteit kan aan een beschikking voorschriften of beperkingen verbinden.   
+De zorgautoriteit past artikel 50, eerste lid, onderdelen b en c, toe: 
+
+a. op aanvraag van een zorgaanbieder en een ziektekostenverzekeraar, indien zij een tarief zijn overeengekomen. Het vastgestelde tarief geldt voor alle gevallen waarin de zorgaanbieder het tarief in rekening brengt aan de ziektekostenverzekeraar of aan degene die bij deze voor de prestatie waarop het tarief van toepassing is, is verzekerd;  
+
+b. op aanvraag van een zorgaanbieder of een ziektekostenverzekeraar dan wel ambtshalve, indien op een ingevolge onderdeel a gedane aanvraag afwijzend is beslist. De tweede volzin van onderdeel a is met betrekking tot dat tarief van overeenkomstige toepassing;  
+
+c. op aanvraag van een zorgaanbieder of van een ziektekostenverzekeraar, indien een overeenkomst als bedoeld in onderdeel a niet tot stand komt. Bij de vaststelling bepaalt de zorgautoriteit in welke gevallen het tarief geldt;  
+
+d. op aanvraag van een zorgaanbieder dan wel ambtshalve, voor alle gevallen waarin het in rekening wordt gebracht aan iemand die voor de prestatie waarop het tarief van toepassing is, niet is verzekerd bij een ziektekostenverzekeraar. Daarbij kunnen met betrekking tot de kring van hen aan wie het tarief rechtsgeldig in rekening kan worden gebracht, beperkingen worden gesteld;  
+
+e. ambtshalve, indien een beleidsregel als bedoeld in artikel 57 dat vordert;  
+
+f. ambtshalve, indien de zorgautoriteit daarbij een grens als bedoeld in artikel 50, tweede lid, vaststelt.    
 
 ### Artikel  53  
 
-1.  De zorgautoriteit beslist afwijzend op een aanvraag als bedoeld in artikel 50, eerste lid, indien de daarbij voorgestelde prestatiebeschrijving, bedoeld in artikel 51, eerste lid, onder a, in strijd is met het recht of met het belang van de volksgezondheid.   
-2.  Indien de zorgautoriteit op een ingevolge artikel 50 gedane aanvraag op grond van het eerste lid van dit artikel afwijzend beslist, stelt zij op aanvraag van partijen of van een van hen dan wel ambtshalve een prestatiebeschrijving en een tarief vast. Artikel 50, tweede lid, is met betrekking tot die prestatiebeschrijving en dat tarief van overeenkomstige toepassing.   
-3.  Op aanvraag van een zorgaanbieder of van een ziektekostenverzekeraar stelt de zorgautoriteit voorts een prestatiebeschrijving en een tarief vast, indien een overeenkomst als bedoeld in artikel 50 niet tot stand komt. Daarbij wordt bepaald in welke gevallen de vastgestelde prestatiebeschrijving en het vastgestelde tarief geldt.   
-4.  Op aanvraag van een zorgaanbieder dan wel ambtshalve stelt de zorgautoriteit een prestatiebeschrijving en een tarief vast voor alle gevallen waarin het in rekening wordt gebracht aan iemand die voor de prestatie waarop het tarief van toepassing is, niet is verzekerd bij een ziektekostenverzekeraar. Daarbij kunnen met betrekking tot de kring van hen aan wie het tarief rechtsgeldig in rekening kan worden gebracht, beperkingen worden gesteld.   
-5.  Indien een aanvraag als bedoeld in artikel 50 of in het tweede tot en met vierde lid van het onderhavige artikel, niet voldoet aan het bij of krachtens deze paragraaf bepaalde kan de zorgautoriteit ambtshalve een prestatiebeschrijving en een tarief vaststellen.   
-6.  In gevallen waarin een beleidsregel als bedoeld in artikel 57 dat vordert, stelt de zorgautoriteit ambtshalve een tarief vast.   
-7.  Een beschikking op grond van dit artikel bevat in ieder geval de onderwerpen, genoemd in artikel 51, voor zover van toepassing.   
-8.  De zorgautoriteit kan aan een beschikking voorschriften of beperkingen verbinden.   
+De zorgautoriteit past artikel 50, eerste lid, onderdeel d, toe: 
+
+a. ingeval de zorgautoriteit gebruik maakt van de bevoegdheid op grond van artikel 37, tweede lid;  
+
+b. in de gevallen, bedoeld in artikel 52, onderdelen a tot en met f;  
+
+c. op aanvraag van een zorgaanbieder of een ziektekostenverzekeraar met betrekking tot een prestatie waarvoor de zorgautoriteit op grond van het bepaalde bij of krachtens artikel 2, tweede lid, artikel 50, eerste lid, onderdeel a, of artikel 58, vierde lid, onderdeel a, geen tarief behoeft vast te stellen.    
 
 ### Artikel  54  
 
-1.  In afwijking van de artikelen 50 en 51, eerste lid, onder b, kan een aanvraag als in die artikelen bedoeld, de vaststelling betreffen van het bedrag dat ten minste of ten hoogste als tarief voor de prestatie in rekening wordt gebracht.   
-2.  Artikel 52, eerste, vierde, zesde en zevende lid, en artikel 53 zijn van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste lid.   
-3.  Een aanvraag of een ambtshalve vaststelling als bedoeld in het tweede, derde en vijfde lid van artikel 52 of in het derde, vierde en zesde lid van artikel 53 kan ook de vaststelling betreffen van het bedrag dat ten minste of ten hoogste als tarief voor een prestatie in rekening wordt gebracht.   
-4.  Bij toepassing van het derde lid bevat de beschikking van de zorgautoriteit, in afwijking van artikel 52, zesde lid, juncto artikel 51, eerste lid, onder b, of artikel 53, zevende lid, juncto artikel 51, aanhef en onder b, het bedrag dat ten minste of ten hoogste als tarief voor de prestatie in rekening wordt gebracht.   
+1.  Een aanvraag als bedoeld in artikel 52 bevat een voorstel voor: 
+
+a. het in rekening te brengen tarief;  
+
+b. de periode waarvoor het tarief zal gelden.     
+2.  Een aanvraag als bedoeld in artikel 53 bevat een voorstel voor de vast te stellen prestatiebeschrijving.   
+3.  Indien de zorgautoriteit geen regels heeft vastgesteld als bedoeld in artikel 37, eerste lid, aanhef en onder a, bevat de aanvraag, bedoeld in de artikelen 52 en 53, voorts een voorstel voor: 
+
+a. degene aan wie het betrokken tarief in rekening wordt gebracht;  
+
+b. degene door wie het betrokken tarief in rekening wordt gebracht;  
+
+c. de wijze waarop het betrokken tarief in rekening wordt gebracht.     
 
 ### Artikel  55  
 
-1.  Voordat de zorgautoriteit een beschikking neemt op een aanvraag tot vaststelling van een tarief, stelt zij de naar haar oordeel betrokken zorgaanbieder en betrokken ziektekostenverzekeraar in de gelegenheid te worden gehoord, indien dezen of een van hen daarom hebben verzocht.   
-2.  De zorgautoriteit doet van haar voornemen een aanvraag in behandeling te nemen tijdig mededeling aan de in het eerste lid bedoelde betrokkenen.   
-3.  Het eerste en tweede lid zijn niet van toepassing op de vaststelling van een tarief op grond van artikel 52, eerste lid, en artikel 53, tweede lid.   
+1.  De zorgautoriteit beslist, met in achtneming van [artikel 4:84 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in ieder geval afwijzend op een aanvraag als bedoeld in artikel 52: 
 
-### Paragraaf  4.5  
+a. indien de voorstellen in de aanvraag in strijd zijn met het bepaalde in de beleidsregels, bedoeld in artikel 57;  
 
-####Prestatieregulering van vormen van zorg
+b. indien de aanvraag overigens niet voldoet aan het bepaalde bij of krachtens deze paragraaf.     
+2.  De zorgautoriteit beslist, met in achtneming van [artikel 4:84 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in ieder geval afwijzend op een aanvraag als bedoeld in artikel 53: 
+
+a. indien de voorgestelde prestatiebeschrijving in strijd is met het recht of met het belang van de volksgezondheid;  
+
+b. indien de aanvraag overigens niet voldoet aan het bepaalde bij of krachtens deze paragraaf.     
 
 ### Artikel  56  
 
-1.  Een zorgaanbieder of een ziektekostenverzekeraar kan de zorgautoriteit vragen een prestatiebeschrijving vast te stellen met betrekking tot een prestatie waarvoor de zorgautoriteit op grond van het bepaalde bij of krachtens artikel 2, tweede lid, artikel 57, vierde lid, onder c, dan wel artikel 58, vierde lid, geen tarief behoeft vast te stellen.   
-2.  Een aanvraag als bedoeld in het eerste lid bevat een voorstel voor de toe te passen prestatiebeschrijving.   
-3.  Indien de zorgautoriteit geen regels heeft vastgesteld als bedoeld in artikel 37 bevat de aanvraag voorts een voorstel voor: 
+1.  Voordat de zorgautoriteit een beschikking neemt op een aanvraag tot vaststelling van een tarief als bedoeld in artikel 52, onderdelen a of d, stelt zij de naar haar oordeel betrokken zorgaanbieder en betrokken ziektekostenverzekeraar in de gelegenheid te worden gehoord, indien dezen of een van hen daarom hebben verzocht.   
+2.  De zorgautoriteit doet van haar voornemen een aanvraag in behandeling te nemen tijdig mededeling aan de in het eerste lid bedoelde betrokkenen.   
 
-a. degene aan wie het tarief voor de prestatie in rekening wordt gebracht;  
+### Paragraaf  4.5  
 
-b. degene door wie het tarief voor die prestatie in rekening wordt gebracht en  
+####Vaststelling van bijdragen en vereffeningen
 
-c. de wijze waarop het tarief in rekening wordt gebracht.     
-4.  De artikelen 52, derde tot en met vijfde lid en zevende lid, en 53, eerste lid, zijn van overeenkomstige toepassing op de vaststelling van een prestatiebeschrijving. Bij zodanige vaststelling bevat een beschikking in ieder geval de onderwerpen, genoemd in het tweede en derde lid, voor zover van toepassing.   
+### Artikel  56a  
+
+1.  De zorgautoriteit kan een beschikbaarheidbijdrage toekennen ten behoeve van de beschikbaarheid van bij algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in artikel 1, onderdeel b, sub 1°, van deze wet met inachtneming van daarbij te stellen voorwaarden, voorschriften en beperkingen. Een zorgaanbieder kan de beschikbaarheidbijdrage bij het College zorgverzekeringen in rekening brengen ten laste van het Zorgverzekeringsfonds dan wel het Algemeen Fonds Bijzondere Ziektekosten. Voor een beschikbaarheidbijdrage komen uitsluitend vormen van zorg in aanmerking waarvan de kosten niet of niet geheel zijn toe te rekenen naar, of door middel van tarieven in de zin van deze wet in rekening te brengen zijn aan, individuele ziektekostenverzekeraars of verzekerden, of waarvan de bekostiging bij een zodanige toerekening dan wel een zodanige tarifering marktverstorend zou werken, en die niet op andere wijze worden bekostigd.   
+2.  De zorgautoriteit past het eerste lid toe: 
+
+a. op aanvraag van een zorgaanbieder of een ziektekostenverzekeraar;  
+
+b. ambtshalve, indien een beleidsregel als bedoeld in artikel 57 dat vordert.     
+3.  De toekenning op grond van het eerste lid laat de door de zorgaanbieder in rekening gebrachte tarieven onverlet.   
+4.  Een aanvraag om toepassing van het eerste lid bevat een voorstel voor: 
+
+a. het in rekening te brengen bedrag;  
+
+b. degene door wie het bedrag in rekening wordt gebracht.     
+5.  De zorgautoriteit kan aan de toekenning van het bedrag voorschriften of beperkingen verbinden.   
+6.  Bij of krachtens algemene maatregel van bestuur en onder daarbij te stellen voorwaarden, voorschriften en beperkingen, kan worden bepaald in welke vorm de zorgautoriteit de beschikbaarheidbijdrage kan toekennen.   
+7.  Bij of krachtens algemene maatregel van bestuur wordt bepaald of en in welke gevallen Onze minister of de zorgautoriteit, onder daarbij te stellen voorwaarden, voorschriften of beperkingen, zorgaanbieders kunnen aanwijzen die worden belast met een dienst van algemeen economisch belang als bedoeld in artikel 106, tweede lid, van het Verdrag betreffende de Werking van de Europese Unie of een dienst van algemeen belang als bedoeld in Protocol nr. 26 bij het Verdrag betreffende de werking van de Europese Unie.   
+
+### Artikel  56b  
+
+1.  De zorgautoriteit kan een vereffeningbedrag vaststellen, zijnde een bedrag dat een ziektekostenverzekeraar bij een zorgaanbieder in rekening kan brengen ten behoeve van het vereffenen van het voor een prestatie of geheel van prestaties in rekening gebrachte, betrekking hebbend op een door de zorgautoriteit bepaalde periode.   
+2.  De zorgautoriteit past het eerste lid toe: 
+
+a. op aanvraag van een ziektekostenverzekeraar of een zorgaanbieder;  
+
+b. ambtshalve, indien een beleidsregel als bedoeld in artikel 57 dat vordert.     
+3.  De vaststelling op grond van het eerste lid laat de door de zorgaanbieder in rekening gebrachte tarieven onverlet.   
+4.  Een aanvraag om toepassing van het eerste lid bevat een voorstel voor: 
+
+a. het in rekening te brengen bedrag.  
+
+b. degene aan wie het bedrag in rekening wordt gebracht;  
+
+c. degene door wie het bedrag in rekening wordt gebracht;  
+
+d. de wijze waarop het bedrag in rekening wordt gebracht.     
+5.  De zorgautoriteit kan aan de vaststelling van het bedrag voorschriften of beperkingen verbinden.   
 
 ### Paragraaf  4.6  
 
@@ -605,20 +717,16 @@ c. de wijze waarop het tarief in rekening wordt gebracht.
 
 a. het uitoefenen van de bevoegdheid om verplichtingen op te leggen op grond van de artikelen 48 en 49;  
 
-b. het uitoefenen van de bevoegdheid om tarieven vast te stellen op grond van de artikelen 50 en 52;  
+b. het uitoefenen van de bevoegdheid om tarieven vast te stellen op grond van artikel 50, eerste lid, onderdeel a, b en c;  
 
-c. het uitoefenen van de bevoegdheid tot het vaststellen van prestatiebeschrijvingen op grond van artikel 56.     
-2.  De beleidsregels, bedoeld in het eerste lid, onder b en c, kunnen inhouden op welke wijze, waaronder schriftelijk of elektronisch, onder welke voorwaarden of met inachtneming van welke voorschriften of beperkingen een aanvraag als bedoeld in die artikelen moet worden ingediend. De beperkingen kunnen mede inhouden dat de aanvraag alleen gedaan kan worden door een zorgaanbieder met een ziektekostenverzekeraar gezamenlijk of dat een aanvraag moet worden gedaan binnen een bepaalde termijn.   
-3.  De beleidsregels kunnen inhouden welke prestatiebeschrijving moet worden gehanteerd bij het in rekening brengen van een tarief.   
-4.  De beleidsregels kunnen inhouden dat met betrekking tot het in rekening te brengen tarief sprake is van: 
+c. het uitoefenen van de bevoegdheid tot het vaststellen van prestatiebeschrijvingen op grond van artikel 50, eerste lid, onderdeel d;  
 
-a. een vast tarief;  
+d. het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van artikel 50, tweede lid;  
 
-b. een bedrag dat ten minste of ten hoogste als tarief in rekening wordt gebracht;  
-
-c. een tarief waarop de artikelen 35, eerste lid, onder c en d, en 50 tot en met 55 niet van toepassing zijn.     
-5.  De beleidsregels kunnen inhouden dat de zorgautoriteit ambtshalve een tarief danwel een bedrag dat ten minste of ten hoogste als tarief in rekening wordt gebracht of een prestatiebeschrijving vaststelt.   
-6.  De beleidsregels kunnen inhouden onder welke voorwaarden of met inachtneming van welke voorschriften en beperkingen voor in die regel te onderscheiden delen van een prestatie of geheel van prestaties daarbij nader aangegeven beleidsregels van toepassing zijn.   
+e. het uitoefenen van de bevoegdheid tot het vaststellen van bedragen als bedoeld in de artikelen 56a en 56b.     
+2.  De beleidsregels, bedoeld in het eerste lid, onder b, c en e, kunnen inhouden op welke wijze, waaronder schriftelijk of elektronisch, onder welke voorwaarden of met inachtneming van welke voorschriften of beperkingen een aanvraag als bedoeld in die artikelen moet worden ingediend. De beperkingen kunnen mede inhouden dat de aanvraag alleen gedaan kan worden door een zorgaanbieder met een ziektekostenverzekeraar gezamenlijk of dat een aanvraag moet worden gedaan binnen een bepaalde termijn.   
+3.  De beleidsregels kunnen inhouden onder welke voorwaarden of met inachtneming van welke voorschriften en beperkingen voor in die regel te onderscheiden delen van een prestatie of geheel van prestaties daarbij nader aangegeven beleidsregels van toepassing zijn.   
+4.  De beleidsregels kunnen inhouden dat deze alleen van toepassing zijn voor instellingen die zijn aangewezen op grond van [artikel 8 van de Wet op bijzondere medische verrichtingen](../../../../../wet/wet/op/bijzondere/medische/verrichtingen/BWBR0008974/README.md).   
 
 ### Artikel  58  
 
@@ -629,7 +737,7 @@ c. een tarief waarop de artikelen 35, eerste lid, onder c en d, en 50 tot en met
 
 a. artikel 35 niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties;  
 
-b. artikel 35, eerste lid, onder a en b, niet van toepassing is op de prestatiebeschrijving van de bij het experiment betrokken prestaties;  
+b. artikel 35, eerste lid, onder c en d, niet van toepassing is op de prestatiebeschrijving van de bij het experiment betrokken prestaties;  
 
 c. [artikel 12, eerste lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of [artikel 15 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties;  
 
@@ -640,9 +748,19 @@ d. [artikel 12, tweede of derde lid, van de Zorgverzekeringswet](../../../../../
 
 ### Artikel  59  
 
-1.  De zorgautoriteit stelt met betrekking tot een vorm van zorg waarvoor nog geen beleidsregel geldt als bedoeld in artikel 57, vierde lid, zo’n beleidsregel niet vast dan na een aanwijzing van Onze Minister op grond van artikel 7.   
-2.  De zorgautoriteit wijzigt een beleidsregel als bedoeld in onderdeel a, b of c, van artikel 57, vierde lid, niet in die zin dat het bij die beleidsregel betrokken tarief onder een ander onderdeel van dat lid komt te vallen, dan na een aanwijzing van Onze Minister op grond van artikel 7.   
-3.  De zorgautoriteit stelt met betrekking tot een experiment als bedoeld in artikel 58 een beleidsregel niet vast dan na een aanwijzing van Onze Minister op grond van artikel 7.   
+De zorgautoriteit stelt niet dan na een aanwijzing van Onze Minister op grond van artikel 7, eerste lid, onder b, een beleidsregel vast met betrekking tot: 
+
+a. het toepassen van artikel 50, eerste lid, onderdeel a, b of c, indien voor de betrokken prestatie of voor een betrokken categorie van zorgaanbieders met betrekking tot de betrokken prestatie nog geen zodanige beleidsregel geldt;  
+
+b. het wijzigen van een beleidsregel met betrekking tot de vaststelling van een tarief als bedoeld in artikel 50, eerste lid, onderdeel a, b of c, in die zin dat de bij die beleidsregel betrokken prestatie onder een andere tariefsoort als bedoeld in die onderdelen komt te vallen;  
+
+c. het vaststellen van een grens als bedoeld in artikel 50, tweede lid;  
+
+d. het wijzigen van een beleidsregel met betrekking tot de vaststelling van een grens als bedoeld in de onderdelen van artikel 50, tweede lid, in die zin dat de in die beleidsregel genoemde grens onder een andere grenssoort als bedoeld in die onderdelen komt te vallen;  
+
+e. het vaststellen van een bedrag als bedoeld in artikel 56a en 56b;  
+
+f. een experiment als bedoeld in artikel 58.    
 
 ### Hoofdstuk  5  
 
@@ -805,7 +923,8 @@ De zorgautoriteit maakt openbaar op welke wijze zij van plan is uitvoering te ge
 
 ### Artikel  76  
 
-De zorgautoriteit is bevoegd ter handhaving van het bepaalde bij of krachtens de artikelen 23, 25, tweede lid, 27, 34, 35 tot en met 45, 48, 49, 61, 62 en 68 een aanwijzing te geven, erop gericht dat aan het bepaalde bij of krachtens die artikelen wordt voldaan.  
+1.  De zorgautoriteit is bevoegd ter handhaving van het bepaalde bij of krachtens de artikelen 23, 25, tweede lid, 27, 34, 35 tot en met 45, 48, 49, 61, 62 en 68 een aanwijzing te geven, erop gericht dat aan het bepaalde bij of krachtens die artikelen wordt voldaan.   
+2.  Indien de zorgautoriteit een zorgaanbieder een aanwijzing geeft ter handhaving van artikel 35, zevende lid, of artikel 37, eerste lid, aanhef en onder d, kan de aanwijzing voor zover het betreft de hoogte van het af te dragen bedrag uitsluitend de verplichting inhouden dat de zorgaanbieder een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de in die artikelen bedoelde vaste grens, bovengrens of bandbreedtegrens afdraagt aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten.   
 
 ### Artikel  77  
 
@@ -843,15 +962,17 @@ b. ter openbare kennis te brengen, zo nodig onder vermelding van de overwegingen
 
 ### Artikel  81  
 
-1.  Indien een zorgaanbieder of een ziektekostenverzekeraar, voorzover niet bedoeld in artikel 80, eerste lid, hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in artikel 79, aan een krachtens artikel 76 gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd: 
+1.  Indien een zorgaanbieder of een ziektekostenverzekeraar, voorzover niet in een geval als bedoeld in artikel 80, eerste lid, hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in artikel 79, aan een krachtens artikel 76 gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd: 
 
-a. een last onder bestuursdwang op te leggen, of  
+a. een last onder bestuursdwang op te leggen,  
 
 b. ter openbare kennis te brengen, zo nodig onder vermelding van de overwegingen die tot die kennisgeving hebben geleid: 
 
 1°. dat de betrokkene in strijd handelt met een of meer door de zorgautoriteit genoemde, bij of krachtens deze wet geregelde bepalingen;  
 
-2°. dat aan de betrokkene een aanwijzing is gegeven dan wel een last onder dwangsom of een bestuurlijke boete is opgelegd.       
+2°. dat aan de betrokkene een aanwijzing is gegeven dan wel een last onder dwangsom of een bestuurlijke boete is opgelegd, of    
+
+c. het bedrag, bedoeld in artikel 76, tweede lid, in te vorderen. [Titel 4.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.     
 2.  Indien het adequaat functioneren van de zorgverlenings- of zorginkoopmarkt of de positie van zorgaanbieders op die markt geen uitstel toelaat, kan de zorgautoriteit het feit onverwijld ter openbare kennis brengen.   
 3.  Het tweede tot en met achtste lid van artikel 80 zijn van overeenkomstige toepassing met betrekking tot het eerste en tweede lid.   
 
@@ -906,13 +1027,14 @@ De zorgautoriteit kan een AWBZ-verzekeraar onderscheidenlijk een rechtspersoon a
 
 ### Paragraaf  6.5  
 
-####Afdracht dwangsommen en boetes
+####Afdracht dwangsommen, boetes en andere invorderingen
 
 ### Artikel  104  
 
-1.  De zorgautoriteit draagt de op grond van de artikelen 82 en 85 ingevorderde dwangsommen en bestuurlijke boetes af aan ’s Rijks kas.   
-2.  De zorgautoriteit draagt de op grond van de artikelen 83 en 86 tot en met 89 ingevorderde dwangsommen en bestuurlijke boetes af aan het Zorgverzekeringsfonds.   
-3.  De zorgautoriteit draagt de op grond van artikel 84 ingevorderde dwangsommen af aan het Algemeen Fonds Bijzondere Ziektekosten.   
+1.  De zorgautoriteit draagt het op grond van artikel 81, eerste lid, onderdeel c, ingevorderde bedrag af aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten.   
+2.  De zorgautoriteit draagt de op grond van de artikelen 82 en 85 ingevorderde dwangsommen en bestuurlijke boetes af aan ’s Rijks kas.   
+3.  De zorgautoriteit draagt de op grond van de artikelen 83 en 86 tot en met 89 ingevorderde dwangsommen en bestuurlijke boetes af aan het Zorgverzekeringsfonds.   
+4.  De zorgautoriteit draagt de op grond van artikel 84 ingevorderde dwangsommen af aan het Algemeen Fonds Bijzondere Ziektekosten.   
 
 ### Paragraaf  6.6  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 6 januari 2005, nr. MJZ2004133913, Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op de [artikelen 39f, tweede lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [55b, derde lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [76a, tweede en derde lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [76b](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [76c, eerste lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [76d](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [76e](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [76g, tweede lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [76j, eerste en tweede lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [76n, tweede lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [86b](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [87a, derde lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), en [87b, tweede lid, van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);
+Gelet op de artikelen 39f, tweede lid, 55b, derde lid, 76a, tweede en derde lid, 76b, 76c, eerste lid, 76d, 76e, 76g, tweede lid, 76j, eerste en tweede lid, 76n, tweede lid, 86b, 87a, derde lid, en 87b, tweede lid, van de Wet bodembescherming;
 
 De Raad van State gehoord (advies van 29 maart 2005, nr. W08.05.0006/V);
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-– wet: [Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+– wet: Wet bodembescherming;  
 
-– budgethouder: gedeputeerde staten en daarmee op grond van [artikel 88 van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) gelijkgestelde bestuursorganen;  
+– budgethouder: gedeputeerde staten en daarmee op grond van artikel 88 van de wet gelijkgestelde bestuursorganen;  
 
 – subsidiabele saneringskosten: de werkelijk gemaakte kosten voor de uitvoering van de sanering, overeenkomstig het saneringsplan, die voor subsidie in aanmerking komen;  
 
@@ -30,9 +30,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – werkvoorraad landbodems landelijk gebied: vastgestelde kosten van onderzoek en sanering van verontreinigde landbodems in het landelijk gebied;  
 
-– apparaatskosten: kosten van personeel, informatievoorziening, organisatie, financieel beheer en automatisering verbonden aan de uitvoering van de taken van de [wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+– apparaatskosten: kosten van personeel, informatievoorziening, organisatie, financieel beheer en automatisering verbonden aan de uitvoering van de taken van de wet;  
 
-– bedrijfsterrein: bedrijfsterrein als bedoeld in [artikel 55a van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md).    
+– bedrijfsterrein: bedrijfsterrein als bedoeld in artikel 55a van de wet.    
 
 ### Hoofdstuk  2  
 
@@ -40,22 +40,22 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Het aan de budgethouder bekend te maken indicatieve budget wordt gevormd door het totaal van de volgende onderdelen van het landelijk op grond van [artikel 76](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [76n van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) uit te keren bodemsaneringsbudget: 
+1.  Het aan de budgethouder bekend te maken indicatieve budget wordt gevormd door het totaal van de volgende onderdelen van het landelijk op grond van artikel 76 en 76n van de wet uit te keren bodemsaneringsbudget: 
 
 a. de op het moment van de inwerkingtreding van dit besluit bestaande toezeggingen aan de budgethouder;  
 
-b. het door Onze Minister te berekenen bedrag dat gelijk is aan 30% van de bijdrage die ten behoeve van bodemsanering op grond van de [wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) is verleend aan de budgethouder voor de budgetperiode 2002 tot en met 2004;  
+b. het door Onze Minister te berekenen bedrag dat gelijk is aan 30% van de bijdrage die ten behoeve van bodemsanering op grond van de wet is verleend aan de budgethouder voor de budgetperiode 2002 tot en met 2004;  
 
 c. een door Onze Minister voor de budgethouder gereserveerd bedrag bestemd voor onderzoek en sanering van gasfabrieken;  
 
-d. het op grond van een ministeriële regeling te bepalen budget ter tegemoetkoming in de kosten van het onderzoek van onderzoeksgevallen en van het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging van regionale waterbodems zoals bedoeld in [artikel 76n van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+d. het op grond van een ministeriële regeling te bepalen budget ter tegemoetkoming in de kosten van het onderzoek van onderzoeksgevallen en van het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging van regionale waterbodems zoals bedoeld in artikel 76n van de wet;  
 
 e. het op grond van een ministeriële regeling te bepalen bedrag voor de budgethouders, gebaseerd op het relatieve aandeel van de budgethouder in de werkvoorraad landbodems landelijk gebied.     
-2.  Voor de verlening van het budget bedoeld in [artikel 76a, derde lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), kunnen bij ministeriële regeling nadere regels worden gesteld. De artikelen 4, eerste, derde, vierde en vijfde lid, 5 en 7 zijn van overeenkomstige toepassing.   
+2.  Voor de verlening van het budget bedoeld in artikel 76a, derde lid, van de wet, kunnen bij ministeriële regeling nadere regels worden gesteld. De artikelen 4, eerste, derde, vierde en vijfde lid, 5 en 7 zijn van overeenkomstige toepassing.   
 
 ### Artikel  3  
 
-1.  Voor gemeenten, genoemd in het [Besluit aanwijzing bevoegdgezaggemeenten Wet bodembescherming](../../../../../../AMvB/besluit/aanwijzing/bevoegdgezaggemeenten/wet/bodembescherming/BWBR0011935/README.md), komen apparaatskosten verbonden aan de uitvoering van de [wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voor een vergoeding in aanmerking op grond van [artikel 76b van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md). Deze vergoeding bestaat uit een door Onze Minister te bepalen bedrag per formatieplaats vermenigvuldigd met: 
+1.  Voor gemeenten, genoemd in het Besluit aanwijzing bevoegdgezaggemeenten Wet bodembescherming, komen apparaatskosten verbonden aan de uitvoering van de wet voor een vergoeding in aanmerking op grond van artikel 76b van de wet. Deze vergoeding bestaat uit een door Onze Minister te bepalen bedrag per formatieplaats vermenigvuldigd met: 
 
 a. een door Onze Minister te bepalen aantal vaste formatieplaatsen;  
 
@@ -64,7 +64,7 @@ b. het relatieve aandeel van de gemeente in de werkvoorraad landbodems vermenigv
 
 ### Artikel  4  
 
-1.  De aanvraag tot verlening van het budget, bedoeld in [artikel 76c van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), wordt, vergezeld van het in dat artikel bedoelde programma dat is vastgesteld door de budgethouder, voor 15 november voorafgaand aan de budgetperiode ingediend bij Onze Minister.   
+1.  De aanvraag tot verlening van het budget, bedoeld in artikel 76c van de wet, wordt, vergezeld van het in dat artikel bedoelde programma dat is vastgesteld door de budgethouder, voor 15 november voorafgaand aan de budgetperiode ingediend bij Onze Minister.   
 2.  In het programma worden aan de orde gesteld: 
 
 a. de doorloop van prestaties uit eerdere budgetperioden,  
@@ -80,22 +80,22 @@ d. andere bij ministeriële regeling te benoemen onderwerpen.
 
 ### Artikel  5  
 
-Onze Minister verleent het budget voor zover het programma, bedoeld in [artikel 76c van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), voldoet aan de eisen gesteld in artikel 4 en de in het programma weergegeven doelstellingen voldoende invulling geven aan de onderwerpen genoemd in artikel 4, tweede lid.  
+Onze Minister verleent het budget voor zover het programma, bedoeld in artikel 76c van de wet, voldoet aan de eisen gesteld in artikel 4 en de in het programma weergegeven doelstellingen voldoende invulling geven aan de onderwerpen genoemd in artikel 4, tweede lid.  
 
 ### Artikel  6  
 
-Afwijkingen van het programma, bedoeld in [artikel 76c van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), en de voortgang van de uitvoering daarvan worden door de budgethouder elk jaar voor 1 mei in het kader van de toepassing van [artikel 87b van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) gemeld.  
+Afwijkingen van het programma, bedoeld in artikel 76c van de wet, en de voortgang van de uitvoering daarvan worden door de budgethouder elk jaar voor 1 mei in het kader van de toepassing van artikel 87b van de wet gemeld.  
 
 ### Artikel  7  
 
-1.  De aanvraag tot vaststelling van het budget, bedoeld in [artikel 76g van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), wordt voor 15 juli van het jaar na afloop van de budgetperiode bij Onze Minister ingediend.   
-2.  Verantwoordingsinformatie over de besteding van het verleende budget wordt verstrekt op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md). In de bijlage bij de jaarrekening, bedoeld in [artikel 58a, van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md), wordt na afloop van de budgetperiode een vergelijking opgenomen waarin de doelstellingen uit het in [artikel 76c van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) genoemde programma en de aan het budget verbonden verplichtingen worden vergeleken met de bereikte resultaten en de verschillen worden toegelicht.   
+1.  De aanvraag tot vaststelling van het budget, bedoeld in artikel 76g van de wet, wordt voor 15 juli van het jaar na afloop van de budgetperiode bij Onze Minister ingediend.   
+2.  Verantwoordingsinformatie over de besteding van het verleende budget wordt verstrekt op de wijze bedoeld in artikel 27 van het Besluit financiële verhouding 2001. In de bijlage bij de jaarrekening, bedoeld in artikel 58a, van het Besluit begroting en verantwoording provincies en gemeenten, wordt na afloop van de budgetperiode een vergelijking opgenomen waarin de doelstellingen uit het in artikel 76c van de wet genoemde programma en de aan het budget verbonden verplichtingen worden vergeleken met de bereikte resultaten en de verschillen worden toegelicht.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent de aanvraag en de bij te voegen stukken.   
 
 ### Artikel  7a  
 
-1.  Het bedrag, bedoeld in [artikel 76o, eerste lid, onder a, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), bedraagt € 0,45.   
-2.  Als maximum, bedoeld in [artikel 76o, tweede lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), geldt een bedrag van € 226 890,11.   
+1.  Het bedrag, bedoeld in artikel 76o, eerste lid, onder a, van de wet, bedraagt € 0,45.   
+2.  Als maximum, bedoeld in artikel 76o, tweede lid, van de wet, geldt een bedrag van € 226 890,11.   
 3.  Het eerste en tweede lid werken terug tot en met 1 januari 2006.   
 
 ### Hoofdstuk  3  
@@ -108,7 +108,7 @@ Afwijkingen van het programma, bedoeld in [artikel 76c van de wet](../../../../.
 
 ### Artikel  8  
 
-Waar in dit hoofdstuk en volgende hoofdstukken wordt gesproken over gedeputeerde staten wordt daaronder mede verstaan de daarmee op grond van [artikel 88 van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) gelijkgestelde bestuursorganen.  
+Waar in dit hoofdstuk en volgende hoofdstukken wordt gesproken over gedeputeerde staten wordt daaronder mede verstaan de daarmee op grond van artikel 88 van de wet gelijkgestelde bestuursorganen.  
 
 ### §  2  
 
@@ -132,11 +132,11 @@ b. de eigendom onderscheidenlijk de erfpacht voor 1 januari 1995 is verworven;
 
 c. de aanmelding, bedoeld in artikel 12, plaatsvindt voor 1  januari 2008, tenzij aannemelijk wordt gemaakt dat door bijzondere omstandigheden aanmelding voor die datum niet mogelijk was;  
 
-d. de sanering wordt uitgevoerd in overeenstemming met de [wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+d. de sanering wordt uitgevoerd in overeenstemming met de wet;  
 
-e. in de beschikking bedoeld in [artikel 37, eerste lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), is vastgesteld dat er sprake is van een geval van ernstige verontreiniging dat spoedig dient te worden gesaneerd, dan wel de noodzaak tot sanering is ontstaan naar aanleiding van voorgenomen activiteiten op het desbetreffende bedrijfsterrein, en  
+e. in de beschikking bedoeld in artikel 37, eerste lid, van de wet, is vastgesteld dat er sprake is van een geval van ernstige verontreiniging dat spoedig dient te worden gesaneerd, dan wel de noodzaak tot sanering is ontstaan naar aanleiding van voorgenomen activiteiten op het desbetreffende bedrijfsterrein, en  
 
-f. er op grond van [artikel 75, eerste, derde en zesde lid van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) door de Staat geen kosten verhaald zullen worden op de aanvrager van de subsidie.     
+f. er op grond van artikel 75, eerste, derde en zesde lid van de wet door de Staat geen kosten verhaald zullen worden op de aanvrager van de subsidie.     
 2.  Indien het bedrag van de subsidie hoger zal zijn dan het bedrag van de kosten die verhaald zullen worden, geldt de voorwaarde in het eerste lid, onder f, niet voor dat deel van de subsidie dat het kostenverhaal te boven gaat.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van het bepalen van de ouderdom van de bodemverontreiniging, bedoeld in het eerste lid, onderdeel a.   
 4.  De subsidie voor het saneren van een bedrijfsterrein kan, onder de voorwaarden genoemd in het eerste lid, met uitzondering van het eerste lid, onder b, worden verleend aan de opvolgend eigenaar respectievelijk erfpachter van een bedrijfsterrein indien: 
@@ -153,14 +153,14 @@ a. naam en adresgegevens van de eigenaar respectievelijk de erfpachter;
 
 b. kadastrale gegevens van het desbetreffende perceel;  
 
-c. de resultaten van bodemonderzoek op tenminste het niveau van een verkennend onderzoek als bedoeld in [artikel 1, onder d, van het Besluit verplicht bodemonderzoek bedrijfsterreinen](../../../../../../AMvB/besluit/verplicht/bodemonderzoek/bedrijfsterreinen/BWBR0006155/README.md), dan wel, indien reeds nader onderzoek is verricht, de resultaten van dat onderzoek met betrekking tot het geval van ernstige verontreiniging dat zich op het betreffende perceel bevindt.     
+c. de resultaten van bodemonderzoek op tenminste het niveau van een verkennend onderzoek als bedoeld in artikel 1, onder d, van het Besluit verplicht bodemonderzoek bedrijfsterreinen, dan wel, indien reeds nader onderzoek is verricht, de resultaten van dat onderzoek met betrekking tot het geval van ernstige verontreiniging dat zich op het betreffende perceel bevindt.     
 2.  Aan de aanmelder wordt onverwijld een bericht van ontvangst gezonden, waarin de datum van ontvangst van de aanmelding wordt vermeld.   
 
 ### Artikel  13  
 
 1.  De aanvraag gaat in ieder geval vergezeld van: 
 
-a. een saneringsplan als bedoeld in [artikel 39 van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), met daarbij de resultaten van een nader onderzoek indien deze niet bij de aanmelding, bedoeld in artikel 12 zijn overgelegd, dan wel een melding op grond van [artikel 39b van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md),  
+a. een saneringsplan als bedoeld in artikel 39 van de wet, met daarbij de resultaten van een nader onderzoek indien deze niet bij de aanmelding, bedoeld in artikel 12 zijn overgelegd, dan wel een melding op grond van artikel 39b van de wet,  
 
 b. een gewaarmerkte kopie van de koopovereenkomst en een kopie van de akte van eigendomsoverdracht van het bedrijfsterrein en, indien van toepassing, een kopie van de akte tot vestiging van het erfpachtrecht en van de akte tot overdracht van het erfpachtrecht, en  
 
@@ -192,12 +192,12 @@ c. op het moment van de beslissing omtrent verlening reeds een aanvang is gemaak
 
 a. de sanering heeft niet tot gevolg dat de bodem geschikt wordt gemaakt voor gevoeliger gebruik dan gebruik als bedrijfsterrein en  
 
-b. het bedrijfsterrein wordt niet binnen vijf jaar nadat gedeputeerde staten hebben ingestemd met het verslag, bedoeld in [artikel 39c van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), ten behoeve van gevoeliger gebruik dan gebruik als bedrijfsterrein benut of vervreemd.     
+b. het bedrijfsterrein wordt niet binnen vijf jaar nadat gedeputeerde staten hebben ingestemd met het verslag, bedoeld in artikel 39c van de wet, ten behoeve van gevoeliger gebruik dan gebruik als bedrijfsterrein benut of vervreemd.     
 2.  Indien zich binnen vijf jaar na subsidievaststelling een situatie voordoet als bedoeld in het eerste lid, onder a en b, meldt de eigenaar of erfpachter die onverwijld aan Onze Minister.   
 
 ### Artikel  17  
 
-1.  De hoogte van de subsidie is bij directe of indirecte betrokkenheid, als bedoeld in [artikel 46, eerste lid, onderdeel b van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), van de eigenaar of de erfpachter bij de veroorzaking van de verontreiniging dan wel in het geval van een duurzame rechtsbetrekking tussen de eigenaar of de erfpachter enerzijds en de veroorzaker van de verontreiniging anderzijds 
+1.  De hoogte van de subsidie is bij directe of indirecte betrokkenheid, als bedoeld in artikel 46, eerste lid, onderdeel b van de wet, van de eigenaar of de erfpachter bij de veroorzaking van de verontreiniging dan wel in het geval van een duurzame rechtsbetrekking tussen de eigenaar of de erfpachter enerzijds en de veroorzaker van de verontreiniging anderzijds 
 
 a. 30 % van de subsidiabele saneringskosten, indien de verwerving van het zakelijk recht heeft plaatsgevonden voor 1 januari 1983 of  
 
@@ -218,7 +218,7 @@ c. 15% van de subsidiabele saneringskosten, indien de verwerving van het zakelij
 
 Onder verwerving als bedoeld in artikel 17 wordt niet verstaan: 
 
-a. de omzetting van de rechtsvorm van de onderneming als bedoeld in [artikel 3.65 van de Wet inkomstenbelasting](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) door de eigenaar dan wel de erfpachter van het bedrijfsterrein van de onderneming;  
+a. de omzetting van de rechtsvorm van de onderneming als bedoeld in artikel 3.65 van de Wet inkomstenbelasting door de eigenaar dan wel de erfpachter van het bedrijfsterrein van de onderneming;  
 
 b. de overdracht van de onderneming binnen het familieverband van de eigenaar tot de tweede graad in de rechte lijn;  
 
@@ -241,19 +241,19 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ### Artikel  21  
 
-1.  De aanvraag tot subsidievaststelling wordt bij Onze Minister ingediend gelijktijdig met de indiening van het verslag, bedoeld in [artikel 39c van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), of uiterlijk dertien weken daarna.   
+1.  De aanvraag tot subsidievaststelling wordt bij Onze Minister ingediend gelijktijdig met de indiening van het verslag, bedoeld in artikel 39c van de wet, of uiterlijk dertien weken daarna.   
 2.  De aanvraag gaat vergezeld van een financieel verslag dat is opgebouwd overeenkomstig de begroting van de saneringskosten op grond waarvan subsidie is verleend.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens die bij de aanvraag bedoeld in het eerste lid worden verstrekt.   
-4.  Het financiële verslag gaat vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die wordt afgegeven na toetsing van de wijze van besteding van de gelden op basis van de [wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), dit besluit en de daarop berustende regelgeving.   
+4.  Het financiële verslag gaat vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, die wordt afgegeven na toetsing van de wijze van besteding van de gelden op basis van de wet, dit besluit en de daarop berustende regelgeving.   
 
 ### Artikel  22  
 
-1.  Onze Minister beslist binnen dertien weken na ontvangst van de aanvraag tot subsidievaststelling op de aanvraag, in elk geval nadat is beslist op het verslag, bedoeld in [artikel 39c van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md).   
+1.  Onze Minister beslist binnen dertien weken na ontvangst van de aanvraag tot subsidievaststelling op de aanvraag, in elk geval nadat is beslist op het verslag, bedoeld in artikel 39c van de wet.   
 2.  Onze Minister kan de termijn, bedoeld in het eerste lid, met ten hoogste dertien weken verlengen. Van die verlenging wordt schriftelijk mededeling gedaan aan de aanvrager.   
 
 ### Artikel  23  
 
-1.  Indien de uitvoering van de sanering van het bedrijfsterrein overeenkomstig [artikel 38, derde lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), in fasen geschiedt of ingevolge [artikel 39, eerste lid, onderdeel h, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), tijdstippen zijn bepaald waarop tussentijds wordt gerapporteerd aan gedeputeerde staten, kan de aanvraag om vaststelling bedoeld in artikel 21, eerste lid, eerder worden ingediend, na voltooiing van een aantal fasen van de sanering, of, indien tussentijds over de voortgang wordt gerapporteerd en daaruit blijkt dat de tussentijdse effecten zijn bereikt.   
+1.  Indien de uitvoering van de sanering van het bedrijfsterrein overeenkomstig artikel 38, derde lid, van de wet, in fasen geschiedt of ingevolge artikel 39, eerste lid, onderdeel h, van de wet, tijdstippen zijn bepaald waarop tussentijds wordt gerapporteerd aan gedeputeerde staten, kan de aanvraag om vaststelling bedoeld in artikel 21, eerste lid, eerder worden ingediend, na voltooiing van een aantal fasen van de sanering, of, indien tussentijds over de voortgang wordt gerapporteerd en daaruit blijkt dat de tussentijdse effecten zijn bereikt.   
 2.  Indien de aanvraag om subsidievaststelling op grond van het eerste lid is ingediend, wordt de hoogte van de subsidie berekend over de subsidiabele saneringskosten die zijn gemoeid met de uitvoering van de sanering voor zover deze is voltooid.   
 
 ### §  4  
@@ -279,7 +279,7 @@ Het subsidiebedrag wordt betaald binnen acht weken nadat de beschikking tot subs
 
 ### Artikel  26  
 
-1.  De bestuursorganen aan wie Onze Minister de uitvoering van bepalingen van dit besluit krachtens [artikel 76j, vierde lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) heeft gedelegeerd, melden een aanvraag als bedoeld in artikel 13, eerste lid, voorafgaand aan de beslissing omtrent verlening van de subsidie bij Onze Minister.   
+1.  De bestuursorganen aan wie Onze Minister de uitvoering van bepalingen van dit besluit krachtens artikel 76j, vierde lid, van de wet heeft gedelegeerd, melden een aanvraag als bedoeld in artikel 13, eerste lid, voorafgaand aan de beslissing omtrent verlening van de subsidie bij Onze Minister.   
 2.  De melding, bedoeld in het eerste lid, bevat: 
 
 a. een concept van de beschikking tot subsidieverlening op de aanvraag, bedoeld in het eerste lid, die een bestuursorgaan als bedoeld in het eerste lid, voornemens is af te geven;  
@@ -295,7 +295,7 @@ a. wordt schriftelijk uiterlijk 31 maart na het kalenderjaar waarover de bijdra
 
 b. bevat de bij ministeriële regeling voorgeschreven gegevens en de gegevens, bedoeld in artikel 28 alsmede de verklaring bedoeld in artikel 29, eerste lid.     
 3.  Onze Minister stelt de bijdrage aan de bestuursorganen, bedoeld in artikel 26, vast indien de aanvraag voldoet aan de voorwaarden bedoeld in het tweede lid.   
-4.  De bestuursorganen, bedoeld in artikel 26, kunnen schriftelijk een gemotiveerde aanvraag voor een voorschot op de bijdrage, bedoeld in het eerste lid, indienen. Deze aanvraag moet voldoen aan de voorwaarden gesteld in het tweede lid, onder b, en kan worden ingediend indien en voor zover bedoelde bestuursorganen voorzien dat er onvoldoende financiële middelen op grond van de uitvoering van de [wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) zijn om de subsidie aan derden, ten behoeve van sanering van gevallen genoemd in het eerste lid, tijdig te kunnen uitbetalen.   
+4.  De bestuursorganen, bedoeld in artikel 26, kunnen schriftelijk een gemotiveerde aanvraag voor een voorschot op de bijdrage, bedoeld in het eerste lid, indienen. Deze aanvraag moet voldoen aan de voorwaarden gesteld in het tweede lid, onder b, en kan worden ingediend indien en voor zover bedoelde bestuursorganen voorzien dat er onvoldoende financiële middelen op grond van de uitvoering van de wet zijn om de subsidie aan derden, ten behoeve van sanering van gevallen genoemd in het eerste lid, tijdig te kunnen uitbetalen.   
 
 ### Artikel  28  
 
@@ -303,7 +303,7 @@ Van de besteding van de bijdrage bedoeld in artikel 27, eerste lid, wordt een be
 
 ### Artikel  29  
 
-1.  De bestedingsverantwoording bedoeld in artikel 28, gaat vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  De bestedingsverantwoording bedoeld in artikel 28, gaat vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  De verklaring, bedoeld in het eerste lid, wordt opgesteld met inachtneming van de bij ministeriële regeling gestelde regels.   
 
 ### Hoofdstuk  5  
@@ -337,12 +337,12 @@ b. een overzicht van de aan de activiteiten verbonden uitgaven.
 
 1.  Binnen dertien weken na afloop van de activiteiten waarvoor subsidie is verleend dient de subsidie-ontvanger een aanvraag tot vaststelling van de projectsubsidie in.   
 2.  De aanvraag gaat vergezeld van een financieel verslag dat is opgebouwd overeenkomstig de begroting van de saneringskosten op grond waarvan subsidie is verleend.   
-3.  Het financiële verslag gaat vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die wordt afgegeven na toetsing van de wijze van besteding van de gelden op basis van de [wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), dit besluit en de daarop berustende regelgeving.   
+3.  Het financiële verslag gaat vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, die wordt afgegeven na toetsing van de wijze van besteding van de gelden op basis van de wet, dit besluit en de daarop berustende regelgeving.   
 4.  Onze Minister beslist binnen dertien weken op de aanvraag tot vaststelling van de projectsubsidie.   
 
 ### Artikel  35  
 
-Onze Minister kan per boekjaar subsidie verstrekken aan de coördinerende rechtspersoon, bedoeld in artikel 30 ten behoeve van de exploitatielasten van diens bureau. [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.  
+Onze Minister kan per boekjaar subsidie verstrekken aan de coördinerende rechtspersoon, bedoeld in artikel 30 ten behoeve van de exploitatielasten van diens bureau. Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.  
 
 ### Artikel  36  
 
@@ -354,7 +354,7 @@ Onze Minister kan per boekjaar subsidie verstrekken aan de coördinerende rechts
 1.  Onze Minister beslist binnen dertien weken op de aanvraag tot vaststelling van een subsidie als bedoeld in artikel 35.   
 2.  Onze Minister kan de termijn, bedoeld in het eerste lid, voor ten hoogste dertien weken verlengen. Van die verlenging wordt schriftelijk mededeling gedaan aan de aanvrager.   
 3.  De aanvraag tot vaststelling van een subsidie als bedoeld in artikel 35, gaat vergezeld van een financieel verslag dat is opgebouwd overeenkomstig de begroting van de exploitatiekosten op grond waarvan subsidie is verleend.   
-4.  Het financiële verslag gaat vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die wordt afgegeven na toetsing van de wijze van besteding van de gelden op basis van de [wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), dit besluit en de daarop berustende regelgeving.   
+4.  Het financiële verslag gaat vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, die wordt afgegeven na toetsing van de wijze van besteding van de gelden op basis van de wet, dit besluit en de daarop berustende regelgeving.   
 
 ### Artikel  37a  
 
@@ -372,20 +372,20 @@ c. op het moment van de beslissing omtrent verlening reeds een aanvang is gemaak
 
 ### Artikel  38  
 
-1.  Financiële zekerheid als bedoeld in [artikel 55b, derde lid van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), wordt door de opvolgende eigenaar of erfpachter ten behoeve van gedeputeerde staten gesteld door middel van: 
+1.  Financiële zekerheid als bedoeld in artikel 55b, derde lid van de wet, wordt door de opvolgende eigenaar of erfpachter ten behoeve van gedeputeerde staten gesteld door middel van: 
 
 a. een bankgarantie, of  
 
 b. een hypotheek- of een pandrecht of,  
 
 c. het treffen van een andere voorziening, waarbij de financiële zekerheid naar het oordeel van gedeputeerde staten gelijkwaardig is aan de financiële zekerheid, genoemd in de onderdelen a en b.     
-2.  De financiële zekerheid wordt in stand gehouden totdat gedeputeerde staten hebben ingestemd met het saneringsplan, bedoeld in [artikel 39 van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md).   
+2.  De financiële zekerheid wordt in stand gehouden totdat gedeputeerde staten hebben ingestemd met het saneringsplan, bedoeld in artikel 39 van de wet.   
 3.  Bij het niet nakomen van de verplichting waarvoor financiële zekerheid is gesteld nemen gedeputeerde staten verhaal op de gestelde zekerheid.   
 4.  Gedeputeerde staten kunnen het te verhalen bedrag, bedoeld in het derde lid, invorderen bij dwangbevel.   
 
 ### Artikel  39  
 
-1.  Gedeputeerde staten kunnen financiële zekerheid laten stellen in een geval als bedoeld in [artikel 39f van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), indien de saneringskosten van het te saneren geval, dan wel de kosten van nazorg na de sanering, voor meer dan 50% na een periode van tenminste vijf jaar zullen worden gerealiseerd.   
+1.  Gedeputeerde staten kunnen financiële zekerheid laten stellen in een geval als bedoeld in artikel 39f van de wet, indien de saneringskosten van het te saneren geval, dan wel de kosten van nazorg na de sanering, voor meer dan 50% na een periode van tenminste vijf jaar zullen worden gerealiseerd.   
 2.  Indien gedeputeerde staten de verplichting tot het stellen van financiële zekerheid opleggen, kunnen zij bepalen op welke wijze aan die verplichting uitvoering wordt gegeven. Daarbij kunnen de volgende vormen worden opgelegd: 
 
 a. een borgtocht of een bankgarantie  
@@ -399,7 +399,7 @@ d. het treffen van een andere voorziening, waarbij de financiële zekerheid naar
 4.  Gedeputeerde staten kunnen het te verhalen bedrag, bedoeld in het derde lid, invorderen bij dwangbevel.   
 5.  De verplichting financiële zekerheid in stand te houden vervalt: 
 
-a. Met betrekking tot de uitvoering van het saneringsplan als bedoeld in [artikel 39, eerste lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md): wanneer gedeputeerde staten overeenkomstig [artikel 39c, derde lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), hebben ingestemd met het daarin bedoelde verslag;  
+a. Met betrekking tot de uitvoering van het saneringsplan als bedoeld in artikel 39, eerste lid: wanneer gedeputeerde staten overeenkomstig artikel 39c, derde lid, hebben ingestemd met het daarin bedoelde verslag;  
 
 b. Wanneer gedeputeerde staten aan degene aan wie de verplichting was opgelegd te kennen hebben gegeven dat naar hun oordeel financiële zekerheid niet langer vereist is.     
 6.  Gedeputeerde staten bepalen de hoogte van het bedrag waarvoor financiële zekerheid wordt gesteld op basis van de te verwachten kosten van sanering of nazorg na een periode van 5 jaar. Het bedrag kan op verzoek van degene die de zekerheid heeft gesteld tussentijds worden bijgesteld indien een deel van de maatregelen waarvoor zekerheid is gesteld, is uitgevoerd.   
@@ -410,28 +410,28 @@ b. Wanneer gedeputeerde staten aan degene aan wie de verplichting was opgelegd t
 
 ### Artikel  40  
 
-1.  Het bepaalde in het tweede tot en met vierde lid is van toepassing op een sanering, voor zover de verontreiniging op of in de bodem van het bedrijfsterrein voor 1 januari 1975 is veroorzaakt, dan wel voor zover de verontreiniging op of na 1 januari 1975 is veroorzaakt en de eigenaar of erfpachter van het bedrijfsterrein niet op grond van [artikel 75, eerste lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) aansprakelijk is voor de gevolgen daarvan.   
+1.  Het bepaalde in het tweede tot en met vierde lid is van toepassing op een sanering, voor zover de verontreiniging op of in de bodem van het bedrijfsterrein voor 1 januari 1975 is veroorzaakt, dan wel voor zover de verontreiniging op of na 1 januari 1975 is veroorzaakt en de eigenaar of erfpachter van het bedrijfsterrein niet op grond van artikel 75, eerste lid, van de wet aansprakelijk is voor de gevolgen daarvan.   
 2.  Indien naar het oordeel van Onze Minister de levensvatbaarheid van een bedrijf als gevolg van de handhaving van de verplichting tot sanering zodanig in gevaar komt dat het voortbestaan van het bedrijf onzeker is, neemt Onze Minister op verzoek van de eigenaar of erfpachter de uitvoering van de sanering op zich.   
 3.  De eigenaar of erfpachter vergoedt in het geval, bedoeld in het tweede lid, aan Onze Minister een naar draagkracht te bepalen bedrag waarvan de hoogte wordt bepaald volgens de bijlage bij dit besluit.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wederzijdse bevoegdheden en verplichtingen van eigenaar of erfpachter en Onze Minister bij de uitvoering van de sanering in het in het tweede lid bedoelde geval.   
 
 ### Artikel  40a  
 
-1.  Voor zover de verontreiniging op of in de bodem van het bedrijfsterrein op of na 1 januari 1975 is veroorzaakt en de eigenaar of erfpachter van het bedrijfsterrein op grond van [artikel 75, eerste lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) aansprakelijk is voor de gevolgen daarvan, is artikel 40, tweede en derde lid, van overeenkomstige toepassing indien voldaan wordt aan de eisen gesteld bij of krachtens de Verordening (EG) nr. 69/2001 van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van artikel 87 en 88 van het EG-verdrag op de de minimis-steun (PbEG L10),dan wel daarvoor in de plaats tredende Europese regelgeving. Daarbij wordt afgeweken van de bijlage behorende bij artikel 40 van dit besluit voor zover de regels gesteld bij of krachtens de genoemde verordening of de daarvoor in de plaats tredende regelgeving daartoe verplichten.   
+1.  Voor zover de verontreiniging op of in de bodem van het bedrijfsterrein op of na 1 januari 1975 is veroorzaakt en de eigenaar of erfpachter van het bedrijfsterrein op grond van artikel 75, eerste lid, van de wet aansprakelijk is voor de gevolgen daarvan, is artikel 40, tweede en derde lid, van overeenkomstige toepassing indien voldaan wordt aan de eisen gesteld bij of krachtens de Verordening (EG) nr. 69/2001 van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van artikel 87 en 88 van het EG-verdrag op de de minimis-steun (PbEG L10),dan wel daarvoor in de plaats tredende Europese regelgeving. Daarbij wordt afgeweken van de bijlage behorende bij artikel 40 van dit besluit voor zover de regels gesteld bij of krachtens de genoemde verordening of de daarvoor in de plaats tredende regelgeving daartoe verplichten.   
 2.  Bij ministeriële regeling worden nadere regels gesteld ter uitvoering van het eerste lid. Artikel 40, vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  41  
 
 1.  Onze Minister kan aan een organisatie zonder winstoogmerk per boekjaar subsidie verstrekken voor bij ministeriële regeling aangewezen activiteiten op het gebied van onderzoek en sanering.   
-2.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+2.  Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.   
 
 ### Artikel  42  
 
-Indien op grond van [artikel 86b van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), het bedrag dat uit ’s Rijks kas beschikbaar is, wordt verhoogd of anderszins budgettaire ruimte ontstaat en Onze Minister het budget verhoogt, kan Onze Minister andere criteria dan de in artikel 4, tweede lid genoemde, laten gelden. Voorafgaand aan de verhoging van het budget wordt door de budgethouder een aanvulling van het programma, bedoeld in [artikel 76c, eerste lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) ingediend. De artikelen 3, 4, tweede tot en met vijfde lid, 5 en 7 zijn van toepassing.  
+Indien op grond van artikel 86b van de wet, het bedrag dat uit ’s Rijks kas beschikbaar is, wordt verhoogd of anderszins budgettaire ruimte ontstaat en Onze Minister het budget verhoogt, kan Onze Minister andere criteria dan de in artikel 4, tweede lid genoemde, laten gelden. Voorafgaand aan de verhoging van het budget wordt door de budgethouder een aanvulling van het programma, bedoeld in artikel 76c, eerste lid, van de wet ingediend. De artikelen 3, 4, tweede tot en met vijfde lid, 5 en 7 zijn van toepassing.  
 
 ### Artikel  43  
 
-Bij ministeriële regeling worden regels gesteld met betrekking tot de gegevens bedoeld in [artikel 87a, tweede lid, van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en de wijze waarop het verslag bedoeld in [87b van de wet](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) wordt gedaan en de gegevens die daarbij worden verstrekt.  
+Bij ministeriële regeling worden regels gesteld met betrekking tot de gegevens bedoeld in artikel 87a, tweede lid, van de wet en de wijze waarop het verslag bedoeld in 87b van de wet wordt gedaan en de gegevens die daarbij worden verstrekt.  
 
 ### Hoofdstuk  8  
 
@@ -447,7 +447,7 @@ Dit besluit wordt aangehaald als: Besluit financiële bepalingen bodemsanering.
 
 ### Artikel  46  
 
-1.  Indien het bij koninklijke boodschap van 11 maart 2004 ingediende voorstel van wet tot wijziging van de Wet bodembescherming en enkele andere wetten in verband met wijzigingen in het beleid inzake bodemsaneringen (29 462) tot wet wordt verheven, treedt [die wet](../../../../../../wet/wijzigingswet/wet/bodembescherming/enz./(beleid/inzake/bodemsaneringen)/BWBR0019284/README.md) in werking met ingang van 1 januari 2006. Indien het Staatsblad waarin [die wet](../../../../../../wet/wijzigingswet/wet/bodembescherming/enz./(beleid/inzake/bodemsaneringen)/BWBR0019284/README.md) of dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2005, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.   
+1.  Indien het bij koninklijke boodschap van 11 maart 2004 ingediende voorstel van wet tot wijziging van de Wet bodembescherming en enkele andere wetten in verband met wijzigingen in het beleid inzake bodemsaneringen (29 462) tot wet wordt verheven, treedt die wet in werking met ingang van 1 januari 2006. Indien het Staatsblad waarin die wet of dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2005, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.   
 2.  Indien het bij koninklijke boodschap van 11 maart 2004 ingediende voorstel van wet tot wijziging van de Wet bodembescherming en enkele andere wetten in verband met wijzigingen in het beleid inzake bodemsaneringen (29 462) nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking, met uitzondering van artikel 40 en de daarbij behorende bijlage, die in werking treden op een bij koninklijk besluit te bepalen tijdstip. De artikelen 2, 3, 4, 5, 41 en 43 werken terug tot en met 1 januari 2005.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
@@ -473,7 +473,7 @@ J. P. H. Donner
 Ter bepaling van de vergoeding naar draagkracht door een bedrijf aan het bevoegd gezag Wbb in het geval het bevoegd gezag op verzoek van het bedrijf de uitvoering van de sanering op zich neemt Van deze bijlage wordt afgeweken voor zover de regels gesteld bij of krachtens artikel 40a van het Besluit financiële bepalingen bodemsanering daartoe verplichten.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Begrippenlijst:  |
 | 1.  | Inleiding  |
 | 2.  | Doelgroep  |
@@ -487,7 +487,7 @@ Ter bepaling van de vergoeding naar draagkracht door een bedrijf aan het bevoegd
 
 #### *Begrippenlijst* 
 
-*betaalcapaciteit*: de vrije financiële ruimte van de onderneming of groep van ondernemingen die beschikbaar is om aan de verschuldigde rente en aflossing van eventueel nieuw te verstrekken leningen te kunnen voldoen. *bestendige gedragslijn*: een constant gehanteerde wijze van kosten- en opbrengstentoedeling, afschrijvingen, en winstpolitiek over de verslagjaren. *groep van ondernemingen*: onder groep wordt, naar analogie van [artikel 24 lid b Burgerlijk Wetboek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), verstaan een economische eenheid waarin natuurlijke personen, rechtspersonen en vennootschappen organisatorisch zijn verbonden. *minimale vergoeding door het bedrijf aan het bevoegd gezag*: de waardestijging van het terrein minus 0,15 x de kosten van sanering. *«genormaliseerde» herinvesteringen*: de afschrijvingskosten minus de afschrijving op onroerende zaken, voor zover dit geen afschrijvingen op verbouwingen betreffen. *«genormaliseerde» exploitatierekening*: een exploitatierekening waarin afwijkingen van een bestendige gedragslijn alsook afwijkingen van de gebruikelijke fiscale afschrijvingsregimes worden geëlimineerd/gecorrigeerd. *overigens gezond bedrijf*: de onderneming of groep van ondernemingen die, afgezien van een eventuele sanering, in staat wordt geacht aan de normale kosten van bedrijfsvoering inclusief ondernemersbeloning uit het resultaat van de onderneming(en) te kunnen voldoen. *voorliggende voorzieningen*: interne financieringsbronnen en externe financieringsmogelijkheden, waarbij: 
+*betaalcapaciteit*: de vrije financiële ruimte van de onderneming of groep van ondernemingen die beschikbaar is om aan de verschuldigde rente en aflossing van eventueel nieuw te verstrekken leningen te kunnen voldoen. *bestendige gedragslijn*: een constant gehanteerde wijze van kosten- en opbrengstentoedeling, afschrijvingen, en winstpolitiek over de verslagjaren. *groep van ondernemingen*: onder groep wordt, naar analogie van artikel 24 lid b Burgerlijk Wetboek 2, verstaan een economische eenheid waarin natuurlijke personen, rechtspersonen en vennootschappen organisatorisch zijn verbonden. *minimale vergoeding door het bedrijf aan het bevoegd gezag*: de waardestijging van het terrein minus 0,15 x de kosten van sanering. *«genormaliseerde» herinvesteringen*: de afschrijvingskosten minus de afschrijving op onroerende zaken, voor zover dit geen afschrijvingen op verbouwingen betreffen. *«genormaliseerde» exploitatierekening*: een exploitatierekening waarin afwijkingen van een bestendige gedragslijn alsook afwijkingen van de gebruikelijke fiscale afschrijvingsregimes worden geëlimineerd/gecorrigeerd. *overigens gezond bedrijf*: de onderneming of groep van ondernemingen die, afgezien van een eventuele sanering, in staat wordt geacht aan de normale kosten van bedrijfsvoering inclusief ondernemersbeloning uit het resultaat van de onderneming(en) te kunnen voldoen. *voorliggende voorzieningen*: interne financieringsbronnen en externe financieringsmogelijkheden, waarbij: 
 
 * *interne financieringsbronnen*: beschikbare activa die niet noodzakelijk worden geacht voor de normale bedrijfsuitoefening.  
 
@@ -501,7 +501,7 @@ De minister van VROM heeft toegezegd dat zoveel mogelijk zal worden voorkomen da
 
 2. een recht op subsidie voor de saneringsplichtigen en  
 
-3. draagkrachtondersteuning voor overigens gezonde bedrijven die failliet zouden gaan als gevolg van de saneringsplicht.   De saneringsplicht is opgenomen in [artikel 55b van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) (Wbb). De subsidiegrondslag is in [artikel 76j van de Wbb](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) opgenomen en wordt bij AMvB geregeld in hoofdstuk 3 van het Besluit financiële bepalingen bodemsanering (bedrijvenregelingdeel). De grondslag voor draagkrachtondersteuning is opgenomen in artikel 40 van dit besluit. Het artikel stelt dat indien naar het oordeel van het bevoegd gezag de levensvatbaarheid van het bedrijf als gevolg van de verplichting tot sanering zodanig in gevaar komt dat het voortbestaan van het bedrijf onzeker is, het bevoegd gezag Wbb op verzoek van de eigenaar of erfpachter de uitvoering van de sanering op zich kan nemen. De eigenaar of erfpachter vergoedt in dat geval aan het bevoegd gezag een naar *draagkracht* te bepalen bedrag en het bevoegd gezag wordt opdrachtgever van de sanering. Genoemd artikel in het Besluit financiële bepalingen is niet alleen van toepassing op ernstig verontreinigde bedrijfsterreinen die bedrijfsterrein blijven. Immers: bodemverontreiniging zal ook financiële gevolgen hebben voor de eigenaren en erfpachters van *bedrijfsterreinen die moeten worden gesaneerd in het kader van stedelijke vernieuwing of natuurontwikkeling*. Hoewel in die gevallen de kosten van de bodemsanering veelal worden meegewogen in een afspraak over beëindiging of uitplaatsing van het bedrijf, kan het draagkrachtinstrument een rol vervullen bij de bepaling van de verdeling van de kosten over de belanghebbenden bij het project. De hoogte van de bijdrage van de eigenaar of erfpachter is bepalend voor de «multiplier» van de bodemsaneringsmiddelen van de overheid. Teneinde de vergoeding naar draagkracht van een bedrijf te kunnen bepalen is een draagkrachttoets ontwikkeld. Op grond van deze toets kan geobjectiveerd onderzoek worden uitgevoerd naar de draagkracht van een bedrijfsmatige eigenaar van vervuilde grond die, naar het oordeel van het bevoegd gezag, zijn bodem dient te saneren. Door te onderzoeken hoeveel kosten redelijkerwijs ten laste van het bedrijf te brengen zijn, wordt gestreefd zoveel mogelijk te voorkomen dat «overigens gezonde» bedrijven failliet gaan ten gevolge van een opgelegde bodemsanering. Aan de hand van de toets wordt de hoogte en samenstelling van de vergoeding door het bedrijf vastgesteld. De overige saneringskosten komen voor rekening van het bevoegd gezag. Voorzover deze niet uit de subsidieregeling voor bodemsanering van in gebruik zijnde en blijvende bedrijfsterreinen gedekt kunnen worden, brengt het deze ten laste van zijn ISV- of Wbb-bodemsaneringsbudget.  
+3. draagkrachtondersteuning voor overigens gezonde bedrijven die failliet zouden gaan als gevolg van de saneringsplicht.   De saneringsplicht is opgenomen in artikel 55b van de Wet bodembescherming (Wbb). De subsidiegrondslag is in artikel 76j van de Wbb opgenomen en wordt bij AMvB geregeld in hoofdstuk 3 van het Besluit financiële bepalingen bodemsanering (bedrijvenregelingdeel). De grondslag voor draagkrachtondersteuning is opgenomen in artikel 40 van dit besluit. Het artikel stelt dat indien naar het oordeel van het bevoegd gezag de levensvatbaarheid van het bedrijf als gevolg van de verplichting tot sanering zodanig in gevaar komt dat het voortbestaan van het bedrijf onzeker is, het bevoegd gezag Wbb op verzoek van de eigenaar of erfpachter de uitvoering van de sanering op zich kan nemen. De eigenaar of erfpachter vergoedt in dat geval aan het bevoegd gezag een naar *draagkracht* te bepalen bedrag en het bevoegd gezag wordt opdrachtgever van de sanering. Genoemd artikel in het Besluit financiële bepalingen is niet alleen van toepassing op ernstig verontreinigde bedrijfsterreinen die bedrijfsterrein blijven. Immers: bodemverontreiniging zal ook financiële gevolgen hebben voor de eigenaren en erfpachters van *bedrijfsterreinen die moeten worden gesaneerd in het kader van stedelijke vernieuwing of natuurontwikkeling*. Hoewel in die gevallen de kosten van de bodemsanering veelal worden meegewogen in een afspraak over beëindiging of uitplaatsing van het bedrijf, kan het draagkrachtinstrument een rol vervullen bij de bepaling van de verdeling van de kosten over de belanghebbenden bij het project. De hoogte van de bijdrage van de eigenaar of erfpachter is bepalend voor de «multiplier» van de bodemsaneringsmiddelen van de overheid. Teneinde de vergoeding naar draagkracht van een bedrijf te kunnen bepalen is een draagkrachttoets ontwikkeld. Op grond van deze toets kan geobjectiveerd onderzoek worden uitgevoerd naar de draagkracht van een bedrijfsmatige eigenaar van vervuilde grond die, naar het oordeel van het bevoegd gezag, zijn bodem dient te saneren. Door te onderzoeken hoeveel kosten redelijkerwijs ten laste van het bedrijf te brengen zijn, wordt gestreefd zoveel mogelijk te voorkomen dat «overigens gezonde» bedrijven failliet gaan ten gevolge van een opgelegde bodemsanering. Aan de hand van de toets wordt de hoogte en samenstelling van de vergoeding door het bedrijf vastgesteld. De overige saneringskosten komen voor rekening van het bevoegd gezag. Voorzover deze niet uit de subsidieregeling voor bodemsanering van in gebruik zijnde en blijvende bedrijfsterreinen gedekt kunnen worden, brengt het deze ten laste van zijn ISV- of Wbb-bodemsaneringsbudget.  
 
 #### *2. Doelgroep* 
 
@@ -513,7 +513,7 @@ Doelstelling is zoveel mogelijk te voorkomen dat – overigens gezonde – bed
 
 #### *4. Aanpak en criteria* 
 
-Het draagkrachtinstrument is gebaseerd op de werkwijze die ook is toegepast bij het [Besluit bijstandverlening zelfstandigen 2004](../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) (Bbz 2004). Het [Bbz 2004](../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) ondersteunt ondernemers die – door welke oorzaak dan ook – tijdelijk in financiële problemen zijn geraakt of dreigen te raken. Voorwaarde is, dat het bedrijf na financiële ondersteuning naar verwachting levensvatbaar is, en dat de ondernemer het wil voortzetten. Bij de bepaling van de grondslagen voor de draagkrachttoets is, waar mogelijk en/of voor zover van toepassing, uitgegaan van de regels en gebruikelijke praktijk die wordt gehanteerd bij de toetsing van ondernemers die in aanmerking wensen te komen voor een financiering in het kader van het [Bbz 2004](../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md). IMK Intermediair is als adviesorganisatie betrokken bij de uitvoering van het Bbz en heeft in samenwerking met VROM de draagkrachttoets ontwikkeld en zal als uitvoerende instantie door het bevoegd gezag worden ingeschakeld voor de toetsing van de draagkracht i.c. de uitvoering van deze draagkrachttoets. In bijlage 2 bij deze notitie wordt een overzicht gegeven van het relevante dienstenpakket van IMK Intermediair. Het draagkrachtinstrument draagt een sluitstuk karakter. Om in aanmerking te komen dient – naast het primaire criterium dat de eigenaar/erfpachter verplicht wordt zijn grond te saneren – voldaan te worden aan de volgende (basis)criteria. 
+Het draagkrachtinstrument is gebaseerd op de werkwijze die ook is toegepast bij het Besluit bijstandverlening zelfstandigen 2004 (Bbz 2004). Het Bbz 2004 ondersteunt ondernemers die – door welke oorzaak dan ook – tijdelijk in financiële problemen zijn geraakt of dreigen te raken. Voorwaarde is, dat het bedrijf na financiële ondersteuning naar verwachting levensvatbaar is, en dat de ondernemer het wil voortzetten. Bij de bepaling van de grondslagen voor de draagkrachttoets is, waar mogelijk en/of voor zover van toepassing, uitgegaan van de regels en gebruikelijke praktijk die wordt gehanteerd bij de toetsing van ondernemers die in aanmerking wensen te komen voor een financiering in het kader van het Bbz 2004. IMK Intermediair is als adviesorganisatie betrokken bij de uitvoering van het Bbz en heeft in samenwerking met VROM de draagkrachttoets ontwikkeld en zal als uitvoerende instantie door het bevoegd gezag worden ingeschakeld voor de toetsing van de draagkracht i.c. de uitvoering van deze draagkrachttoets. In bijlage 2 bij deze notitie wordt een overzicht gegeven van het relevante dienstenpakket van IMK Intermediair. Het draagkrachtinstrument draagt een sluitstuk karakter. Om in aanmerking te komen dient – naast het primaire criterium dat de eigenaar/erfpachter verplicht wordt zijn grond te saneren – voldaan te worden aan de volgende (basis)criteria. 
 
 #### *A. Overigens gezond* 
 
@@ -538,13 +538,13 @@ De hoogte van vergoeding naar draagkracht van een eigenaar of erfpachter te beta
 #### *I. Bepalen van de totale saneringskosten* 
 
 | --- | --- | --- | --- |
-|---:|---:|---:|---:|
+|---|---|---|---|
 | •  | op basis van een offerte of andere, voldoende betrouwbare schatting van de saneringskosten  |
 
 #### *II. Bepalen van de waardestijging van het terrein door de sanering* 
 
 | --- | --- | --- | --- |
-|---:|---:|---:|---:|
+|---|---|---|---|
 | •  | waarde terrein in schone staat (volgens taxatie)  | --- |
 | --- | saneringskosten  | –/–  |
 | --- | = waarde terrein in verontreinigde staat (minimaal € 1, nooit negatief)  | --- |
@@ -556,7 +556,7 @@ De hoogte van vergoeding naar draagkracht van een eigenaar of erfpachter te beta
 #### *III. Bepalen van de minimale vergoeding van een bedrijf aan het bevoegd gezag* 
 
 | --- | --- | --- | --- |
-|---:|---:|---:|---:|
+|---|---|---|---|
 | •  | waardestijging van het terrein door de sanering  | --- |
 | --- | (0,15 × saneringskosten)  | –/–  |
 | --- | = minimale vergoeding van een bedrijf aan het bevoegd gezag  | --- |
@@ -583,7 +583,7 @@ Teneinde objectief te toetsen welk bedrag een eigenaar of erfpachter dient te ve
 
 #### *Sub ii. vaststellen betaalcapaciteit van het bedrijf* 
 
-De genormaliseerde exploitatierekening zal uitwijzen of de betaalcapaciteit van de onderneming toereikend is om de kosten van de sanering geheel dan wel gedeeltelijk uit de normale exploitatie te financieren. Op grond van de genormaliseerde betaalcapaciteit worden de mogelijkheden bezien voor rente en aflossing van eventueel te verstrekken financieringen door de huisbankier en/of door het bevoegd gezag. De vervangingsinvesteringen worden gelijkgesteld aan de afschrijvingen minus de afschrijvingen op de onroerende zaken, voor zover dit geen afschrijvingen op verbouwingskosten betreft, waarbij wordt uitgegaan van de algemene fiscale beginselen ten aanzien van het afschrijvingsregime. Op grond van de betaalcapaciteit die resteert na aftrek van de verplichtingen die voortvloeien uit een eventuele aanbieding van de bank (externe financiering) zal de looptijd van een te verstrekken lening door het bevoegd gezag worden bepaald. De betaalcapaciteit wordt gelijk gesteld aan de annuïteit bij een financiering op basis van een krediet met een looptijd van 10 jaar bij de rentevoet die op dat moment van toepassing is krachtens het [Bbz 2004](../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) of daarvoor in de plaats tredende regelgeving. Op deze wijze wordt de vergoeding door het bedrijf aanhet bevoegd gezag vastgesteld. Indien de betaalcapaciteit ontoereikend blijkt om de kosten van een financiering ten behoeve van de verplichte sanering te dragen, zal worden berekend of het bedrijf door middel van een verlenging van de aflossingstermijn met maximaal 10 jaar wel boven het bedrag van de minimale vergoeding kan uitkomen. In bijzondere gevallen kan de termijn worden verlengd tot maximaal 20 jaar. N.B.: In de draagkrachttoets wordt in eerste instantie uitsluitend rekening gehouden met het bedrijfsmatige vermogen. Indien echter uit onderzoek blijkt dat door de eigenaar van de onderneming, in de voorliggende jaren bovenmatige onttrekkingen zijn gepleegd, behoudt het bevoegd gezag zich, op grond van het criterium eigen verantwoordelijkheid, het recht voor het privé vermogen van de ondernemer(s) mede in aanmerking te nemen voor het bepalen van de voorliggende voorzieningen en de draagkracht.  
+De genormaliseerde exploitatierekening zal uitwijzen of de betaalcapaciteit van de onderneming toereikend is om de kosten van de sanering geheel dan wel gedeeltelijk uit de normale exploitatie te financieren. Op grond van de genormaliseerde betaalcapaciteit worden de mogelijkheden bezien voor rente en aflossing van eventueel te verstrekken financieringen door de huisbankier en/of door het bevoegd gezag. De vervangingsinvesteringen worden gelijkgesteld aan de afschrijvingen minus de afschrijvingen op de onroerende zaken, voor zover dit geen afschrijvingen op verbouwingskosten betreft, waarbij wordt uitgegaan van de algemene fiscale beginselen ten aanzien van het afschrijvingsregime. Op grond van de betaalcapaciteit die resteert na aftrek van de verplichtingen die voortvloeien uit een eventuele aanbieding van de bank (externe financiering) zal de looptijd van een te verstrekken lening door het bevoegd gezag worden bepaald. De betaalcapaciteit wordt gelijk gesteld aan de annuïteit bij een financiering op basis van een krediet met een looptijd van 10 jaar bij de rentevoet die op dat moment van toepassing is krachtens het Bbz 2004 of daarvoor in de plaats tredende regelgeving. Op deze wijze wordt de vergoeding door het bedrijf aanhet bevoegd gezag vastgesteld. Indien de betaalcapaciteit ontoereikend blijkt om de kosten van een financiering ten behoeve van de verplichte sanering te dragen, zal worden berekend of het bedrijf door middel van een verlenging van de aflossingstermijn met maximaal 10 jaar wel boven het bedrag van de minimale vergoeding kan uitkomen. In bijzondere gevallen kan de termijn worden verlengd tot maximaal 20 jaar. N.B.: In de draagkrachttoets wordt in eerste instantie uitsluitend rekening gehouden met het bedrijfsmatige vermogen. Indien echter uit onderzoek blijkt dat door de eigenaar van de onderneming, in de voorliggende jaren bovenmatige onttrekkingen zijn gepleegd, behoudt het bevoegd gezag zich, op grond van het criterium eigen verantwoordelijkheid, het recht voor het privé vermogen van de ondernemer(s) mede in aanmerking te nemen voor het bepalen van de voorliggende voorzieningen en de draagkracht.  
 
 #### *V. Definitief bepalen van de vergoeding door het bedrijf aan het bevoegd gezag* 
 
@@ -603,7 +603,7 @@ Een financiering door het bevoegd gezag wordt verleend onder de volgende conditi
 
 * Rentevaste periode: de rente is vast gedurende de gehele looptijd  
 
-* Inning: dient plaats te vinden door het bevoegd gezag of een door haar aangewezen instantie als ware er sprake van inning door een normale kredietinstelling.   Naar analogie van het [Bbz 2004](../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) ([artikel 41](../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)) kunnen de aflossingsverplichtingen maximaal 3 jaar worden uitgesteld. Indien een eigenaar of erfpachter geheel of gedeeltelijk niet in staat is aan de rente- en aflossingsverplichtingen te voldoen, kan hij een met redenen omkleed verzoek om uitstel van betaling bij het bevoegd gezag indienen. Uitstel van aflossing en betaling van rente wordt ten hoogste voor een periode van een jaar verleend en kan zonodig tweemaal met ten hoogste een jaar worden verlengd. Na het einde van de aflossingsvrije periode kan het bevoegd gezag besluiten een hertoetsing uit te (laten) voeren naar de draagkracht op grond waarvan nieuwe afspraken zullen worden gemaakt. 
+* Inning: dient plaats te vinden door het bevoegd gezag of een door haar aangewezen instantie als ware er sprake van inning door een normale bank.   Naar analogie van het Bbz 2004 (artikel 41) kunnen de aflossingsverplichtingen maximaal 3 jaar worden uitgesteld. Indien een eigenaar of erfpachter geheel of gedeeltelijk niet in staat is aan de rente- en aflossingsverplichtingen te voldoen, kan hij een met redenen omkleed verzoek om uitstel van betaling bij het bevoegd gezag indienen. Uitstel van aflossing en betaling van rente wordt ten hoogste voor een periode van een jaar verleend en kan zonodig tweemaal met ten hoogste een jaar worden verlengd. Na het einde van de aflossingsvrije periode kan het bevoegd gezag besluiten een hertoetsing uit te (laten) voeren naar de draagkracht op grond waarvan nieuwe afspraken zullen worden gemaakt. 
 
 #### *Zekerheden* 
 
@@ -614,7 +614,7 @@ Als zekerheid voor de kredietfaciliteit wordt een hypothecaire inschrijving vere
 ####Rekenvoorbeeld
 
 |--- |--- | Bedrijf Z (x € 1000)  |
-|:---|:---|:---|
+|---|---|---|
 |  *stap I. bepalen van de totale saneringskosten*   |
 | saneringskosten  |  *€ 180,00*   | volgens offerte of betrouwbare schatting  |
 | --- |
@@ -664,7 +664,7 @@ Door aanvrager (eigenaar of erfpachter) dienen de volgende documenten te worden 
 
 – Beschikking inzake saneringsnoodzaak;  
 
-– Het door een kamer toegekend uniek nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), van de betreffende onderneming en alle ondernemingen die organisatorisch en economisch verbonden zijn (tot de groep behoren);  
+– Het door een kamer toegekend uniek nummer, bedoeld in artikel 9, onder a, van de Handelsregisterwet 2007, van de betreffende onderneming en alle ondernemingen die organisatorisch en economisch verbonden zijn (tot de groep behoren);  
 
 – Document waaruit instemming van het bevoegd gezag blijkt (bijvoorbeeld een door het bevoegd gezag goedgekeurde offerte saneringskosten);  
 

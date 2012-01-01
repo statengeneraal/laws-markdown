@@ -158,7 +158,7 @@ b. werknemers, bedoeld in artikel 115 werkzaam zijn.
 4.  Aan de vertegenwoordigingen van het Koninkrijk in het buitenland kunnen voorts ter verdere verwezenlijking van de in artikel 6 genoemde taak door Onze Minister worden toegevoegd ambtenaren van een ander ministerie, dan wel van Aruba, Curaçao en van Sint Maarten, die met het oog op die tewerkstelling tijdelijk ter beschikking zijn gesteld van Onze Minister.   
 5.  Onze Minister kan voorts, onder door hem te stellen voorwaarden, anderen dan degenen bedoeld in het tweede tot en met vierde lid tijdelijk bij een vertegenwoordiging van het Koninkrijk in het buitenland werkzaam laten zijn.   
 6.  In bijzondere gevallen kunnen aan tijdelijke diplomatieke zendingen anderen dan de in het tweede, derde, vierde en vijfde lid genoemden, worden toegevoegd.   
-7.  Onze Minister kan, voor wat betreft de dienstverrichtingen van degenen die in het derde, vierde en zesde lid zijn genoemd, in overeenstemming met zijn betrokken ambtgenoot, dan wel met de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten;, nadere regelen stellen.   
+7.  Onze Minister kan, voor wat betreft de dienstverrichtingen van degenen die in het derde, vierde en zesde lid zijn genoemd, in overeenstemming met zijn betrokken ambtgenoot, dan wel met de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten; nadere regelen stellen.   
 8.  Onze Minister, hoofd van het betrokken ministerie, stelt in overeenstemming met Onze Minister de vergoedingen en tegemoetkomingen vast welke verband houden met de in het derde lid, onder *a*, bedoelde detacheringen volgens de regelen die bij of krachtens dit reglement zijn gesteld.   
 9.  Op degenen die ingevolge het vierde lid aan een vertegenwoordiging van het Koninkrijk in het buitenland worden toegevoegd, kan Onze Minister bepalingen van dit reglement, welke gelden voor ambtenaren, van overeenkomstige toepassing verklaren.   
 
@@ -1218,7 +1218,6 @@ b. met ingang van de dag waarop de ambtenaar ontslag is verleend; of
 
 c. met ingang van de dag volgende op die waarop de ambtenaar is overleden.     
 7.  Gedurende een plaatsing buiten Nederland kan Onze Minister een ambtenaar, indien de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte naar verwachting langer dan drie maanden zal voortduren, opdracht geven tot terugkeer met zijn gezinsleden naar Nederland.   
-7.  Het eerste lid, tweede volzin, is niet van toepassing op de ambtenaar, die na het bereiken van de leeftijd van 65 jaar wegens ziekte ongeschikt is tot het verrichten van zijn arbeid.   
 
 ### Artikel  54a  
 
@@ -1284,7 +1283,7 @@ b. zolang hij na afloop van het tijdvak, bedoeld in onderdeel a, nog ongeschikt 
 
 a. zij elkaar met een onderbreking van minder dan vier weken opvolgen, of  
 
-b. zij direct voorafgaan aan of aansluiten op een periode waarin zwangerschap- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), of een uitkering op grond van [artikel 3:8](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of [3:10, eerste lid, van die wet](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), tenzij de ongeschiktxpp afbmheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.     
+b. zij direct voorafgaan aan of aansluiten op een periode waarin zwangerschap- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), of een uitkering op grond van [artikel 3:8](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of [3:10, eerste lid, van die wet](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.     
 6.  De doorbetaling van de laatstelijk genoten bezoldiging, bedoeld in het eerste, tweede en derde lid, eindigt in ieder geval: 
 
 a. met ingang van de dag waarop de gewezen ambtenaar de leeftijd van 65 jaar heeft bereikt; of  
@@ -1482,7 +1481,7 @@ b. de gewezen ambtenaar wegens ziekte ongeschikt is geworden een naar aard en om
 ####Informatie aan centrales en medezeggenschapsorganen
 
 1.  De centrales van verenigingen van ambtenaren worden tijdig geïnformeerd over een voorgenomen besluit tot een reorganisatie.   
-2.  De ondernemingsraad en de betrokken medezeggenschapsorganenbij de vertegenwoordigingen van het Koninkrijk in het buitenland worden tijdig geïnformeerd over een voorgenomen besluit tot een reorganisatie.   
+2.  De ondernemingsraad en de betrokken medezeggenschapsorganen bij de vertegenwoordigingen van het Koninkrijk in het buitenland worden tijdig geïnformeerd over een voorgenomen besluit tot een reorganisatie.   
 
 ### Artikel  58c  
 
@@ -1518,6 +1517,7 @@ b. reeds eerder in overleg met de ambtenaar kan worden vastgesteld dat er geen m
 3.  Onze Minister kan de termijn verlengen of opschorten, indien de omstandigheden naar zijn oordeel daartoe aanleiding geven.   
 4.  De ambtenaar wordt gelijktijdig met zijn aanwijzing als herplaatsingskandidaat geïnformeerd over de aanvang en het einde van de termijn, bedoeld in het eerste lid.   
 5.  De herplaatsingskandidaat wordt geïnformeerd over het verkorten, verlengen of opschorten van de termijn, bedoeld in het tweede en het derde lid.   
+6.  Op verzoek van de herplaatsingskandidaat wordt de termijn, bedoeld in het eerste lid, met maximaal een jaar verlengd ingeval de herplaatsingskandidaat bij het einde van de termijn, bedoeld in het eerste lid, in combinatie met de duur van de bovenwettelijke uitkering, de pensioengerechtigde leeftijd nog niet heeft bereikt en door deze verlenging recht ontstaat op een bovenwettelijke uitkering op grond van [artikel 2, tweede lid, van het Besluit bovenwettelijke uitkeringen werkloosheid voor de sector Rijk](../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md).   
 
 ### Artikel  58g  
 

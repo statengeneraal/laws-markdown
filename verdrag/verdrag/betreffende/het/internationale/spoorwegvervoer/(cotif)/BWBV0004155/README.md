@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Protocol van 3 juni 1999 houdende wijziging van het Verdrag betreffende het Internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Protocol 1999)
+##Verdrag betreffende het internationale spoorwegvervoer (COTIF)
 
 ####Protocole du 3 juin 1999 portant modification de la Convention relative aux transports internationaux ferroviaires (COTIF) du 9 mai 1980 (Protocole 1999)
 
@@ -225,7 +225,7 @@ Dans les dispositions qui suivent, l'expression «Convention» couvre la Convent
 § 1.  L'unité de compte prévue par les Appendices est le Droit de tirage spécial tel que défini par le Fonds Monétaire International.   
 § 2.  La valeur, en Droit de tirage spécial, de la monnaie nationale d'un Etat membre qui est aussi Membre du Fonds Monétaire International est calculée selon la méthode appliquée par le Fonds Monétaire International pour ses propres opérations et transactions.   
 § 3.  La valeur, en Droit de tirage spécial, de la monnaie nationale d'un Etat membre qui n'est pas Membre du Fonds Monétaire International est calculée de la façon déterminée par cet Etat. Ce calcul doit exprimer en monnaie nationale une valeur réelle aussi proche que possible de celle qui résulterait de l'application du § 2.   
-§ 4.  Chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte, les Etats communiquent au Secrétaire général leur méthode de calcul conformément au § 3.   
+§ 4.  Chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte, les Etats communiquent au Secrétaire général leur méthode de calcul conformément au § 3. Ce dernier notifie ces informations aux Etats membres.   
 § 5.  Un montant exprimé en unités de compte est converti dans la monnaie nationale de l'Etat du tribunal saisi. La conversion est effectuée conformément à la valeur de la monnaie correspondante le jour de la décision judiciaire ou le jour convenu par les parties.   
 
 ### Article  10  
@@ -2541,21 +2541,21 @@ Aux fins des présentes Règles uniformes, le terme:
 
 a) «infrastructure ferroviaire» désigne toutes les voies ferrées et installations fixes dans la mesure où elles sont nécessaires à la circulation des véhicules ferroviaires et à la sécurité du trafic;  
 
-b) «gestionnaire» désigne celui qui met à disposition une infrastructure ferroviaire;  
+b) «gestionnaire» désigne celui qui met à disposition une infrastructure ferroviaire et qui a des responsabilités conformément aux lois et prescriptions en vigueur dans l’Etat dans lequel se situe l’infrastructure;  
 
-c) «transporteur» désigne celui qui transporte par rail des personnes ou des marchandises en trafic international sous le régime des Règles uniformes CIV ou des Règles uniformes CIM;  
+c) «transporteur» désigne celui qui transporte par rail des personnes ou des marchandises en trafic international sous le régime des Règles uniformes CIV ou des Règles uniformes CIM et qui détient une licence conformément aux lois et prescriptions relatives à l’octroi et à la reconnaissance des licences en vigueur dans l’Etat dans lequel la personne exerce cette activité;  
 
 d) «auxiliaire» désigne les agents ou les autres personnes au service desquelles le transporteur ou le gestionnaire recourent pour l'exécution du contrat lorsque ces agents ou ces autres personnes agissent dans l'exercice de leurs fonctions;  
 
 e) «tiers» désigne toute autre personne que le gestionnaire, le transporteur et leurs auxiliaires;  
 
-f) «licence» désigne l'autorisation établie conformément aux lois et prescriptions de l'Etat dans lequel le transporteur a le siège de son activité principale d'exercer l'activité de transporteur ferroviaire;  
+f) «licence» désigne l’autorisation délivrée par un Etat à une entreprise ferroviaire, conformément aux lois et prescriptions en vigueur dans cet Etat, par laquelle sa capacité de transporteur est reconnue;  
 
-g) «certificat de sécurité» désigne le document attestant, conformément aux lois et prescriptions de l'Etat où se trouve l'infrastructure empruntée, qu'en ce qui concerne le transporteur, 
+g) «certificat de sécurité» désigne le document attestant, conformément aux lois et prescriptions en vigueur dans l’Etat dans lequel se situe l’infrastructure, qu’en ce qui concerne le transporteur, 
 
-– l'organisation interne de l'entreprise ainsi que  
+– l’organisation interne de l’entreprise ainsi que  
 
-– le personnel à employer et les véhicules à utiliser sur l'infrastructure empruntée, répondent aux exigences imposées en matière de sécurité en vue d'assurer un service sans danger sur cette infrastructure.      
+– le personnel à employer et les véhicules à utiliser sur l’infrastructure,   répondent aux exigences imposées en matière de sécurité en vue d’assurer un service sans danger sur cette infrastructure.    
 
 ### Article  4  
 
@@ -2571,23 +2571,31 @@ Sauf clause contraire dans les présentes Règles uniformes, est nulle et de nul
 
 ####Contenu et forme
 
-§ 1.  Les relations entre le gestionnaire et le transporteur sont réglées dans un contrat d'utilisation.   
-§ 2.  Le contrat règle notamment les conditions administratives, techniques et financières de l'utilisation. Il comporte au moins les indications suivantes: 
-
-a) l'infrastructure à utiliser,  
-
-b) l'étendue de l'utilisation,  
-
-c) les prestations du gestionnaire,  
-
-d) les prestations du transporteur,  
-
-e) le personnel à employer,  
-
-f) les véhicules à utiliser,  
-
-g) les conditions financières.     
+§ 1.  Les relations entre le gestionnaire et le transporteur ou toute autre personne autorisée à conclure un contrat de cette nature conformément aux lois et prescriptions en vigueur dans l’Etat dans lequel se situe l’infrastructure sont réglées par un contrat d’utilisation.   
+§ 2.  Le contrat règle les détails nécessaires pour déterminer les conditions administratives, techniques et financières de l’utilisation.   
 § 3.  Le contrat doit être constaté par écrit ou sous une forme équivalente. L'absence ou l'irrégularité d'une constatation par écrit ou sous une forme équivalente ou l'absence d'une des indications prévues au § 2 n'affectent ni l'existence ni la validité du contrat qui reste soumis aux présentes Règles uniformes.   
+
+### Article  5bis  
+
+####Droit non affecté
+
+§ 1.  Les dispositions de l’article 5 tout comme celles des articles 6, 7 et 22 n’affectent pas les obligations que les parties au contrat d’utilisation de l’infrastructure sont tenues de remplir conformément aux lois et prescriptions en vigueur dans l’Etat dans lequel se situe l’infrastructure, y compris, le cas échéant, le droit communautaire.   
+§ 2.  Les dispositions des articles 8 et 9 n’affectent pas les obligations que les parties au contrat d’utilisation de l’infrastructure sont tenues de remplir dans un Etat membre de la CE ou dans un Etat où la législation communautaire s’applique par suite d’accords internationaux conclus avec la Communauté européenne.   
+§ 3.  Les dispositions des §§ 1 et 2 concernent en particulier: 
+
+– les accords à conclure entre les entreprises ferroviaires ou les candidats autorisés et les gestionnaires d’infrastructure,  
+
+– l’octroi des licences,  
+
+– la certification en matière de sécurité,  
+
+– l’assurance,  
+
+– la tarification, y compris les systèmes d’amélioration des performances afin de réduire au minimum les retards et perturbations d’exploitation et d’améliorer les performances du réseau ferroviaire,  
+
+– les mesures d’indemnisation en faveur des clients et  
+
+– le règlement des litiges.     
 
 ### Article  6  
 
@@ -2600,10 +2608,9 @@ g) les conditions financières.
 
 ### Article  7  
 
-####Durée du contrat
+####Fin du contrat
 
-§ 1.  Le contrat d'utilisation peut être conclu pour une période déterminée ou indéterminée.   
-§ 2.  Le gestionnaire peut dénoncer le contrat d'utilisation sans délai lorsque: 
+§ 1.  Le gestionnaire peut dénoncer le contrat d'utilisation sans délai lorsque: 
 
 a) le transporteur n'est plus autorisé à exercer l'activité de transporteur ferroviaire;  
 
@@ -2616,10 +2623,10 @@ c) le transporteur est en retard de paiement, à savoir
 2. pour un délai couvrant plus de deux échéances et avec un montant égal à la contre-valeur d'usage pour deux mois;    
 
 d) le transporteur a violé d'une manière caractérisée l'une des obligations particulières prévues à l'article 6, §§ 2 et 3.     
-§ 3.  Le transporteur peut dénoncer le contrat d'utilisation sans délai lorsque le gestionnaire perd son droit de gérer l'infrastructure.   
-§ 4.  Chaque partie au contrat d'utilisation peut le dénoncer sans délai en cas de violation caractérisée d'une des obligations essentielles par l'autre partie au contrat, lorsque cette obligation concerne la sécurité des personnes et des biens; les parties au contrat peuvent convenir des modalités de l'exercice de ce droit.   
-§ 5.  La partie au contrat qui est à l'origine de sa dénonciation répond envers l'autre partie du dommage qui en résulte, à moins qu'elle ne prouve que le dommage ne résulte pas de sa faute.   
-§ 6.  Les parties au contrat peuvent convenir de conditions dérogeant aux dispositions du § 2, lettres c) et d) et du § 5.   
+§ 2.  Le transporteur peut dénoncer le contrat d'utilisation sans délai lorsque le gestionnaire perd son droit de gérer l'infrastructure.   
+§ 3.  Chaque partie au contrat d'utilisation peut le dénoncer sans délai en cas de violation caractérisée d'une des obligations essentielles par l'autre partie au contrat, lorsque cette obligation concerne la sécurité des personnes et des biens; les parties au contrat peuvent convenir des modalités de l'exercice de ce droit.   
+§ 4.  La partie au contrat qui est à l'origine de sa dénonciation répond envers l'autre partie du dommage qui en résulte, à moins qu'elle ne prouve que le dommage ne résulte pas de sa faute.   
+§ 5.  Les parties au contrat peuvent convenir de conditions dérogeant aux dispositions du § 2, lettres c) et d) et du § 5.   
 
 ### TITRE  III  
 
@@ -2802,149 +2809,194 @@ Le bien-fondé du paiement effectué par le transporteur sur la base des Règles
 
 ### Article  premier  
 
-####Champ d'application
+####Champ d’application
 
-Les présentes Règles uniformes fixent la procédure de validation de normes techniques et d'adoption de prescriptions techniques uniformes pour le matériel ferroviaire destiné à être utilisé en trafic international.  
+Les présentes Règles uniformes fixent la procédure de validation de normes techniques et d’adoption de prescriptions techniques uniformes (PTU) pour le matériel ferroviaire destiné à être utilisé en trafic international.  
 
 ### Article  2  
 
 ####Définitions
 
-Aux fins des présentes Règles uniformes et de leurs Annexes, le terme: 
+Aux fins des présentes Règles uniformes, de leur(s) annexe(s) et des PTU, outre les termes définis à l’article 2 des ATMF, le terme 
 
-a) «Etat partie» désigne tout Etat membre de l'Organisation n'ayant pas fait, conformément à l'article 42, § 1, première phrase, de la Convention, de déclaration relative à ces Règles uniformes;  
+a) « voiture » désigne un véhicule ferroviaire, non pourvu de moyen de traction, qui est destiné à transporter des voyageurs; ce terme englobe un fourgon à bagages destiné à être transporté dans un train de voyageurs:  
 
-b) «trafic international» désigne la circulation des véhicules ferroviaires sur des lignes ferroviaires empruntant le territoire d'au moins deux Etats parties;  
+b) « projet à un stade avancé de développement » désigne tout projet dont la phase de planification/construction a atteint un stade tel que tout changement dans les spécifications techniques serait inacceptable pour l’État partie concerné. Un tel obstacle peut être de nature légale, contractuelle, économique, financière, sociale ou environnementale et doit être dûment démontré;  
 
-c) «entreprise de transport ferroviaire» désigne toute entreprise à statut privé ou public qui est autorisée à transporter des personnes ou des marchandises, la traction étant assurée par celle-ci;  
+c) « substitution dans le cadre de la maintenance » désigne tout remplacement de composants par des pièces présentant des fonctions et des performances identiques dans le cadre de la maintenance préventive et corrective;  
 
-d) «gestionnaire d'infrastructure» désigne toute entreprise ou toute autorité qui gère une infrastructure ferroviaire;  
+d) « prescription technique » désigne toute règle, autre qu’une norme technique, incluse dans les PTU, relative à la construction, à l’exploitation, à la maintenance, à la sécurité ou à une procédure concernant le matériel ferroviaire;  
 
-e) «matériel ferroviaire» désigne tout matériel ferroviaire destiné à être utilisé en trafic international, notamment les véhicules et l'infrastructure ferroviaires;  
+e) « norme technique » désigne une norme volontaire adoptée par un organisme de normalisation international reconnu selon les procédures qui lui sont propres;  
 
-f) «véhicule ferroviaire» désigne tout véhicule apte à circuler sur ses propres roues sur des voies ferrées avec ou sans traction;  
+f) « véhicule de traction » désigne un véhicule ferroviaire pourvu de moyen de traction;  
 
-g) «véhicule de traction» désigne un véhicule ferroviaire pourvu de moyen de traction;  
-
-h) «wagon» désigne un véhicule ferroviaire, non pourvu de moyen de traction, qui est destiné à transporter des marchandises;  
-
-i) «voiture» désigne un véhicule ferroviaire, non pourvu de moyen de traction, qui est destiné à transporter des voyageurs;  
-
-j) «infrastructure ferroviaire» désigne toutes les voies ferrées et installations fixes, dans la mesure où celles-ci sont nécessaires à la circulation des véhicules ferroviaires et à la sécurité du trafic;  
-
-k) «norme technique» désigne toute spécification technique adoptée par un organisme de normalisation national ou international reconnu selon les procédures qui lui sont propres; toute spécification technique élaborée dans le cadre des Communautés européennes est assimilée à une norme technique.  
-
-l) «prescription technique» désigne toute règle, autre qu'une norme technique, relative à la construction, à l'exploitation, à la maintenance ou à une procédure concernant le matériel ferroviaire;  
-
-m) «Commission d'experts techniques» désigne la Commission prévue à l'article 13, § 1, lettre f) de la Convention.    
+g) « wagon » désigne un véhicule ferroviaire, non pourvu de moyen de traction, qui est destiné à transporter des marchandises.    
 
 ### Article  3  
 
 ####But
 
-§ 1.  La validation de normes techniques relatives au matériel ferroviaire et l'adoption de prescriptions techniques uniformes applicables au matériel ferroviaire ont pour but de: 
+§ 1.  La validation de normes techniques relatives au matériel ferroviaire et l’adoption de PTU applicables au matériel ferroviaire ont pour but de: 
 
-a) faciliter la libre circulation de véhicules et la libre utilisation d'autres matériels ferroviaires en trafic international;  
+a) faciliter la libre circulation de véhicules et la libre utilisation d’autres matériels ferroviaires en trafic international;  
 
 b) contribuer à assurer la sécurité, la fiabilité et la disponibilité en trafic international;  
 
-c) tenir compte de la protection de l'environnement et de la santé publique.     
-§ 2.  Lors de la validation de normes techniques ou de l'adoption de prescriptions techniques uniformes, seules sont prises en compte celles qui ont été élaborées au niveau international.   
-§ 3.  Dans la mesure du possible: 
+c) tenir compte de la protection de l’environnement et de la santé publique.     
+§ 2.  Lors de la validation de normes techniques ou de l’adoption de PTU, seules sont prises en compte celles qui ont été élaborées au niveau international.   
+§ 3.  Dans la mesure du possible, 
 
-a) il convient d'assurer une interopérabilité des systèmes et composants techniques nécessaires en trafic international;  
+a) il convient d’assurer une interopérabilité des systèmes et composants techniques nécessaires en trafic international;  
 
-b) les normes techniques et les prescriptions techniques uniformes sont axées sur les performances; le cas échéant, elles comportent des variantes.     
+b) les normes techniques et les PTU sont axées sur les performances; le cas échéant, elles comportent des variantes.     
 
 ### Article  4  
 
-####Elaboration de normes et prescriptions techniques
+####Elaboration de normes techniques et de PTU
 
-§ 1.  L'élaboration de normes techniques et de prescriptions techniques uniformes relatives au matériel ferroviaire est du ressort des organismes reconnus compétents en la matière.   
-§ 2.  La normalisation des produits et des procédures industriels est du ressort des organismes de normalisation nationaux et internationaux reconnus.   
+§ 1.  L’élaboration de normes techniques concernant le matériel ferroviaire et la normalisation des produits et des procédures industriels sont du ressort des organismes de normalisation nationaux et internationaux reconnus.   
+§ 2.  L’élaboration de PTU sur la base de demandes faites en conformité avec l’article 6, est du ressort de la Commission d’experts techniques assistée de groupes de travail ad hoc et du Secrétaire général.   
 
 ### Article  5  
 
 ####Validation de normes techniques
 
-§ 1.  Peut déposer une demande de validation d'une norme technique: 
+§ 1.  La Commission d’experts techniques décide de la validation en tout ou partie d’une norme technique selon la procédure prévue aux articles 16, 20 et 33, § 6 de la Convention. Les décisions entrent en vigueur selon l’article 35, §§ 3 et 4 de la Convention.   
+§ 2.  Peut déposer une demande de validation d’une norme technique: 
 
-a) tout Etat partie;  
+a) tout État partie;  
 
-b) toute organisation d'intégration économique régionale à laquelle ses Etats membres ont transféré des compétences pour légiférer dans le domaine des normes techniques relatives au matériel ferroviaire;  
+b) toute organisation régionale telle que définie à l’article 2, lettre x) des ATMF;  
 
-c) tout organisme de normalisation national ou international chargé de la normalisation dans le domaine ferroviaire;  
+c) tout organisme de normalisation national ou international chargé de la normalisation dans le domaine ferroviaire; l’article 3, § 2, est pris en compte;  
 
-d) toute association internationale représentative, pour les membres de laquelle l'existence des normes techniques relatives au matériel ferroviaire est indispensable pour des raisons de sécurité et d'économie dans l'exercice de leur activité.     
-§ 2.  La Commission d'experts techniques décide de la validation d'une norme technique selon la procédure prévue aux articles 16, 20 et 33, § 6 de la Convention. Les décisions entrent en vigueur selon l'article 35, §§ 3 et 4 de la Convention.   
+d) toute association internationale représentative, pour les membres de laquelle l’existence des normes techniques relatives au matériel ferroviaire est indispensable pour des raisons de sécurité et d’économie dans l’exercice de leur activité.     
+§ 3.  Les références aux normes techniques validées sont publiées par le Secrétaire général sur le site Web de l’Organisation. Une fois la référence publiée, l’application de la norme technique porte présomption de sa conformité à la PTU correspondante.   
+§ 4.  L’application de normes techniques validées est volontaire; néanmoins, une norme peut être rendue obligatoire en tout ou partie par des dispositions contenues dans une PTU.   
 
 ### Article  6  
 
-####Adoption de prescriptions techniques uniformes
+####Adoption de PTU
 
-§ 1.  Peut déposer une demande d'adoption d'une prescription technique uniforme: 
+§ 1.  La Commission d’experts techniques décide de l’adoption d’une PTU ou d’une disposition qui la modifie selon la procédure prévue aux articles 16, 20 et 33, § 6 de la Convention. Les décisions entrent en vigueur selon l’article 35, §§ 3 et 4 de la Convention.   
+§ 2.  Peut déposer une demande d’adoption d’une PTU ou d’une disposition qui la modifie selon le § 1: 
 
-a) tout Etat partie;  
+a) tout État partie;  
 
-b) toute organisation d'intégration économique régionale à laquelle ses Etats membres ont transféré des compétences pour légiférer dans le domaine des prescriptions techniques relatives au matériel ferroviaire;  
+b) toute organisation régionale telle que définie à l’article 2, lettre x) des ATMF;  
 
-c) toute association internationale représentative, pour les membres de laquelle l'existence des prescriptions techniques uniformes relatives au matériel ferroviaire est indispensable pour des raisons de sécurité et d'économie dans l'exercice de leur activité.     
-§ 2.  La Commission d'experts techniques décide de l'adoption d'une prescription technique uniforme selon la procédure prévue aux articles 16, 20 et 33, § 6 de la Convention. Les décisions entrent en vigueur selon l'article 35, §§ 3 et 4 de la Convention.   
+c) toute association internationale représentative, pour les membres de laquelle l’existence des PTU relatives au matériel ferroviaire est indispensable pour des raisons de sécurité et d’économie dans l’exercice de leur activité.     
 
 ### Article  7  
 
 ####Forme des demandes
 
-Les demandes visées aux articles 5 et 6 doivent être complètes, cohérentes et motivées. Elles doivent être adressées au Secrétaire général de l'Organisation dans une des langues de travail de celle-ci.  
+Les demandes visées aux articles 5 et 6 doivent être envoyées au Secrétaire général et adressées à la Commission d’experts techniques dans l’une des langues de travail conformément à l’article 1er, § 6 de la Convention. La Commission d’experts techniques peut rejeter une demande dès lors qu’elle la juge incomplète, incohérente, incorrectement motivée ou injustifiée. La demande doit comporter une évaluation des conséquences sociales, économiques et environnementales.  
+
+### Article  7a  
+
+####Evaluation des conséquences
+
+§ 1.  La Commission d’experts techniques prend sa décision après avoir considéré les motifs et éléments justificatifs fournis par le demandeur.   
+§ 2.  L’évaluation précise l’impact probable pour l’ensemble des États parties, des opérateurs et des autres acteurs afférents concernés. Si la proposition a un impact sur des PTU autres que celle visée directement par la proposition, ces interfaces doivent être également prises en compte.   
+§ 3.  L’ensemble des entités concernées participent à l’évaluation en fournissant, à titre gracieux, les données requises, à moins qu’elles ne soient protégées par des droits de propriété intellectuelle.   
 
 ### Article  8  
 
-####Annexes techniques
+####PTU
 
-§ 1.  Les normes techniques validées et les prescriptions techniques uniformes adoptées figurent dans les Annexes des présentes Règles uniformes énumérées ci-après: 
+§ 1.  Les PTU adoptées sont publiées sur le site Web de l’Organisation.   
+§ 2.  En principe, chaque sous-système est soumis à une PTU. Au besoin, un sous-système pourra être couvert par plusieurs PTU et une PTU couvrir plusieurs sous-systèmes.   
+§ 2a.  Les PTU s’appliquent aux sous-systèmes neufs. Elles s’appliquent également à un sous-système existant lorsque celui-ci a été rénové ou renouvelé et conformément à la stratégie de migration visée au § 4, lettre f).   
+§ 3.  Au terme du processus de notification prévu à l’article 35, §§ 3 et 4 de la Convention et au minimum un mois avant l’entrée en vigueur, le Secrétaire général publie sur le site Web de l’Organisation 
 
-a) Normes techniques et prescriptions techniques uniformes relatives à l'ensemble des véhicules ferroviaires (Annexe 1);  
+a) la PTU adoptée et notifiée;  
 
-b) Normes techniques et prescriptions techniques uniformes relatives aux véhicules de traction (Annexe 2);  
+b) la date de son entrée en vigueur;  
 
-c) Normes techniques et prescriptions techniques uniformes relatives aux wagons (Annexe 3);  
+c) la liste des États parties auxquels elle s’applique;  
 
-d) Normes techniques et prescriptions techniques uniformes relatives aux voitures (Annexe 4);  
+d) la liste actualisée des PTU et leur date d’entrée en vigueur.     
+§ 4.  Dans la mesure nécessaire à l’atteinte du but fixé à l’article 3, les PTU faisant référence à des sous-systèmes doivent au minimum: 
 
-e) Normes techniques et prescriptions techniques uniformes relatives aux installations d'infrastructure autres que celles visées à la lettre f) (Annexe 5);  
+a) indiquer leur champ d’application prévu (partie de réseau ou véhicules, soussystème ou partie de sous-système);  
 
-f) Normes techniques et prescriptions techniques uniformes relatives aux systèmes de sécurité des circulations et de régulation (Annexe 6);  
+b) fixer les exigences essentielles pour chaque sous-système concerné et ses interfaces vis-à-vis d’autres sous-systèmes;  
 
-g) Normes techniques et prescriptions techniques uniformes en matière de systèmes de technologie de l'information (Annexe 7);  
+c) définir les spécifications technico-fonctionnelles qui doivent être respectées par chaque sous-système et ses interfaces vis-à-vis d’autres sous-systèmes. Au besoin, ces spécifications peuvent varier en fonction de l’utilisation du soussystème, par exemple en fonction des catégories de ligne, de moyeu et/ou de véhicules;  
 
-h) Normes techniques et prescriptions techniques uniformes relatives à tout autre matériel ferroviaire (Annexe 8).     
-§ 2.  Les Annexes font partie intégrante des présentes Règles uniformes. Leur structure doit tenir compte des particularités de l'écartement, du gabarit, des systèmes d'alimentation en énergie et des systèmes de sécurité des circulations et de régulation dans les Etats parties.   
-§ 3.  Les Annexes contiendront la version telle qu'elle sera adoptée, après l'entrée en vigueur du Protocole du 3 juin 1999 portant modification de la Convention, par la Commission d'experts techniques selon la même procédure que celle prévue aux articles 16, 20 et 33, § 6 de la Convention pour les modifications des Annexes.   
+d) déterminer les éléments de construction ou les interfaces et constituants d’interopérabilité qui doivent être couverts par des normes techniques et qui sont nécessaires pour parvenir à l’interopérabilité dans le système ferroviaire;  
+
+e) préciser, dans chaque cas considéré, les procédures à appliquer pour évaluer la conformité aux dispositions des PTU. Ces procédures reposent sur les modules d’évaluation définis dans une PTU générale visée au § 8;  
+
+f) indiquer la stratégie de mise en oeuvre des PTU. Il est nécessaire, en particulier, de spécifier les étapes à franchir pour opérer une transition progressive de la situation existante à la situation finale où la conformité à la PTU est la norme; pour chaque étape, des dispositions transitoires appropriées sont incluses et  
+
+g) précisent, pour le personnel concerné, les qualifications professionnelles ainsi que les conditions sanitaires et de sécurité au travail exigées pour l’exploitation et la maintenance du sous-système concerné, ainsi que pour la mise en oeuvre de la PTU.     
+§ 5.  Chaque PTU doit être élaborée sur la base d’un examen d’un sous-système existant et préciser un ou plusieurs sous-systèmes cibles pouvant être obtenus progressivement dans un laps de temps raisonnable. En conséquence, l’adoption progressive des PTU et la conformité avec celles-ci permettent progressivement de réaliser l’interopérabilité du système ferroviaire.   
+§ 6.  Les PTU doivent préserver, de manière appropriée, la compatibilité du système ferroviaire existant de chaque État partie. Au regard de cet objectif, il peut être prévu, dans chaque PTU, une disposition traitant de « cas spécifiques » applicables à un ou à plusieurs États parties dans les domaines des réseaux et des véhicules; une attention toute particulière doit être portée au gabarit de chargement, à l’écartement de la voie ou à l’espace entre les voies et aux véhicules au départ ou à destination de pays tiers. Pour chaque cas spécifique, les PTU stipulent les règles de mise en oeuvre des éléments indiqués au § 4, lettres c) à g).   
+§ 7.  Les aspects techniques correspondant aux exigences essentielles qui ne peuvent pas être explicitement couverts par la PTU, seront clairement identifiés dans cette prescription comme « points ouverts ».   
+§ 8.  La Commission d’experts techniques peut adopter des PTU ne faisant pas référence à des sous-systèmes telles que des dispositions générales, des exigences essentielles ou des modules d’évaluation.   
+§ 9.  Les PTU se présentent dans un format en deux colonnes. Quand le texte apparaît sur toute la largeur de la page sans colonnes, il est identique aux textes correspondants des spécifications techniques d’interopérabilité (STI) de la Communauté européenne. Quand le texte est scindé en deux colonnes, il est différent pour les PTU et les STI correspondantes ou autres réglementations de la Communauté européenne. Le texte de la PTU (réglementations de l’OTIF) apparaît dans la colonne de gauche, le texte de la STI (Communauté européenne), dans la colonne de droite. Tout à fait à droite la référence de la STI est indiquée.   
+
+### Article  8a  
+
+####Lacunes constatées dans les PTU
+
+§ 1.  S’il vient à l’attention de la Commission d’experts techniques qu’une PTU adoptée comporte des erreurs ou des lacunes, y compris si une PTU ne remplit pas pleinement les exigences essentielles, la Commission prend les mesures qui s’imposent, notamment: 
+
+a) décide si les PTU concernées ne devraient pas être modifiées conformément aux articles 6 et 8 et  
+
+b) fait des recommandations concernant des solutions provisoires justifiées.     
+§ 2.  Les États parties, les organisations régionales et les organismes d’évaluation sont tenus d’informer sans tarder le Secrétaire général de toute erreur ou lacune constatée dans une PTU.   
 
 ### Article  9  
 
 ####Déclarations
 
-§ 1.  Tout Etat partie peut, dans un délai de quatre mois à dater du jour de la notification par le Secrétaire général de la décision de la Commission d'experts techniques, faire une déclaration motivée auprès de celui-ci, selon laquelle il n'appliquera pas ou que partiellement la norme technique validée ou la prescription technique uniforme adoptée en ce qui concerne l'infrastructure ferroviaire située sur son territoire et le trafic sur cette infrastructure.   
-§ 2.  Les Etats parties ayant fait une déclaration conformément au § 1 ne sont pas pris en compte dans la fixation du nombre des Etats qui doivent formuler une objection conformément à l'article 35, § 4 de la Convention, afin qu'une décision de la Commission d'experts techniques n'entre pas en vigueur.   
-§ 3.  L'Etat qui a fait une déclaration conformément au § 1 peut y renoncer à tout moment en informant le Secrétaire général. Cette renonciation prend effet le premier jour du deuxième mois suivant l'information.   
+§ 1.  Tout État partie peut, dans un délai de quatre mois à dater du jour de la notification par le Secrétaire général de la décision de la Commission d’experts techniques, faire une déclaration motivée auprès de celui-ci, selon laquelle il n’appliquera pas ou que partiellement la norme technique validée ou la PTU adoptée en ce qui concerne l’infrastructure ferroviaire située sur son territoire et le trafic sur cette infrastructure.   
+§ 2.  Les États parties ayant fait une déclaration conformément au § 1 ne sont pas pris en compte dans la fixation du nombre des États qui doivent formuler une objection conformément à l’article 35, § 4 de la Convention, afin qu’une décision de la Commission d’experts techniques n’entre pas en vigueur.   
+§ 3.  L’État, qui a fait une déclaration conformément au § 1, peut y renoncer à tout moment en informant le Secrétaire général. Cette renonciation prend effet le premier jour du deuxième mois suivant l’information.   
 
 ### Article  10  
 
-####Abrogation de l'Unité Technique
+####Abrogation de l’Unité Technique
 
-L'entrée en vigueur, dans tous les Etats parties à la Convention internationale sur l'Unité Technique des chemins de fer, signée à Berne le 21 octobre 1882, dans sa teneur de 1938, des Annexes adoptées par la Commission d'experts techniques conformément à l'article 8, § 3 entraîne l'abrogation de ladite convention.  
+L’entrée en vigueur, dans tous les États parties à la Convention internationale sur l’Unité Technique des chemins de fer, signée à Berne le 21 octobre 1882, dans sa teneur de 1938, des PTU adoptées par la Commission d’experts techniques conformément à l’article 6, § 1, entraîne l’abrogation de ladite Convention.  
 
 ### Article  11  
 
-####Primauté des Annexes
+####Primauté des PTU
 
-§ 1.  Après l'entrée en vigueur des Annexes, adoptées par la Commission d'experts techniques conformément à l'article 8, § 3, les normes techniques et les prescriptions techniques uniformes, contenues dans ces Annexes, priment, dans les relations entre les Etats parties, sur les dispositions de la Convention internationale sur l'Unité Technique des chemins de fer, signée à Berne le 21 octobre 1882, dans sa teneur de 1938.   
-§ 2.  Après l'entrée en vigueur des Annexes, adoptées par la Commission d'experts techniques conformément à l'article 8, § 3, les présentes Règles uniformes ainsi que les normes techniques et les prescriptions techniques uniformes, contenues dans leurs Annexes, priment, dans les Etats parties, sur les dispositions techniques: 
+§ 1.  Après l’entrée en vigueur des PTU, adoptées par la Commission d’experts techniques conformément à l’article 6, § 1, les normes techniques et les PTU, priment, dans les relations entre les États parties, sur les dispositions de la Convention internationale sur l’Unité Technique des chemins de fer, signée à Berne le 21 octobre 1882, dans sa teneur de 1938.   
+§ 2.  Après l’entrée en vigueur des PTU, adoptées par la Commission d’experts techniques conformément à l’article 6, § 1, les présentes Règles uniformes ainsi que les normes techniques et les PTU priment, dans les États parties, sur les dispositions techniques: 
 
-a) du Règlement pour l'emploi réciproque des voitures et des fourgons en trafic international (RIC),  
+a) du Règlement pour l’emploi réciproque des voitures et des fourgons en trafic international (RIC),  
 
-b) du Règlement pour l'emploi réciproque des wagons en trafic international (RIV).     
+b) du Règlement pour l’emploi réciproque des wagons en trafic international (RIV).     
+
+### Article  12  
+
+####Spécifications techniques nationales
+
+§ 1.  Les États parties veillent à informer le Secrétaire général de leurs spécifications techniques nationales applicables aux véhicules ferroviaires et aux autres matériels ferroviaires. Le Secrétaire général publie ces spécifications dans la banque de données visée à l’article 13 des Règles uniformes ATMF. L’information est communiquée au Secrétaire général dans les trois mois suivant la date d’entrée en vigueur des Règles uniformes révisées. La disposition temporaire ne peut rester en vigueur que jusqu’à sa mise en vigueur ou jusqu’à la mise en vigueur d’une spécification analogue par l’adoption de prescriptions conformément aux articles ci-dessus. L’État partie peut, à tout moment, retirer la disposition temporaire et le notifier au Secrétaire général.   
+§ 2.  Lorsqu’une PTU a été adoptée ou amendée, l’État partie veille à ce que le Secrétaire général soit informé (avec les éléments justificatifs à l’appui) des spécifications techniques nationales mentionnées au § 1 auxquelles il faudra continuer à se conformer pour pouvoir garantir la compatibilité technique entre les véhicules et son réseau; ces spécifications englobent les règles nationales applicables aux « points ouverts » des prescriptions techniques et aux cas spécifiques dûment identifiés dans la prescription technique. L’information communiquée comporte l’indication du/des « point(s) ouvert(s) » et/ou du/des « cas spécifique(s) » de la PTU auquel/auxquels se rapporte chaque spécification technique nationale. Les spécifications techniques nationales ne restent valides que si le Secrétaire général reçoit la notification dans les six mois suivant la date d’entrée en vigueur de la prescription technique en question ou de la modification qui lui a été apportée.   
+§ 3.  L’information communiquée comporte le texte intégral de la disposition technique nationale dans une langue officielle de l’État partie, ainsi que le titre et un résumé dans l’une des langues officielles de l’OTIF.   
+
+### Article  13  
+
+####Tableau d’équivalence
+
+§ 1.  Afin de réduire au minimum les évaluations et par là même les coûts liés à une demande d’admission technique, les spécifications techniques nationales conformes à l’article 12 sont classées conformément à la liste des paramètres et aux principes définis dans l’annexe au présent Appendice. Le classement est effectué sous la responsabilité de la Commission d’experts techniques. Les États parties et les organisations régionales coopèrent avec la Commission d’experts techniques et le Secrétaire général dans l’exécution de cette tâche.   
+§ 2.  La Commission d’experts techniques peut réviser l’annexe en tenant compte de l’expérience acquise en matière d’acceptation croisée des véhicules dans les États parties.   
+§ 3.  La Commission d’experts techniques veille à l’établissement d’un document de référence référençant de manière croisée l’ensemble des spécifications techniques nationales notifiées. Ledit document, qui mentionne aussi les dispositions pertinentes des PTU et des STI correspondantes (art. 8, § 9), sera publié sur le site Web de l’Organisation et tenu à jour.   
+§ 4.  Prenant dûment en compte l’opinion des États parties concernés et des organisations régionales impliquées, la Commission d’experts techniques peut décider de déclarer l’équivalence, en termes de sécurité ferroviaire: 
+
+a) entre les spécifications techniques nationales de différents États parties;  
+
+b) entre les dispositions des PTU et celles des STI correspondantes;  
+
+c) entre les spécifications techniques nationales d’un ou de plusieurs États parties et les dispositions des PTU et/ou celles des STI.   L’équivalence déclarée sera indiquée dans un tableau d’équivalence dans le document de référence mentionné au § 3 ci-dessus.   
 
 ### Annexe  1  
 
@@ -3017,118 +3069,288 @@ b) du Règlement pour l'emploi réciproque des wagons en trafic international (R
 
 ### Article  premier  
 
-####Champ d'application
+####Champ d’application
 
-Les présentes Règles uniformes fixent la procédure selon laquelle les véhicules ferroviaires sont admis à circuler et d'autres matériels ferroviaires à être utilisés en trafic international.  
+Les présentes Règles uniformes fixent la procédure selon laquelle les véhicules ferroviaires sont admis à circuler et d’autres matériels ferroviaires à être utilisés en trafic international.  
 
 ### Article  2  
 
 ####Définitions
 
-Aux fins des présentes Règles uniformes et de leur Annexe, le terme: 
+Aux fins des présentes Règles uniformes et de leur(s) future(s) Annexe(s), des Règles uniformes APTU et de leur(s) Annexe(s) et des prescriptions techniques uniformes (PTU) APTU, les définitions suivantes s’appliquent: 
 
-a) «Etat partie» désigne tout Etat membre de l'Organisation n'ayant pas fait, conformément à l'article 42, § 1, première phrase, de la Convention, de déclaration relative à ces Règles uniformes;  
+a) « accident » désigne un événement indésirable ou non intentionnel et imprévu, ou un enchaînement particulier d’évènements de cette nature, ayant des conséquences préjudiciables; les accidents sont ventilés suivants les types ci-après: collisions, déraillements, accidents aux passages à niveau, accidents de personnes causés par le matériel roulant en marche, incendies et autres;  
 
-b) «trafic international» désigne la circulation des véhicules ferroviaires sur des lignes ferroviaires empruntant le territoire d'au moins deux Etats parties;  
+b) « admission de type de construction » désigne le droit octroyé par lequel l’autorité compétente autorise un type de construction de véhicule ferroviaire comme base d’admission à l’exploitation de véhicules répondant à ce type de construction;  
 
-c) «entreprise de transport ferroviaire» désigne toute entreprise à statut privé ou public qui est autorisée à transporter des personnes ou des marchandises, la traction étant assurée par celle-ci;  
+c) « admission à l’exploitation » désigne le droit octroyé par lequel l’autorité compétente autorise chaque véhicule ferroviaire ou d’autres matériels ferroviaires à circuler en trafic international;  
 
-d) «gestionnaire d'infrastructure» désigne toute entreprise ou toute autorité qui gère une infrastructure ferroviaire;  
+d) « Commission d’experts techniques » désigne la Commission prévue à l’article 13, § 1, lettre f) de la Convention;  
 
-e) «détenteur» désigne celui qui exploite économiquement, de manière durable, un véhicule ferroviaire en tant que moyen de transport, qu'il en soit propriétaire ou qu'il en ait le droit de disposition;  
+da) « entité adjudicatrice » désigne toute entité, publique ou privée, qui commande la conception ou la construction, le renouvellement ou le réaménagement d’un sous-système. Cette entité peut être une entreprise de transport ferroviaire, un gestionnaire d’infrastructure ou un détenteur, ou bien le concessionnaire qui est chargé de la mise en oeuvre d’un du projet;  
 
-f) «admission technique» désigne la procédure menée par l'autorité compétente pour admettre un véhicule ferroviaire à circuler et d'autres matériels ferroviaires à être utilisés en trafic international;  
+e) « Etat partie » désigne tout Etat membre de l’Organisation n’ayant fait aucune déclaration concernant les présentes Règles uniformes conformément à l’article 42, § 1, première phrase de la Convention;  
 
-g) «admission de type de construction» désigne la procédure relative à un type de construction d'un véhicule ferroviaire, menée par l'autorité compétente, à l'issue de laquelle celle-ci accorde le droit de délivrer, par une procédure simplifiée, l'admission à l'exploitation pour des véhicules qui répondent à ce type de construction;  
+f) « déclaration » désigne la preuve d’une évaluation effectuée en tout ou partie pour confirmer qu’un véhicule, un type de construction ou un élément de construction respecte les dispositions des Règles uniformes APTU et de ses PTU (y compris les cas spécifiques applicables et les spécifications nationales en vigueur conformément à l’article 12 des Règles uniformes APTU);  
 
-h) «admission à l'exploitation» désigne le droit octroyé par l'autorité compétente pour chaque véhicule ferroviaire de circuler en trafic international;  
+g) « élément de construction » ou « constituant » désigne tout composant élémentaire, groupe de composants, complet ou sous-ensemble d’un équipement incorporé ou destiné à être incorporé dans un véhicule ferroviaire, dans d’autres matériels ferroviaires ou dans une infrastructure; le concept d’« élément de construction » couvre à la fois les objets matériels et immatériels tels qu’un logiciel;  
 
-i) «véhicule ferroviaire» désigne tout véhicule apte à circuler sur ses propres roues sur des voies ferrées avec ou sans traction;  
+h) « entité chargée de la maintenance » (ECM) désigne l’entité chargée de la maintenance d’un véhicule, qui est inscrite en tant que telle dans le registre des véhicules prévu à l’article 13; cette définition s’applique aussi à d’autres matériels ferroviaires;  
 
-j) «autre matériel ferroviaire» désigne tout matériel ferroviaire destiné à être utilisé en trafic international qui n'est pas un véhicule ferroviaire;  
+i) « exigences essentielles » désignent toutes les conditions définies dans les Règles uniformes APTU qui doivent être remplies par le système ferroviaire, les soussystèmes et les constituants d’interopérabilité, y compris les interfaces;  
 
-k) «Commission d'experts techniques» désigne la Commission prévue à l'article 13, § 1, lettre f) de la Convention.    
+j) « incident » désigne tout événement autre qu’un accident ou qu’un accident grave, lié à l’exploitation de trains et affectant la sécurité de l’exploitation;  
+
+k) « gestionnaire d’infrastructure » désigne toute entreprise ou toute autorité qui gère une infrastructure ferroviaire;  
+
+l) « trafic international » désigne la circulation des véhicules ferroviaires sur des lignes ferroviaires empruntant le territoire d’au moins deux Etats parties;  
+
+m) « enquête » désigne une procédure visant à prévenir les incidents et accidents et consistant à collecter et analyser des informations, à tirer des de conclusions, y compris la détermination des causes (actions, omissions, événements, conditions ou la combinaison de ces causes, ayant entraîné l’incident ou l’accident) et, le cas échéant, à formuler des recommandations en matière de sécurité;  
+
+n) « détenteur » désigne la personne ou l’entité qui, ayant la qualité de propriétaire d’un véhicule ou le droit de l’utiliser, exploite le véhicule comme moyen de transport et est inscrite en tant que telle dans le registre des véhicules prévu à l’article 13;  
+
+o) « fichier de maintenance » désigne le/les document(s) spécifiant les tâches d’inspection et de maintenance à effectuer sur un (type de) véhicule ou sur d’autres matériels ferroviaires, qui est/sont établi(s) conformément aux règles et spécifications des PTU incluant, conformément à l’article 12 des Règles uniformes APTU, les éventuels cas spécifiques et les spécifications techniques nationales en vigueur;  
+
+p) « fichier de relevé de maintenance » désigne la documentation relative à un véhicule ou à d’autres matériels ferroviaires admis, qui contient le relevé de ses états de service ainsi que les inspections et opérations de maintenance effectuées sur ce véhicule;  
+
+q) « réseau » désigne les lignes, les gares, les terminaux et tout type d’équipement fixe, nécessaire pour assurer une exploitation sûre et continue du système ferroviaire;  
+
+r) « points ouverts » désignent les aspects techniques relatifs à des exigences essentielles qui n’ont pas été explicitement traités dans une PTU;  
+
+s) « autre matériel ferroviaire » désigne tout matériel ferroviaire destiné à être utilisé en trafic international, qui n’est pas un véhicule ferroviaire;  
+
+t) « entreprise de transport ferroviaire » désigne toute entreprise à statut privé ou public 
+
+– qui est autorisée à transporter des personnes ou des marchandises par chemin de fer et qui assure la traction ou  
+
+– qui assure uniquement la traction;    
+
+u) « infrastructure ferroviaire » (ou juste « infrastructure ») désigne l’ensemble des lignes ferroviaires et installations fixes dans la mesure où elles sont nécessaires à la compatibilité avec des véhicules ferroviaires et d’autres matériels ferroviaires admis conformément aux présentes Règles uniformes et à la circulation en toute sécurité de ces véhicules et d’autres matériels ferroviaires;  
+
+v) « matériel ferroviaire » désigne les véhicules ferroviaires, les autres matériels ferroviaires et les infrastructures ferroviaires;  
+
+w) « véhicule ferroviaire » désigne tout véhicule apte à circuler sur ses propres roues sur des voies ferrées avec ou sans traction;  
+
+x) « organisation régionale » désigne une organisation telle que définie à l’article 38 de la Convention, qui possède la compétence exclusive que lui ont cédée les Etats parties;  
+
+y) « renouvellement » désigne tout travail de substitution majeur effectué sur un sous-système ou une partie de ce sous-système ne modifiant pas ses performances générales;  
+
+ya) « RID » désigne l’Appendice C à la Convention;  
+
+z) « accident grave » désigne toute collision de trains ou tout déraillement de train faisant au moins un mort ou au moins cinq personnes grièvement blessées ou d’importants dommages au matériel roulant, à l’infrastructure ou à l’environnement, et tout autre accident similaire ayant des conséquences évidentes sur la règlementation ou la gestion de la sécurité ferroviaire; « importants dommages » désignent des dommages qui peuvent être immédiatement estimés par l’organisme d’enquête à un total d’au moins 1,8 million de DTS;  
+
+aa) « cas spécifique » désigne toute partie du système ferroviaire des Etats parties qui nécessite des dispositions particulières dans les PTU, temporaires ou définitives, en raison de contraintes géographiques, topographiques, d’environnement urbain ou de cohérence par rapport au système existant. Cela peut comprendre notamment les lignes et réseaux ferroviaires isolés du reste du réseau, le gabarit, l’écartement ou l’entraxe des voies, ainsi que les véhicules et d’autres matériels ferroviaires exclusivement destinés à un usage local, régional ou historique, et les véhicules et d’autres matériels ferroviaires en provenance ou à destination de pays tiers;  
+
+bb) « sous-système » désigne le résultat de la division du système ferroviaire indiqué dans les PTU; ces sous-systèmes, pour lesquels des exigences essentielles doivent être définies, sont de nature structurelle ou fonctionnelle;  
+
+cc) « admission technique » désigne la procédure conduite par l’autorité compétente pour admettre un véhicule ferroviaire à circuler et d’autres matériels ferroviaires à être utilisés en trafic international ou pour admettre le type de construction;  
+
+dd) « certificat technique » désigne la preuve officielle du succès d’une admission technique sous la forme d’un certificat de type de conception ou d’un certificat d’exploitation valides;  
+
+ee) « fichier technique » désigne la documentation relative au véhicule ou à un autre matériel ferroviaire, contenant toutes ses caractéristiques techniques (caractéristiques du type), y compris un manuel d’utilisation et les caractéristiques nécessaires à l’identification de l’objet/des objets concerné(s).  
+
+eea) « STI » désignent les spécifications techniques d’interopérabilité adoptées en vertu des directives 96/48/CE, 2001/16/CE et 2008/57/CE, qui couvrent chaque sous-système ou chaque partie de sous-système afin de répondre aux exigences essentielles et de garantir l’interopérabilité du système ferroviaire;  
+
+ff) « type de construction » désigne les caractéristiques de conception de base du véhicule ferroviaire ou d’autres matériels ferroviaires telles que couvertes par un certificat d’examen unique décrit dans le module d’évaluation SB des PTU;  
+
+gg) « réaménagement » désigne tout travail de modification majeur effectué sur un sous-système ou une partie de ce sous-système, qui améliore ses performances générales.    
 
 ### Article  3  
 
 ####Admission au trafic international
 
-§ 1.  Pour circuler en trafic international, chaque véhicule ferroviaire doit être admis conformément aux présentes Règles uniformes.   
-§ 2.  L'admission technique a pour but de vérifier que les véhicules ferroviaires répondent aux: 
+§ 1.  Pour circuler en trafic international, chaque véhicule ferroviaire doit être admis conformément aux présentes Règles uniformes.   
+§ 2.  L’admission technique a pour but de vérifier que les véhicules ferroviaires répondent aux: 
 
-a) prescriptions de construction contenues dans les Annexes des Règles uniformes APTU,  
+a) prescriptions de construction contenues dans les PTU,  
 
-b) prescriptions de construction et d'équipement contenues dans l'Annexe du RID,  
+b) prescriptions de construction et d’équipement contenues dans le RID,  
 
-c) conditions particulières d'une admission en application de l'article 7, § 2 ou § 3.     
-§ 3.  Les §§ 1 et 2 ainsi que les articles suivants s'appliquent par analogie à l'admission technique d'autres matériels ferroviaires et aux éléments de construction soit de véhicules soit d'autres matériels ferroviaires.   
+c) conditions particulières d’admission selon l’article 7a.     
+§ 3.  Les §§ 1 et 2 ainsi que les articles suivants s’appliquent par analogie à l’admission technique d’autres matériels ferroviaires et aux éléments de construction soit de véhicules, soit d’autres matériels ferroviaires.   
+
+### Article  3a  
+
+####Interaction avec d’autres accords internationaux
+
+§ 1.  Les véhicules ferroviaires et d’autres matériels ferroviaires mis en service conformément à la législation de la Communauté européenne (CE) applicable et à la législation nationale correspondante, sont considérés comme admis à l’exploitation par tous les Etats parties conformément aux présentes Règles uniformes 
+
+a) en cas d’équivalence pleine et entière entre les dispositions des STI applicables et les PTU correspondantes, et  
+
+b) à condition que la panoplie des STI applicables, en vertu desquelles le véhicule ferroviaire ou d’autres matériels ferroviaires ont été autorisés, couvrent l’ensemble des aspects des sous-systèmes concernés qui font partie du véhicule et  
+
+c) à condition que ces STI ne contiennent aucun point ouvert relatif à la compatibilité technique avec l’infrastructure et  
+
+d) à condition que le véhicule ou d’autres matériels ferroviaires ne fassent pas l’objet d’une dérogation.   Si ces conditions ne sont pas remplies, le véhicule ou l’autre matériel ferroviaire est régi par l’article 6, § 4.   
+§ 2.  Les véhicules ferroviaires et d’autres matériels ferroviaires ayant été admis à l’exploitation conformément aux présentes Règles uniformes, sont considérés comme mis en service dans les Etats membres de la Communauté européenne et dans les Etats appliquant la législation communautaire par suite d’accords internationaux conclus avec la Communauté européenne 
+
+a) en cas d’équivalence pleine et entière entre les dispositions des PTU applicables et les STI correspondantes et  
+
+b) à condition que la panoplie des PTU applicables, en vertu desquelles le véhicule ferroviaire ou d’autres matériels ferroviaires ont été autorisés, couvrent l’ensemble des aspects des sous-systèmes concernés qui font partie du véhicule et  
+
+c) à condition que ces PTU ne contiennent aucun point ouvert relatif à la compatibilité technique avec l’infrastructure, et  
+
+d) à condition que le véhicule ou d’autres matériels ferroviaires ne fassent pas l’objet d’une dérogation.   Si ces conditions ne sont pas remplies, le véhicule ou le matériel ferroviaire sera soumis à autorisation conformément au droit applicable dans les Etats membres de la Communauté européenne et dans les Etats appliquant la législation communautaire par suite d’accords internationaux conclus avec la Communauté européenne.   
+§ 3.  L’admission à l’exploitation, la circulation et la maintenance des véhicules ferroviaires et d’autres matériels ferroviaires utilisés dans les Etats membre de la Communauté européenne, sont régies par les législations communautaire et nationale applicables. Cette disposition est également applicable aux Etats parties appliquant la législation de la Communauté européenne pertinente par suite d’accords internationaux conclus avec celle-ci.   
+§ 4.  Les §§ 1 à 2 s’appliquent par analogie aux admissions/autorisations des types de véhicules.   
+§ 5.  Une entité chargée de la maintenance (ECM) d’un wagon de marchandises, certifiée conformément à l’article 15, § 2, est réputée certifiée conformément à la législation de la Communauté européenne applicable et à la législation nationale correspondante et inversement, en cas d’équivalence pleine et entière entre le système de certification adopté en vertu de l’article 14a (5) de la directive 2004/49/CE concernant la sécurité des chemins de fer communautaires et les règles adoptées par la Commission d’experts techniques conformément à l’article 15, § 2.   
 
 ### Article  4  
 
 ####Procédure
 
-§ 1.  L'admission technique s'effectue: 
+§ 1.  L’admission technique d’un véhicule s’effectue 
 
-a) soit, en une seule étape, en octroyant l'admission à l'exploitation à un véhicule ferroviaire individuel donné,  
+a) soit, en une seule étape, en octroyant l’admission à l’exploitation à un véhicule individuel donné,  
 
 b) soit, en deux étapes successives, en octroyant 
 
-1. l'admission de type de construction à un type donné de véhicules ferroviaires,  
+– l’admission de type de construction à un type de construction donné,  
 
-2. puis l'admission à l'exploitation aux véhicules individuels répondant à ce type de construction par une procédure simplifiée de confirmation de l'appartenance à ce type.       
-§ 2.  Cette disposition ne fait pas obstacle à l'application de l'article 10.   
+– puis l’admission à l’exploitation aux véhicules individuels répondant à ce type de construction par une procédure simplifiée de confirmation de l’appartenance à ce type.       
+§ 2.  Les évaluations de la conformité d’un véhicule ou d’un élément de construction aux dispositions des PTU, sur lesquelles l’admission est fondée, peuvent être scindées en modules d’évaluation, chacun attesté par une déclaration. Les modules d’évaluation et le modèle de la déclaration sont définis par la Commission d’experts techniques.   
+§ 3.  Les procédures d’admission technique de l’infrastructure ferroviaire sont régies par les dispositions en vigueur dans l’Etat partie en question.   
 
 ### Article  5  
 
 ####Autorité compétente
 
-§ 1.  L'admission technique de véhicules ferroviaires à la circulation en trafic international relève de l'autorité nationale ou internationale compétente en la matière conformément aux lois et prescriptions en vigueur dans chaque Etat partie.   
-§ 2.  Les autorités visées au § 1 peuvent transférer à des organismes reconnus aptes la compétence d'octroyer l'admission technique à condition qu'elles en assurent la surveillance. Le transfert de la compétence d'octroyer l'admission technique à une entreprise de transport ferroviaire excluant d'autres de cette compétence n'est pas permis. En outre, est exclu le transfert à un gestionnaire d'infrastructure qui participe directement ou indirectement à la construction de matériel ferroviaire.   
+§ 1.  L’admission technique relève de l’autorité nationale ou internationale compétente en la matière conformément aux lois et prescriptions en vigueur dans chaque Etat partie.   
+§ 2.  Les autorités prévues au § 1 peuvent transférer ou transfèrent, conformément aux dispositions en vigueur dans leur Etat, en tout ou partie à des organismes reconnus aptes ayant leur siège dans leur Etat, la compétence d’effectuer des évaluations, y compris d’établir les déclarations correspondantes. Le transfert de compétence à 
+
+a) une entreprise de transport ferroviaire,  
+
+b) un gestionnaire d’infrastructure,  
+
+c) un détenteur,  
+
+d) une entité chargée de la maintenance (ECM),  
+
+e) un concepteur ou constructeur de matériel ferroviaire participant directement ou indirectement à la construction de matériels ferroviaires,   y compris les filiales des précédentes entités, est prohibé.   
+§ 3.  Pour être reconnus aptes, les organismes mentionnés au § 2 doivent remplir les conditions suivantes: 
+
+a) l’organisme doit être indépendant dans son organisation, sa structure juridique, et sa prise de décision de toute entreprise ferroviaire, gestionnaire d’infrastructure, demandeur ou entité de passation de marchés; son directeur et le personnel responsable de la réalisation des évaluations ou de l’établissement des certificats et déclarations ne doivent pas se retrouver impliqués, que ce soit directement ou en tant que représentants habilités, dans la conception, la fabrication, la construction ou la maintenance des constituants, des véhicules ou des matériels ferroviaires ou dans l’utilisation de ces derniers. Ceci n’exclut pas pour autant la possibilité d’un échange d’informations techniques entre le fabricant ou constructeur et ledit organisme.  
+
+b) L’organisme et le personnel responsable des évaluations effectuent les évaluations avec la plus grande intégrité professionnelle et la plus grande compétence technique possible et ne doivent faire l’objet ni de pressions, ni d’incitations, en particulier de nature financière, qui pourraient affecter leur jugement ou les résultats de leur inspection, en particulier de la part de personnes ou de groupes de personnes affectés par les résultats des évaluations.  
+
+c) En particulier, l’organisme et le personnel responsable des évaluations sont indépendants, sur le plan fonctionnel, des organismes chargés des enquêtes en cas d’accidents.  
+
+d) L’organisme emploie le personnel et possède les moyens nécessaires pour pouvoir exécuter de manière appropriée les tâches technico-administratives liées aux évaluations; il doit avoir également accès à l’équipement requis pour des évaluations exceptionnelles.  
+
+e) Le personnel responsable des évaluations possède 
+
+– une formation technique et professionnelle appropriée,  
+
+– une connaissance satisfaisante des exigences relatives aux évaluations qu’il effectue et une pratique suffisante de ces évaluations et  
+
+– l’aptitude à établir les certificats, comptes rendus et rapports constituant le compte-rendu formel des évaluations conduites.    
+
+f) L’indépendance du personnel responsable des évaluations est garantie. Aucun agent ne peut être rémunéré sur la base du nombre d’évaluations effectuées ou des résultats de ces évaluations.  
+
+g) L’organisme souscrit une assurance de responsabilité civile, à moins que ladite responsabilité ne soit couverte par l’Etat en vertu de la législation nationale ou à moins que les évaluations ne soient effectuées directement par l’Etat partie.  
+
+h) Le personnel de l’organisme est lié par le secret professionnel concernant tout ce qui vient à sa connaissance dans l’exercice de ses fonctions (à l’exception des autorités administratives compétentes dans l’Etat dans lequel elles exercent ces activités) conformément aux présentes Règles uniformes ou toute exigence légale et/ou réglementations de l’Etat partie, y compris, au besoin, la législation de la Communauté européenne.     
+§ 4.  Les dispositions du § 3 s’appliquent par analogie aux autorités effectuant l’admission technique.   
+§ 5.  Un Etat partie veille, par notification ou, au besoin, par les moyens prévus dans le droit communautaire ou dans le droit des Etats appliquant le droit communautaire par suite d’accords internationaux conclus avec la Communauté européenne, à ce que le Secrétaire général soit informé des organismes responsables de la réalisation des évaluations, vérifications et homologations, en indiquant le domaine de responsabilité de chacun d’eux. Le Secrétaire général publie et tient à jour une liste des organismes, de leur numéro d’identification et de leurs domaines de responsabilité.   
+§ 6.  Tout Etat partie garantit la surveillance adéquate des organismes mentionnés au § 2 et retire sa compétence à tout organisme ne remplissant plus les critères prévus au § 3, auquel cas il en informe sans délai le Secrétaire général.   
+§ 7.  Un Etat partie qui considère qu’une autorité d’évaluation ou d’homologation d’un autre Etat partie, ou qu’un organisme auquel il a transféré sa compétence, ne remplit pas les critères énoncés au § 3, peut porter l’affaire devant la Commission d’experts techniques qui, dans les quatre mois, informe l’Etat partie en question des changements de toutes natures auxquels il conviendra de procéder pour que l’organisme conserve le statut qui lui a été conféré. En relation avec ce qui précède, la Commission d’experts techniques peut décider d’ordonner à l’Etat partie de suspendre ou de retirer les homologations délivrées sur la base des travaux effectués par l’organisme ou l’autorité en question.   
 
 ### Article  6  
 
-####Reconnaissance de l'admission technique
+####Validité des certificats techniques
 
-L'admission d'un type de construction et l'admission à l'exploitation, accordées conformément aux présentes Règles uniformes par l'autorité compétente d'un Etat partie, ainsi que les certificats correspondants sont reconnus par les autorités, les entreprises de transport ferroviaire et les gestionnaires d'infrastructure dans les autres Etats parties, sans qu'il y ait besoin d'un nouvel examen et d'une nouvelle admission technique en vue de la circulation et de l'utilisation sur le territoire de ces autres Etats.  
+§ 1.  Les certificats techniques délivrés par l’autorité compétente d’un Etat partie conformément aux présentes Règles uniformes sont valides dans tous les autres Etats parties. Toutefois, la circulation et l’utilisation sur le territoire de ces autres Etats sont régies par les conditions spécifiées dans le présent article.   
+§ 2.  Une admission à l’exploitation permet aux entreprises de transport ferroviaire d’exploiter un véhicule uniquement sur les infrastructures compatibles avec ce véhicule conformément à ses spécifications et aux autres conditions d’admission; il incombe à l’entreprise de transport ferroviaire de s’en assurer.   
+§ 3.  Sans préjudice de l’article 3a, une admission à l’exploitation délivrée pour un véhicule conforme à l’ensemble des PTU applicables permet à ce véhicule de circuler librement sur le territoire d’autres Etats parties à condition que 
+
+a) toutes les exigences essentielles soient couvertes dans ces PTU et  
+
+b) le véhicule ne soit pas sujet à 
+
+– un cas spécifique ou  
+
+– des points ouverts relatifs à la compatibilité technique avec l’infrastructure     ou 
+
+– une dérogation.   Les conditions de libre circulation peuvent être également spécifiées dans les PTU concernées.   
+§ 4.  
+
+a) Si, dans un Etat partie, une admission à l’exploitation a été délivrée pour un véhicule qui 
+
+– est sujet à un cas spécifique, à un point ouvert relatif à la compatibilité technique avec l’infrastructure ou à une dérogation, ou  
+
+– n’est pas conforme aux PTU relatives au matériel roulant et à toutes autres dispositions pertinentes, ou    
+
+b) si toutes les exigences essentielles ne sont pas couvertes dans les PTU, les autorités compétentes des autres Etats peuvent demander au demandeur de leur fournir des informations techniques additionnelles telles qu’une analyse de risque ou des tests du véhicule avant de lui octroyer une admission à l’exploitation complémentaire.   Pour la partie du véhicule conforme à une PTU ou à une partie d’une PTU, les autorités compétentes doivent accepter les vérifications effectuées par d’autres autorités compétentes conformément aux PTU. Pour l’autre partie du véhicule, les autorités compétentes doivent prendre pleinement en compte le tableau d’équivalence prévu à l’article 13 des Règles uniformes APTU. Le respect 
+
+a) de dispositions identiques et de dispositions déclarées équivalentes,  
+
+b) de dispositions qui ne sont pas liées à un cas spécifique et  
+
+c) de dispositions qui ne sont pas liées à la compatibilité technique avec l’infrastructure, ne fait pas l’objet d’une nouvelle évaluation.     
+§ 5.  Les §§ 2 à 4 s’appliquent par analogie à une admission de type de construction.   
+
+### Article  6a  
+
+####Reconnaissance de la documentation procédurale
+
+§ 1.  Les évaluations, déclarations et autre documentation réalisées conformément aux présentes Règles uniformes sont reconnues comme preuves réfutables par les autorités et organismes compétents, les entreprises de transport ferroviaire, les détenteurs et les gestionnaires d’infrastructure dans tous les Etats parties.   
+§ 2.  Si une exigence ou une disposition a été reconnue équivalente conformément à l’article 13 des Règles uniformes APTU, les évaluations et tests associés qui ont été déjà effectués et documentés, ne sont pas répétés.   
+
+### Article  6b  
+
+####Reconnaissance des tests techniques et fonctionnels
+
+La Commission d’experts techniques peut adopter des règles destinées à être incluses dans une Annexe aux présentes Règles uniformes et des spécifications destinées à être incluses dans une ou plusieurs PTU concernant les dispositions relatives aux inspections techniques, aux fichiers de relevé de maintenance des véhicules admis et aux tests fonctionnels tels que les essais de freinage de train, et leur reconnaissance mutuelle.  
 
 ### Article  7  
 
-####Prescriptions de construction applicables aux véhicules
+####Prescriptions applicables aux véhicules
 
-§ 1.  Pour être admis à la circulation en trafic international, les véhicules ferroviaires doivent répondre: 
+§ 1.  Pour être et rester admis à la circulation en trafic international, un véhicule ferroviaire doit répondre: 
 
-a) aux prescriptions de construction contenues dans les Annexes des Règles uniformes APTU;  
+a) aux PTU et  
 
-b) aux prescriptions de construction et d'équipement contenues dans l'Annexe du RID.     
-§ 2.  A défaut de dispositions dans les Annexes des Règles uniformes APTU, les règles techniques généralement reconnues s'appliquent à l'admission technique. Une norme technique, même si elle n'est pas validée conformément à la procédure prévue aux Règles uniformes APTU, constitue la preuve que le savoir-faire contenu dans cette norme représente une règle technique généralement reconnue.   
-§ 3.  Afin de permettre des développements techniques, il peut être dérogé aux règles techniques généralement reconnues et aux prescriptions de construction contenues dans les Annexes des Règles uniformes APTU, à condition qu'il soit prouvé: 
+b) si elles sont applicables, aux dispositions contenues dans le RID.     
+§ 2.  En l’absence de PTU applicables au sous-système, l’admission technique est fondée sur les spécifications techniques nationales applicables qui sont en vigueur, conformément à l’article 12 des Règles uniformes APTU, dans l’Etat dans lequel une demande d’admission technique est faite.   
+§ 3.  Si les PTU ne couvrent pas l’ensemble des exigences essentielles ou dans le cas de cas spécifiques ou de points ouverts, l’admission technique est fondée sur 
 
-a) qu'une sécurité au moins égale à celle qui résulte du respect de ces règles et de ces prescriptions  
+a) les dispositions contenues dans les PTU,  
 
-b) ainsi que l'interopérabilité   restent garanties.   
-§ 4.  Lorsqu'un Etat partie a l'intention d'admettre, conformément au § 2 ou au § 3, un véhicule ferroviaire, il en informe sans délai le Secrétaire général de l'Organisation. Celui-ci communique cette information aux autres Etats parties. Dans un délai d'un mois après réception de la communication du Secrétaire général, un Etat partie peut demander la convocation de la Commission d'experts techniques pour que celle-ci vérifie si les conditions pour l'application du § 2 ou du § 3 sont remplies. La Commission en décide dans un délai de trois mois à compter de la réception par le Secrétaire général de la demande de convocation.   
+b si elles sont applicables, les dispositions contenues dans le RID et  
+
+c) les spécifications techniques nationales applicables qui sont en vigueur conformément à l’article 12 des Règles uniformes APTU.     
+
+### Article  7a  
+
+####Dérogations
+
+La Commission d’experts techniques adopte des directives ou dispositions obligatoires concernant les dérogations aux dispositions de l’article 7 et les méthodes d’évaluation qui peuvent être ou sont utilisées.  
 
 ### Article  8  
 
-####Prescriptions de construction applicables à d'autres matériels
+####Prescriptions applicables à l’infrastructure ferroviaire
 
-§ 1.  Pour être admis à l'utilisation en trafic international les autres matériels ferroviaires doivent répondre aux prescriptions de construction contenues dans les Annexes des Règles uniformes APTU.   
-§ 2.  L'article 7, §§ 2 à 4 s'applique par analogie.   
-§ 3.  Les obligations des Etats parties résultant pour eux de l'Accord européen sur les grandes lignes ferroviaires internationales (AGC) du 31 mai 1985 et de l'Accord européen sur les grandes lignes de transport international combiné et les installations connexes (AGTC) du 1er février 1991 auxquels ils sont également parties, restent applicables.   
+§ 1.  Pour garantir qu’un véhicule ferroviaire admis à circuler en trafic international conformément aux présentes Règles uniformes, circulera en toute sécurité sur l’infrastructure ferroviaire et qu’il sera compatible avec elle, l’infrastructure ferroviaire doit répondre 
+
+a) aux dispositions contenues dans les PTU et  
+
+b) si elles sont applicables, aux dispositions contenues dans le RID.     
+§ 2.  L’admission de l’infrastructure et la surveillance de sa maintenance demeurent régies par les dispositions en vigueur dans l’Etat partie dans lequel se situe l’infrastructure.   
+§ 3.  Les articles 7 et 7a s’appliquent par analogie à l’infrastructure.   
 
 ### Article  9  
 
-####Prescriptions d'exploitation
+####Prescriptions d’exploitation
 
-§ 1.  Les entreprises de transport ferroviaire qui exploitent un véhicule ferroviaire admis à la circulation en trafic international sont tenues de respecter les prescriptions relatives à l'exploitation d'un véhicule en trafic international, figurant dans les Annexes des Règles uniformes APTU.   
-§ 2.  Les entreprises ou les administrations, qui gèrent dans les Etats parties une infrastructure, y inclus les systèmes de sécurité des circulations et de régulation, destinée et apte à être exploitée en trafic international, sont tenues de respecter les prescriptions techniques figurant dans les Annexes des Règles uniformes APTU et d'y satisfaire en permanence lors de la construction ou de la gestion de cette infrastructure.   
+§ 1.  Les entreprises de transport ferroviaire qui exploitent un véhicule ferroviaire admis à la circulation en trafic international, sont tenues de respecter les prescriptions relatives à l’exploitation d’un véhicule en trafic international, figurant dans les PTU.   
+§ 2.  Les entreprises et administrations qui gèrent dans les Etats parties l’infrastructure, y compris les systèmes de sécurité et de contrôle de l’exploitation, qui est destinée et apte à être exploitée en trafic international, sont tenues de respecter les prescriptions techniques figurant dans les PTU et d’y satisfaire de façon permanente lors de la construction et de la gestion de cette infrastructure.   
 
 ### Article  10  
 
-####Admission technique
+####Demande et octroi de certificats techniques, déclarations et conditions afférentes
 
-§ 1.  L'admission technique (admission de type de construction, admission à l'exploitation) est attachée au type de construction d'un véhicule ferroviaire ou au véhicule ferroviaire.   
-§ 2.  L'admission technique peut être demandée par: 
+§ 1.  L’octroi d’un certificat technique est attaché au type de construction d’un véhicule ferroviaire ou au véhicule ferroviaire proprement dit.   
+§ 2.  Une demande de certificat technique peut être faite par: 
 
 a) le constructeur,  
 
@@ -3136,130 +3358,190 @@ b) une entreprise de transport ferroviaire,
 
 c) le détenteur du véhicule,  
 
-d) le propriétaire du véhicule. La demande peut être faite auprès de toute autorité compétente, visée à l'article 5, de l'un des Etats parties.     
-§ 3.  Celui qui demande une admission à l'exploitation pour des véhicules ferroviaires selon la procédure simplifiée d'admission technique (article 4, § 1, lettre b)), doit joindre à sa demande le certificat d'admission de type de construction, établi conformément à l'article 11, § 2, et prouver, d'une manière appropriée, que les véhicules pour lesquels il demande l'admission à l'exploitation, correspondent à ce type de construction.   
-§ 4.  L'admission technique doit être accordée sans égard à la qualité du demandeur.   
-§ 5.  L'admission technique est accordée pour une durée en principe illimitée; elle peut être générale ou restreinte.   
-§ 6.  Une admission de type de construction peut être retirée lorsque la sécurité, la santé publique ou le respect de l'environnement ne sont plus garantis du fait de la circulation de véhicules ferroviaires qui ont été ou doivent être construits d'après le type de construction concerné.   
-§ 7.  L'admission à l'exploitation peut être retirée: 
+d) le propriétaire du véhicule,  
 
-a) lorsque le véhicule ferroviaire ne répond plus aux prescriptions de construction contenues dans les Annexes des Règles uniformes APTU, aux conditions particulières de son admission en application de l'article 7, § 2 ou § 3 ou aux prescriptions de construction et d'équipement contenues dans l'Annexe du RID et lorsque le détenteur ne donne pas suite à la demande de l'autorité compétente de remédier aux défauts dans le délai prescrit;  
+e) le gestionnaire d’infrastructure.     
+§ 3.  La demande de certificat technique, y compris les déclarations appropriées, peut être faite auprès de toute autorité compétente ou de tout organisme de l’un des Etas parties, dans le cadre des compétences prévues à l’article 5.   
+§ 4.  Si l’article 6, § 4 s’applique au véhicule, le demandeur indique les Etats parties (ou, le cas échéant, les lignes) pour lesquels les certificats techniques sont requis de manière à garantir la libre circulation; dans ce cas, les autorités et les organismes d’évaluation compétents doivent coopérer de façon à faciliter le processus pour le demandeur.   
+§ 5.  L’ensemble des frais occasionnés par le processus d’admission est supporté par le demandeur, sauf disposition contraire des lois et prescriptions en vigueur dans l’Etat dans lequel l’admission est octroyée. L’exécution d’admissions techniques aux fins de profit est prohibée.   
+§ 5a.  L’ensemble des décisions, évaluations, tests, etc. sont exécutés de manière non discriminatoire.   
+§ 6.  Le demandeur élabore et joint à sa demande un fichier technique et un fichier de maintenance contenant les informations requises dans les PTU. L’organisme d’évaluation vérifie, corrige et ajoute des informations appropriées à ces fichiers afin qu’ils reflètent les propriétés du véhicule.   
+§ 7.  Chaque évaluation effectuée est décrite par l’évaluateur dans un rapport d’évaluation qui justifie les évaluations en l’occurrence effectuées et précise les dispositions par rapport auxquelles l’objet a été évalué et si celui-ci a réussi ou raté l’évaluation.   
+§ 8.  Celui qui demande un certificat d’exploitation par la procédure d’admission technique simplifiée (article 4, § 1, lettre b)) joint à sa demande le certificat de type de conception, établi conformément à l’article 11, § 2, et démontre, de manière appropriée, que les véhicules pour lesquels il demande un certificat d’exploitation correspondent à ce type de construction.   
+§ 9.  Un certificat technique est octroyé en principe pour une durée illimitée; son champ d’application peut être général ou restreint.   
+§ 10.  En cas de modification de dispositions pertinentes des prescriptions mentionnées à l’article 7, sur la base desquelles un type de construction a été admis, et d’absence de dispositions provisoires pertinentes, l’Etat partie dans lequel le certificat de type de conception a été délivré, décide, après consultation des autres Etats dans lesquels le certificat est valide conformément à l’article 6, si le certificat peut conserver sa validité ou s’il doit être renouvelé. Les critères à vérifier en cas de renouvellement d’une admission de type de construction ne peuvent concerner que les dispositions modifiées. Ledit renouvellement n’affecte pas les admissions à l’exploitation déjà octroyées sur la base de types précédemment admis.   
+§ 11.  En cas de renouvellement ou de réaménagement, l’entité adjudicatrice ou le constructeur envoie à l’Etat partie concerné un dossier décrivant le projet. L’Etat partie examine ce dossier et, prenant en compte la stratégie de mise en oeuvre figurant dans les PTU applicables, décide si l’étendue des travaux est telle qu’une nouvelle admission à l’exploitation au sens des présentes Règles uniformes est nécessaire. Une nouvelle admission à l’exploitation est nécessaire dans tous les cas où le niveau de sécurité général du sous-système concerné peut être affecté de manière négative par les travaux envisagés. Si une nouvelle admission est nécessaire, l’Etat partie décide dans quelle mesure les dispositions des PTU afférentes doivent être appliquées au projet. L’Etat partie prend sa décision au plus tard dans les quatre mois suivant la soumission du dossier complet par le demandeur. Lorsqu’une nouvelle admission est nécessaire et si les PTU ne sont pas pleinement appliquées, l’Etat partie notifie au Secrétaire général 
 
-b) lorsque des charges ou des conditions, résultant d'une admission restreinte selon le § 5, ne sont pas remplies ou respectées.     
-§ 8.  Seule l'autorité qui a accordé l'admission de type de construction ou l'admission à l'exploitation peut les retirer.   
-§ 9.  L'admission à l'exploitation est suspendue: 
+a) la raison pour laquelle une PTU n’est pas pleinement appliquée,  
 
-a) lorsque ne sont pas effectués le suivi technique, les visites, la maintenance et les révisions du véhicule ferroviaire prescrits dans les Annexes des Règles uniformes APTU, dans les conditions particulières d'une admission en application de l'article 7, § 2 ou § 3 ou dans les prescriptions de construction et d'équipement contenues dans l'Annexe du RID;  
+b) les caractéristiques techniques applicables en lieu et place des PTU et  
 
-b) lorsque en cas d'avarie grave d'un véhicule ferroviaire, l'injonction de l'autorité compétente à présenter le véhicule n'est pas respectée;  
+c) les organismes responsables de la fourniture des informations requises sous a) et b).   Le Secrétaire général publie l’information notifiée sur le site Web de l’Organisation.   
+§ 12.  Le § 11 s’applique par analogie à un certificat de type de conception et à toute déclaration concernant la construction ou les éléments de construction en question.   
 
-c) en cas de non-respect des présentes Règles uniformes et des prescriptions des Annexes des Règles uniformes APTU;  
+### Article  10a  
 
-d) lorsque l'autorité compétente en décide ainsi.     
-§ 10.  L'admission à l'exploitation devient caduque en cas de mise hors service du véhicule ferroviaire. La mise hors service doit être communiquée à l'autorité compétente qui a accordé l'admission à l'exploitation.   
-§ 11.  A défaut de dispositions dans les présentes Règles uniformes, la procédure de l'admission technique est régie par le droit national de l'Etat partie dans lequel une demande d'admission technique est faite.   
+####Règles relatives aux retraits ou suspensions des certificats techniques
+
+§ 1.  Une autorité compétente d’un Etat partie autre que celle ayant octroyé la (première) admission à l’exploitation qui découvre une non-conformité, doit en aviser, avec tous les détails, la (première) autorité ayant octroyé l’admission; si la non-conformité concerne un certificat de type de conception, l’autorité qui l’a délivré est également informée.   
+§ 2.  Un certificat d’exploitation peut être retiré 
+
+a) lorsque le véhicule ferroviaire n’est plus conforme aux 
+
+– prescriptions contenues dans les PTU et dans les spécifications nationales applicables qui sont en vigueur conformément à l’article 12 des Règles uniformes APTU ou  
+
+– conditions particulières de son admission selon l’article 7a, ou  
+
+– prescriptions de construction et d’équipement contenues dans le RID ou    
+
+b) si le détenteur ne répond pas à l’injonction de l’autorité compétente de remédier aux défauts dans le délai prescrit ou  
+
+c) lorsque des prescriptions et conditions, résultant d’une admission restreinte selon l’article 10, § 10, ne sont pas remplies ou respectées.     
+§ 3.  Seule l’autorité qui a octroyé le certificat de type de conception ou le certificat d’exploitation peut le retirer.   
+§ 4.  Le certificat d’exploitation est suspendu 
+
+a) lorsque les contrôles techniques, les inspections, la maintenance et l’entretien du véhicule ferroviaire prescrits dans son fichier de maintenance, dans les PTU, dans les conditions particulières d’admission prévues à l’article 7a ou dans les prescriptions de construction et d’équipement contenues dans le RID ne sont pas exécutés (ou si les délais ne sont pas observés);  
+
+b) si, en cas d’avarie grave causée à un véhicule ferroviaire, l’ordre de présentation du véhicule émanant de l’autorité compétente n’est pas suivi d’effet;  
+
+c) en cas de non-respect des présentes Règles uniformes et des prescriptions contenues dans les PTU;  
+
+d) si les spécifications nationales applicables qui sont en vigueur conformément à l’article 12 des Règles uniformes APTU ou les dispositions déclarées équivalentes conformément à l’article 13 des Règles uniformes APTU ne sont pas respectées. La validité du certificat est suspendue pour l’Etat partie/les Etats parties concerné(s).     
+§ 5.  Le certificat d’exploitation devient caduc lorsque le véhicule ferroviaire est retiré du service. Le retrait du service est notifié à l’autorité compétente qui a accordé l’admission à l’exploitation.   
+§ 6.  Les §§ 1 à 4 s’appliquent par analogie au certificat de type de conception.   
+
+### Article  10b  
+
+####Règles relatives aux évaluations et procédures
+
+§ 1.  La Commission d’experts techniques a la compétence d’adopter d’autres dispositions obligatoires concernant les évaluations et règles procédurales d’admission technique.   
+§ 2.  En outre, et sans contradiction aucune avec les dispositions fixées par la Commission d’experts techniques conformément au § 1, les Etats parties ou les organisations régionales peuvent adopter (ou conserver) des dispositions concernant des procédures obligatoires détaillées et non-discriminatoires relatives aux évaluations et exigences posées en matière de déclarations. Ces dispositions sont notifiées au Secrétaire général, qui en avise la Commission d’experts techniques, et publiées par l’Organisation.   
 
 ### Article  11  
 
-####Certificats
+####Certificats techniques et déclarations
 
-§ 1.  L 'admission de type de construction et l'admission à l'exploitation sont constatées par des documents distincts dénommés: «Certificat d'admission de type de construction» et «Certificat d'admission à l'exploitation».   
-§ 2.  Le certificat d'admission de type de construction doit préciser: 
+§ 1.  L’admission de type de construction et l’admission à l’exploitation sont constatées par des documents distincts dénommés: « Certificat de type de conception » et « Certificat d’exploitation ».   
+§ 2.  Le certificat de type de conception: 
 
-a) le constructeur du type de construction d'un véhicule ferroviaire;  
+a) spécifie le concepteur et le constructeur prévu du type de construction du véhicule ferroviaire;  
 
-b) toutes les caractéristiques techniques nécessaires pour identifier le type de construction d'un véhicule ferroviaire;  
+b) contient le fichier technique et le fichier de maintenance en pièces jointes;  
 
-c) le cas échéant, les conditions particulières de circulation pour le type de construction d'un véhicule ferroviaire et les véhicules ferroviaires répondant à ce type de construction.     
-§ 3.  Le certificat d'admission à l'exploitation doit préciser: 
+c) le cas échéant, spécifie les limites et conditions particulières de circulation pour le type de construction d’un véhicule ferroviaire et pour les véhicules ferroviaires répondant à ce type de construction;  
 
-a) le détenteur du véhicule ferroviaire;  
+d) contient le/les rapport(s) d’évaluation en pièce(s) jointe(s);  
 
-b) toutes les caractéristiques techniques nécessaires pour identifier le véhicule ferroviaire, ce qui peut être également fait par un renvoi au certificat d'admission de type de construction;  
+e) le cas échéant, spécifie toutes les déclarations (de conformité et de vérification) afférentes délivrées;  
 
-c) le cas échéant, les conditions particulières de circulation du véhicule ferroviaire;  
+f) spécifie l’autorité compétente ayant délivré le certificat et la date de délivrance, et porte la signature de l’autorité;  
 
-d) le cas échéant, sa durée de validité;  
+g) contient, le cas échéant, sa période de validité.     
+§ 3.  Le certificat d’exploitation comprend 
 
-e) les révisions du véhicule ferroviaire prescrites dans les Annexes des Règles uniformes APTU, dans les conditions particulières d'une admission en application de l'article 7, § 2 ou § 3 ou dans les prescriptions de construction et d'équipement contenues dans l'Annexe du RID ainsi que les autres examens techniques relatifs à des éléments de construction et à des agrès déterminés du véhicule.     
-§ 4.  Les certificats doivent être imprimés au minimum en deux langues dont l'une au moins doit être choisie parmi les langues de travail de l'Organisation.   
+a) toutes les informations indiquées au § 2, et  
+
+b) le(s) code(s) d’identification du/des véhicule(s) couvert(s) par le certificat;  
+
+c) des informations sur le détenteur du/des véhicule(s) ferroviaire(s) couvert(s) par le certificat à la date de sa délivrance;  
+
+d) le cas échéant, sa période de validité.     
+§ 4.  Le certificat d’exploitation peut couvrir un groupe de véhicules individuels de même type, auquel cas les informations requises conformément au § 3 sont spécifiées de manière identifiable pour chacun des véhicules composant ce groupe, et le fichier technique contient une liste de la documentation identifiable concernant les tests effectués sur chaque véhicule.   
+§ 5.  Le fichier technique et le fichier de maintenance contiennent les informations requises conformément aux dispositions des PTU.   
+§ 6.  Les certificats sont imprimés dans l’une des langues de travail conformément à l’article 1er, § 6 de la Convention.   
+§ 7.  Les certificats et déclarations sont délivrés au demandeur.   
+§ 8.  Le certificat d’exploitation est attaché à l’objet. Une fois le véhicule en service, le détenteur du certificat d’exploitation (y compris le fichier technique et le fichier de maintenance), s’il ne s’agit pas du détenteur actuel, le remet sans délai au détenteur actuel conjointement au fichier de relevé de maintenance, et met à disposition toutes les instructions détaillées (supplémentaires) concernant l’exploitation et la maintenance qui sont toujours en sa possession.   
+§ 9.  Le § 8 s’applique par analogie aux véhicules et matériels ferroviaires admis conformément à l’article 19, la documentation en question étant en l’occurrence la documentation relative à l’homologation et toute autre documentation contenant des informations en tout ou en partie similaires à celles demandées dans les spécifications relatives au fichier technique, au fichier de maintenance et au fichier de relevé de maintenance.   
 
 ### Article  12  
 
 ####Modèles uniformes
 
-§ 1.  L'Organisation prescrit des modèles uniformes de «Certificat d'admission de type de construction» et de «Certificat d'admission à l'exploitation». Ils sont élaborés et adoptés par la Commission d'experts techniques.   
-§ 2.  L'article 35, §§ 1 et 3 à 5 de la Convention s'applique par analogie.   
+§ 1.  L’Organisation prescrit des modèles uniformes des certificats mentionnés à l’article 11, des déclarations décidées conformément à l’article 4, § 2 et du rapport d’évaluation conformément à l’article 10, § 7.   
+§ 2.  Les modèles sont élaborés et adoptés par la Commission d’experts techniques.   
+§ 3.  La Commission d’experts techniques peut décider d’autoriser des certificats et déclarations faits sur un autre modèle spécifié que celui prescrit dans les Règles uniformes, mais qui contient les informations requises conformément à l’article 11, pour qu’ils soient reconnus en tant que substituts équivalents.   
 
 ### Article  13  
 
-####Banque de données
+####Registres
 
-§ 1.  Une banque de données concernant les véhicules ferroviaires admis à la circulation en trafic international est établie et mise à jour sous la responsabilité de l'Organisation.   
-§ 2.  Les autorités compétentes, ou le cas échéant les organismes autorisés par celles-ci à admettre un véhicule ferroviaire à l'exploitation, transmettent à l'Organisation, sans délai, les données nécessaires aux fins des présentes Règles uniformes relatives aux véhicules admis à la circulation en trafic international. La Commission d'experts techniques établit quelles sont les données nécessaires. Seules ces données sont enregistrées dans la banque de données. Dans tous les cas, les mises hors service, les immobilisations officielles, les retraits d'admission à l'exploitation et les modifications d'un véhicule dérogeant au type de construction admis sont communiqués à l'Organisation.   
-§ 3.  Les données enregistrées dans la banque de données ne sont considérées que comme preuve réfutable de l'admission technique d'un véhicule ferroviaire.   
-§ 4.  Les données enregistrées peuvent être consultées par: 
-
-a) les Etats parties;  
-
-b) les entreprises de transport ferroviaire participant au trafic international ayant leur siège dans un Etat partie;  
-
-c) les gestionnaires d'infrastructure ayant leur siège dans un Etat partie sur l'infrastructure desquels un trafic international est effectué;  
-
-d) les constructeurs de véhicules ferroviaires, en ce qui concerne leurs véhicules;  
-
-e) les détenteurs de véhicules ferroviaires, en ce qui concerne leurs véhicules.     
-5.  Les données auxquelles les ayants droit visés au § 4 ont accès ainsi que les conditions de cet accès sont définies dans une Annexe aux présentes Règles uniformes. Cette Annexe fait partie intégrante de ces Règles uniformes. Elle reçoit la teneur que la Commission de révision décide selon la procédure prévue aux articles 16, 17 et 33, § 4 de la Convention.   
+§ 1.  Un registre sous forme de banque de données électroniques contenant des informations concernant les véhicules ferroviaires pour lesquels un certificat d’exploitation a été délivré, et les types de constructions pour lesquels un certificat de type de conception a été délivré, est créé et tenu à jour sous la responsabilité de l’Organisation. Le registre comprend les véhicules ferroviaires admis conformément à l’article 19; il peut englober des véhicules ferroviaires admis à la circulation en trafic national uniquement.   
+§ 2.  La banque de données comprend également un registre contenant des informations concernant les autorités compétentes et les organismes auxquels la compétence a été transférée conformément à l’article 5, ainsi que les contrôleurs accrédités/reconnus conformément à l’article 15, § 2.   
+§ 3.  La Commission d’experts techniques peut décider d’inclure dans la banque de données d’autres données qui seront utilisées dans l’exploitation ferroviaire telles que des informations concernant les déclarations, les inspections et la maintenance des véhicules admis (y compris la prochaine inspection prévue) ainsi que des informations concernant les incidents et accidents et les registres précisant le codage des véhicules, les sites, les entreprises de transport ferroviaire, les détenteurs, les gestionnaires d’infrastructure, les ateliers, les constructeurs, les entités chargées de la maintenance (ECM), etc.   
+§ 4.  La Commission d’experts techniques définit l’architecture technico-fonctionnelle de la banque de données ainsi que les données nécessaires, la date et la manière dont les données seront fournies, la nature des droits d’accès et autres aspects d’ordre administratif et organisationnel, y compris le type de structure de la base de données à appliquer. Dans tous les cas, le changement de détenteur, d’ECM, les retraits de service, les immobilisations officielles, les suspensions et retraits de certificats, les déclarations ou autre attestation et les modifications apportées à un véhicule qui dérogeraient du type de construction admis, sont communiqués sans délai au Secrétaire général.   
+§ 5.  Pour l’application du présent article, la Commission d’experts techniques considèrera les registres établis par les Etats parties et les organisations régionales de manière à réduire toute charge excessive pour les parties concernées telles que les organisations régionales, les Etats parties, les autorités compétentes et l’industrie. Afin également de réduire au minimum les coûts pour l’Organisation et d’obtenir des systèmes de registres cohérents, toutes les parties concernées coordonneront avec l’Organisation leurs plans et le développement des registres qui rentrent dans le champ d’application des présentes Règles uniformes.   
+§ 6.  Les données enregistrées dans la banque de données sont considérées comme preuve réfutable de l’admission technique d’un véhicule ferroviaire.   
+§ 7.  La Commission d’experts techniques peut décider que les frais de création et de fonctionnement de la banque de données seront supportés en tout ou partie par les utilisateurs; la fourniture et la modification des données seront gratuites, leur consultation pouvant par contre faire l’objet d’une taxation.   
 
 ### Article  14  
 
 ####Inscriptions et signes
 
-§ 1.  Les véhicules ferroviaires admis à la circulation doivent porter: 
+§ 1.  Les véhicules ferroviaires admis à la circulation doivent porter: 
 
-a) un signe, qui établit clairement qu'ils ont été admis à la circulation en trafic international conformément aux présentes Règles uniformes, et  
+a) un signe, qui établit clairement qu’ils ont été admis à la circulation en trafic international conformément aux présentes Règles uniformes, et  
 
-b) les autres inscriptions et signes prescrits dans les Annexes des Règles uniformes APTU.     
-§ 2.  La Commission d'experts techniques fixe le signe prévu au § 1, lettre a) ainsi que les délais de transition pendant lesquels les véhicules ferroviaires admis à la circulation en trafic international peuvent porter des inscriptions et signes dérogeant à ceux prescrits selon le § 1.   
-§ 3.  L'article 35, §§ 1 et 3 à 5 de la Convention s'applique par analogie.   
+b) les autres inscriptions et signes prescrits dans les PTU, y compris un code d’identification unique (le numéro du véhicule).   L’autorité compétente octroyant l’admission à l’exploitation est tenue de s’assurer qu’un code d’identification alphanumérique a été assigné à chaque véhicule. Ce code, qui inclut le code du pays du premier Etat ayant admis le véhicule, doit être marqué sur chaque véhicule et être entré dans le Registre national des véhicules (NVR) de cet Etat, ainsi que l’exige l’article 13.   
+§ 2.  La Commission d’experts techniques fixe le signe prévu au § 1, lettre a), ainsi que les délais de transition pendant lesquels les véhicules ferroviaires admis à la circulation en trafic international peuvent porter des inscriptions et signes dérogeant à ceux prescrits selon le § 1.   
 
 ### Article  15  
 
 ####Maintenance
 
-Les véhicules ferroviaires et les autres matériels ferroviaires doivent être en bon état d'entretien de façon à ce que leur état ne compromette en aucune manière la sécurité d'exploitation et ne nuise pas à l'environnement et à la santé publique lors de leur circulation ou de leur utilisation en trafic international. A cet effet, les véhicules ferroviaires doivent être soumis aux révisions et aux opérations de maintenance prescrites dans les Annexes des Règles uniformes APTU, dans les conditions particulières d'une admission en application de l'article 7, § 2 ou § 3 ou dans les prescriptions de construction et d'équipement contenues dans l'Annexe du RID.  
+§ 1.  Les véhicules ferroviaires et les autres matériels ferroviaires doivent être en bon état d’entretien de façon à se conformer aux dispositions spécifiées dans les PTU et à y satisfaire en permanence, et de façon à ce que leur état ne compromette en aucune manière la sécurité d’exploitation et ne nuise pas à l’infrastructure, à l’environnement et à la santé publique lors de leur circulation ou de leur utilisation en trafic international. A cet effet, les véhicules ferroviaires et les autres matériels ferroviaires doivent être disponibles pour l’entretien, les inspections et la maintenance et être soumis à l’entretien, aux inspections et à la maintenance tels que prescrits dans le fichier de maintenance joint au certificat d’exploitation, dans les PTU, dans les conditions particulières d’admission conformément à l’article 7a et dans les dispositions contenues dans le RID.   
+§ 2.  Une entité chargée de la maintenance (ECM) est assignée à chaque véhicule avant son admission à l’exploitation ou son utilisation sur le réseau, et enregistrée dans la banque de données prévue à l’article 13. Une entreprise ferroviaire, un gestionnaire d’infrastructure ou un détenteur peut être une ECM. L’ECM garantit, au moyen d’un système de maintenance, que les véhicules dont la maintenance lui a été confiée sont aptes à circuler en toute sécurité. L’ECM effectue elle-même la maintenance ou la sous-traite à des ateliers de maintenance. L’ECM pour un wagon de marchandises doit détenir un certificat valide délivré par un contrôleur externe accrédité/reconnu dans l’un des Etats parties. La Commission d’experts techniques adopte des règles détaillées complémentaires concernant la certification et le contrôle des ECM, les contrôleurs accrédités/reconnus, leur accréditation/reconnaissance ainsi que les contrôles et certificats de contrôle. Lesdites règles précisent si elles sont équivalentes aux critères applicables au système de certification des ECM adoptés au sein de la Communauté européenne ou dans les Etats appliquant la législation communautaire par suite d’accords internationaux conclus avec la Communauté européenne. Lesdites règles, qui englobent également des règles relatives au retrait et à la suspension des certificats et accréditations, sont définies dans une Annexe aux présentes Règles uniformes dont elles forment partie intégrante.   
+§ 3.  Un exploitant ferroviaire est responsable de la circulation, en toute sécurité, de ses trains, et doit veiller á ce que les véhicules en circulation soient convenablement entretenus. L’ECM doit par conséquent garantir que des informations fiables concernant les données et processus de maintenance soient mises à la disposition de l’exploitant ferroviaire, et l’exploitant ferroviaire doit fournir à l’ECM, en temps utile, les données et informations concernant l’exploitation de ses véhicules et des autres matériels ferroviaires dont l’ECM est chargée. Dans les deux cas, les données et informations en question sont spécifiées dans l’Annexe mentionnée au § 2.   
+§ 4.  L’ECM d’un véhicule admis établit et tient à jour un fichier de relevé de maintenance relatif au dit véhicule. Le relevé est tenu à la disposition de l’autorité nationale compétente qui peut le contrôler.   
+§ 5.  La Commission d’experts techniques peut adopter des directives ou réglementations sur la certification et le contrôle des ateliers de maintenance et la reconnaissance mutuelle des certificats et contrôles. Les réglementations prévues au présent paragraphe sont définies dans une Annexe aux présentes Règles uniformes dont elles font partie intégrante, et sont publiées sur le site Web de l’Organisation.   
 
 ### Article  16  
 
-####Accidents et avaries graves
+####Incidents, accidents et avaries graves
 
-§ 1.  En cas d'accident ou d'avarie grave de véhicules ferroviaires, les gestionnaires d'infrastructure, le cas échéant en commun avec les détenteurs et les entreprises de transport ferroviaire concernées, sont tenus: 
+§ 1.  En cas d’incident, d’accident ou d’avarie grave de véhicules ferroviaires, l’ensemble des parties impliquées (les gestionnaires de l’infrastructure, les détenteurs, l’ECM, les entreprises ferroviaires concernées et, le cas échéant, d’autres acteurs) sont tenus 
 
-a) de prendre, sans délai, toutes les mesures nécessaires pour assurer la sécurité du trafic ferroviaire, le respect de l'environnement et la santé publique, et  
+a) de prendre, sans délai, toutes les mesures nécessaires pour assurer la sécurité du trafic ferroviaire, le respect de l’environnement et la santé publique, et  
 
-b) d'établir les causes de l'accident ou de l'avarie grave.     
-§ 2.  Est considéré comme gravement avarié un véhicule qui ne peut plus être réparé par une opération de peu d'importance qui lui permettrait d'être intégré dans un train et de circuler sur ses propres roues sans danger pour l'exploitation.   
-§ 3.  Les accidents et les avaries graves sont communiqués, sans délai, à l'autorité qui a admis le véhicule à la circulation. Cette autorité peut demander une présentation du véhicule avarié, éventuellement déjà réparé, pour examen de la validité de l'admission à l'exploitation octroyée. Le cas échéant, la procédure concernant l'octroi de l'admission à l'exploitation doit être renouvelée.   
-§ 4.  Les autorités compétentes des Etats parties informent l'Organisation des causes d'accidents et d'avaries graves en trafic international. La Commission d'experts techniques peut, sur demande d'un Etat partie, examiner les causes d'accidents graves en trafic international en vue de faire évoluer éventuellement les prescriptions de construction et d'exploitation pour les véhicules et les autres matériels ferroviaires contenues dans les Annexes des Règles uniformes APTU.   
+b) d’établir les causes de l’incident, de l’accident ou de l’avarie grave.     
+§ 1a.  Les mesures prévues au § 1 doivent être coordonnées. Une telle coordination est du ressort du gestionnaire d’infrastructure, sauf stipulation contraire des dispositions en vigueur dans l’Etat en question. Outre le devoir d’enquête imposé aux parties impliquées, l’Etat partie peut exiger qu’une enquête indépendante soit menée.   
+§ 2.  Est considéré comme gravement avarié un véhicule qui ne peut plus être réparé par une opération de peu d’importance qui lui permettrait d’être intégré dans un train et de circuler sur ses propres roues sans danger pour l’exploitation. Si la réparation peut être effectuée en moins de soixante-douze heures ou si les coûts sont inférieurs à 0,18 million de DTS au total, l’avarie n’est pas réputée grave.   
+§ 3.  Les incidents, accidents et avaries graves sont communiqués, sans délai, à l’autorité ou à l’organisme qui a admis le véhicule à la circulation. Cette autorité ou cet organisme peut demander une présentation du véhicule avarié, éventuellement déjà réparé, pour pouvoir examiner la validité de l’admission à l’exploitation octroyée. Le cas échéant, la procédure d’octroi de l’admission à l’exploitation doit être renouvelée.   
+§ 4.  Les Etats parties tiennent des registres, publient des rapports d’enquête englobant leurs conclusions et recommandations, informent l’autorité chargée de la délivrance des certificats d’homologation et l’Organisation des causes des incidents, accidents et avaries graves en trafic international, qui sont survenus sur leur territoire. La Commission d’experts techniques peut examiner les causes d’incidents, d’accidents et d’avaries graves en trafic international dans le but de faire évoluer, si possible, les prescriptions de construction et d’exploitation des véhicule ferroviaires et d’autres matériels ferroviaires contenues dans les PTU, et peut, si nécessaire, dans un délai très court, décider d’ordonner aux Etats parties de suspendre les certificats d’exploitation, les certificats de type de conception ou les déclarations délivrées concernées.   
+§ 5.  La Commission d’experts techniques peut élaborer et adopter des règles contraignantes complémentaires concernant l’enquête d’incidents, d’accidents et d’avaries graves et des spécifications concernant les organismes d’enquête indépendants d’un Etat ainsi que la forme et le fond des rapports. Elle peut aussi modifier les valeurs/nombres prévus au § 2 et à l’article 2, lettre ff).   
 
 ### Article  17  
 
 ####Immobilisation et refus des véhicules
 
-L'autorité compétente visée à l'article 5, une autre entreprise de transport ferroviaire ou un gestionnaire d'infrastructure ne peuvent pas refuser ou immobiliser des véhicules ferroviaires lorsque sont respectées les présentes Règles uniformes, les prescriptions des Annexes des Règles uniformes APTU, les conditions particulières d'une admission en application de l'article 7, § 2 ou § 3 ainsi que les prescriptions de construction et d'équipement contenues dans l'annexe au RID.  
+§ 1.  Une autorité compétente, une autre entreprise de transport ferroviaire ou un gestionnaire d’infrastructure ne peut pas refuser ou immobiliser des véhicules ferroviaires en vue d’empêcher leur circulation sur des infrastructures ferroviaires compatibles si les présentes Règles uniformes, les prescriptions contenues dans les PTU, les éventuelles conditions particulières d’admission définies par l’autorité d’admission ainsi que les prescriptions de construction et d’exploitation contenues dans le RID, sont respectées.   
+§ 2.  Le droit d’une autorité compétente d’inspecter et d’immobiliser un véhicule n’est pas affecté en cas de présomption de non-respect du § 1; toutefois, l’examen visant à obtenir la certitude devra être effectué aussi rapidement que possible, et en tous cas, dans un délai de vingt-quatre heures.   
+§ 3.  Néanmoins, si un Etat partie ne suspend, ni ne retire un certificat dans le délai imparti conformément à l’article 5, § 7 ou à l’article 16, § 4, d’autres Etats parties sont habilités à refuser ou à immobiliser le/les véhicule(s) en question.   
 
 ### Article  18  
 
 ####Non-respect des prescriptions
 
-§ 1.  Sous réserve du § 2 et de l'article 10, § 9, lettre c), les conséquences juridiques résultant du non-respect des présentes Règles uniformes et des prescriptions des Annexes des Règles uniformes APTU sont réglées par le droit national de l'Etat partie dont l'autorité compétente a accordé l'admission à l'exploitation, y compris les règles relatives aux conflits de lois.   
-§ 2.  Les conséquences en droit civil et pénal résultant du non-respect des présentes Règles uniformes et des prescriptions des Annexes des Règles uniformes APTU sont réglées, en ce qui concerne l'infrastructure, par le droit national de l'Etat partie dans lequel le gestionnaire de l'infrastructure à son siège, y compris les règles relatives aux conflits de lois.   
+§ 1.  Sous réserve du § 2 et de l’article 10a, § 3, lettre c), les conséquences juridiques résultant du non-respect des présentes Règles uniformes et des PTU sont réglées par les dispositions en vigueur dans l’Etat partie dont l’autorité compétente a accordé l’admission à l’exploitation, y compris les règles relatives aux conflits de lois.   
+§ 2.  Les conséquences, en droit civil et pénal, du non-respect des présentes Règles uniformes et des PTU sont réglées, en ce qui concerne l’infrastructure, par les dispositions en vigueur dans l’Etat partie dans lequel le gestionnaire de l’infrastructure a son siège, y compris les règles relatives aux conflits de lois.   
 
 ### Article  19  
 
+####Dispositions transitoires
+
+§ 1.  L’article 3, § 1 s’applique aux véhicules existants, renouvelés et réaménagés. Des dispositions transitoires sont prescrites dans le présent article pour les véhicules qui ont été homologués pour le trafic international en vertu des RIV, RIC ou autres accords internationaux pertinents, et qui font l’objet d’un marquage correspondant.   
+§ 2.  A la date d’entrée en vigueur des présentes Règles uniformes, les véhicules existants portant le marquage RIV ou RIC comme preuve de leur conformité actuelle aux dispositions techniques de l’accord RIV 2000 (édition révisée du 1er janvier 2004) ou de l’accord RIC respectivement, sont réputés admis à circuler sur les réseaux des Etats parties en fonction de leur compatibilité avec les infrastructures ferroviaires (définie par les marquages sur le wagon) pour lesquelles ils ont été admis par l’un des Etats parties.   
+§ 2a.  Les véhicules existants ne portant pas le marquage RIV ou RIC, mais qui ont été admis et dotés d’un marquage conformément aux accords bilatéraux ou multilatéraux entre Etats parties notifiés à l’Organisation sont également réputés admis à circuler sur les réseaux couverts par l’accord concerné.   
+§ 3.  L’admission transitoire conformément aux §§ 2 et 2a est valide jusqu’à ce que le véhicule nécessite une nouvelle admission conformément à l’article 10, § 11.   
+§ 4.  L’inscription RIV, RIC ou autre marquage sur le véhicule accepté par la Commission d’experts techniques, ainsi que les données stockées dans la base de données prévue à l’article 13, sont considérés comme preuves suffisantes de l’homologation. Toute modification non autorisée de ce marquage est considérée comme une fraude et sera réprimée en vertu de la législation nationale.   
+§ 5.  Indépendamment de cette disposition transitoire, le véhicule et sa documentation doivent être conformes aux dispositions des PTU en vigueur concernant le marquage et la maintenance; la conformité aux dispositions du RID en vigueur, si elles sont applicables, doit être également garantie. La Commission d’experts techniques peut également décider que des dispositions relatives à la sécurité, introduites dans les PTU, doivent être respectées dans un certain délai, indépendamment de toute disposition transitoire.   
+§ 6.  Les véhicules existants ne rentrant pas dans le champ d’application des §§ 2 et 2a peuvent être admis à l’exploitation sur requête d’un demandeur à l’autorité compétente. Cette dernière peut exiger du demandeur des informations techniques complémentaires, c’est-à-dire une analyse de risque et/ou des tests du véhicule, avant d’octroyer une admission d’exploitation complémentaire. Néanmoins, les autorités compétentes doivent prendre pleinement en compte le tableau d’équivalence prévu à l’article 13 des Règles uniformes APTU.   
+§ 7.  La Commission d’experts techniques peut adopter d’autres dispositions transitoires.   
+
+### Article  20  
+
 ####Différends
 
-Deux ou plusieurs Etats parties, qui connaissent un différend relatif à l'admission technique de véhicules et d'autres matériels ferroviaires destinés à être utilisés en trafic international, peuvent le porter devant la Commission d'experts techniques s'ils n'ont pas réussi à le régler par voie de négociation directe. De tels différends peuvent également être soumis, conformément à la procédure visée au Titre V de la Convention, au tribunal arbitral.  
+Les différends relatifs à l’admission technique de véhicules ferroviaires et d’autres matériels ferroviaires destinés à être utilisés en trafic international, peuvent être portés devant la Commission d’experts techniques s’ils n’ont pas été réglés par voie de négociation directe entre les parties impliquées. De tels différends peuvent également être soumis au tribunal arbitral, conformément à la procédure prévue au Titre V de la Convention.  
 
 ####Règlement intérieur de l'Assemblée générale
 

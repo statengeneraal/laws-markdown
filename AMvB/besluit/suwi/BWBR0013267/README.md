@@ -28,45 +28,43 @@ b. IOAW: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werk
 
 c. IOAZ: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
 
-d. WWIK: [Wet werk en inkomen kunstenaars](../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md);  
+d. Wet REA: [Wet op de (re)integratie arbeidsgehandicapten](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md);  
 
-e. Wet REA: [Wet op de (re)integratie arbeidsgehandicapten](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md);  
+e. WW: [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
 
-f. WW: [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+f. Wet SUWI: [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-g. Wet SUWI: [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+g. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-h. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+h. SVB: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-i. SVB: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+i. arbeidsgehandicapte: arbeidsgehandicapte als bedoeld in [artikel 2 van de Wet REA](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md);  
 
-j. arbeidsgehandicapte: arbeidsgehandicapte als bedoeld in [artikel 2 van de Wet REA](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md);  
+j. arbodienst: een arbodienst als bedoeld in de [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
 
-k. arbodienst: een arbodienst als bedoeld in de [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+k. deskundige persoon: een persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
 
-l. deskundige persoon: een persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+l. Wfsv: [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
 
-m. Wfsv: [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+m. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
 
-n. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+n. WAO: [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
 
-o. WAO: [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+o.  ZW: [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md);  
 
-p.  ZW: [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md);  
+p. ZVW: [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-q. ZVW: [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+q. College zorgverzekeringen: het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de ZVW](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-r. College zorgverzekeringen: het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de ZVW](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+r. zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-s. zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+s. eigenrisicodrager: de werkgever aan wie op grond van [artikel 40 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) toestemming is verleend het risico te dragen van de betalingen, bedoeld in [artikel 40, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
 
-t. eigenrisicodrager: de werkgever aan wie op grond van [artikel 40 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) toestemming is verleend het risico te dragen van de betalingen, bedoeld in [artikel 40, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+t. gebruikers: het UWV, de SVB en de colleges van burgemeester en wethouders;  
 
-u. gebruikers: het UWV, de SVB en de colleges van burgemeester en wethouders;  
+u. elektronische voorzieningen: elektronische voorzieningen als bedoeld in [artikel 62, tweede lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-v. elektronische voorzieningen: elektronische voorzieningen als bedoeld in [artikel 62, tweede lid, van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
-
-w. *WIJ:*[Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).    
+v. WIJ: [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).    
 
 ### Hoofdstuk  2  
 
@@ -214,7 +212,7 @@ f. de gegevens die het re-integratiebedrijf in verband met deze werkzaamheden ve
 
 g. indien dit re-integratiebedrijf deze werkzaamheden laat verrichten door een ander re-integratiebedrijf in een schriftelijke overeenkomst met dat andere re-integratiebedrijf te regelen dat voor dat bedrijf, die persoon of dienst de verplichtingen jegens het UWV, bedoeld in de onderdelen a tot en met f, gelden.     
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.   
-3.  Indien het college van burgemeester en wethouders werkzaamheden, die in het kader van de voorzieningen, bedoeld in de [artikelen 7, eerste lid, onderdeel a, en derde lid, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [5, eerste lid, tweede gedachtestreepje, van de WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), [34, eerste lid, onderdeel a, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 34, eerste lid, onderdeel a, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en [artikel 21, eerste lid, van de WWIK](../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), worden uitgevoerd, laat uitvoeren door een re-integratiebedrijf is het eerste lid van overeenkomstige toepassing, waarbij in de overeenkomst tevens is geregeld, dat het college op verzoek of uit eigen beweging in kennis worden gesteld van het gegronde vermoeden dat een persoon voor wie de voorzieningen zijn bestemd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van genoemde wetten.   
+3.  Indien het college van burgemeester en wethouders werkzaamheden, die in het kader van de voorzieningen, bedoeld in de [artikelen 7, eerste lid, onderdeel a, en derde lid, van de WWB](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [5, eerste lid, tweede gedachtestreepje, van de WIJ](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), [34, eerste lid, onderdeel a, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 34, eerste lid, onderdeel a, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), worden uitgevoerd, laat uitvoeren door een re-integratiebedrijf is het eerste lid van overeenkomstige toepassing, waarbij in de overeenkomst tevens is geregeld, dat het college op verzoek of uit eigen beweging in kennis worden gesteld van het gegronde vermoeden dat een persoon voor wie de voorzieningen zijn bestemd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van genoemde wetten.   
 
 ### §  4.2  
 
@@ -572,9 +570,9 @@ De SVB is bevoegd op verzoek uit de onder zijn verantwoordelijkheid gevoerde adm
 
 1.  Het UWV is bevoegd uit eigen beweging en verplicht op verzoek uit de onder zijn verantwoordelijkheid gevoerde administraties kosteloos te verstrekken: 
 
-a. aan het vervangingsfonds, bedoeld in [artikel 1 van het Besluit vervangingsfonds](../../../../AMvB/besluit/vervangingsfonds/BWBR0007009/README.md), de gegevens die noodzakelijk zijn voor de uitvoering van zijn taak op grond van de [Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), de [Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);  
+a. aan het Vervangingsfonds, bedoeld in [artikel 1, onderdeel e, van het Besluit Vervangingsfonds en Participatiefonds](../../../../AMvB/besluit/vervangingsfonds/en/participatiefonds/BWBR0030106/README.md), de gegevens die noodzakelijk zijn voor de uitvoering van zijn taak op grond van de [Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), de [Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);  
 
-b. aan het participatiefonds, bedoeld in [artikel 1 van het Besluit participatiefonds](../../../../AMvB/besluit/participatiefonds/BWBR0008102/README.md), de gegevens die noodzakelijk zijn voor de uitvoering van zijn taak op grond van de [Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), de [Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);  
+b. aan het Participatiefonds, bedoeld in [artikel 1, onderdeel f, van het Besluit Vervangingsfonds en Participatiefonds](../../../../AMvB/besluit/vervangingsfonds/en/participatiefonds/BWBR0030106/README.md), de gegevens die noodzakelijk zijn voor de uitvoering van zijn taak op grond van de [Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), de [Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);  
 
 c. aan Onze Minister van Onderwijs, Cultuur en Wetenschap de gegevens die noodzakelijk zijn voor de bekostiging van onderwijsinstellingen;  
 
@@ -678,8 +676,8 @@ Eigenrisicodragers, die het risico dragen van de betaling van uitkeringen aan pe
 ####Gegevensverstrekking in verband met re-integratietaak overheidswerkgevers
 
 1.  Het UWV verstrekt uit de onder zijn verantwoordelijkheid gevoerde administraties aan overheidswerkgevers als bedoeld in [artikel 1, onderdeel i, van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md), kosteloos de gegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 72a van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
-2.  Het UWV verstrekt uit de onder zijn verantwoordelijkheid gevoerde administraties aan het participatiefonds, bedoeld in [artikel 1 van het Besluit participatiefonds](../../../../AMvB/besluit/participatiefonds/BWBR0008102/README.md), kosteloos de gegevens die noodzakelijk zijn voor de uitvoering van de taak van het participatiefonds waarborgen te bieden voor de kosten van werkloosheidsuitkeringen, voorzover die taak samenhangt met de uitvoering van [artikel 72a van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
-3.  Een overheidswerkgever of het participatiefonds, bedoeld in het tweede lid, kan het UWV op verzoek of uit eigen beweging kennis geven van het gegronde vermoeden dat een persoon van wie de inschakeling in de arbeid wordt bevorderd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) door het UWV.   
+2.  Het UWV verstrekt uit de onder zijn verantwoordelijkheid gevoerde administraties aan het Participatiefonds, bedoeld in [artikel 1, onderdeel f, van het Besluit Vervangingsfonds en Participatiefonds](../../../../AMvB/besluit/vervangingsfonds/en/participatiefonds/BWBR0030106/README.md), kosteloos de gegevens die noodzakelijk zijn voor de uitvoering van de taak van het participatiefonds waarborgen te bieden voor de kosten van werkloosheidsuitkeringen, voorzover die taak samenhangt met de uitvoering van [artikel 72a van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
+3.  Een overheidswerkgever of het Participatiefonds, bedoeld in het tweede lid, kan het UWV op verzoek of uit eigen beweging kennis geven van het gegronde vermoeden dat een persoon van wie de inschakeling in de arbeid wordt bevorderd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) door het UWV.   
 
 ### Artikel  5.18  
 
@@ -778,7 +776,7 @@ d. het, na overleg met de gebruikers, doen van voorstellen aan Onze Minister ove
 
 ####Wijziging wettelijke grondslag
 
-Dit besluit berust mede op [artikelen 7, zesde lid](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en [67, derde lid, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, vijfde lid, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 34, vijfde lid, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de [artikelen 21, tweede lid](../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) en [43, derde lid, van de WWIK](../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).  
+Dit besluit berust mede op [artikelen 7, zesde lid](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en [67, derde lid, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, vijfde lid, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 34, vijfde lid, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).  
 
 ### Artikel  6.2  
 
@@ -986,8 +984,6 @@ Gegevens over de kinderbijslag. Gegevens over de uitkeringen [Algemene nabestaan
 | --- | Gegevens over betaalbaarstelling.  |
 | --- | Gegevens over bijzondere bijstand.  |
 | --- | Gegevens over inkomsten, classificatie Besluit bijstandsverlening zelfstandigen 2004 en munteenheid.  |
-| --- | --- |
-| [WWIK](../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md):  | Gegevens over uitkering.  |
 | --- | --- |
 | [IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md):  | Gegevens over uitkering.  |
 | --- | Gegevens over beëindiging en vordering.  |

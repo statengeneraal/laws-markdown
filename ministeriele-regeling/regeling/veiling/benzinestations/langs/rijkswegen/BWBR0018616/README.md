@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Financiën van 20 juli 2005 inzake de vanwege de Staat uit te schrijven veiling van benzinestations langs rijkswegen (Regeling veiling benzinestations langs rijkswegen)
 
 De Minister van Financiën,  
-Gelet op [artikel 5, derde lid, van de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md);
+Gelet op artikel 5, derde lid, van de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen;
 Besluit:     
 ### §  1  
 
@@ -13,21 +13,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. Wet: [Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md);  
+a. Wet: Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen;  
 
 b. Domeinen: de dienst Domeinen van het Ministerie van Financiën;  
 
 c. De directeur Domeinen: de directeur van de regionale directie Domeinen West te Leiden;  
 
-d. Locatie: locatie als bedoeld in [artikel 1, onder c, van de Wet](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md);  
+d. Locatie: locatie als bedoeld in artikel 1, onder c, van de Wet;  
 
-e. Huurrecht: het recht als bedoeld in [artikel 5, eerste lid van de Wet](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md) om met de Staat een huurovereenkomst als bedoeld in [artikel 3 van de Wet](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md) te sluiten;  
+e. Huurrecht: het recht als bedoeld in artikel 5, eerste lid van de Wet om met de Staat een huurovereenkomst als bedoeld in artikel 3 van de Wet te sluiten;  
 
 f. Deelnemer: een partij die op grond van *Regeling toelating veiling benzinestations langs rijkswegen* is toegelaten tot de veiling;  
 
 g. Veiling: de openbare verkoop bij inschrijving van een afzonderlijk huurrecht;  
 
-h. Biedboek: informatie als bedoeld in [artikel 5, lid 4, van de Wet](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md), over locaties waarop de te veilen huurrechten betrekking hebben.    
+h. Biedboek: informatie als bedoeld in artikel 5, lid 4, van de Wet, over locaties waarop de te veilen huurrechten betrekking hebben.    
 
 ### §  2  
 
@@ -222,7 +222,7 @@ a. onvoorwaardelijk is;
 
 b. voortduurt tot en met ten minste de dag waarop de deelnemer het hoogste bod dan wel het topdeel volledig heeft voldaan;  
 
-c. is afgegeven door een bankinstelling die is geregistreerd als kredietinstelling ingevolge [artikel 52 van de Wet toezicht kredietwezen 1992](../../../../../../../wet/wet/toezicht/kredietwezen/1992/BWBR0005792/README.md), en  
+c. is afgegeven door een bank die op grond van de Wet op het financieel toezicht is toegelaten tot het uitoefenen van het bedrijf van bank, en  
 
 d. de clausule bevat dat deze bankinstelling op eerste verzoek van de directeur Domeinen het bedrag van de garantie aan de Staat zal uitkeren.     
 3.  Binnen veertien kalenderdagen na de dag van de veiling moet door de deelnemer die hoogste bod op een huurrecht heeft uitgebracht, het door hem verschuldigde bedrag van dit bod dan wel het topdeel zijn betaald op bankrekeningnummer 19 23 24 810 bij de RABO-bank te Leiden ten name van de Regionale directie Domeinen West te Leiden.   
@@ -255,9 +255,9 @@ d. de clausule bevat dat deze bankinstelling op eerste verzoek van de directeur 
 
 ####Aangaan van overeenkomst, verlenen van vergunning, onderliggende rechtsrelaties
 
-1.  De directeur Domeinen verleent aan de deelnemer die het hoogste bod op een huurrecht heeft uitgebracht, het huurrecht nadat de verschuldigde bedragen zijn voldaan. Daartoe sluit de directeur Domeinen een huurovereenkomst. Deze huurovereenkomst kan worden vervangen door een erfpachtovereenkomst in geval gebruik wordt gemaakte van de in [artikel 3, zevende lid, van de Wet](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md), bedoelde mogelijkheid.   
+1.  De directeur Domeinen verleent aan de deelnemer die het hoogste bod op een huurrecht heeft uitgebracht, het huurrecht nadat de verschuldigde bedragen zijn voldaan. Daartoe sluit de directeur Domeinen een huurovereenkomst. Deze huurovereenkomst kan worden vervangen door een erfpachtovereenkomst in geval gebruik wordt gemaakte van de in artikel 3, zevende lid, van de Wet, bedoelde mogelijkheid.   
 2.  Onverminderd het hierna in dit artikel bepaalde gaat de huurovereenkomst dan wel erfpachtovereenkomst in op het in het biedboek aangegeven tijdstip.   
-3.  Onverminderd het hierna in dit artikel bepaalde gaat de huurovereenkomst dan wel erfpachtovereenkomst met betrekking tot een locatie als bedoeld in [artikel 7, eerste lid, van de Wet](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md),in drie maanden na de dag van de veiling, tenzij de wederpartij van de Staat als bedoeld in [artikel 6, eerste lid, onder b, van de Wet](../../../../../../../wet/wet/tot/veiling/van/bepaalde/verkooppunten/van/motorbrandstoffen/BWBR0018447/README.md), en de deelnemer die het hoogste bod op het huurrecht heeft uitgebracht in onderling overleg een eerdere aanvangsdatum overeenkomen.   
+3.  Onverminderd het hierna in dit artikel bepaalde gaat de huurovereenkomst dan wel erfpachtovereenkomst met betrekking tot een locatie als bedoeld in artikel 7, eerste lid, van de Wet,in drie maanden na de dag van de veiling, tenzij de wederpartij van de Staat als bedoeld in artikel 6, eerste lid, onder b, van de Wet, en de deelnemer die het hoogste bod op het huurrecht heeft uitgebracht in onderling overleg een eerdere aanvangsdatum overeenkomen.   
 4.  Indien binnen drie maanden na de dag van de veiling niet aan het bepaalde in de voorgaande leden van dit artikel is voldaan, kan de directeur Domeinen besluiten dat het huurrecht opnieuw wordt geveild.   
 
 ### §  8  

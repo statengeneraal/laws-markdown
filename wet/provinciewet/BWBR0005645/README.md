@@ -1875,7 +1875,7 @@ c. dit tarief voor motorrijtuigen, bedoeld in [artikel 23a, tweede lid, van de W
 
 d. dit tarief voor motorrijtuigen, bedoeld in [artikel 23b van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), bedraagt nihil;  
 
-e. buiten beschouwing blijven de verhoging van de belasting, bedoeld in [artikel 23, tweede lid, van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en de vermindering van de belasting, bedoeld in de [artikelen 28](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [68 van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).     
+e. buiten beschouwing blijft de verhoging van de belasting, bedoeld in [artikel 23, tweede lid, van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).     
 4.  Het in het tweede lid genoemde aantal opcenten wordt jaarlijks aangepast aan de hand van het vierjaarlijks voortschrijdend gemiddelde van de gerealiseerde nominale ontwikkeling van het nationaal inkomen. Onze Minister van Financiën bepaalt jaarlijks vóór 1 juli van enig jaar, in overeenstemming met Onze Minister, het aantal opcenten dat de provincies ten hoogste kunnen heffen in de periode die aanvangt op 1 april nadien. Dit aantal wordt naar boven afgerond op één decimaal.   
 5.  Het aantal opcenten is voor alle motorrijtuigen, bedoeld in het eerste lid, gelijk.   
 6.  Onze Minister van Financiën verstrekt de provinciale besturen jaarlijks vóór 1 september een naar soort, gewichtsklasse en aantal gespecificeerd overzicht van de motorrijtuigen, bedoeld in het eerste lid. Het overzicht wordt opgesteld naar de toestand per 1 juli van het lopende jaar.   

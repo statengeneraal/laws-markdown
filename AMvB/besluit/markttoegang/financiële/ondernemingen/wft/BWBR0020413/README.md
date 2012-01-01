@@ -34,7 +34,7 @@ Bepalingen ter uitvoering van [artikel 1:102, eerste lid, van de wet](../../../.
 
 ### Artikel  2  
 
-1.  Een aanvraag als bedoeld in de [artikelen 2:3b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:5, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:7, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:12, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:13, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:17, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:21, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:22, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:23, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:26b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:26e, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:31, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:32, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:33, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:37, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:41, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:42, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:43, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:49, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:51, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:54b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:54e, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:54h, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:55, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:58, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:60, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:63, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:65, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:67, eerste en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:68, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:69, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:69a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:75, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:78, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:80, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:83, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:86, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:89, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:92, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:94, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:96, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:99, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:121a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:3, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wordt gedaan met gebruikmaking van het daartoe door de toezichthouder vast te stellen formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.   
+1.  Een aanvraag als bedoeld in de [artikelen 2:3b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:5, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:7, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md),  [2:10b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:12, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:13, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:17, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:21, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:22, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:26b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:26e, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:31, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:32, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:33, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:37, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:41, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:42, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:43, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:49, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:51, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:54b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:54e, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:54h, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:55, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:58, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:60, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:63, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:65, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:67, eerste en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:68, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:69, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:69a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:75, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:78, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:80, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:83, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:86, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:89, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:92, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:94, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:96, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:99, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:121a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:3, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wordt gedaan met gebruikmaking van het daartoe door de toezichthouder vast te stellen formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.   
 2.  Het aanvraagformulier en de daarbij ingevolge dit besluit te verstrekken gegevens worden in enkelvoud ingediend.   
 
 ### Artikel  3  
@@ -48,17 +48,19 @@ Bepalingen ter uitvoering van [artikel 1:102, eerste lid, van de wet](../../../.
 
 ### §  2.0  
 
-####Uitoefenen van bedrijf van betaaldienstverlener
+####Uitoefenen van bedrijf van betaaldienstverlener of elektronischgeldinstelling
+
+Bepalingen ter uitvoering van [artikelen 2:3b, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:3c, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:10b, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [2:10c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  3a  
 
 ####Bepalingen ter uitvoering van [artikelen 2:3b, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [2:3c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
 
-1.  De gegevens, bedoeld in [artikel 2:3b, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
+1.  De gegevens, bedoeld in [artikel 2:3b, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [artikel 2:10b, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
 
-a. een opgave van de naam, het adres en het telefoon- en faxnummer en het emailadres van de betaaldienstverlener;  
+a. een opgave van de naam, het adres en het telefoon- en faxnummer en het emailadres van de betaaldienstverlener of elektronischgeldinstelling;  
 
-b. een opgave van de rechtsvorm van de betaaldienstverlener;  
+b. een opgave van de rechtsvorm van de betaaldienstverlener of elektronischgeldinstelling;  
 
 c. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;  
 
@@ -66,17 +68,17 @@ d. een opgave van het nummer van inschrijving in het handelsregister;
 
 e. een gewaarmerkt afschrift van de statuten;  
 
-f. een opgave van de activiteiten die de betaaldienstverlener voornemens is te verrichten;  
+f. een opgave van de activiteiten die de betaaldienstverlener of elektronischgeldinstelling voornemens is te verrichten;  
 
-g. een bedrijfsplan met inbegrip van een budgetprognose voor de eerste drie boekjaren waarmee wordt aangetoond dat de betaaldienstverlener in staat is gebruik te maken van passende en evenredige systemen, middelen en procedures om op een gezonde basis te opereren;  
+g. een bedrijfsplan met inbegrip van een budgetprognose voor de eerste drie boekjaren waarmee wordt aangetoond dat de betaaldienstverlener of elektronischgeldinstelling in staat is gebruik te maken van passende en evenredige systemen, middelen en procedures om op een gezonde basis te opereren;  
 
-h. een beschrijving van de interne controlemechanismen die de betaaldienstverlener heeft opgezet om de in de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) en de in Verordening (EG) nr. 1781/2006 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 (Pb EU L 345) betreffende bij geldovermakingen te voegen informatie over de betaler, neergelegde verplichtingen in verband met het witwassen van geld en terrorismefinanciering na te komen;  
+h. een beschrijving van de interne controlemechanismen die de betaaldienstverlener of elektronischgeldinstelling heeft opgezet om de in de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) en de in Verordening (EG) nr. 1781/2006 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 (Pb EU L 345) betreffende bij geldovermakingen te voegen informatie over de betaler, neergelegde verplichtingen in verband met het witwassen van geld en terrorismefinanciering na te komen;  
 
 i. een beschrijving van de organisatiestructuur, met inbegrip van, voor zover van toepassing, een beschrijving van het voorgenomen gebruik van agenten en bijkantoren en van de regelingen voor uitbesteding, alsmede van zijn deelname in een betalingssysteem;  
 
-j. een opgave van de identiteit van personen die een gekwalificeerde deelneming als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in de betaaldienstverlener bezitten, alsmede de omvang van hun deelneming en het bewijs van hun geschiktheid, gelet op de noodzaak de gezonde en prudente bedrijfsvoering van de betaalinstelling te garanderen;  
+j. een opgave van de identiteit van personen die een gekwalificeerde deelneming als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in de betaaldienstverlener of elektronischgeldinstelling bezitten, alsmede de omvang van hun deelneming en het bewijs van hun geschiktheid, gelet op de noodzaak de gezonde en prudente bedrijfsvoering van de betaalinstelling of de elektronischgeldinstelling te garanderen;  
 
-k. een opgave van de accountantsorganisatie of, indien van toepassing, het auditkantoor, als bedoeld in [artikel 1, eerste lid, onderdelen a onderscheidenlijk c, van de Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), belast met de wettelijke controle als bedoeld in artikel 2 van die richtlijn van de jaarrekening van de betaaldienstverlener;  
+k. een opgave van de accountantsorganisatie of, indien van toepassing, het auditkantoor, als bedoeld in [artikel 1, eerste lid, onderdelen a onderscheidenlijk c, van de Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), belast met de wettelijke controle als bedoeld in artikel 2 van die richtlijn van de jaarrekening van de betaaldienstverlener of elektronischgeldinstelling;  
 
 l. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
 
@@ -88,10 +90,12 @@ o. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlan
 
 p. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-q. bescheiden waaruit blijkt op welke wijze wordt voldaan aan het ingevolge [artikel 3:29a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde met betrekking tot de geldmiddelen die worden of zijn ontvangen van betaaldienstgebruikers of andere betaaldienstverleners; en  
+q. bescheiden waaruit blijkt op welke wijze wordt voldaan aan het ingevolge [artikel 3:29a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde met betrekking tot de geldmiddelen die worden of zijn ontvangen van betaaldienstgebruikers of andere betaaldienstverleners;  
 
-r. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) blijken.     
-2.  Bij de toepassing van het eerste lid, aanhef en onderdelen i, p en q, geeft de betaaldienstverlener een beschrijving van de regelingen voor accountantscontrole en de organisatorische regelingen die hij heeft getroffen voor het nemen van alle redelijke maatregelen om de belangen van betaaldienstgebruikers te beschermen en om de continuïteit en betrouwbaarheid bij het uitvoeren van betaaldiensten te garanderen.   
+r. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) blijken; en  
+
+s. bescheiden waaruit blijkt op welke wijze wordt voldaan aan het ingevolge [artikel 3:29a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bepaalde met betrekking tot de geldmiddelen die worden of zijn ontvangen in ruil voor elektronisch geld dat is uitgegeven.     
+2.  Bij de toepassing van het eerste lid, aanhef en onderdelen i, p, q en s, geeft de betaaldienstverlener of elektronischgeldinstelling een beschrijving van de regelingen voor accountantscontrole en de organisatorische regelingen die zij heeft getroffen voor het nemen van alle redelijke maatregelen om de belangen van betaaldienstgebruikers of houders van elektronisch geld te beschermen en om de continuïteit en betrouwbaarheid bij het uitvoeren van betaaldiensten dan wel de uitgifte van elektronisch geld te garanderen.   
 3.  De gegevens, bedoeld in het eerste lid, onderdeel l, zijn: 
 
 a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer, het emailadres en de functie;  
@@ -116,7 +120,7 @@ d. een opgave van referenten.
 
 ### Artikel  3b  
 
-De gegevens, bedoeld in [artikel 2:3c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
+De gegevens, bedoeld in de [artikelen 2:3c, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [2:10c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
 
 a. een opgave van de naam, het adres, het telefoon- en faxnummer en het emailadres van de betaaldienstagent;  
 
@@ -266,7 +270,7 @@ g. de naam en het privé-adres van de personen die het beleid van het bijkantoor
 
 ### §  2.2  
 
-####Uitoefenen van een bedrijf van kredietinstelling
+####Uitoefenen van een bedrijf van bank
 
 Bepalingen ter uitvoering van de [artikelen 2:12, vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:13, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:17, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:21, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [2:22, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
@@ -274,17 +278,17 @@ Bepalingen ter uitvoering van de [artikelen 2:12, vijfde lid](../../../../../../
 
 1.  De gegevens, bedoeld in [artikel 2:12, vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
 
-a. een opgave van de naam, het adres en het telefoon- en faxnummer van de kredietinstelling;  
+a. een opgave van de naam, het adres en het telefoon- en faxnummer van de bank;  
 
-b. een opgave van de rechtsvorm van de kredietinstelling;  
+b. een opgave van de rechtsvorm van de bank;  
 
-c. indien de kredietinstelling een rechtspersoon is, een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;  
+c. indien de bank een rechtspersoon is, een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;  
 
-d. indien de kredietinstelling is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;  
+d. indien de bank is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;  
 
 e. indien aanwezig, een gewaarmerkt afschrift van de statuten;  
 
-f. een opgave van activiteiten die de kredietinstelling voornemens is te verrichten;  
+f. een opgave van activiteiten die de bank voornemens is te verrichten;  
 
 g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;  
 
@@ -308,7 +312,7 @@ n. indien van toepassing:
 
 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de aanvrager of houder van een verklaring van geen bezwaar blijken; en    
 
-o. indien de kredietinstelling een dochtermaatschappij is van een kredietinstelling met zetel in een andere staat: een verklaring van de toezichthoudende instantie van de staat waar die kredietinstelling haar zetel heeft, waaruit blijkt dat deze toezichthoudende instantie goedgekeurd heeft dat laatstbedoelde kredietinstelling een dochtermaatschappij heeft die voornemens is in Nederland het bedrijf van kredietinstelling uit te oefenen.     
+o. indien de bank een dochtermaatschappij is van een bank met zetel in een andere staat: een verklaring van de toezichthoudende instantie van de staat waar die bank haar zetel heeft, waaruit blijkt dat deze toezichthoudende instantie goedgekeurd heeft dat laatstbedoelde bank een dochtermaatschappij heeft die voornemens is in Nederland het bedrijf van bank uit te oefenen.     
 2.  De gegevens, bedoeld in het eerste lid, onderdeel g, zijn: 
 
 a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;  
@@ -345,23 +349,23 @@ c. het voorgenomen beleid, bedoeld in [artikel 4:88 van de wet](../../../../../.
 
 1.  De gegevens, bedoeld in [artikel 2:17, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [2:21, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
 
-a. een opgave van de naam, het adres en het telefoon- en faxnummer van de kredietinstelling;  
+a. een opgave van de naam, het adres en het telefoon- en faxnummer van de bank;  
 
-b. een opgave van de rechtsvorm van de kredietinstelling;  
+b. een opgave van de rechtsvorm van de bank;  
 
-c. indien de kredietinstelling een rechtspersoon is, een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;  
+c. indien de bank een rechtspersoon is, een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;  
 
-d. indien de kredietinstelling is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;  
+d. indien de bank is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;  
 
 e. het adres van het bijkantoor;  
 
 f. indien aanwezig, een gewaarmerkt afschrift van de statuten;  
 
-g. een opgave van activiteiten die de kredietinstelling voornemens is te verrichten vanuit het bijkantoor;  
+g. een opgave van activiteiten die de bank voornemens is te verrichten vanuit het bijkantoor;  
 
-h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid van het bijkantoor van de kredietinstelling bepalen;  
+h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid van het bijkantoor van de bank bepalen;  
 
-i. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid van het bijkantoor van de kredietinstelling bepalen of mede bepalen;  
+i. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid van het bijkantoor van de bank bepalen of mede bepalen;  
 
 j. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), vanuit het bijkantoor;  
 
@@ -369,7 +373,7 @@ k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot 
 
 l. indien van toepassing, een beschrijving van het geconsolideerde toezicht; en  
 
-m. gegevens waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van de kredietinstelling, en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van de kredietinstelling, van de wet en liquiditeit, bedoeld in [artikel 3:63, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van de kredietinstelling blijken.     
+m. gegevens waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van de bank, en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van de bank, van de wet en liquiditeit, bedoeld in [artikel 3:63, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van de bank blijken.     
 2.  De gegevens, bedoeld in het eerste lid, onderdeel h, zijn: 
 
 a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;  
@@ -2116,11 +2120,11 @@ d. gegevens waaruit blijkt dat de rechtspersoon gemachtigd is de aangesloten ond
 
 ### §  3.0  
 
-####Uitoefenen van bedrijf van betaaldienstverlener
+####Uitoefenen van bedrijf van betaaldienstverlener of elektronischgeldinstelling
+
+Bepalingen ter uitvoering van de [artikelen 2:106a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [2:107a, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  42a  
-
-####Bepaling ter uitvoering van [artikel 2:106a, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
 
 De gegevens, bedoeld in [artikel 2:106a, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
 
@@ -2150,6 +2154,36 @@ c. indien de betaalinstelling voornemens is betaaldiensten te verlenen in een an
 
 3°. de identiteit van de personen die het beleid van de betaaldienstagent bepalen of mede bepalen, alsmede gegevens waaruit blijkt dat zij betrouwbaar en deskundig zijn.      
 
+### Artikel  42b  
+
+De gegevens bedoeld in [artikel 2:107a, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
+
+a. Indien de elektronischgeldinstelling met zetel in Nederland voornemens is door middel van het verrichten van diensten haar bedrijf naar een andere lidstaat uit te oefenen: 
+
+1°. de naam, het adres, het telefoon- en faxnummer en het emailadres van de elektronischgeldinstelling;  
+
+2°. een beschrijving van de organisatiestructuur van de elektronischgeldinstelling; en  
+
+3°. een beschrijving van de aard van de diensten die de elektronischgeldinstelling voornemens is te verlenen in de andere lidstaat;    
+
+b. Indien de elektronischgeldinstelling voornemens is in een andere lidstaat haar bedrijf uit te oefenen vanuit een in die lidstaat gelegen bijkantoor: 
+
+1°. de naam, het adres, het telefoon- en faxnummer en het emailadres van het bijkantoor;  
+
+2°. een beschrijving van de organisatiestructuur van de elektronischgeldinstelling; en  
+
+3°. een beschrijving van de aard van de diensten die de elektronischgeldinstelling voornemens is te verlenen in de andere lidstaat;  
+
+4°. de identiteit van de personen die het dagelijks beleid van het bijkantoor zullen bepalen;    
+
+c. Indien de elektronischgeldinstelling voornemens is betaaldiensten te verlenen in een andere lidstaat door tussenkomst van een in die lidstaat gevestigde betaaldienstagent: 
+
+1°. de naam, het adres, het telefoon- en faxnummer en het emailadres van de betaaldienstagent;  
+
+2°. een beschrijving van de interne controlemechanismen die door de betaaldienstagent zullen worden gebruikt om de in de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) neergelegde verplichtingen na te komen; en  
+
+3°. de identiteit van de personen die het dagelijks beleid van de betaaldienstagent bepalen of mede bepalen, alsmede gegevens waaruit blijkt dat zij betrouwbaar en deskundig zijn.      
+
 ### §  3.1  
 
 ####Uitoefenen van bedrijf van clearinginstelling
@@ -2174,7 +2208,7 @@ f. een beschrijving van de inrichting van de voorgenomen bedrijfsvoering met bet
 
 ### §  3.2  
 
-####Uitoefenen van bedrijf van kredietinstelling en financiële instelling
+####Uitoefenen van bedrijf van bank en financiële instelling
 
 Bepalingen ter uitvoering van de [artikelen 2:108, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:111, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [2:112, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
@@ -2182,11 +2216,11 @@ Bepalingen ter uitvoering van de [artikelen 2:108, tweede lid](../../../../../..
 
 De gegevens, bedoeld in [artikel 2:108, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
 
-a. een opgave van de lidstaat waar de kredietinstelling voornemens is vanuit een bijkantoor haar bedrijf uit te oefenen;  
+a. een opgave van de lidstaat waar de bank voornemens is vanuit een bijkantoor haar bedrijf uit te oefenen;  
 
 b. een opgave van het adres van het bijkantoor;  
 
-c. een opgave van activiteiten die de kredietinstelling voornemens is vanuit het bijkantoor te verrichten;  
+c. een opgave van activiteiten die de bank voornemens is vanuit het bijkantoor te verrichten;  
 
 d. een opgave van de naam en het privé-adres van de personen die het dagelijks beleid van het bijkantoor zullen bepalen;  
 
@@ -2198,11 +2232,11 @@ f. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot 
 
 De gegevens, bedoeld in [artikel 2:111, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
 
-a. de opgave van de staat waar de kredietinstelling voornemens is vanuit een bijkantoor haar bedrijf uit te oefenen;  
+a. de opgave van de staat waar de bank voornemens is vanuit een bijkantoor haar bedrijf uit te oefenen;  
 
 b. de opgave van het adres van het bijkantoor;  
 
-c. een opgave van activiteiten die de kredietinstelling voornemens is vanuit het bijkantoor te verrichten;  
+c. een opgave van activiteiten die de bank voornemens is vanuit het bijkantoor te verrichten;  
 
 d. een opgave van de naam en het privé-adres van de personen die het dagelijks beleid van het bijkantoor zullen bepalen;  
 

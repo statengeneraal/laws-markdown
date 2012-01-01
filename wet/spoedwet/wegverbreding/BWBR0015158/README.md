@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Verkeer en Waterstaat;  
+a. Onze Minister: Onze Minister van Infrastructuur en Milieu;  
 
 b. wegaanpassingsbesluit: het besluit, bedoeld in artikel 4.    
 
@@ -40,14 +40,6 @@ b. wegaanpassingsbesluit: het besluit, bedoeld in artikel 4.
 a. kan in dat milieueffectrapport, in afwijking van [artikel 7.23, eerste lid, onder b, van die wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), volstaan worden met een beschrijving van de voorgenomen activiteit en van de wijze waarop zij zal worden uitgevoerd;  
 
 b. zijn de [artikelen 7.27, eerste tot en met vijfde en zevende lid](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [7.32, vijfde lid](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [7.39 tot en met 7.42 van die wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing.     
-
-### Artikel  3a  
-
-####(verhouding tot prijsbeleid)
-
-1.  Het bepaalde in het tweede en derde lid is van toepassing op wegaanpassingsprojecten opgenomen in de bij deze wet behorende bijlage 2.   
-2.  Bij de toepassing van de artikelen 6, vijfde lid, en 9, eerste lid, worden voornemens tot invoering van een prijs voor het rijden met een motorrijtuig op de weg buiten beschouwing gelaten.   
-3.  Indien op grond van [artikel 7.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) een milieueffectrapport wordt opgesteld ten aanzien van een in de bijlage genoemd wegaanpassingsproject, worden voornemens tot invoering van een prijs voor het rijden met een motorrijtuig op de weg buiten beschouwing gelaten zowel bij de beschrijving van de voorgenomen activiteit en van de wijze waarop zij zal worden uitgevoerd, bedoeld in artikel 3, tweede lid, onder a, als bij de beschrijving van de bestaande toestand van het milieu en van de te verwachten ontwikkeling van dat milieu, bedoeld in [artikel 7.23, eerste lid, onderdeel d, van die wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -78,7 +70,7 @@ c. een opgave van de kabels en leidingen die moeten worden verwijderd voor de ui
 
 d. een beschrijving op welke wijze de inpassing van de aan te passen weg in de omgeving zal geschieden, en waar dit in redelijkheid niet kan worden verlangd, welke compenserende maatregelen zullen worden getroffen.     
 3.  Ter voldoening aan het eerste lid, onder c, wordt gebruik gemaakt van een of meer detailkaarten met een schaal van ten minste 1:2500 en van een of meer overzichtskaarten met een schaal van ten minste 1:20 000.   
-4.  Bij de vaststelling van het wegaanpassingsbesluit wordt, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+4.  Bij de vaststelling van het wegaanpassingsbesluit wordt gebruik gemaakt van: 
 
 a. de verkeersgegevens en de daarop gebaseerde onderzoeken,  
 
@@ -86,19 +78,7 @@ b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../
 
 c. de inventarisatie van de aanwezige flora en fauna en van de gevolgen van de wegaanpassing daarop en de daarop gebaseerde onderzoeken,   die ten grondslag hebben gelegen aan het ontwerp-wegaanpassingsbesluit, met dien verstande dat indien de rapporten waarin die gegevens, onderzoeken en inventarisaties en gevolgen zijn vervat, bij de vaststelling van het wegaanpassingsbesluit ouder zijn dan twee jaar, het wegaanpassingsbesluit een motivering van de actualiteit van die rapporten bevat.   
 5.  Het luchtkwaliteitsonderzoek ten behoeve van een wegaanpassingsbesluit wordt beperkt tot het gebied dat zich uitstrekt van de voorafgaande tot en met de eerstvolgende aansluiting op de aan te passen weg en ter weerszijden van dit wegvak tot één kilometer vanuit de meest buiten gelegen rijstroken. Onder aansluiting wordt tevens knooppunt verstaan.   
-6.  Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kunnen nadere regels stellen ten aanzien van de methoden en uitgangspunten voor de beoordeling van effecten van een wegaanpassingsproject.   
-
-### Artikel  4a  
-
-####(specifieke bepalingen met betrekking tot luchtkwaliteit)
-
-1.  [Artikel 5.16, eerste lid, aanhef, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is ook van toepassing indien het wegaanpassingsbesluit is genoemd of beschreven in, dan wel past binnen of in elk geval niet in strijd is met een overeenkomstig [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ter inzage gelegd ontwerp van het programma, bedoeld in [artikel 5.12, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-2.  In het wegaanpassingsbesluit dat wordt vastgesteld met toepassing van het eerste lid, wordt ten aanzien van het bepaalde in de [bijlage 2 bij de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) uitsluitend aannemelijk gemaakt dat: 
-
-a. gedurende het eerste jaar na ingebruikneming van de overeenkomstig het wegaanpassingsbesluit aangepaste weg bij de gedurende dat jaar verwachte toename van de concentraties verontreinigende stoffen in de buitenlucht door de toename van het verkeer gedurende dat jaar die rechtstreeks verband houdt met die aanpassing, geen overschrijding plaatsvindt van een grenswaarde voor luchtkwaliteit; of  
-
-b. de verwachte toename van de concentraties gedurende het onder a bedoelde jaar door de toename van het verkeer gedurende dat jaar die rechtstreeks verband houdt met de overeenkomstig het wegaanpassingsbesluit aangepaste weg, niet 1% van de grenswaarde voor de jaargemiddelde concentratie van zwevende deeltjes (PM <sub>10</sub>) of stikstofdioxide overschrijdt.     
-3.  Onverminderd artikel 4, eerste lid, bevat een wegaanpassingsbesluit dat vastgesteld wordt met toepassing van het eerste lid tevens de maatregelen die onlosmakelijk verbonden zijn met het wegaanpassingsbesluit voor zover die genoemd of beschreven zijn in het ontwerp van het programma, bedoeld in het eerste lid.   
+6.  Onze Minister kan nadere regels stellen ten aanzien van de methoden en uitgangspunten voor de beoordeling van effecten van een wegaanpassingsproject.   
 
 ### Artikel  5  
 
@@ -114,7 +94,7 @@ b. de aanduiding van de te treffen maatregelen, gericht op het terugbrengen van 
 
 a. de gebruikers van de woningen of de woonwagenstandplaatsen, het bevoegd gezag van scholen en de directies van ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen waarvoor een hogere waarde wordt bepaald;  
 
-b. de ter plaatse bevoegde inspecteur, die door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is aangewezen;  
+b. de ter plaatse bevoegde inspecteur, die door Onze Minister is aangewezen;  
 
 c. Onze Minister van Onderwijs, Cultuur en Wetenschappen, indien het betrekking heeft op scholen.     
 
@@ -167,6 +147,12 @@ c. zienswijzen naar voren kunnen worden gebracht door een ieder.
 5.  [Artikel 16, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is niet van toepassing op handelingen waarop het wegaanpassingsbesluit betrekking heeft. Indien die handelingen plaatsvinden in een beschermd natuurmonument als bedoeld in artikel 16, eerste lid, van die wet, of daarbuiten in de gevallen, bedoeld in het vierde lid van dat artikel, en de handelingen schadelijk kunnen zijn voor de waarden, bedoeld in het eerste lid van dat artikel, betrekt Onze Minister bij de besluitvorming over stelt het wegaanpassingsbesluit het belang van bescherming van de waarden van het beschermde natuurmonument.   
 6.  [Artikel 19j van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is niet van toepassing op de vaststelling van het wegaanpassingsbesluit indien de handelingen waarop het wegaanpassingsbesluit betrekking heeft, zijn opgenomen in een beheerplan als bedoeld in [artikel 19a](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of  [19b van die wet](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), of in het programma op grond van [artikel 19kh, vijfde lid](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), en die handelingen overeenkomstig dat plan of dat programma worden uitgevoerd.   
 
+### Artikel  9a  
+
+1.  Onze Minister is bevoegd om hangende het beroep tegen een wegaanpassingsbesluit, een besluit tot wijziging van dat wegaanpassingsbesluit eerste lid, vast te stellen.   
+2.  In afwijking van artikel 7, eerste lid, is op het besluit, bedoeld in het eerste lid, [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing, indien het een wijziging van ondergeschikte aard betreft. Het wijzigingsbesluit, bedoeld in het eerste lid, wordt vastgesteld uiterlijk tien dagen voor de zitting, die plaatsvindt ten behoeve van de beoordeling van het bestreden besluit.   
+3.  [Artikel 7:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op het besluit, bedoeld in het eerste lid.   
+
 ### Artikel  10  
 
 ####(vaststelling besluiten ter uitvoering van het wegaanpassingsbesluit)
@@ -218,6 +204,15 @@ Het wegaanpassingsbesluit vervalt van rechtswege indien het niet binnen twee jaa
 
 1.  De Afdeling bestuursrechtspraak van de Raad van State beslist op de beroepen tegen de in artikel 13, eerste lid, bedoelde besluiten, met uitzondering van het in artikel 6, vijfde lid, bedoelde plan, binnen twaalf weken na ontvangst van de desbetreffende verweerschriften.   
 2.  In bijzondere omstandigheden kan de Afdeling bestuursrechtspraak deze termijn met ten hoogste twaalf weken verlengen.   
+
+### Artikel  14a  
+
+1.  Indien de Afdeling bestuursrechtspraak van de Raad van State van oordeel is dat het beroep tegen het wegaanpassingsbesluit gegrond is, kan zij een tussenuitspraak doen, waarbij zij Onze Minister in de gelegenheid stelt om de gebreken weg te nemen.   
+2.  In haar tussenuitspraak stelt de Afdeling vast in welk opzicht het beroep gegrond is. [Afdeling 8.2.6](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [artikel 8:72, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. De Afdeling vermeldt een termijn binnen welke de gebreken moeten zijn weggenomen. De Afdeling kan door middel van een wijziging van de tussenuitspraak de termijn op verzoek van Onze Minister verlengen.   
+3.  Indien Onze Minister aangeeft geen gebruik te willen maken van de gelegenheid om de gebreken weg te nemen dan wel de termijn die daarvoor geldt, laat verstrijken, wordt het onderzoek geacht te zijn gesloten op de dag van ontvangst van de mededeling van Onze Minister dan wel op de dag dat de bedoelde termijn is verstreken.   
+4.  Onze Minister stelt de Afdeling schriftelijk in kennis van de wijze waarop de gebreken zijn weggenomen.   
+5.  De Afdeling stelt de andere partijen in de gelegenheid binnen een door haar te stellen termijn schriftelijk te reageren op de kennisgeving, bedoeld in het vierde lid.   
+6.  Indien de Afdeling een onderzoek ter zitting nodig acht, deelt zij dit zo spoedig mogelijk aan partijen mede.   
 
 ### Hoofdstuk  4  
 
@@ -340,7 +335,7 @@ J. P. H. Donner
 | --- | --- |  *CRAAG*   | --- | --- | --- | --- | --- |
 | 11  | A9  | Holendrecht–Diemen  | inrichten vluchtstrook als spitsstrook  | 2x2  | 2x3  | 4,5  | 12,1  |
 | 12  | A1  | 't Gooi  | inrichten vluchtstrook als spitsstrook  | 2x2  | 2x3  | 21,2  | 29,6  |
-| 13  | A1/A6  | Muiderberg–Almere Stad west Oostbaan  | inrichten vluchtstrook als spitsstrook  | 1x3  | 1x4  | 12,0 41,2  | 15,4 (A1) 48,0 (A6)  |
+| 13  | A1/A6  | Muiderberg–Almere Stad west Oostbaan  | inrichten vluchtstrook als spitsstrook  | 1x3  | 1x4  | 12,0  41,2  | 15,4 (A1)  48,0 (A6)  |
 | 14  | A1  | Diemen–Muiderberg  | uitbreiden wisselstrook  | 1x1  | 1x2  | 6,4  | 17,8  |
 | --- | --- | A2  | --- | --- | --- | --- | --- |
 | 14a  | A2  | Holendrecht–Maarssen  | aanleg extra rijstrook  | 2x4  | 2x5  | 34,0  | 57,0  |
@@ -382,37 +377,4 @@ J. P. H. Donner
 | 30  | A50/A1  | Knooppunt Beekbergen–Deventer Oost  | inrichten linkerrijstrook als plusstrook  | 2x2  | 2x3  | 88,1  | 108,6  |
 | 31  | A50/A1  | Heteren–Valburg  | inrichten vluchtstrook als spitsstrook  | 1x2  | 1x3  | 158,7  | 155,9  |
 | --- | --- |  *A2 Den Bosch–Eindhoven*   | --- | --- | --- | --- | --- |
-
-### Bijlage  2  
-
-####bij de Spoedwet wegverbreding
-
-####Bijlage behorend bij artikel 3a  van de Spoedwet wegverbreding
-
-Wegaanpassingprojecten als bedoeld in artikel 3a, eerste lid, van de Spoedwet wegverbreding:  
-
-| Wegnummer  | Omschrijving wegvak  |
-|:---|:---|
-| 1  | A9  | Aansluiting Velsen–Raasdorp  |
-| 2  | A9  | Knooppunt Raasdorp–knooppunt Badhoevedorp  |
-| 2a  | A9  | Alkmaar–Uitgeest  |
-| 6  | A12  | Woerden–Gouda  |
-| 7  | A12  | Utrecht–Bunnik  |
-| 8  | A12  | Bunnik–Driebergen  |
-| 9  | A12  | Driebergen–Maarsbergen  |
-| 11  | A9  | Holendrecht–Diemen  |
-| 12  | A1  | ’t Gooi  |
-| 13  | A1/A6  | Muiderberg–Almere Stad west (Oostbaan)  |
-| 14a  | A2  | Holendrecht–Maarssen  |
-| 14b/c  | --- | Maasbracht–Geleen  |
-| --- | --- | 14b  | A2  | Urmond–Maasbracht  |
-| --- | --- | 14c  | A2/A76  | Urmond–Geleen  |
-| 14d/e  | --- | Utrecht–Amersfoort  |
-| --- | --- | 14d  | A28  | Utrecht–Leusden Zuid  |
-| --- | --- | 14e  | A28  | Leusden Zuid–knooppunt Hoevelaken  |
-| 15  | A4  | Knooppunt Badhoevedorp–knooppunt Nieuwe Meer  |
-| 16  | A10 zuid  | Knooppunt Nieuwe Meer–knooppunt Amstel  |
-| 17  | A2/A27  | Everdingen–Lunetten  |
-| 20  | A1  | Hoevelaken–Barneveld  |
-| 28  | A1  | Knooppunt Watergraafsmeer–knooppunt Diemen  |
 

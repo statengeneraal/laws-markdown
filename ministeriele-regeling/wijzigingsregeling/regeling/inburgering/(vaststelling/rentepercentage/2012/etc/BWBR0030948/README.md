@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2011, nr. 2011-2000571698, tot wijziging van de Regeling inburgering in verband met de vaststelling van het rentepercentage voor 2012 van leningen op grond van artikel 16 van de Wet inburgering en de vervanging van het in bijlage 6 bij artikel 3.3 opgenomen model van het inburgeringsdiploma
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 14, derde lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en [artikel 4.5, eerste lid, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);
+Gelet op artikel 14, derde lid, van de Wet inburgering en artikel 4.5, eerste lid, van het Besluit inburgering;
 Besluit:    
 
 ### Artikel  I  

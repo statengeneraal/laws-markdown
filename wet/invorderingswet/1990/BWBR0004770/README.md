@@ -86,7 +86,7 @@ b. ingeval een aanslagbiljet naast een of meer belastingaanslagen als bedoeld in
 
 1.  De ontvanger is belast met de invordering van de rijksbelastingen.   
 2.  In alle rechtsgedingen voortvloeiende uit de uitoefening van zijn taak treedt de ontvanger als zodanig in rechte op.   
-3.  In afwijking van het eerste lid kan Onze Minister van Landbouw, Natuur en Voedselkwaliteit bij ministeriële regeling de gevallen aanwijzen waarin de invordering van de belastingen, bedoeld in artikel 4, aanhef en onder 10 of 11, van het Communautair douanewetboek, geschiedt door een ander dan de ontvanger.   
+3.  In afwijking van het eerste lid kan Onze Minister van Economische Zaken, Landbouw en Innovatie bij ministeriële regeling de gevallen aanwijzen waarin de invordering van de belastingen, bedoeld in artikel 4, aanhef en onder 10 of 11, van het Communautair douanewetboek, geschiedt door een ander dan de ontvanger.   
 
 ### Artikel  3a  
 
@@ -766,7 +766,7 @@ b. bedragen die na het overlijden van de hoofdelijk aansprakelijk gestelde worde
 2.  Op de in het eerste lid bedoelde beschikking is [afdeling 4.4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
 3.  De ontvanger maakt de beschikking bekend door toezending als aangetekend stuk.   
 4.  Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de in het eerste lid bedoelde beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
-5.  Met betrekking tot het derde lid zijn de [artikelen 25, derde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [27e van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) niet van toepassing indien het niet aan de aansprakelijk gestelde is te wijten dat: 
+5.  Met betrekking tot het vierde lid zijn de [artikelen 25, derde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [27e van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) niet van toepassing indien het niet aan de aansprakelijk gestelde is te wijten dat: 
 
 a. de vereiste aangifte niet is gedaan; of  
 

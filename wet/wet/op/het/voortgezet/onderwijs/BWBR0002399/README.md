@@ -1040,6 +1040,8 @@ f. de wijze waarop het bevoegd gezag omgaat met de in artikel 24, eerste lid, om
 
 g. het beleid met betrekking tot de veiligheid, en  
 
+h. het verzuimbeleid,  
+
 h. de wijze waarop invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool.     
 2.  Bij algemene maatregel van bestuur kunnen voorschriften worden gegeven met betrekking tot de wijze waarop 
 
@@ -1228,7 +1230,7 @@ b. in de periode van de verlenging wel in staat zal zijn de opleiding met goed g
 ####Controle op langdurige afwezigheid
 
 1.  Het bevoegd gezag stelt van iedere aan de school ingeschreven leerling die valt onder de werking van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), vast, of deze leerling gedurende een aaneengesloten periode van ten minste 5 weken zonder geldige reden niet aan het onderwijs heeft deelgenomen. In afwijking van de vorige volzin kan Onze Minister bepalen dat voor soorten van voortgezet onderwijs de in die volzin bedoelde vaststelling wordt gedaan indien een ingeschreven studerende in een of meer vakken of andere programma-onderdelen niet aan het onderwijs heeft deelgenomen. Onder afwezigheid met geldige reden wordt verstaan afwezigheid wegens ziekte van de leerling, welke ziekte uitsluitend kan worden aangetoond door middel van een gedagtekende verklaring van een arts, en afwezigheid wegens bijzondere familie-omstandigheden.   
-2.  Het bevoegd gezag meldt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van 5 weken aan de leerling dat daarvan in de administratie van de school aantekening is gemaakt en verzoekt de leerling om opgaaf van de reden van de afwezigheid.   
+2.  Het bevoegd gezag meldt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van vier weken aan de leerling dat daarvan in de administratie van de school aantekening is gemaakt en verzoekt de leerling om opgaaf van de reden van de afwezigheid. Het bevoegd gezag doet daarbij mededeling van de opgave van de gegevens van de deelnemer, bedoeld in artikel 28a, eerste lid.   
 3.  Uiterlijk op de vijfde werkdag na de periode van 8 weken stelt het bevoegd gezag vast: 
 
 a. of de reden die de leerling binnen 8 weken na de aanvang van de periode van 5 weken gaf voor zijn afwezigheid, een geldige is, of  
@@ -1267,7 +1269,7 @@ c. die van de school wordt verwijderd.
 
 ####Melding verzuim niet-leerplichtigen
 
-1.  Het bevoegd gezag doet onverwijld opgave aan Onze Minister van de gegevens van degene die voldoet aan artikel 28, eerste lid, onderdelen a en b, en die het onderwijs aan de school gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt.   
+1.  Het bevoegd gezag doet onverwijld opgave aan Onze Minister van de gegevens van degene die voldoet aan artikel 28, eerste lid, onderdelen a en b, en die het onderwijs aan de school gedurende een aaneengesloten periode van ten minste vier weken of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt.   
 2.  Onze Minister neemt de op grond van dit artikel door het bevoegd gezag verstrekte gegevens op in het meldingsregister relatief verzuim.   
 3.  Onze Minister bericht burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft onverwijld na ontvangst van de opgave, bedoeld in het eerste lid, dat een zodanige opgave heeft plaatsgevonden.   
 4.  Onze Minister verstrekt uit het meldingsregister relatief verzuim aan het betrokken bevoegd gezag en aan burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft de ter zake van die betrokkene geregistreerde gegevens.   
@@ -1278,6 +1280,7 @@ c. die van de school wordt verwijderd.
 9.  Bij de verwerking van gegevens, bedoeld in dit artikel, wordt het persoonsgebonden nummer van de betrokkene gebruikt.   
 10.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van de verstrekking van gegevens op grond van het eerste en vijfde lid en wordt een nadere specificatie gegeven van de gegevens die op grond van het eerste en vijfde lid worden verstrekt.   
 11.  De gegevens die worden verstrekt op grond van het eerste lid kunnen persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) omvatten, met uitzondering van gegevens over ras, politieke gezindheid, seksueel leven of het lidmaatschap van een vakvereniging, voor zover deze persoonsgegevens noodzakelijk zijn met het oog op de informatieverstrekking over de achtergronden van het verzuim.   
+12.  Op verzoek van burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft, komen hun rechten en verplichtingen als bedoeld in dit artikel toe aan burgemeester en wethouders van de contactgemeente, bedoeld in artikel 118h, derde lid.   
 
 ### §  2  
 
@@ -2069,10 +2072,24 @@ c. de statuten en het reglement van de rechtspersoon met volledige rechtsbevoegd
 4.  De naam van de school duidt aan, met welke van de uit de openbare kas bekostigde scholen zij overeenkomt.   
 5.  De voorwaarden voor de toelating tot de school zijn ten minste gelijk aan die, vastgesteld krachtens artikel 27, eerste lid, alsmede de leden 1a en 1b.   
 6.  Artikel 23a1 is van overeenkomstige toepassing.   
+7.  Voor een school die is aangewezen op grond van artikel 56 zijn van overeenkomstige toepassing: 
+
+a. de artikelen 103b, eerste, tweede, vijfde tot en met achtste, en tiende tot en met twaalfde lid, met dien verstande dat van de gegevens, bedoeld in artikel 103b, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met g, en i, van dat lid;  
+
+b. artikel 103c;  
+
+c. artikel 103d, eerste en derde lid, met dien verstande dat artikel 103d, eerste lid, onderdeel a, wordt gelezen als: Onze Minister voor zover deze gegevens noodzakelijk zijn voor de beleidsvoorbereiding;  
+
+d. artikel 103f;  
+
+e. de artikelen 27b, 28 en 28a; en  
+
+f. de artikelen 118g tot en met 118i.     
+8.  Voor een school die is aangewezen op grond van artikel 56 kan bij ministeriële regeling een nadere specificatie worden gegeven van de gegevens, bedoeld in artikel 103b, tweede lid, voor zover dat lid van overeenkomstige toepassing is verklaard in het zevende lid, onderdeel a, en worden bepaald welke van die gegevens niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van die gegevens. Bij ministeriële regeling worden regels gesteld ter uitvoering van artikel 103d, eerste en derde lid, voor zover die leden van overeenkomstige toepassing zijn verklaard in het zevende lid, onderdeel c, in ieder geval omtrent de inhoud en de samenstelling van de gegevens, de wijze waarop de gegevens worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt, en de perioden waarop de gegevens betrekking hebben.   
 
 ### Artikel  59  
 
-Onze minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan de artikelen 56 en 58 of indien van misbruik van de verleende aanwijzing is gebleken. De aanwijzing kan door Onze minister tevens worden ingetrokken indien het schoolbestuur of het personeel van de school in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Onze minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan de artikelen 56 en 58, met uitzondering van artikel 58, zevende lid, onderdeel f, of indien van misbruik van de verleende aanwijzing is gebleken. De aanwijzing kan door Onze minister tevens worden ingetrokken indien het schoolbestuur of het personeel van de school in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### Afdeling  III  
 
@@ -3264,10 +3281,10 @@ Het toezicht op de beoordeling door de regionale verwijzingscommissies, bedoeld 
 
 1.  Onder een voortijdige schoolverlater in de zin van deze titel wordt verstaan degene op wie artikel 28, eerste lid onder a en b, van toepassing is en 
 
-a. die het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
+a. die het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste vier weken of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
 
 b. die niet meer aan een school is ingeschreven en evenmin is ingeschreven aan een instelling als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) dan wel aan een school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md).     
-2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdige schoolverlater niet verstaan degene die in het bezit is van een getuigschrift van het praktijkonderwijs als bedoeld in artikel 10f dan wel een diploma van een opleiding als bedoeld in artikel [7.2.2, eerste lid onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.   
+2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdige schoolverlater niet verstaan degene die in het bezit is van een getuigschrift van het praktijkonderwijs als bedoeld in artikel 10f dan wel een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.   
 
 ### Artikel  118h  
 

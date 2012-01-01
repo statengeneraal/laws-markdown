@@ -143,13 +143,18 @@ b. elk der zijwanden, indien deze niet identiek zijn, met dien verstande dat de 
 3.  Bij de beproeving, bedoeld in het eerste lid, moet een container die geen vaste bovenafdekking heeft, zich bevinden in de staat waarin die container bestemd is te worden gebruikt.   
 4.  Indien de zijwanden van een container zodanig ontworpen zijn, dat zij een andere kracht dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (Pg) kunnen weerstaan, moet, in afwijking van het eerste lid, die andere belasting worden uitgeoefend.   
 
+### Artikel  10a  
+
+1.  Containers met één ontbrekende deur worden voor gebruik gekeurd.   
+2.  De artikelen 5 en 7 zijn van overeenkomstige toepassing op de keuring, bedoeld in het eerste lid.   
+
 ### Hoofdstuk  III  
 
 ####Merk van goedkeuring
 
 ### Artikel  12  
 
-Het merk van goedkeuring van een container bestaat in een plaat van duurzaam corrosie- en brandbestendig materiaal met een formaat van ten minste 200 mm × 100 mm, waarop in ten minste de Engelse of de Franse taal duidelijk en onuitwisbaar met betrekking tot de container vermeld moeten zijn: 
+1.  Het merk van goedkeuring van een container bestaat in een plaat van duurzaam corrosie- en brandbestendig materiaal met een formaat van ten minste 200 mm × 100 mm, waarop in ten minste de Engelse of de Franse taal duidelijk en onuitwisbaar met betrekking tot de container vermeld moeten zijn: 
 
 a. de letters CSC met daarachter het woord VEILIGHEIDSKEUR, een en ander met een hoogte van ten minste 8 mm, en daaronder  
 
@@ -171,7 +176,12 @@ b. in letters en cijfers met een hoogte van ten minste 5 mm onder elkaar:
 
 8º. de zijwandsterkte, indien de zijwanden zo zijn ontworpen dat zij een kracht, anders dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,6 Pg) kunnen weerstaan, alsmede  
 
-9º. de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md) voor de eerste maal moet worden onderzocht,      
+9º. de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md) voor de eerste maal moet worden onderzocht,  
+
+10°. De stapelsterkte bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: TOELAATBAAR STAPELGEWICHT BIJ EEN ONTBREKENDE DEUR BIJ 1,8 g (in kg en lb). De markering wordt aangegeven nabij de waarde van de torsiebeproeving,  
+
+11°. De belastingswaarde bij torsiebeproeving bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: BELASTINGSWAARDE BIJ TORSIEBEPROEVING BIJ EEN ONTBREKENDE DEUR (in kg en lb). De markering wordt aangegeven nabij de waarde van de stapelbeproeving.       
+2.  Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen respectievelijk een verminderde bestendigheid bij torsiebelasting te hebben en wordt zulks op een goed zichtbare plaats op de plaat vermeld, overeenkomstig de normen, bedoeld in Bijlage I, Hoofdstuk I, bepaling 1, derde lid, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28).   
 
 ### Artikel  13  
 
@@ -201,7 +211,11 @@ Met het merk van goedkeuring worden gelijkgesteld de merken van goedkeuring die 
 
 ### Hoofdstuk  IV  
 
-####Keuringstarief
+####Toezicht
+
+### Artikel  15  
+
+De toezichthouder onderwerpt een goedgekeurde container aan controle met inachtneming van Bijlage III, paragrafen 1, 2 en 4, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28).  
 
 ### Hoofdstuk  V  
 

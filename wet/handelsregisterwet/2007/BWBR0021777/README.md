@@ -296,6 +296,7 @@ a. de wijze waarop gegevens in het handelsregister worden opgenomen;
 b. de termijnen voor het opnemen van gegevens in het handelsregister;  
 
 c. de actualiteit van het overnemen van een gegeven uit een ander basisregister.     
+5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een opgave ter inschrijving in het handelsregister.   
 
 ### Hoofdstuk  4  
 

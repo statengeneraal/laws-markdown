@@ -1735,7 +1735,7 @@ Bij algemene maatregel van bestuur wordt voor de luchthaven een luchthavenindeli
 3.  Als beperkingengebied wordt het gebied vastgesteld waar in verband met de nabijheid van de luchthaven met het oog op de veiligheid en de geluidbelasting beperkingen noodzakelijk zijn ten aanzien van de bestemming of het gebruik van de grond.   
 4.  Het luchthavengebied en het beperkingengebied overlappen elkaar niet. De gebieden kunnen bestaan uit niet aaneengesloten delen.   
 5.  De gebieden worden vastgesteld met behulp van kaarten waarop de ligging van de gebieden is aangegeven. De kaarten voor het luchthavengebied worden vervaardigd op een schaal van ten minste 1 op 10 000. De kaarten voor het beperkingengebied worden vervaardigd op een schaal van ten minste 1 op 50 000. Zo nodig worden delen van de gebieden vastgelegd met behulp van kaarten op een schaal met een kleiner verhoudingsgetal.   
-6.  Bij de vaststelling van het luchthavenindelingsbesluit wordt, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+6.  Bij de vaststelling van het luchthavenindelingsbesluit wordt gebruik gemaakt van: 
 
 a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
 
@@ -1846,7 +1846,7 @@ b. de grenswaarden voor de geluidbelasting, waarbij in ieder geval punten in of 
 c. de grenswaarden voor de emissie van de stoffen die lokale luchtverontreiniging veroorzaken.     
 6.  Het besluit kan ten aanzien van de in het tweede en derde lid bedoelde onderwerpen, grenzen stellen aan de maatregelen die de inspecteur-generaal op grond van artikel 8.22 kan treffen.   
 7.  Elk besluit, volgend op het eerste luchthavenverkeerbesluit, biedt een beschermingsniveau ten aanzien van externe veiligheid, geluidbelasting en lokale luchtverontreiniging, dat voor ieder van deze aspecten, gemiddeld op jaarbasis vastgesteld, per saldo gelijkwaardig is aan of beter is dan het niveau zoals dat geboden werd door het eerste besluit.   
-8.  Bij de vaststelling van het luchthavenverkeersbesluit wordt, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+8.  Bij de vaststelling van het luchthavenverkeersbesluit wordt gebruik gemaakt van: 
 
 a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
 
@@ -2230,7 +2230,7 @@ b. regels voor zover deze noodzakelijk zijn met het oog op de vliegveiligheid.
 3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de in luchthavenbesluiten op te nemen grenswaarden en regels. Deze maatregel stelt in ieder geval regels omtrent het opnemen van grenswaarden voor de geluidbelasting. Bij deze maatregel kan een onderscheid worden gemaakt tussen categorieën luchthavens en tussen vormen van luchtvaart die gebruik maken van luchthavens.   
 4.  De artikelen 8.19 tot en met 8.21 zijn van overeenkomstige toepassing.   
 5.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
-6.  Bij de vaststelling van het luchthavenbesluit wordt, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+6.  Bij de vaststelling van het luchthavenbesluit wordt gebruik gemaakt van: 
 
 a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
 
@@ -2490,7 +2490,7 @@ b. de bestemming en het gebruik van grond in verband met de geluidbelasting vanw
 
 c. de bestemming en het gebruik van de grond waaronder begrepen de maximale hoogte van objecten in, op of boven de grond, in verband met de vliegveiligheid.     
 4.  Bij het vaststellen van het luchthavenbesluit worden de nadere regels, bedoeld in artikel 8.44, derde lid, en artikel 8.47, derde lid, in acht genomen.   
-5.  Bij de vaststelling van het luchthavenbesluit wordt, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+5.  Bij de vaststelling van het luchthavenbesluit wordt gebruik gemaakt van: 
 
 a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
 
@@ -2833,15 +2833,15 @@ Wanneer de aanleg, de instandhouding of het gebruik van een werk ten behoeve van
 
 ### Artikel  9.3  
 
-Onze Minister van Verkeer en Waterstaat kan aanwijzingen geven aan de LVNL.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister van Verkeer en Waterstaat kan aanwijzingen geven aan de LVB-organisatie.  
 
 ### Artikel  9.4  
 
-Onze Minister van Defensie kan aanwijzingen geven aan de LVNL.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister van Defensie kan aanwijzingen geven aan de LVB-organisatie.  
 
 ### Artikel  9.5  
 
-Het bij of krachtens de titels 5.1 en 5.2 van deze wet bepaalde geldt niet ten aanzien van de luchtvaartuigen, in gebruik ten behoeve van de defensie, en de leden hunner bemanning.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Het bij of krachtens de titels 5.1 en 5.2 van deze wet bepaalde geldt niet ten aanzien van de luchtvaartuigen, in gebruik ten behoeve van de defensie, en de leden hunner bemanning.  
 
 ### Artikel  9.6  
 
@@ -3040,7 +3040,7 @@ a. regels met het oog op de geluidsbelasting;
 b. regels die noodzakelijk zijn met het oog op de lokale luchtverontreiniging.     
 5.  Bij de regels met het oog op de geluidsbelasting en het externe-veiligheidsrisico, bedoeld in het derde lid, worden in ieder geval gronden aangewezen die niet bestemd of gebruikt worden voor woningen of andere in het besluit aangewezen gebouwen.   
 6.  De artikelen 8.8 tot en met 8.12 zijn van overeenkomstige toepassing met dien verstande dat Onze Minister van Defensie in de plaats treedt van Onze Minister van Verkeer en Waterstaat.   
-7.  Bij de vaststelling van het luchthavenbesluit wordt, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+7.  Bij de vaststelling van het luchthavenbesluit wordt gebruik gemaakt van: 
 
 a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
 

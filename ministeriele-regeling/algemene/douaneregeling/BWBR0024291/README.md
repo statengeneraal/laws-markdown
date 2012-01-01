@@ -15,7 +15,7 @@ Besluiten:
 
 ### Artikel  1:1  
 
-Deze regeling geeft uitvoering aan de [artikelen 1:3, eerste lid, onderdeel c](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:19, tweede lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:28, zesde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:35](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:37, derde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [2:1, aanhef en onder a tot en met h, j, k en m](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:1, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:2](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:3](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:1, aanhef en onder b](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:6, vierde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:9, aanhef en onder a tot en met c](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [9:5](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [10:11](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [11:13, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), en [artikel 11:14, eerste lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), de [artikelen 1:5, vijfde lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [2:1, eerste lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [2:2, eerste en tweede lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:2, derde lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:3, aanhef en onder c](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:4, eerste lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en [5:1, tweede en vierde lid, van het Algemeen douanebesluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), de [artikelen 2, eerste lid, onderdeel i](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [3, vierde lid](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [artikel 5, tweede lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 21 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de [artikelen 63, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [69 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en aan de [artikelen 27, eerste lid](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), en [31 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 1:3, eerste lid, onderdeel c](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:19, tweede lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:28, zesde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:35](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:37, derde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [2:1, aanhef en onder a tot en met h, j, k en m](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:1, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:2](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:3](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:1, aanhef en onder b](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:6, vierde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:9, aanhef en onder a tot en met c](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [9:5](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [10:11](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [11:13, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [artikel 11:14, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), en artikel 11:15 van de Algemene douanewet, de [artikelen 1:5, vijfde lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [2:1, eerste lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [2:2, eerste en tweede lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:2, derde lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:3, aanhef en onder c](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:4, eerste lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en [5:1, tweede en vierde lid, van het Algemeen douanebesluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), de [artikelen 2, eerste lid, onderdeel i](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [3, vierde lid](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [artikel 5, tweede lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 21 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de [artikelen 63, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [69 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en aan de [artikelen 27, eerste lid](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), en [31 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md).  
 
 ### Artikel  1:2  
 
@@ -74,8 +74,9 @@ Douanekantoren zijn gevestigd in de plaatsen genoemd in bijlage I.
 
 ### Artikel  1:5  
 
-1.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 11:7 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) (contactambtenaar).   
-2.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is op grond van [artikel 1:28, zesde lid, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) bevoegd tot het geven van toestemming voor het vorderen van gehele ontkleding dan wel het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen.   
+1.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 11:7 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+2.  Als functionarissen als bedoeld in [artikel 10:15 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) worden aangewezen de ambtenaren van de Belastingdienst (contactambtenaren) die door de in het eerste lid aangewezen ambtenaren zijn aangewezen om namens hen de bevoegdheid, bedoeld in [artikel 11:7 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), uit te oefenen.   
+3.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is op grond van [artikel 1:28, zesde lid, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) bevoegd tot het geven van toestemming voor het vorderen van gehele ontkleding dan wel het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen.   
 
 ### Artikel  1:6  
 
@@ -93,7 +94,7 @@ De verplichtingen die ingevolge [artikel 1:32 van de wet](../../../../wet/algeme
 2.  De aanwijzing, bedoeld in het eerste lid, geldt alleen voor de bij of krachtens in het derde lid bedoelde wettelijke voorschriften vastgestelde taken. Hierbij kunnen de bevoegdheden, bedoeld in de [artikelen 1:23](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:24](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:25](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:27](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:31 tot en met 1:34 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), worden toegepast.   
 3.  De in het tweede lid bedoelde wettelijke voorschriften zijn de in de [bijlage bij de artikelen 1:1 en 1:3 van de wet, onder A](../../../../wet/algemene/douanewet/BWBR0023746/README.md), bedoelde voorschriften voor zover het voorschriften aangaande onderwerpen betreft die vallen onder de reikwijdte van de volgende wettelijke voorschriften en deze wettelijke voorschriften zelf, voor zover deze betrekking hebben op goederen en goederenverkeer: 
 
-– [Bestrijdingsmiddelenwet 1962](../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md);  
+– [Wet op de gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
 
 – [Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md);  
 
@@ -111,6 +112,10 @@ De voorzitter van het productschap is ontvanger in de zin van [artikel 1:3, eers
 
 1.  De algemeen directeur, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) is de bevoegde douaneadministratie, bedoeld in artikel 10 van de Overeenkomst opgesteld op grond van artikel K3 van het Verdrag betreffende de Europese Unie inzake het gebruik van informatica op douanegebied (Trb. 1995, 225).   
 2.  De in het eerste lid bedoelde douaneadministratie is gehouden uitvoering te geven aan onherroepelijke beslissingen van een rechtbank of een andere bevoegde autoriteit met betrekking tot kennisneming, verwijdering of verbetering van persoonsgegevens, als bedoeld in artikel 15, vierde lid, onder I, II en III, van de in het eerste lid genoemde overeenkomst.   
+
+### Artikel  1:10a  
+
+[Artikel 27 van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) is van overeenkomstige toepassing op de aanwijzingen in deze afdeling.  
 
 ### Afdeling  1.3  
 
@@ -289,7 +294,7 @@ c. het aan boord nemen van goederen voor reparatie of vervanging van onderdelen 
 
 ### Artikel  2:3  
 
-1.  De artikelen 2:1, 2:2 en 2:5 zijn niet van toepassing op de volgende schepen en luchtvaartuigen: 
+1.  De artikelen 2:0, 2:1, 2:2 en 2:5 zijn niet van toepassing op de volgende schepen en luchtvaartuigen: 
 
 a. oorlogsschepen en militaire luchtvaartuigen;  
 
@@ -317,6 +322,7 @@ d. voor het verkrijgen van vrijstelling van rechten bij invoer of voor het plaat
 e. het schip dan wel luchtvaartuig niet in de Gemeenschap thuishoort; of  
 
 f. het schip dan wel luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd.     
+3.  De inspecteur kan toestaan dat, voor zover het de verplichting, bedoeld in artikel 2:0, betreft, wordt afgeweken van het bepaalde in het tweede lid.   
 
 ### Artikel  2:4  
 
@@ -333,7 +339,7 @@ f. het schip dan wel luchtvaartuig niet overeenkomstig haar bestemming wordt geb
 1.  De summiere aangifte voor tijdelijke opslag, bedoeld in artikel 186 van de toepassingsverordening Communautair douanewetboek, wordt op elektronische wijze ingediend.   
 2.  De summiere aangifte voor tijdelijke opslag wordt gesteld in de Nederlandse, Franse, Duitse of Engelse taal.   
 3.  De summiere aangifte voor tijdelijke opslag bevat de in bijlage 30bis van de toepassingsverordening Communautair douanewetboek genoemde vereiste gegevens.   
-4.  In afwijking in zoverre van het derde lid wordt voor de in een schip aanwezige provisie de summiere aangifte voor tijdelijke opslag gedaan door inlevering van de scheepsvoorradenaangifte (IMO/FAL 3).   
+4.  In afwijking van het derde lid bevat de summiere aangifte voor tijdelijke opslag, voor de in een schip aanwezige provisie, de gegevens, bedoeld in de scheepsvoorradenaangifte (IMO/FAL 3). Het overzicht van in een schip aanwezige persoonlijke bezittingen van bemanningsleden wordt desgevraagd door de gezagvoerder van het schip onverwijld ter beschikking gesteld aan de inspecteur.   
 5.  Indien de summiere aangifte voor tijdelijke opslag betrekking heeft op een of meerdere goederen, genoemd in bijlage V, deel B, van richtlijn nr. 2000/29/EG van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG L 1169), wordt dit, gelijktijdig met het indienen van de summiere aangifte voor tijdelijke opslag en door de indiener van die aangifte, expliciet medegedeeld aan de douane.   
 
 ### Afdeling  2.3  
@@ -352,11 +358,6 @@ De goedkeuring van een ruimte voor tijdelijke opslag, bedoeld in artikel 185, ee
 a. op verzoek van de houder van de desbetreffende vergunning;  
 
 b. indien de ruimte niet of niet meer in die mate gebruikt wordt dat handhaving van de vergunning gerechtvaardigd is.     
-
-### Artikel  2:8  
-
-1.  Een nadere aangifte als bedoeld in artikel 186 van de toepassingsverordening Communautair douanewetboek is vereist indien niet alle in de ingediende summiere aangifte omschreven goederen in één ruimte voor tijdelijke opslag worden geplaatst.   
-2.  De nadere aangifte, bedoeld in het eerste lid, wordt gedaan op de wijze zoals in de Toelichting enig document, zoals opgenomen in bijlage VI, voor tijdelijke opslag is omschreven.   
 
 ### Afdeling  2.4  
 
@@ -418,7 +419,7 @@ c. op aantallen colli of losse voorwerpen.
 
 ### Hoofdstuk  3  
 
-####Landbouwproducten
+####Landbouw- en houtproducten
 
 ### Afdeling  3.1  
 
@@ -488,8 +489,8 @@ Het productschap wordt aangewezen als bevoegde autoriteit, bedoeld in artikel 3 
 
 ### Artikel  3:13  
 
-1.  Het productschap geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), of uittreksels daarvan voor ruwe hennep van post 53 02 10 00 van de gecombineerde nomenclatuur slechts af indien deze voldoet aan de voorwaarden van artikel 5bis van Verordening (EG) nr. 1251/1999 van de Raad van 17 mei 1999 tot instelling van een steunregeling voor producenten van bepaalde akkerbouwgewassen (PbEG L 160);   
-2.  Het productschap geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), of uittreksels daarvan voor zaaizaad bestemd voor de inzaai van henneprassen van post 1207 99 20 van de gecombineerde nomenclatuur slechts af indien deze vergezeld gaat van het bewijs dat het gehalte aan tetrahydrocannabinol niet hoger is dan het gehalte, bedoeld in artikel 5bis, eerste lid, van Verordening (EG) nr. 1251/1999 van de Raad van 17 mei 1999 tot instelling van een steunregeling voor producenten van bepaalde akkerbouwgewassen (PbEG L 160);   
+1.  Het productschap geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), of uittreksels daarvan voor ruwe hennep van post 53 02 10 00 van de gecombineerde nomenclatuur slechts af indien deze voldoet aan de voorwaarden van artikel 39 van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003 (PbEG 2009, L 30);   
+2.  Het productschap geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), of uittreksels daarvan voor zaaizaad bestemd voor de inzaai van henneprassen van post 1207 99 15 van de gecombineerde nomenclatuur slechts af indien deze vergezeld gaat van het bewijs dat het gehalte aan tetrahydrocannabinol niet hoger is dan het gehalte, bedoeld in artikel 39, eerste lid, van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003 (PbEG 2009, L 30);   
 3.  Het productschap geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en uittreksels daarvan voor niet voor inzaai bestemd hennepzaad van de post 1207 99 91 van de gecombineerde nomenclatuur slechts af indien: 
 
 a. de importeur door het productschap is erkend;  
@@ -645,6 +646,23 @@ De verlening van restitutie voor proviandering van zeeschepen, waaronder ook beg
 5.  Het productschap kan een toestemming intrekken, wanneer blijkt dat de voorwaarden en de beperkingen waaronder de toestemming is verleend, niet zijn nageleefd.   
 6.  De Algemene Inspectiedienst houdt toezicht op de naleving van de voorwaarden en beperkingen, bedoeld in het derde lid.   
 
+### Afdeling  3.6  
+
+#### *FLEGT-vergunningenstelsel voor de invoer van hout* 
+
+### Artikel  3:33  
+
+De Nederlandse Voedsel- en Warenautoriteit is de bevoegde autoriteit, bedoeld in: 
+
+a. artikel 2, onder 8), van verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347), en  
+
+b. artikel 2, onder 4, van verordening (EG) nr. 1024/2008 van de Commissie van 17 oktober 2008 tot vaststelling van gedetailleerde maatregelen ter uitvoering van Verordening (EG) nr. 2173/2005 van de Raad inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2008, L 277).    
+
+### Artikel  3:34  
+
+1.  De vergunning, bedoeld in artikel 5, eerste lid, van de verordening, genoemd in artikel 3:33, onderdeel a, wordt ingediend bij de Nederlandse Voedsel- en Warenautoriteit.   
+2.  Een vergunning als bedoeld in het eerste lid, wordt ingediend ten minste één werkdag voorafgaand aan het moment dat de aangifte voor het in het vrije verkeer brengen bij de douane wordt ingediend.   
+
 ### Hoofdstuk  4  
 
 ####De douanebestemmingen
@@ -718,7 +736,7 @@ Als waarborg voor de betaling van de douaneschuld die kan ontstaan ten aanzien v
 
 ### Artikel  4:10  
 
-Als vrije zones controletype II is aangewezen het volgende geografische gebied: Schiphol, waartoe wordt aangewezen het gebied dat beginnend aan de zuidzijde en gaande via de oost- en noordzijde naar de westzijde als volgt wordt begrensd: door de Kruisweg (N-201) tot aan de kruising met de Aalsmeerderdijk, vandaar de Aalsmeerderdijk in noordelijke richting die ter hoogte van de gemeente Oude Meer overgaat in de Schipholdijk tot aan de kruising met de A-9, vandaar in westelijke richting het gedeelte van de A-9 tot aan de A-4, vandaar in zuidelijke richting het gedeelte van de A-4 tot aan de kruising met de Schipholweg, vandaar in westelijke richting de Schipholweg tot aan de kruising met de Amsterdamse Baan, vandaar in noordelijke richting de Amsterdamse Baan tot aan de kruising met de Hoofdweg bij het gemaal Lijnden, vandaar in zuidelijke richting de Hoofdweg Oostzijde tot aan de Weg om de Noord, vandaar oostwaarts de Weg om de Noord die overgaat in de Kruisweg (N-201).  
+Als vrije zones controletype II is aangewezen het volgende geografische gebied: Schiphol, waartoe wordt aangewezen het gebied dat beginnend aan de zuidzijde en gaande via de oost- en noordzijde naar de westzijde als volgt wordt begrensd: door de N207-Leimuiderweg vandaar in noordelijke richting naar Van Heuven Goedhartlaan, aan oostelijke zijde begrensd door het spoor en Spoorlaan en in westelijke zijde begrensd door de Hoofdweg. Vanaf Van Heuven Goedhartlaan in oostelijk richting naar de N201, Weg om Noord die overgaat in de Kruisweg (N201) tot aan de A4, vandaar in zuidelijke richting tot aan de Geniedijk. Vanaf de Geniedijk in oostelijke richting naar de Aalsmeerderdijk. Van de Aalsmeerderdijk in noordelijke richting die ter hoogte van de gemeente Oude Meer overgaat in de Schipholdijk tot aan de kruising met de A-9, vandaar in westelijke richting het gedeelte van de A-9 tot aan de A-4, vandaar in zuidelijke richting het gedeelte van de A-4 tot aan de kruising met de Schipholweg, vandaar in westelijke richting de Schipholweg tot aan de kruising met de Amsterdamse Baan, vandaar in noordelijke richting de Amsterdamse Baan overgaand in de Ookmeerweg tot aan de Etnastraat. Via de Etnastraat (noordzijde) in westelijke richting kruisend met de Maroastraat, de Fogostraat, de Lutkemeerweg, de Colimastraat en de Bromostraat terug in oostelijke richting via de Etnastraat (zuidzijde) richting de Ookmeerweg. Vandaar in zuidelijke richting naar de Amsterdamse Baan tot aan de kruising bij de Hoofdweg bij gemaal Lijnden, vandaar in zuidelijke richting de Hoofdweg Oostzijde tot aan de Weg om de Noord, vandaar oostwaarts de Weg om de Noord die overgaat in de Kruisweg (N-201).  
 
 ### Artikel  4:11  
 
@@ -894,8 +912,12 @@ c. op de invoer van producten waarvan het nettogewicht niet meer bedraagt dan 2.
 
 ### Artikel  6:2  
 
-1.  Van een schip of luchtvaartuig dat het douanegebied van de Gemeenschap over zee of door de lucht zal verlaten, wordt een aangifte ten uitklaring gedaan van het schip of het luchtvaartuig en alle bij het douanekantoor van uitgang aangebrachte goederen.   
-2.  De in het eerste lid bedoelde aangifte ten uitklaring wordt van de goederen, die het douanegebied van de Gemeenschap zullen verlaten, gedaan door elektronische verzending aan het kantoor van uitgang van het bericht van lading. In het bericht van lading worden de gegevens van alle goederen, die geladen worden, opgenomen, volgens de in bijlage IXa opgenomen specificaties, alsmede de generale verklaring (IMO/FAL 1 bij vertrek), respectievelijk de generale verklaring luchtvaart, zoals is voorzien bij het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165).   
+1.  Van een schip of luchtvaartuig dat het douanegebied van de Gemeenschap over zee of door de lucht zal verlaten, wordt aangifte ten uitklaring gedaan.   
+2.  Van alle goederen geladen in een Nederlandse haven of luchthaven aan boord van het in het eerste lid bedoelde schip of luchtvaartuig, wordt eveneens aangifte ten uitklaring gedaan.   
+3.  De aangifte ten uitklaring, bedoeld in het eerste lid, wordt gedaan door het op elektronische wijze inzenden van de generale verklaring (IMO / FAL 1 bij vertrek), zoals voorzien in de bijlage bij de IMO Facilitatie Conventie 1965 van de Internationale Maritieme Organisatie (Trb. 1966, 62), respectievelijk de generale verklaring luchtvaart, zoals is voorzien in bijlage 9 bij het op 7 december 1944 te Chicago tot stand gekomen ICAO verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165) van de Internationale organisatie voor de burgerluchtvaart.   
+4.  De aangifte ten uitklaring, bedoeld in het tweede lid, wordt gedaan door het op elektronische wijze inzenden van het douanemanifest bij uitgang. In het douanemanifest bij uitgang worden de gegevens opgenomen volgens de in bijlage IXa opgenomen specificaties.   
+5.  De aangifte ten uitklaring, bedoeld in het eerste lid, wordt gedaan voor vertrek van het schip of luchtvaartuig. De aangifte ten uitklaring, bedoeld in het tweede lid, wordt gedaan binnen 3 kalenderdagen na vertrek van het schip of luchtvaartuig.   
+6.  De inspecteur kan toestaan dat wordt afgeweken van het bepaalde in het vijfde lid.   
 
 ### Artikel  6:3  
 
@@ -1066,8 +1088,8 @@ Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door re
 | Omschrijving  | Grondslag  | Tarief  |
 |:---|:---|:---|
 | a. overige alcoholhoudende producten als bedoeld in [artikel 12 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md):  | liter  | € 5,72  |
-| b. rooktabak  | kleinhandelsprijs van  soortgelijke producten  | 50,6%  |
-| c. sigaretten  | kleinhandelsprijs van  soortgelijke producten  | 59,3%  |
+| b. rooktabak  | kleinhandelsprijs van  soortgelijke producten  | 56,4%  |
+| c. sigaretten  | kleinhandelsprijs van  soortgelijke producten  | 65,9%  |
 
 ### Artikel  7:18  
 
@@ -1269,7 +1291,13 @@ Indien wijziging in de inrichting van een ruimte voor tijdelijke opslag wordt aa
 
 ### Artikel  10:4  
 
-Het achterwege laten van de mededeling, bedoeld in het vijfde lid van artikel 2:5, vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 150.  
+Het achterwege laten van: 
+
+a. de kennisgeving, bedoeld in artikel 2:0, eerste lid;  
+
+b. de kennisgeving, bedoeld in artikel 2:4, eerste lid; of  
+
+c. de mededeling, bedoeld in artikel 2:5, vijfde lid;   vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 150.  
 
 ### Artikel  10:5  
 
@@ -1297,7 +1325,13 @@ Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen ve
 
 ### Artikel  11:5  
 
-Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming goederen lost, laadt, inslaat of uitslaat maakt zich schuldig aan het plegen van een strafbaar feit.  
+Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming: 
+
+a. goederen lost, laadt, overlaadt, inslaat of uitslaat;  
+
+b. goederen als bedoeld in artikel 2:4 verder landinwaarts brengt dan tot de eerste plaats waar zij tegen beschadiging door het zeewater zijn beveiligd; of  
+
+c. een binnengekomen schip dan wel een binnengekomen luchtvaartuig laat vertrekken van de haven of de internationale luchthaven, bedoeld in artikel 2:1, eerste lid, onderscheidenlijk tweede lid;   maakt zich schuldig aan het plegen van een strafbaar feit.  
 
 ### Artikel  11:6  
 
@@ -1359,7 +1393,7 @@ F.Heemskerk
 
 ### Bijlage  I  
 
-Plaatsen van vestiging van douanekantoren als bedoeld in artikel 60 van het Communautair douanewetboek en artikel 1:3 van de Algemene douaneregeling. Maastricht-Aachen Airport Brunssum (Afnorth) Duiven Groningen Airport Eelde Eemshaven Eindhoven Airport Hazeldonk Moerdijk De Lutte Rotterdam Rotterdam Airport Schiphol Veendam Venlo Vlissingen 
+Plaatsen van vestiging van douanekantoren als bedoeld in artikel 60 van het Communautair douanewetboek en artikel 1:3 van de Algemene douaneregeling. Maastricht-Aachen Airport Brunssum (Afnorth) Duiven Groningen Airport Eelde Eemshaven Eindhoven Airport Hazeldonk Moerdijk De Lutte Rotterdam Rotterdam The Hague Airport Schiphol Venlo Vlissingen Amsterdam Groningen 
 
 ### Bijlage  II  
 
@@ -1400,13 +1434,13 @@ Douanekantoren als bedoeld in artikel 2:1, eerste lid, van de Algemene douanereg
 
 1. In de volgende plaatsen zijn douanekantoren gevestigd voor het aanbrengen en aangeven van uit zee binnengebrachte goederen, onderscheidenlijk voor goederen die over zee zullen uitgaan: 
 
-* Eemshaven: – voor schepen die ligplaats kiezen in de havens van Delfzijl, Eemshaven en Lauwersoog, Oost-Vlieland, West-Terschelling en Harlingen;  
+* Eemshaven: – voor schepen die ligplaats kiezen in de havens van Delfzijl, Eemshaven, Lauwersoog, Oost-Vlieland, West-Terschelling, Oudeschild en Harlingen;  
 
 * Moerdijk: – voor schepen die ligplaats kiezen in de havens van Dordrecht en Moerdijk;  
 
 * Vlissingen: – voor schepen die ligplaats kiezen in de havens van Breskens, Hansweert, Stellendam, Terneuzen, Veere-Roompotsluis en Vlissingen;  
 
-* Amsterdam: – voor schepen die ligplaats kiezen in de havens van Amsterdam, Beverwijk, Den Helder, Scheveningen, Oudeschild, IJmuiden, Velsen-Noord, en Zaandam;  
+* Amsterdam: – voor schepen die ligplaats kiezen in de havens van Amsterdam, Beverwijk, Den Helder, Scheveningen, IJmuiden, Velsen-Noord en Zaandam;  
 
 * Rotterdam: 
 
@@ -1420,31 +1454,31 @@ Internationale luchthavens als bedoeld in artikel 2:1, tweede lid, van de Algeme
 
 1. In de volgende plaatsen zijn ten behoeve van de genoemde internationale luchthavens douanekantoren gevestigd voor het aanbrengen en aangeven op de van door de lucht binnengebrachte goederen, onderscheidenlijk voor goederen die door de lucht zullen uitgaan: 
 
-* Duiven: – voor luchtvaartuigen met bestemming de internationale luchthavens van Hilversum, Lelystad, Soesterberg en Teuge;  
+* Duiven: – voor luchtvaartuigen met bestemming de internationale luchthavens van Hilversum, Lelystad Airport en Teuge;  
 
-* De Lutte: – voor luchtvaartuigen met bestemming de internationale luchthaven van Twente;  
+* De Lutte: – voor luchtvaartuigen met bestemming de internationale luchthaven van Enschede Airport Twente;  
 
-* Groningen Airport Eelde: – voor luchtvaartuigen met bestemming de internationale luchthaven van Eelde Airport;  
+* Groningen Airport Eelde: – voor luchtvaartuigen met bestemming de internationale luchthavens van Groningen Airport Eelde, Leeuwarden en Texel;  
 
 * Maastricht-Aachen Airport: – voor luchtvaartuigen met bestemming de internationale luchthaven van Maastricht-Aachen Airport;  
 
 * Moerdijk: – voor luchtvaartuigen met bestemming de internationale luchthavens van Seppe en Woensdrecht;  
 
-* Vlissingen: – voor luchtvaartuigen met bestemming de internationale luchthaven van Midden-Zeeland;  
+* Vlissingen: – voor luchtvaartuigen met bestemming de internationale luchthaven van Zeeland Airport;  
 
-* Eindhoven Airport: – voor luchtvaartuigen met bestemming de internationale luchthavens van Budel en Eindhoven Airport;  
+* Eindhoven Airport: – voor luchtvaartuigen met bestemming de internationale luchthavens van Volkel, Kempen Airport en Eindhoven Airport;  
 
 * Hazeldonk: – voor luchtvaartuigen met bestemming de internationale luchthaven van Gilze-Rijen;  
 
-* Rotterdam Airport: – voor luchtvaartuigen met bestemming de internationale luchthaven van Rotterdam Airport.  
+* Rotterdam The Hague Airport: – voor luchtvaartuigen met bestemming de internationale luchthaven van Rotterdam The Hague Airport.  
 
-* Schiphol: – voor luchtvaartuigen met bestemming de internationale luchthavens van Den Helder, Schiphol en Texel.    
+* Schiphol: – voor luchtvaartuigen met bestemming de internationale luchthavens van Den Helder Airport en Amsterdam Airport Schiphol.    
 
-2. De aanwijzing van Gilze-Rijen en Soesterberg geldt slechts voor militaire luchtvaartuigen.  
+2. de aanwijzing van Gilze-Rijen, Woensdrecht en Volkel geldt slechts voor militaire luchtvaartuigen.  
 
-3. De aanwijzing van Eindhoven Airport en Twente geldt slechts voor militaire luchtvaartuigen alsmede burgerluchtvaartuigen waarvoor de Minister van Defensie toestemming heeft gegeven tot gebruik van de luchthaven.  
+3. de aanwijzing van Eindhoven en Leeuwarden geldt slechts voor militaire luchtvaartuigen alsmede burgerluchtvaartuigen waarvoor de Minister van Defensie toestemming heeft gegeven tot gebruik van de luchthaven.  
 
-4. De aanwijzing van Hilversum, Midden-Zeeland, Seppe, Teuge en Texel geldt slechts voor goederen welke mondeling dan wel door enige andere handeling kunnen worden aangegeven. De totale waarde van de door een persoon meegevoerde goederen die mondeling kunnen worden aangegeven mag in dit geval niet hoger zijn dan € 1000.   
+4. de aanwijzing van Hilversum, Zeeland Airport, Seppe, Teuge en Texel geldt slechts voor goederen welke mondeling dan wel door enige andere handeling kunnen worden aangegeven. De totale waarde van de door een persoon meegevoerde goederen die mondeling kunnen worden aangegeven mag in dit geval niet hoger zijn dan € 1000.   
 
 ### Bijlage  V  
 
@@ -1567,16 +1601,16 @@ Opgemerkt zij dat indien een vak verplicht is voor de aangever (X), dit geen afb
 | 1 <sup>2</sup>  | X  | X  | X  | X  | X  | --- | --- | X  | X  | X  | X  | X  |
 | 1 <sup>3</sup>  | --- | --- | --- | --- | --- | X  | X  | --- | --- | --- | --- | --- |
 | 2  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | --- | X <sup>25</sup>  | --- | --- | --- | --- | --- |
-| 2 (No)  | X  | X  | X  | X  | X  | --- | X  | --- | --- | --- | --- | --- |
+| 2 (No)  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | --- | X <sup>27</sup>  | --- | --- | --- | --- | --- |
 | 3  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  | X <sup>2, 3</sup>  |
 | 4  | --- | --- | --- | --- | --- | --- | X  | --- | --- | --- | --- | X  |
 | 5  | X  | X  | X  | X  | X  | X  | X  | X  | X  | X  | X  | X  |
 | 6  | --- | --- | --- | --- | --- | X <sup>4</sup>  | --- | --- | --- | --- | --- | --- |
 | 7  | X*  | X*  | X*  | X*  | X*  | X <sup>5</sup>  | --- | X*  | X*  | X*  | X*  | X*  |
-| 8  | X <sup>1</sup>  | X  | --- | --- | --- | X <sup>6</sup>  | --- | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | --- |
-| 8 (No)  | --- | --- | --- | --- | --- | --- | --- | X  | X  | X  | X  | --- |
+| 8  | X <sup>1, 28</sup>  | X  | --- | --- | --- | X <sup>6</sup>  | --- | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | --- |
+| 8 (No)  | --- | --- | --- | --- | --- | --- | --- | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | --- |
 | 14  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | --- | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  | X <sup>25</sup>  |
-| 14 (No)  | X  | X  | X  | X  | X  | --- | X  | X  | X  | X  | X  | X  |
+| 14 (No)  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | --- | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  | X <sup>27</sup>  |
 | 15  | --- | --- | --- | --- | --- | X <sup>2</sup>  | --- | --- | --- | --- | --- | --- |
 | 15a  | X  | X  | X  | X  | X  | X <sup>5</sup>  | --- | X  | X  | X  | X  | --- |
 | 17  | --- | --- | --- | --- | --- | X <sup>2</sup>  | --- | --- | --- | --- | --- | --- |
@@ -1632,7 +1666,7 @@ Opgemerkt zij dat indien een vak verplicht is voor de aangever (X), dit geen afb
 | 55  | --- | --- | --- | --- | --- | X  | --- | --- | --- | --- | --- | --- |
 | 56  | --- | --- | --- | --- | --- | X  | --- | --- | --- | --- | --- | --- |
 
-Voetnoten <sup>1</sup> Dit gegeven is verplicht voor landbouwproducten die voor uitvoerrestituties in aanmerking komen. <sup>2</sup> Dit gegeven mag enkel in het kader van niet-geautomatiseerde procedures worden gevraagd. <sup>3</sup> Wanneer de aangifte slechts op één enkel artikel betrekking heeft wordt dit vak niet ingevuld. <sup>4</sup> Dit vak is verplicht voor het NCTS (nieuw geautomatiseerd systeem voor douanevervoer) overeenkomstig het bepaalde in bijlage 37 bis TVo.CDW. <sup>5</sup> Dit gegeven mag enkel in het kader van geautomatiseerde procedures worden gevraagd. <sup>6</sup> Dit vak behoeft niet te worden ingevuld wanneer de geadresseerde noch in de EU, noch in een EVA-land gevestigd is. <sup>7</sup> Niet gebruiken in geval van verzending met de post of door vaste installaties. <sup>8</sup> Niet gebruiken bij verzending met de post, door vaste installaties of per spoor. <sup>9</sup> Niet van toepassing in NL. <sup>10</sup> Het 3e deelvak niet invullen. <sup>11</sup> Dit gegeven uitsluitend invullen in gevallen waarbij een uitzondering wordt gemaakt op de in titel V, hoofdstuk 6, neergelegde regels inzake de maandelijkse vaststelling van de wisselkoersen. <sup>12</sup> Dit vak wordt niet ingevuld wanneer de uitvoerformaliteiten op de plaats van uitgang uit de Gemeenschap worden vervuld. <sup>13</sup> Dit vak wordt niet ingevuld wanneer de invoerformaliteiten op de plaats van binnenkomst in de Gemeenschap worden vervuld. <sup>14</sup> Dit vak kan in het kader van het NCTS-systeem worden gebruikt volgens de bepalingen van bijlage 37bis TVo.CDW. <sup>15</sup> Verplicht bij wederuitvoer na opslag in een entrepot van het type D <sup>16</sup> Dit deelvak moet worden ingevuld: – wanneer de aangifte voor douanevervoer door dezelfde persoon wordt opgesteld samen met of volgend op een douaneaangifte waarop de goederencode is vermeld, of – wanneer de aangifte voor douanevervoer betrekking heeft op goederen die in bijlage 44 quater TVo.CDW zijn vermeld, of – wanneer de communautaire wetgeving daarin voorziet. <sup>17</sup> Enkel in te vullen wanneer de communautaire wetgeving daarin voorziet. <sup>18</sup> Niet van toepassing in NL. <sup>19</sup> Niet van toepassing in NL. <sup>20</sup> Niet van toepassing in NL. <sup>21</sup> Niet van toepassing in NL. <sup>22</sup> Niet van toepassing in NL. <sup>23</sup> Dit vak moet worden ingevuld wanneer de aangifte tot plaatsing onder een douaneregeling ten doel heeft het stelsel van douane-entrepots aan te zuiveren. <sup>24</sup> Dit vak moet worden ingevuld bij inslag in een Bevoorradingsdepot <sup>25</sup> Indien een aangifte via geautomatiseerde wijze wordt aangeleverd is de vermelding van de naam, adres, woonplaats gegevens uitsluitend toegestaan indien geen identificatienummer is vermeld. <sup>26</sup> Alleen van toepassing bij de aanvullende aangifte in het kader van de vereenvoudigde procedures als bedoeld in artikel 76, 1, letters b en c CDW.  
+Voetnoten <sup>1</sup> Dit gegeven is verplicht voor landbouwproducten die voor uitvoerrestituties in aanmerking komen. <sup>2</sup> Dit gegeven mag enkel in het kader van niet-geautomatiseerde procedures worden gevraagd. <sup>3</sup> Wanneer de aangifte slechts op één enkel artikel betrekking heeft wordt dit vak niet ingevuld. <sup>4</sup> Dit vak is verplicht voor het NCTS (nieuw geautomatiseerd systeem voor douanevervoer) overeenkomstig het bepaalde in bijlage 37 bis TVo.CDW. <sup>5</sup> Dit gegeven mag enkel in het kader van geautomatiseerde procedures worden gevraagd. <sup>6</sup> Dit vak behoeft niet te worden ingevuld wanneer de geadresseerde noch in de EU, noch in een EVA-land gevestigd is. <sup>7</sup> Niet gebruiken in geval van verzending met de post of door vaste installaties. <sup>8</sup> Niet gebruiken bij verzending met de post, door vaste installaties of per spoor. <sup>9</sup> Niet van toepassing in NL. <sup>10</sup> Het 3e deelvak niet invullen. <sup>11</sup> Dit gegeven uitsluitend invullen in gevallen waarbij een uitzondering wordt gemaakt op de in titel V, hoofdstuk 6, neergelegde regels inzake de maandelijkse vaststelling van de wisselkoersen. <sup>12</sup> Dit vak wordt niet ingevuld wanneer de uitvoerformaliteiten op de plaats van uitgang uit de Gemeenschap worden vervuld. <sup>13</sup> Dit vak wordt niet ingevuld wanneer de invoerformaliteiten op de plaats van binnenkomst in de Gemeenschap worden vervuld. <sup>14</sup> Dit vak kan in het kader van het NCTS-systeem worden gebruikt volgens de bepalingen van bijlage 37bis TVo.CDW. <sup>15</sup> Verplicht bij wederuitvoer na opslag in een entrepot van het type D <sup>16</sup> Dit deelvak moet worden ingevuld: – wanneer de aangifte voor douanevervoer door dezelfde persoon wordt opgesteld samen met of volgend op een douaneaangifte waarop de goederencode is vermeld, of – wanneer de aangifte voor douanevervoer betrekking heeft op goederen die in bijlage 44 quater TVo.CDW zijn vermeld, of – wanneer de communautaire wetgeving daarin voorziet. <sup>17</sup> Enkel in te vullen wanneer de communautaire wetgeving daarin voorziet. <sup>18</sup> Niet van toepassing in NL. <sup>19</sup> Niet van toepassing in NL. <sup>20</sup> Niet van toepassing in NL. <sup>21</sup> Niet van toepassing in NL. <sup>22</sup> Niet van toepassing in NL. <sup>23</sup> Dit vak moet worden ingevuld wanneer de aangifte tot plaatsing onder een douaneregeling ten doel heeft het stelsel van douane-entrepots aan te zuiveren. <sup>24</sup> Dit vak moet worden ingevuld bij inslag in een Bevoorradingsdepot <sup>25</sup> Indien een aangifte via geautomatiseerde wijze wordt aangeleverd is de vermelding van de naam, adres, woonplaats gegevens uitsluitend toegestaan indien geen identificatienummer is vermeld. <sup>26</sup> Alleen van toepassing bij de aanvullende aangifte in het kader van de vereenvoudigde procedures als bedoeld in artikel 76, 1, letters b en c CDW. <sup>27</sup> Het betreft hier het EORI-nummer dat door de bevoegde autoriteit is afgegeven. Aan personen die incidenteel aangifte doen (zoals bijvoorbeeld particulieren) wordt in beginsel geen EORI-nummer verstrekt. In dat geval kan worden volstaan met vermelding van uitsluitend NAW-gegevens. Eventueel mag het aan deze persoon verstrekte BSN-nummer worden vermeld, voorafgegaan door ‘NL’. <sup>28</sup> Dit gegeven is verplicht wanneer in de uitvoeraangifte ook de veiligheidsgegevens van bijlage 30bis Toepassingsverordening Communautair douanewetboek moeten worden opgenomen.  
 
 #### *C. Gebruiksaanwijzing van het formulier* 
 
@@ -2131,7 +2165,15 @@ In te vullen overeenkomstig Taric (eerste aanvullende code).
 In te vullen overeenkomstig Taric (tweede aanvullende code). 
 ###Vijfde deelvak (4 tekens)
 
-De nationale codes vermelden. De nationale code bestaat uit een code van 2 tekens, zonodig aangevuld met de nationale accijnscode van 2 tekens. Indien in vak 31 is vermeld ‘scheepsprovisie’ of ‘scheepsbehoeften’, vermelden 9930.24.0000 (indien het betreft uitsluitend of hoofdzakelijk goederen van de hoofdstukken 1–24) of 9930.99.0000 (indien het betreft uitsluitend of hoofdzakelijk goederen van andere hoofdstukken). Deze goederencodes worden verder niet gebruikt, ook niet bij invoer. Voor een samenstelling van goederen van diverse soorten waarvoor is toegestaan dat als omschrijving een algemene aanduiding wordt vermeld (zoals ‘Verhuisgoed’, ‘Huwelijksgoederen’), als goederencode vermelden 9990 99 0200. Bij plaatsing onder het stelsel van douane-entrepot van de typen B en C, de vermelding van de goederencode 9990.99.0200, indien op grond van de vergunning van het douane-entrepot de vermelding van de goederencode niet is vereist. 
+De nationale codes vermelden. De nationale code bestaat uit een code van 2 tekens, zonodig aangevuld met de nationale accijnscode van 2 tekens. Voor bepaalde goederenomschrijvingen is het gebruik van de volgende vereenvoudigde goederencodes toegestaan: 9905 00 00: persoonlijke goederen van natuurlijke personen die hun normale verblijfplaats overbrengen 9919 00 00: de volgende goederen, andere dan die welke hierboven zijn vermeld: 
+
+– huwelijksuitzetten en inboedel die toebehoren aan een persoon die zijn normale verblijfplaats overbrengt ter gelegenheid van zijn huwelijk; persoonlijke goederen, verkregen in het kader van een erfopvolging  
+
+– uitzetten, studiebenodigdheden en andere roerende goederen van scholieren en studenten;  
+
+– lijkkisten die het stoffelijk overschot en lijkurnen die de as van overledenen bevatten alsmede grafornamenten:  
+
+– goederen voor instellingen met een liefdadig of filantropisch karakter en goederen ten bate van slachtoffers van rampen.   Statistische codes: Voor bepaalde specifieke overbrengingen van goederen aan schepen en luchtvaartuigen geleverde goederen: 9930 24 00: goederen van de hoofdstukken 1 tot en met 24 van de GN 9930 27 00: goederen van hoofdstuk 27 van de GN 9930 99 00: elders ingedeelde goederen 9931 24 00: Goederen die zijn geleverd voor de op de installatie op volle zee werkzame personen of voor de werking van de motoren, machines en andere toestellen op deze installaties. 9950 00 00: Code die uitsluitend in het goederenverkeer tussen lidstaten wordt gebruikt voor afzonderlijke transacties met een waarde van minder dan 200 EUR en voor de aangifte van restgoederen in sommige gevallen. 
 ###Vak 34a: Code land van oorsprong
 
 Gebruik de in vak 2 vermelde landencode. 
@@ -2194,6 +2236,8 @@ De in dit vak te vermelden codes zijn alfanumeriek (an..31) Elke code bestaat ui
 – Het voorafgaande document is een document voor douanevervoer T1 en het door het kantoor van bestemming toegekende nummer is ‘238544’. De code is dan ‘Z-821-238544’. (‘Z’ voor het voorafgaand document, ‘821’ voor de regeling douanevervoer en ‘238544’ voor het registratienummer van het document (of MRN voor NCTS-transacties).  
 
 – Een goederenmanifest met het nummer ‘2222’ wordt als summiere aangifte gebruikt. De code is dan ‘X-785-2222’. (‘X’ voor de summiere aangifte, ‘785’ voor het goederenmanifest en ‘2222’ voor het identificatienummer van het goederenmanifest).  
+
+– Accijnsgoederen onder schorsing worden in EMCS geboekt en vervolgens wordt een aangifte ten uitvoer ingediend. De code is dan: ‘Z-AAD-10NL123456789E1234561-1’. (‘Z’ voor het voorafgaande document, ‘AAD’ voor het elektronische administratieve document, ‘10NL123456789E1234561’ voor de unieke administratieve referentiecode en ‘1’ voor het artikelnummer).  
 
 – De goederen zijn op 14 februari 2002 in de administratie ingeschreven. De code is dan: ‘Y-CLE-20020214-5’ (‘Y’ om aan te geven dat er een oorspronkelijke aangifte is, ‘CLE’ voor ‘inschrijving in de administratie’, ‘20020214’ voor de datum van registratie, dat wil zeggen het jaar ‘2002’, de maand ‘02’ en de dag ‘14’, en ‘5’ voor de referentie van de inschrijving.   Indien het voorafgaand document op basis van het Enig document is opgesteld, bestaat de afkorting van het document uit de voor vak 1, eerste deelvak, voorgeschreven codes. (IM, EX, CO en EU). 
 ###Vak 44: Bijzondere vermeldingen/voorgelegde stukken/certificaten en vergunningen
@@ -2666,7 +2710,7 @@ Lijst van functionele gegevenselementen die opgenomen moeten worden in het elekt
 
 ### Titel  II  
 
-####Bericht van lading
+####Douanemanifest bij uitgang
 
 Lijst van functionele gegevens die opgenomen moeten worden in het elektronische bericht ‘Bericht van lading’ (‘Douanemanifest bij uitgang’) zoals bedoeld in artikel 6:2, tweede lid, van de regeling.  
 
@@ -2773,6 +2817,8 @@ Instellingen en organisaties als bedoeld in artikel 43, onder b, van Verordening
 
 – Gemeente Delft, Erfgoed Delft eo, Delft  
 
+– Hendrick Hamel Foundation, Gorinchem  
+
 – Het Nederlandse Rode Kruis, ’s-Gravenhage  
 
 – Hogeschool Enschede, Enschede  
@@ -2834,6 +2880,8 @@ Instellingen en organisaties als bedoeld in artikel 43, onder b, van Verordening
 – Stichting het Veiligheids Instituut, Amsterdam  
 
 – Stichting Leerplan Ontwikkeling, Enschede  
+
+– Stichting Maritiem Museum, Rotterdam  
 
 – Stichting museon (museum voor het onderwijs), Den Haag  
 
@@ -2958,6 +3006,10 @@ Instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening
 – Plantenziektenkundige Dienst, Wageningen  
 
 – Radbout Universiteit Nijmegen, Nijmegen  
+
+– Rijksuniversiteit Groningen te Groningen  
+
+– Rotary Wing Training Center BV te Etten-Leur  
 
 – Stichting Academisch Rekencentrum, Amsterdam  
 

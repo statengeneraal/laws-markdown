@@ -481,7 +481,7 @@ b. ten aanzien waarvan voorzieningen worden of zijn getroffen die uitsluitend di
 
 c. in de omgeving waarvan voorzieningen worden of zijn getroffen; of  
 
-d. ter zake waarvan een omgevingsvergunning voor een bouwactiviteit als bedoeld in * [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is verleend;   met het oog op de bebouwing van de grond.   
+d. ter zake waarvan een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is verleend;   met het oog op de bebouwing van de grond.   
 5.  Voor de toepassing van het eerste lid, onderdelen a, onder 2°, en b, onder 5°, worden onder het gebruiken voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 bestaat, niet begrepen de handelingen, bedoeld in de artikelen 3, derde lid, en 4, tweede lid.   
 
 ### Afdeling  4  
@@ -571,7 +571,7 @@ b. in geval van onttrekkingen van goederen voor het verstrekken van geschenken v
 
 ### Artikel  16a  
 
-Ter zake van prestaties als bedoeld in artikel 3, derde lid, onderdelen a en c, en artikel 4, tweede lid, wordt de belasting niet verschuldigd indien het gebruik betreft als bedoeld in de op artikel 15, zesde lid, tweede volzin, gebaseerde ministeriële regeling of indien het prestaties betreft als bedoeld in het op artikel 16, eerste lid, gebaseerde koninklijk besluit.  
+Ter zake van prestaties als bedoeld in artikel 3, derde lid, onderdelen a en c, en artikel 4, tweede lid, wordt de belasting niet verschuldigd indien het gebruik betreft als bedoeld in de op artikel 15, zesde lid, derde volzin, gebaseerde ministeriële regeling of indien het prestaties betreft als bedoeld in het op artikel 16, eerste lid, gebaseerde koninklijk besluit.  
 
 ### Artikel  17  
 
@@ -808,6 +808,7 @@ b. op goederen die tijdelijk zijn uitgevoerd uit de Gemeenschap met het oog op h
 1.  In afwijking van artikel 22 wordt de belasting ter zake van de invoer van goederen, bestemd voor aangewezen ondernemers en lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), andere dan ondernemers, geheven van die ondernemers en lichamen. Bij ministeriële regeling worden onder daarbij te stellen voorwaarden regels gesteld omtrent de aanwijzing. Daarbij kan worden bepaald dat op verzoek een aanwijzing kan geschieden door de inspecteur.   
 2.  De belasting wordt verschuldigd op het tijdstip waarop de goederen worden ingevoerd.   
 3.  De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.   
+4.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken tot aanwijzing op grond van bepalingen krachtens het eerste lid.   
 
 ### Hoofdstuk  IV  
 
@@ -909,7 +910,8 @@ c. kunstvoorwerpen die hem zijn geleverd door een andere ondernemer dan een wede
 
 ### Artikel  28d  
 
-In bij ministeriële regeling aan te wijzen gevallen wordt, in afwijking in zoverre van de artikelen 28b en 28c, ter zake van leveringen van goederen waarop een zelfde tarief wordt toegepast, de belasting berekend over de winstmarge per tijdvak van aangifte. Deze winstmarge is het verschil tussen de som van de vergoedingen ter zake van die leveringen in dat tijdvak en de som van hetgeen in dat tijdvak door de wederverkoper is of moet worden voldaan ter zake van in artikel 28b, tweede lid, en 28c, eerste lid, bedoelde leveringen of invoer van dergelijke goederen.  
+1.  In bij ministeriële regeling aan te wijzen gevallen wordt, in afwijking in zoverre van de artikelen 28b en 28c, ter zake van leveringen van goederen waarop een zelfde tarief wordt toegepast, de belasting berekend over de winstmarge per tijdvak van aangifte. Deze winstmarge is het verschil tussen de som van de vergoedingen ter zake van die leveringen in dat tijdvak en de som van hetgeen in dat tijdvak door de wederverkoper is of moet worden voldaan ter zake van in artikel 28b, tweede lid, en 28c, eerste lid, bedoelde leveringen of invoer van dergelijke goederen.   
+2.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken op grond van bepalingen krachtens het eerste lid.   
 
 ### Artikel  28e  
 
@@ -1376,7 +1378,7 @@ d. valt onder de in artikel 27, eerste en tweede lid, bedoelde landbouwregeling.
 
 a. een register bij te houden van de goederen die door hem of voor zijn rekening zijn verzonden of vervoerd naar een andere lid-staat om aldaar te worden gebruikt voor de in artikel 3a, tweede lid, onderdelen e, f en g, bedoelde doeleinden;  
 
-b. afzonderlijk aantekening te houden van de goederen die vanuit een andere lid-staat naar hem zijn verzonden of vervoerd door of voor rekening van een ondernemer aan wie een btw-identificatienummer is toegekend in een andere lid-staat, ten behoeve van een dienst als bedoeld in artikel 6e, onderdeel b.     
+b. afzonderlijk aantekening te houden van de goederen die vanuit een andere lid-staat naar hem zijn verzonden of vervoerd door of voor rekening van een ondernemer aan wie een btw-identificatienummer is toegekend in een andere lid-staat, ten behoeve van een dienst als bedoeld in artikel 6e, tweede lid, onderdeel b.     
 3.  De rechtspersoon, andere dan ondernemer, is gehouden, met inachtneming van bij ministeriële regeling te stellen regels, aantekening te houden van de door hem verrichte intracommunautaire verwervingen van goederen.   
 4.  De ondernemer die goederen levert met toepassing van artikel 28b, 28c of 28d, is tevens gehouden, met inachtneming van bij ministeriële regeling te stellen regels, afzonderlijk aantekening te houden van de met toepassing van de onderscheiden artikelen geleverde goederen, alsmede van de invoer en van de leveringen daarvan aan hem.   
 

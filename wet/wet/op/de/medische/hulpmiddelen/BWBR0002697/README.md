@@ -133,15 +133,11 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de wet waarbij d
 
 ### Artikel  12  
 
-De ambtenaren van het Staatstoezicht op de volksgezondheid zijn bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde verplichting.  
+De ambtenaren van het Staatstoezicht op de volksgezondheid zijn bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van een bevel als bedoeld in artikel 12a, en de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde verplichting.  
 
 ### Artikel  12a  
 
-De ambtenaren van het Staatstoezicht op de volksgezondheid zijn, voor zover dit redelijkerwijs voor hun taakuitoefening noodzakelijk is, bevoegd om: 
-
-a. te allen tijde medische hulpmiddelen in beslag te nemen;  
-
-b. de handel, invoer of aflevering van een medisch hulpmiddel te doen opschorten of beëindigen.    
+De ambtenaren van het Staatstoezicht op de volksgezondheid zijn, ter voorkoming van schade aan de volksgezondheid, bevoegd een bevel te geven om de handel, invoer of aflevering van een medisch hulpmiddel op te schorten of te beëindigen.  
 
 ### Artikel  13  
 

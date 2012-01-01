@@ -458,10 +458,10 @@ b. een andere beslissing van de rechtbank.
 1.  Van de indiener van het beroepschrift wordt door de secretaris een griffierecht geheven. Indien de uitspraak van de rechtbank, voor zover daartegen hoger beroep is ingesteld, betrekking heeft op meer dan één besluit of indien het een gezamenlijk beroepschrift van twee of meer indieners ter zake van dezelfde uitspraak betreft, is eenmaal griffierecht verschuldigd. In die gevallen bedraagt het griffierecht het hoogste op grond van het tweede lid ter zake van een van de besluiten onderscheidenlijk door een van de indieners verschuldigde griffierecht.   
 2.  Het griffierecht bedraagt: 
 
-a. € 227 indien door een natuurlijke persoon hoger beroep is ingesteld, tenzij bij wet anders is bepaald, en  
+a. € 232 indien door een natuurlijke persoon hoger beroep is ingesteld, tenzij bij wet anders is bepaald, en  
 
-b. € 454 indien anders dan door een natuurlijke persoon hoger beroep is ingesteld.     
-3.  Indien het bestuursorgaan hoger beroep heeft ingesteld en de uitspraak van de rechtbank wordt in stand gelaten, wordt van het bestuursorgaan een griffierecht geheven van € 454.   
+b. € 466 indien anders dan door een natuurlijke persoon hoger beroep is ingesteld.     
+3.  Indien het bestuursorgaan hoger beroep heeft ingesteld en de uitspraak van de rechtbank wordt in stand gelaten, wordt van het bestuursorgaan een griffierecht geheven van € 466.   
 4.  De secretaris wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het verschuldigde bedrag binnen vier weken na de dag van verzending van zijn mededeling dient te zijn bijgeschreven op de rekening van de secretarie dan wel ter secretarie dient te zijn gestort. Indien het bedrag niet binnen deze termijn is bijgeschreven of gestort, wordt het hoger beroep niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.   
 5.  Indien het hoger beroep wordt ingetrokken omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, wordt het door de indiener betaalde griffierecht aan hem vergoed door het bestuursorgaan. In de overige gevallen kan het bestuursorgaan, indien het hoger beroep wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.   
 6.  De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   

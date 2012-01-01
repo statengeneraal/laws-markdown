@@ -24,23 +24,29 @@ d. schadeverzekeringen: de toetstermen genoemd in bijlage 4;
 
 e. levensverzekeringen: de toetstermen genoemd in bijlage 5;  
 
-f. volmacht: de toetstermen genoemd in bijlage 6.    
+f. volmacht: de toetstermen genoemd in bijlage 6;  
+
+g. *pensioenverzekeringen:* de toetstermen genoemd in bijlage 7.    
 
 ### Artikel  3  
 
-In de bijlagen 1 tot en met 6 wordt het beheersniveau van de toetstermen aangeduid met de taxonomiecodes: 
+In de bijlagen 1 tot en met 7 wordt het beheersniveau van de toetstermen aangeduid met de taxonomiecodes: 
 
 a. K (=Kennis);  
 
 b. B (=Begrip);  
 
-c. Tp (=Toepassing procedure); en  
+c. Tp (=Toepassing procedure);  
 
-d. Ti (=Toepassing inzicht).    
+d. Ti (=Toepassing inzicht);  
+
+e. V (=Vaardigheid);  
+
+f. C (=Competentie).    
 
 ### Artikel  4  
 
-Overeenkomstig bijlage 7 worden de toetstermen verdeeld over inhoudsclusters. Bij elk inhoudscluster wordt in bijlage 7 aangegeven hoe groot het aandeel is van dat cluster in het betreffende examen en welk aandeel de beheersniveaus, bedoeld in artikel 3, in dat cluster innemen.  
+Overeenkomstig bijlage 8 worden de toetstermen verdeeld over inhoudsclusters. Bij elk inhoudscluster wordt in bijlage 8 aangegeven hoe groot het aandeel is van dat cluster in het betreffende examen en welk aandeel de beheersniveaus, bedoeld in artikel 3, in dat cluster innemen.  
 
 ### Artikel  5  
 
@@ -187,7 +193,7 @@ G.Zalm
 | 3c.5.16  | De kandidaat kan bij een gegeven schadesituatie uitleggen bij wie de bewijslast ligt.  | B  |
 |  *Eindterm*   | *3c.6:* De personen zijn in staat met betrekking tot het aanbieden van verzekeringen de structuur van de verzekeringssector uit te leggen.  |
 | 3c.6.1  | De kandidaat kan de belangrijkste wetten met betrekking tot het toezicht binnen de verzekeringssector noemen.  | K  |
-| 3c.6.3  | De kandidaat kan het voornaamste verschil tussen de Raad van Toezicht en de Ombudsman noemen.  | K  |
+| 3c.6.3  | De kandidaat kan het voornaamste verschil tussen de Tuchtraad Financiële Dienstverlening en de Ombudsman Financiële Dienstverlening noemen.  | K  |
 | 3c.6.4  | De kandidaat kan de verschillende samenwerkingsvormen en samenwerkingsorganisaties binnen de verzekeringsbranche noemen.  | K  |
 | 3c.6.5  | De kandidaat kan een omschrijving van FISH geven.  | K  |
 | 3c.6.6  | De kandidaat kan de verschillende distributievormen in de verzekeringsbranche noemen met daarbij de voor de cliënt belangrijkste voor- en nadelen van elke vorm.  | K  |
@@ -220,6 +226,8 @@ G.Zalm
 | 4a.2  | De kandidaat kan de werkwijze van verkoop via bemiddeling uitleggen en daarbij aangeven welke kosten daarvoor gemaakt worden en welke beloning daarvoor ontvangen wordt.  | B  |
 | 4a.3  | De kandidaat kan voorbeelden noemen van onafhankelijke distributiekanalen (bemiddeling).  | K  |
 | 4a.4  | De kandidaat kan uitleggen wanneer gekozen wordt voor rechtstreekse verkoop of verkoop via bemiddeling.  | B  |
+| 4a.5  | De kandidaat kan de kenmerken van een abonnementensysteem en andere beloningsvormen (fee, vast tarief) noemen.  | K  |
+| 4a.6  | De kandidaat kan voorbeelden opsommen van wanneer en waarvoor passende provisieregels (inducementnorm) van toepassing zijn.  | K  |
 |  *Eindterm*   | *4b:* De personen zijn in staat met betrekking tot het bemiddelen in financiële producten de werkzaamheden die de bemiddelaar kan verrichten voor de consument of cliënt, te beschrijven;  |
 | 4b.1  | De kandidaat kan de werkzaamheden beschrijven die de bemiddelaar verricht voor de consument of cliënt bij het tot stand brengen van de overeenkomst van een financieel product. Hij kan daarbij aangeven welke kosten daarvoor gemaakt worden en welke beloning daarvoor ontvangen wordt.  | K  |
 | 4b.2  | De kandidaat kan de werkzaamheden beschrijven die de bemiddelaar verricht voor de consument of cliënt bij het beheer en de uitvoering tijdens de looptijd van een financieel product. Hij kan daarbij aangeven welke kosten daarvoor gemaakt worden en welke beloning daarvoor ontvangen wordt.  | K  |
@@ -355,15 +363,15 @@ G.Zalm
 | 7b.1.2  | De kandidaat kan noemen welke financiële dienstverleners ‘van rechtswege een vergunning krijgen’, en welke financiële dienstverleners een vergunning moeten aanvragen.  | K  |
 | 7b.1.3  | De kandidaat kan noemen wie het toezicht in het kader van de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) uitoefent.  | K  |
 | 7b.1.4  | De kandidaat kan de rol van de Stichting Financiële Dienstverlening (StFD) beschrijven.  | K  |
-| 7b.1.5  | De kandidaat kan de rol van het College van Deskundigen beschrijven.  | K  |
+| 7b.1.5  | De kandidaat kan de rol van het College Deskundigheid Financiële Dienstverlening beschrijven.  | K  |
 | 7b.1.6  | De kandidaat kan omschrijven wat de eigen verantwoordelijkheid van de consument volgens de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) houdt.  | K  |
 | 7b.1.7  | De kandidaat kan de werking van het Self Assesment beschrijven  | K  |
 |  *Eindterm*   | *7b.2:* De personen zijn in staat met betrekking tot het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de terminologie toe te lichten.  |
 | 7b.2.1  | De kandidaat kan de termen/begrippen uit het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschrijven:  | K  |
 | --- | aanbieden, adviseren, adviseur, beleggingsobject, bemiddelen, bijkantoor, consument, duurzame drager, effect, effectief kredietvergoedingspercentage, elektronisch geld, financiële dienst, financieel product, gemeentelijke kredietbank, gevolmachtigde agent: degene die als gevolmachtigd vertegenwoordiger van een aanbieder voor diens rekening overeenkomsten aangaat met consumenten inzake verzekeringen, groep, krediet, levensverzekering, lidstaat, moederonderneming, onderbemiddelaar, ondergevolmachtigde agent, Onze Minister, overeenkomst op afstand, reclame-uitingen, Richtlijn verzekeringsbemiddeling, techniek voor communicatie op afstand, toezichthouder, verbonden bemiddelaar, verzekering:  | --- |
 |  *Eindterm*   | *7b.3:* De personen zijn in staat met betrekking tot het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de reikwijdte aan te geven.  |
-| 7b.3.1  | De kandidaat kan aangeven op welke financiële dienstverleners de het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is.  | K  |
-| 7b.3.2  | De kandidaat kan de product-dienstcombinaties noemen die vallen onder de reikwijdte van de het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  | K  |
+| 7b.3.1  | De kandidaat kan aangeven op welke financiële dienstverleners het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is.  | K  |
+| 7b.3.2  | De kandidaat kan de product-dienstcombinaties noemen die vallen onder de reikwijdte van het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  | K  |
 | 7b.3.3  | De kandidaat kan aangeven in welke gevallen en voor welke verzekeringen een vrijstelling voor de eisen van het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geldt.  | K  |
 | 7b.3.4  | De kandidaat kan de vier voorwaarden in het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) noemen die gelden voor een ‘verlicht regime voor (sommige) kredietbemiddelaars’.  | K  |
 |  *Eindterm*   | *7b.4:* De personen zijn in staat met betrekking tot het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) uit te leggen waarom het Deel Gedrachtstoezicht kiest voor consistente regels voor alle distributiekanalen en branches.  |
@@ -524,12 +532,12 @@ G.Zalm
 | 4d.1  | De kandidaat kan het wettelijke traject voor schuldsanering beschrijven.  | K  |
 | 4d.2  | De kandidaat kan de mogelijkheden van de hypotheekhouder/geldgever van beslaglegging en uitwinning benoemen en uitleggen.  | B  |
 |  *Eindterm*   | *5a:* De personen zijn in staat met betrekking tot financiële instrumenten uit te leggen aan de consument waarom het voor een goed beleggingsadvies belangrijk is een risicoprofiel te maken.  |
-| 5a.1  | De kandidaat kan zorgplicht definiëren.  | --- |
-| 5a.2  | De kandidaat kan aan de klant uitleggen wat het belang is van het houden van een inventarisatiegesprek.  | --- |
+| 5a.1  | De kandidaat kan zorgplicht definiëren.  | K  |
+| 5a.2  | De kandidaat kan aan de klant uitleggen wat het belang is van het houden van een inventarisatiegesprek.  | B  |
 |  *Eindterm*   | *5b:* De personen zijn in staat met betrekking tot financiële instrumenten de voor het risicoprofiel benodigde informatie over de financiële positie, ervaring en doelstellingen van de consument te verzamelen, rekening te houden met de periodieke inkomsten, de financiële lasten, de kennis en ervaring, het huidige en voormalige beroep en het bezit van onroerende zaken.  |
 | 5b.1  | De kandidaat kan de eisen die de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) stelt ten aanzien van het vaststellen van een risicoprofiel benoemen.  | K  |
 | 5b.2  | De kandidaat kan inschatten welke valkuilen er zijn bij het in kaart brengen van de financiële positie, kennis, ervaring en beleggingsdoelstelling van de klant.  | Ti  |
-| 5b.3  | De kandidaat kan de inventarisatievragen categoriseren in de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (financiële positie, kennis, ervaring, doelstelling, risicobereidheid).  | Ti  |
+| 5b.3  | De kandidaat kan de inventarisatievragen in de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (financiële positie, kennis, ervaring, doelstelling, risicobereidheid) beargumenteren en toepassen.  | Ti  |
 | 5b.4  | De kandidaat kan de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) categoriseren naar inventarisatievraag.  | B  |
 | 5b.5  | De kandidaat kan uitleggen welk verschil er is tussen een vermogensdoel met een objectieve danwel subjectieve prioriteit.  | B  |
 |  *Eindterm*   | *5c:* De personen zijn in staat met betrekking tot financiële instrumenten in actieve dialoog met de consument de risicotolerantie van de consument in kaart te brengen.  |
@@ -540,71 +548,71 @@ G.Zalm
 |  *Eindterm*   | *5d:* De personen zijn in staat met betrekking tot financiële instrumenten op basis van de verzamelde informatie vast te stellen welk risicoprofiel op dit moment past bij de consument en te onderbouwen waarom hij tot dit profiel gekomen is.  |
 | 5d.1  | De kandidaat kan het begrip risicoprofiel en cliëntprofiel definiëren.  | K  |
 | 5d.2  | De kandidaat kan uitleggen waarom de klant wordt ingedeeld in een risicoprofiel.  | B  |
-| 5d.3  | De kandidaat kan op basis van de gegevens van de klant beoordelen welk risicoprofiel erbij past.  | Ti  |
-| 5d.4  | De kandidaat kan van een gekozen risicoprofiel beoordelen welke klant erbij past.  | Ti  |
+| 5d.3  | De kandidaat kan op basis van de gegevens van de klant motiveren welk risicoprofiel erbij past.  | Ti  |
+| 5d.4  | De kandidaat kan van een gekozen risicoprofiel beargumenteren welke klant erbij past.  | Ti  |
 | 5d.5  | De kandidaat kan per antwoord van de klant aangeven wat het verband is met het risicoprofiel.  | B  |
 | 5d.6  | De kandidaat kan uitleggen dat de gebruikte instrumenten van aanbieders om het risicoprofiel op te stellen tot zeer wisselende uitkomsten leiden in gelijke situaties.  | B  |
 | 5d.7  | De kandidaat kan zelfstandig motiveren en vastleggen welk risicoprofiel van toepassing is, gelet op de beperkte betrouwbaarheid van de in de praktijk gebruikte instrumenten.  | Ti  |
 |  *Eindterm*   | *5e:* De personen zijn in staat met betrekking tot financiële instrumenten vast te stellen welke vorm van dienstverlening past bij het profiel en de wensen van de consument en, indien van toepassing, door te verwijzen naar een ander type adviseur en die financiële instrumenten te selecteren die passend zijn binnen hun competenties.  |
 | 5e.1  | De kandidaat kan de verschillende vormen van dienstverlening omschrijven.  | K  |
 | 5e.2  | De kandidaat kan de argumenten noemen die gelden wanneer de klant in aanmerking komt voor beleggen of niet.  | K  |
-| 5e.3  | De kandidaat kan de argumenten noemen die gelden wanneer een klant moet worden doorverwezen naar een andere vorm van dienstverlening.  | Ti  |
+| 5e.3  | De kandidaat kan beargumenteren wanneer een klant moet worden doorverwezen naar een andere vorm van dienstverlening.  | Ti  |
 |  *Eindterm*   | *6a:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten overeenstemming te bereiken met de consument, inclusief ondertekening door de consument, over het risicoprofiel.  |
 | 6a.1  | De kandidaat kan beschrijven wat hij moet doen wanneer de klant zich niet kan vinden in het gekozen risicoprofiel.  | K  |
 | 6a.2  | De kandidaat kan de mogelijkheden benoemen voor een klant die een lager cq hoger risicoprofiel wil.  | K  |
 |  *Eindterm*   | *6b:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten aan de consument uit te kunnen leggen wat wordt bedoeld met de risico- en rendementinformatie die wordt gegeven bij de strategische asset allocaties en wat dat voor hem betekent.  |
 | 6b.1  | De kandidaat kan een omschrijving geven van de begrippen ‘verwacht rendement’ en ‘standaarddeviatie.’  | K  |
-| 6b.2  | De kandidaat kan uitleggen wat het verband is tussen standaarddeviatie en waarschijnlijkheidsinterval van een SAA en in dit verband aangeven wat een normale verdeling is.  | B  |
-| 6b.3  | De kandidaat kan aantonen aan de klant wat het verband is tussen standaarddeviatie, waarschijnlijkheidsinterval en risico van een SAA.  | Tp  |
+| 6b.2  | De kandidaat kan uitleggen wat het verband is tussen standaarddeviatie en waarschijnlijkheidsinterval van een strategische asset allocatie en in dit verband aangeven wat een normale verdeling is.  | B  |
+| 6b.3  | De kandidaat kan aantonen aan de klant wat het verband is tussen standaarddeviatie, waarschijnlijkheidsinterval en risico van een strategische asset allocatie.  | Tp  |
 | 6b.4  | De kandidaat kan berekenen wat de kans is op een belegging met een worst case scenario als uitkomst bij een eenmalige belegging.  | Tp  |
 | 6b.5  | De kandidaat kan uitleggen wat de kans op een mogelijke uitkomst van een belegging in enig jaar is.  | B  |
 | 6b.6  | De kandidaat kan het verband tussen risico en rendement uitleggen.  | B  |
-| 6b.7  | De kandidaat kan aantonen dat de risico- en rendementsinformatie van een gekozen SAA past bij het risicoprofiel van de klant.  | Tp  |
-| 6b.8  | De kandidaat kan door middel van een berekening laten zien wat de consequentie is van een andere SAA en de consequentie daarvan voor verwachte risico en rendement.  | Tp  |
+| 6b.7  | De kandidaat kan aantonen dat de risico- en rendementsinformatie van een gekozen strategische asset allocatie past bij het risicoprofiel van de klant.  | Tp  |
+| 6b.8  | De kandidaat kan door middel van een berekening laten zien wat de consequentie is van een andere strategische asset allocatie en de consequentie daarvan voor verwachte risico en rendement.  | Tp  |
 | 6b.9  | De kandidaat kan het begrip ‘samengesteld rendement’ definiëren.  | K  |
-| 6b.10  | De kandidaat kan berekenen wat de verwachte eindwaarde is van zijn vermogen als wordt belegd volgens de SAA.  | Tp  |
-| 6b.11  | De kandidaat kan aan de hand van uitspraken van de klant over beleggen concluderen of de klant de risico’s van beleggen begrijpt.  | Ti  |
-| 6b.12  | De kandidaat kan het verband tussen risico en tijd benoemen.  | Ti  |
+| 6b.10  | De kandidaat kan berekenen wat de verwachte eindwaarde is van zijn vermogen als wordt belegd volgens de strategische asset allocatie.  | Tp  |
+| 6b.11  | De kandidaat kan aan de hand van uitspraken van de klant over beleggen inschatten of de klant de risico’s van beleggen begrijpt.  | Ti  |
+| 6b.12  | De kandidaat kan het verband tussen risico en tijd illustreren.  | Ti  |
 | 6b.13  | De kandidaat kan het risicotolerantiemodel definiëren.  | K  |
 | 6b.14  | De kandidaat kan uitleggen wat de minimaal vereiste beleggingshorizon betekent.  | B  |
 |  *Eindterm*   | *6c:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit te kunnen leggen op welke veronderstellingen de strategische asset allocaties zijn gebaseerd en kanttekeningen te plaatsen bij de gehanteerde risico- en rendementinformatie.  |
-| 6c.1  | De kandidaat kan een strategische asset allocatie definiëren.  | Ti  |
+| 6c.1  | De kandidaat kan een strategische asset allocatie opstellen.  | Ti  |
 | 6c.2  | De kandidaat kan uitleggen waarom er in het advies gebruik wordt gemaakt van een strategische asset allocatie.  | B  |
 | 6c.3  | De kandidaat kan de kenmerken van een strategische asset allocatie definiëren.  | K  |
 | 6c.4  | De kandidaat kan de kantekeningen benoemen bij het gebruik van de normale verdeling.  | K  |
 | 6c.5  | De kandidaat kan uitleggen wat de consequenties zijn van de kantekeningen bij de normale verdeling bij de geadviseerde Strategische asset allocatie.  | B  |
-| 6c.6  | De kandidaat kan de weging van de categorieën in een SAA uitleggen.  | B  |
+| 6c.6  | De kandidaat kan de weging van de categorieën in een strategische asset allocatie uitleggen.  | B  |
 |  *Eindterm*   | *6d:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten in overleg met de consument vast te stellen welke strategische asset allocatie die de diverse aanbieders hanteren, past bij het gekozen risicoprofiel.  |
 | 6d.1  | De kandidaat kan, gegeven een risicoprofiel, het verband aangeven tussen een strategische assetallocatie en de verdeling over de verschillende assetcategorieën.  | B  |
 | 6d.2  | De kandidaat kan, gegeven een risicoprofiel, het verband aangeven tussen een strategische assetallocatie en de risico-rendementsverhouding.  | B  |
 | 6d.3  | De kandidaat kan het begrip modelportefeuille definiëren.  | K  |
 |  *Eindterm*   | *6e:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit leggen waarom de gemaakte keuze een momentopname is en waarom het belangrijk is periodiek deze keuze te heroverwegen.  |
 | 6e.1  | De kandidaat kan uitleggen dat een risicoprofiel kan veranderen.  | B  |
-| 6e.2  | De kandidaat kan uitleggen wanneer er sprake is van een verandering in het cliëntprofiel.  | Ti  |
+| 6e.2  | De kandidaat kan inschatten wanneer er sprake is van een verandering in het cliëntprofiel.  | Ti  |
 |  *Eindterm*   | *6f:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit te leggen op welke wijze spreiding in de portefeuille kan worden gerealiseerd.  |
 | 6f.1  | De kandidaat kan diversificatie definiëren.  | K  |
 | 6f.2  | De kandidaat kan correlatie definiëren.  | K  |
 | 6f.3  | De kandidaat kan uitleggen wanneer er tussen twee financiële instrumenten sprake kan zijn van voordelen door diversificatie.  | B  |
-| 6f.4  | De kandidaat kan illustreren wat het verband is tussen risico en rendement van de verschillende SAA’s.  | Ti  |
+| 6f.4  | De kandidaat kan illustreren wat het verband is tussen risico en rendement van de verschillende strategische asset allocaties.  | Ti  |
 | 6f.5  | De kandidaat kan het verschil uitleggen tussen het marktrisico en specifiek risico.  | B  |
 | 6f.6  | De kandidaat kan uitleggen hoe spreiding wordt bereikt in een portefeuille.  | B  |
 | 6f.7  | De kandidaat kan uit een lijst portefeuilles een onderscheid maken tussen goed en slecht gediversifieerde portefeuilles.  | B  |
 | 6f.8  | De kandidaat kan van een slecht gediversifieerde portefeuille motiveren waarom deze slecht gespreid is.  | Ti  |
 |  *Eindterm*   | *6g:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten de voor- en nadelen te beschrijven van een belegging in beleggingsinstellingen als onderdeel van modelportefeuilles.  |
 | 6g.1  | De kandidaat kan de voor- en nadelen van collectief beleggen benoemen.  | K  |
-| 6g.2  | De kandidaat kan de kosten van collectief beleggen benoemen.  | --- |
-| 6g.3  | De kandidaat kan de verschillende kosten van beleggen definiëren.  | --- |
-| 6g.4  | De kandidaat kan uitleggen wat het verschil is tussen direct en indirect rendement van een beleggingsinstelling.  | --- |
+| 6g.2  | De kandidaat kan de kosten van collectief beleggen benoemen.  | K  |
+| 6g.3  | De kandidaat kan de verschillende kosten van beleggen definiëren.  | K  |
+| 6g.4  | De kandidaat kan uitleggen wat het verschil is tussen direct en indirect rendement van een beleggingsinstelling.  | B  |
 |  *Eindterm*   | *6h:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit te leggen wat de meest voorkomende vormen van beleggingsbeleid van beleggingsinstellingen inhouden en wat de kenmerken en risico’s van deze vormen zijn.  |
 | 6h.1  | De kandidaat kan de vormen van specialisatie bij beleggingsinstellingen benoemen.  | K  |
 | 6h.2  | De kandidaat kan uitleggen welke verschillen er zijn tussen de verschillende stijlen.  | B  |
-| 6h.3  | De kandidaat kan een aantal special products beschrijven.  | Ti  |
-| 6h.4  | De kandidaat kan aangeven wat het verschil is tussen een open end en een closed end fonds en aangeven wat het gevolg is van het verschil.  | K  |
+| 6h.3  | De kandidaat kan een aantal special products uitleggen.  | Ti  |
+| 6h.4  | De kandidaat kan het verschil tussen een open end en een closed end fonds benoemen en het gevolg van het verschil beschrijven.  | K  |
 | 6h.5  | De kandidaat kan op basis van een financiële bijsluiter aantonen welke kenmerken een beleggingsinstelling heeft.  | Tp  |
 |  *Eindterm*   | *6i:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit te leggen in welke objecten of financiële instrumenten beleggingsinstellingen beleggen, en wat de kenmerken en risico’s zijn van deze producten.  |
 | 6i.1  | De kandidaat kan de beleggingscategorieën van een strategische asset allocatie benoemen.  | K  |
 | 6i.2  | De kandidaat kan de verschillende beleggingscategorieën omschrijven.  | K  |
-| 6i.3  | De kandidaat kan benoemen welke vormen van financiële waarden onderdeel uitmaken van de beleggingscategorieën.  | Ti  |
+| 6i.3  | De kandidaat kan schetsen welke vormen van financiële waarden onderdeel uitmaken van de beleggingscategorieën.  | Ti  |
 | 6i.4  | De kandidaat kan de kenmerken van de beleggingscategorieën benoemen.  | K  |
 | 6i.5  | De kandidaat kan uitleggen wat het verband is tussen de beleggingscategorieën waarin wordt belegd en het profiel van de klant.  | B  |
 | 6i.6  | De kandidaat kan de kenmerken van fondsen met een hefboom uitleggen.  | B  |
@@ -623,8 +631,8 @@ G.Zalm
 | 6k.1  | De kandidaat kan een modelportefeuille categoriseren in een risicoprofiel.  | B  |
 | 6k.2  | De kandidaat kan concluderen of een beleggingsfonds past bij een gegeven risicoprofiel.  | B  |
 |  *Eindterm*   | *6l:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten de kenmerken en risico’s van financiële producten uit te leggen, waaronder, doch niet uitsluitend, het risico dat de consument tijdens of aan het einde van de looptijd een bijstorting moet doen of een restschuld overhoudt.  |
-| 6l.1  | De kandidaat kan de klant uitleggen wat de consequenties zijn van het niet behalen van het doelvermogen van de belegging.  | Ti  |
-| 6l.2  | De kandidaat kan de cliënt uitleggen dat beleggen het risico met zich meebrengt dat het einddoel niet gehaald wordt.  | Ti  |
+| 6l.1  | De kandidaat kan de klant schetsen wat de consequenties zijn van het niet behalen van het doelvermogen van de belegging.  | Ti  |
+| 6l.2  | De kandidaat kan de cliënt schetsen dat beleggen het risico met zich meebrengt dat het einddoel niet gehaald wordt.  | Ti  |
 |  *Eindterm*   | *6m:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten financiële producten met elkaar te vergelijken en bepalen of deze producten geschikt zijn voor een specifieke consument.  |
 | 6m.1  | De kandidaat kan concluderen of een financieel product met beleggingscomponent past bij de klant.  | B  |
 |  *Eindterm*   | *6n:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten, integriteitsdilemma’s tussen bedrijfsbelang en klantbelang te analyseren, af te wegen en deze afwegingen te verantwoorden.  |
@@ -636,10 +644,10 @@ G.Zalm
 |  *Eindterm*   | *7a:* De personen zijn in staat met betrekking tot het beheer en mutatie van de overeenkomst inzake financiële instrumenten alle vereiste gegevens op de juiste manier vast te leggen in het klantdossier zodat ten minste aan de regels van de externe toezichthouder is voldaan.  |
 | 7a.1  | De kandidaat kan de eisen die de toezichthouder stelt aan de minimum hoeveelheid informatie die wordt vastgelegd benoemen.  | K  |
 | 7a.2  | De kandidaat kan van elk van deze eisen uitleggen wat eronder wordt verstaan.  | B  |
-| 7a.3  | De kandidaat kan beoordelen of de klant voldoende informatie heeft gegeven om vast te leggen in het cliëntdossier.  | Ti  |
-| 7a.4  | De kandidaat kan in verschillende situaties aangeven wanneer er een actieve waarschuwing aan de orde is.  | Ti  |
+| 7a.3  | De kandidaat kan inschatten of de klant voldoende informatie heeft gegeven om vast te leggen in het cliëntdossier.  | Ti  |
+| 7a.4  | De kandidaat kan in verschillende situaties inschatten wanneer er een actieve waarschuwing aan de orde is.  | Ti  |
 |  *Eindterm*   | *7b:* De personen zijn in staat met betrekking tot de totstandkoming van transacties van financiële instrumenten vast te stellen of bijsturing van de portefeuille nodig is, gegeven het eerder vastgestelde risicoprofiel.  |
-| 7b.1  | De kandidaat kan aantonen wanneer er sprake is van afwijking van de samenstelling van de portefeuille ten opzichte van de gewenste portefeuille en welke actie hij moet ondernemen.  | Ti  |
+| 7b.1  | De kandidaat kan motiveren wanneer er sprake is van afwijking van de samenstelling van de portefeuille ten opzichte van de gewenste portefeuille en welke actie hij moet ondernemen.  | Ti  |
 | 7b.2  | De kandidaat kan scheefgroei in en rebalancing/herschikken van een portefeuille definiëren.  | K  |
 | 7b.3  | De kandidaat kan uitleggen waarom er bij scheefgroei gerebalanced moet worden.  | B  |
 |  *Eindterm*   | *7c:* De personen zijn in staat met betrekking tot het beheer en de mutatie van de overeenkomst inzake financiële instrumenten tijdens mutatiemomenten of door verstrekte informatie van de consument, te signaleren of een wijziging in de persoonlijke financiële situatie een wijziging betekent in het risicoprofiel van de consument, waardoor de strategische asset allocatie bijgesteld zou kunnen worden en andere passende financiële instrumenten kunnen worden geselecteerd.  |
@@ -649,7 +657,7 @@ G.Zalm
 | 7c.4  | De kandidaat kan op basis van uitspraken van de klant inschatten of er wijzigingen zijn in het cliëntprofiel.  | Ti  |
 | 7c.5  | De kandidaat kan de situaties benoemen waarin hij zijn klant moet vragen naar de veranderingen die van invloed zijn op het profiel.  | K  |
 |  *Eindterm*   | *7d:* De personen zijn in staat met betrekking tot het beheer en de mutatie van de overeenkomst inzake financiële instrumenten de onder c bedoelde wijzigingen te vertalen in een concreet advies over aanpassing van de strategische asset allocatie.  |
-| 7d.1  | De kandidaat kan aantonen wat het effect is van een wijziging in het profiel van de klant op het risicoprofiel van de klant.  | Ti  |
+| 7d.1  | De kandidaat kan schetsen wat het effect is van een wijziging in het profiel van de klant op het risicoprofiel van de klant.  | Ti  |
 | 7d.2  | De kandidaat kan uitleggen wat de klant moet doen wanneer er sprake is van een wijziging in zijn financiële situatie.  | B  |
 | 7d.3  | De kandidaat is in staat provisie- en vergoedingsregels uit te leggen aan de consument. De kandidaat is in staat de cliëntovereenkomst correct toe te passen.  | Ti  |
 
@@ -768,9 +776,9 @@ G.Zalm
 | 2a.1.30  | De kandidaat kan de kern van de dekking op een onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekering omschrijven.  | K  |
 | 2a.1.31  | De kandidaat kan de kern van de dekking op een onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekering omschrijven.  | K  |
 | 2a.1.32  | De kandidaat kan voor de specifieke situatie van de klant voor de onder 2a.1.5 tot en met 2a.1.10 genoemde particuliere bezitsverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
-| 2a.1.33  | De kandidaat kan voor de specifieke situatie van de klant voor de onder S.art2a.1.5 tot en met S.art2a.1.10 genoemde bedrijfsmatige bezitsverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
+| 2a.1.33  | De kandidaat kan voor de specifieke situatie van de klant voor de onder 2a.1.5 tot en met 2a.1.10 genoemde bedrijfsmatige bezitsverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
 | 2a.1.34  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een onder 2a.1.5 tot en met 2a.1.10 genoemde particuliere bezitsverzekering.  | Ti  |
-| 2a.1.35  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een onder S.art2a.1.5 tot en met S.art2a.1.10 genoemde bedrijfsmatige bezitsverzekering.  | Ti  |
+| 2a.1.35  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een onder 2a.1.5 tot en met 2a.1.10 genoemde bedrijfsmatige bezitsverzekering.  | Ti  |
 | 2a.1.36  | De kandidaat kan op hoofdlijnen het verschil in dekking omschrijven tussen de onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekeringen die een gemeenschappelijk(e) zaak of belang dekken.  | K  |
 | 2a.1.37  | De kandidaat kan op hoofdlijnen het verschil in dekking omschrijven tussen de onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekeringen die een gemeenschappelijk(e) zaak of belang dekken.  | K  |
 | 2a.1.38  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de beoordeling van het ter verzekering aangeboden risico en de bepaling van de hoogte van het benodigde verzekerde bedrag van een onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekering.  | B  |
@@ -807,7 +815,7 @@ G.Zalm
 |  *Eindterm*   | *3a:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen de mogelijke risico’s en verzekeringsvormen te verduidelijken.  |
 | 3a.1.1  | De kandidaat kan motiveren dat de bezitsrisico’s van de klant, uitgaande van diens verzekeringsbehoefte en -wensen, door de advisering van een of meerdere van de onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekeringen adequaat worden afgedekt.  | Ti  |
 | 3a.1.2  | De kandidaat kan motiveren dat de bezitsrisico’s van de klant, uitgaande van diens verzekeringsbehoefte en -wensen, door de advisering van een of meerdere van de onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekeringen adequaat worden afgedekt.  | Ti  |
-| 3a.1.3  | De kandidaat kan schetsen op welke wijze de onder S.art2a.1.5 tot en met S.art2a.1.27 genoemde particuliere bezitsverzekeringen en de onder toetstermen S.art2a.2, S.art2a.3, 2a.4, 2a.5 en 2a.6 genoemde particuliere verzekeringen op elkaar aansluiten.  | Ti  |
+| 3a.1.3  | De kandidaat kan schetsen op welke wijze de onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekeringen en de onder toetstermen 2a.2, 2a,3, 2a.4, 2a.5 en 2a.6 genoemde particuliere verzekeringen op elkaar aansluiten.  | Ti  |
 | 3a.1.4  | De kandidaat kan schetsen op welke wijze de onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekeringen en de onder toetstermen 2a.2, 2a.3, 2a.4, 2a.5 en 2a.6 genoemde bedrijfsmatige verzekeringen op elkaar aansluiten.  | Ti  |
 | 3a.1.5  | De kandidaat kan de gangbare begrippen uit een onder 2a.1.5 tot en met 2a.1.13 genoemde particuliere bezitsverzekering verklaren aan de klant.  | B  |
 | 3a.1.6  | De kandidaat kan de gangbare begrippen uit een onder 2a.1.5 tot en met 2a.1.13 genoemde bedrijfsmatige bezitsverzekering verklaren aan de klant.  | B  |
@@ -897,7 +905,7 @@ G.Zalm
 | 5a.1.5  | De kandidaat kan voor een schade op een onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekering beoordelen of een dekkingsbeperking of -uitsluiting van toepassing is.  | Tp  |
 | 5a.1.6  | De kandidaat kan voor een schade op een onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekering beoordelen of een dekkingsbeperking of -uitsluiting van toepassing is.  | Tp  |
 | 5a.1.7  | De kandidaat kan met behulp van de daarvoor benodigde gegevens beoordelen of een gegeven schade (inclusief kosten) gedekt is op een onder 2a.1.5 tot en met 2a.1.11 genoemde particuliere bezitsverzekering.  | Tp  |
-| 5a.1.8  | De kandidaat kan met behulp van de daarvoor benodigde gegevens beoordelen of een gegeven schade (inclusief kosten) gedekt is op een onder S.art2a.1.5 tot en met S.art2a.1.11 genoemde bedrijfsmatige bezitsverzekering.  | Tp  |
+| 5a.1.8  | De kandidaat kan met behulp van de daarvoor benodigde gegevens beoordelen of een gegeven schade (inclusief kosten) gedekt is op een onder 2a.1.5 tot en met 2a.1.11 genoemde bedrijfsmatige bezitsverzekering.  | Tp  |
 | 5a.1.9  | De kandidaat kan de principes omschrijven van een actief schaderegelingsbeleid voor een schade op een onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekering.  | K  |
 | 5a.1.10  | De kandidaat kan de principes omschrijven van een actief schaderegelingsbeleid voor een schade op een onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekering.  | K  |
 | 5a.1.11  | De kandidaat kan verdedigen wanneer de principes van een actief schaderegelingsbeleid geweld wordt aangedaan bij een schade op een onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekering.  | Ti  |
@@ -926,6 +934,13 @@ G.Zalm
 | 5c.1.2  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise op een onder 2a.1.5 tot en met 2a.1.11 genoemde bedrijfsmatige bezitsverzekering.  | B  |
 | 5c.1.3  | De kandidaat kan aan de particuliere klant uitleggen wat onder salvage wordt verstaan en hoe de salvageprocedure verloopt.  | B  |
 | 5c.1.4  | De kandidaat kan aan de bedrijfsmatige klant uitleggen wat onder salvage wordt verstaan en hoe de salvageprocedure verloopt.  | B  |
+|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  | --- |
+| 5d.1.1  | De kandidaat kan voor een onder 2a.1.5 tot en met 2a.1.11 genoemde particuliere bezitsverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
+| 5d.1.2  | De kandidaat kan voor een onder 2a.1.5 tot en met 2a.1.11 genoemde bedrijfsmatige bezitsverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
+| 5d.1.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.1.5 tot en met 2a.1.11 genoemde particuliere bezitsverzekering onjuist is.  | Ti  |
+| 5d.1.4  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.1.5 tot en met 2a.1.11 genoemde bedrijfsmatige bezitsverzekering onjuist is.  | Ti  |
+| 5d.1.5  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekering.  | B  |
+| 5d.1.6  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekering.  | B  |
 |  *Eindterm*   | *5e:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering met de cliënt op correcte wijze een meldingsformulier in te vullen.  |
 | 5e.1.1  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade op een onder 2a.1.05 tot en met 2a.1.27 genoemde particuliere bezitsverzekering.  | K  |
 | 5e.1.2  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade van een onder 2a.1.05 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekering.  | K  |
@@ -937,13 +952,6 @@ G.Zalm
 |  *Eindterm*   | *5g:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering op correcte wijze het meldingsformulier en overige informatie te verzenden aan de verzekeraar.  |
 | 5g.1.1  | De kandidaat kan voor een onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
 | 5g.1.2  | De kandidaat kan voor een onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
-|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  |
-| 5d.1.1  | De kandidaat kan voor een onder 2a.1.5 tot en met 2a.1.11 genoemde particuliere bezitsverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
-| 5d.1.2  | De kandidaat kan voor een onder 2a.1.5 tot en met 2a.1.11 genoemde bedrijfsmatige bezitsverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
-| 5d.1.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.1.5 tot en met 2a.1.11 genoemde particuliere bezitsverzekering onjuist is.  | Ti  |
-| 5d.1.4  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.1.5 tot en met 2a.1.11 genoemde bedrijfsmatige bezitsverzekering onjuist is.  | Ti  |
-| 5d.1.5  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.1.5 tot en met 2a.1.27 genoemde particuliere bezitsverzekering.  | B  |
-| 5d.1.6  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.1.5 tot en met 2a.1.27 genoemde bedrijfsmatige bezitsverzekering.  | B  |
 
 #### *b. Verkeer* 
 
@@ -1052,10 +1060,10 @@ G.Zalm
 |  *Eindterm*   | *3e:* De personen zijn in staat, met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen op correcte wijze een aanvraag te verzenden.  |
 | 3e.2.1  | De kandidaat kan voor een onder 2a.2.5 tot en met 2a.2.14 genoemde particuliere motorrijtuig- of aanverwante verzekering beoordelen of alle voor de aanvraag vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
 | 3e.2.2  | De kandidaat kan voor een onder 2a.2.5 tot en met 2a.2.14 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering beoordelen of alle voor de aanvraag vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
-|  *Eindterm*   | *4a:* De personen zijn in staat met betrekking tot beheer en mutatie van de overeenkomst inzake de schadeverzekeringen de cliënt tijdig te informeren over de acceptatiebeslissing n deze, en overige informatie vast te leggen.  |
+|  *Eindterm*   | *4a:* De personen zijn in staat met betrekking tot beheer en mutatie van de overeenkomst inzake de schadeverzekeringen de cliënt tijdig te informeren over de acceptatiebeslissing en deze, en overige informatie vast te leggen.  |
 | 4a.2.1  | De kandidaat kan beoordelen of de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) voor een onder 2a.2.5 tot en met 2a.2.10 genoemde particuliere motorrijtuig- of aanverwante verzekering aansluit op zijn eerdere inschatting van het ter verzekering aangeboden risico.  | Tp  |
 | 4a.2.2  | De kandidaat kan beoordelen of de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) voor een onder 2a.2.5 tot en met 2a.2.10 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering aansluit op zijn eerdere inschatting van het ter verzekering aangeboden risico.  | Tp  |
-| 4a.2.3  | De kandidaat kan de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) uitleggen voor een onder 2a.2.5 tot en met S.art2a.2.13 genoemde particuliere motorrijtuig- of aanverwante verzekering.  | B  |
+| 4a.2.3  | De kandidaat kan de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) uitleggen voor een onder 2a.2.5 tot en met 2a.2.13 genoemde particuliere motorrijtuig- of aanverwante verzekering.  | B  |
 | 4a.2.4  | De kandidaat kan de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) uitleggen voor een onder 2a.2.5 tot en met 2a.2.13 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering.  | B  |
 | 4a.2.5  | De kandidaat kan uitleggen uit welke bestanddelen (inclusief kosten en eventuele assurantiebelasting) de door de klant te betalen premie voor een particuliere motorrijtuig- of aanverwante verzekering bestaat.  | B  |
 | 4a.2.6  | De kandidaat kan uitleggen uit welke bestanddelen (inclusief kosten en eventuele assurantiebelasting) de door de klant te betalen premie voor een bedrijfsmatige motorrijtuig- of aanverwante verzekering bestaat.  | B  |
@@ -1113,6 +1121,13 @@ G.Zalm
 |  *Eindterm*   | *5c:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventueel een onafhankelijke deskundige in te schakelen.  |
 | 5c.2.1  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise op een onder 2a.2.5 tot en met 2a.2.14 genoemde particuliere motorrijtuig- of aanverwante verzekering.  | B  |
 | 5c.2.2  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise op een onder 2a.2.5 tot en met 2a.2.14 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering.  | B  |
+|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  | --- |
+| 5d.2.1  | De kandidaat kan voor een onder 2a.2.5 tot en met 2a.2.10 genoemde particuliere motorrijtuig- of aanverwante verzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde uitkering afwijkt van zijn eigen inschatting.  | Ti  |
+| 5d.2.2  | De kandidaat kan voor een onder 2a.2.5 tot en met 2a.2.10 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde uitkering afwijkt van zijn eigen inschatting.  | Ti  |
+| 5d.2.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.2.5 tot en met 2a.2.10 genoemde particuliere motorrijtuig- of aanverwante verzekering onjuist is.  | Ti  |
+| 5d.2.4  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.2.5 tot en met 2a.2.10 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering onjuist is.  | Ti  |
+| 5d.2.5  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.2.5 tot en met 2a.2.14 genoemde particuliere motorrijtuig- of aanverwante verzekering.  | B  |
+| 5d.2.6  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.2.5 tot en met 2a.2.14 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering.  | B  |
 |  *Eindterm*   | *5e:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering met de cliënt op correcte wijze een meldingsformulier in te vullen.  |
 | 5e.2.1  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade op een onder 2a.2.5 tot en met 2a.2.14 genoemde particuliere motorrijtuig- of aanverwante verzekering.  | K  |
 | 5e.2.2  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade van een onder 2a.2.5 tot en met 2a.2.14 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering.  | K  |
@@ -1124,13 +1139,6 @@ G.Zalm
 |  *Eindterm*   | *5g:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering op correcte wijze het meldingsformulier en overige informatie te verzenden aan de verzekeraar.  |
 | 5g.2.1  | De kandidaat kan voor een onder 2a.2.5 tot en met 2a.2.13 genoemde particuliere motorrijtuig- of aanverwante verzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
 | 5g.2.2  | De kandidaat kan voor een onder 2a.2.5 tot en met 2a.2.13 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
-|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  |
-| 5d.2.1  | De kandidaat kan voor een onder 2a.2.5 tot en met 2a.2.10 genoemde particuliere motorrijtuig- of aanverwante verzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde uitkering afwijkt van zijn eigen inschatting.  | Ti  |
-| 5d.2.2  | De kandidaat kan voor een onder 2a.2.5 tot en met 2a.2.10 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde uitkering afwijkt van zijn eigen inschatting.  | Ti  |
-| 5d.2.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.2.5 tot en met 2a.2.10 genoemde particuliere motorrijtuig- of aanverwante verzekering onjuist is.  | Ti  |
-| 5d.2.4  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.2.5 tot en met 2a.2.10 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering onjuist is.  | Ti  |
-| 5d.2.5  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.2.5 tot en met 2a.2.14 genoemde particuliere motorrijtuig- of aanverwante verzekering.  | B  |
-| 5d.2.6  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.2.5 tot en met 2a.2.14 genoemde bedrijfsmatige motorrijtuig- of aanverwante verzekering.  | B  |
 
 #### *c. Transport* 
 
@@ -1194,7 +1202,7 @@ G.Zalm
 | 3a.3.22  | De kandidaat kan beargumenteren waarom de verzekeraar in de situatie van de bedrijfsmatige klant de nachtrisicoclausule in de goederentransportverzekering opneemt.  | Ti  |
 | 3a.3.23  | De kandidaat kan het verband aangeven tussen de toepasselijke wegvervoercondities en de dekking van de vervoerdersaansprakelijkheidsverzekering.  | B  |
 | 3a.3.24  | De kandidaat kan het verband aangeven tussen de leveringsvoorwaarden en de goederentransportverzekering.  | B  |
-| 3a.3.25  | De kandidaat kan de bedrijfsmatige klant uitleggen wanneer het risico voor schade aan de vervoerde zaken van de verkoper op de koper overgaat bij de leveringsvoorwaarden CFR, CIF, CPT, DAF en franco.  | B  |
+| 3a.3.25  | De kandidaat kan de bedrijfsmatige klant uitleggen wanneer het risico voor schade aan de vervoerde zaken van de verkoper op de koper overgaat bij de leveringsvoorwaarden CFR, CIF, CPT, DAT, DAP en franco.  | B  |
 | 3a.3.26  | De kandidaat kan aan de bedrijfsmatige klant de functie van het verzekeringscertificaat bij een declaratiepolis uitleggen.  | B  |
 | 3a.3.27  | De kandidaat kan aan de hand van praktijksituaties aantonen welk gevolg het nieuwe verzekeringsrecht voor schadeverzekeringen met zich meebrengt.  | Tp  |
 |  *Eindterm*   | *3b:* De personen zijn in staat, met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen de premie te berekenen met behulp van de beschikbare informatie.  |
@@ -1263,6 +1271,13 @@ G.Zalm
 |  *Eindterm*   | *5c:* De personen zijn in staat met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventueel een onafhankelijke deskundige in te schakelen.  | --- |
 | 5c.3.1  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise op een pleziervaartuigverzekering.  | B  |
 | 5c.3.2  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise op een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering.  | B  |
+|  *Eindterm*   | *5d:* De personen zijn in staat met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt.  | --- |
+| 5d.3.1  | De kandidaat kan voor een pleziervaartuigverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
+| 5d.3.2  | De kandidaat kan voor een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
+| 5d.3.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een pleziervaartuigverzekering onjuist is.  | Ti  |
+| 5d.3.4  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering onjuist is.  | Ti  |
+| 5d.3.5  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een pleziervaartuigverzekering.  | B  |
+| 5d.3.6  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering.  | B  |
 |  *Eindterm*   | *5e:* De personen zijn in staat met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering met de cliënt op correcte wijze een meldingsformulier in te vullen.  |
 | 5e.3.1  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade op een pleziervaartuigverzekering.  | K  |
 | 5e.3.2  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade op een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering.  | K  |
@@ -1274,13 +1289,6 @@ G.Zalm
 |  *Eindterm*   | *5g:* De personen zijn in staat met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering op correcte wijze het meldingsformulier en overige informatie te verzenden aan de verzekeraar.  |
 | 5g.3.1  | De kandidaat kan voor een pleziervaartuigverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
 | 5g.3.2  | De kandidaat kan voor een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
-|  *Eindterm*   | *5d:* De personen zijn in staat met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt.  |
-| 5d.3.1  | De kandidaat kan voor een pleziervaartuigverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
-| 5d.3.2  | De kandidaat kan voor een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
-| 5d.3.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een pleziervaartuigverzekering onjuist is.  | Ti  |
-| 5d.3.4  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde schadevergoeding op een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering onjuist is.  | Ti  |
-| 5d.3.5  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een pleziervaartuigverzekering.  | B  |
-| 5d.3.6  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.3.4 tot en met 2a.3.6 genoemde transportverzekering.  | B  |
 
 #### *d. Aansprakelijkheid en rechtsbijstand* 
 
@@ -1299,11 +1307,11 @@ G.Zalm
 | 2a.4.10  | De kandidaat kan beoordelen welke belangen van de klant onder de dekking van een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- of rechtsbijstandverzekering kunnen worden geschaard.  | Tp  |
 | 2a.4.11  | De kandidaat kan beoordelen welke belangen van de klant onder de dekking van een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- of rechtsbijstandverzekering kunnen worden geschaard.  | Tp  |
 | 2a.4.12  | De kandidaat kan de kern van de dekking op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- of rechtsbijstandverzekering omschrijven.  | K  |
-| 2a.4.13  | De kandidaat kan de kern van de dekking op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrjifsmatige aansprakelijkheids- of rechtsbijstandverzekering omschrijven.  | K  |
+| 2a.4.13  | De kandidaat kan de kern van de dekking op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- of rechtsbijstandverzekering omschrijven.  | K  |
 | 2a.4.14  | De kandidaat kan voor de specifieke situatie van de klant voor de onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- of rechtsbijstandverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
 | 2a.4.15  | De kandidaat kan voor de specifieke situatie van de klant voor de onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- of rechtsbijstandverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
 | 2a.4.16  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- of rechtsbijstandverzekering.  | Ti  |
-| 2a.4.17  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een onder S.art2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | Ti  |
+| 2a.4.17  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | Ti  |
 | 2a.4.18  | De kandidaat kan uitleggen hoe de dekking van de aansprakelijkheidsverzekering voor particulieren en de rechtsbijstandverzekering op elkaar aansluiten.  | B  |
 | 2a.4.19  | De kandidaat kan uitleggen hoe de dekking van de aansprakelijkheidsverzekering voor bedrijven en de bedrijfsrechtsbijstandverzekering op elkaar aansluiten.  | B  |
 | 2a.4.20  | De kandidaat kan uitleggen hoe de dekking van de aansprakelijkheidsverzekering voor bedrijven en de beroepsaansprakelijkheidsverzekering op elkaar aansluiten.  | B  |
@@ -1332,7 +1340,7 @@ G.Zalm
 | 3a.4.5  | De kandidaat kan de gangbare begrippen uit een onder 2a.4.5 tot en met 2a.4.8 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering verklaren aan de klant.  | B  |
 | 3a.4.6  | De kandidaat kan de gangbare begrippen uit een onder 2a.4.5 tot en met 2a.4.8 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering verklaren aan de klant.  | B  |
 | 3a.4.7  | De kandidaat kan voor eenvoudige schadegevallen de dekking op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering omschrijven.  | K  |
-| 3a.4.8  | De kandidaat kan voor eenvoudige schadegevallen de dekking op een onder S.art2a.4.5 tot en met S.art2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering omschrijven.  | K  |
+| 3a.4.8  | De kandidaat kan voor eenvoudige schadegevallen de dekking op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering omschrijven.  | K  |
 | 3a.4.9  | De kandidaat kan voor de specifieke situatie van de klant uitleggen wanneer de dekking geheel of gedeeltelijk ontbreekt op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering, en kan de mogelijke gevolgen voor de aanspraak aangeven.  | B  |
 | 3a.4.10  | De kandidaat kan voor de specifieke situatie van de klant uitleggen wanneer de dekking geheel of gedeeltelijk ontbreekt op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering en kan de mogelijke gevolgen voor de aanspraak aangeven.  | B  |
 | 3a.4.11  | De kandidaat kan de gebruikelijke uitsluitingen noemen op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering.  | K  |
@@ -1357,7 +1365,7 @@ G.Zalm
 | 3c.4.1  | De kandidaat kan de benodigde gegevens selecteren voor het aanvragen van een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering.  | K  |
 | 3c.4.2  | De kandidaat kan de benodigde gegevens selecteren voor het aanvragen van een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | K  |
 | 3c.4.3  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de aanvraag van een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering.  | Ti  |
-| 3c.4.4  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de aanvraag van een onder S.art2a.4.5 tot en met S.art2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | Ti  |
+| 3c.4.4  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de aanvraag van een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | Ti  |
 |  *Eindterm*   | *3d:* De personen zijn in staat, met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen een ingevuld aanvraagformulier op juistheid te controleren.  |
 | 3d.4.1  | De kandidaat kan beoordelen of de gegevens op het aanvraagformulier van een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering juist zijn ingevuld.  | Tp  |
 | 3d.4.2  | De kandidaat kan beoordelen of de gegevens op het aanvraagformulier van een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering juist zijn ingevuld.  | Tp  |
@@ -1419,6 +1427,14 @@ G.Zalm
 |  *Eindterm*   | *5c:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventueel een onafhankelijke deskundige in te schakelen.  |
 | 5c.4.1  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een aanspraak, vordering of expertise op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering.  | B  |
 | 5c.4.2  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een aanspraak, vordering of expertise op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | B  |
+|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  | --- |
+| 5d.4.1  | De kandidaat kan voor een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering beargumenteren waarom en/of op welke punten het door de verzekeraar ingenomen standpunt afwijkt van zijn eigen inschatting.  | Ti  |
+| 5d.4.2  | De kandidaat kan voor een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering beargumenteren waarom en/of op welke punten het door de verzekeraar ingenomen standpunt afwijkt van zijn eigen inschatting.  | Ti  |
+| 5d.4.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom het door de verzekeraar ingenomen standpunt op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering onjuist is.  | Ti  |
+| 5d.4.4  | De kandidaat kan bij een verschil van inzicht verdedigen waarom het door de verzekeraar ingenomen standpunt op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering onjuist is.  | Ti  |
+| 5d.4.5  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering.  | B  |
+| 5d.4.6  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | B  |
+| 5d.4.7  | De kandidaat kan uitleggen waarom een rechtsbijstandverzekeraar in bepaalde gevallen geen rechtsbijstand verleent, maar de vordering rechtstreeks met de particuliere klant regelt.  | B  |
 |  *Eindterm*   | *5e:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering met de cliënt op correcte wijze een meldingsformulier in te vullen.  |
 | 5e.4.1  | De kandidaat kan de benodigde gegevens selecteren voor de melding van een aanspraak of vordering op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering.  | K  |
 | 5e.4.2  | De kandidaat kan de benodigde gegevens selecteren voor de melding van een aanspraak of vordering op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | K  |
@@ -1430,14 +1446,6 @@ G.Zalm
 |  *Eindterm*   | *5g:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering op correcte wijze het meldingsformulier en overige informatie te verzenden aan de verzekeraar.  |
 | 5g.4.1  | De kandidaat kan voor een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
 | 5g.4.2  | De kandidaat kan voor een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
-|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  |
-| 5d.4.1  | De kandidaat kan voor een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering beargumenteren waarom en/of op welke punten het door de verzekeraar ingenomen standpunt afwijkt van zijn eigen inschatting.  | Ti  |
-| 5d.4.2  | De kandidaat kan voor een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering beargumenteren waarom en/of op welke punten het door de verzekeraar ingenomen standpunt afwijkt van zijn eigen inschatting.  | Ti  |
-| 5d.4.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom het door de verzekeraar ingenomen standpunt op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering onjuist is.  | Ti  |
-| 5d.4.4  | De kandidaat kan bij een verschil van inzicht verdedigen waarom het door de verzekeraar ingenomen standpunt op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering onjuist is.  | Ti  |
-| 5d.4.5  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.4.5 tot en met 2a.4.9 genoemde particuliere aansprakelijkheids- en rechtsbijstandverzekering.  | B  |
-| 5d.4.6  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering op een onder 2a.4.5 tot en met 2a.4.9 genoemde bedrijfsmatige aansprakelijkheids- en rechtsbijstandverzekering.  | B  |
-| 5d.4.7  | De kandidaat kan uitleggen waarom een rechtsbijstandverzekeraar in bepaalde gevallen geen rechtsbijstand verleent, maar de vordering rechtstreeks met de particuliere klant regelt.  | B  |
 
 #### *e. Inkomen en arbeidsongeschiktheid* 
 
@@ -1456,15 +1464,15 @@ G.Zalm
 | 2a.5.10  | De kandidaat kan kort het belang van de in het verzekeringsbedrijf meest gebruikelijke persoonlijke of gezinsongevallenverzekering schetsen voor de specifieke situatie van de particuliere klant.  | Ti  |
 | 2a.5.11  | De kandidaat kan kort het belang van de in het verzekeringsbedrijf meest gebruikelijke collectieve ongevallenverzekering schetsen voor de specifieke situatie van de bedrijfsmatige klant.  | Ti  |
 | 2a.5.12  | De kandidaat kan kort het belang van de in het verzekeringsbedrijf meest gebruikelijke ziekteverzuimverzekering schetsen voor de specifieke situatie van de bedrijfsmatige klant.  | Ti  |
-| 2a.5.13  | De kandidaat kan kort het belang van de in het verzekeringsbedrijf meest gebruikelijke eigenrisicodragersverzekering schetsen voor de specifieke situatie van de bedrijfsmatige klant.  | Ti  |
-| 2a.5.15  | De kandidaat kan beoordelen welke belangen van de klant onder de dekking van een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- of ongevallenverzekering kunnen worden geschaard.  | Tp  |
-| 2a.5.16  | De kandidaat kan beoordelen welke belangen van de klant onder de dekking van een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- of ongevallenverzekering kunnen worden geschaard.  | Tp  |
-| 2a.5.17  | De kandidaat kan de kern van de dekking op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- of ongevallenverzekering omschrijven.  | K  |
-| 2a.5.18  | De kandidaat kan de kern van de dekking op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrjifsmatige arbeidsongeschiktheids- of ongevallenverzekering omschrijven.  | K  |
-| 2a.5.19  | De kandidaat kan voor de specifieke situatie van de klant voor de onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- of ongevallenverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
-| 2a.5.20  | De kandidaat kan voor de specifieke situatie van de klant voor de onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- of ongevallenverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
-| 2a.5.21  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- of ongevallenverzekering.  | Ti  |
-| 2a.5.22  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
+| 2a.5.13  | De kandidaat kan kort het belang van de in het verzekeringsbedrijf meest gebruikelijke WGA eigenrisicodragersverzekering schetsen voor de specifieke situatie van de bedrijfsmatige klant.  | Ti  |
+| 2a.5.15  | De kandidaat kan beoordelen welke belangen van de klant onder de dekking van een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- of ongevallenverzekering kunnen worden geschaard.  | Tp  |
+| 2a.5.16  | De kandidaat kan beoordelen welke belangen van de klant onder de dekking van een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- of ongevallenverzekering kunnen worden geschaard.  | Tp  |
+| 2a.5.17  | De kandidaat kan de kern van de dekking op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- of ongevallenverzekering omschrijven.  | K  |
+| 2a.5.18  | De kandidaat kan de kern van de dekking op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- of ongevallenverzekering omschrijven.  | K  |
+| 2a.5.19  | De kandidaat kan voor de specifieke situatie van de klant voor de onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- of ongevallenverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
+| 2a.5.20  | De kandidaat kan voor de specifieke situatie van de klant voor de onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- of ongevallenverzekeringen afwijkende risico’s en/of risicoverzwarende factoren schetsen.  | Ti  |
+| 2a.5.21  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- of ongevallenverzekering.  | Ti  |
+| 2a.5.22  | De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject van een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
 | 2a.5.23  | De kandidaat kan op hoofdlijnen het verschil in dekking omschrijven tussen de in het verzekeringbedrijf gebruikelijke collectieve ongevallenverzekering voor bedrijven en de collectieve ongevallenverzekering voor verenigingen.  | K  |
 | 2a.5.24  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de beoordeling van het ter verzekering aangeboden risico en de bepaling van de hoogte van het benodigde verzekerde bedrag van een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
 | 2a.5.25  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de beoordeling van het ter verzekering aangeboden risico en de bepaling van de hoogte van het benodigde verzekerde bedrag van een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | --- | B  |
@@ -1486,16 +1494,16 @@ G.Zalm
 |  *Eindterm*   | *3a:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen de mogelijke risico’s en verzekeringsvormen te verduidelijken.  |
 | 3a.5.1  | De kandidaat kan motiveren dat de arbeidsongeschiktheids- en ongevalsrisico’s van de klant, uitgaande van diens verzekeringsbehoefte en -⁠wensen, door de advisering van een of meerdere van de onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekeringen adequaat worden afgedekt.  | Ti  |
 | 3a.5.2  | De kandidaat kan motiveren dat de arbeidsongeschiktheids- en ongevalsrisico’s van de klant, uitgaande van diens verzekeringsbehoefte en -⁠wensen, door de advisering van een of meerdere van de onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekeringen adequaat worden afgedekt.  | Ti  |
-| 3a.5.3  | De kandidaat kan schetsen op welke wijze de onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekeringen en de onder toetstermen 2a.1, 2a.2, 2a.3, 2a.4 en 2a.6 genoemde particuliere verzekeringen op elkaar aansluiten.  | Ti  |
-| 3a.5.4  | De kandidaat kan schetsen op welke wijze de onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekeringen en de onder toetstermen 2a.1, 2a.2, 2a.3, 2a.4 en 2a.6 genoemde bedrijfsmatige verzekeringen op elkaar aansluiten.  | Ti  |
+| 3a.5.3  | De kandidaat kan schetsen op welke wijze de onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekeringen en de onder toetstermen 2a.1, 2a.2, 2a.3, 2a.4 en 2a.6 genoemde particuliere verzekeringen op elkaar aansluiten.  | Ti  |
+| 3a.5.4  | De kandidaat kan schetsen op welke wijze de onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekeringen en de onder toetstermen 2a.1, 2a.2, 2a.3, 2a.4 en 2a.6 genoemde bedrijfsmatige verzekeringen op elkaar aansluiten.  | Ti  |
 | 3a.5.5  | De kandidaat kan de gangbare begrippen uit een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering verklaren aan de klant.  | B  |
 | 3a.5.6  | De kandidaat kan de gangbare begrippen uit een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering verklaren aan de klant.  | B  |
 | 3a.5.7  | De kandidaat kan voor eenvoudige schadegevallen de dekking op een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering omschrijven.  | K  |
 | 3a.5.8  | De kandidaat kan voor eenvoudige schadegevallen de dekking op een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering omschrijven.  | K  |
 | 3a.5.9  | De kandidaat kan voor de specifieke situatie van de klant uitleggen wanneer de dekking geheel of gedeeltelijk ontbreekt op een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering, en kan de mogelijke gevolgen voor de uitkering aangeven.  | B  |
 | 3a.5.10  | De kandidaat kan voor de specifieke situatie van de klant uitleggen wanneer de dekking geheel of gedeeltelijk ontbreekt op een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering en kan de mogelijke gevolgen voor de uitkering aangeven.  | B  |
-| 3a.5.11  | De kandidaat kan de gebruikelijke uitsluitingen noemen op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
-| 3a.5.12  | De kandidaat kan de gebruikelijke uitsluitingen noemen op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
+| 3a.5.11  | De kandidaat kan de gebruikelijke uitsluitingen noemen op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
+| 3a.5.12  | De kandidaat kan de gebruikelijke uitsluitingen noemen op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
 | 3a.5.13  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering de meest gangbare (dekkingsbeperkende) clausules en eigen risico’s omschrijven.  | K  |
 | 3a.5.14  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering de meest gangbare (dekkingsbeperkende) clausules en eigen risico’s omschrijven.  | K  |
 | 3a.5.15  | De kandidaat kan uitleggen of, op welk moment en voor welk bedrag de klant een beroep kan doen op een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
@@ -1517,88 +1525,77 @@ G.Zalm
 |  *Eindterm*   | *3b:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen de premie te berekenen met behulp van de beschikbare informatie.  |
 | 3b.5.1  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de berekening van de premie van een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
 | 3b.5.2  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de berekening van de premie van een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
-| 3b.5.3  | De kandidaat kan aan de klant uitleggen uit welke standaardcomponenten de premie voor een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering bestaat.  | B  |
-| 3b.5.4  | De kandidaat kan aan de klant uitleggen uit welke standaardcomponenten de premie voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering bestaat.  | B  |
+| 3b.5.3  | De kandidaat kan aan de klant uitleggen uit welke standaardcomponenten de premie voor een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering bestaat.  | B  |
+| 3b.5.4  | De kandidaat kan aan de klant uitleggen uit welke standaardcomponenten de premie voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering bestaat.  | B  |
 | 3b.5.5  | De kandidaat kan met behulp van alle daarvoor benodigde gegevens het principe van premieberekening toepassen door te rekenen met een promillage/percentage, een vast bedrag in euro’s, of via inschaling in een tabel(lenstelsel).  | Tp  |
 | 3b.5.6  | De kandidaat kan voor de zelfstandig ondernemer met behulp van alle benodigde gegevens de premie van een arbeidsongeschiktheidverzekering berekenen.  | Tp  |
 |  *Eindterm*   | *3c:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen met de cliënt op correcte wijze een aanvraagformulier in te vullen.  |
-| 3c.5.1  | De kandidaat kan de benodigde gegevens selecteren voor het aanvragen van een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
-| 3c.5.2  | De kandidaat kan de benodigde gegevens selecteren voor het aanvragen van een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
-| 3c.5.3  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de verzekeringsaanvraag van een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
-| 3c.5.4  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de verzekeringsaanvraag van een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
+| 3c.5.1  | De kandidaat kan de benodigde gegevens selecteren voor het aanvragen van een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
+| 3c.5.2  | De kandidaat kan de benodigde gegevens selecteren voor het aanvragen van een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
+| 3c.5.3  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de verzekeringsaanvraag van een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
+| 3c.5.4  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de verzekeringsaanvraag van een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
 |  *Eindterm*   | *3d:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen een ingevuld aanvraagformulier op juistheid te controleren.  |
-| 3d.5.1  | De kandidaat kan beoordelen of de gegevens op het aanvraagformulier van een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering juist zijn ingevuld.  | Tp  |
-| 3d.5.2  | De kandidaat kan beoordelen of de gegevens op het aanvraagformulier van een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering juist zijn ingevuld.  | Tp  |
+| 3d.5.1  | De kandidaat kan beoordelen of de gegevens op het aanvraagformulier van een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering juist zijn ingevuld.  | Tp  |
+| 3d.5.2  | De kandidaat kan beoordelen of de gegevens op het aanvraagformulier van een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering juist zijn ingevuld.  | Tp  |
 |  *Eindterm*   | *3e:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen op correcte wijze een aanvraag te verzenden.  |
 | 3e.5.1  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering beoordelen of alle voor de aanvraag vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
 | 3e.5.2  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering beoordelen of alle voor de aanvraag vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
 |  *Eindterm*   | *4a:* De personen zijn in staat, met betrekking tot beheer en mutatie van de overeenkomst inzake de schadeverzekeringen de cliënt tijdig te informeren over de acceptatiebeslissing en deze, en overige informatie vast te leggen.  |
 | 4a.5.1  | De kandidaat kan beoordelen of de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) voor een onder 2a.5.5 tot en met 2a.5.11 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering aansluit op zijn (eerdere) inschatting van het ter verzekering aangeboden risico.  | Tp  |
 | 4a.5.2  | De kandidaat kan beoordelen of de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) voor een onder 2a.5.5 tot en met 2a.5.11 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering aansluit op zijn (eerdere) inschatting van het ter verzekering aangeboden risico.  | Tp  |
-| 4a.5.3  | De kandidaat kan de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) uitleggen voor een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
-| 4a.5.4  | De kandidaat kan de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) uitleggen voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 4a.5.3  | De kandidaat kan de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) uitleggen voor een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 4a.5.4  | De kandidaat kan de acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) uitleggen voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
 | 4a.5.5  | De kandidaat kan aan de kandidaat-verzekerde uitleggen waarom hij door de verzekeraar wordt opgeroepen voor een medische keuring en welke personen hierbij een rol spelen.  | B  |
 | 4a.5.6  | De kandidaat kan uitleggen uit welke bestanddelen (inclusief kosten) de door de klant te betalen premie voor een particuliere arbeidsongeschiktheids- en ongevallenverzekering bestaat.  | B  |
 | 4a.5.7  | De kandidaat kan uitleggen uit welke bestanddelen (inclusief kosten) de door de klant te betalen premie voor een bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering bestaat.  | B  |
 | 4a.5.8  | De kandidaat kan aan de klant uitleggen uit welke bestanddelen zijn beloning bestaat.  | B  |
 |  *Eindterm*   | *4b:* De personen zijn in staat, met betrekking tot beheer en mutatie van de overeenkomst inzake de schadeverzekeringen de polisdocumenten en overige informatie op juistheid te controleren, te verzenden aan de cliënt en vast te leggen.  |
-| 4b.5.1  | De kandidaat kan beoordelen of de gegevens in de polis en eventuele overige bescheiden van een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering juist zijn.  | Tp  |
-| 4b.5.2  | De kandidaat kan beoordelen of de gegevens in de polis en eventuele overige bescheiden van een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering juist zijn.  | Tp  |
+| 4b.5.1  | De kandidaat kan beoordelen of de gegevens in de polis en eventuele overige bescheiden van een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering juist zijn.  | Tp  |
+| 4b.5.2  | De kandidaat kan beoordelen of de gegevens in de polis en eventuele overige bescheiden van een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering juist zijn.  | Tp  |
 |  *Eindterm*   | *4c:* De personen zijn in staat, met betrekking tot beheer en mutatie van de overeenkomst inzake de schadeverzekeringen het advies te wijzigen, om aan te sluiten bij de gewijzigde persoonlijke situatie van de cliënt.  |
-| 4c.5.1  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bestaande particuliere arbeidsongeschiktheids- en ongevallenverzekering aan de klant de gevolgen voor de dekking of verzekering uitleggen van een wijziging in de situatie van de klant.  | B  |
-| 4c.5.2  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bestaande bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering aan de klant de gevolgen voor de dekking of verzekering uitleggen van een wijziging in de situatie van de klant.  | B  |
-| 4c.5.3  | De kandidaat kan in specifieke situaties voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bestaande particuliere arbeidsongeschiktheids- en ongevallenverzekering het belang schetsen van een voorgestelde wijziging van de verzekering.  | Ti  |
-| 4c.5.4  | De kandidaat kan in specifieke situaties voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bestaande bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering het belang schetsen van een voorgestelde wijziging van de verzekering.  | Ti  |
-| 4c.5.5  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bestaande collectieve arbeidsongeschiktheids- en ongevallenverzekering omschrijven welke gevolgen een verhoogde schadelast kan hebben op de premie en/of voorwaarden van de verzekering.  | K  |
+| 4c.5.1  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bestaande particuliere arbeidsongeschiktheids- en ongevallenverzekering aan de klant de gevolgen voor de dekking of verzekering uitleggen van een wijziging in de situatie van de klant.  | B  |
+| 4c.5.2  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bestaande bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering aan de klant de gevolgen voor de dekking of verzekering uitleggen van een wijziging in de situatie van de klant.  | B  |
+| 4c.5.3  | De kandidaat kan in specifieke situaties voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bestaande particuliere arbeidsongeschiktheids- en ongevallenverzekering het belang schetsen van een voorgestelde wijziging van de verzekering.  | Ti  |
+| 4c.5.4  | De kandidaat kan in specifieke situaties voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bestaande bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering het belang schetsen van een voorgestelde wijziging van de verzekering.  | Ti  |
+| 4c.5.5  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bestaande collectieve arbeidsongeschiktheids- en ongevallenverzekering omschrijven welke gevolgen een verhoogde schadelast kan hebben op de premie en/of voorwaarden van de verzekering.  | K  |
 | 4c.5.6  | De kandidaat kan voor de specifieke situatie van de klant motiveren of en wanneer het oversluiten of beëindigen van een particuliere arbeidsongeschiktheids- en ongevallenverzekering zinvol is.  | Ti  |
 | 4c.5.7  | De kandidaat kan voor de specifieke situatie van de klant motiveren of en wanneer het oversluiten of beëindigen van een bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering zinvol is.  | Ti  |
 |  *Eindterm*   | *4d:* De personen zijn in staat, met betrekking tot beheer en mutatie van de overeenkomst inzake de schadeverzekeringen de gewenste wijzigingen op bestaande schadeverzekering te verzenden aan de verzekeraar en deze na acceptatie en ontvangst op juistheid te controleren en vast te leggen.  |
-| 4d.5.1  | De kandidaat kan beoordelen of de gewijzigde gegevens in de polis of het polisaanhangsel van een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering juist zijn.  | Tp  |
-| 4d.5.2  | De kandidaat kan beoordelen of de gewijzigde gegevens in de polis of het polisaanhangsel van een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering juist zijn.  | Tp  |
-| 4d.5.3  | De kandidaat kan op basis van de oorspronkelijke premie en de gewijzigde premie de restitutie resp. suppletie als gevolg van een wijziging van een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering berekenen.  | Tp  |
-| 4d.5.4  | De kandidaat kan op basis van de oorspronkelijke premie en de gewijzigde premie de restitutie resp. suppletie als gevolg van een wijziging op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering berekenen.  | Tp  |
+| 4d.5.1  | De kandidaat kan beoordelen of de gewijzigde gegevens in de polis of het polisaanhangsel van een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering juist zijn.  | Tp  |
+| 4d.5.2  | De kandidaat kan beoordelen of de gewijzigde gegevens in de polis of het polisaanhangsel van een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering juist zijn.  | Tp  |
+| 4d.5.3  | De kandidaat kan op basis van de oorspronkelijke premie en de gewijzigde premie de restitutie resp. suppletie als gevolg van een wijziging van een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering berekenen.  | Tp  |
+| 4d.5.4  | De kandidaat kan op basis van de oorspronkelijke premie en de gewijzigde premie de restitutie resp. suppletie als gevolg van een wijziging op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering berekenen.  | Tp  |
 |  *Eindterm*   | *5a:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering de cliënt te adviseren en diens belangen te bewaken in de contacten met de verzekeraar.  |
-| 5a.5.1  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering de stappen in de schadebehandelingsprocedure (inclusief de vaststelling van de mate van arbeidsongeschiktheid of invaliditeit) beschrijven.  | K  |
-| 5a.5.2  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering de stappen in de schadebehandelingsprocedure (inclusief de vaststelling van de mate van arbeidsongeschiktheid of invaliditeit) beschrijven.  | K  |
+| 5a.5.1  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering de stappen in de schadebehandelingsprocedure (inclusief de vaststelling van de mate van arbeidsongeschiktheid of invaliditeit) beschrijven.  | K  |
+| 5a.5.2  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering de stappen in de schadebehandelingsprocedure (inclusief de vaststelling van de mate van arbeidsongeschiktheid of invaliditeit) beschrijven.  | K  |
 | 5a.5.3  | De kandidaat kan aan de particuliere klant uitleggen welke personen, bedrijven en instanties bij het schadebehandelingsproces (kunnen) zijn betrokken na het ontstaan van arbeidsongeschiktheid of plaatsvinden van een ongeval.  | B  |
 | 5a.5.4  | De kandidaat kan aan de bedrijfsmatige klant uitleggen welke personen, bedrijven en instanties bij het schadebehandelingsproces (kunnen) zijn betrokken na het ontstaan van arbeidsongeschiktheid of plaatsvinden van een ongeval.  | B  |
 | 5a.5.5  | De kandidaat kan voor een eenvoudige schade op een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering beoordelen of een dekkingsbeperking of -uitsluiting van toepassing is.  | Tp  |
 | 5a.5.6  | De kandidaat kan voor een eenvoudige schade op een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering beoordelen of een dekkingsbeperking of -uitsluiting van toepassing is.  | Tp  |
 | 5a.5.7  | De kandidaat kan met behulp van de daarvoor benodigde gegevens beoordelen of een gegeven schade gedekt is op een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | Tp  |
 | 5a.5.8  | De kandidaat kan met behulp van de daarvoor benodigde gegevens beoordelen of een gegeven schade gedekt is op een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Tp  |
-| 5a.5.9  | De kandidaat kan de principes omschrijven van een actief schaderegelingsbeleid voor een schade op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
-| 5a.5.10  | De kandidaat kan de principes omschrijven van een actief schaderegelingsbeleid voor een schade op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
-| 5a.5.11  | De kandidaat kan verdedigen wanneer de principes van een actief schaderegelingsbeleid geweld wordt aangedaan bij een schade op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
-| 5a.5.12  | De kandidaat kan verdedigen wanneer de principes van een actief schaderegelingsbeleid geweld wordt aangedaan bij een schade op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
-| 5a.5.13  | De kandidaat kan beoordelen of er sprake is van samenloop op de onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekeringen.  | Tp  |
-| 5a.5.14  | De kandidaat kan beoordelen of er sprake is van samenloop op de onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekeringen.  | Tp  |
-| 5a.5.15  | De kandidaat kan aan de klant uitleggen wat onder samenloop wordt verstaan en de gevolgen daarvan aangeven voor de schadeafwikkeling op de onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekeringen.  | B  |
-| 5a.5.16  | De kandidaat kan aan de klant uitleggen wat onder samenloop wordt verstaan en de gevolgen daarvan aangeven voor de schadeafwikkeling op de onder2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekeringen.  | B  |
-| 5a.5.17  | De kandidaat kan de algemene verplichtingen van de klant uitleggen bij de melding van arbeidsongeschiktheid of een ongeval op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
-| 5a.5.18  | De kandidaat kan de algemene verplichtingen van de klant uitleggen bij de melding van arbeidsongeschiktheid of een ongeval op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
-| 5a.5.19  | De kandidaat kan voor de specifieke situatie van de klant de mogelijke maatregelen uitleggen ter beperking van de (financiële) gevolgen van arbeidsongeschiktheid of een ongeval op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
-| 5a.5.20  | De kandidaat kan voor de specifieke situatie van de klant de mogelijke maatregelen uitleggen ter beperking van de (financiële) gevolgen van arbeidsongeschiktheid of een ongeval op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 5a.5.9  | De kandidaat kan de principes omschrijven van een actief schaderegelingsbeleid voor een schade op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
+| 5a.5.10  | De kandidaat kan de principes omschrijven van een actief schaderegelingsbeleid voor een schade op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
+| 5a.5.11  | De kandidaat kan verdedigen wanneer de principes van een actief schaderegelingsbeleid geweld wordt aangedaan bij een schade op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
+| 5a.5.12  | De kandidaat kan verdedigen wanneer de principes van een actief schaderegelingsbeleid geweld wordt aangedaan bij een schade op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
+| 5a.5.13  | De kandidaat kan beoordelen of er sprake is van samenloop op de onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekeringen.  | Tp  |
+| 5a.5.14  | De kandidaat kan beoordelen of er sprake is van samenloop op de onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekeringen.  | Tp  |
+| 5a.5.15  | De kandidaat kan aan de klant uitleggen wat onder samenloop wordt verstaan en de gevolgen daarvan aangeven voor de schadeafwikkeling op de onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekeringen.  | B  |
+| 5a.5.16  | De kandidaat kan aan de klant uitleggen wat onder samenloop wordt verstaan en de gevolgen daarvan aangeven voor de schadeafwikkeling op de onder2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekeringen.  | B  |
+| 5a.5.17  | De kandidaat kan de algemene verplichtingen van de klant uitleggen bij de melding van arbeidsongeschiktheid of een ongeval op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 5a.5.18  | De kandidaat kan de algemene verplichtingen van de klant uitleggen bij de melding van arbeidsongeschiktheid of een ongeval op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 5a.5.19  | De kandidaat kan voor de specifieke situatie van de klant de mogelijke maatregelen uitleggen ter beperking van de (financiële) gevolgen van arbeidsongeschiktheid of een ongeval op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 5a.5.20  | De kandidaat kan voor de specifieke situatie van de klant de mogelijke maatregelen uitleggen ter beperking van de (financiële) gevolgen van arbeidsongeschiktheid of een ongeval op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
 | 5a.5.21  | De kandidaat kan op hoofdlijnen beschrijven welke verhaalsmogelijkheden de bedrijfsmatige klant heeft wanneer een derde aansprakelijk is voor de arbeidsongeschiktheid van een van zijn werknemers.  | K  |
 |  *Eindterm*   | *5b:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering de cliënt te informeren over de mogelijke aanspraak op vergoeding en de benodigde gegevens te verwerken.  |
-| 5b.5.1  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de arbeidsongeschiktheids- of ongevalsmelding op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
-| 5b.5.2  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de arbeidsongeschiktheids- of ongevalsmelding op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 5b.5.1  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de arbeidsongeschiktheids- of ongevalsmelding op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 5b.5.2  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de arbeidsongeschiktheids- of ongevalsmelding op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
 | 5b.5.3  | De kandidaat kan aan de hand van alle benodigde gegevens voor een eenvoudige schade de mogelijke uitkering berekenen op een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | Tp  |
 | 5b.5.4  | De kandidaat kan aan de hand van alle benodigde gegevens voor een eenvoudige schade de mogelijke uitkering berekenen op een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Tp  |
 |  *Eindterm*   | *5c:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventueel een onafhankelijke deskundige in te schakelen.  |
-| 5c.5.1  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise/beoordeling op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
-| 5c.5.2  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise/beoordeling op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
-|  *Eindterm*   | *5e:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering met de cliënt op correcte wijze een meldingsformulier in te vullen.  |
-| 5e.5.1  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
-| 5e.5.2  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade van een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
-| 5e.5.3  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de schadeaangifte op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
-| 5e.5.4  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de schadeaangifte op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
-|  *Eindterm*   | *5f:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering een ingevuld meldingsformulier op juistheid te controleren.  |
-| 5f.5.1  | De kandidaat kan beoordelen of de gegevens van de schadeaangifte op een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering juist zijn ingevuld.  | Tp  |
-| 5f.5.2  | De kandidaat kan beoordelen of de gegevens van de schadeaangifte op een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering juist zijn ingevuld.  | Tp  |
-|  *Eindterm*   | *5g:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering op correcte wijze het meldingsformulier en overige informatie te verzenden aan de verzekeraar.  |
-| 5g.5.1  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
-| 5g.5.2  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.14 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
-|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  |
+| 5c.5.1  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise/beoordeling op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+| 5c.5.2  | De kandidaat kan aan de klant uitleggen welke personen en organisaties betrokken zijn bij een schade en/of expertise/beoordeling op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | B  |
+|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  | --- |
 | 5d.5.1  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
 | 5d.5.2  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.12 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde schadevergoeding afwijkt van zijn eigen inschatting.  | Ti  |
 | 5d.5.3  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde uitkering op een onder 2a.5.5 tot en met 2a.5.12 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering onjuist is.  | Ti  |
@@ -1609,6 +1606,17 @@ G.Zalm
 | 5d.5.8  | De kandidaat kan met behulp van alle benodigde gegevens aan de bedrijfsmatige klant uitleggen hoe de wettelijke arbeidsongeschiktheidsuitkering is samengesteld.  | B  |
 | 5d.5.9  | De kandidaat kan aan de klant de premievrijstellingsregeling bij arbeidsongeschiktheid uitleggen.  | B  |
 | 5d.5.10  | De kandidaat kan motiveren waarom bepaalde kosten aanvullend kunnen worden vergoed op de arbeidsongeschiktheids- of ongevallenverzekering.  | Ti  |
+|  *Eindterm*   | *5e:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering met de cliënt op correcte wijze een meldingsformulier in te vullen.  |
+| 5e.5.1  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
+| 5e.5.2  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade van een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | K  |
+| 5e.5.3  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de schadeaangifte op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
+| 5e.5.4  | De kandidaat kan het belang van de benodigde gegevens motiveren voor de schadeaangifte op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering.  | Ti  |
+|  *Eindterm*   | *5f:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering een ingevuld meldingsformulier op juistheid te controleren.  |
+| 5f.5.1  | De kandidaat kan beoordelen of de gegevens van de schadeaangifte op een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering juist zijn ingevuld.  | Tp  |
+| 5f.5.2  | De kandidaat kan beoordelen of de gegevens van de schadeaangifte op een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering juist zijn ingevuld.  | Tp  |
+|  *Eindterm*   | *5g:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering op correcte wijze het meldingsformulier en overige informatie te verzenden aan de verzekeraar.  |
+| 5g.5.1  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.13 genoemde particuliere arbeidsongeschiktheids- en ongevallenverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
+| 5g.5.2  | De kandidaat kan voor een onder 2a.5.5 tot en met 2a.5.13 genoemde bedrijfsmatige arbeidsongeschiktheids- en ongevallenverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
 
 #### *f. Gezondheidszorg en zorg* 
 
@@ -1643,7 +1651,7 @@ G.Zalm
 |  *Eindterm*   | *3a:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over de schadeverzekeringen de mogelijke risico’s en verzekeringsvormen te verduidelijken.  |
 | 3a.6.1  | De kandidaat kan motiveren dat de ziektekostenrisico’s van de klant, uitgaande van diens verzekeringsbehoefte en -wensen, door de Zvw-verzekering en de advisering van de aanvullende zorgverzekering adequaat worden afgedekt.  | Ti  |
 | 3a.6.2  | De kandidaat kan schetsen op welke wijze de onder 2a.6 genoemde zorgverzekeringen en de onder toetstermen 2a.1, 2a.2, 2a.3, 2a.4 en 2a.5 genoemde particuliere verzekeringen op elkaar aansluiten.  | Ti  |
-| 3a.6.3  | De kandidaat kan schetsen op welke wijze de onder S.art2a.6 genoemde zorgverzekeringen en de onder toetstermen 2a.1, 2a.2, 2a.3, 2a.4 en 2a.5 genoemde bedrijfsmatige verzekeringen op elkaar aansluiten.  | Ti  |
+| 3a.6.3  | De kandidaat kan schetsen op welke wijze de onder 2a.6 genoemde zorgverzekeringen en de onder toetstermen 2a.1, 2a.2, 2a.3, 2a.4 en 2a.5 genoemde bedrijfsmatige verzekeringen op elkaar aansluiten.  | Ti  |
 | 3a.6.4  | De kandidaat kan uitleggen op welke wijze de Zvw-verzekering en de aanvullende zorgverzekering op elkaar aansluiten.  | B  |
 | 3a.6.5  | De kandidaat kan de gangbare niet-medische begrippen uit een Zvw-verzekering en aanvullende zorgverzekering verklaren aan de klant.  | B  |
 | 3a.6.6  | De kandidaat kan voor de particuliere klant globaal de belangrijkste verschillen in dekking schetsen tussen de in het verzekeringsbedrijf meest gebruikelijke aanvullende zorgverzekeringen.  | Ti  |
@@ -1694,19 +1702,20 @@ G.Zalm
 | 5a.6.7  | De kandidaat kan de algemene verplichtingen van de klant uitleggen bij schade op een Zvw- en/of aanvullende zorgverzekering.  | B  |
 | 5a.6.8  | De kandidaat kan inschatten in welke gevallen de zorgverzekeraar bereid zal zijn vaccinaties en andere preventieve behandelingen voor zijn rekening te nemen.  | Ti  |
 |  *Eindterm*   | *5b:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering de cliënt te informeren over de mogelijke aanspraak op vergoeding en de benodigde gegevens te verwerken.  |
+| 5b.6.1  | De kandidaat kan aan de klant uitleggen wat het belang is van de gegevens die worden opgevraagd voor de vergoeding op een ZVW- of aanvullende zorgverzekering.  | B  |
 | 5b.6.2  | De kandidaat kan voor een eenvoudige schade op een Zvw- of aanvullende zorgverzekering aan de hand van alle benodigde gegevens uitleggen op welke wijze de vergoeding is samengesteld, rekening houdend met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | B  |
 |  *Eindterm*   | *5c:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventueel een onafhankelijke deskundige in te schakelen.  |
 | 5c.6.1  | De kandidaat kan aan de klant uitleggen welke mogelijkheden er zijn om bij een verschil van mening een second opinion aan te vragen.  | B  |
+|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  | --- |
+| 5d.6.1  | De kandidaat kan met behulp van alle benodigde gegevens beoordelen of de door de verzekeraar vastgestelde vergoeding op een Zvw of aanvullende zorgverzekering juist is, rekening houdend met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | Tp  |
+| 5d.6.2  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde vergoeding op een Zvw- of aanvullende zorgverzekering onjuist is.  | Ti  |
+| 5d.6.3  | De kandidaat kan een berekende vergoeding op een Zvw- of aanvullende zorgverzekering aan de klant uitleggen.  | B  |
 |  *Eindterm*   | *5e:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering met de cliënt op correcte wijze een meldingsformulier in te vullen.  |
 | 5e.6.1  | De kandidaat kan uitleggen op welke wijze een schade op een Zvw- of aanvullende zorgverzekering moet worden gemeld.  | K  |
 |  *Eindterm*   | *5f:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering een ingevuld meldingsformulier op juistheid te controleren.  |
 | 5f.6.1  | De kandidaat kan beoordelen of de gegevens op het declaratieformulier van een Zvw- of aanvullende zorgverzekering juist zijn ingevuld.  | Tp  |
 |  *Eindterm*   | *5g:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering op correcte wijze het meldingsformulier en overige informatie te verzenden aan de verzekeraar.  |
 | 5g.6.1  | De kandidaat kan voor een Zvw- of aanvullende zorgverzekering beoordelen of alle voor de schadebehandeling vereiste gegevens aanwezig zijn om te worden verzonden aan de verzekeraar.  | Tp  |
-|  *Eindterm*   | *5d:* De personen zijn in staat, met betrekking tot schadeverzekeringen bij een mogelijke aanspraak/vordering eventuele gedekte en niet-gedekte aanspraken te verduidelijken aan de cliënt  |
-| 5d.6.1  | De kandidaat kan met behulp van alle benodigde gegevens beoordelen of de door de verzekeraar vastgestelde vergoeding op een Zvw of aanvullende zorgverzekering juist is, rekening houdend met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | Tp  |
-| 5d.6.2  | De kandidaat kan bij een verschil van inzicht verdedigen waarom de door de verzekeraar vastgestelde vergoeding op een Zvw- of aanvullende zorgverzekering onjuist is.  | Ti  |
-| 5d.6.3  | De kandidaat kan een berekende vergoeding op een Zvw- of aanvullende zorgverzekering aan de klant uitleggen.  | B  |
 
 #### *g. Algemeen* 
 
@@ -1749,53 +1758,66 @@ G.Zalm
 | 2a.12  | De kandidaat kan benoemen welke instantie de AOW-uitkering verzorgt.  | K  |
 | 2a.13  | De kandidaat kan omschrijven wie gerechtigd zijn tot een AOW- of ANW-uitkering.  | K  |
 | 2a.14  | De kandidaat kan de samenhang tussen de drie pijlers van het Nederlandse stelsel van oudedagsvoorzieningen schetsen.  | Ti  |
-| 2a.15  | De kandidaat kan een grafische voorstelling met ouderdoms- en nabestaandepensioen interpreteren.  | Ti  |
-| 2a.16  | De kandidaat kan beargumenteren dat het recht op tijdsevenredig pensioen een pensioentekort vermindert.  | Ti  |
-| 2a.17  | De kandidaat kan beargumenteren waarom waardeoverdracht pensioenbreuk vermindert.  | Ti  |
+| 2a.15  | De kandidaat kan een grafische voorstelling met ouderdoms- en nabestaandenpensioen interpreteren.  | Ti  |
+| 2a.16  |  
+Vervallen.   | --- |
+| 2a.17  |  
+Vervallen.   | --- |
 | 2a.18  | De kandidaat kan de wettelijke systematiek van waardeoverdracht cijfermatig illustreren.  | Ti  |
-| 2a.19  | De kandidaat kan aan de hand van een berekening aantonen dat inkoop van dienstjaren een pensioentekort vermindert.  | Tp  |
+| 2a.19  |  
+Vervallen.   | --- |
 | 2a.20  | De kandidaat kan de rol uitleggen die de verschillende uitvoerders van pensioenvoorzieningen in de 2e pijler spelen.  | B  |
 | 2a.21  | De kandidaat kan uitleggen waarom de juiste waarde van een pensioentoezegging op basis van waardevastheid of welvaartsvastheid niet vooraf kan worden berekend.  | B  |
 | 2a.22  | De kandidaat kan uitleggen welke richtlijnen gelden voor de maximale opbouw van de toegestane pensioenvormen.  | B  |
 | 2a.23  | De kandidaat kan uitleggen wat de [PW](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) resp. de WVPS bepaalt ten aanzien van de pensioenrechten bij echtscheiding.  | B  |
 | 2a.24  | De kandidaat kan omschrijven in welke situatie de zelfstandig ondernemer (zgn. IB-ondernemer) te maken heeft met verplichte deelneming aan een pensioenregeling en daarvan enkele voorbeelden geven.  | B  |
-| 2a.26  | De kandidaat kan de oorzaken noemen waardoor een pensioenvoorziening achterblijft bij het plaatje van een 'ideaal' pensioen.  | B  |
+| 2a.26  | De kandidaat kan de oorzaken aangeven waardoor een pensioenvoorziening achterblijft bij het plaatje van een 'ideaal' pensioen.  | B  |
 | 2a.27  | De kandidaat kan de begrippen 'collectieve' en 'individuele' waardeoverdracht verklaren.  | B  |
 | 2a.28  | De kandidaat kan de voor- en nadelen van conversie uitleggen.  | B  |
 | 2a.29  | De kandidaat kan een tweetal voorbeelden noemen van een groep van vrije beroepsbeoefenaars die aangesloten zijn bij beroepspensioenfondsen.  | K  |
-| 2a.30  | De kandidaat kan omschrijven hoe enerzijds VUT-regelingen en anderzijds pré-pensioenregelingen worden gefinancierd.  | K  |
+| 2a.30  |  
+Vervallen.   | --- |
 | 2a.31  | De kandidaat kan omschrijven in welke uitkeringssoorten pensioenen worden onderscheiden.  | K  |
 | 2a.32  | De kandidaat kan omschrijven wat het begrip ‘nominaal’ in het kader van een pensioenuitkering inhoudt.  | K  |
 | 2a.33  | De kandidaat kan omschrijven wat het begrip ‘waardevast’ in het kader van een pensioenuitkering inhoudt.  | K  |
 | 2a.34  | De kandidaat kan omschrijven wat het begrip ‘welvaartsvast’ in het kader van een pensioenuitkering inhoudt.  | K  |
-| 2a.35  | De kandidaat kan een tweetal voorbeelden noemen van een groep van vrije beroepsbeoefenaars die aangesloten zijn bij beroepspensioenfondsen.  | K  |
+| 2a.35  |  
+Vervallen.   | --- |
 | 2a.36  | De kandidaat kan de begrippen 'nominaal', 'waardevast' en 'welvaartsvast' omschrijven.  | K  |
 | 2a.37  | De kandidaat kan het tweeverdienershiaat beschrijven.  | K  |
-| 2a.38  | De kandidaat kan opsommen onder welke voorwaarden waardeoverdracht naar een buitenlandse pensioenuitvoerder mogelijk is.  | K  |
-| 2a.39  | De kandidaat kan de positie van de echtgenote van de DGA met betrekking tot diens pensioen schetsen.  | Ti  |
-| 2a.40  | De kandidaat kan in een gegeven casus beoordelen of de normen die gelden voor de opbouw van het DGA-pensioen worden overschreden.  | Tp  |
-| 2a.41  | De kandidaat kan het effect van de wijze waarop het DGA-pensioen is of wordt opgebouwd op de jaarrekening van de BV berekenen.  | Tp  |
-| 2a.42  | De kandidaat kan het financiële gevolg berekenen van overgang van eigen beheer naar een pensioenverzekering.  | Tp  |
-| 2a.43  | De kandidaat kan beschrijven in hoeverre de fiscale pensioenmogelijkheden voor een DGA afwijken van die voor een 'gewone' werknemer.  | B  |
+| 2a.38  |  
+Vervallen.   | --- |
+| 2a.39  |  
+Vervallen.   | --- |
+| 2a.40  |  
+Vervallen.   | --- |
+| 2a.41  |  
+Vervallen.   | --- |
+| 2a.42  |  
+Vervallen.   | --- |
+| 2a.43  |  
+Vervallen.   | --- |
 | 2a.44  | De kandidaat kan de consequenties uitleggen van de keuze voor opbouw van het DGA-pensioen in eigen beheer.  | B  |
 | 2a.45  | De kandidaat kan de wettelijke definitie 'DGA' omschrijven.  | K  |
 | 2a.46  | De kandidaat kan de gevolgen van deelname aan een bedrijfsspaarregeling voor het uitkeringsniveau van sociale verzekeringen beargumenteren.  | Ti  |
 | 2a.47  | De kandidaat kan beoordelen of spaarloontegoeden binnen de vermogensrendementsheffing vallen.  | Tp  |
 | 2a.48  | De kandidaat kan de extra heffingen bij ontslagvergoedingen berekenen.  | Tp  |
-| 2a.49  | De kandidaat kan de kwalitatieve- en kwantitatieve toets uitleggen.  | B  |
-| 2a.50  | De kandidaat kan globaal omschrijven hoe levensloopregelingen werken en wie mogen deelnemen.  | B  |
+| 2a.49  | De kandidaat kan de kwalitatieve en kwantitatieve toets uitleggen.  | B  |
+| 2a.50  | De kandidaat kan globaal uitleggen hoe levensloopregelingen werken en wie mogen deelnemen.  | B  |
 | 2a.51  | De kandidaat kan de verplichtingen van de werkgever ten aanzien van de levensloopregeling uitleggen.  | B  |
 | 2a.52  | De kandidaat kan uitleggen hoe gelden van de levensloopregeling kunnen worden ontspaard.  | B  |
 | 2a.53  | De kandidaat kan de onderlinge verschillen tussen de levenslange oudedagslijfrente, de tijdelijke oudedagslijfrenten en de overbruggingslijfrente aangeven.  | B  |
 | 2a.54  | De kandidaat kan uitleggen wanneer een gouden handdruk van toepassing is.  | K  |
-| 2a.55  | De kandidaat kan de fiscale mogelijkheden van gouden handruk omschrijven.  | K  |
+| 2a.55  | De kandidaat kan de fiscale mogelijkheden van een gouden handdruk omschrijven.  | K  |
 | 2a.56  | De kandidaat kan omschrijven wanneer extra belastingheffing van toepassing is.  | K  |
 | 2a.57  | De kandidaat kan in eigen woorden het begrip oudedagsreserve uitleggen.  | B  |
-| 2a.58  | De kandidaat kan omschrijven in welke situatie de zelfstandig ondernemer (zgn. IB-ondernemer) te maken heeft met verplichte deelneming aan een pensioenregeling en daarvan enkele voorbeelden geven.  | B  |
+| 2a.58  |  
+Vervallen.   | --- |
 | 2a.59  | De kandidaat kan de benodigde verzekeringsgegevens van een ondernemer inventariseren.  | B  |
 | 2a.60  | De kandidaat kan de lijfrentemogelijkheden in de opbouwfase voor een ondernemer benoemen.  | K  |
 | 2a.61  | De kandidaat kan de stakingswinstvrijstellingen benoemen.  | K  |
-| 2a.62  | De kandidaat kan aan de hand van een berekening duidelijk maken wat een doorwerkbonus of uitstel van de AOW voor financiële consequenties heeft en aangeven welke consequenties het meebetalen aan de AOW heeft op het pensioeninkomen.  | --- |
+| 2a.62  | De kandidaat kan aan de hand van een berekening duidelijk maken wat een doorwerkbonus of uitstel van de AOW voor financiële consequenties heeft en aangeven welke consequenties het meebetalen aan de AOW heeft op het pensioeninkomen.  | Ti  |
+| 2a.63  | De kandidaat kan aantonen op welke wijze hij tot een passend advies is gekomen.  | Tp  |
 |  *Eindterm*   | *2b:* De personen zijn in staat de (toekomstige) financiële positie van de cliënt te inventariseren.  |
 | 2b.1  | De kandidaat kan motiveren waarom in het belastingsstelsel een boxensysteem is ingevoerd.  | Ti  |
 | 2b.2  | De kandidaat kan in een berekening het schijventarief van box 1 toepassen.  | Tp  |
@@ -1803,7 +1825,7 @@ G.Zalm
 | 2b.4  | De kandidaat kan het verschil aangeven tussen de wijze van belastingheffing in box 1 en in box 3.  | B  |
 | 2b.5  | De kandidaat kan omschrijven op welke wijze heffing van inkomstenbelasting over de waarde van een gewone kapitaalverzekering plaatsvindt.  | B  |
 | 2b.6  | De kandidaat kan opsommen welke belastingwetten invloed hebben op levensverzekering, premie en uitkering.  | K  |
-| 2b.7  | De kandidaat kan inschatten of verkrijgingen die in principe heffing met successie- of schenkingsrecht onderhevig zijn de vrijstellingen overschrijden.  | Ti  |
+| 2b.7  | De kandidaat kan inschatten of verkrijgingen die in principe aan heffing met successie- of schenkingsrecht onderhevig zijn de vrijstellingen overschrijden.  | Ti  |
 | 2b.8  | De kandidaat kan het successierecht na toepassing van een vrijstelling berekenen.  | Tp  |
 | 2b.9  | De kandidaat kan uitleggen wat imputatie en de invloed daarvan op vrijstellingen inhoudt.  | B  |
 | 2b.10  | De kandidaat kan beschrijven over welke verkrijgingen successierecht is verschuldigd.  | K  |
@@ -1821,26 +1843,33 @@ G.Zalm
 | 2b.22  | De kandidaat kan op basis van de persoonlijke omstandigheden van een cliënt beoordelen in welke mate recht op een AOW-/ANW-uitkering bestaat.  | B  |
 | 2b.23  | De kandidaat kan beargumenteren waarom vervroegen van het pensioen met actuariële herrekening een verlaging van het pensioenbedrag tot gevolg heeft.  | Ti  |
 | 2b.24  | De kandidaat kan in een praktijksituatie het pensioenvooruitzicht van een cliënt berekenen.  | Tp  |
-| 2b.25  | De kandidaat kan de t.e.p. in een concrete casus berekenen.  | Tp  |
+| 2b.25  |  
+Vervallen.   | --- |
 | 2b.26  | De kandidaat kan in een concrete situatie de verdeling van rechten bij echtscheiding berekenen.  | Tp  |
-| 2b.27  | De kandidaat kan berekenen hoeveel pensioenjaren door waardeoverdracht kunnen worden ingekocht.  | Tp  |
+| 2b.27  |  
+Vervallen.   | --- |
 | 2b.28  | De kandidaat kan een pensioenberekening maken in een gegeven opbouwsysteem.  | Tp  |
-| 2b.29  | De kandidaat kan berekenen hoeveel pensioenjaren door waardeoverdracht kunnen worden ingekocht.  | Tp  |
-| 2b.30  | De kandidaat kan uitleggen hoe bij het berekenen van het OP rekening wordt gehouden met de basisuitkering van de [AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).  | B  |
-| 2b.31  | De kandidaat kan de gevolgen aangeven van de solidariteit tussen gehuwden en alleenstaanden in het kader van een pensioenregeling.  | B  |
-| 2b.32  | De kandidaat kan uitleggen of waardeoverdracht al dan niet bijdraagt aan een beperking van de pensioenbreuk.  | B  |
-| 2b.33  | De kandidaat kan uitleggen hoe bij het berekenen van het OP rekening wordt gehouden met de basisuitkering van de [AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).  | B  |
+| 2b.29  |  
+Vervallen.   | --- |
+| 2b.30  | De kandidaat kan uitleggen hoe bij het berekenen van het ouderdomspensioen rekening wordt gehouden met de basisuitkering van de [AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).  | B  |
+| 2b.31  |  
+Vervallen.   | --- |
+| 2b.32  |  
+Vervallen.   | --- |
+| 2b.33  | 
+Vervallen..  | --- |
 | 2b.34  | De kandidaat kan globaal aangeven welke inhoudingen de verzekeraar verplicht in mindering brengt op uit te keren pensioenen.  | K  |
 | 2b.35  | De kandidaat kan opnoemen welke soorten pensioen in een fiscaal erkende pensioenregeling kunnen voorkomen en wat de toegestane ingangs- en einddatum zijn.  | K  |
-| 2b.36  | De kandidaat kan de consequenties voor de pensioenrechten van de DGA aangeven van ontslag, echtscheiding of ontbinding van het partnerschap van de DGA.  | B  |
+| 2b.36  |  
+Vervallen.   | --- |
 | 2b.37  | De kandidaat kan de maximale inleg voor de levensloopregeling berekenen.  | Tp  |
-| 2b.38  | De kandidaat kan de het totale levenslooptegoed beoordelen.  | Tp  |
+| 2b.38  | De kandidaat kan het totale levenslooptegoed beoordelen.  | Tp  |
 | 2b.39  | De kandidaat kan de levensloopkorting berekenen.  | Tp  |
 | 2b.40  | De kandidaat kan de ouderschapsverlofkorting berekenen.  | Tp  |
 | 2b.41  | De kandidaat kan uitleggen wat het (fiscale) voordeel voor de werknemer is van deelname aan de levensloopregeling.  | B  |
 | 2b.42  | De kandidaat kan de belaste stakingswinst berekenen, met toepassing van de stakingsaftrek.  | Tp  |
 | 2b.43  | De kandidaat kan de fiscale regels met betrekking tot lijfrente en stakingswinst toepassen.  | Tp  |
-| 2b.44  | De kandidaat kan de regels van de [WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) omschrijven  | B  |
+| 2b.44  | De kandidaat kan de regels van de [WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) uitleggen  | B  |
 |  *Eindterm*   | *2c:* De personen zijn in staat alternatieve oplossingen te inventariseren voor het realiseren van de zekerheidsbehoefte.  |
 | 2c.1  | De kandidaat kan de essentie aangeven van de rechten van de verzekeringnemer bij levensverzekeringen.  | B  |
 | 2c.2  | De kandidaat kan beargumenteren in welke gevallen een levensverzekeraar gezondheidswaarborgen zal verlangen.  | Ti  |
@@ -1854,42 +1883,55 @@ G.Zalm
 | 2c.10  | De kandidaat kan de rol uitleggen van de levensverzekering in een huwelijksgemeenschap en/of een nalatenschap.  | K  |
 | 2c.11  | De kandidaat kan globaal beschrijven wat de functie van een partnerverklaring is.  | K  |
 | 2c.12  | De kandidaat kan inschatten in welke situaties afwijking van het wettelijke systeem aan de orde kan zijn.  | Ti  |
-| 2c.13  | De kandidaat kan het overgangsrecht VUT/prepensioen in een gegeven casus toepassen.  | Ti  |
-| 2c.14  | De kandidaat kan in een concrete situatie beoordelen op welke onderdelen een pensioenregeling door middel van een excedentregeling kan worden geoptimaliseerd.  | Tp  |
+| 2c.13  |  
+Vervallen.   | --- |
+| 2c.14  |  
+Vervallen.   | --- |
 | 2c.15  | De kandidaat kan uitleggen over welke vormen van verlof pensioenaanspraken mogen worden opgebouwd.  | B  |
-| 2c.16  | De kandidaat kan omschrijven wat onder het 40-deelnemingsjarenpensioen wordt verstaan.  | B  |
-| 2c.17  | De kandidaat kan uitleggen hoe gelijke behandeling tussen voltijders en deeltijders in het kader van een pensioenregeling wordt gewaarborgd.  | B  |
+| 2c.16  |  
+Vervallen.   | --- |
+| 2c.17  |  
+Vervallen.   | --- |
 | 2c.18  | De kandidaat kan uitleggen onder welke voorwaarden de fiscale regelgeving de mogelijkheid biedt om extra pensioen in te kopen.  | B  |
 | 2c.19  | De kandidaat kan uitleggen op welke wijze een pensioentoezegging tot stand komt.  | B  |
 | 2c.20  | De kandidaat kan de verschillende vormen van pensioen noemen en hun onderlinge verband aangeven.  | B  |
-| 2c.21  | De kandidaat kan de verschillende pensioensystemen rangschikken op volgorde van de hoogte van de kosten die hiermee samenhangen.  | B  |
+| 2c.21  |  
+Vervallen.   | --- |
 | 2c.22  | De kandidaat kan opsommen welke bestanddelen van het loon en welke perioden van diensttijd fiscaal in aanmerking mogen worden genomen.  | K  |
 | 2c.23  | De kandidaat kan de uitgangspunten m.b.t. het pensioengevend salaris benoemen.  | K  |
-| 2c.24  | De kandidaat kan opnoemen welke regels er op grond van de [PW](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) gelden voor pensioentoezeggingen ten behoeve van parttimers.  | K  |
-| 2c.25  | De kandidaat kan de kosten- en winstcorrectie op het doelvermogen bij eigen beheer motiveren.  | Ti  |
-| 2c.26  | De kandidaat kan in een gegeven situatie het doelvermogen berekenen dat benodigd is voor de dekking van de pensioentoezegging aan de DGA, zowel bij eigen beheer als bij verzekering.  | Tp  |
-| 2c.27  | De kandidaat kan de uitvoeringsmogelijkheden voor pensioen van de DGA toepassen.  | Tp  |
+| 2c.24  |  
+Vervallen.   | --- |
+| 2c.25  |  
+Vervallen.   | --- |
+| 2c.26  |  
+Vervallen.   | --- |
+| 2c.27  |  
+Vervallen.   | --- |
 | 2c.28  | De kandidaat kan de voordelen en nadelen van opbouwen van het DGA-pensioen in eigen beheer toepassen in een praktijksituatie.  | Tp  |
 | 2c.29  | De kandidaat kan beschrijven in hoeverre de pensioenmogelijkheden voor een DGA met eigen beheer afwijken van het verzekerde DGA-pensioen.  | B  |
 | 2c.30  | De kandidaat kan de voor- en nadelen aangeven van pensioenopbouw in eigen beheer.  | B  |
-| 2c.31  | De kandidaat kan het verband aangeven tussen het 'doelvermogen' bij eigen beheer en het tarief voor een pensioenverzekering.  | B  |
-| 2c.32  | De kandidaat kan de verschillen tussen eigen beheer en verzekeren in eigen woorden aangegeven.  | B  |
-| 2c.33  | De kandidaat kan uitleggen op welke wijzen het DGA-pensioen kan worden opgebouwd.  | B  |
+| 2c.31  |  
+Vervallen.   | --- |
+| 2c.32  |  
+Vervallen.   | --- |
+| 2c.33  |  
+Vervallen.   | --- |
 | 2c.34  | De kandidaat kan beschrijven hoe het doelvermogen voor het DGA-pensioen in eigen beheer wordt opgebouwd.  | K  |
 | 2c.35  | De kandidaat kan de begrippen 'lineaire opbouw' en 'actuariële opbouw' beschrijven.  | K  |
-| 2c.36  | De kandidaat kan de uitvoeringsmogelijkheden voor het DGA-pensioen omschrijven.  | K  |
+| 2c.36  |  
+Vervallen.   | --- |
 | 2c.37  | De kandidaat kan het dubbele fiscale voordeel van lijfrentepremieaftrek in combinatie met deelname aan spaarloon uitwerken.  | Ti  |
 | 2c.38  | De kandidaat kan de verschillen tussen spaarloon- en levensloopregeling motiveren.  | Ti  |
 | 2c.39  | De kandidaat kan de maximale lijfrentepremieaftrek berekenen aan de hand van de jaarruimte en de reserveringsruimte.  | Tp  |
-| 2c.40  | De kandidaat kan omschrijven hoe bedrijfsspaarregelingen werken en wie mogen deelnemen.  | B  |
+| 2c.40  | De kandidaat kan uitleggen hoe bedrijfsspaarregelingen werken en wie mogen deelnemen.  | B  |
 | 2c.41  | De kandidaat kan in eigen woorden het begrip spaarloonregeling uitleggen.  | B  |
 | 2c.42  | De kandidaat kan de deblokkeringsmogelijkheden benoemen.  | K  |
 | 2c.43  | De kandidaat kan de aanwendingsmogelijkheden van geblokkeerde spaartegoeden benoemen.  | K  |
 | 2c.44  | De kandidaat kan de rechten en plichten binnen een spaarreglement benoemen.  | K  |
 | 2c.45  | De kandidaat kan de soorten fiscaal toegestane lijfrenten opsommen en omschrijven.  | K  |
 | 2c.46  | De kandidaat kan in eigen woorden het begrip uitgestelde en direct ingaande lijfrente weergeven.  | K  |
-| 2c.47  | De kandidaat kan aan de hand van concrete gegevens omtrent de aflossingsvorm of renteconstructie van een hypothecair krediet berekeningen maken (van bijvoorbeeld het rentepercentage, de verzekeringspremies, beleggingsbedrag of de spaartermijn).  | Ti  |
-| 2c.48  | De kandidaat kan aan de hand van concrete gegevens omtrent beschikbaar inkomen, fiscale faciliteiten en gewenste oudedags- of nabestaandenuitkeringen berekeningen maken (van bijvoorbeeld de verzekeringspremies, beleggingsbedragen of de spaarbedragen).  | Ti  |
+| 2c.47  | De kandidaat kan aan de hand van concrete gegevens omtrent de aflossingsvorm of renteconstructie van een hypothecair krediet berekeningen maken (van bijvoorbeeld het rentepercentage, de verzekeringspremies, beleggingsbedrag of de spaartermijn).  | Tp  |
+| 2c.48  | De kandidaat kan aan de hand van concrete gegevens omtrent beschikbaar inkomen, fiscale faciliteiten en gewenste oudedags- of nabestaandenuitkeringen berekeningen maken (van bijvoorbeeld de verzekeringspremies, beleggingsbedragen of de spaarbedragen).  | Tp  |
 | 2c.49  | De kandidaat kan aan de hand van concrete gegevens de klant uitleggen wat de voor- en nadelen zijn van een spaarrekening of een beleggingsrekening in vergelijking tot elkaar en tot een levensverzekeringoplossing.  | Ti  |
 |  *Eindterm*   | *2d:* De personen zijn in staat de meest geschikte verzekeringsvoorwaarden te selecteren en te vergelijken.  |
 | 2d.1  | De kandidaat kan in een praktijksituatie beargumenteren aan welke soort levensverzekering de voorkeur gegeven zou moeten worden.  | Ti  |
@@ -1912,22 +1954,32 @@ G.Zalm
 | 3a.4  | De kandidaat kan de verschillende levensverzekeringsvormen en aanvullende dekkingen gebruiken bij het voorzien in de geïnventariseerde verzekeringsbehoefte van een consument.  | Tp  |
 | 3a.5  | De kandidaat kan in een gegeven situatie beoordelen of het gekozen product en het ingevulde aanvraagformulier niet strijdig zijn met het opgestelde klantprofiel.  | Tp  |
 | 3a.6  | De kandidaat kan een polisopmaak met premiesplitsing ter vermijding van successierecht adviseren.  | Ti  |
-| 3a.7  | De kandidaat kan een verzekeringsoplossing adviseren voor het tweeverdienershiaat.  | Ti  |
-| 3a.8  | De kandidaat kan een verzekeringsoplossing geven voor pensionering voor 65-jarige leeftijd.  | Ti  |
+| 3a.7  |  
+Vervallen.   | --- |
+| 3a.8  |  
+Vervallen.   | --- |
 | 3a.9  | De kandidaat kan adviseren hoe een pensioen flexibel kan worden vormgegeven.  | Ti  |
-| 3a.10  | De kandidaat kan aan de hand van het verschil tussen een beschikbare premie regeling t.o.v. een ander stelsel het voordeel voor de werkgever beargumenteren.  | Ti  |
-| 3a.11  | De kandidaat kan in een gegeven context het nut van een collectieve pensioenregeling beargumenteren.  | Ti  |
+| 3a.10  |  
+Vervallen.   | --- |
+| 3a.11  |  
+Vervallen.   | --- |
 | 3a.12  | De kandidaat kan met de van toepassing zijnde uitkeringsgegevens een advies opstellen voor aanvulling op de [AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) in de vorm van een pensioenverzekering.  | Ti  |
 | 3a.13  | De kandidaat kan beargumenteren welke uitvoeringswijze voor een vrijwillige aanvullende pensioenregeling adequaat is.  | Ti  |
-| 3a.14  | De kandidaat kan een excedentregeling ontwerpen ter optimalisering van het pensioen.  | Ti  |
-| 3a.15  | De kandidaat kan het tweeverdienershiaat berekenen en een verzekeringsoplossing adviseren.  | Ti  |
-| 3a.16  | De kandidaat kan met de van toepassing zijnde uitkeringsgegevens een advies opstellen voor aanvulling op de [AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) in de vorm van een pensioenverzekering.  | Ti  |
+| 3a.14  |  
+Vervallen.   | --- |
+| 3a.15  |  
+Vervallen.   | --- |
+| 3a.16  |  
+Vervallen.   | --- |
 | 3a.17  | De kandidaat kan de bepalingen aangaande de hoogte, de opbouwperiode en de pensioenleeftijd in een praktijksituatie toepassen.  | Tp  |
-| 3a.18  | De kandidaat kan bepalen of een pensioenregeling fiscaal zuiver is of niet.  | Tp  |
+| 3a.18  |  
+Vervallen.   | --- |
 | 3a.19  | De kandidaat kan de bepalingen aangaande hoogte, opbouwperiode en pensioenleeftijd in een casus toepassen.  | Tp  |
-| 3a.20  | De kandidaat kan het nut van een excedentregeling in een gegeven casus aantonen.  | Tp  |
+| 3a.20  |  
+Vervallen.   | --- |
 | 3a.21  | De kandidaat kan een pensioenbreuk aantonen aan de hand van een berekening en een oplossing d.m.v. verzekering voorstellen.  | Tp  |
-| 3a.22  | De kandidaat kan in een concrete situatie beoordelen op welke onderdelen een pensioenregeling door middel van een excedentregeling kan worden geoptimaliseerd.  | Tp  |
+| 3a.22  |  
+Vervallen.   | --- |
 | 3a.23  | De kandidaat kan beargumenteren of in een concrete situatie verzekeren dan wel eigen beheer behoort te worden geadviseerd.  | Ti  |
 | 3a.24  | De kandidaat kan het te verzekeren bedrag van een door een rechtpersoon ten behoeve van zichzelf te sluiten overlijdensverzekering berekenen, uitgaande van een benodigde netto-uitkering.  | Tp  |
 | 3a.25  | De kandidaat kan de verzekeringsmogelijkheden van een gouden handdruk adviseren.  | Ti  |
@@ -1942,7 +1994,7 @@ G.Zalm
 | 3a.34  | De kandidaat kan de fiscale regels met betrekking tot lijfrente en Oudedagsreserve (OR) toepassen.  | Tp  |
 | 3a.35  | De kandidaat kan de kennis ter zake van fiscale regels en verzekeringsvormen toepassen bij het ontwerpen van een verzekeringsoplossing voor de afdekking van inkomenstekorten als gevolg van overlijden of langleven van de IB-ondernemer.  | Tp  |
 | 3a.36  | De kandidaat kan uitleggen hoe met gebruikmaking van de fiscale mogelijkheden met betrekking tot stakingswinst en lijfrente een oudedagsvoorziening kan worden gerealiseerd.  | B  |
-| 3a.37  | De kandidaat kan een behoeften met betrekking tot een oudedagsvoorziening voor een zelfstandig ondernemer combineren met de verzekeringsmogelijkheden.  | B  |
+| 3a.37  | De kandidaat kan behoeften met betrekking tot een oudedagsvoorziening voor een zelfstandig ondernemer combineren met de verzekeringsmogelijkheden.  | B  |
 |  *Eindterm*   | *3b:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over levensverzekeringen de mogelijke vormen en wettelijke (fiscale) gevolgen op het gebied van pensioen- of levensverzekeringen te verduidelijken, ten behoeve van de advisering van de cliënt.  |
 | 3b.1  | De kandidaat kan in een praktijksituatie een verzekeringsvoorstel uitwerken voor de verschillende soorten van levensverzekering.  | Ti  |
 | 3b.2  | De kandidaat kan de systematiek van premieonttrekking voor de verschillende verzekeringsdekkingen bij universal life verzekeringen in een casus toepassen.  | Tp  |
@@ -1954,39 +2006,55 @@ G.Zalm
 | 3b.8  | De kandidaat kan de onaantastbaarheidsleer en de functie van [artikel 13 SW](../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) uitleggen.  | B  |
 | 3b.9  | De kandidaat kan uitleggen op welke wijze pensioen- en lijfrente-uitkeringen van invloed zijn op de hoogte van het verschuldigde successierecht.  | B  |
 | 3b.10  | De kandidaat kan herkennen in welke situatie schenkingsrecht verschuldigd is.  | K  |
-| 3b.11  | De kandidaat kan de voor- en nadelen van ruilen beargumenteren.  | Ti  |
+| 3b.11  | De kandidaat kan de voor- en nadelen van ruilen van pensioenen beargumenteren.  | Ti  |
 | 3b.12  | De kandidaat kan de opbouwsystemen o.b.v. salaris en diensttijd uitleggen aan de hand van een grafische weergave en daarin de begrippen 'backservice' en 'comingservice' illustreren.  | Ti  |
-| 3b.13  | De kandidaat kan de fiscale consequenties die optreden als de pensioenregeling niet aan de fiscale eisen voldoet in de praktijk toepassen.  | Tp  |
-| 3b.14  | De kandidaat kan de uitzonderingen op de onderbrengingsplicht in een praktijksituatie toepassen.  | Tp  |
-| 3b.15  | De kandidaat kan in een concrete casus beoordelen op sprake is van discriminatie naar geslacht, burgerlijke staat, leeftijd, parttime.  | Tp  |
+| 3b.13  |  
+Vervallen.   | --- |
+| 3b.14  |  
+Vervallen.   | --- |
+| 3b.15  |  
+Vervallen.   | --- |
 | 3b.16  | De kandidaat kan de systematiek van de loonbelasting en de uitzonderingspositie voor pensioenaanspraken en -premies ('omkeerregel') uitleggen.  | B  |
-| 3b.17  | De kandidaat kan uitleggen welke gevolgen zijn verbonden aan het overschrijden van het maximum dat geldt voor de opbouw van de toegestane pensioenvormen.  | B  |
-| 3b.18  | De kandidaat kan uitleggen wat de 'Witteveen'-maatregelen inhouden.  | B  |
+| 3b.17  |  
+Vervallen.   | --- |
+| 3b.18  |  
+Vervallen.   | --- |
 | 3b.19  | De kandidaat kan de begrippen 'evenredige opbouw' en 'evenredige financiering' uitleggen.  | B  |
-| 3b.20  | De kandidaat kan uitleggen wat 'ruilen van pensioen' inhoudt en onder welke voorwaarden dat kan plaatsvinden.  | B  |
-| 3b.21  | De kandidaat kan globaal de wettelijke grondslag beschrijven van het verbod op discriminatie van deelnemers in een pensioenregeling.  | B  |
-| 3b.22  | De kandidaat kan uitleggen onder welke omstandigheden discriminatie naar leeftijd niettemin geoorloofd kan zijn.  | B  |
+| 3b.20  |  
+Vervallen.   | --- |
+| 3b.21  | De kandidaat kan globaal in eigen woorden de wettelijke grondslag van het verbod op discriminatie van deelnemers in een pensioenregeling vertellen.  | B  |
+| 3b.22  |  
+Vervallen.   | --- |
 | 3b.23  | De kandidaat kan uitleggen wat het begrip 'sekseneutraliteit' inhoudt en hoe dit een rol speelt bij het ruilen van pensioen.  | B  |
-| 3b.24  | De kandidaat kan het verschil uitleggen in fiscale behandeling van individuele pensioenvoorzieningen en aanvullende pensioenvoorzieningen.  | B  |
-| 3b.25  | De kandidaat kan de gevolgen aangeven van meerdere keuzemomenten voor uitruil in het kader van de pensioentoezegging.  | B  |
-| 3b.26  | De kandidaat kan uitleggen wat het verbod op uitsluiting van deeltijdwerkers in [artikel 2a van de PSW](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) inhoudt.  | B  |
+| 3b.24  |  
+Vervallen.   | --- |
+| 3b.25  |  
+Vervallen.   | --- |
+| 3b.26  |  
+Vervallen.   | --- |
 | 3b.27  | De kandidaat kan het beschikbare premie systeem uitleggen en het verband aangeven tussen de staffels en het uiteindelijke resultaat.  | B  |
 | 3b.28  | De kandidaat kan een grafische voorstelling van de begrippen ouderdoms- en nabestaandenpensioen in eigen woorden uitleggen.  | B  |
 | 3b.29  | De kandidaat kan d.m.v. grafische voorstellingen de resultaten van de verschillende pensioensystemen verklaren.  | B  |
-| 3b.30  | De kandidaat kan uitleggen wat voor de werknemer en voor de werkgever het voordeel/nadeel is van deelname in een collectieve pensioenverzekering voor werknemers.  | B  |
-| 3b.31  | De kandidaat kan uitleggen welke maatregelen in de [PSW](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) zijn genomen om pensioenbreuk tegen te gaan.  | B  |
-| 3b.32  | De kandidaat kan omschrijven in welke gevallen het ouderdomspensioen meer mag bedragen dan 100%.  | K  |
+| 3b.30  |  
+Vervallen.   | --- |
+| 3b.31  |  
+Vervallen.   | --- |
+| 3b.32  | De kandidaat kan omschrijven in welke gevallen het ouderdomspensioen meer mag bedragen dan 100% van het laatstverdiende salaris.  | K  |
 | 3b.33  | De kandidaat kan het doel van de [PW](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) beschrijven.  | K  |
 | 3b.34  | De kandidaat kan opsommen op welke wijze een pensioentoezegging tot uitvoering kan worden gebracht en welke uitvoerders mogelijk zijn.  | K  |
-| 3b.35  | De kandidaat kan omschrijven onder welke voorwaarden pensioen kan worden ondergebracht bij een buitenlandse pensioenuitvoerder.  | K  |
-| 3b.36  | De kandidaat kan globaal de kernpunten uit de nieuwe [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) aangeven.  | K  |
-| 3b.37  | De kandidaat kan globaal aangeven in hoeverre de zorgplicht van de pensioenuitvoerder wordt uitgebreid in de nieuwe [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md).  | K  |
-| 3b.38  | De kandidaat kan globaal omschrijven welke eisen de nieuwe [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) stelt aan informatievoorziening aan werknemers.  | K  |
-| 3b.39  | De kandidaat kan de begrippen 'pensioengevens salaris', 'pensioengrondslag, 'diensttijd' en 'franchise' omschrijven en meest gehanteerde franchises benoemen.  | K  |
+| 3b.35  |  
+Vervallen.   | --- |
+| 3b.36  | De kandidaat kan globaal de kernpunten uit de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) aangeven.  | K  |
+| 3b.37  | De kandidaat kan globaal aangeven in hoeverre de zorgplicht van de pensioenuitvoerder is uitgebreid in de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md).  | K  |
+| 3b.38  | De kandidaat kan globaal omschrijven welke eisen de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) stelt aan informatievoorziening aan werknemers.  | K  |
+| 3b.39  | De kandidaat kan de begrippen 'pensioengevend salaris', 'pensioengrondslag, 'diensttijd' en 'franchise' omschrijven en meest gehanteerde franchises benoemen.  | K  |
 | 3b.40  | De kandidaat kan de begrippen 'collectieve' en 'individuele' pensioenverzekering beschrijven.  | K  |
-| 3b.41  | De kandidaat kan beargumenteren waarom voor DGA's andere normen voor de opbouw van een oudedagsvoorziening gelden dan voor gewone werknemers.  | Ti  |
-| 3b.42  | De kandidaat kan de begrippen 'backservice' en 'comingservice' in een grafische weergave van opbouw illustreren.  | Ti  |
-| 3b.43  | De kandidaat kan beoordelen of in een gegeven situatie is voldaan aan de voorwaarden waaronder een DGA mag afwijken van het waarborgingsvoorschrift van de [PW](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md).  | Tp  |
+| 3b.41  |  
+Vervallen.   | --- |
+| 3b.42  |  
+Vervallen.   | --- |
+| 3b.43  |  
+Vervallen.   | --- |
 | 3b.44  | De kandidaat kan in een gegeven situatie beoordelen of een levensloopregeling in overeenstemming met de wettelijke vereisten is uitgevoerd.  | Tp  |
 | 3b.45  | De kandidaat kan de verschillende mogelijkheden voor uitvoering van de levensloopregeling uitleggen.  | B  |
 | 3b.46  | De kandidaat kan het begrip Gouden Handdruk omschrijven.  | K  |
@@ -2007,21 +2075,28 @@ G.Zalm
 | 3c.7  | De kandidaat kan globaal de werking uitleggen van de verschillende winstdelingssystemen bij individuele en collectieve pensioenverzekering.  | B  |
 | 3c.8  | De kandidaat kan het verschil uitleggen tussen een pensioenverzekering op kapitaalbasis en op rentebasis.  | B  |
 | 3c.9  | De kandidaat kan de begrippen 'kapitaaldekking', 'rentedekking', 'doelkapitaal' benoemen.  | K  |
-| 3c.10  | De kandidaat kan opsommen welke zaken in het pensioenreglement resp. de verzekeringsovereenkomst worden vastgelegd.  | K  |
-| 3c.11  | De kandidaat kan de in een gebruikelijke pensioenregeling opgenomen pensioenvormen benoemen.  | K  |
+| 3c.10  |  
+Vervallen.   | --- |
+| 3c.11  |  
+Vervallen.   | --- |
 |  *Eindterm*   | *3d:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over levensverzekeringen de mogelijkheden op een (aanvullende) levensverzekeringen te verduidelijken in geval van een minder goede gezondheid.  |
 | 3d.1  | De kandidaat kan de alternatieve mogelijkheden inventariseren in het geval dat een aangevraagde levensverzekering niet zonder meer door de verzekeraar wordt geaccepteerd.  | Ti  |
 | 3d.2  | De kandidaat kan de doelgroep aangeven van Levensverzekeringsmaatschappij De Hoop .  | B  |
 |  *Eindterm*   | *3e:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over levensverzekeringen de premie of koopsom voor een (aanvullende) verzekering te berekenen en te verduidelijken met behulp van de beschikbare informatie.  |
 | 3e.1  | De kandidaat kan premies voor levensverzekeringen berekenen aan de hand van tarieftabellen.  | Tp  |
-| 3e.2  | De kandidaat kan de premie voor een collectieve pensioenverzekering berekenen, rekening houdend met kortingen en toeslagen.  | Tp  |
-| 3e.3  | De kandidaat kan de verschillende pensioensystemen rangschikken op volgorde van de hoogte van de kosten die hiermee samenhangen.  | B  |
-| 3e.4  | De kandidaat kan uitleggen uit welke componenten de premie voor een pensioenregeling bestaat en wat het onderlinge verband is.  | B  |
-| 3e.5  | De kandidaat kan verklaren waarom premies voor collectieve pensioenverzekeringen lager zijn dan voor individuele pensioenverzekeringen.  | B  |
-| 3e.6  | De kandidaat kan uitleggen waarom bij collectieve pensioenverzekeringen omvangskortingen kunnen worden verleend.  | B  |
+| 3e.2  |  
+Vervallen.   | --- |
+| 3e.3  |  
+Vervallen.   | --- |
+| 3e.4  |  
+Vervallen.   | --- |
+| 3e.5  |  
+Vervallen.   | --- |
+| 3e.6  |  
+Vervallen.   | --- |
 |  *Eindterm*   | *3f:* De personen zijn in staat met betrekking tot het bemiddelen in en adviseren over levensverzekeringen met de cliënt op correcte wijze een aanvraagformulier inclusief overige bescheiden voor een (aanvullende) verzekering in te vullen.  |
 | 3f.1  | De kandidaat kan inschatten hoe de van een consument verkregen informatie in het kader van de gezondheidswaarborgen op het aanvraagformulier aan de levensverzekeraar moet worden vermeld.  | Ti  |
-| 3f.2  | De kandidaat kan de bepalingen van ten aanzien van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) op juiste wijze interpreteren.  | Ti  |
+| 3f.2  | De kandidaat kan de bepalingen van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) op juiste wijze interpreteren.  | Ti  |
 | 3f.3  | De kandidaat kan demonstreren op welke wijze genoegzaam aan de bepalingen van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) kan worden voldaan.  | Ti  |
 | 3f.4  | De kandidaat kan de bepalingen uit de [Wet medische keuringen](../../../../../../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md) in een praktijksituatie toepassen.  | Tp  |
 | 3f.5  | De kandidaat kan beoordelen in welke gevallen een melding op grond van de [Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft)](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) noodzakelijk is.  | Tp  |
@@ -2047,7 +2122,7 @@ G.Zalm
 |  *Eindterm*   | *4a:* De personen zijn in staat met betrekking tot beheer en mutatie van de overeenkomst inzake levensverzekeringen de cliënt tijdig te informeren over de acceptatiebeslissing voor een (aanvullende) levensverzekering en deze en overige informatie vast te leggen.  |
 | 4a.1  | De kandidaat kan aangeven hoe hij het klanten- en polisdossier zodanig kan inrichten dat hij kan aantonen aan zijn zorgplichten tegenover de cliënt, waaronder het tijdig informeren, te hebben voldaan.  | Tp  |
 |  *Eindterm*   | *4b:* De personen zijn in staat met betrekking tot beheer en mutatie van de overeenkomst inzake levensverzekeringen de polisdocumenten en overige informatie op juistheid te controleren, te verzenden aan de cliënt, en te vast te leggen.  |
-| 4b.1  | De kandidaat kan beoordelen of een concrete pensioenregeling voldoet aan het begrip 'fiscaal erkende pensioenregeling'.  | Tp  |
+| 4b.1  | De kandidaat kan beoordelen of een concrete lijfrentevoorziening voldoet aan de fiscale wet- en regelgeving.  | Tp  |
 |  *Eindterm*   | *4c:* De personen zijn in staat met betrekking tot beheer en mutatie van de overeenkomst inzake levensverzekeringen het advies voor een bestaande (aanvullende) verzekering te wijzigen, om aan te sluiten bij de gewijzigde persoonlijke situatie van de cliënt en te komen tot een aanpassing van de verzekering.  |
 | 4c.1  | De kandidaat kan de mogelijkheden schetsen voor de wijze waarop een polis van levensverzekering kan worden verdeeld bij echtscheiding of bij beëindiging van geregistreerd partnerschap.  | Ti  |
 | 4c.2  | De kandidaat kan illustreren op welke wijze de rechten van een ex-echtgenoot/-partner ter zake van een levensverzekering zoveel mogelijk kunnen worden zekergesteld.  | Ti  |
@@ -2062,7 +2137,8 @@ G.Zalm
 | 4c.11  | De kandidaat kan globaal het gevolg aangeven van handelingen in strijd met de voorwaarden van het overgangsregime 2001.  | B  |
 | 4c.12  | De kandidaat kan herkennen of op een kapitaalverzekering het overgangsregime van 2001 van toepassing is.  | K  |
 | 4c.13  | De kandidaat kan een verzekeringsconstructie adviseren waarbij in het voordeel van de consument optimaal is rekening gehouden met de bepalingen uit het huwelijksvermogen- en erfrecht.  | Ti  |
-| 4c.14  | De kandidaat kan de relevante fiscale en juridische ontwikkelingen op het terrein van pensioenvoorzieningen combineren met een praktijksituatie.  | B  |
+| 4c.14  |  
+Vervallen.   | --- |
 | 4c.15  | De kandidaat kan de relevante fiscale ontwikkelingen op het gebied van lijfrenteverzekeringen globaal omschrijven.  | K  |
 | 4c.16  | De kandidaat is in staat de fiscale gevolgen van de belastingplannen in zijn advies te verwerken en aan de klant uit te leggen.  | Ti  |
 |  *Eindterm*   | *4d:* De personen zijn in staat met betrekking tot beheer en mutatie van de overeenkomst inzake levensverzekeringen de consument te informeren over wijzigingen, wijzigingsmogelijkheden en hun gevolgen voor een bestaande verzekering.  |
@@ -2081,25 +2157,29 @@ G.Zalm
 | 4d.13  | De kandidaat kan het verband aangeven tussen het ontbreken van een premiebetalingsplicht en automatische premievrijmaking.  | B  |
 | 4d.14  | De kandidaat kan beschrijven hoe overdracht van een levensverzekering kan plaatsvinden.  | K  |
 | 4d.15  | De kandidaat kan uitleggen in welke gevallen van conversie van een levensverzekering gezondheidswaarborgen worden verlangd en in welke gevallen niet.  | B  |
-| 4d.16  | De kandidaat kan in globaal de oorzaken en vooral de gevolgen aangeven van relevante fiscale ontwikkelingen op het gebied van levensverzekeringen.  | B  |
+| 4d.16  | De kandidaat kan globaal de oorzaken en vooral de gevolgen aangeven van relevante fiscale ontwikkelingen op het gebied van levensverzekeringen.  | B  |
 | 4d.17  | De kandidaat kan de relevante fiscale ontwikkelingen op het gebied van levensverzekeringen globaal omschrijven.  | K  |
 | 4d.18  | De kandidaat kan uitleggen welke wijzigingen de [Wet VPL](../../../../../../../../../wet/wet/aanpassing/fiscale/behandeling/vutprepensioen/en/introductie/etc/BWBR0018053/README.md) ten aanzien van ingangsdatum en vervroegde pensionering heeft gebracht.  | B  |
 | 4d.19  | De kandidaat kan uitleggen voor welke categorieën personen o.g.v. overgangsrecht nog VUT/prepensioen in stand kan blijven.  | B  |
-| 4d.20  | De kandidaat kan de relevante ontwikkelingen op het terrein van pensioenvoorzieningen globaal omschrijven.  | K  |
+| 4d.20  |  
+Vervallen.   | --- |
 | 4d.21  | De kandidaat kan aangeven welke rechten verzekeringnemer en begunstigde hebben volgens het verzekeringsrecht bij verzwijging, wanbetaling, premievrijmaking of afkoop van de verzekering.  | Tp  |
 |  *Eindterm*   | *4e:* De personen zijn in staat met betrekking tot beheer en mutatie van de overeenkomst inzake levensverzekeringen de gewenste wijzigingen op een bestaande (aanvullende) verzekering te verzenden aan de verzekeraar en na acceptatie en ontvangst te controleren en vast te leggen.  |
 | 4e.1  | De kandidaat kan beschrijven aan welke vormvereisten verzoeken tot wijziging van een overeenkomst van levensverzekering en de vastlegging daarvan in polissen moeten voldoen volgens het huidige verzekeringsrecht.  | K  |
 |  *Eindterm*   | *5a:* De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering de cliënt te adviseren en diens belangen te bewaken in de contacten met de verzekeraar.  |
-| 5a.1  | De kandidaat kan ter zake van uitkeringen van pensioen- of levensverzekeringen de consument adviseren en diens belangen bewaken in de contacten met de verzekeraar  | Ti  |
+| 5a.1  | De kandidaat kan ter zake van uitkeringen van levensverzekeringen de consument adviseren en diens belangen bewaken in de contacten met de verzekeraar.  | Ti  |
 |  *Eindterm*   | *5b:* De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering de cliënt te informeren over de mogelijke aanspraak op vergoeding en de benodigde gegevens te verwerken.  |
 | 5b.1  | De kandidaat kan uitleggen welke bescheiden moeten worden overgelegd wanneer een aanspraak op uitkering of premievrijstelling wegens arbeidsongeschiktheid uit hoofde van een levensverzekering wordt ingediend bij de verzekeraar.  | B  |
 | 5b.2  | De kandidaat kan uitleggen welke betrokkenen bij levensverzekeringen een rol spelen bij uitoefening van de verschillende rechten van de verzekeringnemer.  | B  |
 | 5b.3  | De kandidaat kan uitleggen aan wie de verzekeraar, als een polis van levensverzekering tot uitkering komt, bevrijdend kan betalen.  | B  |
 | 5b.4  | De kandidaat kan beschrijven onder welke voorwaarden een periodieke uitkering op basis van units als een lijfrente kan worden aangemerkt.  | K  |
-| 5b.5  | De kandidaat kan uitleggen wat de gevolgen zijn voor oude pensioenaanspraken als de pensioenregeling wordt aangepast op grond van nieuwe fiscale regelgeving.  | B  |
-| 5b.6  | De kandidaat kan globaal aangeven welke inhoudingen een verzekeraar verplicht in mindering brengt op uit te keren pensioen en lijfrenten.  | K  |
+| 5b.5  |  
+Vervallen.   | --- |
+| 5b.6  |  
+Vervallen.   | --- |
 | 5b.7  | De kandidaat kan opsommen wanneer afkoop van pensioenaanspraken mogelijk is  | K  |
-| 5b.8  | De kandidaat kan globaal aangeven welke inhoudingen de verzekeraar verplicht in mindering brengt op uit te keren pensioenen.  | K  |
+| 5b.8  |  
+Vervallen.   | --- |
 | 5b.9  | De kandidaat kan de consequenties aangeven van het (gedeeltelijk) aanmerken van een kapitaalverzekering als lijfrenteverzekering.  | B  |
 | 5b.10  | De kandidaat kan uitleggen wat de gerichte lijfrente inhoudt.  | B  |
 | 5b.11  | De kandidaat kan onderscheid maken tussen een zuivere en een gerichte lijfrente.  | B  |
@@ -2107,32 +2187,37 @@ G.Zalm
 | 5b.13  | De kandidaat kan de opnamemogelijkheden van levenslooploon omschrijven.  | K  |
 | 5b.14  | De kandidaat kan de inhoudingsplichtigen benoemen.  | K  |
 | 5b.15  | De kandidaat kan omschrijven welke consequentie(s) emigratie heeft voor een lijfrenteverzekering.  | K  |
-| 5b.16  | De kandidaat kan globaal aangeven welke inhoudingen de verzekeraar verplicht in mindering brengt op uit te keren lijfrenten.  | K  |
+| 5b.16  |  
+Vervallen.   | --- |
 |  *Eindterm*   | *5c:* De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering eventueel een onafhankelijke deskundige in te schakelen.  |
 | 5c.1  | De kandidaat kan herkennen wanneer een deskundige moet worden ingeschakeld om te komen tot een onafhankelijk oordeel ter zake van geschillen met betrekking tot de uitkering van een levensverzekering.  | K  |
 |  *Eindterm*   | *5d:* De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering de gevolgen van niet-premiebetaling en eventuele niet-toegestane aanspraken te verduidelijken aan de cliënt.  |
 | 5d.1  | De kandidaat kan uitleggen wat de consequenties zijn van wanbetaling voor de dekking van levensverzekeringen.  | B  |
 | 5d.2  | De kandidaat kan omschrijven welke vormvereisten het huidige verzekeringsrecht aan de verzekeraar oplegt in geval van niet-tijdige premiebetaling.  | K  |
 | 5d.3  | De kandidaat kan de consequenties uitleggen van het vervallen van de omkeerregel.  | B  |
-| 5d.4  | De kandidaat kan uitleggen op welk moment een pensioenpremie betaald moet zijn en hoe deze kan worden ingevorderd.  | B  |
-| 5d.5  | De kandidaat kan omschrijven wat de gevolgen zijn als een pensioenregeling als bovenmatig wordt beoordeeld.  | B  |
-| 5d.6  | De kandidaat kan opsommen welke consequenties de [Wet VPL](../../../../../../../../../wet/wet/aanpassing/fiscale/behandeling/vutprepensioen/en/introductie/etc/BWBR0018053/README.md) verbindt aan het voortbestaan van VUT- en prepensioenregelingen.  | K  |
-| 5d.7  | De kandidaat kan uitleggen wat de fiscale consequenties zijn als de wijze waarop door een DGA het pensioen in eigen beheer wordt uitgevoerd niet aan de gestelde eisen voldoet en/of bovenmatig is.  | B  |
+| 5d.4  |  
+Vervallen.   | --- |
+| 5d.5  |  
+Vervallen.   | --- |
+| 5d.6  |  
+Vervallen.   | --- |
+| 5d.7  |  
+Vervallen.   | --- |
 | 5d.8  | De kandidaat kan beoordelen of een ingegane lijfrente aan de fiscale eisen (IB) voldoet.  | B  |
 |  *Eindterm*   | *5e:* De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering met de cliënt op correcte wijze een meldingsformulier in te vullen.  |
 | 5e.1  | De kandidaat kan in een gegeven situatie beoordelen of een meldingsformulier met het oog op het verkrijgen van een uitkering of het verkrijgen van premievrijstelling van een levensverzekering volledig (genoeg) is ingevuld.  | Tp  |
 | 5e.2  | De kandidaat kan een meldingsformulier met het oog op het verkrijgen van een uitkering of het verkrijgen van premievrijstelling van een levensverzekering volledig (genoeg) invullen.  | K  |
 |  *Eindterm*   | *5f:* De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering een ingevuld meldingsformulier op juistheid te controleren.  |
-| 5f.1  | De kandidaat kan op correcte wijze een meldingsformulier gebruiken voor het verkrijgen van een uitkering uit hoofde van een pensioen- of levensverzekering.  | Tp  |
+| 5f.1  | De kandidaat kan op correcte wijze een meldingsformulier gebruiken voor het verkrijgen van een uitkering uit hoofde van een levensverzekering.  | Tp  |
 |  *Eindterm*   | *5g:* De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering op correcte wijze het meldingsformulier en overige informatie te verzenden.  |
-| 5g.1  | De kandidaat kan uitleggen op welke wijze de bescheiden ter verkrijging van een uitkering uit hoofde van een pensioen- of levensverzekering op correcte wijze kunnen worden ingediend bij de verzekeraar.  | B  |
+| 5g.1  | De kandidaat kan uitleggen op welke wijze de bescheiden ter verkrijging van een uitkering uit hoofde van een levensverzekering op correcte wijze kunnen worden ingediend bij de verzekeraar.  | B  |
 |  *Eindterm*   | *6a:* De personen zijn in staat met betrekking tot financiële instrumenten uit te leggen aan de consument waarom het voor een goed beleggingsadvies belangrijk is een risicoprofiel te maken.  |
-| 6a.1  | De kandidaat kan zorgplicht definiëren.  | --- |
-| 6a.2  | De kandidaat kan aan de klant uitleggen wat het belang is van het houden van een inventarisatiegesprek.  | --- |
+| 6a.1  | De kandidaat kan zorgplicht definiëren.  | K  |
+| 6a.2  | De kandidaat kan aan de klant uitleggen wat het belang is van het houden van een inventarisatiegesprek.  | B  |
 |  *Eindterm*   | *6b:* De personen zijn in staat met betrekking tot financiële instrumenten de voor het risicoprofiel benodigde informatie over de financiële positie, ervaring en doelstellingen van de consument te verzamelen, rekening te houden met de periodieke inkomsten, de financiële lasten, de kennis en ervaring, het huidige en voormalige beroep en het bezit van onroerende zaken.  |
 | 6b.1  | De kandidaat kan de eisen die de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) stelt ten aanzien van het vaststellen van een risicoprofiel benoemen.  | K  |
 | 6b.2  | De kandidaat kan inschatten welke valkuilen er zijn bij het in kaart brengen van de financiële positie, kennis, ervaring en beleggingsdoelstelling van de klant.  | Ti  |
-| 6b.3  | De kandidaat kan de inventarisatievragen categoriseren in de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (financiële positie, kennis, ervaring, doelstelling, risicobereidheid).  | Ti  |
+| 6b.3  | De kandidaat kan de inventarisatievragen in de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (financiële positie, kennis, ervaring, doelstelling, risicobereidbeid) beargumenteren en toepassen.  | Ti  |
 | 6b.4  | De kandidaat kan de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) categoriseren naar inventarisatievraag.  | B  |
 | 6b.5  | De kandidaat kan uitleggen welk verschil er is tussen een vermogensdoel met een objectieve danwel subjectieve prioriteit.  | B  |
 |  *Eindterm*   | *6c:* De personen zijn in staat met betrekking tot financiële instrumenten in actieve dialoog met de consument de risicotolerantie van de consument in kaart te brengen.  |
@@ -2143,71 +2228,71 @@ G.Zalm
 |  *Eindterm*   | *6d:* De personen zijn in staat met betrekking tot financiële instrumenten op basis van de verzamelde informatie vast te stellen welk risicoprofiel op dit moment past bij de consument en te onderbouwen waarom hij tot dit profiel gekomen is.  |
 | 6d.1  | De kandidaat kan het begrip risicoprofiel en cliëntprofiel definiëren.  | K  |
 | 6d.2  | De kandidaat kan uitleggen waarom de klant wordt ingedeeld in een risicoprofiel.  | B  |
-| 6d.3  | De kandidaat kan op basis van de gegevens van de klant beoordelen welk risicoprofiel erbij past.  | Ti  |
-| 6d.4  | De kandidaat kan van een gekozen risicoprofiel beoordelen welke klant erbij past.  | Ti  |
+| 6d.3  | De kandidaat kan op basis van de gegevens van de klant motiveren welk risicoprofiel erbij past.  | Ti  |
+| 6d.4  | De kandidaat kan van een gekozen risicoprofiel beargumenteren welke klant erbij past.  | Ti  |
 | 6d.5  | De kandidaat kan per antwoord van de klant aangeven wat het verband is met het risicoprofiel.  | B  |
 | 6d.6  | De kandidaat kan uitleggen dat de gebruikte instrumenten van aanbieders om het risicoprofiel op te stellen tot zeer wisselende uitkomsten kan leiden in gelijke situaties.  | B  |
 | 6d.7  | De kandidaat kan zelfstandig motiveren en vastleggen welk risicoprofiel van toepassing is, gelet op de beperkte betrouwbaarheid van de in de praktijk gebruikte instrumenten.  | Ti  |
 |  *Eindterm*   | *6e:* De personen zijn in staat met betrekking tot financiële instrumenten vast te stellen welke vorm van dienstverlening past bij het profiel en de wensen van de consument en, indien van toepassing, door te verwijzen naar een ander type adviseur en die financiële instrumenten te selecteren die passend zijn binnen hun competenties.  |
 | 6e.1  | De kandidaat kan de verschillende vormen van dienstverlening omschrijven.  | K  |
 | 6e.2  | De kandidaat kan de argumenten noemen die gelden wanneer de klant in aanmerking komt voor beleggen of niet.  | K  |
-| 6e.3  | De kandidaat kan de argumenten noemen die gelden wanneer een klant moet worden doorverwezen naar een andere vorm van dienstverlening.  | Ti  |
+| 6e.3  | De kandidaat kan beargumenteren wanneer een klant moet worden doorverwezen naar een andere vorm van dienstverlening.  | Ti  |
 |  *Eindterm*   | *7a:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten overeenstemming te bereiken met de consument, inclusief ondertekening door de consument, over het risicoprofiel.  |
 | 7a.1  | De kandidaat kan beschrijven wat hij moet doen wanneer de klant zich niet kan vinden in het gekozen risicoprofiel.  | K  |
 | 7a.2  | De kandidaat kan de mogelijkheden benoemen voor een klant die een lager cq hoger risicoprofiel wil.  | K  |
 |  *Eindterm*   | *7b:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten aan de consument uit te kunnen leggen wat wordt bedoeld met de risico- en rendementinformatie die wordt gegeven bij de strategische asset allocaties en wat dat voor hem betekent.  |
 | 7b.1  | De kandidaat kan een omschrijving geven van de begrippen ‘verwacht rendement’ en ‘standaarddeviatie.’  | K  |
-| 7b.2  | De kandidaat kan uitleggen wat het verband is tussen standaarddeviatie en waarschijnlijkheidsinterval van een SAA en in dit verband aangeven wat een normale verdeling is.  | B  |
-| 7b.3  | De kandidaat kan aantonen aan de klant wat het verband is tussen standaarddeviatie, waarschijnlijkheidsinterval en risico van een SAA.  | Tp  |
+| 7b.2  | De kandidaat kan uitleggen wat het verband is tussen standaarddeviatie en waarschijnlijkheidsinterval van een strategische asset allocatie en in dit verband aangeven wat een normale verdeling is.  | B  |
+| 7b.3  | De kandidaat kan aantonen aan de klant wat het verband is tussen standaarddeviatie, waarschijnlijkheidsinterval en risico van een strategische asset allocatie.  | Tp  |
 | 7b.4  | De kandidaat kan berekenen wat de kans is op een belegging met een worst case scenario als uitkomst bij een eenmalige belegging.  | Tp  |
 | 7b.5  | De kandidaat kan uitleggen wat de kans op een mogelijke uitkomst van een belegging in enig jaar is.  | B  |
 | 7b.6  | De kandidaat kan het verband tussen risico en rendement uitleggen.  | B  |
-| 7b.7  | De kandidaat kan aantonen dat de risico- en rendementsinformatie van een gekozen SAA past bij het risicoprofiel van de klant.  | Tp  |
-| 7b.8  | De kandidaat kan door middel van een berekening laten zien wat de consequentie is van een andere SAA en de consequentie daarvan voor verwachte risico en rendement.  | Tp  |
+| 7b.7  | De kandidaat kan aantonen dat de risico- en rendementsinformatie van een gekozen strategische asset allocatie past bij het risicoprofiel van de klant.  | Tp  |
+| 7b.8  | De kandidaat kan door middel van een berekening laten zien wat de consequentie is van een andere strategische asset allocatie en de consequentie daarvan voor verwachte risico en rendement.  | Tp  |
 | 7b.9  | De kandidaat kan het begrip ‘samengesteld rendement’ definiëren.  | K  |
-| 7b.10  | De kandidaat kan berekenen wat de verwachte eindwaarde is van zijn vermogen als wordt belegd volgens de SAA.  | Tp  |
-| 7b.11  | De kandidaat kan aan de hand van uitspraken van de klant over beleggen concluderen of de klant de risico’s van beleggen begrijpt.  | Ti  |
-| 7b.12  | De kandidaat kan het verband tussen risico en tijd benoemen.  | Ti  |
+| 7b.10  | De kandidaat kan berekenen wat de verwachte eindwaarde is van zijn vermogen als wordt belegd volgens de strategische asset allocatie.  | Tp  |
+| 7b.11  | De kandidaat kan aan de hand van uitspraken van de klant over beleggen inschatten of de klant de risico’s van beleggen begrijpt.  | Ti  |
+| 7b.12  | De kandidaat kan het verband tussen risico en tijd illustreren.  | Ti  |
 | 7b.13  | De kandidaat kan het risicotolerantiemodel definiëren.  | K  |
 | 7b.14  | De kandidaat kan uitleggen wat de minimaal vereiste beleggingshorizon betekent.  | B  |
 |  *Eindterm*   | *7c:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit te kunnen leggen op welke veronderstellingen de strategische asset allocaties zijn gebaseerd en kanttekeningen te plaatsen bij de gehanteerde risico- en rendementinformatie.  |
-| 7c.1  | De kandidaat kan een strategische asset allocatie definiëren.  | Ti  |
+| 7c.1  | De kandidaat kan een strategische asset allocatie opstellen.  | Ti  |
 | 7c.2  | De kandidaat kan uitleggen waarom er in het advies gebruik wordt gemaakt van een strategische asset allocatie.  | B  |
 | 7c.3  | De kandidaat kan de kenmerken van een strategische asset allocatie definiëren.  | K  |
 | 7c.4  | De kandidaat kan de kantekeningen benoemen bij het gebruik van de normale verdeling.  | K  |
 | 7c.5  | De kandidaat kan uitleggen wat de consequenties zijn van de kantekeningen bij de normale verdeling bij de geadviseerde Strategische asset allocatie.  | B  |
-| 7c.6  | De kandidaat kan de weging van de categorieën in een SAA uitleggen.  | B  |
+| 7c.6  | De kandidaat kan de weging van de categorieën in een strategische asset allocatie uitleggen.  | B  |
 |  *Eindterm*   | *7d:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten in overleg met de consument vast te stellen welke strategische asset allocatie die de diverse aanbieders hanteren, past bij het gekozen risicoprofiel.  |
 | 7d.1  | De kandidaat kan, gegeven een risicoprofiel, het verband aangeven tussen een strategische assetallocatie en de verdeling over de verschillende assetcategorieën.  | B  |
 | 7d.2  | De kandidaat kan, gegeven een risicoprofiel, het verband aangeven tussen een strategische assetallocatie en de risico-rendementsverhouding.  | B  |
 | 7d.3  | De kandidaat kan het begrip modelportefeuille definiëren.  | K  |
 |  *Eindterm*   | *7e:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit leggen waarom de gemaakte keuze een momentopname is en waarom het belangrijk is periodiek deze keuze te heroverwegen.  |
 | 7e.1  | De kandidaat kan uitleggen dat een risicoprofiel kan veranderen.  | B  |
-| 7e.2  | De kandidaat kan uitleggen wanneer er sprake is van een verandering in het cliëntprofiel.  | Ti  |
+| 7e.2  | De kandidaat kan inschatten wanneer er sprake is van een verandering in het cliëntprofiel.  | Ti  |
 |  *Eindterm*   | *7f:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit te leggen op welke wijze spreiding in de portefeuille kan worden gerealiseerd.  |
 | 7f.1  | De kandidaat kan diversificatie definiëren.  | K  |
 | 7f.2  | De kandidaat kan correlatie definiëren.  | K  |
 | 7f.3  | De kandidaat kan uitleggen wanneer er tussen twee financiële instrumenten sprake kan zijn van voordelen door diversificatie.  | B  |
-| 7f.4  | De kandidaat kan illustreren wat het verband is tussen risico en rendement van de verschillende SAA’s.  | Ti  |
+| 7f.4  | De kandidaat kan illustreren wat het verband is tussen risico en rendement van de verschillende strategische asset allocaties.  | Ti  |
 | 7f.5  | De kandidaat kan het verschil uitleggen tussen het marktrisico en specifiek risico.  | B  |
 | 7f.6  | De kandidaat kan uitleggen hoe spreiding wordt bereikt in een portefeuille.  | B  |
 | 7f.7  | De kandidaat kan uit een lijst portefeuilles een onderscheid maken tussen goed en slecht gediversifieerde portefeuilles.  | B  |
-| 8f.8  | De kandidaat kan van een slecht gediversifieerde portefeuille motiveren waarom deze slecht gespreid is.  | Ti  |
+| 7f.8  | De kandidaat kan van een slecht gediversifieerde portefeuille motiveren waarom deze slecht gespreid is.  | Ti  |
 |  *Eindterm*   | *7g:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten de voor- en nadelen te beschrijven van een belegging in beleggingsinstellingen als onderdeel van modelportefeuilles.  |
 | 7g.1  | De kandidaat kan de voor- en nadelen van collectief beleggen benoemen.  | K  |
-| 7g.2  | De kandidaat kan de kosten van collectief beleggen benoemen.  | --- |
-| 7g.3  | De kandidaat kan de verschillende kosten van beleggen definiëren.  | --- |
-| 7g.4  | De kandidaat kan uitleggen wat het verschil is tussen direct en indirect rendement van een beleggingsinstelling.  | --- |
+| 7g.2  | De kandidaat kan de kosten van collectief beleggen benoemen.  | K  |
+| 7g.3  | De kandidaat kan de verschillende kosten van beleggen definiëren.  | K  |
+| 7g.4  | De kandidaat kan uitleggen wat het verschil is tussen direct en indirect rendement van een beleggingsinstelling.  | B  |
 |  *Eindterm*   | *7h:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit te leggen wat de meest voorkomende vormen van beleggingsbeleid van beleggingsinstellingen inhouden en wat de kenmerken en risico’s van deze vormen zijn.  |
 | 7h.1  | De kandidaat kan de vormen van specialisatie bij beleggingsinstellingen benoemen.  | K  |
 | 7h.2  | De kandidaat kan uitleggen welke verschillen er zijn tussen de verschillende stijlen.  | B  |
-| 7h.3  | De kandidaat kan een aantal special products beschrijven.  | Ti  |
-| 7h.4  | De kandidaat kan aangeven wat het verschil is tussen een open end en een closed end fonds en aangeven wat het gevolg is van het verschil.  | K  |
+| 7h.3  | De kandidaat kan een aantal special products uitleggen.  | Ti  |
+| 7h.4  | De kandidaat kan het verschil tussen een open end en een closed end fonds benoemen en het gevolg van het verschil beschrijven.  | K  |
 | 7h.5  | De kandidaat kan op basis van een financiële bijsluiter aantonen welke kenmerken een beleggingsinstelling heeft.  | Tp  |
 |  *Eindterm*   | *7i:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten uit te leggen in welke objecten of financiële instrumenten beleggingsinstellingen beleggen, en wat de kenmerken en risico’s zijn van deze producten.  |
 | 7i.1  | De kandidaat kan de beleggingscategorieën van een strategische asset allocatie benoemen.  | K  |
 | 7i.2  | De kandidaat kan de verschillende beleggingscategorieën omschrijven.  | K  |
-| 7i.3  | De kandidaat kan benoemen welke vormen van financiële waarden onderdeel uitmaken van de beleggingscategorieën.  | Ti  |
+| 7i.3  | De kandidaat kan schetsen welke vormen van financiële waarden onderdeel uitmaken van de beleggingscategorieën.  | Ti  |
 | 7i.4  | De kandidaat kan de kenmerken van de beleggingscategorieën benoemen.  | K  |
 | 7i.5  | De kandidaat kan uitleggen wat het verband is tussen de beleggingscategorieën waarin wordt belegd en het profiel van de klant.  | B  |
 | 7i.6  | De kandidaat kan de kenmerken van fondsen met een hefboom uitleggen.  | B  |
@@ -2226,8 +2311,8 @@ G.Zalm
 | 7k.1  | De kandidaat kan een modelportefeuille categoriseren in een risicoprofiel.  | B  |
 | 7k.2  | De kandidaat kan concluderen of een beleggingsfonds past bij een gegeven risicoprofiel.  | B  |
 |  *Eindterm*   | *7l:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten de kenmerken en risico’s van financiële producten uit te leggen, waaronder, doch niet uitsluitend, het risico dat de consument tijdens of aan het einde van de looptijd een bijstorting moet doen of een restschuld overhoudt.  |
-| 7l.1  | De kandidaat kan de klant uitleggen wat de consequenties zijn van het niet behalen van het doelvermogen van de belegging.  | Ti  |
-| 7l.2  | De kandidaat kan de cliënt uitleggen dat beleggen het risico met zich meebrengt dat het einddoel niet gehaald wordt.  | Ti  |
+| 7l.1  | De kandidaat kan de klant schetsen wat de consequenties zijn van het niet behalen van het doelvermogen van de belegging.  | Ti  |
+| 7l.2  | De kandidaat kan de cliënt schetsen dat beleggen het risico met zich meebrengt dat het einddoel niet gehaald wordt.  | Ti  |
 |  *Eindterm*   | *7m:* De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten financiële producten met elkaar te vergelijken en bepalen of deze producten geschikt zijn voor een specifieke consument.  |
 | 7m.1  | De kandidaat kan concluderen of een financieel product met beleggingscomponent past bij de klant.  | B  |
 |  *Eindterm*   | *7n:* De personen zijn in staat met betrekking tot de totstandkoming van transacties van financiële instrumenten, integriteitsdilemma’s tussen bedrijfsbelang en klantbelang te analyseren, af te wegen en deze afwegingen te verantwoorden.  |
@@ -2239,10 +2324,10 @@ G.Zalm
 |  *Eindterm*   | *8a:* De personen zijn in staat met betrekking tot het beheer en mutatie van de overeenkomst inzake financiële instrumenten alle vereiste gegevens op de juiste manier vast te leggen in het klantdossier zodat ten minste aan de regels van de externe toezichthouder is voldaan.  |
 | 8a.1  | De kandidaat kan de eisen die de toezichthouder stelt aan de minimum hoeveelheid informatie die wordt vastgelegd benoemen.  | K  |
 | 8a.2  | De kandidaat kan van elk van deze eisen uitleggen wat eronder wordt verstaan.  | B  |
-| 8a.3  | De kandidaat kan beoordelen of de klant voldoende informatie heeft gegeven om vast te leggen in het cliëntdossier.  | Ti  |
-| 8a.4  | De kandidaat kan in verschillende situaties aangeven wanneer er een actieve waarschuwing aan de orde is.  | Ti  |
+| 8a.3  | De kandidaat kan inschatten of de klant voldoende informatie heeft gegeven om vast te leggen in het cliëntdossier.  | Ti  |
+| 8a.4  | De kandidaat kan in verschillende situaties inschatten wanneer er een actieve waarschuwing aan de orde is.  | Ti  |
 |  *Eindterm*   | *8b:* De personen zijn in staat met betrekking tot de totstandkoming van transacties van financiële instrumenten vast te stellen of bijsturing van de portefeuille nodig is, gegeven het eerder vastgestelde risicoprofiel.  |
-| 8b.1  | De kandidaat kan aantonen wanneer er sprake is van afwijking van de samenstelling van de portefeuille ten opzichte van de gewenste portefeuille en welke actie hij moet ondernemen.  | Ti  |
+| 8b.1  | De kandidaat kan motiveren wanneer er sprake is van afwijking van de samenstelling van de portefeuille ten opzichte van de gewenste portefeuille en welke actie hij moet ondernemen.  | Ti  |
 | 8b.2  | De kandidaat kan scheefgroei in en rebalancing/herschikken van een portefeuille definiëren.  | K  |
 | 8b.3  | De kandidaat kan uitleggen waarom er bij scheefgroei gerebalanced moet worden.  | B  |
 |  *Eindterm*   | *8c:* De personen zijn in staat met betrekking tot het beheer en de mutatie van de overeenkomst inzake financiële instrumenten tijdens mutatiemomenten of door verstrekte informatie van de consument, te signaleren of een wijziging in de persoonlijke financiële situatie een wijziging betekent in het risicoprofiel van de consument, waardoor de strategische asset allocatie bijgesteld zou kunnen worden en andere passende financiële instrumenten kunnen worden geselecteerd.  |
@@ -2252,7 +2337,7 @@ G.Zalm
 | 8c.4  | De kandidaat kan op basis van uitspraken van de klant inschatten of er wijzigingen zijn in het cliëntprofiel.  | Ti  |
 | 8c.5  | De kandidaat kan de situaties benoemen waarin hij zijn klant moet vragen naar de veranderingen die van invloed zijn op het profiel.  | K  |
 |  *Eindterm*   | *8d:* De personen zijn in staat met betrekking tot het beheer en de mutatie van de overeenkomst inzake financiële instrumenten de onder c bedoelde wijzigingen te vertalen in een concreet advies over aanpassing van de strategische asset allocatie.  |
-| 8d.1  | De kandidaat kan aantonen wat het effect is van een wijziging in het profiel van de klant op het risicoprofiel van de klant.  | Ti  |
+| 8d.1  | De kandidaat kan schetsen wat het effect is van een wijziging in het profiel van de klant op het risicoprofiel van de klant.  | Ti  |
 | 8d.2  | De kandidaat kan uitleggen wat de klant moet doen wanneer er sprake is van een wijziging in zijn financiële situatie.  | B  |
 | 8d.3  | De kandidaat is in staat provisie- en vergoedingsregels uit te leggen aan de consument. De kandidaat is in staat de cliëntovereenkomst correct toe te passen.  | Ti  |
 
@@ -2390,7 +2475,7 @@ G.Zalm
 | 2k.1  | De kandidaat kan het verschil aangeven tussen de verschillende soorten tussenpersonen.  | B  |
 | 2k.2  | De kandidaat kan omschrijven met welke aspecten een assurantie-tussenpersoon in de praktijk te maken heeft.  | K  |
 | 2k.3  | De kandidaat kan een omschrijving geven van de verschillende rechts-  vormen waarin het bedrijf van een assurantietussenpersoon kan worden uitgeoefend.  | K  |
-| 2k.4  | De kandidaat kan in eigen woorden aangeven wat de doelstelling en reikwijdte van de [Wet financiële dienstverlening](../../../../../../../../../wet/wet/financiële/dienstverlening/BWBR0018329/README.md) is.  | B  |
+| 2k.4  | De kandidaat kan in eigen woorden aangeven wat de doelstelling en reikwijdte van de [Wet financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is.  | B  |
 | 2k.5  | De kandidaat kan de regels noemen die het [deel Gedragstoezicht van de Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan financiële dienstverleners stelt.  | K  |
 | 2k.6  | De kandidaat kan uitleggen hoe de aansprakelijkheid van de tussenpersoon en Gevolmachtigde Agent is geregeld.  | B  |
 | 2k.7  | De kandidaat kan de verplichtingen noemen waaraan de tussenpersoon en Gevolmachtigde Agent op het gebied van aansprakelijkheid moeten voldoen.  | K  |
@@ -2408,19 +2493,19 @@ G.Zalm
 | 3a.5  | De kandidaat kan het doel van de wetten met betrekking tot de verzekeringsovereenkomst omschrijven.  | K  |
 | 3a.6  | De kandidaat kan beoordelen of een gebeurtenis volgens de wet onder de dekking valt.  | Ti  |
 |  *Eindterm*   | *3b:* De personen beschikken met betrekking tot brandverzekeringen over grondige kennis van de verschillende vormen van brandverzekering en de toepassing daarvan.  |
-| 3b.1  | De kandidaat kan het ontstaan van de NBBP omschrijven.  | K  |
-| 3b.2  | De kandidaat kan de doelstelling van de NBBP beschrijven.  | K  |
+| 3b.1  | De kandidaat kan het ontstaan van de NBB2006 omschrijven.  | K  |
+| 3b.2  | De kandidaat kan de doelstelling van de NBB2006 beschrijven.  | K  |
 | 3b.3  | De kandidaat kan uitleggen wat de betekenis is van artikel 22 depot.  | B  |
-| 3b.4  | De kandidaat kan beargumenteren tegen welke basisgevaren de NBBP dekking biedt en hoe hieraan uitbreiding gegeven kan worden.  | Ti  |
-| 3b.5  | De kandidaat kan omschrijven op welke wijze de verzekeraars in hun maatschappijpolissen gebruik maken van de NBBP.  | K  |
+| 3b.4  | De kandidaat kan beargumenteren tegen welke basisgevaren de NBB2006 dekking biedt en hoe hieraan uitbreiding gegeven kan worden.  | Ti  |
+| 3b.5  | De kandidaat kan omschrijven op welke wijze de verzekeraars in hun maatschappijpolissen gebruik maken van de NBB2006.  | K  |
 | 3b.6  | De kandidaat kan uitleggen waarvoor de NBUG gebruikt wordt en wat de inhoud hiervan is.  | B  |
-| 3b.7  | De kandidaat kan met een praktijkvoorbeeld de begripsomschrijvingen uit de NBBP interpreteren.  | Ti  |
+| 3b.7  | De kandidaat kan met een praktijkvoorbeeld de begripsomschrijvingen uit de NBB2006 interpreteren.  | Ti  |
 | 3b.8  | De kandidaat kan dekkingsvragen uitwerken over zakelijk belang, hypotheekrecht, pandrecht, appartementsrecht en het behoud van een zaak en de aansprakelijkheid daarvoor.  | Ti  |
-| 3b.9  | De kandidaat is in staat om de dekkingen van de NBBP voorwaarden uit te leggen.  | B  |
+| 3b.9  | De kandidaat is in staat om de dekkingen van de NBB2006 voorwaarden uit te leggen.  | B  |
 | 3b.10  | De kandidaat kan de dekkingen en begripsomschrijvingen toepassen in gegeven dekkingsvraagstukken.  | Tp  |
 | 3b.11  | De kandidaat kan het verschil aangeven tussen bereddingskosten en opruimingskosten en dit middels een voorbeeld aantonen.  | Tp  |
 | 3b.12  | De kandidaat kan de verplichtingen van de verzekeringnemer toelichten en het belang hiervan aantonen aan de hand van een voorbeeld.  | Tp  |
-| 3b.13  | De kandidaat kan aan de hand van de omvang van de dekking beargumenteren welke gebeurtenissen onder de dekking van de NBBP vallen.  | Ti  |
+| 3b.13  | De kandidaat kan aan de hand van de omvang van de dekking beargumenteren welke gebeurtenissen onder de dekking van de NBB2006 vallen.  | Ti  |
 | 3b.14  | De kandidaat kan de werking van de mededelingsplicht en de bestemmingswijziging motiveren.  | Ti  |
 | 3b.15  | De kandidaat kan uitleggen hoe verzekeraars zich tegen tussentijdse risicoverzwaring kunnen beschermen.  | B  |
 | 3b.16  | De kandidaat kan de inhoud van de bekendheid- en belendingenclausule uitleggen.  | B  |
@@ -2429,7 +2514,7 @@ G.Zalm
 | 3b.19  | De kandidaat kan ten aanzien van de schaderegeling de verschillende waardemaatstaven toelichten en de waardebegrippen toepassen. (gebouwen,bedrijfsuitrusting, goederen en inboedels).  | Tp  |
 | 3b.20  | De kandidaat kan uitleggen wat de drie functies van de verzekerde som in de polis zijn.  | B  |
 | 3b.21  | De kandidaat kan indexeringsberekeningen maken voor woonhuizen en inboedels.  | Tp  |
-| 3b.22  | De kandidaat kan beargumenteren wat de gang van zaken is bij overgang van het verzekerde belang, met toepassing van de wettelijke aspecten en de bepalingen uit de NBBP voor goederen, gebouwen en inventarissen.  | Ti  |
+| 3b.22  | De kandidaat kan beargumenteren wat de gang van zaken is bij overgang van het verzekerde belang, met toepassing van de wettelijke aspecten en de bepalingen uit de NBB2006 voor goederen, gebouwen en inventarissen.  | Ti  |
 | 3b.23  | De kandidaat kan de vier premie elementen noemen.  | K  |
 | 3b.24  | De kandidaat kan uitleggen op welke wettelijke gronden de premie betaling is gestoeld.  | B  |
 | 3b.25  | De kandidaat kan het delcredererisico en de kwijtingsclausule uitleggen.  | B  |
@@ -2453,7 +2538,7 @@ G.Zalm
 | 3c.14  | De kandidaat kan uitleggen op welk gebied de UGV voor winkels, bedrijven, goederen en inventaris afwijkt van de UGV voor woonhuizen en inboedels.  | B  |
 | 3c.15  | De kandidaat kan aangeven welke ongeoorloofde manieren om binnen te komen gelijk gesteld worden aan inbraak.  | K  |
 | 3c.16  | De kandidaat kan beargumenteren hoe een bij een inbraakschade omgegaan dient te worden met inventarisatieschade.  | Ti  |
-| 3c.17  | De kandidaat kan de meest kenmerkende wijzigingen van de NBUG ten opzichte van de NBB voorwaarden noemen.  | K  |
+| 3c.17  | De kandidaat kan de meest kenmerkende wijzigingen van de NBUG ten opzichte van de NBB2006 voorwaarden noemen.  | K  |
 | 3c.18  | De kandidaat kan de definitie geven van een verzekerbaar belang.  | K  |
 | 3c.19  | De kandidaat kan aan de hand van een financieel verslag een onderneming analyseren.  | Ti  |
 | 3c.20  | De kandidaat kan de functies van de jaarrekening liquiditeit, solvabiliteit en rentabiliteit uitleggen.  | B  |
@@ -2567,7 +2652,7 @@ G.Zalm
 | 4b.2  | De kandidaat kan de begrippen, dwingend, semi-dwingend en regelend recht omschrijven.  | K  |
 | 4b.3  | De kandidaat kan een overzicht geven van de verschillende rechtsbronnen.  | K  |
 | 4b.4  | De kandidaat kan aangeven welke verdragen van toepassing zijn op transportverzekeringen.  | K  |
-| 4b.5  | De kandidaat kan aangeven welke beurspolissen de NVAB in het leven heeft geroepen.  | K  |
+| 4b.5  | De kandidaat kan aangeven welke beurspolissen de VNAB in het leven heeft geroepen.  | K  |
 | 4b.6  | De kandidaat kan in een gegeven situatie uitleggen wat het begrip eigen gebrek inhoudt.  | B  |
 | 4b.7  | De kandidaat kan aangeven hoe de verjaring is geregeld en waar dit is vastgelegd.  | K  |
 | 4b.8  | De kandidaat kan aan de hand van een gegeven voorbeeld uitleggen wat het begrip causaliteitsleer betekent.  | B  |
@@ -2587,7 +2672,7 @@ G.Zalm
 | 4c.9  | De kandidaat kan aangeven hoe de administratieve procedure in de praktijk werkt bij de verschillende contractpolissen.  | K  |
 | 4c.10  | De kandidaat kan een omschrijving geven van meerderewaardeverzekering, de verschil in conditie verzekering, de overnameverzekering en de eigenvervoerverzekering.  | K  |
 | 4c.11  | De kandidaat kan de strekking van de gebruikelijk opgenomen clausules uitleggen.  | Tp  |
-| 4c.12  | De kandidaat kan de systematiek van de Intitute Cargo Clauses uitleggen.  | B  |
+| 4c.12  | De kandidaat kan de systematiek van de Institute Cargo Clauses uitleggen.  | B  |
 | 4c.13  | De kandidaat kan aangeven wat de verschillen zijn tussen de dekkingen volgens Nederlands recht en hoe dat in Engelse polissen is geregeld.  | B  |
 | 4c.14  | De kandidaat kan de verschillen tussen de ICC A,B enC aangeven.  | B  |
 | 4c.15  | De kandidaat kan de strekking van de overige ICC clausules weergeven.  | K  |
@@ -2638,7 +2723,7 @@ G.Zalm
 | 4f.15  | De kandidaat kan een overzicht geven van de gedekte gevaren en de algemene uitsluitingen.  | K  |
 | 4f.16  | De kandidaat kan toelichten wat de maximum aansprakelijkheid inhoudt.  | B  |
 | 4f.17  | De kandidaat kan globaal omschrijven wat er is vastgelegd in de Rotterdamse Overeenkomst inzake kleine aanvaringsschades in de binnenvaart.  | K  |
-| 4f.18  | De kandidaat kan aangeven welke soorten clausules in de NBCP kunnen worden opgenomen en welke gebruikelijk worden opgenomen.  | K  |
+| 4f.18  | De kandidaat kan aangeven welke soorten clausules in de NBCP voor de Binnenvaart kunnen worden opgenomen en welke gebruikelijk worden opgenomen.  | K  |
 | 4f.19  | De kandidaat kan globaal aangeven wat de inhoud is van deze gebruikelijk opgenomen clausules.  | K  |
 | 4f.20  | De kandidaat kan globaal de inhoud van de facultatieve clausules weergeven.  | K  |
 | 4f.21  | De kandidaat kan aan de hand van een gegeven situatie de werking van de averij grosse toelichten en aangeven welke kosten voor rekening van verzekeraars komen.  | Ti  |
@@ -2686,7 +2771,7 @@ G.Zalm
 | 5b.22  | De kandidaat kan omschrijven voor welke vormen van zorg de [ZVW](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) dekking biedt.  | K  |
 | 5b.23  | De kandidaat kan aangeven hoe de premie voor de [ZVW](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt opgebouwd.  | K  |
 | 5b.24  | De kandidaat kan aangeven hoe de acceptatieplicht van de [ZVW](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) werkt.  | K  |
-| 5b.25  | De kandidaat kan aangeven wat de consequenties zijn van het niet-betalen van de premie voor de [ZVW](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  | K  |
+| 5b.25  | De kandidaat kan berekenen wat de consequenties zijn van het niet verzekerd zijn en het niet betalen van de premie voor de [ZVW](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  | Tp  |
 | 5b.26  | De kandidaat kan uitleggen hoe de eigenrisicoregeling werkt.  | B  |
 | 5b.27  | De kandidaat kan aangeven wat de functie van de [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) in het zorgverzekeringsstelsel is.  | K  |
 | 5b.28  | De kandidaat kan aangeven voor welke behandelingen de [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) dekking geeft en hoe deze wordt gefinancierd.  | K  |
@@ -2935,11 +3020,12 @@ G.Zalm
 | 6c.15  | De kandidaat kan aan de hand van concrete gegevens omtrent de aflossingsvorm of renteconstructie van een hypothecair krediet berekeningen maken (van bijvoorbeeld het rentepercentage, de verzekeringspremies, beleggingsbedrag of de spaartermijn).  | Ti  |
 | 6c.16  | De kandidaat kan aan de hand van concrete gegevens omtrent beschikbaar inkomen, fiscale faciliteiten en gewenste oudedags- of nabestaandenuitkeringen berekeningen maken (van bijvoorbeeld de verzekeringspremies, beleggingsbedragen of de spaarbedragen).  | Ti  |
 | 6c.17  | De kandidaat kan aan de hand van concrete gegevens de klant uitleggen wat de voor- en nadelen zijn van een spaarrekening of een beleggingsrekening in vergelijking tot elkaar en tot een levensverzekeringoplossing  | Ti  |
+| 6c.18  | De kandidaat kan aan de hand van een berekening demonstreren wat een doorwerkbonus of uitstel van de AOW voor financiële consequenties heeft een aangeven welke consequenties het meebetalen aan de AOW heeft op het pensioeninkomen.  | Ti  |
 |  *Eindterm*   | *6d:* De personen beschikken met betrekking tot levensverzekeringen over grondige kennis van de uit een levensverzekeringsovereenkomst voortvloeiende rechten.  |
 | 6d.1  | De kandidaat kan de betrokkenen bij de levensverzekeringsovereenkomst opnoemen en aangeven welke rechten en plichten deze hebben  | K  |
 | 6d.2  | De kandidaat kan het verschil aangeven tussen Vervangingsleer en leer van het zelfstandig recht.  | B  |
 | 6d.3  | De kandidaat kan een opsomming geven van de rechten en plichten van de verzekeringsnemer en uitleg geven van de gevolgen  | B  |
-| 6d.4  | De kandidaat kan omschrijven welke informatie met betrekking tot de [WTV](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) verstrekt dient te worden  | K  |
+| 6d.4  | De kandidaat kan omschrijven welke informatie met betrekking tot de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekt dient te worden  | K  |
 | 6d.5  | De kandidaat kan het gehele proces van Acceptatie levensverzekeringen, het moment van overeenkomst, alsmede de gevolgen van de individuele vragen op het aanvraagformulier illustreren aan de hand van een voorbeeld.  | Ti  |
 | 6d.6  | De kandidaat kan uitleg geven over de inhoud van de [wet Medische Keuringen](../../../../../../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md) en deze toepassen in een gegeven casus.  | Tp  |
 | 6d.7  | De kandidaat kan uitleggen wanneer een voorlopige dekking mogelijk is en tot welke bedragen.  | B  |
@@ -2950,16 +3036,16 @@ G.Zalm
 | 6d.12  | De kandidaat kan de bijzondere risico’s benoemen en toepassen op een gegeven situatie.  | Tp  |
 | 6d.13  | De kandidaat kan de bijzondere bepalingen benoemen en toe passen (zoals bijvoorbeeld: verzorgersclausule, lijfrenteclausule, verpandingsclausule.)  | Tp  |
 | 6d.14  | De kandidaat kan wijziging van verzekeringsvormen en uitkeringen in de praktijk toepassen en beoordelen, alsmede een berekening maken.  | Tp  |
-| 6d.15  | De kandidaat kan de bepalingen van de wetten [MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) en [WID](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) op juiste wijze interpreteren.  | Ti  |
-| 6d.16  | De kandidaat kan demonstreren op welke wijze genoegzaam aan de bepalingen van de wetten [MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) en [WID](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) kan worden voldaan.  | Ti  |
+| 6d.15  | De kandidaat kan de bepalingen van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) op juiste wijze interpreteren.  | Ti  |
+| 6d.16  | De kandidaat kan demonstreren op welke wijze genoegzaam aan de bepalingen van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) kan worden voldaan.  | Ti  |
 | 6d.17  | De kandidaat kan de bepalingen uit de [Wet medische keuringen](../../../../../../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md) in een praktijksituatie toepassen.  | Tp  |
-| 6d.18  | De kandidaat kan beoordelen in welke gevallen een melding op grond van de [Wet MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) noodzakelijk is.  | Tp  |
-| 6d.19  | De kandidaat kan de verplichtingen die uit hoofde van de wetten [WID](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) en [MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) aan financiële dienstverleners zijn opgelegd toepassen.  | Tp  |
-| 6d.20  | De kandidaat kan omschrijven wanneer ter voldoening aan de [WID](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) met een zgn. afgeleide identificatie kan worden volstaan en wanneer niet.  | B  |
-| 6d.21  | De kandidaat kan aangeven in welke gevallen de meldingsplicht uit hoofde van de [wet MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) geldt in verband met levensverzekeringen.  | B  |
-| 6d.22  | De kandidaat kan aangeven in welke gevallen identificatie vóór het afsluiten van levensverzekeringen noodzakelijk is uit hoofde van de [WID](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).  | K  |
-| 6d.23  | De kandidaat kan opsommen voor welke levensverzekeringen de [WID](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) niet van toepassing is.  | K  |
-| 6d.24  | De kandidaat kan aangeven bij welke instantie(s) meldingen uit hoofde van de wet [MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) moeten worden ingediend.  | K  |
+| 6d.18  | De kandidaat kan beoordelen in welke gevallen een melding op grond van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) noodzakelijk is.  | Tp  |
+| 6d.19  | De kandidaat kan de verplichtingen die uit hoofde van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) aan financiële dienstverleners zijn opgelegd toepassen.  | Tp  |
+| 6d.20  | De kandidaat kan omschrijven wanneer ter voldoening aan de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) met een zgn. afgeleide identificatie kan worden volstaan en wanneer niet.  | B  |
+| 6d.21  | De kandidaat kan aangeven in welke gevallen de meldingsplicht uit hoofde van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) geldt in verband met levensverzekeringen.  | B  |
+| 6d.22  | De kandidaat kan aangeven in welke gevallen identificatie vóór het afsluiten van levensverzekeringen noodzakelijk is uit hoofde van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft).  | K  |
+| 6d.23  | De kandidaat kan opsommen voor welke levensverzekeringen de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) niet van toepassing is.  | K  |
+| 6d.24  | De kandidaat kan aangeven bij welke instantie(s) meldingen uit hoofde van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) moeten worden ingediend.  | K  |
 |  *Eindterm*   | *6e:* De personen beschikken met betrekking tot levensverzekeringen over kennis van de belastingwetgeving voor zover relevant voor de levensverzekering.  |
 | 6e.1  | De kandidaat kan de verschillende belastingen opnoemen.  | K  |
 | 6e.2  | De kandidaat kan de belastingplichtigen opsommen.  | K  |
@@ -2984,6 +3070,7 @@ G.Zalm
 | 6e.21  | De kandidaat kan uitleggen wat de mogelijkheden zijn met betrekking tot de Oudedagsreserve (OR) en de omzetting in een lijfrente.  | B  |
 | 6e.22  | De kandidaat kan met een berekening de fiscale consequenties laten zien van het omzetten van een eenmanszaak in een BV.  | Tp  |
 | 6e.23  | De kandidaat kan de voorwaarden van de bedrijfsspaarregeling benoemen.  | K  |
+| 6e.24  | De kandidaat is in staat de fiscale gevolgen van de belastingplannen in zijn advies uit te werken en aan de klant uit te leggen.  | Ti  |
 |  *Eindterm*   | *6f:* De personen beschikken met betrekking tot levensverzekeringen over kennis van de wet en regelgeving ten aanzien van pensioenen.  |
 | 6f.1  | De kandidaat kan beschrijven in welke box de lijfrente wordt behandeld.  | K  |
 | 6f.2  | De kandidaat kan de verschillende mogelijkheden van lijfrente benoemen.  | K  |
@@ -2998,13 +3085,14 @@ G.Zalm
 | 6f.11  | De kandidaat de diverse pensioenvormen benoemen.  | K  |
 | 6f.12  | De kandidaat kan de verschillende pensioenvormen schetsen en evalueren.  | Ti  |
 | 6f.13  | De kandidaat kan ten aanzien van de pensioenregeling de uitzonderingspositie van de DGA beargumenteren.  | Ti  |
-| 6f.14  | De kandidaat kan de regelgeving van de pensioenwetgeving toepassen en beoordelen aan de hand van voorbeelden, daarbij aangeven wanneer de [PSW](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) (vanaf 1-1-2006 de nieuwe [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)) niet van toepassing is.  | Tp  |
+| 6f.14  | De kandidaat kan de regelgeving van de pensioenwetgeving toepassen en beoordelen aan de hand van voorbeelden, daarbij aangeven wanneer de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) niet van toepassing is.  | Tp  |
 | 6f.15  | De kandidaat kan de regelgeving met betrekking tot pensioen en echtscheiding benoemen.  | K  |
 | 6f.16  | De kandidaat kan de regelgeving ten aanzien van pensioen en echtscheiding toepassen en een eenvoudige berekeningen maken.  | Tp  |
 | 6f.17  | De kandidaat kan een onderscheid maken tussen de oude en nieuwe regelgeving op pensioengebied.  | B  |
 | 6f.18  | De kandidaat kan de regelgeving met betrekking tot de Fiscale behandeling oudedagsvoorziening opnoemen.  | K  |
 | 6f.19  | De kandidaat kan de regelgeving met betrekking tot de Levensloopregeling opnoemen  | K  |
 | 6f.20  | De kandidaat kan de regelgeving met betrekking tot Gelijke behandeling bij levensverzekeringen opnoemen  | K  |
+| 6f.21  | De kandidaat kan aantonen op welke wijze hij tot een passend advies is gekomen.  | Tp  |
 |  *Eindterm*   | *6g:* De personen beschikken met betrekking tot levensverzekeringen over kennis van het huwelijksvermogensrecht, het erfrecht en het faillissementsrecht voor zover relevant voor de levensverzekering.  |
 | 6g.1  | De kandidaat kan de twee mogelijkheden van erfrecht benoemen.  | K  |
 | 6g.2  | De kandidaat kan de vereiste om te kunnen erven benoemen.  | K  |
@@ -3012,7 +3100,7 @@ G.Zalm
 | 6g.4  | De kandidaat kan de regelgeving ten aanzien van successie en schenking opnoemen.  | K  |
 | 6g.5  | De kandidaat kan ten aanzien van successie en schenking de gevolgen van de diverse mogelijkheden van premiebetaling bij levensverzekeringen aangeven.  | B  |
 | 6g.6  | De kandidaat kan de vrijstellingsbedragen ten aanzien van successie en schenking opnoemen.  | K  |
-| 6g.7  | De kandidaat kan het doel van de wet Schenkingsrecht beschrijven.  | K  |
+| 6g.7  | De kandidaat kan het doel van de [Successiewet](../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) beschrijven.  | K  |
 | 6g.8  | De kandidaat kan het begrip aanvaarding van begunstiging omschrijven.  | K  |
 | 6g.9  | De kandidaat kan de regelgeving met betrekking tot opgaveplicht van de verzekeraar benoemen.  | K  |
 | 6g.10  | De kandidaat kan beargumenteren wanneer er wel/geen opgaveplicht is.  | Ti  |
@@ -3027,26 +3115,26 @@ G.Zalm
 |  *Eindterm*   | *6i:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij combinatie met financiële instrumenten, de voor het risicoprofiel benodigde informatie over de financiële positie, ervaring en doelstellingen van de consument te verzamelen, rekening te houden met de periodieke inkomsten, de financiële lasten, de kennis en ervaring, het huidige en voormalige beroep en het bezit van onroerende zaken.  |
 | 6i.1  | De kandidaat kan de eisen die de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) stelt ten aanzien van het vaststellen van een risicoprofiel benoemen.  | K  |
 | 6i.2  | De kandidaat kan inschatten welke valkuilen er zijn bij het in kaart brengen van de financiële positie, kennis, ervaring en beleggingsdoelstelling van de klant.  | Ti  |
-| 6i.3  | De kandidaat kan de inventarisatievragen categoriseren in de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): financiële positie, kennis, ervaring, doelstelling, risicobereidheid.  | B  |
+| 6i.3  | De kandidaat kan de inventarisatievragen in de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (financiële positie, kennis, ervaring, doelstelling, risicobereidheid) beargumenteren en toepassen.  | Ti  |
 | 6i.4  | De kandidaat kan de rubrieken uit de [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) categoriseren naar inventarisatievraag.  | B  |
 | 6i.5  | De kandidaat kan uitleggen welk verschil er is tussen een vermogensdoel met een objectieve dan wel subjectieve prioriteit.  | B  |
 |  *Eindterm*   | *6j:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij combinatie met financiële instrumenten, in actieve dialoog met de consument de risicotolerantie van de consument in kaart te brengen.  |
 | 6j.1  | De kandidaat kan risicotolerantie en risico definiëren.  | K  |
-| 6j.2  | De kandidaat kan per vraag uitleggen wat het verband is tussen de vraag en de risicotolerantie van de klant.  | Ti  |
+| 6j.2  | De kandidaat kan per vraag uitleggen wat het verband is tussen de vraag en de risicotolerantie van de klant.  | B  |
 | 6j.3  | De kandidaat kan demonstreren wanneer sprake is van tegenstrijdige antwoorden van de klant op vragen.  | Ti  |
 | 6j.4  | De kandidaat kan per antwoord van de klant op een vraag uit de vragenlijst, een additionele vraag stellen die daarmee verband houdt.  | Tp  |
 |  *Eindterm*   | *6k:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij combinatie met financiële instrumenten, op basis van de verzamelde informatie vast te stellen welk risicoprofiel op dit moment past bij de consument en te onderbouwen waarom hij tot dit profiel gekomen is.  |
 | 6k.1  | De kandidaat kan het begrip risicoprofiel en cliëntprofiel definiëren.  | K  |
 | 6k.2  | De kandidaat kan uitleggen waarom de klant wordt ingedeeld in een risicoprofiel.  | B  |
-| 6k.3  | De kandidaat kan op basis van de gegevens van de klant beoordelen welk risicoprofiel erbij past.  | Tp  |
-| 6k.4  | De kandidaat kan van een gekozen risicoprofiel beoordelen welke klant erbij past.  | Tp  |
+| 6k.3  | De kandidaat kan op basis van de gegevens van de klant motiveren welk risicoprofiel erbij past.  | Ti  |
+| 6k.4  | De kandidaat kan van een gekozen risicoprofiel beargumenteren welke klant erbij past.  | Ti  |
 | 6k.5  | De kandidaat kan per antwoord van de klant aangeven wat het verband is met het risicoprofiel.  | B  |
 | 6k.6  | De kandidaat kan uitleggen dat de gebruikte instrumenten van aanbieders om het risicoprofiel op te stellen tot zeer wisselende uitkomsten kan leiden in gelijke situaties.  | B  |
 | 6k.7  | De kandidaat kan zelfstandig motiveren en vastleggen welk risicoprofiel van toepassing is, gelet op de beperkte betrouwbaarheid van de in de praktijk gebruikte instrumenten.  | Ti  |
 |  *Eindterm*   | *6l:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij combinatie met financiële instrumenten, vast te stellen welke vorm van dienstverlening past bij het profiel en de wensen van de consument en, indien van toepassing, door te verwijzen naar een ander type adviseur en die financiële instrumenten te selecteren die passend zijn binnen hun competenties.  |
 | 6l.1  | De kandidaat kan de verschillende vormen van dienstverlening omschrijven.  | K  |
 | 6l.2  | De kandidaat kan de argumenten noemen die gelden wanneer de klant in aanmerking komt voor beleggen of niet.  | K  |
-| 6l.3  | De kandidaat kan de argumenten noemen die gelden wanneer een klant moet worden doorverwezen naar een andere vorm van dienstverlening.  | K  |
+| 6l.3  | De kandidaat kan beargumenteren wanneer een klant moet worden doorverwezen naar een andere vorm van dienstverlening.  | Ti  |
 |  *Eindterm*   | *6m:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, overeenstemming te bereiken met de consument, inclusief ondertekening door de consument, over het risicoprofiel.  |
 | 6m.1  | De kandidaat kan beschrijven wat hij moet doen wanneer de klant zich niet kan vinden in het gekozen risicoprofiel.  | K  |
 | 6m.2  | De kandidaat kan de mogelijkheden benoemen voor een klant die een lager dan wel hoger risicoprofiel wil.  | K  |
@@ -3061,12 +3149,12 @@ G.Zalm
 | 6n.8  | De kandidaat kan door middel van een berekening laten zien wat de consequentie is van een andere strategische asset allocatie en de consequenties daarvan voor verwacht risico en rendement.  | Tp  |
 | 6n.9  | De kandidaat kan het begrip ‘samengesteld rendement’ definiëren.  | K  |
 | 6n.10  | De kandidaat kan berekenen wat de verwachte eindwaarde is van het vermogen als wordt belegd volgens de strategische asset allocatie.  | Tp  |
-| 6n.11  | De kandidaat kan aan de hand van uitspraken van de klant over beleggen concluderen of de klant de risico’s van beleggen begrijpt.  | B  |
-| 6n.12  | De kandidaat kan het verband tussen risico en tijd benoemen.  | K  |
+| 6n.11  | De kandidaat kan aan de hand van uitspraken van de klant over beleggen inschatten of de klant de risico’s van beleggen begrijpt.  | Ti  |
+| 6n.12  | De kandidaat kan het verband tussen risico en tijd illustreren.  | Ti  |
 | 6n.13  | De kandidaat kan het risicotolerantiemodel definiëren.  | K  |
 | 6n.14  | De kandidaat kan uitleggen wat de minimaal vereiste beleggingshorizon betekent.  | B  |
 |  *Eindterm*   | *6o:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te kunnen leggen op welke veronderstellingen de strategische asset allocaties zijn gebaseerd en kanttekeningen te plaatsen bij de gehanteerde risico- en rendementinformatie.  | --- |
-| 6o.1  | De kandidaat kan een strategische asset allocatie definiëren.  | K  |
+| 6o.1  | De kandidaat kan een strategische asset allocatie opstellen.  | Ti  |
 | 6o.2  | De kandidaat kan uitleggen waarom in het advies gebruik wordt gemaakt van een strategische asset allocatie.  | B  |
 | 6o.3  | De kandidaat kan de kenmerken van een strategische asset allocatie definiëren.  | K  |
 | 6o.4  | De kandidaat kan de kanttekeningen benoemen bij het gebruik van de normale verdeling.  | K  |
@@ -3078,7 +3166,7 @@ G.Zalm
 | 6p.3  | De kandidaat kan het begrip modelportefeuille definiëren.  | K  |
 |  *Eindterm*   | *6q:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te kunnen leggen waarom de gemaakte keuze een momentopname is en waarom het belangrijk is periodiek deze keuze te heroverwegen.  |
 | 6q.1  | De kandidaat kan uitleggen dat een risicoprofiel kan veranderen.  | B  |
-| 6q.2  | De kandidaat kan uitleggen wanneer sprake is van een verandering in het cliëntprofiel.  | B  |
+| 6q.2  | De kandidaat kan inschatten wanneer sprake is van een verandering in het cliëntprofiel.  | Ti  |
 |  *Eindterm*   | *Eindterm 6r:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te leggen op welke wijze spreiding in de portefeuille kan worden gerealiseerd.  |
 | 6r.1  | De kandidaat kan diversificatie definiëren.  | K  |
 | 6r.2  | De kandidaat kan correlatie definiëren.  | K  |
@@ -3087,7 +3175,7 @@ G.Zalm
 | 6r.5  | De kandidaat kan het verschil uitleggen tussen marktrisico en specifiek risico.  | B  |
 | 6r.6  | De kandidaat kan uitleggen hoe spreiding wordt bereikt in een portefeuille.  | B  |
 | 6r.7  | De kandidaat kan uit een lijst portefeuilles een onderscheid maken tussen goed en slecht gediversifieerde portefeuilles.  | B  |
-| 6r.8  | De kandidaat kan van een slecht gediversifieerde portefeuille motiveren waarom deze slecht gespreid is.  | Tp  |
+| 6r.8  | De kandidaat kan van een slecht gediversifieerde portefeuille motiveren waarom deze slecht gespreid is.  | Ti  |
 |  *Eindterm*   | *6s:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, de voor- en nadelen te beschrijven van een belegging in beleggingsinstellingen als onderdeel van de modelportefeuille.  |
 | 6s.1  | De kandidaat kan de voor- en nadelen van collectief beleggen benoemen.  | K  |
 | 6s.2  | De kandidaat kan de kosten van collectief beleggen benoemen.  | K  |
@@ -3096,13 +3184,13 @@ G.Zalm
 |  *Eindterm*   | *6t:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te leggen wat de meest voorkomende vormen van beleggingsbeleid van beleggingsinstellingen inhouden en wat de kenmerken en de risico’s van deze vormen zijn.  |
 | 6t.1  | De kandidaat kan de vormen van specialisatie bij beleggingsinstellingen benoemen.  | K  |
 | 6t.2  | De kandidaat kan uitleggen welke verschillen er zijn tussen de verschillende vormen.  | B  |
-| 6t.3  | De kandidaat kan een aantal special products beschrijven.  | K  |
-| 6t.4  | De kandidaat kan aangeven wat het verschil is tussen een open end en een closed end fonds en aangeven wat het gevolg is van het verschil.  | K  |
+| 6t.3  | De kandidaat kan een aantal special products uitleggen.  | Ti  |
+| 6t.4  | De kandidaat kan het verschil tussen een open end en een closed end fonds benoemen en het gevolg van het verschil beschrijven.  | K  |
 | 6t.5  | De kandidaat kan op basis van een financiële bijsluiter aantonen welke kenmerken een beleggingsinstelling heeft.  | Tp  |
 |  *Eindterm*   | *6u:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, uit te leggen in welke objecten of financiële instrumenten beleggingsinstellingen beleggen, en wat de kenmerken en risico’s zijn van deze producten.  |
 | 6u.1  | De kandidaat kan de beleggingscategorieën van een strategische asset allocatie benoemen.  | K  |
 | 6u.2  | De kandidaat kan de verschillende beleggingscategorieën omschrijven.  | K  |
-| 6u.3  | De kandidaat kan benoemen welke vormen van financiële waarden onderdeel uitmaken van de beleggingscategorieën.  | K  |
+| 6u.3  | De kandidaat kan schetsen welke vormen van financiële waarden onderdeel uitmaken van de beleggingscategorieën.  | Ti  |
 | 6u.4  | De kandidaat kan de kenmerken van de beleggingscategorieën benoemen.  | K  |
 | 6u.5  | De kandidaat kan uitleggen wat het verband is tussen de beleggingscategorieën waarin wordt belegd en het profiel van de klant.  | B  |
 | 6u.6  | De kandidaat kan de kenmerken van fondsen met een hefboom uitleggen.  | B  |
@@ -3121,8 +3209,8 @@ G.Zalm
 | 6w.1  | De kandidaat kan een modelportefeuille categoriseren in een risicoprofiel.  | B  |
 | 6w.2  | De kandidaat kan concluderen of een beleggingsfonds past bij een gegeven risicoprofiel.  | B  |
 |  *Eindterm*   | *6x:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, de kenmerken en risico’s van financiële producten uit te leggen, waaronder, doch niet uitsluitend, het risico dat de consument tijdens of aan het einde van de looptijd een bijstorting moet doen of een restschuld overhoudt.  |
-| 6x.1  | De kandidaat kan de klant uitleggen wat de consequenties zijn van het niet behalen van het doelvermogen van de belegging.  | B  |
-| 6x.2  | De kandidaat kan de klant uitleggen dat beleggen het risico met zich brengt dat het einddoel niet gehaald wordt.  | B  |
+| 6x.1  | De kandidaat kan de klant schetsen wat de consequenties zijn van het niet behalen van het doelvermogen van de belegging.  | Ti  |
+| 6x.2  | De kandidaat kan de klant schetsen dat beleggen het risico met zich brengt dat het einddoel niet gehaald wordt.  | Ti  |
 |  *Eindterm*   | *6y:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, financiële producten met elkaar te vergelijken en te bepalen of deze producten geschikt zijn voor een specifieke consument.  |
 | 6y.1  | De kandidaat kan concluderen of een financieel product met beleggingscomponent past bij de klant.  | B  |
 |  *Eindterm*   | *6z:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij de totstandkoming van transacties in financiële instrumenten, integriteitsdilemma’s tussen bedrijfsbelang en klantbelang te analyseren, af te wegen en deze afwegingen te verantwoorden.  |
@@ -3134,20 +3222,20 @@ G.Zalm
 |  *Eindterm*   | *6aa:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij het beheer en de mutatie van de overeenkomst inzake financiële instrumenten, alle vereiste gegevens op de juiste manier vast te leggen in het klantdossier zodat ten minste aan de regels van de externe toezichthouder is voldaan.  |
 | 6aa.1  | De kandidaat kan de eisen benoemen die de toezichthouder stelt aan de minimum hoeveelheid informatie die wordt vastgelegd.  | K  |
 | 6aa.2  | De kandidaat kan van elk van deze eisen uitleggen wat eronder wordt verstaan.  | B  |
-| 6aa.3  | De kandidaat kan beoordelen of de klant voldoende informatie heeft gegeven om vast te leggen in het klantdossier.  | Ti  |
-| 6aa.4  | De kandidaat kan in verschillende situaties aangeven wanneer een actieve waarschuwing aan de orde is.  | Tp  |
+| 6aa.3  | De kandidaat kan inschatten of de klant voldoende informatie heeft gegeven om vast te leggen in het klantdossier.  | Ti  |
+| 6aa.4  | De kandidaat kan in verschillende situaties inschatten wanneer een actieve waarschuwing aan de orde is.  | Ti  |
 |  *Eindterm*   | *6bb:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij het beheer en de mutatie van de overeenkomst inzake financiële instrumenten, vast te stellen of bijsturen van de portefeuille nodig is, gegeven het eerder vastgestelde risicoprofiel.  |
-| 6bb.1  | De kandidaat kan aantonen wanneer sprake is van afwijking van de samenstelling van de portefeuille ten opzichte van de gewenste portefeuille en welke actie hij moet ondernemen.  | K  |
-| 6bb.2  | De kandidaat kan scheefgroei in en rebalancing/herschikken van een portefeuille definiëren.  | B  |
-| 6bb.3  | De kandidaat kan uitleggen waarom er bij scheefgroei rebalanced moet worden.  | Tp  |
+| 6bb.1  | De kandidaat kan motiveren wanneer sprake is van afwijking van de samenstelling van de portefeuille ten opzichte van de gewenste portefeuille en welke actie hij moet ondernemen.  | Ti  |
+| 6bb.2  | De kandidaat kan scheefgroei in en rebalancing/herschikken van een portefeuille definiëren.  | K  |
+| 6bb.3  | De kandidaat kan uitleggen waarom er bij scheefgroei rebalanced moet worden.  | B  |
 |  *Eindterm*   | *6cc:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij het beheer en de mutatie van de overeenkomst inzake financiële instrumenten, tijdens mutatiemomenten of door verstrekte informatie van de consument, te signaleren of een wijziging in de persoonlijke financiële situatie een wijziging betekent in het risicoprofiel van de consument, waardoor de strategische asset allocatie bijgesteld zou kunnen worden en andere passende financiële instrumenten kunnen worden geselecteerd.  |
-| 6cc.1  | De kandidaat kan beoordelen of er wijzigingen zijn in het profiel van de klant.  | K  |
-| 6cc.2  | De kandidaat kan aanwijzen welke zaken in het profiel kunnen veranderen.  | B  |
-| 6cc.3  | De kandidaat kan uitleggen wat de consequentie is van een verandering in het risicoprofiel.  | Ti  |
-| 6cc.4  | De kandidaat kan op basis van uitspraken van de klant inschatten of er wijzigingen zijn in het cliëntprofiel.  | K  |
+| 6cc.1  | De kandidaat kan beoordelen of er wijzigingen zijn in het profiel van de klant.  | Tp  |
+| 6cc.2  | De kandidaat kan aanwijzen welke zaken in het profiel kunnen veranderen.  | K  |
+| 6cc.3  | De kandidaat kan beargumenteren wat de consequentie is van een verandering in het risicoprofiel.  | Ti  |
+| 6cc.4  | De kandidaat kan op basis van uitspraken van de klant inschatten of er wijzigingen zijn in het cliëntprofiel.  | Ti  |
 | 6cc.5  | De kandidaat kan de situaties benoemen waarin hij zijn klant moet vragen naar de veranderingen die van invloed zijn op het profiel.  | K  |
 |  *Eindterm*   | *6dd:* De personen beschikken met betrekking tot levensverzekeringen over de kennis om, bij het beheer en de mutatie van de overeenkomst inzake financiële instrumenten, de onder cc bedoelde wijzigingen te vertalen in een concreet advies over aanpassing van de strategische asset allocatie.  |
-| 6dd.1  | De kandidaat kan aantonen wat het effect is van een wijziging in het profiel van de klant op het risicoprofiel van de klant.  | Tp  |
+| 6dd.1  | De kandidaat kan schetsen wat het effect is van een wijziging in het profiel van de klant op het risicoprofiel van de klant.  | Ti  |
 | 6dd.2  | De kandidaat kan uitleggen wat de klant moet doen wanneer sprake is van een wijziging in zijn financiële situatie.  | B  |
 | 6dd.3  | De kandidaat is in staat provisie- en vergoedingsregels uit te leggen aan de consument en is in staat de cliëntovereenkomst correct toe te passen.  | Ti  |
 |  *Eindterm*   | *7a:* De personen beschikken over grondige kennis van de structuur van het verzekeringsbedrijf en de bedrijfskolom.  |
@@ -3317,10 +3405,10 @@ G.Zalm
 | 8f.21  | De kandidaat kan omschrijven wat de functie is van het CBP.  | K  |
 | 8f.22  | De kandidaat kan aangeven wanneer persoonsgegevens mogen worden verwerkt en wanneer niet.  | K  |
 | 8f.23  | De kandidaat kan aangeven hoe de informatieplicht in de [WBP](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is geregeld.  | K  |
-| 8f.24  | De kandidaat kan het doel van de [WID](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) en de [Wet MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) omschrijven.  | K  |
+| 8f.24  | De kandidaat kan het doel van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) omschrijven.  | K  |
 | 8f.25  | De kandidaat kan omschrijven wanneer van een ongebruikelijke transactie sprake is.  | K  |
 | 8f.26  | De kandidaat kan omschrijven waar een ongebruikelijke transactie moet worden gemeld.  | K  |
-| 8f.27  | De kandidaat kan omschrijven wanneer volgens de [WID](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) identificatie noodzakelijk is, hoe deze moet geschieden en hoe deze in de administratie moet worden vastgelegd.  | K  |
+| 8f.27  | De kandidaat kan omschrijven wanneer volgens de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) (Wwft) identificatie noodzakelijk is, hoe deze moet geschieden en hoe deze in de administratie moet worden vastgelegd.  | K  |
 | 8f.28  |  [Regeling informatieverstrekking aan Verzekeringnemers](../../../../../../../../../ministeriele-regeling/regeling/informatieverstrekking/aan/verzekeringnemers/1998/BWBR0009784/README.md)   De kandidaat kan het doel van de [Regeling Informatieverstrekking aan Verzekeringnemers](../../../../../../../../../ministeriele-regeling/regeling/informatieverstrekking/aan/verzekeringnemers/1998/BWBR0009784/README.md) omschrijven.  | K  |
 | 8f.29  | De kandidaat kan de uitvoering van de Gedragscode geïnformeerde verlenging en contractstermijnen particuliere schadeverzekeringen toepassen.  | Tp  |
 |  *Eindterm*   | *9a:* De personen beschikken over kennis van de wet in het algemeen en grondige kennis van die bepalingen gericht op de gevolmachtigde agent.  |
@@ -3340,6 +3428,7 @@ G.Zalm
 | 9b.3  | De kandidaat kan de portefeuillerechten van de assurantie-tussenpersoon definiëren.  | K  |
 | 9b.4  | De kandidaat kan het recht van portefeuille dat de verzekeraar of de gevolmachtigde agent heeft omschrijven.  | K  |
 | 9b.5  | De kandidaat kan het begrip feitelijke leider bij een assurantie-bemiddelingsbedrijf en een volmachtbedrijf definiëren.  | K  |
+| 9b.6  | De kandidaat is in staat ten aanzien van schadeverzekeringen en inkomensverzekeringen voor particulieren in hoofdlijnen te schetsen hoe de productinformatie door de gevolmachtigde agent aan de consument moet plaatsvinden.  | Ti  |
 |  *Eindterm*   | *9c:* De personen beschikken over kennis van de toezichtwetgeving op het verzekeringsbedrijf.  |
 | 9c.1  | De kandidaat kan een opsomming geven van de verschillende toezichtsystemen.  | K  |
 | 9c.2  | De kandidaat kan opsommen op welke wijze de harmonisatie van verzekeringsrichtlijnen binnen de EU is geregeld.  | K  |
@@ -3361,6 +3450,195 @@ G.Zalm
 | 9d.2  | De kandidaat kan in eigen woorden uitleggen wat het doel is van de [Sanctiewet](../../../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) (Freezelist) en kan daarnaast aangeven op welke wijze verzekeraars en gevolmachtigde agenten aan de eisen van deze wet dienen te voldoen.  | Tp  |
 
 ### Bijlage  7  
+
+####Toetstermen pensioenverzekeringen en premiepensioenvorderingen
+
+| Nummer toetsterm  | Termen  | T  |
+|:---|:---|:---|
+|  *Eindterm*   |  *De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:*    *1a. grondige en actuele kennis met betrekking tot relevante wetgeving inzake pensioen en directeur-grootaandeelhouder-pensioentoezegging, voor zover deze niet in eigen beheer wordt opgebouwd.*   |
+| 1a.1  | De kandidaat kan de relatietussen [Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) (AOW), [Algemene nabestaandenwet](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) (ANW) Wet werk en inkomen naar arbeidsvermogen (WIA) en pensioen vanuit de rechtsgronden van de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) (PW) en de fiscale wetgeving verklaren.  | B  |
+| 1a.2  | De kandidaat kan de relatietussen ziekte en arbeidsongeschiktheid en pensioenopbouw beschrijven.  | K  |
+| 1a.3  | De kandidaat kan uitleggen hoe wetgeving rond gelijke behandeling inwerkt op het pensioen.  | B  |
+| 1a.4  | De kandidaat kan uitleggen hoe het Burgerlijk Wetboek (BW) en de Pensioenwet (PW) inwerkt op de arbeidsovereenkomst met betrekking tot pensioen.  | B  |
+| 1a.5  | De kandidaat kan de invloedvan individuele en collectieve waardeoverdracht op het adviestraject aangeven.  | B  |
+| 1a.6  | De kandidaat kan uitleggen welke invloed fiscale wetgeving en de Pensioenwet (PW) hebben op de uitvoeringsovereenkomst met betrekking tot flexibiliseringselementen.  | B  |
+| 1a.7  | De kandidaat kan uitleggen hoe de [Wet op de Ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) (WOR) inwerkt op pensioen.  | B  |
+| 1a.8  | De kandidaat kan benoemen welke gevolgen de Financial Accounting Standards (FAS) en de International Financial Reporting Standards (IFRS) hebben op de bedrijfsvoering bij de verschillende pensioenregelingen.  | K  |
+| 1a.9  | De kandidaat kan de gevolgen aangeven van [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) (Wet BPF) en het bestaan van een beroepspensioenfonds of een ondernemingspensioenfonds op de pensioenregeling van de werkgever.  | B  |
+| 1a.10  | De kandidaat kan de gevolgen aangeven die de [Wet op de collectieve arbeidsovereenkomst](../../../../../../../../../wet/wet/op/de/collectieve/arbeidsovereenkomst/BWBR0001937/README.md) (CAO) kan hebben op de pensioenregeling van de werkgever.  | B  |
+| 1a.11  | De kandidaat kan de relatie aangeven tussen de [Wet op de loonbelasting 1964](../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) (Wet LB) en [Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) (Wet IB) op pensioen.  | B  |
+| 1a.12  | De kandidaat kan bij echtscheiding ten aanzien van zijn pensioenadvies de volgende wet- en regelgeving toepassen en de gevolgen uitleggen: [Wet verevening pensioenrechten bij scheiding](../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) (Wet VPS) en pensioenverrekening volgens het arrest Boon van Loon (*HR 27 november 1981, NJ 1982, 503*). De kandidaat kan verbanden leggen tussen huwelijkse voorwaarden en pensioenregeling. De kandidaat kan ten aanzien van zijn advies over een pensioenverzekering en premiepensioenvordering omgaan met huwelijkse voorwaarden en of echtscheidingsconvenant, jurisprudentie rond verevening pensioenrechten bij scheiding en deling van de partner om deze te verzekeren bij pensioenverzekeraar.  | B  |
+| 1a.13  | De kandidaat kan de juiste inhoud beschrijven van de pensioenbrief ingeval van gedeeltelijk verzekeren en gedeeltelijk eigen beheer.  | K  |
+| 1a.14  | De kandidaat kan de inhoud uitleggen van de bestaande pensioenbrief bij volledig eigen beheer.  | B  |
+| 1a.15  | De kandidaat kan de impact beschrijven van de inhoud van een pensioenbrief waarin een deel wordt herverzekerd ten opzichte van twee losse pensioenbrieven.  | K  |
+| 1a.16  | De kandidaat kan de gevolgen beschrijven van prijsgeven, belenen, afkopen en kan hiervan voorbeelden geven. De kandidaat kan het begrip ‘voor zover voor verwezenlijking vatbaar’ beschrijven.  | K  |
+| 1a.17  | De kandidaat kan de fiscale aspecten beschrijven van pensioen in eigen beheer en verzekeren, basiskennis winstbepalingen (artikel 3:25 e.v. Wet IB), grondige kennis bepalingen Wet op de loonbelasting 1964 (art 18 e.v. Wet LB) basiskennis zakelijkheidbepalingen [Wet op de vennootschapsbelasting 1969](../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) (Vpb) inclusief artikel 8 lid 6 (leeftijd terugstellingen) en de collectieve gangbaarheidtoets.  | K  |
+| 1a.18  | De kandidaat kan het verschil aan geven tussen een dekkingspolis en een polis met een loonbelastingclausule en kan uitleggen welke polis voor een specifieke DGA de beste keuze is.  | B  |
+| 1a.19  | De kandidaat kan de aspecten verklaren van de werking van de pensioenvoorziening in de uitkeringsfase bij eigen beheer (bijvoorbeeld verliesverdamping, gevolg winstreserve en langlevenrisico).  | B  |
+| 1a.20  | De kandidaat kan de aspecten verklaren van de werking van de uitkeringsfase bij een verzekerde regeling (verschil tussen pensioenuitkering van verzekeraar als gevolg van afstorting ten opzichte van eigen beheer en gevolgen voor indexering).  | B  |
+| 1a.21  | De kandidaat kan de belangrijke aspecten beschrijven bij het maken van een pensioenbrief bij gedeeltelijk verzekeren en gedeeltelijk eigen beheer.  | K  |
+| 1a.22  | De kandidaat kan de begrippen ‘bepaald deel verzekerd’ en ‘onbepaald deel verzekerd’ uitleggen.  | B  |
+| 1a.23  | De kandidaat kan de invloed uitleggen van een bestaande pensioenregeling, (gedeeltelijk) verzekerd dan wel in eigen beheer, op verkoop van de werkgever-bv en de invloed op een bestaande pensioenregeling bij liquidatie en faillissement van de werkgever.  | B  |
+| 1a.24  | De kandidaat kan de gevolgen beschrijven van het aangaan van en aanpassingen op een pensioenverzekering en premiepensioenvordering tijdens looptijd. De kandidaat houdt daarbij rekening met de polisredactie, kan de indexatietoezegging analyseren en kan dit toepassen op de hoogte van het te adviseren verzekeringsproduct.  | B  |
+| 1a.25  | De kandidaat kan het begrip ‘open indexatie’ beschrijven. De kandidaat kan gevolgen Overgangsrecht Witteveen, Wet VUT, Pensioen en Levensloop (Wet VPL) en [Invoerings- en aanpassingswet Pensioenwet](../../../../../../../../../wet/invoerings-/en/aanpassingswet/pensioenwet/BWBR0020828/README.md) (IPW) (de gevolgen indien lopend DGA - pensioen onder de Pensioenwet valt door overgangsrecht) signalere en kan daarbij situaties beschrijven wanneer waardeoverdracht kan worden toegepast naar de DGA - pensioenverzekering.  | K  |
+| 1a.26  | De kandidaat kan de risico’s van de DGA en zijn besloten vennootschap bij arbeidsongeschiktheid uitleggen.  | B  |
+| 1a.27  | De kandidaat kan de civiel juridische aspecten uitleggen van pensioen aan een DGA (met name arbeidsrecht, overige bepalingen Burgerlijk Wetboek (BW) en de [Wet op de medische keuringen](../../../../../../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md) (Wmk)).  | B  |
+| 1a.28  | De kandidaat kan, met betrekking tot partnerpensioen het verschil tussen opbouwpartnerpensioen en risicopartnerpensioen beschrijven en kan daarbij beschrijven hoe dit in de pensioenbrief (erfrente, risicokapitaal) er uit ziet.. De kandidaat kan de bepalingen rond restbegunstiging in de Wet op de loonbelasting 1964 (Wet LB) beschrijven. De kandidaat kan daarbij de gevolgen van de dekking van het partnerpensioen bij wijziging van de pensioengrondslag beschrijven. De kandidaat kan de alternatieven van partnerpensioen beschrijven (bijvoorbeeld geen partnerpensioen toezeggen maar een losse risicodekking al dan niet met lijfrenteclausule). De kandidaat kan de eventuele gevolgen benoemen (o.a. fiscale) van het onvoldoende verzekeren van een toegezegd partnerpensioen. Kan de globale gevolgen benoemen met betrekking tot erfbelasting bij het vrijvallen van pensioenverplichtingen of dekkingspolis met restitutie.  | K  |
+| 1a.29  | De kandidaat kan de risico’s van de DGA en zijn besloten vennootschap beschrijven met betrekking tot overlijden van de DGA ten behoeve van partner en nabestaanden wanneer er tevens sprake is van een pensioenverplichting. Kandidaat kan dit tevens toepassen in situaties als: liquidatie, faillissement, onvoldoende middelen en onderverzekering.  | B  |
+| 1a.30  | De kandidaat kan de bv-structuur vanuit financiële, juridische invalshoeken analyseren in verband met de pensioenregeling (dienstverband, historie opbouw pensioen, enkelvoudige geconsolideerde balans). De kandidaat kan een verplicht gestelde deelname aan een bedrijfstakpensioenfonds of een bedrijfspensioenregeling signaleren. De kandidaat kan huidige en toekomstige liquiditeitspositie en financiële draagkracht van de betrokken vennootschappen onderzoeken met betrekking tot pensioenvoorziening ingeval eigen beheer en geheel of gedeeltelijk verzekeren. De kandidaat kan de begrippen intern- en extern eigen beheer uitleggen alsmede de invloed van de hoogte van de pensioenverplichting bij intern eigen beheer versus extern eigen beheer.  | B  |
+| 1a.31  | De kandidaat kan de fiscale kaders voor de loonbelasting en de gevolgen van de inkomstenbelasting en de vennootschapsbelasting beschrijven en uitleggen. De kandidaat kan omgaan vanuit fiscale optiek met optimalisatie naar laagste belastingdruk, en kan behoefte met betrekking tot maximeren van pensioengevend loon aangeven.  | B  |
+| 1a.32  | De kandidaat kan bij afstorting van het pensioen naar een verzekeraar de civiel- juridische, fiscale, boekhoudkundige en verzekeringstechnische aspecten van de afstorting aangeven. De kandidaat kan in het bijzonder de gevolgen aangeven van het resultaat en de liquiditeitspositie van het eigen beheerlichaam wanneer een voorwaardelijk ouderdomspensioen of een geconverteerde pensioenaanspraak wordt overgedragen aan een professionele verzekeraar, alsmede de mate waarin de pensioenlast in mindering kan worden gebracht op het resultaat bij het geheel of gedeeltelijk afstorten naar een verzekeraar. De kandidaat legt de verschillen tussen de commerciële en de fiscale pensioenvoorziening uit en geeft de achtergrond hiervan aan.  | B  |
+|  *Eindterm*   |  *De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:*    *1b. toegepaste begrippen en procedures inzake actuarieel rekenen.*   |
+| 1b.1  | De kandidaat kan de volgende pensioenbegrippen omschrijven en kan deze in voorkomende gevallen toepassen: tranche, U rendement, rente termijnstructuur, garantiepremie, technisch resultaat, gesepareerd depot, maatschappij winstdeling, rekenrente, bestemmingsreserve, toeslag, dispensatie, life cycle, bepaald en onbepaald partner, gehuwdheids-frequentie, uitruilvoet, bruto- en netto opslag op premie, generatietafel, overlevingstafels, leeftijdverschuiving.  | B  |
+| 1b.2  | De kandidaat kan de financiering van eind- en middelloonregelingen, toeslagen en salarisverhogingen beschrijven.  | K  |
+| 1b.3  | De kandidaat kan de volgende pensioenbegrippen omschrijven en kan deze in voorkomende gevallen toepassen: toetredingsleeftijd, drempelperiode, wachttijd, minimale toetredingsleeftijd, premieovereenkomst, kapitaalovereenkomst, uitkeringsovereenkomst, AOW franchise, loonindex, prijsindex, onvoorwaardelijke toeslag, voorwaardelijke toeslag, gewezen deelnemer, verschillende premiestaffels, diensttijd, elementen die diensttijd bepalen, de aanspraken die in stand blijven met levensloop en/of onbetaald verlof, tussentijds ontslag, VUT en prepensioenregeling, spaar Vut, de gevolgen van het verbod op leeftijdsdiscriminatie ook in verband met eigen bijdrage.  | B  |
+| 1b.4  | De kandidaat kan het begrip waardeoverdracht omschrijven en kan deze in voorkomende gevallen toepassen, geeft aan, welke pensioenregelingen een financieel risico inhouden bij waardeoverdracht en kan in algemene zin de gevolgen van collectieve waardeoverdracht aangeven.  | B  |
+| 1b.5  | De kandidaat kan het effect van een gemiddelde stijging van de leeftijd op de pensioenlasten benoemen.  | K  |
+| 1b.6  | De kandidaat kan het effect van in- en uitstroom op de pensioenlasten uitleggen.  | B  |
+| 1b.7  | De kandidaat kan met behulp van relevante wet- en regelgeving uitleggen of parttimers mogen worden uitgesloten van deelname aan een pensioenregeling.  | B  |
+| 1b.8  | De kandidaat kan uitleggen wat de mogelijkheden en onmogelijkheden zijn met betrekking tot pensioenopbouw bij bijzondere arbeidscontracten.  | B  |
+| 1b.9  | De kandidaat kan uitleggen in welk geval de arbeidsovereenkomst invloed heeft op de pensioenregeling van de werknemer.  | B  |
+| 1b.10  | De kandidaat kan beschrijven wanneer ongelijke behandeling is toegestaan.  | K  |
+| 1b.11  | De kandidaat kan ‘direct en indirect onderscheid’ omschrijven en kan beschrijven hoe verzekeraars het verbod op onderscheid tussen man en vrouw in hun verzekeringstarieven verrekenen.  | K  |
+| 1b.12  | De kandidaat kan definiëren wat leeftijdsdiscriminatie is binnen een pensioenregeling.  | K  |
+| 1b.13  | De kandidaat kan in voorkomende gevallen de effecten van actuele ontwikkelingen en wijzigingen in wet en regelgeving voor de pensioenregeling aangeven.  | B  |
+| 1b.14  | De kandidaat kan de informatie die benodigd is voor het maken van een passend pensioenadvies omschrijven en completeren.  | K  |
+| 1b.15  | De kandidaat kan verschillende manieren van kostenbepaling aangeven, waaronder percentage vaste kosten.  | B  |
+| 1b.16  | De kandidaat kan aspecten rondom start en einde dienstverband, moment van verwerven van de aanspraak door de deelnemer, moment wanneer een werkgever een aanbod moet doen omtrent pensioen, gevolgen van uitdiensttreding, welke risicoafdekking er kan zijn bij overlijden en wat de gevolgen zijn van het overlijden van de deelnemer voor de nabestaanden en de werkgever benoemen en beschrijven.  | K  |
+| 1b.17  | De kandidaat kan de werkgever en de werknemer uitleggen wat er gebeurt bij arbeidsongeschiktheid van de werknemer.  | B  |
+| 1b.18  | De kandidaat kan de gevolgen van echtscheiding/ontbinding partnerregelingen voor de werknemer met betrekking tot de verwachtingen ten aanzien van pensioen beschrijven en berekenen, licht het begrip ‘dekkingsgraad’ toe, omschrijft afstempelen en manieren om de dekkingsgraad te beïnvloeden.  | B  |
+| 1b.19  | De kandidaat kan de gevolgen van faillissement van de werkgever met betrekking tot pensioenregeling beschrijven.  | K  |
+| 1b.20  | De kandidaat kan de werkgever over de toekomstige pensioenlasten bij verschillende scenario’s van de ontwikkeling van de onderneming uitleggen  | B  |
+| 1b.21  | De kandidaat kan in relatie tot andere verzekeraars met andere producten het inlooprisico, het uitlooprisico, de inhoud van het convenant Van Leeuwen beschrijven; kan het begrip ‘carenzjaar’ omschrijven en het belang beschrijven dat werknemers tijdig worden aangemeld.  | K  |
+|  *Eindterm*   |  *De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:*    *1c. toegepaste juridische kennis met betrekking tot rechtspersonen en ondernemingsstructuren.*   |
+| 1c.1  | De kandidaat kan de juridische structuur, bevoegdheden, organen en kenmerken van een eenmanszaak, vennootschap onder firma, maatschap, commanditaire vennootschap, vereniging, stichting, besloten vennootschap en naamloze vennootschap omschrijven.  | K  |
+| 1c.2  | De kandidaat kan in concrete gevallen de vertegenwoordigingsbevoegdheid met betrekking tot pensioenregeling aangeven en kan daarbij de gegevens Kamer van Koophandel (KvK) raadplegen.  | B  |
+| 1c.3  | De kandidaat kan aangeven wie de beslissers zijn bij de gevallen van 2c.2 en kan aangeven wat de verschillen zijn tussen vertegenwoordigingbevoegdheid en beslisbevoegdheid, ook binnen een internationaal bedrijf.  | B  |
+| 1c.4  | De kandidaat kan in concrete situaties de aansprakelijkheid van( rechts)personen benoemen.  | K  |
+| 1c.5  | De kandidaat kan de rechtsverhoudingen binnen de structuur van een onderneming met meerdere ondernemingen omschrijven.  | K  |
+| 1c.6  | De kandidaat kan de verschillende fusievormen uitleggen alsmede de consequenties voor de pensioenregelingen bij fusies en overnames (overgangsbepalingen, etcetera) .  | B  |
+| 1c.7  | De kandidaat kan de betekenis van een overgang van onderneming alsmede de uitzonderingsregel beschrijven en kan benoemen welke rechten er bij een overgang van onderneming overgaan.  | K  |
+| 1c.8  | De kandidaat kan opsommen aan welke regels een Nederlandse vestiging van een internationaal bedrijf met een hoofdzetel in het buitenland is gehouden.  | K  |
+|  *Eindterm*   |  *De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:*    *1d. grondige en actuele kennis met betrekking tot pensioenverzekeringen als onderdeel van het pakket van arbeidsvoorwaarden van een werkgever.*   |
+| 1d.1  | De kandidaat kan de juridische en financiële consequenties van het aangaan van een pensioenovereenkomst beschrijven.  | K  |
+| 1d.2  | De kandidaat kan de werkgever de risico’s van het afstand doen van pensioen door een deelnemer uitleggen en kan de werkgever adviseren hoe hij hier mee om kan gaan.  | B  |
+| 1d.3  | De kandidaat kan de invloed van de Wet op de medische keuringen (Wmk) op het acceptatieproces verklaren, inclusief in- en uitlooprisico’s.  | B  |
+| 1d.4  | De kandidaat kan de werking van premievrijstelling bij arbeidsongeschiktheid beschrijven.  | K  |
+| 1d.5  | De kandidaat kan de verschillende wijzen verklaren waarop nabestaandenpensioen kan worden verzekerd.  | B  |
+| 1d.6  | De kandidaat kan de financiering van de verschillende vormen van nabestaandenpensioen uitleggen.  | B  |
+| 1d.7  | De kandidaat kan de verschillen uitleggen tussen verschillende vormen van nabestaandenpensioen.  | B  |
+| 1d.8  | De kandidaat kan de aanvullende regelingen die meeverzekerd kunnen worden met de pensioenregeling en de werking daarvan beschrijven.  | K  |
+| 1d.9  | De kandidaat kan de financiële gevolgen van het invoeren van een verplichte eigen bijdrage verklaren en kan de wijze waarop de eigen bijdrage vormgegeven kan worden, uitleggen.  | B  |
+| 1d.10  | De kandidaat kan de methoden uitleggen hoe bepaald wordt hoeveel binnen een pensioenregeling vrijwillig bijgespaard mag worden en kan in concrete gevallen de hoogte van het bedrag dat bijgespaard mag worden, berekenen.  | B  |
+|  *Eindterm*   |  *De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:*    *1e. toegepaste kennis met betrekking tot de relevante bedrijfseconomische vraagstukken (zoals groei, stabilisatie, krimp) en financiële verslaglegging van een onderneming.*   |
+| 1e.1  | De kandidaat kan ten behoeve van het pensioenadvies de diverse balansposten, posten op de resultatenrekening, enkelvoudige en geconsolideerde balansen analyseren. Kan de gevolgen van seizoenpatronen herkennen en verwerken.  | B  |
+| 1e.2  | De kandidaat kan de financiële kengetallen (RTV, REV, current ratio, quick ratio, solvabiliteitsratio) interpreteren.  | B  |
+| 1e.3  | De kandidaat kan het netto werkkapitaal beoordelen en kan de gevolgen van toekomstplannen, (groei, krimp, fusie, overnames) van de onderneming voor de pensioenlasten in kaart brengen.  | B  |
+| 1e.4  | De kandidaat kan globaal de inhoud van boekhoudregels omschrijven, ook van de internationale.  | K  |
+|  *Eindterm*   |  *De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:*    *1f: toegepaste risicoanalyse van de financiële draagkracht van de betreffende werkgever;*   |
+| 1f.1  | De kandidaat kan de waardering van activa interpreteren en kan deze waardering voor de financiële gevolgen van het pensioenadvies (bedrijfseconomisch en fiscale balansen) beoordelen.  | B  |
+| 1f.2  | De kandidaat kan de gevolgen van toekomstplannen, (groei, krimp, fusie, overnames, leeftijdsopbouw pensioen) van de onderneming voor de pensioenlasten aangeven.  | B  |
+| 1f.3  | De kandidaat kan de trends ten aanzien van de ontwikkeling van de financiële kengetallen aangeven alsmede de gevolgen van deze trends voor het pensioenadvies.  | B  |
+| 1f.4  | De kandidaat kan het gevolg aangeven van trendmatige ontwikkelingen voor de meerjarige ontwikkeling van de pensioenlasten.  | B  |
+| 1f.5  | De kandidaat kan de situaties waarbij de inhoud van boekhoudregels een rol spelen voor het pensioensysteem beschrijven.  | K  |
+| 1f.6  | De kandidaat kan informatie uit de jaarrekening van de onderneming toepassen, uit diverse sectoren en internationale contexten voor zover relevant voor het pensioenadvies.  | B  |
+|  *Eindterm*   |  *De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:*    *1g. toegepaste kennis met betrekking tot de wijze van van investeren of beleggen van vermogen*   |
+| 1g.1  | De kandidaat kan de risico’s en het principe van lifecycle beleggen beschrijven en kan de verschillen tussen lifecyclefondsen op het gebied van kosten, rebalancing, samenstelling en risico’ s uitleggen.  | B  |
+| 1g.2  | De kandidaat kan de gevolgen en risico’s voor een verzekeraar en de werkgever bij  het investeren van de pensioenpremie bij een salarisdiensttijdregeling versus een zuivere beschikbare premieregeling beschrijven.  | K  |
+|  *Eindterm*   |  *De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:*    *1h. kennis met betrekking tot de basisprincipes, hoofdlijnen en actuele ontwikkelingen van risicomanagement*   |
+| 1h.1  | De kandidaat kan omschrijven wat onder het begrip ‘risicomanagement’ wordt verstaan.  | K  |
+| 1h.2  | De kandidaat kan uitleggen wat onder risicobewustzijn wordt verstaan.  | B  |
+| 1h.3  | De kandidaat kan omschrijven wat er onder het begrip ‘ondernemingsrisicomanagement’ (Enterprise Risk Management) wordt verstaan, waarbij sprake is van onderscheid tussen:  – strategisch risicomanagement (SRM);  – financieel risicomanagement (FRM);  – operationeel risicomanagement (ORM);  – compliance.  | K  |
+| 1h.4  | De kandidaat kan de voordelen en kansen benoemen van een goede risicomanagementaanpak op het terrein van pensioenregeling.  | K  |
+| 1h.5  | De kandidaat kan voorbeelden geven van potentiële risico’s die betrekking hebben op het onderwerp pensioenregeling en kan deze risico’s in de volgende risicosoorten verdelen: persoonlijke risico’s, technische risico’s, organisatorische risico’s, juridische risico’s, financieel en economische risico’s, maatschappelijke risico’s en natuurrisico’s .  | B  |
+| 1h.6  | De kandidaat kan uitleggen wat onder het begrip ‘risicoacceptatiegraad’ (risk appetite) wordt verstaan.  | B  |
+| 1h.7  | De kandidaat kan uitleggen wat onder het begrip ‘risicotolerantie’ (risk tolerance) wordt verstaan.  | B  |
+| 1h.8  | De kandidaat kan het doel en belang van een systematische aanpak van risicomanagement benoemen.  | K  |
+| 1h.9  | De kandidaat kan de fasen (afkomstig uit het risicomanagement model COSO II) beschrijven die binnen een professioneel uitgevoerd risicomanagement traject moeten worden doorlopen. Het betreft achtereenvolgens de volgende fasen:  Fase 1: Risico - oriëntatiefase waarbij de mate van risicobewustzijn en cultuur op het terrein van risicomanagement binnen een organisatie in kaart wordt gebracht. Het toelichten van het belang van adequaat risicomanagement.  Fase 2: Het formuleren van doelstellingen en te bereiken resultaten van een organisatie (p.s. deze fase heeft betrekking op artikel 4:23 Wft).  Fase 3: Het inventariseren van risico’s die de te bereiken doelstellingen of de te behalen resultaten kunnen bedreigingen, of kansen biedt zodat beoogde doelstellingen en resultaten worden behaald.  Fase 4: Het beoordelen van risico’s door het uitvoeren van een risicoanalyse.  Fase 5: Het bepalen op welke wijze risicomanagement moet plaatsvinden door risico’s te vermijden, te accepteren, te verminderen en/of risico’s over te dragen. In deze fase wordt mede op basis van kosten en baten afgewogen wat de beste balans voor de beheersing van de te lopen risico’s is.  Fase 6: Het implementeren van risicobeperkende maatregelen waardoor effectief risicomanagement wordt gewaarborgd.  Fase 7: Het communiceren en informeren op welke wijze risicomanagement dient plaats te vinden en te bepalen wie er verantwoordelijk is voor welke acties.  Fase 8: Het monitoren van het risicomanagement proces met een vooraf afgestemde frequentie.  | K  |
+| 1h.10  | De kandidaat kan voorbeelden geven an het proces ‘Plan, Do, Check, Act’ in een pensioentraject.  | K  |
+| 1h.11  | De kandidaat kan de risico’s die verbonden zijn aan het partnerpensioen uitleggen.  | B  |
+|  *Eindterm*   |  *De personen zijn in staat om:*    *2a. gesprekken te voeren in de volgende categorieën: gestructureerd interview, slecht nieuws- en adviesgesprek*   |
+| 2a.1  | De kandidaat kan bij inventarisatie van de wensen en  mogelijkheden van de opdrachtgever m.b.t. de pensioenverzekeringen en premiepensioenvorderingen verschillende personen gestructureerd en onbevooroordeeld bevragen en dit correct rapporteren   *Norm/resultaat/prestatieindicator:*   De kandidaat adviseert verschillende belanghebbenden bij de pensioenverzekeringen en premiepensioenvorderingen juist en correct, hij neemt onder meer weerstanden weg die bestaan op grond van vooroordelen en onbekendheid van de materie bij belanghebbenden  | V  |
+|  *Eindterm*   |  *De personen zijn in staat om:*    *2b. ICT-toepassingen, waaronder rekenmodellen bij de advisering te gebruiken.*   |
+| 2b.1  | De kandidaat kan bij het berekenen van aanspraken en lasten van pensioenverzekeringen en premiepensioenvorderingen ICT- toepassingen gebruiken.  | V  |
+|  *Eindterm*   |  *De personen zijn in staat om:*    *2c. Mondeling correct en begrijpelijk te communiceren op verschillende persoonlijke en organisatorische niveaus binnen de onderneming van de werkgever, waaronder haar directie controllers, accountants, vertegenwoordigende overlegorganen en individuele werknemers.*   |
+| 2c.1  | De kandidaat kan op een verantwoorde kritische manier de financiële informatie van de onderneming verzamelen en analyseren alsmede de financiële informatie bespreken.   *Norm/resultaat/prestatieindicator:*   De kandidaat brengt een goed pensioenadvies uit. Na de analyse heeft de kandidaat een goed beeld van de financiële positie van de onderneming  | V  |
+| 2c.2  | De kandidaat kan de ontworpen pensioenregeling in samenhang met o.m. de verkregen financiële gegevens van de onderneming bespreken.   *Norm/resultaat/prestatieindicator:*   De kandidaat geeft passend advies, waarbij hij wijst op lastenontwikkeling en betaalbaarheid, en kan de financiële gegevens in zijn advies verwerken.  | V  |
+| 2c.3  | De kandidaat kan de behoefte m.b.t. de pensioenvoorziening van de DGA inventariseren.   *Norm/resultaat/prestatieindicator:*   De kandidaat leidt het gesprek, stelt open vragen, kan luisteren en zich in de situatie van de DGA verplaatsen, vat het gesprek herkenbaar samen.  | V  |
+| 2c.4  | De kandidaat kan de aansluitingsverschillen oplossen tussen pensioentoezegging in eigen beheer en verzekerde regeling.   *Norm/resultaat/prestatieindicator:*   De kandidaat vertaalt deze pensioentoezegging (mondeling) naar risico’s voor de besloten vennootschap. De kandidaat legtde financieringsovereenkomst (mondeling) uit. De kandidaat bepaalt welke verzekeringsoplossing past bij de civielrechtelijke pensioentoezegging van de DGA. De kandidaat toetst of de eventuele wens om de pensioendatum te vervroegen of te verlaten past bij de reeds bestaande verzekerde oplossing en past dientengevolge actief, indien nodig, het product aan.  | V  |
+|  *Eindterm*   |  *De personen zijn in staat om:*    *2d. schriftelijk correct en begrijpelijk te communiceren op verschillende persoonlijke en organisatorische niveaus binnen de onderneming van de werkgever, waaronder haar directie controllers, accountants, vertegenwoordigende overlegorganen en individuele werknemers.*   |
+| 2d.1  | De kandidaat kan een pensioenbrief opstellen wat betreft het verzekerde deel en kan de door de verzekeraar verstrekte pensioenbrief controleren.   *Norm/resultaat/prestatieindicator:*   De kandidaat stelt een pensioenbrief op die zowel pensioentechnisch, civieljuridisch als fiscaal juist is, alsmede correct en begrijpelijk geformuleerd.  | V  |
+| 2d.2  | De kandidaat kan de financiële informatiestromen tussen werkgever en pensioenuitvoerder (nota’s rekening courant) controleren.   *Norm/resultaat/prestatieindicator:*   De kandidaat is precies en alert op onvolkomenheden.  | V  |
+| 2d.3  | De kandidaat kan de aansluitingsverschillen oplossen tussen pensioentoezegging in eigen beheer en verzekerde regeling.   *Norm/resultaat/prestatieindicator:*   De kandidaat vertaalt deze pensioentoezegging (schriftelijk) naar risico’s voor de besloten vennootschap. De kandidaat kan (schriftelijk) de financieringsovereenkomst uitleggen. De kandidaat bepaalt welke verzekeringsoplossing past bij de civielrechtelijke pensioentoezegging van de DGA. De kandidaat toetst of de eventuele wens om de pensioendatum te vervroegen of te verlaten past bij de reeds bestaande verzekerde oplossing en past dientengevolge actief, indien nodig, het product aan.  | V  |
+|  *Eindterm*   |  *De personen zijn in staat om:*    *2e. adviestrajecten te plannen, te sturen en tot een succes te brengen, waaronder wordt verstaan:*    *1° Het kwalitatief en kwantitatief vergelijken van offertes en lopende pensioenverzekeringen en premiepensioenvorderingen en het verklaren van de verschillen hiertussen;*    *2° Het beoordelen van en adviseren over collectieve waardeoverdracht;*    *3° Het adviseren over winstdelingssystemen;*    *4° Het adviseren over excedentregelingen, ook als aanvulling op ondernemingspensioenfondsen en bedrijfstakpensioenfondsen in combinatie met verzekerde regelingen;*    *5° Het berekenen van lasten en aanspraken;*    *6° Het beheren van een lopend pensioencontract;*    *7° Het uitleggen van een individuele waardeoverdracht;*    *8° Het vertalen van alle over de werkgever ingewonnen informatie naar een passende pensioenverzekering en premiepensioenvordering;*    *9° Het geven van een passend advies aan een directeur-grootaandeelhouder over zijn pensioenverzekering en premiepensioenvordering;*    *10° Het interpreteren van effecten van toeslagmodellen;*    *11° Het vermogen om relevante wetgeving praktisch te kunnen toepassen;*    *12° Het begeleiden van contractverlenging, -wijziging of -beëindiging van een pensioenverzekering en premiepensioenvordering; en*    *13° Het controleren van relevante documenten.*   |
+| 2e.1  | De kandidaat kan offertes van verzekeraars met elkaar vergelijken.   *Norm/resultaat/prestatieindicator:*   De kandidaat gaat bij vergelijking van (ook collectieve) pensioenen zoveel mogelijk uit van gelijke en reële uitgangspunten. De kandidaat beoordeelt het eventueel te vormen ondernemingspensioenfonds. De kandidaat adviseert over het aanvragen van vrijstelling bij een bedrijfstakpensioenfonds.  | V  |
+| 2e.2  | De kandidaat kan de verschillende offertes vanuit de wensen van de opdrachtgever prioriteren en verklaren.   *Norm/resultaat/prestatieindicator:*   De kandidaat verklaart de verschillen in begrijpelijke taal en voorbeelden.  De kandidaat handelt integer en professioneel in verband met eigen positie en klantbelangen. De kandidaat verzorgt een passend advies.  | V  |
+| 2e.3  | De kandidaat kan collectieve waardeoverdracht beoordelen en hierover adviseren.   *Norm/resultaat/prestatieindicator:*   De kandidaat analyseert de factoren inkomende en uitgaande waardeoverdracht. De kandidaat verzorgt begrijpelijke mondelinge adviezen alsmede begrijpelijke schriftelijke verslaglegging van het advies. De kandidaat stelt vast of de kosten redelijk zijn in relatie tot Pensioenwet (Pw).  | V  |
+| 2e.4  | De kandidaat kan over winstdelingssystemen en life cycle beleggen adviseren.   *Norm/resultaat/prestatieindicator:*   De kandidaat verzorgt een passend advies.  | V  |
+| 2e.5  | De kandidaat kan over excedentregelingen adviseren, ook als aanvulling op ondernemingspensioenfondsen en bedrijfstakpensioenfondsen in combinatie met verzekerde regelingen.   *Norm/resultaat/prestatieindicator:*   De kandidaat verzorgt een passend advies, waarbij aangesloten wordt bij behoefte van de opdrachtgever.  | V  |
+| 2e.6  | De kandidaat kan lasten en aanspraken met behulp van software berekenen.   *Norm/resultaat/prestatieindicator:*   De kandidaat maakt foutloze berekeningen, verzorgt een inzichtelijk en begrijpelijke presentatie voor opdrachtgever en belanghebbenden. De kandidaat verklaart de wijze van berekenen en legt de principes achter de berekeningen uit. De kandidaat schat de uitkomsten op juistheid in.  | V  |
+| 2e.7  | De kandidaat kan alle over de werkgever ingewonnen informatie naar een passende pensioenverzekering en premiepensioenvordering vertalen.   *Norm/resultaat/prestatieindicator:*   De kandidaat geeft advies met behulp van pensioenleidraden van de AFM. De kandidaat kan omgaan met tegenstrijdige prioriteiten/doelstellingen. De kandidaat signaleert en benoemt deze en koppelt dat terug naar de werkgever, om vervolgens tot een passend advies te komen.  | V  |
+| 2e.8  | De kandidaat kan de effecten van toeslagmodellen interpreteren.   *Norm/resultaat/prestatieindicator:*   De kandidaat geeft een passend advies geven en maakt een correct schriftelijk verslag.  | V  |
+| 2e.9  | De kandidaat kan de wijziging van de pensioenverzekering en premiepensioenvordering begeleiden.   *Norm/resultaat/prestatieindicator:*   De kandidaat verstrekt mondeling en schriftelijk begrijpelijke en juiste informatie aan belanghebbenden.  | V  |
+| 2e.10  | De kandidaat kan relevante documenten controleren.   *Norm/resultaat/prestatieindicator:*   De kandidaat spoort eventuele fouten, onjuistheden onvolkomenheden op. De kandidaat communiceert hierover mondeling en schriftelijk op correcte en effectieve wijze met de aanbieder. De kandidaat zorgt voor correcte documenten.  | V  |
+| 2e.11  | De kandidaat kan lasten en aanspraken specifiek t.a.v. de dga situatie met behulp van software berekenen.  *Norm/resultaat/prestatieindicator*:  De kandidaat maakt correcte pensioen berekeningent.a.v. de dga situatie en schat de uitkomsten van berekeningen goed in.  | V  |
+|  *Eindterm*   |  *De personen zijn in staat om:*    *2f. het risicomanagement met betrekking tot een pensioenverzekering en premiepensioenvordering in een aantal fasen op procesmatige wijze te plannen, uit te voeren en te beheren en daarbij op hoofdlijnen gebruik te maken van een risicomodel waarmee een risicoprofiel van een organisatie kan worden aangegeven.*   |
+| 2f.1  | De kandidaat kan het pensioenadviestraject fasegewijs op procesmatige wijze uitvoeren en kan dit vastleggen, zodat hij een goed inzicht in de risico’s van de pensioenregeling voor een organisatie verkrijgt. Hij kan hierover helder communiceren en vormt zijn eigen oordeel over welke advieskeuze voor de betreffende organisatie passend is.   *Norm/resultaat/prestatieindicator:*   De kandidaat heeft een goed inzicht in de risico’s van de pensioenregeling voor een organisatie. Hij communiceert hierover helder en vormt zijn eigen oordeel over welke advieskeuze voor de betreffende organisatie passend is.  | V  |
+| 2f.2  | De kandidaat kan een risicomodel op basis van Enterprise Risk Management (ERM) hanteren om de risico’s die betrekking hebben op de pensioenregeling van de organisatie op een overzichtelijke wijze in kaart te brengen en hierbij één van de volgende risicomodellen te gebruiken: COSO II of ISO 31000.   *Norm/resultaat/prestatieindicator:*   De kandidaat brengt de risico’s die betrekking hebben op de pensioenregeling van een organisatie, op een overzichtelijke wijze in kaart. De kern is het fasegewijs werken bij risicoanalyse.  | V  |
+| 2f.3  | De kandidaat kan de kritische punten in het pensioencontract vaststellen bij adviseren, beheren en bemiddelen van dit pensioencontract op basis van de modellen en het hanteren van Enterprise Risk Management (ERM)Kan daarbij de financiële informatiestromen tussen werkgever en pensioenuitvoerder controleren (nota’s rekening courant)   *Norm/resultaat/prestatieindicator:*   De kandidaat zorgt ervoor dat kritische punten worden herkend en onderschreven door de opdrachtgever.  | V  |
+| 2f.4  | De kandidaat kan met betrekking tot pensioenregeling, de te bereiken doelstellingen, strategie en activiteiten van de onderneming analyseren.  De kandidaat kan de risicoanalyse met betrekking tot het pensioenadvies traject fasegewijs op procesmatige wijze uitvoeren en kan dit vastleggen.   *Norm/resultaat/prestatieindicator:*   De kandidaat heeft een goed inzicht in de risico’s van de pensioenregeling voor een organisatie. De kandidaat communiceert hierover duidelijk en vormt een eigen oordeel welke advieskeuze voor de betreffende organisatie passend is. De kandidaat creëert draagvlak voor de modelmatige benadering van risicomanagement bij de opdrachtgever creëren en zorgt voor een herkenbaar resultaat voor de opdrachtgever.  | V  |
+|  *Eindterm*   |  *De personen zijn in staat om:*    *2g. mondeling op heldere wijze uitleg te geven over de doelstellingen en resultaten van een organisatie, welke risico’s vanuit de situatie van de pensioenverzekering en premiepensioenvordering een bedreiging voor de onderneming van de werkgever vormen of een kans bieden en op welke wijze deze risico’s op adequate wijze kunnen worden beheerd zodat de risico’s tot een voor de organisatie acceptabel risiconiveau kunnen worden ingevuld.*   |
+| 2g.1  | De kandidaat kan communiceren over en beoordelen met betrekking tot de pensioenregeling, de interne en externe omgeving, ondernemingsrisico’s, procesrisico’s, in kaart gebrachte kritische succesfactoren risico’s vanuit een breed en divers perspectief.   *Norm/resultaat/prestatieindicator:*   De kandidaat brengt de risico’s die betrekking hebben op de pensioenregeling van een organisatie op een overzichtelijke wijze in kaart brengen. De kern is het fasegewijze werken bij risicoanalyse.  | V  |
+|  *Eindterm*   |  *De personen zijn in staat om:*    *2h. met het oog op de pensioenverzekering en premiepensioenvordering de risicobereidheid en het risicoprofiel van de onderneming op heldere wijze in kaart te brengen en vast te leggen.*   |
+| 2h.1  | De kandidaat kan informatie die nodig is om de risico’s in kaart te brengen, die zich kunnen voordoen bij een tweedepijler pensioensituatie, verzamelen, bewerken, beoordelen en documenteren.  De kandisaat kan op basis van de verzamelde informatie inschatten hoe groot de kans is dat een betreffend risico zich zal voordoen en kan de mogelijke gevolgen aangeven als een betreffend risico zich daadwerkelijk voordoet.   *Norm/resultaat/prestatieindicator:*   De kandidaat geeft de verzekeringnemer een goed inzicht  van de risico’s die hij zelf wel of niet kan of wil dragen. De kandidaat zorgt ervoor dat de risicoanalyse traceerbaar en herleidbaar is.  | V  |
+| 2h.2  | De kandidaat kan met de verzekeringnemer over de risico’s die zich kunnen voordoen bij een tweedepijlerpensioensituatie communiceren.   *Norm/resultaat/prestatieindicator:*   De kandidaat gebruikt duidelijke en begrijpelijke taal. De kandidaat geeft voorbeelden, stelt vragen om te toetsen of de verzekeringnemer een en ander begrepen  heeft.  De kandidaat controleert of de verzekeringnemer in eigen woorden kan vertellen welke risico’s gedekt zijn.  | V  |
+|  *Eindterm*   |  *De personen demonstreren en bewijzen dat:*    *3a. zij het adviestraject met betrekking tot pensioenregelingen voor werkgevers met ondernemingen van diverse omvang en complexiteit ten behoeve van diens werknemers zelfstandig, succesvol en correct uit te kunnen voeren waarbij. In dit adviestraject kunnen zich in ieder geval de volgende zaken voordoen met betrekking tot natuurlijke en/of rechtspersonen:*    *1° start en einde dienstbetrekking*    *2° overlijden*    *3° arbeidsongeschiktheid*    *4° echtscheiding of ontbinding partnerregelingen*    *5° pensioendatum*    *6° verwachtingen ten aanzien van het pensioen*    *7° verlenging, wijziging, beëindiging of revisie van een pensioencontract*    *8° collectieve waardeoverdracht*    *9° prognosticeren van toekomstige pensioenlasten*    *10° versobering of uitbreiding van de pensioenregeling; en*    *11° faillissement of mogelijkheid daartoe.*   |
+| 3a.1  | De kandidaat kan het adviestraject plannen.   *Context: De kandidaat verwerft de opdracht via verschillende kanalen bij een nieuwe relatie.*   | C  |
+| 3a.2  | De kandidaat kan de behoeften met betrekking tot de te ontwerpen pensioenregeling inventarisen en analyseren.   *Context: De kandidaat bevindt zich In een gesprekssituatie met opdrachtgever bij diverse ondernemingen in diverse sectoren met diverse partijen.*   | C  |
+| 3a.3  | De kandidaat kan de belanghebbenden (bijv. accountant, ondernemingsraad en opdrachtgever) interviewen.  *Context: De kandidaat wordt geconfronteerd met een gevarieerd niveau van kennis van de gesprekspartners*.  | C  |
+| 3a.4  | De kandidaat kan de ontworpen pensioenregeling aan de werkgever presenteren.   *Context: De kandidaat presenteert aan de opdrachtgever, de werknemers, de partners en de ondernemingsraad. Hij heeft daarbij het passende aanbod geselecteerd.*   | C  |
+| 3a.5  | De kandidaat kan inzake de pensioenverzekering en premiepensioenvordering bij fusieprocessen, management buy out, overnames, overgang onderneming adviseren.   *Context: De kandidaat heeft te maken met verschillende pensioenregelingen.*   | C  |
+| 3a.6  | De kandidaat kan de regeling impementeren en daarbij de nodige nazorg verrichten.  | C  |
+| 3a.7  | De kandidaat kan individuele en/of collectieve waardeoverdracht begeleiden.   *Context: De kandidaat heeft hiermee te maken in lopende pensioenverzekeringen, premiepensioenvorderingen, of in een adviesgesprek.*   | C  |
+| 3a.8  | De kandidaat kan de pensioenregeling tijdens en/of einde looptijd beoordelen.   *Context: De kandidaat heeft met diverse situaties te maken: einde contractuele looptijd, tegenvallende financiële resultaten van de werkgever en te dure pensioenregeling.*   | C  |
+| 3a.9  | De kandidaat wordt geconfronteerd met overlijden, arbeidsongeschiktheid en echtscheiding van een deelnemer aan de pensioenverzekering of premiepensioenvordering.   *Context: Hoe gaat de kandidaat om met de bestaande pensioenverzekering of premiepensioenvordering?*   | C  |
+|  *Eindterm*   |  *De personen demonstreren en bewijzen dat:*    *3b. zij de directeur-grootaandeelhouder met betrekking tot zijn eigen pensioenverzekeringen en premiepensioenvorderingen zelfstandig, correct en passend kunnen adviseren in tenminste de volgende situaties: overlijden, arbeidsongeschiktheid, echtscheiding of ontbinding partnerregeling, pensioendatum, pensioenverwachtingen, faillissement of mogelijkheid daartoe.*   |
+| 3b.1  | De kandidaat kan de ontworpen pensioenverzekering en premiepensioenvordering aan de DGA presenteren.   *Context: De kandidaat heeft een gesprek met DGA, accountant en eventueel partner.*   | C  |
+| 3b.2  | De kandidaat wordt geconfronteerd met uitdiensttreding, pensionering en/of overlijden en/of arbeidsongeschiktheid en/of echtscheiding van de DGA en/of zijn partner.   *Context: De kandidaat belicht het voorval vanuit positie eigen beheer, pensioenverzekeringen, premiepensioenvorderingen of combinatie van producten.*   | C  |
+|  *Eindterm*   |  *De personen demonstreren en bewijzen dat:*    *3c. zij de directeur-grootaandeelhouder kunnen adviseren over de verschilende mogelijkheden om het voor hem benodigde pensioenkapitaal bijeen te brengen, alsmede duidelijkheid verschaffen over het verschil tussen de reële en de fiscale waardering van de pensioenverplichting.*   |
+| 3c.1  | De kandidaat kan de motieven van de DGA met betrekking tot de pensioentoezegging vaststellen en deze analyseren, ( in hoeverre staat het creeeren van liiquiditeiten of de mate waarin de dga een zeker inkomen na de pensioendatum wil centraal).). De kandidaat wijst daarbij op risico’s, gevolgen van verzekeren en eigen beheer.   *Context: De kandidaat adviseert over risico en rendement op pensioenvoorziening eigen beheer in vergelijking met risico en rendement van een verzekerd pensioen, analyseert doelstellingen, kennis en ervaring van de DGA met betrekking tot pensioen. De kandidaat beschrijft de mogelijkheden van DGA voor zijn oude dag, met name de hoogte van het pensioen, lijfrente of lijfrente banksparen en box III.*   | C  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4a. te beschrijven welke invloed de verrichtingen van een financiële instelling en/of financiële dienstverlener hebben op het maatschappelijk belang en de samenleving alsmede welke gevolgendeze hebben voor de reputatie van de financiële sector.*   |
+| 4a.1  | De kandidaat kan de gevolgen van de situatie uitleggen dat de consument geen vertrouwen meer heeft in de financiële sector (stabiliteit economie komt in gevaar, noodzakelijke risico- en spaarproducten worden niet meer afgesloten, macro-economische gevolgen als onvoldoende spaargeld beschikbaar komt, werkgelegenheid, ook in financiële sector onder druk, vergroting zwart geld circuit, bankrun en betalingsverkeer dreigt te blokkeren).  | B  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4b. het verschil tussen tussen zelfregulering en overheidsregulering uit te leggen en te benoemen en te omschrijven welke toezichthoudende instanties en middelen in de financiële sector moeten zorgen voor de handhaving en naleving van beide vormen van regulering.*   |
+| 4b.1  | De kandidaat kan aangeven welke middelen cliënten hebben als zij geconfronteerd worden met onprofessioneel en niet-integer gedrag (verschil klachtenprocedure, Kifid, Ombudsman Pensioenen, bindende uitspraak, schikkingen, rechterlijke uitspraak). Kandidaat kan recente voorbeelden van uitspraken van de Ombudsman pensioenen analyseren.  | B  |
+| 4b.2  | De kandidaat kan de voorwaarden om professioneel en integer gedrag af te dwingen via zelfregulering verklaren en benoemen (voorbeelden noemen van zelfregulering op niveau productaanbieders bijv. Van Leeuwen convenant, Gedragscode verwerking persoonsgegevens, Wet op de medische keuringen (WMK) , keurmerkorganisaties van financële dienstverleners zoals: NOPD, RPA, RPC). Kandidaat kan daarbij het verschil tussen zelfregulering en wet- en regelgeving aangeven.  | B  |
+| 4b.3  | De kandidaat kan de gevolgen van uitspraken klachtenprocedures en rechterlijke uitspraken voor het dagelijks handelen beschrijven.  | K  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4c. de gevolgen van niet-naleving van de relevante wet- en regelgeving te kennen en hierover uitleg te geven.*   |
+| 4c.1  | De kandidaat kan beschrijven in welke wet- en regelgeving de functie en bevoegdheden van de toezichthoudende organisaties vastliggen: Pensioenwet (Pw), [Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (Wft) en lagere regelgeving.  | K  |
+| 4c.2  | De kandidaat kan de relatie tussen de eisen die voortvloeien uit het Burgerlijk Wetboek (BW) over professioneel en integer handelen (zorgplicht: overeenkomst van opdracht [Boek 7 art. 400 e.v](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).) uitleggen en kan de spanningsvelden met Wet op het financieel toezicht (Wft) in concrete recente gevallen analyseren.  | B  |
+| 4c.3  | De kandidaat kan aansprakelijkheidsrisico’s uitleggen (afdwingen professioneel en integer gedrag door de cliënt) en kan daarbij recente praktijkvoorbeelden noemen.  | B  |
+| 4c.4  | De kandidaat kan beschrijven welke beroepsmogelijkheden bestaan bij sancties van De Nederlandsche Bank (DNB) en Autoriteit Financiële Markten (AFM), uitspraken klachteninstituten en rechterlijke uitspraken.  | K  |
+| 4c.5  | De kandidaat kan de acties omschrijven die vereist zijn bij het constateren van fraude.  | K  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4d. een passend advies te geven, dat wil zeggen uit te leggen op welke wijze in lijn met de met de doelstellingen van de onderneming en met de keuzes die daaruit voortvloeien is gehandeld.*   |
+| 4d.1  | De kandidaat kan in concrete gevallen aangeven welke stappen moeten worden doorlopen om tot een passend advies te komen (inventariseren, analyseren, vier-ogenprincipe, adviseren, archivering). De kandidaat kan in concrete gevallen tekortkomingen aangeven en geeft voorbeelden van maatregelen ter verbetering.  | B  |
+| 4d.2  | De kandidaat kan uitleggen bij welke beslismomenten van de financiële dienstverlening belangen van verschillende partijen moeten worden gewogen.  | B  |
+| 4d.3  | De kandidaat kan uitleggen welke afwegingen je moet maken als een cliënt het passend advies niet of niet geheel wil opvolgen (spanningsveld tussen Wet op het financieel toezicht (Wft) en Burgerlijk Wetboek (BW)). Analyseert concrete voorbeelden.  | B  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4e. de begrippen integer gedrag en een integere cultuur te omschrijven alsmede de wijze te benoemen waarop integer gedrag, in de zin van verantwoordelijkheid nemen en verantwoording afleggen, in de bedrijfscultuur van de financiële instelling en/of financiële dienstverlener kan worden verankerd.*   |
+| 4e.1  | De kandidaat kan uitleggen welke normen en waarden leiden tot een integere bedrijfscultuur (handelen in belang van de klant, transparant zijn over de inhoud van de dienstverlening en transparant zijn over de kosten en opbrengsten). De kandidaat kan recente voorbeelden uit de praktijk aan cliënt geven. De kandidaat benoemt de morele aspecten en morele verantwoordelijk van werkprocessen duidelijk en expliciet (kostenloading, verdienmodel, voor- en nadelen van product of advies onderkennen, alternatieve producten of adviezen meewegen, belangenafweging werkgever/werknemers, relatiegeschenken, incentives, targets, commerciële doelstellingen, verstrengeling privébelangen en voorwetenschap).  | B  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4f. voorbeelden van integriteitsrisico’s te benoemen alsmede aan te tonen op welke wijze zij tot een aanvaardbaar niveau kan worden teruggebracht.*   |
+| 4f.1  | De kandidaat kan de middelen uitleggen, die kunnen worden ingezet om een integere cultuur en integer handelen in een onderneming te bereiken zoals goede procesbeschrijvingen, gedragscodes, agendapunt in vergaderingen/collegiaal overleg, incidentenregeling, klokkenluidersregeling, vertrouwenspersoon, voorbeeldgedrag.  | B  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4g. in de dagelijkse adviespraktijk – aan de hand van vier integriteitsassen – ‘de vier belangen die een rol spelen in de financiële dienstverlening te herkennen en bespreekbaar te maken, te weten:*    *1° het financiële belang van de medewerker (persoonlijke beloning, targets, commerciële doelstellingen en dergelijke);*    *2° het belang van de medewerker om compliant te zijn, waarbij wordt aangetoond dat de controlefunctie naar behoren wordt uitgevoerd;*    *3° het belang van de medewerker om zijn professionele verantwoordelijkheid met betrekking tot integriteit te kennen en dienovereenkomstig te handelen;*    *4° het belang van de medewerker en zijn organisatie om een vertrouwensrelatie te hebben met de klant.*   |
+| 4g.1  | De kandidaat kan de morele aspecten en morele verantwoordelijkheid van werkprocessen duidelijk en expliciet uitleggen (kostenloading, verdienmodel, voor- en nadelen van product of advies onderkennen, alternatieve producten of adviezen meewegen, belangenafweging werkgever/werknemers, relatiegeschenken, incentives, targets, commerciële doelstellingen, verstrengeling privé belangen en voorwetenschap).  | B  |
+| 4g.2  | De kandidaat kan de 4 integriteitsassen voor het functioneren van een medewerker van een financiële dienstverlener benoemen. De kandidaat kan daarbij eigen voorbeelden plaatsen op deze assen. De kandidaat kan die keuzen verantwoorden. De kandidaat kan de spanningsvelden en de gevolgen daarvan herkennen en benoemen.  | K  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4h. dilemma’s op het gebied van ethisch en integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken alsmede de keuzes af te wegen en te verantwoorden.*   |
+| 4h.1  | De kandidaat brengt de belangen van de verschillende actoren in kaart(bij actoren valt te denken  aan o.a.: aanbieders, adviseurs, bemiddelaars, werkgevers, werknemers, DGA, partner DGA) en analyseert de mogelijke dilemma’s die kunnen ontstaan omdat er sprake kan zijn van tegengestelde belangen van de actoren   *Norm/resultaat//prestatieindicator:*   Juridisch correct, keuzes worden getoetst aan de professionele normen  | V  |
+| 4h.2  | De kandidaat weegt de belangen van de verschillende actoren af bij de te maken keuzes tijdens de totstandkoming van het te vervaardigen pensioenadvies, is in staat om gemaakte keuzes te verantwoorden en communiceert deze dilemma’s zowel mondeling als schriftelijk met de verschillende actoren te communiceren   *Norm/resultaat/prestatie-indicator:*   Juridisch correct, keuzes worden getoetst aan de professionele normen,  | V  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4i. om adviezen zodanig te communiceren dat deze aansluiten bij het opleidings-, kennis- en ervaringsniveau van de betrokken klant.*   |
+| 4i.1  | De kandidaat kan mondeling en schriftelijk over pensioenadviezen communiceren.   *Norm/resultaat/prestatie-indicator:*   De kandidaat communiceert zodanig dat de klant/doelgroep het advies begrijpt.  | V  |
+|  *Eindterm*   |  *De personen zijn in staat:*    *4j. fraudesignalen te onderkennen en hieraan op adequate wijze opvolging te geven.*   |
+| 4j.1  | De kandidaat kan de acties die vereist zijn bij het constateren van fraude omschrijven.  | K  |
+
+### Bijlage  8  
 
 ####Verdeling in inhoudsclusters
 
@@ -3395,7 +3673,7 @@ Algemeen
 | --- | 3c.1 t/m 3c.3, 4b.1  | --- | B  | 40  |
 | --- | --- | --- | Tp  | 25  |
 | --- | --- | --- | Ti  | 10  |
-| Aanvraag en verstrekking  | 3r.1 t/m 3u.3  | 10  | K  | 35  |
+| Aanvraag en verstrekking  | 3r.1 t/m 3u.2  | 10  | K  | 35  |
 | --- | --- | --- | B  | 35  |
 | --- | --- | --- | Tp  | 15  |
 | --- | --- | --- | Ti  | 15  |
@@ -3403,7 +3681,7 @@ Algemeen
 | --- |
 | --- | --- | Tp  | 10  |
 | --- | --- | --- | Ti  | 0  |
-| Financieren  | 2c.3, 2c.4, 3e.1 t/m 3e.5, 3l.1, 3l.2, 3q.1, 3q.2, 4a.1, 4a.2, 4c.1 t/m 4d.2  | 25  | K  B  Tp  Ti  | 10  60  20  10  |
+| Financieren  | 2c.3, 2c.4, 3e.1 t/m 3e.5, 3l.1, 3l.2, 3q.1 t/m 3q.5, 4a.1, 4a.2, 4c.1 t/m 4d.2  | 25  | K  B  Tp  Ti  | 10  60  20  10  |
 | --- |
 | --- |
 | Belastingen  | 3n.1 t/m 3p.3  | 20  | K  | 30  |
@@ -3426,8 +3704,8 @@ Algemeen
 |  *Ti*   |  *45*   |
 |  *Opstellen risicoprofiel*   | 5d.1 t/m 5d.7, 6a.1, 6a.2  |  *20*   |  *K*   |  *20*   |
 |  *B*   |  *20*   |
-|  *Tp*   |  *20*   |
-|  *Ti*   |  *40*   |
+|  *Tp*   |  *0*   |
+|  *Ti*   |  *60*   |
 |  *Assetallocatie*   | 6b.1 t/m 6d.3  |  *15*   |  *K*   |  *10*   |
 |  *B*   |  *20*   |
 |  *Tp*   |  *30*   |
@@ -3456,15 +3734,15 @@ Particulieren
 
 | Inhoudscluster  | Toetstermen behorend tot inhoudscluster  | Aandeel inhoudscluster in examen als percentage  | Taxonomiecode  | Aandeel van taxonomiecode per inhoudscluster in percentage  |
 |:---|:---|:---|:---|:---|
-| Bezit  | 2a.1.1, 2a.1.3, 2a.1.5 t/m 2a.1.7, 2a.1.14, 2a.1.16 t/m 2a.1.18, 2a.1.28, 2a.1.30, 2a.1.32, 2a.1.34, 2a.1.36, 2a.1.38, 2a.1.48, 2b.1.1, 2b.1.3, 2d.1.1, 2e.1.1, 3a.1.1, 3a.1.3, 3a.1.5, 3a.1.8, 3a.1.10, 3a.1.12, 3a.1.14, 3a.1.16, 3a.1.18, 3a.1.20, 3a.1.21, 3a.1.22, 3a.1.24, 3a.1.26, 3a.1.28, 3a.1.30, 3a.1.31, 3a.1.33,  | 25  | K  B  Tp  Ti  | 35  20  25  20  |
+| Bezit  | 2a.1.1, 2a.1.3, 2a.1.5 t/m 2a.1.7, 2a.1.14, 2a.1.16 t/m 2a.1.18, 2a.1.28, 2a.1.30, 2a.1.32, 2a.1.34, 2a.1.36, 2a.1.38, 2a.1.48, 2b.1.1, 2b.1.3, 2b.1.5, 2c.1.1., 2c.1.3, 2d.1.1, 2e.1.1, 3a.1.1, 3a.1.3, 3a.1.5, 3a.1.8, 3a.1.10, 3a.1.12, 3a.1.14, 3a.1.16, 3a.1.18, 3a.1.20, 3a.1.21, 3a.1.22, 3a.1.24, 3a.1.26, 3a.1.28, 3a.1.30, 3a.1.31, 3a.1.33,  | 25  | K  B  Tp  Ti  | 35  20  25  20  |
 | --- | 3a.1.35, 3a.1.37, 3b.1.1, 3b.1.3, 3b.1.4, 3b.1.6, 3b. 1.8, 3b.1.9, 3c.1.1, 3c.1.3, 3d.1.1, 3e.1.1, 4a.1.1, 4a.1.3, 4a.1.5, 4a.1.7, 4b.1.1, 4c.1.1, 4c.1.3, 4c.1.5 t/m 4c.1.7, 4d.1.1, 4d.1.3, 5a.1.1, 5a.1.3, 5a.1.5, 5a.1.7, 5a.1.9, 5a.1.11, 5a.1.13, 5a.1.15, 5a.1.17, 5a.1.19, 5b.1.1, 5b.1.3, 5b.1.5, 5b.1.7 t/m 5b.1.9, 5c.1.1, 5c.1.3, 5d.1.1, 5d.1.3, 5d.1.5, 5e.1.1, 5e.1.3, 5f.1.1, 5g.1.1  | --- | --- | --- |
 | Verkeer  | 2a.2.1, 2a.2.3, 2a.2.5, 2a.2.7, 2a.2.9, 2a.2.11, 2a.2.15, 2a.2.17, 2a.2.19, 2a.2.21, 2a.2.23 t/m 2a.2.26, 2a.2.28, 2a.2.30, 2a.2.31, 2a.2.33 t/m 2b.2.1, 2b.2.3, 2b.2.5, 2c.2.1, 2d.2.1, 2e.2.1, 3a.2.1, 3a.2.3, 3a.2.5, 3a.2.7, 3a.2.9, 3a.2.11, 3a.2.13,  | 25  | K  B  Tp  Ti  | 40  25  15  20  |
 | --- | 3a.2.15, 3a.2.17, 3a.2.19, 3a.2.21, 3a.2.23, 3a.2.24, 3a.2.26 t/m 3b.2.1, 3b.2.3, 3b.2.5, 3b.2.7, 3b.2.8, 3c.2.1, 3c.2.3, 3d.2.1, 3e.2.1, 4a.2.1, 4a.2.3, 4a.2.5, 4a.2.7 t/m 4b.2.1,  | --- | --- | --- |
 | --- | 4c.2.1, 4c.2.3, 4c.2.5, 4c.2.7, 4d.2.1, 4d.2.3, 5a.2.1, 5a.2.3, 5a.2.5, 5a.2.7, 5a.2.9, 5a.2.11, 5a.2.13, 5a.2.15, 5a.2.17, 5a.2.18, 5a.2.20, 5a.2.22 t/m 5b.2.1, 5b.2.3, 5c.2.1, 5d.2.1, 5d.2.3, 5d.2.5, 5e.2.1, 5e.2.3, 5f.2.1, 5g.2.1  | --- | --- | --- |
 | Transport  | 2a.3.3, 2a.3.7, 2a.3.8, 2a.3.10, 2a.3.12, 2a.3.14, 2a.3.16, 2b.3.1 t/m 2d.3.1, 2e.3.1, 3a.3.1, 3a.3.3, 3a.3.5, a.3.7, 3a.3.9, 3a.3.11, 3a.3.16, 3a.3.18, 3a.3.27, 3b.3.1,  | 5  | K  B  Tp  Ti  | 35  20  25  20  |
 | --- | 3b.3.3, 3b.3.5, 3b.3.7, 3c.3.1, 3c.3.3, 3d.3.1, 3e.3.1, 4a.3.1, 4a.3.3, 4a.3.5, 4a.3.8, 4b.3.1, 4c.3.1, 4c.3.3, 4c.3.5, 4d.3.1, 4d.3.3, 5a.3.1, 5a.3.3, 5a.3.5, 5a.3.7, 5a.3.9,3 5a.3.11, 5a.3.13, 5b.3.1, 5b.3.3, 5c.3.1, 5d.3.1, 5d.3.3, 5d.3.5, 5e.3.1, 5e.3.3, 5f.3.1, 5g.3.1  | --- | --- | --- |
-| Aansprakelijkheid en rechtsbijstand  | 2a.4.2, 2a.4.4, 2a.4.6, 2a.4.8, 2a.4.9, 2a.4.11, 2a.4.13, 2a.4.15, 2a.4.17, 2a.4.19, 2a.4.20, 2a.4.22, 2b.4.2, 2c.4.2, 2c.4.4, 2d.4.2, 2e.4.2, 3a.4.1, 3a.4.2, 3a.4.4, 3a.4.6, 3a.4.8, 3a.4.10, 3a.4.12, 3a.4.14, 3a.4.16 tot en met 3a.4.18, 3a.4.19, 3a.4.20, 3b.4.2, 3b.4.4, 3b.4.5, 3b.4.7, 3c.4.2, 3c.4.4, 3d.4.2, 3e.4.2, 4a.4.2, 4a.4.4, 4a.4.6, 4a.4.7, 4b.4.2, 4c.4.2, 4c.4.4, 4c.4.6, 4d.4.2, 4d.4.4, 5a.4.2, 5a.4.4, 5a.4.7, 5a.4.8, 5a.4.11, 5a.4.13, 5a.4.15, 5a.4.17, 5a.4.19, 5a.4.21, 5a.4.23, 5b.4.2, 5b.4.4, 5c.4.2, 5d.4.2, 5d.4.4, 5d.4.6, 5e.4.2, 5e.4.4, 5f.4.2, 5g.4.2  | 15  | K  B  Tp  Ti  | 40  15  25  20  |
-| Inkomen en arbeidsongeschiktheid  | 2a.5.2, 2a.5.4, 2a.5.6, 2a.5.8, 2a.5.9, 2a.5,11 tot en met 2a.5.13, 2a.5.16, 2a.5.18, 2a.5.20, 2a.5.22, 2a.5.23, 2a.5.25, 2b.5.2, 2c.5.2, 2c.5.4, 2c.5.5, 2d.5.2, 2e.5.2, 3a.5.2, 3a.5.4, 3a.5.6, 3a.5.8, 3a.5.10, 3a.5.12, 3a.5.14, 3a.5.16, 3a.5.17, 3a.5.18, 3a.5.20, 3a.5.21, 3a.5.22, 3a.5.23, 3.a.5.24, 3a.5.25, 3a.5.26, 3a.5.27, 3a.5.28, 3a.5.29, 3a.5.30, 3b.5.2, 3b.5.3, 3b.5.5, 3b.5.6, 3c.5.2, 3c.5.4, 3d.5.2, 3e.5.2, 4a.5.2, 4a.5.4, 4a.5.5, 4a.5.7, 4a.5.8, 4b.5.2, 4c.5.2, 4c.5.4, 4c.5.5, 4c.5.7, 4d.5.2, 4d.5.4, 5a.5.2, 5a.5.4, 5a.5.6, 5a.5.8, 5a.5.10, 5a.5.12, 5a.5.14, 5a.5.16, 5a.5.18, 5a.5.20, 5b.5.2, 5b.5.4, 5c.5.2, 5d.5.2, 5d.5.4, 5d.5.6, 5d.5.8, 5d.5.9, 5d.5.10, 5e.5.2, 5e.5.4, 5f.5.2, 5g.5.2.  | 20  | K  B  Tp  Ti  | 45  15  25  15  |
+| Aansprakelijkheid en rechtsbijstand  | 2a.4.1, 2a.4.3, 2a.4.5, 2a.4.7, 2a.4.10, 2a.4.12, 2a.4.14, 2a.4.16, 2a.4.18, 2a.4.21, 2a.4.23, 2b.4.1, 2c.4.1, 2c.4.3, 2d.4.1, 2e.4.1, 3a.4.1, 3a.4.3, 3a.4.5, 3a.4.7, 3a.4.9, 3a.4.11, 3a.4.13, 3a.4.15, 3a.4.19, 3b.4.1, 3b.4.3, 3b.4.5, 3b.4.6, 3c.4.1, 3c.4.3, 3d.4.1, 3e.4.1, 4a.4.1, 4a.4.3, 4a.4.5, 4a.4.7, 4b.4.1, 4c.4.1, 4c.4.3, 4c.4.5, 4d.4.1, 4d.4.3, 5a.4.1, 5a.4.3, 5a.4.5, 5a.4.6, 5a.4.9, 5a.4.10, 5a.4.12, 5a.4.14, 5a.4.16, 5a.4.18, 5a.4.20, 5a.4.22, 5b.4.1, 5b.4.3, 5c.4.1, 5d.4.1, 5d.4.3, 5d.4.5, 5d.4.7, 5e.4.1, 5e.4.3, 5f.4.1, 5g.4.1  | 15  | K  B  Tp  Ti  | 40  15  25  20  |
+| Inkomen en arbeidsongeschiktheid  | 2a.5.1, 2a.5.3, 2a.5.5, 2a.5.7, 2a.5.10, 2a.5.15, 2a.5.17, 2a.5.19, 2a.5.21, 2a.5.24, 2b.5.1, 2c.5.1, 2c.5.3, 2c.5.5, 2d.5.1, 2e.5.1, 3a.5.1, 3a.5.3, 3a.5.5, 3a.5.7, 3a.5.9, 3a.5.11, 3a.5.13, 3a.5.15, 3a.5.17, 3a.5.18, 3a.5.19, 3a.5.21, 3a.5.22, 3a.5.23, 3a.5.26, 3a.5.27, 3a.5.28, 3b.5.1, .3b.5.3, 3b.5.5, 3c.5.1, 3c.5.3, 3d.5.1, 3e.5.1, 4a.5.1, .4a.5.3, 4a.5.5, 4a.5.6, 4a.5.8, 4b.5.1, 4c.5.1, 4c.5.3, 4c.5.6, 4d.5.1, 4d.5.3, 5a.5.1, 5a.5.3, 5a.5.5, 5a.5.7, 5a.5.9, 5a.5.11, 5a.5.13, 5a.5.15, 5a.5.17, 5a.5.19, 5b.5.1, 5b.5.3, 5c.5.1, 5d.5.1, 5d.5.3, 5d.5.5, 5d.5.7, 5d.5.9, 5d.5.10, 5e.5.1, 5e.5.3, 5f.5.1, 5g.5.1.  | 20  | K  B  Tp  Ti  | 45  15  25  15  |
 | Gezondheid en zorg  | 2a.6.1 t/m 2a.6.3, 2a.6.5 t/m 2a.6.11, 2a.6.13, 2b.6.1, 2c.6.1, 2d.6.1, 2e.6.1 t/m 3a.6.2, 3a.6.4 t/m 3a.6.6, 3a.6.8 t/m 3a.6.10, 3a.6.12 t/m 3b.6.1, 3b.6.3, 3c.6.1, 3c.6.3, 3d.6.1 t/m 5c.6.1, 5d.6.1 t/m 5d.6.3, 5e.6.1, 5f.6.1, 5g.6.1  | 5  | K  B  Tp  Ti  | 40  25  20  15  |
 | Algemeen  | 6.1 tot en met 6.14  | 5  | K  B  Tp  Ti  | 15  15  40  30  |
 
@@ -3479,26 +3757,51 @@ Bedrijven
 | Transport  | 2a.3.1, 2a.3.2, 2a.3.4 t/m 2a.3.6, 2a.3.9, 2a.3.11, 2a.3.13, 2a.3.15, 2a.3.17 t/m 2a.3.20, 2d.3.2, 2d.3.3, 2e.3.2, 3a.3.2, 3a.3.4, 3a.3.6, 3a.3.8, 3a.3.10, 3a.3.12 t/m 3a.3.15, 3a.3.17, 3a.3.19 tot en met 3a.3.27, 3b.3.2, 3b.3.4, 3b.3.6, 3b.3.7, 3c.3.2, 3c.3.4, 3d.3.2, 3e.3.2, 4a.3.2, 4a.3.4, 4a.3.6, 4a.3.7, 4a.3.8, 4b.3.2, 4c.3.2, 4c.3.4, 4c.3.6, 4d.3.2, 4d.3.4, 5a.3.2, 5a.3.4, 5a.3.6, 5a.3.8, 5a.3.10, 5a.3.12, 5a.3.14, 5b.3.2, 5b.3.4, 5c.3.2, 5d.3.2, 5d.3.4, 5d.3.6, 5e.3.2, 5e.3.4, 5f.3.2, 5g.3.2  | 10  | K  B  Tp  Ti  | 35  20  25  20  |
 | Aansprakelijkheid en rechtsbijstand  | 2a.4.2, 2a.4.4, 2a.4.6, 2a.4.8, 2a.4.9, 2a.4.11, 2a.4.13, 2a.4.15, 2a.4.17, 2a.4.19, 2a.4.20, 2a.4.22, 2b.4.2, 2c.4.2, 2c.4.4, 2d.4.2, 2e.4.2, 3a.4.1, 3a.4.2, 3a.4.4, 3a.4.6, 3a.4.8, 3a.4.10, 3a.4.12, 3a.4.14, 3a.4.16 t/m 3a.4.18, 3a.4.19, 3a.4.20, 3b.4.2, 3b.4.4, 3b.4.5, 3b.4.7, 3c.4.2, 3c.4.4, 3d.4.2, 3e.4.2,  | 15  | K  B  Tp  Ti  | 40  15  25  20  |
 | --- | 4a.4.2, 4a.4.4, 4a.4.6, 4a.4.7, 4b.4.2, 4c.4.2, 4c.4.4, 4c.4.6, 4d.4.2, 4d.4.4, 5a.4.2, 5a.4.4, 5a.4.7, 5a.4.8, 5a.4.11, 5a.4.13, 5a.4.15, 5a.4.17, 5a.4.19, 5a.4.21, 5a.4.23, 5b.4.2, 5b.4.4, 5c.4.2, 5d.4.2, 5d.4.4, 5d.4.6, 5e.4.2, 5e.4.4, 5f.4.2, 5g.4.2  | --- | --- | --- |
-| Inkomen en arbeidsongeschiktheid  | 2a.5.2, 2a.5.4, 2a.5.6, 2a.5.8, 2a.5.9, 2a.5.11 t/m 2a.5.14, 2a.5.16, 2a.5.18, 2a.5.20, 2a.5.22, 2a.5.23, 2a.5.25, 5b.5.2, 2c.5.2, 2c.5.4, 2c.5.5, 2d.5.2, 2e.5.2, 3a.5.2, 3a.5.4, 3a.5.6, 3a.5.8, 3a.5.10, 3a.5.12, 3a.5.14, 3a.5.16, 3a.5.17, 3a.5.18, 3a.5.20, 3a.5.21, 3a.5.22, 3a.5.23, 3a.5.24, 3a.5.25, 3a.5.26, 3a.5.27,  | 20  | K  B  Tp  Ti  | 45  15  25  15  |
+| Inkomen en arbeidsongeschiktheid  | 2a.5.2, 2a.5.4, 2a.5.6, 2a.5.8, 2a.5.9, 2a.5.11 t/m 2a.5.13, 2a.5.16, 2a.5.18, 2a.5.20, 2a.5.22, 2a.5.23, 2a.5.25, 5b.5.2, 2c.5.2, 2c.5.4, 2c.5.5, 2d.5.2, 2e.5.2, 3a.5.2, 3a.5.4, 3a.5.6, 3a.5.8, 3a.5.10, 3a.5.12, 3a.5.14, 3a.5.16, 3a.5.17, 3a.5.18, 3a.5.20, 3a.5.21, 3a.5.22, 3a.5.23, 3a.5.24, 3a.5.25, 3a.5.26, 3a.5.27,  | 20  | K  B  Tp  Ti  | 45  15  25  15  |
 | --- | 3a.5.29, 3a.5.30, 3b.5.2, 3b.5.4, 3b.5.5, 3b.5.6, 3c.5.2, 3c.5.4, 3d.5.2, 3e.5.2, 4a.5.2, 4a.5.4, 4a.5.5, 4a.5.7, 4a.5.8, 4b.5.2, 4c.5.2, 4c.5.4, 4c.5.5, 4c.5.7, 4d.5.2, 4d.5.4, 5a.5.2, 5a.5.4, 5a.5.6, 5a.5.8, 5a.5.10, 5a.5.12, 5a.5.14, 5a.5.16, 5a.5.18, 5a.5.20, 5a.5.21, 5b.5.2, 5b.5.4, 5c.5.2, 5d.5.2, 5d.5.4, 5d.5.6, 5d.5.8, 5d.5.9, 5d.5.10, 5e.5.2, 5e.5.4, 5f.5.2, 5g.5.2  | --- | --- | --- |
 | Gezondheid en zorg  | 2a.6.4, 2a.6.7, 2a.6.10, 2a.6.11, 2a.6.12, 2b.6.2, 2c.6.2, 2d.6.2, 2e.6.2, 3a.6.1, 3a.6.3, 3a.6.4, 3a.6.7, 3a.6.14, 3b.6.2, 3b.6.3, 3d.6.1, 3e.6.1, 4a.6.2, 4b.6.1, 4c.6.6, 4d.6.1, 5a.6.8  | 5  | K  B  Tp  Ti  | 40  25  20  15  |
 | Algemeen  | 6.1 tot en met 6.14  | 5  | K  B  Tp  Ti  | 15  15  40  30  |
 
 #### *Leven* 
 
-Algemeen 
-
-| Inhoudscluster  | Toetstermen behorend tot inhoudscluster  | Aandeel inhoudscluster in examen als percentage  | Taxonomiecode  | Aandeel van taxonomiecode per inhoudscluster in percentage  |
-|:---|:---|:---|:---|:---|
-| Vormen van levensverzekering en levens-verzekerings- overeenkomst  | 2c.1, 2c.47 t/m 2c.49, 2d.1 t/m 2d.6 t/m 3a.4, 3b.1 t/m 3b.4, 3c.1 t/m 3c.6, 3j.1 t/m 3j.3, 4c.1 t/m 4c.8, 4d.1 t/m 4d.14, 4d.21, 4e.1 t/m 5b.4, 5c.1 t/m 5d.2, 5e.1 t/m 5g.1  | 20  | K  B  Tp  Ti  | 15  15  35  35  |
-| Acceptatie van levensverzekeringen-  | 2c.2 t/m 2c.4, 3a.5, 3b.5, 3d.1 t/m 3e.1, 3f.1 t/m 3i.1, 4a.1, 4d.15  | 5  | K  B  Tp  Ti  | 10  20  40  30  |
-| Inkomsten-belasting en kapitaal-verzekering  | 2b.1 t/m 2b.6, 2c.5, 2c.6, 3b.6, 4c.9 t/m 4c.12, 4c.16, 4d.16, 4d.17  | 10  | K  B  Tp  Ti  | 10  20  35  35  |
-| Erfrecht, successie- en schenkingsrecht  | 2a.1 t/m 2a.4, 2b.7 t/m 2b.11, 2c.7 t/m 2c.11, 3a.6, 3b.7 t/m 3b.10, 4c.13  | 5  | K  B  Tp  Ti  | 30  30  20  20  |
-| AOW/ANW  | 2a.5 t/m 2a.13, 2b.12 t/m 2b.22, 3a.7  | 5  | K  B  Tp  Ti  | 35  35  20  10  |
-| Pensioenvoorzieningen  | 2a.14 t/m 2a.38, 2b.23 t/m 2b.35, 2c.12 t/m 2c.24, 3a.8 t/m 3a.22, 3b.11 t/m 3b.40, 3c.7 t/m 3c.11, 3e.2 t/m 3e.6, 3j.4, 3j.5. 4b.1, 4c.14, 4d.18 t/m 4d.20, 5b.5 t/m 5b.8, 5d.3 t/m 5d.6  | 20  | K  B  Tp  Ti  | 10  25  40  25  |
-| Pensioen voor de DGA  | 2a.39 t/m 2a.45, 2b.36, 2c.25 t/m 2c.36, 3a.23, 3a.24, 3b.41 t/m 3b.43, 5d.7  | 10  | K  B  Tp  Ti  | 20  30  30  20  |
-| Overige inkomens-voorzieningen  | 2a.46 t/m 2a.56, 2b.37 t/m 2b.41, 2c.37 t/m 2c.46, 3a.25, 3a.28, 3b.44 t/m 3b.51, 4c.15, 5b.9 t/m 5b.16, 5d.8  | 15  | K  B  Tp  Ti  | 10  20  30  40  |
-| De IB-ondernemer  | 2a.57 t/m 2a.62, 2b.42, 2b.43, 3a.29 t/m 3a.37, 3b.52, 3b.53  | 10  | K  B  Tp  Ti  | 10  20  35  35  |
+| Algemeen  | Inhoudscluster  | Toetstermen behorend tot inhoudscluster  | Aandeel inhoudscluster in examen als percentage  | Taxonomie-code  | Aandeel van taxonomiecode per inhoudscluster in percentage  |
+|:---|:---|:---|:---|:---|:---|
+|  *Vormen van levensverzekering en levensverzekeringsovereenkomst*   | 2a.63, 2c.1, 2c.47 t/m 2c.49, 2d.1 t/m 2d.7, 2e.1 t/m 3a.4, 3b.1 t/m 3b.4, 3c.1 t/m 3c.6, 3j.1 t/m 3j.3, 4c.1 t/m 4c.8, 4d.1 t/m 4d.14, 4d.21, 4e.1 t/m 5b.4, 5c.1 t/m 5d.2, 5e.1 t/m 5g.1  |  *20*   |  *K*   |  *15*   |
+|  *B*   |  *15*   |
+|  *Tp*   |  *35*   |
+|  *Ti*   |  *35*   |
+|  *Acceptatie van levensverzekeringen*   | 2c.2 t/m 2c.4, 3a.5, 3b.5, 3d.1 t/m 3e.1, 3f.1 t/m 3i.1, 4a.1, 4d.15  |  *5*   |  *K*   |  *10*   |
+|  *B*   |  *20*   |
+|  *Tp*   |  *40*   |
+|  *Ti*   |  *30*   |
+|  *Inkomstenbelasting en kapitaal-verzekering*   | 2b.1 t/m 2b.6, 2c.5, 2c.6, 3b.6, 4c.9 t/m 4c.12, 4d.16, 4d.17  |  *15*   |  *K*   |  *10*   |
+|  *B*   |  *20*   |
+|  *Tp*   |  *35*   |
+|  *Ti*   |  *35*   |
+|  *Erfrecht, successie- en schenkingsrecht*   | 2a.1 t/m 2a.4, 2b.7 t/m 2b.11, 2c.7 t/m 2c.11, 3a.6, 3b.7 t/m 3b.10, 4c.13  |  *5*   |  *K*   |  *30*   |
+|  *B*   |  *30*   |
+|  *Tp*   |  *20*   |
+|  *Ti*   |  *20*   |
+|  *AOW/ANW*   | 2a.5 t/m 2a.13, 2b.12 t/m 2b.22  |  *5*   |  *K*   |  *35*   |
+|  *B*   |  *35*   |
+|  *Tp*   |  *20*   |
+|  *Ti*   |  *10*   |
+|  *Pensioenvoorzieningen*   | 2a.14, 2a.15, 2a.18, 2a.20 t/m 2a.24, 2a.26 t/m 2a.29, 2a.31 t/m 2a.34, 2a.36, 2a.37, 2b.23, 2b.24, 2b.26, 2b.28, 2b.30, 3b.34, 2b.35, 2c.12, 2c.15, 2c.18 t/m 2c.20, 2c.22, 2c.23, 3a.9, 3a.12, 3a.13, 3a.17, 3a.19, 3a.21, 3b.11, 3b.12, 3b.16, 3b.19, 3b.21, 3b.23, 3b.27 t/m 3b.29, 3b.32 t/m 3b.34, 3b.36 t/m 3b.40, 3c.7 t/m 3c.9, 3j.4, 3j.5, 4b.1, 4d.18, 4d.19, 5b.7, 5d.3  |  *20*   |  *K*   |  *10*   |
+|  *B*   |  *25*   |
+|  *Tp*   |  *40*   |
+|  *Ti*   |  *25*   |
+|  *Pensioen voor de DGA*   | 2a.44, 2a.45, 2c.28 t/m 2c.30, 3c.34, 2c.35, 3a.23, 3a.24  |  *5*   |  *K*   |  *35*   |
+|  *B*   |  *35*   |
+|  *Tp*   |  *20*   |
+|  *Ti*   |  *10*   |
+|  *Overige inkomensvoorzieningen*   | 2a.46 t/m 2a.56, 2b.37 t/m 2b.41, 2b.44,2c.37 t/m 2c.46, 3a.25, 3a.28, 3b.44 t/m 3b.51, 4c.15, 5b.9 t/m 5b.15, 5d.8  |  *15*   |  *K*   |  *10*   |
+|  *B*   |  *20*   |
+|  *Tp*   |  *30*   |
+|  *Ti*   |  *40*   |
+|  *De IB-ondernemer*   | 2a.57 t/m 2a.61, 2b.42, 2b.43, 3a.29 t/m 3a.37, 3b.52, 3b.53  |  *10*   |  *K*   |  *10*   |
+|  *B*   |  *20*   |
+|  *Tp*   |  *35*   |
+|  *Ti*   |  *35*   |
 
 | Beleggen  | Inhoudscluster  | Toetstermen behorend tot inhoudscluster  | Aandeel inhoudscluster in examen als percentage  | Taxonomiecode  | Aandeel van taxonomiecode per inhoudscluster in percentage  |
 |:---|:---|:---|:---|:---|:---|
@@ -3508,8 +3811,8 @@ Algemeen
 |  *Ti*   |  *45*   |
 |  *Opstellen risicoprofiel*   | 6d.1 t/m 6d.7, 7a.1, 7a.2  |  *20*   |  *K*   |  *20*   |
 |  *B*   |  *20*   |
-|  *Tp*   |  *20*   |
-|  *Ti*   |  *40*   |
+|  *Tp*   |  *0*   |
+|  *Ti*   |  *60*   |
 |  *Assetallocatie*   | 7b.1 t/m 7d.3  |  *15*   |  *K*   |  *10*   |
 |  *B*   |  *20*   |
 |  *Tp*   |  *30*   |
@@ -3543,18 +3846,18 @@ Levensverzekeringen
 
 | Inhoudscluster  | Toetstermen behorend tot inhoudscluster  | Aandeel inhoudscluster in examen als percentage  | Taxonomiecode  | Aandeel van taxonomiecode per inhoudscluster in percentage  |
 |:---|:---|:---|:---|:---|
-| --- | 6a.1 t/m 6g.15  | 100  | K  B  Tp  Ti  | 30  30  25  15  |
+| Algemeen  | 6a.1 t/m 6g.15  | 100  | K  B  Tp  Ti  | 30  30  25  15  |
 
 | Beleggen  | Inhoudscluster  | Toetstermen behorend tot inhoudscluster  | Aandeel inhoudscluster in examen als percentage  | Taxonomiecode  | Aandeel van taxonomiecode per inhoudscluster in percentage  |
 |:---|:---|:---|:---|:---|:---|
-|  *Inventarisatie*   | 6h.1 t/m 6j.4, 6l.1 t/m 6l.3, 6y.1, 6aa.1.1 t/m 6aa.4  |  *25*   |  *K*   |  *30*   |
+|  *Inventarisatie*   | 6h.1 t/m 6j.4, 6l.1 t/m 6l.3, 6y.1, 6z.1 t/m 6z.5, 6aa.1.1 t/m 6aa.4  |  *25*   |  *K*   |  *30*   |
 |  *B*   |  *20*   |
 |  *Tp*   |  *5*   |
 |  *Ti*   |  *45*   |
 |  *Opstellen risicoprofiel*   | 6k.1 t/m 6k.7 6m.1, 6m.2  |  *20*   |  *K*   |  *20*   |
 |  *B*   |  *20*   |
-|  *Tp*   |  *20*   |
-|  *Ti*   |  *40*   |
+|  *Tp*   |  *0*   |
+|  *Ti*   |  *60*   |
 |  *Assetallocatie*   | 6n.1 t/m 6n.3  |  *15*   |  *K*   |  *10*   |
 |  *B*   |  *20*   |
 |  *Tp*   |  *30*   |
@@ -3574,5 +3877,5 @@ Overig
 |:---|:---|:---|:---|:---|
 | Verzekeringsbedrijf  | 7a.1 t/m 7e.2  | 40  | K  B  Tp  Ti  | 40  15  30  15  |
 | Verzekeringstechniek  | 8a.1 t/m 8f.28  | 20  | K  B  Tp  Ti  | 45  25  20  10  |
-| Gevolmachtigde  | 9a.1 t/m 9d.2  | 40  | K  B  Tp  Ti  | 75  15  5  5  |
+| Gevolmachtigde  | 9a.1 t/m 9a.6, 9a.9 t/m 9d.2  | 40  | K  B  Tp  Ti  | 75  15  5  5  |
 

@@ -429,7 +429,7 @@ A. H. Korthals
 
 ####behorende bij het Besluit glastuinbouw
 
-*De berekening van het jaarlijks ten hoogste toegestane verbruik van energie onderscheidenlijk meststoffen, en meet-, registratie- en rapportagevoorschriften*  
+*De berekening van het jaarlijks ten hoogste toegestane verbruik van meststoffen, en meet-, registratie- en rapportagevoorschriften*  
 
 ### A  
 
@@ -447,9 +447,7 @@ A. H. Korthals
 
 – teeltoppervlak: oppervlak, uitgedrukt in m <sup>2</sup>, gelegen onder een permanente opstand van glas of van kunststof, dat kan worden gebruikt voor het opkweken of verder telen van gewassen;  
 
-– teeltperiode: periode gedurende welke een gewas wordt opgekweekt of verder geteeld, uitgedrukt in weken;  
-
-– energiecluster: twee of meer glastuinbouwbedrijven die gezamenlijk elektriciteit en warmte gebruiken van een centrale energievoorziening die in beheer is bij één of meerdere van die bedrijven.   2. Indien voor een berekening, uit te voeren ingevolge de voorschriften opgenomen in deze bijlage: 
+– teeltperiode: periode gedurende welke een gewas wordt opgekweekt of verder geteeld, uitgedrukt in weken.   2. Indien voor een berekening, uit te voeren ingevolge de voorschriften opgenomen in deze bijlage: 
 
 – het aantal weken dat wordt opgekweekt of verder geteeld, moet worden gebruikt, wordt bij meer dan 3,5 dag afgerond naar een week;  
 
@@ -463,15 +461,13 @@ A. H. Korthals
 
 ####De jaarrapportage
 
-*Paragraaf 1.1 De inhoud van de jaarrapportage*  1.1.1 Degene die een glastuinbouwbedrijf drijft, verbruikt in een kalenderjaar niet meer energie en ingeval van grondgebonden teelt, niet meer stikstof onderscheidenlijk fosfor, dan de hoeveelheid die voor het betrokken kalenderjaar als ten hoogste toegestane verbruik is berekend in de voor dat kalenderjaar ingevolge voorschrift 1.1.2 overgelegde jaarrapportage. Dit voorschrift geldt, voor zover dit betrekking heeft op energie, niet indien het een inrichting betreft waarop de in artikel 16.5, eerste lid, van de Wet milieubeheer vervatte verboden betrekking hebben. 1.1.2 Degene die een glastuinbouwbedrijf drijft, overlegt, ieder jaar uiterlijk op 1 mei een rapportage, waarin is opgenomen: 
+*Paragraaf 1.1 De inhoud van de jaarrapportage*  1.1.1 Degene die een glastuinbouwbedrijf drijft, verbruikt in een kalenderjaar ingeval van grondgebonden teelt, niet meer stikstof onderscheidenlijk fosfor, dan de hoeveelheid die voor het betrokken kalenderjaar als ten hoogste toegestane verbruik is berekend in de voor dat kalenderjaar ingevolge voorschrift 1.1.2 overgelegde jaarrapportage. 1.1.2 Degene die een glastuinbouwbedrijf drijft, overlegt, ieder jaar uiterlijk op 1 mei een rapportage, waarin is opgenomen: 
 
 a. het adres van het glastuinbouwbedrijf;  
 
 b. de naam en adres van degene die het glastuinbouwbedrijf drijft;  
 
 c. over het voorafgaande kalenderjaar het ingevolge voorschrift 3.1.3: 
-
-– onder a, berekende verbruik van energie;  
 
 – onder b, berekende verbruik van stikstof; en  
 
@@ -487,19 +483,15 @@ e. een overzicht van de gewassen die opgekweekt of verder geteeld worden of, ind
 
 – het gewas dat wordt opgekweekt;    
 
-f. een overzicht van de energietoepassingen, waarbij voor iedere energietoepassing wordt aangegeven:  –  de oppervlakte waarop, uitgedrukt in m <sup>2</sup>, alsmede de periode waarin, uitgedrukt in weken, de energietoepassing wordt gebruikt;  
+f. indien in een kalenderjaar op een gedeelte van het teeltoppervlak geen gewassen worden opgekweekt of verder geteeld: een opgave van die gedeelten, uitgedrukt in m <sup>2</sup>, en het aantal weken waarin geen gewassen worden opgekweekt of verder geteeld;  
 
-g. indien in een kalenderjaar op een gedeelte van het teeltoppervlak geen gewassen worden opgekweekt of verder geteeld: een opgave van die gedeelten, uitgedrukt in m <sup>2</sup>, en het aantal weken waarin geen gewassen worden opgekweekt of verder geteeld;  
+g. het ten hoogste toegestane verbruik van: 
 
-h. het ten hoogste toegestane verbruik van: 
+1°. stikstof, ingeval van grondgebonden teelt, berekend op de wijze, aangegeven in de voorschriften 1.2.5 en 1.2.6;  
 
-1°. energie berekend op de wijze, aangegeven in de voorschriften 1.2.2, 1.2.3 en 1.2.4;  
+2°. fosfor, ingeval van grondgebonden teelt, berekend op de wijze, aangegeven in de voorschriften 1.2.7 en 1.2.8.    
 
-2°. stikstof, ingeval van grondgebonden teelt, berekend op de wijze, aangegeven in de voorschriften 1.2.5 en 1.2.6;  
-
-3°. fosfor, ingeval van grondgebonden teelt, berekend op de wijze, aangegeven in de voorschriften 1.2.7 en 1.2.8.    
-
-i. indien lozen type II plaatsvindt tevens: 
+h. indien lozen type II plaatsvindt tevens: 
 
 1°. de over het voorafgaandekalenderjaar ingevolge voorschrift 15, eerste lid, onder a, van bijlage 3 gemeten geloosde volumes spuiwater, drainwater en drainagewater,  
 
@@ -515,13 +507,11 @@ i. indien lozen type II plaatsvindt tevens:
 
 – voert berekeningen uit overeenkomstig de voorschriften van dit besluit;  
 
-– voert zijn werkzaamheden uit overeenkomstig de door geaccepteerde deskundigen overeengekomen gebruiken.    *Paragraaf 1.2 De berekening van het jaarlijks ten hoogste toegestane verbruik van energie en ingeval van grondgebonden teelt, stikstof, onderscheidenlijk fosfor, ten behoeve van de jaarrapportage.*  1.2.1 Indien gedurende een of meer weken op een gedeelte van het teeltoppervlak geen gewassen worden opgekweekt of verder geteeld worden de uitkomsten van de berekeningen, bedoeld in de voorschriften 1.2.2, 1.2.5 en 1.2.7, vermeerderd met de uitkomst van de berekening van het ten hoogste toegestane verbruik voor het betrokken milieutaakveld voor «onbeteeld teeltoppervlak». Op de berekening van het ten hoogste toegestane verbruik voor het betrokken milieutaakveld voor «onbeteeld teeltoppervlak» zijn de voorschriften 1.2.3, 1.2.6 en 1.2.8 van overeenkomstige toepassing, met dien verstande dat respectievelijk worden ingevoerd voor de letters: 
+– voert zijn werkzaamheden uit overeenkomstig de door geaccepteerde deskundigen overeengekomen gebruiken.    *Paragraaf 1.2 De berekening van het jaarlijks ten hoogste toegestane verbruik van ingeval van grondgebonden teelt, stikstof, onderscheidenlijk fosfor, ten behoeve van de jaarrapportage.*  1.2.1 Indien gedurende een of meer weken op een gedeelte van het teeltoppervlak geen gewassen worden opgekweekt of verder geteeld worden de uitkomsten van de berekeningen, bedoeld in de voorschriften 1.2.2, 1.2.5 en 1.2.7, vermeerderd met de uitkomst van de berekening van het ten hoogste toegestane verbruik voor het betrokken milieutaakveld voor «onbeteeld teeltoppervlak». Op de berekening van het ten hoogste toegestane verbruik voor het betrokken milieutaakveld voor «onbeteeld teeltoppervlak» zijn de voorschriften 1.2.3, 1.2.6 en 1.2.8 van overeenkomstige toepassing, met dien verstande dat respectievelijk worden ingevoerd voor de letters: 
 
-a. A: het aantal Gigajoule per hectare opgenomen in de in lijst 1, onderdeel A, voor het betrokken kalenderjaar geldende kolom achter «onbeteeld teeltoppervlak»;  
+a. G: het aantal kilogrammen N per hectare opgenomen in de in lijst 1, onderdeel C, voor het betrokken kalenderjaar geldende kolom achter «onbeteeld teeltoppervlak», en  
 
-b. G: het aantal kilogrammen N per hectare opgenomen in de in lijst 1, onderdeel C, voor het betrokken kalenderjaar geldende kolom achter «onbeteeld teeltoppervlak», en  
-
-c. H: het aantal kilogrammen P per hectare opgenomen in de in lijst 1, onderdeel D, voor het betrokken kalenderjaar geldende kolom achter «onbeteeld teeltoppervlak».   1.2.2 Het ten hoogste toegestane verbruik van energie, bedoeld in voorschrift 1.1.2, onder h, onder 1°, voor een kalenderjaar, wordt uitgedrukt in Gigajoule en berekend door voor ieder geteeld gewas, onderscheidenlijk voor iedere geteelde gewasgroep, het ten hoogste toegestane verbruik van energie te berekenen op de wijze aangegeven in voorschrift 1.2.3, de som van de uitkomsten van die berekeningen te nemen en deze vervolgens te vermeerderen met de som van de uitkomsten van de berekeningen van het ten hoogste toegestane verbruik van energie voor iedere gebruikte energietoepassingen berekend op de wijze aangegeven in voorschrift 1.2.4. 1.2.3 Het ten hoogste toegestane verbruik van energie voor een kalenderjaar voor een gewas of gewasgroep, wordt berekend door: A x B x C --------- 52 A = het aantal Gigajoule per hectare opgenomen in de in lijst 1, onderdeel A, voor het betrokken kalenderjaar geldende kolom achter: a. het betrokken gewas of b. indien het betrokken gewas is ingedeeld in een gewasgroep: de gewasgroep waarbij het gewas is ingedeeld; B = het aantal hectares waarop het betrokken gewas wordt geteeld; C = het aantal weken dat het betrokken gewas wordt geteeld. Indien een niet sierteeltgewas wordt opgekweekt en is ingedeeld in een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt voor A het aantal Gigajoule ingevuld behorende bij de betrokken gewasgroep waarbij het gewas is ingedeeld. Indien een gewas, niet behorend tot een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt opgekweekt, wordt de uitkomst van de berekening verhoogd met een percentage van tien procent. 1.2.4 Het ten hoogste toegestane verbruik van energie voor een kalenderjaar voor een in dat kalenderjaar te gebruiken energietoepassing, wordt berekend door: D x E x F --------- 52 D = het aantal Gigajoule per hectare opgenomen in de in lijst 1, onderdeel B, voor het betrokken kalenderjaar geldende kolom achter de betrokken energietoepassing; E = het aantal hectares waarop de betrokken energietoepassing wordt gebruikt; F = het aantal weken dat de betrokken energietoepassing wordt gebruikt. 1.2.5 Het ten hoogste toegestane verbruik van stikstof, bedoeld in voorschrift 1.1.2, onder h, voor een kalenderjaar, wordt uitgedrukt in kilogrammen N en berekend door voor ieder geteeld gewas, onderscheidenlijk voor iedere geteelde gewasgroep, het ten hoogste toegestane verbruik van stikstof te berekenen op de wijze aangegeven in voorschrift 1.2.6, en vervolgens de som van de uitkomsten van die berekeningen te nemen. 1.2.6 Het ten hoogste toegestane verbruik van stikstof voor een kalenderjaar voor een gewas of gewasgroep, wordt berekend door: G x B x C -------- 52 G = het aantal kilogrammen N per hectare opgenomen in de in lijst 1, onderdeel C, voor het betrokken kalenderjaar geldende kolom achter: a. het betrokken gewas of b. indien het betrokken gewas is ingedeeld in een gewasgroep: de gewasgroep waarbij het gewas is ingedeeld; B = het aantal hectares waarop het betrokken gewas wordt geteeld; C = het aantal weken dat het betrokken gewas wordt geteeld. Indien een niet sierteeltgewas wordt opgekweekt en is ingedeeld in een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt voor G het aantal kilogrammen N ingevuld behorende bij de betrokken gewasgroep waarbij het gewas is ingedeeld. Indien een gewas, niet behorend tot een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt opgekweekt, wordt de uitkomst van de berekening verhoogd met een percentage van nul procent. 1.2.7 Het ten hoogste toegestane verbruik van fosfor, bedoeld in voorschrift 1.1.2, onder h, voor een kalenderjaar, wordt uitgedrukt in kilogrammen P en berekend door voor ieder geteeld gewas, onderscheidenlijk voor iedere geteelde gewasgroep, het ten hoogste toegestane verbruik van fosfor te berekenen op de wijze aangegeven in voorschrift 1.2.8, en vervolgens de som van de uitkomsten van die berekeningen te nemen. 1.2.8 Het ten hoogste toegestane verbruik van fosfor voor een kalenderjaar voor een gewas of gewasgroep, wordt berekend door: H x B x C -------- 52 H = het aantal kilogrammen P per hectare opgenomen in de in lijst 1, onderdeel D, voor dat kalenderjaar geldende kolom achter: a. het betrokken gewas of b. indien het betrokken gewas is ingedeeld in een gewasgroep: de gewasgroep waarbij het gewas is ingedeeld; B = het aantal hectares waarop het betrokken gewas wordt geteeld; C = het aantal weken dat het betrokken gewas wordt geteeld. Indien een niet sierteeltgewas wordt opgekweekt en is ingedeeld in een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt voor het betrokken gewas voor H het aantal kilogrammen P ingevuld behorende bij de betrokken gewasgroep waarbij het gewas is ingedeeld. Indien een gewas, niet behorend tot een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt opgekweekt, wordt de uitkomst van de berekening verhoogd met een percentage van nul procent.  
+b. H: het aantal kilogrammen P per hectare opgenomen in de in lijst 1, onderdeel D, voor het betrokken kalenderjaar geldende kolom achter «onbeteeld teeltoppervlak».   1.2.2 Vervallen. 1.2.3 Vervallen. 1.2.4 Vervallen. 1.2.5 Het ten hoogste toegestane verbruik van stikstof, bedoeld in voorschrift 1.1.2, onder h, voor een kalenderjaar, wordt uitgedrukt in kilogrammen N en berekend door voor ieder geteeld gewas, onderscheidenlijk voor iedere geteelde gewasgroep, het ten hoogste toegestane verbruik van stikstof te berekenen op de wijze aangegeven in voorschrift 1.2.6, en vervolgens de som van de uitkomsten van die berekeningen te nemen. 1.2.6 Het ten hoogste toegestane verbruik van stikstof voor een kalenderjaar voor een gewas of gewasgroep, wordt berekend door: G x B x C -------- 52 G = het aantal kilogrammen N per hectare opgenomen in de in lijst 1, onderdeel C, voor het betrokken kalenderjaar geldende kolom achter: a. het betrokken gewas of b. indien het betrokken gewas is ingedeeld in een gewasgroep: de gewasgroep waarbij het gewas is ingedeeld; B = het aantal hectares waarop het betrokken gewas wordt geteeld; C = het aantal weken dat het betrokken gewas wordt geteeld. Indien een niet sierteeltgewas wordt opgekweekt en is ingedeeld in een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt voor G het aantal kilogrammen N ingevuld behorende bij de betrokken gewasgroep waarbij het gewas is ingedeeld. Indien een gewas, niet behorend tot een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt opgekweekt, wordt de uitkomst van de berekening verhoogd met een percentage van nul procent. 1.2.7 Het ten hoogste toegestane verbruik van fosfor, bedoeld in voorschrift 1.1.2, onder h, voor een kalenderjaar, wordt uitgedrukt in kilogrammen P en berekend door voor ieder geteeld gewas, onderscheidenlijk voor iedere geteelde gewasgroep, het ten hoogste toegestane verbruik van fosfor te berekenen op de wijze aangegeven in voorschrift 1.2.8, en vervolgens de som van de uitkomsten van die berekeningen te nemen. 1.2.8 Het ten hoogste toegestane verbruik van fosfor voor een kalenderjaar voor een gewas of gewasgroep, wordt berekend door: H x B x C -------- 52 H = het aantal kilogrammen P per hectare opgenomen in de in lijst 1, onderdeel D, voor dat kalenderjaar geldende kolom achter: a. het betrokken gewas of b. indien het betrokken gewas is ingedeeld in een gewasgroep: de gewasgroep waarbij het gewas is ingedeeld; B = het aantal hectares waarop het betrokken gewas wordt geteeld; C = het aantal weken dat het betrokken gewas wordt geteeld. Indien een niet sierteeltgewas wordt opgekweekt en is ingedeeld in een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt voor het betrokken gewas voor H het aantal kilogrammen P ingevuld behorende bij de betrokken gewasgroep waarbij het gewas is ingedeeld. Indien een gewas, niet behorend tot een gewasgroep als aangegeven in lijst 2, onderdeel H, wordt opgekweekt, wordt de uitkomst van de berekening verhoogd met een percentage van nul procent.  
 
 ### Hoofdstuk 2  
 
@@ -533,63 +523,19 @@ Vervallen.
 
 *Paragraaf 3.1 Meten, registreren en rapporteren*  3.1.1 Ten minste iedere vier weken meet en registreert degene die een glastuinbouwbedrijf drijft: 
 
-a. het verbruik van energie op de wijze aangegeven in voorschrift 3.1.4;  
+a. het verbruik van stikstof op de wijze aangegeven in voorschrift 3.1.8;  
 
-b. het verbruik van stikstof op de wijze aangegeven in voorschrift 3.1.8;  
+b. het verbruik van fosfor op de wijze aangegeven in voorschrift 3.1.10, en  
 
-c. het verbruik van fosfor op de wijze aangegeven in voorschrift 3.1.10, en  
+c. de geteelde gewassen, het beteelde oppervlak per gewas en de start en de einddatum van de teelt.   3.1.2 Na afloop van iedere periode van vier weken, bedoeld in voorschrift 3.1.1, berekent degene die een glastuinbouwbedrijf drijft: 
 
-d. de geteelde gewassen, het beteelde oppervlak per gewas en de start en de einddatum van de teelt.   3.1.2 Na afloop van iedere periode van vier weken, bedoeld in voorschrift 3.1.1, berekent degene die een glastuinbouwbedrijf drijft: 
+a. het verbruik van stikstof op de wijze aangegeven in voorschrift 3.1.9, en  
 
-a. het verbruik van energie op de wijze aangegeven in voorschrift 3.1.5, 3.1.6 en 3.1.7;  
+b. het verbruik van fosfor op de wijze aangegeven in voorschrift 3.1.11.   3.1.3 Na afloop van een kalenderjaar, berekent degene die een glastuinbouwbedrijf drijft, ten behoeve van de rapportage, bedoeld in voorschrift 1.1.2: 
 
-b. het verbruik van stikstof op de wijze aangegeven in voorschrift 3.1.9, en  
+a. het verbruik van stikstof op de wijze aangegeven in voorschrift 3.1.9, en  
 
-c. het verbruik van fosfor op de wijze aangegeven in voorschrift 3.1.11.   3.1.3 Na afloop van een kalenderjaar, berekent degene die een glastuinbouwbedrijf drijft, ten behoeve van de rapportage, bedoeld in voorschrift 1.1.2: 
-
-a. het verbruik van energie op de wijze aangegeven in voorschrift 3.1.5, 3.1.6 en 3.1.7;  
-
-b. het verbruik van stikstof op de wijze aangegeven in voorschrift 3.1.9, en  
-
-c. het verbruik van fosfor op de wijze aangegeven in voorschrift 3.1.11.   3.1.4 Ten behoeve van de berekening van het verbruik van energie, bedoeld in voorschrift 3.1.5, worden van de afzonderlijke meters of facturen afgelezen en in een logboek geregistreerd: 
-
-a. het verbruik van aardgas in m <sup>3</sup> met bijbehorende omrekeningsfactor en calorische waarde;  
-
-b. het verbruik van elektriciteit in kilowattuur;  
-
-c. het verbruik van warmte in Gigajoule;  
-
-d. het verbruik van aangekochte duurzame energie in Gigajoule;  
-
-e. het verbruik van petroleum in m <sup>3</sup>;  
-
-f. het verbruik van stookolie in m <sup>3</sup>;  
-
-g. het verbruik van brandstof door derden bij grondstomen in bijbehorende energie-eenheid;  
-
-h. het verbruik van overige vormen van energie in bijbehorende energie-eenheden;  
-
-i. de aan derden geleverde elektriciteit in kilowattuur;  
-
-j. de aan derden geleverde warmte in Gigajoule;  
-
-k. de aan derden geleverde duurzame energie in Gigajoule en  
-
-l. de aan derden geleverde overige vormen van energie in bijbehorende energie-eenheden.   Indien een glastuinbouwbedrijf onderdeel is van een energiecluster, wordt tevens in het logboek geregistreerd: 
-
-m. de adressen van de glastuinbouwbedrijven van het energiecluster;  
-
-n. de naam en de adressen van degenen die de glastuinbouwbedrijven van het energiecluster drijven.   Per periode van vier weken wordt geregistreerd: 
-
-o. het verbruik van (aard)gas van de centrale energievoorziening;  
-
-p. de geproduceerde elektriciteit door de centrale energievoorziening;  
-
-q. het verbruik van elektriciteit van het energiecluster in kilowattuur;  
-
-r. de geproduceerde warmte door de centrale energievoorziening;  
-
-s. het verbruik van warmte van het energiecluster in gigajouls.   3.1.5 Het verbruik van energie wordt uitgedrukt in Gigajoule en berekend door na omrekening naar Gigajoule, de som te nemen van het verbruik, bedoeld in voorschrift 3.1.4, onderdelen a tot en met c en e tot en met h, en deze te verminderen met de som van de geleverde energie als bedoeld in de onderdelen i tot en met l van dat voorschrift. 3.1.6 Ten behoeve van de berekening van het verbruik van energie, bedoeld in voorschrift 3.1.5, wordt het verbruik van aardgas, bedoeld in voorschrift 3.1.4, onderdeel a, vermenigvuldigd met de bijbehorende omrekeningsfactor en de calorische waarde. 3.1.7 Ten behoeve van de berekening van het verbruik van energie, bedoeld in voorschrift 3.1.5, wordt het verbruik van warmte, bedoeld in voorschrift 3.1.4, onderdeel c, voorzover dit verbruik bestaat uit restwarmte van een energiecentrale, voor 87% meegerekend. 3.1.8 
+b. het verbruik van fosfor op de wijze aangegeven in voorschrift 3.1.11.   3.1.4 Vervallen. 3.1.5 Vervallen. 3.1.6 Vervallen. 3.1.7 Vervallen. 3.1.8 
 
 1. Ten behoeve van de berekening van het verbruik van stikstof, bedoeld in voorschrift 3.1.9, worden na ieder gebruik van meststoffen van een factuur of ander schriftelijk afleveringsbewijs van kunstmeststoffen, organische meststoffen en potgrond afgelezen en in een logboek geregistreerd: 
 
@@ -1161,7 +1107,7 @@ a. Een slibvangput en een olie-afscheider als bedoeld in voorschrift 1.3.5, vold
 
 b. Ten aanzien van de toepassing van NEN-EN 858-1 en van NEN-EN 858-2 als bedoeld in onderdeel a kunnen bij regeling van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer voorschriften worden gegeven. Daarbij kunnen van die NEN afwijkende voorschriften worden vastgesteld.  
 
-c. Een slibvangput en een olie-afscheider voldoen in elk geval aan NEN-EN 858-1, uitgave juni 2002 en december 2004, en NEN-EN 858-2, uitgave februari 2003, en de in onderdeel b bedoelde ministeriële regeling, indien voor deze voorzieningen een kwaliteitsverklaring is afgegeven door een door de Raad voor Accreditatie erkende certificeringsinstelling, waaruit blijkt dat de voorzieningen voldoen aan die NEN en de in onderdeel b bedoelde ministeriële regeling, en die voorzieningen zijn voorzien van een bij ministeriële regeling aangegeven merkteken.  
+c. Een slibvangput en een olie-afscheider voldoen in elk geval aan NEN-EN 858-1, uitgave juni 2002 en december 2004, en NEN-EN 858-2, uitgave februari 2003, en de in onderdeel b bedoelde ministeriële regeling, indien voor deze voorzieningen een kwaliteitsverklaring is afgegeven door een door de Raad voor Accreditatie erkende certificeringsinstelling, waaruit blijkt dat de voorzieningen voldoen aan die NEN en de in onderdeel b bedoelde ministeriële regeling, en die voorzieningen zijn voorzien van een bij ministeriële regeling aangegeven merkteken. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om een erkenning als bedoeld in de eerste volzin.  
 
 d. In afwijking van onderdeel a en de voorschriften bedoeld in onderdeel b, kunnen slibvangputten en olie-afscheiders ook voldoen aan regels die ten aanzien van slibvangputten en olie-afscheiders gelden in andere lidstaten van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en waarmee een tenminste met onderdeel a en de in onderdeel b bedoelde voorschriften gelijkwaardige bescherming voor het milieu wordt bereikt.  
 

@@ -34,7 +34,7 @@ f. een verpakkingenbelasting.
 
 a. Onze Minister: Onze Minister van Financiën;  
 
-b. Onze Ministers: Onze Minister van Financiën en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+b. Onze Ministers: Onze Minister van Financiën en Onze Minister van Infrastructuur en Milieu;  
 
 c. GN-code: een code als bedoeld in verordening (EEG) nr. 2658/87 van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256), zoals deze luidt op 1 januari 2002.     
 2.  Bij regeling van Onze Minister kunnen de GN-codes, genoemd in artikel 32, onderdeel a, en artikel 47, eerste lid, onderdelen m en n, worden aangepast indien de overeenkomstige GN-codes zoals opgenomen in de richtlijn nr. 2003/96/EG van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEU L 283), in overeenstemming met artikel 2, lid vijf, van die richtlijn zijn aangepast. In dat geval kan bij regeling van Onze Minister eveneens de datum in het eerste lid, onderdeel c, worden vervangen door de datum van de versie van de in dat onderdeel bedoelde verordening die aan de wijziging van de GN-codes ten grondslag heeft gelegen.   
@@ -65,7 +65,7 @@ f. pompcapaciteit: het maximum wateropbrengend vermogen van een inrichting in ku
 
 g. drinkwaterbedrijf: drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md);  
 
-h. OEDI: een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen gecombineerde inrichting voor grondwaterwinning met voorschakeling van oeverfiltratie en diepinfiltratie.     
+h. OEDI: een door Onze Minister van Infrastructuur en Milieu aangewezen gecombineerde inrichting voor grondwaterwinning met voorschakeling van oeverfiltratie en diepinfiltratie.     
 2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden als één inrichting aangemerkt: 
 
 a. inrichtingen die een samenhangend geheel vormen;  
@@ -384,7 +384,7 @@ d. de vergunninghouder daarom verzoekt.
 
 ### Artikel  28a  
 
-1.  Bij regeling van Onze Minister kan artikel 28, tweede lid, onderdeel b, buiten toepassing worden gesteld of per kalenderjaar of gedeelte daarvan worden beperkt, na overleg met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
+1.  Bij regeling van Onze Minister kan artikel 28, tweede lid, onderdeel b, buiten toepassing worden gesteld of per kalenderjaar of gedeelte daarvan worden beperkt, na overleg met Onze Minister van Infrastructuur en Milieu.   
 2.  Een regeling als bedoeld in het eerste lid mag slechts strekken tot het voorkomen of beperken van een overschrijding van het voor de regeling voor het afgraven van oude stortplaatsen in de begroting opgenomen bedrag.   
 3.  Het buiten toepassing stellen, bedoeld in het eerste lid, heeft geen werking voor afvalstoffen afkomstig van een oude stortplaats waarvoor een vergunning als bedoeld in artikel 28, tweede lid, onderdeel b, is verleend die reeds voor dit buiten toepassing stellen is afgegeven.   
 
@@ -396,7 +396,7 @@ d. de vergunninghouder daarom verzoekt.
 
 1.  Vrijgesteld is de verwijdering van baggerspecie.   
 2.  Indien baggerspecie ter verwijdering wordt afgegeven aan inrichtingen waar op grond van de voor die inrichting geldende omgevingsvergunning voor een inrichting als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), ook andere afvalstoffen dan baggerspecie mogen worden gestort, wordt door de aanbieder van de baggerspecie aan de houder van de inrichting een verklaring overgelegd waaruit blijkt dat sprake is van baggerspecie.   
-3.  De in het tweede lid bedoelde verklaring wordt verstrekt door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
+3.  De in het tweede lid bedoelde verklaring wordt verstrekt door Onze Minister van Infrastructuur en Milieu.   
 
 ### Afdeling  6*  
 
@@ -681,7 +681,7 @@ s. CNG-vulstation: een rechtstreeks op het distributienet van aardgas aangeslote
 t. zakelijk verbruik: verbruik door een zakelijke eenheid die zelfstandig, op ongeacht welke plaats, leveringen van goederen en diensten verricht, ongeacht het oogmerk of het resultaat van die economische activiteiten. Economische activiteiten omvatten alle werkzaamheden van een fabrikant, handelaar of verrichter van diensten, met inbegrip van de winning van delfstoffen, de landbouw en de uitoefening van vrije of daarmee gelijkgestelde beroepen. Rijks-, regionale en lokale overheden, alsmede andere publiekrechtelijke lichamen worden als zakelijke eenheid aangemerkt voor zover zij werkzaamheden of transacties verrichten die bij een behandeling als niet-zakelijke eenheid tot concurrentieverstoring van enige betekenis zouden leiden;  
 
 u. niet-zakelijk verbruik: verbruik anders dan het zakelijk verbruik, bedoeld in onderdeel t.     
-2.  Bij regeling van Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer worden nadere regels gesteld met betrekking tot de inhoud van het begrip zuivere biomassa.   
+2.  Bij regeling van Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu worden nadere regels gesteld met betrekking tot de inhoud van het begrip zuivere biomassa.   
 3.  Met betrekking tot elektriciteit wordt onder distributienet verstaan een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), met uitzondering van een net als bedoeld in [artikel 15, eerste lid, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
 4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid, onderdeel p.   
 5.  Met betrekking tot aardgas wordt onder distributienet verstaan een gastransportnet als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md).   
@@ -699,7 +699,7 @@ u. niet-zakelijk verbruik: verbruik anders dan het zakelijk verbruik, bedoeld in
 ### Artikel  50  
 
 1.  Met betrekking tot aardgas en elektriciteit wordt de belasting geheven ter zake van de levering via een aansluiting aan de verbruiker, alsmede ter zake van de levering van aardgas via een aansluiting aan een CNG-vulstation.   
-2.  Indien de verbruiker, bedoeld in het eerste lid, via een aansluiting elektriciteit op het distributienet heeft ingevoed ter zake waarvan [artikel 31c, tweede lid](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), dan wel [artikel 95c, derde lid, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) wordt toegepast, is het eerste lid van toepassing op het positieve saldo van de via de aansluiting geleverde elektriciteit minus de via de aansluiting ingevoede elektriciteit.   
+2.  Indien de verbruiker, bedoeld in het eerste lid, via een aansluiting elektriciteit op het distributienet heeft ingevoed ter zake waarvan [artikel 31c](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) dan wel [artikel 95c, derde lid, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) wordt toegepast, is het eerste lid van toepassing op het positieve saldo van de via de aansluiting geleverde elektriciteit minus de via de aansluiting ingevoede elektriciteit.   
 3.  Indien een levering van aardgas of elektriciteit via een aansluiting wordt verricht aan een organisatorische eenheid die zich bezighoudt met het leveren van aardgas of elektriciteit dan wel aan een verbruiker die op zijn beurt het geleverde product geheel of gedeeltelijk via een aansluiting levert aan een verbruiker, wordt eerstgenoemde levering niet aangemerkt als een levering als bedoeld in het eerste lid.   
 4.  Als een levering als bedoeld in het eerste lid wordt mede aangemerkt het verbruik van aardgas en elektriciteit, indien: 
 
@@ -728,6 +728,7 @@ d. elektriciteit heeft opgewekt door middel van een installatie voor warmtekrach
 
 1.  Met betrekking tot aardgas en elektriciteit wordt de belasting geheven van degene die de levering verricht.   
 2.  In afwijking van het eerste lid wordt bij toepassing van artikel 50, vierde lid, de belasting geheven van degene van wie het verbruik op grond van artikel 50, vierde lid, is aangemerkt als een levering als bedoeld in artikel 50, eerste lid.   
+3.  Hetgeen is bepaald in het tweede lid is niet van toepassing indien het aardgas betreft dat op andere wijze dan via een aansluiting aan een CNG-vulstation als CNG wordt afgeleverd.   
 
 ### Artikel  54  
 
@@ -785,7 +786,7 @@ a. aardgas, met uitzondering van aardgas als bedoeld in onderdeel b, met een bov
 
 – hoger is dan 10 000 000 kubieke meter, per kubieke meter € 0,0117 voor niet-zakelijk verbruik en per kubieke meter € 0,0082 voor zakelijk verbruik;    
 
-b. aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule per Nm <sup>3</sup>, dat wordt geleverd aan een CNG-vulstation € 0,0318 per kubieke meter;  
+b. aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule per Nm <sup>3</sup>, dat wordt geleverd aan een CNG-vulstation € 0,0639 per kubieke meter;  
 
 c. elektriciteit voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat: 
 
@@ -800,7 +801,7 @@ c. elektriciteit voor dat gedeelte van de geleverde hoeveelheid per verbruiksper
 3.  In afwijking van het eerste lid, onderdeel a, bedraagt het tarief voor aardgas € 0,1639 per kubieke meter voor de totale hoeveelheid aardgas die wordt geleverd aan een verbruiker die dat aardgas gebruikt voor een installatie voor blokverwarming niet zijnde een installatie voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van restwarmte.   
 4.  In afwijking van het eerste lid, onderdeel a, bedragen de tarieven nihil voor in artikel 48, tweede lid, als aardgas aangemerkte producten voor zover deze als brandstof worden gebruikt in de inrichting waarin zij zijn ontstaan.   
 5.  Indien bij een aansluiting sprake is van zowel zakelijk verbruik als niet-zakelijk verbruik, worden de tarieven, genoemd in het eerste lid, voor verbruik boven 10 000 000 kubieke meter respectievelijk 10 000 000 kWh toegepast naar evenredigheid van elk type verbruik. Indien het verbruik nagenoeg geheel bestaat uit zakelijk verbruik of niet-zakelijk verbruik, wordt het volledige verbruik als zodanig aangemerkt.   
-6.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de tarieven, bedoeld in het eerste lid, worden toegepast.   
+6.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden nadere regels gesteld ten behoeve van de toepassing van het eerste en derde lid.   
 7.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de toepassing van het eerste lid.   
 
 ### Artikel  60  
@@ -850,14 +851,20 @@ b. € 119,62 per verbruiksperiode van twaalf maanden per andere elektriciteits
 
 1.  Vrijstelling van de belasting wordt verleend ter zake van de levering van aardgas en elektriciteit die worden gebruikt voor het opwekken van elektriciteit in een installatie met een elektrisch rendement van minimaal 30 percent dan wel in een installatie met behulp waarvan elektriciteit wordt opgewekt uitsluitend door middel van hernieuwbare energiebronnen en elektriciteit.   
 2.  Als installatie met een elektrisch rendement van minimaal 30 percent wordt aangemerkt een installatie met een gemiddeld gebruik van maximaal 0,38 Nm <sup>3</sup> aardgas per opgewekt kWh.   
-3.  Vrijstelling van belasting wordt verleend ter zake van de levering van elektriciteit die wordt gebruikt voor chemische reductie en elektrolytische en metallurgische procédés.   
+3.  Vrijstelling van belasting wordt verleend ter zake van de levering van elektriciteit die wordt gebruikt voor chemische reductie en elektrolytische en metallurgische procedés. Als metallurgische procedés worden aangemerkt: 
+
+a. de vervaardiging van metalen in primaire vorm;  
+
+b. smeden, persen, stampen en profielwalsen van metaal;  
+
+c. oppervlaktebehandeling bestaande uit harden of warmtebehandeling van metalen.   De vrijstelling voor metallurgische procedés geldt alleen voor bedrijven die volgens de Standaard Bedrijfsindeling van 21 juli 2008 van het Centraal Bureau voor de Statistiek behoren tot code 24 of 25.   
 4.  Vrijstelling van belasting wordt verleend ter zake van de levering van aardgas dat wordt gebruikt anders dan als brandstof dan wel aardgas dat wordt gebruikt als additief of als vulstof in producten die direct of indirect zijn bestemd voor verbruik, worden aangeboden voor verkoop of worden verbruikt als aardgas.   
 5.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de vrijstellingen, bedoeld in het eerste, derde en vierde lid, worden verleend.   
 6.  Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  65  
 
-1.  Bij op voordracht van Onze Minister, mede namens Onze Minister van Economische Zaken, Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Verkeer en Waterstaat, vast te stellen algemene maatregel van bestuur wordt voorzien in een regeling op grond waarvan, onder daarbij te stellen voorwaarden, vrijstelling van de belasting wordt verleend ter zake van de levering van elektriciteit ten behoeve van zakelijk verbruik voor zover het zakelijk verbruik, na aftrek van het gedeelte van het zakelijk verbruik dat reeds is vrijgesteld op grond van artikel 64, eerste of derde lid, hoger is dan 10 000 000 kWh per verbruiksperiode van twaalf maanden per aansluiting. De vrijstelling wordt verleend indien de verbruiker in het kader van met Onze Minister van Economische Zaken, Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onze Minister van Landbouw, Natuur en Voedselkwaliteit of Onze Minister van Verkeer en Waterstaat gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie en hij als energie-intensief bedrijf wordt aangemerkt.   
+1.  Bij op voordracht van Onze Minister, mede namens Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Infrastructuur en Milieu, vast te stellen algemene maatregel van bestuur wordt voorzien in een regeling op grond waarvan, onder daarbij te stellen voorwaarden, vrijstelling van de belasting wordt verleend ter zake van de levering van elektriciteit ten behoeve van zakelijk verbruik voor zover het zakelijk verbruik, na aftrek van het gedeelte van het zakelijk verbruik dat reeds is vrijgesteld op grond van artikel 64, eerste of derde lid, hoger is dan 10 000 000 kWh per verbruiksperiode van twaalf maanden per aansluiting. De vrijstelling wordt verleend indien de verbruiker in het kader van met Onze Minister van Economische Zaken, Landbouw en Innovatie of Onze Minister van Infrastructuur en Milieu gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie en hij als energie-intensief bedrijf wordt aangemerkt.   
 2.  Bij een verbruiksperiode korter dan wel langer dan twaalf maanden wordt de in het eerste lid genoemde hoeveelheidsgrens naar evenredigheid verlaagd, onderscheidenlijk verhoogd.   
 3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
@@ -882,32 +889,30 @@ b. € 119,62 per verbruiksperiode van twaalf maanden per andere elektriciteits
 ### Artikel  69  
 
 1.  Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die in hoofdzaak is bestemd voor de openbare eredienst of voor het houden van openbare bezinningsbijeenkomsten van levensbeschouwelijke aard.   
-2.  Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die hoofdzakelijk in gebruik is bij een charitatieve, culturele, wetenschappelijke of het algemeen nut beogende instelling dan wel een instelling die een sociaal belang behartigt, mits: 
+2.  Op verzoek wordt teruggaaf verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die hoofdzakelijk in gebruik is bij een algemeen nut beogende instelling of bij een instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), mits: 
 
-a. de instelling beschikt over notarieel verleden statuten waaruit de charitatieve, culturele, wetenschappelijke, het algemeen nut beogende of sociaal belang behartigende doelstelling blijkt;  
+a. de in de aanhef bedoelde instellingen niet of slechts in beperkte mate werkzaam zijn op het gebied van sport, gezondheidszorg of onderwijs;  
 
-b. de feitelijke werkzaamheden van de instelling overeenkomen met de doelstelling;  
+b. de in de aanhef bedoelde instellingen geen publiekrechtelijk lichaam zijn;  
 
-c. de instelling niet of slechts in beperkte mate werkzaam is op het gebied van sport, gezondheidszorg of onderwijs;  
+c. de in de aanhef bedoelde instellingen beschikken over een eigen aansluiting;  
 
-d. de instelling niet aan vennootschapsbelasting is onderworpen dan wel daarvan is vrijgesteld;  
+d. de werkzaamheden van de in de aanhef bedoelde een instelling geheel of nagenoeg geheel worden verricht door natuurlijke personen om niet of naar een loon dat in belangrijke mate lager is dan hetgeen in het economische verkeer gebruikelijk is.     
+3.  Op verzoek wordt teruggaaf verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die hoofdzakelijk in gebruik is bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en het tweede lid, onderdeel d, mits: 
 
-e. de instelling beschikt over een eigen aansluiting;   alsmede, indien het een instelling betreft die een sociaal belang behartigt: 
+a. de in de aanhef bedoelde instellingen niet of slechts in beperkte mate werkzaam zijn op het gebied van sport, gezondheidszorg of onderwijs;  
 
-f. de werkzaamheden van de instelling nagenoeg geheel worden verricht door natuurlijke personen om niet of naar een loon dat in belangrijke mate lager is dan hetgeen in het economische verkeer gebruikelijk is.     
-3.  Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die hoofdzakelijk in gebruik is bij meer dan één instelling die charitatief, cultureel, wetenschappelijk of het algemeen nut beogend is dan wel een sociaal belang behartigt, mits: 
+b. de in de aanhef bedoelde instelling beschikt over notarieel verleden statuten waaruit de een sociaal belang behartigende doelstelling blijkt, dan wel, voor zover het gaat om verenigingen als bedoeld in [artikel 26 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die niet beschikken over notarieel verleden statuten, over door die verenigingen verstrekte verklaringen waaruit de een sociaal belang behartigende doelstelling blijkt;  
 
-a. de instellingen die de onroerende zaak gebruiken, beschikken over notarieel verleden statuten waaruit de charitatieve, culturele, wetenschappelijke, het algemeen nut beogende of een sociaal belang behartigende doelstelling blijkt, dan wel, voor zover het gaat om verenigingen als bedoeld in [artikel 26 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die niet beschikken over notarieel verleden statuten, over door die verenigingen verstrekte verklaringen waaruit de charitatieve, culturele, wetenschappelijke, het algemeen nut beogende of een sociaal belang behartigende doelstelling blijkt;  
+c. de instelling die de desbetreffende onroerende zaak beheert en exploiteert, beschikt over notarieel verleden statuten waaruit blijkt dat de instelling zich ten doel stelt de onroerende zaak te beheren en exploiteren ten nutte van instellingen als bedoeld in de aanhef;  
 
-b. de instelling die de desbetreffende onroerende zaak beheert en exploiteert, beschikt over notarieel verleden statuten waaruit blijkt dat de instelling zich ten doel stelt de onroerende zaak te beheren en exploiteren ten nutte van instellingen als bedoeld in onderdeel a;  
+d. de feitelijke werkzaamheden van de instelling, bedoeld in onderdeel c, overeenkomen met de doelstelling;  
 
-c. de feitelijke werkzaamheden van de instellingen, bedoeld in de onderdelen a en b, overeenkomen met de doelstelling;  
+e. de instelling, bedoeld in onderdeel c, niet aan vennootschapsbelasting is onderworpen dan wel daarvan is vrijgesteld;  
 
-d. de instellingen, bedoeld in onderdeel a, niet of slechts in beperkte mate werkzaam zijn op het gebied van sport, gezondheidszorg of onderwijs;  
+f. de in de aanhef bedoelde instellingen en de instelling, bedoeld in onderdeel c, geen publiekrechtelijk lichaam zijn, en  
 
-e. de instellingen, bedoeld in de onderdelen a en b, niet aan vennootschapsbelasting zijn onderworpen dan wel daarvan zijn vrijgesteld;  
-
-f. de instelling, bedoeld in onderdeel b, beschikt over een eigen aansluiting.     
+g. de instelling, bedoeld in onderdeel c, beschikt over een eigen aansluiting.     
 4.  Voor de toepassing van dit artikel en de op dit artikel berustende bepalingen wordt een statuut als bedoeld in [artikel 2, tweede lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) gelijkgesteld met notarieel verleden statuten indien dit statuut schriftelijk is vastgelegd.   
 5.  De teruggaven, bedoeld in het eerste en tweede lid, worden verleend aan de gebruiker van de desbetreffende onroerende zaak en bedragen 50 percent van de aan hem in rekening gebrachte belasting.   
 6.  De teruggaaf, bedoeld in het derde lid, wordt verleend aan de instelling die de desbetreffende onroerende zaak beheert en exploiteert en bedraagt 50 percent van de aan haar in rekening gebrachte belasting.   
@@ -1198,6 +1203,17 @@ De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR001135
 1.  De inspecteur beslist op het verzoek, bedoeld in de artikelen 20, eerste lid, 27, tweede lid, 28, derde lid, 30, eerste lid, 45, eerste en tweede lid, 54, derde lid, 67, eerste lid, 68, eerste en tweede lid, 69, eerste tot en met derde lid, 70, eerste tot en met derde lid, 84a, eerste en vierde lid, 86, vijfde lid, 87b, eerste lid, 89, derde en zevende lid, en 92, eerste lid, bij een voor bezwaar vatbare beschikking.   
 2.  Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving. In afwijking van de eerste volzin bedraagt de beslistermijn voor het verzoek, bedoeld in artikel 84a, eerste en vierde lid, een jaar na ontvangst van het verzoek. In geval tevens een verzoek als bedoeld in artikel 86, vijfde lid, wordt gedaan, wordt de beslissing op dit laatste verzoek, in afwijking van de eerste volzin, tegelijk genomen met de beslissing op het verzoek, bedoeld in de tweede volzin.   
 3.  Indien de inspecteur de beschikking niet binnen de in het tweede lid genoemde termijn kan geven, stelt hij de belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven.   
+4.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op: 
+
+a. verzoeken aan de inspecteur tot toestemming voor het achterwege blijven van plaatsing van watermeters op grond van bepalingen krachtens artikel 6, derde lid;  
+
+b. verzoeken aan de inspecteur met betrekking tot de registratie van onttrekkingen en infiltraties op grond van bepalingen krachtens artikel 6, vierde lid;  
+
+c. verzoeken aan de inspecteur tot toepassing van een verhoudingsgetal op grond van artikel 27, tweede lid;  
+
+d. verzoeken aan de inspecteur tot aanwijzing van een teruggaaftijdvak op grond van bepalingen krachtens artikel 45, derde lid;  
+
+e. verzoeken aan de inspecteur tot aanwijzing van een teruggaaftijdvak op grond van bepalingen krachtens artikel 70, vierde lid.     
 
 ### Artikel  92  
 

@@ -24,11 +24,11 @@ c. *publieke gezondheidszorg:* de gezondheidsbeschermende en gezondheidsbevorder
 
 d. *jeugdgezondheidszorg:* de publieke gezondheidszorg ten behoeve van personen tot negentien jaar;  
 
-da. *ouderengezondheidszorg:* de publieke gezondheidszorg ten behoeve van personen boven de vijfenzestig jaar.  
+da. *ouderengezondheidszorg:* de publieke gezondheidszorg ten behoeve van personen boven de vijfenzestig jaar;  
 
-e. *groep A:* Nieuwe Influenza A (H1N1), pokken, polio, severe acute respiratory syndrome (SARS);  
+e. *groep A:* pokken, polio, severe acute respiratory syndrome (SARS), virale hemorragische koorts;  
 
-f. *groep B1:* humane infectie veroorzaakt door een aviair influenzavirus, difterie, pest, rabies, tuberculose, virale hemorragische koorts;  
+f. *groep B1:* een humane infectie veroorzaakt door een dierlijk influenzavirus, difterie, pest, rabies, tuberculose;  
 
 g. *groep B2:* buiktyfus (typhoid fever), cholera, hepatitis A, B en C, kinkhoest, mazelen, paratyfus, rubella, shigellose, shiga toxine producerende escherichia (STEC)/enterohemorragische escherichia coli-infectie, invasieve groep A streptokokkeninfectie, voedselinfectie, voor zover vastgesteld bij twee of meer patiënten met een onderlinge relatie wijzend op voedsel als een bron;  
 
@@ -78,7 +78,7 @@ z. *burgerservicenummer:* het burgerservicenummer, bedoeld in [artikel 1, onderd
 
 aa. *RIVM:* het met de infectieziektebestrijding belaste onderdeel van het Rijksinstituut voor volksgezondheid en milieu van het Ministerie van Volksgezondheid, Welzijn en Sport, bedoeld in [artikel 1, onderdeel b, van de Wet op het RIVM](../../../../../wet/wet/op/het/rivm/BWBR0008289/README.md);  
 
-ab. voorzitter van de veiligheidsregio: de voorzitter van het bestuur van de veiligheidsregio, bedoeld in [artikel 11, tweede lid, van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).    
+ab. *voorzitter van de veiligheidsregio:* de voorzitter van het bestuur van de veiligheidsregio, bedoeld in [artikel 11, tweede lid, van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).    
 
 ### Hoofdstuk  II  
 
@@ -93,19 +93,21 @@ ab. voorzitter van de veiligheidsregio: de voorzitter van het bestuur van de vei
 1.  Het college van burgemeester en wethouders bevordert de totstandkoming en de continuïteit van en de samenhang binnen de publieke gezondheidszorg en de afstemming ervan met de curatieve gezondheidszorg en de geneeskundige hulpverlening bij ongevallen en rampen.   
 2.  Ter uitvoering van de in het eerste lid bedoelde taak draagt het college van burgemeester en wethouders in ieder geval zorg voor: 
 
-a. het verwerven van, op epidemiologische analyse gebaseerd, inzicht in de gezondheidssituatie van de bevolking,  
+a. het verwerven van, op epidemiologische analyse gebaseerd, inzicht in de gezondheidssituatie van de bevolking;  
 
-b. het elke vier jaar, voorafgaand aan de opstelling van de nota gemeentelijke gezondheidsbeleid, bedoeld in artikel 13, tweede lid, op landelijk gelijkvormige wijze verzamelen en analyseren van gegevens over deze gezondheidssituatie,  
+b. het elke vier jaar, voorafgaand aan de opstelling van de nota gemeentelijke gezondheidsbeleid, bedoeld in artikel 13, tweede lid, op landelijk gelijkvormige wijze verzamelen en analyseren van gegevens over deze gezondheidssituatie;  
 
-c. het bewaken van gezondheidsaspecten in bestuurlijke beslissingen,  
+c. het bewaken van gezondheidsaspecten in bestuurlijke beslissingen;  
 
-d. het bijdragen aan opzet, uitvoering en afstemming van preventieprogramma’s, met inbegrip van programma’s voor de gezondheidsbevordering,  
+d. het bijdragen aan opzet, uitvoering en afstemming van preventieprogramma’s, met inbegrip van programma’s voor de gezondheidsbevordering;  
 
-e. het bevorderen van medisch milieukundige zorg,  
+e. het bevorderen van medisch milieukundige zorg;  
 
-f. het bevorderen van technische hygiënezorg,  
+f. het bevorderen van technische hygiënezorg;  
 
-g. het bevorderen van psychosociale hulp bij rampen.     
+g. het bevorderen van psychosociale hulp bij rampen;  
+
+h. het geven van prenatale voorlichting aan aanstaande ouders.     
 3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de werkzaamheden, bedoeld in het tweede lid, en kunnen met het oog op de in het eerste lid bedoelde taak regels worden gesteld over de verstrekking van niet tot een persoon herleidbare gegevens aan het college van burgemeester en wethouders door personen en instellingen werkzaam op het terrein van de gezondheidszorg en kan deze verstrekking verplicht worden gesteld. Voor zover het de gegevensverstrekking door personen en instellingen aan het college van burgemeester en wethouders betreft, bevat deze algemene maatregel van bestuur regels over de bescherming van de persoonlijke levenssfeer en de vergoeding van kosten.   
 
 ### Artikel  3  
@@ -138,6 +140,10 @@ e. het formuleren van maatregelen ter beïnvloeding van gezondheidsbedreigingen.
 3.  Het college van burgemeester en wethouders draagt er zorg voor dat bij uitvoering van de in het eerste lid bedoelde taak, voor zover het gaat om vastleggen van patiëntgegevens als bedoeld in [artikel 7:454 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), gebruik wordt gemaakt van digitale gegevensopslag. Bij regeling van de Minister voor Jeugd en Gezin kunnen eisen worden gesteld aan de daarbij te gebruiken software.   
 4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de werkzaamheden, bedoeld in het tweede lid.   
 
+### §  3  
+
+####Ouderengezondheidszorg
+
 ### Artikel  5a  
 
 1.  Het college van burgemeester en wethouders draagt zorg voor de uitvoering van de ouderengezondheidszorg.   
@@ -154,7 +160,7 @@ d. het geven van voorlichting, advies, instructie en begeleiding;
 e. het formuleren van maatregelen ter beïnvloeding van gezondheidsbedreigingen.     
 3.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de werkzaamheden, bedoeld in het tweede lid.   
 
-### §  3  
+### §  4  
 
 ####Infectieziektebestrijding
 
@@ -167,14 +173,15 @@ a. het nemen van algemene preventieve maatregelen op dit gebied,
 b. het bestrijden van tuberculose en seksueel overdraagbare aandoeningen, inclusief bron- en contactopsporing,  
 
 c. bron- en contactopsporing bij meldingen als bedoeld in de artikelen 21, 22, 25 en 26.     
-2.  De burgemeester geeft leiding aan de bestrijding van een epidemie van een infectieziekte, behorend tot groep B1, B2 of C, alsook de directe voorbereiding daarop en draagt zorg voor de toepassing van de maatregelen, bedoeld in hoofdstuk V.   
-3.  De voorzitter van de veiligheidsregio draagt zorg voor de bestrijding van een epidemie van een infectieziekte behorend tot groep A, of een directe dreiging daarvan, en is dan ten behoeve van deze bestrijding bij uitsluiting bevoegd om toepassing te geven aan de artikelen 34, vierde lid, 47, 51, 54, 55 of  56.   
-4.  Bij algemene maatregel van bestuur kunnen de taken, bedoeld in het eerste, tweede en derde lid, nader worden uitgewerkt.   
+2.  Het bestuur van de veiligheidsregio draagt zorg voor de voorbereiding op de bestrijding van een epidemie van een infectieziekte behorend tot groep A, alsmede op de bestrijding van een nieuw subtype humaan influenzavirus, waarbij ernstig gevaar voor de volksgezondheid bestaat.   
+3.  De burgemeester geeft leiding aan de bestrijding van een epidemie van een infectieziekte, behorend tot groep B1, B2 of C, alsook de directe voorbereiding daarop en draagt zorg voor de toepassing van de maatregelen, bedoeld in hoofdstuk V.   
+4.  De voorzitter van de veiligheidsregio draagt zorg voor de bestrijding van een epidemie van een infectieziekte behorend tot groep A, of een directe dreiging daarvan, en is dan ten behoeve van deze bestrijding bij uitsluiting bevoegd om toepassing te geven aan de artikelen 34, vierde lid, 47, 51, 54, 55 of  56.   
+5.  Bij algemene maatregel van bestuur kunnen de taken, bedoeld in het eerste, tweede, derde en vierde lid, nader worden uitgewerkt.   
 
 ### Artikel  7  
 
-1.  In de situatie, bedoeld in artikel 6, derde lid, geeft Onze Minister leiding aan de bestrijding en kan Onze Minister de voorzitter van de veiligheidsregio opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in hoofdstuk V.   
-2.  In afwijking van artikel 6, tweede lid, geeft Onze Minister leiding aan de bestrijding van een infectieziekte behorend tot groep B1 of B2, indien de burgemeester van een gemeente die het aangaat daartoe verzoekt. Onze Minister kan dan de burgemeester opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in hoofdstuk V.   
+1.  In de situatie, bedoeld in artikel 6, vierde lid, geeft Onze Minister leiding aan de bestrijding en kan Onze Minister de voorzitter van de veiligheidsregio opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in hoofdstuk V.   
+2.  In afwijking van artikel 6, derde lid, geeft Onze Minister leiding aan de bestrijding van een infectieziekte behorend tot groep B1 of B2, indien de burgemeester van een gemeente die het aangaat daartoe verzoekt. Onze Minister kan dan de burgemeester opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in hoofdstuk V.   
 3.  Onze Minister kan de burgemeester opdragen om, ter uitvoering van de aanbevelingen, bedoeld in de artikelen 15 en 16 van de Internationale Gezondheidsregeling, toepassing te geven aan de maatregelen, bedoeld in de artikelen 51, 54 en 55, alsook om de maatregelen, bedoeld in [artikel 22a van de Wet op de lijkbezorging](../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), toe te passen.   
 4.  Voordat toepassing wordt gegeven aan het eerste, tweede of derde lid, voert Onze Minister een bestuurlijk afstemmingsoverleg waarbij in ieder geval Onze Minister van Verkeer en Waterstaat en de veiligheidsregio’s of gemeenten die het aangaat, worden betrokken.   
 5.  Zodra toepassing wordt gegeven aan het eerste of tweede lid, informeert Onze Minister de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
@@ -182,15 +189,17 @@ c. bron- en contactopsporing bij meldingen als bedoeld in de artikelen 21, 22, 2
 
 ### Artikel  8  
 
-Ter uitvoering van artikel 6, eerste lid, past het college van burgemeester en wethouders de maatregelen toe die door Onze Minister worden opgedragen, indien het gaat om de voorbereiding op de bestrijding van: 
+1.  Ter uitvoering van artikel 6, tweede lid, past het bestuur van de veiligheidsregio de maatregelen toe die door Onze Minister worden opgedragen, indien het gaat om de voorbereiding op de bestrijding van: 
 
 a. infectieziekten behorende tot groep A, of  
 
-b. een nieuw subtype humaan influenzavirus, waarbij ernstig gevaar voor de volksgezondheid bestaat.    
+b. een nieuw subtype humaan influenzavirus, waarbij ernstig gevaar voor de volksgezondheid bestaat.     
+2.  Het bestuur van de veiligheidsregio beschrijft in het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), de organisatie, de taken en bevoegdheden in het kader van de bestrijding van en de voorbereiding op de bestrijding van een epidemie van een infectieziekte behorend tot groep A, alsmede de voorbereiding op de bestrijding van een nieuw subtype humaan influenzavirus waarbij ernstig gevaar voor de volksgezondheid bestaat.   
+3.  Het deel van het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), dat betrekking heeft op bestrijding van en de voorbereiding op de bestrijding van een epidemie van een infectieziekte behorend tot groep A, alsmede de voorbereiding op de bestrijding van een nieuw subtype humaan influenzavirus waarbij ernstig gevaar voor de volksgezondheid bestaat, wordt vastgesteld in overeenstemming met het algemeen bestuur van de gemeentelijke gezondheidsdienst.   
 
 ### Artikel  9  
 
-Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bepalen dat, in daarbij aangewezen gevallen, een andere burgemeester de taak, dan wel een bepaald deel van de taak, bedoeld in artikel 6, tweede lid, dient te vervullen.  
+Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bepalen dat, in daarbij aangewezen gevallen, een andere burgemeester de taak, dan wel een bepaald deel van de taak, bedoeld in artikel 6, derde lid, dient te vervullen.  
 
 ### Artikel  10  
 
@@ -211,8 +220,17 @@ Onze Minister draagt ervoor zorg dat aan de informatieverplichtingen, voortvloei
 
 ### Artikel  13  
 
-1.  Onze Minister stelt elke vier jaar een nota landelijke prioriteiten en een landelijk programma vast op het gebied van de publieke gezondheidszorg.   
-2.  De gemeenteraad stelt vóór 1 juli 2011 en vervolgens elke vier jaar een nota gemeentelijk gezondheidsbeleid vast, waarin de raad in ieder geval aangeeft hoe het college van burgemeester en wethouders uitvoering geeft aan de in de artikelen 2, 5 en 6 genoemde taken, alsmede aan de in artikel 16 genoemde verplichting.   
+1.  Onze Minister stelt elke vier jaar een landelijke nota gezondheidsbeleid en een landelijk programma voor uitvoering van onderzoek vast op het gebied van de publieke gezondheid.   
+2.  De gemeenteraad stelt binnen twee jaar na openbaarmaking van de nota, bedoeld in het eerste lid, een nota gemeentelijk gezondheidsbeleid vast, waarin de raad in ieder geval aangeeft: 
+
+a. wat de gemeentelijke doelstellingen zijn ter uitvoering van de in de artikelen 2, 5, 5a en 6 genoemde taken,  
+
+b. welke acties in de bestreken periode worden ondernomen ter realisering van deze doelstellingen,  
+
+c. welke resultaten de gemeente in die periode wenst te behalen,  
+
+d. hoe het college van burgemeester en wethouders uitvoering geeft aan de in artikel 16 genoemde verplichting.     
+3.  De gemeenteraad neemt bij het vaststellen van de nota gemeentelijk gezondheidsbeleid in ieder geval de landelijke prioriteiten in acht, zoals opgenomen in de landelijke nota gezondheidsbeleid.   
 
 ### Hoofdstuk  IV  
 
@@ -220,8 +238,11 @@ Onze Minister draagt ervoor zorg dat aan de informatieverplichtingen, voortvloei
 
 ### Artikel  14  
 
-1.  Ter uitvoering van bij of krachtens deze wet opgedragen taken draagt het college van burgemeester en wethouders zorg voor de instelling en instandhouding van een gemeentelijke gezondheidsdienst.   
-2.  Met inachtneming van bij algemene maatregel van bestuur te stellen regels, staat het het college van burgemeester en wethouders vrij om de uitvoering van de taken of onderdelen van taken, bedoeld in artikel 5, tweede lid, onder a tot en met d, over te laten of mede over te laten aan een ander dan de gemeentelijke gezondheidsdienst.   
+1.  Ter uitvoering van bij of krachtens deze wet opgedragen taken dragen de colleges van burgemeester en wethouders van gemeenten die behoren tot een regio als bedoeld in de [Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), via het treffen van een gemeenschappelijke regeling zorg voor de instelling en instandhouding van een regionale gezondheidsdienst in die regio.   
+2.  Bij de regeling, bedoeld in het eerste lid, wordt een openbaar lichaam ingesteld met de aanduiding: gemeentelijke gezondheidsdienst.   
+3.  De gemeentelijke gezondheidsdienst staat onder leiding van een directeur publieke gezondheid, die wordt benoemd door het algemeen bestuur van de gemeentelijke gezondheidsdienst in overeenstemming met het bestuur van de veiligheidsregio.   
+4.  Met inachtneming van bij algemene maatregel van bestuur te stellen regels, staat het het college van burgemeester en wethouders vrij om de uitvoering van de taken of onderdelen van taken, bedoeld in de artikelen 2, tweede lid, onder h, en 5, tweede lid, onder a tot en met d, over te laten of mede over te laten aan een ander dan de gemeentelijke gezondheidsdienst.   
+5.  In afwijking van het eerste lid kan een regionale gezondheidsdienst worden ingesteld en in stand gehouden door de colleges van burgemeester en wethouders van de gemeenten in twee of meer regio’s als bedoeld in de [Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md). In dat geval geschiedt de benoeming, bedoeld in het derde lid, in overeenstemming met de besturen van de betrokken veiligheidsregio’s, en draagt het algemeen bestuur van de gemeentelijke gezondheidsdienst ervoor zorg dat in elk der regio’s adequaat wordt voorzien in de operationele leiding van de geneeskundige hulpverlening, bedoeld in [artikel 32, tweede lid, van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).   
 
 ### Artikel  15  
 
@@ -252,7 +273,7 @@ Voordat besluiten worden genomen die belangrijke gevolgen kunnen hebben voor de 
 
 ### Artikel  17  
 
-Voor de toepassing van dit hoofdstuk wordt verstaan onder gemeentelijke gezondheidsdienst: een door de directeur van de gemeentelijke gezondheidsdienst aangewezen arts in dienst van de gemeentelijke gezondheidsdienst die gespecialiseerd is in infectieziektebestrijding.  
+Voor de toepassing van dit hoofdstuk wordt verstaan onder gemeentelijke gezondheidsdienst: een door de directeur publieke gezondheid van de gemeentelijke gezondheidsdienst aangewezen arts in dienst van de gemeentelijke gezondheidsdienst die gespecialiseerd is in infectieziektebestrijding.  
 
 ### Artikel  18  
 
@@ -283,7 +304,7 @@ Bij algemene maatregel van bestuur worden de infectieziekten behorende tot groep
 ### Artikel  22  
 
 1.  De arts die bij een door hem onderzocht persoon een infectieziekte behorend tot groep A vermoedt of vaststelt, meldt dit onverwijld aan de gemeentelijke gezondheidsdienst.   
-2.  De arts die bij een door hem onderzocht persoon een infectieziekte behorend tot groep B1, B2 of C vaststelt, dan wel een vermoeden heeft dat deze persoon lijdt aan difterie, rabies of virale hemorragische koorts, meldt dit binnen 24 uur aan de gemeentelijke gezondheidsdienst.   
+2.  De arts die bij een door hem onderzocht persoon een infectieziekte behorend tot groep B1, B2 of C vaststelt, dan wel een vermoeden heeft dat deze persoon lijdt aan difterie, een humane infectie veroorzaakt door een dierlijk influenzavirus of rabies, meldt dit binnen 24 uur aan de gemeentelijke gezondheidsdienst.   
 3.  De arts die gegronde redenen heeft om bij een persoon een infectieziekte behorend tot groep B1 of B2 te vermoeden, meldt dit binnen 24 uur aan de gemeentelijke gezondheidsdienst, indien die persoon weigert het onderzoek te ondergaan dat noodzakelijk is ter vaststelling van die ziekte en daardoor ernstig gevaar voor de volksgezondheid door de verspreiding van die infectieziekte kan ontstaan.   
 4.  Bij regeling van Onze Minister kan vrijstelling worden verleend van de meldingsplicht, bedoeld in het eerste, tweede en derde lid, met ingang van een daarbij te bepalen tijdstip en met inachtneming van daarbij te stellen voorwaarden.   
 

@@ -1498,6 +1498,16 @@ Uiterlijk binnen drie maanden na het tijdstip waarop een algemene maatregel van 
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van krachtens het Verdrag tot oprichting van de Europese Economische Gemeenschap vastgestelde verplichtingen inzake onderwerpen waarop deze wet van toepassing is, regelen worden gesteld waarbij kan worden afgeweken van bepalingen van deze wet.  
 
+### Artikel  111a  
+
+Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op: 
+
+a. een aanvraag tot een vergunning als bedoeld in artikel 66;  
+
+b. een aanvraag tot een vaststelling van een werkgebied als bedoeld in artikel 81f, en  
+
+c. een aanvraag tot een vrijstelling of ontheffing als bedoeld in artikel 107, eerste lid.    
+
 ### Artikel  113  
 
 Deze wet treedt niet in hetgeen bij of krachtens de [Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) (*Stb.* 1977, 67) is geregeld, met dien verstande dat onverminderd van kracht blijft hetgeen is of wordt bepaald bij of krachtens de artikelen 35, 38, 42, 45 tot en met 54, 55, 66 en 76.  

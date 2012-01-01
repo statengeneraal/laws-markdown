@@ -12,7 +12,7 @@ Besluit:
 
 ####Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [8, zesde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [17, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [21a](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [25, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [31](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en [47 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md)  
+Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [8, zesde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [17, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [21a](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [25, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [31](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en [47 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en [artikel 2a van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen](../../../../../../../AMvB/uitvoeringsbesluit/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018707/README.md).  
 
 ### Artikel  2  
 
@@ -40,12 +40,6 @@ b. hij of een tot zijn huishouden behorende persoon op grond van [artikel 32 van
 c. blijkt dat sprake is van een onjuiste inschrijving in de gemeentelijke basisadministratie persoonsgegevens voor de periode tot aan de datum van adreswijziging als bedoeld in [artikel 47, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  
 
 d. hij zich binnen 5 dagen na de aanvang van zijn verblijf op zijn woonadres heeft laten inschrijven bij de gemeentelijke basisadministratie persoonsgegevens.     
-
-### Artikel  4  
-
-####Herleiding toetsingsinkomen
-
-Het verzoek, bedoeld in [artikel 8, derde lid, van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), kan worden gedaan tot het tijdstip waarop de toekenning van de tegemoetkoming over het desbetreffende berekeningsjaar onherroepelijk is geworden.  
 
 ### Artikel  5  
 
@@ -121,7 +115,7 @@ Indien op grond van [artikel 25, eerste lid, van de wet](../../../../../../../we
 
 ####Uitstel van betaling in verband met bezwaar of herzieningsverzoek
 
-1.  Indien de belanghebbende tijdig een gemotiveerd bezwaar of verzoek om herziening als bedoeld in [artikel 21a van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) heeft ingediend tegen de terugvordering dan wel beroep of hoger beroep heeft ingediend tegen de uitspraak op een bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, verleent de Belastingdienst/Toeslagen uitstel van betaling van de terugvordering tot het moment waarop op het bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, het beroep of hoger beroep is beslist.   
+1.  Indien de belanghebbende tijdig een gemotiveerd bezwaar of verzoek om herziening als bedoeld in [artikel 21a van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) heeft ingediend tegen de terugvordering dan wel beroep of hoger beroep heeft ingediend tegen de uitspraak op een bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, kan de Belastingdienst/Toeslagen uitstel van betaling van de terugvordering verlenen tot het moment waarop op het bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, het beroep of hoger beroep is beslist.   
 2.  Het eerste lid vindt overeenkomstige toepassing indien bezwaar, beroep, hoger beroep of beroep in cassatie, dan wel een verzoek om ambtshalve vermindering is ingediend ter zake van een inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), dat bepalend is voor de draagkracht waarmee bij de terugvordering rekening is gehouden. Onder een verzoek om ambtshalve vermindering wordt mede verstaan een verzoek om herziening als bedoeld in [artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 
 ### Artikel  9  
@@ -166,6 +160,18 @@ b. een bedrag ter grootte van de navolgende eenmalige uitkeringen die in het ber
 2.  Het eerste lid, onderdeel b, onder 4° tot en met 11°, is eveneens van toepassing ingeval de genoemde uitkeringen zijn verstrekt aan nabestaanden van de gerechtigden.   
 3.  Het in het eerste lid bedoelde verzoek kan worden gedaan tot het tijdstip dat de toekenning van de tegemoetkoming over het desbetreffende berekeningsjaar onherroepelijk is geworden.   
 4.  Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.   
+
+### Artikel  9a  
+
+####Termijnverlenging in het kader van de toepassing van Verordening (EG) nr. 987/2009 (PbEU 2009, L 284)
+
+Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2009, L 284) retroactief als bevoegd orgaan is aangemerkt: 
+
+a. wordt de belanghebbende geacht tijdig een aanvraag te hebben gedaan als bedoeld in [artikel 15 van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);  
+
+b. worden de in [artikel 19 van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;  
+
+c. worden de in de [artikelen 21, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), en [27, tweede lid, van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) genoemde termijnen en de in artikel 5a, onderdeel a, genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.    
 
 ### Artikel  10  
 

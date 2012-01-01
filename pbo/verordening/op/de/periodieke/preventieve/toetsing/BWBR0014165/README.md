@@ -124,7 +124,7 @@ b. het interne stelsel van kwaliteitsbeheersing voldoet niet aan de daaraan te s
 
 – stelt het bestuur een termijn waarbinnen het stelsel van kwaliteitsbeheersing dient te worden aangepast aan de normen als bedoeld in artikel 3.     
 6.  Indien uit het verbeterplan naar het oordeel van het bestuur blijkt dat te weinig of onvoldoende toereikende maatregelen zullen worden genomen ter correctie van de geconstateerde tekortkomingen, dan kan het bestuur volstaan met een gedeeltelijke goedkeuring van het verbeterplan en daarbij aangeven op welke onderdelen het verbeterplan tekortschiet.   
-7.  Voor het beoordelen en goedkeuren van het in lid 5 van dit artikel bedoelde verbeterplan wordt aan de accountantspraktijk een tarief in rekening gebracht waarvan de hoogte in de Verordening op de tarieven periodieke preventieve toetsing is vastgesteld.   
+7.  Voor het beoordelen van het in lid 5 van dit artikel bedoelde verbeterplan wordt aan de accountantspraktijk een tarief in rekening gebracht waarvan de hoogte in de Verordening op de tarieven periodieke preventieve toetsing is vastgesteld.   
 8.  De tijd welke het bestuur besteedt aan de beoordeling van een verbeterplan, schort niet de termijn op bedoeld in het vijfde lid, tweede onderdeel.   
 
 ### Artikel  12  

@@ -32,12 +32,6 @@ b. deelnemer: een in [artikel 8.1.1, eerste lid, eerste volzin, van de wet](../.
 
 c. basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md).    
 
-### Artikel  1.1.2  
-
-####Overleg
-
-Een ministeriële regeling als bedoeld in de artikelen 2.2.3, derde lid, 5.2.3, 6.1.1 en 6.1.4, tweede lid, wordt vastgesteld na overleg als bedoeld in [artikel 3.1.1, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
-
 ### Hoofdstuk  2  
 
 ####Bekostiging beroepsonderwijs
@@ -50,10 +44,10 @@ Een ministeriële regeling als bedoeld in de artikelen 2.2.3, derde lid, 5.2.3, 
 
 ####Reikwijdte hoofdstuk 2
 
-1.  De paragrafen 1, 2, 4 en 5 zijn van toepassing op instellingen als bedoeld in artikel 1.1.1, onderdeel b, onder 1° tot en met 3°.   
-2.  Paragraaf 1, paragraaf 2 en paragraaf 4 zijn van overeenkomstige toepassing en paragraaf 5 is van toepassing ten aanzien van het beroepsonderwijs binnen agrarische opleidingscentra waarvoor de rijksbijdrage wordt vastgesteld door Onze Minister van Landbouw, Natuurbeheer en Visserij.   
+1.  De paragrafen 1, 2, 4, 5, 6 en 6a zijn van toepassing op instellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° tot en met 3°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+2.  Paragraaf 1, paragraaf 2 en paragraaf 4 zijn van overeenkomstige toepassing en de paragrafen 5, 6 en 6a zijn van toepassing ten aanzien van het beroepsonderwijs binnen agrarische opleidingscentra waarvoor de rijksbijdrage wordt vastgesteld door Onze Minister van Landbouw, Natuurbeheer en Visserij.   
 3.  Paragraaf 3 onderscheidenlijk de paragrafen 4 en 5 heeft betrekking onderscheidenlijk hebben mede betrekking op het voorbereidend beroepsonderwijs dat wordt verzorgd aan agrarische opleidingscentra.   
-4.  Paragraaf 5 heeft mede betrekking op de in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) genoemde instituten, alsmede op de in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) genoemde hogescholen.   
+4.  De paragrafen 5, 6 en 6a hebben mede betrekking op de in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) genoemde instituten, alsmede op de in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) genoemde hogescholen.   
 
 ### Artikel  2.1.2  
 
@@ -106,8 +100,8 @@ a. het rijksbijdragedeel op grond van de maatstaf ingeschreven deelnemers,
 
 b. het rijksbijdragedeel op grond van de maatstaf diploma’s beroepsonderwijs vermeerderd met het rijksbijdragedeel op grond van de diploma’s, bedoeld in artikel 2.2.4, tweede lid, en  
 
-c. het rijksbijdragedeel ten behoeve van voorbereidende en ondersteunende activiteiten,   zoals deze delen voor het desbetreffende jaar voor de instelling worden berekend op grond van artikel 2.2.3, artikel 2.2.4 respectievelijk artikel 2.2.5.   
-2.  De op grond van het eerste lid berekende rijksbijdrage wordt verminderd met het bedrag aan cursusgelden, zoals dat wordt berekend op grond van artikel 2.6.1.   
+c. het rijksbijdragedeel ten behoeve van voorbereidende en ondersteunende activiteiten,   zoals deze delen voor het desbetreffende jaar voor de instelling worden berekend op grond van artikel 2.2.3, artikel 2.2.4 respectievelijk artikel 2.2.5. De uitkomst van elke berekening wordt rekenkundig afgerond op hele euro’s.   
+2.  De op grond van het eerste lid berekende rijksbijdrage wordt vermeerderd met het rijksbijdragedeel voor gehandicapte deelnemers, zoals dat wordt berekend op grond van artikel 2.6a.1.   
 3.  De op grond van het eerste en tweede lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
 
 ### Artikel  2.2.3  
@@ -124,7 +118,7 @@ c. het rijksbijdragedeel ten behoeve van voorbereidende en ondersteunende activi
 | ———————————————————————— x LMID  |
 | LDw  |
 
-In deze formule wordt verstaan onder: i: opleiding verzorgd aan de desbetreffende instelling, n: het aantal opleidingen verzorgd aan de desbetreffende instelling, DDi1: het aantal deeltijds deelnemers aan de beroepsopleidende leerweg dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling is ingeschreven voor een opleiding als bedoeld in het tweede lid, onder b, en daadwerkelijk die opleiding volgt, vermeerderd met het aantal deelnemers aan de beroepsbegeleidende leerweg dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en daadwerkelijk die opleiding volgt, voor zover de laatstgenoemde deelnemers: 
+In deze formule wordt de teller van de breuk afgerond op twee decimalen en wordt verstaan onder: i: opleiding verzorgd aan de desbetreffende instelling, n: het aantal opleidingen verzorgd aan de desbetreffende instelling, DDi1: het aantal deeltijds deelnemers aan de beroepsopleidende leerweg dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling is ingeschreven voor een opleiding als bedoeld in het tweede lid, onder b, en daadwerkelijk die opleiding volgt, vermeerderd met het aantal deelnemers aan de beroepsbegeleidende leerweg dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en daadwerkelijk die opleiding volgt, voor zover de laatstgenoemde deelnemers: 
 
 a. uiterlijk op 31 december van datzelfde kalenderjaar een overeenkomst als bedoeld in [artikel 7.2.8, tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) hebben gesloten, en  
 
@@ -203,7 +197,7 @@ In geval van fusie van instellingen of indien vanwege afspraken tussen instellin
 
 ####Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
 
-1.  De gegevens, bedoeld in [artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, k, l, m en n, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de verklaring, bedoeld in [artikel 2.2.4, vijfde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) worden uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar ingediend bij Onze Minister. Indien Onze Minister van een instelling de gegevens, bedoeld in de eerste volzin, niet uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar, voorzien van een goedkeurende accountantsverklaring, heeft ontvangen en hierdoor de gegevens niet volgens artikel 4b.2.3, eerste lid, onderdelen e tot en met g, kan verstrekken, stelt Onze Minister de hoogte van de rijksbijdrage voor deze instelling voor het desbetreffende kalenderjaar vast, conform de voorschriften in het tweede tot en met het vijfde lid.   
+1.  De gegevens, bedoeld in [artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, l, m en n, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de verklaring, bedoeld in [artikel 2.2.4, vijfde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) worden uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar ingediend bij Onze Minister. Indien Onze Minister van een instelling de gegevens, bedoeld in de eerste volzin, niet uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar, voorzien van een goedkeurende accountantsverklaring, heeft ontvangen en hierdoor niet tijdig over de gegevens kan beschikken, kan Onze Minister de hoogte van de rijksbijdrage voor deze instelling voor het desbetreffende kalenderjaar vaststellen conform de voorschriften in het tweede tot en met zesde lid.   
 2.  Bij de toepassing van artikel 2.2.2 wordt voor een instelling als bedoeld in het eerste lid, bij de berekening van de rijksbijdrage voor exploitatiekosten voor het beroepsonderwijs: 
 
 a. in afwijking van artikel 2.2.3, eerste lid, de uitkomst van het gedeelte van de formule boven de streep vastgesteld op 90% van de uitkomst van dat deel van de formule van het voorgaande kalenderjaar;  
@@ -212,7 +206,7 @@ b. in afwijking van artikel 2.2.4, eerste lid, de uitkomst van het gedeelte van 
 
 c. in afwijking van artikel 2.2.5 het aantal deelnemers vastgesteld op 90% van het aantal deelnemers dat is gehanteerd bij de berekening van de rijksbijdrage van het voorgaande kalenderjaar.     
 3.  Indien toepassing wordt gegeven aan het eerste lid, wordt in artikel 2.2.4, eerste lid, in de begripsbepalingen LD1, LD2 en LD3 tevens gelezen: alsmede de op grond van artikel 2.2.7, tweede lid, onderdeel b, vastgestelde aantallen diploma's.   
-4.  De instellingen, bedoeld in het eerste lid, dienen uiterlijk 1 november van het jaar voorafgaand aan het bekostigingsjaar de gegevens, bedoeld in [artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, k, l, m en n, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voorzien van een goedkeurende accountantsverklaring, in bij Onze Minister.   
+4.  De instellingen, bedoeld in het eerste lid, dienen uiterlijk 1 november van het jaar voorafgaand aan het bekostigingsjaar de gegevens, bedoeld in [artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, l, m en n, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voorzien van een goedkeurende accountantsverklaring, in bij Onze Minister.   
 5.  Indien uit de gegevens, bedoeld in het vierde lid, blijkt dat toepassing van artikel 2.2.3, artikel 2.2.4, eerste lid, respectievelijk artikel 2.2.5 leidt tot een lagere waarde dan vastgesteld op grond van het tweede lid, onderdelen a, b respectievelijk c, wordt de vergoeding van de instelling berekend op grond van die lagere waarde.   
 6.  Indien uit de gegevens, bedoeld in het vierde lid, blijkt dat toepassing van artikel 2.2.3, artikel 2.2.4, eerste lid, respectievelijk artikel 2.2.5, leidt tot een gelijke of hogere waarde dan vastgesteld op grond van het tweede lid, onderdelen a, b respectievelijk c, wordt de vergoeding van de instelling berekend op grond van het tweede lid.   
 
@@ -224,7 +218,7 @@ c. in afwijking van artikel 2.2.5 het aantal deelnemers vastgesteld op 90% van h
 
 ####Berekening rijksbijdrage voorbereidend beroepsonderwijs
 
-1.  Onze Minister berekent de rijksbijdrage voor een agrarisch opleidingscentrum voor de exploitatiekosten voor het voorbereidend beroepsonderwijs dat ten behoeve van deze berekening is onderverdeeld in beroepsonderwijs en leerwegondersteunend onderwijs, volgens de formule: {Liv x PLiv} + {Lil x PLil} In deze formule wordt verstaan onder: Liv: het aantal leerlingen dat op 1 oktober van het kalenderjaar voorafgaand aan het desbetreffende jaar aan het desbetreffende agrarisch opleidingscentrum staat ingeschreven voor het beroepsonderwijs, Lil: het aantal leerlingen dat op 1 oktober van het kalenderjaar voorafgaand aan het desbetreffende jaar aan het desbetreffende agrarisch opleidingscentrum staat ingeschreven voor het leerwegondersteunend onderwijs, PLiv: de op grond van het tweede lid voor het desbetreffende kalenderjaar toegekende prijs per leerling beroepsonderwijs, en PLil: de op grond van het tweede lid voor het desbetreffende kalenderjaar toegekende prijs per leerling leerwegondersteunend onderwijs.   
+1.  Onze Minister berekent de rijksbijdrage voor een agrarisch opleidingscentrum voor de exploitatiekosten voor het voorbereidend beroepsonderwijs dat ten behoeve van deze berekening is onderverdeeld in beroepsonderwijs en leerwegondersteunend onderwijs, volgens de formule: {Liv x PLiv} + {Lil x PLil} + (VVi) In deze formule wordt verstaan onder: Liv: het aantal leerlingen dat op 1 oktober van het kalenderjaar voorafgaand aan het desbetreffende jaar aan het desbetreffende agrarisch opleidingscentrum staat ingeschreven voor het beroepsonderwijs, Lil: het aantal leerlingen dat op 1 oktober van het kalenderjaar voorafgaand aan het desbetreffende jaar aan het desbetreffende agrarisch opleidingscentrum staat ingeschreven voor het leerwegondersteunend onderwijs, PLiv: de op grond van het tweede lid voor het desbetreffende kalenderjaar toegekende prijs per leerling beroepsonderwijs, PLil: de op grond van het tweede lid voor het desbetreffende kalenderjaar toegekende prijs per leerling leerwegondersteunend onderwijs, en VVi: de bij ministeriële regeling vastgestelde vaste voet per instelling.   
 2.  Jaarlijks voor 1 september voorafgaand aan het kalenderjaar waarvoor de rijksbijdrage wordt vastgesteld, worden bij ministeriële regeling de prijzen per leerling vastgesteld.   
 
 ### Paragraaf  4  
@@ -235,8 +229,8 @@ c. in afwijking van artikel 2.2.5 het aantal deelnemers vastgesteld op 90% van h
 
 ####Berekening rijksbijdrage huisvestingskosten voor instellingen
 
-1.  Onze Minister verdeelt het op grond van artikel 2.1.3 voor een kalenderjaar vastgestelde landelijk beschikbare budget voor de huisvestingskosten voor het beroepsonderwijs over de instellingen naar rato van de voor dat kalenderjaar op grond van artikel 2.2.2 berekende rijksbijdrage voor exploitatiekosten per instelling.   
-2.  De rijksbijdrage voor de huisvestingskosten van een school voor voortgezet onderwijs als bedoeld in [artikel 2.6, eerste lid, tweede volzin, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) wordt berekend door het aantal leerlingen dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende kalenderjaar aan de school was ingeschreven te vermenigvuldigen met een jaarlijks bij ministeriële regeling te bepalen bedrag.   
+1.  Onze Minister verdeelt het op grond van artikel 2.1.3 voor een kalenderjaar vastgestelde landelijk beschikbare budget voor de huisvestingskosten voor het beroepsonderwijs over de instellingen naar rato van de voor dat kalenderjaar op grond van artikel 2.2.2, eerste lid, berekende rijksbijdrage voor exploitatiekosten per instelling. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s   
+2.  De rijksbijdrage voor de huisvestingskosten van een school voor voortgezet onderwijs als bedoeld in [artikel 2.6, lid 1a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) wordt berekend door het aantal leerlingen dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende kalenderjaar aan de school was ingeschreven te vermenigvuldigen met een jaarlijks bij ministeriële regeling te bepalen bedrag.   
 3.  Het tweede lid is van overeenkomstige toepassing op het voorbereidend beroepsonderwijs.   
 4.  De op grond van het eerste lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
 5.  Artikel 2.2.6 is van overeenkomstige toepassing.   
@@ -255,22 +249,20 @@ a. instelling: een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de
 
 b. uitkering: een werkloosheidsuitkering als bedoeld in de [Hoofdstukken I](../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) en [II van het Besluit Werkloosheid onderwijs- en onderzoekpersoneel](../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) of suppletie inzake arbeidsongeschiktheid als bedoeld in Hoofdstuk 3 van het [Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs](../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), voortvloeiend uit een dienstbetrekking aan een instelling;  
 
-c. overeenkomst inburgering: een overeenkomst als bedoeld in [artikel 2.3.4 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), die betrekking heeft op de educatieve programma's, bedoeld in [artikel 2.3.1, tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md);  
-
-d. overeenkomst educatie: een overeenkomst als bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+c. overeenkomst educatie: een overeenkomst als bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
 ### Artikel  2.5.2  
 
 ####Toevoeging aan de rijksbijdrage
 
-1.  Het bevoegd gezag van een instelling heeft, naast de aanspraak op een aandeel van de rijksbijdrage voor de exploitatiekosten voor het beroepsonderwijs, bedoeld in artikel 2.2.2, in geval van een agrarisch opleidingscentrum vermeerderd met de rijksbijdrage zoals vastgesteld op grond van artikel 2.3.2, per kalenderjaar aanspraak op een vergoeding voor uitkeringen.   
-2.  De vergoeding, bedoeld in het eerste lid, is het bedrag berekend volgens de volgende formule: (PI + InbI + EduI) / (PL + InbL + EduL) x W In deze formule wordt verstaan onder: PI: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de desbetreffende instelling voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar; InbI: de hoogte van het bedrag dat met de overeenkomst of de overeenkomsten inburgering van de desbetreffende instelling in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar is gemoeid, zoals blijkt uit de jaarrekening van de instelling; EduI: de hoogte van het bedrag dat met de overeenkomst of overeenkomsten educatie van de desbetreffende instelling in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar is gemoeid, zoals blijkt uit de jaarrekening van de instelling; PL: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de instellingen voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar; InbL: de hoogte van het bedrag dat met de overeenkomsten inburgering van de instellingen in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar is gemoeid, zoals blijkt uit de jaarrekeningen van de instellingen; EduL: de hoogte van het bedrag dat met de overeenkomsten educatie van de instellingen in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar is gemoeid, zoals blijkt uit de jaarrekeningen van de instellingen; W: het wachtgeldbudget voor de instellingen zoals opgenomen in de begrotingen van de uitgaven van het Ministerie van Onderwijs, Cultuur en Wetenschap en het Ministerie van Landbouw, Natuur en Voedselkwaliteit van het desbetreffende kalenderjaar.   
+1.  Het bevoegd gezag van een instelling heeft, naast de aanspraak op een aandeel van de rijksbijdrage voor de exploitatiekosten voor het beroepsonderwijs, bedoeld in artikel 2.2.2, eerste lid, in geval van een agrarisch opleidingscentrum vermeerderd met de rijksbijdrage zoals vastgesteld op grond van artikel 2.3.2, per kalenderjaar aanspraak op een vergoeding voor uitkeringen.   
+2.  De vergoeding, bedoeld in het eerste lid, is het bedrag berekend volgens de volgende formule: (PI + EduI) / (PL + EduL) x W In deze formule wordt verstaan onder: PI: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de desbetreffende instelling voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar; EduI: de hoogte van het bedrag dat met de overeenkomst of overeenkomsten educatie van de desbetreffende instelling in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar is gemoeid, zoals blijkt uit de jaarrekening van de instelling; PL: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de instellingen voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar; EduL: de hoogte van het bedrag dat met de overeenkomsten educatie van de instellingen in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar is gemoeid, zoals blijkt uit de jaarrekeningen van de instellingen; W: het totaal van de wachtgeldbudgetten voor de instellingen zoals opgenomen in de begrotingen van de uitgaven van het Ministerie van Onderwijs, Cultuur en Wetenschap en het Ministerie van Economische Zaken, Landbouw en Innovatie van het desbetreffende kalenderjaar.   
 3.  De uitkomst van de berekening, bedoeld in het tweede lid, wordt rekenkundig afgerond op twee decimalen.   
-4.  Onze Minister kan voorzover het betreft educatie en inburgering, in afwachting van de indiening van de jaarrekeningen door de instellingen, een voorlopig bedrag toevoegen aan de rijksbijdrage.   
+4.  Onze Minister kan voorzover het betreft educatie, in afwachting van de indiening van de jaarrekeningen door de instellingen, een voorlopig bedrag toevoegen aan de rijksbijdrage.   
 
 ### Paragraaf  6  
 
-####Vermindering exploitatiekosten beroepsonderwijs in verband met normatieve inhouding cursusgelden
+####Vermindering rijksbijdrage beroepsonderwijs in verband met normatieve inhouding cursusgelden
 
 ### Artikel  2.6.1  
 
@@ -278,6 +270,17 @@ d. overeenkomst educatie: een overeenkomst als bedoeld in [artikel 2.3.4, eerste
 
 1.  Onze Minister brengt op de rijksbijdrage voor een instelling voor een kalenderjaar een bedrag in mindering volgens de formule: (DDi3 x DC1) + (DDi4 x DC2), waarin is: DDi3: het aantal deeltijds deelnemers als bedoeld in artikel 2.2.3, eerste lid, onder DDi1 en DDi2, voor opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a en b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); DC1: het cursusgeld per 1 januari van het desbetreffende kalenderjaar, bedoeld in artikel 15 van het Uitvoeringsbesluit Les- en cursusgeldwet, voor opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a en b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); DDi4: het aantal deeltijds deelnemers als bedoeld in artikel 2.2.3, eerste lid, onder DDi1 en DDi2, voor opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); DC2: het cursusgeld per 1 januari van het desbetreffende kalenderjaar, bedoeld in [artikel 15 van het Uitvoeringsbesluit Les- en cursusgeldwet](../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), voor opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 2.  Bij de berekening van het in het eerste lid bedoelde bedrag telt het aantal deeltijds deelnemers DDi3 en DDi4, dat op 1 augustus van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en op die datum de leeftijd van 18 jaar nog niet heeft bereikt, niet mee.   
+
+### Paragraaf  6a  
+
+####Gehandicapte deelnemers
+
+### Artikel  2.6a.1  
+
+####Vaststelling en verdeling rijksbijdragedeel
+
+1.  Onze Minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van de kosten voor gehandicapte deelnemers.   
+2.  Onze Minister verdeelt het voor een kalenderjaar vastgestelde budget ten behoeve van de gehandicapte deelnemers over de instellingen naar rato van het totaal van de voor dat kalenderjaar op grond van de artikelen 2.2.3 en 2.2.4 berekende rijksbijdrage voor die instelling.   
 
 ### Paragraaf  7  
 
@@ -303,70 +306,52 @@ d. kinderpsychiatrische voorziening of Jeugdbescherming: psychiatrische voorzien
 
 1.  Voor elke deelnemer met een leerlinggebonden budget dat beschikbaar is op grond van [artikel 2.2.6, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) ontvangt een instelling waar de deelnemer is ingeschreven een bedrag volgens tabel A en ontvangt een school voor speciaal onderwijs of voortgezet speciaal onderwijs een bedrag volgens tabel B:  Tabel A Bedrag instellingen per studiejaar 
 
-| Toelaatbaar verklaard tot onderwijs van  | Voltijds deelnemer  | Deeltijds deelnemer  | Voltijds deelnemer  | Deeltijds deelnemer  |--- | Assistent- en basisberoepsopleiding  | Assistent- en basisberoepsopleiding  | Vakopleiding, middenkader- en specialistenopleiding  | Vakopleiding, middenkader- en specialistenopleiding  | Cluster 2  Dove deelnemers  | € 2.216  | € 1.478  | € 2.876  | € 1.917  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Cluster 2  Slechthorende deelnemers  | € 1.425  | € 950  | € 2.876  | € 1.917  |
-| Cluster 2  Meervoudig gehandicapte deelnemers  | € 1.425  | € 950  | € 2.876  | € 1.917  |
-| Cluster 2  Deelnemers met  ernstige spraakmoeilijkheden  | € 1.425  | € 950  | € 2.876  | € 1.917  |
-| Cluster 3  Lichamelijk gehandicapte deelnemers  | € 1.451  | € 968  | € 2.876  | € 1.917  |
-| Cluster 3  Langdurig zieke deelnemers met een lichamelijke handicap  | € 1.425  | € 950  | € 2.876  | € 1.917  |
-| Cluster 3  Zeer moeilijk lerende deelnemers  | € 1.425  | € 950  | € 2.876  | € 1.917  |
-| Cluster 3  Meervoudig gehandicapte deelnemers  | € 1.425  | € 950  | € 2.876  | € 1.917  |
-| Cluster 4  Gedragsproblematiek  | € 1.425  | € 950  | € 2.876  | € 1.917  |
-
-Tabel B Bedrag scholen voor speciaal onderwijs of voortgezet speciaal onderwijs per studiejaar 
-
-| Toelaatbaar verklaard tot onderwijs van  | Voltijds deelnemer  | Deeltijds deelnemer  |
-|:---|:---|:---|
-| Cluster 2 Dove deelnemers  | € 5.212  | € 3.474  |
-| Cluster 2 Slechthorende deelnemers  | € 3.235  | € 2.157  |
-| Cluster 2 Meervoudig gehandicapte deelnemers  | € 3.289  | € 2.193  |
-| Cluster 2 Deelnemers met ernstige spraakmoeilijkheden  | € 3.289  | € 2.193  |
-| Cluster 3 Lichamelijk gehandicapte deelnemers  | € 5.127  | € 3.418  |
-| Cluster 3 Langdurig zieke deelnemers met een lichamelijke handicap  | € 3.289  | € 2.193  |
-| Cluster 3 Zeer moeilijk lerende deelnemers  | € 3.172  | € 2.115  |
-| Cluster 3 Meervoudig gehandicapte deelnemers  | € 3.289  | € 2.193  |
-| Cluster 4 Gedragsproblematiek  | € 3.289  | € 2.193  |
-
-per 24 september 2010 en terugwerkend tot en met 1 augustus 2010:  Voor het studiejaar 2010–2011:  Tabel A Bedrag instellingen per studiejaar 
-
-| Toelaatbaar verklaard tot onderwijs van  | Voltijds deelnemer Assistent- en basisberoepsopleiding  | Deeltijds deelnemer Assistent- en basisberoepsopleiding  | Voltijds deelnemer Vakopleiding, middenkader- en specialistenopleiding  | Deeltijds deelnemer Vakopleiding, middenkader- en specialisten-opleiding  |
+| Toelaatbaar verklaard tot onderwijs van  | Voltijds deelnemer  Assistent- en basisberoepsopleiding  | Deeltijds deelnemer  Assistent- en basisberoepsopleiding  | Voltijds deelnemer  Vakopleiding, middenkader- en specialistenopleiding  | Deeltijds deelnemer  Vakopleiding, middenkader- en specialistenopleiding  |
 |:---|:---|:---|:---|:---|
-| Cluster 2 Dove deelnemers  | € 2.410,–  | € 1.607,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 2  Slechthorende deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 2  Meervoudig gehandicapte deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 2  Deelnemers met ernstige spraakmoeilijkheden  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 3  Lichamelijk gehandicapte deelnemers  | € 1.578-  | € 1.052,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 3  Langdurig zieke deelnemers met een lichamelijke handicap  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 3  Zeer moeilijk lerende deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 3  Meervoudig gehandicapte deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 4  Gedragsproblematiek  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 2  | --- | --- | --- | --- |
+| Dove deelnemers  | € 2.410,–  | € 1.607,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 2  |
+| Slechthorende deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 2  |
+| Meervoudig gehandicapte deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 2  |
+| Deelnemers met ernstige spraakmoeilijkheden  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 3  |
+| Lichamelijk gehandicapte deelnemers  | € 1.578–  | € 1.052,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 3  |
+| Langdurig zieke deelnemers met een lichamelijke handicap  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 3  |
+| Zeer moeilijk lerende deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 3  |
+| Meervoudig gehandicapte deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
+| Cluster 4  |
+| Gedragsproblematiek  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
 
 Tabel B Bedrag scholen voor speciaal onderwijs of voortgezet speciaal onderwijs per studiejaar 
 
-| Toelaatbaar verklaard tot onderwijs van  | Voltijds deelnemer personele vergoeding  | Voltijds deelnemer materiële vergoeding  | Totaal aan vergoeding  |
+| Toelaatbaar verklaard tot onderwijs van  | Voltijds deelnemer  personele vergoeding  | Voltijds deelnemer  materiële vergoeding  | Totaal  aan vergoeding  |
 |:---|:---|:---|:---|
 | Cluster 2 Dove deelnemers  | € 5.159,87  | € 559,–  | € 5.718,87  |
 | Cluster 2 Slechthorende deelnemers  | € 3.337,35  | € 216,–  | € 3.553,35  |
 | Cluster 2 Meervoudig gehandicapte deelnemers  | € 3.337,35  | € 274,–  | € 3.611,35  |
 | Cluster 2 Deelnemers met ernstige spraakmoeilijkheden  | € 3.337,35  | € 274,–  | € 3.611,35  |
-| Cluster 3 Lichamelijk gehandicapte deelnemers  | € 5.159,87  | € 469,–  | € 5.628,87  |
-| Cluster 3 Langdurig zieke deelnemers met een lichamelijke handicap  | € 3.337,35  | € 274,–  | € 3.611,35  |
-| Cluster 3 Zeer moeilijk lerende deelnemers  | € 3.337,35  | € 149,–  | € 3.486,35  |
-| Cluster 3 Meervoudig gehandicapte deelnemers  | € 3.337,35  | € 274,–  | € 3.611,35  |
-| Cluster 4 Gedragsproblematiek  | € 3.337,35  | € 274,–  | € 3.611,35  |
+| Cluster 3 Lichamelijk gehandicapte deelnemers  | € 4.517,25  | € 405,–  | € 4.922,25  |
+| Cluster 3 Langdurig zieke deelnemers met een lichamelijke handicap  | € 2.921,51  | € 236–  | € 3.157,51  |
+| Cluster 3 Zeer moeilijk lerende deelnemers  | € 2.921,51  | € 128,–  | € 3.049,51  |
+| Cluster 3 Meervoudig gehandicapte deelnemers  | € 2.921,51  | € 236,–  | € 3.157,51  |
+| Cluster 4 Gedragsproblematiek  | € 2.921,51  | € 236,–  | € 3.157,51  |
 
-| Toelaatbaar verklaard tot onderwijs van  | Deeltijds deelnemer personele vergoeding  | Deeltijds deelnemer materiële vergoeding  | Totaal aan vergoeding  |
+| Toelaatbaar verklaard tot onderwijs van  | Deeltijds deelnemer  personele vergoeding  | Deeltijds deelnemer  materiële vergoeding  | Totaal  aan vergoeding  |
 |:---|:---|:---|:---|
 | Cluster 2 Dove deelnemers  | € 3.439,92  | € 373,–  | € 3.812,92  |
 | Cluster 2 Slechthorende deelnemers  | € 2.224,90  | € 144,–  | € 2.368,90  |
 | Cluster 2 Meervoudig gehandicapte deelnemers  | € 2.224,90  | € 183,–  | € 2.407,90  |
 | Cluster 2 Deelnemers met ernstige spraakmoeilijkheden  | € 2.224,90  | € 183,–  | € 2.407,90  |
-| Cluster 3 Lichamelijk gehandicapte deelnemers  | € 3.439,92  | € 313,–  | € 3.752,92  |
-| Cluster 3 Langdurig zieke deelnemers met een lichamelijke handicap  | € 2.224,90  | € 183,–  | € 2.407,90  |
-| Cluster 3 Zeer moeilijk lerende deelnemers  | € 2.224,90  | € 99,–  | € 2.323,90  |
-| Cluster 3 Meervoudig gehandicapte deelnemers  | € 2.224,90  | € 183,–  | € 2.407,90  |
-| Cluster 4 Gedragsproblematiek  | € 2.224,90  | € 183-  | € 2.407,90  |
+| Cluster 3 Lichamelijk gehandicapte deelnemers  | € 3.011,50  | € 270,–  | € 3.281,50  |
+| Cluster 3 Langdurig zieke deelnemers met een lichamelijke handicap  | € 1.947,67  | € 157,–  | € 2.104,67  |
+| Cluster 3 Zeer moeilijk lerende deelnemers  | € 1.947,67  | €  85,–  | € 2.032,67  |
+| Cluster 3 Meervoudig gehandicapte deelnemers  | € 1.947,67  | € 157,–  | € 2.104,67  |
+| Cluster 4 Gedragsproblematiek  | € 1.947,67  | € 157,–  | € 2.104,67  |
 
 2.  Indien een deelnemer zich inschrijft na 1 augustus van een studiejaar wordt de hoogte van het leerlinggebonden budget vastgesteld door het bedrag dat voor hem geldt op grond van de tabellen, opgenomen in het eerste lid, te delen door 12 en vervolgens te vermenigvuldigen met het aantal maanden dat het studiejaar rest.   
 3.  De bedragen, bedoeld in het eerste lid, kunnen bij ministeriële regeling worden aangepast aan de prijsontwikkeling, overeenkomstig de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in het jaar voorafgaande aan het jaar waarin het bedrag wordt aangepast, en het jaar waarin het bedrag wordt aangepast.   
@@ -676,16 +661,6 @@ c. 20% toegerekend aan de taken, bedoeld in artikel 4.4.3, onder c.
 
 ####Subsidie Kwaliteitscentrum examinering beroepsopleidingen
 
-### Artikel  4a.1  
-
-####Subsidie
-
-1.  Onze Minister verleent subsidie aan het Kwaliteitscentrum examinering beroepsopleidingen voor de taken, bedoeld in [artikel 7.4.9a van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), na ontvangst van de begroting, bedoeld in [artikel 7.4.9f, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
-2.  De subsidie wordt verleend per kalenderjaar. [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
-3.  De subsidie wordt bij wijze van voorschot voor de helft voor 1 februari en voor het resterende deel voor 1 juli van dat jaar betaalbaar gesteld.   
-4.  Het Kwaliteitscentrum examinering beroepsopleidingen zendt de stukken, bedoeld in [artikel 7.4.9f, tweede lid, eerste volzin, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor 1 juli van het jaar, volgend op het jaar waarop de subsidie betrekking heeft, naar Onze Minister. Onze Minister stelt de subsidie vast na ontvangst van deze stukken.   
-5.  Het Kwaliteitscentrum examinering beroepsopleidingen vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-
 ### Hoofdstuk  4B  
 
 ####Gebruik persoonsgebonden nummers
@@ -698,11 +673,18 @@ c. 20% toegerekend aan de taken, bedoeld in artikel 4.4.3, onder c.
 
 ####Reikwijdte hoofdstuk 4b
 
-Paragraaf 3 is van toepassing op de gegevens van deelnemers die zijn ingeschreven of ingeschreven zijn geweest voor een beroepsopleiding aan een instelling als bedoeld in artikel 1.1.1, onderdeel b, een instituut als bedoeld in [artikel 12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een hogeschool als bedoeld in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+1.  Paragraaf 2 is van toepassing op personeel en gewezen personeel van een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en personeel en gewezen personeel dat betrokken is onderscheidenlijk was bij een beroepsopleiding aan een instituut als bedoeld in [artikel 12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een hogeschool als bedoeld in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+2.  Paragraaf 3 is van toepassing op de gegevens van deelnemers die zijn ingeschreven of ingeschreven zijn geweest voor een beroepsopleiding aan een instelling als bedoeld in artikel 1.1.1, onderdeel b, een instituut als bedoeld in [artikel 12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een hogeschool als bedoeld in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### Paragraaf  2  
 
-####Verstrekking van gegevens door Informatie Beheer Groep aan minister en inspectie
+####Gebruik burgerservicenummer personeel door instelling
+
+### Artikel  4b.2.1  
+
+####Burgerservicenummer personeel
+
+Het bevoegd gezag kan gebruik maken van het burgerservicenummer van een lid van het personeel of gewezen personeel van de instelling bij de gegevensverstrekking, bedoeld in bijlage 1 en bijlage 4 bij dit besluit.  
 
 ### Paragraaf  3  
 
@@ -718,13 +700,13 @@ a. het persoonsgebonden nummer;
 
 b. het geslacht, de geboortedatum en de postcode van de woonplaats;  
 
-c. de datum van in- en uitschrijving;  
+c. de datum van inschrijving of van de wijziging of beëindiging daarvan;  
 
-d. de kwalificatie en de leerweg;  
+d. de leerweg, alsmede de code, bedoeld in [artikel 6.4.1, tweede lid, onder a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) van het opleidingsdomein, het kwalificatiedossier of de kwalificatie waarvoor de deelnemer is ingeschreven en bij inschrijving voor een opleidingsdomein het niveau, bedoeld in [artikel 7.2.2, derde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) van de beroepsopleiding;  
 
 e. indien van toepassing, het al dan niet zijn van risicodeelnemer;  
 
-f. het behaalde diploma, dan wel, voorzover het betreft het beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving, de behaalde deelkwalificaties;  
+f. het behaalde diploma;  
 
 g. de omvang van de beroepspraktijkvorming, de datum van begin en einde daarvan, de afsluitdatum van de beroepspraktijkvormingsovereenkomst en het betrokken bedrijf dat of de betrokken organisatie die de beroepspraktijkvormingsovereenkomst verzorgt;  
 
@@ -743,7 +725,7 @@ l. indien van toepassing, het gebruiken van het persoonsgebonden nummer ten beho
 
 ####Voorwaarden voor gebruik
 
-1.  De gegevens, bedoeld in artikel 4b.3.1, worden uitsluitend gebruikt door de daartoe door Onze Minister aangewezen ambtenaren dan wel, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, door de daartoe door Onze Minister aangewezen ambtenaren van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.   
+1.  De gegevens, bedoeld in artikel 4b.3.1, worden uitsluitend gebruikt door de daartoe door Onze Minister aangewezen ambtenaren dan wel, voor zover het betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, door de daartoe door Onze Minister aangewezen ambtenaren van het Ministerie van Economische Zaken, Landbouw en Innovatie.   
 2.  Onze Minister kan uitsluitend gebruiken: 
 
 a. de gegevens van een deelnemer of voormalige deelnemer van wie het bevoegd gezag op grond van [2.5.5a, vierde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) het persoonsgebonden nummer aan Onze Minister heeft verstrekt ten behoeve van de vaststelling van de bekostiging van de instelling;  
@@ -767,9 +749,9 @@ c. de gegevens van een deelnemer of voormalige deelnemer, voorzover Onze Ministe
 
 De bepalingen van dit hoofdstuk hebben betrekking op: 
 
-a. instellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° tot en met 4°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+a. instellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° tot en met 3°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
 
-b. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b2, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van de landbouw en de natuurlijke omgeving, en  
+b. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw, natuurlijke omgeving en voedsel, en  
 
 c. instellingen als bedoeld in [artikel 2.3.4 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
@@ -779,7 +761,7 @@ c. instellingen als bedoeld in [artikel 2.3.4 van de wet](../../../../wet/wet/ed
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b2, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+a. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
 
 b. gegevenswoordenboek: de opsomming van een door het bevoegd gezag van een instelling of het bestuur van een kenniscentrum te verzamelen gegevens, bedoeld in artikel 5.2.1.    
 
@@ -791,7 +773,7 @@ b. gegevenswoordenboek: de opsomming van een door het bevoegd gezag van een inst
 
 ####Ordening gegevens
 
-1.  De informatieverzameling, bedoeld in de [artikelen 2.2.4](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.3.6](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.3](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2.5.5 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarover het bevoegd gezag van een instelling dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlagen 1 en 1c bij dit besluit.   
+1.  De informatieverzameling, bedoeld in de [artikelen 2.2.4](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.3.6](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.3](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2.5.5 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarover het bevoegd gezag van een instelling dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 1 bij dit besluit.   
 2.  De informatieverzameling, bedoeld in [artikel 2.5.10](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) juncto [artikel 2.5.5 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarover het bestuur van een kenniscentrum dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 3 bij dit besluit.   
 3.  De gegevens, bedoeld in het eerste en tweede lid, die betrekking hebben op de bekostiging, zijn in het desbetreffende gegevenswoordenboek als zodanig aangeduid.   
 
@@ -800,7 +782,7 @@ b. gegevenswoordenboek: de opsomming van een door het bevoegd gezag van een inst
 ####Wijze van beschikbaarstelling gegevens
 
 1.  Op verzoek van Onze Minister stelt het bevoegd gezag van een instelling dan wel het bestuur van een kenniscentrum gegevens aan hem beschikbaar, die door de instelling of het kenniscentrum op grond van artikel 5.2.1 zijn verzameld.   
-2.  De beschikbaarstelling geschiedt overeenkomstig de formulieren die op het beroepsonderwijs respectievelijk de werkzaamheden van het kenniscentrum van toepassing zijn, zoals die zijn opgenomen in bijlage 4 en bijlage 6 bij dit besluit.   
+2.  De beschikbaarstelling geschiedt voor het beroepsonderwijs en de educatie overeenkomstig bijlage 4 bij dit besluit en voor de kenniscentra overeenkomstig de formulieren die zijn opgenomen in bijlage 6 bij dit besluit.   
 3.  In voorkomende gevallen kan Onze Minister bij het verzoek om beschikbaarstelling reeds bij hem bekende gegevens opnemen.   
 
 ### Artikel  5.2.3  
@@ -838,15 +820,15 @@ Bij ministeriële regeling kan in bijzondere gevallen een aanvullende vragenlijs
 
 De bepalingen van dit hoofdstuk hebben betrekking op: 
 
-1. instellingen als bedoeld in de [artikelen 1.1.1, onderdelen b en b1](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
+1. instellingen als bedoeld in de [artikelen 1.1.1, onderdeel b](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
-2. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b2, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+2. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
 ### Artikel  5a.1a  
 
 ####Begripsbepaling
 
-In dit hoofdstuk wordt verstaan onder kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b2, van de wet.  
+In dit hoofdstuk wordt verstaan onder kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
 
 ### Artikel  5a.2  
 
@@ -864,7 +846,7 @@ Indien een instelling of een kenniscentrum de taken beëindigt en een rechtsopvo
 
 ####Maximum-salaris voorzitter college van bestuur en centrale directie
 
-1.  Voor de uitkomsten van het functiewaarderingssysteem van een instelling als bedoeld in de [artikelen 1.1.1, onderdelen b en b1](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [12.3.8 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of van een kenniscentrum geldt voor de functie van voorzitter van het college van bestuur en de centrale directie dat daaraan ten hoogste een salarisschaal is verbonden waarvan het hoogste bedrag overeenkomt met het maximum salarisbedrag van schaal 18 van [bijlage 1A van het Kaderbesluit rechtspositie BVE](../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md), zoals dat luidde op 30 juni 2003.   
+1.  Voor de uitkomsten van het functiewaarderingssysteem van een instelling als bedoeld in de [artikelen 1.1.1, onderdeel b](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of van een kenniscentrum geldt voor de functie van voorzitter van het college van bestuur en de centrale directie dat daaraan ten hoogste een salarisschaal is verbonden waarvan het hoogste bedrag overeenkomt met het maximum salarisbedrag van schaal 18 van [bijlage 1A van het Kaderbesluit rechtspositie BVE](../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md), zoals dat luidde op 30 juni 2003.   
 2.  Het in het eerste lid bedoelde maximum kan worden bijgesteld aan de hand van de algemene salarisontwikkeling die voor het personeel van instellingen onderscheidenlijk kenniscentra wordt overeengekomen.   
 
 ### Hoofdstuk  6  
@@ -958,14 +940,14 @@ Voor de toepassing van artikel 4b.2.3, eerste lid, in het studiejaar 2007–2008
 ####Tijdelijke afwijking berekening exploitatiekosten
 
 1.  Tot een bij koninklijk besluit te bepalen datum zijn de artikelen 4.2.1 tot en met 4.2.5, 4.2.7 en 4.2.8 niet van toepassing.   
-2.  Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum tot de in het eerste lid bedoelde datum op de in het derde lid bepaalde wijze.   
+2.  Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum tot de in het eerste lid bedoelde datum op de in het derde lid bepaalde wijze. De uitkomst van de berekening wordt rekenkundig afgerond op twee decimalen.   
 3.  Voor elk kenniscentrum wordt het aandeel in het landelijk beschikbare budget voor de exploitatiekosten van respectievelijk het jaar 2005 en het jaar 2006, uitgedrukt in een percentage van dat landelijk beschikbare budget van genoemde jaren. Vervolgens worden voor elk kenniscentrum de percentages van de jaren, bedoeld in de eerste volzin, bij elkaar opgeteld en de uitkomst gedeeld door twee. De uitkomst van de berekening, bedoeld in de vorige volzin, is bepalend voor het vaststellen van het gedeelte van het landelijk beschikbare budget waarop elk kenniscentrum voor de rijksbijdrage aanspraak maakt.   
 
 ### Artikel  6.3.3  
 
 ####Tijdelijke afwijking vaststelling bedrag huisvestingskosten
 
-Onze Minister stelt tot de datum, bedoeld artikel 6.3.2, eerste lid, het bedrag voor huisvestingskosten, bedoeld in artikel 4.3.1, eerste lid, voor elk kenniscentrum vast op basis van het percentage dat op grond van artikel 6.3.2, derde lid, voor dat kenniscentrum is vastgesteld.  
+Onze Minister stelt tot de datum, bedoeld artikel 6.3.2, eerste lid, het bedrag voor huisvestingskosten, bedoeld in artikel 4.3.1, eerste lid, voor elk kenniscentrum vast op basis van het percentage dat op grond van artikel 6.3.2, derde lid, voor dat kenniscentrum is vastgesteld. De uitkomst van de berekening wordt rekenkundig afgerond op twee decimalen.  
 
 ### Artikel  6.3.7  
 
@@ -1016,155 +998,216 @@ A. H. Korthals
 
 ####Informatieverzameling instellingen bij hoofdstuk 5  Informatie van het Uitvoeringsbesluit WEB
 
-### *A. (Vervallen)* 
+Deze bijlage bevat een programma van eisen of gegevenswoordenboek, waarin de personeelsgegevens worden gespecificeerd die het bevoegd gezag verplicht is aan de overheid te leveren, krachtens [artikel 2.3.6, tweede lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 2.5.5, tweede lid, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en artikelen 5.2.1 en 5.2.2 van het Uitvoeringsbesluit WEB. 
 
-### *B. Personeel* 
+### 1  
 
-####1. Inleiding
+####Inleiding
 
-In dit gegevenswoordenboek staat per gegeven de technische uitwerking, zoals die dient voor de uitwisseling van het gegeven tussen de instellingen en OCW. Het gaat hierbij om de gegevens zoals die door de instellingen worden vastgelegd. Dit betekent niet dat deze gegevens ook zo aan het departement worden geleverd. De manier waarop dat gebeurt wordt bepaald in bijlage 4, Formulieren. Verder betekent dit ook niet dat in alle gevallen de hier gepresenteerde waarden (codes) dienen te worden gebruikt in de eigen administratie. Dat hoeft feitelijk alleen bij de levering. Zo kan de instelling een volledige buitenlandse postcode hanteren, maar die naar de hier beschreven waarden omzetten bij levering. De gegevens staan gegroepeerd volgens een hiërarchisch datamodel. Dat is een structuur die aangeeft hoe de gegevens met elkaar samenhangen. In deze bijlage zal worden aangegeven bij welke Groep elk gegeven hoort en hoe Groepen samenhangen. Een Groep kan verscheidene keren voorkomen. In theorie kan een gegeven ook verscheidene keren in een Groep voorkomen. In deze bijlage is dat echter niet het geval. Bij personeel is het hoogste niveau de werknemer, waaronder de Groepen Persoonskenmerken en Arbeidsovereenkomst vallen, maar geen losse gegevens. De informatie die in deze bijlage per gegeven wordt verstrekt, omvat een aantal vaste rubrieken, de zogenaamde Kenmerken. Dat zijn bijvoorbeeld *definitie* en *domein*. Tezamen vormen deze Kenmerken het profiel van het gegeven. De indeling van deze bijlage is als volgt. In hoofdstuk 2 worden enkele gebruikte termen gedefinieerd, voor zover dat niet al in andere teksten (wet, tekst Uitvoeringsbesluit) is gebeurd. Het bestaat uit twee delen: algemene termen en de Kenmerken met hun definities. Hoofdstuk 3 vormt de kern van deze bijlage en omvat de profielen van alle te registreren gegevens.  
+In dit programma van eisen staat per gegeven de technische uitwerking, zoals die dient voor de uitwisseling van het gegeven tussen de instellingen en de Dienst Uitvoering Onderwijs (DUO). Het gaat hierbij om de gegevens zoals die door de instellingen of hun salarisadministrateur worden vastgelegd. De levering van deze gegevens is noodzakelijk voor bekostiging, monitoring, beleidsontwikkeling en -evaluatie. De specificatie van de gegevens is verdeeld over de volgende onderdelen. 
 
-####2. Begripsbepalingen en definities
+* persoon  
 
-####A. Algemeen
+* arbeidsrelatie  
 
-| --- | --- |
+* loon, toelagen en kortingen  
+
+* verlofgegevens   De gegevens over personeel worden door DUO verzameld op het niveau van arbeidsrelaties en op het niveau van het bevoegd gezag. Gegevens op het niveau van de arbeidsrelaties worden vastgelegd in de Basisregistratie Personeel (BRP). Voor het beleid van OCW en EL&I – en in het bijzonder het arbeidsmarktbeleid voor de sector Onderwijs – is het noodzakelijk dat landelijke ontwikkelingen kunnen worden gevolgd. In bijlage 4 worden de voorschriften voor beschikbaarstelling uiteengezet.  
+
+### 2  
+
+####Programma van eisen
+
+### 2.1  
+
+####Onderdeel Persoon
+
+| nr  | veld  | formaat  | definitie/toelichting  |
+|:---|:---|:---|:---|
+| 1  | Personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
+| 2  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. Andere leveranciers vragen een code bij DUO aan. De volgende codes zijn al toegekend:  |
+| --- | --- | --- | 01 ADP  |
+| --- | --- | --- | 02 Raet E&CS  |
+| --- | --- | --- | 03 Centric  |
+| --- | --- | --- | 04 Merces  |
+| --- | --- | --- | 05 Raet  |
+| --- | --- | --- | 07 Magma IT  |
+| 3  | peilmaand  | getal van 6 cijfers JJJJMM (N6)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
+| 4  | extractiedatum  | getal van 8 cijfers JJJJMMDD (N8)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
+| 5  | geslacht  | code van 1 letter (A1)  | De sekse van het personeelslid, zoals vastgelegd bij de burgerlijke stand: een aanduiding die aangeeft dat de ingeschrevene een man of een vrouw is, of dat het geslacht (nog) onbekend is. De codes zijn:  |
+| --- | --- | --- | M Man  |
+| --- | --- | --- | V Vrouw  |
+| --- | --- | --- | O Onbekend  |
+| 6  | geboortedatum  | getal van 8 cijfers JJJJMMDD (N8)  | De datum waarop het personeelslid is geboren  |
+| --- | --- | --- | --- |
+| 7  | BSN  | nummer van maximaal 9 cijfers (N9)  | Burgerservicenummer. Het volgens de [Wet algemene bepalingen burgerservicenummer](../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) aan een natuurlijke persoon toegekend uniek persoonsnummer.  |
+
+### 2.2  
+
+####Onderdeel Arbeidsrelatie
+
+| nr  | veld  | formaat  | definitie/toelichting  |
+|:---|:---|:---|:---|
+| 7  | Personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
+| 8  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. Andere leveranciers vragen een code bij DUO aan. De volgende codes zijn al toegekend:  |
+| --- | --- | --- | 01 ADP  |
+| --- | --- | --- | 02 Raet E&CS  |
+| --- | --- | --- | 03 Centric  |
+| --- | --- | --- | 04 Merces  |
+| --- | --- | --- | 05 Raet  |
+| --- | --- | --- | 07 Magma IT  |
+| 9  | peilmaand  | getal van 6 cijfers JJJJMM (N6)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
+| 10  | Extractiedatum  | getal van 8 cijfers JJJJMMDD (N8)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
+| 11  | Organisatienummer bevoegd gezag  | nummer van 5 cijfers (N5)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 12  | Organisatienummer school  | code van 2 cijfers, 2 letters (A4)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
+| 13  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het P-nummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 14  | begindatum arbeidsrelatie  | getal van 8 cijfers JJJJMMDD (N8)  | De begindatum van de arbeidsrelatie  |
+| 15  | Mutatiedatum arbeidsrelatie  | getal van 8 cijfers JJJJMMDD (N8)  | Datum waarop de verandering is opgetreden in een bestaande arbeidsrelatie. Dit veld wordt gebruikt in het jaarbestand in die gevallen waarin de verandering in de administratie niet wordt verwerkt als beëindiging van een huidige arbeidsrelatie en het begin van een nieuwe.  |
+| 16  | aard arbeidsrelatie  | code van 1 cijfer (N1)  | De aanduiding of de aanstelling of benoeming tijdelijk is of van onbepaalde duur. Waarden:  |
+| --- | --- | --- | 1 vast  |
+| --- | --- | --- | 2 tijdelijk  |
+| --- | --- | --- | 3 vervanging  |
+| --- | --- | --- | 4 tewerkstelling zonder benoeming  |
+| 17  | einddatum arbeidsrelatie  | getal van 8 cijfers JJJJMMDD (N8)  | De einddatum van de arbeidsrelatie  |
+| 18  | Betrekkingsomvang  | getal met 4 decimalen (N8,4)  | De omvang van de arbeidsrelatie uitgedrukt in voltijds equivalenten (fte), met een nauwkeurigheid van vier decimalen, waarbij één fte gelijk is aan een normbetrekking  |
+| 19  | BAPO-omvang  | getal met 4 decimalen (N8,4)  | Het deel van de betrekkingsomvang van de arbeidsrelatie dat bestemd is voor de Bevordering Arbeidsparticipatie Ouderen, uitgedrukt in voltijdsequivalenten (fte) met een nauwkeurigheid van vier decimalen  |
+| 20  | functieschaal  | code van maximaal 4 posities A4)  | Aanduiding van de schaal genoemd in een van de categorieën waarvoor de betrokkene feitelijk is benoemd. De toegestane waarden sluiten aan bij de schalen en verworven rechten zoals vermeld in de meest recente cao BVE.  |
+| --- | --- | --- | Waarden kunnen in ieder geval variëren als volgt:  |
+| --- | --- | --- | 01 t/m 18,  |
+| --- | --- | --- | LB, LC, LD, LE  |
+| --- | --- | --- | LIOA, LIOB  |
+| --- | --- | --- | ID1, ID2, ID3  |
+| 21  | brutosalaris bij normbetrekking  | bedrag in € met 2 decimalen (N12,2)  | Het persoonlijk salarisbedrag dat geldt bij een betrekkingsomvang van 1 fte (de omvang van een normbetrekking) zoals vermeld in de cao BVE en berekend op basis van de feitelijke betrekkingsomvang en de aanstellingsperiode in de peilmaand  |
+| 22  | salarisschaal  | code van maximaal 4 posities (A4)  | De persoonlijke salarisschaal (functie- of garantieschaal). Is in combinatie met het salarisnummer de grondslag voor de vaststelling van het brutosalaris bij normbetrekking. De toegestane waarden sluiten aan bij de schalen en verworven rechten zoals vermeld in de meest recente cao BVE.  |
+| --- | --- | --- | Waarden kunnen in ieder geval variëren als volgt:  |
+| --- | --- | --- | 01 t/m 18,  |
+| --- | --- | --- | LA, LB, LC, LE  |
+| --- | --- | --- | LIOA, LIOB  |
+| --- | --- | --- | ID1, ID2, ID3  |
+| 23  | salarisnummer  | nummer van 2 posities (N2)  | Het salarisnummer behorend bij de persoonlijke salarisschaal, zoals vermeld in cao BVE. Is in combinatie met de salarisschaal de grondslag voor de berekening van het brutoloon. Waarden: 01 t/m 20  |
+| 24  | eindenummer  | nummer van 2 posities (N2)  | Het nummer van de salarisschaal dat maximaal bereikt kan worden bij de betrokken instelling  |
+| 25  | functiecategorie  | code (N2)  | De toedeling van de functie in één van de in paragraaf 3 onderscheiden categorieën  |
+
+### 2.3  
+
+####Onderdeel Loon, toelagen en kortingen
+
+| nr  | veld  | formaat  | definitie/toelichting  |
+|:---|:---|:---|:---|
+| 29  | Personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
+| 30  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. Andere leveranciers vragen een code bij DUO aan. De volgende codes zijn al toegekend:  |
+| --- | --- | --- | 01 ADP  |
+| --- | --- | --- | 02 Raet E&CS  |
+| --- | --- | --- | 03 Centric  |
+| --- | --- | --- | 04 Merces  |
+| --- | --- | --- | 05 Raet  |
+| --- | --- | --- | 07 Magma IT  |
+| 31  | Organisatienummer bevoegd gezag  | nummer van 5 cijfers (N5)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 32  | Organisatienummer school  | code van 2 cijfers, 2 letters (A4)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
+| 33  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het P-nummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 34  | peilmaand  | getal van 6 cijfers JJJJMM (N6)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
+| 35  | extractiedatum  | getal van 8 cijfers JJJJMMDD (NJ8)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
+| 36  | loon, toelage of korting  | bedrag in € met 2 decimalen (N12,2)  | Het bedrag dat als salaris of als toelage bij het salaris is uitgekeerd of als korting op het salaris in mindering is gebracht  |
+| 37  | soort loon, toelage of korting  | code van 4 cijfers (N4)  | De indicatie van het soort loon, toelage of korting.  |
+| 38  | maand waarop gegevenslevering betrekking heeft  | getal van 6 cijfers JJJJMM (N6)  | Jaar en maand waarop het loon, de toelage of korting betrekking heeft (BRP: boekperiode)  |
+
+### 2.4  
+
+####Verlofgegevens
+
+| nr  | veld  | formaat  | definitie/toelichting  |
+|:---|:---|:---|:---|
+| 39  | Personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
+| 40  | code salarisadministratie  | nummer van maximaal 6 cijfers (N6)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. Besturen die zelf aan DUO leveren vullen hier het organisatienummer bevoegd gezag in, administratiekantoren het nummer waaronder zij bij DUO geregistreerd zijn. Andere leveranciers vragen een code bij DUO aan. De volgende codes zijn al toegekend:  |
+| --- | --- | --- | 01 ADP  |
+| --- | --- | --- | 02 Raet E&CS  |
+| --- | --- | --- | 03 Centric  |
+| --- | --- | --- | 04 Merces  |
+| --- | --- | --- | 05 Raet  |
+| --- | --- | --- | 07 Magma IT  |
+| 41  | Organisatienummer bevoegd gezag  | nummer van 5 cijfers (N5)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 42  | Organisatienummer school  | code van 2 cijfers, 2 letters (A4)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
+| 43  | volgnummer  | nummer van maximaal 10 cijfers (N10)  | Volgnummer dat samen met het P-nummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 44  | extractiedatum  | getal van 8 cijfers JJJJMMDD (N8)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
+| 45  | begindatum verlof  | getal van 8 cijfers JJJJMMDD (N8)  | De begindatum van de verlofperiode  |
+| 46  | einddatum verlof  | getal van 8 cijfers JJJJMMDD (N8)  | De einddatum van de verlofperiode  |
+| 47  | omvang verlof  | getal met 2 decimalen (N6,2)  | De omvang van het verlof gedurende de verlofperiode, uitgedrukt in voltijds equivalenten (fte) met een nauwkeurigheid van 2 decimalen  |
+
+### 2.5  
+
+####Inhoudelijke uitwerking gegevenslevering
+
+Over de sectoren heen dienen begrippen zoveel mogelijk op dezelfde wijze geïnterpreteerd te worden. Daarom wordt ernaar gestreefd de begripsbepalingen m.b.t. de op te vragen gegevens, binnen de onderscheiden sectoren po, vo en bve, zo veel mogelijk op elkaar af stemmen. 
+
+*  *Arbeidsrelatie versus aanstelling/benoeming*  Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen aanstellingen of benoemingen enerzijds en arbeidsrelaties anderzijds. Wat de aanstellingen of benoemingen betreft: hierna worden alleen de termen benoemen, benoemde en benoeming(en) gebruikt. Voor het openbaar onderwijs dient hiervoor aanstellen, aangestelde respectievelijk aanstelling(en) te worden gelezen. Een arbeidsrelatie is in deze bijlage een unieke combinatie van school, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Dat betreft de onderstaande situaties: 
+
+○  *benoemingen bij meer dan één school*  Een bevoegd gezag kan een persoon benoemen om bij één school of bij meer scholen werkzaam te zijn. Als er sprake is van een benoeming waarbij de benoemde bij meer dan één school van een bevoegd gezag werkzaam is, dan is er in het kader van dit programma van eisen sprake van meer dan één arbeidsrelatie. Dit ongeacht of er voor de werkzaamheden aan de verschillende scholen één dan wel verschillende aktes van benoeming zijn opgemaakt. Er moeten ten minste evenveel arbeidsrelaties worden onderscheiden als het aantal scholen waar een persoon werkzaam is. De gegevens die geleverd moeten worden, moeten voor elke arbeidsrelatie afzonderlijk worden geregistreerd en geleverd.  
+
+○  *benoemingen in meer dan één functie*  Ook als een persoon tegelijkertijd werkzaam is in verschillende functies, moeten verschillende arbeidsrelaties worden onderscheiden. Dit is bijvoorbeeld het geval als iemand tegelijkertijd werkzaam is als leerkracht en als adjunct-directeur. De gegevens moeten voor elk van beide functies apart worden geregistreerd en worden geleverd, ook als de persoon deze functies bij één school uitoefent.  
+
+○  *veranderingen van functie*  Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie voor de nieuwe functie.  
+
+○  *verandering van betrekkingsomvang in verband met vervanging*  Voor de gegevensleveringen leidt een verandering van de betrekkingsomvang er in de regel niet toe dat een arbeidsrelatie ophoudt te bestaan; er ontstaat bijgevolg ook geen nieuwe arbeidsrelatie. Deze verandering wordt beschouwd als een verandering binnen de bestaande arbeidsrelatie. Hierop is één uitzondering: verandering van de betrekkingsomvang in verband met vervanging. Als de betrekkingsomvang van een bestaande arbeidsrelatie (tijdelijk) wordt vergroot omdat de persoon een afwezige collega vervangt, dan moet deze uitbreiding als een nieuwe arbeidsrelatie geregistreerd worden. Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is, dat inzicht nodig is in de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkende formatie te voorkomen.    
+
+*  *Begin en einde verlofperiode*  Bij een verandering van het soort verlof wordt een lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. Bij een verandering van de omvang van het verlof wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode.  
+
+*  *Begin- en einddatum*  Als begindatum wordt geleverd de eerste kalenderdag waarop de situatie van de regel van toepassing is. Als einddatum wordt geleverd de laatste kalenderdag waarop de situatie van de regel van toepassing is.  
+
+*  *Extractiedatum*  De extractiedatum is de datum waarop de gegevens uit de database of databases zijn gehaald. Als gegevens uit verschillende databases moeten worden gehaald, bestaat het risico dat de gegevens uit de verschillende databases niet op elkaar aansluiten (in elke database zullen voortdurend mutaties worden aangebracht). Om dit risico zo klein mogelijk te maken, zullen de eerste en de laatste extractiedatum van de gegevens over dezelfde peilmaand niet meer dan één week uit elkaar mogen liggen, tenzij de consistentie aantoonbaar op een andere manier gewaarborgd wordt.  
+
+*  *Maand waarop gegevenslevering betrekking heeft*  In de bestanden die op een peilmaand betrekking hebben, worden de betalingen en inhoudingen opgegeven die op die peilmaand betrekking hebben. Correcties hierop worden met een maand terugwerkende kracht hierin verwerkt. Betalingen die op een peilmaand, langer dan een maand terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 200800).  
+
+*  *Opbouw jaarbestand*  De jaarbestanden geven een samengevat overzicht van alle situaties die zich in de loop van een kalenderjaar hebben voorgedaan. In het jaarbestand moeten alle terugwerkende mutaties verwerkt worden die betrekking hebben op het peiljaar. Net als in de maandbestanden worden de gegevens opgenomen op het niveau van de arbeidsrelatie. Als gedurende een aaneengesloten periode de gegevens van een arbeidsrelatie niet zijn veranderd, dan worden deze gegevens op één regel geleverd. Omdat niet alle veranderingen leiden tot het ontstaan of beëindigen van arbeidsrelaties wordt in het jaarbestand gebruik gemaakt van het veld mutatiedatum. Daarin wordt vastgelegd op welk moment de wijziging feitelijk optreedt (N.B. dat is uitdrukkelijk niet de datum waarop de wijziging in de administratie is doorgevoerd). Het veld begindatum arbeidsrelatie verandert in dat geval niet. Bij een verandering van een doorlopende arbeidsrelatie worden ook alle niet gewijzigde gegevens geleverd. Vervangers kunnen een heel grillig patroon van werken – niet werken hebben. Zolang zij incidenteel en wisselend voor korte perioden worden ingezet, kan volstaan worden met één regel per maand. Op het moment dat er sprake is van een langere periode van vervanging, dan dient hiervoor een afzonderlijke regel conform de andere arbeidsrelaties te worden geleverd.  
+
+*  *Peilmaand en peildatum*  De in de paragrafen 2.1, 2.2 en 2.3 beschreven gegevens moeten worden onderscheiden naar tijdvakken van één kalendermaand: de peilmaand. Voor de arbeidsrelaties die op de 1 <sup>e</sup> kalenderdag van de peilmaand bestaan, worden de gegevens geleverd naar de stand op de 1 <sup>e</sup> kalenderdag (de peildatum). Voor arbeidsrelaties die in de loop van de peilmaand ontstaan, worden de gegevens geleverd naar de stand van de 1 <sup>e</sup> kalenderdag waarop de arbeidsrelatie is ingegaan. Voor de werktijdfactor en de BAPO-factor wordt steeds de gewogen gemiddelde omvang over de peilmaand geleverd.  
+
+*  *Terugwerkende kracht mutaties*  Een deel van de gegevens over een peilmaand wordt in de regel pas enige tijd na het eind van die peilmaand administratief verwerkt. Gegevens die binnen een kalendermaand na afloop van de peilmaand worden verwerkt en van invloed zijn op de situatie in de peilmaand, moeten ook in de gegevenslevering over de peilmaand zijn verwerkt (een maand terugwerkende kracht mutaties). De over de peilmaand januari te leveren gegevens moeten dus de situatie van januari weergeven zoals die op basis van de op 1 maart beschikbare informatie hoort te zijn. Gegevens die later dan een kalendermaand na het einde van de peilmaand beschikbaar komen, worden niet in deze gegevensleveringen verwerkt. De manier van verwerken van terugwerkende kracht mutaties is vooral van belang voor de levering van de gegevens over loon, toelagen en kortingen. OCW en DUO hanteren hierbij het loon-over-principe. Alle correcties die na afloop van een peilmaand plaatsvinden op de financiële gegevens van die peilmaand moeten verwerkt worden in de te leveren gegevens over de peilmaand.  
+
+*  *Verlof*  Onder verlof wordt onder andere verstaan: (on)betaald ouderschapsverlof, zwangerschaps- en bevallingsverlof, scholingsverlof, levensloopverlof of ziekteverlof. Vakantie-, snipper- en feestdagen vallen niet onder verlof.  
+
+*  *Vervanging*  Als iemand wordt benoemd als tijdelijke vervanging van een personeelslid dat afwezig is, wordt dit aangegeven door bij de aard arbeidsrelatie de code 3 te vermelden.  
+
+*  *Volgnummer*  Omdat een persoon bij hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Dit laat onverlet dat in de levering één identificatienummer aanwezig moet zijn dat de betreffende persoon uniek binnen de administratie identificeert.    
+
+### 3  
+
+####Specificatie functiecategorieën
+
+De typering van de functie vindt plaats aan de hand van toedeling aan een van de volgende categorieën: 
+
+* Management: directie en bestuur  
+
+|  *Code*   |  *betekenis*   |
 |:---|:---|
-|  *Gegeven:*   | Het object van een gegevensvraag. Het meest elementaire, betekenisvolle stuk informatie dat kan worden vastgelegd. Zo'n gegeven is bijvoorbeeld geslacht.  |
-|  *Kenmerk (van een gegeven):*   | Dat is het aspect van een gegeven uit de gegevenslijst dat standaard in het Gegevenswoordenboek is opgenomen, zoals «definitie» of «domein».  |
-|  *(Gegevens)profiel:*   | De verzameling kenmerken van een gegeven. Deze verzameling bepaalt en beschrijft het gegeven. Ook het commentaar maakt dus deel uit van de beschrijving.  |
-|  *Groep:*   | Een set van bij elkaar horende (samenhangende) gegevens.  Bijvoorbeeld het gegeven *Geslacht* hoort bij de Groep *Persoonskenmerken*.  |
+| 1  | Management (bijvoorbeeld op niveau van bestuur, directie, staf of sectiehoofd)  |
 
-####B. Gegevenswoordenboek (Kenmerken)
+* Management: onderwijskundige taak  
 
-Sommige Kenmerken komen slechts bij een paar gegevens voor.  
-
-| --- | --- |
+|  *Code*   |  *betekenis*   |
 |:---|:---|
-|  *Definitie:*   | De definitie geeft een nauwkeurige en eenduidige omschrijving van het gegeven.  |
-|  *Lengte:*   | Geeft het maximale aantal tekens waaruit het gegeven kan bestaan. Hangt samen met Type en Domein.  |
-|  *Domein:*   | Waarden die het gegeven kan aannemen, bijvoorbeeld een getal tussen 0 en 999999999. Het domein omvat ook de waarde van Afwezigheid (zie onder).  |
+| 6  | Management met onderwijskundige taak (bijvoorbeeld teamleider of afdelingscoördinator)  |
 
-####3. Gegevenslijst
+* Onderwijsgevend personeel  
 
-### *A. Deelnemers (Vervallen)* 
-
-####B. Personeel
-
-In deze paragraaf is een *werknemer* iemand die een arbeidsrelatie heeft met de instelling, waarbij hij / zij is benoemd in een functie die is vastgelegd in het vastgestelde formatieplan van de instelling.  
-
-| --- | --- |
+|  *Code*   |  *betekenis*   |
 |:---|:---|
-|  *GROEP: Persoonskenmerken*   |
-| --- | --- |
-|  *B1. Geslacht*   |
-| Definitie  | Aanduiding of de werknemer een man of vrouw is.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 1  |
-| Domein  | 1 = man, 2 = vrouw  |
-| --- | --- |
-|  *B2. Geboortedatum*   |
-| Definitie  | De datum waarop de werknemer geboren is.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 8  |
-| Domein  | CCYYMMDD (century, year, month, day). Legitieme datum conform NEN 8601  |
-| --- | --- |
-|  *GROEP: Arbeidsovereenkomst*   |
-| --- | --- |
-|  *B3. Functiecategorie*   |
-| Definitie  | Functiecategorie van de werknemer, zoals genoemd in de CAO-BVE en vastgelegd in het formatieplan van de instelling.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 1  |
-| Domein  | 1 = onderwijsgevend personeel  |
-| --- | 2 = ondersteunend en beheerspersoneel  |
-|  *B4. Inschaling*   |
-| Definitie  | Inschaling van de werknemer in het carrièrepatroon zoals wordt vermeld in de vigerende CAO-BVE.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 4  |
-| Domein  | xxnn, waarin:  |
-| --- | xx: schaal volgens de CAO BVE (01 t/m 99 of een letter (cijfer) combinatie. Zo wordt de code Bt gebruikt voor de Melkertbanen. Deze hebben overigens alleen betekenis in combinatie met een Maximumschaal);  |
-| --- | nn: regelnummer binnen de schaal volgens het [Kaderbesluit rechtspositie BVE](../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md) 01 t/m 99.  |
-| --- | Bij xx en nn zo nodig voornullen.  |
-| Doel  | Beleidsinformatie  |
-| Opmerking  | Wanneer het salarisbedrag van de werknemer niet voorkomt in het desbetreffende carrièrepatroon wordt als benadering gebruikt de hoogste inschaling in het carrièrepatroon waarvan het bijbehorende bedrag niet hoger is dan het salarisbedrag van de werknemer.  |
-| --- | --- |
-|  *B5. Maximum salarisschaal bij functie*   |
-| Definitie  | De maximumsalarisschaal die hoort bij de functie waarin de werknemer is benoemd.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 2  |
-| Domein  | 01 t/m 98 (voorloopnul bij schaal < 10),  |
-| --- | 99: vast bedrag, benaderd met schaal en regelnummer bij Inschaling.  |
-| Opmerking  | Code 99 is niet toegestaan in combinatie met een lettercombinatie bij Inschaling.  |
-| --- | --- |
-|  *B6. Salarisgarantie*   |
-| Definitie  | Het salaris dat de werknemer krijgt en dat niet uitsluitend gebaseerd is op zijn huidige functie.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 6  |
-| Domein  | xxabnn:  |
-| --- | xx = maximumschaal volgens [Kaderbesluit rechtspositie BVE](../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md);  |
-| --- | ab = lettercombinatie in het regelnummer, zoals Bt;  |
-| --- | nn = regelnummer binnen een schaal van het [Kaderbesluit rechtspositie BVE](../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md) 01 t/m 99.  |
-| --- | Bij xx en nn zo nodig voornullen. a en b mogen spaties zijn, b alléén als a dat ook is.  |
-| Opmerkingen  | xx mag niet lager zijn dan Maximum salarisschaal.  |
-| --- | Wanneer het bedrag dat de werknemer krijgt niet voorkomt in enig carrièrepatroon wordt als benadering gebruikt de hoogste inschaling in een carrièrepatroon waarvan het bijbehorende bedrag niet hoger is dan het salarisbedrag van de werknemer.  |
-| --- | --- |
-|  *B7. Datum indiensttreding*   |
-| Definitie  | De datum waarop de werknemer bij de instelling dan wel bij een van de fusiepartners/rechtsvoorgangers van de instelling in dienst is getreden.  |
-| --- | Deze datum dient betrekking te hebben op een ononderbroken tijdvak.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 8  |
-| Domein  | CCYYMMDD (century, year, month, day). Legitieme datum conform NEN 8601.  |
-| --- | --- |
-|  *B8. Datum einde dienstverband*   |
-| Definitie  | De datum waarop de arbeidsovereenkomst eindigt  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 8  |
-| Domein  | CCYYMMDD (century, year, month, day). Legitieme datum conform NEN 8601.  |
-| --- | --- |
-|  *B9. Soort aanstelling*   |
-| Definitie  | Aard van het dienstverband.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 1  |
-| Domein  | 1 = dienstverband voor bepaalde tijd;  |
-| --- | 2 = dienstverband voor bepaalde tijd, behorend bij de opleiding die door de werknemer wordt gevolgd;  |
-| --- | 3 = dienstverband voor onbepaalde tijd.  |
-| --- | --- |
-|  *B10. Betrekkingsomvang*   |
-| Definitie  | Betrekkingsomvang volgens de arbeidsovereenkomst, uitgedrukt als een fractie van een normbetrekking volgens de geldende CAO.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 6  |
-| Domein  | Positie 1: 0 of 1,  |
-| --- | positie 2: komma,  |
-| --- | positie 3 t/m 6: decimalen.  |
-| Verplicht  | J  |
-| Opmerkingen  | In geval van een variabele werktijd wordt het geschatte gemiddelde genomen.  |
-| --- | --- |
-|  *B11. BAPO-UREN*   |
-| Definitie  | Het aantal klokuren en minuten per week waarvoor de werknemer verlof geniet op grond van de geldende regeling Bevordering arbeidsparticipatie ouderen (BAPO), uitgedrukt als een fractie van een normbetrekking volgens de geldende CAO BVE.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 6  |
-| Domein  | Positie 1: 0 of 1,  |
-| --- | positie 2: komma,  |
-| --- | positie 3 t/m 6: decimalen.  |
-| --- | --- |
-|  *B12. FPU*   |
-| Definitie  | Het aantal klokuren en minuten per week waarmee de betrekkingsomvang is verminderd in het kader van de geldende regeling Flexibel pensioen en uittreden, uitgedrukt als een fractie van een normbetrekking volgens de geldende CAO BVE.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 6  |
-| Domein  | Positie 1: 0 of 1,  |
-| --- | positie 2: komma,  |
-| --- | positie 3 t/m 6: decimalen.  |
-| --- | --- |
-|  *B13. Einde dienstverband*   |
-| Definitie  | De reden van het eindigen van het dienstverband of de situatie na dienstverband.  |
-| Type onderwijs  | Educatie en Beroepsonderwijs.  |
-| Lengte  | 1  |
-| Domein  | 1: heeft een wachtgelduitkering op basis van een aanstelling in het onderwijs;  |
-| --- | 2: heeft vrijwillig ontslag genomen;  |
-| --- | 3: is met pensioen gegaan;  |
-| --- | 4: is ontslagen in verband met arbeidsongeschiktheid  |
-| --- | 5: is overleden;  |
-| --- | 6: einde tijdelijke benoeming volgens de datum op overeenkomst.  |
+| 9  | Leraar  |
+| 10  | Leraar in opleiding  |
+
+* Onderwijsondersteunend personeel  
+
+|  *Code*   |  *betekenis*   |
+|:---|:---|
+| 12  | Onderwijsassisterende functies (bijvoorbeeld (technisch) onderwijsassistent, docentassistent)  |
+| 13  | Zorgfuncties (bijvoorbeeld psychologisch medewerker)  |
+| 14  | Instructeur  |
+
+* Beheer- en administratief personeel  
+
+|  *Code*   |  *betekenis*   |
+|:---|:---|
+| 16  | Beheerfuncties (bijvoorbeeld conciërge, schoonmaker, beheerder/ICT)  |
+| 17  | Administratieve functies (bijvoorbeeld personeelszaken, leerlingenadministratie)  |
 
 ### Bijlage  3  
 
@@ -1333,94 +1376,51 @@ In dit gegevenswoordenboek staat per gegeven de technische uitwerking, zoals die
 
 ### Bijlage  4  
 
-####Modellen van formulieren instellingen bij hoofdstuk 5  Informatie van het Uitvoeringsbesluit WEB
+####Wijze van beschikbaarstelling gegevens door instellingen bij hoofdstuk 5  Informatie van het Uitvoeringsbesluit WEB
 
-### *Overzicht 1. Referentieraming BVE (Vervallen)* 
+De gegevens bedoeld in [artikel 2.3.6, tweede lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 2.5.5, tweede lid, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn op diverse momenten nodig, sommige enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens op welke wijze (tijdstip en vorm) beschikbaar moeten worden gesteld. De overheid maakt bij de gegevensverzameling zoveel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken. Een groot deel van de gegevens (zoals organisatiegegevens) is reeds geregistreerd in systemen. Deze gegevens hoeven alleen aangepast te worden wanneer zich mutaties voordoen. Daarvoor kan men terecht op de site van DUO, www.ocwduo.nl. Afhankelijk of instellingen zelf gegevensleverancier zijn, worden personeelsgegevens onttrokken aan de schooladministratie of aan registraties bij salarisverwerkers of administratiekantoren. In deze bijlage wordt ingegaan op de termijn voor aanlevering van de personeelsgegevens en de wijze van aanlevering. 
 
-### *Overzicht nummer 2. Beleidstelling BVE (Vervallen)* 
+### 1  
 
-### *Overzicht nummer 3. Bekostigingstelling beroepsonderwijs (Vervallen)* 
+####Termijn voor aanlevering van gegevens
 
-### *Overzicht nummer 4. BPV-telling (Vervallen)* 
+De gegevens genoemd in de tabellen 2.1 t/m 2.3 van bijlage 1: 
 
-### *Overzicht nummer 5. Personeel* 
+* onderdeel persoon  
 
-*«kalenderjaar»*  
+* onderdeel arbeidsrelatie  
 
-####Instellingen
+* onderdeel loon, toelagen en korting   dienen vier maal per jaar volledig en correct aan DUO te worden aangeleverd: 
 
-– ROC's als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° en 2°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); – vakinstellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 3°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+* uiterlijk 15 juni de gegevens over februari, maart en april  
 
-####Termijnen
+* uiterlijk 15 september de gegevens over mei, juni en juli  
 
-– januari publicatie verzoek om informatie in regelingen OCW op www.ocwduo.nl – februari toezending formulieren en toelichtingsbrochure aan instellingen – 1 maart uiterste datum waarop de formulieren door het Ministerie van OCW moeten zijn ontvangen – 1 juni uiterste datum terugmelding geregistreerde gegevens aan instellingen  
+* uiterlijk 15 december de gegevens over augustus, september en oktober  
 
-####Personele gegevens
+* uiterlijk 15 maart de gegevens over november, december en januari.   In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie in de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na deze kalendermaand administratief zijn verwerkt, moeten niet in de gegevenslevering worden verwerkt. Een deel van de gegevens over een peilmaand wordt in de regel pas enige tijd na het eind van die peilmaand administratief verwerkt. Gegevens die binnen een kalendermaand na afloop van de peilmaand worden verwerkt en van invloed zijn op de situatie in de peilmaand, moeten ook in de gegevenslevering over de peilmaand zijn verwerkt (een maand terugwerkende kracht mutaties). De over de peilmaand januari te leveren gegevens moeten dus de situatie van januari weergeven zoals die op basis van de op 1 maart beschikbare informatie hoort te zijn. Gegevens die later dan een kalendermaand na het einde van de peilmaand beschikbaar komen, worden niet in deze gegevensleveringen verwerkt. De manier van verwerken van terugwerkende kracht mutaties is vooral van belang voor de levering van de gegevens over loon, toelagen en kortingen. OCW en DUO hanteren hierbij het loon-over-principe. Alle correcties die na afloop van een peilmaand plaatsvinden op de financiële gegevens van die peilmaand moeten verwerkt worden in de te leveren gegevens over de peilmaand. Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1 t/m 2.4 van bijlage 1: 
 
-Tabel 1: Soort aanstelling en maximum schaal bij functie 
+* onderdeel persoon  
 
-| Tabel  | Functiecategorie  | Geslacht  | Soort aanstelling  | Max. schaal  | Aantal personen  | Aantal FTE's  |
-|:---|:---|:---|:---|:---|:---|:---|
-| 1  | 9  | 9  | 9  | 99  | 9999  | 9999,99  |
-| --- | --- | --- | --- | --- | --- | --- |
+* onderdeel arbeidsrelatie  
 
-Tabel 2: Leeftijd en betrekkingsomvang 
+* onderdeel loon, toelagen en korting  
 
-| Tabel  | Functiecategorie  | Geslacht  | Leeftijd  | Betrekkingsomvang  | Aantal personen  | Aantal FTE's  |
-|:---|:---|:---|:---|:---|:---|:---|
-| 2  | 9  | 9  | 99  | 9,99  | 9999  | 9999,99  |
-| --- | --- | --- | --- | --- | --- | --- |
+* onderdeel verlofgegevens   dient/dienen één keer per jaar volledig en correct geleverd te worden en wel uiterlijk op 15 maart van het jaar volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).  
 
-Tabel 3: Duur van de aanstelling en einde dienstverband 
+### 2  
 
-| Tabel  | Functiecategorie  | Geslacht  | Jaar van indiensttreding  | Einde dienstverband  | Aantal personen  | Aantal FTE's  |
-|:---|:---|:---|:---|:---|:---|:---|
-| 3  | 9  | 9  | 99  | 9  | 9999  | 9999,99  |
-| --- | --- | --- | --- | --- | --- | --- |
+####Wijze van aanlevering
 
-Tabel 4: Inschaling, maximum schaal bij de functie en duur van de aanstelling 
+De aanlevering van de gegevens in de genoemde onderdelen geschiedt elektronisch. De gegevens uit tabel 2.1 worden aangeleverd bij DUO-Groningen, de gegevens uit de tabellen 2.2, 2.3 en 2.4 worden aangeleverd bij DUO-Zoetermeer. De gegevens, vermeld in de tabellen 2.1, 2.2, 2.3 en 2.4 uit bijlage 1, worden op één van de volgende manieren aangeleverd: 
 
-| Tabel  | Functiecategorie  | Geslacht  | Jaar van indiensttreding  | Inschaling  | Max. schaal bij functie  | Aantal personen  | Aantal FTE's  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
-| 4  | 9  | 9  | 99  | 9999  | 99  | 9999  | 9999,99  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+* op cd-rom. De gegevens worden gecomprimeerd (gezipt) en voorzien van een wachtwoord naar cd-rom weggeschreven. De cd-rom wordt per koerier afgeleverd bij DUO.  
 
-Tabel 5: BAPO 
-
-| Tabel  | Functiecategorie  | Geslacht  | Leeftijd  | Inschaling  | Betrekkingsomvang  | BAPO  | Aantal personen  | Aantal FTE's  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 5  | 9  | 9  | 99  | 9999  | 9,99  | 9,99  | 9999  | 9999,99  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-Tabel 6: FPU 
-
-| Tabel  | Functiecategorie  | Geslacht  | Leeftijd  | Inschaling  | Betrekkingsomvang  | FPU  | Aantal personen  | Aantal FTE's  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 6  | 9  | 9  | 99  | 9999  | 9,99  | 9,99  | 9999  | 9999,99  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-Tabel 7: Salaris-garantie 
-
-| Tabel  | Functiecategorie  | Geslacht  | Leeftijd  | Inschaling  | Betrekkingsomvang  | Salarisgarantie  | Aantal personen  | Aantal FTE's  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 7  | 9  | 9  | 99  | 9999  | 9,99  | 999999  | 9999  | 9999,99  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-####Toelichting
-
-Er zijn 7 tabellen gedefinieerd die de instellingen moeten leveren. Deze tabellen leveren informatie betreffende aantallen personen met een bepaalde combinatie van kenmerken die op 1 oktober van het jaar bij een instelling in dienst zijn en de totale betrekkingsomvang die zij vertegenwoordigen. Hierop is één uitzondering: tabel 3 heeft betrekking op personeel dat in het afgelopen studiejaar uit dienst is getreden. Deze tabellen moeten op 1 maart van het jaar volgend op het jaar waarop de gegevens betrekking hebben bij het ministerie binnen zijn. De tabellen zijn opgebouwd uit regels, die elk weer zijn opgebouwd uit gegevens, die we hier items noemen. Het eerste item is steeds de tabelcode (1–7). Daarop volgen gegevens die de selectie van de personen definiëren. Deze gegevens bepalen in combinatie welke personen er geteld worden. Daarop volgt het item Aantal personen, dat het resultaat geeft van deze selectie. Het item Aantal FTE's tenslotte geeft de totale betrekkingsomvang van deze personen, uitgedrukt in fte's (aantal normbetrekkingen). Voor deze tabellen worden de volgende eenheden gebruikt:  
-
-| --- | --- |
-|:---|:---|
-| leeftijd:  | jaar (afgerond naar dichtstbijzijnde gehele getal), berekend uit geboortedatum en peildatum  |
-| betrekkingsomvang:  | 0,1 normbetrekking  |
-| FPU, BAPO  | 0,01 normbetrekking  |
-
-Aantal FTE's is de totale betrekkingsomvang van alle geselecteerde personen met een bepaalde combinatie, uitgedrukt in gehele normbetrekkingen. Het aantal *negen's* geeft de lengte van het betreffende veld aan (dus niet het type). Ook is de plaats van de komma aangegeven. Alleen de laatste twee kolommen bevatten telgegevens : het aantal FTE's en daarbij betrokken personen. De overige kolommen bevatten alleen de «identificerende» gegevens t.b.v. de genoemde aantallen. Het nummer van de tabel wordt bij bestandsmatige levering in elke regel ingevuld : ook dit is een identificerend gegeven. Tabelregels met *zowel* aantal FTE's *én* aantal personen gelijk aan NUL behoeven niet te worden ingevuld/geëxporteerd.  
+* op een beveiligde en afgeschermde locatie op de server van de leverancier. De gegevens worden door de leverancier gecomprimeerd en voorzien van een wachtwoord op deze locatie geplaatst. Hierna ontvangt DUO per e-mail bericht dat de gegevens beschikbaar zijn waarna DUO deze gegevens gedurende minimaal 2 en maximaal 4 weken via een beveiligde internetverbinding kan ophalen. DUO meldt aan de leveranciers aan wie de e-mail gericht moet worden en welke medewerkers geautoriseerd dienen te worden om de gegevens van de server op te halen. DUO meldt aan de leverancier de ontvangst van de e-mail en meldt terug wanneer de gegevens zijn opgehaald.   Het bestandsformaat is CSV, waarbij de velden worden gescheiden door een puntkomma. De eerste regel van elk bestand bevat de veldnamen. Tekstvelden worden voorafgegaan en afgesloten door een enkele quote ('). In de gegevensleveringen mogen geen datumvelden voorkomen; data worden geleverd als numerieke velden van het formaat N8 (JJJJMMDD), N6 (JJJJMM) of N4 (JJJJ). Het aantal posities van numerieke velden is opgegeven exclusief de positie van het decimaalteken. Als decimaalteken dient de komma gebruikt te worden. Een veld met de specificatie N5 is een geheel getal met 5 posities (12345); een veld met de specificatie N6,2 is een veld met 8 posities: 6 cijfers voor het decimaalteken en 2 achter het decimaalteken (bijvoorbeeld 123456,78). Er mag geen scheidingsteken tussen duizendtallen worden gebruikt. Waarden van alfanumerieke velden die in paragraaf 2.4 staan genoemd, dienen exact zo worden overgenomen (hoofdletters als hoofdletters, kleine letters als kleine letters). Indien het veld meer posities heeft dan de waarde, dan moet links worden uitgelijnd (wel «LA» of «LA », niet « LA»); het veld mag dus niet worden opgevuld door spaties voor de waarde te plaatsen. Bovenstaande procedures gelden zowel voor de bestanden over een peilmaand als voor de bestanden over een peiljaar. Indien bij de levering gegevens uit verschillende onderdelen in één bestand worden geleverd, dan worden de koppelvelden (de velden die in elk van de samengevoegde onderdelen worden genoemd) maar één keer opgenomen. De verantwoordelijkheid voor volledigheid, juistheid en tijdigheid van de leveringen berust bij het bevoegd gezag.  
 
 ### Bijlage  6  
 
-####Modellen van formulieren kenniscentra beroepsonderwijs bedrijfsleven bij hoofdstuk 5, informatie, van het Uitvoeringsbesluit WEB
+####Modellen van formulieren kenniscentra beroepsonderwijs bedrijfsleven bij hoofdstuk 5 , informatie, van het Uitvoeringsbesluit WEB
 
 ### Overzicht nummer 1  
 
@@ -1430,7 +1430,7 @@ Aantal FTE's is de totale betrekkingsomvang van alle geselecteerde personen met 
 
 ####Instellingen
 
-– kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b2, van de wet.  
+– kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b1, van de wet.  
 
 ####Termijnen
 

@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Voor de toepassing van de [Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de [Wet werk en inkomen kunstenaars](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): 
+1.  Voor de toepassing van de [Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): 
 
 a. voor de beëindiging van dit verblijf een aanvraag heeft ingediend om voortgezette toelating, of  
 
@@ -28,7 +28,7 @@ b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting ingevolge d
 
 ### Artikel  1a  
 
-Dit besluit berust mede op [artikel 11, derde lid, van de Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 2, derde lid, van de Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) en [artikel 10, tweede lid, van de Wet werk en inkomen kunstenaars](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).  
+Dit besluit berust mede op [artikel 11, derde lid, van de Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [artikel 2, derde lid, van de Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).  
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit gelijkstelling vreemdelingen WWB, WIJ, IOAW, IOAZ en WWIK.  
+Dit besluit wordt aangehaald als: Besluit gelijkstelling vreemdelingen WWB, WIJ, IOAW en IOAZ.  
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

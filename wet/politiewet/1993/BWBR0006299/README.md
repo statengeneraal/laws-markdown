@@ -765,7 +765,7 @@ Enschede, Almelo, Borne, Dinkelland, Haaksbergen, Hellendoorn, Hengelo, Hof van 
 
 ####Noord-Holland-Noord
 
-*Alkmaar*  Anna Paulowna Bergen Castricum Den Helder Drechterland Enkhuizen Graft-De Rijp Harenkarspel Heerhugowaard Heiloo Hoorn Koggenland Langedijk Medemblik Niedorp Opmeer Schagen Schermer Stede Broec Texel Wieringen Wieringermeer Zijpe  
+*Alkmaar*  Bergen Castricum Den Helder Drechterland Enkhuizen Graft-De Rijp Harenkarspel Heerhugowaard Heiloo Hollands Kroon Hoorn Koggenland Langedijk Medemblik Opmeer Schagen Schermer Stede Broec Texel Zijpe  
 
 ####Zaanstreek-Waterland
 

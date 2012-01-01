@@ -35,8 +35,9 @@ Bij uitoefening van bevoegdheden bij of krachtens deze wet wordt de erkenning va
 ### Artikel  2  
 
 1.  Het is verboden zonder vergunning van Onze Minister dierproeven te verrichten.   
-2.  De vergunning geldt, voor wat betreft het verrichten van proeven als in artikel 1, eerste lid, onder *a-d* bedoeld, uitsluitend voor zover de proeven, al dan niet rechtstreeks, gericht zijn op het belang van de gezondheid of de voeding van mens of dier.   
-3.  Indien Onze Minister van oordeel is dat een gewichtig ander belang zulks wettigt, kan hij in de vergunning bepalen dat zij mede geldt voor het verrichten van dierproeven als in artikel 1, eerste lid, onder *a-d* bedoeld, die, al dan niet rechtstreeks, gericht zijn op dat - in de vergunning aan te geven - andere belang.   
+2.  De vergunning geldt, voor wat betreft het verrichten van proeven als in artikel 1, eerste lid, onder a-d bedoeld, uitsluitend voor zover de proeven, al dan niet rechtstreeks, gericht zijn op het belang van de gezondheid of de voeding van mens of dier.   
+3.  Indien Onze Minister van oordeel is dat een gewichtig ander belang zulks wettigt, kan hij in de vergunning bepalen dat zij mede geldt voor het verrichten van dierproeven als in artikel 1, eerste lid, onder a-d bedoeld, die, al dan niet rechtstreeks, gericht zijn op dat - in de vergunning aan te geven - andere belang.   
+4.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid.   
 
 ### Artikel  3  
 
@@ -107,6 +108,7 @@ b. na een negatief advies van de dierexperimentencommissie een positief oordeel 
 6.  De Centrale commissie dierproeven doet van het door haar gegeven oordeel mededeling in de *Staatscourant*; daarbij worden de hoofdzaken vermeld van hetgeen het oordeel bevat met betrekking tot de proef.   
 7.  Indien de voorgenomen proef de vrijlating van het betrokken dier vereist, is het advies onderscheidenlijk het oordeel op dit punt uitsluitend positief indien de dierexperimentencommissie onderscheidenlijk de Centrale commissie dierproeven de zekerheid heeft verkregen dat al het mogelijke wordt gedaan om het welzijn van het dier te waarborgen en dat vrijlating alleen plaats vindt indien de gezondheidstoestand van het dier zulks toelaat en er geen gevaar bestaat voor de volksgezondheid en het milieu.   
 8.  Bij het beoordelen van een voorgenomen proef die wordt verricht op grond van een wettelijke regeling op het gebied van de gezondheid of de veiligheid, erkennen de dierexperimentencommissie en de Centrale commissie dierproeven zoveel mogelijk de gegevens die het resultaat zijn van dierproeven, verricht op het grondgebied van een andere lidstaat van de Europese Unie, tenzij ter vrijwaring van de volksgezondheid of de veiligheid verder onderzoek vereist is.   
+9.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag voor advies, bedoeld in het eerste lid, van een op de voet van artikel 18a erkende dierexperimentencommissies en op een oordeel, bedoeld in het eerste lid, onderdeel b, gevraagd aan de Centrale commissie dierproeven, bedoeld in artikel 18.   
 
 ### Artikel  10b  
 
@@ -119,7 +121,7 @@ Het is verboden een dierproef te verrichten anders dan volgens het onderzoekspla
 
 ### Artikel  10d  
 
-Het is verboden een dierproef te verrichten voor het ontwikkelen van nieuwe danwel het testen van bestaande cosmetica waarvoor regels zijn vastgesteld op grond van de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md).  
+Het is verboden een dierproef te verrichten voor het ontwikkelen van nieuwe danwel het testen van bestaande cosmetica waarvoor regels zijn vastgesteld op grond van de Warenwet.  
 
 ### Artikel  10e  
 
@@ -180,6 +182,7 @@ Hij die dierproeven verricht is verplicht omtrent de verwerving van proefdieren 
 1.  Onze Minister kan voor gevallen, behorende tot bij zijn besluit aangewezen categorieën, vrijstelling verlenen van de in de artikelen 11 en 11 *a* gestelde verboden. Een vrijstelling mag geen betrekking hebben op zwerfhonden, zwerfkatten of uit het wild gevangen dieren met uitzondering van dieren van bij ministeriële regeling aangewezen soorten.   
 2.  Onze Minister kan, in bijzondere gevallen, op daartoe strekkend verzoek ontheffing verlenen van bij de artikelen 9, 10, eerste lid, 11, 11 *a*, derde lid, 12, en 14 gestelde verboden en verplichtingen.   
 3.  De artikelen 4 en 6 zijn van overeenkomstige toepassing.   
+4.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag om een ontheffing als bedoeld in het tweede lid.   
 
 ### Artikel  17  
 
@@ -253,7 +256,7 @@ De leden van de dierexperimentencommissies zijn verplicht tot geheimhouding van 
 
 ### Artikel  24  
 
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde verplichting.  
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij artikel 5:20, eerste lid, van de Algemene wet bestuursrecht gestelde verplichting.  
 
 ### Artikel  25  
 
@@ -263,7 +266,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ### Artikel  26  
 
-Met de opsporing van de in artikel 25 strafbaar gestelde feiten zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de krachtens artikel 20 aangewezen ambtenaren.  
+Met de opsporing van de in artikel 25 strafbaar gestelde feiten zijn, behalve de ambtenaren bedoeld in artikel 141 van het Wetboek van Strafvordering, belast de krachtens artikel 20 aangewezen ambtenaren.  
 
 ### Artikel  27  
 

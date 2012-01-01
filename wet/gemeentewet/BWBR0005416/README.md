@@ -1544,7 +1544,7 @@ Indien het toezicht op de naleving of de opsporing van een overtreding van een v
 5.  Met de camera’s worden uitsluitend beelden gemaakt van een openbare plaats als bedoeld in [artikel 1 van de Wet openbare manifestaties](../../../wet/wet/openbare/manifestaties/BWBR0004318/README.md) en andere bij verordening aan te wijzen plaatsen die voor een ieder toegankelijk zijn.   
 6.  De met de camera’s gemaakte beelden mogen in het belang van de handhaving van de openbare orde worden vastgelegd.   
 7.  De verwerking van de gegevens, bedoeld in het zesde lid, is een verwerking als bedoeld in de [Wet politiegegevens](../../../wet/wet/politiegegevens/BWBR0022463/README.md), met dien verstande dat, in afwijking van het bepaalde in [artikel 8 van die wet](../../../wet/wet/politiegegevens/BWBR0022463/README.md), de vastgelegde beelden na ten hoogste vier weken worden vernietigd en de gegevens, bedoeld in het zesde lid, indien er concrete aanleiding bestaat te vermoeden dat die gegevens noodzakelijk zijn voor de opsporing van een strafbaar feit, ten behoeve van de opsporing van dat strafbare feit kunnen worden verwerkt.   
-8.  Bij of krachtens algemene maatregel van bestuur worden met het oog op de goede uitvoering van het toezicht, bedoeld in het eerste lid, regels gesteld omtrent: 
+8.  Bij of krachtens algemene maatregel van bestuur kunnen met het oog op de goede uitvoering van het toezicht, bedoeld in het eerste lid, regels worden gesteld omtrent: 
 
 a. de vaste camera’s en andere technische hulpmiddelen benodigd voor het toezicht, bedoeld in het eerste lid, en de wijze waarop deze hulpmiddelen worden aangebracht;  
 

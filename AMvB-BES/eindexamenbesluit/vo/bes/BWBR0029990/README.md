@@ -197,6 +197,7 @@ f. vrijgesteld van het sectorwerkstuk, indien reeds eerder een sectorwerkstuk is
 3.  Tot de in het eerste lid bedoelde diploma’s, getuigschriften, certificaten en andere bewijsstukken behoren in elk geval die betreffende het Internationaal Baccalaureaat, het Europees Baccalaureaat en die betreffende het overeenkomstige onderwijs in een lidstaat van de Europese Unie.   
 4.  Indien het College voor examens de gevraagde ontheffing verleent, verstrekt het college de verzoeker een bewijs van ontheffing, en zendt het college aan Onze Minister een afschrift daarvan.   
 5.  Het bewijs van ontheffing vermeldt de gronden van de ontheffing, het tijdstip van het verrichten van de onderwijs- of examenprestatie waarop de ontheffing berust, en gaat in voorkomend geval vergezeld van een verklaring betreffende het in het eerste lid bedoelde onderzoek naar de kennis en vaardigheden van de examenkandidaat, of naar de in het eerste lid bedoelde bewijsstukken.   
+6.  Onze Minister stelt het model van het bewijs van ontheffing vast.   
 
 ### Artikel  10  
 
@@ -635,7 +636,7 @@ g. de eindcijfers voor de examenvakken met inbegrip van het cijfer bepaald op gr
 h. de uitslag van het eindexamen.     
 2.  De directeur reikt op grond van de definitieve uitslag aan elke voor het eindexamen geslaagde kandidaat, daaronder mede begrepen de kandidaat die zijn eindexamen met gunstig gevolg heeft voltooid ten overstaan van het College voor examens, een diploma uit, waarop het profiel of de profielen zijn vermeld die bij de uitslag zijn betrokken. Op het dipoma vmbo is in elk geval de leerweg vermeld die bij de uitslag is betrokken.   
 3.  Indien een kandidaat in meer vakken examen heeft afgelegd dan in de vakken die ten minste samen een eindexamen vormen, worden de vakken die niet bij de bepaling van de uitslag zijn betrokken, op de cijferlijst vermeld, tenzij de kandidaat daartegen bedenkingen heeft geuit.   
-4.   Dit lid is nog niet in werking getreden.    
+4.  Onze Minister stelt het model van de cijferlijst vast.   
 5.  Voor de vermelding op de cijferlijst van vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend bij het eindexamen geldt het volgende: 
 
 a. indien het betreft het eindexamen vwo of het eindexamen havo: 
@@ -684,6 +685,7 @@ c. de kandidaat staat ingeschreven voor atheneum onderwijs.
 1.  Indien de kandidaat een centraal examen of een afsluitend schoolexamen in één of meer vakken heeft afgelegd in het voorlaatste leerjaar en vervolgens de school verlaat zonder het eindexamen te voltooien, verstrekt de directeur hem een voorlopige cijferlijst.   
 2.  Op de voorlopige cijferlijst worden het vak of de vakken waarin de kandidaat centraal examen heeft afgelegd vermeld, alsmede het cijfer van het schoolexamen, het cijfer van het centraal examen en het eindcijfer, met de aantekening of gebruik is gemaakt van de herkansingsmogelijkheid.   
 3.  Indien de kandidaat een afsluitend schoolexamen heeft afgelegd wordt de beoordeling of het cijfer daarvan vermeld op de voorlopige cijferlijst.   
+4.  Onze Minister stelt het model van de voorlopige cijferlijst vast.   
 
 ### Artikel  41  
 
@@ -710,6 +712,7 @@ c. voor het vmbo het thema van het sectorwerkstuk, voor zover beoordeeld met «g
 a. het vak of de vakken waarvoor de kandidaat een eindcijfer 6 of meer heeft behaald, en  
 
 b. het thema van het sectorwerkstuk, voor zover beoordeeld met «goed» of voldoende».     
+4.  Onze Minister stelt het model van het certificaat en de cijferlijst vast.   
 
 ### Artikel  42  
 

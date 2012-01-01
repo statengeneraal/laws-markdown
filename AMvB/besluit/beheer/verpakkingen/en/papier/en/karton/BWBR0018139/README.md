@@ -93,7 +93,7 @@ d. het ontstaan van zwerfafval zoveel mogelijk wordt voorkomen.
 1.  De producent of importeur draagt er zorg voor dat per kalenderjaar, van het totaal van de door hem in Nederland in het voorafgaande kalenderjaar aan een ander ter beschikking gestelde hoeveelheid verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich in dat kalenderjaar heeft ontdaan, ten minste 75 gewichtsprocent nuttig wordt toegepast en 70 gewichtsprocent als materiaal wordt hergebruikt.   
 2.  De producent of importeur draagt er zorg voor dat per kalenderjaar, van het totaal van de door hem in Nederland in het voorafgaande kalenderjaar aan een ander ter beschikking gestelde hoeveelheid verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich in dat kalenderjaar heeft ontdaan: 
 
-a. van de kunststofverpakkingen, ten minste 45 gewichtsprocent nuttig wordt toegepast en ten minste 38 gewichtsprocent als materiaal wordt hergebruikt;  
+a. van de kunststofverpakkingen, ten minste 45 gewichtsprocent nuttig wordt toegepast en ten minste 42 gewichtsprocent als materiaal wordt hergebruikt;  
 
 b. van de overige materiaalsoorten, ten minste de volgende gewichtspercentages nuttig worden toegepast door deze als materiaal te hergebruiken: 
 

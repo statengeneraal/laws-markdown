@@ -327,14 +327,14 @@ De werkelijke kosten, bedoeld in artikel 5, eerste lid, van het besluit zijn de 
 
 a. voor bij de veehouder gestorven dieren, de tarieven zoals opgenomen in bijlage 1 bij deze regeling;  
 
-b. voor bloed: de tarieven zoals opgenomen in bijlage 2 bij deze regeling;  
+b. voor bloed, de tarieven zoals opgenomen in bijlage 2 bij deze regeling;  
 
 c. voor broederijafval, zijnde categorie 2-materiaal, de tarieven zoals opgenomen in bijlage 3 bij deze regeling;  
 
-d. voor ander categorie 1-materiaal dan als bedoeld in de onderdelen a en b, de tarieven zoals opgenomen in bijlage 4 bij deze regeling;  
+d. voor ander categorie 1-materiaal dan bedoeld in de onderdelen a en b, de tarieven zoals opgenomen in bijlage 4 bij deze regeling;  
 
-e. voor ander categorie 2-materiaal dan als bedoeld in de onderdelen a, b en c, de tarieven zoals opgenomen in bijlage 5 bij deze regeling.     
-2.  De in het eerste lid en in bijlage 1 tot en met 5 bedoelde tarieven gelden tot 1 januari 2012.   
+e. voor ander categorie 2-materiaal dan bedoeld in de onderdelen a, b, en c, de tarieven zoals opgenomen in bijlage 5 bij deze regeling.     
+2.  De goedkeuring voor de in het eerste lid en in bijlage 1 tot en met 5 bedoelde tarieven geldt tot 1 januari 2013.   
 
 ### Artikel  3.13  
 
@@ -446,25 +446,26 @@ H.Bleker
 
 ####als bedoeld in artikel 3.12, eerste lid, onderdeel a 
 
-Bij de veehouder gestorven dieren, voor zover het betreft categorie 1-materiaal of categorie 2-materiaal als bedoeld in artikel 8, respectievelijk artikel 9, eerste lid, onderdelen b tot en met g, van verordening (EG) nr. 1069/2010.  *Transport:*  Voor de eerste 7 stops geldt een ophaaltarief per stop van € 35,82 (excl. BTW), voor daaropvolgende stops per stop € 11,20 (excl. BTW).  Verwerkingstarieven (in € excl. BTW) 
+Bij de veehouder gestorven dieren, voor zover het betreft categorie 1-materiaal of categorie 2-materiaal als bedoeld in artikel 8 en artikel 9 van verordening (EG) nr. 1069/2010.  *Stoptarieven*  Het ophaaltarief bedraagt per stop € 17,60 (excl. BTW). Voor het ophalen van vaten volgens vooraf gemaakte afspraken op geplande dagen, zoals bedoeld in artikel 3.2, tweede lid, geldt een tarief per stop van € 12,94 (excl. BTW.  Eenheidstarieven (in € excl. BTW) 
 
 | Diersoort  | Eenheid  | Tarief veehouders  |
 |:---|:---|:---|
-| Slachtvarken  | Per dier  | 0,75  |
-| Big  | Per vat max. 200 l.  | 2,34  |
-| Zeug  | Per dier  | 2,81  |
-| Rund > 1 jaar  | Per dier  | 9,35  |
-| Kalf  | Per dier  | 1,31  |
-| Nuka  | Per dier  | 0,75  |
-| Schaap  | Per dier  | 0,75  |
-| Geit  | Per dier  | 0,39  |
-| Lam  | Per vat max. 200 l.  | 2,34  |
-| Paard  | Per dier  | 6,55  |
-| Veulen  | Per dier  | 1,31  |
-| Pony  | Per dier  | 2,99  |
-| Pluimvee  | Per vat max. 200 l.  | 2,34  |
-| Overig  | Per vat max. 200 l.  | 2,34  |
-| Overig  | Per dier  | 2,85  |
+| Slachtvarken  | Per dier  | 1,08  |
+| Big  | Per vat max. 200 l.  | 3,38  |
+| Zeug  | Per dier  | 4,06  |
+| Rund > 1 jaar  | Per dier  | 13,53  |
+| Kalf  | Per dier  | 1,89  |
+| Nuka  | Per dier  | 1,08  |
+| Schaap  | Per dier  | 1,08  |
+| Schaaplam  | Per vat max. 200 l.  | 3,38  |
+| Geit  | Per dier  | 0,57  |
+| Geitlam  | Per vat max. 200 l.  | 3,38  |
+| Paard  | Per dier  | 9,47  |
+| Veulen  | Per dier  | 1,89  |
+| Pony  | Per dier  | 4,33  |
+| Pluimvee  | Per vat max. 200 l.  | 3,38  |
+| Overig  | Per vat max. 200 l.  | 3,38  |
+| Overig  | Per dier  | 2,33  |
 
 ### Bijlage  2  
 
@@ -472,61 +473,61 @@ Bij de veehouder gestorven dieren, voor zover het betreft categorie 1-materiaal 
 
 Bloed van categorie 1 en 2.  Transport- en verwerkingstarieven (€ excl. BTW) 
 
-| Transport per ton  | Verwerking per ton  | Totaal  per ton  |
-|:---|:---|:---|
-| 25,95  | 29,33  | 55,28  |
+| Transport  | Verwerking  | Totaal  | per ton  | per ton  | per ton  |
+|:---|:---|:---|:---|:---|:---|
+| 25,85  | 25,11  | 50,96  |
 
 ### Bijlage  3  
 
 ####als bedoeld in artikel 3.12, eerste lid, onderdeel c 
 
-Broederijafval van categorie 2.  Transport- en verwerkingstarieven (€ excl. BTW) 
+Broederijafval van categorie 2.  Transport- en verwerkingstarieven (€ excl. BTW) 
 
 | Categorie  | Kg per stop  | Transport  | Verwerking  | Totaal  |
 |:---|:---|:---|:---|:---|
 | Kleine leveranciers:  | --- | per stop  | per stop  | per stop  |
-| Klasse 1  | 0–100  | 35,01  | 4,73  | 39,74  |
-| Klasse 2  | 101–200  | 35,01  | 10,40  | 45,40  |
-| Klasse 3  | 201–300  | 35,01  | 17,55  | 52,56  |
-| Klasse 4  | 301–400  | 35,01  | 24,58  | 59,58  |
-| Klasse 5  | 401–500  | 35,01  | 31,54  | 66,55  |
+| Klasse 1  | 0–100  | 29,23  | 4,71  | 33,94  |
+| Klasse 2  | 101–200  | 29,23  | 10,35  | 39,57  |
+| Klasse 3  | 201–300  | 29,23  | 17,47  | 46,70  |
+| Klasse 4  | 301–400  | 29,23  | 24,46  | 53,69  |
+| Klasse 5  | 401–500  | 29,23  | 31,39  | 60,62  |
 | Grote leveranciers:  | --- | per ton  | per ton  | per ton  |
-| Klasse 6  | 501–5.000  | 34,01  | 68,12  | 102,13  |
-| Klasse 7  | > 5.000  | 25,01  | 68,12  | 93,13  |
+| Klasse 6  | 501–5.000  | 28,23  | 67,80  | 96,03  |
+| Klasse 7  | > 5.000  | 19,23  | 67,80  | 87,03  |
 
 ### Bijlage  4  
 
 ####als bedoeld in artikel 3.12, eerste lid, onderdeel d 
 
-Ander materiaal dan bloed of bij de veehouder gestorven dieren, voor zover het betreft categorie 1-materiaal als bedoeld in artikel 8, van verordening (EG) nr. 1069/2010. *Transport- en verwerkingstarieven (*€  *excl. BTW)*  
+Ander materiaal dan bloed of bij de veehouder gestorven dieren, voor zover het betreft categorie 1-materiaal als bedoeld in artikel 8 van verordening (EG) nr. 1069/2010.  Transport- en verwerkingstarieven (€ excl. BTW) 
 
 | Categorie  | Kg per stop  | Transport  | Verwerking  | Totaal  |
 |:---|:---|:---|:---|:---|
 | Kleine leveranciers:  | --- | per stop  | per stop  | per stop  |
-| Klasse 1  | 0–100  | 35,01  | 0,84  | 35,84  |
-| Klasse 2  | 101–200  | 35,01  | 2,45  | 37,46  |
-| Klasse 3  | 201–300  | 35,01  | 4,18  | 39,19  |
-| Klasse 4  | 301–400  | 35,01  | 5,88  | 40,88  |
-| Klasse 5  | 401–500  | 35,01  | 7,51  | 42,51  |
+| Klasse 1  | 0–100  | 29,23  | 0,18  | 29,40  |
+| Klasse 2  | 101–200  | 29,23  | 0,52  | 29,74  |
+| Klasse 3  | 201–300  | 29,23  | 0,88  | 30,11  |
+| Klasse 4  | 301–400  | 29,23  | 1,24  | 30,47  |
+| Klasse 5  | 401–500  | 29,23  | 1,58  | 30,81  |
 | Grote leveranciers:  | --- | per ton  | per ton  | per ton  |
-| Klasse 6  | 501–5.000  | 34,01  | 16,46  | 50,46  |
-| Klasse 7  | > 5.000  | 25,01  | 16,46  | 41,46  |
+| Klasse 6  | 501–5.000  | 28,23  | 3,48  | 31,70  |
+| Klasse 7  | > 5.000  | 19,23  | 3,48  | 22,70  |
 
 ### Bijlage  5  
 
 ####als bedoeld in artikel 3.12, eerste lid, onderdeel e 
 
-Ander materiaal dan bloed of bij de veehouder gestorven dieren, voor zover het betreft categorie 2-materiaal als bedoeld in artikel 9, onderdelen b tot en met g, van verordening (EG) nr. 1069/2009.  Transport- en verwerkingstarieven (€ excl. BTW) 
+Ander materiaal dan bloed of bij de veehouder gestorven dieren, voor zover het betreft categorie 2-materiaal als bedoeld in artikel 9 van verordening (EG) nr. 1069/2009.  Transport- en verwerkingstarieven (€ excl. BTW) 
 
 | Categorie  | Kg per stop  | Transport  | Verwerking  | Totaal  |
 |:---|:---|:---|:---|:---|
 | Kleine leveranciers:  | --- | per stop  | per stop  | per stop  |
-| Klasse 1  | 0–100  | 35,01  | 1,11  | 36,12  |
-| Klasse 2  | 101–200  | 35,01  | 2,64  | 37,65  |
-| Klasse 3  | 201–300  | 35,01  | 4,27  | 39,27  |
-| Klasse 4  | 301–400  | 35,01  | 5,98  | 40,99  |
-| Klasse 5  | 401–500  | 35,01  | 7,74  | 42,75  |
+| Klasse 1  | 0–100  | 29,23  | 0,17  | 29,40  |
+| Klasse 2  | 101–200  | 29,23  | 0,40  | 29,63  |
+| Klasse 3  | 201–300  | 29,23  | 0,65  | 29,88  |
+| Klasse 4  | 301–400  | 29,23  | 0,91  | 30,14  |
+| Klasse 5  | 401–500  | 29,23  | 1,18  | 30,40  |
 | Grote leveranciers:  | --- | per ton  | per ton  | per ton  |
-| Klasse 6  | 501–5.000  | 34,01  | 16,76  | 50,76  |
-| Klasse 7  | > 5.000  | 25,01  | 16,76  | 41,76  |
+| Klasse 6  | 501–5.000  | 28,23  | 2,55  | 30,78  |
+| Klasse 7  | > 5.000  | 19,23  | 2.55  | 21,78  |
 

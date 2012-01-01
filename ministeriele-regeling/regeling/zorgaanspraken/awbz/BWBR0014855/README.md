@@ -31,7 +31,12 @@ f. zorgzwaartepakket: naar aard, inhoud en omvang bij een cliëntprofiel passend
 
 ### Artikel  1a  
 
-De verzekerde die is aangewezen op verblijf als bedoeld in [artikel 9, eerste en tweede lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of op voortgezet verblijf als bedoeld in [artikel 13, tweede lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past.  
+1.  De verzekerde die is aangewezen op verblijf als bedoeld in [artikel 9, eerste en tweede lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of op voortgezet verblijf als bedoeld in [artikel 13, tweede lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past.   
+2.  De verzekerde heeft aanspraak op meer zorg dan waarop hij op grond van het eerste lid aanspraak heeft, voor zover naar het oordeel van de zorgverzekeraar meer zorg nodig is om te voorzien in zijn behoefte aan zorg en: 
+
+a. de verzekerde die is aangewezen op zorgzwaartepakket VG-5, VG-7, VG-8, LG-5, LG-7, ZG-3 auditief, ZG-5 visueel, LVG-4, LVG-5 of SGLVG een behoefte aan zorg heeft die minimaal 25% hoger is dan de in dat zorgzwaartepakket opgenomen zorg, of  
+
+b. de behoefte aan zorg tevens bestaat uit gespecialiseerde epilepsiezorg, chronische invasieve beademing, non-invasieve beademing, klinische intensieve behandeling of niet-strafrechtelijke forensische psychiatrie.     
 
 ### Artikel  2  
 
@@ -157,7 +162,7 @@ Deze regeling wordt aangehaald als: Regeling zorgaanspraken AWBZ.
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-staatssceretaris voornoemd, 
+Staatssceretaris voornoemd, 
 C.Ross-van Dorp   
 
 ### Bijlage  1  
@@ -180,8 +185,47 @@ Bijlage behorende bij artikel 1, onderdelen e en f, van de Regeling zorgaansprak
 ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)
-![251545](http://wetten.overheid.nl/Illustration/251545)
-![251545](http://wetten.overheid.nl/Illustration/251545)
+
+| ZZP 9a VV  | Geriatrische revalidatiezorg  |
+|:---|:---|
+|  *Cliëntprofiel*   |
+| Bij deze cliëntgroep heeft medisch-specialistische diagnostiek/interventie plaatsgevonden waarbij doorgaans sprake is geweest van een opname. In aansluiting op deze interventie is behoefte aan revaliderende behandeling zoals die door (of onder regie van) specialisten ouderengeneeskunde wordt uitgevoerd en die een integrale en multidisciplinaire aanpak vereist in een tijdelijke verblijfssetting (meestal 2–6 maanden) met een therapeutisch leefklimaat. De medisch-specialistische diagnostiek/interventie is afgerond. Naast de aandoening waarvoor de cliënt wordt gerevalideerd heeft de cliënt ook andere problemen in de zin van kwetsbaarheid en comorbiditeit (zoals problemen met de bloedsomloop, psychogeriatrische aandoeningen, het bewegingsapparaat en/of metabole stoornissen), hetgeen leidt tot instabiliteit, complicaties en er kan sprake zijn van een verminderde leer- en trainbaarheid.  De begeleiding bij *sociale redzaamheid* is primair gericht op het weer oppakken van allerlei zaken. De cliënten hebben ten aanzien van de *psychosociale/cognitieve functies* hulp, toezicht en sturing nodig, met name als gevolg van beperkingen op het gebied van concentratie.  Ten aanzien van de *ADL* is in het begin veelal sprake van overname van zorg. In de loop van de tijd neemt deze zorgbehoefte meestal af. Bij de overgang naar huis/beschut wonen met oproepbare wacht is de vereiste advisering en instructie nodig.  Ten aanzien van de *mobiliteit* hebben de cliënten vaak hulp of overname van zorg nodig. Gedurende de verblijfsperiode vermindert de mobiliteitsproblematiek grotendeels.  In het kader van herstel is *verpleegkundige aandacht* nodig, die gedurende de herstelperiode zal afnemen.  Bij deze cliënten is meestal geen sprake van *gedragsproblematiek* of *psychiatrische problematiek*.  De *aard van het begeleidingsdoel* is ontwikkelingsgericht. De behandeldoelen zijn erop gericht, dat de cliënt op verantwoorde wijze zelfstandig kan wonen (thuis of in het verzorgingshuis).  Het *beperkingenbeeld* in het kader van de revalidatie vermindert snel.  De cliënten hebben een tijdelijke behoefte aan (extra) behandeling en zorg, op meerdere momenten per dag. De *zorgverlening* is voortdurend in de nabijheid te leveren. Bij deze cliëntgroep is sprake van een multidisciplinaire inzet van behandelaars, waarbij specialistische deskundigheid op het gebied van ouderengeneeskunde noodzakelijk is.  De *dominante grondslag* is een somatische of soms psychogeriatrische ziekte/aandoening.  |  *Gemiddelde scores beperkingen)*     ![251545](http://wetten.overheid.nl/Illustration/251545)
+|
+| --- |
+|  *Aard van de psychiatrische problematiek*     ![251545](http://wetten.overheid.nl/Illustration/251545)
+|
+| --- |
+|  *Aard van het begeleidingsdoel*     ![251545](http://wetten.overheid.nl/Illustration/251545)
+|
+| --- |
+| --- |
+|  *Functies en tijd per cliënt per week*   |
+|  *Woonzorg*   |  *Dagbesteding*   |  *Behandelaars (BH)*   |  *Totaaltijd*   |
+| Functie  | BG  | PV  | VP  | Is integraal onderdeel van het ZZP.  | Bij de zorgverlening zijn behandelaars betrokken.  | Inclusief dagbesteding: 18,0 tot 22,0 uur  |
+| --- | ja  | ja  | Ja  |
+|  *Verblijfskenmerken*   |
+| Setting: beschermd verblijf.  Nachtdienst: wakende wacht.  Leveringsvoorwaarde: voortdurend in de nabijheid.  |
+
+| ZZP 9b VV  | Herstelgerichte behandeling met verpleging en verzorging  |
+|:---|:---|
+|  *Cliëntprofiel*   |
+| Bij deze cliëntgroep heeft medisch-specialistische diagnostiek/interventie plaatsgevonden waarbij doorgaans sprake is geweest van een opname. Voorafgaand aan de interventie ontvingen (vrijwel) alle cliënten uit deze groep reeds behandeling in combinatie met verblijf. In aansluiting op de interventie is behoefte aan herstelgerichte behandeling die aanvullende integrale en multidisciplinaire aanpak vereist. De medisch-specialistische diagnostiek/interventie is afgerond. Naast de aandoening waarvoor de cliënt (aanvullende) behandeling ontvangt heeft de cliënt ook andere problemen in de zin van kwetsbaarheid en comorbiditeit (zoals problemen met de bloedsomloop, psychogeriatrische aandoeningen, het bewegingsapparaat en/of metabole stoornissen), hetgeen leidt tot instabiliteit, complicaties en verminderde leer- en trainbaarheid. Herstel tot het niveau van functioneren van vóór de acute aandoening wordt nagestreefd.  Aanvullend op de herstelgerichte behandeling kan functionele diagnostiek noodzakelijk zijn. Deze aanvullende functionele diagnostiek is vooral gericht op het beperkingenniveau van de cliënt, het onderzoeken welke behandeldoelen haalbaar zijn en het onderzoeken van behandelmogelijkheden (verbeteren van het functioneren van de verzekerde voor zover mogelijk, voorkomen van verergering van beperkingen en het zo lang mogelijk handhaven van zelfstandigheid).  De cliënten hebben ten aanzien van *sociale redzaamheid* op alle aspecten in ieder geval hulp en vaak overname van zorg nodig. Er is bij deze cliënten sprake van vergaand verlies van zelfregie. Er kan sprake zijn van zwerfgedrag. De cliënten hebben geen grip meer op hun eigen doen en laten.  Cliënten hebben ten aanzien van de verschillende *psychosociale/cognitieve functies* continu hulp, toezicht en sturing nodig, omdat de cliënten veel beperkingen hebben met betrekking tot oriëntatie, concentratie, geheugen en denken. Er is vaak sprake van desoriëntatie naar tijd, plaats en persoon.  Ten aanzien van *ADL* hebben cliënten op alle aspecten hulp of overname van zorg nodig, waaronder eten en drinken, kleine verzorgingstaken, de persoonlijke zorg voor tanden, haren, nagels en huid, de toiletgang, het wassen en kleden.  Ten aanzien van *mobiliteit* hebben de cliënten vaak hulp of overname van zorg nodig. Gedurende de verblijfsperiode vermindert de mobiliteitsproblematiek substantieel.  In het kader van herstel is *verpleegkundige aandacht* nodig.  De cliënten kunnen soms gedragproblematiek vertonen. Dit betreft met name dwangmatig gedrag, ongecontroleerd/ontremd gedrag of reactief gedrag met betrekking tot interactie.  Meestal is geen sprake van *psychiatrische problematiek.*  De aard van het *begeleidingsdoel* is veelal gericht op stabilisatie, soms op ontwikkeling of begeleiding bij achteruitgang.  Het *beperkingenbeeld* van de cliënt verandert langzaam.  De cliënten hebben een tijdelijke behoefte (2-6 maanden)aan extra behandeling en zorg, op meerdere momenten per dag. De *zorgverlening* is voortdurend in de nabijheid te leveren. Bij deze cliëntgroep is sprake van een multidisciplinaire inzet van behandelaars, waarbij specialistische deskundigheid op het gebied van ouderengeneeskunde noodzakelijk is.  De *dominante grondslag* is meestal een somatische of psychogeriatrische ziekte/ aandoening.  |  *Gemiddelde scores beperkingen*     ![251545](http://wetten.overheid.nl/Illustration/251545)
+|
+| --- |
+|  *Aard van de psychiatrische problematiek*     ![251545](http://wetten.overheid.nl/Illustration/251545)
+|
+| --- |
+|  *Aard van het begeleidingsdoel*     ![251545](http://wetten.overheid.nl/Illustration/251545)
+|
+| --- |
+| --- |
+|  *Functies en tijd per cliënt per week*   |
+|  *Woonzorg*   |  *Dagbesteding*   |  *Behandelaars (BH)*   |  *Totaaltijd*   |
+| Functie  | BG  | PV  | VP  | Is integraal onderdeel van het ZZP.  | Bij de zorgverlening zijn behandelaars betrokken.  | Inclusief dagbesteding: 18,0 tot 22,0 uur  |
+| --- | ja  | Ja  | Ja  |
+|  *Verblijfskenmerken*   |
+| Setting: beschermd verblijf.  Nachtdienst: wakende wacht.  Leveringsvoorwaarde: voortdurend in de nabijheid.  |
+
 ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)
 ![251545](http://wetten.overheid.nl/Illustration/251545)

@@ -205,7 +205,7 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized ther
 
 ### CHAPTER  I  
 
-####- REGULATIONS COMMON TO ALL SYSTEMS OF APPROVAL
+####REGULATIONS COMMON TO ALL SYSTEMS OF APPROVAL
 
 ### Regulation  1  
 
@@ -228,7 +228,7 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized ther
 (a) The Plate shall contain the following information in at least the English or French language: “CSC SAFETY APPROVAL” Country of approval and approval reference Date (month and year) of manufacture Manufacturer's identification number of the container or, in the case of existing containers for which that number is unknown, the number allotted by the Administration Maximum operating gross weight (kilogrammes and lbs) Allowable stacking weight for 1.8 g (kilogrammes and lbs) Transverse racking test load value (kilogrammes and lbs)  
 
 (b) A blank space should be reserved on the Plate for insertion of end-wall and/or side-wall strength values (factors) in accordance with paragraph 3 of this Regulation and Annex II, tests 6 and 7. A blank space should also be reserved on the Plate for the first and subsequent maintenance examination dates (month and year) when used.     
-3.  Where the Administration considers that a new container satisfies the requirements of the present Convention in respect of safety and if, for such container, the end-wall and/or side-wall strenght values (factor) are designed to be greater or less than those stipulated in Annex II, such values shall be indicated on the Safety Approval Plate.   
+3.  Where the Administration considers that a new container satisfies the requirements of the present Convention in respect of safety and if, for such container, the end-wall and/or side-wall strenght values (factor) are designed to be greater or less than those stipulated in Annex II, such values shall be indicated on the Safety Approval Plate. Where the stacking or racking values are less than 192,000 kg or 150 kN, respectively, the container shall be considered as having limited stacking or racking capacity and shall be conspicuously marked, as required under the relevant standards . <sup> *  Refer to standard ISO 6346, Freight containers – Coding, identification and marking.  </sup>   
 4.  The presence of the Safety Approval Plate does not remove the necessity of displaying such labels or other information as may be required by other regulations which may be in force.   
 
 ### Regulation  2  
@@ -252,7 +252,38 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized ther
 (b) To indicate that the container is operated under an approved continuous examination programme, a mark showing the letters “ACEP” and the identification of the Contracting Party which has granted approval of the programme shall be displayed on the container on or as close as practicable to the Safety Approval Plate.  
 
 (c) All examinations performed under such a programme shall determine whether a container has any defects which could place any person in danger. They shall be performed in connexion with a major repair, refurbishment, or on-hire/off-hire interchange and in no case less than once every 30 months.     
-4.  For the purpose of this Regulation “the Contracting Party concerned” is the Contracting Party of the territory in which the owner is domiciled or has his head office. However, in the event that the owner is domiciled or has his head office in a country the government of which has not yet made arrangements for prescribing or approving an examination scheme and until such time as the arrangements have been made the owner may use the procedure prescribed or approved by the Administration of a Contracting Party which is prepared to act as “the Contracting Party concerned”. The owner shall comply with the conditions for the use of such procedures set by the Administration in question.   
+4.  As a minimum, approved programmes should be reviewed once every 10 years to ensure their continued viability. In order to ensure uniformity by all involved in the inspection of containers and their ongoing operational safety, the Contracting Party concerned shall ensure the following elements are covered in each prescribed periodic or approved continuous examination programme: 
+
+.1 methods, scope and criteria to be used during examinations;  
+
+.2 frequency of examinations;  
+
+.3 qualifications of personnel to carry out examinations;  
+
+.4 system of keeping records and documents that will capture: 
+
+.1 the owner’s unique serial number of the container;  
+
+.2 the date on which the examination was carried out;  
+
+.3 identification of the competent person who carried out the examination;  
+
+.4 the name and location of the organization where the examination was carried out;  
+
+.5 the results of the examination; and  
+
+.6 in the case of a Periodic Examination Scheme (PES), the Next Examination Date (NED);    
+
+.5 a system for recording and updating the identification numbers of all containers covered by the appropriate examination scheme;  
+
+.6 methods and systems for maintenance criteria that addresses the design characteristics of the specific containers;  
+
+.7 provisions for maintaining leased containers if different than those used for owned containers; and  
+
+.8 conditions and procedures for adding containers into an already approved programme.     
+5.  The Contracting Party shall carry out periodic audits of approved programmes to ensure compliance with the provisions approved by the Contracting Party. The Contracting Party shall withdraw any approval when the conditions of approval are no longer complied with.   
+6.  For the purpose of this Regulation “the Contracting Party concerned” is the Contracting Party of the territory in which the owner is domiciled or has his head office. However, in the event that the owner is domiciled or has his head office in a country the government of which has not yet made arrangements for prescribing or approving an examination scheme and until such time as the arrangements have been made the owner may use the procedure prescribed or approved by the Administration of a Contracting Party which is prepared to act as “the Contracting Party concerned”. The owner shall comply with the conditions for the use of such procedures set by the Administration in question.   
+7.  Administrations shall make information on approved Continuous Examination Programmes publicly available.   
 
 ### CHAPTER  II  
 
@@ -369,7 +400,7 @@ The owner of an approved container that has been modified in a manner resulting 
 
 ### Appendix  
 
-The Safety Approval Plate, conforming to the model reproduced below, shall take the form of a permanent, non-corrosive, fire-proof rectangular plate measuring not less than 200 mm by 100 mm. The words “CSC Safety Approval” of a minimum letter height of 8 mm and all other words and numbers of a minimum height of 5 mm shall be stamped into, embossed on or indicated on the surface of the Plate in any other permanent and legible way.   ![10000051547](http://wetten.overheid.nl/Illustration/10000051547)
+The Safety Approval Plate, conforming to the model reproduced below, shall take the form of a permanent, non-corrosive, fire-proof rectangular plate measuring not less than 200 mm by 100 mm. The words “CSC Safety Approval” of a minimum letter height of 8 mm and all other words and numbers of a minimum height of 5 mm shall be stamped into, embossed on or indicated on the surface of the Plate in any other permanent and legible way.   ![]()
 
 1. County of Approval and Approval Reference as given in the example on line 1. (The country of Approval should be indicated by means of the distinguishing sign used to indicate country of registration of motor vehicles in international road traffic).  
 
@@ -387,7 +418,11 @@ The Safety Approval Plate, conforming to the model reproduced below, shall take 
 
 8. Side Wall Strength to be indicated on plate only if the side walls are designed to withstand a load of less or greater than 0.6 times the maximum permissible payload, i.e. 0.6 P.  
 
-9. First maintenance examination date (month and year) for new containers and subsequent maintenance examination dates (month and year) if plate used for this purpose.     
+9. First maintenance examination date (month and year) for new containers and subsequent maintenance examination dates (month and year) if plate used for this purpose.  
+
+10. One door off stacking strength to be indicated on plate only if the container is approved for one door off operation. The marking shall show: ALLOWABLE STACKING MASS ONE DOOR OFF FOR 1.8 g (… kg … lbs). This marking shall be displayed immediately near the racking test value (see line 5).  
+
+11. One door off racking strength to be indicated on plate only if the container is approved for one door off operation. The marking shall show: RACKING TEST LOAD VALUE ONE DOOR OFF (… kg … lbs). This marking shall be displayed immediately near the stacking test value (see line 6).     
 
 ### Annex  II  
 
@@ -410,7 +445,7 @@ In setting the requirements of this Annex, it is implicit that in all phases of 
 Where appropriate to the design of the container, the following test loads and test procedures shall be applied to all kinds of containers under test:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | TEST LOADINGS AND APPLIED FORCES  | TEST PROCEDURES  |
 | 1. LIFTING  |
 | The container, having the prescribed internal loading, shall be lifted in such a way that no significant acceleration forces are applied. After lifting, the container shall be suspended or supported for five minutes and then lowered to the ground.  | --- |
@@ -419,7 +454,7 @@ Where appropriate to the design of the container, the following test loads and t
 | A uniformly distributed load such that the combined weight of container and test load is equal to 2R. In the case of a tank-container, when the test weight of the internal load plus the tare weight is less than 2R, a supplementary load distributed over the length of the tank is to be applied to the container.  | Containers greater than 3,000 mm (10 ft.) (nominal) in length shall have lifting forces applied vertically at all four top corner fittings.  |
 | --- | Containers of 3,000 mm (10 ft.) (nominal) in length nor less shall have lifting forces applied at all four top corner fittings, in such a way that the angle between each lifting device and the vertical shall be 30°.  |
 |  *Externally applied forces:*   | (ii) *Lifting from bottom corner fittings:*  |
-| Such as to lift the combined weight of 2R in the manner prescribed (under the heading TEST PROCEDURES).  | Containers shall have lifting forces applied in such a manner that the lifting devices bear on the bottom corner fittings only. The lifting forces shall be applied at angles to the horizontal of:  30° for containers of length 12,000 mm (40 ft.) (nominal) or greater;  37° for containers of length 9,000 mm (30 ft.) (nominal) and up to but not including 12,000 mm (40 ft.) (nominal);  45° for containers of length 6,000 mm (20 ft.) (nominal) and up to but not including 9,000 mm (30 ft.) (nominal) ;  60° for containers of less than 6,000 mm (20 ft.) (nominal).  |
+| Such as to lift the combined weight of 2R in the manner prescribed (under the heading TEST PROCEDURES).  | Containers shall have lifting forces applied in such a manner that the lifting devices bear on the bottom corner fittings only. The lifting forces shall be applied at angles to the horizontal of:  30° for containers of length 12,000 mm (40 ft.) (nominal) or greater;  37° for containers of length 9,000 mm (30 ft.) (nominal) and up to but not including 12,000 mm (40 ft.) (nominal);  45° for containers of length 6,000 mm (20 ft.) (nominal) and up to but not including 9,000 mm (30 ft.) (nominal);  60° for containers of less than 6,000 mm (20 ft.) (nominal).  |
 |  *(B) LIFTING BY ANY OTHER ADDITIONAL METHODS*   |
 |  *Internal loading:*   | (i) *Lifting from fork lift pockets:*  |
 | A uniformly distributed load such that the combined weight of container and test load is equal to 1.25 R. In the case of a tank-container, when the test weight of the internal load plus the tare weight is less than 1.25R, a supplementary load distributed over the length of the tank is to be applied to the container.  | The container shall be placed on bars which are in the same horizontal plane, one bar centred within each fork lift pocket which is used for lifting the loaded container. The bars shall be of the same width as the forks intended to be used in the handling, and shall project into the fork pocket 75 per cent of the length of the fork pocket.  |
@@ -437,7 +472,7 @@ Where appropriate to the design of the container, the following test loads and t
 |  *Internal loading:*   | --- |
 | A uniformly distributed load such that the combined weight of container and test load is equal to 1.8 R. Tank containers may be tested in the tare condition.  | The container, having the prescribed INTERNAL LOADING, shall be placed on four level pads which are in turn supported on a rigid horizotal surface, one under each bottom corner fitting or equivalent corner structure. The pads shall be centralized under the fittings and shall be of approximately the same plan dimensions as the fittings.  |
 |  *Externally applied forces:*   | --- |
-| Such as to subject each of the four top corner fittings to a vertical downward force equal to 1 x 1.8 x the allowable superimposed static stacking weight.  | Each EXTERNALLY APPLIED FORCE shall be applied to each of the corner fittings through a corresponding test corner fitting or through a pad of the same plan dimensions. The test corner fitting or pad shall be offset with respect to the top corner fitting of the container by 25 mm (1 in.) laterally and 38 mm (1J in.) longitudinally.  |
+| Such as to subject each of the four top corner fittings to a vertical downward force equal to 1 x 1.8 x the allowable superimposed static stacking weight.  | Each EXTERNALLY APPLIED FORCE shall be applied to each of the corner fittings through a corresponding test corner fitting or through a pad of the same plan dimensions. The test corner fitting or pad shall be offset with respect to the top corner fitting of the container by 25 mm (1 in.) laterally and 38 mm (1½ in.) longitudinally.  |
 | 3. CONCENTRATED LOADS  |
 | --- | (a) ON ROOF  |
 |  *Internal loading:*   | --- |
@@ -475,6 +510,63 @@ Where appropriate to the design of the container, the following test loads and t
 | Such as to subject the inside of a side-wall to a uniformly distributed load of 0.6P or such other load for which the container may be designed.  | The prescribed INTERNAL LOADING shall be applied as follows: Both sides of a container shall be tested except where the sides are identical only one side need be tested. Side-walls shall be tested separately and the reactions to the internal loading shall be confined to the corner fittings or equivalent corner structures. Open topped containers shall be tested in the condition in which they are designed to be operated, for example, with removable top members in position.  |
 |  *Externally applied forces:*   | --- |
 | None.  | --- |
+| 8. ONE DOOR OFF OPERATION  |
+|   1  Containers with one door removed have a significant reduction in their ability to withstand racking loads and, potentially, a reduction in stacking strength. The removal of a door on a container in operation is considered a modification of the container. Containers must be approved for one door off operation. Such approval should be based on test results as set forth below.     2  On successful completion of the stacking test the container may be rated for the allowable superimposed stacking mass, which should be indicated on the Safety Approval Plate immediately below line 5: ALLOWABLE STACKING MASS FOR 1.8 g (kg and lbs) ONE DOOR OFF.     3  On successful completion of the racking test the racking test load should be indicated on the Safety Approval Plate immediately below line 6: RACKING TEST LOAD VALUE (kg and lbs) ONE DOOR OFF.      | --- |
+|  * *Stacking* *   | --- |
+|  *Internal loading:*   | --- |
+| A uniformly distributed load such that the combined mass of the container and test load is equal to 1.8R.  | The test procedures should be as set forth under *2 STACKING*  |
+|  *Externally applied forces:*   | --- |
+| Such as to subject each of the four corner fittings to a vertical downward force equal to 0.25 x 1.8 x the allowable superimposed static stacking mass.  | --- |
+|  * *Transverse racking* *   | --- |
+|  *Internal loading:*   | --- |
+| None.  | The test procedures should be as set forth under *4 TRANSVERSE RACKING*  |
+|  *Externally applied forces:*   | --- |
+| Such as to rack the end structures of the container sideways. The forces shall be equal to those for which the container was designed.  | --- |
+
+### Annex  III  
+
+####Control and verification
+
+1 Introduction Article VI of the Convention refers to the control measures that may be taken by Contracting Parties. Such control should be limited to verifying that the container carries a valid Safety Approval Plate, and an approved continuous examination programme (ACEP) or a valid Next Examination Date (NED) marking, unless there is significant evidence for believing that the condition of the container is such as to create an obvious risk to safety. This Annex provides specifics to enable authorized officers to assess the integrity of structurally sensitive components of containers and to help them decide whether a container is safe to continue in transportation or whether it should be stopped until remedial action has been taken. The criteria given are to be used to make immediate out of service determinations, and should not be used as repair or in-service criteria under a CSC ACEP or a periodic examination scheme.  
+
+2 Control measures Authorized officers should consider the following: 
+
+.1 control should be exercised on those containers that create an obvious risk to safety;  
+
+.2 loaded containers with damages equal to, or in excess of, the criteria set forth below are deemed to place a person in danger. The authorized officer should stop those containers. However, the authorized officer may permit the onward movement of the container, if it is to be moved to its ultimate destination without lifting from its current means of transport;  
+
+.3 empty containers with damages equal to, or in excess of, the criteria set forth below are also deemed to place a person in danger. Empty containers are typically repositioned for repair at an owner-selected depot provided they can be safely moved; this can involve either a domestic or an international move. Any damaged container being repositioned should be handled and transported with due regard to its structural deficiency;  
+
+.4 authorized officers should notify the container owner, lessee or bailee, as appropriate, whenever a container is placed under control;  
+
+.5 the provisions set forth in this Annex are not exhaustive for all types of containers or all possible deficiencies or combination of deficiencies;  
+
+.6 damage to a container may appear serious without creating an obvious risk to safety. Some damage such as holes may infringe customs requirements but may not be structurally significant; and  
+
+.7 major damage may be the result of significant impact which could be caused by improper handling of the container or other containers, or significant movement of the cargo within the container. Therefore, special attention should be given to signs of recent impact damage.    
+
+3 Training of authorized officers The Contracting Party exercising control should ensure that authorized officers tasked to carry out these assessments and control measures receive the necessary training. This training should involve both theoretical and practical instruction.  
+
+4 Structurally sensitive components and definition of serious structural deficiencies in each 
+
+4.1 The following components are structurally sensitive and should be examined for serious deficiencies:  
+
+|  *Structurally sensitive component*   |  *Serious structural deficiency*   |
+|---|---|
+| Top rail  | Local deformation to the rail in excess of 60 mm or separation or cracks or tears in the rail material in excess of 45 mm in length.  Note: On some designs of tank containers the top rail is not a structurally significant component.  |
+| Bottom rail  | Local deformation perpendicular to the rail in excess of 100 mm or separation or cracks or tears in the rail’s material in excess of 75 mm in length.  |
+| Header  | Local deformation to the header in excess of 80 mm or cracks or tears in excess of 80 mm in length.  |
+| Sill  | Local deformation to the sill in excess of 100 mm or cracks or tears in excess of 100 mm in length.  |
+| Corner posts  | Local deformation to the post exceeding 50 mm or tears or cracks in excess of 50 mm in length.  |
+| Corner and intermediate fittings (Castings)  | Missing corner fittings, any through cracks or tears in the fitting, any deformation of the fitting that precludes full engagement of securing or lifting fittings, any deformation of the fitting beyond 5 mm from its original plane, any aperture width greater than 66 mm, any aperture length greater than 127 mm, any reduction in thickness of the plate containing the top aperture that makes it less than 23 mm thick or any weld separation of adjoining components in excess of 50 mm in length.  |
+| Under structure  | Two or more adjacent cross members missing or detached from the bottom rails. Twenty per cent (20%) or more of the total number of cross members are missing or detached.  Note: If onward transportation is permitted, it is essential that detached cross members are precluded from falling free.  |
+| Locking rods  | One or more inner locking rod is non-functional.  Note: Some containers are designed and approved (and so recorded on the CSC Plate) to operate with one door open or removed.  |
+
+4.2 The effect of two or more incidents of damage in the same structurally sensitive component, even though each is less than in the above table, could be equal to, or greater than, the effect of the single damage noted in the table. In such circumstances, the authorized officer may stop the container and seek further guidance from the Contracting Party.  
+
+4.3 For tank containers, the attachment of the shell to the container frame should also be examined for any readily visible serious structural deficiency comparable to that specified in the table. If any such serious structural deficiency is found in any of these attachments, the control officer should stop the container.  
+
+4.4 For platform containers with folding end frames, the end frame locking mechanism and the hinge pins about which the end frame rotates are structurally sensitive and should also be inspected for damage.       
 
 ####Internationale overeenkomst voor veilige containers (CSC)
 
@@ -598,7 +690,7 @@ b) geacht Partij te zijn bij de ongewijzigde Overeenkomst ten aanzien van een Pa
 
 a) Op verzoek van een Overeenkomstsluitende Partij wordt een door haar voorgestelde wijziging in overweging genomen door de Organisatie. Een zodanige wijziging wordt, indien zij wordt aanvaard met een meerderheid van twee derde van hun stem uitbrengende aanwezigen in de Maritieme Veiligheidscommissie van de Organisatie, waarvoor alle Overeenkomstsluitende Partijen zijn uitgenodigd deel te nemen en hun stem uit te brengen, medegedeeld aan alle leden van de Organisatie en alle Overeenkomstsluitende Partijen, ten minste zes maanden voorafgaande aan de overweging van de wijziging door de Algemene Vergadering van de Organisatie. Een Overeenkomstsluitende Partij die geen lid is van de Organisatie is gerechtigd deel te nemen en haar stem uit te brengen wanneer de wijziging door de Algemene Vergadering in overweging wordt genomen.  
 
-b) Indien de wijziging wordt aangenomen door een twee derde meerderheid van de hun stem uitbrengende aanwezigen in de Algemene Vergadering en indien tot een zodanige meerderheid een twee derde meerderheid behoort van de aanwezige en hun stem uitbrengende Overeenkomstsluitende Partijen, wordt zij door de SecretarisGeneraal medegedeeld aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.  
+b) Indien de wijziging wordt aangenomen door een twee derde meerderheid van de hun stem uitbrengende aanwezigen in de Algemene Vergadering en indien tot een zodanige meerderheid een twee derde meerderheid behoort van de aanwezige en hun stem uitbrengende Overeenkomstsluitende Partijen, wordt zij door de Secretaris-Generaal medegedeeld aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.  
 
 c) Een zodanige wijziging wordt van kracht twaalf maanden na de datum waarop zij door twee derde van de Overeenkomstsluitende Partijen is aanvaard. De wijziging wordt van kracht ten aanzien van alle Overeenkomstsluitende Partijen, met uitzondering van die, welke voor haar van kracht worden hebben verklaard dat zij de wijziging niet aanvaarden.     
 3.  Wijziging door een Conferentie: Op verzoek van een Overeenkomstsluitende Partij, waarmee wordt ingestemd door ten minste een derde van de Overeenkomstsluitende Partijen, wordt door de Secretaris-Generaal een Conferentie bijeengeroepen, waarvoor de in artikel VII bedoelde Staten worden uitgenodigd.   
@@ -679,7 +771,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, hiertoe door hun ondersche
 
 ### HOOFDSTUK  I  
 
-####– BEPALINGEN DIE ALLE GOEDKEURINGSSYSTEMEN GEMEEN HEBBEN
+####BEPALINGEN DIE ALLE GOEDKEURINGSSYSTEMEN GEMEEN HEBBEN
 
 ### Bepaling  1  
 
@@ -703,7 +795,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, hiertoe door hun ondersche
 a) De plaat bevat de volgende gegevens in ten minste de Engelse of de Franse taal: „CSC VEILIGHEIDSKEUR” Land waar de goedkeuring is verkregen en goedkeuringsnummer Datum (maand en jaar) van fabricage Door de fabrikant van de container toegewezen identificatienummer of, in het geval van bestaande containers waarvan dat nummer onbekend is, het door de Administratie toegewezen nummer Maximaal brutogewicht (in kg en lb) Toelaatbaar stapelgewicht bij 1,8 g (in kg en lb) Belastingswaarde bij de torsiebeproeving.  
 
 b) Op de plaat dient een ruimte te worden opengelaten voor het noteren van de waarden (factoren) die sterkte van kop- en/of zijwanden aangeven overeenkomstig paragraaf 3 van deze Bepaling en Bijlage II, beproevingen 6 en 7. Op de plaat dient ook een ruimte te worden opengelaten voor de data (maand en jaar) van de eerste en de daarop volgende controles van het onderhoud wanneer de containers in gebruik zijn.     
-3.  Wanneer de Administratie van oordeel is dat een nieuwe container voldoet aan de voorschriften van deze Overeenkomst inzake veiligheid en indien voor zulk een container de ontwerpwaardefactor van de sterkte van kop- en/of zijwanden groter of kleiner is dan die bepaald in Bijlage II, dan dient deze waarde te worden aangegeven op de veiligheidskeurplaat.   
+3.  Wanneer de Administratie van oordeel is dat een nieuwe container voldoet aan de voorschriften van deze Overeenkomst inzake veiligheid en indien voor zulk een container de ontwerpwaardefactor van de sterkte van kop- en/of zijwanden groter of kleiner is dan die bepaald in Bijlage II, dan dient deze waarde te worden aangegeven op de veiligheidskeurplaat. Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen of verminderde bestendigheid bij torsiebelasting te hebben en wordt de container op een in het oog springende plaats gemarkeerd, zoals vereist uit hoofde van de relevante normen . <sup> *  Zie norm ISO 6346, Vrachtcontainers – Codering, identificatie en markering.  </sup>   
 4.  De aanwezigheid van de veiligheidskeurplaat betekent geen ontheffing van de verplichting de containers te voorzien van labels of andere gegevens die door eventueel van kracht zijnde andere voorschriften worden vereist.   
 
 ### Bepaling  2  
@@ -727,7 +819,38 @@ b) Op de plaat dient een ruimte te worden opengelaten voor het noteren van de wa
 (b) Ten einde aan te geven dat de container wordt gebruikt ingevolge een goedgekeurd doorlopend controleprogramma, dient een aanduiding met de letters „ACEP” en het teken van de Overeenkomstsluitende Partij die de goedkeuring van het programma heeft verleend, op de container te worden geplaatst op of zo dicht mogelijk bij de veiligheidskeurplaat.  
 
 (c) Bij alle ingevolge zulk een programma verrichte controles dient te worden vastgesteld of een container gebreken heeft die gevaar voor mensen zouden kunnen opleveren. Deze controles worden verricht in samenhang met omvangrijke herstelwerkzaamheden, opknapbeurten of bij verhuur of na retournering na verhuur en in elk geval ten minste eens in de 30 maanden.     
-4.  Voor de toepassing van deze Bepaling wordt onder „de betrokken Overeenkomstsluitende Partij” verstaan de Overeenkomstsluitende Partij van het grondgebied waar de eigenaar is gevestigd of waar hij zijn hoofdkantoor heeft. Ingeval evenwel de eigenaar is gevestigd of zijn hoofdkantoor heeft in een land waarvan de Regering nog geen regelingen heeft getroffen voor het voorschrijven of goedkeuren van een controleprocedure, kan de eigenaar zolang zulke regelingen nog niet zijn getroffen, gebruik maken van de procedure die is voorgeschreven of goedgekeurd door de Administratie van een Overeenkomstsluitende Partij die bereid is op te treden als „de betrokken Overeenkomstsluitende Partij”. De eigenaar dient te voldoen aan de door de desbetreffende Administratie gestelde voorwaarden voor gebruikmaking van zodanige procedures.   
+4.  Goedgekeurde programma’s dienen ten minste eenmaal per 10 jaar te worden getoetst teneinde te waarborgen dat zij nog steeds actueel zijn. Teneinde uniformiteit te waarborgen bij iedereen die betrokken is bij de inspectie van de containers en hun blijvende operationele veiligheid, waarborgt de betrokken Overeenkomstsluitende Partij dat de volgende elementen worden meegenomen bij elk voorgeschreven programma voor periodieke controle of goedgekeurd programma voor voortdurende controle: 
+
+.1 methoden, reikwijdte en criteria die bij controles moeten worden gehanteerd;  
+
+.2 frequentie van de controles;  
+
+.3 kwalificaties van de medewerkers die de controles uitvoeren;  
+
+.4 systeem voor het bijhouden van bestanden en documenten waarin het volgende staat vermeld: 
+
+.1 het door de eigenaar toegewezen unieke serienummer van de container;  
+
+.2 de datum waarop de controle is uitgevoerd;  
+
+.3 identificatie van de bevoegde persoon die de controle heeft uitgevoerd;  
+
+.4 de naam en de locatie van de organisatie waar de controle is uitgevoerd;  
+
+.5 de resultaten van de controle; en  
+
+.6 in geval van een schema voor periodieke controles (PES) de datum van de eerstvolgende controle (NED);    
+
+.5 een systeem voor het vastleggen en actualiseren van de identificatienummers van alle containers die onder het toepasselijke controleschema vallen;  
+
+.6 methodes en systemen voor onderhoudscriteria die rekening houden met de ontwerpkenmerken van de specifieke containers;  
+
+.7 bepalingen voor het onderhouden van geleasede containers indien deze afwijken van die voor containers in eigendom; en  
+
+.8 voorwaarden en procedures voor het toevoegen van containers aan een reeds goedgekeurd programma.     
+5.  De Overeenkomstsluitende Partij voert periodieke audits uit van de goedgekeurde programma’s om te waarborgen dat zij voldoen aan de door de Overeenkomstsluitende Partij goedgekeurde bepalingen. De Overeenkomstsluitende Partij trekt haar goedkeuring in wanneer niet langer aan de voorwaarden voor goedkeuring wordt voldaan.   
+6.  Voor de toepassing van deze Bepaling wordt onder „de betrokken Overeenkomstsluitende Partij” verstaan de Overeenkomstsluitende Partij van het grondgebied waar de eigenaar is gevestigd of waar hij zijn hoofdkantoor heeft. Ingeval evenwel de eigenaar is gevestigd of zijn hoofdkantoor heeft in een land waarvan de Regering nog geen regelingen heeft getroffen voor het voorschrijven of goedkeuren van een controleprocedure, kan de eigenaar zolang zulke regelingen nog niet zijn getroffen, gebruik maken van de procedure die is voorgeschreven of goedgekeurd door de Administratie van een Overeenkomstsluitende Partij die bereid is op te treden als „de betrokken Overeenkomstsluitende Partij”. De eigenaar dient te voldoen aan de door de desbetreffende Administratie gestelde voorwaarden voor gebruikmaking van zodanige procedures.   
+7.  Administraties maken de informatie over goedgekeurde programma’s voor voortdurende controles openbaar.   
 
 ### HOOFDSTUK  II  
 
@@ -844,7 +967,7 @@ De eigenaar van een goedgekeurde container die zodanig is gewijzigd dat daardoor
 
 ### Aanhangsel  
 
-De veiligheidskeurplaat overeenkomstig het onderstaand afgebeelde model dient de vorm te hebben van een duurzame, corrosie- en brandbestendige rechthoekige plaat van niet minder dan 200 mm bij 100 mm. De woorden „CSC goedgekeurde veiligheid” met een minimum letterhoogte van 8 mm en alle andere woorden en nummers met een minimum hoogte van 5 mm dienen in het oppervlak van de plaat te worden geslagen, dan wel in reliëf of op een andere duurzame en leesbare manier te zijn aangebracht.   ![10000051547](http://wetten.overheid.nl/Illustration/10000051547)
+De veiligheidskeurplaat overeenkomstig het onderstaand afgebeelde model dient de vorm te hebben van een duurzame, corrosie- en brandbestendige rechthoekige plaat van niet minder dan 200 mm bij 100 mm. De woorden „CSC goedgekeurde veiligheid” met een minimum letterhoogte van 8 mm en alle andere woorden en nummers met een minimum hoogte van 5 mm dienen in het oppervlak van de plaat te worden geslagen, dan wel in reliëf of op een andere duurzame en leesbare manier te zijn aangebracht.   ![]()
 
 1. Land van goedkeuring en goedkeuringsnummer zoals aangeduid in het voorbeeld op regel 1. (Het land van goedkeuring dient te worden aangegeven door middel van het teken gebruikt ter aanduiding van het land van registratie van motorvoertuigen in het internationale wegverkeer).  
 
@@ -862,7 +985,11 @@ De veiligheidskeurplaat overeenkomstig het onderstaand afgebeelde model dient de
 
 8. De zijwandsterkte dient alleen op het merk te worden aangegeven indien de wanden zo zijn ontworpen dat ze een belasting van minder of meer dan 0,6 maal de maximum toelaatbare nuttige belading, d.w.z. 0,6 P kunnen weerstaan.  
 
-9. Datum van eerste onderhoudscontrole (maand en jaar) voor nieuwe containers en volgende data van onderhoudscontrole (maand en jaar) indien de plaat voor dit doel wordt gebruikt.     
+9. Datum van eerste onderhoudscontrole (maand en jaar) voor nieuwe containers en volgende data van onderhoudscontrole (maand en jaar) indien de plaat voor dit doel wordt gebruikt.  
+
+10. De stapelsterkte bij één ontbrekende deur dient alleen op de plaat te worden aangegeven indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt als volgt: TOELAATBAAR STAPELGEWICHT BIJ EEN ONTBREKENDE DEUR BIJ 1,8 g (… kg … lbs). Deze markering wordt vlak naast de waarde van de torsiebeproeving aangegeven (zie regel 5).  
+
+11. De belastingswaarde bij torsiebeproeving bij één ontbrekende deur dient alleen op de plaat te worden aangegeven indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt als volgt: BELASTINGSWAARDE BIJ TORSIEBEPROEVING BIJ EEN ONTBREKENDE DEUR (… kg … lbs). Deze markering wordt vlak naast de waarde van de stapelbeproeving aangegeven (zie regel 6).     
 
 ### Bijlage  II  
 
@@ -885,7 +1012,7 @@ b) de container dient te zijn beladen overeenkomstig de aanbevolen gebruiken van
 Naar gelang het ontwerp van de container zulks toelaat, dienen voor alle te beproeven containers de onderstaande belasting en procedures bij de beproeving te worden gebruikt:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | BEPROEVINGSBELASTING EN TOEGEPASTE KRACHTEN  | BEPROEVINGSPROCEDURES  |
 | 1. HIJSEN  |
 | De container met de voorgeschreven inwendige belasting wordt zodanig opgehesen dat er geen versnellingskrachten van betekenis ontstaan. Na het ophijsen dient de container gedurende vijf minuten te blijven hangen of te worden gesteund en dan neergezet op de grond.  | --- |
@@ -897,7 +1024,7 @@ Naar gelang het ontwerp van de container zulks toelaat, dienen voor alle te bepr
 | --- | 30° voor containers met een lengte van 12.000 mm (40 ft) (nominaal) of meer;  37° voor containers met een lengte van 9000 mm (30 ft) (nominaal) en tot, doch met uitsluiting van, 12.000 mm (40 ft) (nominaal);  45° voor containers met een lengte van 6000 mm (20 ft) (nominaal) en tot, doch met uitsluiting van, 9000 mm (30 ft) (nominaal);  60° voor containers minder dan 6000 mm (20 ft) (nominaal).  |
 |  *(B) HIJSEN VOLGENS ANDERE AANVULLENDE METHODEN*   |
 |  *Inwendige belasting:*   | (i) *Heffen met behulp van lepelsleuven:*  |
-| Een zodanig uniform verdeelde belasting dat het gecombineerde gewicht van de container en de beproevingsbelasting gelijk is aan 1,25 R. Bij een tankcontainer dient, wanneer het proefgewicht van de inwendige belasting te samen met de tarra minder is dan 1,25R een aanvullende belasting verdeeld over de lengte van de tank op de container te worden aangebracht.  | De container dient te worden geplaatst op staven die zich in hetzelfde horizontale vlak bevinden, met een staaf geschoven in elke lepelsleuf die wordt gebruikt voor het heffen van de beladen container.  |
+| Een zodanig uniform verdeelde belasting dat het gecombineerde gewicht van de container en de beproevingsbelasting gelijk is aan 1,25 R. Bij een tankcontainer dient, wanneer het proefgewicht van de inwendige belasting te samen met de tarra minder is dan 1,25 R een aanvullende belasting verdeeld over de lengte van de tank op de container te worden aangebracht.  | De container dient te worden geplaatst op staven die zich in hetzelfde horizontale vlak bevinden, met een staaf geschoven in elke lepelsleuf die wordt gebruikt voor het heffen van de beladen container.  |
 |  *Uitwendige belasting:*   | De staven dienen dezelfde breedte te hebben als de lepels bestemd voor gebruik bij het hanteren van de container en dienen voor 75% van de lengte van de lepelsleuf daarin te steken.  |
 | Zodanig dat het gecombineerde gewicht van 1,25 R wordt opgehesen op de voorgeschreven wijze (onder het hoofd BEPROEVINGSPROCEDURES).  |
 |  *Inwendige belasting:*   | (ii) *Hijsen met behulp van aangrijpingspunten voor hijsarmen:*  |
@@ -948,4 +1075,60 @@ Naar gelang het ontwerp van de container zulks toelaat, dienen voor alle te bepr
 | Zodanig dat de zijwand van binnen wordt onderworpen aan een gelijkmatig verdeelde belasting van 0,6 P of aan zodanige andere belasting waarvoor de container is ontworpen.  | De voorgeschreven inwendige belasting dient als volgt te worden aangebracht: beide zijden van een container dienen te worden beproefd, behalve wanneer de zijden identiek zijn; in dat geval behoeft slechts één zijde te worden beproefd. Zijwanden dienen afzonderlijk te worden beproefd en de reactie van de belasting mag slechts door de hoekstukken of gelijkwaardige hoekstructuren worden opgenomen. Containers zonder vaste bovenafdekking dienen te worden beproefd in de toestand zoals zij zijn ontworpen, bijvoorbeeld met de afneembare bovenbalken op de bestemde plaats aangebracht.  |
 |  *Uitwendige belasting:*   | --- |
 | Geen.  | --- |
+| 8. GEBRUIK MET ÉÉN ONTBREKENDE DEUR  |
+|   1.  Containers waarvan één deur is verwijderd zijn aanzienlijk minder goed bestand tegen belasting door het stapelen van containers en hebben mogelijk een verminderde stapelsterkte. Het verwijderen van een deur van een container die in gebruik is, wordt beschouwd als een wijziging van de container. Containers dienen te worden goedgekeurd voor gebruik met één ontbrekende deur. Deze goedkeuring dient te worden gebaseerd op de onderstaande beproevingsresultaten.     2.  Nadat de stapelbeproeving met succes is voltooid, kan de toelaatbare statische stapelbelasting op de bovenzijde van de container worden bepaald, die op de veiligheidskeurplaat dient te worden aangegeven, vlak onder regel 5: TOELAATBAAR STAPELGEWICHT BIJ 1,8 g (kg en lbs) BIJ ÉÉN ONTBREKENDE DEUR.     3.  Nadat de torsiebeproeving met succes is voltooid, dient de belastingswaarde bij torsiebeproeving op de veiligheidskeurplaat te worden aangegeven, vlak onder regel 6: BELASTINGSWAARDE BIJ TORSIEBEPROEVING (kg en lbs) BIJ ÉÉN ONTBREKENDE DEUR      |
+|  * *Stapelen* *   | --- |
+|  *Inwendige belasting:*   | --- |
+| Een zodanig uniform verdeelde belasting dat de gecombineerde massa van de container en de beproevingsbelasting gelijk is aan 1,8 R.  | De beproevingsprocedures dienen in overeenstemming te zijn met het bepaalde onder 2 STAPELEN.  |
+|  *Uitwendige belasting:*   | --- |
+| Zodanig dat elk van de vier hoekstukken wordt onderworpen aan een verticale neerwaartse kracht gelijk aan 0,25 x 1,8 x de toelaatbare statische stapelbelasting.  | --- |
+|  * *Torsiebeproeving* *   | --- |
+|  *Inwendige belasting:*   | --- |
+| Geen.  | De beproevingsprocedures dienen in overeenstemming te zijn met het bepaalde onder 4 TORSIEBEPROEVING  |
+|  *Uitwendige belasting:*   | --- |
+| Zodanig dat aan de kopstructuren van de containers zijwaarts wordt getrokken en geduwd. De krachten dienen gelijk te zijn aan die waarvoor de container werd ontworpen.  | --- |
 
+### Bijlage  III  
+
+####Controle en verificatie
+
+1. Inleiding In artikel VI van de Overeenkomst wordt verwezen naar de controlemaatregelen die de Overeenkomstsluitende Partijen kunnen nemen. Een dergelijke controle dient beperkt te blijven tot het verifiëren of de container een geldige veiligheidskeurplaat heeft en een goedgekeurd programma voor voortdurende controle (ACEP) of een geldige markering voor de datum van de eerstvolgende controle (NED), tenzij er sterke aanwijzingen zijn om aan te nemen dat de toestand van de container zodanig is dat er een duidelijk risico voor de veiligheid ontstaat. In deze Bijlage worden criteria gegeven die bevoegde functionarissen in staat stellen de integriteit van containeronderdelen met een kwetsbare constructie te beoordelen en hen helpen te beslissen of een container veilig genoeg is om in gebruik te blijven voor vervoer of tegengehouden moet worden totdat er herstelmaatregelen zijn getroffen. De vermelde criteria zijn bedoeld om te kunnen beslissen of een container onmiddellijk uit de roulatie moet worden genomen en dienen niet te worden gebruikt als criteria voor reparatie of in-service criteria uit hoofde van een CSC ACEP of schema voor periodieke controle.  
+
+2 Controlemaatregelen Bevoegde functionarissen dienen het volgende in overweging te nemen: 
+
+.1 controle dient uitsluitend te worden uitgevoerd op containers die een duidelijk risico voor de veiligheid opleveren;  
+
+.2 beladen containers met schade die overeenkomt met of groter is dan de hieronder vermelde criteria worden geacht personen in gevaar te brengen. De bevoegde functionaris dient deze containers tegen te houden. De bevoegde functionaris kan echter toestemming verlenen voor het verdere vervoer van de container indien de container naar de uiteindelijke bestemming wordt vervoerd zonder dat deze uit zijn huidige vervoermiddel wordt getild;  
+
+.3 lege containers met schade die overeenkomt met of groter is dan de hieronder vermelde criteria worden eveneens geacht personen in gevaar te brengen. Lege containers worden doorgaans voor reparatie overgebracht naar een door de eigenaar gekozen depot mits de containers veilig kunnen worden vervoerd; het kan hierbij zowel om binnenlands als internationaal vervoer gaan. Beschadigde containers die naar een andere plaats worden overgebracht dienen te worden behandeld en vervoerd met inachtneming van de structurele gebreken die de integriteit van de container aantasten;  
+
+.4 bevoegde functionarissen dienen de eigenaar, huurder of bewaarnemer, al naargelang van toepassing is, in kennis te stellen wanneer een container onder controle is geplaatst;  
+
+.5 de in deze Bijlage vervatte bepalingen zijn niet uitputtend voor alle typen containers of alle mogelijke gebreken of combinaties van gebreken;  
+
+.6 schade aan een container kan ernstig lijken zonder een duidelijk gevaar voor de veiligheid op te leveren. Sommige schade, zoals gaten, kan een inbreuk op de douanevereisten zijn maar hoeft geen grote gevolgen voor de constructie te hebben; en  
+
+.7 ernstige schade kan het gevolg zijn van een harde schok die veroorzaakt kan zijn door het onjuist hanteren van de container of andere containers of grote beweging van de lading in de container. Er dient derhalve bijzondere aandacht te worden besteed aan tekenen van recente schade door schokken.    
+
+3. Opleiding van bevoegde functionarissen De Overeenkomstsluitende Partij die de controle uitoefent dient te waarborgen dat de bevoegde functionarissen die belast zijn met het uitvoeren van deze beoordelingen en controlemaatregelen de noodzakelijke opleiding krijgen. Deze opleiding dient zowel theoretische als praktische scholing te omvatten.  
+
+4. Onderdelen met een kwetsbare constructie en omschrijving van ernstige gebreken in de constructie bij elk van deze onderdelen. 
+
+4.1 De volgende onderdelen hebben een kwetsbare constructie en dienen op ernstige gebreken te worden gecontroleerd:  
+
+|  *Onderdeel met een kwetsbare constructie*   |  *Ernstig gebrek in de constructie*   |
+|---|---|
+| Bovenrail  | Plaatselijke vervorming van de rail groter dan 60 mm of scheurvorming in de las of barsten of scheuren in het railmateriaal groter dan 45 mm in de lengte.  Noot: Bij sommige tankcontainerontwerpen is de bovenrail geen onderdeel dat voor de constructie belangrijk is.  |
+| Onderrail  | Plaatselijke vervorming loodrecht op de rail groter dan 100 mm of scheurvorming in de las of barsten of scheuren in het railmateriaal groter dan 75 mm in de lengte.  |
+| Bovenligger  | Plaatselijke vervorming van de bovenligger groter dan 80 mm of barsten of scheuren groter dan 80 mm in de lengte.  |
+| Onderligger  | Plaatselijke vervorming van de onderligger groter dan 100 mm of barsten of scheuren groter dan 100 mm in de lengte.  |
+| Hoekstijlen  | Plaatselijke vervorming van de stijl groter dan 50 mm of barsten of scheuren groter dan 50 mm in de lengte.  |
+| Hoekstukken en tussenstukken (castings)  | Ontbrekende hoekstukken, doorlopende barsten of scheuren in de stukken, vervorming van de stukken waardoor de container niet meer goed gezekerd kan worden voor vervoer, vervorming van het stuk groter dan 5 mm ten opzichte van het oorspronkelijke vlak, een opening die breder is dan 66 mm, een opening die langer is dan 127 mm, een verminderde dikte van de plaat met de bovenopening waardoor deze minder dan 23 mm dik wordt, of een loslatende lasverbinding tussen aangrenzende onderdelen over meer dan 50 mm in de lengte.  |
+| Onderstructuur  | Twee of meer aangrenzende dwarsprofielen ontbreken of zijn losgeraakt van de onderrail. Twintig procent (20%) of meer van het totale aantal dwarsprofielen ontbreekt of is losgeraakt.  Noot: Indien verder vervoer wordt toegestaan, is het essentieel dat voorkomen wordt dat losgeraakte dwarsprofielen kunnen vallen.  |
+| Grendelstangen  | Een of meer van de grendelstangen aan de binnenzijde werkt niet meer.  Noot: Sommige containers zijn ontworpen en goedgekeurd (en als zodanig op de veiligheidskeurplaat vermeld) om te kunnen worden gebruikt met een openstaande of ontbrekende deur.  |
+
+4.2 Het gevolg van twee of meer schadegevallen aan hetzelfde onderdeel met een kwetsbare constructie, ook al is de ernst in elk van beide gevallen minder dan in de tabel hierboven vermeld, kan gelijk zijn aan of groter zijn dan het gevolg van een enkel schadegeval zoals in de tabel vermeld. In dergelijke omstandigheden kan de bevoegde functionaris de container tegenhouden en de Overeenkomstsluitende Partij om aanwijzingen verzoeken.  
+
+4.3 Bij tankcontainers dient de plaats waar de containerwand aan het containerframe is bevestigd ook te worden onderzocht op duidelijk zichtbare ernstige gebreken in de constructie die vergelijkbaar zijn met de in de tabel gespecificeerde gebreken. Indien dergelijke ernstige gebreken in de constructie bij deze bevestigingen worden aangetroffen, dient de bevoegde functionaris de container tegen te houden.  
+
+4.4 Bij platformcontainers met neerklapbare kopschotten vormen de vergrendelingsmechanismen en scharnierpinnen waarop het kopschot draait kwetsbare onderdelen die ook op schade dienen te worden onderzocht.       

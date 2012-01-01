@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:    *bron*   splijtstof of erts;     *buiten-ontwerpongeval*   ongeval waarvan de kans dat het zich voordoet geringer is dan elk van de gepostuleerde begin-gebeurtenissen en waarbij niet is uit te sluiten dat door het vrijkomen van splijtstoffen of radioactieve stoffen de bij artikel 18 vastgestelde limietwaarden voor de gepostuleerde begin-gebeurtenissen worden overschreden;     *gehalte*   massagehalte van de elementen uranium, thorium en plutonium in splijtstoffen;     *gepostuleerde begin-gebeurtenissen*   redelijkerwijs mogelijk te achten voorvallen die bij juist functioneren van de daartoe speciaal ontworpen veiligheidssystemen tot voorzienbare bedrijfsgevolgen of ongevalsomstandigheden leiden die een besmetting of een blootstelling van de omgeving kunnen veroorzaken;     *gevaarlijke stoffen*   gevaarlijke stoffen als bedoeld in [artikel 1, onder b, van het Besluit risico’s zware ongevallen 1999](../../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md);     *handeling*   handeling als genoemd in [artikel 15 van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), niet zijnde het vervoeren van, het voorhanden hebben bij opslag in verband met vervoer, of het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen, uitgezonderd bij een interventie, een ongeval of een radiologische noodsituatie;    hoogactieve bron  ingekapselde bron die een splijtstof bevat waarvan de activiteit op het tijdstip waarop de bron is gefabriceerd, of indien dat niet bekend is, voor het eerst op de markt wordt gebracht, gelijk is aan of hoger is dan het desbetreffende activiteitsniveau in [bijlage 5 bij het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), zolang de activiteit van dat radionuclide niet lager is dan het activiteitsniveau dat voor dat nuclide is opgenomen in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);     *ingekapselde bron*   splijtstoffen of ertsen die zijn ingebed in of gehecht aan vast dragermateriaal of zijn omgeven door een omhulling van materiaal met dien verstande dat hetzij het dragermateriaal hetzij de omhulling voldoende weerstand biedt om onder normale gebruiksomstandigheden elke verspreiding van splijtstoffen of ertsen te voorkomen;     *lid van de bevolking*   een persoon uit de bevolking binnen of buiten een locatie, niet zijnde een werknemer gedurende zijn werktijd of een persoon die een radiologische verrichting ondergaat;     *locatie*   inrichting of uitrusting als bedoeld in [artikel 15, onder b of c, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) of als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of plaats waar een handeling wordt verricht;     *natuurlijk uranium*   door een chemisch scheidingsproces verkregen uranium waarin de uraniumisotopen zich in de natuurlijke verhouding bevinden;     *nucleaire drukapparatuur*   speciaal voor nucleair gebruik in inrichtingen als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) ontworpen drukapparatuur die bij defecten de verspreiding van radioactiviteit kan veroorzaken, met uitzondering van splijtstofstaven en opslag- en transportverpakkingen;     *ondernemer*   degene onder wiens verantwoordelijkheid een handeling of werkzaamheid wordt verricht;     *Onze Minister*   Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;     *Onze Ministers*   Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Economische Zaken en van Sociale Zaken en Werkgelegenheid;     *splijtstof of erts bevattende afvalstof*   splijtstof die, of erts dat krachtens artikel 19 van dit besluit in samenhang met [artikel 38, eerste en tweede lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) als zodanig is aangemerkt en niet wordt geloosd;     *verrijkingsgraad*   massagehalte van uranium-235 en uranium-233 tezamen in verrijkt uranium;     *verrijkt uranium*   uranium met een hoger massapercentage uranium-235 dan in natuurlijk uranium;     *wet*   [Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md).      
+1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:    *bron:*   splijtstof of erts;     *buiten-ontwerpongeval:*   ongeval waarvan de kans dat het zich voordoet geringer is dan elk van de gepostuleerde begin-gebeurtenissen en waarbij niet is uit te sluiten dat door het vrijkomen van splijtstoffen of radioactieve stoffen de bij artikel 18 vastgestelde limietwaarden voor de gepostuleerde begin-gebeurtenissen worden overschreden;     *gehalte:*   massagehalte van de elementen uranium, thorium en plutonium in splijtstoffen;     *gepostuleerde begin-gebeurtenissen:*   redelijkerwijs mogelijk te achten voorvallen die bij juist functioneren van de daartoe speciaal ontworpen veiligheidssystemen tot voorzienbare bedrijfsgevolgen of ongevalsomstandigheden leiden die een besmetting of een blootstelling van de omgeving kunnen veroorzaken;     *gevaarlijke stoffen:*   gevaarlijke stoffen als bedoeld in [artikel 1, onder b, van het Besluit risico’s zware ongevallen 1999](../../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md);     *handeling:*   handeling als genoemd in [artikel 15 van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), niet zijnde het vervoeren van, het voorhanden hebben bij opslag in verband met vervoer, of het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen, uitgezonderd bij een interventie, een ongeval of een radiologische noodsituatie;    hoogactieve bron:  ingekapselde bron die een splijtstof bevat waarvan de activiteit op het tijdstip waarop de bron is gefabriceerd, of indien dat niet bekend is, voor het eerst op de markt wordt gebracht, gelijk is aan of hoger is dan het desbetreffende activiteitsniveau in [bijlage 5 bij het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), zolang de activiteit van dat radionuclide niet lager is dan het activiteitsniveau dat voor dat nuclide is opgenomen in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);     *ingekapselde bron:*   splijtstoffen of ertsen die zijn ingebed in of gehecht aan vast dragermateriaal of zijn omgeven door een omhulling van materiaal met dien verstande dat hetzij het dragermateriaal hetzij de omhulling voldoende weerstand biedt om onder normale gebruiksomstandigheden elke verspreiding van splijtstoffen of ertsen te voorkomen;     *lid van de bevolking:*   een persoon uit de bevolking binnen of buiten een locatie, niet zijnde een werknemer gedurende zijn werktijd of een persoon die een radiologische verrichting ondergaat;     *locatie:*   inrichting of uitrusting als bedoeld in [artikel 15, onder b of c, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) of als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of plaats waar een handeling wordt verricht;     *natuurlijk uranium:*   door een chemisch scheidingsproces verkregen uranium waarin de uraniumisotopen zich in de natuurlijke verhouding bevinden;     *nucleaire drukapparatuur:*   speciaal voor nucleair gebruik in inrichtingen als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) ontworpen drukapparatuur die bij defecten de verspreiding van radioactiviteit kan veroorzaken, met uitzondering van splijtstofstaven en opslag- en transportverpakkingen;     *ondernemer:*   degene onder wiens verantwoordelijkheid een handeling of werkzaamheid wordt verricht;     *ontmantelingsplan:*   plan met een beschrijving van de wijze waarop een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) buiten gebruik wordt gesteld en ontmanteld;     *Onze Minister:*   Onze Minister van Economische Zaken, Landbouw en Innovatie;     *splijtstof of erts bevattende afvalstof:*   splijtstof die, of erts dat krachtens artikel 19 van dit besluit in samenhang met [artikel 38, eerste en tweede lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) als zodanig is aangemerkt en niet wordt geloosd;     *verrijkingsgraad:*   massagehalte van uranium-235 en uranium-233 tezamen in verrijkt uranium;     *verrijkt uranium:*   uranium met een hoger massapercentage uranium-235 dan in natuurlijk uranium;     *wet:*   [Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md).      
 2.  In dit besluit en de daarop berustende bepalingen wordt onder «activiteit», «blootstelling», «deskundige», «effectieve dosis», «equivalente dosis», «gezondheidsschade», «omgevingsdosisequivalent», «radiotoxiciteitsequivalent», «schade», «werkzaamheid» en «wet» verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).   
 3.  In dit besluit en de daarop berustende bepalingen wordt onder «besmetting», «lozing in de lucht», «lozing in het openbare riool» en «lozing in het oppervlaktewater» verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), met dien verstande dat in plaats van «radioactieve stoffen» telkens «splijtstoffen of ertsen» wordt gelezen.   
 4.  In dit besluit en de daarop berustende bepalingen wordt onder «lid van de bevolking» verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), met dien verstande dat daarbij onder «locatie» wordt verstaan hetgeen daaronder in artikel 1, eerste lid, van dit besluit wordt verstaan.   
@@ -86,7 +86,7 @@ d. een beschrijving van de maatregelen die door of vanwege de aanvrager zullen w
 e. een risicoanalyse van de schade van het voorhanden hebben van de onder a bedoelde splijtstoffen buiten de onder c bedoelde plaats, inrichting of uitrusting;  
 
 f. een opgave van alle handelingen en werkzaamheden met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die meldingsplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md).     
-2.  Indien de aanvraag betrekking heeft op een handeling met een ingekapselde bron, bevat zij voorts een opgave van de chemische en fysische toestand en vorm waardoor deze splijtstoffen een ingekapselde bron vormen alsmede een aanduiding van de constructie en de kwaliteit van de bron.   
+2.  Indien de aanvraag betrekking heeft op een ingekapselde bron, bevat zij voorts een opgave van de chemische en fysische toestand en vorm waardoor deze splijtstoffen een ingekapselde bron vormen alsmede een aanduiding van de constructie en de kwaliteit van de bron.   
 3.  De aanvraag om een vergunning voor het voorhanden hebben van ertsen bevat in ieder geval: 
 
 a. een opgave van de aard, de hoeveelheid en het gemiddelde uranium- of thoriumgehalte der ertsen;  
@@ -157,9 +157,7 @@ h. een veiligheidsrapport, inhoudende een beschrijving van de maatregelen, die d
 
 i. een risicoanalyse van de schade buiten de inrichting als gevolg van buiten-ontwerpongevallen;  
 
-j. een globale beschrijving van de wijze waarop de aanvrager voornemens is de inrichting na buitengebruikstelling te ontmantelen en een opgave van de wijze waarop in de financiering daarvan wordt voorzien;  
-
-k. een opgave van de verzekering of andere financiële zekerheid, welke de aanvrager ter voldoening aan de [Wet aansprakelijkheid kernongevallen](../../../../../../../wet/wet/aansprakelijkheid/kernongevallen/BWBR0003234/README.md) zal hebben en in stand houden, onder vermelding van alle ter zake doende gegevens.     
+j. een opgave van de verzekering of andere financiële zekerheid, welke de aanvrager ter voldoening aan de [Wet aansprakelijkheid kernongevallen](../../../../../../../wet/wet/aansprakelijkheid/kernongevallen/BWBR0003234/README.md) zal hebben en in stand houden, onder vermelding van alle ter zake doende gegevens.     
 2.  Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning voor het in werking brengen of in werking houden van een inrichting als in dat lid bedoeld.   
 
 ### Artikel  7  
@@ -185,9 +183,7 @@ d. een veiligheidsrapport als bedoeld in artikel 6, eerste lid, onder h;
 
 e. een risicoanalyse als bedoeld in artikel 6, eerste lid, onder i;  
 
-f. een globale beschrijving als bedoeld in artikel 6, eerste lid, onder j;  
-
-g. een opgave van de verzekering of andere financiële zekerheid als bedoeld in artikel 6, eerste lid, onder k.     
+f. een opgave van de verzekering of andere financiële zekerheid als bedoeld in artikel 6, eerste lid, onder j.     
 2.  Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning voor het in werking brengen of in werking houden van een inrichting als in dat lid bedoeld.   
 
 ### Artikel  9  
@@ -204,9 +200,7 @@ d. een opgave van het aantal personeelsleden, dat verantwoordelijk zal zijn voor
 
 e. een beschrijving van de maatregelen, welke door of vanwege de aanvrager zullen worden getroffen ter voorkoming van schade, waaronder begrepen de maatregelen ter voorkoming van schade buiten de inrichting;  
 
-f. een risicoanalyse van de schade buiten de inrichting, welke is verbonden aan het vervaardigen, bewerken of verwerken in de inrichting van de onder c bedoelde splijtstoffen;  
-
-g. een globale beschrijving als bedoeld in artikel 6, eerste lid, onder j.     
+f. een risicoanalyse van de schade buiten de inrichting, welke is verbonden aan het vervaardigen, bewerken of verwerken in de inrichting van de onder c bedoelde splijtstoffen.     
 2.  Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning voor het in werking brengen of in werking houden van een inrichting als in dat lid bedoeld.   
 
 ### Artikel  10  
@@ -215,20 +209,8 @@ g. een globale beschrijving als bedoeld in artikel 6, eerste lid, onder j.
 
 a. een opgave van de vergunning krachtens welke de betrokken inrichting is opgericht dan wel in werking gebracht of gehouden;  
 
-b. een ontmantelingsplan dat de voorgenomen buitengebruikstelling of ontmanteling beschrijft en dat in ieder geval ingaat op: 
-
-1°. de periode waarin buitengebruikstelling of ontmanteling zal plaatsvinden;  
-
-2°. de gekozen wijze van buitengebruikstelling of ontmanteling;  
-
-3°. de daartoe noodzakelijke verrichtingen gezien in de tijd;  
-
-4°. een opgave van de chemische en fysische toestand, de vorm, het gehalte en de verrijkingsgraad, zomede, voor wat de splijtstoffen betreft, een zo nauwkeurig mogelijke opgave van de activiteit van de splijtstoffen, onder vermelding van de hoeveelheid van de onderscheidene splijtstoffen, welke ten hoogste te eniger tijd in de inrichting aanwezig zal zijn;  
-
-5°. het totaal aantal bij de buitengebruikstelling of ontmanteling betrokken personen, hun deskundigheid en onderlinge taakverdeling, alsmede voor wat betreft het toezichthoudend personeel, de gronden waarop zij kunnen worden geacht voldoende deskundigheid voor hun taak te bezitten;  
-
-6°. de kosten van buitengebruikstelling of ontmanteling en de wijze waarop in de financiering ervan wordt voorzien.       
-2.  Een ontmantelingsplan als bedoeld in het eerste lid, onder b, bevat tevens, indien het betrekking heeft op een inrichting: 
+b. een ontmantelingsplan.     
+2.  Een aanvraag om een vergunning als bedoeld in het eerste lid bevat tevens, indien het betrekking heeft op een inrichting: 
 
 a. als bedoeld in de artikelen 6, 7 of 8: een veiligheidsrapport als bedoeld in artikel 6, eerste lid, onder h, en een risicoanalyse als bedoeld in artikel 6, eerste lid, onder i,  
 
@@ -240,6 +222,7 @@ a. een opgave van de vergunning krachtens welke de betrokken inrichting buiten g
 b. een beschrijving van de voorgenomen wijziging;  
 
 c. indien de voorgenomen wijziging van invloed is op een of meer gegevens als vermeld in het ontmantelingsplan genoemd in het eerste lid, onder b, een desbetreffende aanvulling van dat plan.     
+4.  Gelijktijdig met de aanvraag om een vergunning voor het buiten gebruik stellen van een inrichting als bedoeld in het eerste lid, wordt een aanvraag ingediend om een vergunning voor het ontmantelen van die inrichting.   
 
 ### Artikel  11  
 
@@ -309,18 +292,18 @@ Van het geven van een beschikking op de voorbereiding waarvan [afdeling 3.4 van 
 
 1.  Geen vergunning als bedoeld in [artikel 15 van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) wordt verleend indien: 
 
-niet is voldaan aan de voorwaarden betreffende rechtvaardiging, optimalisatie en dosislimieten, geldend krachtens artikel 19 in samenhang met de [artikelen 4](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [5](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [6](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) en [48 van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);  
+a. niet is voldaan aan de voorwaarden betreffende rechtvaardiging, optimalisatie en dosislimieten, geldend krachtens artikel 19 in samenhang met de [artikelen 4](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [5](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [6](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) en [48 van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);  
 
-voor een lid van de bevolking dat zich buiten de locatie bevindt, als gevolg van de handeling waarvoor de vergunning is aangevraagd en ten gevolge van andere handelingen binnen en buiten deze locatie, een van de volgende doses wordt overschreden: 
+b. voor een lid van de bevolking dat zich buiten de locatie bevindt, als gevolg van de handeling waarvoor de vergunning is aangevraagd en ten gevolge van andere handelingen binnen en buiten deze locatie, een van de volgende doses wordt overschreden: 
 
-een effectieve dosis van 1 mSv in een kalenderjaar, en met inachtneming daarvan:  
+1. een effectieve dosis van 1 mSv in een kalenderjaar, en met inachtneming daarvan:  
 
-een equivalente dosis van 50 mSv in een kalenderjaar voor de huid gemiddeld over enig huidoppervlak van 1 cm <sup>2</sup>;    
+2. een equivalente dosis van 50 mSv in een kalenderjaar voor de huid gemiddeld over enig huidoppervlak van 1 cm <sup>2</sup>;    
 
-de handeling waarvoor de vergunning is aangevraagd behoort tot een categorie, die in de krachtens artikel 19 in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) geldende regeling als gerechtvaardigd is bekendgemaakt, maar het specifieke karakter van deze handeling op grond van [artikel 4, eerste lid, van dat besluit](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) niet gerechtvaardigd is.     
+c. de handeling waarvoor de vergunning is aangevraagd behoort tot een categorie, die in de krachtens artikel 19 in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) geldende regeling als gerechtvaardigd is bekendgemaakt, maar het specifieke karakter van deze handeling op grond van [artikel 4, eerste lid, van dat besluit](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) niet gerechtvaardigd is.     
 2.  Een vergunning als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) wordt geweigerd, indien: 
 
-de waarden van de gegevens in de risicoanalyse, bedoeld in artikel 6, eerste lid, onder h, niet voldoen aan de in onderstaande tabel opgenomen limietwaarden;  
+a. de waarden van de gegevens in de risicoanalyse, bedoeld in artikel 6, eerste lid, onder h, niet voldoen aan de in onderstaande tabel opgenomen limietwaarden;  
 
 | Gebeurtenisfrequentie F per jaar  | Maximaal toegestane effectieve dosis  |
 |:---|:---|
@@ -330,12 +313,12 @@ de waarden van de gegevens in de risicoanalyse, bedoeld in artikel 6, eerste lid
 | 10 <sup>–2</sup> > F ≥ 10 <sup>–4</sup>  | 10 mSv  | 4 mSv  |
 | F < 10 <sup>–4</sup>  | 100 mSv  | 40 mSv  |
 
-dan wel uit die risico-analyse blijkt dat de effectieve schildklierdosis niet beperkt blijft tot 500 mSv.     
+b. dan wel uit die risico-analyse blijkt dat de effectieve schildklierdosis niet beperkt blijft tot 500 mSv.     
 3.  Een vergunning voor het oprichten, in werking brengen of houden of wijzigen van een inrichting, waarin kernenergie kan worden vrijgemaakt, kan worden geweigerd, indien de waarden in de krachtens artikel 6, eerste lid, onder i, verrichte risicoanalyse een van de volgende waarden overschrijden: 
 
-een kans van 10 <sup>–6</sup> per jaar dat een persoon, die zich permanent en onbeschermd buiten de desbetreffende inrichting zou bevinden, overlijdt als gevolg van een buiten-ontwerpongeval;  
+a. een kans van 10 <sup>–6</sup> per jaar dat een persoon, die zich permanent en onbeschermd buiten de desbetreffende inrichting zou bevinden, overlijdt als gevolg van een buiten-ontwerpongeval;  
 
-een kans van 10 <sup>–5</sup> per jaar dat buiten de desbetreffende inrichting een groep van ten minste 10 personen direct dodelijk slachtoffer is van een buiten-ontwerpongeval, of voor n maal meer direct dodelijke slachtoffers een kans die n <sup>2</sup> maal kleiner is.     
+b. een kans van 10 <sup>–5</sup> per jaar dat buiten de desbetreffende inrichting een groep van ten minste 10 personen direct dodelijk slachtoffer is van een buiten-ontwerpongeval, of voor n maal meer direct dodelijke slachtoffers een kans die n <sup>2</sup> maal kleiner is.     
 
 ### Hoofdstuk  IIIa  
 
@@ -372,6 +355,90 @@ Onze Minister kan regels stellen ten aanzien van de beveiliging van het voorhand
 ### Artikel  24  
 
 Het veiligheidsrapport, bedoeld in [artikel 6, eerste lid, onder h](../../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), en het document, bedoeld in [artikel 5, tweede lid, van het Besluit risico’s zware ongevallen 1999](../../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), dan wel het veiligheidsrapport, bedoeld in [artikel 9 van dat besluit](../../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), kunnen tot één veiligheidsrapport worden gecombineerd.  
+
+### Artikel  25  
+
+De houder van een vergunning voor het oprichten, het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) beschikt over een ontmantelingsplan.  
+
+### Artikel  26  
+
+1.  Een ontmantelingsplan bevat in ieder geval een beschrijving van: 
+
+a. de periode waarin de buitengebruikstelling en de ontmanteling plaatsvinden;  
+
+b. de planning van de buitengebruikstelling en de ontmanteling, waarbij een onderscheid wordt gemaakt in de verschillende fasen waarin de buitengebruikstelling en de ontmanteling plaatsvinden;  
+
+c. de hoeveelheid en de activiteit van de splijtstoffen of radioactieve stoffen die zich in de verschillende fasen van de buitengebruikstelling en de ontmanteling in de inrichting zullen bevinden;  
+
+d. de bij de buitengebruikstelling en de ontmanteling betrokken medewerkers, hun deskundigheid en onderlinge taakverdeling;  
+
+e. de bij de buitengebruikstelling en de ontmanteling toe te passen technieken;  
+
+f. de relevante milieuaspecten, in het bijzonder het beheer van radioactieve afvalstoffen die bij de buitengebruikstelling en de ontmanteling vrijkomen.     
+2.  Het ontmantelingsplan is gebaseerd op een wijze van buitengebruikstelling en ontmanteling die voldoet aan de artikelen 30 en 30a en de krachtens artikel 30b gestelde regels.   
+3.  Bij regeling van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot de inhoud van het ontmantelingsplan. Daarbij kan worden bepaald dat de gestelde regels slechts gelden in de aangegeven categorieën van gevallen.   
+
+### Artikel  27  
+
+1.  Het ontmantelingsplan van de houder van een vergunning voor het oprichten, het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) en wijzigingen van dat plan behoeven goedkeuring van Onze Minister.   
+2.  Goedkeuring wordt geweigerd indien het ontmantelingsplan niet voldoet aan de eisen die bij of krachtens dit besluit zijn gesteld.   
+3.  Onze Minister beslist op de aanvraag om goedkeuring van het ontmantelingsplan binnen zes maanden na ontvangst van de aanvraag.   
+4.  Onze Minister kan aan de goedkeuring voorschriften verbinden.   
+5.  Onze Minister kan de goedkeuring intrekken indien het ontmantelingsplan niet meer voldoet aan de eisen die daaraan bij of krachtens dit besluit zijn gesteld.   
+
+### Artikel  28  
+
+De houder van een vergunning voor het oprichten, het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) handelt overeenkomstig het laatst goedgekeurde ontmantelingsplan.  
+
+### Artikel  29  
+
+1.  Vanaf het tijdstip waarop een vergunning voor het in werking brengen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) is verleend totdat een vergunning voor het buiten gebruik stellen van die inrichting is verleend, actualiseert de houder van de vergunning voor het in werking brengen of het in werking houden van die inrichting het ontmantelingsplan ten minste elke vijf jaar, of wanneer Onze Minister dit nodig acht.   
+2.  De actualisatie, bedoeld in het eerste lid, betreft in ieder geval: 
+
+a. de planning van de buitengebruikstelling en de ontmanteling;  
+
+b. de bij de buitengebruikstelling en de ontmanteling toe te passen technieken;  
+
+c. wijzigingen van de inrichting voor zover deze gevolgen kunnen hebben voor de buitengebruikstelling of de ontmanteling.     
+
+### Artikel  30  
+
+1.  De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vangt aan met de buitengebruikstelling en de ontmanteling van die inrichting onmiddellijk nadat de normale bedrijfsvoering is beëindigd.   
+2.  Onze Minister kan in bijzondere omstandigheden toestaan dat op een later tijdstip met de buitengebruikstelling en de ontmanteling van de inrichting wordt aangevangen.   
+3.  De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) voltooit de buitengebruikstelling en de ontmanteling van die inrichting zo snel als redelijkerwijs mogelijk is.   
+
+### Artikel  30a  
+
+1.  Bij de ontmanteling van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) worden de feitelijke beperkingen die in de weg staan aan de realisatie van elke volgende functie op het terrein waarop de inrichting was gevestigd, weggenomen voor zover die beperkingen het gevolg zijn van die inrichting.   
+2.  Bij een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) kan Onze Minister in bijzondere omstandigheden toestaan dat wordt afgeweken van het eerste lid.   
+
+### Artikel  30b  
+
+Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels stellen met betrekking tot de wijze waarop de buitengebruikstelling en de ontmanteling van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) plaatsvinden.  
+
+### Artikel  30c  
+
+Onze Minister beslist op een aanvraag tot het intrekken van een vergunning voor het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) binnen zes maanden na ontvangst van de aanvraag.  
+
+### Artikel  30d  
+
+1.  Bij de aanvraag tot het intrekken van een vergunning voor het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) toont de houder van die vergunning ten genoegen van Onze Minister aan dat de ontmanteling is voltooid. Hierbij toont hij in ieder geval aan dat aan artikel 30a is voldaan.   
+2.  Onze Minister kan nadere regels stellen met betrekking tot de wijze waarop wordt aangetoond dat de ontmanteling is voltooid.   
+
+### Artikel  30e  
+
+De in de artikelen 26, derde lid, 30b en 30d, tweede lid, bedoelde regels kunnen tevens betrekking hebben op radioactieve afvalstoffen.  
+
+### Artikel  30f  
+
+1.  De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) treft tijdig bij een krachtens [artikel 37, achtste lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) of artikel 42, derde lid, onder e, aangewezen instelling een voorziening voor de opslag van: 
+
+a. de splijtstof of erts bevattende afvalstoffen die door het gebruik van die inrichting ontstaan,  
+
+b. de splijtstof of erts bevattende afvalstoffen en de radioactieve afvalstoffen die terugkomen na opwerking van de splijtstoffen die in die inrichting zijn gebruikt en  
+
+c. de radioactieve afvalstoffen die vrijkomen bij de buitengebruikstelling en de ontmanteling van die inrichting.     
+2.  Onze Minister kan regels stellen over de te treffen voorziening.   
 
 ### Hoofdstuk  IV  
 
@@ -503,23 +570,23 @@ b. de activiteitsconcentratie van die stof of dat erts lager is dan de in [bijla
 
 a. splijtstoffen of ertsen worden toegediend aan personen en, voorzover het de bescherming van mensen tegen ioniserende straling betreft, aan dieren voor: 
 
-1° het stellen van medische of veterinaire diagnoses;  
+1°. het stellen van medische of veterinaire diagnoses;  
 
-2° therapie of (bio)medisch onderzoek;    
+2°. therapie of (bio)medisch onderzoek;    
 
-b. splijtstoffen of ertsen worden toegevoegd aan producten, bestemd voor gebruik op of in de directe omgeving van personen.     
+a. splijtstoffen of ertsen worden toegevoegd aan producten, bestemd voor gebruik op of in de directe omgeving van personen.     
 3.  Het bij en krachtens [artikel 25, derde, vierde en zevende lid, van het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bepaalde is van overeenkomstige toepassing.   
-4.  Bij ministeriële regeling kan worden bepaald dat het eerste lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.   
-5.  Het in [artikel 15, onder a, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod geldt niet voor het voorhanden hebben van splijtstoffen of ertsen voor bij ministeriële regeling aangewezen handelingen die een beperkt risico van blootstelling van mensen tot gevolg hebben.   
+4.  Bij regeling van Onze Minister kan worden bepaald dat het eerste lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.   
+5.  Het in [artikel 15, onder a, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod geldt niet voor het voorhanden hebben van splijtstoffen of ertsen voor bij regeling van Onze Minister aangewezen handelingen die een beperkt risico van blootstelling van mensen tot gevolg hebben.   
 
 ### Artikel  41a  
 
 1.  Het in [artikel 15, onder a, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod geldt niet voor handelingen met een ingekapselde bron waarbij de in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) genoemde waarden voor de activiteit en de activiteitsconcentratie worden overschreden, indien: 
 
-a. deze van een door Onze Ministers goedgekeurd type is en  
+a. deze van een door Onze Minister goedgekeurd type is en  
 
 b. deze onder normale bedrijfsomstandigheden op 0,1 meter van enige bereikbare buitenzijde daarvan geen hogere omgevingsdosisequivalent kan geven dan 1 μSv per uur.     
-2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot keuringen als bedoeld in het eerste lid, onder a, en voor de opslag en de verwijdering van ingekapselde bronnen als bedoeld in het eerste lid.   
+2.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot keuringen als bedoeld in het eerste lid, onder a, en voor de opslag en de verwijdering van ingekapselde bronnen als bedoeld in het eerste lid.   
 
 ### Artikel  42  
 
@@ -541,10 +608,11 @@ b. een feitelijke levering van splijtstoffen of ertsen door enkele overgave aan 
 
 c. een afgifte aan een krachtens [artikel 22, vierde lid, van de wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) aangewezen instelling voor ontvangst van in bezit genomen splijtstoffen of ertsen;  
 
-d. het zich ontdoen van splijtstoffen of ertsen bevattende afvalstoffen door afgifte aan een door Onze Ministers erkende ophaaldienst van splijtstoffen of ertsen bevattende afvalstoffen;  
+d. het zich ontdoen van splijtstoffen of ertsen bevattende afvalstoffen door afgifte aan een door Onze Minister erkende ophaaldienst van splijtstoffen of ertsen bevattende afvalstoffen;  
 
-e. een afgifte aan een door Onze Ministers aangewezen instelling voor de ontvangst van splijtstoffen of ertsen bevattende afvalstoffen.     
+e. een afgifte aan een door Onze Minister aangewezen instelling voor de ontvangst van splijtstoffen of ertsen bevattende afvalstoffen.     
 4.  Het derde lid geldt alleen indien de ondernemer zich ervan heeft vergewist dat de ontvanger in het bezit is van een vergunning voor de desbetreffende handeling of anderszins gerechtigd is de stoffen te ontvangen.   
+5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een erkenning van een ophaaldienst of een aanwijzing van een instelling voor de ontvangst van splijtstoffen of ertsen bevattende afvalstoffen als bedoeld in het derde lid.   
 
 ### Artikel  43  
 

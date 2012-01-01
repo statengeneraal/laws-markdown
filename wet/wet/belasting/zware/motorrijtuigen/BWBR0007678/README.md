@@ -176,7 +176,7 @@ b. met vier assen of meer en in de categorie:
 1.  De belasting moet op aangifte worden voldaan.   
 2.  In afwijking van [artikel 19 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) moet de belasting worden betaald vóór de aanvang van het gebruik van de autosnelweg.   
 3.  Op bij ministeriële regeling aangewezen aangiftepunten kan door invoering van tijdvak, tarief alsmede identiteit en nationaliteit van het motorrijtuig in de op deze aangiftepunten aanwezige betalingsapparatuur aangifte worden gedaan, gelijktijdig met de ingevolge het tweede lid te verrichten betaling.   
-4.  [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is, met uitzondering van artikel 8, tweede lid, niet van toepassing op de in het derde lid bedoelde aangifte.   
+4.  [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is, met uitzondering van [artikel 8, derde lid, van die wet](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), niet van toepassing op de in het derde lid bedoelde aangifte.   
 
 ### Hoofdstuk  V  
 
@@ -236,7 +236,7 @@ d. een jaar: een driehonderdvijfenzestigste deel van de voor het motorrijtuig ov
 
 ### Artikel  15  
 
-Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, verleend voor motorrijtuigen: 
+1.  Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, verleend voor motorrijtuigen: 
 
 a. die uitsluitend worden gebruikt door defensie;  
 
@@ -248,7 +248,8 @@ d. die zijn ingericht en uitsluitend worden gebruikt voor de aanleg en het onder
 
 e. waarmee gewoonlijk slechts over een geringe afstand gebruik van de autosnelweg wordt gemaakt;  
 
-f. die uitsluitend worden gebruikt voor het vervoer van kermis- of circusbenodigdheden.    
+f. die uitsluitend worden gebruikt voor het vervoer van kermis- of circusbenodigdheden.     
+2.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken aan de inspecteur tot vrijstelling als bedoeld in het eerste lid, onderdeel e.   
 
 ### Hoofdstuk  VIII  
 
@@ -264,7 +265,7 @@ Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveilig
 
 ### Artikel  18  
 
-1.  Op eerste vordering van ambtenaren van de rijksbelastingdienst, van opsporingsambtenaren als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of van bij besluit van Onze Minister van Financiën in overeenstemming met Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren van het Ministerie van Verkeer en Waterstaat, is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.   
+1.  Op eerste vordering van ambtenaren van de rijksbelastingdienst, van opsporingsambtenaren als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of van bij besluit van Onze Minister van Financiën in overeenstemming met Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren van het Ministerie van Infrastructuur en Milieu, is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  19  

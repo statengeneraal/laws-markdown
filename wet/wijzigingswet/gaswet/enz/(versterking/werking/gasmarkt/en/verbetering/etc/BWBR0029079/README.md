@@ -23,7 +23,7 @@ Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent
 
 ### Artikel  IIb  
 
-Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (verbetering werking elektriciteits- en gasmarkt) (Kst. 31374).   
+Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (verbetering werking elektriciteits- en gasmarkt).   
 
 ### Artikel  IIc  
 
@@ -36,6 +36,10 @@ Wijzigt deze wet.
 ### Artikel  III  
 
 Voor overeenkomsten betreffende de verkoop van gas die zijn gesloten voor het tijdstip van inwerkingtreding van artikel I, onderdeel T, geldt [artikel 54a](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) zoals dit artikel luidde voor het tijdstip van inwerkingtreding van dit artikel.  
+
+### Artikel  IIIa  
+
+Voor uitzonderlijke en aanmerkelijke investeringen waarmee is aangevangen voor het tijdstip van inwerkingtreding van artikel I, onderdeel AB, onder 3, en artikel II, onderdeel R, onder 3, van de Wet van 2 december 2010 tot wijziging van de Gaswet en de Elektriciteitswet 1998, tot versterking van de werking van de gasmarkt, verbetering van de voorzieningszekerheid en houdende regels met betrekking tot de voorrang voor duurzame elektriciteit, alsmede enkele andere wijzigingen van deze wetten (Stb. 2010, 810), gelden [artikel 81b, tweede lid, van de Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [41b, tweede lid, van de Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), zoals zij luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel AB, onder 3, en artikel II, onderdeel R, onder 3.  
 
 ### Artikel  IV  
 

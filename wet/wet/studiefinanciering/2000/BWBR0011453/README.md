@@ -22,21 +22,17 @@ a. voor wat betreft hoofdstuk 4 het examen, bedoeld in [artikel 7.4.2 van de Wet
 
 b. voor wat betreft de hoofdstukken 5 en 10 het examen, bedoeld in [artikel 7.10a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), alsmede het daarmee overeenkomende examen van een opleiding buiten Nederland als bedoeld in artikel 2.14,   *bacheloropleiding*: opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), die is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of die de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van die wet](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), met positief gevolg heeft ondergaan, *belastbaar minimumloon*: bij of krachtens algemene maatregel van bestuur vast te stellen bedrag, afgeleid van het totaal van het minimumloon en de minimumvakantiebijslag voor een 23-jarige op grond van de [Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), *beroepsonderwijs*: opleiding als bedoeld in [artikel 7.2.7, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en als bedoeld in artikel 2.13a, *collegegeldkrediet*: lening voor betaling van het collegegeld in het hoger onderwijs, *debiteur*: degene die zich krachtens artikel 6.2 heeft verplicht tot terugbetaling, *deelnemer*: degene die beroepsonderwijs volgt, *hoger beroepsonderwijs*: hoger beroepsonderwijs in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), *hoger onderwijs*: wetenschappelijk onderwijs en hoger beroepsonderwijs als bedoeld in paragraaf 2.3 en in artikel 2.14, *lening*: rentedragende lening die niet kan worden omgezet in een gift, onverminderd omzetting, bedoeld in artikel 10.8, *masteropleiding*: opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), die is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of die de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van die wet](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), met positief gevolg heeft ondergaan, *onderwijsnummer*: door Onze Minister uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een burgerservicenummer is verstrekt, *Onze Minister*: Onze Minister van Onderwijs, Cultuur en Wetenschap, *opleiding niveau 1 of 2*: 
 
-a. assistentopleiding en basisberoepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+a. assistentopleiding en basisberoepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
-b. andere opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel f, van die wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarvan bij ministeriële regeling is aangegeven dat deze voor de toepassing van deze wet wordt aangemerkt als een opleiding niveau 1 of 2, en  
+b. opleiding buiten Nederland als bedoeld in artikel 2.13a en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 1 of 2,   *opleiding niveau 3 of 4*: 
 
-c. opleiding buiten Nederland als bedoeld in artikel 2.13a en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 1 of 2,   *opleiding niveau 3 of 4*: 
+a. vakopleiding, middenkaderopleiding en specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d en e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
-a. vakopleiding, middenkaderopleiding en specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d en e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
-
-b. andere opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel f, van die wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarvan bij ministeriële regeling is aangegeven dat deze voor de toepassing van deze wet wordt aangemerkt als een opleiding niveau 3 of 4, en  
-
-c. opleiding buiten Nederland als bedoeld in artikel 2.13a en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 3 of 4,   *ouder*: natuurlijke ouder of adoptiefouder in de zin van de [artikelen 197 tot en met 232 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), *partner*: partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), *peiljaar*: tweede jaar voorafgaand aan het jaar waarin het studiefinancieringstijdvak aanvangt, dan wel het tweede jaar voorafgaand aan het jaar waarvoor de draagkracht in de zin van hoofdstuk 6 wordt vastgesteld, *prestatiebeurs*: rentedragende lening die onder voorwaarden kan worden omgezet in een gift, waarbij de rente teniet gaat, niet zijnde de rentedragende lening die niet kan worden omgezet in een gift, *reisrecht*: recht om te reizen als bedoeld in artikel 3.7, eerste lid, *reisvoorziening*: voorziening als bedoeld in artikel 3.7 en paragraaf 3.7, *RSR*: Regisseur Studenten Reisrecht, de rechtspersoon die in opdracht van het vervoerbedrijf tot taak heeft de digitale administratie van de OV-chipkaart voor studerenden te voeren, *specialistenopleiding*: specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), *student*: degene die hoger onderwijs volgt, niet zijnde een extraneus, *studerende*: deelnemer of student, *studiefinanciering*: door Onze Minister verstrekte toekenning in verband met het volgen van een opleiding in het beroepsonderwijs of in het hoger onderwijs waarop uitsluitend op grond van deze wet aanspraak bestaat, *studiefinancieringstijdvak*: kalenderjaar of een gedeelte daarvan waarop de toekenning van studiefinanciering betrekking heeft, met dien verstande dat deze periode ten minste 1 kalendermaand is, *studiejaar*: 
+b. opleiding buiten Nederland als bedoeld in artikel 2.13a en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 3 of 4,   *ouder*: natuurlijke ouder of adoptiefouder in de zin van de [artikelen 197 tot en met 232 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), *partner*: partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), *peiljaar*: tweede jaar voorafgaand aan het jaar waarin het studiefinancieringstijdvak aanvangt, dan wel het tweede jaar voorafgaand aan het jaar waarvoor de draagkracht in de zin van hoofdstuk 6 wordt vastgesteld, *prestatiebeurs*: rentedragende lening die onder voorwaarden kan worden omgezet in een gift, waarbij de rente teniet gaat, niet zijnde de rentedragende lening die niet kan worden omgezet in een gift, *reisrecht*: recht om te reizen als bedoeld in artikel 3.7, eerste lid, *reisvoorziening*: voorziening als bedoeld in artikel 3.7 en paragraaf 3.7, *RSR*: Regisseur Studenten Reisrecht, de rechtspersoon die in opdracht van het vervoerbedrijf tot taak heeft de digitale administratie van de OV-chipkaart voor studerenden te voeren, *specialistenopleiding*: specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), *student*: degene die hoger onderwijs volgt, niet zijnde een extraneus, *studerende*: deelnemer of student, *studiefinanciering*: door Onze Minister verstrekte toekenning in verband met het volgen van een opleiding in het beroepsonderwijs of in het hoger onderwijs waarop uitsluitend op grond van deze wet aanspraak bestaat, *studiefinancieringstijdvak*: kalenderjaar of een gedeelte daarvan waarop de toekenning van studiefinanciering betrekking heeft, met dien verstande dat deze periode ten minste 1 kalendermaand is, *studiejaar*: 
 
 1°. in het hoger onderwijs: tijdvak dat aanvangt op 1 september van enig kalenderjaar en eindigt op 31 augustus daaropvolgend,  
 
-2°. in het beroepsonderwijs: tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,   *studiepunt*: eenheid waarin de studielast, bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), wordt uitgedrukt, *thuiswonende studerende*: studerende die woont op het adres van zijn ouders of van een van hen, *toetsingsinkomen*: inkomen als bedoeld in [artikel 8, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), met dien verstande dat, behoudens bij de toepassing van de artikelen 3.4 en 3.17, voor berekeningsjaar wordt gelezen: peiljaar, *uitwonende studerende*: studerende die niet een thuiswonende studerende is, *veronderstelde ouderlijke bijdrage*: bedrag dat verondersteld wordt door de ouders bijgedragen te worden waarmee de aanvullende beurs van de studerende wordt verminderd, *vervoerbedrijf*: rechtspersoon die op grond van een overeenkomst met de Staat als partij of als derde verantwoordelijk is voor de uitvoering van het reisrecht, *voltijdse opleiding*: opleiding in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), met uitzondering van deeltijds onderwijs, *vreemdeling*: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), *WEB*: [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), *wetenschappelijk onderwijs*: wetenschappelijk onderwijs in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), *wettelijk collegegeld*: wettelijk collegegeld als bedoeld in [artikel 7.45 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), *WHW*: [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2°. in het beroepsonderwijs: tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,   *studiepunt*: eenheid waarin de studielast, bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), wordt uitgedrukt, *thuiswonende studerende*: studerende die niet een uitwonende studerende is, *toetsingsinkomen*: inkomen als bedoeld in [artikel 8, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), met dien verstande dat, behoudens bij de toepassing van de artikelen 3.4 en 3.17, voor berekeningsjaar wordt gelezen: peiljaar, *uitwonende studerende*: studerende die voldoet aan de verplichtingen, bedoeld in artikel 1.5, *veronderstelde ouderlijke bijdrage*: bedrag dat verondersteld wordt door de ouders bijgedragen te worden waarmee de aanvullende beurs van de studerende wordt verminderd, *vervoerbedrijf*: rechtspersoon die op grond van een overeenkomst met de Staat als partij of als derde verantwoordelijk is voor de uitvoering van het reisrecht, *voltijdse opleiding*: opleiding in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), met uitzondering van deeltijds onderwijs, *vreemdeling*: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), *WEB*: [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), *wetenschappelijk onderwijs*: wetenschappelijk onderwijs in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), *wettelijk collegegeld*: wettelijk collegegeld als bedoeld in [artikel 7.45 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), *WHW*: [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 2.  Onder voltijdse opleiding wordt mede verstaan een duale opleiding in de zin van de [WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 
 ### Artikel  1.2  
@@ -53,11 +49,14 @@ Aan welke voorwaarden een aanvraag moet voldoen, kan bij ministeriële regeling 
 
 ### Artikel  1.5  
 
-####Woonplaats
+####Verplichtingen uitwonende studerende
 
-1.  Indien bij controle door Onze Minister blijkt dat het door de studerende verstrekte adres afwijkt van het adres waarop de studerende in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven, maakt Onze Minister dit aan hem bekend en stelt hem in de gelegenheid de afwijking te herstellen.   
-2.  Indien een uitwonende studerende de afwijking niet binnen 4 weken na de bekendmaking herstelt, wordt met ingang van de maand waarin de afwijking is ontstaan, de aan hem toegekende beurs omgezet in een beurs voor een thuiswonende studerende, tenzij hem van de afwijking redelijkerwijs geen verwijt kan worden gemaakt.   
-3.  Indien een uitwonende studerende de afwijking na de termijn van 4 weken alsnog herstelt, wordt met ingang van de maand daaropvolgend de beurs voor een thuiswonende studerende omgezet in een beurs voor een uitwonende studerende.   
+1.  Voor het normbedrag voor een uitwonende studerende komt in aanmerking de studerende die voldoet aan de volgende verplichtingen: 
+
+a. de studerende woont op het adres waaronder hij in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven, en  
+
+b. het woonadres van de studerende is niet het adres waaronder zijn ouders of een van hen in de gemeentelijke basisadministratie persoonsgegevens staat of staan ingeschreven.     
+2.  Op een studerende die ingevolge artikel 2.13a of artikel 2.14 in aanmerking komt voor studiefinanciering is het eerste lid, onderdeel a, niet van toepassing.   
 
 ### Artikel  1.7  
 
@@ -67,9 +66,11 @@ Aan welke voorwaarden een aanvraag moet voldoen, kan bij ministeriële regeling 
 
 a. in contacten met die studerende of debiteur,  
 
-b. in contacten met personen en instanties voorzover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of onderwijsnummer in een persoonsregistratie, en  
+b. in contacten met personen en instanties voorzover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of onderwijsnummer in een persoonsregistratie,  
 
-c. teneinde de gegevens van die studerende of debiteur te vergelijken met de gegevens die over hem zijn opgenomen in het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), voorzover dat noodzakelijk is voor de uitvoering van deze wet.     
+c. teneinde de gegevens van die studerende of debiteur te vergelijken met de gegevens die over hem zijn opgenomen in het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), voorzover dat noodzakelijk is voor de uitvoering van deze wet, en  
+
+d. in contacten met de toezichthouders, bedoeld in artikel 9.1a.     
 2.  Het burgerservicenummer of onderwijsnummer van de partner of ouder van een studerende of debiteur kan ter zake van de uitvoering van deze wet slechts worden gebruikt in contacten met die partner of ouder of met de desbetreffende studerende of debiteur, alsmede, voorzover het betreft de controle op de rechtmatigheid, in contacten met personen en instanties voorzover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of onderwijsnummer in een persoonsregistratie.   
 
 ### Artikel  1.8  
@@ -477,7 +478,7 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 
 ####Vordering wegens eigen inkomsten studerende
 
-1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet van € 13 215,83.   
+1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83.   
 2.   Vervallen.    
 3.  Tot het meerinkomen worden niet gerekend: 
 
@@ -697,7 +698,7 @@ Artikel 4.3 is niet van toepassing met ingang van de eerste dag van de maand vol
 
 ####Langdurige afwezigheid in het niet bekostigd beroepsonderwijs
 
-1.  Het bestuur van de rechtspersoon waarvan de instelling, bedoeld in artikel 2.4, onderdeel b, uitgaat of de natuurlijke persoon die deze instelling in stand houdt, stelt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van 5 weken de deelnemer in kennis dat daarvan in de administratie van de instelling een aantekening is gemaakt en verzoekt de deelnemer om opgaaf van de reden van de afwezigheid.   
+1.  Het bestuur van de rechtspersoon waarvan de instelling, bedoeld in artikel 2.4, onderdeel b, uitgaat of de natuurlijke persoon die deze instelling in stand houdt, stelt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van 4 weken de deelnemer in kennis dat daarvan in de administratie van de instelling een aantekening is gemaakt en verzoekt de deelnemer om opgaaf van de reden van de afwezigheid.   
 2.  Uiterlijk op de vijfde werkdag na de periode van 8 weken stelt het bestuur van de rechtspersoon of de natuurlijke persoon vast: 
 
 a. of de reden die de deelnemer binnen 8 weken na de aanvang van de periode van 5 weken gaf voor zijn afwezigheid, een geldige is, of  
@@ -1292,6 +1293,26 @@ Onze Minister vaardigt een dwangbevel uit aan de nalatige, indien een bij of kra
 
 Het toezicht door de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), heeft mede betrekking op de vraag of de instelling of de opleiding voldoet aan de van toepassing zijnde voorwaarden, bedoeld in de artikelen 2.5, eerste lid, 2.13, onderdeel c, en 4.5.  
 
+### Artikel  9.1a  
+
+####Toezicht in verband met artikel 1.5 
+
+1.  Met het toezicht op de naleving van artikel 1.5 zijn belast: 
+
+a. de bij besluit van Onze Minister aangewezen ambtenaren of andere personen,  
+
+b. de bij besluit van het college van burgemeester en wethouders aangewezen ambtenaren.     
+2.  Indien de ambtenaren of andere personen, bedoeld in het eerste lid, onder a, die worden aangewezen, ressorteren onder een andere minister, wordt het besluit samen met die minister genomen.   
+3.  Van een besluit als bedoeld in het eerste lid, onder b, wordt mededeling gedaan door plaatsing in de Staatscourant.   
+4.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+
+### Artikel  9.1b  
+
+####Informatie-uitwisseling
+
+1.  De toezichthouders, bedoeld in artikel 9.1a, en Onze Minister wisselen de persoonsgegevens en inlichtingen uit die nodig zijn voor de uitoefening van het toezicht onder vermelding van het burgerservicenummer of, bij het ontbreken daarvan, het onderwijsnummer van de studerende op wie de persoonsgegevens of inlichtingen betrekking hebben.   
+2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van verstrekking van persoonsgegevens en inlichtingen op grond van het eerste lid en wordt een nadere specificatie gegeven van de persoonsgegevens en inlichtingen die op grond van het eerste lid worden verwerkt.   
+
 ### Paragraaf  9.2  
 
 ####Verstrekken van inlichtingen
@@ -1302,7 +1323,7 @@ Het toezicht door de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../
 
 1.  Een ieder is verplicht aan Onze Minister of aan een daartoe door of vanwege Onze Minister aangewezen persoon of instantie desgevraagd de ten behoeve van de uitvoering van deze wet benodigde inlichtingen over zichzelf te geven.   
 2.  De inlichtingen worden verstrekt binnen een door Onze Minister of door een in het eerste lid bedoelde persoon of instantie te stellen redelijke termijn.   
-3.  Inlichtingen over zichzelf, voor zover zij kunnen leiden tot de toekenning van minder studiefinanciering of tot verhoging van het bedrag van de terugbetalingstermijn worden steeds ongevraagd en schriftelijk verstrekt door de studerende onderscheidenlijk door de debiteur, onmiddellijk na het bekend worden van die gegevens.   
+3.  Inlichtingen over zichzelf, voor zover zij kunnen leiden tot de toekenning van minder studiefinanciering of tot verhoging van het bedrag van de terugbetalingstermijn worden steeds ongevraagd en schriftelijk verstrekt door de studerende onderscheidenlijk door de debiteur, onmiddellijk na het bekend worden van die gegevens. De inlichtingen, bedoeld in de eerste volzin, omvatten niet het doorgeven van een wijziging van het adres als bedoeld in de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).   
 4.  Onze Minister kan bepalen dat de inlichtingen, bedoeld in het eerste tot en met het derde lid, worden verstrekt op een bij ministeriële regeling vast te stellen wijze.   
 
 ### Artikel  9.3  
@@ -1348,19 +1369,36 @@ Organen met een publiekrechtelijke taak zijn verplicht op een bij algemene maatr
 
 ### Paragraaf  9.3  
 
-####Administratieve sanctie
+####Bestuursrechtelijke geldschulden en bestuurlijke boete
 
 ### Artikel  9.7  
 
-####Niet verstrekken van inlichtingen over studievoortgang
+####Niet verstrekken inlichtingen door instelling over studievoortgang
 
 Indien een instelling als bedoeld in de artikelen 2.9, 2.10 en 2.11, niet uiterlijk 1 november volgend op het einde van het studiejaar aan Onze Minister de gegevens, bedoeld in [artikel 7.9a van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of in de artikelen 9.5, derde lid, of  10.6, vierde lid, heeft verstrekt, ontstaat er een vordering van Onze Minister op de instelling ter grootte van 15% van het bedrag aan onvoorwaardelijk als gift vastgestelde studiefinanciering, bedoeld in de artikelen 10a.3, vijfde lid, of  10.7, dat aan de studenten aan die instelling is toegekend.  
 
 ### Artikel  9.8  
 
-####Niet verstrekken van inlichtingen over langdurige afwezigheid van deelnemers
+####Niet verstrekken inlichtingen door instelling over langdurige afwezigheid deelnemers
 
 Indien een instelling als bedoeld in artikel 2.4, onderdeel b, op enig moment in een studiejaar niet een administratie als bedoeld in artikel 4.5, eerste lid, voert of niet na afloop van de in de artikelen 4.3, 4.4 en 4.5 bedoelde periodes van onafgebroken afwezigheid zonder geldige reden aan Onze Minister de vereiste gegevens verstrekt, ontstaat er een vordering van Onze Minister op de instelling ter grootte van 15% van het bedrag van als gift vastgestelde studiefinanciering dat aan de deelnemers aan die instelling in het studiejaar waarin deze in gebreke was, is toegekend.  
+
+### Artikel  9.9  
+
+####Niet voldoen aan verplichtingen artikel 1.5  door studerende
+
+1.  Indien een studerende het normbedrag voor een uitwonende studerende toegekend heeft gekregen maar niet heeft voldaan aan de verplichtingen, bedoeld in artikel 1.5, kan Onze Minister hem een bestuurlijke boete opleggen van ten hoogste 50 procent van het bedrag dat van de studerende in verband daarmee wordt teruggevorderd bij een herziening.   
+2.  De herziening vindt plaats met ingang van de dag waarop de studerende zijn laatste adreswijziging heeft doen inschrijven in de gemeentelijke basisadministratie persoonsgegevens. Indien de ouders van de studerende of een van hen zich na de laatste adreswijziging, bedoeld in de vorige volzin, heeft doen inschrijven in de gemeentelijke basisadministratie persoonsgegevens op hetzelfde woonadres als de studerende, dan vindt de herziening plaats met ingang van de dag van deze inschrijving.   
+3.  Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan Onze Minister de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
+
+### Artikel  9.9a  
+
+####Geen aanspraak meer bij tweede maal niet voldoen aan verplichtingen artikel 1.5 
+
+1.  Indien Onze Minister de studerende een bestuurlijke boete als bedoeld in artikel 9.9, eerste lid, heeft opgelegd en de studerende heeft, nadat voormelde bestuurlijke boete onherroepelijk is geworden, voor een tweede maal niet voldaan aan de verplichtingen, bedoeld in artikel 1.5, kan Onze Minister hem een bestuurlijke boete opleggen van ten hoogste 100 procent van het bedrag dat van de studerende in verband daarmee wordt teruggevorderd bij een herziening.   
+2.  De herziening vindt plaats met ingang van de dag na de laatste dag van de periode waarop de herziening, bedoeld in artikel 9.9, eerste lid, ziet of, indien dit een latere datum betreft, de dag waarop de studerende zijn laatste adreswijziging heeft doen inschrijven in de gemeentelijke basisadministratie persoonsgegevens. Indien de ouders van de studerende of een van hen zich na de laatste dag van de periode waarop de herziening, bedoeld in artikel 9.9, eerste lid, ziet of na de laatste adreswijziging, bedoeld in de vorige volzin, heeft doen inschrijven in de gemeentelijke basisadministratie persoonsgegevens op hetzelfde woonadres als de studerende, dan vindt de herziening plaats met ingang van de dag van deze inschrijving.   
+3.  Indien Onze Minister de studerende een boete als bedoeld in het eerste lid heeft opgelegd kan hij tevens beslissen dat elke aanspraak op studiefinanciering vervalt.   
+4.  Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan Onze Minister de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
 
 ### Paragraaf  9.4  
 
@@ -1617,7 +1655,7 @@ Indien de partner van de debiteur ook een debiteur is en op beide debiteuren hoo
 
 ####Aanpassing van bedragen
 
-1.  Per 1 januari van ieder kalenderjaar past Onze Minister de bedragen, genoemd in de artikelen 3.4, tweede lid, 3.9, derde lid, 3.18, met uitzondering van de maximale aanvullende beurs, 4.7, 4.18, 5.2 en 10.3, aan op een bij of krachtens algemene maatregel van bestuur aan te geven wijze aan de hand van de loon- of prijsontwikkelingen in het tweede daaraan voorafgaande kalenderjaar.   
+1.  Per 1 januari van ieder kalenderjaar past Onze Minister de bedragen, genoemd in de artikelen 3.4, tweede lid, 3.9, derde lid, 3.17, eerste lid, 3.18, met uitzondering van de maximale aanvullende beurs, 4.7, 4.18, 5.2 en 10.3, aan op een bij of krachtens algemene maatregel van bestuur aan te geven wijze aan de hand van de loon- of prijsontwikkelingen in het tweede daaraan voorafgaande kalenderjaar.   
 2.  De bedragen maximale aanvullende beurs/lening in de kolom hoger onderwijs, genoemd in overzicht 2 van artikel 3.18, worden voor de studiejaren 2009–2010 tot en met 2018–2019 jaarlijks op 1 september verhoogd met een bedrag van € 1,84. Het bedrag basislening in de kolom hoger onderwijs, genoemd in overzicht 2 van artikel 3.18, wordt gelijktijdig met hetzelfde bedrag verlaagd.   
 3.  De aangepaste bedragen treden in de plaats van de in het eerste en tweede lid bedoelde, aan te passen bedragen.   
 
@@ -1671,7 +1709,7 @@ e. artikel 3.4, vierde lid.
 
 ####Afwijking van artikel 1.5
 
-Voor deelnemers die voor 1 augustus onderscheidenlijk voor studenten die voor 1 september volgend op het tijdstip van inwerkingtreding van [artikel XII van de wet van 13 december 2000 tot wijziging van enige wetten teneinde de aanspraak jegens bestuursorganen op verstrekkingen, voorzieningen en uitkeringen afhankelijk te maken van het in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegeven omtrent het adres van een ingezetene, Stb. 2001, 67](../../../../../wet/wijzigingswet/algemene/bijstandswet/enz./(verstrekkingen/voorzieningen/en/etc/BWBR0011964/README.md), studiefinanciering op grond van de [Wet op de studiefinanciering](../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md) of van deze wet ontvingen, geldt in afwijking van artikel 1.5 dat waar de studerende woont naar de omstandigheden wordt beoordeeld.  
+Voor deelnemers die voor 1 augustus onderscheidenlijk voor studenten die voor 1 september volgend op het tijdstip van inwerkingtreding van [artikel XII van de wet van 13 december 2000 tot wijziging van enige wetten teneinde de aanspraak jegens bestuursorganen op verstrekkingen, voorzieningen en uitkeringen afhankelijk te maken van het in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegeven omtrent het adres van een ingezetene, Stb. 2001, 67](../../../../../wet/wijzigingswet/algemene/bijstandswet/enz./(verstrekkingen/voorzieningen/en/etc/BWBR0011964/README.md), studiefinanciering op grond van de [Wet op de studiefinanciering](../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md) of van deze wet ontvingen, geldt in afwijking van artikel 1.5, zoals dat artikel luidde op 31 december 2011, dat waar de studerende woont naar de omstandigheden wordt beoordeeld.  
 
 ### Artikel  12.1a0  
 

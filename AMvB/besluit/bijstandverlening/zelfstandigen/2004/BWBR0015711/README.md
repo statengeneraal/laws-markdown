@@ -40,7 +40,7 @@ e. netto inkomen: het over het boekjaar verworven inkomen, bedoeld in [hoofdstuk
 
 f. bruto inkomen: het over het boekjaar verworven inkomen, bedoeld in [hoofdstuk 3, paragraaf 3.4 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), zonder toepassing van [artikel 31, derde lid, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en artikel 6, tweede lid;  
 
-g. jaarnorm: de tot een bedrag per boekjaar omgerekende som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), of de normen, bedoeld in de [artikelen 26 tot en met 35, van de WIJ](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) verhoogd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de verleende bijzondere bijstand;  
+g. jaarnorm: de tot een bedrag per boekjaar omgerekende som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verhoogd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de verleende bijzondere bijstand;  
 
 h. totaal vermogen: het vermogen, bedoeld in [artikel 34, eerste lid, onderdeel a, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), zonder aftrek van de aanwezige schulden en zonder de in [artikel 34, tweede lid, onderdelen a en e, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), bedoelde bezittingen in aanmerking te nemen;  
 
@@ -52,9 +52,7 @@ k. ondernemer in de binnenvaart: de zelfstandige die arbeid verricht door:
 
 1°. het vervoeren of opslaan van goederen met behulp van een schip dat bestemd is of gebruikt wordt voor het vervoer van goederen op de Nederlandse binnenwateren, stromen en riviermonden, alsmede op de Dollard, de Waddenzee en het IJsselmeer;  
 
-2°. het slepen of duwen van de in onder 1 bedoelde schepen met een boot die blijkens zijn bouw daarvoor is bestemd en niet tevens is ingericht voor het vervoer van goederen;    
-
-l. WIJ: [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).    
+2°. het slepen of duwen van de in onder 1 bedoelde schepen met een boot die blijkens zijn bouw daarvoor is bestemd en niet tevens is ingericht voor het vervoer van goederen.      
 
 ### Hoofdstuk  II  
 
@@ -72,7 +70,7 @@ l. WIJ: [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jon
 
 a. de zelfstandige die gedurende een redelijke termijn als zodanig werkzaam is geweest en wiens bedrijf of zelfstandig beroep levensvatbaar is;  
 
-b. de persoon of de echtgenoot van de persoon die uit hoofde van werkloosheid een uitkering ontvangt of een inkomensvoorziening op grond van de [WIJ](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) ontvangt en die een bedrijf of zelfstandig beroep begint dat levensvatbaar is;  
+b. de persoon of de echtgenoot van de persoon die uit hoofde van werkloosheid een uitkering ontvangt en die een bedrijf of zelfstandig beroep begint dat levensvatbaar is;  
 
 c. de zelfstandige van 55 jaar en ouder wiens bedrijf of zelfstandig beroep niet levensvatbaar is en die het bedrijf of zelfstandig beroep gedurende een aaneengesloten periode van 10 jaar onmiddellijk voorafgaand aan de aanvraag heeft uitgeoefend en hieruit een inkomen geniet dat duurzaam ontoereikend is om in de noodzakelijke kosten van het bestaan te voorzien;  
 
@@ -82,7 +80,7 @@ e. de zelfstandige die om gezondheidsredenen niet of slechts beperkt in staat is
 2.  Bijstand ter voorziening in de behoefte aan bedrijfskapitaal kan slechts worden verleend aan de zelfstandige, bedoeld in de onderdelen a, b en c van het eerste lid.   
 3.  Bijstandsverlening aan een persoon die algemene bijstand ontvangt, die voornemens is een bedrijf of zelfstandig beroep te beginnen en zich in verband hiermee niet beschikbaar stelt voor arbeid in dienstbetrekking kan gedurende een voorbereidingsperiode van ten hoogste 12 maanden worden voortgezet. In een zodanig geval: 
 
-a. zijn de [artikelen 9](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [10 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) niet van toepassing;  
+a. zijn de [artikelen 9](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), met uitzondering van het eerste lid, onderdeel c, en [10 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) niet van toepassing;  
 
 b. is de belanghebbende verplicht mee te werken aan begeleiding door een door het college aangewezen derde.     
 
@@ -92,10 +90,10 @@ b. is de belanghebbende verplicht mee te werken aan begeleiding door een door he
 
 1.  Bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12, 19, 21 en 22: 
 
-a. wordt niet verleend indien het eigen vermogen meer bedraagt dan  € 156 240,00 per 1 januari 2011: € 174.420,00;  
+a. wordt niet verleend indien het eigen vermogen meer bedraagt dan  € 156 240,00 per 1 januari 2012: € 178.431,00;  
 
-b. wordt, indien het eigen vermogen meer bedraagt dan  € 37 177,00 per 1 januari 2011: € 41.504,00, doch minder dan € 156 240,00 per 1 januari 2011: € 174.420,00 slechts verleend indien dit eigen vermogen niet meer bedraagt dan 30 procent van het totaal vermogen.     
-2.  In afwijking van het eerste lid wordt aan de zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12 en 26 niet verleend, indien het eigen vermogen meer bedraagt dan  € 109 368,00 per 1 januari 2011: € 122.094,00.   
+b. wordt, indien het eigen vermogen meer bedraagt dan  € 37 177,00 per 1 januari 2012: € 42.459,00, doch minder dan € 156 240,00 per 1 januari 2012: € 178.431,00 slechts verleend indien dit eigen vermogen niet meer bedraagt dan 30 procent van het totaal vermogen.     
+2.  In afwijking van het eerste lid wordt aan de zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12 en 26 niet verleend, indien het eigen vermogen meer bedraagt dan  € 109 368,00 per 1 januari 2012: € 124.902,00.   
 
 ### Artikel  4  
 
@@ -273,7 +271,7 @@ c. het vermogen van de zelfstandige, het bedrag, bedoeld in artikel 3, eerste li
 
 ####Bedrijfskapitaal gevestigde zelfstandige
 
-1.  Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, kan ter voorziening in de behoefte aan bedrijfskapitaal bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 162 344,00 per 1 januari 2011: € 181.234,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.   
+1.  Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, kan ter voorziening in de behoefte aan bedrijfskapitaal bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 162 344,00 per 1 januari 2012: € 185.402,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.   
 2.  Indien aan een zelfstandige, als bedoeld in artikel 2, eerste lid, onderdeel a, bijstand wordt verleend zowel ter voorziening in de behoefte aan bedrijfskapitaal als ter voorziening in de algemeen noodzakelijke kosten van het bestaan wordt de bijstand verleend met toepassing van het eerste lid.   
 
 ### Artikel  21  
@@ -289,7 +287,7 @@ c. het vermogen van de zelfstandige, het bedrag, bedoeld in artikel 3, eerste li
 
 ####Bedrijfskapitaal om niet gevestigde zelfstandige
 
-Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, worden verleend in de vorm van een bedrag om niet tot ten hoogste  € 8 117,00 per 1 januari 2011: € 9.062,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en de verleende bijzondere bijstand en diens vermogen de grens genoemd in artikel 3, eerste lid, niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in artikel 20.  
+Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, worden verleend in de vorm van een bedrag om niet tot ten hoogste  € 8 117,00 per 1 januari 2012: € 9.270,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en de verleende bijzondere bijstand en diens vermogen de grens genoemd in artikel 3, eerste lid, niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in artikel 20.  
 
 ### §  2  
 
@@ -299,7 +297,7 @@ Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoel
 
 ####Duur algemene bijstand beginnende zelfstandige
 
-1.  Aan de persoon, bedoeld in artikel 2, eerste lid, onderdeel b, wordt na de beëindiging van de uitkering uit hoofde van werkloosheid of de inkomensvoorziening op grond van de [WIJ](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) gedurende ten hoogste 36 maanden algemene bijstand verleend. Verlenging van deze termijn is mogelijk indien de zelfstandige om redenen van medische of sociale aard niet volledig beschikbaar is voor de uitoefening van het bedrijf of zelfstandig beroep.   
+1.  Aan de persoon, bedoeld in artikel 2, eerste lid, onderdeel b, wordt na de beëindiging van de uitkering uit hoofde van werkloosheid gedurende ten hoogste 36 maanden algemene bijstand verleend. Verlenging van deze termijn is mogelijk indien de zelfstandige om redenen van medische of sociale aard niet volledig beschikbaar is voor de uitoefening van het bedrijf of zelfstandig beroep.   
 2.  Toekenning van algemene bijstand als bedoeld in het eerste lid wordt beëindigd zodra het bedrijf of zelfstandig beroep niet meer levensvatbaar is.   
 3.  Het college onderzoekt of het bedrijf of zelfstandig beroep nog levensvatbaar is: 
 
@@ -311,7 +309,7 @@ b. bij verlenging van de toekenning van algemene bijstand om redenen van medisch
 
 ####Bedrijfskapitaal beginnende zelfstandige
 
-Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter voorziening in de behoefte aan bedrijfskapitaal uitsluitend bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 29 889,00 per 1 januari 2011: € 33.366,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.  
+Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter voorziening in de behoefte aan bedrijfskapitaal uitsluitend bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 29 889,00 per 1 januari 2012: € 34.134,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.  
 
 ### §  3  
 
@@ -321,13 +319,13 @@ Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter 
 
 ####Duur algemene bijstand en inkomenseis oudere zelfstandige
 
-Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, wordt algemene bijstand verleend voor de duur dat hij uit het bedrijf of zelfstandig beroep naar verwachting een bruto inkomen zal behalen dat gemiddeld minstens  € 6 447,00 per 1 januari 2011: € 7.198,00 per boekjaar bedraagt.  
+Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, wordt algemene bijstand verleend voor de duur dat hij uit het bedrijf of zelfstandig beroep naar verwachting een bruto inkomen zal behalen dat gemiddeld minstens  € 6 447,00 per 1 januari 2012: € 7.363,00 per boekjaar bedraagt.  
 
 ### Artikel  26  
 
 ####Bedrijfskapitaal oudere zelfstandige
 
-Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt aan de zelfstandige, bedoeld in artikel 2, eerste lid, onderdeel c, slechts verleend tot ten hoogste € 8 117,00 per 1 januari 2011: € 9.062,00. Deze bijstand wordt verstrekt in de vorm van een bedrag om niet of, voor zover het eigen vermogen meer bedraagt dan het bedrag, genoemd in artikel 3, tweede lid, in de vorm van een renteloze lening. Artikel 13 is van overeenkomstige toepassing.  
+Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt aan de zelfstandige, bedoeld in artikel 2, eerste lid, onderdeel c, slechts verleend tot ten hoogste € 8 117,00 per 1 januari 2012: € 9.270,00. Deze bijstand wordt verstrekt in de vorm van een bedrag om niet of, voor zover het eigen vermogen meer bedraagt dan het bedrag, genoemd in artikel 3, tweede lid, in de vorm van een renteloze lening. Artikel 13 is van overeenkomstige toepassing.  
 
 ### §  4  
 
@@ -357,11 +355,7 @@ Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel e, wordt al
 
 ####Voorbereidingskosten
 
-1.  Bijstand in de met de voorbereiding samenhangende kosten, bedoeld in artikel 2, derde lid, onderscheidenlijk [artikel 17, zesde lid, van de WIJ](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) kan worden verleend aan: 
-
-a. een persoon als bedoeld in artikel 2, derde lid;  
-
-b. een persoon die uitvoering geeft aan een werkleeraanbod als bedoeld in [artikel 17, zesde lid, van de WIJ](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).     
+1.  Bijstand in de met de voorbereiding samenhangende kosten, bedoeld in artikel 2, derde lid, kan worden verleend aan een persoon als bedoeld in artikel 2, derde lid.   
 2.  Deze bijstand heeft voorlopig de vorm van een renteloze geldlening.   
 3.  Indien de belanghebbende in aansluiting op de voorbereidingsperiode: 
 
@@ -536,8 +530,33 @@ b. alle concurrente schuldeisers evenredige medewerking verlenen.
 
 ####Beëindiging bedrijf of zelfstandig beroep
 
-1.  Bij beëindiging van het bedrijf of zelfstandig beroep wordt de lening, behoudens in het geval artikel 42 toepassing vindt, volledig terugbetaald. Gestelde zekerheden worden volledig uitgewonnen. In afwijking daarvan blijft, op verzoek van de betrokkene en voor zover mogelijk, een lening onder hypothecair verband, verbonden aan de eigen woning met bijbehorend erf, gehandhaafd of wordt deze tot de onbelaste waarde van deze woning gevestigd. De [artikelen 12](../../../../../../AMvB/uitvoeringsbesluit/wwik/BWBR0017838/README.md), [13](../../../../../../AMvB/uitvoeringsbesluit/wwik/BWBR0017838/README.md), [14](../../../../../../AMvB/uitvoeringsbesluit/wwik/BWBR0017838/README.md) en [15 van het Uitvoeringsbesluit WWIK](../../../../../../AMvB/uitvoeringsbesluit/wwik/BWBR0017838/README.md), zijn van overeenkomstige toepassing, met dien verstande dat de aflossing aanvangt op het moment van beëindiging van de bijstandsverlening. Geen aflossing wordt gevergd indien de belanghebbende een uitkering op grond van de [Wet werk en inkomen kunstenaars](../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) ontvangt.   
+1.  Bij beëindiging van het bedrijf of zelfstandig beroep wordt de lening, behoudens in het geval artikel 42 toepassing vindt, volledig terugbetaald. Gestelde zekerheden worden volledig uitgewonnen. In afwijking daarvan blijft, op verzoek van de betrokkene en voor zover mogelijk, een lening onder hypothecair verband, verbonden aan de eigen woning met bijbehorend erf, gehandhaafd of wordt deze tot de onbelaste waarde van deze woning gevestigd.   
 2.  Indien na beëindiging van het bedrijf of zelfstandig beroep een deel van de lening resteert en deze niet met toepassing van het vorige lid onder hypothecair verband is verleend, wordt het resterende deel van de lening vanaf de beëindiging renteloos. Gedurende de periode van vijf jaar na beëindiging van het bedrijf of zelfstandig beroep dient 50 procent van het netto inkomen boven de bijstandsnorm, bedoeld in [hoofdstuk 3, paragrafen 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), besteed te worden voor aflossing van deze lening.   
+
+### Artikel  43a  
+
+1.  Bij beëindiging van het bedrijf of zelfstandig beroep vangt de aflossing van de geldlening onder verband van hypotheek of verpanding aan op het moment van beëindiging van de bijstandsverlening.   
+2.  De aflossing van de geldlening onder verband van hypotheek of verpanding vindt maandelijks plaats gedurende ten hoogste tien jaar.   
+3.  Het college stelt het maandbedrag van de aflossing vast aan de hand van het inkomen, bedoeld in [paragraaf 3.4 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en de noodzakelijke, voor rekening van de zelfstandige en zijn gezin komende, bijzondere bestaanskosten. Indien de omstandigheden daartoe aanleiding geven, wijzigt het college het maandbedrag van de aflossing.   
+4.  Bij een inkomen van de zelfstandige en zijn gezin als bedoeld in het derde lid dat niet uitgaat boven de van toepassing zijnde bijstandsnorm, bedoeld in de [paragrafen 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), wordt geen aflossing gevergd.   
+5.  Indien de zelfstandige en zijn gezin tijdens de aflossingsperiode van tien jaar schuldig nalatig zijn in het voldoen van de vastgestelde aflossing, is het nog niet afgeloste deel van de geldlening terstond opeisbaar en is daarover tevens de wettelijke rente verschuldigd.   
+
+### Artikel  43b  
+
+1.  Indien door toepassing van artikel 43a, derde of vierde lid, na afloop van de aflossingsperiode van tien jaar de geldlening nog niet is afgelost, is vanaf dat moment maandelijks rente verschuldigd over het nog niet afgeloste deel van de geldlening.   
+2.  De rente, bedoeld in het eerste lid, is de wettelijke rente, verminderd met drie procent.   
+3.  Indien de zelfstandige naar het oordeel van het college de rente geheel of gedeeltelijk kan betalen, doch niet kan aflossen, wordt een betaling eerst tot ten hoogste het bedrag van de verschuldigde maandrente aangemerkt als aflossing en wordt de rente die daardoor niet wordt betaald bijgeschreven bij het nog niet afgeloste deel van de geldlening.   
+4.  Indien de zelfstandige naar het oordeel van het college geen rente kan betalen wordt de verschuldigde rente bijgeschreven bij het nog niet afgeloste deel van de geldlening.   
+5.  Over een bijgeschreven rentevordering is geen rente verschuldigd.   
+
+### Artikel  43c  
+
+1.  Bij verkoop van de woning dan wel bij vererving van de woning na het overlijden van de zelfstandige of, indien het een echtpaar betreft, na het overlijden van de langstlevende echtgenoot, wordt het nog niet afgeloste deel van de geldlening, alsmede de op grond van artikel 43b, vierde lid, bijgeschreven rente, terstond afgelost.   
+2.  Indien bij de verkoop van de woning op basis van de waarde in het economisch verkeer bij vrije oplevering het voor de afrekening beschikbare bedrag lager is dan het resterende bedrag van de geldlening en van de rentevordering, wordt het verschil kwijtgescholden.   
+
+### Artikel  43d  
+
+Aan de zelfstandige of langstlevende echtgenoot, bedoeld in artikel 43c, eerste lid, wordt, telkens na afloop van een kalenderjaar, een opgave verstrekt van de stand van de geldlening en van de rentevorderingen.  
 
 ### Hoofdstuk  VI  
 
@@ -661,7 +680,7 @@ c. de aanvullende uitkering, bedoeld in artikel 52.
 a. het bijstand betreft die is verleend in strijd met de bij of krachtens de wet of dit besluit gestelde regels, of die niet of niet volledig overeenkomstig hoofdstuk VI is of wordt teruggevorderd;  
 
 b. niet is voldaan aan [artikel 18, tweede lid, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), voor een bedrag gelijk aan het bedrag waarmee de kosten zouden zijn verlaagd indien het college op een juiste wijze toepassing zou hebben gegeven aan dit artikel.     
-2.  Indien als gevolg van het niet hebben voldaan door het college aan de bij of krachtens de [artikelen 17](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [41, vijfde lid](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [43](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [44 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of artikel 35 gestelde regels, niet kan worden vastgesteld of en voor welk bedrag de ten laste van de gemeenten gebleven kosten buiten aanmerking moeten worden gelaten, wordt volgens door Onze Minister te stellen regels hiervoor een bedrag vastgesteld.   
+2.  Indien als gevolg van het niet hebben voldaan door het college aan de bij of krachtens de [artikelen 17](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [43](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [44](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [53a, eerste lid, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of artikel 35 gestelde regels, niet kan worden vastgesteld of en voor welk bedrag de ten laste van de gemeenten gebleven kosten buiten aanmerking moeten worden gelaten, wordt volgens door Onze Minister te stellen regels hiervoor een bedrag vastgesteld.   
 3.  Het eerste en tweede lid zijn niet van toepassing voorzover naar het oordeel van Onze Minister: 
 
 a. de tekortkomingen van bijzondere aard of geringe betekenis zijn;  

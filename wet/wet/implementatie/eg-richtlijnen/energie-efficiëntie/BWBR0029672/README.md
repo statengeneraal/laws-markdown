@@ -88,11 +88,15 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 ### Artikel  6  
 
-De artikelen 2, eerste lid en tweede lid, onderdeel a, 4 en 5 zijn van overeenkomstige toepassing ten aanzien van elektriciteit en gas, met dien verstande dat voor dit artikel en de daarop berustende bepalingen wordt verstaan onder: 
+De artikelen 2, eerste lid en tweede lid, onderdeel a, 3, 4 en 5 zijn van overeenkomstige toepassing ten aanzien van elektriciteit en gas, met dien verstande dat voor dit artikel en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. *beheerder van een elektriciteitsnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel k, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
-b. *beheerder van een gasnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel e, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md).    
+b. *beheerder van een gasnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel e, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
+
+c. *eindafnemer van elektriciteit:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 95a, eerste lid, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+
+d. *eindafnemer van gas:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 43, eerste lid, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md).    
 
 ### §  6  
 

@@ -138,7 +138,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 2.  Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is voor de beoordeling van de aanspraak op of de bepaling van de hoogte van een tegemoetkoming, wordt mede het toetsingsinkomen van de medebewoners in aanmerking genomen.   
 3.  Indien in een inkomensafhankelijke regeling de aanspraak op een tegemoetkoming mede afhankelijk is gesteld van het vermogen, bestaat geen aanspraak op een tegemoetkoming, indien bij de belanghebbende of, indien de belanghebbende het gehele berekeningsjaar dezelfde partner heeft, zijn partner over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking wordt genomen, dan wel in aanmerking zou worden genomen indien geen rekening wordt gehouden met de vrijstellingen bedoeld in [afdeling 5.3](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [5.3A van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 4.  Indien in een inkomensafhankelijke regeling de aanspraak op een tegemoetkoming mede afhankelijk is gesteld van het vermogen van medebewoners, bestaat tevens geen aanspraak op een tegemoetkoming indien bij een medebewoner over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking wordt genomen, dan wel in aanmerking zou worden genomen indien geen rekening wordt gehouden met de vrijstellingen bedoeld in [afdeling 5.3](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [5.3A van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Het bepaalde in de eerste volzin geldt alleen ten aanzien van degenen van wie het medebewonerschap het gehele berekeningsjaar heeft geduurd.   
-5.  Het toetsingsinkomen van een medebewoner die een eerstegraads bloed- of aanverwant in de neergaande lijn of een pleegkind is van de belanghebbende, van zijn partner, of van een medebewoner, en die bij de aanvang van het berekeningsjaar de leeftijd van 23 jaar niet heeft bereikt, wordt voor de toepassing van het tweede lid slechts in aanmerking genomen voor zover het meer bedraagt dan € 4451.   
+5.  Het toetsingsinkomen van een medebewoner die een eerstegraads bloed- of aanverwant in de neergaande lijn of een pleegkind is van de belanghebbende, van zijn partner, of van een medebewoner, en die bij de aanvang van het berekeningsjaar de leeftijd van 23 jaar niet heeft bereikt, wordt voor de toepassing van het tweede lid slechts in aanmerking genomen voor zover het meer bedraagt dan € 4527.   
 6.  Met betrekking tot het bedrag vermeld in het vijfde lid zijn de [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  8  
@@ -147,20 +147,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 1.  Toetsingsinkomen is: het op het berekeningsjaar betrekking hebbende inkomensgegeven.   
 2.  Niet in Nederland belastbaar inkomen, zoals dat bij beschikking is vastgesteld, wordt in aanvulling op het eerste lid mede als toetsingsinkomen in aanmerking genomen.   
-3.  Indien zulks leidt tot een ten minste 10 percent lager toetsingsinkomen, wordt bij beëindiging van het partnerschap in het berekeningsjaar, in afwijking in zoverre van het eerste en tweede lid, op verzoek van de belanghebbende bij de berekening van het toetsingsinkomen van de partner: 
-
-a. geen rekening gehouden met: 
-
-1°. belastbaar loon dat is genoten na de beëindiging van het partnerschap;  
-
-2°. winst uit een onderneming die na de beëindiging van het partnerschap is gestart; en  
-
-3°. belastbaar resultaat uit overige werkzaamheden indien de werkzaamheden na beëindiging van het partnerschap zijn gestart;    
-
-b. het belastbare loon dat in de periode van partnerschap is genoten tijdsevenredig herleid naar een jaarloon.     
-4.  Bij beëindiging van het medebewonerschap in het berekeningsjaar is het derde lid van overeenkomstige toepassing met betrekking tot het toetsingsinkomen van de medebewoner.   
-5.  Bij overlijden van de belanghebbende, zijn partner, of een medebewoner wordt, in afwijking in zoverre van het eerste en tweede lid het toetsingsinkomen van de overledene berekend door het op grond van die leden bepaalde toetsingsinkomen tijdsevenredig te herleiden naar een jaarinkomen.   
-6.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van het derde tot en met het vijfde lid.   
+3.  Bij overlijden van de belanghebbende wordt, indien hij geen partner heeft en er geen sprake is van een medebewoner, in afwijking in zoverre van het eerste en tweede lid het toetsingsinkomen berekend door het op grond van die leden bepaalde toetsingsinkomen tijdsevenredig te herleiden naar een jaarinkomen.   
 
 ### Artikel  8a  
 
@@ -237,9 +224,10 @@ De Belastingdienst/Toeslagen maakt voor de uitvoering van deze wet gebruik van h
 
 1.  Een tegemoetkoming wordt op aanvraag toegekend door de Belastingdienst/Toeslagen.   
 2.  Indien partners een gezamenlijke aanspraak op een tegemoetkoming hebben, wordt de tegemoetkoming uitsluitend toegekend aan de aanvrager.   
-3.  Het bedrag van de tegemoetkoming wordt rekenkundig afgerond op hele euro’s.   
-4.  Een tegemoetkoming wordt niet toegekend indien deze minder dan € 24 zou bedragen.   
-5.  Bij wet kan worden bepaald dat een belanghebbende geacht wordt een aanvraag te hebben gedaan.   
+3.  Indien op het moment van de toekenning van een tegemoetkoming ten name van de belanghebbende, zijn partner of een medebewoner over het berekeningsjaar geen inkomensgegeven in de basisregistratie inkomen, bedoeld in [artikel 21a, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is opgenomen, die persoon niet is uitgenodigd tot het doen van aangifte inkomstenbelasting en van die persoon ook geen beschikking ter zake van niet in Nederland belastbaar inkomen is of wordt vastgesteld, kent de Belastingdienst/Toeslagen de tegemoetkoming toe als ware het toetsingsinkomen van die persoon nihil. De inspecteur stelt bij beschikking vast dat op het moment van de toekenning van de tegemoetkoming van die persoon geen inkomensgegeven in de basisregistratie inkomen, bedoeld in artikel 21a, eerste lid, van de Algemene wet inzake rijksbelastingen is opgenomen, die persoon niet is uitgenodigd tot het doen van aangifte inkomstenbelasting en van die persoon ook geen beschikking ter zake van niet in Nederland belastbaar inkomen is of wordt vastgesteld. Deze beschikking wordt aangemerkt als een voor bezwaar vatbare beschikking als bedoeld in [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en vervat in hetzelfde geschrift als de toekenning van de tegemoetkoming.   
+4.  Het bedrag van de tegemoetkoming wordt rekenkundig afgerond op hele euro’s.   
+5.  Een tegemoetkoming wordt niet toegekend indien deze minder dan € 24 zou bedragen.   
+6.  Bij wet kan worden bepaald dat een belanghebbende geacht wordt een aanvraag te hebben gedaan.   
 
 ### Artikel  15  
 
@@ -298,10 +286,10 @@ b. in andere gevallen: binnen acht weken na de ontvangst van de aanvraag.
 
 ### Artikel  20  
 
-####Herziening tegemoetkoming wegens wijziging fiscale gegevens na toekenning
+####Herziening tegemoetkoming wegens alsnog beschikbaar komen of wijziging fiscale gegevens na toekenning
 
-1.  Indien na de toekenning van de tegemoetkoming uit een wijziging van een inkomensgegeven of niet in Nederland belastbaar inkomen blijkt dat de tegemoetkoming tot een te hoog of te laag bedrag is toegekend, herziet de Belastingdienst/Toeslagen de tegemoetkoming met inachtneming van die wijziging.   
-2.  De herziening geschiedt binnen acht weken na het tijdstip waarop het gewijzigde inkomensgegeven aan de Belastingdienst/Toeslagen bekend is geworden dan wel de beschikking of uitspraak strekkende tot de in het eerste lid bedoelde wijziging onherroepelijk is geworden.   
+1.  Indien na de toekenning van de tegemoetkoming uit een eerste vaststelling, eerste bepaling of wijziging van een inkomensgegeven of niet in Nederland belastbaar inkomen blijkt dat de tegemoetkoming tot een te hoog of te laag bedrag is toegekend, herziet de Belastingdienst/Toeslagen de tegemoetkoming met inachtneming van die eerste vaststelling, eerste bepaling of wijziging.   
+2.  De herziening geschiedt binnen acht weken na het tijdstip waarop het voor het eerst vastgestelde, voor het eerst bepaalde of gewijzigde inkomensgegeven aan de Belastingdienst/Toeslagen bekend is geworden dan wel de beschikking of uitspraak strekkende tot de in het eerste lid bedoelde vaststelling, bepaling of wijziging onherroepelijk is geworden.   
 3.  Een herziening op grond van dit artikel kan leiden tot een uit te betalen bedrag doch ook tot een terug te vorderen bedrag.   
 
 ### Artikel  21  
@@ -460,7 +448,9 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../../
 
 1.  Een bezwaar tegen de toekenning of herziening van een tegemoetkoming wordt, tenzij uit het bezwaarschrift het tegendeel blijkt, geacht mede te zijn gericht tegen de toekenning of herziening van andere tegemoetkomingen over hetzelfde berekeningsjaar die bij hetzelfde geschrift zijn toegekend of herzien, alsmede tegen de in verband daarmee berekende rente.   
 2.  Indien een tegemoetkoming is herzien en naar aanleiding daarvan een bestuurlijke boete is opgelegd die is vervat in hetzelfde geschrift als de herziening, wordt een bezwaarschrift tegen de herziening geacht mede te zijn gericht tegen de boete.   
-3.  De Belastingdienst/Toeslagen kan uitspraken op bezwaar in de in het eerste en tweede lid bedoelde gevallen vervatten in één geschrift.   
+3.  Een bezwaar tegen de toekenning van een tegemoetkoming wordt, tenzij uit het bezwaarschrift het tegendeel blijkt, geacht mede te zijn gericht tegen de voor bezwaar vatbare beschikking, bedoeld in artikel 14, derde lid, die is vervat in hetzelfde geschrift.   
+4.  Een bezwaar tegen de voor bezwaar vatbare beschikking, bedoeld in artikel 14, derde lid, wordt, tenzij uit het bezwaarschrift het tegendeel blijkt, geacht mede te zijn gericht tegen de toekenning van een tegemoetkoming die is vervat in hetzelfde geschrift.   
+5.  De Belastingdienst/Toeslagen kan uitspraken op bezwaar in de in het eerste, tweede, derde en vierde lid bedoelde gevallen vervatten in één geschrift.   
 
 ### Paragraaf  5  
 
@@ -503,7 +493,6 @@ De Belastingdienst/Toeslagen kan onder bij of krachtens algemene maatregel van b
 3.  Bij het opleggen van een bestuurlijke boete is [artikel 67g, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
 4.  Bij het opleggen van de in het eerste lid bedoelde bestuurlijke boete vindt [artikel 5:53 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen toepassing.   
 5.  In afwijking in zoverre van [artikel 5:45 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete als bedoeld in het eerste lid, vijf jaren na de dag waarop de in artikel 18, derde lid, gestelde termijn is verstreken en een bestuurlijke boete als bedoeld in het tweede lid, vijf jaren na het einde van het berekeningsjaar waarop de te hoog toegekende tegemoetkoming betrekking heeft.   
-6.  Indien de tegemoetkoming wordt herzien als gevolg van een vaststelling of herziening van de beschikking verzamelinkomen als bedoeld in [artikel 9.5 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of van een vaststelling of herziening van een beschikking niet in Nederland belastbaar inkomen, worden onder de in het tweede lid bedoelde gegevens of inlichtingen mede verstaan de gegevens of inlichtingen die ten behoeve van deze beschikking aan de inspecteur zijn verstrekt dan wel hadden moeten worden verstrekt. [Artikel 67d van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is niet van toepassing.   
 6.  Indien de tegemoetkoming wordt herzien als gevolg van: 
 
 a. een eerste bepaling of herziening van het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), in het geval er geen inkomstenbelasting verschuldigd is, dan wel de aanslag inkomstenbelasting is vastgesteld op nihil;  
@@ -519,6 +508,13 @@ b. een vaststelling of herziening van een beschikking niet in Nederland belastba
 3.  Bij het opleggen van een bestuurlijke boete zijn de [artikelen 67g, tweede lid](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [67p van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
 4.  Bij het opleggen van de in het eerste lid bedoelde bestuurlijke boete vindt [artikel 5:53 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen toepassing.   
 5.  In afwijking in zoverre van [5:45 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete vijf jaren na de dag waarop de in artikel 38, derde lid, gestelde termijn is verstreken.   
+
+### Artikel  41a  
+
+####Indexatie boetebedragen
+
+1.  De in de artikelen 40, eerste lid, en 41, eerste lid, genoemde bedragen worden elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.   
+2.  De gewijzigde bedragen vinden voor het eerst toepassing met betrekking tot overtredingen die hebben plaatsgevonden na het begin van het kalenderjaar bij de aanvang waarvan de bedragen zijn gewijzigd.   
 
 ### Artikel  42  
 
@@ -564,7 +560,7 @@ b. een door de belanghebbende verschuldigd bedrag aan terugvordering dat betrekk
 
 ####Samenloop met buitenlandse tegemoetkomingen
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van tegemoetkomingen met naar aard en strekking daarmee overeenkomende tegemoetkomingen op grond van een buitenlandse regeling of een regeling van een volkenrechtelijke organisatie.  
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de samenloop van tegemoetkomingen met tegemoetkomingen op grond van een buitenlandse regeling of een regeling van een volkenrechtelijke organisatie.  
 
 ### Artikel  47  
 

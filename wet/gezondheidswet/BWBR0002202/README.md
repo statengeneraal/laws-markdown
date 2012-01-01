@@ -105,7 +105,9 @@ In afwijking van [artikel 15, tweede lid, van de Kaderwet adviescolleges](../../
 
 a. het verrichten van onderzoek naar de staat van de volksgezondheid en de determinanten daarvan alsmede, waar nodig, het aangeven en bevorderen van middelen tot verbetering daarvan;  
 
-b. het toezicht op de naleving en de opsporing van overtredingen van het bepaalde bij of krachtens wettelijke voorschriften op het gebied van de volksgezondheid, een en ander voor zover de ambtenaren van het Staatstoezicht daarmede zijn belast bij of krachtens wettelijk voorschrift.     
+b. het toezicht op de naleving en de opsporing van overtredingen van het bepaalde bij of krachtens wettelijke voorschriften op het gebied van de volksgezondheid, een en ander voor zover de ambtenaren van het Staatstoezicht daarmede zijn belast bij of krachtens wettelijk voorschrift;  
+
+c. het geven of weigeren van de toestemming, bedoeld in [artikel 40, derde lid, onder c, van de Geneesmiddelenwet](../../../wet/geneesmiddelenwet/BWBR0021505/README.md).     
 2.  Het Staatstoezicht heeft voorts tot taak het uitbrengen van adviezen en het verstrekken van inlichtingen aan Onze Minister op verzoek of uit eigen beweging, met betrekking tot hetgeen het Staatstoezicht op grond van het eerste lid ter kennis is gekomen.   
 3.  De in het eerste lid, onder b, genoemde taken strekken zich ook uit tot de voorschriften van een verordening van de Raad van de Europese Gemeenschappen op het gebied van de volksgezondheid, voor zover de verordening toezicht op de naleving en opsporing van overtredingen daarvan vordert.   
 4.  Bij algemene maatregel van bestuur kan worden bepaald dat een of meer onderdelen van het Staatstoezicht ressorteren onder een andere Minister dan Onze Minister van Volksgezondheid, Welzijn en Sport. De voordracht voor een zodanige algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister wie het mede aangaat.   

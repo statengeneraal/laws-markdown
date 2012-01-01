@@ -152,10 +152,10 @@ Indien aan de wethouder een dienstauto ter beschikking is gesteld en hij voor he
 
 | Aantal inwoners gemeente  | maximale onkostenvergoeding per maand  |
 |:---|:---|
-| Tot en met 8.000  | € 129,18  |
-| 8.001–14.000  | € 212,28  |
-| 14.001–18.000  | € 274,61  |
-| 18.001 of meer  | € 299,66  |
+| Tot en met 8.000  | € 132,67  |
+| 8.001–14.000  | € 218,01  |
+| 14.001–18.000  | € 282,02  |
+| 18.001 of meer  | € 307,75  |
 
 2.  De bedragen, genoemd in het eerste lid, worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande kalenderjaar.   
 

@@ -15,7 +15,7 @@ Besluit:
 
 ### Artikel  1  
 
-Deze regeling geeft uitvoering aan de [artikelen 2, tiende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [2d, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [2e, zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [7, zevende, achtste en negende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [26, achtste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [27, derde en zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [37, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [38](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [40, eerste en derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [41, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [42, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [42a, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50c, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50d, vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50f, zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [53, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [56, zesde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [64, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [65, achtste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [66, vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [66a, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [68, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [69](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [69a, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [70, zesde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71a, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71b, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71c, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71d, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71e, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71f, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71g, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71h, tweede en vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [73, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [75, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [76a, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [78, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [79, eerste, tweede en derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [80, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [82, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [83, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [84, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [84a, zesde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [84b, vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [90, zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [91, vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [94, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [95, vierde lid, van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en de [artikelen 12](../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md) en [21, zevende lid, van het Uitvoeringsbesluit accijns](../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 2, tiende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [2d, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [2e, zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [7, zevende, achtste en negende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [26, achtste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [27, derde en zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [37, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [38](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [40, eerste en derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [41, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [42, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [42a, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50c, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50d, vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50f, zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [53, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [56, zesde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [64, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [65, achtste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [66, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [66a, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [68, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [69](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [69a, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [70, zesde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71a, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71b, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71c, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71d, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71e, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71f, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71g, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71h, achtste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [73, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [75, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [76a, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [78, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [79, eerste, tweede en derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [80, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [82, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [83, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [84, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [84a, zesde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [84b, vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [90, zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [91, vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [94, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [95, vierde lid, van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en de [artikelen 12](../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md) en [21, zevende lid, van het Uitvoeringsbesluit accijns](../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md).  
 
 ### Artikel  2  
 
@@ -299,6 +299,13 @@ d. gemiddeld in een aangiftetijdvak met toepassing van [artikel 2a van het besl
 2.  Het accijnsbelang, bedoeld in het eerste lid, is het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door of namens de vervoerder of de eigenaar wordt vervoerd naar de in [artikel 2a, eerste en derde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemmingen.   
 3.  De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het accijnsbelang met een maximum van € 2 250 000.   
 
+### Artikel  22c  
+
+1.  De inspecteur bepaalt het bedrag van de zekerheid, bedoeld in [artikel 76, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), op basis van het accijnsbelang.   
+2.  Het accijnsbelang van de bedrukte accijnszegels is gelijk aan het bedrag aan accijns en omzetbelasting dat de bedrukte accijnszegels vertegenwoordigen die de houder van de toestemming gemiddeld per maand in voorraad heeft.   
+3.  Het accijnsbelang van de onbedrukte accijnszegels is gelijk aan het bedrag aan accijns en omzetbelasting behorend bij een kleinhandelsprijs en hoeveelheid die de houder van de toestemming gemiddeld per maand op de onbedrukte blanco accijnszegels vermeldt of heeft vermeld.   
+4.  De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het accijnsbelang met een maximum van € 9000 000 voor een houder van een accijnsgoederenplaats en € 2 250 000 voor de in [artikel 75, eerste lid, onderdelen b, c en d](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), bedoelde bedrijven.   
+
 ### Hoofdstuk  IV  
 
 ####Vrijstellingen en teruggaven
@@ -356,22 +363,6 @@ j. in geval van levering van de in [artikel 19a van het besluit](../../../../AMv
 
 k. in geval van levering uit een schip, de naam en het registratienummer van het schip van waaruit is geleverd.     
 2.  De verklaring wordt in het Nederlands of in het Engels opgesteld.   
-
-### Artikel  30  
-
-1.  De opgave, bedoeld in [artikel 21, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md), wordt gedaan uiterlijk de vijftiende dag van de maand, volgende op die waarin de minerale olie in de brandstoftanks van het luchtvaartuig of de luchtvaartuigen is afgeleverd.   
-2.  Een afschrift van deze opgave wordt gezonden aan de inspecteur die de vergunning, bedoeld in [artikel 21, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md), heeft verleend.   
-3.  In de opgave worden vermeld: 
-
-a. de naam en adres van de eigenaar of exploitant van het luchtvaartuig of de luchtvaartuigen waarin de minerale olie is afgeleverd;  
-
-b. het registratienummer van het luchtvaartuig of de registratienummers van de luchtvaartuigen waarin de minerale olie is afgeleverd;  
-
-c. per binnenlandse vlucht de plaats van vertrek en de plaats van landing, alsmede de datum en het tijdstip waarop die vlucht heeft plaatsgevonden;  
-
-d. per binnenlandse vlucht de hoeveelheid van de minerale olie;  
-
-e. de totale hoeveelheid minerale olie alsmede de periode waarop de opgave betrekking heeft.     
 
 ### Artikel  30a  
 
@@ -565,11 +556,14 @@ c. per soort minerale olie de totale hoeveelheid en het bedrag waarvoor teruggaa
 
 d. de periode waarop het verzoek om teruggaaf betrekking heeft.     
 2.  Het verzoek om teruggaaf van accijns wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de desbetreffende afleveringen in de brandstoftanks van de luchtvaartuigen hebben plaatsgevonden.   
-3.  Het recht op teruggaaf dient aan de hand van boeken en bescheiden te kunnen worden aangetoond. Daartoe dient op de tankbonnen en facturen met betrekking tot de minerale oliën waarvoor teruggaaf wordt gevraagd, te worden vermeld het registratienummer van het luchtvaartuig in de brandstoftanks waarvan de minerale olie is afgeleverd, de dag waarop de aflevering heeft plaatsgevonden, alsmede de per aflevering getankte hoeveelheid. De administratie wordt voorts zodanig ingericht dat daaruit op overzichtelijke wijze, per luchtvaartuig, blijkt dat de vlucht waarvoor de minerale olie is gebruikt waarvoor teruggaaf wordt gevraagd: 
+3.  Het recht op teruggaaf van accijns wordt aangetoond aan de hand van de administratie van degene die verzoekt om teruggaaf van accijns, waartoe op de tankbonnen en facturen met betrekking tot minerale oliën waarvoor teruggaaf van accijns wordt gevraagd, per aflevering is vermeld: 
 
-a. een ander karakter heeft gehad dan plezierluchtvaart, en  
+a. het registratienummer van het luchtvaartuig, in de brandstoftanks waarvan de minerale olie is afgeleverd;  
 
-b. niet als een binnenlandse vlucht moet worden aangemerkt als bedoeld in [artikel 71d, vierde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).      
+b. de datum waarop die aflevering heeft plaatsgevonden; en  
+
+c. de soort en hoeveelheid minerale olie die is afgeleverd in de brandstoftanks van dat luchtvaartuig.     
+4.  De administratie van degene die verzoekt om teruggaaf van accijns is voorts zodanig ingericht dat daaruit per luchtvaartuig op overzichtelijke wijze blijkt dat de vlucht waarvoor de minerale olie is gebruikt waarvoor teruggaaf van accijns wordt gevraagd, geen plezierluchtvaart betreft.   
 
 ### Artikel  35g  
 
@@ -621,21 +615,20 @@ b. bescheiden waarmee wordt aangetoond dat de accijns door de andere lidstaat is
 
 ### Artikel  35k  
 
-1.  Het verzoek om teruggaaf van accijns, bedoeld in [artikel 71h, eerste lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de uitslag tot verbruik heeft plaatsgevonden.   
-2.  In de administratie van degene die verzoekt om teruggaaf van accijns is opgenomen: 
+1.  Het verzoek om teruggaaf van accijns, bedoeld in [artikel 71h, eerste lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), vermeldt: 
 
-a. de hoeveelheid duurzaam geproduceerde E85 waarvoor teruggaaf is verzocht en het bedrag waarvoor teruggaaf is verzocht; en  
+a. naam en fiscaal nummer van degene die het verzoek om teruggaaf doet;  
 
-b. de periode waarop het verzoek om teruggaaf betrekking heeft.     
-3.  Uit de administratie van degene die verzoekt om teruggaaf van accijns blijkt dat: 
+b. de soort en hoeveelheid duurzaam geproduceerde biobrandstof waarvoor teruggaaf van accijns wordt verzocht;  
 
-a. de E85 ten minste 70 percent en ten hoogste 85 percent bio-ethanol bevat;  
+c. het bedrag aan accijns dat wordt teruggevraagd, berekend als bedoeld in [artikel 71h, vierde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md); en  
 
-b. de in de E85 aanwezige bio-ethanol voldoet aan duurzaamheidseisen, bedoeld in artikel 3, derde lid, van het Besluit hernieuwbare energie vervoer; en  
+d. de periode waarop het verzoek om teruggaaf betrekking heeft.     
+2.  Teruggaaf van accijns wordt slechts verleend indien uit de administratie van degene die verzoekt om teruggaaf van accijns blijkt: 
 
-c. de E85 is afgeleverd als brandstof voor het aandrijven van motorrijtuigen op de weg.     
-4.  Het voldoen aan de duurzaamheidseisen, bedoeld in het vorige lid, blijkt uit een audit, bedoeld in artikel 3, derde lid, van het Besluit hernieuwbare energie vervoer, die is uitgevoerd door een onafhankelijke deskundige.   
-5.  Bij een verzoek om teruggaaf van accijns voor duurzaam geproduceerde E85 op grond van [artikel 71 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) wordt de teruggaaf verleend naar het tarief van ongelode lichte olie genoemd in [artikel 27, eerste lid, onderdeel a, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), met inachtneming van de vermindering die op grond van [artikel 71h van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) op dat tarief is toegepast.   
+a. wat de energie-inhoud per volume is van de duurzaam geproduceerde biobrandstof en van de gelijkwaardige motorbrandstof waarvan het accijnstarief van toepassing is; en  
+
+b. dat de duurzaam geproduceerde biobrandstof is afgeleverd als motorbrandstof voor het aandrijven van motorrijtuigen op de weg.     
 
 ### Hoofdstuk  V  
 
@@ -753,7 +746,7 @@ a. sigaren: veelvouden van 5 stuks, alsmede 1 stuk, 2, 3, 4, 6, 7, 8, 14, 16, 18
 
 b. sigaretten: veelvouden van 5 stuks met een minimum van 20 stuks, alsmede 19, 21 tot en met 24 en 26 tot en met 29 stuks;  
 
-c. rooktabak: veelvouden van 10 met een maximum van 200 g nettomassa en daarboven veelvouden van 50 g nettomassa, alsmede 12,5, 25, 28, 29, 35, 37,5, 38, 42,5, 45, 47,5, 52,5, 55, 65, 75, 95 g nettomassa en, voor zover het betreft pijptabak: 5 g nettomassa.     
+c. rooktabak: veelvouden van 10 met een maximum van 200 g nettomassa en daarboven veelvouden van 50 g nettomassa, alsmede 12,5, 25, 28, 29, 35, 37,5, 38, 39, 42,5, 45, 47,5, 52,5, 55, 58, 65, 75, 95 g nettomassa en, voor zover het betreft pijptabak: 5 g nettomassa.     
 2.  In afwijking van het eerste lid, onderdeel b, zijn hoeveelheden van 10 en 12 stuks per verpakking toegestaan voorzover het betreft de kruidnagelsigaretten, genoemd in de [Regeling kruidnagelsigaretten](../../../../ministeriele-regeling/regeling/kruidnagelsigaretten/BWBR0014476/README.md).   
 
 ### Artikel  49  

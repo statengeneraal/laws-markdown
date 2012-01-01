@@ -206,7 +206,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 1.  De inspecteur is bevoegd over te gaan tot een onderzoek van goederen en het eventueel nemen van monsters voor analyse of grondige controle ingeval geen aanvaarding van een douaneaangifte heeft plaatsgevonden.   
 2.  Voor de toepassing van het eerste lid is artikel 69 van het Communautair douanewetboek en Deel I, Titel VIII, van de toepassingsverordening Communautair douanewetboek van overeenkomstige toepassing, tenzij het doel of de aard van het onderzoek zich daartegen verzet.   
 3.  Ten behoeve van het onderzoek is, op vordering van de inspecteur, de persoon die goederen vervoert die zich niet in of op een vervoermiddel bevinden, gehouden terstond stil te staan.   
-4.  Bij regeling van Onze Minister van Justitie wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.   
+4.  Bij regeling van Onze Minister van Veiligheid en Justitie wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.   
 5.  De belanghebbende bij de goederen wordt voor de werking van dit artikel aangemerkt als aangever.   
 
 ### Artikel  1:25  
@@ -242,7 +242,7 @@ d. vervoermiddelen en de op of in die vervoermiddelen aanwezige woningen.
 ### Artikel  1:27  
 
 1.  De inspecteur is bevoegd met het oog op de uitoefening van de bevoegdheden, bedoeld in de artikelen 1:23, 1:24 dan wel 1:26, aanhef en onder d, van de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt.   
-2.  Bij regeling van Onze Minister van Justitie wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.   
+2.  Bij regeling van Onze Minister van Veiligheid en Justitie wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.   
 
 ### Artikel  1:28  
 
@@ -771,7 +771,7 @@ Ter zake van de bij deze wet of de daarop berustende bepalingen strafbaar gestel
 
 ### Artikel  10:15  
 
-1.  Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig artikel 11:3, tweede lid, in handen van de officier van justitie is gesteld, kan in afwijking van de [artikelen 257a](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [257b van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), uitsluitend de inspecteur een strafbeschikking uitvaardigen. Bij regeling van Onze minister van Financiën kunnen functionarissen worden aangewezen die deze bevoegdheid namens de inspecteur kunnen uitoefenen.   
+1.  Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig artikel 11:3, tweede lid, in handen van de officier van justitie is gesteld, kan in afwijking van de [artikelen 257a](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [257b](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [257ba van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), uitsluitend de inspecteur een strafbeschikking uitvaardigen. Bij regeling van Onze minister van Financiën kunnen functionarissen worden aangewezen die deze bevoegdheid namens de inspecteur kunnen uitoefenen.   
 2.  In deze strafbeschikking kan een geldboete worden opgelegd. Voorts kan deze strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. De aanwijzingen kunnen inhouden: 
 
 a. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;  
@@ -844,7 +844,7 @@ Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafba
 
 ### Artikel  11:7  
 
-Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.  
+Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Veiligheid en Justitie, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.  
 
 ### Artikel  11:8  
 

@@ -23,31 +23,33 @@ d. *hogeschool:* instelling als bedoeld in [artikel 1.8 van de Wet op het hoger
 
 e. *instelling:* school in de zin van [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), instelling in de zin van [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of instelling in de zin van [artikel 1.1, onderdeel f, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-f. *organisatie:* een door de Minister erkende organisatie die de belangen behartigt van instellingen bedoeld onder b, c dan wel d en die voor deze instellingen als penvoerder kan optreden voor activiteiten in het kader van het onderwijsbeleid;  
+f. *Aequor:* het Kenniscentrum Beroepsonderwijs – Bedrijfsleven Aequor;  
 
-g. *Groene kenniscoöperatie:* de instellingen, bedoeld in onderdeel b, c, d en Wageningen Universiteit en Research centrum die samenwerken met het oog op de verspreiding van kennis en op innovatie door het groen onderwijs, en die daarover afspraken maken met de Minister;  
+g. *organisatie:* een door de Minister erkende organisatie die de belangen behartigt van instellingen bedoeld onder b, c dan wel d en die voor deze instellingen als penvoerder kan optreden voor activiteiten in het kader van het onderwijsbeleid;  
 
-h. *praktijkleren:* onderwijsleeractiviteiten en toetsen in het kader van examens binnen door de Minister bekostigde opleidingen, die plaatsvinden binnen daartoe specifiek ingerichte situaties buiten de instelling waar de praktijk van het beroep wordt gesimuleerd en waar gerichte instructie in, oefening van en beoordeling van praktijkvaardigheden plaatsvinden;  
+h. *Groene kenniscoöperatie:* de instellingen, bedoeld in onderdeel b, c, d en Wageningen Universiteit en Research centrum die samenwerken met het oog op de verspreiding van kennis en op innovatie door het groen onderwijs, en die daarover afspraken maken met de Minister;  
 
-i. *voorziening voor praktijkleren:* situatie die specifiek buiten een instelling is ingericht voor praktijkleren;  
+i. *praktijkleren:* onderwijsleeractiviteiten en toetsen in het kader van examens binnen door de Minister bekostigde opleidingen, die plaatsvinden binnen daartoe specifiek ingerichte situaties buiten de instelling waar de praktijk van het beroep wordt gesimuleerd en waar gerichte instructie in, oefening van en beoordeling van praktijkvaardigheden plaatsvinden;  
 
-j. *implementatie van vernieuwing op het vlak van kennisverspreiding:* de implementatie van vernieuwingen die voortkomen uit jaarlijkse afspraken tussen de Minister en de Groene kenniscoöperatie over de stimulering van kennisontsluiting, -verspreiding en -benutting binnen het beleidsterrein van de Minister;  
+j. *voorziening voor praktijkleren:* situatie die specifiek buiten een instelling is ingericht voor praktijkleren;  
 
-k. *professionalisering van leerkrachten:* vernieuwingen die de professionalisering beogen van aan de instelling ten dienste van het door de Minister bekostigd beroepsonderwijs verbonden leerkrachten;  
+k. *implementatie van vernieuwing op het vlak van kennisverspreiding:* de implementatie van vernieuwingen die voortkomen uit jaarlijkse afspraken tussen de Minister en de Groene kenniscoöperatie over de stimulering van kennisontsluiting, -verspreiding en -benutting binnen het beleidsterrein van de Minister;  
 
-l. *internationalisering groen onderwijs:* vernieuwingen die de oriëntatie van beroepsopleidingen en de daaraan verbonden deelnemers en studenten op internationale ontwikkelingen en de internationale mobiliteit van deelnemers en studenten beogen, volgens jaarlijkse afspraken hierover tussen de Minister en de Groene kenniscoöperatie;  
+l. *professionalisering van leerkrachten:* vernieuwingen die de professionalisering beogen van aan de instelling ten dienste van het door de Minister bekostigd beroepsonderwijs verbonden leerkrachten;  
 
-m. *onderwijsbeleid:* het beleid van de Minister gericht op behoud en versterking van de kwaliteit en toegankelijkheid van het onderwijs, voorzover de Minister daarover afspraken maakt met de Groene kenniscoöperatie dan wel één of meer organisaties;  
+m. *internationalisering groen onderwijs:* vernieuwingen die de oriëntatie van beroepsopleidingen en de daaraan verbonden deelnemers en studenten op internationale ontwikkelingen en de internationale mobiliteit van deelnemers en studenten beogen, volgens jaarlijkse afspraken hierover tussen de Minister en de Groene kenniscoöperatie;  
 
-n. *primaire opleidingen:* opleidingen voor beroepen en ondernemerschap in de landbouw, tuinbouw en veeteelt en voor beroepen die dienstverlenend zijn aan de uitoefening van de landbouw, tuinbouw en veeteelt, die zijn opgenomen in de bijlage bij deze regeling;  
+n. *onderwijsbeleid:* het beleid van de Minister gericht op behoud en versterking van de kwaliteit en toegankelijkheid van het onderwijs, voorzover de Minister daarover afspraken maakt met de Groene kenniscoöperatie dan wel één of meer organisaties;  
 
-o. *Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+o. *primaire opleidingen:* opleidingen voor beroepen en ondernemerschap in de landbouw, tuinbouw en veeteelt en voor beroepen die dienstverlenend zijn aan de uitoefening van de landbouw, tuinbouw en veeteelt, die zijn opgenomen in de bijlage bij deze regeling;  
 
-p. *groene opleidingsschool:* partnerschap tussen Stoas Hogeschool en instellingen en afdelingen die in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleiden;  
+p. *Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
 
-q. *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, bedoeld in [artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+q. *groene opleidingsschool:* partnerschap tussen Stoas Hogeschool en instellingen en afdelingen die in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleiden;  
 
-r. *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend.    
+r. *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, bedoeld in [artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+
+s. *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend.    
 
 ### Paragraaf  2  
 
@@ -137,6 +139,7 @@ De hogescholen ontvangen de aanvullende bijdrage, bedoeld in artikel 11, jaarli
 
 1.  De school of scholengemeenschap waaraan een afdeling is verbonden, het agrarisch opleidingscentrum, de hogeschool, Wageningen Universiteit en de Universiteit Utrecht die de aanvullende bijdragen, bedoeld in artikel 2, 3 en 11, ontvangt, besteedt die bijdragen uitsluitend ten behoeve van het doel, genoemd in die artikelen.   
 2.  Het agrarisch opleidingscentrum of de hogeschool die de middelen, bedoeld in artikel 3, ontvangt, besteedt die bijdragen binnen het doel, genoemd in artikel 3, overeenkomstig de afspraken tussen de Minister en de Groene kenniscoöperatie en in voorkomende gevallen de organisaties.   
+3.  De Minister kan jaarlijks per 1 januari prioriteiten en aanvullende voorwaarden bekend maken voor de besteding van de aanvullende bijdragen, bedoeld in de artikelen 2, 3 en 11.   
 
 ### Artikel  16  
 
@@ -150,76 +153,67 @@ De hogescholen ontvangen de aanvullende bijdrage, bedoeld in artikel 11, jaarli
 
 ### Artikel  17  
 
-1.  De Minister kan op aanvraag subsidie verstrekken aan een agrarisch opleidingscentrum, een hogeschool of aan Wageningen Universiteit voor het, in samenwerking met tenminste één bedrijf, tot stand brengen van een voorziening voor praktijkleren.   
-2.  Subsidie wordt uitsluitend verstrekt voor investering in een voorziening die aanvullend is ten opzichte van reeds bestaande voorzieningen.   
-3.  Een voorziening die met inzet van subsidie uit deze regeling tot stand komt biedt diensten voor praktijkleren aan tegen marktconforme tarieven aan alle afdelingen, agrarische opleidingscentra, hogescholen en Wageningen Universiteit.   
+1.  De Minister kan op aanvraag subsidie verstrekken aan een agrarisch opleidingscentrum, een hogeschool of aan Wageningen Universiteit voor het, in samenwerking met tenminste één bedrijf, tot stand brengen van een voorziening voor praktijkleren of voor een aanmerkelijke vernieuwing of uitbreiding van een bestaande voorziening, al dan niet door samenvoeging van twee of meer bestaande voorzieningen.   
+2.  Subsidie wordt uitsluitend verstrekt voor een investering in een voorziening die aanvullend is ten opzichte van reeds bestaande voorzieningen of van één of meer andere aangevraagde investeringen of een aanmerkelijke vernieuwing of uitbreiding betekent van de bestaande voorzieningen en die zonder eenmalige subsidie voor deze investering niet via het bedrijfseconomisch verkeer tussen onderwijsinstellingen en bedrijfsleven kostendekkend kan worden aangeboden. Deze voorziening dient te voorzien in een aantoonbare behoefte van het bedrijfsleven en aan te sluiten op het onderwijsbeleid en het overig beleid van de Minister als bedoeld in het derde lid.   
+3.  De Minister maakt jaarlijks per 1 januari prioriteiten bekend voor de aansluiting op zijn beleid.   
+4.  Een voorziening die met inzet van subsidie uit deze regeling tot stand komt, aanmerkelijk wordt vernieuwd of uitgebreid, biedt diensten voor praktijkleren aan tegen marktconforme tarieven aan alle afdelingen, agrarische opleidingscentra, hogescholen en Wageningen Universiteit.   
 
 ### Artikel  18  
 
-Het subsidieplafond bedraagt: 
-
-1. in het jaar 2011 € 4.430.000,–;  
-
-2. in het jaar 2012 en de daaropvolgende jaren € 4.440.000,–.    
+Het subsidieplafond bedraagtin 2012 en de daaropvolgende jaren € 4.440.000,–.  
 
 ### Artikel  19  
 
-Aanvragen tot subsidieverlening kunnen jaarlijks tot 1 mei van elk jaar worden gedaan.  
+Aanvragen tot subsidieverlening kunnen jaarlijks tot 1 mei van elk jaar worden ingediend.  
 
 ### Artikel  20  
 
-1.  Een aanvraag tot verlening van subsidie wordt ingediend bij Dienst Regelingen, in de vorm van een investeringsplan volgens een daartoe door deze Dienst vastgesteld formulier.   
-2.  De aanvraag, bedoeld in het eerste lid, wordt ingediend door 
+1.  Een aanvraag tot verlening van subsidie wordt ingediend bij Dienst Regelingen.   
+2.  De aanvraag, bedoeld in het eerste lid, wordt ingediend door: 
 
 a. het bevoegd gezag van een agrarisch opleidingscentrum, een hogeschool of Wageningen Universiteit, of  
 
-b. meer dan één agrarisch opleidingscentrum of hogeschool, of door een combinatie van een agrarisch opleidingscentrum, een hogeschool en, onderscheidenlijk of, Wageningen Universiteit. In dit geval treedt één instelling op als penvoerder en ontvanger van de subsidie. Het bevoegd gezag van deze instelling wordt hier verder de aanvrager genoemd.     
-3.  De aanvraag wordt mede gedaan door tenminste één bedrijf. Onder bedrijf kan mede worden verstaan een praktijkbedrijf voor landbouwkundig onderzoek.   
-4.  Bij de aanvraag wordt een samenwerkingsovereenkomst gevoegd die is ondertekend door de aanvrager, en in de gevallen bedoeld in het tweede lid, onderdeel b, door de aanvrager en de instellingen die mede-aanvrager zijn, en door het bedrijf of de bedrijven die mede-aanvrager zijn. De samenwerkingsovereenkomst omvat tenminste de informatie overeenkomstig een daartoe door Dienst Regelingen vastgesteld model.   
-5.  Het investeringsplan, bedoeld in het eerste lid, omvat tenminste de volgende onderdelen: 
+b. meer dan één agrarisch opleidingscentrum of hogeschool, of door een combinatie van een agrarisch opleidingscentrum, een hogeschool en, onderscheidenlijk of, Wageningen Universiteit. In dit geval treedt één instelling op als aanvrager. Deze is penvoerder en subsidieontvanger.     
+3.  De aanvraag wordt gedaan in samenwerking met tenminste één bedrijf. Onder bedrijf kan mede worden verstaan een praktijkbedrijf voor landbouwkundig onderzoek.   
+4.  Bij de aanvraag wordt gevoegd: 
 
-a. de verklaring door de aanvrager, bedoeld in het tweede lid, onderdeel a of b, dat de aanvraag is afgestemd binnen de Groene kenniscoöperatie, en de uitkomsten van deze afstemming.  
+a. een investeringsplan volgens een daartoe door de Dienst Regelingen vastgesteld formulier;  
 
-b. gegevens waaruit blijkt dat de voorziening aanvullend is op bestaande voorzieningen voor praktijkleren, gebaseerd op een analyse van het aanbod en de regionale spreiding van bestaande voorzieningen voor praktijkleren die overeenkomen met de aangevraagde voorziening en van het gebruik van die voorzieningen;  
+b. een samenwerkingsovereenkomst die is ondertekend door de aanvrager, door het bedrijf of de bedrijven bedoeld in het derde lid en, in de gevallen bedoeld in het tweede lid, onderdeel b, door de instellingen die met de aanvrager samenwerken. Uit de samenwerkingsovereenkomst blijken ten minste de wederzijdse verplichtingen van de ondertekenaars bij het tot stand brengen, aanmerkelijk vernieuwen of uitbreiden en bij de exploitatie van de voorziening, de beoogde organisatie van de voorziening en de rol van de ondertekenaars in deze organisatie. De samenwerkingsovereenkomst omvat tenminste de informatie overeenkomstig een daartoe door Dienst Regelingen vastgesteld model;  
 
-c. gegevens waaruit de vraag naar de voorziening blijkt, gebaseerd op een analyse van de aantallen potentiële gebruikers, in relatie tot het mogelijk gebruik van bestaande voorzieningen;  
+c. de verklaring door de aanvrager, bedoeld in het tweede lid, onderdeel a of b, dat de aanvraag is afgestemd binnen de Groene kenniscoöperatie op basis van de Meerjarenvisie praktijkleervoorzieningen van de Groene kenniscoöperatie, en de uitkomsten van deze afstemming;  
 
-d. het doel van de voorziening, waaronder het soort opleiding waarvoor deze is bedoeld en de verbeteringen ten opzichte van de bestaande voorzieningen voor praktijkleren die door de aangevraagde voorziening worden gerealiseerd;  
+d. de zienswijze van de Groene kenniscoöperatie omtrent de aansluiting van de aanvraag op de Meerjarenvisie praktijkleervoorzieningen die door de Groene kenniscoöperatie is vastgesteld en op het overzicht van bestaande voorzieningen voor praktijkleren dat door de Groene kenniscoöperatie wordt onderhouden en over de onderwijskundige kwaliteit van de aanvraag in het licht van kwaliteitscriteria van de Groene kenniscoöperatie:  
 
-e. de vorm waarin praktijkleren in deze voorziening wordt gerealiseerd en de overwegingen daartoe, ondermeer in relatie tot ontwikkelingen en vernieuwingen in de bedrijven waar het te oefenen beroep wordt uitgeoefend;  
+e. een begroting voor het tot stand brengen van de voorziening of voor het aanmerkelijk vernieuwen of uitbreiden van een bestaande voorziening, waaruit de kosten voor het tot stand brengen of aanmerkelijk vernieuwen of uitbreiden van de voorziening, het aangevraagde subsidiebedrag en het aandeel van iedere ondertekenaar van de samenwerkingsovereenkomst in de financiering van de investering blijken. Het aandeel van het bedrijf of van de bedrijven in de begroting kan geheel of ten dele bestaan uit de kapitalisatie van inzet van bedrijfsmiddelen of inzet van arbeid. De begroting wordt opgesteld overeenkomstig een door Dienst Regelingen vastgesteld model;  
 
-f. de beoogde organisatie van de voorziening en de rol die de ondertekenaars van de samenwerkingsovereenkomst in deze organisatie zullen hebben;  
+f. een begroting voor de exploitatie van de voorziening voor een periode van vijf jaar na de in de aanvraag voorziene start van de exploitatie, waaruit het aandeel van de ondertekenaars van de samenwerkingsovereenkomst in de baten en lasten van de exploitatie blijkt. De begroting wordt opgesteld overeenkomstig een door Dienst Regelingen vastgesteld model;  
 
-g. een begroting voor het tot stand brengen van de voorziening en voor de exploitatie van de voorziening, waaruit de kosten voor het tot stand brengen van de voorziening, het aangevraagde subsidiebedrag en het aandeel van de ondertekenaars van de samenwerkingsovereenkomst in de financiering van de investering en in de exploitatie blijken; het aandeel van het bedrijf of van de bedrijven in de begroting kan geheel of ten dele bestaan uit de kapitalisatie van inzet van bedrijfsmiddelen of inzet van arbeid; de begroting wordt opgesteld overeenkomstig een door Dienst Regelingen vastgesteld model;  
-
-h. een analyse van de verhouding tussen kosten en baten van investering en exploitatie van de aangevraagde voorziening, in vergelijking met de kosten en baten van het gebruik van overeenkomstige bestaande voorzieningen;  
-
-i. in voorkomende gevallen toont de aanvrager de meerwaarde van de voorziening, bedoeld in artikel 17, eerste lid, aan voor een programma of project waarvoor op basis van de [Regeling kennisverspreiding en innovatie groen onderwijs](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) subsidie is ontvangen;  
-
-j. een verklaring dat de voorziening beschikbaar zal zijn voor de afdelingen en voor agrarische opleidingscentra, hogescholen en Wageningen Universiteit, voor zover deze de samenwerkingsovereenkomst niet hebben ondertekend, en het gaat om opleidingen waarvoor de aangevraagde voorziening is bedoeld, en gegevens waaruit blijkt dat het gebruik van de voorziening door deze instellingen ook feitelijk mogelijk zal zijn.     
-6.  In de begroting zijn geen kosten opgenomen die uit andere hoofde zijn of worden gefinancierd van overheidswege.   
-7.  In de begroting is geen debetrente opgenomen.   
-8.  In de begroting voor het tot stand brengen van de voorziening, bedoeld in het vijfde lid, onderdeel g, is naast het gevraagde subsidiebedrag een aandeel in de financiering van iedere ondertekenaar van de samenwerkingsovereenkomst, bedoeld in het vierde lid, opgenomen. Dit aandeel kan voor iedere ondertekenaar verschillend zijn. De aanvraag wordt alleen goedgekeurd als de Minister het aangevraagde subsidiebedrag redelijk acht in verhouding tot het gezamenlijke aandeel van de ondertekenaars van de samenwerkingsovereenkomst.   
+g. een verklaring dat de voorziening beschikbaar zal zijn voor de afdelingen en voor agrarische opleidingscentra, hogescholen en Wageningen Universiteit, voor zover deze de samenwerkingsovereenkomst niet hebben ondertekend en het gaat om opleidingen waarvoor de aangevraagde voorziening is bedoeld, en gegevens waaruit blijkt dat het gebruik van de voorziening door deze instellingen ook feitelijk mogelijk zal zijn.     
+5.  In de begroting zijn geen kosten opgenomen die uit andere hoofde zijn of worden gefinancierd van overheidswege en is geen debetrente opgenomen.   
+6.  In de begroting voor het tot stand brengen, aanmerkelijk vernieuwen of uitbreiden van de voorziening, bedoeld in het vierde lid, onderdeel e, is naast het gevraagde subsidiebedrag een aandeel in de financiering van iedere ondertekenaar van de samenwerkingsovereenkomst, bedoeld in het tweede en derde lid, opgenomen. Dit aandeel kan voor iedere ondertekenaar verschillend zijn.   
 
 ### Artikel  21  
 
-1.  De Minister rangschikt aanvragen tot subsidieverlening die in een zelfde aanvraagperiode zijn ingediend, waarbij een aanvraag hoger wordt gerangschikt naarmate 
+Het investeringsplan, bedoeld in artikel 20, vierde lid, onderdeel a, omvat tenminste de volgende informatie: 
 
-a. de lacune in de mogelijkheden voor praktijkleren die de voorziening opvult, in relatie tot de aangetoonde vraag, ernstiger is, blijkend uit de analyses in het investeringsplan, bedoeld in artikel 20, vijfde lid, onderdeel b en c;  
+a. een beknopte beschrijving van de beoogde voorziening voor praktijkleren, waaronder in ieder geval de locatie, de gebouwelijke en de materiële uitvoering en de wijze waarop praktijkleren in deze voorziening zal worden uitgevoerd;  
 
-b. de voorziening meer een innovatief karakter heeft in relatie tot innovaties van bedrijven waar het te oefenen beroep wordt uitgeoefend, blijkend uit het onderdeel van het investeringsplan, bedoeld in artikel 20, vijfde lid, onderdeel e;  
+b. gegevens waaruit blijkt in hoeverre de aanvraag aansluit op de prioriteiten van de Minister, bedoeld in artikel 17, derde lid;  
 
-c. de verhouding tussen kosten en baten gunstiger is, blijkend uit de analyse in het investeringsplan, bedoeld in artikel 20, vijfde lid, onderdeel h;  
+c. indien de aanvraag een nieuwe voorziening betreft, gegevens waaruit blijkt dat de voorziening aanvullend is op bestaande voorzieningen voor praktijkleren, gebaseerd op een analyse van het aanbod en de regionale spreiding van bestaande voorzieningen voor praktijkleren die overeenkomen met de aangevraagde voorziening en van het gebruik van die voorzieningen;  
 
-d. de mate waarin de voorziening meerwaarde oplevert bij een goedgekeurd project in het kader van een programma als bedoeld in [artikel 2, tweede lid, van de Regeling kennisverspreiding en innovatie groen onderwijs](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md), blijkend uit het onderdeel van het investeringsplan, bedoeld in artikel 20, vijfde lid, onderdeel i;  
+d. indien de aanvraag een vernieuwing of uitbreiding van een bestaande voorziening betreft, gegevens waaruit blijkt dat de voorziening na vernieuwing of uitbreiding aanvullend is op andere bestaande voorzieningen voor praktijkleren, gebaseerd op een analyse van het aanbod en de regionale spreiding van bestaande voorzieningen voor praktijkleren die overeenkomen met de aangevraagde voorziening en van het gebruik van die voorzieningen;  
 
-e. het aantal agrarische opleidingscentra, hogescholen en, onderscheidenlijk of, Wageningen Universiteit in de samenwerkingsovereenkomst, bedoeld in artikel 20, vierde lid, groter is;  
+e. gegevens waaruit blijkt dat de voorziening aansluit op de behoefte van het bedrijfsleven aan de praktijkvaardigheden die in de beoogde voorziening zullen worden geïnstrueerd, geoefend of beoordeeld, in relatie tot ontwikkelingen en vernieuwingen in de bedrijven waar de bedoelde praktijkvaardigheden worden uitgeoefend, in vergelijking met het mogelijk gebruik van bestaande voorzieningen;  
 
-f. de samenwerkingsovereenkomst zowel is getekend door één of meer agrarische opleidingscentra als door één of meer hogescholen en, onderscheidenlijk of, Wageningen Universiteit;  
+f. de opleiding of opleidingen waarvoor de voorziening is bedoeld en gegevens waaruit de vraag naar de voorziening blijkt, gebaseerd op een analyse van de aantallen potentiële gebruikers binnen deze opleiding of opleidingen en het volume van het praktijkleren van deze gebruikers, in vergelijking met het mogelijk gebruik van bestaande voorzieningen;  
 
-g. het aandeel cofinanciering door het bedrijf of de bedrijven die de samenwerkingsovereenkomst ondertekend hebben, in de begroting voor het tot stand brengen van de voorziening, bedoeld in artikel 20, vijfde lid, onderdeel g, groter is.     
-2.  Volgens de rangschikking, bedoeld in het eerste lid, komt de hoogst gerangschikte aanvraag het eerst voor subsidie in aanmerking.   
-3.  Indien het totaal van de aanvragen, dat naar het oordeel van de Minister passen in het doel van de subsidie en voldoen aan de voorwaarden in artikel 17 en 20, in enig jaar het subsidieplafond, bedoeld in artikel 18, overschrijdt wijst de Minister op basis van de rangschikking, bedoeld in het eerste lid, één of meer aanvragen af.   
+g. de verbeteringen in de kwaliteit en effectiviteit van het praktijkleren ten opzichte van de bestaande voorzieningen voor praktijkleren die door de aangevraagde voorziening, vernieuwing of uitbreiding van een bestaande voorziening, worden gerealiseerd;  
+
+h. een analyse van de verhouding tussen kosten en baten van investering en exploitatie van de aangevraagde voorziening, in vergelijking met de kosten en baten van het gebruik van overeenkomstige bestaande voorzieningen;  
+
+i. in voorkomende gevallen toont de aanvrager aan dat de aangevraagde voorziening aansluit op een programma of project waarvoor op basis van de [Regeling kennisverspreiding en innovatie groen onderwijs](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) subsidie is ontvangen; waar van toepassing geeft hij de meerwaarde van de aangevraagde voorziening voor dit programma of project aan.    
 
 ### Artikel  21a  
 
@@ -241,45 +235,46 @@ d. de mate waarin een aanvraag aansluit op de Meerjarenvisie praktijkleervoorzie
 
 ### Artikel  22  
 
-De Minister beslist uiterlijk op 1 augustus van elk jaar op de aanvraag. De Minister kan zijn besluit mede baseren op het oordeel van door hem aan te wijzen onafhankelijke deskundigen.  
+De Minister beslist uiterlijk op 1 augustus van elk jaar op een aanvraag.  
 
 ### Artikel  23  
 
 Als subsidiabele kosten worden uitsluitend in aanmerking genomen: 
 
-a. de kosten van het personeel van de instelling of van de instellingen in de samenwerkingsovereenkomst dat voor het realiseren van de voorziening is ingezet;  
+a. de kosten van het personeel van de instelling of van de instellingen in de samenwerkingsovereenkomst die voor het realiseren van de voorziening zijn ingezet;  
 
-b. de kosten die aantoonbaar noodzakelijk zijn en daadwerkelijk zijn betaald voor het realiseren van de voorziening en die gemaakt zijn voor het bouwen en, onderscheidenlijk of, het inhuren van bedrijven voor ontwerp, bouwbegeleiding en controle van uitgevoerde werken;  
+b. de kosten die aantoonbaar noodzakelijk zijn en daadwerkelijk zijn betaald voor het realiseren van de voorziening, de vernieuwing of de uitbreiding en die gemaakt zijn voor het bouwen of het inhuren van bedrijven voor ontwerp, bouwbegeleiding en controle van uitgevoerde werken;  
 
 c. andere materiële kosten die aantoonbaar noodzakelijk zijn en daadwerkelijk door de instelling of instellingen in de samenwerkingsovereenkomst zijn betaald voor het tot stand brengen van de voorziening voor praktijkleren.    
 
 ### Artikel  24  
 
-De subsidie bedraagt ten hoogste 100% van de subsidiabele kosten.  
+De subsidie bedraagt ten hoogste 80% van de subsidiabele kosten.  
 
 ### Artikel  25  
 
 1.  Het verleende subsidiebedrag mag door de subsidieontvanger worden besteed gedurende een periode van één of meerdere jaren. Deze periode wordt in de beschikking bepaald op basis van het jaar of de jaren waarvoor in de begroting uitgaven zijn voorzien.   
-2.  De Minister verstrekt bij goedkeuring van de aanvraag een eerste voorschot op de subsidie van 20% van het te verstrekken subsidiebedrag. Volgende voorschotten worden verstrekt op basis van een aanvraag, vergezeld van een korte voortgangsrapportage en een overzicht van de liquiditeitsbehoefte. Aanvragen kunnen worden gedaan gedurende de periode, bedoeld in het eerste lid. Indien aan het eind van deze periode de voorziening overeenkomstig de aanvraag nog niet is voltooid, kan de aanvrager een gemotiveerd en onderbouwd verzoek tot verlenging van de periode en verdere voorschotverstrekking indienen.   
+2.  De Minister verstrekt bij goedkeuring van de aanvraag een eerste voorschot op de subsidie van 20% van het te verstrekken subsidiebedrag. Volgende voorschotten worden verstrekt op basis van een aanvraag, vergezeld van een korte voortgangsrapportage en een overzicht van de liquiditeitsbehoefte. Aanvragen kunnen worden gedaan gedurende de periode, bedoeld in het eerste lid. Indien aan het einde van deze periode de voorziening overeenkomstig de aanvraag nog niet is voltooid, kan de aanvrager een gemotiveerd en onderbouwd verzoek tot verlenging van de periode en verdere voorschotverstrekking indienen.   
 3.  Het totaal aan voorschotten is ten hoogste 80% van het te verstrekken subsidiebedrag.   
 
 ### Artikel  26  
 
-1.  De ontvanger van de subsidie brengt de voorziening voor praktijkleren tot stand overeenkomstig het investeringsplan, bedoeld in artikel 20. De Minister kan goedkeuring verlenen aan een tussentijdse, gemotiveerde en onderbouwde wijziging van het investeringsplan, tenzij de wijziging verhoging van het bedrag van de subsidie of het bedrag waarop de subsidie overeenkomstig de beschikking tot subsidieverlening ten hoogste kan worden vastgesteld, tot gevolg heeft.   
-2.  De ontvanger van de subsidie, bedoeld in artikel artikel 20, tweede lid, dient binnen vier maanden na afronding van de activiteiten waarvoor subsidie is verstrekt, of, indien de activiteiten niet zijn uitgevoerd of niet zijn afgerond, binnen vier maanden na afloop van de periode, bedoeld in artikel 25, eerste en tweede lid, de aanvraag voor de vaststelling van de subsidie met een financieel verslag, vergezeld van een rapportage omtrent de bestemming en besteding van de subsidie, in bij Dienst Regelingen.   
+1.  De subsidieontvanger brengt de voorziening voor praktijkleren tot stand overeenkomstig de begroting, bedoeld in artikel 20, vierde lid, onderdeel e, en het investeringsplan, bedoeld in artikel 21. De Minister kan goedkeuring verlenen aan een tussentijdse, gemotiveerde en onderbouwde wijziging van het investeringsplan, tenzij de wijziging verhoging van het bedrag van de subsidie of het bedrag waarop de subsidie overeenkomstig de beschikking tot subsidieverlening ten hoogste kan worden vastgesteld, tot gevolg heeft.   
+2.  De subsidieontvanger, genoemd in artikel 20, tweede lid, onderdeel b, dient binnen vier maanden na afronding van de activiteiten waarvoor subsidie is verstrekt, of, indien de activiteiten niet zijn uitgevoerd of niet zijn afgerond, binnen vier maanden na afloop van de periode, bedoeld in artikel 25, eerste en tweede lid, een aanvraag voor de vaststelling van de subsidie in bij Dienst Regelingen met een financieel verslag, vergezeld van een rapportage omtrent de bestemming en besteding van de subsidie.   
 3.  De rapportage, bedoeld in het tweede lid, omvat tenminste: 
 
 a. de bestemming en besteding van het subsidiebedrag in relatie tot de cofinanciering;  
 
 b. de mate van realisatie van de voorziening waarvoor de subsidie is aangevraagd;  
 
-c. de mate van realisatie van de beoogde samenwerking tussen de ondertekenaars van de samenwerkingsovereenkomst, bedoeld in artikel 20, vierde lid;  
+c. de mate van realisatie van de beoogde samenwerking tussen de ondertekenaars van de samenwerkingsovereenkomst, bedoeld in artikel 20, vierde lid;  
 
 d. een evaluatie van de mate waarin de realisatie heeft bijgedragen aan het doel van de investering;  
 
 e. de verwachtingen ten aanzien van de exploitatie van de voorziening.     
 4.  Bij goedkeuring van de rapportage wordt de subsidie vastgesteld op de werkelijk gemaakte en betaalde kosten tot ten hoogste het verleende subsidiebedrag.   
-5.  Indien toepassing wordt gegeven aan [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden terug te vorderen bedragen vermeerderd met de wettelijke rente die wordt berekend over de periode die verstrijkt tussen de kennisgeving van de terugvorderingsverplichting aan de subsidieontvanger en de terugbetaling door de subsidieontvanger.   
+5.  De subsidieontvanger is, gezamenlijk met de ondertekenaars van de samenwerkingsovereenkomst, bedoeld in artikel 20, vierde lid, verplicht de voorziening die met inzet van subsidie uit deze regeling tot stand is gekomen of is vernieuwd of uitgebreid ten minste vijf jaar volgend op de start van de exploitatie in stand te houden. Indien de exploitatie voor het einde van deze periode wordt beëindigd doet de subsidieontvanger hiervan onmiddellijk mededeling aan de Minister.   
+6.  Indien toepassing wordt gegeven aan [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden terug te vorderen bedragen vermeerderd met de wettelijke rente die wordt berekend over de periode die verstrijkt tussen de kennisgeving van de terugvorderingsverplichting aan de subsidieontvanger en de terugbetaling door de subsidieontvanger.   
 
 ### Paragraaf  6  
 
@@ -289,15 +284,26 @@ e. de verwachtingen ten aanzien van de exploitatie van de voorziening.
 
 1.  De Minister kan op aanvraag subsidie verstrekken aan een afdeling, een agrarisch opleidingscentrum, een hogeschool of aan Wageningen Universiteit voor activiteiten in verband met de implementatie van zijn onderwijsbeleid.   
 2.  De Minister kan op aanvraag subsidie verstrekken aan een organisatie, bedoeld in artikel 1, onderdeel f, voor activiteiten in verband met de implementatie van zijn onderwijsbeleid.   
+3.  De Minister verstrekt aan Aequor op aanvraag een subsidie voor een innovatief project. Het subsidieplafond bedraagt jaarlijks 2% van de rijksbijdrage die de Minister voor het voorafgaand kalenderjaar aan Aequor heeft verstrekt op grond van Hoofdstuk 4, paragraaf 4, van het Uitvoeringsbesluit Wet educatie en beroepsonderwijs.   
 
 ### Artikel  28  
 
-1.  Jaarlijks per 1 januari maakt de Minister, met in achtneming van de afspraken hierover met de Groene kenniscoöperatie en de organisaties, de activiteiten en het doel van deze activiteiten bekend waarvoor subsidie kan worden aangevraagd, alsmede per activiteit of groep van activiteiten het subsidieplafond, de subsidiabele kosten en eventuele nadere voorwaarden voor de aanvrager.   
+1.  Jaarlijks per 1 januari maakt de Minister, met in achtneming van de afspraken hierover met de Groene kenniscoöperatie en de organisaties, de activiteiten en het doel van deze activiteiten bekend waarvoor subsidie kan worden aangevraagd, alsmede per activiteit of groep van activiteiten het subsidieplafond en eventuele nadere voorwaarden voor de aanvrager.   
 2.  De Minister kan in het besluit, bedoeld in het eerste lid, activiteiten opnemen waarvoor reeds eerder bij beschikking subsidie is verleend. Deze activiteiten worden verder beschouwd als een activiteit in de zin van artikel 27. De artikelen 29 tot en met 33 zijn niet van toepassing op deze activiteiten.   
+3.  De subsidiabele kosten zijn: 
+
+a. de kosten van het in te zetten personeel van de aanvrager en, indien de aanvraag in samenwerking wordt gedaan, van de instellingen die een samenwerking zijn aangegaan met de aanvrager. Indien de aanvrager een organisatie is, zijn alleen de kosten van personeel dat specifiek ten dienste van de uitvoering van de aangevraagde activiteit wordt ingezet subsidiabel;  
+
+b. de kosten voor de inhuur van ondersteuningsinstellingen, bedrijven en onderzoeksinstellingen die noodzakelijk zijn voor het doel en de aard van de aangevraagde activiteit;  
+
+c. de kosten van de accountantsverklaring, bedoeld in artikel 33, vierde lid, van de regeling, tot een maximum van € 2.500,–, en  
+
+d. materiële kosten die noodzakelijk zijn gezien het doel en de aard van de aangevraagde activiteit.     
+4.  In het besluit, bedoeld in het eerste lid, maakt de Minister bekend binnen welk thema of thema’s Aequor een aanvraag kan doen voor de bestemming van de subsidie bedoeld in artikel 27, derde lid.   
 
 ### Artikel  29  
 
-Aanvragen tot subsidieverlening kunnen tot 1 april van elk jaar worden ingediend. De Minister kan om dwingende redenen toestaan dat een aanvraag na 1 april wordt gedaan.  
+Aanvragen tot subsidieverlening, bedoeld in artikel 27, derde lid, kunnen tot 1 april van elk jaar worden ingediend. De Minister kan om dwingende redenen toestaan dat een aanvraag na 1 april wordt gedaan.  
 
 ### Artikel  30  
 
@@ -325,6 +331,7 @@ h. een begroting van de uitvoering, waaruit de subsidiabele kosten, het gevraagd
 1.  De Minister beslist uiterlijk op 1 juni van elk jaar op de aanvragen op grond van de voorwaarden, bedoeld in artikel 28 en artikel 30, tweede lid, en van de kwaliteit van de aanvraag. De Minister kan om dwingende redenen afwijken van deze datum.   
 2.  Indien een aanvraag voor een activiteit of groep van activiteiten het subsidieplafond, bedoeld in artikel 28, eerste lid, overschrijdt kan de Minister besluiten deze aanvraag niet te honoreren dan wel het subsidiebedrag van de aanvraag te verlagen.   
 3.  Indien voor een activiteit of groep van activiteiten meerdere aanvragen zijn ingediend en het aangevraagd subsidiebedrag van deze aanvragen het subsidieplafond, bedoeld in artikel 28, eerste lid, overschrijdt rangschikt de Minister de aanvragen die naar zijn oordeel voldoen aan de voorwaarden in artikel 28 en artikel 30, waarbij een aanvraag hoger wordt gerangschikt naar mate deze het doel van de betreffende activiteit of groep van activiteiten beter realiseert en de kwaliteit van de aanvraag naar het oordeel van de Minister beter is. De Minister wijst op basis van deze rangschikking één of meer aanvragen af, dan wel verlaagt het aangevraagd subsidiebedrag van één of meer aanvragen, zodanig dat de resterende aanvragen binnen het subsidieplafond kunnen worden goedgekeurd.   
+4.  De Minister beslist uiterlijk op 1 juni van elk jaar op aanvragen als bedoeld in artikel 27, derde lid.   
 
 ### Artikel  32  
 
@@ -481,6 +488,7 @@ iii. voor zover van toepassing, een analyse van de verschillen tussen de voorgen
 
 1.  In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de op grond van artikel 6, 7, 8, 9, 10, 13 en 14 berekende aanvullende bijdragen naar rato van het aantal rechthebbenden op deze bijdragen verlaagd tot het bedrag dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.   
 2.  In het in het eerste lid bedoelde geval kan de Minister tevens besluiten één of meer van de in artikel 17 dan wel artikel 27 bedoelde subsidies niet te verlenen.   
+3.  De Minister kan op basis van prioriteiten in zijn beleid nadere criteria toepassen bij, en nadere verplichtingen verbinden aan zijn beslissing op aanvragen voor subsidie die op basis van deze regeling worden ingediend.   
 
 ### Artikel  38  
 
@@ -512,9 +520,9 @@ M.J.M.Verhagen
 
 ### Bijlage  
 
-####, behorende bij artikel 1, onderdeel n , van de Regeling praktijkleren en Groene plus.
+####, behorende bij artikel 1, onderdeel o , van de Regeling praktijkleren en Groene plus.
 
-De primaire opleidingen voor wat betreft het middelbaar beroepsonderwijs 2011 
+De primaire opleidingen voor wat betreft het middelbaar beroepsonderwijs 2012 
 
 | crebo  | Omschrijving  | niveau  |
 |:---|:---|:---|
@@ -597,24 +605,33 @@ De primaire opleidingen voor wat betreft het middelbaar beroepsonderwijs 2011
 | 97562  | Zorg, natuur en gezondheid (ondernemer zorgbedrijf plant)  | 4  |
 | 97033  | Teelt en ondernemerschap (manager binnenteelt)  | 4  |
 | 97034  | Teelt en ondernemerschap (manager buitenteelt)  | 4  |
+| 97034  | Teelt en ondernemerschap (manager buitenteelt)  | 4  |
 | 97660  | Teelt 2/3 Medewerker teelt  | 2  |
 | 97670  | Teelt 2/3 Vakbekwaam medewerker teelt  | 3  |
 | 97680  | Teelt 4  | 4  |
 | 97681  | Teelt 4 Manager teelt  | 4  |
 | 97682  | Teelt 4 Specialist teelt en techniek  | 4  |
-| 97683  | Teelt 4 Teamleider teelt en arbeid  | 4  |
+| 97683  | Teelt 4 Teamleider teelt en arbeid  | 3  |
 | 97590  | Paraveterinaire ondersteuning (Dierenartsassistent paraveterinair)  | 4  |
 | 97640  | Biologisch-dynamisch bedrijf (Manager biologisch-dynamisch bedrijf)  | 4  |
-| 97650  | Groen, grond, infra (Manager gemechaniseerd loonbedrijf)  | 4  |
+| 97650  | Groen, grond, infra (Manager gemechaniseerd bedrijf)  | 4  |
+| 97700  | Productiedieren 3  | 3  |
+| 97701  | Productiedieren 3 Dierverzorger graasdieren  | 3  |
+| 97702  | Productiedieren 3 Dierverzorger hokdieren  | 3  |
+| 97703  | Productiedieren 3 Dierverzorger melkvee  | 3  |
+| 97710  | Productiedieren 4  | 4  |
+| 97711  | Productiedieren 4 Dierenhouder graasdieren  | 4  |
+| 97712  | Productiedieren 4 Dierenhouder hokdieren  | 4  |
+| 97713  | Productiedieren 4 Dierenhouder melkvee  | 4  |
 
-De primaire opleidingen zijn voor wat betreft het hoger beroepsonderwijs de opleidingen die geheel of in overwegende mate opleiden voor de volgende beroepen:  Primaire opleidingen hoger beroepsonderwijs (CROHO-nrs.) 2010 
+De primaire opleidingen zijn voor wat betreft het hoger beroepsonderwijs de opleidingen die geheel of in overwegende mate opleiden voor de volgende beroepen:  Primaire opleidingen hoger beroepsonderwijs (CROHO-nrs.) 2012 
 
 | Opleiding  | bachelor degree  | Associate degree  |
 |:---|:---|:---|
 | Tuinbouw en akkerbouw  | 34868  | 80012  |
 | Dier- en veehouderij  | 34869  | 80006  |
-| Melkveehouderij  | -  | 80044  |
-| Tropische landbouw  | 34203  | -  |
+| Melkveehouderij  | –  | 80044  |
+| Tropische landbouw  | 34203  | –  |
 
 Tevens worden als studenten in primaire opleidingen geteld de bij STOAS Hogeschool ingeschreven studenten op CROHO-nrs. 34899 (bachelor) en 80015 (associate degree) Educatie en kennismanagement groene sector, voor zover deze studenten worden opgeleid voor het lerarenberoep binnen een primaire opleiding. STOAS hogeschool verschaft jaarlijks een opgave van het aantal van deze studenten, gespecificeerd naar de studierichtingen 
 
@@ -624,7 +641,7 @@ Tevens worden als studenten in primaire opleidingen geteld de bij STOAS Hogescho
 
 3. Agrarische techniek  
 
-4. Internationaal (veehouderij en agrarische techniek)   De opgave betreft het aantal studenten in deze studierichtingen op 1 oktober van het tweede jaar voorafgaand aan het jaar waarvoor de onderwijsopslag, bedoeld in artikel 14 van deze regeling, wordt verstrekt. De opgave gaat vergezeld van een verklaring van getrouwheid van een accountant. De opgave voor 2011 en verdere jaren, met gegevens van het tweede jaar voorafgaand aan dat jaar, dient uiterlijk op 1 juli van ieder jaar te zijn ontvangen door DUO. De verklaring van getrouwheid van de accountant kan dan bij de jaarlijkse accountantsopgave worden meegenomen. 
+4. Internationaal (veehouderij en agrarische techniek)   De opgave betreft het aantal studenten in deze studierichtingen op 1 oktober van het tweede jaar voorafgaand aan het jaar waarvoor de onderwijsopslag, bedoeld in artikel 14 van deze regeling, wordt verstrekt. De opgave gaat vergezeld van een verklaring van getrouwheid van een accountant. De opgave, met gegevens van het tweede jaar voorafgaand aan dat jaar, dient uiterlijk op 1 juli van ieder jaar te zijn ontvangen door DUO. De verklaring van getrouwheid van de accountant kan dan bij de jaarlijkse accountantsopgave worden meegenomen 
 
 ### Bijlage   
 2   

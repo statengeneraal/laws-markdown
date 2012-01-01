@@ -71,7 +71,7 @@ Wijzigt de Wet studiefinanciering 2000.
 
 ### Artikel  XVI  
 
-[Paragraaf 4.1.3.2. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt voor het eerst toepassing met betrekking tot ingevolge de [Algemene wet inkomensafhankelijke regelingen](../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) te nemen of genomen beschikkingen met betrekking tot het berekeningsjaar 2012.  
+[Paragraaf 4.1.3.2. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt voor het eerst toepassing met betrekking tot ingevolge de [Algemene wet inkomensafhankelijke regelingen](../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) te nemen of genomen beschikkingen met betrekking tot het berekeningsjaar 2013.  
 
 ### Artikel  XVII  
 

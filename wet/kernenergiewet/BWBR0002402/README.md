@@ -133,6 +133,7 @@ c. het treffen van enige andere voorziening die naar het oordeel van Onze genoem
 6.  Aan de goedkeuring kunnen voorschriften worden verbonden. Daartoe kan in ieder geval behoren een voorschrift dat de houder van de vergunning het bedrag van de gestelde zekerheid aanpast, indien dat naar het oordeel van Onze genoemde Ministers nodig is met het oog op wijziging van bij het voorschrift aangegeven omstandigheden.   
 7.  Onze genoemde Ministers beslissen binnen zes maanden na de ontvangst van een aanvraag om goedkeuring op die aanvraag.   
 8.  Bij of krachtens algemene maatregel van bestuur kunnen andere inrichtingen als bedoeld in artikel 15, onder b, worden aangewezen, waarop het eerste tot en met zevende lid van overeenkomstige toepassing zijn.   
+9.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om goedkeuring.   
 
 ### Artikel  16  
 
@@ -154,7 +155,7 @@ b. artikel 15, onder a, voor het voorhanden hebben van splijtstoffen in een inri
 
 c. artikel 15, onder a, voor het voorhanden hebben of zich ontdoen van splijtstoffen in gevallen als bedoeld in het derde lid;  
 
-d. artikel 15, onder c, in gevallen waarin de uitrusting slechts buiten Nederland in werking zal worden gebracht of gehouden.     
+d. artikel 15, onder c, in gevallen waarin de uitrusting slechts buiten Nederland in werking zal worden gebracht of gehouden.   In gevallen als bedoeld in de eerste volzin is met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md)[paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een vergunning.   
 3.  Gevallen als bedoeld in het tweede lid, onder c, zijn die gevallen: 
 
 a. waarin het voorhanden hebben van splijtstoffen of het zich daarvan ontdoen geschiedt: 
@@ -217,7 +218,7 @@ Bij algemene maatregel van bestuur worden de bestuursorganen aangewezen, die - a
 1.  Ieder, die zonder daartoe bevoegd te zijn splijtstoffen of ertsen, dan wel stoffen, waarvan hij redelijkerwijs moet vermoeden, dat het splijtstoffen of ertsen zijn, onder zich heeft of krijgt, is verplicht daarvan terstond aangifte te doen bij de burgemeester van de gemeente, waar die goederen zich bevinden.   
 2.  De burgemeester geeft van de gedane aangifte onverwijld kennis aan een der krachtens artikel 58, eerste lid, aangewezen ambtenaren.   
 3.  De krachtens artikel 58, eerste lid, aangewezen ambtenaren zijn bevoegd met betrekking tot ongeoorloofd aanwezig bevonden splijtstoffen en ertsen en de voorwerpen, welke tot hun verpakking of berging dienen of hebben gediend, een last onder bestuursdwang op te leggen.   
-4.  Door toepassing van bestuursdwang in bezit genomen goederen worden overgedragen aan een door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid aan te wijzen instelling of persoon. Deze geeft van de overdracht kennis in de *Staatscourant* en een of meer nieuwsbladen.   
+4.  Door toepassing van bestuursdwang in bezit genomen goederen worden overgedragen aan een door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid aan te wijzen instelling of persoon. Deze geeft van de overdracht kennis in de *Staatscourant* en een of meer nieuwsbladen. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een aanwijzing.   
 
 ### Artikel  23  
 
@@ -272,7 +273,7 @@ a. voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervo
 
 b. voor het bereiden, voorhanden hebben, toepassen of zich ontdoen van radioactieve stoffen in overeenkomstige gevallen als bedoeld in artikel 17, derde lid;  
 
-c. voor medische toepassingen, indien naar het oordeel van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het belang van de patiënt onverwijlde toepassing van die stoffen vereist.     
+c. voor medische toepassingen, indien naar het oordeel van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het belang van de patiënt onverwijlde toepassing van die stoffen vereist.   In gevallen als bedoeld in de eerste volzin is met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md)[paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een vergunning.   
 3.  De artikelen 15c, eerste lid, 16 en 17a zijn van overeenkomstige toepassing.   
 
 ### Artikel  31  
@@ -310,7 +311,7 @@ d. indien de in dat artikellid bedoelde nadere regels betrekking hebben op lozin
 1.  Ieder, die zonder daartoe bevoegd te zijn radioactieve stoffen dan wel stoffen, waarvan hij redelijkerwijs moet vermoeden dat het radioactieve stoffen zijn, onder zich heeft of krijgt, is verplicht daarvan terstond aangifte te doen bij de burgemeester van de gemeente, waar die goederen zich bevinden.   
 2.  De burgemeester geeft van de gedane aangifte onverwijld kennis aan een der krachtens artikel 58, eerste lid, aangewezen ambtenaren.   
 3.  De krachtens artikel 58, eerste lid, aangewezen ambtenaren zijn bevoegd met betrekking tot ongeoorloofd aanwezig bevonden radioactieve stoffen en de voorwerpen, welke tot hun verpakking of berging dienen of hebben gediend, een last onder bestuursdwang op te leggen.   
-4.  Door toepassing van bestuursdwang in bezit genomen goederen worden overgedragen aan een door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid aan te wijzen instelling of persoon. Deze geeft van de overdracht kennis in de *Staatscourant* en een of meer nieuwsbladen.   
+4.  Door toepassing van bestuursdwang in bezit genomen goederen worden overgedragen aan een door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid aan te wijzen instelling of persoon. Deze geeft van de overdracht kennis in de *Staatscourant* en een of meer nieuwsbladen. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een aanwijzing.   
 5.  De artikelen 23 en 24 zijn van overeenkomstige toepassing.   
 
 ### Afdeling  2  

@@ -48,6 +48,30 @@ d. die de Nederlandsche Bank in kennis hebben gesteld van hun voornemen om de be
 3.  Indien een betaaldienstverlener als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel b, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting van het totale bedrag aan betalingstransacties is opgenomen.   
 4.  Een betaaldienstverlener als bedoeld in het eerste lid stelt de Nederlandsche Bank in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde voorschriften.   
 
+### Artikel  1b  
+
+Een elektronischgeldinstelling als bedoeld in artikel 1c is vrijgesteld van [artikel 2:3a, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor het deel van haar werkzaamheden dat betrekking heeft op het verlenen van betaaldiensten die verband houden met de uitgifte van elektronisch geld.  
+
+### §  2.0a  
+
+#### *Bedrijf van elektronischgeldinstelling* 
+
+####Vrijstelling als bedoeld in [artikel 2:10d van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+
+### Artikel  1c  
+
+1.  Van [artikel 2:10a, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld elektronischgeldinstellingen met rechtspersoonlijkheid, indien: 
+
+a. de gezamenlijke waarde van de financiële verplichtingen van de onderneming die met de uitgifte van elektronisch geld verband houden, gemiddeld niet hoger is dan € 5.000.000;  
+
+b. geen van de personen die het beleid bepalen of mede bepalen personen zijn met antecedenten als bedoeld in [artikel 6, onderdeel a, b of d, van het Besluit prudentiële regels Wft](../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), voor zover deze betrekking hebben op het witwassen van geld, terrorismefinanciering of vermogensmisdrijven of als misdrijf aangemerkte overtredingen van financiële toezichtswetgeving;  
+
+c. de onderneming elektronisch geld slechts uitgeeft via een betaalinstrument of rekening voor elektronisch geld waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen; en  
+
+d. de onderneming de Nederlandsche Bank in kennis heeft gesteld van haar voornemen om elektronisch geld uit te geven.     
+2.  Indien een elektronischgeldinstelling als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel a, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting is opgenomen van de gezamenlijke waarde van de financiële verplichtingen die verband houden met de uitgifte van elektronisch geld.   
+3.  Een elektronischgeldinstelling als bedoeld in het eerste lid stelt de Nederlandsche Bank onverwijld in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde regels.   
+
 ### §  2.1  
 
 ####Aanbieden van beleggingsobjecten
@@ -66,7 +90,7 @@ a. aanbieders van beleggingsobjecten voorzover die beleggingsobjecten:
 
 3°. een waarde hebben die niet volgens de regels van [artikel 110 van het besluit](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), indien dat van toepassing zou zijn, kan worden bepaald; of  
 
-4°. worden aangeboden voor een nominaal bedrag per beleggingsobject van ten minste € 50.000; en    
+4°. worden aangeboden voor een nominaal bedrag per beleggingsobject van ten minste € 100 000; en    
 
 b. aanbieders van beleggingsobjecten voorzover zij financiële diensten verlenen aan: 
 
@@ -115,9 +139,9 @@ b. betaaldienstverleners met zetel in een andere lidstaat die voor het uitoefene
 
 1.  Van [artikel 2:65, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld degenen die rechten van deelneming in een beleggingsinstelling aanbieden: 
 
-a. voorzover die rechten slechts kunnen worden verworven tegen een tegenwaarde van ten minste € 50.000 per deelnemer;  
+a. voorzover die rechten slechts kunnen worden verworven tegen een tegenwaarde van ten minste € 100 000 per deelnemer;  
 
-b. voorzover die rechten een nominale waarde per recht hebben van ten minste € 50.000;  
+b. voorzover die rechten een nominale waarde per recht hebben van ten minste € 100 000;  
 
 c. als bedoeld in [artikel 1:12, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -332,7 +356,7 @@ a. in Nederland beleggingsdiensten verlenen als bedoeld in [onderdeel a of d van
 
 b. geen aan hun cliënten toebehorende gelden of effecten aanhouden;  
 
-c. in Nederland orders doorgeven aan beleggingsinstellingen die in Nederland rechten van deelneming mogen aanbieden en aan kredietinstellingen en beleggingsondernemingen die in Nederland beleggingsdiensten mogen verlenen;  
+c. in Nederland orders doorgeven aan beleggingsinstellingen die in Nederland rechten van deelneming mogen aanbieden en aan banken en beleggingsondernemingen die in Nederland beleggingsdiensten mogen verlenen;  
 
 d. beschikken over een beroepsaansprakelijkheidsverzekering of een daarmee vergelijkbare voorziening; en  
 
@@ -371,6 +395,17 @@ b. beheerders van een individueel vermogen die een stichting zijn met als enig d
 ### Artikel  18  
 
 Beleggingsondernemingen als bedoeld in de artikelen 11, 13 en 14 zijn vrijgesteld van hetgeen ingevolge het [Deel Prudentieel toezicht financiële ondernemingen](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met uitzondering van de [artikelen 3:5](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:6](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:7, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald.  
+
+### §  3.1A  
+
+####Elektronischgeldinstellingen
+
+####Vrijstelling als bedoeld in [artikel 3:3 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+
+### Artikel  18a  
+
+1.  Elektronischgeldinstellingen als bedoeld in artikel 1c zijn vrijgesteld van hetgeen ingevolge het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de [artikelen 3:5](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:6](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:7](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:29a](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:29b](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:29c, vierde lid](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [3:34 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald.   
+2.  De vrijstelling, bedoeld in het eerste lid, is slechts van toepassing op voorwaarde dat de elektronischgeldinstelling eenmaal per jaar staten aan de Nederlandse Bank verstrekt overeenkomstig [artikel 130, derde lid, onderdeel c, van het Besluit prudentiële regels Wft](../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md).   
 
 ### §  3.2  
 

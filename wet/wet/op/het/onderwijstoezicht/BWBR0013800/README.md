@@ -65,7 +65,7 @@ h. exameninstelling: instelling als bedoeld in [artikel 1.6.1 van de Wet educati
 
 i. regionaal expertisecentrum: regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), waaronder begrepen de commissie voor de indicatiestelling die door het regionaal expertisecentrum in stand wordt gehouden,  
 
-j. bestuur: bevoegd gezag in de zin van een onderwijswet, met dien verstande dat waar het de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) of de Leerplichtwet BES betreft hieronder wordt verstaan het hoofd van de school of instelling, en met dien verstande dat waar het het toezicht op de uitoefening van de taken van het regionaal expertisecentrum betreft hieronder wordt verstaan het bestuur van de rechtspersoon, bedoeld in [artikel 28b, vijfde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md),  
+j. bestuur: bevoegd gezag in de zin van een onderwijswet, met dien verstande dat waar het de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) of de [Leerplichtwet BES](../../../../../../wet-BES/leerplichtwet/bes/BWBR0030281/README.md) betreft hieronder wordt verstaan het hoofd van de school of instelling, en met dien verstande dat waar het het toezicht op de uitoefening van de taken van het regionaal expertisecentrum betreft hieronder wordt verstaan het bestuur van de rechtspersoon, bedoeld in [artikel 28b, vijfde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md),  
 
 k. onderwijsdeelnemer: leerling, deelnemer, student of extraneus in de zin van een onderwijswet,  
 
@@ -95,7 +95,7 @@ n. jaarwerkplan: document waarin de inspectie haar werkzaamheden voor het komend
 
 a. het beoordelen van de kwaliteit van het onderwijs, van de kwaliteit van de uitoefening van de taken van het regionaal expertisecentrum en van de kwaliteitsvoorwaarden van de voorschoolse educatie op peuterspeelzalen en kindercentra op basis van het verrichten van onderzoek naar de naleving van de bij of krachtens een onderwijswet of de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) gegeven voorschriften en naar andere aspecten van kwaliteit,  
 
-b. het bij de uitoefening van de onder a bedoelde taak bevorderen van de kwaliteit van het onderwijs en van de kwaliteit van de uitoefening van de taken van het regionaal expertisecentrum, onder meer door het voeren van overleg met het bestuur, het personeel van de instelling dan wel van het regionaal expertisecentrum, en zo nodig, het college van burgemeester en wethouders van de gemeente, gedeputeerde staten van de provincie, dan wel het bestuurscollege en de Rijksvertegenwoordiger, bedoeld in artikel 1, eerste lid, onder d, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba,  
+b. het bij de uitoefening van de onder a bedoelde taak bevorderen van de kwaliteit van het onderwijs en van de kwaliteit van de uitoefening van de taken van het regionaal expertisecentrum, onder meer door het voeren van overleg met het bestuur, het personeel van de instelling dan wel van het regionaal expertisecentrum, en zo nodig, het college van burgemeester en wethouders van de gemeente, gedeputeerde staten van de provincie, dan wel het bestuurscollege en de Rijksvertegenwoordiger, bedoeld in [artikel 1, eerste lid, onder d, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md),  
 
 c. het rapporteren over de ontwikkeling van het onderwijs en van de uitoefening van de taken van het regionaal expertisecentrum, in het bijzonder over de kwaliteit daarvan,  
 
@@ -137,7 +137,7 @@ b. het adviseren over eventueel te nemen stappen,
 c. het bijstaan bij het nemen van stappen gericht op het zoeken naar een oplossing, en  
 
 d. het desgevraagd begeleiden bij het indienen van een klacht of het doen van aangifte.     
-3.  De vertrouwensinspecteur is, voorzover het betreft misdrijven als bedoeld in [titel XIV van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of titel XIV van het Wetboek van Strafrecht BES jegens een onderwijsdeelnemer of een ten behoeve van een instelling met taken belast persoon, vrijgesteld van de verplichting tot het doen van aangifte als bedoeld in de [artikelen 160, eerste lid](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [162, eerste lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of de artikelen 198, eerste lid, en 200, eerste lid, van het Wetboek van Strafvordering BES.   
+3.  De vertrouwensinspecteur is, voorzover het betreft misdrijven als bedoeld in [titel XIV van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [titel XIV van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) jegens een onderwijsdeelnemer of een ten behoeve van een instelling met taken belast persoon, vrijgesteld van de verplichting tot het doen van aangifte als bedoeld in de [artikelen 160, eerste lid](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [162, eerste lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of de [artikelen 198, eerste lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [200, eerste lid, van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md).   
 4.  De vertrouwensinspecteur is voorzover het betreft een geval van seksueel misbruik of seksuele intimidatie als bedoeld in het eerste lid, onder a of b, verplicht tot geheimhouding van hetgeen hem in de uitoefening van zijn functie is toevertrouwd door een onderwijsdeelnemer, de ouders van een onderwijsdeelnemer of een ten behoeve van een instelling met taken belast persoon.   
 5.  De vertrouwensinspecteur is bevoegd zonder toestemming van degene die het betreft bijzondere gegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) te verwerken met betrekking tot de personen, bedoeld in het eerste lid, indien uit een melding redelijkerwijs een vermoeden van seksueel misbruik, seksuele intimidatie, psychisch geweld, fysiek geweld, discriminatie of radicalisering kan worden afgeleid.   
 6.  De vertrouwensinspecteur verstrekt de door hem verzamelde gegevens niet aan derden. In het verslag over de staat van het onderwijs, bedoeld in artikel 8, tweede lid, worden slechts geabstraheerde gegevens opgenomen.   
@@ -319,7 +319,7 @@ Dit hoofdstuk is van toepassing op het College voor examens, genoemd in [artikel
 
 ####Toezicht College voor examens
 
-1.  De inspectie houdt toezicht op de kwaliteit van het functioneren van het College voor examens en op de naleving van de bij of krachtens de [Wet College voor examens](../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de Wet voortgezet onderwijs BES gegeven voorschriften.   
+1.  De inspectie houdt toezicht op de kwaliteit van het functioneren van het College voor examens en op de naleving van de bij of krachtens de [Wet College voor examens](../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) gegeven voorschriften.   
 2.  Ter uitvoering van de taak, bedoeld in het eerste lid, kan de inspectie Onze Minister onder meer voorstellen een voorziening te treffen als bedoeld in [artikel 23 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), indien: 
 
 a. is gebleken dat de kwaliteit van het functioneren van het College voor examens onvoldoende is geweest, of  
@@ -525,9 +525,15 @@ b. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingesc
 
 c. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), tezamen met de andere gegevens, genoemd in [artikel 103b, tweede en achtste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
+c1. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een school die is aangewezen op grond van [artikel 56 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), tezamen met de andere gegevens, bedoeld in [artikel 103b, tweede en achtste lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in samenhang met [artikel 58, zevende lid, onderdeel a, van die wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+
 d. de persoonsgebonden nummers van de deelnemers aan een opleiding educatie die zijn ingeschreven of ingeschreven zijn geweest aan een instelling waaraan door het gemeentebestuur op grond van [artikel 2 van de Wet participatiebudget uitkeringen](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) zijn toegekend, tezamen met de andere gegevens, genoemd in [artikel 2.3.6a, derde en zesde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
+d1. de persoonsgebonden nummers van de deelnemers aan een opleiding educatie die zijn ingeschreven of ingeschreven zijn geweest aan een andere dan een in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bedoelde instelling of een instelling als bedoeld in die wet voor een opleiding educatie ten aanzien waarvan toepassing is gegeven aan [artikel 1.4a.1, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), tezamen met de andere gegevens, bedoeld in [artikel 2.3.6a, tweede en vijfde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in samenhang met artikel 1.4a.1, achtste lid, onderdeel a, van die wet;  
+
 e. de persoonsgebonden nummers van de deelnemers aan een beroepsopleiding die zijn ingeschreven of ingeschreven zijn geweest aan een uit ’s Rijks kas bekostigde instelling als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), tezamen met de andere gegevens, genoemd in [artikel 2.5.5a, tweede en zevende lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+e1. de persoonsgebonden nummers van de deelnemers aan een beroepsopleiding die zijn ingeschreven of ingeschreven zijn geweest aan een andere dan een in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bedoelde instelling of een instelling als bedoeld in die wet voor een beroepsopleiding ten aanzien waarvan toepassing is gegeven aan [artikel 1.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), tezamen met de andere gegevens, bedoeld in [artikel 2.5.5a, tweede en zevende lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in samenhang met artikel 1.4.1, zesde lid, onderdeel a, van die wet;  
 
 f. de persoonsgebonden nummers van de studenten en extraneï die zijn ingeschreven of ingeschreven zijn geweest aan een uit ’s Rijks kas bekostigde instelling voor hoger onderwijs als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), met uitzondering van de Open Universiteit, tezamen met de andere gegevens, genoemd in [artikel 7.52, tweede en vijfde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
@@ -539,7 +545,7 @@ g. de hierna te noemen gegevens zoals die over de personen, bedoeld in de onderd
 
 3°. de gegevens over het verblijf in Nederland en het vertrek uit Nederland;    
 
-h. de gegevens over het verblijfsrecht van de vreemdeling zoals die over de personen, bedoeld in de onderdelen e en f, zijn opgenomen in de gemeentelijke basisadministratie.     
+h. de gegevens over het verblijfsrecht van de vreemdeling zoals die over de personen, bedoeld in de onderdelen e, e1 en f, zijn opgenomen in de gemeentelijke basisadministratie.     
 2.  Indien de in het eerste lid, onderdeel g, bedoelde gegevens van een leerling, deelnemer, student of extraneus aan een school of instelling als bedoeld in het eerste lid, onderdelen a tot en met f, niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden in het basisregister onderwijs alleen opgenomen de gegevens die het bevoegd gezag verstrekt op basis van 
 
 a. [artikel 178a, tweede en zevende lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md),  
@@ -548,7 +554,11 @@ b. [artikel 164a, tweede en achtste lid, van de Wet op de expertisecentra](../..
 
 c. [artikel 103b, tweede en achtste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-d. [artikel 2.3.6a, derde en zesde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of  [2.5.5a, tweede of zevende lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of  
+c1. [artikel 103b, tweede en achtste lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in samenhang met [artikel 58, zevende lid, onderdeel a, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+
+d. [artikel 2.3.6a, derde en zesde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of  [2.5.5a, tweede of zevende lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+
+d1. [artikel 2.3.6a, tweede en vijfde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in samenhang met [artikel 1.4a.1, achtste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 2.5.5a, tweede en zevende lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in samenhang met [artikel 1.4.1, zesde lid, onderdeel a, van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of  
 
 e. [artikel 7.52, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).     
 3.  De persoonsgegevens van de leerlingen, deelnemers, studenten en extraneï die niet langer zijn ingeschreven aan een school of instelling als bedoeld in het eerste lid, onderdelen a tot en met f, worden tot vijf jaren na beëindiging van de laatste inschrijving bewaard in het basisregister onderwijs in een vorm die het mogelijk maakt de betrokkene te identificeren. [Artikel 10, tweede lid, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing. In afwijking van de eerste volzin geldt voor de geslachtsnaam, voornamen, geboortedatum, instelling voor hoger onderwijs waar een opleiding is gevolgd, naam van die opleiding, datum diploma en het aantal jaren genoten hoger onderwijs van studenten die niet langer zijn ingeschreven aan een instelling als bedoeld in het eerste lid, onderdeel f, een bewaartermijn van vijftig jaren.   
@@ -650,6 +660,176 @@ b. de gegevens, bedoeld in artikel 24f, veertiende lid.
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het tweede en derde lid.   
 5.  Uit het meldingsregister relatief verzuim worden kosteloos gegevens verstrekt aan burgemeester en wethouders, het hoofd, bedoeld in [artikel 21a van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), en het bevoegd gezag, bedoeld in [artikel 8.1.8a van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 47b van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 28a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), voor zover dat bij wet is vereist of toegestaan.   
 6.  Onze Minister verstrekt uit het meldingsregister relatief verzuim geen persoonsgebonden nummers ter uitvoering van [artikel 107, tweede lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+
+### Artikel  24k1  
+
+####Niet bekostigd onderwijs
+
+De artikelen 24h tot en met 24k zien mede op beroepsopleidingen ten aanzien waarvan toepassing is gegeven aan [artikel 1.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), opleidingen educatie ten aanzien waarvan toepassing is gegeven aan [artikel 1.4a.1, eerste lid, van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en scholen die zijn aangewezen op grond van [artikel 56 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+
+### Hoofdstuk  6b  
+
+####Het diplomaregister hoger onderwijs, beroepsonderwijs, voortgezet (algemeen volwassenen)onderwijs, NT2 en inburgering
+
+### Artikel  24l  
+
+####Begripsbepalingen
+
+In dit hoofdstuk wordt verstaan onder: 
+
+a. *diplomaregister:* diplomaregister, bedoeld in artikel 24m;  
+
+b. *diplomagegevens:* gegevens, bedoeld in artikel 24o;  
+
+c. *betrokkene:* degene op wie een diplomagegeven betrekking heeft;  
+
+d. *derde:* derde als bedoeld in [artikel 1, onderdeel g, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+
+e. *waardedocument:* een getuigschrift, diploma, cijferlijst of certificaat als bedoeld in artikel 24n;  
+
+f. *College voor examens:* College voor examens, genoemd in [artikel 2 van de Wet College voor examens](../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), of één van diens rechtsvoorgangers, genoemd in [artikel 12 van die wet](../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), op het gebied van staatsexamens;  
+
+g. 
+
+1° het examen, bedoeld in [artikel 7.10a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en het examen van een opleiding van de Open Universiteit, voor zover dit examen door [die wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) daarmee gelijk wordt gesteld,  
+
+2° het examen, bedoeld in [artikel 7.10b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).      
+
+### Artikel  24m  
+
+####Doel en functie diplomaregister
+
+1.  Er is een diplomaregister hoger onderwijs, beroepsonderwijs, voortgezet (algemeen volwassenen)onderwijs, inburgering en Nederlands als tweede taal, dat ten doel heeft diplomagegevens te verstrekken aan: 
+
+a. de betrokkene;  
+
+b. de instelling of school, bedoeld in artikel 24n, of de school of afdeling voor voortgezet speciaal onderwijs, waarbij de betrokkene is ingeschreven of minder dan vijf jaar voor de gegevensverstrekking was ingeschreven;  
+
+c. de instelling of school, bedoeld in artikel 24n, of het College voor examens, waarbij de betrokkene minder dan vijf jaar voor de gegevensverstrekking een waardedocument heeft behaald;  
+
+d. een instelling of school als bedoeld in artikel 24n, of het College voor examens, voor zover de verwerking van die gegevens noodzakelijk is voor de aanmelding, inschrijving of examinering van de betrokkene;  
+
+e. overheidsinstanties, voor zover de verwerking van die gegevens noodzakelijk is voor de goede vervulling van hun publieke taak;  
+
+f. overige derden.     
+2.  Met betrekking tot de verwerking van persoonsgegevens als bedoeld in dit hoofdstuk is Onze Minister de verantwoordelijke, bedoeld in [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+
+### Artikel  24n  
+
+####Reikwijdte diplomaregister
+
+Behoudens artikel 24r omvat het diplomaregister gegevens over: 
+
+a. getuigschriften van met goed gevolg afgelegde propedeutische examens van uit ’s Rijks kas bekostigde opleidingen hoger beroepsonderwijs en met goed gevolg afgelegde afsluitende examens van uit ’s Rijks kas bekostigde opleidingen hoger onderwijs, met uitzondering van de programma’s, bedoeld in [artikel 7.8a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), die op of na 1 januari 1996 zijn afgegeven door instellingen als bedoeld in de onderdelen a, b, c en g van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+
+b. diploma’s van uit ’s Rijks kas bekostigde beroepsopleidingen die op of na 1 januari 2007 zijn afgegeven door instellingen als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+c. diploma’s, cijferlijsten en certificaten van opleidingen als bedoeld in [artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) die op of na 1 januari 2007 zijn afgegeven door instellingen als bedoeld in [artikel 1.3.1, derde lid, van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+d. diploma’s van staatsexamens als bedoeld in [artikel 60, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) die op of na 1 januari 2011 zijn afgegeven door het College voor examens;  
+
+e. diploma’s voor het inburgeringsexamen, bedoeld in artikel 13, eerste lid, van de Wet inburgering die op of na 1 januari 2007 zijn afgegeven;  
+
+f. diploma’s en cijferlijsten van onderwijs als bedoeld in [artikel 2 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) die op of na 1 januari 2006 zijn afgegeven door scholen als bedoeld in [artikel 64, eerste lid, van die wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) aan leerlingen die aan de desbetreffende school zijn ingeschreven;  
+
+g. diploma’s en cijferlijsten van onderwijs als bedoeld in [artikel 2 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) die op of na een bij koninklijk besluit te bepalen datum zijn afgegeven door scholen als bedoeld in [artikel 64, eerste lid, van die wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) aan leerlingen die zijn ingeschreven aan een school of afdeling voor voortgezet speciaal onderwijs;  
+
+h. diploma’s, cijferlijsten en certificaten van staatsexamens als bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) die op of na 1 januari 2011 zijn afgegeven door het College voor examens;  
+
+i. getuigschriften van met goed gevolg afgelegde afsluitende examens van de uit ’s Rijks kas bekostigde programma’s, bedoeld in [artikel 7.8a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) die op of na 1 januari 2007 zijn afgegeven door instellingen als bedoeld in de onderdelen a, b, c en g, van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+
+j. getuigschriften van met goed gevolg afgelegde afsluitende examens van uit ’s Rijks kas bekostigde opleidingen hoger onderwijs die op of na een bij koninklijk besluit te bepalen tijdstip zijn afgegeven door de instelling, bedoeld in onderdeel h van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+
+k. getuigschriften van met goed gevolg afgelegde afsluitende examens van uit ’s Rijks kas bekostigde opleidingen hoger onderwijs die op of na een bij koninklijk besluit te bepalen tijdstip zijn afgegeven door instellingen als bedoeld in onderdeel i van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+
+### Artikel  24o  
+
+####Diplomagegevens
+
+1.  Het diplomaregister bevat voor alle daarin opgenomen waardedocumenten gegevens over: 
+
+a. het persoonsgebonden nummer, de geslachtsnaam, de voornamen, het geslacht en de geboortedatum van betrokkene zoals opgenomen in de gemeentelijke basisadministratie persoonsgegevens of, bij het ontbreken daarvan, zoals opgegeven door de organisatie die het waardedocument heeft uitgereikt;  
+
+b. het soort waardedocument alsmede de naam van de organisatie die dit heeft uitgereikt.     
+2.  Het diplomaregister bevat voorts gegevens over: 
+
+a. in geval van een getuigschrift van een opleiding of programma, opgenomen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md): de desbetreffende opleiding en het jaar, de maand en de aard van het examen;  
+
+b. in geval van een diploma van een opleiding, opgenomen in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): de kwalificatie en de gegevens, bedoeld in [artikel 2.5.5a, tweede lid, onder h, van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+c. in geval van een diploma, cijferlijst of certificaat van een opleiding als bedoeld in [artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), afgegeven door een instelling als bedoeld in [artikel 1.3.1 van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): de gegevens, bedoeld in [artikel 2.3.6a, tweede lid, onder f en g, van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+
+d. in geval van een diploma voor een staatsexamen als bedoeld in [artikel 60, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), afgegeven door het College voor examens: het behaalde diploma, het programma en de datum waarop het diploma is behaald;  
+
+e. in geval van een diploma voor het inburgeringsexamen, bedoeld in [artikel 13, eerste lid, van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md): het behaalde diploma, het niveau, het profiel en de datum waarop het diploma is behaald.  
+
+f. in geval van een diploma of cijferlijst van onderwijs als bedoeld in [artikel 2 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), afgegeven door een school als bedoeld in [artikel 64, eerste lid, van die wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): de gegevens, bedoeld in [artikel 103b, tweede lid, onder c, d, f en g, van die wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+
+g. in geval van een diploma, cijferlijst of certificaat voor een staatsexamen als bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), afgegeven door het College voor examens: de vakken waarin examen is afgelegd, de cijfers van het college-examen, het vak of de vakken waarop het profielwerkstuk betrekking heeft, de beoordeling van het sectorwerkstuk, alsmede het thema van het sectorwerkstuk, de cijfers van het centraal examen, de eindcijfers en de uitslag van het staatsexamen.     
+
+### Artikel  24p  
+
+####Correctie op verzoek
+
+1.  Indien een of meer van de gegevens in het diplomaregister afwijken van de gegevens in het originele waardedocument, kan de betrokkene Onze Minister elektronisch verzoeken eerstgenoemde gegevens te verbeteren. Onze Minister verzoekt de organisatie die het document heeft uitgereikt om hem elektronisch de juiste gegevens te verstrekken. Indien de organisatie constateert dat een of meer gegevens van de betrokkene in het diplomaregister niet overeenkomen met de gegevens waarover zij beschikt, verzoekt zij Onze Minister om deze gegevens te verbeteren.   
+2.  Indien de organisatie die het document heeft uitgereikt, constateert dat de gegevens van de betrokkene in het diplomaregister overeenkomen met de gegevens waarover zij beschikt of indien zij niet meer over de diplomagegevens van betrokkene beschikt, deelt zij dit elektronisch mee aan Onze Minister en deelt Onze Minister dit elektronisch mee aan de betrokkene. Indien de organisatie niet meer over de diplomagegevens van de betrokkene beschikt, kan de betrokkene op vertoon van het originele waardedocument aan Onze Minister verzoeken om de gegevens in het diplomaregister te verbeteren.   
+3.  Het eerste en tweede lid zijn niet van toepassing op de gegevens, bedoeld in artikel 24o, eerste lid, onder a, die zijn overgenomen uit de gemeentelijke basisadministratie persoonsgegevens.   
+
+### Artikel  24q  
+
+####Het verstrekken van diplomagegevens
+
+1.  Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan betrokkene.   
+2.  Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in artikel 24n of aan een school of afdeling voor voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra, indien betrokkene is ingeschreven of was ingeschreven bij die instelling, school of afdeling. Op grond van de eerste volzin kunnen uitsluitend diplomagegevens worden verstrekt die zijn behaald voor onderwijs van die instelling, school of afdeling.   
+3.  Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in artikel 24n of aan het College voor examens indien betrokkene een waardedocument heeft behaald bij die instelling, die school of dat college. Op grond van de eerste volzin kunnen uitsluitend diplomagegevens worden verstrekt van waardedocumenten die zijn afgegeven door die instelling, die school of dat college.   
+4.  Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in artikel 24n of aan het College voor examens ten behoeve van de aanmelding, inschrijving of examinering van betrokkene.   
+5.  Op grond van het vierde lid kunnen uitsluitend diplomagegevens worden verstrekt van: 
+
+a. de waardedocumenten, bedoeld in artikel 24n, onder a tot en met d en f tot en met k, indien het betreft een instelling als bedoeld in artikel 24n, onder a, i, j of k,  
+
+b. de waardedocumenten, bedoeld in artikel 24n, onder b, c, f, g en h, indien het betreft een instelling als bedoeld in artikel 24n, eerste lid, onder b,  
+
+c. de waardedocumenten, bedoeld in artikel 24n, onder c, f, g en h, indien het betreft een school, instelling of afdeling als bedoeld in artikel 24n, eerste lid, onder c, f of g,  
+
+d. de waardedocumenten, bedoeld in artikel 24n, onder c, d, f, g en h, indien het betreft het College voor examens.     
+6.  Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan Onze Minister en de inspectie voor zover dat noodzakelijk is voor de uitoefening van hun wettelijke taken. Voor zover het betreft het gebruik door Onze Minister voor de begrotings- en beleidsvoorbereiding, worden de diplomagegevens op een zodanige wijze verstrekt, dat degenen op wie zij betrekking hebben niet geïdentificeerd of identificeerbaar zijn. Artikel 24f, zevende en achtste lid, zijn van overeenkomstige toepassing.   
+7.  Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan: 
+
+a. Onze Minister van Volksgezondheid, Welzijn en Sport als beheerder van een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), ten behoeve van de beoordeling van een aanvraag om inschrijving in dat register;  
+
+b. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties als beheerder van het Informatiesysteem Inburgering, bedoeld in [artikel 47, eerste lid, van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md) ten behoeve van de beoordeling van de aanwezigheid van een vrijstelling van de inburgeringsplicht;  
+
+c. het Uitvoeringsinstituut werknemersverzekeringen, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 30, eerste lid](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [30a, eerste en tweede lid](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [30b](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [30d](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [31 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).     
+8.  Uit het diplomaregister wordt desgevraagd aan betrokkene een elektronisch document met diplomagegevens verstrekt, dat is beveiligd tegen wijzigingen en waarvan kan worden vastgesteld dat het is afgegeven door Onze Minister.   
+9.  De verstrekking van gegevens uit het diplomaregister geschiedt elektronisch.   
+10.  In afwijking van het negende lid geschiedt de verstrekking van gegevens op grond van het eerste of achtste lid schriftelijk indien betrokkene hierom verzoekt.   
+11.  Voor de elektronische verstrekking van gegevens op grond van het eerste tot en met zesde lid is geen vergoeding verschuldigd. Onze Minister kan regels stellen over de vergoeding die verschuldigd is voor de elektronische verstrekking van gegevens op grond van het zevende en achtste lid en voor de schriftelijke verstrekking van gegevens op grond van het tiende lid.   
+
+### Artikel  24r  
+
+####Bewaartermijn diplomagegevens
+
+Diplomagegevens worden tot 60 jaar na de maand van afgifte van het laatst behaalde waardedocument of, indien dat eerder is, tot het overlijden van betrokkene bewaard in het diplomaregister in een vorm die het mogelijk maakt betrokkene te identificeren.  
+
+### Artikel  24s  
+
+####Autorisatie voor en toezicht op het diplomaregister
+
+1.  Onze Minister stelt bij ministeriële regeling regels omtrent de autorisatie van degenen die onder zijn gezag vallen voor verwerking van persoonsgegevens uit het diplomaregister.   
+2.  Onze Minister benoemt een functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) die in elk geval is belast met het toezicht op de verwerking van persoonsgegevens in het diplomaregister.   
+
+### Artikel  24t  
+
+####Informatie over gegevensverstrekking
+
+1.  Onze Minister houdt gedurende twintig jaren volgend op de verstrekking van gegevens uit het diplomaregister met uitzondering van de verstrekking op grond van artikel 24q, eerste lid of zesde lid, tweede volzin, aantekening van de verstrekking, tenzij de verstrekking van gegevens in de genoemde periode anderszins is te herleiden uit het diplomaregister.   
+2.  Onze Minister deelt aan de betrokkene mede of hem betreffende gegevens gedurende twintig jaren voorafgaande aan het verzoek uit het diplomaregister zijn verstrekt aan een overheidsorgaan, een onderwijsinstelling of een andere derde. Onze Minister kan volstaan met een in algemene termen gestelde mededeling omtrent de verstrekkingen.   
+
+### Artikel  24u  
+
+####Gebruik persoonsgebonden nummer door derde
+
+Een derde kan bij het verwerken van persoonsgegevens gebruik maken van het persoonsgebonden nummer voor zover dit noodzakelijk is in verband met de verstrekking van gegevens aan hem uit het diplomaregister.  
 
 ### Hoofdstuk  7  
 

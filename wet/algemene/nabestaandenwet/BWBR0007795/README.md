@@ -50,6 +50,8 @@ l. rechtens zijn vrijheid is ontnomen: rechtens zijn vrijheid is ontnomen, behou
 
 m. justitiële inrichting: een penitentiaire inrichting, een inrichting voor verpleging van ter beschikking gestelden, of een inrichting als bedoeld in [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
 
+n. continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland;  
+
 n. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geworden vonnis opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), behoudens de gevallen, bedoeld in [artikel 37, eerste lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).    
 
 ### Artikel  2  
@@ -164,7 +166,7 @@ Bij een besluit ingevolge artikel 49 is mede belanghebbende het Landelijk Bureau
 
 a. ingezetene is;  
 
-b. geen ingezetene is, doch ter zake van in Nederland in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
+b. geen ingezetene is, doch ter zake van in Nederland of op het continentaal plat in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
 2.  Niet verzekerd is de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 3.  Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het eerste en tweede lid, uitbreiding dan wel beperking worden gegeven aan de kring van verzekerden.   
 4.  Indien een verzekerde ophoudt ingezetene te zijn, eindigt zijn verzekering, behoudens voor de toepassing van de [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en voor zover niet reeds op hem van toepassing is een overeenkomstige regeling van Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius en Saba, van een andere Mogendheid of een volkenrechtelijke organisatie, niet eerder dan zes weken na de dag, met ingang waarvan hij heeft opgehouden ingezetene te zijn. Op de termijn, gesteld in de eerste volzin, is de [Algemene Termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing.   
@@ -436,7 +438,7 @@ c. het kind in Nederland woont en het voldoet aan een voorwaarde als bedoeld in 
 
 a. de nabestaande of het kind, indien de nabestaande, de halfwees of het kind werkzaamheden verricht in het algemeen belang en niet in Nederland woont;  
 
-b. de nabestaande of het kind, indien de nabestaande, de halfwees of het kind in de Nederlandse Antillen of Aruba woont; of  
+b. de nabestaande of het kind, indien de nabestaande, de halfwees of het kind in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba woont; of  
 
 c. de gezinsleden van de in de onderdelen a of b bedoelde nabestaande of het kind.     
 6.  Onze Minister deelt mede in welke landen op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op nabestaandenuitkering, halfwezenuitkering dan wel wezenuitkering kan bestaan. In deze mededeling wordt tevens opgenomen: 
@@ -683,24 +685,24 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 
 c. de vordering van de Sociale verzekeringsbank wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
 
-d. een naar het oordeel van de Sociale verzekeringsbank betrouwbare schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
+d. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
 
 e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
 f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig [artikel 349 van de Faillissementswet](../../../../wet/faillissementswet/BWBR0001860/README.md).     
-2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de nabestaande, het ouderloos kind of zijn wettelijke vertegenwoordiger, respectievelijk de instelling aan welke ingevolge artikel 49 of  37 de uitkering wordt uitbetaald, van de verplichting, bedoeld in artikel 35, en hiervoor een boete als bedoeld in artikel 39 is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de nabestaande, het ouderloos kind of zijn wettelijke vertegenwoordiger, respectievelijk de instelling aan welke ingevolge artikel 49 of  57 de uitkering wordt uitbetaald, van de verplichting, bedoeld in artikel 35, en hiervoor een boete als bedoeld in artikel 39 is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
 3.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de belanghebbende gewijzigd indien: 
 
 a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldregeling tot stand is gekomen die voldoet aan de eisen, bedoeld in het eerste lid;  
 
-b. de nabestaande, het ouderloos kind of zijn wettelijke vertegenwoordiger, respectievelijk de instelling aan welke ingevolge artikel 49 of  37 de uitkering wordt uitbetaald zijn schuld aan het de Sociale verzekeringsbank niet overeenkomstig de schuldregeling voldoet; of  
+b. de nabestaande, het ouderloos kind of zijn wettelijke vertegenwoordiger, respectievelijk de instelling aan welke ingevolge artikel 49 of  57 de uitkering wordt uitbetaald zijn schuld aan het de Sociale verzekeringsbank niet overeenkomstig de schuldregeling voldoet; of  
 
 c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste of volledige gegevens tot een ander besluit zou hebben geleid.     
 4.  Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld ten aanzien van de bevoegdheid om mee te werken aan schuldregelingen.   
 
 ### Artikel  55b  
 
-Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 53 en 55a van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 53 en 55a is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
 
 ### Artikel  56  
 
@@ -758,7 +760,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder gewezen
 
 a. de gewezen verzekerde die in dienstbetrekking staat tot een Nederlandse publiekrechtelijke rechtspersoon dan wel uit anderen hoofde loon geniet van een zodanige rechtspersoon;  
 
-b. de gewezen verzekerde die is uitgezonden om werkzaamheden te verrichten voor door Onze Minister in overeenstemming met Onze Minister voor Ontwikkelingssamenwerking aan te wijzen organisaties voor ontwikkelingssamenwerking;  
+b. de gewezen verzekerde die is uitgezonden om werkzaamheden te verrichten voor door Onze Minister in overeenstemming met Onze Minister van Buitenlandse Zaken aan te wijzen organisaties voor ontwikkelingssamenwerking;  
 
 c. de gewezen verzekerde die werkzaam is bij een door Onze Minister, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen volkenrechtelijke organisatie;  
 

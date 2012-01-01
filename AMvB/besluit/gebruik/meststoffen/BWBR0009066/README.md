@@ -254,6 +254,7 @@ c. een plan van voorzieningen dat is vastgesteld overeenkomstig de [artikelen 39
 d. een reconstructieplan dat is vastgesteld overeenkomstig [hoofdstuk 2 van de Reconstructiewet concentratiegebieden](../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), waarin is voorzien in herverkaveling als bedoeld in [hoofdstuk 3, titel 6 van de Reconstructiewet concentratiegebieden](../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), of  
 
 e. een inrichtingsplan dat is vastgesteld overeenkomstig de [artikelen 17 tot en met 20 van de Wet inrichting landelijk gebied](../../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md).     
+8.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag tot accreditatie als bedoeld in het vierde lid.   
 
 ### Artikel  5  
 

@@ -60,7 +60,11 @@ q. vaarweginformatie: geografische, hydrologische en administratieve informatie 
 
 r. tactische verkeersinformatie: informatie waarop onmiddellijke navigatiebeslissingen in de actuele verkeerssituatie en de nabije geografische omgeving zijn gebaseerd;  
 
-s. verdrag inzake het gemeenschappelijk nautisch beheer: het op 21 december 2005 te Middelburg totstandgekomen verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied (Trb. 2005, 312).     
+s. verdrag inzake het gemeenschappelijk nautisch beheer: het op 21 december 2005 te Middelburg totstandgekomen verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied (Trb. 2005, 312);  
+
+t. *vaarbewijs:* document ten bewijze van de bevoegdheid om op de Nederlandse binnenwateren een schip te voeren, waaronder begrepen een daarmee vergelijkbaar document dat is afgegeven door een buitenlandse autoriteit;  
+
+u. *snelle motorboot:* schip dat een lengte heeft van minder dan 20 meter en dat bij gebruikmaking van zijn mechanische middelen tot voortbeweging, sneller dan 20 km per uur ten opzichte van het water kan varen.     
 2.  In de artikelen 10 tot en met 13, 15 tot en met 16a, 27 tot en met 29 en 35 van deze wet en in de op deze wet berustende bepalingen wordt, tenzij daarin anders is bepaald, verstaan onder: 
 
 a. kapitein: degene die is belast met het gezag over een zeeschip;  
@@ -302,6 +306,7 @@ b. de gevolgen van het in gebreke blijven van de organisatie ten aanzien van de 
 
 1.  De kapitein, eigenaar of rompbevrachter van een zeeschip dat gevoerd wordt door een verkeersdeelnemer op wie een verplichting rust als bedoeld in artikel 4, derde lid, gericht op het deelnemen aan verkeersbegeleiding, is gehouden het verkeersbegeleidingstarief te betalen en de in verband met de bepaling van het tarief benodigde informatie te verstrekken.   
 2.  In bij algemene maatregel van bestuur aan te wijzen gevallen en op een in die maatregel aan te geven wijze kan Onze Minister aan een kapitein, eigenaar of rompbevrachter een gehele of gedeeltelijke ontheffing verlenen van de verplichting tot het betalen van het in het eerste lid bedoelde tarief. Aan een besluit tot ontheffing kunnen voorschriften en beperkingen worden verbonden.   
+3.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de ontheffing van de verplichting tot het betalen van het in het eerste lid bedoelde tarief.   
 
 ### Artikel  15d  
 
@@ -533,6 +538,44 @@ d. een in artikel 31a bedoeld strafbaar feit heeft begaan, waardoor ernstig geva
 8.  Zodra het in de strafzaak gewezen vonnis onherroepelijk is geworden, wordt de zekerheidstelling bedoeld in het tweede lid beëindigd, nadat een bij dat vonnis opgelegde geldboete, vermeerderd met de kosten van de vasthouding, is betaald onderscheidenlijk daarop in mindering is gebracht. Tot dat tijdstip en te rekenen vanaf de dag dat de zekerheid is gesteld wordt bij gederfde rente over de tot zekerheid gestelde geldsom die gederfde rente vergoed tot een maximum van het percentage dat is vastgesteld krachtens het bepaalde in artikel 9, derde lid, van de Wet op de consignatie van gelden (*Stb.* 1980, 473).   
 9.  Met betrekking tot dit artikel is artikel 1, vijfde lid, onder b, niet van toepassing.   
 
+### Artikel  35a  
+
+1.  In de gevallen, bedoeld in het tweede lid, onderdelen a, b of c, overhandigt de houder van een vaarbewijs tegen wie proces-verbaal wordt opgemaakt wegens overtreding van een voorschrift als bedoeld in artikel 35b, eerste lid, zijn vaarbewijs op eerste vordering aan de opsporingsambtenaar.   
+2.  Vaarbewijzen die ingevolge het eerste lid zijn ingevorderd worden onverwijld overgedragen aan de officier van justitie. De officier van justitie is bevoegd ingevorderde vaarbewijzen onder zich te houden totdat de veroordeling onherroepelijk is geworden of, indien de bevoegdheid tot het voeren van schepen onvoorwaardelijk is ontzegd, tot het tijdstip waarop de ontzegging is verstreken, indien: 
+
+a. bij onderzoek is gebleken of, bij ontbreken van een dergelijk onderzoek, een ernstig vermoeden bestaat dat het alcoholgehalte van de adem van degene die een schip voert of stuurt, hoger is dan 785 microgram alcohol per liter uitgeademde lucht, onderscheidenlijk het alcoholgehalte van zijn bloed hoger blijkt te zijn dan 1,8 milligram alcohol per milliliter bloed;  
+
+b. met een zodanige snelheid is gevaren dat ernstig gevaar voor de veiligheid van personen of goederen is ontstaan; of  
+
+c. op grond van andere feiten of omstandigheden ernstig rekening moet worden gehouden met de mogelijkheid dat de bestuurder opnieuw een feit als bedoeld in artikel 35b, eerste lid, zal begaan.     
+3.  De officier van justitie geeft het ingevorderde vaarbewijs onverwijld terug aan de houder: 
+
+a. indien hij binnen tien dagen na de dag van invordering geen toepassing geeft aan het tweede lid;  
+
+b. indien ernstig rekening moet worden gehouden met de mogelijkheid dat aan de houder in geval van veroordeling door de rechter geen onvoorwaardelijke ontzegging van de bevoegdheid tot het voeren van een schip zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur dan de tijd gedurende welke het vaarbewijs is ingevorderd of ingehouden geweest, of  
+
+c. indien het onderzoek van de zaak op de terechtzitting niet binnen 26 weken na de dag van invordering is aangevangen.     
+4.  Tegen toepassing van het eerste of tweede lid kan de belanghebbende bij klaagschrift opkomen. Zolang in de zaak nog geen vervolging is ingesteld, wordt het klaagschrift ingediend ter griffie van de rechtbank in het arrondissement waar het in het eerste lid bedoelde feit werd begaan, en anders ter griffie van het gerecht in feitelijke aanleg waarvoor de vervolging plaatsvindt of het laatst plaatsvond. [Artikel 552a, vierde en zesde lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. De raadkamer van het gerecht geeft zo spoedig mogelijk, na de belanghebbende, desverlangd bijgestaan door diens raadsman, te hebben gehoord, althans opgeroepen, zijn met redenen omklede beslissing, die onverwijld aan de belanghebbende wordt betekend. Tegen de beslissing kan door het openbaar ministerie binnen veertien dagen daarna en door de belanghebbende binnen veertien dagen na de betekening beroep in cassatie worden ingesteld. De Hoge Raad beslist zo spoedig mogelijk.   
+5.  Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, maar op grond van een feit waarvoor de toepassing van het eerste of tweede lid niet is toegelaten, kan de rechter op verzoek van de gewezen verdachte hem een vergoeding ten laste van de Staat toekennen voor de schade die hij ten gevolge van die toepassing heeft geleden, waaronder begrepen nadeel dat niet in vermogensschade bestaat. De artikelen [89, derde tot en met zesde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [90](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [91](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+
+### Artikel  35b  
+
+1.  De houder van een vaarbewijs kan de bevoegdheid tot het voeren van schepen, voor zover daartoe een vaarbewijs is vereist, voor ten hoogste vijf jaren worden ontzegd wegens het op de binnenwateren voeren of doen voeren van: 
+
+a. een snelle motorboot in strijd met voorschriften gesteld krachtens artikel 4, eerste lid, onderdelen a en d, en derde lid, en waarbij ernstig gevaar voor de veiligheid van personen of goederen is ontstaan, of in strijd met artikel 27, of  
+
+b. een schip waarvoor een bij ministeriële regeling aan te wijzen vaarbewijs is vereist, herhaaldelijk in strijd met artikel 27.     
+2.  Indien tijdens het plegen van een van de feiten, bedoeld in het eerste lid, nog geen vijf jaren zijn verlopen na het einde van de tijdsduur waarvoor bij een vroegere onherroepelijke veroordeling wegens een van die feiten de betrokkene de bevoegdheid tot het voeren van schepen, voor zover daartoe een vaarbewijs is vereist, is ontzegd, kan hem die bevoegdheid voor ten hoogste tien jaren worden ontzegd.   
+3.  Bij het opleggen van de straf, bedoeld in het eerste en tweede lid, wordt de tijd gedurende welke het vaarbewijs van de veroordeelde ingevolge artikel 35a vóór het tijdstip waarop die straf ingaat, ingevorderd of ingehouden is geweest, op de duur van die straf in mindering gebracht.   
+4.  De tenuitvoerlegging van de veroordeling vindt niet plaats dan nadat aan de veroordeelde in persoon een schrijven is uitgereikt, volgens de [artikelen 587](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [588 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), waarin het tijdstip van ingang en de duur van de ontzegging, de verplichting tot inlevering van het vaarbewijs uiterlijk op dat tijdstip, alsmede het gevolg van niet tijdige inlevering worden medegedeeld.   
+5.  De houder levert het vaarbewijs, tenzij het is ingevorderd en niet teruggegeven, in op het parket van het openbaar ministerie vanwaar hij het schrijven, bedoeld in het vierde lid, heeft ontvangen, uiterlijk op het tijdstip van ingang van de ontzegging.   
+6.  Teruggave van het vaarbewijs vindt plaats zodra de termijn van de ontzegging is verstreken.   
+7.  De termijn van ontzegging van de bevoegdheid tot het voeren van schepen wordt van rechtswege verlengd met het aantal dagen dat is verstreken tussen het tijdstip waarop het vaarbewijs ingevolge het vijfde lid had moeten worden ingeleverd en het tijdstip waarop nadien die inlevering heeft plaatsgevonden.   
+
+### Artikel  35c  
+
+De opsporingsambtenaar die bij de uitoefening van de hem bij of krachtens wet verleende bevoegdheden de beschikking krijgt over een vaarwijs waarvan ingevolge dit hoofdstuk de overgifte is gevorderd, waarvan een verplichting tot inlevering bestaat of dat ingevolge de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) zijn geldigheid heeft verloren, is bevoegd dat vaarbewijs in te nemen en het door te geleiden naar het betrokken parket van het openbaar ministerie, naar degene bij wie de houder dat vaarbewijs had dienen in te leveren onderscheidenlijk naar de instantie die het heeft afgegeven.  
+
 ### Hoofdstuk  8  
 
 ####Bijzondere bepalingen
@@ -555,11 +598,12 @@ d. een in artikel 31a bedoeld strafbaar feit heeft begaan, waardoor ernstig geva
 
 ### Artikel  37a  
 
-1.  In afwijking van het bij of krachtens deze wet bepaalde kan Onze Minister de maatregelen treffen die hij nodig acht in het belang van een ordelijk verloop van het scheepvaartverkeer.   
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  In afwijking van het bij of krachtens deze wet bepaalde kan Onze Minister de maatregelen treffen die hij nodig acht in het belang van een ordelijk verloop van het scheepvaartverkeer.   
 2.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de door hem krachtens het eerste lid getroffen maatregelen.   
 
 ### Artikel  38  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Toepassing van het bepaalde bij of krachtens de artikelen 4 tot en met 13 kan ten aanzien van de Nederlandse territoriale zee of daarop aansluitende scheepvaartwegen mede geschieden in het belang van de uitwendige veiligheid.   
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat hetgeen bij of krachtens de artikelen 4 tot en met 13 is bepaald en hetgeen door besturen van andere openbare lichamen dan het Rijk is bepaald bij of krachtens verordeningen die betrekking hebben op de ordening van het scheepvaartverkeer op scheepvaartwegen, geen toepassing vindt ten aanzien van schepen of andere vaartuigen, welke in gebruik zijn voor de uitvoering van de militaire taak.   
 3.  Bij algemene maatregel van bestuur kan worden bepaald dat hetgeen bij of krachtens de artikelen 4 tot en met 13 is bepaald en hetgeen door besturen van andere openbare lichamen dan het Rijk is bepaald bij of krachtens verordeningen die betrekking hebben op de ordening van het scheepvaartverkeer op scheepvaartwegen, geen toepassing vindt ten aanzien van schepen of andere vaartuigen, welke worden gebruikt ten behoeve van de in die maatregel aangewezen overheidsdiensten.   

@@ -235,7 +235,7 @@ Het bestuur van de veiligheidsregio hanteert een kwaliteitszorgsysteem.
 ### Artikel  24  
 
 1.  De voorzitter van de veiligheidsregio verstrekt Onze Minister op diens verzoek informatie over de wijze waarop de veiligheidsregio haar taken uitvoert.   
-2.  De voorzitter van de veiligheidsregio zendt, indien Onze Minister landelijke doelstellingen als bedoeld in artikel 34 heeft vastgesteld, hem jaarlijks een rapportage over de uitvoering van de landelijke doelstellingen door de veiligheidsregio.   
+2.  De voorzitter van de veiligheidsregio zendt, indien Onze Minister landelijke doelstellingen als bedoeld in artikel 37 heeft vastgesteld, hem jaarlijks een rapportage over de uitvoering van de landelijke doelstellingen door de veiligheidsregio.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de rapportage, bedoeld in het tweede lid, wordt verstrekt.   
 
 ### §  4  
@@ -312,8 +312,8 @@ b. het beperken en bestrijden van gevaar voor mensen en dieren bij ongevallen an
 
 ### Artikel  32  
 
-1.  De GHOR staat onder leiding van een directeur. De directeur GHOR maakt deel uit van de directie van de in het gebied van de veiligheidsregio gelegen gemeentelijke gezondheidsdienst.   
-2.  De directeur GHOR is belast met de operationele leiding van de geneeskundige hulpverlening.   
+1.  De GHOR staat onder leiding van de directeur publieke gezondheid van de gemeentelijke gezondheidsdienst, bedoeld in [artikel 14 van de Wet publieke gezondheid](../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md).   
+2.  De directeur publieke gezondheid is belast met de operationele leiding van de geneeskundige hulpverlening.   
 
 ### Artikel  33  
 
@@ -488,12 +488,13 @@ b. het voorkomen van sabotage.
 
 ### Artikel  53  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  De commissaris van de Koning kan de burgemeesters in de provincie in een concreet geval de nodige aanwijzingen geven inzake de rampenbestrijding.   
 2.  Onze Minister kan de commissaris van de Koning opdragen aan de burgemeesters in de provincie in een concreet geval de nodige aanwijzingen te geven inzake de rampenbestrijding.   
 
 ### Artikel  54  
 
-Onze Minister kan, indien het algemeen belang zulks dringend eist, bevoegdheden van de commissaris van de Koning en van de burgemeester op grond van deze wet geheel of ten dele aan zich trekken dan wel een andere autoriteit daarmee geheel of ten dele belasten.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister kan, indien het algemeen belang zulks dringend eist, bevoegdheden van de commissaris van de Koning en van de burgemeester op grond van deze wet geheel of ten dele aan zich trekken dan wel een andere autoriteit daarmee geheel of ten dele belasten.  
 
 ### §  13  
 
@@ -574,7 +575,7 @@ b. het bij of krachtens artikel 48 bepaalde ten aanzien van de krachtens artikel
 
 ### Artikel  62  
 
-1.  De burgemeester dan wel de voorzitter van de veiligheidsregio, de commissaris van de Koning, de brandweercommandant en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer, de directeur GHOR en het door hem aangewezen ter plaatse dienstdoende personeel van de GHOR alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 57, tweede en derde lid, zijn bevoegd elke plaats te betreden, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm. Zij kunnen zich bij het binnentreden doen vergezellen van door hen aangewezen personen.   
+1.  De burgemeester dan wel de voorzitter van de veiligheidsregio, de commissaris van de Koning, de brandweercommandant en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer, de directeur publieke gezondheid en het door hem aangewezen ter plaatse dienstdoende personeel van de GHOR alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 57, tweede en derde lid, zijn bevoegd elke plaats te betreden, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm. Zij kunnen zich bij het binnentreden doen vergezellen van door hen aangewezen personen.   
 2.  De burgemeester dan wel de voorzitter van de veiligheidsregio, de brandweercommandant en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer, alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 57, tweede en derde lid, zijn bevoegd alle benodigde uitrustingsstukken en hulpmiddelen op de plaatsen, bedoeld in het eerste lid, mee te nemen en daarvan op zodanige wijze gebruik te maken als zij voor een goede vervulling van hun taak noodzakelijk achten.   
 
 ### §  16  
@@ -841,7 +842,7 @@ Almere, Dronten, Lelystad, Noordoostpolder, Urk, Zeewolde.
 
 #### *Noord-Holland-Noord* 
 
-Alkmaar, Anna Paulowna, Bergen, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Harenkarspel, Heerhugowaard, Heiloo, Hoorn, Koggenland, Langedijk, Medemblik, Niedorp, Opmeer, Schagen, Schermer, Stede Broec, Texel, Wieringen, Wieringermeer, Zijpe.  
+Alkmaar, Bergen, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Harenkarspel, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Schermer, Stede Broec, Texel, Zijpe.  
 
 #### *Zaanstreek-Waterland* 
 

@@ -42,14 +42,43 @@ c. door een publiekrechtelijk lichaam tegen een niet hogere dan de parikoers voo
 
 ### Artikel  3  
 
-1.  Tenzij deze wet anders bepaalt kan voor een gelegenheid als in artikel 1, onder *a*, bedoeld vergunning worden verleend, indien deze gelegenheid wordt opengesteld uitsluitend ten einde met de opbrengst daarvan enig algemeen belang te dienen. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijzen en premies gezamenlijk geen grotere waarde hebben dan € 4500 en bij een grotere waarde door Onze Minister van Justitie.   
+1.  Tenzij deze wet anders bepaalt kan voor een gelegenheid als in artikel 1, onder a, bedoeld vergunning worden verleend, indien deze gelegenheid wordt opengesteld uitsluitend ten einde met de opbrengst daarvan enig algemeen belang te dienen. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijzen en premies gezamenlijk geen grotere waarde hebben dan € 4500 en bij een grotere waarde door Onze Minister van Justitie.   
 2.  Het eerste lid is niet van toepassing voor gelegenheden, waarbij de spelers gemeenschappelijk aan een kansspel kunnen deelnemen.   
 3.  Het eerste lid is niet van toepassing op piramidespelen.   
+4.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in het eerste lid en, voorzover de vergunning door Onze Minister van Justitie wordt verleend, deze betrekking heeft op een incidenteel kansspel.   
 
 ### Artikel  4  
 
 1.  Onze Ministers van Justitie en van Financiën kunnen aan een rechtspersoon met volledige rechtsbevoegdheid vergunning verlenen tot het openstellen van een tegen een niet hogere dan de parikoers uit te geven werkelijke geldlening, die een jaarlijkse en jaarlijks ter beschikking te stellen rente geeft, niet lager dan een door Onze Minister van Financiën vast te stellen percentage, terwijl aan de schuldbewijzen van die lening bijkomstig de kans op het winnen van premies is verbonden.   
 2.  Een vergunning als in lid 1 bedoeld kan alleen worden verleend voor geldleningen, uit te geven teneinde met het geplaatste geld enig algemeen belang te dienen.   
+
+### Artikel  4a  
+
+1.  De houders van vergunningen op grond van deze wet treffen de maatregelen en voorzieningen die nodig zijn om verslaving aan de door hen georganiseerde spelen zoveel mogelijk te voorkomen.   
+2.  De houders van vergunningen op grond van deze wet geven op zorgvuldige en evenwichtige wijze vorm aan wervings- en reclameactiviteiten waarbij in het bijzonder wordt gewaakt tegen onmatige deelneming.   
+3.  Onder zorgvuldige en evenwichtige wervings- en reclameactiviteiten als bedoeld in het tweede lid wordt in ieder geval verstaan dat wervings- en reclameactiviteiten niet misleidend zijn en dat bij deze activiteiten; 
+
+a. wordt gewezen op de risico’s van onmatige deelneming aan kansspelen;  
+
+b. aangegeven wordt wat de statistische kans is op het winnen van een prijs, en  
+
+c. wordt aangegeven of er sprake is van eenmalige deelneming dan wel doorlopende deelneming tot wederopzegging.     
+4.  Wervings- en reclameactiviteiten worden in ieder geval geacht misleidend als bedoeld in het derde lid te zijn indien daarin informatie wordt verstrekt die: 
+
+a. de indruk wekt dat de consument al een prijs heeft gewonnen of zal winnen, of  
+
+b. de indruk wekt dat de consument door het verrichten van een bepaalde handeling een prijs zal winnen of een ander soortgelijk voordeel zal behalen terwijl daarop slechts een kans bestaat.     
+5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste tot en met het vierde lid.   
+6.  De in het vijfde lid bedoelde regels kunnen onder meer betrekking hebben op: 
+
+a. de inhoud van wervings- en reclameactiviteiten;  
+
+b. de doelgroepen waarop zodanige activiteiten zijn gericht;  
+
+c. de hoeveelheid, de tijdsduur en het tijdstip, en  
+
+d. de wijze waarop en de plaats waar wervings- en reclameuitingen worden gedaan.     
+7.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  5  
 
@@ -434,6 +463,7 @@ b. op voor het publiek toegankelijke plaatsen;
 
 c. in niet voor het publiek toegankelijke inrichtingen, waarvoor ingevolge [artikel 3 van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) een vergunning voor de uitoefening van het horecabedrijf is vereist of waarvan de ondernemer inschrijfplichtig is bij het Bedrijfschap Horeca.     
 2.  Het eerste lid is niet van toepassing op het aanwezig hebben van kansspelautomaten op voor het publiek toegankelijke plaatsen, uitsluitend ten behoeve van het verkopen daarvan of van het krachtens een vergunning als bedoeld in artikel 30h, eerste lid, in gebruik geven daarvan aan anderen ten behoeve van de uitoefening van hun bedrijf.   
+3.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in artikel 30c, eerste lid, onder b.   
 
 ### Artikel  30c  
 
@@ -615,6 +645,7 @@ a. de eisen, waaraan bij een aanvraag om toelating van een model dient te worden
 b. de medewerking, die door de aanvrager aan het onderzoek met het oog op de toelating van een model behoort te worden verleend.     
 4.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de bij de aanvraag van de toelating verschuldigde vergoeding voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de verklaring houdende toelating, en voor de kosten verbonden aan het toezicht op de naleving door de houder van de toelating van de bij of krachtens deze Titel vastgestelde voorschriften.   
 5.  Bij regeling van Onze Minister van Economische Zaken worden een of meer instellingen aangewezen die belast zijn met het onderzoek met het oog op de toelating van het model van een speelautomaat.   
+6.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de toelating, bedoeld in het eerste lid.   
 
 ### Artikel  30p  
 
@@ -774,6 +805,72 @@ Speelautomaten of onderdelen daarvan, welke bij het onderzoek, bedoeld in [artik
 3.  Het College wordt bijgestaan door een secretaris, die wordt benoemd en ontslagen bij koninklijk besluit. De secretaris heeft in de vergaderingen van het College een raadgevende stem.   
 4.  Aan het College kan een bureau worden verbonden, dat onder leiding staat van de secretaris. De secretaris en de overige leden van het bureau zijn voor de uitoefening van hun taak uitsluitend verantwoording schuldig aan het College.   
 5.  Leden van het College, alsmede van het daaraan verbonden bureau, mogen geen direct of indirect persoonlijk belang hebben bij de exploitatie van kansspelen.   
+
+### Artikel  37  
+
+Bij algemene maatregel van bestuur worden nadere regelen gegeven met betreking tot de taak, bevoegdheden en samenstelling van het College, alsmede de benoeming van de leden en de secretaris daarvan. Deze regelen hebben mede betrekking op de werkwijze en de vergoeding van de kosten van het College.  
+
+### Titel  VIb  
+
+####Bestuurlijke handhaving
+
+### §  1  
+
+####Last onder bestuursdwang
+
+### Artikel  35  
+
+1.  Het College bevordert overleg, coördinatie en samenwerking tussen de instellingen en personen waaraan door Onze Minister van Justitie of een van Onze Ministers wie het mede aangaat vergunning is verleend ingevolge deze wet. Het College kan daartoe deze instellingen en personen voorstellen doen.   
+2.  In het belang van het voorkomen en tegengaan van negatieve maatschappelijke effecten kan het College, overeenkomstig bij algemene maatregel van bestuur gegeven regels, de in het eerste lid bedoelde instellingen en personen aanbevelingen doen.   
+
+### §  2  
+
+####Bestuurlijke boete
+
+### Artikel  35a  
+
+1.  De raad van bestuur kan een bestuurlijke boete opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder a, b en d, tweede lid, 4a, 7, 10, 13, 14, 14c, 14d, eerste lid, 20, eerste lid, 21, 25, 27, 27c, 27e, eerste lid, 27i, 27j, eerste lid, 30h, eerste lid, 30j, eerste lid, 30m, eerste lid, 30q, derde lid, 30r, derde en vierde lid, 30t, eerste, tweede en vijfde lid, 30u, eerste lid, en 30z.   
+2.  De bestuurlijke boete die voor een overtreding als bedoeld in het eerste lid kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of, indien dat meer is, 10% van de omzet in het boekjaar voorafgaande aan de beschikking.   
+3.  De berekening van de omzet, bedoeld in het tweede lid, geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.   
+4.  De bestuurlijke boete komt toe aan de staat.   
+
+### Artikel  35b  
+
+1.  De raad van bestuur kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens artikel 30u, tweede lid.   
+2.  De raad van bestuur kan een bestuurlijke boete van ten hoogste het bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de voorschriften, vastgesteld bij of krachtens de artikelen 1, onder c, en 7c.   
+3.  De te betalen geldsom van de opgelegde bestuurlijke boete komt toe aan de staat.   
+4.  Bij een overtreding als bedoeld in het eerste lid is [artikel 5:53 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
+
+### Artikel  35c  
+
+1.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van het voorschrift vastgesteld bij artikel 30g, tweede lid.   
+2.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de aan de verleende vergunning verbonden voorschriften, bedoeld in artikel 3, eerste lid, voorzover deze vergunning is afgegeven door burgemeester en wethouders.   
+3.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de bij of krachtens artikel 7c gestelde voorschriften.   
+4.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de aan de verleende vergunning verbonden voorschriften, bedoeld in de artikelen 30b, eerste lid, en 30d, eerste lid, en wegens overtreding van het voorschrift, vastgesteld bij artikel 30g, eerste lid.   
+5.  De bestuurlijke boete komt toe aan de gemeente.   
+
+### Titel  VIc  
+
+####Strafbepalingen
+
+### Artikel  36  
+
+1.  Het College bestaat uit ten hoogste twaalf leden. De voorzitter en de overige leden worden bij koninklijk besluit benoemd en ontslagen.   
+2.  De voorzitter en ten minste de helft van de overige leden van het College zijn onafhankelijke deskundigen. De andere leden van het College zijn ambtenaren in rijksdienst, die daarin met raadgevende stem zitting hebben.   
+3.  Het College wordt bijgestaan door een secretaris, die wordt benoemd en ontslagen bij koninklijk besluit. De secretaris heeft in de vergaderingen van het College een raadgevende stem.   
+4.  Aan het College kan een bureau worden verbonden, dat onder leiding staat van de secretaris. De secretaris en de overige leden van het bureau zijn voor de uitoefening van hun taak uitsluitend verantwoording schuldig aan het College.   
+5.  Leden van het College, alsmede van het daaraan verbonden bureau, mogen geen direct of indirect persoonlijk belang hebben bij de exploitatie van kansspelen.   
+
+### Artikel  36a  
+
+1.  Overtreding van de verbodsbepaling van artikel 1, eerste lid, onder c, wordt gestraft met geldboete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+2.  Overtreding van de verbodsbepalingen van de artikelen 30g, tweede lid, en 30u, tweede lid, wordt gestraft met geldboete van de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+3.  De feiten, strafbaar gesteld in het eerste en tweede lid, zijn overtredingen.   
+
+### Artikel  36b  
+
+1.  Met de opsporing van de bij artikel 36 strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren en personen. Deze ambtenaren en personen zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  37  
 

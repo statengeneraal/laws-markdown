@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid, gedaan mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 5 oktober 1995, Directie Sociale Verzekeringen, Nr. SV/WV/95/2556;
 
-Gelet op [artikel 24, vierde lid, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 113, vijfde lid, van de Algemene bijstandswet](../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md), [artikel 35, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 35, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);
+Gelet op artikel 24, vierde lid, van de Werkloosheidswet, artikel 113, vijfde lid, van de Algemene bijstandswet, artikel 35, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en artikel 35, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;
 
 Gezien het advies van het Tijdelijk instituut voor coördinatie en afstemming van 20-9-1995 en het advies van de Commissie Sociale Voorzieningen van de Sociaal Economische Raad van 08-9-1995;
 
@@ -21,16 +21,16 @@ Hebben goedgevonden en verstaan:
 
 a. *academicus:* de persoon die met goed gevolg een doctoraal examen of een afsluitend examen van een masteropleiding aan een instelling van wetenschappelijk onderwijs heeft afgelegd;  
 
-b. *schoolverlater:* de persoon die de deelname heeft beëindigd aan onderwijs of beroepsopleiding op grond waarvan aanspraak bestond op studiefinanciering op grond van de [Wet studiefinanciering 2000](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) dan wel op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), zolang een periode van drie jaar niet is verstreken, te rekenen vanaf: 
+b. *schoolverlater:* de persoon die de deelname heeft beëindigd aan onderwijs of beroepsopleiding op grond waarvan aanspraak bestond op studiefinanciering op grond van de Wet studiefinanciering 2000 dan wel op kinderbijslag ingevolge de Algemene Kinderbijslagwet, zolang een periode van drie jaar niet is verstreken, te rekenen vanaf: 
 
 1°. de eerste dag van de maand waarin geen aanspraak meer bestaat op bedoelde studiefinanciering; onderscheidenlijk  
 
 2°. de eerste dag van de maand volgend op die waarin het onderwijs of de beroepsopleiding daadwerkelijk is beëindigd.       
-2.  Niet als schoolverlater als bedoeld in het eerste lid, onderdeel b, wordt aangemerkt de persoon die na het beëindigen van onderwijs of beroepsopleiding ter zake van arbeid verricht als werknemer, voldoet aan de voorwaarde bedoeld in [artikel 17 van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), of gedurende een aaneengesloten periode van ten minste 26 weken zelfstandig in zijn bestaan heeft voorzien. De eerste zin is niet van toepassing indien die arbeid is verricht in het kader van [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 5, eerste lid, van de Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).   
+2.  Niet als schoolverlater als bedoeld in het eerste lid, onderdeel b, wordt aangemerkt de persoon die na het beëindigen van onderwijs of beroepsopleiding ter zake van arbeid verricht als werknemer, voldoet aan de voorwaarde bedoeld in artikel 17 van de Werkloosheidswet, of gedurende een aaneengesloten periode van ten minste 26 weken zelfstandig in zijn bestaan heeft voorzien. De eerste zin is niet van toepassing indien die arbeid is verricht in het kader van artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand.   
 
 ### Artikel  2  
 
-Dit besluit is van toepassing op de werknemer, bedoeld in [artikel 24, eerste lid, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), en op de werknemer, bedoeld in [artikel 30, eerste lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md).  
+Dit besluit is van toepassing op de werknemer, bedoeld in artikel 24, eerste lid, van de Werkloosheidswet, en op de werknemer, bedoeld in artikel 30, eerste lid, van de Ziektewet.  
 
 ### Artikel  3  
 

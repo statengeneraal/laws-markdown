@@ -109,6 +109,30 @@ e. door de aspirant-adoptiefouders dient op bevredigende wijze door middel van b
 2.  De in het eerste lid omschreven verplichtingen rusten eveneens op degene die in strijd met artikel 2 heeft gehandeld.   
 3.  De bepalingen van [titel 17 van boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn zoveel mogelijk van overeenkomstige toepassing.   
 
+### Hoofdstuk  3a  
+
+####Tegemoetkoming kosten
+
+### Artikel  9a  
+
+1.  Onze Minister verleent adoptiefouders op hun verzoek een tegemoetkoming in de kosten die zij gemaakt hebben in verband met de interlandelijke adoptie van een kind indien: 
+
+a. het verzoek is ingediend binnen drie jaren nadat het kind door de adoptiefouders is geadopteerd;  
+
+b. het kind de Nederlandse nationaliteit heeft verkregen of, indien geen van de adoptiefouders de Nederlandse nationaliteit heeft, het kind de nationaliteit van ten minste één van de adoptiefouders heeft verkregen;  
+
+c. de adoptie in overeenstemming met deze wet is afgerond.     
+2.  Bij ministeriële regeling worden regels gesteld omtrent de aanvraag van de tegemoetkoming.   
+
+### Artikel  9b  
+
+1.  De hoogte van de tegemoetkoming in de kosten van interlandelijke adoptie als bedoeld in artikel 9a bedraagt € 3 700.   
+2.  Bij ministeriële regeling wordt het bedrag, genoemd in het eerste lid, jaarlijks met ingang van 1 januari opnieuw vastgesteld aan de hand van de consumentenprijsindex.   
+
+### Artikel  9c  
+
+Dit hoofdstuk is uitsluitend van toepassing op kinderen die tussen 1 januari 2009 en 1 januari 2013 zijn geadopteerd.  
+
 ### Artikel  10  
 
 1.  Indien is gehandeld in strijd met artikel 2 kan de kinderrechter een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) belasten met de voorlopige voogdij over de minderjarige, tenzij dit niet verenigbaar is met het belang van de minderjarige. In geval van voorlopige voogdij wendt de raad voor de kinderbescherming zich binnen zes weken tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde, vijfde en zesde lid](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) alsmede [artikel 306 *a* van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   

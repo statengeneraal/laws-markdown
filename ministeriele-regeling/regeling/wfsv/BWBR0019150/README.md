@@ -117,13 +117,13 @@ d. de dag waarop het tijdvak eindigt niet in aanmerking genomen.
 
 ### §  1  
 
-####Bepaling loontijdvak bij twee premiebetalingstijdvakken
+####Bepaling loontijdvak bij twee kalenderjaren
 
 ### Artikel  3.1  
 
-####Bepaling loontijdvak bij twee premiebetalingstijdvakken
+####Bepaling loontijdvak bij twee kalenderjaren
 
-Voor de toepassing van [artikel 17, eerste en tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt een loontijdvak dat zich uitstrekt over twee premiebetalingstijdvakken, geacht te behoren tot het premiebetalingstijdvak waarin het loon over dat loontijdvak wordt genoten.  
+Voor de toepassing van [artikel 17, eerste en tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt een loontijdvak dat zich uitstrekt over twee kalenderjaren, geacht te behoren tot het kalenderjaar waarin het loon over dat loontijdvak wordt genoten.  
 
 ### §  2  
 
@@ -162,7 +162,7 @@ Indien een werknemer van twee of meer werkgevers arbeidsloon ontvangt en vervolg
 
 ####Berekening premies werknemersverzekeringen
 
-1.  De premies die op grond van [hoofdstuk 3 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) zijn verschuldigd, worden per loontijdvak met inachtneming van [artikel 17, eerste en tweede lid, van die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), berekend over het verschil tussen het loon dat de werknemer in het premiebetalingstijdvak heeft genoten tot en met dat loontijdvak en het loon dat de werknemer in dat premiebetalingstijdvak heeft genoten tot en met het aan dat loontijdvak voorafgaande loontijdvak.   
+1.  De premies die op grond van [hoofdstuk 3 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) zijn verschuldigd, worden per loontijdvak met inachtneming van [artikel 17, eerste en tweede lid, van die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), berekend over het verschil tussen het loon dat de werknemer in het kalenderjaar waarvoor de premie wordt vastgesteld heeft genoten tot en met dat loontijdvak en het loon dat de werknemer in dat kalenderjaar heeft genoten tot en met het aan dat loontijdvak voorafgaande loontijdvak.   
 2.  Indien voor de werknemer gedurende een loontijdvak verschillende premiepercentages gelden, wordt het op grond van het eerste lid berekende verschil naar evenredigheid van de lonen waarvoor die verschillende premiepercentages gelden, aan die lonen toegerekend.   
 
 ### Afdeling  2  
@@ -189,9 +189,9 @@ d. uitzendbedrijven IB en IIB: groepen uitzendkrachten met administratieve, (par
 
 e. detachering: groepen uitzendkrachten die niet vallen onder de hierboven genoemde uitzendbedrijven, werkzaam bij uitzendbedrijven;  
 
-f. loonsom: het premieloon vermeerderd met de direct verstrekte uitkeringen op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) in het tweede kalenderjaar voorafgaand aan het premiebetalingstijdvak;  
+f. loonsom: het premieloon vermeerderd met de direct verstrekte uitkeringen op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) in het tweede kalenderjaar voorafgaand aan het kalenderjaar waarvoor de premie wordt vastgesteld;  
 
-g. ziekengeldlasten: de uitkeringen in het tweede kalenderjaar voorafgaand aan het premiebetalingstijdvak, die op grond van [artikel 104, eerste lid, onderdeel c, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) ten laste van een sectorfonds komen;  
+g. ziekengeldlasten: de uitkeringen in het tweede kalenderjaar voorafgaand aan het kalenderjaar waarvoor de premie wordt vastgesteld, die op grond van [artikel 104, eerste lid, onderdeel c, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) ten laste van een sectorfonds komen;  
 
 h. individuele ziekteverzuimcijfer: het quotiënt van de aan een werkgever toe te rekenen ziekengeldlasten en de loonsom;  
 
@@ -335,7 +335,7 @@ d. ingeval het tweede lid, onderdeel d van toepassing is, een kopie van een inte
 
 ####Verlenging inlooptermijn
 
-Ten behoeve van de vaststelling van het sectorpremiepercentage, bedoeld in [artikel 2.2, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), voor het jaar 2011 wordt de termijn van drie kalenderjaren, bedoeld in artikel 2.2, derde, vijfde en zesde lid, van het Besluit Wfsv, verlengd tot vijf kalenderjaren.  
+Ten behoeve van de vaststelling van het sectorpremiepercentage, bedoeld in [artikel 2.2, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), voor het jaar 2012 wordt de termijn van drie kalenderjaren, bedoeld in artikel 2.2, derde, vijfde en zesde lid, van het Besluit Wfsv, verlengd tot vijf kalenderjaren.  
 
 ### Afdeling  3  
 
@@ -373,8 +373,8 @@ In deze afdeling wordt verstaan onder eigenrisicodrager: de werkgever aan wie op
 
 1.  Voor de eigenrisicodrager die ter dekking van het risico, bedoeld in [artikel 40, eerste lid, onderdeel b, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), een verzekering heeft gesloten, bedragen de kosten, die op grond van [artikel 41, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) voor verhaal op de werknemer in aanmerking komen de door hem verschuldigde premie, voor zover die premie betrekking heeft op verzekering van dat risico.   
 2.  Voor de werkgever die ter dekking van het risico, bedoeld in [artikel 40, eerste lid, onderdeel b, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), geen verzekering heeft gesloten worden de kosten, die op grond van [artikel 41, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) voor verhaal op een werknemer in aanmerking komen, vastgesteld op een percentage van het loon van de werknemer.   
-3.  Het percentage, bedoeld in het tweede lid, wordt bepaald door het totaal van de in het premiebetalingstijdvak te verwachten betalingen van WGA-uitkeringen of in het voorgaande premiebetalingstijdvak betaalde WGA-uitkeringen overeenkomstig [artikel 82 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) te delen door het totaal van het premieplichtig loon dat in dat premiebetalingstijdvak ten laste komt of is gekomen van de eigenrisicodrager. Dit percentage bedraagt ten hoogste 1,5 maal de gedifferentieerde premie, bedoeld in [2.14, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), die ten hoogste op de werkgever van toepassing zou zijn indien hij geen eigenrisicodrager zou zijn.   
-4.  Indien na afloop van het kalenderjaar blijkt, dat de te verwachten bedragen in een premiebetalingstijdvak afwijken van de gerealiseerde bedragen, kan indien dit zou leiden tot een ander bedrag van de kosten voor het verhaal, het bedrag van het verhaal in het premiebetalingstijdvak volgend op dat premiebetalingstijdvak worden herzien tot ten hoogste het bedrag, bedoeld in [artikel 41, eerste lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
+3.  Het percentage, bedoeld in het tweede lid, wordt bepaald door het totaal van de in het kalenderjaar waarvoor de premie wordt vastgesteld te verwachten betalingen van WGA-uitkeringen of in het voorgaande kalenderjaar betaalde WGA-uitkeringen overeenkomstig [artikel 82 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) te delen door het totaal van het premieplichtig loon dat in dat kalenderjaar ten laste komt of is gekomen van de eigenrisicodrager. Dit percentage bedraagt ten hoogste 1,5 maal de gedifferentieerde premie, bedoeld in [2.14, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), die ten hoogste op de werkgever van toepassing zou zijn indien hij geen eigenrisicodrager zou zijn.   
+4.  Indien na afloop van het kalenderjaar blijkt, dat de te verwachten bedragen in een kalenderjaar afwijken van de gerealiseerde bedragen, kan indien dit zou leiden tot een ander bedrag van de kosten voor het verhaal, het bedrag van het verhaal in het kalenderjaar volgend op dat kalenderjaar worden herzien tot ten hoogste het bedrag, bedoeld in [artikel 41, eerste lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
 
 ### Afdeling  5  
 
@@ -422,7 +422,7 @@ Indien voor een werknemer, die de leeftijd van 62 jaar heeft bereikt, premiekort
 ####Evenredige vermindering premiekorting
 
 1.  Indien de dienstbetrekking met de werknemer niet aanvangt respectievelijk eindigt op de eerste dag respectievelijk laatste dag van het aangiftetijdvak, wordt het bedrag van de premiekorting, bedoeld in [artikel 47, eerste en derde lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en [122b, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), over dat aangiftetijdvak vermenigvuldigd met de factor A/B waarbij A staat voor: het aantal kalenderdagen in dat aangiftetijdvak dat de werknemer in dienstbetrekking heeft gestaan tot de werkgever; B staat voor: het totale aantal kalenderdagen in dat aangiftetijdvak.   
-2.  Indien een werknemer in het aangiftetijdvak werkzaam is in een dienstbetrekking waarin de beloning voor de arbeid niet is gebaseerd op overeengekomen arbeidsduur, wordt voor de toepassing van [artikel 48 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bij een loon van ten minste het voor hem geldende wettelijk minimumloon per 1 januari van het premiebetalingstijdvak, de werknemer geacht ten minste 36 uur per week te hebben gewerkt. Indien het loon in dat aangiftetijdvak minder is dan het voor hem geldende wettelijk minimumloon per 1 januari van het premiebetalingstijdvak, dan wordt het in de eerste zin bedoelde aantal uren per week naar evenredigheid verminderd met een factor C/D waarbij C staat voor: het loon dat uit de dienstbetrekking wordt genoten in het aangiftetijdvak; D staat voor: het voor de werknemer geldende wettelijke minimumloon per 1 januari van het premiebetalingstijdvak.   
+2.  Indien een werknemer in het aangiftetijdvak werkzaam is in een dienstbetrekking waarin de beloning voor de arbeid niet is gebaseerd op overeengekomen arbeidsduur, wordt voor de toepassing van [artikel 48 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bij een loon van ten minste het voor hem geldende wettelijk minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld, de werknemer geacht ten minste 36 uur per week te hebben gewerkt. Indien het loon in dat aangiftetijdvak minder is dan het voor hem geldende wettelijk minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld, dan wordt het in de eerste zin bedoelde aantal uren per week naar evenredigheid verminderd met een factor C/D waarbij C staat voor: het loon dat uit de dienstbetrekking wordt genoten in het aangiftetijdvak; D staat voor: het voor de werknemer geldende wettelijke minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld.   
 
 ### Artikel  3.24a  
 
@@ -933,19 +933,19 @@ In deze afdeling wordt verstaan onder:
 
 a. Algemeen Kinderbijslagfonds: het Algemeen Kinderbijslagfonds, genoemd in [artikel 29a van de AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
 
-b. uitgaven met betrekking tot het Algemeen Kinderbijslagfonds: de op grond van de [AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) uit te keren kinderbijslagen, alsmede de aan de uitvoering van de [AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) verbonden kosten;  
+b. lasten met betrekking tot het Algemeen Kinderbijslagfonds: de op grond van de [AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) uit te keren kinderbijslagen, alsmede de aan de uitvoering van de [AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) verbonden kosten;  
 
-c. overige posten met betrekking tot het Algemeen Kinderbijslagfonds: de ontvangsten met betrekking tot de boeten verkregen met toepassing van [artikel 17a van de AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), de besparingen met betrekking tot de maatregelen verkregen met toepassing van [artikel 17 van de AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en de uitgaven en ontvangsten met betrekking tot de interesten en diversen;  
+c. overige baten en lasten met betrekking tot het Algemeen Kinderbijslagfonds: de baten verkregen met toepassing van [artikel 17a van de AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), de baten verkregen met toepassing van [artikel 17 van de AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en de baten en lasten verkregen door interesten en diversen;  
 
 d. Wajong-fonds: het Arbeidsondersteuningsfonds jonggehandicapten, genoemd in [artikel 5:1 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
 
 e. Toeslagenfonds: het Toeslagenfonds, genoemd in [artikel 31 van de Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md);  
 
-f. overige posten met betrekking tot het Wajong-fonds: wettelijke rente, proceskosten, rentelasten, ontvangsten met betrekking tot verhaal op grond van [artikel 4:2 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en de vereveningsbijdrage, bedoeld in [artikel 2:54](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:46 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+f. overige baten en lasten met betrekking tot het Wajong-fonds: wettelijke rente, proceskosten, rentelasten, baten op grond van [artikel 4:2 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en de vereveningsbijdrage, bedoeld in [artikel 2:54](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:46 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
 
 g. valutadag: de op de rekening-courantafschriften aangegeven dag van betaling;  
 
-h. overige posten met betrekking tot het Toeslagenfonds: wettelijke rente, proceskosten, rentelasten en de ontvangsten met betrekking tot de boeten verkregen met toepassing van [artikel 14a van de TW](../../../../wet/toeslagenwet/BWBR0004043/README.md).    
+h. overige baten en lasten met betrekking tot het Toeslagenfonds: wettelijke rente, proceskosten, rentelasten en de baten verkregen met toepassing van [artikel 14a van de TW](../../../../wet/toeslagenwet/BWBR0004043/README.md).    
 
 ### §  2  
 
@@ -953,42 +953,29 @@ h. overige posten met betrekking tot het Toeslagenfonds: wettelijke rente, proce
 
 ### Artikel  5.24  
 
-####Raming uitgaven aan kinderbijslagen
+####Raming baten en lasten
 
-1.  Uiterlijk op 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken en Werkgelegenheid een opgave van het totaalbedrag aan geraamde uitgaven voor de kinderbijslagen in het komende jaar, met een uitsplitsing naar maand.   
-2.  De bedragen in de raming en de opgave, bedoeld in het eerste lid, worden gespecificeerd naar het aantal kinderbijslaggerechtigden en het aantal kinderen naar leeftijdsklassen en naar rangorde uitgesplitst naar toepassing van [artikel 12 van de Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en toepassing van [artikel 12, eerste tot en met vijfde lid, van die wet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), zoals dit luidde op 31 december 1994.   
+1.  Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot het Algemeen Kinderbijslagfonds, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.   
+2.  De bedragen in de opgave, bedoeld in het eerste lid, worden gespecificeerd naar het aantal kinderbijslaggerechtigden en het aantal kinderen naar leeftijdsklassen en naar rangorde uitgesplitst naar toepassing van [artikel 12 van de Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).   
 
 ### Artikel  5.25  
 
-####Afdracht kinderbijslagen
+####Betaling voorschot
 
-Met als valutadag de eerste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid een periodiek voorschot op het bedrag, bedoeld in artikel 5.24, eerste lid, op de rekening-courant, bedoeld in artikel 5.16, onderdeel a. De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van het geraamde bedrag afwijken.  
+1.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel a, een periodiek voorschot op het bedrag, bedoeld in artikel 5.24, eerste lid, van: 
 
-### Artikel  5.26  
+a. geraamde uitkeringslasten met als valutadatum de eerste dag van elke maand, en  
 
-####Raming uitgaven aan uitvoeringskosten
-
-In het jaarplan met begroting verstrekt de SVB elk jaar aan de Minister van Sociale Zaken en Werkgelegenheid een opgave van het totaalbedrag aan geraamde uitvoeringskosten met betrekking tot het Algemeen Kinderbijslagfonds in het komende jaar.  
-
-### Artikel  5.27  
-
-####Afdracht uitvoeringskosten
-
-Met als valutadag de eerste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar op de rekening-courant, bedoeld in artikel 5.16, onderdeel a. De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van dit bedrag afwijken.  
+b. 1/12 <sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+2.  De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van de in het eerste lid, onderdelen a en b, bedoelde bedragen afwijken.   
 
 ### Artikel  5.28  
 
 ####Afrekening
 
-1.  Uiterlijk op 1 juli dient de SVB de afrekening van de kinderbijslagen en de uitvoeringskosten over het afgelopen kalenderjaar bij de Minister van Sociale Zaken en Werkgelegenheid in.   
-2.  In de afrekening van de kinderbijslagen en de uitvoeringskosten wordt, op basis van de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de kasstroom inzichtelijk gemaakt en wordt deze afzonderlijk vermeld voor de uitgaven en overige posten met betrekking tot het Algemeen Kinderbijslagfonds.   
-3.  Op grond van de afrekening van de kinderbijslagen en de uitvoeringskosten vindt voor 15 augustus een betaling plaats ten gunste of ten laste van het Algemeen Kinderbijslagfonds.   
-
-### Artikel  5.29  
-
-####Vaststelling Rijksbijdrage
-
-De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitgaven ten laste van het Algemeen Kinderbijslagfonds over het afgelopen kalenderjaar vast.  
+1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten opgenomen, alsmede de ontvangen voorschotten, bedoeld in artikel 5.25, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.   
+3.  Voor de afrekening van de kinderbijslagen en de uitvoeringskosten en de vaststelling en afrekening van de rijksbijdrage ten gunste of ten laste van het Algemeen Kinderbijslagfonds voor het jaar 2011, zijn de artikelen 5.28, respectievelijk 5.29, zoals die luidden op 31 december 2011, van toepassing.   
 
 ### §  3  
 
@@ -999,8 +986,8 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktobe
 ####Middelen Toeslagenfonds en Arbeidsondersteuningsfonds jonggehandicapten
 
 1.  Deze paragraaf heeft betrekking op de middelen voor het Toeslagenfonds en het Arbeidsondersteuningsfonds jonggehandicapten, waarin voorzien wordt door rijksbijdragen.   
-2.  De middelen voor Arbeidsondersteuningsfonds jonggehandicapten dienen ter dekking van uitgaven die op grond van enige wettelijk voorschrift ten laste van het Arbeidsondersteuningsfonds jonggehandicapten komen.   
-3.  De middelen voor het Toeslagenfonds dienen ter dekking van de uitgaven van het UWV voor: 
+2.  De middelen voor Arbeidsondersteuningsfonds jonggehandicapten dienen ter dekking van lasten die op grond van enige wettelijk voorschrift ten laste van het Arbeidsondersteuningsfonds jonggehandicapten komen.   
+3.  De middelen voor het Toeslagenfonds dienen ter dekking van lasten van het UWV voor: 
 
 a. toeslagen op grond van de [TW](../../../../wet/toeslagenwet/BWBR0004043/README.md);  
 
@@ -1018,57 +1005,38 @@ In deze paragraaf wordt verstaan onder:
 
 a. *toeslagen:* toeslagen op grond van de [TW](../../../../wet/toeslagenwet/BWBR0004043/README.md), inclusief de op grond van enige wet over de toeslagen door het UWV verschuldigde premies die niet op deze toeslagen in mindering kunnen worden gebracht en de door het UWV verschuldigde vergoedingen, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Onder toeslagen wordt mede begrepen de uitkeringen op grond van de [Tijdelijke wet BIA](../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md);  
 
-b. *uitkeringen:* uitkeringen op grond van, de [IOW](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), inclusief de op grond van enige wet over de uitkeringen door het UWV verschuldigde premies, die niet op deze uitkeringen in mindering kunnen worden gebracht, de door het UWV verschuldigde vergoedingen, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en de tegemoetkomingen op grond van de [artikelen 2:52](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:10 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+b. *uitkeringen:* uitkeringen op grond van de [IOW](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), inclusief de op grond van enige wet over de uitkeringen door het UWV verschuldigde premies, die niet op deze uitkeringen in mindering kunnen worden gebracht, de door het UWV verschuldigde vergoedingen, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en de tegemoetkomingen op grond van de [artikelen 2:52](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:10 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
 
 c. *tegemoetkomingen:* tegemoetkomingen op grond van [artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);  
 
-d. *overige posten:* de overige posten met betrekking tot het Wajong-fonds en de overige posten met betrekking tot het Toeslagenfonds.    
+d. *overige baten en lasten:* de overige baten en lasten met betrekking tot het Wajong-fonds en de overige baten en lasten met betrekking tot het Toeslagenfonds.    
 
 ### Artikel  5.30  
 
-####Raming en opgave uitgaven aan tegemoetkomingen
+####Raming baten en lasten
 
-1.  Uiterlijk 1 september van een kalenderjaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid een raming van de tegemoetkomingen over dat kalenderjaar overeenkomstig de bij deze regeling behorende bijlage 8.   
-2.  Uiterlijk 1 november van een kalenderjaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid overeenkomstig de bij deze regeling behorende bijlage 9 een opgave van de in september uitbetaalde tegemoetkomingen en de over de tegemoetkomingen verschuldigde belasting die als over een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel c, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij het UWV is geheven.   
+1.  Voor 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot het Toeslagenfonds en het Wajong-fonds, uitgesplitst naar uitkeringslasten, tegemoetkomingen en toeslagen per maand en uitvoeringskosten per jaar.   
+2.  De bedragen in de opgave, bedoeld in het eerste lid, worden gespecificeerd naar de in artikel 5.29a, derde lid, genoemde wetten, met uitzondering van onderdeel b.   
 
 ### Artikel  5.31  
 
-####Afdracht tegemoetkomingen
+####Betaling voorschot
 
-1.  Met als valutadag de elfde dag van de maand september van een kalenderjaar stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde tegemoetkomingen en de in het jaarplan en begroting opgenomen uitvoeringskosten van [artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) op een rekening-courant als bedoeld in artikel 5.16, onderdeel b.   
-2.  Met als valutadag de elfde dag van de maand november verrekent de Minister van Sociale Zaken en Werkgelegenheid het verschil tussen de uitbetaalde en de geraamde tegemoetkomingen.   
+1.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel b, een periodiek voorschot op het bedrag, bedoeld in artikel 5.30, eerste lid, van: 
 
-### Artikel  5.32  
+a. geraamde uitkeringslasten, toeslagen en tegemoetkomingen met als valutadatum de tweeëntwintigste dag van elke maand, en  
 
-####Raming uitgaven aan toeslagen, uitkeringen en uitvoeringskosten
-
-1.  Uiterlijk op 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid een opgave van het totaalbedrag aan geraamde uitgaven voor toeslagen, uitkeringen en overige posten in het komende jaar, met een uitsplitsing naar maand.   
-2.  In het jaarplan met begroting verstrekt het UWV elk jaar aan de Minister van Sociale Zaken en Werkgelegenheid een opgave van het totaalbedrag aan geraamde uitvoeringskosten van de [TW](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), met inbegrip van de [Tijdelijke wet BIA](../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md), de [IOW](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) in het komende jaar.   
-3.  Op het bedrag van de geraamde uitkeringslasten in het kader van de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), bedoeld in het eerste lid, is in mindering gebracht het afgedragen bedrag, bedoeld in [artikel 3.48, vierde lid, van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).   
-
-### Artikel  5.33  
-
-####Afdracht toeslagen, uitkeringen en uitvoeringskosten
-
-Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid op een rekening-courant als bedoeld in artikel 5.16, onderdeel b: 
-
-a. een periodiek voorschot op het bedrag, bedoeld in artikel 5.32, eerste lid;  
-
-b. ééntwaalfde van het bedrag, bedoeld in artikel 5.32, tweede lid.   De Minister kan, na overleg met het UWV, van deze bedragen afwijken.  
+b. 1/12 <sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+2.  De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met het UWV, van de in het eerste lid, onderdelen a en b, bedoelde bedragen afwijken.   
 
 ### Artikel  5.34  
 
 ####Afrekening
 
-1.  Uiterlijk op 1 juni dient het UWV de afrekening van de toeslagen, de uitkeringen de tegemoetkomingen, de overige posten en de uitvoeringskosten over het afgelopen kalenderjaar bij de Minister van Sociale Zaken en Werkgelegenheid in.   
-2.  In de afrekening wordt, op basis van de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de kasstroom inzichtelijk gemaakt, en deze wordt afzonderlijk per wet vermeld voor de toeslagen, de uitkeringen de tegemoetkomingen uitgesplitst naar de soort arbeidsongeschiktheidsuitkering van de ontvanger, de overige posten, de vakantie-uitkeringen en de uitvoeringskosten, op grond van de [TW](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), de [IOW](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md). In de afrekening wordt de kasstroom van de uitgaven op grond van de [Tijdelijke wet BIA](../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md) meegenomen bij de kasstroom van de uitgaven op grond van de [TW](../../../../wet/telecommunicatiewet/BWBR0009950/README.md). Tevens wordt de kasstroom voor de tegemoetkoming, bedoeld in de [artikelen 2:52](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:10 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), afzonderlijk vermeld.   
-3.  Op grond van de afrekening vindt voor 15 juli een betaling plaats ten gunste of ten laste van het Toeslagenfonds onderscheidenlijk het Wajong-fonds.   
-
-### Artikel  5.35  
-
-####Vaststelling Rijksbijdrage
-
-De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitgaven ten laste van het Toeslagenfonds, onderscheidenlijk het Wajong-fonds, over het afgelopen kalenderjaar vast, gespecificeerd naar toeslagen, uitkeringen, tegemoetkomingen, overige posten en uitvoeringskosten.  
+1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.31, eerste lid, met betrekking tot hetToeslagenfonds en het Wajong-fonds opgenomen, waarbij de gegevens met betrekking tot het Toeslagenfonds tevens worden gespecificeerd naar de in artikel 5.29a, derde lid, genoemde wetten, met uitzondering van onderdeel b.   
+2.  De overige baten en lasten met betrekking tot het Toeslagenfonds en het Wajong-fonds kunnen in de jaarrekening, bedoeld in het eerste lid, worden toegerekend aan respectievelijk de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).   
+3.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.   
+4.  Voor de afrekening van de toeslagen, de uitkeringen, de tegemoetkomingen, de overige posten en de uitvoeringskosten en de vaststelling en afrekening van de rijksbijdrage ten gunste of ten laste van het Toeslagenfonds en Wajong-fonds voor het jaar 2011, zijn de artikelen 5.34, respectievelijk 5.35, zoals die luidden op 31 december 2011, van toepassing.   
 
 ### §  4  
 
@@ -1076,36 +1044,29 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober
 
 ### Artikel  5.36  
 
-####Raming uitgaven aan uitkeringen
+####Raming baten en lasten
 
-1.  Uiterlijk op 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid een opgave van het totaalbedrag aan geraamde uitkeringen op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), en [artikel 3:30 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) in het komende jaar, met een uitsplitsing naar maand.   
-2.  In deze paragraaf wordt onder uitkeringen verstaan de uitkeringen inclusief de door het UWV over die uitkeringen verschuldigde premies en vergoedingen als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die niet op deze uitkeringen in mindering kunnen worden gebracht.   
+1.  Voor 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot het Arbeidsongeschiktheidsfonds, op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), en [artikel 3.30 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.   
+2.  In deze paragraaf wordt onder uitkeringen verstaan de uitkeringslasten inclusief de door het UWV over die uitkeringen verschuldigde premies en vergoedingen, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die niet op deze uitkeringen in mindering kunnen worden gebracht.   
 
 ### Artikel  5.37  
 
-####Afdracht uitkeringen
+####Betaling voorschot
 
-Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid een periodiek voorschot op het bedrag, bedoeld in artikel 5.36, eerste lid, op een rekening-courant als bedoeld in artikel 5.16, onderdeel b. De Minister kan, na overleg met het UWV, van dit bedrag afwijken.  
+1.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel b, een periodiek voorschot op het bedrag, bedoeld in artikel 5.36, eerste lid, van: 
 
-### Artikel  5.37a  
+a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en  
 
-####Raming uitgaven aan uitvoeringskosten
-
-In het jaarplan met begroting verstrekt het UWV elk jaar aan de Minister van Sociale Zaken en Werkgelegenheid een opgave van het totaalbedrag aan geraamde uitvoeringskosten op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), en [artikel 3:30 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) in het komende jaar.  
-
-### Artikel  5.37b  
-
-####Afdracht uitvoeringskosten
-
-Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), en [artikel 3:30 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) op een rekening-courant als bedoeld in artikel 5.16, onderdeel b. De Minister kan, na overleg met het UWV, van dit bedrag afwijken.  
+b. 1/12 <sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+2.  De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met het UWV, van de in het eerste lid, onderdelen a en b, bedoelde bedragen afwijken.   
 
 ### Artikel  5.38  
 
 ####Afrekening
 
-1.  Uiterlijk op 1 juni dient het UWV de afrekening over het afgelopen kalenderjaar bij de Minister van Sociale Zaken en Werkgelegenheid in.   
-2.  In de afrekening wordt op basis van de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de kasstroom van de rijksbijdrage inzichtelijk gemaakt.   
-3.  Op grond van de afrekening vindt voor 15 juli een betaling plaats ten gunste of ten laste van het Arbeidsongeschiktheidsfonds.   
+1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.37, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot hetArbeidsongeschiktheidsfonds opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.   
+3.  Voor de afrekening van de uitkeringslasten en uitvoeringskosten en de vaststelling en afrekening van de rijksbijdrage ten gunste of ten laste van het Arbeidsongeschiktheidsfonds voor het jaar 2011, zijn de artikelen 5.38, respectievelijk 5.39, zoals die luidden op 31 december 2011, van toepassing.   
 
 ### Artikel  5.39  
 
@@ -1146,41 +1107,28 @@ In deze paragraaf wordt verstaan onder AIO: algemene bijstand in de vorm van een
 
 ### Artikel  5.43  
 
-####Raming uitgaven aan uitkeringen AIO
+####Raming baten en lasten
 
-Uiterlijk op 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken en Werkgelegenheid een opgave van het totaalbedrag aan geraamde uitkeringen AIO in het komende jaar, met een uitsplitsing naar maand.  
+Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot de toekenning van AIO, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.  
 
 ### Artikel  5.44  
 
-####Afdracht uitkeringen AIO
+####Betaling voorschot
 
-Met als valutadag de tweeëntwintigste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid een periodiek voorschot op het bedrag, bedoeld in artikel 5.43 op de rekening-courant, bedoeld in artikel 5.16, onderdeel a. De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van het geraamde bedrag afwijken.  
+1.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel a, een periodiek voorschot op het bedrag, bedoeld in artikel 5.43, van: 
 
-### Artikel  5.45  
+a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en  
 
-####Raming uitgaven aan uitvoeringskosten
-
-In het jaarplan met begroting verstrekt de SVB elk jaar aan de Minister van Sociale Zaken en Werkgelegenheid een opgave van het totaalbedrag aan geraamde uitvoeringskosten met betrekking tot de AIO in het komende jaar.  
-
-### Artikel  5.46  
-
-####Afdracht uitvoeringskosten
-
-Met als valutadag de eerste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar op de rekening-courant, bedoeld in artikel 5.16, onderdeel a. De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van dit bedrag afwijken.  
+b. 1/12 <sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+2.  De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van de in het eerste lid, onderdelen a en b, bedoelde bedragen afwijken.   
 
 ### Artikel  5.47  
 
 ####Afrekening
 
-1.  Uiterlijk op 1 juli dient de SVB de afrekening van de uitkeringen en de uitvoeringskosten AIO over het afgelopen kalenderjaar bij de Minister van Sociale Zaken en Werkgelegenheid in.   
-2.  In de afrekening van de uitkeringen en de uitvoeringskosten AIO wordt, op basis van de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de kasstroom inzichtelijk gemaakt en wordt deze afzonderlijk vermeld voor de uitgaven en ontvangsten met betrekking tot de AIO.   
-3.  Op grond van de afrekening van de uitkeringen en de uitvoeringskosten AIO vindt voor 15 augustus een betaling plaats ten gunste of ten laste van de SVB.   
-
-### Artikel  5.48  
-
-####Vaststelling Rijksbijdrage
-
-De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitgaven AIO ten laste van de SVB over het afgelopen kalenderjaar vast.  
+1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.44, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot de toekenning van AIO opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.   
+3.  Voor de afrekening van de uitkeringen en de uitvoeringskosten AIO en de vaststelling en afrekening van de rijksbijdrage ten gunste of ten laste van de SVB voor het jaar 2011, zijn de artikelen 5.47, respectievelijk 5.48, zoals die luidden op 31 december 2011, van toepassing.   
 
 ### §  3  
 
@@ -1198,37 +1146,28 @@ b. *uitvoeringskosten:* het totaalbedrag van de kosten die de SVB maakt bij de u
 
 ### Artikel  5.50  
 
-####Raming en opgave uitgaven
+####Raming baten en lasten
 
-In het jaarplan met begroting verstrekt de SVB elk jaar aan de Minister van Sociale Zaken en Werkgelegenheid: 
-
-a. een raming van de WKB voor het komende jaar;  
-
-b. een raming van de uitvoeringskosten voor het komende jaar.    
+Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot de WKB, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.  
 
 ### Artikel  5.51  
 
-####Afdracht uitkeringen WKB en uitvoeringskosten
+####Betaling voorschot
 
-1. Met als valutadag de eerste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid eentwaalfde van de geraamde uitvoeringskosten per jaar en eentwaalfde van de geraamde WKB per jaar op de rekening-courant, bedoeld in artikel 5.16, onderdeel a.  
+1.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel a, een periodiek voorschot op het bedrag, bedoeld in artikel 5.50, van: 
 
-2. De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van de geraamde bedragen, bedoeld in het eerste lid, afwijken.    
+a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en  
+
+b. 1/12 <sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+2.  De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van de in het eerste lid, onderdelen a en b, bedoelde bedragen afwijken.   
 
 ### Artikel  5.52  
 
 ####Afrekening
 
-1. Uiterlijk op 1 juli dient de SVB de afrekening van de WKB en de uitvoeringskosten over het afgelopen kalenderjaar bij de Minister van Sociale Zaken en Werkgelegenheid in.  
-
-2. In de afrekening van de WKB en de uitvoeringskosten wordt, op basis van de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de kasstroom inzichtelijk gemaakt.  
-
-3. Op grond van de afrekening van de WKB en de uitvoeringskosten vindt vóór 15 augustus een betaling plaats ten gunste of ten laste van de SVB.    
-
-### Artikel  5.53  
-
-####Vaststelling Rijksbijdrage
-
-De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitvoeringskosten respectievelijk de WKB over het afgelopen kalenderjaar vast.  
+1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.51, eerste lid, met betrekking tot de WKB opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.   
+3.  Voor afrekening van de WKB en de uitvoeringskosten en de vaststelling en afrekening van de rijksbijdrage ten gunste of ten laste van de SVB voor het jaar 2011, zijn de artikelen 5.52, respectievelijk 5.53, zoals die luidden op 31 december 2011, van toepassing.   
 
 ### Hoofdstuk  6  
 
@@ -1276,7 +1215,7 @@ J.G.Wijn
 
 ### Bijlage  1  
 
-####, behorend bij artikel 5.1 
+####, behorend bij artikel 5.2 
 
 #### *1. Agrarisch bedrijf, omvattende:* 
 
@@ -1540,9 +1479,9 @@ d. het verzinken en/of vertinnen, voor zover dit niet langs galvanotechnische we
 
 8. Het motorvoertuigenbedrijf, waaronder te dezen wordt verstaan het bedrijf waarin één of meer van de hieronder genoemde werkzaamheden worden uitgeoefend: 
 
-a. het verrichten van herstellingswerkzaamheden aan automobielen, auto-onderdelen toebehoren (inclusief banden), dan wel aan motorrijwielen, motorrijwielonderdelen of -toebehoren (inclusief banden);  
+a. het verrichten van herstellingswerkzaamheden aan automobielen, auto-onderdelen toebehoren, dan wel aan motorrijwielen, motorrijwielonderdelen of -toebehoren;  
 
-b. het verrichten van onderhoudswerkzaamheden aan automobielen, auto-onderdelen of -toebehoren (inclusief banden), dan wel aan motorrijwielen, motorrijwielonderdelen of -toebehoren (inclusief banden;  
+b. het verrichten van onderhoudswerkzaamheden aan automobielen, auto-onderdelen of -toebehoren, dan wel aan motorrijwielen, motorrijwielonderdelen of -toebehoren;  
 
 c. het voorzien van automobielen of motorrijwielen van motorbrandstoffen of smeermiddelen;  
 
@@ -1747,7 +1686,7 @@ Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigings
 
 #### *19. Grootwinkelbedrijf* 
 
-Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.548.811 hebben  
+Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.632.043 hebben  
 
 #### *20. Havenbedrijven, omvattende:* 
 
@@ -2035,7 +1974,7 @@ b. Scheepshypotheekbanken.
 
 2. Groothandel in technische producten en metalen.  
 
-3. Bandengroothandel.    
+3. Bandengroothandel, inclusief het bandenservicebedrijf (verkoop aan het publiek).    
 
 #### *42. Groothandel II (met inbegrip van daartoe behorende nevenwerkzaamheden, welke uitsluitend of praktisch uitsluitend ten behoeve van de eigen groothandel worden verricht), omvattende:* 
 
@@ -2701,7 +2640,7 @@ Instellingen of diensten die zich bezighouden met de feitelijke uitvoering van:
 
 – de [Wet sociale werkvoorziening](../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) (Wsw);  
 
-– voorzieningen, gericht op arbeidsinschakeling, als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 5, eerste lid, van de Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).    
+– voorzieningen, gericht op arbeidsinschakeling, als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).    
 
 #### *68. Railbouw, omvattende:* 
 
@@ -2715,52 +2654,3 @@ Het (doen) uitvoeren van werkzaamheden aangaande het (aan)leggen van een verdich
 
 3. Exploitanten van overige telecommunicatievoorzieningen.    
 
-### Bijlage  8  
-
-| --- | --- |
-|:---|:---|
-|  *9XX*   |  *Tegemoetkoming AO Wtcg*   |
-
-| Geraamde uitgaven Toeslagenfonds  | Jaar  |--- | Raming uitgaven AO Wtcg als bedoeld in art 5.30, lid 6  van de Regeling Wfsv.  |--- | Maand  |--- |--- | Bedrag in hele euro’s  |--- | Rubriek  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Categorie WAO  | --- | --- | 1  |
-| Categorie WAZ  | --- | --- | 1  |
-| Categorie IVA  | --- | --- | 1  |
-| Categorie WGA  | --- | --- | 1  |
-| Categorie Wet Wajong  | --- | --- | 2  |
-|  *Totaal*   | --- | --- | --- |
-
-| --- | --- |
-|:---|:---|
-| --- | --- |
-| Datum:  | --- |
-| Opsteller:  | Controller:  |
-| --- | --- |
-| --- | --- |
-
-*Zenden aan:*  FWEBGOBBSSubsidies@minszw.nl 
-
-### Bijlage  9  
-
-| --- | --- | --- |
-|:---|:---|:---|
-|  *type formulier*   | 09XX.01.1.00  |  *Tegemoetkoming AO Wtcg*   |
-
-| Gerealiseerde uitgaven Toeslagenfonds  | Jaar  |--- | Opgave van de uitgaven AO Wtcg als bedoeld in art 5.30, lid 7  van de Regeling Wfsv.  |--- | Maand  |--- |--- | Bedrag in hele euro’s  | Regel  | Rubriek  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Categorie WAO  | --- | 101  | 1  |
-| Categorie WAZ  | --- | 101  | 1  |
-| Categorie IVA  | --- | 101  | 1  |
-| Categorie WGA  | --- | 101  | 1  |
-| Categorie Wet Wajong  | --- | 102  | 2  |
-|  *Totaal*   | --- | 999  | --- |
-
-| --- | --- |
-|:---|:---|
-| --- | --- |
-| Datum:  | --- |
-| Opsteller:  | Controller:  |
-| --- | --- |
-| --- | --- |
-
-*Zenden aan:*  FWEBGOBBSSubsidies@minszw.nl 

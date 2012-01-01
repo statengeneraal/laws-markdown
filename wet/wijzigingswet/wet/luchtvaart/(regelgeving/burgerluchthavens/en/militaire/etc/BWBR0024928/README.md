@@ -178,7 +178,7 @@ Een veiligheidscertificaat dat is verleend op grond van [artikel 132, derde lid,
 
 1.  Op verzoeken voor een aanwijzing voor een burgerluchtvaartterrein op grond van [artikel 18 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) of een wijziging daarvan op grond van [artikel 27 van die wet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) die zijn ingediend voor de dag van publicatie in het Staatsblad, blijft het bepaalde bij of krachtens de [artikelen 18 tot en met 27 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) alsmede het bepaalde in het Structuurschema burgerluchtvaartterreinen of de Planologische kernbeslissing luchtvaartterreinen Maastricht en Lelystad van toepassing zoals die luiden op de dag voor inwerkingtreding van artikel III, onderdeel C, van deze wet.   
 2.  Het eerste lid is van overeenkomstige toepassing op een ambtshalve vaststelling van een aanwijzing of een wijziging daarvan.   
-3.  Bij de vaststelling van het aanwijzingsbesluit of een wijziging daarvan wordt, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+3.  Bij de vaststelling van het aanwijzingsbesluit of een wijziging daarvan wordt gebruik gemaakt van: 
 
 a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
 
@@ -198,7 +198,7 @@ Onze Minister van Verkeer en Waterstaat kan besluiten de procedure en de onderzo
 
 1.  [Artikel 30 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) blijft van toepassing op een nog niet onherroepelijk geworden aanwijzing van een burgerluchtvaartterrein op grond van [artikel 18, eerste lid, van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) of op een nog niet onherroepelijk geworden wijziging daarvan op grond van [artikel 27, eerste lid, van die wet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md). Op een op grond van [artikel 30 Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) vast te stellen besluit blijft het bepaalde bij of krachtens de [artikelen 18 tot en met 27 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) alsmede het bepaalde in het Structuurschema burgerluchtvaartterreinen of de Planologische kernbeslissing luchtvaartterreinen Maastricht en Lelystad van toepassing zoals die luiden op de dag voor inwerkingtreding van artikel III, onderdeel C, van deze wet.   
 2.  [Artikel 30 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) blijft van toepassing op een nog niet onherroepelijk geworden aanwijzing van een militair luchtvaartterrein op grond van [artikel 18, eerste lid, van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) of op een nog niet onherroepelijk geworden wijziging daarvan op grond van [artikel 27, eerste lid, van die wet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md).   
-3.  Bij de vaststelling van een beslissing op bezwaar kan, onverminderd de bevoegdheid tot herstel van gebreken, gebruik gemaakt van: 
+3.  Bij de vaststelling van een beslissing op bezwaar kan gebruik gemaakt van: 
 
 a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
 

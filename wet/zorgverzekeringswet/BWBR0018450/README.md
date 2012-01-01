@@ -431,7 +431,7 @@ Gedurende de eerste twaalf maanden waarover een verzekering als bedoeld in artik
 
 ### Artikel  19  
 
-1.  Iedere verzekerde van achttien jaar of ouder heeft een verplicht eigen risico van € 170 per kalenderjaar.   
+1.  Iedere verzekerde van achttien jaar of ouder heeft een verplicht eigen risico van € 220 per kalenderjaar.   
 2.  Het bedrag, genoemd in het eerste lid, wordt jaarlijks geïndexeerd overeenkomstig het verschil in geraamde uitgaven voor de zorg en overige diensten, bedoeld in artikel 11, tussen het kalenderjaar waarop het verplicht eigen risico betrekking zal hebben en vergelijkbare uitgaven voor het jaar voorafgaand aan dat kalenderjaar.   
 3.  Indien het geïndexeerde bedrag naar beneden afgerond € 5 of een veelvoud daarvan verschilt van het in het eerste lid genoemde bedrag, wordt dit bedrag bij ministeriële regeling gewijzigd, waarna het in die regeling genoemde bedrag in de plaats treedt van het in het eerste lid genoemde bedrag.   
 4.  Rekeningen voor kosten van zorg of overige diensten worden slechts op het verplicht eigen risico in mindering gebracht, indien deze door de zorgverzekeraar zijn ontvangen voor een bij algemene maatregel van bestuur te bepalen dag van het kalenderjaar volgend op het kalenderjaar waarop het verplicht eigen risico betrekking heeft.   
@@ -675,7 +675,11 @@ g. de bestuursrechtelijke premies, bedoeld in de artikelen 18d en 18e;
 
 h. de inkomsten die in verband met deze wet voortvloeien uit internationale overeenkomsten;  
 
-i. de door de zorgautoriteit van verzekeraars op grond van [artikel 83 van de Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) geïnde dwangsommen en de ingevorderde bestuurlijke boeten, bedoeld in de [artikelen 86 tot en met 89 van die wet](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).     
+i. de door de zorgautoriteit van verzekeraars op grond van [artikel 83 van de Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) geïnde dwangsommen en de ingevorderde bestuurlijke boeten, bedoeld in de [artikelen 86 tot en met 89 van die wet](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+
+j.  dit onderdeel is nog niet in werking getreden;   
+
+k. door zorgaanbieders ingevolge een regel van de zorgautoriteit op grond van [artikel 37, eerste lid, aanhef en onder d, van de Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) dan wel op aanwijzing van de zorgautoriteit op grond van [artikel 76, tweede lid, van die wet](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) afgedragen bedragen en door de zorgautoriteit van zorgaanbieders op grond van [artikel 81, eerste lid, onder c, van die wet](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) ingevorderde bedragen, voor zover die bedragen niet worden afgedragen aan het Algemeen Fonds Bijzondere Ziektekosten of aan derden.     
 3.  Ten laste van het Zorgverzekeringsfonds komen: 
 
 a. de bijdragen, bedoeld in de artikelen 32, 33, 34 en 34a;  
@@ -690,7 +694,9 @@ e. de uitgaven die in verband met deze wet voortvloeien uit internationale overe
 
 f. uitkeringen als bedoeld in artikel 118a en de met de uitvoering van dat artikel gepaard gaande beheerskosten van het CAK;  
 
-g. subsidies als bedoeld in artikel 123a.     
+g. bedragen als bedoeld in [artikel 56a van de Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+
+h. de door het College zorgverzekeringen op grond van een ministeriële regeling vastgestelde verdeelbedragen, zijnde aan de relevante zorgverzekeraars toegekende delen van de bedragen bedoeld in onderdeel k van het tweede lid.     
 4.  Uit het Zorgverzekeringsfonds kunnen, volgens bij ministeriële regeling te stellen regels, middelen worden gebruikt voor het vormen en in stand houden van een voor de doelstelling van het fonds noodzakelijke reserve.   
 
 ### Artikel  40  
@@ -1212,10 +1218,6 @@ b. 80% van de kosten in de overige gevallen, voor zover deze kosten niet op gron
 12.  De artikelen 40, tweede tot en met elfde lid, 72, tweede tot en met vijfde lid, 74, derde, vierde en vijfde lid, en 75, vierde lid, zijn van overeenkomstige toepassing.   
 13.  De zorgaanbieder die in aanmerking wenst te komen voor een bijdrage als bedoeld in dit artikel, verstrekt het College zorgverzekeringen of door dat College aangewezen, bij de uitvoering van dit artikel betrokken personen, bij ministeriële regeling te bepalen gegevens die noodzakelijk zijn om het recht op en de omvang van een bijdrage te kunnen vaststellen, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.   
 14.  In afwijking van artikel 116 kan een zorgaanbieder tegen een op grond van dit artikel genomen besluit van het College zorgverzekeringen beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-
-### Artikel  123a  
-
-Onze Minister draagt door het verstrekken van subsidies bij aan een voldoende aanbod van topreferente zorg, innovatie en ontwikkeling van zorg in academische ziekenhuizen of in een daarmee gelijk te stellen ziekenhuis.  
 
 ### Hoofdstuk  10  
 

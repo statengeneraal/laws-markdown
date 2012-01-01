@@ -25,9 +25,9 @@ b. motorrijtuigen: hetgeen daaronder wordt verstaan in artikel 1 van de wet.
 
 1.  De som waarvoor de verzekering van aansprakelijkheid, bedoeld in [artikel 3, eerste lid, van de wet](../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), voor een motorrijtuig ten minste moet zijn gesloten, bedraagt: 
 
-a. voor schade aan personen € 5.000.000 per gebeurtenis;  
+a. voor schade aan personen € 5.600.000 per gebeurtenis;  
 
-b. voor schade aan zaken € 1.000.000 per gebeurtenis.     
+b. voor schade aan zaken € 1.120.000 per gebeurtenis.     
 2.  In afwijking van het eerste lid, aanhef en onder a, bedraagt voor een motorrijtuig dat is ingericht tot het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, de verzekerde som ten minste € 10.000.000 per gebeurtenis.   
 
 ### Artikel  2a  

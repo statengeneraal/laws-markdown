@@ -203,71 +203,133 @@ h. eenheid met gereedstelling: eenheid die, daartoe aangewezen, ingezet is dan w
 
 ### §  1  
 
-####Aanwijzing certificerende instellingen
+####Aanwijzing certificerende instelling op verzoek
 
 ### Artikel  1.5a  
 
 ####Criteria voor aanwijzing
 
-1.  Als certificerende instelling kan worden aangewezen een instelling die: 
+1.  Als certificerende instelling kan worden aangewezen de instelling die: 
 
 a. rechtspersoonlijkheid heeft;  
 
-b. haar zetel of een vestiging in Nederland heeft;  
+b. onafhankelijk is;  
 
-c. onafhankelijk is;  
+c. beschikt over de deskundigheid en outillage die nodig zijn om de uitvoering van de taken waarvoor zij aangewezen wil worden, naar behoren te kunnen vervullen;  
 
-d. beschikt over voldoende deskundigheid en outillage om de uitvoering van de taken waarvoor zij is aangewezen, naar behoren te kunnen vervullen;  
+d. beschikt over een registratiesysteem waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van de taken waarvoor zij aangewezen wil worden, naar behoren vastgelegd kunnen worden;  
 
-e. beschikt over een registratiesysteem waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens is het gecertificeerde product of kwaliteitssysteem dan wel de gecertificeerde persoon afdoende te identificeren;  
+e. verzekerd is tegen wettelijke aansprakelijkheid voor de risico’s die voortvloeien uit de uitoefening van de taken waarvoor zij aangewezen wil worden;  
 
-f. naar behoren functioneert.     
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid.   
+f. een overeenkomst heeft gesloten met de in voorkomend geval aanwezige beheerstichting, die de krachtens dit besluit geregelde certificatieschema’s voor het werkveld waarop de instelling werkzaam wil zijn als certificerende instelling, beheert; en  
+
+g. naar behoren functioneert.     
+2.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het eerste lid.   
 
 ### Artikel  1.5b  
 
-####Verstrekken gegevens
+####De aanvraag tot aanwijzing
 
-1.  De certificerende instelling stelt jaarlijks voor 1 maart een verslag op van de door haar in verband met haar taak verrichte werkzaamheden en de rechtmatigheid en doeltreffendheid van haar werkzaamheden en werkwijze in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de onderwerpen die in ieder geval in het jaarverslag worden behandeld.   
-2.  De certificerende instelling verstrekt jaarlijks aan Onze Minister een afschrift van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid tegen alle risico's die voortvloeien uit de uitoefening van de taken waarvoor zij is aangewezen.   
-3.  De certificerende instelling verstrekt aan de toezichthouder alle benodigde informatie indien zij weet of kan weten dat de veiligheid of gezondheid van werknemers of derden door werkzaamheden die door een door haar afgegeven certificaat als bedoeld in [artikel 20, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) worden gereguleerd, in gevaar wordt of kan worden gebracht.   
-4.  Onze Minister verstrekt aan de certificerende instelling alle benodigde informatie, indien de veiligheid of gezondheid van werknemers of derden door werkzaamheden die door een door de certificerende instelling afgegeven certificaat als bedoeld in [artikel 20, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) worden gereguleerd, in gevaar wordt of kan worden gebracht.   
+1.  De instelling, bedoeld in artikel 1.5a, dient de aanvraag tot aanwijzing in bij Onze Minister.   
+2.  De instelling doet de aanvraag vergezellen van een beoordeling door de Stichting Raad voor Accreditatie te Utrecht, waaruit blijkt dat zij voldoet aan de criteria, genoemd in artikel 1.5a.   
+3.  Bij ministeriële regeling kunnen, zo nodig uitgesplitst naar werkveld, nadere regels worden gesteld met betrekking tot de indiening van de aanvraag, de beoordeling en de afhandeling van de aanvraag.   
+4.  De kosten van de beoordeling zijn voor rekening van de aanvragende instelling.   
+5.  In afwijking van het tweede en derde lid geldt voor bij ministeriële regeling aan te wijzen werkvelden dat de instelling de aanvraag niet hoeft te doen vergezellen van een beoordeling door de in het tweede lid genoemde Stichting Raad voor de Accreditatie.   
+6.  In afwijking van het vierde lid geldt voor bij ministeriële regeling aan te wijzen werkvelden dat de kosten van de beoordeling niet voor rekening van de aanvragende instelling zijn.   
 
 ### Artikel  1.5c  
 
-####Wijziging, beëindiging werkzaamheden
+####De weigering, schorsing, wijziging of intrekking van een aanwijzing
 
-1.  Indien een wijziging plaatsvindt in de gegevens op grond waarvan de certificerende instelling is aangewezen, doet de instelling hiervan terstond mededeling aan Onze Minister.   
-2.  Indien een certificerende instelling voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet de instelling hiervan terstond mededeling aan Onze Minister en de certificaathouders. In dat geval worden door de certificerende instelling de gegevens, bedoeld in artikel 1.5a, eerste lid, onder e, overgedragen aan Onze Minister dan wel, na toestemming van Onze Minister en de certificaathouders, een andere certificerende instelling die voor dezelfde taken is aangewezen.   
+1.  Een aanwijzing als certificerende instelling wordt geweigerd indien: 
+
+a. de aanvragende instelling niet heeft voldaan aan het bepaalde bij of krachtens de artikelen 1.5a of 1.5b; of  
+
+b. ten hoogste twaalf maanden voorafgaand aan de datum van indiening van de aanvraag, sprake was van een weigering om de aanvragende instelling aan te wijzen als certificerende instelling dan wel van een intrekking van een aanwijzing als certificerende instelling en de weigering of intrekking is geschied op grond van aan de aanvragende instelling toe te rekenen feiten of omstandigheden.     
+2.  De aanvraag wordt in het geval, bedoeld in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
+3.  Een aanwijzing kan worden geschorst, ten nadele van de certificerende instelling worden gewijzigd of ingetrokken: 
+
+a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met beperkingen of voorschriften, bedoeld in [artikel 20, vierde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), zou hebben gegeven;  
+
+b. op grond van door de certificerende instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling bekend was of kon zijn;  
+
+c. indien de certificerende instelling niet meer voldoet aan het bepaalde bij of krachtens artikel 1.5a;  
+
+d. indien de certificerende instelling gedurende een aaneengesloten periode van twee jaren geen werkzaamheden waarvoor zij is aangewezen, heeft uitgevoerd; of  
+
+e. indien de certificerende instelling haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.     
 
 ### Artikel  1.5d  
 
-####Aanvraag om aanwijzing
+####Periodieke controle van een certificerende instelling
 
-1.  Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in artikel 1.5a, dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria te ondergaan.   
-2.  Een aanwijzing kan worden geweigerd dan wel worden ingetrokken indien niet of niet volledig is voldaan aan de bij de wet of bij of krachtens deze afdeling gestelde voorschriften.   
+1.  Tijdens de looptijd van de aanwijzing als certificerende instelling stelt Onze Minister periodiek vast of de instelling: 
 
-### §  2  
+a. nog voldoet aan het bepaalde bij of krachtens artikel 1.5a; en  
 
-####Certificaten
+b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij is aangewezen, naar behoren uitvoert.     
+2.  Ten behoeve van de periodieke vaststelling laat Onze Minister de Stichting Raad voor Accreditatie te Utrecht een beoordeling ter zake doen.   
+3.  Bij ministeriële regeling kunnen, zonodig uitgesplitst naar werkveld, nadere regels worden gesteld met betrekking tot de periodieke vaststelling en de beoordeling.   
+4.  De kosten van de beoordeling zijn voor rekening van de instelling.   
+5.  In afwijking van het tweede en derde lid geldt voor bij ministeriële regeling aan te wijzen werkvelden dat de instelling niet zelf hoeft te vragen om een beoordeling door de in het tweede lid genoemde Stichting Raad voor de Accreditatie.   
+6.  In afwijking van het vierde lid geldt voor bij ministeriële regeling aan te wijzen werkvelden dat de kosten van de beoordeling niet voor rekening van de instelling zijn.   
 
 ### Artikel  1.5e  
 
-####Algemene bepalingen inzake de afgifte van certificaten
+####Verstrekken van gegevens
 
-1.  Een certificaat als bedoeld in [artikel 20, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) wordt door Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, de certificerende instelling, op aanvraag afgegeven, indien wordt voldaan aan bij of krachtens de wet met betrekking tot het certificaat gestelde eisen.   
-2.  Bij ministeriële regeling worden regels gesteld met betrekking tot de gegevens die ten minste bij een aanvraag worden verstrekt.   
-3.  Bij ministeriële regeling worden regels gesteld met betrekking tot de vergoeding die voor de afgifte van een certificaat ten hoogste verschuldigd is.   
-4.  Een certificaat kan worden geweigerd of onder voorschriften worden afgegeven dan wel geschorst of ingetrokken, indien is gebleken dat niet of niet volledig is voldaan aan bij of krachtens de wet met betrekking tot het certificaat gestelde eisen.   
-5.  Voorts kan een certificaat worden geweigerd dan wel geschorst of ingetrokken indien de veiligheid of gezondheid van werknemers of derden door werkzaamheden die door het certificaat worden gereguleerd in gevaar wordt of kan worden gebracht.   
+1.  De certificerende instelling stelt jaarlijks voor 1 maart een verslag op van de door haar in verband met haar taak verrichte werkzaamheden, de rechtmatigheid en doeltreffendheid van haar werkzaamheden en werkwijze in het afgelopen kalenderjaar. Het verslag wordt Onze Minister toegezonden. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de onderwerpen die in het verslag worden behandeld.   
+2.  De certificerende instelling verstrekt de Stichting Raad voor Accreditatie te Utrecht desgevraagd kosteloos alle informatie die deze nodig heeft bij de uitvoering van het bepaalde bij of krachtens artikel 1.5d.   
+3.  Bij ministeriële regeling worden nadere regels gesteld betreffende het kosteloos verstrekken van gegevens en inlichtingen door een certificerende instelling aan Onze Minister of de toezichthouder respectievelijk door Onze Minister of de toezichthouder aan een certificerende instelling of de in het tweede lid genoemde Stichting Raad voor Accreditatie, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de wet, welke noodzakelijk zijn voor de uitvoering van hun wettelijke taken.   
+
+### §  2  
+
+####Algemene bepalingen inzake certificaten
 
 ### Artikel  1.5f  
 
+####Verzoek tot afgifte van een certificaat
+
+1.  Een certificaat als bedoeld in [artikel 20, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), wordt door Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, deze instelling, op verzoek afgegeven indien is voldaan aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.   
+2.  Bij ministeriële regeling kunnen, zonodig uitgesplitst naar werkveld, nadere regels worden gesteld met betrekking tot het doen van een verzoek als bedoeld in het eerste lid, en de behandeling ervan.   
+3.  De kosten van het afgeven van een certificaat zijn voor rekening van de verzoeker tot afgifte van het certificaat.   
+
+### Artikel  1.5g  
+
+####De weigering, schorsing, wijziging of intrekking van een certificaat
+
+1.  De afgifte van een certificaat wordt geweigerd indien: 
+
+a. de verzoeker niet heeft voldaan aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen; of  
+
+b. ten hoogste twaalf maanden voorafgaand aan de datum van het verzoek tot afgifte van het certificaat, sprake was van een weigering tot het afgeven van eenzelfde certificaat dan wel van een intrekking van eenzelfde certificaat en de weigering of intrekking is geschied op grond van aan de verzoeker toe te rekenen feiten of omstandigheden.     
+2.  Het verzoek wordt in het geval, bedoeld in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
+3.  Een certificaat kan worden geschorst, ten nadele van de certificaathouder worden gewijzigd of ingetrokken: 
+
+a. op grond van feiten of omstandigheden waarvan Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, deze instelling, bij de afgifte van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met beperkingen of voorschriften, bedoeld in [artikel 20, vierde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), zou hebben gegeven;  
+
+b. op grond van door de certificaathouder verstrekte onjuiste inlichtingen over feiten en omstandigheden, mits de onjuistheid daarvan aan de certificaathouder bekend was of kon zijn;  
+
+c. indien de certificaathouder niet meer voldoet aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen of zijn wettelijke verplichtingen niet meer naar behoren nakomt; of  
+
+d. indien de certificaathouder met zijn werkzaamheden, voor zover die door het certificaat worden gereguleerd, of door de wijze waarop hij de werkzaamheden verricht, ernstig gevaar veroorzaakt of kan veroorzaken voor personen.     
+
+### Artikel  1.5h  
+
 ####Buitenlandse getuigschriften en kwalificaties van vakbekwaamheid
 
-1.  Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, de certificerende instelling, verstrekt op aanvraag een certificaat van vakbekwaamheid aan een persoon die onderdaan is van een betrokken staat, bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), indien op grond van [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de houder van een krachtens dit besluit verstrekt certificaat van vakbekwaamheid.   
+1.  Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, de certificerende instelling, verstrekt op aanvraag een certificaat van vakbekwaamheid aan een persoon die onderdaan is van een betrokken staat als bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), indien op grond van [artikel 6 van die wet](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de houder van een krachtens dit besluit verstrekt certificaat van vakbekwaamheid.   
 2.  De houder van een certificaat van vakbekwaamheid, bedoeld in het eerste lid, beheerst de Nederlandse taal op een zodanig niveau dat voorschriften en aanwijzingen op bij of krachtens dit besluit vereiste etiketten van stoffen, arbeidsmiddelen en persoonlijke beschermingsmiddelen, alsmede andere voor de toepassing van en de omgang met stoffen, arbeidsmiddelen en persoonlijke beschermingsmiddelen bij of krachtens dit besluit gestelde regels, begrepen en uitgevoerd kunnen worden.   
-3.  Artikel 1.5e, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
+3.  De artikelen 1.5f en 1.5g zijn van overeenkomstige toepassing.   
+
+### Artikel  1.5i  
+
+####Periodieke controle van de certificaathouder
+
+1.  Tijdens de looptijd van het certificaat stelt Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, deze instelling, periodiek vast of de certificaathouder nog voldoet aan de bij of krachtens de wet met betrekking tot het certificaat gestelde eisen.   
+2.  Bij ministeriële regeling kunnen, zonodig uitgesplitst naar werkveld, nadere regels worden gesteld met betrekking tot de periodieke vaststelling.   
+3.  De kosten van de periodieke vaststelling zijn voor rekening van de certificaathouder.   
+4.  De certificaathouder verstrekt Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, deze instelling, desgevraagd kosteloos alle informatie die nodig is voor de uitvoering van het bepaalde bij of krachtens dit artikel.   
 
 ### Afdeling  2  
 
@@ -607,6 +669,12 @@ Indien in een bedrijf of inrichting een zwangere werknemer of een werknemer tijd
 2.  Indien nakoming van het eerste lid redelijkerwijs niet mogelijk is, wordt door een tijdelijke aanpassing van de arbeid of door een tijdelijke aanpassing van de arbeids- en rusttijden voorkomen dat gevaar voor de veiligheid en gezondheid van de zwangere werknemer en de werknemer tijdens de lactatie wordt veroorzaakt, en wordt voorkomen dat een terugslag kan worden veroorzaakt op de zwangerschap of lactatie.   
 3.  Indien nakoming van het tweede lid redelijkerwijs niet mogelijk is, wordt aan de zwangere werknemer en de werknemer tijdens de lactatie tijdelijk andere arbeid gegeven.   
 4.  Indien nakoming van het derde lid redelijkerwijs niet mogelijk is, worden de zwangere werknemer en de werknemer tijdens de lactatie tijdelijk vrijgesteld van het verrichten van arbeid.   
+
+### Artikel  1.42a  
+
+####Voorlichting
+
+De werkgever zorgt voor doeltreffende voorlichting over de risico’s van de arbeid tijdens zwangerschap en lactatie en de maatregelen die zijn genomen om de risico’s te voorkomen. De voorlichting vindt plaats binnen twee weken nadat de zwangere werknemer of werknemer tijdens de lactatie aan de werkgever heeft gemeld zwanger te zijn dan wel werkzaam te zijn tijdens de lactatie.  
 
 ### Afdeling  10  
 
@@ -1717,14 +1785,15 @@ c. leveren zij in geopende stand geen gevaar op.
 
 1.  Bij het verrichten van arbeid waarbij valgevaar bestaat is zo mogelijk een veilige steiger, stelling, bordes of werkvloer aangebracht of is het gevaar tegengegaan door het aanbrengen van doelmatige hekwerken, leuningen of andere dergelijke voorzieningen.   
 2.  Er is in elk geval sprake van valgevaar bij aanwezigheid van risicoverhogende omstandigheden, openingen in vloeren, of als het gevaar bestaat om 2,5 meter of meer te vallen.   
-3.  Het eerste lid is niet van toepassing op arbeid onder omstandigheden waarin het gebruik van ladders en trappen is toegestaan als bedoeld in artikel 7.23, tweede lid.   
-4.  Indien de in het eerste lid genoemde voorzieningen niet of slechts ten dele kunnen worden aangebracht of indien het aanbrengen of wegnemen daarvan grotere gevaren meebrengt dan de arbeid ter beveiliging waarvan zij zouden moeten dienen, zijn ter voorkoming van het gevaar voldoende sterke en voldoende grote vangnetten op doelmatige plaatsen en wijze aangebracht of worden doelmatige veiligheidsgordels met vanglijnen van voldoende sterkte gebruikt dan wel worden andere technische middelen toegepast, die ten minste een zelfde mate van beveiliging van de in het eerste lid bedoelde arbeid geven. Daarbij hebben maatregelen gericht op collectieve bescherming de voorrang boven maatregelen gericht op individuele bescherming.   
+3.  Hekwerken en leuningen worden als doelmatig aangemerkt indien zij tenminste tot 1 meter boven het werkvlak beveiliging bieden tegen vallen, dan wel voldoen aan het voor vloerafscheiding bepaalde bij of krachtens het [Bouwbesluit 2003](../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md).   
+4.  Het eerste lid is niet van toepassing op arbeid onder omstandigheden waarin het gebruik van ladders en trappen is toegestaan als bedoeld in artikel 7.23, tweede lid.   
+5.  Indien de in het eerste lid genoemde voorzieningen niet of slechts ten dele kunnen worden aangebracht of indien het aanbrengen of wegnemen daarvan grotere gevaren meebrengt dan de arbeid ter beveiliging waarvan zij zouden moeten dienen, zijn ter voorkoming van het gevaar voldoende sterke en voldoende grote vangnetten op doelmatige plaatsen en wijze aangebracht of worden doelmatige veiligheidsgordels met vanglijnen van voldoende sterkte gebruikt dan wel worden andere technische middelen toegepast, die ten minste een zelfde mate van beveiliging van de in het eerste lid bedoelde arbeid geven. Daarbij hebben maatregelen gericht op collectieve bescherming de voorrang boven maatregelen gericht op individuele bescherming.   
 
 ### Artikel  3.17  
 
 ####Voorkomen gevaar door voorwerpen, producten, vloeistoffen of gassen
 
-Het gevaar te worden getroffen of geraakt door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of het gevaar bekneld te raken tussen voorwerpen, producten of onderdelen daarvan, wordt voorkomen en indien dat niet mogelijk is zoveel mogelijk beperkt. Artikel 3.16, vierde lid, laatste volzin, is van toepassing.  
+Het gevaar te worden getroffen of geraakt door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of het gevaar bekneld te raken tussen voorwerpen, producten of onderdelen daarvan, wordt voorkomen en indien dat niet mogelijk is zoveel mogelijk beperkt. Artikel 3.16, vijfde lid, laatste volzin, is van toepassing.  
 
 ### Artikel  3.18  
 
@@ -2251,19 +2320,41 @@ d. het aantal werknemers, dat wordt of kan worden blootgesteld te minimaliseren;
 
 e. de mate en duur van de blootstelling te minimaliseren;  
 
-f. de grootst mogelijke zorgvuldigheid, ordelijkheid en zindelijkheid in acht te nemen;  
+f. huidcontact te voorkomen of te minimaliseren door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een enkelvoudige of samengestelde stof: 
 
-g. de hoeveelheid gevaarlijke stoffen op de werkplek zoveel mogelijk te beperken;  
+1°. die voldoet aan de criteria voor classificatie met een effect op de huid of ogen, inclusief de classificatie kankerverwekkend voor de huid, volgens Richtlijn 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG 1967, 196) of Richtlijn 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200);  
 
-h. passende werkmethoden in te voeren, met inbegrip van regelingen voor de veilige behandeling, opslag en vervoer op de werkplek van gevaarlijke stoffen en van afvalstoffen die gevaarlijke stoffen bevatten;  
+2°. als bedoeld in artikel 4.3, eerste lid, of artikel 4.16, eerste lid, en waarbij is aangegeven dat die door de huid kan worden opgenomen;    
 
-i. op de verpakking van een gevaarlijke stof opvallend en goed leesbaar de naam van de stof en een aanduiding van de aard van het gevaar of de gevaren, verbonden aan die stof te vermelden;  
+g. de grootst mogelijke zorgvuldigheid, ordelijkheid en zindelijkheid in acht te nemen;  
+
+h. de hoeveelheid gevaarlijke stoffen op de werkplek zoveel mogelijk te beperken;  
+
+i. passende werkmethoden in te voeren, met inbegrip van regelingen voor de veilige behandeling, opslag en vervoer op de werkplek van gevaarlijke stoffen en van afvalstoffen die gevaarlijke stoffen bevatten;  
 
 j. arbeid slechts te laten verrichten door personen die in een zodanige lichamelijke en geestelijke toestand verkeren en op het gebied van die arbeid over een zodanige basiskennis beschikken, dat zij voldoende in staat zijn de daaraan verbonden gevaren te onderkennen en te voorkomen;  
 
 k. te zorgen dat op plaatsen waar gevaarlijke stoffen aanwezig zijn, niet wordt gerookt, gegeten, gedronken, geslapen of voedsel wordt bewaard.     
 2.  De maatregelen, bedoeld in het eerste lid, zijn in overeenstemming met de stand van de wetenschap en techniek.   
-3.  Het eerste lid, onderdeel i, is niet van toepassing voor zover de [Wet vervoer gevaarlijke stoffen](../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) of de [Wet gewasbeschermingsmiddelen en biociden](../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) van toepassing is.   
+
+### Artikel  4.1d  
+
+####Beperking van blootstelling; werkpleketikettering
+
+1.  In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in het kader van [artikel 3 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) de blootstelling van werknemers aan gevaarlijke stoffen voorkomen of geminimaliseerd door op de verpakking van de gevaarlijke stof opvallend en goed leesbaar te vermelden: 
+
+a. de officiële naam van de gevaarlijke stof en de relevante gevaarlijke bestanddelen; en  
+
+b. de gevaarsymbolen, gevaarbenamingen en de waarschuwingszinnen.     
+2.  In afwijking van het eerste lid hoeven op laboratoriumhulpmiddelen die voor steeds wisselende chemicaliën worden gebruikt, niet steeds alle verplichte aanduidingen te zijn aangebracht. Worden deze hulpmiddelen alleen gebruikt voor kortdurende handelingen dan zijn geen aanduidingen verplicht. Worden deze hulpmiddelen gebruikt voor andere dan kortdurende handelingen dan zijn op deze hulpmiddelen opvallend en goed leesbaar vermeld: 
+
+a. voor een enkelvoudige stof: de officiële naam van de gevaarlijke stof; en  
+
+b. voor een meervoudige stof: de officiële naam of namen van de relevante gevaarlijke bestanddelen.     
+3.  In het geval van opslag van gevaarlijke stoffen in grotere hoeveelheden in speciale opslagruimten wordt aan het eerste lid voldaan als de verplichte aanduidingen voor meerdere identieke verpakkingen door middel van één etiketafdruk opvallend en goed leesbaar zijn aangebracht. De aanduidingen zijn zodanig aangebracht dat voor elke afzonderlijk opgeslagen verpakking te allen tijde ter plekke duidelijk is dat de aanduidingen van toepassing zijn. Als gevaarlijke stoffen uitsluitend voor de handel zijn opgeslagen, kan worden volstaan met het aanbrengen van de bij aflevering in Nederland wettelijk verplichte aanduidingen.   
+4.  In geval van vervoer en laden en lossen van gevaarlijke stoffen wordt aan het eerste lid voldaan als de vervoerders en de laders en lossers tijdens hun werkzaamheden ter plekke beschikken over de gegevens die op grond van het bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) bepaalde op het etiket zouden moeten worden vermeld.   
+5.  Het eerste en tweede lid zijn niet van toepassing voor zover de [Wet vervoer gevaarlijke stoffen](../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) of de [Wet gewasbeschermingsmiddelen en biociden](../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) van toepassing zijn.   
+6.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het eerste, tweede of derde lid.   
 
 ### Artikel  4.2  
 
@@ -2600,9 +2691,9 @@ Zodanige technische en organisatorische maatregelen zijn genomen dat de kans op 
 
 ####Beperken van blootstelling
 
-In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of stoffen die vrijkomen bij kankerverwekkende processen, worden in aanvulling op artikel 4.1c en artikel 4.18 de volgende maatregelen genomen om blootstelling van werknemers te voorkomen of te beperken tot een zo laag mogelijk niveau onder de grenswaarde: 
+In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of stoffen die vrijkomen bij kankerverwekkende processen, worden in aanvulling op de artikelen 4.1c, 4.1d en 4.18 de volgende maatregelen genomen om blootstelling van werknemers te voorkomen of te beperken tot een zo laag mogelijk niveau onder de grenswaarde: 
 
-a. de werknemers zijn voldoende vertrouwd met de aard van hun werkzaamheden en hebben voldoende kennis van de gevaren die aan de blootstelling zijn verbonden en van de voorzieningen die getroffen zijn of door hen moeten worden getroffen om die gevaren te voorkomen of te beperken;  
+a. de werknemers zijn voldoende vertrouwd met de aard van hun werkzaamheden en hebben voldoende kennis van de gevaren die aan de blootstelling zijn verbonden en van de voorzieningen die getroffen zijn of door hen moeten worden getroffen om die gevaren te voorkomen of te beperken, volgens voorlichting of instructie die tenminste één keer per jaar plaatsvindt;  
 
 b. voorkomen wordt dat gevarenzones worden betreden door anderen dan de werknemers of andere personen die de zones in verband met hun arbeid moeten betreden;  
 
@@ -2816,7 +2907,7 @@ De concentratie van asbeststof in de lucht overschrijdt niet de grenswaarde van 
 
 ####Melding
 
-1.  Voor aanvang van de werkzaamheden wordt tijdig door de werkgever schriftelijk een melding gedaan aan een daartoe aangewezen toezichthouder. Deze melding bevat tenminste een beknopte beschrijving van: 
+1.  Uiterlijk twee dagen voor aanvang van de werkzaamheden wordt door de werkgever elektronisch melding gedaan aan een daartoe aangewezen toezichthouder. Deze melding bevat tenminste een beknopte beschrijving van: 
 
 a. de plaats waar de werkzaamheden worden verricht;  
 
@@ -3345,7 +3436,11 @@ b. de aan de aard van het werk verbonden gevaren.
 
 a. het opstellen en bekend maken van ontsmettings- en desinfectieprocedures aan de betrokken werknemers;  
 
-b. het opstellen en bekend maken van procedures voor een veilige omgang met en verwijdering van met biologische agentia besmet afvalmateriaal.     
+b. het opstellen en bekend maken van procedures voor een veilige omgang met en verwijdering van met biologische agentia besmet afvalmateriaal;  
+
+c. het ter beschikking stellen van een medisch hulpmiddel met ingebouwd veiligheids- en beschermingsmechanisme, indien er gevaar is voor letsel of infectie door een scherp medisch hulpmiddel;  
+
+d. het verbod op het terugzetten van doppen op injectienaalden.     
 
 ### Artikel  4.98  
 
@@ -3460,9 +3555,10 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk gelden voor zwanger
 
 ### Artikel  4.108  
 
-####Arbeidsverboden lood en loodverbindingen
+####Blootstelling aan gevaarlijke stoffen
 
-Het is een zwangere werknemer en een werknemer tijdens de lactatie verboden arbeid te verrichten waarbij zij kunnen worden blootgesteld aan metallisch lood en zijn verbindingen.  
+1.  Het is een zwangere werknemer en een werknemer tijdens de lactatie verboden arbeid te verrichten waarbij zij kunnen worden blootgesteld aan metallisch lood en zijn verbindingen.   
+2.  Het is een zwangere werknemer en een werknemer tijdens de lactatie verboden arbeid te verrichten waarbij zij kunnen worden blootgesteld aan gevaarlijke stoffen die de gezondheid van het ongeboren kind of de zuigeling schade kunnen toebrengen via een genotoxisch werkingsmechanisme en die via de moeder het ongeboren kind of de zuigeling kunnen bereiken.   
 
 ### Artikel  4.109  
 
@@ -3501,7 +3597,12 @@ Met betrekking tot de in artikel 4.110, onder a, genoemde stoffen, met uitzonder
 
 ####Maatregelen
 
-Doeltreffende maatregelen zijn genomen om te voorkomen dat thuiswerkers bij hun arbeid kunnen worden blootgesteld aan stoffen in zodanige mate, dat schade kan worden toegebracht aan hun gezondheid.  
+1.  Doeltreffende maatregelen zijn genomen om te voorkomen dat thuiswerkers bij hun arbeid kunnen worden blootgesteld aan stoffen in zodanige mate, dat schade kan worden toegebracht aan hun gezondheid.   
+2.  Huidcontact is voorkomen of geminimaliseerd door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een enkelvoudige of samengestelde stof: 
+
+a. die voldoet aan de criteria voor classificatie met een effect op de huid of de ogen, inclusief de classificatie kankerverwekkend voor de huid, volgens Richtlijn 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG 1967, 196) of Richtlijn 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200);  
+
+b. als bedoeld in artikel 4.3, eerste of tweede lid, of 4.16, eerste of tweede lid, en waarbij is aangegeven dat die door de huid kan worden opgenomen.     
 
 ### Artikel  4.114  
 
@@ -3660,6 +3761,24 @@ a. bestuurdersplaatsen op een voertuig op een openbare weg of spoorweg;
 b. computersystemen in een luchtvaartuig, een zeeschip of een binnenvaartuig dan wel een voertuig op een openbare weg of spoorweg.    
 
 ### §  2  
+
+####Zwangere werknemers en werknemers tijdens de lactatie
+
+### Artikel  5.13a  
+
+####Fysieke belasting
+
+Het is een zwangere werknemer en een werknemer tijdens de lactatie verboden om: 
+
+a. dagelijks meer dan eenmaal per uur te hurken, knielen, bukken of staande voetpedalen te bedienen tijdens de laatste drie maanden van de zwangerschap;  
+
+b. meer te tillen dan 10 kilogram in één handeling gedurende de hele zwangerschap en in de periode tot drie maanden na de bevalling;  
+
+c. meer dan 10 keer per dag gewichten van meer dan 5 kilogram te tillen vanaf de twintigste week van de zwangerschap; of  
+
+d. meer dan 5 keer per dag gewichten van meer dan 5 kilogram te tillen vanaf de dertigste week van de zwangerschap.    
+
+### §  3  
 
 ####Thuiswerkers
 
@@ -4443,6 +4562,22 @@ Het is een zwangere werknemer verboden duikarbeid, caissonarbeid en overige arbe
 ####Werken in ondergrondse winningsindustrie
 
 Het is een zwangere werknemer en een werknemer tijdens de lactatie verboden arbeid te verrichten in de ondergrondse winningsindustrie.  
+
+### Artikel  6.29b  
+
+####Schadelijke trillingen
+
+Het is een zwangere werknemer verboden om op de arbeidsplaats: 
+
+a. te worden blootgesteld aan lichaamstrillingen of schokken met een versnelling van meer dan 0.25 m/s <sup>2</sup>; of  
+
+b. in direct contact te komen met een ultrasonore trillingsbron met een frequentie boven de 20 kHz waarbij de blootstelling hoger is dan 110 dB per tertsband.    
+
+### Artikel  6.29c  
+
+####Schadelijk geluid
+
+Het is een zwangere werknemer verboden om op de arbeidsplaats te worden blootgesteld aan equivalente geluidsniveaus boven de 80 dB(A) en piekgeluiden boven de 112 Pa.  
 
 ### §  5  
 
@@ -5282,7 +5417,7 @@ a. van hoofdstuk 2: artikel 2.42g;
 
 b. van hoofdstuk 3: de artikelen 3.5, 3.5g, eerste lid, en 3.5h, tweede, vierde en vijfde lid;  
 
-c. van hoofdstuk 4: de artikelen 4.1c, eerste lid, onder f, j en k, 4.7, derde lid, onder c en d, 4.8, tweede, derde en vierde lid, 4.9, tweede en derde lid, 4.19, onder a, 4.45, eerste lid, 4.47a, derde lid, 4.48a, eerste en vierde lid, 4.50, vijfde en zesde lid, 4.51, 4.54d, vierde, zesde en achtste lid, voorzover het de certificaten uit het vierde en zesde lid betreft, 4.58, eerste lid, 4.59, eerste lid, 4.60, eerste lid, 4.61, tweede tot en met vijfde lid, 4.61a, eerste lid, 4.61b, eerste lid, 4.86, derde lid, 4.87a, derde lid, onder d, 4.89, eerste en vierde lid, 4.108 en 4.109, alsmede ten aanzien van arbeid met asbest of asbesthoudende producten, als bedoeld in artikel 4.37, de artikelen 4.19, aanhef en onder a, en 4.20, derde lid;  
+c. van hoofdstuk 4: de artikelen 4.1c, eerste lid, onder g, j en k, 4.7, derde lid, onder c en d, 4.8, tweede, derde en vierde lid, 4.9, tweede en derde lid, 4.19, onder a, 4.45, eerste lid, 4.47a, derde lid, 4.48a, eerste en vierde lid, 4.50, vijfde en zesde lid, 4.51, 4.54d, vierde, zesde en achtste lid, voorzover het de certificaten uit het vierde en zesde lid betreft, 4.58, eerste lid, 4.59, eerste lid, 4.60, eerste lid, 4.61, tweede tot en met vijfde lid, 4.61a, eerste lid, 4.61b, eerste lid, 4.86, derde lid, 4.87a, derde lid, onder d, 4.89, eerste en vierde lid, 4.97, tweede lid, onder d, 4.108 en 4.109, alsmede ten aanzien van arbeid met asbest of asbesthoudende producten, als bedoeld in artikel 4.37, de artikelen 4.19, aanhef en onder a, en 4.20, derde lid;  
 
 d. van hoofdstuk 6: de artikelen 6.14, 6.14a, vijfde lid, 6.15, eerste lid, onder c, 6.16, eerste tot en met derde lid en vijfde tot en met achtste lid, 6.18, vierde lid, 6.19, eerste lid, 6.20, vierde lid, en 6.29;  
 
@@ -5309,7 +5444,7 @@ a. van hoofdstuk 1: artikel 1.42;
 
 b. van hoofdstuk 3: de artikelen 3.2, eerste lid, 3.3, 3.4, 3.5, 3.5d, eerste en tweede lid, 3.5e, 3.5g, 3.5h, 3.6, eerste lid, 3.7, eerste lid, 3.16, 3.17, 3.28, eerste lid, 3.29, tweede en vijfde lid, 3.30, 3.31, tweede lid, en 3.34, eerste lid;  
 
-c. van hoofdstuk 4: de artikelen 4.1c, 4.3, tweede, derde en vierde lid, 4.5, 4.8, 4.9, 4.10, tweede en derde lid, 4.16, tweede, derde en vierde lid, 4.17, 4.19, 4.45, 4.46, 4.47b, 4.47c, eerste lid, onderdelen a en e, 4.48a, tweede lid, onderdelen b en c, en vierde lid, 4.51a, eerste en derde tot en met vijfde lid, 4.54, 4.54a, met inachtneming van artikel 4.54b, 4.54d, 4.58, 4.59, 4.60, 4.61, 4.61a, 4.61b, 4.62b, 4.87, 4.87a, 4.87b, 4.89, 4.94, 4.95, 4.108, 4.109, en 9.15, onder a, sub 1° tot met 4°, en onder b;  
+c. van hoofdstuk 4: de artikelen 4.1c, 4.1d, 4.3, tweede, derde en vierde lid, 4.5, 4.8, 4.9, 4.10, tweede en derde lid, 4.16, tweede, derde en vierde lid, 4.17, 4.19, 4.45, 4.46, 4.47b, 4.47c, eerste lid, onderdelen a en e, 4.48a, tweede lid, onderdelen b en c, en vierde lid, 4.51a, eerste en derde tot en met vijfde lid, 4.54, 4.54a, met inachtneming van artikel 4.54b, 4.54d, 4.58, 4.59, 4.60, 4.61, 4.61a, 4.61b, 4.62b, 4.87, 4.87a, 4.87b, 4.89, 4.94, 4.95, 4.108, 4.109, en 9.15, onder a, sub 1° tot met 4°, en onder b;  
 
 d. van hoofdstuk 6: de artikelen 6.8, negende lid, 6.14a, 6.15a, 6.16, 6.17, 6.18, 6.19, eerste lid, 6.20, 6.29 en 6.29a;  
 
@@ -5348,7 +5483,7 @@ b. van hoofdstuk 3: de artikelen 3.2, eerste lid, 3.3, 3.4, 3.5, 3.5d, eerste li
 
 c. van hoofdstuk 4: de artikelen 4.1b tot en met 4.10d, 4.13 tot en met 4.21, 4.23, 4.44 tot en met 4.54d, 4.58 tot en met 4.61, 4.61a, 4.61b, 4.62b, 4.84 tot en met 4.102, 4.108 en 4.109;  
 
-d. van hoofdstuk 5: de artikelen 5.2 en 5.3, aanhef en onder a;  
+d. van hoofdstuk 5: de artikelen 5.2, 5.3, aanhef en onder a, en 5.13a;  
 
 e. van hoofdstuk 6: de artikelen 6.8, eerste tot en met derde, zevende, negende, tiende en elfde lid, 6.11c, tweede lid, 6.12, eerste en tweede lid, 6.12e, eerste, tweede en vierde lid, 6.13, 6.14, 6.14a, 6.14b, 6.15, 6.15a, 6.16, 6.17, 6.18, 6.19 en 6.20;  
 
@@ -5356,7 +5491,7 @@ f. van hoofdstuk 7: de artikelen 7.3, tweede tot en met vierde lid, 7.4, 7.5, tw
 
 g. van hoofdstuk 8: de artikelen 8.1, tweede, zevende en achtste lid, en 8.4.     
 2.  De persoon, bedoeld in het eerste lid, is ten aanzien van vrijwilligers die jonger zijn dan 18 jaar tevens verplicht tot naleving ten aanzien van die vrijwilligers van de voorschriften en verboden die zijn opgenomen in de artikelen 1.37, eerste lid, eerste zin, en tweede lid, 3.46, 6.27 en 7.39.   
-3.  De persoon, bedoeld in het eerste lid, is ten aanzien van zwangere vrijwilligers en vrijwilligers tijdens de lactatie tevens verplicht tot naleving ten aanzien van die vrijwilligers van de voorschriften en verboden die zijn opgenomen in de artikelen 1.42, 3.48, 6.29 en 6.29a.   
+3.  De persoon, bedoeld in het eerste lid, is ten aanzien van zwangere vrijwilligers en vrijwilligers tijdens de lactatie tevens verplicht tot naleving ten aanzien van die vrijwilligers van de voorschriften en verboden die zijn opgenomen in de artikelen 1.42, 1.42a, 3.48, 6.29, 6.29a, 6.29b en 6.29c.   
 
 ### Artikel  9.5b  
 
@@ -5409,9 +5544,11 @@ b. van hoofdstuk 3: 3.5g, eerste en tweede lid, en 3.37v, eerste, tweede en derd
 
 c. van hoofdstuk 4: de artikelen 4.5, tweede en derde lid, 4.58, 4.59, eerste en tweede lid, 4.60, eerste en derde lid, 4.61, tweede lid, 4.61a, eerste en derde lid, 4.61b, eerste lid, 4.105, 4.108, 4.109 en 4.110;  
 
-d. van hoofdstuk 6: de artikelen 6.27, 6.29 en 6.29a;  
+d. van hoofdstuk 5: artikel 5.13a;  
 
-e. de artikelen van de op grond van de [wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en dit besluit vastgestelde ministeriële regeling, voor zover en op de wijze als bij die regeling is bepaald.     
+e. van hoofdstuk 6: de artikelen 6.27, 6.29, 6.29a, 6.29b en 6.29c;  
+
+f. de artikelen van de op grond van de [wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en dit besluit vastgestelde ministeriële regeling, voor zover en op de wijze als bij die regeling is bepaald.     
 2.  Voor zover van de artikelen, bedoeld in het eerste lid, ontheffing onder voorschriften is verleend, wordt de handeling of het nalaten in strijd met die voorschriften mede aangemerkt als een strafbaar feit.   
 
 ### §  2  
@@ -5424,13 +5561,13 @@ e. de artikelen van de op grond van de [wet](../../../wet/arbeidsomstandighedenw
 
 1.  Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd van de eerste categorie, wordt aangemerkt de handeling of het nalaten in strijd met de voorschriften welke zijn opgenomen in de volgende artikelen: 
 
-a. van hoofdstuk 1: de artikelen 1.36, 1.37, eerste lid, 1.38, 1.41, 1.42 en 1.44 tot en met 1.46;  
+a. van hoofdstuk 1: de artikelen 1.36, 1.37, eerste lid, 1.38, 1.41, 1.42, 1.42a en 1.44 tot en met 1.46;  
 
 b. van hoofdstuk 2: de artikelen 2.13, 2.14a, eerste en tweede lid, 2.15, 2.26 tot en met 2.29, 2.32 tot en met 2.35, 2.41, 2.42, tweede tot en met vierde lid, 2.42a, eerste en tweede lid, 2.42b, 2.42c, eerste en tweede lid, 2.42g, 2.42h en 2.43, tweede lid;  
 
 c. van hoofdstuk 3: de artikelen 3.2, 3.4, derde lid, 3.5, eerste en tweede lid, 3.5b, tweede lid, 3.5c, 3.5d, vierde, vijfde en zesde lid, 3.5e, onder c, d, f, g en i, 3.5f, onder a tot en met e, 3.5h, tweede, vierde en vijfde lid, 3.7, derde tot en met zesde lid, 3.8, 3.9, 3.11 tot en met 3.15, 3.18, tweede lid, 3.19 tot en met 3.25, 3.27, 3.28, tweede lid, 3.29, eerste en vierde lid, 3.31, eerste lid, 3.33, 3.34, 3.35, derde lid, 3.37, 3.37b, 3.37f, eerste lid, 3.37i, 3.37s, eerste, vijfde en zesde lid, 3.37w, eerste lid, derde en vierde lid, en 3.48;  
 
-d. van hoofdstuk 4: de artikelen 4.1b, 4.1c, eerste lid, onder i, 4.2, eerste tot en met achtste lid, 4.2a, 4.4, zesde lid, 4.7, eerste en derde lid, onder b, d, e en f, vierde en vijfde lid, 4.8, eerste tot en met vierde lid, 4.9, tweede en derde lid, 4.10, tweede en derde lid, 4.10a, eerste, tweede, vierde en vijfde lid, 4.10b, eerste en tweede lid, 4.10c, vierde en vijfde, 4.10d, 4.13, 4.15, 4.18, vierde lid, 4.19, onderdelen a, b en c, 4.20, 4.23, tweede lid, 4.45a, 4.45b, 4.47, eerste, tweede en vijfde tot en met achtste lid, 4.47a, vierde tot en met zesde en achtste lid, 4.47c, eerste en tweede lid, 4.48a, tweede lid, 4.50, eerste tot en met vierde en zesde lid, 4.51, 4.51a, derde lid, 4.52, eerste en vierde lid, 4.53, eerste tot en met derde lid, 4.54a, 4.54d, eerste en derde tot en met negende lid, 4.85, 4.86, derde lid, 4.88 tot en met 4.90, 4.91, eerste tot en met derde lid, zesde en tiende lid, 4.94, eerste, derde en vijfde lid, 4.95 tot en met 4.97, 4.102, 4.111, 4.112, tweede lid, 4.114 en 4.116;  
+d. van hoofdstuk 4: de artikelen 4.1b, 4.1d, 4.2, eerste tot en met achtste lid, 4.2a, 4.4, zesde lid, 4.7, eerste en derde lid, onder b, d, e en f, vierde en vijfde lid, 4.8, eerste tot en met vierde lid, 4.9, tweede en derde lid, 4.10, tweede en derde lid, 4.10a, eerste, tweede, vierde en vijfde lid, 4.10b, eerste en tweede lid, 4.10c, vierde en vijfde, 4.10d, 4.13, 4.15, 4.18, vierde lid, 4.19, onderdelen a, b en c, 4.20, 4.23, tweede lid, 4.45a, 4.45b, 4.47, eerste, tweede en vijfde tot en met achtste lid, 4.47a, vierde tot en met zesde en achtste lid, 4.47c, eerste en tweede lid, 4.48a, tweede lid, 4.50, eerste tot en met vierde en zesde lid, 4.51, 4.51a, derde lid, 4.52, eerste en vierde lid, 4.53, eerste tot en met derde lid, 4.54a, 4.54d, eerste en derde tot en met negende lid, 4.85, 4.86, derde lid, 4.88 tot en met 4.90, 4.91, eerste tot en met derde lid, zesde en tiende lid, 4.94, eerste, derde en vijfde lid, 4.95 tot en met 4.97, 4.102, 4.111, 4.112, tweede lid, 4.114 en 4.116;  
 
 e. van hoofdstuk 5: de artikelen 5.3, aanhef en onderdeel b, 5.4, 5.5, 5.9, 5.10 en 5.11;  
 
@@ -5455,9 +5592,9 @@ a. van hoofdstuk 1: artikel 1.37, tweede lid;
 
 b. van hoofdstuk 2: artikel 2.42, zesde lid en 2.42f, tweede lid;  
 
-c. van hoofdstuk 3: de artikelen 3.1b, 3.3, 3.4, eerste en tweede lid, 3.5, derde, vierde en zevende lid, 3.5d, eerste, tweede en derde lid, 3.5e, onder a, b, e en h, 3.5f, onder f, 3.5g, vierde lid, 3.5h, derde lid, 3.6, 3.7, eerste en tweede lid, 3.10, 3.16, eerste en vierde lid, 3.17, 3.18, eerste lid, 3.28, eerste lid, 3.29, tweede, derde en vijfde lid, 3.30, 3.31, tweede lid, 3.35, eerste en tweede lid, 3.37c, 3.37d, 3.37e, 3.37f, tweede lid, 3.37g, 3.37h, 3.37k, 3.37m, 3.37n, 3.37p, 3.37q, eerste en derde lid, 3.37r, 3.37s, tweede tot en met vierde lid, 3.37t, 3.37u, 3.37w, tweede lid, en 3.37y en 3.46;  
+c. van hoofdstuk 3: de artikelen 3.1b, 3.3, 3.4, eerste en tweede lid, 3.5, derde, vierde en zevende lid, 3.5d, eerste, tweede en derde lid, 3.5e, onder a, b, e en h, 3.5f, onder f, 3.5g, vierde lid, 3.5h, derde lid, 3.6, 3.7, eerste en tweede lid, 3.10, 3.16, eerste en vijfde lid, 3.17, 3.18, eerste lid, 3.28, eerste lid, 3.29, tweede, derde en vijfde lid, 3.30, 3.31, tweede lid, 3.35, eerste en tweede lid, 3.37c, 3.37d, 3.37e, 3.37f, tweede lid, 3.37g, 3.37h, 3.37k, 3.37m, 3.37n, 3.37p, 3.37q, eerste en derde lid, 3.37r, 3.37s, tweede tot en met vierde lid, 3.37t, 3.37u, 3.37w, tweede lid, en 3.37y en 3.46;  
 
-d. van hoofdstuk 4: de artikelen 4.1c, eerste lid, onder a tot en met h en j en k, en tweede lid, 4.3 tweede, derde en vierde lid, 4.4 eerste tot en met vijfde lid, 4.5, eerste lid, 4.6, eerste en tweede lid, 4.7, tweede en derde lid, onder a en c,4.9, eerste lid, 4.16, tweede, derde en vierde lid, 4.17, 4.18, eerste tot en met derde lid, 4.19, onderdelen d en e, 4.45, eerste lid, 4.46, 4.47a, eerste en derde lid, 4.47b, 4.48a, eerste en vierde lid, 4.50, vijfde lid, 4.51a, eerste, tweede en vierde lid, 4.52, derde lid, 4.54, 4.61, derde tot en met vijfde lid, 4.62b, 4.87, 4.87a, eerste tot en met derde lid, 4.87b, 4.91, vijfde lid, 4.98, 4.99, 4.100, eerste lid, 4.101, 4.106, 4.113 en 4.115;  
+d. van hoofdstuk 4: de artikelen 4.1c, 4.3 tweede, derde en vierde lid, 4.4 eerste tot en met vijfde lid, 4.5, eerste lid, 4.6, eerste en tweede lid, 4.7, tweede en derde lid, onder a en c,4.9, eerste lid, 4.16, tweede, derde en vierde lid, 4.17, 4.18, eerste tot en met derde lid, 4.19, onderdelen d en e, 4.45, eerste lid, 4.46, 4.47a, eerste en derde lid, 4.47b, 4.48a, eerste en vierde lid, 4.50, vijfde lid, 4.51a, eerste, tweede en vierde lid, 4.52, derde lid, 4.54, 4.61, derde tot en met vijfde lid, 4.62b, 4.87, 4.87a, eerste tot en met derde lid, 4.87b, 4.91, vijfde lid, 4.98, 4.99, 4.100, eerste lid, 4.101, 4.106, 4.113 en 4.115;  
 
 e. van hoofdstuk 5: de artikelen 5.2 en 5.3, aanhef en onderdeel a;  
 
@@ -5478,7 +5615,7 @@ h. de artikelen van de op grond van de [wet](../../../wet/arbeidsomstandighedenw
 
 ### Artikel  9.10  
 
-Als bepalingen terzake van de naleving waarvan bestuursdwang kan worden toegepast worden aangewezen de artikelen 2.5b, 2.5h, 3.5c, 4.1c, 4.2, 4.4, 4.13, 4.17, 4.18, 4.19, 4.45, 4.50, 4.54, 4.62b, 4.85, 4.87, 4.87a, 4.87b, 4.111, 4.113, 5.3, onderdeel b, 6.7, 6.11b, 6.12d, eerste tot en met zesde lid, negende en tiende lid,en 9.5b.  
+Als bepalingen terzake van de naleving waarvan bestuursdwang kan worden toegepast worden aangewezen de artikelen 2.5b, 2.5h, 3.5c, 4.1c, 4.1d, 4.2, 4.4, 4.13, 4.17, 4.18, 4.19, 4.45, 4.50, 4.54, 4.62b, 4.85, 4.87, 4.87a, 4.87b, 4.111, 4.113, 5.3, onderdeel b, 6.7, 6.11b, 6.12d, eerste tot en met zesde lid, negende en tiende lid,en 9.5b.  
 
 ### §  2  
 
@@ -5702,9 +5839,20 @@ Artikel 3.5e, onder e, is niet van toepassing op arbeidsmiddelen voor gebruik op
 
 ### Artikel  9.37b  
 
-####Certificatie
+####Certificaat
 
-Artikel 4.54d, zevende lid, is tot 1 januari 2008 niet van toepassing.  
+Een certificaat afgegeven op grond van de wet, en geldend op de dag voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van inwerkingtreding van evengenoemd besluit, onverminderd het bepaalde bij of krachtens de artikelen 1.5g en 1.5i.  
+
+### Artikel  9.37c  
+
+####Aanwijzing certificerende instelling op verzoek
+
+1.  Een aanwijzing als certificerende instelling op verzoek, afgegeven op grond van de wet, en geldend op de dag, voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van inwerkingtreding van evengenoemd besluit.   
+2.  Onverminderd het derde en zesde lid, vervalt de aanwijzing, bedoeld in het eerste lid, van rechtswege vierentwintig maanden na de datum van inwerkingtreding van de voor het werkveld waarop de betrokken instelling werkzaam is, geldende ministeriële regeling, bedoeld in artikel 1.5a, tweede lid.   
+3.  De aanwijzing, bedoeld in het eerste lid, met een vervaldatum, gelegen voor de in het tweede lid bedoelde vervaldatum, vervalt van rechtswege op de oorspronkelijke vervaldatum, tenzij de betrokken instelling binnen vijf maanden na de datum van inwerkingtreding van de voor het werkveld waarop de instelling werkzaam is, geldende ministeriële regeling, bedoeld in artikel 1.5a, tweede lid, en voorafgaand aan de oorspronkelijke vervaldatum een verzoek tot beoordeling ten behoeve van een hernieuwde aanwijzing heeft ingediend bij de Stichting Raad voor Accreditatie te Utrecht. Alsdan blijft de aanwijzing van kracht tot uiterlijk de in het tweede lid bedoelde vervaldatum van rechtswege.   
+4.  De instelling waarvan de aanwijzing op grond van het tweede of derde lid vervalt, kan Onze Minister vragen om hernieuwde aanwijzing met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die zijn komen te luiden met ingang van de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395.   
+5.  In afwijking van artikel 1.5b, vierde lid, zijn de aan de beoordeling door de in het derde lid genoemde Stichting Raad voor Accreditatie verbonden kosten voor rekening van Onze Minister, indien de instelling, bedoeld in het eerste lid, een verzoek tot beoordeling ten behoeve van een hernieuwde aanwijzing heeft ingediend bij voornoemde Stichting Raad voor Accreditatie binnen vijf maanden na de datum van inwerkingtreding van de voor het werkveld, waarop de instelling werkzaam is, geldende ministeriële regeling, bedoeld in artikel 1.5a, tweede lid.   
+6.  Indien Onze Minister op een aanvraag tot hernieuwde aanwijzing beslist op een tijdstip, gelegen voor de in het tweede lid bedoelde vervaldatum van rechtswege, vervalt de oorspronkelijke aanwijzing met ingang van de datum van inwerkingtreding van de hernieuwde aanwijzing.   
 
 ### §  4  
 

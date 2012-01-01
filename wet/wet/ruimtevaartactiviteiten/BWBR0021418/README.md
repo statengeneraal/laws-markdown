@@ -93,7 +93,8 @@ b. het verkregen hebben van toestemming voor het gebruik van frequentieruimte.
 
 ### Artikel  5  
 
-Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de ontvangst daarvan.  
+1.  Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de ontvangst daarvan.   
+2.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag om een vergunning.   
 
 ### Artikel  6  
 

@@ -28,25 +28,23 @@ b. *IOAW:*[Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte wer
 
 c. *IOAZ:*[Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
 
-d. *WWIK:*[Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md);  
+d. *Bbz 2004:*[Besluit bijstandverlening zelfstandigen 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md);  
 
-e. *Bbz 2004:*[Besluit bijstandverlening zelfstandigen 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md);  
+e. *WIJ:*[Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
 
-f. *WIJ:*[Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+f. *uitkering:* de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), inclusief een uitkering voor de kosten van de door het college toegekende algemene bijstand aan zelfstandigen als bedoeld in [artikel 2, eerste lid, onderdeel b, van het Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md);  
 
-g. *uitkering:* de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), inclusief een uitkering voor uitgaven in verband met toegekende algemene bijstand aan zelfstandigen als bedoeld in [artikel 2, eerste lid, onderdeel b, van het Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md);  
+g. *gemeentelijke lasten op grond van de WWB:* de lasten in het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), in verband met de door het college toegekende algemene bijstand op grond van de wet, vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
 
-h. *gemeentelijke bijstandslasten:* de volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), in het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld door het college gedane uitgaven voor algemene bijstand, vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
+h. *gemeentelijke lasten op grond van de WIJ:* de lasten in het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), in verband met de door het college toegekende inkomensvoorzieningen op grond van de WIJ, vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
 
-i. *gemeentelijke uitgaven op grond van de WWIK:* het saldo van de uitgaven en ontvangsten op grond van [artikel 48, eerste lid, onderdeel a, van de WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), door het college van de in [artikel 16, eerste lid, van het uitvoeringsbesluit WWIK](../../../../../AMvB/uitvoeringsbesluit/wwik/BWBR0017838/README.md) genoemde gemeenten in het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
+i. *gemeentelijke lasten op grond van de IOAW:* de lasten in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), in verband met de door het college toegekende uitkeringen voor uitkeringen op grond van de IOAW, vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
 
-j. *gemeentelijke uitgaven op grond van de IOAW:* de in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), door het college gedane uitgaven voor uitkeringen op grond van de IOAW, vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
+j. *gemeentelijke lasten op grond van de IOAZ:* de lasten in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), in verband met de door het college toegekende uitkeringen voor uitkeringen op grond van de IOAZ, vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
 
-k. *gemeentelijke uitgaven op grond van de IOAZ:* de in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), door het college gedane uitgaven voor uitkeringen op grond van de IOAZ, vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
+k. *gemeentelijke lasten op grond van het Bbz 2004:* de lasten in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), in verband met de door het college toegekende algemene bijstand verleend aan zelfstandigen als bedoeld in [artikel 2, eerste lid, onderdeel b, van het Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md), vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
 
-l. *gemeentelijke uitgaven op grond van het Bbz 2004:* 68% van de in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, volgens de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), door het college gemaakte kosten voor levensonderhoud in de vorm van algemene bijstand verleend aan zelfstandigen als bedoeld in [artikel 2, eerste lid, van het Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md), vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari van het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;  
-
-m. *toetsingscommissie:* de toetsingscommissie Wet werk en bijstand, bedoeld in [artikel 73 van de wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).    
+l. *toetsingscommissie:* de toetsingscommissie Wet werk en bijstand, bedoeld in [artikel 73 van de wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).    
 
 ####Werkdeel
 
@@ -58,7 +56,7 @@ m. *toetsingscommissie:* de toetsingscommissie Wet werk en bijstand, bedoeld in 
 
 ####Berekening bedrag uitkering en inwonertal gemeenten
 
-1.  De uitkering voor een gemeente wordt berekend aan de hand van de volgende formule: U = (G / TG) × (TBWWB +TBWIJ +TBIOAW +TBIOAZ +TBBbz +TBMAU) +(KWWIK / TKWWIK) × TBWWIK waarbij: 
+1.  De uitkering voor een gemeente wordt berekend aan de hand van de volgende formule: U = (G / TG) × (TBWWB +TBWIJ +TBIOAW +TBIOAZ +TBBbz +TBMAU) waarbij: 
 
 a. U de uitkering voor de gemeente is;  
 
@@ -76,13 +74,7 @@ g. TBIOAZ het totale bedrag is dat beschikbaar is voor uitkeringen op grond van 
 
 h. TBBbz het totale bedrag is dat beschikbaar is voor algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md);  
 
-i. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in artikel 10c;  
-
-j. KWWIK de gemeentelijke uitgaven zijn op grond van de [WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md);  
-
-k. TKWWIK het totaal is van de gemeentelijke uitgaven op grond van de [WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md);  
-
-l. TBWWIK het totale bedrag is dat beschikbaar is voor uitkeringen op grond van de [WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).     
+i. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in artikel 10c.     
 2.  De budgetgrondslag wordt verschillend berekend voor gemeenten met: 
 
 a. 25.000 of minder inwoners;  
@@ -92,8 +84,7 @@ b. meer dan 25.000 en minder dan 40.000 inwoners;
 c. 40.000 of meer inwoners.     
 3.  Voor de vaststelling van het aantal inwoners, bedoeld in het tweede lid, geldt als peildatum 1 januari van het jaar voorafgaand aan het jaar waarvoor de uitkering wordt vastgesteld.   
 4.  Het aantal inwoners wordt ontleend aan de statistiek «Demografische kerncijfers per gemeente» van het Centraal Bureau voor de Statistiek.   
-5.  Indien de gemeentelijke uitgaven op grond van de [WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) negatief zijn, worden deze voor de toepassing van het eerste lid, onderdelen j en k op nihil gesteld.   
-6.  Het totale bedrag dat in een kalenderjaar nodig is voor meerjarige aanvullende uitkeringen, bedoeld in artikel 10c, wordt in mindering gebracht op de uitkering aan gemeenten waarvan de budgetgrondslag wordt berekend op grond van artikel 6 of artikel 7. Het bedrag dat in mindering wordt gebracht, wordt berekend aan de hand van de volgende formule: B =TBMAU * [ (m *U) / som(m *U) ] Waarbij: 
+5.  Het totale bedrag dat in een kalenderjaar nodig is voor meerjarige aanvullende uitkeringen, bedoeld in artikel 10c, wordt in mindering gebracht op de uitkering aan gemeenten waarvan de budgetgrondslag wordt berekend op grond van artikel 6 of artikel 7. Het bedrag dat in mindering wordt gebracht, wordt berekend aan de hand van de volgende formule: B =TBMAU * [ (m *U) / som(m *U) ] Waarbij: 
 
 a. B het bedrag is dat van de uitkering aan een gemeente met meer dan 25.000 inwoners wordt afgetrokken;  
 
@@ -113,13 +104,13 @@ e. Som(m *U) de optelsom is van (m *U) van alle gemeenten met meer dan 25.000 in
 
 ####Berekening budgetgrondslag kleine gemeenten
 
-Voor gemeenten met 25.000 inwoners of minder is de budgetgrondslag gelijk aan de som van de gemeentelijke bijstandslasten, de gemeentelijke uitgaven op grond van de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de gemeentelijke uitgaven op grond van de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de gemeentelijkeuitgaven op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md).  
+Voor gemeenten met 25.000 inwoners of minder is de budgetgrondslag gelijk aan de som van de gemeentelijke lasten op grond van de WWB, de gemeentelijke lasten op grond van de WIJ, de gemeentelijke lasten op grond van de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de gemeentelijke lasten op grond van de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de gemeentelijke lasten op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md).  
 
 ### Artikel  6  
 
 ####Berekening budgetgrondslag middelgrote gemeenten
 
-Voor gemeenten met meer dan 25.000 en minder dan 40.000 inwoners wordt de budgetgrondslag bepaald aan de hand van de volgende formule: G = m × O + (1-m) × (K +KIOAW +KIOAZ +KBbz) waarbij: 
+Voor gemeenten met meer dan 25.000 en minder dan 40.000 inwoners wordt de budgetgrondslag bepaald aan de hand van de volgende formule: G = m × O + (1-m) × (KWWB +KWIJ +KIOAW +KIOAZ +KBbz) waarbij: 
 
 a. G de budgetgrondslag van de gemeente is;  
 
@@ -127,13 +118,15 @@ b. m het aantal inwoners in de gemeente is, verminderd met 25.000 en vervolgens 
 
 c. O de objectief vastgestelde kosten, bedoeld in [artikel 69, eerste lid, van de wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) zijn, vermeerderd met de objectief vastgestelde kosten voor algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md);  
 
-d. K de gemeentelijke bijstandslasten zijn.  
+d. KWWB de gemeentelijke lasten op grond van de WWB zijn;  
 
-e. KIOAW de gemeentelijke uitgaven op grond van de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) zijn;  
+e. KWIJ de gemeentelijke lasten op grond van de WIJ zijn;  
 
-f. KIOAZ de gemeentelijke uitgaven op grond van de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) zijn;  
+f. KIOAW de gemeentelijke lasten op grond van de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) zijn;  
 
-g. KBbz de gemeentelijke uitgaven op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) zijn.    
+g. KIOAZ de gemeentelijke lasten op grond van de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) zijn;  
+
+h. KBbz de gemeentelijke lasten op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) zijn.    
 
 ### Artikel  7  
 
@@ -146,7 +139,7 @@ Voor gemeenten met 40.000 inwoners of meer is de budgetgrondslag gelijk aan de o
 ####Objectief verdeelmodel en macrobudget
 
 1.  Aan de hand van het verdeelmodel dat is opgenomen in de bijlage bij dit besluit worden de objectief vastgestelde kosten, bedoeld in [artikel 69, eerste lid, van de wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en voor algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) vastgesteld.   
-2.  Het totale bedrag dat beschikbaar is voor de uitkering aan de gemeenten betreft: TBWWB +TBWIJ +TBWWIK +TBIOAW +TBIOAZ +TBBbz.   
+2.  Het totale bedrag dat beschikbaar is voor de uitkering aan de gemeenten betreft: TBWWB +TBWIJ +TBIOAW +TBIOAZ +TBBbz.   
 3.  Jaarlijks worden bij ministeriële regeling voor de verdeelmaatstaven in de bijlage bij dit besluit de peiljaren, de peildata en de gewichten vastgesteld.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor artikel 4, eerste lid, artikel 5, artikel 6, artikel 7, en het objectief verdeelmodel, dat is opgenomen in de bijlage bij dit besluit, ter voorkoming van onvoorziene en ongewenste verdeeleffecten.   
 
@@ -154,7 +147,7 @@ Voor gemeenten met 40.000 inwoners of meer is de budgetgrondslag gelijk aan de o
 
 ####Te late indiening verantwoordingsinformatie
 
-1.  Indien van een gemeente de bijlage bij de jaarrekening met verantwoordingsinformatie over specifieke uitkeringen, bedoeld in [artikel 58a, eerste lid, van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md), voor zover deze betrekking heeft op de uitvoering van de [wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) en [WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) over het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, en de daarbij behorende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet is ontvangen uiterlijk op 15 augustus van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, wordt voor de toepassing van de artikelen 4, eerste lid, 5, en 6, onderdeel c, voor de gemeentelijke bijstandslasten, de gemeentelijke uitgaven op grond van de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de gemeentelijke uitgaven op grond van de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de gemeentelijke uitgaven op grond van de [WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) en de gemeentelijkeuitgaven op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) uitgegaan van het jaar drie jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld met correctie van deze gegevens in verband met de prijsontwikkeling en de ontwikkeling van het bijstandsvolume.   
+1.  Indien van een gemeente de bijlage bij de jaarrekening met verantwoordingsinformatie over specifieke uitkeringen, bedoeld in [artikel 58a, eerste lid, van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md), voor zover deze betrekking heeft op de uitvoering van de [wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [WIJ](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) over het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, en de daarbij behorende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet is ontvangen uiterlijk op 15 augustus van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, wordt voor de toepassing van de artikelen 4, eerste lid, 5, en 6, onderdeel c, voor de gemeentelijke lasten op grond van de [WWB](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de gemeentelijke lasten op grond van de WIJ, de gemeentelijke lasten op grond van de IOAW, de gemeentelijke lasten op grond van de IOAZ en de gemeentelijke lasten op grond van het Bbz 2004 uitgegaan van het jaar drie jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld met correctie van deze gegevens in verband met de prijsontwikkeling en de ontwikkeling van het bijstandsvolume.   
 2.  Bij ministeriële regeling wordt een correctiefactor bij de toepassing van het eerste lid vastgelegd.   
 
 ### Artikel  8b  
@@ -163,18 +156,16 @@ Voor gemeenten met 40.000 inwoners of meer is de budgetgrondslag gelijk aan de o
 
 1.  Indien [artikel 8b van de wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), onderscheidenlijk [artikel 10 van de WIJ](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), [artikel 40 van de IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 40 van de IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) van toepassing is kan, voor de toepassing van de artikelen 4, eerste lid, 5, en 6, voor: 
 
-a. de gemeentelijke bijstandslasten;  
+a. de gemeentelijke lasten op grond van de [WWB](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-b. de gemeentelijke uitgaven op grond van de [WIJ](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+b. de gemeentelijke lasten op grond van de [WIJ](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
 
-c. de gemeentelijke uitgaven op grond van de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
+c. de gemeentelijke lasten op grond van de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
 
-d. de gemeentelijke uitgaven op grond van de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+d. de gemeentelijke lasten op grond van de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md); en  
 
-e. de gemeentelijke uitgaven op grond van de [WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md); en  
-
-f. de gemeentelijke uitgaven op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md),   de informatie in aanmerking worden genomen die het openbaar lichaam heeft verantwoord over het jaar dat voorafgaat aan het jaar waarover de uitkering wordt vastgesteld. De eerste zin is slechts van toepassing indien de bedoelde informatie is vastgesteld overeenkomstig [artikel 34a van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md).   
-2.  Indien van een openbaar lichaam de verantwoordingsinformatie, bedoeld in het eerste lid, voor zover deze betrekking heeft op de uitvoering van de [wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [WIJ](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) en [WWIK](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) over het jaar dat twee jaar voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, en de daarbij behorende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet is ontvangen uiterlijk op 15 augustus van het jaar dat voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, is artikel 8a van overeenkomstige toepassing. In dat geval wordt voor de ontbrekende informatie uitgegaan van de verantwoordingsinformatie van het openbaar lichaam over het jaar dat drie jaar voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, indien die verantwoordingsinformatie door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen.   
+e. de gemeentelijke lasten op grond van het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md),   de informatie in aanmerking worden genomen die het openbaar lichaam heeft verantwoord over het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld. De eerste zin is slechts van toepassing indien de bedoelde informatie is vastgesteld overeenkomstig [artikel 34a van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md).   
+2.  Indien van een openbaar lichaam de verantwoordingsinformatie, bedoeld in het eerste lid, voor zover deze betrekking heeft op de uitvoering van de [wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [WIJ](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en het [Bbz 2004](../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) over het jaar dat twee jaar voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, en de daarbij behorende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet is ontvangen uiterlijk op 15 augustus van het jaar dat voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, is artikel 8a van overeenkomstige toepassing. In dat geval wordt voor de ontbrekende informatie uitgegaan van de verantwoordingsinformatie van het openbaar lichaam over het jaar dat drie jaar voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, indien die verantwoordingsinformatie door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen.   
 
 ### §  3  
 
@@ -184,7 +175,7 @@ f. de gemeentelijke uitgaven op grond van het [Bbz 2004](../../../../../AMvB/bes
 
 ####Toetsingscommissie
 
-De toetsingscommissie bestaat uit een voorzitter en twee leden. Onze Minister benoemt de voorzitter en de leden, alsmede twee plaatsvervangende leden, die tevens door hem kunnen worden geschorst en ontslagen.  
+De toetsingscommissie bestaat uit een voorzitter en vier leden. Onze Minister benoemt de voorzitter en de leden, die tevens door hem kunnen worden geschorst en ontslagen.  
 
 ### Artikel  10  
 
@@ -348,7 +339,7 @@ J. P. H. Donner
 
 ####Objectief verdeelmodel
 
-Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar, wordt voor elke gemeente een budgetgrondslag berekend. Voor de gemeenten met 25.000 inwoners of minder is dit het historisch bepaalde budget: de uitgaven, opgeschaald met de groei in huishoudens. Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar voor gemeenten met meer dan 25.000 inwoners (artikelen 6 en 7) wordt gebruik gemaakt van objectief vastgestelde gemeentelijke uitkeringskosten. Deze objectieve gemeentelijke uitkeringskosten worden, op grond van artikel 8, eerste lid, vastgesteld aan de hand van een zogenoemd objectief verdeelmodel. Dit objectief verdeelmodel is opgenomen in deze bijlage. Voor gemeenten tussen de 25.000 en 40.000 inwoners worden de budgetten niet geheel vastgesteld op basis van de uitkomsten van het objectieve verdeelmodel. Voor deze categorie wordt zowel het historisch als het objectief bepaalde budget berekend. De budgetgrondslag voor deze categorie wordt vervolgens vastgesteld als een gewogen gemiddelde van deze twee budgetten, waarbij het gewicht afhankelijk is van het aantal inwoners boven de 25.000. De budgetgrondslagen worden voor alle gemeenten opgeteld. Door voor elke gemeente de grondslag te delen door het totaal van de grondslagen, wordt het aandeel dat de gemeente heeft in het macrobudget bepaald. De objectieve uitkeringskosten van gemeenten met meer dan 25.000 inwoners worden vastgesteld met behulp van veertien verdeelmaatstaven met bijbehorende bedragen. Onderdeel A van deze bijlage geeft informatie over de verdeelmaatstaven: 
+Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar, wordt voor elke gemeente een budgetgrondslag berekend. Voor de gemeenten met 25.000 inwoners of minder is dit het historisch bepaalde budget: de lasten, opgeschaald met de groei in huishoudens. Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar voor gemeenten met meer dan 25.000 inwoners (artikelen 6 en 7) wordt gebruik gemaakt van objectief vastgestelde gemeentelijke uitkeringskosten. Deze objectieve gemeentelijke uitkeringskosten worden, op grond van artikel 8, eerste lid, vastgesteld aan de hand van een zogenoemd objectief verdeelmodel. Dit objectief verdeelmodel is opgenomen in deze bijlage. Voor gemeenten tussen de 25.000 en 40.000 inwoners worden de budgetten niet geheel vastgesteld op basis van de uitkomsten van het objectieve verdeelmodel. Voor deze categorie wordt zowel het historisch als het objectief bepaalde budget berekend. De budgetgrondslag voor deze categorie wordt vervolgens vastgesteld als een gewogen gemiddelde van deze twee budgetten, waarbij het gewicht afhankelijk is van het aantal inwoners boven de 25.000. De budgetgrondslagen worden voor alle gemeenten opgeteld. Door voor elke gemeente de grondslag te delen door het totaal van de grondslagen, wordt het aandeel dat de gemeente heeft in het macrobudget bepaald. De objectieve uitkeringskosten van gemeenten met meer dan 25.000 inwoners worden vastgesteld met behulp van veertien verdeelmaatstaven met bijbehorende bedragen. Onderdeel A van deze bijlage geeft informatie over de verdeelmaatstaven: 
 
 – een beschrijving van de verdeelmaatstaven;  
 
@@ -371,12 +362,12 @@ Het schema geeft de verdeelmaatstaven weer en de factoren op basis waarvan de ee
 |  *Sociale en demografische structuur*   | --- |
 | 1.  | Lage inkomens 15-64 jaar (in % van de huishoudens van 15–64 jaar met inkomen) <sup>1</sup>  | CBS  |
 | 2.  | Eénouderhuishoudens van 15-44 jaar (in % van huishoudens van 15–64 jaar)  | CBS  |
-| 3.  | Arbeidsongeschiktheidsuitkeringen: WAO, WAJONG en WAZ (in % van inwoners van 15–64 jaar)  | CBS  |
+| 3.  | Arbeidsongeschiktheidsuitkeringen: WIA, WAO, WAJONG en WAZ (in % van inwoners van 15–64 jaar)  | CBS  |
 | 4.  | Totaal allochtonen van 15-64 jaar (in % van alle inwoners van 15–64 jaar)  | CBS  |
 | 5.  | Laagopgeleiden 15-64 jaar (in % van inwoners van 15–64 jaar) <sup>2</sup>  | CBS  |
 | --- | --- | --- |
 |  *Centrumfunctie en stedelijkheid*   | --- |
-| 6.  | Huurwoningen (in % van het totaal aantal woningen)  | VROM  |
+| 6.  | Huurwoningen (in % van het totaal aantal woningen)  | CBS  |
 | 7.  | Relatief regionaal klantenpotentieel (regionaal klantenpotentieel in % van het aantal inwoners)  | CBS  |
 | 8.  | Inwoners stedelijk gebied (aantal inwoners in gebied met meer dan 1000 omgevingsadressen per vierkante kilometer, in % van het aantal inwoners)  | CBS  |
 | --- | --- | --- |
@@ -408,7 +399,7 @@ Het schema geeft de verdeelmaatstaven weer en de factoren op basis waarvan de ee
 
 ####Beleidsmatig indammen herverdeeleffecten
 
-Gebruik van een objectief verdeelmodel in plaats van een model gebaseerd op historische uitgaven leidt tot herverdeeleffecten. Een herverdeeleffect is gedefinieerd als het verschil tussen het objectief budgetaandeel en het historisch budgetaandeel. Van herverdeeleffecten kan derhalve alleen sprake zijn bij gemeenten die via het objectief verdeelmodel worden gebudgetteerd. Dit betreft dus de grote gemeenten en in beperkte mate de middelgrote gemeenten. Herverdeeleffecten zijn ook beoogd: gemeenten die goed presteren, worden hiervoor beloond en gemeenten die het minder goed doen, voelen de financiële gevolgen hiervan. De ex ante inperking van de herverdeeleffecten is op maximaal 7,5% bepaald: 
+Gebruik van een objectief verdeelmodel in plaats van een model gebaseerd op historische lasten leidt tot herverdeeleffecten. Een herverdeeleffect is gedefinieerd als het verschil tussen het objectief budgetaandeel en het historisch budgetaandeel. Van herverdeeleffecten kan derhalve alleen sprake zijn bij gemeenten die via het objectief verdeelmodel worden gebudgetteerd. Dit betreft dus de grote gemeenten en in beperkte mate de middelgrote gemeenten. Herverdeeleffecten zijn ook beoogd: gemeenten die goed presteren, worden hiervoor beloond en gemeenten die het minder goed doen, voelen de financiële gevolgen hiervan. De ex ante inperking van de herverdeeleffecten is op maximaal 7,5% bepaald: 
 
 – Voor gemeenten met een herverdeeleffect groter dan 10% is de grenswaarde 7,5%.  
 

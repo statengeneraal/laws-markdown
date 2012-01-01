@@ -102,7 +102,7 @@ y. academisch ziekenhuis: een academisch ziekenhuis als bedoeld in [onderdeel i 
 
 ### Artikel  2.1  
 
-####Persoonlijke omstandigheden bij bindend studie-advies en verwijzing naar afstudeerrichting
+####Persoonlijke omstandigheden bij bindend studieadvies en verwijzing naar afstudeerrichting
 
 1.  De persoonlijke omstandigheden bedoeld in de [artikelen 7.8b, derde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.9, derde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van de wet, zijn uitsluitend: 
 
@@ -116,7 +116,7 @@ d. bijzondere familie-omstandigheden,
 
 e. het lidmaatschap, daaronder begrepen het voorzitterschap, van: 
 
-1. bij universtiteiten: de universiteitsraad, faculteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), onderscheidenlijk [artikel 9.51, tweede lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van de wet, het bestuur van een opleiding of de opleidingscommissie, alsmede het lidmaatschap van het bestuur van een stichting die blijkens haar statuten tot doel heeft de exploitatie van voorzieningen, behorende tot de studentenvoorzieningen, dan wel van een daarmee naar het oordeel van het instellingsbestuur gelet op de taak gelijk te stellen orgaan,  
+1. bij universiteiten: de universiteitsraad, faculteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), onderscheidenlijk [artikel 9.51, tweede lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van de wet, het bestuur van een opleiding of de opleidingscommissie, alsmede het lidmaatschap van het bestuur van een stichting die blijkens haar statuten tot doel heeft de exploitatie van voorzieningen, behorende tot de studentenvoorzieningen, dan wel van een daarmee naar het oordeel van het instellingsbestuur gelet op de taak gelijk te stellen orgaan,  
 
 2. bij hogescholen: de medezeggenschapsraad, deelraad, studentencommissie of opleidingscommissie,    
 
@@ -426,6 +426,7 @@ a. het aantal bekostigde inschrijvingen voor die opleiding, en
 
 b. het aantal bekostigde graden dat in die opleiding is verleend.     
 2.  De factoren behorend bij de bekostigingsniveaus van de opleidingen worden vastgesteld bij ministeriële regeling. Deze factoren kunnen verschillen voor opleidingen in het wetenschappelijk onderscheidenlijk het hoger beroepsonderwijs, en voor bachelor- onderscheidenlijk masteropleidingen.   
+3.  Indien in het kader van een gezamenlijke opleiding of gezamenlijke afstudeerrichting als bedoeld in [artikel 7.3c van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) sprake is van registratie van bekostigde graden bij verschillende Nederlandse instellingen wordt het aantal bekostigde graden dat het betreft bij elk van deze instellingen gedeeld door het aantal Nederlandse instellingen dat bij de gezamenlijke opleiding of gezamenlijke afstudeerrichting betrokken is.   
 
 ### Artikel  4.11  
 
@@ -472,6 +473,7 @@ c. voor een topbekostigingsniveau: 3.
 1.  Uit het onderzoekdeel wo ontvangt een universiteit per proefschrift leidend tot een promotie in het tweede kalenderjaar voorafgaand aan het begrotingsjaar, een bij ministeriële regeling te bepalen bedrag.   
 2.  Uit het onderzoekdeel wo ontvangt een universiteit per ontwerperscertificaat dat is uitgereikt in het tweede kalenderjaar voorafgaand aan het begrotingsjaar, een bij ministeriële regeling te bepalen bedrag.   
 3.  Onder ontwerperscertificaat wordt verstaan een getuigschrift, uitgereikt aan een technologisch ontwerper na het met goed gevolg afronden van onderwijs als bedoeld in bijlage 7 bij dit besluit.   
+4.  Indien vanwege toepassing van [artikel 7.18, zesde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) sprake is van gezamenlijke graadverlening Doctor bij verschillende Nederlandse instellingen wordt het aantal proefschriften dat het betreft bij elk van deze instellingen gedeeld door het aantal Nederlandse instellingen dat bij de gezamenlijke graadverlening betrokken is.   
 
 ### Artikel  4.22  
 
@@ -586,13 +588,6 @@ b. het afsluitend examen van een voortgezette hbo-opleiding als bedoeld in [arti
 ####Studielast masteropleiding pedagogiek hbo
 
 Voor de masteropleiding pedagogiek in het hoger beroepsonderwijs wordt de studielast door de instelling vastgesteld op ten minste 60 en ten hoogste 90 studiepunten.  
-
-### Artikel  5.5  
-
-####Afwijkende bekostiging Theologische Universiteit Kampen
-
-1.  In 2010 zijn de artikelen 4.8, 4.9, 4.20 en 4.21 niet van toepassing op de Theologische Universiteit Kampen.   
-2.  In 2011 zijn de artikelen 4.7, 4.20 en 4.21 niet van toepassing op de Theologische Universiteit Kampen.   
 
 ### Hoofdstuk  6  
 

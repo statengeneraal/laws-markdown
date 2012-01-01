@@ -21,10 +21,6 @@ De wet verbindt alleen voor het toekomende en heeft geene terugwerkende kracht.
 
 Eene wet kan alleen door eene latere wet, voor het geheel of gedeeltelijk, hare kracht verliezen.  
 
-### Artikel  6  
-
-De wetten betreffende de regten, den staat en de bevoegheid der personen, verbinden de Nederlanders, ook wanneer zij zich buiten ’s lands bevinden.  
-
 ### Artikel  8  
 
 De strafwetten en de verordeningen van policie, zijn verbindende voor allen die zich op het grondgebied van het Koningrijk bevinden.  
@@ -32,10 +28,6 @@ De strafwetten en de verordeningen van policie, zijn verbindende voor allen die 
 ### Artikel  9  
 
 Het burgerlijk regt van het Koningrijk is hetzelfde voor vreemdelingen als voor de Nederlanders, zoo lange de wet niet bepaaldelijk het tegendeel vaststelt.  
-
-### Artikel  10  
-
-De vorm van alle handelingen wordt beoordeeld naar de wetten van het land of de plaats alwaar die handelingen zijn verrigt.  
 
 ### Artikel  11  
 

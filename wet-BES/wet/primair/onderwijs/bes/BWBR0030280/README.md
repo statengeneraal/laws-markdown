@@ -2065,6 +2065,12 @@ Tot de datum van inwerkingtreding van artikel 105, eerste lid, wordt bij ministe
 
 Tot een bij koninklijk besluit te bepalen tijdstip blijven de bepalingen van de Wet primair onderwijs BES zoals die is komen te luiden op 10 oktober 2010, van kracht voor zover de regeling van de daarin opgenomen onderwerpen niet is vervangen door de inwerkingtreding van overeenkomstige onderwerpen in deze wet. De vorige volzin is niet van toepassing op de onderwerpen geregeld in de artikelen 14, 16 en 18 van de Wet primair onderwijs BES zoals die is komen te luiden op 10 oktober 2010.  
 
+### Artikel  167c  
+
+####Inwerkingtreding
+
+De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.  
+
 ### Artikel  168  
 
 ####Citeertitel

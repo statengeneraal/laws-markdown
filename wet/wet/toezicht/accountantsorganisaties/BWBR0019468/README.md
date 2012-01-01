@@ -52,7 +52,7 @@ l. organisatie van openbaar belang:
 
 1°. een in Nederland gevestigde rechtspersoon naar Nederlands recht waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-2°. een kredietinstelling met zetel in Nederland als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waaraan een vergunning is verleend ingevolge [die wet;](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+2°. een bank met zetel in Nederland als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waaraan een vergunning is verleend ingevolge [die wet;](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 3°. een centrale kredietinstelling met zetel in Nederland als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waaraan een vergunning is verleend ingevolge [die wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -105,6 +105,7 @@ c. accountantsdiensten als bedoeld in [artikel 66, eerste lid, van de Comptabili
 1.  De Autoriteit Financiële Markten verleent een vergunning aan een aanvrager die geen accountantsorganisatie als bedoeld in artikel 5, tweede lid, is, en die heeft aangetoond dat hijzelf en de bij hem werkzame of aan hem verbonden externe accountants voldoen aan het bij of krachtens paragraaf 3.1.2 en afdeling 3.2 bepaalde.   
 2.  Indien de aanvrager voornemens is tevens wettelijke controles te verrichten bij organisaties van openbaar belang, toont de aanvrager bovendien aan dat hijzelf en de bij hem werkzame of aan hem verbonden externe accountants voldoen aan het bij of krachtens paragraaf 3.1.3 bepaalde. Indien is voldaan aan het bepaalde in de vorige volzin, vermeldt de Autoriteit Financiële Markten in de vergunning dat deze mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang.   
 3.  De Autoriteit Financiële Markten kan aan een vergunning voorschriften verbinden en beperkingen stellen.   
+4.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een vergunning als bedoeld in artikel 5, eerste lid.   
 
 ### Artikel  7  
 

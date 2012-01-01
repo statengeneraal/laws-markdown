@@ -213,18 +213,19 @@ b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch 
 
 1.  De vrouwelijke werknemer of gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling doet de aanvraag daartoe door tussenkomst van de werkgever bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum van ingang van het zwangerschapsverlof onderscheidenlijk de datum waarop zij het recht op uitkering wil laten ingaan. Bij die aanvraag wordt gemeld: 
 
-a. de vermoedelijke datum van bevalling, onder overlegging van de verklaring van een arts of van een verloskundige waarin die datum is aangegeven;  
+a. de vermoedelijke datum van bevalling;  
 
 b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gelijkgestelde het recht op uitkering wil laten ingaan.     
-2.  De werknemer of gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met adoptie of pleegzorg, doet de aanvraag daartoe door tussenkomst van de werkgever bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum van ingang van het verlof in verband met adoptie of pleegzorg onderscheidenlijk de datum waarop hij het recht op uitkering wil laten ingaan. Bij de aanvraag worden documenten gevoegd waaruit blijkt dat een kind ter adoptie of pleegzorg is of zal worden opgenomen en wanneer die opneming ter adoptie of pleegzorg heeft plaatsgevonden of zal plaatsvinden. Bij die aanvraag wordt de datum waarop het verlof in verband met adoptie of pleegzorg ingaat gemeld dan wel de datum waarop hij het recht op uitkering wil laten ingaan.   
-3.  Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de werknemer of gelijkgestelde afwijken van het eerste en tweede lid.   
+2.  Het Uitvoeringsinstituut werknemersverzekeringen kan de werkgever, uiterlijk binnen een jaar na het tijdstip waarop de uitkering geëindigd is, een verklaring vragen van een arts of verloskundige over de vermoedelijke datum van bevalling, welke is opgemaakt uiterlijk twee weken voor de datum van ingang van het zwangerschapsverlof onderscheidenlijk twee weken voor de datum waarop de vrouwelijke werknemer het recht op uitkering wil laten ingaan.   
+3.  De werknemer of gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met adoptie of pleegzorg, doet de aanvraag daartoe door tussenkomst van de werkgever bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum van ingang van het verlof in verband met adoptie of pleegzorg onderscheidenlijk de datum waarop hij het recht op uitkering wil laten ingaan. Bij de aanvraag worden documenten gevoegd waaruit blijkt dat een kind ter adoptie of pleegzorg is of zal worden opgenomen en wanneer die opneming ter adoptie of pleegzorg heeft plaatsgevonden of zal plaatsvinden. Bij die aanvraag wordt de datum waarop het verlof in verband met adoptie of pleegzorg ingaat gemeld dan wel de datum waarop hij het recht op uitkering wil laten ingaan.   
+4.  Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de werknemer of gelijkgestelde afwijken van het eerste en tweede lid.   
 
 ####De rechtstreekse aanvraag van uitkering
 
 ### Artikel  3:12  
 
-1.  Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. Artikel 3:11, eerste lid, tweede volzin, is van toepassing.   
-2.  Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. Artikel 3:11, tweede lid, tweede en derde volzin, is van toepassing.   
+1.  Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. Artikel 3:11, eerste lid, tweede volzin, en tweede lid, zijn van overeenkomstige toepassing   
+2.  Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. Artikel 3:11, derde lid, tweede en derde volzin, is van toepassing.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de gelijkgestelde afwijken van het eerste en tweede lid.   
 4.  Voor de toepassing van dit artikel wordt onder gelijkgestelde mede verstaan degene die recht op uitkering heeft op grond van artikel 3:10.   
 
@@ -234,7 +235,7 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 
 1.  De uitkering, bedoeld in deze paragraaf, bedraagt per dag het dagloon.   
 2.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, en de betrokkene, bedoeld in artikel 3:10, eerste en tweede lid, vastgesteld en herzien overeenkomstig de vaststelling en herziening met betrekking tot de werknemer, bedoeld in [artikel 29b van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), op grond van de [artikelen 15](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [16 van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de daarop berustende bepalingen.   
-3.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, vastgesteld overeenkomstig [artikel 68 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de regels op grond van [artikel 71, onderdeel d, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md).   
+3.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, vastgesteld overeenkomstig [artikel 68 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de regels op grond van [artikel 71, onderdeel c, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md).   
 
 ####De uitbetaling van de uitkering
 
@@ -242,7 +243,7 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 
 1.  De betaling geschiedt als regel in tijdvakken van een maand.   
 2.  De uitkering wordt betaald over iedere dag, doch niet over de zaterdagen en de zondagen.   
-3.  De artikelen [40](../../../../../../wet/ziektewet/BWBR0001888/README.md), [41](../../../../../../wet/ziektewet/BWBR0001888/README.md), [42](../../../../../../wet/ziektewet/BWBR0001888/README.md), [47a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [48](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [85 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) zijn van overeenkomstige toepassing.   
+3.  De artikelen [40](../../../../../../wet/ziektewet/BWBR0001888/README.md), [41](../../../../../../wet/ziektewet/BWBR0001888/README.md), [47a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [48](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [85 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) zijn van overeenkomstige toepassing.   
 
 ####Financiering
 
@@ -270,7 +271,7 @@ f. ter zake van maatregelen: [artikel 45, eerste lid, onderdelen e, h, i en j, e
 
 g. ter zake van de inlichtingenverplichting: [artikel 49](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
 
-h. ter zake van de uitvoering: de [artikelen 51](../../../../../../wet/ziektewet/BWBR0001888/README.md), [53 tot en met 56](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [59](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+h. ter zake van de uitvoering: de [artikelen 51](../../../../../../wet/ziektewet/BWBR0001888/README.md), [53 tot en met 55](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [59](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
 
 i. ter zake van de termijn waarbinnen op het bezwaarschrift moet zijn beslist: [artikel 74](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
 
@@ -288,7 +289,7 @@ o. ter zake van bestuurlijke boeten: de [artikelen 45a tot en met 45g](../../../
 
 p. ter zake van het afzien van het horen van de belanghebbende: [artikel 72d](../../../../../../wet/ziektewet/BWBR0001888/README.md).     
 2.  De strafbepaling van [artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing.   
-3.  In afwijking van het eerste lid, zijn op de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, de [artikelen 43](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [56 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) niet van overeenkomstige toepassing en zijn van [artikel 55 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) alleen de eerste volzin van het eerste lid en het zevende lid van overeenkomstige toepassing. Op de werknemer en de gelijkgestelde, bedoeld in de eerste volzin, is [artikel 67 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) van overeenkomstige toepassing.   
+3.  In afwijking van het eerste lid, is op de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, [artikel 43 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) niet van overeenkomstige toepassing en zijn van [artikel 55 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) alleen de eerste volzin van het eerste lid en het zevende lid van overeenkomstige toepassing.   
 4.  [Artikel 35, derde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) is van overeenkomstige toepassing ongeacht of het recht op uitkering met ingang van de dag na het overlijden binnen een maand zou zijn geëindigd.   
 
 ### §  2  
@@ -829,7 +830,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 a. levensloopregeling: een regeling als bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
-b. uitvoerder: een kredietinstelling, een verzekeraar of een beheerder van een beleggingsinstelling als bedoeld in [artikel 19g, derde lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).    
+b. uitvoerder: een bank, een verzekeraar of een beheerder van een beleggingsinstelling als bedoeld in [artikel 19g, derde lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).    
 
 ####Recht op deelname
 

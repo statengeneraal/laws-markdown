@@ -80,6 +80,15 @@ De Bank is bevoegd die werkzaamheden te verrichten die nodig zijn ter uitvoering
 
 De Bank is bevoegd tot het uitgeven van bankbiljetten.  
 
+### Artikel  6a  
+
+1.  De Bank kan een last onder dwangsom opleggen ter zake van overtreding van artikel 6, eerste lid, van verordening (EG) nr. 1338/2001 van de Raad van de Europese Unie van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG L 181).   
+2.  De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van artikel 6, eerste lid, van verordening (EG) nr. 1338/2001 van de Raad van de Europese Unie van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG L 181).   
+3.  Bij algemene maatregel van bestuur wordt bij de daarin omschreven overtredingen het bedrag van de op te leggen bestuurlijke boete bepaald, met diende verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 50 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.   
+4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de uitoefening van de bevoegdheden, bedoeld in het eerste en tweede lid.   
+5.  Met het toezicht op de naleving van de verplichtingen gesteld in de verordening, genoemd in het eerste en tweede lid, zijn belast de bij besluit van de Bank aangewezen personen.   
+6.  Van een besluit als bedoeld in het vijfde lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+
 ### Artikel  7  
 
 De Bank is bevoegd de Europese Centrale Bank bij te staan bij het verzamelen van gegevens op de voet van artikel 5 van de Statuten van het Europees Stelsel van Centrale Banken.  

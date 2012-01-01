@@ -44,35 +44,35 @@ f. zijn werkzaamheden zijn niet gericht op winst.
 
 ### Artikel  4  
 
-De in artikel 1 bedoelde rechtspersoon verricht zijn taak onder de naam Bureau voorlichting interlandelijke adoptie (hierna te noemen: Bureau).  
+De in artikel 1 bedoelde rechtspersoon verricht zijn taak onder de naam Stichting adoptievoorzieningen.  
 
 ### Artikel  5  
 
-Het bestuur is slechts na voorafgaande goedkeuring van Onze Minister bevoegd de statuten te wijzigen of het Bureau te ontbinden.  
+Het bestuur is slechts na voorafgaande goedkeuring van Onze Minister bevoegd de statuten te wijzigen of de Stichting adoptievoorzieningen te ontbinden.  
 
 ### Artikel  6  
 
-1.  Behoudens het bepaalde in artikel 8, eerste lid, wordt de verstrekking van algemene voorlichting bekostigd uit de in in [artikel 4, onder e, van de Wet opneming buitenlandse kinderen ter adoptie](../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) bedoelde bijdragen van aspirant-adoptiefouders.   
-2.  Het bedrag van de in het eerste lid genoemde bijdrage wordt vastgesteld op € 900,–.   
-3.  Het Bureau int de in het eerste lid bedoelde bijdragen.   
+1.  Behoudens het bepaalde in artikel 8 wordt de verstrekking van algemene voorlichting bekostigd uit de in [artikel 4, onder e, van de Wet opneming buitenlandse kinderen ter adoptie](../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) bedoelde bijdragen van aspirant-adoptiefouders. De algemene voorlichting wordt gegeven gedurende zes bijeenkomsten, waarvan de eerste inleidend is.   
+2.  Het bedrag van de in het eerste lid genoemde bijdrage wordt vastgesteld op € 210,– voor de inleidende bijeenkomst en € 1.385,– voor vijf daaropvolgende bijeenkomsten tezamen.   
+3.  De Stichting adoptievoorzieningen int de in het eerste lid bedoelde bijdragen.   
 4.  Omtrent de geïnde bedragen wordt maandelijks aan Onze Minister een opgave verstrekt.   
 
 ### Artikel  7  
 
-Het Bureau zendt jaarlijks vóór 1 oktober een begroting voor het daaropvolgende jaar ter goedkeuring aan Onze Minister. De begroting is voorzien van een toelichting en gaat vergezeld van een beschrijving van de wijze waarop het Bureau zich voorneemt zijn werkzaamheden in het komende boekjaar te verrichten. De begroting geeft inzicht in de aard en de omvang van de baten en lasten van het Bureau. De begroting kan vergezeld gaan van een aanvraag om subsidie ter tegemoetkoming in de kosten van het Bureau.  
+De Stichting adoptievoorzieningen zendt jaarlijks vóór 1 oktober een begroting voor het daaropvolgende jaar ter goedkeuring aan Onze Minister. De begroting is voorzien van een toelichting en gaat vergezeld van een beschrijving van de wijze waarop de Stichting adoptievoorzieningen zich voorneemt zijn werkzaamheden in het komende boekjaar te verrichten. De begroting geeft inzicht in de aard en de omvang van de baten en lasten van de Stichting adoptievoorzieningen. De begroting kan vergezeld gaan van een aanvraag om subsidie ter tegemoetkoming in de kosten van de Stichting adoptievoorzieningen.  
 
 ### Artikel  8  
 
-Onze Minister kan een subsidie verlenen ter tegemoetkoming in de kosten van het Bureau, indien de voor het begrotingsjaar voorziene baten aanmerkelijk achterblijven bij de lasten. De beschikking wordt voor 1 januari van het jaar waarvoor de subsidie is aangevraagd bekendgemaakt.  
+Onze Minister kan een subsidie verlenen ter tegemoetkoming in de kosten van de Stichting adoptievoorzieningen, indien de voor het begrotingsjaar voorziene baten aanmerkelijk achterblijven bij de lasten. De beschikking wordt voor 1 januari van het jaar waarvoor de subsidie is aangevraagd bekendgemaakt.  
 
 ### Artikel  9  
 
-Het bedrag van de subsidie als bedoeld in artikel 8, eerste lid, kan in de loop van het begrotingsjaar naar boven worden aangepast, indien de noodzaak daartoe is gebleken in verband met het aanmerkelijke achterblijven van te ontvangen bijdragen van aspirant-adoptiefouders. Een daartoe strekkende aanvraag dient uiterlijk op 1 oktober van het lopende begrotingsjaar te zijn ingediend. De aanvraag gaat vergezeld van een actueel overzicht van de financiële toestand van het Bureau.  
+Het bedrag van de subsidie als bedoeld in artikel 8, eerste lid, kan in de loop van het begrotingsjaar naar boven worden aangepast, indien de noodzaak daartoe is gebleken in verband met het aanmerkelijke achterblijven van te ontvangen bijdragen van aspirant-adoptiefouders. Een daartoe strekkende aanvraag dient uiterlijk op 1 oktober van het lopende begrotingsjaar te zijn ingediend. De aanvraag gaat vergezeld van een actueel overzicht van de financiële toestand van de Stichting adoptievoorzieningen.  
 
 ### Artikel  10  
 
-1.  Het Bureau verstrekt Onze Minister alle gevraagde inlichtingen omtrent de uitvoering van zijn taak.   
-2.  Het Bureau zendt jaarlijks binnen vier maanden na afloop van het boekjaar aan Onze Minister een balans en een exploitatierekening alsmede een verslag van zijn werkzaamheden over het afgelopen boekjaar. Deze stukken gaan vergezeld van een verklaring omtrent de getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  De Stichting adoptievoorzieningen verstrekt Onze Minister alle gevraagde inlichtingen omtrent de uitvoering van zijn taak.   
+2.  De Stichting adoptievoorzieningen zendt jaarlijks binnen vier maanden na afloop van het boekjaar aan Onze Minister een balans en een exploitatierekening alsmede een verslag van zijn werkzaamheden over het afgelopen boekjaar. Deze stukken gaan vergezeld van een verklaring omtrent de getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 3.  Na ontvangst van de bescheiden als bedoeld in het tweede lid, wordt, indien subsidie was verleend, de subsidie vastgesteld overeenkomstig artikel 8, eerste lid, en met inachtneming van de aanpassingen op grond van artikel 9. Subsidiebaten mogen tot een door Onze Minister vast te stellen maximum worden gereserveerd door opneming als risicofonds op de balans. De in het fonds opgenomen subsidiebaten dienen te worden bestemd ter bekostiging van de uitvoering van de in artikel 1 omschreven taak.   
 4.  Indien blijkt dat de subsidie ten gevolge van het verstrekken van onjuiste of onvolledige gegevens is vastgesteld op een bedrag dat hoger is dan wanneer het zou zijn vastgesteld op grond van juiste en volledige gegevens wordt de subsidie opnieuw vastgesteld.   
 

@@ -95,23 +95,20 @@ b. het beheer van het stelsel van basisadministraties en het beheer en gebruik v
 
 ### Artikel  6  
 
-1.  Onze Minister stelt elk jaar het bedrag per netwerkbericht vast dat hij in het volgende jaar zal hanteren.   
-2.  Onze Minister bepaalt dit bedrag, gelet op: 
+1.  Onze Minister stelt elk jaar de abonnementsstructuur vast die hij in het volgende jaar zal hanteren. De abonnementsstructuur bestaat uit verschillende abonnementsklassen met daarbij behorende bandbreedten van aantallen netwerkberichten en het daarbij behorende tarief in euro’s.   
+2.  Onze Minister bepaalt de abonnementsstructuur, gelet op: 
 
 a. de voor het volgende jaar te verwachten kosten als bedoeld in artikel 4, verminderd met het saldo over het vorige jaar;  
 
 b. het voor het volgende jaar te verwachten aantal netwerkberichten dat ten laste van de betrokkenen komt.     
-3.  Het saldo over het vorige jaar wordt gevonden door het aantal gerealiseerde netwerkberichten dat in dat jaar ten laste van de betrokkenen komt te vermenigvuldigen met het bedrag per netwerkbericht voor dat jaar en dit product te verminderen met de kosten, bedoeld in artikel 4, in dat jaar.   
-4.  Onze Minister deelt het in het eerste lid bedoelde bedrag in september van elk jaar mede aan de betrokkenen.   
+3.  Het saldo over het vorige jaar wordt gevonden door de in artikel 7, eerste tot en met derde lid, bedoelde bijdragen over dat jaar te verminderen met de kosten, bedoeld in artikel 4, in dat jaar.   
+4.  Onze Minister deelt de abonnementsstructuur in september van elk jaar mede aan de betrokkenen.   
 
 ### Artikel  7  
 
-1.  De bijdrage van een betrokkene bestaat uit maandelijkse betalingen. Hiertoe brengt Onze Minister de betrokkene maandelijks een bedrag in rekening dat wordt bepaald door: 
-
-a. het op grond van artikel 6, eerste lid, vastgestelde bedrag per netwerkbericht voor het lopende jaar;  
-
-b. het aantal berichten dat gedurende de betreffende maand ten laste van de betrokkene komt;     
-2.  Onze Minister stelt het maandelijks in rekening te brengen bedrag voor een betrokkene op nul vast, voor zover een voorziening is getroffen in de begroting van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties die in de plaats treedt van de bijdrage van de betrokkene.   
+1.  De bijdrage van een betrokkene bestaat uit een jaarlijkse betaling. Hiertoe brengt Onze Minister het abonnementstarief voor het lopende jaar in rekening dat behoort bij de abonnementsklasse waarin de betrokkene valt, gelet op het aantal netwerkberichten dat in het voorafgaande jaar ten laste van hem kwam.   
+2.  Indien het aantal netwerkberichten over het lopende jaar dat ten laste van de betrokkene komt, valt in een hogere abonnementsklasse dan de in het eerste lid bedoelde klasse, brengt Onze Minister, in afwijking van het eerste lid, het abonnementstarief voor het lopende jaar in rekening dat behoort bij die hogere klasse.   
+3.  Onze Minister stelt het jaarlijks in rekening te brengen bedrag voor een betrokkene op nul vast, voor zover een voorziening is getroffen in de begroting van het Ministerie van Binnenlandse Zaken die in plaats treedt van de bijdrage van de betrokkene.   
 
 ### Artikel  8  
 
@@ -1086,12 +1083,8 @@ De verplichtingen, bedoeld in [artikel 146b, eerste en tweede lid, van de wet](.
 
 ### Artikel  98a  
 
-1.  Voor de vaststelling van het saldo, bedoeld in artikel 6, derde lid, over het jaar 2007 wordt: 
-
-a. onder het bedrag per netwerkbericht voor dat jaar verstaan de prijs per bericht als bedoeld in artikel 8, zesde lid, zoals dat luidde op 31 december 2007;  
-
-b. onder de kosten, bedoeld in artikel 4, in dat jaar verstaan de kosten zoals die door Onze Minister zijn vastgesteld over dat jaar op grond van artikel 7, tweede lid, onderdeel b, zoals dat luidde op 31 december 2007.     
-2.  Voor de toepassing van artikel 7, eerste lid, wat betreft de maandelijks in rekening te brengen bedragen voor het jaar 2008 wordt onder het op grond van artikel 6, eerste lid, vastgestelde bedrag per netwerkbericht voor het lopende jaar verstaan de prijs per bericht zoals die door Onze Minister is vastgesteld voor dat jaar op grond van artikel 7, tweede lid, onderdeel a, zoals dat luidde op 31 december 2007.   
+1.  Voor de toepassing van artikel 6 wordt wat betreft het vaststellen van de abonnementsstructuur voor het jaar 2012 onder «het volgende jaar» verstaan «het jaar 2012» en onder «het vorige jaar»: het jaar 2010.   
+2.  In afwijking van artikel 6, vierde lid, deelt Onze Minister de abonnementsstructuur voor het jaar 2012 mee aan betrokkenen in januari 2012.   
 
 ### Artikel  99  
 
@@ -1458,7 +1451,8 @@ codering van de inhoud van het besluit om geen gegevens aan derden te verstrekke
 
 ####bij artikel 68, tweede lid, van het Besluit gemeentelijke basisadministratie persoonsgegevens (bijlage 5)
 
-Raadpleeg voor deze bijlage Stb. 1997/723.  
+![249451](http://wetten.overheid.nl/Illustration/249451)
+![249451](http://wetten.overheid.nl/Illustration/249451)
 
 ### Bijlage  5a  
 

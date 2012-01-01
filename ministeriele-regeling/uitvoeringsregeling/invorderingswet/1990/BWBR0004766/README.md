@@ -375,7 +375,7 @@ c. overige inkomsten met uitzondering van:
 
 7°. het kindgebonden budget, bedoeld in de [Wet op het kindgebonden budget](../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md);  
 
-8°. het bedrag, bedoeld in [artikel 3, eerste lid, van het Tijdelijk besluit bevordering arbeidsinschakeling alleenstaande ouders WWB](../../../../../AMvB/tijdelijk/besluit/bevordering/arbeidsinschakeling/alleenstaande/ouders/wwb/BWBR0024439/README.md), en de premie, bedoeld in [artikel 3, vierde en vijfde lid, van dat besluit](../../../../../AMvB/tijdelijk/besluit/bevordering/arbeidsinschakeling/alleenstaande/ouders/wwb/BWBR0024439/README.md);  
+8°.  vervallen;   
 
 9°. de inkomsten uit arbeid, bedoeld in [artikel 31, tweede lid, onderdeel n, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 

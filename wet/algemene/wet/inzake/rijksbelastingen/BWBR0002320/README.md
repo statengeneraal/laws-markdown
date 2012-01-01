@@ -70,7 +70,15 @@ j. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de W
 
 k. sociaal-fiscaalnummer: het nummer dat door de rijksbelastingdienst is toegekend aan de natuurlijke persoon aan wie geen burgerservicenummer is toegekend;  
 
-l. partner: persoon als bedoeld in artikel 5a.     
+l. partner: persoon als bedoeld in artikel 5a;  
+
+m. algemeen nut beogende instelling: een instelling als bedoeld in artikel 5b;  
+
+n. culturele instelling: een instelling als bedoeld in artikel 5b, vierde lid;  
+
+o. sociaal belang behartigende instelling: een instelling als bedoeld in artikel 5c;  
+
+p. steunstichting SBBI: een stichting als bedoeld in artikel 5d.     
 4.  Het in de belastingwet genoemde bestuur van ’s Rijks belastingen wordt uitgeoefend door de door Onze Minister aangewezen ambtenaren.   
 5.  Hetgeen bij of krachtens deze wet wordt bepaald inzake de in het derde lid, onderdeel e, bedoelde voorlopige aanslag, aanslag of navorderingsaanslag, is van overeenkomstige toepassing met betrekking tot de in dat onderdeel bedoelde voorlopige conserverende aanslag, onderscheidenlijk conserverende aanslag of conserverende navorderingsaanslag, met dien verstande dat: 
 
@@ -115,6 +123,70 @@ b. hij niet meer op hetzelfde woonadres in de gemeentelijke basisadministratie p
 6.  Bij ministeriële regeling kunnen regels worden gesteld op basis waarvan iemand die niet in Nederland woont, geacht wordt op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland.   
 7.  Personen die partners waren op grond van het eerste lid, onderdeel b, blijven als partners aangemerkt nadat de in dat onderdeel bedoelde inschrijving op hetzelfde woonadres niet langer mogelijk is als gevolg van opname in een verpleeghuis of verzorgingshuis vanwege medische redenen of ouderdom van een van hen, zolang na het einde van die inschrijving op hetzelfde woonadres ten aanzien van geen van beiden een derde persoon als partner wordt aangemerkt. De eerste volzin vindt geen toepassing meer indien één van beiden door middel van een schriftelijke kennisgeving aan de inspecteur laat weten dat zij niet langer als partners willen worden aangemerkt. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit lid.   
 
+### Artikel  5b  
+
+1.  Een algemeen nut beogende instelling is: 
+
+a. een instelling – niet zijnde een vennootschap met in aandelen verdeeld kapitaal, een coöperatie, een onderlinge waarborgmaatschappij of een ander lichaam waarin bewijzen van deelgerechtigdheid kunnen worden uitgegeven – die: 
+
+1°. uitsluitend of nagenoeg uitsluitend het algemeen nut beoogt;  
+
+2°. voldoet aan bij ministeriële regeling te stellen voorwaarden;  
+
+3°. gevestigd is in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat, en  
+
+4°. door de daartoe bevoegde inspecteur als zodanig is aangemerkt;    
+
+b. een niet in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat gevestigde, door Onze Minister als zodanig aangemerkte instelling indien en zolang zij voldoet aan de door hem te stellen voorwaarden.     
+2.  Publiekrechtelijke lichamen als bedoeld in [artikel 1, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn algemeen nut beogende instellingen.   
+3.  Als algemeen nut in de zin van dit artikel wordt beschouwd: 
+
+a. welzijn;  
+
+b. cultuur;  
+
+c. onderwijs, wetenschap en onderzoek;  
+
+d. bescherming van natuur en milieu, daaronder begrepen bevordering van duurzaamheid;  
+
+e. gezondheidszorg;  
+
+f. jeugd- en ouderenzorg;  
+
+g. ontwikkelingssamenwerking;  
+
+h. dierenwelzijn;  
+
+i. religie, levensbeschouwing en spiritualiteit;  
+
+j. de bevordering van de democratische rechtsorde;  
+
+k. een combinatie van de bovengenoemde doelen, alsmede  
+
+l. het financieel of op andere wijze ondersteunen van een algemeen nut beogende instelling.     
+4.  Een algemeen nut beogende instelling die zich uitsluitend of nagenoeg uitsluitend richt op cultuur, kan verzoeken tevens te worden aangemerkt als culturele instelling.   
+5.  Het aanmerken als een algemeen nut beogende instelling of als culturele instelling geschiedt op verzoek van de instelling. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking eventueel onder door hem te stellen voorwaarden. In afwijking van de eerste volzin kan de inspecteur een categorie instellingen dan wel een groep met elkaar verbonden instellingen bij één voor bezwaar vatbare beschikking aanmerken als instellingen als bedoeld in het eerste lid, ook zonder dat een daartoe strekkend verzoek is gedaan door die instellingen.   
+6.  Een instelling als bedoeld in het eerste lid, wordt door de inspecteur bij voor bezwaar vatbare beschikking niet meer als zodanig aangemerkt met ingang van het tijdstip waarop deze instelling niet langer uitsluitend of nagenoeg uitsluitend een algemeen nut beogend karakter heeft, niet meer voldoet aan de bij ministeriële regeling gestelde voorwaarden dan wel niet meer is gevestigd als aangegeven in het eerste lid. Een instelling als bedoeld in het vierde lid wordt door de inspecteur bij voor bezwaar vatbare beschikking niet meer als zodanig aangemerkt met ingang van het tijdstip waarop deze instelling zich niet langer uitsluitend of nagenoeg uitsluitend richt op cultuur. Het tijdstip van intrekking kan liggen voor de datum van de dagtekening van de beschikking.   
+7.  Een instelling wordt eveneens door de inspecteur niet, of niet langer, als algemeen nut beogende instelling aangemerkt indien de instelling, een bestuurder van die instelling of een persoon die feitelijk leiding geeft aan die instelling, dan wel een voor de instelling gezichtsbepalend persoon onherroepelijk is veroordeeld wegens aanzetten tot haat, aanzetten tot geweld of gebruik van geweld en nog geen vier kalenderjaren zijn verstreken sinds deze veroordeling.   
+8.  Voor de toepassing van het vierde tot en met zevende lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
+
+### Artikel  5c  
+
+Een sociaal belang behartigende instelling is een instelling: 
+
+a. die in overeenstemming met haar regelgeving een sociaal belang behartigt;  
+
+b. die niet aan een winstbelasting is onderworpen dan wel daarvan is vrijgesteld;  
+
+c. die aan de leden van het orgaan van de instelling dat het beleid bepaalt ter zake van de door die leden voor de instelling verrichte werkzaamheden geen andere beloning toekent dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;  
+
+d. die is gevestigd in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat.    
+
+### Artikel  5d  
+
+1.  Een steunstichting SBBI is een stichting die voldoet aan bij ministeriële regeling te stellen voorwaarden en die is opgericht uitsluitend met het doel geld in te zamelen ter ondersteuning van een sociaal belang behartigende instelling ten behoeve van een bij ministeriële regeling aan te wijzen doel.   
+2.  Het ontwerp van een ministeriële regeling als bedoeld in het eerste lid wordt ten minste vier weken voordat de regeling wordt vastgesteld, overgelegd aan de beide kamers der Staten-Generaal.   
+
 ### Hoofdstuk  II  
 
 ####Aangifte
@@ -145,6 +217,7 @@ b. onder welke voorwaarden hiervan door de inspecteur bij voor bezwaar vatbare b
 3.  Het doen van aangifte is geen aanvraag in de zin van [artikel 1:3, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 4.  Bij ontvangst van de aangifte wordt desverlangd een ontvangstbevestiging afgegeven.   
 5.  Bij ministeriële regeling kan worden bepaald in welke gevallen en onder welke voorwaarden de inspecteur ontheffing kan verlenen van de verplichting de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan in te leveren of toe te zenden.   
+6.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken aan de inspecteur tot ontheffing op grond van bepalingen krachtens het tweede lid, onderdeel b.   
 
 ### Artikel  9  
 
@@ -453,11 +526,11 @@ Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door d
 
 1.  Het griffierecht bedraagt, in afwijking van [artikel 8:41, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md): 
 
-a. € 41 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit dan een besluit als bedoeld in onderdeel b;  
+a. € 42 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit dan een besluit als bedoeld in onderdeel b;  
 
-b. € 152 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit met betrekking tot de toepassing van de [Wet op de dividendbelasting 1965](../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de [Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), de [Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) of de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
+b. € 156 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit met betrekking tot de toepassing van de [Wet op de dividendbelasting 1965](../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md), de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de [Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), de [Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) of de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
-c. € 302 indien anders dan door een natuurlijke persoon beroep is ingesteld.     
+c. € 310 indien anders dan door een natuurlijke persoon beroep is ingesteld.     
 2.  De in het eerste lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   
 
 ### Artikel  27c  
@@ -532,12 +605,12 @@ b. een andere beslissing van de rechtbank.
 1.  Van de indiener van het beroepschrift wordt door de griffier van het gerechtshof een griffierecht geheven. Indien het een beroepschrift ter zake van twee of meer samenhangende uitspraken betreft, is eenmaal griffierecht verschuldigd. In dat geval bedraagt het griffierecht het hoogste op grond van het tweede lid verschuldigde bedrag.   
 2.  Het griffierecht bedraagt: 
 
-a. € 112 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak inzake een ander besluit dan een besluit als bedoeld in onderdeel b;  
+a. € 115 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak inzake een ander besluit dan een besluit als bedoeld in onderdeel b;  
 
-b. € 227 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak inzake een besluit als bedoeld in artikel 27b, eerste lid, onderdeel b;  
+b. € 232 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak inzake een besluit als bedoeld in artikel 27b, eerste lid, onderdeel b;  
 
-c. € 454 indien anders dan door een natuurlijke persoon hoger beroep is ingesteld.     
-3.  Indien de inspecteur hoger beroep heeft ingesteld en de uitspraak van de rechtbank in stand blijft, wordt van de Staat een griffierecht geheven van € 454.   
+c. € 466 indien anders dan door een natuurlijke persoon hoger beroep is ingesteld.     
+3.  Indien de inspecteur hoger beroep heeft ingesteld en de uitspraak van de rechtbank in stand blijft, wordt van de Staat een griffierecht geheven van € 466.   
 4.  [Artikel 8:41, tweede en vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
 5.  De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voorzover de consumentenprijsindex daartoe aanleiding geeft.   
 
@@ -628,12 +701,12 @@ Op de behandeling van het beroep in cassatie zijn de [artikelen 8:14 tot en met 
 1.  Van de indiener van het beroepschrift wordt door de griffier van de Hoge Raad een griffierecht geheven. Indien het een beroepschrift ter zake van twee of meer samenhangende uitspraken betreft, is eenmaal griffierecht verschuldigd. In dat geval bedraagt het griffierecht het hoogste op grond van het tweede lid verschuldigde bedrag.   
 2.  Het griffierecht bedraagt: 
 
-a. € 112 indien door een natuurlijke persoon beroep in cassatie is ingesteld tegen een uitspraak inzake een ander besluit dan bedoeld in onderdeel b;  
+a. € 115 indien door een natuurlijke persoon beroep in cassatie is ingesteld tegen een uitspraak inzake een ander besluit dan bedoeld in onderdeel b;  
 
-b. € 227 indien door een natuurlijke persoon beroep in cassatie is ingesteld tegen een uitspraak inzake een besluit als bedoeld in artikel 27b, eerste lid, onderdeel b;  
+b. € 232 indien door een natuurlijke persoon beroep in cassatie is ingesteld tegen een uitspraak inzake een besluit als bedoeld in artikel 27b, eerste lid, onderdeel b;  
 
-c. € 454 indien anders dan door een natuurlijke persoon beroep in cassatie is ingesteld.     
-3.  Indien Onze Minister beroep in cassatie heeft ingesteld en de uitspraak van het gerechtshof in stand blijft, wordt van de Staat een griffierecht geheven van € 454.   
+c. € 466 indien anders dan door een natuurlijke persoon beroep in cassatie is ingesteld.     
+3.  Indien Onze Minister beroep in cassatie heeft ingesteld en de uitspraak van het gerechtshof in stand blijft, wordt van de Staat een griffierecht geheven van € 466.   
 4.  [Artikel 8:41, tweede en vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
 5.  De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   
 
@@ -815,13 +888,13 @@ De termijnen van artikel 11, derde lid, artikel 16, derde en vierde lid, en arti
 
 ### Artikel  37  
 
-1.  Bij algemene maatregel van bestuur kunnen, met inachtneming van het beginsel van wederkerigheid, regelen worden gesteld, waardoor in aansluiting aan de desbetreffende bepalingen voorkomende in de wetgeving van een ander deel van het Koninkrijk of van een andere Mogendheid dan wel in de besluiten van een volkenrechtelijke organisatie, dubbele belasting geheel of gedeeltelijk wordt voorkomen.   
-2.  Bij algemene maatregel van bestuur kunnen ter voorkoming van dubbele belasting in gevallen waarin daaromtrent niet op andere wijze is voorzien, regels worden gesteld ten einde gehele of gedeeltelijke vrijstelling of vermindering te verlenen van de belasting die betrekking heeft op inkomen of vermogen uit de BES eilanden.   
+1.  Bij of krachtens algemene maatregel van bestuur kunnen, met inachtneming van het beginsel van wederkerigheid, regelen worden gesteld, waardoor in aansluiting aan de desbetreffende bepalingen voorkomende in de wetgeving van een ander deel van het Koninkrijk of van een andere Mogendheid dan wel in de besluiten van een volkenrechtelijke organisatie, dubbele belasting geheel of gedeeltelijk wordt voorkomen.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen ter voorkoming van dubbele belasting in gevallen waarin daaromtrent niet op andere wijze is voorzien, regels worden gesteld ten einde gehele of gedeeltelijke vrijstelling of vermindering te verlenen van de belasting die betrekking heeft op inkomen of vermogen uit de BES eilanden.   
 3.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  38  
 
-1.  Bij algemene maatregel van bestuur kunnen ter voorkoming van dubbele belasting in gevallen waarin daaromtrent niet op andere wijze is voorzien, regelen worden gesteld ten einde gehele of gedeeltelijke vrijstelling of vermindering van belasting te verlenen, indien en voor zover het voorwerp van de belasting is onderworpen aan een belasting die vanwege een ander land van het Koninkrijk, een andere Mogendheid of een volkenrechtelijke organisatie wordt geheven.   
+1.  Bij of krachtens algemene maatregel van bestuur kunnen ter voorkoming van dubbele belasting in gevallen waarin daaromtrent niet op andere wijze is voorzien, regelen worden gesteld ten einde gehele of gedeeltelijke vrijstelling of vermindering van belasting te verlenen, indien en voor zover het voorwerp van de belasting is onderworpen aan een belasting die vanwege een ander land van het Koninkrijk, een andere Mogendheid of een volkenrechtelijke organisatie wordt geheven.   
 2.  Belastbaar loon uit tegenwoordige arbeid wordt voor de toepassing van het eerste lid geacht te zijn onderworpen aan een belasting die vanwege een andere Mogendheid wordt geheven, indien zij wordt genoten uit privaatrechtelijke dienstbetrekking tot een werkgever die is gevestigd in een lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voorzover dat loon betrekking heeft op arbeid die gedurende ten minste drie aaneengesloten maanden wordt verricht binnen het gebied van een Mogendheid waarmee Nederland geen verdrag ter voorkoming van dubbele belasting heeft gesloten en met betrekking waartoe geen regelen zijn gesteld op grond van artikel 37. Voor de toepassing van de vorige volzin omvat het gebied van een andere Mogendheid mede het gebied buiten de territoriale wateren van die Mogendheid waar deze in overeenstemming met het internationale recht soevereine rechten kan uitoefenen. Onze Minister is bevoegd voor bepaalde gevallen of groepen van gevallen te bepalen dat loon betrekking heeft op arbeid die gedurende ten minste drie aaneengesloten maanden wordt verricht.   
 
 ### Artikel  39  
@@ -1077,11 +1150,11 @@ a. de artikelen 6, derde lid, 43, 44, 47b, tweede lid, 49, tweede lid, en 50, ee
 
 b. [artikel 7, tweede lid, van de Wet op de kansspelbelasting](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
-c. de [artikelen 28, aanhef en onderdelen a, b, d, en e](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [29](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35d](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35e, aanhef en onderdelen a, b, d, en e](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35k](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35l](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [35m, aanhef en onderdelen a en c, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+c. de [artikelen 28, eerste lid, aanhef en onderdelen a, b, d en e](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [29](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35d](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35e, aanhef en onderdelen a, b, d en e](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35k](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35l](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [35m, aanhef en onderdelen a en c, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
 d. [artikel 9, eerste lid, van de Wet op de dividendbelasting 1965](../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md);  
 
-e. [artikel 35, eerste, tweede, en derde lid, van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), of  
+e. de [artikelen 35, eerste, tweede en vijfde lid](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [35a, eerste lid, van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), of  
 
 f. [artikel 54 van de Wet op belastingen van rechtsverkeer](../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md), begaat een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 4 920 kan opleggen.     
 2.  De bevoegdheid tot het opleggen van de in het eerste lid bedoelde boete vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de verplichting is ontstaan.   
@@ -1291,7 +1364,7 @@ Bij het opsporen van een bij de belastingwet strafbaar gesteld feit hebben de in
 
 ### Artikel  84  
 
-Ten dienste van de vervolging en berechting van bij de belastingwet strafbaar gestelde feiten kan Onze Minister, in overeenstemming met Onze Minister van Justitie, ambtenaren van de rijksbelastingdienst aanwijzen, die het contact onderhouden met het openbaar ministerie.  
+Ten dienste van de vervolging en berechting van bij de belastingwet strafbaar gestelde feiten kan Onze Minister, in overeenstemming met Onze Minister van Veiligheid en Justitie, ambtenaren van de rijksbelastingdienst aanwijzen, die het contact onderhouden met het openbaar ministerie.  
 
 ### Artikel  85  
 

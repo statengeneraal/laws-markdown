@@ -5,24 +5,24 @@
 De Minister van Financiën;  
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Verkeer en Waterstaat;
 
-Gelet op [artikel 2, tweede lid, van de Wet financiering decentrale overheden](../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md),
+Gelet op artikel 2, tweede lid, van de Wet financiering decentrale overheden,
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *de wet:* de [Wet financiering decentrale overheden](../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md);  
+a. *de wet:* de Wet financiering decentrale overheden;  
 
 b. *lidstaat:* staat die lid is van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
 
-c. *financiële onderneming:* een onderneming die in een lidstaat het bedrijf van kredietinstelling mag uitoefenen, beleggingsdiensten mag verlenen, beleggingsinstellingen mag beheren, rechten van deelneming in een beleggingsmaatschappij mag aanbieden, of het bedrijf van verzekeraar mag uitoefenen.  
+c. *financiële onderneming:* een onderneming die in een lidstaat het bedrijf van bank mag uitoefenen, beleggingsdiensten mag verlenen, beleggingsinstellingen mag beheren, rechten van deelneming in een beleggingsmaatschappij mag aanbieden, of het bedrijf van verzekeraar mag uitoefenen.  
 
 d. *solvabiliteitsratio:* het in een lidstaat voor een financiële onderneming voorgeschreven minimumniveau aansprakelijk vermogen tegenover aangehouden naar risicograad gewogen activum;  
 
 e. *vastrentende waarden:* openbare en onderhandse leningen;  
 
-f. *nazorgfondsen:* fondsen als bedoeld in [artikel 15.47 van de Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+f. *nazorgfondsen:* fondsen als bedoeld in artikel 15.47 van de Wet Milieubeheer.  
 
 g. *rating:* taxatie van de kredietwaardigheid van een financiële onderneming of een land, bepaald door een ratingbureau;  
 
@@ -48,7 +48,7 @@ b. voor henzelf of voor de door hen uitgegeven waardepapieren kunnen aantonen da
 
 ### Artikel  3  
 
-Openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de wet](../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md), zetten uitsluitend gelden uit in de vorm van: 
+Openbare lichamen als bedoeld in artikel 1, onderdeel a, van de wet, zetten uitsluitend gelden uit in de vorm van: 
 
 a. producten waarbij de hoofdsom tenminste aan het einde van de looptijd intact is, uitgezet bij een instelling die voldoet aan artikel 2;  
 
@@ -70,7 +70,7 @@ b. overige uitzettingen tegen rente bij een instelling die voldoet aan artikel 2
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de datum waarop de [Wet financiering decentrale overheden](../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md) in werking treedt.  
+Deze regeling treedt in werking met ingang van de datum waarop de Wet financiering decentrale overheden in werking treedt.  
 
 ### Artikel  6  
 

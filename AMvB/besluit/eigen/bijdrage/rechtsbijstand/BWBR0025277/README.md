@@ -36,35 +36,35 @@ d. *diagnosedocument:* een schriftelijk document, opgesteld in het kader van de 
 
 1.  De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen: 
 
-a. € 125,–, indien het inkomen niet hoger is dan € 16 800,– per 1 januari 2011: € 17.300.;  
+a. € 125,– per 1 januari 2012: € 127., indien het inkomen niet hoger is dan € 16 800,– per 1 januari 2012: € 17.500.;  
 
-b. € 183,–, indien het inkomen meer dan € 16 800,– per 1 januari 2011: € 17.300. en ten hoogste € 17 300,– per 1 januari 2011: € 17.900. bedraagt;  
+b. € 183,– per 1 januari 2012: € 186., indien het inkomen meer dan € 16 800,– per 1 januari 2012: € 17.500. en ten hoogste € 17 300,– per 1 januari 2012: € 18.200. bedraagt;  
 
-c. € 297,–, indien het inkomen meer dan € 17 300,– per 1 januari 2011: € 17.900. en ten hoogste € 18 200,– per 1 januari 2011: € 18.900. bedraagt;  
+c. € 297,– per 1 januari 2012: € 301., indien het inkomen meer dan € 17 300,– per 1 januari 2012: € 18.200. en ten hoogste € 18 200,– per 1 januari 2012: € 19.200. bedraagt;  
 
-d. € 503,–, indien het inkomen meer dan € 18 200,– per 1 januari 2011: € 18.900. en ten hoogste € 20 000,– per 1 januari 2011: € 20.700. bedraagt; en  
+d. € 503,– per 1 januari 2012: € 510., indien het inkomen meer dan € 18 200,– per 1 januari 2012: € 19.200. en ten hoogste € 20 000,– per 1 januari 2012: € 21.000. bedraagt; en  
 
-e. € 775,–, indien het inkomen meer dan € 20 000,– per 1 januari 2011: € 20.700. en ten hoogste € 23 800,– per 1 januari 2011: € 24.600. bedraagt.     
+e. € 775,– per 1 januari 2012: € 786., indien het inkomen meer dan € 20 000,– per 1 januari 2012: € 21.000. en ten hoogste € 23 800,– per 1 januari 2012: € 24.900. bedraagt.     
 2.  De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt in andere gevallen: 
 
-a. € 125,–, indien het inkomen niet hoger is dan € 23 400,– per 1 januari 2011: € 24.200.;  
+a. € 125,– per 1 januari 2012: € 127., indien het inkomen niet hoger is dan € 23 400,– per 1 januari 2012: € 24.500.;  
 
-b. € 183,–, indien het inkomen meer dan € 23 400,– per 1 januari 2011: € 24.200. en ten hoogste € 24 200,– per 1 januari 2011: € 25.000. bedraagt;  
+b. € 183,– per 1 januari 2012: € 186., indien het inkomen meer dan € 23 400,– per 1 januari 2012: € 24.500. en ten hoogste € 24 200,– per 1 januari 2012: € 25.400. bedraagt;  
 
-c. € 297,–, indien het inkomen meer dan € 24 200,– per 1 januari 2011: € 25.000. en ten hoogste € 25 500,– per 1 januari 2011: € 26.300. bedraagt;  
+c. € 297,– per 1 januari 2012: € 301., indien het inkomen meer dan € 24 200,– per 1 januari 2012: € 25.400. en ten hoogste € 25 500,– per 1 januari 2012: € 26.700. bedraagt;  
 
-d. € 503,–, indien het inkomen meer dan € 25 500,– per 1 januari 2011: € 26.300. en ten hoogste € 28 300,– per 1 januari 2011: € 29.300. bedraagt; en  
+d. € 503,– per 1 januari 2012: € 510., indien het inkomen meer dan € 25 500,– per 1 januari 2012: € 26.700. en ten hoogste € 28 300,– per 1 januari 2012: € 29.700. bedraagt; en  
 
-e. € 775,–, indien het inkomen meer dan € 28 300,– per 1 januari 2011: € 29.300. en ten hoogste € 33 600,– per 1 januari 2011: € 34.700. bedraagt.     
+e. € 775,– per 1 januari 2012: € 786., indien het inkomen meer dan € 28 300,– per 1 januari 2012: € 29.700. en ten hoogste € 33 600,– per 1 januari 2012: € 35.200. bedraagt.     
 3.  In afwijking van het eerste onderscheidenlijk tweede lid bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies, in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen onderscheidenlijk in andere gevallen: 
 
-a. € 39,– per 1 januari 2011: € 40., indien het inkomen ten hoogste € 17 300,– per 1 januari 2011: € 17.900. onderscheidenlijk ten hoogste € 24 200,– per 1 januari 2011: € 25.000. bedraagt; en  
+a. € 39,– per 1 januari 2012: € 41., indien het inkomen ten hoogste € 17 300,– per 1 januari 2012: € 18.200. onderscheidenlijk ten hoogste € 24 200,– per 1 januari 2012: € 25.400. bedraagt; en  
 
-b. € 72,– per 1 januari 2011: € 75., indien het inkomen meer dan € 17 300,– per 1 januari 2011: € 17.900. en ten hoogste € 23 800,– per 1 januari 2011: € 24.600. onderscheidenlijk meer dan € 24 200,– per 1 januari 2011: € 25.000. en ten hoogste € 33 600,– per 1 januari 2011: € 34.700. bedraagt.     
+b. € 72,– per 1 januari 2012: € 76., indien het inkomen meer dan € 17 300,– per 1 januari 2012: € 18.200. en ten hoogste € 23 800,– per 1 januari 2012: € 24.900. onderscheidenlijk meer dan € 24 200,– per 1 januari 2012: € 25.400. en ten hoogste € 33 600,– per 1 januari 2012: € 35.200. bedraagt.     
 4.  Indien een natuurlijk persoon blijkens een betalingsbewijs de eigen bijdrage, bedoeld in het derde lid, heeft voldaan, wordt deze in mindering gebracht op de eigen bijdrage die hij in geval van een wijziging van de toevoeging als bedoeld in [artikel 24a, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) overeenkomstig het eerste of tweede lid voor de verlening van rechtsbijstand op basis van een toevoeging is verschuldigd.   
-5.  De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt € 775,–.   
-6.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in artikel 7, tweede lid, of artikel 8, tweede lid, van de wet, en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– verlaagd.   
-7.  In afwijking van het zesde lid wordt de eigen bijdrage, die een natuurlijke persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, verlaagd met € 50,– indien de rechtsbijstand wordt verleend: 
+5.  De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt € 775,– per 1 januari 2012: € 786..   
+6.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in artikel 7, tweede lid, of artikel 8, tweede lid, van de wet, en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2012: € 51. verlaagd.   
+7.  In afwijking van het zesde lid wordt de eigen bijdrage, die een natuurlijke persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, verlaagd met € 50,– per 1 januari 2012: € 51. indien de rechtsbijstand wordt verleend: 
 
 a. in een strafzaak in eerste aanleg jegens een verdachte als bedoeld in [artikel 1, onderdeel d, van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md);  
 
@@ -79,7 +79,7 @@ e. bij het inbrengen van een zienswijze tegen het voornemen om een verblijfsverg
 f. in een zaak omtrent het opleggen van een sanctie als bedoeld in [artikel 5:2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
 g. in een zaak in hoger beroep of cassatie.     
-8.  Het bestuur kan beslissen om de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het zesde lid alvorens een toevoeging aan te vragen.   
+8.  Het bestuur kan beslissen om de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2012: € 51. te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het zesde lid alvorens een toevoeging aan te vragen.   
 
 ### Artikel  3  
 
@@ -88,7 +88,7 @@ g. in een zaak in hoger beroep of cassatie.
 
 ### Artikel  4  
 
-1.  In afwijking van artikel 2, eerste en tweede lid, bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, 125,–, indien het gaat om de verlening van rechtsbijstand: 
+1.  In afwijking van artikel 2, eerste en tweede lid, bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, 125,– per 1 januari 2012: € 127., indien het gaat om de verlening van rechtsbijstand: 
 
 a. in hoger beroep tegen de afwijzing van het verzoek om toepassing van de schuldsaneringsregeling, bedoeld in [artikel 292 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
 
@@ -109,8 +109,8 @@ d. in de periode gedurende welke een schriftelijk vastgelegd akkoord met betrekk
 5°. de termijn gedurende welke het saneringsplan van kracht is, met een maximum van drie jaar; en  
 
 6°. dat, indien een organisatie de sanering begeleidt, deze organisatie telkens na verloop van zes maanden ten behoeve van de schuldeisers een verslag uitbrengt over de uitvoering van het saneringsplan alsmede een voorstel doet voor de aanpassing van het bedrag dat buiten de boedel wordt gelaten.       
-2.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in [artikel 7, tweede lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of [artikel 8, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– verlaagd.   
-3.  Het bestuur kan beslissen om de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het tweede lid alvorens een toevoeging aan te vragen.   
+2.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in [artikel 7, tweede lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of [artikel 8, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2012: € 51. verlaagd.   
+3.  Het bestuur kan beslissen om de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2012: € 51. te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het tweede lid alvorens een toevoeging aan te vragen.   
 
 ### Artikel  5  
 

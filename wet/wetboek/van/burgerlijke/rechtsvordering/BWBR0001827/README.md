@@ -771,7 +771,7 @@ Wijzen de artikelen 99 tot en met 108 of een krachtens artikel 108a vastgestelde
 ### Artikel  111  
 
 1.  Dagvaarding geschiedt bij exploot.   
-2.  Naast de gegevens bedoeld in artikel 45, tweede lid, vermeldt het exploot van dagvaarding: 
+2.  Naast de gegevens bedoeld in artikel 45, derde lid, vermeldt het exploot van dagvaarding: 
 
 a. de door eiser gekozen woonplaats in Nederland;  
 
@@ -5891,6 +5891,18 @@ Tegen de beschikking op het verzoek staat geen voorziening open, onverminderd ar
 a. binnen drie maanden, te rekenen van de eerste roldatum, dan wel, indien de beschikking nadien is gegeven, binnen drie maanden, te rekenen van de dag van de uitspraak van de beschikking, met dien verstande dat de appellant, binnen de grenzen van artikel 332, in het hoger beroep slechts ontvankelijk zal zijn, indien de rechter in eerste aanleg deze mogelijkheid heeft geopend op een daartoe binnen dezelfde termijn door een der partijen gedaan verzoek, waarover de wederpartij is gehoord;  
 
 b. tegelijk met het hoger beroep van het eindvonnis.     
+
+### Titel  18  
+
+####Van rechtspleging in zaken betreffende een arbeidsovereenkomst op grond waarvan de werknemer arbeid verricht op het continentaal plat
+
+### Artikel  1019dd  
+
+1.  De kantonrechter van de rechtbank te Alkmaar is mede bevoegd kennis te nemen van zaken betreffende een arbeidsovereenkomst, op grond waarvan de werknemer arbeid verricht op het continentaal plat.   
+2.  De grossen als bedoeld in artikel 430, eerste lid, betreffende zaken als bedoeld in het eerste lid van dit artikel kunnen mede op het continentaal plat worden ten uitvoer gelegd.   
+3.  Geschillen die in verband met de executie betreffende zaken als bedoeld in het eerste lid van dit artikel rijzen, kunnen mede worden gebracht voor de rechtbank te Alkmaar.   
+4.  Het verlof vereist voor het leggen van conservatoir beslag op zaken die zich op het continentaal plat bevinden kan mede worden verzocht aan de voorzieningenrechter van de rechtbank te Alkmaar.   
+5.  Onder continentaal plat als bedoeld in deze titel wordt verstaan: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland.   
 
 ### Vierde  Boek  
 

@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ####Reikwijdte en definitie
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.11](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.64](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.126](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.126a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.127](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.25](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.22](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.1](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.25](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [10.8](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.11](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.64](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.126](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.126a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.127](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.25](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.22](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.1](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.25](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [10.8](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 2.  Dit besluit verstaat onder wet: de [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 
 ### Hoofdstuk  2  
@@ -143,6 +143,16 @@ De dividendbelasting geheven over dividenden uit rechten die tot de bezittingen,
 3.  De voordelen die ingevolge het eerste lid buiten aanmerking blijven, worden alsnog als winst uit onderneming in aanmerking genomen – met dien verstande dat [artikel 3.11, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) op die voordelen niet van toepassing is – indien de belastingplichtige binnen vijf jaren na het tijdstip waarop de in het eerste lid bedoelde vrijstelling op hem van toepassing is geworden, het bosbedrijf of een gedeelte van het bosbedrijf – anders dan ten gevolge van overlijden of onteigening, daaronder begrepen minnelijke onteigening en verkoop ter voorkoming van onteigening – staakt. In geval van staking van een gedeelte van het bosbedrijf worden de in de vorige volzin bedoelde voordelen slechts in aanmerking genomen voorzover deze betrekking hebben op dit gedeelte. De voordelen worden geacht te zijn genoten ten tijde van de staking.   
 4.  Voor de toepassing van het derde lid wordt niet als een staking aangemerkt een overdracht aan een persoon als bedoeld in [artikel 3.63, vierde of vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) mits zowel de belastingplichtige als degene aan wie is overgedragen dit schriftelijk verzoekt. Alsdan wordt degene aan wie is overgedragen voor de toepassing van het derde lid geacht in de plaats te zijn getreden van de belastingplichtige.   
 
+### Artikel  12bis  
+
+####Belastbare winst uit onderneming; privégebruik auto
+
+1.  Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in [artikel 3.20, elfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.   
+2.  De belastingplichtige is gehouden voordat met de bestelauto waarop de verklaring, bedoeld in het eerste lid, betrekking heeft voor privédoeleinden wordt gereden, mede te delen dat hij de verklaring intrekt.   
+3.  De mededeling, bedoeld in het tweede lid, geschiedt door het toezenden van het daartoe langs elektronische weg ter beschikking gestelde modelformulier aan de inspecteur.   
+4.  Het niet of niet tijdig doen van de mededeling, bedoeld in het tweede lid, en het niet doen van die mededeling op de in het derde lid voorgeschreven wijze worden aangemerkt als een overtreding.   
+5.  De bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het vierde lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de verplichting tot het doen van de mededeling, bedoeld in het tweede lid, is ontstaan.   
+
 ### Artikel  12a  
 
 ####Belastbare winst uit onderneming; aangewezen herstructeringsregelgeving
@@ -191,7 +201,7 @@ De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenr
 
 ####Uitgaven voor inkomensvoorzieningen via een lijfrentespaarrekening of een lijfrentebeleggingsrecht; toegelaten aanbieders
 
-1.  Als een onderneming of instelling die bevoegd als kredietinstelling of als beheerder van een beleggingsinstelling optreedt als bedoeld in [artikel 3.126a, tweede lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) kan door Onze Minister worden aangewezen een onderneming of instelling die op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevoegd is diensten naar Nederland te verrichten.   
+1.  Als een onderneming of instelling die bevoegd als bank of als beheerder van een beleggingsinstelling optreedt als bedoeld in [artikel 3.126a, tweede lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) kan door Onze Minister worden aangewezen een onderneming of instelling die op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevoegd is diensten naar Nederland te verrichten.   
 2.  Alvorens tot een aanwijzing wordt overgegaan, dient de onderneming of instelling zich tegenover Onze Minister, onder door hem te stellen voorwaarden, te verplichten om met betrekking tot de bij deze onderneming of instelling aangehouden lijfrentespaarrekeningen, onderscheidenlijk met betrekking tot de door deze onderneming of instelling beheerde lijfrentebeleggingsrechten, bedoeld in [artikel 3.126a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), inlichtingen te verstrekken over de uitvoering van de overeenkomsten en een in Nederland uitwinbare zekerheid jegens de ontvanger te stellen voor de invordering van de belasting die mocht worden verschuldigd door toepassing van de [artikelen 3.133](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.135](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [3.136 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). In afwijking van de eerste volzin behoeft een in een van de lidstaten van de Europese Unie of in een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde onderneming of instelling jegens de ontvanger geen in Nederland uitwinbare zekerheid te stellen indien deze onderneming of instelling, onder door Onze Minister te stellen voorwaarden, ingevolge een overeenkomst met de ontvanger aansprakelijkheid aanvaardt voor de in die volzin bedoelde belasting.   
 3.  De aanwijzing kan eveneens plaatsvinden indien de in het tweede lid bedoelde zekerheid niet door de onderneming of instelling maar door de belastingplichtige wordt gesteld, waarbij de belastingplichtige tevens de mogelijkheid heeft zekerheid te stellen door middel van verpanding van de aanspraken op het tegoed van een lijfrentespaarrekening, onderscheidenlijk van de aanspraken op de waarde van een lijfrentebeleggingsrecht aan de ontvanger, mits de onderneming of instelling instemt met deze verpanding.   
 4.  Artikel 14, vijfde, zesde en zevende lid, is van overeenkomstige toepassing.   
@@ -326,20 +336,21 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](../../../../../wet
 ####Waardering woningen; correctie op WOZ-waarde
 
 1.  De waarde, bedoeld in [artikel 5.20, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt gesteld op de op grond van artikel 5.20, eerste en tweede lid, van de wet, in aanmerking te nemen waarde (WOZ-waarde) vermenigvuldigd met de leegwaarderatio.   
-2.  Bij een voor het enkele gebruik van de woning verschuldigde jaarlijkse huur als percentage van de WOZ-waarde van:  
+2.  Bij een voor het enkele gebruik van de woning verschuldigde jaarlijkse huur of pacht als percentage van de WOZ-waarde van:  
 
-| meer dan  | maar niet meer dan  | bedraagt de leegwaarderatio  |
+| meer dan  | maar niet  meer dan  | bedraagt de leegwaarderatio  |
 |:---|:---|:---|
-| 0%  | 1,0%  | 60%  |
-| 1,0%  | 1,5%  | 64%  |
-| 1,5%  | 2,0%  | 68%  |
-| 2,0%  | 2,5%  | 72%  |
-| 2,5%  | 3,0%  | 75%  |
-| 3,0%  | 3,5%  | 79%  |
-| 3,5%  | 4,0%  | 82%  |
-| 4,0%  | –  | 85%  |
+| 0%  | 1,0%  | 50%  |
+| 1,0%  | 1,5%  | 54%  |
+| 1,5%  | 2,0%  | 58%  |
+| 2,0%  | 2,5%  | 63%  |
+| 2,5%  | 3,0%  | 67%  |
+| 3,0%  | 3,5%  | 72%  |
+| 3,5%  | 4,0%  | 76%  |
+| 4,0%  | 5,0%  | 81%  |
+| 5,0%  | –  | 85%  |
 
-3.  De jaarlijkse huur, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, zoals die geldt aan het begin van de verhuurperiode in het kalenderjaar. Indien de huurprijs zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.   
+3.  De jaarlijkse huur of pacht, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, onderscheidenlijk pacht, zoals die geldt aan het begin van het kalenderjaar. Indien de huurprijs, onderscheidenlijk pachtprijs, zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs, onderscheidenlijk pachtprijs, voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.   
 4.  Indien de woning een gedeelte van een gebouwd eigendom is als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), en niet als een afzonderlijke zaak vervreemd kan worden, wordt voor de toepassing van het eerste en het tweede lid de WOZ-waarde van die woning verlaagd met een bedrag van € 20 000.   
 5.  Indien van een woning een gedeelte verhuurd is, wordt slechts de WOZ-waarde van dat deel vermenigvuldigd met de leegwaarderatio. Indien de WOZ-waarde van dat deel niet is vastgesteld, wordt deze bepaald door de totale WOZ-waarde van de woning te vermenigvuldigen met de verhuurde vierkante meters en te delen door de totale oppervlakte van de woning.   
 
@@ -497,7 +508,7 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao
 
 ####Overige aanvullende regelingen; verstrekken van gegevens en inlichtingen
 
-1.  Als administratieplichtigen als bedoeld in [artikel 10.8, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, financiële instellingen, kredietinstellingen, levensverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+1.  Als administratieplichtigen als bedoeld in [artikel 10.8, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 2.  Als gegevens en inlichtingen als bedoeld in [artikel 10.8, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
 
 a. met betrekking tot betaalproducten, spaarproducten en beleggingsproducten: 
@@ -572,13 +583,22 @@ k. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen 
 
 l. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen, niet zijnde een aanspraak als bedoeld in de onderdelen e, f en k: de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar.     
 3.  Onder rente als bedoeld in het tweede lid, onderdelen a en b, wordt verstaan: hetgeen tussen de geldgever en de geldnemer is overeengekomen als vergoeding voor het gedurende de looptijd van de geldlening ter beschikking stellen van de hoofdsom. Onder spaarproducten in de zin van het tweede lid, onderdeel a, wordt niet verstaan: het geblokkeerde deel van een spaarloonrekening.   
-4.  Een administratieplichtige kan de verstrekking van gegevens en inlichtingen achterwege laten indien: 
+4.  Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door de inspecteur voorgeschreven wijze en met een door de inspecteur voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt: 
+
+a. indien de inspecteur maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;  
+
+b. indien de inspecteur jaarlijkse aanlevering gedurende het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 30 april van dat kalenderjaar;  
+
+c. indien de inspecteur jaarlijkse aanlevering na afloop van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 31 januari volgend op dat kalenderjaar.     
+5.  Een administratieplichtige kan de verstrekking van gegevens en inlichtingen achterwege laten indien: 
 
 a. naar het oordeel van de inspecteur het belang van ontvangst van de gegevens en inlichtingen niet opweegt tegen de inspanning tot verstrekking daarvan door de administratieplichtige;  
 
-b. de waarde in het economische verkeer van het recht, bedoeld in het tweede lid, onderdelen g en h, onder 1°, lager is dan het bedrag, genoemd in [artikel 5.10, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of  
+b. naar het oordeel van de inspecteur de administratieplichtige tijdelijk niet in staat is de gegevens en inlichtingen te verstrekken of niet in de gelegenheid is tijdig de gegevens en inlichtingen te verstrekken en de administratieplichtige met de inspecteur een tijdstip is overeengekomen waarop hij geacht wordt daartoe wel weer in staat onderscheidenlijk in de gelegenheid te zijn;  
 
-c. de gegevens of inlichtingen door de inspecteur zijn aangewezen als van verstrekking vrijgestelde gegevens en inlichtingen en aan de voor die vrijstelling verbonden voorwaarden is voldaan.     
+c. de waarde in het economische verkeer van het recht, bedoeld in het tweede lid, onderdelen g en h, onder 1°, lager is dan het bedrag, genoemd in [artikel 5.10, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of  
+
+d. de gegevens of inlichtingen door de inspecteur zijn aangewezen als van verstrekking vrijgestelde gegevens en inlichtingen en aan de voor die vrijstelling verbonden voorwaarden is voldaan.     
 
 ### Artikel  23  
 

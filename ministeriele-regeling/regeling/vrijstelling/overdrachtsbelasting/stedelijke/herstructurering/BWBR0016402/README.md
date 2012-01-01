@@ -17,7 +17,7 @@ a. wet: [Wet op belastingen van rechtsverkeer](../../../../../../../wet/wet/op/b
 
 b. herstructureringsplan: een plan dat beoogt uitvoering te geven aan een activiteit als bedoeld in [artikel 7, vierde lid, van de Wet stedelijke vernieuwing](../../../../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md), dan wel een plan dat beoogt (mede) uitvoering te geven aan een ontwikkelingsprogramma als bedoeld in [artikel 7, eerste lid, van die wet](../../../../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md);  
 
-c. wijkontwikkelingsmaatschappij: een in Nederland gevestigd lichaam dat bevordering van stedelijke herstructurering ten doel heeft en dat is opgericht om uitvoering te geven aan een herstructureringsplan en dat door de Minister van Infrastructuur en Milieu op voordracht van het college van burgemeester en wethouders als zodanig is aangewezen.     
+c. wijkontwikkelingsmaatschappij: een in Nederland gevestigd lichaam dat bevordering van stedelijke herstructurering ten doel heeft en dat is opgericht om uitvoering te geven aan een herstructureringsplan en dat door de Minister van Binnenlandse Zaken en Koninkrijksrelaties op voordracht van het college van burgemeester en wethouders als zodanig is aangewezen.     
 
 ### Artikel  2  
 
@@ -32,8 +32,8 @@ c. de oprichtingsakte van de wijkontwikkelingsmaatschappij;
 d. een verklaring van het college van burgemeester en wethouders dat de wijkontwikkelingsmaatschappij daadwerkelijk is belast met de uitvoering van het herstructureringsplan, bedoeld in onderdeel a; en  
 
 e. indien het een gemeente betreft die is aangewezen ingevolge [artikel 6, derde lid, tweede volzin, van de Wet stedelijke vernieuwing](../../../../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md), dan wel indien het een gemeente betreft als bedoeld in [artikel 7, vierde lid van die wet](../../../../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md): een verklaring van gedeputeerde staten dat sprake is van een herstructureringsplan.     
-2.  De Minister van Infrastructuur en Milieu beslist over de aanwijzing bij voor bezwaar vatbare beschikking.   
-3.  Het lichaam wordt als wijkontwikkelingsmaatschappij aangemerkt met ingang van de dag volgende op die waarop zij door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als zodanig is aangewezen.   
+2.  De Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist over de aanwijzing bij voor bezwaar vatbare beschikking.   
+3.  Het lichaam wordt als wijkontwikkelingsmaatschappij aangemerkt met ingang van de dag volgende op die waarop zij door de Minister van Binnenlandse Zaken en Koninkrijksrelaties als zodanig is aangewezen.   
 
 ### Artikel  3  
 
@@ -48,7 +48,7 @@ a. voor zover de onroerende zaken niet meer in het kader van het herstructurerin
 
 b. voor zover het herstructureringsplan is voltooid en de daarin betrokken onroerende zaken niet binnen een redelijke termijn worden toegedeeld aan de vennoten van de wijkontwikkelingsmaatschappij, dan wel aan hen of aan derden worden overgedragen.     
 2.  De wijkontwikkelingsmaatschappij stelt de inspecteur onverwijld in kennis zodra een omstandigheid als bedoeld in het eerste lid zich voordoet.   
-3.  De Minister van Infrastructuur en Milieu trekt de aanwijzing als bedoeld in artikel 2, tweede lid, in indien geen uitvoering meer wordt gegeven aan het herstructureringsplan.   
+3.  De Minister van Binnenlandse Zaken en Koninkrijksrelaties trekt de aanwijzing als bedoeld in artikel 2, tweede lid, in indien geen uitvoering meer wordt gegeven aan het herstructureringsplan.   
 
 ### Artikel  5  
 

@@ -44,6 +44,8 @@ k. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonde
 
 l. vreemdeling: een vreemdeling als bedoeld in de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
+m. continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland;  
+
 m. burgerservicenummer: het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md).     
 2.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met: 
 
@@ -96,7 +98,7 @@ In de uitvoering van de in deze wet geregelde verzekering wordt, voor zover bij 
 
 a. ingezetene is;  
 
-b. geen ingezetene is, doch ter zake van in Nederland in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
+b. geen ingezetene is, doch ter zake van in Nederland of op het continentaal plat in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
 2.  In afwijking van het eerste lid zijn vreemdelingen die niet rechtmatig in Nederland verblijf genieten als bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), niet verzekerd.   
 3.  In afwijking van het tweede lid zijn verzekerd: 
 

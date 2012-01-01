@@ -95,7 +95,7 @@ Het rentepercentage bedoeld in [artikel 4.25, vierde lid, van het besluit](../..
 
 1°. de begrotingsjaren 2001 en 2011 3,75 procent,  
 
-2°. de begrotingsjaren 1992 en 2002 5,00 procent,  
+2°. de begrotingsjaren 1992, 2002 en 2012 3,3 procent,  
 
 3°. de begrotingsjaren 1993 en 2003 4,00 procent,  
 
@@ -228,58 +228,58 @@ Bedragen onderwijsopslag universiteiten, bedoeld in artikel 4.11, eerste lid van
 
 | universiteit  |--- | totaalbedrag  | kwaliteit  | kwetsbare opleidingen  | bijzondere voorzieningen  |
 |:---|:---|:---|:---|:---|:---|
-| 21PB  | Universiteit Leiden  | € 6.993.304  | € 2.257.096  | € 694.050  | € 9.944.450  |
-| 21PC  | Rijksuniversiteit Groningen  | € 8.043.071  | € 3.158.592  | € 2.432.013  | € 13.633.676  |
-| 21PD  | Universiteit Utrecht  | € 11.530.092  | € 4.127.273  | –€ 2.167.476  | € 13.489.889  |
-| 21PE  | Erasmus Universiteit Rotterdam  | € 7.279.214  | € 1.363.305  | € 6.919.791  | € 15.562.310  |
-| 21PF  | Technische Universiteit Delft  | € 6.650.223  | € 5.556.921  | € 12.077.322  | € 24.284.466  |
-| 21PG  | Technische Universiteit Eindhoven  | € 3.094.588  | € 2.970.306  | € 246.843  | € 6.311.737  |
-| 21PH  | Universiteit Twente  | € 4.221.242  | € 4.019.568  | € 15.508.903  | € 23.749.713  |
-| 21PJ  | Universiteit Maastricht  | € 5.481.600  | € 1.034.246  | € 10.133.741  | € 16.649.587  |
-| 21PK  | Universiteit van Amsterdam  | € 9.950.161  | € 2.638.121  | € 222.204  | € 12.810.486  |
-| 21PL  | Vrije Universiteit Amsterdam  | € 7.844.527  | € 1.518.753  | € 1.963.330  | € 11.326.610  |
-| 21PM  | Radboud Universiteit Nijmegen  | € 6.666.618  | € 2.228.852  | € 2.428.056  | € 11.323.526  |
-| 21PN  | Universiteit van Tilburg  | € 3.171.463  | € 280.126  | € 8.089.213  | € 11.540.802  |
-| 22NC  | Open Universiteit  | € 1.343.457  | € 253.277  | € 2.032.200  | € 3.628.934  |
-| 00DV  | Protestantse Theologische Universiteit  | € 263.271  | --- | € 4.403.406  | € 4.666.677  |
-| 21QO  | Theologische Universiteit Apeldoorn  | € 48.007  | --- | € 564.203  | € 612.210  |
-| 23BF  | Universiteit voor Humanistiek  | € 136.084  | --- | € 1.124.777  | € 1.260.861  |
-| 25AV  | Theologische Universiteit Kampen  | € 41.040  | --- | € 797.607  | € 838.647  |
-| --- | Totaal  | € 82.757.962  | € 31.406.436  | € 67.470.183  | € 181.634.581  |
+| 21PB  | Universiteit Leiden  | € 2.271.679  | € 2.111.585  | € 832.212  | € 5.215.476  |
+| 21PC  | Rijksuniversiteit Groningen  | € 2.828.601  | € 2.360.477  | € 1.417.764  | € 6.606.842  |
+| 21PD  | Universiteit Utrecht  | € 3.912.304  | € 5.296.672  | –€ 1.160.560  | € 8.048.416  |
+| 21PE  | Erasmus Universiteit Rotterdam  | € 2.183.786  | € 285.729  | € 7.593.362  | € 10.062.877  |
+| 21PF  | Technische Universiteit Delft  | € 2.077.905  | € 5.556.921  | € 10.764.151  | € 18.398.977  |
+| 21PG  | Technische Universiteit Eindhoven  | € 1.002.861  | € 2.970.306  | € 246.843  | € 4.220.010  |
+| 21PH  | Universiteit Twente  | € 1.118.206  | € 3.090.612  | € 15.580.468  | € 19.789.286  |
+| 21PJ  | Universiteit Maastricht  | € 1.760.892  | € 380.972  | € 7.668.456  | € 9.810.320  |
+| 21PK  | Universiteit van Amsterdam  | € 3.300.862  | € 2.516.362  | € 210.405  | € 6.027.629  |
+| 21PL  | Vrije Universiteit Amsterdam  | € 2.542.810  | € 1.000.873  | € 2.033.757  | € 5.577.440  |
+| 21PM  | Radboud Universiteit Nijmegen  | € 2.345.669  | € 1.864.212  | € 1.091.953  | € 5.301.834  |
+| 21PN  | Universiteit van Tilburg  | € 1.005.250  | € 402.026  | € 4.098.547  | € 5.505.823  |
+| 22NC  | Open Universiteit  | € 430.065  | € 369.944  | € 2.032.200  | € 2.832.209  |
+| 00DV  | Protestantse Theologische Universiteit  | € 87.197  | --- | € 267.055  | € 354.252  |
+| 21QO  | Theologische Universiteit Apeldoorn  | € 16.754  | --- | --- | € 16.754  |
+| 23BF  | Universiteit voor Humanistiek  | € 43.447  | --- | --- | € 43.447  |
+| 25AV  | Theologische Universiteit Kampen  | € 15.311  | --- | --- | € 15.311  |
+| --- | Totaal  | € 26.943.599  | € 28.206.691  | € 52.676.613  | € 107.826.903  |
 
 Bedragen onderwijsopslag universiteiten met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.11, eerste lid van het besluit 
 
 | universiteit  |--- | totaalbedrag  | kwaliteit  | kwetsbare opleidingen  | bijzondere voorzieningen  |
 |:---|:---|:---|:---|:---|:---|
-| 21PI  | Wageningen University  | € 6.447.144  | € 15.000  |    | € 6.462.144  |
+| 21PI  | Wageningen University  | € 813.477  | € 15.000  | € 547.400  | € 1.375.877  |
 
 ### Bijlage  2  
 
 ####bij artikel 3, eerste lid, onderdeel b 
 
-Percentages onderwijsopslag universiteiten, bedoeld in artikel 4.11, tweede lid, van het besluit 
+Percentages onderwijsopslag universiteiten, bedoeld in artikel 4.11, tweede lid, van het besluit 
 
-| Universiteit  | percentage  |
+| universiteit  | percentage  |
 |:---|:---|
-| 21PB  | Universiteit Leiden  | 10,25679%  |
-| 21PC  | Rijksuniversiteit Groningen  | 8,33512%  |
-| 21PD  | Universiteit Utrecht  | 12,99303%  |
-| 21PE  | Erasmus Universiteit Rotterdam  | 7,22352%  |
-| 21PF  | Technische Universiteit Delft  | 9,19275%  |
-| 21PG  | Technische Universiteit Eindhoven  | 5,28297%  |
-| 21PH  | Universiteit Twente  | 5,66874%  |
-| 21PJ  | Universiteit Maastricht  | 4,30646%  |
-| 21PK  | Universiteit van Amsterdam  | 13,24212%  |
-| 21PL  | Vrije Universiteit Amsterdam  | 7,47736%  |
-| 21PM  | Radboud Universiteit Nijmegen  | 8,23584%  |
-| 21PN  | Universiteit van Tilburg  | 3,15033%  |
-| 22NC  | Open Universiteit  | 4,63497%  |
-| 00DV  | Protestantse Theologische Universiteit  | 0,00000%  |
-| 21QO  | Theologische Universiteit Apeldoorn  | 0,00000%  |
-| 23BF  | Universiteit voor Humanistiek  | 0,00000%  |
-| 25AV  | Theologische Universiteit Kampen  | 0,00000%  |
+| 21PB  | Universiteit Leiden  | 10,14384%  |
+| 21PC  | Rijksuniversiteit Groningen  | 7,98679%  |
+| 21PD  | Universiteit Utrecht  | 12,92105%  |
+| 21PE  | Erasmus Universiteit Rotterdam  | 7,05036%  |
+| 21PF  | Technische Universiteit Delft  | 8,84034%  |
+| 21PG  | Technische Universiteit Eindhoven  | 5,22397%  |
+| 21PH  | Universiteit Twente  | 5,50020%  |
+| 21PJ  | Universiteit Maastricht  | 4,37170%  |
+| 21PK  | Universiteit van Amsterdam  | 12,87417%  |
+| 21PL  | Vrije Universiteit Amsterdam  | 7,03464%  |
+| 21PM  | Radboud Universiteit Nijmegen  | 8,46901%  |
+| 21PN  | Universiteit van Tilburg  | 3,42205%  |
+| 22NC  | Open Universiteit  | 4,75673%  |
+| 00DV  | Protestantse Theologische Universiteit  | 0,91672%  |
+| 21QO  | Theologische Universiteit Apeldoorn  | 0,12552%  |
+| 23BF  | Universiteit voor Humanistiek  | 0,24794%  |
+| 25AV  | Theologische Universiteit Kampen  | 0,11497%  |
 
-Percentages onderwijsopslag universiteiten met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.11, tweede lid, van het besluit 
+Percentages onderwijsopslag universiteiten met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.11, tweede lid van het besluit 
 
 | Universiteit  | percentage  |
 |:---|:---|
@@ -293,53 +293,53 @@ Bedragen onderwijsopslag hogescholen, bedoeld in artikel 4.11, eerste lid, van h
 
 | hogeschool  |--- | totaalbedrag  | kwaliteit  | kwetsbare opleidingen  | bijzondere voorzieningen  |
 |:---|:---|:---|:---|:---|:---|
-| 00IC  | Katholieke PABO Zwolle  | € 378.185  | --- | € 48.963  | € 427.148  |
-| 00MF  | Hogeschool voor de Kunsten Utrecht  | € 2.808.546  | --- | € 1.439.617  | € 4.248.163  |
-| 01VU  | Christelijke Hogeschool Windesheim  | € 8.031.992  | --- | € 1.444.298  | € 9.476.290  |
-| 02BY  | Gerrit Rietveld Academie  | € 768.002  | --- | € 1.312.746  | € 2.080.748  |
-| 02NR  | Hotelschool Den Haag  | € 940.719  | --- | € 207.917  | € 1.148.636  |
-| 02NT  | Design Academy Eindhoven  | € 433.632  | --- | € 215.179  | € 648.811  |
-| 04CS  | Hogeschool Helicon  | € 255.320  | --- | € 48.428  | € 303.748  |
-| 07GR  | Avans Hogeschool  | € 9.938.407  | --- | € 1.682.599  | € 11.621.006  |
-| 08OK  | Hogeschool De Kempel  | € 509.543  | --- | € 131.030  | € 640.573  |
-| 08YJ  | Hogeschool Edith Stein  | € 589.572  | --- | € 384.162  | € 973.734  |
-| 09OT  | Iselinge Hogeschool  | € 284.992  | --- | € 59.749  | € 344.741  |
-| 10IZ  | PC Hogeschool Marnix Academie  | € 661.722  | --- | € 175.229  | € 836.951  |
-| 14NI  | Codarts, Hogeschool voor de Kunsten  | € 1.339.623  | --- | € 447.012  | € 1.786.635  |
-| 15BK  | Christelijke Hogeschool Driestar  | € 704.390  | --- | € 208.936  | € 913.326  |
-| 21MI  | Hogeschool Zeeland  | € 1.981.802  | --- | € 551.861  | € 2.533.663  |
-| 21QA  | Amsterdamse Hogeschool voor de Kunsten  | € 3.576.459  | --- | € 1.675.848  | € 5.252.307  |
-| 21RI  | Hogeschool Leiden  | € 3.304.620  | € 313.431  | € 592.680  | € 4.210.731  |
-| 21UG  | Hs Interconfessionele PABO Amsterdam/Alkmaar  | € 913.635  | --- | € 684.604  | € 1.598.239  |
-| 21UI  | NHTV internationaal hoger onderwijs Breda  | € 3.029.306  | --- | € 825.400  | € 3.854.706  |
-| 21WN  | NHL Hogeschool  | € 4.332.752  | --- | € 2.612.932  | € 6.945.684  |
-| 22EX  | Stenden Hogeschool  | € 4.687.090  | --- | € 1.349.110  | € 6.036.200  |
-| 22HH  | Gereformeerde Hogeschool voor Beroepsonderwijs  | € 677.064  | --- | € 390.053  | € 1.067.117  |
-| 22OJ  | Hogeschool Rotterdam  | € 15.881.209  | € 725.410  | € 2.472.885  | € 19.079.504  |
-| 23AH  | Saxion Hogeschool  | € 8.575.611  | € 235.073  | € 1.825.123  | € 10.635.807  |
-| 23KJ  | Hogeschool voor de Kunsten  | € 1.856.780  | --- | € 964.374  | € 2.821.154  |
-| 25BA  | Christelijke Hogeschool Ede  | € 1.850.002  | --- | € 1.657.560  | € 3.507.562  |
-| 25BE  | Hanzehogeschool Groningen  | € 10.873.242  | € 686.231  | € 2.025.413  | € 13.584.886  |
-| 25DW  | Hogeschool Utrecht  | € 18.034.976  | € 1.183.688  | € 5.946.046  | € 25.164.710  |
-| 25JX  | Hogeschool Zuyd  | € 7.829.499  | € 248.133  | € 1.515.447  | € 9.593.079  |
-| 25KB  | Hogeschool van Arnhem en Nijmegen  | € 12.666.570  | € 925.269  | € 2.424.442  | € 16.016.281  |
-| 27NF  | ArtEZ hogeschool  | € 3.013.734  | --- | € 793.296  | € 3.807.030  |
-| 27PZ  | Hogeschool INHolland  | € 16.841.890  | € 836.322  | € 3.039.878  | € 20.718.090  |
-| 27UM  | De Haagse Hogeschool  | € 10.512.328  | --- | € 2.038.280  | € 12.550.608  |
-| 28DN  | Hogeschool van Amsterdam  | € 20.591.894  | --- | € 3.159.682  | € 23.751.576  |
-| 30GB  | Fontys Hogescholen  | € 16.987.871  | € 404.848  | € 5.355.391  | € 22.748.110  |
-| --- | Totaal  | € 195.662.979  | € 5.558.405  | € 49.706.170  | € 250.927.554  |
+| 00IC  | Katholieke PABO Zwolle  | € 92.934  | --- | € 40.985  | € 133.919  |
+| 00MF  | Hogeschool voor de Kunsten Utrecht  | € 789.099  | --- | € 916.438  | € 1.705.537  |
+| 01VU  | Christelijke Hogeschool Windesheim  | € 2.361.210  | --- | –€ 414.134  | € 1.947.076  |
+| 02BY  | Gerrit Rietveld Academie  | € 194.048  | --- | € 662.507  | € 856.555  |
+| 02NR  | Hotelschool Den Haag  | € 254.372  | --- | € 42.379  | € 296.751  |
+| 02NT  | Design Academy Eindhoven  | € 118.624  | --- | € 147.599  | € 266.223  |
+| 04CS  | Hogeschool Helicon  | € 66.117  | --- | € 23.130  | € 89.247  |
+| 07GR  | Avans Hogeschool  | € 2.979.298  | --- | € 589.953  | € 3.569.251  |
+| 08OK  | Hogeschool De Kempel  | € 120.779  | --- | € 30.890  | € 151.669  |
+| 08YJ  | Hogeschool Edith Stein  | € 126.187  | --- | € 230.785  | € 356.972  |
+| 09OT  | Iselinge Hogeschool  | € 64.754  | --- | € 2.888  | € 67.642  |
+| 10IZ  | PC Hogeschool Marnix Academie  | € 160.008  | --- | € 18.551  | € 178.559  |
+| 14NI  | Codarts, Hogeschool voor de Kunsten  | € 389.772  | --- | € 401.285  | € 791.057  |
+| 15BK  | Christelijke Hogeschool Driestar  | € 162.325  | --- | € 55.537  | € 217.862  |
+| 21MI  | Hogeschool Zeeland  | € 552.517  | --- | € 291.454  | € 843.971  |
+| 21QA  | Amsterdamse Hogeschool voor de Kunsten  | € 1.013.406  | --- | € 1.039.348  | € 2.052.754  |
+| 21RI  | Hogeschool Leiden  | € 973.735  | --- | € 191.614  | € 1.165.349  |
+| 21UG  | Hs Interconfessionele PABO Amsterdam/Alkmaar  | € 148.983  | --- | € 473.503  | € 622.486  |
+| 21UI  | NHTV internationaal hoger onderwijs Breda  | € 833.526  | --- | € 58.330  | € 891.856  |
+| 21WN  | NHL Hogeschool  | € 1.172.163  | --- | € 1.546.754  | € 2.718.917  |
+| 22EX  | Stenden Hogeschool  | € 1.263.542  | --- | € 676.835  | € 1.940.377  |
+| 22HH  | Gereformeerde Hogeschool voor Beroepsonderwijs  | € 175.909  | --- | € 251.013  | € 426.922  |
+| 22OJ  | Hogeschool Rotterdam  | € 3.693.982  | --- | € 28.518  | € 3.722.500  |
+| 23AH  | Saxion Hogeschool  | € 2.516.767  | --- | € 123.664  | € 2.640.431  |
+| 23KJ  | Hogeschool voor de Kunsten  | € 530.859  | --- | € 713.529  | € 1.244.388  |
+| 25BA  | Christelijke Hogeschool Ede  | € 491.078  | --- | € 1.217.015  | € 1.708.093  |
+| 25BE  | Hanzehogeschool Groningen  | € 3.183.289  | --- | € 131.343  | € 3.314.632  |
+| 25DW  | Hogeschool Utrecht  | € 4.473.675  | --- | € 131.232  | € 4.604.907  |
+| 25JX  | Hogeschool Zuyd  | € 2.228.837  | --- | € 809.311  | € 3.038.148  |
+| 25KB  | Hogeschool van Arnhem en Nijmegen  | € 3.663.797  | --- | € 551.647  | € 4.215.444  |
+| 27NF  | ArtEZ hogeschool  | € 865.288  | --- | € 534.784  | € 1.400.072  |
+| 27PZ  | Hogeschool INHolland  | € 4.028.290  | € 125.555  | -€ 424.218  | € 3.729.627  |
+| 27UM  | De Haagse Hogeschool  | € 2.440.681  | --- | -€ 118.821  | € 2.321.860  |
+| 28DN  | Hogeschool van Amsterdam  | € 4.782.983  | --- | -€ 538.830  | € 4.244.153  |
+| 30GB  | Fontys Hogescholen  | € 4.789.058  | --- | € 254.699  | € 5.043.757  |
+| --- | Totaal  | € 51.701.892  | € 125.555  | € 10.691.517  | € 62.518.964  |
 
 Bedragen onderwijsopslag van hogescholen met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.11, eerste lid, van het besluit 
 
 | hogeschool  | kwaliteit  | kwetsbare opleidingen  | bijzondere voorzieningen  | totaalbedrag  |
 |:---|:---|:---|:---|:---|
-| 01DZ  | STOAS Hogeschool  | € 317.407  | € 13.614  | € 919.263  | € 1.250.284  |
-| 01MY  | Christelijke Agrarische Hogeschool Dronten  | € 535.200  | --- | € 1.332.241  | € 1.867.441  |
-| 21CW  | HAS Den Bosch  | € 772.320  | --- | € 2.869.588  | € 3.641.908  |
-| 27PZ  | Hogeschool INHolland  | € 210.980  | --- | € 874.000  | € 1.084.980  |
-| 30HD  | Hogeschool Van Hall Larenstein  | € 1.460.036  | --- | € 3.287.002  | € 4.747.038  |
-| --- | Totaal  | € 3.295.943  | € 13.614  | € 9.282.094  | € 12.591.651  |
+| 01DZ  | STOAS Hogeschool  | € 91.746  | € 13.614  | € 879.205  | € 984.565  |
+| 01MY  | Christelijke Agrarische Hogeschool Dronten  | € 194.113  | --- | € 1.415.915  | € 1.610.028  |
+| 21CW  | HAS Den Bosch  | € 263.020  | --- | € 2.907.403  | € 3.170.423  |
+| 27PZ  | Hogeschool INHolland  | € 67.530  | --- | € 855.183  | € 922.713  |
+| 30HD  | Hogeschool Van Hall Larenstein  | € 499.682  | --- | € 2.962.080  | € 3.461.762  |
+| --- | Totaal  | € 1.116.092  | € 13.614  | € 9.019.785  | € 10.149.491  |
 
 ### Bijlage  4  
 
@@ -349,50 +349,50 @@ Percentages onderwijsopslag hogescholen, bedoeld in artikel 4.11, tweede lid, va
 
 | hogeschool  | percentage  |
 |:---|:---|
-| 00IC  | Katholieke PABO Zwolle  | 0,15677%  |
-| 00MF  | Hogeschool voor de Kunsten Utrecht  | 5,35400%  |
-| 01VU  | Christelijke Hogeschool Windesheim  | 1,20412%  |
-| 02BY  | Gerrit Rietveld Academie  | 1,60828%  |
-| 02NR  | Hotelschool Den Haag  | 0,22069%  |
-| 02NT  | Design Academy Eindhoven  | 0,76288%  |
-| 04CS  | Hogeschool Helicon  | 0,79314%  |
-| 07GR  | Avans Hogeschool  | 2,46620%  |
-| 08OK  | Hogeschool De Kempel  | 0,28223%  |
-| 08YJ  | Hogeschool Edith Stein  | 0,32968%  |
-| 09OT  | Iselinge Hogeschool  | 0,20373%  |
-| 10IZ  | PC Hogeschool Marnix Academie  | 0,42680%  |
-| 14NI  | Codarts, Hogeschool voor de Kunsten  | 4,93647%  |
-| 15BK  | Christelijke Hogeschool Driestar  | 0,34148%  |
-| 21MI  | Hogeschool Zeeland  | 0,95118%  |
-| 21QA  | Amsterdamse Hogeschool voor de Kunsten  | 12,66584%  |
-| 21RI  | Hogeschool Leiden  | 0,62682%  |
-| 21UG  | Hs Interconfessionele PABO Amsterdam/Alkmaar  | 0,46477%  |
-| 21UI  | NHTV internationaal hoger onderwijs Breda  | 0,31104%  |
-| 21WN  | NHL Hogeschool  | 1,30105%  |
-| 22EX  | Stenden Hogeschool  | 1,99331%  |
-| 22HH  | Gereformeerde Hogeschool voor Beroepsonderwijs  | 0,21126%  |
-| 22OJ  | Hogeschool Rotterdam  | 4,43845%  |
-| 23AH  | Saxion Hogeschool  | 2,62196%  |
-| 23KJ  | Hogeschool voor de Kunsten  | 6,15864%  |
-| 25BA  | Christelijke Hogeschool Ede  | 0,22622%  |
-| 25BE  | Hanzehogeschool Groningen  | 5,87949%  |
-| 25DW  | Hogeschool Utrecht  | 3,18213%  |
-| 25JX  | Hogeschool Zuyd  | 6,40757%  |
-| 25KB  | Hogeschool van Arnhem en Nijmegen  | 3,72140%  |
-| 27NF  | ArtEZ hogeschool  | 8,77176%  |
-| 27PZ  | Hogeschool INHolland  | 6,86473%  |
-| 27UM  | De Haagse Hogeschool  | 2,26611%  |
-| 28DN  | Hogeschool van Amsterdam  | 2,84053%  |
-| 30GB  | Fontys Hogescholen  | 9,00927%  |
+| 00IC  | Katholieke PABO Zwolle  | 0,15302%  |
+| 00MF  | Hogeschool voor de Kunsten Utrecht  | 5,22610%  |
+| 01VU  | Christelijke Hogeschool Windesheim  | 1,17536%  |
+| 02BY  | Gerrit Rietveld Academie  | 1,56986%  |
+| 02NR  | Hotelschool Den Haag  | 0,21542%  |
+| 02NT  | Design Academy Eindhoven  | 0,74466%  |
+| 04CS  | Hogeschool Helicon  | 0,77419%  |
+| 07GR  | Avans Hogeschool  | 2,40729%  |
+| 08OK  | Hogeschool De Kempel  | 0,27549%  |
+| 08YJ  | Hogeschool Edith Stein  | 0,32180%  |
+| 09OT  | Iselinge Hogeschool  | 0,19886%  |
+| 10IZ  | PC Hogeschool Marnix Academie  | 0,41660%  |
+| 14NI  | Codarts, Hogeschool voor de Kunsten  | 4,81855%  |
+| 15BK  | Christelijke Hogeschool Driestar  | 0,33332%  |
+| 21MI  | Hogeschool Zeeland  | 0,92846%  |
+| 21QA  | Amsterdamse Hogeschool voor de Kunsten  | 12,36328%  |
+| 21RI  | Hogeschool Leiden  | 0,74966%  |
+| 21UG  | Hs Interconfessionele PABO Amsterdam/Alkmaar  | 0,45367%  |
+| 21UI  | NHTV internationaal hoger onderwijs Breda  | 0,30361%  |
+| 21WN  | NHL Hogeschool  | 1,26997%  |
+| 22EX  | Stenden Hogeschool  | 1,94569%  |
+| 22HH  | Gereformeerde Hogeschool voor Beroepsonderwijs  | 0,20621%  |
+| 22OJ  | Hogeschool Rotterdam  | 4,65138%  |
+| 23AH  | Saxion Hogeschool  | 2,66269%  |
+| 23KJ  | Hogeschool voor de Kunsten  | 6,01152%  |
+| 25BA  | Christelijke Hogeschool Ede  | 0,22082%  |
+| 25BE  | Hanzehogeschool Groningen  | 6,04077%  |
+| 25DW  | Hogeschool Utrecht  | 3,62657%  |
+| 25JX  | Hogeschool Zuyd  | 6,36361%  |
+| 25KB  | Hogeschool van Arnhem en Nijmegen  | 4,03933%  |
+| 27NF  | ArtEZ hogeschool  | 8,56222%  |
+| 27PZ  | Hogeschool INHolland  | 7,01326%  |
+| 27UM  | De Haagse Hogeschool  | 2,21198%  |
+| 28DN  | Hogeschool van Amsterdam  | 2,77268%  |
+| 30GB  | Fontys Hogescholen  | 8,97210%  |
 
-Percentages onderwijsopslag hogescholen met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.11, tweede lid, van het besluit 
+Percentages onderwijsopslag hogescholen met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.11, tweede lid van het besluit 
 
 | hogeschool  | percentage  |
 |:---|:---|
 | 01DZ  | STOAS Hogeschool  | 8,54569%  |
-| 01MY  | CAH Dronten  | 14,37047%  |
+| 01MY  | Christelijke Agrarische Hogeschool Dronten  | 14,37047%  |
 | 21CW  | HAS Den Bosch  | 19,71019%  |
-| 27PZ  | Hogeschool INHOLLAND  | 5,00770%  |
+| 27PZ  | Hogeschool INHolland  | 5,00770%  |
 | 30HD  | Hogeschool Van Hall Larenstein  | 52,36595%  |
 
 ### Bijlage  5  
@@ -403,56 +403,62 @@ Bedragen onderzoek universiteiten, bedoeld in artikel 4.23, eerste lid van het b
 
 | universiteit  | bedrag  |
 |:---|:---|
-| 21PB  | Universiteit Leiden  | € 4.421.986  |
-| 21PC  | Rijksuniversiteit Groningen  | € 1.642.121  |
-| 21PD  | Universiteit Utrecht  | € 1.937.221  |
-| 21PE  | Erasmus Universiteit Rotterdam  | € 5.035.074  |
-| 21PF  | Technische Universiteit Delft  | € 5.022.935  |
+| 21PB  | Universiteit Leiden  | € 4.043.509  |
+| 21PC  | Rijksuniversiteit Groningen  | € 1.340.998  |
+| 21PD  | Universiteit Utrecht  | € 1.706.360  |
+| 21PE  | Erasmus Universiteit Rotterdam  | € 3.983.268  |
+| 21PF  | Technische Universiteit Delft  | € 4.429.179  |
 | 21PG  | Technische Universiteit Eindhoven  | € 1.314.901  |
-| 21PH  | Universiteit Twente  | € 10.441.600  |
+| 21PH  | Universiteit Twente  | € 8.533.628  |
 | 21PJ  | Universiteit Maastricht  | --- |
-| 21PK  | Universiteit van Amsterdam  | € 1.515.649  |
+| 21PK  | Universiteit van Amsterdam  | € 1.184.415  |
 | 21PL  | Vrije Universiteit Amsterdam  | € 1.164.340  |
-| 21PM  | Radboud Universiteit Nijmegen  | € 3.708.723  |
-| 21PN  | Universiteit van Tilburg  | € 4.153.539  |
-| 22NC  | Open Universiteit  | € 461.040  |
-| 00DV  | Protestantse Theologische Universiteit  | € 2.953.702  |
-| 21QO  | Theologische Universiteit Apeldoorn  | € 173.233  |
-| 23BF  | Universiteit voor Humanistiek  | € 1.458.550  |
-| 25AV  | Theologische Universiteit Kampen  | € 352.814  |
-| --- |  Totaal  | € 45.757.428  |
+| 21PM  | Radboud Universiteit Nijmegen  | € 1.425.313  |
+| 21PN  | Universiteit van Tilburg  | --- |
+| 22NC  | Open Universiteit  | € 256.238  |
+| 00DV  | Protestantse Theologische Universiteit  | --- |
+| 21QO  | Theologische Universiteit Apeldoorn  | --- |
+| 23BF  | Universiteit voor Humanistiek  | --- |
+| 25AV  | Theologische Universiteit Kampen  | --- |
+|    | Totaal  | € 29.382.149  |
 
-Bedragen onderzoek universiteiten, met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.23, eerste lid van het besluit 
+Bedragen onderzoek universiteiten, met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.23, eerste lid van het besluit 
 
 | universiteit  | bedrag  |
 |:---|:---|
-| 21PI  | Wageningen University  | € 1.490.011  |
+| 21PI  | Wageningen University  | € 2.224.820  |
 
 ### Bijlage  6  
 
-####bij artikel 4, derde lid 
+####bij artikel 4, tweede lid 
 
-Percentages onderzoek universiteiten, bedoeld in artikel 4.23, tweede lid van het besluit 
+Percentages onderzoek universiteiten, bedoeld in artikel 4.23, tweede lid van het besluit 
 
-| Universiteit  | percentage  |
+| universiteit  | percentage  |
 |:---|:---|
-| 21PB  | Universiteit Leiden  | 8,79156%  |
-| 21PC  | Rijksuniversiteit Groningen  | 8,94476%  |
-| 21PD  | Universiteit Utrecht  | 12,69729%  |
-| 21PE  | Erasmus Universiteit Rotterdam  | 5,11008%  |
-| 21PF  | Technische Universiteit Delft  | 16,29597%  |
-| 21PG  | Technische Universiteit Eindhoven  | 7,77407%  |
-| 21PH  | Universiteit Twente (Enschede)  | 6,69806%  |
-| 21PJ  | Universiteit Maastricht  | 4,45477%  |
-| 21PK  | Universiteit van Amsterdam  | 10,98704%  |
-| 21PL  | Vrije Universiteit Amsterdam  | 7,85278%  |
-| 21PM  | Radboud Universiteit Nijmegen  | 7,33267%  |
-| 21PN  | Universiteit van Tilburg  | 1,89337%  |
-| 22NC  | Open Universiteit  | 1,16758%  |
-| 00DV  | Protestantse Theologische Universiteit  | 0,00000%  |
-| 21QO  | Theologische Universiteit Apeldoorn  | 0,00000%  |
-| 23BF  | Universiteit voor Humanistiek  | 0,00000%  |
-| 25AV  | Theologische Universiteit Kampen  | 0,00000%  |
+| 21PB  | Universiteit Leiden  | 8,67258%  |
+| 21PC  | Rijksuniversiteit Groningen  | 8,82122%  |
+| 21PD  | Universiteit Utrecht  | 12,46212%  |
+| 21PE  | Erasmus Universiteit Rotterdam  | 5,24799%  |
+| 21PF  | Technische Universiteit Delft  | 15,81117%  |
+| 21PG  | Technische Universiteit Eindhoven  | 7,54279%  |
+| 21PH  | Universiteit Twente  | 6,49880%  |
+| 21PJ  | Universiteit Maastricht  | 4,61218%  |
+| 21PK  | Universiteit van Amsterdam  | 10,80275%  |
+| 21PL  | Vrije Universiteit Amsterdam  | 7,76173%  |
+| 21PM  | Radboud Universiteit Nijmegen  | 7,49878%  |
+| 21PN  | Universiteit van Tilburg  | 2,56661%  |
+| 22NC  | Open Universiteit  | 1,20703%  |
+| 00DV  | Protestantse Theologische Universiteit  | 0,31264%  |
+| 21QO  | Theologische Universiteit Apeldoorn  | 0,01834%  |
+| 23BF  | Universiteit voor Humanistiek  | 0,15438%  |
+| 25AV  | Theologische Universiteit Kampen  | 0,00889%  |
+
+Percentages onderzoek universiteiten, met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.23, tweede lid van het besluit 
+
+| universiteit  | percentage  |
+|:---|:---|
+| 21PI  | Wageningen University  | 100,00000%  |
 
 ### Bijlage  7  
 
@@ -462,15 +468,15 @@ Bedragen academische ziekenhuizen, bedoeld in artikel 4.27, eerste lid onder d. 
 
 | universiteit  | bedrag  |
 |:---|:---|
-| 21PB  | Universiteit Leiden  | € 14.562.758  |
-| 21PC  | Rijksuniversiteit Groningen  | € 13.532.601  |
-| 21PD  | Universiteit Utrecht  | € 15.535.839  |
-| 21PE  | Erasmus Universiteit Rotterdam  | € 14.808.197  |
-| 21PJ  | Universiteit Maastricht  | € 10.577.616  |
-| 21PK  | Universiteit van Amsterdam  | € 18.845.566  |
-| 21PL  | Vrije Universiteit Amsterdam  | € 12.966.538  |
-| 21PM  | Radboud Universiteit Nijmegen  | € 12.933.437  |
-| --- |  Totaal  | € 113.762.552  |
+| 21PB  | Universiteit Leiden  | € 14.627.792  |
+| 21PC  | Rijksuniversiteit Groningen  | € 13.520.004  |
+| 21PD  | Universiteit Utrecht  | € 15.532.195  |
+| 21PE  | Erasmus Universiteit Rotterdam  | € 14.866.642  |
+| 21PJ  | Universiteit Maastricht  | € 10.536.760  |
+| 21PK  | Universiteit van Amsterdam  | € 18.917.327  |
+| 21PL  | Vrije Universiteit Amsterdam  | € 12.840.929  |
+| 21PM  | Radboud Universiteit Nijmegen  | € 12.920.902  |
+| --- | Totaal  | € 113.762.551  |
 
 ### Bijlage  8  
 
@@ -509,59 +515,59 @@ vervallen;   |
 
 ### Bijlage  9  
 
-####bij artikel 4, vijfde lid 
+####bij artikel 4, derde lid 
 
 Bedragen ontwerp en ontwikkeling hogescholen, bedoeld in artikel 4.24, eerste lid van het besluit 
 
 | hogeschool  | bedrag  |
 |:---|:---|
-| 00IC  | Katholieke PABO Zwolle  | € 37.671  |
-| 00MF  | Hogeschool voor de Kunsten Utrecht  | € 18.255  |
-| 01VU  | Christelijke Hogeschool Windesheim  | € 254.278  |
+| 00IC  | Katholieke PABO Zwolle  | € 38.720  |
+| 00MF  | Hogeschool voor de Kunsten Utrecht  | € 19.009  |
+| 01VU  | Christelijke Hogeschool Windesheim  | € 273.399  |
 | 02BY  | Gerrit Rietveld Academie  | --- |
 | 02NR  | Hotelschool Den Haag  | --- |
 | 02NT  | Design Academy Eindhoven  | --- |
-| 04CS  | Hogeschool Helicon  | € 11.095  |
-| 07GR  | Avans Hogeschool  | € 42.509  |
-| 08OK  | Hogeschool De Kempel  | € 49.411  |
-| 08YJ  | Hogeschool Edith Stein  | € 54.378  |
-| 09OT  | Iselinge Hogeschool  | € 26.834  |
-| 10IZ  | PC Hogeschool Marnix Academie  | € 58.699  |
-| 14NI  | Codarts, Hogeschool voor de Kunsten  | € 6.838  |
-| 15BK  | Christelijke Hogeschool Driestar  | € 67.279  |
-| 21MI  | Hogeschool Zeeland  | € 31.607  |
-| 21QA  | Amsterdamse Hogeschool voor de Kunsten  | € 25.737  |
-| 21RI  | Hogeschool Leiden  | € 79.019  |
-| 21UG  | Hs Interconfessionele PABO Amsterdam/Alkmaar  | € 81.147  |
+| 04CS  | Hogeschool Helicon  | € 11.610  |
+| 07GR  | Avans Hogeschool  | € 42.930  |
+| 08OK  | Hogeschool De Kempel  | € 50.712  |
+| 08YJ  | Hogeschool Edith Stein  | € 49.054  |
+| 09OT  | Iselinge Hogeschool  | € 26.217  |
+| 10IZ  | PC Hogeschool Marnix Academie  | € 64.363  |
+| 14NI  | Codarts, Hogeschool voor de Kunsten  | € 8.675  |
+| 15BK  | Christelijke Hogeschool Driestar  | € 66.787  |
+| 21MI  | Hogeschool Zeeland  | € 28.705  |
+| 21QA  | Amsterdamse Hogeschool voor de Kunsten  | € 26.026  |
+| 21RI  | Hogeschool Leiden  | € 80.374  |
+| 21UG  | Hs Interconfessionele PABO Amsterdam/Alkmaar  | € 54.603  |
 | 21UI  | NHTV internationaal hoger onderwijs Breda  | --- |
-| 21WN  | NHL Hogeschool  | € 122.817  |
-| 22EX  | Stenden Hogeschool  | € 81.276  |
-| 22HH  | Gereformeerde Hogeschool voor Beroepsonderwijs  | € 36.316  |
-| 22OJ  | Hogeschool Rotterdam  | € 173.970  |
-| 23AH  | Saxion Hogeschool  | € 34.575  |
-| 23KJ  | Hogeschool voor de Kunsten  | € 1.548  |
-| 25BA  | Christelijke Hogeschool Ede  | € 51.088  |
-| 25BE  | Hanzehogeschool Groningen  | € 94.306  |
-| 25DW  | Hogeschool Utrecht  | € 363.291  |
-| 25JX  | Hogeschool Zuyd  | € 41.541  |
-| 25KB  | Hogeschool van Arnhem en Nijmegen  | € 240.732  |
-| 27NF  | ArtEZ hogeschool  | € 34.381  |
-| 27PZ  | Hogeschool INHolland  | € 182.613  |
-| 27UM  | De Haagse Hogeschool  | € 68.311  |
-| 28DN  | Hogeschool van Amsterdam  | € 227.767  |
-| 30GB  | Fontys Hogescholen  | € 524.038  |
-| --- | Totaal  | € 3.123.327  |
+| 21WN  | NHL Hogeschool  | € 120.625  |
+| 22EX  | Stenden Hogeschool  | € 90.070  |
+| 22HH  | Gereformeerde Hogeschool voor Beroepsonderwijs  | € 35.594  |
+| 22OJ  | Hogeschool Rotterdam  | € 189.198  |
+| 23AH  | Saxion Hogeschool  | € 34.701  |
+| 23KJ  | Hogeschool voor de Kunsten  | € 1.914  |
+| 25BA  | Christelijke Hogeschool Ede  | € 49.245  |
+| 25BE  | Hanzehogeschool Groningen  | € 97.151  |
+| 25DW  | Hogeschool Utrecht  | € 338.592  |
+| 25JX  | Hogeschool Zuyd  | € 33.617  |
+| 25KB  | Hogeschool van Arnhem en Nijmegen  | € 245.205  |
+| 27NF  | ArtEZ hogeschool  | € 35.403  |
+| 27PZ  | Hogeschool INHolland  | € 200.425  |
+| 27UM  | De Haagse Hogeschool  | € 72.656  |
+| 28DN  | Hogeschool van Amsterdam  | € 219.625  |
+| 30GB  | Fontys Hogescholen  | € 504.316  |
+| --- | Totaal  | € 3.109.521  |
 
 Bedragen ontwerp en ontwikkeling hogescholen, met opleidingen op het gebied van landbouw en natuurlijke omgeving, bedoeld in artikel 4.24, eerste lid van het besluit 
 
 | hogeschool  | bedrag  |
 |:---|:---|
-| 01DZ  | STOAS Hogeschool  | € 64.000  |
+| 01DZ  | STOAS Hogeschool  | € 61.707  |
 | 01MY  | CAH Dronten  | --- |
 | 21CW  | HAS Den Bosch  | --- |
 | 27PZ  | Hogeschool INHOLLAND  | --- |
 | 30HD  | Hogeschool Van Hall Larenstein  | --- |
-| --- | Totaal  | € 64.000  |
+| --- | Totaal  | € 61.707  |
 
 ### Bijlage  10  
 

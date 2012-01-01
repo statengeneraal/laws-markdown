@@ -928,7 +928,6 @@ a. met ingang van de dag waarop de ambtenaar op grond van artikel 37a, eerste li
 b. met ingang van de dag waarop de ambtenaar ontslag is verleend; of  
 
 c. met ingang van de dag volgende op die waarop de ambtenaar is overleden.     
-7.  Het eerste lid, tweede volzin, is niet van toepassing op de ambtenaar die na het bereiken van de leeftijd van 65 jaar wegens ziekte ongeschikt is tot het verrichten van zijn arbeid.   
 
 ### Artikel  37a  
 
@@ -1245,6 +1244,7 @@ b. reeds eerder in overleg met de ambtenaar binnen de termijn kan worden vastges
 3.  Onze Minister kan de termijn verlengen of opschorten, indien de omstandigheden naar zijn oordeel daartoe aanleiding geven.   
 4.  De ambtenaar wordt gelijktijdig met zijn aanwijzing als herplaatsingskandidaat geïnformeerd over de aanvang en het einde van de termijn als bedoeld in het eerste lid.   
 5.  Door Onze Minister wordt de herplaatsingskandidaat geïnformeerd over het verkorten, verlengen of opschorten van de termijn als bedoeld in het tweede en het derde lid.   
+6.  Op verzoek van de herplaatsingskandidaat wordt de termijn, bedoeld in het eerste lid, met maximaal een jaar verlengd ingeval de herplaatsingskandidaat bij het einde van de termijn, bedoeld in het eerste lid, in combinatie met de duur van de bovenwettelijke uitkering, de pensioengerechtigde leeftijd nog niet heeft bereikt en door deze verlenging recht ontstaat op een bovenwettelijke uitkering op grond van [artikel 2, tweede lid, van het Besluit bovenwettelijke uitkeringen werkloosheid voor de sector Rijk](../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md).   
 
 ####- passende functie
 

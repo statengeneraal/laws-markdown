@@ -139,7 +139,7 @@ De gemachtigde ambtenaar legt een verzoek om informatie aan de Minister dan wel 
 
 ### Artikel  14  
 
-Rechterlijke uitspraken in procedures van de organisatieonderdelen van de Belastingdienst worden zo spoedig mogelijk na ontvangst door hen in afschrift doorgezonden aan het Team Juridische Zaken en aan de directie Bestuurlijke en Juridische Zaken.  
+Rechterlijke uitspraken in procedures van de organisatieonderdelen van de Belastingdienst worden zo spoedig mogelijk na ontvangst door hen in afschrift doorgezonden aan het cluster Beleid en aan de directie Bestuurlijke en Juridische Zaken.  
 
 ### Hoofdstuk  V  
 
@@ -151,7 +151,7 @@ Over openbaarmaking van adviezen van ambtelijke dan wel gemengd samengestelde ad
 
 ### Artikel  16  
 
-De openbaarmaking van adviezen van niet-ambtelijke adviescommissies en het doen van mededeling daarvan in de Staatscourant geschieden door de zorg van de Secretaris-Generaal. Deze wordt daarbij ondersteund door de eenheid Voorlichting en Communicatie.  
+De openbaarmaking van adviezen van niet-ambtelijke adviescommissies en het doen van mededeling daarvan in de Staatscourant geschieden door de zorg van de Secretaris-Generaal. Deze wordt daarbij ondersteund door de directie Communicatie.  
 
 ### Artikel  17  
 

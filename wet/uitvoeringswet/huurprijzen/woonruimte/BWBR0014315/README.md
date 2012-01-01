@@ -303,6 +303,20 @@ Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 
 3.  De in het tweede lid bedoelde te verwachten servicekosten worden gesteld op het bedrag van de servicekosten, opgenomen in het laatstelijk in de drie voorafgaande kalenderjaren door de verhuurder verstrekte verrekenoverzicht inzake de desbetreffende of soortgelijke serviceposten, verhoogd met het percentage waarmee de consumentenprijsindex voor werknemersgezinnen sedertdien is verhoogd. Indien geen verrekenoverzicht in de in de eerste volzin bedoelde periode is verstrekt, worden bedoelde kosten gesteld op de daarvoor als gebruikelijk aan te merken kosten.   
 4.  De huurcommissie vermeldt in haar uitspraak dat het door haar uitgesproken voorschotbedrag in de plaats treedt van het overeengekomen voorschotbedrag met ingang van de eerste dag van de maand, volgend op die waarin het verzoek is ontvangen.   
 
+### §  10  
+
+####Geschillen die voortvloeien uit de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md)
+
+### Artikel  19a  
+
+1.  Indien de huurcommissie constateert dat sprake is van een schending door de verhuurder van een verplichting die voortvloeit uit de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) waardoor de verzoeker is benadeeld, kan zij bepalen dat, voor zover het geschil betrekking heeft op voorgenomen beleid van een verhuurder als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), de uitvoering van dat beleid wordt opgeschort totdat het verzuim is hersteld.   
+2.  Indien de huurcommissie wordt verzocht te bepalen dat een genomen besluit van een verhuurder als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), tot wijziging van zijn beleid niet mag worden uitgevoerd, kan de huurcommissie bepalen dat een zodanig besluit niet mag worden uitgevoerd, indien: 
+
+a. dat besluit afwijkt van een advies als bedoeld in [artikel 5, eerste lid, van die wet](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), en  
+
+b. die verhuurder de beslissing tot afwijking van dat advies niet heeft onderbouwd, of hij naar het oordeel van de huurcommissie onder afweging van de betrokken belangen niet in redelijkheid tot afwijking van dat advies had kunnen komen.     
+3.  De huurcommissie doet in geval van een geschil over de hoogte van de vergoeding, bedoeld in [artikel 7, eerste lid, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), uitspraak over de redelijkheid van die vergoeding. De huurcommissie spreekt uit welke vergoeding zij redelijk acht.   
+
 ### Hoofdstuk  IV  
 
 ####Voorzittersuitspraken

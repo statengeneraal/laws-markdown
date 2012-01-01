@@ -336,7 +336,9 @@ b. de Minister van Binnenlandse Zaken en Koninkrijksrelaties:
 
 3°. gegevens over het inkomen van gewezen en gepensioneerde politieke gezagdragers over een bepaalde periode ten behoeve van de uitvoering van de uitkeringsregelingen op basis van het [Pensioenbesluit politieke gezagdragers BES](../../../../../AMvB-BES/pensioenbesluit/politieke/gezagdragers/bes/BWBR0028554/README.md);  
 
-4°. gegevens over het inkomen van voormalige Rijksvertegenwoordigers over een bepaalde periode ten behoeve van de uitvoering van de wachtgeldregelingen op basis van de [Algemene pensioenwet politieke ambtsdragers](../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md).    
+4°. gegevens over het inkomen van voormalige Rijksvertegenwoordigers over een bepaalde periode ten behoeve van de uitvoering van de wachtgeldregelingen op basis van de [Algemene pensioenwet politieke ambtsdragers](../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md);  
+
+5°. gegevens inzake bestuurlijke boeten als bedoeld in [hoofdstuk VIII, titel 4, van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) die zijn opgelegd dan wel hadden kunnen worden opgelegd indien de termijn om deze op te leggen niet was verlopen, met betrekking tot kandidaten voor de functie van Rijksvertegenwoordiger of waarnemend Rijksvertegenwoordiger van Bonaire, Sint Eustatius en Saba of gezaghebber van Bonaire, Sint Eustatius of Saba ten behoeve van de oordeelsvorming door de Minister van Binnenlandse Zaken en Koninkrijksrelaties ter zake van de voordracht van een kandidaat voor één van de hiervoor genoemde functies;    
 
 c. de Minister van Defensie: 
 

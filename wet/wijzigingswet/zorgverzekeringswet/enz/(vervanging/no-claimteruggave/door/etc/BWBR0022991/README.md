@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de no-claimteruggave in de [Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt vervangen door een verplicht eigen risico en dat verzekerden met meerjarige, onvermijdbare zorgkosten hiervoor worden gecompenseerd;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de no-claimteruggave in de Zorgverzekeringswet wordt vervangen door een verplicht eigen risico en dat verzekerden met meerjarige, onvermijdbare zorgkosten hiervoor worden gecompenseerd;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -63,7 +63,7 @@ Wijzigt deze wet.
 
 ### Artikel  XI  
 
-De [artikelen 22](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [23, tweede en derde lid](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [69, tweede lid](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [87, zesde lid, onderdeel e, subonderdeel 2, van de Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [artikel 4 van de Wet op de zorgtoeslag](../../../../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md), [artikel 31, tweede lid, onderdeel r, van de Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [artikel 4, tweede lid, onderdeel k, van de Wet werk en inkomen kunstenaars](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) en de daarop gebaseerde bepalingen, zoals deze luidden op de dag voorafgaande aan de dag waarop deze wet in werking treedt, blijven van toepassing op de no-claimteruggave over de jaren 2006 en 2007.  
+De artikelen 22, 23, tweede en derde lid, 69, tweede lid, 87, zesde lid, onderdeel e, subonderdeel 2, van de Zorgverzekeringswet, artikel 4 van de Wet op de zorgtoeslag en artikel 31, tweede lid, onderdeel r, van de Wet werk en bijstand en de daarop gebaseerde bepalingen, zoals deze luidden op de dag voorafgaande aan de dag waarop deze wet in werking treedt, blijven van toepassing op de no-claimteruggave over de jaren 2006 en 2007.  
 
 ### Artikel  XII  
 

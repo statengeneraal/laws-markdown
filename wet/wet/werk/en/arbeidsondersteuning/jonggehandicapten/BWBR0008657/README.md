@@ -364,33 +364,6 @@ b. de leeftijd van achttien jaar nog niet heeft bereikt;   in een bepaalde funct
 2.  Elk beding waarbij een geldelijke beloning voor de verrichte arbeid wordt overeengekomen die lager is dan de beloning, vastgesteld op grond van het eerste lid is nietig.   
 3.  Vanaf de dag waarop de werknemer, bedoeld in het eerste lid, onderdeel b, de leeftijd van achttien jaar bereikt en recht heeft op arbeidsondersteuning, wordt de op grond van onderdeel b verstrekte vermindering van de hoogte van de aanspraak op een geldelijke beloning, geacht te zijn gebaseerd op het eerste lid, onderdeel a, tenzij de werknemer niet aan de overige voorwaarden van het eerste lid voldoet.   
 
-### Artikel  2:21  
-
-####Loonkostensubsidie
-
-1.  Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag aan de werkgever die met een jonggehandicapte die recht heeft op arbeidsondersteuning en die een indicatiebeschikking heeft als bedoeld in het derde lid, een dienstbetrekking, niet zijnde een dienstbetrekking als bedoeld in [hoofdstuk 2](../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) of  [3 van de Wet sociale werkvoorziening](../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md), aangaat of is aangegaan, subsidie voor loonkosten verlenen indien de dienstbetrekking een overeengekomen duur van ten minste twaalf maanden heeft. De subsidie kan slechts worden verstrekt indien de jonggehandicapte op de eerste dag van de dienstbetrekking de leeftijd van 50 jaar niet heeft bereikt.   
-2.  Indien de dienstbetrekking, bedoeld in het eerste lid, een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreft, verstrekt het Uitvoeringsinstituut werknemersverzekeringen slechts subsidie indien de derde, in wiens opdracht de jonggehandicapte, bedoeld in het eerste lid, ter beschikking wordt gesteld om arbeid te verrichten, zich jegens de werkgever verplicht die jonggehandicapte tenminste twaalf maanden arbeid te laten verrichten. Indien de uitzendovereenkomst binnen deze twaalf maanden wordt gevolgd door een dienstbetrekking bij de derde, voor ten minste de resterende duur van de twaalf maanden, kan het Uitvoeringsinstituut werknemersverzekeringen op aanvraag aan die derde loonkostensubsidie verstrekken voor maximaal de resterende duur van de twaalf maanden.   
-3.  Het Uitvoeringsinstituut werknemersverzekeringen kan van de jonggehandicapte, bedoeld in het eerste lid, vaststellen dat hij in aanmerking komt voor toepassing van het eerste lid, indien het Uitvoeringsinstituut werknemersverzekeringen van oordeel is dat met het oog op de inschakeling in de arbeid geen andere voorziening of instrument meer geschikt is. De vaststelling, bedoeld in de eerste zin, geschiedt bij indicatiebeschikking.   
-4.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de subsidie slechts: 
-
-a. indien naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen reële behoefte bestaat aan de arbeid die op grond van de dienstbetrekking, bedoeld in het eerste lid, zal worden verricht en die arbeid geen additionele arbeid betreft;  
-
-b. indien er naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen een reëel uitzicht is op continuering van de dienstbetrekking voor ten minste zes maanden na afloop van de periode waarover de loonkostensubsidie wordt verstrekt, dan wel op een op die dienstbetrekking aansluitende dienstbetrekking van dezelfde of grotere omvang voor ten minste zes maanden; en  
-
-c. indien ten behoeve van de jonggehandicapte, bedoeld in het eerste lid, in de vijf jaar voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, niet eerder loonkostensubsidie op grond van dit artikel is verstrekt; en  
-
-d. indien de jonggehandicapte, bedoeld in het eerste lid, in de zes maanden voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, geen werkzaamheden op een proefplaats als bedoeld in artikel 2:24 of [artikel 76a van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) heeft verricht.     
-5.  Onder additionele arbeid als bedoeld in het vierde lid, onderdeel a, wordt verstaan primair op de arbeidsinschakeling gerichte arbeid of het naast of in aanvulling op reguliere arbeid verrichten van werkzaamheden die niet leiden tot verdringing op de arbeidsmarkt.   
-6.  De subsidie bedraagt ten hoogste 50% van het wettelijk minimumloon, bedoeld in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) of, indien het een werknemer jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in [artikel 7, derde lid](../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), en artikel 8, derde lid, van deze wet. Het bedrag, bedoeld in de eerste zin, wordt naar evenredigheid verminderd, indien de overeengekomen arbeidsduur korter is dan de normale arbeidsduur, bedoeld in [artikel 12 van laatstgenoemde wet](../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md). Indien ten behoeve van de betrokken werknemer artikel 2:20 van deze wet toepassing vindt, bedraagt de subsidie, zo nodig in afwijking van de eerste zin, ten hoogste de aanspraak op een geldelijke beloning voor verrichte arbeid die krachtens dat artikel 2:20 is vastgesteld.   
-7.  De subsidie kan voor maximaal twaalf maanden worden verstrekt.   
-8.  Indien de jonggehandicapte, bedoeld in het eerste lid, ziekengeld ontvangt op grond van de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt het, naar werkdagen herleide, aan de werkgever verstrekte subsidiebedrag, bedoeld in het eerste lid, verminderd met dit ziekengeld.   
-9.  Indien de dienstbetrekking, bedoeld in het eerste lid, is aangegaan alvorens een aanvraag om subsidie voor loonkosten met betrekking tot die dienstbetrekking wordt ingediend, wordt de aanvraag om subsidie uiterlijk binnen drie maanden na de eerste dag van het verrichten van arbeid ingediend.   
-10.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot dit artikel, welke regels betrekking kunnen hebben op: 
-
-a. nadere subsidievoorwaarden; en  
-
-b. een subsidieplafond.     
-
 ### Artikel  2:22  
 
 ####Arbeidsplaatsvoorzieningen en voorzieningen ter ondersteuning van toeleiding naar arbeid
@@ -1812,46 +1785,6 @@ d. werkzaamheden, waarbij er, naar het oordeel van het Uitvoeringsinstituut werk
 ### Artikel  3:70  
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag van loonsuppletie, bedoeld in artikel 3:67, van inkomenssuppletie, bedoeld in artikel 3:68, de termijn waarbinnen die aanvraag wordt ingediend, alsmede omtrent de rechtsgevolgen die aan overschrijding van die termijn zijn verbonden, en met betrekking tot de aanvraag en van toestemming als bedoeld in artikel 3:69.  
-
-### Artikel  3:71  
-
-####Loonkostensubsidie
-
-1.  Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag aan de werkgever die met een jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering en die een indicatiebeschikking heeft als bedoeld in het derde lid, een dienstbetrekking, niet zijnde een dienstbetrekking als bedoeld in [hoofdstuk 2](../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) of [3 van de Wet sociale werkvoorziening](../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md), aangaat of is aangegaan na de inwerkingtreding van de [Wet stimulering arbeidsparticipatie](../../../../../../../wet/wet/stimulering/arbeidsparticipatie/BWBR0025045/README.md), subsidie voor loonkosten verlenen indien de dienstbetrekking een overeengekomen duur van ten minste twaalf maanden heeft. De subsidie kan slechts worden verstrekt indien de jonggehandicapte op de eerste dag van de dienstbetrekking de leeftijd van 50 jaar niet heeft bereikt.   
-2.  Indien de dienstbetrekking, bedoeld in het eerste lid, een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreft, verstrekt het Uitvoeringsinstituut werknemersverzekeringen slechts subsidie indien de derde, in wiens opdracht de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering ter beschikking wordt gesteld om arbeid te verrichten, zich jegens de werkgever verplicht die jonggehandicapte tenminste twaalf maanden arbeid te laten verrichten. Indien de uitzendovereenkomst binnen deze twaalf maanden wordt gevolgd door een dienstbetrekking bij de derde, voor ten minste de resterende duur van de twaalf maanden, kan het Uitvoeringsinstituut werknemersverzekeringen op aanvraag aan die derde loonkostensubsidie verstrekken voor maximaal de resterende duur van de twaalf maanden.   
-3.  Het Uitvoeringsinstituut werknemersverzekeringen kan van de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering vaststellen dat hij in aanmerking komt voor toepassing van het eerste lid, indien het Uitvoeringsinstituut werknemersverzekeringen van oordeel is dat met het oog op de inschakeling in de arbeid geen andere voorziening of instrument meer geschikt is. De vaststelling, bedoeld in de eerste zin, geschiedt bij indicatiebeschikking.   
-4.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de subsidie slechts: 
-
-a. indien naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen reële behoefte bestaat aan de arbeid die op grond van de dienstbetrekking, bedoeld in het eerste lid, zal worden verricht en die arbeid geen additionele arbeid betreft;  
-
-b. indien er naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen een reëel uitzicht is op continuering van de dienstbetrekking voor ten minste zes maanden na afloop van de periode waarover de loonkostensubsidie wordt verstrekt, dan wel op een op die dienstbetrekking aansluitende dienstbetrekking van dezelfde of grotere omvang voor ten minste zes maanden;  
-
-c. indien ten behoeve van de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering in de vijf jaar voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, niet eerder loonkostensubsidie op grond van dit artikel of het Tijdelijk besluit brugbanen herbeoordeelden is verstrekt; en  
-
-d. indien de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering in de zes maanden voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, geen werkzaamheden op een proefplaats als bedoeld in artikel 3:69 of [artikel 76a van de WW](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) heeft verricht.     
-5.  Onder additionele arbeid als bedoeld in het vierde lid, onderdeel a, wordt verstaan primair op de arbeidsinschakeling gerichte arbeid of het naast of in aanvulling op reguliere arbeid verrichten van werkzaamheden die niet leiden tot verdringing op de arbeidsmarkt.   
-6.  De subsidie bedraagt ten hoogste 50% van het wettelijk minimumloon, bedoeld in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) of, indien het een werknemer jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in [artikel 7, derde lid](../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), en artikel 8, derde lid, van deze wet. Het bedrag, bedoeld in de eerste zin, wordt naar evenredigheid verminderd, indien de overeengekomen arbeidsduur korter is dan de normale arbeidsduur, bedoeld in [artikel 12 van laatstgenoemde wet](../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md). Indien ten behoeve van de betrokken werknemer artikel 3:63 van deze wet toepassing vindt, bedraagt de subsidie, zo nodig in afwijking van de eerste zin, ten hoogste de aanspraak op een geldelijke beloning voor verrichte arbeid die krachtens dat artikel 3:63 is vastgesteld.   
-7.  De subsidie kan voor maximaal twaalf maanden worden verstrekt.   
-8.  Indien de jonggehandicapte, bedoeld in het eerste lid, ziekengeld ontvangt op grond van de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt het, naar werkdagen herleide, aan de werkgever verstrekte subsidiebedrag, bedoeld in het eerste lid, verminderd met dit ziekengeld.   
-9.  Indien de dienstbetrekking, bedoeld in het eerste lid, is aangegaan alvorens een aanvraag om subsidie voor loonkosten met betrekking tot die dienstbetrekking wordt ingediend, wordt de aanvraag om subsidie uiterlijk binnen drie maanden na de eerste dag van het verrichten van arbeid ingediend.   
-10.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot dit artikel, welke regels betrekking kunnen hebben op: 
-
-a. nadere subsidievoorwaarden; en  
-
-b. een subsidieplafond.     
-
-### Artikel  3:72  
-
-####Loonkostensubsidie niet-uitkeringsgerechtigde herbeoordeelden
-
-1.  In afwijking van [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [artikel 30, eerste lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is artikel 3:71 van overeenkomstige toepassing met betrekking tot de persoon: 
-
-a. wiens arbeidsongeschiktheidsuitkering is ingetrokken als gevolg van de toepassing van artikel 3:28, vijfde lid, alsmede de persoon op wie dat artikel, op grond van [artikel 2, tweede lid, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](../../../../../../../AMvB/besluit/eenmalige/herbeoordelingen/arbeidsongeschiktheidswetten/BWBR0017207/README.md), niet van toepassing is en wiens arbeidsongeschiktheidsuitkering is ingetrokken;  
-
-b. die op de dag voorafgaand aan de eerste dag van de dienstbetrekking met betrekking waartoe loonkostensubsidie wordt aangevraagd, geen uitkering ontvangt op grond van een wet waaraan uitvoering wordt gegeven door het Uitvoeringsinstituut werknemersverzekeringen of de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md); en  
-
-c. die op de dag voorafgaand aan de eerste dag van de dienstbetrekking met betrekking waartoe loonkostensubsidie wordt aangevraagd geen tegemoetkoming ontvangt op grond van de [Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten](../../../../../../../ministeriele-regeling/tijdelijke/regeling/inkomensgevolgen/herbeoordeelde/arbeidsongeschikten/BWBR0017646/README.md).     
-2.  De leeftijdsgrens, bedoeld in artikel 3:71, eerste lid, is niet van toepassing op deze persoon.   
 
 ### Artikel  3:73  
 

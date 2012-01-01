@@ -179,7 +179,7 @@ b. het belang, bedoeld in [artikel 10, zevende lid, onder b, van de Wet openbaar
 
 ### Artikel  9  
 
-1.  De werkgever meldt arbeidsongevallen die leiden tot de dood, een blijvend letsel of een ziekenhuisopname direct aan de daartoe aangewezen toezichthouder en rapporteert hierover desgevraagd zo spoedig mogelijk schriftelijk aan deze toezichthouder.   
+1.  De werkgever meldt arbeidsongevallen die leiden tot de dood, een blijvend letsel of een ziekenhuisopname direct aan de daartoe aangewezen toezichthouder en rapporteert hierover desgevraagd zo spoedig mogelijk aan deze toezichthouder.   
 2.  De werkgever houdt een lijst bij van de gemelde arbeidsongevallen en van arbeidsongevallen welke hebben geleid tot een verzuim van meer dan drie werkdagen en registreert daarop de aard en datum van het ongeval.   
 3.  De persoon, bedoeld in artikel 14, eerste lid, die belast is met de taak, bedoeld in onderdeel b van dat lid, of de arbodienst meldt beroepsziekten aan een door Onze Minister hiertoe aangewezen instelling.   
 
@@ -428,7 +428,7 @@ De werkgever stelt de werknemers periodiek in de gelegenheid een onderzoek te on
 ### Artikel  20  
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld op grond waarvan werkgevers, werknemers, andere personen of instellingen in het bezit moeten zijn van een of meer certificaten waaruit blijkt dat zij voldoen aan voorschriften, gesteld bij of krachtens deze wet.   
-2.  Onze Minister dan wel een door Onze Minister op verzoek aangewezen instelling beslist op aanvraag over de afgifte van het certificaat en is tevens bevoegd een afgegeven certificaat in te trekken of te schorsen.   
+2.  Onze Minister dan wel een door Onze Minister op verzoek aangewezen instelling beslist op aanvraag over de afgifte van het certificaat en is tevens bevoegd een afgegeven certificaat in te trekken of te schorsen. De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is niet van toepassing op aangewezen instellingen als bedoeld in de eerste zin.   
 3.  Een certificaat als bedoeld in het eerste lid en een aanwijzing als bedoeld in het tweede lid worden gegeven voor een beperkte tijdsduur. Aan een aanwijzing en een certificaat kunnen voorschriften worden verbonden. De bedoelde beperking en voorschriften worden in de aanwijzing en het certificaat vermeld.   
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld onder meer met betrekking tot: 
 
@@ -443,7 +443,6 @@ d. de vergoeding van de kosten die is verschuldigd in verband met de afgifte van
 6.  Indien bij de afgifte van een certificaat, het geven van een aanwijzing of het verrichten van een onderzoek als bedoeld in het vijfde lid, diensten van derden worden benut, kunnen ook de door die derden gemaakte kosten ten laste worden gebracht van de houder van het certificaat onderscheidenlijk de aangewezen instelling dan wel de aanvrager, bedoeld in het vierde lid, onder a.   
 7.  De berekening van de door derden gemaakte kosten als bedoeld in het zesde lid, voor zover deze ten laste worden gebracht van de houder van een certificaat onderscheidenlijk de aangewezen instelling dan wel de aanvrager, bedoeld in het vierde lid, onder a, geschiedt door die derden op zorgvuldige, transparante en éénduidige wijze met inachtneming van de redelijkheid en proportionaliteit.   
 8.  Bij ministeriële regeling worden nadere regels gesteld betreffende de wijze van betaling van de vergoeding van de kosten, bedoeld in het vierde, vijfde en zesde lid.   
-9.  Onze Minister zendt binnen vijf jaar na de inwerkingtreding van dit artikel en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de rechtmatigheid en doeltreffendheid van het functioneren van de krachtens het tweede lid aangewezen instellingen.   
 
 ####Informatievoorziening
 

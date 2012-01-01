@@ -149,24 +149,24 @@ In afwijking van artikel 6, tweede lid, onderdeel *a*, onder 1°, kan de inspect
 | Bij een CO <sub>2</sub> -uitstoot van meer dan  | maar niet meer dan  | bedraagt de belasting voor een personenauto die wordt aangedreven anders dan door een motor met compressieontsteking, het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde bedrag te vermenigvuldigen met het aantal gram/km CO <sub>2</sub> -uitstoot dat de in kolom I vermelde CO <sub>2</sub> -uitstoot te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
 | –  | 110  | 0  | 0  |
-| 110 gram/km  | 180  | 0  | € 61  |
-| 180 gram/km  | 270  | € 4 270  | € 202  |
-| 270 gram/km  | –  | € 22 450  | € 471  |
+| 110 gram/km  | 180  | 0  | € 92  |
+| 180 gram/km  | 270  | € 6 440  | € 275  |
+| 270 gram/km  | –  | € 31 190  | € 643  |
 
 | Bij een CO <sub>2</sub> -uitstoot van meer dan  | maar niet meer dan  | bedraagt de belasting voor een personenauto die wordt aangedreven door een motor met een compressieontsteking het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde bedrag te vermenigvuldigen met het aantal gram/km CO <sub>2</sub> -uitstoot dat de in kolom I vermelde CO <sub>2</sub> -uitstoot te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
 | –  | 95  | 0  | 0  |
-| 95 gram/km  | 155  | 0  | € 61  |
-| 155 gram/km  | 232  | € 3 660  | € 202  |
-| 232 gram/km  | –  | € 19 214  | € 471  |
+| 95 gram/km  | 155  | 0  | € 92  |
+| 155 gram/km  | 232  | € 5 520  | € 275  |
+| 232 gram/km  | –  | € 26 695  | € 643  |
 
-Voor de toepassing van de tabel wordt onder een personenauto die wordt aangedreven door een motor met compressie-ontsteking mede begrepen een personenauto waarvan de CO <sub>2</sub> -uitstoot met aardgas als brandstofsoort is gemeten. Het bedrag van de belasting op grond van de tabel wordt verhoogd met 19,0 percent van de netto catalogusprijs en: 
+Voor de toepassing van de tabel wordt onder een personenauto die wordt aangedreven door een motor met compressie-ontsteking mede begrepen een personenauto waarvan de CO <sub>2</sub> -uitstoot met aardgas als brandstofsoort is gemeten. Het bedrag van de belasting op grond van de tabel wordt verhoogd met 11,1 percent van de netto catalogusprijs en: 
 
-a. verminderd met € 824;  
+a. verminderd met € 450;  
 
-b. in geval van een personenauto waarvan de CO <sub>2</sub> -uitstoot met aardgas als brandstof is gemeten, verminderd met € 1 324; of  
+b. in geval van een personenauto waarvan de CO <sub>2</sub> -uitstoot met aardgas als brandstof is gemeten, verminderd met € 950; of  
 
-c. in geval van een personenauto die wordt aangedreven door een motor met een compressieontsteking vermeerderd met € 1 526.   In afwijking van de vorige volzinnen wordt onder personenauto niet verstaan een bijzondere personenauto als bedoeld in het twaalfde lid.   
+c. in geval van een personenauto die wordt aangedreven door een motor met een compressieontsteking vermeerderd met € 1 900.   In afwijking van de vorige volzinnen wordt onder personenauto niet verstaan een bijzondere personenauto als bedoeld in het twaalfde lid.   
 2.  De belasting bedraagt: 
 
 a. voor een bestelauto of een bijzondere personenauto als bedoeld in het twaalfde lid 37,7 percent van de netto catalogusprijs, verminderd met € 1 283, dan wel, ingeval van een bestelauto of bijzondere personenauto die wordt aangedreven door een motor met een compressieontsteking 37,7 percent van de netto catalogusprijs, vermeerderd met € 273;  
@@ -187,14 +187,9 @@ b. voor een motorrijwiel:
 11.  Indien voor de toepassing van dit artikel de CO <sub>2</sub> -uitstoot van een personenauto niet op een bij ministeriële regeling voorgeschreven wijze is aangetoond, wordt deze gesteld op 350 gram per kilometer respectievelijk 302 gram per kilometer voor een personenauto die wordt aangedreven door een motor met compressieontsteking.   
 12.  Voor de toepassing van dit artikel wordt onder bijzondere personenauto verstaan een personenauto die valt onder richtlijn 2002/24/EEG, alsmede een personenauto die een voertuig voor speciale doeleinden is zoals omschreven in Bijlage II, onderdeel A, punt 5, van richtlijn 2007/46/EG, waarbij voor de kampeerauto geldt dat deze voldoet aan de eisen gesteld in [artikel 23a van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en de daarop berustende bepalingen.   
 
-### Artikel  9a  
-
-1.  Voor een personenauto, niet zijnde een bijzondere personenauto, met een CO <sub>2</sub> -uitstoot van niet meer dan 120 gram/km wordt het bedrag aan belasting, bedoeld in artikel 9, eerste lid, verlaagd met € 500.   
-2.  Voor de toepassing van dit artikel is artikel 9, tiende tot en met twaalfde lid, van overeenkomstige toepassing.   
-
 ### Artikel  9b  
 
-1.  Voor een personenauto die wordt aangedreven door een motor met compressieontsteking wordt het bedrag aan belasting, bedoeld in artikel 9, eerste lid, verminderd met € 1 500, indien de personenauto voldoet aan de grenswaarden, genoemd in tabel 2 van bijlage I van Verordening (EG) nr. 715/2007 van het Europees parlement en de Raad van de Europese Gemeenschappen van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PBEG L 171).   
+1.  Voor een personenauto die wordt aangedreven door een motor met compressieontsteking wordt het bedrag aan belasting, bedoeld in artikel 9, eerste lid, verminderd met € 1 000, indien de personenauto voldoet aan de grenswaarden, genoemd in tabel 2 van bijlage I van Verordening (EG) nr. 715/2007 van het Europees parlement en de Raad van de Europese Gemeenschappen van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PBEG L 171).   
 2.  Een wijziging van de in het eerste lid genoemde verordening gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan de betrokken wijziging van de verordening uitvoering moet zijn gegeven, tenzij bij ministeriële regeling, die in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
 3.  Bij ministeriële regeling worden nadere regels gesteld ter uitvoering van dit artikel.   
 
@@ -206,7 +201,7 @@ b. voor een motorrijwiel:
 
 ### Artikel  10  
 
-1.  Met betrekking tot gebruikte personenauto's, gebruikte motorrijwielen of gebruikte bestelauto's wordt het bij de personenauto, het motorrijwiel of de bestelauto behorende bedrag aan belasting, bedoeld in artikel 9, eerste en tweede lid, na toepassing van artikel 9a en artikel 9b, berekend met inachtneming van een vermindering.   
+1.  Met betrekking tot gebruikte personenauto's, gebruikte motorrijwielen of gebruikte bestelauto's wordt het bij de personenauto, het motorrijwiel of de bestelauto behorende bedrag aan belasting, bedoeld in artikel 9, eerste en tweede lid, na toepassing van artikel 9b, berekend met inachtneming van een vermindering.   
 2.  De vermindering, bedoeld in het eerste lid, is de afschrijving, uitgedrukt in procenten van de inkoopwaarde in Nederland op het tijdstip waarop het motorrijtuig voor het eerst in gebruik is genomen. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de wijze waarop de inkoopwaarde in Nederland en de op deze waarde gebaseerde afschrijving kunnen worden vastgesteld.   
 3.  Indien na het tijdstip waarop een bestelauto voor het eerst in gebruik is genomen, een tijdsduur is verstreken van 5 jaar of meer, bedraagt in afwijking van het tweede lid het percentage van de vermindering 100.   
 4.  Indien na het tijdstip waarop de personenauto of het motorrijwiel voor het eerst in gebruik is genomen, een tijdsduur is verstreken van 25 jaar of meer, bedraagt in afwijking van het tweede lid het percentage van de vermindering 100.   
@@ -296,6 +291,7 @@ c. op het moment van de verwijdering van de melding van diefstal uit het registe
 
 1.  Bij algemene maatregel van bestuur kan, onder daarbij te stellen voorwaarden en beperkingen, vrijstelling van belasting worden verleend voor uit een ander land afkomstige personenauto's, motorrijwielen en bestelauto's die voor specifieke doeleinden, dan wel onder specifieke omstandigheden naar Nederland zijn gebracht.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van de in het eerste lid bedoelde algemene maatregel van bestuur.   
+3.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken aan de inspecteur tot vrijstelling voor specifieke doeleinden op grond van bepalingen krachtens het eerste lid.   
 
 ### Afdeling  2  
 
@@ -396,7 +392,7 @@ c. op het moment van de verwijdering van de melding van diefstal uit het registe
 
 1.  In geval van een verhoging van de in artikel 9 opgenomen tarieven wordt voor een personenauto, motorrijwiel of bestelauto waarvoor voorafgaande aan het tijdstip waarop de verhoging in werking treedt, een kentekenbewijs is afgegeven dat nog niet is tenaamgesteld, de belasting berekend op de voet van artikel 9, zoals dat luidde voor de inwerkingtreding, mits de tenaamstelling van het kenteken plaatsvindt binnen twee maanden na de inwerkingtreding. Indien de tenaamstelling plaatsvindt nadat deze twee maanden zijn verstreken, wordt de belasting berekend op de voet van artikel 9, zoals dat luidt nadat de verhoging in werking is getreden.   
 2.  In geval van een verlaging van de in artikel 9 opgenomen tarieven wordt voor een personenauto, motorrijwiel of bestelauto waarvoor voorafgaande aan het tijdstip waarop de verlaging in werking treedt, een kentekenbewijs is afgegeven dat nog niet is tenaamgesteld, de belasting berekend op de voet van artikel 9, zoals dat luidt nadat de verlaging in werking is getreden.   
-3.  Bij ministeriële regeling kunnen in overleg met Onze Minister van Verkeer en Waterstaat nadere regels worden gesteld ter uitvoering van dit artikel.   
+3.  Bij ministeriële regeling kunnen in overleg met Onze Minister van Infrastructuur en Milieu nadere regels worden gesteld ter uitvoering van dit artikel.   
 
 ### Artikel  16b  
 

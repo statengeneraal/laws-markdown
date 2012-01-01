@@ -516,7 +516,7 @@ a. de middelen die deze ontvangt ten behoeve van het levensonderhoud van een nie
 
 b. kinderbijslag ontvangen ten behoeve van zijn in of buiten Nederland woonachtige kinderen;  
 
-c. de jonggehandicaptenkorting alsmede, voor alleenstaande ouders van wie het jongste kind jonger dan vijf jaar is, de aanvullende alleenstaande ouderkorting, de inkomensafhankelijke combinatiekorting, bedoeld in [hoofdstuk 8 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+c. de jonggehandicaptenkorting alsmede, voor alleenstaande ouders van wie het jongste kind jonger dan vijf jaar is, het bedrag waarmee de alleenstaande ouderkorting wordt vermeerderd, bedoeld in [artikel 8.15, derde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de inkomensafhankelijke combinatiekorting, bedoeld [8.14a van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
 d. tegemoetkomingen in de zin van de [Algemene wet inkomensafhankelijke regelingen](../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);  
 
@@ -540,7 +540,7 @@ m. giften en andere dan de in onderdeel l bedoelde vergoedingen voor materiële 
 
 n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per 1 juli 2011: € 190,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon jonger dan 65 jaar geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
 
-o. een financiële tegemoetkoming waarop personen met een ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) recht hebben en een financiële tegemoetkoming waarop personen met een uitkering op grond van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) recht hebben;  
+o. de ten behoeve van een levensloopregeling als bedoeld in [artikel 19g, eerste lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij een uitvoerder als bedoeld in artikel 19g, derde lid, van die wet opgebouwde voorziening;  
 
 p. een tegemoetkoming als bedoeld in [artikel 29a van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
 
@@ -1202,13 +1202,13 @@ f. de Kamers van Koophandel, met dien verstande dat dit, in afwijking van de aan
 
 g. de korpschef en de bevelhebber van de Koninklijke marechaussee in de zin van de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
-h. de Belastingdienst/Toeslagen betreffende de toekenning van tegemoetkomingen met toepassing van de [Algemene wet inkomensafhankelijke regelingen](../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en Onze Minister voor Wonen, Wijken en Integratie betreffende de toepassing van de [Wet bevordering eigenwoningbezit](../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md);  
+h. de Belastingdienst/Toeslagen betreffende de toekenning van tegemoetkomingen met toepassing van de [Algemene wet inkomensafhankelijke regelingen](../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties betreffende de toepassing van de [Wet bevordering eigenwoningbezit](../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md);  
 
-i. Onze Minister van Onderwijs, Cultuur en Wetenschap dan wel, voor zover het betreft het onderwijs of onderzoek op het gebied van de landbouw en de natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit betreffende de toepassing van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) en de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+i. Onze Minister van Onderwijs, Cultuur en Wetenschap dan wel, voor zover het betreft het onderwijs of onderzoek op het gebied van de landbouw en de natuurlijke omgeving, Onze Minister van Economische Zaken, Landbouw en Innovatie betreffende de toepassing van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) en de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-j. Onze Minister van Landbouw, Natuur en Voedselkwaliteit betreffende de omvang van de productiebeperkende maatregelen voor het bedrijf van de ondernemer in de agrarische sector;  
+j. Onze Minister van Economische Zaken, Landbouw en Innovatie betreffende de omvang van de productiebeperkende maatregelen voor het bedrijf van de ondernemer in de agrarische sector;  
 
-k. Onze Minister van Justitie voor zover het betreft de persoon die rechtens zijn vrijheid is ontnomen of de persoon die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel;  
+k. Onze Minister van Veiligheid en Justitie voor zover het betreft de persoon die rechtens zijn vrijheid is ontnomen of de persoon die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel;  
 
 l. de instanties en personen die woonruimte verhuren;  
 
@@ -1218,7 +1218,7 @@ n. derden die in het kader van de uitoefening van beroep of bedrijf de arbeidsin
 
 o. de geneesheer-directeur, bedoeld in de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md);  
 
-p. Onze Minister voor Wonen, Wijken en Integratie betreffende de toepassing van de [Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md).     
+p. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties betreffende de toepassing van de [Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md).     
 2.  De geneesheer-directeur, bedoeld in het eerste lid, onderdeel o, verstrekt slechts opgaven en inlichtingen indien: 
 
 a. deze noodzakelijk zijn voor de uitvoering van artikel 13, derde lid, laatste zin; en  
@@ -1249,7 +1249,7 @@ b. die hun hoofdverblijf hebben in dezelfde woning, of ten aanzien van wie dat r
 9.  Bij algemene maatregel van bestuur kunnen een of meer van de in het eerste lid bedoelde instanties worden aangewezen die ten behoeve van aan het college te verstrekken opgaven en inlichtingen, de door het Inlichtingenbureau aan deze instanties verstrekte gegevens van aldaar op dat moment nog onbekende personen opslaan. Het derde lid is van overeenkomstige toepassing. Bij toepassing van de eerste volzin wordt bij of krachtens algemene maatregel van bestuur bepaald op welke wijze en gedurende welke termijn deze gegevens worden opgeslagen.   
 10.  Bij algemene maatregel van bestuur kunnen andere instanties en personen dan genoemd in het eerste en het vierde lid worden aangewezen voor wie de verplichtingen, bedoeld in het eerste lid tot en met achtste lid, eveneens gelden, voorzover het betreft de verstrekking van nader bij algemene maatregel van bestuur aan te wijzen inlichtingen en opgaven.   
 11.  Bij de algemene maatregel van bestuur, bedoeld in het tiende lid, kan tevens worden bepaald dat de daar bedoelde verplichting alleen geldt jegens ambtenaren met opsporingsbevoegdheid.   
-12.  Onze Minister van Justitie verstrekt ten aanzien van de persoon die rechtens zijn vrijheid is ontnomen of de persoon die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, onverwijld en kosteloos de beschikbare informatie en alle overige opgaven en inlichtingen, die van invloed kunnen zijn op het recht op bijstand, aan het college, of, indien het college aan het Uitvoeringsinstituut werknemersverzekeringen mandaat heeft verleend tot het nemen van besluiten inzake de verlening van bijstand, aan het Uitvoeringsinstituut werknemersverzekeringen, door tussenkomst van het Inlichtingenbureau, waarbij hij gebruik kan maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
+12.  Onze Minister van Veiligheid en Justitie verstrekt ten aanzien van de persoon die rechtens zijn vrijheid is ontnomen of de persoon die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, onverwijld en kosteloos de beschikbare informatie en alle overige opgaven en inlichtingen, die van invloed kunnen zijn op het recht op bijstand, aan het college, of, indien het college aan het Uitvoeringsinstituut werknemersverzekeringen mandaat heeft verleend tot het nemen van besluiten inzake de verlening van bijstand, aan het Uitvoeringsinstituut werknemersverzekeringen, door tussenkomst van het Inlichtingenbureau, waarbij hij gebruik kan maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
 
 ### Artikel  65  
 
@@ -1292,9 +1292,9 @@ f. buitenlandse organen voor de vervulling van een taak van zwaarwegend algemeen
 
 g. bestuursorganen van Aruba, Curaçao, en Sint Maarten voor de vervulling van een taak van zwaarwegend algemeen belang;  
 
-h. Onze Minister voor Wonen, Wijken en Integratie voor de uitvoering van de [Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+h. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voor de uitvoering van de [Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
 
-i. Onze Minister van Justitie in verband met de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen.     
+i. Onze Minister van Veiligheid en Justitie in verband met de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen.     
 2.  Het verstrekken door het college aan de in het eerste lid bedoelde instanties van de in het eerste lid bedoelde gegevens kan geschieden door tussenkomst van het Inlichtingenbureau.   
 3.  De in het eerste lid bedoelde gegevensverstrekking vindt niet plaats indien de persoonlijke levenssfeer van de betrokkenen daardoor onevenredig wordt geschaad.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin en de wijze waarop in ieder geval gegevens dienen te worden verstrekt.   
@@ -1349,6 +1349,13 @@ b. het verzamelen van gegevens noodzakelijk voor de berekening van het bedrag va
 
 1.  Onze Minister kan, indien hij van oordeel is dat het college, na afloop van de termijn, bedoeld in artikel 76, derde lid, geen of onvoldoende gevolg heeft gegeven aan een aanwijzing als bedoeld in artikel 76, derde lid, de uitkering, bedoeld in artikel 69, eerste lid, voor het jaar volgend op het jaar waarin de termijn afloopt, 1 procent lager vaststellen.   
 2.  Onze Minister kan, indien hij van oordeel is dat het college, twaalf maanden na afloop van de termijn, bedoeld in artikel 76, derde lid, nog geen of onvoldoende gevolg heeft gegeven aan een aanwijzing als bedoeld in artikel 76, derde lid, de uitkering, bedoeld in artikel 69, eerste lid, voor het tweede jaar volgend op het jaar waarin de termijn afloopt en de daaropvolgende jaren, telkens ten hoogste 3 procent lager vaststellen.   
+3.  Onze Minister schort de betaling van de uitkering, bedoeld in artikel 69, eerste lid, gedurende ten minste drie maanden op, indien Onze Minister met betrekking tot de rechtmatige uitvoering van deze wet ernstige tekortkomingen heeft vastgesteld als bedoeld in artikel 76, derde lid, totdat: 
+
+a. hij heeft vastgesteld aan de hand van de zienswijze van het college dat de ernstige tekortkomingen zijn opgeheven;  
+
+b. hij heeft vastgesteld, dat het college aan de in de aanwijzing, bedoeld in artikel 76, derde lid, opgenomen verplichtingen heeft voldaan;  
+
+c. hij heeft geoordeeld, dat het college na afloop van de termijn, bedoeld in artikel 76, derde lid, geen of onvoldoende gevolg heeft gegeven aan de aanwijzing.     
 
 ### Artikel  73  
 
@@ -1364,8 +1371,23 @@ b. het verzamelen van gegevens noodzakelijk voor de berekening van het bedrag va
 
 1.  Indien de door het college gemaakte kosten, bedoeld in artikel 69, eerste lid, hoger zijn dan de daarvoor verstrekte uitkering, kan door Onze Minister ten laste van een daarvoor ieder jaar bij wet vast te stellen bedrag op verzoek van het college een incidentele aanvullende uitkering of een meerjarige aanvullende uitkering worden toegekend.   
 2.  Een verzoek als bedoeld in het eerste lid wordt door het college ingediend bij de toetsingscommissie, bedoeld in artikel 73. Bij ministeriële regeling worden regels gesteld met betrekking tot de termijn waarbinnen een verzoek als bedoeld in het eerste lid kan worden ingediend en de termijn waarbinnen op dat verzoek wordt beslist.   
-3.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld onder welke voorwaarden een verzoek kan worden ingediend en op grond waarvan de toetsingscommissie een verzoek beoordeelt.   
-4.  Bij de beslissing op het verzoek betrekt Onze Minister, naast het oordeel van de toetsingscommissie, het oordeel van de Inspectie Werk en Inkomen over de uitvoering van deze wet.   
+3.  Onze Minister kan: 
+
+a. bepalen dat een meerjarige aanvullende uitkering wordt verminderd indien hij het college een aanwijzing heeft gegeven als bedoeld in artikel 76, derde lid;  
+
+b. een verleende meerjarige aanvullende uitkering verminderen of intrekken indien hij het college een aanwijzing heeft gegeven als bedoeld in artikel 76, derde lid.     
+4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor: 
+
+a. de gronden voor verlening van de aanvullende uitkering;  
+
+b. de berekening van de hoogte van de uitkering;  
+
+c. de voorwaarden, die aan het verzoek worden gesteld;  
+
+d. de wijze van beoordeling van het verzoek door de toetsingscommissie;  
+
+e. de toepassing van het derde lid.     
+5.  Bij de beslissing op het verzoek betrekt Onze Minister, naast het oordeel van de toetsingscommissie, het oordeel van de Inspectie Werk en Inkomen over de uitvoering van deze wet.   
 
 ### Artikel  74a  
 

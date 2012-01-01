@@ -573,15 +573,16 @@ a. ten aanzien van binnenlandse belastingplichtigen: het belastbare inkomen verm
 4°. de ouderentoeslag indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd heeft bereikt op grond waarvan hij ingevolge de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) in aanmerking zou komen voor een uitkering;    
 
 b. ten aanzien van buitenlandse belastingplichtigen: het belastbare inkomen voor zover dit is verkregen uit de opbrengsten, bedoeld in artikel 17, eerste lid, aanhef en onderdelen a, b, c, d, g en h.     
-2.  De belastingvrije som bedraagt USD 9.750.   
-3.  De kindertoeslag bedraagt USD 1.250 per kind, doch niet meer dan USD 2.500.   
-4.  De ouderentoeslag bedraagt USD 200.   
+2.  De belastingvrije som bedraagt USD 10 813.   
+3.  De kindertoeslag bedraagt USD 1 386 per kind, doch niet meer dan USD 2 772.   
+4.  De ouderentoeslag bedraagt USD 1 222.   
 5.  In afwijking van het derde lid wordt de kindertoeslag op nihil gesteld indien: 
 
 a. het persoonlijk inkomen van de belastingplichtige lager is dan het persoonlijk inkomen van zijn echtgenoot;  
 
 b. het persoonlijk inkomen van de belastingplichtige gelijk is aan het persoonlijk inkomen van zijn echtgenoot en de belastingplichtige jonger is dan zijn echtgenoot.     
 6.  De belastingplichtige die niet op de BES eilanden woont, komt in een kalenderjaar waarin hij tevens als op de BES eilanden wonende persoon belastingplichtig is, voor zijn periode van buitenlandse belastingplicht, in afwijking in zoverre van het eerste lid, onderdeel b, in aanmerking voor de belastingvrije som voor zover deze in de periode van binnenlandse belastingplicht onbenut is gebleven.   
+7.  In afwijking van het eerste lid, onderdeel b, komt een niet op de BES eilanden woonachtige belastingplichtige die een uit de BES eilanden afkomstige pensioenuitkering geniet die op grond van de voor de BES eilanden geldende fiscale regels wordt belast, in aanmerking voor de in het eerste lid, onderdeel a, onder 2°, genoemde belastingvrije som, met dien verstande dat de belastingvrije som die deze belastingplichtige in aanmerking mag nemen maximaal wordt gesteld op het bedrag van de pensioenuitkering dat volgens de fiscale regels van de BES eilanden mag worden belast.   
 
 ### Artikel  24a  
 
@@ -617,7 +618,7 @@ Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsver
 ### Artikel  25  
 
 1.  Bij het begin van het kalenderjaar vervangt Onze Minister de in de artikelen 24 en 24A vermelde bedragen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodige geachte afrondingen aan te brengen.   
-2.  De tabelcorrectiefactor is één gedeeld door prijsindexverhouding. De prijsindexverhouding is de verhouding van het gemiddelde van de prijsindexcijfers van de gezinsconsumptie, zoals berekend door het Centraal Bureau voor de Statistiek, betrekking hebbende op de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand en het gemiddelde van die prijsindexcijfers, betrekking hebbende op de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand.   
+2.  De tabelcorrectiefactor is één gedeeld door prijsindexverhouding. De prijsindexverhouding is de verhouding van het gemiddelde van de prijsindexcijfers van de gezinsconsumptie, zoals berekend door het Centraal Bureau voor de Statistiek, betrekking hebbende op de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand en het gemiddelde van die prijsindexcijfers, betrekking hebbende op de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand. Voor de toepassing van de tweede volzin wordt onder prijsindexcijfers verstaan het aan de hand van het aantal inwoners gewogen gemiddelde van de prijsindexcijfers voor Bonaire, Sint Eustatius en Saba. Voor de toepassing van de derde volzin wordt het aantal inwoners van Bonaire gesteld op 15 700, het aantal inwoners van Sint Eustatius op 2 886 en het aantal inwoners van Saba op 1 737.   
 3.  Ingeval de basis voor vorenbedoelde prijsindexcijfers wordt verlegd, geeft Onze Minister regels hoe bij toepassing van de vorige volzin wordt overgegaan van de oude op de nieuwe reeks prijsindexcijfers.   
 4.  Onze minister kan bij algemene maatregel van bestuur bepalen dat, in afwijking in zoverre van het eerste lid, bij het begin van de in die algemene maatregel van bestuur aangewezen kalenderjaren, de in de artikelen 24 en 24A vermelde bedragen worden vervangen door bedragen die worden berekend met een in die algemene maatregel van bestuur aangewezen factor. Deze factor bedraagt tenminste de helft van de tabelcorrectiefactor. De in de eerste volzin bedoelde algemene maatregel van bestuur dient tenminste twee maanden voor het begin van het eerste kalenderjaar waarop deze algemene maatregel van bestuur betrekking heeft tot stand te komen.   
 

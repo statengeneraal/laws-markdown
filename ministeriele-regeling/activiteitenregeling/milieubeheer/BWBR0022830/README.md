@@ -13,7 +13,7 @@ Besluit:
 
 ### Afdeling  1.1  
 
-####Begripsbepalingen
+####Begripsbepalingen en procedurele bepalingen
 
 ### Artikel  1.1  
 
@@ -204,6 +204,10 @@ In deze regeling wordt verstaan onder: aardgas-afleverinstallatie: een inrichtin
 
 1.  Als oppervlaktewaterlichamen die met het oog op het lozen geen bijzondere bescherming behoeven als bedoeld in [artikel 1.7, eerste lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden aangewezen de in bijlage 2 opgenomen oppervlaktewaterlichamen.   
 2.  De in het eerste lid bedoelde aanwijzing beperkt zich tot het gedeelte van een oppervlaktewaterlichaam dat valt onder het beheer van de beheerder die bij het betreffende oppervlaktewaterlichaam in de bijlage vermeld staat.   
+
+### Artikel  1.3a  
+
+Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in de artikelen 3.10, tweede lid, 3.14, tweede lid, en 4.8, vierde lid.  
 
 ### Afdeling  1.2  
 
@@ -905,11 +909,11 @@ e. een juiste en veilige werking van de natte koeltoren conform de processpecifi
 
 ### §  3.3.1  
 
-####Afleveren van vloeibare brandstof, mengsmering en aardgas ten behoeve van openbare verkoop voor motorvoertuigen voor het wegverkeer
+####Afleveren van vloeibare brandstof en gecomprimeerd aardgas aan motorvoertuigen voor het wegverkeer
 
 ### Artikel  3.17  
 
-Deze paragraaf is van toepassing op een inrichting voor zover sprake is van het afleveren van vloeibare brandstoffen, mengsmering en aardgas als bedoeld in [artikel 3.17, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
+Deze paragraaf is van toepassing op een inrichting voor zover sprake is van het afleveren van vloeibare brandstof en gecomprimeerd aardgas, bedoeld in [artikel 3.17, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
 
 ### Artikel  3.17a  
 
@@ -917,32 +921,33 @@ Als testprocedure voor dampretour fase-II als bedoeld in [artikel 3.20, vierde l
 
 ### Artikel  3.18  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt bij het afleveren van vloeibare brandstoffen, mengsmering ten minste voldaan aan de artikelen 3.20 tot en met 3.22 en bij het afleveren van aardgas aan artikel 3.23.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico wordt bij het afleveren van vloeibare brandstoffen en mengsmering voldaan aan de artikelen 3.21, 3.22, 3.24 tot en met 3.26.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt bij het afleveren van vloeibare brandstof ten minste voldaan aan de artikelen 3.20 tot en met 3.22 en bij het afleveren van gecomprimeerd aardgas aan artikel 3.23.   
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico wordt bij het afleveren van vloeibare brandstof voldaan aan de artikelen 3.21, 3.21a, 3.22, 3.25 en 3.26.   
 3.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van luchtverontreiniging wordt bij het afleveren van lichte olie voldaan aan artikel 3.19.   
 
 ### Artikel  3.19  
 
 1.  De tankinstallatie is zodanig uitgevoerd dat bij het vullen van een opslagtank met lichte olie de uit de opslagtank verdreven dampen door een gasdichte retourleiding kunnen worden teruggevoerd naar het reservoir van de tankwagen die de lichte olie levert (dampretour stage I). Het systeem is zo ontworpen dat drukopbouw zoveel mogelijk wordt voorkomen. Indien een vacuümdrukklep wordt toegepast bedraagt de drukopbouw in het gehele systeem niet meer dan de openingsdruk van de desbetreffende klep. Deze openingsdruk bedraagt niet meer dan 3,92 kilopascal.   
 2.  Indien lichte olie wordt aangeleverd worden de uit de ondergrondse opslagtank verdreven dampen teruggevoerd met de in het eerste lid bedoelde voorziening.   
-3.  De aansluitpunten van de vulleidingen en de dampretourleidingen op het tankstation zijn zodanig uitgevoerd dat verwisseling van de vulslang en de dampretourslang van en naar de tankwagen, uitgesloten is.   
+3.  De aansluitpunten van de vulleidingen en de dampretourleidingen zijn zodanig uitgevoerd dat verwisseling van de vulslang en de dampretourslang van en naar de tankwagen, uitgesloten is.   
 4.  Het vullen van een ondergrondse opslagtank vindt niet plaats indien de dampretourleiding lek is.   
+5.  Het eerste tot en met vierde lid is niet van toepassing op een inrichting met een debiet van lichte olie van minder dan 100 kubieke meter per jaar.   
 
 ### Artikel  3.20  
 
-1.  De in het dampretour stage II systeem gebruikte onderdelen geven geen aanleiding tot het optreden van brand of explosie van de bij het afleveren van lichte olie ten behoeve van openbare verkoop aan motorvoertuigen voor het wegverkeer uit het brandstofreservoir van het motorvoertuig verdreven dampen die worden teruggevoerd in de ondergrondse opslagtank van het tankstation.   
-2.  Het dampretour stage II systeem is voorzien van op de juiste plaats(en) aangebrachte en doelmatig werkende vlamkerende voorziening(en).   
-3.  Het gebruikte dampretour stage II systeem verkeert in een goede staat en is vrij van scheuren, gaten en andere gebreken.   
+1.  De in het EU-systeem voor dampretour fase-II gebruikte onderdelen geven geen aanleiding tot het optreden van brand of explosie van de bij het afleveren van lichte olie aan motorvoertuigen voor het wegverkeer uit het brandstofreservoir van het motorvoertuig verdreven dampen die worden teruggevoerd in de ondergrondse opslagtank.   
+2.  Het EU-systeem voor dampretour fase-II is voorzien van op de juiste plaats(en) aangebrachte en doelmatig werkende vlamkerende voorziening(en).   
+3.  Het gebruikte EU-systeem voor dampretour fase-II verkeert in een goede staat en is vrij van scheuren, gaten en andere gebreken.   
 
 ### Artikel  3.21  
 
 1.  De vaste afleverinstallatie is uitgevoerd en geïnstalleerd overeenkomstig BRL K903 door een gecertificeerd bedrijf. Het vervangen en repareren van gedeelten van een afleverinstallatie geschiedt overeenkomstig BRL K903 door een gecertificeerd bedrijf.   
-2.  De vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstoffen ten behoeve van openbare verkoop voor motorvoertuigen voor het wegverkeer aan de voorschriften 5.8, 6.1.3, 6.5, 6.7, 7.1, 7.7, 9.3, 9.5, 9.6, 9.6.1.1 tot en met 9.6.1.5 van PGS 28.   
-3.  In aanvulling op het tweede lid: 
+2.  De vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstof aan motorvoertuigen voor het wegverkeer aan de voorschriften 5.8, 6.5, 6.7, 7.1, 7.7, 9.3, 9.5, 9.6, 9.6.1.1 tot en met 9.6.1.5 van PGS 28.   
+3.  Onverminderd het tweede lid: 
 
 a. wordt het temperatuurgevoelige element eenmaal in de twee jaar gecontroleerd. Indien naar aanleiding van deze controle blijkt dat het temperatuurgevoelige element niet goed meer functioneert wordt deze terstond gerepareerd of vervangen.  
 
-b. is bij een tankstation ten minste één noodstopvoorziening aangebracht. Bij uitsluitend bemande aflevering van vloeibare brandstof is die voorziening bij de kassa van het tankstation te bedienen. Bij geheel of gedeeltelijk onbemande aflevering van vloeibare brandstof is die voorziening op ten minste één voor een ieder goed bereikbare plaats te bedienen, die duidelijk zichtbaar en aangegeven is bij elke afleverzuil. Het uitschakelen van de noodstopvoorziening, waardoor het afleveren kan worden hervat, geschiedt eerst nadat de drijver van het tankstation heeft vastgesteld dat de gevaarlijke situatie die heeft geleid tot het inschakelen van de noodstopvoorziening, is opgeheven.     
+b. is binnen een inrichting ten minste één noodstopvoorziening aangebracht. Bij uitsluitend bemande aflevering van vloeibare brandstof is die voorziening bij de kassa te bedienen. Bij geheel of gedeeltelijk onbemande aflevering van vloeibare brandstof is die voorziening op ten minste één voor een ieder goed bereikbare plaats te bedienen, die duidelijk zichtbaar en aangegeven is bij elke afleverzuil. Het uitschakelen van de noodstopvoorziening, waardoor het afleveren kan worden hervat, geschiedt eerst nadat de drijver van de inrichting heeft vastgesteld dat de gevaarlijke situatie die heeft geleid tot het inschakelen van de noodstopvoorziening, is opgeheven.     
 
 ### Artikel  3.21a  
 
@@ -961,24 +966,23 @@ b. is bij een tankstation ten minste één noodstopvoorziening aangebracht. Bij 
 
 ### Artikel  3.22  
 
-De mobiele afleverinstallatie voldoet bij het afleveren van mengsmering ten behoeve van openbare verkoop voor motorvoertuigen voor het wegverkeer aan de voorschriften 5.8, 9.6.2.1 tot en met 9.6.2.5 van PGS 28. Het reservoir van een mobiel aflevertoestel is lekdicht en beschermd tegen aanrijden of omvallen.  
+Een mobiele afleverinstallatie voldoet bij het afleveren van lichte olie aan motorvoertuigen voor het wegverkeer aan de voorschriften 5.8 en 9.6.2.1 tot en met 9.6.2.5 van PGS 28.  
 
 ### Artikel  3.23  
 
-Een aardgas-afleverinstallatie voldoet bij het afleveren van aardgas ten behoeve van openbare verkoop voor motorvoertuigen voor het wegverkeer aan hoofdstuk 7 tot en met 14 van PGS 25 met uitzondering van de paragrafen 7.1.8, 7.3.8 tot en met 7.3.13, 7.7.1, 7.9, 8.6, 8.7, 8.8, 9.2, 10.8 en 13.4.  
-
-### Artikel  3.24  
-
-Een mobiele afleverinstallatie voor benzine met mengsmering is opgesteld op een vloeistofdichte vloer of verharding die reikt tot ten minste één meter buiten de projectie van de afleverinstallatie. Het vullen van een mobiele afleverinstallatie vindt plaats boven een vloeistofdichte vloer of verharding of een lekbak.  
+Een aardgas-afleverinstallatie voldoet bij het afleveren van gecomprimeerd aardgas aan motorvoertuigen voor het wegverkeer aan hoofdstuk 7 tot en met 14 van PGS 25 met uitzondering van de paragrafen 7.1.8, 7.3.8 tot en met 7.3.13, 7.7.1, 7.9, 8.6, 8.7, 8.8, 9.2, 10.8 en 13.4.  
 
 ### Artikel  3.25  
 
-1.  Het afleveren van vloeibare brandstoffen en mengsmering ten behoeve van openbare verkoop voor motorvoertuigen voor het wegverkeer vindt plaats boven een vloeistofdichte vloer of verharding.   
-2.  De vloeistofdichte vloer of verharding als bedoeld in het eerste lid is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit en strekt zich, voor zover erfafscheidingen, gebouwen en andere fysieke begrenzingen dit toelaten, vanaf de afleverzuil uit over een afstand van ten minste de lengte van de afleverslang plus één meter, met een minimum van vijf meter. Indien de vloeistofdichte vloer of verharding zich daardoor zou uitstrekken tot over de openbare weg dan strekt deze vloer of verharding zich uit tot de openbare weg met dien verstande dat deze afstand niet minder bedraagt dan drie meter. In de laatste situatie is de afleverslang niet langer dan vier meter. De minimumafstand van vijf meter is niet van toepassing op een vloeistofdichte vloer of verharding bij een afleverinstallatie van mengsmering. Aan de zijde waar geen tankende voertuigen kunnen worden opgesteld strekt de vloeistofdichte vloer of verharding zich uit tot een afstand van ten minste één meter vanaf het hart van de afleverzuil.   
+1.  Het afleveren van vloeibare brandstof aan motorvoertuigen voor het wegverkeer vindt plaats boven een vloeistofdichte vloer of verharding.   
+2.  De vloeistofdichte vloer of verharding, bedoeld in het eerste lid, is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit en strekt zich, voor zover erfafscheidingen, gebouwen en andere fysieke begrenzingen dit toelaten, vanaf de afleverzuil uit over een afstand van ten minste de lengte van de afleverslang plus één meter, met een minimum van vijf meter. Indien de vloeistofdichte vloer of verharding zich daardoor zou uitstrekken tot over de openbare weg dan strekt deze vloer of verharding zich uit tot de openbare weg met dien verstande dat deze afstand niet minder bedraagt dan drie meter. In de laatste situatie is de afleverslang niet langer dan vier meter. Aan de zijde waar geen tankende voertuigen kunnen worden opgesteld strekt de vloeistofdichte vloer of verharding zich uit tot een afstand van ten minste één meter vanaf het hart van de afleverzuil.   
+3.  In afwijking van het eerste lid vindt het afleveren van vloeibare brandstof aan motorvoertuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, plaats boven een bodembeschermende voorziening.   
+4.  In afwijking van het tweede lid is een mobiele afleverinstallatie opgesteld op een vloeistofdichte vloer of verharding die reikt tot ten minste 1 meter buiten de projectie van de afleverinstallatie.   
+5.  Het afleveren van ureum aan motorvoertuigen voor het wegverkeer vindt plaats boven de bodembeschermende voorziening die op grond van het eerste tot en met vierde lid is voorgeschreven voor het afleveren van vloeibare brandstof.   
 
 ### Artikel  3.26  
 
-1.  In afwijking van artikel 3.25, eerste lid, kan het afleveren van vloeibare brandstoffen en mengsmering plaatsvinden boven een geomembraanbaksysteem, indien: 
+1.  In afwijking van artikel 3.25, eerste tot en met vierde lid, kan het afleveren van vloeibare brandstof plaatsvinden boven een geomembraanbaksysteem, indien: 
 
 a. de inrichting is gelegen binnen de bebouwde kom waarbij de afleverzuilen in één rij parallel aan de naastgelegen weg staan opgesteld en het afleveren uitsluitend aan de wegzijde op of aan de openbare weg plaatsvindt, of  
 
@@ -2573,45 +2577,40 @@ Indien blijkt dat bij het afleveren van vloeibare brandstoffen aan vaartuigen en
 
 ### §  4.6.3  
 
-####Afleveren van vloeibare brandstof, mengsmering en aardgas anders dan voor openbare verkoop aan derden voor motorvoertuigen voor het wegverkeer en voor vaartuigen
+####Afleveren van vloeibare brandstof en gecomprimeerd aardgas anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen
 
 ### Artikel  4.88  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt bij het afleveren van vloeibare brandstoffen en aardgas, anders dan bedoeld in de [artikelen 3.17](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.77 tot en met 4.79 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), ten minste voldaan aan de artikelen 4.90 tot en met 4.93.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico wordt bij het afleveren van vloeibare brandstoffen, anders dan bedoeld in de [artikelen 3.17](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.77 tot en met 4.79 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldaan aan de artikelen 4.91 en 4.94.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt bij het afleveren van vloeibare brandstof en gecomprimeerd aardgas, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, ten minste voldaan aan de artikelen 4.90 tot en met 4.93.   
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico wordt bij het afleveren van vloeibare brandstof, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, voldaan aan de artikelen 4.91 en 4.94.   
 3.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van luchtverontreiniging wordt bij het afleveren van lichte olie voldaan aan artikel 4.89.   
 
 ### Artikel  4.89  
 
 1.  De tankinstallatie is zodanig uitgevoerd dat bij het vullen van een opslagtank met lichte olie de uit de opslagtank verdreven dampen door een gasdichte retourleiding kunnen worden teruggevoerd naar het reservoir van de tankwagen die de lichte olie levert (dampretour stage I). Het systeem is zo ontworpen dat drukopbouw zoveel mogelijk wordt voorkomen. Indien een vacuümdrukklep wordt toegepast bedraagt de drukopbouw in het gehele systeem niet meer dan de openingsdruk van de desbetreffende klep. Deze openingsdruk bedraagt niet meer dan 3,92 kilopascal.   
 2.  Indien lichte olie wordt aangeleverd is het terugvoeren van de uit de ondergrondse opslagtank verdreven dampen met de in het eerste lid bedoelde voorziening verplicht.   
-3.  De aansluitpunten van de vulleidingen en de dampretourleidingen op het tankstation zijn zodanig uitgevoerd dat verwisseling van de vulslang en de dampretourslang van en naar de tankwagen is uitgesloten.   
+3.  De aansluitpunten van de vulleidingen en de dampretourleidingen zijn zodanig uitgevoerd dat verwisseling van de vulslang en de dampretourslang van en naar de tankwagen is uitgesloten.   
 4.  Het vullen van een ondergrondse opslagtank vindt niet plaats indien de dampretourleiding lek is.   
-5.  Het eerste tot en met het vierde lid zijn niet van toepassing op een tankstation met een debiet van minder dan 100 kubieke meter lichte olie per jaar.   
-
-### Artikel  4.90  
-
-Het dampretourstage II systeem voldoet bij het afleveren van lichte olie, anders dan bedoeld in de [artikelen 3.17](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.77 tot en met 4.79 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan artikel 3.20.  
+5.  Het eerste tot en met het vierde lid is niet van toepassing op een inrichting met een debiet van lichte olie van minder dan 100 kubieke meter per jaar.   
 
 ### Artikel  4.91  
 
-De vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstoffen, anders dan bedoeld in de [artikelen 3.17](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.77 tot en met 4.79 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), vanuit een ondergrondse opslagtank aan artikel 3.21, tweede lid.  
+Een vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen aan de voorschriften 5.8, 6.5, 6.7, 7.1, 7.7, 9.3, 9.5, 9.6 en 9.6.1.1 tot en met 9.6.1.5 van PGS 28.  
 
 ### Artikel  4.92  
 
-1.  De afleverinstallatie voldoet bij het afleveren van vloeibare brandstoffen vanuit een bovengrondse opslagtank aan voertuigen, die bestemd zijn voor eigen bedrijfsmatig gebruik, waarbij minder dan 25.000 liter per jaar wordt getankt aan het tweede tot en met zesde lid.   
-2.  Het vulpistool wordt goed weggehangen. Na gebruik lekt er geen brandstof uit het vulpistool. De afleverslang van de pompinstallatie is voorzien van een automatisch afslaand vulpistool om overvullen van het tankende voertuig te voorkomen.   
-3.  Als een deel van de afleverpomp/installatie, leidingen of de afleverslang zich onder het hoogste vloeistofniveau van de tank kunnen bevinden is een antihevel beveiliging aangebracht tussen de tank en de flexibele afleverslang.   
+1.  In afwijking van artikel 4.91 voldoet een vaste afleverinstallatie bij het afleveren van vloeibare brandstof, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, aan het tweede tot en met zesde lid.   
+2.  Het vulpistool wordt goed weggehangen. Na gebruik lekt er geen brandstof uit het vulpistool. De afleverslang is voorzien van een automatisch afslaand vulpistool om overvullen van het tankende voertuig te voorkomen.   
+3.  Als een deel van de afleverinstallatie, leidingen of de afleverslang zich onder het hoogste vloeistofniveau van de tank kunnen bevinden is een antihevel beveiliging aangebracht tussen de tank en de flexibele afleverslang.   
 4.  Bij het toepassen van een handpomp is de afleverslang na gebruik leeg. Eventueel aanwezige brandstofresten worden teruggevoerd naar de tank. Een vulpistool van een elektrische pomp is voorzien van een automatisch afslagmechanisme.   
 5.  Een afleverinstallatie is voorzien van een vulkraan, die indien deze buiten gebruik is, niet in werking kan worden gesteld door onbevoegden.   
-6.  Een afleverzuil met een elektrische pomp is voorzien van een schakelaar voor het in- en uitschakelen van de afleverinstallatie.   
+6.  Een afleverinstallatie met een elektrische pomp is voorzien van een aan- en uitschakelaar.   
 
 ### Artikel  4.92a  
 
-1.  Onverminderd de artikelen 4.92 en 4.93 voldoet de afleverinstallatie bij het inpandig afleveren van lichte olie bestemd voor eigen gebruik vanuit een bovengrondse stationaire verpakking als bedoeld in artikel 4.9a, dat is toegestaan op grond van [artikel 6.34, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan het tweede tot en met vierde lid.   
-2.  Op of bij de pomp wordt duidelijk zichtbaar het veiligheidssignaal aangebracht:’ VUUR, OPEN VLAM EN ROKEN VERBODEN’ en wordt vermeld: ‘MOTOR AFZETTEN’.   
-3.  Nabij de pomp is ten minste één draagbaar blustoestel aanwezig met een vulling van ten minste 6 kg of liter blusstof.   
-4.  De afleverzuil wordt voorzien van een thermische brandmelder die is aangesloten op een akoestisch signaal.   
+1.  Een mobiele afleverinstallatie voldoet bij het afleveren van lichte olie, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, aan het tweede en derde lid.   
+2.  Een mobiele afleverinstallatie voldoet bij het afleveren van lichte olie aan de voorschriften 5.8 en 9.6.2.1 tot en met 9.6.2.5 van PGS 28.   
+3.  Een mobiele afleverinstallatie is opgesteld op een vloeistofdichte vloer of verharding die reikt tot ten minste 1 meter buiten de projectie van de afleverinstallatie.   
 
 ### Artikel  4.92b  
 
@@ -2621,12 +2620,14 @@ De vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstoffen
 
 ### Artikel  4.93  
 
-Een aardgas-afleverinstallatie voldoet bij het afleveren van aardgas, anders dan bedoeld in [artikel 3.17 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan artikel 3.23.  
+Een aardgas-afleverinstallatie voldoet bij het afleveren van gecomprimeerd aardgas, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, aan de hoofdstukken 7 tot en met 14 van PGS 25, met uitzondering van de paragrafen 7.1.8, 7.3.8 tot en met 7.3.13, 7.7.1, 7.9, 8.6, 8.7, 8.8, 9.2, 10.8 en 13.4.  
 
 ### Artikel  4.94  
 
-1.  Het afleveren van vloeibare brandstoffen aan voertuigen, die bestemd zijn voor eigen bedrijfsmatig gebruik, waarbij minder dan 25.000 liter per jaar wordt getankt vindt plaats boven een bodembeschermende voorziening.   
-2.  Indien bij de activiteit, bedoeld in het eerste lid, meer dan 25.000 liter per jaar wordt getankt dan vindt deze activiteit plaats boven een vloeistofdichte vloer of verharding. Artikel 3.25 en 3.26 zijn van overeenkomstige toepassing.   
+1.  Het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen vindt plaats boven een vloeistofdichte vloer of verharding.   
+2.  De vloeistofdichte vloer of verharding, bedoeld in het eerste lid, is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit, en strekt zich, voor zover erfafscheidingen, gebouwen en andere fysieke begrenzingen dit toelaten, vanaf de afleverzuil uit over een afstand van ten minste de lengte van de afleverslang plus 1 meter, met een minimum van 5 meter. Indien de vloeistofdichte vloer of verharding zich daardoor zou uitstrekken tot over de openbare weg dan strekt deze vloer of verharding zich uit tot de openbare weg met dien verstande dat deze afstand niet minder bedraagt dan 3 meter. In de laatste situatie is de afleverslang niet langer dan 4 meter. Aan de zijde waar geen tankende voertuigen kunnen worden opgesteld, strekt de vloeistofdichte vloer of verharding zich uit tot een afstand van ten minste 1 meter vanaf het hart van de afleverzuil.   
+3.  In afwijking van het eerste lid vindt het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, plaats boven een bodembeschermende voorziening.   
+4.  In afwijking van het tweede lid is een mobiele afleverinstallatie opgesteld op een vloeistofdichte vloer of verharding die reikt tot ten minste 1 meter buiten de projectie van de afleverinstallatie.   
 
 ### Artikel  4.94a  
 
@@ -3291,10 +3292,6 @@ In aanvulling op de artikelen 4.3 en 4.4 kan het bevoegd gezag voor inrichtingen
 1.  Ten aanzien van inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip van het van toepassing worden van [artikel 1.4, eerste of tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), op die inrichtingen, een vergunning in werking en onherroepelijk was, dan wel voorschriften golden op basis van één van de besluiten, genoemd in [artikel 6.43 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), zijn de artikelen 4.40, vierde lid, 4.46, vierde lid, 4.64, vierde lid, 4.68, zesde lid, 4.84c, tweede lid, 4.85, 4.100, eerste lid, 4.102c, tweede lid, 4.102f, tweede lid, 4.104d, tweede lid, 4.107, eerste lid, en 4.108, eerste lid, niet van toepassing, voor zover er geen verandering van de inrichting plaatsvindt waarvoor een melding krachtens [artikel 1.10 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) nodig is en voor zover er geen verandering van de inrichting plaatsvindt die leidt tot een toename van de geurbelasting op gevoelige gebouwen.   
 2.  In afwijking van het eerste lid kan het bevoegd gezag maatwerkvoorschriften als bedoeld in de artikelen 4.40, zevende en achtste lid, 4.46, zevende en achtste lid, 4.64, zevende en achtste lid, 4.68, achtste en negende lid, 4.84c, vierde en vijfde lid, 4.100, derde lid, 4.102c, vierde lid, 4.102f, vierde en vijfde lid, 4.104d, vierde en vijfde lid, 4.107, vierde lid, en 4.108, tweede en derde lid stellen.   
 3.  In afwijking van het eerste lid, kan het bevoegd gezag indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt met inachtneming van de NeR bij maatwerkvoorschrift bepalen dat artikel 4.107, eerste lid, wel van toepassing is.   
-
-### Artikel  6.9  
-
-In afwijking van artikel 3.21, tweede lid geldt voor een afleverinstallatie die is opgericht voor het in werking treden van deze regeling tot 1 januari 2011 een afstand van 4 meter tot een (riool)put of ander laag gelegen ruimte.  
 
 ### Artikel  6.10  
 

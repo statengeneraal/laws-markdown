@@ -51,7 +51,7 @@ d. of aan de onder b bedoelde verklaring beperkingen als bedoeld in [artikel 41,
 
 e. of sprake is van een bijzonder geval als bedoeld in [artikel 41, vierde lid, van de wet](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md).     
 2.  De commissie heeft voorts tot taak Onze Minister van advies te dienen over de vraag of werkervaring als bedoeld in [artikel 8, tweede lid, onderdeel c, van de wet](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), welke is opgedaan buiten het EER-gebied en buiten Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van het desbetreffende beroep binnen de individuele gezondheidszorg.   
-3.  Op verzoek van Onze Minister adviseert de commissie Onze Minister over de vraag of de werkervaring die een fysiotherapeut heeft opgedaan buiten Nederland, doch binnen het EER-gebied of in Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van de fysiotherapie.   
+3.  Op verzoek van Onze Minister adviseert de commissie Onze Minister over de vraag of de werkervaring die een fysiotherapeut, een gezondheidszorgpsycholoog of een psychotherapeut heeft opgedaan buiten Nederland, doch binnen het EER-gebied of in Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van de fysiotherapie, de gezondheidszorgpsychologie onderscheidenlijk de psychotherapie.   
 
 ### Artikel  3a  
 

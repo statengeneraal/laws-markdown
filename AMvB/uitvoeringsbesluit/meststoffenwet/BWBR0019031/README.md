@@ -362,7 +362,7 @@ b. de overige te verstrekken gegevens, de wijze waarop deze gegevens worden vers
 
 ### Artikel  28  
 
-1.  De producent van dierlijke meststoffen draagt er zorg voor dat de capaciteit van de opslagruimte voor dierlijke meststoffen op het bedrijf voldoende is voor de opslag van de hoeveelheid dierlijke meststoffen die in de periode van september tot en met februari op het bedrijf wordt geproduceerd.   
+1.  De producent van dierlijke meststoffen draagt er zorg voor dat de capaciteit van de opslagruimte voor dierlijke meststoffen op het bedrijf voldoende is voor de opslag van de hoeveelheid dierlijke meststoffen die in de periode van augustus tot en met februari op het bedrijf wordt geproduceerd.   
 2.  De hoeveelheid dierlijke meststoffen, bedoeld in het eerste lid, wordt berekend door vermenigvuldiging van: 
 
 a. het aantal dieren van de onderscheiden diersoorten en diercategorieën dat op grond van de omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), in de tot het bedrijf behorende stallen kan worden gehouden, met  
@@ -377,11 +377,11 @@ b. de voor de betrokken diersoort en diercategorie bij ministeriële regeling va
 
 a. de overeenkomstig artikel 28, tweede en derde lid, berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit op een voor het milieu onschadelijke wijze van het bedrijf zal worden verwijderd;  
 
-b. de overeenkomstig artikel 28, tweede en derde lid, berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit zal worden aangewend op tot het bedrijf behorend bouwland waarvoor het in [artikel 4 van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) gestelde verbod niet geldt;  
+b. de overeenkomstig artikel 28, tweede en derde lid, berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit zal worden aangewend op tot het bedrijf behorend bouwland of grasland waarvoor het in [artikel 4 van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) gestelde verbod niet geldt;  
 
-c. het aantal dieren dat in de periode van september tot en met februari feitelijk in de tot het bedrijf behorende stallen kan worden gehouden kleiner is dan op grond van de omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), is toegestaan; of  
+c. het aantal dieren dat in de periode van augustus tot en met februari feitelijk in de tot het bedrijf behorende stallen kan worden gehouden kleiner is dan op grond van de omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), is toegestaan; of  
 
-d. in de periode van september tot en met februari stelselmatig minder dieren worden gehouden in de bij het bedrijf behorende stallen.     
+d. in de periode van augustus tot en met februari stelselmatig minder dieren worden gehouden in de bij het bedrijf behorende stallen.     
 2.  Het eerste lid, aanhef en onderdeel b, geldt niet voor de hoeveelheid dierlijke meststoffen die in februari wordt geproduceerd.   
 
 ### Artikel  30  
@@ -881,7 +881,18 @@ e. de verantwoording van de vaststellingen.
 
 ### Artikel  73  
 
-De hoogten van de bestuurlijke boetes ter zake van overtredingen, bedoeld in [artikel 62, tweede lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md), worden vastgesteld overeenkomstig het bedrag dat voor de desbetreffende overtreding is vermeld in Bijlage III bij dit besluit.  
+1.  De hoogte van de op grond van [artikel 62, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) te bepalen bestuurlijke boete bedraagt voor de volgende categorieën: 
+
+a. niet op de voorgeschreven wijze administreren, registreren of invullen van gegevens: € 50;  
+
+b. niet tijdig administreren, registreren of niet tijdig indienen: € 100;  
+
+c. niet volledig administreren, registreren of niet volledig invullen of niet ondertekenen: € 200;  
+
+d. niet naar waarheid administreren, registreren of niet naar waarheid invullen: € 300;  
+
+e. niet administreren, registreren, niet indienen, niet aanwezig hebben: € 300.     
+2.  Bij ministeriële regeling wordt per overtreding de hoogte van de bestuurlijke boete aangewezen overeenkomstig het eerste lid.   
 
 ### Artikel  74  
 
@@ -1077,327 +1088,3 @@ Tabel 4. Maximale waarden voor organische microverontreinigingen in meststoffen 
 | Minerale olie  | 935000  | 748000  | 498668  | 187000  |  24933  |
 
 Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die behoren bij dat waardegevende bestanddeel waarvan bij het toedienen van een toenemende hoeveelheid van de meststof, de hoeveelheden van 80 kilogram fosfaat, 100 kg stikstof, 150 kilogram kali, 400 kilogram neutraliserende waarde of 3000 kilogram organische stof het éérst wordt bereikt. 
-
-### Bijlage  III  
-
-####, behorende bij artikel 73  van het Uitvoeringsbesluit Meststoffenwet
-
-| Wettelijke bepaling  | [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) (Mw)  | Uitvoeringsbesluit (UB)  | [Uitvoeringsregeling](../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md) (UR)  | Omschrijving regelovertreding  | Feitcode  | Hoogte bestuurlijke boete  |
-|:---|:---|:---|:---|:---|:---|:---|
-| Administratieve verplichtingen landbouwers  |
-| --- |
-| Art. 34 en 35  | Art. 26 lid 1 en 2  | Art. 3,  art. 124 lid 1  | Niet verstrekken van gegevens over oppervlakte, gewasteelt en ligging van percelen op de verzamelaanvraag door de landbouwer  | M100  | € 300  |
-| --- | --- | --- | Niet tijdig verstrekken van gegevens over oppervlakte, gewasteelt en ligging van percelen op de verzamelaanvraag (opgave uiterlijk vóór 15 mei) door de landbouwer  | M101  | € 100  |
-| --- | --- | --- | Niet volledig verstrekken van gegevens over oppervlakte, gewasteelt en ligging van percelen op verzamelaanvraag door de landbouwer  | M102  | € 200  |
-| --- | --- | --- | Niet naar waarheid verstrekken van gegevens over oppervlakte, gewasteelt en ligging van percelen op de verzamelaanvraag door de landbouwer  | M103  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 26 lid 2  | Art. 41  | Niet melden van een wijziging in de oppervlakte grond in de periode van 16 mei t/m 31 oktober door de landbouwer  | M104  | € 300  |
-| --- | --- | --- | Niet binnen 30 dagen melden van een wijziging in de oppervlakte grond door de landbouwer  | M105  | € 100  |
-| --- | --- | --- | Niet volledig melden van een wijziging in de oppervlakte grond door de landbouwer  | M106  | € 200  |
-| --- | --- | --- | Niet naar waarheid melden van een wijziging in de oppervlakte grond door de landbouwer  | M107  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 31 lid 1 en lid 2 onderdeel a t/m f,  art. 36 onderdeel a  | Art. 37 lid 1 t/m 4,  art. 124 lid 1  | Niet aanmelden van een bedrijf ter registratie door de landbouwer  | M108  | € 300  |
-| --- | --- | --- | Niet binnen 30 dagen aanmelden van een bestaand of nieuw bedrijf ter registratie door de landbouwer, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens  | M109  | € 100  |
-| --- | --- | --- | Niet volledig aanmelden van een bedrijf ter registratie door de landbouwer, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens  | M110  | € 200  |
-| --- | --- | --- | Niet naar waarheid aanmelden van een bedrijf ter registratie door de landbouwer, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens  | M111  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 32 lid 1 en 2, art. 33, art. 34, art. 36 onderdeel b en c  | Art. 38, 39  | Niet bijhouden van een inzichtelijke administratie per bedrijf door de landbouwer (incl. wijzigingen in de administratie)  | M116  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 34 lid 1,  art. 36 onderdeel b,  art. 69  | Art. 40,  art. 124 lid 1  | Niet tijdig bijhouden van een inzichtelijke administratie door de landbouwer (incl. wijzigingen in de administratie)  | M117  | € 100  |
-| --- | --- | --- | Niet volledig bijhouden van een inzichtelijke administratie door de landbouwer (incl. wijzigingen in de administratie)  | M118  | € 200  |
-| --- | --- | --- | Niet naar waarheid bijhouden van een inzichtelijke administratie door de landbouwer (incl. wijzigingen in de administratie)  | M119  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 35 lid 1 en 2,  art. 36 onderdeel d  | Art. 42,  art. 124 lid 1  | Niet verstrekken van de gevraagde gegevens door de landbouwer  | M120  | € 300  |
-| --- | --- | --- | Niet verstrekken van de gevraagde gegevens vóór de gestelde uiterlijke inzenddatum of binnen de daartoe gestelde termijn door de landbouwer  | M121  | € 100  |
-| --- | --- | --- | Niet volledig verstrekken van de gevraagde gegevens door de landbouwer  | M122  | € 200  |
-| --- | --- | --- | Niet naar waarheid verstrekken van de gevraagde gegevens door de landbouwer  | M123  | € 300  |
-| --- |
-| Administratieve verplichtingen intermediairs  |
-| --- |
-| Art. 34 en 35  | Art. 38 lid 1 en lid 2 onderdeel a t/m i,  art. 41 onderdeel a  | Art. 45 lid 1 t/m 6,  art. 124 lid 1  | Niet aanmelden van een intermediaire onderneming ter registratie door de intermediair  | M150  | € 300  |
-| --- | --- | --- | Niet binnen 30 dagen aanmelden van een na 1 januari 2006 opgerichte intermediaire onderneming ter registratie door de intermediair, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens  | M151  | € 100  |
-| --- | --- | --- | Niet volledig aanmelden van een intermediaire onderneming ter registratie door de intermediair, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens  | M152  | € 200  |
-| --- | --- | --- | Niet naar waarheid aanmelden van een intermediaire onderneming ter registratie door de intermediair, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens  | M153  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 39,  art. 41 onderdeel b en c,  art. 34 lid 1  | Art. 2, art. 46,  art. 47,  art. 94 lid 3,  art. 95 lid 3,  art. 124 lid 1  | Niet bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie)  | M158  | € 300  |
-| --- | --- | --- | Niet tijdig bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie)  | M159  | € 100  |
-| --- | --- | --- | Niet volledig bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie)  | M160  | € 200  |
-| --- | --- | --- | Niet naar waarheid bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie)  | M161  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 40,  art. 41 onderdeel d  | Art. 48,  art. 124 lid 1  | Niet verstrekken van de gevraagde gegevens door de intermediair  | M162  | € 300  |
-| --- | --- | --- | Niet verstrekken van de gevraagde gegevens vóór de gestelde uiterlijke inzenddatum of binnen de daartoe gestelde termijn door de intermediair  | M163  | € 100  |
-| --- | --- | --- | Niet volledig verstrekken van de gevraagde gegevens door de intermediair  | M164  | € 200  |
-| --- | --- | --- | Niet naar waarheid verstrekken van de gevraagde gegevens door de intermediair  | M165  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | art. 41 onderdeel f  | Art. 49 lid 1,  art. 124 lid 1 en 2  | Niet aanbrengen of aanbrengen van onjuist registratienummer per opslagruimte voor meststoffen door de intermediair  | M166  | € 300  |
-| --- | --- | --- | Niet op juiste of deugdelijke wijze aanbrengen van het registratienummer per opslagruimte voor meststoffen door de intermediair  | M168  | € 200  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 49 lid 2,  art. 124 lid 2  | Niet aanduiden van opslagruimten voor meststoffen d.m.v. de registratienummers in de administratie van de intermediair en bij gegevensverstrekking door de intermediair  | M169  | € 300  |
-| --- |
-| Administratieve verplichtingen overige leveranciers en afnemers bedrijven  |
-| --- |
-| Art. 34, 35 en 37  | Art. 43 lid 1 en lid 2 en 3 onderdelen a t/m e,  art. 46 onderdeel a  | Art. 50 lid 1 t/m 4  | Niet aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd, verhandeld of anderszins bewerkt of verwerkt  | M200  | € 300  |
-| --- | --- | --- | Niet binnen 30 dagen aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens  | M201  | € 100  |
-| --- | --- | --- | Niet volledig aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens  | M202  | € 200  |
-| --- | --- | --- | Niet naar waarheid aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens  | M203  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 1, 2, 6, 7  art. 46 onderdeel b en c,  art. 34  | Art. 51,  art. 124 lid 1  | Niet bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M208  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 2  | --- | Niet tijdig bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M209  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 2  | --- | Niet volledig bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M210  | € 200  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 2  | --- | Niet naar waarheid bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M211  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 3 t/m 7,  art. 46 onderdeel b en c,  art. 34  | --- | Niet bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie)  | M212  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 51,  art. 124 lid 1  | Niet tijdig bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie)  | M213  | € 100  |
-| --- | --- | --- | Niet volledig bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie)  | M214  | € 200  |
-| --- | --- | --- | Niet naar waarheid bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie)  | M215  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 45 lid 1  en 5,  art. 46 onderdeel d  | Art. 52,  art. 124 lid 1  | Niet verstrekken van de jaarlijkse gegevens door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt  | M216  | € 300  |
-| --- | --- | --- | Niet verstrekken van de jaarlijkse gegevens vóór de gestelde uiterlijke inzenddatum of binnen de daartoe gestelde termijn door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt  | M217  | € 100  |
-| --- | --- | --- | Niet volledig verstrekken van de jaarlijkse gegevens door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt  | M218  | € 200  |
-| --- | --- | --- | Niet naar waarheid verstrekken van de jaarlijkse gegevens door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt  | M219  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 45 lid 2  | --- | Niet verstrekken aan een landbouwer van een begeleidend document door de buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, met vermelding van het gewicht en de samenstelling van de diervoeders  | M220  | € 300  |
-| --- | --- | --- | Niet tijdig verstrekken aan een landbouwer van een begeleidend document door de buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren  | M221  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 124 lid 1  | Verstrekken aan een landbouwer van een niet volledig begeleidend document door de buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren  | M222  | € 200  |
-| --- | --- | --- | Verstrekken aan een landbouwer van een niet naar waarheid opgemaakt begeleidend document door de buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren  | M223  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 45 lid 3  | --- | Niet aanwezig zijn van het begeleidend document tijdens het vervoer van diervoeders door een buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren  | M224  | € 300  |
-| --- | --- | --- | --- |
-| Vervoer van dierlijke meststoffen  |
-| --- |
-| Art. 15 en 34  | Art. 48  | --- | Vervoer van dierlijke meststoffen door een niet geregistreerde intermediair  | M250  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 49 lid 1,  art. 52,  art. 70 lid 4 onderdeel b  | Art. 78 lid 1,  art. 53 lid 2  | Transportmiddel voor drijfmest niet uitgerust met op naam van de intermediair geregistreerde automatische bemonsteringsapparatuur die onlosmakelijk is bevestigd op het transportmiddel, die voldoet aan de prestatiekenmerken en behoort tot een door ASG goedgekeurd type  | M251  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 79 lid 1,  art. 53, lid 2  | Transportmiddel voor drijfmest niet uitgerust met op naam van de intermediair geregistreerde automatische verpakkingsapparatuur die onlosmakelijk is bevestigd op het transportmiddel, die voldoet aan de prestatiekenmerken en behoort tot een door ASG goedgekeurd type  | M253  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 49 lid 2,  art. 52 lid 1 onderdeel c  | Art. 53 lid 1  | Transportmiddel niet uitgerust met op naam van de intermediair geregistreerde apparatuur voor automatische gegevensregistratie die voldoet aan de prestatiekenmerken en behoort tot een door ASG goedgekeurd type  | M255  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 49 lid 3  | --- | Transportmiddel niet uitgerust met satellietvolgapparatuur  | M258  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 49 lid 4  | Art. 55 en 56  | Niet of niet op juiste wijze vastleggen van vervoersgegevens met behulp van apparatuur voor automatische gegevensregistratie of satellietvolgapparatuur door de vervoerder  | M259  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 50 lid 1  | --- | Niet aanwezig zijn van een vervoersbewijs tijdens het vervoer van dierlijke meststoffen  | M260  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 52  | Art. 53 lid 2  | Apparatuur voor automatische gegevensregistratie of satellietvolgapparatuur niet elektronisch verbonden aan de automatische bemonsterings- en verpakkingsapparatuur bij het vervoer van drijfmest  | M262  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 53 lid 3  | Satellietvolgapparatuur niet elektronisch verbonden aan apparatuur voor automatische gegevensregistratie bij het vervoer van vaste mest  | M263  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 54 lid 1  | Apparatuur genoemd in art. 53 UR functioneert niet op adequate wijze tijdens het vervoer van dierlijke meststoffen  | M264  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 55,  art. 122 lid 3  | Niet op voorgeschreven wijze vastleggen of elektronisch verzenden van AGR- en GPS-gegevens door de vervoerder bij het vervoer van drijfmest  | M268  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 56,  art. 122 lid 3  | Niet op voorgeschreven wijze vastleggen of elektronisch verzenden van AGR- en GPS-gegevens door de vervoerder bij het vervoer van vaste mest  | M269  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 51 lid 2  en 3,  art. 52 lid 1 onderdeel e  | --- | Niet voldoen aan de opgelegde verplichting door de vervoerder om gedurende een bepaalde periode een voormelding te doen van het vervoer van dierlijke meststoffen  | M276  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 58 lid 1  | Niet doen van de opgelegde voormelding door de vervoerder uiterlijk 24 uren voordat het laden van het transportmiddel plaatsvindt  | M277  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 58 lid 2,  art. 124 lid 1  | Niet volledig verstrekken van de gegevens inzake de voormelding door de vervoerder  | M278  | € 200  |
-| --- | --- | --- | Niet naar waarheid verstrekken van de gegevens inzake de voormelding door de vervoerder  | M279  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| Vervoersbewijs dierlijke meststoffen  |
-| --- |
-| Art. 15 en 34  | Art. 53 lid 1  | --- | Niet opmaken van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  | M300  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 53 lid 2 en 3,  art. 54  | Art. 61 en 62  | Niet tijdig opmaken van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  | M301  | € 100  |
-| --- | --- | --- | Niet volledig opmaken of niet ondertekenen van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  | M302  | € 200  |
-| --- | --- | --- | Niet naar waarheid opmaken van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  | M303  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 53 lid 3  | Art. 60 lid 1 en 2  | Niet gebruikmaken door de leverancier, de vervoerder en de afnemer van het voorgeschreven model voor het vervoersbewijs dierlijke meststoffen dat door Dienst Regelingen is verstrekt en is voorzien van een uniek nummer  | M306  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 53 lid 4  | --- | Wijzigen of onleesbaar maken van gegevens op het vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  | M305  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 60 lid 3  | Niet gebruikmaken door de leverancier, de vervoerder en de afnemer van een geprint exemplaar van het vervoersbewijs dierlijke meststoffen dat elektronisch is aangemaakt en waarop het nummer van het begeleidende document is vermeld, indien de dierlijke meststoffen buiten Nederland worden gebracht.  | M307  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 53 lid 6,  art. 54  | --- | Indienen van het origineel van het vervoersbewijs dierlijke meststoffen in plaats van de voorgeschreven elektronische indiening  | M308  | € 50  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 64 lid 1  | Niet elektronisch indienen van het vervoersbewijs dierlijke meststoffen door de vervoerder uiterlijk 30 werkdagen na het vervoer van de vracht dierlijke meststoffen  | M309  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 64 lid 2,  art. 124 lid 1  | Elektronisch indienen van een niet volledig vervoersbewijs dierlijke meststoffen door de vervoerder  | M310  | € 200  |
-| --- | --- | --- | Elektronisch indienen van een onjuist vervoersbewijs dierlijke meststoffen door de vervoerder  | M311  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 54  | Art. 63  | Niet verstrekken van een afschrift van het vervoersbewijs dierlijke meststoffen aan de leverancier en de afnemer door de vervoerder na aflevering van de dierlijke meststoffen  | M312  | € 300  |
-| --- | --- | --- | Niet verstrekken van een afschrift van het vervoersbewijs dierlijke meststoffen aan de leverancier en de afnemer door de vervoerder uiterlijk tien werkdagen na het vervoer van de vracht dierlijke meststoffen  | M313  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 54  | Art. 64 lid 3 en 4  | Niet indienen van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens door de vervoerder na aflevering van de dierlijke meststoffen die niet zijn bemonsterd en geanalyseerd  | M314  | € 300  |
-| --- | --- | --- | Niet indienen van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens door de vervoerder uiterlijk tien werkdagen na het vervoer van de vracht dierlijke meststoffen die niet zijn bemonsterd en geanalyseerd  | M315  | € 100  |
-| --- | --- | --- | --- | --- |
-| Vervoer van zuiveringsslib en compost  | --- |
-| --- |
-| Art. 34  | Art. 50 lid 2  | --- | Niet aanwezig zijn van een vervoersbewijs tijdens het vervoer van zuiveringsslib, compost, mengsels van zuiveringsslib en compost, of krachtens art. 55, eerste lid, aangewezen overige organische meststoffen  | M350  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| Vervoersbewijs zuiveringsslib en compost  |
-| --- |
-| Art. 34  | Art. 55 lid 1  | --- | Niet opmaken van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer  | M400  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 55 lid 2,  art. 56  | Art. 69  | Niet tijdig opmaken van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer  | M401  | € 100  |
-| --- | --- | --- | Niet volledig opmaken of niet ondertekenen van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer  | M402  | € 200  |
-| --- | --- | --- | Niet naar waarheid opmaken van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer  | M403  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 55 lid 3  | Art. 68  | Niet gebruikmaken van het voorgeschreven model voor het vervoersbewijs zuiveringsslib en compost dat wordt verstrekt door Dienst Regelingen en is voorzien van een uniek nummer  | M405  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 55 lid 4  | --- | Wijzigen of onleesbaar maken van gegevens op het vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder of de afnemer  | M406  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 56  | Art. 69a lid 1  | Niet verstrekken van een afschrift van het vervoersbewijs zuiveringsslib en compost aan de leverancier en de afnemer door de vervoerder uiterlijk 10 werkdagen na vervoer van de vracht zuiveringsslib en compost  | M410  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 55 lid 5,  art. 56 onderdeel d  | Art. 69a lid 2  | Niet indienen van de op het vervoersbewijs zuiveringsslib en compost ingevulde gegevens door de vervoerder na het vervoer van zuiveringsslib of compost  | M407  | € 300  |
-| --- | --- | --- | Niet indienen van de op het vervoersbewijs zuiveringsslib en compost ingevulde gegevens door de vervoerder uiterlijk 10 werkdagen na het vervoer van zuiveringsslib of compost  | M408  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| Grensoverschrijdende overbrenging  |
-| --- |
-| --- | --- | Art. 57 lid 1  | Niet doen van mededeling door vervoerder van voornemen om dierlijke meststoffen anders dan mestkorrels te exporteren of importeren  | M483  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 57 lid 2,  art. 124 lid 1  | Niet volledig of niet naar waarheid verstrekken door vervoerder van gegevens inzake de mededeling door de vervoerder  | M484  | € 200  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 57a lid 1  | Niet doen van mededeling door vervoerder van het daadwerkelijk exporteren of importeren van dierlijke meststoffen anders dan mestkorrels  | M485  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Artikel 57a lid 2,  art. 124 lid 1  | Niet volledig of niet naar waarheid verstrekken van gegevens door vervoerder inzake de mededeling van de daadwerkelijke export of import  | M486  | € 200  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 57a lid 1  | Niet tijdig (ten minste 3 werkdagen van tevoren) doen van mededeling door vervoerder van de daadwerkelijke export of import  | M487  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 57a lid 3  | Niet elektronisch bevestigen door vervoerder van de mededeling van de daadwerkelijke export of import  | M488  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 57a lid 3  | Niet tijdig (ten minste 12 uur van tevoren) bevestigen door vervoerder van de mededeling van de daadwerkelijke export of import  | M490  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 57a lid 4,  art. 124 lid 1  | Niet volledig of niet naar waarheid bevestigen door vervoerder van de mededeling van de daadwerkelijke export of import  | M489  | € 200  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 57a lid 6  | Niet of niet onverwijld intrekken van de mededeling door vervoerder bij het niet plaatsvinden van de gemelde export of import  | M491  | € 200  |
-| --- | --- | --- | --- | --- | --- |
-| Hoeveelheidsbepaling  |
-| --- |
-| Art. 35 t/m 37  | Art. 66 t/m 70  | Art. 76 lid 1  | Niet of niet op juiste wijze wegen van een vracht dierlijke meststoffen door de vervoerder  | M500  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 76 lid 2  | Niet op juiste wijze bepalen van het gewicht van een vracht dierlijke meststoffen door de vervoerder op basis van het volume en het soortelijk gewicht van de dierlijke meststoffen, indien sprake is van een situatie genoemd in art. 84 t/m 91a UR  | M501  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 77 lid 1  | Niet of niet op juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen, niet zijnde mineralenconcentraat, d.m.v. analyse van het monster door een laboratorium  | M502  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 78 lid 1  | Niet bemonsteren van een vracht drijfmest tijdens het laden van het transportmiddel door de vervoerder  | M505  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 78 lid 2  | Niet of niet op juiste wijze bemonsteren van een vracht vaste mest door de vervoerder  | M507  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 78 lid 3  | Niet bemonsteren tijdens het laden van een vracht vaste mest door de vervoerder, indien deze buiten Nederland wordt gebracht  | M508  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 78 lid 4  | Niet bemonsteren tijdens het lossen van een vracht vaste mest door de vervoerder, indien deze binnen Nederland wordt gebracht  | M509  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 79 lid 2  | Niet of niet op de juiste wijze verpakken van een monster vaste mest in een voorgeschreven monsterverpakking door de vervoerder  | M511  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 80 lid 1,  art. 81 lid 3,  art. 124 lid 1,  art. 125  | Niet toezenden door de vervoerder van het mestmonster ter analyse door een geaccrediteerd of gelijkwaardig laboratorium  | M512  | € 300  |
-| --- | --- | --- | Niet uiterlijk 10 werkdagen na bemonstering toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder  | M513  | € 100  |
-| --- | --- | --- | Niet meesturen van de juiste gegevens van de betrokken leverancier en afnemer en het nummer van het vervoersbewijs bij het toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder  | M514  | € 300  |
-| --- | --- | --- | Niet meesturen van de volledige gegevens van de betrokken leverancier en afnemer en van het vervoersbewijs bij het toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder  | M515  | € 200  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 80 lid 2  | Niet in goede staat bewaren van mestmonsters door de vervoerder  | M517  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 81 lid 1  | Niet na ontvangst van het mestmonster analyseren van het monster door het laboratorium  | M518  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | Niet uiterlijk 5 werkdagen na ontvangst van het mestmonster analyseren van het monster door het laboratorium  | M519  | € 100  |
-| --- | --- | --- | Niet na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan Dienst Regelingen  | M520  | € 300  |
-| --- | --- | --- | Niet uiterlijk 5 werkdagen na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan Dienst Regelingen  | M521  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 81 lid 2  | Niet rapporteren van beschadigingen m.b.t. de monsterverpakking door het laboratorium aan de AID  | M522  | € 300  |
-| --- | --- | --- | Niet opvolgen van de door de AID verstrekte aanwijzingen door het laboratorium  | M523  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 81, lid 3,  art. 125  | Niet voldoen door het laboratorium aan de in het accreditatieprogramma AP05 gestelde eisen  | M524  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 82  | Niet op juiste wijze bepalen van het gewicht van kalvergier door de afnemer  | M525  | € 300  |
-| --- | --- | --- | Niet op juiste wijze uitvoeren van de bemonstering en verpakking van monsters kalvergier door de afnemer  | M526  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 83  | Niet of niet op juiste wijze bepalen van het gewicht en het stikstof- en fosfaatgehalte van een vracht mestkorrels op basis van de verpakking of het begeleidend document  | M527  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 84,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan boer-boer-transport van dierlijke meststoffen worden nageleefd  | M528  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 85,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen naar tijdelijk uit gebruik gegeven percelen worden nageleefd (Vogelaar-variant)  | M529  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 86,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen naar een afnemer, die geen bedrijf of onderneming voert, worden nageleefd  | M530  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 87,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen naar grenspercelen in Duitsland en België worden nageleefd  | M531  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 88,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de aan- en afvoer van konijnengier worden nageleefd  | M532  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 89,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden worden nageleefd die zijn gesteld aan de afvoer van paardenmest bestemd voor de productie van substraat voor de teelt van champignons of voor de productie van een grondstof voor de productie van dat substraat  | M533  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 90,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen door een klein bedrijf naar een ander bedrijf worden nageleefd  | M534  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 91,  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen naar natuurterrein of overige grond worden nageleefd  | M535  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 91a  art. 77 lid 1  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde vaste meststoffen die ten hoogste 10% vaste dierlijke meststoffen of 10% champost bevat d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer worden nageleefd  | M 559  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 91b  | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen middels gesplitst vervoer worden nageleefd  | M 561  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92 lid 1  | Niet of niet op juiste wijze bepalen door de vervoerder van het gewicht van de aan- en afgevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost d.m.v. weging  | M536  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92 lid 2  | Niet of niet op juiste wijze bepalen door het bedrijf of de onderneming van het stikstof- en fosfaatgehalte van de aan- en afgevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost overeenkomstig de artikelen 92a en 92b op basis van gewichtsprocenten in de droge stof.  | M537  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92a lid 1  | Niet of niet op de juiste wijze bepalen door het bedrijf of de onderneming van het stikstof- en fosfaatgehalte of het droge stofgehalte in zuiveringsslib of compost d.m.v. analyse van een monster  | M562  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92a lid 2  | Niet of niet op de juiste wijzebemonsteren van zuiveringsslib of compost door de producent  | M563  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92a lid 4  | Niet of niet op de juiste wijze verpakken van een monster zuiveringsslib of compost in een voorgeschreven monsterverpakking door de producent  | M564  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92a lid 5  | Niet toezenden van het monster aan of niet laten analyseren van het monster door een geaccrediteerd laboratorium door de producent  | M565  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92b lid 1  | Niet of niet op de juiste wijze na ontvangst van het monster analyseren van het monster door het laboratorium  | M566  | € 300  |
-| --- | --- | --- | Niet uiterlijk 5 werkdagen na ontvangst van het monster analyseren van het monster door het laboratorium  | M567  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92b lid 2  | Niet of niet op de juiste wijze berekenen van het stikstof-, fosfaat- en drogestofgehalte indien het monster betrekking heeft op een hoeveelheid die door middel van een continu proces geproduceerd wordt  | M569  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92b lid 3  | Niet of niet op de juiste wijze voorzien van een analysenummer van de analyseresultaten door het laboratorium  | M568  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92b lid 4 en lid 5  | Niet na analyse van het monster toezenden van de analyseresultaten dan wel de overeenkomstig het tweede lid berekende gemiddelde gehalten door het laboratorium aan de producent en elektronisch aan Dienst Regelingen  | M570  | € 300  |
-| --- | --- | --- | Niet binnen 10 werkdagen na analyse dan wel 10 werkdagen na afloop van de kalendermaand toezenden van de analyseresultaten door het laboratorium aan de producent en elektronisch aan Dienst Regelingen  | M571  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92b lid 6  | Niet of niet lang genoeg bewaren van de monsters na verzending van de analyseresultaten  | M572  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 93 lid 1  | Niet of niet op juiste wijze bepalen door het bedrijf of de onderneming van het gewicht van de aan- en afgevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost d.m.v. weging  | M538  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 93 lid 2  | Niet of niet op juiste wijze d.m.v. bemonstering en analyse laten bepalen door het bedrijf of de onderneming van het stikstof- en fosfaatgehalte van de aan- en afgevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost  | M539  | € 300  |
-| --- | --- | Art. 94 lid 1,  art. 94 lid 4  | Niet of niet op juiste wijze bepalen door het bedrijf van het gewicht van de voorraad dierlijke meststoffen op basis van het gemeten volume en soortelijk gewicht  | M540  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 94 lid 2,  art. 94 lid 4  | Niet of niet op juiste wijze bepalen door het bedrijf van het stikstof- en fosfaatgehalte van de voorraad dierlijke meststoffen  | M541  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 95 lid 1 en 5  | Niet of niet op juiste wijze bepalen door het bedrijf van het gewicht van de voorraad zuiveringsslib of compost op basis van het gemeten volume en het soortelijk gewicht  | M542  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 95 lid 2 en 5  | Niet of niet op juiste wijze bepalen door het bedrijf van het stikstof- en fosfaatgehalte van de voorraad zuiveringsslib of compost op basis van de best beschikbare gegevens  | M543  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 95 lid 4 en 5  | Niet of niet op juiste wijze bepalen door het bedrijf of de onderneming van het gewicht van de in bulk opgeslagen andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost op basis van het gemeten volume en soortelijk gewicht  | M544  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 2, art. 97 lid 1,  art. 100  | Niet of niet op juiste wijze bepalen door de leverancier van de diervoeders van het gewicht en het stikstof- en fosfaatgehalte van diervoeders afgeleverd aan een bedrijf met staldieren  | M545  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 2, art. 97 lid 2,  art. 101  | Niet of niet op juiste wijze bepalen door de leverancier van het ruwvoer en enkelvoudig diervoeder van de hoeveelheden ruwvoer en enkelvoudig diervoeder, zowel in gewicht of volume als in kilogrammen stikstof en fosfaat  | M546  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 98 lid 1 en 2  | Niet of niet op juiste wijze vaststellen van het stikstof- en fosfaatgehalte in diervoeders  | M547  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 98 lid 3 en 4,  art. 125  | Analyse van het diervoedermonster op het stikstof- en fosfaatgehalte niet uitgevoerd door een geaccrediteerd of gelijkwaardig laboratorium, volgens de voorgeschreven of een gelijkwaardige onderzoeksmethode  | M549  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 98 lid 3 en 4  | Niet binnen één week na ontvangst van het diervoedermonster analyseren van het diervoeder op het stikstof- en fosfaatgehalte volgens de voorgeschreven of een gelijkwaardige onderzoeksmethode  | M551  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 98 lid 6  | Niet verzenden van de (juiste) analyseresultaten van het diervoedermonster door het laboratorium naar de leverancier van het diervoeder  | M552  | € 300  |
-| --- | --- | --- | Niet binnen één week na ontvangst van het diervoedermonster verzenden van de analyseresultaten door het laboratorium naar de leverancier van het diervoeder  | M553  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 98 lid 6,  art. 124 lid 1  | Verzenden van niet volledige analyseresultaten van het diervoedermonster door het laboratorium naar de leverancier van het diervoeder  | M554  | € 200  |
-| --- | --- | --- | Verzenden van niet naar waarheid opgemaakte analyseresultaten van het diervoedermonster door het laboratorium naar de leverancier van het diervoeder  | M555  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 99  | Niet vermelden of bekendmaken van gegevens van de afgeleverde diervoeders op het etiket of begeleidend document door de leverancier van de diervoeders  | M556  | € 300  |
-| --- | --- | --- | Niet volledig of niet naar waarheid vermelden van gegevens van de diervoeders op het etiket of begeleidend document door de leverancier van de diervoeders  | M560  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| Overige bepalingen  |
-| --- |
-| Art. 34 en 37  | --- | Art. 122 lid 1  | Niet op voorgeschreven wijze doorgeven van gegevens en wijzigingen in gegevens aan Dienst Regelingen d.m.v. indiening van het daartoe bestemde formulier  | M600  | € 50  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 122 lid 2 en 3  | Niet op voorgeschreven wijze elektronisch doorgeven van gegevens en wijzigingen in gegevens aan Dienst Regelingen d.m.v. het daartoe ter beschikking gestelde elektronische portaal  | M601  | € 50  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 122 lid 4  | Niet ondertekenen van de elektronische verzending d.m.v. een persoonlijke gebruikerscode door de vervoerder  | M602  | € 50  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 124 lid 2  | Niet onverwijld gegevens opnemen in de administratie nadat deze bekend zijn geworden door degene die gegevens in de administratie moet opnemen, voor zover geen andere termijn is gesteld  | M603  | € 100  |
-| --- | --- | --- | Niet onverwijld gegevens verstrekken uit de administratie nadat deze bekend zijn geworden door degene die gegevens uit de administratie moet verstrekken, voor zover geen andere termijn is gesteld  | M604  | € 100  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art 32,  art. 34 lid 2,  art. 39 lid 4,  art. 44 lid 7  | Art. 124 lid 3  | Niet bewaren van documenten, gegevensdragers, administratie en bijbehorende bewijsstukken gedurende 5 jaren na afloop van het betreffende kalenderjaar  | M605  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 32, 39 en 44  | Art. 124 lid 3  | Wijzigen van (oorspronkelijke) gegevens in de administratie  | M606  | € 300  |
-

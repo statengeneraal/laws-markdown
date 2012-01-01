@@ -50,6 +50,10 @@ n. richtlijn 90/429/EEG: Richtlijn nr. 90/429/EEG van de Raad van de Europese Ge
 
 o. richtlijn 88/407/EEG: Richtlijn nr. 88/407/EEG van de Raad van 14 juni 1988 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van runderen en de invoer daarvan (PbEG L 194).    
 
+### Artikel  1a  
+
+Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag tot erkenning als bedoeld in de artikelen 3 en 9.  
+
 ### §  2  
 
 ####Eisen met betrekking tot varkenssperma

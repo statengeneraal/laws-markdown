@@ -59,6 +59,7 @@ a. deze veranderingen geen wijziging van de vergunning eisen, maar voldoen aan d
 b. het voornemen tot het uitvoeren van de verandering door de vergunninghouder schriftelijk aan Onze Minister is gemeld;  
 
 c. Onze Minister aan de vergunninghouder schriftelijk heeft verklaard dat de voorgenomen verandering voldoet aan onderdeel a.     
+10.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag voor een vergunning als bedoeld in het eerste lid.   
 
 ### Artikel  5  
 

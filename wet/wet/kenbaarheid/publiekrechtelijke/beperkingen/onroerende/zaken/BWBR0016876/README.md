@@ -28,9 +28,9 @@ b. beperkingenbesluit:
 
 2°. een melding aan het bevoegd gezag van een voornemen tot sanering als bedoeld in [artikel 39b, derde lid, van de Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
 
-3°. een mededeling van een adviesaanvraag door Onze Minister van Onderwijs, Cultuur en Wetenschap als bedoeld in [artikel 3, vierde lid, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) betreffende de aanwijzing van een binnen het grondgebied van een gemeente gelegen onroerend monument als beschermd monument;  
+3°. een mededeling van een adviesaanvraag door Onze Minister van Onderwijs, Cultuur en Wetenschap als bedoeld in [artikel 3, derde lid, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) betreffende de aanwijzing van een binnen het grondgebied van een gemeente gelegen onroerend monument als beschermd monument;  
 
-4°. een afschrift van een inschrijving door Onze Minister van Onderwijs, Cultuur en Wetenschap van een als beschermd monument aangewezen onroerend monument in het register, bedoeld in [artikel 6, eerste lid](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), of [artikel 7, vierde lid, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
+4°. een afschrift van een inschrijving door Onze Minister van Onderwijs, Cultuur en Wetenschap van een als beschermd monument aangewezen onroerend monument in het register, bedoeld in [artikel 6, eerste lid](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), of [artikel 7, derde lid, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
 
 5°. een schriftelijke handeling, niet zijnde een besluit, van een bestuursorgaan van een provincie of gemeente op grond van een provinciale respectievelijk gemeentelijke verordening, waardoor, voordat op grond van die verordening een besluit tot aanwijzing van een onroerende zaak als beschermd monument is genomen, op die onroerende zaak de in de betreffende verordening opgenomen bepalingen ten aanzien van krachtens die verordening aangewezen beschermde monumenten van overeenkomstige toepassing worden;  
 
@@ -219,7 +219,7 @@ b. bij een beperkingenbesluit als bedoeld in artikel 1, onderdeel b, onder 2°, 
 
 c. bij een beperkingenbesluit als bedoeld in artikel 1, onderdeel b, onder 3°, binnen vier dagen na de dag waarop het beperkingenbesluit is verzonden;  
 
-d. bij een beperkingenbesluit als bedoeld in artikel 1, onderdeel b, onder 4°, binnen vier dagen na de dag waarop de inschrijving door Onze Minister van Onderwijs, Cultuur en Wetenschap van de aanwijzing van een onroerend monument als beschermd monument in het register, bedoeld in [artikel 6, eerste lid](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), of [artikel 7, vierde lid, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), heeft plaatsgevonden;  
+d. bij een beperkingenbesluit als bedoeld in artikel 1, onderdeel b, onder 4°, binnen vier dagen na de dag waarop de inschrijving door Onze Minister van Onderwijs, Cultuur en Wetenschap van de aanwijzing van een onroerend monument als beschermd monument in het register, bedoeld in [artikel 6, eerste lid](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), of [artikel 7, derde lid, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), heeft plaatsgevonden;  
 
 e. bij een beperkingenbesluit als bedoeld in artikel 1, onderdeel b, onder 5°, binnen vier dagen na de dag waarop het beperkingenbesluit is verzonden of van het beperkingenbesluit kennisgeving is gedaan;  
 

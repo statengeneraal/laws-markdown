@@ -40,8 +40,8 @@ De waarde van een periodieke uitkering in geld van het leven van één persoon a
 
 1.  De waarde van een periodieke uitkering in geld welke na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij moet plaatshebben, iedere euro berekend tegen de volgende bedragen:  
 
-|--- | indien de uitkering afhankelijk is van het leven van een persoon  | indien de uitkering niet van het leven afhankelijk is  | jonger dan 40 jaar  | 40 jaar of ouder, doch jonger dan 60 jaar  | 60 jaar of ouder  |
-|:---|:---|:---|:---|:---|:---|
+|--- | indien de uitkering afhankelijk is van het leven van een persoon  | indien de uitkering niet van het leven afhankelijk is  | jonger dan 40 jaar  | 40 jaar of ouder, doch jonger dan 60 jaar  | 60 jaar of ouder  |--- |
+|:---|:---|:---|:---|:---|:---|:---|
 | het eerste vijftal jaren  | 0,84  | 0,83  | 0,75  | 0,85  |
 | het tweede vijftal jaren  | 0,62  | 0,60  | 0,40  | 0,64  |
 | het derde vijftal jaren  | 0,46  | 0,42  | 0,15  | 0,48  |
@@ -73,26 +73,37 @@ Het percentage, bedoeld in [artikel 21, dertiende lid, van de Successiewet 1956]
 ### Artikel  10a  
 
 1.  De waarde, bedoeld in [artikel 21, achtste lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md), wordt gesteld op de op grond van artikel 21, vijfde en zesde lid, van de Successiewet 1956 in aanmerking te nemen waarde (WOZ-waarde) vermenigvuldigd met de leegwaarderatio.   
-2.  Bij een voor het enkele gebruik van een woning verschuldigde jaarlijkse huur als percentage van de WOZ-waarde van:  
+2.  Bij een voor het enkele gebruik van een woning verschuldigde jaarlijkse huur of pacht als percentage van de WOZ-waarde van:  
 
-| meer dan  | maar niet meer dan  | bedraagt de leegwaarderatio  |
+| meer dan  | maar niet  meer dan  | bedraagt de leegwaarderatio  |
 |:---|:---|:---|
-| 0%  | 1,0%  | 60%  |
-| 1,0%  | 1,5%  | 64%  |
-| 1,5%  | 2,0%  | 68%  |
-| 2,0%  | 2,5%  | 72%  |
-| 2,5%  | 3,0%  | 75%  |
-| 3,0%  | 3,5%  | 79%  |
-| 3,5%  | 4,0%  | 82%  |
-| 4,0%  | –  | 85%  |
+| 0%  | 1,0%  | 50%  |
+| 1,0%  | 1,5%  | 54%  |
+| 1,5%  | 2,0%  | 58%  |
+| 2,0%  | 2,5%  | 63%  |
+| 2,5%  | 3,0%  | 67%  |
+| 3,0%  | 3,5%  | 72%  |
+| 3,5%  | 4,0%  | 76%  |
+| 4,0%  | 5,0%  | 81%  |
+| 5,0%  | –  | 85%  |
 
-3.  De jaarlijkse huur, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, zoals die geldt aan het begin van de verhuurperiode in het kalenderjaar. Indien de huurprijs zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.   
+3.  De jaarlijkse huur of pacht, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, onderscheidenlijk pacht, zoals die geldt aan het begin van de verhuurperiode, onderscheidenlijk verpachtingsperiode, in het kalenderjaar. Indien de huurprijs, onderscheidenlijk pachtprijs, zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs, onderscheidenlijk pachtprijs, voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.   
 4.  Indien de woning een gedeelte van een gebouwd eigendom is als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), en niet als een afzonderlijke zaak vervreemd kan worden, wordt voor de toepassing van het eerste en het tweede lid de WOZ-waarde van die woning verlaagd met een bedrag van € 20 000.   
 5.  Indien van een woning een gedeelte verhuurd is, wordt slechts de WOZ-waarde van dat deel vermenigvuldigd met de leegwaarderatio. Indien de WOZ-waarde van dat deel niet is vastgesteld, wordt deze bepaald door de totale WOZ-waarde van de woning te vermenigvuldigen met de verhuurde vierkante meters en te delen door de totale oppervlakte van de woning.   
 
 ### Artikel  10b  
 
 De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in artikel 10a, vierde lid, gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.  
+
+### Hoofdstuk  1a  
+
+####Informatieverplichting
+
+### Artikel  10c  
+
+1.  Zodra de belastingplichtige ervan kennis neemt dat de aangifte erfbelasting over een bestanddeel van het voorwerp van die belasting dat in het buitenland wordt gehouden of is opgekomen niet, onjuist of onvolledig is gedaan, is hij gehouden daarvan mededeling te doen en alsnog de juiste en volledige inlichtingen, gegevens of aanwijzingen te verstrekken. De mededeling moet worden gedaan voordat de belastingplichtige weet of redelijkerwijs moet vermoeden dat de inspecteur met de desbetreffende onjuistheid of onvolledigheid bekend is of zal worden.   
+2.  De mededeling, bedoeld in het eerste lid, geschiedt door het toezenden van het daartoe langs elektronische weg ter beschikking gestelde modelformulier aan de inspecteur.   
+3.  Het niet of niet tijdig dan wel onjuist of onvolledig doen van de mededeling, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.   
 
 ### Hoofdstuk  2  
 

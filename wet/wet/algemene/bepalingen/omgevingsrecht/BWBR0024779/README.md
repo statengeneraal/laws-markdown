@@ -642,7 +642,7 @@ b. een activiteit als bedoeld in artikel 2.1, eerste lid, onder d;
 
 c. een activiteit als bedoeld in artikel 2.1, eerste lid, onder e;  
 
-d. een activiteit als bedoeld in artikel 2.1, eerste lid, onder f;  
+d. een activiteit als bedoeld in artikel 2.1, eerste lid, onder f, voor zover voor die activiteit krachtens artikel 2.26, derde lid, een adviseur is aangewezen;  
 
 e. een geval waarin een verklaring vereist is, als bedoeld in artikel 2.27;  
 
@@ -655,11 +655,7 @@ a. de aanvraag betrekking heeft op een activiteit waarvan de uitvoering als gevo
 
 b. de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie dat vereist.     
 3.  In afwijking van het eerste lid, aanhef en onder c, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de voorbereiding van de beschikking op de aanvraag om een omgevingsvergunning met betrekking tot een verandering van een inrichting of mijnbouwwerk of de werking daarvan, die niet leidt tot andere of grotere nadelige gevolgen voor het milieu dan volgens de geldende omgevingsvergunning is toegestaan, waarvoor geen verplichting bestaat tot het maken van een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en die niet leidt tot een andere inrichting of mijnbouwwerk dan waarvoor eerder een omgevingsvergunning is verleend.   
-4.  Indien op de voorbereiding van de beschikking op de aanvraag om een omgevingsvergunning [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is: 
-
-a. zijn tevens de [artikelen 13.6](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [13.9](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [13.11, eerste lid, aanhef en onder c, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing;  
-
-b. is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.     
+4.  Indien op de voorbereiding van de beschikking op de aanvraag om een omgevingsvergunning [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, zijn tevens de [artikelen 13.6](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [13.9](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [13.11, eerste lid, aanhef en onder c, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing.   
 
 ### Artikel  3.11  
 
@@ -693,10 +689,6 @@ c. indien toepassing is gegeven aan artikel 2.12, eerste lid, aanhef en onder a,
 4.  Indien toepassing is gegeven aan het eerste tot en met derde lid, wordt de beschikking op de aanvraag tegelijkertijd en op dezelfde wijze met het besluit, houdende de aanwijzing, bekendgemaakt. In afwijking van het eerste lid geschiedt die bekendmaking binnen zeven weken na de toezending, bedoeld in dat lid.   
 5.  Van het besluit houdende de aanwijzing wordt mededeling gedaan aan diegenen die ten aanzien van het onderdeel van de beschikking op de aanvraag dat bij dat besluit is betrokken een zienswijze naar voren hebben gebracht. De termijn voor indiening van een beroepschrift tegen het besluit houdende de aanwijzing vangt aan met ingang van de dag na die waarop dit besluit ter inzage is gelegd.   
 6.  Het onderdeel, bedoeld in het tweede lid, vervalt van rechtswege op het tijdstip dat het besluit, houdende de aanwijzing, onherroepelijk is geworden.   
-
-### Artikel  3.14  
-
-Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder f, ter zake van een kerkelijk monument als bedoeld in [artikel 1, onder e, van de Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), neemt het bevoegd gezag geen beslissing dan na overleg met de eigenaar. Voor zover het betreft een beslissing waarbij wezenlijke belangen van het belijden van de godsdienst of levensovertuiging in dat monument in het geding zijn, neemt het bevoegd gezag geen beslissing dan in overeenstemming met de eigenaar.  
 
 ### §  3.4  
 
@@ -781,7 +773,7 @@ b. ter dekking van zijn aansprakelijkheid voor schade die voortvloeit uit door d
 
 a. artikel 2.1, eerste lid, onder a, b, c of h, voor zover daaraan in het belang van de archeologische monumentenzorg voorschriften zijn verbonden,  
 
-b. artikel 2.1, eerste lid, onder b of c, voor zover daarbij de omgevingsvergunning in het belang van de archeologische monumentenzorg is geweigerd,.  
+b. artikel 2.1, eerste lid, onder b of c, voor zover daarbij de omgevingsvergunning in het belang van de archeologische monumentenzorg is geweigerd,  
 
 c. artikel 2.1, eerste lid, onder e, onder 2°, of onder 3°, juncto artikel 8.1, eerste lid, in gevallen waarin het tweede lid van dat artikel niet van toepassing is,  
 
@@ -1090,7 +1082,7 @@ Het bestuursorgaan zendt een exemplaar van de beschikking tot oplegging van een 
 1.  Een beschikking krachtens deze wet treedt in werking met ingang van de dag na haar bekendmaking.   
 2.  In afwijking van het eerste lid treedt een beschikking in werking met ingang van de dag na afloop van de termijn, bedoeld in [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor het indienen van: 
 
-a. een bezwaarschrift indien het een omgevingsvergunning betreft met betrekking tot een activiteit als bedoeld in artikel 2.1, eerste lid, onder b, g of h, of  2.2, eerste lid, onder a, b, c of g, of een wijziging van voorschriften van een omgevingsvergunning die betrekking hebben op een activiteit als hiervoor bedoeld;  
+a. een bezwaarschrift indien het een omgevingsvergunning betreft met betrekking tot een activiteit als bedoeld in artikel 2.1, eerste lid, onder b, f, g of h, of  2.2, eerste lid, onder a, b, c of g, of een wijziging van voorschriften van een omgevingsvergunning die betrekking hebben op een activiteit als hiervoor bedoeld;  
 
 b. een beroepschrift in gevallen waarin zij is voorbereid met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
 3.  Indien in gevallen als bedoeld in het tweede lid, gedurende de daar bedoelde termijn bij de bevoegde rechter een verzoek om voorlopige voorziening is gedaan, treedt de beschikking niet in werking voordat op dat verzoek is beslist.   

@@ -423,7 +423,7 @@ e. de eindcijfers voor de examenvakken, alsmede
 f. de uitslag van het staatsexamen.     
 3.  Het College voor examens draagt er zorg voor dat op grond van de definitieve uitslag aan elke voor het staatsexamen geslaagde kandidaat een diploma wordt uitgereikt waarop het profiel of de profielen zijn vermeld die bij de bepaling van de uitslag zijn betrokken. Op het diploma vmbo-theoretische leerweg is in elk geval de sector of de sectoren vermeld die bij de uitslag worden betrokken.   
 4.  Indien een kandidaat in meer vakken examen heeft afgelegd dan in de vakken die ten minste nodig zijn voor het behalen van het staatsexamen, worden de vakken die niet bij de bepaling van de uitslag zijn betrokken, op de cijferlijst vermeld, tenzij de kandidaat daartegen bezwaar heeft.   
-5.   Dit lid is nog niet in werking getreden.    
+5.  Onze Minister stelt de modellen van de diploma’s en cijferlijsten vast.   
 6.  Voor de vermelding op de cijferlijst van vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend bij het staatsexamen geldt het volgende: 
 
 a. indien het betreft het staatsexamen vwo of het staatsexamen havo: 
@@ -469,7 +469,7 @@ d. de eindcijfers voor de examenvakken.
 a. het vak of de vakken waarvoor de kandidaat een eindcijfer 6 of meer heeft behaald, en  
 
 b. het vak of de vakken, het onderwerp of de titel van het profielwerkstuk of het thema van het sectorwerkstuk, alsmede de beoordeling van het sectorwerkstuk, voor zover beoordeeld met «goed» of «voldoende».     
-3.   Dit lid is nog niet in werking getreden.    
+3.  Onze Minister stelt het model van het certificaat en de cijferlijst voor het deelstaatsexamen vast.   
 4.  Het College voor examens tekent de certificaten en de cijferlijsten voor het deelstaatsexamen.   
 
 ### Artikel  30  

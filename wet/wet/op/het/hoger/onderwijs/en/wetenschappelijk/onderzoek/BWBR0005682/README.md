@@ -221,7 +221,7 @@ c. het personeel,
 
 d. het onderwijsaanbod, de registratie, het onderwijs, de examens en de promoties,  
 
-e. vooropleidings- of toelatingseisen,  
+e. de vooropleidings- of toelatingseisen,  
 
 f. de studenten en extraneï,  
 
@@ -1207,7 +1207,7 @@ d. Onze minister met toepassing van de artikelen 6.9, vierde lid, of 6.10 heeft 
 
 ####Reikwijdte
 
-1.  Dit hoofdstuk heeft betrekking op bekostigde universiteiten en hogescholen , op de Open Universiteit en op de levensbeschouwelijke universiteiten.   
+1.  Dit hoofdstuk heeft betrekking op bekostigde universiteiten en hogescholen, op de Open Universiteit en op de levensbeschouwelijke universiteiten.   
 2.  De titels 1 en 2 van dit hoofdstuk, met uitzondering van de artikelen 7.8b, 7.17, 7.17a, 7.18, 7.22, 7.25, 7.30a, en 7.30b, met uitzondering van het eerste lid, vierde volzin, zijn van overeenkomstige toepassing op de rechtspersonen voor hoger onderwijs.   
 
 ### Titel  1  
@@ -1833,7 +1833,7 @@ Het instellingsbestuur kan met het oog op de inschrijving voor een deeltijdse op
 
 1.  Voor de inschrijving voor een opleiding na het propedeutisch examen geldt als eis het bezit van een getuigschrift van het met goed gevolg afgelegde propedeutisch examen van die opleiding of van het met goed gevolg afgelegde propedeutisch examen dat die opleiding en een of meer andere opleidingen gemeen hebben.   
 2.  Het instellingsbestuur kan vrijstelling verlenen van de in het eerste lid bedoelde eis aan de bezitter van een al dan niet in Nederland afgegeven diploma, indien dat diploma naar het oordeel van het instellingsbestuur ten minste gelijkwaardig is aan het in het eerste lid bedoelde getuigschrift. Indien het een buiten Nederland afgegeven diploma betreft, kan het instellingsbestuur daarbij bepalen dat geen examens of onderdelen daarvan worden afgelegd dan nadat ten genoegen van de desbetreffende examencommissie het bewijs is geleverd van voldoende beheersing van de Nederlandse taal voor het met vrucht kunnen volgen van het onderwijs.   
-3.  Met inachtneming van het terzake bepaalde in de onderwijs- en examenregeling kan de examencommissie, in afwijking van het eerste lid, aan degene die is ingeschreven, op zijn verzoek, reeds de toegang , tot het afleggen van een of meer onderdelen van het afsluitend examen verlenen voordat hij het propedeutisch examen van de desbetreffende opleiding met goed gevolg heeft afgelegd.   
+3.  Met inachtneming van het terzake bepaalde in de onderwijs- en examenregeling kan de examencommissie, in afwijking van het eerste lid, aan degene die is ingeschreven, op zijn verzoek, reeds de toegang tot het afleggen van een of meer onderdelen van het afsluitend examen verlenen voordat hij het propedeutisch examen van de desbetreffende opleiding met goed gevolg heeft afgelegd.   
 
 ### Paragraaf  2  
 
@@ -2490,7 +2490,7 @@ Het instellingsbestuur behandelt een klacht van een betrokkene, wat een bijzonde
 
 a. beslissingen als bedoeld in de artikelen 7.8b, derde en vijfde lid, en 7.9, eerste lid,  
 
-b. beslissingen inzake vaststelling van het aantal behaalde studiepunten als bedoeld in de artikelen 7.9a of 7.9b, alsmede beslissingen inzake het met goed gevolg hebben afgelegd van het afsluitend examen, bedoeld in artikel 7.9d,  
+b. beslissingen inzake vaststelling van het aantal behaalde studiepunten als bedoeld in artikel 7.9a, alsmede beslissingen inzake het met goed gevolg hebben afgelegd van het afsluitend examen, bedoeld in artikel 7.9d,  
 
 c. beslissingen inzake de omvang van de vrijstelling, bedoeld in artikel 7.31a, derde lid,  
 
@@ -2603,7 +2603,7 @@ d. bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroord
 
 ####Griffierecht
 
-Het griffierecht bedraagt € 41. [Artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+Het griffierecht bedraagt € 42. [Artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
 
 ### Paragraaf  4  
 
@@ -3409,7 +3409,7 @@ Dit hoofdstuk heeft betrekking op de in de bijlage van deze wet opgenomen hogesc
 
 ####Delegatie taken en bevoegdheden
 
-Het college van bestuur van een hogeschool, kan hem bij wettelijk voorschrift opgedragen taken en bevoegdheden overdragen aan het bestuur van een faculteit of het bestuur van een andere organisatorische eenheid als bedoeld in artikel 10.3a.  
+Het college van bestuur van een hogeschool kan hem bij wettelijk voorschrift opgedragen taken en bevoegdheden overdragen aan het bestuur van een faculteit of het bestuur van een andere organisatorische eenheid als bedoeld in artikel 10.3a.  
 
 ### Artikel  10.3a  
 

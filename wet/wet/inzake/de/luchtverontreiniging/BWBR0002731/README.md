@@ -20,62 +20,6 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ####Toestellen, brandstoffen en verontreinigende handelingen
 
-### Artikel  13  
-
-1.  Bij algemene maatregel van bestuur kunnen in het belang van het voorkomen of beperken van luchtverontreiniging regelen worden gesteld met betrekking tot toestellen, brandstoffen en verontreinigende handelingen.   
-2.  Hiertoe kunnen behoren regelen, inhoudende: 
-
-a. een verbod een toestel of brandstof, behorende tot een bij de maatregel aangewezen categorie, te gebruiken, te vervaardigen, in te voeren, ten verkoop in voorraad te hebben, ten verkoop aan te bieden, te verkopen, af te leveren of te vervoeren, voor zover naar Ons oordeel het nut van het aanwenden daarvan niet opweegt tegen de nadelen uit het oogpunt van luchtverontreiniging;  
-
-b. een verbod zulks te doen zonder vergunning, verleend door een bij die maatregel aangewezen orgaan;  
-
-c. een verbod zulks te doen indien het toestel of de brandstof niet voldoet aan de bij de maatregel gestelde eisen;  
-
-d. een verbod zulks te doen indien het toestel niet behoort tot een type dat bij een keuring, verricht aan de hand van de bij of krachtens de maatregel daartoe vastgestelde voorschriften, is goedgekeurd;  
-
-e. een verbod een toestel, behorende tot een bij de maatregel aangewezen categorie, te gebruiken indien niet het bewijs kan worden overgelegd dat het binnen een bij de maatregel bepaalde voorafgaande termijn bij een keuring, verricht aan de hand van de bij of krachtens de maatregel daartoe vastgestelde voorschriften, is goedgekeurd;  
-
-f. een verbod een toestel dan wel een woning of ander gebouw te voorzien of te doen voorzien van een voor aanwending daarin bestemde brandstof, behorende tot een bij de maatregel aangewezen categorie;  
-
-g. een verbod een toestel of brandstof, behorende tot een bij de maatregel aangewezen categorie, te gebruiken op de bij de maatregel aangegeven plaatsen, op de bij de maatregel aangegeven wijze of onder de bij de maatregel aangegeven omstandigheden;  
-
-h. een verplichting voor de gebruiker van een toestel, behorende tot een bij de maatregel aangewezen categorie, de uitworp van verontreinigende stoffen uit dat toestel te meten op de bij of krachtens de maatregel aangegeven wijze;  
-
-i. een verplichting van het gebruik van een toestel of brandstof in de bij de maatregel bepaalde gevallen en op de bij de maatregel bepaalde wijze aangifte te doen.     
-
-### Artikel  14  
-
-Een algemene maatregel van bestuur als bedoeld in artikel 13 kan tevens de verplichting inhouden te voldoen aan door bestuursorganen die bij de maatregel zijn aangewezen, omtrent onderwerpen die in de maatregel zijn geregeld, aan de betrokkene gestelde nadere eisen. Bij het stellen van zodanige eis wordt tevens het tijdstip bepaald waarop ten aanzien van die eis de verplichting ingaat.  
-
-### Artikel  14a  
-
-Bij een algemene maatregel van bestuur krachtens artikel 13, waarbij regelen worden gesteld met betrekking tot toestellen of brandstoffen die kunnen worden gebruikt in inrichtingen waarvoor een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist is, kan worden bepaald dat het bevoegd gezag bij het verlenen of wijzigen van de vergunning met betrekking tot daarbij aangegeven onderwerpen in de beperkingen waaronder de vergunning wordt verleend, of in de daaraan verbonden voorschriften van bij de maatregel gestelde regels kan afwijken. In dat geval wordt bij de maatregel aangegeven in hoeverre het bevoegd gezag van de regels kan afwijken. Bij de maatregel kan tevens worden bepaald dat de bevoegdheid tot afwijken slechts geldt in daarbij aangegeven categorieën van gevallen.  
-
-### Artikel  15  
-
-In een algemene maatregel van bestuur waarbij regelen van de in artikel 13, tweede lid, onder *a*, *b*, *c* of *d*, bedoelde strekking met betrekking tot toestellen werden gesteld, wordt tevens een termijn bepaald, eerst bij het verstrijken waarvan die regelen ten aanzien van toestellen die bij het in werking treden van de maatregel reeds vervaardigd en hier te lande aanwezig zijn, van toepassing worden.  
-
-### Artikel  16  
-
-1.  Indien toepassing wordt gegeven aan artikel 13, tweede lid, onder b, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing op de voorbereiding van de beschikking op de aanvraag om een vergunning.   
-2.  Een vergunning kan slechts worden geweigerd in het belang van het voorkomen of beperken van luchtverontreiniging.   
-3.  Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden. Hiertoe kan behoren het voorschrift, dat met betrekking tot in het voorschrift geregelde onderwerpen moet worden voldaan aan nadere eisen, die door bij het voorschrift aangewezen bestuursorganen worden gesteld.   
-4.  Bij de betrokken algemene maatregel van bestuur kunnen categorieën van gevallen worden aangewezen, waarin het eerste lid niet van toepassing is.   
-5.  Voor zover dat bij de betrokken maatregel is bepaald, kan de vergunning worden gewijzigd of ingetrokken. Op de voorbereiding van een zodanige wijziging of intrekking is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-
-### Artikel  17  
-
-Indien toepassing wordt gegeven aan artikel 13, tweede lid, onder *d* of *e*, wijzen Onze Minister en Onze Ministers wie het mede aangaat, tezamen de instanties aan, die de in die bepaling bedoelde keuringen verrichten, tenzij deze instanties bij of krachtens algemene maatregel van bestuur zijn aangewezen. Bij of krachtens algemene maatregel van bestuur worden regelen gesteld ten aanzien van de wijze waarop die keuringen plaatshebben.  
-
-### Artikel  18  
-
-1.  Bij een algemene maatregel van bestuur als bedoeld in artikel 13 kunnen ter zake van de toepasselijkheid van daarbij gestelde regelen beperkingen worden gesteld.   
-2.  Zodanige beperking kan onder meer inhouden: 
-
-a. dat de regel slechts geldt in de bij de maatregel aangewezen gebieden;  
-
-b. dat de regel niet geldt met betrekking tot de inrichtingen - dan wel met betrekking tot bij de maatregel aangegeven groepen van inrichtingen - , waarvoor een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist is van gedeputeerde staten of van Onze Minister.     
-
 ### Hoofdstuk  IV  
 
 ### Afdeling  1  
@@ -232,20 +176,6 @@ Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van
 
 Voor de toepassing van de artikelen 44 en 49 wordt onderscheidenlijk het gebied van een bovengemeentelijk openbaar lichaam met een gemeente, het bestuur van zodanig lichaam met burgemeester en wethouders en de voorzitter van het bestuur van zodanig lichaam met de burgemeester gelijk gesteld.  
 
-### Artikel  86  
-
-1.  Wij kunnen in het belang van de landsverdediging van de krachtens artikel 13, eerste lid, gestelde verboden en verplichtingen: 
-
-a. bij algemene maatregel van bestuur vrijstelling verlenen;  
-
-b. op daartoe strekkend verzoek ontheffing verlenen.     
-2.  Aan een vrijstelling of ontheffing worden de voorschriften verbonden, die naar Ons oordeel in het belang van het voorkomen of beperken van luchtverontreiniging nodig zijn.   
-
-### Artikel  88  
-
-1.  Het ontwerp van een algemene maatregel van bestuur krachtens artikel 13 wordt overgelegd aan de beide kamers der Staten-Generaal en in de *Staatscourant* bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.   
-2.  Een algemene maatregel van bestuur als bedoeld in het eerste lid wordt, nadat hij is vastgesteld, toegezonden aan beide Kamers der Staten-Generaal. Hij treedt niet eerder in werking dan vier weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst.   
-
 ### Artikel  89  
 
 Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.  
@@ -267,13 +197,11 @@ Het is verboden te handelen in strijd met een krachtens artikel 43 gegeven bevel
 
 Het is verboden te handelen in strijd met 
 
-a. het bij of krachtens artikel 13, 14, 48, eerste of tweede lid, dan wel 86, tweede lid bepaalde,  
+a. het bij of krachtens artikel 48, eerste of tweede lid, bepaalde,  
 
-b. een krachtens artikel 16, derde lid, aan een vergunning verbonden voorschrift,  
+b. een hem krachtens artikel 60, eerste lid, opgelegde verplichting,  
 
-c. een hem krachtens artikel 60, eerste lid, opgelegde verplichting,  
-
-d. het krachtens artikel 89 bepaalde, voor zover zodanig handelen daarbij uitdrukkelijk als strafbaar feit is aangeduid.    
+c. het krachtens artikel 89 bepaalde, voor zover zodanig handelen daarbij uitdrukkelijk als strafbaar feit is aangeduid.    
 
 ### Hoofdstuk  XI  
 

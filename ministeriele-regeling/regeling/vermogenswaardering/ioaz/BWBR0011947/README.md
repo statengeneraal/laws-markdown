@@ -64,7 +64,7 @@ b. rechten op ingegane lijfrenten, verkregen krachtens overeenkomst onder bezwar
 
 c. polissen van levensverzekering, mits ter zake van de verzekering geen koopsom is voldaan en deze polissen niet dienen als basis voor de financiering van de eigen woning;  
 
-d. een bedrag van € 115.200,00 ten behoeve van aanvullende pensioenvoorzieningen. Rechten op lijfrenten, bedoeld in de onderdelen a of b, alsmede polissen van levensverzekering, bedoeld in onderdeel c, worden op dit bedrag, tot ten hoogste een bedrag van € 115.200,00 in mindering gebracht.     
+d. een bedrag van € 115.914,00 ten behoeve van aanvullende pensioenvoorzieningen. Rechten op lijfrenten, bedoeld in de onderdelen a of b, alsmede polissen van levensverzekering, bedoeld in onderdeel c, worden op dit bedrag, tot ten hoogste een bedrag van € 115.914,00 in mindering gebracht.     
 2.  Tot de schulden behoren niet premies en bijdragen ter zake van rechten welke ingevolge artikel 4, eerste lid, onderdeel a en b en artikel 5, eerste lid, onderdeel a, b en c niet tot de bezittingen behoren.   
 3.  De Minister van Sociale Zaken en Werkgelegenheid herziet, met ingang van de dag waarop het netto minimumloon zonder de daarin begrepen aanspraak op vakantietoeslag wijzigt, met het percentage van deze wijziging, het bedrag genoemd in het eerste lid, onderdeel d.   
 

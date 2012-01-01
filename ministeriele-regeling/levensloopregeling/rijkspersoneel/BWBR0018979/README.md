@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 3 november 2005, nr. 2005-0000266589, tot vaststelling van een regeling met betrekking tot levensloop in verband met de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling (Levensloopregeling rijkspersoneel)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 34g van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [artikel 69a van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);
+Gelet op artikel 34g van het Algemeen Rijksambtenarenreglement en artikel 69a van het Ambtenarenreglement Staten-Generaal;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,19 +13,19 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-– ambtenaar: degene die is aangesteld op grond van het [ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+– ambtenaar: degene die is aangesteld op grond van het ARAR of ARSG;  
 
-– ARAR: [Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– ARAR: Algemeen Rijksambtenarenreglement;  
 
 – arbeidsduurfactor: een breuk, waarvan de teller bestaat uit de voor de ambtenaar vastgestelde arbeidsduur en de noemer bestaat uit het getal 36;  
 
-– ARSG: [Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+– ARSG: Ambtenarenreglement Staten-Generaal;  
 
 – berekeningsgrondslag: het salaris, vermeerderd met de vakantie-uitkering en de eindejaarsuitkering over dat salaris;  
 
 – bevoegd gezag: het tot aanstelling bevoegd gezag;  
 
-– levensloopinstelling: een door de ambtenaar gekozen kredietinstelling, verzekeraar of beheerder van een beleggingsinstelling als bedoeld in [artikel 19g, derde lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+– levensloopinstelling: een door de ambtenaar gekozen bank, verzekeraar of beheerder van een beleggingsinstelling als bedoeld in artikel 19g, derde lid, van de Wet op de loonbelasting 1964;  
 
 – levenslooprecht van deelneming: een of meer voor de ambtenaar geblokkeerde rechten van deelneming in een beleggingsinstelling waarmee een levenslooptegoed wordt opgebouwd;  
 
@@ -39,12 +39,12 @@ Besluit:
 
 – levensloopverzekering: een verzekering op naam van de ambtenaar bij een levensloopinstelling waarmee een levenslooptegoed wordt opgebouwd;  
 
-– loon: loon als bedoeld in [artikel 19g, eerste lid, onder b, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+– loon: loon als bedoeld in artikel 19g, eerste lid, onder b, van de Wet op de loonbelasting 1964;  
 
 – spaarperiode: de periode gedurende welke de ambtenaar een voorziening in geld spaart ten behoeve van het opnemen van levensloopverlof;  
 
-– vakantie: hetgeen daaronder wordt verstaan in het [ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md).     
-2.  Voor de toepassing van deze regeling wordt onder bezoldiging, salaris, salaris per uur, vakantie-uitkering en eindejaarsuitkering verstaan, hetgeen daaronder wordt verstaan in het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+– vakantie: hetgeen daaronder wordt verstaan in het ARAR of ARSG.     
+2.  Voor de toepassing van deze regeling wordt onder bezoldiging, salaris, salaris per uur, vakantie-uitkering en eindejaarsuitkering verstaan, hetgeen daaronder wordt verstaan in het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
 
 ### Hoofdstuk  2  
 
@@ -73,9 +73,9 @@ b. vakantie-uitkering;
 
 c. eindejaarsuitkering;  
 
-d. vergoeding voor meer gewerkte uren die op grond van [artikel 3, tweede lid, van de IKAP-regeling rijkspersoneel](../../../../ministeriele-regeling/ikap-regeling/rijkspersoneel/BWBR0015799/README.md) is toegekend;  
+d. vergoeding voor meer gewerkte uren die op grond van artikel 3, tweede lid, van de IKAP-regeling rijkspersoneel is toegekend;  
 
-e. de vergoeding voor vakantie-uren die op grond van [artikel 22, vijftiende lid, van het ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is toegekend.    
+e. de vergoeding voor vakantie-uren die op grond van artikel 22, vijftiende lid, van het ARAR is toegekend.    
 
 ### Artikel  2.1.4  
 
@@ -101,11 +101,11 @@ h. een verklaring van de ambtenaar waaruit blijkt:
 
 – of hij in een of meer inmiddels beëindigde dienstbetrekkingen een levenslooptegoed heeft opgebouwd en wat de omvang daarvan is op 1 januari van het kalenderjaar van de ondertekening van de verklaring;  
 
-– of hij een verlofspaarrekening als bedoeld in [artikel 1.1, letter j, van de Verlofspaarregeling rijkspersoneel](../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md) heeft en wat het laatst bekende saldo van die rekening is;  
+– of hij een verlofspaarrekening als bedoeld in artikel 1.1, letter j, van de Verlofspaarregeling rijkspersoneel heeft en wat het laatst bekende saldo van die rekening is;  
 
-– of hij compensatie in vrije dagen heeft gespaard op grond van [artikel 1, tweede lid, derde volzin, van het besluit van de Minister van Binnenlandse Zaken van 25 november 1996](../../../../ministeriele-regeling/nadere/algemene/voorschriften/inzake/de/36-urige/werkweek/bij/de/etc/BWBR0008344/README.md), kenmerk AD96/U1026, (Stcrt. 233) en wat de omvang daarvan is;  
+– of hij compensatie in vrije dagen heeft gespaard op grond van artikel 1, tweede lid, derde volzin, van het besluit van de Minister van Binnenlandse Zaken van 25 november 1996, kenmerk AD96/U1026, (Stcrt. 233) en wat de omvang daarvan is;  
 
-– dat hij geen voorziening ingevolge deze regeling spaart in het kalenderjaar waarin hij bij een inhoudingsplichtige loon spaart ingevolge een spaarloonregeling als bedoeld in [artikel 32 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+– dat hij geen voorziening ingevolge deze regeling spaart in het kalenderjaar waarin hij bij een inhoudingsplichtige loon spaart ingevolge een spaarloonregeling als bedoeld in artikel 32 van de Wet op de loonbelasting 1964;  
 
 – dat hij ermee instemt dat zijn gehele of gedeeltelijke levenslooptegoed aan het bevoegd gezag wordt uitgekeerd in situaties als bedoeld in artikel 2.2.2, eerste en derde lid, of artikel 5.2.1.       
 2.  Indien het een eerste aanvraag bij het bevoegd gezag betreft en in een of meer inmiddels beëindigde dienstbetrekkingen een levenslooptegoed is opgebouwd, gaat de aanvraag vergezeld van een verklaring van de levensloopinstellingen waar het tegoed is opgebouwd, waarin wordt aangegeven hoeveel jaren de ambtenaar heeft gespaard, in welke kalenderjaren en tot welke bedragen in die jaren een voorziening in geld ten behoeve van levensloopverlof is uitgekeerd en wat de omvang van het levenslooptegoed op 1 januari van het lopende kalenderjaar is.   
@@ -119,11 +119,11 @@ h. een verklaring van de ambtenaar waaruit blijkt:
 
 a. het levenslooptegoed uit een of meer inmiddels beëindigde dienstbetrekkingen;  
 
-b. het saldo van de verlofspaarrekening als bedoeld in [artikel 1.1, letter j, van de Verlofspaarregeling rijkspersoneel](../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md);  
+b. het saldo van de verlofspaarrekening als bedoeld in artikel 1.1, letter j, van de Verlofspaarregeling rijkspersoneel;  
 
-c. de waarde van de totale compensatie in vrije dagen die tot 1 januari 2006 is gespaard op grond van [artikel 1, tweede lid, derde volzin, van het besluit van de Minister van Binnenlandse Zaken van 25 november 1996](../../../../ministeriele-regeling/nadere/algemene/voorschriften/inzake/de/36-urige/werkweek/bij/de/etc/BWBR0008344/README.md), kenmerk AD96/U1026, (Stcrt. 233);  
+c. de waarde van de totale compensatie in vrije dagen die tot 1 januari 2006 is gespaard op grond van artikel 1, tweede lid, derde volzin, van het besluit van de Minister van Binnenlandse Zaken van 25 november 1996, kenmerk AD96/U1026, (Stcrt. 233);  
 
-d. de waarde van het buitengewoon verlof als bedoeld in de [artikelen 3.4.1](../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md) en [6.1.1, vijfde lid, van de Verlofspaarregeling rijkspersoneel](../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md), indien het verlof op grond van die regeling of de compensatie in vrije dagen op grond van het onder c bedoelde besluit bij of na het bereiken van de 62-jarige leeftijd zal worden opgenomen, op 1 januari van het kalenderjaar waarin de voorziening in geld voor levensloopverlof zal worden gespaard gelijk is aan of meer bedraagt dan 2,1 maal het loon over het voorafgaande kalenderjaar.     
+d. de waarde van het buitengewoon verlof als bedoeld in de artikelen 3.4.1 en 6.1.1, vijfde lid, van de Verlofspaarregeling rijkspersoneel, indien het verlof op grond van die regeling of de compensatie in vrije dagen op grond van het onder c bedoelde besluit bij of na het bereiken van de 62-jarige leeftijd zal worden opgenomen, op 1 januari van het kalenderjaar waarin de voorziening in geld voor levensloopverlof zal worden gespaard gelijk is aan of meer bedraagt dan 2,1 maal het loon over het voorafgaande kalenderjaar.     
 2.  Voor de toepassing van het eerste lid blijft een salarisvermindering buiten beschouwing, voor zover deze het gevolg is van het aanvaarden van een deeltijdfunctie of een lager gekwalificeerde functie, in de periode die aanvangt 10 jaar direct voorafgaande aan de in het Pensioenreglement van de Stichting Pensioenfonds ABP vastgestelde ingangsdatum van het pensioen. De vorige volzin is bij een salarisvermindering die het gevolg is van het aanvaarden van een deeltijdfunctie uitsluitend van toepassing, voor zover de omvang van het dienstverband na het aanvaarden van de deeltijdfunctie niet lager is dan 50% van de omvang van het dienstverband aan het eind van de periode direct voorafgaande aan aanvang van de in de eerste volzin van dit lid bedoelde periode.   
 3.  De waarde van de compensatie in vrije dagen en de waarde van het buitengewoon verlof, bedoeld in het eerste lid, worden berekend op basis van het salaris per uur dat voor de ambtenaar geldt op 1 januari van het kalenderjaar waarin de voorziening in geld voor levensloopverlof zal worden gespaard.   
 4.  Het bevoegd gezag maakt het besluit op de aanvraag binnen zes weken na de datum waarop deze is ontvangen bekend aan de ambtenaar.   
@@ -147,10 +147,10 @@ De voorziening in geld voor levensloopverlof uit de bronnen, genoemd in artikel 
 
 a. ten behoeve van de uitbetaling van een uitkering tijdens de levensloopverlofperiode;  
 
-b. ten behoeve van het omzetten van het levenslooptegoed in een aanspraak ingevolge artikel 16.6 van het Pensioenreglement van de Stichting Pensioenfonds ABP, mits na de omzetting de aanspraak nog blijft binnen de in of krachtens [hoofdstuk IIB van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) gestelde grenzen;  
+b. ten behoeve van het omzetten van het levenslooptegoed in een aanspraak ingevolge artikel 16.6 van het Pensioenreglement van de Stichting Pensioenfonds ABP, mits na de omzetting de aanspraak nog blijft binnen de in of krachtens hoofdstuk IIB van de Wet op de loonbelasting 1964 gestelde grenzen;  
 
 c. ten behoeve van de uitbetaling van een uitkering op grond van een aanvraag als bedoeld in artikel 5.1.1, eerste lid.     
-2.  Het levenslooptegoed wordt op geen enkele wijze afgekocht, vervreemd, prijsgegeven dan wel formeel of feitelijk als voorwerp van zekerheid anders dan ten behoeve van de in [artikel 5.11 van de Uitvoeringsregeling loonbelasting 2011](../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md) bedoelde verpanding aangeboden.   
+2.  Het levenslooptegoed wordt op geen enkele wijze afgekocht, vervreemd, prijsgegeven dan wel formeel of feitelijk als voorwerp van zekerheid anders dan ten behoeve van de in artikel 5.11 van de Uitvoeringsregeling loonbelasting 2011 bedoelde verpanding aangeboden.   
 
 ### Artikel  2.2.2  
 
@@ -262,7 +262,7 @@ Voor zover het levensloopverlof niet wordt opgenomen direct voorafgaande aan het
 1.  De ambtenaar die zijn levenslooptegoed wil aanwenden voor het opbouwen van extra pensioen, dient daartoe een aanvraag in bij het bevoegd gezag.   
 2.  In de aanvraag vermeldt de ambtenaar welk deel van het levenslooptegoed hij wil laten omzetten in een aanspraak ingevolge artikel 16.6 van het Pensioenreglement van de Stichting Pensioenfonds ABP.   
 3.  De aanvraag bevat een machtiging van de ambtenaar om een uitkering ter grootte van het in de aanvraag aangegeven bedrag ten laste van diens levenslooptegoed aan het bevoegd gezag te verstrekken op een door dat gezag aangegeven wijze.   
-4.  Indien na de in het tweede lid bedoelde omzetting de aanspraak ingevolge artikel 16.6 van het Pensioenreglement van de Stichting Pensioenfonds ABP nog blijft binnen de in of krachtens [hoofdstuk IIB van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) gestelde grenzen, kent het bevoegd gezag de aanvraag toe binnen 30 dagen na de datum waarop deze is ontvangen en maakt het besluit op de aanvraag binnen 14 dagen bekend aan de ambtenaar en de levensloopinstelling.   
+4.  Indien na de in het tweede lid bedoelde omzetting de aanspraak ingevolge artikel 16.6 van het Pensioenreglement van de Stichting Pensioenfonds ABP nog blijft binnen de in of krachtens hoofdstuk IIB van de Wet op de loonbelasting 1964 gestelde grenzen, kent het bevoegd gezag de aanvraag toe binnen 30 dagen na de datum waarop deze is ontvangen en maakt het besluit op de aanvraag binnen 14 dagen bekend aan de ambtenaar en de levensloopinstelling.   
 5.  Voor de aanvraag wordt gebruik gemaakt van een door de Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld formulier.   
 6.  Na ontvangst van de uitkering, bedoeld in het derde lid, wordt deze door het bevoegd gezag overgemaakt aan de Stichting Pensioenfonds ABP.   
 
@@ -305,7 +305,7 @@ In geval van overlijden van de ambtenaar wordt het voor uitkering beschikbare le
 
 ### Artikel  6.1  
 
-Het [besluit van de Minister van Binnenlandse Zaken van 25 november 1996](../../../../ministeriele-regeling/nadere/algemene/voorschriften/inzake/de/36-urige/werkweek/bij/de/etc/BWBR0008344/README.md), kenmerk AD96/U1026 (Stcrt. 233), en de [Verlofspaarregeling rijkspersoneel](../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md) worden ingetrokken.  
+Het besluit van de Minister van Binnenlandse Zaken van 25 november 1996, kenmerk AD96/U1026 (Stcrt. 233), en de Verlofspaarregeling rijkspersoneel worden ingetrokken.  
 
 ### Hoofdstuk  7  
 
@@ -313,22 +313,22 @@ Het [besluit van de Minister van Binnenlandse Zaken van 25 november 1996](../../
 
 ### §  7.1  
 
-####Compensatie in vrije dagen ([Besluit van de Minister van Binnenlandse Zaken van 25 november 1996](../../../../ministeriele-regeling/nadere/algemene/voorschriften/inzake/de/36-urige/werkweek/bij/de/etc/BWBR0008344/README.md), kenmerk AD96/U1026, Stcrt. 233)
+####Compensatie in vrije dagen (Besluit van de Minister van Binnenlandse Zaken van 25 november 1996, kenmerk AD96/U1026, Stcrt. 233)
 
 ### Artikel  7.1.1  
 
-1.  Op de tot 1 januari 2006 opgebouwde aanspraken op compensatie in vrije dagen blijft het [besluit van de Minister van Binnenlandse Zaken van 25 november 1996](../../../../ministeriele-regeling/nadere/algemene/voorschriften/inzake/de/36-urige/werkweek/bij/de/etc/BWBR0008344/README.md), kenmerk AD96/U1026, (Stcrt. 233), zoals dat luidde op 31 december 2005, van toepassing, voor zover die aanspraken niet zijn omgezet in aanspraken ingevolge de Levensloopregeling rijkspersoneel.   
+1.  Op de tot 1 januari 2006 opgebouwde aanspraken op compensatie in vrije dagen blijft het besluit van de Minister van Binnenlandse Zaken van 25 november 1996, kenmerk AD96/U1026, (Stcrt. 233), zoals dat luidde op 31 december 2005, van toepassing, voor zover die aanspraken niet zijn omgezet in aanspraken ingevolge de Levensloopregeling rijkspersoneel.   
 2.  De waarde van de gespaarde compensatie in vrije dagen kan op verzoek van de ambtenaar worden toegevoegd aan het levenslooptegoed, tenzij het dienstbelang zich daartegen verzet.   
 3.  De waarde van de gespaarde compensatie in vrije dagen, bedoeld in het tweede lid, wordt berekend op basis van het salaris per uur dat de ambtenaar geniet op de eerste dag van de maand waarin het in het tweede lid bedoelde verzoek is ontvangen.   
 
 ### §  7.2  
 
-#### [Verlofspaarregeling rijkspersoneel](../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md) 
+#### Verlofspaarregeling rijkspersoneel 
 
 ### Artikel  7.2.1  
 
-1.  Op de tot 1 januari 2006 opgebouwde aanspraken op spaarverlof en compensatie in vrije dagen blijft de [Verlofspaarregeling rijkspersoneel](../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md), zoals die luidde op 31 december 2005, van toepassing, voor zover die aanspraken niet zijn omgezet in aanspraken ingevolge de Levensloopregeling rijkspersoneel.   
-2.  Het saldo van de verlofspaarrekening als bedoeld in [artikel 1.1, eerste lid, letter j, van de Verlofspaarregeling rijkspersoneel](../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md) kan op verzoek van de ambtenaar worden toegevoegd aan het levenslooptegoed.   
+1.  Op de tot 1 januari 2006 opgebouwde aanspraken op spaarverlof en compensatie in vrije dagen blijft de Verlofspaarregeling rijkspersoneel, zoals die luidde op 31 december 2005, van toepassing, voor zover die aanspraken niet zijn omgezet in aanspraken ingevolge de Levensloopregeling rijkspersoneel.   
+2.  Het saldo van de verlofspaarrekening als bedoeld in artikel 1.1, eerste lid, letter j, van de Verlofspaarregeling rijkspersoneel kan op verzoek van de ambtenaar worden toegevoegd aan het levenslooptegoed.   
 
 ### Hoofdstuk  8  
 

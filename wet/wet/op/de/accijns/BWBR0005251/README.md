@@ -73,7 +73,9 @@ q. *plaats van rechtstreekse aflevering:* een plaats die op grond van een ingevo
 
 r. *plaats waar de accijnsgoederen het grondgebied van de Gemeenschap verlaten:* het douanekantoor van uitgang, bedoeld in artikel 793, tweede lid, van Verordening (EEG) nr. 2454/93 van de Commissie van de Europese Gemeenschappen van 2 juli 1993, houdende vaststelling van enkele bepalingen ter uitvoering van Verordening (EEG) nr. 2913/92 van de Raad tot vaststelling van het communautair douanewetboek (PbEG L 253) of het kantoor waar de douaneformaliteiten worden vervuld die van toepassing zijn op de uitgang van accijnsgoederen uit de Gemeenschap naar een in artikel 5, tweede lid, van Richtlijn nr. 2008/118/EG van de Raad van de Europese Unie van 16 december 2008 (PbEU L 9) bedoeld gebied;  
 
-s. *vervaardigen van een accijnsgoed:* elk handelen waarbij of waardoor een accijnsgoed ontstaat of de samenstelling van een accijnsgoed wordt gewijzigd.     
+s. *vervaardigen van een accijnsgoed:* elk handelen waarbij of waardoor een accijnsgoed ontstaat of de samenstelling van een accijnsgoed wordt gewijzigd;  
+
+t. *Richtlijn hernieuwbare energie:* Richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140).     
 2.  Bij ministeriële regeling kunnen de GN-codes, genoemd in de artikelen 5, vierde lid, 25, eerste lid, 26, tweede tot en met zevende lid, 66, eerste lid, onderdeel b, en 71d, eerste lid, worden aangepast indien de overeenkomstige GN-codes zoals opgenomen in de richtlijn nr. 2003/96/EG van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), in overeenstemming met artikel 2, vijfde lid, van die richtlijn zijn aangepast. In dat geval kan bij ministeriële regeling eveneens de laatstgenoemde datum in het eerste lid, onderdeel l, worden vervangen door de datum van de versie van de in dat onderdeel bedoelde verordening die aan de wijziging van de GN-codes ten grondslag heeft gelegen.   
 
 ### Artikel  2  
@@ -423,7 +425,7 @@ b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15 °C € 423
 
 c. zware stookolie, per 1 000 kg € 33,89;  
 
-d. vloeibaar gemaakt petroleumgas, per 1000 kg € 155,04;  
+d. vloeibaar gemaakt petroleumgas, per 1000 kg € 167,54;  
 
 e. methaan nihil.     
 2.  In afwijking in zoverre van het eerste lid, onderdeel b, bedraagt de accijns voor halfzware olie en gasolie die zijn bestemd voor de voortstuwing van luchtvaartuigen, per 1000 L bij een temperatuur van 15 °C € 221,77.   
@@ -1091,11 +1093,18 @@ b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 77,52.
 
 ### Artikel  71h  
 
-1.  Op verzoek wordt teruggaaf van accijns verleend voor duurzaam geproduceerde E85 dat is belast naar het laatstgenoemde tarief, bedoeld in artikel 27, eerste lid, onderdeel a.   
-2.  Voor de toepassing van het eerste lid wordt onder duurzaam geproduceerde E85 verstaan de vloeistof bestaande uit een combinatie van uitsluitend bio-ethanol (ethanol uit biomassa) en ongelode lichte olie waarbij de bio-ethanol ten minste 70 percent en ten hoogste 85 percent uitmaakt van deze vloeistof mits de bio-ethanol in deze vloeistof aantoonbaar voldoet aan eisen van duurzaamheid. Bij ministeriële regeling worden nadere regels gesteld omtrent de eisen van duurzaamheid en de controle hierop.   
-3.  De teruggaaf bedraagt 27 percent van het in het eerste lid bedoelde accijnstarief.   
-4.  De teruggaaf wordt verleend aan degene die de accijns ter zake van de uitslag tot verbruik van E85 verschuldigd is geworden.   
-5.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.   
+1.  Op verzoek wordt teruggaaf van accijns verleend voor motorbrandstof die geheel of gedeeltelijk bestaat uit biobrandstof als bedoeld in artikel 2, onderdeel i, van de Richtlijn hernieuwbare energie indien die biobrandstof voldoet aan duurzaamheidscriteria als bedoeld in artikel 17 van deze richtlijn.   
+2.  Dat een biobrandstof voldoet aan de duurzaamheidscriteria, bedoeld in het eerste lid, blijkt uit een audit uitgevoerd door een onafhankelijk deskundige of uit een andere wijze als bedoeld in artikel 18 van de Richtlijn hernieuwbare energie.   
+3.  Teruggaaf van accijns wordt slechts verleend: 
+
+a. over de hoeveelheid biobrandstof in motorbrandstof als bedoeld in het eerste lid, mits die biobrandstof een lagere energie-inhoud heeft dan de gelijkwaardige motorbrandstof waarvan het accijnstarief van toepassing is; en  
+
+b. indien 10 procent of meer van de in de motorbrandstof aanwezige energie afkomstig is van de in het eerste lid bedoelde biobrandstof.     
+4.  De teruggaaf van accijns bedraagt een percentage van het accijnstarief van de gelijkwaardige motorbrandstof, bedoeld in het derde lid, onderdeel a. Dit percentage is gelijk aan het verschil in energie-inhoud van de biobrandstof en die van de gelijkwaardige motorbrandstof, uitgedrukt als percentage van de energie-inhoud van de gelijkwaardige motorbrandstof.   
+5.  Voor de vaststelling van de energie-inhoud per volume van de biobrandstof en die van de gelijkwaardige motorbrandstof wordt voor zover mogelijk uitgegaan van hetgeen hiertoe is opgenomen in bijlage III van de Richtlijn hernieuwbare energie.   
+6.  De teruggaaf wordt verleend aan degene die de accijns ter zake van de uitslag tot verbruik verschuldigd is geworden.   
+7.  Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.   
+8.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  72  
 
@@ -1296,6 +1305,7 @@ a. regels worden gesteld met betrekking tot de in de vergunning op te nemen voor
 
 b. distilleertoestellen worden aangewezen waarvoor geen vergunning is vereist.     
 8.  Artikel 83 is van overeenkomstige toepassing op plaatsen waar distilleertoestellen worden vervaardigd of voorhanden zijn.   
+9.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning als bedoeld in het eerste lid.   
 
 ### Artikel  91  
 

@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 13a](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [14](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), 14a, [15](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [15a](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [16](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) en [20 van de Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), artikel 66b, tweede lid, van de Wet op de inkomstenbelasting 1968 en [artikel 8, zesde lid, van de Wet op de omzetbelasting 1968](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   
+1.  Dit besluit geeft uitvoering aan de [artikelen 13a](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [14](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [14a](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [14b](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [15](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [15a](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [16](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) en [20 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).   
 2.  Dit besluit verstaat hierna onder: 
 
 a. wet: [Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md);  
@@ -113,15 +113,24 @@ c. het verzoek om teruggaaf wordt gedaan binnen dertien weken na het tijdstip wa
 d. bij het verzoek bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig is geregistreerd in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, alsmede bescheiden waaruit blijkt vanaf welk tijdstip het motorrijtuig niet langer in Nederland feitelijk ter beschikking staat van de in Nederland wonende natuurlijke persoon of gevestigd lichaam.     
 2.  Artikel 4a, tweede lid, is van overeenkomstige toepassing.   
 
+### Artikel  4c  
+
+1.  De in [artikel 14b van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bedoelde verrekening kan slechts worden toegepast indien het verzoek daartoe gelijktijdig met de aangifte wordt gedaan, en: 
+
+a. bij het verzoek de voor het motorrijtuig afgesloten huurovereenkomst en eventuele aanvullende overeenkomsten met de ondernemer, bedoeld in [artikel 14b, eerste lid, van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), worden overgelegd, alsmede, ingeval deze overeenkomsten niet zijn opgemaakt in de Nederlandse of de Engelse taal, een vertaling in één van deze talen;  
+
+b. aan de hand van de overgelegde gegevens de voor het motorrijtuig in totaal overeengekomen huurperiode eenvoudig kan worden vastgesteld.     
+2.  In het verzoek vermeldt de huurder van het motorrijtuig de in totaal met de verhuurder overeengekomen huurperiode, en verklaart de huurder dat overigens geen andere afspraken zijn gemaakt met de verhuurder van het motorrijtuig over de periode waarin het motorrijtuig tot zijn beschikking zal staan.   
+
 ### Artikel  5  
 
-De in [artikel 15 van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bedoelde teruggaven worden slechts verleend indien de belastingplichtige binnen dertien weken na de registratie van de de personenauto, het motorrijwiel of de bestelauto daartoe verzoekt.  
+De in [artikel 15 van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bedoelde teruggaven worden slechts verleend indien de belastingplichtige binnen dertien weken na de registratie van de personenauto, het motorrijwiel of de bestelauto daartoe verzoekt.  
 
 ### Artikel  6  
 
 1.  De in [artikel 15, eerste lid, aanhef en onderdeel a, van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bedoelde teruggaaf wordt verleend, indien: 
 
-a. de personenauto, het motorrijwiel of de bestelauto is geregistreerd op naam van een politie-instantie dan wel, indien de de personenauto, het motorrijwiel of de bestelauto op lease-basis aan de politie ter beschikking staat, afschriften van het kentekenbewijs en het lease-contract worden overgelegd;  
+a. de personenauto, het motorrijwiel of de bestelauto is geregistreerd op naam van een politie-instantie dan wel, indien de personenauto, het motorrijwiel of de bestelauto op lease-basis aan de politie ter beschikking staat, afschriften van het kentekenbewijs en het lease-contract worden overgelegd;  
 
 b. de personenauto, het motorrijwiel of de bestelauto is voorzien van: 
 
@@ -150,17 +159,21 @@ b. de personenauto, het motorrijwiel of de bestelauto is voorzien van:
 
 c. de personenauto, het motorrijwiel of de bestelauto uitsluitend wordt gebruikt door brandweerlieden voor de uitoefening van hun brandweertaak.     
 2.  De in [artikel 15, vierde lid, van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen drie jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.   
-3.  Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in het [Besluit bedrijfsbrandweren](../../../../../../../../../AMvB/besluit/bedrijfsbrandweren/BWBR0004694/README.md).   
+3.  Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in [artikel 31 van de Wet veiligheidsregio’s](../../../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).   
 
 ### Artikel  8  
 
 1.  De in [artikel 15, eerste lid, aanhef en onderdeel d, van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bedoelde teruggaaf wordt slechts verleend, indien: 
 
-a. de personenauto voldoet aan de bepalingen gesteld in het Eisenbesluit ambulancevervoer;  
+a. de personenauto is ingericht voor het vervoeren van zieken en gewonden, is uiterlijk herkenbaar als ambulance en is voorzien van: 
+
+– een meertonige hoorn;  
+
+– een duidelijk zichtbaar blauw zwaai- of knipperlicht;    
 
 b. voor de personenauto een vergunning is verleend op de voet van [artikel 2 van de Wet ambulancevervoer](../../../../../../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md), dan wel de personenauto behoort tot de in [artikel 17a van die wet](../../../../../../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md) bedoelde categorieën van ambulancevervoer; en  
 
-c. de personenauto uitsluitend wordt gebruikt voor het vervoer van zieken en ongevalsslachtoffers.     
+c. de personenauto uitsluitend wordt gebruikt voor het vervoer van zieken en gewonden en het verlenen van spoedeisende medische hulp.     
 2.  De in [artikel 15, vierde lid, van de wet](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen vijf jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.   
 
 ### Artikel  9  
@@ -263,26 +276,6 @@ b. een afschrift van de delen I en II, de delen I en I B of deel I A en B van he
 c. een afschrift van het keuringsbewijs dat ingevolge de [Regeling permanente eisen taxi’s](../../../../../../../../../ministeriele-regeling/regeling/permanente/eisen/taxi's/BWBR0009110/README.md) is afgegeven voor de personenauto; alsmede, indien degene op wiens naam het kenteken is gesteld en de houder van de in onderdeel a bedoelde vergunning niet dezelfde persoon zijn,  
 
 d. een gezamenlijke verklaring waaruit blijkt dat het voertuig wordt gebruikt in het kader van de onderneming van degene op wiens naam de vergunning, bedoeld in onderdeel a, is afgegeven.    
-
-### Artikel  16  
-
-Bevat wijzigingen in andere regelgeving.   
-
-### Artikel  17  
-
-Bevat wijzigingen in andere regelgeving.   
-
-### Artikel  18  
-
-Bevat wijzigingen in andere regelgeving.   
-
-### Artikel  19  
-
-Bevat wijzigingen in andere regelgeving.   
-
-### Artikel  20  
-
-De vrijstellingen van de bijzondere verbruiksbelasting van personenauto's en van de bijzondere verbruiksbelasting van motorrijwielen welke tot 1 januari 1993 zijn verleend op grond van het bepaalde in de Regeling vrijstellingen belastingen bij invoer (*Stcrt.* 1985, 134) en welke na die datum nog niet hun belang hebben verloren, worden geacht te zijn afgegeven op grond van het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992 (*Stb.* 710). Onverminderd het bepaalde voor het invoerrecht, de omzetbelasting en de accijnzen, dient echter, indien aan de op grond van de Regeling vrijstellingen belastingen bij invoer verleende vrijstellingen voorwaarden en beperkingen zijn gesteld waarvan het niet-nakomen aanleiding kan geven tot het ontstaan van een verschuldigdheid van belastingen, bijzondere verbruiksbelasting te worden geheven op de voet van de [artikelen 50](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [50 *a* van de Wet op de omzetbelasting 1968](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) (*Stb.* 329), zoals deze luidden op 31 december 1992.  
 
 ### Artikel  21  
 

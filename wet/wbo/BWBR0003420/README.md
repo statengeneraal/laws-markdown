@@ -318,6 +318,8 @@ i. het beleid met betrekking tot de veiligheid,
 
 j. de wijze waarop de voorzieningen, bedoeld in artikel 45, worden georganiseerd, en  
 
+k. het verzuimbeleid,  
+
 k. de wijze waarop invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool.     
 2.  Het bevoegd gezag reikt de schoolgids uit aan de ouders dan wel de verzorgers bij de inschrijving en jaarlijks na de vaststelling van de schoolgids.   
 3.  De algemene maatregel van bestuur, bedoeld in het eerste lid, onder a, wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 4 weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een der kamers de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
@@ -2963,10 +2965,11 @@ Het bevoegd gezag van een bijzondere school is verplicht de uit de overheidskass
 a. de kosten voor vervanging bij afwezigheid van personeel, en  
 
 b. de kosten voortvloeiend uit rechtspositionele verplichtingen ten aanzien van personeel dat gebruik maakt van een krachtens artikel 33, tweede lid, vastgestelde regeling voor onvrijwillige taakvermindering.     
-2.  Het bevoegd gezag van een school onderscheidenlijk het bestuur van een centrale dienst voor zover het betreft personeel dat is benoemd op bekostiging voor zorgvoorzieningen als bedoeld in artikel 120, vierde lid, of artikel 132 is voorts verplicht jaarlijks een door de in het eerste lid bedoelde rechtspersoon te bepalen bijdrage te voldoen aan die rechtspersoon in verband met de kosten voor vervanging.   
+2.  Het bevoegd gezag van een school onderscheidenlijk het bestuur van een centrale dienst voor zover het betreft personeel dat is benoemd op bekostiging voor zorgvoorzieningen als bedoeld in artikel 120, vierde lid, of artikel 132 is voorts verplicht jaarlijks een door het bestuur van de in het eerste lid bedoelde rechtspersoon te bepalen bijdrage te voldoen aan die rechtspersoon in verband met de kosten voor vervanging.   
 3.  Van de in het eerste juncto tweede lid bedoelde verplichting kan Onze minister op verzoek van het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst ontheffing verlenen op grond van bezwaren van godsdienstige of levensbeschouwelijke aard. Onze minister verleent de ontheffing slechts indien het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst aantoont dat een afdoende andere voorziening is getroffen met betrekking tot de gevolgen van vervanging bij afwezigheid van personeel en de gevolgen die voortvloeien uit rechtspositionele verplichtingen ten aanzien van personeel dat gebruik maakt van een krachtens artikel 33, tweede lid, vastgestelde regeling voor onvrijwillige taakvermindering. Onze minister besluit binnen zes maanden na ontvangst van een verzoek als bedoeld in de eerste volzin. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
-4.  De rechtspersoon kan regels vaststellen ter uitvoering van het eerste lid.   
+4.  Het bestuur van de rechtspersoon kan regels vaststellen ter uitvoering van het eerste lid.   
 5.  Uit 's Rijks kas wordt jaarlijks een door Onze minister te bepalen bedrag betaald aan de rechtspersoon, bedoeld in het eerste lid, in verband met de kosten, bedoeld in dat lid onder b.   
+6.  Op de rechtspersoon, bedoeld in het eerste lid, is de [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.   
 
 ### Artikel  183a  
 
@@ -2984,19 +2987,20 @@ d. de instantie, bedoeld in artikel 184, vijfde lid, of
 
 e. het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).     
 2.  Het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer wordt op een daartoe strekkend verzoek van de in het eerste lid bedoelde rechtspersoon aan die rechtspersoon verstrekt door het bevoegd gezag van de school dan wel het bestuur van de centrale dienst waar het personeelslid dat bij afwezigheid wordt vervangen, werkzaam is.   
-3.  Indien dat ten behoeve van het verslag, bedoeld in artikel 187, tweede lid, noodzakelijk is, worden gegevens daarin slechts zodanig openbaar gemaakt dat daaraan geen herkenbare gegevens over een afzonderlijk persoon kunnen worden ontleend, tenzij het betreft de controle op de juistheid van de gegevens in het kader van de controle op de rechtmatigheid en de doelmatigheid van door de rechtspersoon gedane uitgaven. Daarbij kunnen de burgerservicenummers of, voor zover deze ontbreken, sociaal-fiscale nummers worden vergeleken met de burgerservicenummers of sociaal-fiscale nummers die door andere daartoe bij of krachtens de wet bevoegde instanties zijn verstrekt.   
+3.  Indien dat ten behoeve van het jaarverslag, bedoeld in [artikel 18, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), noodzakelijk is, worden gegevens daarin slechts zodanig openbaar gemaakt dat daaraan geen herkenbare gegevens over een afzonderlijk persoon kunnen worden ontleend, tenzij het betreft de controle op de juistheid van de gegevens in het kader van de controle op de rechtmatigheid en de doelmatigheid van door de rechtspersoon gedane uitgaven. Daarbij kunnen de burgerservicenummers of, voor zover deze ontbreken, sociaal-fiscale nummers worden vergeleken met de burgerservicenummers of sociaal-fiscale nummers die door andere daartoe bij of krachtens de wet bevoegde instanties zijn verstrekt.   
 
 ### Artikel  184  
 
 ####Verplichte aansluiting bij rechtspersoon in verband met kosten van uitkeringen aan gewezen personeel en suppleties inzake arbeidsongeschiktheid
 
 1.  Het bevoegd gezag van een school onderscheidenlijk het bestuur van een centrale dienst is aangesloten bij een door Onze Minister aan te wijzen rechtspersoon met volledige rechtsbevoegdheid die zich ten doel stelt waarborgen te bieden voor de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md) ten behoeve van gewezen personeel.   
-2.  Het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst voldoet aan de rechtspersoon jaarlijks een door die rechtspersoon vast te stellen bijdrage in verband met de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md).   
+2.  Het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst voldoet aan de rechtspersoon jaarlijks een door het bestuur van die rechtspersoon vast te stellen bijdrage in verband met de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md).   
 3.  Van de in het eerste en tweede lid bedoelde verplichting kan Onze Minister op verzoek van het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst ontheffing verlenen op grond van bezwaren van godsdienstige of levensbeschouwelijke aard. Onze Minister verleent de ontheffing slechts, indien het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst aantoont dat een afdoende andere voorziening is getroffen met betrekking tot de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md). Onze Minister besluit binnen zes maanden na ontvangst van een verzoek. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de verzoeker daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
-4.  De rechtspersoon stelt regels vast voor de behandeling, beoordeling en beantwoording van een verzoek van het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst als bedoeld in artikel 138, derde lid. Indien het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst zich beroept op overwegingen van godsdienstige of levensbeschouwelijke aard, betrekt de rechtspersoon die overwegingen bij de beoordeling van een in de eerste volzin bedoeld verzoek.   
-5.  Indien de rechtspersoon het in het vierde lid bedoelde verzoek heeft ingewilligd, vergoedt hij aan de instantie die de werkloosheidsuitkeringen, de suppleties inzake arbeidsongeschiktheid alsmede de uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md) verstrekt of heeft verstrekt, de kosten van die uitkeringen of suppleties.   
+4.  Het bestuur van de rechtspersoon stelt regels vast voor de behandeling, beoordeling en beantwoording van een verzoek van het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst als bedoeld in artikel 138, derde lid. Indien het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst zich beroept op overwegingen van godsdienstige of levensbeschouwelijke aard, betrekt het bestuur van de rechtspersoon die overwegingen bij de beoordeling van een in de eerste volzin bedoeld verzoek.   
+5.  Indien het bestuur van de rechtspersoon het in het vierde lid bedoelde verzoek heeft ingewilligd, vergoedt hij aan de instantie die de werkloosheidsuitkeringen, de suppleties inzake arbeidsongeschiktheid alsmede de uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md) verstrekt of heeft verstrekt, de kosten van die uitkeringen of suppleties.   
 6.  Indien een werkloosheidsuitkering, een suppletie inzake arbeidsongeschiktheid alsmede een uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md) van gewezen personeel van een school of een centrale dienst voortvloeit uit de inzet of een wijziging van de inzet van de in artikel 120, vierde lid, en artikel 132 bedoelde bekostiging ten opzichte van voorafgaande schooljaren, zijn de bevoegde gezagsorganen van alle scholen van het desbetreffende samenwerkingsverband hoofdelijk aansprakelijk voor het aan de rechtspersoon vergoeden van de kosten van de werkloosheidsuitkering, de suppletie inzake arbeidsongeschiktheid onderscheidenlijk de uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../wet/werkloosheidswet/BWBR0004045/README.md).   
-7.  Tegen een besluit van de rechtspersoon kan het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+7.  Tegen een besluit van het bestuur van de rechtspersoon kan het bevoegd gezag onderscheidenlijk het bestuur van de centrale dienst beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+8.  Op de rechtspersoon, bedoeld in het eerste lid, is de [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.   
 
 ### Artikel  184a  
 
@@ -3012,7 +3016,7 @@ c. Onze minister, of
 
 d. de instantie, bedoeld in artikel 184, vijfde lid.     
 2.  Het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer wordt op een daartoe strekkend verzoek van de in het eerste lid bedoelde rechtspersoon aan die rechtspersoon verstrekt door het bevoegd gezag van de school dan wel het bestuur van de centrale dienst waar het gewezen personeelslid werkzaam was.   
-3.  Indien dat ten behoeve van het verslag, bedoeld in artikel 188, eerste lid, noodzakelijk is, worden gegevens daarin slechts zodanig openbaar gemaakt dat daaraan geen herkenbare gegevens over een afzonderlijk persoon kunnen worden ontleend, tenzij het betreft de controle op de juistheid van de gegevens in het kader van de controle op de rechtmatigheid en de doelmatigheid van door de rechtspersoon gedane uitgaven. Daarbij kunnen de burgerservicenummers of, voor zover deze ontbreken, sociaal-fiscale nummers worden vergeleken met de burgerservicenummers of sociaal-fiscale nummers die door andere daartoe bij of krachtens de wet bevoegde instanties zijn verstrekt.   
+3.  Indien dat ten behoeve van het jaarverslag, bedoeld in [artikel 18, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), noodzakelijk is, worden gegevens daarin slechts zodanig openbaar gemaakt dat daaraan geen herkenbare gegevens over een afzonderlijk persoon kunnen worden ontleend, tenzij het betreft de controle op de juistheid van de gegevens in het kader van de controle op de rechtmatigheid en de doelmatigheid van door de rechtspersoon gedane uitgaven. Daarbij kunnen de burgerservicenummers of, voor zover deze ontbreken, sociaal-fiscale nummers worden vergeleken met de burgerservicenummers of sociaal-fiscale nummers die door andere daartoe bij of krachtens de wet bevoegde instanties zijn verstrekt.   
 
 ### Hoofdstuk  II  
 
@@ -3034,37 +3038,25 @@ d. de instantie, bedoeld in artikel 184, vijfde lid.
 
 ####Ministeriële bevoegdheden t.a.v. de rechtspersoon, bedoeld in artikel 183 
 
-1.  Onze minister is ten aanzien van de rechtspersoon, bedoeld in artikel 183, bevoegd tot: 
+1.  Instemming van Onze minister is vereist ten aanzien van de statuten van de rechtspersoon, bedoeld in artikel 183, alsmede ten aanzien van wijziging van die statuten.   
+2.  Onze minister is bevoegd tot intrekking van de aanwijzing van de rechtspersoon, bedoeld in artikel 183.   
+3.  Bij algemene maatregel van bestuur worden regels gesteld omtrent: 
 
-a. instemming met de statuten van de rechtspersoon, alsmede van wijziging van de statuten;  
+a. nadere taakomschrijving van de rechtspersoon;  
 
-b. instemming met de bijdrage, bedoeld in artikel 183, tweede lid, voor zover die betrekking heeft op de kosten van vervanging van personeel wegens voorschriften die zijn gegeven bij algemene maatregel van bestuur of bij ministeriële regeling;  
+b. de voorwaarden voor instemming door Onze minister met de statuten van de rechtspersoon en wijziging van deze statuten; en  
 
-c. het geven van algemene aanwijzingen aan de rechtspersoon in verband met de minimaal door de rechtspersoon te geven waarborgen, bedoeld in artikel 183, eerste lid, zulks in verband met de goede voortgang van het onderwijs;  
-
-d. het geven van algemene aanwijzingen aan de rechtspersoon met het oog op de afstemming van activiteiten van de rechtspersoon op het algemene beleid inzake preventie van ziekteverzuim en arbeidsongeschiktheid;  
-
-e. het geven van algemene aanwijzingen aan de rechtspersoon om de nakoming te verzekeren van verplichtingen die bij deze wet aan de rechtspersoon zijn opgedragen;  
-
-f. het geven van algemene aanwijzingen aan de rechtspersoon om de door Onze minister gewenste inlichtingen te verkrijgen;  
-
-g. het geven van algemene aanwijzingen aan de rechtspersoon in gevallen dat het algemeen belang dit in belangrijke mate vereist;  
-
-h. intrekking van de aanwijzing van de rechtspersoon.     
-2.  De rechtspersoon brengt jaarlijks voor 1 april aan Onze minister over het afgelopen jaar verslag uit over zijn werkzaamheden, voortvloeiend uit artikel 183.   
-3.  Onze minister zendt het verslag, bedoeld in het tweede lid, vergezeld van zijn advies daarover, voor 1 mei volgend op de datum, bedoeld in het tweede lid, aan de Tweede Kamer der Staten-Generaal.   
-4.  Bij algemene maatregel van bestuur worden nadere voorschriften gegeven omtrent de uitoefening van de in het eerste lid bedoelde bevoegdheden en omtrent de gevolgen van intrekking van de aanwijzing van de rechtspersoon.   
-5.  Krachtens bij algemene maatregel van bestuur vast te stellen voorschriften kan Onze minister subsidie verlenen aan de rechtspersoon ten behoeve van: 
+c. de gevolgen van intrekking van de aanwijzing van de rechtspersoon.     
+4.  Krachtens bij algemene maatregel van bestuur vast te stellen voorschriften kan Onze minister subsidie verlenen aan de rechtspersoon ten behoeve van: 
 
 a. bedragen die, gedurende een vooraf vastgestelde periode en tot een vooraf vastgestelde maximale hoogte, strekken ter vervanging van de vergoeding ten behoeve van de kosten voor vervanging, bedoeld in artikel 126, eerste lid, en de bijdrage, bedoeld in artikel 183, tweede lid, voor zover die betrekking heeft op de kosten van vervanging van personeel wegens voorschriften gegeven bij algemene maatregel van bestuur of bij ministeriële regeling,  
 
 b. een bijdrage aan de kosten van de bedrijfsvoering van de rechtspersoon, en  
 
 c. een bijdrage ten behoeve van de uitoefening van landelijke taken in het kader van de bedrijfsgezondheidszorg.     
-6.  Bij de algemene maatregel van bestuur, bedoeld in het vijfde lid, kan ten behoeve van een in dat lid bedoelde subsidie een subsidieplafond worden vastgesteld.   
-7.  De rechtspersoon kan ten behoeve van de uitoefening van landelijke taken in het kader van de bedrijfsgezondheidszorg subsidie aan derden verstrekken.   
-8.  Het toezicht op de rechtspersoon is opgedragen aan Onze minister. Met het toezicht zijn belast de bij besluit van Onze minister aangewezen ambtenaren. Een besluit als bedoeld in de tweede volzin wordt bekendgemaakt in de Staatscourant.   
-9.  De algemene maatregel van bestuur, bedoeld in het vierde en vijfde lid, wordt aan de Tweede Kamer der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 4 weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens de Kamer de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
+5.  Bij de algemene maatregel van bestuur, bedoeld in het vierde lid, kan ten behoeve van een in dat lid bedoelde subsidie een subsidieplafond worden vastgesteld.   
+6.  Het bestuur van de rechtspersoon kan ten behoeve van de uitoefening van landelijke taken in het kader van de bedrijfsgezondheidszorg subsidie aan derden verstrekken.   
+7.  De algemene maatregel van bestuur, bedoeld in het derde en vierde lid, wordt aan de Tweede Kamer der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 4 weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens de Kamer de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### Artikel  188  
 

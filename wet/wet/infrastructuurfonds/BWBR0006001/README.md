@@ -19,15 +19,15 @@ b. fonds: Infrastructuurfonds, bedoeld in artikel 2;
 
 c. meerjarenprogramma: het in artikel 4 bedoelde Meerjarenprogramma Infrastructuur en Transport;  
 
-d. infrastructuur: alle onroerende voorzieningen ten behoeve van het verkeer en vervoer van personen en goederen en ten behoeve van waterbeheren en waterkeren, met inbegrip van de daarbij behorende voorzieningen ten behoeve van de veiligheid en de bescherming van het milieu;  
+d. infrastructuur: alle onroerende voorzieningen ten behoeve van het verkeer en vervoer van personen en goederen, met inbegrip van de daarbij behorende voorzieningen ten behoeve van de verkeersveiligheid en de bescherming van het milieu;  
 
-e. aanleg: aanleg van infrastructuur en verbetering van bestaande infrastructuur voor zover daardoor de effectieve capaciteit of de veiligheid wordt vergroot of wordt bijgedragen aan de bescherming van het milieu;  
+e. aanleg: aanleg van infrastructuur en verbetering van bestaande infrastructuur voor zover daardoor de effectieve capaciteit of de verkeersveiligheid wordt vergroot of wordt bijgedragen aan de bescherming van het milieu;  
 
 f. beheer en onderhoud: instandhouding van de gebruiksfunctie van de infrastructuur, met uitzondering van bediening;  
 
 g. bediening: handelingen nodig voor het gebruik van de infrastructuur en voor het begeleiden van het verkeer;  
 
-h. basisinformatie: het inwinnen, bewerken en verspreiden van gegevens nodig voor het beschrijven van de waterstaatkundige toestand van het land, van het verkeer te water, van het wegverkeer en van het verkeer over spoorwegen, met het oog op aanleg en gebruik van infrastructuur;  
+h. basisinformatie: het inwinnen, bewerken en verspreiden van gegevens nodig voor het beschrijven, van het verkeer te water, van het wegverkeer en van het verkeer over spoorwegen, met het oog op aanleg en gebruik van infrastructuur;  
 
 i. regionaal openbaar lichaam: een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat;  
 
@@ -72,7 +72,7 @@ b. gelden, verkregen uit de verkoop van onroerende zaken;
 
 c. garantieprovisies;  
 
-d. overige ontvangsten.     
+d. andere ontvangsten in het kader van het realiseren van de doelen van het fonds.     
 2.  Ten gunste van de begroting van het fonds van enig jaar wordt het batige saldo van het fonds van het voorafgaande jaar gebracht.   
 
 ### Artikel  8  
@@ -94,7 +94,7 @@ f. privaatrechtelijke rechtspersonen,   ten behoeve van aanleg, beheer en onderh
 3.  Ten laste van het fonds kunnen uitgaven en subsidies worden gebracht ten behoeve van aanleg en beheer en onderhoud van infrastructurele werken buiten Nederland doch binnen Europa.   
 4.  Bij algemene maatregel van bestuur wordt aangegeven voor welke categorieën of onderdelen van infrastructuur in ieder geval een uitgave kan worden gedaan of een subsidie kan worden verstrekt.   
 5.  Uit het fonds kunnen voorts subsidies worden verstrekt op grond van bij algemene maatregel van bestuur aan te geven andere wetten of ministeriële regelingen.   
-6.  Ten laste van het fonds komen voorts overige uitgaven.   
+6.  Ten laste van het fonds komen voorts andere uitgaven in het kader van het bereiken van de doelen van het fonds.   
 7.  Ten laste van de begroting van het fonds van enig jaar wordt het nadelige saldo van het fonds van het voorafgaande jaar gebracht.   
 8.  Ten laste van het fonds kunnen subsidies in de vorm van garanties worden verstrekt ten behoeve van leningen, aan te gaan door in het tweede lid, onderdelen *e* en *f* bedoelde rechtspersonen.   
 9.  Bij algemene maatregel van bestuur kan worden bepaald, dat uit het fonds geen uitgaven kunnen worden gedaan of subsidies worden verstrekt met betrekking tot bepaalde categorieën of onderdelen van infrastructuur of met betrekking tot bepaalde soorten kosten van categorieën of onderdelen van infrastructuur.   

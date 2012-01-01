@@ -266,30 +266,28 @@ c. de gevallen waarin of de termijnen waarbinnen het verder verwerken van de bet
 
 1.  De verantwoordelijke verstrekt politiegegevens aan: 
 
-a. opsporingsambtenaren als bedoeld in [artikel 141, onderdeel d, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), voor zover zij deze behoeven voor de strafrechtelijke handhaving van de rechtsorde op het beleidsterrein van Onze Minister wie het aangaat;  
+a. buitengewone opsporingsambtenaren als bedoeld in [artikel 142 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), voor zover zij deze behoeven voor de opsporing van strafbare feiten bij het onderzoek waarbij zij zijn betrokken;  
 
-b. buitengewone opsporingsambtenaren als bedoeld in [artikel 142 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), voor zover zij deze behoeven voor de opsporing van strafbare feiten bij het onderzoek waarbij zij zijn betrokken;  
-
-c. leden van het openbaar ministerie voor zover zij deze behoeven: 
+b. leden van het openbaar ministerie voor zover zij deze behoeven: 
 
 1°. in verband met hun gezag of zeggenschap over de politie of over andere personen of instanties die met de opsporing van strafbare feiten zijn belast, of  
 
 2°. voor de uitvoering van andere hun bij of krachtens de wet opgedragen taken;    
 
-d. de burgemeesters voor zover zij deze behoeven: 
+c. de burgemeesters voor zover zij deze behoeven: 
 
 1°. in verband met hun gezag en zeggenschap over de politie, of  
 
 2°. in het kader van de handhaving van de openbare orde.    
 
-e. de korpsbeheerders, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Justitie of Onze Minister van Defensie voor zover zij deze behoeven in verband met: 
+d. de korpsbeheerders, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Justitie of Onze Minister van Defensie voor zover zij deze behoeven in verband met: 
 
 1°. het verrichten van een onderzoek naar aanleiding van klachten, als bedoeld in [artikel 64 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), of  
 
 2°. disciplinaire bestraffing vanwege niet nakoming van verplichtingen of plichtsverzuim, als geregeld bij of krachtens [artikel 50 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), of  
 
 3°. schorsing of ontslag van de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaken, bedoeld in [artikel 6, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) vanwege niet nakoming van verplichtingen of plichtsverzuim als geregeld bij of krachtens [artikel 12 van de Militaire Ambtenarenwet 1931](../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md).       
-2.  Op de verstrekkingen, bedoeld in het eerste lid, onderdelen a, b en e, is artikel 15, tweede lid, van overeenkomstige toepassing.   
+2.  Op de verstrekkingen, bedoeld in het eerste lid, onderdelen a en d, is artikel 15, tweede lid, van overeenkomstige toepassing.   
 
 ### Artikel  17  
 
@@ -363,7 +361,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de c
 
 ####(rechtstreekse verstrekking)
 
-1.  Verstrekking van politiegegevens aan de leden van het openbaar ministerie als bedoeld in artikel 16, eerste lid, onderdeel c, kan rechtstreeks plaatsvinden voor zover noodzakelijk met het oog op: 
+1.  Verstrekking van politiegegevens aan de leden van het openbaar ministerie als bedoeld in artikel 16, eerste lid, onderdeel b, kan rechtstreeks plaatsvinden voor zover noodzakelijk met het oog op: 
 
 a. strafvorderlijke beslissingen omtrent opsporing en vervolging en de hulp aan slachtoffers van strafbare feiten;  
 
@@ -563,7 +561,7 @@ h. de artikelen 18, tweede lid, 32, tweede lid, 33, tweede lid en 34, vierde lid
 
 i. artikel 20, eerste lid, wordt in plaats van « [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) bevoegd gezag» gelezen: [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) bevoegde gezag op Bonaire, Sint Eustatius of Saba;  
 
-j. artikel 23, eerste lid, wordt in plaats van «openbaar ministerie als bedoeld in artikel 16, eerste lid, onderdeel c,» gelezen: openbaar ministerie van Bonaire, Sint Eustatius en Saba;  
+j. artikel 23, eerste lid, wordt in plaats van «openbaar ministerie als bedoeld in artikel 16, eerste lid, onderdeel b,» gelezen: openbaar ministerie van Bonaire, Sint Eustatius en Saba;  
 
 k. artikel 24, eerste en tweede lid, wordt in plaats van «een lid van het College van procureurs-generaal» gelezen: de procureur-generaal, bedoeld in [artikel 2 van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../rijkswet/rijkswet/openbare/ministeries/van/curaçao/van/sint/maarten/en/van/bonaire/etc/BWBR0028072/README.md);  
 
@@ -661,13 +659,12 @@ Wijzigt de Luchtvaartwet.
 ####(toepassing op gegevensverwerking door bijzondere opsporingsdiensten)
 
 1.  Het bij of krachtens de Wet politiegegevens bepaalde met betrekking tot de gegevensverwerking, bedoeld in artikel 10, eerste lid onder a, en artikel 12, is van overeenkomstige toepassing op de verwerking van persoonsgegevens door een bijzondere opsporingsdienst. Op voordracht van Onze Ministers en Onze Minister wie het mede aangaat kunnen bij algemene maatregel van bestuur ook andere onderdelen van het bij of krachtens deze wet bepaalde van overeenkomstige toepassing worden verklaard op de verwerking van persoonsgegevens door een bijzondere opsporingsdienst.   
-2.  Onze minister van Justitie wijst, op voordracht van de leiding van de bijzondere opsporingsdienst, de opsporingsambtenaren van de betreffende bijzondere opsporingsdienst aan die geautoriseerd kunnen worden voor de in de eerste lid, eerste volzin, bedoelde verwerking.   
-3.  Voor zover toepassing is gegeven aan het eerste lid 
+2.  Voor zover toepassing is gegeven aan het eerste lid 
 
 a. stelt de verantwoordelijke politiegegevens voor verdere verwerking ter beschikking aan opsporingsambtenaren die werkzaam zijn bij de bijzondere opsporingsdienst, voorzover zij deze behoeven voor de vervulling van hun taak;  
 
 b. stelt de verantwoordelijke van de bijzondere opsporingsdienst de gegevens waarop het bepaalde bij of krachtens deze wet van toepassing of van overeenkomstige toepassing is ter beschikking aan personen die overeenkomstig artikel 6, tweede lid, zijn geautoriseerd voor de verwerking van politiegegevens, voor zover zij deze behoeven voor de vervulling van hun taak.   Artikel 15, tweede lid, is van overeenkomstige toepassing.   
-4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de ambtenaren die werkzaam zijn bij een bijzondere opsporingsdienst, die tot het verwerken van politiegegevens als bedoeld in het eerste lid kunnen worden geautoriseerd, alsmede over het beheer en de organisatie van de bijzondere opsporingsdienst waar zij werkzaam zijn.   
+3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de ambtenaren die werkzaam zijn bij een bijzondere opsporingsdienst, die tot het verwerken van politiegegevens als bedoeld in het eerste lid kunnen worden geautoriseerd, alsmede over het beheer en de organisatie van de bijzondere opsporingsdienst waar zij werkzaam zijn.   
 
 ### Artikel  47  
 

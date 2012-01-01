@@ -23,9 +23,9 @@ b. eigenaar:
 
 c. economische eigendom: een samenstel van rechten en verplichtingen met betrekking tot een onroerende zaak, dat een belang bij die zaak vertegenwoordigt. Het belang omvat ten minste enig risico van waardeverandering en komt toe aan een ander dan de civiel-juridische eigenaar. De verlening van uitsluitend het recht op levering wordt niet aangemerkt als overdracht van economische eigendom;  
 
-d. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+d. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
-e. Onze Ministers: Onze Ministers van Landbouw, Natuur en Voedselkwaliteit en van Financiën.     
+e. Onze Ministers: Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Financiën.     
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake de voorwaarden waaraan een onroerende zaak moet voldoen om te kunnen worden aangemerkt als een landgoed. Die voorwaarden betreffen: 
 
 a. de oppervlakte van de onroerende zaak, waarbij mede in aanmerking kan worden genomen de oppervlakte van één aangrenzende onroerende zaak die als een landgoed is aangemerkt of gelijktijdig met de eerstgenoemde onroerende zaak als een landgoed wordt aangemerkt, indien tussen de beide onroerende zaken een nauwe historische band bestaat;  
@@ -138,7 +138,7 @@ c. het aantal aandeelhouders niet meer dan twintig bedraagt.
 
 a. de eigendom van het landgoed overdraagt, of  
 
-b. het recht van vruchtgebruik of, behoudens ingeval de hoofdgerechtigde nog steeds als eigenaar wordt aangemerkt op grond van artikel 1, derde lid, dat van erfpacht op de onroerende zaak vestigt, overdraagt of daarvan afstand doet, waaronder begrepen de gevallen waarin de erfpachter door de toepassing van artikel 1, derde lid, niet langer als eigenaar wordt aangemerkt   vindt alsnog invordering plaats overeenkomstig de volgende leden van de belasting waarvan bij hem ingevolge artikel 7, eerste lid, invordering achterwege is gebleven.   
+b. het recht van vruchtgebruik of, behoudens ingeval de hoofdgerechtigde nog steeds als eigenaar wordt aangemerkt op grond van artikel 1, derde lid, dat van erfpacht op de onroerende zaak vestigt, overdraagt of daarvan afstand doet, waaronder begrepen de gevallen waarin de erfpachter door de toepassing van artikel 1, derde lid, niet langer als eigenaar wordt aangemerkt,   vindt alsnog invordering plaats overeenkomstig de volgende leden van de belasting waarvan bij hem ingevolge artikel 7, eerste lid, invordering achterwege is gebleven.   
 2.  Voor de toepassing van dit artikel wordt onder overdracht mede begrepen de overdracht van de economische eigendom.   
 3.  De ingevolge het eerste lid in te vorderen belasting bedraagt het product van de ten tijde van de in het eerste lid, onderdeel *a* of *b*, bedoelde gebeurtenis nog niet verstreken volle jaren van het in het eerste lid bedoelde tijdvak en 1/25 gedeelte van de belasting waarvan ingevolge artikel 7, eerste lid, invordering achterwege is gebleven.   
 4.  Indien een van de in het eerste lid bedoelde gevallen zich voordoet met betrekking tot een gedeelte van het landgoed wordt een bedrag aan belasting ingevorderd dat gelijk is aan het overeenkomstig het derde lid berekende bedrag vermenigvuldigd met een breuk waarvan de teller gelijk is aan de waarde van het betrokken gedeelte van het landgoed en de noemer gelijk is aan de waarde van het gehele landgoed. Voor de in de vorige volzin bedoelde waarde van het betrokken gedeelte van het landgoed respectievelijk die van het gehele landgoed wordt in aanmerking genomen de waarde in het economische verkeer op het moment dat de in het eerste lid bedoelde gebeurtenissen zich voordoen.   

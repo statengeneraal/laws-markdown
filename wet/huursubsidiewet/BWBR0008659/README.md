@@ -138,13 +138,13 @@ b. voldoet aan de eisen, daaraan gesteld krachtens de [Woningwet](../../../wet/w
 
 1.  Geen huurtoeslag wordt toegekend als de rekenhuur: 
 
-a. hoger is dan € 652,52 per maand als: 
+a. hoger is dan € 664,66 per maand als: 
 
 1º. de huurder, diens partner of een van de medebewoners 23 jaar of ouder is, dan wel de woning deelt met een kind of pleegkind van de huurder, diens partner of een medebewoner of  
 
 2º. de huurder, diens partner of de medebewoner jonger dan 23 jaar is, en een handicap heeft of    
 
-b. hoger is dan € 361,66 per maand in andere gevallen dan bedoeld onder a.     
+b. hoger is dan € 366,37 per maand in andere gevallen dan bedoeld onder a.     
 2.  Het eerste lid is niet van toepassing: 
 
 a. als sprake is van overschrijding van een daar genoemd bedrag omdat voorzieningen zijn aangebracht in en rond de woning, die noodzakelijk zijn in verband met een handicap van de huurder, van diens partner of van een medebewoner;  
@@ -163,13 +163,13 @@ c. na overschrijding van de bedragen, genoemd in het eerste lid, als over de maa
 
 1.  Het norminkomen bedraagt: 
 
-a. € 21 625 bij een eenpersoonshuishouden;  
+a. € 22 025 bij een eenpersoonshuishouden;  
 
-b. € 29 350 bij een meerpersoonshuishouden;  
+b. € 29 900 bij een meerpersoonshuishouden;  
 
-c. € 19 247,35 bij een eenpersoonsouderenhuishouden;  
+c. € 19 605,36 bij een eenpersoonsouderenhuishouden;  
 
-d. € 25 478,80 bij een meerpersoonsouderenhuishouden.     
+d. € 25 952,71 bij een meerpersoonsouderenhuishouden.     
 2.  Het norminkomen, genoemd in het eerste lid, onderdelen c en d, wordt vermeerderd met het bedrag van de tegemoetkoming, bedoeld in [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md), per kalenderjaar, zoals dat bedrag naar redelijke verwachting in het berekeningsjaar zal luiden, onderscheidenlijk twee maal dat bedrag, en verder vermeerderd met € 665 onderscheidenlijk € 1 462.   
 3.  Geen huurtoeslag wordt toegekend als het rekeninkomen meer bedraagt dan: 
 
@@ -188,7 +188,7 @@ b. de som van de bedragen, genoemd in het eerste lid, onderdelen c of d, en bedo
 
 ### Artikel  16  
 
-De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder blijft. De basishuur is het overeenkomstig de artikelen 17, 18 en 19 berekende bedrag van de normhuur verhoogd met € 12 per 1 januari 2011: € 17,91.  
+De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder blijft. De basishuur is het overeenkomstig de artikelen 17, 18 en 19 berekende bedrag van de normhuur verhoogd met € 12 per 1 januari 2012: € 18,64.  
 
 ### Artikel  17  
 
@@ -201,7 +201,7 @@ b. voor een meerpersoonshuishouden: het bedrag, bedoeld in [artikel 21, onder c,
 c. voor een eenpersoonsouderenhuishouden: het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder a, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), zoals dat bedrag naar redelijke verwachting in het berekeningsjaar zal luiden, vermeerderd met het bedrag van de bruto-vakantie-uitkering, vastgesteld overeenkomstig [artikel 29, eerste lid, aanhef en onder b, van die wet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), zoals dat bedrag naar redelijke verwachting in het berekeningsjaar zal luiden, en de tegemoetkoming, bedoeld in [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md), per kalenderjaar, zoals die tegemoetkoming naar redelijke verwachting in het berekeningsjaar zal luiden, en verder vermeerderd met € 2 340;  
 
 d. voor een meerpersoonsouderenhuishouden: twee maal het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), zoals dat bedrag naar redelijke verwachting in het berekeningsjaar zal luiden, vermeerderd met het bedrag van de bruto-vakantie-uitkering, vastgesteld overeenkomstig [artikel 29, eerste lid, aanhef en onder c, van die wet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), zoals dat bedrag naar redelijke verwachting in het berekeningsjaar zal luiden, en twee maal de tegemoetkoming, bedoeld in [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md), per kalenderjaar, zoals die tegemoetkoming naar redelijke verwachting in het berekeningsjaar zal luiden, en verder vermeerderd met € 2 512.     
-2.  Bij het minimum-inkomensijkpunt behoort een normhuur van € 194,33.   
+2.  Bij het minimum-inkomensijkpunt behoort een normhuur van € 196,86.   
 3.  De normhuur, bedoeld in het tweede lid, wordt verlaagd met: 
 
 a. € 1,82 als sprake is van een eenpersoonsouderenhuishouden, en  
@@ -213,15 +213,15 @@ b. € 3,63 als sprake is van een meerpersoonsouderenhuishouden.
 
 1.  Het referentie-inkomensijkpunt bedraagt: 
 
-a. voor een eenpersoonshuishouden: € 22 650;  
+a. voor een eenpersoonshuishouden: € 22 875;  
 
-b. voor een meerpersoonshuishouden: € 29 450;  
+b. voor een meerpersoonshuishouden: € 29 725;  
 
-c. voor een eenpersoonsouderenhuishouden: € 21 275;  
+c. voor een eenpersoonsouderenhuishouden: € 21 550;  
 
-d. voor een meerpersoonsouderenhuishouden: € 28 550.     
+d. voor een meerpersoonsouderenhuishouden: € 28 925.     
 2.  Voor de toepassing van het derde lid en van artikel 19, tweede lid, worden de bedragen, genoemd in het eerste lid, onderdelen c en d, vermeerderd met € 665 onderscheidenlijk € 1 462.   
-3.  Bij het referentie-inkomensijkpunt behoort een normhuur van € 395,09.   
+3.  Bij het referentie-inkomensijkpunt behoort een normhuur van € 400,23.   
 4.  De normhuur, bedoeld in het tweede lid, wordt verlaagd met: 
 
 a. € 1,82 als sprake is van een eenpersoonshuishouden;  
@@ -246,12 +246,12 @@ d. € 4,54 als sprake is van een meerpersoonsouderenhuishouden.
 
 ### Artikel  20  
 
-1.  De kwaliteitskortingsgrens is € 361,66 per maand.   
+1.  De kwaliteitskortingsgrens is € 366,37 per maand.   
 2.  De aftoppingsgrens is: 
 
-a. € 517,64 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit één of twee personen bestaat;  
+a. € 524,37 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit één of twee personen bestaat;  
 
-b. € 554,76 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit drie of meer personen bestaat.     
+b. € 561,98 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit drie of meer personen bestaat.     
 3.  De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig artikel 27.   
 
 ### §  3  

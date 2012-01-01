@@ -343,11 +343,11 @@ Ten aanzien van een coöperatieve vereniging en een onderlinge waarborgmaatschap
 
 ### Titel  3  
 
-####Algemene overgangsbepalingen in verband met de Boeken 3-8
+####Algemene overgangsbepalingen in verband met de Boeken 3-10
 
 ### Artikel  68  
 
-In de volgende artikelen worden onder "de wet" verstaan de in werking getreden bepalingen van de Boeken 3-8.  
+In de volgende artikelen worden onder "de wet" verstaan de in werking getreden bepalingen van de Boeken 3-10.  
 
 ### Artikel  68a  
 
@@ -874,6 +874,10 @@ Indien een schuldenaar vóór het in werking treden van de wet in de nakoming va
 
 Artikel 83 van Boek 6 is niet van toepassing op het verstrijken van een termijn als bedoeld onder *a* van dat artikel, die voortvloeit uit een rechtsverhouding welke vóór het tijdstip van het in werking treden van de wet is ontstaan, noch op het niet nakomen van een op dat tijdstip bestaande verbintenis als bedoeld in onderdeel *b* van dat artikel.  
 
+### Artikel  183a  
+
+De [artikelen 96 lid 4](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [119a leden 4 en 5](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [119b van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn niet van toepassing op overeenkomsten die vóór het tijdstip van het in werking treden van deze bepalingen zijn gesloten.  
+
 ### Artikel  184  
 
 Artikel 130 van Boek 6 geldt niet met betrekking tot een vordering die vóór het tijdstip van in werking treden van de wet op een ander was overgegaan, of waarop vóór dat tijdstip beslag was gelegd dan wel een beperkt recht gevestigd.  
@@ -1065,7 +1069,7 @@ Artikel 407 van Boek 7 is niet van toepassing op een overeenkomst van lastgeving
 7.  Ter zake van schade die door meer dan een verzekering wordt gedekt kan de verzekeraar wiens verzekering vóór het tijdstip van het in werking treden van de wet is gesloten niet op de voet van [artikel 961 lid 1, eerste zin, van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) worden aangesproken dan voorzover zulks ook op grond van het tevoren geldende recht mogelijk was geweest. De eerste zin lijdt uitzondering indien de voorwaarden van de overeenkomst door de verzekeraar met het oog op het in werking treden van de wet dan wel op of na het tijdstip van het in werking treden van de wet zijn gewijzigd, doch slechts voorzover het risico zich nadien heeft verwezenlijkt.   
 8.  [Artikel 962 lid 3 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing indien het risico zich vóór het tijdstip van het in werking treden van de wet heeft verwezenlijkt.   
 9.  Op verzekeringen tegen gevaren van brand die vóór het tijdstip van het in werking treden van de wet zijn gesloten, blijft het tevoren geldende [artikel 293 van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) ook na dit tijdstip van toepassing.   
-10.  Indien vóór het tijdstip van het in werking treden van de wet tegen een verzekeraar een rechtsvordering tot het doen van een uitkering is ontstaan, is [artikel 942 lid 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) slechts van toepassing indien na dat tijdstip een daad van onderhandeling plaatsvindt.   
+10.  Indien vóór het tijdstip van het in werking treden van de wet tegen een verzekeraar een rechtsvordering tot het doen van een uitkering is ontstaan, is [artikel 942 lid 3 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) slechts van toepassing indien na dat tijdstip een daad van onderhandeling plaatsvindt.   
 
 ### Artikel  222  
 
@@ -1075,9 +1079,13 @@ Artikel 407 van Boek 7 is niet van toepassing op een overeenkomst van lastgeving
 
 [Artikel 629, lid 2, van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), zoals dat luidde op de dag voor inwerkingtreding van [artikel XIX van het Belastingplan 2007](../../../../../../wet/belastingplan/2007/BWBR0020830/README.md) blijft van toepassing met betrekking tot een recht op doorbetaling van het loon als bedoeld in [lid 1 of 2 van artikel 629 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), indien dat recht is ontstaan op of voor die dag.  
 
+### Artikel  225  
+
+[Artikel 640a van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is uitsluitend van toepassing op aanspraken op het minimum, bedoeld in [artikel 634 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), die zijn ontstaan na het tijdstip van inwerkintreding van de wet van 26 mei 2011 inzake het afschaffen van de beperkte opbouw van minimum vakantierechten tijdens ziekte, de invoering van een vervaltermijn voor de minimum vakantiedagen en de aanpassing van enige andere artikelen in de regeling voor vakantie en verlof in Boek 7 van het Burgerlijk Wetboek (Stb. 318).  
+
 ### Titel  9  
 
-####Overgangsbepalingen in verband met Boek 8
+####Overgangsbepalingen in verband met [Boek 8](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md)
 
 ### Artikel  251  
 
@@ -1124,6 +1132,14 @@ Op een hulpverlening die vóór het in werking treden van Boek 8 is aangevangen,
 1.  De verjaring en het verval van een rechtsvordering waarvan de termijn werd bepaald door het [Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md), de Wet Overeenkomst Wegvervoer of de Wet Overeenkomst Binnenlands Openbaar personenvervoer, blijft door het vroegere recht beheerst, indien de termijn vóór het in werking treden van Boek 8 is aangevangen.   
 2.  De artikelen 201 en 791 van Boek 8, zoals deze artikelen zijn gewijzigd bij de Aanpassingswet Boek 8, worden, indien de daar genoemde termijnen vóór 1 januari 1992 zijn aangevangen, met ingang van 1 april 1992 van toepassing op de termijnen van verjaring van de eigendom van in de openbare registers teboekstaande zee- en binnenschepen, alsmede op die van verjaring der in die artikelen genoemde beperkte rechten daarop. Deze termijnen worden geacht niet vóór 1 april 1992 te zijn voltooid.   
 3.  De verkrijging van een teboekstaand luchtvaartuig door verjaring, waarvan de termijn werd bepaald door de Wet teboekgestelde Luchtvaartuigen, blijft door die wet beheerst, indien de termijn vóór het in werking treden van titel 15 van Boek 8 is aangevangen.   
+
+### Titel  10  
+
+####Overgangsbepaling in verband met [Boek 10](../../../../../../wet/burgerlijk/wetboek/boek/10/BWBR0030068/README.md)
+
+### Artikel  270  
+
+[Artikel 56 van Boek 10](../../../../../../wet/burgerlijk/wetboek/boek/10/BWBR0030068/README.md) is slechts van toepassing op ontbinding van het huwelijk of scheiding van tafel en bed die is verzocht na het tijdstip van inwerkingtreding van deze wet.  
 
 ### Slotartikel  
 

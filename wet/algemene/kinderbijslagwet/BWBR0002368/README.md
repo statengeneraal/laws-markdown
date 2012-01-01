@@ -20,7 +20,9 @@ a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 b. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;  
 
-c. vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+c. vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+
+d. continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland.    
 
 ### Artikel  2  
 
@@ -63,7 +65,7 @@ Bij een besluit ingevolge de artikelen 14, vierde lid, en 21 is mede belanghebbe
 
 a. ingezetene is;  
 
-b. geen ingezetene is, doch ter zake van in Nederland in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
+b. geen ingezetene is, doch ter zake van in Nederland of op het continentaal plat in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
 2.  Niet verzekerd is de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 3.  Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het eerste en tweede lid, uitbreiding dan wel beperking worden gegeven aan de kring der verzekerden.   
 4.  Bij een maatregel, als bedoeld in het derde lid, kan worden bepaald dat bij een niet rechtmatig verblijf in Nederland in de zin van [artikel 8, onder a tot en met e en l](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verzekerd zijn: 
@@ -179,7 +181,7 @@ d. op grond van deze wet geen recht op kinderbijslag meer bestaat.
 
 ### Artikel  12  
 
-1.  Het basiskinderbijslagbedrag over een kalenderkwartaal bedraagt € 268,26 per kind.   
+1.  Het basiskinderbijslagbedrag over een kalenderkwartaal bedraagt € 268,26 per 1 januari 2012: € 269,39 per kind.   
 2.  Het aan een verzekerde over een kalenderkwartaal te betalen bedrag aan kinderbijslag bedraagt voor een kind, dat op de eerste dag van dat kwartaal: 
 
 a. jonger is dan 6 jaar: 70%  
@@ -187,6 +189,7 @@ a. jonger is dan 6 jaar: 70%
 b. 6 jaar of ouder, maar jonger is dan 12 jaar: 85% en  
 
 c. 12 jaar en ouder, maar jonger is dan 18 jaar: 100%   van het in het eerste lid vastgestelde basiskinderbijslagbedrag.   
+3.  De kinderbijslag op grond van het tweede lid, onderdelen b en c, wordt betaald zonder dat dit bij beschikking is vastgesteld.   
 
 ### Artikel  13  
 
@@ -264,7 +267,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../we
 ### Artikel  17g  
 
 1.  De Sociale verzekeringsbank verrekent de bestuurlijke boete met kinderbijslag op grond van deze wet, ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of een uitkering op grond van de [Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), die degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, ontvangt.   
-2.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet werk en inkomen kunstenaars](../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md).   
+2.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 4.  Zolang de verzekerde en degene met wie hij een huishouden vormt, dan wel de persoon aan wie op grond van artikel 21 kinderbijslag wordt betaald, zijn verplichting als bedoeld in artikel 17a, vierde lid, niet of niet behoorlijk nakomt: 
 
@@ -380,7 +383,7 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 
 c. de vordering van de Sociale verzekeringsbank wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
 
-d. een naar het oordeel van de Sociale verzekeringsbank betrouwbare schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
+d. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
 
 e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
@@ -397,7 +400,7 @@ c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste
 
 ### Artikel  24d  
 
-Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 24c van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 24c is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
 
 ### Artikel  25  
 
@@ -425,7 +428,7 @@ Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 
 ### Artikel  29c  
 
 1.  Een beschikking op grond van deze wet en de daarop berustende bepalingen wordt gegeven binnen een redelijke termijn na ontvangst van de aanvraag.   
-2.  De redelijke termijn is in ieder geval verstreken wanneer binnen acht weken na ontvangst van de aanvraag geen beschikking is gegeven, noch een kennisgeving als bedoeld in het derde of vierde lid is gedaan.   
+2.  De redelijke termijn is in ieder geval verstreken wanneer binnen acht weken na ontvangst van de aanvraag geen beschikking is gegeven, noch een kennisgeving als bedoeld in het derde lid is gedaan.   
 3.  Indien een beschikking niet binnen de termijn van acht weken kan worden gegeven, wordt die termijn met een redelijke termijn verlengd en wordt de aanvrager daarvan schriftelijk in kennis gesteld.   
 
 ### Artikel  29d  

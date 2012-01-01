@@ -826,9 +826,9 @@ c. met het oog op andere, bij algemene maatregel van bestuur aan te wijzen, bela
 
 ### Artikel  75a  
 
-1.  Indien daartoe door Onze Minister van Verkeer en Waterstaat is verzocht, geschiedt de behandeling van de aanvraag om de in artikel 75, derde lid, bedoelde ontheffing, tezamen met de voorbereiding en vaststelling van het tracébesluit, bedoeld in [artikel 15 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md).   
+1.  Indien daartoe door Onze Minister van Verkeer en Waterstaat is verzocht, geschiedt de behandeling van de aanvraag om de in artikel 75, derde lid, bedoelde ontheffing, tezamen met de voorbereiding en vaststelling van het tracébesluit, bedoeld in [artikel 9, eerste lid, van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md).   
 2.  In de in het eerste lid bedoelde gevallen is op de voorbereiding van de beschikking [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
-3.  Ten aanzien van het beroep tegen een met toepassing van het eerste lid verleende ontheffing zijn de [artikelen 25a](../../../../../wet/tracéwet/BWBR0006147/README.md) en [25b van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md) van toepassing.   
+3.  Ten aanzien van het beroep tegen een met toepassing van het eerste lid verleende ontheffing zijn de [artikelen 25](../../../../../wet/tracéwet/BWBR0006147/README.md) en [26 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md) van toepassing.   
 
 ### Afdeling  2a  
 
@@ -862,6 +862,10 @@ Het is verboden te handelen in strijd met een voorschrift van een omgevingsvergu
 ### Afdeling  3  
 
 ####Verdere bepalingen inzake vrijstellingen, ontheffingen en vergunningen
+
+### Artikel  75f  
+
+Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag tot ontheffing als bedoeld in de artikelen 68, eerste lid, en 75, derde lid, van het verbod bedoeld in artikel 13.  
 
 ### Artikel  76  
 

@@ -207,6 +207,16 @@ a. gedeputeerde staten de bevoegdheden en verplichtingen, bedoeld in artikel 3.6
 b. gedeputeerde staten beslissen op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, b, c of g, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   Gedeputeerde staten zenden terstond een afschrift aan burgemeester en wethouders van beschikkingen die zijn gegeven met toepassing van de bevoegdheden, bedoeld in de eerste volzin.   
 5.  Provinciale staten bepalen in het vaststellingsbesluit tot welk tijdstip de uitsluiting van de bevoegdheid van de gemeenteraad tot vaststelling van een bestemmingsplan voor de betrokken gronden voortduurt, met dien verstande dat dit tijdstip is gelegen binnen de periode van tien jaar, bedoeld in artikel 3.1, tweede lid.   
 
+### Artikel  3.27  
+
+Bij de vaststelling van een inpassingsplan als bedoeld in artikel 3.26, eerste lid, dat de aanleg of wijziging van een weg in beheer bij de provincie mogelijk maakt, wordt gebruik gemaakt van: 
+
+a. de verkeersgegevens en de daarop gebaseerde onderzoeken,  
+
+b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bekendgemaakte gegevens en de daarop gebaseerde onderzoeken, en  
+
+c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en de daarop gebaseerde onderzoeken,   die ten grondslag hebben gelegen aan het ontwerp-inpassingsplan, met dien verstande dat indien de rapporten, waarin de gegevens, onderzoeken en inventarisaties en gevolgen zijn vervat, bij de vaststelling van het inpassingsplan ouder zijn dan twee jaar, het inpassingsplan een motivering van de actualiteit van die rapporten bevat.  
+
 ### §  3.5.2  
 
 ####Rijksinpassingsplan
@@ -803,6 +813,49 @@ b. indien toepassing is gegeven aan artikel 3.30, eerste lid, onder b, 3.33, eer
 ### Artikel  8.4  
 
 Indien gedurende de beroepstermijn met betrekking tot een besluit tot vaststelling van een bestemmingsplan of inpassingsplan of van een wijziging of uitwerking hiervan dan wel van een rijksbestemmingsplan bij de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State een verzoek om voorlopige voorziening is gedaan, wordt de werking van het besluit opgeschort totdat op het verzoek is beslist. Bij de toewijzing van het verzoek geeft de voorzitter aan op welke onderdelen van het bestemmingsplan of inpassingsplan of van de wijziging of uitwerking hiervan de voorlopige voorziening betrekking heeft.  
+
+### Artikel  8.4a  
+
+1.  De gemeenteraad is bevoegd om hangende het beroep tegen het bestemmingsplan, een besluit tot wijziging van dat bestemmingsplan vast te stellen.   
+2.  In afwijking van artikel 3.8, eerste lid, is op het besluit, bedoeld in het eerste lid, [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing, indien het een wijziging van ondergeschikte aard betreft. Het wijzigingsbesluit, bedoeld in het eerste lid, wordt vastgesteld uiterlijk tien dagen voor de zitting, die plaatsvindt ten behoeve van de beoordeling van het bestreden besluit.   
+3.  [Artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op het besluit, bedoeld in het eerste lid.   
+
+### Artikel  8.4b  
+
+1.  Indien de Afdeling bestuursrechtspraak van de Raad van State van oordeel is dat het beroep tegen het bestemmingsplan gegrond is, kan zij een tussenuitspraak doen, waarbij zij de gemeenteraad in de gelegenheid stelt om de gebreken weg te nemen.   
+2.  In haar tussenuitspraak stelt de Afdeling vast in welk opzicht het beroep gegrond is. [Afdeling 8.2.6](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [artikel 8:72, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. De Afdeling vermeldt een termijn binnen welke de gebreken moeten zijn weggenomen. De Afdeling kan door middel van een wijziging van de tussenuitspraak de termijn op verzoek van de gemeenteraad verlengen.   
+3.  Indien de gemeenteraad aangeeft geen gebruik te willen maken van de gelegenheid om de gebreken weg te nemen dan wel de termijn die daarvoor geldt, laat verstrijken, wordt het onderzoek geacht te zijn gesloten op de dag van ontvangst van de mededeling van de gemeenteraad dan wel op de dag dat de bedoelde termijn is verstreken.   
+4.  De gemeenteraad stelt de Afdeling schriftelijk in kennis van de wijze waarop de gebreken zijn weggenomen.   
+5.  De Afdeling stelt de andere partijen in de gelegenheid binnen een door haar te stellen termijn schriftelijk te reageren op de kennisgeving, bedoeld in het vierde lid.   
+6.  Indien de Afdeling een onderzoek ter zitting nodig acht, deelt zij dit zo spoedig mogelijk aan partijen mede.   
+
+### Artikel  8.4c  
+
+De artikelen 8.4a tot en met 8.4b zijn van overeenkomstige toepassing op een besluit tot vaststelling van een inpassingsplan.  
+
+### Artikel  8.4d  
+
+1.  De artikelen 8.4a tot en met 8.4b zijn van overeenkomstige toepassing op een besluit tot wijziging of uitwerking van het bestemmingsplan met dien verstande dat in plaats van «artikel 3.8, eerste lid» wordt gelezen «artikel 3.6, vijfde lid».   
+2.  Het eerste lid is van overeenkomstige toepassing op een wijzigings- of uitwerkingsplan van gedeputeerde staten of Onze Minister.   
+
+### Artikel  8.4e  
+
+1.  De artikelen 8.4a tot en met 8.4b zijn van overeenkomstige toepassing op een projectbesluit met dien verstande dat: 
+
+a. in plaats van «artikel 3.8, eerste lid» wordt gelezen «artikel 3.11, eerste lid»;  
+
+b. in plaats van «de Afdeling bestuursrechtspraak van de Raad van State» en «de Afdeling» telkens wordt gelezen «de bevoegde rechter in eerste instantie».     
+2.  Het eerste lid is van overeenkomstige toepassing op een projectbesluit van provinciale staten of Onze Minister dan wel Onze Minister wie het aangaat in overeenstemming met Onze Minister.   
+
+### Artikel  8.4f  
+
+Indien toepassing wordt gegeven aan artikel 3.30, eerste lid, onder b, 3.33, eerste lid, onder b, of  3.35, eerste lid, onder b, zijn de artikelen 8.4a en 8.4b van overeenkomstige toepassing op de besluiten, bedoeld in artikel 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, onderscheidenlijk 3.35, eerste lid, onder a, met dien verstande dat: 
+
+a. in plaats van «de Afdeling bestuursrechtspraak van de Raad van State» en «de Afdeling» telkens wordt gelezen «de bevoegde rechter in eerste instantie»;  
+
+b. in plaats van «de gemeenteraad» telkens wordt gelezen «het bevoegde bestuursorgaan»;  
+
+c. in plaats van «besluit tot vaststelling van een bestemmingsplan» telkens wordt gelezen «het bestreden besluit».    
 
 ### Afdeling  8.2  
 

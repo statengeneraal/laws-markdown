@@ -1300,7 +1300,7 @@ d. op welke wijze wordt gewaarborgd dat de verwerkte persoonsgegevens slechts wo
 
 ### Artikel  111  
 
-Bij algemene maatregel van bestuur kunnen regels voor het geval van buitengewone omstandigheden worden gesteld, die afwijken van de hoofdstukken 1 tot en met 7.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Bij algemene maatregel van bestuur kunnen regels voor het geval van buitengewone omstandigheden worden gesteld, die afwijken van de hoofdstukken 1 tot en met 7.  
 
 ### Paragraaf  4  
 
@@ -1313,11 +1313,6 @@ Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een v
 ### Paragraaf  5  
 
 ####Bepalingen van internationaal privaatrecht en overige bepalingen
-
-### Artikel  113  
-
-1.  Onverminderd het daaromtrent bepaalde in verdragen waarbij Nederland partij is, wordt de persoonlijke staat van een vreemdeling aan wie een verblijfsvergunning als bedoeld in artikel 28 of artikel 33 is verleend, beheerst door Nederlands recht.   
-2.  De rechten welke deze vreemdeling vroeger heeft verkregen en welke uit de persoonlijke staat voortvloeien, in het bijzonder de rechten voortvloeiende uit het huwelijk, worden geëerbiedigd.   
 
 ### Artikel  114  
 

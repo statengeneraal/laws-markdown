@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 8, vijfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [9, tweede lid, onderdeel b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [11, eerste lid, aanhef en onderdelen f, o, 2° en u](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [12, vijfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17c, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17d](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [20, tweede lid, onderdeel b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [29, derde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [29a, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [33g, tweede, vierde en zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [39](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [50, achtste en elfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [50a, vierde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), alsmede aan artikel III van de Wet van 30 september 1986 (*Stb.* 479).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 8, vijfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [9, tweede lid, onderdeel b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [11, eerste lid, aanhef en onderdelen f, o, 2° en u](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [12, vijfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17c, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17d](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [20, tweede lid, onderdeel b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [29, derde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [29a, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [33g, tweede, vierde en zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [39](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [50, achtste en elfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [50a, vierde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), alsmede aan artikel III van de wet van 30 september 1986 tot wijziging van de Wet op de omzetbelasting 1968 (Stb. 1986, 479) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 2.  Dit besluit verstaat onder: 
 
 a. wet: [Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
@@ -183,7 +183,15 @@ b. de wijze waarop wordt aangetoond, dat de goederen waarvan de belasting wordt 
 
 ### Hoofdstuk  IV  
 
-####Vis
+####Suppletie
+
+### Artikel  15  
+
+1.  Zodra de belastingplichtige constateert dat hij een aangifte over een tijdvak in de afgelopen vijf kalenderjaren onjuist of onvolledig heeft gedaan waardoor te veel of te weinig belasting is betaald, is hij gehouden alsnog bij wijze van suppletie de juiste en volledige inlichtingen, gegevens of aanwijzingen te verstrekken.   
+2.  De suppletie moet gedaan worden voordat de belastingplichtige weet of redelijkerwijs moet vermoeden dat de inspecteur met de desbetreffende onjuistheid of onvolledigheid bekend is of zal worden.   
+3.  De suppletie, bedoeld in het eerste lid, geschiedt zo spoedig mogelijk op de door de inspecteur aangegeven wijze.   
+4.  Het niet of niet tijdig doen van de suppletie, bedoeld in het eerste lid, en het niet doen van de suppletie op de op grond van het derde lid aangegeven wijze worden aangemerkt als een overtreding.   
+5.  De bevoegdheid tot het opleggen van een vergrijpboete op grond van het vierde lid vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de belastingschuld is ontstaan of de teruggaaf is verleend.   
 
 ### Hoofdstuk  V  
 
@@ -631,23 +639,31 @@ b. instellingen op het terrein van het bevorderen sociale samenhang in en leefba
 
 24.  vervallen;   
 
-25. gemeenten of door gemeenten krachtens de [Wet inschakeling werkzoekenden](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md) aangewezen rechtspersonen, voorzover zij uitvoering geven aan [die Wet](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md), mede voor het ter beschikking stellen van werknemers in de zin van [die Wet](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md), doch met uitzondering van de werknemer die, voorafgaande aan zijn dienstbetrekking, langdurig werkloze was en krachtens [die Wet](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md) kan worden ingedeeld in de categorie werkloosheid van één tot twee jaar;  
+25. gemeenten of door gemeenten aangewezen rechtspersonen voor prestaties verricht op grond van [artikel 7 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
 26.  vervallen;   
 
-27. onderwijsverzorgingsinstellingen als bedoeld in de Wet op de onderwijsverzorging;  
+27. instellingen die schoolbegeleiding verzorgen als bedoeld in [artikel 180 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), [artikel 166 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 18 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
 28.  vervallen;   
 
 29. instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk;  
 
-30. stichtingen als bedoeld in [artikel 1, onder f van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en zorgaanbieders als bedoeld in [artikel 1, onder g, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), mede voor het verstrekken van spijzen en dranken;  
+30. stichtingen en zorgaanbieders als bedoeld in [artikel 1, eerst lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), mede voor het verstrekken van spijzen en dranken;  
 
 31. natuurijsbanen, alleen voor het geven van gelegenheid tot sportbeoefening;  
 
 32. instellingen ter bestrijding van hart- en vaatziekten voorzover het reanimatieonderwijs betreft, die daarvoor via convenanten nauw samenwerken met de Nederlandse Hartstichting;  
 
-33. instellingen die werkzaam zijn op het gebied van schuldhulpverlening, met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling, voorzover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdeel j, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).     Algemene aantekening Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in onderdeel b bedoelde instellingen bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht. Als diensten van sociale of culturele aard worden voorts niet aangemerkt diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), die worden verleend aan personen die niet beschikken over een in dat onderdeel g, onder 2°, bedoeld indicatiebesluit of besluit op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of ingevolge de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md). De in onderdeel b bedoelde instellingen, behoudens die bedoeld in de posten 12, voor zover betrekking hebbend op gehandicapten die beschikken over een indicatiebesluit op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), 29, 30 en 33 van onderdeel b, mogen niet systematisch het maken van winst beogen en, zo er wel winst wordt gemaakt, mogen zij deze niet uitkeren, maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend. 
+33. instellingen die werkzaam zijn op het gebied van schuldhulpverlening, met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling, voorzover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdeel j, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
+
+34. amateurtoneelverenigingen;  
+
+35. amateurmuziekverenigingen;  
+
+36. carnavalsverenigingen;  
+
+37. kleindierverenigingen.     Algemene aantekening Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in onderdeel b bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht. Als diensten van sociale of culturele aard worden voorts niet aangemerkt diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), die worden verleend aan personen die niet beschikken over een in dat onderdeel g, onder 2°, bedoeld indicatiebesluit of besluit op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of ingevolge de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md). De in onderdeel b bedoelde instellingen, behoudens die bedoeld in de posten 12, voor zover betrekking hebbend op gehandicapten die beschikken over een indicatiebesluit op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), 29, 30 en 33 van onderdeel b, mogen niet systematisch het maken van winst beogen en, zo er wel winst wordt gemaakt, mogen zij deze niet uitkeren, maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend. 
 
 ### Bijlage  C  
 

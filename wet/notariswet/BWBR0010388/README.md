@@ -97,11 +97,7 @@ b. dat hij:
 
 4°. dat hij in het bezit is van een ondernemingsplan dat voldoet aan de voorwaarden van artikel 7, eerste lid, alsmede van het advies als bedoeld in artikel 7, tweede lid, alsmede    
 
-c. dat hij in het bezit is van: 
-
-1°. een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md); en  
-
-2°. een verklaring van de kamers van toezicht in het arrondissement of de arrondissementen waar hij als kandidaat-notaris werkzaam is of werkzaam is geweest, waaruit blijkt of hem een maatregel als bedoeld in artikel 103 is opgelegd en, zo ja, welke.       
+c. dat hij in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).     
 3.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de beroepsvereisten, waaraan hij die de opleiding, bedoeld in het tweede lid, onderdeel a, heeft gevolgd moet voldoen.   
 4.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het tweede lid, onderdeel a, onder 1°, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.   
 
@@ -112,7 +108,7 @@ c. dat hij in het bezit is van:
 a. dat de verzoeker over voldoende financiële middelen beschikt om een kantoor te houden dat in overeenstemming is met de eisen van het ambt; en  
 
 b. dat op redelijke gronden mag worden verwacht dat na drie jaren de praktijk kostendekkend kan worden uitgeoefend.     
-2.  Over het ondernemingsplan wordt advies uitgebracht door een door Onze Minister te benoemen Commissie van deskundigen. De Commissie is bevoegd in verband met het onderzoek van het ondernemingsplan inlichtingen in te winnen bij de KNB en het Bureau. Het advies wordt als bijlage bij het ondernemingsplan gevoegd.   
+2.  Over het ondernemingsplan wordt advies uitgebracht door een door Onze Minister te benoemen Commissie van deskundigen. De KNB en het Bureau verstrekken de Commissie desgevraagd de door haar in het verband met het onderzoek van het ondernemingsplan benodigde inlichtingen. Het advies wordt als bijlage bij het ondernemingsplan gevoegd.   
 3.  Voor de advisering over het ondernemingsplan door de Commissie van deskundigen worden aan de verzoeker kosten in rekening gebracht.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent: 
 
@@ -182,7 +178,7 @@ Het is de notaris toegestaan buiten zijn plaats van vestiging ambtelijke werkzaa
 
 ### Artikel  15  
 
-1.  Indien de notaris overlijdt, defungeert of zich vestigt buiten het arrondissement waarin zijn plaats van vestiging is gelegen zonder medeneming van zijn protocol, wijst Onze Minister, gehoord de kamer van toezicht, een notaris aan om het protocol en de overige notariële bescheiden over te nemen. Indien deze bescheiden moeten worden overgenomen door een nieuw benoemde notaris, kan de aanwijzing bij het koninklijk besluit van zijn benoeming plaatsvinden. Bij verordening worden nadere voorschriften gegeven over de wijze waarop de overdracht en de overname van het protocol en de overige notariële bescheiden dienen te geschieden.   
+1.  Indien de notaris overlijdt, defungeert of zich vestigt buiten het arrondissement waarin zijn plaats van vestiging is gelegen zonder medeneming van zijn protocol, wijst Onze Minister, gehoord de KNB, een notaris aan om het protocol en eventueel de overige notariële bescheiden over te nemen. Indien deze bescheiden moeten worden overgenomen door een nieuw benoemde notaris, kan de aanwijzing bij het koninklijk besluit van zijn benoeming plaatsvinden. Bij verordening worden nadere voorschriften gegeven over de wijze waarop de overdracht en de overname van het protocol en de overige notariële bescheiden dienen te geschieden.   
 2.  De aangewezen notaris treedt met ingang van de dag van zijn aanwijzing van rechtswege in de plaats van zijn ambtsvoorganger met betrekking tot de bijzondere rekeningen, bedoeld in artikel 25. Hij stelt de financiële onderneming, bedoeld in artikel 25, eerste lid, terstond van zijn aanwijzing in kennis.   
 
 ### Titel  III  
@@ -232,8 +228,11 @@ Notariële akten die uiterste wilsbeschikkingen inhouden, bevatten geen andere r
 
 ### Artikel  21  
 
-1.  De notaris is verplicht de hem bij of krachtens de wet opgedragen of de door een partij verlangde werkzaamheden te verrichten, behoudens het bepaalde in het tweede lid.   
-2.  De notaris is verplicht zijn dienst te weigeren wanneer naar zijn redelijke overtuiging de werkzaamheid die van hem verlangd wordt leidt tot strijd met het recht of de openbare orde, wanneer zijn medewerking wordt verlangd bij handelingen die kennelijk een ongeoorloofd doel of gevolg hebben of wanneer hij andere gegronde redenen voor weigering heeft.   
+1.  De notaris is verplicht de hem bij of krachtens de wet opgedragen of de door een partij verlangde werkzaamheden te verrichten, behoudens het bepaalde in het tweede, derde, en vierde lid.   
+2.  De notaris is verplicht zijn dienst te weigeren wanneer naar zijn redelijke overtuiging of vermoeden de werkzaamheid die van hem verlangd wordt leidt tot strijd met het recht of de openbare orde, wanneer zijn medewerking wordt verlangd bij handelingen die kennelijk een ongeoorloofd doel of gevolg hebben of wanneer hij andere gegronde redenen voor weigering heeft.   
+3.  De notaris kan een verzoek van een partij tot het verrichten van werkzaamheden doorverwijzen naar een andere notaris binnen dezelfde onderneming of binnen het samenwerkingsverband waarvan hij deel uitmaakt, mits die het verzoek aanvaardt.   
+4.  De notaris kan een verzoek van een partij tot het verrichten van werkzaamheden doorverwijzen naar een andere notaris, mits die het verzoek aanvaardt en de werkzaamheden niet algemeen gebruikelijk en van een zodanige aard zijn dat het belang van de verzoekende partij met de doorverwijzing wordt gediend.   
+5.  Bij verordening worden nadere regels gesteld betreffende de toepassing van het tweede tot en met het vierde lid.   
 
 ### Artikel  22  
 
@@ -249,7 +248,7 @@ a. leningen aan te gaan, behoudens voor zover deze redelijkerwijs nodig zijn voo
 
 b. leningen te verstrekken aan degene die partij is bij een akte of die rechtstreeks of middellijk betrokken is bij een rechtshandeling waarop de akte betrekking heeft;  
 
-c. zich borg te stellen of anderszins in te staan voor schulden van anderen.     
+c. zich borg te stellen of anderszins in te staan voor schulden van anderen, behoudens voor zover dit redelijkerwijs nodig is voor de uitoefening van het ambt of voor persoonlijke doeleinden.     
 3.  De rechtsgeldigheid van een rechtshandeling welke is verricht in strijd met het eerste en tweede lid is niet uit dien hoofde aantastbaar.   
 
 ### Artikel  24  
@@ -268,8 +267,14 @@ c. zich borg te stellen of anderszins in te staan voor schulden van anderen.
 4.  Een rechthebbende heeft voor zover uit de aard van zijn recht niet anders voortvloeit, te allen tijde recht op uitkering van zijn aandeel in het saldo van de bijzondere rekening. Is het saldo van de bijzondere rekening niet toereikend om aan iedere rechthebbende het bedrag van zijn aandeel uit te keren, dan mag de notaris aan de rechthebbende slechts zoveel uitkeren als in verband met de rechten van de andere rechthebbenden mogelijk is. In dat geval wordt het saldo onder de rechthebbenden verdeeld naar evenredigheid van ieders aandeel, met dien verstande dat, indien een notaris zelf rechthebbende is, hem slechts wordt toegedeeld hetgeen overblijft, nadat de andere rechthebbenden het hun toekomende hebben ontvangen.   
 5.  Er kan geen derdenbeslag worden gelegd onder de in het eerste lid bedoelde financiële onderneming op het aandeel van een rechthebbende in de bijzondere rekening. Is onder de notaris derdenbeslag gelegd op het aandeel van een rechthebbende in de bijzondere rekening, dan kan de notaris die overeenkomstig de [artikelen 476a](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [477 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) verklaring heeft gedaan of die is veroordeeld overeenkomstig [artikel 477a van dat wetboek](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), zonder opdracht van de rechthebbende overeenkomstig de verklaring of veroordeling betalen aan de executant.   
 6.  Rechtshandelingen verricht in strijd met de bepalingen van dit artikel zijn vernietigbaar. De vernietigingsgrond kan worden ingeroepen door iedere rechtstreeks belanghebbende. Rechten, door derden te goeder trouw anders dan om niet verkregen op gelden die het voorwerp waren van de vernietigde rechtshandeling, worden geëerbiedigd.   
-7.  Onze Minister kan regels vaststellen met betrekking tot de wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden.   
-8.  Van de bepalingen van dit artikel en van de in het zevende lid bedoelde regels kan niet worden afgeweken.   
+7.  Bij verordening kunnen nadere regels worden gesteld betreffende de bijzondere rekening en het beheer van de gelden, bedoeld in het eerste lid. Onze Minister kan regels vaststellen met betrekking tot de wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden.   
+8.  De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in artikel 22, aan de inspecteur of de ontvanger, bedoeld in [artikel 2 van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 2 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) dan wel [artikel 1:3 van de Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md), indien deze dit, daartoe gemachtigd door Onze Minister van Financiën, verzoekt uit hoofde van de uitoefening van een bevoegdheid op grond van de [Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) onderscheidenlijk de [Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md): 
+
+a. de namen, adressen en woonplaatsen van de personen die betrokken zijn bij betalingen naar of vanaf de bijzondere rekening in verband met een in het verzoek specifiek aangeduide transactie of handeling waaraan de notaris zijn medewerking heeft verleend, alsmede de omvang van die betalingen en de nummers van de bankrekeningen waarvan door die personen gebruik is gemaakt;  
+
+b. de aard van de transactie of handeling waarop een in het verzoek specifiek aangeduide betaling naar of vanaf de bijzondere rekening betrekking heeft, alsmede de namen, adressen en woonplaatsen van de personen die daarbij betrokken zijn, de omvang van de betalingen en de nummers van de bankrekeningen waarvan door die personen gebruik is gemaakt.   Bij het verstrekken van de hiervoor genoemde gegevens wordt hun onderling verband door de notaris aangeduid.   
+9.  De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in artikel 22, aan de opsporingsambtenaar, de officier van justitie of de rechter-commissaris, de gegevens met betrekking tot de bijzondere rekening die deze vordert uit hoofde van de uitoefening van een bevoegdheid op grond van het [Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+10.  Van de bepalingen van dit artikel en van de in het zevende lid bedoelde regels kan niet worden afgeweken.   
 
 ### Artikel  25a  
 
@@ -304,9 +309,11 @@ b. wanneer de notaris niet in staat is zijn ambt uit te oefenen wegens ziekte;
 
 c. in geval van schorsing in de uitoefening van zijn ambt;  
 
-d. in geval van ontslag of vestiging buiten het arrondissement waarin zijn vestigingsplaats is gelegen;  
+d. in geval van ontzetting uit zijn ambt;  
 
-e. in geval van zijn overlijden.    
+e. in geval van ontslag of vestiging buiten het arrondissement waarin zijn vestigingsplaats is gelegen;  
+
+f. in geval van zijn overlijden.    
 
 ### Artikel  29  
 
@@ -359,7 +366,7 @@ b. bij waarneming in de in artikel 28, onderdelen c, d of e, bedoelde gevallen, 
 
 1.  Een kandidaat-notaris komt in aanmerking voor toevoeging aan een notaris indien hij voldoet aan de voorwaarden van artikel 6, met uitzondering van het tweede lid, onderdeel b, onder 4°, en indien wordt voldaan aan de voorwaarden die volgen uit artikel 30b, tweede lid.   
 2.  Het verzoek om goedkeuring van de toevoeging wordt ingediend door de notaris en de kandidaat-notaris gezamenlijk. Artikel 8 is van overeenkomstige toepassing, met dien verstande dat de bij het verzoek over te leggen bewijsstukken tevens betrekking hebben op de vervulling van de voorwaarden die volgen uit artikel 30b, tweede lid, en dat het advies van de Commissie toegang notariaat tevens ziet op de vraag of aan deze voorwaarden wordt voldaan. Aan de goedkeuring kunnen nadere voorwaarden worden verbonden.   
-3.  De toegevoegd notaris die aan een notaris wordt toegevoegd, legt, indien dit nog niet eerder heeft plaatsgevonden, in verband met de aanvaarding van zijn toevoeging de eed af voor de rechtbank in de hoofdplaats van het ressort waarin de plaats van vestiging is gelegen van de notaris aan wie hij wordt toegevoegd. Artikel 3, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
+3.  De toegevoegd notaris die aan een notaris wordt toegevoegd, legt, indien dit nog niet eerder heeft plaatsgevonden, in verband met de aanvaarding van zijn toevoeging de eed af voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder de notaris aan wie hij wordt toegevoegd ressorteert. Artikel 3, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  30d  
 
@@ -433,10 +440,6 @@ e. de hoogte van de cursus- en examengelden en te wiens laste deze komen.
 
 1.  Er is een commissie van toezicht die tot taak heeft toezicht te houden op de opleiding voor de kandidaat-notarissen en op het examen. De commissie bestaat uit vijf leden. Drie leden, waaronder de voorzitter, worden benoemd door Onze Minister, de andere leden door de KNB. De commissie is gevestigd ten kantore van de KNB.   
 2.  Bij verordening worden nadere regels gesteld betreffende de zittingsduur en het aftreden van de leden en de voorzitter, alsmede betreffende de werkzaamheid, de vergaderingen, de besluitvorming en andere onderwerpen die voor het functioneren van de commissie van toezicht van belang zijn.   
-
-### Artikel  35  
-
-Tegen een beslissing op grond van de verordening, bedoeld in artikel 33, tweede lid, kan een belanghebbende administratief beroep instellen bij de commissie van toezicht.  
 
 ### Artikel  36  
 
@@ -645,10 +648,11 @@ c. verklaringen van erfrecht indien het saldo van de boedel minder bedraagt dan 
 
 ### Artikel  57  
 
-1.  Er is in ieder arrondissement een algemene bewaarplaats van protocollen. De kamer van toezicht in dat arrondissement houdt toezicht op de algemene bewaarplaats.   
-2.  De kamer van toezicht benoemt uit de notarissen die in het arrondissement hun plaats van vestiging hebben een bewaarder en een plaatsvervangend bewaarder. Deze benoemingen geschieden voor de tijd van vijf jaar en kunnen telkens met dezelfde termijn worden verlengd.   
+1.  Er zijn één of meer door Onze Minister aan te wijzen algemene bewaarplaatsen van protocollen.   
+2.  Het bestuur van de KNB benoemt uit de notarissen die in het arrondissement waarbinnen zich de algemene bewaarplaats bevindt hun plaats van vestiging hebben een bewaarder en een plaatsvervangend bewaarder. Deze benoemingen geschieden voor de tijd van vijf jaar en kunnen telkens met dezelfde termijn worden verlengd.   
 3.  De bewaarder en de plaatsvervangend bewaarder hebben ten aanzien van de zich in de algemene bewaarplaats bevindende protocollen dezelfde bevoegdheden en verplichtingen als een notaris.   
 4.  In afwijking van [artikel 41, eerste lid, onder b, van de Archiefwet 1995](../../../wet/archiefwet/1995/BWBR0007376/README.md) is Onze Minister zorgdrager van de zich in de algemene bewaarplaats bevindende archiefbescheiden, voorzover deze niet zijn overgebracht naar een rijksarchiefbewaarplaats.   
+5.  Bij verordening kunnen nadere regels worden gesteld betreffende de taken en bevoegdheden van de bewaarder en plaatsvervangend bewaarder.   
 
 ### Artikel  58  
 
@@ -699,7 +703,7 @@ De KNB houdt een bureau in stand, dat het bestuur bijstaat in de uitoefening van
 
 ### Artikel  64  
 
-1.  Het bestuur is belast met de algemene leiding van de KNB en met de uitoefening van haar in artikel 61 omschreven taken, alsmede met het beheer en de beschikking over haar vermogen. Het geeft voorts algemene leiding aan het bureau van de KNB en regelt zijn werkzaamheid.   
+1.  Het bestuur is belast met de algemene leiding van de KNB en met de uitoefening van aan haar bij of krachtens deze wet of andere wetten opgedragen taken, alsmede met het beheer en de beschikking over haar vermogen. Het geeft voorts algemene leiding aan het bureau van de KNB en regelt zijn werkzaamheid.   
 2.  Het bestuur wordt bijgestaan door een aantal secretarissen, waaronder de directie van het bureau. Zij worden aangesteld op een arbeidsovereenkomst naar burgerlijk recht. De directie van het bureau is belast met de coördinatie van hun werkzaamheden en met de leiding van de dagelijkse gang van zaken van het bureau.   
 3.  Het bestuur kan nadere regelen stellen betreffende zijn werkwijze en die van het bureau.   
 4.  Het bestuur stelt jaarlijks een verslag op over zijn werkzaamheden ten behoeve van de algemene ledenvergadering en zendt dit om advies aan de ledenraad. Het brengt het verslag ter kennis van Onze Minister.   
@@ -1038,22 +1042,26 @@ In geval van oplegging van de maatregelen schorsing in de uitoefening van het am
 ### Artikel  110  
 
 1.  Er is een Bureau Financieel Toezicht, dat gevestigd is te Utrecht. Het Bureau bezit rechtspersoonlijkheid. Het Bureau houdt toezicht op de naleving door de notaris van de artikelen 23, 24 en 25, eerste lid en tweede lid, derde volzin, alsmede de verordeningen, bedoeld in artikel 18, tweede lid, en 24, derde lid, en de ministeriële regeling, bedoeld in artikel 25, zevende lid. [Titel 5.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  Bij algemene maatregel van bestuur kan zonodig worden bepaald dat het Bureau daarbij aangegeven andere taken kan verrichten dan die, bedoeld in het eerste lid, indien deze taken verband houden met de in dat lid genoemde taken. Onze Minister is bevoegd tot het vaststellen van algemeen verbindende voorschriften of beleidsregels ten aanzien van de uitoefening van de taken van het Bureau.   
+2.  Bij algemene maatregel van bestuur kan zonodig worden bepaald dat het Bureau daarbij aangegeven andere taken kan verrichten dan die, bedoeld in het eerste lid, indien deze taken verband houden met de in dat lid genoemde taken.   
 3.  Het bestuur van het Bureau is belast met de algemene leiding van het Bureau en met het beheer en de beschikking over zijn vermogen.   
-4.  Het bestuur van het Bureau bestaat uit een voorzitter en vier leden. Het bestuur wijst uit zijn midden een plaatsvervangend voorzitter aan. De voorzitter en de andere leden van het bestuur worden benoemd, geschorst en ontslagen door Onze Minister. De voorzitter en één lid moeten over juridische deskundigheid en ervaring beschikken; de andere leden moeten over financiële deskundigheid en ervaring beschikken. De leden van het bestuur worden benoemd voor een periode van vier jaren en kunnen na aftreden terstond voor eenzelfde termijn eenmaal worden herbenoemd.   
-5.  De leden van het bestuur ontvangen voor hun werkzaamheden een door Onze Minister vast te stellen vergoeding, alsmede een vergoeding van reis- en verblijfkosten overeenkomstig de bepalingen welke te dien aanzien voor de ambtenaren in dienst van het Rijk gelden.   
-6.  De voorzitter vertegenwoordigt het Bureau in en buiten rechte.   
-7.  Het bestuur wordt bijgestaan door een directeur, die belast is met de dagelijkse leiding van het Bureau. De directeur wordt aangesteld, geschorst en ontslagen door het bestuur. Het personeel van het Bureau wordt door het bestuur, op voordracht van de directeur, aangesteld, geschorst en ontslagen.   
-8.  De rechtspositie van het personeel van het Bureau is in overeenstemming met de regels die gelden voor ambtenaren die zijn aangesteld in dienst van het Rijk, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan een andere minister dan Onze Minister van Binnenlandse Zaken, deze bevoegdheid wordt uitgeoefend door het bestuur van het Bureau. Bij algemene maatregel van bestuur kan zonodig worden afgeweken van de in de vorige volzin bedoelde regels.   
-9.  Het bestuur stelt een bestuursreglement vast. Dit reglement behoeft de goedkeuring van Onze Minister.   
-10.  De bestuursleden en het personeel van het Bureau moeten, alvorens zij hun taak aanvangen, voor de rechtbank te Utrecht de navolgende eed afleggen: «Ik zweer getrouwheid aan de Koning en de wet. Ik zweer dat ik mijn taak toegewijd en nauwgezet zal uitvoeren en dat ik, voor zover niet bij of krachtens de wet anders is bepaald, geheimhouding zal betrachten ten aanzien van alles waarvan ik uit hoofde van mijn taakvervulling kennis neem». De griffier van de rechtbank geeft ter zitting een proces-verbaal van de eedsaflegging af aan de betrokkene.   
-11.  Indien het Bureau zijn taken, bedoeld in het eerste en tweede lid, naar het oordeel van Onze Minister ernstig verwaarloost, kan hij zonodig voorzieningen treffen. Onze Minister doet hiervan terstond mededeling aan de Staten-Generaal.   
+4.  Het bestuur van het Bureau bestaat uit een voorzitter en uit minimaal twee en maximaal vier leden. In het bestuursreglement wordt het aantal leden vastgesteld. Het bestuur wijst uit zijn midden een plaatsvervangend voorzitter aan. De voorzitter en één lid moeten over juridische deskundigheid en ervaring beschikken; de andere leden moeten over financiële deskundigheid en ervaring beschikken. De leden van het bestuur worden benoemd voor een periode van vier jaren en kunnen na aftreden terstond voor eenzelfde termijn eenmaal worden herbenoemd.   
+5.  De voorzitter vertegenwoordigt het Bureau in en buiten rechte.   
+6.  Het bestuur wordt bijgestaan door een directeur, die belast is met de dagelijkse leiding van het Bureau. De directeur wordt aangesteld, geschorst en ontslagen door het bestuur. Het personeel van het Bureau wordt door het bestuur, op voordracht van de directeur, aangesteld, geschorst en ontslagen.   
+7.  Het bestuur stelt een bestuursreglement vast.   
+8.  De bestuursleden en het personeel van het Bureau moeten, alvorens zij hun taak aanvangen, voor de rechtbank in het arrondissement waarin de plaats van vestiging van het Bureau is gelegen de navolgende eed afleggen: «Ik zweer getrouwheid aan de Koning en de wet. Ik zweer dat ik mijn taak toegewijd en nauwgezet zal uitvoeren en dat ik, voor zover niet bij of krachtens de wet anders is bepaald, geheimhouding zal betrachten ten aanzien van alles waarvan ik uit hoofde van mijn taakvervulling kennis neem». De griffier van de rechtbank geeft ter zitting een proces-verbaal van de eedsaflegging af aan de betrokkene.   
+9.  De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op het Bureau.   
 
 ### Artikel  111  
 
 1.  Onze Minister verstrekt aan het Bureau een subsidie voor de kosten van de exploitatie van het Bureau.   
 2.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [titel 4.2 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-3.  De subsidie wordt per boekjaar verstrekt. [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+3.  De subsidie wordt per boekjaar verstrekt. [Afdeling 4.2.8](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de [artikelen 4:71](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:72, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is van toepassing, met dien verstande dat: 
+
+a. de overeenkomstig [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) toe te zenden begroting betrekking heeft op het boekjaar en Onze Minister bij de ingevolge dat artikel vast te stellen datum rekening houdt met de [artikelen 4:60](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:61 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+
+b. in afwijking van [artikel 4:63 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de inhoud van de begroting de [artikelen 27](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [28 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing zijn;  
+
+c. het activiteitenverslag, bedoeld in [artikel 4:80 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt opgenomen in het jaarverslag, bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).     
 4.  Onze Minister kan voorschotten op de in het eerste lid bedoelde subsidie verlenen.   
 
 ### Artikel  111a  
@@ -1086,7 +1094,7 @@ De ambtenaren van de rijksbelastingdienst doen van hetgeen hen bij de uitvoering
 
 ### Artikel  113  
 
-Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de doelmatigheid van het functioneren van het Bureau. Het verslag, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt hierin opgenomen.  
+Het verslag, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt opgenomen in het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).  
 
 ### Titel  IXa  
 
@@ -1107,10 +1115,9 @@ Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van dez
 
 ### Artikel  113c  
 
-1.  De [artikelen 1](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [2](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [20, tweede en derde lid](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [21](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [22 tot en met 106](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), 110 tot en met 214, tweede lid, van de Wet verplichte beroepspensioenregeling zijn van toepassing.   
+1.  De [artikelen 1](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [2](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [20, tweede en derde lid](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [21](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [22 tot en met 106](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [110 tot en met 213](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [214, tweede en vijfde lid, van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) zijn van toepassing.   
 2.  [Artikel 19 van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) is van toepassing, met dien verstande dat in het eerste lid voor «verplichtstelling» wordt gelezen: verplichte deelneming op grond van artikel 113a van de Wet op het notarisambt.   
 3.  De [artikelen 17](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [214, derde lid, van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) zijn van overeenkomstige toepassing.   
-4.  Artikel 214, vierde lid, van de Wet verplichte beroepspensioenregeling is ten aanzien van artikel 111 van overeenkomstige toepassing.   
 
 ### Titel  X  
 

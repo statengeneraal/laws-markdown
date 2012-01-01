@@ -48,7 +48,7 @@ De tegemoetkoming in dubbele woonkosten, als bedoeld in [artikel 8, eerste lid, 
 
 ### Artikel  8  
 
-Het bedrag als bedoeld in [artikel 8, tweede lid van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) bedraagt € 5.445,00.  
+Het bedrag, bedoeld in [artikel 8, tweede lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), bedraagt € 5818,46.  
 
 ### Artikel  9  
 
@@ -72,8 +72,8 @@ Bij een verplaatsing uit, naar en buiten Nederland worden voor rijksrekening sle
 
 ### Artikel  12  
 
-1.  De berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), geschiedt per maand met behulp van de formule, genoemd in het derde lid, met een maximum van € 332,74 per maand of een evenredig deel daarvan bij gemiddeld minder dan 5 reisdagen per week. De in de eerste volzin genoemde berekeningswijze wordt slechts toegepast indien de betrokkene ten minste 128 dagen per jaar daadwerkelijk naar dezelfde plaats van tewerkstelling reist, dan wel een evenredig deel daarvan voor zover het recht op de tegemoetkoming in de loop van het kalenderjaar aanvangt, eindigt of wijzigt, of indien de ambtenaar reist op gemiddeld minder dan vijf dagen per week. De tegemoetkoming wordt beëindigd indien een aaneengesloten periode van meer dan zes weken niet wordt gereisd en wordt hervat met ingang van de eerste dag van de maand, volgend op die waarop het reizen wordt hervat.   
-2.  In andere gevallen dan die, genoemd in het eerste lid, tweede volzin, geschiedt de berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), per maand met behulp van de formule, genoemd in het vierde lid, met een maximum van € 18,66 per reisdag.   
+1.  De berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), geschiedt per maand met behulp van de formule, genoemd in het derde lid, met een maximum van € 341,42 per maand of een evenredig deel daarvan bij gemiddeld minder dan 5 reisdagen per week. De in de eerste volzin genoemde berekeningswijze wordt slechts toegepast indien de betrokkene ten minste 128 dagen per jaar daadwerkelijk naar dezelfde plaats van tewerkstelling reist, dan wel een evenredig deel daarvan voor zover het recht op de tegemoetkoming in de loop van het kalenderjaar aanvangt, eindigt of wijzigt, of indien de ambtenaar reist op gemiddeld minder dan vijf dagen per week. De tegemoetkoming wordt beëindigd indien een aaneengesloten periode van meer dan zes weken niet wordt gereisd en wordt hervat met ingang van de eerste dag van de maand, volgend op die waarop het reizen wordt hervat.   
+2.  In andere gevallen dan die, genoemd in het eerste lid, tweede volzin, geschiedt de berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), per maand met behulp van de formule, genoemd in het vierde lid, met een maximum van € 19,15 per reisdag.   
 3.  De formule, bedoeld in het eerste lid, luidt:  
 
 | --- | --- |
@@ -89,9 +89,9 @@ Bij een verplaatsing uit, naar en buiten Nederland worden voor rijksrekening sle
 
 1.  De betrokkene, bedoeld in [artikel 12b, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), ontvangt een tegemoetkoming, berekend met overeenkomstige toepassing van artikel 12, met dien verstande dat: 
 
-a. het maximum van de tegemoetkoming, bedoeld in artikel 12, eerste lid, per maand € 49,98 bedraagt;  
+a. het maximum van de tegemoetkoming, bedoeld in artikel 12, eerste lid, per maand € 51,28 bedraagt;  
 
-b. het maximum van de tegemoetkoming per reisdag, bedoeld in artikel 12, tweede lid, € 2,80 bedraagt;  
+b. het maximum van de tegemoetkoming per reisdag, bedoeld in artikel 12, tweede lid, € 2,88 bedraagt;  
 
 c. de tegemoetkoming per kilometer € 0,06 bedraagt.     
 2.  De betrokkene, bedoeld in [artikel 12b, tweede lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), ontvangt een tegemoetkoming, berekend met overeenkomstige toepassing van artikel 12, met dien verstande dat: 

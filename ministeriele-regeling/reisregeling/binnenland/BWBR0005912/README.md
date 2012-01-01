@@ -42,15 +42,15 @@ b. € 0,09 per afgelegde kilometer, vermeerderd met de eventuele kosten van st
 
 ####Vergoedingen wegens verblijfkosten
 
-1.  De vergoeding wegens verblijfkosten als bedoeld in [artikel 13, eerste lid, van het besluit](../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) omvat voor ieder vol etmaal dat de dienstreis duurt een bedrag van € 4,22 voor kleine uitgaven overdag (dagcomponent) alsmede een bedrag van € 12,61 voor kleine uitgaven 's-avonds (avondcomponent) vermeerderd met: 
+1.  De vergoeding wegens verblijfkosten als bedoeld in [artikel 13, eerste lid, van het besluit](../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) omvat voor ieder vol etmaal dat de dienstreis duurt een bedrag van € 4,33 voor kleine uitgaven overdag (dagcomponent) alsmede een bedrag van € 12,95 voor kleine uitgaven 's-avonds (avondcomponent) vermeerderd met: 
 
-a. € 13,22 voor een lunch (lunchcomponent);  
+a. € 13,63 voor een lunch (lunchcomponent);  
 
-b. € 20,00 voor een avondmaaltijd (dinercomponent);  
+b. € 20,62 voor een avondmaaltijd (dinercomponent);  
 
-c. € 82,35 voor logies (logiescomponent);  
+c. € 83,42 voor logies (logiescomponent);  
 
-d. € 8,05 voor een ontbijt (ontbijtcomponent).     
+d. € 8,15 voor een ontbijt (ontbijtcomponent).     
 2.  De aanspraak op de onder het eerste lid onderdeel a, b, c en d bedoelde vergoedingen bestaat slechts indien voor het verkrijgen van de respectievelijke verstrekkingen kosten zijn gemaakt in een daarvoor bestemde gelegenheid.   
 3.  Bij aansluitende dienstreizen kan de avondcomponent als bedoeld in het eerste lid niet langer dan voor de eerste acht avonden worden toegekend. Voor ieder volgend etmaal dat binnen die dienstreizen valt, wordt het bedrag van de avondcomponent gehalveerd.   
 4.  Voor een resterend gedeelte van een etmaal dan wel voor een incidentele dienstreis van kortere duur dan een etmaal worden de uit te keren bedragen voor verblijfkosten berekend overeenkomstig het eerste, het tweede en het derde lid, met dien verstande dat: 

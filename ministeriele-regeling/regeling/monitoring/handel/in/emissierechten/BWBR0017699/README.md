@@ -185,7 +185,7 @@ a. het vergunningnummer van de op grond van [artikel 16.5, eerste lid, onder a, 
 b. de beoogde verandering;  
 
 c. het tijdstip waarop beoogd wordt de voorgenomen verandering te verwezenlijken.     
-6.  Indien degene die een inrichting drijft, op het moment van de indiening van het monitoringsplan nog niet volledig aan de meetvoorschriften, bedoeld in paragraaf 2.1.3, of de voorschriften inzake de kwaliteitsborging van de metingen, bedoeld in paragraaf 2.1.5, kan voldoen omdat dit technisch niet haalbaar is of tot onredelijke kosten leidt, worden de technische niet-haalbaarheid van bedoelde voorschriften of de onredelijke kosten ten genoegen van het bestuur van de emissieautoriteit aangetoond in het monitoringsplan. 
+6.  Indien degene die een inrichting drijft, op het moment van de indiening van het monitoringsplan nog niet volledig aan de meetvoorschriften, bedoeld in paragraaf 2.1.3, of de voorschriften inzake de kwaliteitsborging van de metingen, bedoeld in paragraaf 2.1.5, kan voldoen omdat dit technisch niet haalbaar is of tot onredelijke kosten leidt, worden de technische niet-haalbaarheid van bedoelde voorschriften of de onredelijke kosten ten genoegen van het bestuur van de emissieautoriteit aangetoond in het monitoringsplan. Hiertoe wordt in het monitoringsplan aangegeven: 
 
 a. de reden waarom degene die een inrichting drijft, niet volledig aan bedoelde meetvoorschriften onderscheidenlijk de voorschriften inzake de kwaliteitsborging van de metingen kan voldoen, alsmede de onderbouwing daarvan;  
 
@@ -523,6 +523,7 @@ b. indien een verschil wordt vastgesteld dat zodanig is dat de emissies zouden k
 1°. alle relevante gegevens voor het betrokken kalenderjaar in conservatieve zin bijstelt, en  
 
 2°. alle statistisch significante verschillen, te weten 2σ, tussen de eindresultaten ter kennis van het bestuur van de emissieautoriteit brengt en deze tegenstrijdigheden onverwijld opheft onder toezicht van een meetinstantie die door een accreditatie-instantie volgens EN ISO 17025:2005 is geaccrediteerd.       
+14.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in het eerste lid.   
 
 ### §  2.1.5  
 
@@ -816,6 +817,9 @@ c. het jaarlijkse verbruik van brandstoffen door de betrokken installaties;
 d. de jaarlijkse procesemissies van de betrokken installaties;  
 
 e. het jaarlijkse verbruik van elektriciteit door de betrokken installaties.     
+3.  Degene die een inrichting drijft, kan voor 1 oktober 2011 het bestuur van de emissieautoriteit verzoeken om de gegevens, bedoeld in het eerste lid, per afzonderlijke broeikasgasinstallatie binnen de inrichting te mogen verstrekken. Het verzoek wordt ingediend met gebruikmaking van een door het bestuur van de emissieautoriteit vastgesteld formulier.   
+4.  Het bestuur van de emissieautoriteit informeert degene die de inrichting drijft voor 1 november 2011 omtrent het aantal afzonderlijke broeikasgasinstallaties binnen de inrichting, waarvoor bedoelde gegevens kunnen worden verstrekt.   
+5.  Degene die de inrichting drijft, verstrekt het bestuur van de emissieautoriteit voor 1 januari 2012 per afzonderlijke broeikasgasinstallatie als bedoeld in het vierde lid, de in het standaardformulier, bedoeld in het eerste lid, aangewezen gegevens. In afwijking van het standaardformulier worden per broeikasgasinstallatie gegevens verstrekt over de gehele basisperiode van 2005 tot en met 2010, en, voor zover van toepassing, 2011.   
 
 ### Artikel  34be  
 
@@ -1832,6 +1836,7 @@ b. rendements- en productiegegevens, indien ten genoegen van het bestuur van de 
 a. dat deze meetinstantie voldoet aan eisen die gelijkwaardig zijn aan de eisen, bedoeld in het eerste lid;  
 
 b. dat deze meetinstantie technisch competent en in staat is om technisch geldende resultaten te genereren waarbij relevante analytische procedures worden gebruikt.     
+3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in het eerste lid.   
 
 ### §  3.5  
 

@@ -45,7 +45,7 @@ b. indien door provinciale staten toepassing is gegeven aan artikel 4, dit lid e
 
 1.  Aan een lid van provinciale staten wordt een vergoeding voor de werkzaamheden toegekend die ten hoogste € 12.948,63 per jaar bedraagt.   
 2.  Het bedrag van de vergoeding voor de werkzaamheden wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september van het voorafgaande kalenderjaar vastgestelde indexcijfer CAO lonen overheid, inclusief bijzondere beloningen.   
-3.  Aan een lid van provinciale staten wordt een onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten toegekend die ten hoogste € 86,56 per maand bedraagt.   
+3.  Aan een lid van provinciale staten wordt een onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten toegekend die ten hoogste € 88,90 per maand bedraagt.   
 4.  Het bedrag, genoemd in het derde lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.   
 
 ### Artikel  3  

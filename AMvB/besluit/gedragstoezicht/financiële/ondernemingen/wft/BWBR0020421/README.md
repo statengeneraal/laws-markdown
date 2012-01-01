@@ -24,13 +24,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluitprovisie*: 
 
-1°. beloning of vergoeding, in welke vorm dan ook, die een aanbieder ter gelegenheid van de totstandkoming van een overeenkomst inzake een betalingsbeschermer, een complex product, een hypothecair krediet, een hypothecair krediet gecombineerd met een beleggingsrekening of een uitvaartverzekering, tussen hem en een consument rechtstreeks of middellijk voor het bemiddelen of adviseren inzake die overeenkomst betaalt; of  
+1°. beloning of vergoeding, in welke vorm dan ook, die een aanbieder ter gelegenheid van de totstandkoming van een overeenkomst inzake een betalingsbeschermer, een complex product, een hypothecair krediet, een hypothecair krediet gecombineerd met een beleggingsrekening, een schadeverzekering of een uitvaartverzekering, tussen hem en een consument rechtstreeks of middellijk voor het bemiddelen of adviseren inzake die overeenkomst betaalt; of  
 
 2°. beloning of vergoeding, in welke vorm dan ook, die een aanbieder van een financieel product dat onderdeel uitmaakt van een complex product als bedoeld in onderdeel d, onder 4°, dat is samengesteld of in de markt verkrijgbaar gesteld door een bemiddelaar, ter gelegenheid van de totstandkoming van een overeenkomst tussen hem en een consument inzake dat financieel product voor het bemiddelen of adviseren inzake die overeenkomst rechtstreeks of middellijk betaalt;   *bestuurder*: indien het een beheerder, beleggingsmaatschappij of bewaarder betreft, een ieder die krachtens wet een beheerder, beleggingsmaatschappij of bewaarder vertegenwoordigt of het beleid van een beheerder, beleggingsmaatschappij of bewaarder bepaalt; *betalingsbeschermer:* verzekering ter dekking van het risico dat de verzekeringnemer betalingsverplichtingen uit hoofde van een overeenkomst inzake krediet niet kan nakomen; *betalingstermijn*: tijdvak dat ligt tussen: 
 
 1°. het tijdstip waarop een aanbieder ter uitvoering van een overeenkomst inzake krediet een geldsom ter beschikking stelt, of aanvangt met het verschaffen van het genot van een roerende zaak, financieel instrument of beleggingsobject of met het verlenen van een dienst en het tijdstip waarop de consument gehouden is de eerste betaling ter zake daarvan te hebben gedaan: of  
 
-2°. twee opeenvolgende tijdstippen waarop een consument gehouden is ter zake van een overeenkomst inzake krediet een betaling te hebben gedaan;   *complex product*: 
+2°. twee opeenvolgende tijdstippen waarop een consument gehouden is ter zake van een overeenkomst inzake krediet een betaling te hebben gedaan;   *commissie:* beloning of vergoeding, in welke vorm dan ook, voor het optreden als gevolmachtigde agent of ondergevolmachtigde agent; *complex product*: 
 
 1°. combinatie van twee of meer financiële producten die ten minste een financieel product omvat waarvan de waarde afhankelijk is van de ontwikkelingen op financiële markten of andere markten;  
 
@@ -54,7 +54,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 11°. combinatie van een of meer onder 2° tot en met 10° bedoelde complexe producten met een of meer financiële producten;   *consumptief krediet*: krediet, niet zijnde hypothecair krediet; *debetrentevoet:* verschuldigde rente voor een krediet, uitgedrukt op jaarbasis en toegepast in een vast of variabel percentage; *dekkingspercentage:* een door de aanbieder van krediet vastgesteld percentage van de waarde van de in onderpand gegeven financiële instrumenten, bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van de daartoe behorende afzonderlijke financiële instrumenten aan de hand waarvan de aanbieder van krediet de kredietlimiet bepaalt; *deposito*: tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt; *doorlopende provisie*: 
 
-1°. beloning of vergoeding, in welke vorm dan ook, niet zijnde afsluitprovisie, die een aanbieder van een betalingsbeschermer, een complex product, een hypothecair krediet, een hypothecair krediet gecombineerd met een beleggingsrekening of een uitvaartverzekering, na de totstandkoming van een overeenkomst tussen hem en een consument voor het bemiddelen of adviseren inzake die overeenkomst rechtstreeks of middellijk betaalt; of  
+1°. beloning of vergoeding, in welke vorm dan ook, niet zijnde afsluitprovisie, die een aanbieder van een betalingsbeschermer, een complex product, een hypothecair krediet, een hypothecair krediet gecombineerd met een beleggingsrekening, een schadeverzekering of een uitvaartverzekering, na de totstandkoming van een overeenkomst tussen hem en een consument voor het bemiddelen of adviseren inzake die overeenkomst rechtstreeks of middellijk betaalt; of  
 
 2°. beloning of vergoeding, in welke vorm dan ook, niet zijnde afsluitprovisie, die door een aanbieder van een financieel product dat onderdeel uitmaakt van een complex product als bedoeld in onderdeel d, onder 4°, dat is samengesteld of in de markt verkrijgbaar gesteld door een bemiddelaar, na de totstandkoming van een overeenkomst inzake dat financieel product tussen hem en een consument voor het bemiddelen of adviseren inzake die overeenkomst rechtstreeks of middellijk betaalt;   *doorlopend krediet*: overeenkomst inzake: 
 
@@ -92,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 a. als onderzoek op beleggingsgebied wordt gepresenteerd of op enigerlei andere wijze wordt voorgesteld als een objectieve of onafhankelijke verklaring van de aangelegenheden die in de aanbeveling aan de orde komen; en  
 
-b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afslagen*: bedragen waarmee de door de deelnemers voor rechten van deelneming in een beleggingsinstelling betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming; *PE-onderwijsprogramma:* onderwijsprogramma voor permanente educatie; *PE-toets:* toets voor permanente educatie; *PE-toetstermen:* criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eisen voor permanente educatie; *persoonlijke transactie*: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij: 
+b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afslagen*: bedragen waarmee de door de deelnemers voor rechten van deelneming in een beleggingsinstelling betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming; *pensioenverzekering:* levensverzekering die een werkgever afsluit ten behoeve van zijn werknemers, waaronder de directeur-grootaandeelhouder, bestaande uit een ouderdomspensioen of nabestaandenpensioen als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md); *PE-onderwijsprogramma:* onderwijsprogramma voor permanente educatie; *PE-toets:* toets voor permanente educatie; *PE-toetstermen:* criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eisen voor permanente educatie; *persoonlijke transactie*: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij: 
 
 1°. de betrokken relevante persoon handelt anders dan in de normale uitoefening van zijn beroep of bedrijf;  
 
@@ -185,17 +185,21 @@ Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../.
 
 ### Artikel  5  
 
-1.  De personen, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn vakbekwaam, indien zij voldoen aan de in onderdeel 1 van bijlage B genoemde eindtermen alsmede, voorzover zij zich rechtstreeks bezighouden met het verlenen van financiële diensten met betrekking tot de hierna in de onderdelen a tot en met d genoemde onderwerpen, aan de eindtermen genoemd in het daarop betrekking hebbende onderdeel van bijlage B: 
+1.  De personen, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn vakbekwaam, indien zij voldoen aan de in onderdeel 1 van bijlage B genoemde eindtermen alsmede, voorzover zij zich rechtstreeks bezighouden met het verlenen van financiële diensten met betrekking tot de hierna in de onderdelen a tot en met e genoemde onderwerpen, aan de eindtermen genoemd in het daarop betrekking hebbende onderdeel van bijlage B: 
 
 a. hypothecair krediet, al dan niet gecombineerd met opstal-, inboedel-, arbeidsongeschiktheids-, kapitaal- of overlijdensrisicoverzekeringen, waarbij de verplichting van de aanbieder tot het doen van een uitkering of een reeks van uitkeringen alleen dan ontstaat, indien het overlijden van degene op wiens leven de verzekering betrekking heeft plaatsvindt voor de in de polis genoemde datum: onderdeel 2 van bijlage B;  
 
 b. consumptief krediet, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: onderdeel 3 van bijlage B;  
 
-c. schadeverzekeringen: onderdeel 4 van bijlage B; of  
+c. schadeverzekeringen: onderdeel 4 van bijlage B;  
 
-d. levensverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: onderdeel 5 van bijlage B.     
+d. levensverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: onderdeel 5 van bijlage B;  
+
+e. pensioenverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: onderdelen 5 en 7 van bijlage B; of  
+
+f. premiepensioenvorderingen: onderdeel 7 van bijlage B.     
 2.  Indien de financiëledienstverlener, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), optreedt als gevolmachtigde agent of als ondergevolmachtigde agent, zijn de in dat lid bedoelde personen vakbekwaam, indien zij voldoen aan de in onderdeel 6 van bijlage B genoemde eindtermen en de in het eerste lid bedoelde onderdelen van die bijlage, met betrekking tot het financiële product waarmee zij zich rechtstreeks bezighouden.   
-3.  Het eerste lid is niet van toepassing op het verlenen van financiële diensten met betrekking tot een arbeidsongeschiktheidsverzekeringverzekering als bedoeld in het eerste lid, onderdeel a, b of d, of een opstal-, inboedel-, of overlijdensrisicoverzekering als bedoeld in het eerste lid, onderdeel a, die wordt gecombineerd met het in het desbetreffende onderdeel genoemde onderwerp.   
+3.  Het eerste lid is niet van toepassing op het verlenen van financiële diensten met betrekking tot een arbeidsongeschiktheidsverzekeringverzekering als bedoeld in het eerste lid, onderdeel a, b, d of e, of een opstal-, inboedel-, of overlijdensrisicoverzekering als bedoeld in het eerste lid, onderdeel a, die wordt gecombineerd met het in het desbetreffende onderdeel genoemde onderwerp.   
 
 ### §  2.2  
 
@@ -581,11 +585,11 @@ Bepalingen ter uitvoering van [artikel 4:14, tweede lid, aanhef en onderdeel a, 
 
 ### Artikel  30  
 
-1.  De bedrijfsvoering van een beheerder, belegginginstelling, beleggingsonderneming of bewaarder, bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in: 
+1.  De bedrijfsvoering van een beheerder, beleggingsinstelling, beleggingsonderneming, bewaarder of pensioenbewaarder, bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in: 
 
-a. duidelijke besluitvormingsprocedures en een duidelijke en adequate organisatiestructuur;  
+a. duidelijke besluitvormingsprocedures en een duidelijke, evenwichtige en adequate organisatiestructuur;  
 
-b. een duidelijke en adequate verdeling van taken, bevoegdheden en verantwoordelijkheden;  
+b. een duidelijke, evenwichtige en adequate verdeling van taken, bevoegdheden en verantwoordelijkheden;  
 
 c. eenduidige rapportagelijnen;  
 
@@ -690,7 +694,7 @@ h. er, voorzover mogelijk, een systematische, toegankelijke en actuele administr
 3.  De procedures en maatregelen, bedoeld in het eerste lid, onderdeel g, van een instelling voor collectieve belegging in effecten omvatten in ieder geval een procedure voor de waardevaststelling van financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld.   
 4.  Een beheerder richt voor iedere beleggingsinstelling die hij beheert afzonderlijk een bedrijfsvoering als bedoeld in het eerste lid in.   
 
-### Artikel  34a*  
+### Artikel  34a  
 
 1.  Een beheerder van een instelling voor collectieve belegging in effecten stelt procedures en regelingen vast en past die toe zodat hij in staat is om de Autoriteit Financiële Markten op verzoek zo spoedig mogelijk financiële verslagen te verstrekken die een getrouw beeld geven van zijn financiële positie en die aan alle toepasselijke standaarden en regels voor financiële verslaggeving voldoen.   
 2.  Onverminderd artikel 34 wordt de administratie van een instelling voor collectieve belegging in effecten zodanig gevoerd dat de activa en passiva van de instelling voor collectieve belegging in effecten te allen tijde rechtstreeks kunnen worden geïdentificeerd.   
@@ -762,7 +766,7 @@ b. alle wijzigingen, alsmede de inhoud van de gegevens voordat wijzigingen zijn 
 c. de gegevens niet anderszins gemanipuleerd of gewijzigd kunnen worden.     
 3.  Indien de beheerder zijn verantwoordelijkheden met betrekking tot de instelling voor collectieve belegging in effecten aan een andere beheerder overdraagt, worden maatregelen getroffen zodat de gegevens betreffende de voorafgaande vijf jaar voor de andere beheerder toegankelijk zijn.   
 
-### Artikel  34a  
+### Artikel  34e  
 
 De bedrijfsvoering van een pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste procedures en maatregelen die waarborgen dat: 
 
@@ -839,9 +843,9 @@ Een beheerder van een instelling voor collectieve belegging in effecten of beleg
 
 ### Artikel  35e  
 
-1.  De procedures en maatregelen bedoeld in artikel 35c, eerste lid, houden in dat de beheerder of beleggingsinstelling onverwijld in kennis wordt gesteld van elke persoonlijke transactie.   
-2.  De beheerder of beleggingsinstelling houdt gegevens bij van aan haar gemelde of door haar onderkende persoonlijke transacties en vermeldt daarbij in voorkomend geval tevens of de desbetreffende transactie is toegestaan.   
-3.  Ingeval van uitbesteding draagt de beheerder of beleggingsinstelling zorg voor registratie door de onderneming waaraan de activiteit wordt uitbesteed van gegevens met betrekking tot persoonlijke transacties. Deze gegevens worden desgevraagd onverwijld aan de beheerder of beleggingsinstelling verstrekt.   
+1.  De procedures en maatregelen bedoeld in artikel 35c, eerste lid, houden in dat de beheerder of beleggingsonderneming onverwijld in kennis wordt gesteld van elke persoonlijke transactie.   
+2.  De beheerder of beleggingsonderneming houdt gegevens bij van aan haar gemelde of door haar onderkende persoonlijke transacties en vermeldt daarbij in voorkomend geval tevens of de desbetreffende transactie is toegestaan.   
+3.  Ingeval van uitbesteding draagt de beheerder of beleggingsonderneming zorg voor registratie door de onderneming waaraan de activiteit wordt uitbesteed van gegevens met betrekking tot persoonlijke transacties. Deze gegevens worden desgevraagd onverwijld aan de beheerder of beleggingsonderneming verstrekt.   
 4.  Het eerste tot en met het derde lid zijn niet van toepassing op achtereenvolgende persoonlijke transacties, met uitzondering van de eerste persoonlijke transactie, die worden uitgevoerd namens een relevante persoon overeenkomstig vooraf door de relevante persoon gegeven instructies, wanneer de instructies ongewijzigd van kracht blijven.   
 
 ### Artikel  35f  
@@ -1001,26 +1005,26 @@ b. er een samenwerkingsovereenkomst is gesloten tussen de toezichthouders en de 
 
 ### Artikel  38g  
 
-Een betaalinstelling besteedt de taken en werkzaamheden van personen die het dagelijks beleid bepalen, daaronder mede verstaan het vaststellen van het beleid en het afleggen van verantwoording over het gevoerde beleid, niet uit.  
+Een betaalinstelling of elektronischgeldinstelling besteedt de taken en werkzaamheden van personen die het dagelijks beleid bepalen, daaronder mede verstaan het vaststellen van het beleid en het afleggen van verantwoording over het gevoerde beleid, niet uit.  
 
 ### Artikel  38h  
 
-Een betaalinstelling als bedoeld in artikel 38g gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van de interne controle van de betaalinstelling.  
+Een betaalinstelling of elektronischgeldinstelling als bedoeld in artikel 38g gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van de interne controle van de betaalinstelling of elektronischgeldinstelling.  
 
 ### Artikel  38i  
 
-Indien een betaalinstelling voornemens is werkzaamheden in verband met het verlenen van betaaldiensten uit te besteden, stelt zij de toezichthouder daarvan in kennis.  
+Indien een betaalinstelling of elektronischgeldinstelling voornemens is werkzaamheden in verband met het verlenen van betaaldiensten dan wel met de uitgifte van elektronisch geld uit te besteden, stelt zij de toezichthouder daarvan in kennis.  
 
 ### Artikel  38j  
 
-Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldiensten draagt de betaalinstelling er zorg voor dat uitbesteding de verplichtingen van de betaalinstelling jegens haar cliënten en de rechten van haar cliënten uit hoofde van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet wijzigt.  
-
-### Artikel  38k*  
-
-1.  De artikelen 37, 38g, 38h en 38j zijn slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen voor zover het belangrijke werkzaamheden betreft.   
-2.  Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de betaalinstelling van de vergunningsvereisten, als bedoeld in [artikel 2:3b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van andere verplichtingen ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar betaaldiensten.   
+Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldiensten dan wel de uitgifte van elektronisch geld draagt de betaalinstelling of de elektronischgeldinstelling er zorg voor dat uitbesteding de verplichtingen van de betaalinstelling, onderscheidenlijk de elektronischgeldinstelling, jegens haar cliënten en de rechten van haar cliënten uit hoofde van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet wijzigt.  
 
 ### Artikel  38k  
+
+1.  De artikelen 37, 38g, 38h en 38j zijn slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen of elektronischgeldinstellingen voor zover het belangrijke werkzaamheden betreft.   
+2.  Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de betaalinstelling of de elektronischgeldinstelling van de vergunningsvereisten, als bedoeld in [artikel 2:3b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) respectievelijk [artikel 2:10b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van andere verplichtingen ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar betaaldiensten of uitgifte van elektronisch geld.   
+
+### Artikel  38l  
 
 Indien een premiepensioeninstelling of pensioenbewaarder in het kader van het beheer van een pensioenvermogen onderscheidenlijk in het kader van de bewaring van een pensioenvermogen een of meer werkzaamheden uitbesteedt: 
 
@@ -1065,6 +1069,7 @@ Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4
 1.  Een beheerder als bedoeld in [artikel 4:17, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in procedures en maatregelen die waarborgen dat klachten van deelnemers in door hem beheerde beleggingsinstellingen zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.   
 2.  De beheerder stelt kosteloos informatie over de procedures, bedoeld in het eerste lid, ter beschikking aan de deelnemers in een door hem beheerde beleggingsinstelling.   
 3.  Een betaaldienstverlener voorziet in procedures en maatregelen die waarborgen dat klachten van cliënten over het verlenen van betaaldiensten door deze betaaldienstverlener, zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.   
+4.  Een elektronischgeldinstelling voorziet in procedures en maatregelen die waarborgen dat klachten van cliënten over het verlenen van betaaldiensten dan wel over de uitgifte van elektronisch geld door deze elektronischgeldinstelling, zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.   
 
 ### §  7.2  
 
@@ -1240,8 +1245,8 @@ Een financiële onderneming maakt een beschrijving van haar beleid inzake beloni
 
 ### Artikel  51  
 
-1.  Een beleggingsonderneming of kredietinstelling deelt aan een ieder die een gerechtvaardigd belang heeft op verzoek mede aan welke systemen als bedoeld in [artikel 212a van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) de beleggingsonderneming onderscheidenlijk de kredietinstelling deelneemt.   
-2.  Een beleggingsonderneming of kredietinstelling verstrekt aan een ieder die een gerechtvaardigd belang heeft op verzoek informatie over de belangrijkste regels die gelden voor de werking van de systemen bedoeld in [artikel 212a van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md), waaraan de beleggingsonderneming onderscheidenlijk de kredietinstelling deelneemt.   
+1.  Een beleggingsonderneming of bank deelt aan een ieder die een gerechtvaardigd belang heeft op verzoek mede aan welke systemen als bedoeld in [artikel 212a van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) de beleggingsonderneming onderscheidenlijk de bank deelneemt.   
+2.  Een beleggingsonderneming of bank verstrekt aan een ieder die een gerechtvaardigd belang heeft op verzoek informatie over de belangrijkste regels die gelden voor de werking van de systemen bedoeld in [artikel 212a van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md), waaraan de beleggingsonderneming onderscheidenlijk de bank deelneemt.   
 3.  Het eerste en tweede lid zijn niet van toepassing op beleggingsondernemingen met zetel in een andere lidstaat.   
 
 ### §  8.1.2a  
@@ -1796,6 +1801,7 @@ Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../..
 2.  De aanbieder van een complex product niet zijnde rechten van deelneming in een beleggingsinstelling verstrekt de financiële bijsluiter onverwijld kosteloos op verzoek van een consument.   
 3.  Indien een complex product niet zijnde rechten van deelneming in een beleggingsinstelling wordt aangeboden door tussenkomst van een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent, wordt een financiële bijsluiter door deze bemiddelaar, gevolmachtigde agent onderscheidenlijk ondergevolmachtigde agent onverwijld kosteloos op verzoek van de consument verstrekt, tenzij de aanbieder en de bemiddelaar, gevolmachtigde agent onderscheidenlijk ondergevolmachtigde agent zijn overeengekomen dat de aanbieder zelf aan de verplichting voldoet.   
 4.  Een aanbieder van rechten van deelneming in een beleggingsinstelling of degene die beleggingsdiensten verleent als bedoeld in artikel 1, onderdelen a, b, of d, van de wet, met betrekking tot rechten van deelneming in een beleggingsinstelling, verstrekt geruime tijd voorafgaand aan een inschrijving op de rechten van deelneming in een beleggingsinstelling kosteloos de essentiële beleggersinformatie aan de cliënt. De essentiële beleggersinformatie wordt schriftelijk, op een duurzame drager of via een website verstrekt. Op verzoek wordt de essentiële beleggersinformatie kosteloos schriftelijk aan de cliënt verstrekt.   
+5.  Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onder 1°, 4° of 11°, samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.   
 
 ### Artikel  66  
 
@@ -1817,7 +1823,7 @@ g. voorbeeldrendementen en de kosten van het complexe product; en
 
 h. bij ministeriële regeling aan te wijzen andere onderwerpen.     
 2.  Een financiële bijsluiter bevat geen informatie over andere onderwerpen dan bedoeld in het eerste lid.   
-3.  De Autoriteit Financiële Markten stelt regels met betrekking tot de wijze waarop de informatie over de onderwerpen, bedoeld in het eerste en tweede lid, in de financiële bijsluiter wordt opgenomen, alsmede met betrekking tot de wijze van berekening van de rendementen, kosten en risico’s als bedoeld in het eerste lid, onderdelen c en g.   
+3.  De Autoriteit Financiële Markten stelt regels met betrekking tot de wijze waarop de informatie over de onderwerpen, bedoeld in het eerste lid, in de financiële bijsluiter wordt opgenomen, alsmede met betrekking tot de wijze van berekening van de rendementen, kosten en risico’s als bedoeld in het eerste lid, onderdelen c en g.   
 
 ### Artikel  66a  
 
@@ -2057,7 +2063,7 @@ Artikel 59f is van overeenkomstige toepassing op de ingevolge de artikelen 71b t
 
 ### Artikel  71l  
 
-Betaalinstellingen dragen er zorg voor dat betaaldienstagenten die voor hun rekening handelen, de betaaldienstgebruiker daarvan in kennis stellen. Zij dragen er tevens zorg voor dat hun bijkantoren de betaaldienstgebruikers in kennis stellen van het feit bijkantoor te zijn van de betaalinstelling.  
+Een betaalinstelling of een elektronischgeldinstelling draagt er zorg voor dat betaaldienstagenten die voor haar rekening handelen, de betaaldienstgebruiker daarvan in kennis stellen. Zij draagt er tevens zorg voor dat haar bijkantoren de betaaldienstgebruiker in kennis stellen van het feit bijkantoor te zijn van de betaalinstelling, onderscheidenlijk de elektronischgeldinstelling.  
 
 ### Artikel  72  
 
@@ -2214,8 +2220,8 @@ a. de debetrentevoet, de voorwaarden die de toepassing van deze rentevoet regele
 b. dat het krediet wordt verleend of toegezegd tegen onderpand van financiële instrumenten en dat de kredietlimiet afhankelijk is van een bepaald dekkingspercentage en indien van toepassing, bepaalde spreidingseisen; en  
 
 c. welk dekkingspercentage en welke spreidingseisen worden gehanteerd ten aanzien van de in onderpand gegeven financiële instrumenten.     
-4.  Indien een overeenkomst op afstand tot stand komt via spraaktelefonie, verstrekt een financiëledienstverlener de in artikel 77, eerste lid, bedoelde informatie onmiddellijk na de totstandkoming van de overeenkomst op afstand aan de consument. Voorzover het een overeenkomst inzake een levensverzekering, natura-uitvaartverzekering of schadeverzekering betreft, is artikel 78, tweede lid, aanhef en onderdeel a, onderscheidenlijk het tweede lid, aanhef en onderdeel b, of het derde lid van overeenkomstige toepassing.   
-5.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie als bedoeld in het eerste lid.   
+5.  Indien een overeenkomst op afstand tot stand komt via spraaktelefonie, verstrekt een financiëledienstverlener de in artikel 77, eerste lid, bedoelde informatie onmiddellijk na de totstandkoming van de overeenkomst op afstand aan de consument. Voorzover het een overeenkomst inzake een levensverzekering, natura-uitvaartverzekering of schadeverzekering betreft, is artikel 78, tweede lid, aanhef en onderdeel a, onderscheidenlijk het tweede lid, aanhef en onderdeel b, of het derde lid van overeenkomstige toepassing.   
+6.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie als bedoeld in het eerste lid.   
 
 ### Artikel  80  
 
@@ -2308,7 +2314,7 @@ b. beheerders van beleggingsinstellingen met zetel in een aangewezen staat, bele
 3.  Door of namens een beleggingsinstelling worden geen transacties uitgevoerd voor haar rekening met een zodanige frequentie of van een zodanige omvang dat dit gezien de omstandigheden kennelijk slechts strekt tot bevoordeling van de beheerder, de beleggingsinstelling of met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen.   
 4.  Het eerste tot en met derde lid zijn niet van toepassing op: 
 
-a. beheerders van instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat die geen instellingen voor collectieve belegging in effecten met zetel in Nederland beheren, instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat en de eventueel aan die instellingen verbonden bewaarders;  
+a. beheerders van instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat die geen instellingen voor collectieve belegging in effecten met zetel in Nederland beheren, instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat en de eventueel aan die instellingen verbonden bewaarders; en  
 
 b. beheerders van beleggingsinstellingen met zetel in een aangewezen staat, beleggingsinstellingen met zetel in effecten met zetel in een aangewezen staat en de eventueel aan die beleggingsinstellingen verbonden bewaarders.     
 
@@ -2328,6 +2334,15 @@ Een beleggingsonderneming verricht geen transactie voor rekening van een cliënt
 ### Artikel  86a  
 
 Een financiële onderneming voert een beleid inzake beloningen dat erop is gericht te voorkomen dat de beloning van degenen die het beleid van de onderneming bepalen of mede bepalen, haar werknemers en andere natuurlijke personen die zich onder haar verantwoordelijkheid bezighouden met het verlenen van financiële diensten of andere activiteiten leidt tot onzorgvuldige behandeling van consumenten, cliënten of deelnemers.  
+
+### Artikel  86b  
+
+1.  Een aanbieder, gevolmachtigde agent of ondergevolmachtigde agent verschaft of ontvangt voor het optreden als gevolmachtigde agent of ondergevolmachtigde agent rechtstreeks of middellijk geen commissie die niet noodzakelijk is voor het verlenen van de dienst of deze mogelijk maakt.   
+2.  Het eerste lid is niet van toepassing op: 
+
+a. commissies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien de verschaffing van de commissie geen afbreuk doet aan de verplichting van de aanbieder, gevolmachtigde agent of ondergevolmachtigde agent om zich in te zetten voor de belangen van de cliënt; en  
+
+b. relatiegeschenken, voor zover deze gezamenlijk op jaarbasis de waarde van € 100 niet overstijgen.     
 
 ### Hoofdstuk  9  
 
@@ -2584,9 +2599,9 @@ Deze paragraaf is niet van toepassing op:
 
 a. bemiddelaars in verzekeringen met zetel in een andere lidstaat;  
 
-b. financiëledienstverleners die voor de uitoefening van het bedrijf van kredietinstelling of verzekeraar een door de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben;  
+b. financiëledienstverleners die voor de uitoefening van het bedrijf van bank of verzekeraar een door de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben;  
 
-c. financiëledienstverleners met zetel in een andere lidstaat of een aangewezen staat die het bedrijf van financiële instelling, kredietinstelling of verzekeraar uitoefenen; en  
+c. financiëledienstverleners met zetel in een andere lidstaat of een aangewezen staat die het bedrijf van financiële instelling, bank of verzekeraar uitoefenen; en  
 
 d. herverzekeringsbemiddelaars met zetel in een andere lidstaat.    
 
@@ -2743,29 +2758,6 @@ j. de gegevens op jaarbasis per serie van beleggingsobjecten waarvan het beleggi
 
 Bepalingen ter uitvoering van de [artikelen 4:20, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:31, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
-### Artikel  110a  
-
-1.  Een elektronischgeldinstelling betaalt de nominale waarde van het uitgegeven elektronisch geld direct terug wanneer de houder van het elektronisch geld daarom verzoekt.   
-2.  De elektronischgeldinstelling vermeldt op opvallende wijze de terugbetalingsvoorwaarden, met inbegrip van vergoedingen die hiermee samenhangen, in de overeenkomst tussen de elektronischgeldinstelling en de houder van het elektronisch geld.   
-3.  Voorafgaand aan de totstandkoming van de overeenkomst stelt de elektronischgeldinstelling de houder van het elektronisch geld in kennis van de voorwaarden, bedoeld in het tweede lid.   
-4.  De houder is slechts een vergoeding verschuldigd ten behoeve van de terugbetaling indien dit in de overeenkomst is vermeld als bedoeld in het tweede lid, en uitsluitend: 
-
-a. indien wordt gevraagd om terugbetaling vóór de dag waarop de overeenkomst eindigt;  
-
-b. indien de overeenkomst voorziet in een dag waarop de overeenkomst eindigt en de houder van het elektronisch geld vóór die dag tot beëindiging van de overeenkomst overgaat; of  
-
-c. indien het verzoek tot terugbetaling meer dan een jaar na de dag van de beëindiging van de overeenkomst wordt gedaan.   Een dergelijke vergoeding staat in redelijke verhouding tot de kosten die de elektronischgeldinstelling feitelijk heeft gemaakt.   
-5.  Indien de houder van het elektronisch geld verzoekt om terugbetaling vóór de dag waarop de overeenkomst eindigt, kan hij verzoeken om de gedeeltelijke of volledige terugbetaling van het elektronisch geld.   
-6.  Indien de houder van het elektronisch geld verzoekt om terugbetaling binnen een jaar na de beëindiging van de overeenkomst: 
-
-a. betaalt de elektronischgeldinstelling hem de volledige waarde van het uitgegeven elektronisch geld terug; of  
-
-b. betaalt de elektronischgeldinstelling hem alle middelen terug waarom de houder van het elektronisch geld verzoekt, indien de elektronischgeldinstelling een of meer van de in artikel 6, lid 1, onder e) van de richtlijn elektronisch geld genoemde activiteiten uitoefent, en het voor het aangaan van de overeenkomst niet duidelijk was welk deel van de middelen zou worden gebruikt als elektronisch geld.     
-
-### Artikel  110b  
-
-Een elektronischgeldinstelling legt de terugbetalingsrechten van personen die een betaling met het door de elektronischgeldinstelling uitgegeven elektronisch geld aanvaarden, vast in een overeenkomst met die personen.  
-
 ### Afdeling  10.2  
 
 ####Krediet
@@ -2895,7 +2887,7 @@ b. de bewaring ten name van de beleggingsinstelling op een zodanige wijze geschi
 
 c. de bewaarder de in bewaring gegeven activa slechts afgeeft tegen ontvangst van een verklaring van de beheerder waaruit blijkt dat afgifte wordt verlangd in verband met de regelmatige uitoefening van de beheerfunctie;  
 
-d. de bewaarder volgens het recht van de lidstaat waar de beleggingsinstelling haar zetel heeft jegens de beleggingsinstelling en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook indien de bewaarder de bij hem in bewaring gegeven activa geheel of gedeeltelijk aan een derde heeft toevertrouwd;  
+d. de bewaarder volgens het recht van de staat waar de beleggingsinstelling haar zetel heeft jegens de beleggingsinstelling en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook indien de bewaarder de bij hem in bewaring gegeven activa geheel of gedeeltelijk aan een derde heeft toevertrouwd;  
 
 e. indien bewijzen van rechten van deelneming worden afgegeven, deze bewijzen door de bewaarder worden ondertekend;  
 
@@ -2915,6 +2907,11 @@ g. indien de overeenkomst de activa van een instelling voor collectieve beleggin
 
 ### Artikel  116a  
 
+1.  Onverminderd artikel 116 bevat de te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen een beheerder van een instelling voor collectieve belegging in effecten met zetel in een andere lidstaat en een bewaarder met zetel in een andere lidstaat, tevens de gegevens, genoemd in bijlage G.   
+2.  Verplichtingen tot vertrouwelijkheid die op de beheerder en de bewaarder bij de overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing zijn, beperken niet de toegang van de toezichthouders of de toezichthoudende instantie van de lidstaat van de zetel van de instelling voor collectieve belegging in effecten tot relevante informatie.   
+
+### Artikel  116b  
+
 De advertentie en mededeling op de website van de beheerder, bedoeld in [artikel 4:47, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevatten tenminste: 
 
 a. een beschrijving van de voorgestelde voorwaardenwijziging;  
@@ -2928,11 +2925,6 @@ d. de datum waarop de voorgestelde voorwaardenwijziging van kracht zal worden;
 e. een vermelding van het feit dat een ten opzichte van het voorstel ongewijzigde voorwaardenwijziging niet separaat zal worden bekendgemaakt, maar als onderdeel van de gewijzigde voorwaarden op de website beschikbaar zal zijn alsmede de datum waarop deze gewijzigde voorwaarden op de website beschikbaar zullen zijn;  
 
 f. indien van toepassing: de toepasselijkheid van [artikel 4:47, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) alsmede de datum waarop de in dat lid genoemde termijn aanvangt en eindigt.    
-
-### Artikel  116a*  
-
-1.  Onverminderd artikel 116 bevat de te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen een beheerder van een instelling voor collectieve belegging in effecten met zetel in een andere lidstaat en een bewaarder met zetel in een andere lidstaat, tevens de gegevens, genoemd in bijlage G.   
-2.  Verplichtingen tot vertrouwelijkheid die op de beheerder en de bewaarder bij de overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing zijn, beperken niet de toegang van de toezichthouders of de toezichthoudende instantie van de lidstaat van de zetel van de instelling voor collectieve belegging in effecten tot relevante informatie.   
 
 ### Artikel  117  
 
@@ -3329,7 +3321,7 @@ b. het potentiële totale maximumrisico in financiële derivaten dat de master-i
 1.  Het beheerde vermogen van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt tot ten hoogste tien procent belegd in effecten en geldmarktinstrumenten die zijn uitgegeven door dezelfde instelling. Een instelling voor collectieve belegging in effecten belegt niet meer dan twintig procent van het beheerde vermogen in deposito’s bij één bank.   
 2.  Het tegenpartijrisico van de instelling voor collectieve belegging in effecten bij een transactie in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, bedraagt niet meer dan: 
 
-a. tien procent van haar vermogen wanneer de tegenpartij een kredietinstelling is; of  
+a. tien procent van haar vermogen wanneer de tegenpartij een bank is; of  
 
 b. vijf procent van haar vermogen, in andere gevallen.     
 3.  De totale waarde van de effecten en de geldmarktinstrumenten die de instelling voor collectieve belegging in effecten houdt in uitgevende instellingen waarin zij per instelling voor meer dan vijf procent belegt, bedraagt niet meer dan veertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten. Deze begrenzing is niet van toepassing op deposito’s en transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, bij onderscheidenlijk met instellingen die aan prudentieel toezicht onderworpen zijn.   
@@ -3837,19 +3829,21 @@ Bepalingen ter uitvoering van de [artikelen 4:71a](../../../../../../../wet/wet/
 
 ### Artikel  149a  
 
-1.  Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt, voor het bemiddelen of adviseren inzake een betalingsbeschermer, complex product, hypothecair krediet of uitvaartverzekering, rechtstreeks of middellijk geen provisie die niet noodzakelijk is voor het verlenen van de betreffende dienst of deze mogelijk maakt.   
+1.  Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt, voor het bemiddelen of adviseren inzake een betalingsbeschermer, complex product, hypothecair krediet, schadeverzekering of uitvaartverzekering, rechtstreeks of middellijk geen provisie die niet noodzakelijk is voor het verlenen van de betreffende dienst of deze mogelijk maakt.   
 2.  Het eerste lid is niet van toepassing op: 
 
-a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt;  
+a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt, tenzij de hoogte van de provisies die de bemiddelaar of adviseur bij de cliënt of degene die namens hem optreedt in rekening brengt kennelijk onredelijk is gelet op de aard en reikwijdte van de dienstverlening;  
 
-b. afsluitprovisies of doorlopende provisies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien: 
+b. afsluitprovisies of doorlopende provisies ter zake van betalingsbeschermers, complexe producten, hypothecaire kredieten of uitvaartverzekeringen, die worden verschaft door of aan een derde of degene die namens hem optreedt, indien: 
 
 1°. de bemiddelaar of adviseur de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de betreffende dienst wordt verleend; en  
 
 2°. de verschaffing van de provisie de kwaliteit van de betreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de aanbieder, bemiddelaar of adviseur om zich in te zetten voor de belangen van de cliënt;    
 
-c. relatiegeschenken, voor zover deze gezamenlijk op jaarbasis de waarde van € 100 niet overstijgen.     
-3.  Voor de toepassing van het tweede lid, onderdeel b, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in artikel 1, mede verstaan een cliënt, niet zijnde een consument.   
+c. afsluitprovisies en doorlopende provisies ter zake van schadeverzekeringen die worden verschaft door of aan een derde of degene die namens hem optreedt, en de bemiddelaar of adviseur op verzoek van de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de desbetreffende dienst wordt verleend;  
+
+d. relatiegeschenken, voor zover deze gezamenlijk op jaarbasis de waarde van € 100 niet overstijgen.     
+3.  Voor de toepassing van het tweede lid, onderdelen b en c, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in artikel 1, mede verstaan een cliënt, niet zijnde een consument.   
 
 ### Artikel  149b  
 
@@ -3867,7 +3861,7 @@ b. de verschillende wijzen van zijn beloning, onderscheiden naar soort financiee
 1.  Een aanbieder betaalt geen afsluitprovisie die meer bedraagt dan de helft van de som van die afsluitprovisie en de totale doorlopende provisie terzake van de desbetreffende overeenkomst.   
 2.  Een aanbieder betaalt de doorlopende provisie evenredig uit gedurende ten minste tien jaar na totstandkoming van de desbetreffende overeenkomst. Indien de looptijd van de overeenkomst korter is dan tien jaar, betaalt de aanbieder de doorlopende provisie evenredig uit gedurende die looptijd.   
 3.  Het eerste en tweede lid zijn niet van toepassing op overeenkomsten inzake complexe producten voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.   
-4.  Dit artikel is niet van toepassing op overeenkomsten inzake een betalingsbeschermer, een hypothecair krediet of een uitvaartverzekering.   
+4.  Dit artikel is niet van toepassing op overeenkomsten inzake een betalingsbeschermer, een hypothecair krediet, een schadeverzekering of een uitvaartverzekering.   
 
 ### Artikel  151  
 
@@ -4275,7 +4269,8 @@ c. de consument adequaat schriftelijk informeren over de verschillen tussen de b
 
 ### Artikel  173a  
 
-De artikelen 58 en 149a zijn uitsluitend van toepassing op overeenkomsten aangegaan na de datum van de inwerkingtreding van dit besluit.  
+1.  De artikelen 58 en 149a zijn uitsluitend van toepassing op overeenkomsten die zijn aangegaan op of na 1 januari 2009, met uitzondering van overeenkomsten inzake schadeverzekeringen.   
+2.  De artikelen 86b en 149a, voorzover van toepassing op overeenkomsten inzake schadeverzekeringen, zijn uitsluitend van toepassing op overeenkomsten die aangegaan zijn op of na 1 januari 2012.   
 
 ### Artikel  174  
 
@@ -4990,6 +4985,126 @@ c. kennis van de toezichtwetgeving op het verzekeringsbedrijf; en
 
 d. globale kennis van andere nationale en Europese wetgeving voorzover deze gevolgen voor de verzekering of de verkoop daarvan heeft.    
 
+### 7  
+
+####Pensioenverzekeringen en premiepensioenvorderingen
+
+7.1. De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op: 
+
+a. grondige en actuele kennis met betrekking tot relevante wetgeving inzake pensioen en de directeur-grootaandeelhouder-pensioentoezegging, voor zover deze niet in eigen beheer wordt opgebouwd;  
+
+b. toegepaste begrippen en procedures inzake actuarieel rekenen;  
+
+c. toegepaste juridische kennis met betrekking tot rechtspersonen en ondernemingsstructuren;  
+
+d. grondige en actuele kennis met betrekking tot pensioenverzekeringen als onderdeel van het pakket arbeidsvoorwaarden van een werkgever;  
+
+e. toegepaste kennis met betrekking tot de relevante bedrijfseconomische vraagstukken (zoals groei, stabilisatie en krimp) en financiële verslaglegging van een onderneming;  
+
+f. toegepaste risicoanalyse van de financiële draagkracht van de desbetreffende werkgever;  
+
+g. toegepaste kennis met betrekking tot de wijze van investeren of beleggen van vermogen; en  
+
+h. kennis met betrekking tot de basisprincipes, hoofdlijnen en actuele ontwikkelingen van risicomanagement.   7.2. De personen zijn in staat om: 
+
+a. gesprekken te voeren in de volgende categorieën: gestructureerd interview, slecht nieuws- en adviesgesprek;  
+
+b. ICT-toepassingen, waaronder rekenmodellen, bij de advisering te gebruiken;  
+
+c. mondeling correct en begrijpelijk te communiceren op verschillende persoonlijke en organisatorische niveaus binnen de onderneming van de werkgever, waaronder haar directie, controllers, accountants, vertegenwoordigende overlegorganen en individuele werknemers;  
+
+d. schriftelijk correct en begrijpelijk te communiceren op verschillende persoonlijke en organisatorische niveaus binnen de onderneming van de werkgever, waaronder haar directie, controllers, accountants, vertegenwoordigende overlegorganen en individuele werknemers;  
+
+e. adviestrajecten te plannen, te sturen en tot een succes te brengen, waaronder wordt verstaan: 
+
+1°. het kwalitatief en kwantitatief vergelijken van offertes en lopende pensioenverzekeringen en premiepensioenvorderingen en het verklaren van verschillen hiertussen;  
+
+2°. het beoordelen van en adviseren over collectieve waardeoverdracht;  
+
+3°. het adviseren over winstdelingssystemen;  
+
+4°. het adviseren over excedentregelingen, ook als aanvulling op ondernemingspensioenfondsen en bedrijfstakpensioenfondsen in combinatie met verzekerde regelingen;  
+
+5°. het berekenen van lasten en aanspraken;  
+
+6°. het beheren van een lopend pensioencontract;  
+
+7°. het uitleggen van een individuele waardeoverdracht;  
+
+8°. het vertalen van alle over de werkgever ingewonnen informatie naar een passende pensioenverzekering en premiepensioenvordering;  
+
+9°. het geven van een passend advies aan een directeur-grootaandeelhouder over zijn pensioenverzekering en premiepensioenvordering;  
+
+10°. het interpreteren van effecten van toeslagmodellen;  
+
+11°. het vermogen om relevante wetgeving praktisch te kunnen toepassen;  
+
+12°. het begeleiden van contractverlenging, contractwijziging of contractbeëindiging van een pensioenverzekering en premiepensioenvordering; en  
+
+13°. het controleren van relevante documenten;    
+
+f. het risicomanagement met betrekking tot een pensioenverzekering en premiepensioenvordering in een aantal fasen op procesmatige wijze te plannen, uit te voeren en te beheren en daarbij op hoofdlijnen gebruik te maken van een risicomodel waarmee een risicoprofiel van een organisatie kan worden aangegeven;  
+
+g. mondeling op heldere wijze uitleg te geven over de doelstellingen en resultaten van een organisatie, welke risico’s vanuit de situatie van de pensioenverzekering en premiepensioenvordering een bedreiging voor de onderneming van de werkgever vormen of een kans bieden en op welke wijze deze risico’s op adequate wijze kunnen worden beheerd zodat de risico’s tot een voor de organisatie acceptabel risiconiveau kunnen worden ingevuld; en  
+
+h. met het oog op de pensioenverzekering en premiepensioenvordering de risicobereidheid en het risicoprofiel van de onderneming op heldere wijze in kaart te brengen en vast te leggen.   7.3. De personen demonstreren en bewijzen dat zij: 
+
+a. het adviestraject met betrekking tot pensioenregelingen voor werkgevers met ondernemingen van diverse omvang en complexiteit ten behoeve van diens werknemers zelfstandig, succesvol en correct uit kunnen voeren. In dit adviestraject kunnen zich in ieder geval de volgende zaken voordoen met betrekking tot natuurlijke of rechtspersonen: 
+
+1°. start en einde dienstbetrekking;  
+
+2°. overlijden;  
+
+3°. arbeidsongeschiktheid;  
+
+4°. echtscheiding of ontbinding van partnerregelingen;  
+
+5°. pensioendatum;  
+
+6°. verwachtingen ten aanzien van het pensioen;  
+
+7°. verlenging, wijziging, beëindiging of revisie van een pensioencontract;  
+
+8°. collectieve waardeoverdracht;  
+
+9°. prognosticeren van toekomstige pensioenlasten;  
+
+10°. versobering of uitbreiding van de pensioenregeling; en  
+
+11°. faillissement of mogelijkheid daartoe;    
+
+b. de directeur-grootaandeelhouder met betrekking tot zijn eigen pensioenverzekeringen en premiepensioenvorderingen zelfstandig, correct en passend kunnen adviseren in ten minste de volgende situaties: overlijden, arbeidsongeschiktheid, echtscheiding of ontbinding partnerregeling, pensioendatum, pensioenverwachtingen, faillissement of mogelijkheid daartoe;en  
+
+c. de directeur-grootaandeelhouder kunnen adviseren over de verschillend emogelijkheden om het voor hem benodigde pensioenkapitaal bijeen te brengen alsmede duidelijkheid kunnen verschaffen over het verschil tussen de reële en de fiscale waardering van de pensioenverplichting.   7.4. De personen zijn in staat: 
+
+a. te beschrijven welke invloed de verrichtingen van een financiële onderneming of financiëledienstverlener hebben op het maatschappelijk belang en de samenleving alsmede welke gevolgen deze hebben voor de reputatie van de financiële sector;  
+
+b. het verschil tussen zelfregulering en overheidsregulering uit te leggen en te benoemen en te omschrijven welke toezichthouders, instanties en middelen in de financiële sector moeten zorgen voor de handhaving en naleving van beide vormen van regulering;  
+
+c. de gevolgen van niet-naleving van de relevante wet- en regelgeving te kennen en hierover uitleg te geven;  
+
+d. een passend advies te geven, dat wil zeggen uit te leggen op welke wijze in lijn met de doelstellingen van de onderneming en met de keuzes die daaruit voortvloeien is gehandeld;  
+
+e. de begrippen integer gedrag en integere cultuur te omschrijven alsmede de wijze te benoemen waarop integer gedrag, in de zin van verantwoordelijkheid nemen en verantwoording afleggen, in de bedrijfscultuur van de financiële onderneming of financiëledienstverlener kan worden verankerd;  
+
+f. voorbeelden van integriteitsrisico’s te benoemen alsmede aan te tonen op welke wijze zij tot een aanvaardbaar niveau kunnen worden teruggebracht;  
+
+g. in de dagelijkse adviespraktijk – aan de hand van vier integriteitsassen – de vier belangen die een rol spelen in de financiële dienstverlening te herkennen en bespreekbaar te maken, te weten: 
+
+1°. het financiële belang van de medewerker (persoonlijke beloning, targets, commerciële doelstellingen, en dergelijke);  
+
+2°. het belang van de medewerker om compliant te zijn, waarbij wordt aangetoond dat de controlefunctie naar behoren wordt uitgevoerd;  
+
+3°. het belang van de medewerker om zijn professionele verantwoordelijkheid met betrekking tot integriteit te kennen en dienovereenkomstig te handelen;  
+
+4°. het belang van de medewerker en zijn organisatie om een vertrouwensrelatie te hebben met de klant;    
+
+h. dilemma’s op het gebied van ethisch en integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken alsmede de keuzes af te wegen en te verantwoorden;  
+
+i. om adviezen zodanig te communiceren dat deze aansluiten bij het opleidings-, kennis- en ervaringsniveau van de betrokken klant; en  
+
+j. fraudesignalen te onderkennen en hieraan op adequate wijze opvolging te geven.    
+
 ### Bijlage  C  
 
 ####behorend bij artikel 13 
@@ -5297,10 +5412,8 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 | De debetrentevoet of, indien van toepassing, de verschillende debetrentevoeten die van toepassing zijn op de kredietovereenkomst  | [%  – vast, of  – variabel (met de index of referentierente-voet die betrekking heeft op de aanvankelijke debetrentevoet)  – perioden]  |
 | Jaarlijks kostenpercentage (JKP)   *Dit zijn de totale kosten, uitgedrukt als jaarlijks percentage van het totale kredietbedrag.*    *Aan de hand van het JKP kunt u verschillende aanbiedingen onderling beter vergelijken.*   | [% Een representatief voorbeeld met vermelding van alle voor de berekening van het hier op te geven percentage gebruikte hypothesen]  |
 | Is het, met het oog op het verkrijgen van het krediet, in voorkomend geval op de geadverteerde voorwaarden, verplicht om  | --- |
-| – een verzekering ter waarborging van het krediet, of  | Ja/neen [zo ja, soort verzekering aangeven]  |
-| – een andere nevendienst af te nemen?  | Ja/neen [zo ja, soort nevendienst aangeven]  |
-|  *Indien de kosten van deze diensten de aanbieder van krediet niet bekend zijn, worden zij niet in het JKP opgenomen.*   | --- |
-| --- | --- |
+| – een verzekering ter waarborging van het krediet af te nemen, of  | Ja/neen [zo ja, soort verzekering aangeven]  |
+| – een andere overeenkomst voor nevendiensten te sluiten?   *Indien de kosten van deze diensten de aanbieder van krediet niet bekend zijn, worden zij niet in het JKP opgenomen.*   | Ja/neen [zo ja, soort nevendienst aangeven]  |
 |  *Met het krediet verbonden kosten*   | --- |
 | Indien van toepassing  Het aanhouden van een of meer rekeningen is vereist voor de boeking van zowel betalingen als kredietopnemingen  | --- |
 | Indien van toepassing  Bedrag van de kosten voor het gebruik van een specifiek betaalmiddel (bijvoorbeeld een kredietkaart)  | --- |

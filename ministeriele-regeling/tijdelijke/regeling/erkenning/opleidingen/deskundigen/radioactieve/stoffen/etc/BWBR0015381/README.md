@@ -22,7 +22,9 @@ Als opleiding op het in de richtlijnen bedoelde niveau 3 worden erkend de opleid
 
 – Leids Universitair Medisch Centrum;  
 
-– Technische Universiteit Delft: Reactor Instituut Delft.    
+– Technische Universiteit Delft: Reactor Instituut Delft;  
+
+– Technische Universiteit Eindhoven: School of Medical Physics and Enginering.    
 
 ### Artikel  2  
 
@@ -83,7 +85,11 @@ Als opleiding op het in de richtlijnen bedoelde niveau 3 worden erkend de opleid
 
 – Intop Zorgsector te Hilversum, Opleiding stralingsdeskundigheid niveau 5 A voor de opleidingen Medische Technologie A, B en C;  
 
-– Adviesbureau Voor Stralingsbescherming, Opleiding stralingsbescherming niveau 5A/M voor tandartsen en orthodontisten.     
+– Adviesbureau Voor Stralingsbescherming, Opleiding stralingsbescherming niveau 5A/M voor tandartsen en orthodontisten;  
+
+– Technische Universiteit Eindhoven: School of Medical Physics and Enginering;  
+
+– Rijksuniversiteit Groningen: opleiding stralingsdeskundigheid voor tandartsen en orthodontisten.     
 2.  Als opleiding op het in de richtlijnen bedoelde niveau 5B worden erkend de opleidingen van: 
 
 – Erasmus MC, Universitair Medisch Centrum Rotterdam;  
@@ -96,7 +102,9 @@ Als opleiding op het in de richtlijnen bedoelde niveau 3 worden erkend de opleid
 
 – Intop Zorgsector te Hilversum, Opleiding stralingsdeskundigheid niveau 5 B voor de opleidingen Medische Technologie A, B en C;  
 
-– Stichting Ziekenhuisgroep Twente te Almelo, deskundigheidsniveau 5B.     
+– Stichting Ziekenhuisgroep Twente te Almelo, deskundigheidsniveau 5B;  
+
+– Technische Universiteit Eindhoven: School of Medical Physics and Enginering.     
 
 ### Artikel  4  
 

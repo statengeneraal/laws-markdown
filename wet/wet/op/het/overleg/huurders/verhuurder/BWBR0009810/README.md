@@ -153,6 +153,11 @@ a. dat besluit afwijkt van een advies als bedoeld in artikel 5, eerste lid, en
 
 b. de verhuurder de beslissing tot afwijking van het advies niet heeft onderbouwd of de verhuurder naar het oordeel van de kantonrechter onder afweging van de betrokken belangen niet in redelijkheid tot afwijking van het advies had kunnen komen.     
 
+### Artikel  8a  
+
+1.  Wanneer de huurcommissie, bedoeld in [artikel 3a van de Uitvoeringswet huurprijzen woonruimte](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), op een verzoek van de huurdersorganisatie, bewonerscommissie, huurder of verhuurder uitspraak heeft gedaan, worden partijen geacht te zijn overeengekomen wat in die uitspraak is vastgesteld, tenzij een van hen binnen acht weken nadat aan hen afschrift van die uitspraak is verzonden, een beslissing van de rechter heeft gevorderd over het punt waarover de huurcommissie om een uitspraak was verzocht.   
+2.  Tegen een beslissing krachtens dit artikel is geen hogere voorziening toegelaten.   
+
 ### Hoofdstuk  4  
 
 ####Slotbepalingen

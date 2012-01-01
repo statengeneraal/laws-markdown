@@ -990,42 +990,6 @@ d. werkzaamheden waarbij er, naar het oordeel van het Uitvoeringsinstituut werkn
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag van loonsuppletie, bedoeld in artikel 65c, van inkomenssuppletie, bedoeld in artikel 65d, de termijn waarbinnen die aanvraag wordt ingediend, alsmede omtrent de rechtsgevolgen die aan overschrijding van die termijn zijn verbonden, en met betrekking tot de aanvraag en van toestemming als bedoeld in artikel 65g.  
 
-### Artikel  65i  
-
-1.  Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag aan de werkgever die met een verzekerde die recht heeft op een arbeidsongeschiktheidsverzekering en die een indicatiebeschikking heeft als bedoeld in het derde lid, een dienstbetrekking, niet zijnde een dienstbetrekking als bedoeld in [hoofdstuk 2](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) of [3 van de Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md), aangaat of is aangegaan na de inwerkingtreding van de [Wet stimulering arbeidsparticipatie](../../../../../../wet/wet/stimulering/arbeidsparticipatie/BWBR0025045/README.md), subsidie voor loonkosten verlenen indien de dienstbetrekking een overeengekomen duur van ten minste twaalf maanden heeft. De subsidie kan slechts worden verstrekt indien de verzekerde op de eerste dag van de dienstbetrekking de leeftijd van 50 jaar niet heeft bereikt.   
-2.  Indien de dienstbetrekking, bedoeld in het eerste lid, een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreft, verstrekt het Uitvoeringsinstituut werknemersverzekeringen slechts subsidie indien de derde, in wiens opdracht de verzekerde ter beschikking wordt gesteld om arbeid te verrichten, zich jegens de werkgever verplicht de verzekerde tenminste twaalf maanden arbeid te laten verrichten. Indien de uitzendovereenkomst binnen deze twaalf maanden wordt gevolgd door een dienstbetrekking bij de derde, voor ten minste de resterende duur van de twaalf maanden, kan het Uitvoeringsinstituut werknemersverzekeringen op aanvraag aan die derde loonkostensubsidie verstrekken voor maximaal de resterende duur van de twaalf maanden.   
-3.  Het Uitvoeringsinstituut werknemersverzekeringen kan van de verzekerde die recht heeft op een arbeidsongeschiktheidsuitkering vaststellen dat hij in aanmerking komt voor toepassing van het eerste lid, indien het Uitvoeringsinstituut werknemersverzekeringen van oordeel is dat met het oog op de inschakeling in de arbeid geen andere voorziening of instrument meer geschikt is. De vaststelling, bedoeld in de eerste zin, geschiedt bij indicatiebeschikking.   
-4.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de subsidie slechts: 
-
-a. indien naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen reële behoefte bestaat aan de arbeid die op grond van de dienstbetrekking, bedoeld in het eerste lid, zal worden verricht en die arbeid geen additionele arbeid betreft;  
-
-b. indien er naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen een reëel uitzicht is op continuering van de dienstbetrekking voor ten minste zes maanden na afloop van de periode waarover de loonkostensubsidie wordt verstrekt, dan wel op een op die dienstbetrekking aansluitende dienstbetrekking van dezelfde of grotere omvang voor ten minste zes maanden;  
-
-c. indien ten behoeve van de verzekerde die recht heeft op een arbeidsongeschiktheidsuitkering in de vijf jaar voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, niet eerder loonkostensubsidie op grond van dit artikel of het [Tijdelijk besluit brugbanen herbeoordeelden](../../../../../../AMvB/tijdelijk/besluit/brugbanen/herbeoordeelden/BWBR0023551/README.md) is verstrekt; en  
-
-d. indien de verzekerde die recht heeft op een arbeidsongeschiktheidsuitkering in de zes maanden voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, geen werkzaamheden op een proefplaats als bedoeld in artikel 65g of [artikel 76a van de WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) heeft verricht.     
-5.  Onder additionele arbeid als bedoeld in het vierde lid, onderdeel a, wordt verstaan primair op de arbeidsinschakeling gerichte arbeid of het naast of in aanvulling op reguliere arbeid verrichten van werkzaamheden die niet leiden tot verdringing op de arbeidsmarkt.   
-6.  De subsidie bedraagt ten hoogste 50% van het wettelijk minimumloon, bedoeld in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) of, indien het een werknemer jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van deze wet. Het bedrag, bedoeld in de eerste zin, wordt naar evenredigheid verminderd, indien de overeengekomen arbeidsduur korter is dan de normale arbeidsduur, bedoeld in [artikel 12 van laatstgenoemde wet](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
-7.  De subsidie kan voor maximaal twaalf maanden worden verstrekt.   
-8.  Indien de verzekerde, bedoeld in het eerste lid, ziekengeld ontvangt op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt het, naar werkdagen herleide, aan de werkgever verstrekte subsidiebedrag, bedoeld in het eerste lid, verminderd met dit ziekengeld.   
-9.  Indien de dienstbetrekking, bedoeld in het eerste lid, is aangegaan alvorens een aanvraag om subsidie voor loonkosten met betrekking tot die dienstbetrekking wordt ingediend, wordt de aanvraag om subsidie uiterlijk binnen drie maanden na de eerste dag van het verrichten van arbeid ingediend.   
-10.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot dit artikel, welke regels betrekking kunnen hebben op: 
-
-a. nadere subsidievoorwaarden; en  
-
-b. een subsidieplafond.     
-
-### Artikel  65j  
-
-1.  In afwijking van [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [artikel 30, eerste lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is artikel 65i van overeenkomstige toepassing met betrekking tot de persoon: 
-
-a. wiens arbeidsongeschiktheidsuitkering is ingetrokken als gevolg van de toepassing van artikel 34, vierde lid, alsmede de persoon op wie dat artikel, op grond van [artikel 2, tweede lid, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](../../../../../../AMvB/besluit/eenmalige/herbeoordelingen/arbeidsongeschiktheidswetten/BWBR0017207/README.md), niet van toepassing is en wiens arbeidsongeschiktheidsuitkering is ingetrokken;  
-
-b. die op de dag voorafgaand aan de eerste dag van de dienstbetrekking met betrekking waartoe loonkostensubsidie wordt aangevraagd, geen uitkering ontvangt op grond van een wet waaraan uitvoering wordt gegeven door het Uitvoeringsinstituut werknemersverzekeringen of de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md); en  
-
-c. die op de dag voorafgaand aan de eerste dag van de dienstbetrekking met betrekking waartoe loonkostensubsidie wordt aangevraagd geen tegemoetkoming ontvangt op grond van de [Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten](../../../../../../ministeriele-regeling/tijdelijke/regeling/inkomensgevolgen/herbeoordeelde/arbeidsongeschikten/BWBR0017646/README.md).     
-2.  De leeftijdsgrens, bedoeld in artikel 65i, eerste lid, is niet van toepassing op deze persoon   
-
 ### Artikel  65k  
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan de verzekerde, die recht heeft op een arbeidsongeschiktheidsuitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. [Artikel 10a, tweede tot en met tiende lid, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is van overeenkomstige toepassing.  

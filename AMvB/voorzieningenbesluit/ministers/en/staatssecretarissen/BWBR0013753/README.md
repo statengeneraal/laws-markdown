@@ -65,14 +65,15 @@ g. gas, licht, water;
 h. wassen en strijken;  
 
 i. schoonmaak.     
-3.  Een verstrekking als bedoeld in het eerste of tweede lid of een vergoeding als bedoeld in het tweede lid wordt in aanmerking genomen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
-4.  Onze Minister kan nadere regels stellen ter uitvoering van het eerste lid.   
+3.  In plaats van de in het eerste en tweede lid bedoelde voorziening kunnen bewindslieden die niet zijn verhuisd en van wie de woning zich op een afstand van ten minste 50 kilometer van het ministerie bevindt en die op het tijdstip van benoeming reeds een gemeubileerde verblijfsvoorziening binnen een afstand van 25 kilometer van het ministerie in eigendom hebben, aanspraak maken op een bedrag ter vergoeding voor verblijfkosten waarvan de hoogte afhankelijk is van de afstand van de woonplaats of deel van de woonplaats van de betrokkene tot het gebouw van het betreffende ministerie.   
+4.  De hoogte van het in het derde lid bedoelde bedrag wordt als volgt berekend: 50 kilometer: 40 * X 75 kilometer: 85 * X 150 kilometer en meer: 140 * X waarbij X gelijk is aan de het voor dienstreizen van het burgerlijk rijkspersoneel geldende bedrag voor vergoeding wegens verblijfskosten in verband met logies. De vergoeding, behorend bij afstanden, afgerond op hele kilometers, tussen de in bovenstaand schema genoemde afstanden, wordt berekend naar evenredigheid met het verschil tussen de in het schema aangegeven vergoedingen bij de naast hogere en naast lagere afstand. Het bedrag van de vergoeding wordt afgerond op hele euro’s.   
+5.  Een verstrekking als bedoeld in het eerste of tweede lid of een vergoeding als bedoeld in het tweede of derde lid wordt in aanmerking genomen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
 
 ### Artikel  4  
 
 1.  Ten behoeve van ministers en staatssecretarissen en hun gezinsleden worden passende beveiligingsmaatregelen getroffen.   
 2.  Indien dit om veiligheidsredenen noodzakelijk wordt geoordeeld, wordt aan ministers en staatssecretarissen een gemeubileerde verblijfsvoorziening ter beschikking gesteld.   
-3.  Artikel 3, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
+3.  Artikel 3, tweede en vijfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  5  
 
@@ -89,7 +90,7 @@ Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kost
 ### Artikel  7  
 
 1.  Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.   
-2.  De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,58 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.   
+2.  De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,60 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.   
 3.  Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.   
 4.  De prijs per kilometer wordt berekend aan de hand van de formule (((n / (l/12)) + o + f + g + h + p) / m) + i waarin: n = (((a-c)/1,19) + (b/1,19) + c) – (d/1,19) afschrijving over looptijd (inclusief BPM en exclusief BTW); o = ((d/1,19) x e) + ((n/2) x e) rente per jaar; p = ((k/1,19) x (m/100) x j) brandstofkosten per jaar; en: a = consumentenprijs inclusief accessoires af fabriek (inclusief BPM en BTW); b = consumentenprijs van accessoires achteraf en/of door derden (inclusief BTW); c = totale BPM; d = totale marktconforme restwaarde inclusief BTW en BPM; e = rentetarief in procenten; f = administratiekosten inclusief management fee per jaar doch exclusief BTW (of interne kosten ingeval niet wordt uitbesteed); g = houderschapsbelasting per jaar; h = het in het kader van het omslagstelsel door het Bureau Schade Afwikkeling vastgestelde bedrag; i = ROB exclusief BTW; j = brandstofverbruik in liters per 100 kilometer; k = tarief bij brandstofsoort inclusief BTW; l = looptijd in maanden; m = jaarkilometrage.   
 5.  De dienstauto wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). [Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) is in het tweede geval van overeenkomstige toepassing.   
@@ -112,13 +113,13 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 1.  Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de kosten van voorzieningen die voor hun eigen rekening komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.   
 2.  De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt 
 
-a. voor Onze Minister-President, Minister van Algemene Zaken € 639,99;  
+a. voor Onze Minister-President, Minister van Algemene Zaken € 657,27;  
 
-b. voor Onze Minister van Buitenlandse Zaken € 639,99;  
+b. voor Onze Minister van Buitenlandse Zaken € 657,27;  
 
-c. voor een andere Minister € 319,99;  
+c. voor een andere Minister € 328,63;  
 
-d. voor een Staatssecretaris € 266,31.     
+d. voor een Staatssecretaris € 273,50.     
 3.  De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
 4.  De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd voor zover de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar, daartoe aanleiding geeft.   
 
@@ -146,11 +147,13 @@ Wijzigt het Reisbesluit buitenland.
 
 Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
 
-a. wordt de vergoeding, bedoeld in artikel 8, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. wordt de vergoeding, bedoeld in artikel 8, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in [kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-b. blijven de artikelen 3, derde lid, 8, tweede lid, en 10, derde lid, buiten toepassing; en  
+b. blijven de artikelen 3, vijfde lid, 8, tweede lid, en 10, derde lid, buiten toepassing; en  
 
-c. worden de bedragen, genoemd in artikel 10, tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).    
+c. worden de bedragen, genoemd in artikel 10, tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in [kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+
+d. wordt de vergoeding, bedoeld in artikel 3, derde lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in [kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2010](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).    
 
 ### Artikel  16  
 

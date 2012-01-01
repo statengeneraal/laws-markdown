@@ -29,7 +29,7 @@ c. projectuitvoeringsbesluiten als bedoeld in artikel 2.10, eerste lid.
 
 ### Artikel  1.2  
 
-Bij algemene maatregel van bestuur op de voordracht van Onze Minister-President, Minister van Algemene Zaken, en Onze Minister of Onze Ministers wie het mede aangaat, kunnen categorieën van ruimtelijke en infrastructurele projecten worden toegevoegd aan bijlage I bij deze wet, kunnen ruimtelijke en infrastructurele projecten worden toegevoegd aan bijlage II bij deze wet en kunnen wettelijke voorschriften worden toegevoegd aan bijlage III bij deze wet.  
+Bij algemene maatregel van bestuur op de voordracht van Onze Minister-President, Minister van Algemene Zaken, in overeenstemming met Onze Minister of Onze Ministers wie het mede aangaat, kunnen categorieën van ruimtelijke en infrastructurele projecten worden toegevoegd aan bijlage I bij deze wet, kunnen ruimtelijke en infrastructurele projecten worden toegevoegd aan bijlage II bij deze wet en kunnen wettelijke voorschriften worden toegevoegd aan bijlage III bij deze wet.  
 
 ### Afdeling  2  
 
@@ -114,11 +114,12 @@ De artikelen 1.5 tot en met 1.9 zijn van overeenkomstige toepassing in hoger ber
 
 ### Artikel  1.11  
 
-Indien op grond van [artikel 7.2 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) een milieueffectrapport wordt opgesteld ten behoeve van een besluit, is: 
+1.  Indien op grond van [artikel 7.2 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) een milieueffectrapport wordt opgesteld ten behoeve van een besluit, is: 
 
 a. [artikel 7.23 van die wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor zover dat regels stelt over alternatieven voor de voorgenomen activiteit, niet van toepassing;  
 
-b. [artikel 7.32, vijfde lid, van die wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing.    
+b. [artikel 7.32, vijfde lid, van die wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing.     
+2.  Indien door degene die de betreffende activiteit wil ondernemen, ten behoeve van de voorbereiding van het besluit waarvoor op grond van [artikel 7.2 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) een milieueffectrapport wordt gemaakt, onderzoek is verricht naar de gevolgen voor het milieu die alternatieven van de voorgenomen activiteit kunnen hebben, bevat dat milieueffectrapport een schets van de voornaamste alternatieven die zijn onderzocht en van de mogelijke gevolgen voor het milieu daarvan, met een motivering van de keuze voor de in beschouwing genomen alternatieven.   
 
 ### Afdeling  4  
 
@@ -175,7 +176,7 @@ e. een raming van de kosten van uitvoering van het gebiedsontwikkelingsplan, een
 f. een overzicht van de tijdstippen waarop aan de gemeenteraad een rapportage zal worden uitgebracht over de voortgang en de uitvoering van de in de onderdelen a, b en c bedoelde projecten, maatregelen en werken, die op verzoek tevens wordt verstrekt aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.     
 3.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
 4.  Tegen een gebiedsontwikkelingsplan kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Het bestemmingsplan, het exploitatieplan en het gebiedsontwikkelingsplan worden voor de behandeling en uitspraak op het beroep aangemerkt als één besluit.   
-5.  Indien voor de uitvoering van maatregelen of werken als bedoeld in het tweede lid, onderdelen b en c, enig besluit is vereist, kunnen burgemeester en wethouders, met inachtneming van desbetreffende bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen, dat besluit nemen, mits het gebiedsontwikkelingsplan waarin de maatregel of werken zijn opgenomen onherroepelijk is geworden en voor zover nodig in afwijking van bij algemene maatregel van bestuur aangegeven bepalingen bij of krachtens: 
+5.  Indien voor de uitvoering van maatregelen of werken als bedoeld in het tweede lid, onderdelen b en c, enig besluit is vereist, kunnen burgemeester en wethouders, met inachtneming van desbetreffende bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie, dat besluit nemen, mits het gebiedsontwikkelingsplan waarin de maatregel of werken zijn opgenomen onherroepelijk is geworden en voor zover nodig in afwijking van bij algemene maatregel van bestuur aangegeven bepalingen bij of krachtens: 
 
 a. de [Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
 
@@ -189,7 +190,7 @@ e. de [Wet ammoniak en veehouderij](../../../../../wet/wet/ammoniak/en/veehouder
 
 f. de [Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
 
-g. de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+g. de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), met dien verstande dat die afwijking niet leidt tot een geluidsbelasting binnen een woning met gesloten ramen, die hoger is dan 33 dB;  
 
 h. de [Wet geurhinder en veehouderij](../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md);  
 
@@ -232,27 +233,31 @@ e. in het tiende lid in plaats van «gemeente» wordt gelezen: provincie.
 
 ### Artikel  2.4  
 
-1.  Bij algemene maatregel van bestuur op de voordracht van Onze Minister-President, Minister van Algemene Zaken, in overeenstemming met Onze Minister of Onze Ministers wie het mede aangaat, kan, met inachtneming van bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen, bij wege van experiment worden afgeweken van het bepaalde bij of krachtens: 
+1.  Bij algemene maatregel van bestuur op de voordracht van Onze Minister-President, Minister van Algemene Zaken, in overeenstemming met Onze Minister of Onze Ministers wie het mede aangaat, kan, met inachtneming van bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie, bij wege van experiment worden afgeweken van het bepaalde bij of krachtens: 
 
-a. de [Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+a. de [Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) voor zover dat geen gevolgen heeft voor de opbrengst van de energiebelasting, bedoeld in de [Wet belastingen op milieugrondslag](../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
 b. de Warmtewet;  
 
-c. de [Wet ammoniak en veehouderij](../../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);  
+c. de [Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md), met uitzondering van [hoofdstuk 5](../../../../../wet/waterwet/BWBR0025458/README.md), [artikel 6.5, aanhef en onder c](../../../../../wet/waterwet/BWBR0025458/README.md), juncto [paragraaf 2 van hoofdstuk 6](../../../../../wet/waterwet/BWBR0025458/README.md);  
 
-d. de [Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+d. de [Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
-e. de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+e. de [Wet ammoniak en veehouderij](../../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);  
 
-f. de [Wet geurhinder en veehouderij](../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md);  
+f. de [Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
 
-g. de [Wet inzake de luchtverontreiniging](../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md);  
+g. de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
 
-h. de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) met uitzondering van [artikel 5.2b](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [titel 5.2](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+h. de [Wet geurhinder en veehouderij](../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md);  
 
-i. de [Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of  
+i. de [Wet inzake de luchtverontreiniging](../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md);  
 
-j. de [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md).     
+j. de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) met uitzondering van [artikel 5.2b](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [titel 5.2](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+
+k. de [Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+
+l. de [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md).     
 2.  Er kan uitsluitend toepassing worden gegeven aan het eerste lid indien het experiment bijdraagt aan innovatieve ontwikkelingen en voldoende aannemelijk is dat uitvoering ervan bijdraagt aan het bestrijden van de economische crisis en aan de duurzaamheid.   
 3.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, wordt bepaald: 
 
@@ -339,7 +344,7 @@ a. indien voor de uitvoering van een project als bedoeld in het eerste lid een v
 
 b. op projecten als bedoeld in het eerste lid, die zijn aangewezen krachtens artikel 2.18;  
 
-c. indien het project ziet op de bouw van woningen op minder dan 100 meter van een hoofdweg als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md), gemeten vanaf de as van die weg, of van een weg die overeenkomstig een daartoe krachtens de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangewezen model is aangeduid als route voor het vervoer van gevaarlijke stoffen dat niet is toegestaan door de krachtens [artikel 3 van de Wet vervoer gevaarlijke stoffen](../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) aangewezen tunnels, gemeten vanaf de as van die weg;  
+c. indien het project ziet op de bouw van woningen op minder dan 100 meter van een hoofdweg als bedoeld in [artikel 1, eerste lid, van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md), gemeten vanaf de as van die weg, of van een weg die overeenkomstig een daartoe krachtens de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangewezen model is aangeduid als route voor het vervoer van gevaarlijke stoffen dat niet is toegestaan door de krachtens [artikel 3 van de Wet vervoer gevaarlijke stoffen](../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) aangewezen tunnels, gemeten vanaf de as van die weg;  
 
 d. indien het project ziet op de bouw van woningen binnen 30 meter van een krachtens [artikel 2 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) aangewezen hoofdspoorweg, gemeten vanaf het hart van het buitenste spoor;  
 
@@ -347,7 +352,7 @@ e. indien het project ziet op de bouw van woningen in of op rijkswateren of regi
 
 ### Artikel  2.10  
 
-1.  Op verzoek of ambtshalve kan de gemeenteraad ten aanzien van een project als bedoeld in artikel 2.9, eerste lid, een projectuitvoeringsbesluit vaststellen, waaronder begrepen de vaststelling dat deze afdeling op het project van toepassing is.   
+1.  Op verzoek of ambtshalve kan de gemeenteraad ten aanzien van een project als bedoeld in artikel 2.9, eerste lid, een projectuitvoeringsbesluit vaststellen, waaronder begrepen de vaststelling dat deze afdeling op het project van toepassing is. De gemeenteraad kan de bevoegdheid, bedoeld in dit artikel, delegeren aan burgemeester en wethouders.   
 2.  Op de ontwikkeling en verwezenlijking van een project als bedoeld in artikel 2.9, eerste lid, ten aanzien waarvan een projectuitvoeringsbesluit is vastgesteld, zijn de wettelijke voorschriften krachtens welke daarvoor een vergunning, ontheffing, vrijstelling of enig ander besluit is vereist, niet van toepassing, met uitzondering van de [Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [hoofdstuk V, paragraaf 3, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) en [artikel 6.5, onderdeel c, van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md).   
 3.  Het projectuitvoeringsbesluit strekt ter vervanging van de besluiten die vereist zouden zijn geweest krachtens de in het tweede lid bedoelde wettelijke voorschriften.   
 4.  Uit het projectuitvoeringsbesluit en de daarbij behorende toelichting blijkt welke gevolgen aan de uitvoering zijn verbonden en op welke wijze rekening is gehouden met de daarbij betrokken belangen, waaronder in elk geval de belangen ter bescherming waarvan de wettelijke voorschriften strekken die ingevolge het tweede lid niet van toepassing zijn en, voor zover van toepassing, [hoofdstuk V, paragraaf 1, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md).   
@@ -371,7 +376,7 @@ Indien sprake is van provinciale belangen, kunnen provinciale staten ten behoeve
 
 ### Artikel  2.11  
 
-Op de voorbereiding van de beslissing tot vaststelling van het projectuitvoeringsbesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
+Op de voorbereiding van de beslissing tot vaststelling van het projectuitvoeringsbesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat de kennisgeving, bedoeld in [artikel 3.12 van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tevens in de Staatscourant wordt geplaatst en voorts langs elektronische weg geschiedt en het ontwerpprojectuitvoeringsbesluit met de daarbij behorende stukken tevens langs elektronische weg beschikbaar worden gesteld. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
 
 ### Artikel  2.12  
 
@@ -431,6 +436,7 @@ b. een beschrijving van de voorgestelde wijze van verwezenlijking van de voorgen
 5°. de vermelding dat ten aanzien van de voor de verwezenlijking van het project noodzakelijke besluiten ingevolge artikel 2.21 toepassing zal worden gegeven aan de gemeentelijke coördinatieregeling, bedoeld in [paragraaf 3.6.1 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);    
 
 c. een samenvatting van de uitkomsten van het overeenkomstig artikel 2.20, eerste lid, gevoerde bestuurlijk overleg.     
+3.  Indien reeds een structuurvisie is vastgesteld, is het eerste lid niet van toepassing en wordt die structuurvisie voor zover nodig aangevuld met de in het tweede lid genoemde onderdelen. Artikel 2.20 is van overeenkomstige toepassing.   
 
 ### Artikel  2.19a  
 
@@ -447,7 +453,7 @@ d. in artikel 2.21 in plaats van «In afwijking van [artikel 3.30, eerste lid, v
 
 e. in artikel 2.22 in plaats van «een gemeentelijke verordening» wordt gelezen: een provinciale of gemeentelijke verordening;  
 
-f. in artikel 2.23, eerste lid, in plaats van « [artikel 3.10](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) » wordt gelezen « [artikel 3.27](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) », in plaats van «kan de gemeenteraad» wordt gelezen «kunnen provinciale staten» en in plaats van «gemeentebestuur» wordt gelezen «provinciebestuur».     
+f. in artikel 2.23, eerste lid, in plaats van « [artikel 3.10](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) » wordt gelezen « [artikel 3.27](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) », in plaats van «kan de gemeenteraad» wordt gelezen «kunnen provinciale staten» en in plaats van «gemeentebestuur» wordt gelezen: provinciebestuur.     
 
 ### Artikel  2.20  
 
@@ -741,7 +747,7 @@ E. M. H. Hirsch Ballin
 
 1.4. aanleg, wijziging of uitbreiding bij agrarische bedrijven van installaties voor co-vergisting van de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren en een of meer stoffen, genoemd in [bijlage Aa, onder IV, van de Uitvoeringsregeling Meststoffenwet](../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md)  
 
-1.5. ontwikkeling en verwezenlijking van overige ruimtelijke en infrastructurele projecten ten behoeve van het leveren van duurzame energie    
+1.5. ontwikkeling en verwezenlijking van overige ruimtelijke en infrastructurele projecten ten behoeve van het transport of het leveren van duurzame energie    
 
 ### 2  
 
@@ -759,9 +765,9 @@ E. M. H. Hirsch Ballin
 
 ####gebiedsontwikkeling en werken van lokaal of regionaal belang
 
-3.1. ontwikkeling en verwezenlijking van werken en gebieden krachtens [afdeling 3.1](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [afdeling 3.3 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) ten behoeve van de bouw van meer dan 20 woningen in een aaneengesloten gebied of de herstructurering van woon- en werkgebieden  
+3.1. ontwikkeling en verwezenlijking van werken en gebieden krachtens [afdeling 3.1 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan, het inpassingsplan of de beheersverordening wordt afgeweken, ten behoeve van de bouw van meer dan 11 woningen in een aaneengesloten gebied of de herstructurering van woon- en werkgebieden  
 
-3.2. projecten als bedoeld in artikel 2.9, eerste lid  
+3.2. projecten als bedoeld in artikel 2.9, eerste lid, waarvoor een projectuitvoeringsbesluit als bedoeld in artikel 2.10 is vastgesteld  
 
 3.3. projecten ten behoeve van de inpassing in het landschap, natuurontwikkeling of recreatiedoeleinden, waar deze samenhangen met projecten ten aanzien van de in deze bijlage bedoelde projecten ten aanzien van waterstaatswerken, spoorwegen, vaarwegen, wegen of luchthavens  
 
@@ -777,7 +783,7 @@ E. M. H. Hirsch Ballin
 
 ####hoofdwegen
 
-5.1. aanleg of wijziging van hoofdwegen als bedoeld in [artikel 2 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md)  
+5.1. aanleg of wijziging van hoofdwegen als bedoeld in [artikel 8 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md)  
 
 5.2. wegaanpassingsprojecten als bedoeld in [artikel 2 van de Spoedwet wegverbreding](../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md)  
 
@@ -807,7 +813,7 @@ E. M. H. Hirsch Ballin
 
 ####spoorwegen
 
-8.1. aanleg of wijziging van landelijke spoorwegen als bedoeld in [artikel 2 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md)  
+8.1. aanleg of wijziging van landelijke spoorwegen als bedoeld in [artikel 8 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md)  
 
 8.2. aanleg of wijziging van tramwegen of metrowegen    
 
@@ -815,7 +821,7 @@ E. M. H. Hirsch Ballin
 
 ####vaarwegen
 
-9.1. aanleg of wijziging van hoofdvaarwegen als bedoeld in [artikel 2 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md).    
+9.1. aanleg of wijziging van hoofdvaarwegen als bedoeld in [artikel 8 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md).    
 
 ### Bijlage  II  
 

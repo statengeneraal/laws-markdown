@@ -117,7 +117,7 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het emissiev
 
 ### Artikel  12  
 
-1.  Het afgeven van een verklaring als bedoeld in [artikel 16.12, eerste lid, onder c, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geschiedt door een verificateur die werkzaam is bij een verificatie-instelling die ter zake is geaccrediteerd door een accreditatie-instantie.   
+1.  Het afgeven van een verklaring als bedoeld in [artikel 16.12, eerste lid, onder c, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geschiedt door een verificateur die werkzaam is bij een verificatie-instelling die ter zake is geaccrediteerd door een accreditatie-instantie. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin.   
 2.  In afwijking van het eerste lid kan een dergelijke verklaring tevens worden afgegeven door een verificatie-instelling ten aanzien waarvan de Raad voor Accreditatie het vooronderzoek heeft afgerond, en ten aanzien waarvan het accreditatieproces nog niet is geëindigd.   
 
 ### Artikel  12a  

@@ -483,7 +483,7 @@ g. de organisatie van het kantoor waar de mediator werkzaam is.
 
 ### Artikel  34  
 
-1.  Rechtsbijstand overeenkomstig de bepalingen van deze wet wordt verleend aan hen wier inkomen per jaar € 21 800 per 1 januari 2011: € 24.600 of minder bedraagt, indien zij alleenstaand zijn, dan wel, indien zij met één of meer anderen een gemeenschappelijke huishouding voeren, ten hoogste € 31 000 per 1 januari 2011: € 34.700.   
+1.  Rechtsbijstand overeenkomstig de bepalingen van deze wet wordt verleend aan hen wier inkomen per jaar € 21 800 per 1 januari 2012: € 24.900 of minder bedraagt, indien zij alleenstaand zijn, dan wel, indien zij met één of meer anderen een gemeenschappelijke huishouding voeren, ten hoogste € 31 000 per 1 januari 2012: € 35.200.   
 2.  In afwijking van het bepaalde in het eerste lid wordt geen rechtsbijstand verleend, indien de rechtzoekende beschikt over een vermogen dat meer bedraagt dan het heffingvrij vermogen.   
 3.  Bij de vaststelling van het inkomen en vermogen van de rechtzoekende worden, behoudens het geval van onderling tegenstrijdige belangen, mede in aanmerking genomen het inkomen en vermogen van: 
 
@@ -745,7 +745,7 @@ h. [artikel 5 van de Wet tijdelijk huisverbod](../../../../../../wet/wet/tijdeli
 1.  Aan personen die zich krachtens het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) door een raadsman kunnen doen bijstaan, kan het bestuur een advocaat toevoegen.   
 2.  De eigen bijdrage is niet verschuldigd, indien een zaak eindigt zonder de toepassing van een straf of maatregel dan wel zonder toepassing van [artikel 9a Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). De rechtsbijstandverlener restitueert de eigen bijdrage aan de rechtzoekende, tenzij deze de eigen bijdrage nog niet heeft voldaan.   
 3.  Het bestuur is bevoegd geen eigen bijdrage op te leggen bij de toevoeging van een raadsman aan hen die zich anders dan als verdachte of veroordeelde krachtens het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) laten bijstaan.   
-4.  Ongeacht de draagkracht is rechtsbijstand aan een slachtoffer van een misdrijf tegen de zeden of een geweldsmisdrijf kosteloos, indien in de desbetreffende zaak vervolging is ingesteld en het slachtoffer overeenkomstig [artikel 3 van de Wet schadefonds geweldsmisdrijven](../../../../../../wet/wet/schadefonds/geweldsmisdrijven/BWBR0002979/README.md) in aanmerking komt voor een uitkering.   
+4.  Ongeacht de draagkracht is rechtsbijstand aan een slachtoffer van een misdrijf tegen de zeden of een geweldsmisdrijf onderscheidenlijk aan een nabestaande van een slachtoffer van een zodanig misdrijf, indien het slachtoffer als gevolg van dat misdrijf is overleden, kosteloos, indien in de desbetreffende zaak vervolging is ingesteld en het slachtoffer onderscheidenlijk de nabestaande overeenkomstig [artikel 3 van de Wet schadefonds geweldsmisdrijven](../../../../../../wet/wet/schadefonds/geweldsmisdrijven/BWBR0002979/README.md) in aanmerking komt voor een uitkering.   
 
 ### Artikel  44a  
 
@@ -759,8 +759,8 @@ h. [artikel 5 van de Wet tijdelijk huisverbod](../../../../../../wet/wet/tijdeli
 ### Artikel  46  
 
 1.  Indien beroep wordt ingesteld tegen een besluit van het bestuur is, in afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de rechtbank bevoegd binnen het rechtsgebied waarvan de vestiging van de raad, bedoeld in artikel 24, tweede lid, is gelegen.   
-2.  In afwijking van [artikel 8:41, derde lid, onder b en c, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt het griffierecht € 41 indien door een rechtzoekende beroep wordt ingesteld tegen een besluit van het bestuur.   
-3.  In afwijking van [artikel 51, tweede lid, onder a en b, van de Wet op de Raad van State](../../../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) bedraagt het griffierecht € 112 indien door een rechtzoekende hoger beroep wordt ingesteld.   
+2.  In afwijking van [artikel 8:41, derde lid, onder b en c, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt het griffierecht € 42 indien door een rechtzoekende beroep wordt ingesteld tegen een besluit van het bestuur.   
+3.  In afwijking van [artikel 51, tweede lid, onder a en b, van de Wet op de Raad van State](../../../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) bedraagt het griffierecht € 115 indien door een rechtzoekende hoger beroep wordt ingesteld.   
 4.  De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voorzover de consumentenprijsindex daartoe aanleiding geeft.   
 
 ### Hoofdstuk  VIII  

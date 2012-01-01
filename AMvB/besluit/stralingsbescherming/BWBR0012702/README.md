@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *aanwijsinstrument:* instrument voor tijd- of plaatsbepaling, dan wel voor het meten, bepalen of aangeven van andere grootheden, bestemd voor gebruik op of in de directe omgeving van personen; *activiteit:* activiteit als bedoeld in bijlage 2; *activiteitsconcentratie:* activiteitsconcentratie als bedoeld in bijlage 2; *afgedankte hoogactieve bron*: hoogactieve bron die niet langer wordt gebruikt, noch bestemd is om te worden gebruikt voor de handeling waarvoor een vergunning is verleend; *arbodienst:* een dienst als bedoeld in de [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md); *A-werknemer:* de blootgestelde werknemer, bedoeld in artikel 79, tweede lid; *besmetting:* de aanwezigheid van radioactieve stoffen in een materiaal, in of op een oppervlak, in een omgeving, of uitwendig op of inwendig in een persoon; *blootgestelde werknemer:* werknemer die gedurende zijn werktijd ten gevolge van handelingen een blootstelling ondergaat die kan leiden tot een dosis die hoger is dan een der in artikel 76 genoemde dosislimieten; *blootstelling:* het blootgesteld zijn aan ioniserende straling; *bron:* toestel dan wel radioactieve stof; *broncontainer*: insluiting van een bron die geen geïntegreerd onderdeel van die bron is, maar uitsluitend is bedoeld voor tijdelijke behuizing van die bron voor transport, verlading en dergelijke; *bronhouder*: behuizing van een ingekapselde bron, die ter plaatse van het uittredevenster van de bronhouder is voorzien van een voorziening, waarmee de uittredende stralenbundel kan worden onderbroken en waaruit de bron niet zonder hulpgereedschap kan worden verwijderd; *B-werknemer:* andere blootgestelde werknemer dan een A-werknemer; *bijlage:* bij dit besluit behorende bijlage; *deskundige:* een persoon, die met het oog op de betrokken taak als deskundige is ingeschreven in een register als bedoeld in artikel 7, tweede lid; *dosisbeperking:* dosiswaarde die bij de planning van handelingen wordt vastgesteld als plafondwaarde voor het optimaliseringsproces van de bescherming tegen ioniserende straling bij een handeling, taak of beroep of een categorie daarvan; *effectieve dosis:* effectieve dosis als bedoeld in bijlage 2; *effectieve volgdosis:* effectieve volgdosis als bedoeld in bijlage 2; *equivalente dosis:* equivalente dosis als bedoeld in bijlage 2; *externe werknemer:* A-werknemer die onder verantwoordelijkheid van een ondernemer die in een andere lidstaat van de Europese Unie is gevestigd, werkzaam is op Nederlands grondgebied in een zone als bedoeld in artikel 83, eerste lid, onder a, onderdeel 1°; *gezondheidsschade:* de geschatte kans op een kortere levensduur en verminderde kwaliteit van leven voor een persoon door de negatieve effecten van lichamelijke afwijkingen, kanker, en ernstige genetische effecten als gevolg van blootstelling aan ioniserende straling; *handeling:* het bereiden, voorhanden hebben, toepassen of zich ontdoen van een kunstmatige bron of van een natuurlijke bron, voor zover deze natuurlijke bron is of wordt bewerkt met het oog op zijn radioactieve eigenschappen dan wel het gebruiken of voorhanden hebben van een toestel, uitgezonderd bij een interventie, een ongeval of een radiologische noodsituatie; *hoogactieve bron*: ingekapselde bron die een radionuclide bevat waarvan de activiteit op het tijdstip waarop de bron is gefabriceerd, of indien dit niet bekend is, voor het eerst op de markt wordt gebracht, gelijk is aan of hoger is dan het desbetreffende activiteitsniveau in bijlage 5, zolang de activiteit van dat radionuclide niet lager is dan het activiteitsniveau dat voor dat nuclide is opgenomen in bijlage 1, tabel 1; *ingekapselde bron:* radioactieve stoffen die zijn ingebed in of gehecht aan vast dragermateriaal of zijn omgeven door een omhulling van materiaal met dien verstande dat hetzij het dragermateriaal hetzij de omhulling voldoende weerstand biedt om onder normale gebruiksomstandigheden elke verspreiding van radioactieve stoffen te voorkomen; *inspecteur:* als zodanig bij besluit van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaar; *kunstmatige bron:* bron, niet zijnde een natuurlijke bron en niet zijnde een toestel; *leverancier*: natuurlijke of rechtspersoon die een hoogactieve bron levert of ter beschikking stelt; *lid van de bevolking:* een persoon uit de bevolking binnen of buiten een locatie, niet zijnde een werknemer gedurende zijn werktijd of een persoon die een radiologische verrichting ondergaat; *locatie:* inrichting als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of plaats, waar een handeling of werkzaamheid wordt verricht; *lozing:* lozing in de bodem, in de lucht, in het openbare riool of in het oppervlaktewater; *lozing in de bodem:* het definitief in de bodem brengen of doen brengen teneinde deze aldaar te laten, van vloeibare of in water opgeloste radioactieve stoffen dan wel van in een waterstroom meegevoerde deeltjes van radioactieve stoffen, of het op de bodem brengen van deze stoffen indien daarbij de vloeistof voor een deel in de bodem treedt, met uitzondering van meststoffen in de zin van de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md); *lozing in het openbare riool:* het in het openbare riool ontsnappen of laten ontsnappen van vloeibare of in water opgeloste radioactieve stoffen dan wel van in een waterstroom meegevoerde deeltjes van radioactieve stoffen; *lozing in de lucht:* het in de lucht ontsnappen van of laten ontsnappen van gasvormige radioactieve stoffen dan wel van in een luchtstroom meegevoerde deeltjes van radioactieve stoffen; *lozing in het oppervlaktewater:* het in het oppervlaktewater ontsnappen of laten ontsnappen van vloeibare of in water opgeloste radioactieve stoffen dan wel van in een waterstroom meegevoerde deeltjes van radioactieve stoffen; *mijnbouw:* handelingen of werkzaamheden in het kader van het verrichten van verkenningsonderzoek, het opsporen of het winnen van delfstoffen of aardwarmte, dan wel het opslaan van stoffen; *natuurlijke bron:* kosmische straling of bron van natuurlijke oorsprong, niet zijnde een toestel; *omgevingsdosisequivalent:* omgevingsdosisequivalent als bedoeld in bijlage 2; *omgevingsdosisequivalenttempo:* omgevingsdosisequivalenttempo als bedoeld in bijlage 2; *ondernemer:* degene onder wiens verantwoordelijkheid een handeling of werkzaamheid wordt verricht; *Onze Ministers:* Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, en van Sociale Zaken en Werkgelegenheid; *open bron:* bron, niet zijnde een ingekapselde bron en niet zijnde een toestel; *oppervlaktebesmetting:* oppervlaktebesmetting als bedoeld in bijlage 2; *potentiële blootstelling:* blootstelling die niet met zekerheid zal optreden maar waarvan de waarschijnlijkheid van optreden en de grootte van de daarbij eventueel optredende blootstelling van tevoren kunnen worden geschat; *radioactieve afvalstof:* radioactieve stof die krachtens artikel 38 als zodanig is aangemerkt en die niet wordt geloosd; *radiologische verrichting:* medische handeling met gebruikmaking van ioniserende straling als bedoeld in artikel 53, eerste lid; *radiotoxiciteitsequivalent:* de activiteit die bij inname leidt tot een effectieve volgdosis van 1 sievert voor een volwassen referentiepersoon; *bedrijfstakdirecteur:* bevoegde bedrijfstakdirecteur van de Arbeidsinspectie; *schade:* nadelige gevolgen van ioniserende straling voor mensen, dieren, planten en goederen; *stralingsarts:* een persoon, die als stralingsarts is ingeschreven in het register, bedoeld in artikel 7, eerste lid; *werknemer:* persoon die, hetzij in dienst of onder gezag van een ondernemer, hetzij als zelfstandige, arbeid verricht; *werkzaamheid:* het bereiden, voorhanden hebben, toepassen van of zich ontdoen van een natuurlijke bron voor zover die niet wordt of is bewerkt wegens zijn radioactieve eigenschappen, uitgezonderd bij een interventie, een ongeval of een radiologische noodsituatie; *wet:*[Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md).   
+1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *aanwijsinstrument:* instrument voor tijd- of plaatsbepaling, dan wel voor het meten, bepalen of aangeven van andere grootheden, bestemd voor gebruik op of in de directe omgeving van personen; *activiteit:* activiteit als bedoeld in bijlage 2; *activiteitsconcentratie:* activiteitsconcentratie als bedoeld in bijlage 2; *afgedankte hoogactieve bron*: hoogactieve bron die niet langer wordt gebruikt, noch bestemd is om te worden gebruikt voor de handeling waarvoor een vergunning is verleend; *arbodienst:* een dienst als bedoeld in de [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md); *A-werknemer:* de blootgestelde werknemer, bedoeld in artikel 79, tweede lid; *besmetting:* de aanwezigheid van radioactieve stoffen in een materiaal, in of op een oppervlak, in een omgeving, of uitwendig op of inwendig in een persoon; *blootgestelde werknemer:* werknemer die gedurende zijn werktijd ten gevolge van handelingen een blootstelling ondergaat die kan leiden tot een dosis die hoger is dan een der in artikel 76 genoemde dosislimieten; *blootstelling:* het blootgesteld zijn aan ioniserende straling; *bron:* toestel dan wel radioactieve stof; *broncontainer*: insluiting van een bron die geen geïntegreerd onderdeel van die bron is, maar uitsluitend is bedoeld voor tijdelijke behuizing van die bron voor transport, verlading en dergelijke; *bronhouder*: behuizing van een ingekapselde bron, die ter plaatse van het uittredevenster van de bronhouder is voorzien van een voorziening, waarmee de uittredende stralenbundel kan worden onderbroken en waaruit de bron niet zonder hulpgereedschap kan worden verwijderd; *B-werknemer:* andere blootgestelde werknemer dan een A-werknemer; *bijlage:* bij dit besluit behorende bijlage; *deskundige:* een persoon, die met het oog op de betrokken taak als deskundige is ingeschreven in een register als bedoeld in artikel 7, tweede lid; *dosisbeperking:* dosiswaarde die bij de planning van handelingen wordt vastgesteld als plafondwaarde voor het optimaliseringsproces van de bescherming tegen ioniserende straling bij een handeling, taak of beroep of een categorie daarvan; *effectieve dosis:* effectieve dosis als bedoeld in bijlage 2; *effectieve volgdosis:* effectieve volgdosis als bedoeld in bijlage 2; *equivalente dosis:* equivalente dosis als bedoeld in bijlage 2; *externe werknemer:* A-werknemer die onder verantwoordelijkheid van een ondernemer die in een andere lidstaat van de Europese Unie is gevestigd, werkzaam is op Nederlands grondgebied in een zone als bedoeld in artikel 83, eerste lid, onder a, onderdeel 1°; *gezondheidsschade:* de geschatte kans op een kortere levensduur en verminderde kwaliteit van leven voor een persoon door de negatieve effecten van lichamelijke afwijkingen, kanker, en ernstige genetische effecten als gevolg van blootstelling aan ioniserende straling; *handeling:* het bereiden, voorhanden hebben, toepassen of zich ontdoen van een kunstmatige bron of van een natuurlijke bron, voor zover deze natuurlijke bron is of wordt bewerkt met het oog op zijn radioactieve eigenschappen dan wel het gebruiken of voorhanden hebben van een toestel, uitgezonderd bij een interventie, een ongeval of een radiologische noodsituatie; *hoogactieve bron*: ingekapselde bron die een radionuclide bevat waarvan de activiteit op het tijdstip waarop de bron is gefabriceerd, of indien dit niet bekend is, voor het eerst op de markt wordt gebracht, gelijk is aan of hoger is dan het desbetreffende activiteitsniveau in bijlage 5, zolang de activiteit van dat radionuclide niet lager is dan het activiteitsniveau dat voor dat nuclide is opgenomen in bijlage 1, tabel 1; *ingekapselde bron:* radioactieve stoffen die zijn ingebed in of gehecht aan vast dragermateriaal of zijn omgeven door een omhulling van materiaal met dien verstande dat hetzij het dragermateriaal hetzij de omhulling voldoende weerstand biedt om onder normale gebruiksomstandigheden elke verspreiding van radioactieve stoffen te voorkomen; *inspecteur:* als zodanig bij besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaar; *kunstmatige bron:* bron, niet zijnde een natuurlijke bron en niet zijnde een toestel; *leverancier*: natuurlijke of rechtspersoon die een hoogactieve bron levert of ter beschikking stelt; *lid van de bevolking:* een persoon uit de bevolking binnen of buiten een locatie, niet zijnde een werknemer gedurende zijn werktijd of een persoon die een radiologische verrichting ondergaat; *locatie:* inrichting als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of plaats, waar een handeling of werkzaamheid wordt verricht; *lozing:* lozing in de bodem, in de lucht, in het openbare riool of in het oppervlaktewater; *lozing in de bodem:* het definitief in de bodem brengen of doen brengen teneinde deze aldaar te laten, van vloeibare of in water opgeloste radioactieve stoffen dan wel van in een waterstroom meegevoerde deeltjes van radioactieve stoffen, of het op de bodem brengen van deze stoffen indien daarbij de vloeistof voor een deel in de bodem treedt, met uitzondering van meststoffen in de zin van de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md); *lozing in het openbare riool:* het in het openbare riool ontsnappen of laten ontsnappen van vloeibare of in water opgeloste radioactieve stoffen dan wel van in een waterstroom meegevoerde deeltjes van radioactieve stoffen; *lozing in de lucht:* het in de lucht ontsnappen van of laten ontsnappen van gasvormige radioactieve stoffen dan wel van in een luchtstroom meegevoerde deeltjes van radioactieve stoffen; *lozing in het oppervlaktewater:* het in het oppervlaktewater ontsnappen of laten ontsnappen van vloeibare of in water opgeloste radioactieve stoffen dan wel van in een waterstroom meegevoerde deeltjes van radioactieve stoffen; *mijnbouw:* handelingen of werkzaamheden in het kader van het verrichten van verkenningsonderzoek, het opsporen of het winnen van delfstoffen of aardwarmte, dan wel het opslaan van stoffen; *natuurlijke bron:* kosmische straling of bron van natuurlijke oorsprong, niet zijnde een toestel; *omgevingsdosisequivalent:* omgevingsdosisequivalent als bedoeld in bijlage 2; *omgevingsdosisequivalenttempo:* omgevingsdosisequivalenttempo als bedoeld in bijlage 2; *ondernemer:* degene onder wiens verantwoordelijkheid een handeling of werkzaamheid wordt verricht; *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie; *Onze Ministers:* Onze Ministers van Economische Zaken, Landbouw en Innovatie, en van Sociale Zaken en Werkgelegenheid; *open bron:* bron, niet zijnde een ingekapselde bron en niet zijnde een toestel; *oppervlaktebesmetting:* oppervlaktebesmetting als bedoeld in bijlage 2; *potentiële blootstelling:* blootstelling die niet met zekerheid zal optreden maar waarvan de waarschijnlijkheid van optreden en de grootte van de daarbij eventueel optredende blootstelling van tevoren kunnen worden geschat; *radioactieve afvalstof:* radioactieve stof die krachtens artikel 38 als zodanig is aangemerkt en die niet wordt geloosd; *radiologische verrichting:* medische handeling met gebruikmaking van ioniserende straling als bedoeld in artikel 53, eerste lid; *radiotoxiciteitsequivalent:* de activiteit die bij inname leidt tot een effectieve volgdosis van 1 sievert voor een volwassen referentiepersoon; *bedrijfstakdirecteur:* bevoegde bedrijfstakdirecteur van de Arbeidsinspectie; *schade:* nadelige gevolgen van ioniserende straling voor mensen, dieren, planten en goederen; *stralingsarts:* een persoon, die als stralingsarts is ingeschreven in het register, bedoeld in artikel 7, eerste lid; *werknemer:* persoon die, hetzij in dienst of onder gezag van een ondernemer, hetzij als zelfstandige, arbeid verricht; *werkzaamheid:* het bereiden, voorhanden hebben, toepassen van of zich ontdoen van een natuurlijke bron voor zover die niet wordt of is bewerkt wegens zijn radioactieve eigenschappen, uitgezonderd bij een interventie, een ongeval of een radiologische noodsituatie; *wet:*[Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md).   
 2.  In dit besluit en de daarop berustende bepalingen wordt onder «voorhanden hebben» mede verstaan: het vervaardigen, bewerken,hanteren en opslaan, met uitzondering van opslag in verband met vervoer.   
 3.  Met betrekking tot dit besluit en de daarop berustende bepalingen worden bij de bepaling van wat «redelijkerwijs mogelijk» is de economische en sociale factoren in aanmerking genomen. Daarnaast wordt ingeval van blootstelling in aanmerking genomen de mate waarin een blootstelling en de kans van optreden van die blootstelling kunnen worden beperkt.   
 
@@ -49,13 +49,13 @@ j. blootstelling aan radon en dochternucliden die vrijkomen bij het verbranden o
 ### Artikel  3  
 
 1.  De bepaling van de omgevingsdosisequivalenten, de equivalente en de effectieve doses geschiedt op de wijze, vermeld in de bijlagen 2, 3 en 4.   
-2.  Bij ministeriële regeling kunnen regels worden gesteld voor methoden van bepaling van de doses, bedoeld in het eerste lid, die gelijkwaardig zijn aan die bedoeld in het eerste lid en in plaats daarvan kunnen worden toegepast.   
-3.  Bij regeling van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kunnen: 
+2.  Bij regeling van Onze Minister kunnen regels worden gesteld voor methoden van bepaling van de doses, bedoeld in het eerste lid, die gelijkwaardig zijn aan die bedoeld in het eerste lid en in plaats daarvan kunnen worden toegepast.   
+3.  Bij regeling van Onze Minister kunnen: 
 
 a. regels worden gesteld voor de bepaling van de in het eerste lid bedoelde doses;  
 
 b. methoden worden aangewezen voor de wijze waarop deze doses worden getoetst aan de in dit besluit genoemde doses.     
-4.  Bij ministeriële regeling kunnen regels worden gesteld voor de meetmethoden van activiteit, activiteitsconcentratie of oppervlaktebesmetting.   
+4.  Bij regeling van Onze Minister kunnen regels worden gesteld voor de meetmethoden van activiteit, activiteitsconcentratie of oppervlaktebesmetting.   
 5.  Ten behoeve van de bepaling van doses worden alle effectieve of equivalente doses gesommeerd die een persoon ontvangt ten gevolge van handelingen en werkzaamheden, voor zover geregeld bij of krachtens dit besluit, met uitzondering van een radiologische verrichting, bij of krachtens het [Besluit kerninstallaties, splijtstoffen en ertsen](../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) en bij of krachtens het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md).   
 6.  Ten behoeve van de toetsing aan de in bijlage 1, tabel 1 en tabel 2, vermelde waarden worden alle activiteiten die zich op enig moment binnen een locatie bevinden gewogen en gesommeerd voor zover geregeld bij of krachtens dit besluit, bij of krachtens het [Besluit kerninstallaties, splijtstoffen en ertsen](../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) en bij of krachtens het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md).   
 7.  In afwijking van het zesde lid worden de activiteiten of activiteitsconcentraties in natuurlijke bronnen niet gesommeerd met de activiteiten of activiteitsconcentraties in kunstmatige bronnen.   
@@ -66,8 +66,8 @@ b. methoden worden aangewezen voor de wijze waarop deze doses worden getoetst aa
 
 ### Artikel  4  
 
-1.  Een handeling is slechts toegestaan indien zij door Onze Ministers is gerechtvaardigd, dan wel behoort tot een categorie van handelingen die door Onze Ministers is gerechtvaardigd. Onze Ministers rechtvaardigen een handeling of een categorie van handelingen slechts indien de economische, sociale en andere voordelen van de betrokken handeling of categorie van handelingen opwegen tegen de gezondheidsschade die hierdoor kan worden toegebracht.   
-2.  Bij ministeriële regeling worden regels gesteld met betrekking tot de bekendmaking van: 
+1.  Een handeling is slechts toegestaan indien zij door Onze Minister is gerechtvaardigd, dan wel behoort tot een categorie van handelingen die door Onze Minister is gerechtvaardigd. Onze Minister rechtvaardigt een handeling of een categorie van handelingen slechts indien de economische, sociale en andere voordelen van de betrokken handeling of categorie van handelingen opwegen tegen de gezondheidsschade die hierdoor kan worden toegebracht.   
+2.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de bekendmaking van: 
 
 a. welke handelingen of categorieën daarvan overeenkomstig het eerste lid zijn gerechtvaardigd, en  
 
@@ -76,7 +76,8 @@ b. welke handelingen of categorieën daarvan overeenkomstig het eerste lid niet 
 4.  Indien een vergunning wordt aangevraagd of een melding wordt gedaan voor een handeling die als gerechtvaardigd is bekendgemaakt, wordt in de melding of de vergunningaanvraag verwezen naar die bekendmaking.   
 5.  Indien een vergunning wordt aangevraagd of een melding wordt gedaan voor een handeling die niet of als niet-gerechtvaardigd is bekendgemaakt, omvat de vergunningsaanvraag, onderscheidenlijk de melding tevens een verzoek om rechtvaardiging van die handeling. De vergunningsaanvraag of de melding bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.   
 6.  Dit artikel is niet van toepassing op de rechtvaardiging, bedoeld in de artikelen 55, 56 en 57.   
-7.  Naast de handelingen of categorieën van handelingen die door Onze Ministers volgens het eerste lid zijn gerechtvaardigd, kan Onze Minister van Defensie, met het oog op het belang dat de krijgsmacht dient, een andere handeling of categorie van handelingen rechtvaardigen. Deze handeling of categorie van handelingen wordt door Onze Minister van Defensie bekendgemaakt op een bij regeling van deze Minister bepaalde wijze.   
+7.  Naast de handelingen of categorieën van handelingen die door Onze Minister volgens het eerste lid zijn gerechtvaardigd, kan Onze Minister van Defensie, met het oog op het belang dat de krijgsmacht dient, een andere handeling of categorie van handelingen rechtvaardigen. Deze handeling of categorie van handelingen wordt door Onze Minister van Defensie bekendgemaakt op een bij regeling van deze Minister bepaalde wijze.   
+8.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op het verzoek om rechtvaardiging als bedoeld in het eerste en zevende lid.   
 
 ### Artikel  5  
 
@@ -88,7 +89,7 @@ b. welke handelingen of categorieën daarvan overeenkomstig het eerste lid niet 
 1.  Onverminderd artikel 48, zorgt de ondernemer ervoor dat plaatsen binnen een locatie waar handelingen worden verricht, zodanig zijn ingericht dat voor personen die zich daarbuiten bevinden, ten gevolge van de handelingen tezamen een dosisbeperking van 1 mSv effectieve dosis in een kalenderjaar wordt gehanteerd.   
 2.  Indien het redelijkerwijs niet mogelijk is met bouwkundige voorzieningen te voldoen aan de verplichting, bedoeld in het eerste lid, wordt deze verkregen door middel van organisatorische maatregelen.   
 3.  De ondernemer zorgt ervoor dat bij het verrichten van handelingen die overeenkomstig artikel 21 worden gemeld, voor personen op enig punt buiten de locatie ten gevolge van die handelingen tezamen een dosisbeperking van 10 µSv effectieve dosis in een kalenderjaar wordt gehanteerd.   
-4.  Bij ministeriële regeling kunnen andere dosisbeperkingen worden vastgesteld voor daarbij aangegeven categorieën van handelingen, taken of functies.   
+4.  Bij regeling van Onze Minister kunnen andere dosisbeperkingen worden vastgesteld voor daarbij aangegeven categorieën van handelingen, taken of functies.   
 
 ### Hoofdstuk  3  
 
@@ -103,11 +104,11 @@ b. welke handelingen of categorieën daarvan overeenkomstig het eerste lid niet 
 1.  De ingevolge dit besluit door een stralingsarts te verrichten taken worden slechts uitgevoerd door een persoon die als stralingsarts is ingeschreven in het door Onze Minister van Sociale Zaken en Werkgelegenheid aan te wijzen register en zijn taken uitvoert in overeenstemming met een persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdelen b of c, van die wet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) of de arbodienst.   
 2.  De ingevolge dit besluit door een deskundige te verrichten taken worden slechts uitgevoerd door een persoon die als deskundige voor de uitvoering van de betrokken taak is ingeschreven in een door Onze Ministers aan te wijzen register.   
 3.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden eisen vastgesteld met betrekking tot de kennis en bekwaamheden, waaraan moet worden voldaan om als stralingsarts in het register, bedoeld in het eerste lid, te worden ingeschreven.   
-4.  Bij ministeriële regeling worden eisen vastgesteld met betrekking tot vaardigheden en bekwaamheden, waaraan moet worden voldaan om als deskundige in een register als bedoeld in het tweede lid, te worden ingeschreven. De eisen kunnen verschillend worden vastgesteld voor de verschillende taken.   
+4.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden eisen vastgesteld met betrekking tot vaardigheden en bekwaamheden, waaraan moet worden voldaan om als deskundige in een register als bedoeld in het tweede lid, te worden ingeschreven. De eisen kunnen verschillend worden vastgesteld voor de verschillende taken.   
 5.  Een inschrijving in een register als bedoeld in het eerste en tweede lid, kan worden geweigerd of ingetrokken, indien niet of niet volledig voldaan is aan de bij of krachtens de [wet](../../../../wet/kernenergiewet/BWBR0002402/README.md) of dit besluit gestelde eisen.   
-6.  Bij ministeriële regeling worden regels gesteld voor: 
+6.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden regels gesteld voor: 
 
-a. de aanwijzing en het beheer van registers als bedoeld in het eerste en tweede lid;  
+a. de aanwijzing en het beheer van het register, bedoeld in het eerste lid;  
 
 b. de wijze van inschrijving;  
 
@@ -116,30 +117,42 @@ c. de gegevens en bescheiden die bij een aanvraag tot inschrijving worden verstr
 d. de vergoeding die ten hoogste voor de inschrijving is verschuldigd;  
 
 e. de gronden waarop en de gevallen waarin de inschrijving kan worden geweigerd of doorgehaald.     
-7.  Bij ministeriële regeling kunnen regels worden gesteld voor: 
+7.  Bij regeling van Onze Ministers worden regels gesteld voor: 
+
+a. de aanwijzing en het beheer van het register, bedoeld in het tweede lid;  
+
+b. de wijze van inschrijving;  
+
+c. de gegevens en bescheiden die bij een aanvraag tot inschrijving worden verstrekt;  
+
+d. de vergoeding die ten hoogste voor de inschrijving is verschuldigd;  
+
+e. de gronden waarop en de gevallen waarin de inschrijving kan worden geweigerd of doorgehaald.     
+8.  Bij regeling van Onze Ministers kunnen regels worden gesteld voor: 
 
 a. de aanwijzing van een instelling als bedoeld in [artikel 69a van de wet](../../../../wet/kernenergiewet/BWBR0002402/README.md);  
 
 b. de gronden waarop die instelling kan worden aangewezen of de aanwijzing kan worden gewijzigd of ingetrokken;  
 
 c. de gegevens en het verslag, bedoeld in [artikel 69b van de wet](../../../../wet/kernenergiewet/BWBR0002402/README.md), die de instelling aan Onze Ministers verstrekt en de wijze waarop die informatie wordt verstrekt.     
+9.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag tot inschrijving als bedoeld in het eerste en tweede lid.   
 
 ### Artikel  7a  
 
 ####Buitenlandse getuigschriften en kwalificaties van vakbekwaamheid
 
-1.  Onze Minister van Sociale Zaken en Werkgelegenheid of, indien sprake is van een krachtens [artikel 69a, eerste lid, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) aangewezen instelling, de aangewezen instelling, schrijft op aanvraag een persoon, die onderdaan is van een betrokken staat, bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), in het register, genoemd in artikel 7, eerste respectievelijk tweede lid, indien op grond van [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de stralingsarts respectievelijk deskundige, bedoeld in artikel 1.   
+1.  Onze Minister van Sociale Zaken en Werkgelegenheid of, indien sprake is van een krachtens [artikel 69a, eerste lid, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) aangewezen instelling, de aangewezen instelling, schrijft op aanvraag een persoon, die onderdaan is van een betrokken staat, bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), in het register, genoemd in artikel 7, eerste respectievelijk tweede lid, indien op grond van [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de stralingsarts respectievelijk deskundige, bedoeld in artikel 1. Artikel 7, negende lid, is van overeenkomstige toepassing op de aanvraag tot inschrijving als bedoeld in de eerste volzin.   
 2.  De krachtens het eerste lid ingeschreven persoon beheerst de Nederlandse taal op een zodanig niveau dat voorschriften en aanwijzingen op bij of krachtens de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) vereiste etiketten van bronnen, instrumenten, technieken, beveiligingsmiddelen of materialen, alsmede andere voor de toepassing van en de omgang met bronnen, instrumenten, technieken, beveiligingsmiddelen of materialen bij of krachtens de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) gestelde regels, begrepen en uitgevoerd kunnen worden.   
 
 ### Artikel  8  
 
-1.  Een dosimetrische dienst heeft tot taak het verstrekken van persoonlijke controlemiddelen aan de ondernemer ten behoeve van A- of B-werknemers en het, door het uitlezen van deze controlemiddelen, bepalen in welke mate de A- of B-werknemers aan ioniserende straling blootgesteld zijn geweest. Deze taak wordt slechts verricht door een dienst die als zodanig is erkend door Onze Minister van Sociale Zaken en Werkgelegenheid.   
+1.  Een dosimetrische dienst heeft tot taak het verstrekken van persoonlijke controlemiddelen aan de ondernemer ten behoeve van A- of B-werknemers en het, door het uitlezen van deze controlemiddelen, bepalen in welke mate de A- of B-werknemers aan ioniserende straling blootgesteld zijn geweest. Deze taak wordt slechts verricht door een dienst die als zodanig is erkend door Onze Minister van Sociale Zaken en Werkgelegenheid. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een erkenning als bedoeld in de tweede volzin.   
 2.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden eisen vastgesteld met betrekking tot de kwaliteit van de dienstverlening, de werkwijze en de deskundigheid van de dienst, waaraan moet worden voldaan om krachtens het eerste lid te kunnen worden erkend.   
 
 ### Artikel  9  
 
 1.  De ondernemer zorgt ervoor dat een handeling wordt uitgevoerd door of onder toezicht van een deskundige.   
-2.  Bij ministeriële regeling kan voor bepaalde handelingen een bepaald niveau van deskundigheid worden geëist.   
+2.  Bij regeling van Onze Ministers kan voor bepaalde handelingen een bepaald niveau van deskundigheid worden geëist.   
 3.  De bepalingen in dit besluit met betrekking tot de deskundigheid gelden niet voor handelingen die volgens dit besluit niet meldingsplichtig of vergunningplichtig zijn.   
 4.  De ondernemer legt de toedeling van bevoegdheden en verantwoordelijkheden met betrekking tot de bescherming tegen ioniserende straling schriftelijk vast.   
 
@@ -174,7 +187,7 @@ c. indien nodig, tot buitengebruikstelling van bronnen wordt overgegaan.
 a. ten minste een maal per jaar en  
 
 b. na elke gebeurtenis waarbij de bron of bronhouder beschadigd kan zijn.     
-4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de controle van de integriteit van hoogactieve bronnen.   
+4.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de controle van de integriteit van hoogactieve bronnen.   
 5.  De ondernemer zorgt er ten aanzien van een hoogactieve bron en haar toebehoren voor dat, door of onder toezicht van een deskundige: 
 
 a. wordt gecontroleerd of de bron aanwezig is op de plaats waar deze wordt toegepast of is opgeslagen: 
@@ -184,7 +197,7 @@ a. wordt gecontroleerd of de bron aanwezig is op de plaats waar deze wordt toege
 2°. een maal per jaar, indien de bron een keer of meer dan een keer per twee maanden wordt toegepast;    
 
 b. een maal per jaar wordt gecontroleerd of de bron en de bronhouder nog in goede staat zijn.     
-6.  Een ondernemer zendt een afgedankte hoogactieve bron, tenzij dit anders met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is overeengekomen, onmiddellijk naar: 
+6.  Een ondernemer zendt een afgedankte hoogactieve bron, tenzij dit anders met Onze Minister is overeengekomen, onmiddellijk naar: 
 
 a. de leverancier van de bron die bevoegd is de bron te ontvangen,  
 
@@ -195,7 +208,7 @@ c. een andere ondernemer die bevoegd is de bron te ontvangen.
 
 ### Artikel  12  
 
-1.  Bij ministeriële regeling worden ondernemers, soorten ondernemingen of locaties aangewezen, waarin een stralingsbeschermingseenheid, waarin tevens de deskundige werkzaam is, aanwezig is en worden regels gesteld voor de taken, bevoegdheden en werkwijze van een stralingsbeschermingseenheid.   
+1.  Bij regeling van Onze Minister worden ondernemers, soorten ondernemingen of locaties aangewezen, waarin een stralingsbeschermingseenheid, waarin tevens de deskundige werkzaam is, aanwezig is en worden regels gesteld voor de taken, bevoegdheden en werkwijze van een stralingsbeschermingseenheid.   
 2.  Indien een stralingsbeschermingseenheid op grond van het eerste lid is voorgeschreven, zorgt de ondernemer ervoor dat de stralingsbeschermingseenheid operationeel is en in ieder geval: 
 
 a. daarin voldoende deskundige personen werkzaam zijn;  
@@ -205,7 +218,7 @@ b. functioneel en organisatorisch gescheiden is van productie- en technische een
 c. aan hem adviezen verstrekt met betrekking tot de bescherming tegen ioniserende straling;  
 
 d. toestemming geeft voor een handeling.     
-3.  Onze Ministers kunnen toestaan dat een stralingsbeschermingseenheid als bedoeld in het eerste lid, voor verscheidene ondernemers taken verricht.   
+3.  Onze Minister kan toestaan dat een stralingsbeschermingseenheid als bedoeld in het eerste lid, voor verscheidene ondernemers taken verricht. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een beschikking als bedoeld in de eerste volzin.   
 
 ### Artikel  13  
 
@@ -317,7 +330,7 @@ d. tenzij dit redelijkerwijs niet kan worden gevergd, maatregelen worden getroff
 e. een toestel niet door onbevoegden in werking kan worden gesteld;  
 
 f. regelmatig van ieder toestel de goede werking met het oog op de bescherming tegen ioniserende straling wordt gecontroleerd;     
-2.  Onze Minister van Sociale Zaken en Werkgelegenheid kan nadere regels stellen met betrekking tot het bepaalde in dit artikel.   
+2.  Onze Minister kan nadere regels stellen met betrekking tot het bepaalde in dit artikel.   
 
 ### Artikel  19  
 
@@ -326,10 +339,10 @@ f. regelmatig van ieder toestel de goede werking met het oog op de bescherming t
 
 ### Artikel  20  
 
-1.  De ondernemer zorgt ervoor dat, in situaties waar ten gevolge van handelingen of werkzaamheden de in artikel 49 of 76 genoemde doses kunnen worden overschreden, op daarvoor geschikte plaatsen doelmatige en duidelijke waarschuwingsborden of -tekens en opschriften worden aangebracht.   
+1.  De ondernemer zorgt ervoor dat, in situaties waar ten gevolge van handelingen of werkzaamheden de in artikel 49 of  76 genoemde doses kunnen worden overschreden, op daarvoor geschikte plaatsen doelmatige en duidelijke waarschuwingsborden of -tekens en opschriften worden aangebracht.   
 2.  De ondernemer zorgt ervoor dat ruimten en plaatsen waar handelingen met open bronnen worden verricht, de inrichting daarvan of daarin gebruikte voorwerpen regelmatig volgens door hem schriftelijk vastgestelde procedures worden gecontroleerd op besmetting.   
 3.  De ondernemer zorgt ervoor dat wanneer open en ingekapselde bronnen niet worden gebruikt, deze, indien dit redelijkerwijs mogelijk is, worden opgeborgen in een daartoe geschikte bergplaats.   
-4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het model, de opschriften en de minimale grootte van de waarschuwingsborden of -tekens, bedoeld in het eerste lid, en waar en op welke wijze deze moeten worden aangebracht.   
+4.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld met betrekking tot het model, de opschriften en de minimale grootte van de waarschuwingsborden of -tekens, bedoeld in het eerste lid, en waar en op welke wijze deze moeten worden aangebracht.   
 
 ### Artikel  20a  
 
@@ -337,10 +350,10 @@ f. regelmatig van ieder toestel de goede werking met het oog op de bescherming t
 
 a. de aanduiding: NL,  
 
-b. gevolgd door een aan de fabrikant door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer toegekende vaste code,  
+b. gevolgd door een aan de fabrikant door Onze Minister toegekende vaste code,  
 
 c. gevolgd door een door de fabrikant te bepalen voor de bron onderscheidende code in Romeinse letters of Arabische cijfers.     
-2.  Een aanvraag om de toekenning van de in het eerste lid, onder b, bedoelde code wordt ingediend bij Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De aanvraag bevat de nummers van de krachtens de [artikelen 15, onder a](../../../../wet/kernenergiewet/BWBR0002402/README.md), of [29, eerste lid, van de wet](../../../../wet/kernenergiewet/BWBR0002402/README.md) aan de aanvrager verleende vergunningen.   
+2.  Een aanvraag om de toekenning van de in het eerste lid, onder b, bedoelde code wordt ingediend bij Onze Minister. De aanvraag bevat de nummers van de krachtens de [artikelen 15, onder a](../../../../wet/kernenergiewet/BWBR0002402/README.md), of [29, eerste lid, van de wet](../../../../wet/kernenergiewet/BWBR0002402/README.md) aan de aanvrager verleende vergunningen.   
 3.  Het eerste lid is niet van toepassing, indien de afmeting van de bron voor de in het eerste lid bedoelde handeling te klein is.   
 4.  De fabrikant graveert de in het eerste lid bedoelde code tevens in de bronhouder van de desbetreffende bron of stempelt die code op die bronhouder.   
 5.  Het vierde lid is niet van toepassing indien de afmeting van de bronhouder voor de in het eerste lid bedoelde handeling te klein is, of indien de bronhouder bedoeld is voor hergebruik als behuizing van een bron. In dat laatste geval brengt de fabrikant informatie aan over ten minste de aard van de hoogactieve bron op of aan de bronhouder.   
@@ -363,7 +376,7 @@ c. de in het eerste en vierde lid bedoelde code en de krachtens artikel 20, vier
 
 a. de aanduiding: NL,  
 
-b. gevolgd door een aan de leverancier door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer toegekende vaste code,  
+b. gevolgd door een aan de leverancier door Onze Minister toegekende vaste code,  
 
 c. gevolgd door een door de leverancier te bepalen voor de bron onderscheidende code in Romeinse letters of Arabische cijfers.     
 2.  Het eerste lid is niet van toepassing, indien: 
@@ -399,10 +412,10 @@ a. een borgtocht of een bankgarantie;
 
 b. het sluiten van een verzekeringsovereenkomst;  
 
-c. het deelnemen aan een daartoe ingesteld fonds dat naar het oordeel van Onze Ministers en van Onze Minister van Financiën voldoende waarborg biedt dat de in het eerste lid bedoelde kosten zijn gedekt;  
+c. het deelnemen aan een daartoe ingesteld fonds dat naar het oordeel van Onze Minister en van Onze Minister van Financiën voldoende waarborg biedt dat de in het eerste lid bedoelde kosten zijn gedekt;  
 
 d. het treffen van enige andere voorziening, waarbij de financiële zekerheid naar het oordeel van Onze Ministers en van Onze Minister van Financiën voldoende waarborg biedt dat de in het eerste lid bedoelde kosten zijn gedekt.     
-3.  Bij ministeriële regeling wordt een minimumbedrag vastgesteld waarvoor per volume-eenheid af te voeren bron, de daarbijbehorende bronhouder en de vaste afscherming financiële zekerheid wordt gesteld.   
+3.  Bij regeling van Onze Minister wordt een minimumbedrag vastgesteld waarvoor per volume-eenheid af te voeren bron, de daarbijbehorende bronhouder en de vaste afscherming financiële zekerheid wordt gesteld.   
 4.  De financiële zekerheid wordt gesteld ten behoeve van de Staat der Nederlanden.   
 
 ### Artikel  20e  
@@ -417,14 +430,14 @@ c. wordt afgegeven aan een krachtens artikel 37, achtste lid, daartoe aangewezen
 
 ### Artikel  20f  
 
-1.  De ondernemer verstrekt voordat hij een hoogactieve bron verwerft, aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer: 
+1.  De ondernemer verstrekt voordat hij een hoogactieve bron verwerft, aan Onze Minister: 
 
 a. informatie over het volume van de verworven bron, bronhouder en vaste afscherming van die bron;  
 
 b. schriftelijk bewijs dat de krachtens artikel 20d, eerste lid, vereiste financiële zekerheid is gesteld.     
 2.  Het eerste lid is niet van toepassing indien de daarin bedoelde gegevens reeds op grond van artikel 44, zevende lid, bij de aanvraag om een vergunning zijn verstrekt.   
-3.  De ondernemer doet van iedere wijziging met betrekking tot de gestelde financiële zekerheid uiterlijk vier weken na die wijziging schriftelijk mededeling aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
-4.  Bij ministeriële regeling kunnen nadere eisen worden gesteld met betrekking tot de te verstrekken gegevens.   
+3.  De ondernemer doet van iedere wijziging met betrekking tot de gestelde financiële zekerheid uiterlijk vier weken na die wijziging schriftelijk mededeling aan Onze Minister.   
+4.  Bij regeling van Onze Minister kunnen nadere eisen worden gesteld met betrekking tot de te verstrekken gegevens.   
 
 ### Hoofdstuk  4  
 
@@ -445,7 +458,7 @@ b. een elektronenstraalbuis voor visuele beeldweergave;
 
 c. een ander toestel dan bedoeld onder a of b met een maximale hoogspanning van niet meer dan 30 kV, dat onder normale bedrijfsomstandigheden op 0,1 meter afstand van enig bereikbare buitenzijde van het toestel geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 µSv per uur;  
 
-d. een ander toestel dan bedoeld onder a, b of c, dat onder normale bedrijfsomstandigheden op 0,1 meter afstand van enig bereikbare buitenzijde van het toestel geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 µSv per uur en dat behoort tot een type dat door Onze Ministers is goedgekeurd op grond van bij ministeriële regeling gestelde regels.     
+d. een ander toestel dan bedoeld onder a, b of c, dat onder normale bedrijfsomstandigheden op 0,1 meter afstand van enig bereikbare buitenzijde van het toestel geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 µSv per uur en dat behoort tot een type dat door Onze Minister is goedgekeurd op grond van bij regeling van Onze Minister gestelde regels.     
 
 ### Artikel  22  
 
@@ -457,7 +470,7 @@ Indien met een toestel geen handelingen meer worden verricht die zijn gemeld ove
 
 ### Artikel  23  
 
-1.  Het is verboden zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een handeling te verrichten met: 
+1.  Het is verboden zonder vergunning van Onze Minister een handeling te verrichten met: 
 
 a. een toestel voor: 
 
@@ -472,18 +485,18 @@ a. een toestel voor:
 b. een ander toestel dan bedoeld onder a met een maximale hoogspanning van 100 kV of meer;  
 
 c. een toestel dat deeltjes versnelt en ioniserende straling met een energie van meer dan 1 MeV kan uitzenden.     
-2.  Het is voorts verboden zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer onderzoeks- en ontwikkelingswerk te verrichten aan een toestel.   
+2.  Het is voorts verboden zonder vergunning van Onze Minister onderzoeks- en ontwikkelingswerk te verrichten aan een toestel.   
 3.  Het verbod, bedoeld in het eerste lid, geldt niet voor: 
 
 a. handelingen met elektronenmicroscopen;  
 
 b. het uitsluitend in opslag hebben van toestellen ten behoeve van de handel in deze toestellen;  
 
-c. een toestel dat wordt gebruikt voor onderwijsdoeleinden, dat onder normale bedrijfsomstandigheden op 0,1 meter afstand van enig bereikbare buitenzijde van het toestel geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 µSv per uur en dat behoort tot een type dat door Onze Ministers is goedgekeurd op grond van bij ministeriële regeling gestelde regels.     
+c. een toestel dat wordt gebruikt voor onderwijsdoeleinden, dat onder normale bedrijfsomstandigheden op 0,1 meter afstand van enig bereikbare buitenzijde van het toestel geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 µSv per uur en dat behoort tot een type dat door Onze Minister is goedgekeurd op grond van bij regeling van Onze Minister gestelde regels.     
 
 ### Artikel  24  
 
-Het is verboden zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer: 
+Het is verboden zonder vergunning van Onze Minister: 
 
 a. radioactieve stoffen toe te dienen aan personen en, voor zover het de bescherming van mensen tegen ioniserende straling betreft, aan dieren voor: 
 
@@ -503,7 +516,7 @@ c. met radioactieve stoffen handelingen te verrichten voor:
 
 ### Artikel  25  
 
-1.  Het is verboden zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een andere handeling dan bedoeld in artikel 24 of  37, niet zijnde een lozing, met een radioactieve stof te verrichten.   
+1.  Het is verboden zonder vergunning van Onze Minister een andere handeling dan bedoeld in artikel 24 of  37, niet zijnde een lozing, met een radioactieve stof te verrichten.   
 2.  Het verbod, bedoeld in het eerste lid en in artikel 24, onder c, geldt niet indien binnen een locatie: 
 
 a. de activiteit van de radionucliden in de betrokken radioactieve stof lager is dan de in bijlage 1, tabel 1, genoemde waarde, of  
@@ -511,19 +524,19 @@ a. de activiteit van de radionucliden in de betrokken radioactieve stof lager is
 b. de activiteitsconcentratie van die stof lager is dan de in bijlage 1, tabel 1, genoemde waarde.     
 3.  Indien een radioactieve stof meer soorten radionucliden bevat, wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd volgens de in bijlage 3 aangegeven methode. Aan het tweede lid, onder b, wordt voldaan indien de uitkomst van deze sommatie kleiner of gelijk aan 1 is.   
 4.  Indien binnen een locatie op enig moment meer handelingen plaatsvinden, worden de activiteiten van de radionucliden in de bij die handelingen betrokken radioactieve stoffen gewogen gesommeerd volgens de in bijlage 3 aangegeven methode. Aan het tweede lid, onder a, wordt voldaan indien de uitkomst van deze sommatie kleiner of gelijk aan 1 is.   
-5.  Onze Ministers kunnen bij ministeriële regeling handelingen met producten als bedoeld in artikel 24, onder b, aanwijzen, waarbij de aan deze producten toegevoegde radionucliden niet worden betrokken bij een sommatie als bedoeld in het derde lid.   
-6.  De verboden, bedoeld in het eerste lid en in de artikelen 23 en 24, gelden niet voor bij ministeriële regeling aangewezen handelingen die een beperkt risico van blootstelling van mensen tot gevolg hebben.   
-7.  Bij ministeriële regeling kunnen andere methoden worden aangewezen voor het bepalen en het toetsen van de schade in gevallen waarin de in het tweede lid bedoelde activiteitsconcentratie in combinatie met de in het tweede lid bedoelde activiteit geen juiste indicatie geeft van de schade die de bij de handeling betrokken radioactieve stoffen kunnen veroorzaken.   
-8.  Bij ministeriële regeling kan in afwijking van het tweede lid, het eerste lid van toepassing worden verklaard in geval er sprake is van een te hoog risico van blootstelling van werknemers en leden van de bevolking.   
+5.  Bij regeling van Onze Minister kunnen handelingen met producten als bedoeld in artikel 24, onder b, worden aangewezen, waarbij de aan deze producten toegevoegde radionucliden niet worden betrokken bij een sommatie als bedoeld in het derde lid.   
+6.  De verboden, bedoeld in het eerste lid en in de artikelen 23 en 24, gelden niet voor bij regeling van Onze Minister aangewezen handelingen die een beperkt risico van blootstelling van mensen tot gevolg hebben.   
+7.  Bij regeling van Onze Minister kunnen andere methoden worden aangewezen voor het bepalen en het toetsen van de schade in gevallen waarin de in het tweede lid bedoelde activiteitsconcentratie in combinatie met de in het tweede lid bedoelde activiteit geen juiste indicatie geeft van de schade die de bij de handeling betrokken radioactieve stoffen kunnen veroorzaken.   
+8.  Bij regeling van Onze Minister kan in afwijking van het tweede lid, het eerste lid van toepassing worden verklaard in geval er sprake is van een te hoog risico van blootstelling van werknemers en leden van de bevolking.   
 
 ### Artikel  26  
 
 1.  Het in artikel 25, eerste lid, gestelde verbod geldt tevens niet voor handelingen met een ingekapselde bron waarbij de in bijlage 1, tabel 1, genoemde waarden voor de activiteit en de activiteitsconcentratie worden overschreden, indien: 
 
-a. deze van een door Onze Ministers goedgekeurd type is, en  
+a. deze van een door Onze Minister goedgekeurd type is, en  
 
 b. deze onder normale bedrijfsomstandigheden op 0,1 meter van enige bereikbare buitenzijde daarvan geen hogere omgevingsdosisequivalent kan geven dan 1 µSv per uur.     
-2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot keuringen als bedoeld in het eerste lid, onder a, en voor de opslag en de verwijdering van ingekapselde bronnen als bedoeld in het eerste lid.   
+2.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot keuringen als bedoeld in het eerste lid, onder a, en voor de opslag en de verwijdering van ingekapselde bronnen als bedoeld in het eerste lid.   
 
 ### §  4.3  
 
@@ -547,7 +560,7 @@ b. uitsluitend H-3 in lichtcellen of Pm-147 in lichtgevende verf wordt, ondersch
 
 c. het aanwijsinstrument in totaal een lagere activiteit bevat dan 1 GBq H-3 of 10 MBq Pm-147;  
 
-d. het aanwijsinstrument voldoet aan in het belang van de bescherming tegen ioniserende straling bij ministeriële regeling gestelde voorschriften met betrekking tot de constructie;  
+d. het aanwijsinstrument voldoet aan in het belang van de bescherming tegen ioniserende straling bij regeling van Onze Minister gestelde voorschriften met betrekking tot de constructie;  
 
 e. geen herstel- of onderhoudswerkzaamheden worden verricht, waarbij een onderdeel van het aanwijsinstrument, waaraan voor verlichtingsdoeleinden H-3 in lichtcellen of Pm-147 in lichtgevende verf is toegevoegd, van zijn omhulsel wordt ontdaan; en  
 
@@ -563,7 +576,7 @@ b. uitsluitend H-3 in lichtcellen of Pm-147 in lichtgevende verf wordt, ondersch
 
 c. het aanwijsinstrument in totaal een lagere activiteit bevat dan 3 GBq H-3 of 30 MBq Pm-147, en  
 
-d. voldoet aan in het belang van de bescherming tegen ioniserende straling bij ministeriële regeling gestelde voorschriften met betrekking tot de constructie.     
+d. voldoet aan in het belang van de bescherming tegen ioniserende straling bij regeling van Onze Minister gestelde voorschriften met betrekking tot de constructie.     
 2.  Onze Minister van Defensie kan ontheffing verlenen van de in de artikelen 24, onder b, 25, eerste lid, en 27 gestelde verboden, indien het aanwijsinstrumenten betreft waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd en die in gebruik zijn dan wel bestemd zijn voor gebruik bij de krijgsmacht en die zijn bedoeld voor gebruik onder operationele omstandigheden.   
 
 ### Artikel  30  
@@ -571,19 +584,20 @@ d. voldoet aan in het belang van de bescherming tegen ioniserende straling bij m
 1.  De in de artikelen 25 en 27, onder b, gestelde verboden gelden niet voor het voorhanden hebben, toepassen of zich ontdoen van een aanwijsinstrument dat voor verlichtingsdoeleinden minder dan 56 kBq Ra-226+ of minder dan 0,93 GBq H-3 in lichtgevende verf bevat door detailhandelaren of particulieren, noch voor het herstellen of onderhouden van zodanige instrumenten door de ondernemer, voor zover die instrumenten voor het tijdstip waarop dit verbod in werking treedt, zijn vervaardigd en in Nederland in de handel zijn gebracht.   
 2.  De ondernemer zorgt ervoor dat na herstel- of onderhoudswerkzaamheden aan een aanwijsinstrument als bedoeld in het eerste lid: 
 
-a. een bij ministeriële regeling vast te stellen waarschuwingsteken voor ioniserende straling is aangebracht op een vanaf de buitenzijde van het instrument zichtbare plaats;  
+a. een bij regeling van Onze Minister vast te stellen waarschuwingsteken voor ioniserende straling is aangebracht op een vanaf de buitenzijde van het instrument zichtbare plaats;  
 
 b. het merkteken T 25 of Ra 1,5 onderscheidenlijk voor H-3 en Ra-226+ in lichtgevende verf, is aangebracht op een vanaf de buitenzijde van het instrument zichtbare plaats.     
 3.  Het in artikel 27, onder b, gestelde verbod geldt niet voor aanwijsinstrumenten, waaraan radioactieve nucliden zijn toegevoegd voor verlichtingsdoeleinden, indien dit aanwijsinstrument voorhanden is voor een tentoonstelling of de ondernemer zich ervan ontdoet na een tentoonstelling.   
-4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de voorschriften die kunnen worden verbonden aan een vergunning voor handelingen als bedoeld in het derde lid.   
+4.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de voorschriften die kunnen worden verbonden aan een vergunning voor handelingen als bedoeld in het derde lid.   
 
 ### Artikel  31  
 
 1.  De ondernemer controleert na het voor verlichtingsdoeleinden toevoegen van radioactieve stoffen aan aanwijsinstrumenten of deze aanwijsinstrumenten voldoen aan de bij en krachtens de artikelen 28 of 29 gestelde voorschriften.   
 2.  De ondernemer tekent de uitvoering van de in het eerste lid bedoelde controles en de resultaten daarvan aan in een daartoe bestemde administratie.   
-3.  Onze Ministers kunnen van de in het eerste en tweede lid gestelde verplichtingen ontheffing verlenen, indien de ondernemer ten genoegen van Onze Ministers aantoont dat de in het eerste en tweede lid bedoelde controles en administratie door een ander worden uitgevoerd.   
+3.  Onze Minister kan van de in het eerste en tweede lid gestelde verplichtingen ontheffing verlenen, indien de ondernemer ten genoegen van Onze Minister aantoont dat de in het eerste en tweede lid bedoelde controles en administratie door een ander worden uitgevoerd.   
 4.  De in het tweede en derde lid bedoelde administratie wordt ten minste vijf jaar bewaard.   
-5.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het bepaalde in het eerste, tweede en derde lid.   
+5.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot het bepaalde in het eerste, tweede en derde lid.   
+6.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een ontheffing als bedoeld in het derde lid.   
 
 ### Artikel  32  
 
@@ -613,7 +627,7 @@ Het is verboden buiten Nederland vervaardigde aanwijsinstrumenten, waaraan voor 
 
 ### Artikel  35  
 
-1.  Het is verboden zich zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ontdoen van radioactieve stoffen door middel van lozing in de lucht, in het openbare riool of in het oppervlaktewater.   
+1.  Het is verboden zich zonder vergunning van Onze Minister te ontdoen van radioactieve stoffen door middel van lozing in de lucht, in het openbare riool of in het oppervlaktewater.   
 2.  Dit verbod geldt niet indien: 
 
 a. bij lozing in de lucht, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid radioactieve stoffen bij het verlaten van de locatie via een lozingspunt lager is dan 1 radiotoxiciteitsequivalent voor inhalatie als bedoeld in bijlage 2;  
@@ -642,7 +656,7 @@ d. voorwerpen, stoffen en materialen die met radioactieve stoffen zijn besmet of
 
 ### Artikel  37  
 
-1.  Het is verboden zich zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ontdoen van radioactieve stoffen voor product- of materiaalhergebruik of van radioactieve afvalstoffen.   
+1.  Het is verboden zich zonder vergunning van Onze Minister te ontdoen van radioactieve stoffen voor product- of materiaalhergebruik of van radioactieve afvalstoffen.   
 2.  Het verbod geldt niet indien: 
 
 a. de activiteit van de radionucliden in de betrokken radioactieve stoffen in een kalenderjaar in totaal lager is dan de in bijlage 1, tabel 1, genoemde waarde, of  
@@ -656,13 +670,14 @@ a. gebruik, product- of materiaalhergebruik van radioactieve stoffen, of
 
 b. inzameling van radioactieve afvalstoffen.     
 6.  Het verbod geldt tevens niet voor afgifte aan een door Onze Ministers aangewezen instelling voor ontvangst van in bezit genomen radioactieve stoffen als bedoeld in [artikel 33, vierde lid, van de wet](../../../../wet/kernenergiewet/BWBR0002402/README.md).   
-7.  Het verbod geldt tevens niet voor het zich ontdoen van radioactieve afvalstoffen door afgifte aan een door Onze Ministers erkende ophaaldienst voor radioactieve afvalstoffen.   
-8.  Het verbod geldt tevens niet voor afgifte aan door Onze Ministers aangewezen instellingen voor de ontvangst van radioactieve afvalstoffen.   
+7.  Het verbod geldt tevens niet voor het zich ontdoen van radioactieve afvalstoffen door afgifte aan een door Onze Minister erkende ophaaldienst voor radioactieve afvalstoffen.   
+8.  Het verbod geldt tevens niet voor afgifte aan door Onze Minister aangewezen instellingen voor de ontvangst van radioactieve afvalstoffen.   
 9.  Het vierde tot en met achtste lid gelden alleen indien de ondernemer zich ervan heeft vergewist dat de ontvanger in het bezit is van een vergunning voor de desbetreffende handeling of anderszins gerechtigd is deze stoffen te ontvangen.   
+10.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een aanwijzing als bedoeld in het zesde en achtste lid en de aanvraag om een erkenning als bedoeld in het zevende lid.   
 
 ### Artikel  38  
 
-1.  Een radioactieve stof kan door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer of de ondernemer als radioactieve afvalstof worden aangemerkt, indien voor deze stof geen gebruik of product- of materiaalhergebruik is voorzien door Onze Minister of door de ondernemer en er geen sprake is van lozing van de stof.   
+1.  Een radioactieve stof kan door Onze Minister of de ondernemer als radioactieve afvalstof worden aangemerkt, indien voor deze stof geen gebruik of product- of materiaalhergebruik is voorzien door deze Minister of door de ondernemer en er geen sprake is van lozing van de stof.   
 2.  Een afvalstof wordt niet als radioactieve afvalstof aangemerkt, indien artikel 37, tweede lid, van toepassing is.   
 3.  Radioactieve afvalstoffen worden zo snel als redelijkerwijs mogelijk afgevoerd.   
 4.  De in het derde lid gestelde verplichting geldt niet indien de radioactieve afvalstoffen een fysische halveringstijd hebben van minder dan 100 dagen en maximaal 2 jaar worden opgeslagen in een daartoe geschikte ruimte met het oog op fysisch verval tot afvalstoffen als bedoeld in artikel 37, tweede lid.   
@@ -694,16 +709,8 @@ d. niet is aangetoond dat de krachtens artikel 20d, eerste lid, vereiste financi
 
 ### Artikel  40  
 
-1.  De melding, bedoeld in de artikelen 21 en 22, wordt beoordeeld door Onze Ministers, en 
-
-a. indien de in die artikelen bedoelde handelingen betrekking hebben op medische stralingstoepassingen, Onze Minister van Volksgezondheid, Welzijn en Sport;  
-
-b. indien de in die artikelen bedoelde handelingen betrekking hebben op mijnbouw, Onze Minister van Economische Zaken.   De ondernemer dient de melding in bij Onze Minister van Sociale Zaken en Werkgelegenheid.   
-2.  Bij regeling van Onze Ministers, en 
-
-a. indien het medische stralingstoepassingen betreft, Onze Minister van Volksgezondheid Welzijn en Sport;  
-
-b. indien het mijnbouw betreft, Onze Minister van Economische Zaken; kunnen nadere regels worden gesteld met betrekking tot de melding, bedoeld in het eerste lid     
+1.  De ondernemer doet de melding, bedoeld in de artikelen 21 en 22, bij Onze Minister.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de melding, bedoeld in het eerste lid.   
 
 ### Artikel  41  
 
@@ -721,8 +728,8 @@ e. de maximale effectieve dosis die een persoon in een kalenderjaar kan ontvange
 2.  De melding bevat voorts een beschrijving van het toestel waarmee de gemelde handeling wordt verricht.   
 3.  Indien de in het eerste lid, onder e, bedoelde dosis hoger is dan 10 µSv, bevat de melding tevens een beschrijving van de maatregelen ter voorkoming van en bescherming tegen schade in en buiten de locatie.   
 4.  Indien de handeling uitsluitend het in opslag hebben van een toestel betreft, worden slechts de in het eerste lid, onder a tot en met d, genoemde gegevens verstrekt en wordt vermeld welk soort toestel het betreft.   
-5.  Degene die de handeling meldt, is verplicht aan Onze Ministers kennis te geven van een na de melding opgetreden wijziging in een van de gegevens die bij de melding zijn vermeld.   
-6.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens die een melding bevat en tot de situaties waarin een nieuwe melding is vereist.   
+5.  Degene die de handeling meldt, is verplicht aan Onze Minister kennis te geven van een na de melding opgetreden wijziging in een van de gegevens die bij de melding zijn vermeld.   
+6.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de gegevens die een melding bevat en tot de situaties waarin een nieuwe melding is vereist.   
 
 ### Artikel  42  
 
@@ -746,15 +753,7 @@ f. indien van toepassing een wijziging van de effectieve dosis als bedoeld in ar
 
 ### Artikel  43  
 
-1.  Bij regeling van Onze Ministers, en 
-
-a. indien het medische stralingstoepassingen betreft, Onze Minister van Volksgezondheid, Welzijn en Sport;  
-
-b. indien het mijnbouw betreft, Onze Minister van Economische Zaken;  
-
-c. indien het lozing in het oppervlaktewater betreft, Onze Minister van Verkeer en Waterstaat;  
-
-d. indien het lozing in het oppervlaktewater of lozing in de lucht betreft, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;   kunnen nadere regels worden gesteld met betrekking tot de aanvraag om een vergunning voor een handeling als bedoeld in de artikelen 23, eerste en tweede lid, 24, 25, eerste lid, 35, eerste lid, en 37, eerste lid.   
+1.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de aanvraag van een vergunning voor een handeling als bedoeld in de artikelen 23, eerste en tweede lid, 24, 25, eerste lid, 35, eerste lid, en 37, eerste lid.   
 2.  Een aanvraag als bedoeld in het eerste lid betreft niet de handelingen die binnen de locatie worden verricht door de persoon die in het bezit is van een vergunning voor het op steeds wisselende plaatsen verrichten van de betrokken handelingen.   
 
 ### Artikel  44  
@@ -794,12 +793,12 @@ c. de radiotoxiciteitsequivalenten waarvoor de vergunning om te lozen wordt aang
 a. informatie over het volume van de bron, de bronhouder en de vaste afscherming van die bron;  
 
 b. schriftelijk bewijs dat de krachtens artikel 20d, eerste lid, vereiste financiële zekerheid is gesteld.     
-8.  De houder van een vergunning is verplicht aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kennis te geven van een na het verlenen van de vergunning opgetreden wijziging in een der gegevens vermeld bij de aanvraag om de vergunning.   
-9.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens van de aanvraag van de vergunning.   
+8.  De houder van een vergunning is verplicht aan Onze Minister kennis te geven van een na het verlenen van de vergunning opgetreden wijziging in een der gegevens vermeld bij de aanvraag om de vergunning.   
+9.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de gegevens van de aanvraag van de vergunning.   
 
 ### §  4.8  
 
-####Inspraak en mededelingen
+####Voorbereidingsprocedure
 
 ### Artikel  45  
 
@@ -809,9 +808,9 @@ a. het toestel uitsluitend voor radiologische verrichtingen is bestemd;
 
 b. het toestel zich bevindt in een voertuig of aan boord van een vaartuig of luchtvaartuig, dat als zodanig wordt gebruikt;  
 
-c. het toestel zich bevindt op steeds wisselende locaties, en naar het oordeel van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het belang van de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), alsmede [afdeling 13.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet opweegt tegen de daaraan verbonden bezwaren;  
+c. het toestel zich bevindt op steeds wisselende locaties, en naar het oordeel van Onze Minister het belang van de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), alsmede [afdeling 13.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet opweegt tegen de daaraan verbonden bezwaren;  
 
-d. indien al eerder vergunning voor een toestel van hetzelfde type met betrekking tot dezelfde plaats is verleend en naar het oordeel van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer niet te verwachten is dat door gebruikmaking van de gevraagde vergunning meer schade kan ontstaan dan bij de eerder verleende vergunning in aanmerking is genomen.    
+d. indien al eerder vergunning voor een toestel van hetzelfde type met betrekking tot dezelfde plaats is verleend en naar het oordeel van Onze Minister niet te verwachten is dat door gebruikmaking van de gevraagde vergunning meer schade kan ontstaan dan bij de eerder verleende vergunning in aanmerking is genomen.    
 
 ### Artikel  46  
 
@@ -822,7 +821,11 @@ d. indien al eerder vergunning voor een toestel van hetzelfde type met betrekkin
 
 1.  Indien op de voorbereiding van een beschikking terzake van een vergunning voor het verrichten van een handeling met radioactieve stoffen [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, worden, anders dan als adviseurs, betrokken: het gedeputeerde staten van de provincie, het college van burgemeester en wethouders van de gemeente waar de handeling wordt of zal worden verricht of, indien het een lozing in oppervlaktewateren betreft, het orgaan dat belast is met het kwalitatieve beheer van het oppervlaktewater waarin wordt of zal worden geloosd.   
 2.  Indien op de voorbereiding van een beschikking terzake van een vergunning voor een handeling met een toestel [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, wordt, anders dan als adviseur, betrokken het college van burgemeester en wethouders van de gemeente waar de handeling wordt of zal worden verricht.   
-3.  Van de besluiten op aanvragen van vergunningen op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is, wordt door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer mededeling gedaan in de Staatscourant.   
+3.  Van de besluiten op aanvragen van vergunningen op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is, wordt door Onze Minister mededeling gedaan in de Staatscourant.   
+
+### Artikel  47a  
+
+Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een vergunning als bedoeld in de artikelen 23, eerste en tweede lid, 24, 25, eerste lid, 35, eerste lid, en 37, eerste lid.  
 
 ### Hoofdstuk  5  
 
@@ -851,7 +854,7 @@ b. een equivalente dosis van:
 
 1.  De ondernemer zorgt ervoor dat in omstandigheden waar een lid van de bevolking als gevolg van handelingen, die onder zijn verantwoordelijkheid worden verricht, aan besmetting of ioniserende straling binnen of buiten de locatie kan worden blootgesteld, voor de daarvoor in aanmerking komende plaatsen berekeningen van de effectieve of equivalente doses worden gemaakt en zo nodig metingen worden verricht.   
 2.  De ondernemer houdt een administratie bij waarin hij de resultaten aantekent van de metingen en gebruikt deze, indien nodig, voor het bepalen van de doses, bedoeld in het eerste lid en de artikelen 48 en 49.   
-3.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de inhoud, het beheer en de bewaartermijn van de administratie.   
+3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld voor de inhoud, het beheer en de bewaartermijn van de administratie.   
 
 ### Artikel  51  
 
@@ -885,19 +888,17 @@ g. medisch juridisch onderzoek: radiologische verrichting zonder medische indica
 
 h. medische verantwoordelijkheid: de verantwoordelijkheid van een arts of tandarts betreffende individuele radiologische verrichtingen, met name de rechtvaardiging, de optimalisatie en de klinische evaluatie van het resultaat;  
 
-i. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;  
+i. patiëntdosis: de dosis die betrekking heeft op een persoon die een blootstelling als bedoeld in artikel 53, eerste lid, ondergaat;  
 
-j. patiëntdosis: de dosis die betrekking heeft op een persoon die een blootstelling als bedoeld in artikel 53, eerste lid, ondergaat;  
+j. praktische aspecten: de feitelijke uitvoering van een blootstelling als bedoeld in artikel 53, eerste lid, waaronder te verstaan: hanteren en gebruiken van radiologische apparatuur, beoordelen van technisch, fysische parameters, alsmede het beoordelen van patiëntdoses, ijking, onderhoud van apparatuur, bereiding en toediening van radiofarmaceutica en ontwikkeling van films;  
 
-k. praktische aspecten: de feitelijke uitvoering van een blootstelling als bedoeld in artikel 53, eerste lid, waaronder te verstaan: hanteren en gebruiken van radiologische apparatuur, beoordelen van technisch, fysische parameters, alsmede het beoordelen van patiëntdoses, ijking, onderhoud van apparatuur, bereiding en toediening van radiofarmaceutica en ontwikkeling van films;  
+k. radiodiagnostisch: betrekking hebbend op in vivo diagnostische nucleaire geneeskunde, diagnostische en tandheelkundige radiologie;  
 
-l. radiodiagnostisch: betrekking hebbend op in vivo diagnostische nucleaire geneeskunde, diagnostische en tandheelkundige radiologie;  
+l. radiologisch: betrekking hebbend op radiodiagnostische en radiotherapeutische procedures en interventie-radiologie of andere plannings- of geleideradiologie;  
 
-m. radiologisch: betrekking hebbend op radiodiagnostische en radiotherapeutische procedures en interventie-radiologie of andere plannings- of geleideradiologie;  
+m. radiotherapeutisch: betrekking hebbend op radiotherapie, waaronder mede begrepen nucleaire geneeskunde voor therapeutische doeleinden;  
 
-n. radiotherapeutisch: betrekking hebbend op radiotherapie, waaronder mede begrepen nucleaire geneeskunde voor therapeutische doeleinden;  
-
-o. verwijzend arts: een arts of een tandarts die een verrichting aanvraagt waarbij gebruik wordt gemaakt van ioniserende straling.    
+n. verwijzend arts: een arts of een tandarts die een verrichting aanvraagt waarbij gebruik wordt gemaakt van ioniserende straling.    
 
 ### Artikel  53  
 
@@ -925,7 +926,7 @@ De ondernemer zorgt ervoor dat een radiologische verrichting uitsluitend geschie
 ### Artikel  55  
 
 1.  Een type radiologische verrichting is niet gerechtvaardigd, indien het totale mogelijke diagnostische of therapeutische voordeel, waaronder begrepen het directe nut voor de gezondheid van de persoon die de blootstelling ondergaat, en het maatschappelijk nut, niet opweegt tegen de gezondheidsschade die de persoon die de blootstelling ondergaat, kan ondervinden, mede in aanmerking genomen de doeltreffendheid, de voordelen en risico's van de beschikbare alternatieve technieken die hetzelfde oogmerk hebben maar geen of minder blootstelling met zich meebrengen.   
-2.  Onze Minister kan in de Staatscourant bekend maken welke typen van radiologische verrichtingen die blootstelling ingevolge het eerste lid niet rechtvaardigen, verboden zijn.   
+2.  Onze Minister van Volksgezondheid, Welzijn en Sport kan in de Staatscourant bekend maken welke typen van radiologische verrichtingen die blootstelling ingevolge het eerste lid niet rechtvaardigen, verboden zijn.   
 
 ### Artikel  56  
 
@@ -947,7 +948,7 @@ De ondernemer zorgt ervoor dat voor blootstelling als bedoeld in artikel 53, eer
 
 ### Artikel  59  
 
-Onze Minister bevordert de vaststelling en het gebruik van diagnostische referentieniveaus voor radiodiagnostische verrichtingen als bedoeld in artikel 53, eerste lid, alsmede het opstellen van protocollen terzake.  
+Onze Minister van Volksgezondheid, Welzijn en Sport bevordert de vaststelling en het gebruik van diagnostische referentieniveaus voor radiodiagnostische verrichtingen als bedoeld in artikel 53, eerste lid, alsmede het opstellen van protocollen terzake.  
 
 ### Artikel  60  
 
@@ -959,8 +960,8 @@ b. indien de experimentele radiologische verrichting voor proefpersonen een voor
 
 ### Artikel  61  
 
-1.  Onze Minister kan dosisbeperkingen vaststellen voor blootstellingen als bedoeld in artikel 53, tweede lid.   
-2.  Onze Minister kan, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, regels geven voor de blootstellingen, bedoeld in het eerste lid.   
+1.  Onze Minister van Volksgezondheid, Welzijn en Sport kan dosisbeperkingen vaststellen voor blootstellingen als bedoeld in artikel 53, tweede lid.   
+2.  Onze Minister van Volksgezondheid, Welzijn en Sport kan regels geven voor de blootstellingen, bedoeld in het eerste lid.   
 
 ### Artikel  62  
 
@@ -983,7 +984,7 @@ c. voorafgaand aan de onder a genoemde participatie, schriftelijke instructies w
 ### Artikel  64  
 
 1.  De ondernemer zorgt ervoor dat de toe te dienen activiteit bij nucleair geneeskundig onderzoek en therapie wordt gemeten met een dosiskalibrator.   
-2.  Onze Minister kan normen aanwijzen voor de nauwkeurigheid van de in het eerste lid bedoelde kalibrator.   
+2.  Onze Minister van Volksgezondheid, Welzijn en Sport kan normen aanwijzen voor de nauwkeurigheid van de in het eerste lid bedoelde kalibrator.   
 
 ### Artikel  65  
 
@@ -1001,7 +1002,7 @@ c. bij de overige radiologische verrichtingen een klinisch fysicus bereikbaar is
 
 ### Artikel  67  
 
-1.  De ondernemer zorgt ervoor dat de radiologische apparatuur die wordt gebruikt bij radiologische verrichtingen op een verantwoorde wijze wordt gebruikt. Onze Minister kan daartoe regels stellen.   
+1.  De ondernemer zorgt ervoor dat de radiologische apparatuur die wordt gebruikt bij radiologische verrichtingen op een verantwoorde wijze wordt gebruikt. Onze Minister van Volksgezondheid, Welzijn en Sport kan daartoe regels stellen.   
 2.  De ondernemer zorgt ervoor dat op alle radiologische apparatuur die in gebruik is: 
 
 a. streng toezicht wordt uitgeoefend inzake de stralingsbescherming;  
@@ -1063,12 +1064,12 @@ b. de optimalisatie van de stralingsbescherming, waarbij rekening wordt gehouden
 
 ### Artikel  74  
 
-1.  De ondernemer verstrekt aan Onze Minister gegevens die nodig zijn om het gemiddelde en de spreiding van de effectieve of equivalente dosis bij radiologische verrichtingen voor de bevolking en andere relevante referentiegroepen te kunnen schatten.   
-2.  Onze Minister stelt regels ten aanzien van de verstrekking van de in het eerste lid bedoelde gegevens.   
+1.  De ondernemer verstrekt aan Onze Minister van Volksgezondheid, Welzijn en Sport gegevens die nodig zijn om het gemiddelde en de spreiding van de effectieve of equivalente dosis bij radiologische verrichtingen voor de bevolking en andere relevante referentiegroepen te kunnen schatten.   
+2.  Onze Minister van Volksgezondheid, Welzijn en Sport stelt regels ten aanzien van de verstrekking van de in het eerste lid bedoelde gegevens.   
 
 ### Artikel  75  
 
-Onze Minister kan regels stellen om onnodige verspreiding van radiologische apparatuur te voorkomen.  
+Onze Minister van Volksgezondheid, Welzijn en Sport kan regels stellen om onnodige verspreiding van radiologische apparatuur te voorkomen.  
 
 ### Hoofdstuk  7  
 
@@ -1192,7 +1193,7 @@ c. met inachtneming van de aard van de aanwezige bronnen en betrokken handelinge
 d. op de daarvoor geschikte plaatsen duidelijke waarschuwingsborden en -tekens met betrekking tot de zone en de risico's van ioniserende straling zijn aangebracht;  
 
 e. aan personen die in de zone werkzaam zijn schriftelijke werkinstructies zijn gegeven, toegesneden op de risico's van ioniserende straling die aan de binnen de zone aanwezige bronnen en de aldaar te verrichten handelingen verbonden zijn.     
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een gecontroleerde zone als bedoeld in het eerste lid.   
+2.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot een gecontroleerde zone als bedoeld in het eerste lid.   
 
 ### Artikel  85  
 
@@ -1203,7 +1204,7 @@ a. met inachtneming van de aard van de aanwezige bronnen en betrokken handelinge
 b. op de daarvoor geschikte plaatsen duidelijke waarschuwingsborden en -tekens en opschriften met betrekking tot de zone en de risico's van ioniserende straling zijn aangebracht;  
 
 c. aan personen die in de zone werkzaam zijn schriftelijke werkinstructies zijn gegeven, toegesneden op de risico's van ioniserende straling die aan de bronnen en de betrokken handelingen verbonden zijn.     
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een bewaakte zone als bedoeld in het eerste lid.   
+2.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot een bewaakte zone als bedoeld in het eerste lid.   
 
 ### Artikel  86  
 
@@ -1230,6 +1231,7 @@ b. bij de aanwezigheid van open bronnen, de activiteitsconcentratie in de lucht 
 
 1.  De bedrijfstakdirecteur of, bij mijnbouw, de Inspecteur-Generaal der Mijnen, of, indien het de krijgsmacht betreft een door Onze Minister van Defensie aan te wijzen autoriteit, kan, indien het meten van blootstelling aan ioniserende straling aan de hand van persoonlijke controlemiddelen niet of niet goed mogelijk is, of als op andere wijze de effectieve of equivalente dosis wordt bepaald, ontheffing verlenen van het bepaalde in artikel 87.   
 2.  Aan de ontheffing, bedoeld in het eerste lid, worden voorschriften verbonden die inhouden dat de effectieve of equivalente dosis geschat wordt aan de hand van de individuele metingen bij andere blootgestelde werknemers, of aan de hand van de in artikel 86 bedoelde ruimtemonitoring, of in het geval van vliegtuigbemanningen op een wijze als bedoeld in artikel 111, eerste lid, onder b, of op andere wijze.   
+3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een ontheffing als bedoeld in het eerste lid.   
 
 ### Artikel  89  
 
@@ -1360,12 +1362,12 @@ Met betrekking tot werkzaamheden zijn de bepalingen van dit besluit die betrekki
 
 ### Artikel  102  
 
-1.  Onze Ministers maken in de Staatscourant een lijst van werkzaamheden bekend, waarvan het mogelijk is dat bij het verrichten van die werkzaamheden de in bijlage 1, tabel 1 en 2, vermelde waarden worden overschreden.   
+1.  Onze Minister maakt in de Staatscourant een lijst van werkzaamheden bekend, waarvan het mogelijk is dat bij het verrichten van die werkzaamheden de in bijlage 1, tabel 1 en 2, vermelde waarden worden overschreden.   
 2.  Voordat een ondernemer een werkzaamheid gaat verrichten die op de in het eerste lid bedoelde lijst staat vermeld, gaat hij na of deze werkzaamheid overeenkomstig artikel 103 moet worden gemeld dan wel dat daarvoor overeenkomstig de artikelen 107 en 108 een vergunning is vereist.   
 
 ### Artikel  103  
 
-1.  De ondernemer meldt een werkzaamheid, niet zijnde een lozing, voordat met de uitvoering daarvan wordt begonnen, overeenkomstig artikel 40.   
+1.  De ondernemer meldt aan Onze Minister een werkzaamheid, niet zijnde een lozing, voordat met de uitvoering daarvan wordt begonnen.   
 2.  Deze verplichting geldt niet, indien binnen een locatie: 
 
 a. het een werkzaamheid betreft waarbij: 
@@ -1376,13 +1378,13 @@ a. het een werkzaamheid betreft waarbij:
 
 b. het een werkzaamheid betreft waarvoor ingevolge artikel 107 een vergunning is vereist.     
 3.  Artikel 25, derde, vierde, zesde, zevende en achtste lid, is van overeenkomstige toepassing.   
-4.  Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen met het oog op de stralingsbescherming het tweede lid niet van toepassing is.   
+4.  Bij regeling van Onze Minister kan worden bepaald dat in daarbij aangegeven gevallen met het oog op de stralingsbescherming het tweede lid niet van toepassing is.   
 5.  De in het eerste lid gestelde verplichting geldt niet voor werkzaamheden met natuurlijke bronnen indien de aanvraag om een vergunning als bedoeld in dit besluit gegevens als bedoeld in artikel 105 omtrent deze bronnen bevat.   
-6.  Bij ministeriële regeling kan worden bepaald in welke gevallen vrijstelling geldt van de in het eerste lid gestelde verplichting met betrekking tot daarbij aangewezen werkzaamheden, indien een zodanige werkzaamheid al is gemeld door een andere ondernemer en aan bij de regeling gestelde regels is voldaan.   
+6.  Bij regeling van Onze Minister kan worden bepaald in welke gevallen vrijstelling geldt van de in het eerste lid gestelde verplichting met betrekking tot daarbij aangewezen werkzaamheden, indien een zodanige werkzaamheid al is gemeld door een andere ondernemer en aan bij de regeling gestelde regels is voldaan.   
 
 ### Artikel  104  
 
-Indien een werkzaamheid, die overeenkomstig artikel 103 is gemeld, niet meer wordt verricht, meldt de ondernemer dit binnen vier weken na het beëindigen van de werkzaamheid overeenkomstig artikel 40.  
+Indien een werkzaamheid, die overeenkomstig artikel 103 is gemeld, niet meer wordt verricht, meldt de ondernemer dit aan Onze Minister binnen vier weken na het beëindigen van de werkzaamheid.  
 
 ### Artikel  105  
 
@@ -1399,7 +1401,7 @@ d. een omschrijving van de werkzaamheid, de plaats van de werkzaamheid en van he
 e. bij product- of materiaalhergebruik of bestemming als afval de eindbestemming van het materiaal en een schatting van de effectieve doses in een kalenderjaar, die personen ten gevolge van die eindbestemming en van het verwerkingspad kunnen ontvangen;  
 
 f. een opgave van de betrokken natuurlijke bronnen en de daarin voorkomende radionucliden.     
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens die een melding bevat en tot de situaties waarin een nieuwe melding is vereist.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de gegevens die een melding bevat en tot de situaties waarin een nieuwe melding is vereist.   
 
 ### Artikel  106  
 
@@ -1414,25 +1416,27 @@ c. het adres of de kadastrale gegevens van de locatie;
 d. een aanduiding van de werkzaamheid;  
 
 e. indien van toepassing een wijziging van de gegevens als bedoeld in artikel 105, eerste lid, onder e.     
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens die deze melding bevat.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de gegevens die deze melding bevat.   
 
 ### Artikel  107  
 
-1.  Het is verboden zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een werkzaamheid, niet zijnde een lozing, te verrichten.   
+1.  Het is verboden zonder vergunning van Onze Minister een werkzaamheid, niet zijnde een lozing, te verrichten.   
 2.  Het in het eerste lid gestelde verbod geldt binnen een locatie niet, indien: 
 
 a. de activiteit van de radionucliden in de bij die werkzaamheid betrokken natuurlijke bronnen lager is dan de in bijlage 1, tabel 1, vermelde waarde, of  
 
 b. de activiteitsconcentratie van de bij die werkzaamheid betrokken natuurlijke bronnen lager is dan tienmaal de in bijlage 1, tabel 1, vermelde waarde.     
 3.  Artikel 25, derde, vierde, zesde, zevende en achtste lid, is van overeenkomstige toepassing.   
-4.  Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen met het oog op de stralingsbescherming, het tweede lid niet van toepassing is.   
+4.  Bij regeling van Onze Minister kan worden bepaald dat in daarbij aangegeven gevallen met het oog op de stralingsbescherming, het tweede lid niet van toepassing is.   
+5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een vergunning als bedoeld in het eerste lid.   
 
 ### Artikel  108  
 
-1.  Het is verboden zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer natuurlijke bronnen te lozen of een werkzaamheid te verrichten ten gevolge waarvan natuurlijke bronnen worden geloosd.   
+1.  Het is verboden zonder vergunning van Onze Minister natuurlijke bronnen te lozen of een werkzaamheid te verrichten ten gevolge waarvan natuurlijke bronnen worden geloosd.   
 2.  Het in het eerste lid gestelde verbod geldt niet indien de activiteit van de in een kalenderjaar te lozen radionucliden die in bijlage 1, tabel 2, zijn vermeld, bij het verlaten van de locatie lager is dan de daarbij in die tabel aangegeven waarde.   
 3.  Artikel 25, derde, vierde, zesde, zevende en achtste lid, is van overeenkomstige toepassing.   
-4.  Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen met het oog op de stralingsbescherming, het tweede lid niet van toepassing is.   
+4.  Bij regeling van Onze Minister kan worden bepaald dat in daarbij aangegeven gevallen met het oog op de stralingsbescherming, het tweede lid niet van toepassing is.   
+5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een vergunning als bedoeld in het eerste lid.   
 
 ### Artikel  109  
 
@@ -1449,12 +1453,12 @@ d. een omschrijving van de werkzaamheid, de plaats van de werkzaamheid en van he
 e. bij product- of materiaalhergebruik de eindbestemming van het materiaal en een schatting van de effectieve doses in een kalenderjaar, die personen ten gevolge van die eindbestemming en van het verwerkingspad kunnen ontvangen;  
 
 f. een opgave van de betrokken natuurlijke bronnen en de daarin voorkomende radionucliden.     
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens die een aanvraag bevat.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de gegevens die een aanvraag bevat.   
 
 ### Artikel  110  
 
-1.  Bij ministeriële regeling kunnen, indien dat naar het oordeel van Onze Ministers met het oog op rechtvaardiging en optimalisatie noodzakelijk is, regels worden gesteld met betrekking tot de uitvoering van daarbij aangegeven werkzaamheden die overeenkomstig artikel 103 worden gemeld.   
-2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot product- of materiaalhergebruik en opslag van afval van natuurlijke bronnen, voor categorieën van gevallen waarin de activiteitsconcentratie in combinatie met de totale activiteit van de betrokken natuurlijke bronnen hoger is dan de in bijlage 1, tabel 1, aangegeven waarde.   
+1.  Bij regeling van Onze Minister kunnen, indien dat naar het oordeel van Onze Minister met het oog op rechtvaardiging en optimalisatie noodzakelijk is, regels worden gesteld met betrekking tot de uitvoering van daarbij aangegeven werkzaamheden die overeenkomstig artikel 103 worden gemeld.   
+2.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot product- of materiaalhergebruik en opslag van afval van natuurlijke bronnen, voor categorieën van gevallen waarin de activiteitsconcentratie in combinatie met de totale activiteit van de betrokken natuurlijke bronnen hoger is dan de in bijlage 1, tabel 1, aangegeven waarde.   
 3.  Artikel 25, derde, vierde, zevende en achtste lid, is van overeenkomstige toepassing.   
 
 ### Artikel  110a  
@@ -1496,7 +1500,7 @@ d. de door hem ten gevolge van kosmische straling ontvangen effectieve dosis tez
 
 ### Artikel  113  
 
-1.  Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, en: 
+1.  Onze Minister, en: 
 
 a. indien het de krijgsmacht betreft, Onze Minister van Defensie;  
 
@@ -1523,7 +1527,7 @@ De ondernemer zorgt ervoor dat voorzieningen worden getroffen ter voorbereiding 
 
 1.  De ondernemer treft, indien zich binnen de locatie een radiologische noodsituatie voordoet, onverwijld alle passende maatregelen om de gevolgen daarvan te beperken.   
 2.  De ondernemer brengt de radiologische noodsituatie onverwijld ter kennis van de burgemeester van de gemeente waar die situatie zich voordoet.   
-3.  De ondernemer maakt onverwijld een voorlopige beoordeling van de omstandigheden en de gevolgen van die situatie en meldt deze aan de burgemeester en aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
+3.  De ondernemer maakt onverwijld een voorlopige beoordeling van de omstandigheden en de gevolgen van die situatie en meldt deze aan de burgemeester en aan Onze Minister.   
 4.  De ondernemer zorgt ervoor dat alle medewerking wordt verleend aan een interventie die door een bestuursorgaan wordt verricht.   
 
 ### Artikel  117  
@@ -1567,12 +1571,12 @@ a. de naam van de rechtspersoon en de verantwoordelijke deskundige;
 b. de plaats waar de handelingen worden verricht;  
 
 c. een omschrijving van de aard en de omvang van de handelingen.     
-3.  Bij ministeriële regeling worden nadere regels voor de inhoud en regels voor de bewaartermijnen van de administratie gesteld.   
+3.  Bij regeling van Onze Minister worden nadere regels voor de inhoud en regels voor de bewaartermijnen van de administratie gesteld.   
 
 ### Artikel  120a  
 
-1.  De ondernemer die handelingen verricht met een hoogactieve bron, verstrekt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer schriftelijk de relevante gegevens met betrekking tot die bron.   
-2.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot die gegevens en de tijdstippen waarop deze worden verstrekt.   
+1.  De ondernemer die handelingen verricht met een hoogactieve bron, verstrekt Onze Minister schriftelijk de relevante gegevens met betrekking tot die bron.   
+2.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot die gegevens en de tijdstippen waarop deze worden verstrekt.   
 
 ### Artikel  121  
 
@@ -1587,7 +1591,7 @@ c. de plaats, de aard en de omvang van de handelingen;
 
 d. de aan de handelingen toe te rekenen maximale toename van de effectieve dosis die personen op enig punt buiten de locatie kunnen ontvangen.     
 3.  Indien degene die binnen een locatie handelingen gaat verrichten als bedoeld in artikel 43, derde lid, opnamen maakt of radioscopie toepast in het kader van niet destructief onderzoek wordt in de administratie tevens het totaal aantal opnamen en uren radioscopie binnen dezelfde locatie vermeld. Voor de toepassing van deze bepaling wordt het aantal opnamen gelijk gesteld aan het aantal voor dat doel gebruikte films.   
-4.  Indien degene die binnen een locatie handelingen gaat verrichten als bedoeld in het derde lid, een redelijk vermoeden heeft dat het totaal aantal opnamen dat binnen de locatie zal worden gemaakt, het aantal van 3300 in een kalenderjaar zal overschrijden, meldt hij dit onverwijld aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de opdrachtgever. Voor de toepassing van deze bepaling wordt acht uur radioscopie gelijk gesteld met een opname.   
+4.  Indien degene die binnen een locatie handelingen gaat verrichten als bedoeld in het derde lid, een redelijk vermoeden heeft dat het totaal aantal opnamen dat binnen de locatie zal worden gemaakt, het aantal van 3300 in een kalenderjaar zal overschrijden, meldt hij dit onverwijld aan Onze Minister en de opdrachtgever. Voor de toepassing van deze bepaling wordt acht uur radioscopie gelijk gesteld met een opname.   
 5.  Degene die een administratie als bedoeld in het eerste lid voert, bewaart de bescheiden waaruit die administratie bestaat, ten minste gedurende vijf jaar na het kalenderjaar waarop zij betrekking hebben.   
 6.  In dit artikel en de daarop berustende bepalingen wordt onder radioscopie verstaan: het door middel van ioniserende straling vanuit een toestel of apparaat via een stralingsdetector produceren van een visueel waarneembaar beeld door het geproduceerde signaal om te zetten naar een videosignaal, dat wordt weergegeven door een monitor.   
 7.  Het eerste lid geldt niet indien het aantal tevoren geschatte opnamen per kalenderjaar minder dan 100 is.   
@@ -1605,8 +1609,9 @@ b. indien het andere handelingen betreft: door een daartoe door Onze Minister va
 
 ### Artikel  123  
 
-1.  In bijzondere gevallen kunnen Onze Ministers en Onze Ministers van Volksgezondheid, Welzijn en Sport, indien het radiologische verrichtingen betreft, van Defensie, indien het de krijgsmacht betreft en van Economische Zaken, indien het mijnbouw betreft, ontheffing verlenen van de voorschriften in paragraaf 3.3, en de artikelen 120 en 121.   
+1.  In bijzondere gevallen kan Onze Minister en Onze Ministers van Volksgezondheid, Welzijn en Sport, indien het radiologische verrichtingen betreft, van Defensie, indien het de krijgsmacht betreft en van Economische Zaken, indien het mijnbouw betreft, ontheffing verlenen van de voorschriften in paragraaf 3.3, en de artikelen 120 en 121.   
 2.  Aan de ontheffing kunnen voorschriften worden verbonden.   
+3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een ontheffing als bedoeld in het eerste lid.   
 
 ### Hoofdstuk  11  
 
@@ -1614,8 +1619,8 @@ b. indien het andere handelingen betreft: door een daartoe door Onze Minister va
 
 ### Artikel  124  
 
-1.  Indien dit in het belang van de bescherming tegen ioniserende straling naar het oordeel van Onze Ministers dringend noodzakelijk is en naar hun oordeel een wijziging van dit besluit niet kan worden afgewacht, kunnen bij ministeriële regeling regels worden gesteld, die van dit besluit afwijken maar met een strekking als bedoeld in dit besluit. Een zodanige regeling vervalt een jaar nadat zij in werking is getreden, of, indien binnen die termijn een wijziging van de betrokken bepaling van dit besluit inwerking is getreden, op het tijdstip waarop die wijziging in werking treedt. Onze Ministers kunnen de termijn bij ministeriële regeling eenmaal met ten hoogste een jaar verlengen.   
-2.  De waarden van bijlage 1, de tabellen 1, 2 en 3, en van bijlage 4 kunnen bij ministeriële regeling worden gewijzigd.   
+1.  Indien dit in het belang van de bescherming tegen ioniserende straling naar het oordeel van Onze Ministers dringend noodzakelijk is en naar hun oordeel een wijziging van dit besluit niet kan worden afgewacht, kunnen bij regeling van Onze Ministers regels worden gesteld, die van dit besluit afwijken maar met een strekking als bedoeld in dit besluit. Een zodanige regeling vervalt een jaar nadat zij in werking is getreden, of, indien binnen die termijn een wijziging van de betrokken bepaling van dit besluit inwerking is getreden, op het tijdstip waarop die wijziging in werking treedt. Onze Ministers kunnen de termijn bij ministeriële regeling eenmaal met ten hoogste een jaar verlengen.   
+2.  De waarden van bijlage 1, de tabellen 1, 2 en 3, en van bijlage 4 kunnen bij regeling van Onze Minister worden gewijzigd.   
 
 ### Artikel  125  
 
@@ -1671,9 +1676,9 @@ e. de Regeling aanwijzing rookmelders Kernenergiewet 2000-II op artikel 26, twee
 
 ### Artikel  132  
 
-1.  Tot een bij ministeriële regeling te bepalen datum wordt een persoon, die krachtens artikel 34, eerste lid, van het Besluit stralenbescherming Kernenergiewet, zoals dat besluit luidde tot de datum van inwerkingtreding van dit besluit, is erkend als arts die belast is met het medisch toezicht aangemerkt als stralingsarts, die is ingeschreven in het register, bedoeld in artikel 7, eerste lid.   
-2.  Tot een bij ministeriële regeling te bepalen datum wordt een persoon, die in het bezit is van een diploma van een opleiding op de niveaus, bedoeld in de Regeling erkenning opleidingen deskundigen radioactieve stoffen en toestellen zoals deze regeling luidde tot de datum van inwerkingtreding van dit besluit en de richtlijn van 20 november 1984 voor erkenning van opleidingen deskundigen radioactieve stoffen en toestellen, aangemerkt als een deskundige die is ingeschreven in een register als bedoeld in artikel 7, tweede lid.   
-3.  Tot een bij ministeriële regeling te bepalen datum wordt een opleiding, die overeenkomstig de Regeling erkenning opleidingen deskundigen radioactieve stoffen en toestellen zoals deze regeling luidde tot de datum van inwerkingtreding van dit besluit en de richtlijn van 20 november 1984 voor erkenning van opleidingen deskundigen radioactieve stoffen en toestellen is erkend, aangemerkt als een opleiding als bedoeld in het tweede lid.   
+1.  Tot een bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen datum wordt een persoon, die krachtens artikel 34, eerste lid, van het Besluit stralenbescherming Kernenergiewet, zoals dat besluit luidde tot de datum van inwerkingtreding van dit besluit, is erkend als arts die belast is met het medisch toezicht aangemerkt als stralingsarts, die is ingeschreven in het register, bedoeld in artikel 7, eerste lid.   
+2.  Tot een bij regeling van Onze Ministers te bepalen datum wordt een persoon, die in het bezit is van een diploma van een opleiding op de niveaus, bedoeld in de Regeling erkenning opleidingen deskundigen radioactieve stoffen en toestellen zoals deze regeling luidde tot de datum van inwerkingtreding van dit besluit en de richtlijn van 20 november 1984 voor erkenning van opleidingen deskundigen radioactieve stoffen en toestellen, aangemerkt als een deskundige die is ingeschreven in een register als bedoeld in artikel 7, tweede lid.   
+3.  Tot een bij regeling van Onze Ministers te bepalen datum wordt een opleiding, die overeenkomstig de Regeling erkenning opleidingen deskundigen radioactieve stoffen en toestellen zoals deze regeling luidde tot de datum van inwerkingtreding van dit besluit en de richtlijn van 20 november 1984 voor erkenning van opleidingen deskundigen radioactieve stoffen en toestellen is erkend, aangemerkt als een opleiding als bedoeld in het tweede lid.   
 4.  Tot een bij ministeriële regeling te bepalen datum kunnen Onze Ministers en Onze Minister van Volksgezondheid, Welzijn en Sport een opleiding als bedoeld in het tweede lid erkennen.   
 
 ### Artikel  133  

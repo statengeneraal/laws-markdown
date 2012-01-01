@@ -122,7 +122,7 @@ d. de Raad kan, bij beschikking, van het bepaalde onder c afwijken, indien naar 
 7.  Indien de deelnemer aan het verzet ten tijde van het tot uiting komen van de invaliditeit, als bedoeld in artikel 6, eerste lid, niet was aangewezen op inkomen uit arbeid in beroep of bedrijf dan wel de leeftijd heeft of had bereikt waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen dan wel indien die invaliditeit niet heeft geleid tot beëindiging of vermindering van zijn werkzaamheden in beroep of bedrijf, wordt de pensioengrondslag vastgesteld op het bedrag genoemd in het achtste lid, onder a.   
 8.  De pensioengrondslag bedraagt per 1 januari 1983 op jaarbasis: 
 
-a. tenminste € 22.416,78 per 1 januari 2011: € 23 535,58, en ten hoogste  
+a. tenminste € 22.416,78 per 1 januari 2012: € 23.901,79, en ten hoogste  
 
 b.  
 
@@ -136,7 +136,7 @@ b.
 | 5  % van de volgende  | € 30.382,47  |
 | van het overeenkomstig de voorgaande leden vastgestelde jaarinkomen.  |
 
-per 1 januari 2011 achtereenvolgens: € 49 096,38; € 30 319,40; € 15 955,88; € 16 195,91; € 15 999,73; € 31 898,84    
+per 1 januari 2012 achtereenvolgens: € 49.860,32; € 30.791,17; € 16.204,15; € 16.447,92; € 16.248,69; € 32.395,19.    
 
 ### §  4  
 
@@ -194,7 +194,7 @@ b. Tot de inkomsten van betrokkene als bedoeld onder a worden niet gerekend:
 
 2e. inkomsten uit arbeid, arbeidsvervangende inkomsten en inkomsten uit onderneming van zijn echtgenoot;  
 
-3e. inkomsten uit vermogen, tot een bedrag van f 984,- per 1 januari 2011: zevenhonderddrieënnegentig euro en vijftig eurocent.       
+3e. inkomsten uit vermogen, tot een bedrag van f 984,- per 1 januari 2012: achthonderdveertien euro en twintig eurocent.       
 3.  Indien op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, gelijktijdig een uitkering, een pensioen of andere inkomsten worden genoten ten laste van het Rijk, de Republiek Suriname, de Nederlandse Antillen, Aruba, de Republiek Indonesië, een publiekrechtelijk lichaam in een van deze gebieden of een door het openbaar gezag aldaar ingesteld fonds, wordt het bedrag van het buitengewoon pensioen, ongeacht de vermeerdering of vergoeding ingevolge de artikelen 12, 13, 14 en 15, met het bedrag van die uitkering, dat pensioen of die andere inkomsten verminderd, nadat daarvan is afgetrokken het bedrag der compensatie ter zake van de premie ingevolge de [Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), hetwelk daarin is of naar de voor de buitengewone pensioen geldende wettelijke maatstaven moet worden geacht te zijn begrepen. Voor zover echter die uitkering, dat pensioen of die andere inkomsten worden genoten uit hoofde van een vrijwillige verzekering, welke werd gesloten op grond van een wettelijk verleende bevoegdheid, of uit hoofde van een verplichte verzekering, welke voor eigen rekening is voortgezet, en door de Sociale verzekeringsbank als zodanig wordt aangemerkt, dan wel krachtens een wettelijke regeling van overeenkomstige strekking als de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), is het bepaalde in de vorige volzin niet van toepassing. Indien onder het pensioen of andere inkomsten, bedoeld in de eerste volzin zijn begrepen bedragen, welke worden genoten krachtens in andere wettelijke regelingen voorkomende bepalingen van overeenkomstige strekking als die van de artikelen 12, 13, 14 en 15 worden die bedragen niet op het buitengewoon pensioen in mindering gebracht; is evenwel een vermeerdering of vergoeding ingevolge de artikelen 12, 13, 14 en 15 toegekend, dan wordt die vermeerdering of vergoeding verminderd met het bedrag, dat genoten wordt krachtens de met die artikelen overeenkomende bepalingen in andere wettelijke regelingen.   
 4.  Tot de inkomsten bedoeld in dit artikel worden niet gerekend uitkeringen onder welke benaming ook ingevolge of op de voet van de [Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) (*Stb.* 1977, 494), de [Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) (*Stb.* 1984, 94) en de Algemene Oorlogsongevallenregeling (Indonesië) (*Stb.* Ned.-Indië 1946, nr. 48) dan wel de kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) (*Stb.* 1980, 1).   
 

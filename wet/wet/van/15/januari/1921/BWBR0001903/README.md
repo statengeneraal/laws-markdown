@@ -525,14 +525,17 @@ b. de bloedverwanten in de rechte lijn in de eerste graad en bij afwezigheid dan
 
 ### Artikel  51g  
 
-1.  Bij de mededeling op grond van artikel 51a, derde lid, dat vervolging tegen een verdachte wordt ingesteld, zendt de officier van justitie een formulier voor voeging toe. Voor de aanvang van de terechtzitting geschiedt de voeging door een opgave van de inhoud van de vordering en van de gronden waarop deze berust, bij de officier van justitie die met de vervolging van het strafbare feit is belast. Deze opgave vindt plaats door middel van een door Onze Minister van Justitie vastgesteld formulier en bevat de naam, voornamen, geboortedatum en woon- en verblijfplaats van de benadeelde partij.   
+1.  Bij de mededeling op grond van artikel 51a, derde lid, dat vervolging tegen een verdachte wordt ingesteld, zendt de officier van justitie een formulier voor voeging toe. Voor de aanvang van de terechtzitting geschiedt de voeging door een opgave van de inhoud van de vordering en van de gronden waarop deze berust, bij de officier van justitie die met de vervolging van het strafbare feit is belast. Deze opgave vindt plaats door middel van een door Onze Minister van Veiligheid en Justitie vastgesteld formulier.   
 2.  De officier van justitie doet van de voeging zo spoedig mogelijk schriftelijk mededeling aan de verdachte en, in het in het vierde lid bedoelde geval, aan diens ouders of voogd.   
 3.  Ter terechtzitting geschiedt de voeging door de opgave, bedoeld in het eerste lid, eerste volzin, bij de rechter uiterlijk voordat de officier van justitie in de gelegenheid is gesteld overeenkomstig artikel 311 het woord te voeren. Deze opgave kan ook mondeling worden gedaan.   
 4.  Indien de vordering van de benadeelde partij betrekking heeft op een als doen te beschouwen gedraging van een verdachte die de leeftijd van veertien jaren nog niet heeft bereikt en aan wie deze gedraging als een onrechtmatige daad zou kunnen worden toegerekend als zijn leeftijd daaraan niet in de weg zou staan, wordt zij geacht te zijn gericht tegen diens ouders of voogd.   
 
 ### Artikel  51h  
 
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende bemiddeling tussen de verdachte en het slachtoffer.  
+1.  Het openbaar ministerie bevordert dat de politie in een zo vroeg mogelijk stadium het slachtoffer en de verdachte mededeling doet van de mogelijkheden tot bemiddeling.   
+2.  Indien een bemiddeling tussen het slachtoffer en de verdachte tot een overeenkomst heeft geleid, houdt de rechter, indien hij een straf en maatregel oplegt, daarmee rekening.   
+3.  Het openbaar ministerie bevordert bemiddeling tussen het slachtoffer en de veroordeelde, nadat het zich ervan heeft vergewist dat dit de instemming heeft van het slachtoffer.   
+4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende bemiddeling tussen het slachtoffer en de verdachte of tussen het slachtoffer en de veroordeelde.   
 
 ### Titel  IIIC  
 
@@ -2627,6 +2630,18 @@ c. de personen die bij bijzondere wetten met de opsporing van de daarin bedoelde
 1.  De bevoegdheid van ambtenaren met de opsporing van strafbare feiten belast, is beperkt tot het grondgebied waarvoor zij zijn aangesteld of waar zij in overeenstemming met de bepalingen van de [Politiewet 1993](../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) buiten dat grondgebied hun taak vervullen.   
 2.  Zij hebben het recht in de uitoefening hunner ambtsverrichtingen de hulp in te roepen van de politie en de Koninklijke marechaussee.   
 
+### Artikel  146a  
+
+Ter plaatse waar en binnen de grenzen binnen welke zij bevoegd zijn tot opsporing, zijn hulpofficier van justitie: 
+
+a. de door Onze Minister van Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, en de bijzondere ambtenaren van politie;  
+
+b. de officieren van de Koninklijke marechaussee;  
+
+c. de door Onze Minister van Justitie in overeenstemming met Onze Minister van Defensie aangewezen onderofficieren van de Koninklijke marechaussee;  
+
+d. de door Onze Minister van Justitie aangewezen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md) en buitengewone opsporingsambtenaren.    
+
 ### Artikel  147  
 
 1.  Naar regelen, te stellen bij algemeenen maatregel van bestuur, kan het openbaar ministerie in het belang van het onderzoek in strafzaken de medewerking inroepen van personen en lichamen, welke op het gebied der reclasseering of op dergelijk gebied werkzaam zijn, en aan deze de noodige opdrachten geven.   
@@ -2659,6 +2674,18 @@ De officier van justitie verleent de advocaat-generaal op diens verzoek de nodig
 ### Artikel  149  
 
 Wanneer de officier van justitie kennis heeft gekregen van een strafbaar feit met welks vervolging hij is belast, stelt hij het noodige opsporingsonderzoek in en vordert, zoo daartoe termen zijn, dat tot het instellen van een gerechtelijk vooronderzoek worde overgegaan.  
+
+### Artikel  149a  
+
+1.  De officier van justitie is tijdens het opsporingsonderzoek verantwoordelijk voor de samenstelling van de processtukken.   
+2.  Tot de processtukken behoren alle stukken die voor de ter terechtzitting door de rechter te nemen beslissingen redelijkerwijs van belang kunnen zijn, behoudens het bepaalde in artikel 149b.   
+3.  Bij algemene maatregel van bestuur kunnen voorschriften worden gesteld over de wijze waarop de processtukken worden samengesteld en ingericht.   
+
+### Artikel  149b  
+
+1.  De officier van justitie is bevoegd, indien hij dit met het oog op de in artikel 187d, eerste lid, vermelde belangen noodzakelijk acht, de voeging van bepaalde stukken of gedeelten daarvan bij de processtukken achterwege te laten. Hij behoeft daartoe een schriftelijke machtiging, op diens vordering te verlenen door de rechter-commissaris. De vordering en de beschikking worden bij de processtukken gevoegd.   
+2.  De officier van justitie doet van de toepassing van het eerste lid en, voor zover de in artikel 187d, eerste lid, vermelde belangen dat toelaten, de redenen waarom, proces-verbaal opmaken. Dit proces-verbaal wordt bij de processtukken gevoegd.   
+3.  Zolang de zaak niet is geëindigd, bewaart de officier van justitie de in het eerste lid bedoelde stukken.   
 
 ### Artikel  150  
 
@@ -2722,6 +2749,13 @@ Wanneer de officier van justitie kennis heeft gekregen van een strafbaar feit me
 3.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 4.  Het DNA-onderzoek kan slechts worden bevolen in geval van een misdrijf als omschreven in artikel 67, eerste lid.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van uitvoering van het DNA-onderzoek.   
+
+### Artikel  151da  
+
+1.  In afwijking van [artikel 21, vierde lid, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) kan de officier van justitie in het belang van het onderzoek bevelen dat een DNA-onderzoek verricht wordt dat gericht is op het vaststellen van verwantschap. Ingeval het DNA-onderzoek verricht wordt met behulp van de DNA-profielen, die overeenkomstig dit wetboek, de Wet bescherming persoonsgegevens en de Wet DNA-onderzoek bij veroordeelden verwerkt zijn, kan het bevel slechts worden gegeven na schriftelijke machtiging van de rechter-commissaris op vordering van de officier van justitie. Artikel 151a, tweede lid, is van overeenkomstige toepassing.   
+2.  Celmateriaal dat ingevolge dit wetboek, de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of de [Wet DNA-onderzoek](../../../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) bij veroordeelden is afgenomen ten behoeve van het bepalen en verwerken van een DNA-profiel, mag worden gebruikt voor het vaststellen van verwantschap. Celmateriaal van een derde kan, behoudens het geval, bedoeld in de volgende volzin, slechts met zijn schriftelijke toestemming worden afgenomen en gebruikt voor het vaststellen van verwantschap. Ingeval een derde minderjarig is en vermoed wordt dat hij voorwerp is van een misdrijf als omschreven in [artikel 197a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [242](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [243](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [244](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [245](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [246](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [247](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [249](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [256](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [273f](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [278](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [287](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [289](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [290](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [291 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), kan in het belang van het onderzoek celmateriaal bij de derde op bevel van de officier van justitie na schriftelijke machtiging van de rechter-commissaris worden afgenomen en gebruikt voor het vaststellen van verwantschap.   
+3.  Het DNA-onderzoek kan slechts worden verricht in geval van verdenking van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaar of meer is gesteld en een van de misdrijven omschreven in de [artikelen 109](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [110](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [141, tweede lid, onder 1°](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [181, onder 2°](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [182](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [247](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [249](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [281, eerste lid, onder 1°](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [290](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [300, tweede en derde lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [301, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Indien een DNA-onderzoek als bedoeld in artikel 151a, eerste lid, leidt tot het vaststellen van verwantschap, kan de officier van justitie dit resultaat in het opsporingsonderzoek gebruiken.   
+4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van uitvoering van het DNA-onderzoek.   
 
 ### Artikel  151e  
 
@@ -3119,6 +3153,13 @@ Ten aanzien van het onderzoek door deskundigen als bedoeld in de artikelen 195a 
 3.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 4.  Het DNA-onderzoek kan slechts worden bevolen in geval van een misdrijf als omschreven in artikel 67, eerste lid.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van uitvoering van het DNA-onderzoek.   
+
+### Artikel  195g  
+
+1.  In afwijking van [artikel 21, vierde lid, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) kan de rechter-commissaris in het belang van het onderzoek bevelen dat een DNA-onderzoek verricht wordt dat gericht is op het vaststellen van verwantschap. Artikel 195a, tweede lid, is van overeenkomstige toepassing.   
+2.  Celmateriaal dat ingevolge dit wetboek, de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of de [Wet DNA-onderzoek](../../../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) bij veroordeelden is afgenomen ten behoeve van het bepalen en verwerken van een DNA-profiel, mag worden gebruikt voor het vaststellen van verwantschap. Celmateriaal van een derde kan, behoudens het geval, bedoeld in de volgende volzin, slechts met zijn schriftelijke toestemming worden afgenomen en gebruikt voor het vaststellen van verwantschap. Ingeval een derde minderjarig is en vermoed wordt dat hij voorwerp is van een misdrijf als omschreven in [artikel 197a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [242](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [243](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [244](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [245](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [246](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [247](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [249](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [256](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [273f](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [278](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [287](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [289](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [290](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of 2 [91 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), kan in het belang van het onderzoek celmateriaal bij de derde op bevel van de rechter-commissaris worden afgenomen en gebruikt voor het vaststellen van verwantschap.   
+3.  Het DNA-onderzoek kan slechts worden verricht in geval van verdenking van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaar of meer is gesteld en een van de misdrijven omschreven in de [artikelen 109](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [110](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [141, tweede lid, onder 1°](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [181, onder 2°](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [182](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [247](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [249](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [281, eerste lid, onder 1°](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [290](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), 3 [00, tweede en derde lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [301, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Indien een DNA-onderzoek als bedoeld in artikel 195a, eerste lid, leidt tot het vaststellen van verwantschap, kan de rechter-commissaris dit resultaat in het gerechtelijk vooronderzoek gebruiken.   
+4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van uitvoering van het DNA-onderzoek.   
 
 ### Artikel  196  
 
@@ -3825,6 +3866,12 @@ Strafbare feiten welke op dezelfde terechtzitting worden aangebracht en waartuss
 1.  Tegen de dagvaarding, voor zoover deze betreft een feit ten aanzien waarvan eene kennisgeving van verdere vervolging niet is voorafgegaan, kan de verdachte binnen acht dagen na de beteekening een bezwaarschrift indienen bij de rechtbank.   
 2.  De artikelen 250-255 en 257 zijn van overeenkomstige toepassing.   
 3.  Zolang de in artikel 250, eerste lid, of de in het eerste lid van dit artikel gestelde termijn niet is verstreken, kan de rechtbank alleen met toestemming van de verdachte het onderzoek op de terechtzitting een aanvang doen nemen. Door het geven van toestemming doet de verdachte tevens afstand van het recht om een bezwaarschrift in te dienen. In het andere geval stelt de rechtbank de aanvang van het onderzoek op de terechtzitting voor bepaalde of onbepaalde tijd uit.   
+
+### Artikel  262a  
+
+1.  In geval van onbevoegdverklaring of buitenvervolgingstelling staat voor het openbaar ministerie binnen veertien dagen na de beschikking hoger beroep bij het gerechtshof en daarna beroep in cassatie open.   
+2.  Tegen de beschikking van het gerechtshof staat voor de verdachte binnen veertien dagen na de betekening van die beschikking beroep in cassatie open.   
+3.  Het gerechtshof en de Hoge Raad beslissen zo spoedig mogelijk.   
 
 ### Artikel  263  
 
@@ -5565,8 +5612,8 @@ c. de zaak, indien deze tevens één of meer verdachten betreft die de leeftijd 
 
 ### Artikel  496  
 
-1.  De ouders of de voogd worden tot bijwoning van de terechtzitting opgeroepen.   
-2.  Indien ouders of voogd op de terechtzitting zijn verschenen, worden zij, nadat de verdachte, een medeverdachte, een getuige of een deskundige zijn verklaring heeft afgelegd, in de gelegenheid gesteld daartegen in te brengen wat tot verdediging kan dienen.   
+1.  De ouders of de voogd zijn verplicht tot bijwoning van de terechtzitting. Zij worden daartoe opgeroepen. Bij de oproeping wordt hun kennisgegeven, dat, indien zij niet aan deze verplichting voldoen, het gerecht hun medebrenging kan gelasten.   
+2.  Indien ouders of voogd op de terechtzitting zijn verschenen, worden zij, nadat de verdachte, een medeverdachte, een getuige of een deskundige zijn verklaring heeft afgelegd, in de gelegenheid gesteld daartegen in te brengen wat tot verdediging kan dienen. In het in artikel 51g, vierde lid, bedoelde geval kunnen de ouders of de voogd vragen stellen aan een getuige of deskundige, maar alleen betreffende de vordering tot schadevergoeding; zij worden in de gelegenheid gesteld verweer te voeren tegen die vordering.   
 3.  Niettemin kan het gerecht ambtshalve, op vordering van het openbaar ministerie of op verzoek van de verdachte of diens raadsman bevelen, dat een verhoor van de verdachte, van een getuige of van een deskundige buiten tegenwoordigheid van ouders of voogd geschiedt, tenzij de zaak in het openbaar wordt behandeld. Het gerecht deelt in dat geval de zakelijke inhoud van een en ander aan de ouders of voogd mee, voor zover niet gewichtige redenen zich daartegen verzetten.   
 
 ### Artikel  496a  
@@ -6738,6 +6785,33 @@ Een persoon te wiens aanzien in Nederland geen bevoegdheid tot strafvervolging b
 1.  Voor zover het toepasselijke verdrag uitdrukkelijk voorziet in rechtstreekse toezending van verzoeken tot overname van de strafvervolging door justitiële autoriteiten, is de officier van justitie bevoegd zelfstandig op een verzoek om overname van de strafvervolging van een buitenlandse justitiële autoriteit te beslissen. De artikelen 552y, 552aa, tweede lid, 552bb, tweede en vierde lid, en 552cc tot en met 552gg zijn van overeenkomstige toepassing.   
 2.  Voor zover het toepasselijke verdrag uitdrukkelijk voorziet in rechtstreekse toezending van verzoeken tot overname van de strafvervolging door justitiële autoriteiten, wordt het verzoek, zo het is gericht tot een andere officier van justitie dan bedoeld in het eerste of tweede lid van artikel 552z, onverwijld aan die officier van justitie doorgezonden.   
 
+### §  2b  
+
+####Overname van strafvervolging van een internationaal gerecht
+
+### Artikel  552iia  
+
+1.  Onze Minister van Veiligheid en Justitie beslist over een van een internationaal gerecht afkomstig verzoek tot het instellen van een strafvervolging.   
+2.  De officier van justitie die rechtstreeks van een internationaal gerecht een verzoek ontvangt tot het instellen van een strafvervolging, zendt dat verzoek met de daarbij gevoegde stukken aan Onze Minister van Veiligheid en Justitie.   
+
+### Artikel  552iib  
+
+Alvorens zijn beslissing omtrent het verzoek tot strafvervolging te nemen, kan Onze Minister van Veiligheid en Justitie het internationaal gerecht waarvan het verzoek is uitgegaan in de gelegenheid stellen tot het verschaffen van nadere inlichtingen binnen een door hem te stellen termijn.  
+
+### Artikel  552iic  
+
+Tenzij Onze Minister van Veiligheid en Justitie reeds aanstonds van oordeel is dat het verzoek tot strafvervolging niet voor inwilliging in aanmerking komt, zendt hij het verzoek met de daarbij gevoegde stukken voor advies aan de officier van justitie bij het landelijk parket.  
+
+### Artikel  552iid  
+
+1.  Zo spoedig mogelijk na de ontvangst van het advies van de officier van justitie neemt Onze Minister van Veiligheid en Justitie een beslissing, waarbij het verzoek tot het instellen van een strafvervolging wordt ingewilligd dan wel afgewezen.   
+2.  Hij geeft van zijn beslissing kennis aan het internationaal gerecht waarvan het verzoek is uitgegaan en aan de officier van justitie.   
+3.  Hij stelt het internationaal gerecht ook in kennis van de uitkomst van de strafvervolging die naar aanleiding van het verzoek is ingesteld.   
+
+### Artikel  552iie  
+
+De artikelen 552dd en 552gg, eerste lid, zijn van overeenkomstige toepassing bij de overname van strafvervolging van een internationaal gerecht.  
+
 ### Titel  XI  
 
 ####Wederzijdse erkenning en tenuitvoerlegging van strafvorderlijke bevelen
@@ -7092,6 +7166,10 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 2.  Bij of krachtens algemene maatregel van bestuur worden omtrent de tenuitvoerlegging voorschriften gegeven. Deze voorschriften hebben in ieder geval betrekking op de plaats en wijze van betaling van de geldboeten en de maatregelen, bedoeld in [artikel 36f van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), de termijn waarbinnen die betaling moet zijn geschied, de verantwoording van de ontvangen geldbedragen, alsmede op de kosten van verhaal, de invorderingskosten daaronder begrepen.   
 3.  Degene te wiens laste verhaal plaatsvindt is de kosten daarvan verschuldigd, ook indien de strafbeschikking, het vonnis of het arrest na het instellen van verzet, hoger beroep of beroep in cassatie daartegen wordt vernietigd.   
 
+### Artikel  572a  
+
+De officier van justitie kan van een ieder vorderen de gegevens te verstrekken die redelijkerwijs noodzakelijk zijn voor de tenuitvoerlegging van een vonnis, een arrest of een strafbeschikking houdende veroordeling tot geldboete of tot een maatregel als bedoeld in [artikel 36f van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Artikel 96a, derde lid, is van overeenkomstige toepassing.  
+
 ### Artikel  573  
 
 1.  Bij gebreke van volledige betaling binnen de ingevolge artikel 561 bepaalde termijn wordt het verschuldigde bedrag, vermeerderd met de verhogingen voorzien in [artikel 24 *b* van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), na voorgaande schriftelijke waarschuwing, op de voorwerpen van de veroordeelde verhaald. In verband met het verhaal kan woonplaats worden gekozen ten parkette van het openbaar ministerie dat met de tenuitvoerlegging is belast.   
@@ -7119,16 +7197,15 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 
 a. inkomsten in geld uit arbeid van de veroordeelde;  
 
-b. pensioenen, wachtgelden en andere periodieke uitkeringen waarop de veroordeelde aanspraak heeft;  
+b. pensioenen, wachtgelden en andere uitkeringen waarop de veroordeelde aanspraak heeft;  
 
 c. het tegoed van een rekening bij een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waarover de veroordeelde ten eigen bate vermag te beschikken.     
-2.  Verhaal met toepassing van het vorige lid geschiedt door middel van een schriftelijke kennisgeving van het openbaar ministerie dat met de tenuitvoerlegging van het vonnis, het arrest of de strafbeschikking is belast. De kennisgeving bevat een voor de uitoefening van het verhaal voldoende aanduiding van de persoon van de veroordeelde, en vermeldt welk bedrag uit hoofde van de veroordeling nog verschuldigd is, bij welke rechterlijke uitspraak of strafbeschikking de geldboete is opgelegd, alsmede de plaats waar de betaling moet geschieden. Zij wordt betekend aan de veroordeelde en aan degene onder wie het verhaal wordt genomen.   
+2.  Verhaal met toepassing van het vorige lid geschiedt door middel van een schriftelijke kennisgeving van het openbaar ministerie dat met de tenuitvoerlegging van het vonnis, het arrest of de strafbeschikking is belast. De kennisgeving bevat een voor de uitoefening van het verhaal voldoende aanduiding van de persoon van de veroordeelde, en vermeldt welk bedrag uit hoofde van de veroordeling nog verschuldigd is, bij welke rechterlijke uitspraak of strafbeschikking de geldboete is opgelegd, alsmede de plaats waar de betaling moet geschieden. Zij wordt verstrekt aan degene onder wie het verhaal wordt genomen en betekend aan de veroordeelde.   
 3.  Door de betekening van de kennisgeving is degene onder wie het verhaal wordt genomen, verplicht tot betaling aan de Staat van het in de kennisgeving bedoelde bedrag voor zover de veroordeelde op hem een opeisbare vordering heeft of verkrijgt. Het openbaar ministerie bepaalt de termijn waarbinnen de betaling moet geschieden. De verplichting tot betaling vervalt zodra het uit hoofde van de veroordeling verschuldigde bedrag is betaald of verhaald en uiterlijk wanneer twee jaren na de dag van betekening zijn verstreken.   
 4.  Degene onder wie het verhaal wordt genomen kan zich niet ten nadele van de Staat beroepen op het tenietgaan of de vermindering van zijn schuld door betaling of door verrekening met een tegenvordering dan in de gevallen waarin hij daartoe ook bevoegd zou zijn geweest bij een op het tijdstip van de betekening overeenkomstig het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) gelegd beslag onder derden. Indien een andere schuldeiser op de vordering waarop het verhaal wordt genomen, beslag heeft gelegd, is [artikel 478 van dat Wetboek](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing. Het verhaal wordt voor de toepassing van de [artikelen 33](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) en [301 van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) met een beslag onder derden gelijkgesteld.   
 5.  Indien verhaal is genomen op vordering van de veroordeelde tot periodieke betalingen als bedoeld in het eerste lid, onder *a* en *b*, zijn de [artikelen 475a tot en met 475g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
 6.  Iedere belanghebbende kan zich binnen zeven dagen na de betekening van de in het tweede lid van dit artikel bedoelde kennisgeving bij met redenen omkleed bezwaarschrift verzetten tegen het verhaal. Artikel 575, derde lid, is op dit verzet van toepassing.   
-7.  Een ieder, behoudens de veroordeelde, is verplicht desgevorderd aan het openbaar ministerie, dat met de tenuitvoerlegging van het vonnis, het arrest of de strafbeschikking is belast, de inlichtingen te verstrekken welke naar het redelijk oordeel van het openbaar ministerie noodzakelijk zijn ten behoeve van de toepassing van het eerste lid van dit artikel. De artikelen 217 en 218 zijn van overeenkomstige toepassing.   
-8.  De kosten van het verhaal krachtens dit artikel worden op gelijke voet als de geldboete, onderscheidenlijk de maatregel van [artikel 36f van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), verhaald op de veroordeelde. Onder de kosten van verhaal zijn begrepen de invorderingskosten.   
+7.  De kosten van het verhaal krachtens dit artikel worden op gelijke voet als de geldboete, onderscheidenlijk de maatregel van [artikel 36f van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), verhaald op de veroordeelde. Onder de kosten van verhaal zijn begrepen de invorderingskosten.   
 
 ### Artikel  576a  
 
@@ -7186,7 +7263,7 @@ c. aan iedere aanbieder van een communicatiedienst een vordering te doen gegeven
 d. een persoon stelselmatig te volgen of stelselmatig de aanwezigheid of het gedrag van een persoon waar te nemen;  
 
 e. zonder toestemming van de rechthebbende een besloten plaats, niet zijnde een woning, te betreden dan wel een technisch hulpmiddel aan te wenden teneinde die plaats op te nemen, aldaar sporen veilig te stellen of aldaar een technisch hulpmiddel te plaatsen teneinde de aanwezigheid of verplaatsing van een goed vast te kunnen stellen.     
-2.  Op de vordering bedoeld in het eerste lid, onderdeel a, is artikel 126a, tweede, derde en vijfde lid van overeenkomstige toepassing.   
+2.  Op de vordering bedoeld in het eerste lid, onderdeel a, is artikel 126a, derde en vijfde lid van overeenkomstige toepassing.   
 3.  Op de vordering bedoeld in het eerste lid, onderdeel b, is artikel 126nc, derde tot en met vijfde en zevende lid, van overeenkomstige toepassing.   
 4.  De officier van justitie kan in het belang van het onderzoek bepalen dat bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, onder d, een technisch hulpmiddel kan worden aangewend, voor zover daarmee geen vertrouwelijke communicatie wordt opgenomen. Een technisch hulpmiddel wordt niet op een persoon bevestigd, tenzij met diens toestemming.   
 5.  De officier van justitie kan in het belang van het onderzoek bepalen dat bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, onder d, een besloten plaats, niet zijnde een woning, kan worden betreden zonder toestemming van de rechthebbende.   

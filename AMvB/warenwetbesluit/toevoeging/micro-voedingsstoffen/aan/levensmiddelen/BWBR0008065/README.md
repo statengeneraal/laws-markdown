@@ -158,40 +158,39 @@ De in artikel 4 bedoelde micro-voedingsstoffen zijn de navolgende:
 
 ### Bijlage  2  
 
-####Deze bijlage behoort bij artikel 6, eerste lid.
+####Deze bijlage behoort bij artikel 6, eerste lid .
 
 De in artikel 6, eerste lid, bedoelde vitamines en hun aanbevolen dagelijkse hoeveelheid zijn de navolgende:  
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Vitamine A  | (RE)  | 800  |
-| Vitamine B <sub>1</sub>  | (mg)  | 1,4  |
-| Vitamine B <sub>2</sub>  | (mg)  | 1,6  |
-| Niacine  | (mg)  | 18  |
-| Vitamine B <sub>6</sub>  | (mg)  | 2  |
-| Pantotheenzuur  | (mg)  | 6  |
-| Vitamine B <sub>12</sub>  | (mcg)  | 1  |
-| Biotine  | (mg)  | 0,15  |
-| Vitamine C  | (mg)  | 60  |
-| Vitamine E  | (mg)  | 10  |
-| Vitamine K  | (mcg)  | 80  |
+| Vitamine A  | 800 μg  | --- |
+| Vitamine B1 (Thiamine)  | 1,1 mg  | --- |
+| Vitamine B2 (Riboflavine)  | 1,4 mg  | --- |
+| Niacine  | 16 mg  | --- |
+| Vitamine B6  | 1,4 mg  | --- |
+| Pantotheenzuur  | 6 mg  | --- |
+| Vitamine B <sub>12</sub>  | 2,5 μg  | --- |
+| Biotine  | 50 μg  | --- |
+| Vitamine C  | 80 mg  | --- |
+| Vitamine E  | 12 mg  | --- |
+| Vitamine K  | 75 μg  | --- |
 
 ### Bijlage  3  
 
-####Deze bijlage behoort bij artikel 6, eerste lid.
+####Deze bijlage behoort bij artikel 6, eerste lid .
 
 De in artikel 6, eerste lid, bedoelde mineralen en hun aanbevolen dagelijkse hoeveelheid zijn de navolgende:  
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Calcium  | (mg)  | 800  |
-| Magnesium  | (mg)  | 300  |
-| IJzer  | (mg)  | 14  |
-| Mangaan  | (mg)  | 5  |
-| Fosfor  | (mg)  | 800  |
-| Chroom  | (mcg)  | 125  |
-| Molybdeen  | (mcg)  | 160  |
-| Natrium  | (mg)  | 2000  |
-| Kalium  | (mg)  | 3100  |
-| Chloride  | (mg)  | 2000  |
+| Calcium  | 800 mg  | --- |
+| Magnesium  | 375 mg  | --- |
+| IJzer  | 14 mg  | --- |
+| Mangaan  | 2 mg  | --- |
+| Fosfor  | 700 mg  | --- |
+| Chroom  | 40 μg  | --- |
+| Molybdeen  | 50 μg  | --- |
+| Kalium  | 2000 mg  | --- |
+| Chloride  | 800 mg  | --- |
 

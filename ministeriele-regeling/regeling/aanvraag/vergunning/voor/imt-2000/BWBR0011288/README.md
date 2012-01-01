@@ -252,7 +252,7 @@ De aanvrager vermeldt welke door de Internationale Telecommunicatie Unie vastges
 
 ###Model bankgarantie
 
-De ondergetekende: ... *(naam bank) ,* rechtspersoon naar ... recht, waaraan door de nationale toezichthouder voor kredietinstellingen .. *(naam toezichthoudende instelling)* een zogenaamde ‘European license’ is toegekend en die beschikt over een zogenaamde ‘AA3 rating’ van ‘Moody’s Investors Service’ of over een zogenaamde ‘AA- rating’ van ‘Standard & Poor’s Bank Ratings Service’, en waarvan de zetel is gevestigd te ..., mede kantoorhoudende te ..., aan de ... *(postcode+ adres bank),* hierna te noemen: ‘de bank’; <sup> *  Hetgeen in het bovenstaande cursief is gedrukt moet door de bank worden ingevuld.  </sup> In aanmerking nemende: 
+De ondergetekende: ... *(naam bank) ,* rechtspersoon naar ... recht, waaraan door de nationale toezichthouder voor banken .. *(naam toezichthoudende instelling)* een zogenaamde ‘European license’ is toegekend en die beschikt over een zogenaamde ‘AA3 rating’ van ‘Moody’s Investors Service’ of over een zogenaamde ‘AA- rating’ van ‘Standard & Poor’s Bank Ratings Service’, en waarvan de zetel is gevestigd te ..., mede kantoorhoudende te ..., aan de ... *(postcode+ adres bank),* hierna te noemen: ‘de bank’; <sup> *  Hetgeen in het bovenstaande cursief is gedrukt moet door de bank worden ingevuld.  </sup> In aanmerking nemende: 
 
 A. De Staat der Nederlanden, rechtspersoon naar Nederlands recht, waarvan de zetel is gevestigd te ‘s-Gravenhage, ten deze rechtsgeldig vertegenwoordigd door de Staatssecretaris van Verkeer en Waterstaat, hierna te noemen: ‘de staat’; en  
 

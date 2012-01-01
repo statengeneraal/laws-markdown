@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is dat met betrekking tot de bescherming van persoonsgegevens in de openbare lichamen Bonaire, Sint Eustatius en Saba uitvoering wordt gegeven aan [artikel 10, tweede en derde lid, van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md);
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is dat met betrekking tot de bescherming van persoonsgegevens in de openbare lichamen Bonaire, Sint Eustatius en Saba uitvoering wordt gegeven aan artikel 10, tweede en derde lid, van de Grondwet;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -54,15 +54,15 @@ o. *commissie:* de Commissie toezicht bescherming persoonsgegevens BES, bedoeld 
 
 a. ten behoeve van activiteiten met uitsluitend persoonlijke of huishoudelijke doeleinden;  
 
-b. door of ten behoeve van de inlichtingen- en veiligheidsdiensten, bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md);  
+b. door of ten behoeve van de inlichtingen- en veiligheidsdiensten, bedoeld in de Wet op de inlichtingen- en veiligheidsdiensten 2002;  
 
-c. ten behoeve van de uitvoering van de politietaak, bedoeld in de [artikelen 5](../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) en [11 van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
+c. ten behoeve van de uitvoering van de politietaak, bedoeld in de artikelen 5 en 11 van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba;  
 
-d. ten behoeve van de uitvoering van de [Wet basisadministratie persoonsgegevens BES](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+d. ten behoeve van de uitvoering van de Wet basisadministratie persoonsgegevens BES;  
 
-e. ten behoeve van de uitvoering van de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md) en  
+e. ten behoeve van de uitvoering van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES en  
 
-f. ten behoeve van de uitvoering van de [Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md).     
+f. ten behoeve van de uitvoering van de Kieswet.     
 3.  Deze wet is niet van toepassing op verwerking van persoonsgegevens door de krijgsmacht indien Onze Minister van Defensie daartoe beslist met het oog op de inzet of het ter beschikking stellen van de krijgsmacht ter handhaving of bevordering van de internationale rechtsorde.   
 
 ### Artikel  3  
@@ -143,7 +143,7 @@ e. de mate waarin jegens de betrokkene wordt voorzien in passende waarborgen.
 ### Artikel  12  
 
 1.  Een ieder die handelt onder het gezag van de verantwoordelijke of van de bewerker, alsmede de bewerker zelf, voor zover deze toegang hebben tot persoonsgegevens, verwerkt deze slechts in opdracht van de verantwoordelijke, behoudens afwijkende wettelijke verplichtingen.   
-2.  De personen, bedoeld in het eerste lid, voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht geldt, zijn verplicht tot geheimhouding van de persoonsgegevens waarvan zij kennis nemen, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit. [Artikel 285 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is niet van toepassing.   
+2.  De personen, bedoeld in het eerste lid, voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht geldt, zijn verplicht tot geheimhouding van de persoonsgegevens waarvan zij kennis nemen, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit. Artikel 285 van het Wetboek van Strafrecht BES is niet van toepassing.   
 
 ### Artikel  13  
 
@@ -223,7 +223,7 @@ b. met het oog op de eisen die met betrekking tot politieke gezindheid in redeli
 
 a. hulpverleners, instellingen of voorzieningen voor gezondheidszorg of maatschappelijke dienstverlening voor zover dat met het oog op een goede behandeling of verzorging van de betrokkene, dan wel het beheer van de betreffende instelling of beroepspraktijk noodzakelijk is;  
 
-b. verzekeraars als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), en financiële dienstverleners die bemiddelen in verzekeringen als bedoeld in die wet, voor zover dat noodzakelijk is voor: 
+b. verzekeraars als bedoeld in artikel 1, eerste lid, onderdeel g, van de Wet toezicht verzekeringsbedrijf BES, en financiële dienstverleners die bemiddelen in verzekeringen als bedoeld in die wet, voor zover dat noodzakelijk is voor: 
 
 1°. de beoordeling van het door de verzekeraar te verzekeren risico en de betrokkene geen bezwaar heeft gemaakt; of  
 
@@ -251,7 +251,7 @@ b. de verwerking noodzakelijk is ten behoeve van wetenschappelijk onderzoek of s
 
 ### Artikel  22  
 
-1.  Het verbod om strafrechtelijke persoonsgegevens te verwerken, bedoeld in artikel 16, is niet van toepassing indien de verwerking geschiedt door organen die krachtens de wet zijn belast met de toepassing van het strafrecht, alsmede door verantwoordelijken die deze hebben verkregen bij of krachtens de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) of de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md).   
+1.  Het verbod om strafrechtelijke persoonsgegevens te verwerken, bedoeld in artikel 16, is niet van toepassing indien de verwerking geschiedt door organen die krachtens de wet zijn belast met de toepassing van het strafrecht, alsmede door verantwoordelijken die deze hebben verkregen bij of krachtens de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba of de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES.   
 2.  Het verbod is niet van toepassing op de verantwoordelijke die deze gegevens ten eigen behoeve verwerkt ter: 
 
 a. beoordeling van een verzoek van betrokkene om een beslissing over hem te nemen of aan hem een prestatie te leveren of  
@@ -395,7 +395,7 @@ e. de bescherming van de betrokkene of van de rechten en vrijheden van anderen.
 ### Artikel  36  
 
 1.  Indien een verwerking plaatsvindt door instellingen of diensten voor wetenschappelijk onderzoek of statistiek, en de nodige voorzieningen zijn getroffen om te verzekeren dat de persoonsgegevens uitsluitend voor statistische en wetenschappelijke doeleinden kunnen worden gebruikt, kan de verantwoordelijke een mededeling als bedoeld in artikel 26 achterwege laten en weigeren aan een verzoek als bedoeld in artikel 27 te voldoen.   
-2.  Indien een verwerking plaatsvindt van persoonsgegevens die deel uitmaken van archiefbescheiden die ingevolge de [artikelen 12](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) of  [13 van de Archiefwet](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats, kan de verantwoordelijke een mededeling als bedoeld in artikel 26 achterwege laten.   
+2.  Indien een verwerking plaatsvindt van persoonsgegevens die deel uitmaken van archiefbescheiden die ingevolge de artikelen 12 of  13 van de Archiefwet zijn overgebracht naar een archiefbewaarplaats, kan de verantwoordelijke een mededeling als bedoeld in artikel 26 achterwege laten.   
 
 ### Hoofdstuk  6  
 
@@ -403,16 +403,15 @@ e. de bescherming van de betrokkene of van de rechten en vrijheden van anderen.
 
 ### Artikel  37  
 
-Een beslissing op een verzoek als bedoeld in de artikelen 27, 28 en 30, tweede lid, alsmede een beslissing naar aanleiding van de aantekening van verzet als bedoeld in de artikelen 32 of  33 gelden, voor zover deze zijn genomen door een bestuursorgaan, als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md).  
+Een beslissing op een verzoek als bedoeld in de artikelen 27, 28 en 30, tweede lid, alsmede een beslissing naar aanleiding van de aantekening van verzet als bedoeld in de artikelen 32 of  33 gelden, voor zover deze zijn genomen door een bestuursorgaan, als een beschikking als bedoeld in artikel 3 van de Wet administratieve rechtspraak BES.  
 
 ### Artikel  38  
 
 1.  Indien een beslissing als bedoeld in artikel 37 is genomen door een ander dan een bestuursorgaan, kan de belanghebbende zich tot het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba wenden met het schriftelijk verzoek, de verantwoordelijke te bevelen alsnog een verzoek als bedoeld in de artikelen 27, 28 en 30, tweede lid, toe of af te wijzen dan wel een verzet als bedoeld in de artikelen 32 of  31 al dan niet te honoreren.   
 2.  Het verzoekschrift moet worden ingediend binnen zes weken na ontvangst van het antwoord van de verantwoordelijke. Indien de verantwoordelijke niet binnen de gestelde termijn heeft geantwoord, moet het verzoekschrift worden ingediend binnen zes weken na afloop van die termijn.   
 3.  Het gerecht wijst het verzoek toe, voor zover het dit gegrond oordeelt. Alvorens het gerecht beslist, stelt het zo nodig de belanghebbenden in de gelegenheid hun zienswijze naar voren te brengen.   
-4.  De indiening van het verzoekschrift behoeft niet door een procureur te geschieden.   
-5.  De [derde afdeling van de vijfde titel van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) is van overeenkomstige toepassing.   
-6.  Het gerecht kan partijen en anderen verzoeken binnen een door haar te bepalen termijn schriftelijke inlichtingen te geven en onder hen berustende stukken in te zenden. De verantwoordelijke en belanghebbende zijn verplicht aan dit verzoek te voldoen.   
+4.  De derde afdeling van de vijfde titel van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES is van overeenkomstige toepassing.   
+5.  Het gerecht kan partijen en anderen verzoeken binnen een door haar te bepalen termijn schriftelijke inlichtingen te geven en onder hen berustende stukken in te zenden. De verantwoordelijke en belanghebbende zijn verplicht aan dit verzoek te voldoen.   
 
 ### Artikel  39  
 
@@ -424,7 +423,7 @@ Een beslissing op een verzoek als bedoeld in de artikelen 27, 28 en 30, tweede l
 ### Artikel  40  
 
 1.  Indien de verantwoordelijke of de bewerker handelt in strijd met het bij of krachtens deze wet bepaalde en een ander daardoor schade lijdt of dreigt te lijden, kan de rechter hem op vordering van die ander zodanig gedrag verbieden en hem bevelen maatregelen te treffen tot herstel van de gevolgen van dat gedrag.   
-2.  Een verwerking kan niet ten grondslag worden gelegd aan een vordering van een rechtspersoon die algemene of collectieve belangen behartigen, of een rechtspersoon als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), voor zover degene die door deze verwerking wordt getroffen, daartegen bezwaar heeft.   
+2.  Een verwerking kan niet ten grondslag worden gelegd aan een vordering van een rechtspersoon die algemene of collectieve belangen behartigen, of een rechtspersoon als bedoeld in artikel 305a van Boek 3 van het Burgerlijk Wetboek BES, voor zover degene die door deze verwerking wordt getroffen, daartegen bezwaar heeft.   
 
 ### Artikel  41  
 
@@ -471,7 +470,7 @@ f. de doorgifte geschiedt vanuit een register dat bij wettelijk voorschrift is i
 ### Artikel  45  
 
 1.  De commissie bestaat uit een voorzitter en twee andere leden.   
-2.  De voorzitter moet voldoen aan de bij of krachtens [artikel 23 van de Rijkswet Gemeenschappelijk Hof van Justitie](../../../../../../rijkswet/rijkswet/gemeenschappelijk/hof/van/justitie/BWBR0028070/README.md) gestelde vereisten voor benoembaarheid tot rechter in het Gemeenschappelijk Hof van Justitie.   
+2.  De voorzitter moet voldoen aan de bij of krachtens artikel 23 van de Rijkswet Gemeenschappelijk Hof van Justitie gestelde vereisten voor benoembaarheid tot rechter in het Gemeenschappelijk Hof van Justitie.   
 3.  De voorzitter en de leden worden bij koninklijk besluit benoemd, op voordracht van Onze Minister, voor een tijdvak van zes jaren.   
 
 ### Artikel  46  
@@ -508,9 +507,9 @@ Onze Minister kan de commissie om advies vragen over voorstellen van wet en ontw
 
 ### Artikel  51  
 
-1.  Met het toezicht op de naleving, bedoeld in artikel 44, zijn belast de leden van de commissie en de ambtenaren van het secretariaat. [Titel 5.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing, met uitzondering van de [artikelen 5.18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.19](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De commissie is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen. De [afdelingen 5.3.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.3.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing, met uitzondering van [artikel 5.27, tweede lid](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-3.  De in het eerste lid bedoelde personen zijn bevoegd een woning te betreden zonder toestemming van een bewoner. De [artikelen 155 tot en met 163 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) zijn van overeenkomstige toepassing, met dien verstande dat de machtiging, bedoeld in artikel 155 van het Wetboek van Strafvordering BES, wordt verleend door de commissie.   
+1.  Met het toezicht op de naleving, bedoeld in artikel 44, zijn belast de leden van de commissie en de ambtenaren van het secretariaat. Titel 5.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing, met uitzondering van de artikelen 5.18 en 5.19.   
+2.  De commissie is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen. De afdelingen 5.3.1 en 5.3.2 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing, met uitzondering van artikel 5.27, tweede lid.   
+3.  De in het eerste lid bedoelde personen zijn bevoegd een woning te betreden zonder toestemming van een bewoner. De artikelen 155 tot en met 163 van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing, met dien verstande dat de machtiging, bedoeld in artikel 155 van het Wetboek van Strafvordering BES, wordt verleend door de commissie.   
 4.  Geen beroep is mogelijk op een geheimhoudingsplicht, voor zover inlichtingen of medewerking worden verlangd in verband met de eigen betrokkenheid bij de verwerking van persoonsgegevens.   
 
 ### Artikel  52  

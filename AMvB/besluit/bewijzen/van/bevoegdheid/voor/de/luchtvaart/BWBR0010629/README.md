@@ -226,7 +226,7 @@ g. het bedienen van een schermvliegtuig onder door Onze Minister bij ministerië
 
 h. het bedienen van een ballon, die tijdens het in de lucht houden permanent is bevestigd aan het aardoppervlak (kabelballon);  
 
-i. het bedienen van een valscherm als bedoeld in [artikel 1, onderdeel a van de Regeling valschermspringen](../../../../../../../../..//BWBR0002497/README.md);  
+i. het bedienen van een scherm dat dient om de daalsnelheid van een persoon zodanig te beperken dat deze veilig het aardoppervlak kan bereiken (valscherm);  
 
 j. het bedienen van een luchtvaartuig onder toezicht van een instructeur, die houder is van een voor de bediening van dat luchtvaartuig en die vlucht afgegeven bewijs van bevoegdheid, waarop weergegeven de nodige bevoegdverklaringen op een zodanige wijze dat de instructeur onmiddellijk kan ingrijpen;  
 
@@ -640,75 +640,6 @@ Zolang in een vacature in de Adviescommissie niet is voorzien, vormen de overbli
 ### Hoofdstuk  6  
 
 ####Overgangs- en slotbepalingen
-
-### Artikel  38  
-
-1.  Met uitzondering van diegene die in aanmerking komt voor een bewijs van bevoegdheid als bedoeld in artikel 41, eerste lid, wordt aan de houder van een geldig bewijs van bevoegdheid of bevoegdverklaring, zonder dat behoeft te worden voldaan aan de bij of krachtens artikel 8, eerste lid, van dit besluit gestelde eisen, een nieuw bewijs van bevoegdheid of bevoegdverklaring afgegeven voor de nog lopende periode van onderscheidenlijk het bewijs van bevoegdheid of de bevoegdverklaring, met dien verstande dat: 
-
-a. aan een houder van een vliegbewijs B1, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 6, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) een ATPL wordt afgegeven in een overeenkomende categorie luchtvaartuigen;  
-
-b. aan een houder van een vliegbewijs B2 als bedoeld in [artikel 12, eerste lid, onderdeel a, onder 5, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md), een CPL wordt afgegeven in de categorie vliegtuigen met de aantekening, dat de houder bevoegd is tot het optreden als eerste bestuurder tijdens verkeersvluchten op multi-pilot vliegtuigen met een maximum startmassa van niet meer dan 20 000 kg., indien hij in het bezit is van een bijzondere bevoegdverklaring voor een multi-pilot vliegtuigtype;  
-
-c. aan een houder van een vliegbewijs B2, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 5 van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) een CPL wordt afgegeven in de categorie vliegtuigen, indien hij niet in het bezit is van een bijzondere bevoegdverklaring voor een multi-pilot vliegtuigtype;  
-
-d. aan een houder van een vliegbewijs B3 als bedoeld in [artikel 12, eerste lid, onderdeel a, onderdeel 4, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md), een CPL wordt afgegeven in de categorie vliegtuigen met de aantekening, dat de houder bevoegd is tot het optreden als eerste bestuurder tijdens verkeersvluchten op multi-pilot vliegtuigen met een maximum startmassa van niet meer dan 5 700 kg., indien hij in het bezit is van een bijzondere bevoegdverklaring voor een multi-pilot vliegtuigtype met een maximum startmassa van niet meer dan 5 700 kg;  
-
-e. aan een houder van een vliegbewijs B3, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 4, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) een CPL wordt afgegeven in een overeenkomende categorie luchtvaartuigen;  
-
-f. aan een houder van een vliegbewijs A, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 3, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) een PPL wordt afgegeven in een overeenkomende categorie luchtvaartuigen;  
-
-g. aan een houder van een bijzondere bevoegdverklaring VK1A onderscheidenlijk VK2A een bijzondere bevoegdverklaring SE piston (land) onderscheidenlijk ME piston (land) wordt afgegeven, en indien genoemde houder aantoont in een voorafgaande periode van 12 maanden ten minste 10 uur vliegervaring te hebben opgedaan op een vliegtuigtype met een MTOW van maximaal 2000 kg, uitgerust met een turbinemotor, een bijzondere bevoegdverklaring voor dat betreffende vliegtuigtype wordt afgegeven;  
-
-h. aan een houder van een bevoegdverklaring blindvliegen, als bedoeld in [artikel 16, onderdeel a, sub 2, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) of een vliegbewijs B1, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 6, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) in de categorie luchtvaartuigen, afhankelijk van hun vliegtuigbevoegdverklaring een IR-SE of IR-ME, dan wel beide wordt afgegeven in een overeenkomende categorie luchtvaartuigen;  
-
-i. aan een houder van een beperkt vliegbewijs A, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 2, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md), een RPL wordt afgegeven in een overeenkomende categorie luchtvaartuigen met een overeenkomende bijzondere bevoegdverklaring;  
-
-j. aan een houder van een oefenbewijs, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 1, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md), in een van de in artikel 2, tweede lid, genoemde categorieën luchtvaartuigen vrijstelling wordt verleend als bedoeld in artikel 11, onderdeel h van dit besluit.     
-2.  Aan andere dan de in het eerste lid genoemde houders van een geldig bewijs van bevoegdheid wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens artikel 8, eerste lid van dit besluit genoemde eisen, een nieuw bewijs van bevoegdheid verstrekt, dat gelijkwaardig is aan hun huidige bewijs van bevoegdheid;   
-3.  Aan andere dan de in het eerste lid genoemde houders van een geldige algemene bevoegdverklaring wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens artikel 8, eerste lid, van dit besluit, genoemde eisen, een nieuwe bevoegdverklaring op het document weergegeven dat gelijkwaardig is aan hun huidige bevoegdverklaring;   
-4.  Aan degene die vliegonderricht geeft of heeft gegeven, als bedoeld in artikel 3, tweede lid, onderdeel g, h of j, wordt op verzoek een TRI onderscheidenlijk CRI onderscheidenlijk SFI afgegeven, indien hij aantoont voor de inwerkingtreding van dit besluit ten minste 5 uur het bedoelde vliegonderricht te hebben gegeven in de voorafgaande periode van 12 maanden.   
-5.  Aan andere dan de in het eerste lid genoemde houders van een geldige bijzondere bevoegdverklaring wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens artikel 8, eerste lid, van dit besluit genoemde eisen, een bijzondere bevoegdverklaring als bedoeld in bijlage I bij dit besluit weergegeven op het document.   
-6.  Aan degenen die op het moment van inwerkingtreding van dit besluit aan kunnen tonen bevoegd te zijn om praktijkexamens af te nemen en te beoordelen wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens artikel 8, eerste lid, van dit besluit genoemde eisen een autorisatiedocument verstrekt met inbegrip van bevoegdheden gelijkwaardig aan de bevoegdheden die zij op dat moment hebben.   
-7.  Aan een houder van een geldige ontheffing voor het besturen van een ultra licht vliegtuig, die op grond van [artikel 8a, derde lid, van de Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) is verstrekt, wordt op verzoek en op afgifte van de ontheffing een RPL afgegeven in de categorie vliegtuigen, met de bijzondere bevoegdverklaring MLA.   
-8.  Aan een houder van een geldige ontheffing voor het geven van vliegonderricht op een ultra licht vliegtuig, die op grond van [artikel 8a, derde lid van de Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) is verstrekt, wordt op verzoek en op afgifte van de ontheffing een RFI afgegeven in de categorie vliegtuigen, met de bijzondere bevoegdverklaring MLA.   
-9.  Aan een houder van een geldige ontheffing voor het besturen van een gyrocopter, die op grond van [artikel 8a, derde lid, van de Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) is verstrekt, wordt op verzoek en op afgifte van de ontheffing een RPL afgegeven in de categorie helicopters, met de bijzondere bevoegdverklaring gyroplane voor het overeenkomende type gyroplane.   
-10.  Aan een houder van een ontheffing, die op grond van de Regeling havendienstradio is verleend, wordt met ingang van 1 oktober 1999 een bewijs van bevoegdheid verstrekt als bedoeld in artikel 17, onderdeel d.   
-11.  Bewijzen van bevoegdheid die op het tijdstip van inwerkingtreding van dit besluit op grond van artikel 2 van het Besluit kwalificaties luchtverkeersdienstverlening zijn afgegeven, worden aangemerkt als zijnde afgegeven op grond van dit besluit, met dien verstande dat zij hun geldigheid blijven behouden voor de in het bewijs genoemde termijn.   
-12.  Bewijzen van bevoegdheid, bevoegdverklaringen, autorisaties en ontheffingen, die op grond van dit artikel zijn verstrekt danwel afgegeven kunnen, voor zover zij betrekking hebben op danwel samenhangen met het ATPL, CPL of PPL tot uiterlijk acht jaar na inwerkingtreding van het desbetreffende lid of onderdeel van dit artikel worden verlengd zonder dat behoeft te worden voldaan aan de bij of krachtens artikel 41 van dit besluit gestelde eisen, na welk tijdstip zij komen te vervallen.   
-
-### Artikel  39  
-
-1.  Aan diegenen die op het moment van inwerkingtreding van dit besluit in het bezit zijn van een geldig vliegbewijs B1, B2, B3 of boordwerktuigkundige als bedoeld in [artikel 12, eerste lid, van de R.T.L.](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) wordt een gelijkwaardige medische verklaring klasse I afgegeven voor de nog lopende periode van het bewijs van bevoegdheid.   
-2.  Aan houders van andere vliegbewijzen dan in het eerste lid genoemde wordt een gelijkwaardige medische verklaring klasse II afgegeven voor de nog lopende periode van het bewijs van bevoegdheid.   
-3.  Aan houders van een medische verklaring weergegeven op een bewijs van bevoegdheid als bedoeld in artikel 17, onderdeel a of b, wordt een gelijkwaardige medische verklaring klasse III afgegeven voor de nog lopende periode van eerstgenoemde medische verklaring.   
-4.  Na overleg van een geldig medisch keuringsrapport kan Onze Minister een gelijkwaardige medische verklaring van de bijbehorende klasse afgegeven voor de nog lopende periode van de medische verklaring.   
-
-### Artikel  41  
-
-####Conversie
-
-1.  Aan degene die op grond van artikel 38 in aanmerking komt voor een ATPL of CPL in de categorie vliegtuigen wordt op verzoek voor de duur van dat bewijs een gelijkwaardig bewijs van bevoegdheid afgegeven op een document als bedoeld in Appendix 1 behorend bij JAR-FCL 1 075, indien hij aantoonbaar voldoet aan de eisen als bedoeld in Appendix 1 behorend bij JAR-FCL 1 005 en RT heeft behaald en geldig gehouden.   
-2.  Aan degene die op grond van artikel 38 in aanmerking komt voor een PPL in de categorie vliegtuigen wordt op verzoek voor de duur van dat bewijs een gelijkwaardig bewijs van bevoegdheid afgegeven op een document, als bedoeld in Appendix 1 behorend bij JAR-FCL 1 075, indien hij aantoonbaar: 
-
-a. met goed gevolg de bekwaamheidsproef voor de desbetreffende bijzondere bevoegdverklaring heeft afgelegd;  
-
-b. aan Onze Minister verklaard heeft de relevante bepalingen van JAR-FCL te kennen;  
-
-c. ten minste 70 uur totale vliegervaring heeft in de desbetreffende bijzondere bevoegdverklaring;  
-
-d. RT heeft behaald en geldig gehouden.     
-3.  Aan degene die op grond van artikel 38 in aanmerking komt voor een ATPL, CPL of PPL in de categorie helicopters wordt op verzoek voor de duur van dat bewijs een gelijkwaardig bewijs van bevoegdheid afgegeven op een document als bedoeld in Appendix 1 behorend bij JAR-FCL 2 075, indien hij aantoonbaar voldoet aan de eisen, bedoeld in Appendix 1 behorend bij JAR-FCL 2 005 en in het bezit is van een geldig RT.   
-4.  Aan degene die op grond van artikel 38 in aanmerking komt voor een CFEL in de categorie vliegtuigen wordt op verzoek, voor de duur van dat bewijs, een gelijkwaardig bewijs van bevoegdheid afgegeven op een document als bedoeld in Appendix 1 behorend bij JAR-FCL 4 075, indien hij aantoonbaar voldoet aan de eisen, bedoeld in Appendix 1 behorend bij JAR-FCL 4 005 en in het bezit is van een geldig RT.   
-5.  Het eerste tot en met vierde lid is van overeenkomstige toepassing op een algemene bevoegdverklaring, voor zover het verzoek tot afgifte van die bevoegdverklaring tezamen met het verzoek als bedoeld in het eerste tot en met het vierde lid wordt ingediend.   
-6.  Aan degene die op grond van artikel 38, eerste lid, onderdeel m, eerste lid, subonderdeel 3°, in aanmerking komt voor een RPL met een algemene bevoegdverklaring RFI in de categorie vliegtuigen, klasse touring-motorglider, en een PPL voor de categorie vliegtuigen met de bijzondere bevoegdverklaring TMG, wordt de bevoegdverklaring FI afgegeven in een overeenkomende categorie, indien hij aantoonbaar: 
-
-a. voldoet aan de eisen voorafgaand aan de FI-cursus als bedoeld in JAR-FCL 1 335;  
-
-b. met goed gevolg de FI-cursus als bedoeld in JAR-FCL 1 340 heeft gevolgd;  
-
-c. theoretische kennis op CPL-niveau heeft;  
-
-d. met goed gevolg een praktisch examen als bedoeld in JAR-FCL 1 345 met Appendix 1 bij JAR-FCL 1 330 en 1 345 heeft afgelegd, met dien verstande dat tot 1 juli 2002 in plaats van de gevraagde 150 uur ervaring als gezagvoerder met een PPL voor de categorie vliegtuigen deze uren ook als houder van een zweefvliegbewijs met de bevoegdverklaring motorzweefvliegen worden geaccepteerd.     
 
 ### Artikel  42  
 

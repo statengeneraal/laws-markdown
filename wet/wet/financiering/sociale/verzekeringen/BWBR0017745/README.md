@@ -32,7 +32,7 @@ f. Ouderdomsfonds: het Ouderdomsfonds, genoemd in artikel 82, eerste lid;
 
 g. Nabestaandenfonds: het Nabestaandenfonds, genoemd in artikel 82, tweede lid;  
 
-h. Spaarfonds AOW: het Spaarfonds AOW, genoemd in artikel 86;  
+h.  vervallen;   
 
 i. Algemeen Fonds Bijzondere Ziektekosten: het Algemeen Fonds Bijzondere Ziektekosten, genoemd in artikel 89;  
 
@@ -723,25 +723,6 @@ c. voor een dienstbetrekking van die uitkeringsgerechtigde in het kalenderjaar n
 1.  De werkgever vraagt de vrijstelling aan voor de afloop van de dienstbetrekking. De aanvraag wordt mede door de uitkeringsgerechtigde ondertekend.   
 2.  De aanvraag bevat in ieder geval het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de uitkeringsgerechtigde.   
 
-### Artikel  52a  
-
-####Voorwaarden premievrijstelling arbeid in kleine banen
-
-1.  De werkgever is geen premies op grond van dit hoofdstuk verschuldigd over het loon van een werknemer ingeval het loon per maand niet meer bedraagt dan het voor de werknemer geldende bedrag, opgenomen in de derde kolom van de volgende tabel (kleinebanentabel).  
-
-| Indien de werknemer de leeftijd heeft bereikt van  | maar nog niet de leeftijd van  | is dit artikel van toepassing ingeval het loon per maand niet meer bedraagt dan  |
-|:---|:---|:---|
-| --- | 18 jaar  | € 275  |
-| 18 jaar  | 19 jaar  | € 325  |
-| 19 jaar  | 20 jaar  | € 375  |
-| 20 jaar  | 21 jaar  | € 425  |
-| 21 jaar  | 22 jaar  | € 500  |
-| 22 jaar  | 23 jaar  | € 600  |
-
-2.  Bij de bepaling of het eerste lid van toepassing is, worden tantièmes, gratificaties en andere beloningen die in de regel slechts eenmaal of eenmaal per jaar worden toegekend niet in aanmerking genomen.   
-3.  Indien het loontijdvak een ander tijdvak is dan een maand wordt het in de kleinebanentabel opgenomen bedrag door herleiding bepaald. Bij die herleiding wordt een jaar op 260 dagen, een maand op 65/3 dag, een week op 5 dagen en een tijdvak dat korter is dan een dag op een dag gesteld.   
-4.  Bij het begin van het kalenderjaar worden de bedragen van de kleinebanentabel, opgenomen in het eerste lid, bij ministeriële regeling vervangen door andere bedragen. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). De bedragen worden afgerond op een veelvoud van € 25. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.   
-
 ### Artikel  53  
 
 ####Aanwijzing categorieën werknemers
@@ -1113,7 +1094,7 @@ b. de lasten van de regeling, vervat in [hoofdstuk VIII van de Algemene Ouderdom
 
 ####Prognose benodigde middelen
 
-Onze Minister stelt een keer per jaar een prognose op van de benodigde middelen tot dekking van de lasten van de algemene ouderdomsverzekering voor de eerstkomende tien jaren, waarbij onderscheid wordt gemaakt naar de opbrengst van de premies voor de algemene ouderdomsverzekering, de rijksbijdragen, bedoeld in artikel 14, en de ontvangsten en uitgaven van het Spaarfonds AOW.  
+Onze Minister stelt een keer per jaar een prognose op van de benodigde middelen tot dekking van de lasten van de algemene ouderdomsverzekering voor de eerstkomende tien jaren, waarbij onderscheid wordt gemaakt naar de opbrengst van de premies voor de algemene ouderdomsverzekering en de rijksbijdragen bedoeld in artikel 14.  
 
 ### Artikel  85  
 
@@ -1136,28 +1117,6 @@ b. de lasten voortvloeiend uit [hoofdstuk 8 van de Algemene nabestaandenwet](../
 
 c. de lasten van de tegemoetkomingen, bedoeld in [artikel 29a van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), en de daaraan verbonden uitvoeringskosten.     
 
-### Artikel  86  
-
-####Spaarfonds AOW
-
-1.  Er is een Spaarfonds AOW.   
-2.  Het Spaarfonds AOW is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
-3.  De ontvangsten van het Spaarfonds AOW worden gevormd door bijdragen ten laste van de begroting van het Ministerie van Sociale Zaken en Werkgelegenheid en door renten op het saldo van het fonds.   
-4.  De uitgaven van het Spaarfonds AOW strekken ter bekostiging van lasten van de algemene ouderdomsverzekering.   
-5.  Onze Minister beheert de begroting van het Spaarfonds AOW.   
-6.  In afwijking van de [artikelen 2, derde lid](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), en [52, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) worden de begroting en de financiële verantwoording van het fonds uitsluitend op kasbasis gepresenteerd.   
-7.  Het gerealiseerde batig saldo van het Spaarfonds AOW van enig jaar wordt ten gunste gebracht van de begroting van het Spaarfonds AOW van het daaropvolgende jaar.   
-
-### Artikel  87  
-
-####Rijksbijdrage Spaarfonds AOW
-
-1.  Jaarlijks komt een bijdrage als bedoeld in artikel 86, derde lid, ten gunste van het Spaarfonds AOW.   
-2.  De omvang van elke ten gunste van het Spaarfonds AOW komende bijdrage wordt door Onze Minister in overeenstemming met Onze Minister van Financiën bepaald.   
-3.  In elk jaar wordt een bijdrage ten gunste van het Spaarfonds AOW gebracht die ten minste € 113 445 054 hoger is dan het bedrag dat in het jaar, voorafgaande aan het desbetreffende jaar, ten minste ten gunste van het Spaarfonds AOW diende te worden gebracht.   
-4.  Het in het Spaarfonds AOW aanwezige saldo wordt rentedragend in 's Rijks schatkist aangehouden.   
-5.  Onze Minister van Financiën stelt jaarlijks de rente vast die over het saldo van het Spaarfonds AOW wordt vergoed.   
-
 ### Artikel  87a  
 
 ####Bijdrage Zorgverzekeringsfonds
@@ -1166,12 +1125,6 @@ c. de lasten van de tegemoetkomingen, bedoeld in [artikel 29a van de Algemene na
 2.  De bijdrage, bedoeld in het eerste lid, vormt het verschil tussen het in het kalenderjaar geldende percentage, bedoeld in [artikel 45, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat wordt toegepast voor het loon, bedoeld in [artikel 42, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en het in het kalenderjaar geldende percentage, bedoeld in artikel 45, tweede lid, van de Zorgverzekeringswet, dat wordt toegepast voor het bijdrage-inkomen, bedoeld in [artikel 43, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), vermenigvuldigd met de lasten van de algemene ouderdomsverzekering en de vrijwillige algemene ouderdomsverzekering.   
 3.  De SVB stelt regels omtrent de termijnen waarin en de wijze waarop de bijdrage, bedoeld in het eerste lid, betaalbaar wordt gesteld.   
 4.  De door de SVB op grond van het derde lid gestelde regels behoeven de goedkeuring van Onze Minister, na overleg met Onze Ministers van Financiën en van Volksgezondheid, Welzijn en Sport.   
-
-### Artikel  88  
-
-####Toepassing AOW-fondsen vanaf 2020
-
-Onze Minister kan in overeenstemming met Onze Minister van Financiën besluiten vanaf het jaar 2020 uit het Spaarfonds AOW lasten van de algemene ouderdomsverzekering te betalen.  
 
 ### §  2  
 

@@ -44,26 +44,10 @@ d. rechtspersonen of vennootschappen die speciaal zijn opgericht:
 3°. om kredietuitzettingen te verrichten ten behoeve van uitsluitend een of meer professionele marktpartijen als bedoeld in [artikel 1:1, onderdeel a of b, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).       
 2.  Personen of vennootschappen van wie opvorderbare gelden worden aangetrokken, ter beschikking worden verkregen of ter beschikking worden gehouden, worden in hun rechtsverhouding tot degene die de opvorderbare gelden aantrekt, ter beschikking verkrijgt onderscheidenlijk ter beschikking heeft, aangewezen als professionele marktpartij in de zin van onderdeel c van de definitie van professionele marktpartij in [artikel 1:1 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien: 
 
-a. de nominale waarde van de eerste vordering dan wel van de eerste gezamenlijk verworven vorderingen tezamen, binnen deze rechtsverhouding ten minste € 50.000 bedraagt en dit bedrag ineens wordt verstrekt; of  
+a. de nominale waarde van de eerste vordering dan wel van de eerste gezamenlijk verworven vorderingen tezamen, binnen deze rechtsverhouding ten minste € 100.000 bedraagt en dit bedrag ineens wordt verstrekt; of  
 
-b. de eerste vordering dan wel de eerste gezamenlijk verworven vorderingen tezamen, binnen deze rechtsverhouding slechts kunnen worden dan wel zijn verworven voor een bedrag van ten minste € 50.000 ineens.     
-
-### Artikel  4  
-
-1.  Als kleine onderneming in de zin van onderdeel d van de definitie van gekwalificeerde belegger in [artikel 1:1 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) worden aangemerkt rechtspersonen of vennootschappen die volgens de meest recente jaarrekening of geconsolideerde jaarrekening aan tenminste twee van de volgende drie criteria voldoen: 
-
-a. een gemiddeld aantal werknemers gedurende het boekjaar van minder dan 250;  
-
-b. een balanstotaal van ten hoogste € 43.000.000;  
-
-c. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.     
-2.  Natuurlijke personen in de zin van onderdeel f van de definitie van gekwalificeerde belegger in [artikel 1:1 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn natuurlijke personen die aan tenminste twee van de volgende drie criteria voldoen: 
-
-a. de natuurlijke persoon heeft in de loop van de voorafgaande vier kwartalen ten minste tien omvangrijke transacties per kwartaal op de effectenmarkten verricht;  
-
-b. de effectenportefeuille van de natuurlijke persoon heeft een omvang van meer dan € 500.000;  
-
-c. de natuurlijke persoon is ten minste een jaar werkzaam of werkzaam geweest in de financiële sector in het kader van een beroepsbezigheid die kennis van beleggingen in effecten vereist.     
+b. de eerste vordering dan wel de eerste gezamenlijk verworven vorderingen tezamen, binnen deze rechtsverhouding slechts kunnen worden dan wel zijn verworven voor een bedrag van ten minste € 100.000 ineens.     
+3.  Op overeenkomsten betreffende het aantrekken, het ter beschikking verkrijgen of het ter beschikking hebben van opvorderbare gelden die zijn aangegaan voor het tijdstip van inwerkingtreding van [artikel III, onderdeel A, van het Wijzigingsbesluit financiële markten 2012](../../../../../AMvB/wijzigingsbesluit/financiële/markten/2012/BWBR0030619/README.md), blijft het tweede lid, zoals dat onmiddellijk voorafgaand aan dat tijdstip luidde, van toepassing.   
 
 ### Artikel  5  
 

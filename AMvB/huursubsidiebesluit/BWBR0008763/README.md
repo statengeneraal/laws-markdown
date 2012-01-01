@@ -46,9 +46,9 @@ c. een penitentiaire inrichting.
 
 a. de verzorgingsbehoefte blijkt uit een verklaring van een indicatieorgaan als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 3 780 en  
+b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 3 850 en  
 
-c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 41 475.     
+c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 42 250.     
 3.  Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn.   
 4.  [Artikel 27, eerste lid, van de wet](../../../wet/huursubsidiewet/BWBR0008659/README.md) is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.   
 
@@ -122,7 +122,12 @@ De voorzitter van de huurcommissie vermeldt in de verklaring, bedoeld in [artike
 
 ### Hoofdstuk  5  
 
-####Prestatienormering
+####Kwaliteitskorting
+
+### Artikel  7  
+
+1.  Het percentage, bedoeld in [artikel 21, eerste lid, onder b, van de wet](../../../wet/huursubsidiewet/BWBR0008659/README.md), is 65.   
+2.  Het percentage, bedoeld in [artikel 21, eerste lid, onder c, van de wet](../../../wet/huursubsidiewet/BWBR0008659/README.md), is 40.   
 
 ### HOOFDSTUK  6  
 

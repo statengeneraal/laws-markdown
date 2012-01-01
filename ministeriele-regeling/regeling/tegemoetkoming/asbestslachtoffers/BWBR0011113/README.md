@@ -60,7 +60,7 @@ De werknemer die op het moment van de aanvraag in leven is en bij wie met toepas
 
 a. is vastgesteld dat het maligne mesothelioom is veroorzaakt door blootstelling aan asbest tijdens het verrichten van arbeid als werknemer;  
 
-b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte maligne mesothelioom van de werkgever heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 15 882 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet; en  
+b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte maligne mesothelioom van de werkgever heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 18.626.- ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet; en  
 
 c. de schade niet langs burgerrechtelijke weg kan of kon worden verhaald.    
 
@@ -79,15 +79,15 @@ b. voordat hij de aanvraag heeft ingediend, doch nadat hij bij het instituut asb
 ####Beperkingen recht op eenmalige uitkering
 
 1.  Indien de werknemer ten behoeve van meer dan één werkgever arbeid heeft verricht gedurende welke hij is blootgesteld aan asbest en die het maligne mesothelioom kan hebben veroorzaakt, bestaat het recht op een eenmalige uitkering uitsluitend als de omstandigheden, bedoeld in artikel 3, zich ten aanzien van elk van de betreffende werkgevers voordoen.   
-2.  Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever heeft ontvangen, bestaat het recht op eenmalige uitkering in afwijking van artikel 3 uitsluitend voor zover die betaling lager is dan € 15 882 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.   
+2.  Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever heeft ontvangen, bestaat het recht op eenmalige uitkering in afwijking van artikel 3 uitsluitend voor zover die betaling lager is dan € 18.626.- ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.   
 3.  Geen recht op een eenmalige uitkering bestaat indien aan de werknemer of diens nabestaanden reeds een voorschot als bedoeld in artikel 6a of artikel 10b dan wel een eenmalige uitkering als bedoeld in artikel 10a is betaald.   
 
 ### Artikel  6  
 
 ####Hoogte eenmalige uitkering
 
-1.  De eenmalige uitkering strekt tot tegemoetkoming in immateriële schade en bedraagt € 15 882 .   
-2.  Indien de werkgever in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 15 882 of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 5, tweede lid, wordt de hoogte van de eenmalige uitkering vastgesteld op het verschil tussen het ontvangen bedrag en € 15 882.   
+1.  De eenmalige uitkering strekt tot tegemoetkoming in immateriële schade en bedraagt € 18.626.-.   
+2.  Indien de werkgever in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 18.626.- of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 5, tweede lid, wordt de hoogte van de eenmalige uitkering vastgesteld op het verschil tussen het ontvangen bedrag en € 18.626.-.   
 3.  Voor de toepassing van het tweede lid van dit artikel en van artikel 3, onderdeel b, wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) in mindering zijn gebracht.   
 
 ### Hoofdstuk  2a  
@@ -102,7 +102,7 @@ De werknemer die op het moment van de aanvraag in leven is en bij wie met toepas
 
 a. hij aannemelijk heeft gemaakt dat het maligne mesothelioom is veroorzaakt door blootstelling aan asbest tijdens het verrichten van arbeid als werknemer;  
 
-b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte maligne mesothelioom van de werkgever heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 15.882,- ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;  
+b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte maligne mesothelioom van de werkgever heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 18.626,- ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;  
 
 c. hij zich verplicht tot medewerking aan bemiddeling door het instituut asbestslachtoffers tussen hem en de werkgever om de schade vergoed te krijgen en, met inachtneming van onderdeel d, tot medewerking om de schade zo nodig langs gerechtelijke weg vergoed te krijgen;  
 
@@ -124,15 +124,15 @@ Indien de werknemer is overleden nadat hij de aanvraag heeft ingediend, doch voo
 
 ####Beperking recht op voorschot
 
-1.  Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever heeft ontvangen, bestaat het recht op een voorschot in afwijking van artikel 6a uitsluitend voorzover die betaling lager is dan € 15.882,= ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.   
+1.  Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever heeft ontvangen, bestaat het recht op een voorschot in afwijking van artikel 6a uitsluitend voorzover die betaling lager is dan € 18.626.- ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.   
 2.  Geen recht op een voorschot bestaat indien aan de werknemer of diens nabestaanden reeds een eenmalige uitkering als bedoeld in artikel 3 of artikel 10a dan wel een voorschot als bedoeld in artikel 10b is betaald.   
 
 ### Artikel  6d  
 
 ####Hoogte voorschot
 
-1.  Het voorschot bedraagt € 15.882,-.   
-2.  Indien de werkgever in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 15.882,- of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 6c, eerste lid, wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 15.882,-.   
+1.  Het voorschot bedraagt € 18.626.-.   
+2.  Indien de werkgever in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 18.626.- of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 6c, eerste lid, wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 18.626.-.   
 3.  Voor de toepassing van het tweede lid en van artikel 6a, onderdeel b, wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en premies voor de volksverzekeringen op grond van de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) in mindering zijn gebracht.   
 
 ### Hoofdstuk  3  
@@ -294,35 +294,35 @@ h. hoe uit de overeenkomst voortvloeiende geschillen zullen worden beslecht.
 
 ### Artikel  16  
 
-####Raming lasten
+####Raming baten en lasten
 
-1.  Uiterlijk op 1 oktober van elk jaar verstrekt de SVB aan de Minister een opgave van het totaalbedrag aan geraamde uitgaven voor de uitkeringen in het kader van deze regeling in het komende jaar, waarbij rekening wordt gehouden met de uitkeringslasten, bedoeld in artikel 17, derde lid, met een uitsplitsing naar maand.   
-2.  In het jaarplan met begroting verstrekt de SVB elk jaar aan de Minister een opgave van het totaalbedrag aan geraamde uitvoeringskosten van deze regeling.   
+1.  Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot deze regeling, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.   
+2.  In de opgave van de uitkeringslasten, bedoeld in het eerste lid, wordt rekening gehouden met de posten genoemd in artikel 19, tweede lid.   
 
 ### Artikel  17  
 
-####Rijksbijdrage
+####Betaling voorschot
 
 1.  De uitkeringslasten en uitvoeringskosten van deze regeling worden gefinancierd uit een rijksbijdrage ten laste van de begroting van de minister.   
-2.  Met als valutadag de eerste dag van elke maand draagt het Rijk een periodiek voorschot op het bedrag, bedoeld in artikel 16, eerste lid en éénvierde van de geraamde uitvoeringskosten per jaar af aan de SVB. Het Rijk kan, na overleg met de SVB, van deze bedragen afwijken.   
-3.  Op de uitkeringslasten van deze regeling komen in mindering: 
+2.  De Minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md), een periodiek voorschot op het bedrag, bedoeld in artikel 16, van: 
+
+a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en  
+
+b. 1/12 <sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+3.  De Minister kan, na overleg met de SVB, van de in het tweede lid, onderdelen a en b, bedoelde bedragen afwijken.   
+
+### Artikel  19  
+
+####Afrekening
+
+1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 17, tweede lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot deze regeling opgenomen.   
+2.  Op de in het eerste lid bedoelde uitkeringslasten komen in mindering: 
 
 a. de bedragen die op grond van artikel 6a, onderdelen e en f, zijn terugbetaald;  
 
 b. de eenmalige uitkeringen en voorschotten die op grond van artikel 12 zijn teruggevorderd en zijn terugbetaald.     
-
-### Artikel  18  
-
-####Afwijking
-
-In afwijking van artikel 17 kan in bijzondere gevallen een hogere of een lagere afdracht als bedoeld in artikel 17, tweede lid, worden verstrekt.  
-
-### Artikel  19  
-
-####Afrekening en definitieve vaststelling rijksbijdrage
-
-1.  De SVB dient jaarlijks vóór 1 juli de afrekening van de lasten en de uitvoeringskosten in bij de minister met betrekking tot de kasuitgaven in het kader van deze regeling over het afgelopen kalenderjaar. Op grond van deze afrekening vindt een betaling ten gunste of ten laste van de SVB plaats.   
-2.  De minister stelt jaarlijks vóór 31 oktober, na ontvangst van de jaarrekening met een verklaring over de rechtmatigheid, de rijksbijdrage, bedoeld in artikel 17, eerste lid, definitief vast op de lasten en uitvoeringskosten van de SVB in het kader van deze regeling over het afgelopen kalenderjaar.   
+3.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.   
+4.  Voor de afrekening van de lasten en de uitvoeringskosten van deze regeling en de vaststelling en afrekening van de rijksbijdrage ten gunste of ten laste van de SVB voor het jaar 2011, is artikel 19, zoals dat luidde op 31 december 2011, van toepassing.   
 
 ### Hoofdstuk  6  
 

@@ -20,11 +20,11 @@ a. Onze minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
 b. monumenten: 
 
-1. alle vóór tenminste vijftig jaar vervaardigde zaken welke van algemeen belang zijn wegens hun schoonheid, hun betekenis voor de wetenschap of hun cultuurhistorische waarde;  
+1. vervaardigde zaken welke van algemeen belang zijn wegens hun schoonheid, hun betekenis voor de wetenschap of hun cultuurhistorische waarde;  
 
 2. terreinen welke van algemeen belang zijn wegens daar aanwezige zaken als bedoeld onder 1;    
 
-c. archeologische monumenten: de monumenten, bedoeld in onderdeel *b*, onder 2;  
+c. archeologische monumenten: de monumenten, bedoeld in onderdeel b, onder 2;  
 
 d. beschermde monumenten: onroerende monumenten welke zijn ingeschreven in de ingevolge deze wet vastgestelde registers;  
 
@@ -54,16 +54,11 @@ i. de Raad: de Raad voor cultuur, bedoeld in [artikel 2a van de Wet op het speci
 ### Artikel  3  
 
 1.  Onze minister kan ambtshalve onroerende monumenten aanwijzen als beschermd monument.   
-2.  Onze minister kan op aanvraag onroerende monumenten aanwijzen als beschermd monument, indien het betreft: 
-
-a. monumenten als bedoeld in artikel 1, onderdeel b, onder 1, die zijn vervaardigd na 31 december 1939, en  
-
-b. monumenten als bedoeld in artikel 1, onderdeel b, onder 2.     
-3.  Voordat Onze minister ter zake een beschikking geeft, vraagt hij advies aan burgemeester en wethouders van de gemeente waarin het monument is gelegen en, indien de monumenten zijn gelegen buiten de krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vastgestelde bebouwde kom, tevens aan gedeputeerde staten.   
-4.  Onze minister doet mededeling van de adviesaanvraag, bedoeld in het derde lid, aan degenen die in de basisregistratie kadaster als eigenaar en beperkt gerechtigde staan vermeld, en, indien om aanwijzing is verzocht, aan de verzoeker.   
-5.  Burgemeester en wethouders stellen de in het derde lid genoemde belanghebbenden in de gelegenheid zich te doen horen en plegen het overleg, bedoeld in artikel 2, tweede lid.   
-6.  Burgemeester en wethouders brengen hun advies uit binnen vijf maanden na de verzending van de in het derde lid bedoelde adviesaanvraag, gedeputeerde staten binnen vier maanden.   
-7.  Onze minister beslist, de Raad gehoord, binnen tien maanden na de datum van de verzending van de adviesaanvraag aan burgemeester en wethouders, dan wel indien om aanwijzing is verzocht, binnen tien maanden na ontvangst van dat verzoek.   
+2.  Voordat Onze minister ter zake een beschikking geeft, vraagt hij advies aan burgemeester en wethouders van de gemeente waarin het monument is gelegen en, indien de monumenten zijn gelegen buiten de krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vastgestelde bebouwde kom, tevens aan gedeputeerde staten.   
+3.  Onze minister doet mededeling van de adviesaanvraag, bedoeld in het tweede lid, aan degenen die in de basisregistratie kadaster als eigenaar en beperkt gerechtigde staan vermeld.   
+4.  Burgemeester en wethouders stellen de in het derde lid genoemde belanghebbenden in de gelegenheid zich te doen horen en plegen het overleg, bedoeld in artikel 2, tweede lid.   
+5.  Burgemeester en wethouders brengen hun advies uit binnen vijf maanden na de verzending van de in het tweede lid bedoelde adviesaanvraag, gedeputeerde staten binnen vier maanden.   
+6.  Onze minister beslist, de Raad gehoord, binnen tien maanden na de datum van de verzending van de adviesaanvraag aan burgemeester en wethouders.   
 
 ### Artikel  4  
 
@@ -71,7 +66,7 @@ Onze minister doet mededeling van zijn beschikking aan burgemeester en wethouder
 
 ### Artikel  5  
 
-1.  Met ingang van de datum waarop de mededeling, bedoeld in artikel 3, vierde lid, heeft plaatsgevonden tot het moment dat inschrijving in het register, bedoeld in artikel 6, eerste lid, of artikel 7, vierde lid, plaatsvindt dan wel vaststaat dat het monument niet in een van die registers wordt ingeschreven, zijn op een archeologisch monument de artikelen 11 tot en met 29 en artikel 63, eerste en derde lid, van overeenkomstige toepassing.   
+1.  Met ingang van de datum waarop de mededeling, bedoeld in artikel 3, derde lid, heeft plaatsgevonden tot het moment dat inschrijving in het register, bedoeld in artikel 6, eerste lid, of artikel 7, derde lid, plaatsvindt dan wel vaststaat dat het monument niet in een van die registers wordt ingeschreven, zijn op een archeologisch monument de artikelen 11 tot en met 29 en artikel 63, eerste en derde lid, van overeenkomstige toepassing.   
 2.  Gedurende de periode, bedoeld in het eerste lid, zijn op een ander monument dan een archeologisch monument van overeenkomstige toepassing: 
 
 a. de artikelen 11, eerste lid, en 63, tweede en derde lid; en  
@@ -86,10 +81,9 @@ b. de [hoofdstukken 2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BW
 
 ### Artikel  7  
 
-1.  Indien het monument niet gelegen is binnen het grondgebied van enige gemeente, zijn artikel 3, derde tot en met zevende lid, artikel 4 en artikel 6 niet van toepassing.   
+1.  Indien het monument niet gelegen is binnen het grondgebied van enige gemeente, zijn artikel 3, tweede tot en met zesde lid, artikel 4 en artikel 6 niet van toepassing.   
 2.  Alvorens Onze minister ten aanzien van een monument als bedoeld in het eerste lid een beschikking geeft, hoort hij de Raad.   
-3.  Indien om aanwijzing is verzocht beslist Onze minister binnen vijf maanden na ontvangst van dat verzoek.   
-4.  Onze minister houdt een landelijk register aan waarin hij de door hem aangewezen monumenten, bedoeld in het eerste lid, inschrijft voorzover geen beroep tegen die aanwijzing is ingesteld of een beroep is afgewezen. Een afschrift van de inschrijving wordt gezonden aan de instantie die het betrokken gebied beheert alsmede, indien het monument is gelegen binnen het grondgebied van een provincie, aan gedeputeerde staten.   
+3.  Onze minister houdt een landelijk register aan waarin hij de door hem aangewezen monumenten, bedoeld in het eerste lid, inschrijft voorzover geen beroep tegen die aanwijzing is ingesteld of een beroep is afgewezen. Een afschrift van de inschrijving wordt gezonden aan de instantie die het betrokken gebied beheert alsmede, indien het monument is gelegen binnen het grondgebied van een provincie, aan gedeputeerde staten.   
 
 ### Artikel  8  
 
@@ -120,7 +114,7 @@ b. een beschermd archeologisch monument te herstellen, te gebruiken of te laten 
 
 ### Artikel  12  
 
-1.  Een aanvraag om vergunning als bedoeld in artikel 11, tweede lid wordt ingediend bij burgemeester en wethouders.   
+1.  Een aanvraag om vergunning als bedoeld in artikel 11, tweede lid, wordt ingediend bij burgemeester en wethouders.   
 2.  [Artikel 3.1, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  13  
@@ -154,7 +148,7 @@ b. zij advies uitbrengen omtrent een aanvraag om of het ontwerp van een omgeving
 
 1.  Burgemeester en wethouders zenden de aanvraag, bedoeld in artikel 12, onmiddellijk na ontvangst aan Onze minister door. Zij zenden gelijktijdig afschrift aan gedeputeerde staten en stellen de aanvrager schriftelijk in kennis van de datum van doorzending.   
 2.  Indien Onze minister niet voldoet aan [artikel 3:18 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt de vergunning geacht te zijn verleend.   
-3.  De werking van de vergunning wordt opgeschort, totdat de beroepstermijn is verstreken, of, indien beroep is ingesteld, op het beroep is beslist. De vergunninghouder kan de voorzieningenrechter van de rechtbank onderscheidenlijk de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State verzoeken de opschorting op te heffen. [Titel 8.3 van de Algemene wet bestuursrechtspraak](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+3.  De werking van de vergunning wordt opgeschort, totdat de beroepstermijn is verstreken, of, indien beroep is ingesteld, op het beroep is beslist. De vergunninghouder kan de voorzieningenrechter van de rechtbank onderscheidenlijk de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State verzoeken de opschorting op te heffen. [Titel 8.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
 4.  Onze minister doet van de beschikking op de aanvraag om vergunning mededeling aan burgemeester en wethouders en aan gedeputeerde staten.   
 
 ### Artikel  19  
@@ -194,7 +188,7 @@ d. de aard van de werkzaamheden.
 
 ### Artikel  22  
 
-Voorzover blijkt dat de aanvrager van een vergunning als bedoeld in artikel 11, tweede lid ten gevolge van de weigering daarvan of ten gevolge van de aan de vergunning verbonden voorschriften schade lijdt, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven, kent Onze minister, de schadebeoordelingscommissie gehoord, hem op zijn verzoek een naar billijkheid te bepalen schadevergoeding toe.  
+Voorzover blijkt dat de aanvrager van een vergunning als bedoeld in artikel 11, tweede lid, ten gevolge van de weigering daarvan of ten gevolge van de aan de vergunning verbonden voorschriften schade lijdt, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven, kent Onze minister, de schadebeoordelingscommissie gehoord, hem op zijn verzoek een naar billijkheid te bepalen schadevergoeding toe.  
 
 ### Artikel  23  
 
@@ -262,6 +256,8 @@ g. de vaststelling van de subsidie;
 h. de betaling en terugvordering van de subsidie, alsmede het verlenen van voorschotten op de subsidie.     
 4.  Indien bij of krachtens algemene maatregel van bestuur wordt voorzien in een subsidieplafond, worden daarbij regels gesteld omtrent de wijze van verdeling.   
 5.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Het tijdstip van de overlegging wordt zodanig gekozen dat ten minste drie vierde deel van de termijn buiten een reces van de kamers valt.   
+6.  Onze minister kan tevens subsidie verstrekken in verband met de herbestemming van onroerende monumenten.   
+7.  Bij ministeriële regeling worden regels gesteld met betrekking tot het verstrekken van de subsidie, bedoeld in het zesde lid. De tweede volzin van het derde lid is van toepassing en het vierde lid is van overeenkomstige toepassing.   
 
 ### Artikel  34a  
 
@@ -304,8 +300,8 @@ g. de betaling en terugvordering van de uitkering, alsmede het verlenen van voor
 ### Artikel  36  
 
 1.  De gemeenteraad stelt ter bescherming van een beschermd stads- of dorpsgezicht een bestemmingsplan vast als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). Bij het besluit tot aanwijzing van een beschermd stads- en dorpsgezicht kan hiertoe een termijn worden gesteld.   
-2.  Bij het besluit tot aanwijzing van een beschermd stads- of dorpsgezicht wordt bepaald of en in hoeverre geldende bestemmingsplannen als beschermend plan in de zin van het vorige lid kunnen worden aangemerkt, dan wel of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), de Onze Minister gehoord, kan worden vastgesteld.   
-3.  Indien een bestemmingsplan als bedoeld in het eerste of tweede lid, opnieuw moet worden vastgesteld ingevolge [artikel 3.1, tweede lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), kan de gemeenteraad, de Onze Minister gehoord, in afwijking van [artikel 3.1, eerste lid, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), voor het desbetreffende gebied een beheersverordening als bedoeld in [die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) vaststellen.   
+2.  Bij het besluit tot aanwijzing van een beschermd stads- of dorpsgezicht wordt bepaald of en in hoeverre geldende bestemmingsplannen als beschermend plan in de zin van het vorige lid kunnen worden aangemerkt, dan wel of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), Onze minister gehoord, kan worden vastgesteld.   
+3.  Indien een bestemmingsplan als bedoeld in het eerste of tweede lid, opnieuw moet worden vastgesteld ingevolge [artikel 3.1, tweede lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), kan de gemeenteraad, Onze minister gehoord, in afwijking van [artikel 3.1, eerste lid, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), voor het desbetreffende gebied een beheersverordening als bedoeld in [die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) vaststellen.   
 
 ### Hoofdstuk  V  
 
@@ -346,7 +342,7 @@ De gemeenteraad houdt bij de vaststelling van een bestemmingsplan of een beheers
 
 ### Artikel  41a  
 
-De artikelen 39, 40 en 41, eerste lid zijn niet van toepassing op projecten met een oppervlakte kleiner dan 100 m <sup>2</sup>; de gemeenteraad kan een hiervan afwijkende andere oppervlakte vaststellen.  
+De artikelen 39, 40 en 41, eerste lid, zijn niet van toepassing op projecten met een oppervlakte kleiner dan 100 m <sup>2</sup>; de gemeenteraad kan een hiervan afwijkende andere oppervlakte vaststellen.  
 
 ### Artikel  43  
 
@@ -374,6 +370,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 2.  De opgravingsvergunning wordt verleend, indien de aanvrager aantoont bekwaam te zijn tot het doen van opgravingen.   
 3.  De opgravingsvergunning kan onder beperkingen worden verleend.   
 4.  In verband met de verlening van een opgravingsvergunning kunnen door Onze minister kosten in rekening worden gebracht volgens door hem vast te stellen tarieven.   
+5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid.   
 
 ### Artikel  46  
 

@@ -40,11 +40,7 @@ k. instandhoudingsdoelstelling: doelstelling of doelstellingen als bedoeld in ar
 
 l. Natura 2000: Europees ecologische netwerk dat bestaat uit de speciale beschermingszones, bedoeld in de richtlijn 79/409/EEG en richtlijn 92/43/EEG;  
 
-m. bestaand gebruik: 
-
-1°. iedere handeling die op 1 oktober 2005 werd verricht en sedertdien niet of niet in betekenende mate is gewijzigd.  
-
-2°. Iedere handeling die op het moment van aanwijzing van een gebied als beschermd natuurmonument of ter uitvoering van richtlijn 79/409/EEG dan wel op het moment van aanmelding bij de Europese Commissie van een gebied ter uitvoering van artikel 4, eerste lid, van richtlijn 92/43/EEG werd verricht en sedertdien niet of niet in betekenende mate is gewijzigd, voor zover die aanwijzing of aanmelding plaatsvindt na 1 oktober 2005;    
+m. bestaand gebruik: gebruik dat op 31 maart 2010 bekend is, of redelijkerwijs bekend had kunnen zijn bij het bevoegd gezag;  
 
 n. Natura 2000-gebied: 
 
@@ -303,7 +299,7 @@ b. gedeputeerde staten, in andere gevallen dan die, bedoeld in onderdeel a.
 ### Artikel  19d  
 
 1.  Het is verboden zonder vergunning, of in strijd met aan die vergunning verbonden voorschriften of beperkingen, van gedeputeerde staten of, ten aanzien van projecten of andere handelingen als bedoeld in het vierde lid, van Onze Minister, projecten of andere handelingen te realiseren onderscheidenlijk te verrichten die gelet op de instandhoudingsdoelstelling, met uitzondering van de doelstellingen, bedoeld in artikel 10a, derde lid, de kwaliteit van de natuurlijke habitats en de habitats van soorten in een Natura 2000-gebied kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor het gebied is aangewezen. Zodanige projecten of andere handelingen zijn in ieder geval projecten of handelingen die de natuurlijke kenmerken van het desbetreffende gebied kunnen aantasten.   
-2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op het realiseren van projecten of het verrichten van andere handelingen overeenkomstig een beheerplan als bedoeld in de artikelen 19a of 19b.   
+2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op het realiseren van projecten of het verrichten van andere handelingen, waaronder bestaand gebruik, alsmede de wijzigingen daarvan, overeenkomstig een beheerplan als bedoeld in de artikelen 19a of 19b.   
 3.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op bestaand gebruik, behoudens indien dat gebruik een project is dat niet direct verband houdt met of nodig is voor het beheer van een Natura 2000-gebied maar dat afzonderlijk of in combinatie met andere projecten of plannen significante gevolgen kan hebben voor het desbetreffende Natura 2000-gebied.   
 4.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op het realiseren van projecten of het verrichten van andere handelingen die zijn toegestaan krachtens een omgevingsvergunning die met toepassing van hoofdstuk IX is verleend.   
 5.  Bij algemene maatregel van bestuur kunnen projecten of andere handelingen of categorieën van gebieden worden aangewezen waarvoor een vergunning als bedoeld in het eerste lid wordt verleend door Onze Minister.   
@@ -695,6 +691,10 @@ De kosten van de schadebeoordelingscommissie worden de verzoeker niet in rekenin
 
 ####Procedure vergunningverlening
 
+### Artikel  40  
+
+Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag tot een vergunning als bedoeld in de artikelen 16 en 19d.  
+
 ### Artikel  41  
 
 1.  In de aanvraag van de vergunningen, bedoeld in de artikelen 16 en 19d, wordt het belang van de aanvrager bij het verlenen van de vergunning gemotiveerd.   
@@ -745,7 +745,7 @@ d. de omstandigheden sedert het tijdstip waarop de vergunning is verleend zodani
 
 ### Titel  1  
 
-#### *Beschermde natuurmonumenten* 
+####Beschermde natuurmonumenten
 
 ### Artikel  46  
 

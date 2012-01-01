@@ -33,32 +33,32 @@ h. wet: de [Wet op de Accountants-Administratieconsulenten](../../../../../../we
 
 De trainee kan aan het examen voor de praktijkstage deelnemen indien hij is toegelaten tot de praktijkstage en de volgende inschrijfgelden heeft voldaan: 
 
-a. indien hij de praktijkstage aanvangt voor 1 januari 2003 eenmalig inschrijfgeld van € 130,–, alsmede jaarlijks een bedrag van € 90,– als bijdrage in de algemene kosten;  
+a. indien hij de praktijkstage aanvangt voor 1 januari 2003 eenmalig inschrijfgeld van € 135,–, alsmede jaarlijks een bedrag van € 90,– als bijdrage in de algemene kosten;  
 
-b. indien hij de praktijkstage aanvangt tussen 1 januari 2003 en 1 januari 2007 eenmalig inschrijfgeld van € 145,–, alsmede een eenmalige bijdrage in de algemene kosten van € 300,–;  
+b. indien hij de praktijkstage aanvangt tussen 1 januari 2003 en 1 januari 2007 eenmalig inschrijfgeld van € 150,–, alsmede een eenmalige bijdrage in de algemene kosten van € 305,–;  
 
-c. indien hij de praktijkstage aanvangt na 1 januari 2007 eenmalig inschrijfgeld en een bijdrage in de algemene kosten van in totaal € 570,–.    
+c. indien hij de praktijkstage aanvangt na 1 januari 2007 eenmalig inschrijfgeld en een bijdrage in de algemene kosten van in totaal € 580,–.    
 
 ### Artikel  3  
 
 1.  De trainee is de volgende examengelden verschuldigd: 
 
-a. indien hij de praktijkstage aanvangt voor 1 januari 2007 en ingevolge artikel 27 van de Verordening op de praktijkstage de regels van toepassing blijven zoals deze luidden voor het tijdstip van inwerkingtreding daarvan, voor de toetsing van het halfjaarlijks praktijkverslag, bedoeld in [artikel 10 van het Examenbesluit Accountants-Administratieconsulenten 1994](../../../../../../AMvB/examenbesluit/accountants-administratieconsulenten/1994/BWBR0006454/README.md) € 75,–, en voor de eindtoets, bedoeld in artikel 21 van het Examenreglement praktijkopleiding Accountants-Administratieconsulenten € 315,–;  
+a. indien hij de praktijkstage aanvangt voor 1 januari 2007 en ingevolge artikel 27 van de Verordening op de praktijkstage de regels van toepassing blijven zoals deze luidden voor het tijdstip van inwerkingtreding daarvan, voor de toetsing van het halfjaarlijks praktijkverslag, bedoeld in [artikel 10 van het Examenbesluit Accountants-Administratieconsulenten 1994](../../../../../../AMvB/examenbesluit/accountants-administratieconsulenten/1994/BWBR0006454/README.md) € 75,–, en voor de eindtoets, bedoeld in artikel 21 van het Examenreglement praktijkopleiding Accountants-Administratieconsulenten € 320,–;  
 
-b. indien hij de praktijkstage aanvangt na 1 januari 2007 voor de jaarlijkse toetsing van het portfolio, bedoeld in [artikel 10, derde lid van de Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md), per periode van twaalf maanden € 215,– en voor het eindgesprek, bedoeld in [artikel 18 van de Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md) € 365,–.     
+b. indien hij de praktijkstage aanvangt na 1 januari 2007 voor de jaarlijkse toetsing van het portfolio, bedoeld in [artikel 10, derde lid van de Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md), per periode van twaalf maanden € 220,– en voor het eindgesprek, bedoeld in [artikel 18 van de Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md) € 370,–.     
 2.  Indien de trainee het examen voor de praktijkstage bij een door de NOvAA aangewezen stagebureau volgt, is het examengeld, bedoeld in het eerste lid, onderdeel a voor de toetsing van het halfjaarlijks praktijkverslag van € 75,–, dan wel het examengeld, bedoeld in het eerste lid, onderdeel b voor de jaarlijkse toetsing van het portfolio van € 215,– niet verschuldigd.   
 
 ### Artikel  4  
 
-Indien de trainee die de praktijkstage heeft aangevangen na 1 januari 2007 gedurende de praktijkstage van praktijkstageplaats wijzigt, kan de NOvAA hiervoor een bedrag van € 270,– in rekening brengen.  
+Indien de trainee die de praktijkstage heeft aangevangen na 1 januari 2007 gedurende de praktijkstage van praktijkstageplaats wijzigt, kan de NOvAA hiervoor een bedrag van € 275,– in rekening brengen.  
 
 ### Artikel  5  
 
 De trainee heeft recht op restitutie: 
 
-a. indien hij de praktijkstage heeft aangevangen tussen 1 januari 2003 en 1 januari 2007 voor zover hij in het eerste jaar van de praktijkstage schriftelijk te kennen heeft gegeven de praktijkstage te beëindigen van een bedrag van € 190,–, zijnde een gedeelte van de eenmalige bijdrage in de algemene kosten, bedoeld in artikel 2, onderdeel b;  
+a. indien hij de praktijkstage heeft aangevangen tussen 1 januari 2003 en 1 januari 2007 voor zover hij in het eerste jaar van de praktijkstage schriftelijk te kennen heeft gegeven de praktijkstage te beëindigen van een bedrag van € 195,–, zijnde een gedeelte van de eenmalige bijdrage in de algemene kosten, bedoeld in artikel 2, onderdeel b;  
 
-b. indien hij de praktijkstage heeft aangevangen na 1 januari 2007 voor zover hij in het eerste jaar van de praktijkstage schriftelijk te kennen heeft gegeven de praktijkstage te beëindigen van een bedrag van € 285,–, zijnde een gedeelte van de eenmalige bijdrage in het inschrijfgeld en de bijdrage in de algemene kosten, bedoeld in artikel 2, onderdeel c.    
+b. indien hij de praktijkstage heeft aangevangen na 1 januari 2007 voor zover hij in het eerste jaar van de praktijkstage schriftelijk te kennen heeft gegeven de praktijkstage te beëindigen van een bedrag van € 290,–, zijnde een gedeelte van de eenmalige bijdrage in het inschrijfgeld en de bijdrage in de algemene kosten, bedoeld in artikel 2, onderdeel c.    
 
 ### Artikel  6  
 
@@ -72,8 +72,8 @@ De trainee ontvangt een getuigschrift indien hij, onverminderd de voldoening aan
 
 a. indien op de aanvrager ingevolge [artikel 27 van de Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md) de regels van toepassing blijven zoals deze luidden voor het tijdstip van inwerkingtreding daarvan, een bedrag van € 75,– per verzoek;  
 
-b. indien op de aanvrager de [Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md) van toepassing is een bedrag van € 645,– per inhoudelijk beoordeeld verzoek.     
-2.  Indien de aanvrager een registeraccountant is, is in afwijking van het eerste lid eenmalig een bedrag van € 945,– verschuldigd.   
+b. indien op de aanvrager de [Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md) van toepassing is een bedrag van € 655,– per inhoudelijk beoordeeld verzoek.     
+2.  Indien de aanvrager een registeraccountant is, is in afwijking van het eerste lid eenmalig een bedrag van € 960,– verschuldigd.   
 
 ####Examen voor accountants uit andere lidstaten
 
@@ -81,10 +81,10 @@ b. indien op de aanvrager de [Verordening op de praktijkstage](../../../../../..
 
 1.  Voor het afleggen van het examen Nederlands recht is examengeld verschuldigd dat als volgt is samengesteld: 
 
-a. voor de toetsing van de vakgebieden, bedoeld in artikel 8, tweede lid, onderdelen a tot en met e, van de richtlijn, voor zover deze kennis voor de bij of krachtens de wet vereiste controles van financiële verantwoordingen van belang is, aangeduid als vak Belastingrecht, schriftelijk: € 395,–;  
+a. voor de toetsing van de vakgebieden, bedoeld in artikel 8, tweede lid, onderdelen a tot en met e, van de richtlijn, voor zover deze kennis voor de bij of krachtens de wet vereiste controles van financiële verantwoordingen van belang is, aangeduid als vak Belastingrecht, schriftelijk: € 400,–;  
 
-b. voor de toetsing van het vakgebied, bedoeld in artikel 8, eerste lid, onderdeel b, van de richtlijn, aangeduid als het vak Regelgeving inzake de jaarrekening en het jaarverslag, mondeling: € 380,–.     
-2.  Voor het afleggen van het examen gedrags- en beroepsregels is examengeld verschuldigd voor het vak Gedrags- en Beroepsregels, mondeling: € 570,–.   
+b. voor de toetsing van het vakgebied, bedoeld in artikel 8, eerste lid, onderdeel b, van de richtlijn, aangeduid als het vak Regelgeving inzake de jaarrekening en het jaarverslag, mondeling: € 385,–.     
+2.  Voor het afleggen van het examen gedrags- en beroepsregels is examengeld verschuldigd voor het vak Gedrags- en Beroepsregels, mondeling: € 580,–.   
 
 ####Overige bepalingen
 

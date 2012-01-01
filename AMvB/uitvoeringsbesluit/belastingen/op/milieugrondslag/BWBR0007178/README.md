@@ -18,20 +18,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 6, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [20, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [22, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [27, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [28, derde en zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [33, derde en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [34, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [35, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [51, eerste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [70, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [88a](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en [88b, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [33, derde en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [34, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [35, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [51, eerste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [70, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [88a](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en [88b, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
 2.  In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
 
 ### Hoofdstuk  II  
 
 ####Grondwaterbelasting
-
-### Artikel  2  
-
-1.  Ter vaststelling van de hoeveelheid onttrokken grondwater en van de hoeveelheid geïnfiltreerd water is de houder van een inrichting gehouden deze hoeveelheden te meten met behulp van watermeters.   
-2.  Het eerste lid is niet van toepassing in die gevallen waarin met toepassing van [artikel 11, tweede en derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) geen verplichting bestaat tot het voeren van een administratie.   
-3.  De watermeters, bedoeld in het eerste lid, zijn zodanig nauwkeurig dat het meetresultaat in enig kwartaal niet meer dan vijf procent afwijkt van de werkelijk onttrokken hoeveelheid grondwater dan wel van de werkelijk geïnfiltreerde hoeveelheid water.   
-4.  In afwijking van het derde lid geldt voor onttrekkingen voor doeleinden als bedoeld in [artikel 10, eerste lid, onderdelen b en c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) dat het meetresultaat in enig kwartaal niet meer dan tien procent mag afwijken van de werkelijk onttrokken hoeveelheid grondwater dan wel van de werkelijk geïnfiltreerde hoeveelheid water.   
-5.  Op verzoek van de houder van een inrichting kan de inspecteur onder nader te stellen voorwaarden toestaan dat plaatsing van watermeters achterwege blijft, indien om technische dan wel financiële redenen niet in redelijkheid plaatsing hiervan kan worden gevergd en op een andere wijze tot een aanvaardbare vaststelling van de hoeveelheid onttrokken grondwater dan wel van de hoeveelheid geïnfiltreerd water kan worden gekomen.   
 
 ### Hoofdstuk  III  
 
@@ -45,155 +37,6 @@ Hebben goedgevonden en verstaan:
 ### Hoofdstuk  IV  
 
 ####Afvalstoffenbelasting
-
-### Artikel  4  
-
-Voor de toepassing van [artikel 22, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden gestort, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor dan wel bestaan uit: 
-
-a. materiaal voor het realiseren en onderhouden van een afrastering;  
-
-b. materiaal voor het realiseren van de onderafdichtingsconstructie, de geohydrologische maatregelen en het controlesysteem zoals verlangd in het [Stortbesluit bodembescherming](../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md), de [Regeling stortplaatsen voor baggerspecie op land](../../../../../../ministeriele-regeling/regeling/stortplaatsen/voor/baggerspecie/op/land/BWBR0012665/README.md), dan wel de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1);  
-
-c. materiaal voor het realiseren van de bovenafdichtingsconstructie zoals verlangd in het [Stortbesluit bodembescherming](../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md), de [Regeling stortplaatsen voor baggerspecie op land](../../../../../../ministeriele-regeling/regeling/stortplaatsen/voor/baggerspecie/op/land/BWBR0012665/README.md), dan wel de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1);  
-
-d. (riool)buizen voor de opvang en afvoer van percolaat en neerslag en materiaal voor installaties voor de behandeling van percolaat en neerslag;  
-
-e. verzamelleidingen voor de opvang en afvoer van stortgas in de egalisatie- of steunlaag en materiaal voor installaties voor de behandeling van stortgas;  
-
-f. het realiseren en in werking houden van nutsvoorzieningen;  
-
-g. het realiseren en in werking houden van installaties voor het be- of verwerken van afvalstoffen;  
-
-h. het operationeel houden van kantoren, van de controle- en registratieposten, van een laboratorium, van werkplaatsen, van het aanwezige rollende materieel en van de wasplaats;  
-
-i. materiaal voor het realiseren en in stand houden van bouwwerken;  
-
-j. materiaal voor het realiseren en in stand houden van een terreinverharding buiten het deel van de stortplaats, al dan niet in compartimenten onderverdeeld, waar tussen een onderafdichtings- en een bovenafdichtingsconstructie, als verlangd in het [Stortbesluit bodembescherming](../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md), in de [Regeling stortplaatsen voor baggerspecie op land](../../../../../../ministeriele-regeling/regeling/stortplaatsen/voor/baggerspecie/op/land/BWBR0012665/README.md), dan wel in de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1), afvalstoffen worden gestort (stortlichaam);  
-
-k. ongediertebestrijding;  
-
-l. bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), die voorzien zijn van een overeenkomstig bij of krachtens [dat besluit](../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) gestelde regels afgegeven erkende kwaliteitsverklaring, partijkeuring of fabrikant-eigenverklaring waaruit blijkt dat zij voldoen aan de voorwaarden, bedoeld in [artikel 28, eerste lid](../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), of [artikel 30, eerste lid, van dat besluit](../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en die worden toegepast in een voorziening, die op grond van de voor de inrichting verleende omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), binnen de inrichting is aangebracht;  
-
-m. grond als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), die voorzien is van een overeenkomstig bij of krachtens [dat besluit](../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) gestelde regels afgegeven erkende kwaliteitsverklaring, partijkeuring of fabrikant-eigenverklaring waaruit blijkt dat de kwaliteit van de grond de maximale waarde voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid, van dat besluit](../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), niet overschrijdt en die wordt toegepast in een voorziening, die op grond van de voor de inrichting verleende omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), binnen de inrichting is aangebracht.    
-
-### Artikel  5  
-
-1.  Het tarief, bedoeld in [artikel 28, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is op de afvalstoffen, bedoeld in [artikel 28, tweede lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), slechts van toepassing indien aan de artikelen 6 tot en met 9 wordt voldaan.   
-2.  De volumieke massa van de aangevoerde afvalstoffen wordt bepaald door het gewicht van de afvalstoffen te delen door de met het unieke registratienummer van de container, kipwagen of het vaartuig corresponderende inhoud onderscheidenlijk de in de zijwanden van de big bag aangebrachte of ingeweven inhoud.   
-
-### Artikel  6  
-
-Voor de toepassing van artikel 5 worden de afvalstoffen niet geperst aangeleverd.  
-
-### Artikel  7  
-
-1.  De afvalstoffen, bedoeld in artikel 5, worden aangevoerd in een container, een kipwagen, een vaartuig of in een big bag waarvan de inhoud in kubieke meter bekend is.   
-2.  De eigenaar van een container, laadbak van een kipwagen of laadruim van een vaartuig stelt de inhoud daarvan vast tot op één decimaal nauwkeurig in kubieke meter door vaststelling van het volume van de inwendige geometrische vorm van de container, de laadbak onderscheidenlijk het laadruim door een conform ISO/IEC 17025 geaccrediteerd laboratorium.   
-3.  Bij toepassing van het tweede lid wordt de vermeerdering van het volume door de beweegbare en afneembare afdekvoorzieningen buiten beschouwing gelaten.   
-4.  De inhoud van een container, de laadbak van een kipwagen of het laadruim van een vaartuig, die is vastgesteld als bedoeld in het tweede lid, is op een nagelvast aangebrachte plaat aan de linker- en rechterbuitenzijde van de container, de laadbak of het laadruim vermeld.   
-5.  Op de in het vierde lid aangegeven plaat is tevens het voor de container, de kipwagen of het vaartuig unieke registratienummer aangebracht.   
-6.  De inhoud en het unieke registratienummer worden in zwarte cijfers en letters van ten minste 15 centimeter hoogte aangebracht op een gele achtergrond.   
-7.  De inhoud van een big bag is duidelijk leesbaar en op een eenvoudig waarneembare plaats in de zijwanden van de big bag in cijfers en letters van ten minste 20 cm hoogte en in een contrasterende kleur in het weefsel ingeweven of aangebracht.   
-8.  De afvalstoffen worden aangevoerd op zodanige wijze dat zij binnen de begrenzingen van de container, de laadbak, het laadruim of de big bag blijven.   
-9.  De administratie van de houder van de inrichting is zodanig ingericht dat daarin op overzichtelijke wijze is opgenomen of en op welke wijze aan de in de voorgaande leden vermelde voorwaarden al dan niet wordt voldaan.   
-
-### Artikel  8  
-
-1.  De aanbieder van de afvalstoffen, bedoeld in artikel 5, overhandigt aan de houder van de inrichting voorafgaand aan de aanvoer een lijst van de door hem gebruikte containers, kipwagens of vaartuigen met hun inhoud en unieke registratienummer en de bij de container, de kipwagen of het vaartuig behorende door het conform ISO/IEC 17025 geaccrediteerd laboratorium gewaarmerkte kopie van het meetrapport dat door het laboratorium is opgemaakt met betrekking tot de vaststelling van het volume van de inwendige geometrische vorm van de container, de laadbak onderscheidenlijk het laadruim. De gewaarmerkte kopie bevat tevens het unieke registratienummer, bedoeld in artikel 7, vijfde lid.   
-2.  De in het eerste lid bedoelde lijst en daarbij behorende gewaarmerkte kopieën van de meetrapporten worden op overzichtelijke wijze opgenomen in de administratie van de inrichting.   
-3.  De aanbieder van afvalstoffen in big bags stelt voorafgaand aan de aanvoer van de afvalstoffen de houder van de inrichting in kennis van de aanvoer van afvalstoffen in big bags en geeft daarbij aan het aantal big bags en de inhoud per big bag.   
-
-### Artikel  9  
-
-1.  Voor de bepaling van het verschuldigde tarief, bedoeld in artikel 5, eerste lid, wordt de inhoud toegepast die op de plaat, bedoeld in artikel 7, vierde lid, is vermeld, onderscheidenlijk in de zijwanden van de big bag, bedoeld in artikel 7, zevende lid, is ingeweven of aangebracht, ongeacht de mate waarin de container, de laadbak, het laadruim of de big bag met afvalstoffen is gevuld.   
-2.  Indien de inhoud die is vermeld op de plaat, bedoeld in artikel 7, vierde lid, niet overeenkomt met de inhoud die is vermeld in het meetrapport, bedoeld in artikel 8, eerste lid, wordt in afwijking van het eerste lid de inhoud toegepast die is vermeld in het meetrapport, bedoeld in artikel 8, eerste lid.   
-
-### Artikel  9a  
-
-1.  Het schriftelijk verzoek om de vergunning, bedoeld in [artikel 28, tweede lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), bevat ten minste de volgende gegevens: 
-
-a. naam en adres van de verzoeker;  
-
-b. naam en adres van de oude stortplaats, bedoeld in [artikel 22, eerste lid, onderdeel ca, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), waar het verzoek om de vergunning betrekking op heeft, en  
-
-c. het beoogde tijdstip van aanvang van de afgraving van de oude stortplaats, bedoeld in onderdeel b.     
-2.  Bij het verzoek wordt een herontwikkelingsplan als bedoeld in [artikel 28, derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) overgelegd waarin ten minste is opgenomen: 
-
-a. de naam en het adres van de eigenaar van de oude stortplaats en degene door wie of voor wiens rekening de oude stortplaats wordt afgegraven;  
-
-b. de naam en het adres van de oude stortplaats;  
-
-c. de oppervlakte van de oude stortplaats;  
-
-d. een onderbouwde schatting in kilogrammen van het gewicht van de afvalstoffen die zich in de oude stortplaats bevinden;  
-
-e. een onderbouwde schatting in kilogrammen van het gewicht van de afgegraven afvalstoffen die de oude stortplaats zullen verlaten om elders te worden gestort en daartoe ter verwijdering zullen worden afgegeven aan een inrichting als bedoeld in [artikel 22, eerste lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
-
-f. het tijdpad van aanvang tot en met einde van de afgraving;  
-
-g. het tijdpad en een beschrijving van het herontwikkelingsproject;  
-
-h. dat de scheiding tussen de te storten en de op een andere wijze te beheren afvalstoffen plaatsvindt op de oude stortplaats;  
-
-i. dat de scheiding, bedoeld in onderdeel h, plaatsvindt in overeenstemming met het afvalbeheerplan, bedoeld in [artikel 10.3 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
-
-j. dat het gewicht van de afvalstoffen onmiddellijk vóór het verlaten van de afvalstoffen van de oude stortplaats onder verantwoordelijkheid van de vergunninghouder wordt bepaald in kilogrammen door weging met een meetinstrument dat voldoet aan de eisen die bij of krachtens de [Metrologiewet](../../../../../../wet/metrologiewet/BWBR0019517/README.md) worden gesteld aan een meetinstrument;  
-
-k. dat indien een vergunning als bedoeld in artikel 28, tweede lid, onderdeel b, is afgegeven, de vergunninghouder een administratie voert waaruit duidelijk alle gegevens blijken die voor de heffing van de belasting van belang kunnen zijn, en  
-
-l. dat indien een vergunning als bedoeld in artikel 28, tweede lid, onderdeel b, is afgegeven, de vergunninghouder de inspecteur onverwijld schriftelijk in kennis stelt van wijzigingen van hetgeen is opgenomen in het herontwikkelingsplan op basis van de onderdelen a tot en met k.     
-3.  De inspecteur verleent slechts een van een uniek registratienummer voorziene vergunning voor de toepassing van het tarief, bedoeld in artikel 28, tweede lid, voor afvalstoffen die afkomstig zijn van de afgraving van de oude stortplaats waar de vergunning op ziet, indien de verzoeker: 
-
-a. de eigenaar is van de oude stortplaats dan wel degene is door wie of voor wiens rekening de oude stortplaats wordt afgegraven;  
-
-b. een herontwikkelingsplan heeft overgelegd dat voldoet aan de in het tweede lid opgenomen voorwaarden, en  
-
-c. aannemelijk maakt dat de afgraving binnen drie maanden na verlening van de vergunning mag en zal aanvangen.     
-
-### Artikel  9b  
-
-Het tarief, bedoeld in [artikel 28, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is op de afvalstoffen, bedoeld in artikel 28, tweede lid, onderdeel b, van de wet, slechts van toepassing indien aan de artikelen 9c tot en met 9f wordt voldaan.  
-
-### Artikel  9c  
-
-1.  De aanbieder van de in artikel 9b bedoelde afvalstoffen, overhandigt aan de houder van de inrichting, bedoeld in [artikel 22, eerste lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), voorafgaand aan de aanvoer een afschrift van de beschikking van de inspecteur waaruit blijkt dat deze de vergunning, bedoeld in [artikel 28, tweede lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), heeft verleend.   
-2.  Het in het eerste lid bedoelde afschrift wordt opgenomen in de administratie van de inrichting.   
-3.  De houder van de inrichting stelt degene aan wie de vergunning, bedoeld in [artikel 28, tweede lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is verleend onverwijld schriftelijk in kennis van de overhandiging van het afschrift, bedoeld in het eerste lid.   
-
-### Artikel  9d  
-
-1.  De afvalstoffen die de oude stortplaats verlaten om elders te worden gestort, worden daartoe uiterlijk de volgende werkdag nadat ze de oude stortplaats hebben verlaten ter verwijdering afgegeven aan een inrichting als bedoeld in [artikel 22, eerste lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
-2.  De aanbieder die de in het eerste lid bedoelde afvalstoffen ter verwijdering afgeeft aan een inrichting, overhandigt aan de houder van deze inrichting een door de vergunninghouder opgemaakt bescheid, waarin is vermeld: 
-
-a. de naam en het adres van de oude stortplaats waarvan de afvalstoffen afkomstig zijn;  
-
-b. het unieke registratienummer van de vergunning die is afgegeven met betrekking tot de in het vorige onderdeel bedoelde oude stortplaats;  
-
-c. de naam en het adres van de vervoerder van de afvalstoffen en het kenteken van het vervoermiddel waarin de afvalstoffen worden vervoerd;  
-
-d. de datum waarop het vervoer van de afvalstoffen is aangevangen, en  
-
-e. het gewicht van de in het eerste lid bedoelde afvalstoffen, zoals dat onmiddellijk vóór het verlaten van de afvalstoffen van de oude stortplaats onder verantwoordelijkheid van de vergunninghouder is bepaald in kilogrammen door weging met een meetinstrument dat voldoet aan de eisen die bij of krachtens de [Metrologiewet](../../../../../../wet/metrologiewet/BWBR0019517/README.md) worden gesteld aan een meetinstrument.     
-3.  Een afschrift van het bescheid wordt opgenomen in de administratie van de vergunninghouder.   
-4.  Het bescheid wordt opgenomen in de administratie van de inrichting, waarbij tevens moet blijken welk gewicht is bepaald als bedoeld in [artikel 7 van de Uitvoeringsregeling belastingen op milieugrondslag](../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingen/op/milieugrondslag/BWBR0007159/README.md).   
-
-### Artikel  9e  
-
-Het verschil tussen het overeenkomstig artikel 9d, tweede lid, onderdeel e, vastgestelde gewicht van de afvalstoffen en het overeenkomstig [artikel 7 van de Uitvoeringsregeling belastingen op milieugrondslag](../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingen/op/milieugrondslag/BWBR0007159/README.md) vastgestelde gewicht van de afvalstoffen is niet groter dan op basis van de nauwkeurigheid van de meetinstrumenten mag worden verwacht.  
-
-### Artikel  9f  
-
-Indien de inspecteur de vergunning, bedoeld in [artikel 28, tweede lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), intrekt, stelt degene van wie de vergunning wordt ingetrokken elke houder van de inrichting aan wie een afschrift als bedoeld in artikel 9d, eerste lid, is overhandigd onverwijld schriftelijk in kennis van de intrekking.  
-
-### Artikel  10  
-
-1.  Het tarief, bedoeld in [artikel 28, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is op de afvalstoffen, bedoeld in [artikel 28, tweede lid, onderdeel d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), slechts van toepassing indien de aanbieder van de afvalstoffen aan de houder van een afvalverwerkingsinrichting een ondertekende verklaring afgeeft waarin wordt aangegeven de hoeveelheid aangeboden afvalstoffen en het productieproces waarvan de afvalstoffen afkomstig zijn.   
-2.  Indien de afvalstoffen niet worden aangeboden door de producent, wordt de verklaring, bedoeld in het eerste lid, zowel door de producent als door de vervoerder ondertekend.   
-
-### Artikel  11  
-
-1.  Voor zover sprake is van een verwerking of bewerking van afvalstoffen die gepaard gaat met gewichtsverlies, wordt de vermindering, bedoeld in [artikel 27, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zodanig toegepast dat ter zake van de stoffen, preparaten of voorwerpen bij het verlaten van de inrichting wordt uitgegaan van de belasting die verschuldigd werd bij de afgifte ter verwijdering van de afvalstoffen waaruit zij zijn ontstaan.   
-2.  Het verhoudingsgetal, bedoeld in [artikel 27, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), wordt uitsluitend toegepast door degene die beschikt over een door de inspecteur afgegeven vergunning. In deze vergunning kan de inspecteur nadere voorwaarden stellen met betrekking tot de administratie.   
 
 ### Hoofdstuk  V  
 
@@ -322,6 +165,18 @@ b. ter vaststelling van de hoeveelheid aardgas of elektriciteit waarop de tariev
 1.  Het tarief als bedoeld in [artikel 59, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) is van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die het aardgas aan hem levert, dat het aardgas uitsluitend wordt aangewend in een CNG-vulstation.   
 2.  De verbruiker dient overeenkomstig de in het eerste lid bedoelde verklaring te handelen. Indien niet meer overeenkomstig de verklaring gehandeld wordt, meldt de verbruiker dat onmiddellijk aan degene die het aardgas levert.   
 
+### Artikel  21a  
+
+1.  De uitzondering in [artikel 59, derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) voor installaties voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van restwarmte, is mede van toepassing gedurende de eerste periode van maximaal twee jaar na de ingebruikneming van een installatie voor stadsverwarming die is ontworpen om grotendeels gebruik te maken van restwarmte.   
+2.  De periode, bedoeld in het eerste lid, vangt aan op het moment waarop de levering van warmte door middel van de installatie een aanvang neemt.   
+3.  Het eerste lid is slechts van toepassing als de houder van de installatie aan degene die het aardgas aan hem levert een verklaring heeft overgelegd: 
+
+a. dat sprake is van een installatie voor stadsverwarming;  
+
+b. dat de stadsverwarming is ontworpen om grotendeels gebruik te maken van restwarmte;  
+
+c. wanneer de periode, bedoeld in het eerste lid, aanvangt en eindigt.     
+
 ### Artikel  22  
 
 1.  De vrijstelling, bedoeld in [artikel 64, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), wordt verleend indien degene die aardgas of elektriciteit gebruikt, een verklaring heeft overgelegd aan degene die dat aardgas of die elektriciteit aan hem heeft geleverd, dat hij dat aardgas of die elektriciteit gebruikt op een in [artikel 64, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedoelde wijze.   
@@ -385,7 +240,7 @@ De regels, genoemd in deze afdeling, gelden voor de producent van sierteeltprodu
 
 ### Artikel  28b  
 
-Voor zover de producent, genoemd in artikel 28a, verpakte sierteeltproducten voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 68%.  
+Voor zover de producent, genoemd in artikel 28a, verpakte sierteeltproducten voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 71%.  
 
 ### Artikel  28c  
 
@@ -417,8 +272,8 @@ De regels, genoemd in deze afdeling, gelden voor de producent van verse groenten
 
 ### Artikel  28g  
 
-1.  Voor zover de producent, bedoeld in artikel 28f, verpakte verse groenten of verpakt vers fruit voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 72%.   
-2.  In afwijking van het eerste lid bedraagt het kortingspercentage voor de producent, bedoeld in het eerste lid, voor zover deze verpakte verse uien ter beschikking stelt, 72%.   
+1.  Voor zover de producent, bedoeld in artikel 28f, verpakte verse groenten of verpakt vers fruit voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 71%.   
+2.  In afwijking van het eerste lid bedraagt het kortingspercentage voor de producent, bedoeld in het eerste lid, voor zover deze verpakte verse uien ter beschikking stelt, 69%.   
 
 ### Artikel  28h  
 
@@ -436,12 +291,6 @@ Op de producent, bedoeld in artikel 28f, is de exportvermindering, bedoeld in [h
 ### Hoofdstuk  VIII  
 
 ####Algemene bepaling
-
-### Artikel  29  
-
-1.  De inspecteur beslist op het verzoek, bedoeld in artikel 2, vijfde lid, bij een voor bezwaar vatbare beschikking.   
-2.  Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.   
-3.  Indien de inspecteur de beschikking niet binnen de in het tweede lid genoemde termijn kan geven, stelt hij de belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven.   
 
 ### Hoofdstuk  IX  
 

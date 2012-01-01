@@ -41,222 +41,6 @@ Indien door de minister op grond van deze regeling een subsidie wordt verleend v
 
 ####Pieken in de delta
 
-### Artikel  2.1  
-
-In dit hoofdstuk wordt verstaan onder: 
-
-– *actielijn:* een in een gebiedsgericht programma opgenomen actielijn;  
-
-– *experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in paragraaf 2.2, onder g, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
-
-– *fundamenteel onderzoek:* fundamenteel onderzoek als bedoeld in paragraaf 2.2, onder e, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
-
-– *gebied:* het gebied Oost-Nederland, Noordvleugel Randstad, Zuidvleugel Randstad, Zuidwest-Nederland, Zuidoost-Nederland en Noord-Nederland, zoals die zijn omschreven in bijlage 2.1;  
-
-– *gebiedsgericht innovatieproject:* een gebiedsgericht project, dat gericht is op innovatie en een bijdrage kan leveren aan duurzame economische groei in Nederland;  
-
-– *gebiedsgericht programma:* een in artikel 2.4 aangewezen programma dat door middel van programmalijnen en actielijnen voor een gebied de meerjarige economische doelstellingen aangeeft, die een bijdrage kunnen leveren aan een duurzame economische groei in Nederland;  
-
-– *gebiedsgericht project:* een samenhangend geheel van activiteiten, dat bijdraagt aan de verwezenlijking van een programmalijn opgenomen in een gebiedsgericht programma;  
-
-– *industrieel onderzoek:* industrieel onderzoek als bedoeld in paragraaf 2.2, onderdeel f, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);.  
-
-– *innovatie:* technologische innovatie, met inbegrip van niet-technologische aspecten voor zover ze dienstbaar zijn aan technologische innovatie;  
-
-– *openbaar lichaam:* een lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
-
-– *programmalijn:* een in een gebiedsgericht programma opgenomen programmalijn;  
-
-– *publieke cofinancier:* een gemeente, provincie of openbaar lichaam en, indien het subsidie betreft voor een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma van het gebied Noord-Nederland, het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland, voor zover dat bestuur ten laste van het Europees Fonds voor Regionale Ontwikkeling op grond van [artikel 6 van het Besluit EFRO programmaperiode 2007–2013](../../../../../../../AMvB/besluit/efro/programmaperiode/2007–2013/BWBR0022685/README.md) voor een gebiedsgericht project subsidie verstrekt of voor zover dat bestuur ten laste van het in [artikel 13, vijfde lid, van de Regeling EFRO doelstelling 2 programmaperiode 2007–2013](../../../../../../../ministeriele-regeling/regeling/efro/doelstelling/2/programmaperiode/2007–2013/BWBR0022831/README.md) gegeven subsidieplafond voor een gebiedsgericht project subsidie verstrekt.    
-
-### Artikel  2.2  
-
-1.  Een samenwerkingsverband dat een gebiedsgericht project uitvoert bevat ten minste één in Nederland gevestigde deelnemer.   
-2.  Een samenwerkingsverband dat een gebiedsgericht innovatieproject uitvoert bestaat uit tenminste twee ondernemers of tenminste een ondernemer en een onderzoeksorganisatie.   
-
-### Artikel  2.3  
-
-1.  De minister verstrekt op aanvraag subsidie aan degene die een gebiedsgericht project, niet zijnde een gebiedsgericht innovatieproject, uitvoert dat past in een in een gebiedsgericht programma opgenomen actielijn. De subsidie kan worden verstrekt in de vorm van een krediet.   
-2.  In aanvulling op [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is het eerste lid ook van toepassing op niet in Nederland gevestigde rechtspersonen of vennootschappen of hiermee gelijk te stellen entiteiten.   
-3.  De minister verstrekt op aanvraag subsidie aan een deelnemer in een samenwerkingsverband dat een gebiedsgericht innovatieproject uitvoert dat past in een in een gebiedsgericht programma opgenomen actielijn. De subsidie kan worden verstrekt in de vorm van een krediet.   
-4.  In aanvulling op [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is het derde lid ook van toepassing op niet in Nederland gevestigde deelnemers in een samenwerkingsverband.   
-5.  In afwijking van [artikel 3, vierde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), kan de minister op aanvraag subsidie verstrekken aan een provincie, gemeente of openbaar lichaam.   
-6.  Geen subsidie wordt verstrekt aan natuurlijke personen, de N.V. NOM Investerings- en ontwikkelingsmaatschappij voor Noord-Nederland, de Ontwikkelingsmaatschappij Oost-Nederland N.V., de N.V. Brabantse Ontwikkelingsmaatschappij, de Limburgs Industrie- en Ontwikkelingsfonds N.V. en Syntens.   
-
-### Artikel  2.4  
-
-1.  Als gebiedsgericht programma voor het gebied Oost-Nederland wordt het programma aangewezen dat is opgenomen in de bij deze regeling opgenomen bijlage 2.2.   
-2.  Als gebiedsgericht programma voor het gebied Noordvleugel Randstad wordt het programma aangewezen dat is opgenomen in de bij deze regeling opgenomen bijlage 2.3.   
-3.  Als gebiedsgericht programma voor het gebied Zuidvleugel Randstad wordt het programma aangewezen dat is opgenomen in de bij deze regeling opgenomen bijlage 2.4.   
-4.  Als gebiedsgericht programma voor het gebied Zuidwest-Nederland wordt het programma aangewezen dat is opgenomen in de bij deze regeling opgenomen bijlage 2.5.   
-5.  Als gebiedsgericht programma voor het gebied Zuidoost-Nederland wordt het programma aangewezen dat is opgenomen in de bij deze regeling opgenomen bijlage 2.6;   
-6.  Als gebiedsgericht programma voor het gebied Noord-Nederland wordt het programma aangewezen dat is opgenomen in de bij deze regeling opgenomen bijlage 2.7.   
-
-### Artikel  2.5  
-
-De subsidie voor een gebiedsgericht project, niet zijnde een gebiedsgericht innovatieproject, bedraagt 50 procent van de subsidiabele kosten, met dien verstande dat van die subsidiabele kosten eerst worden afgetrokken de aan het gebiedsgericht project toe te rekenen opbrengsten, de eigen bijdrage van de aanvrager, de bijdragen van derden en de subsidies van de andere bestuursorganen en de Commissie van de Europese Gemeenschappen, waarbij onder de bijdragen van derden en de subsidies van andere bestuursorganen niet die van publieke cofinanciers worden verstaan.  
-
-### Artikel  2.6  
-
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een gebiedsgericht innovatieproject: 
-
-a. 25 procent van de subsidiabele kosten, voor zover deze betrekking hebben op industrieel onderzoek;  
-
-b. 12,5 procent van de subsidiabele kosten, voor zover deze betrekking hebben op experimentele ontwikkeling;  
-
-c. de helft van het op grond van de [Regeling steunintensiteit](../../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) toegestane maximale percentage van de subsidiabele kosten of toegestane maximale bedrag, voor zover deze geen betrekking hebben op fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling.     
-2.  De in het eerste lid, onderdeel a en b, bedoelde percentages worden verhoogd met 5 procentpunten, indien de subsidie wordt verstrekt aan een MKB-ondernemer.   
-
-### Artikel  2.7  
-
-1.  Een bijdrage van een gemeente, provincie of openbaar lichaam wordt aangemerkt als publieke cofinanciering.   
-2.  Indien het bedrag van de subsidie wordt berekend op grond van artikel 2.5 is [artikel 6, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) niet van toepassing.   
-3.  Indien het bedrag van de subsidie wordt berekend op grond van artikel 2.6 wordt in afwijking van [artikel 6, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) voor de cumulatie van subsidies de bijdrage van een publieke cofinancier niet aangemerkt als subsidie verstrekt door een bestuursorgaan.   
-
-### Artikel  2.8  
-
-1.  In aanvulling op [artikel 10 van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) komen de interne loonkosten van een provincie, gemeente en openbaar lichaam en de kosten van het oprichten van een privaatrechtelijke rechtspersoon niet voor subsidie in aanmerking.   
-2.  Met betrekking tot een aanvraag om subsidie voor een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma van het gebied Noord-Nederland kan de minister, in aanvulling op [artikel 10](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [11 van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), op verzoek toestaan dat als kosten van een gebiedsgericht project in aanmerking komen: 
-
-a. de loonkosten van het bij de uitvoering van het project direct betrokken personeel, berekend op basis van het brutoloon volgens de loonstaat van de betrokken medewerkers, verhoogd met de wettelijke dan wel op grond van een collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, met dien verstande dat wordt uitgegaan van 1650 productieve uren per jaar uitgaande van een voltijds dienstverband;  
-
-b. de algemene indirecte kosten die gerelateerd zijn aan de loonkosten of worden berekend op basis van de werkelijke kosten van de uitgevoerde actie volgens een bij de subsidieaanvraag overgelegde berekeningswijze.     
-
-### Artikel  2.9  
-
-1.  De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.   
-2.  In afwijking van het eerste lid, verdeelt de minister het subsidieplafond voor het gebied Noord-Nederland op volgorde van binnenkomst van de aanvragen.   
-
-### Artikel  2.10  
-
-1.  De minister beslist afwijzend op een aanvraag: 
-
-a. indien de minister voor het gebiedsgericht project of een deel daarvan reeds subsidie heeft verstrekt;  
-
-b. voor zover het gebiedsgericht innovatieproject betrekking heeft op fundamenteel onderzoek;  
-
-c. indien het een gebiedsgericht innovatieproject betreft dat uitsluitend betrekking heeft op industrieel onderzoek;  
-
-d. indien de eigen bijdrage van de aanvrager minder dan 15 procent van de subsidiabele kosten bedraagt;  
-
-e. indien een gebiedsgericht project een combinatie betreft van een gebiedsgericht innovatieproject en een gebiedsgericht project, niet zijnde een gebiedsgericht innovatieproject, en zowel de activiteiten ter uitvoering van het gebiedsgerichte innovatieproject als de activiteiten ter uitvoering van het gebiedsgericht project, niet zijnde een gebiedsgericht innovatieproject, niet ten minste 25 procent van de subsidiabele kosten van het gebiedsgericht project bedragen;  
-
-f. indien het gebiedsgericht project niet past binnen een actielijn;  
-
-g. indien het gebiedsgericht project in verhouding tot de kosten van het gebiedsgericht project onvoldoende bijdraagt aan de verwezenlijking van een programmalijn;  
-
-h. indien de financiële ondersteuning van het gebiedsgericht project door een publieke cofinancier naar verwachting onvoldoende is;  
-
-i. indien van het gebiedsgericht project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;  
-
-j. indien de aangevraagde vorm van subsidie niet de meest geëigende vorm is;  
-
-k. indien de subsidiabele kosten van een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma Noordvleugel Randstad minder dan € 500.000 bedragen;  
-
-l. indien de subsidiabele kosten van een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma Zuidvleugel Randstad minder dan € 500.000 bedragen;  
-
-m. indien de subsidiabele kosten van een gebiedsgericht project dat past in één van de actielijnen, met uitzondering van actielijn 1.1 en 4.2, van het gebiedsgericht programma Zuidoost-Nederland minder dan € 250.000 bedragen;  
-
-n. indien de subsidiabele kosten van een gebiedsgericht project dat past in actielijn 1.1 van het gebiedsgericht programma Zuidoost-Nederland minder dan € 1.000.000 bedragen;  
-
-o. indien de subsidiabele kosten van een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma Oost-Nederland minder dan € 250.000 bedragen;  
-
-p. indien een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma Noord-Nederland voldoet aan ten minste twee van de volgende afwijzingsgronden: 
-
-1°. een gebiedsgericht project draagt onvoldoende bij aan de samenwerking tussen ondernemers, onderzoeksorganisaties of bestuursorganen;  
-
-2°. een gebiedsgericht project stimuleert onvoldoende nieuwe economische bedrijvigheid in de vorm van meer werkgelegenheid, omzet en export in het gebied Noord-Nederland;  
-
-3°. de eigen bijdrage van de aanvrager voor het gebiedsgericht project is onvoldoende;  
-
-4°. een gebiedsgericht project draagt onvoldoende bij aan de vestiging of uitoefening van een activiteit van het cluster energie, water, sensortechnologie of agribusiness in de kernzones van het gebied Noord-Nederland zoals die zijn omschreven in bijlage 2.8.       
-2.  De minister beslist tevens afwijzend op een aanvraag om subsidie voor zover het gevraagde subsidiebedrag hoger is dan € 10 000 000.   
-3.  De afwijzingsgrond, genoemd in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
-
-### Artikel  2.11  
-
-1.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist en waarop artikel 2.9, eerste lid, van toepassing is, hoger naarmate: 
-
-a. het gebiedsgericht project een grotere bijdrage levert aan de verwezenlijking van een programmalijn opgenomen in het desbetreffende gebiedsgericht programma;  
-
-b. het gebiedsgericht project in verhouding tot de kosten van het gebiedsgericht project een grotere bijdrage levert aan de verwezenlijking van een programmalijn opgenomen in het desbetreffende gebiedsgericht programma.     
-2.  In aanvulling op het eerste lid, rangschikt de minister voor het gebied Oost-Nederland de aanvragen zodanig dat een gebiedsgericht project hoger gerangschikt wordt naarmate: 
-
-a. een gebiedsgericht project meer bijdraagt aan de samenwerking tussen ondernemers of tussen een ondernemer en een onderzoeksorganisatie die actief zijn in verschillende in het gebiedsgericht programma Oost-Nederland gedefinieerde kennisgebieden;  
-
-b. de betrokkenheid van een ondernemer aan een gebiedsgericht project groter is, blijkend uit de eigen bijdrage of het aantal betrokken ondernemers;  
-
-c. de kans op continuering van de resultaten na afloop van een gebiedsgericht project groter is;  
-
-d. een gebiedsgericht project direct en indirect meer nieuwe economische bedrijvigheid stimuleert in de vorm van meer werkgelegenheid, omzet en export in het gebied Oost-Nederland.     
-3.  In aanvulling op het eerste lid, rangschikt de minister voor het gebied Noordvleugel Randstad, de aanvragen zodanig dat een gebiedsgericht project hoger gerangschikt wordt naarmate: 
-
-a. een gebiedsgericht project meer bijdraagt aan de samenwerking tussen ondernemers, tussen onderzoeksorganisaties of tussen ondernemers en één of meer onderzoeksorganisaties of publieke cofinanciers in het gebied Noordvleugel Randstad;  
-
-b. een gebiedsgericht project innovatiever is;  
-
-c. een gebiedsgericht project een grotere bijdrage levert aan de internationale profilering van het gebied Noordvleugel Randstad;  
-
-d. een gebiedsgericht project meer bijdraagt aan een structurele economische versterking van het gebied Noordvleugel Randstad;  
-
-e. de eigen bijdrage van een ondernemer aan het gebiedsgericht project groter is.     
-4.  In aanvulling op het eerste lid, rangschikt de minister voor het gebied Zuidvleugel Randstad, de aanvragen zodanig dat een gebiedsgericht project hoger gerangschikt wordt naarmate: 
-
-a. een gebiedsgericht project een grotere bijdrage levert aan een intensievere samenwerking tussen onderzoeksorganisaties, tussen ondernemers of tussen ondernemers en één of meer onderzoeksorganisaties in het gebied Zuidvleugel Randstad;  
-
-b. een gebiedsgericht project meer nieuwe economische bedrijvigheid stimuleert in de vorm van meer werkgelegenheid, omzet en export in het gebied Zuidvleugel Randstad.     
-5.  In aanvulling op het eerste lid, rangschikt de minister voor het gebied Zuidwest-Nederland, de aanvragen zodanig dat een gebiedsgericht project hoger gerangschikt wordt naarmate: 
-
-a. de financiële participatie van ondernemers in het gebiedsgericht project groter is;  
-
-b. een gebiedsgericht project een grotere bijdrage levert aan een intensievere samenwerking tussen een onderzoeksorganisatie, een ondernemer of een publieke cofinancier;  
-
-c. een gebiedsgericht project een grotere bijdrage levert aan de verspreiding van de met het project opgedane kennis en ervaring naar ondernemers, onderzoeksorganisaties, gemeenten of openbare lichamen;  
-
-d. een gebiedsgericht project een grotere bijdrage levert aan een structurele samenwerking tussen een ondernemer, een onderwijs- of onderzoeksorganisatie of een publieke cofinancier in het gebied van Zuidwest-Nederland en de aangrenzende regio’s.     
-6.  In aanvulling op het eerste lid, van de subsidieregeling, rangschikt de minister voor het gebied Zuidoost-Nederland, de aanvragen zodanig dat een gebiedsgericht project hoger gerangschikt wordt naarmate: 
-
-a. de kans op continuering van de resultaten na afloop van een gebiedsgericht project groter is;  
-
-b. een gebiedsgericht project een grotere bijdrage levert aan de nationale en internationale profilering van het gebied Zuidoost-Nederland als toptechnologie regio;  
-
-c. de eigen bijdrage van ondernemers aan een gebiedsgericht project groter is.     
-7.  Voor de rangschikking wegen de in het eerste tot en met zesde lid genoemde criteria even zwaar.   
-
-### Artikel  2.12  
-
-De beschikking tot subsidieverlening kan de opschortende voorwaarde bevatten dat binnen drie maanden na de beschikking tot subsidieverlening een publieke cofinancier of de publieke cofinanciers gezamenlijk voor het betreffende gebiedsgericht project ten minste evenveel subsidie moeten hebben verleend als wordt verleend op grond van de beschikking tot subsidieverlening.  
-
-### Artikel  2.13  
-
-1.  De verstrekking van voorschotten door de minister bij subsidies voor gebiedsgerichte projecten passend in één van de actielijnen van het gebiedsgericht programma van het gebied Noord-Nederland geschiedt in afwijking van de [artikelen 45 tot en met 47 van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
-2.  Het bedrag aan voorschotten als bedoeld in het eerste lid, bedraagt in totaal ten hoogste 90 procent van het in de beschikking tot subsidieverlening genoemde maximale subsidiebedrag.   
-3.  De minister verstrekt het eerste voorschot op aanvraag van de subsidie-ontvanger. Dit voorschot bedraagt 30 procent van het in de beschikking tot subsidieverlening genoemde maximale subsidiebedrag en wordt niet eerder verstrekt dan nadat de subsidie-ontvanger met de uitvoering van het gebiedsgericht project is begonnen, de subsidie-ontvanger heeft verklaard dat hij voor reeds gemaakte en betaalde kosten heeft voldaan aan de toepasselijke aanbestedingsregels en de subsidie-ontvanger heeft aangegeven op welke wijze hij voldoet of zal voldoen aan de in de beschikking tot subsidieverlening gestelde verplichtingen.   
-4.  De minister verstrekt het tweede voorschot op aanvraag van de subsidie-ontvanger. Dit voorschot bedraagt ten hoogste 30 procent van het in de beschikking tot subsidieverlening genoemde maximale subsidiebedrag en wordt niet eerder verstrekt dan nadat de subsidie-ontvanger 30 procent van de subsidiabele kosten heeft gemaakt en betaald.   
-5.  De minister verstrekt het derde voorschot op aanvraag van de subsidie-ontvanger. Dit voorschot bedraagt ten hoogste 20 procent van het in de beschikking tot subsidieverlening genoemde maximale subsidiebedrag en wordt niet eerder verstrekt dan nadat de subsidie-ontvanger 60 procent van de subsidiabele kosten heeft gemaakt en betaald.   
-6.  De minister verstrekt het vierde voorschot op aanvraag van de subsidie-ontvanger. Dit voorschot bedraagt ten hoogste 10 procent van het in de beschikking tot subsidieverlening genoemde maximale subsidiebedrag en wordt niet eerder verstrekt dan nadat de subsidie-ontvanger 80 procent van de subsidiabele kosten heeft gemaakt en betaald.   
-7.  Een aanvraag om een voorschot wordt ingediend met gebruikmaking van het formulier, bedoeld in artikel 2.15, onderdeel c, en gaat vergezeld van de in dat formulier genoemde stukken.   
-8.  [Artikel 20 van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is van overeenkomstige toepassing.   
-
-### Artikel  2.14  
-
-1.  In afwijking van de [artikelen 50 tot en met 52 van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) dienen een gemeente, provincie of openbaar lichaam, waaraan niet als deelnemer in een samenwerkingsverband, subsidie is verleend, een aanvraag om subsidievaststelling in door verantwoordingsinformatie aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties te verstrekken, op de wijze, bedoeld in artikel 27 van het Besluit financiële verhoudingen 2001. In dat geval wordt een eindverslag omtrent de uitvoering en resultaten van het gebiedsgericht project bij de minister ingediend binnen dertien weken na het tijdstip, bedoeld in [artikel 50, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
-2.  In afwijking van [artikel 50, tweede lid, onderdeel b, van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) verstrekt de subsidie-ontvanger geen accountantsverklaring, indien het gaat om een subsidie voor een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma van het gebied Noord-Nederland en waarvoor door het in artikel 2.1 als publieke cofinancier genoemde bestuur subsidie is verleend.   
-
-### Artikel  2.15  
-
-Het formulier voor het indienen van een aanvraag voor: 
-
-a. een subsidie is opgenomen in bijlage 2.9;  
-
-b. een subsidie voor een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma van het gebied Noord-Nederland, is opgenomen in bijlage 2.10;  
-
-c. een voorschot als bedoeld in artikel 2.13, derde tot en met zesde lid, is opgenomen in bijlage 2.11;  
-
-d. een subsidievaststelling is opgenomen in bijlage 2.12;  
-
-e. een vaststelling van een subsidie voor een gebiedsgericht project dat past in één van de actielijnen van het gebiedsgericht programma van het gebied Noord-Nederland, is opgenomen in bijlage 2.13.    
-
 ### Hoofdstuk  3  
 
 ####Regionale investeringsprojecten
@@ -1565,11 +1349,10 @@ Ligt ter inzage bij de directie Ruimtelijk Economisch Beleid van het Directoraat
 
 ### Bijlage  2.12  
 
-Ligt ter inzage bij de directie Ruimtelijk Economisch Beleid van het Directoraat-Generaal voor Ondernemen en Innovatie te Den Haag.  
+####, behorende bij artikel 2.15, onderdeel d .
 
-### Bijlage  2.13  
-
-Ligt ter inzage bij de directie Ruimtelijk Economisch Beleid van het Directoraat-Generaal voor Ondernemen en Innovatie te Den Haag.  
+![249003](http://wetten.overheid.nl/Illustration/249003)
+![249004](http://wetten.overheid.nl/Illustration/249004)
 
 ### Bijlage  3.1  Bijlage, bedoeld in de artikelen 3.2, eerste lid , en 3.3, eerste lid, onder a , van de Subsidieregeling sterktes in de regio  
 
@@ -1708,18 +1491,18 @@ Tabel 3 Scores en daarbij behorende percentages
 
 ### Bijlage  3.4  Bijlage, bedoeld in artikel 3.13, onderdeel a , van de Subsidieregeling sterktes in de regio  
 
-![246971](http://wetten.overheid.nl/Illustration/246971)
-![246971](http://wetten.overheid.nl/Illustration/246971)
-![246971](http://wetten.overheid.nl/Illustration/246971)
-![246971](http://wetten.overheid.nl/Illustration/246971)
-![246971](http://wetten.overheid.nl/Illustration/246971)
+![246966](http://wetten.overheid.nl/Illustration/246966)
+![246967](http://wetten.overheid.nl/Illustration/246967)
+![246968](http://wetten.overheid.nl/Illustration/246968)
+![246969](http://wetten.overheid.nl/Illustration/246969)
+![246970](http://wetten.overheid.nl/Illustration/246970)
 ![246971](http://wetten.overheid.nl/Illustration/246971)
 
 ### Bijlage  3.5  Bijlage, bedoeld in artikel 3.13, onderdeel b , van de Subsidieregeling sterktes in de regio  
 
-![246975](http://wetten.overheid.nl/Illustration/246975)
-![246975](http://wetten.overheid.nl/Illustration/246975)
-![246975](http://wetten.overheid.nl/Illustration/246975)
+![246972](http://wetten.overheid.nl/Illustration/246972)
+![246973](http://wetten.overheid.nl/Illustration/246973)
+![246974](http://wetten.overheid.nl/Illustration/246974)
 ![246975](http://wetten.overheid.nl/Illustration/246975)
 
 ###Bijlage 2 bij het vaststellingsformulier (Bijlage 3.5 bij de Subsidieregeling sterktes in de regio)

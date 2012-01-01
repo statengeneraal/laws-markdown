@@ -296,6 +296,7 @@ Deze afdeling is van overeenkomstige toepassing op voorstellen van wet.
 1.  Deze afdeling is van toepassing op de voorbereiding van besluiten indien dat bij wettelijk voorschrift of bij besluit van het bestuursorgaan is bepaald.   
 2.  Tenzij bij wettelijk voorschrift of bij besluit van het bestuursorgaan anders is bepaald, is deze afdeling niet van toepassing op de voorbereiding van een besluit inhoudende de afwijzing van een aanvraag tot intrekking of wijziging van een besluit.   
 3.  Afdeling 4.1.1 is mede van toepassing op andere besluiten dan beschikkingen, indien deze op aanvraag worden genomen en voorbereid overeenkomstig deze afdeling.   
+4.  Indien deze afdeling van toepassing is op de voorbereiding van een besluit is paragraaf 4.1.3.3. niet van toepassing.   
 
 ### Artikel  3:11  
 
@@ -2667,7 +2668,7 @@ Indien het beroepschrift is ingediend door twee of meer personen, kan worden vol
 2.  De griffier wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het verschuldigde bedrag binnen vier weken na de dag van verzending van zijn mededeling dient te zijn bijgeschreven op de rekening van de rechtbank dan wel ter griffie dient te zijn gestort. Indien het bedrag niet binnen deze termijn is bijgeschreven of gestort, wordt het beroep niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.   
 3.  Het griffierecht bedraagt: 
 
-a. € 41 indien door een natuurlijke persoon beroep is ingesteld tegen: 
+a. € 42 indien door een natuurlijke persoon beroep is ingesteld tegen: 
 
 1°. een besluit, genomen op grond van een wettelijk voorschrift dat is opgenomen in de onderdelen B en C, onder 1 tot en met 25, 29 en 33, dit laatste voor zover het een besluit betreft dat is genomen op grond van [artikel 30d van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), van de [bijlage die bij de Beroepswet](../../../../../wet/beroepswet/BWBR0002170/README.md) behoort,  
 
@@ -2677,9 +2678,9 @@ a. € 41 indien door een natuurlijke persoon beroep is ingesteld tegen:
 
 4e een besluit genomen op grond van de [Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md),    
 
-b. € 152 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit dan een besluit als bedoeld in onderdeel a, tenzij bij wet anders is bepaald, en  
+b. € 156 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit dan een besluit als bedoeld in onderdeel a, tenzij bij wet anders is bepaald, en  
 
-c. € 302 indien anders dan door een natuurlijke persoon beroep is ingesteld.     
+c. € 310 indien anders dan door een natuurlijke persoon beroep is ingesteld.     
 4.  Indien het beroep wordt ingetrokken omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, wordt het door de indiener betaalde griffierecht aan hem vergoed door het bestuursorgaan. In de overige gevallen kan het bestuursorgaan, indien het beroep wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.   
 5.  De in het derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   
 
@@ -3798,7 +3799,7 @@ E. M. H. Hirsch Ballin
 
 ####Ministerie van Verkeer en Waterstaat
 
-1. De [artikelen 4.1](../../../../../wet/waterwet/BWBR0025458/README.md), [4.4](../../../../../wet/waterwet/BWBR0025458/README.md) en [6.28 van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md). D.2. De [artikelen 3.4, eerste lid, onder b](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voorzover het een aanwijzing betreft, [3.10](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [18.9, eerste en tweede lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 3. De [artikelen 8.4](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [8.15 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), alsmede: a. dit onderdeel is nog niet in werking getreden, b. dit onderdeel is nog niet in werking getreden. 4. De [artikelen 132c, vijfde lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [132d, tweede lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). 4. [Artikel X van de wet van 18 december 2008 (Stb. 561) tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md).  
+1. De [artikelen 4.1](../../../../../wet/waterwet/BWBR0025458/README.md), [4.4](../../../../../wet/waterwet/BWBR0025458/README.md) en [6.28 van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md). D.2. De [artikelen 3.4, eerste lid, onder b](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voorzover het een aanwijzing betreft, [3.10](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [18.9, eerste en tweede lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 3. De [artikelen 8.4](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [8.15 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), alsmede: a. dit onderdeel is nog niet in werking getreden, b. dit onderdeel is nog niet in werking getreden. 4. De [artikelen 132c, vijfde lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [132d, tweede lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). 4. [Artikel X van de wet van 18 december 2008 (Stb. 561) tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md). 5. [Artikel 2, eerste lid](../../../../../wet/tracéwet/BWBR0006147/README.md), [artikel 4, eerste lid, onderdeel c](../../../../../wet/tracéwet/BWBR0006147/README.md), en [artikel 23, eerste lid, van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md).  
 
 ### E  
 

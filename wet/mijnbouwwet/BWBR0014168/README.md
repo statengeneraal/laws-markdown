@@ -222,6 +222,7 @@ b. het samenvoegen van twee of meer vergunningen, waardoor een vergunning voor e
 1.  De houder van een vergunning kan zijn vergunning slechts met schriftelijke toestemming van Onze Minister op een ander doen overgaan. Artikel 7, tweede lid, en artikel 9, met uitzondering van het eerste lid, onderdeel d, zijn van overeenkomstige toepassing. Aan een toestemming kunnen voorschriften worden verbonden. Een toestemming kan onder beperkingen worden verleend.   
 2.  Indien de houder van een vergunning een deel van zijn vergunning op een ander wil doen overgaan, dient hij tevens een aanvraag in om splitsing van de vergunning als bedoeld in artikel 19, onderdeel a.   
 3.  Van een beschikking tot verlening van toestemming wordt mededeling gedaan in de Staatscourant.   
+4.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de schriftelijke toestemming, bedoeld in het eerste lid.   
 
 ### Artikel  21  
 
@@ -287,6 +288,7 @@ a. stoffen op te slaan;
 
 b. CO <sub>2</sub> -opslagcomplexen op te sporen.     
 2.  Het verbod geldt niet met betrekking tot bij algemene maatregel van bestuur omschreven categorieën van gevallen.   
+3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid, onderdeel a.   
 
 ### Artikel  26  
 

@@ -722,10 +722,6 @@ Het bedrag, bedoeld in [artikel 37a, derde lid, van de wet](../../../../../wet/w
 
 ####Tarief
 
-### Artikel  33b  
-
-Het bedrag, bedoeld in [artikel 37a, derde lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), is € 100.000.  
-
 ### Artikel  34  
 
 Als hulpmiddelen die speciaal zijn ontworpen dan wel bestemd voor het exclusieve en persoonlijke gebruik door blinden en slechtzienden als bedoeld in de bij de wet behorende tabel I, onderdeel a, post 31, worden aangewezen: 

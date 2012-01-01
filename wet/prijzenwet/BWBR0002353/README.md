@@ -39,8 +39,9 @@ d. het specificeren van op verrichte diensten betrekking hebbende rekeningen.
 
 ### Artikel  3  
 
-1.  Onze Minister kan van het krachtens de artikelen 2 of 2 *b* bepaalde op daartoe strekkend verzoek ontheffing verlenen.   
+1.  Onze Minister kan van het krachtens de artikelen 2 of 2b bepaalde op daartoe strekkend verzoek ontheffing verlenen.   
 2.  De ontheffingen kunnen onder beperkingen worden verleend. Aan de ontheffingen kunnen voorschriften worden verbonden.   
+3.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de ontheffing, bedoeld in het eerste lid.   
 
 ### Artikel  4  
 

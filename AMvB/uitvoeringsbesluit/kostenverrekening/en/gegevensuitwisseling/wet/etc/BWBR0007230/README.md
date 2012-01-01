@@ -41,7 +41,7 @@ f. belastingen: belastingen geheven door het Rijk, de gemeenten en de waterschap
 
 1.  De kosten van de Waarderingskamer komen ten laste van de afnemers. Het Rijk betaalt 25 percent, de gemeenten 50 percent en de waterschappen 25 percent.   
 2.  De kosten van de waardering komen ten laste van de afnemers.   
-3.  De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 22 970 033 voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.   
+3.  De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 23 659 134 voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.   
 4.  Ingeval het in het derde lid genoemde bedrag hoger is dan € 21 810 013, wordt het verschil toegevoegd aan de algemene middelen van het Rijk.   
 5.  Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden regels gesteld omtrent de verdeling over de individuele waterschappen van hetgeen de waterschappen samen aan het Rijk vergoeden voor het aandeel van de waterschappen in de kosten van de waardering, alsmede omtrent het tijdstip van de betaling aan het Rijk. Daarbij wordt de in het derde lid bedoelde vergoeding van de waterschappen gedeeld door het totale aantal objecten in alle waterschappen samen en over de individuele waterschappen verdeeld naar rato van het aantal objecten in die individuele waterschappen. Jaarlijks doet de Unie van Waterschappen aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties een opgave van het aantal objecten per individueel waterschap. Daarbij kan de Unie van Waterschappen uitgaan van het aantal objecten in een voorgaand jaar, gecorrigeerd met een volumeopslag.   
 
@@ -108,7 +108,13 @@ a. de notaris in het kader van de bestrijding van vastgoedcriminaliteit ten beho
 
 b. het Centraal bureau voor de statistiek ten behoeve van statistische doeleinden als bedoeld in [artikel 37 van de Wet op het Centraal bureau voor de statistiek](../../../../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md);  
 
-c. het Bureau Ontnemingswetgeving van het Openbaar Ministerie ten behoeve van het zicht krijgen op waarden van inbeslaggenomen onroerende zaken.    
+c. het Bureau Ontnemingswetgeving van het Openbaar Ministerie ten behoeve van het zicht krijgen op waarden van inbeslaggenomen onroerende zaken;  
+
+d. de Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van de uitoefening van zijn wettelijke taken, bedoeld in [artikel 70l van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md);  
+
+e. Staatsbosbeheer ten behoeve van de vaststelling van de waarde van onroerende zaken die in erfpacht of opstal zijn of worden uitgegeven;  
+
+f. de huurcommissie ten behoeve van het vaststellen van het aantal schaarstepunten van een woning.    
 
 ### Artikel  11  
 

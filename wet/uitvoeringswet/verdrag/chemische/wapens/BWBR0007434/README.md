@@ -44,9 +44,9 @@ j. verbruiken van stoffen: omzetten in andere stoffen door middel van een chemis
 
 k. Communautair douanewetboek: verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302);  
 
-l. invoer: de plaatsing van goederen onder enige douaneregeling als bedoeld in artikel 4, onderdeel 16, onder a, d en f, van het Communautair douanewetboek, alsmede iedere handeling die daarop kennelijk rechtstreeks is gericht;  
+l. invoer: het binnenbrengen van goederen in Nederland, anders dan voor doorvoer;  
 
-m. uitvoer: de plaatsing van communautaire goederen onder een douaneregeling als bedoeld in artikel 4, onderdeel 16, onder c, g en h, van het Communautair douanewetboek, alsmede iedere handeling die daarop kennelijk rechtstreeks is gericht;  
+m. uitvoer: het doen verlaten van goederen van Nederland, anders dan voor doorvoer;  
 
 n. internationale routine-inspectie: een inspectie als bedoeld in artikel VI, paragrafen 3, 4 en 5, van het verdrag ter verificatie van de naleving daarvan;  
 
@@ -56,7 +56,9 @@ p. internationaal inspectieteam: inspecteurs en inspectie-assistenten, door de D
 
 q. begeleidingsteam: de door Onze Minister tot begeleiding van het internationaal inspectieteam aangewezen ambtenaren;  
 
-r. Onze Minister: Onze Minister van Economische Zaken;     
+r. Onze Minister: Onze Minister van Economische Zaken;  
+
+s. doorvoer: het vervoer van goederen die uitsluitend Nederland worden binnengebracht om via Nederland te worden vervoerd naar een bestemming buiten Nederland.     
 2.  Voor de toepassing van de bij of krachtens deze wet ter zake van invoer gestelde regelen worden goederen als bedoeld in de artikelen 202, eerste lid, en 203, eerste lid, alsmede goederen met betrekking tot welke niet is voldaan aan enige verplichting of voorwaarde als bedoeld in artikel 204, eerste lid, van het Communautair douanewetboek, geacht te zijn geplaatst onder de douaneregeling, bedoeld in artikel 4, onderdeel 16, onder a, van dat wetboek.   
 
 ### Hoofdstuk  2  

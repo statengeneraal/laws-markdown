@@ -364,7 +364,8 @@ Op een informatieverzoek als bedoeld in de artikelen 23 tot en met 25 is artikel
 
 ### Artikel  28  
 
-In afwijking van [artikel 4:20a, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [paragraaf 4.1.3.3 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing op een aanvraag om een vergunning, tenzij bij wettelijk voorschrift anders is bepaald.  
+1.  In afwijking van [artikel 4:20a, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [paragraaf 4.1.3.3 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing op een aanvraag om een vergunning, tenzij bij wettelijk voorschrift anders is bepaald.   
+2.  Het eerste lid is niet van toepassing op de aanvraag om een vergunning, ingesteld bij of ter uitvoering van een verordening of besluit als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie.   
 
 ### Artikel  29  
 

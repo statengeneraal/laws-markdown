@@ -148,7 +148,7 @@ b. een schuldigerkenning op grond van een wilsrecht opgenomen in [Boek 4 van het
 2.  Indien het aandeel van een erflater in goederen ten gevolge van een overeenkomst bij zijn overlijden hetzij verblijft of kan worden toegedeeld aan, hetzij kan worden overgenomen door de deelgenoten of één of meer van hen, wordt het verbleven, toegedeelde of overgenomen aandeel voor de toepassing van deze wet geacht krachtens erfrecht door het overlijden te zijn verkregen. Het in de vorige volzin bepaalde is van overeenkomstige toepassing op goederen waaromtrent een overeenkomst is gesloten krachtens welke die goederen bij overlijden van de rechthebbende zullen toebehoren aan of kunnen worden overgenomen door de overige contractanten of één of meer van hen, alsmede op goederen waaromtrent door de erflater een verplichting tot levering is aangegaan en de levering plaatsvindt bij overlijden of een daarmee verband houdend tijdstip.   
 3.  Al wat is schuldig erkend of kwijtgescholden onder voorwaarde van overleving van degene aan wie is schuldig erkend of kwijtgescholden, wordt voor de toepassing van deze wet geacht krachtens erfrecht door het overlijden te zijn verkregen.   
 4.  Hetgeen aan de langstlevende echtgenoot, krachtens een bij huwelijksvoorwaarden gemaakt en van het overlijden van de eerststervende afhankelijk beding, bij dat overlijden meer toekomt dan de helft der gemeenschap of, in geval van een verrekenbeding of deelgenootschap, meer toekomt dan volgens de wettelijke regeling het geval zou zijn, wordt voor de toepassing van deze wet geacht krachtens erfrecht door het overlijden van de eerststervende te zijn verkregen.   
-5.  Het eerste en het tweede lid zijn uitsluitend van toepassing indien de verkrijger de partner is van erflater of behoort tot diens bloed- of aanverwanten tot en met de vierde graad of hun partners.   
+5.  Het eerste en het tweede lid zijn uitsluitend van toepassing indien de verkrijger de partner is van de schenker of de erflater of behoort tot diens bloed- of aanverwanten tot en met de vierde graad of hun partners.   
 
 ### Artikel  12  
 
@@ -657,6 +657,7 @@ Een beroepschrift kan op de voet van [artikel 26a van de Algemene wet inzake rij
 
 3°. voor het geval het betreft het vaststellen van een aanslag of conserverende aanslag in verband met een gebeurtenis als bedoeld in artikel 35e, na de dag waarop die gebeurtenis zich heeft voorgedaan.     
 2.  Betreft het de bevoegdheid tot het vaststellen van een navorderingsaanslag wegens het ten onrechte of tot een te hoog bedrag verlenen van een vermindering op grond van artikel 53, dan gaat de termijn in na de dag waarop de vermindering is verleend.   
+3.  Indien voor de erfbelasting de aangifte over een bestanddeel van het voorwerp van enige belasting dat in het buitenland wordt gehouden of is opgekomen niet, onjuist of onvolledig is gedaan, is de erfgenaam gehouden alsnog een juiste en volledige aangifte te doen zodra hij hiervan kennis neemt. In afwijking van [artikel 16, vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) vervalt in deze gevallen de bevoegdheid tot het vaststellen van een navorderingsaanslag niet.   
 
 ### Hoofdstuk  XI  
 
@@ -691,7 +692,7 @@ b. een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van ee
 
 ### Artikel  72  
 
-1.  Executeurs van nalatenschappen zijn, op gelijke wijze als de erfgenamen, tot vervulling van al de aan deze bij deze wet opgelegde verplichtingen gehouden, in geval al de erfgenamen buiten Nederland hun woonplaats hebben. Zij zijn tot het doen van aangifte bevoegd, bijaldien één of meer van de erfgenamen hun woonplaats in Nederland hebben. Indien zij van deze bevoegdheid hebben gebruik gemaakt, zijn zij, op gelijke wijze als de erfgenamen, tot vervulling van al de aan deze bij deze wet opgelegde verplichtingen gehouden.   
+1.  Executeurs van nalatenschappen zijn, op gelijke wijze als de erfgenamen, tot vervulling van al de aan deze bij deze wet opgelegde verplichtingen gehouden, in geval al de erfgenamen buiten Nederland hun woonplaats hebben. Zij zijn tot het doen van aangifte bevoegd, waarbij alle erfgenamen de aangifte mede dienen te ondertekenen, bijaldien één of meer van de erfgenamen hun woonplaats in Nederland hebben. Indien zij van deze bevoegdheid hebben gebruik gemaakt, zijn zij, op gelijke wijze als de erfgenamen, tot vervulling van al de aan deze bij deze wet opgelegde verplichtingen gehouden.   
 2.  Door de rechter benoemde vereffenaars van nalatenschappen zijn gehouden tot al de bij deze wet aan erfgenamen opgelegde verplichtingen.   
 
 ### Artikel  73  

@@ -19,11 +19,9 @@ In deze regeling wordt verstaan onder:
 
 – *AWBZ:*[Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-– *indicatiebesluit:* een besluit van een indicatieorgaan als bedoeld in [artikel 9a](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), onderscheidenlijk van de stichting, bedoeld in [artikel 9b, vierde lid, van de AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), waarbij beoordeeld wordt of en in welke omvang een zorgvrager, ten behoeve van wie een aanvraag om een indicatiebesluit is ingediend, is aangewezen op een of meer vormen van zorg, als bedoeld in [artikel 2, van het Zorgindicatiebesluit](../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), onderscheidenlijk [artikel 9, onderdeel a, van het Uitvoeringsbesluit Wet op de jeugdzorg](../../../../../../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md);  
+– *indicatiebesluit:* een besluit van een indicatieorgaan als bedoeld in [artikel 9a van de AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), onderscheidenlijk van de stichting, bedoeld in [artikel 9b, vierde lid, van de AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), waarbij beoordeeld wordt of en in welke omvang een zorgvrager, ten behoeve van wie een aanvraag om een indicatiebesluit is ingediend, is aangewezen op een of meer vormen van zorg als bedoeld in [artikel 2 van het Zorgindicatiebesluit](../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), onderscheidenlijk [artikel 9, onderdeel a, van het Uitvoeringsbesluit Wet op de jeugdzorg](../../../../../../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md);  
 
 – *kind:* het kind, bedoeld in artikel 2;  
-
-– *Minister voor J en G:* Minister voor Jeugd en Gezin;  
 
 – *Minister van SZW:* Minister van Sociale Zaken en Werkgelegenheid;  
 
@@ -77,7 +75,7 @@ b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting op grond va
 
 ####De hoogte van een tegemoetkoming
 
-De tegemoetkoming voor het kind bedraagt € 211,45 per kwartaal.  
+De tegemoetkoming voor het kind bedraagt € 212,34 per kwartaal.  
 
 ### Artikel   5a  
 
@@ -87,7 +85,7 @@ De tegemoetkoming voor het kind bedraagt € 211,45 per kwartaal.
 
 a. over de vier kwartalen van een kalenderjaar gerekend vanaf 1 januari 2010 recht heeft gehad op een tegemoetkoming, bedoeld in artikel 5;  
 
-b. met betrekking tot dat kalenderjaar een partner heeft als bedoeld in [artikel 1.2 van de Wet op de inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); en  
+b. met betrekking tot dat kalenderjaar een partner heeft als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); en  
 
 c. deze persoon of diens partner in dat kalenderjaar belastbare winst uit een of meer ondernemingen als bedoeld in [artikel 3.2 van de Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), belastbaar loon als bedoeld in [artikel 3.80 van de Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of belastbaar resultaat uit een of meer werkzaamheden als bedoeld in [artikel 3.90 van de Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) heeft genoten niet meer is dan het bedrag, genoemd in [artikel 8.14a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);   heeft deze persoon in aanvulling op de tegemoetkoming, bedoeld in artikel 5, recht op een extra tegemoetkoming van € 1460 over dat kalenderjaar.   
 2.  Indien een persoon of diens partner voldoet aan de voorwaarden, bedoeld in het eerste lid, en recht heeft op meer dan een tegemoetkoming als bedoeld in artikel 5, heeft hij dan wel zijn partner recht op ten hoogste een extra tegemoetkoming, bedoeld in het eerste lid.   
@@ -103,16 +101,17 @@ c. deze persoon of diens partner in dat kalenderjaar belastbare winst uit een of
 
 1.  De SVB stelt op aanvraag vast of recht op een tegemoetkoming bestaat.   
 2.  De aanvraag wordt ingediend door middel van een door de SVB beschikbaar gesteld aanvraagformulier.   
-3.  De aanvraag wordt ingediend binnen acht weken nadat de SVB het aanvraagformulier aan de aanvrager ter beschikking heeft gesteld.   
-4.  De vaststelling, bedoeld in het eerste lid, geschiedt mede op grond van de door een indicatieorgaan als bedoeld in [artikel 9a](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), onderscheidenlijk een stichting als bedoeld in [artikel 9b, vierde lid, AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), op grond van artikel 5.18a van het Besluit SUWI aan de SVB verstrekte gegevens. Bij de aanvraag wordt het indicatiebesluit, bedoeld in artikel 2, eerste lid, slechts overgelegd indien de SVB daarom verzoekt.   
-5.  Indien de aanvraag niet is ingediend binnen de in het derde lid bedoelde termijn, gaat het recht op tegemoetkoming in met ingang van het kwartaal waarin de aanvraag door de SVB is ontvangen. De SVB is bevoegd in bijzondere gevallen af te wijken van de eerste zin.   
+3.  Bij de aanvraag wordt het indicatiebesluit, bedoeld in artikel 2, eerste lid, overgelegd, tenzij de SVB het medisch advies, bedoeld in artikel 2, tweede lid, inwint.   
+4.  De vaststelling, bedoeld in het eerste lid, geschiedt mede op grond van de door een indicatieorgaan als bedoeld in [artikel 9a van de AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), onderscheidenlijk een stichting als bedoeld in [artikel 9b, vierde lid, van de AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), aan de SVB verstrekte gegevens, indien dat wettelijk is toegestaan. In dat geval wordt bij de aanvraag het indicatiebesluit, bedoeld in artikel 2, eerste lid, overgelegd indien de SVB daarom verzoekt.   
+5.  De tegemoetkoming, bedoeld in artikel 5, kan niet eerder ingaan dan de eerste dag van het kwartaal tijdens welk de aanvraag om een tegemoetkoming werd ingediend. De SVB is bevoegd in bijzondere gevallen van de eerste zin af te wijken.   
 6.  Indien de SVB medisch advies als bedoeld in artikel 2, tweede lid, inwint, geschiedt de vaststelling, bedoeld in het eerste lid, in afwijking van het vierde lid mede op grond van dit advies. Het derde en vijfde lid zijn niet van toepassing.   
+7.  De aanvraag om de extra tegemoetkoming wordt ingediend voor 1 december van het kalenderjaar na het kalenderjaar waarover recht op de extra tegemoetkoming bestaat.   
 
 ### Artikel  8  
 
 ####Wetsbepalingen van overeenkomstige toepassing
 
-1.  De [artikelen 14a tot en met 16](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [18, eerste, tweede, derde en zevende lid](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [19](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [19a](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [20](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [21a](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [22 tot en met 24](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [24a, eerste lid](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [24b](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [24c](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [24d](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [29d](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [30](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en [31 van de AKW](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en de daarop berustende bepalingen zijn van overeenkomstige toepassing op de tegemoetkomingen, bedoeld in de artikelen 5 en 5a, met dien verstande dat in [artikel 18, eerste lid, van de AKW](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), met betrekking tot de extra tegemoetkoming, bedoeld in artikel 5a, voor het kwartaal wordt gelezen: het kalenderjaar.   
+1.  De [artikelen 14a tot en met 16](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [18](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [19](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [19a](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [20](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [21a](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [22 tot en met 24](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [24a, eerste lid](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [24b](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [24c](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [24d](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [29d](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [30](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en [31 van de AKW](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en de daarop berustende bepalingen zijn van overeenkomstige toepassing op de tegemoetkomingen, bedoeld in de artikelen 5 en 5a, met dien verstande dat in [artikel 18, eerste lid, van de AKW](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), met betrekking tot de extra tegemoetkoming, bedoeld in artikel 5a, voor het kwartaal wordt gelezen: het kalenderjaar.   
 2.  De [artikelen 35, zesde lid](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [38, tweede lid](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [46](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [48](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [49](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [hoofdstuk 9 van de Wet SUWI](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [artikel 121 van de Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) zijn van overeenkomstige toepassing bij de uitvoering van deze regeling.   
 
 ### Artikel  8a  
@@ -142,44 +141,29 @@ De SVB kan een aan een persoon ten onrechte betaalde tegemoetkoming als bedoeld 
 
 ### Artikel  10a  
 
-####Raming en opgave tegemoetkomingen
+####Raming baten en lasten
 
-1.  Uiterlijk op 1 oktober van elk jaar verstrekt de SVB aan de Minister van SZW, met een uitsplitsing naar kwartaal: 
-
-a. een opgave van het totaalbedrag aan geraamde uitgaven voor de tegemoetkomingen, bedoeld in artikel 5, in het komende jaar;  
-
-b. een opgave van het totaalbedrag aan geraamde uitgaven voor de extra tegemoetkomingen, bedoeld in artikel 5a, in het komende jaar.     
-2.  In het jaarplan met begroting verstrekt de SVB elk jaar aan de Minister van SZW een opgave van het totaalbedrag aan geraamde uitvoeringskosten op grond van deze regeling in het komende jaar.   
+1.  Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van SZW in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot deze regeling, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.   
+2.  De uitkeringslasten in de opgave, bedoeld in het eerste lid, worden gespecificeerd naar tegemoetkomingen als bedoeld in artikel 5, en extra tegemoetkomingen als bedoeld in artikel 5a.   
 
 ### Artikel  10b  
 
-####Afdracht tegemoetkomingen en uitvoeringskosten
+####Betaling voorschot
 
-Met als valutadag de eerste dag van elk kwartaal stort de Minister van SZW op de rekening-courant ten name van de SVB bij de Minister van Financiën: 
+1.  De Minister van SZW stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](../../../../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md), een periodiek voorschot op het bedrag, bedoeld in artikel 10a, van: 
 
-a. een periodiek voorschot op het bedrag, bedoeld in artikel 10a, eerste lid;  
+a. geraamde uitkeringslasten met als valutadatum de eerste dag van elke maand, en  
 
-b. éénvierde van het bedrag, bedoeld in artikel 10a, tweede lid.   De Minister van SZW kan, na overleg met de SVB, van deze bedragen afwijken.  
+b. 1/12 <sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+2.  De Minister van SZW kan, na overleg met de SVB, van de in het eerste lid, onderdelen a en b, bedoelde bedragen afwijken.   
 
 ### Artikel  10e  
 
 ####Afrekening
 
-1.  Uiterlijk op 1 juli dient de SVB bij de Minister van SZW over het afgelopen jaar in: 
-
-a. de afrekening van de tegemoetkomingen, bedoeld in artikel 5;  
-
-b. de afrekening van de extra tegemoetkomingen, bedoeld in artikel 5a;  
-
-c. de afrekening van de uitvoeringskosten.     
-2.  In de afrekening van de tegemoetkomingen en de uitvoeringskosten wordt, op basis van de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de kasstroom inzichtelijk gemaakt en wordt deze afzonderlijk vermeld voor de uitgaven en overige posten met betrekking tot de uitvoering van deze regeling.   
-3.  Op grond van de afrekening van de tegemoetkomingen en de uitvoeringskosten vindt voor 15 augustus een betaling plaats ten gunste of ten laste van de SVB.   
-
-### Artikel  10f  
-
-####Vaststelling Rijksbijdrage
-
-De Minister van SZW stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitgaven verbonden aan de uitvoering van deze regeling over het afgelopen kalenderjaar vast.  
+1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 10b, eerste lid, uitgesplitst naar tegemoetkomingen als bedoeld in artikel 5, en extra tegemoetkomingen als bedoeld in artikel 5a en uitvoeringskosten, met betrekking tot deze regeling opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van SZW de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.   
+3.  Voor de afrekening van de tegemoetkomingen, de extra tegemoetkomingen en de uitvoeringskosten van deze regeling en de vaststelling en afrekening van de rijksbijdrage ten gunste of ten laste van de SVB voor het jaar 2011, zijn de artikelen 10e respectievelijk 10f, zoals deze luidden op 31 december 2011, van toepassing.   
 
 ### Artikel  10g  
 

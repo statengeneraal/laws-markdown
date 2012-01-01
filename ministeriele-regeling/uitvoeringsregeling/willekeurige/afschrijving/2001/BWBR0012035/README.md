@@ -36,7 +36,7 @@ De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](../../../../../../w
 
 ### Artikel  4  
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten en het verzoek met betrekking tot een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland geschieden door middel van het door de inspecteur uitgereikte of toegezonden formulier. Ter zake wordt een ontvangstbewijs afgegeven.  
+De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken, Landbouw en Innovatie geopende elektronische weg.  
 
 ### Artikel  5  
 

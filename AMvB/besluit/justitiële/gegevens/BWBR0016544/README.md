@@ -85,7 +85,9 @@ p. de overtredingen van de [Wet wapens en munitie](../../../../../wet/wet/wapens
 
 q. de overtredingen van de [Drank- en Horecawet](../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md);  
 
-r. de overtredingen van de [Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).     
+r. de overtredingen van de [Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+
+s. de overtredingen, bedoeld in [artikel 35b, eerste lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md).     
 3.  Het eerste lid is van overeenkomstige toepassing op zaken die door de procureur-generaal bij de Hoge Raad in behandeling zijn genomen en waarvan de Hoge Raad ingevolge [artikel 76](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) in eerste instantie en tevens in hoogste ressort kennis neemt.   
 
 ### Artikel  5  
@@ -415,11 +417,21 @@ Justitiële gegevens worden desgevraagd verstrekt aan:
 
 a. de contactambtenaren bedoeld in [artikel 58 van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), ten behoeve van de hun als zodanig opgedragen werkzaamheden;  
 
-b. de daartoe bevoegde buitengewone opsporingsambtenaren van de Inspectie Verkeer en Waterstaat, terzake van overtreding van de artikelen, genoemd in [artikel 8:1, eerste lid](../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), of [artikel 8:2 van het Arbeidstijdenbesluit vervoer](../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [artikel 31 van de Wet goederenvervoer over de weg](../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md), [artikel 5.3.15](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) juncto [5.1.1, eerste lid, onder c, van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en [artikel 2, eerste en tweede lid van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), voorzover zij deze gegevens nodig hebben voor de beoordeling van de eis van betrouwbaarheid, bedoeld in [artikel 23, van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) en [artikel 18 van het Besluit goederenvervoer over de weg](../../../../../AMvB/besluit/goederenvervoer/over/de/weg/BWBR0005496/README.md).    
+b. de daartoe bevoegde buitengewone opsporingsambtenaren van de Inspectie Verkeer en Waterstaat, ter zake van overtreding: 
+
+1°. van [artikel 2.6 van de Wet wegvervoer goederen](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md),  
+
+2°. van [artikel 2, eerste en tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), voor zover zij deze gegevens nodig hebben voor de beoordeling van de eis van betrouwbaarheid, bedoeld in [artikel 23 van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) en [artikel 2.10 van de Wet wegvervoer goederen](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md),  
+
+3°. als bedoeld in [artikel 35b, eerste lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md),  
+
+4°. van de artikelen, genoemd in [artikel 8:1, eerste lid](../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), of [artikel 8:2 van het Arbeidstijdenbesluit vervoer](../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), of  
+
+5°. van [artikel 5.3.15](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) juncto [5.1.1, eerste lid, onderdeel c, van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).      
 
 ### Artikel  22a  
 
-Justitiële gegevens van degene die in het bezit is van de chauffeurspas, bedoeld in [artikel 75 van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens als bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder f, terzake van de strafbare feiten die van belang zijn voor de beoordeling van een met het oog op het uitoefenen van het beroep van taxichauffeur aangevraagde verklaring omtrent het gedrag, verder aan de Minister van Infrastructuur en Milieu, met het oog op toepassing van [artikel 77 van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md).  
+Justitiële gegevens van degene die in het bezit is van een chauffeurskaart als bedoeld in [artikel 1, onder i, van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens, bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder f, terzake van de strafbare feiten die van belang zijn voor de beoordeling van een met het oog op het uitoefenen van het beroep van taxichauffeur aangevraagde verklaring omtrent het gedrag, verder aan Onze Minister van Infrastructuur en Milieu, met het oog op toepassing van [artikel 82, vierde lid, van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md).  
 
 ### Paragraaf  2  
 

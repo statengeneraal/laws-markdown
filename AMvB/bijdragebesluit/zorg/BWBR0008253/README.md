@@ -78,7 +78,7 @@ l. standaardpremie: het bedrag, bedoeld in [artikel 1, eerste lid, onderdeel g,
 ### Artikel  4  
 
 1.  De bijdrage bedraagt per maand voor de ongehuwde verzekerde die gedurende het etmaal in een instelling verblijft en voor de gehuwde verzekerden die beiden gedurende het etmaal in een instelling verblijven tezamen, een twaalfde gedeelte van het bijdrageplichtig inkomen, met dien verstande dat de uitkomst daarvan vervolgens wordt verhoogd met twee procent.   
-2.  De bijdrage, bedoeld in het eerste lid, bedraagt niet meer dan € 2 097,40 per maand.   
+2.  De bijdrage, bedoeld in het eerste lid, bedraagt niet meer dan € 2 081,60 per 1 januari 2012: € 2 136,40 per maand.   
 3.  Over een gedeelte van een maand is de bijdrage gelijk aan het vastgestelde bedrag per maand, vermenigvuldigd met twaalf maal het aantal dagen waarover de bijdrage binnen die maand verschuldigd is en gedeeld door 365.   
 4.  Van de voor gehuwde verzekerden gezamenlijk berekende bijdrage is ieder van de echtgenoten een gedeelte verschuldigd naar rato van ieders aandeel in het bijdrageplichtig inkomen.   
 5.  De met toepassing van het eerste tot en met het vierde lid vastgestelde bijdrage wordt verlaagd met: 
@@ -137,7 +137,7 @@ Op een aanvraag als bedoeld in de artikelen 10, eerste lid, en 15, derde lid, wo
 
 ### Artikel  14  
 
-1.  In afwijking van artikel 4 bedraagt de bijdrage 12,5% van het bijdrageplichtig inkomen met een minimum van € 145,60 en een maximum van € 764,40 per maand voor: 
+1.  In afwijking van artikel 4 bedraagt de bijdrage 12,5% van het bijdrageplichtig inkomen met een minimum van € 148,20 en een maximum van € 778,60 per maand voor: 
 
 a. de gehuwde verzekerde wiens echtgenoot niet verblijft in een instelling;  
 
@@ -190,18 +190,18 @@ De verzekerde is de bijdrage, bedoeld in artikel 16a, verschuldigd aan het centr
 
 ### Artikel  16d  
 
-1.  De bijdrage voor de zorg, bedoeld in de [artikelen 4](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [5](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [6 van het Besluit](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), bedraagt € 13 per uur of per dagdeel van maximaal vier uur, indien de zorg, bedoeld in artikel 6, wordt verleend in groepsverband. Indien er sprake is van zorgverlening, niet zijnde zorg in groepsverband, gedurende een deel van een uur, wordt de bijdrage naar evenredigheid berekend.   
+1.  De bijdrage voor de zorg, bedoeld in de [artikelen 4](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [5](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [6 van het Besluit](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), bedraagt € 13,40 per uur of per dagdeel van maximaal vier uur, indien de zorg, bedoeld in artikel 6, wordt verleend in groepsverband. Indien er sprake is van zorgverlening, niet zijnde zorg in groepsverband, gedurende een deel van een uur, wordt de bijdrage naar evenredigheid berekend.   
 2.  De bijdrage, bedoeld in het eerste lid, bedraagt niet meer dan: 
 
-a. voor de ongehuwde verzekerde jonger dan 65 jaar € 17,80 per vier weken, met dien verstande dat indien zijn inkomen meer bedraagt dan € 22 636 het bedrag van € 17,80 wordt verhoogd met een dertiende deel van 15% van het verschil tussen zijn inkomen en € 22 636;  
+a. voor de ongehuwde verzekerde jonger dan 65 jaar € 18 per vier weken, met dien verstande dat indien zijn inkomen meer bedraagt dan € 22 905 het bedrag van € 18 wordt verhoogd met een dertiende deel van 15% van het verschil tussen zijn inkomen en € 22 905;  
 
-b. voor de ongehuwde verzekerde van 65 jaar of ouder € 17,80 per vier weken, met dien verstande dat indien zijn inkomen meer bedraagt dan € 15 838 het bedrag van € 17,80 wordt verhoogd met een dertiende deel van 15% van het verschil tussen zijn inkomen en € 15 838;  
+b. voor de ongehuwde verzekerde van 65 jaar of ouder € 18 per vier weken, met dien verstande dat indien zijn inkomen meer bedraagt dan € 16 007 het bedrag van € 18 wordt verhoogd met een dertiende deel van 15% van het verschil tussen zijn inkomen en € 16 007;  
 
-c. voor de gehuwde verzekerden indien een van beiden jonger is dan 65 jaar of beiden jonger zijn dan 65 jaar € 25,40 per vier weken, met dien verstande dat indien hun gezamenlijke inkomen meer bedraagt dan € 27 902 het bedrag van € 25,40 wordt verhoogd met een dertiende deel van 15% van het verschil tussen hun gezamenlijke inkomen en € 27 902;  
+c. voor de gehuwde verzekerden indien een van beiden jonger is dan 65 jaar of beiden jonger zijn dan 65 jaar € 25,80 per vier weken, met dien verstande dat indien hun gezamenlijke inkomen meer bedraagt dan € 28 306 het bedrag van € 25,80 wordt verhoogd met een dertiende deel van 15% van het verschil tussen hun gezamenlijke inkomen en € 28 306;  
 
-d. voor de gehuwde verzekerden die beiden 65 jaar of ouder zijn € 25,40 per vier weken, met dien verstande dat indien hun gezamenlijke inkomen meer bedraagt dan € 22 100 het bedrag van € 25,40 wordt verhoogd met een dertiende deel van 15% van het verschil tussen hun gezamenlijke inkomen en € 22 100.     
+d. voor de gehuwde verzekerden die beiden 65 jaar of ouder zijn € 25,80 per vier weken, met dien verstande dat indien hun gezamenlijke inkomen meer bedraagt dan € 22 319 het bedrag van € 25,80 wordt verhoogd met een dertiende deel van 15% van het verschil tussen hun gezamenlijke inkomen en € 22 319.     
 3.  Bij de toepassing van het tweede lid wordt per kalenderjaar uitgegaan van twaalf perioden van vier weken en een periode die, afhankelijk van resterende dagen, vier of vijf weken bedraagt.   
-4.  Op het op grond van het eerste en tweede lid vastgestelde bedrag worden de eigen bijdrage die voor maatschappelijke ondersteuning verschuldigd is ingevolge de [Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en het aandeel in de kosten van maatschappelijke ondersteuning dat bij de toekenning van een financiële tegemoetkoming ingevolge [die wet](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) voor eigen rekening komt, in mindering gebracht.   
+4.  Op het op grond van het eerste en tweede lid vastgestelde bedrag worden de eigen bijdrage die voor maatschappelijke ondersteuning verschuldigd is ingevolge de [Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en het aandeel in de kosten van maatschappelijke ondersteuning dat bij de toekenning van een financiële tegemoetkoming ingevolge die wet voor eigen rekening komt, in mindering gebracht.   
 5.  Op de met toepassing van het eerste, tweede en vierde lid vastgestelde bijdrage wordt een korting van 33% toegepast.   
 6.  De bijdrage is niet verschuldigd: 
 

@@ -257,14 +257,10 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 ### Artikel  9e  
 
 1.  Provinciale staten zijn bevoegd voor de aanleg of uitbreiding van een productie-installatie voor opwekking van duurzame elektriciteit met behulp van windenergie met een capaciteit van ten minste 5 maar niet meer dan 100 MW, met inbegrip van de aansluiting van die installatie op een net, gronden aan te wijzen en daarvoor een inpassingsplan als bedoeld in [artikel 3.26, eerste lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) vast te stellen. De gemeenteraad is voor de duur van tien jaren na de vaststelling van het inpassingsplan niet bevoegd voor die gronden een bestemmingsplan vast te stellen.   
-2.  Provinciale staten geven in ieder geval toepassing aan de bevoegdheid op grond van het eerste lid indien een producent een voornemen tot de aanleg of uitbreiding van een productie-installatie als bedoeld in het eerste lid schriftelijk bij hen heeft gemeld en de betrokken gemeente een aanvraag van die producent tot vaststelling dan wel wijziging van een bestemmingplan met betrekking tot de gronden, bedoeld in het eerste lid, heeft afgewezen. Voor het doen van de melding en de daarbij te verstrekken gegevens kunnen provinciale staten een formulier vaststellen.   
+2.  Provinciale staten geven in ieder geval toepassing aan de bevoegdheid op grond van het eerste lid indien een producent een voornemen tot de aanleg of uitbreiding van een productie-installatie als bedoeld in het eerste lid schriftelijk bij hen heeft gemeld en de betrokken gemeente een aanvraag van die producent tot vaststelling dan wel wijziging van een bestemmingplan ten behoeve van de realisatie van dat voornemen heeft afgewezen. Voor het doen van de melding en de daarbij te verstrekken gegevens kunnen provinciale staten een formulier vaststellen.   
 3.  [Artikel 3.26, tweede en derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is van overeenkomstige toepassing. Artikel 3.26, vijfde lid, van de Wet ruimtelijke ordening is niet van toepassing.   
-4.  Gedeputeerde staten oefenen de bevoegdheden en voeren de verplichtingen, bedoeld in [artikel 3.6, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), uit en beslissen op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, b, c of g, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Gedeputeerde staten zenden terstond een afschrift aan burgemeester en wethouders van beschikkingen die zijn gegeven met toepassing van de bevoegdheden, bedoeld in de eerste volzin.   
-5.  Provinciale staten kunnen, zo nodig in afwijking van het tweede lid, besluiten geen toepassing te geven aan het eerste lid indien: 
-
-a. in aanmerking genomen de omvang, aard en ligging van een productie-installatie als bedoeld in het eerste lid, redelijkerwijs niet valt te verwachten dat toepassing van dit artikel de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden; en  
-
-b. is voldaan aan de voor die provincie gestelde minimum realisatienorm.     
+4.  Indien provinciale staten toepassing geven aan de in het eerste lid bedoelde bevoegdheid, oefenen gedeputeerde staten de bevoegdheden en voeren de verplichtingen, bedoeld in [artikel 3.6, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) uit en beslissen op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, b, c of g, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Gedeputeerde staten zenden terstond een afschrift aan burgemeester en wethouders van beschikkingen die zijn gegeven met toepassing van de bevoegdheden, bedoeld in de eerste volzin.   
+5.  Het tweede lid is niet van toepassing indien is voldaan aan de krachtens het zesde lid voor die provincie gestelde minimum realisatienorm.   
 6.  Bij algemene maatregel van bestuur op voordracht van Onze Minister wordt per provincie een minimum realisatienorm vastgesteld. De voordracht voor de algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  9f  
@@ -274,11 +270,11 @@ b. is voldaan aan de voor die provincie gestelde minimum realisatienorm.
 3.  Gedeputeerde staten geven ten aanzien van de ontwerpen van de besluiten, bedoeld in het eerste lid, gezamenlijk toepassing aan [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en voegen de kennisgevingen, bedoeld in [artikel 3:12 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), samen in een kennisgeving die door hen wordt gedaan.   
 4.  Voor zover de aanleg of de uitbreiding, bedoeld in het eerste lid, onevenredig wordt belemmerd door bepalingen die – al dan niet krachtens de wet – bij of krachtens een regeling van een gemeente of waterschap zijn vastgesteld, kunnen die bepalingen bij het nemen of uitvoeren van de besluiten, bedoeld in het eerste lid, om dringende redenen buiten toepassing worden gelaten.   
 5.  [Artikel 3.33, tweede en vierde tot en met zesde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is van overeenkomstige toepassing.   
-6.  Onze Minister kan op verzoek van gedeputeerde staten bepalen dat het eerste lid niet van toepassing is op een productie-installatie als bedoeld in artikel 9e, eerste lid, indien: 
+6.  Gedeputeerde staten kunnen bepalen dat het eerste lid niet van toepassing is op een productie-installatie als bedoeld in artikel 9e, eerste lid, indien: 
 
-a. in aanmerking genomen de omvang, aard en ligging van de desbetreffende productie-installatie, redelijkerwijze niet valt te verwachten dat toepassing van het eerste lid de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, of  
+a. in aanmerking genomen de omvang, aard en ligging van de desbetreffende productie-installatie, redelijkerwijze niet valt te verwachten dat toepassing van het eerste lid de besluitvorming in betekenende mate zal versnellen of dat daaraan anderszins aanmerkelijke voordelen zijn verbonden, of  
 
-b. gedeputeerde staten anders dan ter uitvoering van het eerste lid reeds voldoende bijdragen aan de realisatie van de doelstellingen van het Rijk met betrekking tot de opwekking op land van duurzame elektriciteit met behulp van windenergie.     
+b. is voldaan aan de krachtens artikel 9e, zesde lid, voor die provincie gestelde minimum realisatienorm.     
 
 ### Artikel  9g  
 
@@ -430,7 +426,7 @@ c. de netten aan te leggen, te herstellen, te vernieuwen of uit te breiden, waar
 
 d. voldoende reservecapaciteit voor het transport van elektriciteit aan te houden;  
 
-e. op de grondslag van artikel 23 derden te voorzien van een aansluiting op de netten en hun desgevraagd een meter ter beschikking te stellen;  
+e. op de grondslag van artikel 23 derden te voorzien van een aansluiting op de netten;  
 
 f. op de grondslag van artikel 24 ten behoeve van derden transport van elektriciteit uit te voeren;  
 
@@ -446,7 +442,13 @@ k. onverminderd de artikelen 19 en 79, op een geschikte wijze gegevens te public
 
 l. afnemers alle gegevens te verstrekken die zij voor een efficiënte toegang tot het net nodig hebben;  
 
-m. voorzieningen te treffen in geval van een faillissement van een leverancier van elektriciteit aan afnemers als bedoeld in artikel 95a, eerste lid.     
+m. voorzieningen te treffen in geval van een faillissement van een leverancier van elektriciteit aan afnemers als bedoeld in artikel 95a, eerste lid;  
+
+n. ervoor zorg te dragen dat een afnemer als bedoeld in artikel 95a, eerste lid, voor elke aansluiting beschikt over een geïnstalleerde meetinrichting, tenzij die afnemer blijkens de voorwaarden, bedoeld in artikel 31, eerste lid, onderdelen a of b, beschikt over een onbemeten aansluiting;  
+
+o. zorg te dragen voor het beheer en onderhoud van de bij een afnemer als bedoeld in artikel 95a, eerste lid, geïnstalleerde meetinrichting;  
+
+p. afnemers, niet zijnde afnemers, als bedoeld in artikel 95a, eerste lid, desgevraagd een meetinrichting ter beschikking te stellen.     
 2.  In aanvulling op de taken, bedoeld in het eerste lid, heeft de netbeheerder van het landelijk hoogspanningsnet tevens tot taak: 
 
 a. technische voorzieningen te treffen en systeemdiensten uit te voeren, waaronder het aanhouden van voldoende productiereservecapaciteit, die nodig zijn om het transport van elektriciteit over alle netten op een veilige en doelmatige wijze te waarborgen;  
@@ -485,7 +487,7 @@ b. inspecties van netten met het oog op de veiligheid;
 
 c. speur- en ontwikkelingswerk ten behoeve van de aanleg, het onderhoud en de reparatie van het net;  
 
-d. de werkzaamheden ter uitvoering van artikel 16, tweede lid, onderdeel e.     
+d. de werkzaamheden ter uitvoering van artikel 16, eerste lid, onderdelen n, o en p, en het tweede lid, onderdeel e.     
 3.  Ingeval van uitbesteding van werkzaamheden als bedoeld in het tweede lid: 
 
 a. behoudt de netbeheerder de verantwoordelijkheid voor de volledige en juiste uitvoering van de desbetreffende taken,  
@@ -500,20 +502,6 @@ c. draagt de netbeheerder er zorg voor dat in de overeenkomst tot uitbesteding d
 1.  Het is anderen dan de desbetreffende netbeheerder verboden een taak uit te voeren als bedoeld in artikel 16, eerste of tweede lid, behoudens voor zover het betreft het meten van elektriciteit, bedoeld in artikel 16, eerste lid, onderdeel i.   
 2.  Degene, niet zijnde een netbeheerder, die bij een afnemer de meting van van het net afgenomen en verbruikte of opgewekte en op het net ingevoede elektriciteit verricht, deelt de daarmee verkregen meetgegevens mee aan de desbetreffende afnemer en aan de netbeheerder op wiens net de afnemer is aangesloten.   
 3.  De netbeheerder deelt het resultaat van de vaststelling, bedoeld in artikel 16, eerste lid, onderdeel h, en de meetgegevens, bedoeld in het tweede lid en in artikel 16, eerste lid, onderdeel i, mee aan de netbeheerder van het landelijk hoogspanningsnet alsmede aan de desbetreffende producent voor zover die nog niet de beschikking heeft over die informatie.   
-
-### Artikel  16b  
-
-1.  Een netbeheerder heeft in het kader van het beheer van de netten in het voor hem krachtens artikel 36 of  37 vastgestelde gebied tot taak voor het jaar 2009 en het jaar 2010 een forfaitair bedrag uit te betalen aan afnemers als bedoeld in het tweede lid als gedeeltelijke tegemoetkoming voor wijziging van de tariefdrager voor het transportafhankelijke element van het tarief, bedoeld in artikel 29, derde lid.   
-2.  Voor een uitbetaling als bedoeld in het eerste lid komt een afnemer in aanmerking die op 1 januari 2009 of 1 januari 2010 beschikt over een aansluiting met een totale maximale doorlaatwaarde van meer dan 3*25A en niet meer dan 3*80A.   
-3.  In afwijking van het tweede lid komt een afnemer niet in aanmerking voor een uitbetaling voor het jaar 2010, indien gedurende het jaar 2009 de totale maximale doorlaatwaarde van zijn aansluiting is verhoogd.   
-4.  In afwijking van het tweede lid komt een afnemer niet in aanmerking voor een uitbetaling, indien de totale maximale doorlaatwaarde van zijn aansluiting is verlaagd tot 3*25A of lager naar aanleiding van een verzoek daartoe dat uiterlijk drie maanden na ontvangst van de eerste afrekening na 1 januari 2009 bij de netbeheerder is ingediend.   
-5.  Indien de totale maximale doorlaatwaarde van een aansluiting van een afnemer als bedoeld in het tweede lid is verlaagd naar aanleiding van een verzoek daartoe dat uiterlijk drie maanden na ontvangst van de eerste afrekening na 1 januari 2009 bij de netbeheerder is ingediend, wordt ten behoeve van de uitbetaling, bedoeld in het eerste lid, de nieuwe doorlaatwaarde van de aansluiting geacht aanwezig te zijn geweest vanaf 1 januari 2009.   
-6.  Bij ministeriële regeling worden regels gesteld met betrekking tot de hoogte van de uitbetaling, bedoeld in het eerste lid, welke per categorie van afnemers kan verschillen.   
-7.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot: 
-
-a. de uitvoering van de uitbetaling, waaronder de informatievoorziening, de datum van uitbetaling en de wijze waarop wordt uitbetaald;  
-
-b. de inrichting van de administratie die netbeheerders moeten voeren in verband met de in het eerste lid genoemde taak.     
 
 ### Artikel  16c  
 
@@ -857,7 +845,7 @@ d. een gebouw ingrijpend wordt gerenoveerd.
 5.  Bij ministeriële regeling wordt de hoogte van de vergoeding vastgesteld die voor verschillende situaties verschillend kan worden vastgesteld.   
 6.  Een ander dan een netbeheerder kan op verzoek van een afnemer als bedoeld in artikel 95a, eerste lid, er na voorafgaande melding aan de betreffende netbeheerder voor zorgdragen dat die afnemer voor een of meer aansluitingen beschikt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen die gelden op het tijdstip van terbeschikkingstelling.   
 7.  Indien een ander dan een netbeheerder er zorg voor draagt dat een afnemer als bedoeld in artikel 95a, eerste lid, beschikt over een meetinrichting die ten minste voldoet aan de krachtens artikel 95la gestelde eisen, betaalt de betreffende netbeheerder aan die ander een vergoeding.   
-8.  Bij ministeriële regeling wordt de hoogte van de vergoeding als bedoeld in het zevende lid vastgesteld, die voor verschillende situaties verschillend kan worden vastgesteld.   
+8.   Dit lid is nog niet in werking getreden.    
 9.  Het is anderen dan de netbeheerder niet toegestaan bij afnemers als bedoeld in artikel 95a, eerste lid, geïnstalleerde, op afstand uitleesbare meetinrichtingen te vervangen die zijn geïnstalleerd na 31 december 2005.   
 10.  Indien een meetinrichting als bedoeld in artikel 95la, eerste lid, door de netbeheerder ter beschikking wordt gesteld, kan een afnemer als bedoeld in artikel 95a, eerste lid, deze meetinrichting weigeren. In dat geval wordt door de netbeheerder een niet op afstand uitleesbare meetinrichting ter beschikking gesteld.   
 
@@ -944,8 +932,6 @@ c. het tot stand brengen en in stand houden van een verbinding tussen de plaats 
 3.  Onze Minister stelt de tariefdrager vast voor het transportafhankelijke element van het tarief, bedoeld in het eerste lid. Het transportonafhankelijke element van het tarief, bedoeld in het eerste lid, wordt uitgedrukt in een bedrag in euro. Het transporttarief wordt berekend per aansluiting. Voor de toepassing van het transporttarief wordt een streng van lichtmasten geacht te beschikken over één aansluiting.   
 4.  In aanvulling op het bepaalde bij of krachtens het eerste, tweede en derde lid, kunnen bij algemene maatregel van bestuur regels worden gesteld met betrekking tot het tarief waarvoor transport van elektriciteit zal worden uitgevoerd ten behoeve van bij die maatregel aan te geven afnemers dan wel voor daarbij te omschrijven transport van elektriciteit.   
 5.  Het tarief, bedoeld in het eerste lid, dient mede ter dekking van de kosten die zijn verbonden aan verplichtingen die voor het tijdstip van intrekking van de Elektriciteitswet 1989 door de aangewezen vennootschap zijn aangegaan met betrekking tot de aanleg van een verbinding voor het transport van elektriciteit tussen Nederland en Noorwegen.   
-6.  Het tarief, bedoeld in het eerste lid, dient mede ter dekking van de kosten die zijn verbonden aan de uitvoering van de taak, bedoeld in artikel 16b, eerste lid.   
-7.  In afwijking van het tweede lid worden de kosten, bedoeld in het zesde lid, uitsluitend in rekening gebracht bij afnemers als bedoeld in artikel 95a, eerste lid.   
 
 ### Artikel  30  
 
@@ -964,13 +950,9 @@ c. de overige systeemdiensten.
 
 Het tarief voor de meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid, heeft betrekking op: 
 
-a. het gebruik van de ter beschikking gestelde meter;  
+a. het beheer van de meetinrichtingen;  
 
-b. de vaststelling van de van het net afgenomen en verbruikte elektriciteit;  
-
-c. de vaststelling van de op het net ingevoede elektriciteit;  
-
-d. het meedelen van de gegevens aan de desbetreffende afnemer en aan de netbeheerder op wiens net de afnemer is aangesloten.    
+b. het verschaffen van toegang tot meetgegevens als bedoeld in artikel 26ab, tweede en derde lid.    
 
 ### Artikel  31  
 
@@ -1161,10 +1143,6 @@ e. de gemaakte kosten voor investeringen, bedoeld in artikel 20d of  20e, tweed
 
 f.  dit onderdeel is nog niet in werking getreden.      
 2.  De geschatte kosten die een netbeheerder voor de uitvoering van de taken genoemd in artikel 16, eerste lid, bij een andere netbeheerder in rekening zal brengen, worden zonder toepassing van de formule, bedoeld in het eerste lid, onder d, toegevoegd aan de totale inkomsten uit de tarieven van deze andere netbeheerder. Het verschil tussen de geschatte en gerealiseerde kosten wordt betrokken bij de vaststelling van de totale inkomsten uit de tarieven van de andere netbeheerder in een volgend jaar.   
-
-### Artikel  41ba  
-
-Een netbeheerder kan, gelijktijdig met het voorstel, bedoeld in artikel 41b, eerste lid, een voorstel doen voor een tariefverhoging ter dekking van de kosten voor de uitvoering van de taak, bedoeld in artikel 16b, eerste lid.  
 
 ### Artikel  41c  
 
@@ -1691,10 +1669,6 @@ Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 ### Artikel  93a  
 
 De aandelen van de netbeheerder van het landelijk hoogspanningsnet berusten direct of indirect bij de staat.  
-
-### Artikel  94  
-
-Een meter die eigendom is van een producent of een leverancier en die voor het tijdstip van inwerkingtreding van artikel 10 is geplaatst bij een afnemer, wordt vanaf dat tijdstip beheerd door de netbeheerder die het transport van elektriciteit voor deze afnemer uitvoert.  
 
 ### §  1a  
 

@@ -59,8 +59,8 @@ c. het wegnemen van weefsel bij een overledene en het verrichten van sectie.
 
 ### Artikel  5  
 
-1.  Onze minister is bevoegd op de aanvrage tot inschrijving in een register te beslissen.   
-2.  Bij algemene maatregel van bestuur worden regels gesteld over het bedrag dat voor de behandeling van de aanvrage moet worden betaald alsmede over de wijze van indiening van een aanvrage en de daarbij te verstrekken gegevens of bescheiden, nodig voor de beoordeling van de aanvrage. Het in de eerste volzin bedoelde bedrag wordt zodanig bepaald dat daarmee de kosten van de behandeling van de aanvrage worden betaald.   
+1.  Onze minister is bevoegd op de aanvrage tot inschrijving in een register te beslissen. Onze Minister is voorts bevoegd te beslissen op de aanvraag van een verpleegkundige tot vermelding in het register van de bevoegdheid van de aanvrager de krachtens artikel 36, veertiende lid, aangewezen UR-geneesmiddelen voor te schrijven. De vermelding houdt mede in de aanduiding van de categorie van verpleegkundigen waartoe de aanvrager behoort. Onze Minister is bevoegd een vermelding als bedoeld in de vorige volzin door te halen indien de betrokken verpleegkundige niet meer voldoet aan de krachtens artikel 36, veertiende lid, onder d, gestelde eisen.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het bedrag dat voor de behandeling van een aanvraag als bedoeld in het eerste lid moet worden betaald alsmede over de wijze van indiening van een aanvrage en de daarbij te verstrekken gegevens of bescheiden, nodig voor de beoordeling van een aanvraag als bedoeld in het eerste lid. Het in de eerste volzin bedoelde bedrag wordt zodanig bepaald dat daarmee de kosten van de behandeling van een aanvraag als bedoeld in het eerste lid worden betaald.   
 3.  Bij algemene maatregel van bestuur kan een bedrag worden vastgesteld dat per in de maatregel aangewezen periode aan ingeschreven beroepsbeoefenaren in rekening wordt gebracht voor het ingeschreven zijn in het register. Het in de eerste volzin bedoelde bedrag wordt zodanig bepaald dat daarmee de kosten, verbonden aan het in het register ingeschreven zijn, worden gedekt.   
 
 ### Artikel  6  
@@ -159,7 +159,9 @@ b. of de inschrijving van een persoon in een register geschorst is;
 
 c. of ten aanzien van een ingeschrevene een maatregel, inhoudende een gedeeltelijke ontzegging van de bevoegdheid in het register ingeschreven staande het betrokken beroep uit te oefenen, van kracht is, met, zo dit het geval is, een omschrijving van de inhoud van de maatregel;  
 
-d. in bij algemene maatregel van bestuur aan te geven gevallen: of ten aanzien van een ingeschrevene voorwaarden zijn gesteld, met, zo dit het geval is, een omschrijving van die voorwaarden en, ingeval deze tot een proeftijd zijn beperkt, een vermelding van de duur daarvan.     
+d. in bij algemene maatregel van bestuur aan te geven gevallen: of ten aanzien van een ingeschrevene voorwaarden zijn gesteld, met, zo dit het geval is, een omschrijving van die voorwaarden en, ingeval deze tot een proeftijd zijn beperkt, een vermelding van de duur daarvan;  
+
+e. of ten aanzien van een verpleegkundige een vermelding als bedoeld in artikel 5, eerste lid, tweede volzin, van toepassing is.     
 3.  De verstrekking van mededelingen, bedoeld in het tweede lid, anders dan aan bestuursorganen en daaronder ressorterende diensten, geschiedt, voor zover zij schriftelijk plaats vindt, tegen betaling van een vergoeding volgens een bij algemene maatregel van bestuur vast te stellen tarief.   
 
 ### Artikel  13  
@@ -258,7 +260,7 @@ Om in het desbetreffende register als arts te kunnen worden ingeschreven, wordt 
 ### Artikel  19  
 
 1.  Tot het gebied van deskundigheid van de arts wordt gerekend het verrichten van handelingen op het gebied van de geneeskunst.   
-2.  In de gevallen waarin de arts op grond van [artikel 50, achtste of negende lid, van de Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) bevoegd is geneesmiddelen ter hand te stellen, behoort het ter hand stellen mede tot het gebied van zijn deskundigheid.   
+2.  In de gevallen waarin een huisarts dan wel een arts die in die hoedanigheid in dienst is van het Ministerie van Defensie, op grond van de [Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) bevoegd is geneesmiddelen ter hand te stellen, behoort het ter hand stellen mede tot het gebied van zijn deskundigheid.   
 
 ### §  2  
 
@@ -332,7 +334,7 @@ Om in het desbetreffende register als verloskundige te kunnen worden ingeschreve
 
 ### Artikel  31  
 
-Tot het gebied van deskundigheid van de verloskundige wordt gerekend het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen op het gebied van de verloskunst alsmede het verrichten van bij de maatregel te omschrijven andere handelingen, een en ander met inachtneming van de beperkingen, bij de maatregel te stellen.  
+Tot het gebied van deskundigheid van de verloskundige wordt gerekend het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen op het gebied van de verloskunst alsmede het verrichten van bij de maatregel te omschrijven andere handelingen, een en ander met inachtneming van de beperkingen, bij de maatregel te stellen. Bij of krachtens de maatregel kunnen geneesmiddelen worden aangewezen waarvan het voorschrijven tot het deskundigheidsgebied van de verloskundige behoort en kan apparatuur worden aangewezen waarvan het gebruik tot het deskundigheidsgebied van de verloskundige behoort.  
 
 ### §  8  
 
@@ -357,7 +359,7 @@ b. het ingevolge opdracht van een beroepsbeoefenaar op het gebied van de individ
 ### Artikel  34  
 
 1.  Bij algemene maatregel van bestuur kan ter bevordering van een goede uitoefening van individuele gezondheidszorg de opleiding tot een bij de maatregel aangewezen beroep worden geregeld of aangewezen.   
-2.  Indien toepassing wordt gegeven aan het eerste lid, wordt tevens bij de maatregel het gebied van deskundigheid omschreven van personen die de krachtens het eerste lid geregelde of aangewezen opleiding hebben voltooid.   
+2.  Indien toepassing wordt gegeven aan het eerste lid, wordt tevens bij de maatregel het gebied van deskundigheid omschreven van personen die de krachtens het eerste lid geregelde of aangewezen opleiding hebben voltooid. Bij of krachtens de maatregel kunnen geneesmiddelen worden aangewezen waarvan het toedienen tot het deskundigheidsgebied behoort van personen, die de krachtens het eerste lid geregelde of aangewezen opleiding hebben voltooid, en kan apparatuur worden aangewezen waarvan het gebruik tot het deskundigheidsgebied behoort van personen, die de krachtens het eerste lid geregelde of aangewezen opleiding hebben voltooid.   
 3.  Aan degenen die de krachtens het eerste lid geregelde of aangewezen opleiding tot dat beroep hebben voltooid, is het recht voorbehouden een bij algemene maatregel van bestuur aangegeven titel te voeren.   
 4.  Het is degene wie het recht tot het voeren van een krachtens het derde lid geregelde titel niet toekomt, verboden deze titel, een daarop gelijkende benaming dan wel een op die titel betrekking hebbend onderscheidingsteken, aangegeven met toepassing van artikel 93 of daarmee in hoofdzaak overeenstemmend, te voeren.   
 
@@ -367,9 +369,9 @@ b. het ingevolge opdracht van een beroepsbeoefenaar op het gebied van de individ
 
 ### Artikel  35  
 
-1.  Het is degene die niet behoort tot de personen die hun bevoegdheid tot het verrichten van een handeling ontlenen aan het bepaalde bij of krachtens de artikelen 36 en 37 verboden buiten noodzaak beroepsmatig die handeling te verrichten, tenzij: 
+1.  Het is degene die niet behoort tot de personen die hun bevoegdheid tot het verrichten van een handeling ontlenen aan het bepaalde bij of krachtens de artikelen 36 tot en met 37 verboden buiten noodzaak beroepsmatig die handeling te verrichten, tenzij: 
 
-a. zulks geschiedt ingevolge een opdracht van een persoon die zijn bevoegdheid ontleent aan het bepaalde bij of krachtens de artikelen 36 en 37 en  
+a. zulks geschiedt ingevolge een opdracht van een persoon die zijn bevoegdheid ontleent aan het bepaalde bij of krachtens de artikelen 36 tot en met 37 en  
 
 b. hij redelijkerwijs mag aannemen dat hij beschikt over de bekwaamheid die vereist is voor het behoorlijk uitvoeren van de opdracht en  
 
@@ -463,7 +465,7 @@ b. het moment dat de bedoelde wijzigingswet wordt ingetrokken of verworpen door 
 
 ### Artikel  38  
 
-Het is degene die zijn bevoegdheid tot het verrichten van een bij of krachtens de artikelen 36 en 37 omschreven handeling ontleent aan het bij of krachtens die artikelen bepaalde verboden aan een ander opdracht te geven tot het verrichten van die handeling, tenzij: 
+Het is degene die zijn bevoegdheid tot het verrichten van een bij of krachtens de artikelen 36 tot en met 37 omschreven handeling ontleent aan het bij of krachtens die artikelen bepaalde verboden aan een ander opdracht te geven tot het verrichten van die handeling, tenzij: 
 
 a. in gevallen waarin zulks redelijkerwijs nodig is aanwijzingen worden gegeven omtrent het verrichten van de handeling en toezicht door de opdrachtgever op het verrichten van de handeling en de mogelijkheid tot tussenkomst van een zodanig persoon voldoende zijn verzekerd en  
 
@@ -662,6 +664,7 @@ f. doorhaling van de inschrijving in het register.
 1.  In gevallen waarin een der in artikel 48, eerste lid, onder *e* en *f*, en derde lid, omschreven maatregelen is opgelegd, kan, zo bijzondere omstandigheden zulks wettigen, bij koninklijk besluit worden bepaald dat de betrokkene in de hem ontzegde bevoegdheid wordt hersteld, onderscheidenlijk dat hij, tenzij een buiten de opgelegde maatregel staande weigeringsgrond aanwezig blijkt, wederom in het register zal kunnen worden ingeschreven.   
 2.  In een besluit krachtens het eerste lid kunnen, al dan niet met een beperking tot een in dat besluit te bepalen proeftijd, voorwaarden worden gesteld, door de betrokkene, in het register ingeschreven staande, in acht te nemen. Indien blijkt dat de betrokkene zich schuldig heeft gemaakt aan niet-naleving van een gestelde voorwaarde, kan, onder intrekking van dat besluit, bij koninklijk besluit worden bepaald dat de opgelegde maatregel opnieuw van kracht wordt. In een besluit krachtens het eerste lid, dat aan betrokkene het recht verleent wederom in het register te worden ingeschreven, kan ook worden bepaald dat dit recht eerst zal ingaan zodra de betrokkene aan vooraf te vervullen bijzondere voorwaarden, in dat besluit omschreven, zal hebben voldaan.   
 3.  De voordracht tot een besluit krachtens het eerste of tweede lid, tweede volzin, wordt gedaan door Onze Ministers. Alvorens zodanige voordracht wordt gedaan, wint Onze Minister het advies in van het tuchtcollege dat de maatregel heeft opgelegd.   
+4.  Indien toepassing wordt gegeven aan het eerste lid, wordt de bevoegdheid van een verpleegkundige als bedoeld in artikel 5, eerste lid, tweede volzin, wederom in het register vermeld.   
 
 ### Artikel  51  
 

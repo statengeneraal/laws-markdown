@@ -238,8 +238,6 @@ Indien uit de voor het desbetreffende kalenderjaar op grond van [artikel 26 van
 1.  De landbouwer stelt vóór 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, voor het desbetreffende jaar een bemestingsplan op dat voldoet aan artikel 5 van de derogatiebeschikking.   
 2.  De landbouwer herziet het bemestingsplan uiterlijk zeven dagen nadat zich een wijziging in de landbouwpraktijk heeft voorgedaan, indien dat noodzakelijk is om de consistentie van het bemestingsplan te waarborgen.   
 3.  De landbouwer bewaart het bemestingsplan als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
-4.  In afwijking van het eerste lid stelt de landbouwer in 2011 een bemestingsplan op vóór 1 maart.   
-5.  Het vierde lid en dit lid vervallen met ingang van 1 januari 2012.   
 
 ### Artikel  27a  
 
@@ -247,8 +245,6 @@ Indien uit de voor het desbetreffende kalenderjaar op grond van [artikel 26 van
 2.  Het laboratorium stelt de fosfaattoestand van de bodem vast door middel van bemonstering en analyse van de bodem van de desbetreffende percelen overeenkomstig artikel 103a, eerste tot en met derde lid.   
 3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
 4.  Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 15 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.   
-5.  In afwijking van het eerste lid zijn in 2011 de daar bedoelde waarden ten hoogste vier jaren en één maand voorafgaand aan 1 maart vastgesteld en vastgelegd in een daar bedoeld analyserapport.   
-6.  Het vijfde lid en dit lid vervallen met ingang van 1 januari 2012.   
 
 ### Artikel  27b  
 
@@ -394,7 +390,7 @@ b. in de jaren 2006 tot en met 2009 50 procent van de hoeveelheid fosfaat in sch
 
 ### Artikel  35a  
 
-1.  In de periode van 1 januari 2009 tot en met 31 december 2011 vindt een onderzoek plaats naar de landbouwkundige en milieukundige effecten met betrekking tot de productie, de afzet en het gebruik van mineralenconcentraat.   
+1.  In de periode van 1 januari 2009 tot en met 31 december 2013 vindt een onderzoek plaats naar de landbouwkundige en milieukundige effecten met betrekking tot de productie, de afzet en het gebruik van mineralenconcentraat.   
 2.  Aan het onderzoek kan worden deelgenomen door ten hoogste tien producenten van mineralenconcentraat.   
 3.  Een producent van mineralenconcentraat die wil deelnemen aan het onderzoek kan zich hiertoe, onder vermelding van het door de Dienst Regelingen ter identificatie van het bedrijf of de onderneming van de producent verstrekte relatienummer, uiterlijk 15 april 2009 aanmelden bij de Dienst Regelingen.   
 4.  Bij de aanmelding overlegt de producent gegevens over: 
@@ -449,7 +445,7 @@ Indien meer dan tien producenten voldoen aan de voorwaarden, bedoeld in artikel 
 
 ### Artikel  35e  
 
-De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat betreft het gebruik van het mineralenconcentraat, voor de jaren 2009, 2010 en 2011 vrijgesteld van [artikel 7 van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), voor zover het gebruik van de totale hoeveelheid meststoffen op zijn bedrijf de stikstofgebruiksnorm, bedoeld in [artikel 8, onderdeel b, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), en de fosfaatgebruiksnorm, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), niet overschrijdt, en indien is voldaan aan elk van de voorwaarden, bedoeld in artikel 35f.  
+De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat betreft het gebruik van het mineralenconcentraat, voor de jaren 2009, 2010, 2011, 2012 en 2013 vrijgesteld van [artikel 7 van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), voor zover het gebruik van de totale hoeveelheid meststoffen op zijn bedrijf de stikstofgebruiksnorm, bedoeld in [artikel 8, onderdeel b, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), en de fosfaatgebruiksnorm, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), niet overschrijdt, en indien is voldaan aan elk van de voorwaarden, bedoeld in artikel 35f.  
 
 ### Artikel  35f  
 
@@ -464,7 +460,7 @@ De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat bet
 
 ### Artikel  35g  
 
-Deze paragraaf vervalt met ingang van 1 januari 2012.  
+Deze paragraaf vervalt met ingang van 1 januari 2014.  
 
 ### Hoofdstuk  4  
 
@@ -1463,7 +1459,7 @@ f. het laboratorium in het analyserapport de naam vermeldt van degene die de wer
 
 ### Hoofdstuk  10  
 
-####Overgang van een productierecht
+####Overgang van een productierecht en de verplaatsing van een varkens-, kippen- of kalkoenhouderij binnen een bedrijf
 
 ### §  1  
 
@@ -1479,6 +1475,23 @@ a. de door de Dienst Regelingen ter identificatie van het bedrijf verstrekte rel
 b. het aantal varkenseenheden of pluimvee-eenheden waarop de kennisgeving betrekking heeft;  
 
 c. het gedeelte van het productierecht, dat in het desbetreffende kalenderjaar op het bedrijf van de vervreemder niet wordt benut voor het houden van dieren.     
+3.  Voor de toepassing van [artikel 26, zevende lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) worden bij de kennisgeving van overgang tevens de volgende gegevens verstrekt: 
+
+a. een civielrechtelijke titel die het exclusieve gebruiksgenot verschaft van de installatie waarin de mestverwerking of mestvergisting plaatsvindt;  
+
+b. de aard en de capaciteit van de installatie waarin de mestverwerking of mestvergisting plaatsvindt;  
+
+c. de wijze en het moment waarop de dierlijke meststoffen worden vergist of verwerkt en de techniek van de bij de mestverwerking of mestvergisting gebruikte systemen;  
+
+d. een volledige beschrijving van het mestverwerkingsproces of mestvergistingsproces;  
+
+e. de hoeveelheid en de aard van de dierlijke meststoffen die zullen worden verwerkt;  
+
+f. een beschrijving van de eindproducten die bij de mestverwerking of mestvergisting ontstaan en het moment waarop de eindproducten worden afgezet;  
+
+g. gegevens of bescheiden op grond waarvan is verzekerd dat de producten, bedoeld in onderdeel f, worden afgezet buiten de markt voor dierlijke mest, en  
+
+h. een afschrift van de omgevingsvergunning voor de verwerkingsinstallatie of vergistingsinstallatie, die mede betrekking heeft op de bijbehorende voorzieningen.     
 
 ### Artikel  104a  
 
@@ -2254,88 +2267,88 @@ NEN 6970 : 2006 Koepelnorm voor bepaling van organische componenten in grond, wa
 
 Tabel 1. Overzicht te betalen tarief per klasse 
 
-| Klasse  | Oppervlakte  (in hectare)  | Tarief  |
+| Klasse  | Oppervlakte (in hectare)  | Tarief  |
 |:---|:---|:---|
-| 1  | 0  | 5  | € 13,63  |
-| 2  | 5,01  | 10  | € 40,88  |
-| 3  | 10,01  | 15  | € 68,13  |
-| 4  | 15,01  | 20  | € 95,38  |
-| 5  | 20,01  | 25  | € 122,63  |
-| 6  | 25,01  | 30  | € 149,88  |
-| 7  | 30,01  | 35  | € 177,13  |
-| 8  | 35,01  | 40  | € 204,38  |
-| 9  | 40,01  | 45  | € 231,63  |
-| 10  | 45,01  | 50  | € 258,88  |
-| 11  | 50,01  | 55  | € 286,13  |
-| 12  | 55,01  | 60  | € 313,38  |
-| 13  | 60,01  | 65  | € 340,63  |
-| 14  | 65,01  | 70  | € 367,88  |
-| 15  | 70,01  | 75  | € 395,13  |
-| 16  | 75,01  | 80  | € 422,38  |
-| 17  | 80,01  | 85  | € 449,63  |
-| 18  | 85,01  | 90  | € 476,88  |
-| 19  | 90,01  | 95  | € 504,13  |
-| 20  | 95,01  | 100  | € 531,38  |
-| 21  | 100,01  | 105  | € 558,63  |
-| 22  | 105,01  | 110  | € 585,88  |
-| 23  | 110,01  | 115  | € 613,13  |
-| 24  | 115,01  | 120  | € 640,38  |
-| 25  | 120,01  | 125  | € 667,63  |
-| 26  | 125,01  | 130  | € 694,88  |
-| 27  | 130,01  | 135  | € 722,13  |
-| 28  | 135,01  | 140  | € 749,38  |
-| 29  | 140,01  | 145  | € 776,63  |
-| 30  | 145,01  | 150  | € 803,88  |
-| 31  | 150,01  | 155  | € 831,13  |
-| 32  | 155,01  | 160  | € 858,38  |
-| 33  | 160,01  | 165  | € 885,63  |
-| 34  | 165,01  | 170  | € 912,88  |
-| 35  | 170,01  | 175  | € 940,13  |
-| 36  | 175,01  | 180  | € 967,38  |
-| 37  | 180,01  | 185  | € 994,63  |
-| 38  | 185,01  | 190  | € 1.021,88  |
-| 39  | 190,01  | 195  | € 1.049,13  |
-| 40  | 195,01  | 200  | € 1.076,38  |
-| 41  | 200,01  | 205  | € 1.103,63  |
-| 42  | 205,01  | 210  | € 1.130,88  |
-| 43  | 210,01  | 215  | € 1.158,13  |
-| 44  | 215,01  | 220  | € 1.185,38  |
-| 45  | 220,01  | 225  | € 1.212,63  |
-| 46  | 225,01  | 230  | € 1.239,88  |
-| 47  | 230,01  | 235  | € 1.267,13  |
-| 48  | 235,01  | 240  | € 1.294,38  |
-| 49  | 240,01  | 245  | € 1.321,63  |
-| 50  | 245,01  | 250  | € 1.348,88  |
-| 51  | 250,01  | 255  | € 1.376,13  |
-| 52  | 255,01  | 260  | € 1.403,38  |
-| 53  | 260,01  | 265  | € 1.430,63  |
-| 54  | 265,01  | 270  | € 1.457,88  |
-| 55  | 270,01  | 275  | € 1.485,13  |
-| 56  | 275,01  | 280  | € 1.512,38  |
-| 57  | 280,01  | 285  | € 1.539,63  |
-| 58  | 285,01  | 290  | € 1.566,88  |
-| 59  | 290,01  | 295  | € 1.594,13  |
-| 60  | 295,01  | 300  | € 1.621,38  |
-| 61  | 300,01  | 305  | € 1.648,63  |
-| 62  | 305,01  | 310  | € 1.675,88  |
-| 63  | 310,01  | 315  | € 1.703,13  |
-| 64  | 315,01  | 320  | € 1.730,38  |
-| 65  | 320,01  | 325  | € 1.757,63  |
-| 66  | 325,01  | 330  | € 1.784,88  |
-| 67  | 330,01  | 335  | € 1.812,13  |
-| 68  | 335,01  | 340  | € 1.839,38  |
-| 69  | 340,01  | 345  | € 1.866,63  |
-| 70  | 345,01  | 350  | € 1.893,88  |
-| 71  | 350,01  | 355  | € 1.921,13  |
-| 72  | 355,01  | 360  | € 1.948,38  |
-| 73  | 360,01  | 365  | € 1.975,63  |
-| 74  | 365,01  | 370  | € 2.002,88  |
-| 75  | 370,01  | 375  | € 2.030,13  |
-| 76  | 375,01  | 380  | € 2.057,38  |
-| 77  | 380,01  | 385  | € 2.084,63  |
-| 78  | 385,01  | 390  | € 2.111,88  |
-| 79  | 390,01  | 395  | € 2.139,13  |
-| 80  | 395,01  | 400  | € 2.166,38  |
+| 1  | 0  | 5  | € 13,83  |
+| 2  | 5,01  | 10  | € 41,48  |
+| 3  | 10,01  | 15  | € 69,13  |
+| 4  | 15,01  | 20  | € 96,78  |
+| 5  | 20,01  | 25  | € 124,43  |
+| 6  | 25,01  | 30  | € 152,08  |
+| 7  | 30,01  | 35  | € 179,73  |
+| 8  | 35,01  | 40  | € 207,38  |
+| 9  | 40,01  | 45  | € 235,03  |
+| 10  | 45,01  | 50  | € 262,68  |
+| 11  | 50,01  | 55  | € 290,33  |
+| 12  | 55,01  | 60  | € 317,98  |
+| 13  | 60,01  | 65  | € 345,63  |
+| 14  | 65,01  | 70  | € 373,28  |
+| 15  | 70,01  | 75  | € 400,93  |
+| 16  | 75,01  | 80  | € 428,58  |
+| 17  | 80,01  | 85  | € 456,23  |
+| 18  | 85,01  | 90  | € 483,88  |
+| 19  | 90,01  | 95  | € 511,53  |
+| 20  | 95,01  | 100  | € 539,18  |
+| 21  | 100,01  | 105  | € 566,83  |
+| 22  | 105,01  | 110  | € 594,48  |
+| 23  | 110,01  | 115  | € 622,13  |
+| 24  | 115,01  | 120  | € 649,78  |
+| 25  | 120,01  | 125  | € 677,43  |
+| 26  | 125,01  | 130  | € 705,08  |
+| 27  | 130,01  | 135  | € 732,73  |
+| 28  | 135,01  | 140  | € 760,38  |
+| 29  | 140,01  | 145  | € 788,03  |
+| 30  | 145,01  | 150  | € 815,68  |
+| 31  | 150,01  | 155  | € 843,33  |
+| 32  | 155,01  | 160  | € 870,98  |
+| 33  | 160,01  | 165  | € 898,63  |
+| 34  | 165,01  | 170  | € 926,28  |
+| 35  | 170,01  | 175  | € 953,93  |
+| 36  | 175,01  | 180  | € 981,58  |
+| 37  | 180,01  | 185  | € 1.009,23  |
+| 38  | 185,01  | 190  | € 1.036,88  |
+| 39  | 190,01  | 195  | € 1.064,53  |
+| 40  | 195,01  | 200  | € 1.092,18  |
+| 41  | 200,01  | 205  | € 1.119,83  |
+| 42  | 205,01  | 210  | € 1.147,48  |
+| 43  | 210,01  | 215  | € 1.175,13  |
+| 44  | 215,01  | 220  | € 1.202,78  |
+| 45  | 220,01  | 225  | € 1.230,43  |
+| 46  | 225,01  | 230  | € 1.258,08  |
+| 47  | 230,01  | 235  | € 1.285,73  |
+| 48  | 235,01  | 240  | € 1.313,38  |
+| 49  | 240,01  | 245  | € 1.341,03  |
+| 50  | 245,01  | 250  | € 1.368,68  |
+| 51  | 250,01  | 255  | € 1.396,33  |
+| 52  | 255,01  | 260  | € 1.423,98  |
+| 53  | 260,01  | 265  | € 1.451,63  |
+| 54  | 265,01  | 270  | € 1.479,28  |
+| 55  | 270,01  | 275  | € 1.506,93  |
+| 56  | 275,01  | 280  | € 1.534,58  |
+| 57  | 280,01  | 285  | € 1.562,23  |
+| 58  | 285,01  | 290  | € 1.589,88  |
+| 59  | 290,01  | 295  | € 1.617,53  |
+| 60  | 295,01  | 300  | € 1.645,18  |
+| 61  | 300,01  | 305  | € 1.672,83  |
+| 62  | 305,01  | 310  | € 1.700,48  |
+| 63  | 310,01  | 315  | € 1.728,13  |
+| 64  | 315,01  | 320  | € 1.755,78  |
+| 65  | 320,01  | 325  | € 1.783,43  |
+| 66  | 325,01  | 330  | € 1.811,08  |
+| 67  | 330,01  | 335  | € 1.838,73  |
+| 68  | 335,01  | 340  | € 1.866,38  |
+| 69  | 340,01  | 345  | € 1.894,03  |
+| 70  | 345,01  | 350  | € 1.921,68  |
+| 71  | 350,01  | 355  | € 1.949,33  |
+| 72  | 355,01  | 360  | € 1.976,98  |
+| 73  | 360,01  | 365  | € 2.004,63  |
+| 74  | 365,01  | 370  | € 2.032,28  |
+| 75  | 370,01  | 375  | € 2.059,93  |
+| 76  | 375,01  | 380  | € 2.087,58  |
+| 77  | 380,01  | 385  | € 2.115,23  |
+| 78  | 385,01  | 390  | € 2.142,88  |
+| 79  | 390,01  | 395  | € 2.170,53  |
+| 80  | 395,01  | 400  | € 2.198,18  |
 
 ### Bijlage  A  
 
@@ -2821,219 +2834,218 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 
 ####Diergebonden normen
 
-####Tabel I: Excretieforfaits en stikstofcorrectie, behorende bij de artikelen 36 , 38 , 42 , 43 , 73  en 96 
+### Tabel  I  
+
+####: Excretieforfaits en stikstofcorrectie, behorende bij de artikelen 36 , 38 , 42 , 43 , 73  en 96 
 
 De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans. In deze tabel zijn voor staldieren wel excretieforfaits opgenomen (schuingedrukt) als hulpmiddel om te bepalen of gebruik gemaakt kan worden van artikel 43.  
 
-|--- |--- |--- |--- | A  | B  | C  | D  | Diersoorten  | Per diersoort onderscheiden diercategorieën <sup>a</sup>  | Diernummer  | Stalsysteem  | Excretie per dier in de periode van 1 september tot 1 maart  | Excretie per dier per jaar  | Stikstof-correctie, kg/dier/jaar <sup>e</sup>  | m3 <sup>b</sup>  | kg stikstof <sup>c</sup>  | kg Fosfaat <sup>d</sup>  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|--- |--- |--- |--- | A  | B  | C  | D  | Diersoorten  | Per diersoort onderscheiden diercategorieën <sup>1</sup>  | Diernummer  | Stalsysteem  | Excretie per dier in de periode van 1 augustus tot 1 maart  | Excretie per dier per jaar  | Stikstof-correctie. kg/dier/jaar <sup>2</sup>  |--- |--- |--- |--- | m <sup>33</sup>  | kg stikstof <sup>4</sup>  | kg Fosfaat <sup>5</sup>  |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Bos Taurus (Rund)  | 10  | --- | --- | --- | --- | --- |
 | --- | Melk- en kalfkoeien (alle koeien die ten minste éénmaal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken)  | 100  | --- | Zie tabel II  | Zie tabel II  | Zie tabel II  | –  |
-| --- | Jongvee jonger dan 1 jaar (alle runderen jonger dan 1 jaar met uitzondering van startkalveren, witvleeskalveren, rosevleeskalveren en vleesstieren)  | 101  | drijfmest  | 3,6  | 35,1  | 9,7  | –  |
-| --- | vaste mest  | 1,8  | 29,9  | --- |
-| --- | Jongvee van 1 jaar en ouder (alle runderen van 1 jaar en ouder inclusief overig vleesvee, maar met uitzondering van roodvleesstieren en fokstieren)  | 102  | drijfmest  | 7,7  | 66,7  | 22,3  | –  |
-| --- | vaste mest  | 3,8  | 56,9  | –  |
-| --- | Witvleeskalveren van ca. 14 dagen tot ca 6 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van hoofdzakelijk melk en op een leeftijd van ca. 6 maanden worden geslacht)  | 112  | alle  | 1,4  | 8,3  | –  | 2,2  |
-| --- | Rosevleeskalveren van ca. 14 dagen tot ca. 8 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 117  | alle  | 2,1  | 18,4  | 8,3  | –  |
-| --- | Startkalveren voor rosevlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als rosevleeskalf worden gehouden)  | 115  | alle  | 1,0  | 8,8  | 2,6  | –  |
-| --- | Rosevleeskalveren van ca.3 maanden tot ca. 8 maanden (kalveren van ca. 3 maanden en ouder die hiervoor zijn gehouden als startkalf, gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 116  | alle  | 2,7  | 23,6  | 11,4  | –  |
-| --- | Startkalveren voor roodvlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als roodvleesstier gehouden worden)  | 121  | alle  | 1,0  | 8,8  | 2,6  | –  |
-| --- | Roodvleesstieren van ca. 3 maanden tot de slacht (stieren en ossen van 3 maanden en ouder die hiervoor zijn gehouden als startkalf en die voor de leeftijd van 24 maanden worden geslacht, inclusief vrouwelijke dieren die op deze wijze worden gemest)  | 122  | drijfmest  | 3,4  | 32,3  | 11,8  | –  |
-| --- | vaste mest  | 1,8  | 29,3  | --- |
-| --- | Weide- en zoogkoeien (koeien die ten minste éénmaal hebben gekalfd niet zijnde melk- en kalfkoeien)  | 120  | drijfmest  | 9,1  | 71,2  | 27,2  | –  |
-| --- | vaste mest  | 4,3  | 63,5  | –  |
-| --- | Fokstieren (stieren van 2 jaar en ouder)  | 104  | alle  | 6,2  | 72,9  | 25,2  | –  |
+| --- | Jongvee jonger dan 1 jaar (alle runderen jonger dan 1 jaar met uitzondering van startkalveren, witvleeskalveren, rosevleeskalveren en vleesstieren)  | 101  | drijfmest  vaste mest  | 4,2  2,1  | 35,1  29,9  | 9,7  | –  |
+| --- | Jongvee van 1 jaar en ouder (alle runderen van 1 jaar en ouder inclusief overig vleesvee, maar met uitzondering van roodvleesstieren en fokstieren)  | 102  | drijfmest  vaste mest  | 9,0  4,5  | 66,7  56,9  | 22,3  | –  –  |
+| --- | Witvleeskalveren van ca. 14 dagen tot ca 6 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van hoofdzakelijk melk en op een leeftijd van ca. 6 maanden worden geslacht)  | 112  | alle  | 1,6  | 8,3  | –  | 2,2  |
+| --- | Rosevleeskalveren van ca. 14 dagen tot ca. 8 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 117  | alle  | 2,5  | 18,4  | 8,3  | –  |
+| --- | Startkalveren voor rosevlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als rosevleeskalf worden gehouden)  | 115  | alle  | 1,2  | 8,8  | 2,6  | –  |
+| --- | Rosevleeskalveren van ca.3 maanden tot ca. 8 maanden (kalveren van ca. 3 maanden en ouder die hiervoor zijn gehouden als startkalf, gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 116  | alle  | 3,2  | 23,6  | 11,4  | –  |
+| --- | Startkalveren voor roodvlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als roodvleesstier gehouden worden)  | 121  | alle  | 1,2  | 8,8  | 2,6  | –  |
+| --- | Roodvleesstieren van ca. 3 maanden tot de slacht (stieren en ossen van 3 maanden en ouder die hiervoor zijn gehouden als startkalf en die voor de leeftijd van 24 maanden worden geslacht, inclusief vrouwelijke dieren die op deze wijze worden gemest)  | 122  | drijfmest  vaste mest  | 4,0  2,1  | 32,3  29,3  | 11,8  | –  |
+| --- | Weide- en zoogkoeien (koeien die ten minste éénmaal hebben gekalfd niet zijnde melk- en kalfkoeien)  | 120  | drijfmest  vaste mest  | 10,7  5,0  | 71,2  63,5  | 27,2  | –  –  |
+| --- | Fokstieren (stieren van 2 jaar en ouder)  | 104  | alle  | 7,3  | 72,9  | 25,2  | –  |
 | Ovis Aries (Schaap)  | 55  | --- | --- | --- | --- | --- |
-| --- | Fokschapen (alle vrouwelijke schapen die ten minste éénmaal hebben gelammerd, inclusief alle schapen tot een gewicht van ca. 25 kg voor zover gehouden op het bedrijf waar deze schapen geboren zijn)  | 550  | alle  | 0,41  | 10,2  | 3,6  | –  |
-| --- | Overige schapen  | 552  | alle  | – <sup>f</sup>  | 7,4  | 2,4  | –  |
+| --- | Fokschapen (alle vrouwelijke schapen die ten minste éénmaal hebben gelammerd, inclusief alle schapen tot een gewicht van ca. 25 kg voor zover gehouden op het bedrijf waar deze schapen geboren zijn)  | 550  | alle  | 0,48  | 10,2  | 3,6  | –  |
+| --- | Overige schapen  | 552  | alle  | – <sup>6</sup>  | 7,4  | 2,4  | –  |
 | Capra hircus (Geit)  | 60  | --- | --- | --- | --- | --- |
-| --- | Melkgeiten (alle vrouwelijke geiten die ten minste éénmaal hebben gelammerd, inclusief pas geboren lammeren en opfokgeiten tot ca. 60 dagen, en inclusief alle bokken van 7 maanden en ouder)  | 600  | alle  | 0,62  | 5,8  | 3,6  | –  |
-| --- | Vleesgeiten (geiten die gehouden worden om te worden geslacht op een gewicht van ca. 10 kg)  | 601  | alle  | 0,05  | 0,53  | 0,3  | –  |
-| --- | Overige geiten  | 602  | alle  | 0,35  | 3,1  | 2,3  | –  |
+| --- | Melkgeiten (alle vrouwelijke geiten die ten minste éénmaal hebben gelammerd, inclusief pas geboren lammeren en opfokgeiten tot ca. 60 dagen, en inclusief alle bokken van 7 maanden en ouder)  | 600  | alle  | 0,73  | 5,8  | 3,6  | –  |
+| --- | Vleesgeiten (geiten die gehouden worden om te worden geslacht op een gewicht van ca. 10 kg)  | 601  | alle  | 0,06  | 0,53  | 0,3  | –  |
+| --- | Overige geiten  | 602  | alle  | 0,41  | 3,1  | 2,3  | –  |
 | Equus caballus (Paard)  | 94  | --- | --- | --- | --- | --- |
-| --- | Pony’s van 6 maanden en ouder en een gewicht tot ca. 250 kg  | 941  | alle  | 2,7  | 17,4  | 7,5  | --- |
-| --- | Pony’s van 6 maanden en ouder en een gewicht van ca 250 tot ca. 450 kg  | 942  | alle  | 4,7  | 29,7  | 14,2  | –  |
-| --- | Paarden van 6 maanden en ouder en een gewicht van ca. 250 kg tot ca. 450 kg  | 943  | alle  | 5,5  | 36,6  | 17,5  | –  |
-| --- | Paarden van 6 maanden en ouder en een gewicht zwaarder dan ca. 450 kg  | 944  | alle  | 7,1  | 47,6  | 22,0  | –  |
+| --- | Pony’s van 6 maanden en ouder en een gewicht tot ca. 250 kg  | 941  | alle  | 3,2  | 17,4  | 7,5  | --- |
+| --- | Pony’s van 6 maanden en ouder en een gewicht van ca 250 tot ca. 450 kg  | 942  | alle  | 5,5  | 29,7  | 14,2  | –  |
+| --- | Paarden van 6 maanden en ouder en een gewicht van ca. 250 kg tot ca. 450 kg  | 943  | alle  | 6,4  | 36,6  | 17,5  | –  |
+| --- | Paarden van 6 maanden en ouder en een gewicht zwaarder dan ca. 450 kg  | 944  | alle  | 8,3  | 47,6  | 22  | –  |
 | Equus asinus (Ezel)  | 96  | --- | --- | --- | --- | --- |
-| --- | Alle ezels van 6 maanden en ouder  | --- | alle  | 2,7  | 19,3  | 8,0  | –  |
+| --- | Alle ezels van 6 maanden en ouder  | --- | alle  | 3,2  | 19,3  | 8  | –  |
 | Cervus elaphus (Middeneuropees edelhert)  | 97  | --- | --- | --- | --- | --- |
-| --- | Hinden gehouden voor de fokkerij inclusief kalveren jonger dan 6 maanden en bijbehorende bokken  | 971  | alle  | 0,65  | 24,2  | 6,7  | –  |
-| --- | Herten van 6 tot 12 maanden die worden gehouden om te worden geslacht  | 973  | Alle  | 0,30  | 11,5  | 2,8  | –  |
-| --- | Herten van 12 maanden en ouder die worden gehouden om te worden geslacht  | 974  | Alle  | 0,75  | 27,8  | 6,4  | --- |
+| --- | Hinden gehouden voor de fokkerij inclusief kalveren jonger dan 6 maanden en bijbehorende bokken  | 971  | alle  | 0,94  | 17,7  | 6,4  | –  |
+| --- | Herten van 6 tot 12 maanden die worden gehouden om te worden geslacht  | 973  | alle  | 0,44  | 8,1  | 2,7  | –  |
+| --- | Herten van 12 maanden en ouder die worden gehouden om te worden geslacht  | 974  | alle  | 1,09  | 20,3  | 6,1  | --- |
 | Cervus dama dama (Damhert)  | 98  | --- | --- | --- | --- | --- |
-| --- | Hinden gehouden voor de fokkerij inclusief kalveren jonger dan 3 maanden en bijbehorende bokken  | 981  | alle  | 0,21  | 11,2  | 3,2  | –  |
-| --- | Alle herten van 3 maanden en ouder die worden gehouden om te worden geslacht  | 982  | alle  | 0,13  | 9,2  | 2,3  | –  |
+| --- | Hinden gehouden voor de fokkerij inclusief kalveren jonger dan 3 maanden en bijbehorende bokken  | 981  | alle  | 1,24  | 11,2  | 3,2  | –  |
+| --- | Alle herten van 3 maanden en ouder die worden gehouden om te worden geslacht  | 982  | alle  | 0,77  | 9,2  | 2,3  | –  |
 | Bubalis Bubalis (Waterbuffel)  | 99  | --- | --- | --- | --- | --- |
-| --- | Waterbuffelkoeien (alle waterbuffelkoeien die ten minste éénmaal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook waterbuffelkoeien die droog gezet zijn of worden vetgemest en in de mesttijd worden gemolken)  | 991  | alle  | 9,4  | 72,7  | 28,4  | –  |
-| --- | Waterbuffeljongvee (alle jongvee van waterbuffels tot een leeftijd van 2 jaar)  | 992  | alle  | 3,5  | 27,2  | 9,6  | –  |
+| --- | Waterbuffelkoeien (alle waterbuffelkoeien die ten minste éénmaal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook waterbuffelkoeien die droog gezet zijn of worden vetgemest en in de mesttijd worden gemolken)  | 991  | alle  | 11,0  | 72,7  | 28,4  | –  |
+| --- | Waterbuffeljongvee (alle jongvee van waterbuffels tot een leeftijd van 2 jaar)  | 992  | alle  | 4,1  | 27,2  | 9,6  | –  |
 | Sus scrofa (Varken)  | 40  | --- | --- | --- | --- | --- |
-| --- | Fokzeugen inclusief biggen jonger dan 6 weken (ten minste éénmaal gedekte of geïnsemineerde zeugen, guste zeugen, gedekte maar nog niet drachtige zeugen, drachtige zeugen, zeugen met biggen, zeugen waarvan de biggen gespeend zijn en waarvan de biggen ca. 6 weken na hun geboorte aan een ander bedrijf worden geleverd)  | 400  | vaste mest, emissie-arm  | 0,88  | 16,7  | –  | 4,2  |
-| --- | vaste mest, overige  | 0,88  | 14,2  | 7,8  |
-| --- | drijfmest, emissie-arm  | 1,2  | 18,0  | 2,9  |
-| --- | drijfmest, overig  | 1,2  | 15,8  | 5,8  |
-| --- | Fokzeugen inclusief biggen tot een gewicht van 25 kg (ten minste éénmaal gedekte of geïnsemineerde zeugen, guste zeugen, gedekte maar nog niet drachtige zeugen, drachtige zeugen, zeugen met biggen, waarvan de biggen worden gehouden tot een gewicht van ca. 25 kg. Ook fokzeugen waarvan de biggen op het eigen bedrijf worden gehouden)  | 401  | vaste mest, emissie-arm  | 1,7  | 23,6  | –  | 5,9  |
-| --- | vaste mest, overige  | 1,7  | 19,7  | 10,9  |
-| --- | drijfmest, emissie-arm  | 2,1  | 25,4  | 4,0  |
-| --- | drijfmest, overig  | 2,1  | 21,6  | 8,1  |
-| --- | Opfokzeugen jonger dan 7 maanden (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij van ca. 25 kg tot ca. 7 maanden; ook aangeleverde opfokzeugen van ca. 25 kg die worden afgeleverd op ca. 7 maanden of iets ouder.; ook opfokzeugen afkomstig van het eigen bedrijf van exact 25 kg, die worden afgeleverd op ca. 7 maanden)  | 402  | vaste mest, emissie-arm  | 0,65  | 10,4  | –  | 2,5  |
-| --- | --- | vaste mest, overige  | 0,65  | 8,5  | 5,1  |
-| --- | --- | drijfmest, emissie-arm  | 0,85  | 11,2  | 1,7  |
-| --- | --- | drijfmest, overig  | 0,85  | 9,8  | 3,9  |
-| --- | Opfokzeugen van 7 maanden en ouder (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij van ca. 7 maanden tot de eerste dekking ook opfokzeugen die zijn aangeleverd op ca. 7 maanden of iets jonger, tot de eerste dekking)  | 403  | vaste mest, emissie-arm  | 0,87  | 13,2  | –  | 3,8  |
-| --- | --- | vaste mest, overige  | 0,87  | 11,4  | 6,8  |
-| --- | --- | drijfmest, emissie-arm  | 1,1  | 14,2  | 2,7  |
-| --- | --- | drijfmest, overig  | 1,1  | 13,0  | 5,2  |
-| --- | Opfokzeugen van een gewicht van 25 kg tot eerste dekking (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij van ca. 25 kg tot de eerste dekking. Opfokzeugen die zijn aangeleverd op ca. 25 kg, die niet op 7 maanden worden afgeleverd, maar worden aangehouden tot de eerste dekking; ook opfokzeugen afkomstig van het eigen bedrijf die worden aangehouden van exact 25 kg tot de eerste dekking)  | 404  | vaste mest, emissie-arm  | 0,69  | 11,0  | –  | 2,7  |
-| --- | --- | vaste mest, overige  | 0,69  | 9,0  | 5,4  |
-| --- | --- | drijfmest, emissie-arm  | 0,78  | 11,9  | 1,9  |
-| --- | --- | drijfmest, overig  | 0,78  | 10,3  | 4,1  |
-| --- | Opfokberen (jonge nog niet dekrijpe beren, die worden aangehouden voor de fokkerij, van ca. 25 kg tot ca. 7 maanden of iets ouder; ook beren afkomstig van het eigen bedrijf vanaf exact 25 kg)  | 405  | vaste mest, emissie-arm  | 0,63  | 10,0  | –  | 2,4  |
-| --- | --- | vaste mest, overige  | 0,63  | 8,2  | 4,9  |
-| --- | --- | drijfmest, emissie-arm  | 0,81  | 10,8  | 1,7  |
-| --- | --- | drijfmest, overig  | 0,81  | 9,3  | 3,8  |
-| --- | Dekberen (dekrijpe beren – ook zoekberen – van ca. 7 maanden en ouder; ook aangeleverde beren van iets jonger dan 7 maanden, beren afkomstig van het eigen bedrijf te rekenen vanaf exact 7 maanden)  | 406  | vaste mest, emissie-arm  | 1,1  | 17,9  | –  | 5,4  |
-| --- | --- | vaste mest, overige  | 1,1  | 14,9  | 8,2  |
-| --- | --- | drijfmest, emissie-arm  | 1,5  | 19,4  | 4,0  |
-| --- | --- | drijfmest, overig  | 1,5  | 17,4  | 6,0  |
-| --- | Biggen (gespeende biggen die op ca. 6 weken zijn aangeleverd en worden afgeleverd op ca. 25 kg; ook op 6 weken aangeleverde biggen die op het eigen bedrijf worden aangehouden voor de mesterij, tot exact 25 kg)  | 407  | vaste mest, emissie-arm  | 0,21  | 3,0  | –  | 0,7  |
-| --- | --- | vaste mest, overige  | 0,21  | 2,7  | 1,3  |
-| --- | --- | drijfmest, emissie-arm  | 0,26  | 3,2  | 0,5  |
-| --- | --- | drijfmest, overig  | 0,26  | 3,0  | 0,9  |
-| --- | Slachtzeugen (zeugen die niet meer gebruikt worden voor de fokkerij, maar worden afgemest)  | 410  | vaste mest, emissie-arm  | 1,4  | 20,8  | –  | 5,1  |
-| --- | --- | vaste mest, overige  | 1,4  | 17,9  | 11,4  |
-| --- | --- | drijfmest, emissie-arm  | 1,8  | 22,8  | 3,4  |
-| --- | --- | drijfmest, overig  | 1,8  | 21,1  | 8,8  |
-| --- | Vleesvarkens (varkens die worden gehouden voor de slacht vanaf ca. 25 kg of iets lichter tot ca. 110 kg. Ook biggen afkomstig van het eigen, gesloten bedrijf vanaf exact 25 kg)  | 411  | vaste mest, emissie-arm  | 0,61  | 9,4  | –  | 2,1  |
-| --- | --- | vaste mest, overige  | 0,61  | 8,0  | 4,6  |
-| --- | --- | drijfmest, emissie-arm  | 0,64  | 9,9  | 1,4  |
-| --- | --- | drijfmest, overig  | 0,64  | 8,9  | 3,6  |
+| --- | Fokzeugen inclusief biggen jonger dan 6 weken (ten minste éénmaal gedekte of geïnsemineerde zeugen, guste zeugen, gedekte maar nog niet drachtige zeugen,  | 400  | vaste mest, emissie-arm  | 1,03  | 16,7  | –  | 4,2  |
+| --- | vaste mest, overige  | 1,03  | 14,2  | 7,8  |
+| --- | drijfmest, emissie-arm  | 1,4  | 18  | --- | 2,9  |
+| --- | --- | drijfmest, overig  | 1,4  | 15,8  | --- | 5,8  |
+| --- | drachtige zeugen, zeugen met biggen, zeugen waarvan de biggen gespeend zijn en waarvan de biggen ca. 6 weken na hun geboorte aan een ander bedrijf worden geleverd)  | --- | --- | --- | --- | --- | --- |
+| --- | Fokzeugen inclusief biggen tot een gewicht van 25 kg (ten minste éénmaal gedekte of geïnsemineerde zeugen, guste zeugen, gedekte maar nog niet drachtige zeugen,  | 401  | vaste mest, emissie-arm  | 2,0  | 23,6  | –  | 5,9  |
+| --- | vaste mest, overige  | 2,0  | 19,7  | 10,9  |
+| --- | --- | drijfmest, emissie-arm  | 2,5  | 25,4  | --- | 4  |
+| --- | --- | drijfmest, overig  | 2,5  | 21,6  | --- | 8,1  |
+| --- | drachtige zeugen, zeugen met biggen, waarvan de biggen worden gehouden tot een gewicht van ca. 25 kg. Ook fokzeugen waarvan de biggen op het eigen bedrijf worden gehouden)  | --- | --- | --- | --- | --- | --- |
+| --- | Opfokzeugen jonger dan 7 maanden (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij van ca. 25 kg tot ca. 7 maanden; ook aangeleverde  | 402  | vaste mest, emissie-arm  | 0,76  | 10,4  | –  | 2,5  |
+| --- | --- | vaste mest, overige  | 0,76  | 8,5  | 5,1  |
+| --- | --- | drijfmest, emissie-arm  | 1,00  | 11,2  | 1,7  |
+| --- | --- | drijfmest, overig  | 1,00  | 9,8  | --- | 3,9  |
+| --- | opfokzeugen van ca. 25 kg die worden afgeleverd op ca. 7 maanden of iets ouder.; ook opfokzeugen afkomstig van het eigen bedrijf van exact 25 kg, die worden afgeleverd op ca. 7 maanden)  | --- | --- | --- | --- | --- | --- |
+| --- | Opfokzeugen van 7 maanden en ouder (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij van ca. 7 maanden tot de eerste dekking ook  | 403  | vaste mest, emissie-arm  | 1,02  | 13,2  | –  | 3,8  |
+| --- | --- | vaste mest, overige  | 1,02  | 11,4  | 6,8  |
+| --- | --- | drijfmest, emissie-arm  | 1,3  | 14,2  | 2,7  |
+| --- | --- | drijfmest, overig  | 1,3  | 13  | --- | 5,2  |
+| --- | opfokzeugen die zijn aangeleverd op ca. 7 maanden of iets jonger, tot de eerste dekking)  | --- | --- | --- | --- | --- | --- |
+| --- | Opfokzeugen van een gewicht van 25 kg tot eerste dekking (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij van ca. 25 kg tot de eerste dekking.  | 404  | vaste mest, emissie-arm  | 0,81  | 11  | –  | 2,7  |
+| --- | --- | vaste mest, overige  | 0,81  | 9  | 5,4  |
+| --- | --- | drijfmest, emissie-arm  | 0,91  | 11,9  | 1,9  |
+| --- | --- | drijfmest, overig  | 0,91  | 10,3  | --- | 4,1  |
+| --- | Opfokzeugen die zijn aangeleverd op ca. 25 kg, die niet op 7 maanden worden afgeleverd, maar worden aangehouden tot de eerste dekking; ook opfokzeugen afkomstig van het eigen bedrijf die worden aangehouden van exact 25 kg tot de eerste dekking)  | --- | --- | --- | --- | --- | --- |
+| --- | Opfokberen (jonge nog niet dekrijpe beren, die worden aangehouden voor de fokkerij, van ca. 25 kg tot ca. 7 maanden of iets ouder; ook beren afkomstig van het eigen bedrijf vanaf exact 25 kg)  | 405  | vaste mest, emissie-arm  | 0,74  | 10  | –  | 2,4  |
+| --- | --- | vaste mest, overige  | 0,74  | 8,2  | 4,9  |
+| --- | --- | drijfmest, emissie-arm  | 0,95  | 10,8  | 1,7  |
+| --- | --- | drijfmest, overig  | 0,95  | 9,3  | --- | 3,8  |
+| --- | Dekberen (dekrijpe beren – ook zoekberen – van ca. 7 maanden en ouder; ook aangeleverde beren van iets jonger dan 7 maanden, beren afkomstig van het eigen bedrijf te  | 406  | vaste mest, emissie-arm  | 1,3  | 17,9  | –  | 5,4  |
+| --- | --- | vaste mest, overige  | 1,3  | 14,9  | 8,2  |
+| --- | --- | drijfmest, emissie-arm  | 1,8  | 19,4  | 4  |
+| --- | --- | drijfmest, overig  | 1,8  | 17,4  | --- | 6  |
+| --- | rekenen vanaf exact 7 maanden)  | --- | --- | --- | --- | --- | --- |
+| --- | Biggen (gespeende biggen die op ca. 6 weken zijn aangeleverd en worden afgeleverd op ca. 25 kg; ook op 6 weken aangeleverde biggen die op het eigen bedrijf worden  | 407  | vaste mest, emissie-arm  | 0,25  | 3  | –  | 0,7  |
+| --- | --- | vaste mest, overige  | 0,25  | 2,7  | 1,3  |
+| --- | --- | drijfmest, emissie-arm  | 0,30  | 3,2  | 0,5  |
+| --- | --- | drijfmest, overig  | 0,30  | 3  | --- | 0,9  |
+| --- | aangehouden voor de mesterij, tot exact 25 kg)  | --- | --- | --- | --- | --- | --- |
+| --- | Slachtzeugen (zeugen die niet meer gebruikt worden voor de fokkerij, maar worden afgemest)  | 410  | vaste mest, emissie-arm  | 1,6  | 20,8  | –  | 5,1  |
+| --- | --- | vaste mest, overige  | 1,6  | 17,9  | 11,4  |
+| --- | --- | drijfmest, emissie-arm  | 2,1  | 22,8  | 3,4  |
+| --- | --- | drijfmest, overig  | 2,1  | 21,1  | 8,8  |
+| --- | Vleesvarkens (varkens die worden gehouden voor de slacht vanaf ca. 25 kg of iets lichter tot ca. 110 kg. Ook biggen afkomstig van het eigen, gesloten bedrijf vanaf exact 25 kg)  | 411  | vaste mest, emissie-arm  | 0,71  | 9,4  | –  | 2,1  |
+| --- | --- | vaste mest, overige  | 0,71  | 8  | 4,6  |
+| --- | --- | drijfmest, emissie-arm  | 0,75  | 9,9  | 1,4  |
+| --- | --- | drijfmest, overig  | 0,75  | 8,9  | 3,6  |
 | Gallus gallus (Kip)  | 30  | --- | --- | --- | --- | --- |
-| --- | Opfokhennen en -hanen van legrassen (opfokhennen en -hanen voor de vervanging van hennen en hanen van legrassen, inclusief (groot)ouderdieren, die worden afgeleverd op ca. 18 weken. Dieren die op het eigen bedrijf worden aangehouden, worden tot exact 18 weken meegeteld)  | 300  | drijfmest  | 0,010  | 0,21  | –  | 0,083  |
-| --- | --- | Deeppitstal  | 0,003  | 0,09  | 0,211  |
-| --- | --- | alle mestbanden  | 0,006  | 0,22  | 0,073  |
-| --- | --- | volièrestal  | 0,008  | 0,22  | --- | 0,113  |
-| --- | --- | Overig  | 0,006  | 0,16  | --- | 0,178  |
-| --- | Hennen en hanen van legrassen (hennen en hanen – inclusief (groot)ouderdieren – die zijn aangeleverd op ca. 18 weken. Ook van het eigen bedrijf afkomstige hennen en hanen – inclusief (groot)ouderdieren –, vanaf exact 18 weken)  | 301  | drijfmest  | 0,021  | 0,43  | –  | 0,184  |
-| --- | --- | deeppitstal  | 0,005  | 0,16  | 0,480  |
-| --- | --- | alle mestbanden  | 0,012  | 0,46  | 0,151  |
-| --- | --- | volièrestal  | 0,015  | 0,42  | --- | 0,340  |
-| --- | --- | Overig  | 0,013  | 0,37  | --- | 0,400  |
-| --- | Opfokhennen en -hanen van vleesrassen (opfokhennen en -hanen ter vervanging van (groot)ouderdieren van vleesrassen, die worden afgeleverd op ca. 19 weken. Dieren die op het eigen bedrijf worden aangehouden worden tot exact 19 weken meegeteld)  | 310  | Alle  | 0,003  | 0,09  | –  | 0,230  |
-| --- | Ouderdieren van vleesrassen (ouderdieren – inclusief grootouderdieren – van vleesrassen, die zijn aangeleverd op ca. 19 weken. Ook van het eigen bedrijf afkomstige (ouder)dieren, vanaf exact 19 weken)  | 311  | emissie-arm  | 0,015  | 0,63  | –  | 0,410  |
-| --- | --- | overig  | 0,015  | 0,42  | 0,630  |
-| --- | Vleeskuikens (kippen die worden gehouden voor de slacht)  | 312  | emissie-arm  | 0,009  | 0,48  | –  | 0,049  |
-| --- | --- | overig  | 0,009  | 0,36  | 0,150  |
+| --- | Opfokhennen en -hanen van legrassen (opfokhennen en -hanen voor de vervanging van hennen en hanen van  | 300  | drijfmest  | 0,012  | 0,21  | –  | 0,083  |
+| --- | --- | deeppitstal  | 0,004  | 0,09  | 0,211  |
+| --- | --- | alle mestbanden  | 0,007  | 0,22  | --- | 0,073  |
+| --- | --- | volièrestal  | 0,009  | 0,22  | --- | 0,113  |
+| --- | --- | overig  | 0,007  | 0,16  | --- | 0,178  |
+| --- | legrassen, inclusief (groot)ouderdieren, die worden afgeleverd op ca. 18 weken. Dieren die op het eigen bedrijf worden aangehouden, worden tot exact 18 weken meegeteld)  | --- | --- | --- | --- | --- | --- |
+| --- | Hennen en hanen van legrassen (hennen en hanen – inclusief (groot)ouderdieren – die zijn aangeleverd op ca. 18 weken. Ook van  | 301  | drijfmest  | 0,025  | 0,43  | –  | 0,184  |
+| --- | --- | deeppitstal  | 0,006  | 0,16  | 0,48  |
+| --- | --- | alle mestbanden  | 0,014  | 0,46  | 0,151  |
+| --- | --- | volièrestal  | 0,018  | 0,42  | --- | 0,34  |
+| --- | --- | overig  | 0,015  | 0,37  | --- | 0,4  |
+| --- | het eigen bedrijf afkomstige hennen en hanen – inclusief (groot)ouderdieren –, vanaf exact 18 weken)  | --- | --- | --- | --- | --- | --- |
+| --- | Opfokhennen en -hanen van vleesrassen (opfokhennen en -hanen ter vervanging van (groot)ouderdieren van vleesrassen, die worden afgeleverd op ca. 19 weken. Dieren die op het eigen bedrijf worden aangehouden worden tot exact 19 weken meegeteld)  | 310  | alle  | 0,004  | 0,09  | –  | 0,23  |
+| --- | Ouderdieren van vleesrassen  | 311  | emissie-arm  | 0,018  | 0,63  | –  | 0,41  |
+| --- | --- | overig  | 0,018  | 0,42  | --- | 0,63  |
+| --- | (ouderdieren – inclusief grootouderdieren – van vleesrassen, die zijn aangeleverd op ca. 19 weken. Ook van het eigen bedrijf afkomstige (ouder)dieren, vanaf exact 19 weken)  | --- | --- | --- | --- | --- | --- |
+| --- | Vleeskuikens (kippen die worden gehouden voor de slacht)  | 312  | emissie-arm  overig  | 0,011  0,011  | 0,48  0,36  | –  | 0,049  0,15  |
 | Meleagris gallopavo (Kalkoen)  | 20  | --- | --- | --- | --- | --- |
-| --- | Jonge kalkoenen (hennen en hanen voor de productie van broedeieren van ca. 0 weken tot ca. 6 weken, gehouden op een quarantainebedrijf)  | 200  | Alle  | 0,009  | 0,22  | –  | 0,2  |
-| --- | Opfokkalkoenen (hennen en hanen voor de productie van broedeieren van ca. 6 weken tot ca. 30 weken, gehouden op een opfokbedrijf)  | 201  | Alle  | 0,061  | 1,50  | –  | 0,8  |
-| --- | Kalkoenen ouderdieren(hennen en hanen voor de productie van broedeieren van ca. 30 weken en ouder)  | 202  | Alle  | 0,062  | 1,52  | –  | 0,8  |
-| --- | Vleeskalkoenen (kalkoenen die worden gehouden voor de slacht)  | 210  | Alle  | 0,041  | 1,01  | –  | 0,8  |
+| --- | Jonge kalkoenen (hennen en hanen voor de productie van broedeieren van ca. 0 weken tot ca. 6 weken, gehouden op een quarantainebedrijf)  | 200  | alle  | 0,011  | 0,22  | –  | 0,2  |
+| --- | Opfokkalkoenen (hennen en hanen voor de productie van broedeieren van ca. 6 weken tot ca. 30 weken, gehouden op een opfokbedrijf)  | 201  | alle  | 0,071  | 1,5  | –  | 0,8  |
+| --- | Kalkoenen ouderdieren(hennen en hanen voor de productie van broedeieren van ca. 30 weken en ouder)  | 202  | alle  | 0,073  | 1,52  | –  | 0,8  |
+| --- | Vleeskalkoenen (kalkoenen die worden gehouden voor de slacht)  | 210  | alle  | 0,043  | 1,01  | –  | 0,8  |
 | Mustela vison (Nerts)  | 75  | --- | --- | --- | --- | --- |
-| --- | Fokteven, (alle vrouwelijke dieren, die tenminste eenmaal zijn gedekt, met bijbehorende reuen en jongen, en nertsen voor pelsproduktie)  | --- | vaste mest  | 0,033  | 1,56  | –  | 1,1  |
-| --- | --- | drijfmest  | 0,064  | 1,56  |
-| Vulpes vulpes (Vos)  | 70  | --- | --- | --- | --- | --- |
-| --- | Fokmoeren, (alle vrouwelijke dieren, die tenminste eenmaal zijn gedekt, met bijbehorende rekels en jongen, en vossen voor pelsproduktie)  | --- | alle  | 0,039  | 2,04  | –  | 2,5  |
+| --- | Fokteven, (alle vrouwelijke dieren, die tenminste eenmaal zijn gedekt, met bijbehorende reuen en jongen, en nertsen voor pelsproduktie)  | --- | vaste mest  drijfmest  | 0,039  0,075  | 1,56  1,56  | –  | 1,1  |
 | Oryctolagus cuniculus (Konijn)  | 90  | --- | --- | --- | --- | --- |
-| --- | Voedsters (alle vrouwelijke dieren die ten minste eenmaal gedekt zijn, met bijbehorende rammen, zogende jongen en opfokkonijnen)  | 900  | vaste mest  | 0,108  | 1,53  | –  | 1,23  |
-| --- | --- | drijfmest  | 0,150  |
-| --- | Vleeskonijnen (alle jonge konijnen die na het spenen zijn bestemd voor de vleesproductie)  | 901  | vaste mest  | 0,021  | 0,50  | –  | 0,24  |
-| --- | --- | drijfmest  | 0,049  |
+| --- | Voedsters (alle vrouwelijke dieren die ten minste eenmaal gedekt zijn, met bijbehorende rammen, zogende jongen en opfokkonijnen)  | 900  | vaste mest  drijfmest  | 0,126  0,176  | 1,53  | –  | 1,23  |
+| --- | Vleeskonijnen (alle jonge konijnen die na het spenen zijn bestemd voor de vleesproductie)  | 901  | vaste mest  drijfmest  | 0,025  0,057  | 0,5  | -  | 0,24  |
 | Rattus norvegicus (Bruine rat)  | 15  | --- | --- | --- | --- | --- |
-| --- | Ratten (alle geslachtsrijpe vrouwelijke ratten)  | --- | alle  | 0,020  | 0,28  | –  | 50% <sup>g</sup>  |
+| --- | Ratten (alle geslachtsrijpe vrouwelijke ratten)  | --- | alle  | 0,023  | 0,28  | –  | 50% <sup>7</sup>  |
 | Mus musculus (Tamme muis)  | 16  | --- | --- | --- | --- | --- |
-| --- | Muizen (alle geslachtsrijpe vrouwelijke muizen)  | --- | alle  | 0,0023  | 0,033  | –  | 50% <sup>g</sup>  |
+| --- | Muizen (alle geslachtsrijpe vrouwelijke muizen)  | --- | alle  | 0,003  | 0,033  | –  | 50% <sup>7</sup>  |
 | Cavia porcellus (Cavia)  | 17  | --- | --- | --- | --- | --- |
-| --- | Cavia’s (alle geslachtsrijpe vrouwelijke cavia’s)  | --- | alle  | 0,046  | 0,65  | –  | 50% <sup>g</sup>  |
+| --- | Cavia’s (alle geslachtsrijpe vrouwelijke cavia’s)  | --- | alle  | 0,054  | 0,65  | –  | 50% <sup>7</sup>  |
 | Mesocricetus auratus (Goudhamster)  | 18  | --- | --- | --- | --- | --- |
-| --- | Goudhamsters (alle geslachtsrijpe vrouwelijke goudhamsters)  | --- | alle  | 0,013  | 0,18  | –  | 50% <sup>g</sup>  |
+| --- | Goudhamsters (alle geslachtsrijpe vrouwelijke goudhamsters)  | --- | alle  | 0,015  | 0,18  | –  | 50% <sup>7</sup>  |
 | Meriones unguiculatus (Gerbil)  | 19  | --- | --- | --- | --- | --- |
-| --- | Gerbils (alle geslachtsrijpe vrouwelijke gerbils)  | --- | alle  | 0,004  | 0,057  | –  | 50% <sup>g</sup>  |
-| Anas plathyrhynchos (Peking eend)  | 80  | --- | --- | --- | --- | --- |
-| --- | Ouderdieren van vleeseenden (opfok- periode tot 18 weken)  | 802  | Vaste mest  | 0,032  | 0,531  | –  | 0,588  |
-| --- | --- | Drijfmest  | 0,094  | 0,853  | -  | 0,266  |
-| --- | Ouderdieren van vleeseenden (legperiode vanaf 18 weken)  | 803  | Vaste mest  | 0,038  | 0,627  | -  | 0,695  |
-| Drijfmest  | 0,111  | 1,007  | -  | 0,315  |
-| --- | Vleeseenden (eenden die worden gehouden voor de slacht)  | 801  | Vaste mest  | 0,024  | 0,399  | -  | 0,405  |
-| --- | --- | Drijfmest  | 0,069  | 0,630  | -  | 0,174  |
+| --- | Gerbils (alle geslachtsrijpe vrouwelijke gerbils)  | --- | alle  | 0,005  | 0,057  | –  | 50% <sup>7</sup>  |
+| Anas plathyrhynchos (Peking eend)  | 81  | --- | --- | --- | --- | --- |
+| --- | Ouderdieren van vleeseenden (opfokperiode tot 18 weken)  | 802  | vaste mest  drijfmest  | 0,037  0,110  | 0,531  0,853  | –  –  | 0,588  0,266  |
+| --- | Ouderdieren van vleeseenden (legperiode vanaf 18 weken)  | 803  | vaste mest  drijfmest  | 0,045  0,130  | 0,627  1,007  | –  –  | 0,695  0,315  |
+| --- | Vleeseenden (eenden die worden gehouden voor de slacht)  | 801  | vaste mest  drijfmest  | 0,028  0,081  | 0,399  0,630  | –  –  | 0,405  0,174  |
 | Struthio camelus (Struisvogel)  | 25  | --- | --- | --- | --- | --- |
-| --- | Struisvogels (alle geslachtsrijpe vrouwelijke struisvogels)  | --- | alle  | 0,480  | 12,3  | –  | 50% <sup>g</sup>  |
+| --- | Struisvogels (alle geslachtsrijpe vrouwelijke struisvogels)  | --- | alle  | 0,56  | 12,3  | –  | 50% <sup>7</sup>  |
 | Dromaius novaehollandiae (Emoe)  | 26  | --- | --- | --- | --- | --- |
-| --- | Emoe’s (alle geslachtsrijpe vrouwelijke emoe’s)  | --- | alle  | 0,281  | 7,8  | –  | 50% <sup>g</sup>  |
+| --- | Emoe’s (alle geslachtsrijpe vrouwelijke emoe’s)  | --- | alle  | 0,329  | 7,8  | –  | 50% <sup>7</sup>  |
 | Rhea Americana (Nandoe)  | 27  | --- | --- | --- | --- | --- |
-| --- | Nandoe’s (alle geslachtsrijpe vrouwelijke nandoe’s)  | --- | alle  | 0,197  | 5,5  | –  | 50% <sup>g</sup>  |
+| --- | Nandoe’s (alle geslachtsrijpe vrouwelijke nandoe’s)  | --- | alle  | 0,231  | 5,5  | –  | 50% <sup>7</sup>  |
 | Anser cygnoides (Knobbelgans)  | 28  | --- | --- | --- | --- | --- |
-| --- | Knobbelganzen (alle geslachtsrijpe vrouwelijke knobbelganzen)  | --- | alle  | 0,073  | 3,2  | –  | 50% <sup>g</sup>  |
+| --- | Knobbelganzen (alle geslachtsrijpe vrouwelijke knobbelganzen)  | --- | alle  | 0,086  | 3,2  | –  | 50% <sup>7</sup>  |
 | Anser anser (Grauwe gans)  | 29  | --- | --- | --- | --- | --- |
-| --- | Grauwe ganzen (alle geslachtsrijpe vrouwelijke grauwe ganzen)  | --- | alle  | 0,073  | 3,2  | –  | 50% <sup>g</sup>  |
+| --- | Grauwe ganzen (alle geslachtsrijpe vrouwelijke grauwe ganzen)  | --- | alle  | 0,086  | 3,2  | –  | 50% <sup>7</sup>  |
 | Numida meleagris (Helmparelhoen)  | 95  | --- | --- | --- | --- | --- |
-| --- | Parelhoenders (alle geslachtsrijpe vrouwelijke parelhoenders)  | --- | alle  | 0,008  | 0,30  | –  | 50% <sup>g</sup>  |
+| --- | Parelhoenders (alle geslachtsrijpe vrouwelijke parelhoenders)  | --- | alle  | 0,009  | 0,3  | –  | 50% <sup>7</sup>  |
 | Phasianus colchicus (Fazant)  | 35  | --- | --- | --- | --- | --- |
-| --- | Fazanten (alle geslachtsrijpe vrouwelijke fazanten)  | --- | alle  | 0,005  | 0,12  | –  | 50% <sup>g</sup>  |
+| --- | Fazanten (alle geslachtsrijpe vrouwelijke fazanten)  | --- | alle  | 0,006  | 0,12  | –  | 50% <sup>7</sup>  |
 | Perdix perdix (Patrijs)  | 36  | --- | --- | --- | --- | --- |
-| --- | Patrijzen (alle geslachtsrijpe vrouwelijke patrijzen)  | --- | alle  | 0,002  | 0,11  | –  | 50% <sup>g</sup>  |
+| --- | Patrijzen (alle geslachtsrijpe vrouwelijke patrijzen)  | --- | alle  | 0,002  | 0,11  | –  | 50% <sup>7</sup>  |
 | Columbia livia (Vleesduif)  | 37  | --- | --- | --- | --- | --- |
-| --- | Duiven (alle geslachtsrijpe vrouwelijke duiven)  | --- | alle  | 0,0008  | 0,05  | –  | 50% <sup>g</sup>  |
+| --- | Duiven (alle geslachtsrijpe vrouwelijke duiven)  | --- | alle  | 0,0009  | 0,05  | –  | 50% <sup>7</sup>  |
 
-<sup>a</sup> Als de omschrijving van de categorieën niet aansluit bij de voorkomende situatie dienen de forfaits gehanteerd te worden van de categorie die het best aansluit bij de voorkomende situatie <sup>b</sup> Behorende bij artikel 36 van de Uitvoeringsregeling Meststoffenwet. <sup>c</sup> Behorende bij de artikelen 43 en 73 van de Uitvoeringsregeling Meststoffenwet. Mbt artikel 73 alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren. <sup>d</sup> Behorende bij artikel 73 van de Uitvoeringsregeling Meststoffenwet. Alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren. <sup>e</sup> Behorende bij artikel 96 van de Uitvoeringsregeling Meststoffenwet. <sup>f</sup> De mestproductie van deze dieren is reeds verrekend in het forfait van de fokschapen. <sup>g</sup> Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.  
+<sup>1</sup> Als de omschrijving van de categorieën niet aansluit bij de voorkomende situatie dienen de forfaits gehanteerd te worden van de categorie die het best aansluit bij de voorkomende situatie. <sup>2</sup> Behorende bij artikel 96 van de Uitvoeringsregeling Meststoffenwet. <sup>3</sup> Behorende bij artikel 36 van de Uitvoeringsregeling Meststoffenwet. <sup>4</sup> Behorende bij de artikelen 43 en 73 van de Uitvoeringsregeling Meststoffenwet. Met betrekking tot artikel 73 alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren. <sup>5</sup> Behorende bij artikel 73 van de Uitvoeringsregeling Meststoffenwet. Alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren. <sup>6</sup> De mestproductie van deze dieren is reeds verrekend in het forfait van de fokschapen. <sup>7</sup> Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend.  
 
 ####Tabel II A. Excretieforfaits per melkkoe drijfmest, behorende bij de artikelen 36  en 74 
 
-Stikstofexcretie en fosfaatexcretie per koe (in kg stikstof resp. kg fosfaat per jaar) en in m <sup>3</sup> per zes maanden  
+Stikstofexcretie en fosfaatexcretie per koe (in kg stikstof resp. kg fosfaat per jaar) en in m <sup>3</sup> per zeven maanden  
 
-| Melkproductie in kg melk per koe per jaar  | mestproductie per melkkoe per jaar  | Stikstof (kg)  | fosfaat (kg)  | m <sup>3</sup> per 6 mnd  | Ureumgehalte in mg/100 g  | < 14  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  | 33  | 34  | 35  | 36  | 37  | 38  | 39  | 40  | >40  |
+| Melkproductie in kg melk per koe per jaar  | mestproductie per melkkoe per jaar  | Stikstof (kg)  | fosfaat (kg)  | m <sup>3</sup> in 7 mnd  | Ureumgehalte in mg/100 g  | < 14  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  | 33  | 34  | 35  | 36  | 37  | 38  | 39  | 40  | >40  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 5.624  | 75,0  | 76,5  | 78,0  | 79,5  | 81,0  | 82,5  | 84,0  | 85,5  | 87,0  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 116,0  | 117,5  | 33,5  | 10,9  |
-| 5.625–5.874  | 79,5  | 81,0  | 82,5  | 84,0  | 85,5  | 87,0  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 35,0  | 11,1  |
-| 5.875–6.124  | 81,5  | 83,0  | 84,5  | 86,0  | 87,5  | 89,0  | 90,5  | 92,0  | 93,5  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 35,7  | 11,3  |
-| 6.125–6.374  | 83,5  | 85,0  | 86,5  | 88,0  | 89,5  | 91,0  | 92,5  | 94,0  | 95,5  | 97,0  | 98,5  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 36,4  | 11,5  |
-| 6.375–6.624  | 85,5  | 87,0  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 37,1  | 11,8  |
-| 6.625–6.874  | 87,0  | 88,5  | 90,5  | 92,0  | 93,5  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 37,7  | 12,0  |
-| 6.875–7.124  | 89,0  | 90,5  | 92,0  | 93,5  | 95,0  | 97,0  | 98,5  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 38,4  | 12,2  |
-| 7.125–7.374  | 91,0  | 92,5  | 94,0  | 95,5  | 97,0  | 98,5  | 100,5  | 101,5  | 103,0  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 39,1  | 12,4  |
-| 7.375–7.624  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 39,8  | 12,6  |
-| 7.625–7.874  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 40,5  | 12,8  |
-| 7.875–8.124  | 97,0  | 98,5  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,5  | 41,2  | 13,1  |
-| 8.125–8.374  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,5  | 137,0  | 138,5  | 140,0  | 141,5  | 41,9  | 13,3  |
-| 8.375–8.624  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  | 139,0  | 140,0  | 141,5  | 143,5  | 42,6  | 13,5  |
-| 8.625–8.874  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 43,2  | 13,7  |
-| 8.875–9.124  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  | 144,0  | 145,5  | 147,0  | 43,9  | 13,9  |
-| 9.125–9.374  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  | 138,5  | 140,0  | 141,5  | 143,0  | 144,5  | 146,0  | 147,5  | 149,0  | 44,6  | 14,1  |
-| 9.375–9.624  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 146,5  | 148,0  | 149,5  | 151,0  | 45,3  | 14,4  |
-| 9.625–9.874  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  | 144,0  | 145,5  | 147,0  | 148,5  | 150,0  | 151,5  | 153,0  | 46,0  | 14,6  |
-| 9.875–10.124  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  | 138,5  | 140,0  | 141,5  | 143,0  | 144,5  | 146,0  | 147,5  | 149,0  | 150,5  | 152,0  | 153,5  | 155,0  | 46,7  | 14,8  |
-| 10.125–10.374  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 146,5  | 148,0  | 149,5  | 151,0  | 152,5  | 154,0  | 155,5  | 157,0  | 47,4  | 15,0  |
-| 10.375–10.624  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  | 144,0  | 145,5  | 147,0  | 148,5  | 150,0  | 151,5  | 153,0  | 154,5  | 156,0  | 157,5  | 159,0  | 48,1  | 15,2  |
-| > 10.624  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 146,5  | 148,0  | 149,5  | 151,0  | 152,5  | 154,0  | 155,5  | 157,0  | 158,5  | 160,0  | 161,5  | 163,0  | 49,4  | 15,5  |
+| < 5.624  | 75,0  | 76,5  | 78,0  | 79,5  | 81,0  | 82,5  | 84,0  | 85,5  | 87,0  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 116,0  | 117,5  | 33,5  | 12,8  |
+| 5.625–5.874  | 79,5  | 81,0  | 82,5  | 84,0  | 85,5  | 87,0  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 35,0  | 13,0  |
+| 5.875–6.124  | 81,5  | 83,0  | 84,5  | 86,0  | 87,5  | 89,0  | 90,5  | 92,0  | 93,5  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 35,7  | 13,3  |
+| 6.125–6.374  | 83,5  | 85,0  | 86,5  | 88,0  | 89,5  | 91,0  | 92,5  | 94,0  | 95,5  | 97,0  | 98,5  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 36,4  | 13,5  |
+| 6.375–6.624  | 85,5  | 87,0  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 37,1  | 13,8  |
+| 6.625–6.874  | 87,0  | 88,5  | 90,5  | 92,0  | 93,5  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 37,7  | 14,0  |
+| 6.875–7.124  | 89,0  | 90,5  | 92,0  | 93,5  | 95,0  | 97,0  | 98,5  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 38,4  | 14,3  |
+| 7.125–7.374  | 91,0  | 92,5  | 94,0  | 95,5  | 97,0  | 98,5  | 100,5  | 101,5  | 103,0  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 39,1  | 14,5  |
+| 7.375–7.624  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 39,8  | 14,8  |
+| 7.625–7.874  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 40,5  | 15,0  |
+| 7.875–8.124  | 97,0  | 98,5  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,5  | 41,2  | 15,3  |
+| 8.125–8.374  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,5  | 137,0  | 138,5  | 140,0  | 141,5  | 41,9  | 15,5  |
+| 8.375–8.624  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  | 139,0  | 140,0  | 141,5  | 143,5  | 42,6  | 15,8  |
+| 8.625–8.874  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 43,2  | 16,1  |
+| 8.875–9.124  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  | 144,0  | 145,5  | 147,0  | 43,9  | 16,3  |
+| 9.125–9.374  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  | 138,5  | 140,0  | 141,5  | 143,0  | 144,5  | 146,0  | 147,5  | 149,0  | 44,6  | 16,6  |
+| 9.375–9.624  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 146,5  | 148,0  | 149,5  | 151,0  | 45,3  | 16,8  |
+| 9.625–9.874  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  | 144,0  | 145,5  | 147,0  | 148,5  | 150,0  | 151,5  | 153,0  | 46,0  | 17,1  |
+| 9.875–10.124  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  | 138,5  | 140,0  | 141,5  | 143,0  | 144,5  | 146,0  | 147,5  | 149,0  | 150,5  | 152,0  | 153,5  | 155,0  | 46,7  | 17,3  |
+| 10.125–10.374  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 146,5  | 148,0  | 149,5  | 151,0  | 152,5  | 154,0  | 155,5  | 157,0  | 47,4  | 17,6  |
+| 10.375–10.624  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  | 144,0  | 145,5  | 147,0  | 148,5  | 150,0  | 151,5  | 153,0  | 154,5  | 156,0  | 157,5  | 159,0  | 48,1  | 17,8  |
+| > 10.624  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 146,5  | 148,0  | 149,5  | 151,0  | 152,5  | 154,0  | 155,5  | 157,0  | 158,5  | 160,0  | 161,5  | 163,0  | 49,4  | 18,1  |
 
 ####Tabel II B. Excretieforfaits per melkkoe vaste mest, behorende bij de artikelen 36  en 74 
 
-Stikstofexcretie en fosfaatexcretie per koe (in kg stikstof resp. kg fosfaat per jaar) en in m <sup>3</sup> mest per zes maanden  
+Stikstofexcretie en fosfaatexcretie per koe (in kg stikstof resp. kg fosfaat per jaar) en in m <sup>3</sup> per zeven maanden  
 
-| Melkproductie in kg melk per koe per jaar  | Stikstofexcretie  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | Fosf.excr.  | m <sup>3</sup> per 6 mnd  |--- | Ureumgehalte in mg/100 g  | < 14  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  | 33  | 34  | 35  | 36  | 37  | 38  | 39  | 40  | > 40  |
+| Melkproductie in kg melk per koe per jaar  | Stikstofexcretie  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | Fosf.excr.  | m <sup>3</sup> in 7 mnd  |--- | Ureumgehalte in mg/100 g  | < 14  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  | 33  | 34  | 35  | 36  | 37  | 38  | 39  | 40  | > 40  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 5.624  | 68,0  | 69,5  | 71,0  | 72,0  | 73,5  | 75,0  | 76,5  | 77,5  | 79,0  | 80,5  | 81,5  | 83,0  | 84,5  | 86,0  | 87,0  | 88,5  | 90,0  | 91,5  | 92,5  | 94,0  | 95,5  | 97,0  | 98,0  | 99,5  | 101,0  | 102,5  | 103,5  | 105,0  | 106,5  | 33,5  | 5,5  |
-| 5.625–5.874  | 72,0  | 73,5  | 74,5  | 76,0  | 77,5  | 79,0  | 80,0  | 81,5  | 83,0  | 84,5  | 85,5  | 87,0  | 88,5  | 90,0  | 91,0  | 92,5  | 94,0  | 95,0  | 96,5  | 98,0  | 99,5  | 100,5  | 102,0  | 103,5  | 105,0  | 106,0  | 107,5  | 109,0  | 110,5  | 35,0  | 5,6  |
-| 5.875–6.124  | 74,0  | 75,0  | 76,5  | 78,0  | 79,0  | 80,5  | 82,0  | 83,5  | 84,5  | 86,0  | 87,5  | 89,0  | 90,0  | 91,5  | 93,0  | 94,5  | 95,5  | 97,0  | 98,5  | 100,0  | 101,0  | 102,5  | 104,0  | 105,0  | 106,5  | 108,0  | 109,5  | 110,5  | 112,0  | 35,7  | 5,7  |
-| 6.125–6.374  | 75,5  | 77,0  | 78,5  | 79,5  | 81,0  | 82,5  | 84,0  | 85,0  | 86,5  | 88,0  | 89,0  | 90,5  | 92,0  | 93,5  | 94,5  | 96,0  | 97,5  | 99,0  | 100,0  | 101,5  | 103,0  | 104,5  | 105,5  | 107,0  | 108,5  | 110,0  | 111,0  | 112,5  | 114,0  | 36,4  | 5,8  |
-| 6.375–6.624  | 77,5  | 78,5  | 80,0  | 81,5  | 83,0  | 84,0  | 85,5  | 87,0  | 88,5  | 89,5  | 91,0  | 92,5  | 94,0  | 95,0  | 96,5  | 98,0  | 99,0  | 100,5  | 102,0  | 103,5  | 104,5  | 106,0  | 107,5  | 109,0  | 110,0  | 111,5  | 113,0  | 114,5  | 115,5  | 37,1  | 5,9  |
-| 6.625–6.874  | 79,0  | 80,5  | 82,0  | 83,0  | 84,5  | 86,0  | 87,5  | 88,5  | 90,0  | 91,5  | 93,0  | 94,0  | 95,5  | 97,0  | 98,5  | 99,5  | 101,0  | 102,5  | 104,0  | 105,0  | 106,5  | 108,0  | 109,0  | 110,5  | 112,0  | 113,5  | 114,5  | 116,0  | 117,5  | 37,7  | 6,0  |
-| 6.875–7.124  | 81,0  | 82,5  | 83,5  | 85,0  | 86,5  | 88,0  | 89,0  | 90,5  | 92,0  | 93,0  | 94,5  | 96,0  | 97,5  | 98,5  | 100,0  | 101,5  | 103,0  | 104,0  | 105,5  | 107,0  | 108,5  | 109,5  | 111,0  | 112,5  | 113,5  | 115,0  | 116,5  | 118,0  | 119,0  | 38,4  | 6,1  |
-| 7.125–7.374  | 82,5  | 84,0  | 85,5  | 87,0  | 88,0  | 89,5  | 91,0  | 92,5  | 93,5  | 95,0  | 96,5  | 98,0  | 99,0  | 100,5  | 102,0  | 103,0  | 104,5  | 106,0  | 107,5  | 108,5  | 110,0  | 111,5  | 113,0  | 114,0  | 115,5  | 117,0  | 118,5  | 119,5  | 121,0  | 39,1  | 6,3  |
-| 7.375–7.624  | 84,5  | 86,0  | 87,0  | 88,5  | 90,0  | 91,5  | 92,5  | 94,0  | 95,5  | 97,0  | 98,0  | 99,5  | 101,0  | 102,5  | 103,5  | 105,0  | 106,5  | 107,5  | 109,0  | 110,5  | 112,0  | 113,0  | 114,5  | 116,0  | 117,5  | 118,5  | 120,0  | 121,5  | 123,0  | 39,8  | 6,4  |
-| 7.625–7.874  | 86,5  | 87,5  | 89,0  | 90,5  | 91,5  | 93,0  | 94,5  | 96,0  | 97,0  | 98,5  | 100,0  | 101,5  | 102,5  | 104,0  | 105,5  | 107,0  | 108,0  | 109,5  | 111,0  | 112,5  | 113,5  | 115,0  | 116,5  | 117,5  | 119,0  | 120,5  | 122,0  | 123,0  | 124,5  | 40,5  | 6,5  |
-| 7.875–8.124  | 88,0  | 89,5  | 91,0  | 92,0  | 93,5  | 95,0  | 96,5  | 97,5  | 99,0  | 100,5  | 101,5  | 103,0  | 104,5  | 106,0  | 107,0  | 108,5  | 110,0  | 111,5  | 112,5  | 114,0  | 115,5  | 117,0  | 118,0  | 119,5  | 121,0  | 122,5  | 123,5  | 125,0  | 126,5  | 41,2  | 6,6  |
-| 8.125–8.374  | 90,0  | 91,0  | 92,5  | 94,0  | 95,5  | 96,5  | 98,0  | 99,5  | 101,0  | 102,0  | 103,5  | 105,0  | 106,5  | 107,5  | 109,0  | 110,5  | 111,5  | 113,0  | 114,5  | 116,0  | 117,0  | 118,5  | 120,0  | 121,5  | 122,5  | 124,0  | 125,5  | 127,0  | 128,0  | 41,9  | 6,7  |
-| 8.375–8.624  | 91,5  | 93,0  | 94,5  | 95,5  | 97,0  | 98,5  | 100,0  | 101,0  | 102,5  | 104,0  | 105,5  | 106,5  | 108,0  | 109,5  | 111,0  | 112,0  | 113,5  | 115,0  | 116,5  | 117,5  | 119,0  | 120,5  | 121,5  | 123,0  | 124,5  | 126,0  | 127,0  | 128,5  | 130,0  | 42,6  | 6,8  |
-| 8.625–8.874  | 93,5  | 95,0  | 96,0  | 97,5  | 99,0  | 100,5  | 101,5  | 103,0  | 104,5  | 105,5  | 107,0  | 108,5  | 110,0  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,0  | 119,5  | 121,0  | 122,0  | 123,5  | 125,0  | 126,5  | 127,5  | 129,0  | 130,5  | 131,5  | 43,2  | 6,9  |
-| 8.875–9.124  | 95,0  | 96,5  | 98,0  | 99,5  | 100,5  | 102,0  | 103,5  | 105,0  | 106,0  | 107,5  | 109,0  | 110,5  | 111,5  | 113,0  | 114,5  | 115,5  | 117,0  | 118,5  | 120,0  | 121,0  | 122,5  | 124,0  | 125,5  | 126,5  | 128,0  | 129,5  | 131,0  | 132,0  | 133,5  | 43,9  | 7,0  |
-| 9.125–9.374  | 97,0  | 98,5  | 99,5  | 101,0  | 102,5  | 104,0  | 105,0  | 106,5  | 108,0  | 109,5  | 110,5  | 112,0  | 113,5  | 115,0  | 116,0  | 117,5  | 119,0  | 120,0  | 121,5  | 123,0  | 124,5  | 125,5  | 127,0  | 128,5  | 130,0  | 131,0  | 132,5  | 134,0  | 135,5  | 44,6  | 7,1  |
-| 9.375–9.624  | 99,0  | 100,0  | 101,5  | 103,0  | 104,0  | 105,5  | 107,0  | 108,5  | 109,5  | 111,0  | 112,5  | 114,0  | 115,0  | 116,5  | 118,0  | 119,5  | 120,5  | 122,0  | 123,5  | 125,0  | 126,0  | 127,5  | 129,0  | 130,0  | 131,5  | 133,0  | 134,5  | 135,5  | 137,0  | 45,3  | 7,2  |
-| 9.625–9.874  | 100,5  | 102,0  | 103,5  | 104,5  | 106,0  | 107,5  | 109,0  | 110,0  | 111,5  | 113,0  | 114,0  | 115,5  | 117,0  | 118,5  | 119,5  | 121,0  | 122,5  | 124,0  | 125,0  | 126,5  | 128,0  | 129,5  | 130,5  | 132,0  | 133,5  | 135,0  | 136,0  | 137,5  | 139,0  | 46,0  | 7,3  |
-| 9.875–10.124  | 102,5  | 103,5  | 105,0  | 106,5  | 108,0  | 109,0  | 110,5  | 112,0  | 113,5  | 114,5  | 116,0  | 117,5  | 119,0  | 120,0  | 121,5  | 123,0  | 124,0  | 125,5  | 127,0  | 128,5  | 129,5  | 131,0  | 132,5  | 134,0  | 135,0  | 136,5  | 138,0  | 139,5  | 140,5  | 46,7  | 7,5  |
-| 10.125–10.374  | 104,0  | 105,5  | 107,0  | 108,0  | 109,5  | 111,0  | 112,5  | 113,5  | 115,0  | 116,5  | 118,0  | 119,0  | 120,5  | 122,0  | 123,5  | 124,5  | 126,0  | 127,5  | 129,0  | 130,0  | 131,5  | 133,0  | 134,0  | 135,5  | 137,0  | 138,5  | 139,5  | 141,0  | 142,5  | 47,4  | 7,6  |
-| 10.375–10.624  | 106,0  | 107,5  | 108,5  | 110,0  | 111,5  | 113,0  | 114,0  | 115,5  | 117,0  | 118,0  | 119,5  | 121,0  | 122,5  | 123,5  | 125,0  | 126,5  | 128,0  | 129,0  | 130,5  | 132,0  | 133,5  | 134,5  | 136,0  | 137,5  | 139,0  | 140,0  | 141,5  | 143,0  | 144,0  | 48,1  | 7,7  |
-| > 10.624  | 109,5  | 111,0  | 112,0  | 113,5  | 115,0  | 116,5  | 117,5  | 119,0  | 120,5  | 122,0  | 123,0  | 124,5  | 126,0  | 127,5  | 128,5  | 130,0  | 131,5  | 132,5  | 134,0  | 135,5  | 137,0  | 138,0  | 139,5  | 141,0  | 142,5  | 143,5  | 145,0  | 146,5  | 148,0  | 49,4  | 7,8  |
+| < 5.624  | 68,0  | 69,5  | 71,0  | 72,0  | 73,5  | 75,0  | 76,5  | 77,5  | 79,0  | 80,5  | 81,5  | 83,0  | 84,5  | 86,0  | 87,0  | 88,5  | 90,0  | 91,5  | 92,5  | 94,0  | 95,5  | 97,0  | 98,0  | 99,5  | 101,0  | 102,5  | 103,5  | 105,0  | 106,5  | 33,5  | 6,4  |
+| 5.625–5.874  | 72,0  | 73,5  | 74,5  | 76,0  | 77,5  | 79,0  | 80,0  | 81,5  | 83,0  | 84,5  | 85,5  | 87,0  | 88,5  | 90,0  | 91,0  | 92,5  | 94,0  | 95,0  | 96,5  | 98,0  | 99,5  | 100,5  | 102,0  | 103,5  | 105,0  | 106,0  | 107,5  | 109,0  | 110,5  | 35,0  | 6,6  |
+| 5.875–6.124  | 74,0  | 75,0  | 76,5  | 78,0  | 79,0  | 80,5  | 82,0  | 83,5  | 84,5  | 86,0  | 87,5  | 89,0  | 90,0  | 91,5  | 93,0  | 94,5  | 95,5  | 97,0  | 98,5  | 100,0  | 101,0  | 102,5  | 104,0  | 105,0  | 106,5  | 108,0  | 109,5  | 110,5  | 112,0  | 35,7  | 6,7  |
+| 6.125–6.374  | 75,5  | 77,0  | 78,5  | 79,5  | 81,0  | 82,5  | 84,0  | 85,0  | 86,5  | 88,0  | 89,0  | 90,5  | 92,0  | 93,5  | 94,5  | 96,0  | 97,5  | 99,0  | 100,0  | 101,5  | 103,0  | 104,5  | 105,5  | 107,0  | 108,5  | 110,0  | 111,0  | 112,5  | 114,0  | 36,4  | 6,8  |
+| 6.375–6.624  | 77,5  | 78,5  | 80,0  | 81,5  | 83,0  | 84,0  | 85,5  | 87,0  | 88,5  | 89,5  | 91,0  | 92,5  | 94,0  | 95,0  | 96,5  | 98,0  | 99,0  | 100,5  | 102,0  | 103,5  | 104,5  | 106,0  | 107,5  | 109,0  | 110,0  | 111,5  | 113,0  | 114,5  | 115,5  | 37,1  | 6,9  |
+| 6.625–6.874  | 79,0  | 80,5  | 82,0  | 83,0  | 84,5  | 86,0  | 87,5  | 88,5  | 90,0  | 91,5  | 93,0  | 94,0  | 95,5  | 97,0  | 98,5  | 99,5  | 101,0  | 102,5  | 104,0  | 105,0  | 106,5  | 108,0  | 109,0  | 110,5  | 112,0  | 113,5  | 114,5  | 116,0  | 117,5  | 37,7  | 7,1  |
+| 6.875–7.124  | 81,0  | 82,5  | 83,5  | 85,0  | 86,5  | 88,0  | 89,0  | 90,5  | 92,0  | 93,0  | 94,5  | 96,0  | 97,5  | 98,5  | 100,0  | 101,5  | 103,0  | 104,0  | 105,5  | 107,0  | 108,5  | 109,5  | 111,0  | 112,5  | 113,5  | 115,0  | 116,5  | 118,0  | 119,0  | 38,4  | 7,2  |
+| 7.125–7.374  | 82,5  | 84,0  | 85,5  | 87,0  | 88,0  | 89,5  | 91,0  | 92,5  | 93,5  | 95,0  | 96,5  | 98,0  | 99,0  | 100,5  | 102,0  | 103,0  | 104,5  | 106,0  | 107,5  | 108,5  | 110,0  | 111,5  | 113,0  | 114,0  | 115,5  | 117,0  | 118,5  | 119,5  | 121,0  | 39,1  | 7,3  |
+| 7.375–7.624  | 84,5  | 86,0  | 87,0  | 88,5  | 90,0  | 91,5  | 92,5  | 94,0  | 95,5  | 97,0  | 98,0  | 99,5  | 101,0  | 102,5  | 103,5  | 105,0  | 106,5  | 107,5  | 109,0  | 110,5  | 112,0  | 113,0  | 114,5  | 116,0  | 117,5  | 118,5  | 120,0  | 121,5  | 123,0  | 39,8  | 7,5  |
+| 7.625–7.874  | 86,5  | 87,5  | 89,0  | 90,5  | 91,5  | 93,0  | 94,5  | 96,0  | 97,0  | 98,5  | 100,0  | 101,5  | 102,5  | 104,0  | 105,5  | 107,0  | 108,0  | 109,5  | 111,0  | 112,5  | 113,5  | 115,0  | 116,5  | 117,5  | 119,0  | 120,5  | 122,0  | 123,0  | 124,5  | 40,5  | 7,6  |
+| 7.875–8.124  | 88,0  | 89,5  | 91,0  | 92,0  | 93,5  | 95,0  | 96,5  | 97,5  | 99,0  | 100,5  | 101,5  | 103,0  | 104,5  | 106,0  | 107,0  | 108,5  | 110,0  | 111,5  | 112,5  | 114,0  | 115,5  | 117,0  | 118,0  | 119,5  | 121,0  | 122,5  | 123,5  | 125,0  | 126,5  | 41,2  | 7,7  |
+| 8.125–8.374  | 90,0  | 91,0  | 92,5  | 94,0  | 95,5  | 96,5  | 98,0  | 99,5  | 101,0  | 102,0  | 103,5  | 105,0  | 106,5  | 107,5  | 109,0  | 110,5  | 111,5  | 113,0  | 114,5  | 116,0  | 117,0  | 118,5  | 120,0  | 121,5  | 122,5  | 124,0  | 125,5  | 127,0  | 128,0  | 41,9  | 7,8  |
+| 8.375–8.624  | 91,5  | 93,0  | 94,5  | 95,5  | 97,0  | 98,5  | 100,0  | 101,0  | 102,5  | 104,0  | 105,5  | 106,5  | 108,0  | 109,5  | 111,0  | 112,0  | 113,5  | 115,0  | 116,5  | 117,5  | 119,0  | 120,5  | 121,5  | 123,0  | 124,5  | 126,0  | 127,0  | 128,5  | 130,0  | 42,6  | 8,0  |
+| 8.625–8.874  | 93,5  | 95,0  | 96,0  | 97,5  | 99,0  | 100,5  | 101,5  | 103,0  | 104,5  | 105,5  | 107,0  | 108,5  | 110,0  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,0  | 119,5  | 121,0  | 122,0  | 123,5  | 125,0  | 126,5  | 127,5  | 129,0  | 130,5  | 131,5  | 43,2  | 8,1  |
+| 8.875–9.124  | 95,0  | 96,5  | 98,0  | 99,5  | 100,5  | 102,0  | 103,5  | 105,0  | 106,0  | 107,5  | 109,0  | 110,5  | 111,5  | 113,0  | 114,5  | 115,5  | 117,0  | 118,5  | 120,0  | 121,0  | 122,5  | 124,0  | 125,5  | 126,5  | 128,0  | 129,5  | 131,0  | 132,0  | 133,5  | 43,9  | 8,2  |
+| 9.125–9.374  | 97,0  | 98,5  | 99,5  | 101,0  | 102,5  | 104,0  | 105,0  | 106,5  | 108,0  | 109,5  | 110,5  | 112,0  | 113,5  | 115,0  | 116,0  | 117,5  | 119,0  | 120,0  | 121,5  | 123,0  | 124,5  | 125,5  | 127,0  | 128,5  | 130,0  | 131,0  | 132,5  | 134,0  | 135,5  | 44,6  | 8,4  |
+| 9.375–9.624  | 99,0  | 100,0  | 101,5  | 103,0  | 104,0  | 105,5  | 107,0  | 108,5  | 109,5  | 111,0  | 112,5  | 114,0  | 115,0  | 116,5  | 118,0  | 119,5  | 120,5  | 122,0  | 123,5  | 125,0  | 126,0  | 127,5  | 129,0  | 130,0  | 131,5  | 133,0  | 134,5  | 135,5  | 137,0  | 45,3  | 8,5  |
+| 9.625–9.874  | 100,5  | 102,0  | 103,5  | 104,5  | 106,0  | 107,5  | 109,0  | 110,0  | 111,5  | 113,0  | 114,0  | 115,5  | 117,0  | 118,5  | 119,5  | 121,0  | 122,5  | 124,0  | 125,0  | 126,5  | 128,0  | 129,5  | 130,5  | 132,0  | 133,5  | 135,0  | 136,0  | 137,5  | 139,0  | 46,0  | 8,6  |
+| 9.875–10.124  | 102,5  | 103,5  | 105,0  | 106,5  | 108,0  | 109,0  | 110,5  | 112,0  | 113,5  | 114,5  | 116,0  | 117,5  | 119,0  | 120,0  | 121,5  | 123,0  | 124,0  | 125,5  | 127,0  | 128,5  | 129,5  | 131,0  | 132,5  | 134,0  | 135,0  | 136,5  | 138,0  | 139,5  | 140,5  | 46,7  | 8,7  |
+| 10.125–10.374  | 104,0  | 105,5  | 107,0  | 108,0  | 109,5  | 111,0  | 112,5  | 113,5  | 115,0  | 116,5  | 118,0  | 119,0  | 120,5  | 122,0  | 123,5  | 124,5  | 126,0  | 127,5  | 129,0  | 130,0  | 131,5  | 133,0  | 134,0  | 135,5  | 137,0  | 138,5  | 139,5  | 141,0  | 142,5  | 47,4  | 8,9  |
+| 10.375–10.624  | 106,0  | 107,5  | 108,5  | 110,0  | 111,5  | 113,0  | 114,0  | 115,5  | 117,0  | 118,0  | 119,5  | 121,0  | 122,5  | 123,5  | 125,0  | 126,5  | 128,0  | 129,0  | 130,5  | 132,0  | 133,5  | 134,5  | 136,0  | 137,5  | 139,0  | 140,0  | 141,5  | 143,0  | 144,0  | 48,1  | 9,0  |
+| > 10.624  | 109,5  | 111,0  | 112,0  | 113,5  | 115,0  | 116,5  | 117,5  | 119,0  | 120,5  | 122,0  | 123,0  | 124,5  | 126,0  | 127,5  | 128,5  | 130,0  | 131,5  | 132,5  | 134,0  | 135,5  | 137,0  | 138,0  | 139,5  | 141,0  | 142,5  | 143,5  | 145,0  | 146,5  | 148,0  | 49,4  | 9,1  |
 
 #### *Tabel III. Aan- en afvoer van staldieren, behorende bij artikel 102* 
 
@@ -3052,7 +3064,7 @@ Stikstofexcretie en fosfaatexcretie per koe (in kg stikstof resp. kg fosfaat per
 | --- | Fokberen ouder dan 7 maanden  | 8,13  | 3,98  | 0,0250  | 0,0123  |
 | --- | Slachtzeugen  | 5,13  | 2,51  | 0,0250  | 0,0123  |
 | Gallus gallus (Kip)  | --- | --- | --- | --- |
-| --- | Eendagskuikens  | 0,0013  | 0,0004  | 0,0279  | 0,0101  |
+| --- | Eendagskuikens – kip  | 0,0258  | 0,0058  | 0,0010  | 0,0002  |
 | --- | Opfokhennen/hanen van ongeveer 18 weken, wit  | 0,036  | 0,016  | 0,0280  | 0,0126  |
 | --- | Opfokhennen/hanen van ongeveer 18 weken, bruin  | 0,043  | 0,019  | 0,0280  | 0,0126  |
 | --- | Hennen/hanen ouder dan 18 weken, wit  | 0,045  | 0,021  | 0,0280  | 0,0128  |

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in de regulering van de bijzondere verrichtingen zoals omschreven in de [Wet ziekenhuisvoorzieningen](../../../../../../../wet/wet/ziekenhuisvoorzieningen/BWBR0002753/README.md), een gradatie aan te brengen en de desbetreffende regels, te zamen met die inzake ontwikkelingsgeneeskunde, in een afzonderlijke wettelijke regeling onder te brengen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in de regulering van de bijzondere verrichtingen zoals omschreven in de Wet ziekenhuisvoorzieningen, een gradatie aan te brengen en de desbetreffende regels, te zamen met die inzake ontwikkelingsgeneeskunde, in een afzonderlijke wettelijke regeling onder te brengen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -18,7 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. medische verrichtingen: handelingen op het gebied van de individuele gezondheidszorg in de zin van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);  
+b. medische verrichtingen: handelingen op het gebied van de individuele gezondheidszorg in de zin van de Wet op de beroepen in de individuele gezondheidszorg;  
 
 c. ontwikkelingsgeneeskunde: de op wetenschappelijk inzicht gebaseerde ontwikkeling en evaluatie van methoden en technieken in de praktijk van de gezondheidszorg, waarvan de uiteindelijke toepassing ingrijpende kwalitatieve, maatschappelijke, ethische, juridische, financiële of organisatorische gevolgen kan hebben.    
 
@@ -80,6 +80,7 @@ Onze Minister bepaalt bij ministeriële regeling de omvang van de behoefte aan v
 1.  Onze Minister kan met betrekking tot medische verrichtingen waarop niet een regeling als bedoeld in artikel 2 of  3 van toepassing is en die niet behoren tot de ontwikkelingsgeneeskunde, zijn beleidsvisie bekend maken ten aanzien van bijzondere aspecten van die verrichtingen, welke aspecten die verrichtingen onderscheiden van andere medische verrichtingen.   
 2.  Een instelling kan Onze Minister verzoeken haar aan te wijzen voor de uitvoering van de bijzondere aspecten van de in het eerste lid bedoelde verrichtingen. Onze Minister kan zodanige aanwijzing uitsluitend weigeren indien het geven daarvan in strijd zou zijn met zijn beleidsvisie, bedoeld in het eerste lid.   
 3.  Onze Minister kan aan een aanwijzing voorschriften verbinden, voor zover die voortvloeien uit de beleidsvisie. Artikel 6, derde lid, is van overeenkomstige toepassing.   
+4.  De beleidsvisie, bedoeld in het eerste lid, kan inhouden dat Onze Minister, voor zover dat naar zijn oordeel noodzakelijk is in het belang van de volksgezondheid, zorg draagt voor bekostiging van de instandhouding dan wel continuïteit van de uitvoering van de bijzondere aspecten van de in het eerste lid bedoelde verrichtingen door een instelling die op grond van het tweede lid is aangewezen.   
 
 ### Hoofdstuk  IV  
 
@@ -107,9 +108,9 @@ Wijzigt de Wet ziekenhuisvoorzieningen.
 
 ### Artikel  18  
 
-1.  Na de inwerkingtreding van deze wet berust het [Besluit bijzondere verrichtingen en apparatuur Wet ziekenhuisvoorzieningen](../../../../../../../AMvB/besluit/aanwijzing/bijzondere/medische/verrichtingen/BWBR0005209/README.md) op artikel 2, tweede lid, van deze wet, berusten de Regeling harttransplantatie, de Regeling longtransplantatie, de Regeling levertransplantatie en de Regeling klinisch-genetisch onderzoek en erfelijkheidsadvisering op de artikelen 2, eerste lid, en 5 van deze wet, berusten het Planningsbesluit niertransplantatie, het Planningsbesluit radiotherapie, het Planningsbesluit in vitro fertilisatie, het Planningsbesluit neonatale intensive care, het Planningsbesluit neurochirurgie, het Planningsbesluit dialyse en het Planningsbesluit bijzondere interventies aan het hart op artikel 5 van deze wet, en berust het Besluit procedures voor bijzondere functies [Wet ziekenhuisvoorzieningen](../../../../../../../wet/wet/ziekenhuisvoorzieningen/BWBR0002753/README.md) op artikel 6, tweede lid, van deze wet.   
-2.  Een vergunning, verleend op grond van [artikel 18, eerste lid, onder *a* of *b*, van de Wet ziekenhuisvoorzieningen](../../../../../../../wet/wet/ziekenhuisvoorzieningen/BWBR0002753/README.md), zoals dat artikel luidde tot de inwerkingtreding van deze wet, wordt gelijkgesteld met een vergunning, verleend op grond van artikel 2, eerste lid, onder *a* onderscheidenlijk *b*, van de onderhavige wet.   
-3.  Beroepen, ingesteld tegen beslissingen op grond van [artikel 18 van de Wet ziekenhuisvoorzieningen](../../../../../../../wet/wet/ziekenhuisvoorzieningen/BWBR0002753/README.md), worden afgewikkeld overeenkomstig de in die wet voorziene procedure, zoals die wet luidde tot de inwerkingtreding van deze wet.   
+1.  Na de inwerkingtreding van deze wet berust het Besluit bijzondere verrichtingen en apparatuur Wet ziekenhuisvoorzieningen op artikel 2, tweede lid, van deze wet, berusten de Regeling harttransplantatie, de Regeling longtransplantatie, de Regeling levertransplantatie en de Regeling klinisch-genetisch onderzoek en erfelijkheidsadvisering op de artikelen 2, eerste lid, en 5 van deze wet, berusten het Planningsbesluit niertransplantatie, het Planningsbesluit radiotherapie, het Planningsbesluit in vitro fertilisatie, het Planningsbesluit neonatale intensive care, het Planningsbesluit neurochirurgie, het Planningsbesluit dialyse en het Planningsbesluit bijzondere interventies aan het hart op artikel 5 van deze wet, en berust het Besluit procedures voor bijzondere functies Wet ziekenhuisvoorzieningen op artikel 6, tweede lid, van deze wet.   
+2.  Een vergunning, verleend op grond van artikel 18, eerste lid, onder *a* of *b*, van de Wet ziekenhuisvoorzieningen, zoals dat artikel luidde tot de inwerkingtreding van deze wet, wordt gelijkgesteld met een vergunning, verleend op grond van artikel 2, eerste lid, onder *a* onderscheidenlijk *b*, van de onderhavige wet.   
+3.  Beroepen, ingesteld tegen beslissingen op grond van artikel 18 van de Wet ziekenhuisvoorzieningen, worden afgewikkeld overeenkomstig de in die wet voorziene procedure, zoals die wet luidde tot de inwerkingtreding van deze wet.   
 
 ### Artikel  19  
 

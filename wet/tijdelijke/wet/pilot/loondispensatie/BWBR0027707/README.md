@@ -19,7 +19,7 @@ a. *arbeidsbeperking:* het vanwege structurele lichamelijke, verstandelijke, psy
 
 b. *college:* het college van burgemeester en wethouders van een aan de pilot deelnemende gemeente;  
 
-c. *kring:* inwoners van een aan de pilot deelnemende gemeente, die ten minste 23 jaar oud zijn en algemene bijstand ontvangen op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), dan wel een inkomensvoorziening op grond van de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) of een uitkering op grond van een bij algemene maatregel van bestuur aangewezen socialezekerheidswet;  
+c. *kring:* inwoners van een aan de pilot deelnemende gemeente, die ten minste 23 jaar oud zijn en algemene bijstand ontvangen op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of een uitkering op grond van een bij algemene maatregel van bestuur aangewezen socialezekerheidswet;  
 
 d. *dienstbetrekking:* een privaatrechtelijke of publiekrechtelijke dienstbetrekking;  
 
@@ -83,7 +83,7 @@ b. met betrekking tot de dienstbetrekking een proeftijd geldt.
 
 1.  Zolang de hoogte van de aanspraak op een geldelijke beloning voor de verrichte arbeid onder toepassing van artikel 7 eerste lid is verminderd, verstrekt het college aan de werknemer een aanvullende uitkering.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de berekening van de hoogte van de aanvullende uitkering.   
-3.  Voor de toepassing van andere wetten en de daarop berustende bepalingen, wordt een aanvullende uitkering op grond van deze wet aangemerkt als een uitkering op grond van de wet krachtens welke betrokkene onmiddellijk voor aanvang van zijn dienstbetrekking een uitkering, dan wel een inkomensvoorziening ontving.   
+3.  Voor de toepassing van andere wetten en de daarop berustende bepalingen, wordt een aanvullende uitkering op grond van deze wet aangemerkt als een uitkering op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 
 ### Artikel  9  
 

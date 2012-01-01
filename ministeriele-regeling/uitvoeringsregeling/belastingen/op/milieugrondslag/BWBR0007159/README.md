@@ -13,14 +13,14 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [11, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [14, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [20, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [21, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [25, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [28, tweede lid, onderdeel d](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [38, tweede lid, onderdeel b](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [39, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [47, tweede en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [50, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [60, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [63, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, achtste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [70, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [71, tweede en derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [80, onderdeel a, onder 4°](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [86, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en [92, tweede lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en de [artikelen 18, vijfde lid](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), [19, tweede lid, onderdeel c](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), en [27, derde lid](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), [28i, van het Uitvoeringsbesluit belastingen op milieugrondslag](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md).   
+1.  Deze regeling geeft uitvoering aan de artikelen [14, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [20, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [21, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [38, tweede lid, onderdeel b](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [39, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [47, tweede en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [50, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [60, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [63, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, achtste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [70, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [71, tweede en derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [80, onderdeel a, onder 4°](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [86, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en [92, tweede lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en de [artikelen 18, vijfde lid](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), [19, tweede lid, onderdeel c](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), en [27, derde lid](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), [28i, van het Uitvoeringsbesluit belastingen op milieugrondslag](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md).   
 2.  Voor de toepassing van deze regeling wordt verstaan onder: 
 
 a. *de wet:* de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
 b. *het besluit:* het [Uitvoeringsbesluit belastingen op milieugrondslag](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md);  
 
-c. *een afvalverwerkingsinrichting:* een inrichting als bedoeld in [artikel 22, eerste lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
+c.  vervallen;   
 
 d. *een krat:* een verpakking met zes vlakken waarvan minimaal een vlak open is, zodat er zonder aanpassing van de verpakking een product kan worden in- of uitgepakt;  
 
@@ -29,24 +29,6 @@ e. *een doos:* een gesloten verpakking met zes vlakken, waaruit alleen met aanpa
 ### Hoofdstuk  II  
 
 ####Grondwaterbelasting
-
-### Artikel  2  
-
-De watermeters, bedoeld in [artikel 2, eerste lid, van het besluit](../../../../../../AMvB/uitvoeringsbesluit/belastingen/op/milieugrondslag/BWBR0007178/README.md), worden geplaatst in aansluiting op een recht gedeelte van de pijpleiding zodanig dat de lengte van het rechte gedeelte vóór de meter minimaal tienmaal de nominale doorsnede van de pijpleiding bedraagt en de lengte van het rechte gedeelte ná de meter minimaal vijfmaal de nominale doorsnede van de pijpleiding bedraagt.  
-
-### Artikel  3  
-
-1.  De houder van een inrichting als bedoeld in [artikel 3, eerste lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), houdt dagelijks op een meetstaat aantekening van de hoeveelheden onttrokken grondwater en geïnfiltreerd water, gespecificeerd naar meter en winningspunt.   
-2.  De in het eerste lid bedoelde meetstaat behelst in ieder geval: 
-
-a. gegevens ter identificatie van de meter;  
-
-b. de datum van opname en de stand van de meter;  
-
-c. de onttrekking en infiltratie sinds de vorige opname van de meter, en  
-
-d. voorvallen die van invloed zijn of kunnen zijn op de meting (onder opgave van de datum).     
-3.  De inspecteur kan op verzoek de houder van een inrichting bij voor bezwaar vatbare beschikking toestaan de in het eerste lid bedoelde aantekeningen anders in te richten dan wel de in het eerste lid bedoelde hoeveelheden niet dagelijks aan te tekenen. De inspecteur kan aan die toestemming voorwaarden verbinden.   
 
 ### Hoofdstuk  III  
 
@@ -117,26 +99,6 @@ n. de toepassing van de vrijstelling, bedoeld in [artikel 19 van de wet](../../.
 ### Hoofdstuk  IV  
 
 ####Afvalstoffenbelasting
-
-### Artikel  7  
-
-Het gewicht van de in [artikel 23, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedoelde afvalstoffen wordt onder verantwoordelijkheid van de houder van een afvalverwerkingsinrichting onmiddellijk vóór dan wel aansluitend op de afgifte bepaald in kilogrammen door weging met een meetinstrument dat voldoet aan de eisen die bij of krachtens de [Metrologiewet](../../../../../../wet/metrologiewet/BWBR0019517/README.md) worden gesteld aan een meetinstrument.  
-
-### Artikel  8  
-
-Voor de toepassing van [artikel 28, tweede lid, onderdeel d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) worden aangewezen: 
-
-a. residuen afkomstig van vertical technology (VERTEC) voor het reinigen van zuiveringsslib;  
-
-b. regeneratiezandstof dat vrijkomt bij het stralen van voorwerpen of bij het vervaardigen van zandvormen in het productieproces van aluminium- en ijzergieterijen;  
-
-c. anorganische residuen van de destillatie of ontwatering van verontreinigd boorgruis;  
-
-d. residuen van zuivering in een afvalwaterbehandelingsinstallatie van afvalwater afkomstig van de rookgasontzwaveling van een kolengestookte elektriciteitscentrale;  
-
-e. residuen afkomstig van installaties voor het verbranden van specifiek ziekenhuisafval, en  
-
-f. poreuze perliteresiduen, poreuze vermiculiteresiduen, perlitestof en vermiculitestof afkomstig van de thermische en mechanische bewerking van het gesteente perlite en het mineraal vermiculite.    
 
 ### Hoofdstuk  V  
 
@@ -301,22 +263,20 @@ f. het bedrag aan belasting dat wordt teruggevraagd.
 
 1.  De teruggaafregeling, bedoeld in [artikel 69, tweede lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is van toepassing mits: 
 
-a. de notarieel verleden statuten waaruit de doelstelling van de instelling blijkt, desgevraagd worden overgelegd;  
+a. de instelling verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, tweede lid, onderdelen a en b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
-b. de instelling verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, tweede lid, onderdelen b, c en d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en  
+b. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet;  
 
-c. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet; alsmede, indien het een instelling betreft die een sociaal belang behartigt:  
-
-d. de instelling verklaart dat is voldaan aan de voorwaarde, bedoeld in [artikel 69, tweede lid, onderdeel f, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).     
+c. de instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), verklaart dat aan die voorwaarden en aan de voorwaarde, bedoeld in [artikel 69, tweede lid, onderdeel d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is voldaan, en de in artikel 5c, onderdeel a, van de Algemene wet inzake rijksbelastingen genoemde regelgeving desgevraagd wordt overgelegd.     
 2.  De teruggaafregeling, bedoeld in [artikel 69, derde lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is van toepassing mits: 
 
-a. de notarieel verleden statuten onderscheidenlijk verklaringen waaruit de doelstelling van de instellingen, bedoeld in [artikel 69, derde lid, onderdelen a en b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), blijkt, desgevraagd worden overgelegd;  
+a. de notarieel verleden statuten onderscheidenlijk verklaringen waaruit de doelstelling van de instellingen, bedoeld in [artikel 69, derde lid, onderdelen b en c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), blijkt, desgevraagd worden overgelegd;  
 
-b. de instelling die het verzoek om teruggaaf doet, verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, derde lid, onderdelen c, d en e, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
+b. de instelling die het verzoek om teruggaaf doet, verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, derde lid, onderdelen a en d tot en met f, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);  
 
 c. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet, en  
 
-d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die charitatief, cultureel, wetenschappelijk of het algemeen nut beogend is dan wel een sociaal belang behartigt.     
+d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 69, tweede lid, onderdeel d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).     
 
 ### Artikel  27  
 
