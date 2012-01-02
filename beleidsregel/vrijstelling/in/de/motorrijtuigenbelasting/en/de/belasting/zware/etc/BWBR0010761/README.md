@@ -125,6 +125,6 @@ Zo er sprake kan zijn van een vrijstelling op grond van artikel 15, onderdeel d,
 – de Inspecteur heeft de feitelijk gebruiker aangemerkt als zgn. ‘afwijkend houder’ zoals bedoeld in artikel 7, eerste lid, onderdeel a, van de Wet BZM.   Indien er geen verzoek om afwijkend houderschap wordt gedaan of de Inspecteur een daartoe strekkend verzoek niet kan inwilligen, is de vrijstelling niet van toepassing en is de verhuurder dan wel het lease-bedrijf als houder de belasting verschuldigd.      
 
 De 
-Staatssecretaris van Financiën, namens deze, De 
+Staatssecretaris van Financiën, namens deze,De 
 plv. Directeur-Generaal der Belastingen, 
-J.Thunnissen   
+J. Thunnissen     

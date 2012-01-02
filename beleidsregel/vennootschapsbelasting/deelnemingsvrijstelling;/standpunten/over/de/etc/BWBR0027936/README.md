@@ -12,17 +12,17 @@ De minister van Financiën heeft het volgende besloten.     *In dit besluit is h
 
 | --- | --- |
 |:---|:---|
-| Wet Vpb  |  [Wet op de vennootschapsbelasting 1969](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)   |
-| AWR  |  [Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)   |
+| Wet Vpb  | [Wet op de vennootschapsbelasting 1969](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)  |
+| AWR  | [Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  |
 | ATR  | Advance tax ruling  |
 
 ### 1  
 
-#### [Artikel 13 Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13 Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 1.1  
 
-#### [Artikel 13, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 1.1.1  
 
@@ -43,7 +43,7 @@ Belastingplichtige wenst haar aandelen in een vennootschap, waarop de deelneming
 Er bestaan verzekeringen die het risico dekken dat (de bezittingen van) een buitenlandse dochtervennootschap door lokale autoriteiten wordt geconfisqueerd. Indien op een dergelijke verzekeringspolis een uitkering wordt ontvangen valt deze niet onder de deelnemingsvrijstelling. De vraag of voordelen worden behaald uit hoofde van een deelneming wordt beheerst door de causaliteit. Dat wil zeggen dat voordelen eerst dan in een voldoende verband staan tot de deelneming indien zij voortvloeien uit het aandeelhouderschap in de desbetreffende vennootschap. Een eventuele uitkering door de verzekeraar vindt haar oorzaak in de eerste plaats in de polis die de rechtsverhouding tussen de verzekeraar en de verzekerde regelt. Niet het aandeelhouderschap (het bezit van de deelneming) maar het verzekeringscontract roept dan het voordeel op. Dat betekent dat de uitkering niet onder de deelnemingsvrijstelling valt. Volledigheidshalve merk ik nog op dat aan het vraagstuk van de causaliteit de vraag vooraf gaat of de desbetreffende kosten c.q. opbrengsten wel aan de belastingplichtige toegerekend moeten worden. Bovendien laat dit standpunt onverlet de werking van [artikel 13d, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).      
 ### 1.2  
 
-#### [Artikel 13, tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 1.2.1  
 
@@ -78,17 +78,17 @@ Ik keur met toepassing van [artikel 63 van de AWR](../../../../../../../../wet/a
 Op een belang in een vereniging dan wel een onderlinge waarborgmaatschappij waarop door de [besluiten van 7 juli 1992](../../../../../../../../beleidsregel/deelnemingsvrijstelling/belang/in/vereniging/of/onderlinge/etc/BWBR0005590/README.md), nr. DB92/3335 en [van 7 november 1997](../../../../../../../../beleidsregel/toepassing/deelnemingsvrijstelling/op/belangen/in/belastingplichtige/etc/BWBR0009001/README.md), nr. DB97/3989, tot aan het [besluit van 26 februari 2008](../../../../../../../../beleidsregel/vennootschapsbelasting/deelnemingsvrijstelling;/standpunten/over/de/etc/BWBR0023591/README.md), nr. CPP2008/257M, de deelnemingsvrijstelling van toepassing was, vindt het bepaalde in [artikel VIIId Overgangsrecht Wet werken aan winst](../../../../../../../../wet/wet/werken/aan/winst/BWBR0020645/README.md) (Stb. 2006, 631) overeenkomstige toepassing. Dit betekent dat op zo’n belang tot 1 januari 2010 de deelnemingsvrijstelling van toepassing blijft, ondanks het feit dat wellicht niet aan de voorwaarden uit het besluit van 26 februari 2008, nr. CPP2008/257M, is voldaan.      
 ### 1.3  
 
-#### [Artikel 13, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 1.4  
 
-#### [Artikel 13, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 In onderdeel 1.5.1.2. is een standpunt opgenomen dat mede ziet op [artikel 13, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) (meesleepregeling).    
 ### 1.5  
 
-#### [Artikel 13, vijfde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, vijfde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 1.5.1  
 
@@ -109,22 +109,22 @@ In [artikel 13, vijfde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/venno
 Voorts brengt dit met zich dat een belastingplichtige die zowel een optierecht heeft op de koop van meer dan 5% van de aandelen, als een aandelenbelang van minder dan 5%, de deelnemingsvrijstelling alleen deelachtig wordt op het optierecht (voor zover na uitoefening van de optie de desbetreffende aandelen tot een deelneming gaan behoren). Het aandelenbezit vormt geen deelneming.      
 ### 1.6  
 
-#### [Artikel 13, zesde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, zesde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 1.7  
 
-#### [Artikel 13, zevende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, zevende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 1.8  
 
-#### [Artikel 13, achtste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, achtste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 1.9  
 
-#### [Artikel 13, negende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, negende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 Met ingang van 1 januari 2010 is de nieuwe regeling voor beleggingsdeelnemingen in werking getreden. Hierbij geldt dat de deelnemingsvrijstelling niet van toepassing is op een beleggingsdeelneming, tenzij er sprake is van een kwalificerende beleggingsdeelneming.   
 ### 1.9.1  
@@ -137,12 +137,12 @@ Onder het tot 1 januari 2010 geldende deelnemingsvrijstellingregime kunnen ATR�
 Hoewel bedoelde ATR’s waarin zekerheid is gegeven over de toepassing van de tot 1 januari 2010 geldende deelnemingsvrijstelling (en eventueel ook over andere fiscale aspecten) formeel worden beëindigd, keur ik echter goed dat deze van toepassing blijven gedurende de nog resterende looptijd van de ATR. Het is dus niet nodig om na inwerkingtreding van het nieuwe regime een nieuw verzoek hierover in de dienen. Ingeval belastingplichtige echter toch de voorkeur geeft aan een nieuwe ATR (bij voorbeeld omdat hij de zekerheid over de toepassing van de deelnemingsvrijstelling wenst te baseren op de gewijzigde wetgeving) dan kan hij ervoor kiezen de beëindiging van de gehele ATR te accepteren en kan een nieuw ATR-verzoek worden ingediend (over de toepassing van de deelnemingsvrijstelling en over eventueel andere fiscale aspecten die in de ATR waren opgenomen).     
 ### 1.10  
 
-#### [Artikel 13, tiende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, tiende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 1.11  
 
-#### [Artikel 13, elfde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, elfde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 Een deelneming wordt als kwalificerende beleggingsdeelneming aangemerkt indien: 
 
@@ -231,7 +231,7 @@ Voor de toepassing van de bezittingentoets van [artikel 13, elfde lid, onderdeel
 Met toepassing van [artikel 63 van de AWR](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) keur ik goed dat de toe te rekenen vorderingen van een dochter of kleindochter enz. niet tot de bezittingen worden gerekend, voor zover die dochter of kleindochter enz. tegenover de desbetreffende vordering een schuld heeft aan het lichaam waarin de deelneming wordt gehouden dan wel een lichaam waarvan de bezittingen worden toegerekend aan het lichaam waarin de deelneming wordt gehouden. Na toepassing van deze goedkeuring blijft bij zo’n doorlening op de toerekeningbalans één vordering over; deze vordering wordt aangemerkt als een vrije belegging.      
 ### 1.12  
 
-#### [Artikel 13, twaalfde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, twaalfde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 1.12.1  
 
@@ -255,12 +255,12 @@ Beleggingen die redelijkerwijs noodzakelijk zijn in het kader van de onderneming
 Voor de uitleg van het begrip onroerende zaken – daaronder mede begrepen rechten die direct of indirect betrekking hebben op onroerende zaken – in [artikel 13, twaalfde lid, onderdeel a, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) wordt overeenkomstig het OESO Modelverdrag uitgegaan van de betekenis die dat begrip heeft volgens de wetgeving van de staat waarin de desbetreffende onroerende zaak is gelegen.      
 ### 1.13  
 
-#### [Artikel 13, dertiende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, dertiende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 1.14  
 
-#### [Artikel 13, veertiende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13, veertiende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 1.14.1  
 
@@ -278,11 +278,11 @@ Op grond van [artikel 13, veertiende lid, Wet Vpb](../../../../../../../../wet/w
 
 ### 3.1  
 
-#### [Artikel 13b Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13b Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 3.1.1  
 
-#### [Artikel 13b, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13b, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 3.1.1.1  
 
@@ -299,12 +299,12 @@ Op grond van [artikel 13, veertiende lid, Wet Vpb](../../../../../../../../wet/w
 Belastingplichtige X BV heeft een vordering op haar dochtervennootschap Y. Deze vordering is op de nominale waarde gewaardeerd. Het aandelenbezit in Y vormt een deelneming. X besluit haar dochtervennootschap Y te liquideren. Y keert al haar bezittingen, bestaande uit de aandelen in vennootschap Z, uit aan X ter voldoening van haar schuld. De waarde van de aandelen Z is lager dan de boekwaarde van de vordering. In casu ontvangt de schuldeiser in het kader van de liquidatie van de schuldenaar ter aflossing van haar schuldvordering een pakket aandelen, waarvan de waarde lager is dan de boekwaarde van de schuldvordering. Dit moet worden opgevat als een (definitieve) afwaardering van de schuldvordering. Dit standpunt is in overeenstemming met de bedoeling van [artikel 13b Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md). Dit artikel tracht claimverlies te voorkomen in de gevallen waarin de toekomstige waardestijging van een vordering niet in Nederland kan worden belast. De schuldeiser heeft ter aflossing van haar schuldvordering een aandelenpakket in Z verkregen. Als de aandelen Z in waarde stijgen is de winst daaruit vrijgesteld onder de deelnemingsvrijstelling. Het verlies op de vordering kan in de toekomst dus niet meer worden gecompenseerd met te belasten winst. In [artikel 13b, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) is bepaald dat de schuldeiser in sommige gevallen tot zijn winst moet rekenen het bedrag van de afwaardering. Uit artikel 13b, derde lid, Wet Vpb volgt dat het eerste lid ook van toepassing is indien de onderneming van de schuldenaar wordt vervreemd aan de schuldeiser. In casu bestaat de onderneming van Y uit het aandelenpakket in Z en de schuld aan X. De aandelenoverdracht in het kader van de liquidatie van de schuldenaar dient als een vervreemding van haar onderneming te worden aangemerkt (zie ook Tweede Kamer, vergaderjaar 2003–2004, 29 686, nr. 3, blz. 9, laatste alinea).     
 ### 3.1.2  
 
-#### [Artikel 13b, tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13b, tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 3.1.3  
 
-#### [Artikel 13b, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13b, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 3.1.3.1  
 
@@ -327,11 +327,11 @@ Indien een schuldvordering op een vennootschap waarin een deelneming wordt gehou
 
 ### 4.1  
 
-#### [Artikel 13c Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13c Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 4.1.1  
 
-#### [Artikel 13c, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13c, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 4.1.1.1  
 
@@ -344,23 +344,23 @@ Als reden voor de invoering van [artikel 13c Wet Vpb](../../../../../../../../we
 – aantoont tot welk bedrag sprake is van kennelijk onredelijke toepassing van [artikel 13c Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   Het feit dat de wettekst aansluit bij de positieve voordelen uit hoofde van de deelneming (zie hiervóór) en niet de mogelijkheid van winstsplitsing biedt, leidt op zich niet tot kennelijke onredelijkheid. Naar mijn mening is echter wél sprake van kennelijke onredelijkheid ingeval bijvoorbeeld de buitenlandse onderneming altijd verliesgevend is geweest en kort na de omzetting wordt beëindigd vanwege de slechte gang van zaken. Ook in andere gevallen van kennelijke onredelijkheid kan belastingplichtige een verzoek indienen om toepassing van de hardheidsclausule. Het verzoek om toepassing van de hardheidsclausule moet worden gericht aan het ministerie.     
 ### 4.1.2  
 
-#### [Artikel 13c, tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13c, tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 4.1.3  
 
-#### [Artikel 13c, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13c, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 4.1.4  
 
-#### [Artikel 13c, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13c, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 4.1.4.1  
 
 ####Positieve voordelen
 
-In [artikel 13c, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) is een regeling getroffen waardoor artikel 13c Wet Vpb ook van toepassing is ingeval de aandelen van het lichaam, waarin de buitenlandse onderneming (vaste inrichting) wordt voortgezet, niet direct in het bezit zijn van de belastingplichtige, maar indirect via een deelneming. <sup> 1  In werking getreden op 9 maart 2007 (Wet van 17 februari 2007, Stb. 84).  </sup> Ook hierbij heeft de wetgever aangesloten bij de positieve voordelen uit hoofde van die deelneming; de regeling geldt echter niet voor zover aannemelijk is dat het positieve voordeel uit hoofde van de deelneming niet toerekenbaar is aan het lichaam dat de buitenlandse onderneming voortzet. De regeling is dus in beginsel van toepassing op de positieve voordelen uit hoofde van de deelneming, die toerekenbaar zijn aan het lichaam dat de buitenlandse onderneming voortzet. Ook hierbij is niet van belang of de positieve voordelen uit hoofde van de deelneming, die toerekenbaar zijn aan het lichaam dat de buitenlandse onderneming voortzet, toerekenbaar zijn aan de voortgezette buitenlandse onderneming dan wel aan andere activiteiten van het lichaam. Belastingplichtige kan echter een beroep doen op toepassing van de hardheidsclausule ingeval belastingplichtige: 
+In [artikel 13c, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)<sup> 1 In werking getreden op 9 maart 2007 (Wet van 17 februari 2007, Stb. 84). </sup>is een regeling getroffen waardoor artikel 13c Wet Vpb ook van toepassing is ingeval de aandelen van het lichaam, waarin de buitenlandse onderneming (vaste inrichting) wordt voortgezet, niet direct in het bezit zijn van de belastingplichtige, maar indirect via een deelneming. Ook hierbij heeft de wetgever aangesloten bij de positieve voordelen uit hoofde van die deelneming; de regeling geldt echter niet voor zover aannemelijk is dat het positieve voordeel uit hoofde van de deelneming niet toerekenbaar is aan het lichaam dat de buitenlandse onderneming voortzet. De regeling is dus in beginsel van toepassing op de positieve voordelen uit hoofde van de deelneming, die toerekenbaar zijn aan het lichaam dat de buitenlandse onderneming voortzet. Ook hierbij is niet van belang of de positieve voordelen uit hoofde van de deelneming, die toerekenbaar zijn aan het lichaam dat de buitenlandse onderneming voortzet, toerekenbaar zijn aan de voortgezette buitenlandse onderneming dan wel aan andere activiteiten van het lichaam. Belastingplichtige kan echter een beroep doen op toepassing van de hardheidsclausule ingeval belastingplichtige: 
 
 – aannemelijk maakt dat toepassing van [artikel 13c Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) leidt tot kennelijke onredelijkheid, en  
 
@@ -372,12 +372,12 @@ In [artikel 13c, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/venn
 [Artikel 13ca van de Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) is met ingang van 1 januari 2006 vervallen. Indien met betrekking tot een deelneming een afwaarderingsverlies als bedoeld in artikel 13ca van de Wet Vpb in aanmerking is genomen, blijven de daarop betrekking hebbende bepalingen zoals deze op 31 december 2005 luidden van toepassing. Het gaat dan met name om de bepalingen op grond waarvan de afwaardering moet worden teruggenomen: zie de in [artikel V van de Wet van 15 december 2005](../../../../../../../../wet/wet/vpb-pakket/2006/BWBR0019287/README.md), *Stb.* 2005, 684 (Wet Vpb-pakket 2006) opgenomen overgangsregeling. In dit besluit wordt met een verwijzing naar artikel 13ca deze overgangsregeling bedoeld.   
 ### 4.2.1. t/m 4.2.4  
 
-#### Artikel 13ca, eerste t/m vierde lid, Wet Vpb 
+####[Artikel 13ca, eerste t/m vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 4.2.5  
 
-#### [Artikel 13ca, vijfde lid (tot 9 december 2005 vierde lid, Wet Vpb)](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13ca, vijfde lid (tot 9 december 2005 vierde lid, Wet Vpb)](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 4.2.5.1  
 
@@ -391,14 +391,14 @@ Op grond van [artikel 13ca, vijfde lid, slotzin, Wet Vpb](../../../../../../../.
 Een belastingplichtige mag bij ontbinding van een met toepassing van [artikel 13ca Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) afgewaardeerde deelneming de toevoeging aan de winst (op grond van artikel 13ca, vijfde lid, Wet Vpb) niet uitstellen tot het jaar waarin met betrekking tot de deelneming het liquidatieverlies wordt genomen. Uit de tekst van [artikel 13ca, vijfde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) blijkt door de woordkeuze duidelijk dat de wetgever in dat artikel geen aansluiting heeft gezocht bij de systematiek van de liquidatieverliesregeling in [artikel 13d Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md). Bovendien staat bij ontbinding niet vast dat te zijner tijd een liquidatieverlies kan/mag worden genomen. De werking van bijvoorbeeld artikel 13d, negende lid, Wet Vpb kan dit belemmeren.       
 ### 5  
 
-#### [Artikel 13d Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13d Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ####Inleiding
 
 Op grond van [artikel 13, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) blijven bij het bepalen van de winst buiten aanmerking voordelen uit hoofde van een deelneming (deelnemingsvrijstelling). Dit betekent dat waardestijgingen en ook waardedalingen van een aandelenpakket, waarop de deelnemingsvrijstelling van toepassing is, de winst niet beïnvloeden. In afwijking van de hoofdregel van [artikel 13, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) is voor liquidatieverliezen in [artikel 13d Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) een bijzondere regeling getroffen. [Artikel 13d, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bepaalt dat de deelnemingsvrijstelling geen toepassing vindt ten aanzien van een verlies op een deelneming dat tot uitdrukking komt nadat het lichaam waarin de belastingplichtige een deelneming heeft, is ontbonden (liquidatieverlies). De omvang van het liquidatieverlies wordt vastgesteld op het bedrag dat de belastingplichtige voor de deelneming heeft opgeofferd minus de liquidatie-uitkeringen. Artikel 13d bevat een aantal bepalingen hoe het liquidatieverlies moet worden berekend (leden 2 t/m 8). In het negende lid is bepaald op welk tijdstip het liquidatieverlies in aanmerking wordt genomen.    
 ### 5.1  
 
-#### [Artikel 13d, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13d, eerste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 5.1.1  
 
@@ -415,21 +415,21 @@ Ingevolge [artikel 13d Wet Vpb](../../../../../../../../wet/wet/op/de/vennootsch
 Ik keur goed dat vorenbedoelde twee gevallen worden beschouwd als een liquidatie in de zin van [artikel 13d Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), zodat de liquidatieverliesregeling van artikel 13d Wet Vpb overeenkomstige toepassing kan vinden. In andere situaties waarin de deelneming niet formeel is ontbonden of kan worden ontbonden, maar waarbij een toestand is ingetreden die materieel gelijk staat met een formele liquidatie, kan de belanghebbende een verzoek aan het ministerie richten. Daar zal per geval worden bezien of er aanleiding is tot toepassing van [artikel 63 van de AWR](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). Voor de volledigheid verwijs ik naar de in punt 5.9.1 getroffen regeling bij langlopende liquidaties, waarbij wel ontbinding plaatsvindt maar de vereffening lang duurt.     
 ### 5.2  
 
-#### [Artikel 13d, tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13d, tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
-### 5.2.1.  
+### 5.2.1.   
 
 ####Opgeofferd bedrag; bonusaandelen
 
 Indien een houdster van een deelneming uit de winst van de dochter waarin een deelneming wordt gehouden een bonusaandeel ontvangt, heeft dit geen effect op het voor de deelneming opgeofferde bedrag. Het maakt daarbij geen verschil of de uitgifte van het bonusaandeel geput wordt uit nieuwe winstreserves dan wel reserves die reeds bestonden ten tijde van de verwerving van de deelneming (meegekocht dividend). Hoewel bij de dochtermaatschappij een verschuiving plaatsvindt van winstreserves naar kapitaal/agio, kan niet gezegd worden dat de moedermaatschappij ter gelegenheid van de uitgifte van de winstbonusaandelen iets opoffert.     
 ### 5.3  
 
-#### [Artikel 13d, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13d, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 5.4  
 
-#### [Artikel 13d, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13d, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 5.4.1  
 
@@ -441,12 +441,12 @@ Het bepaalde in [artikel 13d, vierde lid, Wet Vpb](../../../../../../../../wet/w
 Belastingplichtige houdt alle aandelen in tussenhoudster TH. TH houdt alle aandelen in deelneming D. De aandelen in D worden ingebracht in een nieuw opgerichte vennootschap, waarvan TH alle aandelen houdt. Enkele jaren later worden achtereenvolgens D en TH geliquideerd. Bij liquidatie van TH dient de waardedaling van de aandelen D die zich heeft voorgedaan in de periode dat TH de aandelen in D hield in aanmerking te worden genomen. Dit betekent dat het liquidatieverlies in TH slechts in aanmerking wordt genomen voor zover dit verlies het bedrag van de waardedaling in D te boven gaat. De omstandigheid dat D na de verhanging middellijk behoort tot het vermogen van TH en wordt geliquideerd voordat TH wordt geliquideerd, betekent niet dat met deze waardedaling geen rekening hoeft te worden gehouden. [Artikel 13d, vierde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) wil bewerkstelligen dat per saldo alleen de eigen verliezen van TH bijdragen aan de omvang van het liquidatieverlies van belastingplichtige in TH. Een deelnemingsverlies van TH wordt door de werking van de deelnemingsvrijstelling niet als eigen verlies aangemerkt. Het gaat daarbij om het verlies dat door TH op D wordt geleden sedert de verkrijging door belastingplichtige van de deelneming in TH. Uit de tekst van [artikel 13d, vierde lid](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), blijkt dat bepalend is of tot het vermogen van het ontbonden lichaam (TH) een deelneming (D) heeft behoord die is vervreemd en die in waarde is gedaald. De deelneming D is door TH vervreemd aan de tot het concern behorende vennootschap. Hieraan doet niet af dat na de vervreemding deelneming D middellijk behoort tot het vermogen van TH en evenmin dat D na de vervreemding (en voorafgaande aan de liquidatie van TH) wordt geliquideerd. Een andere redenering zou in strijd komen met doel en strekking van artikel 13d, vierde lid, Wet Vpb (voorkomen dubbele verliesverrekening).     
 ### 5.5. t/m 5.8  
 
-#### Artikel 13d, vijfde t/m achtste lid, Wet Vpb 
+####[Artikel 13d, vijfde t/m achtste lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 5.9  
 
-#### [Artikel 13d, negende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13d, negende lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 Het negende lid van [artikel 13d Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bepaalt dat het liquidatieverlies eerst op het tijdstip waarop de vereffening is voltooid in aanmerking wordt genomen, mits wordt voldaan aan een aantal wettelijke vereisten. De keuze voor het tijdstip waarop de vereffening is voltooid wordt in de parlementaire behandeling nog nader gemotiveerd: 
 
@@ -506,52 +506,52 @@ In een concreet geval heb ik evenwel, vanwege de daarbij spelende feiten en omst
 – voorafgaand aan deze vervreemding zijn de aandelen in de voortzettende vennootschap en de andere concernvennootschappen niet binnen concern verhangen.   Als zich een situatie voordoet die vergelijkbaar is met het hiervoor omschreven geval, kan een verzoek om toepassing van artikel 63 AWR worden gericht aan het ministerie van Financiën, Directoraat-Generaal Belastingdienst.       
 ### 6  
 
-#### [Artikel 13e Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13e Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 7  
 
-#### [Artikel 13h Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13h Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 8  
 
-#### [Artikel 13i Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13i Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 9  
 
-#### [Artikel 13j Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13j Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 10  
 
-#### [Artikel 13k Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 13k Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 11  
 
-#### [Artikel 23c Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 23c Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 11.1. en 11.2  
 
-#### Artikel 23c, eerste en tweede lid, Wet Vpb 
+####[Artikel 23c, eerste en tweede lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 –    
 ### 11.3  
 
-#### [Artikel 23c, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+####[Artikel 23c, derde lid, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)
 
 ### 11.3.1  
 
 ####Deelnemingsverrekening. Rechtsvorm; moeder/dochterrichtlijn; Verenigd Koninkrijk en Gemenebestlanden
 
-Ten aanzien van het Verenigd Koninkrijk moet onderscheid worden gemaakt tussen gebiedsdelen die behoren tot de Europese Unie en die behoren tot het Gemenebest. Tot de eerstgenoemde categorie behoort bijvoorbeeld Gibraltar. Ingevolge de toetredingsakte van het Verenigd Koninkrijk tot de Europese Gemeenschappen (Pb EG L73 van 27 maart 1972) en artikel 355 VwEU behoort Gibraltar tot de Europese Unie. Een limited opgericht naar het recht van Gibraltar wordt geacht te zijn opgericht naar Brits recht. De rechtsvorm valt dan onder de vennootschappen naar Brits recht, die op de bij de richtlijn behorende bijlage zijn vermeld. <sup> 2  Vennootschappen naar Brits recht zijn eveneens opgenomen in de door richtlijn 2003/123/EG gewijzigde bijlage.  </sup> Dit heeft tot gevolg deze Gibraltar-limited een rechtsvorm is zoals opgenomen in de bijlage bij de moeder/dochterrichtlijn (Richtlijn 90/435/EEG), zodat wordt voldaan aan [artikel 23c, derde lid, ten eerste, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md). Voor het van toepassing kunnen zijn van artikel 23c, derde lid, ten eerste, Wet Vpb dient uiteraard ook aan de overige voorwaarden te zijn voldaan. De Turks and Caicos Islands zijn een voorbeeld van een gebiedsdeel dat behoort tot het Britse Gemenebest, maar geen onderdeel zijn van het Verenigd Koninkrijk; evenmin is sprake van een vennootschap opgericht naar Brits recht. Een limited die is opgericht naar het recht van de Turks and Caicos Islands valt niet onder de vennootschappen naar Brits recht, die op de bij de richtlijn behorende bijlage zijn vermeld. Dit betekent dat bij een Turks and Caicos-limited geen sprake is van een rechtsvorm zoals opgenomen in de bijlage bij de moeder/dochterrichtlijn (Richtlijn 90/435/EEG), zodat niet wordt voldaan aan [artikel 23c, derde lid, ten eerste, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).      
+Ten aanzien van het Verenigd Koninkrijk moet onderscheid worden gemaakt tussen gebiedsdelen die behoren tot de Europese Unie en die behoren tot het Gemenebest. Tot de eerstgenoemde categorie behoort bijvoorbeeld Gibraltar. Ingevolge de toetredingsakte van het Verenigd Koninkrijk tot de Europese Gemeenschappen (Pb EG L73 van 27 maart 1972) en artikel 355 VwEU behoort Gibraltar tot de Europese Unie. Een limited opgericht naar het recht van Gibraltar wordt geacht te zijn opgericht naar Brits recht. De rechtsvorm valt dan onder de vennootschappen naar Brits recht, die op de bij de richtlijn behorende bijlage<sup> 2 Vennootschappen naar Brits recht zijn eveneens opgenomen in de door richtlijn 2003/123/EG gewijzigde bijlage. </sup>zijn vermeld. Dit heeft tot gevolg deze Gibraltar-limited een rechtsvorm is zoals opgenomen in de bijlage bij de moeder/dochterrichtlijn (Richtlijn 90/435/EEG), zodat wordt voldaan aan [artikel 23c, derde lid, ten eerste, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md). Voor het van toepassing kunnen zijn van artikel 23c, derde lid, ten eerste, Wet Vpb dient uiteraard ook aan de overige voorwaarden te zijn voldaan. De Turks and Caicos Islands zijn een voorbeeld van een gebiedsdeel dat behoort tot het Britse Gemenebest, maar geen onderdeel zijn van het Verenigd Koninkrijk; evenmin is sprake van een vennootschap opgericht naar Brits recht. Een limited die is opgericht naar het recht van de Turks and Caicos Islands valt niet onder de vennootschappen naar Brits recht, die op de bij de richtlijn behorende bijlage zijn vermeld. Dit betekent dat bij een Turks and Caicos-limited geen sprake is van een rechtsvorm zoals opgenomen in de bijlage bij de moeder/dochterrichtlijn (Richtlijn 90/435/EEG), zodat niet wordt voldaan aan [artikel 23c, derde lid, ten eerste, Wet Vpb](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).      
 ### 12  
 
 ####Ingetrokken regeling(en)
 
-Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit: [Besluit van 26 februari 2008](../../../../../../../../beleidsregel/vennootschapsbelasting/deelnemingsvrijstelling;/standpunten/over/de/etc/BWBR0023591/README.md), nr. CPP2008/257M.    
+Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit: [Besluit van 26 februari 2008](../../../../../../../../beleidsregel/vennootschapsbelasting/deelnemingsvrijstelling;/standpunten/over/de/etc/BWBR0023591/README.md), nr. CPP2008/257M.   
 ### 13  
 
 ####Inwerkingtreding (en vervaldatum)
@@ -562,5 +562,5 @@ Den Haag
 12 juli 2010   
 
 De 
-minister van Financiën,
-J.C. deJager   
+minister van Financiën, 
+J.C. de Jager     

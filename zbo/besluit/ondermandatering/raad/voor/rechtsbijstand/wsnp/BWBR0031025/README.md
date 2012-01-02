@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Aan de medewerkers van de Raad voor Rechtsbijstand in de functie van stafmedewerker [Wsnp](../../../../../../../../wet/wet/schuldsaneringsregeling/natuurlijke/personen/BWBR0009730/README.md) en administratief medewerkers Wsnp wordt ondermandaat verleend als bedoeld in [artikel 1, sub a](../../../../../../../../ministeriele-regeling/regeling/verlening/mandaat/raad/voor/rechtsbijstand/betreffende/verlenen/etc/BWBR0026208/README.md) en [artikel 3, eerste lid van de Regeling](../../../../../../../../ministeriele-regeling/regeling/verlening/mandaat/raad/voor/rechtsbijstand/betreffende/verlenen/etc/BWBR0026208/README.md).  
+Aan de medewerkers van de Raad voor Rechtsbijstand in de functie van stafmedewerker [Wsnp](../../../../../../../../wet/wet/schuldsaneringsregeling/natuurlijke/personen/BWBR0009730/README.md) en administratief medewerkers Wsnp wordt ondermandaat verleend als bedoeld in [artikel 1, sub a](../../../../../../../../ministeriele-regeling/regeling/verlening/mandaat/raad/voor/rechtsbijstand/betreffende/verlenen/etc/BWBR0026208/README.md) en [artikel 3, eerste lid van de Regeling](../../../../../../../../ministeriele-regeling/regeling/verlening/mandaat/raad/voor/rechtsbijstand/betreffende/verlenen/etc/BWBR0026208/README.md). 
 
 ### Artikel  2  
 
@@ -16,19 +16,19 @@ De in [artikel 3 tweede lid van de Regeling](../../../../../../../../ministeriel
 
 1. De manager [Wet schuldsanering natuurlijke personen](../../../../../../../../wet/wet/schuldsaneringsregeling/natuurlijke/personen/BWBR0009730/README.md) (Wsnp) beslist op bezwaarschriften. Indien het besluit in primo is genomen door de manager Wnsp, dan wordt het besluit op het bezwaarschrift genomen door het bestuur van de Raad voor Rechtsbijstand.  
 
-2. Aan de stafmedewerkers [Wsnp](../../../../../../../../wet/wet/schuldsaneringsregeling/natuurlijke/personen/BWBR0009730/README.md) wordt ondermandaat verleend als bedoeld in [artikel 3, tweede lid van de Regeling](../../../../../../../../ministeriele-regeling/regeling/verlening/mandaat/raad/voor/rechtsbijstand/betreffende/verlenen/etc/BWBR0026208/README.md).    
+2. Aan de stafmedewerkers [Wsnp](../../../../../../../../wet/wet/schuldsaneringsregeling/natuurlijke/personen/BWBR0009730/README.md) wordt ondermandaat verleend als bedoeld in [artikel 3, tweede lid van de Regeling](../../../../../../../../ministeriele-regeling/regeling/verlening/mandaat/raad/voor/rechtsbijstand/betreffende/verlenen/etc/BWBR0026208/README.md).   
 
 ### Artikel  3  
 
-Dit besluit is vastgesteld door het bestuur van de Raad voor Rechtsbijstand. Eventuele wijzigingen behoeven de instemming van het bestuur.  
+Dit besluit is vastgesteld door het bestuur van de Raad voor Rechtsbijstand. Eventuele wijzigingen behoeven de instemming van het bestuur. 
 
 ### Artikel  4  
 
-Dit besluit wordt gepubliceerd in de Staatscourant en via de internetsite van de Raad voor Rechtsbijstand, www.wsnp.rvr.org, en treedt met terugwerkende kracht in werking op 23 juli 2009 en vervangt alle bestaande regionale reglementen die betrekking hebben op dit terrein.  
+Dit besluit wordt gepubliceerd in de Staatscourant en via de internetsite van de Raad voor Rechtsbijstand, www.wsnp.rvr.org, en treedt met terugwerkende kracht in werking op 23 juli 2009 en vervangt alle bestaande regionale reglementen die betrekking hebben op dit terrein. 
 
 ### Artikel  5  
 
-Deze regeling kan worden aangehaald als het ‘Besluit ondermandatering Raad voor Rechtsbijstand Wsnp’.  
+Deze regeling kan worden aangehaald als het ‘Besluit ondermandatering Raad voor Rechtsbijstand Wsnp’. 
 
 Utrecht 
 20 december 2011   
