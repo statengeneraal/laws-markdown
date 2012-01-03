@@ -166,7 +166,7 @@ b. bijkomende straffen:
 2°. verbeurdverklaring;  
 
 3°. openbaarmaking van de rechterlijke uitspraak.       
-2.  Ten aanzien van misdrijven die worden bedreigd met een vrijheidsstraf of een geldboete of ten aanzien van overtredingen die worden bedreigd met een vrijheidsstraf kan in plaats daarvan een taakstraf worden opgelegd. Een taakstraf bestaat uit een werkstraf, zijnde het verrichten van onbetaalde arbeid, of een leerstraf, zijnde het volgen van een leerproject, of een combinatie van beide.   
+2.  Ten aanzien van misdrijven die worden bedreigd met een vrijheidsstraf of een geldboete of ten aanzien van overtredingen die worden bedreigd met een vrijheidsstraf kan, behoudens in bij de wet bepaalde gevallen, in plaats daarvan een taakstraf worden opgelegd. Een taakstraf bestaat uit een werkstraf, zijnde het verrichten van onbetaalde arbeid, of een leerstraf, zijnde het volgen van een leerproject, of een combinatie van beide.   
 3.  In het geval gevangenisstraf, hechtenis, vervangende hechtenis daaronder niet begrepen, of een taakstraf wordt opgelegd, kan tevens een geldboete worden opgelegd.   
 4.  In geval van veroordeling tot gevangenisstraf of tot hechtenis, vervangende hechtenis daaronder niet begrepen, waarvan het onvoorwaardelijk ten uitvoer te leggen deel ten hoogste zes maanden bedraagt, kan de rechter tevens een taakstraf opleggen.   
 5.  Een bijkomende straf kan, in de gevallen waarin de wet haar oplegging toelaat, zowel afzonderlijk als te zamen met hoofdstraffen en met andere bijkomende straffen worden opgelegd.   
@@ -267,12 +267,12 @@ b. de veroordeelde, voor zover aan de toepassing van artikel 14a bijzondere voor
 
 ### Artikel  14g  
 
-1.  Indien enige gestelde voorwaarde niet wordt nageleefd kan de rechter, indien hij daartoe termen vindt, na ontvangst van een vordering van het openbaar ministerie en onverminderd het bepaalde in artikel 14 *f*, 
+1.  Indien enige gestelde voorwaarde niet wordt nageleefd kan de rechter, indien hij daartoe termen vindt, na ontvangst van een vordering van het openbaar ministerie en onverminderd het bepaalde in artikel 14f, 
 
 1°. gelasten dat de niet ten uitvoergelegde straf alsnog zal worden tenuitvoergelegd;  
 
 2°. al of niet onder instandhouding of wijziging van de voorwaarden gelasten dat een gedeelte van de niet tenuitvoergelegde straf alsnog zal worden tenuitvoergelegd.     
-2.  In plaats van een last tot tenuitvoerlegging van een vrijheidsstraf te geven kan de rechter een taakstraf als bedoeld in artikel 9, eerste lid, onderdeel a, onder 3°, gelasten. De artikelen 22c tot en met 22k zijn van overeenkomstige toepassing.   
+2.  In plaats van een last tot tenuitvoerlegging van een vrijheidsstraf te geven kan de rechter een taakstraf als bedoeld in artikel 9, eerste lid, onderdeel a, onder 3°, gelasten. De artikelen 22b tot en met 22k zijn van overeenkomstige toepassing.   
 3.  Tot behandeling van de vordering is bevoegd de rechter die de straf heeft opgelegd. Indien de veroordeelde wordt vervolgd wegens een strafbaar feit, begaan voor het einde van de proeftijd, is tot behandeling van de vordering bevoegd: 
 
 a. de rechtbank, indien deze bevoegd is tot kennisneming in eerste aanleg van het feit,  
@@ -458,6 +458,20 @@ De duur van de tijdelijke gevangenisstraf en de hechtenis wordt in de rechterlij
 
 Het hoofd van het Departement van Justitie is bevoegd in bijzondere omstandigheden in het belang van de veiligheid van de staat te bepalen, dat vrijheidsstraffen buiten het Rijk in Europa ten uitvoer worden gelegd.  
 
+### Artikel  22b  
+
+1.  Een taakstraf wordt niet opgelegd in geval van veroordeling voor: 
+
+a. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad;  
+
+b. een van de misdrijven omschreven in de artikelen 181, 240b, 248a, 248b, 248c en 250.     
+2.  Een taakstraf wordt voorts niet opgelegd in geval van veroordeling voor een misdrijf indien: 
+
+1° aan de veroordeelde in de vijf jaren voorafgaand aan het door hem begane feit wegens een soortgelijk misdrijf een taakstraf is opgelegd, en  
+
+2° de veroordeelde deze taakstraf heeft verricht dan wel op grond van artikel 22g de tenuitvoerlegging van de vervangende hechtenis is bevolen.     
+3.  Van het eerste en tweede lid kan worden afgeweken indien naast de taakstraf een onvoorwaardelijke vrijheidsstraf of vrijheidsbenemende maatregel wordt opgelegd.   
+
 ### Artikel  22c  
 
 1.  Het vonnis dan wel de strafbeschikking vermeldt of de taakstraf bestaat uit een werkstraf, een leerstraf of een combinatie van beide, alsmede het aantal uren dat de straf zal duren. Het vonnis dan wel de strafbeschikking kan de aard van de te verrichten werkzaamheden of het te volgen leerproject vermelden.   
@@ -484,7 +498,7 @@ Over de wijze waarop de taakstraf wordt of is verricht, kan het openbaar ministe
 
 ### Artikel  22g  
 
-1.  Indien de tot een taakstraf veroordeelde niet aanvangt met de taakstraf, geen medewerking verleent aan het vaststellen van zijn identiteit of het openbaar ministerie van oordeel is dat de veroordeelde de opgelegde taakstraf niet naar behoren verricht of heeft verricht, kan het openbaar ministerie de tenuitvoerlegging van de vervangende hechtenis bevelen. Het openbaar ministerie geeft hiervan kennis aan de veroordeelde.   
+1.  Indien de tot een taakstraf veroordeelde niet aanvangt met de taakstraf, geen medewerking verleent aan het vaststellen van zijn identiteit of het openbaar ministerie van oordeel is dat de veroordeelde de opgelegde taakstraf niet naar behoren verricht of heeft verricht, wordt vervangende hechtenis toegepast, tenzij dit wegens uitzonderlijke omstandigheden die zich na het opleggen van de taakstraf hebben voorgedaan, zou leiden tot een onbillijkheid van zwaarwegende aard. Het openbaar ministerie geeft hiervan kennis aan de veroordeelde.   
 2.  Het openbaar ministerie doet deze kennisgeving zo spoedig mogelijk aan de veroordeelde betekenen. De kennisgeving behelst het aantal uren taakstraf dat naar het oordeel van het openbaar ministerie is verricht, alsmede het aantal dagen vervangende hechtenis.   
 3.  Tegen de kennisgeving, bedoeld in het tweede lid, kan de veroordeelde binnen veertien dagen na de betekening daarvan een bezwaarschrift indienen bij de rechter die de straf oplegde. De rechter kan de beslissing van het openbaar ministerie wijzigen.   
 
@@ -1308,7 +1322,7 @@ e. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakt
 
 f. het verrichten van onbetaalde arbeid of het volgen van een leerproject gedurende ten hoogste honderdtwintig uren.     
 3.  De officier van justitie doet in geval van misdrijf aan de rechtstreeks belanghebbende die hem bekend is, onverwijld schriftelijk mededeling van de datum waarop hij die voorwaarden heeft gesteld.   
-4.  Op de in het tweede lid, onder f, bedoelde voorwaarde is het bepaalde bij of krachtens de artikelen 22c, eerste en vierde lid, 22e en 22k met betrekking tot taakstraffen, van overeenkomstige toepassing. De onbetaalde arbeid of het leerproject wordt binnen een termijn van zes maanden na instemming met de voorwaarde voltooid. Het openbaar ministerie kan deze termijn eenmaal met zes maanden verlengen. Het zendt hiervan zo spoedig mogelijk een kennisgeving aan de betrokkene.   
+4.  Op de in het tweede lid, onder f, bedoelde voorwaarde is het bepaalde bij of krachtens de artikelen 22b, 22c, eerste en vierde lid, 22e en 22k met betrekking tot taakstraffen, van overeenkomstige toepassing. De onbetaalde arbeid of het leerproject wordt binnen een termijn van zes maanden na instemming met de voorwaarde voltooid. Het openbaar ministerie kan deze termijn eenmaal met zes maanden verlengen. Het zendt hiervan zo spoedig mogelijk een kennisgeving aan de betrokkene.   
 5.  Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de nakoming van de voorwaarde, bedoeld in het tweede lid, onderdeel a. Deze voorschriften hebben in ieder geval betrekking op de plaats en wijze van betaling van de geldsom, de termijn waarbinnen die betaling moet zijn geschied en de verantwoording van de ontvangen geldbedragen. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de nakoming van de overige in het tweede lid bedoelde voorwaarden.   
 
 ### Artikel  74a  
@@ -2949,7 +2963,7 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 ### Artikel  197  
 
-Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige reden heeft te vermoeden, dat hij op grond van een wettelijk voorschrift tot ongewenste vreemdeling is verklaard, wordt gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.  
+Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige reden heeft te vermoeden, dat hij op grond van een wettelijk voorschrift tot ongewenste vreemdeling is verklaard of tegen hem een inreisverbod is uitgevaardigd met toepassing van [artikel 66a, zevende lid, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.  
 
 ### Artikel  197a  
 
