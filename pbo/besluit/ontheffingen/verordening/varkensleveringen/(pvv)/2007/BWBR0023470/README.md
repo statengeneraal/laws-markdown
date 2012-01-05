@@ -9,7 +9,7 @@ Besluit:
 ### Artikel  1  
 
 1.  Dit besluit neemt de definities van de [Verordening varkensleveringen (PVV) 2007](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) over.   
-2.  Voorts wordt verstaan onder: verordening : [Verordening varkensleveringen (PVV) 2007](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md).   
+2.  Voorts wordt verstaan onder: verordening : [Verordening varkensleveringen (PVV) 2007](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md).  
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ c. De ontheffing is geldig tot negen maanden nadat de eerste extra levering heef
 
 d. De zeugen worden aangevoerd van één extra A-, C-, E- of buitenlands bedrijf;  
 
-e. Dezelfde ontheffing mag binnen twee jaar niet weer aangevraagd worden.     
+e. Dezelfde ontheffing mag binnen twee jaar niet weer aangevraagd worden.    
 
 ### Artikel  3  
 
@@ -38,7 +38,7 @@ De voorzitter kan, op schriftelijk verzoek, namens het bestuur een ontheffing va
 
 a. de ontheffingsaanvraag vergezeld is gegaan van een verklaring van een fokkerijgroepering die de voorgenomen ophoging van de gezondheidsstatus van het bedrijf bevestigt;  
 
-b. in de ontheffingsaanvraag aangegeven wordt op welk wijze de Specified Pathogen Free-status bereikt wordt en wanneer en hoe de ontruiming en herbevolking van het bedrijf georganiseerd is.    
+b. in de ontheffingsaanvraag aangegeven wordt op welk wijze de Specified Pathogen Free-status bereikt wordt en wanneer en hoe de ontruiming en herbevolking van het bedrijf georganiseerd is.   
 
 ### Artikel  4  
 
@@ -47,7 +47,7 @@ b. in de ontheffingsaanvraag aangegeven wordt op welk wijze de Specified Pathoge
 
 a. Het D-bedrijf moet met name bij de fokgelten die teruggeleverd worden aan het B-bedrijf maandelijks bloedonderzoek laten doen op klassieke varkenspest en de ziekte van Aujeszky;  
 
-b. De ontheffing wordt verleend voor de periode van een jaar en moet ieder jaar opnieuw aangevraagd worden.     
+b. De ontheffing wordt verleend voor de periode van een jaar en moet ieder jaar opnieuw aangevraagd worden.    
 
 ### Artikel  5  
 
@@ -64,7 +64,7 @@ d. Uiterlijk twee weken vóór de datum waarop de varkens worden afgevoerd zijn 
 
 e. Na aflevering van de laatste zeugen, stuurt de ondernemer het productschap een afschrift van de brief aan de Dienst Regelingen waarin hij aangeeft te zijn gestopt met het houden van varkens;  
 
-f. Voor het bedrijf wat de zeugen ontvangt geldt dat gedurende de periode dat de zeugen van het stoppende bedrijf worden aangevoerd, geen varkens van andere bedrijven aangevoerd mogen worden.     
+f. Voor het bedrijf wat de zeugen ontvangt geldt dat gedurende de periode dat de zeugen van het stoppende bedrijf worden aangevoerd, geen varkens van andere bedrijven aangevoerd mogen worden.    
 
 ### Artikel  6  
 
@@ -79,7 +79,7 @@ c. Zes weken voorafgaand aan het afvoeren zijn geen varkens op het varkenshouder
 
 d. Uiterlijk twee weken vóór de datum waarop de varkens worden afgevoerd zijn bij een door een dierenarts uitgevoerd serologisch onderzoek op ten minste twaalf op het varkenshouderijbedrijf aanwezige zeugen geen antilichamen tegen klassieke varkenspest of gE-antilichamen tegen de ziekte van Aujeszky aangetroffen;  
 
-e. Voor het bedrijf wat de zeugen ontvangt geldt dat gedurende de periode dat de zeugen van het stoppende bedrijf worden aangevoerd, er geen varkens van andere bedrijven aangevoerd mogen worden.     
+e. Voor het bedrijf wat de zeugen ontvangt geldt dat gedurende de periode dat de zeugen van het stoppende bedrijf worden aangevoerd, er geen varkens van andere bedrijven aangevoerd mogen worden.    
 
 ### Artikel  7  
 
@@ -88,15 +88,26 @@ e. Voor het bedrijf wat de zeugen ontvangt geldt dat gedurende de periode dat de
 
 a. Op de tijdelijke locatie vindt geen aan- en afvoer plaats van varkens van en naar andere bedrijven;  
 
-b. Varkens die afkomstig zijn van de locatie waar verbouwd wordt en die gehuisvest zijn op de tijdelijke locatie, mogen uitsluitend worden afgevoerd naar het oorspronkelijke herkomstbedrijf.     
+b. Varkens die afkomstig zijn van de locatie waar verbouwd wordt en die gehuisvest zijn op de tijdelijke locatie, mogen uitsluitend worden afgevoerd naar het oorspronkelijke herkomstbedrijf.    
 
-### Artikel  7a  
+###Artikel 7a 
 
-De voorzitter kan, op schriftelijk verzoek, namens het bestuur een ontheffing van het bepaalde in [artikel 9](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) en [artikel 13, zesde lid, van de verordening](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) verlenen aan een ondernemer met een varkenshouderijbedrijf met een B-bedrijf, indien dit B-bedrijf aan ten hoogste twee F-bedrijven varkens leveren wil.  
+De voorzitter kan, op schriftelijk verzoek, namens het bestuur een ontheffing van het bepaalde in [artikel 9](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) en [artikel 13, zesde lid, van de verordening](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) verlenen aan een ondernemer met een varkenshouderijbedrijf met een B-bedrijf, indien dit B-bedrijf aan ten hoogste twee F-bedrijven varkens leveren wil.
 
-### Artikel  7b  
+###Artikel 7b 
 
-De voorzitter kan, op schriftelijk verzoek, namens het bestuur een ontheffing verlenen van het gestelde in [artikel 9](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) en [artikel 12, derde lid](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), [artikel 13, vierde lid](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) en [artikel 14, vijfde lid](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), in het geval dat binnen twaalf maanden na wijziging van het adres waarvan de varkens worden aangevoerd, andermaal een ander adres wordt gekozen voor de aanlevering van de varkens, indien en voor zover dit laatste adres het oorspronkelijke adres is, waarvan de varkens werden aangevoerd.  
+De voorzitter kan, op schriftelijk verzoek, namens het bestuur een ontheffing verlenen van het gestelde in [artikel 9](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) en [artikel 12, derde lid](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), [artikel 13, vierde lid](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) en [artikel 14, vijfde lid](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), in het geval dat binnen twaalf maanden na wijziging van het adres waarvan de varkens worden aangevoerd, andermaal een ander adres wordt gekozen voor de aanlevering van de varkens, indien en voor zover dit laatste adres het oorspronkelijke adres is, waarvan de varkens werden aangevoerd.
+
+###Artikel 7c 
+
+1. De voorzitter kan, op schriftelijk verzoek, namens het bestuur een ontheffing van het bepaalde in [artikel 9 van de verordening](../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) verlenen aan een ondernemer met een B-bedrijf, die reeds speenbiggen levert aan een F-bedrijf, en die tevens varkens wil gaan leveren aan D-bedrijven.
+2. Aan de in het vorige lid bedoelde ontheffing zijn de volgende voorwaarden verbonden:
+
+a.Gedurende de looptijd van de ontheffing mogen het B-bedrijf en het F-bedrijf tezamen in een periode van zes weken slechts varkens afvoeren naar ten hoogste zes D-bedrijven en in een periode van vier maanden naar ten hoogste twaalf D-bedrijven;
+
+b.Alvorens de ontheffing wordt verleend dient de ondernemer met het B-bedrijf de voorzitter er van in kennis te stellen aan hoeveel D-bedrijven varkens worden geleverd door het B-bedrijf en aan hoeveel D-bedrijven varkens worden geleverd door het F-bedrijf. Gedurende de looptijd van de ontheffing kan deze verdeling niet worden gewijzigd;
+
+c.De ontheffing wordt verleend voor een periode van ten hoogste één jaar.
 
 ### Artikel  8  
 
@@ -110,12 +121,12 @@ c. Reden waarom ontheffing wordt aangevraagd;
 
 d. Eventuele benodigde bescheiden.  
 
-e. Ontheffingsperiode.     
+e. Ontheffingsperiode.    
 
 ### Artikel  9  
 
 1.  Dit besluit wordt aangehaald als: Besluit ontheffingen Verordening varkensleveringen (PVV) 2007.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 12 december 2007   

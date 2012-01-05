@@ -346,7 +346,7 @@ b. een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 ####Toeslag partner
 
 1.  Aan een studerende met een partner die financieel van hem afhankelijk is en die niet in aanmerking komt voor studiefinanciering, wordt een toeslag voor een partner toegekend.   
-2.  Uitsluitend als financieel afhankelijk wordt aangemerkt de partner die een toetsingsinkomen heeft dat naar de maatstaf van 1 januari 2008 minder bedraagt dan € 8 129,26 Per 1 januari 2011: € € 8.807,73 en die de verzorging heeft van een of meer kinderen die jonger zijn dan 12 jaar waarvoor op grond van de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) aanspraak op kinderbijslag bestaat. Bij de bepaling van het toetsingsinkomen van de partner is [artikel 8, derde, vijfde en zesde lid van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en artikel 3.17, derde tot en met zesde en tiende lid, van deze wet, van overeenkomstige toepassing.   
+2.  Uitsluitend als financieel afhankelijk wordt aangemerkt de partner die een toetsingsinkomen heeft dat naar de maatstaf van 1 januari 2008 minder bedraagt dan € 8 129,26 Per 1 januari 2012: € € 8.905,50 en die de verzorging heeft van een of meer kinderen die jonger zijn dan 12 jaar waarvoor op grond van de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) aanspraak op kinderbijslag bestaat. Bij de bepaling van het toetsingsinkomen van de partner is [artikel 8, derde, vijfde en zesde lid van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en artikel 3.17, derde tot en met zesde en tiende lid, van deze wet, van overeenkomstige toepassing.   
 3.  Het bedrag, bedoeld in het eerste lid, is opgenomen in artikel 3.18.   
 4.  [Artikel 9, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) is van toepassing.   
 
@@ -395,7 +395,7 @@ b. een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 
 1.  Maatstaf voor de bepaling van de veronderstelde ouderlijke bijdrage is het toetsingsinkomen van de afzonderlijke ouders van de studerende in het peiljaar.   
 2.   Vervallen.    
-3.  Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 2008 gelijk aan € 15 928,16 Per 1 januari 2011: € 17.257,51.. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven, blijkens die basisadministratie slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting of de aanvullende alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 2008 gelijk is aan € 20 199,42 Per 1 januari 2011: € 21.885,25..   
+3.  Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 2008 gelijk aan € 15 928,16 Per 1 januari 2012: € 17.449,07.. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven, blijkens die basisadministratie slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting of de aanvullende alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 2008 gelijk is aan € 20 199,42 Per 1 januari 2012: € 22.128,18..   
 4.  Het bruto kortingsbedrag op jaarbasis is 26% van het verschil tussen het toetsingsinkomen in het peiljaar en de vrije voet in het toekenningsjaar.   
 5.  Op het bruto kortingsbedrag, bedoeld in het vierde lid, worden in mindering gebracht: 
 
@@ -478,11 +478,11 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 
 ####Vordering wegens eigen inkomsten studerende
 
-1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83.   
+1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83 Per 1 januari 2012:€ 13.362,53.   
 2.   Vervallen.    
 3.  Tot het meerinkomen worden niet gerekend: 
 
-a. een uitkering op grond van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), en  
+a. een uitkering op grond van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), en  
 
 b. de studiefinanciering verstrekt op grond van deze wet en voor zover in deze inkomsten begrepen.     
 4.  Voor iedere maand dat een studerende een uitkering ontvangt in de zin van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), blijft daarvan een bedrag ter grootte van het bedrag voor een thuiswonende deelnemer, bedoeld in artikel 3.8, buiten beschouwing.   
@@ -547,13 +547,13 @@ per 1 januari 2011 tot 1 januari 2013: € 266,23.  | € 233,53
 per 1 januari 2011 tot 1 januari 2013: € 246,00.  |
 | Maximale aanvullende beurs/lening (of veronderstelde ouderlijke bijdrage)  | --- | --- |
 | a. thuiswonend  | € 206,25 
-per 1 januari 2011 tot 1 januari 2013: € 221,00.  | € 292,46 
-per 1 januari 2011 tot 1 januari 2013: € 308,40.  |
+per 1 januari 2012 tot 1 januari 2013: € 222,84.  | € 292,46 
+per 1 januari 2012 tot 1 januari 2013: € 309,40.  |
 | b. uitwonend  | € 225,17 
-per 1 januari 2011 tot 1 januari 2013: € 240,92.  | € 311,38 
-per 1 januari 2011 tot 1 januari 2013: € 328,33.  |
+per 1 januari 2012 tot 1 januari 2013: € 242,76.  | € 311,38 
+per 1 januari 2012 tot 1 januari 2013: € 329,33.  |
 | Basislening  | € 276,51 
-per 1 januari 2011 tot 1 januari 2013: € 287,54.  | € 155,89 
+per 1 januari 2012 tot 1 januari 2013: € 285,70.  | € 155,89 
 per 1 januari 2011 tot 1 januari 2013: € 164,21.  |
 | Toeslag partner  | € 529,03 
 per 1 januari 2011 tot 1 januari 2013: € 557,27.  | € 529,03 

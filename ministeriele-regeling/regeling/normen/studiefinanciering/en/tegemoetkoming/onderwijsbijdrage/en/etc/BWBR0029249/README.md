@@ -38,6 +38,10 @@ Wijzigt de Wet studiefinanciering 2000.
 
 Wijzigt de Wet studiefinanciering 2000.   
 
+### Artikel  4a  
+
+Wijzigt de Wet studiefinanciering 2000.   
+
 ### Artikel  5  
 
 ####Normbedragen
@@ -54,13 +58,8 @@ Wijzigt de Wet studiefinanciering 2000.
 
 ####Vaststelling rentepercentage voor 2011
 
-Het rentepercentage, bedoeld in [artikel 6.3, eerste lid, van de wet](../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), wordt voor het jaar 2011 vastgesteld op 1,50 procent.  
-
-### Artikel  8  
-
-####Wijziging [Regeling studiefinanciering 2000](../../../../../../../../../../ministeriele-regeling/regeling/studiefinanciering/2000/BWBR0011595/README.md): aanpassing maximale verrekenbedrag
-
-Wijzigt de Regeling studiefinanciering 2000.   
+1.  Het rentepercentage, bedoeld in [artikel 6.3, van de wet](../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), wordt voor het jaar 2011 vastgesteld op 1,50 procent.   
+2.  Het rentepercentage, bedoeld in [artikel 6.3 van de wet](../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), wordt voor het jaar 2012 vastgesteld op 1,39 procent.   
 
 ### Hoofdstuk  II  
 
@@ -89,6 +88,7 @@ b. *wet:*[Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../.
 
 1.   Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.    
 2.   Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.    
+3.   Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.    
 
 ### Artikel  12  
 
@@ -96,27 +96,9 @@ b. *wet:*[Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../.
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.   
 
-### Artikel  13  
-
-####Wijziging [Regeling tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012690/README.md): aanpassing maximale verrekenbedrag
-
-Wijzigt de Regeling tegemoetkoming onderwijsbijdrage en schoolkosten.   
-
-### Artikel  14  
-
-####Wijziging [Regeling normen onderwijsbijdrage en schoolkosten 2010](../../../../../../../../../../ministeriele-regeling/regeling/normen/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/2010/BWBR0027034/README.md)
-
-Wijzigt de Regeling normen tegemoetkoming onderwijsbijdrage en schoolkosten 2010.   
-
 ### Hoofdstuk  III  
 
 ####Slotbepalingen
-
-### Artikel  15  
-
-####Intrekking Regeling
-
-De [Regeling stimulering internationale mobiliteit volledige hoger onderwijsopleidingen 2002](../../../../../../../../../../ministeriele-regeling/regeling/stimulering/internationale/mobiliteit/volledige/hoger/etc/BWBR0011760/README.md) wordt ingetrokken.  
 
 ### Artikel  16  
 

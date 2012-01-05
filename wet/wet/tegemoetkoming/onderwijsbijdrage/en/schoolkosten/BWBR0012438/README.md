@@ -331,7 +331,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 ####Grensbedrag draagkracht
 
 1.  De tegemoetkoming in de onderwijsbijdrage en in de schoolkosten is afhankelijk van de hoogte van de op grond van [artikel 7, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) berekende draagkracht.   
-2.  Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2004–2005 bedraagt het grensbedrag € 29 882,93 Met ingang van het schooljaar 2011–2012: € 34.424,25.   
+2.  Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2004–2005 bedraagt het grensbedrag € 29 882,93 Met ingang van het schooljaar 2012–2013: € 34.806,36.   
 3.  Indien het toe te kennen bedrag per aanvrager minder bedraagt dan € 10,–, wordt de tegemoetkoming op nihil gesteld.   
 
 ### Artikel  2.25  
@@ -652,7 +652,7 @@ Artikel 4.12 is niet van toepassing met ingang van de eerste dag van de maand vo
 
 ####Langdurige afwezigheid in het niet bekostigd voortgezet onderwijs
 
-1.  Het bestuur van de rechtspersoon waarvan de school, bedoeld in de artikelen 2.9, onderdelen b, c en d, of  2.10 voor zover het betreft een school als bedoeld in [artikel 1.4a.1 van de WEB](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), uitgaat of de natuurlijke persoon die deze school in stand houdt, stelt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van 5 weken de leerling in kennis dat daarvan in de administratie van de school een aantekening is gemaakt en verzoekt de leerling om opgaaf van de reden van de afwezigheid.   
+1.  Het bestuur van de rechtspersoon waarvan de school, bedoeld in de artikelen 2.9, onderdelen b, c en d, of  2.10 voor zover het betreft een school als bedoeld in [artikel 1.4a.1 van de WEB](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), uitgaat of de natuurlijke persoon die deze school in stand houdt, stelt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van 4 weken de leerling in kennis dat daarvan in de administratie van de school een aantekening is gemaakt en verzoekt de leerling om opgaaf van de reden van de afwezigheid.   
 2.  Uiterlijk op de vijfde werkdag na de periode van 8 weken stelt het bestuur van de rechtspersoon of de natuurlijke persoon vast: 
 
 a. of de reden die de leerling binnen 8 weken na de aanvang van de periode van 5 weken gaf voor zijn afwezigheid, een geldige is, of  
@@ -1109,7 +1109,7 @@ a. hoger onderwijs: € 647,– voor de schooljaren 2011−2012 en 2012−2013:
 
 b. voortgezet onderwijs die per week 540 minuten of meer onderwijs volgt: € 276,90 voor de schooljaren 2011−2012 en 2012−2013: € 288,37,  
 
-c. voortgezet onderwijs die per week ten minste 270 minuten en minder dan 540 minuten onderwijs volgt: € 186,54 voor de schooljaren 2011−2012 en 2013: € 194,28,  
+c. voortgezet onderwijs die per week ten minste 270 minuten en minder dan 540 minuten onderwijs volgt: € 186,54 voor de schooljaren 2011−2012 en 2012-2013: € 194,28,  
 
 d. voortgezet onderwijs die per week minder dan 270 minuten onderwijs volgt: nihil.     
 4.  Bij algemene maatregel van bestuur kunnen de maatstaf genoemd in de aanhef van het derde lid, alsmede de bedragen genoemd in het derde lid, de onderdelen a tot en met c, worden gewijzigd.   

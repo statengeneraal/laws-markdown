@@ -255,65 +255,94 @@ De
 Minister van Onderwijs, Cultuur en Wetenschappen, 
 L.M.L.H.A.Hermans   
 
-####Bijlage
+### Bijlage  
 
-Tabel: Verwante opleidingen kopopleiding HBO 
+####behorende bij artikel 6a.1 
 
-| Hbo-bachelor  | Wo-bachelor  | B Opleiding tot leraar voortgezet onderwijs van de tweede graad  | Crohonr.  |
-|:---|:---|:---|:---|
-| Bedrijfseconomie,  | Bedrijfseconomie,  | Leraar economie*  | 35203  |
-| Accountancy,  | Algemene economie,  | --- | 35202  |
-| Fiscale economie,  | --- | --- | --- |
-| Commerciële economie,  | --- | --- | --- |
-| Management, Economie en Recht  | --- | --- | --- |
-| --- | Nederlands  | Leraar Nederlands  | 35198  |
-| Engels  | Leraar Engels  | 35195  |
-| Duits  | Leraar Duits  | 35193  |
-| Frans  | Leraar Frans  | 35196  |
-| Spaans  | Leraar Spaans  | 35255  |
-| Arabisch  | Leraar Arabisch  | 35185  |
-| Turks  | Leraar Turks  | 35186  |
-| Fries  | Leraar Fries  | 35144  |
-| Geografie  | Leraar aardrijkskunde  | 35201  |
-| Geschiedenis  | Leraar geschiedenis  | 35197  |
-| Bedrijfswiskunde  | Wiskunde  | Leraar wiskunde  | 35221  |
-| Technische natuurkunde  | Natuurkunde  | Leraar natuurkunde  | 35261  |
-| Industrieel ontwerpen, Werktuigbouwkunde  | Industrieel ontwerpen  | Leraar techniek  | 35254  |
-| Chemie/ Scheikunde, Applied Science met Scheikunde  | Chemie/ Scheikunde  | Leraar scheikunde  | 35199  |
-| --- | Biologie  | Leraar biologie  | 35301  |
-| Werktuigbouwkunde  | Werktuigbouwkunde  | Leraar werktuigbouw  | 35387  |
-| Elektrotechniek  | Elektrotechniek  | Leraar elektrotechniek  | 35384  |
-| Motorvoertuigen  | --- | Leraar motorvoertuigentechniek  | 35386  |
-| Bouwkunde  | Bouwkunde  | Leraar bouwkunde  | 35382  |
-| Bouwtechniek  | Bouwtechniek  | Leraar bouwtechniek  | 35383  |
-| Pedagogiek,  | Pedagogiek  | Leraar pedagogiek  | 35204  |
-| Sociaal Pedagogische Hulpverlening  | Politicologie  | Leraar maatschappijleer  | 35411  |
-| Sociaal Pedagogische Hulpverlening,  | Pedagogiek,  | Leraar omgangskunde  | 35421  |
-| Maatschappelijk Werk en Dienstverlening,  | Psychologie  | --- | --- |
-| Cultureel Maatschappelijke Vorming,  | --- | --- | --- |
-| Creatieve Therapie,  | --- | --- | --- |
-| Pedagogiek,  | --- | --- | --- |
-| Psychologie,  | --- | --- | --- |
-| Personeel en Arbeid  | --- | --- | --- |
-| Technische Informatica  Informatica  | --- | Docent informatie en communicatie technologie  | 39116  |
-| Godsdienst-pastoraal Werk  | Theologie  | Leraar godsdienst  | 35441  |
-| HBO-bachelor (alleen van het Hoger Agrarisch Onderwijs)  | WO-bachelor (alleen van de Wageningen Universiteit)  | --- | --- |
-| Plattelandsvernieuwing,  | Bos- en natuurbeheer,  | Leraar educatie en kennis-management voor de groene sector  | 34899  |
-| Landbouw,  | Milieukunde,  |
-| Plantenteelt,  | Agrotechnologie,  |
-| Veehouderij,  | Plantenwetenschappen,  |
-| Tuinbouw en akkerbouw,  | Biotechnologie,  |
-| Dier- en veehouderij,  | Landschapsarchitectuur en ruimtelijke planning,  |
-| Voedingsmiddelentechnologie,  | Landschap, planning en ontwerp,  |
-| Fooddesign en innovation,  | Dierwetenschappen,  |
-| Tuinbouw,  | Biologie,  |
-| Levensmiddelentechnologie,  | Voeding en gezondheid,  |
-| Bos- en Natuurbeheer,  | Levensmiddelentechnologie,  |
-| Tuin- en landschapsinrichting,  | Voedingsmiddelentechnologie,  |
-| Tropische Landbouw,  | Plant /Biotechnologie,  |
-| Diermanagement,  | Foodquality Management  |
-| Bedrijfskunde en agribusiness,  | --- | --- | --- |
-| Agrarische bedrijfskunde  | --- | --- | --- |
-
-* Tijdens het intakegesprek zal op basis van programmavergelijking worden vastgesteld in welke opleiding wordt ingestroomd (Algemene economie of Bedrijfseconomie). 
+| Hbo-bachelor  | Crohonummer  | Wo-bachelor  | Crohonummer  | Opleidingleraren vo 2 <sup>e</sup> graads  | Isatcode  |
+|:---|:---|:---|:---|:---|:---|
+| Bedrijfsecomonie  | 34401  | Bedrijfseconomie  | 50950  | Leraar bedrijfseconomie*  Leraar economie*  Leraar algemene economie*  * Afhankelijk van vakkenpakket  | 35203  |
+| Accountancy  | 34406  | Algemene economie  | 56401  | 35207  |
+| Fiscale economie  | 34409  | Economie  | 56401  | 35202  |
+| Commerciële economie  | 34402  | Bedrijfskunde  | 50645  | --- |
+| Management, economie, recht  | 34435  | Economie en bedrijfskunde  | 50950  |
+| --- | --- | Nederlandse taal en cultuur  | 56804/0684  | Leraar Nederlands  | 35198  |
+| --- | --- | Engelse taal en cultuur  | 56806/06806  | Leraar Engels  | 35195  |
+| --- | --- | Duitse taal en cultuur  | 56805/06805  | Leraar Duits  | 35193  |
+| --- | --- | Franse taal en cultuur  | 56808/06808  | Leraar Frans  | 35196  |
+| --- | --- | Afstudeerrichting Frans vd opl.  Romaans talen en culturen  | 56074  |
+| --- | --- | Spaanse taal en cultuur  | 56810/06810  | Leraar Spaans  | 35255  |
+| --- | --- | Talen en culturen van Latijns Amerika (Spaans)  | 56052  |
+| --- | --- | Afstudeerrichting Spaans vd opl. Romaans talen en culturen  | 56074  |
+| --- | --- | Arabische taal en cultuur  | 56040  | Leraar Arabisch  | 35185  |
+| --- | --- | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen  | 56016  |
+| --- | --- | Afstudeerrichting Turks vd opl.  Arabische, Nieuwperzische en Turkse talen en culturen  | 56016  | Leraar Turks  | 35186  |
+| --- | --- | Friese taal en cultuur  | 56012  | Leraar Fries  | 35144  |
+| --- | --- | Sociale geografie en planologie  | 56838  | Leraar aardrijkskunde  | 35197  |
+| --- | --- | Aardwetenschappen  | 56986  |
+| --- | --- | Aarde en economie  | 50668  |
+| --- | --- | Geschiedenis  | 56034  | Leraar geschiedenis  | 35197  |
+| Bedrijfswiskunde  | 35168  | Wiskunde  | 56980  | Leraar wiskunde  | 35221  |
+| Technische natuurkunde  | 34268  | Natuurkunde  | 50206  | Leraar natuurkunde  | 35261  |
+| --- | --- | Natuur- en sterrenkunde  | 56984  | Leraar natuurkunde  | 35261  |
+| --- | --- | Technische natuurkunde  | 56962  |
+| --- | --- | Medische natuurwetenschappen  | 50800  |
+| Werktuigbouwkunde  | 34280  | Industrieel ontwerpen  | 56955  | Leraar techniek  | 35254  |
+| Industrieel product ontwerpen  | 34389  | Industrial design  | 50441  |
+| Chemie  | 34396/04186  | Scheikunde  | 56857/06857  | Leraar scheikunde  | 35199  |
+| Applied science met scheikunde  | 30008  | Life science and technology  | 56286  |
+| --- | --- | Scheikundige technologie  | 56960  |
+| --- | --- | Molecular science technology  | 59308  |
+| --- | --- | Biomedische technologie  | 56226  |
+| --- | --- | Farmaceutische wetenschappen  | 59989  |
+| --- | --- | Moleculaire levenswetenschappen  | 59304  |
+| --- | --- | Biologie  | 56860  | Leraar biologie  | 35301  |
+| Werktuigbouwkunde  | 34280  | Werktuigbouwkunde  | 56966/06966  | Leraar werktuigbouw I en II  | 35387  |
+| Elektrotechniek  | 34267  | Elektrotechniek  | 56953  | Leraar elektrotechniek I en II  | 35384  |
+| AOT-techniek  | 34386  | --- | --- |
+| Automotive  | 30018  | --- | --- | Leraar motorvoertuigentechniek I en II  | 35386  |
+| Autotechniek  | 34262  | --- | --- |
+| Bouwkunde  | --- | Bouwkunde  | 56951  | Leraar bouwkunde I en II  | 35382  |
+| Technische informatica  | 34475  | --- | --- | Leraar ICT/leraar informatica  | 39116  |
+| Hbo ICT  | 30020  | --- | --- |
+| Theologie of Godsdienst Pastoraal werk (GPW)  | 35146  | Theologie  | 56109  | Leraar godsdienst/levensbeschouwing  | 35441  |
+| --- | --- | Theologie klassiek  | 50021  |
+| --- | --- | Theologie plus  | 50022  |
+| --- | --- | Godgeleerdheid  | 56100  |
+| --- | --- | Godsdienstwetenschap  | 56104  |
+| --- | --- | Wereldgodsdiensten  | 50202  |
+| --- | --- | Religie en levensbeschouwing  | 56114  |
+| --- | --- | Religiestudies  | 50902  |
+| --- | --- | Islamitische theologie  | 56120  |
+| --- | --- | Politicologie  | 56606  | Leraar maatschappijleer  | 35411  |
+| --- | --- | Sociologie  | 56601  |
+| --- | --- | Algemene sociale wetenschappen  | 56631  |
+| --- | --- | Bestuurskunde  | 56627  |
+| Pedagogiek  | 35158  | Pedagogische wetenschappen  | 56607  | Leraar pedagogiek  | 35204  |
+| Sociaal pedagogische hulpverlening  | 34617  | Pedagogische wetenschappen  | 56607  | Leraar omgangskunde  | 35421  |
+| Sociaal pedagogische hulpverlening  | 34617  | Psychologie  | 56604  |
+| Maatschappelijk werk en dienstverlening  | 34616  | --- | --- |
+| Cultureel maatschappelijke vorming  | 34610  | --- | --- |
+| Creatieve therapie  | 34644  | --- | --- |
+| Pedagogiek  | 35158  | --- | --- |
+| Toegepaste psychologie  | 34507/81006  | --- | --- |
+| Personeel en arbeid  | 34609  | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| Hbo-bachelor (alleen van het Hoger Argrarische Onderwijs)  | --- | Wo-bachelor (alleen van de Wageningen Universiteit)  | --- | --- | --- |
+| Plattelandsvernieuwing  | 34859  | --- | --- | Leraar educatie en kennismagagement voor de groene sector  | 34899  |
+| Tuinbouw en akkerbouw  | 34868  | --- | --- |
+| Dier- en veehouderij  | 34869  | Dierwetenschappen  | 56849  |
+| Diermanagement  | 34333  | --- | --- |
+| Voedingsmiddelentechnologie  | 34856  | Levensmiddelentechnogie  | 56973  |
+| Fooddesign en innovatie  | 34122  | Voeding en gezondheid  | 56868  |
+| Tuin- en landschapsinrichting  | 34220  | Landschapsarchitectuur en ruimtelijke planning  | 56848  |
+| Tropische landbouw  | 34203  | --- | --- |
+| Bedrijfskunde en agribusiness  | 34866  | --- | --- |
+| Bos- en natuurbeheer  | 34221  | Bos- en natuurbeheer  | 56219  |
+| --- | --- | Agrotechnologie  | 56831  |
+| --- | --- | Milieukunde  | 56283  |
+| --- | --- | Plantenwetenschappen  | 56835  |
+| --- | --- | Plant/Biotechnologie  | 56841  |
+| --- | --- | Biotechnologie  | 56841  |
+| --- | --- | Biologie  | 56860  |
 
