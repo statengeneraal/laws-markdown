@@ -22,19 +22,19 @@ e. een vergunning voor het gebruik van de frequentieruimte binnen het frequentie
 
 f. tien vergunningen voor het gebruik van de frequentieruimte binnen het frequentiebereik 2565 en 2615 MHz, en  
 
-g. een vergunning voor het gebruik van de frequentieruimte tussen 2615–2620 MHz.    
+g. een vergunning voor het gebruik van de frequentieruimte tussen 2615–2620 MHz.   
 
 ### Artikel  2  
 
-De procedure, bedoeld in artikel 1, vangt aan op 16 april 2012.  
+De procedure, bedoeld in artikel 1, vangt aan op 16 april 2012. 
 
 ### Artikel  3  
 
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst. Het besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het is geplaatst.  
+Dit besluit wordt met de toelichting in de Staatscourant geplaatst. Het besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het is geplaatst. 
 
 Den Haag 
 22 december 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     
