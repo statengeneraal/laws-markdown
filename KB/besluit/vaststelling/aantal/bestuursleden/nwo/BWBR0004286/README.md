@@ -11,7 +11,7 @@ Hebben goedgevonden en verstaan:
 
 ### artikel  1  
 
-het aantal bestuursleden van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) vast te stellen op 5.  
+het aantal bestuursleden van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) vast te stellen op 5. 
 
 Onze Minister van Onderwijs en Wetenschappen is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.   
 
