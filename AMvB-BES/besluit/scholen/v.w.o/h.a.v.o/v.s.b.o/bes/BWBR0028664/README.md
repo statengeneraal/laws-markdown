@@ -24,7 +24,7 @@ a. een openbare school:
 
 2°. het openbaar orgaan, bedoeld in [artikel 40a van de Wet voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);    
 
-b. een bijzondere school: het schoolbestuur.      
+b. een bijzondere school: het schoolbestuur.     
 
 ### Hoofdstuk  II  
 
@@ -41,79 +41,79 @@ b. de toelatingscommissie beslist in eerste instantie. Tegen deze beslissing is 
 
 c. het bevoegd gezag laat het nemen van beslissingen in eerste en in laatste instantie over aan de toelatingscommissie.     
 3.  Het bevoegd gezag geeft een schriftelijke regeling van de bevoegdheden en de werkzaamheden van de toelatingscommissie.   
-4.  Indien het bevoegd gezag twee of meer scholen voor voortgezet onderwijs beheert, kan het voor alle of voor een aantal van deze scholen een gemeenschappelijke toelatingscommissie instellen. Een gemeenschappelijke toelatingscommissie kan ook worden ingesteld door meer dan één bevoegd gezag. In deze gevallen behoeven niet alle rectoren of directeuren, of door deze aan te wijzen personen, van die scholen, noch leraren van elke school daarin zitting te hebben. Het tweede en derde lid van dit artikel zijn hier van overeenkomstige toepassing.   
+4.  Indien het bevoegd gezag twee of meer scholen voor voortgezet onderwijs beheert, kan het voor alle of voor een aantal van deze scholen een gemeenschappelijke toelatingscommissie instellen. Een gemeenschappelijke toelatingscommissie kan ook worden ingesteld door meer dan één bevoegd gezag. In deze gevallen behoeven niet alle rectoren of directeuren, of door deze aan te wijzen personen, van die scholen, noch leraren van elke school daarin zitting te hebben. Het tweede en derde lid van dit artikel zijn hier van overeenkomstige toepassing.  
 
 ### Artikel  3  
 
 1.  Tot het eerste leerjaar van een school kan als leerling slechts worden toegelaten hij die het achtste leerjaar van een school voor funderend onderwijs heeft doorlopen.   
 2.  De toelating tot een leerjaar kan niet voorwaardelijk geschieden.   
 3.  In bijzondere gevallen kan in overleg met de inspectie worden afgeweken van het tweede lid.   
-4.  In afwijking van het eerste lid kan, met inachtneming van het bepaalde in [artikel 11c van de Wet voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), als leerling tot het eerste leerjaar van de afdeling voor arbeidsgericht onderwijs aan een school voor v.s.b.o. worden toegelaten, hij die ten minste acht jaren funderend onderwijs heeft gevolgd.   
+4.  In afwijking van het eerste lid kan, met inachtneming van het bepaalde in [artikel 11c van de Wet voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), als leerling tot het eerste leerjaar van de afdeling voor arbeidsgericht onderwijs aan een school voor v.s.b.o. worden toegelaten, hij die ten minste acht jaren funderend onderwijs heeft gevolgd.  
 
 ### Artikel  4  
 
-1.  De beslissing over de toelating van een leerling tot het eerste leerjaar school voor h.a.v.o. dan wel een school voor v.w.o. is gebaseerd op het rapport, bedoeld in [artikel 21 van de Wet primair onderwijs BES](../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md).   
+1.  De beslissing over de toelating van een leerling tot het eerste leerjaar school voor h.a.v.o. dan wel een school voor v.w.o. is gebaseerd op het rapport, bedoeld in [artikel 21 van de Wet primair onderwijs BES](../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md).   
 2.  De beslissing over de toelating van een leerling tot het eerste leerjaar school voor h.a.v.o. dan wel een school voor v.w.o. kan mede gebaseerd zijn op het resultaat van een onderzoek naar zijn geschiktheid voor het volgen van het onderwijs aan deze scholen.   
 3.  Het in het tweede lid bedoelde onderzoek vindt plaats in het laatste leerjaar aan de school voor funderend onderwijs in de vorm van een onderzoek naar de kennis, inzicht, attitudes en vaardigheden van de leerling.   
-4.  Een leerling die wordt toegelaten tot het eerste leerjaar van een school voor v.s.b.o. volgt onderwijs in een van de in [artikel 11 van de Wet voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) genoemde leerwegen, tenzij hij redelijkerwijs niet mag worden geacht het onderwijs in één van die leerwegen met een diploma te kunnen afronden, in welk geval de leerling, met inachtneming van [artikel 11c](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) van de voornoemde wet, wordt geplaatst op een afdeling voor arbeidsgericht onderwijs.   
+4.  Een leerling die wordt toegelaten tot het eerste leerjaar van een school voor v.s.b.o. volgt onderwijs in een van de in [artikel 11 van de Wet voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) genoemde leerwegen, tenzij hij redelijkerwijs niet mag worden geacht het onderwijs in één van die leerwegen met een diploma te kunnen afronden, in welk geval de leerling, met inachtneming van [artikel 11c](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) van de voornoemde wet, wordt geplaatst op een afdeling voor arbeidsgericht onderwijs.  
 
 ### Artikel  5  
 
 1.  Het onderzoek, bedoeld in artikel 4, tweede lid, wordt voorbereid en uitgevoerd door een daartoe per openbaar lichaam in te stellen commissie die de opgaven en normen vaststelt.   
 2.  De voorzitter en de overige leden van de in het eerste lid bedoelde commissie worden jaarlijks vóór 1 november door het bestuurscollege van het desbetreffende openbaar lichaam benoemd.   
-3.  Het bestuurscollege van het desbetreffende openbaar lichaam stelt jaarlijks vóór 1 november de datum vast waarop het onderzoek bedoeld in artikel 4, tweede lid, zal plaatsvinden.   
+3.  Het bestuurscollege van het desbetreffende openbaar lichaam stelt jaarlijks vóór 1 november de datum vast waarop het onderzoek bedoeld in artikel 4, tweede lid, zal plaatsvinden.  
 
 ### Artikel  6  
 
 1.  Het onderzoek, bedoeld in artikel 4, tweede lid, geschiedt door middel van opgaven die betrekking hebben op de leerstof van het funderend onderwijs voor zover de leerling deze geacht mag worden te beheersen op het moment van het onderzoek.   
-2.  De resultaten van het onderzoek worden ter beschikking gesteld van de ouders en de toelatingscommissie, bedoeld in artikel 2. Bij de resultaten van het onderzoek wordt voor iedere leerling aangegeven of hij geschikt is voor het volgen van onderwijs aan een school voor h.a.v.o. dan wel aan een school voor v.w.o.   
+2.  De resultaten van het onderzoek worden ter beschikking gesteld van de ouders en de toelatingscommissie, bedoeld in artikel 2. Bij de resultaten van het onderzoek wordt voor iedere leerling aangegeven of hij geschikt is voor het volgen van onderwijs aan een school voor h.a.v.o. dan wel aan een school voor v.w.o.  
 
 ### Artikel  7  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  8  
 
 1.  Jaarlijks vóór l oktober doet het bevoegd gezag aan de inspectie mededeling van de gekozen toelatingsprocedure tot het eerste leerjaar.   
 2.  Binnen zes maanden na de toelating zendt het bevoegd gezag een verslag betreffende de toegepaste toelatingsmiddelen en van de daarmede opgedane ervaring aan de inspectie.   
-3.  Het bevoegd gezag stelt het hoofd van de school voor funderend onderwijs in kennis van de beslissing omtrent de toelating en na afloop van het eerste leerjaar, indien het hoofd dit verzoekt, van de studieresultaten van de desbetreffende leerlingen.   
+3.  Het bevoegd gezag stelt het hoofd van de school voor funderend onderwijs in kennis van de beslissing omtrent de toelating en na afloop van het eerste leerjaar, indien het hoofd dit verzoekt, van de studieresultaten van de desbetreffende leerlingen.  
 
 ### Artikel  9  
 
-De leerling die tot het eerste leerjaar van een school is toegelaten, kan zonder onderzoek worden toegelaten tot het eerste leerjaar van een andere school.  
+De leerling die tot het eerste leerjaar van een school is toegelaten, kan zonder onderzoek worden toegelaten tot het eerste leerjaar van een andere school. 
 
 ### Artikel  10  
 
 1.  Indien een leerling, komende van een ander soort school voor voortgezet onderwijs, toelating tot het tweede leerjaar of een hoger leerjaar vraagt, verzoekt de rector onderscheidenlijk de directeur inlichtingen om de schoolloopbaan, de schoolvorderingen, de aanleg, de belangstelling en de lichamelijke gesteldheid van de leerling aan de rector onderscheidenlijk de directeur van de school die de leerling laatstelijk heeft bezocht.   
 2.  Een leerling als bedoeld in het eerste lid wordt geplaatst in het leerjaar, waarin hij het onderwijs volgens de ontvangende en afleverende school met voldoende resultaat zal kunnen volgen.   
 3.  In afwijking van het tweede lid, wordt een leerling die in het bezit is van een diploma v.s.b.o. in de theoretisch kadergerichte leerweg en een voldoende heeft behaald voor een vak bedoeld in artikel 20, zesde lid, dan wel diploma m.a.v.o. tot het vierde leerjaar van een school voor h.a.v.o. zonder de overeenstemming, bedoeld in het tweede lid, toegelaten.   
-4.  Indien het verzoek tot toelating, bedoeld in het eerste lid, betreft een leerling komende van een school buiten de openbare lichamen Bonaire, Sint Eustatius en Saba, dan wordt deze leerling, na overleg met de inspectie, bij toelating geplaatst in het leerjaar, waarin hij het onder verwachting met voldoende resultaat zal kunnen volgen.   
+4.  Indien het verzoek tot toelating, bedoeld in het eerste lid, betreft een leerling komende van een school buiten de openbare lichamen Bonaire, Sint Eustatius en Saba, dan wordt deze leerling, na overleg met de inspectie, bij toelating geplaatst in het leerjaar, waarin hij het onder verwachting met voldoende resultaat zal kunnen volgen.  
 
 ### Artikel  11  
 
-Een leerling, komende van een gelijksoortig schooltype, wordt bij toelating geplaatst in het leerjaar waarin hij op de afleverende school het onderwijs had mogen volgen.  
+Een leerling, komende van een gelijksoortig schooltype, wordt bij toelating geplaatst in het leerjaar waarin hij op de afleverende school het onderwijs had mogen volgen. 
 
 ### Artikel  12  
 
 1.  De toelating tot een leerjaar kan niet voorwaardelijk geschieden.   
-2.  In bijzondere gevallen kan in overleg met de inspectie worden afgeweken van het eerste lid.   
+2.  In bijzondere gevallen kan in overleg met de inspectie worden afgeweken van het eerste lid.  
 
 ### Artikel  13  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  14  
 
 1.  Aan het einde van het eerste leerjaar van de basisvorming maakt de directeur onderscheidenlijk de rector over iedere leerling een voortgangsrapport op, waarin de stand van de vorderingen vermeld wordt ten aanzien van de vakken waarin de leerling gedurende de basisvorming onderwijs volgt.   
 2.  Aan het einde van het tweede leerjaar van de basisvorming maakt de directeur onderscheidenlijk de rector over iedere leerling een rapport op, waarin vermeld wordt of de leerling de vakken waarin hij gedurende de basisvorming onderwijs heeft gevolgd, in voldoende mate beheerst.   
 3.  Indien een leerling aan het einde van het eerste of tweede leerjaar van de basisvorming de vakken waarin hij gedurende het eerste onderscheidenlijk het tweede jaar onderwijs heeft gevolgd, in onvoldoende mate beheerst kan de directeur onderscheidenlijk de rector, na overleg met de inspectie, slechts in bijzondere gevallen de beslissing nemen de leerling het leerjaar te laten overdoen.   
-4.  Aan het einde van de overige leerjaren, met uitzondering van het eindexamenjaar, maakt de directeur onderscheidenlijk de rector voor iedere leerling een overgangsrapport op, waarin vermeld wordt of de leerling wel of niet bevorderd is naar het volgende leerjaar. Voorwaardelijke bevordering is slechts mogelijk aan het einde van het derde leerjaar aan een school voor h.a.v.o. dan wel aan het einde van het derde en vierde leerjaar aan een school voor v.w.o.   
+4.  Aan het einde van de overige leerjaren, met uitzondering van het eindexamenjaar, maakt de directeur onderscheidenlijk de rector voor iedere leerling een overgangsrapport op, waarin vermeld wordt of de leerling wel of niet bevorderd is naar het volgende leerjaar. Voorwaardelijke bevordering is slechts mogelijk aan het einde van het derde leerjaar aan een school voor h.a.v.o. dan wel aan het einde van het derde en vierde leerjaar aan een school voor v.w.o.  
 
 ### Artikel  15  
 
 1.  Het bevoegd gezag kan onder opgaaf van redenen tot definitieve verwijdering van een leerling overgaan, nadat zijn ouders, voogden of verzorgers in de gelegenheid zijn gesteld hierover te worden gehoord. Een leerling wordt op grond van onvoldoende vorderingen niet in de loop van een schooljaar verwijderd.   
 2.  De definitieve verwijdering geschiedt slechts na overleg met de inspectie.   
-3.  Het bevoegd gezag stelt de inspectie en de ouders, voogden of verzorgers schriftelijk in kennis van een definitieve verwijdering.   
+3.  Het bevoegd gezag stelt de inspectie en de ouders, voogden of verzorgers schriftelijk in kennis van een definitieve verwijdering.  
 
 ### Hoofdstuk  III  
 
@@ -169,7 +169,7 @@ Een leerling, komende van een gelijksoortig schooltype, wordt bij toelating gepl
 4.  In afwijking van het derde lid volgen de leerlingen van een school voor v.w.o., h.a.v.o. of v.s.b.o. in de openbare lichamen Saba en Sint Eustatius waar de Engelse taal de instructietaal is, wekelijks ten minste 5 lessen in het vak Nederlandse taal.   
 5.  De leerlingen volgen gedurende de eerste twee leerjaren in alle vakken tezamen 72 wekelijkse lessen, met dien verstande dat per leerjaar ten minste 33 wekelijkse lessen gevolgd worden.   
 6.  De leerlingen volgen onderwijs in ten minste twee van de vakken muziek, drama en beeldende vorming.   
-7.  Aan scholen waar het bevoegd gezag dit wenst, volgen de leerlingen onderwijs in de Franse of de Duitse taal, met dien verstande dat het in het vijfde lid genoemde aantal wekelijkse lessen in acht wordt genomen.   
+7.  Aan scholen waar het bevoegd gezag dit wenst, volgen de leerlingen onderwijs in de Franse of de Duitse taal, met dien verstande dat het in het vijfde lid genoemde aantal wekelijkse lessen in acht wordt genomen.  
 
 ### §  2  
 
@@ -211,7 +211,7 @@ Een leerling, komende van een gelijksoortig schooltype, wordt bij toelating gepl
 | studiekeuzebegeleiding  | l  |
 
 4.  Het vak Spaanse taal wordt afgesloten met een centrale toets. Indien de toets met een voldoende is afgerond, wordt een certificaat, als bedoeld in [artikel 1 van het Besluit eindexamens v.w.o., h.a.v.o., v.s.b.o. BES](../../../../../../../../AMvB-BES/besluit/eindexamens/v.w.o./h.a.v.o./v.s.b.o./bes/BWBR0028648/README.md), uitgereikt.   
-5.  De leerlingen volgen gedurende het derde leerjaar in alle vakken samen ten minste 33 en ten hoogste 36 wekelijkse lessen.   
+5.  De leerlingen volgen gedurende het derde leerjaar in alle vakken samen ten minste 33 en ten hoogste 36 wekelijkse lessen.  
 
 ### §  3  
 
@@ -239,7 +239,7 @@ a. het gemeenschappelijk deel van ten hoogste 1240 uren,
 
 b. het profieldeel van ten minste 1040 uren, en  
 
-c. het vrije deel van ten hoogste 920 uren.     
+c. het vrije deel van ten hoogste 920 uren.    
 
 ### Artikel  19  
 
@@ -347,7 +347,7 @@ a. vakken genoemd in het zesde tot en met negende lid, voor zover nog niet gekoz
 
 2. van de kunstvakken beeldende vorming, muziek, drama en dans er slechts één deel kan uitmaken van het profiel;    
 
-b. door het bevoegd gezag vast te stellen vakken en andere programmaonderdelen.     
+b. door het bevoegd gezag vast te stellen vakken en andere programmaonderdelen.    
 
 ### Artikel  19a  
 
@@ -426,16 +426,16 @@ b. het vak algemene natuurwetenschappen;
 
 c. door het bevoegd gezag vast te stellen vakken en andere programmaonderdelen die alle leerlingen volgen;  
 
-d. door het bevoegd gezag vast te stellen vakken, genoemd in artikel 19.     
+d. door het bevoegd gezag vast te stellen vakken, genoemd in artikel 19.    
 
 ### Artikel  19b  
 
 1.  Door het bevoegd gezag vast te stellen vakken en andere programmaonderdelen van het vrije deel, bedoeld in de artikelen 19, negende lid onderdeel b, en 19a, achtste lid onderdeel b, hebben een normatieve studielast van 40 uren of een geheel veelvoud daarvan. Het bevoegd gezag kan, met toestemming van de inspectie, indien de aard van een ander programmaonderdeel daartoe noodzaakt, de studielast van dat andere programmaonderdeel in afwijking van de eerste volzin vaststellen op minder dan 40 uren.   
-2.  Indien het bevoegd gezag bij de vaststelling van vakken en andere programmaonderdelen andere instellingen of deskundige personen van buiten de school betrekt, kan het onderwijs in die vakken en andere programmaonderdelen, onverminderd de verantwoordelijkheid van het bevoegd gezag voor het onderwijs aan de school, de inspectie gehoord, mede worden verzorgd door die andere instellingen of deskundige personen.   
+2.  Indien het bevoegd gezag bij de vaststelling van vakken en andere programmaonderdelen andere instellingen of deskundige personen van buiten de school betrekt, kan het onderwijs in die vakken en andere programmaonderdelen, onverminderd de verantwoordelijkheid van het bevoegd gezag voor het onderwijs aan de school, de inspectie gehoord, mede worden verzorgd door die andere instellingen of deskundige personen.  
 
 ### Artikel  19c  
 
-[vervallen]  
+[vervallen] 
 
 ### §  4  
 
@@ -537,12 +537,12 @@ c. sector economie:
 7.  De leerlingen volgen bij het sectorprogramma ecotechniek in afwijking van het vijfde lid, onderdeel a, in het sectordeel het vak biologie in plaats van het vak wiskunde en volgen in afwijking van het zesde lid, onderdeel a, bij keuze van het vak biologie het vak wiskunde.   
 8.  De leerlingen van alle leerwegen volgen gedurende het derde en vierde leerjaar in alle vakken tezamen ten minste 64 en ten hoogste 72 wekelijkse lessen. In geval van een keuzevak als bedoeld in het zesde lid, wordt het maximaal aantal wekelijkse lessen, genoemd in de eerste volzin, verhoogd met twee wekelijkse lessen.   
 9.  In het derde leerjaar lopen de leerlingen van de praktisch kadergerichte alsmede praktisch basisgerichte leerweg ten minste één week en ten hoogste vier weken stage.   
-10.  In het vierde leerjaar lopen de leerlingen van de praktisch kadergerichte alsmede praktisch basisgerichte leerweg ten minste twee weken en ten hoogste zes weken stage.   
+10.  In het vierde leerjaar lopen de leerlingen van de praktisch kadergerichte alsmede praktisch basisgerichte leerweg ten minste twee weken en ten hoogste zes weken stage.  
 
 ### Artikel  20a  
 
 1.  In afwijking van artikel 20 volgen de leerlingen aan een afdeling arbeidsgericht onderwijs, onderwijs in ten minste de vakken Papiamentu, rekenen/wiskunde, informatica, lichamelijke opvoeding en mens en maatschappij. In afwijking van de eerste volzin volgen de leerlingen van een school in de openbare lichamen Saba en Sint Eustatius het vak Engelse taal in plaats van het vak Papiamentu.   
-2.  In afwijking van artikel 20, negende en tiende lid, omvat de stage voor leerlingen aan een afdeling arbeidsgericht onderwijs ten hoogste de helft van de som van de wekelijkse lessen, met dien verstande dat de stage van leerlingen die jonger zijn dan 16 jaar, ten hoogste vier vijfde deel van de som van de wekelijkse lessen vormt.   
+2.  In afwijking van artikel 20, negende en tiende lid, omvat de stage voor leerlingen aan een afdeling arbeidsgericht onderwijs ten hoogste de helft van de som van de wekelijkse lessen, met dien verstande dat de stage van leerlingen die jonger zijn dan 16 jaar, ten hoogste vier vijfde deel van de som van de wekelijkse lessen vormt.  
 
 ### Artikel  20b  
 
@@ -560,7 +560,7 @@ d. ontheffing verlenen voor het volgen van onderwijs in een van de talen Spaans,
 
 2. de leerling volgt onderwijs in het profiel Natuur en techniek of het profiel Natuur en gezondheid en het onderwijs in de taal verhindert naar verwachting een succesvolle afronding van de opleiding.       
 2.  Het bevoegd gezag geeft de inspectie kennis van de verleende ontheffing, vermeldt de gronden waarop deze ontheffing berust alsmede welk onderwijs voor de leerling in de plaats komt voor het vak waarvoor ontheffing is verleend.   
-3.  Bij de ontheffingen, bedoeld in het eerste lid, onderdelen b en d, sub l, is een medische indicatie vereist. Bij ministeriële regeling kunnen nadere regels gesteld worden met betrekking tot de in het eerste lid bedoelde ontheffingen.   
+3.  Bij de ontheffingen, bedoeld in het eerste lid, onderdelen b en d, sub l, is een medische indicatie vereist. Bij ministeriële regeling kunnen nadere regels gesteld worden met betrekking tot de in het eerste lid bedoelde ontheffingen.  
 
 ### §  4A  
 
@@ -569,15 +569,15 @@ d. ontheffing verlenen voor het volgen van onderwijs in een van de talen Spaans,
 ### Artikel  21  
 
 1.  Indien het bevoegd gezag dat wenst, volgen de leerlingen in het eerste tot en met derde leerjaar van een school voor v.w.o. en h.a.v.o., en voor alle leerjaren in het v.s.b.o. wekelijks ten hoogste twee lessen godsdienstonderwijs dan wel levensbeschouwelijke vorming, met dien verstande dat de in de artikelen 16, 17 en 20 genoemde maximum aantallen wekelijkse lessen in acht worden genomen.   
-2.  Indien het bevoegd gezag dat wenst, kan godsdienstonderwijs dan wel levensbeschouwelijke vorming opgenomen worden in het vrije deel van het profielenonderwijs aan een school voor v.w.o. dan wel h.a.v.o., met dien verstande dat de maximale studielast hiervoor respectievelijk 240 en 160 uur bedraagt.   
+2.  Indien het bevoegd gezag dat wenst, kan godsdienstonderwijs dan wel levensbeschouwelijke vorming opgenomen worden in het vrije deel van het profielenonderwijs aan een school voor v.w.o. dan wel h.a.v.o., met dien verstande dat de maximale studielast hiervoor respectievelijk 240 en 160 uur bedraagt.  
 
 ### Artikel  22  
 
-[vervallen]  
+[vervallen] 
 
 ### artikel  23  
 
-[vervallen]  
+[vervallen] 
 
 ### §  5  
 
@@ -586,7 +586,7 @@ d. ontheffing verlenen voor het volgen van onderwijs in een van de talen Spaans,
 ### Artikel  24  
 
 1.  De duur van de lessen is 45 minuten.   
-2.  In bijzondere gevallen kan de inspectie op verzoek van het bevoegd gezag afwijking van het eerste lid goedkeuren.   
+2.  In bijzondere gevallen kan de inspectie op verzoek van het bevoegd gezag afwijking van het eerste lid goedkeuren.  
 
 ### §  6  
 
@@ -594,29 +594,29 @@ d. ontheffing verlenen voor het volgen van onderwijs in een van de talen Spaans,
 
 ### Artikel  25  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  26  
 
 1.  Vorming van klassen en vorming van groepen van leerlingen kan slechts geschieden, voor zover het totale aantal leraarlessen niet groter wordt dan de uitkomst van de formule 36n + a + p en het quotiënt van het totale aantal leerlinglessen en het totale aantal leraarlessen ten minste 18 bedraagt.   
 2.  Onder het totale aantal leerlinglessen wordt verstaan de som van de aantallen lessen die iedere leerling volgens het lesrooster wekelijks volgt. Onder het totale aantal leraarlessen wordt verstaan de som van de aantallen lessen die iedere leraar volgens het lesrooster wekelijks geeft.   
 3.  In de formule 36 n + a + p stellen voor: n: het aantal klassen van de school, te berekenen op de wijze zoals in artikel 27 is aangegeven. a: het aantal klassen van het eerste en tweede leerjaar, berekend volgens artikel 27 p: voor een school voor v.w.o 32 voor een school voor h.a.v.o. 24 voor een school voor v.s.b.o. 16.   
-4.  Indien het bevoegd gezag de leerlingen niet de keuze biedt uit alle vakken waarin het eindexamen kan worden afgelegd, kan Onze Minister de waarde van p op een lager aantal vaststellen.   
+4.  Indien het bevoegd gezag de leerlingen niet de keuze biedt uit alle vakken waarin het eindexamen kan worden afgelegd, kan Onze Minister de waarde van p op een lager aantal vaststellen.  
 
 ### Artikel  27  
 
 1.  Het aantal klassen van een school wordt voor de bepaling van de waarde van n berekend door de som te bepalen van de naar boven op de naastbijgelegen gehele getallen afgeronde quotiënten die worden verkregen door het aantal leerlingen van elk leerjaar van die school te delen door 30. In afwijking van de eerste volzin is in geval van arbeidsgericht onderwijs het quotiënt 16. In bijzondere gevallen kan het bestuurscollege, de inspectie gehoord, toestemming verlenen om het van het hierboven bepaalde af te wijken.   
 2.  Er worden klassen en groepen gevormd van ten hoogste 30 leerlingen. In bijzondere gevallen kan de inspectie op verzoek van het bevoegd gezag groepen van meer dan 30 leerlingen toestaan.   
 3.  In afwijking van het tweede lid worden aan een afdeling arbeidsgericht onderwijs respectievelijk aan de praktisch kadergerichte leerweg of praktisch beroepsgerichte leerweg van een school voor v.s.b.o. groepen gevormd van ten hoogste 16 respectievelijk 24 leerlingen.   
-4.  In afwijking van het tweede en derde lid is het toegestaan bij het onderwijs aan scholen voor v.s.b.o. in de sectorprogramma’s metaal, bouw en motorvoertuigentechniek respectievelijk de sectorprogramma’s instalectro en hospitality klassen of groepen te vormen van ten hoogste 10 respectievelijk 12 leerlingen, indien de veiligheid van de leerlingen dit vereist.   
+4.  In afwijking van het tweede en derde lid is het toegestaan bij het onderwijs aan scholen voor v.s.b.o. in de sectorprogramma’s metaal, bouw en motorvoertuigentechniek respectievelijk de sectorprogramma’s instalectro en hospitality klassen of groepen te vormen van ten hoogste 10 respectievelijk 12 leerlingen, indien de veiligheid van de leerlingen dit vereist.  
 
 ### Artikel  28  
 
-Indien het quotiënt van het totale aantal leerlinglessen en het totale aantal leraarlessen groter is dan 24, wordt het maximaal toegestane aantal leraarlessen vastgesteld op het naar boven afgerond quotiënt van het totaal aantal leerlinglessen en het getal 24.  
+Indien het quotiënt van het totale aantal leerlinglessen en het totale aantal leraarlessen groter is dan 24, wordt het maximaal toegestane aantal leraarlessen vastgesteld op het naar boven afgerond quotiënt van het totaal aantal leerlinglessen en het getal 24. 
 
 ### Artikel  29  
 
-Bij toepassing van de voorgaande en de volgende artikelen wordt tot grondslag genomen het gemiddeld aantal leerlingen dat op l juni van het afgelopen schooljaar en op l september van het desbetreffende schooljaar als werkelijk schoolgaand bekend stond.  
+Bij toepassing van de voorgaande en de volgende artikelen wordt tot grondslag genomen het gemiddeld aantal leerlingen dat op l juni van het afgelopen schooljaar en op l september van het desbetreffende schooljaar als werkelijk schoolgaand bekend stond. 
 
 ### Artikel  30  
 
@@ -626,14 +626,14 @@ a. de leerjaren die deze scholen niet gemeenschappelijk hebben, voor de berekeni
 
 b. indien twee of meer van deze scholen behalve eerste leerjaren ook tweede en/of derde leerjaren gemeenschappelijk hebben, de waarde a wordt vermeerderd met het getal dat gelijk is aan tweemaal het aantal klassen van de gemeenschappelijke tweede en/of derde leerjaren;  
 
-c. de waarde van p gesteld wordt op de som van de getallen, in artikel 26, derde lid, genoemd voor ieder van de scholen die tot de scholengemeenschap behoren.     
+c. de waarde van p gesteld wordt op de som van de getallen, in artikel 26, derde lid, genoemd voor ieder van de scholen die tot de scholengemeenschap behoren.    
 
 ### Artikel  31  
 
 1.  Artikel 28 blijft buiten toepassing, zolang de school niet alle leerjaren omvat.   
 2.  Indien van een school voor v.w.o. de hoogste drie leerjaren nog niet gevormd zijn, bedraagt de waarde van p 0. Indien van een zodanige school uitsluitend de laatste twee leerjaren nog niet zijn gevormd, bedraagt de waarde van p 10. Indien van een zodanige school uitsluitend het laatste leerjaar niet is gevormd, bedraagt de waarde van p 20.   
 3.  Indien van een school voor h.a.v.o. de laatste twee leerjaren nog niet zijn gevormd, bedraagt de waarde van p 0. Indien van een zodanige school uitsluitend het laatste leerjaar niet is gevormd, bedraagt de waarde van p 15.   
-4.  Indien van een school voor v.s.b.o. de laatste twee leerjaren nog niet zijn gevormd bedraagt de waarde van p 0. Indien van een school voor v.s.b.o. het hoogste leerjaar nog niet is gevormd, bedraagt de waarde van p 10.   
+4.  Indien van een school voor v.s.b.o. de laatste twee leerjaren nog niet zijn gevormd bedraagt de waarde van p 0. Indien van een school voor v.s.b.o. het hoogste leerjaar nog niet is gevormd, bedraagt de waarde van p 10.  
 
 ### Hoofdstuk  IV  
 
@@ -641,4 +641,4 @@ c. de waarde van p gesteld wordt op de som van de getallen, in artikel 26, derde
 
 ### Artikel  32  
 
-Dit besluit wordt aangehaald als: Besluit scholen v.w.o., h.a.v.o., v.s.b.o. BES.  
+Dit besluit wordt aangehaald als: Besluit scholen v.w.o., h.a.v.o., v.s.b.o. BES. 
