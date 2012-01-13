@@ -6,7 +6,8 @@ Het bestuur van het Productschap Vee en Vlees;
 Gelet op de [artikelen 5](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2007/BWBR0020972/README.md), [8](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2007/BWBR0020972/README.md) en [10 van de Verordening huishoudelijke heffingen (PVV) 2007](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2007/BWBR0020972/README.md), [artikel 3 van de Verordening bestemmingsheffingen vleesindustrie 2007](../../../../../../../../../../pbo/verordening/bestemmingsheffingen/vleesindustrie/(pvv)/2007/BWBR0021715/README.md) en [artikel 4 van de Verordening bestemmingsheffingen vleeswarenindustrie 2007](../../../../../../../../../../pbo/verordening/bestemmingsheffingen/vleeswarenindustrie/(pvv)/2007/BWBR0021573/README.md);
 Besluit:    
 
-### Artikel  1  
+### Artikel  1 
+Materieel uitgewerkt per 05-04-2009 
 
 1.  Als ondernemersorganisatie in de veehandel als bedoeld in [artikel 5 van de Verordening huishoudelijke heffingen (PVV) 2007](../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2007/BWBR0020972/README.md) worden aangewezen: Afdelingen Groningen, Friesland, Drenthe, Overijssel, Gelderland, Utrecht, Noord-Holland, Zuid-Holland, Zeeland, Noord-Brabant en Limburg van de Nederlandse Bond van Handelaren in Vee; 
 
@@ -22,11 +23,12 @@ Besluit:
 
 – Centrale organisatie voor de Vleessector;  
 
-– Koninklijke Nederlandse Slagersorganisatie,     
+– Koninklijke Nederlandse Slagersorganisatie,    
 
 ### Artikel  2  
+Materieel uitgewerkt per 05-04-2009 
 
-Dit besluit treedt in werking met ingang van 1 januari 2007.  
+Dit besluit treedt in werking met ingang van 1 januari 2007. 
 
 Zoetermeer 
 1 november 2006   
