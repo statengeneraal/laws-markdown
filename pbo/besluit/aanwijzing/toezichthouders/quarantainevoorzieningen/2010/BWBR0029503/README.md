@@ -3,13 +3,13 @@
 ##Besluit van het bestuur van het Productschap Vis van 2 december 2010 tot aanwijzing van een dienst die belast is met het houden van toezicht op de naleving van de door het bestuur van het Productschap Vis vastgestelde Verordening quarantainevoorzieningen levende tweekleppige weekdieren 2007 (Besluit aanwijzing toezichthouders quarantainevoorzieningen 2010)
 
 Het bestuur van het Productschap Vis;  
-Gelet op [artikel 104, derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 7, eerste en tweede lid, van de Verordening quarantainevoorzieningen levende tweekleppige weekdieren 2007](../../../../../../../pbo/verordening/quarantainevoorzieningen/levende/tweekleppige/weekdieren/2007/BWBR0024272/README.md);
+Gelet op artikel 104, derde lid, van de Wet op de bedrijfsorganisatie en op artikel 7, eerste en tweede lid, van de Verordening quarantainevoorzieningen levende tweekleppige weekdieren 2007;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Personen, als controleur werkzaam bij de Centrum voor Bedrijfsdiensten B.V., thans gevestigd te Zeist aan de Laan van Vollenhove 3229, 3706 AR, worden belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens de [Verordening quarantainevoorzieningen levende tweekleppige weekdieren 2007](../../../../../../../pbo/verordening/quarantainevoorzieningen/levende/tweekleppige/weekdieren/2007/BWBR0024272/README.md).   
-2.  De in het eerste lid bedoelde personen dienen, naast een ingevolge [artikel 5:12, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voorgeschreven geldig legitimatiebewijs, te beschikken over een door de voorzitter van het Productschap Vis op naam gestelde lastgeving.   
+1.  Personen, als controleur werkzaam bij de CoMore Bedrijfsdiensten B.V., thans gevestigd te Zeist aan de Laan van Vollenhove 3229, 3706 AR, worden belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens de Verordening quarantainevoorzieningen levende tweekleppige weekdieren 2007.   
+2.  De in het eerste lid bedoelde personen dienen, naast een ingevolge artikel 5:12, eerste lid, van de Algemene wet bestuursrecht voorgeschreven geldig legitimatiebewijs, te beschikken over een door de voorzitter van het Productschap Vis op naam gestelde lastgeving.   
 
 ### Artikel  2  
 
