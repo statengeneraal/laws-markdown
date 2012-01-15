@@ -200,10 +200,12 @@ b. verwerkt tot aardappelzetmeelderivaten   is verplicht aan het productschap ee
 
 ### Artikel  12  
 
-####(vlas)
+####(vlas en hennep)
 
-1.  De ondernemer die vlas teelt, is aan het productschap een heffing verschuldigd van van € 6,-- per hectare vezelvlas.   
+1.  De ondernemer die vlas teelt is aan het productschap een heffing verschuldigd van € 6,-- per hectare vezelvlas.   
 2.  De ondernemer die vlas verwerkt of voor eigen rekening en risico laat verwerken, is aan het productschap een heffing verschuldigd van € 6,-- per hectare vezelvlas van de oogst van het betreffende jaar.   
+3.  De ondernemer die hennep teelt is aan het productschap een heffing verschuldigd van € 3,-- per hectare hennep.   
+4.  De ondernemer die hennep verwerkt of voor eigen rekening en risico laat verwerken, is aan het productschap een heffing verschuldigd van € 3,-- per hectare hennep van de oogst van het betreffende jaar.   
 
 ### §  3  
 
@@ -212,9 +214,9 @@ b. verwerkt tot aardappelzetmeelderivaten   is verplicht aan het productschap ee
 ### Artikel  13  
 
 1.  De ondernemer is in voorkomend geval verplicht door middel van een opgavenformulier, dat volledig en naar waarheid dient te worden ingevuld, aan het productschap gegevens te verstrekken voor de vaststelling van de heffing en/of voor statistische doeleinden. De [Verordening PA algemene bepalingen 2008](../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
-2.  De berekening van de heffing als bedoeld in artikel 2, tweede lid, artikel 6, tweede lid voorzover het graszaad betreft, artikel 6, derde lid, en artikel 12, eerste lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.   
+2.  De berekening van de heffing als bedoeld in artikel 2, tweede lid, artikel 6, tweede lid voorzover het graszaad betreft, artikel 6, derde lid, en artikel 12, eerste en tweede lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.   
 3.  De berekening van de heffing bedoeld in artikel 6, eerste lid en artikel 6, tweede lid, voorzover het wat het laatstgenoemde lid betreft niet om graszaad gaat, vindt plaats op basis van een jaarlijkse opgave door de ondernemer die werkzaamheden verricht in het kweekbedrijf voor landbouwzaaizaden en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van landbouwzaaizaden.   
-4.  De opgave ten behoeve van de heffing, bedoeld in artikel 9, dient maandelijks te geschieden, ten behoeve van de heffing in artikel 4 en 5 ieder kwartaal, ten behoeve van de heffing in artikel 10 en 11 ieder half jaar en ten behoeve van artikel 12, tweede lid, ieder jaar.   
+4.  De opgave ten behoeve van de heffing, bedoeld in artikel 9, dient maandelijks te geschieden, ten behoeve van de heffing in artikel 4 en 5 ieder kwartaal, ten behoeve van de heffing in artikel 10 en 11 ieder half jaar en ten behoeve van artikel 12, tweede en vierde lid, ieder jaar.   
 5.  Indien in de opgavenperiode geen activiteiten hebben plaats gevonden, dient ook dit te worden opgegeven.   
 6.  De ondernemer die ingevolge de artikelen 9 en 10 heffingsplichtig is legt, indien de secretaris daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale hoeveelheid in het jaar verwerkte hoeveelheid aardappelen tot aardappelproducten en de totale hoeveelheid ingevoerde aardappelen die tot aardappelproducten zijn verwerkt.   
 7.  De ondernemer is verplicht alle medewerking te verlenen aan de controle door of namens het hoofdproductschap van de in dit artikel bedoelde opgaven.   
