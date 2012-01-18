@@ -2,8 +2,8 @@
 
 ##Regeling Informatiemodel Nederlandse Politie
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie,  
-Gelet op [artikel 17, derde lid, van het Besluit beheer regionale politiekorpsen](../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie,   
+Gelet op [artikel 17, derde lid, van het Besluit beheer regionale politiekorpsen](../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md); 
 Besluiten;    
 
 ### Artikel  1  
@@ -17,12 +17,12 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ### Artikel  3  
 
 Deze regeling wordt aangehaald als: Regeling Informatiemodel Nederlandse Politie.  
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.   
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.    
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Peper 
+A. Peper   
 
 De 
-Minister van Justitie,
-A.H.Korthals    
+Minister van Justitie, 
+A.H.Korthals     

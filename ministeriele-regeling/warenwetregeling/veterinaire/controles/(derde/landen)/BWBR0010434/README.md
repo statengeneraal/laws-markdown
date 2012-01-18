@@ -7,11 +7,11 @@ Handelende in overeenstemming met de Minister van Economische Zaken en de Staats
 
 Gelet op:
 
-- richtlijn nr. 97/78/EG van de Raad van de Europese Unie van 18 december 1997 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten uit derde landen die in de Gemeenschap worden binnengebracht (PbEG 1998, L 24),  
+- richtlijn nr. 97/78/EG van de Raad van de Europese Unie van 18 december 1997 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten uit derde landen die in de Gemeenschap worden binnengebracht (PbEG 1998, L 24),
 
-- [artikel 4b, eerste lid, van de Destructiewet](../../../../../../../wet/destructiewet/BWBR0002244/README.md), alsmede  
+- [artikel 4b, eerste lid, van de Destructiewet](../../../../../../../wet/destructiewet/BWBR0002244/README.md), alsmede 
 
-- [artikel 4, onder a, van het Warenwetbesluit Invoer levensmiddelen uit derde landen](../../../../../../../AMvB/warenwetbesluit/invoer/levensmiddelen/uit/derde/landen/BWBR0006310/README.md);     Besluit:    
+- [artikel 4, onder a, van het Warenwetbesluit Invoer levensmiddelen uit derde landen](../../../../../../../AMvB/warenwetbesluit/invoer/levensmiddelen/uit/derde/landen/BWBR0006310/README.md);   Besluit:    
 
 ### Artikel  1  
 
@@ -35,27 +35,27 @@ h. beschikking 95/408/EG: beschikking nr. 95/408/EG van de Raad van de Europese 
 
 i. richtlijn 97/78/EG: richtlijn nr. 97/78/EG van de Raad van de Europese Unie van 18 december 1997 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten uit derde landen die in de Gemeenschap worden binnengebracht (PbEG 1998, L 24);  
 
-j. verordening (EG) 1774/2002: verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van de Europese Unie van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten (PbEU L 273).    
+j. verordening (EG) 1774/2002: verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van de Europese Unie van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten (PbEU L 273).  
 
 ### Artikel  2  
 
-Het binnen Nederlands grondgebied brengen van eet- en drinkwaren, afkomstig uit een land dat niet behoort tot de Europese Unie, en het vervolgens verhandelen daarvan, geschiedt met inachtneming van de ter zake bij of krachtens richtlijn 97/78/EG gestelde bepalingen.  
+Het binnen Nederlands grondgebied brengen van eet- en drinkwaren, afkomstig uit een land dat niet behoort tot de Europese Unie, en het vervolgens verhandelen daarvan, geschiedt met inachtneming van de ter zake bij of krachtens richtlijn 97/78/EG gestelde bepalingen. 
 
 ### Artikel  3  
 
-Categorie-3-materiaal zoals bedoeld in verordening (EG) 1774/2002 mag in Nederland worden gebracht en anders dan in doorvervoer buiten Nederland worden gebracht in de gevallen bedoeld in artikel 16, eerste lid, onder e en f, van richtlijn 97/78/EG.  
+Categorie-3-materiaal zoals bedoeld in verordening (EG) 1774/2002 mag in Nederland worden gebracht en anders dan in doorvervoer buiten Nederland worden gebracht in de gevallen bedoeld in artikel 16, eerste lid, onder e en f, van richtlijn 97/78/EG. 
 
 ### Artikel  4  
 
-Als bevoegde autoriteit, bedoeld in richtlijn 97/78/EG, wordt aangewezen de Voedsel en Waren Autoriteit.  
+Als bevoegde autoriteit, bedoeld in richtlijn 97/78/EG, wordt aangewezen de Nederlandse Voedsel- en Warenautoriteit. 
 
 ### Artikel  5  
 
-De officiële dierenarts, bedoeld in richtlijn 97/78/EG, wordt aangewezen door de bevoegde autoriteit.  
+De officiële dierenarts, bedoeld in richtlijn 97/78/EG, wordt aangewezen door de bevoegde autoriteit. 
 
 ### Artikel  6  
 
-De officiële dierenarts in de grensinspectiepost en in entrepots neemt bij zijn werkzaamheden de ter zake bij of krachtens richtlijn 97/78/EG gestelde voorschriften in acht.  
+De officiële dierenarts in de grensinspectiepost en in entrepots neemt bij zijn werkzaamheden de ter zake bij of krachtens richtlijn 97/78/EG gestelde voorschriften in acht. 
 
 ### Artikel  7  
 
@@ -77,18 +77,18 @@ g. rauwe melk, warmtebehandelde melk en producten op basis van melk vindt plaats
 
 h. gehakt vlees en vleesbereidingen vindt plaats met inachtneming van de ter zake krachtens hoofdstuk V van richtlijn 94/65/EEG gestelde voorschriften; en  
 
-i. in beschikking 95/408/EG bedoelde producten van dierlijke oorsprong, visserijproducten en levende tweekleppige weekdieren, vindt plaats vanuit krachtens die beschikking aangewezen inrichtingen in derde landen.    
+i. in beschikking 95/408/EG bedoelde producten van dierlijke oorsprong, visserijproducten en levende tweekleppige weekdieren, vindt plaats vanuit krachtens die beschikking aangewezen inrichtingen in derde landen.  
 
 ### Artikel  8  
 
 1.  Deze regeling treedt in werking met ingang van 1 juli 1999.   
-2.  Een wijziging van richtlijn 97/78/EG gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.   
+2.  Een wijziging van richtlijn 97/78/EG gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.  
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Warenwetregeling Veterinaire controles (derde landen).  
+Deze regeling wordt aangehaald als: Warenwetregeling Veterinaire controles (derde landen). 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E. Borst-Eilers      

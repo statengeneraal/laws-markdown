@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling Landelijk Functiehuis Nederlandse Politie
+##Regeling Landelijk Functiehuis Nederlandse Politie 
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op [artikel 17, derde lid, van het Besluit beheer regionale politiekorpsen](../../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md);
-Besluit    
+Besluit     
 
 ### Artikel  1  
 
@@ -16,9 +16,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling Landelijk Functiehuis Nederlandse Politie.  
+Deze regeling wordt aangehaald als: Regeling Landelijk Functiehuis Nederlandse Politie. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-K.G. deVries    
+K.G. de Vries      
