@@ -26,7 +26,7 @@ g. producent: producent, bedoeld in [artikel 1, eerste lid, onder b, van het War
 
 h. distributeur: distributeur, bedoeld in [artikel 1, eerste lid, onder c, van het Warenwetbesluit algemene productveiligheid](../../../../../AMvB/warenwetbesluit/algemene/productveiligheid/BWBR0006158/README.md);  
 
-i. bevoegde autoriteit: de Voedsel en Waren Autoriteit.    
+i. bevoegde autoriteit: de Nederlandse Voedsel- en Warenautoriteit.    
 
 ### Artikel  2  
 
@@ -47,7 +47,7 @@ b. zijn opgesteld door keuringsdiensten, bedoeld in artikel 4, tweede lid, van b
 ### Artikel  4  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling vervalt met ingang van 12 mei 2011.   
+2.  Deze regeling vervalt met ingang van 12 mei 2013.   
 
 ### Artikel  5  
 

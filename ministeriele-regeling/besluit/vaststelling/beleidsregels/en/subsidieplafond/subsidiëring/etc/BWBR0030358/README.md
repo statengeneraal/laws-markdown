@@ -14,7 +14,7 @@ Voor subsidieverlening op grond van [artikel 2.1](../../../../../../../../../min
 
 ### Artikel  2  
 
-Voor subsidieverlening in het kader Mensenrechtenfonds 2012–2015 ten behoeve van activiteiten, bedoeld in [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md), geldt voor de periode 1 januari 2012 tot en met 31 december 2015 een subsidieplafond van € 12 miljoen.  
+Voor subsidieverlening in het kader Mensenrechtenfonds 2012–2015 ten behoeve van activiteiten, bedoeld in [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md), geldt voor de periode 1 januari 2012 tot en met 31 december 2015 een subsidieplafond van € 14 miljoen.  
 
 ### Artikel  3  
 
@@ -61,7 +61,7 @@ Voor u ligt het Subsidiebeleidskader Mensenrechtenfonds 2012–2015 voor de peri
 
 <sup> 5  Het betreft landen opgenomen op de DAC-landenlijst van de OESO, zie Annex IV bij deze beleidsregels.  </sup>  Voor activiteiten die toerekenbaar zijn voor ODA-uitgaven en die plaatsvinden in DAC-landen bevatten deze beleidsregels een subsidieplafond. Hiervoor geldt het volgende: 
 
-* De hoogte van het budget bedraagt € 12 miljoen over de periode van 2012 tot en met 2015.  
+* De hoogte van het budget bedraagt € 14 miljoen over de periode van 2012 tot en met 2015.  
 
 * De hiervoor beschikbare middelen worden verdeeld volgens een tender;  
 

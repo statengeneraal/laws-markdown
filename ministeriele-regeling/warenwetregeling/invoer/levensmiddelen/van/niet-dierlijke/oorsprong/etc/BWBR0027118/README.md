@@ -9,7 +9,7 @@ Gelet op:
 
 – verordening (EG) nr. 669/2009 van de Commissie van de Europese Gemeenschappen van 24 juli 2009 (PbEU L 194) ter uitvoering van verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad van de Europese Unie wat betreft meer uitgebreide officiële controles op de invoer van bepaalde diervoeders en levensmiddelen van niet-dierlijke oorsprong en tot wijziging van beschikking 2006/504/EG; en  
 
-– [artikel 10 van het Warenwetbesluit hygiëne van levensmiddelen](../../../../../../../../../AMvB/warenwetbesluit/hygiëne/van/levensmiddelen/BWBR0018823/README.md);     Besluit:    
+– artikel 10 van het Warenwetbesluit hygiëne van levensmiddelen;     Besluit:    
 
 ### Artikel  1  
 
@@ -34,7 +34,7 @@ d. de luchthaven van Maastricht.
 
 ### Artikel  3  
 
-De Voedsel en Waren Autoriteit is de bevoegde autoriteit, belast met de uitvoering van: 
+De Nederlandse Voedsel- en Warenautoriteit is de bevoegde autoriteit, belast met de uitvoering van: 
 
 a. de artikelen 5, 12, 13, 15, eerste lid, en 19, van verordening (EG) 669/2009;  
 

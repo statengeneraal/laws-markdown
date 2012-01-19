@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Buitenlandse Zaken van 5 december 2008, nr. DJZ/BR/1140-08, houdende nadere regels in verband met de elektronische bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties (Regeling elektronische bekendmaking Tractatenblad)
 
 De Minister van Buitenlandse Zaken,  
-Gelet op de [artikelen 16, zesde lid](../../../../../../rijkswet/rijkswet/goedkeuring/en/bekendmaking/verdragen/BWBR0006799/README.md), 16a en 16b, tweede lid, van de Rijkswet goedkeuring en bekendmaking verdragen;
+Gelet op de artikelen 16, zesde lid, 16a en 16b, tweede lid, van de Rijkswet goedkeuring en bekendmaking verdragen;
 Besluit:    
 
 ### Artikel  1  
@@ -38,7 +38,7 @@ c. op een andere door de Minister van Buitenlandse Zaken te bepalen wijze.
 
 ### Artikel  4  
 
-Het uitgiftepunt, bedoeld in artikel 16b, tweede lid, van de Rijkswet goedkeuring en bekendmaking verdragen, is ondergebracht bij de stichting ICTU, Wilhelmina van Pruisenweg 104, Postbus 84011, 2508 AA Den Haag.  
+Het uitgiftepunt, bedoeld in artikel 16b, tweede lid, van de Rijkswet goedkeuring en bekendmaking verdragen, is ondergebracht bij het Kennis- en exploitatiecentrum Officiële Overheidspublicaties van De Werkmaatschappij, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag.  
 
 ### Artikel  5  
 

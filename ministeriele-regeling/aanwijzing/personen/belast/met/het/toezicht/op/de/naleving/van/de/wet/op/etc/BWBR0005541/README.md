@@ -3,12 +3,12 @@
 ##Aanwijzing personen belast met het toezicht op de naleving van de Wet op de dierproeven
 
 De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur  
-Gelet op [artikel 20 van de Wet op de dierproeven](../../../../../../../../../../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) (Stb. 1977, 67);
+Gelet op artikel 20 van de Wet op de dierproeven (Stb. 1977, 67);
 Besluit:    
 
 ### Artikel  1  
 
-Met het toezicht op de naleving van het bij of krachtens de Wet op de dier proeven bepaalde zijn belast de Veterinaire Hoofdinspecteur van de Voedsel en Waren Autoriteit en de door hem aangewezen ambtenaren.  
+Met het toezicht op de naleving van het bij of krachtens de Wet op de dier proeven bepaalde zijn belast de Hoofdinspecteur van de divisie Veterinair en import van de Nederlandse Voedsel- en Warenautoriteit en de door hem aangewezen ambtenaren.  
 
 ### Artikel  2  
 

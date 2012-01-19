@@ -3,7 +3,7 @@
 ##Warenwetregeling Dieetvoeding voor medisch gebruik
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
-Gelet op richtlijn 1999/21/EG van de Commissie van de Europese Gemeenschappen van 25 maart 1999 betreffende dieetvoeding voor medisch gebruik (PbEG L 91), alsmede op [artikel 10, eerste lid, van het Warenwetbesluit Produkten voor bijzondere voeding](../../../../../../../KB/warenwetbesluit/producten/voor/bijzondere/voeding/BWBR0005489/README.md);
+Gelet op richtlijn 1999/21/EG van de Commissie van de Europese Gemeenschappen van 25 maart 1999 betreffende dieetvoeding voor medisch gebruik (PbEG L 91), alsmede op artikel 10, eerste lid, van het Warenwetbesluit Produkten voor bijzondere voeding;
 Besluit:    
 
 ### Artikel  1  
@@ -43,7 +43,7 @@ a. de in artikel 3, eerste lid, onder a, bedoelde dieetvoeding voor medisch gebr
 b. de in artikel 3, eerste lid, onder b, bedoelde dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, voldoet aan bijlage 1, met dien verstande dat daarvan af mag worden geweken indien dat noodzakelijk is in verband met het gebruiksdoel van de waar;  
 
 c. de in artikel 3, eerste lid, onder c, bedoelde dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, bevat niet meer vitaminen en mineralen dan bedoeld in bijlage 1, met dien verstande dat daarvan af mag worden geweken indien dat noodzakelijk is in verband met het gebruiksdoel van de waar.     
-2.  Onverminderd het voorgaande lid voldoet dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, aan de voor andere nutriënten dan vitaminen en mineralen geldende voorschriften voor volledige zuigelingenvoeding en opvolgzuigelingen in de [Warenwetregeling Zuigelingenvoeding](../../../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/BWBR0006126/README.md), tenzij dit in strijd is met uit het gebruiksdoel voortvloeiende eisen.   
+2.  Onverminderd het voorgaande lid voldoet dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, aan de voor andere nutriënten dan vitaminen en mineralen geldende voorschriften voor volledige zuigelingenvoeding en opvolgzuigelingen in de Warenwetregeling Zuigelingenvoeding, tenzij dit in strijd is met uit het gebruiksdoel voortvloeiende eisen.   
 
 ### Artikel  6  
 
@@ -95,7 +95,7 @@ k. in voorkomend geval, een waarschuwing dat de waar niet voor parenteraal gebru
 
 ### Artikel  9  
 
-1.  De fabrikant van dieetvoeding voor medisch gebruik stelt bij het voor de eerste keer in de handel brengen van een dieetvoeding voor medisch gebruik een specimen van het etiket van de desbetreffende waar ter beschikking gesteld van de Voedsel en Waren Autoriteit.   
+1.  De fabrikant van dieetvoeding voor medisch gebruik stelt bij het voor de eerste keer in de handel brengen van een dieetvoeding voor medisch gebruik een specimen van het etiket van de desbetreffende waar ter beschikking gesteld van de Nederlandse Voedsel- en Warenautoriteit.   
 2.  Het eerste lid is van overeenkomstige toepassing op de importeur die een niet in Nederland bereide dieetvoeding voor medisch gebruik voor de eerste keer binnen Nederlands grondgebied brengt,   
 
 ### Artikel  10  
@@ -117,7 +117,7 @@ Deze bijlage behoort bij artikel 5, eerste lid.
 ###Waarden voor vitaminen, mineralen en spoorelementen in voor zuigelingen bestemde, qua voedingswaarde volledige eet- of drinkwaren
 
 |--- | per 100 kJ  minimum  | maximum  | per 100 kcal  minimum  | maximum  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 |  *Vitaminen:*   | --- | --- | --- | --- |
 | vitamine A (µg RE)  | 14  | 43  | 60  | 180  |
 | vitamine D (µg)  | 0,25  | 0,75  | 1  | 3  |
@@ -158,7 +158,7 @@ Deze bijlage behoort bij artikel 6.
 |---|---|---|---|---|
 |  *Vitaminen:*   | --- | --- | --- | --- |
 | vitamine A (µg RE)  | 8,4  | 43  | 35  | 180  |
-| vitamine D (µg)  | 0,12  | 0,65/0,75  <sup> *   Voor eet- of drinkwaren die bedoeld zijn voor kinderen van één tot tien jaar.    </sup> | 0,5  | 2,5/3   |
+| vitamine D (µg)  | 0,12  | 0,65/0,75  <sup> *   Voor eet- of drinkwaren die bedoeld zijn voor kinderen van één tot tien jaar.    </sup> | 0,5  | 2,5/3  <sup> *   Voor eet- of drinkwaren die bedoeld zijn voor kinderen van één tot tien jaar.    </sup> |
 | vitamine K (µg)  | 0,85  | 5  | 3,5  | 20  |
 | vitamine C (mg)  | 0,54  | 5,25  | 2,25  | 22  |
 | thiamine (mg)  | 0,015  | 0,12  | 0,06  | 0,5  |
@@ -174,7 +174,7 @@ Deze bijlage behoort bij artikel 6.
 | natrium (mg)  | 7,2  | 42  | 30  | 175  |
 | chloride (mg)  | 7,2  | 42  | 30  | 175  |
 | kalium (mg)  | 19  | 70  | 80  | 295  |
-| calcium (mg)  | 8,4/12   | 42/60   | 35/50   | 175/250   |
+| calcium (mg)  | 8,4/12  <sup> *   Voor eet- of drinkwaren die bedoeld zijn voor kinderen van één tot tien jaar.    </sup> | 42/60  <sup> *   Voor eet- of drinkwaren die bedoeld zijn voor kinderen van één tot tien jaar.    </sup> | 35/50  <sup> *   Voor eet- of drinkwaren die bedoeld zijn voor kinderen van één tot tien jaar.    </sup> | 175/250  <sup> *   Voor eet- of drinkwaren die bedoeld zijn voor kinderen van één tot tien jaar.    </sup> |
 | fosfor (mg)  | 7,2  | 19  | 30  | 80  |
 | magnesium (mg)  | 1,8  | 6  | 7,5  | 25  |
 | ijzer (mg)  | 0,12  | 0,5  | 0,5  | 2,0  |

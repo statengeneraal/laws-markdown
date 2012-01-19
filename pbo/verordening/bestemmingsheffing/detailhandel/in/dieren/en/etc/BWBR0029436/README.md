@@ -6,81 +6,94 @@ Het bestuur van het Hoofdbedrijfschap Detailhandel;
 Gelet op de [artikelen 95, tweede lid](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
 
 Gezien het advies van de Adviescommissie dieren en dierenbenodigdheden;
-Besluit:     
-### §  1  
+Besluit:    
+###§ 1 
 
 ####Begripsbepaling en toepassingsgebied
 
-### Artikel  1  
+Materieel uitgewerkt per 16-12-2011 
+
+###Artikel 1 
+Materieel uitgewerkt per 16-12-2011 
 
 In deze verordening wordt verstaan onder: 
 
-a. een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);  
+a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
 
-b. de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;  
+b.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
-c. werkzame personen: de personen die doorgaans ten minste 15 uur per week in de onderneming werkzaam zijn. Deze personen kunnen zijn: 
+c.werkzame personen: de personen die doorgaans ten minste 15 uur per week in de onderneming werkzaam zijn. Deze personen kunnen zijn:
 
-al dan niet in dienst van de betrokken onderneming zijnde werknemers;  
+al dan niet in dienst van de betrokken onderneming zijnde werknemers;
 
-meewerkend ondernemer;  
+meewerkend ondernemer;
 
-meewerkend gezinslid van de ondernemer;    
+meewerkend gezinslid van de ondernemer;
 
-d. detailhandel in dieren en dierenbenodigdheden: het verkopen van dieren en dierenbenodigdheden aan particulieren;  
+d.detailhandel in dieren en dierenbenodigdheden: het verkopen van dieren en dierenbenodigdheden aan particulieren;
 
-e. ambulante handel: markthandel, straathandel en handel te water;  
+e.ambulante handel: markthandel, straathandel en handel te water;
 
-f. verkoopplaats: iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;  
+f.verkoopplaats: iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;
 
-g. bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);  
+g.bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
 
-h. de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.    
+h.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 
-### Artikel  2  
+###Artikel 2 
+Materieel uitgewerkt per 16-12-2011 
 
-1.  Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarin hoofdzakelijk de detailhandel in dieren en dierenbenodigdheden wordt uitgeoefend.   
-2.  Deze verordening is niet van toepassing op de ondernemers die: 
+1. Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarin hoofdzakelijk de detailhandel in dieren en dierenbenodigdheden wordt uitgeoefend. 
+2. Deze verordening is niet van toepassing op de ondernemers die:
 
-a. een onderneming drijven waarin de detailhandel in dieren en dierenbenodigdheden uitsluitend in de vorm van ambulante handel wordt uitgeoefend, of  
+a.een onderneming drijven waarin de detailhandel in dieren en dierenbenodigdheden uitsluitend in de vorm van ambulante handel wordt uitgeoefend, of
 
-b. een onderneming drijven waarin hoofdzakelijk de detailhandel in hengelsportartikelen wordt uitgeoefend.     
+b.een onderneming drijven waarin hoofdzakelijk de detailhandel in hengelsportartikelen wordt uitgeoefend.
 
-### §  2  
+###§ 2 
 
 ####De bestemmingsheffing
 
-### Artikel  3  
+Materieel uitgewerkt per 16-12-2011 
 
-1.  Aan de ondernemers die een onderneming drijven als bedoeld in artikel 2, eerste lid, van deze verordening, wordt voor het jaar 2011 een bestemmingsheffing opgelegd ter financiering van de Adviescommissie dieren en dierenbenodigdheden. Doel van deze bestemmingsheffing is bevordering van een gezonde sociaal-economische ontwikkeling van de detailhandel in dieren en dierenbenodigdheden door middel van collectieve promotie, professionalisering van de bedrijfsvoering en voorlichting.   
-2.  De bestemmingsheffing bestaat uit: 
+###Artikel 3 
+Materieel uitgewerkt per 16-12-2011 
 
-a. een basisheffing van € 70,- per onderneming; en  
+1. Aan de ondernemers die een onderneming drijven als bedoeld in artikel 2, eerste lid, van deze verordening, wordt voor het jaar 2011 een bestemmingsheffing opgelegd ter financiering van de Adviescommissie dieren en dierenbenodigdheden. Doel van deze bestemmingsheffing is bevordering van een gezonde sociaal-economische ontwikkeling van de detailhandel in dieren en dierenbenodigdheden door middel van collectieve promotie, professionalisering van de bedrijfsvoering en voorlichting. 
+2. De bestemmingsheffing bestaat uit:
 
-b. een heffing werkzame personen voor ondernemingen met twee of meer werkzame personen van € 38,- per onderneming, en  
+a.een basisheffing van € 70,- per onderneming; en
 
-c. en een filiaalheffing van € 108,- voor elke tweede en volgende verkoopplaats van de onderneming.     
-3.  De bestemmingsheffing bedraagt maximaal € 1.080,- voor ten hoogste 10 verkoopplaatsen.   
+b.een heffing werkzame personen voor ondernemingen met twee of meer werkzame personen van € 38,- per onderneming, en
 
-### §  3  
+c.en een filiaalheffing van € 108,- voor elke tweede en volgende verkoopplaats van de onderneming. 
+3. De bestemmingsheffing bedraagt maximaal € 1.080,- voor ten hoogste 10 verkoopplaatsen. 
+
+###§ 3 
 
 ####Overige bepalingen
 
-### Artikel  4  
+Materieel uitgewerkt per 16-12-2011 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2011](../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2011/BWBR0029063/README.md) zijn van overeenkomstige toepassing.  
+###Artikel 4 
+Materieel uitgewerkt per 16-12-2011 
 
-### Artikel  5  
+De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2011](../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2011/BWBR0029063/README.md) zijn van overeenkomstige toepassing.
 
-Het besluit tot het opleggen van de bestemmingsheffing als bedoeld in artikel 3, alsmede besluiten voortvloeiend uit artikel 4 van deze verordening worden genomen door de voorzitter.  
+###Artikel 5 
+Materieel uitgewerkt per 16-12-2011 
 
-### Artikel  6  
+Het besluit tot het opleggen van de bestemmingsheffing als bedoeld in artikel 3, alsmede besluiten voortvloeiend uit artikel 4 van deze verordening worden genomen door de voorzitter. 
 
-Deze verordening treedt in werking na afkondiging in het Verordeningenblad Bedrijfsorganisatie.  
+###Artikel 6 
+Materieel uitgewerkt per 16-12-2011 
 
-### Artikel  7  
+Deze verordening treedt in werking na afkondiging in het Verordeningenblad Bedrijfsorganisatie. 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing detailhandel in dieren en dierenbenodigdheden 2011.  
+###Artikel 7 
+Materieel uitgewerkt per 16-12-2011 
+
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing detailhandel in dieren en dierenbenodigdheden 2011. 
 
 Den Haag 
 27 oktober 2010   
