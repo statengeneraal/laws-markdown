@@ -29,14 +29,14 @@ Het college keert het voorlopig vastgestelde, het nader vastgestelde en het defi
 
 ### Artikel  3  
 
-1.  Het college verdeelt in het jaar 2011 een totaalbedrag van 154,719 miljoen euro aan besteedbare middelen beheerskosten over de verbindingskantoren.   
+1.  Het college verdeelt in het jaar 2011 een totaal bedrag van 155,483 miljoen euro aan besteedbare middelen beheerskosten over de verbindingskantoren.   
 2.  Het college stelt in januari 2011 voor ieder verbindingskantoor een voorlopig beheerskostenbudget vast ter bepaling van de besteedbare middelen voor de beheerskosten ten laste van het Algemeen Fonds Bijzondere Ziektekosten.   
 
 ### Artikel  4  
 
 Het college verdeelt het in artikel 3, eerste lid, genoemde totaalbedrag als volgt: 
 
-a. een bedrag van 26,682 miljoen euro op basis van een bedrag van € 180,92 per budgethouder uitgaande van 147.481budgethouders op 30 juni 2011;  
+a. een bedrag van 24,100 miljoen euro op basis van een bedrag van € 180,92 per budgethouder en 133.208 budgethouders op 30 juni 2011;  
 
 b. een bedrag van 4,893 miljoen euro op basis van een gelijk bedrag per verbindingskantoor;  
 

@@ -3,19 +3,9 @@
 ##Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst, van 27 november 2001, Directie Arbeidsomstandigheden, Arbo/AIS 0174663, tot vaststelling van beleidsregels op het gebied van de arbeidsomstandighedenwetgeving (Beleidsregels arbeidsomstandighedenwetgeving)
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst,  Besluit:     
-### Hoofdstuk  1  
+### A  
 
-####Beleidsregels [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)
-
-### Beleidsregel  8  
-
-####Voorlichting en onderricht aan zwangere werknemers en werknemers tijdens lactatie
-
-Grondslag [Arbowet artikel 8](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), juncto [Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  
-
-1.  De verplichting van de werkgever om er voor te zorgen dat een werknemer doeltreffend wordt voorgelicht en dat aan werknemers doeltreffend onderricht wordt verstrekt houdt mede in dat specifieke voorlichting en onderricht wordt gegeven aan zwangere werknemers en werknemers tijdens lactatie.   
-2.  De werkgever geeft een zwangere werknemer voorlichting over de risico's van haar werk voor haarzelf en haar (ongeboren) kind en de genomen maatregelen om deze risico's te voorkomen Bij deze voorlichting wordt ook aandacht besteed aan de rustruimte binnen het bedrijf. Deze voorlichting vindt plaats binnen twee weken nadat de zwangere werknemer aan de werkgever gemeld heeft zwanger te zijn.   
-3.  Tevens geeft de werkgever voorlichting aan de werknemer vóór het bevallingsverlof over de risico's van het werk voor de pas bevallen werknemer en de genomen maatregelen om deze risico's te voorkomen. Deze voorlichting betreft ook informatie inzake risico's van het werk voor kwaliteit en kwantiteit van de borstvoeding en de genomen maatregelen om deze risico's te voorkomen.   
+####Beleidsregel Arbeidsomstandighedenwet
 
 ### Beleidsregel  33  
 
@@ -91,486 +81,7 @@ b. indien sprake is van meer dan één slachtoffer wordt het boetebedrag als vol
 c. bij de berekening van de op te leggen bestuurlijke boete kunnen de drie factoren aan de orde zijn, genoemd in het vierde lid, onder b, en op overeenkomstige wijze leiden tot verlaging van het al dan niet op bedrijfsgrootte gecorrigeerde normbedrag.     
 9.  Indien de verwijtbaarheid ontbreekt, wordt conform [artikel 5:41 van de Algemene wet bestuursecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen bestuurlijke boete opgelegd.   
 
-### Hoofdstuk  2  
-
-####Beleidsregels [arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)
-
-### Beleidsregel  1.42  
-
-####Organisatie van de arbeid van zwangere werknemers en werknemers tijdens de lactatie
-
-Grondslag [Arbobesluit artikel 1.42](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).  
-
-1.  De verplichting van de werkgever om de arbeid van een zwangere werknemer en werknemer tijdens lactatie zodanig te organiseren dat de arbeid voor die werknemer geen gevaren met zich kan brengen voor haar veiligheid en gezondheid en geen terugslag kan veroorzaken op de zwangerschap of lactatie, houdt ten minste in dat: 
-
-a. de zwangere werknemer bij de arbeid niet wordt blootgesteld aan lichaamstrillingen of schokken met een versnelling van meer dan 0,25 m/s²;  
-
-b. de zwangere werknemer bij de arbeid niet wordt blootgesteld aan equivalente geluidsniveaus boven de 80 dB(A) en piekgeluiden boven 200 Pa;  
-
-c. de zwangere werknemer niet wordt blootgesteld aan klimaatomstandigheden, die kunnen worden beschouwd als onbehaaglijk;  
-
-d. de noodzaak tot bukken, hurken of knielen bij de arbeid voor de zwangere werknemer zoveel mogelijk wordt voorkomen. In de laatste drie maanden mogen zwangere werknemers niet worden verplicht dagelijks meer dan eenmaal per uur te hurken, knielen, bukken of staande voetpedalen te bedienen;  
-
-e. de noodzaak tot handmatig tillen van gewichten bij de arbeid door de zwangere of pas bevallen werknemer tot drie maanden na de bevalling zoveel mogelijk wordt beperkt en, als er toch handmatig gewichten getild worden: 
-
-1°. het in één handeling te tillen gewicht gedurende de gehele zwangerschap en de periode tot drie maanden na de bevalling minder dan 10 kilogram bedraagt;  
-
-2°. vanaf de twintigste week van de zwangerschap gewichten van meer dan 5 kilogram niet meer dan 10 keer per dag worden getild;  
-
-3°. vanaf de dertigste week van de zwangerschap gewichten van meer dan 5 kilogram niet meer dan 5 keer per dag worden getild;    
-
-f. de zwangere werknemer of werknemer tijdens lactatie bij de arbeid niet wordt blootgesteld aan stoffen die de gezondheid van henzelf en/of hun (ongeboren) kind kunnen schaden;  
-
-g. de zwangere werknemer niet wordt verplicht, om in direct contact te komen met een ultrasonore trillingsbron. Voor ultrasonore luchttrillingen met frequenties boven 20 kHz geldt als voorlopige grenswaarde 110 dB(A) per tertsband.     
-2.  Klimaatomstandigheden worden beschouwd als onbehaaglijk als bedoeld in het eerste lid, onder c wanneer het predicted percentage of dissatisfied (PPD) bepaald op basis van NEN-EN-ISO 7730: 1996 "Gematigde thermische bmnenomstandigheden Bepalingen van de PMV- en de PPD-waarde en specificaties van de voorwaarden voor thermische behaaghjkheid", meer bedraagt dan 20%.   
-3.  Tot de stoffen bedoeld in het eerste lid, onder f, worden in elk geval gerekend: 
-
-a. stoffen die de gezondheid schade kunnen toebrengen via een zogenaamd genotoxisch werkingsmechanisme en die via de moeder het ongeboren kind of de zuigeling kunnen bereiken, waaronder alle mutagene en vrijwel alle kankerverwekkende stoffen,  
-
-b. stoffen die, via een niet-genotoxisch werkingsmechanisme door blootstelling van de moeder de gezondheid van het ongeboren kind of de zuigeling kunnen schaden.     
-
-### Beleidsregel  2-2  
-
-####Aanvullende eisen risico-inventarisatie en - evaluatie, aanwijzing installaties
-
-Grondslag: [Arbobesluit afdeling 2 van hoofdstuk 2](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  
-
-1.  Bij de uitwerking van de begripsomschrijving van een installatie voor bewerking, als bedoeld in [artikel 2.2, aanhef en onder g, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) namelijk het stelsel van vaten, apparaten en leidingen dat ten aanzien van de omsloten gevaarlijke stof als één geheel is te beschouwen, wordt, in volgorde van belangrijkheid, het volgende drietal elementen betrokken. 
-
-a. De procesmatige afbakening. Bij procesmatige afbakening, passend in de begripsomschrijving ‘installatie voor bewerking’, wordt zoveel mogelijk aaneengesloten bij de definitie van proces, zijnde een samenhangend geheel van een of meer bewerkingen en/of reacties, waaraan stof(fen) word(t)(en) onderworpen. Voor de aanwijzing wordt de totale hoeveelheid gevaarlijke stof welke zich in de afgebakende installatie bevindt berekend.  
-
-b. De organisatorische afbakening. Geeft het criterium ‘procesmatige afbakening’ onvoldoende duidelijkheid, dan wordt de organisatorische afbakening toegepast. De afgebakende installatie bevat alleen procesapparatuur die wordt bediend door uitvoerend personeel behorende tot één organisatorische eenheid.  
-
-c. De ruimtelijke afbakening. Geeft het criterium ‘organisatorische afbakening’ vervolgens onvoldoende duidelijkheid, dan wordt de ruimtelijke afbakening toegepast. Bij de afbakening van installaties voor bewerking wordt rekening gehouden met de ruimterijke ligging van de processen ten opzichte van elkaar. De processtappen bevinden zich binnen een herkenbare ruimtelijke begrenzing van de installatie voor bewerking, dat wil zeggen in de onmiddellijke nabijheid van elkaar.     
-2.  In [artikel 2.2 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) is aangegeven dat een installatie voor verlading wordt aangemerkt als een installatie voor bewerking. De hoeveelheid gevaarlijke stof die zich in een transporteenheid bevindt wordt echter niet in de totale hoeveelheid meegenomen, tenzij de transporteenheid zich binnen de ruimtelijke grenzen van de afgebakende installatie bevindt. Indien de transporteenheid zich buiten de ruimtelijke grenzen van de afgebakende installatie bevindt, dient deze te worden aangemerkt als een installatie voor opslag.   
-3.  De afbakening van een installatie voor bewerking, zoals bedoeld in [artikel 2.2 onder g, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) kan bij complexe procesinstallatie met een veelheid aan productieprocessen problemen geven. De nadere uitwerking moet aan die problemen tegemoet komen. Doel is dat de Aanvullende risico-inventarisatie en -evaluatie (ARIE) een goede en op de praktijk gerichte beschrijving vormt, die recht doet aan de doelstellingen van de regelgeving, bedoeld in [afdeling 2 van hoofdstuk 2 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) het ARIE-besluit.   
-4.  Voor de opslag van gevaarlijke stoffen in verpakkingseenheden (zakken, drums, flessen enz.) als bedoeld in [artikel 2.2, onder h, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) dient voor wat betreft de aanwijzing de totale hoeveelheid gevaarlijke stof in de zich op één plaats bevindende eenheden van verpakking beschouwd te worden. Bij het samenstellen van de ARIE kan ervoor gekozen worden de beschrijving van verschillende opslaginstallaties te combineren. Voor een tankpark kan dan met één set scenario’s worden volstaan. De verschillende risico’s moeten wel duidelijk beschreven blijven.   
-5.  Het uitgangspunt van de aanwijzing, als bedoeld in [artikel 2.3, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) is de vergelijking van de gecorrigeerde hoeveelheid gevaarlijke stof in de installatie met de grenswaarde van die stof. Hierbij gelden de volgende voorwaarden: 
-
-a. De installatie is aangewezen als met betrekking tot enige gevarensoort geldt: 
-
-Q x O ≥ G, of anders geschreven A ≥ 1, waarbij A = (Q x O) / G Q = de hoeveelheid in de installatie aanwezige stof (of groep van stoffen) [kg]; O = de totale omstandigheidsfactor [-]; G = de grenswaarde van de stof (of groep van stoffen) [kg]; en A = aanwijzingsgetal [-].    
-
-b. Bij mengsels van stoffen moeten de per stof berekende aanwijzingsgetallen per categorie (brandbaar, extreem toxisch en toxisch) gesommeerd worden. Omdat alleen bij mengsels van toxische stoffen sprake kan zijn van verschillende grenswaarden geldt die bepaling in de praktijk alleen daarvoor.  
-
-c. Bij ontplofbare stoffen (onder deze categorie zijn ook mengsels begrepen) schuilt, anders dan bij de hiervoor vermelde categorieÎn van gevaarlijke stoffen, het gevaar in de stof zelf, in die zin, dat de stof niet eerst vrij hoeft te komen alvorens het gevaar voor de werknemer manifest kan worden. Voor deze groep van stoffen zijn de heersende omstandigheden dan ook niet relevant en worden geen omstandigheidsfactoren in rekening gebracht.     
-6.  Bij de afleiding van grenswaarden voor toxische stoffen, als bedoeld in [artikel 2.4, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt uitgegaan van het volgende schema:  
-
-| --- | --- | --- |
-|:---|:---|:---|
-|  *LC50 IHL-RAT/1h mg/m <sup>3</sup>*   |  *Hoedanigheid bij 25 ºC*   |  *Grenswaarde (kg)*   |
-| 20 < LC ≤ 100  | gasvormig  | 3  |
-| --- | vloeibaar (L)  | 10  |
-| --- | vloeibaar (M)  | 30  |
-| --- | vloeibaar (H)  | 100  |
-| --- | vast ¹  | 300  |
-| 100 < LC ≤ 500  | gasvormig  | 30  |
-| --- | vloeibaar (L)  | 100  |
-| --- | vloeibaar (M)  | 300  |
-| --- | vloeibaar (H)  | 1000  |
-| --- | vast ¹  | 3000  |
-| 500 < LC ≤ 2.000  | gasvormig  | 300  |
-| --- | vloeibaar (L)  | 1000  |
-| --- | vloeibaar (M)  | 3000  |
-| --- | vloeibaar (H)  | 10000  |
-| --- | vast ¹  | GEEN  |
-| 2.000 < LC ≤ 20.000  | gasvormig  | 3000  |
-| --- | vloeibaar (L)  | 10000  |
-| --- | vloeibaar (M)  | GEEN  |
-| --- | vloeibaar (H)  | GEEN  |
-| --- | vast ¹  | GEEN  |
-
-¹ als respirabele stof L: atmosferisch kookpunt tussen 25 °C en 50 °C M: atmosferisch kookpunt tussen 50 °C en 100 °C H: atmosferisch kookpunt boven 100 °C   
-7.  Op basis van het gestelde in [artikel 2.4, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) is een lijst van grenswaarden van toxische stoffen opgesteld, welke is opgenomen als bijlage 4 bij deze beleidsregels. Tevens is een lijst van explosieve stoffen vastgesteld, welke is opgenomen als bijlage 5a bij deze beleidsregels. De lijsten zijn niet limitatief. Ze kunnen worden aangevuld dan wel gewijzigd indien meer of betere gegevens bekend worden. Het kan daadoor voorkomen dat een installatie op het moment van aanvulling van de lijst ARIE-plichtig wordt. De verplichting tot het opstellen van een ARIE is dan gekoppeld aan het tijdstip waarop de desbetreffende stof met de bijbehorende grenswaarde voor het eerst op de lijst verschijnt’.   
-8.  Als de procestemperatuur bedoeld in [artikel 2.5, onder e en f, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) gelijk is aan de omgevingstemperatuur, wordt een temperatuur van 25 °C aangehouden.   
-9.  De in [artikel 2.5 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) omschreven omstandigheidsfactoren kunnen als volgt in tabelvorm samengevat worden:  
-
-| --- | --- | --- |
-|:---|:---|:---|
-| --- |  *Omstandigheidsfactoren*   |  *Waarde*   |
-| a.  | Factor O <sub>s</sub> voor stof in opslag  | 0,01  |
-| b.  | Factor O <sub>c</sub> voor installatie binnen een omhulling  | 10  |
-| c.  | Factor O <sub>p</sub>: voor stof onder procesomstandigheden  | --- |
-| 1°  | vloeistof met procestemperatuur ¹ boven atmosferisch kookpunt ²  | 1 tot 10 (zie tabel)  |
-| 2°  | vloeistof met procestemperatuur ¹ beneden atmosferisch kookpunt ²  | 0,1 tot 1 (zie tabel)  |
-| 3°  | stof in de gasfase  | 10  |
-| 4°  | stof in de vaste fase (respirabel poeder) ³  | 0,1  |
-
-¹ Voor een procestemperatuur beneden 25 °C, zie 10e lid, onder d. ² Voor gecompliceerde mengsels, zie 10e lid, onder a. ³ Vaste toxische en extreem toxische stoffen worden alleen in beschouwing genomen voor zover ze in poedervorm voorkomen (respirabel).  Berekeningswijze factor O <sub>p</sub> voor vloeistoffen 
-
-|  *Procestemperatuur ten opzichte van het atmosferisch kookpunt:*   |  *Factor O <sub>p</sub>*   |
-|:---|:---|
-| meer dan 90 °C lager  | 0,1  |
-| 80 °C tot 90 °C lager  | 0,2  |
-| 70 °C tot 80 °C lager  | 0,3  |
-| 60 ∞C tot 70 °C lager  | 0,4  |
-| 50 °C tot 60 °C lager  | 0,5  |
-| 40 °C tot 50 °C lager  | 0,6  |
-| 30 °C tot 40 °C lager  | 0,7  |
-| 20 °C tot 30 °C lager  | 0,8  |
-| 10 °C tot 20 °C lager  | 0,9  |
-| minder dan 10 °C lager of hoger danwel gelijk aan atm. kpt.  | 1  |
-| 10 °C tot 20 °C hoger  | 2  |
-| 20 °C tot 30 °C hoger  | 3  |
-| 30 °C tot 40 °C hoger  | 4  |
-| 40 °C tot 50 °C hoger  | 5  |
-| 50 °C tot 60 °C hoger  | 6  |
-| 60 °C tot 70 °C hoger  | 7  |
-| 70 °C tot 80 °C hoger  | 8  |
-| 80 °C tot 90 °C hoger  | 9  |
-| meer dan 90 °C hoger  | 10  |
-
-10.  Gecompliceerde mengsels. Bepaling van de factor O <sub>p</sub> 
-
-a. Indien sprake is van een mengsel van een groot aantal stoffen met verschillende kookpunten, is het vaak niet doenlijk de berekening voor elke stof afzonderlijk uit te voeren (te denken valt aan aardolieproducten). In die gevallen kan voor het kookpunt van het mengsel het zogenaamde 10% punt aangehouden worden (de temperatuur waarbij tien procent van het mengsel bij een standaard- testmethode overgedestilleerd is).  
-
-b. Voor gevaarlijke stoffen die zijn verdund met een ongevaarlijk oplosmiddel, bijvoorbeeld ammoniak in water, zoutzuur in water of alcohol in water, moet uitsluitend de in de installatie aanwezige hoeveelheid gevaarlijke stof, los van het oplosmiddel beschouwd worden.  
-
-c. De factor O <sub>p</sub> mag in een dergelijk geval tussen de grenzen 0,1 en 10 worden afgestemd op het onder de procescondities te verwachten dampgenererend vermogen bij de ontsnapping van de oplossing. De factor wordt berekend door de partiële dampspanning van de gevaarlijke stof boven de oplossing bij de procestemperatuur, te delen door de atmosferische druk. Bij de berekening van de factor moet deze op een geheel getal afgerond worden indien het resultaat tussen één en tien ligt en op één decimaal indien het resultaat kleiner dan één is, met dien verstande dat de ondergrens 0,1 is. Bij de voorbeelden in de toelichting bij deze beleidsregel is een dergelijk geval uitgewerkt.  
-
-d. Bij een procestemperatuur beneden 25°C wordt O <sub>p</sub> voor vloeistoffen als volgt verhoogd:  
-
-| --- | --- | --- |
-|:---|:---|:---|
-| procestemperatuur:  | 25 °C tot -25 °C  | O <sub>p</sub> + 0  |
-| --- | -25 °C tot -75 °C  | O <sub>p</sub> + 1  |
-| --- | -75 °C tot -125 °C  | O <sub>p</sub> + 2  |
-| --- | -125 °C tot -175 °C  | O <sub>p</sub> + 3  |
-
-met dien verstande dat de resulterende O <sub>p</sub> maximaal 10 bedraagt.  
-
-e. De totale omstandigheidsfactor O is gelijk aan het product van de factor voor opslag (O <sub>s</sub>), de factor voor omhulling(O <sub>c</sub>) en de procesfactor(O <sub>p</sub>) .     
-11.  Omstandigheidsfactor voor opslag. In of aan installaties voor opslag kunnen voorzieningen zijn getroffen die tot doel hebben de opgeslagen stof onder opslagcondities te houden. (Bijvoorbeeld een warmtewisselaar, roerwerk, circulatiesysteem, doseersysteem). Het in gebruik hebben van een dergelijke voorziening heeft niet tot gevolg dat de installatie voor opslag als een installatie voor bewerking bezien moet worden. De toe te kennen omstandigheidsfactor blijft 0,01.   
-
-### Beleidsregel  3.5g -1  
-
-####Onderzoek in ruimten waar gevaar bestaat voor verstikking, bedwelming, vergiftiging, brand of explosie
-
-Grondslag: Arbobesluit artikel 3.5g, eerste lid  
-
-1.  Adequaat onderzoek als bedoeld in artikel 3.5g, eerste lid, van het Arbeidsomstandighedenbesluit houdt in dat voor het betreden van de ruimte in deze ruimte met geschikte meetapparatuur wordt vastgesteld of de feitelijke situatie zodanig is dat gevaren voor verstikking, bedwelming, vergiftiging, brand of explosie niet zullen optreden. Dit wordt vastgesteld door achtereenvolgens: 
-
-a. bepaling van het zuurstofgehalte als de kans op verstikking of van een met zuurstof verrijkte atmosfeer bestaat;  
-
-b. bepaling van de samenstelling van het mengsel dat een risico vormt ten aanzien van brand of explosie;  
-
-c. bepalingen van de concentraties van aanwezige stoffen wanneer de kans op vergiftiging of bedwelming bestaat en vergelijking van de gemeten waarden met wettelijke grenswaarden.     
-2.  Gedurende de werkzaamheden worden frequente herhalingsmetingen uitgevoerd van de aanwezige stoffen en zuurstof indien de kans op brand, vergiftiging, verstikking of bedwelming in de ruimte of nabij de toegang van de ruimte tijdens de werkzaamheden blijft bestaan of vergroot wordt.   
-3.  Het onderzoek wordt uitgevoerd door personen, die zowel op de hoogte zijn van de gevaren van bedoelde ruimten als van de van toepassing zijnde meetmethoden en zodanig dat de resultaten eenduidig en betrouwbaar zijn. De resultaten worden schriftelijk vastgelegd.   
-
-### Beleidsregel  3.16  
-
-####Voorzieningen bij valgevaar
-
-Grondslag: [Arbobesluit artikel 3.16, eerste en tweede lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).  
-
-1.  Het tegengaan van valgevaar bij het verrichten van arbeid op pluklorries, die voor 1-1-1992 in gebruik zijn genomen in champignonkwekerijen of kassen, is in overeenstemming met [artikel 3.16, eerste lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), indien randbeveiliging is aangebracht bij valgevaar van 1,20 m of meer.   
-2.  Het tegengaan van valgevaar bij montage van liften in liftschachten vanaf een montageplatform of vanaf een bewegende vloer is in overeenstemming met het gestelde in [artikel 3.16, eerste lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) indien wordt voldaan aan de eisen voor bewegende vloeren in liftschachten, zoals werden gepubliceerd in Mededeling 236, derde kwartaal 1992 van het Liftinstituut.   
-3.  Hekwerken cq. randbeveiligmgen worden als doelmatig aangemerkt indien: 
-
-a. ten aanzien van de constructie 
-
-1°. zij aan de bovenzijde zijn voorzien van een stevige leuning op tenminste 1,0 m boven het werkvlak,  
-
-2°. zij bij open constructies aan de onderzijde aansluitend op het werkvlak zijn voorzien van een kantplank van 15 cm hoog, indien uitsteeksels het aansluiten verhinderen, is hierop enige afwijking (15 cm) toegestaan, mits in overeenstemming met het gestelde in [artikel 3.17](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) maatregelen zijn genomen die voorkomen, dat personen kunnen worden getroffen door voorwerpen, die door de aldus ontstane opening(-en) vallen of rollen en  
-
-3°. in open constructies de openingen zodanig beperkt blijven, dat een kubus met zijden van 47 cm de openingen niet kan passeren.    
-
-b. ten aanzien van de sterkte 
-
-1°. zij niet bezwijken bij een op de meest ongunstige plaats aangebrachte neerwaartse belasting van 1,25 kN danwel de vervorming ten gevolge van die belasting van dien aard is dat de functionaliteit van het hekwerk c.q. de randbeveiliging gewaarborgd blijft,  
-
-2°. zij zijdelings niet meer dan 3,5 cm doorbuigen en niet worden verplaatst bij een horizontale belasting van 0,3 kN en  
-
-3°. zij in functie blijven (niet uit een aanwezige bevestiging worden getild) bij een opwaarts gerichte belasting van 0,3 kN.       
-4.  Hekwerken cq. randbeveiligingen kunnen bij niet schuine werkvlakken achterwege blijven, indien de arbeid op meer dan 4,0 m afstand van de rand van het werkvlak wordt uitgevoerd en de arbeidszone alsmede de weg daar naar toe duidelijk gemarkeerd zijn Indien de arbeidszone en de weg daar naar toe tevens zijn afgezet, kan deze afstand tot 2,0 m beperkt worden.   
-5.  Werkvloeren zijn altijd gesloten of dichtgelegd. Voor afwateringsdoeleinden e.d. zijn geringe openingen toegestaan, die door een kubus met zijden van 8 cm met kunnen worden gepasseerd.   
-6.  Onder "het verrichten van arbeid waarbij valgevaar bestaat" wordt ook verstaan het zich begeven naar de arbeidsplaats. Doelmatige voorzieningen hiervoor kunnen ladders zijn, mits deze bij klimhoogten van 10 m of meer op maximale afstanden van 7,50 m zijn onderbroken door rustbordessen. Op het te betreden vlak is aan weerszijden van de toegang randbeveiliging aangebracht over een lengte van 4,0 m of sluit de toegang aan op de aanwezige randbeveiliging.  Deze beleidsregel is niet van toepassing aan boord van schepen. Voor schepen gelden de voorschriften voor de voorzieningen bij valgevaar zoals die in de schepenwetgeving zijn opgenomen.  
-
-### Beleidsregel  4.1c -2  
-
-####Etikettering gevaarlijke stoffen die op de werkplek aanwezig zijn
-
-Grondslag: Arbobesluit artikel 4.1c, eerste lid, onder i.  
-
-1.  Aan de vermelding op de verpakking van de naam van de stof en van de aanduiding van de aard van de gevaren van een stof, als bedoeld in artikel 4.1c, eerste lid, onder i, van het Arbeidsomstandighedenbesluit wordt voldaan als de vermelding tenminste omvat: 
-
-a. de naam van de gevaarlijke stof en de relevante gevaarlijke bestanddelen,  
-
-b. gevaarssymbolen en gevaarsbenamingen,  
-
-c. waarschuwingszinnen     
-2.  Voor de aanduiding geldt dat een stof niet alleen in een gevaarscategorie wordt ingedeeld als de desbetreffende indelingscriteria van de Wet milieubeheer (Wm) daartoe aanleiding geven, maar ook als onderzoeksresultaten met die stof voldoen aan de criteria van de Wm.   
-3.  In afwijking van het eerste lid worden op laboratoriumhulpmiddelen die voor steeds wisselende chemicaliën worden gebruikt, niet steeds alle voor de werkpleketikettering verplichte aanduidingen aangebracht. In dit geval wordt aan de verplichting als bedoeld in artikel 4.1c, eerste lid, onder i, van het Arbeidsomstandighedenbesluit voldaan als voor een enkelvoudige stof de officiële stofnaam, en voor een meervoudige stof de gangbare benaming of de gevaarlijke bestanddelen op de bedoelde hulpmiddelen worden aangebracht. Deze aanduidingen zijn niet verplicht wanneer hulpmiddelen alleen gebruikt worden voor kortdurende handelingen.   
-4.  In afwijking van het eerste lid wordt in het geval van opslag van stoffen in grotere hoeveelheden in speciale opslagruimten aan artikel 4.1c, eerste lid, onder i, van het Arbeidsomstandighedenbesluit voldaan, wanneer voor meerdere identieke verpakkingen door middel van één etiket-afdruk (bijvoorbeeld op een bord) opvallend en goed leesbaar de verplichte aanduidingen aangebracht zijn. Deze aanduidingen worden zodanig aangebracht dat voor elke afzonderlijk opgeslagen verpakking te allen tijde ter plekke duidelijk is dat de aanduidingen op de betreffende verpakking van toepassing zijn. Wanneer stoffen uitsluitend voor de verkoop zijn opgeslagen kan worden volstaan met het aanbrengen van de aanduidingen welke krachtens de Wm of andere regelgeving bij aflevering in Nederland verplicht zijn.   
-5.  In afwijking van het eerste lid wordt in geval van het vervoer en het laden en lossen van gevaarlijke stoffen aan artikel 4.1c, eerste lid, onder i, voldaan, als de vervoerders (chauffeurs en bijrijders) en de laders en lossers tijdens hun werkzaamheden ter plekke beschikken over de gegevens welke op grond van het tweede lid op het etiket zouden moeten zijn vermeld. Het in het eerste lid gestelde vindt geen toepassing voor die gevallen waarop de Wet vervoer gevaarlijke stoffen van toepassing is.   
-
-### Beleidsregel  4.1c -4  
-
-####Doeltreffende beheersing van blootstelling aan gevaarlijke stoffen
-
-Grondslag: Arbobesluit artikel 4.1c, eerste lid, juncto artikel 4.4, eerste tot en met vijfde lid, juncto artikel 4.3, derde lid.  
-
-1.  Maatregelen als bedoeld in artikel 4.1c, eerste lid, en artikel 4.4, eerste tot en met vijfde lid, van het Arbeidsomstandighedenbesluit zijn in elk geval niet doeltreffend als de concentraties van stoffen in de ademzone van werknemers de voor die stoffen vastgestelde grenswaarden overschrijden.   
-2.  Maatregelen als bedoeld in artikel 4.1c, eerste lid, en artikel 4.4, eerste tot en met vierde lid van het Arbeidsomstandighedenbesluit zijn niet doeltreffend als huidcontact aanwezig is of mogelijk blijkt met stoffen waarvoor een huidnotatie is vastgesteld, zoals opgenomen in de lijst van wettelijke grenswaarden in bijlage XIII bij de Arbeidsomstandighedenregeling. In dergelijke situaties worden doelmatige persoonlijke huidbeschermingsmiddelen gedragen, als bedoeld in artikel 4.9, achtste lid, van het Arbeidsomstandighedenbesluit.   
-3.  Maatregelen als bedoeld in artikel 4.1c, eerste lid, en artikel 4.4, eerste tot en met vierde lid, van het Arbeidsomstandighedenbesluit zijn niet doeltreffend als huidcontact aanwezig is of mogelijk blijkt met stoffen, die voldoen aan de criteria voor toekenning van de volgende gevaarszinnen en veiligheidsaanbevelingen (R- en S-zinnen): 
-
-a. R21: "Schadelijk bij aanraking met de huid"  
-
-b. R24: "Vergiftig bij aanraking met de huid"  
-
-c. R27: "Zeer vergiftig bij aanraking met de huid"  
-
-d. R34: "Veroorzaakt brandwonden"  
-
-e. R35: "Veroorzaakt ernstige brandwonden"  
-
-f. R38: "Irriterend voor de huid"  
-
-g. R43: "Kan overgevoeligheid veroorzaken bij contact met de huid"  
-
-h. S36: "Draag geschikte beschermende kleding"  
-
-i. S37: "Draag geschikte handschoenen"   In dergelijke situaties worden doelmatige persoonlijke huidbeschermingsmiddelen gedragen als bedoeld in artikel 4.9, achtste lid van het Arbeidsomstandighedenbesluit.   
-4.  Maatregelen als bedoeld in artikel 4.1c, eerste lid, en artikel 4.4, eerste tot en met vierde lid, van het Arbeidsomstandighedenbesluit zijn met doeltreffend als oogcontact aanwezig is of mogelijk blijkt met stoffen, die voldoen aan de criteria voor toekenning van de volgende gevaarszinnen en veihgheidsaanbevelingen: 
-
-a. R34: "Veroorzaakt brandwonden"  
-
-b. R35: "Veroorzaakt ernstige brandwonden"  
-
-c. R36: "Irriterend voor de ogen"  
-
-d. R41: "Gevaar voor ernstig oogletsel"  
-
-e. S39: "Een beschermingsmiddel voor de ogen/voor het gezicht dragen" In dergelijke situaties worden doelmatige persoonlijke oog- of gezichtsbeschermingsmiddelen gedragen als bedoeld in artikel 4.9, achtste lid, van het Arbeidsomstandighedenbesluit.    Deze beleidsregel is niet van toepassing op stoffen die in de vorm van lading vervoerd worden.  
-
-### Beleidsregel  4.2 -1  
-
-####Wijze van beoordelen van blootstelling aan gevaarlijke stoffen en enkele aanvullende regels voor asbest
-
-Grondslag: Arbobesluit artikel 4.2, eerste tot en met vierde lid.  
-
-1.  Aan de verplichting tot het bepalen van de gevaren van de blootstelling, bedoeld in artikel 4.2, eerste lid, van het Arbeidsomstandighedenbesluit, wordt voor wat betreft de blootstelling via inademingslucht voldaan als de werkgever het vastgestelde blootstellingsniveau van een stof toetst aan de voor die stof vastgestelde grenswaarde, volgens de methodiek beschreven in NEN-EN 689:1995 "Werkplekatmosfeer.   
-2.  Aan de verplichting tot beoordeling van de aard van de blootstelling, als bedoeld in artikel 4.2, tweede lid, van het Arbeidsomstandighedenbesluit, wordt voldaan als de werkgever over die stoffen welke door blootstelling aan werknemers schade aan hun gezondheid kunnen veroorzaken, de volgende gegevens vastlegt: 
-
-a. de identiteit van de stof,  
-
-b. de aard van de gevaren,  
-
-c. de wijze van mogelijke blootstelling en  
-
-d. het werk of de werkwijze die met de blootstelling verband houdt.     
-3.  Als de beoordeling van de mate van de blootstelling, zoals bedoeld in artikel 4.2, derde lid, van het Arbeidsomstandighedenbesluit, door middel van een schatting wordt uitgevoerd, voldoet de werkgever aan het gestelde in dit lid alleen als hij deze schatting door middel van een berekening kwantitatief goed kan onderbouwen en schriftelijk heeft weergegeven bij de bepaling of een schatting van de mate van blootstelling in een gegeven blootstellingssituatie volstaat dienen de randvoorwaarden zoals genoemd in NEN-EN 689 in acht te worden genomen.   
-
-### Beleidsregel  4.6 -6  
-
-####Voorkomen van verstikking of bedwelming bij toepassing van kooldioxide
-
-Grondslag: Arbobesluit artikel 4.6, eerste en tweede lid.  
-
-Ten aanzien van de opslag of toepassing van kooldioxide worden de volgende voorzieningen adequaat geacht ter vermijding van een ongewilde gebeurtenis als bedoeld in artikel 4.6, eerste en tweede lid, van het Arbeidsomstandighedenbesluit, danwel ter beperking van de gevolgen van een ongewilde gebeurtenis als bedoeld in artikel 4.6, eerste lid, onder c, van het Arbeidsomstandighedenbesluit.  
-1.  In betreedbare ruimten waar kooldioxide wordt opgeslagen of toegepast, waaronder begrepen arbeid aan of verwijderen van reservoirs, installaties of andere verpakkingen waarin zich kooldioxide bevindt, wordt het kooldioxidegehalte permanent gemeten met een vast opgestelde detector in de volgende situaties: 
-
-a. in ruimten kleiner dan 100 m <sup>3</sup> inhoud waar de luchtverversing van de totale inhoud van de ruimte minder dan vier keer per uur bedraagt;  
-
-b. in ruimten groter dan 100 m <sup>3</sup> inhoud waar de luchtverversing van de totale inhoud van de ruimte minder dan twee keer per uur bedraagt.     
-2.  Indien ventilatie wordt toegepast vindt afzuiging dicht bij de bodem (op ca 25 cm boven de bodem) plaats.   
-3.  Indien in situaties als bedoeld in het eerste lid een stationaire meting redelijkerwijs niet uitvoerbaar is wordt voordat de ruimte wordt betreden alsmede tijdens het verblijf in die ruimte het kooldioxidegehalte gemeten met een draagbare detector.   
-4.  De detectoren, bedoeld in het eerste en tweede lid, zijn voorzien van CE-markering en hebben. 
-
-a. een vooralarm dat in werking treedt wanneer de kooldioxideconcentratie in de ruimte 30 000 mg/m <sup>3</sup> (1,5 volumeprocent) bedraagt,  
-
-b. een hoofdalarm dat in werking treedt wanneer de kooldioxideconcentratie in de ruimte 55 000 mg/m <sup>3</sup> (3,0 volumeprocent) bedraagt.     
-5.  Bij overschrijding van een kooldioxideconcentratie van 55 000 mg/m <sup>3</sup> worden maatregelen getroffen om de toegang tot de ruimte te beletten dan wel wordt de ruimte alleen betreden met gebruik van onafhankelijke ademhalingsbeschermingsmiddelen.   
-6.  De goede werking van de detectoren, bedoeld in het eerste en tweede lid, is gewaarborgd door middel van periodiek onderhoud en deskundige controle.   
-7.  Deze beleidsregel is niet van toepassing op 
-
-a. ruimten waarin de aanwezige hoeveelheid kooldioxide minder dan 3,0 kg bedraagt en  
-
-b. kooldioxide in kleine draagbare brandblusapparaten tot 20 kg totale massa     *(Deze beleidsregel is in werking getreden op 1 maart 2001 en aangepast middels het onderhavige besluit)*   
-
-### Beleidsregel  4.6 -7  
-
-####Voorkomen van verstikking bij toepassing van vloeibare stikstof
-
-Grondslag: Arbobestuit artikel 4.6, eerste en tweede lid  
-
-Ten aanzien van de opslag en toepassing van vloeibare stikstof worden de volgende voorzieningen adequaat geacht ter vermijding van een ongewilde gebeurtenis als bedoeld in artikel 4.6, eerste en tweede lid. van het Arbeidsomstandighedenbesluit, danwel ter beperking van de gevolgen van een ongewilde gebeurtenis als bedoeld in artikel 4.6, eerste lid, onder c, van het Arbeidsomstandighedenbesluit.  
-1.  In betreedbare ruimten waar vloeibare stikstof wordt opgeslagen of toegepast, waaronder begrepen het vullen, leegmaken of verwijderen van reservoirs of installaties, wordt het zuurstofgehalte permanent gemeten met een vast opgestelde detector in de volgende situaties: 
-
-a. in ruimten kleiner dan 100 m <sup>3</sup> inhoud waar de luchtverversing van de totale inhoud van de ruimte minder dan vier keer per uur bedraagt;  
-
-b. in ruimten groter dan 100 m <sup>3</sup> inhoud waar de luchtverversing van de totale inhoud van de ruimte minder dan twee keer per uur bedraagt.     
-2.  Indien in situaties als bedoeld in het eerste lid een stationaire meting redelijkerwijs met uitvoerbaar is wordt voordat de ruimte wordt betreden alsmede tijdens het verblijf in die ruimte het zuurstofgehalte gemeten met een draagbare detector.   
-3.  De detectoren bedoeld in het eerste en tweede lid zijn voorzien van CE-markering en hebben. 
-
-a. een vooralarm dat in werking treedt wanneer de zuurstofconcentratie in de ruimte 19 volumeprocent bedraagt;  
-
-b. een hoofdalarm dat in werking treedt wanneer de zuurstofconcentratie in de ruimte lager is dan 18 volumeprocent.     
-4.  Bij een zuurstofconcentratie van 18 volumeprocent of lager worden maatregelen getroffen om de toegang tot de ruinte te beletten dan wel wordt de ruimte alleen betreden met gebruik van onafhankelijke ademhalingsbeschermingsmiddelen.   
-5.  De goede werking van de detector blijft gewaarborgd door middel van periodiek onderhoud en deskundige controle.   
-6.  Deze beleidsregel is niet van toepassing voor ruimten waarin de aanwezige hoeveelheid vloeibare stikstof minder dan 3,0 kg bedraagt.   *(Deze beleidsregel is in werking getreden op 1 maart 2001 en aangepast middels het onderhavige besluit)*   
-
-### Beleidsregel  4.18 -1  
-
-####Doeltreffende beheersing van blootstelling aan kankerverwekkende stoffen
-
-Grondslag: Arbobesluit artikel 4.1c, eerste lid en artikel 4.18, eerste tot en met derde lid  
-
-Maatregelen als bedoeld in artikel 4.18, eerste tot en met derde lid, van het Arbeidsomstandighedenbesluit zijn niet doeltreffend als 
-
-1. het blootstellingsniveau van een kankerverwekkende stof met een niet-genotoxisch werkingsmechanisme de wettelijke grenswaarde voor die stof, zoals opgenomen in de bijlage XIII van de Arbeidsomstandighedenregeling, overschrijdt;  
-
-2. het blootstellingsniveau van een kankerverwekkende stof met een genotoxisch werkingsmechanisme de wettelijke grenswaarde voor die stof, zoals opgenomen in de bijlage XIII van de Arbeidsomstandighedenregeling, overschrijdt. Bovendien moet een zo laag mogelijk blootstellingsniveau worden nagestreefd;  
-
-3. huidcontact aanwezig is of mogelijk blijkt met kankerverwekkende stoffen waarvoor een huidnotatie is vastgesteld zoals opgenomen in de lijst van grenswaarden in bijlage XIII van de Arbeidsomstandighedenregeling, of die kankerverwekkend zijn voor de huid. In dergelijke situaties worden doelmatige persoonlijke huidbeschermingsmiddelen gedragen als bedoeld in 4.18, derde lid, van het Arbeidsomstandighedenbesluit.  
-
-4. huidcontact aanwezig is of mogelijk blijkt met kankerverwekkende of mutagene stoffen, die voldoen aan de criteria voor toekenning van de volgende gevaarszinnen en veiligheidsaanbevelingen (R- en S-zinnen): 
-
-a. R21: "Schadelijk bij aanraking met de huid"  
-
-b. R24: "Vergiftig bij aanraking met de huid"  
-
-c. R27: "Zeer vergiftig bij aanraking met de huid"  
-
-d. R34: "Veroorzaakt brandwonden"  
-
-e. R35: "Veroorzaakt ernstige brandwonden"  
-
-f. R38: "Irriterend voor de huid"  
-
-g. R43: "Kan overgevoeligheid veroorzaken bij contact met de huid"  
-
-h. S36: "Draag geschikte beschermende kleding"  
-
-i. S37: "Draag geschikte handschoenen"   In dergelijke situaties worden doelmatige persoonlijke huidbeschermingsmiddelen gedragen, als bedoeld in 4.18, derde lid, van het Arbeidsomstandighedenbesluit.  
-
-5. oogcontact aanwezig is of mogelijk blijkt met kankerverwekkende stoffen, die voldoen aan de criteria voor toekenning van de volgende gevaarszinnen en veiligheidsaanbevelingen (R- en S-zinnen): 
-
-a. R34: "Veroorzaakt brandwonden"  
-
-b. R35: "Veroorzaakt ernstige brandwonden"  
-
-c. R36: "Irriterend voor de ogen"  
-
-d. R41: "Gevaar voor ernstig oogletsel"  
-
-e. S39: "Een beschermingsmiddel voor de ogen/voor het gezicht dragen"   In dergelijke situaties worden doelmatige persoonlijke oog- of gezichtsbeschermingsmiddelen gedragen, als bedoeld in artikel 4.18, derde lid, van het Arbeidsomstandighedenbesluit.    
-
-### Beleidsregel  4.19  
-
-####Informatie voor werknemers bij het werken met kankerverwekkende en mutagene stoffen
-
-Grondslag: [Arbobesluit artikel 4.19, onder a en c](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  
-
-1.  Aan het gestelde in [artikel 4.19, onder a van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt voldaan als mondeling en schriftelijk voorlichting en onderricht wordt gegeven over: 
-
-a. de gevaren van desbetreffende kankerverwekkende en mutagene stoffen en de werkzaamheden ermee;  
-
-b. het veilig omgaan met deze stoffen;  
-
-c. hoe blootstelling zoveel mogelijk kan worden voorkomen;  
-
-d. hoe bij calamiteiten dient te worden gehandeld, een en ander conform de in [artikel 4.7 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) bedoelde procedure;  
-
-e. het voorkomen op de lijst van blootgestelde werknemers en het recht op inzage;  
-
-f. het arbeidsgezondheidskundig onderzoek. De voorlichting en instructie worden tenminste een keer per jaar herhaald.     
-2.  Aan het gestelde in [artikel 4.19, onder c, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt voldaan als gevarenzones duidelijk zijn afgebakend en de toegangen tot een gevarenzone zijn gemarkeerd met een doodshoofdsymbool dat met betrekking tot de vormgeving voldoet aan het gestelde in of krachtens [artikel 8.4](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en dat voorzien is van de tekst "kankerverwekkende stoffen. Verboden voor onbevoegden".   
-3.   Vervallen.    
-
-### Beleidsregel  4.47c  
-
-####Melding werkzaamheden met asbest
-
-Grondslag: [Arbobesluit artikel 4.47c, eerste lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  
-
-Indien de melding als bedoeld in [artikel 4.47c, eerste lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) schriftelijk wordt verricht, wordt hij als tijdig beschouwd als de melding van de in dit artikel genoemde gegevens schriftelijk wordt gedaan uiterlijk vijf werkdagen vóór het tijdstip dat met de werkzaamheden wordt begonnen. In afwijking daarvan kan bij spoedgevallen worden volstaan met een melding met een uiterste termijn van twee werkdagen voor het tijdstip dat met de werkzaamheden wordt begonnen. Indien de melding elektronisch wordt verricht, wordt hij als tijdig beschouwd, als de melding wordt gedaan uiterlijk twee werkdagen voor het tijdstip dat met de werkzaamheden wordt begonnen. Als asbest onverwacht wordt aangetroffen tijdens een sloop of bij calamiteiten kan worden volstaan met een onmiddellijke melding. Indien dit laatste betekent dat de melding buiten kantooruren zou moeten plaatsvinden, dient deze te geschieden direct bij het begin van de eerstvolgende werkdag.  
-
-### Beleidsregel  4.60  
-
-####Het be- en verwerken van zandsteen in monumenten
-
-Grondslag: [Arbobesluit artikel 4.60, tweede lid, onder a](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).  
-
-Onder het bewerken of verwerken van zandsteen dat noodzakelijk is voor het behoud van monumenten als bedoeld in de Monumentenwet 1988 als bedoeld in [artikel 4.60, tweede lid, onder a, van het Arbeidsomstandighedenbesluit,](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt verstaan: 
-
-1. het uitvoeren van herstelwerkzaamheden in de vorm van het bewerken of verwerken van *bestaande* zandsteen-elementen in een monumentl;  
-
-2. het gebruik van *nieuwe* zandsteen onder de volgende voorwaarden: 
-
-a. De nieuwe zandsteen is van dezelfde soort als de verwijderde zandsteen.  
-
-b. De hoeveelheid nieuwe zandsteen bedraagt met meer dan de hoeveelheid verwijderde zandsteen.  
-
-c. De nieuwe zandsteen wordt in het zicht aangebracht.  
-
-d. De toepassing van nieuwe zandsteen is noodzakelijk in verband met de eigenschappen van de steen, zowel ten aanzien van zichtbare verweringsaspecten als van verstoring in het watertransport.  
-
-e. Er is sprake van het behoud van een architectonische eenheid, die destijds als één bouwfase is gerealiseerd en nagenoeg geheel uit zandsteen bestaat.  
-
-f. In geval van een "lappendeken" van verschillende steensoorten wordt geen nieuwe zandsteen toegepast, tenzij de betreffende zandstenen onderdelen een zelfstandige architectonische eenheid vormen.  
-
-g. Beschilderde zandsteen wordt niet door nieuwe zandsteen vervangen, tenzij de eigenschappen van de steen in het betreffende object, toepassing van andere steensoorten onmogelijk maken in verband met verstoring in het watertransport.      
-
-### Beleidsregel  4.113  
-
-####Doeltreffende maatregelen tegen blootstelling aan gevaarlijke stoffen in thuiswerk
-
-Grondslag: [Arbobesluit artikel 4.113](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).  
-
-1.  Maatregelen als bedoeld in [artikel 4.113 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) zijn in elk geval niet doeltreffend als de concentraties van stoffen in de individuele ademhalingszone van thuiswerkers de voor die stoffen vastgestelde grenswaarden overschrijden. Daarnaast wordt in acht genomen dat bij blootstelling aan stoffen waarvan bekend is dat de afzonderlijke componenten dezelfde toxische werking hebben op eenzelfde orgaansysteem, de zogenaamde additieregel geldt, als bedoeld in bijlage 7, behorend bij beleidsregel 4.2-1, voor het vaststellen van de waarde die niet mag worden overschreden. Daarnaast wordt het volgende in acht genomen: 
-
-a. Als voor de desbetreffende stof geen wettelijke of bestuurlijke grenswaarde is vastgesteld, geldt dat overschrijding van een door de werkgever vast te stellen grenswaarde, die naar de huidige stand van wetenschap en inzicht als een veilige blootstellingsgrens kan worden beschouwd, strijdig is met het bepaalde in dit lid.  
-
-b. Bij blootstelling aan stoffen waarvan bekend is dat de afzonderlijke componenten dezelfde toxische werking hebben op eenzelfde orgaansysteem, geldt de zogenaamde additieregel, als bedoeld in bijlage 7 bij deze beleidsregels, voor het vaststellen van de waarde die met mag worden overschreden.     
-2.  Het ter beschikking stellen van persoonlijke ademhalingsbeschermingsmiddelen ingeval van voorzienbare overschrijding van de in het eerste lid bedoelde waarde is geen doeltreffende maatregel als bedoeld in [artikel 4.113 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).   
-3.  Maatregelen als bedoeld in [artikel 4.113 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) zijn niet doeltreffend als huidcontact aanwezig is of mogelijk blijkt met stoffen waarvoor een huidnotatie is vastgesteld, zoals opgenomen in de lijst van wettelijke grenswaarden in [bijlage XIII bij de Arbeidsomstandighedenregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md), dan wel door de werkgever bij uitvoering van de [artikelen 4.3](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en [4.16 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). In dergelijke situaties worden doelmatige persoonlijke huidbeschermingsmiddelen gedragen.   
-4.  Maatregelen als bedoeld in [artikel 4.113 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) zijn met doeltreffend als huidcontact aanwezig is of mogelijk blijkt met stoffen, die voldoen aan de criteria voor toekenning van de volgende gevaarszinnen en veiligheidsaanbevelingen (R- en S-zinnen): 
-
-a. R21: "Schadelijk bij aanraking met de huid"  
-
-b. R24: "Vergiftig bij aanraking met de huid"  
-
-c. R27: "Zeer vergiftig bij aanraking met de huid"  
-
-d. R34: "Veroorzaakt brandwonden"  
-
-e. R35: "Veroorzaakt ernstige brandwonden"  
-
-f. R38: "Irriterend voor de huid"  
-
-g. R43: "Kan overgevoeligheid veroorzaken bij contact met de huid"  
-
-h. S36: "Draag geschikte beschermende kleding"  
-
-i. S37: "Draag geschikte handschoenen"   In dergelijke situaties worden doelmatige persoonlijke huidbeschermingsmiddelen gedragen.   
-5.  Maatregelen als bedoeld in [artikel 4.113 van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) zijn niet doeltreffend als oogcontact aanwezig is of mogelijk blijkt met stoffen, die voldoen aan de criteria voor toekenning van de volgende gevaarszinnen en veiligheidsaanbevelingen. 
-
-a. R34: "Veroorzaakt brandwonden"  
-
-b. R35: "Veroorzaakt ernstige brandwonden"  
-
-c. R36: "Irriterend voor de ogen"  
-
-d. R41: "Gevaar voor ernstig oogletsel"  
-
-e. S39: "Een beschermingsmiddel voor de ogen/voor het gezicht dragen".   In dergelijke situaties worden doelmatige persoonlijke oog- of gezichtbeschermingsmiddelen gedragen.   
-
-### Beleidsregel  7.4 -3  
-
-####Deugdelijkheid van vierwielige trekkers
-
-Grondslag: Arbobesluit artikel 7.4.  
-
-1.  Vierwielige trekkers met een massa groter dan 800 kg zijn ter voldoening aan artikel 7.4, eerste en tweede lid, van het Arbeidsomstandighedenbesluit, ter bescherming van de bestuurder of meerijder(s) tegen het gevaar van kantelen of achter overslaan, uitgerust met een doelmatige veiligheids-cabine, -frame of -beugel. In geval zij zijn voorzien van een open veiligheidsframe of -beugel zijn zij tevens uitgerust met veiligheidsgordels voor de zitplaatsen van bestuurder en meerijder(s);   
-2.  Ter voldoening aan het gestelde in artikel 7.4, derde lid, van het Arbeidsomstandighedenbesluit zijn de in het eerste lid van deze beleidsregel bedoelde trekkers uitgerust met een laag aankoppelpunt om het gevaar voor achteroverslaan te voorkomen.   
-
-### Hoofdstuk  3  
-
-####Beleidsregels arbeidsomstandighedenregeling
-
-### Hoofdstuk  4  
+### B  
 
 ####Slotbepalingen
 
@@ -729,6 +240,8 @@ Tarieflijst Boetenormbedragen Deel 1 Arbowet
 | --- | 2  | Indien nakoming van het eerste lid redelijkerwijs niet mogelijk is, wordt door tijdelijke aanpassing van de arbeid of arbeids- en rusttijden voorkomen dat gevaar voor de veiligheid en de gezondheid van de zwangere werknemer, en de werknemer tijdens de lactatie wordt veroorzaakt en wordt voorkomen dat een terugslag kan worden veroorzaakt op de zwangerschap of lactatie.  | € 900  |
 | --- | 3  | Indien nakoming van het tweede lid redelijkerwijs niet mogelijk is, wordt aan de zwangere werknemer en de werknemer tijdens lactatie tijdelijk andere arbeid gegeven.  | € 900  |
 | --- | 4  | Indien nakoming van het derde lid redelijkerwijs niet mogelijk is, worden de zwangere werknemer en de werknemer tijdens de lactatie tijdelijk vrijgesteld van het verrichten van arbeid.  | € 900  |
+|  *1.42a*   | --- |  *Voorlichting*   | --- |
+| --- | --- | De werkgever zorgt voor doeltreffende voorlichting over de risico’s van de arbeid tijdens zwangerschap en lactatie en de maatregelen die zijn genomen om de risico’s te voorkomen. De voorlichting vindt plaats binnen twee weken nadat de zwangere werknemer of werknemer tijdens de lactatie aan de werkgever heeft gemeld zwanger te zijn dan wel werkzaam te zijn tijdens de lactatie.  | € 540  |
 | --- | --- | --- | --- |
 |  *Afdeling 10*   |  *Thuiswerkers*   | --- |
 |  *1.44*   | --- |  *Beschikbaarheid van gegevens*   | --- |
@@ -1039,13 +552,10 @@ Tarieflijst Boetenormbedragen Deel 1 Arbowet
 | --- | 1  | Bij het verrichten van arbeid waarbij valgevaar bestaat:  | € 4.500  |
 | --- | --- | – is zo mogelijk een veilige steiger, stelling, bordes of werkvloer aangebracht, of  | --- |
 | --- | --- | – is het gevaar tegengegaan door het aanbrengen van doelmatige hekwerken, leuningen of andere dergelijke voorzieningen.  | --- |
-| --- | 4  | Indien de voorzieningen ter voorkoming van valgevaar niet of slechts ten dele kunnen worden aangebracht of indien het aanbrengen of wegnemen daarvan grotere gevaren meebrengt dan de arbeid ter beveiliging waarvan zij zouden moeten dienen:  | € 4.500  |
-| --- | --- | – zijn voldoende sterke en voldoende grote vangnetten op doelmatige plaatsen en wijze aangebracht, of  | --- |
-| --- | --- | – worden doelmatige veiligheidsgordels met vanglijnen van voldoende sterkte gebruikt, of  | --- |
-| --- | --- | – worden andere technische middelen toegepast, die eenzelfde mate van beveiliging geven. Daarbij hebben maatregelen gericht op collectieve bescherming de voorkeur boven maatregelen gericht op individuele bescherming.  | --- |
+| --- | 5  | Indien de voorzieningen van valgevaar niet of slechts ten dele kunnen worden aangebracht of indien het aanbrengen of wegnemen daarvan grotere gevaren meebrengt dan de arbeid ter beveiliging waarvan zij zouden moeten dienen:  – zijn voldoende sterke en voldoende grote vangnetten op doelmatige plaatsen en wijze aangebracht, of  – worden doelmatige veiligheidsgordels met vanglijnen van voldoende sterkte gebruikt, of  – worden andere technische middelen toegepast, die een zelfde mate van beveiliging geven.  Daarbij hebben maatregelen gericht op collectieve bescherming de voorrang boven maatregelen gericht op individuele bescherming.  | € 4.500  |
 | --- | --- | --- | --- |
 |  *3.17*   | --- |  *Voorkomen gevaar door voorwerpen, producten, vloeistoffen of gassen*   | --- |
-| --- | --- | Het gevaar te worden getroffen of geraakt door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of het gevaar bekneld te raken tussen voorwerpen, producten of onderdelen daarvan, wordt voorkomen en indien dat niet mogelijk is zoveel mogelijk beperkt. [Artikel 3.16, vierde lid, laatste volzin](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), is van toepassing: m aatregelen op collectief niveau hebben de voorkeur boven maatregelen op individueel niveau.  | € 4.500  |
+| --- | --- | Het gevaar te worden getroffen of geraakt door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of het gevaar bekneld te raken tussen voorwerpen, producten of onderdelen daarvan, wordt voorkomen en indien dat niet mogelijk is zoveel mogelijk beperkt. [Artikel 3.16, vijfde lid, laatste volzin](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), is van toepassing: maatregelen op collectief niveau hebben de voorkeur boven maatregelen op individueel niveau.  | € 4.500  |
 | --- | --- | --- | --- |
 |  *3.18*   | --- |  *Specifieke maatregelen voor roltrappen, rolpaden en laadplatforms*   | --- |
 | --- | 1  | Roltrappen en -paden functioneren veilig en zijn uitgerust met noodzakelijke veiligheidsvoorzieningen, waaronder gemakkelijk herkenbare en toegankelijke noodstopvoorzieningen.  | € 2.700  |
@@ -1286,13 +796,20 @@ Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg)
 | --- | c  | gebruik te maken van adequate voorzieningen bij het uitvoeren van reparatie- of onderhoudswerkzaamheden;  | € 4.500  |
 | --- | d  | het aantal werknemers, dat wordt of kan worden blootgesteld te minimaliseren;  | € 4.500  |
 | --- | e  | de mate en duur van de blootstelling te minimaliseren;  | € 4.500  |
-| --- | f  | de grootst mogelijke zorgvuldigheid, ordelijkheid en zindelijkheid in acht te nemen;  | € 900*  |
-| --- | g  | de hoeveelheid gevaarlijke stoffen op de werkplek zoveel mogelijk te beperken;  | € 4.500  |
-| --- | h  | passende werkmethoden in te voeren, met inbegrip van regelingen voor de veilige behandeling, opslag en vervoer op de werkplek van gevaarlijke stoffen en van afvalstoffen die gevaarlijke stoffen bevatten;  | € 4.500  |
-| --- | i  | op de verpakking van een gevaarlijke stof opvallend en goed leesbaar de naam van de stof en een aanduiding van de aard van het gevaar of de gevaren, verbonden aan die stof te vermelden;  | € 540  |
+| --- | f  | huidcontact te voorkomen of te minimaliseren door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een enkelvoudige of samengestelde stof:  1°. die voldoet aan de criteria voor classificatie met een effect op de huid of ogen, inclusief de classificatie kankerverwekkend voor de huid, volgens Richtlijn 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG 1967, 196) of Richtlijn 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200);  2°. als bedoeld in [artikel 4.3, eerste lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), of [artikel 4.16, eerste lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), en waarbij is aangegeven dat die door de huid kan worden opgenomen;  | € 4.500  |
+| --- | g  | de grootst mogelijke zorgvuldigheid, ordelijkheid en zindelijkheid in acht te nemen;  | € 900*  |
+| --- | h  | de hoeveelheid gevaarlijke stoffen op de werkplek zoveel mogelijk te beperken;  | € 4.500  |
+| --- | i  | passende werkmethoden in te voeren, met inbegrip van regelingen voor de veilige behandeling, opslag en vervoer op de werkplek van gevaarlijke stoffen en van afvalstoffen die gevaarlijke stoffen bevatten;  | € 4.500  |
 | --- | j  | arbeid slechts te laten verrichten door personen die in een zodanige lichamelijke en geestelijke toestand verkeren en op het gebied van die arbeid over een zodanige basiskennis beschikken, dat zij voldoende in staat zijn de daaraan verbonden gevaren te onderkennen en te voorkomen;  | € 540*  |
 | --- | k  | te zorgen dat op plaatsen waar gevaarlijke stoffen aanwezig zijn, niet wordt gerookt, gegeten, gedronken, geslapen of voedsel wordt bewaard;  | € 4.500*  |
 | --- | 2  | De maatregelen, bedoeld in het eerste lid, zijn in overeenstemming met de stand van de wetenschap en techniek.  | € 4.500  |
+| --- | --- | --- | --- |
+|  *4.1d*   | --- |  *Beperking van blootstelling; werkpleketikettering*   | --- |
+| --- | 1  | In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in het kader van [artikel 3 van de wet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) de blootstelling van werknemers aan gevaarlijke stoffen voorkomen of geminimaliseerd door op de verpakking van de gevaarlijke stof opvallend en goed leesbaar te vermelden:  a. de officiële naam van de gevaarlijke stof en de relevante gevaarlijke bestanddelen; en  b. de gevaarsymbolen, gevaarbenamingen en de waarschuwingszinnen.  | --- |
+| --- | 2  | In afwijking van het eerste lid hoeven op laboratoriumhulpmiddelen die voor steeds wisselende chemicaliën worden gebruikt, niet steeds alle verplichte aanduidingen te zijn aangebracht. Worden deze hulpmiddelen alleen gebruikt voor kortdurende handelingen dan zijn geen aanduidingen verplicht. Worden deze hulpmiddelen gebruikt voor andere dan kortdurende handelingen dan zijn op deze hulpmiddelen opvallend en goed leesbaar vermeld:  a. voor een enkelvoudige stof: de officiële naam van de gevaarlijke stof; en  b. voor een meervoudige stof: de officiële naam of namen van de relevante gevaarlijke bestanddelen.  | --- |
+| --- | 3  | In het geval van opslag van gevaarlijke stoffen in grotere hoeveelheden in speciale opslagruimten wordt aan het eerste lid voldaan als de verplichte aanduidingen voor meerdere identieke verpakkingen door middel van één etiketafdruk opvallend en goed leesbaar zijn aangebracht. De aanduidingen zijn zodanig aangebracht dat voor elke afzonderlijk opgeslagen verpakking te allen tijde ter plekke duidelijk is dat de aanduidingen van toepassing zijn. Als gevaarlijke stoffen uitsluitend voor de handel zijn opgeslagen, kan worden volstaan met het aanbrengen van de bij aflevering in Nederland wettelijk verplichte aanduidingen.  | --- |
+| --- | 4  | In geval van vervoer en laden en lossen van gevaarlijke stoffen wordt aan het eerste lid voldaan als de vervoerders en de laders en lossers tijdens hun werkzaamheden ter plekke beschikken over de gegevens die op grond van het bij of krachtens de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bepaalde op het etiket zouden moeten worden vermeld.  | --- |
+| --- | 5  | Het eerste en tweede lid zijn niet van toepassing voor zover de [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) of de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) van toepassing zijn.  | € 540  |
 | --- | --- | --- | --- |
 |  *4.2*   | --- |  *Nadere voorschriften risico-inventarisatie en -evaluatie, beoordelen*   | --- |
 | --- | 1  | Indien werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, ongeacht of met deze stoffen daadwerkelijk arbeid wordt of zal worden verricht , worden in het kader van de ri&e: de aard, mate en duur van die blootstelling beoordeeld teneinde de gevaren of de hinder voor de werknemers te bepalen.  | € 900  |
@@ -1451,8 +968,8 @@ Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg)
 | --- | 4  | Indien de werkzaamheden worden verricht met gebruik van persoonlijke beschermingsmiddelen overeenkomstig het derde lid, wordt de duur van het dragen daarvan voor ieder van deze werknemers tot het strikt noodzakelijke beperkt.  | € 1.800  |
 | --- | --- | --- | --- |
 |  *4.19*   | --- |  *Beperken van blootstelling*   | --- |
-| --- | --- | In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of stoffen die vrijkomen bij kankerverwekkende processen, worden in aanvulling op [artikel 4.1c](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en [artikel 4.18](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) de volgende maatregelen genomen om blootstelling van werknemers te voorkomen of te beperken tot een zo laag mogelijk niveau onder de grenswaarde:  | --- |
-| --- | --- | a) de werknemers zijn voldoende vertrouwd met de aard van hun werkzaamheden en hebben voldoende kennis van de gevaren die aan de blootstelling zijn verbonden en van de voorzieningen die getroffen zijn of door hen moeten worden getroffen om die gevaren te voorkomen of te beperken;  | € 1.800*  |
+| --- | --- | In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of stoffen die vrijkomen bij kankerverwekkende processen, worden in aanvulling op [artikel 4.1c](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.1d](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) en [artikel 4.18](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) de volgende maatregelen genomen om blootstelling van werknemers te voorkomen of te beperken tot een zo laag mogelijk niveau onder de grenswaarde:  | --- |
+| --- | --- | a. de werknemers zijn voldoende vertrouwd met de aard van hun werkzaamheden en hebben voldoende kennis van de gevaren die aan de blootstelling zijn verbonden en van de voorzieningen die getroffen zijn of door hen moeten worden getroffen om die gevaren te voorkomen of te beperken, volgens voorlichting of instructie die tenminste één keer per jaar plaatsvindt;  | € 1.800*  |
 | --- | --- | b) voorkomen wordt dat gevarenzones worden betreden door anderen dan de werknemers of andere personen die de zones in verband met hun arbeid moeten betreden;  | € 1.350  |
 | --- | --- | c) gevarenzones worden gemarkeerd door middel van waarschuwings- en veiligheidssignalen die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) bepaalde;  | € 540  |
 | --- | --- | d) gebruik wordt gemaakt van doeltreffende middelen voor veilig opslaan, hanteren en vervoeren van kankerverwekkende of mutagene stoffen, waarbij zoveel mogelijk gebruik wordt gemaakt van hermetisch gesloten en duidelijk zichtbaar gekenmerkte houders;  | € 4.500  |
@@ -1528,7 +1045,7 @@ Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg)
 | --- | 2  | De eindbeoordeling, bedoeld in het eerste lid, betreft een visuele inspectie waarbij is vastgesteld dat de aanwezigheid van asbest niet meer visueel waarneembaar is.  | € 900  |
 | --- | --- | --- | --- |
 |  *4.47c*   | --- |  *Melding*   | --- |
-| --- | 1  | Voor aanvang van de werkzaamheden wordt tijdig door de werkgever schriftelijk een melding gedaan aan een daartoe aangewezen toezichthouder. Deze melding bevat tenminste een beknopte beschrijving van:  | € 1.800  |
+| --- | 1  | Uiterlijk twee dagen voor aanvang van de werkzaamheden wordt door de werkgever elektronisch melding gedaan aan een daartoe aangewezen toezichthouder. Deze melding bevat tenminste een beknopte beschrijving van:  | € 1.800  |
 | --- | --- | a. de plaats waar de werkzaamheden worden verricht;  | --- |
 | --- | --- | b. de soorten en hoeveelheden asbesthoudende producten;  | --- |
 | --- | --- | c. de werkzaamheden die met asbest of asbesthoudende producten worden verricht, de werkmethoden alsmede de indeling van de concentratie asbeststof in de lucht in een risicoklasse;  | --- |
@@ -1602,7 +1119,7 @@ Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg)
 | --- | 4  | Bij de uitvoering van de werkzaamheden, bedoeld in het eerste lid, wordt in het kader van de risicobeoordeling, bedoeld in [artikel 4.2](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), de indeling van de risicoklasse in het inventarisatierapport als ondergrens gehanteerd.  | € 1.800*  |
 | --- | 5  | De werkzaamheden, bedoeld in het eerste lid, worden verricht door of onder voortdurend toezicht van een persoon die in het bezit is van een certificaat van vakbekwaamheid voor het toezicht houden op het werken met asbest, dat is afgegeven door Onze Minister of een certificerende instelling.  | € 1.800  |
 | --- | 6  | Bij een bedrijf als bedoeld in het eerste lid is ten minste één persoon als bedoeld in het vijfde lid werkzaam op basis van een arbeidsovereenkomst.  | € 1.800*  |
-| --- | 7  | Voorzover de werkzaamheden, bedoeld in het eerste lid, mede worden verricht door een andere persoon dan de persoon, bedoeld in het vijfde lid, is deze andere persoon in het bezit van een certificaat vakbekwaamheid voor het verwijderen van asbest, dat is afgegeven door Onze Minister of een certificerende instelling.  | € 1.800  <sup> 1   Artikel 4.54d, zevende lid, is volgens artikel 9.37b Arbobesluit tot 1 januari 2008 niet van toepassing en tot die datum dus ook niet beboetbaar.    </sup> |
+| --- | 7  | Voorzover de werkzaamheden, bedoeld in het eerste lid, mede worden verricht door een andere persoon dan de persoon, bedoeld in het vijfde lid, is deze andere persoon in het bezit van een certificaat vakbekwaamheid voor het verwijderen van asbest, dat is afgegeven door Onze Minister of een certificerende instelling.  | € 1.800 <sup>1</sup>  |
 | --- | 8  | Indien de handelingen, bedoeld in [artikel 5, onderdelen e en f, van het Productenbesluit asbest](../../../../AMvB/productenbesluit/asbest/BWBR0017778/README.md) betrekking hebben op werkzaamheden met asbesthoudende grond, worden deze werkzaamheden begeleid door een persoon die in het bezit is van een certificaat van vakbekwaamheid arbeidhygiëne of veiligheidskunde als bedoeld in [artikel 2.7, tweede lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).  | € 1.800*  |
 | --- | 9  | De certificaten, bedoeld in het eerste, vijfde en zevende lid, of afschriften daarvan en een afschrift van het inventarisatierapport, bedoeld in [artikel 4.54a, derde lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), zijn op de arbeidsplaats aanwezig en worden desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 24 van de wet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  | € 90  |
 | --- | --- | --- | --- |
@@ -1706,9 +1223,7 @@ Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg)
 | --- | 1  | In aanvulling op [artikel 4.85](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt bij de ri&e van gevaren, verbonden aan andere dan microbiologisch diagnostische arbeid in de gezondheidszorg en in de diergeneeskunde, aandacht besteed aan:  | € 450  |
 | --- | --- | a. de onzekerheid omtrent de aanwezigheid van biologische agentia en de daaraan verbonden gevaren bij patiënten of dieren en in monsters of materiaal van patiënten of dieren;  | --- |
 | --- | --- | b. de aan de aard van het werk verbonden gevaren.  | --- |
-| --- | 2  | Bij de in het eerste lid bedoelde arbeid worden ter bescherming van de veiligheid en de gezondheid van de betrokken werknemers doeltreffende maatregelen genomen. Deze bestaan in ieder geval uit:  | € 540  |
-| --- | --- | a. het opstellen en bekend maken van ontsmettings- en desinfectieprocedures aan de betrokken werknemers;  | --- |
-| --- | --- | b. het opstellen en bekend maken van procedures voor een veilige omgang met en verwijdering van met biologische agentia besmet afvalmateriaal.  | --- |
+| --- | 2  | Bij de in het eerste lid bedoelde arbeid worden ter bescherming van de veiligheid en de gezondheid van de betrokken werknemers doeltreffende maatregelen genomen. Deze bestaan in ieder geval uit:  a. het opstellen en bekend maken van ontsmettings- en desinfectieprocedures aan de betrokken werknemers;  b. het opstellen en bekend maken van procedures voor een veilige omgang met en verwijdering van met biologische agentia besmet afvalmateriaal;  c. het ter beschikking stellen van een medisch hulpmiddel met ingebouwd veiligheids- en beschermingsmechanisme, indien er gevaar is voor letsel of infectie door een scherp medisch hulpmiddel;  d. het verbod op het terugzetten van doppen op injectienaalden.  | € 540  |
 | --- | --- | --- | --- |
 |  *4.98*   | --- |  *Beschermingsmaatregelen*   | --- |
 | --- | --- | In isolatieafdelingen met patiënten of dieren die besmet zijn of mogelijkerwijs besmet zijn met biologische agentia van categorie 3 of 4 worden passende beschermingsmaatregelen als bedoeld in bijlage V, kolom A, bij EU-richtlijn nr. 2000/54/EG, getroffen.  | € 4.500  |
@@ -1750,7 +1265,8 @@ Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg)
 | --- | 2  | Op verpakking van een stof als bedoeld in [artikel 4.112, eerste lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), worden de aanduidingen, welke voor die stof op grond van het voldoen aan de criteria voor indeling in de categorieën, genoemd in [artikel 4.110, onder a](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), ten behoeve van de aflevering van die stof bij of krachtens [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn voorgeschreven, opvallend en goed leesbaar vermeld, met uitzondering van de aanduidingen die betrekking hebben op de categorie ‘milieugevaarlijk’.  | € 540  |
 | --- | --- | --- | --- |
 |  *4.113*   | --- |  *Maatregelen (thuiswerkers)*   | --- |
-| --- | --- | Doeltreffende maatregelen zijn genomen om te voorkomen dat thuiswerkers bij hun arbeid kunnen worden blootgesteld aan stoffen in zodanige mate, dat schade kan worden toegebracht aan hun gezondheid.  | € 4.500  |
+| --- | 1  | Doeltreffende maatregelen zijn genomen om te voorkomen dat thuiswerkers bij hun arbeid kunnen worden blootgesteld aan stoffen in zodanige mate, dat schade kan worden toegebracht aan hun gezondheid.  | € 4.500  |
+| --- | 2  | Huidcontact is voorkomen of geminimaliseerd door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een enkelvoudige of samengestelde stof:  a. die voldoet aan de criteria voor classificatie met een effect op de huid of de ogen, inclusief de classificatie kankerverwekkend voor de huid, volgens Richtlijn 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG 1967, 196) of Richtlijn 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200);  b. als bedoeld in [artikel 4.3, eerste of tweede lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), of [4.16, eerste of tweede lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), en waarbij is aangegeven dat die door de huid kan worden opgenomen.  | € 4.500  |
 | --- | --- | --- | --- |
 |  *4.114*   | --- |  *Brandbestrijdingsmiddelen (thuiswerkers)*   | --- |
 | --- | --- | Indien met brandgevaarlijke stoffen wordt gewerkt, zijn in aanvulling op [artikel 15 van de wet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), aan de thuiswerker deugdelijke en doelmatige middelen voor het blussen of doven van een brand ter beschikking gesteld.  | € 1.350  |
@@ -1804,7 +1320,7 @@ Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg)
 | --- | --- | Vervallen.  | --- |
 | --- | --- | --- | --- |
 
-Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg) 
+<sup>1</sup> Artikel 4.54d, zevende lid, is volgens artikel 9.37b Arbobesluit tot 1 januari 2008 niet van toepassing en tot die datum dus ook niet beboetbaar.  Tarieflijst Boetenormbedragen Deel 2 Arbeidsomstandighedenbesluit (vervolg) 
 
 | Artikel  | Lid  | Beboetbare feiten  | Boete normbedrag  |
 |:---|:---|:---|:---|
@@ -2860,7 +2376,7 @@ a. het geheel of gedeeltelijk afbreken of uit elkaar nemen van bouwwerken, met u
 
 b. het verwijderen van asbest of asbesthoudende producten uit de bouwwerken of objecten, bedoeld in onderdeel a;  
 
-c. het opruimen van asbest of asbesthoudende producten die ten gevolge van een incident zijn vrijgekomen.   ([artikel 4.54a, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontzanden van gietstukken, door middel van stralen, buiten de voor dat doel bestemde gesloten toestellen of ruimten.* ([artikel 4.61, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het bij ontzanden van gietstukken, door middel van stralen, afvoeren van afgezogen lucht naar ruimtes waar personen moeten verblijven.* ([artikel 4.61, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het blootstellen van werknemers aan biologische agentia waarbij ernstig gevaar bestaat voor schade aan de gezondheid. ([artikel 4.87a, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het blootstellen van thuiswerkers aan concentraties van stoffen in de individuele ademhalingszone van een werknemer aan meer dan twee maal de (wettelijke of door de werkgever vastgestelde) grenswaarde of aan meer dan de ceilingwaarde. ([artikel 4.113, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het door thuiswerkers werken met stoffen als bedoeld in beleidsregel 4.1c-4, waarbij direct contact met huid en ogen mogelijk is en kan leiden tot ernstige schade aan de gezondheid. ([artikel 4.113, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Onvoldoende of onjuiste maatregelen of voorzieningen bij thuiswerk met gevaarlijke stoffen waardoor ernstig gevaar bestaat voor brand of explosie of gezondheidsbedreigende blootstelling aan gevaarlijke stoffen, dampen en gassen. ([artikel 4.115, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van werkzaamheden zonder individuele gehoorbescherming in situaties waarbij de dagelijkse blootstelling aan lawaai 85 dB(A) of hoger is of de piekgeluidsdruk 140 Pa of hoger is. ([artikel 6.8, lid 9, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van werkzaamheden in situaties waarbij de dagelijkse blootstelling aan lawaai, rekening houdend met de dempende werking van de door de werknemer gedragen individuele gehoorbeschermers, hoger is dan 87 dB(A) of de piekgeluidsdruk hoger is dan 200 Pa ([artikel 6.8, lid 10, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het blootstellen van werknemers aan trillingen boven de grenswaarde voor blootstelling, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 6.11c, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet onverwijld treffen van maatregelen om de blootstelling terug te brengen tot onder de grenswaarde voor blootstelling, bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 6.11c, lid 3 onder a, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet onderzoeken van de oorzaak van de overschrijding bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit. ([artikel 6.11c, lid 3 onder b, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet aanpassen van de beschermings- en preventiemaatregelen om te voorkomen dat de grenswaarde opnieuw wordt overschreden bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 6.11c, lid 3 onder c, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van duikarbeid, caissonarbeid of overige arbeid onder overdruk zonder dat aan de beperkende voorschriften volgend uit een arbeidsgezondheidskundig onderzoek wordt voldaan. ([artikel 6.14a, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet aan werknemers ter beschikking stellen van materiaal dat in deugdelijke staat verkeert en van voldoende ademgas van goede kwaliteit. ([artikel 6.15, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van duikarbeid zonder te worden bijgestaan door een reserveduiker. ([artikel 6.16, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van duikwerkzaamheden op een diepte van 15 meter (of bij een druk van 1,5 maal 10 <sup>5</sup> Pascal) of meer waarbij geen geschikte compressiekamer aanwezig is. ([artikel 6.18, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een compressiekamer bij het verrichten van duikwerkzaamheden op een locatie waarbij de reistijd naar de dichtstbijzijnde behandelfaciliteit met compressiekamer meer dan twee uur bedraagt. ([artikel 6.18, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het door één persoon verrichten van caissonarbeid.* ([artikel 6.19, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van caissonwerkzaamheden onder een druk van meer dan 1,5 maal 10 <sup>5</sup> Pascal zonder een geschikte compressiekamer. ([artikel 6.20, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een compressiekamer bij het verrichten van caissonarbeid op een locatie waarbij de reistijd naar de dichtstbijzijnde behandelfaciliteit met compressiekamer meer dan twee uur bedraagt. ([artikel 6.20, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het gebruiken van arbeidsmiddelen op een andere wijze of plaats dan waarvoor zij zijn ingericht en bestemd. ([artikel 7.3, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet of onvoldoende treffen van beschermende maatregelen bij het gebruik van een arbeidsmiddel, waardoor ernstig gevaar bestaat voor persoonlijk letsel. ([artikel 7.3, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zodanig geplaatst of ingericht zijn van een arbeidsmiddel dat daardoor ernstig gevaar bestaat voor verschuiven, omvallen, kantelen, getroffen worden door het arbeidsmiddel of onderdelen daarvan, oververhitting, brand, ontploffen, blikseminslag en directe of indirecte aanraking met elektriciteit. ([artikel 7.4, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zodanig geplaatst of ingericht zijn van een arbeidsmiddel dat daardoor ernstig gevaar bestaat getroffen of geraakt te worden door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of bekneld te raken tussen voorwerpen, producten of onderdelen daarvan. ([artikel 7.4, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het onderhouden, repareren en reinigen van arbeidsmiddelen die ingeschakeld zijn en onder druk of elektrische spanning staan.* ([artikel 7.5, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het afstellen van arbeidsmiddelen die ingeschakeld zijn en onder druk of elektrische spanning staan.* ([artikel 7.5, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het op niet veilige wijze (de)monteren van arbeidsmiddelen. ([artikel 7.5, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken of onjuist toepassen van voorgeschreven beveiligingen en afschermingen, alsmede het overbruggen dan wel buiten werking stellen van noodzakelijke beveiligingen van arbeidsmiddelen. ([artikel 7.7, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het kunnen aanraken van (onderdelen van) arbeidsmiddelen met een zeer hoge of lage temperatuur. ([artikel 7.9, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het loskoppelen en opnieuw aansluiten van een arbeidsmiddel van en op een krachtbron. ([artikel 7.11, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een noodstopvoorziening op arbeidsmiddelen waarbij dit noodzakelijk is. ([artikel 7.16, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het vervoeren van personen met een mobiel arbeidsmiddel dat daartoe niet is uitgerust. ([artikel 7.17a, lid 1 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het gebruik van mobiele arbeidsmiddelen (m.u.v. heftrucks) waarmee personen kunnen worden vervoerd zonder beschermingsconstructies ter voorkoming van kantelen of de gevolgen daarvan. ([artikel 7.17a, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het gebruik van heftrucks waarmee personen kunnen worden vervoerd zonder beschermingsconstructies ter voorkoming van kantelen of de gevolgen daarvan. ([artikel 7.17a, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een rem- en stopvoorziening, alsmede een noodstopvoorziening voorzover deze noodzakelijk is, op een mobiel arbeidsmiddel met eigen aandrijving. ([artikel 7.17b, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het meerijden op mobiele arbeidsmiddelen met eigen aandrijving zonder speciaal daartoe ingerichte veilige plaatsen.* ([artikel 7.17c, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zwaarder belasten van een hijs- of hefwerktuig, dan de toegelaten bedrijfslast of dan een veilig gebruik toelaat.* ([artikel 7.18, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het vervoeren van personen met een hijs- of werktuig, dat daarvoor niet is bestemd of ingericht. * ([artikel 7.18, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zodanig opgesteld zijn van hijs- en hefwerktuigen, dat daardoor ernstig gevaar bestaat dat lasten werknemers kunnen raken.* ([artikel 7.18, lid 6, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zich bevinden van werknemers onder hangende lasten.* ([artikel 7.18, lid 7, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zodanig gebruik van een mobiel hijs- of hefwerktuig dat daardoor ernstig gevaar bestaat voor kantelen, ongewild in beweging komen of wegglijden.* ([artikel 7.18a, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het gebruik van hijs- en hefwerktuigen in slechte weersomstandigheden.* ([artikel 7.18a, lid 13, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het hijsen of heffen van personen op een onbeveiligd platform. ([artikel 7.18b, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het overbelasten van laad- en losgerei met meer dan 10%.* ([artikel 7.20, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van technische of organisatorische maatregelen, indien zich in een schacht twee of meer liften bevinden, om te voorkomen dat personen bij werkzaamheden aan een van de liften, getroffen worden door een naastliggende lift. ([artikel 7.21, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet stilzetten van de naastgelegen lift tijdens werkzaamheden in een liftschacht waarbij gevaren veroorzaakt door deze lift niet zijn tegengegaan.* ([artikel 7.21, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet kiezen van de meest geschikte arbeidsmiddelen bij tijdelijke werkzaamheden op hoogte, waardoor: 
+c. het opruimen van asbest of asbesthoudende producten die ten gevolge van een incident zijn vrijgekomen.   ([artikel 4.54a, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van handelingen, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) door een bedrijf dat niet in het bezit is van een certificaat voor asbestverwijdering. ([artikel 4.54d, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van de werkzaamheden, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) zonder voortdurend toezicht van (of niet door) een persoon die in het bezit is van een certificaat van vakbekwaamheid voor het toezicht houden op het werken met asbest. ([artikel 4.54d, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het mede verrichten van de handelingen, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) door een persoon die niet in het bezit is van een certificaat van vakbekwaamheid voor het verwijderen van asbest. ([artikel 4.54d, lid 7, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)). Het ontzanden van gietstukken, door middel van stralen, buiten de voor dat doel bestemde gesloten toestellen of ruimten.* ([artikel 4.61, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het bij ontzanden van gietstukken, door middel van stralen, afvoeren van afgezogen lucht naar ruimtes waar personen moeten verblijven.* ([artikel 4.61, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het blootstellen van werknemers aan biologische agentia waarbij ernstig gevaar bestaat voor schade aan de gezondheid. ([artikel 4.87a, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het blootstellen van thuiswerkers aan concentraties van stoffen in de individuele ademhalingszone van een werknemer aan meer dan twee maal de (wettelijke of door de werkgever vastgestelde) grenswaarde of aan meer dan de ceilingwaarde. ([artikel 4.113, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het door thuiswerkers werken met stoffen als bedoeld in beleidsregel 4.1c-4, waarbij direct contact met huid en ogen mogelijk is en kan leiden tot ernstige schade aan de gezondheid. ([artikel 4.113, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Onvoldoende of onjuiste maatregelen of voorzieningen bij thuiswerk met gevaarlijke stoffen waardoor ernstig gevaar bestaat voor brand of explosie of gezondheidsbedreigende blootstelling aan gevaarlijke stoffen, dampen en gassen. ([artikel 4.115, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van werkzaamheden zonder individuele gehoorbescherming in situaties waarbij de dagelijkse blootstelling aan lawaai 85 dB(A) of hoger is of de piekgeluidsdruk 140 Pa of hoger is. ([artikel 6.8, lid 9, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van werkzaamheden in situaties waarbij de dagelijkse blootstelling aan lawaai, rekening houdend met de dempende werking van de door de werknemer gedragen individuele gehoorbeschermers, hoger is dan 87 dB(A) of de piekgeluidsdruk hoger is dan 200 Pa ([artikel 6.8, lid 10, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het blootstellen van werknemers aan trillingen boven de grenswaarde voor blootstelling, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 6.11c, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet onverwijld treffen van maatregelen om de blootstelling terug te brengen tot onder de grenswaarde voor blootstelling, bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 6.11c, lid 3 onder a, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet onderzoeken van de oorzaak van de overschrijding bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit. ([artikel 6.11c, lid 3 onder b, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet aanpassen van de beschermings- en preventiemaatregelen om te voorkomen dat de grenswaarde opnieuw wordt overschreden bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 6.11c, lid 3 onder c, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van duikarbeid, caissonarbeid of overige arbeid onder overdruk zonder dat aan de beperkende voorschriften volgend uit een arbeidsgezondheidskundig onderzoek wordt voldaan. ([artikel 6.14a, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet aan werknemers ter beschikking stellen van materiaal dat in deugdelijke staat verkeert en van voldoende ademgas van goede kwaliteit. ([artikel 6.15, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van duikarbeid zonder te worden bijgestaan door een reserveduiker. ([artikel 6.16, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van duikwerkzaamheden op een diepte van 15 meter (of bij een druk van 1,5 maal 10 <sup>5</sup> Pascal) of meer waarbij geen geschikte compressiekamer aanwezig is. ([artikel 6.18, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een compressiekamer bij het verrichten van duikwerkzaamheden op een locatie waarbij de reistijd naar de dichtstbijzijnde behandelfaciliteit met compressiekamer meer dan twee uur bedraagt. ([artikel 6.18, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het door één persoon verrichten van caissonarbeid.* ([artikel 6.19, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van caissonwerkzaamheden onder een druk van meer dan 1,5 maal 10 <sup>5</sup> Pascal zonder een geschikte compressiekamer. ([artikel 6.20, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een compressiekamer bij het verrichten van caissonarbeid op een locatie waarbij de reistijd naar de dichtstbijzijnde behandelfaciliteit met compressiekamer meer dan twee uur bedraagt. ([artikel 6.20, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het gebruiken van arbeidsmiddelen op een andere wijze of plaats dan waarvoor zij zijn ingericht en bestemd. ([artikel 7.3, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet of onvoldoende treffen van beschermende maatregelen bij het gebruik van een arbeidsmiddel, waardoor ernstig gevaar bestaat voor persoonlijk letsel. ([artikel 7.3, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zodanig geplaatst of ingericht zijn van een arbeidsmiddel dat daardoor ernstig gevaar bestaat voor verschuiven, omvallen, kantelen, getroffen worden door het arbeidsmiddel of onderdelen daarvan, oververhitting, brand, ontploffen, blikseminslag en directe of indirecte aanraking met elektriciteit. ([artikel 7.4, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zodanig geplaatst of ingericht zijn van een arbeidsmiddel dat daardoor ernstig gevaar bestaat getroffen of geraakt te worden door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of bekneld te raken tussen voorwerpen, producten of onderdelen daarvan. ([artikel 7.4, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het onderhouden, repareren en reinigen van arbeidsmiddelen die ingeschakeld zijn en onder druk of elektrische spanning staan.* ([artikel 7.5, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het afstellen van arbeidsmiddelen die ingeschakeld zijn en onder druk of elektrische spanning staan.* ([artikel 7.5, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het op niet veilige wijze (de)monteren van arbeidsmiddelen. ([artikel 7.5, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken of onjuist toepassen van voorgeschreven beveiligingen en afschermingen, alsmede het overbruggen dan wel buiten werking stellen van noodzakelijke beveiligingen van arbeidsmiddelen. ([artikel 7.7, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het kunnen aanraken van (onderdelen van) arbeidsmiddelen met een zeer hoge of lage temperatuur. ([artikel 7.9, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het loskoppelen en opnieuw aansluiten van een arbeidsmiddel van en op een krachtbron. ([artikel 7.11, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een noodstopvoorziening op arbeidsmiddelen waarbij dit noodzakelijk is. ([artikel 7.16, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het vervoeren van personen met een mobiel arbeidsmiddel dat daartoe niet is uitgerust. ([artikel 7.17a, lid 1 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het gebruik van mobiele arbeidsmiddelen (m.u.v. heftrucks) waarmee personen kunnen worden vervoerd zonder beschermingsconstructies ter voorkoming van kantelen of de gevolgen daarvan. ([artikel 7.17a, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het gebruik van heftrucks waarmee personen kunnen worden vervoerd zonder beschermingsconstructies ter voorkoming van kantelen of de gevolgen daarvan. ([artikel 7.17a, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een rem- en stopvoorziening, alsmede een noodstopvoorziening voorzover deze noodzakelijk is, op een mobiel arbeidsmiddel met eigen aandrijving. ([artikel 7.17b, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het meerijden op mobiele arbeidsmiddelen met eigen aandrijving zonder speciaal daartoe ingerichte veilige plaatsen.* ([artikel 7.17c, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zwaarder belasten van een hijs- of hefwerktuig, dan de toegelaten bedrijfslast of dan een veilig gebruik toelaat.* ([artikel 7.18, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het vervoeren van personen met een hijs- of werktuig, dat daarvoor niet is bestemd of ingericht. * ([artikel 7.18, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zodanig opgesteld zijn van hijs- en hefwerktuigen, dat daardoor ernstig gevaar bestaat dat lasten werknemers kunnen raken.* ([artikel 7.18, lid 6, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zich bevinden van werknemers onder hangende lasten.* ([artikel 7.18, lid 7, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het zodanig gebruik van een mobiel hijs- of hefwerktuig dat daardoor ernstig gevaar bestaat voor kantelen, ongewild in beweging komen of wegglijden.* ([artikel 7.18a, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het gebruik van hijs- en hefwerktuigen in slechte weersomstandigheden.* ([artikel 7.18a, lid 13, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het hijsen of heffen van personen op een onbeveiligd platform. ([artikel 7.18b, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het overbelasten van laad- en losgerei met meer dan 10%.* ([artikel 7.20, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van technische of organisatorische maatregelen, indien zich in een schacht twee of meer liften bevinden, om te voorkomen dat personen bij werkzaamheden aan een van de liften, getroffen worden door een naastliggende lift. ([artikel 7.21, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet stilzetten van de naastgelegen lift tijdens werkzaamheden in een liftschacht waarbij gevaren veroorzaakt door deze lift niet zijn tegengegaan.* ([artikel 7.21, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet kiezen van de meest geschikte arbeidsmiddelen bij tijdelijke werkzaamheden op hoogte, waardoor: 
 
 a. de arbeidsmiddelen niet zijn afgestemd op de aard van de te verrichten werkzaamheden en op de voorzienbare belastingen en dat de arbeidsmiddelen niet zodanig zijn dat zonder gevaar doorgang mogelijk is; of  
 
@@ -2890,7 +2406,7 @@ Er bestaat in de [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighede
 
 – het nagelaten hebben van verplichte meldingen aan de Arbeidsinspectie;  
 
-– bepaalde onmisbare basisvoorzieningen.   Dergelijke overtredingen waarvoor direct eenbestuurlijke boete wordt gegeven(voorts: direct beboetbare feiten) die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Arbeidsinspectie ernstig belemmeren, moeten leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt dus direct overgegaan tot het aanzeggen van een bestuurlijke boete. De lijst van overtredingen waarvoor direct eenbestuurlijke boete wordt gegevenis op voorhand niet limitatief. De lijst kan worden uitgebreid met feiten waarvan het politiek, maatschappelijk, beleidsmatig of inhoudelijk nodig wordt geacht deze direct door middel van een boete aan te pakken. Ten aanzien van de met een asterisk (*) gemarkeerde feiten kan ook een werknemer worden beboet, indien deze de betreffende verplichting(en) niet naleeft. Het onvoldoende toezien op de naleving van instructies en voorschriften bij werkzaamheden waaraan risico’s voor werknemers zijn verbonden. ([artikel 8, lid 4, Arbowet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)) Het niet (direct) melden van een dodelijk arbeidsongeval of een arbeidsongeval dat leidt tot een blijvend letsel of een ziekenhuisopname. ([artikel 9, lid 1, Arbowet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)) Het ontbreken van adequaat deskundig toezicht op jeugdige werknemers. ([artikel 1.37, lid 1 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van adequaat deskundig toezicht op jeugdige werknemers om specifieke gevaren voor jeugdige werknemers te voorkomen. ([artikel 1.37, lid 2 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het aanvangen met werkzaamheden op een bouwplaats zonder schriftelijke kennisgeving aan de Arbeidsinspectie over de voorgenomen totstandbrenging van het bouwwerk. ([artikel 2.27, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een veiligheids- en gezondheidsplan ten aanzien van bouwwerken zoals gedefinieerd in het Arbobesluit. ([artikel 2.28, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een veiligheids- en gezondheidsdocument ten aanzien van werkzaamheden verricht in de winningsindustrie in dagbouw, ondergronds of met behulp van boringen. ([artikel 2.42, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet beschikbaar en gebruiksklaar houden van vluchtmiddelen zodat werknemers de gevaarlijke gebieden snel en veilig kunnen verlaten. ([artikel 3.5f onder f. Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van onderzoek naar de veiligheid aan, op of in tankschepen door een persoon die niet beschikt over het certificaat van vakbekwaamheid gasdeskundige.* ([artikel 3.5h, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van voldoende geschikte reddingsmiddelen op een mijnbouwinstallatie. ([artikel 3.37t, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van deskundig toezicht op jeugdige werknemers die arbeid verrichten waarbij gevaar voor instorting bestaat. ([artikel 3.46, sub a, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van deskundig toezicht op jeugdige werknemers die arbeid verrichten aan, met of in de directe nabijheid van een hoogspanningsinstallatie. ([artikel 3.46, sub b, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Gebruik van springstoffen zonder dat hierop voortdurend toezicht plaatsvindt door een persoon die in het bezit is van een certificaat van vakbekwaamheid springmeester.* ([artikel 4.8, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van werkzaamheden bestaande uit het springen van materialen ten behoeve van de opsporing of winning van delfstoffen door personen die niet in het bezit zijn van een getuigschrift van schietmeester * ([artikel 4.8, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet door een gecertificeerd persoon toezicht houden op opbouw, installeren, monteren, assembleren, dan wel verwijderen na ontbranding, van professioneel vuurwerk. ([artikel 4.9, lid 2 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet door een gecertificeerd persoon toezicht houden op het bewerken van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 van het Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) ([artikel 4.9, lid 2 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken van asbest of asbesthoudende producten zonder dit tijdig en (volledig) schriftelijk te hebben gemeld aan de Arbeidsinspectie. ([artikel 4.47c, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet opnieuw melden aan de Arbeidsinspectie, telkens wanneer een verandering in de arbeidsomstandigheden kan leiden tot een aanzienlijke toename van de blootstelling aan asbeststof of asbesthoudende producten. ([artikel 4.47c, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet beschikken over een, overeenkomstig [artikel 4.50 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) opgesteld, schriftelijk werkplan door de werkgever van het bedrijf, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), voordat wordt aangevangen met de werkzaamheden. ([artikel 4.50, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet treffen van doeltreffende maatregelen om blootstelling aan asbeststof te voorkomen als het resultaat van het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), daartoe aanleiding geeft. ([artikel 4.52, lid 3 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet voor aanvang van de werkzaamheden volledig inventariseren van de aanwezigheid van asbest of asbesthoudende producten, bij het geheel of gedeeltelijk afbreken of uit elkaar nemen van bouwwerken of objecten of het verwijderen en opruimen van asbest of asbesthoudende producten. ([artikel 4.54a, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet op grond van de uitgevoerde inventarisatie, als bedoeld in [artikel 4.54a, lid 1](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), bepalen van de daarbij behorende risicoklasse als bedoeld in de [artikelen 4.44](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.48](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) of [4.53a Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 4.54a, lid 2](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van de handelingen bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) door een bedrijf dat niet in het bezit is van een certificaat voor asbestverwijdering. ([artikel 4.54d, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het door het bedrijf dat asbest verwijdert niet beschikken over een afschrift van een inventarisatierapport waarin de resultaten zijn neergelegd van de inventarisatie van de aanwezigheid van asbest en asbesthoudende producten, voordat wordt aangevangen met het verwijderen van asbest. ([artikel 4.54d, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van de werkzaamheden bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) zonder voortdurend toezicht van (of niet door) een persoon die in het bezit is van een certificaat van vakbekwaamheid voor het toezicht houden op het werken met asbest.* ([artikel 4.54d, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het bij een gecertificeerd asbestverwijderingsbedrijf niet werkzaam zijn op basis van een arbeidsovereenkomst van een persoon die in het bezit is van een certificaat van vakbekwaamheid voor het toezicht houden op het verwijderen van asbest. ([artikel 4.54d, lid 6, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het mede verrichten van de handelingen bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) door een persoon die niet in het bezit is van een certificaat van vakbekwaamheid voor het verwijderen van asbest.* ([artikel 4.54d, lid 7, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) <sup>1</sup> Het niet begeleiden van de handelingen als bedoeld in [artikel 5, onderdelen e en f, van het Productenbesluit asbest](../../../../AMvB/productenbesluit/asbest/BWBR0017778/README.md) die betrekking hebben op werkzaamheden met asbesthoudende grond, door een persoon die in het bezit is van een certificaat van vakbekwaamheid arbeidhygiëne of veiligheidskunde als bedoeld in [artikel 2.7, tweede lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 4.54d, lid 8, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32a, lid 4 tot en met 6, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32a, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (lijmen en verven in binnensituaties), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32b, lid 2 tot en met 4, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32b, lid 1, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (offset drukken), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32c, lid 2 en 3, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32c, lid 1, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (zeefdrukken), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32d, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32d, lid 1, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (illustratiediepdrukken), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32e, lid 3, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32e, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (verpakkingsdiepdrukken en flexodrukken), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32f, lid 4, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32f, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (herstellen van autoschade), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32g, lid 3, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32g, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (coating timmerwerk in binnensituaties), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het voor de eerste maal werken met biologische agentia van de 2 <sup>e</sup>, 3 <sup>e</sup> of 4 <sup>e</sup> categorie, zonder (tijdige en volledige) schriftelijke kennisgeving aan de Arbeidsinspectie. ([artikel 4.94, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met een nieuw biologisch agens van de 3 <sup>e</sup> of 4 <sup>e</sup> categorie, zonder (tijdige en volledige) schriftelijke kennisgeving aan de Arbeidsinspectie. ([artikel 4.94, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met biologische agentia van de 2 <sup>e</sup>, 3 <sup>e</sup> of 4 <sup>e</sup> categorie na veranderingen in procédés of procedures met mogelijke gevolgen voor veiligheid en gezondheid, zonder dit opnieuw te hebben gemeld aan de Arbeidsinspectie. ([artikel 4.94, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet (tijdig en schriftelijk) hebben gemeld aan de Arbeidsinspectie van een ongeval of incident dat (mogelijkerwijs) heeft geleid tot het vrijkomen van een of meer biologische agentia van de 3 <sup>e</sup> of 4 <sup>e</sup> categorie. ([artikel 4.95, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van deskundig toezicht op jeugdige werknemers ter voorkoming van specifieke gevaren bij het werken met gevaarlijke stoffen of gassen of artikelen die ontplofbare stoffen bevatten. ([artikel 4.106 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het voor de aanvang van de arbeid uitvoeren van een arbeidsgezondheidskundig onderzoek door een arts, die niet in het bezit is van een certificaat duikerarts. ([artikel 6.14a, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het optreden als duikploegleider zonder in het bezit te zijn van een certificaat duikploegleider met betrekking tot de soort arbeid die wordt verricht. ([artikel 6.16, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het duiken zonder in het bezit te zijn van het certificaat duikarbeid met betrekking tot de soort duikarbeid die wordt verricht. ([artikel 6.16, lid 6, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van duikarbeid zonder de aanwezigheid van een persoon die in het bezit is van een certificaat duikmedische begeleiding met betrekking tot de soort arbeid die hij verricht* ([artikel 6.16, lid 7, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het uitvoeren van duikarbeid: 
+– bepaalde onmisbare basisvoorzieningen.   Dergelijke overtredingen waarvoor direct eenbestuurlijke boete wordt gegeven(voorts: direct beboetbare feiten) die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Arbeidsinspectie ernstig belemmeren, moeten leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt dus direct overgegaan tot het aanzeggen van een bestuurlijke boete. De lijst van overtredingen waarvoor direct eenbestuurlijke boete wordt gegevenis op voorhand niet limitatief. De lijst kan worden uitgebreid met feiten waarvan het politiek, maatschappelijk, beleidsmatig of inhoudelijk nodig wordt geacht deze direct door middel van een boete aan te pakken. Ten aanzien van de met een asterisk (*) gemarkeerde feiten kan ook een werknemer worden beboet, indien deze de betreffende verplichting(en) niet naleeft. Het onvoldoende toezien op de naleving van instructies en voorschriften bij werkzaamheden waaraan risico’s voor werknemers zijn verbonden. ([artikel 8, lid 4, Arbowet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)) Het niet (direct) melden van een dodelijk arbeidsongeval of een arbeidsongeval dat leidt tot een blijvend letsel of een ziekenhuisopname. ([artikel 9, lid 1, Arbowet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)) Het ontbreken van adequaat deskundig toezicht op jeugdige werknemers. ([artikel 1.37, lid 1 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van adequaat deskundig toezicht op jeugdige werknemers om specifieke gevaren voor jeugdige werknemers te voorkomen. ([artikel 1.37, lid 2 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het aanvangen met werkzaamheden op een bouwplaats zonder schriftelijke kennisgeving aan de Arbeidsinspectie over de voorgenomen totstandbrenging van het bouwwerk. ([artikel 2.27, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een veiligheids- en gezondheidsplan ten aanzien van bouwwerken zoals gedefinieerd in het Arbobesluit. ([artikel 2.28, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van een veiligheids- en gezondheidsdocument ten aanzien van werkzaamheden verricht in de winningsindustrie in dagbouw, ondergronds of met behulp van boringen. ([artikel 2.42, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet beschikbaar en gebruiksklaar houden van vluchtmiddelen zodat werknemers de gevaarlijke gebieden snel en veilig kunnen verlaten. ([artikel 3.5f onder f. Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van onderzoek naar de veiligheid aan, op of in tankschepen door een persoon die niet beschikt over het certificaat van vakbekwaamheid gasdeskundige.* ([artikel 3.5h, lid 4, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van voldoende geschikte reddingsmiddelen op een mijnbouwinstallatie. ([artikel 3.37t, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van deskundig toezicht op jeugdige werknemers die arbeid verrichten waarbij gevaar voor instorting bestaat. ([artikel 3.46, sub a, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van deskundig toezicht op jeugdige werknemers die arbeid verrichten aan, met of in de directe nabijheid van een hoogspanningsinstallatie. ([artikel 3.46, sub b, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Gebruik van springstoffen zonder dat hierop voortdurend toezicht plaatsvindt door een persoon die in het bezit is van een certificaat van vakbekwaamheid springmeester.* ([artikel 4.8, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van werkzaamheden bestaande uit het springen van materialen ten behoeve van de opsporing of winning van delfstoffen door personen die niet in het bezit zijn van een getuigschrift van schietmeester * ([artikel 4.8, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet door een gecertificeerd persoon toezicht houden op opbouw, installeren, monteren, assembleren, dan wel verwijderen na ontbranding, van professioneel vuurwerk. ([artikel 4.9, lid 2 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet door een gecertificeerd persoon toezicht houden op het bewerken van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 van het Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) ([artikel 4.9, lid 2 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken van asbest of asbesthoudende producten zonder dit tijdig en (volledig) schriftelijk te hebben gemeld aan de Arbeidsinspectie. ([artikel 4.47c, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet opnieuw melden aan de Arbeidsinspectie, telkens wanneer een verandering in de arbeidsomstandigheden kan leiden tot een aanzienlijke toename van de blootstelling aan asbeststof of asbesthoudende producten. ([artikel 4.47c, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet beschikken over een, overeenkomstig [artikel 4.50 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) opgesteld, schriftelijk werkplan door de werkgever van het bedrijf, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), voordat wordt aangevangen met de werkzaamheden. ([artikel 4.50, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het in het werkplan ontbreken van voorgeschreven gegevens, zoals beschreven in [artikel 4.50 lid 4 onder a tot en met d](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 4.50, vierde lid, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)). Het niet treffen van doeltreffende maatregelen om blootstelling aan asbeststof te voorkomen als het resultaat van het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), daartoe aanleiding geeft. ([artikel 4.52, lid 3 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet voor aanvang van de werkzaamheden volledig inventariseren van de aanwezigheid van asbest of asbesthoudende producten, bij het geheel of gedeeltelijk afbreken of uit elkaar nemen van bouwwerken of objecten of het verwijderen en opruimen van asbest of asbesthoudende producten. ([artikel 4.54a, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet op grond van de uitgevoerde inventarisatie, als bedoeld in [artikel 4.54a, lid 1](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), bepalen van de daarbij behorende risicoklasse als bedoeld in de [artikelen 4.44](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.48](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) of [4.53a Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 4.54a, lid 2](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het door het bedrijf dat asbest verwijdert niet beschikken over een afschrift van een inventarisatierapport waarin de resultaten zijn neergelegd van de inventarisatie van de aanwezigheid van asbest en asbesthoudende producten, voordat wordt aangevangen met het verwijderen van asbest. ([artikel 4.54d, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het bij een gecertificeerd asbestverwijderingsbedrijf niet werkzaam zijn op basis van een arbeidsovereenkomst van een persoon die in het bezit is van een certificaat van vakbekwaamheid voor het toezicht houden op het verwijderen van asbest. ([artikel 4.54d, lid 6, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet begeleiden van de handelingen als bedoeld in [artikel 5, onderdelen e en f, van het Productenbesluit asbest](../../../../AMvB/productenbesluit/asbest/BWBR0017778/README.md) die betrekking hebben op werkzaamheden met asbesthoudende grond, door een persoon die in het bezit is van een certificaat van vakbekwaamheid arbeidhygiëne of veiligheidskunde als bedoeld in [artikel 2.7, tweede lid](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md). ([artikel 4.54d, lid 8, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32a, lid 4 tot en met 6, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32a, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (lijmen en verven in binnensituaties), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32b, lid 2 tot en met 4, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32b, lid 1, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (offset drukken), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32c, lid 2 en 3, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32c, lid 1, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (zeefdrukken), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32d, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32d, lid 1, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (illustratiediepdrukken), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32e, lid 3, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32e, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (verpakkingsdiepdrukken en flexodrukken), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32f, lid 4, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32f, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (herstellen van autoschade), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32g, lid 3, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) bij werkzaamheden waarvoor dit op grond van [artikel 4.32g, lid 2, Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) (coating timmerwerk in binnensituaties), niet is toegestaan. ([artikel 4.62b Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het voor de eerste maal werken met biologische agentia van de 2 <sup>e</sup>, 3 <sup>e</sup> of 4 <sup>e</sup> categorie, zonder (tijdige en volledige) schriftelijke kennisgeving aan de Arbeidsinspectie. ([artikel 4.94, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met een nieuw biologisch agens van de 3 <sup>e</sup> of 4 <sup>e</sup> categorie, zonder (tijdige en volledige) schriftelijke kennisgeving aan de Arbeidsinspectie. ([artikel 4.94, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met biologische agentia van de 2 <sup>e</sup>, 3 <sup>e</sup> of 4 <sup>e</sup> categorie na veranderingen in procédés of procedures met mogelijke gevolgen voor veiligheid en gezondheid, zonder dit opnieuw te hebben gemeld aan de Arbeidsinspectie. ([artikel 4.94, lid 5, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet (tijdig en schriftelijk) hebben gemeld aan de Arbeidsinspectie van een ongeval of incident dat (mogelijkerwijs) heeft geleid tot het vrijkomen van een of meer biologische agentia van de 3 <sup>e</sup> of 4 <sup>e</sup> categorie. ([artikel 4.95, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van deskundig toezicht op jeugdige werknemers ter voorkoming van specifieke gevaren bij het werken met gevaarlijke stoffen of gassen of artikelen die ontplofbare stoffen bevatten. ([artikel 4.106 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het voor de aanvang van de arbeid uitvoeren van een arbeidsgezondheidskundig onderzoek door een arts, die niet in het bezit is van een certificaat duikerarts. ([artikel 6.14a, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het optreden als duikploegleider zonder in het bezit te zijn van een certificaat duikploegleider met betrekking tot de soort arbeid die wordt verricht. ([artikel 6.16, lid 3, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het duiken zonder in het bezit te zijn van het certificaat duikarbeid met betrekking tot de soort duikarbeid die wordt verricht. ([artikel 6.16, lid 6, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van duikarbeid zonder de aanwezigheid van een persoon die in het bezit is van een certificaat duikmedische begeleiding met betrekking tot de soort arbeid die hij verricht* ([artikel 6.16, lid 7, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het uitvoeren van duikarbeid: 
 
 a. op een diepte groter dan 9 meter,  
 
@@ -2903,406 +2419,4 @@ d. met een ademgas anders dan lucht,
 e. over een periode langer dan een week,  
 
 f. ten behoeve van de ondergrondse winningsindustrie, of ten behoeve van de winningsindustrie die delfstoffen wint met behulp van boringen,   zonder (tijdige) melding aan de toezichthouder ([artikel 6.17, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het verrichten van caissonarbeid zonder de Arbeidsinspectie daarvan (tijdig en schriftelijk) in kennis te stellen, onder overlegging van een deugdelijk werkplan. ([artikel 6.19, lid 2, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het werken met mobiele arbeidsmiddelen met eigen aandrijving, zonder dat de bedieners daartoe specifieke deskundigheid bezitten. ([artikel 7.17c, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) N.B. uitsluitend aan de orde indien criteria bestaan (en in projecten zijn aangegeven) wanneer en in welke situatie er sprake is van dit feit. Het onvoldoende adequaat en specifiek opgeleid zijn van werknemers voor het werken aan lijnen. ([artikel 7.23c, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Werknemers zijn niet op de hoogte van de reddingsprocedures voor het werken aan lijnen. ([artikel 7.23c, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het niet door een certificerende instelling laten onderzoeken en beproeven van hijs- of hefwerktuigen en hijs- of hefgereedschappen aan boord van schepen, die gebruikt worden bij het laden en lossen. ([artikel 7.29, lid 7, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het bedienen van een torenkraan, mobiele kraan of mobiele hei-installatie als bedoeld in [artikel 7.6 Arboregeling](../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md), door een persoon die niet in het bezit is van een certificaat van bekwaamheid. ([artikel 7.32, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het op de openbare weg besturen van een trekker en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen door een jeugdige werknemer die niet in het bezit is van een certificaat van vakbekwaamheid. ([artikel 9.36, lid 1, Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)) Het ontbreken van trainingen voor het uitvoeren van noodhandelingen bij winningsindustrieën met behulp van boringen. ([artikel 2.42h Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md))  
-
-### Bijlage  4  behorend bij beleidsregel 2-1 en beleidsregel 2-2 Arbobesluit  
-
-NIET-LIMITATIEVE LIJST VOOR TOXISCHE EN EXTREEM TOXISCHE STOFFEN 
-
-| STOFNAAM  | CASNUMMER  | KOOKPUNT  | METING  | WAARDE  | GRENSWAARDE  |--- |--- | (°C)  |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| ACETON  | 67-64-1  | 56  | LC <sub>LO</sub> IHL-RAT  | 64000 ppm 4h  | GEEN  |
-| ACETONCYAANHYDRINE  | 75-86-5  | 95  | LC <sub>50</sub> IHL-RAT  | 0,85 g/m <sup>3</sup> 1h  | 3000  |
-| ACROLEINE  | 107-02-8  | 53  | LC <sub>50</sub> tHL-RAT  | 109,7 mg/m <sup>3</sup> 1h  | 300  |
-| ACRYLONITRIL  | 107-13-1  | 77  | LC <sub>50</sub> IHL-RAT 1h  | 3g/m <sup>3</sup> <C< 5g/m <sup>3</sup>  | GEEN  |
-| ACRYLZUUR  | 79-10-7  | 142  | LC <sub>LO</sub> IHL-RAT  | 6000 ppm 5h  | GEEN  |
-| ADIPONITRIL  | 111-69-3  | 295  | LC <sub>50</sub> IHL-RAT  | 1710 mg/m <sup>3</sup> 4h  | GEEN  |
-| ALDICARB  | 116-06-3  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 1 mg/kg  | 1  |
-| ALLYLALCOHOL  | 107-18-6  | 97  | 0 RAT bij 1h  | conc. 2,7 g/m <sup>3</sup>  | GEEN  |
-| ALLYLAMINE  | 107-11-9  | 53  | 0 RAT bij 1h  | conc. 2,8 g/m <sup>3</sup>  | GEEN  |
-| AMMONIAK  | 7664-41-7  | –33  | LC <sub>50</sub> IHL-RAT  | 11590 mg/m <sup>3</sup> 1h  | 3000  |
-| ARSEENPENTOXYDE  | 1303-28-2  | vast  <sup> 1)   Fysische omstandigheid bij 25 °C.    </sup> | 0 RAT bij 1h  | conc. 0,46 g/m <sup>3</sup>  | GEEN  |
-| ARSEENTRIOXIDE  | 1327-53-3  | vast  <sup> 1)   Fysische omstandigheid bij 25 °C.    </sup> | 0 RAT bij 1h  | conc. 0,84 g/m <sup>3</sup>  | GEEN  |
-| ARSEENWATERSTOF  | 7784-42-1  | –55  | LC <sub>50</sub> IHL-RAT  | 369 mg/m <sup>3</sup> 1h  | 30  |
-| ATRAZINE  | 1912-24-9  | vast  <sup> 1)   Fysische omstandigheid bij 25 °C.    </sup> | LC <sub>50</sub> IHL-RAT  | 5200 mg/m <sup>3</sup> 4h  | GEEN  |
-| AZIJNZUUR  | 64-19-7  | 118  | LC <sub>LO</sub> IHL-RAT  | 16000 ppm 4h  | GEEN  |
-| AZIJNZUUR ANHYDRIDE  | 108-24-7  | 140  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4h  | GEEN  |
-| AZINFOS-METHYL  | 86-50-0  | vast  <sup> 1)   Fysische omstandigheid bij 25 °C.    </sup> | LC <sub>50</sub> IHL-RAT  | 69 mg/m <sup>3</sup> 1h  | 300  |
-| BENZEEN  | 71-43-2  | 80  | LC <sub>50</sub> IHL-RAT  | 10000 ppm 7h  | GEEN  |
-| BLAUWZUUR  | 74-90-8  | 26  | LC <sub>50</sub> IHL-RAT  | 163 mg/m <sup>3</sup> 1h  | 100  |
-| BROOM  | 77826-95-6  | 58  | 0 RAT bij 1h  | max. C: 9,1 g/m <sup>3</sup>  | GEEN  |
-| BROOMWATERSTOF  | 10035-10-6  | –67  | LC <sub>50</sub> IHL-RAT  | 2858 ppm 1h  | 3000  |
-| BUTANOL/ISO  | 78-83-1  | 108  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| BUTANOL/N-  | 71-36-3  | 118  | LC <sub>50</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| BUTYLACETAAT/ISO  | 110-19-0  | 105  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| BUTYLACRYLAAT/ISO  | 141-32-2  | >100  | LC <sub>LO</sub> IHL-RAT  | 2000 ppm 4h  | GEEN  |
-| BUTYLACRYLAAT/N-  | 141-32-2  | 146  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4h  | GEEN  |
-| BUTYLAMINE/1-  | 109-73-9  | 78  | LC <sub>LO</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| BUTYLHYDROPEROXIDE/T.  | 75-91-2  | >50  | LC <sub>50</sub> IHL-RAT  | 500 ppm 4h  | GEEN  |
-| CHLOOR  | 7782-50-5  | –34  | LC <sub>50</sub> IHL-RAT  | 293 ppm 1h  | 300  |
-| CHLOORACETYLCHLORIDE  | 79-04-9  | 105  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4H  | GEEN  |
-| CHLOORFENVINFOS  | 470-90-6  | >100  | LC <sub>50</sub> IHL-RAT  | 1,15 g/m <sup>3</sup> 1h  | 10000  |
-| CHLOROFORM  | 67-66-3  | 61  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| CHLOROPREEN/2-  | 126-99-8  | 59  | LC <sub>LO</sub> IHL-RAT  | 2280 ppm 4h  | GEEN  |
-| CHROOMZUUR  | 7738-94-5  | >100  | LC <sub>50</sub> IHL-RAT  | 0,35 g/m <sup>3</sup> 1h  | 1000  |
-| CUMEEN  | 98-82-8  | 152  | LC <sub>50</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| CYANOGEN  | 460-19-5  | –21  | LC <sub>50</sub> IHL-RAT  | 350 ppm 1h  | 300  |
-| DICHLOORETHAAN/1.2  | 107-06-2  | 84  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4h  | GEEN  |
-| DICHLOORETHAAN/1.1-  | 75-34-3  | 57  | 0 RAT bij 8h  | conc. 4000 ppm  | GEEN  |
-| DICHLOORETHEEN/1.1-  | 75-35-4  | 32  | LC <sub>LO</sub> IHL-RAT  | 10000 ppm 24h  | GEEN  |
-| DICHLOORPROPAAN/1.2-  | 78-87-5  | 96  | LC <sub>LO</sub> IHL-RAT  | 2000 ppm 4h  | GEEN  |
-| DICHLOORVOS  | 62-73-7  | n.v.t.  | LC <sub>50</sub> IHL-RAT  | 15 mg/m <sup>3</sup> 4H  | 1  |
-| DIELDRIN  | 60-57-1  | n.v.t.  | LC <sub>50</sub> IHL-RAT  | 3,8 mg/m <sup>3</sup> 1h  | 1  |
-| DIETHYL-S-ETHYLTHIOMETHYLTHIOFOSFAAT/O.O  | 2600-69-3  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 250 μg/kg  | 1  |
-| DIETHYL-S-ETHIONYLMETHYLFOSFORTHIAAT/O.O-  | 2588-05-8  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 1 mg/kg  | 1  |
-| DIETHYLAMINE  | 109-89-7  | 56  | LC <sub>50</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| DIFLUORETHEEN/1.1.  | 75-38-7  | –74  | LC <sub>50</sub> IHL-RAT  | 128000 ppm 4h  | GEEN  |
-| DIMEFOX  | 115-26-4  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 1 mg/kg  | 1  |
-| DIMETHYLSULFAAT  | 77-78-1  | > 100  | LC <sub>50</sub> IHL-RAT  | 27 mg/m <sup>3</sup> 1h  | 100  |
-| DIOXAAN/1.4-  | 123-91-1  | 101  | LC <sub>50</sub> IHL-RAT  | 46 g/m <sup>3</sup> 2h  | GEEN  |
-| DIPHENYLMETHAAN-DIISOCYANAAT (PREPOLYMEER)  | 101-68-8  | > 100  | LC <sub>50</sub> IHL-RAT 1h  | 980 mg/m <sup>3</sup> LC <sub>50</sub> <1960 mg/m <sup>3</sup>  | 10000  |
-| EPICHLOORHYDRINE  | 106-89-8  | 118  | LC <sub>50</sub> IHL-RAT  | 500 ppm 4h  | GEEN  |
-| EPOXYPROPAAN/1.2-  | 75-56-9  | 34  | 0 RAT bij 1h  | conc. 19,4 g/m <sup>3</sup>  | GEEN  |
-| ETHER  | 60-29-7  | 35  | LC <sub>50</sub> IHL-RAT  | 73000 ppm 2,5h  | GEEN  |
-| ETHYLACETAAT  | 141-78-6  | 77  | LC <sub>50</sub> IHL-RAT  | 1600 ppm 8h  | GEEN  |
-| ETHYLACRYLAAT  | 140-88-5  | 99  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4h  | GEEN  |
-| ETHYL BENZEEN  | 100-41-4  | 136  | LC <sub>LO</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| ETHYLCHLOORFORMIAAT  | 541-41-3  | 93  | LC <sub>50</sub> IHL-RAT  | 145 ppm 1h  | 3000  |
-| ETHYLEENDIAMINE  | 107-15-3  | 118  | LC <sub>50</sub> IHL-RAT  | 4000 ppm 8h  | GEEN  |
-| ETHYLEENIMINE (gepolymeriseerd !!)  | 151-56-4  | 55  | 0 RAT bij 1h  | max. C. 91 mg/m <sup>3</sup>  | GEEN  |
-| ETHYLEENOXYDE  | 75-21-8  | 11  | LC <sub>50</sub> IHL-RAT  | 10,95 g/m <sup>3</sup> 1h  | 3000  |
-| ETHYL FORMIAAT  | 109-94-4  | 54  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| FLUOR  | 7782-41-4  | –188  | LC <sub>50</sub> IHL-RAT  | 185 ppm 1h  | 30  |
-| FORMALDEHYDE  | 50-00-0  | –21  | LC <sub>50</sub> IHL-RAT 1h  | 600<LC <sub>50</sub> <1000  | 300  |
-| FOSFINE  | 7803-51-2  | –88  | LC <sub>50</sub> IHL-RAT  | 361 mg/m <sup>3</sup> 1h  | 30  |
-| FOSFORZUUR  | 7664-38-2  | >100  | 0 RAT bij 1h  | max. C.: 0,84 g/m <sup>3</sup>  | GEEN  |
-| FOSGEEN  | 75-44-5  | 8  | LC <sub>50</sub> IHL-RAT  | 38 mg/m <sup>3</sup> 1h  | 3  |
-| FURAN  | 110-00-9  | 31  | LC <sub>50</sub> IHL-RAT  | 120 mg/m <sup>3</sup> 1h  | 100  |
-| ISOFORON  | 78-59-1  | 215  | LC <sub>LO</sub> IHL-RAT  | 1840 ppm 4h  | GEEN  |
-| KOOLMONOXIDE  | 630-08-0  | –191  | LC <sub>50</sub> IHL-RAT  | 0,60 vol% 1h  | 3000  |
-| MDI (PREPOLYMEER)  | 101-68-8  | > 100  | LC <sub>50</sub> IHL-RAT 1h  | 980 mg/m <sup>3</sup> LC <sub>50</sub> <1960 mg/m <sup>3</sup>  | 10000  |
-| MESITYLOXIDE  | 141-79-7  | 130  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4h  | GEEN  |
-| METHANOL  | 67-56-1  | 65  | LC <sub>50</sub> IHL-RAT  | 64000 ppm 4h  | GEEN  |
-| METHYLACRYLAAT  | 96-33-3  | 80  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4h  | GEEN  |
-| METHYLAMINE  | 74-89-5  | –6,3  | 20% RAT bij 1h  | conc. 19,9 g/m <sup>3</sup>  | GEEN  |
-| METHYLBROMIDE  | 74-83-9  | 4  | LC <sub>50</sub> IHL-RAT  | 7,3 g/m <sup>3</sup> 1h  | 3000  |
-| METHYLCHLOORFORMIAAT  | 79-22-1  | 71  | LC <sub>50</sub> IHL-RAT  | 88 ppm 1h  | 300  |
-| METHYLETHYLKETON  | 78-93-3  | 80  | LC <sub>LO</sub> IHL-RAT  | 2000 ppm 4h  | GEEN  |
-| METHYLISOCYANAAT  | 624-83-9  | n.v.t.  | LC <sub>50</sub> IHL-RAT  | 5 ppm/4h  | 1  |
-| METHYLMERCAPTAAN  | 74-93-1  | 6  | LC <sub>50</sub> IHL-RAT  | 4,72 g/m <sup>3</sup> 1h  | 3000  |
-| MEVINFOS  | 7786-34-7  | >100  | LC <sub>50</sub> IHL-RAT  | 14 ppm 1h  | 1000  |
-| MONOCROTOFOS  | 6923-22-4  | 125  | LC <sub>50</sub> IHL-RAT  | 162 mg/m <sup>3</sup> 1h  | 3000  |
-| MORFOLINE  | 110-91-8  | 128  | LC <sub>50</sub> IHL-RAT  | 8000 ppm 8h  | GEEN  |
-| NATRIUMSELENIET  | 10102-18-8  | vast  <sup> 1)   Fysische omstandigheid bij 25 °C.    </sup> | LC <sub>50</sub> IHL-RAT  | 0,26 g/m <sup>3</sup> 1h  | 3000  |
-| NONAAN  | 111-84-2  | 151  | LC <sub>50</sub> IHL-RAT  | 3200 ppm 4h  | GEEN  |
-| OXAMYL  | 23135-22-0  | >100  | LC <sub>50</sub> IHL-RAT  | 170 mg/m <sup>3</sup> 1h  | 3000  |
-| OZON  | 10028-15-6  | n.v.t.  | LC <sub>50</sub> IHL-RAT  | 4,8 ppm 4h  | 1  |
-| PARALDEHYDE  | 123-63-7  | 124  | LC <sub>LO</sub> IHL-RAT  | 2000 ppm 4h  | GEEN  |
-| PARATHION  | 56-38-2  | 375  | LC <sub>50</sub> IHL-RAT  | 210 mg/m <sup>3</sup> 1h  | 1000  |
-| PARATHION-METHYL  | 298-00-0  | vast  <sup> 1)   Fysische omstandigheid bij 25 °C.    </sup> | LC <sub>50</sub> IHL-RAT  | 0,2 - 0,26 g/m <sup>3</sup> 1h  | 3000  |
-| PENTABORAAN  | 19624-22-7  | n.v.t.  | LC <sub>50</sub> IHL-RAT  | 7 ppm 4h  | 1  |
-| PHORAAT  | 298-02-0  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 1 mg/kg  | 1  |
-| PICOLINE/2-  | 109-06-8  | 129  | LC <sub>LO</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| POLY CHLOORDIBENZOFURANEN 2,3,4,7,8 PENTA  | 57117-31-4  | --- | LD <sub>50</sub> ORL RAT  | 916 μg/kg  | 1  |
-| POLY CHLOORDIBENZODIOXINEN (EQ.TCDD) 2,3,7,8 TETRA  | 1746-01-6  | --- | LD <sub>50</sub> ORL RAT  | 20 μg/kg  | 1  |
-| PROMURIT  | 5836-73-7  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 0,28 mg/kg  | 1  |
-| PROPAANTHIOL/N  | 107-03-9  | 67  | LC <sub>50</sub> IHL-RAT  | 7300 ppm 4h  | GEEN  |
-| PROPANAL  | 123-38-6  | 49  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| PROPANOL  | 71-23-8  | 97  | LC <sub>LO</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| PROPYLACETAAT/ISO  | 108-21-4  | 89  | LC <sub>LO</sub> IHL-RAT  | 32000 ppm 4h  | GEEN  |
-| PROPYLACETAAT/N  | 109-60-4  | 102  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| PROPYLALCOHOL/ISO  | 67-63-0  | 82  | LC <sub>50</sub> IHL-RAT  | 16000 ppm 4h  | GEEN  |
-| PROPYLEENIMINE  | 75-55-8  | --- | 10% rat bij 1h  | conc. 2,4 g/m <sup>3</sup>  | GEEN  |
-| PROPYLEENOXIDE  | 75-56-9  | 34  | 0 rat bij 1h  | conc. 19,4 g/m <sup>3</sup>  | GEEN  |
-| PYRIDINE  | 110-86-1  | 115  | LC <sub>50</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| SELEENWATERSTOF  | 7783-07-5  | –41  | LC <sub>50</sub> IHL-RAT  | 0,18 g/m <sup>3</sup> 1h  | 30  |
-| SILICIUMTETRACHLORIDE  | 10026-04-7  | 58  | LC <sub>50</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| STIKSTOFDIOXYDE  | 10102-44-0  | –21  | LC <sub>50</sub> IHL-RAT  | 220 mg/m <sup>3</sup> 1h  | 30  |
-| STIKSTOFMONOXIDE  | 10102-43-9  | –152  | LC <sub>50</sub> IHL-RAT  | 924 mg/m <sup>3</sup> 1h  | 300  |
-| STIKSTOFTRIFLUORIDE  | 7783-54-2  | –129  | LC <sub>50</sub> IHL-RAT  | 6700 ppm 1h  | GEEN  |
-| STYREEN  | 100-42-5  | 146  | LC <sub>LO</sub> IHL-RAT  | 5000 ppm 8h  | GEEN  |
-| SULFURYLFLUORIDE  | 2699-79-8  | –55  | LC <sub>50</sub> IHL-RAT  | 3020 ppm 1h  | 3000  |
-| TCDD  | 1746-01-6  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 22,5 μg/kg  | 1  |
-| TEPP  | 107-49-3  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 0,5 mg/kg  | 1  |
-| TETRACHLOORKOOLSTOF  | 56-23-5  | 77  | LC <sub>LO</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| TETRAETHYLLOOD  | 78-00-2  | >100  | LC <sub>LO</sub> IHL-RAT  | 850 mg/m <sup>3</sup> 1h  | 10000  |
-| TETRAHYDROFURAAN  | 109-99-9  | 66  | LC <sub>50</sub> IHL-RAT  | 24000 ppm 2h  | GEEN  |
-| TOLUEEN  | 108-88-3  | 111  | LC <sub>LO</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| TOLUEENDIISOCYANAAT (TDI)  | 584-84-9  | > 100  | LC <sub>50</sub> IHL-RAT  | 480 mg/m <sup>3</sup> 1h  | 1000  |
-| TRICHLOORETHEEN  | 79-01-6  | 87  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| TRICHLOORMETHAAN  | 67-66-3  | 61  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| TRICHLOORPROPAAN/1.1.1-  | 7789-89-1  | 107  | LC <sub>LO</sub> IHL-RAT  | 8000 ppm 4h  | GEEN  |
-| TRICHLOORPROPAAN/1.1.2-  | 598-77-6  | 140  | LC <sub>50</sub> IHL-RAT  | 2000 ppm 4h  | GEEN  |
-| TRICHLOORPROPAAN/1.2.3-  | 96-18-4  | 157  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4h  | GEEN  |
-| TRICHLOORPROPEEN/1.2.3-  | 96-19-5  | 142  | LC <sub>LO</sub> IHL-RAT  | 500 ppm 4h  | GEEN  |
-| TRIETHYLAMINE  | 121-44-8  | 90  | LC <sub>LO</sub> IHL-RAT  | 1000 ppm 4h  | GEEN  |
-| TRIETHYLEENMELAMINE  | 51-18-3  | n.v.t.  | LD <sub>50</sub> ORL-RAT  | 1 mg/kg  | 1  |
-| TRIMETHYLBENZEEN/1.3.5-  | 108-67-8  | 165  | LC <sub>50</sub> IHL-RAT  | 24 g/m <sup>3</sup> 4h  | GEEN  |
-| TRIMETHYLORTH.FORMIAAT  | 149-73-5  | >100  | LC <sub>LO</sub> IHL-RAT  | 5000 ppm 4h  | GEEN  |
-| VINYLACETAAT  | 108-05-4  | 72  | LC <sub>LO</sub> IHL-RAT  | 4000 ppm 4h  | GEEN  |
-| WATERSTOFCYANIDE  | 74-90-8  | 26  | LC <sub>50</sub> IHL-RAT  | 163 mg/m <sup>3</sup>  | 100  |
-| WATERS-TOFFLUORIDE  | 7664-39-3  | 20  | LC <sub>50</sub> IHL-RAT  | 1276 ppm 1h  | 300  |
-| WATERSTOFPEROXYDE  | 7724-84-1  | >100  | LC <sub>50</sub> IHL-RAT  | 2000 mg/m <sup>3</sup> 4h  | GEEN  |
-| XYLEEN  | 1330-20-7  | 138  | LC <sub>50</sub> IHL-RAT  | 5000 ppm 6h  | GEEN  |
-| ZOUTZUUR(GAS)  | 7647-01-0  | –85  | LC <sub>50</sub> IHL-RAT  | 3124 ppm 1h  | 3000  |
-| ZUURSTOFDICHLORIDE  | 7783-41-7  | –145  | LC <sub>50</sub> IHL-RAT  | 136 ppm 1h  | 30  |
-| ZWAVELDIOXYDE  | 7446-09-5  | –10  | LC <sub>50</sub> IHL-RAT  | 5,14 g/m <sup>3</sup> 1h  | 3000  |
-| ZWAVELKOOLSTOF  | 75-15-0  | 46  | 0 rat bij 1h  | max. C: 20,5 g/m <sup>3</sup>  | GEEN  |
-| ZWAVELWATERSTOF  | 7783-06-4  | –60  | LC <sub>50</sub> IHL-RAT  | 898 mg/m <sup>3</sup> 1h  | 300  |
-| ZWAVELZUUR  | 7664-93-9  | 280  | LC <sub>50</sub> IHL-RAT  | 3,6 g/m <sup>3</sup> 1h  | GEEN  |
-
-### Bijlage  5a  behorend bij [beleidsregel 2-2 Arbobesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  
-
-*Niet-limitatieve lijst van explosieve stoffen*  
-
-| --- | --- |
-|---|---|
-|  *Stofnaam*   |  *Grenswaarde (kg)*   |
-| 1,1-Di-(tert-amylperoxy)cyclohexaan (≤ 82%) [Type C]  | 5000  |
-| 1,1-Di-(tert-butylperoxy)-3,3,5-trimethylcyclohexaan [Type B]  | 3000  |
-| 1,1-Di-(tert-butylperoxy)-3,3,5-trimethylcyclohexaan [Type C]  | 5000  |
-| 1,1-Di-(tert-butylperoxy)ftalaat  | 3000  |
-| 1,2-Dimethyl-5-nitroimidazol  | 2300  |
-| 1,4,3,6-Dianhydrosorbitol-2,5-dinitraat  | 1000  |
-| 1,4,3,6-Dianhydrosorbitol-2-nitraat  | 2500  |
-| 1,4,3,6-Dianhydrosorbitol-5-nitraat  | 2000  |
-| 1-Hydroxybenzotriazol  | 5000  |
-| 2-(4,4-Dimethyl-2,5-dioxooxazolidin-1-yl)-2’-chloor-5’-(2-(2,4-di-tert-pentylfenoxy) butyramide)-4,4-dimethyl-3-oxovaleranilide  | 3000  |
-| 2,2’,4,4’-Tetranitrodifenylamine  | 1300  |
-| 2,2’-Dimethyl-2,2’-azodipropionitriel  | 3000  |
-| 2,2-Di-(tert-butylperoxy)butaan (< 52%) [Type C]  | 5000  |
-| 2,2-Dibroom-2-nitroethanol  | 2000  |
-| 2,2-Dihydroperoxypropaan (≤ 27%) [Type B]  | 3000  |
-| 2,4- of 2,6-Dinitrotolueen  | 1300  |
-| 2,4,6-Trinitrofenylmethylnitramine  | 800  |
-| 2,4-Dinitroaniline  | 1300  |
-| 2,4-Dinitrofenylhydrazine  | 1000  |
-| 2,5-Dimethyl-2,5-di-(2-ethylhexanoylperoxy)hexaan (≤ 100%) [Type C]  | 5000  |
-| 2,6-Dinitroaniline  | 1300  |
-| 2-Amino-4,6-dinitrofenol (watergehalte < 20%)  | 1500  |
-| 2-Amino-4,6-dinitrofenol (watergehalte ≥ 20%)  | 1900  |
-| 2-Broom-2-nitropropaan-1,3-diol  | 2000  |
-| 2-Broom-2-nitropropaan-1,3-diol  | 5000  |
-| 2-Diazo-1-naftol-4-sulfochloride (Type B)  | 3000  |
-| 2-Diazo-1-naftol-5-sulfochloride  | 3000  |
-| 2-Nitropropaan  <sup> 3   Explosieve kracht is zeer laag zelfs indien opgesloten (ongeveer 1% TNT).    </sup> | 5000  |
-| 3,3,6,6,9,9-Hexamethyl-1,2,4,5-tetraoxacyclononaan (>52-100%) [Type B]  | 3000  |
-| 3,4-Dihydro-3-hydroxy-4-oxo-1,2,3-benzotriazine  | 3000  |
-| 3,5-Dinitro-2-chloorbenzoëzuur  | 1500  |
-| 3-Azidosulfonylbenzoëzuur  | 3000  |
-| 3-Methyl-4-(pyrolidine-1-yl)benzeendiazoniumtetrafluorboraat (Type C)  | 5000  |
-| 3-Nitrobenzeen-sulfonylhydrazide  | 1700  |
-| 4-Chloor-2-methylbenzeendiazoniumzinkchloride  | 5000  |
-| 4-Dimethylaminobenzeendiazonium-3-carboxy-4-hydroxybenzeensulfonaat  | 3000  |
-| 4-Dimethylaminobenzeendiazoniumzinkchloride  | 5000  |
-| 4-Morpholinobenzeendiazoniumzinkchloride  | 5000  |
-| 5-(Methylpyridyl-2-methyl)-4-hydroxy-2-nitroaminopyrimidine  | 5000  |
-| 5-Mercaptotetrazol-1-azijnzuur  | 1000  |
-| 5-Nitrobenzotriazol  | 1000  |
-| 5-Tert-butyl-2,4,6-trinitro-m-xyleen  | 2000  |
-| Ammoniumdichromaat  | 3000  |
-| Ammoniumnitraat (brandbaar materiaal>0,2%)  | 2000  |
-| Ammoniumnitraat (zuiverheid>90%, brandbaar materiaal ≤0,2%)  | 3000  |
-| Ammoniumperchloraat (met deeltjes <45 micron)  | 2000  |
-| Ammoniumperchloraat (met deeltjes ≥45 micron)  | 3000  |
-| Ammoniumpicraat (watergehalte <10%)  | 1000  |
-| Ammoniumpicraat (watergehalte ≥10%):  | 1100  |
-| Autoreactieve stof Type A in Afdeling 4.1 van de VN transportclassificatie  | 1000  |
-| Autoreactieve stof Type B in Afdeling 4.1 van de VN transportclassificatie  | 3000  |
-| Autoreactieve stof Type C in Afdeling 4.1 van de VN transportclassificatie  | 5000  |
-| Azidoacetonitriel  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 120  |
-| Azodicarbonamide-formulering (Type B)  | 3000  |
-| Azodicarbonamide-formulering (Type C)  | 5000  |
-| Bariumazide (watergehalte ≥50%)  | 4000  |
-| Benzeen-1,3-disulfohydrazide  | 3000  |
-| Butaandizuurperoxide (> 72-100%) [Type B]  | 3000  |
-| Calciumiodoxybenzoaat  | 3000  |
-| Celluloid  | 1500  |
-| Cellulosenitraat  | 1000  |
-| Chloordinitrobenzeen  | 1000  |
-| Cyclotetramethyleentetranitramine (watergehalte < 15%, of flegmatiseermiddel < 10%)  | 700  |
-| Cyclotetramethyleentetranitramine (watergehalte ≥ 15%, of flegmatiseermiddel ≥ 10%)  | 800  |
-| Cyclotrimethyleentrinitramine (Cycloniet): watergehalte < 15%, of flegmatiseermiddel. < 10%  | 700  |
-| Cyclotrimethyleentrinitramine (watergehalte ≥ 15%, of flegmatiseermiddel ≥ 10%)  | 800  |
-| Di-(2-ethylhexyl)peroxydicarbonaat (> 77-100%) [Type C]  | 5000  |
-| Di-(2-fenoxyethyl)peroxydicarbonaat (> 85-100%) [Type B]  | 3000  |
-| Di-(2-methylbenzoyl)peroxide (≤ 87%, water-nat) [Type B]  | 3000  |
-| Di-(4-tert-butylcyclohexyl)peroxydicarbonaat (≤ 100%) [Type C]  | 5000  |
-| Di-2,4-dichloorbenzoylperoxide (≤ 77%, water-nat) [Type B]  | 3000  |
-| Di-4-chloorbenzoylperoxide (≤ 77%, water-nat) [Type B]  | 3000  |
-| Diazodinitrofenol (water- of water-/alcoholgehalte ≥ 40%  | 1500  |
-| Diazodinitrofenol  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 90  |
-| Dichlooracetyleen  | 3000  |
-| Didecanoylperoxide (≤ 100%) [Type C]  | 5000  |
-| Diethyleenglycoldinitraat (≥ 25% flegmatiseermiddel)  | 900  |
-| Diethyleenglycoldinitraat  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 70  |
-| Diglyceroltetranitraat  | 700  |
-| Diisobutyrylperoxide (> 32-52%) [Type B]  | 3000  |
-| Dilooizuurperoxide  | 4000  |
-| Dinitrobenzeen  | 1000  |
-| Dinitrofenol (watergehalte < 15%)  | 1300  |
-| Dinitrofenol (watergehalte ≥ 15%)  | 1500  |
-| Dinitrofenolzouten (watergehalte < 15%)  | 1300  |
-| Dinitrofenolzouten (watergehalte ≥15%)  | 1500  |
-| Dinitroglycoluril (DINGU)  | 1000  |
-| Dinitro-o-cresol  | 1500  |
-| Dinitroresorcinol (watergehalte < 15%)  | 1300  |
-| Dinitroresorcinol (watergehalte ≥15%)  | 1500  |
-| Dinitrosobenzeen  | 2000  |
-| Dioxyethylnitraminedinitraat  | 700  |
-| Dipicrylsulfide (watergehalte < 10%)  | 900  |
-| Dipicrylsulfide (watergehalte ≥ 10%)  | 1000  |
-| Erythritoltetranitraat  | 700  |
-| Ethanolaminedinitraat  | 800  |
-| Etheendiaminedinitraat  | 800  |
-| Etheendinitramine  | 800  |
-| Etheenglycoldinitraat  | 600  |
-| Ethyl-3,3-bis(tert-pentylperoxy)butyraat  | 3000  |
-| Ethylnitraat  | 800  |
-| Ethylnitriet  | 1000  |
-| Flitspoeder  | 1000  |
-| Glyceroldinitraat  | 700  |
-| Glyceroltrinitraat (1 tot 10% in alcohol)  <sup> 2   Oorspronkelijke drempelwaarde komt overeen met die voor puur diglyceroltetranitraat, een explosief dat ongeveer even krachtig is (150-170% TNT).    </sup> | 5000  |
-| Glyceroltrinitraat (met ≥ 40% niet-vluchtig flegmatiseermiddel)  | 1000  |
-| Glyceroltrinitraat  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 60  |
-| Guanidinenitraat  | 1300  |
-| Guanylnitrosaminoguanylideenhydrazine (watergehalte ≥ 30%)  | 1400  |
-| Guanylnitrosaminoguanylideenhydrazine1  | 100  |
-| Hexamethyleentetraminedinitraat  | 1400  |
-| Hexamethyleentriperoxidediamine  | 900  |
-| Hexanitrodifenylamine  | 900  |
-| Hexanitrodipentaerythriet  | 800  |
-| Hexanitroethaan  | 1000  |
-| Hexanitrostilbeen  | 900  |
-| Hexatonal  | 600  |
-| Hexoliet (watergehalte < 15%)  | 800  |
-| Hexoliet (watergehalte ≥ 15%)  | 1000  |
-| Hydrazinenitraat  | 700  |
-| Hydrazineperchloraat  | 800  |
-| Hydrazinetrinitromethaan  | 1000  |
-| Iodoxybenzeen  | 3000  |
-| Kwikfulminaat (water- of water-/alcoholgehalte ≥ 20%)  | 2500  |
-| Kwikfulminaat  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 200  |
-| Kwikoxycyanide  | 2000  |
-| Lithiumazide  | 2000  |
-| Loodazide (water- of water-/alcoholgehalte ≥ 20%)  | 2500  |
-| Loodazide  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 200  |
-| Loodstyfnaat (water- of water-/alcoholgehalte ≥ 20%)  | 3000  |
-| Loodstyfnaat  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 250  |
-| Mannitolhexanitraat (water- of water-/alcoholgehalte ≥40%)  | 1000  |
-| Mannitolhexanitraat  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 60  |
-| Methyl-3-(2-quinoxalinylmethyleen)carbazaat-N1,N4-dioxide  | 5000  |
-| Methylaminenitraat  | 900  |
-| Methylethylketonperoxide(s) (≤ 52%) [Type B]  | 3000  |
-| Methylnitraat  | 600  |
-| Methyltrimethylolmethaantrinitraat  | 700  |
-| N,N’-Dinitroso-N,N’-Dimethyloxamide  | 1200  |
-| N,N’-Dinitroso-N,N’-dimethyltereftalimide (Type C)  | 5000  |
-| N,N’-Dinitrosopentamethyleentetramine (Type C)  | 5000  |
-| Natriumdinitro-o-cresolaat (watergehalte < 15%)  | 1500  |
-| Natriumdinitro-o-cresolaat (watergehalte ≥ 15%)  | 1800  |
-| Natriumpicramaat ( watergehalte < 20%)  | 1500  |
-| Natriumpicramaat ( watergehalte ≥ 20%)  | 1900  |
-| N-Benzylpyridiniumperchloraat  | 1700  |
-| n-Butyl-4,4-di-(tert-butylperoxy)valeraat (> 52-100%) [Type C]  | 5000  |
-| Nitroethaan  | 1000  |
-| Nitroethaanpropaandioldinitraat  | 600  |
-| Nitroguanidine (watergehalte < 20%)  | 1000  |
-| Nitroguanidine (watergehalte ≥ 20%)  | 1300  |
-| Nitroisobutylglyceroltrinitraat  | 600  |
-| Nitromethaan  | 800  |
-| Nitropolystyreen (13,6% stikstof)  | 5000  |
-| Nitrosomethylureum  | 2000  |
-| Nitrotriazolon  | 1000  |
-| Nitroureum  <sup> 4   Explosieve kracht is ongeveer 100% TNT.    </sup> | 1000  |
-| Octoliet (77% Octogeen, 23% TNT; watergehalte < 15%)  | 800  |
-| Octoliet (77% Octogeen, 23% TNT; watergehalte ≥ 15%)  | 1000  |
-| Octonal  | 800  |
-| Organisch peroxide Type A van Afdeling 5.2 van de VN transportclassificatie  | 1000  |
-| Organisch peroxide Type B van Afdeling 5.2 van de VN transportclassificatie  | 3000  |
-| Organisch peroxide Type C van Afdeling 5.2 van de VN transportclassificatie  | 5000  |
-| Pentaeryrthriettetranitraat (PETN) gedesensibiliseerd met = 7% was  | 700  |
-| Pentaeryrthriettetranitraat (PETN) watergehalte ≥ 25% of gedesensibiliseerd met ≥ 15% flegmatiseermiddel  | 800  |
-| Pentaeryrthriettetranitraat (PETN)  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 600  |
-| Pentoliet (mengsel TNT/PETN) (watergehalte < 15%)  | 800  |
-| Pentoliet (mengsel TNT/PETN) (watergehalte ≥15%)  | 1000  |
-| Professioneel vuurwerk: UN nr 0333, classificatie 1.1G  | 1000 (NEQ)  <sup> 8   NEQ netto hoeveelheid explosieve stof    </sup> |
-| Professioneel vuurwerk: overige soorten  | 2000 (NEQ)  <sup> 8   NEQ netto hoeveelheid explosieve stof    </sup> |
-| Propylnitraat  | 1300  |
-| Rookzwak buskruit  | 800  |
-| tert-Amylperoxy-3,5,5-trimethylhexanoaat (< 100%) [Type B]  | 3000  |
-| tert-Amylperoxybenzoaat (≤ 100%) [Type C]  | 5000  |
-| tert-Amylperoxypivalaat (≤ 77%) [Type C]  | 5000  |
-| tert-Butylhydroperoxide (> 79-90%) [Type C]  | 5000  |
-| tert-Butylmonoperoxyftalaat (≤ 100%) [Type B]  | 3000  |
-| tert-Butylmonoperoxymaleaat [Type B]  | 3000  |
-| tert-Butylmonoperoxymaleaat [Type C]  | 5000  |
-| tert-Butylperoxy-2-ethylhexanoaat (> 52-100%) [Type C]  | 5000  |
-| tert-Butylperoxy-2-methylbenzoaat (≤ 100%) [Type C]  | 5000  |
-| tert-Butylperoxyacetaat [Type B]  | 3000  |
-| tert-Butylperoxyacetaat [Type C]  | 5000  |
-| tert-Butylperoxybenzoaat (> 77-100%) [Type C]  | 5000  |
-| tert-Butylperoxydiethylacetaat (≤ 100%) [Type C]  | 5000  |
-| tert-Butylperoxyisopropylcarbonaat (≤ 77%) [Type C]  | 5000  |
-| tert-Butylperoxypivalaat (> 67-77%) [Type C]  | 5000  |
-| Tetramethylcyclopentanontetranitraat  | 800  |
-| Tetraminepalladium(II)nitraat (Type C)  | 5000  |
-| Tetranitroaniline  | 700  |
-| Tetranitrocarbazol  | 1300  |
-| Tetranitromethaan  <sup> 5   Explosieve kracht is ongeveer 10% TNT. Drempel gesteld overeenkomstig ammoniumnitraat met minder dan 0,2% ontvlambaar materiaal.    </sup> | 3000  |
-| Tetrazeen (water- of water-/alcoholgehalte ≥ 30%)  | 2000  |
-| Tetrazeen  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 170  |
-| Tetrazol-1-azijnzuur  | 1000  |
-| Triaminoguanidinenitraat  | 900  |
-| Triaminotrinitrobenzeen  | 1500  |
-| Triethylaminonitraat  | 1000  |
-| Triethyleenglycoldinitraat  <sup> 6   Explosieve kracht is ongeveer 110% TNT.    </sup> | 900  |
-| Trilithium-4-hydroxy-3-(4-(2-methoxy-4-(3-sulfonaatfenylazo)fenylazo)-3-methyl-phenylazo)-6-(3-sulfonaataniline)nafthaleen-2-sulfonaat  | 3000  |
-| Trinatrium-(2-((3-(6-(2-chloor-5-sulfonaat)aniline-4-(3-carboxypyridine)-1,3,5-triazine-2-ylamino)-2-oxide-5-sulfonaatfenylazo)fenylmethylazo)-4-sulfonaatbenzoaat)koper-(3-))hydroxide  | 3000  |
-| Trinitroaniline  | 1000  |
-| Trinitroanisol  | 900  |
-| Trinitrobenzeen (watergehalte < 30%)  | 900  |
-| Trinitrobenzeen (watergehalte ≥ 30%)  | 1300  |
-| Trinitrobenzeensulfonzuur  | 1000  |
-| TrinitrobenzoÎzuur (watergehalte < 30%)  | 1000  |
-| TrinitrobenzoÎzuur (watergehalte ≥ 30%)  | 1300  |
-| Trinitrochloorbenzeen  | 1000  |
-| Trinitrofenetol  | 1300  |
-| Trinitrofenol (watergehalte < 30%)  | 900  |
-| Trinitrofenol (watergehalte ≥ 30%)  | 1300  |
-| Trinitrofenoxyethylnitraat  | 800  |
-| Trinitrofenylethylnitramine  | 900  |
-| Trinitrofluorenon  | 1000  |
-| Trinitro-m-cresol  | 1000  |
-| Trinitronaftaleen  | 1300  |
-| Trinitroresorcinol (water- of water-/alcoholgehalte < 20%)  | 1000  |
-| Trinitroresorcinol (water- of water-/alcoholgehalte ≥ 20%)  | 1300  |
-| Trinitrotolueen (watergehalte < 30%)  | 1000  |
-| Trinitrotolueen (watergehalte ≥30%)  | 1400  |
-| Trinitroxyleen  | 1100  |
-| Tritonal  | 800  |
-| Ureumnitraat (watergehalte < 20%)  <sup> 7   Explosieve kracht van de zuivere stof is ongeveer 100% TNT.    </sup> | 1000  |
-| Ureumnitraat (watergehalte ≥ 20%)  | 1300  |
-| Ureumwaterstofperoxide  | 3000  |
-| Zetmeelnitraat (watergehalte < 20%)  | 1000  |
-| Zetmeelnitraat (watergehalte ≥ 20%)  | 1300  |
-| Zilverazide  <sup> 1   Gevoelig of zeer gevoelig voor mechanische prikkels.    </sup> | 200  |
-| Zilverpicraat (watergehalte ≥ 30%)  | 1300  |
-| Zirconiumpicramaat (watergehalte < 20%)  | 1500  |
-| Zirconiumpicramaat (watergehalte ≥ 20%)  | 1900  |
-| Zouten van picrinezuur  | 900  |
-| Zwart buskruit  | 2000  |
-
-NB In de berekening van bovenstaande grenswaarden is een extra correctiefactor van 0,1 toegepast voor stoffen die zeer gevoelig zijn voor mechanische prikkels of die extra gevaarlijk zijn door hun giftigheid. 
-
-### Bijlage  7  behorend bij beleidsregel 4.2-1  Arbobesluit  
-
-####Additieregel bij blootstelling aan mengsel van stoffen.
-
-De grenswaarde voor een stof geldt in beginsel slechts voor blootstelling aan de zuivere stoffen is niet zonder meer van toepassing als de stof een bestanddeel is van een mengsel van stoffen waaraan blootstelling plaatsvindt. Het kan namelijk voorkomen dat de schadelijke werking van een dergelijk mengset de som is van die van de afzonderlijke stoffen. Hiervan is bijvoorbeeld sprake bij een mensgsel van verschillende organische oplosmiddelen. Het is ook mogelijk dat bij een gecombineerde blootstelling de schadelijke effecten van de afzonderlijke stoffen aanzienlijk worden versterkt c.q. verminderd. Indien afzonderlijke componenten in een mengsel dezelfde toxische werking op eenzelfde orgaansysteem uitoefenen, wordt toetsing van de blootstelling aan de voor elk van die stoffen vastgestelde grenswaarden als volgt uitgevoerd: de som van alle afzonderlijke blootstellingsconcentraties, als fractie van de afzonderlijke grenswaarden, is kleiner zijn dan één. Met andere woorden:  
-
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| C1  | --- | C2  | --- | C3  | --- | Cn  | --- | --- |
-| ---------  | +  | ---------  | +  | ---------  | +  | ---------  | <  | 1  |
-| gr.w.1  | --- | gr.w.2  | --- | gr.w.3  | --- | gr.w.n  | --- | --- |
 

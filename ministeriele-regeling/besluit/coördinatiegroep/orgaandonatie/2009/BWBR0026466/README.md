@@ -8,9 +8,9 @@ De Minister van Volksgezondheid, Welzijn en Sport,  Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
+a.  *de minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *de Coördinatiegroep:* de Coördinatiegroep, genoemd in artikel 2.    
+b.  *de Coördinatiegroep:* de Coördinatiegroep, genoemd in artikel 2.   
 
 ### Artikel  2  
 
@@ -37,15 +37,15 @@ e. volgen van de voortgang van activiteiten voortkomend uit aanbevelingen en bev
 f. verzamelen van relevante informatie om de voortgang van afgesproken activiteiten te kunnen volgen. Relevante informatie wordt onder andere verkregen van betrokken partijen door terugkoppeling;  
 
 g. verzorgen van rapportages over de voortgang van activiteiten respectievelijk verzorgen van eindrapportages.     
-4.  De Coördinatiegroep kan aanbevelingen uitbrengen.   
+4.  De Coördinatiegroep kan aanbevelingen uitbrengen.  
 
 ### Artikel  3  
 
-Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht geldt, is verplicht tot geheimhouding. Tenzij enig wettelijk voorschrift hem tot bekendmaking verplicht of bekendmaking uit zijn taak bij de uitvoering van deze regeling voortvloeit.  
+Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht geldt, is verplicht tot geheimhouding. Tenzij enig wettelijk voorschrift hem tot bekendmaking verplicht of bekendmaking uit zijn taak bij de uitvoering van deze regeling voortvloeit. 
 
 ### Artikel  4  
 
-De Coördinatiegroep kan commissies instellen met een bij een specifiek aandachtsgebied behorende taakopdracht.  
+De Coördinatiegroep kan commissies instellen met een bij een specifiek aandachtsgebied behorende taakopdracht. 
 
 ### Artikel  5  
 
@@ -71,25 +71,21 @@ i. Nederlandse Vereniging van ziekenhuizen (NVZ);
 
 j. Nierpatiëntenvereniging Nederland;  
 
-k. NIGZ - Donorvoorlichting;  
+k. Netherlands Association of Tissue Banks (NATB);  
 
-l. Netherlands Association of Tissue Banks (NATB);  
+l. Vereniging van Nierdonoren;  
 
-m. Stichting Transplantatie Nu! (STN);  
+m. Zorgverzekeraars Nederland (ZN);   Als leden vertegenwoordigers van de volgende organisaties; 
 
-n. Vereniging van Nierdonoren;  
+n. Ministerie van Volksgezondheid, Welzijn en Sport (VWS);  
 
-o. Zorgverzekeraars Nederland (ZN);   Als leden vertegenwoordigers van de volgende organisaties; 
-
-p. Ministerie van Volksgezondheid, Welzijn en Sport (VWS);  
-
-r. Ministerie van Volksgezondheid, Welzijn en Sport (VWS); Donorregister.     
+o. Ministerie van Volksgezondheid, Welzijn en Sport (VWS); Donorregister.     
 2.  Het secretariaat wordt verzorgd door het ministerie van Volksgezondheid, Welzijn en Sport (VWS).   
-3.  De secretaris van de Coördinatiegroep houdt het overzicht bij wie als vertegenwoordiger en wie als vervanger is aangewezen door de in het eerste lid genoemde organisaties.   
+3.  De secretaris van de Coördinatiegroep houdt het overzicht bij wie als vertegenwoordiger en wie als vervanger is aangewezen door de in het eerste lid genoemde organisaties.  
 
 ### Artikel  6  
 
-Het beheer van de bescheiden betreffende de werkzaamheden van de Coördinatiegroep geschiedt op overeenkomstige wijze als bij het Ministerie van Volksgezondheid, Welzijn en Sport. De bescheiden worden na beëindiging van de werkzaamheden van de Coördinatiegroep gearchiveerd in het archief van dat ministerie.  
+Het beheer van de bescheiden betreffende de werkzaamheden van de Coördinatiegroep geschiedt op overeenkomstige wijze als bij het Ministerie van Volksgezondheid, Welzijn en Sport. De bescheiden worden na beëindiging van de werkzaamheden van de Coördinatiegroep gearchiveerd in het archief van dat ministerie. 
 
 ### Artikel  7  
 
@@ -97,20 +93,20 @@ Op basis van de [Wet vergoedingen adviescolleges en commissies](../../../../../.
 
 1. Voor de niet-ambtelijke leden van de Coördinatiegroep is dat € 135,– per vergadering en voor de voorzitter € 175,– per vergadering.  
 
-2. Voor een commissie ingesteld met een bij een specifiek aandachtsgebied behorende taakopdracht gebaseerd op artikel 4 van dit besluit is dat voor de leden € 135,– per vergadering en voor de voorzitter € 155,– per vergadering.    
+2. Voor een commissie ingesteld met een bij een specifiek aandachtsgebied behorende taakopdracht gebaseerd op artikel 4 van dit besluit is dat voor de leden € 135,– per vergadering en voor de voorzitter € 155,– per vergadering.   
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit Coördinatiegroep Orgaandonatie 2009.  
+Dit besluit wordt aangehaald als: Besluit Coördinatiegroep Orgaandonatie 2009. 
 
 ### Artikel  9  
 
-Het [Besluit Coördinatiegroep Orgaandonatie](../../../../../../ministeriele-regeling/besluit/coördinatiegroep/orgaandonatie/BWBR0018669/README.md) wordt ingetrokken.  
+Het [Besluit Coördinatiegroep Orgaandonatie](../../../../../../ministeriele-regeling/besluit/coördinatiegroep/orgaandonatie/BWBR0018669/README.md) wordt ingetrokken. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de staatscourant waarin het wordt geplaatst en werkt terug tot 1 augustus 2009.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de staatscourant waarin het wordt geplaatst en werkt terug tot 1 augustus 2009. 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

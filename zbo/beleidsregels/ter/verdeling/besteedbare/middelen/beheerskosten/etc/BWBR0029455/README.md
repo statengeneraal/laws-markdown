@@ -27,18 +27,28 @@ Het college keert het voorlopig vastgesteld en definitief vastgesteld beheerskos
 
 ### Artikel  3  
 
-1.  Het college verdeelt in het jaar 2011 een totaal bedrag van 3,832 miljoen euro aan besteedbare middelen beheerskosten over de zorgverzekeraars.   
+1.  Het college verdeelt in het jaar 2011 een totaal bedrag van 6,390 miljoen euro aan besteedbare middelen beheerskosten over de zorgverzekeraars.   
 2.  Het college stelt in januari 2011 voor iedere zorgverzekeraar, anders dan in de hoedanigheid van verbindingskantoor, een voorlopig beheerskostenbudget vast ter bepaling van de middelen voor het kalenderjaar 2011 ten laste van het Algemeen Fonds Bijzondere Ziektekosten (AFBZ).   
 
 ### Artikel  4  
 
-Het college verdeelt het in artikel 3 genoemde totaalbedrag als volgt: 
+Het college verdeelt een bedrag van 3,890 miljoen euro als volgt: 
 
 a. een derde deel van het bedrag, welk deel betrekking heeft op de op verzekerden gerichte administratiedelen, verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
 b. twee derde deel van het bedrag, welk deel betrekking heeft op de op de zorg gerichte administratiedelen, verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md). Daarbij tellen verzekerden, die op 1 januari 2010 vijfenzestig jaar of ouder zijn, dubbel;  
 
 c. ter vaststelling van de budgetten sommeert het college per zorgverzekeraar de ingevolge de onderdelen b en c berekende bedragen. Het college rondt de budgetten af op hele euro’s, waarbij het college bedragen van een halve euro en hoger afrondt naar boven en overige bedragen naar beneden.    
+
+### Artikel  4a  
+
+1.  Een bedrag van 2,500 miljoen euro verdeelt het College uitsluitend over zorgverzekeraars voor wie geldt dat zij zelf geen verbindingskantoor zijn en ook niet binnen een concern gelieerd zijn aan een zorgverzekeraar die als verbindingskantoor optreedt. Het CVZ verdeelt het bedrag uit de vorige volzin als volgt: 
+
+a. Vijftig procent op basis van een vast bedrag per zorgverzekeraar;  
+
+b. Vijftig procent op basis van de verzekerdenaantallen van de zorgverzekeraars per 30 juni 2011.     
+2.  De zorgverzekeraars besteden de op basis van het eerste lid aan hen verdeelde bedragen niet voor andere doeleinden dan het gereed maken van hun organisatie voor de uitvoering van de AWBZ.   
+3.  De zorgverzekeraars verantwoorden de op basis van het eerste lid aan hen verdeelde bedragen middels een separate accountantsverklaring.   
 
 ### Artikel  5  
 
