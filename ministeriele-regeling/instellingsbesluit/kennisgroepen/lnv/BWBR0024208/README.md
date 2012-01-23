@@ -139,56 +139,6 @@ De voorzitter en de overige leden van de commissie ontvangen per vergadering een
 
 ####Stuurgroep Taskforce multifunctionele landbouw
 
-### Artikel  15  
-
-1.  Er is een Stuurgroep Taskforce Multifunctionele Landbouw.   
-2.  De stuurgroep heeft tot taak het stimuleren van de ontwikkeling van de multifunctionele landbouw.   
-
-### Artikel  16  
-
-De stuurgroep: 
-
-a. doet voorstellen aan de Minister voor de ondersteuning van projecten en andere activiteiten ten behoeve van de ontwikkeling van de multifunctionele landbouw;  
-
-b. doet aan de Minister verslag van zijn bevindingen omtrent de ontwikkeling van de multifunctionele landbouw.    
-
-### Artikel  17  
-
-1.  De Minister benoemt, schorst en ontslaat de voorzitter en de overige leden van de stuurgroep.   
-2.  De Minister voorziet in de ondersteuning van de stuurgroep.   
-
-### Artikel  18  
-
-1.  Als leden van de stuurgroep worden benoemd tot en met 30 juni 2012: 
-
-– de heer mr. R.S. Cazemier, tevens voorzitter;  
-
-– mevrouw ir. M.M. van Arkel;  
-
-– de heer drs. ing. J.G.P. Baan;  
-
-– de heer P. Blom;  
-
-– de heer H. Brink;  
-
-– de heer drs. C.P.M.M. van Heesbeen;  
-
-– de heer dr. C.B. Leerink;  
-
-– de heer drs. R.W. Munniksma;  
-
-– de heer ir. C.A.C.J. Oomen;  
-
-– de heer J.H. Vennevertloo;  
-
-– de heer F.J.A. baron van Verschuer.     
-2.  De periode waarvoor de leden zijn benoemd vangt aan op 6 december 2007, behalve voor de leden Cazemier, Leerink, Vennevertloo en Van Verschuer, waarvoor de termijn aanvangt op onderscheidelijk 1 juni 2009, 1 oktober 2008, 1 november 2009 en 1 juli 2009.   
-3.  De voorzitter en de leden worden op persoonlijke titel benoemd, behalve de leden Oomen en Munniksma.   
-
-### Artikel  19  
-
-De stuurgroep stelt zijn eigen werkwijze vast.  
-
 ### §  5  
 
 ####InnovatieNetwerk
@@ -231,7 +181,7 @@ b. het bureau, bedoeld in artikel 24.
 
 ### Artikel  25  
 
-1.  Als leden van het bestuur worden herbenoemd voor de periode van: 1 januari 2011 tot en met 30 juni 2011: 
+1.  Als leden van het bestuur worden herbenoemd voor de periode van: 1 januari 2011 tot en met 31 december 2011: 
 
 – de heer dr. J. Kremers, tevens voorzitter;  
 
@@ -343,77 +293,6 @@ Als leden van de programmaraad worden benoemd voor de periode van 8 november 20
 
 ####Taskforce biodiversiteit en natuurlijke hulpbronnen
 
-### Artikel  27f  
-
-Er is een Taskforce biodiversiteit en natuurlijke hulpbronnen.  
-
-### Artikel  27g  
-
-De Taskforce heeft tot taak aan de Minister, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Minister voor Ontwikkelingssamenwerking voorstellen te doen over de uitvoering van het beleid inzake het behoud en het duurzaam gebruik van biodiversiteit en natuurlijke hulpbronnen, op de langere termijn, zoals neergelegd in het beleidsprogramma ‘Biodiversiteit werkt: voor natuur, voor mensen, voor altijd’ (Kamerstukken II 2007/08, 26 407, nr. 28).  
-
-### Artikel  27h  
-
-1.  De Taskforce bestaat uit een voorzitter en ten hoogste veertien leden.   
-2.  De Minister benoemt, schorst en ontslaat de voorzitter en de leden van de Taskforce.   
-3.  De voorzitter en de leden worden benoemd voor een periode van ten hoogste drie jaren.   
-4.  De voorzitter en de leden worden op persoonlijke titel benoemd.   
-5.  De programma manager Biodiversiteit van het ministerie van Landbouw, Natuur en Voedselkwaliteit kan desgewenst aanwezig zijn bij vergaderingen van de Taskforce.   
-6.  De Minister voorziet in de ondersteuning van de Taskforce.   
-
-### Artikel  27i  
-
-Als leden van de Taskforce worden benoemd voor de periode van: 
-
-a. 23 januari 2009 tot en met 22 januari 2012: 
-
-– de heer J.G.M. Alders, tevens voorzitter;  
-
-– de heer mr. R.H.L.M. van Boxtel;  
-
-– de heer ir. W. Dekker;  
-
-– de heer mr. J.E.C. de Groot;  
-
-– mevrouw drs. M.S.C. Hirsch;  
-
-– de heer O. Hoes;  
-
-– de heer prof. dr. H.B.J. Leemans;  
-
-– de heer A.J. Maat;  
-
-– de heer prof. dr. ir. R. Rabbinge;  
-
-– de heer drs. N. Roozen;  
-
-– mevrouw drs. M.B. Vos;  
-
-– de heer drs. T.J. Wams;  
-
-– de heer ir. J. Zuidam;    
-
-b. 23 januari 2009 tot en met 14 juni 2010: 
-
-– de heer drs. L.M.L.H.A. Hermans;  
-
-– mevrouw drs. F. Karimi;    
-
-c. 15 juni tot en met 22 januari 2012: 
-
-– mevrouw drs. M.M. Monteiro.      
-
-### Artikel  27j  
-
-1.  De Minister kan, in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Minister voor Ontwikkelingssamenwerking, op voorstel van de voorzitter van de Taskforce, maatschappelijke platforms instellen ter ondersteuning van de Taskforce.   
-2.  De platforms hebben tot taak specifieke thema’s die door de Taskforce worden geïdentificeerd uit te werken, teneinde bij te dragen aan de voorstellen van de Taskforce, bedoeld in artikel 27g.   
-3.  De platforms worden voorgezeten door een lid van de Taskforce en bestaan uit ten hoogste vijftien leden.   
-4.  De leden van de platforms worden benoemd door de Minister, in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Minister voor Ontwikkelingssamenwerking, op voorstel van de voorzitter van de Taskforce, voor een periode van ten hoogste drie jaren.   
-
-### Artikel  27k  
-
-1.  De leden van de Taskforce en van de platforms ontvangen per vergadering een algemene vergoeding van € 200,–.   
-2.  Het eerste lid is niet van toepassing op de voorzitter van de Taskforce, ingeval voor hem een besluit tot vaststelling van een vergoeding, bedoeld in [artikel 4, eerste lid](../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md), of [artikel 5 van het Besluit vergoedingen adviescolleges en commissies](../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md), wordt genomen.   
-
 ### §  5c  
 
 ####Regiegroep Natuur- en Milieu-educatie en Leren voor Duurzame Ontwikkeling
@@ -474,25 +353,6 @@ De regiegroep bepaalt haar eigen werkwijze.
 ### §  5g  
 
 ####Klankbordgroep vermindering regeldruk
-
-### Artikel  27z  
-
-1.  Er is een Klankbordgroep vermindering regeldruk.   
-2.  De klankbordgroep heeft tot taak het adviseren van de Minister over de aanpak van de vermindering van de regeldruk.   
-
-### Artikel  27aa  
-
-Als leden van de klankbordgroep worden benoemd: 
-
-– de heer A. W. Bierens, tevens voorzitter;  
-
-– de heer ir. D. van Doorn;  
-
-– de heer ir. K.W. Talsma.    
-
-### Artikel  27bb  
-
-De voorzitter en leden ontvangen per vergadering een vergoeding als bedoeld in [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md).  
 
 ### §  5h  
 
@@ -591,61 +451,9 @@ De voorzitter en leden ontvangen per vergadering een vergoeding als bedoeld in [
 
 ####Adviescommissie versnelling en verbetering besluitvorming infrastructuur
 
-### Artikel  27kk  
+### §  5k  
 
-Er is een Adviescommissie versnelling en verbetering besluitvorming infrastructuur, hierna te noemen de Commissie.  
-
-### Artikel  27ll  
-
-De Commissie heeft tot taak de Staatssecretaris van Economische Zaken, Landbouw en Innovatie te adviseren over de vraag op welke wijze de besluitvorming over projecten voor infrastructuur, gebiedsontwikkeling en de agrarische sector ingeval er sprake is van samenloop met natuurbeschermingstrajecten, waaronder Natura 2000, kan worden verbeterd en versneld.  
-
-### Artikel  27mm  
-
-De Commissie bestaat uit de volgende leden: 
-
-a. de heer mr. Th.G.M. Vermeegen, tevens voorzitter;  
-
-b. de heer prof. mr. N.S.J. Koeman;  
-
-c. de heer ir. J.J. de Graeff;  
-
-d. de heer ir. N.G. Ketting;  
-
-e. de heer prof.dr. C.W. Backes;  
-
-f. de heer prof. mr. dr. E.F. ten Heuvelhof;  
-
-g. de heer prof. dr. H. Siepel;  
-
-h. de heer prof. mr. W.C.T.F. de Zeeuw;  
-
-i. de heer ing. A. Vermeer;  
-
-j. de heer P. Rüpp.    
-
-### Artikel  27nn  
-
-1.  De voorzitter van de Commissie ontvangt maandelijks een vergoeding overeenkomstig het maximum salarisnummer behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), uitgaande van een deeltijdfactor van 0,09. Reis- en verblijfkosten worden vergoed.   
-2.  De overige leden van de Commissie ontvangen maandelijks een vergoeding overeenkomstig het maximum salarisnummer behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), uitgaande van een deeltijdfactor van 0,07. Reis- en verblijfkosten worden vergoed.   
-
-### Artikel  27oo  
-
-De Commissie heeft een secretaris. De secretaris is geen lid van de Commissie en is voor zijn werkzaamheden uitsluitend verantwoording schuldig aan de Commissie.  
-
-### Artikel  27pp  
-
-1.  De Commissie beraadslaagt in vergadering over haar bevindingen. Over de bevindingen wordt besloten in aanwezigheid van ten minste twee derde van de leden.   
-2.  De Commissie kan haar werkwijze nader bepalen.   
-3.  De voorzitter van de Commissie heeft maandelijks contact over de voortgang met de directeur van de Programmadirectie Natura 2000 van het Ministerie van Economische Zaken, Landbouw en Innovatie.   
-4.  De Commissie brengt op verzoek van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie dan wel uit eigen beweging tussentijds verslag uit van haar bevindingen.   
-
-### Artikel  27qq  
-
-De Staatssecretaris van Economische Zaken, Landbouw en Innovatie kan in overleg treden met de Commissie. De Commissie kan zich voor het inwinnen van inlichtingen wenden tot daartoe door de Staatssecretaris van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren. Voorts kan de Commissie inlichtingen inwinnen bij bestuursorganen, deskundigen en andere personen of instanties.  
-
-### Artikel  27rr  
-
-De archiefbescheiden van de Commissie worden na opheffing van de Commissie, of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgedragen aan het archief van het Ministerie van Economische Zaken, Landbouw en Innovatie.  
+####Commissie van deskundigen natuurwetgeving
 
 ### §  6  
 

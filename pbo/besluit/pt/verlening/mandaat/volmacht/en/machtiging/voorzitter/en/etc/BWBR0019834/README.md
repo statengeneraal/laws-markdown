@@ -2,14 +2,17 @@
 
 ##Besluit van het bestuur van het Productschap Tuinbouw besluit, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)
 
-Gelet op [artikel 86](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [92](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [93](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [118](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [127 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)
+Gelet op [artikel 86](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [92](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [93](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),[104](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [118](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),[127 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)
 
 Gelet op [artikel 1:1](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [hoofdstuk 10 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
 BESLUIT:     
 
 ####Inleiding
 
+Materieel uitgewerkt per 03-05-2009 
+
 ### Artikel  1  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  In dit besluit en de daarop berustende bepalingen worden de begrippen overgenomen van [artikel 1](../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en de [Verordening PT algemene bepalingen 2003](../../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md).   
 2.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
@@ -17,7 +20,7 @@ BESLUIT:
 | --- | --- | --- |
 |:---|:---|:---|
 | a.  | de secretaris:  | de secretarissen van het productschap;  |
-| b.  | de afdeling:  | de Stafafdeling;  de afdeling Heffingen;  de afdeling Marktinformatie en Marktonderzoek;  de afdeling Beleid en onderzoek, en  de afdeling Medebewind,  |
+| b.  | de afdeling:  | de Stafafdeling;  de afdeling Heffingen;  de afdeling Marktinformatie en Marktonderzoek;   de afdeling Beleid en onderzoek, en  de afdeling Medebewind,  |
 | c.  | het afdelingshoofd:  | degene die is belast met de leiding van een afdeling;  |
 | d.  | de functionaris:  | persoon werkzaam bij en/of voor het productschap;  |
 | e.  | gemandateerde derde:  | persoon of groep van personen anders dan onder d, werkzaam voor het productschap;  |
@@ -27,7 +30,10 @@ BESLUIT:
 
 ####De voorzitter
 
+Materieel uitgewerkt per 03-05-2009 
+
 ### Artikel  2  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  Aan de voorzitter is voorbehouden de bevoegdheid tot het nemen van een besluit en het verrichten van een privaatrechtelijke rechtshandeling, neergelegd in een document, gericht tot: 
 
@@ -45,18 +51,24 @@ f. een Hoog College van Staat.
 2.  Aan de voorzitter is voorbehouden hetgeen is vastgelegd in bijlage 1.   
 3.  Aan de voorzitter is tevens voorbehouden de bevoegdheid tot het nemen van een besluit inzake een bezwaar tegen een besluit dat door de secretaris dan wel een afdelingshoofd is genomen.   
 4.  Aan de voorzitter is eveneens voorbehouden de bevoegdheid tot het verrichten van een andere handeling dan het nemen van een besluit of het verrichten van een privaatrechtelijke rechtshandeling ten opzichte van één van de in het eerste lid genoemden.   
-5.  Het vierde lid geldt niet ten aanzien van handelingen ten opzichte van één van de in het eerste lid, onder a tot en met f, genoemden, voor zover het stukken betreft die van louter informatieve aard zijn.   
+5.  Het vierde lid geldt niet ten aanzien van handelingen ten opzichte van één van de in het eerste lid, onder a tot en met f, genoemden, voor zover het stukken betreft die van louter informatieve aard zijn.  
 
 ####Secretaris
 
+Materieel uitgewerkt per 03-05-2009 
+
 ### Artikel  3  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  Onverminderd artikel 2, wordt aan de secretaris - overeenkomstig de aan hen toedeelde taken (zie bijlage 2)- mandaat verleend.   
-2.  Het mandaat bevat tevens de bevoegdheid tot het geven van beleidsregels.   
+2.  Het mandaat bevat tevens de bevoegdheid tot het geven van beleidsregels.  
 
 ####Ondermandaat
 
+Materieel uitgewerkt per 03-05-2009 
+
 ### Artikel  4  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  De secretaris kan van het aan hem verleende mandaat ondermandaat verlenen aan: 
 
@@ -66,34 +78,41 @@ b. een gemandateerde derde.
 2.  De secretaris kan bij de verlening van mandaat als bedoeld in het eerste lid, onder a, toestaan dat deze vervolgens wederom onder mandaat verleent aan een rechtstreeks onder het afdelingshoofd ressorterende functionaris.   
 3.  De secretaris kan aan het afdelingshoofd als bedoeld in het eerste lid instructies geven.   
 4.  Besluiten van de secretaris als bedoeld in het eerste, tweede en derde lid dienen ter goedkeuring aan de voorzitter te worden voorgelegd.   
-5.  Besluiten van het afdelingshoofd als bedoeld in het tweede en derde lid dienen ter goedkeuring aan de secretaris te worden voorgelegd.   
+5.  Besluiten van het afdelingshoofd als bedoeld in het tweede en derde lid dienen ter goedkeuring aan de secretaris te worden voorgelegd.  
 
 ####Volmacht en machtiging
 
+Materieel uitgewerkt per 03-05-2009 
+
 ### Artikel  5  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  Onverminderd artikel 4 wordt aan de secretaris volmacht en machtiging verstrekt.   
 2.  De secretaris kan de aan hem verleende volmacht en machtiging aan de in artikel 4, eerste lid, onder a, en het tweede lid, genoemde functionaris doorgeven.   
-3.  Artikel 4, derde en vierde lid is van overeenkomstige toepassing.   
+3.  Artikel 4, derde en vierde lid is van overeenkomstige toepassing.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  Het hoofd van Stafafdeling houdt een register bij van de besluiten als bedoeld in de artikelen 4 en 5.   
-2.  Een afschrift van het in het eerste lid genoemde register ligt ter inzage bij de Stafafdeling, Louis Pasteurlaan 6, Zoetermeer.   
+2.  Een afschrift van het in het eerste lid genoemde register ligt ter inzage bij de Stafafdeling, Louis Pasteurlaan 6, Zoetermeer.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  Het in een document vastleggen van een besluit, een privaatrechtelijke of een andere handeling, dient te geschieden op briefpapier van het productschap met het hoofd: "Productschap Tuinbouw".   
 2.  Een document als bedoeld in het eerste lid, vastgesteld door de voorzitter, vermeldt aan het slot: "De voorzitter,", gevolgd door de handtekening en de naam van de voorzitter.   
-3.  Een document als bedoeld in het eerste lid, vastgesteld door een functionaris, vermeldt aan het slot: "De voorzitter, namens deze, ", gevolgd door de handtekening, de naam van de functionaris en functieaanduiding.   
+3.  Een document als bedoeld in het eerste lid, vastgesteld door een functionaris, vermeldt aan het slot: "De voorzitter, namens deze, ", gevolgd door de handtekening, de naam van de functionaris en functieaanduiding.  
 
 ### Artikel  8  
+Materieel uitgewerkt per 03-05-2009 
 
-Dit besluit en de daarbij behorende bijlage wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie.  
+Dit besluit en de daarbij behorende bijlage wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 03-05-2009 
 
-Dit besluit kan worden aangehaald als: Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw.  
+Dit besluit kan worden aangehaald als: Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw. 
 
 Zoetermeer 
 8 mei 2006   
@@ -109,15 +128,19 @@ secretaris
 
 ####als bedoeld in artikel 2, tweede lid  van het besluit van het bestuur van het Productschap Tuinbouw, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)
 
+Materieel uitgewerkt per 03-05-2009 
+
 ####Aangelegenheden die door de voorzitter worden afgedaan
 
 1. Aangelegenheden met betrekking tot de vaststelling van de hoofdlijnen van het nationale en internationale beleid op het terrein van het productschap, alsmede het afwijken van dat beleid.  
 
-2. Aangelegenheden betreffende de hoofdlijnen van het algemeen communicatiebeleid van het productschap, waaronder begrepen de presentatie van belangrijke beleidsvoornemens en de daarmee verband houdende communicatiestrategieën.    
+2. Aangelegenheden betreffende de hoofdlijnen van het algemeen communicatiebeleid van het productschap, waaronder begrepen de presentatie van belangrijke beleidsvoornemens en de daarmee verband houdende communicatiestrategieën.   
 
 ### Bijlage  2  
 
 ####als bedoeld in artikel 3, eerste lid  van het besluit van het bestuur van het Productschap Tuinbouw, d.d.25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)
+
+Materieel uitgewerkt per 03-05-2009 
 
 ####Aangelegenheden die door de secretaris worden afgedaan
 
@@ -175,5 +198,5 @@ g. De commissie voor hovenierswerkzaamheden;
 
 h. De commissie voor energie; en  
 
-i. De commissie voor sociaal economische aangelegenheden.      
+i. De commissie voor sociaal economische aangelegenheden.     
 

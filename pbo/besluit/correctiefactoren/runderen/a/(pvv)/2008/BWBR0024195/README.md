@@ -7,6 +7,7 @@ Gelet op [artikel 8, tweede lid, onderdeel g, van de Verordening slachting, wegi
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 25-12-2011 
 
 Op voet van het bepaalde in [artikel 8, tweede lid, onderdeel g, van de Verordening slachting, weging en classificatie slachtrunderen (PVV) 2008](../../../../../../../../pbo/verordening/slachting/weging/en/classificatie/slachtrunderen/(pvv)/2008/BWBR0024129/README.md) worden de volgende correctiefactoren vastgesteld:  
 
@@ -20,9 +21,10 @@ Op voet van het bepaalde in [artikel 8, tweede lid, onderdeel g, van de Verorden
 | Staart rosé  | 0,70 kilogram  | 0,70 kilogram  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 25-12-2011 
 
 1.  Dit besluit wordt aangehaald als: Besluit correctiefactoren runderen A (PVV) 2008.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 12 maart 2008   

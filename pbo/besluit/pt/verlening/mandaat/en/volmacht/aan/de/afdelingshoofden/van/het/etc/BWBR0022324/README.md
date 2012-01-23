@@ -19,12 +19,14 @@ Gelet op [artikel 62 van de Wet bescherming persoonsgegevens](../../../../../../
 Gelet op [artikel 15 van de Wet tuchtrechtspraak bedrijfsorganisatie 2002](../../../../../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
 Besluit:    
 
-### Artikel  1  
+### Artikel  1 
+Materieel uitgewerkt per 03-05-2009 
 
 1.  Aan de secretaris is voorbehouden het nemen van besluiten, inhoudende een afwijzing van een verzoek om informatie ingevolge de [Wet openbaarheid van bestuur](../../../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
-2.  Tevens is aan de secretaris voorbehouden het nemen van beslissingen op bezwaar die betrekking hebben op de in bijlage 1 genoemde werkzaamheden.   
+2.  Tevens is aan de secretaris voorbehouden het nemen van beslissingen op bezwaar die betrekking hebben op de in bijlage 1 genoemde werkzaamheden.  
 
 ### Artikel  2  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  De secretaris verleent mandaat en volmacht aan het hoofd van de afdeling: 
 
@@ -53,35 +55,40 @@ Besluit:
 
 – het hoofd debiteurenbeheer,  
 
-– het hoofd facilitaire dienst; en  
+– het hoofd facilitaire dienst; en   
 
 – het hoofd service (bijlage 1).     
-3.  De secretaris geeft nadere instructies aan het hoofd van de afdeling en zijn plaatsvervanger omtrent de aan hen verleende volmacht (bijlage 2).   
+3.  De secretaris geeft nadere instructies aan het hoofd van de afdeling en zijn plaatsvervanger omtrent de aan hen verleende volmacht (bijlage 2).  
 
 ### Artikel  3  
+Materieel uitgewerkt per 03-05-2009 
 
 1.  Het in een document vastleggen van een besluit, een privaatrechtelijke rechtshandeling, of een andere handeling, dient te geschieden op briefpapier met het hoofd: ‘Productschap Tuinbouw’.   
-2.  Een document als bedoeld in het eerste lid, door een functionaris als genoemd in artikel 2, eerste en tweede lid vastgesteld, vermeldt aan het slot: ‘De voorzitter, namens deze,’ gevolgd door de functieaanduiding, de handtekening en de naam van de functionaris.   
+2.  Een document als bedoeld in het eerste lid, door een functionaris als genoemd in artikel 2, eerste en tweede lid vastgesteld, vermeldt aan het slot: ‘De voorzitter, namens deze,’ gevolgd door de functieaanduiding, de handtekening en de naam van de functionaris.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 03-05-2009 
 
-Dit besluit en de daarbij behorende toelichting en bijlagen wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie.  
+Dit besluit en de daarbij behorende toelichting en bijlagen wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 03-05-2009 
 
-Dit besluit wordt aangehaald als: Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw.  
+Dit besluit wordt aangehaald als: Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw. 
 
 Zoetermeer 
 3 juli 2007   
 
 de 
-voorzitternamens deze
-C.Kuijvenhoven
-secretaris  
+voorzitter namens deze 
+C. Kuijvenhoven  
+secretaris   
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####als bedoeld in artikel 2, eerste en tweede lid  van het besluit van de secretaris van het Productschap Tuinbouw, d.d. 3 juli 2007, tot verlening van mandaat en volmacht aan de afdelingshoofden, hun plaatsvervangers en enkele functionarissen van het Productschap Tuinbouw (Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw)
+
+Materieel uitgewerkt per 03-05-2009 
 
 ###1.
 
@@ -128,9 +135,11 @@ Het aan het afdelingshoofd Heffingen en zijn plaatsvervanger verstrekte mandaat 
 
 – het beantwoorden van verzoeken om vergoedingen bij geconstateerde Ditylenchus dipsaci, na advisering door een terzake ingestelde taxatiecommissie.   Ingeval van afwezigheid van de teamleider binnendienst dan kan deze bevoegdheid worden uitgeoefend door het afdelingshoofd dan wel zijn plaatsvervanger. 
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####als bedoeld in artikel 2, derde lid  van het besluit van de secretaris van het Productschap Tuinbouw, d.d. 3 juli 2007, tot verlening van mandaat en volmacht aan de afdelingshoofden hun plaatsvervangers, en enkele functionarissen van het Productschap Tuinbouw (Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw)
+
+Materieel uitgewerkt per 03-05-2009 
 
 Ten aanzien van de verstrekte volmacht geldt het volgende: 
 ###1

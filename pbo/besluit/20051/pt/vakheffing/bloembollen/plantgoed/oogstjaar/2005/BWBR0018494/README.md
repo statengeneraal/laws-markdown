@@ -9,6 +9,7 @@ gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, d.
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 18-02-2007 
 
 Voor de inkoper en voor de verkoper van bloembollen wordt in de periode 1 juni 2005 tot en met 31 mei 2006 de heffing verlaagd. Dit betekent dat: 
 
@@ -24,16 +25,18 @@ e. in artikel 9, tweede lid, 2,1% wordt vervangen door: 1,6%;
 
 f. in artikel 10, 2,1% wordt vervangen door: 1,6%;  
 
-g. in artikel 11, tweede lid, moet worden gelezen als 2,6%.    
+g. in artikel 11, tweede lid, moet worden gelezen als 2,6%.   
 
 ### Artikel  2  
+Materieel uitgewerkt per 18-02-2007 
 
-Dit besluit treedt in werking met ingang van de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit treedt in werking met ingang van de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 18-02-2007 
 
-Dit besluit wordt aangehaald als: Besluit 2005/1 PT vakheffing bloembollen plantgoed oogstjaar 2005.  
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
+Dit besluit wordt aangehaald als: Besluit 2005/1 PT vakheffing bloembollen plantgoed oogstjaar 2005. 
+Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.    
 
 Zoetermeer 
 28 juni 2005   
