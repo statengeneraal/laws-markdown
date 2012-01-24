@@ -9,6 +9,7 @@ gehoord de Commissie voor groenten en fruit d.d. 25 oktober 2007;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 09-12-2007 
 
 Voor de volgende, in het [eerste lid van artikel 4 van de Verordening PT bijzondere heffing fruit en champignons 2006](../../../../../../../../../../../../../pbo/verordening/pt/bijzondere/heffing/teelt/fruit/en/champignons/2006/BWBR0018503/README.md) genoemde groepen, wordt de heffing voor het jaar 2006 als volgt vastgesteld:  
 
@@ -24,12 +25,14 @@ Voor de volgende, in het [eerste lid van artikel 4 van de Verordening PT bijzond
 | 75  | Teeltbakken beschikbaar voor de teelt van champignons:  | € 0,82 per m2 teeltoppervlakte  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 09-12-2007 
 
-Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.
 
 ### Artikel  3  
+Materieel uitgewerkt per 09-12-2007 
 
-Dit besluit wordt aangehaald als: Wijziging 2006-1 Besluit PT bijzondere heffing teelt fruit en champignons 2006.  
+Dit besluit wordt aangehaald als: Wijziging 2006-1 Besluit PT bijzondere heffing teelt fruit en champignons 2006. 
 Dit besluit en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Zoetermeer 
