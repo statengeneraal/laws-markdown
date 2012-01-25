@@ -93,6 +93,6 @@ a. Indien een aan een motorrijtuig toegekend kenteken met een beperkte geldighei
 Teruggaaf is geregeld in artikel 14 van de Wet BZM en is uitsluitend mogelijk voor tijdvakken van een jaar. Teruggaaf met betrekking tot een ander tijdvak dan een jaar is niet mogelijk, ook niet indien het verzoek wordt gedaan voordat een dergelijk tijdvak is ingetreden. In het tweede lid van artikel 14 is aangegeven hoe de berekening van de teruggaaf dient plaats te vinden. Daarbij wordt onder datum van indiening verstaan: de datum waarop het verzoek alsmede het certificaat door de Inspecteur is ontvangen. Ter illustratie van de wijze van berekening moge het volgende voorbeeld dienen. Bij een tijdvak dat loopt van bijvoorbeeld 15 februari tot en met 14 februari van het daaropvolgende jaar en waarbij een verzoek om teruggaaf wordt ingediend op bijvoorbeeld 17 september, wordt teruggaaf verleend over een periode van vier maanden, te weten van 15 oktober tot en met 14 februari. Naast de datum van indiening van het verzoek is derhalve ook de exacte datum van ingang van het certificaat van belang.     
 
 De 
-Staatssecretaris van Financiën, namens deze:
+Staatssecretaris van Financiën, namens deze: 
 de plv. Directeur-Generaal der Belastingen, 
-P.W.W.Swildens   
+P.W.W. Swildens     

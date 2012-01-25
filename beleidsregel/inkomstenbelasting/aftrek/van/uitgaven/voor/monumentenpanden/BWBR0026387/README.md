@@ -14,7 +14,7 @@ In dit besluit zijn de standpunten opgenomen over de aftrek van uitgaven voor mo
 
 *Bureau Monumentenpanden:* Belastingdienst/Utrecht-Gooi/kantoor Amersfoort/Bureau Monumentenpanden  
 
-*Brim:* [Besluit rijkssubsidiëring instandhouding monumenten](../../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md)   
+*Brim:* [Besluit rijkssubsidiëring instandhouding monumenten](../../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md)  
 
 *Monumentenregister:* Register, bedoeld in [artikel 6](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) of [7 van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md)  
 
@@ -151,5 +151,5 @@ Den Haag
 7 september 2009   
 
 De 
-staatssecretaris van Financiën, 
-J.C. deJager   
+staatssecretaris van Financiën,
+J.C. de Jager     
