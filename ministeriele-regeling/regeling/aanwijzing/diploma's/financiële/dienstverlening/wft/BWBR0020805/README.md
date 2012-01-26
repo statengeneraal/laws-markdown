@@ -53,6 +53,9 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Interne opleiding Akkermans & Partners Support  | Akkermans & Partners Cognitief  | basismodule, levensverzekeringen  |
 | Schriftelijk Gecertificeerd Pensioenadviseur  | Akkermans & Partners Cognitief  | Basismodule, Levensverzekeringen  |
 | Commerciële Dienstverlening differentiatie Commercieel Medewerker Bank- en Verzekeringswezen met tenminste de vakken RCD/UCD-PMD/BVW1 Persoonlijke en Maatschappelijke Beroepsvorming Bank- en Verzekeringswezen, alsmede UCD-BVW2 Bank- en Verzekeringswezen  | Albeda College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
+| MBO sector Economie, afdeling Administratie, Lange opleiding Commerciële dienstverlening met tenminste de vakken BVW 1 en 2  | Albeda College  |  *Basismodule,*    *Consumptief Krediet,*    *Schadeverzekeringen*   |
+| Certificaat Assurantie  | Alkwaard College  |  *Basismodule, Schadeverzekeringen, Levensverzekeringen*   |
+| MBO sector Economie, afdeling Administratie, Opleiding Bank- en Verzekeringswezen met tenminste de vakken Bank- en verzekeringswezen en Persoonlijke en maatschappelijke beroepsvorming/bank- en verzekeringswezen  | Amersteyn Christelijk College voor Economie en Handel  |  *Basismodule,*    *Consumptief Krediet,*    *Schadeverzekeringen*   |
 | Persoonlijke Financiële Planning voor Hoger Opgeleiden  | Amsterdamse Academie  | basismodule, consumptief krediet, hypothecair krediet, beleggen, levensverzekeringen  |
 | Hoger Onderwijs Financiële Sector  | Amsterdamse Academie  (Hogeschool Holland)  | Basismodule, Consumptief Krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen A  |
 | Master of Financial Planning  | Amsterdam Business School  | basismodule, hypothecair krediet, consumptief krediet, levensverzekeringen, beleggen  |
@@ -72,11 +75,15 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Het opleidingstraject financiële planning voor de adviseur  | Baard Fiscale Opleidingen BV  | Basismodule,  Beleggen A  |
 | Master of Financial Planning  | Baard Hogeschool Brabant BV  | basismodule, hypothecair krediet, consumptief krediet, levensverzekeringen, beleggen  |
 | Workshop beleggen A  | BBOC  | basismodule, beleggen  |
+| MEAO, Bedrijfsadministratieve richting met (keuze)vak Assurantie  | Boerhaave College  |  *Basismodule, Schadeverzekeringen, Levensverzekeringen*   |
+| MBO sector Economie, afdeling Administratie, Lange opleiding Commerciële Dienstverlening met tenminste de vakken Bank- en Verzekeringswezen 1 en 2  | Christelijke College Abtstede  |  *Basismodule,*    *Consumptief Krediet,*    *Schadeverzekeringen*   |
+| MBO sector Economie, Afdeling Administratie, Lange opleiding Economisch-Juridisch, differentiatie Openbaar Bestuur met (keuze)vak Algemene Economie/Assurantie  | De Factoor  |  *Basismodule*   |
 | Investment Advice Certificate  | Dutch Securities Institute  | basismodule, beleggen  |
 | Commercieel medewerker banken (Crebonummer 10037)  | ECABO  | basismodule, consumptief krediet  |
 | Commercieel medewerker verzekeringen (Crebonummer 10038)  | ECABO  | basismodule, schadeverzekeringen  |
 | Commercieel medewerker bank- en verzekeringswezen (Crebonummer 10761)  | ECABO  | basismodule, consumptief krediet, schadeverzekeringen  |
 | Commercieel Medewerker Bankbedrijf  | ECABO  | Basismodule, Consumptief Krediet  |
+| MBO sector Economie, Afdeling Administratie, Lange opleiding Commerciële Dienstverlening, differentiatie Commercieel medewerker Bank en Verzekeringen  | Economisch College Nijmegen  |  *Basismodule, Consumptief Krediet, Schadeverzekeringen*   |
 | MBO sector Economie Afd. Administratie; lange opleiding Administratie; differentiatie Bank- en Verzekeringswezen  | Economisch Lyceum Eindhoven  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
 | Basisopleiding Financieel adviseur  | Educaat Financiële Opleidingstrajecten  | basismodule, beleggen  |
 | Integraal Financieel Adviseur-Ondernemers  | Educaat Financiële Opleidingstrajecten  | Basismodule, Beleggen A  |
@@ -104,6 +111,7 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Bachelorexamen Economie en Bedrijfseconomie, met tenminste de (keuze)vakken Financiering en Belegging 1, Finance 2 en Financial Accounting 1 en Fiscale Economie  | Erasmus Universiteit Rotterdam  | Basismodule, Beleggen A  |
 | Doctoraal Economie, afstudeerrichting Bedrijfseconomie, traject Verzekeringseconomie  | Erasmus Universiteit Rotterdam  | Basismodule, Beleggen A  |
 | MBO sector Economie; afdeling Administratie, lange opleiding Commerciële Dienstverlening, differentiatie Bank en Verzekeringswezen  | Europa College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
+| Verklaring Financieel Planner (m.b.t. het gehele FFP-examen afgegeven t/m examendatum 28-1-2000)  | Federatie Financiële Planners  |  *Basismodule, Consumptief Krediet, Hypothecair Krediet, Levensverzekeringen, Beleggen A*   |
 | Lange Opleiding Commerciële Dienstverlening, met tenminste het (keuze)vak Bank- en Verzekeringswezen  | Florijn College  | Basismodule,  Consumptief Krediet,  Schadeverzekeringen  |
 | Management, Economie en Recht  | Fontys Hogescholen  | basismodule, hypothecair krediet, consumptief krediet, schadeverzekeringen, levensverzekeringen, beleggen  |
 | Economisch-juridische studierichting, Differentiatie Bank- en Verzekeringswezen  | Fontys Hogeschool  | Basismodule, Consumptief krediet, Hypothecair krediet, Beleggen, Schadeverzekeringen, Levensverzekeringen  |
@@ -124,11 +132,16 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | MEAO studierichting Secretariaat met het (keuze)vak Assurantie  | Friesland College  | Basismodule, Schadeverzekeringen, Levensverzekeringen  |
 | MEAO, bedrijfsadministratieve studierichting (met tenminste het vak: Assurantie)  | Gemeentelijke Economische School ‘de Waegh’  | Basismodule, Schadeverzekeringen, Levensverzekeringen  |
 | MEAO Vrije studierichting met keuzevak Verzekeringsleer  | Gemeentelijke School voor Middelbaar Economisch en Administratief Onderwijs (Gemeentelijke Economische Scholengemeenschap)  | Basismodule, Schadeverzekeringen, Levensverzekeringen  |
+| Bedrijfseconomie met de (keuze)vakken Bankwezen, Verzekeringswezen  | Haagse Hogeschool  |  *Basismodule, Consumptief Krediet, Hypothecair Krediet, Schadeverzekeringen Levensverzekeringen, Beleggen A*   |
 | Management, Economie en Recht, keuzevak verzekeringswezen  | Haagse Hogeschool  | Basismodule,  Schadeverzekeringen,  Levensverzekeringen  |
+| Financiële Planning  | Hanze Service  |  *Basismodule,*    *Hypothecair Krediet,*    *Consumptief Krediet,*    *Levensverzekering en Beleggen*   |
+| Economisch-Juridische opleiding met afstudeerrichting Bank- en Verzekeringswezen (1,2 en 3)  | Hanzehogeschool Groningen  |  *Basismodule, Consumptief Krediet, Hypothecair Krediet, Schadeverzekeringen Levensverzekeringen, Beleggen A*   |
 | Financiële Planning  | Hanzehogeschool Groningen  | basismodule, hypothecair krediet, consumptief krediet, levensverzekeringen, beleggen  |
 | HEAO Management Economie en Recht: afstudeerrichting Bank- en Verzekeringswezen  | Hanzehogeschool Groningen  | basismodule, consumptief krediet, hypothecair krediet, schadeverzekeringen, levensverzekeringen, beleggen  |
 | Bachelor of Economics, opleiding Financial Services Management  | Hanzehogeschool Groningen  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen  |
 | Bedrijfseconomie met tenminste het keuzevak; Bank en Assurantie  | Hanzehogeschool Groningen  | Basismodule, Hypothecair Krediet, Consumptief Krediet, Schadeverzekeringen, Levensverzekeringen  |
+| Vastgoed en Makelaardij, specialisatie Vastgoed Financieren en Beleggen  | Hanzehogeschool Groningen  |  *Basismodule, Hypothecair Krediet*   |
+| Bedrijfseconomie met tenminste de vakken Assurantie en Beleggen  | Hanzehogeschool Groningen  |  *Basismodule,*    *Schadeverzekeringen,*    *Levensverzekeringen en Beleggen*   |
 | Bedrijfseconomie, afstudeerrichting Bank-en Verzekeringswezen  | HEAO Arnhem  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen A  |
 | Economisch Juridisch; keuzevak Bank- en Verzekeringsleer  | HEAO Arnhem  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen A  |
 | Bank- en Verzekeringswezen  | Heao Groningen  | basismodule, consumptief krediet, hypothecair krediet, schadeverzekeringen, levensverzekeringen, beleggen  |
@@ -140,6 +153,7 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Certificaat Leergang Financieel Planner  | Hogeschool Alkmaar  | Basismodule, Hypothecair Krediet, Consumptief Krediet, Levensverzekeringen, Beleggen A  |
 | Financial Service and Management; Bank- en Verzekeringswezen  | Hogeschool Amsterdam  | basismodule, consumptief krediet, hypothecair krediet, schadeverzekeringen, levensverzekeringen, beleggen  |
 | HEAO Studierichting Bank- en Verzekeringswezen  | Hogeschool Amsterdam  | basismodule, consumptief krediet, hypothecair krediet, schadeverzekeringen, levensverzekeringen, beleggen  |
+| Leergang Bank & Customer Service  | Hogeschool Brabant  |  *Basismodule,*    *Hypothecair Krediet,*    *Consumptief Krediet,*    *Levensverzekering en Beleggen*   |
 | Leergang Persoonlijke Financiële Planning  | Hogeschool Brabant Bedrijfsopleidingen  | basismodule, hypothecair krediet, consumptief krediet, levensverzekeringen, beleggen  |
 | Bedrijfseconomie: Bank- en Verzekeringswezen  | Hogeschool Drente  | basismodule, consumptief krediet, hypothecair krediet, beleggen, levensverzekeringen, schadeverzekeringen  |
 | HEAO Commerciële Economie, afstudeerrichting Bank- en Verzekeringswezen  | Hogeschool Drenthe  | Basismodule, Hypothecair Krediet, Consumptief Krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen A  |
@@ -159,10 +173,11 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Management Economie & Recht, Insurance & Financial Planning  | Hogeschool INHolland Haarlem  | basismodule, consumptief krediet, hypothecair krediet, schadeverzekeringen, levensverzekeringen, beleggen  |
 | Bachelor of Economics, opleiding Management, Economie en Recht (afstudeerrichting Financieel Management)  | Hogeschool INHOLLAND Haarlem  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen  |
 | Management, Economie en Recht (afstudeerrichting Financieel Management)  | Hogeschool INHOLLAND Haarlem  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen  |
-| --- | --- | --- |
 | Management Economie & Recht, Insurance & Financial Planning  | Hogeschool INHOLLAND Rotterdam  | Basismodule, Consumptief krediet, Hypothecair krediet, Beleggen, Schadeverzekeringen, Levensverzekeringen  |
 | Financial Services Management, CROHO code 34414  | Hogeschool INHOLLAND, Rotterdam  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen A  |
+| HEAO Management, Economie en Recht met (keuze)vak Bank- en verzekeringsleer  | Hogeschool Limburg  |  *Basismodule, Consumptief Krediet, Schadeverzekeringen Levensverzekeringen*   |
 | Management, Economie en Recht, bank- en verzekeringswezen  | Hogeschool Rotterdam  | basismodule, hypothecair krediet, consumptief krediet, schadeverzekeringen, levensverzekeringen, beleggen  |
+| Bedrijfseconomie, met tenminste het (keuze)vak Financiële Advisering  | Hogeschool voor Arnhem-Nijmegen  |  *Basismodule*   |
 | Voltijdse afstudeerrichting Bank- en Verzekeringswezen van de opleiding Bedrijfseconomie  | Hogeschool voor Economische Studies, Amsterdam  | Basismodule, Consumptief krediet, Hypothecair krediet, Beleggen, Schadeverzekeringen, Levensverzekeringen  |
 | Management, Economie en Recht (afstudeerrichting Bank- en Verzekeringswezen)  | Hogeschool voor Economische Studies, Amsterdam  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen  |
 | Economisch-Juridisch, Afstudeerrichting Bank- en Verzekeringswezen  | Hogeschool voor Economische Studies, Rotterdam  | Basismodule, Consumptief krediet, Hypothecair krediet, Beleggen, Schadeverzekeringen, Levensverzekeringen  |
@@ -180,9 +195,11 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Lange Opleiding Commerciële Dienstverlening (met tenminste de (keuze)vakken Assurantiën en Bank- en Verzekeringswezen)  | Horizon College  | Basismodule,  Consumptief Krediet,  Schadeverzekeringen  |
 | MBO sector Economie, afdeling Administratie, Lange opleiding, Commerciële Dienstverlening, differentiaties Bank- en Verzekeringswezen/Bedrijfscommunicatie/Public Relations  | Horizon College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
 | (Certificaat van deelname) Praktijkopleiding Assurantiën  | Huibers Instituut  | Basismodule  |
+| Management, Economie en Recht, specialisatie Insurance & Financial Planning  | Ichthus Hogeschool  |  *Basismodule,*    *Hypothecair Krediet,*    *Consumptief Krediet,*    *Schadeverzekeringen,*    *Levensverzekering en Beleggen*   |
 | Makelaardij o.z./Assurantiën/ Marketing  | INHOLLAND Select Studies  | Basismodule, Schadeverzekeringen, Levensverzekeringen  |
 | Financiële Dienstverlening Consumentenkrediet  | Innovam  | Basismodule, Consumptief Krediet  |
 | MBO Sector Economie; Afdeling Administratie Lange opleiding Commerciële Dienstverlening; Differentiatie Commercieel Medewerker Bank- en Verzekeringen  | Instituut voor Middelbaar Beroepsonderwijs Haagland  | Basismodule,Consumptief Krediet, Schadeverzekeringen  |
+| MEAO Bestuurlijke richting met tenminste het (keuze)vak Assurantie  | Katholieke MEAO Midden Utrecht  |  *Basismodule,*    *Schadeverzekeringen en*    *Levensverzekeringen*   |
 | Doctoraal Fiscale Economie (w.o. ondernemingsfinanciering)  | Katholieke Universiteit Brabant, Tilburg  | basismodule, beleggen  |
 | Fiscaal recht (w.o. verzekeringsrecht)  | Katholieke Universiteit Brabant, Tilburg  | basismodule, levensverzekeringen  |
 | Fiscaal-Juridische studierichting (w.o. verzekeringsrecht)  | Katholieke Universiteit Brabant, Tilburg  | basismodule, levensverzekeringen  |
@@ -190,9 +207,15 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Schriftelijke opleiding tot Pensioenconsulent  | Kluwer Opleidingen  | Basismodule, Levensverzekeringen  |
 | Commercieel medewerker Bank- Verzekeringswezen  | Landstede Zwolle  | basismodule, consumptief krediet, schadeverzekeringen  |
 | Diploma beroepsonderwijs Commercieel Medewerker Verzekeringen  | Landstede Zwolle  | basismodule, schadeverzekeringen  |
+| MBO sector Economie, afdeling Administratie, Lange opleiding Commerciële Dienstverlening met tenminste het vak Persoonlijke maatschappelijke beroepsvorming/Bank- en verzekeringswezen en Bank- en Verzekeringswezen  | MBO College Almere  |  *Basismodule,*    *Consumptief Krediet,*    *Schadeverzekeringen*   |
+| MBO sector Economie, afdeling Handel, opleiding Commerciële Dienstverlening Commercieel Medewerker Bank en Verzekeringen  | MBO College Arnhem  |  *Basismodule,*    *Consumptief Krediet,*    *Schadeverzekeringen*   |
 | Certificaat Assurantie  | MBO-College/Dag-Avond MEAO  | Basismodule,  Schadeverzekeringen  Levensverzekeringen  |
+| MBO sector Economie, afdeling Administratie, Lange opleiding Commerciële Dienstverlening differentiatie Commercieel medewerker Bank- en Verzekeringen met tenminste het vak Bank- en Verzekeringswezen  | MEAO College Amsterdam  |  *Basismodule,*    *Consumptief Krediet,*    *Schadeverzekeringen*   |
+| MEAO studierichting Secretariaat met tenminste het vak Assurantie  | Middelsee College  |  *Basismodule,*    *Schadeverzekeringen en*    *Levensverzekeringen*   |
 | Beleggings- en Financieel Analyst  | Morreau Instituut  | basismodule, beleggen  |
 | MBO Commerciële Dienstverlening met uitstroom Bank- en Verzekeringswezen  | Neder-Veluwe College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
+| ABN-AMRO Leergang Particulier, Integraal Financieel Advies  | Nibe-SVV  |  *Basismodule, Consumptief Krediet, Hypothecair Krediet, Levensverzekeringen, Beleggen A*   |
+| ABN-AMRO Leergang Particulier, Leergang Preferred Banking  | Nibe-SVV  |  *Basismodule, Consumptief Krediet, Levensverzekeringen, Beleggen A*   |
 | Bankleer 1  | NIBE/NIBE-SVV  | basismodule  |
 | Bankleer 2  | NIBE/NIBE-SVV  | basismodule  |
 | Basiskennis Bankproducten  | NIBE/NIBE-SVV  | basismodule  |
@@ -202,6 +225,7 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Certificaat AXA branchecursus Levensverzekering  | NIBE-SVV  | Basismodule, Levensverzekeringen  |
 | Basisopleiding Financiële Dienstverlening  | Nibe-SVV  | Basismodule  |
 | DSI Financieel Adviseur  | Nibe-SVV  | Basismodule, Beleggen  |
+| Opleiding Financieel Adviseur  | Nibe-SVV  |  *Basismodule*   |
 | RVS Leven en Schade  | Nibe-SVV  | Basismodule  |
 | Consumptieve Kredietverlening  | NIBE/NIBE-SVV  | basismodule, consumptief krediet  |
 | Effecten  | NIBE/NIBE-SVV  | basismodule, beleggen  |
@@ -225,6 +249,8 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Management economie en recht; afstudeerrichting bank- en verzekeringswezen  | Noordelijke Hogeschool Leeuwarden  | Basismodule, Hypothecair Krediet, Consumptief Krediet, Schadeverzekeringen, Levensverzekeringen  |
 | Financial Service Management  | Noordelijke Hogeschool Leeuwarden  | Basismodule,  Hypothecair Krediet,  Consumptief Krediet, Schadeverzekeringen, Levensverzekeringen  Beleggen A  |
 | Management Economie en Recht met de (keuze)vakken Verzekeringsleer, Verzekeringsleer 2, Bankleer 1 en 2  | Noordelijke Hogeschool Leeuwarden  | Basismodule, Consumptief Krediet Hypothecair Krediet, Schadeverzekeringen, Levensverzekeringen en Beleggen A  |
+| Commerciële Economie afstudeerrichting Bank en Verzekeringswezen met tenminste de vakken Bankleer 1 en 2 en Verzekeringsleer 1 en 2  | Noordelijke Hogeschool Leeuwarden  |  *Basismodule,*    *Hypothecair Krediet,*    *Consumptief Krediet,*    *Schadeverzekeringen,*    *Levensverzekering en Beleggen*   |
+| Management, Economie en Recht afstudeervariant Financial Service Management duaal met tenminste de (keuze)vakken Inleiding Bankbedrijf, Assurantie Particulieren en Bedrijven, Financiering Particulieren, en Spaar-, Beleggings- & Vermogensadvisering  | Noordelijke Hogeschool Leeuwarden  |  *Basismodule,*    *Hypothecair Krediet,*    *Consumptief Krediet,*    *Schadeverzekeringen,*    *Levensverzekering en Beleggen*   |
 | MBO sector Economie, Afd. Administratie Lange opleiding Commerciële dienstverlening met tenminste het vak Bank- en Verzekeringswezen  | Nova College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
 | Leergang Financiele Planning voor Private Bankers  | Offermans & Van Gemert  | basismodule, consumptief krediet, hypothecair krediet, levensverzekeringen, beleggen  |
 | MBO Sector Economie, Afd. Administratie, Lange opleiding Commerciële Dienstverlening met tenminste de vakken Bank- en Verzekeringswezen  | Onderwijsgroep De Wouden  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
@@ -234,9 +260,14 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Commerciële Dienstverlening, differentiatie Commercieel Medewerker Bank - en Verzekeringswezen, met tenminste de vakken PMB/BVW Bank- en Verzekeringswezen als ook UCD/BVW Bank- en Verzekeringswezen  | Regionaal Opleidingen Centrum Nijmegen e.o.  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
 | MEAO; Certificaat Assurantie  | Regionaal Opleidingen Centrum (ROC) Utrecht  | Basismodule, Schadeverzekeringen, Levensverzekeringen  |
 | Middelbaar Middenstandsonderwijs, C-differentiatie; met tenminste het vak Assurantie  | Rhijn College, Van  | Basismodule, Schadeverzekeringen, Levensverzekeringen  |
+| Doctoraal Examen Fiscaal Recht met tenminste het vak Financiering  | Rijksuniversiteit Groningen  |  *Basismodule*   |
 | Nederlands Recht, richting Economisch Publiek- en Bedrijfsrecht met keuzevak Verzekeringsrecht  | Rijksuniversiteit Utrecht  | Basismodule  |
+| MBO sector Economie, afdeling Administratie, Lange opleiding Commerciële Dienstverlening differentiatie Commerciële dienstverlening Bank- en Verzekeringswezen met tenminste het vak Bank- en Verzekeringswezen en Persoonlijke maatschappelijke beroepsvorming/Bank- en verzekeringswezen  | ROC Gelders Rivierengebied-Rivierenland College  |  *Basismodule,*    *Consumptief Krediet,*    *Schadeverzekeringen*   |
 | MBO Sector Economie; Afdeling Administratie Lange opleiding Commerciële Dienstverlening; differentiatie Bank- en verzekeringswezen  | ROC Twente Plus, locatie Thorbecke College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
 | MBO sector Economie, Afd. Administratie Lange opleiding Commerciële dienstverlening, differentiatie Commercieel medewerker Bank- en Verzekeringswezen  | ROC Zadkine  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
+| Management, Economie en Recht  met tenminste de vakken Bankleer, Bedrijfsfinanciering en Bankleer, Budgetteren, Persoonlijke financiële planning en pensioen, Risicoanalyse, Algemene Voorwaarden, Belastingrecht, Privaat- en publiekrecht, Sociale Zekerheid en Sparen en Beleggen  | Saxion Hogescholen  |  *Basismodule,*    *Consumptief Krediet,*    *Beleggen*   |
+| Fiscale Economie met tenminste het vak Bankleer-A12, de vrije keuzevakken 03 PBE01 Beleggingen, 04 PKR01 Kredietverlening en A-01 PPA01 Pensioenen en Assurantie  | Saxion Hogescholen  |  *Basismodule,*    *Consumptief Krediet,*    *Beleggen*   |
+| Techniek Levensverzekering  | SEA  |  *Basismodule, Levensverzekeringen*   |
 | Assurantie A  | SEA/SEFD  | basismodule, schadeverzekeringen, levensverzekeringen  |
 | Assurantiebezorger A  | SEA/SEFD  | basismodule, schadeverzekeringen, levensverzekeringen  |
 | Assurantiebemiddeling A  | SEA/SEFD  | basismodule, schadeverzekeringen, levensverzekeringen  |
@@ -257,7 +288,9 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | Inleiding Verzekeringsbedrijf  | Stichting Assurantie Cursussen (SAVA)  | Basismodule  |
 | Management, Economie en Recht, afstudeerrichting Financieel Management  | Stichting Hogeschool Haarlem  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen  |
 | Master of Financial Planning  | TIAS Business School  | basismodule, hypothecair krediet, consumptief krediet, levensverzekeringen, beleggen  |
-| Combinaties diploma’s  | --- | --- |
+| MEAO Commerciële studierichting met tenminste het vak Assurantie  | Titus College  |  *Basismodule,*    *Schadeverzekeringen en*    *Levensverzekeringen*   |
+| Doctoraal Economie met tenminste de (keuze)vakken Computer boekhouden, Financial & Management Accounting, Financiële Rekenkunde, Financiering I en II, Geld- en bankwezen en Economie van de collectieve sector, Inleiding recht en Voortgezet boekhouden  | Vrije Universiteit  |  *Consumptief Krediet*   |
+|  *Combinaties diploma’s*   | --- | --- |
 | Verzekeringsleer 1 +  | NIBE/NIBE-SVV  | basismodule, schadeverzekeringen  |
 | Verzekeringsleer 2  | NIBE/NIBE-SVV  |
 | --- | --- |

@@ -2,159 +2,184 @@
 
 ##Verordening van het Productschap Pluimvee en Eieren van 21 oktober 2004, houdende de vaststelling van een bestemmingsheffing ten behoeve van het veeziektenfonds PPE voor het jaar 2005 (Verordening bestemmingsheffingen veeziektenfonds (PPE) 2005)
 
-Het bestuur van het Productschap Pluimvee en Eieren;  
+Het bestuur van het Productschap Pluimvee en Eieren;
 Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikelen 6](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [8 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
 
 Gezien de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md);
-Besluit:     
-### 1  
+Besluit:  
+###1 
 
 ####Begripsbepalingen
 
-### Artikel  1  
+Materieel uitgewerkt per 21-05-2006 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+###Artikel 1 
+Materieel uitgewerkt per 21-05-2006 
 
-### 2  
+Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).
+
+###2 
 
 ####Pluimveevleessector
 
-### Artikel  2  
+Materieel uitgewerkt per 21-05-2006 
 
-1.  De ondernemer die in het kalenderjaar 2005 broedeieren, bestemd om hieruit gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in tegen het in het tweede en derde lid bepaalde tarief.   
-2.  De in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van fok- en vermeerderingspluimvee:  
+###Artikel 2 
+Materieel uitgewerkt per 21-05-2006 
+
+1. De ondernemer die in het kalenderjaar 2005 broedeieren, bestemd om hieruit gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in tegen het in het tweede en derde lid bepaalde tarief.
+2. De in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van fok- en vermeerderingspluimvee:
 
 | --- | --- |
 |:---|:---|
-| a. voor vleesrassen kippen  | € 0,00500 per ingelegd broedei,  |
+|a. voor vleesrassen kippen |€ 0,00500 per ingelegd broedei, |
 
-3.  De in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van gebruikspluimvee:  
-
-| --- | --- | --- |
-|:---|:---|:---|
-| a.  | voor vleesrassen kippen  | € 0,00034 per ingelegd broedei,  |
-| b.  | voor kalkoenen  | € 0,00594 per ingelegd broedei.  |
-
-### Artikel  3  
-
-1.  De ondernemer die eendagskuikens plaatst om deze op te fokken tot (groot)moederdieren is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief over de aantallen door hem met dat doel in het kalenderjaar 2005 geplaatste eendagskuikens.   
-2.  De in het eerste lid bedoelde heffing bedraagt ingeval van opfok (groot)moederdieren:  
+3. De in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van gebruikspluimvee:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| a.  | voor vleesrassen kippen  | € 0,02309 per eendagskuiken,  |
-| b.  | voor kalkoenen  | € 0,06796 per eendagskuiken.  |
+|a. |voor vleesrassen kippen |€ 0,00034 per ingelegd broedei, |
+|b. |voor kalkoenen |€ 0,00594 per ingelegd broedei. |
 
-### Artikel  4  
+###Artikel 3 
+Materieel uitgewerkt per 21-05-2006 
 
-1.  De ondernemer die moederdieren houdt is aan het productschap een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief ten behoeve van het Veeziektenfonds PPE over de door hem in het kalenderjaar 2005 gehouden moederdieren.   
-2.  De in het eerste lid bedoelde heffing bedraagt:  
+1. De ondernemer die eendagskuikens plaatst om deze op te fokken tot (groot)moederdieren is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief over de aantallen door hem met dat doel in het kalenderjaar 2005 geplaatste eendagskuikens.
+2. De in het eerste lid bedoelde heffing bedraagt ingeval van opfok (groot)moederdieren:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| a.  | voor vleesrassen kippen  | € 0,109 per moederdier,  |
-| b.  | voor kalkoenen  | € 0,14634 per moederdier.  |
+|a. |voor vleesrassen kippen |€ 0,02309 per eendagskuiken, |
+|b. |voor kalkoenen |€ 0,06796 per eendagskuiken. |
 
-3.  De in het eerste lid bedoelde heffing is éénmaal per productieperiode van een moederdier verschuldigd: 
+###Artikel 4 
+Materieel uitgewerkt per 21-05-2006 
 
-a. indien het moederdieren van kippen betreft: 
+1. De ondernemer die moederdieren houdt is aan het productschap een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief ten behoeve van het Veeziektenfonds PPE over de door hem in het kalenderjaar 2005 gehouden moederdieren.
+2. De in het eerste lid bedoelde heffing bedraagt:
 
-1. zodra de moederdieren zijn geplaatst, of  
+| --- | --- | --- |
+|:---|:---|:---|
+|a. |voor vleesrassen kippen |€ 0,109 per moederdier, |
+|b. |voor kalkoenen |€ 0,14634 per moederdier. |
 
-2. zodra de moederdieren de leeftijd van 20 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong in productie worden genomen, of  
+3. De in het eerste lid bedoelde heffing is éénmaal per productieperiode van een moederdier verschuldigd:
 
-3. zodra de moederdieren in productie genomen zijn, in het geval dat zij wederom in productie worden genomen;    
+a.indien het moederdieren van kippen betreft:
 
-b. indien het moederdieren van kalkoenen betreft: 
+1.zodra de moederdieren zijn geplaatst, of
 
-1. zodra de moederdieren zijn geplaatst, of  
+2.zodra de moederdieren de leeftijd van 20 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong in productie worden genomen, of
 
-2. zodra de moederdieren de leeftijd van 29 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong als zodanig in productie worden genomen, of  
+3.zodra de moederdieren in productie genomen zijn, in het geval dat zij wederom in productie worden genomen;
 
-3. zodra de moederdieren in productie genomen zijn, in het geval zij wederom in productie worden genomen.       
+b.indien het moederdieren van kalkoenen betreft:
 
-### Artikel  5  
+1.zodra de moederdieren zijn geplaatst, of
 
-1.  De ondernemer die vleeskuikens houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief over de door hem in het kalenderjaar 2005 opgezette vleeskuikens.   
-2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,00474 per opgezet vleeskuiken.   
+2.zodra de moederdieren de leeftijd van 29 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong als zodanig in productie worden genomen, of
 
-### Artikel  6  
+3.zodra de moederdieren in productie genomen zijn, in het geval zij wederom in productie worden genomen.
 
-De ondernemer die vleeskalkoenen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2005 opgezette vleeskalkoenen van tegen een tarief van € 0,04607 per vleeskalkoen.  
+###Artikel 5 
+Materieel uitgewerkt per 21-05-2006 
 
-### 3  
+1. De ondernemer die vleeskuikens houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief over de door hem in het kalenderjaar 2005 opgezette vleeskuikens.
+2. Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,00474 per opgezet vleeskuiken.
+
+###Artikel 6 
+Materieel uitgewerkt per 21-05-2006 
+
+De ondernemer die vleeskalkoenen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2005 opgezette vleeskalkoenen van tegen een tarief van € 0,04607 per vleeskalkoen.
+
+###3 
 
 ####Legsector
 
-### Artikel  7  
+Materieel uitgewerkt per 21-05-2006 
 
-1.  De ondernemer die in het kalenderjaar 2005 broedeieren, bestemd om hieruit fok- en vermeerderingspluimvee of gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief.   
-2.  De in het eerste lid bedoelde heffing bedraagt voor broedeieren: 
+###Artikel 7 
+Materieel uitgewerkt per 21-05-2006 
 
-a. voor legrassen kippen voor het verkrijgen van fok- en vermeerderingspluimvee € 0,025 per ingelegd broedei,  
+1. De ondernemer die in het kalenderjaar 2005 broedeieren, bestemd om hieruit fok- en vermeerderingspluimvee of gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief.
+2. De in het eerste lid bedoelde heffing bedraagt voor broedeieren:
 
-b. voor legrassen kippen voor het verkrijgen van gebruikspluimvee € 0,00199 per ingelegd broedei.     
+a.voor legrassen kippen voor het verkrijgen van fok- en vermeerderingspluimvee € 0,025 per ingelegd broedei,
 
-### Artikel  8  
+b.voor legrassen kippen voor het verkrijgen van gebruikspluimvee € 0,00199 per ingelegd broedei.
 
-1.  De ondernemer die eendagskuikens plaatst om deze op te fokken tot (groot)moederdieren of gebruikspluimvee is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief over de aantallen door hem met dat doel in het kalenderjaar 2005 geplaatste eendagskuikens.   
-2.  De in het eerste lid bedoelde heffing bedraagt: 
+###Artikel 8 
+Materieel uitgewerkt per 21-05-2006 
 
-a. voor legrassen kippen ingeval van opfok gebruikspluimvee € 0,00981 per eendagskuiken,  
+1. De ondernemer die eendagskuikens plaatst om deze op te fokken tot (groot)moederdieren of gebruikspluimvee is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief over de aantallen door hem met dat doel in het kalenderjaar 2005 geplaatste eendagskuikens.
+2. De in het eerste lid bedoelde heffing bedraagt:
 
-b. voor legrassen kippen ingeval van opfok (groot)moederdieren € 0,02900 per eendagskuiken.     
+a.voor legrassen kippen ingeval van opfok gebruikspluimvee € 0,00981 per eendagskuiken,
 
-### Artikel  9  
+b.voor legrassen kippen ingeval van opfok (groot)moederdieren € 0,02900 per eendagskuiken.
 
-1.  De ondernemer die moederdieren voor legrassen kippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2005 gehouden moederdieren tegen een tarief van € 0,11196 per moederdier.   
-2.  De in het eerste lid bedoelde heffing is éénmaal per productieperiode van een moederdier verschuldigd: 
+###Artikel 9 
+Materieel uitgewerkt per 21-05-2006 
 
-a. zodra de moederdieren zijn geplaatst, of  
+1. De ondernemer die moederdieren voor legrassen kippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2005 gehouden moederdieren tegen een tarief van € 0,11196 per moederdier.
+2. De in het eerste lid bedoelde heffing is éénmaal per productieperiode van een moederdier verschuldigd:
 
-b. zodra de moederdieren de leeftijd van 20 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong in productie worden genomen, of  
+a.zodra de moederdieren zijn geplaatst, of
 
-c. zodra de moederdieren in productie genomen zijn, in het geval dat zij wederom in productie worden genomen.     
+b.zodra de moederdieren de leeftijd van 20 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong in productie worden genomen, of
 
-### Artikel  10  
+c.zodra de moederdieren in productie genomen zijn, in het geval dat zij wederom in productie worden genomen.
 
-1.  De ondernemer die legkippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2005 gehouden legkippen tegen het tarief van € 0,06445 per legkip.   
-2.  De in het eerste lid is gedurende de gehele productieperiode van een legkip éénmaal verschuldigd en wel zodra de legkippen de leeftijd van 18 weken hebben bereikt, onderscheidenlijk, indien de legkippen na deze leeftijd als zodanig zijn ontvangen, zodra zij zijn ontvangen.   
+###Artikel 10 
+Materieel uitgewerkt per 21-05-2006 
 
-### 4  
+1. De ondernemer die legkippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2005 gehouden legkippen tegen het tarief van € 0,06445 per legkip.
+2. De in het eerste lid is gedurende de gehele productieperiode van een legkip éénmaal verschuldigd en wel zodra de legkippen de leeftijd van 18 weken hebben bereikt, onderscheidenlijk, indien de legkippen na deze leeftijd als zodanig zijn ontvangen, zodra zij zijn ontvangen.
+
+###4 
 
 ####Loopvogels
 
-### Artikel  11  
+Materieel uitgewerkt per 21-05-2006 
 
-1.  De ondernemer die loopvogels houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief over de door hem in het kalenderjaar 2005 gehouden loopvogels.   
-2.   Dit lid is nog niet in werking getreden.    
-3.  De in het tweede lid, onderdeel a. bedoelde heffing is verschuldigd op het moment van het afleveren van het eendagskuiken, dan wel, indien de loopvogel het bedrijf van de ondernemer niet verlaat, op het moment waarop het kuiken 72 uur oud is geworden.   
-4.  De in het tweede lid, onderdelen b. en c., bedoelde heffing is per kwartaal verschuldigd over het aantal loopvogels dat op 1 januari, 1 april, 1 juli respectievelijk 1 oktober op het bedrijf van de ondernemer aanwezig is.   
+###Artikel 11 
+Materieel uitgewerkt per 21-05-2006 
 
-### 5  
+1. De ondernemer die loopvogels houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd tegen het in het tweede lid bepaalde tarief over de door hem in het kalenderjaar 2005 gehouden loopvogels.
+2. Dit lid is nog niet in werking getreden.
+3. De in het tweede lid, onderdeel a. bedoelde heffing is verschuldigd op het moment van het afleveren van het eendagskuiken, dan wel, indien de loopvogel het bedrijf van de ondernemer niet verlaat, op het moment waarop het kuiken 72 uur oud is geworden.
+4. De in het tweede lid, onderdelen b. en c., bedoelde heffing is per kwartaal verschuldigd over het aantal loopvogels dat op 1 januari, 1 april, 1 juli respectievelijk 1 oktober op het bedrijf van de ondernemer aanwezig is.
+
+###5 
 
 ####Overige bepalingen
 
-### Artikel  12  
+Materieel uitgewerkt per 21-05-2006 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+###Artikel 12 
+Materieel uitgewerkt per 21-05-2006 
 
-### 6  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).
+
+###6 
 
 ####Slotbepalingen
 
-### Artikel  13  
+Materieel uitgewerkt per 21-05-2006 
 
-1.  Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen veeziektenfonds (PPE) 2005.   
-2.  Deze verordening treedt, met uitzondering van artikel 11, tweede lid, onderdelen a., b. en c., in werking met ingang van 1 januari 2005.   
-3.  Artikel 11, tweede lid, onderdelen a., b. en c., treden in werking op een door het bestuur bij besluit nader te bepalen tijdstip, dat voor deze onderdelen verschillend kan worden vastgesteld.   
-4.  Deze verordening wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
+###Artikel 13 
+Materieel uitgewerkt per 21-05-2006 
 
-Zoetermeer 
-21 oktober 2004    
+1. Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen veeziektenfonds (PPE) 2005.
+2. Deze verordening treedt, met uitzondering van artikel 11, tweede lid, onderdelen a., b. en c., in werking met ingang van 1 januari 2005.
+3. Artikel 11, tweede lid, onderdelen a., b. en c., treden in werking op een door het bestuur bij besluit nader te bepalen tijdstip, dat voor deze onderdelen verschillend kan worden vastgesteld.
+4. Deze verordening wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.
 
-J.J. Ramekers  
-voorzitter  
+Zoetermeer
+21 oktober 2004
 
-S.B.M. Jongerius  
-secretaris    Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 6 januari 2005 en door de Minister van Landbouw, Natuur en Voedselkwaliteit bij beschikking van 19 januari 2005, nr. TRCJZ/2004/5977.    
+J.J.Ramekers
+voorzitter
+
+S.B.M.Jongerius
+secretarisGoedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 6 januari 2005 en door de Minister van Landbouw, Natuur en Voedselkwaliteit bij beschikking van 19 januari 2005, nr. TRCJZ/2004/5977.  

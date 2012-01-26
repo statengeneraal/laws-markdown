@@ -8,35 +8,43 @@ Het Uitvoeringsinstituut werknemersverzekeringen,  Besluit:
 
 ####: Wettelijk kader
 
+Materieel uitgewerkt per 02-08-2013 
+
 De normbedragen voor voorzieningen, als bedoeld in: 
 
-– [artikelen 34a](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [35 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md),  
+– [artikelen 34a](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)en [35 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md),  
 
 – [artikel 2:22](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [2:23 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md),  
 
-–  [artikel 19a van de Wet overige OCW-subsidies](../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md)   
+– [artikel 19a van de Wet overige OCW-subsidies](../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md)  
 
 – [artikelen 5](../../../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [6](../../../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [7](../../../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [13](../../../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [14](../../../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [15](../../../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md) en [15a van het Reïntegratiebesluit](../../../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md)  
 
-– [artikelen 5](../../../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md), [6](../../../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md) en [8 van het Besluit onderwijsvoorzieningen voor jongeren met een handicap](../../../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md)   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.  
+– [artikelen 5](../../../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md), [6](../../../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md) en [8 van het Besluit onderwijsvoorzieningen voor jongeren met een handicap](../../../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md)   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit. 
 
 ### Artikel  2  
 
 ####: Kilometervergoeding
 
+Materieel uitgewerkt per 02-08-2013 
+
 1.  De kilometervergoedingen volgens de normbedragen C11, C13, C22 en C25 worden verstrekt op basis van de aantallen kilometers, verkregen volgens de ANWB-methode ‘snelste route’, op basis van volledige postcodes en per enkele reis afgerond naar boven op de eerstvolgende hele kilometer.   
-2.  De aftrek, als bedoeld onder de normbedragen C26-I en C26-II, wordt vastgesteld op de wijze als in het eerste lid aangegeven.   
+2.  De aftrek, als bedoeld onder de normbedragen C26-I en C26-II, wordt vastgesteld op de wijze als in het eerste lid aangegeven.  
 
 ### Artikel  3  
 
 ####: Taxikostenvergoeding
 
+Materieel uitgewerkt per 02-08-2013 
+
 1.  Vergoeding volgens het normbedrag C31 wordt verstrekt als de cliënt niet méér dan 100 meter kan lopen en voor iedere verplaatsing buitenshuis gebruik moet maken van een taxi.   
-2.  De combinatievergoeding volgens het normbedrag C34 wordt verstrekt als de cliënt voor het leefvervoer niet uitsluitend is aangewezen op een taxi.   
+2.  De combinatievergoeding volgens het normbedrag C34 wordt verstrekt als de cliënt voor het leefvervoer niet uitsluitend is aangewezen op een taxi.  
 
 ### Artikel  4  
 
 ####: Uurvergoeding doventolken
+
+Materieel uitgewerkt per 02-08-2013 
 
 1.  De uurvergoeding volgens de normbedragen E17-I en E17-III wordt uitsluitend verstrekt voor feitelijke tolkactiviteit en bij een minimale inzet van één kwartier in alle voorkomende situaties. Afronding van de te vergoeden getolkte tijd vindt plaats naar boven op hele kwartieren.   
 2.  Voor opdrachten in het onderwijs wordt de uurvergoeding als volgt gedifferentieerd in percentages van de normbedragen E17-I en E17-III: 
@@ -56,19 +64,23 @@ b. 130% op zaterdag tussen 06.00 en 22.00 uur;
 c. 140% op maandag tot en met zaterdag tussen 22.00 en 06.00 uur;  
 
 d. 145% op zondagen en algemeen erkende feest- of gedenkdagen.   Opdrachten, die in het buitenland plaatsvinden, worden steeds op basis van 100% vergoed.   
-5.  De werkelijk getolkte tijd, vergoed volgens het eerste tot en met vierde lid, komt niet voor dubbele vergoeding in aanmerking.   
+5.  De werkelijk getolkte tijd, vergoed volgens het eerste tot en met vierde lid, komt niet voor dubbele vergoeding in aanmerking.  
 
 ### Artikel  5  
 
 ####: Reisvergoeding doventolken en intermediaire activiteiten
 
+Materieel uitgewerkt per 02-08-2013 
+
 1.  Onder reisvergoeding wordt verstaan de vergoeding van de reistijd die als werktijd van de tolk wordt beschouwd, te verhogen met de fiscale norm onkostenvergoeding per kilometer.   
 2.  De reisvergoedingen volgens de normbedragen E17-A1, E17-A3, E17-C2 en S1-R worden verstrekt op basis van de aantallen werkelijk gereisde kilometers, verkregen volgens de ANWB-methode ‘snelste route’, op basis van volledige postcodes en per enkele reis afgerond naar boven op de eerstvolgende hele kilometer.   
-3.  De vergoeding, bedoeld in het tweede lid, wordt verstrekt bij een reisafstand op basis van minimaal één verschil in postcode en van maximaal 220 kilometer v.v. In het geval van cliënten, die doof én blind dan wel doof én zeer slechtziend zijn, geldt geen maximum en mag worden omgereden voor het ophalen en/of wegbrengen van deze cliënt.   
+3.  De vergoeding, bedoeld in het tweede lid, wordt verstrekt bij een reisafstand op basis van minimaal één verschil in postcode en van maximaal 220 kilometer v.v. In het geval van cliënten, die doof én blind dan wel doof én zeer slechtziend zijn, geldt geen maximum en mag worden omgereden voor het ophalen en/of wegbrengen van deze cliënt.  
 
 ### Artikel  6  
 
 ####: Afwijkende vergoeding doventolkopdrachten
+
+Materieel uitgewerkt per 02-08-2013 
 
 1.  Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in artikel 4, eerste tot en met vierde lid, en artikel 5, en wordt op basis van maatwerk een passende vergoeding verstrekt.   
 2.  In afwijking van artikel 4, vijfde lid, wordt getolkte tijd dubbel vergoed indien er sprake is van teamtolken, waarbij maximaal twee doventolken tegelijkertijd voor één cliënt optreden én indien wordt aangetoond dat is voldaan aan de volgende voorwaarden: 
@@ -82,27 +94,33 @@ c. van tevoren staat vast dat het achtereenvolgens inzetten van verschillende to
 d. de opdrachtduur wordt niet onderbroken door lunchpauzes of koffiepauzes (de laatste van een kwartier of langer).   Voor opdrachten, die in het buitenland plaatsvinden, wordt geen dubbele vergoeding verstrekt.   
 3.  In afwijking van artikel 5, derde lid, worden meer kilometers dan 220 vergoed indien wordt aangetoond dat van het benodigde type doventolk er te weinig op redelijke afstand van de opdrachtlocatie woonachtig zijn.   
 4.  Een aanvraag voor vergoeding van tolkopdrachten als bedoeld in het eerste en tweede lid dient zo vroeg mogelijk, doch uiterlijk drie weken voorafgaand aan de datum van uitvoering te zijn ingediend. Voor wat betreft het bepaalde in het derde lid is deze termijn twee weken.   
-5.  Het bepaalde in het vierde lid is voor het eerst van toepassing op aanvragen die betrekking hebben op opdrachten die later dan zeven weken na de inwerkingtreding van dit besluit worden uitgevoerd.   
+5.  Het bepaalde in het vierde lid is voor het eerst van toepassing op aanvragen die betrekking hebben op opdrachten die later dan zeven weken na de inwerkingtreding van dit besluit worden uitgevoerd.  
 
 ### Artikel  7  
 
 ####: Annulering van doventolkopdrachten
 
+Materieel uitgewerkt per 02-08-2013 
+
 1.  Een opdracht, die aantoonbaar binnen 24 uur voor het afgesproken tijdstip van uitvoering wordt geannuleerd, wordt voor 50% van de geldende norm vergoed, tenzij de annulering aan de doventolk moet worden toegeschreven, in welk geval geen vergoeding wordt verstrekt.   
 2.  Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren, waarbij het geheel van getolkte tijd en geannuleerde tijd de oorspronkelijke opdrachtlengte niet mag overtreffen.   
-3.  De reisvergoeding van geannuleerde opdrachten wordt niet vergoed, ook in de situatie dat het bericht van de annulering de tolk te laat of in het geheel niet heeft bereikt.   
+3.  De reisvergoeding van geannuleerde opdrachten wordt niet vergoed, ook in de situatie dat het bericht van de annulering de tolk te laat of in het geheel niet heeft bereikt.  
 
 ### Artikel  8  
 
 ####: Naamgeving besluit
 
-Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2 <sup>e</sup> halfjaar 2011.  
+Materieel uitgewerkt per 02-08-2013 
+
+Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2<sup>e</sup> halfjaar 2011. 
 
 ### Artikel  9  
 
 ####: Datum inwerkingtreding besluit
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2011.  
+Materieel uitgewerkt per 02-08-2013 
+
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2011. 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.   
 
 Amsterdam 
@@ -120,9 +138,9 @@ Normbedragen voorzieningen met ingang van 1 juli 2011
 | C11  | – in bruikleen  | € 0,10  | € 0,13  |
 | C13  | – in eigen bezit  | € 0,42  | € 0,46  |
 | --- |  *Afweging taxivervoer t.o.v. (bruikleen)auto*   |
-| C18-IA  | normbedrag *(inclusief BTW)*  | € 25.100,–  | € 25.100,–  |
+| C18-IA  | normbedrag *(inclusief BTW)*   | € 25.100,–  | € 25.100,–  |
 | --- |  *Referentieauto*   |
-| C18-II  | normbedrag referentieauto *(aanschafbedrag inclusief BTW)*  | € 16.800,–  | € 16.800,–  |
+| C18-II  | normbedrag referentieauto *(aanschafbedrag inclusief BTW)*   | € 16.800,–  | € 16.800,–  |
 | C18-III  | eigen bijdrage verzekeringskosten eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand  | € 32,35  | € 32,35  |
 | C18-IV  | eigen bijdrage motorrijtuigenbelasting eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand  | € 29,35  | € 29,35  |
 | --- |  *Inkomensgrenzen vervoersvoorziening*   |
@@ -176,5 +194,5 @@ Normbedragen voorzieningen met ingang van 1 juli 2011
 | S1-R  | vergoeding reizen, bedrag per kilometer  | € 0,28  | € 0,28  |
 | --- |  *Voorzieningen voor startende zelfstandigen*   |
 | Z-1  | omzet norm startende zelfstandige  | € 77.600,–  | € 77.700,–  |
-| Z-2  | begeleiding van startende zelfstandige vòòr en na de start (*bedrag vergoeding inclusief BTW)*  | € 3.450,–  | € 3.450,–  |
+| Z-2  | begeleiding van startende zelfstandige vòòr en na de start (*bedrag vergoeding inclusief BTW)*   | € 3.450,–  | € 3.450,–  |
 

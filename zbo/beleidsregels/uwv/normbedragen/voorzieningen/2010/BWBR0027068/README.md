@@ -5,6 +5,7 @@
 Het Uitvoeringsinstituut werknemersverzekeringen,  Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 19-01-2012 
 
 De normbedragen voor voorzieningen, als bedoeld in: 
 
@@ -18,14 +19,16 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 – [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en  
 
-– [artikel 19a van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.  
+– [artikel 19a van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 19-01-2012 
 
 1.  De kilometervergoedingen volgens de codes C11, C13, C22 en C25 worden verstrekt op basis van de aantallen kilometers afgerond naar boven, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.   
-2.  De aftrek, als bedoeld onder de codes C26-I en C26-II, wordt vastgesteld op basis van de aantallen kilometers afgerond naar boven, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.   
+2.  De aftrek, als bedoeld onder de codes C26-I en C26-II, wordt vastgesteld op basis van de aantallen kilometers afgerond naar boven, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 19-01-2012 
 
 1.  De uurvergoeding met code E17 wordt uitsluitend verstrekt voor feitelijke tolkactiviteit en bij een minimale inzet van de tolk van: 
 
@@ -46,29 +49,33 @@ d. 145% op zondagen en algemeen erkende feest- of gedenkdagen.
 5.  Kloktijd, vergoed volgens het eerste tot en met vierde lid, komt niet voor dubbele vergoeding in aanmerking   
 6.  Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in het eerste en derde lid, en op basis van maatwerk een passende vergoeding verstrekt   
 7.  In andere bijzondere gevallen kan worden afgeweken van het bepaalde in het vierde en het vijfde lid.   
-8.  Voor de toepassing van het zevende lid is een nadere beslissing door UWV noodzakelijk, voorafgaand aan de uitvoering van de desbetreffende tolkopdracht.   
+8.  Voor de toepassing van het zevende lid is een nadere beslissing door UWV noodzakelijk, voorafgaand aan de uitvoering van de desbetreffende tolkopdracht.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 19-01-2012 
 
 1.  Normbedrag C31 wordt verstrekt als men niet meer dan 100 meter kan lopen en voor iedere verplaatsing buitenshuis gebruik moet maken van een taxi.   
-2.  De combinatievergoeding C34 wordt verstrekt als men voor het leefvervoer niet uitsluitend is aangewezen op een taxi.   
+2.  De combinatievergoeding C34 wordt verstrekt als men voor het leefvervoer niet uitsluitend is aangewezen op een taxi.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 19-01-2012 
 
-Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2010.  
+Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2010. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 19-01-2012 
 
-Dit besluit treedt in werking met ingang van 1 januari 2010. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2009, treedt dit besluit in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2010.  
+Dit besluit treedt in werking met ingang van 1 januari 2010. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2009, treedt dit besluit in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2010. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 15 december 2009   
 
-Voorzitter Raad van bestuurUWV, 
-J.M.Linthorst  
+Voorzitter Raad van bestuur UWV, 
+J.M. Linthorst    
 
 ### Bijlage  
+Materieel uitgewerkt per 19-01-2012 
 
 Normbedragen voorzieningen met ingang van 1 januari 2010  
 
@@ -80,9 +87,9 @@ Normbedragen voorzieningen met ingang van 1 januari 2010
 | C11  | – in bruikleen  | € 0,11  | € 0,09  |
 | C13  | – in eigen bezit  | € 0,40  | € 0,40  |
 | --- |  *Afweging taxivervoer t.o.v. (bruikleen)auto*   | --- | --- |
-| C18-IA  | normbedrag *(inclusief BTW)*  | € 23.800,–  | € 24.800,–  |
+| C18-IA  | normbedrag *(inclusief BTW)*   | € 23.800,–  | € 24.800,–  |
 | --- |  *Referentieauto*   | --- | --- |
-| C18-II  | normbedrag referentieauto *(aanschafbedrag inclusief BTW)*  | € 16.900,–  | € 16.900,–  |
+| C18-II  | normbedrag referentieauto *(aanschafbedrag inclusief BTW)*   | € 16.900,–  | € 16.900,–  |
 | C18-III  | eigen bijdrage verzekeringskosten eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand  | € 31,75  | € 32,35  |
 | C18-IV  | eigen bijdrage motorrijtuigenbelasting eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand  | € 25,67  | € 27,65  |
 | --- |  *Inkomensgrenzen vervoersvoorziening*   | --- | --- |

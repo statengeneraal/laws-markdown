@@ -5,6 +5,7 @@
 Het Uitvoeringsinstituut werknemersverzekeringen,  Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 16-01-2011 
 
 De normbedragen voor voorzieningen, als bedoeld in: 
 
@@ -18,9 +19,10 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 – [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en  
 
-– [artikel 19a van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.  
+– [artikel 19a van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 16-01-2011 
 
 1.  De kilometervergoedingen volgens de codes C11, C13, C22 en C25 worden verstrekt op basis van de aantallen kilometers, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.   
 2.  De aftrek, als bedoeld onder de codes C26-I en C26-II, wordt vastgesteld op basis van de aantallen kilometers, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.   
@@ -42,41 +44,45 @@ d. 145% op zondagen en algemeen erkende feest- of gedenkdagen.
 6.  De vergoeding, bedoeld in het vijfde lid, wordt verstrekt bij een reisafstand van minimaal tien kilometer. Maximaal wordt 220 kilometer vergoed.   
 7.  Kloktijd, vergoed volgens het derde tot en met zesde lid, komt niet voor dubbele vergoeding in aanmerking.   
 8.  Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in het derde en vijfde lid, en op basis van maatwerk een passende vergoeding verstrekt.   
-9.  In bijzondere gevallen kan worden afgeweken van het bepaalde in het zesde en het zevende lid. Te dier zake is een nadere beslissing door UWV noodzakelijk, voorafgaand aan de uitvoering van de desbetreffende tolkopdracht.   
+9.  In bijzondere gevallen kan worden afgeweken van het bepaalde in het zesde en het zevende lid. Te dier zake is een nadere beslissing door UWV noodzakelijk, voorafgaand aan de uitvoering van de desbetreffende tolkopdracht.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 16-01-2011 
 
-Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2009.  
+Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2009. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 16-01-2011 
 
-Dit besluit treedt in werking met ingang van 1 januari 2009. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2009.  
+Dit besluit treedt in werking met ingang van 1 januari 2009. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2009. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 23 december 2008   
 
 De 
-voorzitter Raad van bestuur UWV, 
-J.M.Linthorst  
+voorzitter Raad van bestuur UWV,
+J.M. Linthorst    
 
 ### Bijlage  
 
 ####Beleidsregels uwv normbedragen voorzieningen 2009
+
+Materieel uitgewerkt per 16-01-2011 
 
 Normbedragen voorzieningen met ingang van 1 juli 2009 
 
 | code  | Beschrijving  | Oud t/m 30-6-2009  | Nieuw per 1-7-2009  |
 |:---|:---|:---|:---|
 | --- |  *Drempelbedrag voorzieningen*   |
-| B11  | drempelbedrag, waar beneden geen vergoeding wordt verleend *(kostenbedrag inclusief BTW)*  | € 117,–  | € 119,–  |
+| B11  | drempelbedrag, waar beneden geen vergoeding wordt verleend *(kostenbedrag inclusief BTW)*   | € 117,–  | € 119,–  |
 | --- |  *Kilometervergoeding motorinvalidenwagen*   |
 | C11  | – in bruikleen  | € 0,11  | € 0,11  |
 | C13  | – in eigen bezit  | € 0,40  | € 0,40  |
 | --- |  *Afweging taxivervoer t.o.v. (bruikleen)auto*   |
-| C18-IA  | normbedrag *(inclusief BTW)*  | € 23.800,–  | € 23.800,–  |
+| C18-IA  | normbedrag *(inclusief BTW)*   | € 23.800,–  | € 23.800,–  |
 | --- |  *Referentieauto*   |
-| C18-II  | normbedrag referentieauto *(aanschafbedrag inclusief BTW)*  | € 16.900,–  | € 16.900,–  |
+| C18-II  | normbedrag referentieauto *(aanschafbedrag inclusief BTW)*   | € 16.900,–  | € 16.900,–  |
 | C18-III  | eigen bijdrage verzekeringskosten eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand  | € 31,75  | € 31,75  |
 | C18-IV  | eigen bijdrage motorrijtuigenbelasting eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand  | € 25,67  | € 25,67  |
 | --- |  *Inkomensgrenzen vervoersvoorziening*   |
@@ -86,8 +92,8 @@ Normbedragen voorzieningen met ingang van 1 juli 2009
 | C22-BA  | brandstof benzine, automatische transmissie, bedrag per km.  | € 0,11  | € 0,11  |
 | C22-BS  | brandstof benzine, handgeschakeld, bedrag per km.  | € 0,09  | € 0,09  |
 | C22-D  | brandstof dieselolie, bedrag per km.  | € 0,12  | € 0,12  |
-| --- | *Reparaties vervoersvoorziening – eigen bijdrage c.q. risico* bedragen inclusief BTW  |
-| C24-I  | eigen bijdrage bij schade: *(bruikleencontract volgens model 1994 t/m 2004)*  | € 67,–  | € 67,–  |
+| --- |  *Reparaties vervoersvoorziening – eigen bijdrage c.q. risico* bedragen inclusief BTW  |
+| C24-I  | eigen bijdrage bij schade: *(bruikleencontract volgens model 1994 t/m 2004)*   | € 67,–  | € 67,–  |
 | C41  | eigen risico bij frequent voorkomende aanrijdingschade:  | € 133,–  | € 133,–  |
 | --- |  *Kilometervergoeding voor auto’s in eigen bezit*   |
 | C25-I  | personenauto  | € 0,40  | € 0,40  |

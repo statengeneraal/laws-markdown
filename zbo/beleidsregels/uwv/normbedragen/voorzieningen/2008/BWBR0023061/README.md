@@ -5,6 +5,7 @@
 Het Uitvoeringsinstituut werknemersverzekeringen,  Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2010 
 
 De normbedragen voor voorzieningen, als bedoeld in: 
 
@@ -16,11 +17,12 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 – [artikel 59b van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md),  
 
-– [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en  
+–  [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en  
 
-– [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md),   worden met ingang van 1 januari 2008 vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.  
+– [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md),   worden met ingang van 1 januari 2008 vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2010 
 
 1.  De kilometervergoedingen volgens de codes C11, C13, C22 en C25 worden verstrekt op basis van de aantallen kilometers, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.   
 2.  De aftrek, als bedoeld onder de codes C26-I en C26-II, wordt vastgesteld op basis van de aantallen kilometers, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.   
@@ -41,19 +43,22 @@ d. 145% op zondagen en algemeen erkende feest- of gedenkdagen.
 5.  De kilometervergoedingen volgens de codes E17-A1, E17-A3 en E17-C2 en S1-R worden, uitsluitend in geval van feitelijke reisactiviteit, verstrekt op basis van de aantallen werkelijk gereisde kilometers, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.   
 6.  De vergoeding, bedoeld in het vijfde lid, wordt verstrekt bij een reisafstand van minimaal tien kilometer en van maximaal 220 kilometer.   
 7.  In bijzondere gevallen kan worden afgeweken van het bepaalde in het zesde lid ten aanzien van het maximale aantal kilometers.   
-8.  Kloktijd, vergoed volgens het derde, vijfde of zevende lid, komt niet voor dubbele vergoeding in aanmerking.   
+8.  Kloktijd, vergoed volgens het derde, vijfde of zevende lid, komt niet voor dubbele vergoeding in aanmerking.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2010 
 
-Het besluit [Beleidsregels UWV normbedragen voorzieningen 2007](../../../../../../../zbo/beleidsregels/uwv/normbedragen/voorzieningen/2007/BWBR0020937/README.md) wordt ingetrokken.  
+Het besluit [Beleidsregels UWV normbedragen voorzieningen 2007](../../../../../../../zbo/beleidsregels/uwv/normbedragen/voorzieningen/2007/BWBR0020937/README.md) wordt ingetrokken. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2010 
 
-Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2008.  
+Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2008. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-01-2010 
 
-Dit besluit treedt in werking met ingang van 1 januari 2008. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2008.  
+Dit besluit treedt in werking met ingang van 1 januari 2008. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2008. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
@@ -61,11 +66,12 @@ Amsterdam
 
 De 
 voorzitter Raad van bestuur UWV, 
-J.M.Linthorst  
+J.M. Linthorst    
 
 ### Bijlage  
+Materieel uitgewerkt per 01-01-2010 
 
-*Normbedragen voorzieningen met ingang van 1 juli 2008*  
+*Normbedragen voorzieningen met ingang van 1 juli 2008* 
 
 | code  | beschrijving  | oud  t/m 30-06-08  | nieuw  per 01-07-08  |
 |:---|:---|:---|:---|
@@ -122,8 +128,8 @@ J.M.Linthorst
 | E17-III  | – communicatieassistent, tolk in opleiding bij Hogeschool Utrecht (HU)  | € 17,20  | € 17,40  |
 | --- | --- | --- | --- |
 | --- | vergoeding reizen, bedrag per kilometer, voor:  | --- | --- |
-| E17-A1  |   -  doventolk (geregistreerd)      | € 0,90  | € 0,90  |
-| E17-A3  | – tolk in opleiding HU, communicatieassistent  | € 0,36  | € 0,37  |
+| E17-A1   |   -  doventolk (geregistreerd)      | € 0,90  | € 0,90  |
+| E17-A3   | – tolk in opleiding HU, communicatieassistent  | € 0,36  | € 0,37  |
 | --- | --- | --- | --- |
 | --- | vergoeding mentor (via HU):  | --- | --- |
 | E17-C1  | – uurvergoeding mentor (= gediplomeerde tolk)  | € 47,40  | € 47,40  |
