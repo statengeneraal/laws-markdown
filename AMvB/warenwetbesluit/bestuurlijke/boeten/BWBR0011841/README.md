@@ -148,7 +148,7 @@ vervallen   |
 vervallen   |
 |  *D-25*   |  
 vervallen   |
-|  *D-26*   |  [Warenwetbesluit Produkten voor bijzondere voeding](../../../../../KB/warenwetbesluit/producten/voor/bijzondere/voeding/BWBR0005489/README.md)   |
+|  *D-26*   |  [Warenwetbesluit Produkten voor bijzondere voeding](../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md)   |
 |  *D-27*   |  [Warenwetregeling zuigelingenvoeding 2007](../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/2007/BWBR0021907/README.md)   |
 |  *D-28*   |  [Warenwetregeling Babyvoeding](../../../../../ministeriele-regeling/warenwetregeling/babyvoeding/BWBR0008503/README.md)   |
 |  *D-29*   |  [Warenwetregeling Energiebeperkte diëten](../../../../../ministeriele-regeling/warenwetregeling/energiebeperkte/diëten/BWBR0008584/README.md)   |
@@ -337,7 +337,7 @@ vervallen   |
 | C-5.2  | art. II, lid 2 j°  | [art. 2, onder a](../../../../../AMvB/textielartikelenbesluit/(warenwet)/BWBR0002932/README.md), j° [art. 3 lid 1](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)  | € 525,–  | € 1050,–  |
 | C-5.3  | art. II lid 2 j°  |  [art. 2a](../../../../../AMvB/textielartikelenbesluit/(warenwet)/BWBR0002932/README.md)   | € 525,–  | € 1050,–  |
 | C-5.4  | art. II lid 2 j°  |  [art. 11 lid 1](../../../../../AMvB/warenwetbesluit/vlees/gehakt/en/vleesproducten/BWBR0009675/README.md)   | € 525,–  | € 1050,–  |
-| C-5.5  | art. II lid 2 j°  |  [art. 11 lid 2](../../../../../KB/warenwetbesluit/producten/voor/bijzondere/voeding/BWBR0005489/README.md)   | € 525,–  | € 1050,–  |
+| C-5.5  | art. II lid 2 j°  |  [art. 11 lid 2](../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md)   | € 525,–  | € 1050,–  |
 | C-5.6  | art. II lid 2 j°  |  [art. 11 lid 3](../../../../../AMvB/warenwetbesluit/vlees/gehakt/en/vleesproducten/BWBR0009675/README.md)   | € 525,–  | € 1050,–  |
 | C-5.7  | art. II lid 2 j°  |  [art. 12 lid 1](../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md)   | € 525,–  | € 1050,–  |
 | C-5.8  | art. II lid 2 j°  |  [art. 12 lid 2](../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md)   | € 525,–  | € 1050,–  |
@@ -455,9 +455,9 @@ vervallen   |
 | --- | >>C-24.1.6 e.v.  | --- | --- | --- |
 |  *C-26*   |  [Warenwetbesluit machines](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)   | --- | --- |
 | C-26  |  [Warenwetbesluit machines](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)   | I  | II  |
-| C–26.1.1  | [Art. 2, lid 1](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), j° [art. 3](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)  | € 525,–  | € 1050,–  |
+| C-26.1.1  | Art. 2, lid 1, j° art. 3, eerste lid  | € 525,–  | € 1050,–  |
 | C–26.1.2  | [Art. 2, lid 1](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), j° [art. 3a, lid 1, sub a](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)  | € 525,–  | € 1050,–  |
-| C–26.2.1  | [Art. 2, lid 2](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), j° [art. 3](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)  | € 525,–  | € 1050,–  |
+| C-26.2.1  | Art. 2, lid 2, j° art. 3, eerste lid  | € 525,–  | € 1050,–  |
 | C–26.2.2  | [Art. 2, lid 2](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), j° [art. 3a, lid 1, sub e](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)  | € 525,–  | € 1050,–  |
 | C–26.2.3  | [Art. 2, lid 2](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), j° [art. 3c](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)  | € 525,–  | € 1050,–  |
 | C–26.2.4  | [Art. 2, lid 2](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), j° [art. 5, sub a](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)  | € 525,–  | € 1050,–  |
@@ -709,7 +709,7 @@ vervallen   |
 | D-1.1.1  | art. II lid 2 j°  | art. 1 lid 1  | € 525,–  | € 1050,–  |
 | D-1.1.2  | art. II lid 2 j°  | art. 1 lid 2  | € 525,–  | € 1050,–  |
 | --- | --- | --- | € 525,–  | € 1050,–  |
-|  *D-2*   |  [Warenwetbesluit verpakkingen en gebruiksartikelen](../../../../../AMvB/warenwetbesluit/verpakkingen/en/gebruiksartikelen/BWBR0018370/README.md)   |  [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](../../../../../ministeriele-regeling/regeling/verpakkingen-/en/gebruiksartikelen/(warenwet)/BWBR0003276/README.md)   | --- | --- |
+|  *D-2*   |  [Warenwetbesluit verpakkingen en gebruiksartikelen](../../../../../AMvB/warenwetbesluit/verpakkingen/en/gebruiksartikelen/BWBR0018370/README.md)   |  [Regeling Verpakkingen en gebruiksartikelen](../../../../../ministeriele-regeling/regeling/verpakkingen-/en/gebruiksartikelen/(warenwet)/BWBR0003276/README.md)   | --- | --- |
 | D-2.1.1  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j°   [art. 3 lid 1](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)   | --- | € 525,–  | € 1050,–  |
 | D-2.1.2  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j°   [art. 5 lid 1](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)   | --- | € 525,–  | € 1050,–  |
 | D-2.1.3  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j°   [art. 5 lid 2](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)   | --- | € 525,–  | € 1050,–  |
@@ -717,6 +717,7 @@ vervallen   |
 | D-2.2.2  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j°   [art. 4 lid 1](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)   |  [art. 4](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md)   | € 525,–  | € 1050,–  |
 | D-2.2.3  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j°   [art. 4 lid 1](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)   |  [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md)   | € 525,–  | € 1050,–  |
 | D-2.3.1  |  [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | --- | € 525,–  | € 1050,–  |
+| D-2.4.1  |  [art. 2 lid 4](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | --- | € 525,–  | € 1050,–  |
 |  *D-3*   |  [Regeling Verpakkingen en gebruikartikelen (Warenwet)](../../../../../ministeriele-regeling/regeling/verpakkingen-/en/gebruiksartikelen/(warenwet)/BWBR0003276/README.md)   | --- | --- |
 | --- |  *>>D-2.1.1 e.v.*   | --- | --- |
 |  *D-5*   |  [Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md)   | --- | --- |
@@ -784,6 +785,7 @@ vervallen   |
 | D-7.8  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 7 lid 1](../../../../../ministeriele-regeling/warenwetregeling/diepgevroren/levensmiddelen/BWBR0005825/README.md)  | € 525,–  | € 1050,–  |
 | D-7.10  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 9 lid 1](../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md)  | € 525,–  | € 1050,–  |
 | D-7.11  |  [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | € 525,–  | € 1050,–  |
+| D-7.12  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) jo. [art. 11a lid 1](../../../../../AMvB/warenwetbesluit/voedingswaarde-informatie/levensmiddelen/BWBR0006135/README.md)  | € 525,–  | € 1050,–.  |
 |  *D-9*   |  [Warenwetbesluit Gezondheidscontroles levensmiddelen van dierlijke oorsprong (intraverkeer)](../../../../../AMvB/warenwetbesluit/gezondheidscontroles/levensmiddelen/van/dierlijke/etc/BWBR0007045/README.md)   | --- | --- |
 | D-9.1  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 3](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)  | € 525,–  | € 1050,–  |
 | --- | --- |  [Warenwetregeling Gezondheidscontroles levensmiddelen van dierlijke oorsprong (intraverkeer)](../../../../../AMvB/warenwetbesluit/gezondheidscontroles/levensmiddelen/van/dierlijke/etc/BWBR0007045/README.md)   | --- | --- |
@@ -865,12 +867,12 @@ vervallen   |
 | D-23.21  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 13 lid 6](../../../../../AMvB/warenwetbesluit/honing/BWBR0015923/README.md)  | € 525,–  | € 1050,–  |
 | D-23.22  |  [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | € 525,–  | € 1050,–  |
 | D-23.23  | [art. 2 lid 4](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 15 lid 1, onder d](../../../../../AMvB/warenwetbesluit/honing/BWBR0015923/README.md)  | € 525,–  | € 1050,–  |
-|  *D-26*   |  [Warenwetbesluit Produkten voor bijzondere voeding](../../../../../KB/warenwetbesluit/producten/voor/bijzondere/voeding/BWBR0005489/README.md)   | --- | --- |
+|  *D-26*   |  [Warenwetbesluit Produkten voor bijzondere voeding](../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md)   | --- | --- |
 | D-26.1.1  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 3 lid 1](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)  | € 525,–  | € 1050,–  |
 | D-26.1.2  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 3 lid 2](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)  | € 525,–  | € 1050,–  |
 | D-26.1.3  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 9](../../../../../ministeriele-regeling/warenwetregeling/verontreinigingen/in/levensmiddelen/BWBR0010269/README.md)  | € 525,–  | € 1050,–  |
 | D-26.1.4  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 11 lid 1](../../../../../AMvB/warenwetbesluit/vlees/gehakt/en/vleesproducten/BWBR0009675/README.md)  | € 525,–  | € 1050,–  |
-| D-26.1.5  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 11 lid 2](../../../../../KB/warenwetbesluit/producten/voor/bijzondere/voeding/BWBR0005489/README.md)  | € 525,–  | € 1050,–  |
+| D-26.1.5  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 11 lid 2](../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md)  | € 525,–  | € 1050,–  |
 | D-26.2.1  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 4](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md)  | € 525,–  | € 1050,–  |
 | D-26.3.1  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md)  | € 525,–  | € 1050,–  |
 | D-26.3.2  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 7 lid 1](../../../../../ministeriele-regeling/warenwetregeling/diepgevroren/levensmiddelen/BWBR0005825/README.md)  | € 525,–  | € 1050,–  |
@@ -878,8 +880,8 @@ vervallen   |
 | D-26.3.4  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md) j° [art. 7 lid 1](../../../../../ministeriele-regeling/warenwetregeling/diepgevroren/levensmiddelen/BWBR0005825/README.md)  | € 525,–  | € 1050,–  |
 | D-26.3.5  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md) j° [art. 7 lid 2](../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md)  | € 525,–  | € 1050,–  |
 | D-26.3.6  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 8](../../../../../ministeriele-regeling/warenwetregeling/verontreinigingen/in/levensmiddelen/BWBR0010269/README.md)  | € 525,–  | € 1050,–  |
-| D-26.3.7  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md) j° [art 8 lid 1](../../../../../KB/warenwetbesluit/producten/voor/bijzondere/voeding/BWBR0005489/README.md)  | € 525,–  | € 1050,–  |
-| D-26.3.8  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md) j° [art 7](../../../../../KB/warenwetbesluit/producten/voor/bijzondere/voeding/BWBR0005489/README.md) j° [art. 8](../../../../../ministeriele-regeling/warenwetregeling/verontreinigingen/in/levensmiddelen/BWBR0010269/README.md)  | € 525,–  | € 1050,–  |
+| D-26.3.7  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md) j° [art 8 lid 1](../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md)  | € 525,–  | € 1050,–  |
+| D-26.3.8  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md) j° [art 7](../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md) j° [art. 8](../../../../../ministeriele-regeling/warenwetregeling/verontreinigingen/in/levensmiddelen/BWBR0010269/README.md)  | € 525,–  | € 1050,–  |
 | D-26.3.9  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md) j° [art. 7 lid 2](../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md) j° [art. 8](../../../../../ministeriele-regeling/warenwetregeling/verontreinigingen/in/levensmiddelen/BWBR0010269/README.md)  | € 525,–  | € 1050,–  |
 | D-26.3.10  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 7 lid 1](../../../../../ministeriele-regeling/warenwetregeling/diepgevroren/levensmiddelen/BWBR0005825/README.md) j° [art. 8](../../../../../ministeriele-regeling/warenwetregeling/verontreinigingen/in/levensmiddelen/BWBR0010269/README.md)  | € 525,–  | € 1050,–  |
 | D-26.3.11  | [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 7 lid 2](../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md) j° [art. 8](../../../../../ministeriele-regeling/warenwetregeling/verontreinigingen/in/levensmiddelen/BWBR0010269/README.md)  | € 525,–  | € 1050,–  |
@@ -1382,11 +1384,10 @@ vervallen   |
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
 |  *D-77*   |  [Warenwetbesluit additieven, aroma’s en enzymen in levensmiddelen](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   |
-| D-77.1  | art. 2 lid 1  | --- | € 525,–  | € 1050,–  |
-| D-77.2  | art. 2 lid 2  | --- | € 525,–  | € 1050,–  |
-| D-77.3  | art. 2 lid 3  | --- | € 525,–  | € 1050,–  |
-| D-77.4  | art. 2 lid 4  | --- | € 525,–  | € 1050,–  |
-| D-77.6  | art. 2 lid 6  | --- | € 525,–  | € 1050,–  |
+| D-77.1  |  [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | --- | € 525,–  | € 1050,–  |
+| D-77.2  |  [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | --- | € 525,–  | € 1050,–  |
+| D-77.3  |  [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | --- | € 525,–  | € 1050,–  |
+| D-77.4  |  [art. 2 lid 4](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | --- | € 525,–  | € 1050,–  |
 | --- | --- |  [Warenwetregeling Gebruik van additieven met uitzondering van kleurstoffen en zoetstoffen in levensmiddelen](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md)   | --- | --- |
 | D-77.5.1  | [art. 2 lid 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md) jo.  |  [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | € 525,–  | € 1050,–  |
 | D-77.5.2  | [art. 2 lid 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md) jo.  |  [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | € 525,–  | € 1050,–  |
@@ -1414,6 +1415,7 @@ vervallen   |
 | D-77.5.20  | [art. 2 lid 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md) jo.  |  [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | € 525,–  | € 1050,–  |
 | --- | --- |  [Warenwetregeling zuiverheidseisen voor zoetstoffen 2008](../../../../../ministeriele-regeling/warenwetregeling/zuiverheidseisen/voor/zoetstoffen/2008/BWBR0024204/README.md)   | --- | --- |
 | D-77.5.21  | [art. 2 lid 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md) jo.  |  [art. 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)   | € 525,–  | € 1050,–  |
+| D-77.6  |  [art. 2 lid 6](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | --- | € 525,–  | € 1050,–  |
 |  *D-78*   |  [Warenwetregeling Gebruik van additieven met uitzondering van kleurstoffen en zoetstoffen in levensmiddelen](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md)   | --- | --- | --- |
 | --- | >> D-77.5.1 e.v.  | --- | --- | --- |
 |  *D-79*   |  [Warenwetregeling zuiverheidseisen voor levensmiddelenadditieven met uitzondering van kleurstoffen en zoetstoffen 2008](../../../../../ministeriele-regeling/warenwetregeling/zuiverheidseisen/voor/levensmiddelenadditieven/met/etc/BWBR0024683/README.md)   | --- | --- | --- |
