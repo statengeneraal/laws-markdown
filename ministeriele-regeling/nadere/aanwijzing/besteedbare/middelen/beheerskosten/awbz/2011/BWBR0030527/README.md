@@ -7,18 +7,21 @@ Gelet op [artikel 4.3](../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 18-10-2013 
 
-Voor het jaar 2011 zijn voor de beheerskosten AWBZ van de zorgverzekeraars, de verbindingskantoren en het CAK tezamen, ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in [artikel 89 van de Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), extra middelen besteedbaar ter grootte van € 2,500 miljoen.  
+Voor het jaar 2011 zijn voor de beheerskosten AWBZ van de zorgverzekeraars, de verbindingskantoren en het CAK tezamen, ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in [artikel 89 van de Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), extra middelen besteedbaar ter grootte van € 2,500 miljoen. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 18-10-2013 
 
-Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, indien de dagtekening van de Staatscourant waarin de aanwijzing is geplaatst, is gelegen na 26 september 2011, terug tot en met 27 september 2011.  
+Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, indien de dagtekening van de Staatscourant waarin de aanwijzing is geplaatst, is gelegen na 26 september 2011, terug tot en met 27 september 2011. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 18-10-2013 
 
-Deze aanwijzing wordt aangehaald als: Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2011.  
+Deze aanwijzing wordt aangehaald als: Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2011. 
 Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.L.L.E.Veldhuijzen van Zanten-Hyllner   
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.L.L.E. Veldhuijzen van Zanten-Hyllner     
