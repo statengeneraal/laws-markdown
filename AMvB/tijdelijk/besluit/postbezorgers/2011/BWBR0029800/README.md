@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 23 februari 2011, nr. WJZ / 11021582, gedaan in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-Gelet op [artikel 8 van de Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md);
+Gelet op artikel 8 van de Postwet 2009;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 17 maart 2011, nr. W15.11.0059/IV);
 
@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *wet:* de [Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md);  
+a. *wet:* de Postwet 2009;  
 
-b. *arbeidsovereenkomst:* de arbeidsovereenkomst, bedoeld in [titel 10 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+b. *arbeidsovereenkomst:* de arbeidsovereenkomst, bedoeld in titel 10 van Boek 7 van het Burgerlijk Wetboek;  
 
-c. *collectieve arbeidsovereenkomst:* een collectieve arbeidsovereenkomst als bedoeld in de [Wet op de collectieve arbeidsovereenkomst](../../../../../../wet/wet/op/de/collectieve/arbeidsovereenkomst/BWBR0001937/README.md).    
+c. *collectieve arbeidsovereenkomst:* een collectieve arbeidsovereenkomst als bedoeld in de Wet op de collectieve arbeidsovereenkomst.    
 
 ### §  2  
 
@@ -32,7 +32,16 @@ c. *collectieve arbeidsovereenkomst:* een collectieve arbeidsovereenkomst als be
 
 ### Artikel  2  
 
-Met ingang van 1 januari 2014 heeft een postvervoerbedrijf met ten minste 80% van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst.  
+1.  Met ingang van 30 september 2013 heeft een postvervoerbedrijf met ten minste 80% van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst.   
+2.  Het in het eerste lid genoemde percentage wordt bereikt doordat een postvervoerbedrijf: 
+
+a. met ingang van 1 februari 2012 met ten minste 10%,  
+
+b. met ingang van 30 juni 2012 met ten minste 25%,  
+
+c. met ingang van 31 december 2012 met ten minste 40% en  
+
+d. met ingang van 30 juni 2013 met ten minste 60%   van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst heeft.   
 
 ### Artikel  3  
 
@@ -40,7 +49,7 @@ Dit besluit is niet van toepassing op een postvervoerbedrijf:
 
 a. dat is gebonden aan een collectieve arbeidsovereenkomst waarin bepalingen zijn opgenomen over het aantal of het percentage postbezorgers dat bij een postvervoerbedrijf arbeid verricht op basis van een arbeidsovereenkomst, of  
 
-b. dat ingevolge [artikel 64, derde lid, van de wet](../../../../../../wet/postwet/2009/BWBR0025572/README.md) is uitgezonderd van de verplichting, bedoeld in artikel 64, eerste lid, van de wet.    
+b. dat ingevolge artikel 64, derde lid, van de wet is uitgezonderd van de verplichting, bedoeld in artikel 64, eerste lid, van de wet.    
 
 ### §  3  
 
@@ -48,7 +57,7 @@ b. dat ingevolge [artikel 64, derde lid, van de wet](../../../../../../wet/postw
 
 ### Artikel  4  
 
-Het [Tijdelijk besluit arbeidsovereenkomst post](../../../../../../AMvB/tijdelijk/besluit/arbeidsovereenkomst/post/BWBR0026515/README.md) wordt ingetrokken.  
+Het Tijdelijk besluit arbeidsovereenkomst post wordt ingetrokken.  
 
 ### Artikel  5  
 
