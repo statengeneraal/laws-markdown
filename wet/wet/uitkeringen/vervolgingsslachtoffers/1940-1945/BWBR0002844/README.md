@@ -163,14 +163,14 @@ b. In afwijking van het bepaalde onder a wordt, indien de vervolging in het voor
 6.  Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in artikel 30 terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.   
 7.  De in de vorige leden, behoudens in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
-a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 juli 2011: € 1 975,99 en  
+a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 januari 2012: € 1.991,60 en  
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 juli 2011: € 4 102,11.     
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 januari 2012: € 4.134,52.     
 8.  De in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
-a. tenminste een bedrag van 23 000 rupiah per maand per 1 januari 2011: 4.358.233 rupiah en  
+a. tenminste een bedrag van 23 000 rupiah per maand per 1 januari 2012: 4.523.410 rupiah en  
 
-b. ten hoogste een bedrag van 57 500 rupiah per maand per 1 januari 2011: 10.916.700 rupiah.     
+b. ten hoogste een bedrag van 57 500 rupiah per maand per 1 januari 2012: 11.330.443 rupiah.     
 9.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid in beroep of bedrijf, als bedoeld in het tweede lid, moet worden verstaan.   
 
 ### Artikel  9  
@@ -193,9 +193,9 @@ c. 80% voor de ongehuwde vervolgde met minderjarige kinderen;
 
 d. 75% voor de alleenstaande vervolgde;  
 
-e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 juli 2011: € 2 680,56;  
+e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 januari 2012: € 2.701,74;  
 
-f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 juli 2011: € 2 494,25.     
+f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2012: € 2.513,95.     
 2.   
 
 a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de eerste dag van de maand waarin de uitkeringsgerechtigde de leeftijd van 65 jaar bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.  
@@ -320,7 +320,7 @@ d. de overige inkomsten, met uitzondering van inkomsten van de echtgenoot van de
 2.  Bij de toepassing van het bepaalde in het eerste lid, onder a, b en d, worden jaarlijkse vakantie-uitkeringen van de uitkeringsgerechtigde voor 1/12 deel per maand op de uitkering in mindering gebracht.   
 3.  Met inkomsten uit tegenwoordige arbeid worden gelijkgesteld uitkeringen op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), alsmede de daarmede vergelijkbare uitkeringen welke worden verleend aan het overheidspersoneel.   
 4.  Indien toepassing is gegeven aan artikel 11 worden de inkomsten uit arbeid in beroep of bedrijf in mindering gebracht voorzover de som van de uitkering en die inkomsten de grondslag, bedoeld in artikel 8, overtreft.   
-5.  De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in artikel 30, bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2011: € 793,50 per jaar wordt vrijgelaten.   
+5.  De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in artikel 30, bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2012: € 814,20 per jaar wordt vrijgelaten.   
 6.  Bij bedrijfsbeëindiging vindt het bepaalde in het eerste lid, onder *c* en het vijfde lid, van dat tijdstip af overeenkomstige toepassing.   
 7.  Tot de inkomsten bedoeld in het eerste lid worden niet gerekend doelgerichte subsidies of tegemoetkomingen, waaronder begrepen de vermeerdering, bedoeld in de [artikelen 10](../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en [11 van de Wet buitengewoon pensioen 1940-1945](../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), de [artikelen 9](../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en [10 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en de [artikelen 12](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), [13](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) en [14 van de Wet buitengewoon pensioen Indisch verzet](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), voorzover deze de toeslag, bedoeld in artikel 10, derde lid, of het bedrag, bedoeld in artikel 21b, indien dit is toegekend, overschrijdt.   
 8.  Indien de echtgenoot van de uitkeringsgerechtigde eveneens recht heeft op enig pensioen als bedoeld in artikel 17, derde lid, en op dat pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) van tenminste 40% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met 40% van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), zijn het eerste tot en met achtste lid van toepassing, met dien verstande dat, in afwijking van het eerste lid, onder b, op schriftelijk verzoek van de uitkeringsgerechtigde 50% van het aan de uitkeringsgerechtigde en de echtgenoot toegekende bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), met inbegrip van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), op de uitkering in mindering wordt gebracht.   

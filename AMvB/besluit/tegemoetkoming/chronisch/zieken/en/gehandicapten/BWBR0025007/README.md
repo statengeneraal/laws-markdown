@@ -42,7 +42,7 @@ g. *militair:* een militair ambtenaar in werkelijke dienst als bedoeld in [artik
 
 ### Artikel  2  
 
-1.  De tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), bedraagt € 300 indien de rechthebbende in het kalenderjaar waarop de tegemoetkoming betrekking heeft, jonger was dan 65 jaar of 65 jaar is geworden, onderscheidenlijk € 150 indien de rechthebbende in het gehele jaar 65 jaar of ouder was, de rechthebbende niet is overleden in het kalenderjaar waarop de tegemoetkoming betrekking heeft, en: 
+1.  De tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), bedraagt € 306 per 2 februari 2012 en met terugwerkende kracht tot en met 1 januari 2011: € 308 indien de rechthebbende in het kalenderjaar waarop de tegemoetkoming betrekking heeft, jonger was dan 65 jaar of 65 jaar is geworden, onderscheidenlijk € 153 per 2 februari 2012 en met terugwerkende kracht tot en met 1 januari 2011: € 154 indien de rechthebbende in het gehele jaar 65 jaar of ouder was, de rechthebbende niet is overleden in het kalenderjaar waarop de tegemoetkoming betrekking heeft, en: 
 
 a. in dat jaar één of meer ATC’s of in het jaar voorafgaande aan dat jaar één of meer DBC’s vergoed kreeg die behoren tot een bij ministeriële regeling aangewezen chronische groep die recht geeft op een lage tegemoetkoming;  
 
@@ -58,9 +58,9 @@ f. in dat jaar:
 
 1°. van zijn zorgverzekeraar fysiotherapie of oefentherapie als bedoeld in [artikel 2.6, tweede lid, van het Besluit zorgverzekering](../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) vergoed heeft gekregen, of  
 
-2°. jonger was dan 18 jaar en in dat jaar en het daaraan voorafgaande jaar van zijn zorgverzekeraar een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor negen behandelingen fysiotherapie of oefentherapie, vergoed heeft gekregen, of  
+2°. jonger was dan 18 jaar en in dat jaar en het daaraan voorafgaande jaar van zijn zorgverzekeraar een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor een bij die regeling te bepalen aantal behandelingen fysiotherapie of oefentherapie, vergoed heeft gekregen, of  
 
-3°. militair was en in dat jaar en het daaraan voorafgaande jaar van de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor negen behandelingen fysiotherapie of oefentherapie, vergoed heeft gekregen;.    
+3°. militair was en in dat jaar en het daaraan voorafgaande jaar van de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor een bij die regeling te bepalen aantal behandelingen fysiotherapie of oefentherapie, vergoed heeft gekregen;    
 
 g. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op één tot tien uren per week zorg als bedoeld in de artikelen 4, 5 of 6 van het Besluit zorgaanspraken AWBZ, met dien verstande dat: 
 
@@ -71,7 +71,7 @@ g. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indi
 h. in dat jaar al dan niet aaneengesloten 26 weken of meer gedurende één tot tien uren per week in natura huishoudelijke verzorging als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) heeft ontvangen of daartoe op grond van een indicatiebesluit was aangewezen en een persoonsgebonden budget heeft ontvangen, met dien verstande dat voor het vaststellen van de periode van 26 weken wordt aangesloten bij de indeling in weken als bedoeld in [artikel 4.1, derde lid, van het Besluit maatschappelijke ondersteuning](../../../../../../../../AMvB/besluit/maatschappelijke/ondersteuning/BWBR0020379/README.md), of  
 
 i. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op één of meer etmalen per week zorg als bedoeld in de [artikelen 9, eerste lid](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of [13, eerste en tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).     
-2.  De tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) bedraagt € 500 indien de rechthebbende in het kalenderjaar waarop de tegemoetkoming betrekking heeft, jonger was dan 65 jaar of 65 jaar is geworden, onderscheidenlijk € 350 indien de rechthebbende in het gehele jaar 65 jaar of ouder was, de rechthebbende niet is overleden in het kalenderjaar waarop de tegemoetkoming betrekking heeft, en de rechthebbende in dat jaar: 
+2.  De tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) bedraagt € 510 per 2 februari 2012 en met terugwerkende kracht tot en met 1 januari 2011: € 514 indien de rechthebbende in het kalenderjaar waarop de tegemoetkoming betrekking heeft, jonger was dan 65 jaar of 65 jaar is geworden, onderscheidenlijk € 357 per 2 februari 2012 en met terugwerkende kracht tot en met 1 januari 2011: € 360 indien de rechthebbende in het gehele jaar 65 jaar of ouder was, de rechthebbende niet is overleden in het kalenderjaar waarop de tegemoetkoming betrekking heeft, en de rechthebbende in dat jaar: 
 
 a. een of meer ATC’s of in het jaar voorafgaande aan dat jaar een of meer DBC’s vergoed kreeg die behoren tot: 
 
@@ -173,7 +173,7 @@ a. de persoon, bedoeld in [artikel 10, eerste lid, van de wet](../../../../../..
 4°. een uitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) bij een arbeidsongeschiktheid van 35% of meer;    
 
 b. de persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering naar een mate van arbeidsongeschiktheid van 35% of meer of op arbeidsondersteuning op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).     
-2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 336.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 342.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   
 
 ### Hoofdstuk  4  
@@ -182,9 +182,7 @@ b. de persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsonges
 
 ### Artikel  5  
 
-1.  De bedragen, genoemd in de artikelen 2 en 4, worden bij het begin van het kalenderjaar bij ministeriële regeling vervangen door andere bedragen. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de uitkomst vervolgens naar boven af te ronden op hele getallen.   
-2.  Voor de aanpassing van het bedrag, genoemd in artikel 4, tweede lid, wordt het eerste lid bij het begin van de kalenderjaren 2010 en 2011 niet toegepast.   
-3.  Het tweede lid alsmede de aanduiding «1.» voor het eerste lid en dit lid vervallen met ingang van 1 januari 2012.   
+De bedragen, genoemd in de artikelen 2 en 4, worden bij het begin van het kalenderjaar bij ministeriële regeling vervangen door andere bedragen. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de uitkomst vervolgens naar boven af te ronden op hele getallen.  
 
 ### Hoofdstuk  5  
 

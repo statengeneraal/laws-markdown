@@ -8,20 +8,20 @@ Besluit:
 
 ### Artikel  1  
 
-De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van verordening (EG) 104/2000, is opgenomen in de bijlage.  
+De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van verordening (EG) 104/2000, is opgenomen in de bijlage. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 januari 2006.  
+Deze regeling treedt in werking met ingang van 1 januari 2006. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Warenwetregeling handelsbenamingen vis.  
+Deze regeling wordt aangehaald als: Warenwetregeling handelsbenamingen vis. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst  
+J.F. Hoogervorst    
 
 ####Deze bijlage behoort bij artikel 1 
 
@@ -280,9 +280,9 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van verordenin
 | 10.20.3.  | Umbrina ronchus  | Fuscabaardman  |
 | 10.21.  | Priacanthus arenatus  | Grootoog  |
 | 10.22.  | Hemiramphus spp.  | Bastaardgeep  |
-| 10.23.1.  | Pomadasys bennetti  | Bastaardknorvis  |
+|10.23.1. |Pomadasys bennetti |Bastaardknorvis |
 | 10.23.2.  | Haemulon plumieri  | Knorvis  |
-| 10.23.3  | Pomadasys bennetti  | Bastaardknorvis  |
+|10.23.3 |Pomadasys bennetti |Bastaardknorvis |
 | 10.24.  | Labridus spp.  | Lipvis  |
 | 10.25.  | Sparisoma spp.  | Papegaaivis  |
 | 10.26.  | Bolbometopon muricatum  | Papegaaivis  |
@@ -394,7 +394,7 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van verordenin
 | 11.21.  | Siluris glanis  | Europese meerval  |
 | 11.22.  | Ictalurus spp.  | Dwergmeerval  |
 | 11.23.1.  | Clarias gariepinus  | Afrikaanse meerval  |
-| 11.23.2  | Heterobranchus longifilis  | Claresse meerval  |
+|11.23.2 |Heterobranchus longifilis |Claresse meerval |
 | 11.24.  | Pangasius spp.  | Pangasius meerval  |
 | 11.25.1.  | Arius spp.  | Zeemeerval  |
 | 11.25.2.  | Bagre bagre  | Barbaman  |
@@ -456,63 +456,63 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van verordenin
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *13*   |  *Macrura (Kreeften, Langoesten en Rivierkreeftjes)*   | --- |
-|  *13.1*   |  *Nephropsidae (Kreeften)*   | --- |
-| 13.1.1  | Homarus gammaraus  | Europese of gewone (zee)kreeft  |
-| 13.1.2  | Homarus americanus  | Amerikaanse of Canadese zeekreeft  |
-| 13.1.3  | Nephrops norvegicus  | Noorse kreeft  |
+|*13* |*Macrura (Kreeften, Langoesten en Rivierkreeftjes)* | --- |
+|*13.1* |*Nephropsidae (Kreeften)* | --- |
+|13.1.1 |Homarus gammaraus |Europese of gewone (zee)kreeft |
+|13.1.2 |Homarus americanus |Amerikaanse of Canadese zeekreeft |
+|13.1.3 |Nephrops norvegicus |Noorse kreeft |
 | --- | --- | --- |
-|  *13.2*   |  *Palinuridae (Langoesten)*   | --- |
-| 13.2.1  | Jasus spp  | Langoest  |
-| 13.2.2  | Palinurus spp.  | Langoest  |
-| 13.2.3  | Palinurus elephas  | Europese langoest  |
-| 13.2.4  | Puerulus spp  | Langoest  |
+|*13.2* |*Palinuridae (Langoesten)* | --- |
+|13.2.1 |Jasus spp |Langoest |
+|13.2.2 |Palinurus spp. |Langoest |
+|13.2.3 |Palinurus elephas |Europese langoest |
+|13.2.4 |Puerulus spp |Langoest |
 | --- | --- | --- |
-|  *13.3*   |  *Scyllaridae (Beerkreeften)*   | --- |
-| 13.3.1  | Scyllarides latus  | Grote beerkreeft  |
-| 13.3.2  | Scyllarides aquamosus  | Beerkreeft  |
-| 13.3.3  | Scyllarus arctus  | Kleine beerkreeft  |
-| 13.3.4  | Ibacus spp  | Beerkreeft  |
-| 13.3.5  | Thenus spp  | Beerkreeft  |
+|*13.3* |*Scyllaridae (Beerkreeften)* | --- |
+|13.3.1 |Scyllarides latus |Grote beerkreeft |
+|13.3.2 |Scyllarides aquamosus |Beerkreeft |
+|13.3.3 |Scyllarus arctus |Kleine beerkreeft |
+|13.3.4 |Ibacus spp |Beerkreeft |
+|13.3.5 |Thenus spp |Beerkreeft |
 | --- | --- | --- |
-|  *14*   |  *Anomura (Springkrabben, Heremietkreeften en Koningskrabben)*   | --- |
-|  *14.1*   |  *Galatheidae (Springkrabben)*   | --- |
-| 14.1.1  | Pleuroncodes spp  | Chileense springkrab  |
-| 14.1.2  | Cervimundia spp.  | Chileense springkrab  |
-| 14.1.3  | Mundia rugosa  | Springkrab, Galatheakreeft  |
+|*14* |*Anomura (Springkrabben, Heremietkreeften en Koningskrabben)* | --- |
+|*14.1* |*Galatheidae (Springkrabben)* | --- |
+|14.1.1 |Pleuroncodes spp |Chileense springkrab |
+|14.1.2 |Cervimundia spp. |Chileense springkrab |
+|14.1.3 |Mundia rugosa |Springkrab, Galatheakreeft |
 | --- | --- | --- |
-|  *14.2*   |  *Lithodidae (Koningskrabben)*   | --- |
-| 14.2.1  | Paralithodes camtschatica  | Kamtschatka krab  |
-| 14.2.2  | Paralithodes platypus  | Koningskrab  |
-| 14.2.3  | Paralithodes brevipes  | Koningskrab  |
-| 14.2.4  | Lithodes maja  | Koningskrab  |
-| 14.2.5  | Lithodes anarctica  | Koningskrab  |
-| 14.2.6  | Lithodes centella  | Koningskrab  |
-| 14.2.7  | Lopholithodes mandtii  | Koningskrab  |
+|*14.2* |*Lithodidae (Koningskrabben)* | --- |
+|14.2.1 |Paralithodes camtschatica |Kamtschatka krab |
+|14.2.2 |Paralithodes platypus |Koningskrab |
+|14.2.3 |Paralithodes brevipes |Koningskrab |
+|14.2.4 |Lithodes maja |Koningskrab |
+|14.2.5 |Lithodes anarctica |Koningskrab |
+|14.2.6 |Lithodes centella |Koningskrab |
+|14.2.7 |Lopholithodes mandtii |Koningskrab |
 | --- | --- | --- |
-|  *15*   |  *Brachyura (Echte krabben)*   | --- |
-| 15.1  |  *Majidae (Spinkrabben)*   | --- |
-| 15.1.1  | Cancer pagarus  | Noordzeekrab  |
+|*15* |*Brachyura (Echte krabben)* | --- |
+|15.1 |*Majidae (Spinkrabben)* | --- |
+|15.1.1 |Cancer pagarus |Noordzeekrab |
 | --- | --- | --- |
-| 15.2  |  *Portunidae (Zwemkrabben)*   | --- |
-| 15.2.1  | Callinectes sapidus  | Blauwe zwemkrab  |
-| 15.2.2  | Carcinus maenas  | Strandkrab  |
+|15.2 |*Portunidae (Zwemkrabben)* | --- |
+|15.2.1 |Callinectes sapidus |Blauwe zwemkrab |
+|15.2.2 |Carcinus maenas |Strandkrab |
 | --- | --- | --- |
-|  *15.3*   |  *Xanthidae (Xantiden)*   | --- |
-| 15.3.1  | Eriphia verrucosa  | Wrattige krab  |
+|*15.3* |*Xanthidae (Xantiden)* | --- |
+|15.3.1 |Eriphia verrucosa |Wrattige krab |
 | --- | --- | --- |
-| 15.4  |  *Grapsidae (Springkrabben)*   | --- |
-| 15.4.1  | Eriocheir sinensis  | Chinese wolhandkrab  |
+|15.4 |*Grapsidae (Springkrabben)* | --- |
+|15.4.1 |Eriocheir sinensis |Chinese wolhandkrab |
 | --- | --- | --- |
-|  *16*   |  *Euphausiacea*   | --- |
-| 16.1  | Euphausia superba  | Krill  |
+|*16* |*Euphausiacea* | --- |
+|16.1 |Euphausia superba |Krill |
 | --- | --- | --- |
-|  *17*   |  *Rivierkreeftjes*   | --- |
-| 17.1  | Astacus astacus  | Europese rivierkreeft  |
-| 17.2  | Astacus leptodactylus  | Turkse rivierkreeft  |
-| 17.3  | Orconectes limosus  | Amerikaanse rivierkreeft  |
-| 17.4  | Pacifastacus leniusculus  | Signaalkreeft, Californische rivierkreeft  |
-| 17.5  | Procambarus clarkii  | Chinese rivierkreeft  |
+|*17* |*Rivierkreeftjes* | --- |
+|17.1 |Astacus astacus |Europese rivierkreeft |
+|17.2 |Astacus leptodactylus |Turkse rivierkreeft |
+|17.3 |Orconectes limosus |Amerikaanse rivierkreeft |
+|17.4 |Pacifastacus leniusculus |Signaalkreeft, Californische rivierkreeft |
+|17.5 |Procambarus clarkii |Chinese rivierkreeft |
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -531,6 +531,7 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van verordenin
 | --- | --- | --- |
 | 20.  | Pectinidae (Kamschelpachtigen)  | --- |
 | 20.1.  | Pecten maximus  | Sint-Jacobsschelp  |
+|20.2 |Placopecten magellanicus | Amerikaanse grote mantelschelp |
 | 20.4.1.  | Chlamys islandica  | Noordelijke kamschelp  |
 | 20.4.2.  | Chlamys varia  | Bonte mantel  |
 | 20.4.3.  | Chlamys opercularis  | Wijde mantel  |

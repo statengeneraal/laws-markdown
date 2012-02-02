@@ -19,68 +19,49 @@ b. *verzekerden:* verzekerden als bedoeld in [artikel 1, onderdeel d, van de Zor
 
 ### Artikel  1a  
 
-Als hulpmiddelen als bedoeld in [artikel 2, eerste lid, onderdeel a, van het Besluit chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) worden aangewezen de hulpmiddelen, bedoeld in [artikel 2.6 van de Regeling zorgverzekering](../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals deze luidde in het kalenderjaar waarop de tegemoetkoming betrekking heeft, met uitzondering van de hulpmiddelen, bedoeld in: 
-
-a. [artikel 2.8, eerste lid, onderdeel a, onder 4°, van de Regeling zorgverzekeringen](../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md),  
-
-b. [artikel 2.6, onderdeel h](../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), voor zover het verbandmiddelen betreft als bedoeld in [artikel 2.15, eerste lid, onder j](../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), en  
-
-c. [artikel 2.6, onderdelen i en n](../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).    
+1.  Als hulpmiddelen als bedoeld in [artikel 2, eerste lid, onderdeel c, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) die recht kunnen geven op een tegemoetkoming, worden aangewezen de hulpmiddelen, opgenomen in tabel 1 van bijlage 1, mits de desbetreffende hulpmiddelen in het jaar waarop de tegemoetkoming betreking heeft, voor rekening van de zorgverzekeraar zijn verkregen.   
+2.  Als hulpmiddelen als bedoeld in [artikel 2, eerste lid, onderdeel c, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) die recht kunnen geven op een tegemoetkoming, worden aangewezen de hulpmiddelen, opgenomen in tabel 2 van bijlage 1, mits de desbetreffende hulpmiddelen in het jaar waarop de tegemoetkoming betrekking heeft of in de twee daaraan voorafgaande jaren voor rekening van de zorgverzekeraar zijn verkregen of gerepareerd.   
 
 ### Artikel  2  
 
-1.  Als lichte FKG’s als bedoeld in [artikel 2, eerste lid, onderdeel b, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) worden aangewezen de FKG’s, bedoeld in tabel B4.2 van [Bijlage 4, van de Regeling zorgverzekering](../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals deze luidde in het kalenderjaar waarop de tegemoetkoming, bedoeld in [artikel 2 van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), betrekking heeft: 
+1.  Als een chronische groep die recht geeft op een lage tegemoetkoming als bedoeld in [artikel 2, eerste lid, onderdeel a, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) wordt aangemerkt een chronische groep waarbij de verzekerde in dat jaar: 
 
-a. FKG 1 Glaucoom,  
+a. een ATC vergoed kreeg die op grond van artikel 3 als zwaar wordt aangemerkt;  
 
-b. FKG 2 Schildklieraandoeningen,  
+b. een DBC vergoed kreeg die op grond van artikel 3a als zwaar wordt aangemerkt;  
 
-c. FKG 3 Psychische aandoeningen,  
+c. een op grond van artikel 3 als zwaar aangemerkte ATC in combinatie met een op grond van artikel 3a als licht aangemerkte DBC vergoed kreeg; of  
 
-d. FKG 5 Diabetes IIb,  
+d. een op grond van artikel 3 als licht aangemerkte ATC in combinatie met een op grond van artikel 3a als zwaar aangemerkte DBC vergoed kreeg.     
+2.  Als een chronische groep die geen recht geeft op een tegemoetkoming als bedoeld in [artikel 2, eerste lid, onderdeel b of c, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) wordt aangemerkt een chronische groep waarbij de verzekerde in dat jaar: 
 
-e. FKG 6 Cara,  
+a. een ATC vergoed kreeg die op grond van artikel 3 als licht wordt aangemerkt;  
 
-f. FKG 7 Diabetes IIa,  
+b. een DBC vergoed kreeg die op grond van artikel 3a als licht wordt aangemerkt;  
 
-g. FKG 10 Hartaandoeningen, en  
-
-h. FKG 13 Diabetes I.     
-2.  Als zware FKG’s als bedoeld in [artikel 2, eerste lid, onderdeel c, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) worden aangewezen de FKG’s, genoemd in tabel B4.2 van [Bijlage 4, van de Regeling zorgverzekering](../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals deze luidde in het kalenderjaar waarop de tegemoetkoming, bedoeld in [artikel 2 van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), betrekking heeft: 
-
-a. FKG 8 Epilepsie,  
-
-b. FKG 9 Ziekte van Crohn/colitus ulcerosa,  
-
-c. FKG 11 Reuma,  
-
-d. FKG 12 Parkinson,  
-
-e. FKG 14 Transplantaties,  
-
-f. FKG 15 Cystic fibrosis/pancreas aandoeningen,  
-
-g. FKG 16 Aandoeningen van hersenen en ruggenmerg,  
-
-h. FKG 17 Kanker,  
-
-i. FKG 18 HIV/AIDS,  
-
-j. FKG 19 Nieraandoeningen, en  
-
-k. FKG 20 Groeihormonen.     
+c. een op grond van artikel 3 als licht aangemerkte ATC in combinatie met een op grond van artikel 3a als licht aangemerkte DBC vergoed kreeg.     
+3.  Als een chronische groep die recht geeft op een hoge tegemoetkoming als bedoeld in [artikel 2, tweede lid, onderdeel a, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) wordt aangemerkt een chronische groep waarbij de verzekerde in dat jaar een op grond van artikel 3 als zwaar aangemerkte ATC in combinatie met een op grond van artikel 3a in het jaar voorafgaand aan dat jaar als zwaar aangemerkte DBC vergoed kreeg.   
+4.  Binnen een chronische groep wordt slechts de als zwaarste aangemerkte DBC en de als zwaarste aangemerkte ATC die voor de betrokken verzekerde werd vergoed, betrokken bij de bepaling van de hoogte van de tegemoetkoming bij die chronische groep als bedoeld in het eerste tot en met derde lid.   
 
 ### Artikel  3  
 
-Als DKG’s als bedoeld in [artikel 2, eerste lid, onderdeel d, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) worden aangewezen de DKG’s, genoemd in tabel B4.3 van [bijlage 4, van de Regeling zorgverzekering](../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals deze luidde in het jaar voorafgaand aan het kalenderjaar waarop de tegemoetkoming, genoemd in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) betrekking heeft.  
+1.  Als lichte ATC’s als bedoeld in artikel 2, worden aangewezen de ATC’s met de daarbij behorende minimumaantal verstrektegestandaardiseerde dagdoseringen, genoemd in tabel 1 van bijlage 2, zoals deze luidde in het kalenderjaar waarop de tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betrekking heeft en die in de tabel als licht zijn aangemerkt.   
+2.  Als zware ATC’s als bedoeld in artikel 2, worden aangewezen de ATC’s met de daarbij behorende minimumaantal verstrekte gestandaardiseerde dagdoseringen, genoemd in tabel 1 van bijlage 2, zoals deze luidde in het kalenderjaar waarop de tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betrekking heeft en die in de tabel als zwaar zijn aangemerkt.   
+3.  Voor het bepalen van het aantal verstrekte gestandaardiseerde dagdoseringen, bedoeld in het eerste en tweede lid, kunnen ATC's binnen een chronische groep met eenzelfde grens voor het aantal verstrekte dagdoseringen waaraan voldaan moet worden en met eenzelfde weging, bij elkaar worden opgeteld.   
+
+### Artikel  3a  
+
+1.  Als lichte DBC’s als bedoeld in artikel 2, worden aangewezen de DBC’s, genoemd in tabel 2 van bijlage 2, zoals deze luidde in het jaar voorafgaand aan het kalenderjaar waarop de tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betrekking heeft en die in de tabel als licht zijn aangemerkt.   
+2.  Als zware DBC’s als bedoeld in artikel 2, worden aangewezen de DBC’s, genoemd in tabel 2 van bijlage 2, zoals deze luidde in het jaar voorafgaand aan het kalenderjaar waarop de tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betrekking heeft en die in de tabel als zwaar zijn aangemerkt.   
 
 ### Artikel  4  
 
-Als revalidatiecentra als bedoeld in [artikel 2, eerste lid, onderdeel e, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) worden aangewezen de instellingen, genoemd in de bijlage.  
+Als revalidatiecentra als bedoeld in [artikel 2, eerste lid, onderdeel e, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) worden aangewezen de instellingen, genoemd in bijlage 3.  
 
 ### Artikel  5  
 
-Het bedrag, bedoeld in [artikel 2, eerste lid, onderdeel f, onder 2° en 3°, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), is: € 247,50.  
+1.  Het aantal behandelingen, bedoeld in [artikel 2, eerste lid, onderdeel f, onder 2° en 3°, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), bedraagt 12.   
+2.  Het bedrag, bedoeld in [artikel 2, eerste lid, onderdeel f, onder 2° en 3°, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), is: € 351,84.   
 
 ### Hoofdstuk  2  
 
@@ -88,7 +69,9 @@ Het bedrag, bedoeld in [artikel 2, eerste lid, onderdeel f, onder 2° en 3°, va
 
 ### Artikel  6  
 
-Zorgverzekeraars als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en indicatieorganen als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) verstrekken de gegevens, bedoeld in [artikel 3 van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), voor 1 juli van het kalenderjaar waarin de tegemoetkoming wordt uitgekeerd.  
+1.  Zorgverzekeraars als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en indicatieorganen als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) verstrekken de gegevens, bedoeld in [artikel 3 van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), voor 1 juli van het kalenderjaar waarin de tegemoetkoming wordt uitgekeerd.   
+2.  Gemeenten verstrekken de gegevens, bedoeld in [artikel 3, vierde en vijfde lid, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), voor 1 maart van het kalenderjaar waarin de tegemoetkoming wordt uitgekeerd.   
+3.  Stichtingen als bedoeld in [artikel 9b, vierde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), verstrekken de gegevens, bedoeld in [artikel 3, zesde lid, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), voor 15 april van het kalenderjaar waarin de tegemoetkoming wordt uitgekeerd.   
 
 ### Artikel  7  
 
@@ -115,11 +98,11 @@ Voor het verwerken van gegevens op grond van de [wet](../../../../../../../../we
 2.  In afwijking van het eerste lid mogen de gegevens, indien zij worden versleuteld en daardoor niet zijn te herleiden tot een persoon, worden bewaard met het oog op statistische doeleinden.   
 3.  Het CAK registreert het verwerken van persoonsgegevens op grond van de wet en bewaart deze registratie gedurende vijf jaren.   
 
-### Hoofdstuk  4  
+### Hoofdstuk  3  
 
 ####Begroting en jaarverantwoording van het CAK
 
-### Paragraaf  4.1  
+### Paragraaf  3.1  
 
 ####De begroting
 
@@ -176,7 +159,7 @@ h. de gronden worden vermeld waarop de meerjarenraming is gebaseerd, waaronder e
 1.  De begroting van de te verstrekken tegemoetkomingen, bedoeld in [artikel 7, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) geeft de omvang van het geraamde bedrag aan tegemoetkomingen, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), weer.   
 2.  In de begroting wordt onderscheid gemaakt tussen tegemoetkomingen op grond van het eerste en het tweede lid van [artikel 2 van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) alsmede tussen de in deze leden genoemde bedragen.   
 
-### Paragraaf  4.2  
+### Paragraaf  3.2  
 
 ####De jaarverantwoording
 
@@ -209,17 +192,17 @@ b. wordt verrekend met de bevoorschotting van de begroting van het lopende jaar.
 1.  De jaarrekening geeft de omvang van de verstrekte tegemoetkomingen, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), weer.   
 2.  In de jaarrekening wordt onderscheid gemaakt tussen tegemoetkomingen op grond van het eerste en het [tweede lid van artikel 2, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md) alsmede tussen de in deze leden genoemde bedragen.   
 
-### Hoofdstuk  5  
+### Hoofdstuk  4  
 
 ####Financiering zorgverzekeraars
 
 ### Artikel  17  
 
-1.  De vergoeding, bedoeld in [artikel 5, vierde lid, onderdeel c, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) bedraagt voor het jaar 2009 per zorgverzekeraar het product van € 1.160.000 en het totaal aantal ingeschreven verzekerden bij die zorgverzekeraar, gedeeld door het totaal aantal verzekerden.   
+1.  De vergoeding, bedoeld in [artikel 5, vierde lid,onderdeel c, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) bedraagt voor het jaar 2010 per zorgverzekeraar het product van € 1.664.249 en het totaal aantal ingeschreven verzekerden bij die zorgverzekeraar, gedeeld door het aantal verzekerden.   
 2.  Voor het aantal ingeschrevenen wordt uitgegaan van het aantal verzekerden in de maand mei van het desbetreffende kalenderjaar.   
 3.  Indien op grond van de door een accountant goedgekeurde jaarrekening betreffende de uitvoeringskosten van de wet, blijkt dat het bedrag, bedoeld in het eerste lid, te hoog of te laag is vastgesteld, wordt dit bedrag gecorrigeerd voor de werkelijke kosten en verrekend met de vergoeding van het volgende kalenderjaar.   
 
-### Hoofdstuk  6  
+### Hoofdstuk  5  
 
 ####Slotbepalingen
 
@@ -237,8 +220,237 @@ De
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
 M.Bussemaker  
 
-### Bijlage  
+### Bijlage  1  
+
+### Tabel  1  
+
+####Hulpmiddelen als bedoeld in artikel 1a, eerste lid 
+
+| --- | --- |
+|:---|:---|
+|  *Verzorgingsmiddelen*   | --- |
+| Incontinentiemateriaal niet gespecificeerd  | Incontinentiematerialen  |
+| Incontinentie en absorptiematerialen  | Incontinentiematerialen  |
+| Stomamiddelen niet gespecificeerd  | Voorzieningen voor stomapatienten  |
+| Stomazakken eendelig  | Voorzieningen voor stomapatienten  |
+| Stomazakken meerdelig  | Voorzieningen voor stomapatienten  |
+| Continent stoma  | Voorzieningen voor stomapatienten  |
+| Stomaplug  | Voorzieningen voor stomapatienten  |
+| Irrigatieartikelen  | Voorzieningen voor stomapatienten  |
+| Huidverzorgingsproducten  | Voorzieningen voor stomapatienten  |
+| Geurreducerende producten  | Voorzieningen voor stomapatienten  |
+| Aanvullende hulpmiddelen  | Voorzieningen voor stomapatienten  |
+| Spoelapparatuur  | Voorzieningen voor stomapatienten  |
+| Overige verzorgingsmiddelen niet gespecificeerd  | Overige verzorgingsmiddelen  |
+| Kleding en schoeisel  | Overige verzorgingsmiddelen  |
+| Lichaamsgebonden beschermende hulpmiddelen  | Overige verzorgingsmiddelen  |
+| Urine-opvangzakken en toebehoren  | Overige verzorgingsmiddelen  |
+| Urinaal  | Overige verzorgingsmiddelen  |
+| Catheters  | Overige verzorgingsmiddelen  |
+| Tracheo-stoma beschermer  | Overige verzorgingsmiddelen  |
+| Kappen ter bescherming schedel  | Overige verzorgingsmiddelen  |
+
+### Tabel  2  
+
+####Hulpmiddelen als bedoeld in artikel 1a, tweede lid 
+
+| --- | --- |
+|:---|:---|
+|  *Orthesen en schoenvoorzieningen*   | --- |
+| Orthesen niet gespecificeerd  | Orthesen  |
+| Orthesen romp (corsetten/halskragen)  | Orthesen  |
+| Lig/sta/zit orthese  | Orthesen  |
+| Orthesen schouder/arm/hand  | Orthesen  |
+| Orthesen been/voet  | Orthesen  |
+| Hulpmiddelen voor herniabehandeling  | Orthesen  |
+| Orthopedisch schoeisel niet gespecificeerd  | Orthopedisch schoeisel  |
+| Orthopedisch schoeisel A  | Orthopedisch schoeisel  |
+| Orthopedisch schoeisel B  | Orthopedisch schoeisel  |
+| Aanpassing aan confectieschoeisel  | Orthopedisch schoeisel  |
+| Voetorthesen behorende bij orthopedisch schoeisel  | Orthopedisch schoeisel  |
+| Proefschoen  | Orthopedisch schoeisel  |
+| Allergeenvrije schoenen  | Schoenvoorzieningen  |
+| Verbandschoenen  | Schoenvoorzieningen  |
+| --- | --- |
+|  *Auditieve hulpmiddelen*   | --- |
+| Hoortoestellen, niet gespecificeerd  | Hoortoestellen  |
+| Hoortoestel in het oor gedragen  | Hoortoestellen  |
+| Hoortoestel achter het oor gedragen  | Hoortoestellen  |
+| Hoorbril  | Hoortoestellen  |
+| Overige hoorhulpmiddelen niet gespecificeerd  | Overige hoorhulpmiddelen  |
+| Maskeerders ter behandeling van ernstig oorsuizen (tinnitusmaskeerders)  | Overige hoorhulpmiddelen  |
+| Ringleidingen  | Overige hoorhulpmiddelen  |
+| FM-apparatuur  | Overige hoorhulpmiddelen  |
+| Infraroodapparatuur  | Overige hoorhulpmiddelen  |
+| Oorstukjes  | Overige hoorhulpmiddelen  |
+| Negatieve proefaanpassing hoortoestel  | Overige hoorhulpmiddelen  |
+| Huisbezoek audicien  | Overige hoorhulpmiddelen  |
+| Reparatie hoorhulpmiddelen  | Reparatie hoorhulpmiddelen  |
+| BAHA – hoortoestel  | BAHA-hoortoestellen  |
+| Solo – apparatuur  | Solo-apparatuur  |
+| --- | --- |
+|  *Visuele hulpmiddelen*   | --- |
+| Lenzen (met visuscorrectie)  | Gezichtshulpmiddelen  |
+| Brillen  | Gezichtshulpmiddelen  |
+| Visuele hulpmiddelen niet gespecificeerd  | Bijzondere optische hulpmiddelen  |
+| Beeldschermloepen  | Bijzondere optische hulpmiddelen  |
+| Vergrootglazen met ingebouwde verlichting  | Bijzondere optische hulpmiddelen  |
+| Vergrootglazen zonder ingebouwde verlichting  | Bijzondere optische hulpmiddelen  |
+| Verrekijker -en telescoopbril  | Bijzondere optische hulpmiddelen  |
+| --- | --- |
+|  *Inrichtingselementen van woningen*   | --- |
+| Inrichtingselementen voor het zitten niet gespecificeerd  | Inrichtingselementen voor het zitten  |
+| Anti decubitus kussens  | Inrichtingselementen voor het zitten  |
+| Tafels  | Inrichtingselementen voor het zitten  |
+| Stoelen  | Inrichtingselementen voor het zitten  |
+| Inrichtingselementen voor het slapen niet gespecificeerd  | Inrichtingselementen voor het slapen  |
+| Anti decubitus matrassen  | Inrichtingselementen voor het slapen  |
+| Bedden/matrassen  | Inrichtingselementen voor het slapen  |
+| Dekenbogen  | Inrichtingselementen voor het slapen  |
+| Onrusthekken bedgalgen portalen  | Inrichtingselementen voor het slapen  |
+| Bedverkorters en verlengers  | Inrichtingselementen voor het slapen  |
+| --- | --- |
+|  *Transportondersteuners van bloed en lymfe*   | --- |
+| Elastische kousen niet gespecificeerd  | Therapeutische elastische kousen  |
+| Elastische kousen rondbrei  | Therapeutische elastische kousen  |
+| Elastische kousen vlakbrei  | Therapeutische elastische kousen  |
+| Elastische armkousen  | Therapeutische elastische kousen  |
+| Aan en uittrekhulp  | Aan en uittrekhulp  |
+| Overige hulpm. ter ondersteuning bloed en lymfe  | Overige hulpm. ter ondersteuning bloed en lymfe (o.a. lymfapressapparaat)  |
+| lymfepressapparatuur  | Overige hulpm. ter ondersteuning bloed en lymfe (o.a. lymfapressapparaat)  |
+| --- | --- |
+|  *Hulpmiddelen bij ademhalingsproblemen*   | --- |
+| Hulpmiddelen voor ademtherapie incl. inhalatoren  | Apparatuur voor een positieve uitademingsdruk  |
+| Apparatuur voor positieve uitademingsdruk  | Apparatuur voor een positieve uitademingsdruk  |
+| Banken en kussens (ademtherapie)  | Apparatuur voor een positieve uitademingsdruk  |
+| Ademhalingsmeters (incl. spirometers)  | Apparatuur voor een positieve uitademingsdruk  |
+| Zuurstofapparaten en concentratoren met toebehoren  | Zuurstofapparaten met toebehoren  |
+| CPAP – apparatuur  | CPAP apparatuur  |
+| Longvibratoren  | Longvibrator  |
+| Warme-lucht inhalatoren  | Vernevelaar met toebehoren  |
+| Inhalatoren, inclusief vernevelaars  | Vernevelaar met toebehoren  |
+| Slijmuitzuigapparatuur  | Slijmuitzuigapparatuur  |
+| Tracheo-stoma hulpmiddelen  | Tracheo-stoma hulpmiddelen  |
+| MRA-apparatuur  | MRA-apparatuur  |
+| --- | --- |
+|  *Prothesen*   | --- |
+| Prothesen voor de schouder arm of hand al dan niet bekrachtigd  | Armprothesen  |
+| Prothesen voor voet of been  | Beenprothesen  |
+| Prothesen niet gespecificeerd  | Overige prothesen  |
+| Mammaprothesen  | Overige prothesen  |
+| Gelaatsprothesen  | Overige prothesen  |
+| Oogprothesen  | Overige prothesen  |
+| Cosmetische/niet functionele prothesen  | Overige prothesen  |
+| Stemprothese of spraakversterkers  | Overige prothesen  |
+| Stompkousen  | Overige prothesen  |
+| --- | --- |
+|  *Hulpmiddelen voor communicatie informatie en signalering*   | --- |
+| Computers met bijbehorende apparatuur voor lichamelijk gehandicapten  | Computers, inclusief toebehoren  |
+| Invoer- en uitvoerapparatuur/accessoires  | Computers, inclusief toebehoren  |
+| Schrijfmachines voor gehandicapten  | Computers, inclusief toebehoren  |
+| Rekenmachines voor gehandicapten  | Computers, inclusief toebehoren  |
+| Omgevingsbedieningsapparatuur  | Signalering/alarmering  |
+| Signaleringsapparatuur  | Signalering/alarmering  |
+| Persoonlijke alarmeringssysteem  | Signalering/alarmering  |
+| Wek en waarschuwingssysteem  | Signalering/alarmering  |
+| Daisy-speler  | Opname- en voorleesapparatuur  |
+| Draagbare communicator  | Opname- en voorleesapparatuur  |
+| Cassette- en memorecorders  | Opname- en voorleesapparatuur  |
+| Apparatuur voor synthetische spraak  | Opname- en voorleesapparatuur  |
+| Telefoons en telefoneerhulpmiddelen  | Telefooneer hulpmiddelen  |
+| Hulpm. voor communicatie, informatie en signalering niet gespecificeerd  | Overige hulpm. voor communicatie, informatie en signalering  |
+| Spraakvervangende hulpmiddelen  | Overige hulpm. voor communicatie, informatie en signalering  |
+| Bladomslagapparatuur  | Overige hulpm. voor communicatie, informatie en signalering  |
+| Tactiel- leesapparatuur  | Tactiel-leesapparatuur  |
+| --- | --- |
+|  *Hulpmiddelen voor de mobiliteit van personen*   | --- |
+| Eenvoudige hulpmiddelen voor de mobiliteit niet gespecificeerd  | Eenvoudige hulpmiddelen voor de mobiliteit  |
+| Krukken  | Eenvoudige hulpmiddelen voor de mobiliteit  |
+| Loophulpmiddelen met drie of meer poten  | Eenvoudige hulpmiddelen voor de mobiliteit  |
+| Looprekken  | Eenvoudige hulpmiddelen voor de mobiliteit  |
+| Rollators  | Eenvoudige hulpmiddelen voor de mobiliteit  |
+| Serveerwagens  | Eenvoudige hulpmiddelen voor de mobiliteit  |
+| Blindentaststokken  | Eenvoudige hulpmiddelen voor de mobiliteit  |
+| Looptafels  | Eenvoudige hulpmiddelen voor de mobiliteit  |
+| Loopfietsen en stoelen voorzien van trippelfunctie  | Hulpmiddelen voor de mobiliteit  |
+| --- | --- |
+|  *Reparatie en aanpassingen van hulpmiddelen*   | --- |
+| Reparatie hulpmiddel  | Reparatie en aanpassing hulpmiddelen  |
+| Aanpassing hulpmiddel  | Reparatie en aanpassing hulpmiddelen  |
+| --- | --- |
+|  *Hulpmiddelen voor het toedienen van voeding*   | --- |
+| Voedingshulpmiddelen niet gespecificeerd  | Voedingshulpmiddelen  |
+| Niet klinisch ingebrachte sondes met toebehoren  | Voedingshulpmiddelen  |
+| Uitwendige toebehoren, benodigd bij de toediening van parenterale voeding  | Voedingshulpmiddelen  |
+| Uitwendige voedingspompen met toebehoren  | Voedingshulpmiddelen  |
+| Eetapparaten  | Eetapparaten  |
+| --- | --- |
+|  *Hulpmiddelen in verband met behandeling*   | --- |
+| Draagbare, uitwendige infuuspompen met toebehoren  | Draagbare infuuspompen  |
+| Uitwendige electrostimulatoren  | Uitwendige electrostimulatoren  |
+| Toebehoren electrostimulatoren  | Uitwendige electrostimulatoren  |
+| Stimulatoren  | Uitwendige electrostimulatoren  |
+| Injectiemateriaal niet gespecificeerd  | Injectiespuiten/pennen met toebehoren  |
+| Injectiepistolen  | Injectiespuiten/pennen met toebehoren  |
+| Injectiespuiten  | Injectiespuiten/pennen met toebehoren  |
+| Injectienaalden  | Injectiespuiten/pennen met toebehoren  |
+| Behandeling en oefening niet gespecifieerd  | Behandeling en oefening niet gespecifieerd  |
+| --- | --- |
+|  *Geleidehonden*   | --- |
+| Hulphonden  | Hulphonden (inclusief gebruikskosten)  |
+| Gebruikskosten hulphonden  | Hulphonden (inclusief gebruikskosten)  |
+| Blindegeleidehonden  | Blindegeleidehonden (inclusief gebruikskosten)  |
+| Gebruikskosten blindegeleidehonden  | Blindegeleidehonden (inclusief gebruikskosten)  |
+| --- | --- |
+|  *Hulpmiddel t.b.v. arm-hand-vingerfunctie*   | --- |
+| Hulpmiddel ter ondersteuning van arm-hand-vingerfunctie  | Hulpmiddelen voor arm-hand-vingerfunctie  |
+| Manipulator  | Robotmanipulator  |
+| Raptor  | Raptor  |
+| --- | --- |
+|  *Zelfmeetapparatuur voor bloedstollingstijden*   | --- |
+| Apparatuur voor bepaling bloedstollingstijd  | Meetapparatuur voor bloedstollingstijd+toebehoren  |
+| Toebehoren voor bepaling bloedstollingstijd  | Meetapparatuur voor bloedstollingstijd+toebehoren  |
+| Opleiding apparatuur voor bepaling bloedstollingstijd  | Meetapparatuur voor bloedstollingstijd+toebehoren  |
+| --- | --- |
+|  *Hulpmiddelen voor thuisdialyse*   | --- |
+| CAPD hulpmiddel  | Apparatuur voor thuisdialyse  |
+| Thuisdialyse: vloeistof en chemicaliën  | Apparatuur voor thuisdialyse  |
+| Controle thuisdialyse van vloeistof en chemicaliën  | Apparatuur voor thuisdialyse  |
+| Aanpassing aan woning voor thuisdialyse  | Apparatuur voor thuisdialyse  |
+| Overige hulpmiddelen voor thuisdialyse  | Apparatuur voor thuisdialyse  |
+
+### Bijlage  3  
 
 ####Revalidatiecentra als bedoeld in artikel 4  van de Regeling tegemoetkoming chronisch zieken en gehandicapten
 
-Centrum voor Revalidatie – UMCG (Beatrixoord) Dilgtweg 5 9751 ND HAREN Revalidatie Friesland Hoofdstraat 3 9244 CL BEETSTERZWAAG Het Roessingh, centrum voor revalidatie Roessinghsbleekweg 33 7522 AH ENSCHEDE De Vogellanden, centrum voor revalidatie Hyacinthstraat 66a 8013 XZ ZWOLLE ViaReva, centrum voor revalidatie Arnhemseweg 11 7331 BA APELDOORN Revalidatiecentrum Groot Klimmendaal Heyenoordseweg 5 6813 GG ARNHEM Militair Revalidatiecentrum Aardenburg (MRC) Korte Molenweg 3 3941 PW DOORN Revalidatiecentrum De Hoogstraat Rembrandtkade 10 3583 TM UTRECHT De Trappenberg Crailoseweg 116 1272 EX HUIZEN Heliomare Relweg 51 1949 EC WIJK AAN ZEE Jan van Breemen Instituut Dr. Jan van Breemenstraat 2 1056 AB AMSTERDAM Revalidatiecentrum Amsterdam (RCA) Overtoom 283 1054 HW AMSTERDAM Sophia Revalidatie Vrederustlaan 180 2543 SW DEN HAAG Sophia Revalidatie Delft Reinier de Graafweg 1 2625 AD DELFT Revalidatiecentrum De Waarden Albert Schweitzerplaats 25 3318 AT DORDRECHT Rijnlands Revalidatie Centrum (RRC) Wassenaarseweg 501 2333 AL LEIDEN Rijndam revalidatiecentrum Westersingel 300 3015 LJ ROTTERDAM Capri Hartrevalidatie Rotterdam Parklaan 38 3016 BC ROTTERDAM Spine & Joint Centre Westerlaan 10 3016 CK ROTTERDAM Stichting Revalidatiegeneeskunde Zeeland ’s-Gravenpolderseweg 114a 4462 RA GOES Revalidatiecentrum Blixembosch Toledolaan 2 5629 CC EINDHOVEN Stichting Revalidatiecentrum Breda Brabantlaan 1 4817 JW BREDA Revalidatiecentrum Leijpark Prof. Stoltehof 3 5022 KE TILBURG Revalidatiecentrum Tolbrug Tolbrugstraat 11 5211 RW S HERTOGENBOSCH Stichting Revalidatie Limburg (SRL) Zandbergsweg 111 6432 CC HOENSBROEK EUGENIA Revalidatie Symondstrasse 11 CH-DAVOS-PLATZ 
+| AGB code  | Naam instelling  |
+|:---|:---|
+| 6160201  | STICHTING REVALIDATIE FRIESLAND  |
+| 6160401  | REVALIDATIECENTRUM ‘HET ROESSINGH’  |
+| 6160402  | STICHTING DE VOGELLANDEN  |
+| 6160501  | STICHTING VIAREVA REVALIDATIEGENEESKUNDE  |
+| 6160529  | REVALIDATIECENTRUM GROOT KLIMMENDAAL  |
+| 6160601  | MILITAIR REVALIDATIECENTRUM AARDENBURG  |
+| 6160602  | REVALIDATIECENTRUM DE HOOGSTRAAT  |
+| 6160702  | REVALIDATIECENTRUM AMSTERDAM  |
+| 6160703  | REVALIDATIECENTRUM DE TRAPPENBERG  |
+| 6160704  | REVALIDATIECENTRUM HELIOMARE  |
+| 6160705  | JAN VAN BREEMEN INSTITUUT  |
+| 6160706  | READE  |
+| 6160802  | RIJNLANDS REVALIDATIE CENTRUM  |
+| 6160804  | SOPHIA REVALIDATIE DELFT  |
+| 6160805  | STICHTING CAPRI HARTREVALIDATIE ROTTERDAM  |
+| 6160806  | SOPHIA REVALIDATIE DEN HAAG  |
+| 6160807  | REVALIDATIECENTRUM DE WAARDEN DORDRECHT  |
+| 6160808  | REVALIDATIECENTRUM RIJNDAM ADRIAANSTICHTING  |
+| 6160809  | SPINE & JOINT CENTRE  |
+| 6160810  | CENTRUM VOOR REUMA EN REVALIDATIE ROTTERDAM  |
+| 6160901  | ST. REVALIDATIEGENEESKUNDE ZEELAND  |
+| 6161002  | STICHTING REVALIDATIE ZUID-OOST BRABANT ‘BLIXEMBOSCH’  |
+| 6161003  | STICHTING REVALIDATIECENTRUM BREDA  |
+| 6161005  | REVALIDATIECENTRUM DE TOLBRUG  |
+| 6161006  | REVALIDATIECENTRUM LEIJPARK  |
+| 6161104  | STICHTING ADELANTE  |
+| 6161201  | EUGENIA REVALIDATIE  |
+| 6280101  | BEATRIXOORD  |
+

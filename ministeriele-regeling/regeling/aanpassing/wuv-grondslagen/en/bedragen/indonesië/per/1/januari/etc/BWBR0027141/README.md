@@ -7,15 +7,17 @@ Gelet op [artikel 18, vierde lid, van de Wet uitkeringen vervolgingsslachtoffers
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 04-02-2012 
 
 1.  De grondslag, bedoeld in [artikel 8, derde lid, onder b, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), zoals deze gold ter vaststelling van de uitkeringen sinds 1 januari 2009, wordt met ingang van 1 januari 2010 verhoogd met 2,78 procent.   
-2.   Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.    
+2.  Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 04-02-2012 
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-M.Bussemaker   
+M. Bussemaker     
