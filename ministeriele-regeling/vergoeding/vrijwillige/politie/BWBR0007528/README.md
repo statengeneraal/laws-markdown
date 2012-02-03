@@ -10,9 +10,9 @@ Besluit:
 
 Aan de vrijwillige ambtenaar in opleiding tot vrijwillige ambtenaar van politie of de vrijwillige ambtenaar aangesteld voor de uitoefening van de politietaak die in opdracht van het bevoegd gezag een voor zijn functie relevante cursus volgt dan wel deelneemt aan een oefening of in opdracht van het bevoegd gezag werkelijke dienst verricht, wordt door het bevoegd gezag 
 
-a. per kalenderjaar een vaste vergoeding van € 162,69 toegekend, en  
+a. per kalenderjaar een vaste vergoeding van € 166,77 toegekend, en  
 
-b. per uur een vergoeding van € 6,68 toegekend.   Indien de in de eerste volzin bedoelde vrijwillige ambtenaar in opleiding of de vrijwillige ambtenaar niet het gehele kalenderjaar is aangesteld, wordt de vaste vergoeding naar rato toegekend. De vergoedingen worden jaarlijks aangepast aan overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.  
+b. per uur een vergoeding van € 6,95 toegekend.   Indien de in de eerste volzin bedoelde vrijwillige ambtenaar in opleiding of de vrijwillige ambtenaar niet het gehele kalenderjaar is aangesteld, wordt de vaste vergoeding naar rato toegekend. De vergoedingen worden jaarlijks aangepast aan overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.  
 
 ### Artikel  2  
 

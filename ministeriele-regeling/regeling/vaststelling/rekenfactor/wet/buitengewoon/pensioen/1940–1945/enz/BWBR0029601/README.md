@@ -7,14 +7,16 @@ Gelet op [artikel 8, vijfde lid, van de Wet buitengewoon pensioen 1940–1945](.
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 17-02-2013 
 
-De rekenfactor, bedoeld in [artikel 8, vijfde lid, van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), alsmede in [artikel 35d, vijfde lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) bedraagt voor het jaar 2010:   ![248435](http://wetten.overheid.nl/Illustration/248435)
+De rekenfactor, bedoeld in [artikel 8, vijfde lid, van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), alsmede in [artikel 35d, vijfde lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) bedraagt voor het jaar 2010:  ![248435](http://wetten.overheid.nl/Illustration/248435)
 
 ### Artikel  2  
+Materieel uitgewerkt per 17-02-2013 
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.L.L.E.Veldhuijzen van Zanten-Hyllner   
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.L.L.E. Veldhuijzen van Zanten-Hyllner     
