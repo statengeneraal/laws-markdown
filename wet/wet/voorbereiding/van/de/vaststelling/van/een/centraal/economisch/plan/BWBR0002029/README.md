@@ -11,12 +11,14 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  1  
 
-Deze wet verstaat onder: "Onze Ministers": Onze Ministers van Economische Zaken, van Landbouw, Visscherij en Voedselvoorziening, van Verkeer, van Openbare Werken en Wederopbouw, van Financiën, van Binnenlandsche Zaken, van Buitenlandsche Zaken, van Overzeesche Gebiedsdeelen en van Sociale Zaken.  
+In deze wet wordt verstaan onder: 
+
+*Onze Ministers:* Onze Ministers van Economische Zaken, Landbouw en Innovatie, van Infrastructuur en Milieu, van Financiën, van Binnenlandse Zaken en Koninkrijksrelaties, van Buitenlandse Zaken en van Sociale Zaken en Werkgelegenheid.    
 
 ### Artikel  2  
 
-1.  Er is een Centraal Planbureau, dat ressorteert onder Onzen Minister van Economische Zaken.   
-2.  Aan het hoofd van het Bureau staat een directie, bestaande uit een directeur en twee onder-directeuren, die door Onzen Minister van Economische Zaken, in overleg met de overige in artikel 1 genoemde Ministers, worden benoemd, geschorst en ontslagen.   
+1.  Er is een Centraal Planbureau, dat ressorteert onder Onze Minister van Economische Zaken, Landbouw en Innovatie.   
+2.  Aan het hoofd van het Bureau staat een directie, bestaande uit een directeur en twee onder-directeuren.   
 
 ### Artikel  3  
 
@@ -28,7 +30,7 @@ Deze wet verstaat onder: "Onze Ministers": Onze Ministers van Economische Zaken,
 
 1.  Er is een Centrale Plancommissie.   
 2.  De commissie bestaat uit ten hoogste twaalf leden.   
-3.  De voorzitter en de overige leden van de commissie worden benoemd, geschorst en ontslagen door Onze Minister van Economische Zaken, in overeenstemming met het gevoelen van de ministerraad.   
+3.  De voorzitter en de overige leden van de commissie worden benoemd, geschorst en ontslagen door Onze Minister van Economische Zaken, Landbouw en Innovatie, in overeenstemming met het gevoelen van de ministerraad.   
 4.  De vergaderingen van de commissie kunnen worden bijgewoond door de directie van het Centraal Planbureau.   
 
 ### Artikel  5  
@@ -37,7 +39,7 @@ De Centrale Plancommissie adviseert de directie van het Centraal Planbureau met 
 
 ### Artikel  6  
 
-1.  Onze Minister van Economische Zaken kan, in overleg met dengene Onzer Ministers, wien het aangaat voor het uitwerken van onderdeelen van het Centraal Economisch Plan werkcommissies instellen.   
+1.  Onze Minister van Economische Zaken, Landbouw en Innovatie kan, in overleg met dengene Onzer Ministers, wien het aangaat voor het uitwerken van onderdeelen van het Centraal Economisch Plan werkcommissies instellen.   
 2.  Een werkcommissie bestaat uit: 
 
 a. een of meer vertegenwoordigers van het Centraal Planbureau;  
@@ -45,7 +47,7 @@ a. een of meer vertegenwoordigers van het Centraal Planbureau;
 b. een of meer vertegenwoordigers van dengene Onzer Ministers, wien het aangaat;  
 
 c. een of meer vertegenwoordigers van het bedrijfsleven of andere belanghebbenden in het betrokken onderdeel.     
-3.  De voorzitter en de overige leden van een werkcommissie worden benoemd en ontslagen door Onzen Minister van Economische Zaken, in overleg met dengene Onzer Ministers, wien het aangaat.   
+3.  De voorzitter en de overige leden van een werkcommissie worden benoemd en ontslagen door Onze Minister van Economische Zaken, Landbouw en Innovatie, in overleg met dengene Onzer Ministers, wien het aangaat.   
 
 ### Artikel  7  
 

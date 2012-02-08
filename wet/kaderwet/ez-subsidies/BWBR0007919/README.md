@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Economische Zaken.  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ e. het exportbevorderingsbeleid;
 f. het telecommunicatiebeleid;  
 
 g. het postbeleid.     
-2.  Onze Minister kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen, die genoemd zijn in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begroting van uitgaven en ontvangsten van het Ministerie van Economische Zaken voor het desbetreffende jaar, of voor een voorafgaand jaar voor zover daarin een beschikking tot subsidieverlening is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.   
+2.  Onze Minister kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen, die genoemd zijn in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begroting van uitgaven en ontvangsten van het Ministerie van Economische Zaken, Landbouw en Innovatie voor het desbetreffende jaar, of voor een voorafgaand jaar voor zover daarin een beschikking tot subsidieverlening is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.   
 
 ### Artikel  3  
 

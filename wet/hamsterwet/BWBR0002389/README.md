@@ -20,9 +20,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  3  
 
-1.  Onze Minister van Economische Zaken kan regelen stellen tot het tegengaan van het hamsteren van andere goederen dan de in het tweede lid bedoelde.   
-2.  Onze Minister van Landbouw en Visserij kan regelen stellen tot het tegengaan van het hamsteren van voortbrengselen als bedoeld in de omschrijving van het begrip produkten, onder *a*, in [artikel 1, eerste lid, van de Landbouwwet](../../../wet/landbouwwet/BWBR0002252/README.md) (*Stb.* 1957, 342).   
-3.  De krachtens het eerste of het tweede lid gestelde regelen kunnen onder meer inhouden een verbod daarbij aangewezen goederen binnen daarbij aangegeven tijdsruimten in grotere dan daarbij aangegeven hoeveelheden af te leveren of in ontvangst te nemen.   
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
+1.  Onze Minister van Economische Zaken, Landbouw en Innovatie kan regels stellen tot het tegengaan van het hamsteren van goederen.   
+2.  De krachtens het eerste lid gestelde regelen kunnen onder meer inhouden een verbod daarbij aangewezen goederen binnen daarbij aangegeven tijdsruimten in grotere dan daarbij aangegeven hoeveelheden af te leveren of in ontvangst te nemen.   
 
 ### Artikel  4  
 
@@ -42,7 +42,7 @@ Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep in
 
 ### Artikel  6a  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister van Economische Zaken aangewezen ambtenaren of, voor zover het de voedselvoorziening betreft, de bij besluit van Onze Minister van Landbouw, Natuur en Voedselkwaliteit aangewezen ambtenaren.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 3.  Zo nodig oefent de toezichthouder de in de [artikelen 5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genoemde bevoegdheden uit met behulp van de sterke arm.   
 4.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens deze wet opgelegde verplichtingen.   

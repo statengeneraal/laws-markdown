@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. de Raad: de Raad voor plantenrassen, genoemd in artikel 2;  
 

@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. CBS: het Centraal bureau voor de statistiek;  
 
@@ -312,8 +312,8 @@ Het in artikel 13, tweede lid, van verordening 638/2004 bedoelde verslag wordt o
 
 ### Artikel  39  
 
-1.  In afwijking van artikel 37 verstrekt de directeur-generaal gegevens aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie voor zover deze verstrekking noodzakelijk is voor de productie van specifieke communautaire statistieken.   
-2.  Bij elke andere verstrekking aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie vergewist de directeur-generaal zich ervan dat alle administratieve, technische en organisatorische maatregelen zijn genomen die voor de fysieke en logistieke bescherming van vertrouwelijke gegevens en voor het voorkomen van enige onwettige openbaarmaking en gebruik voor niet-statistische doeleinden bij de verspreiding van communautaire en nationale statistieken nodig zijn.   
+1.  In afwijking van artikel 37 verstrekt de directeur-generaal gegevens aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie en de leden van het Europees Stelsel van Centrale Banken, voor zover deze verstrekking noodzakelijk is ingevolge een besluit van de Europese Raad en het Europees Parlement.   
+2.  Bij elke andere verstrekking aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie of leden van het Europees Stelsel van Centrale Banken vergewist de directeur-generaal zich ervan dat alle administratieve, technische en organisatorische maatregelen zijn genomen die voor de fysieke en logistieke bescherming van vertrouwelijke gegevens en voor het voorkomen van enige onwettige openbaarmaking en gebruik voor niet-statistische doeleinden bij de verspreiding van communautaire en nationale statistieken nodig zijn.   
 
 ### Artikel  40  
 
@@ -366,7 +366,7 @@ e. het onderzoek overigens voldoet aan daaraan redelijkerwijs te stellen eisen.
 
 1.  De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in artikel 33, tweede lid, bedoelde rechtspersonen en de in artikel 33, derde lid, bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.   
 2.  De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in artikel 38b doet.   
-3.  Onze Minister kan, in overeenstemming met Onze Minister van Justitie, regels stellen ter zake van de uitoefening van de bevoegdheid tot oplegging van een bestuurlijke boete.   
+3.  Onze Minister kan, in overeenstemming met Onze Minister van Veiligheid en Justitie, regels stellen ter zake van de uitoefening van de bevoegdheid tot oplegging van een bestuurlijke boete.   
 
 ### Artikel  48  
 

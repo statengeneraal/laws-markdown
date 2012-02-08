@@ -21,7 +21,7 @@ c. personeelslid: degene die op de dag voor de overgangsdatum in dienst is bij h
 
 d. de NV PTT: de naamloze vennootschap PTT Nederland NV, daaronder mede begrepen een vennootschap waarin PTT Nederland NV voor meer dan de helft in het geplaatste kapitaal deelneemt;  
 
-e. Onze Minister: Onze Minister van Verkeer en Waterstaat.    
+e. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie.    
 
 ### Artikel  2  
 
@@ -41,8 +41,8 @@ e. Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
 1.  Met ingang van de overgangsdatum is het personeelslid van rechtswege eervol ontslagen uit de dienst bij het Staatsbedrijf.   
 2.  Het in het eerste lid bedoelde ontslag treedt niet in ten aanzien van het personeelslid dat overeenkomstig de bezwarenregeling, bedoeld in artikel 7, eerste lid, voor de overgangsdatum bezwaar heeft aangetekend tegen de aangeboden functie, op de grond dat de geboden functie, mede in verband met zijn persoonlijkheid en omstandigheden, voor hem niet passend is te achten, voor zover op de overgangsdatum nog niet op het bezwaar is beslist en een eventueel herplaatsingsonderzoek nog niet is afgerond.   
-3.  In een geval als bedoeld in het tweede lid blijft de op de dag voor de overgangsdatum bestaande dienstbetrekking van het personeelslid gehandhaafd, met dien verstande dat het personeelslid met ingang van de overgangsdatum in dienst is bij het ministerie van Verkeer en Waterstaat.   
-4.  Indien op basis van een aanbod als bedoeld in artikel 3, eerste lid, alsnog een arbeidsovereenkomst tot stand komt, is het in het vorige lid bedoelde personeelslid op de ingangsdatum van de arbeidsovereenkomst van rechtswege eervol ontslagen uit de dienst van het ministerie van Verkeer en Waterstaat. Dit personeelslid zal zoveel mogelijk in de positie worden gebracht die hij zou hebben gehad als hij op de overgangsdatum van rechtswege ontslagen zou zijn uit de dienst bij het Staatsbedrijf.   
+3.  In een geval als bedoeld in het tweede lid blijft de op de dag voor de overgangsdatum bestaande dienstbetrekking van het personeelslid gehandhaafd, met dien verstande dat het personeelslid met ingang van de overgangsdatum in dienst is bij het Ministerie van Economische Zaken, Landbouw en Innovatie.   
+4.  Indien op basis van een aanbod als bedoeld in artikel 3, eerste lid, alsnog een arbeidsovereenkomst tot stand komt, is het in het vorige lid bedoelde personeelslid op de ingangsdatum van de arbeidsovereenkomst van rechtswege eervol ontslagen uit de dienst van het Ministerie van Economische Zaken, Landbouw en Innovatie. Dit personeelslid zal zoveel mogelijk in de positie worden gebracht die hij zou hebben gehad als hij op de overgangsdatum van rechtswege ontslagen zou zijn uit de dienst bij het Staatsbedrijf.   
 
 ### Artikel  5  
 
@@ -62,12 +62,12 @@ e. Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
 ### Artikel  7  
 
-1.  Onze Minister stelt in overeenstemming met Onze Minister van Binnenlandse Zaken regels omtrent de behandeling van bezwaren van een personeelslid tegen een aanbod als bedoeld in artikel 3, eerste lid. Een bezwarencommissie wordt opgedragen terzake advies uit te brengen, waarna door of vanwege Onze Minister op het bezwaar een beslissing wordt genomen.   
+1.  Onze Minister stelt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties regels omtrent de behandeling van bezwaren van een personeelslid tegen een aanbod als bedoeld in artikel 3, eerste lid. Een bezwarencommissie wordt opgedragen terzake advies uit te brengen, waarna door of vanwege Onze Minister op het bezwaar een beslissing wordt genomen.   
 2.  Een beslissing als bedoeld in het vorige lid, genomen ten aanzien van een personeelslid dat bij het Staatsbedrijf is aangesteld als ambtenaar wordt geacht een besluit te zijn in de zin van [artikel 3 van de Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929 (*Stb.* 530).   
 
 ### Artikel  8  
 
-Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken nadere regels vaststellen met betrekking tot de uitvoering van het in de artikelen 3 en 4 bepaalde.  
+Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties nadere regels vaststellen met betrekking tot de uitvoering van het in de artikelen 3 en 4 bepaalde.  
 
 ### Artikel  9  
 

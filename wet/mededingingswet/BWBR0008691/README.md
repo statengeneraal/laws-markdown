@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. mededingingsautoriteit: de Nederlandse Mededingingsautoriteit, genoemd in artikel 2, eerste lid;  
 
@@ -869,7 +869,7 @@ Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invorderin
 
 ### Artikel  69  
 
-1.  De raad kan degene die jegens de in artikel 50, eerste lid, artikel 52, eerste lid, of artikel 89g, eerste lid, bedoelde ambtenaren in strijd handelt met artikel 59a, derde lid, 77a, derde lid, of met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen van ten hoogste € 450 000,- of, indien het een onderneming of een ondernemersvereniging betreft en indien dat meer is, van ten hoogste 1% van de omzet van de onderneming, onderscheidenlijk van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.   
+1.  De raad kan degene die jegens de in artikel 50, eerste lid, artikel 52, eerste lid, of artikel 89g, eerste lid, bedoelde ambtenaren in strijd handelt met artikel 59a, derde lid, 77a, derde lid, of met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.   
 2.  [Artikel 184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is niet van toepassing op de in het eerste lid bedoelde overtreding.   
 
 ### Artikel  70  
@@ -966,7 +966,7 @@ Artikel 57, tweede lid, is van toepassing ten aanzien van het opleggen van een b
 
 ### Artikel  76a  
 
-De raad kan in geval van overtreding van artikel 49a, vierde lid, de overtreder een boete opleggen van ten hoogste € 450 000 of, indien het een onderneming of ondernemersvereniging betreft en indien dat meer is, van ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uit maken, in het boekjaar voorafgaande aan de beschikking.  
+De raad kan in geval van overtreding van artikel 49a, vierde lid, de overtreder een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
 
 ### §  3  
 
@@ -1157,15 +1157,15 @@ b. voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden g
 
 ### Artikel  92  
 
-1.  Over een bezwaar tegen een beschikking omtrent het opleggen van een bestuurlijke boete of een last onder dwangsom adviseert een commissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De leden van de in het eerste lid bedoelde adviescommissie zijn niet werkzaam bij het Ministerie van Economische Zaken of bij de mededingingsautoriteit. Een lid van de raad kan evenmin deel uitmaken van een dergelijke adviescommissie.   
+1.  Over een bezwaar tegen een beschikking omtrent het opleggen van een bestuurlijke boete of een last onder dwangsom als bedoeld in artikel 56 adviseert een commissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De leden van de in het eerste lid bedoelde adviescommissie zijn niet werkzaam bij het Ministerie van Economische Zaken, Landbouw en Innovatie of bij de mededingingsautoriteit. Een lid van de raad kan evenmin deel uitmaken van een dergelijke adviescommissie.   
 
 ### Artikel  93  
 
 1.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.   
 2.  Ten aanzien van besluiten als bedoeld in de artikelen 37, eerste lid, 44, eerste lid, en 47, eerste lid, blijft [artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
 3.  Een consumentenorganisatie wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.   
-4.  De raad kan bij toepassing van [artikel 3.11, tweede lid van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in zaken waarbij een consumentenorganisatie als bedoeld in het derde lid belanghebbende is, om gewichtige redenen onderscheid maken tussen de in artikel 59, derde lid, bedoelde rechtspersonen of natuurlijke personen en genoemde consumentenorganisatie bij de beoordeling van de vraag of op de zaak betrekking hebbende stukken of gedeelten van stukken ter inzage worden gelegd.   
+4.  De raad kan bij toepassing van [artikel 3.11, tweede lid van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in zaken waarbij een consumentenorganisatie als bedoeld in het derde lid belanghebbende is, om gewichtige redenen onderscheid maken tussen de overtreder en genoemde consumentenorganisatie bij de beoordeling van de vraag of op de zaak betrekking hebbende stukken of gedeelten van stukken ter inzage worden gelegd.   
 
 ### Hoofdstuk  12a  
 

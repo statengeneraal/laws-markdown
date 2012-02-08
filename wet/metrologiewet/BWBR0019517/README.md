@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. EG-besluit: bindend besluit van de Raad van de Europese Unie, van het Europese Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen;  
 

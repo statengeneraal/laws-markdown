@@ -66,7 +66,7 @@ p. salarisnummer: een aanduiding, bestaande uit een getal, die in een salarissch
 
 q. maximumsalaris: het hoogste bedrag van een salarisschaal;  
 
-r. functie: het samenstel van werkzaamheden door de ambtenaar te verrichten krachtens en overeenkomstig hetgeen hem door het daartoe bevoegde gezag is opgedragen;  
+r. functie: het samenstel van werkzaamheden door de ambtenaar te verrichten krachtens en overeenkomstig hetgeen hem door het daartoe bevoegde gezag is opgedragen, of het samenstel van door de ambtenaar te verrichten opgedragen werkzaamheden, zoals vastgelegd in het LFNP;  
 
 s. toelagen: alle toelagen waarop ingevolge dit besluit aanspraak bestaat;  
 
@@ -124,7 +124,9 @@ ss. initiële opleiding: een door Onze Minister in overeenstemming met de Minist
 
 tt. theoretisch opleidingsdeel: de periode of perioden waarin de aspirant aan een opleidingsinstituut in het kader van de initiële opleiding onderwijs volgt;  
 
-uu. praktisch opleidingsdeel: de periode of perioden waarin de aspirant de politietaak bij een regionaal politiekorps of bij het Korps landelijke politiediensten uitvoert in het kader van de initiële opleiding.     
+uu. praktisch opleidingsdeel: de periode of perioden waarin de aspirant de politietaak bij een regionaal politiekorps of bij het Korps landelijke politiediensten uitvoert in het kader van de initiële opleiding;  
+
+vv. LFNP: Landelijk Functiegebouw Nederlandse Politie: het door Onze Minister vastgestelde geheel van functiebeschrijvingen, onderverdeeld naar vakgebieden, inclusief de waardering, en de aan het gebouw verbonden en omschreven werkterreinen, aandachtsgebieden en specifieke functionaliteiten.     
 2.  Voor de toepassing van dit besluit wordt onder echtgenote of echtgenoot mede verstaan de geregistreerde partner alsmede de niet-gehuwde ambtenaar die met een levenspartner samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding. Onder weduwe of weduwnaar wordt mede begrepen de achtergebleven geregistreerde partner alsmede de achtergebleven levenspartner. Tegelijkertijd kan slechts een persoon als echtgenoot of echtgenote dan wel weduwe of weduwnaar worden aangemerkt. Het bevoegd gezag kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als bedoeld in de eerste volzin is gesloten.   
 
 ### Artikel  2  
@@ -212,7 +214,7 @@ De ambtenaar ontvangt geen bezoldiging over de tijd gedurende welke hij opzettel
 ### Artikel  6  
 
 1.  Voor de ambtenaar geldt een salarisschaal.   
-2.  Voor de bepaling van de salarisschaal wordt de functie van de ambtenaar gewaardeerd en ingedeeld op grond van een bij regeling van Onze Minister vast te stellen systeem van functiewaardering.   
+2.  Bij ministeriële regeling worden regels gesteld over de functies en de bij de functies behorende waardering. Tevens worden regels gesteld over de overgang van ambtenaren naar een functie die is opgenomen in het LFNP.   
 3.  Indien nog geen sprake is van volledige functievervulling, geldt voor de ambtenaar voor de duur van een jaar een lagere salarisschaal dan voor hem op grond van het tweede lid zou gelden. Het bevoegd gezag kan beslissen om de periode van een jaar tot twee jaar te verlengen.   
 4.  Indien de ambtenaar bij wijze van waarneming tijdelijk een andere functie uitoefent, blijft de voordien voor de ambtenaar geldende salarisschaal van toepassing.   
 5.  Anders dan bij wijze van disciplinaire straf op grond van [hoofdstuk IX van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), kan zonder voorafgaand ontslag, niet zijnde een ontslag dat de ambtenaar is verleend om een initiële opleiding te gaan volgen, voor een ambtenaar geen salarisschaal gaan gelden met een lager maximumsalaris dan dat van de reeds voor de ambtenaar geldende salarisschaal.   
@@ -235,12 +237,13 @@ d. indien de ambtenaar, die is aangewezen als herplaatsingkandidaat als bedoeld 
 | 40 of meer dienstjaren  | vier jaren  |
 
 8.  De lagere salarisschaal uit het zesde lid, onderdeel d, en het zevende lid, geldt niet indien de uitzondering van [artikel 55ra van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) van toepassing is.   
-9.  De ambtenaar kan bij het bevoegd gezag een aanvraag indienen om, indien de feitelijk opgedragen werkzaamheden ten minste een jaar wezenlijk afwijken van zijn functie, de werkzaamheden en de functie met elkaar in overeenstemming te brengen. Onze Minister stelt regels vast over de behandeling van deze aanvraag.   
+9.  De ambtenaar kan bij het bevoegd gezag een aanvraag indienen om, indien de feitelijke opgedragen werkzaamheden ten minste één jaar afwijken van een hem in de periode vanaf 31 december 2009 tot en met 31 maart 2011 opgedragen functie, de werkzaamheden en de functie met elkaar in overeenstemming te brengen. Bij ministeriële regeling worden regels vastgesteld over de behandeling van deze aanvraag.   
 10.  Voor de ambtenaar die in het kader van een detachering, bedoeld in [artikel 62 van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), tijdelijk een andere functie uitoefent waaraan op grond van artikel 6, tweede lid, een hogere salarisschaal is verbonden, geldt deze hogere salarisschaal.   
+11.  De regeling bedoeld in het tweede lid is ook van toepassing in het kader van het vaststellen van de salarisschaal van passende arbeid bij arbeidsongeschiktheid. Hierbij is de eigen of een andere functie uit het LFNP, of een deel van één of meerdere functies uit het LFNP bepalend.   
 
 ### Artikel  7  
 
-1.  De ambtenaar die zich niet kan verenigen met de waardering van de voor hem geldende functie, bedoeld in artikel 6, tweede lid, kan het bevoegd gezag verzoeken deze waardering in heroverweging te nemen.   
+1.  De ambtenaar die zich niet kan verenigen met de waardering van een hem in de periode vanaf 31 december 2009 tot en met 31 maart 2011 opgedragen functie, bedoeld in artikel 6, tweede lid, kan het bevoegd gezag verzoeken deze waardering in heroverweging te nemen.   
 2.  Onze Minister stelt regels over de behandeling van het verzoek, bedoeld in het eerste lid.   
 
 ### Artikel  8  
@@ -885,6 +888,14 @@ c) indien het gaat om de wees, bedoeld in artikel 7.7, eerste lid, aanhef, onder
 ### Artikel  48  
 
 Voor gevallen, waarin dit besluit niet of niet naar billijkheid voorziet, wordt door Onze Minister een bijzondere regeling getroffen.  
+
+### Artikel  48a  
+
+Voor aanvragen om de werkzaamheden en functie met elkaar in overeenstemming te brengen, verzonden uiterlijk 23 mei 2011, waarop nog geen onherroepelijke beslissing is genomen, blijven artikel 1, eerste lid, onderdeel r. en artikel 6, negende lid, van het Besluit bezoldiging politie, zoals die golden op de dag voor inwerkingtreding van dit artikel, van toepassing.  
+
+### Artikel  48b  
+
+Voor aanvragen over de heroverweging van de waardering van de functie waarop nog geen onherroepelijke beslissing is genomen, blijven artikel 1, eerste lid, onderdeel r. en artikel 7, eerste lid, van het Besluit bezoldiging politie, zoals die golden op de dag voor inwerkingtreding van dit artikel, van toepassing.  
 
 ### Artikel  49  
 

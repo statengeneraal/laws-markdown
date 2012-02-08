@@ -25,7 +25,7 @@ d. "schipper": elke gezagvoerder van een vaartuig of degene die deze vervangt.
 a. één of meer natuurlijke personen die de nationaliteit van een der lid-staten van de Europese Gemeenschappen dan wel van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte bezitten of  
 
 b. één of meer rechtspersonen die in overeenstemming met de wetgeving van een lid-staat van de Europese Gemeenschappen dan wel van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte zijn opgericht en die hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Gemeenschappen dan wel binnen een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte hebben.     
-3.  Het exploiteren van een vaartuig bedoeld in het tweede lid, kan mede plaatsvinden door middel van een nevenvestiging als bedoeld in [artikel 1, onderdeel l, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).   
+3.  Het exploiteren van een vaartuig bedoeld in het tweede lid, kan mede plaatsvinden door middel van een nevenvestiging als bedoeld in artikel 1, onderdeel l, van de Handelsregisterwet 2007.   
 
 ### Artikel  2  
 
@@ -54,11 +54,11 @@ De schipper van een Nederlands vaartuig is verplicht de voorschriften in acht te
 
 ### Artikel  8  
 
-De artikelen 2, eerste lid, 3, 4, 5 en 7 van deze wet zijn van overeenkomstige toepassing op de schippers van vaartuigen die de nationaliteit bezitten van een andere staat die partij is bij dit Verdrag, indien het vaartuig zich bevindt in de visserijzone, ingesteld krachtens de [Machtigingswet instelling visserijzone](../../../../../rijkswet/machtigingswet/instelling/visserijzone/BWBR0003110/README.md).  
+De artikelen 2, eerste lid, 3, 4, 5 en 7 van deze wet zijn van overeenkomstige toepassing op de schippers van vaartuigen die de nationaliteit bezitten van een andere staat die partij is bij dit Verdrag, indien het vaartuig zich bevindt in de visserijzone, ingesteld krachtens de Machtigingswet instelling visserijzone.  
 
 ### Artikel  9  
 
-Met het toezicht op de naleving van de bepalingen van het Verdrag zijn belast de ambtenaren, die overeenkomstig het bepaalde bij en krachtens artikel 9 van het Verdrag hiertoe zijn aangewezen. De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner. De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Met het toezicht op de naleving van de bepalingen van het Verdrag zijn belast de ambtenaren, die overeenkomstig het bepaalde bij en krachtens artikel 9 van het Verdrag hiertoe zijn aangewezen. De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner. De toezichthouder beschikt niet over de bevoegdheid, genoemd in artikel 5:18 van de Algemene wet bestuursrecht.  
 
 ### Artikel  10  
 
@@ -69,9 +69,9 @@ Met het toezicht op de naleving van de bepalingen van het Verdrag zijn belast de
 
 Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn belast: 
 
-1°. de bij of krachtens de [artikelen 141](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [539d van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren;  
+1°. de bij of krachtens de artikelen 141 en 539d van het Wetboek van Strafvordering aangewezen ambtenaren;  
 
-2°. de door Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.    
+2°. de door Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren.    
 
 ### Artikel  13  
 

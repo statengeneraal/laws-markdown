@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet wordt verstaan onder: Commissie: de Commissie van de Europese Gemeenschappen; EG-mededingingsverordeningen: verordening (EG) nr. 659/1999 van de Raad van 22 maart 1999 tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-Verdrag (PbEG L 83); Onze Ministers: Onze Minister van Economische Zaken en Onze Minister, wie de zaak mede aangaat, tezamen.  
+In deze wet wordt verstaan onder: Commissie: de Commissie van de Europese Gemeenschappen; EG-mededingingsverordeningen: verordening (EG) nr. 659/1999 van de Raad van 22 maart 1999 tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-Verdrag (PbEG L 83); Onze Ministers: Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister, wie de zaak mede aangaat, tezamen.  
 
 ### Artikel  2  
 
@@ -41,8 +41,8 @@ Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wor
 
 ### Artikel  5  
 
-1.  Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wordt gepleegd tegen het verrichten van een verificatie, die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, kan Onze Minister van Economische Zaken vorderen dat door de rechter-commissaris onverwijld wordt overgegaan tot het doen van een doorzoeking van een plaats als bedoeld in artikel 2, tweede lid, onder d, gericht op voor de verificatie noodzakelijke zakelijke gegevens en bescheiden. De vordering wordt gericht tot de rechter-commissaris bij de rechtbank in het arrondissement waar die plaats is gelegen.   
-2.  De vordering, bedoeld in het eerste lid, gaat vergezeld van een afschrift van de beschikking van de Commissie waarbij de verificatie is gelast en een schriftelijke opgave van de redenen die naar het oordeel van Onze Minister van Economische Zaken een doorzoeking noodzakelijk maken.   
+1.  Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wordt gepleegd tegen het verrichten van een verificatie, die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, kan Onze Minister van Economische Zaken, Landbouw en Innovatie vorderen dat door de rechter-commissaris onverwijld wordt overgegaan tot het doen van een doorzoeking van een plaats als bedoeld in artikel 2, tweede lid, onder d, gericht op voor de verificatie noodzakelijke zakelijke gegevens en bescheiden. De vordering wordt gericht tot de rechter-commissaris bij de rechtbank in het arrondissement waar die plaats is gelegen.   
+2.  De vordering, bedoeld in het eerste lid, gaat vergezeld van een afschrift van de beschikking van de Commissie waarbij de verificatie is gelast en een schriftelijke opgave van de redenen die naar het oordeel van Onze Minister van Economische Zaken, Landbouw en Innovatie een doorzoeking noodzakelijk maken.   
 3.  De vordering tot het doen van een doorzoeking wordt door de rechter-commissaris afgewezen, indien deze vordering kennelijk ongegrond is.   
 4.  De afwijzende beschikking van de rechter-commissaris is met redenen omkleed.   
 5.  Tegen de beschikking op de vordering staat geen beroep open.   
@@ -56,7 +56,7 @@ De ingevolge artikel 2, eerste lid, of 3, eerste lid, aangewezen ambtenaren kunn
 1.  De rechter-commissaris kan zich in het in artikel 2 bedoelde geval bij de doorzoeking laten bijstaan door de ingevolge het eerste lid van dat artikel aangewezen ambtenaren en in het in artikel 3 bedoelde geval door de functionarissen van de Commissie en de ingevolge het eerste lid van dat artikel aangewezen ambtenaren.   
 2.  Zo nodig kan de rechter-commissaris de doorzoeking doen met behulp van de sterke arm.   
 3.  De [artikelen 124](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [125 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
-4.  Van de doorzoeking wordt door de rechter-commissaris een proces-verbaal opgemaakt. De rechter-commissaris zendt een afschrift van het proces-verbaal aan de Minister van Economische Zaken en de desbetreffende onderneming of ondernemersvereniging.   
+4.  Van de doorzoeking wordt door de rechter-commissaris een proces-verbaal opgemaakt. De rechter-commissaris zendt een afschrift van het proces-verbaal aan Onze Minister van Economische Zaken, Landbouw en Innovatie en de desbetreffende onderneming of ondernemersvereniging.   
 
 ### Artikel  8  
 

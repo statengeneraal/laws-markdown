@@ -27,7 +27,7 @@ f. kredietnemer: degene die een overeenkomst inzake krediet aangaat als bedoeld 
 
 g. leverancier: degene die een geldsom ter beschikking krijgt gesteld van de kredietgever terzake van het aan een kredietnemer verschaffen van het genot van een roerende zaak;  
 
-h. Onze Minister: Onze Minister van Economische Zaken.     
+h. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie.     
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder een onderneming mede verstaan een bedrijf, waarmede niet wordt beoogd het maken van winst.   
 3.  Voor de toepassing van het eerste lid, onder d, wordt als persoonlijk bezoek niet aangemerkt het persoonlijk bezoek, dat in overwegende mate voortvloeit uit een initiatief van degene, die wordt bezocht, tenzij de bezoeker degene, die hij bezoekt, tracht te bewegen tot het sluiten van een overeenkomst betreffende een ander goed of een andere dienst dan het goed of de dienst, in verband waarmee om het bezoek is verzocht en degene, die wordt bezocht, toen hij het initiatief tot dat bezoek nam niet wist en redelijkerwijs niet kon weten, dat het sluiten van overeenkomsten betreffende dat andere goed of die andere dienst tot de bedrijfs- of beroepsuitoefening van de bezoeker behoorde.   
 4.  Voor de toepassing van het eerste lid, onder d wordt als een groep van personen niet aangemerkt een groep, welke kennelijk niet met of mede met het oog op de aanprijzing van een goed of een dienst in die groep is bijeengebracht.   

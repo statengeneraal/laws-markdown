@@ -22,7 +22,7 @@ b. COVA: Stichting Centraal Orgaan Voorraadvorming Aardolieprodukten;
 
 c. internationale verplichtingen: verplichtingen tot het aanhouden van een voorraad aardolieproducten, voortvloeiend uit de Overeenkomst inzake een Internationaal Energieprogramma (Trb. 1975, 47) en uit richtlijn 2006/67/EG;  
 
-d. Onze Minister: Onze Minister van Economische Zaken;  
+d. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 e. referentiejaar: kalenderjaar dat voorafgaat aan het voorraadjaar;  
 

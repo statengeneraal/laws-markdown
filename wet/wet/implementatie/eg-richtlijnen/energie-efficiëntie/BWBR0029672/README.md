@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken;  
+a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. *energie:* alle vormen van in de handel verkrijgbare energie, waaronder elektriciteit, aardgas (met inbegrip van vloeibaar aardgas en LPG), brandstoffen voor verwarming of koeling (met inbegrip van stadsverwarming en -koeling), steenkool en bruinkool, turf, transportbrandstof (met uitzondering van bunkerbrandstoffen voor het lucht- en zeevervoer) en biomassa;  
 
@@ -34,7 +34,7 @@ f. *eindafnemer:* een natuurlijke persoon of rechtspersoon die energie koopt voo
 
 g. *energiegerelateerd product:* een in de Europese Unie in de handel gebrachte of in gebruik genomen zaak die tijdens het gebruik een effect heeft op het energieverbruik, met inbegrip van onderdelen die bedoeld zijn om in onder deze wet vallende energiegerelateerde producten te worden ingebouwd en die ten behoeve van eindgebruikers in de handel worden gebracht of in gebruik worden genomen als losse onderdelen waarvan de milieuprestaties onafhankelijk kunnen worden beoordeeld;  
 
-h. *raad van bestuur van de mededingingsautoriteit:* de raad van bestuur van de mededingingsautoriteit, genoemd in [artikel 2 van de Medingingswet](../../../../../../wet/mededingingswet/BWBR0008691/README.md).    
+h. *raad van bestuur van de mededingingsautoriteit:* de raad van bestuur van de mededingingsautoriteit, genoemd in [artikel 2 van de Mededingingswet](../../../../../../wet/mededingingswet/BWBR0008691/README.md).    
 
 ### §  2  
 

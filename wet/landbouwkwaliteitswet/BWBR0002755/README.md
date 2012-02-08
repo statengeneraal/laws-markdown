@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder: 
 
-Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 landbouw: akkerbouw, weidebouw, veehouderij, pluimveehouderij, tuinbouw – waaronder mede wordt verstaan fruitteelt en het kweken van bomen, bloemen en bloembollen -, teelt van griendhout en elke andere vorm van bodemcultuur met inbegrip van bosbouw;  
 
@@ -64,12 +64,6 @@ f. de registratie van de onder die maatregel vallende betrokkenen.
 2.  Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regelen bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister en van Onze Ministers, wie het mede aangaat, tezamen. Krachtens de verordening genomen besluiten behoeven, voor zover zulks bij of krachtens het landbouwkwaliteitsbesluit is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.   
 3.  Verordeningen, bedoeld in het tweede lid, kunnen onder meer inhouden toekenning aan een daarbij aan te wijzen orgaan van de bevoegdheid vrijstelling, en, op aanvrage, ontheffing van die verordeningen of krachtens deze vast te stellen voorschriften te verlenen.   
 4.  Artikel 3, tweede lid, is van overeenkomstige toepassing.   
-
-### Artikel  5  
-
-1.  Wij bepalen bij algemene maatregel van bestuur, in welke gevallen Onze Minister of Onze Minister en Onze Ministers, wie het mede aangaat, tezamen regelen krachtens een landbouwkwaliteitsbesluit ten aanzien van ondernemingen, waarin daarbij aan te wijzen bedrijven op het gebied van industrie, handel en ambacht worden uitgeoefend, niet vaststellen dan in overeenstemming met Onze Minister van Economische Zaken.   
-2.  Bij dat besluit bepalen Wij tevens, in welke gevallen Onze Minister of Onze Minister en Onze Ministers, wie het mede aangaat, tezamen regelen krachtens een landbouwkwaliteitsbesluit niet vaststellen dan in overeenstemming met Onze Minister van Economische Zaken met het oog op de daarbij betrokken consumentenbelangen.   
-3.  In zodanige gevallen behoeven verordeningen van bedrijfslichamen, als bedoeld in artikel 4, mede de goedkeuring van Onze genoemde Minister.   
 
 ### Artikel  7  
 

@@ -27,7 +27,7 @@ Werken, die in voltooide staat worden aangeboden en waarvan naar het oordeel van
 ### Artikel  4  
 
 1.  Indien werken bestaan uit onderdelen van onderscheidene edele metalen als bedoeld in artikel 1, worden die onderdelen afzonderlijk gewaarborgd.   
-2.  Werken, die gedeeltelijk bestaan uit edele metalen als bedoeld in artikel 1 en gedeeltelijk uit andere metalen, dan wel zijn opgevuld met andere stoffen dan de in artikel 1 bedoelde edele metalen, worden slechts gewaarborgd, indien zij voldoen aan door Onze Minister van Economische Zaken te stellen eisen.   
+2.  Werken, die gedeeltelijk bestaan uit edele metalen als bedoeld in artikel 1 en gedeeltelijk uit andere metalen, dan wel zijn opgevuld met andere stoffen dan de in artikel 1 bedoelde edele metalen, worden slechts gewaarborgd, indien zij voldoen aan door Onze Minister van Economische Zaken, Landbouw en Innovatie te stellen eisen.   
 
 ### HOOFDSTUK  II  
 
@@ -56,7 +56,7 @@ De verplichting tot waarborging, bedoeld in artikel 5, eerste lid, geldt evenmin
 
 ### Artikel  6  
 
-1.  Onze Minister van Economische Zaken kan vrijstelling verlenen van het bepaalde in artikel 5, eerste lid.   
+1.  Onze Minister van Economische Zaken, Landbouw en Innovatie kan vrijstelling verlenen van het bepaalde in artikel 5, eerste lid.   
 2.  Aan een vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden.   
 
 ### Hoofdstuk  IIA  
@@ -65,7 +65,7 @@ De verplichting tot waarborging, bedoeld in artikel 5, eerste lid, geldt evenmin
 
 ### Artikel  7  
 
-1.  Onze Minister van Economische Zaken wijst een of meer rechtspersonen aan, die tot taak hebben, met inachtneming van het bij en krachtens deze wet bepaalde, aangeboden werken op hun gehalte aan platina, goud, palladium en zilver te keuren en van stempelmerken te voorzien.   
+1.  Onze Minister van Economische Zaken, Landbouw en Innovatie wijst een of meer rechtspersonen aan, die tot taak hebben, met inachtneming van het bij en krachtens deze wet bepaalde, aangeboden werken op hun gehalte aan platina, goud, palladium en zilver te keuren en van stempelmerken te voorzien.   
 2.  Een aanwijzing als bedoeld in het eerste lid vindt slechts plaats, indien de betrokken rechtspersoon aan de volgende eisen voldoet: 
 
 a. hij dient in staat te zijn de in het eerste lid bedoelde taken naar behoren te vervullen;  
@@ -77,7 +77,7 @@ b. de voorwaarden dienen aanwezig te zijn voor een zodanige besluitvorming binne
 
 ### Artikel  7a  
 
-1.  Het is een waarborginstelling verboden haar statuten te wijzigen, tenzij de wijziging door Onze Minister van Economische Zaken is goedgekeurd.   
+1.  Het is een waarborginstelling verboden haar statuten te wijzigen, tenzij de wijziging door Onze Minister van Economische Zaken, Landbouw en Innovatie is goedgekeurd.   
 2.  Onze Minister kan een goedkeuring als bedoeld in het eerste lid slechts weigeren, indien de statuten na de wijziging onvoldoende zouden zijn afgestemd op de in artikel 7, eerste en tweede lid, bedoelde taken en eisen.   
 
 ### Artikel  7b  
@@ -87,20 +87,20 @@ b. de voorwaarden dienen aanwezig te zijn voor een zodanige besluitvorming binne
 
 ### Artikel  7c  
 
-1.  Een waarborginstelling legt jaarlijks vóór 1 november de vanaf 1 februari daarop volgend te berekenen tarieven voor het onderzoek van werken met het oog op het verkrijgen van stempelmerken als bedoeld in artikel 9, eerste lid, en voor het plaatsen van deze merken ter goedkeuring aan Onze Minister van Economische Zaken voor. Zij worden na goedkeuring door de waarborginstelling in de Staatscourant bekendgemaakt.   
+1.  Een waarborginstelling legt jaarlijks vóór 1 november de vanaf 1 februari daarop volgend te berekenen tarieven voor het onderzoek van werken met het oog op het verkrijgen van stempelmerken als bedoeld in artikel 9, eerste lid, en voor het plaatsen van deze merken ter goedkeuring aan Onze Minister van Economische Zaken, Landbouw en Innovatie voor. Zij worden na goedkeuring door de waarborginstelling in de Staatscourant bekendgemaakt.   
 2.  Onverminderd [artikel 17 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) kan Onze Minister een goedkeuring als bedoeld in het eerste lid weigeren indien de tarieven hoger zijn dan, uitgaande van een redelijke toerekening van de aan het onderzoek en de stempeling van de desbetreffende werken verbonden kosten, noodzakelijk is.   
-3.  Het in het eerste lid, eerste volzin, bedoelde besluit omtrent goedkeuring wordt binnen 8 weken na verzending ter goedkeuring bekendgemaakt.   
+3.  Het in het eerste lid, eerste volzin, bedoelde besluit omtrent goedkeuring wordt binnen 8 weken na de verzending ter goedkeuring bekendgemaakt.   
 4.  Indien de vanaf 1 februari te berekenen tarieven niet vóór 1 januari daaraan voorafgaand zijn goedgekeurd, kan Onze Minister deze tarieven zelf vaststellen.   
 5.  Van een besluit tot vaststelling van tarieven als bedoeld in het vierde lid wordt door Onze Minister mededeling gedaan door plaatsing in de Staatscourant.   
-6.  Een waarborginstelling kan de tarieven, bedoeld in het eerste lid, gedurende het jaar waarvoor zij gelden, wijzigen. Een wijziging van de tarieven wordt ter goedkeuring aan Onze Minister van Economische Zaken voorgelegd. Het eerste lid, tweede volzin, alsmede het tweede en derde lid zijn van toepassing.   
+6.  Een waarborginstelling kan de tarieven, bedoeld in het eerste lid, gedurende het jaar waarvoor zij gelden, wijzigen. Een wijziging van de tarieven wordt ter goedkeuring aan Onze Minister van Economische Zaken, Landbouw en Innovatie voorgelegd. Het eerste lid, tweede volzin, alsmede het tweede en derde lid zijn van toepassing.   
 
 ### Artikel  7d  
 
-Indien de begroting van een waarborginstelling niet vóór de aanvang van het kalenderjaar, waarvoor zij moet dienen, is goedgekeurd, kan Onze Minister die instelling machtigen uitgaven te doen uit die posten waartegen hij geen bedenking heeft.  
+Indien de begroting van een waarborginstelling niet vóór de aanvang van het kalenderjaar, waarvoor zij moet dienen, is goedgekeurd, kan Onze Minister van Economische Zaken, Landbouw en Innovatie die instelling machtigen uitgaven te doen uit die posten waartegen hij geen bedenking heeft.  
 
 ### Artikel  7e  
 
-Indien Onze Minister van Economische Zaken meer dan één rechtspersoon als bedoeld in artikel 7, eerste lid, aanwijst, kan hij regels stellen ten behoeve van een goede coördinatie van de uitvoering van de door die rechtspersonen te verrichten taken en werkzaamheden als bedoeld in de artikelen 13, 18, 39, 47, 47a en 60.  
+Indien Onze Minister van Economische Zaken, Landbouw en Innovatie meer dan één rechtspersoon als bedoeld in artikel 7, eerste lid, aanwijst, kan hij regels stellen ten behoeve van een goede coördinatie van de uitvoering van de door die rechtspersonen te verrichten taken en werkzaamheden als bedoeld in de artikelen 13, 18, 39, 47, 47a en 60.  
 
 ### Artikel  8  
 
@@ -112,7 +112,7 @@ De [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige
 
 ### Artikel  9  
 
-De stempeling der platina, gouden en zilveren werken, zowel in het geval bij artikel 1 als in dat bij artikel 3 bedoeld, geschiedt met stempels, omtrent welker vorm en gebruik Onze Minister van Economische Zaken regels stelt.  
+De stempeling der platina, gouden en zilveren werken, zowel in het geval bij artikel 1 als in dat bij artikel 3 bedoeld, geschiedt met stempels, omtrent welker vorm en gebruik Onze Minister van Economische Zaken, Landbouw en Innovatie regels stelt.  
 
 ### Artikel  10  
 
@@ -141,7 +141,7 @@ De in artikel 9 bedoelde stempelmerken zijn:
 ### Artikel  13  
 
 1.  Het in artikel 12, eerste lid, bedoelde meesterteken behoeft de goedkeuring van een waarborginstelling.   
-2.  Het door de betrokken waarborginstelling ter zake van een aanvraag om goedkeuring als bedoeld in het eerste lid berekende tarief behoeft de goedkeuring van Onze Minister van Economische Zaken. Dit tarief wordt door de waarborginstelling in de Staatscourant bekendgemaakt.   
+2.  Het door de betrokken waarborginstelling ter zake van een aanvraag om goedkeuring als bedoeld in het eerste lid berekende tarief behoeft de goedkeuring van Onze Minister van Economische Zaken, Landbouw en Innovatie. Dit tarief wordt door de waarborginstelling in de Staatscourant bekendgemaakt.   
 
 ### Artikel  14  
 
@@ -313,7 +313,7 @@ b. in andere gevallen dan bedoeld onder a, voor werken die voorzien zijn van een
 
 ### Artikel  52  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de werknemers van een door Onze Minister van Economische Zaken aangewezen rechtspersoon, die daartoe door die rechtspersoon zijn aangewezen.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de werknemers van een door Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen rechtspersoon, die daartoe door die rechtspersoon zijn aangewezen.   
 2.  De [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing, met uitzondering van [artikel 22 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
 
 ### Artikel  52a  
@@ -323,17 +323,17 @@ b. in andere gevallen dan bedoeld onder a, voor werken die voorzien zijn van een
 a. hij dient in staat te zijn het toezicht op de naleving van het bepaalde bij of krachtens deze wet naar behoren te doen uitoefenen;  
 
 b. de rechtspersoon is niet een krachtens artikel 7, eerste lid, aangewezen rechtspersoon.     
-2.  Onze Minister van Economische Zaken kan een aanwijzing van een rechtspersoon intrekken indien deze daarom verzoekt, dan wel indien de rechtspersoon naar het oordeel van Onze Minister niet meer voldoet aan de in het eerste lid gestelde eisen.   
+2.  Onze Minister van Economische Zaken, Landbouw en Innovatie kan een aanwijzing van een rechtspersoon intrekken indien deze daarom verzoekt, dan wel indien de rechtspersoon naar het oordeel van Onze Minister niet meer voldoet aan de in het eerste lid gestelde eisen.   
 3.  Van een besluit tot aanwijzing van een rechtspersoon en van intrekking van die aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  52b  
 
-1.  Een besluit tot aanwijzing van een werknemer als bedoeld in artikel 52 wordt door de aangewezen rechtspersoon aan Onze Minister van Economische Zaken medegedeeld en in de Staatscourant geplaatst.   
+1.  Een besluit tot aanwijzing van een werknemer als bedoeld in artikel 52 wordt door de aangewezen rechtspersoon aan Onze Minister van Economische Zaken, Landbouw en Innovatie medegedeeld en in de Staatscourant geplaatst.   
 2.  Onze Minister kan, indien de wijze van uitoefening van het toezicht door een aangewezen werknemer daartoe naar zijn oordeel aanleiding geeft, bepalen dat die aanwijzing dient te worden ingetrokken.   
 
 ### Artikel  52c  
 
-1.  Het is een aangewezen rechtspersoon als bedoeld in artikel 52 verboden haar statuten te wijzigen, tenzij de wijziging door Onze Minister van Economische Zaken is goedgekeurd.   
+1.  Het is een aangewezen rechtspersoon als bedoeld in artikel 52 verboden haar statuten te wijzigen, tenzij de wijziging door Onze Minister van Economische Zaken, Landbouw en Innovatie is goedgekeurd.   
 2.  Onze Minister kan een goedkeuring als bedoeld in het eerste lid slechts weigeren, indien de statuten na de wijziging onvoldoende zouden zijn afgestemd op de in artikel 52a, eerste lid, bedoelde eisen.   
 
 ### Artikel  54  

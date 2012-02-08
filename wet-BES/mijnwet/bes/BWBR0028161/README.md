@@ -10,7 +10,7 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 1.  Onder delfstoffen worden voor de toepassing dezer wettelijke regeling verstaan alle uit de bodem gedolven of op andere wijze uit de bodem gewonnen natuurlijke zelfstandigheden, met uitzondering van die zelfstandigheden die algemeen in Bonaire, Sint Eustatius en Saba voorkomen en uitsluitend dienen voor de aanleg van wegen, voor toeslag voor beton, en voor huizenbouw en kunstwerken in Bonaire, Sint Eustatius en Saba.   
 2.  Voor zover uit deze wettelijke regeling niet anders voortvloeit, zijn alle delfstoffen eigendom van het Rijk.   
-3.  Het recht om delfstoffen op te sporen of te ontginnen wordt verkregen, het eerste krachtens een vergunning, het tweede krachtens een concessie, beide te verlenen door Onze Minister van Economische Zaken.   
+3.  Het recht om delfstoffen op te sporen of te ontginnen wordt verkregen, het eerste krachtens een vergunning, het tweede krachtens een concessie, beide te verlenen door Onze Minister van Economische Zaken, Landbouw en Innovatie.   
 4.  Vergunning tot opsporing wordt verleend voor een bepaalde tijd, drie achtereenvolgende jaren niet te boven gaande. Zij kan vóór het verstrijken van de vergunningstermijn tot tweemaal telkens voor de tijd van een jaar worden verlengd. De vroeger ingediende aanvrage om een vergunning tot opsporing heeft de voorkeur boven de later ingediende.   
 5.  Concessie tot ontginning wordt verleend voor een bepaalde tijd, vijfenzeventig jaren niet te boven gaande.   
 6.  De wijze waarop, de uitgestrektheid waarvoor, en de voorwaarden waaronder de genoemde vergunningen en concessies zullen kunnen worden verkregen, alsook de rechten en verplichtingen, uit die vergunningen en concessies voortvloeiende en de rechten en verplichtingen van de rechthebbende, voor het geval ten behoeve van opsporingen of ontginningen over de grond moet worden beschikt worden bij algemene maatregel van bestuur geregeld.   
@@ -19,7 +19,7 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 ### Artikel  2  
 
 1.  De ontdekking van eene in deze wet genoemde delfstof geeft den ontdekker die òf is houder van eene vergunning tot opsporing òf concessionaris op het veld, binnen welks grenzen de delfstof is ontdekt, recht op concessie tot ontginning van de ontdekte delfstof, zoodra hij zijne aanspraken doet gelden, met dien verstande evenwel dat de ontdekker, die houder is van eene vergunning tot opsporing, zijne aanspraken behoort geldend te maken vóór het verstrijken van den termijn waarvoor de vergunning verleend of verlengd is en dat het vroeger ingediende verzoek de voorkeur heeft boven het later ingediende.   
-2.  Het hier bedoelde recht op concessie kan, mits in zijn geheel, aan anderen, voldoende aan de vereischten in artikel 5 gesteld, worden overgedragen, behoudens goedkeuring van Onze Minister van Economische Zaken.   
+2.  Het hier bedoelde recht op concessie kan, mits in zijn geheel, aan anderen, voldoende aan de vereischten in artikel 5 gesteld, worden overgedragen, behoudens goedkeuring van Onze Minister van Economische Zaken, Landbouw en Innovatie.   
 
 ### Artikel  3  
 
@@ -41,7 +41,7 @@ b. ingezetenen van Nederland of van Bonaire, Sint Eustatius en Saba,
 
 c. vennootschappen, gevestigd in Nederland of van Bonaire, Sint Eustatius en Saba, waarvan wat de naamlooze vennootschappen en de besloten vennootschappen betreft, de eenige bestuurder of commissaris, dan wel, als er twee zijn, beide, of, als er meer bestuurders zijn, de meerderheid der commissarissen, en, wat vennootschappen onder eene firma en die bij wijze van geldschieting betreft, de eenige beheerende vennoot, dan wel, als er twee zijn, beide, of als er meer beheerende vennooten zijn de meerderheid, Nederlanders dan wel ingezetenen van Bonaire, Sint Eustatius en Saba zijn;   met dien verstande, dat de niet in Bonaire, Sint Eustatius en Saba gevestigde personen of vennootschappen aldaar behoorlijk moeten zijn vertegenwoordigd.   
 2.  Als ingezetenen van Bonaire, Sint Eustatius en Saba worden aangemerkt zij, die hunne woonplaats op Bonaire, Sint Eustatius en Saba hebben. Het ingezetenschap houdt op door vestiging der woonplaats buiten Bonaire, Sint Eustatius en Saba. Een minderjarige in den zin der wet, wiens vader of voogd ingezetene is, wordt als ingezetene aangemerkt. Meerderjarig geworden, behoudt hij de hoedanigheid van ingezetene, indien hij zijne woonplaats in Bonaire, Sint Eustatius en Saba vestigt.   
-3.  De rechten en verplichtingen, uit eene vergunning tot opsporing en uit eene concessie voortvloeiende, gaan bij overlijden van den wettigen houder over op diens rechtverkrijgenden, voor zoover zij reeds dadelijk, dan wel binnen den tijd van één jaar na het openvallen der erfenis, voldoen aan de vereischten van dit artikel. Zij kunnen binnen dat jaar worden overgedragen aan personen of vennootschappen, die voldoen aan de vereischten van dit artikel, behoudens goedkeuring van Onze Minister van Economische Zaken.   
+3.  De rechten en verplichtingen, uit eene vergunning tot opsporing en uit eene concessie voortvloeiende, gaan bij overlijden van den wettigen houder over op diens rechtverkrijgenden, voor zoover zij reeds dadelijk, dan wel binnen den tijd van één jaar na het openvallen der erfenis, voldoen aan de vereischten van dit artikel. Zij kunnen binnen dat jaar worden overgedragen aan personen of vennootschappen, die voldoen aan de vereischten van dit artikel, behoudens goedkeuring van Onze Minister van Economische Zaken, Landbouw en Innovatie.   
 4.  Geschillen nopens het voldoen aan de vereischten van dit artikel worden beslist door den rechter.   
 
 ### Artikel  6  
@@ -54,16 +54,16 @@ b. bij overlijden van den houder der vergunning, van dien van het recht op conce
 
 ### Artikel  7  
 
-1.  De concessionaris kan van de hem bij de concessie verleende rechten door Onze Minister van Economische Zaken worden vervallen verklaard: 
+1.  De concessionaris kan van de hem bij de concessie verleende rechten door Onze Minister van Economische Zaken, Landbouw en Innovatie worden vervallen verklaard: 
 
-a. ingeval hij, op bekomen last om de ontginning wegens, naar het oordeel van Onze Minister van Economische Zaken, overwegende redenen van algemeen belang aan te vangen of na staking weder op te vatten, in gebreke blijft binnen den hem gestelden tijd aan dien last ten genoegen van Onze Minister van Economische Zaken te voldoen;  
+a. ingeval hij, op bekomen last om de ontginning wegens, naar het oordeel van Onze Minister van Economische Zaken, Landbouw en Innovatie, overwegende redenen van algemeen belang aan te vangen of na staking weder op te vatten, in gebreke blijft binnen den hem gestelden tijd aan dien last ten genoegen van Onze Minister van Economische Zaken, Landbouw en Innovatie te voldoen;  
 
 b. ingeval hij achterlijk of nalatig is in de nakoming van verplichtingen, hem ter zake der ontginning bij wettelijke voorschriften of bij de akte van concessie opgelegd, dan wel ingeval hij weigert of in gebreke blijft gevolg te geven aan de in het algemeen belang of in het belang der veiligheid van personen en goederen door eene daartoe bevoegde autoriteit omtrent zijne werken gegeven voorschriften.     
-2.  Tot de vervallenverklaring wordt niet overgegaan dan nadat de concessionaris of zijn gemachtigde door of vanwege Onze Minister van Economische Zaken met het voornemen tot vervallenverklaring bij eene bij deurwaardersexploit beteekende akte is in wetenschap gesteld, hem de gelegenheid is gegeven voor zijne belangen op te komen en hij tevens een hem te verleenen, met den datum van beteekening van het exploit ingaanden termijn van ten minste één jaar om zijne verplichtingen volledig na te komen of om aan de gestelde eischen te voldoen, onbenut heeft laten voorbijgaan. Voor zoover die verplichting strekt tot betaling van eene geldsom, zal de termijn ten minste drie maanden zijn.   
+2.  Tot de vervallenverklaring wordt niet overgegaan dan nadat de concessionaris of zijn gemachtigde door of vanwege Onze Minister van Economische Zaken, Landbouw en Innovatie met het voornemen tot vervallenverklaring bij eene bij deurwaardersexploit beteekende akte is in wetenschap gesteld, hem de gelegenheid is gegeven voor zijne belangen op te komen en hij tevens een hem te verleenen, met den datum van beteekening van het exploit ingaanden termijn van ten minste één jaar om zijne verplichtingen volledig na te komen of om aan de gestelde eischen te voldoen, onbenut heeft laten voorbijgaan. Voor zoover die verplichting strekt tot betaling van eene geldsom, zal de termijn ten minste drie maanden zijn.   
 
 ### Artikel  8  
 
-De concessionaris, die bij beschikking van onze Minister van Economische Zaken van zijne rechten is vervallen verklaard, kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
+De concessionaris, die bij beschikking van Onze Minister van Economische Zaken, Landbouw en Innovatie van zijne rechten is vervallen verklaard, kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.  
 
 ### Artikel  9  
 

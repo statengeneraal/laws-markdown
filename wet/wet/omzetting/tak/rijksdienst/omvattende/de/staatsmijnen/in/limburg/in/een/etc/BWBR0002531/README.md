@@ -29,7 +29,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  4  
 
-De Staat wordt voor alle met het bezit der aandelen verband houdende handelingen vertegenwoordigd door Onze Minister van Economische Zaken.  
+De Staat wordt voor alle met het bezit der aandelen verband houdende handelingen vertegenwoordigd door Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
 ### Artikel  5  
 

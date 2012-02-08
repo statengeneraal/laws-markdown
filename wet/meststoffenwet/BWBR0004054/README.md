@@ -477,11 +477,11 @@ c. een besluit als bedoeld in artikel 38, eerste en tweede lid, houdende vrijste
 
 ### Artikel  44  
 
-De voordracht voor algemene maatregelen van bestuur krachtens deze wet wordt Ons gedaan door Onze Minister of, voor zover deze maatregelen worden getroffen in het belang van de bescherming van de bodem, door Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te zamen.  
+De voordracht voor algemene maatregelen van bestuur krachtens deze wet wordt Ons gedaan door Onze Minister of, voor zover deze maatregelen worden getroffen in het belang van de bescherming van de bodem, door Onze Minister en Onze Minister van Infrastructuur en Milieu te zamen.  
 
 ### Artikel  45  
 
-De ministeriële regelingen, bedoeld in hoofdstuk III, en krachtens artikel 38, eerste lid, vastgestelde regelingen houdende vrijstelling van het bij of krachtens hoofdstuk III bepaalde worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
+De ministeriële regelingen, bedoeld in hoofdstuk III, en krachtens artikel 38, eerste lid, vastgestelde regelingen houdende vrijstelling van het bij of krachtens hoofdstuk III bepaalde worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu.  
 
 ### Artikel  46  
 

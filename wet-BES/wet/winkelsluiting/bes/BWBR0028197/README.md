@@ -83,7 +83,7 @@ Het is verboden in de uitoefening van een bedrijf anders dan in een winkel of an
 
 ### Artikel  12  
 
-De bij [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen personen zijn belast met het opsporen van de feiten strafbaar gesteld in deze wet. Onze Minister van Justitie, in overeenstemming met Onze Minister van Economische Zaken kan daartoe ook andere personen aanwijzen.  
+De bij [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen personen zijn belast met het opsporen van de feiten strafbaar gesteld in deze wet. Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie kan daartoe ook andere personen aanwijzen.  
 
 ### Artikel  13  
 

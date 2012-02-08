@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. aansluiting: één of meer verbindingen tussen een net en een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), dan wel tussen een net en een ander net op een ander spanningsniveau;  
 
@@ -105,7 +105,7 @@ c. de bedrijfsuitoefening door deze eenheid op fysiek geïntegreerde basis gesch
 ### Artikel  2  
 
 1.  Onze Minister stelt ten minste eenmaal in de vier jaar een energierapport vast dat richting geeft aan van rijkswege in de eerstvolgende vier jaar te nemen beslissingen voor zover daarbij het belang van het betrouwbaar, duurzaam, doelmatig en milieuhygiënisch verantwoord functioneren van de elektriciteitsvoorziening in beschouwing moet of kan worden genomen. Bij de voorbereiding van een energierapport betrekt Onze Minister de naar zijn oordeel bij de te behandelen onderwerpen meest belanghebbende bestuursorganen, instellingen en organisaties.   
-2.  Voor zover het energierapport onderdelen betreft die tot de verantwoordelijkheid behoren van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, wordt het rapport vastgesteld na overleg met voornoemde minister.   
+2.  Voor zover het energierapport onderdelen betreft die tot de verantwoordelijkheid behoren van Onze Minister van Infrastructuur en Milieu, wordt het rapport vastgesteld na overleg met voornoemde minister.   
 3.  Het energierapport bevat ten minste: 
 
 a. een analyse van de ontwikkelingen op de nationale en internationale energiemarkt en de effecten daarvan op een betrouwbaar, duurzaam, doelmatig en milieuhygiënisch verantwoord functionerende energiehuishouding;  
@@ -245,7 +245,7 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 ### Artikel  9c  
 
 1.  Onze Minister is de aangewezen minister, bedoeld in [artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
+2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
 3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van [artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), één of meer besluiten nemen die nodig zijn voor de aanleg of uitbreiding van een daarbij aangewezen productie-installatie als bedoeld in artikel 9b, eerste lid.   
 
 ### Artikel  9d  
@@ -675,7 +675,7 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 ### Artikel  20b  
 
 1.  Onze Minister is de aangewezen minister, bedoeld in [artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
+2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
 3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van [artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), één of meer besluiten nemen die nodig zijn voor een daarbij aangewezen uitbreiding van het net, bedoeld in artikel 20a, eerste lid.   
 
 ### Artikel  20c  
@@ -686,18 +686,18 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 
 ### Artikel  20d  
 
-De raad van bestuur van de mededingingsautoriteit verrekent de kosten van een investering waarvoor op grond van [artikel 3.28](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [artikel 3.29 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) een inpassingsplan is vastgesteld of projectbesluit is genomen, in de tarieven indien en voor zover de kosten doelmatig zijn.  
+De raad van bestuur van de mededingingsautoriteit verrekent de kosten van een investering waarvoor op grond van [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) een inpassingsplan is vastgesteld of projectbesluit is genomen, in de tarieven.  
 
 ### Artikel  20e  
 
-1.  Een netbeheerder meldt een voornemen tot investeren in de aanleg of uitbreiding van het net, waarop de procedures, bedoeld in [artikel 3.28](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [artikel 3.29 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), niet van toepassing zijn, zo spoedig mogelijk schriftelijk aan de raad van bestuur van de mededingingsautoriteit of, indien het de netbeheerder van het landelijk hoogspanningsnet betreft, eveneens aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld over de melding.   
+1.  Een netbeheerder meldt een voornemen tot een bijzondere investering in de aanleg of uitbreiding van het net, waarop de procedure, bedoeld in [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), niet van toepassing is, zo spoedig mogelijk schriftelijk aan de raad van bestuur van de mededingingsautoriteit of, indien het de netbeheerder van het landelijk hoogspanningsnet betreft, eveneens aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
 2.  De raad van bestuur van de mededingingsautoriteit besluit binnen 13 weken nadat de melding is gedaan, of een investering als bedoeld in het eerste lid, van een netbeheerder niet zijnde de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is.   
 3.  Onze Minister besluit of een investering als bedoeld in het eerste lid van de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is, gelet op het belang van een duurzame, betrouwbare en efficiënte energievoorziening. Alvorens Onze Minister besluit, brengt de raad van bestuur van de mededingingsautoriteit binnen vier weken nadat de melding is gedaan advies uit over het te nemen besluit. Indien de investering niet is opgenomen in een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), stelt Onze Minister het besluit niet eerder vast, dan na twee weken nadat het ontwerp daarvan en het betrekkelijke advies aan beide kamers der Staten-Generaal zijn overlegd.   
-4.  De raad van bestuur van de mededingingsautoriteit verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het tweede of derde lid, in de tarieven voor zover de kosten doelmatig zijn.   
+4.  De raad van bestuur van de mededingingsautoriteit verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het tweede of derde lid, in de tarieven.   
 
 ### Artikel  20f  
 
-De raad van bestuur van de mededingingsautoriteit stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in de artikelen 20d en 20e, vierde lid.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/19.  De raad van bestuur van de mededingingsautoriteit stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in de artikelen 20d en 20e, vierde lid.  
 
 ### Artikel  21  
 
@@ -873,7 +873,7 @@ c. een gebouw ingrijpend wordt gerenoveerd.
 
 ### Artikel  26af  
 
-Een op afstand uitleesbare meetinrichting, die aan een afnemer als bedoeld in artikel 95a, eerste lid, ter beschikking is gesteld tussen 31 december 2005 en het tijdstip waarop de in artikel 26ae, eerste lid, bedoelde periode aanvangt, wordt voor 15 jaren, te rekenen vanaf de datum van terbeschikkingstelling aan die afnemer, aangemerkt als een meetinrichting die voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen.  
+Een op afstand uitleesbare meetinrichting, die aan een afnemer als bedoeld in artikel 95a, eerste lid, ter beschikking is gesteld tussen 31 december 2005 en 1 januari 2012, wordt voor 15 jaren, te rekenen vanaf de datum van terbeschikkingstelling aan die afnemer, aangemerkt als een meetinrichting die voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen.  
 
 ### Artikel  26ag  
 
@@ -1100,7 +1100,7 @@ c. de raad van bestuur van de mededingingsautoriteit, gelet op de belangen bedoe
 
 ### Artikel  40  
 
-De tarieven voor de diensten ter uitvoering van de taken, genoemd in artikel 16, eerste lid, worden vastgesteld overeenkomstig de artikelen 41 tot en met 41d.  
+De tarieven voor de diensten ter uitvoering van de taken, genoemd in artikel 16, eerste lid, met uitzondering van onderdeel p, worden vastgesteld overeenkomstig de artikelen 41 tot en met 41d.  
 
 ### Artikel  40a  
 
@@ -1128,7 +1128,7 @@ c. het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld.
 
 ### Artikel  41b  
 
-1.  Iedere netbeheerder zendt jaarlijks voor 1 oktober aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de tarieven die deze netbeheerder ten hoogste zal berekenen voor de uitvoering van de taken genoemd in artikel 16, eerste lid, met inachtneming van: 
+1.  Iedere netbeheerder zendt jaarlijks voor 1 oktober aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de tarieven die deze netbeheerder ten hoogste zal berekenen voor de uitvoering van de taken genoemd in artikel 16, eerste lid, met uitzondering van onderdeel p, met inachtneming van: 
 
 a. het uitgangspunt dat de kosten worden toegerekend aan de tariefdragers betreffende de diensten die deze kosten veroorzaken,  
 
@@ -1139,17 +1139,18 @@ c. het bepaalde bij of krachtens artikel 41a,
 d. de formule   ![91857](http://wetten.overheid.nl/Illustration/91857)
 waarbij TI <sub>t</sub> = de totale inkomsten uit de tarieven in het jaar t, te weten de som van de vermenigvuldiging van elk tarief in jaar t en het op basis van artikel 41a, eerste lid, onderdeel c, vastgestelde rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld; TI <sub>t-1</sub> = de totale inkomsten uit de tarieven in het jaar voorafgaande aan het jaar t, te weten de som van de vermenigvuldiging van elk tarief in jaar t-1 en het op basis van artikel 41a, eerste lid, onderdeel c, vastgestelde rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld; cpi = de relatieve wijziging van de consumentenprijsindex (alle huishoudens), berekend uit het quotiënt van deze prijsindex, gepubliceerd in de vierde maand voorafgaande aan het jaar t, en van deze prijsindex, gepubliceerd in de zestiende maand voorafgaande aan het jaar t, zoals deze maandelijks wordt vastgesteld door het Centraal Bureau voor de Statistiek; x = de korting ter bevordering van de doelmatige bedrijfsvoering; q = de kwaliteitsterm, die de aanpassing van de tarieven in verband met de geleverde kwaliteit aangeeft;  
 
-e. de gemaakte kosten voor investeringen, bedoeld in artikel 20d of  20e, tweede of derde lid, voor zover de kosten als doelmatig zijn beoordeeld door de raad van bestuur van de mededingingsautoriteit en  
+e. de gemaakte kosten voor investeringen, bedoeld in artikel 20d of  20e, tweede of derde lid, voor zover de kosten doelmatig zijn en  
 
 f.  dit onderdeel is nog niet in werking getreden.      
 2.  De geschatte kosten die een netbeheerder voor de uitvoering van de taken genoemd in artikel 16, eerste lid, bij een andere netbeheerder in rekening zal brengen, worden zonder toepassing van de formule, bedoeld in het eerste lid, onder d, toegevoegd aan de totale inkomsten uit de tarieven van deze andere netbeheerder. Het verschil tussen de geschatte en gerealiseerde kosten wordt betrokken bij de vaststelling van de totale inkomsten uit de tarieven van de andere netbeheerder in een volgend jaar.   
+3.  De raad van bestuur van de mededingingsautoriteit stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het eerste lid, onder e.   
 
 ### Artikel  41c  
 
 1.  De raad van bestuur van de mededingingsautoriteit stelt de tarieven, die kunnen verschillen voor de verschillende netbeheerders en voor onderscheiden tariefdragers, jaarlijks vast.   
 2.  De raad van bestuur van de mededingingsautoriteit kan de tarieven die zullen gelden in het jaar t corrigeren, indien de tarieven die golden in dat jaar of de jaren voorafgaand aan het jaar t: 
 
-a. bij rechterlijke uitspraak of met toepassing van [artikel 6:18 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn gewijzigd;  
+a. bij rechterlijke uitspraak of met toepassing van de [artikelen 6:18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [7:11 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn gewijzigd;  
 
 b. zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de raad van bestuur van de mededingingsautoriteit, indien hij de beschikking had over juiste of volledige gegevens, tarieven zou hebben vastgesteld die in aanmerkelijke mate zouden afwijken van de vastgestelde tarieven;  
 

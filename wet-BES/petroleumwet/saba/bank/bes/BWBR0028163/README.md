@@ -24,7 +24,7 @@ b) een samenstel van inrichtingen waarvan er tenminste één aan de onder a) geg
 
 *Mijnraad:* de raad bedoeld in artikel 9.  
 
-*Onze Minister:* Onze Minister van Economische Zaken.  
+*Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
 *Inspectie-ambtenaren:* de ambtenaren aangewezen krachtens artikel 10, eerste lid.  
 
@@ -152,6 +152,10 @@ Voor de toepassing van het bij of krachtens hoofdstuk II van de Douane- en Accij
 Deze wet kan worden aangehaald als «Petroleumwet Saba Bank BES».  
 
 ### Bijlage  I  
+
+Niet opgenomen.  
+
+### Bijlage  II  
 
 ####, behorende bij de Petroleumwet Saba Bank BES
 

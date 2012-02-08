@@ -52,7 +52,7 @@ n. mijnbouwwerk: een werk dat behoort tot een bij algemene maatregel van bestuur
 
 o. mijnbouwinstallatie: een mijnbouwwerk dat verankerd is in of aanwezig is boven de bodem van een oppervlaktewater;  
 
-p. Onze Minister: Onze Minister van Economische Zaken;  
+p. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 q. opsporen van CO <sub>2</sub> -opslagcomplexen: onderzoek naar opslagcomplexen met gebruikmaking van een boorgat of door het verrichten van proeven met injectie van CO <sub>2</sub> om het opslagvoorkomen te karakteriseren;  
 
@@ -379,7 +379,7 @@ De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke
 
 1.  Ten aanzien van een opslagvergunning zijn de artikelen 14, 17, 19, 21, met uitzondering van het vierde lid, en 22 van overeenkomstige toepassing.   
 2.  In afwijking van het eerste lid zijn op vergunningen voor permanent opslaan van CO <sub>2</sub> uitsluitend de artikelen 14 en 22 van overeenkomstige toepassing.   
-3.  Ten aanzien van een vergunning voor opsporen van CO <sub>2</sub> -opslagcomplexen zijn de artikelen 9, eerste tot en met derde lid, 11, tweede, derde en vierde lid, 12, 13, tweede lid, 14, 17, 18 met dien verstande dat voor andere «andere delfstoffen» wordt gelezen «andere stoffen», 19, 20 met dien verstande dat in het eerste lid, tweede volzin, voor «Artikel 7, tweede lid» wordt gelezen «Artikel 26, zesde lid», 21, eerste, tweede, vierde, vijfde en zesde lid, en 22 van overeenkomstige toepassing.   
+3.  Ten aanzien van een vergunning voor opsporen van CO <sub>2</sub> -opslagcomplexen zijn de artikelen 9, eerste tot en met derde lid, 11, tweede, derde en vierde lid, 12, 13, tweede lid, 14, 17, 18 met dien verstande dat voor «andere delfstoffen» wordt gelezen «andere stoffen», 19, 20 met dien verstande dat in het eerste lid, tweede volzin, voor «Artikel 7, tweede lid» wordt gelezen «Artikel 26, zesde lid», 21, eerste, tweede, vierde, vijfde en zesde lid, en 22 van overeenkomstige toepassing.   
 
 ### §  3.2  
 
@@ -466,17 +466,17 @@ n. het bedrag aan financiële zekerheid of een gelijkwaardige voorziening.
 
 ### Artikel  31e  
 
-1.  Een houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 stelt Onze Minister in kennis van de geplande wijzigingen van de exploitatie van het opslagvoorkomen en de injectiefaciliteiten met bijbehorende bovengrondse voorzieningen.   
+1.  Een houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 stelt Onze Minister in kennis van de geplande wijzigingen van de exploitatie van het opslagvoorkomen en de injectiefaciliteiten met bijbehorende bovengrondse voorzieningen.   
 2.  Op een aanvraag van de houder van een vergunning voor permanent opslaan van CO <sub>2</sub> om wijziging van een of meer onderdelen van een verleende vergunning is artikel 31d, eerste lid, voor zover relevant van toepassing.   
 
 ### Artikel  31f  
 
-1.  Een houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 houdt in een register bij de hoeveelheden en kenmerken van de geleverde, opgeslagen en weggelekte CO <sub>2</sub> -stromen met inbegrip van hun samenstelling.   
+1.  Een houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 houdt in een register bij de hoeveelheden en kenmerken van de geleverde, opgeslagen en weggelekte CO <sub>2</sub> -stromen met inbegrip van hun samenstelling.   
 2.  Bij ministeriële regeling worden regels gesteld omtrent de inrichting van het register.   
 
 ### Artikel  31g  
 
-1.  De houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 verstrekt ten minste elk jaar aan Onze Minister de volgende gegevens: 
+1.  De houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 verstrekt ten minste elk jaar aan Onze Minister de volgende gegevens: 
 
 a. de resultaten van de monitoring van de opgeslagen CO <sub>2</sub> met vermelding van de gebruikte technologie,  
 
@@ -502,15 +502,15 @@ d. indien de gestelde financiële zekerheid of een gelijkwaardige voorziening on
 
 ### Artikel  31i  
 
-1.  Een houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 sluit een opslagvoorkomen af en verwijdert de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen indien opslag van CO <sub>2</sub> overeenkomstig de voorschriften van zijn vergunning is beëindigd.   
+1.  Een houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 sluit een opslagvoorkomen af en verwijdert de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen indien opslag van CO <sub>2</sub> overeenkomstig de voorschriften van zijn vergunning is beëindigd.   
 2.  Alvorens te beginnen met de afsluiting van het opslagvoorkomen en de verwijdering van de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen dient de houder of de aangewezen persoon, bedoeld in het eerste lid, een geactualiseerde versie van de documenten, bedoeld in artikel 31d, eerste lid, onderdelen h tot en met l, bij Onze Minister in.   
-3.  De houder of de aangewezen persoon, bedoeld in het eerste lid, vangt niet eerder aan met de afsluiting dan nadat Onze Minister met de geactualiseerde versies heeft ingestemd.   
+3.  De houder of de aangewezen persoon, bedoeld in het eerste lid, vangt niet eerder aan met de afsluiting dan nadat Onze Minister met de geactualiseerde versie heeft ingestemd.   
 
 ### Artikel  31j  
 
 1.  Onze Minister trekt een vergunning voor permanent opslaan van CO <sub>2</sub> op eigen beweging of op verzoek van de vergunninghouder in indien: 
 
-a. door de houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 schriftelijk is aangetoond dat het opgeslagen CO <sub>2</sub> volledig en permanent ingesloten blijft,  
+a. door de houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 schriftelijk is aangetoond dat het opgeslagen CO <sub>2</sub> volledig en permanent ingesloten blijft,  
 
 b. het opslagvoorkomen is afgesloten en de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen zijn verwijderd,  
 
@@ -536,15 +536,15 @@ a. meldt Onze Minister de lekkages aan de Nederlandse emissieautoriteit en
 b. levert Onze Minister voor 1 mei van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten als bedoeld in [artikel 1:1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) in, dat overeenkomt met de hoeveelheid van de emissie ten gevolge van de lekkages.     
 3.  Met ingang van het tijdstip, bedoeld in het eerste lid, vervalt de verplichting de gestelde financiële zekerheid of een gelijkwaardige voorziening aan te houden.   
 4.  De monitoring betreft het niveau waarop lekkages of significante onregelmatigheden kunnen worden vastgesteld. Indien significante onregelmatigheden of dreiging daarvan worden vastgesteld, intensiveert Onze Minister de monitoring.   
-5.  Onze Minister verhaalt de kosten die samenhangen met het eerste lid en zijn ontstaan na intrekking van de vergunning op de voormalige houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 voor zover hij niet zorgvuldig heeft gehandeld in de periode voorafgaande aan de intrekking van de opslagvergunning.   
-6.  Bij of krachtens algemene maatregel van bestuur kunnen omtrent het eerste lid, onderdeel a, en het tweede lid regels worden opgesteld.   
+5.  Onze Minister verhaalt de kosten die samenhangen met het eerste lid en zijn ontstaan na intrekking van de vergunning op de voormalige houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 voor zover hij niet zorgvuldig heeft gehandeld in de periode voorafgaande aan de intrekking van de opslagvergunning.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen omtrent het eerste lid, onderdeel a, en het tweede lid regels worden gesteld.   
 
 ### Artikel  31l  
 
 1.  Indien Onze Minister ingevolge artikel 31h, eerste lid, een vergunning intrekt, zet hij de werkzaamheden met betrekking tot opslag voort in overeenstemming met de voorschriften die verbonden zijn aan de vergunning en artikel 31f, totdat hij opnieuw een vergunning voor permanent opslaan van CO <sub>2</sub> heeft verleend.   
 2.  Indien in afwijking van het eerste lid geen nieuwe vergunning wordt verleend sluit Onze Minister het opslagvoorkomen af en verwijdert de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen in overeenstemming met de voorschriften van de vergunning.   
 3.  Indien het eerste dan wel tweede lid toepassing vindt, actualiseert Onze Minister zo nodig de documenten, bedoeld in artikel 31d, eerste lid, onderdelen h tot en met l.   
-4.  De kosten die Onze Minister bij toepassing van het eerste tot en met derde lid maakt of heeft gemaakt, verhaalt hij op de voormalige houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22. Indien geen verhaal mogelijk is, verhaalt Onze Minister de kosten op de door de voormalige vergunninghouder gestelde financiële zekerheid of een gelijkwaardige voorziening.   
+4.  De kosten die Onze Minister bij toepassing van het eerste tot en met derde lid maakt of heeft gemaakt, verhaalt hij op de voormalige houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22. Indien geen verhaal mogelijk is, verhaalt Onze Minister de kosten op de door de voormalige vergunninghouder gestelde financiële zekerheid of een gelijkwaardige voorziening.   
 5.  Onze Minister stelt in de periode die aanvangt met de intrekking van een vergunning de financiële zekerheid of een gelijkwaardige voorziening periodiek bij.   
 6.  De door de voormalige vergunninghouder gestelde financiële zekerheid of een gelijkwaardige voorziening vervalt wanneer alle beschikbare gegevens naar het oordeel van Onze Minister aantonen dat het opgeslagen CO <sub>2</sub> volledig en permanent ingesloten blijft na betaling van de kosten, bedoeld in het vierde lid, die nog niet door de voormalige houder of de aangewezen persoon, bedoeld in het vierde lid, zijn betaald, en de kosten die Onze Minister naar redelijke verwachting gedurende een aansluitende periode van 30 jaar zal moeten maken, waaronder kosten van monitoring.   
 7.  Indien de kosten als bedoeld in het zesde lid meer bedragen dan de financiële zekerheid of een gelijkwaardige voorziening verhaalt Onze Minister deze meerdere kosten op de voormalige houder of aangewezen persoon.   
@@ -560,7 +560,7 @@ Onze Minister draagt er zorg voor dat de milieu-informatie over permanent opslaa
 
 ### Artikel  32  
 
-1.  Een houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 en een exploitant van een transportnetwerk zijn verplicht op voorwaarden die redelijk, transparant en niet-discriminerend zijn voor degene die daarom verzoekt CO <sub>2</sub> in zijn opslagvoorkomen op te slaan respectievelijk door zijn transportnetwerk te transporteren.   
+1.  Een houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 en een exploitant van een transportnetwerk zijn verplicht op voorwaarden die redelijk, transparant en niet-discriminerend zijn voor degene die daarom verzoekt CO <sub>2</sub> in zijn opslagvoorkomen op te slaan respectievelijk door zijn transportnetwerk te transporteren.   
 2.  Een houder en een exploitant als bedoeld in de eerste volzin kunnen het verzoek om opslag of transport weigeren op grond van een gebrek aan capaciteit, verbindingsmogelijkheden of onverenigbaarheid van technische specificaties.   
 3.  Beroep op een gebrek aan capaciteit of verbindingsmogelijkheden kan niet worden gedaan indien de houder en de exploitant het gebrek kunnen opheffen met het uitvoeren van de nodige capaciteitsverhogende werkzaamheden voor zover dit economisch verantwoord is of de verzoeker bereid is de werkzaamheden te betalen en de uit te voeren werkzaamheden geen negatief effect hebben op de milieuveiligheid van het transport en de opslag van CO <sub>2</sub>.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het eerste lid.   
@@ -887,13 +887,13 @@ g. de ontvanger: de door Onze Minister van Financiën bij ministeriële regeling
 | Tijdvak  | Bedrag per km <sup>2</sup>  |
 |:---|:---|
 | 1e tot en met 6e tijdvak  | € 200   
-per 1 januari 2011 € 235.   |
+per 2 februari 2012 € 238.   |
 | 7e tot en met 9e tijdvak  | € 400   
-per 1 januari 2011 € 470.   |
+per 2 februari 2012 € 477.   |
 | Volgende tijdvakken  | € 600   
-per 1 januari 2011 € 703.   |
+per 2 februari 2012 € 713.   |
 
-2.  Het tarief over 2003 voor het houden van een winningsvergunning bedraagt € 600 per 1 januari 2011 € 703. per vierkante kilometer.   
+2.  Het tarief over 2003 voor het houden van een winningsvergunning bedraagt € 600 per 2 februari 2012 € 713. per vierkante kilometer.   
 3.  Bij het begin van ieder kalenderjaar worden de voor dat jaar geldende tarieven, bedoeld in het eerste en tweede lid, bij ministeriële regeling vastgesteld. Deze tarieven worden berekend aan de hand van het indexcijfer, bedoeld in [artikel 1, van het koninklijk besluit van 28 september 1992, houdende begripsomschrijving van het indexcijfer der lonen](../../../AMvB/besluit/begripsomschrijving/indexcijfer/der/lonen/BWBR0005666/README.md) (Stb. 507), zoals dat gold op 31 december van het voorgaande jaar.   
 
 ### Artikel  59  
@@ -1424,7 +1424,7 @@ De Mijnraad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van z
 
 ### Artikel  112  
 
-Het beheer van de bescheiden betreffende de werkzaamheden van de Mijnraad geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de raad opgeborgen in het archief van dat ministerie.  
+Het beheer van de bescheiden betreffende de werkzaamheden van de Mijnraad geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken, Landbouw en Innovatie. De bescheiden worden na beëindiging van de werkzaamheden van de raad opgeborgen in het archief van dat ministerie.  
 
 ### §  6.2  
 
@@ -1573,7 +1573,7 @@ f. de winningsplannen, als bedoeld in artikel 34, die zijn ingediend en waarvoor
 ### Artikel  127  
 
 1.  Het Staatstoezicht op de mijnen heeft tot taak het toezien op het verrichten van verkenningsonderzoeken, op het opsporen en het winnen van delfstoffen en aardwarmte en op het opslaan van stoffen.   
-2.  De inspecteur-generaal der mijnen stelt na elke inspectie, verricht in het kader van paragraaf 3.2 een verslag op over de naleving van de voorschriften en de voorgeschreven maatregelen. Het verslag wordt ter kennis gebracht van de betrokken houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 en binnen twee maanden na de inspectie openbaar gemaakt.   
+2.  De inspecteur-generaal der mijnen stelt na elke inspectie, verricht in het kader van paragraaf 3.2 een verslag op over de naleving van de voorschriften en de voorgeschreven maatregelen. Het verslag wordt ter kennis gebracht van de betrokken houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 en binnen twee maanden na de inspectie openbaar gemaakt.   
 
 ### Artikel  128  
 
@@ -1722,7 +1722,7 @@ Het bedrag dat aan voorschotten kan worden verstrekt bedraagt ten hoogste 60 pro
 
 ### Artikel  141a  
 
-1.  De procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), is van toepassing op: 
+1.  De procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), is van toepassing op de aanleg of de uitbreiding van: 
 
 a. een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen in of onder een gebied dat is aangewezen op grond van de [artikelen 10](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of  [10a van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md);  
 
@@ -1743,7 +1743,7 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 ### Artikel  141b  
 
 1.  Onze Minister is de aangewezen minister, bedoeld in [artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
+2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
 3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van [artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), één of meer besluiten nemen die nodig zijn voor de aanleg of uitbreiding van een daarbij aangewezen mijnbouwwerk of pijpleiding als bedoeld in artikel 141a, eerste lid.   
 
 ### Artikel  141c  

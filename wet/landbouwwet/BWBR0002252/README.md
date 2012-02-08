@@ -64,8 +64,7 @@ Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden 
 
 ### Artikel  17  
 
-1.  Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellen ten aanzien van de prijzen voor produkten.   
-2.  Bij algemene maatregel van bestuur wordt bepaald, in welke gevallen Onze Minister regelen, als bedoeld in het eerste lid, ten aanzien van ondernemingen, waarin daarbij aan te wijzen bedrijven op het gebied van industrie, handel en ambacht worden uitgeoefend, niet vaststelt dan in overeenstemming met Onze Minister van Economische Zaken.   
+Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellen ten aanzien van de prijzen voor produkten.  
 
 ### Artikel  18  
 
@@ -76,9 +75,8 @@ Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden 
 
 ### Artikel  19  
 
-1.  Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellen ten aanzien van de in het tweede lid, onder *b*, van dat artikel genoemde gedragingen.   
+1.  Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellen ten aanzien van de in het tweede lid, onder b, van dat artikel genoemde gedragingen.   
 2.  De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, 14, 15 of 17 gegeven toepassing.   
-3.  Bij algemene maatregel van bestuur wordt bepaald, in welke gevallen Onze Minister regelen, als bedoeld in het eerste lid, ten aanzien van ondernemingen, waarin daarbij aan te wijzen bedrijven op het gebied van industrie, handel en ambacht worden uitgeoefend, niet vaststelt dan in overeenstemming met Onze Minister van Economische Zaken.   
 
 ### Artikel  20  
 
@@ -92,10 +90,9 @@ Onze Minister kan bij in de *Staatscourant* bekend te maken regeling regelen vas
 ### Artikel  22  
 
 1.  Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling de verplichting opleggen tot het ter beschikking houden van produkten voor of het inleveren daarvan bij een door hem aan te wijzen natuurlijke of rechtspersoon.   
-2.  Een verplichting, als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het eerste lid van artikel 13, onder *a*, vermelde doeleinden, wordt slechts opgelegd, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, 14, 15, 17, 18 of 19 gegeven toepassing of in verband met een verordening van een bedrijfslichaam. In het laatste geval wordt een verplichting slechts opgelegd op verzoek van het betrokken bedrijfslichaam.   
-3.  Bij algemene maatregel van bestuur wordt bepaald, in welke gevallen Onze Minister een verplichting, als bedoeld in het eerste lid, aan ondernemingen, waarin daarbij aan te wijzen bedrijven op het gebied van industrie, handel en ambacht worden uitgeoefend, niet oplegt dan in overeenstemming met Onze Minister van Economische Zaken.   
-4.  Voor de ingeleverde produkten wordt door Onze Minister een redelijke vergoeding uitbetaald.   
-5.  Onze Minister kan een geldelijke tegemoetkoming verlenen in de kosten, vallende op het ter beschikking houden van produkten.   
+2.  Een verplichting, als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden, wordt slechts opgelegd, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, 14, 15, 17, 18 of 19 gegeven toepassing of in verband met een verordening van een bedrijfslichaam. In het laatste geval wordt een verplichting slechts opgelegd op verzoek van het betrokken bedrijfslichaam.   
+3.  Voor de ingeleverde produkten wordt door Onze Minister een redelijke vergoeding uitbetaald.   
+4.  Onze Minister kan een geldelijke tegemoetkoming verlenen in de kosten, vallende op het ter beschikking houden van produkten.   
 
 ### Artikel  22a  
 
@@ -117,8 +114,8 @@ Een tarief als bedoeld in artikel 22a, eerste en tweede lid, wordt zodanig vastg
 
 ### Artikel  23  
 
-1.  Onze Minister kan bevoegdheden, welke hem ingevolge het bij of krachtens de artikelen 13, 15, 17, 19, 20, 21, 22, 22a en 26 dan wel bij of krachtens een algemene maatregel van bestuur, als bedoeld in artikel 18 bepaalde toekomen, aan het bestuur van een bedrijfslichaam of een samenwerkingslichaam delegeren. Indien het bevoegdheden betreft die door Onze Minister slechts mogen worden uitgeoefend in overeenstemming met Onze Minister van Economische Zaken, geschiedt zodanige delegatie slechts in overeenstemming met die Minister.   
-2.  Verordeningen, vastgesteld met gebruikmaking van een overgedragen bevoegdheid behoeven de goedkeuring van Onze Minister en indien het voorschrift waarbij de overgedragen bevoegdheid is toegekend, door Onze Minister is vastgesteld in overeenstemming met Onze Minister van Economische Zaken, mede van die Minister. Krachtens de verordening vastgestelde genomen besluiten behoeven, voorzover dit bij de overdracht, bedoeld in het eerste lid, is bepaald, de goedkeuring van de daarbij aangewezen autoriteit. Verordeningen zijn verbindend voor een ieder behoudens voorzover bij de overdracht dan wel in de verordening zelf anders is bepaald.   
+1.  Onze Minister kan bevoegdheden, welke hem ingevolge het bij of krachtens de artikelen 13, 15, 17, 19, 20, 21, 22, 22a en 26 dan wel bij of krachtens een algemene maatregel van bestuur, als bedoeld in artikel 18 bepaalde toekomen, aan het bestuur van een bedrijfslichaam of een samenwerkingslichaam delegeren.   
+2.  Verordeningen, vastgesteld met gebruikmaking van een overgedragen bevoegdheid behoeven de goedkeuring van Onze Minister. Krachtens de verordening vastgestelde genomen besluiten behoeven, voorzover dit bij de overdracht, bedoeld in het eerste lid, is bepaald, de goedkeuring van de daarbij aangewezen autoriteit. Verordeningen zijn verbindend voor een ieder behoudens voorzover bij de overdracht dan wel in de verordening zelf anders is bepaald.   
 3.  Besluiten zonder algemene gelding, tot het nemen waarvan de bevoegdheid is gedelegeerd, kunnen worden genomen ten aanzien van een ieder.   
 4.  Het bedrijfslichaam stelt jaarlijks een begroting en een jaarrekening op met betrekking tot de werkzaamheden voortvloeiend uit de overgedragen bevoegdheden, bedoeld in het eerste lid. De begroting en de jaarrekening behoeven de goedkeuring van Onze Minister. Bij of krachtens een algemene maatregel van bestuur kunnen terzake nadere voorschriften worden gesteld.   
 5.  Een krachtens het eerste lid vastgestelde regeling wordt, evenals een regeling tot haar wijziging of intrekking, in de *Staatscourant* bekendgemaakt.   

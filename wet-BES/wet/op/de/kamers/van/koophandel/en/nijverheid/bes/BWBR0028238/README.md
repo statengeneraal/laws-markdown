@@ -191,7 +191,7 @@ d. het koopen, verkoopen en bezwaren van onroerende zaken en de rechten waaraan 
 
 ### Artikel  22  
 
-1.  De besluiten der Kamers kunnen, voor zover zij in strijd zijn met de wet of het algemeen belang door Onze Minister van Economische Zaken worden geschorst of vernietigd bij een met redenen omkleed besluit, dat, ingeval van schorsing, den duur daarvan bepaalt, en welk besluit bekend wordt gemaakt in de courant, waarin officieele stukken worden gepubliceerd.   
+1.  De besluiten der Kamers kunnen, voor zover zij in strijd zijn met de wet of het algemeen belang door Onze Minister van Economische Zaken, Landbouw en Innovatie worden geschorst of vernietigd bij een met redenen omkleed besluit, dat, ingeval van schorsing, den duur daarvan bepaalt, en welk besluit bekend wordt gemaakt in de courant, waarin officieele stukken worden gepubliceerd.   
 2.  Schorsing stuit onmiddellijk de werking van het geschorste besluit. Zij kan niet langer duren dan zes maanden. Besluiten, die geschorst zijn geweest, kunnen niet opnieuw geschorst worden.   
 3.  Vernietiging wegens strijd met wettelijke regelingen brengt mede vernietiging van alle gevolgen van het vernietigde besluit, voor zoover die voor vernietiging vatbaar zijn. Bij vernietiging wegens strijd met het algemeen belang kunnen niet met dat belang strijdige gevolgen in stand blijven.   
 4.  Gedeeltelijke schorsing of vernietiging van een besluit heeft geen invloed op de geldigheid van het niet geschorste of niet-vernietigde deel van het besluit.   

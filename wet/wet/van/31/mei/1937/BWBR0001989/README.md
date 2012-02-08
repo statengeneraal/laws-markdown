@@ -15,13 +15,13 @@ Onze Ministers van Waterstaat, van Defensie, van Koloniën, van Handel, Nijverhe
 
 ### Artikel  2  
 
-Onze Ministers van Waterstaat en van Financiën worden gemachtigd om voor en namens het Rijk met het Bestuur van de Stichting een overeenkomst aan te gaan overeenkomstig het bij deze wet gevoegd model. Onze in dit artikel genoemde Ministers worden gemachtigd overeenkomsten tot wijziging van de in dit artikel bedoelde overeenkomst met het Bestuur van de Stichting aan te gaan. Wijzigingen van deze overeenkomst zullen onverwijld door de zorg van Onze Minister van Verkeer en Waterstaat aan de Staten-Generaal worden medegedeeld.  
+Onze Ministers van Waterstaat en van Financiën worden gemachtigd om voor en namens het Rijk met het Bestuur van de Stichting een overeenkomst aan te gaan overeenkomstig het bij deze wet gevoegd model. Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Financiën worden gemachtigd overeenkomsten tot wijziging van de in dit artikel bedoelde overeenkomst met het Bestuur van de Stichting aan te gaan. Wijzigingen van deze overeenkomst zullen onverwijld door de zorg van Onze Minister van Economische Zaken, Landbouw en Innovatie aan de Staten-Generaal worden medegedeeld.  
 
 ### Artikel  3  
 
-1.  Aan de stichting wordt jaarlijks door Onze Minister van Verkeer en Waterstaat subsidie verleend voor het verrichten van onderzoek en ontwikkeling op het gebied van de lucht- en ruimtevaart.   
-2.  Aan de stichting kan in bijzondere gevallen door Onze Minister van Verkeer en Waterstaat op aanvraag een incidentele subsidie worden verleend.   
-3.  Bij regeling van Onze Minister van Verkeer en Waterstaat worden regels gegeven inzake 
+1.  Aan de stichting wordt jaarlijks door Onze Minister van Economische Zaken, Landbouw en Innovatie subsidie verleend voor het verrichten van onderzoek en ontwikkeling op het gebied van de lucht- en ruimtevaart.   
+2.  Aan de stichting kan in bijzondere gevallen door Onze Minister van Economische Zaken, Landbouw en Innovatie op aanvraag een incidentele subsidie worden verleend.   
+3.  Bij regeling van Onze Minister van Economische Zaken, Landbouw en Innovatie worden regels gegeven inzake 
 
 a. de voorwaarden waaraan moet worden voldaan om voor subsidie in aanmerking te komen, en  
 
@@ -29,7 +29,7 @@ b. de gegevens die moeten worden verstrekt bij een aanvraag om subsidie als bedo
 
 ### Artikel  4  
 
-Aan de door Onze Ministers van Waterstaat en van Financiën aan te wijzen ambtenaren wordt, telkens wanneer zulks wordt verlangd, inzage in de boekhouding der Stichting gegeven, en worden alle daaromtrent gevraagde inlichtingen verstrekt.  
+Aan de door Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Financiën aan te wijzen ambtenaren wordt, telkens wanneer zulks wordt verlangd, inzage in de boekhouding der Stichting gegeven, en worden alle daaromtrent gevraagde inlichtingen verstrekt.  
 
 ### Artikel  5  
 

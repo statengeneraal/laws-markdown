@@ -25,15 +25,15 @@ b. "lichamen":
 
 ### Artikel  2  
 
-1.  Alle personen en lichamen, wier medewerking naar het oordeel van Onze Ministers van Economische Zaken, van Defensie of van Financiën noodzakelijk is ter voorbereiding van de voorziening in geval van buitengewone omstandigheden in de behoeften van volkshuishouding en landsverdediging, zoomede ter voorbereiding van de financiering dier voorziening, zijn verplicht deze medewerking te verleenen, indien zij overeenkomstig de bepalingen dezer wet wordt gevorderd.   
+1.  Alle personen en lichamen, wier medewerking naar het oordeel van Onze Ministers van Economische Zaken, Landbouw en Innovatie, van Defensie of van Financiën noodzakelijk is ter voorbereiding van de voorziening in geval van buitengewone omstandigheden in de behoeften van volkshuishouding en landsverdediging, zoomede ter voorbereiding van de financiering dier voorziening, zijn verplicht deze medewerking te verleenen, indien zij overeenkomstig de bepalingen dezer wet wordt gevorderd.   
 2.  De medewerking wordt gevorderd: 
 
-a. met betrekking tot de behoeften der volkshuishouding, door Onzen Minister van Economische Zaken;  
+a. met betrekking tot de behoeften der volkshuishouding, door Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. met betrekking tot de behoeften der landsverdediging, door Onzen Minister van Defensie;  
 
 c. met betrekking tot de financiering der in het eerste lid bedoelde voorziening, door Onzen Minister van Financiën.     
-3.  De besturen van provinciën en gemeenten verleenen de in deze wet bedoelde medewerking, indien daartoe door Onze Ministers van Economische Zaken, van Defensie of van Financiën het verzoek wordt gedaan. Het bepaalde in lid 2 vindt te dezen overeenkomstige toepassing.   
+3.  De besturen van provinciën en gemeenten verleenen de in deze wet bedoelde medewerking, indien daartoe door Onze Ministers van Economische Zaken, Landbouw en Innovatie, van Defensie of van Financiën het verzoek wordt gedaan. Het bepaalde in lid 2 vindt te dezen overeenkomstige toepassing.   
 4.  Ten aanzien van de in het vorige lid bedoelde medewerking vindt het bepaalde in de [artikel 120](../../../../../wet/provinciewet/BWBR0005645/README.md) en [121 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) en in de [artikelen 123](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [124 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) overeenkomstige toepassing.   
 
 ### Artikel  3  

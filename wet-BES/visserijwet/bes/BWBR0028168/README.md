@@ -10,7 +10,7 @@
 
 1.  In deze wet en de daarop rustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. *vissen:* te water brengen, te water hebben, lichten of ophalen van vistuigen alsmede het op enigerlei andere wijze pogen om vis uit het water te bemachtigen;  
 
@@ -192,7 +192,7 @@ Het is aan een ieder, die uit hoofde van deze wet of van het krachtens deze wet 
 
 ### Artikel  16  
 
-Met het toezicht op de naleving en het opsporen van de overtredingen van deze wet zijn behalve de in artikel 8 van het Wetboek van Strafvordering BES aangewezen personen belast de door Onze Minister en Onze Minister van Justitie aangewezen personen.  
+Met het toezicht op de naleving en het opsporen van de overtredingen van deze wet zijn behalve de in artikel 8 van het Wetboek van Strafvordering BES aangewezen personen belast de door Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen personen.  
 
 ### Artikel  17  
 

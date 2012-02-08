@@ -12,7 +12,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. *verdrag:* het op 13 januari 1993 te Parijs tot stand gekomen Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162);  
 
-b. *minister:* de Minister van Economische Zaken;  
+b. *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
 
 c. *stoffen:* chemische elementen en hun verbindingen, zoals zij voorkomen in hun natuurlijke toestand of bij produktie ontstaan, met inbegrip van additieven die nodig zijn voor het behoud van de stabiliteit van het produkt en de onzuiverheden ten gevolge van het produktieprocédé;  
 

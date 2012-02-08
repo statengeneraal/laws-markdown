@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde worden verstaan onder: 
 
-a. "Onze Minister": Onze Minister van Economische Zaken;  
+a. "Onze Minister": Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. «Verdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (*Trb.* 1994, 228);  
 

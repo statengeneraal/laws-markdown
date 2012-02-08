@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. SER: Sociaal-Economische Raad;  
 
@@ -162,7 +162,7 @@ Het algemeen bestuur draagt zorg voor de uitvoering van de taken van de kamer.
 
 ### Artikel  17  
 
-Het algemeen bestuur stelt een bestuursreglement vast. Daarin worden in elk geval regels gesteld omtrent de wijze waarop beslissingen van het algemeen en dagelijks bestuur worden voorbereid, genomen en uitgevoerd, wordt geregeld welke bevoegdheden, met uitzondering van de bevoegdheden, bedoeld in artikel 17, eerste lid, 37, eerste lid, 45, eerste lid, 47, eerste lid, 51, derde lid, en 52, tweede lid, het algemeen bestuur overdraagt aan het dagelijks bestuur en worden regels gesteld omtrent de taak en bevoegdheden van de directeur.  
+Het algemeen bestuur stelt een bestuursreglement vast. Daarin worden in elk geval regels gesteld omtrent de wijze waarop beslissingen van het algemeen en dagelijks bestuur worden voorbereid, genomen en uitgevoerd, wordt geregeld welke bevoegdheden, met uitzondering van de bevoegdheden, bedoeld in artikel 17, eerste lid, 37, eerste lid, 45, eerste lid, 47, eerste lid, 51, en 52, tweede lid, het algemeen bestuur overdraagt aan het dagelijks bestuur en worden regels gesteld omtrent de taak en bevoegdheden van de directeur.  
 
 ### Artikel  18  
 

@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. verordening: verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 (PbEU L 218) tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EG) nr. 339/93;  
 
@@ -37,7 +37,7 @@ e. Raad voor Accreditatie: de Stichting Raad voor Accreditatie genoemd in artike
 
 ### Artikel  3  
 
-1.  De benoeming van leden van het bestuur, alsmede wijziging van de statuten van de Raad voor Accreditatie, behoeven de goedkeuring van Onze Minister.   
+1.  De benoeming en het ontslag van leden van het bestuur, alsmede wijziging van de statuten van de Raad voor Accreditatie, behoeven de goedkeuring van Onze Minister.   
 2.  Onze Minister onthoudt zijn goedkeuring indien naar zijn oordeel door de benoeming of door de statutenwijziging 
 
 a. de Raad voor Accreditatie niet langer voldoet aan de eisen van de verordening of  

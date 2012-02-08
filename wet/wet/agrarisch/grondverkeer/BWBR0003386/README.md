@@ -15,7 +15,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Landbouw en Visserij; landbouw: akkerbouw, veehouderij - daaronder begrepen intensieve veehouderij -, tuinbouw - daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen -, bosbouw en elke andere vorm van bodemcultuur; land: landbouwgrond en natuurterreinen; landbouwgrond: grond, waarop enige vorm van landbouw wordt of onmiddellijk kan worden uitgeoefend; natuurterreinen: heidevelden, hoogveenterrein, zandverstuivingen, duinterreinen, kwelders, schorren, gorzen, slikken, riet- en ruigtlanden, laagveenmoerassen, voor zover het geen landbouwgrond is; beperkt recht: het recht van erfpacht, opstal, beklemming of vruchtgebruik; vervreemding: de overdracht in eigendom of de toedeling van een onroerende zaak alsmede de overdracht of toedeling dan wel vestiging van een beperkt recht waaraan een onroerende zaak is onderworpen; vervreemder: de eigenaar van een onroerende zaak of de rechthebbende op een beperkt recht waaraan een onroerende zaak is onderworpen, die tot vervreemding wenst over te gaan, alsmede degene die bij ontbinding van een gemeenschap met de vereffening is belast en tot vervreemding wenst over te gaan; bedrijf: een complex, bestaande uit een of meer gebouwen of gedeelten daarvan en de daarbij behorende landbouwgrond dienende tot uitoefening van de landbouw; bedrijfsleider: de natuurlijke persoon die leiding geeft aan een in de vorm van een privaatrechtelijke rechtspersoon gedreven bedrijf; bureau: bureau beheer landbouwgronden als bedoeld in artikel 28; hoofdberoep: het beroep, waaruit een persoon in overwegende mate zijn inkomsten trekt.  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie; landbouw: akkerbouw, veehouderij - daaronder begrepen intensieve veehouderij -, tuinbouw - daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen -, bosbouw en elke andere vorm van bodemcultuur; land: landbouwgrond en natuurterreinen; landbouwgrond: grond, waarop enige vorm van landbouw wordt of onmiddellijk kan worden uitgeoefend; natuurterreinen: heidevelden, hoogveenterrein, zandverstuivingen, duinterreinen, kwelders, schorren, gorzen, slikken, riet- en ruigtlanden, laagveenmoerassen, voor zover het geen landbouwgrond is; beperkt recht: het recht van erfpacht, opstal, beklemming of vruchtgebruik; vervreemding: de overdracht in eigendom of de toedeling van een onroerende zaak alsmede de overdracht of toedeling dan wel vestiging van een beperkt recht waaraan een onroerende zaak is onderworpen; vervreemder: de eigenaar van een onroerende zaak of de rechthebbende op een beperkt recht waaraan een onroerende zaak is onderworpen, die tot vervreemding wenst over te gaan, alsmede degene die bij ontbinding van een gemeenschap met de vereffening is belast en tot vervreemding wenst over te gaan; bedrijf: een complex, bestaande uit een of meer gebouwen of gedeelten daarvan en de daarbij behorende landbouwgrond dienende tot uitoefening van de landbouw; bedrijfsleider: de natuurlijke persoon die leiding geeft aan een in de vorm van een privaatrechtelijke rechtspersoon gedreven bedrijf; bureau: bureau beheer landbouwgronden als bedoeld in artikel 28; hoofdberoep: het beroep, waaruit een persoon in overwegende mate zijn inkomsten trekt.  
 
 ### Artikel  2  
 
@@ -91,10 +91,10 @@ k. een overeenkomst tot vervreemding van land door het bureau aan de Staat, een 
 
 a. een complex, aangemerkt als landgoed in de zin van [artikel 1 van de Natuurschoonwet 1928](../../../../../wet/natuurschoonwet/1928/BWBR0001939/README.md) (*Stb.* 63);  
 
-b. andere geheel of gedeeltelijk met bos of andere houtopstanden bezette terreinen, waarvan het voortbestaan uit oogpunt van maatschappelijk belang wenselijk is, en die door Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk in overeenstemming met Onze Minister zijn aangewezen als landgoed in de zin van deze wet.     
-3.  Een aanwijzing, als bedoeld in het vorige lid, onder *b,* geschiedt op verzoek van de eigenaar of op verzoek van meerdere eigenaren gezamenlijk.   
-4.  Een aanwijzing, als bedoeld in het tweede lid, onder *b,* heeft ten gevolge dat het land voor twee jaren, te rekenen vanaf de dagtekening van de beschikking wordt aangemerkt als een landgoed.   
-5.  Tegen de weigering van een aanwijzing als bedoeld in het tweede lid, onder *b,* staat beroep open op de Centrale Grondkamer.   
+b. andere geheel of gedeeltelijk met bos of andere houtopstanden bezette terreinen, waarvan het voortbestaan uit oogpunt van maatschappelijk belang wenselijk is, en die door Onze Minister zijn aangewezen als landgoed in de zin van deze wet.     
+3.  Een aanwijzing, als bedoeld in het vorige lid, onder b, geschiedt op verzoek van de eigenaar of op verzoek van meerdere eigenaren gezamenlijk.   
+4.  Een aanwijzing, als bedoeld in het tweede lid, onder b, heeft ten gevolge dat het land voor twee jaren, te rekenen vanaf de dagtekening van de beschikking wordt aangemerkt als een landgoed.   
+5.  Tegen de weigering van een aanwijzing als bedoeld in het tweede lid, onder b, staat beroep open op de Centrale Grondkamer.   
 
 ### Artikel  8  
 
@@ -264,7 +264,7 @@ De [artikelen 6 tot en met 8](../../../../../wet/uitvoeringswet/grondkamers/BWBR
 
 ### Artikel  27  
 
-1.  Onze Minister kan in overeenstemming met Onze Minister van Justitie tarieven vaststellen voor de uit hoofde van deze wet door de grondkamer en door de Centrale Grondkamer te verrichten werkzaamheden.   
+1.  Onze Minister kan in overeenstemming met Onze Minister van Veiligheid en Justitie tarieven vaststellen voor de uit hoofde van deze wet door de grondkamer en door de Centrale Grondkamer te verrichten werkzaamheden.   
 2.  [Artikel 44, tweede lid, van de Uitvoeringswet grondkamers](../../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) is van overeenkomstige toepassing.   
 
 ### Titel  VII  
@@ -305,10 +305,10 @@ c. het verrichten van andere door Onze Minister of door Onze bij algemene maatre
 
 ### Artikel  32  
 
-1.  De dagelijkse leiding van het bureau berust bij een door Onze Minister aan te wijzen ambtenaar van het Ministerie van Landbouw en Visserij, die de functie van directeur vervult.   
+1.  De dagelijkse leiding van het bureau berust bij een door Onze Minister aan te wijzen ambtenaar van het Ministerie van Economische Zaken, Landbouw en Innovatie, die de functie van directeur vervult.   
 2.  Het bureau wordt in en buiten rechte vertegenwoordigd door de directeur. Onze Minister stelt daaromtrent nadere regelen vast bij in de *Staatscourant* bekend te maken besluit. Onze Minister kan andere personen machtigen het bureau in en buiten rechte te vertegenwoordigen.   
 3.  De directeur van het bureau is verantwoording schuldig aan Onze Minister en is gehouden de opdrachten uit te voeren en aanwijzingen op te volgen, welke door Onze Minister of door Onze bij algemene maatregel van bestuur aan te wijzen Ministers worden gegeven.   
-4.  Het bureau heeft geen eigen personeel. Zijn werkzaamheden worden verricht door personen die door Onze Minister zijn aangesteld of op arbeidsovereenkomst naar burgerlijk recht in dienst zijn genomen en die deswege rechtstreeks ten laste van het Ministerie van Landbouw en Visserij worden bezoldigd of beloond.   
+4.  Het bureau heeft geen eigen personeel. Zijn werkzaamheden worden verricht door personen die door Onze Minister zijn aangesteld of op arbeidsovereenkomst naar burgerlijk recht in dienst zijn genomen en die deswege rechtstreeks ten laste van het Ministerie van Economische Zaken, Landbouw en Innovatie worden bezoldigd of beloond.   
 
 ### Artikel  33  
 
@@ -510,11 +510,11 @@ Het is verboden onjuiste of onvolledige opgaven te doen met het oog op het verkr
 
 ### Artikel  64  
 
-1.  Onze Minister verleent op aanvraag ontheffing van het bepaalde bij of krachtens de artikelen 8, 9 en 14, eerste lid, onder *b,* sub 1°, indien naar zijn oordeel sprake is van een bijzondere omstandigheid en gewichtige belangen tot het verlenen van een ontheffing aanleiding geven.   
-2.  In afwijking van het bepaalde in het eerste lid verleent Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk ontheffing van het bepaalde krachtens artikel 8, derde lid.   
+1.  Onze Minister verleent op aanvraag ontheffing van het bepaalde bij of krachtens de artikelen 8, 9 en 14, eerste lid, onder b, sub 1°, indien naar zijn oordeel sprake is van een bijzondere omstandigheid en gewichtige belangen tot het verlenen van een ontheffing aanleiding geven.   
+2.  In afwijking van het bepaalde in het eerste lid verleent Onze Minister ontheffing van het bepaalde krachtens artikel 8, derde lid.   
 3.  Een ontheffing kan onder beperkingen worden verleend; aan de ontheffing kunnen voorschriften worden verbonden.   
 4.  Bij of krachtens algemene maatregel van bestuur worden regelen gesteld met betrekking tot de procedure die bij het aanvragen van een ontheffing moet worden gevolgd, alsmede met betrekking tot de beslissing omtrent de aanvraag.   
-5.  Tegen een beschikking van Onze Minister of Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk omtrent de verlening, de weigering, de verlenging of de intrekking van een ontheffing staat beroep open bij de Centrale Grondkamer.   
+5.  Tegen een beschikking van Onze Minister omtrent de verlening, de weigering, de verlenging of de intrekking van een ontheffing staat beroep open bij de Centrale Grondkamer.   
 
 ### Artikel  65  
 

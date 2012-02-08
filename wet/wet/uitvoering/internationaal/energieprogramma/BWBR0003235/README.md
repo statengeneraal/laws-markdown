@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: *Overeenkomst:* de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma (*Trb.* 1975, 47); *aardolieprodukten:* de produkten bedoeld in artikel 9, eerste lid, van de Overeenkomst; *invoeren:* het brengen in het vrije verkeer; *uitvoeren:* het brengen buiten het vrije verkeer; *Onze Minister:* Onze Minister van Economische Zaken; *College:* het College van Beroep voor het bedrijfsleven.  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: *Overeenkomst:* de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma (*Trb.* 1975, 47); *aardolieprodukten:* de produkten bedoeld in artikel 9, eerste lid, van de Overeenkomst; *invoeren:* het brengen in het vrije verkeer; *uitvoeren:* het brengen buiten het vrije verkeer; *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie; *College:* het College van Beroep voor het bedrijfsleven.  
 
 ### §  2  
 

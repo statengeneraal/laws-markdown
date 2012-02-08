@@ -31,7 +31,7 @@ c. een goed niet te verbruiken of te verwerken zonder een door of vanwege die Mi
 
 d. zorg te dragen voor een doeltreffend onderhoud van een goed.     
 2.  Het bevel kan bepalingen inhouden omtrent de plaats en de tijd waarop aan het bevel moet worden voldaan. De plaats waarop aan het bevel moet worden voldaan, kan ook buiten het Rijk zijn gelegen.   
-3.  Een bevel wordt niet gegeven dan in overeenstemming met Onze Minister van Economische Zaken. Indien het algemeen belang zulks dringend eist kan Onze voornoemde Minister bij voorraad zijn instemming verlenen voor groepen van gevallen.   
+3.  Een bevel wordt niet gegeven dan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie. Indien het algemeen belang zulks dringend eist kan Onze voornoemde Minister bij voorraad zijn instemming verlenen voor groepen van gevallen.   
 4.  De rechthebbende op een goed, ten aanzien waarvan een bevel is gegeven, is verplicht van dit bevel kennis te geven aan zijn rechtsopvolger.   
 5.  Een bevel is mede van kracht voor de volgende rechthebbenden op de in het bevel begrepen goederen.   
 6.  Voor zover het registergoederen betreft, doet Onze Minister die het bevel heeft gegeven, de beschikking waarbij het bevel wordt gegeven, zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). Indien artikel 4, eerste lid, toepassing heeft gevonden en het bevel namens een Onzer Ministers is gegeven, doet de gemachtigde persoon de beschikking zo spoedig mogelijk tezamen met de machtiging inschrijven. Het bepaalde in de tweede zin is van overeenkomstige toepassing in gevallen als bedoeld in artikel 4, tweede lid, met dien verstande dat de ter inschrijving aangeboden beschikking vermeldt de dagtekening van de beschikking waarbij de betrokken persoon als gemachtigde is aangewezen alsmede de datum en het nummer van de *Nederlandse Staatscourant* waarin die beschikking is bekend gemaakt dan wel het tijdstip waarop door middel van de radio-omroep de machtiging van de betrokken persoon is bekend gemaakt. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.   
@@ -40,7 +40,7 @@ d. zorg te dragen voor een doeltreffend onderhoud van een goed.
 
 1.  Ieder van Onze Ministers is, indien dit naar zijn oordeel noodzakelijk is in het belang van de voorbereiding of de nakoming van bevelen als in artikel 2, eerste lid, bedoeld, bevoegd aan de rechthebbende bij algemeen of bijzonder bevel te gelasten om een goed tot het ondergaan van een onderzoek naar zijn toestand of geschiktheid tijdelijk ter beschikking te stellen van degene die het bevel geeft.   
 2.  Artikel 2, tweede lid, eerste volzin, vierde, vijfde en zesde lid, is van toepassing.   
-3.  Van ieder krachtens het eerste lid gegeven bevel wordt een afschrift gezonden aan Onze Minister van Economische Zaken.   
+3.  Van ieder krachtens het eerste lid gegeven bevel wordt een afschrift gezonden aan Onze Minister van Economische Zaken, Landbouw en Innovatie.   
 
 ### Artikel  2b  
 

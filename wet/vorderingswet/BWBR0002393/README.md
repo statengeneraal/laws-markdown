@@ -32,9 +32,10 @@ De toepasselijkheid van deze wet wordt beperkt door de in het volkenrecht erkend
 5.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.   
 6.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.   
 
-### Artikel  3a  
+### Artikel  3a   
+Treedt in werking op een nader te bepalen tijdstip   
 
-Al Onze Ministers zijn bevoegd, indien dit noodzakelijk is met het oog op de behartiging van belangen van tot hun zorg behorende aangelegenheden, ten behoeve van de Staat, andere lichamen of personen het eigendomsrecht op of een recht tot gebruik van zaken te vorderen.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Al Onze Ministers zijn bevoegd, indien dit noodzakelijk is met het oog op de behartiging van belangen van tot hun zorg behorende aangelegenheden, ten behoeve van de Staat, andere lichamen of personen het eigendomsrecht op of een recht tot gebruik van zaken te vorderen.  
 
 ### Artikel  4  
 
@@ -42,8 +43,8 @@ De bekendmaking van een beschikking waarbij een Onzer Ministers machtiging verle
 
 ### Artikel  5  
 
-1.  Onze Ministers gaan niet tot vordering over dan in overeenstemming met Onze Minister van Economische Zaken.   
-2.  Alvorens een beslissing omtrent vorderingen te nemen pleegt Onze Minister van Economische Zaken overleg met Onze Ministers, tot wier zorg belangen, die door de vorderingen kunnen worden geraakt, behoren, tenzij de vereiste spoed dit niet toelaat.   
+1.  Onze Ministers gaan niet tot vordering over dan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie.   
+2.  Alvorens een beslissing omtrent vorderingen te nemen pleegt Onze Minister van Economische Zaken, Landbouw en Innovatie overleg met Onze Ministers, tot wier zorg belangen, die door de vorderingen kunnen worden geraakt, behoren, tenzij de vereiste spoed dit niet toelaat.   
 
 ### Artikel  6  
 
@@ -73,7 +74,7 @@ a. indien de vordering ten behoeve van een ander dan de Staat geschiedt, aan dez
 
 b. aan de burgemeester der gemeente, waar de zaak wordt aangetroffen.     
 3.  Ingeval van vordering van het eigendomsrecht op of een recht tot gebruik van tot een zelfde groep behorende zaken, die bij verscheidene personen aanwezig zijn, kunnen de bekendmaking en de mededeling overeenkomstig het eerste en tweede lid worden vervangen door een algemene bekendmaking de beschikking. De beschikking wordt dan tevens zo spoedig mogelijk in de *Staatscourant* geplaatst.   
-4.  Van vorderingsbeschikkingen, die niet door Onze Minister van Economische Zaken zijn vastgesteld, wordt aan deze afschrift gezonden.   
+4.  Van vorderingsbeschikkingen, die niet door Onze Minister van Economische Zaken, Landbouw en Innovatie zijn vastgesteld, wordt aan deze afschrift gezonden.   
 
 ### Artikel  10  
 
@@ -93,7 +94,7 @@ Ingeval een recht tot gebruik van een zaak is gevorderd, ontstaat dit recht voor
 
 1.  Zodra als gevolg van een vordering het eigendomsrecht is overgegaan of een recht tot gebruik is ontstaan, wordt daarvan door Onze Minister, die de vordering heeft gedaan, zo spoedig mogelijk een bewijsstuk opgemaakt.   
 2.  Het bewijsstuk verwijst naar de vorderingsbeschikking en bevat zo nodig de gegevens vereist met betrekking tot de inschrijving van stukken in de betrokken openbare registers, voor zover deze niet in de beschikking staan. Indien de feitelijke mogelijkheid tot uitoefening van het gevorderde recht is verschaft met toepassing van artikel 10, wordt hiervan in het bewijsstuk melding gemaakt.   
-3.  Een exemplaar van het bewijsstuk, mede ondertekend door degene, te wiens behoeve de vordering is geschied, wordt, zo mogelijk, verstrekt aan ieder dergenen, aan wie een exemplaar van de vorderingsbeschikking is verstrekt. Van bewijsstukken, die niet door Onze Minister van Economische Zaken zijn opgemaakt, wordt aan deze afschrift gezonden.   
+3.  Een exemplaar van het bewijsstuk, mede ondertekend door degene, te wiens behoeve de vordering is geschied, wordt, zo mogelijk, verstrekt aan ieder dergenen, aan wie een exemplaar van de vorderingsbeschikking is verstrekt. Van bewijsstukken, die niet door Onze Minister van Economische Zaken, Landbouw en Innovatie zijn opgemaakt, wordt aan deze afschrift gezonden.   
 
 ### Artikel  14  
 
@@ -156,7 +157,7 @@ Een als gevolg van een vordering ontstaan recht tot gebruik van een zaak, dat no
 1.  Zolang niet een krachtens artikel 3, eerste lid, vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Defensie de bevoegdheid worden verleend in het belang van de uitvoering van de militaire taak, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.   
 2.  Zolang niet een krachtens artikel 3, eerste lid, vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Binnenlandse Zaken de bevoegdheid worden verleend in het belang van de bestrijding van rampen en zware ongevallen in buitengewone omstandigheden als bedoeld in [paragraaf 12 van de Wet veiligheidsregio’s](../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), van de beperking van de onmiddellijke gevolgen daarvan, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.   
 3.  Wij nemen Ons besluit als bedoeld in het eerste of tweede lid, de Raad van State gehoord.   
-4.  De voordracht tot vaststelling van een besluit krachtens het eerste lid wordt Ons gedaan door Onze Minister van Defensie, tezamen met Onze Minister van Economische Zaken, en de voordracht tot vaststelling van een besluit krachtens het tweede lid wordt Ons gedaan door Onze Minister van Binnenlandse Zaken, tezamen met Onze Minister van Economische Zaken. Onze Minister van Economische Zaken pleegt, alvorens de voordracht mede te ondertekenen, overleg met Onze Ministers, tot wier zorg belangen, die door de vordering kunnen worden geraakt, behoren.   
+4.  De voordracht tot vaststelling van een besluit krachtens het eerste lid wordt Ons gedaan door Onze Minister van Defensie, tezamen met Onze Minister van Economische Zaken, Landbouw en Innovatie, en de voordracht tot vaststelling van een besluit krachtens het tweede lid wordt Ons gedaan door Onze Minister van Binnenlandse Zaken, tezamen met Onze Minister van Economische Zaken, Landbouw en Innovatie. Onze Minister van Economische Zaken, Landbouw en Innovatie pleegt, alvorens de voordracht mede te ondertekenen, overleg met Onze Ministers, tot wier zorg belangen, die door de vordering kunnen worden geraakt, behoren.   
 5.  De voordracht wordt niet gedaan dan nadat gebleken is, dat de nodige beschikking over de onroerende zaak niet of niet tijdig bij minnelijke overeenkomst verkregen kan worden.   
 6.  Een krachtens het eerste of tweede lid verleende bevoegdheid vervalt een maand na het in werking treden van Ons besluit, waarbij zij is verleend.   
 7.  De vorderingsbeschikking vermeldt het koninklijk besluit, waarbij de bevoegdheid tot het doen der vordering is verleend.   
@@ -206,7 +207,7 @@ Dit artikel is niet gepubliceerd.
 
 ### Artikel  33  
 
-1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de door Onze Minister van Justitie in overeenstemming met Onze andere Ministers, wie het aangaat, daartoe aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze andere Ministers, wie het aangaat, daartoe aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.   
 3.  De in het eerste lid bedoelde ambtenaren zijn bevoegd bij het opsporen van de bij deze wet strafbaar gestelde feiten, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.   
 4.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   

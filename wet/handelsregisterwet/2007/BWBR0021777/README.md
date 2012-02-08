@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop rustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. onderneming: een onderneming als bedoeld in artikel 5;  
 
@@ -385,7 +385,7 @@ b. voor zover het betreft brieven en orders, aan naamloze vennootschappen, beslo
 2.  Artikel 22 is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste en tweede lid.   
 3.  Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen aan een bestuursorgaan worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen indien het verzoek daartoe wordt gedaan door: 
 
-a. Onze Minister van Justitie ten behoeve van de taak, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
+a. Onze Minister van Veiligheid en Justitie ten behoeve van de taak, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
 
 b. een officier van justitie ten behoeve van de opsporing van strafbare feiten;  
 
@@ -543,7 +543,7 @@ Het is verboden te handelen in strijd met dan wel niet te voldoen aan een bij of
 
 ### Artikel  48  
 
-Een kamer draagt na overleg met de andere kamers zorg voor een procedure voor de behandeling van klachten over de uitvoering van deze wet. Bij de behandeling van klachten wordt de procedure, bedoeld in [afdeling 9:3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gevolgd.  
+Een kamer draagt na overleg met de andere kamers zorg voor een procedure voor de behandeling van klachten over de uitvoering van deze wet. Bij de behandeling van klachten wordt de procedure, bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gevolgd.  
 
 ### Hoofdstuk  9  
 
@@ -560,6 +560,8 @@ Een kamer draagt na overleg met de andere kamers zorg voor een procedure voor de
 
 1.  Voor de inzage of de verstrekking van gegevens is een bij of krachtens algemene maatregel van bestuur te bepalen vergoeding verschuldigd, welke kan variëren naar de wijze van inzage of verstrekking van gegevens en de hoeveelheid gegevens.   
 2.  De verplichting tot betaling van een vergoeding als bedoeld in het eerste lid geldt niet indien het verzoek om gegevens wordt gedaan door de directeur-generaal van de statistiek op grond van [artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek](../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md).   
+3.  De in het eerste lid bedoelde bijdrage is verschuldigd zonder dat dit bij beschikking is vastgesteld.   
+4.  Bij algemene maatregel van bestuur wordt de betalingstermijn vastgesteld.   
 
 ### Artikel  50a  
 
@@ -648,7 +650,8 @@ Bij ministeriële regeling kunnen, in overeenstemming met Onze betrokken Ministe
 
 ### Artikel  59  
 
-In afwijking van artikel 32 kunnen gedurende zes jaar na de inwerkingtreding van artikel 32 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 32 genoemde verplichting uitsluitend geldt.  
+1.  In afwijking van artikel 30 kunnen gedurende zes jaar na de inwerkingtreding van artikel 30 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 30 genoemde verplichting uitsluitend geldt.   
+2.  In afwijking van artikel 32 kunnen gedurende zes jaar na de inwerkingtreding van artikel 32 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 32 genoemde verplichting uitsluitend geldt.   
 
 ### Artikel  60  
 

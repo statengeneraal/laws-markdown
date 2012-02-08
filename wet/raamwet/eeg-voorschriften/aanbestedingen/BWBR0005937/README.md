@@ -28,12 +28,12 @@ b. een gedelegeerde richtlijn, verordening of beschikking;
 c. bijlage XVI van de Overeenkomst betreffende de Europese Economische Ruimte;  
 
 d. een bindende overeenkomst tussen de Europese Unie en een derde land of een internationale organisatie die betrekking heeft op een onderwerp dat wordt bestreken door een aanbestedingsrichtlijn of -verordening of een gedelegeerde richtlijn, verordening of beschikking.     
-2.  De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt gedaan door Onze Minister van Economische Zaken in overeenstemming met Onze Ministers wie het mede aangaat.   
+2.  De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt gedaan door Onze Minister van Economische Zaken, Landbouw en Innovatie in overeenstemming met Onze Ministers wie het mede aangaat.   
 
 ### Artikel  3  
 
-1.  Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van het verstrekken van informatie door de in een aanbestedingsrichtlijn of -verordening of gedelegeerde richtlijn, verordening of beschikking bedoelde overheidsdiensten en daarmee gelijkgestelde bedrijven en instellingen aan Onze Minister van Economische Zaken en aan de Europese Commissie, voorzover dat noodzakelijk is ingevolge een in die aanbestedingsrichtlijn of -verordening of gedelegeerde richtlijn, verordening of beschikking opgenomen verplichting.   
-2.  Onze Minister van Economische Zaken kan nadere voorschriften geven ten behoeve van de toepassing van een in het eerste lid bedoelde algemene maatregel van bestuur.   
+1.  Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van het verstrekken van informatie door de in een aanbestedingsrichtlijn of -verordening of gedelegeerde richtlijn, verordening of beschikking bedoelde overheidsdiensten en daarmee gelijkgestelde bedrijven en instellingen aan Onze Minister van Economische Zaken, Landbouw en Innovatie en aan de Europese Commissie, voorzover dat noodzakelijk is ingevolge een in die aanbestedingsrichtlijn of -verordening of gedelegeerde richtlijn, verordening of beschikking opgenomen verplichting.   
+2.  Onze Minister van Economische Zaken, Landbouw en Innovatie kan nadere voorschriften geven ten behoeve van de toepassing van een in het eerste lid bedoelde algemene maatregel van bestuur.   
 3.  De in het eerste lid bedoelde diensten, bedrijven en instellingen zijn verplicht de op grond van dit artikel gevraagde informatie te verstrekken.   
 
 ### Artikel  4  

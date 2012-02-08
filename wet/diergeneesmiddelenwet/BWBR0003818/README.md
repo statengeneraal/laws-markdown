@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: "Onze Minister": Onze Minister van Landbouw en Visserij; "dierenarts": degene die is ingeschreven in het register van praktizerende dierenartsen, bedoeld in [artikel 10, eerste lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md); «apotheker»: degene die is ingeschreven in het register van gevestigde apothekers, bedoeld in [artikel 61, derde lid, van de Geneesmiddelenwet](../../../wet/geneesmiddelenwet/BWBR0021505/README.md), alsmede de apotheker die in dienstbetrekking is bij de krijgsmacht, voor zover hij geneesmiddelen bereidt of ter hand stelt uit hoofde van die dienstbetrekking; "registratiehouder": degene te wiens naam het diergeneesmiddel is geregistreerd; "substantie": stof, of een mengsel van stoffen, van menselijke, dierlijke, plantaardige of chemische oorsprong, daaronder begrepen dieren, planten, delen van dieren of planten alsmede micro-organismen en virussen; "diergeneesmiddel": substantie die bestemd is om al of niet na be- of verwerking, te worden gebruikt voor: 
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: "Onze Minister": Onze Minister van Economische Zaken, Landbouw en Innovatie; "dierenarts": degene die is ingeschreven in het register van praktizerende dierenartsen, bedoeld in [artikel 10, eerste lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md); «apotheker»: degene die is ingeschreven in het register van gevestigde apothekers, bedoeld in [artikel 61, derde lid, van de Geneesmiddelenwet](../../../wet/geneesmiddelenwet/BWBR0021505/README.md), alsmede de apotheker die in dienstbetrekking is bij de krijgsmacht, voor zover hij geneesmiddelen bereidt of ter hand stelt uit hoofde van die dienstbetrekking; "registratiehouder": degene te wiens naam het diergeneesmiddel is geregistreerd; "substantie": stof, of een mengsel van stoffen, van menselijke, dierlijke, plantaardige of chemische oorsprong, daaronder begrepen dieren, planten, delen van dieren of planten alsmede micro-organismen en virussen; "diergeneesmiddel": substantie die bestemd is om al of niet na be- of verwerking, te worden gebruikt voor: 
 
 a. het genezen, lenigen of voorkomen van enige aandoening, ziekte, ziekteverschijnsel, pijn, verwonding of gebrek van een dier;  
 
@@ -52,8 +52,8 @@ b. diergeneesmiddelen, andere dan sera, entstoffen of biologische diagnostica di
 
 ### Artikel  3  
 
-1.  Over de registratie van diergeneesmiddelen wordt door Onze Minister, in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur, beslist op aanvraag van de fabrikant of, indien een ander voor het in Nederland in de handel brengen van het diergeneesmiddel verantwoordelijk zal zijn, op aanvraag van deze laatste.   
-2.  Door Onze Minister, in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur, worden regelen gesteld omtrent het indienen van een aanvraag tot registratie of tot verlenging van een registratie, alsmede tot wijziging van een registratie en omtrent de behandeling daarvan. Daarbij kan onder meer worden bepaald: 
+1.  Over de registratie van diergeneesmiddelen wordt door Onze Minister, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, beslist op aanvraag van de fabrikant of, indien een ander voor het in Nederland in de handel brengen van het diergeneesmiddel verantwoordelijk zal zijn, op aanvraag van deze laatste.   
+2.  Door Onze Minister, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, worden regelen gesteld omtrent het indienen van een aanvraag tot registratie of tot verlenging van een registratie, alsmede tot wijziging van een registratie en omtrent de behandeling daarvan. Daarbij kan onder meer worden bepaald: 
 
 a. dat een aanvraag eerst in behandeling wordt genomen nadat een daarvoor vastgesteld bedrag is voldaan;  
 
@@ -82,13 +82,13 @@ a. op grond van onderzoek van de door de aanvrager overgelegde gegevens met rede
 
 b. zij de opgegeven eigenschappen en kwalitatieve en kwantitatieve samenstelling bezitten en de voor het controleren daarvan opgegeven methodieken adequaat zijn;  
 
-c. zij voldoen aan door Onze Minister in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur gestelde regelen met betrekking tot de substanties waaruit zij zijn samengesteld; en  
+c. zij voldoen aan door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport gestelde regelen met betrekking tot de substanties waaruit zij zijn samengesteld; en  
 
 d. zij, voor zover het sera, entstoffen of biologische diagnostica betreft, niet bereid zijn uit, of met behulp van door Onze Minister aangewezen substanties, waarvan naar zijn oordeel gevaar is te duchten voor de gezondheid van dieren of voor verstoring van de dierziektenbestrijding.    
 
 ### Artikel  5  
 
-Onze Minister kan in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur bepalen, dat door hem aangewezen substanties, waarvan het gebruik als diergeneesmiddel in het belang van de volksgezondheid ongewenst is, niet in aanmerking komen voor registratie.  
+Onze Minister kan in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport bepalen, dat door hem aangewezen substanties, waarvan het gebruik als diergeneesmiddel in het belang van de volksgezondheid ongewenst is, niet in aanmerking komen voor registratie.  
 
 ### Artikel  6  
 
@@ -130,17 +130,17 @@ b. de wijze waarop kennis kan worden genomen van de in het register opgenomen ge
 
 ### Artikel  10  
 
-Onze Minister kan, in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur, een registratie geheel of gedeeltelijk schorsen voor een tijdvak van ten hoogste zes maanden, indien: 
+Onze Minister kan, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, een registratie geheel of gedeeltelijk schorsen voor een tijdvak van ten hoogste zes maanden, indien: 
 
-a. op grond van na de registratie te zijner kennis gekomen feiten het ernstige vermoeden bestaat dat niet wordt voldaan aan het in artikel 4, onder *a*, *b*, *c* of *d*, bepaalde;  
+a. op grond van na de registratie te zijner kennis gekomen feiten het ernstige vermoeden bestaat dat niet wordt voldaan aan het in artikel 4, onder a, b, c of d, bepaalde;  
 
 b. na de registratie het ernstige vermoeden ontstaat dat de aanvraag tot registratie onjuiste gegevens bevat.    
 
 ### Artikel  11  
 
-1.  Onze Minister kan, in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur, een registratie geheel of gedeeltelijk doorhalen indien: 
+1.  Onze Minister kan, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, een registratie geheel of gedeeltelijk doorhalen indien: 
 
-a. op grond van na de registratie te zijner kennis gekomen feiten blijkt dat niet wordt voldaan aan het in artikel 4, onder *a*, *b*, *c* of *d*, bepaalde;  
+a. op grond van na de registratie te zijner kennis gekomen feiten blijkt dat niet wordt voldaan aan het in artikel 4, onder a, b, c of d, bepaalde;  
 
 b. na de registratie blijkt dat de aanvraag tot registratie onjuiste gegevens bevat;  
 
@@ -459,7 +459,7 @@ b. kunnen worden gebruikt voor de bereiding van diergeneesmiddelen, bedoeld in a
 
 ### Artikel  45  
 
-1.  Onze Minister kan, in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur, voor zover het belang van de gezondheid van de mens, dieren of planten dan wel het belang van het milieu zich daartegen niet verzet, van het bij of krachtens deze wet bepaalde vrijstelling of ontheffing verlenen.   
+1.  Onze Minister kan, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, voor zover het belang van de gezondheid van de mens, dieren of planten dan wel het belang van het milieu zich daartegen niet verzet, van het bij of krachtens deze wet bepaalde vrijstelling of ontheffing verlenen.   
 2.  Op een beschikking betreffende een ontheffing is het in artikel 26 bepaalde van overeenkomstige toepassing.   
 3.  Aan een vrijstelling of ontheffing ingevolge deze wet kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend.   
 
@@ -477,7 +477,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van kracht
 
 ### Artikel  50  
 
-1.  Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, bedoeld in de artikelen 11, 20, 23, 28, 38, 39, 41, 42, 43 en 49, wordt Ons gedaan door Onze Minister in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur en, voor zover het een algemene maatregel van bestuur, bedoeld in de artikelen 23, 38, 42 en 43, betreft, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid.   
+1.  Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, bedoeld in de artikelen 11, 20, 23, 28, 38, 39, 41, 42, 43 en 49, wordt Ons gedaan door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport en, voor zover het een algemene maatregel van bestuur, bedoeld in de artikelen 23, 38, 42 en 43, betreft, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid.   
 2.  Onverminderd het bepaalde in het eerste lid wordt een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, bedoeld in de artikelen 42 en 43, voor zover deze maatregel van toepassing is op instellingen van wetenschap of onderzoek, Ons gedaan in overeenstemming met Onze Minister wie het mede aangaat.   
 
 ### Hoofdstuk  VIII  

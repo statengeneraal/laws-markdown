@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: *winner:* degene, die aardgas wint krachtens een hem verleende winningsvergunning als bedoeld in de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md); *Onze Minister:* Onze Minister van Economische Zaken.   
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: *winner:* degene, die aardgas wint krachtens een hem verleende winningsvergunning als bedoeld in de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md); *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie.   
 2.  Voor zover een ander dan de winner gebruik maakt van een hem toegekende bevoegdheid het door die winner gewonnen aardgas of een deel daarvan te verkopen, wordt in afwijking van het eerste lid in plaats van die winner die ander als winner aangemerkt.   
 
 ### Artikel  2  

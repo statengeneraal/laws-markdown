@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Er is een Fonds economische structuurversterking, hierna te noemen: het fonds.   
 2.  Het fonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
-3.  Onze Ministers van Economische Zaken en van Financiën beheren de begroting van het fonds.   
+3.  Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Financiën beheren de begroting van het fonds.   
 
 ### Artikel  2  
 
@@ -25,7 +25,7 @@ b. het bedrag dat overeenkomt met de rentelasten die bespaard worden als gevolg 
 
 c. inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid, tot ten hoogste het nominale bedrag uit het Fes dat is besteed voor de voorfinanciering van de geraamde private bijdragen in de aanleg;  
 
-d. andere door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën voor het fonds te bestemmen inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid;  
+d. andere door Onze Minister van Economische Zaken, Landbouw en Innovatie in overeenstemming met Onze Minister van Financiën voor het fonds te bestemmen inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid;  
 
 e. andere voor het fonds te bestemmen ontvangsten uit de winning van koolwaterstoffen;  
 
@@ -53,7 +53,7 @@ c. de opbrengst van de verkoop van Roccade Informatica Groep n.v. voor zover dez
 d. de opbrengst van de verkoop van aandelen die zijn verkregen bij wijze van dividend.     
 5.  Bij de berekening van de te besparen rentelasten, bedoeld in het eerste lid, onder b, wordt uitgegaan van het rendement op langlopende staatsobligaties op de dag waarop de opbrengst wordt bijgeschreven op een rekening van het Rijk.   
 6.  Bij de berekening van de te besparen rentelasten ten gevolge van het in mindering brengen op de staatsschuld van een opbrengst als bedoeld in het derde lid, onder b, worden afgetrokken de dividendinkomsten die genoten zouden worden indien de vervreemding of ontvangst niet zou hebben plaatsgevonden.   
-7.  Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.   
+7.  Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken, Landbouw en Innovatie in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.   
 
 ### Artikel  3  
 
@@ -83,7 +83,7 @@ b. de projecten in het kader van de investeringsimpuls, zoals bedoeld in de Voor
 
 ### Artikel  5  
 
-Onze Minister van Economische Zaken kan in overeenstemming met Onze Minister van Financiën regels stellen met betrekking tot de voorwaarden waaronder de bijdragen betaalbaar worden gesteld, alsmede met betrekking tot de informatieverstrekking over de besteding van de verkregen bijdragen.  
+Onze Minister van Economische Zaken, Landbouw en Innovatie kan in overeenstemming met Onze Minister van Financiën regels stellen met betrekking tot de voorwaarden waaronder de bijdragen betaalbaar worden gesteld, alsmede met betrekking tot de informatieverstrekking over de besteding van de verkregen bijdragen.  
 
 ### Artikel  5a  
 

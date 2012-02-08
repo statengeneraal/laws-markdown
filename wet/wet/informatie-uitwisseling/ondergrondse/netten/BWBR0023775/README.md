@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. Dienst: de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md);  
 
@@ -116,6 +116,14 @@ b. niet langer een net zal beheren dat ligt binnen een door de Dienst op zijn na
 2.  Bij de graafmelding geeft de grondroerder een graafpolygoon op.   
 3.  Het eerste lid is niet van toepassing, indien de graafwerkzaamheden ten hoogste een bij algemene maatregel van bestuur te bepalen diepgang hebben en uitgevoerd zullen worden in grond die in eigendom of beheer is van de grondroerder en hij weet dat sinds de voorafgaande graafmelding de ligging van de netten in deze grond niet is veranderd.   
 
+### Artikel  8a   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Bij algemene maatregel van bestuur kunnen bepaalde categorieën grondroerders worden aangewezen die zijn vrijgesteld van de verplichting om een graafmelding te doen voor zover zij graafwerkzaamheden verrichten in grond die in eigendom of in beheer is van de grondroerder en die graafwerkzaamheden niet dieper gaan dan 50 cm onder het maaiveld.   
+2.  Vrijstelling laat de op de grondroerder rustende zorgplichten bedoeld in artikel 2, eerste, tweede en derde lid, onderdeel b, onverlet.   
+3.  Artikel 2, derde lid, onderdelen a en c, is niet van toepassing op de grondroerders, bedoeld in het eerste lid.   
+4.  Voor de toepassing van dit artikel wordt de opdrachtgever voor graafwerkzaamheden als bedoeld in het eerste lid aangemerkt als grondroerder indien de opdrachtgever eigenaar of beheerder is van de grond waarin de werkzaamheden worden uitgevoerd.   
+
 ### Artikel  9  
 
 Na ontvangst van een oriëntatieverzoek of graafmelding: 
@@ -157,7 +165,7 @@ Onze Minister kan voor de situatie dat graafmeldingen die betrekking hebben op g
 
 ### Artikel  14  
 
-Onze Minister van Justitie kan ter voorkoming van een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of om op voorhand de gevolgen daarvan te beperken aan de Dienst alle nodige aanwijzingen geven ten aanzien van de informatie-uitwisseling.  
+Onze Minister van Veiligheid en Justitie kan ter voorkoming van een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of om op voorhand de gevolgen daarvan te beperken aan de Dienst alle nodige aanwijzingen geven ten aanzien van de informatie-uitwisseling.  
 
 ### Artikel  15  
 
@@ -259,7 +267,8 @@ Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter h
 
 ####Wijzigingen in andere wetgeving
 
-### Artikel  39  
+### Artikel  39   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Kadasterwet.   
 

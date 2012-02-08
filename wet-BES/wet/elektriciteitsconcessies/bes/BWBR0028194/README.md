@@ -139,7 +139,7 @@ De ondernemer moet woonplaats kiezen binnen het openbaar lichaam waar de inricht
 
 ### Artikel  19  
 
-1.  Onverminderd de bevoegdheid van de ambtenaren, vermeld in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), zijn met het toezicht op de naleving van deze wet en het opsporen van de daarin strafbaar gestelde feiten tevens belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister van Economische Zaken nader aan te wijzen technische ambtenaren of deskundige personen.   
+1.  Onverminderd de bevoegdheid van de ambtenaren, vermeld in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), zijn met het toezicht op de naleving van deze wet en het opsporen van de daarin strafbaar gestelde feiten tevens belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie nader aan te wijzen technische ambtenaren of deskundige personen.   
 2.  Van deze aanwijzing wordt de betrokken ondernemers kennis gegeven.   
 3.  De in het eerste lid van dit artikel bedoelde ambtenaren en personen hebben te allen tijde toegang tot alle onder deze wet vallende werken, gebouwen, opstallen, inrichtingen en terreinen.   
 4.  Indien voor het sub l bedoelde toezicht nodig is, dat bewoonde panden worden betreden, mag zulks slechts geschieden tussen 7 uur des voormiddags en 5 uur des namiddags. Tegen de wil van de bewoner treden zij evenbedoelde panden slechts binnen met schriftelijke machtiging van de rechter in eerste aanleg en in het bijzijn van een officier of hulpofficier van justitie.   

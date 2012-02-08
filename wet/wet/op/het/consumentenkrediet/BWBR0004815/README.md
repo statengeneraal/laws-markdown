@@ -54,7 +54,7 @@ m. *kredietsom bij goederenkrediet:* het verschil tussen het totaal van de conta
 
 n. *gemeentelijke kredietbank:* een instelling voor kredietverlening, opgericht door een of meer gemeenten;  
 
-o. *Onze Minister:* Onze Minister van Economische Zaken.    
+o. *Onze Minister:* Onze Minister van Financiën.    
 
 ### Afdeling  2  
 
@@ -80,17 +80,11 @@ De artikelen 33, onder d, en 40 gelden niet voor kredietverlening door een gemee
 
 a. waaraan als kredietnemer deelneemt: 
 
-1°. echtgenoten of geregistreerde partners als bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), van wie het gezamenlijk netto maandinkomen niet hoger is dan de norm genoemd in [artikel 21, onderdeel c, van die wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+1°. de meerderjarige gezinsleden van een gezin als bedoeld in [artikel 4, eerste lid, onderdeel c, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), van wie het gezamenlijk netto maandinkomen niet hoger is dan de norm genoemd in [artikel 21, eerste lid, van die wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
 2°. een alleenstaande ouder als bedoeld in [artikel 4, onderdeel b, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), van wie het netto maandinkomen niet hoger is dan negentig procent van de norm bedoeld onder 1°;  
 
-3°. een alleenstaande als bedoeld in [artikel 4, onderdeel a, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), van wie het netto maandinkomen niet hoger is dan zeventig procent van de norm bedoeld onder 1°;  
-
-4°. echtgenoten of geregistreerde partners als bedoeld in [artikel 3 van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), van wie het gezamenlijk netto maandinkomen niet hoger is dan de van toepassing zijnde norm genoemd in [artikel 28, van die wet](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
-
-5°. een alleenstaande ouder als bedoeld in [artikel 4 van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), van wie het netto maandinkomen niet hoger is dan de norm genoemd in [artikel 27, van die wet](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md); of  
-
-6°. een alleenstaande jongere als bedoeld in de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), van wie het netto maandinkomen niet hoger is dan de van toepassing zijnde norm genoemd in [artikel 26, van die wet](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);   dan wel  
+3°. een alleenstaande als bedoeld in [artikel 4, onderdeel a, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), van wie het netto maandinkomen niet hoger is dan zeventig procent van de norm bedoeld onder 1°;   dan wel  
 
 b. in het kader van een regeling met betrekking tot de bestaande schuldenlast van een kredietnemer (saneringskrediet).    
 

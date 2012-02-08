@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Landbouw, Natuurbeheer en Visserij.  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
 ### Artikel  2  
 

@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. raad van toezicht: raad van toezicht, bedoeld in artikel 4;  
 
@@ -171,7 +171,7 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ### Artikel  17  
 
-1.  Onze Minister en Staatsbosbeheer voeren tenminste jaarlijks overleg omtrent de door Staatsbosbeheer, ter uitvoering van zijn in artikel 3, eerste lid bedoelde taakopdracht, te bereiken resultaten en de daarvoor door Onze Minister, ten laste van de begroting van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, jaarlijks ter beschikking te stellen geldmiddelen.   
+1.  Onze Minister en Staatsbosbeheer voeren tenminste jaarlijks overleg omtrent de door Staatsbosbeheer, ter uitvoering van zijn in artikel 3, eerste lid bedoelde taakopdracht, te bereiken resultaten en de daarvoor door Onze Minister, ten laste van de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie, jaarlijks ter beschikking te stellen geldmiddelen.   
 2.  Het in het eerste lid bedoelde overleg heeft mede betrekking op het door Staatsbosbeheer verstrekken van inlichtingen en het afleggen van verantwoording over de mate waarin die prestaties worden geleverd.   
 3.  De omvang van de in het eerste lid bedoelde geldmiddelen is gebaseerd op de door Onze Minister vast te stellen normkosten.   
 4.  Onze Minister voegt de resultaten van het in het eerste lid bedoelde overleg, alsmede de jaarrapportage van Staatsbosbeheer betreffende de realisatie van de in dat overleg afgesproken prestaties ter gelegenheid van de aanbieding van de rijksbegroting aan de Staten-Generaal ter kennisneming bij.   
@@ -182,7 +182,7 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ### Artikel  18  
 
-1.  Onze Minister stelt jaarlijks aan Staatsbosbeheer ten laste van de begroting van het Ministerie van Landbouw, Natuur en Voedselkwaliteit geldmiddelen ter beschikking. Hij baseert zich hierbij op het in artikel 17 bedoelde overleg.   
+1.  Onze Minister stelt jaarlijks aan Staatsbosbeheer ten laste van de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie geldmiddelen ter beschikking. Hij baseert zich hierbij op het in artikel 17 bedoelde overleg.   
 2.  Onverminderd het eerste lid, verwerft Staatsbosbeheer geldmiddelen door het aanvaarden van geldmiddelen van derden, door het aanvaarden van schenkingen, erfstellingen en legaten, door inkomsten uit eigen beheer, en uit andere hoofde.   
 3.  Staatsbosbeheer gebruikt de geldmiddelen, bedoeld in het eerste en tweede lid, uitsluitend ter vervulling van de taken, voortvloeiend uit artikel 3.   
 4.  Staatsbosbeheer is bevoegd financiële reserves te vormen, met dien verstande dat Onze Minister kan besluiten dat Staatsbosbeheer slechts financiële reserves kan vormen tot een door hem vast te stellen maximum bedrag.   

@@ -11,12 +11,12 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: goederen: roerende of onroerende zaken of vermogensrechten; diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst; Onze Minister: Onze Minister van Economische Zaken; College: het College van Beroep voor het bedrijfsleven.   
+1.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: goederen: roerende of onroerende zaken of vermogensrechten; diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst; Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie; College: het College van Beroep voor het bedrijfsleven.   
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde worden onder prijzen niet verstaan de vergoedingen voor diensten op het gebied van het bankwezen, in de ruimste zin, en van de geld- en kapitaalmarkt, voor zover zij het karakter van een rentevergoeding dragen.   
 
 ### Artikel  2  
 
-De bij deze wet aan Onze Minister van Economische Zaken verleende bevoegdheden worden door deze uitgeoefend in overeenstemming met Onze Minister, wie het mede aangaat.  
+De bij deze wet aan Onze Minister van Economische Zaken, Landbouw en Innovatie verleende bevoegdheden worden door deze uitgeoefend in overeenstemming met Onze Minister, wie het mede aangaat.  
 
 ### Artikel  3  
 
@@ -29,7 +29,7 @@ De bij deze wet aan Onze Minister van Economische Zaken verleende bevoegdheden w
 
 ### Artikel  5  
 
-Onze Minister kan, voor zover de binnenlandse markt betreft, regelen vaststellen, strekkende tot de beheersing van de prijzen van goederen en diensten.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister kan, voor zover de binnenlandse markt betreft, regelen vaststellen, strekkende tot de beheersing van de prijzen van goederen en diensten.  
 
 ### Artikel  6  
 
@@ -44,9 +44,10 @@ Een ministeriële regeling als bedoeld in artikel 5, of een regeling tot wijzigi
 
 ### Artikel  8  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan, ter bevordering van een bevredigende ontwikkeling van de prijzen van goederen en diensten, ten aanzien van een door hem aangewezen categorie van ondernemers een prijzenfonds instellen en met betrekking tot zodanig fonds in overeenstemming met Onze Minister van Financiën regelen vaststellen. Artikel 7 is van overeenkomstige toepassing.   
 2.  In de in het eerste lid bedoelde regelen kan worden bepaald, dat een fonds afzonderlijk wordt beheerd door Onze Minister of door een in die regelen aangewezen orgaan, en kunnen voorschriften worden gegeven met betrekking tot dit beheer.   
-3.  In zodanige regelen kan worden afgeweken van het bij of krachtens de [artikelen 27](../../../wet/comptabiliteitswet/BWBR0003075/README.md) tot en met [30](../../../wet/comptabiliteitswet/BWBR0003075/README.md) en [34 van de Comptabiliteitswet](../../../wet/comptabiliteitswet/BWBR0003075/README.md) (*Stb.* 1991, 752) bepaalde.   
+3.  In zodanige regelen kan worden afgeweken van het bij of krachtens de [artikelen 32 tot en met 35](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en [37, aanhef en onder c, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) bepaalde.   
 
 ### Artikel  9  
 
@@ -81,7 +82,7 @@ Onze Minister kan van een ieder de inlichtingen verlangen, die hij nodig acht om
 ### Artikel  16  
 
 1.  Bij algemene maatregel van bestuur worden de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de bevoegdheden uitoefenen welke krachtens deze wet, de [Hamsterwet](../../../wet/hamsterwet/BWBR0002389/README.md), de [Noodwet voedselvoorziening](../../../wet/noodwet/voedselvoorziening/BWBR0002392/README.md), de [Vorderingswet](../../../wet/vorderingswet/BWBR0002393/README.md), de [Landbouwwet](../../../wet/landbouwwet/BWBR0002252/README.md) en de [Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md) toekomen aan Onze Minister.   
-2.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden tevens de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de bevoegdheden uitoefenen welke krachtens deze wet, de [Vorderingswet](../../../wet/vorderingswet/BWBR0002393/README.md) en de [Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md) toekomen aan een van Onze andere Ministers, niet zijnde Onze Minister-President of Onze Minister van Landbouw, Natuur en Voedselkwaliteit.   
+2.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden tevens de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de bevoegdheden uitoefenen welke krachtens deze wet, de [Vorderingswet](../../../wet/vorderingswet/BWBR0002393/README.md) en de [Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md) toekomen aan een van Onze andere Ministers, niet zijnde Onze Minister-President.   
 3.  Een algemeen mandaat als bedoeld in het eerste en het tweede lid wordt niet voor onbepaalde tijd gegeven. Zij bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd en de periode waarin het mandaat geldt.   
 4.  Een mandaat voor een bepaald geval als bedoeld in het eerste en het tweede lid bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd, de periode waarin het mandaat geldt en het geval waarin de bevoegdheid kan worden uitgeoefend.   
 

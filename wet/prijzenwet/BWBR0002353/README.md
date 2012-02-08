@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Deze wet verstaat onder: producten: roerende zaken in de zin van het Burgerlijk Wetboek; diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst; Onze Minister: Onze Minister van Economische Zaken; College: het College van Beroep voor het bedrijfsleven.   
+1.  Deze wet verstaat onder: producten: roerende zaken in de zin van het Burgerlijk Wetboek; diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst; Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie; College: het College van Beroep voor het bedrijfsleven.   
 2.  Deze wet verstaat onder prijzen niet de vergoedingen voor diensten op het gebied van het bankwezen, in de ruimste zin, en van de geld- en kapitaalmarkt, voor zover zij het karakter van rentevergoeding dragen.   
 
 ### Artikel  2  

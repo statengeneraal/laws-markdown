@@ -146,7 +146,7 @@ d. de naam en contactgegevens van de onderneming ten gunste van wie de beslissin
 
 e. voor zover van toepassing alle andere informatie die de aanbestedende dienst nuttig acht.     
 2.  De bekendmaking geschiedt overeenkomstig het daartoe door de Europese Commissie vastgestelde formulier.   
-3.  Onze Minister van Economische Zaken zorgt ervoor dat het formulier, bedoeld in het tweede lid, beschikbaar wordt gesteld.   
+3.  Onze Minister van Economische Zaken, Landbouw en Innovatie zorgt ervoor dat het formulier, bedoeld in het tweede lid, beschikbaar wordt gesteld.   
 
 ### Artikel  11  
 
@@ -160,8 +160,8 @@ e. voor zover van toepassing alle andere informatie die de aanbestedende dienst 
 
 ### Artikel  13  
 
-1.  Indien de rechter toepassing heeft gegeven aan artikel 11, eerste lid, wordt door de griffie van de rechtbank onverwijld en kosteloos een afschrift van de uitspraak gezonden aan Onze Minister van Economische Zaken en aan de raad.   
-2.  De minister draagt zorg dat afschriften van uitspraken als bedoeld in het eerste lid eenmaal per jaar aan de Commissie van de Europese Gemeenschappen worden gezonden.   
+1.  Indien de rechter toepassing heeft gegeven aan artikel 11, eerste lid, wordt door de griffie van de rechtbank onverwijld en kosteloos een afschrift van de uitspraak gezonden aan Onze Minister van Economische Zaken, Landbouw en Innovatie en aan de raad.   
+2.  Onze Minister draagt zorg dat afschriften van uitspraken als bedoeld in het eerste lid eenmaal per jaar aan de Commissie van de Europese Gemeenschappen worden gezonden.   
 
 ### Artikel  14  
 
@@ -184,7 +184,7 @@ e. voor zover van toepassing alle andere informatie die de aanbestedende dienst 
 
 ### Artikel  17  
 
-Indien de aanbestedende dienst, bedoeld in artikel 14, eerste lid, de Nederlandse Mededingingsautoriteit is, worden de bevoegdheden van de artikelen 14 tot en met 16 uitgeoefend door Onze Minister van Economische Zaken.  
+Indien de aanbestedende dienst, bedoeld in artikel 14, eerste lid, de Nederlandse Mededingingsautoriteit is, worden de bevoegdheden van de artikelen 14 tot en met 16 uitgeoefend door Onze Minister van Economische Zaken, Landbouw en Innovatie.  
 
 ### Artikel  18  
 

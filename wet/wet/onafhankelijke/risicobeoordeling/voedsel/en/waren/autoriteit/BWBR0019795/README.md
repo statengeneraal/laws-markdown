@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. autoriteit: Voedsel en Waren Autoriteit, ingesteld bij het [Besluit organisatie VWA](../../../../../../../../../ministeriele-regeling/besluit/organisatie/vwa/BWBR0013865/README.md) (Stcrt. 2002, 127);  
 

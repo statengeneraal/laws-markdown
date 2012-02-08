@@ -29,7 +29,7 @@ Het Rijk doet aan de Stichting "Beambtenfonds voor het Mijnbedrijf", gevestigd t
 ### Artikel  3  
 
 1.  De krachtens artikel 1, eerste lid, en artikel 2 te verstrekken uitkeringen geschieden telkens uiterlijk op 1 juli.   
-2.  De in artikel 1, eerste lid, genoemde stichting doet telkens aan Onze Minister van Economische Zaken een opgave van de kosten, bedoeld in artikel 1, tweede lid, uiterlijk op 1 maart van het volgende jaar. De krachtens laatstgenoemde bepaling te verstrekken uitkering geschiedt telkens uiterlijk op 1 juli van het volgende jaar.   
+2.  De in artikel 1, eerste lid, genoemde stichting doet telkens aan Onze Minister van Economische Zaken, Landbouw en Innovatie een opgave van de kosten, bedoeld in artikel 1, tweede lid, uiterlijk op 1 maart van het volgende jaar. De krachtens laatstgenoemde bepaling te verstrekken uitkering geschiedt telkens uiterlijk op 1 juli van het volgende jaar.   
 
 ### Artikel  4  
 

@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Landbouw, Natuurbeheer en Visserij;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. "directeur": directeur van de Plantenziektenkundige Dienst alsmede de ambtenaar die hem vervangt;  
 

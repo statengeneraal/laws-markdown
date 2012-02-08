@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. college: college, genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);  
 
@@ -485,7 +485,7 @@ a. het uitbreiden van nummercapaciteit, welke het gevolg is van een toewijzing v
 b. de implementatie van een besluit van het Europees Parlement en de Raad van de Europese Unie, van de Raad van de Europese Unie of van de Commissie van de Europese Gemeenschappen, of  
 
 c. overige wijzigingen die van ondergeschikte aard zijn en waarvan in het nummerplan is opgenomen dat op een dergelijke wijziging artikel 4.1, tweede lid, niet van toepassing is.     
-4.  Het is verboden voor een bestemming die voorkomt in een nummerplan andere nummers te gebruiken dan de nummers die in dat plan voor die bestemming zijn opgenomen.   
+4.  Het is verboden voor een bestemming die voorkomt in een nummerplan andere nummers te gebruiken dan de nummers die in dat plan voor die bestemming zijn opgenomen, en om een nummer dat voorkomt in een nummerplan voor een andere bestemming te gebruiken dan de bestemming waarvoor dat nummer in dat plan is opgenomen.   
 
 ### Artikel  4.1a  
 
@@ -503,7 +503,7 @@ c. een natuurlijke persoon of rechtspersoon ten behoeve van het gebruik van een 
 2.  Een besluit over een aanvraag om toekenning van nummers wordt binnen drie weken na ontvangst van de aanvraag genomen en bekendgemaakt. Indien de aanvraag betrekking heeft op een nummer, waarvan in een nummerplan is vastgelegd dat dit wordt toegekend door middel van een procedure van veiling, wordt de termijn verlengd met drie weken.   
 3.  In het belang van een doelmatige toekenning van nummers kan bij ministeriële regeling worden bepaald dat nummers voor een bij die regeling aangewezen bestemming of categorie van gevallen, slechts kunnen worden toegekend aan één, onderscheidenlijk twee, van de in het eerste lid, onder a tot en met c, bedoelde categorieën van aanvragers.   
 4.  Een toekenning van nummers kan in het belang van een doelmatig gebruik van nummers onder beperkingen worden verleend. In dat belang kunnen aan een toekenning voorschriften worden verbonden.   
-5.  Gedurende de voorbereiding van een nummerplan kan het college, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn. Het verbod van artikel 4.1, derde lid, is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.   
+5.  Gedurende de voorbereiding van een nummerplan kan het college, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn. Het verbod van artikel 4.1, vierde lid, is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.   
 6.  Indien meer aanvragen met een gelijke voorkeur om toekenning van een bepaald nummer, dan wel bepaalde nummers op dezelfde dag bij het college ter behandeling zijn ingediend, besluit het college op die aanvragen door middel van het lot. Van deze procedure zijn uitgesloten nummers als bedoeld in het zevende lid en nummers als bedoeld in artikel 4.2b.   
 7.  Nummers van uitzonderlijke economische waarde worden toegekend door middel van een procedure van veiling, indien dit met betrekking tot die nummers in een nummerplan is vastgelegd. De opbrengst van de veiling komt toe aan de Staat.   
 8.  In afwijking van het bepaalde in het zesde en het zevende lid kan het college: 
@@ -518,7 +518,7 @@ b. in uitzonderlijke omstandigheden besluiten een nummer van uitzonderlijke econ
 ### Artikel  4.2a  
 
 1.  Nummers die worden toegekend door middel van een procedure van veiling worden voor onbepaalde tijd toegekend, tenzij Onze Minister in het betreffende nummerplan een maximumduur van de toekenning heeft vastgelegd.   
-2.  Een nummer waarvoor een maximumduur is opgenomen in een nummerplan wordt niet eerder dan een jaar nadat de maximumtermijn van de toekenning is verstreken in gebruik genomen, indien het nummer door de daarop volgende toekenning van nummerhouder verandert.   
+2.  Een nummer waarvoor een maximumduur is opgenomen in een nummerplan wordt niet eerder dan een jaar nadat de maximumtermijn van de toekenning is verstreken of de toekenning is ingetrokken in gebruik genomen, indien het nummer door de daarop volgende toekenning van nummerhouder verandert.   
 
 ### Artikel  4.2b  
 
@@ -528,15 +528,11 @@ In de gevallen waarin samenwerking tussen nummerhouders noodzakelijk is voor het
 
 1.  Een toekenning wordt geweigerd, indien: 
 
-a. de aanvrager niet behoort tot een van de categorieën, genoemd in artikel 4.2, eerste lid;  
+a. de toekenning in strijd is met het desbetreffende nummerplan of een op grond van artikel 4.2, vijfde lid, vastgestelde aanwijzing;  
 
-b. de toekenning in strijd is met het desbetreffende nummerplan of een op grond van artikel 4.2, vijfde lid, vastgestelde aanwijzing;  
+b. redelijkerwijs is te verwachten dat door de aanvrager niet zal of kan worden voldaan aan het bij of krachtens deze wet met betrekking tot nummers bepaalde;  
 
-c. redelijkerwijs is te verwachten dat door de aanvrager niet zal of kan worden voldaan aan het bij of krachtens deze wet met betrekking tot nummers bepaalde;  
-
-d.  vervallen;   
-
-e. de toekenning in strijd zou zijn met de bij of krachtens deze wet gestelde regels.     
+c. de toekenning in strijd zou zijn met de bij of krachtens deze wet gestelde regels.     
 2.  Een toekenning kan geheel of gedeeltelijk worden geweigerd, indien: 
 
 a. op grond van de aanvraag redelijkerwijs niet is te verwachten dat het voorgenomen gebruik binnen een jaar, of binnen een bij ministeriële regeling voor bij die regeling aan te wijzen categorieën van nummers te bepalen kortere termijn, wordt verwezenlijkt;  
@@ -581,23 +577,21 @@ Het college kan op gezamenlijke aanvraag van de desbetreffende nummerhouder en e
 
 a. een wijziging van het desbetreffende nummerplan daartoe noodzaakt, voor zover de nummerhouder aanspraak behoudt op toekenning van hetzelfde aantal nummers;  
 
-b. de redenen die ten grondslag lagen aan de toekenning zijn vervallen;  
-
-c. het doelmatig gebruik van nummers in het algemeen maatschappelijk en economisch belang dit vordert.     
+b. het doelmatig gebruik van nummers in het algemeen maatschappelijk en economisch belang dit vordert.     
 2.  Een toekenning wordt voorts door het college gewijzigd indien dit noodzakelijk is om feitelijke onjuistheden van eenvoudige aard weg te nemen.   
 3.  Een toekenning wordt voorts door het college ingetrokken op aanwijzing van Onze Minister in het belang van de veiligheid van de staat.   
 4.  Een toekenning kan door het college worden opgeschort voor een door het college te bepalen termijn of worden ingetrokken, indien: 
 
-a. de nummerhouder of de nummergebruiker de bij of krachtens deze wet gestelde regels of de aan het toekenningsbesluit verbonden voorschriften niet nakomt;  
+a. de nummerhouder of de nummergebruiker de bij of krachtens deze wet met betrekking tot nummers gestelde regels of de aan het toekenningsbesluit verbonden voorschriften niet nakomt;  
 
 b. na de toekenning blijkt dat de aanvraag is gedaan met de kennelijke bedoeling de toegekende nummers te verhandelen;  
 
 c. de nummerhouder niet meer voldoet aan de voorwaarden om in aanmerking te komen voor toekenning van dat nummer.     
-5.  Met betrekking tot bij ministeriële regeling aangewezen categorieën van nummers kan een toekenning door het college worden opgeschort voor een door het college te bepalen termijn die niet langer duurt dan twee weken, indien het college een aanwijzing heeft dat de nummergebruiker de bij of krachtens deze wet gestelde regels niet nakomt of de aan het toekenningsbesluit verbonden voorschriften of een gedraging als bedoeld in artikel 4.4 verricht. Het college kan de in de vorige volzin genoemde periode eenmalig met maximaal twee weken verlengen.   
+5.  Met betrekking tot bij ministeriële regeling aangewezen categorieën van nummers kan een toekenning door het college worden opgeschort voor een door het college te bepalen termijn die niet langer duurt dan twee weken, indien het college een aanwijzing heeft dat de nummergebruiker de bij of krachtens deze wet met betrekking tot nummers gestelde regels niet nakomt of de aan het toekenningsbesluit verbonden voorschriften of een gedraging als bedoeld in artikel 4.4 verricht. Het college kan de in de vorige volzin genoemde periode eenmalig met maximaal twee weken verlengen.   
 
 ### Artikel  4.8  
 
-1.  In het belang van de goede uitvoering van de bij of krachtens de wet aan het college opgedragen taken en toegekende bevoegdheden wordt door het college een nummerregister bijgehouden dat een overzicht bevat van toekenningen. Het register bevat de vermelding van de naam van degene aan wie nummers zijn toegekend. Tevens wordt de duur van de toekenning vermeld. Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor het register.   
+1.  In het belang van de goede uitvoering van de bij of krachtens de wet aan het college opgedragen taken en toegekende bevoegdheden wordt door het college een nummerregister bijgehouden dat een overzicht bevat van toekenningen. Het register bevat de vermelding van de naam, het adres en de vestigingsplaats, respectievelijk de woonplaats van degene aan wie nummers zijn toegekend. Tevens wordt de duur van de toekenning vermeld. Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor het register.   
 2.  Onverminderd het derde lid ligt het register voor eenieder kosteloos ter inzage op een door het college te bepalen plaats.   
 3.  Op verzoek van de nummerhouder wordt, indien het een natuurlijk persoon betreft en het nummer niet uitsluitend bedrijfsmatig wordt gebruikt, zijn naam, adres en woonplaats niet opgenomen in het deel van het register dat ter inzage ligt.   
 
@@ -1787,8 +1781,8 @@ b. de voorkoming, opsporing en vervolging van strafbare feiten.
 
 ### Artikel  12.1  
 
-1.  Aanbieders van een openbare telefoondienst, andere bij algemene maatregel van bestuur aan te wijzen openbare elektronische communicatiediensten of bij algemene maatregel van bestuur aan te wijzen programmadiensten sluiten zich aan bij een door de Minister van Justitie erkende geschillencommissie welke geschillen behandelt over een overeenkomst met betrekking tot de levering van een openbare elektronische communicatiedienst of een programmadienst tussen een hiervoor bedoelde aanbieder en een natuurlijk persoon die voor andere dan bedrijfs- of beroepsdoeleinden handelt.   
-2.  Gebruikers van bij algemene maatregel van bestuur aan te wijzen categorieën van nummers sluiten zich gedurende een bij die algemene maatregel van bestuur te bepalen periode aan bij een door de Minister van Justitie erkende geschillencommissie welke geschillen behandelt over de levering van een dienst door een hiervoor bedoelde nummergebruiker aan een consument voor zover het geschil verplichtingen betreft die bij of krachtens deze wet zijn opgelegd.   
+1.  Aanbieders van een openbare telefoondienst, andere bij algemene maatregel van bestuur aan te wijzen openbare elektronische communicatiediensten of bij algemene maatregel van bestuur aan te wijzen programmadiensten sluiten zich aan bij een door Onze Minister van Veiligheid en Justitie erkende geschillencommissie welke geschillen behandelt over een overeenkomst met betrekking tot de levering van een openbare elektronische communicatiedienst of een programmadienst tussen een hiervoor bedoelde aanbieder en een natuurlijk persoon die voor andere dan bedrijfs- of beroepsdoeleinden handelt.   
+2.  Gebruikers van bij algemene maatregel van bestuur aan te wijzen categorieën van nummers sluiten zich gedurende een bij die algemene maatregel van bestuur te bepalen periode aan bij een door Onze Minister van Veiligheid en Justitie erkende geschillencommissie welke geschillen behandelt over de levering van een dienst door een hiervoor bedoelde nummergebruiker aan een consument voor zover het geschil verplichtingen betreft die bij of krachtens deze wet zijn opgelegd.   
 
 ### §  12.2  
 
@@ -1900,7 +1894,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 1.  Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten voldoen onverwijld aan een vordering op grond van [artikel 126n](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of [artikel 126na](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), dan wel [artikel 126u](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of [artikel 126ua, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) dan wel een verzoek op grond van [artikel 28 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md) tot het verstrekken van gegevens over een gebruiker van een openbaar telecommunicatienetwerk dan wel een openbare telecommunicatiedienst en het telecommunicatieverkeer met betrekking tot die gebruiker.   
 2.  Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten voldoen aan een vordering op grond van [artikel 126na, eerste lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [126ua, eerste lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [126zi van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) dan wel een verzoek op grond van [artikel 29 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md) tot het verstrekken van gegevens terzake van naam, adres, postcode, woonplaats, nummer en soort dienst van een gebruiker van een openbaar telecommunicatienetwerk dan wel een openbare telecommunicatiedienst.   
 3.  Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten voldoen aan een vordering op grond van [artikel 126na, tweede lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [126ua, tweede lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [126zi van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) dan wel een verzoek op grond van [artikel 29 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md) tot het op bij algemene maatregel van bestuur te bepalen wijze achterhalen en verstrekken van de gegevens, bedoeld in het eerste lid.Teneinde aan deze verplichtingen te kunnen voldoen bewaren de aanbieders de bij algemene maatregel van bestuur aan te wijzen gegevens voor een periode van twaalf maanden, vanaf het tijdstip waarop deze gegevens voor de eerste maal zijn verwerkt.   
-4.  Bij algemene maatregel van bestuur, op voordracht van Onze Minister van Justitie, Onze Minister, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie kunnen regels worden gesteld met betrekking tot de wijze waarop de aanbieders aan een vordering of een verzoek, bedoeld in het eerste, tweede en derde lid, voldoen, de registratie van statistische gegevens en de termijnen waarbinnen die gegevens beschikbaar worden gesteld en de wijze waarop de gegevens, bedoeld in het tweede en derde lid, beschikbaar worden gehouden. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+4.  Bij algemene maatregel van bestuur, op voordracht van Onze Minister van Veiligheid en Justitie, Onze Minister, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie kunnen regels worden gesteld met betrekking tot de wijze waarop de aanbieders aan een vordering of een verzoek, bedoeld in het eerste, tweede en derde lid, voldoen, de registratie van statistische gegevens en de termijnen waarbinnen die gegevens beschikbaar worden gesteld en de wijze waarop de gegevens, bedoeld in het tweede en derde lid, beschikbaar worden gehouden. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  13.5  
 
@@ -1917,7 +1911,7 @@ c. de gegevens te kunnen vernietigen na afloop van de periode, bedoeld in artike
 a. dezelfde kwaliteit hebben en worden onderworpen aan dezelfde beveiligings- en beschermingsmaatregelen als de gegevens in het netwerk;  
 
 b. onverwijld worden vernietigd na afloop van de periode, bedoeld in artikel 13.2a, derde lid.     
-4.  Op voordracht van Onze Minister van Justitie, Onze Minister, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie kunnen bij algemene maatregel van bestuur regels worden gesteld met betrekking tot de te nemen maatregelen in verband met de beveiliging en de waarborging bedoeld in het eerste, tweede en derde lid. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+4.  Op voordracht van Onze Minister van Veiligheid en Justitie, Onze Minister, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie kunnen bij algemene maatregel van bestuur regels worden gesteld met betrekking tot de te nemen maatregelen in verband met de beveiliging en de waarborging bedoeld in het eerste, tweede en derde lid. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  13.6  
 
@@ -1932,11 +1926,11 @@ b. onverwijld worden vernietigd na afloop van de periode, bedoeld in artikel 13.
 
 ### Artikel  13.8  
 
-Van de verplichtingen die voortvloeien uit dit hoofdstuk kan Onze Minister in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Defensie en Onze Minister van Justitie in bijzondere gevallen ontheffing verlenen. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.  
+Van de verplichtingen die voortvloeien uit dit hoofdstuk kan Onze Minister in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Defensie en Onze Minister van Veiligheid en Justitie in bijzondere gevallen ontheffing verlenen. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.  
 
 ### Artikel  13.9  
 
-Onze Minister van Justitie zendt in overeenstemming met Onze Minister van Economische Zaken binnen drie jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de wijziging van de artikelen 13.2a, 13.4 en 13.5 in de praktijk, voor zover die wijzigingen betrekking hebben op de implementatie van Richtlijn nr 2006/24/EG van het Europees Parlement en de Raad van de Europese Unie.  
+Onze Minister van Veiligheid en Justitie zendt in overeenstemming met Onze Minister binnen drie jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de wijziging van de artikelen 13.2a, 13.4 en 13.5 in de praktijk, voor zover die wijzigingen betrekking hebben op de implementatie van Richtlijn nr 2006/24/EG van het Europees Parlement en de Raad van de Europese Unie.  
 
 ### Artikel  13.10  
 
@@ -1965,7 +1959,7 @@ Ingeval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, ee
 
 ### Artikel  14.4  
 
-1.  Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en aan gebruikers van de frequentieruimte aanwijzingen te geven met betrekking tot: 
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en aan gebruikers van de frequentieruimte aanwijzingen te geven met betrekking tot: 
 
 a. de instandhouding en exploitatie van hun openbare telecommunicatienetwerken;  
 
@@ -2079,7 +2073,7 @@ b. overtreding van een op grond van artikel 12.2 genomen besluit, voor zover de 
 5.  Indien op grond van [artikel 5:1, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toepassing is gegeven aan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), bedraagt voor de daar bedoelde overtreder de bestuurlijke boete, bedoeld in het tweede en derde lid, ten hoogste € 450 000.   
 6.  Als relevante omzet als bedoeld in het tweede en derde lid wordt aangemerkt de omzet van de onderneming: 
 
-a. in het boekjaar voorafgaande aan de beschikking, bedoeld in artikel 15.10;  
+a. in het boekjaar voorafgaand aan de beschikking waarbij de bestuurlijke boete wordt opgelegd;  
 
 b. berekend op de voet van [artikel 337, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet en  
 
@@ -2207,7 +2201,7 @@ Onze Minister kan met betrekking tot de veiligheid en de beveiliging van openbar
 
 ### Artikel  18.9  
 
-1.  Onze Minister is bevoegd, in overeenstemming met Onze Minister van Justitie, aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten aanwijzingen te geven met betrekking tot: 
+1.  Onze Minister is bevoegd, in overeenstemming met Onze Minister van Veiligheid en Justitie, aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten aanwijzingen te geven met betrekking tot: 
 
 a. de instandhouding en de exploitatie van hun openbare elektronische communicatienetwerken, of  
 

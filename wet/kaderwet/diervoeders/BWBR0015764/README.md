@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Landbouw, Natuurbeheer en Visserij;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. diervoeders: producten van plantaardige of dierlijke oorsprong in natuurlijke staat, vers of verduurzaamd, afgeleide producten van de industriële verwerking van deze producten, alsmede organische of anorganische stoffen, al dan niet gemengd, met of zonder toevoegingsmiddelen en bestemd voor dierlijke voeding langs orale weg;  
 

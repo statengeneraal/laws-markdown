@@ -80,7 +80,7 @@ b. goederen, behorende tot de onderneming van de veroordeelde, waarin het feit b
 
 ### Artikel  10  
 
-Met het opsporen van de bij of krachtens deze wet strafbaar gestelde feiten zijn, behalve de bij [artikel 184 van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen personen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister van Economische Zaken aangewezen ambtenaren en andere personen.  
+Met het opsporen van de bij of krachtens deze wet strafbaar gestelde feiten zijn, behalve de bij [artikel 184 van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen personen, belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren en andere personen.  
 
 ### Artikel  11  
 

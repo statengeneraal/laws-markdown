@@ -334,7 +334,11 @@ b. een rechtspersoon, andere dan ondernemer, die voor btw-doeleinden is geïdent
 1.  De belasting wordt berekend over de vergoeding.   
 2.  De vergoeding is het totale bedrag dat - of voor zover de tegenprestatie niet in een geldsom bestaat, de totale waarde van de tegenprestatie welke - ter zake van de levering of de dienst in rekening wordt gebracht, de omzetbelasting niet daaronder begrepen. Ingeval ter zake van de levering of de dienst meer wordt voldaan dan hetgeen in rekening is gebracht, komt in plaats daarvan in aanmerking hetgeen is voldaan.   
 3.  Ten aanzien van de handelingen, bedoeld in artikel 3, derde lid, en artikel 3a, eerste lid, wordt de vergoeding gesteld op de aankoopprijs van de goederen of van soortgelijke goederen of, indien er geen aankoopprijs is, de kostprijs, berekend op het tijdstip waarop deze handelingen worden uitgevoerd.   
-4.  Ten aanzien van de handelingen, bedoeld in artikel 4, derde lid, wordt de vergoeding gesteld op de normale waarde van de dienst.   
+4.  De vergoeding wordt gesteld op de normale waarde van de dienst indien: 
+
+a. een auto tegen een lagere vergoeding dan de normale waarde voor andere dan bedrijfsdoeleinden in gebruik wordt gegeven aan een verbonden afnemer die geen volledig recht op aftrek heeft uit hoofde van artikel 15;  
+
+b. het gaat om handelingen als bedoeld in artikel 4, derde lid.   Voor de toepassing van de eerste alinea, onderdeel a, wordt onder een verbonden afnemer verstaan een werknemer, een afnemer die een bestuurlijke verhouding met de ondernemer heeft en een afnemer waarmee de ondernemer een familiale band heeft.   
 5.  Bij algemene maatregel van bestuur kan worden bepaald in hoever: 
 
 a. de korting voor contante betaling, de kosten van verpakking, de vracht- en assurantiekosten, de uitschotten van belasting en andere met doorlopende posten gelijk te stellen bedragen niet tot de vergoeding behoren;  
@@ -436,7 +440,7 @@ k. handelingen ter zake van verzekering en herverzekering met inbegrip van daarm
 
 l. de kansspelen in de zin van [artikel 2, eerste lid, van de Wet op de kansspelbelasting](../../../../../../../wet/wet/op/de/kansspelbelasting/BWBR0002359/README.md);  
 
-m. de diensten, en de daarmee gepaard gaande leveringen, bedoeld in [artikel 14 van de Postwet 2009](../../../../../../../wet/postwet/2009/BWBR0025572/README.md), die worden verricht door een verlener van de universele postdienst, bedoeld in [die wet](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+m. de diensten, en de daarmee gepaard gaande leveringen, bedoeld in [artikel 16 van de Postwet 2009](../../../../../../../wet/postwet/2009/BWBR0025572/README.md), die worden verricht door een verlener van de universele postdienst, bedoeld in [die wet](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
 
 n. de niet-commerciële activiteiten van openbare radio- en televisieorganisaties;  
 
@@ -545,7 +549,7 @@ d. de belasting die is begrepen in de aankoopprijs van een nieuw vervoermiddel d
 
 1°. een in artikel 7, zesde lid, bedoelde ondernemer; of  
 
-2°. een wederverkoper;     een en ander voor zover de goederen en de diensten door de ondernemer worden gebruikt voor belaste handelingen. Indien een verzoek om teruggaaf van belasting kan worden gedaan op de voet van artikel 30, eerste, tweede en derde lid, kan die belasting door de ondernemer niet in aftrek worden gebracht. Indien een onroerende zaak deel uitmaakt van het vermogen van het bedrijf van een ondernemer en door de ondernemer zowel voor de activiteiten van het bedrijf als voor zijn privégebruik of voor het privégebruik van zijn personeel, of, meer in het algemeen, voor andere dan bedrijfsdoeleinden wordt gebruikt, is de belasting over de uitgaven in verband met deze onroerende zaak slechts aftrekbaar, overeenkomstig de in dit artikel vervatte beginselen, naar evenredigheid van het gebruik ervan voor de bedrijfsactiviteiten van de ondernemer. Voor het gebruik van de onroerende zaak voor privédoeleinden van de ondernemer of van zijn personeel, of meer in het algemeen voor andere dan bedrijfsdoeleinden is artikel 4, tweede lid, onderdeel a, niet van toepassing.   
+2°. een wederverkoper;     een en ander voor zover de goederen en de diensten door de ondernemer worden gebruikt voor belaste handelingen. Indien een verzoek om teruggaaf van belasting kan worden gedaan op de voet van artikel 30, eerste en tweede lid, kan die belasting door de ondernemer niet in aftrek worden gebracht. Indien een onroerende zaak deel uitmaakt van het vermogen van het bedrijf van een ondernemer en door de ondernemer zowel voor de activiteiten van het bedrijf als voor zijn privégebruik of voor het privégebruik van zijn personeel, of, meer in het algemeen, voor andere dan bedrijfsdoeleinden wordt gebruikt, is de belasting over de uitgaven in verband met deze onroerende zaak slechts aftrekbaar, overeenkomstig de in dit artikel vervatte beginselen, naar evenredigheid van het gebruik ervan voor de bedrijfsactiviteiten van de ondernemer. Voor het gebruik van de onroerende zaak voor privédoeleinden van de ondernemer of van zijn personeel, of meer in het algemeen voor andere dan bedrijfsdoeleinden is artikel 4, tweede lid, onderdeel a, niet van toepassing.   
 2.  De ondernemer brengt eveneens in aftrek de belasting, bedoeld in het eerste lid, voorzover de goederen en diensten door de ondernemer worden gebruikt voor: 
 
 a. handelingen door de als zodanig handelende ondernemer buiten Nederland verricht, waarvoor recht op aftrek zou ontstaan wanneer zij binnen Nederland zouden plaatsvinden;  
@@ -556,7 +560,7 @@ c. handelingen als bedoeld in de artikelen 11, eerste lid, onderdelen i, j en k,
 3.  In afwijking in zoverre van het eerste lid wordt bij levering van een nieuw vervoermiddel door een in het eerste lid, onderdeel d, bedoelde ondernemer de in het eerste lid bedoelde aftrek beperkt tot de belasting die in de aankoopprijs is begrepen of die verschuldigd is geworden ter zake van de intracommunautaire verwerving of de invoer van het vervoermiddel. De aftrek bedraagt ten hoogste het bedrag van de belasting dat verschuldigd zou zijn indien op die levering het tarief van nihil niet van toepassing zou zijn. Het recht op aftrek ontstaat op het tijdstip waarop het vervoermiddel wordt geleverd. Bij ministeriële regeling worden nadere regels gesteld inzake de toepassing van dit lid en van het eerste lid, onderdeel d.   
 4.  De aftrek van belasting vindt plaats overeenkomstig de bestemming van de goederen en diensten op het tijdstip waarop de belasting aan de ondernemer in rekening wordt gebracht dan wel op het tijdstip waarop de belasting wordt verschuldigd. Indien op het tijdstip waarop de ondernemer goederen en diensten gaat gebruiken, blijkt, dat de belasting ter zake voor een groter of kleiner gedeelte in aftrek is gebracht dan waartoe de ondernemer op grond van het gebruik is gerechtigd, wordt hij de te veel afgetrokken belasting op dat tijdstip verschuldigd. De verschuldigd geworden belasting wordt op de voet van artikel 14 voldaan. De te weinig afgetrokken belasting wordt aan hem op zijn verzoek teruggegeven.   
 5.  Geen aftrek vindt plaats van belasting welke in rekening is gebracht ter zake van het verstrekken van spijzen en dranken voor gebruik ter plaatse binnen het kader van het hotel-, café-, restaurant-, pension- en aanverwant bedrijf aan personen die daar slechts voor een korte periode verblijf houden.   
-6.  Bij ministeriële regeling worden nadere regels gesteld omtrent de aftrek van belasting, ingeval goederen en diensten door de ondernemer mede worden gebruikt anders dan voor belaste handelingen of anders dan voor de handelingen, bedoeld in het tweede lid. Daarbij wordt tevens rekening gehouden met wijzigingen in het gebruik van onroerende zaken, bedoeld in het eerste lid, laatste alinea. Bij ministeriële regeling worden nadere regels gesteld omtrent de aftrek van belasting, ingeval een auto door de ondernemer mede wordt gebruikt voor eigen privé-doeleinden. Daarbij kan worden bepaald dat het afstoten van goederen welke de ondernemer in zijn bedrijf heeft gebruikt, buiten aanmerking wordt gelaten.   
+6.  Bij ministeriële regeling worden nadere regels gesteld omtrent de aftrek van belasting, ingeval goederen en diensten door de ondernemer mede worden gebruikt anders dan voor belaste handelingen of anders dan voor de handelingen, bedoeld in het tweede lid. Daarbij wordt tevens rekening gehouden met wijzigingen in het gebruik van onroerende zaken, bedoeld in het eerste lid, laatste alinea. Voorts kan daarbij worden bepaald dat het afstoten van goederen welke de ondernemer in zijn bedrijf heeft gebruikt, buiten aanmerking wordt gelaten.   
 7.  Een herziening van de aftrek vindt niet plaats: 
 
 a. in geval van naar behoren bewezen en aangetoonde vernietiging, verlies of diefstal van goederen;  
@@ -571,7 +575,7 @@ b. in geval van onttrekkingen van goederen voor het verstrekken van geschenken v
 
 ### Artikel  16a  
 
-Ter zake van prestaties als bedoeld in artikel 3, derde lid, onderdelen a en c, en artikel 4, tweede lid, wordt de belasting niet verschuldigd indien het gebruik betreft als bedoeld in de op artikel 15, zesde lid, derde volzin, gebaseerde ministeriële regeling of indien het prestaties betreft als bedoeld in het op artikel 16, eerste lid, gebaseerde koninklijk besluit.  
+Ter zake van prestaties als bedoeld in artikel 3, derde lid, onderdelen a en c, en artikel 4, tweede lid, wordt de belasting niet verschuldigd indien het prestaties betreft als bedoeld in het op artikel 16, eerste lid, gebaseerde koninklijk besluit.  
 
 ### Artikel  17  
 
@@ -596,6 +600,11 @@ Ingeval de voor aftrek in aanmerking komende belasting meer bedraagt dan de in h
 
 1.  De plaats waar een intracommunautaire verwerving wordt verricht, is de plaats van aankomst van de verzending of het vervoer.   
 2.  Onverminderd het bepaalde in het eerste lid wordt een intracommunautaire verwerving verricht in de lid-staat die aan de afnemer het btw-identificatienummer heeft toegekend waaronder de verwerving wordt verricht, voor zover de afnemer niet aantoont dat de belasting is geheven met toepassing van het eerste lid.   
+3.  Het tweede lid is niet van toepassing en de intracommunautaire verwerving van goederen wordt geacht overeenkomstig het eerste lid aan de heffing te zijn onderworpen indien: 
+
+a. de afnemer aantoont de verwerving te hebben verricht met het oog op een daaropvolgende levering binnen het grondgebied van de overeenkomstig het eerste lid bepaalde lidstaat, waarvoor degene voor wie deze levering bestemd is, overeenkomstig artikel 197 van BTW-richtlijn 2006 is aangewezen als de tot voldoening van de belasting gehouden persoon; en  
+
+b. de afnemer heeft voldaan aan het bepaalde in artikel 37a.     
 
 ### Afdeling  2  
 
@@ -1080,9 +1089,8 @@ b. wordt terugbetaald omdat een vermindering van de vergoeding is verleend of om
 ### Artikel  30  
 
 1.  Op verzoek wordt teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van goederen in de gevallen waarin de belasting is geheven met toepassing van artikel 17b, tweede lid, en door belanghebbende wordt aangetoond dat ter zake van dezelfde verwerving belasting is geheven in de lid-staat van aankomst van de verzending of het vervoer.   
-2.  Op verzoek wordt mede teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van goederen in de gevallen waarin de belasting is geheven met toepassing van artikel 17b, tweede lid, en door de ondernemer wordt aangetoond dat de goederen door hem in de lid-staat van aankomst van de verzending of het vervoer worden geleverd aan ondernemers of aan rechtspersonen, andere dan ondernemers, en de goederen rechtstreeks naar die afnemers worden verzonden of vervoerd. De teruggaaf wordt alleen verleend indien de ondernemer heeft voldaan aan het bepaalde in artikel 37a.   
-3.  Op verzoek wordt voorts naar evenredigheid teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van accijnsgoederen in de gevallen waarin na het tijdstip waarop die intracommunautaire verwerving van accijnsgoederen is verricht de in de lid-staat van vertrek van de verzending of het vervoer van die goederen voldane accijns door de afnemer is terugontvangen.   
-4.  Op verzoek wordt teruggaaf verleend van de belasting ter zake van invoer van goederen door een rechtspersoon, andere dan ondernemer, welke goederen zijn verzonden of vervoerd uit een derde-land met als bestemming een andere lid-staat, indien belanghebbende aantoont dat in die andere lid-staat ter zake van intracommunautaire verwerving van die goederen belasting is geheven.   
+2.  Op verzoek wordt naar evenredigheid teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van accijnsgoederen in de gevallen waarin na het tijdstip waarop die intracommunautaire verwerving van accijnsgoederen is verricht de in de lid-staat van vertrek van de verzending of het vervoer van die goederen voldane accijns door de afnemer is terugontvangen.   
+3.  Op verzoek wordt teruggaaf verleend van de belasting ter zake van invoer van goederen door een rechtspersoon, andere dan ondernemer, welke goederen zijn verzonden of vervoerd uit een derde-land met als bestemming een andere lid-staat, indien belanghebbende aantoont dat in die andere lid-staat ter zake van intracommunautaire verwerving van die goederen belasting is geheven.   
 
 ### Artikel  31  
 
@@ -1474,11 +1482,11 @@ Hij die op een factuur op enigerlei wijze melding maakt van omzetbelasting welke
 
 a. aan wie goederen zijn geleverd met toepassing van de bij deze wet behorende Tabel II, onderdeel a, post 6;  
 
-b. aan wie in een andere lidstaat goederen zijn geleverd in aansluiting op de in die lidstaat door de ondernemer verrichte intracommunautaire verwervingen waarvoor tevens belasting is geheven met toepassing van artikel 17b, tweede lid;  
+b. aan wie in een andere lidstaat goederen zijn geleverd in aansluiting op de ingevolge artikel 17b, derde lid, in die lidstaat door de ondernemer verrichte intracommunautaire verwervingen;  
 
 c. voor wie hij diensten heeft verricht die met toepassing van artikel 6, eerste lid, niet belastbaar zijn in Nederland en waarover de belasting ingevolge artikel 196 van BTW-richtlijn 2006 in de lidstaat van de afnemer wordt geheven van de afnemer, tenzij het verrichten van die dienst in die lidstaat is vrijgesteld.     
 2.  In de lijst wordt opgave verlangd van de gegevens, bedoeld in de artikelen 264 en 265 van de BTW-richtlijn 2006.   
-3.  In afwijking in zoverre van het eerste lid geldt als tijdvak in plaats van een kalendermaand naar keus van de ondernemer een kalenderkwartaal indien het totaalbedrag van de in het eerste lid, onderdelen a en b genoemde leveringen noch voor het desbetreffende kalenderkwartaal, noch in één van de vier daaraan voorafgaande kalenderkwartalen, hoger is dan € 100 000. Deze afwijking geldt niet meer vanaf het einde van de maand waarin dit bedrag wordt overschreden, in welk geval uiterlijk de volgende maand een lijst moet worden opgesteld en ingediend voor alle maanden die sinds de aanvang van dat kwartaal zijn verlopen.   
+3.  In afwijking in zoverre van het eerste lid geldt als tijdvak in plaats van een kalendermaand naar keus van de ondernemer een kalenderkwartaal indien het totaalbedrag van de in het eerste lid, onderdelen a en b genoemde leveringen noch voor het desbetreffende kalenderkwartaal, noch in één van de vier daaraan voorafgaande kalenderkwartalen, hoger is dan het daartoe bij ministeriële regeling vastgestelde bedrag. Deze afwijking geldt niet meer vanaf het einde van de maand waarin dit bedrag wordt overschreden, in welk geval uiterlijk de volgende maand een lijst moet worden opgesteld en ingediend voor alle maanden die sinds de aanvang van dat kwartaal zijn verlopen.   
 4.  In afwijking in zoverre van het eerste lid geldt naar keus van de ondernemer als tijdvak een kalenderkwartaal indien de ondernemer de onder het eerste lid onderdeel c genoemde diensten verricht.   
 5.  Indien voor het doen van aangifte voor de omzetbelasting ontheffing is verleend van de verplichting aangifte langs elektronische weg te doen, geldt deze ontheffing mede ten aanzien van de verplichting de lijst langs elektronische weg in te dienen. In dit geval wordt de lijst ingediend bij de inspecteur door middel van het uitgereikte of toegezonden formulier.   
 6.  Bij ministeriële regeling kunnen nadere regels worden gesteld inzake het indienen van de in dit artikel bedoelde gegevens.   

@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. college: het in artikel 2 bedoelde college.    
 
@@ -71,7 +71,7 @@ De inkomsten van het college bestaan uit:
 
 a. opbrengsten uit door belanghebbenden verschuldigde vergoedingen;  
 
-b. een vergoeding door Onze Minister ten laste van de begroting van het Ministerie van Economische Zaken;  
+b. een vergoeding door Onze Minister ten laste van de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
 
 c. andere baten.    
 
