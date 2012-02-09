@@ -267,8 +267,9 @@ b. indien deze derde een rechtspersoon betreft die in dezelfde groep is verbonde
 
 c. indien passende en specifieke waarborgen zijn getroffen en de procedure is gevolgd, bedoeld in artikel 31.     
 5.  Het verbod om andere persoonsgegevens als bedoeld in artikel 16, te verwerken, is niet van toepassing voor zover dit noodzakelijk is in aanvulling op de verwerking van strafrechtelijke gegevens voor de doeleinden waarvoor deze gegevens worden verwerkt.   
-6.  Het tweede tot en met vijfde lid is van overeenkomstige toepassing op persoonsgegevens betreffende een door de rechter opgelegd verbod naar aanleiding van onrechtmatig of hinderlijk gedrag.   
-7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de passende en specifieke waarborgen, bedoeld in het vierde lid, onder c.   
+6.  Het verbod is niet van toepassing op verwerkingen van strafrechtelijke gegevens door en ten behoeve van publiekrechtelijke samenwerkingsverbanden van verantwoordelijken of groepen van verantwoordelijken indien de verwerking noodzakelijk is voor de uitvoering van de taak van deze verantwoordelijken of groepen van verantwoordelijken en bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.   
+7.  Het tweede tot en met zesde lid is van overeenkomstige toepassing op persoonsgegevens betreffende een door de rechter opgelegd verbod naar aanleiding van onrechtmatig of hinderlijk gedrag.   
+8.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de passende en specifieke waarborgen, bedoeld in het vierde lid, onder c.   
 
 ### Artikel  23  
 
@@ -280,9 +281,13 @@ b. de gegevens door de betrokkene duidelijk openbaar zijn gemaakt;
 
 c. dit noodzakelijk is voor de vaststelling, de uitoefening of de verdediging van een recht in rechte;  
 
-d. dit noodzakelijk is ter voldoening aan een volkenrechtelijke verplichting of  
+d. dit noodzakelijk is ter verdediging van de vitale belangen van de betrokkene of van een derde en het vragen van diens uitdrukkelijke toestemming onmogelijk blijkt;  
 
-e. dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, passende waarborgen worden geboden ter bescherming van de persoonlijke levenssfeer en dit bij wet wordt bepaald dan wel het College ontheffing heeft verleend. Het College kan bij de verlening van ontheffing beperkingen en voorschriften opleggen.     
+e. dit noodzakelijk is ter voldoening aan een volkenrechtelijke verplichting of  
+
+f. dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, passende waarborgen worden geboden ter bescherming van de persoonlijke levenssfeer en dit bij wet wordt bepaald dan wel het College ontheffing heeft verleend. Het College kan bij de verlening van ontheffing beperkingen en voorschriften opleggen;  
+
+g. de gegevens worden verwerkt door het College of een ombudsman als bedoeld in [artikel 9:17 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, voor de uitvoering van de hun wettelijk opgedragen taken en bij die uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.     
 2.  Het verbod om persoonsgegevens als bedoeld in artikel 16, te verwerken ten behoeve van wetenschappelijk onderzoek of statistiek is niet van toepassing voor zover: 
 
 a. het onderzoek een algemeen belang dient,  
@@ -327,8 +332,9 @@ d. bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke leve
 
 ### Artikel  27  
 
-1.  Een geheel of gedeeltelijk geautomatiseerde verwerking van persoonsgegevens die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is, wordt alvorens met de verwerking wordt aangevangen gemeld bij het College of de functionaris.   
-2.  Een niet geautomatiseerde verwerking van persoonsgegevens die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is, wordt gemeld indien deze is onderworpen aan voorafgaand onderzoek.   
+1.  Een geheel of gedeeltelijk geautomatiseerde verwerking van persoonsgegevens, die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is, wordt gemeld.   
+2.  Een niet geautomatiseerde verwerking van persoonsgegevens, die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is, wordt gemeld indien deze is onderworpen aan een voorafgaand onderzoek.   
+3.  De verantwoordelijke meldt de verwerking alvorens daarmee te beginnen bij het College of bij de functionaris.   
 
 ### Artikel  28  
 
@@ -388,12 +394,13 @@ b. openbare registers die bij de wet zijn ingesteld.
 
 a. een nummer ter identificatie van personen voornemens is te verwerken voor een ander doeleinde dan waarvoor het nummer specifiek bestemd is teneinde gegevens in verband te kunnen brengen met gegevens die worden verwerkt door een andere verantwoordelijke, tenzij het gebruik van het nummer geschiedt voor de gevallen als omschreven in artikel 24;  
 
-b. voornemens is gegevens vast te leggen op grond van eigen waarneming zonder de betrokkene daarvan op de hoogte te stellen, of  
+b. voornemens is gegevens vast te leggen op grond van het gericht verzamelen van informatie door middel van eigen onderzoek zonder de betrokkene daarvan op de hoogte te stellen, of  
 
-c. anders dan krachtens een vergunning op grond van de [Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md) voornemens is strafrechtelijke gegevens of gegevens over onrechtmatig of hinderlijk gedrag te verwerken ten behoeve van derden.     
+c. voornemens is ten behoeve van derden strafrechtelijke gegevens of gegevens over onrechtmatig of hinderlijk gedrag te verwerken, anders dan in de gevallen genoemd in artikel 22, vierde lid, onderdelen a en b.     
 2.  Het eerste lid, onder b, is niet van toepassing op openbare registers die bij de wet zijn ingesteld.   
-3.  Bij wet of algemene maatregel van bestuur kunnen andere gegevensverwerkingen die een bijzonder risico inhouden voor de persoonlijke rechten en vrijheden van de betrokkene worden aangewezen waarop het eerste lid van toepassing is. Het College geeft in zijn jaarverslag aan in hoeverre naar zijn oordeel een dergelijke aanwijzing wenselijk is.   
-4.  Het College meldt een verwerking als bedoeld in het eerste lid, onder c, bij de Europese Commissie.   
+3.  Het eerste lid, onderdeel c, is niet van toepassing op gegevensverwerkingen die reeds door een andere verantwoordelijke voor voorafgaand onderzoek zijn voorgelegd en ten aanzien waarvan het College een verklaring als bedoeld in artikel 32, vijfde lid, heeft afgegeven.   
+4.  Bij wet of algemene maatregel van bestuur kunnen andere gegevensverwerkingen die een bijzonder risico inhouden voor de persoonlijke rechten en vrijheden van de betrokkene worden aangewezen waarop het eerste lid van toepassing is. Het College geeft in zijn jaarverslag aan in hoeverre naar zijn oordeel een dergelijke aanwijzing wenselijk is.   
+5.  Het College meldt een verwerking als bedoeld in het eerste lid, onder c, bij de Europese Commissie.   
 
 ### Artikel  32  
 
@@ -458,7 +465,7 @@ b. wanneer de gegevens bestemd zijn om te worden verstrekt aan een derde, uiterl
 
 ### Artikel  39  
 
-1.  De verantwoordelijke kan voor een bericht als bedoeld in artikel 35 een bij of krachtens algemene maatregel van bestuur vast te stellen vergoeding van kosten verlangen die ten hoogste € 5 bedraagt.   
+1.  De verantwoordelijke kan voor een mededeling als bedoeld in artikel 35 een bij of krachtens algemene maatregel van bestuur vast te stellen vergoeding van kosten verlangen die ten hoogste € 5 bedraagt.   
 2.  De vergoeding wordt teruggegeven in geval de verantwoordelijke op verzoek van de betrokkene, op aanbeveling van het College of op bevel van de rechter tot verbetering, aanvulling, verwijdering of afscherming is overgegaan.   
 3.  Het bedrag genoemd in het eerste lid kan in bijzondere gevallen bij algemene maatregel van bestuur worden gewijzigd.   
 
@@ -472,8 +479,8 @@ b. wanneer de gegevens bestemd zijn om te worden verstrekt aan een derde, uiterl
 ### Artikel  41  
 
 1.  Indien gegevens worden verwerkt in verband met de totstandbrenging of de instandhouding van een directe relatie tussen de verantwoordelijke of een derde en de betrokkene met het oog op werving voor commerciële of charitatieve doelen, kan de betrokkene daartegen bij de verantwoordelijke te allen tijde kosteloos verzet aantekenen.   
-2.  In geval van verzet treft de verantwoordelijke de maatregelen om deze vorm van verwerking terstond te beëindigen.   
-3.  De verantwoordelijke die voornemens is persoonsgegevens aan derden te verstrekken of voor rekening van derden te gebruiken voor het in het eerste lid bedoelde doel, neemt passende maatregelen om de betrokkenen de mogelijkheden bekend te maken tot het doen van verzet. De bekendmaking vindt plaats via een of meer dag-, nieuws-, of huis-aan-huisbladen of op een andere geschikte wijze. Bij regelmatige verstrekking aan derden of gebruik voor rekening van derden vindt de bekendmaking ten minste eens per jaar plaats.   
+2.  In geval van verzet treft de verantwoordelijke de maatregelen om deze vorm van verwerking terstond te beëindigen. De verantwoordelijke doet aan de betrokkene desgevraagd binnen vier weken opgave van de genomen maatregelen. Indien de kennisgeving niet binnen vier weken kan worden gedaan, deelt de verantwoordelijke uiterlijk vier weken na de datum van ontvangst van het verzoek mede binnen welke termijn de kennisgeving wel kan worden gedaan.   
+3.  De verantwoordelijke die persoonsgegevens verwerkt voor het in het eerste lid bedoelde doel, neemt passende maatregelen om betrokkenen de mogelijkheden bekend te maken tot het doen van verzet.   
 4.  De verantwoordelijke die persoonsgegevens verwerkt voor het in het eerste lid bedoelde doel, draagt zorg dat, indien daartoe rechtstreeks een boodschap aan de betrokkene wordt toegezonden, deze daarbij telkens wordt gewezen op de mogelijkheid tot het doen van verzet.   
 
 ### Artikel  42  
@@ -641,7 +648,6 @@ Een verantwoordelijke of een organisatie waarbij verantwoordelijken zijn aangesl
 2.  De functionaris kan wat betreft de uitoefening van zijn functie geen aanwijzingen ontvangen van de verantwoordelijke of van de organisatie die hem heeft benoemd. Hij ondervindt geen nadeel van de uitoefening van zijn taak. De verantwoordelijke stelt de functionaris in de gelegenheid zijn taak naar behoren te vervullen. De functionaris kan de kantonrechter verzoeken te bepalen dat de verantwoordelijke gevolg dient te geven aan hetgeen in de tweede volzin is bepaald.   
 3.  De functionaris oefent zijn taken eerst uit nadat de verantwoordelijke of de organisatie die hem heeft benoemd, hem heeft aangemeld bij het College. Het College houdt een lijst bij van aangemelde functionarissen.   
 4.  De functionaris is verplicht tot geheimhouding van hetgeen hem op grond van een klacht of een verzoek van betrokkene is bekend geworden, tenzij de betrokkene in bekendmaking toestemt.   
-5.  De functionaris stelt jaarlijks een verslag op van zijn werkzaamheden en bevindingen.   
 
 ### Artikel  64  
 
@@ -684,8 +690,8 @@ Onze Minister kan beleidsregels vaststellen over de uitoefening van de bevoegdhe
 
 ### Artikel  75  
 
-1.  De verantwoordelijke die in strijd handelt met hetgeen bij of krachtens artikel 4, derde lid, 27, 28 of  78, tweede lid, onder a, is bepaald, wordt gestraft met geldboete van de tweede categorie.   
-2.  De verantwoordelijke die een feit als bedoeld in het eerste lid, opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.   
+1.  De verantwoordelijke die in strijd handelt met hetgeen bij of krachtens artikel 4, derde lid, 27, 28, 78, tweede lid, onder a, of 79, eerste lid, is bepaald, wordt gestraft met geldboete van de derde categorie.   
+2.  De verantwoordelijke die een feit als bedoeld in het eerste lid, opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.   
 3.  De in het eerste lid strafbaar gestelde feiten zijn overtredingen. De in het tweede lid strafbaar gestelde feiten zijn misdrijven.   
 4.  Met de opsporing van de in dit artikel omschreven feiten zijn behalve de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren belast de door Onze Minister daartoe aangewezen ambtenaren van het secretariaat van het College.   
 
@@ -696,7 +702,8 @@ Onze Minister kan beleidsregels vaststellen over de uitoefening van de bevoegdhe
 ### Artikel  76  
 
 1.  Persoonsgegevens die aan een verwerking worden onderworpen of die bestemd zijn om na hun doorgifte te worden verwerkt, worden slechts naar een land buiten de Europese Unie doorgegeven indien, onverminderd de naleving van de wet, dat land een passend beschermingsniveau waarborgt.   
-2.  Het passend karakter van het beschermingsniveau wordt beoordeeld gelet op de omstandigheden die op de doorgifte van gegevens of op een categorie gegevensdoorgiften van invloed zijn. In het bijzonder wordt rekening gehouden met de aard van de gegevens, met het doeleinde of de doeleinden en met de duur van de voorgenomen verwerking of verwerkingen, het land van herkomst en het land van eindbestemming, de algemene en sectoriële rechtsregels die in het betrokken derde land gelden, alsmede de regels van het beroepsleven en de veiligheidsmaatregelen die in die landen worden nageleefd.   
+2.  In afwijking van het eerste lid kunnen persoonsgegevens die aan een verwerking worden onderworpen of die zijn bestemd om na hun doorgifte te worden verwerkt naar een land buiten de Europese Unie worden doorgegeven, indien dat land partij is bij de op 2 mei 1992 te Oporto totstandgekomen Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132), tenzij uit een besluit van de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie voortvloeit dat deze doorgifte is beperkt of verboden.   
+3.  Het passend karakter van het beschermingsniveau wordt beoordeeld gelet op de omstandigheden die op de doorgifte van gegevens of op een categorie gegevensdoorgiften van invloed zijn. In het bijzonder wordt rekening gehouden met de aard van de gegevens, met het doeleinde of de doeleinden en met de duur van de voorgenomen verwerking of verwerkingen, het land van herkomst en het land van eindbestemming, de algemene en sectoriële rechtsregels die in het betrokken derde land gelden, alsmede de regels van het beroepsleven en de veiligheidsmaatregelen die in die landen worden nageleefd.   
 
 ### Artikel  77  
 
@@ -712,7 +719,9 @@ d. de doorgifte noodzakelijk is vanwege een zwaarwegend algemeen belang, of voor
 
 e. de doorgifte noodzakelijk is ter vrijwaring van een vitaal belang van de betrokkene, of  
 
-f. de doorgifte geschiedt vanuit een register dat bij wettelijk voorschrift is ingesteld en dat door een ieder dan wel door iedere persoon die zich op een gerechtvaardigd belang kan beroepen, kan worden geraadpleegd, voor zover in het betrokken geval is voldaan aan de wettelijke voorwaarden voor raadpleging.     
+f. de doorgifte geschiedt vanuit een register dat bij wettelijk voorschrift is ingesteld en dat door een ieder dan wel door iedere persoon die zich op een gerechtvaardigd belang kan beroepen, kan worden geraadpleegd, voor zover in het betrokken geval is voldaan aan de wettelijke voorwaarden voor raadpleging;  
+
+g. gebruik wordt gemaakt van een modelcontract als bedoeld in artikel 26, vierde lid, van richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281).     
 2.  In afwijking van het eerste lid, kan Onze Minister, gehoord het College, een vergunning geven voor een doorgifte of een categorie doorgiften van persoonsgegevens naar een derde land dat geen waarborgen voor een passend beschermingsniveau biedt. Aan de vergunning worden de nadere voorschriften verbonden die nodig zijn om de bescherming van de persoonlijke levenssfeer en de fundamentele rechten en vrijheden van personen, alsmede de uitoefening van de daarmee verband houdende rechten te waarborgen.   
 
 ### Artikel  78  
@@ -722,14 +731,19 @@ f. de doorgifte geschiedt vanuit een register dat bij wettelijk voorschrift is i
 a. de gevallen waarin, naar zijn oordeel, een derde land geen waarborgen voor een passend beschermingsniveau biedt in de zin van artikel 76, eerste lid, en  
 
 b. van een vergunning als bedoeld in artikel 77, tweede lid.     
-2.  Indien zulks voortvloeit uit een besluit van de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie, bepaalt Onze Minister bij ministeriële regeling of bij beschikking dat: 
+2.  Indien zulks voortvloeit uit een besluit van de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie, bepaalt Onze Minister van Justitie bij ministeriële regeling of bij besluit dat: 
 
-a. de doorgifte naar een land buiten de Europese Unie is verboden;  
+a. de doorgifte naar een land buiten de Europese Unie is verboden, of,  
 
-b. een land buiten de unie geacht wordt een passend beschermingsniveau te waarborgen, of  
+b. een op grond van artikel 77, tweede lid, verleende vergunning wordt ingetrokken of gewijzigd.     
+3.  Aan een derde land, waarvan de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie heeft vastgesteld dat het waarborgen voor een passend beschermingsniveau biedt kunnen, onverminderd het overigens bij of krachtens deze wet bepaalde, persoonsgegevens worden doorgegeven.   
+4.  In afwijking van het derde lid kan de doorgifte van persoonsgegevens naar een derde land waarvan de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie heeft vastgesteld dat het waarborgen voor een passend beschermingsniveau biedt, door Onze Minister van Justitie bij ministeriële regeling of bij besluit, gehoord het College, worden opgeschort, teneinde personen bij de verwerking van persoonsgegevens te beschermen in de gevallen waarin: 
 
-c. een op grond van artikel 77, tweede lid, verleende vergunning wordt ingetrokken of gewijzigd.     
-3.  De in het eerste lid, onder a en b, bedoelde kennisgevingen worden gepubliceerd in de Staatscourant.   
+a. een bevoegde autoriteit in het derde land tot de conclusie is gekomen dat de desbetreffende ontvanger in strijd met de toepasselijke normen voor gegevensbescherming handelt;  
+
+b. het zeer waarschijnlijk is dat niet aan de normen voor gegevensbescherming wordt voldaan, er gegronde redenen zijn om aan te nemen dat de bevoegde autoriteit in het derde land niet tijdig passende maatregelen neemt of zal nemen om het desbetreffende probleem op te lossen, de voortzetting van de doorgifte een dreigend gevaar voor ernstige schade aan de betrokkene inhoudt en het College voldoende inspanningen heeft geleverd om de in het derde land gevestigde verantwoordelijke in kennis te stellen van zijn bevindingen en hem gelegenheid heeft geboden op die bevindingen te reageren.     
+5.  De ministeriële regeling, onderscheidenlijk het besluit, bedoeld in het vierde lid, blijft van kracht tot vaststaat dat de normen voor gegevensverwerking worden nageleefd en het College daarvan in kennis is gesteld door de desbetreffende bevoegde autoriteit, in een geval als bedoeld in het vierde lid, onder a, dan wel het College dit heeft vastgesteld in een geval als bedoeld in het vierde lid, onder b. Het College brengt zijn bevindingen ter kennis van Onze Minister van Justitie.   
+6.  De in het eerste lid, onder a en b, bedoelde kennisgevingen worden gepubliceerd in de Staatscourant.   
 
 ### Hoofdstuk  12  
 
