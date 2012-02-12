@@ -3,7 +3,7 @@
 ##Verordening algemene bepalingen PVV 2003
 
 Het bestuur van het Productschap Vee en Vlees heeft,  
-gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [102 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), de artikelen 2, 10 en 14 van de lnstellingsverordening Productschap Vee en Vlees 1999-I,
+gelet op de artikelen 93, 95 en 102 van de Wet op de Bedrijfsorganisatie, de artikelen 2, 10 en 14 van de lnstellingsverordening Productschap Vee en Vlees 1999-I,
 op 11 juni 2003 vastgesteld de navolgende VERORDENING    
 
 ### Artikel  1  
@@ -11,7 +11,7 @@ op 11 juni 2003 vastgesteld de navolgende VERORDENING
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1.  | productschap  | :  | het Productschap Vee en Vlees;  |
 | 2.  | voorzitter  | :  | de voorzitter van het productschap.  |
 | 3.  | secretaris  | :  | de secretaris van het productschap.  |
@@ -42,14 +42,7 @@ b. niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop 
 
 ### Artikel  3  
 
-1.  Op overtreding van het bepaalde bij of krachtens deze verordening zijn tuchtrechtelijke maatregelen gesteld.   
-2.  De tuchtrechtelijke maatregelen zijn: 
-
-a. een berisping welke bestaat uit een schriftelijk of mondeling vermaan tot de ondernemer, in verband met het begane feit;  
-
-b. een geldboete van ten hoogste € 4.500,--, welke geheel of gedeeltelijk voorwaardelijk kan worden opgelegd;  
-
-c. openbaarmaking van de tuchtbeschikking op kosten van de veroordeelde.     
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ### Artikel  4  
 
