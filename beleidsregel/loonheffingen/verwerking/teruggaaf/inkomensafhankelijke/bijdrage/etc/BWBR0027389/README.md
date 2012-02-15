@@ -25,7 +25,7 @@ De werkgever houdt de inkomensafhankelijke bijdrage Zorgverzekeringswet (hierna:
 | Ufo-premie  | premie Uitvoeringsfonds voor de overheid  |
 | werkgever  | inhoudingsplichtige voor de loonheffingen  |
 | WW-Awf  | Werkloosheidswet-Algemeen werkloosheidsfonds  |
-| Zvw  |  [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)   |
+| Zvw  | [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  |
 
 ### 2  
 
@@ -62,5 +62,5 @@ Den Haag
 8 maart 2010   
 
 De 
-Minister van Financiën
-J.C. deJager   
+Minister van Financiën 
+J.C. de Jager     

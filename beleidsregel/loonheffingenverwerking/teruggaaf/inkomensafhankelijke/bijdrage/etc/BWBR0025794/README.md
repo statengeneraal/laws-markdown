@@ -22,7 +22,7 @@ De werkgever houdt de inkomensafhankelijke bijdrage Zorgverzekeringswet (hierna:
 
 *WW-Awf:* Werkloosheidswet – Algemeen werkloosheidsfonds  
 
-*Zvw:* [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)        
+*Zvw:* [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)       
 ### 2  
 
 ####Teruggaafsituaties
@@ -66,7 +66,7 @@ Deze teruggaafsituaties vergen nogal wat handelingen in de loonadministratie. De
 
 ####Toelichting
 
-In deze goedkeuringen geldt de grens van € 13 per bericht van de Belastingdienst aan de werkgever. Hierom zijn de goedkeuringen bijvoorbeeld ook toepasbaar op aanvullende teruggaven tot en met € 13. Deze goedkeuringen laten uiteraard onverlet dat werkgevers ervoor kunnen kiezen om de wettelijke regeling toe te passen, zoals weergegeven onder 2.     
+In deze goedkeuringen geldt de grens van € 13 per bericht van de Belastingdienst aan de werkgever. Hierom zijn de goedkeuringen bijvoorbeeld ook toepasbaar op aanvullende teruggaven tot en met € 13.  Deze goedkeuringen laten uiteraard onverlet dat werkgevers ervoor kunnen kiezen om de wettelijke regeling toe te passen, zoals weergegeven onder 2.     
 ### 4  
 
 ####Naheffingen
@@ -82,5 +82,5 @@ Den Haag
 21 april 2009   
 
 De 
-staatssecetaris van Financiën,
-J.C. deJager   
+staatssecetaris van Financiën, 
+J.C. de Jager     

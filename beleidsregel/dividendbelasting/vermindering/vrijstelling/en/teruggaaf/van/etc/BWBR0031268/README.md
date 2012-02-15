@@ -64,7 +64,7 @@ Ik keur goed dat de directeur van de Belastingdienst/Limburg de onder paragraaf 
 
 ####Inleiding
 
-Verzoeken om vermindering van Nederlandse dividendbelasting, die is ingehouden op dividenden op aandelen (dan wel de opbrengst van hybride leningen/winstdelende obligaties) in Nederlandse vennootschappen, kunnen collectief worden gedaan door buitenlandse fiscaal transparante lichamennamens de achterliggende participanten (deelgerechtigden). In dit onderdeel wordt aangegeven in welke gevallen en onder welke voorwaarden wordt tegemoetgekomen aan een collectief verzoek om teruggaaf van Nederlandse dividendbelasting dat is gedaan door een buitenlands fiscaal transparant lichaam. <sup> 1  Besluit van 19 maart 1997, nr. IFZ97/204M.  </sup>    
+Verzoeken om vermindering van Nederlandse dividendbelasting, die is ingehouden op dividenden op aandelen (dan wel de opbrengst van hybride leningen/winstdelende obligaties) in Nederlandse vennootschappen, kunnen collectief worden gedaan door buitenlandse fiscaal transparante lichamennamens de achterliggende participanten (deelgerechtigden).<sup> 1  Besluit van 19 maart 1997, nr. IFZ97/204M. </sup> In dit onderdeel wordt aangegeven in welke gevallen en onder welke voorwaarden wordt tegemoetgekomen aan een collectief verzoek om teruggaaf van Nederlandse dividendbelasting dat is gedaan door een buitenlands fiscaal transparant lichaam.    
 ### 4.2  
 
 ####Goedkeuring
@@ -144,4 +144,4 @@ Den Haag
 
 De 
 staatssecretaris van Financiën, 
-F.F.H.Weekers   
+F.F.H. Weekers     

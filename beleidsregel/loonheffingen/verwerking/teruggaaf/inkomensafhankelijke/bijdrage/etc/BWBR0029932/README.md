@@ -7,7 +7,7 @@ De staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit
 
 ####Inleiding
 
-De werkgever houdt de inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) (hierna: bijdrage Zvw) in op het loon van de werknemer en draagt deze bijdrage met de overige loonheffingen af. Voor de bijdrage Zvw en de premies werknemersverzekeringen gelden maximumbedragen. Als een werknemer meer dan een dienstbetrekking heeft, kan het voorkomen dat in totaal meer dan die maximumbedragen wordt afgedragen. De Belastingdienst betaalt teveel betaalde bedragen dan terug na afloop van het kalenderjaar (zie de paragrafen 5.14 en 6.3 van het Handboek loonheffingen 2011). De teruggaaf van de bijdrage Zvw vergt nogal wat handelingen in de loonadministratie. De teruggaaf kan zo laag zijn dat de administratieve last van de werkgever niet in verhouding staat tot het voordeel van de werknemer. Om aan die administratieve last tegemoet te komen is laatstelijk voor de teruggaaf 2009 een eenvoudige regeling getroffen, neergelegd in het [besluit van 8 maart 2010](../../../../../../../../beleidsregel/loonheffingen/verwerking/teruggaaf/inkomensafhankelijke/bijdrage/etc/BWBR0027389/README.md), nr. DGB2010/566M, Stcrt. nr. 3991. In dit beleidsbesluit geef ik een gelijke regeling voor de teruggaaf van de bijdrage Zvw over 2010, 2011 en 2012. De verwachting is dat voor latere jaren deze eenvoudige regeling niet meer nodig is. Met de inwerkingtreding van het wetsvoorstel Wet uniformering loonbegrip (Kamerstukken II, 2009/10, 32 131) wijzigt namelijk de systematiek van de bijdrageheffing Zvw. Teruggaaf van de bijdrage Zvw aan de werkgever komt dan niet meer voor. Voor de jaren 2010, 2011 en 2012 ziet de verwerking van de teruggaaf in de loonadministratie alleen nog op de teruggaaf van de bijdrage Zvw. Er is vanaf 2009 niet langer sprake van teruggaaf van premies werknemersverzekeringen aan de werknemer, omdat werknemers die niet meer betalen. Over 2010, 2011 en 2012 vindt nog wel teruggaaf plaats van premies werknemersverzekeringen aan de werkgever die van hem geheven zijn. Met de inwerkingtreding van het wetsvoorstel Wet uniformering loonbegrip is er in het geheel geen teruggaaf meer nodig van premies werknemersverzekeringen.   
+De werkgever houdt de inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) (hierna: bijdrage Zvw) in op het loon van de werknemer en draagt deze bijdrage met de overige loonheffingen af. Voor de bijdrage Zvw en de premies werknemersverzekeringen gelden maximumbedragen. Als een werknemer meer dan een dienstbetrekking heeft, kan het voorkomen dat in totaal meer dan die maximumbedragen wordt afgedragen. De Belastingdienst betaalt teveel betaalde bedragen dan terug na afloop van het kalenderjaar (zie de paragrafen 5.14 en 6.3 van het Handboek loonheffingen 2011). De teruggaaf van de bijdrage Zvw vergt nogal wat handelingen in de loonadministratie. De teruggaaf kan zo laag zijn dat de administratieve last van de werkgever niet in verhouding staat tot het voordeel van de werknemer. Om aan die administratieve last tegemoet te komen is laatstelijk voor de teruggaaf 2009 een eenvoudige regeling getroffen, neergelegd in het [besluit van 8 maart 2010](../../../../../../../../beleidsregel/loonheffingen/verwerking/teruggaaf/inkomensafhankelijke/bijdrage/etc/BWBR0027389/README.md), nr. DGB2010/566M, Stcrt. nr. 3991. In dit beleidsbesluit geef ik een gelijke regeling voor de teruggaaf van de bijdrage Zvw over 2010, 2011 en 2012. De verwachting is dat voor latere jaren deze eenvoudige regeling niet meer nodig is. Met de inwerkingtreding van het wetsvoorstel [Wet uniformering loonbegrip](../../../../../../../../wet/wet/uniformering/loonbegrip/BWBR0030105/README.md) (Kamerstukken II, 2009/10, 32 131) wijzigt namelijk de systematiek van de bijdrageheffing Zvw. Teruggaaf van de bijdrage Zvw aan de werkgever komt dan niet meer voor. Voor de jaren 2010, 2011 en 2012 ziet de verwerking van de teruggaaf in de loonadministratie alleen nog op de teruggaaf van de bijdrage Zvw. Er is vanaf 2009 niet langer sprake van teruggaaf van premies werknemersverzekeringen aan de werknemer, omdat werknemers die niet meer betalen. Over 2010, 2011 en 2012 vindt nog wel teruggaaf plaats van premies werknemersverzekeringen aan de werkgever die van hem geheven zijn. Met de inwerkingtreding van het wetsvoorstel [Wet uniformering loonbegrip](../../../../../../../../wet/wet/uniformering/loonbegrip/BWBR0030105/README.md) is er in het geheel geen teruggaaf meer nodig van premies werknemersverzekeringen.   
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
@@ -17,7 +17,7 @@ De werkgever houdt de inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../
 | loonheffing  | loonbelasting/premie volksverzekeringen  |
 | loonheffingen  | loonheffing, premies werknemersverzekeringen en de inkomensafhankelijke bijdrage Zorgverzekeringswet  |
 | werkgever  | inhoudingsplichtige voor de loonheffingen  |
-| Zvw  |  [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)   |
+| Zvw  | [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  |
 
 ### 2  
 
@@ -33,7 +33,7 @@ Een teruggaaf van de bijdrage Zvw betekent dat de werkgever achteraf gezien een 
 
 ####Doelmatigheidsgrens
 
-Teruggaafsituaties vergen nogal wat handelingen in de loonadministratie. Daarom heb ik in de voorgaande jaren een eenvoudige regeling getroffen en een doelmatigheidsgrens aangegeven. Tevens is onderzoek gedaan naar een minder complexe bijdrageheffing Zvw. De uitkomst hiervan is neergelegd in het eerdergenoemde wetsvoorstel Wet uniformering loonbegrip. Met deze wet komt teruggaaf van de bijdrage Zvw aan de werkgever niet meer voor. In afwachting van de inwerkingtreding van deze wet, continueer ik met dit besluit de eenvoudige regeling voor de teruggaaf van de bijdrage Zvw 2010, 2011 en 2012.     
+Teruggaafsituaties vergen nogal wat handelingen in de loonadministratie. Daarom heb ik in de voorgaande jaren een eenvoudige regeling getroffen en een doelmatigheidsgrens aangegeven. Tevens is onderzoek gedaan naar een minder complexe bijdrageheffing Zvw. De uitkomst hiervan is neergelegd in het eerdergenoemde wetsvoorstel [Wet uniformering loonbegrip](../../../../../../../../wet/wet/uniformering/loonbegrip/BWBR0030105/README.md). Met deze wet komt teruggaaf van de bijdrage Zvw aan de werkgever niet meer voor. In afwachting van de inwerkingtreding van deze wet, continueer ik met dit besluit de eenvoudige regeling voor de teruggaaf van de bijdrage Zvw 2010, 2011 en 2012.     
 ### 3  
 
 ####Goedkeuringen teruggaaf bijdrage Zvw 2010, 2011 en 2012
@@ -59,5 +59,5 @@ Den Haag
 22 april 2011   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     
