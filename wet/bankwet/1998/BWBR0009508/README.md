@@ -20,13 +20,13 @@ a. de Bank: De Nederlandsche Bank N.V.;
 
 b. Onze Minister: Onze Minister van Financiën;  
 
-c. het Verdrag: het Verdrag tot oprichting van de Europese Gemeenschap;  
+c. het Verdrag: het Verdrag betreffende de werking van de Europese Unie;  
 
-d. de Europese Centrale Bank: de Europese Centrale Bank, bedoeld in artikel 4A van het Verdrag;  
+d. de Europese Centrale Bank: de Europese Centrale Bank, bedoeld in artikel 13 van het Verdrag betreffende de Europese Unie;  
 
-e. het Europees Stelsel van Centrale Banken: het Europees Stelsel van Centrale Banken, bedoeld in artikel 4A van het Verdrag;  
+e. het Europees Stelsel van Centrale Banken: het Europees Stelsel van Centrale Banken, bedoeld in artikel 282, eerste lid, van het Verdrag;  
 
-f. de Statuten van het Europees Stelsel van Centrale Banken: de Statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank, bedoeld in artikel 4A van het Verdrag.     
+f. de statuten van het Europees Stelsel van Centrale Banken: de statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank, bedoeld in artikel 129, tweede lid, van het Verdrag.     
 2.  De Bank vormt een integrerend onderdeel van het Europees Stelsel van Centrale Banken met betrekking tot de taken en plichten die het Verdrag aan dat Stelsel opdraagt.   
 
 ### Hoofdstuk  II  
@@ -40,8 +40,8 @@ f. de Statuten van het Europees Stelsel van Centrale Banken: de Statuten van het
 ### Artikel  2  
 
 1.  Ter uitvoering van het Verdrag heeft de Bank als doelstelling het handhaven van prijsstabiliteit.   
-2.  Ter uitvoering van het Verdrag ondersteunt de Bank, onverminderd het doel van prijsstabiliteit, het algemene economische beleid in de Europese Gemeenschap teneinde bij te dragen tot de verwezenlijking van de in artikel 2 van het Verdrag omschreven doelstellingen van de Gemeenschap.   
-3.  De Bank handelt in overeenstemming met het beginsel van een open markteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en met inachtneming van de beginselen die zijn neergelegd in artikel 3 A van het Verdrag.   
+2.  Ter uitvoering van het Verdrag ondersteunt de Bank, onverminderd het doel van prijsstabiliteit, het algemene economische beleid in de Europese Gemeenschap teneinde bij te dragen tot de verwezenlijking van de in artikel 3 van het Verdrag betreffende de Europese Unie omschreven doelstellingen van de Unie.   
+3.  De Bank handelt in overeenstemming met het beginsel van een open markteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en met inachtneming van de beginselen die zijn neergelegd in artikel 119 van het Verdrag.   
 4.  De Bank heeft voorts als doelstelling het uitvoeren van taken, anders dan die bedoeld in artikel 3, voorzover deze haar bij of krachtens de wet zijn opgedragen.   
 
 ### Artikel  3  
@@ -50,14 +50,14 @@ f. de Statuten van het Europees Stelsel van Centrale Banken: de Statuten van het
 
 a. het bepalen van het monetaire beleid en het ten uitvoer leggen van dat beleid;  
 
-b. het verrichten van valutamarktoperaties in overeenstemming met artikel 109 van het Verdrag;  
+b. het verrichten van valutamarktoperaties in overeenstemming met artikel 219 van het Verdrag;  
 
 c. het aanhouden en beheren van de officiële externe reserves;  
 
 d. het verzorgen van de geldsomloop voorzover deze uit bankbiljetten bestaat;  
 
 e. het bevorderen van de goede werking van het betalingsverkeer.     
-2.  Ter uitvoering van het Verdrag draagt de Bank in het kader van het Europees Stelsel van Centrale Banken bij tot een goede beleidsvoering van de bevoegde autoriteiten ten aanzien van het bedrijfseconomisch toezicht op kredietinstellingen en de stabiliteit van het financiële stelsel.   
+2.  Ter uitvoering van het Verdrag draagt de Bank in het kader van het Europees Stelsel van Centrale Banken bij tot een goede beleidsvoering van de bevoegde autoriteiten ten aanzien van het bedrijfseconomisch toezicht op banken en de stabiliteit van het financiële stelsel.   
 3.  Ter uitvoering van het Verdrag is het de Bank toegestaan bij de uitoefening van haar taken en plichten ingevolge het eerste en tweede lid instructies te vragen aan en te aanvaarden van uitsluitend de Europese Centrale Bank.   
 
 ### Artikel  4  
@@ -119,7 +119,7 @@ c. in het algemeen belang andere werkzaamheden verrichten dan bedoeld in deze pa
 
 ### Artikel  11  
 
-Bepalingen van [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die bij toepassing op de Bank strijdigheid opleveren met het Verdrag of de Statuten van het Europees Stelsel van Centrale Banken zijn niet van toepassing op de Bank. Met het oog op de uitvoering van artikel 108 van het Verdrag worden deze bepalingen bij algemene maatregel van bestuur aangewezen.  
+Bepalingen van [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die bij toepassing op de Bank strijdigheid opleveren met het Verdrag of de Statuten van het Europees Stelsel van Centrale Banken zijn niet van toepassing op de Bank. Met het oog op de uitvoering van artikel 131 van het Verdrag worden deze bepalingen bij algemene maatregel van bestuur aangewezen.  
 
 ### Artikel  12  
 
@@ -128,6 +128,12 @@ Bepalingen van [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/we
 3.  De president en de directeuren kunnen slechts uit hun functie worden geschorst of ontheven indien zij niet meer voldoen aan de eisen voor de uitoefening van hun functie of op ernstige wijze zijn tekortgeschoten.   
 4.  Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in artikel 2, eerste lid, neemt de directie de hoedanigheid van de president als lid van de Raad van bestuur alsmede van de Algemene Raad van de Europese Centrale Bank in acht.   
 5.  De salarissen en de toezeggingen omtrent het pensioen alsmede regelingen omtrent vergoeding van onkosten van de president en de directeuren worden vastgesteld door de raad van commissarissen en goedgekeurd door Onze Minister.   
+
+### Artikel  12a  
+
+1.  Bij of krachtens de statuten kan worden bepaald dat taken van de directie die voortvloeien uit artikel 4, eerste lid, worden toebedeeld aan één of meer directeuren en dat zij hieromtrent rechtsgeldig namens de Bank kunnen besluiten. Bepaling krachtens de statuten als bedoeld in de eerste volzin geschiedt schriftelijk.   
+2.  De directeur of directeuren aan wie de taken, bedoeld in het eerste lid, zijn toebedeeld, kunnen door de directie worden gemachtigd tot uitoefening van de bevoegdheden die nodig zijn voor het vervullen van deze taken, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.   
+3.  Onverminderd het bepaalde in de [artikelen 4:81](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10:6 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) omvat de machtiging, bedoeld in het tweede lid, tevens de bevoegdheid om beleid te bepalen ten aanzien van de taken, bedoeld in het tweede lid, tenzij dit in een mandaatbesluit is uitgesloten.   
 
 ### Artikel  13  
 
@@ -138,7 +144,7 @@ Bepalingen van [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/we
 
 ### Artikel  14  
 
-1.  Ten behoeve van Onze Minister kan degene die ingevolge artikel 13, tweede lid, tot lid van de raad van commissarissen is benoemd op verzoek van Onze Minister of uit eigen beweging en met inachtneming van artikel 107 van het Verdrag bij de directie van de Bank gegevens en inlichtingen inwinnen over de wijze waarop de Bank haar taken uitvoert. Hij kan op verzoek van Onze Minister of uit eigen beweging en met inachtneming van artikel 107 van het Verdrag zijn bevindingen aan Onze Minister kenbaar maken.   
+1.  Ten behoeve van Onze Minister kan degene die ingevolge artikel 13, tweede lid, tot lid van de raad van commissarissen is benoemd op verzoek van Onze Minister of uit eigen beweging en met inachtneming van artikel 130 van het Verdrag bij de directie van de Bank gegevens en inlichtingen inwinnen over de wijze waarop de Bank haar taken uitvoert. Hij kan op verzoek van Onze Minister of uit eigen beweging en met inachtneming van artikel 130 van het Verdrag zijn bevindingen aan Onze Minister kenbaar maken.   
 2.  De directie van de Bank is gehouden de in het eerste lid bedoelde persoon telkens op diens aanvraag al die gegevens en inlichtingen te verstrekken, welke hij tot behoorlijke uitoefening van zijn taak als bedoeld in het eerste lid, nodig acht, met uitzondering van gegevens en inlichtingen die ingevolge het Verdrag of de in artikel 4 bedoelde wettelijke regelingen geheim zijn.   
 
 ### Artikel  15  
@@ -172,12 +178,12 @@ c. ten minste negen en ten hoogste elf leden die steeds voor vier jaar worden be
 
 ### Artikel  18  
 
-1.  Onze Minister is, met inachtneming van artikel 107 van het Verdrag, bevoegd de Bank met betrekking tot de taken en werkzaamheden ter verwezenlijking van de in artikel 2, eerste lid, bedoelde doelstelling, gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn ter bepaling van het financieel-economisch beleid van de regering.   
+1.  Onze Minister is, met inachtneming van artikel 130 van het Verdrag, bevoegd de Bank met betrekking tot de taken en werkzaamheden ter verwezenlijking van de in artikel 2, eerste lid, bedoelde doelstelling, gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn ter bepaling van het financieel-economisch beleid van de regering.   
 2.  De Bank is, met inachtneming van artikel 10.4 en artikel 38 van de Statuten van het Europees Stelsel van Centrale Banken, verplicht aan Onze Minister de in het eerste lid bedoelde gegevens en inlichtingen te verstrekken.   
 
 ### Artikel  19  
 
-Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in artikel 2, eerste lid, kan de president van de Bank, met inachtneming van artikel 107 van het Verdrag en van artikel 10.4 en artikel 38 van de Statuten van het Europees Stelsel van Centrale Banken, door elk der beide kamers der Staten-Generaal op hun verzoek worden gehoord.  
+Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in artikel 2, eerste lid, kan de president van de Bank, met inachtneming van artikel 130 van het Verdrag en van artikel 10.4 en artikel 38 van de Statuten van het Europees Stelsel van Centrale Banken, door elk der beide kamers der Staten-Generaal op hun verzoek worden gehoord.  
 
 ### Artikel  20  
 
@@ -202,14 +208,6 @@ Wijzigt de Muntwet 1987.
 ### Hoofdstuk  VI  
 
 ####Overgangs- en slotbepalingen
-
-### Artikel  24  
-
-1.  Tot het tijdstip dat de Europese Centrale Bank en het Europees Stelsel van Centrale Banken worden opgericht overeenkomstig artikel 109 L, eerste lid, van het Verdrag, gelden de volgende leden.   
-2.  In de gevallen, waarin Onze Minister zulks ter coördinatie van de monetaire en financiële politiek van de Regering en de politiek van de Bank noodzakelijk acht, geeft hij, de bankraad gehoord, aan de directie de ter bereiking van dat doel nodige aanwijzingen. Behoudens het bepaalde in het volgende lid, is de directie gehouden die aanwijzingen op te volgen.   
-3.  De directie kan tegen het opvolgen van een aanwijzing als in het tweede lid bedoeld bezwaar maken. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een bezwaarschrift drie dagen. De [artikelen 7:2 tot en met 7:9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing. Onze Minister beslist op het bezwaar in overeenstemming met het gevoelen van de ministerraad.   
-4.  Indien de beslissing van Onze Minister overeenkomstig het derde lid ertoe leidt dat de aanwijzingen zullen worden opgevolgd, wordt, indien het landsbelang zich hiertegen naar het oordeel van de ministerraad niet verzet, van het bezwaar van de directie en de beslissing van Onze Minister mededeling gedaan in de Staatscourant.   
-5.  Het in het eerste lid bedoelde tijdstip wordt door Onze Minister in de Staatscourant bekend gemaakt.   
 
 ### Artikel  25  
 
