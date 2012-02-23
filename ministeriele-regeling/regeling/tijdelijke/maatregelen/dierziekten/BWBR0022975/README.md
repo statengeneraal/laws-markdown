@@ -45,7 +45,7 @@ g. verordening (EG) nr. 1266/2007: verordening (EG) nr. 1266/2007 van de Commiss
 
 h. vervoermiddel: voertuig, waaronder mede begrepen een combinatie van een voertuig met één of meer door dat voertuig voortbewogen aanhangwagens, opleggers of containers;  
 
-i. VWA: Voedsel en Waren Autoriteit;  
+i. NVWA: Nederlandse Voedsel- en Warenautoriteit;  
 
 j. Minister: Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
@@ -82,18 +82,18 @@ b. het gevogelte geen water krijgt dat afkomstig is van oppervlaktewateren waart
 1.  In afwijking van de [artikelen 53 tot en met 55 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) is het verboden gevogelte, met uitzondering van sierduiven, afkomstig van verschillende plaatsen tijdelijk op één plaats te verzamelen.   
 2.  Het eerste lid is niet van toepassing op het tijdelijk op één plaats verzamelen ten behoeve van wedvluchten, culturele evenementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen, anders dan markten waar gevogelte worden verhandeld, indien: 
 
-a. degene, die voornemens is gevogelte van verschillende plaatsen tijdelijk op één plaats te verzamelen de VWA van dit voornemen ten minste 8 dagen van tevoren kennis heeft gegeven;  
+a. degene, die voornemens is gevogelte van verschillende plaatsen tijdelijk op één plaats te verzamelen de NVWA van dit voornemen ten minste 8 dagen van tevoren kennis heeft gegeven;  
 
 b.  vervallen;   
 
 c. het gevogelte, alvorens dit wordt toegelaten bij de plaats van aanvoer, op de kosten van degene, die voornemens is gevogelte van verschillende plaatsten tijdelijk op één plaats te verzamelen, wordt onderzocht door één of meer dierenartsen, en  
 
 d. voor zover het een wedvlucht voor postduiven, of een tentoonstelling of keuring van gevogelte betreft, slechts gevogelte wordt toegelaten dat vergezeld gaat van een op deze vogels betrekking hebbende, volledig ingevulde en ondertekende verklaring van enting tegen Newcastle Disease zoals bedoeld in [artikel 54, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md).     
-3.  In afwijking van het tweede lid is degene die voornemens is postduiven voor een wedvlucht te verzamelen, gehouden van dit voornemen jaarlijks een overzicht aan de VWA te doen toekomen. De Minister kan besluiten de postduiven, alvorens deze bij de wedvlucht worden toegelaten, bij de plaats van aanvoer te laten onderzoeken door één of meer dierenartsen, op kosten van degene die de postduiven voor de wedvlucht heeft verzameld.   
+3.  In afwijking van het tweede lid is degene die voornemens is postduiven voor een wedvlucht te verzamelen, gehouden van dit voornemen jaarlijks een overzicht aan de NVWA te doen toekomen. De Minister kan besluiten de postduiven, alvorens deze bij de wedvlucht worden toegelaten, bij de plaats van aanvoer te laten onderzoeken door één of meer dierenartsen, op kosten van degene die de postduiven voor de wedvlucht heeft verzameld.   
 
 ### Artikel  2.6  
 
-1.  Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van gevogelte of broedeieren in derde landen, alsmede in lidstaten van de Europese Unie waar een uitbraak van hoogpathogene aviaire Influenza is bevestigd, en vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt gereinigd en ontsmet op een reinigings- en ontsmettingsplaats voor vervoermiddelen die is geregistreerd overeenkomstig [artikel 26 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md). De vervoerder overlegt binnen 24 uur na binnenkomst in Nederland aan de VWA een bewijs van de reiniging en ontsmetting.   
+1.  Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van gevogelte of broedeieren in derde landen, alsmede in lidstaten van de Europese Unie waar een uitbraak van hoogpathogene aviaire Influenza is bevestigd, en vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt gereinigd en ontsmet op een reinigings- en ontsmettingsplaats voor vervoermiddelen die is geregistreerd overeenkomstig [artikel 26 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md). De vervoerder overlegt binnen 24 uur na binnenkomst in Nederland aan de NVWA een bewijs van de reiniging en ontsmetting.   
 2.  Voor de werking van dit artikel wordt onder een uitbraak van hoogpathogene aviaire Influenza in een lidstaat niet verstaan een uitbraak in een circus, een dierentuin, een vogelwinkel, een wildpark, een omheind terrein waar gevogelte voor wetenschappelijke doeleinden of met het oog op de bescherming van zeldzame pluimveerassen wordt gehouden, zoals bedoeld in artikel 13, eerste lid, van richtlijn 2005/94/EG.   
 3.  Het bewijs van de laatste reiniging en ontsmetting, bedoeld in het eerste lid, dient in ieder geval een datum, tijdstip van reiniging en ontsmetting en kenteken van het gereinigde vervoermiddel te bevatten en is ten allen tijde in het vervoermiddel aanwezig.   
 4.  De reiniging en ontsmetting, bedoeld in het eerste lid, geschiedt met een toegelaten ontsmettingsmiddel en op zodanige wijze dat de bioveiligheid niet in gevaar komt.   
@@ -113,17 +113,114 @@ In afwijking van [artikel 50, eerste lid, onderdelen d en e, van de Flora- en Fa
 
 Deze paragraaf is niet van toepassing op gevogelte, gehouden in dierentuinen.  
 
-### §  2.1  
+### §  2.2  
 
-####Beperkingsgebied in verband met laagpathogene Aviaire Influenza juni 2011
+####Beperkingsgebieden in verband met laagpathogene Aviaire Influenza in februari en maart 2012
+
+### Artikel  2.1.1  
+
+####(aanvullende begripsbepalingen)
+
+In deze paragraaf wordt verstaan onder: 
+
+a. *laagpathogene aviaire influenza (LPAI):* een besmetting van gevogelte of andere gehouden vogels als omschreven in bijlage I, onderdeel 3, van richtlijn nr. 2005/94/EG;  
+
+b. *zoogdier:* een tot de klasse Mammalia behorend dier;  
+
+c. *gebied:* in bijlage I of bijlage II aangewezen beperkingsgebied.    
+
+### Artikel  2.1.2  
+
+####(gebiedsbepaling)
+
+Het is in een gebied verboden te handelen in strijd met de in bijlage I van toepassing verklaarde artikelen of artikelonderdelen van deze regeling.  
+
+### Artikel  2.1.3  
+
+####(vervoers- en uitrijdverboden)
+
+1.  Het vervoer, met inbegrip van verplaatsing over de openbare weg zonder vervoermiddel, van: 
+
+a. gevogelte of andere gehouden vogels, uitgezonderd duiven,  
+
+b. gebruikt strooisel, mest of drijfmest,  
+
+c. broed-, vaccin- en consumptie-eieren, of  
+
+d. sperma ten behoeve van de bevruchting van gevogelte   uit, of binnen het gebied, is verboden.   
+2.  Het aanwenden van gebruikt strooisel, mest of drijfmest binnen het gebied is verboden.   
+3.  Het vervoer, met inbegrip van verplaatsing over de openbare weg zonder vervoermiddel, van gedomesticeerde zoogdieren van of naar een bedrijf, waar gevogelte, met uitzondering van hobbypluimvee of duiven, wordt gehouden, is verboden.   
+4.  In afwijking van het bepaalde in het eerste en tweede lid is de afvoer, het vervoer en de aanwending van mest, niet zijnde mest afkomstig van gevogelte, toegestaan, indien de mest afkomstig is van een bedrijf waar geen gevogelte, behalve hobbypluimvee of duiven, wordt gehouden.   
+5.  Het verbod bedoeld in het eerste lid is niet van toepassing ten aanzien van het vervoer van consumptie-eieren afkomstig van bedrijven, anders dan bedrijven waar zich gevogelte bevindt.   
+6.  In afwijking van het bepaalde in het eerste lid is de doorvoer van de in dat lid genoemde dieren en dierlijke producten over de snelweg A2 door het gebied, zonder dat halt gehouden wordt om te laden of te lossen, toegestaan.   
+
+### Artikel  2.1.4  
+
+####(verzamelverbod)
+
+Alle wedvluchten, culturele elementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen waar gevogelte en andere vogels afkomstig van verschillende plaatsen tijdelijk op één plaats worden verzameld zijn verboden. Vrijstellingen op grond van artikel 2.5, tweede en derde lid, zijn geschorst.  
+
+### Artikel  2.1.5  
+
+####(diervoeders en melk)
+
+1.  De aanvoer van diervoeders op en de afvoer van rauwe melk van een bedrijf waar gevogelte, uitgezonderd hobbypluimvee of duiven, wordt gehouden is verboden.   
+2.  Het verbod, bedoeld in het eerste lid, geldt niet voor het rechtstreekse vervoer van de diervoeders naar het bedrijf respectievelijk het rechtstreekse vervoer van de melk naar de melkfabriek waarbij de vervoermiddelen bij het verlaten van het bedrijf worden gereinigd en ontsmet in overeenstemming met een door de NVWA goedgekeurd hygiëneprotocol dat in overeenstemming is met de eisen voor reiniging en ontsmetting vermeld in bijlage VI bij richtlijn nr. 2005/94/EG.   
+
+### Artikel  2.1.6  
+
+####(verplaatsingsverbod risicovolle voertuigen)
+
+1.  Het is verboden vervoermiddelen, gebruikt of kennelijk bestemd voor het vervoer van: 
+
+a. gevogelte of andere gehouden vogels;  
+
+b. gedomesticeerde zoogdieren afkomstig van een bedrijf waar tevens gevogelte aanwezig is;  
+
+c. voeder, gebruikt strooisel, rauwe melk of mest afkomstig van of bestemd voor een bedrijf waar tevens gevogelte aanwezig is, of  
+
+d. broed-, vaccin- en consumptie-eieren   te verplaatsen binnen het gebied.   
+2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing indien: 
+
+a. de bestuurder van het vervoermiddel kan aantonen dat het vervoer betreft anders dan het vervoer als bedoeld in het eerste lid, of  
+
+b. het vervoermiddel aantoonbaar een reiniging en ontsmetting heeft ondergaan in overeenstemming met een door de NVWA goedgekeurd hygiëneprotocol dat in overeenstemming is met de eisen voor reiniging en ontsmetting vermeld in bijlage VI bij richtlijn nr. 2005/94/EG.     
+
+### Artikel  2.1.7  
+
+####(ontheffing door NVWA)
+
+Op verzoek van een houder kan de NVWA onder voorwaarden ontheffing verlenen van het bepaalde in de artikelen 2.1.3 en 2.1.4.  
+
+### Artikel  2.1.8  
+
+####(bezoekersregeling)
+
+1.  De houder van gevogelte, niet zijnde hobbypluimvee of duiven, neemt maatregelen zodat elk contact tussen bezoekers en gevogelte is uitgesloten.   
+2.  Het is de houder, bedoeld in het eerste lid, toegestaan: 
+
+a. ambtenaren van politie, huisartsen, ambulancepersoneel, brandweerlieden, psychosociale hulpverleners en andere soortgelijke noodhulpdiensten en hun materieel;  
+
+b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers met inbegrip van pluimveeservicebedrijven, indien er een acuut gevaar voor de gezondheid van gevogelte aanwezig is en werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen;  
+
+c. toezichthouders;   in de uitoefening van hun functie in contact te laten treden met gevogelte, mits de in de onderdelen a, b en c bedoelde personen bij het betreden en het verlaten van een bedrijfsgebouw de nodige hygiënemaatregelen in acht nemen om elk risico van verspreiding van LPAI zo veel mogelijk te beperken en de kleding en het materieel van deze personen bij het betreden en het verlaten van een bedrijfsgebouw is gereinigd en ontsmet om te voorkomen dat besmetting met of verspreiding van LPAI zich voordoet.   
+
+### Artikel  2.1.9  
+
+####(bioveiligheidsmaatregelen, afschermplicht)
+
+1.  De houder van gevogelte brengt afscheidingen aan tussen het gevogelte en de op het landbouwbedrijf aanwezige zoogdieren.   
+2.  De houder van gevogelte, niet zijnde hobbypluimvee of duiven, neemt passende maatregelen om zo veel mogelijk te voorkomen dat de door hem gehouden dieren in contact komen met buiten het verblijf levende wilde dieren, zoals in het wild levende vogels, of hun uitwerpselen.   
+3.  Onder passende maatregelen als bedoeld in het tweede lid wordt ten minste begrepen het binnen een gebouw brengen en daar houden van het gevogelte.   
+4.  Het derde lid is niet van toepassing op dieren van een soort behorende tot de orde van de eendvogels (Anseriformes), de families van de struisvogels (Struthionidae), emoes (Dromaiidae) en nandoes (Rheidae).   
+
+### Artikel  2.1.10  
+
+Deze paragraaf laat het bepaalde op grond van [artikel 25 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en het bepaalde in paragraaf 2 van deze regeling onverlet met dien verstande dat artikel 2.5, tweede en derde lid, van paragraaf 2 niet van toepassing is in het gebied.  
 
 ### §  3  
 
 ####Bluetongue
-
-### Artikel  3.1  
-
-Voor de toepassing van deze paragraaf wordt geheel Nederland aangemerkt als beperkingsgebied voor bluetongue serotype 8.  
 
 ### Artikel  3.2  
 
@@ -139,25 +236,19 @@ d. bijlage III, hoofdstuk A, onderdeel 5, van verordening (EG) nr. 1266/2007.
 
 ### Artikel  3.3  
 
-De VWA is de bevoegde autoriteit bedoeld in artikel 8, derde lid, vierde lid, onderdeel c, en vijfde lid, van verordening (EG) nr. 1266/2007.  
-
-### Artikel  3.4  
-
-1.  Het is verboden herkauwers te verplaatsen.   
-2.  Het eerste lid is niet van toepassing indien de te verplaatsen dieren op de dag van vervoer geen klinische tekenen van bluetongue vertonen.   
-3.  Het eerste lid is niet van toepassing op een verplaatsing vanuit een beschermingsgebied, bedoeld in artikel 8, tweede lid, onderdeel a, van richtlijn 2000/75/EG naar een toezichtsgebied, bedoeld in artikel 8, tweede lid, onderdeel b, van richtlijn 2000/75/EG, mits voldaan is aan de voorwaarden, bedoeld in artikel 7, tweede lid, van verordening (EG) nr. 1266/2007.   
+De NVWA is de bevoegde autoriteit bedoeld in artikel 8, derde lid, vierde lid, onderdeel c, en vijfde lid, van verordening (EG) nr. 1266/2007.  
 
 ### Artikel  3.5  
 
 1.  Het is verboden in strijd te handelen met de voorwaarden van artikel 8, eerste, derde, vierde, vijfde lid en lid 5 bis en artikel 9 bis van verordening (EG) nr. 1266/2007.   
-2.  Het is verboden herkauwers die oorspronkelijk afkomstig zijn uit gebieden waar een ander bluetongue serotype voorkomt dan serotype 8 in Nederland te brengen.   
+2.  Het is verboden herkauwers die oorspronkelijk afkomstig zijn uit gebieden waar bluetongue voorkomt in Nederland te brengen.   
 3.  Het tweede lid is niet van toepassing op herkauwers indien wordt voldaan aan: 
 
 a. voor zover het gaat om herkauwers, jonger dan 90 dagen, de voorwaarden van artikel 9 bis, eerste lid, onderdelen b en c, en vierde lid, van verordening (EG) nr. 1266/2007, of  
 
 b. de toepasselijke voorwaarden van artikel 8 van verordening (EG) nr. 1266/2007 en voor zover hierop van toepassing de voorwaarden van artikel 9 bis van verordening (EG) nr. 1266/2007.     
 4.  Het is verboden herkauwers te houden die niet overeenkomstig het derde lid in Nederland zijn binnengebracht.   
-5.  Het tweede, derde en vierde lid zijn van toepassing tot en met 30 juni 2011.   
+5.  Het tweede, derde en vierde lid zijn van toepassing tot en met de datum genoemd in artikel 9 bis, eerste lid, van verordening (EG) nr. 1266/2007.   
 
 ### Artikel  3.6  
 
@@ -172,16 +263,6 @@ b. genoemd in artikel 9, derde lid, van verordening (EG) nr. 1266/2007.
 ### §  3.1  
 
 ####Vaccinatie bluetongue
-
-### Artikel  3.1.3  
-
-Van het verbod in [artikel 3 van het Besluit gebruik sera en entstoffen](../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) wordt vrijstelling verleend tot 1 juli 2014 voor het overeenkomstig deze regeling vaccineren van herkauwers of kameelachtigen.  
-
-### Artikel  3.1.4  
-
-1.  Ingeval van vaccinatie van herkauwers of kameelachtigen tegen bluetongue past de dierenarts het diergeneesmiddel toe, overeenkomstig de gebruiksvoorschriften en de instructies van de fabrikant van het middel.   
-2.  Indien runderen op grond van deze regeling worden gevaccineerd, draagt de houder van de runderen ervoor zorg dat zijn dieren tweemaal worden gevaccineerd, waarbij de tweede vaccinatie minimaal drie weken nadat de eerste vaccinatie is verricht, wordt uitgevoerd.   
-3.  In afwijking van lid 2, worden runderen ingeval van hervaccinatie eenmaal gevaccineerd.   
 
 ### §  3.2  
 
@@ -199,31 +280,22 @@ b. vanaf een exportverzamelcentrum.
 ### Artikel  3.2.2  
 
 1.  Ten aanzien van export als bedoeld in artikel 3.2.1, eerste lid, aanhef en onderdeel a, wordt voldaan aan het bepaalde in artikel 3.2.3.   
-2.  Ten aanzien van export als bedoeld in artikel 3.2.1, eerste lid, aanhef en onderdeel b, wordt voldaan aan het bepaalde in de artikelen 3.2.4 en 3.2.5.   
+2.  Ten aanzien van export als bedoeld in artikel 3.2.1, eerste lid, aanhef en onderdeel b, wordt voldaan aan het bepaalde in artikel 3.2.4.   
 3.  Ten aanzien van export als bedoeld in artikel 3.2.1, tweede lid, wordt voldaan aan het bepaalde in artikel 3.2.3.   
 
 ### Artikel  3.2.3  
 
-1.  De houder van gevaccineerde herkauwers die bestemd zijn voor export overeenkomstig de voorwaarden, bedoeld in bijlage III, punt 5, van verordening (EG) nr. 1266/2007, ondertekent terstond na de vaccinatie van deze dieren een volledig en naar waarheid ingevuld door het Ministerie van Landbouw, Natuur en Voedselkwaliteit verstrekt exportformulier en laat dit exportformulier mede ondertekenen door de dierenarts die dieren heeft gevaccineerd.   
-2.  De houder vermeldt op het formulier, bedoeld in het eerste lid, tenminste de locatie waar de dieren zijn gevaccineerd en gegevens over de identificatie van de gevaccineerde herkauwers.   
+1.  Tegen bluetongue gevaccineerde herkauwers, die bestemd zijn voor export overeenkomstig de voorwaarden, bedoeld in bijlage III, punt 5, van verordening (EG) nr. 1266/2007, gaan vergezeld van een door de Minister verstrekt exportformulier.   
+2.  Het exportformulier, bedoeld in het eerste lid, is terstond na vaccinatie ondertekend door de houder en de dierenarts die de dieren heeft gevaccineerd en bevat in elk geval: 
+
+a. de locatie waar de dieren zijn gevaccineerd en  
+
+b. gegevens over de identificatie van de gevaccineerde herkauwers.     
 
 ### Artikel  3.2.4  
 
-1.  De dierenarts die de runderen, die bestemd zijn voor export overeenkomstig de voorwaarden, bedoeld in bijlage III, punt 5, van verordening (EG) nr. 1266/2007, heeft gevaccineerd, ondertekent terstond na de vaccinatie van deze dieren een volledig en naar waarheid ingevulde vaccinatielijst en laat deze vaccinatielijst medeondertekenen door de houder.   
-2.  Op de vaccinatielijst, bedoeld in het eerste lid, worden in elk geval de volgende gegevens vermeld: 
-
-a. de identificatiecode van het gevaccineerde dier;  
-
-b. de geboortedatum van het dier;  
-
-c. de datum van vaccinatie;  
-
-d. het type vaccin dat is toegediend.     
-3.  De dierenarts, bedoeld in het eerste lid, draagt zorg voor verwerking bij de GD van de vaccinatielijst waarop de gegevens, bedoeld in het tweede lid, zijn opgenomen.   
-
-### Artikel  3.2.5  
-
-De GD geeft onverwijld op aanvraag aan de houder van runderen een vaccinatieverklaring af voor de overeenkomstig artikel 3.2.4 gevaccineerde runderen, die op een ter identificatie van zijn bedrijf toegekend UBN als bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zijn geregistreerd.  
+1.  Tegen bluetongue gevaccineerde runderen, die bestemd zijn voor export overeenkomstig de voorwaarden, bedoeld in bijlage III, punt 5, van verordening (EG) nr. 1266/2007, gaan vergezeld van een vaccinatieverklaring.   
+2.  De GD geeft onverwijld op aanvraag aan de houder van runderen een vaccinatieverklaring af voor gevaccineerde runderen, die op een ter identificatie van zijn bedrijf toegekend UBN als bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zijn geregistreerd.   
 
 ### §  3.3  
 
@@ -255,13 +327,7 @@ d. *mest:* mest geproduceerd door een schaap of geit;
 
 e. *composteren:* proces waarin mest wordt afgebroken met behulp van micro-organismen om te worden omgezet in een homogeen en zodanig stabiel eindproduct waarin alleen nog een langzame afbraak van humeuze verbindingen plaatsvindt;  
 
-f. *referentieaantal:* het aantal geiten en schapen op het bedrijf, dat de houder in 2009 heeft verstrekt op grond van [artikel 37, tweede lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zoals dit lid luidde ten tijde van de inwerkingtreding van onderhavig onderdeel, tenzij wordt aangetoond dat in plaats van dit aantal een ander aantal in beschouwing behoort te worden genomen: 
-
-1. als gevolg van het feit dat het aantal, verstrekt op grond van [artikel 37, tweede lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zoals dit lid luidde ten tijde van de inwerkingtreding van onderhavig onderdeel, niet overeenkomt met het aantal dat gebruikelijk gehouden wordt bij de ten tijde van de verstrekking op grond van artikel 37, tweede lid, van de Regeling identificatie en registratie van dieren in het bedrijf aanwezige capaciteit, of  
-
-2. als gevolg van vestiging of uitbreiding na het verstrekken van de gegevens op grond van [artikel 37, tweede lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zoals dit lid luidde ten tijde van de inwerkingtreding van onderhavig onderdeel, maar uiterlijk op 9 december 2009;    
-
-g. *locatie met een publieksfunctie:* locatie waar schapen of geiten worden gehouden en die is opengesteld voor publiek met het oogmerk om direct contact tussen publiek en dieren te faciliteren.    
+f. *locatie met een publieksfunctie:* locatie waar schapen of geiten worden gehouden en die is opengesteld voor publiek met het oogmerk om direct contact tussen publiek en dieren te faciliteren.    
 
 ### §  5.1.1  
 
@@ -291,15 +357,14 @@ g. *locatie met een publieksfunctie:* locatie waar schapen of geiten worden geho
 
 ### Artikel  5.1.5  
 
-1.  De artikelen 5.1.5a, 5.1.5b, 5.1.7, 5.1.8, 5.1.9, tweede tot en met vijfde lid, 5.1.10 en 5.1.11 zijn van toepassing op bedrijven in de periode vanaf het tijdstip waarop de verdenking van besmetting met Q-koorts op grond van [artikel 24 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 2 van het Besluit verdachte dieren](../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md) is ontstaan tot het moment waarop de verdenking is beëindigd op grond van [artikel 24 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 4, onderdeel b, van het Besluit verdachte dieren](../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md).   
-2.  De artikelen 5.1.5a, 5.1.5b, 5.1.7, 5.1.8, 5.1.9, tweede tot en met vijfde lid, en 5.1.10 zijn van toepassing op bedrijven in de periode vanaf het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geconstateerd tot het moment waarop het bedrijf op grond van artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren vrij van de besmetting met Q-koorts is verklaard.   
-3.  De artikelen 5.1.5a, 5.1.5b, 5.1.7 en 5.1.9, eerste en derde tot en met vijfde lid zijn van toepassing op andere bedrijven, dan bedoeld in het eerste en tweede lid, waar meer dan 50 schapen of geiten gehouden worden ten behoeve van de bedrijfsmatige melkproductie.   
-4.  Artikel 5.1.5b is van toepassing op andere bedrijven, dan bedoeld in het eerste en tweede lid, waar meer dan 50 schapen of geiten worden opgefokt ten behoeve van de melkproductie.   
+1.  De artikelen 5.1.5a, 5.1.5b, 5.1.7, 5.1.9, met uitzondering van het tweede lid, onderdeel b, 5.1.10 en 5.1.11 zijn van toepassing op bedrijven in de periode vanaf het tijdstip waarop de verdenking van besmetting met Q-koorts op grond van [artikel 24 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 2 van het Besluit verdachte dieren](../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md) is ontstaan tot het moment waarop de verdenking is beëindigd op grond van artikel 24 van de Gezondheids- en welzijnswet voor dieren in samenhang met [artikel 4, onderdeel b, van het Besluit verdachte dieren](../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md).   
+2.  De artikelen 5.1.5a, 5.1.5b, 5.1.7, 5.1.9, met uitzondering van het tweede lid, onderdeel b, 5.1.10 en 5.1.11a zijn van toepassing op bedrijven in de periode vanaf het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geconstateerd tot het moment waarop het bedrijf op grond van artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren vrij van de besmetting met Q-koorts is verklaard.   
+3.  De artikelen 5.1.5a, 5.1.5b, 5.1.7 en 5.1.9 zijn van toepassing op andere bedrijven, dan bedoeld in het eerste en tweede lid, waar meer dan 50 schapen of geiten gehouden worden ten behoeve van de bedrijfsmatige melkproductie.   
+4.  De artikelen 5.1.5a en 5.1.5b zijn van toepassing op andere bedrijven, dan bedoeld in het eerste en tweede lid, waar meer dan 50 schapen of geiten worden opgefokt ten behoeve van de melkproductie.   
 
 ### Artikel  5.1.5a  
 
-1.  Het is verboden schapen of geiten te houden.   
-2.  Het eerste lid is niet van toepassing indien het referentieaantal, bedoeld in artikel 5.1.1, onderdeel f, niet wordt overschreden.   
+Het is verboden schapen of geiten te houden, tenzij alle schapen of geiten op het bedrijf zijn gevaccineerd overeenkomstig § 5.2.  
 
 ### Artikel  5.1.5b  
 
@@ -308,32 +373,30 @@ g. *locatie met een publieksfunctie:* locatie waar schapen of geiten worden geho
 a. te insemineren of te laten bevruchten, of  
 
 b. op zodanige wijze te houden dat bevruchting van geiten of schapen kan plaatsvinden.     
-2.  Het eerste lid is niet van toepassing, indien alle geiten of schapen op het bedrijf zijn gevaccineerd overeenkomstig § 5.2.1.   
-3.  Het is verboden op een bedrijf waar geiten of schapen aanwezig zijn of dat bestemd is om geiten of schapen te houden, sperma van geiten of schapen voorhanden te hebben, in voorraad te hebben, te bewaren, op te slaan, te gebruiken, te ontvangen of af te leveren, tenzij alle geiten of schapen op dat bedrijf zijn gevaccineerd overeenkomstig § 5.2.1.   
+2.  Het eerste lid is niet van toepassing, indien alle geiten of schapen op het bedrijf zijn gevaccineerd overeenkomstig § 5.2.   
+3.  Het is verboden op een bedrijf waar geiten of schapen aanwezig zijn of dat bestemd is om geiten of schapen te houden, sperma van geiten of schapen voorhanden te hebben, in voorraad te hebben, te bewaren, op te slaan, te gebruiken, te ontvangen of af te leveren, tenzij alle geiten of schapen op dat bedrijf zijn gevaccineerd overeenkomstig § 5.2.   
 
 ### Artikel  5.1.7  
 
 1.  Het is verboden schapen of geiten op het bedrijf aan te voeren.   
-2.  Het eerste lid is niet van toepassing, indien alle schapen of geiten op dat bedrijf en alle schapen of geiten die worden aangevoerd zijn gevaccineerd overeenkomstig § 5.2.1.   
-
-### Artikel  5.1.8  
-
-1.  Het is verboden mest te verwijderen uit een stal waar schapen of geiten worden gehouden gedurende de periode gerekend vanaf het begin van de lammerperiode in een stal tot en met 30 dagen na afloop daarvan.   
-2.  De houder houdt een administratie bij van de afloop van de lammerperiode, bedoeld in het eerste lid. In de administratie wordt in ieder geval de datum vermeld waarop het laatste lam in die lammerperiode is geboren.   
-3.  De administratie, bedoeld in het tweede lid, wordt gedurende twee jaar bewaard.   
+2.  Het eerste lid is niet van toepassing, indien alle schapen of geiten op dat bedrijf en alle schapen of geiten die worden aangevoerd zijn gevaccineerd overeenkomstig § 5.2.   
 
 ### Artikel  5.1.9  
 
-1.  In de gevallen waarin het verwijderen van mest uit een stal is toegestaan, wordt de mest na het verwijderen gedurende 90 dagen afgedekt opgeslagen op de locatie waar de mest is geproduceerd.   
-2.  In de gevallen waarin het verwijderen van mest uit een stal is toegestaan, wordt de mest na het verwijderen gedurende 150 dagen afgedekt opgeslagen op de locatie waar de mest is geproduceerd.   
+1.  Het is verboden mest, afkomstig uit een stal waar schapen of geiten worden gehouden, uit te rijden of af te voeren.   
+2.  Het eerste lid is niet van toepassing indien: 
+
+a. de mest gedurende 30 dagen na verwijdering uit de stal luchtdoorlatend afgedekt is opgeslagen of  
+
+b. de mest rechtstreeks en afgedekt naar een erkende composteerinrichting of erkend composteerbedrijf als bedoeld in artikel 24, eerste lid, onderdeel g, van Verordening (EG) nr. 1069/2009 wordt afgevoerd.     
 3.  De houder houdt een administratie bij van: 
 
-a. de datum dat de mest uit de stal wordt verwijderd;  
+a. de datum waarop de mest uit de stal is verwijderd;  
 
-b. de begin- en einddatum van de composteringsperiode op de locatie, bedoeld in het eerste lid;  
+b. de begin- en einddatum van de composteringsperiode op de locatie, bedoeld in het tweede lid, onderdeel a, en  
 
 c. de datum van het uitrijden van de mest op het eigen bedrijf.     
-4.  In de administratie, bedoeld in het derde lid, wordt telkens de desbetreffende hoeveelheid mest uitgedrukt in kubieke meters vermeld.   
+4.  In de administratie, bedoeld in het derde lid, wordt telkens de desbetreffende hoeveelheid mest, uitgedrukt in kubieke meters, vermeld.   
 5.  De administratie, bedoeld in het derde lid, wordt gedurende twee jaar bewaard.   
 
 ### Artikel  5.1.10  
@@ -349,6 +412,15 @@ b. er voldoende bakken beschikbaar zijn in de stallen waar schapen of geiten wor
 1.  Het is voor veehouders verboden bezoekers tot een stal, waar schapen en geiten worden gehouden, toe te laten.   
 2.  Het eerste lid is niet van toepassing op het toelaten van personen voor wie het met het oog op de uitoefening van beroep of bedrijf, noodzakelijk is de stal te betreden.   
 
+### Artikel  5.1.11a  
+
+1.  Als gedeelte van een gebouw of terrein als bedoeld in [artikel 25, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) zijn aangewezen stallen waar schapen of geiten worden gehouden.   
+2.  In afwijking van [artikel 112 Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) worden als personen of groepen van personen die toegang hebben tot stallen als bedoeld in het eerste lid aangewezen: 
+
+a. de houder van de schapen of geiten en  
+
+b. personen voor wie het met het oog op de uitoefening van beroep of bedrijf noodzakelijk is de stal te betreden.     
+
 ### §  5.1.3  
 
 ####Aanvullende maatregelen Q-koorts ten aanzien van dieren
@@ -359,44 +431,8 @@ b. er voldoende bakken beschikbaar zijn in de stallen waar schapen of geiten wor
 
 a. die tussen het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geconstateerd en 1 juni 2010 aanwezig zijn geweest op dat bedrijf, indien de besmetting is geconstateerd voor 1 juni 2010;  
 
-b. die tussen het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geconstateerd en het moment dat alle geiten of schapen op het bedrijf zijn gevaccineerd overeenkomstig artikel 5.2.4, tweede lid, en § 5.2.1, aanwezig zijn geweest op dat bedrijf, indien die besmetting op of na 1 juni 2010 is geconstateerd en op dat moment nog niet alle geiten of schapen op het bedrijf waren gevaccineerd overeenkomstig artikel 5.2.4, tweede lid en § 5.2.1.     
-2.  Het eerste lid is niet van toepassing op vrouwelijke geiten of vrouwelijke schapen geboren op of na 1 juli 2009, indien wordt voldaan aan de artikelen 5.1.12a tot en met 5.1.12g.   
-3.  Het tweede lid is niet van toepassing op geiten of schapen wanneer zich in een groep als bedoeld in het eerste lid, onderdeel a of b, waarvan zij deel uit maken bij één of meer dieren een abortus voordoet waarvan is vastgesteld dat deze is veroorzaakt door Coxiella burnetii.   
-4.  Het verbod, bedoeld in het eerste lid, en het tweede en derde lid zijn van overeenkomstige toepassing op geiten of schapen geboren uit geiten of schapen, bedoeld in het derde lid.   
-
-### Artikel  5.1.12a  
-
-1.  De houder heeft een melding aan de VWA gedaan van de identificatiecode van de geiten of schapen.   
-2.  De VWA heeft bevestigd dat aannemelijk is dat de geiten of schapen geboren zijn op of na 1 juli 2009 respectievelijk uit de dieren, bedoeld in artikel 5.1.12, derde lid.   
-3.  De houder heeft voldaan aan de verplichting, bedoeld in [artikel 44c, twaalfde lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md).   
-
-### Artikel  5.1.12b  
-
-De geiten of schapen worden in een aparte ruimte binnen de stal gehouden, waarbij direct contact tussen deze dieren en andere geiten of schapen die worden gehouden ten behoeve van de melkproductie, niet mogelijk is.  
-
-### Artikel  5.1.12c  
-
-1.  De geiten of schapen worden, indien zij van het bedrijf worden afgevoerd, slechts rechtstreeks naar een slachthuis vervoerd.   
-2.  Artikel 5.1.13, tweede lid, is van overeenkomstige toepassing.   
-
-### Artikel  5.1.12d  
-
-De artikelen 5.1.8 en 5.1.9, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing.  
-
-### Artikel  5.1.12e  
-
-1.  Artikel 5.1.10 is van overeenkomstige toepassing.   
-2.  Geboortemateriaal van de geiten of schapen wordt voorverzameld in afgesloten lekdichte bakken in de ruimte waarin de dieren lammeren en daarin verplaatst naar de bakken, bedoeld in artikel 5.1.10, onderdeel b.   
-
-### Artikel  5.1.12f  
-
-1.   De stal waarin de geiten of schapen worden gehouden is afgesloten voor het publiek vanaf het moment waarop voor die dieren vier maanden van de dracht is verstreken tot twee weken na het lammeren.  
-
-### Artikel  5.1.12g  
-
-1.  De houder laat de geiten of schapen, vanaf het moment waarop voor die dieren vier maanden van de dracht is verstreken, eens per twee weken door een dierenarts bezoeken, teneinde vast te stellen of zich abortussen voordoen.   
-2.  De houder doet onmiddellijk melding aan de VWA van het optreden van een abortus bij één of meer geiten of schapen.   
-3.  De houder van de geiten of schapen houdt een administratie bij van de datum van het bezoek, bedoeld in het eerste lid, alsmede de bevindingen naar aanleiding van dat bezoek, ondertekend door de houder en de dierenarts.   
+b. die tussen het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geconstateerd en het moment dat alle geiten of schapen op het bedrijf zijn gevaccineerd § 5.2, aanwezig zijn geweest op dat bedrijf, indien die besmetting op of na 1 juni 2010 is geconstateerd en op dat moment nog niet alle geiten of schapen op het bedrijf waren gevaccineerd § 5.2.     
+2.  Het eerste lid is niet van toepassing op vrouwelijke geiten of vrouwelijke schapen geboren op of na 1 juli 2009.   
 
 ### Artikel  5.1.13  
 
@@ -415,37 +451,43 @@ c. indien het lammeren jonger dan vier maanden betreft, naar een bedrijf waar de
 
 ### §  5.1.4  
 
-####Maatregelen voor locaties met een publieksfunctie
+####Maatregelen voor locaties met een publieksfunctie, evenementen, tentoonstellingen en keuringen
 
 ### Artikel  5.1.15  
 
-1.  Deze paragraaf is van toepassing op locaties met een publieksfunctie.   
-2.  In afwijking van het eerste lid, is deze paragraaf niet van toepassing op bedrijven als bedoeld in artikel 5.1.2, waarop artikel 5.1.5, eerste en tweede lid van toepassing is.   
-3.  In afwijking van het eerste lid, is deze paragraaf niet van toepassing op bedrijven als bedoeld in artikel 5.1.2, waarop artikel 5.1.5, derde lid, van toepassing is, indien alle geiten of schapen op het bedrijf zijn gevaccineerd overeenkomstig § 5.2.1, voordat publiek wordt toegelaten tot de plaats waar de schapen en geiten worden gehouden.   
+1.  Deze paragraaf is van toepassing op locaties met een publieksfunctie, evenementen, tentoonstellingen en keuringen.   
+2.  In afwijking van het eerste lid is deze paragraaf niet van toepassing op: 
+
+a. bedrijven als bedoeld in artikel 5.1.5, eerste en tweede lid;  
+
+b. bedrijven als bedoeld in artikel 5.1.5, derde lid, met uitzondering van het bepaalde in artikel 5.1.19.     
 
 ### Artikel  5.1.16  
 
-1.  Houders van geiten of schapen houden die geiten en schapen volledig afgezonderd van het publiek vanaf het moment waarop voor die dieren vier maanden van de dracht is verstreken tot twee weken na het lammeren.   
-2.  Onder het afgezonderd houden van het publiek als bedoeld in het eerste lid, wordt in ieder geval verstaan dat de houder: 
-
-a. de dieren gedurende de bedoelde periode in quarantaine houdt, en  
-
-b. zorg draagt dat bezoekers de stal waar die dieren worden gehouden, niet kunnen betreden.     
-3.  Indien het niet mogelijk is de dieren afgezonderd te houden van het publiek als bedoeld in het tweede lid, voert de houder de dieren af naar een locatie, niet zijnde een locatie als bedoeld in artikel 5.1.15.   
-4.  Het tweede lid, onderdeel b, is niet van toepassing op het toelaten van personen voor wie het met het oog op de uitoefening van beroep of bedrijf noodzakelijk is de plaats te betreden.   
-5.  Het eerste, tweede, en vierde lid zijn van overeenkomstige toepassing op de lammeren die in quarantaine geboren zijn.   
+Het is verboden schapen of geiten te houden op locaties met een publieksfunctie, tenzij alle schapen of geiten op de locatie zijn gevaccineerd overeenkomstig § 5.2.  
 
 ### Artikel  5.1.17  
 
-De houder houdt een administratie bij van: 
-
-a. de datum waarop een dier als bedoeld in artikel 5.1.16, eerste lid, is gedekt of geïnsemineerd;  
-
-b. de datum waarop een lam of lammeren van een dier als bedoeld in artikel 5.1.16, eerste lid, is geboren.    
+Het is verboden schapen of geiten aan te voeren op een locatie met een publieksfunctie, evenement, tentoonstelling of keuring, tenzij de schapen of geiten zijn gevaccineerd overeenkomstig § 5.2.  
 
 ### Artikel  5.1.18  
 
-Dieren die zijn afgevoerd op basis van artikel 5.1.16, derde lid, worden twee weken na aflammeren slechts opnieuw aangevoerd op een locatie als bedoeld in artikel 5.1.15, indien op de locatie waarnaar die geiten of schapen zijn afgevoerd, geen andere geiten of schapen worden gehouden.  
+Het is verboden schapen of geiten bijeen te brengen op evenementen, tentoonstellingen en keuringen, tenzij de schapen of geiten zijn gevaccineerd overeenkomstig § 5.2.  
+
+### Artikel  5.1.19  
+
+1.  Houders van geiten of schapen houden geiten en schapen die aflammeren volledig afgezonderd van het publiek.   
+2.  Onder het afgezonderd houden van het publiek wordt in ieder geval verstaan dat de houder zorg draagt dat bezoekers de stal waar geiten of schapen aflammeren, niet kunnen betreden.   
+3.  Indien het niet mogelijk is de dieren die aflammeren afgezonderd te houden van het publiek voert de houder de drachtige dieren af naar een locatie, niet zijnde een locatie als bedoeld in artikel 5.1.15, eerste lid.   
+4.  Het tweede lid is niet van toepassing op het toelaten van personen voor wie met het oog op de uitoefening van beroep of bedrijf noodzakelijk is de stal te betreden.   
+
+### Artikel  5.1.20  
+
+De houder houdt een administratie bij van: 
+
+a. de datum waarop een dier als bedoeld in artikel 5.1.19, eerste lid, is gedekt of geïnsemineerd;  
+
+b. de datum waarop een lam of lammeren van een dier als bedoeld in artikel 5.1.19, eerste lid, is geboren.    
 
 ### §  5.2  
 
@@ -453,69 +495,59 @@ Dieren die zijn afgevoerd op basis van artikel 5.1.16, derde lid, worden twee w
 
 ### Artikel  5.2.1  
 
-1.  Van het verbod, gesteld in [artikel 2, eerste lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), wordt vrijstelling verleend voor het toepassen van het diergeneesmiddel ‘Coxevac’ van de firma CEVA SANTE ANIMALE B.V. te Naaldwijk voor het vaccineren van schapen tegen Q-koorts en met het oog daarop het voorhanden of in voorraad hebben en het afleveren van dit middel onder de voorwaarden, gesteld in de artikelen 5.2.4 tot en met 5.2.6.   
-2.  De vrijstelling, bedoeld in het eerste lid, wordt verleend tot 1 januari 2011.   
+1.  De houder van schapen of geiten op een bedrijf als bedoeld in artikel 5.1.2 en artikel 5.1.5, vierde lid, laat de schapen of geiten elk kalenderjaar voor 1 augustus tegen Q-koorts vaccineren.   
+2.  Het eerste lid is niet van toepassing op: 
+
+a. schapen of geiten die in het eerste levensjaar worden geslacht en geen ander dier dekken dan wel zelf niet gedekt worden;  
+
+b. schapen of geiten jonger dan drie maanden.     
+3.  Onverminderd het eerste lid laat de houder schapen of geiten die nog niet eerder tegen Q-koorts gevaccineerd zijn, vaccineren uiterlijk drie weken voordat deze dieren: 
+
+a. een ander dier dekken dan wel zelf gedekt worden;  
+
+b. geïnsemineerd worden of  
+
+c. naar een ander bedrijf als bedoeld in artikel 5.1.2 en 5.1.5, vierde lid, locatie met een publieksfunctie, evenement, tentoonstelling of keuring afgevoerd worden.     
+4.  Het derde lid is van overeenkomstige toepassing op schapen of geiten die langer dan een jaar geleden voor de in het derde lid, onderdelen a, b, en c, genoemde handelingen gevaccineerd zijn.   
 
 ### Artikel  5.2.2  
 
-Het diergeneesmiddel, bedoeld in artikel 5.2.1, eerste lid, wordt voor de toepassing van deze regeling aangewezen als: 
-
-a. een middel als bedoeld in [artikel 29, eerste lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);  
-
-b. een middel als bedoeld in [artikel 30, vierde lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md).    
+1.  De houder van schapen of geiten op een locatie met een publieksfunctie laat de schapen of geiten uiterlijk voor 1 januari 2012 tegen Q-koorts vaccineren en vervolgens elk jaar voor 1 augustus.   
+2.  Artikel 5.2.1, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  5.2.3  
 
-Van het verbod, in [artikel 3 van het Besluit gebruik sera en entstoffen](../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) wordt vrijstelling verleend voor het overeenkomstig deze regeling vaccineren van schapen en geiten.  
+1.  Een houder van schapen of geiten laat schapen of geiten die ouder zijn dan drie maanden en aangevoerd worden op een evenement, tentoonstelling of keuring uiterlijk drie weken voor die aanvoer tegen Q-koorts vaccineren.   
+2.  In afwijking van het eerste lid voert een houder drachtige schapen of geiten slechts aan op een evenement, tentoonstelling of keuring indien de dieren gevaccineerd zijn uiterlijk drie weken voordat het dier gedekt of geïnsemineerd is.   
+3.  Het tweede lid is van overeenkomstige toepassing op schapen of geiten die samen met hun lammeren op een evenement, tentoonstelling of keuring aangevoerd worden.   
 
 ### Artikel  5.2.4  
 
-1.  De dierenarts past het diergeneesmiddel, bedoeld in artikel 5.2.1, eerste lid, toe overeenkomstig de gebruiksvoorschriften en de instructies van de fabrikant van het middel.   
-2.  Het diergeneesmiddel, bedoeld in artikel 5.2.1, eerste lid, wordt niet toegepast bij drachtige schapen en geiten.   
-
-### §  5.2.1  
-
-####Nadere bepalingen vaccinatie Q-koorts
-
-### Artikel  5.2.5  
-
-1.  Het is verboden schapen of geiten te houden: 
-
-a. op een locatie ten behoeve van de melkproductie;  
-
-b. op een opfokbedrijf, voor zover de dieren worden opgefokt ten behoeve van de melkproductie;  
-
-c. op een locatie met een publieksfunctie, niet zijnde een locatie of bedrijf als bedoeld in de onderdelen a of b.     
-2.  Het eerste lid, aanhef en onderdelen a en b, zijn niet van toepassing indien de schapen of geiten voor 1 augustus van elk jaar zijn gevaccineerd en is voldaan aan de artikelen 5.2.6 en 5.2.8.   
-3.  Het eerste lid, aanhef en onderdeel c, is niet van toepassing indien de schapen of geiten voor 1 januari van elk jaar zijn gevaccineerd en is voldaan aan de artikelen 5.2.6 en 5.2.8.   
-4.  In afwijking van het tweede en derde lid laat een houder schapen of geiten die op grond van artikel 5.2.4 nog niet gevaccineerd mogen worden omdat zij de leeftijd van drie maanden nog niet hadden bereikt, vaccineren: 
-
-a. in ieder geval twee weken voordat het desbetreffende dier een ander dier dekt of zelf gedekt wordt, of  
-
-b. voor 1 januari 2011, maar in ieder geval twee weken voordat het desbetreffende dier een ander dier dekt of zelf gedekt wordt, indien de geiten of schapen op 1 juni 2010 de leeftijd van drie maanden nog niet hadden bereikt.     
-5.  Het vierde lid is eveneens van toepassing op schapen of geiten, geboren na de momenten, bedoeld in het tweede en derde lid, waarvoor de schapen of geiten gevaccineerd moeten zijn.   
-6.  Het eerste tot en met vijfde lid zijn niet van toepassing op schapen of geiten die: 
-
-a. in het eerste levensjaar worden geslacht, en  
-
-b. geen ander dier dekken dan wel zelf niet gedekt worden.     
-
-### Artikel  5.2.6  
-
-1.  De houder van schapen of geiten als bedoeld in artikel 5.2.5 die nog niet eerder tegen Q-koorts zijn gevaccineerd laat die dieren vaccineren door middel van een eerste en tweede vaccinatie met een tussenpoos van ten minste drie weken.   
-2.  De houder van schapen of geiten als bedoeld in artikel 5.2.5 die al tegen Q-koorts zijn gevaccineerd laat die dieren, vaccineren door middel van een enkele herhalingsvaccinatie.   
-
-### Artikel  5.2.8  
-
-1.  De houder van schapen of geiten als bedoeld in artikel 5.2.5 houdt een administratie bij van de uitgevoerde vaccinaties.   
-2.  In de administratie, bedoeld in het eerste lid, wordt in elk geval opgenomen: 
+1.  De houder als bedoeld in de artikelen 5.2.1 tot en met 5.2.3 houdt een administratie bij van de uitgevoerde vaccinaties.   
+2.  In de administratie wordt in elk geval opgenomen: 
 
 a. het bij het vaccin geleverde formulier en  
 
 b. de factuur van de dierenarts voor het uitvoeren van de vaccinatie.     
-3.  Het formulier, bedoeld in het tweede lid, onderdeel a, wordt ondertekend door de dierenarts, die de vaccinatie, bedoeld in artikel 5.2.4 heeft uitgevoerd, en door de houder, bedoeld in het eerste lid.   
-4.  Een houder van schapen of geiten als bedoeld in artikel 5.2.5, eerste lid, doet na iedere uitgevoerde vaccinatie een kennisgeving overeenkomstig [artikel 38ea van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md).   
+3.  Het formulier, bedoeld in het tweede lid, onderdeel a, wordt ondertekend door de dierenarts die de vaccinatie heeft uitgevoerd en door de houder, bedoeld in het eerste lid.   
+4.  De houder, bedoeld in het eerste lid, doet na iedere uitgevoerde vaccinatie een kennisgeving overeenkomstig [artikel 38ea van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md).   
 5.  De administratie, bedoeld in het eerste lid, wordt gedurende twee jaar bewaard.   
+
+### Artikel  5.2.5  
+
+Van het verbod, gesteld in [artikel 2, eerste lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), wordt vrijstelling verleend voor het met inachtneming van de artikelen 5.2.7 en 5.2.8 en de bijsluiter toepassen van het diergeneesmiddel ‘Coxevac’ van de firma CEVA SANTE ANIMALE B.V. te Naaldwijk voor het vaccineren van schapen tegen Q-koorts en met het oog daarop het voorhanden of in voorraad hebben en het afleveren van dit middel.  
+
+### Artikel  5.2.6  
+
+Van het verbod in artikel 3 van het Besluit gebruik sera en entstoffen wordt vrijstelling verleend voor het overeenkomstig deze paragraaf vaccineren van schapen en geiten.  
+
+### Artikel  5.2.7  
+
+Het diergeneesmiddel, genoemd in artikel 5.2.5, wordt niet toegepast bij drachtige schapen of geiten.  
+
+### Artikel  5.2.8  
+
+Schapen of geiten die al eerder overeenkomstig deze paragraaf zijn gevaccineerd worden gevaccineerd door middel van een enkele herhalingsvaccinatie, mits de hervaccinatie plaatsvindt binnen een jaar na de vorige vaccinatie.  
 
 ### §  6  
 
@@ -580,4 +612,84 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg   
+G.Verburg  
+
+### Bijlage  I  
+
+####Beperkingsgebied in verband met LPAI Zuidwolde
+
+1. De artikelen 2.1.3 tot en met 2.1.9 zijn op dit gebied van toepassing.  
+
+2. Het gebied is als volgt begrensd: 
+
+1. Vanaf de kruising van de Stapelerveldweg en Fort, Fort volgend in zuidoostelijke richting tot aan de Meeuwenweg.  
+
+2. Meeuwenweg volgend in zuidelijke richting tot aan het bospad van de Takkenhoogte.  
+
+3. Bospad van de Takkenhoogte volgend in westelijke richting tot aan Nieuwe Dijk.  
+
+4. Nieuwe Dijk volgend in noordelijke richting tot aan Pieperij.  
+
+5. Pieperij volgend in westelijke richting tot aan de provinciegrens tussen Overijssel en Drenthe (rivier de Reest).  
+
+6. Provinciegrens tussen Overijssel en Drenthe (rivier de Reest) volgend in noordwestelijke richting tot aan Lutten Oever.  
+
+7. Lutten Oever volgend in noordelijke richting tot aan Stapelerweg.  
+
+8. Stapelerweg volgend in noordelijke richting tot aan Stapelerveldweg.  
+
+9. Stapelerveldweg volgend in oostelijke richting tot aan Fort.     
+
+### Bijlage  II  
+
+####Beperkingsgebied in verband met LPAI Leudal (Kelpen Oler)
+
+1. De artikelen 2.1.3 tot en met 2.1.9 zijn op dit gebied van toepassing.  
+
+2. Het gebied is als volgt begrensd: 
+
+1. Vanaf N280 via Mildert in noordelijke / oostelijkerichting overgaand in Kolenhofweg tot aan Kelperweg.  
+
+2. Kelperweg volgen in noordelijke richting tot aan Deckersstraat.  
+
+3. Deckersstraat in oostelijke richting volgen tot aan Dorpsstraat.  
+
+4. Dorpstraat volgen in oostelijke richting overgaand Leveroyseweg tot aan Roorstraat.  
+
+5. Roorstraat in zuidelijke richting volgen tot aan Arenbos.  
+
+6. Arenbos in oostelijke richting overgaand in Belenbroeklaan volgend tot aan Kouk.  
+
+7. Kouk volgen in zuidwestelijke richting overgaand in op de Bos overgaand in Stationstraat.  
+
+8. Stationstraat volgen in zuidelijke richting overgaand in Dorpsstraat.  
+
+9. Dorpsstraat volgen tot aan rijksweg in noordelijke richting volgend tot aan Kasteelweg.  
+
+10. Kasteelweg volgend in xuidwestelijke richting overgaand in Baexemerweg.  
+
+11. Baexemerweg volgend in zuidwestelijke richting overgaand in Markt.  
+
+12. Markt volgen tot aan Brugstraat in zuidelijke richting volgen tot aan Napoleonseweg zuid.  
+
+13. Napoleonseweg zuid volgen in westelijke richting tot aan E25.  
+
+14. E25 volgen in noordelijke via Parellelweg richting tot aan Beekstraat.  
+
+15. Beekstraat volgen in westelijke richting tot aan Kallerstraat.  
+
+16. Kallerstraat volgen in noordelijke richting overgaand in Weverstraat.  
+
+17. Weversstraat overgaand in Hoogstraat volgen in noordelijke richting tot aan Niesstraat.  
+
+18. Niesstraat volgen in noordelijke richting tot aan Swartboekstraat .  
+
+19. Swartbroekstraat overgaand in ittervoortseweg ot aan Hunnestraatje.  
+
+20. Hunnestraatje volgend in noordoostelijke richting volgend tot aan Molenbrugweg.  
+
+21. Molenbrugweg volgen in Noordelijke richting tot aan N280 (Roermondseweg).  
+
+22. N280 volgen in oostelijke richting tot aan kanaalweg.  
+
+23. Kanaalweg volgen in noordelijke richting overgaand in Mildert.     

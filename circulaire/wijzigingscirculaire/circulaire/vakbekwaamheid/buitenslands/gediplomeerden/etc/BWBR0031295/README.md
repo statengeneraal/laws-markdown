@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wijzigingscirculaire Circulaire Vakbekwaamheid buitenslands gediplomeerden volksgezondheid (invoering van geclausuleerde inschrijving in het BIG-register in het belang van land van herkomst voor Surinaamse artsen)
+## Wijzigingscirculaire Circulaire Vakbekwaamheid buitenslands gediplomeerden volksgezondheid (invoering van geclausuleerde inschrijving in het BIG-register in het belang van land van herkomst voor Surinaamse artsen)
 
 ### §  1  
 
@@ -11,7 +11,7 @@ In de [Circulaire Vakbekwaamheid buitenslands gediplomeerden volksgezondheid](..
 
 ####Aanpassing [punt 5.5 van Circulaire 2010](../../../../../../../../circulaire/circulaire/vakbekwaamheid/buitenslands/gediplomeerden/volksgezondheid/BWBR0027468/README.md)
 
-Wijzigt de Circulaire Vakbekwaamheid buitenslands gediplomeerden volksgezondheid.     
+Wijzigt de Circulaire Vakbekwaamheid buitenslands gediplomeerden volksgezondheid.    
 ### §  3  
 
 ####Slotbepaling
@@ -19,6 +19,6 @@ Wijzigt de Circulaire Vakbekwaamheid buitenslands gediplomeerden volksgezondheid
 De onderhavige circulaire treedt in werking op de eerste dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze circulaire en de [Circulaire 2010](../../../../../../../../circulaire/circulaire/vakbekwaamheid/buitenslands/gediplomeerden/volksgezondheid/BWBR0027468/README.md) hebben vanaf dat moment een geldigheidsduur van vijf jaar.     
 
 De 
-minister van Volksgezondheid, Welzijn en Sport,voor deze:
-De directeur van het CIBG,
-G.J.M.W.Arkesteijn   
+minister van Volksgezondheid, Welzijn en Sport, voor deze: 
+De directeur van het CIBG, 
+G.J.M.W. Arkesteijn     
