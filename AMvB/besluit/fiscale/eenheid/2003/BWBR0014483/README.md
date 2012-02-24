@@ -211,9 +211,9 @@ Indien tot het vermogen van een ontvoegde dochtermaatschappij een immaterieel ac
 2.  De verrekening als bedoeld in [artikel 15ae van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van voorvoegingsverliezen van de splitsende dochtermaatschappij met de belastbare winst van de fiscale eenheid en de verrekening van een verlies van de fiscale eenheid met de voor het voegingstijdstip van de splitsende dochtermaatschappij genoten belastbare winst van die dochtermaatschappij, vindt plaats alsof er geen splitsing heeft plaatsgevonden.   
 3.  Bij ontvoeging van een verkrijgende rechtspersoon kunnen voorvoegingsverliezen van de gesplitste dochtermaatschappij en fiscale eenheidsverliezen welke toerekenbaar zijn aan de gesplitste dochtermaatschappij op verzoek van de verkrijgende rechtspersoon en de moedermaatschappij en onder nader door de inspecteur te stellen voorwaarden worden meegegeven met de verkrijgende rechtspersoon voor zover deze de activiteiten van de gesplitste dochtermaatschappij heeft voortgezet. De in de eerste volzin bedoelde voorwaarden mogen slechts strekken ter verzekering van de heffing en de invordering van belasting welke verschuldigd zou zijn of zou worden indien geen ontvoeging van de verkrijgende rechtspersoon had plaatsgevonden.   
 4.  De verkrijgende rechtspersonen treden met betrekking tot al hetgeen in het kader van de splitsing is verkregen in de plaats van de splitsende dochtermaatschappij.   
-5.  Voor de toepassing van een regeling ter voorkoming van dubbele belasting, vindt de overbrenging van buitenlandse winsten en verliezen en van vanwege een andere Mogendheid geheven belasting van de gesplitste dochtermaatschappij van voor het tijdstip van splitsing, plaats alsof de splitsing niet heeft plaatsgevonden   
-6.  De overbrenging van deelnemingsverrekening van de gesplitste dochtermaatschappij van voor het tijdstip van splitsing, vindt plaats alsof de splitsing niet heeft plaatsgevonden.   
-7.  Aftrekbeperkingen uit hoofde van [artikel 15ab, tweede lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) blijven doorlopen alsof de splitsing niet heeft plaatsgevonden.   
+5.  Voor de toepassing van een regeling ter voorkoming van dubbele belasting, vindt de overbrenging van vanwege een andere Mogendheid geheven belasting van de gesplitste dochtermaatschappij van voor het tijdstip van splitsing, plaats alsof de splitsing niet heeft plaatsgevonden   
+6.  De overbrenging van deelnemingsverrekening of verrekening bij buitenlandse ondernemingswinsten van de gesplitste dochtermaatschappij van voor het tijdstip van splitsing, vindt plaats alsof de splitsing niet heeft plaatsgevonden.   
+7.  Aftrekbeperkingen uit hoofde van de artikelen 15ab, tweede lid, of 15ad van de wet blijven doorlopen alsof de splitsing niet heeft plaatsgevonden.   
 8.  Het verzoek bedoeld in het eerste lid wordt gedaan uiterlijk bij de aangifte over het boekjaar waarin de splitsing heeft plaatsgevonden.   
 9.  Met betrekking tot een verzoek als bedoeld in het derde lid is [artikel 15af, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van overeenkomstige toepassing.   
 
@@ -225,9 +225,9 @@ Indien tot het vermogen van een ontvoegde dochtermaatschappij een immaterieel ac
 2.  De verrekening als bedoeld in [artikel 15ae van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van voorvoegingsverliezen van de verdwijnende dochtermaatschappij met de belastbare winst van de fiscale eenheid en de verrekening van een verlies van de fiscale eenheid met de voor het voegingstijdstip van de verdwijnende dochtermaatschappij genoten belastbare winst van die dochtermaatschappij, vindt plaats alsof er geen fusie heeft plaatsgevonden.   
 3.  Bij ontvoeging van de verkrijgende rechtspersoon kunnen voorvoegingsverliezen van de verdwenen dochtermaatschappij en fiscale eenheidsverliezen welke toerekenbaar zijn aan de verdwenen dochtermaatschappij op verzoek van de verkrijgende rechtspersoon en onder nader door de inspecteur te stellen voorwaarden worden meegegeven met de verkrijgende rechtspersoon voor zover deze de activiteiten van de verdwenen dochtermaatschappij heeft voortgezet. De in de eerste volzin bedoelde voorwaarden mogen slechts strekken ter verzekering van de heffing en de invordering van belasting welke verschuldigd zou zijn of zou worden indien geen ontvoeging van de verkrijgende rechtspersoon had plaatsgevonden.   
 4.  De verkrijgende rechtspersoon treedt met betrekking tot al hetgeen in het kader van de fusie is verkregen in de plaats van een verdwijnende dochtermaatschappij.   
-5.  Voor de toepassing van een regeling ter voorkoming van dubbele belasting, vindt de overbrenging van buitenlandse winsten en verliezen en van vanwege een andere Mogendheid geheven belasting van de verdwenen dochtermaatschappij van voor het tijdstip van fusie, plaats alsof de fusie niet heeft plaatsgevonden   
-6.  De overbrenging van deelnemingsverrekening van de verdwenen dochtermaatschappij van voor het tijdstip van fusie, vindt plaats alsof de fusie niet heeft plaatsgevonden.   
-7.  Aftrekbeperkingen uit hoofde van [artikel 15ab, tweede lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) blijven doorlopen alsof de fusie niet heeft plaatsgevonden.   
+5.  Voor de toepassing van een regeling ter voorkoming van dubbele belasting, vindt de overbrenging van vanwege een andere Mogendheid geheven belasting van de verdwenen dochtermaatschappij van voor het tijdstip van fusie, plaats alsof de fusie niet heeft plaatsgevonden   
+6.  De overbrenging van deelnemingsverrekening of verrekening bij buitenlandse ondernemingswinsten van de verdwenen dochtermaatschappij van voor het tijdstip van fusie, vindt plaats alsof de fusie niet heeft plaatsgevonden.   
+7.  Aftrekbeperkingen uit hoofde van de [artikelen 15ab, tweede lid](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), of [15ad van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) blijven doorlopen alsof de fusie niet heeft plaatsgevonden.   
 8.  Het verzoek bedoeld in het eerste lid wordt gedaan uiterlijk bij de aangifte over het boekjaar waarin de fusie heeft plaatsgevonden.   
 9.  Met betrekking tot een verzoek als bedoeld het derde lid is [artikel 15af, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van overeenkomstige toepassing.   
 
@@ -298,7 +298,7 @@ a. voor het bepalen van de limiet van [artikel 9, eerste lid, onderdeel b, van h
 
 b. voor het bepalen van de limiet van [artikel 9, eerste lid, onderdeel c, van het besluit verzekeraars 2001](../../../../../../AMvB/besluit/winstbepaling/en/reserves/verzekeraars/2001/BWBR0012096/README.md), als het belastbare bedrag of belastbare binnenlandse bedrag geldt het zodanige bedrag van de fiscale eenheid;  
 
-c. voor de berekening van de voor opneming in de egalisatiereserve beschikbare over het jaar genoten winst de belasting wordt gesteld op 35 percent van de op voet van [artikel 15ah van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) aan de verzekeraar toe te rekenen winst van de fiscale eenheid.    
+c. voor de berekening van de voor opneming in de egalisatiereserve beschikbare over het jaar genoten winst de belasting wordt gesteld op H percent van de op de voet van [artikel 15ah van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) aan de verzekeraar toe te rekenen winst van de fiscale eenheid, waarbij H staat voor het percentage van het hoogste tarief, bedoeld in [artikel 22 van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).    
 
 ### Afdeling  3  
 
@@ -476,12 +476,11 @@ Rechtsverhoudingen tussen een dochtermaatschappij van een fiscale eenheid en het
 
 1.  Met betrekking tot de deelneming van een maatschappij in een buitenlandse belastingplichtige die als dochtermaatschappij deel gaat uitmaken van een fiscale eenheid met die maatschappij, blijft voor het gehele belang sprake van een deelneming waarop de regelingen inzake de deelnemingsvrijstelling, uitsluitingen van de deelnemingsvrijstelling en alle regelingen die daarmee verband houden onverminderd van toepassing zijn als ware er geen fiscale eenheid.   
 2.  Onverminderd het eerste lid is [artikel 15 van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) onverkort van toepassing met betrekking tot schuldverhoudingen tussen een buitenlands belastingplichtige maatschappij en een andere maatschappij die deel uitmaakt van dezelfde fiscale eenheid.   
-3.  Onverminderd het eerste lid, is [artikel 13c, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van overeenkomstige toepassing op een deelneming als bedoeld in het eerste lid.   
-4.  Het opgeofferde bedrag voor een deelneming als bedoeld in het eerste lid, wordt slechts in aanmerking genomen voorzover de belastingplichtige aannemelijk maakt dat dit bedrag in absolute zin uitgaat boven de aan de buitenlands belastingplichtige dochtermaatschappij sinds de voeging toe te rekenen winst van de fiscale eenheid, indien die per saldo uitkomt op een negatief bedrag.   
-5.  [Artikel 13d, achtste lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), is niet van toepassing bij de ontvoeging van een deelneming als bedoeld in het eerste lid. Een beperking van het in aanmerking nemen van het opgeofferde bedrag op de voet van het vierde lid blijft onverminderd van toepassing na de ontvoeging van die deelneming.   
-6.  Voor de toepassing van [artikel 13d van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) met betrekking tot een deelneming als bedoeld in het eerste lid of een deelneming die voorheen kwalificeerde als een deelneming als bedoeld in het eerste lid, wordt de in de jaren, [bedoeld in artikel 13d, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) aan de buitenlands belastingplichtige dochtermaatschappij toe te rekenen winst van de fiscale eenheid geacht mede als positief voordeel uit hoofde van de deelneming te zijn genoten, indien deze winst per saldo uitkomt op een positief bedrag. De vorige volzin is niet van toepassing voorzover de belastingplichtige aannemelijk maakt dat hij deze winst niet feitelijk op enigerlei wijze direct of indirect als positief voordeel uit hoofde van de deelneming heeft genoten in de jaren, bedoeld in [artikel 13d, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
-7.  Bij de toepassing van het vierde en zesde lid is [artikel 15ah van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van overeenkomstige toepassing.   
-8.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de vaststelling van het opgeofferde bedrag en de positieve voordelen met betrekking tot een deelneming als bedoeld in het eerste lid indien meer dan één maatschappij een belang in die buitenlandse belastingplichtige heeft of indien het belang van een maatschappij in die buitenlandse belastingplichtige gedurende het bestaan van de fiscale eenheid is overgegaan op een andere maatschappij.   
+3.  Het opgeofferde bedrag voor een deelneming als bedoeld in het eerste lid, wordt slechts in aanmerking genomen voorzover de belastingplichtige aannemelijk maakt dat dit bedrag in absolute zin uitgaat boven de aan de buitenlands belastingplichtige dochtermaatschappij sinds de voeging toe te rekenen winst van de fiscale eenheid, indien die per saldo uitkomt op een negatief bedrag.   
+4.  [Artikel 13d, achtste lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), is niet van toepassing bij de ontvoeging van een deelneming als bedoeld in het eerste lid. Een beperking van het in aanmerking nemen van het opgeofferde bedrag op de voet van het derde lid blijft onverminderd van toepassing na de ontvoeging van die deelneming.   
+5.  Voor de toepassing van [artikel 13d van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) met betrekking tot een deelneming als bedoeld in het eerste lid of een deelneming die voorheen kwalificeerde als een deelneming als bedoeld in het eerste lid, wordt de in de jaren, [bedoeld in artikel 13d, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) aan de buitenlands belastingplichtige dochtermaatschappij toe te rekenen winst van de fiscale eenheid geacht mede als positief voordeel uit hoofde van de deelneming te zijn genoten, indien deze winst per saldo uitkomt op een positief bedrag. De vorige volzin is niet van toepassing voorzover de belastingplichtige aannemelijk maakt dat hij deze winst niet feitelijk op enigerlei wijze direct of indirect als positief voordeel uit hoofde van de deelneming heeft genoten in de jaren, bedoeld in [artikel 13d, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+6.  Bij de toepassing van het derde en vijfde lid is [artikel 15ah van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van overeenkomstige toepassing.   
+7.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de vaststelling van het opgeofferde bedrag en de positieve voordelen met betrekking tot een deelneming als bedoeld in het eerste lid indien meer dan één maatschappij een belang in die buitenlandse belastingplichtige heeft of indien het belang van een maatschappij in die buitenlandse belastingplichtige gedurende het bestaan van de fiscale eenheid is overgegaan op een andere maatschappij.   
 
 ### Artikel  36  
 
@@ -501,12 +500,6 @@ Rechtsverhoudingen tussen een dochtermaatschappij van een fiscale eenheid en het
 1.  Bij voeging van een buitenlandse belastingplichtige als dochtermaatschappij is [artikel 15ab, eerste lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) niet van toepassing op het belang in die buitenlandse belastingplichtige.   
 2.  Bij ontvoeging van een buitenlands belastingplichtige dochtermaatschappij is [artikel 15aj, zesde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) niet van toepassing op het belang in die buitenlandse belastingplichtige.   
 
-### Artikel  38  
-
-####Reserve financieringsactiviteiten
-
-Voor de toepassing van [artikel 15b, vijfde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) wordt niet als kapitaalstorting beschouwd een directe of indirecte kapitaalstorting of verwerving van aandelen in een buitenlandse belastingplichtige die als dochtermaatschappij deel uitmaakt van een fiscale eenheid, voor zover die kapitaalstorting of verwerving betrekking heeft op werkzaamheden en vermogen van die buitenlandse belastingplichtige die ingevolge artikel 34, tweede lid, deel uitmaken van de werkzaamheden en het vermogen van de moedermaatschappij van die fiscale eenheid.  
-
 ### Afdeling  4  
 
 ####Voortzetting fiscale eenheid bij zetelverplaatsing
@@ -516,7 +509,7 @@ Voor de toepassing van [artikel 15b, vijfde lid, van de wet](../../../../../../w
 ####Zetelverplaatsing naar Nederland
 
 1.  Indien de fiscale eenheid met een buitenlandse belastingplichtige eindigt omdat die belastingplichtige de plaats van werkelijke leiding verplaatst naar Nederland en direct aansluitend aan het ontvoegingstijdstip een nieuwe fiscale eenheid tot stand komt, wordt er voor de toepassing van de [artikelen 15ae](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [15af](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [15ag](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [15ai](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [15aj, eerste lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) geacht geen ontvoeging te hebben plaatsgevonden.   
-2.  De aansluitende fiscale eenheid treedt voor de toepassing van de [artikelen 15ai](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [20, tweede lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) in de plaats van de voorafgaande fiscale eenheid.   
+2.  De aansluitende fiscale eenheid treedt voor de toepassing van de [artikelen 15ad](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [15ai](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [20, tweede lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) in de plaats van de voorafgaande fiscale eenheid.   
 
 ### Artikel  40  
 
@@ -524,68 +517,27 @@ Voor de toepassing van [artikel 15b, vijfde lid, van de wet](../../../../../../w
 
 1.  Indien de fiscale eenheid met een binnenlandse belastingplichtige eindigt omdat die belastingplichtige de plaats van werkelijke leiding verplaatst naar het buitenland met achterlating in Nederland van een vaste inrichting en direct aansluitend aan het ontvoegingstijdstip een nieuwe fiscale eenheid tot stand komt, wordt er voor de toepassing van de [artikelen 15ae](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [15af](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [15ag van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) geacht geen ontvoeging te hebben plaatsgevonden. Voorts blijft [artikel 15ai van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) buiten toepassing, behoudens voorzover het vermogensbestanddelen betreft die zijn overgedragen door een onderdeel van de belastingplichtige dat als gevolg van de verplaatsing van de plaats van de werkelijke leiding geen deel meer uitmaakt van de fiscale eenheid.   
 2.  Bij een voortzetting van de fiscale eenheid op de voet van het eerste lid, wordt er voor de toepassing van [artikel 15aj, eerste lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) geacht geen ontvoeging te hebben plaatsgevonden, behoudens voor zover de herinvesteringsreserve is gevormd door onderscheidenlijk het voornemen tot herinvestering uitsluitend bestond bij een onderdeel van de belastingplichtige dat als gevolg van de verplaatsing van de plaats van werkelijke leiding geen deel meer uitmaakt van de fiscale eenheid.   
-3.  De aansluitende fiscale eenheid treedt voor de toepassing van de [artikelen 15ai](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [20, tweede lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) in de plaats van de voorafgaande fiscale eenheid. Bij de toepassing van [artikel 15ai van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) geldt de in de plaats treding niet voorzover afrekening op grond van het eerste lid of [artikel 15c van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) heeft plaatsgevonden.   
+3.  De aansluitende fiscale eenheid treedt voor de toepassing van de [artikelen 15ad](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [15ai](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [20, tweede lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) in de plaats van de voorafgaande fiscale eenheid. Bij de toepassing van artikel 15ai van de wet geldt de in de plaats treding niet voorzover afrekening op grond van het eerste lid of [artikel 15c van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) heeft plaatsgevonden.   
 
 ### Hoofdstuk  VIII  
 
 ####Voorkoming dubbele belasting
 
-### Afdeling  1  
-
-####Algemene bepalingen
-
-### Artikel  41  
-
-####Definitie
-
-Voor de toepassing van dit hoofdstuk wordt onder buitenlandse winst verstaan: winst die ingevolge een regeling ter voorkoming van dubbele belasting is vrijgesteld van vennootschapsbelasting.  
-
 ### Artikel  42  
 
-####Delegatiebevoegdheid inzake voorrangsregeling buitenlandse resultaten
+####Delegatiebevoegdheid inzake voorrangsregeling buitenlandse bronbelasting
 
 Bij ministeriële regeling worden nadere regels gesteld over de toedeling van de winst van een fiscale eenheid en te verrekenen buitenlandse belasting in het kader van het verlenen van verminderingen ter voorkoming van dubbele belasting in situaties waarin dit hoofdstuk van toepassing is.  
-
-### Afdeling  2  
-
-####Buitenlandse resultaten van vóór het voegingstijdstip
-
-### Artikel  43  
-
-####Doorgeschoven en in te halen buitenlandse winst van vóór het voegingstijdstip
-
-1.  Indien ingevolge een regeling ter voorkoming van dubbele belasting een positieve of negatieve buitenlandse winst van een maatschappij wordt overgebracht naar het jaar waarin de fiscale eenheid ten aanzien van die maatschappij tot stand komt, wordt in dat jaar bij het berekenen op de voet van [artikel 15ac, vierde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van de vermindering ter voorkoming van dubbele belasting: 
-
-a. die positieve buitenlandse winst in aanmerking genomen voorzover het belastbare bedrag van de fiscale eenheid aan die maatschappij is toe te rekenen, onderscheidenlijk  
-
-b. die negatieve buitenlandse winst in aanmerking genomen voorzover de buitenlandse winst van de fiscale eenheid, na verrekening volgens de daarvoor geldende regels met verliezen uit andere jaren, aan die maatschappij is toe te rekenen.     
-2.  Voor de toepassing van het eerste lid wordt buitenlandse winst die wordt behaald met een vermogensbestanddeel dat binnen de fiscale eenheid is overgedragen, toegerekend aan de maatschappij van wier vermogen dat vermogensbestanddeel op het voegingstijdstip deel uitmaakte. De eerste volzin is van overeenkomstige toepassing met betrekking tot buitenlandse winst die wordt behaald met een onderneming die, of een gedeelte van een onderneming dat, wordt gedreven met behulp van een vaste vertegenwoordiger.   
-3.  [Artikel 15ah van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en artikel 12 van dit besluit zijn van overeenkomstige toepassing.   
-4.  Voorzover een in de aanhef van het eerste lid bedoeld bedrag aan winst ingevolge het bepaalde in onderdeel a of b van dat lid niet in aanmerking is genomen in een jaar, of ingevolge de regelingen ter voorkoming van dubbele belasting niet tot een vermindering van belasting over een jaar heeft geleid, wordt het volgens de daarvoor geldende regelingen telkens overgebracht naar het volgende jaar en met inachtneming van dit artikel in aanmerking genomen.   
 
 ### Artikel  44  
 
 ####Voortgewentelde buitenlandse bronbelasting van vóór het voegingstijdstip
 
-1.  Indien ingevolge een regeling ter voorkoming van dubbele belasting een vanwege een andere mogendheid van een maatschappij geheven belasting – een andere belasting dan bedoeld in artikel 45 – ter verrekening wordt voortgewenteld naar het jaar waarin de fiscale eenheid ten aanzien van die maatschappij tot stand komt, wordt in dat jaar bij het berekenen op de voet van [artikel 15ac, vierde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van de vermindering ter voorkoming van dubbele belasting, die belasting in aanmerking genomen tot ten hoogste het volgens het tweede lid te bepalen bedrag.   
-2.  Van de ter verrekening voortgewentelde belasting wordt ten hoogste in aanmerking genomen het bedrag dat tot de belasting die over de winst van de fiscale eenheid zou zijn verschuldigd zonder de voortwenteling in dezelfde verhouding staat als het bedrag van de bij de verrekening van in dat jaar vanwege een andere Mogendheid geheven belasting, anders dan bedoeld in artikel 45, in aanmerking te nemen inkomsten, verminderd met de daarop drukkende kosten, die zijn begrepen in, en ten hoogste tot het bedrag van, het aan die maatschappij toe te rekenen belastbare bedrag van de fiscale eenheid, staat tot het belastbare bedrag van de fiscale eenheid.   
+1.  Indien ingevolge een regeling ter voorkoming van dubbele belasting een vanwege een andere mogendheid van een maatschappij geheven belasting ter verrekening wordt voortgewenteld naar het jaar waarin de fiscale eenheid ten aanzien van die maatschappij tot stand komt, wordt in dat jaar bij het berekenen op de voet van [artikel 15ac, vierde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van de vermindering ter voorkoming van dubbele belasting, die belasting in aanmerking genomen tot ten hoogste het volgens het tweede lid te bepalen bedrag.   
+2.  Van de ter verrekening voortgewentelde belasting wordt ten hoogste in aanmerking genomen het bedrag dat tot de belasting die over de winst van de fiscale eenheid zou zijn verschuldigd zonder de voortwenteling in dezelfde verhouding staat als het bedrag van de bij de verrekening van in dat jaar vanwege een andere Mogendheid geheven belasting in aanmerking te nemen inkomsten, verminderd met de daarop drukkende kosten, die zijn begrepen in, en ten hoogste tot het bedrag van, het aan die maatschappij toe te rekenen belastbare bedrag van de fiscale eenheid, staat tot het belastbare bedrag van de fiscale eenheid.   
 3.  [Artikel 15ah van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en artikel 12 van dit besluit zijn van overeenkomstige toepassing.   
 4.  Voor de toepassing van het tweede lid worden vermogensbestanddelen uit hoofde waarvan inkomsten als bedoeld in het eerste lid worden ontvangen, die binnen de fiscale eenheid zijn overgedragen, toegerekend aan de maatschappij van wier vermogen die vermogensbestanddelen op het voegingstijdstip deel uitmaakten.   
 5.  Voorzover een in het eerste lid bedoeld bedrag aan voortgewentelde belasting op grond van dat lid in combinatie met het tweede lid niet in aanmerking is genomen, of ingevolge de regelingen ter voorkoming van dubbele belasting niet tot een vermindering van belasting heeft geleid, wordt het volgens de daarvoor geldende regelingen telkens overgebracht naar het volgende jaar en met inachtneming van dit artikel in aanmerking genomen.   
-
-### Artikel  45  
-
-####Voortgewentelde belasting bij passieve winst uit buitenlandse onderneming van vóór het voegingstijdstip
-
-1.  Indien ingevolge een regeling ter voorkoming van dubbele belasting een aanspraak van een maatschappij op vermindering van vennootschapsbelasting ter zake van vanwege een andere mogendheid geheven belasting over winst behaald met een onderneming als bedoeld in [artikel 32, vijfde lid, van het Besluit voorkoming dubbele belasting 2001](../../../../../../AMvB/besluit/voorkoming/dubbele/belasting/2001/BWBR0012095/README.md) (passieve winst uit buitenlandse onderneming) wordt voortgewenteld naar het jaar waarin de fiscale eenheid ten aanzien van die maatschappij tot stand komt, wordt in dat jaar bij het berekenen op de voet van [artikel 15ac, vierde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van de vermindering ter voorkoming van dubbele belasting, het bedrag van die aanspraak in aanmerking genomen tot ten hoogste het bedrag dat tot de belasting die over de winst van de fiscale eenheid zou zijn verschuldigd zonder de voortwenteling in dezelfde verhouding staat als het gezamenlijke bedrag van de passieve winst uit buitenlandse onderneming die is begrepen in, en ten hoogste tot het bedrag van, het aan die maatschappij toe te rekenen belastbare bedrag van de fiscale eenheid, staat tot het belastbare bedrag van de fiscale eenheid.   
-2.  [Artikel 15ah van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en artikel 12 van dit besluit zijn van overeenkomstige toepassing.   
-3.  Voorzover het bedrag van de in het eerste lid bedoelde voortgewentelde aanspraak op grond van dat lid niet in aanmerking is genomen, of ingevolge de regelingen ter voorkoming van dubbele belasting niet tot een vermindering van belasting heeft geleid, wordt het volgens de daarvoor geldende regelingen telkens overgebracht naar het volgende jaar en met inachtneming van dit artikel in aanmerking genomen.   
-4.  Voor de toepassing van het eerste lid wordt passieve winst uit buitenlandse onderneming die wordt behaald met een onderneming die, of een gedeelte van een onderneming dat wordt gedreven met behulp van een vaste inrichting die binnen de fiscale eenheid is overgedragen, toegerekend aan de maatschappij van wier vermogen die vaste inrichting op het voegingstijdstip deel uitmaakte.   
-5.  Met betrekking tot een ingevolge een regeling ter voorkoming van dubbele belasting over te brengen bedrag aan negatieve passieve winst uit buitenlandse onderneming van een maatschappij naar het jaar waarin de fiscale eenheid ten aanzien van die maatschappij tot stand komt, is artikel 43, eerste lid, onderdeel b, en vierde lid, van overeenkomstige toepassing.   
-
-### Afdeling  3  
-
-####Buitenlandse resultaten van vóór het ontvoegingstijdstip
 
 ### Artikel  46  
 
@@ -603,19 +555,11 @@ b. het winsten in de zin van de aanhef van artikel 43, eerste lid, van deze maat
 
 ####Over het ontvoegingstijdstip voort te wentelen bronbelasting
 
-In geval van ontvoeging van een maatschappij gaan de ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar ter verrekening voort te wentelen bedragen aan vanwege een andere mogendheid geheven belasting – een andere belasting dan bedoeld in artikel 45 – over op die maatschappij voorzover die belasting van die maatschappij is geheven.  
-
-### Artikel  48  
-
-####Over het ontvoegingstijdstip voort te wentelen belasting bij passieve winst uit buitenlandse onderneming
-
-1.  In geval van ontvoeging van een maatschappij gaan de ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar ter verrekening voort te wentelen aanspraken op vermindering van belasting ter zake vanwege een andere mogendheid geheven belasting over passieve winst uit buitenlandse onderneming over op die maatschappij voorzover deze winst is behaald met een op het ontvoegingstijdstip tot het vermogen van die maatschappij behorende onderneming die, of gedeelte van een onderneming dat, met behulp van een vaste inrichting wordt gedreven als bedoeld in [32, vijfde lid, van het Besluit voorkoming dubbele belasting 2001](../../../../../../AMvB/besluit/voorkoming/dubbele/belasting/2001/BWBR0012095/README.md).   
-2.  Het eerste lid is van overeenkomstige toepassing op bedragen aan negatieve passieve winst uit buitenlandse onderneming.   
-3.  [Artikel 15ah van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en artikel 12 van dit besluit zijn van overeenkomstige toepassing.   
+In geval van ontvoeging van een maatschappij gaan de ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar ter verrekening voort te wentelen bedragen aan vanwege een andere mogendheid geheven belasting over op die maatschappij voorzover die belasting van die maatschappij is geheven.  
 
 ### Hoofdstuk  VIIIA  
 
-####Deelnemingsverrekening
+####Deelnemingsverrekening en verrekening bij buitenlandse ondernemingswinsten
 
 ### Artikel  48a  
 
@@ -639,6 +583,25 @@ Bij ministeriële regeling worden nadere regels gesteld over de toedeling van vo
 ####Deelnemingsverrekening na ontvoeging
 
 In geval van ontvoeging van een maatschappij gaat de naar een volgend jaar overgebrachte deelnemingsverrekening over op die maatschappij voor zover deze deelnemingsverrekening betrekking heeft op een periode waarin de aandelen in de laagbelaste beleggingsdeelneming tot het vermogen behoorden van die maatschappij.  
+
+### Artikel  48d  
+
+####Verrekening bij buitenlandse ondernemingswinsten
+
+Bij de toepassing van [artikel 23d van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bij een maatschappij die wordt gevoegd of ontvoegd zijn de artikelen 48a, 48b en 48c van overeenkomstige toepassing. Hierbij wordt voor de overeenkomstige toepassing van artikel 48b, tweede lid, uitgegaan van het gezamenlijke bedrag aan winst uit buitenlandse onderneming waarop ingevolge [artikel 15e, zevende lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) de objectvrijstelling voor buitenlandse ondernemingswinsten geen toepassing vindt.  
+
+### Hoofdstuk  VIIIB  
+
+####Overgangsrecht ten gevolge van wijzigingsbesluiten
+
+### Artikel  48e  
+
+####Overgangsrecht in verband met invoering objectvrijstelling voor buitenlandse ondernemingswinsten per 1 januari 2012
+
+1.  Bij de toepassing van [artikel 33b, vijfde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), blijft artikel 35, derde lid, zoals dat luidde op 31 december 2011, van toepassing.   
+2.  Artikel 46, zoals dat luidde op 31 december 2011, blijft van toepassing voor zover, in geval van ontvoeging van een maatschappij, ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen positieve of negatieve buitenlandse winsten van de fiscale eenheid aanwezig zijn.   
+3.  Artikel 48, zoals dat luidde op 31 december 2011, blijft van toepassing voor zover, in geval van ontvoeging van een maatschappij, ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen negatieve passieve winst uit buitenlandse onderneming aanwezig is.   
+4.  Bij de toepassing van het tweede of derde lid blijft artikel 41, zoals dat luidde op 31 december 2011, van toepassing.   
 
 ### Hoofdstuk  IX  
 

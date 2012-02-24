@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de gemeenschappelijke voordracht van Onze Ministers van Verkeer en Waterstaat en van Sociale Zaken van 11 Juli 1949, No. 195194 Z., Directoraat-Generaal van Scheepvaart;
 
-Gelet op de [artikelen 11, eerste lid](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), en [20, eerste lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) (*Staatsblad* 1947, No. H 420);
+Gelet op de artikelen 11, eerste lid, en 20, eerste lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (*Staatsblad* 1947, No. H 420);
 
 De Raad van State gehoord (advies van 2 Augustus 1949, no. 19);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: "de wet": de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md); «de Sociale verzekeringsbank»: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md); "gepensioneerde": degene, aan wie een buitengewoon pensioen is toegekend; «kortingsinkomen»: het totaal van het inkomen uit werk en woning, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met e, van de Wet IB 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de feitelijke inkomsten uit sparen en beleggen, verminderd met: 
+In dit besluit wordt verstaan onder: "de wet": de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers; «de Sociale verzekeringsbank»: de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen; "gepensioneerde": degene, aan wie een buitengewoon pensioen is toegekend; «kortingsinkomen»: het totaal van het inkomen uit werk en woning, bedoeld in artikel 3.1, tweede lid, onderdelen a tot en met e, van de Wet IB 2001, en de feitelijke inkomsten uit sparen en beleggen, verminderd met: 
 
 a. indien loon wordt genoten het hoogste van de uit de toepassing van de volgende onderdelen voortvloeiende bedragen: 
 
@@ -23,30 +23,30 @@ a. indien loon wordt genoten het hoogste van de uit de toepassing van de volgend
 
 2°. bij loon uit vroegere dienstbetrekking: € 487 per jaar, en    
 
-b. het bedrag van het over het jaar 2000 toegepaste reiskostenforfait tot een maximum van € 939 per jaar,   met dien verstande evenwel, dat, in afwijking van [artikel 2.17 van de Wet IB 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), alle bestanddelen van het inkomen van een gehuwde, niet duurzaam gescheiden van haar man levende vrouw worden aangemerkt als bestanddelen van het inkomen van haar man; "kinderbijslag": kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of enige andere daarmede gelijk te stellen wettelijke regeling buiten het Rijk in Europa.  
+b. het bedrag van het over het jaar 2000 toegepaste reiskostenforfait tot een maximum van € 939 per jaar,   met dien verstande evenwel, dat, in afwijking van artikel 2.17 van de Wet IB 2001, alle bestanddelen van het inkomen van een gehuwde, niet duurzaam gescheiden van haar man levende vrouw worden aangemerkt als bestanddelen van het inkomen van haar man; "kinderbijslag": kinderbijslag ingevolge de Algemene Kinderbijslagwet of enige andere daarmede gelijk te stellen wettelijke regeling buiten het Rijk in Europa.  
 
 ### Artikel  2  
 
-1.  Als het bedrag van de verrekenbare inkomsten, bedoeld in de [artikelen 11, eerste en tweede lid](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), en [20 der wet](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), wordt, behoudens het bepaalde in of krachtens de tweede, derde en vierde volzin van [artikel 11, tweede lid, der wet](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en in de volgende artikelen van dit besluit, aangemerkt het kortingsinkomen vermeerderd met het bedrag van de niet daarin begrepen, door de gepensioneerde of diens niet duurzaam gescheiden van hem levende echtgenoot genoten kinderbijslag, en verminderd met het buitengewoon pensioen en met de in [artikel 11, derde lid, der wet](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) bedoelde uitkeringen, pensioenen en andere inkomsten.   
+1.  Als het bedrag van de verrekenbare inkomsten, bedoeld in de artikelen 11, eerste en tweede lid, en 20 der wet, wordt, behoudens het bepaalde in of krachtens de tweede, derde en vierde volzin van artikel 11, tweede lid, der wet en in de volgende artikelen van dit besluit, aangemerkt het kortingsinkomen vermeerderd met het bedrag van de niet daarin begrepen, door de gepensioneerde of diens niet duurzaam gescheiden van hem levende echtgenoot genoten kinderbijslag, en verminderd met het buitengewoon pensioen en met de in artikel 11, derde lid, der wet bedoelde uitkeringen, pensioenen en andere inkomsten.   
 2.  Voor de toepassing van het bepaalde in het eerste lid worden mede op het kortingsinkomen in mindering gebracht, indien en voor zover daarin begrepen: 
 
 a. inkomsten van kinderen die de leeftijd van eenentwintig jaren nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, welke niet in de pensioengrondslag zijn opgenomen;  
 
-b. een krachtens de [Wet bevordering eigenwoningbezit](../../../../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) verleende eigenwoningbijdrage;  
+b. een krachtens de Wet bevordering eigenwoningbezit verleende eigenwoningbijdrage;  
 
 c. een krachtens enige van overheidswege getroffen maatregel inzake huurtoeslag verleende bijdrage;  
 
 d. een uitkering ineens, bedoeld in artikel 42 van het pensioenreglement van het Bedrijfspensioenfonds voor de Koopvaardij;  
 
-e. een krachtens de [artikelen 7 tot en met 19 van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) verleende uitkering, zomede een toeslag krachtens [artikel 21b van evengenoemde wet](../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md);  
+e. een krachtens de artikelen 7 tot en met 19 van de Wet uitkeringen vervolgingsslachtoffers 1940-1945 verleende uitkering, zomede een toeslag krachtens artikel 21b van evengenoemde wet;  
 
-f. een krachtens de [artikelen 7 tot en met 24 van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) verleende uitkering of toeslag;  
+f. een krachtens de artikelen 7 tot en met 24 van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 verleende uitkering of toeslag;  
 
 g. een door een gemeente verstrekte bijdrage in de kosten ter verbetering van de woning;  
 
-h. de van de Sociale verzekeringsbank krachtens [artikel 4:98 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ontvangen wettelijke rente;  
+h. de van de Sociale verzekeringsbank krachtens artikel 4:98 van de Algemene wet bestuursrecht ontvangen wettelijke rente;  
 
-i. de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](../../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en [artikel 33b van de Algemene Ouderdomswet.](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md)     
+i. de tegemoetkoming, bedoeld in artikel 29a van de Algemene nabestaandenwet en artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen     
 
 ### Artikel  3  
 
@@ -82,7 +82,7 @@ Voor de toepassing van dit besluit worden pensioenen en wachtgelden, welke krach
 
 ### Artikel  11  
 
-Met de contrôle op de in de [artikelen 11](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en [20 der wet](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) bedoelde inkomsten zijn in het bijzonder belast de inspecteurs der belastingen. Zij ontvangen daartoe van de Sociale verzekeringsbank opgave van de gepensioneerden, die in hun inspectie wonen en handelen overigens naar de door Onze Minister van Financiën te geven aanwijzingen.  
+Met de contrôle op de in de artikelen 11 en 20 der wet bedoelde inkomsten zijn in het bijzonder belast de inspecteurs der belastingen. Zij ontvangen daartoe van de Sociale verzekeringsbank opgave van de gepensioneerden, die in hun inspectie wonen en handelen overigens naar de door Onze Minister van Financiën te geven aanwijzingen.  
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

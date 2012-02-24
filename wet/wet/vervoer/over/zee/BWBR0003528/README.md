@@ -51,25 +51,6 @@ Ingeval krachtens artikel 5, bepalingen van een overeenkomst onverbindend zijn v
 
 Gedragingen van personen, die partij zijn bij een overeenkomst, waarvan bepalingen krachtens artikel 5, onverbindend zijn verklaard en die strekken tot het naleven of doen naleven van die bepalingen, zijn verboden.  
 
-### Artikel  8  
-
-1.  Onze Minister kan ten aanzien van het op 6 april 1974 te Genève tot stand gekomen Verdrag inzake een gedragscode voor lijnvaartconferences, met bijlage, (*Trb.* 1980, 165) regelen geven met betrekking tot: 
-
-a. de erkenning van een nationale scheepvaartlijn, als bedoeld in Deel één, Hoofdstuk I;  
-
-b. de erkenning van een verladersorganisatie, als bedoeld in Deel één, Hoofdstuk I;  
-
-c. de aanwijzing van verladersorganisaties, verladersvertegenwoordigers of verladers, als bedoeld in artikel 11, eerste lid;  
-
-d. het als bevoegde autoriteit deelnemen aan het overleg, als bedoeld in artikel 11, eerste lid;  
-
-e. het als bevoegde autoriteit deelnemen aan en waarnemen bij een bemiddelingsprocedure, als bedoeld in artikel 28.     
-2.  Onze Minister kan ten aanzien van de Verordening van de Raad van de EG van 15 mei 1979, nr. 954/79 (*Pb.* 1979 nr. L 121 blz. 1) regelen geven met betrekking tot: 
-
-a. de beslechting van geschillen, als bedoeld in artikel 2, tweede lid;  
-
-b. de vaststelling van de wederkerigheid, als bedoeld in artikel 4.     
-
 ### Hoofdstuk  III  
 
 ####Prijsmaatregelen
@@ -201,7 +182,7 @@ a. het geven van inlichtingen uit in de betreffende staat aanwezige boeken, besc
 
 b. het naleven van maatregelen of beslissingen van een staat ten aanzien van een zeeschip dat de vlag van die staat voert;  
 
-c. het naleven van maatregelen of beslissingen van een staat die, hetzij uitvoering geven aan het op 6 april 1974 te Genève tot stand gekomen Verdrag inzake een gedragscode voor lijnvaartconferences, met bijlage, (*Trb.* 1980, 165) waarbij de betreffende staat partij is, hetzij uitvoering geven aan een andere volkenrechtelijke overeenkomst of een volkenrechtelijk besluit waarbij Nederland en de betreffende staat partij zijn, betrekking hebbende op het vervoer over zee.     
+c. het naleven van maatregelen of beslissingen van een staat die uitvoering geven aan een volkenrechtelijke overeenkomst of een volkenrechtelijk besluit waarbij Nederland en de betreffende staat partij zijn, betrekking hebbende op het vervoer over zee.     
 3.  Onze Minister kan, in overeenstemming met Onze Ministers van Buitenlandse Zaken en van Economische Zaken, op een daartoe strekkend verzoek vrijstelling of ontheffing verlenen van het in het eerste lid omschreven verbod.   
 
 ### Hoofdstuk  VII  

@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Directie van de RDW (Dienst Wegverkeer) houdende mandatering bestuurlijke bevoegdheden van de Directie binnen de RDW, 2 mei 2011, kenmerk JBZ2011/5907 (Mandaatregeling RDW)
+##Regeling van de Directie van de RDW (Dienst Wegverkeer) houdende mandatering bestuurlijke bevoegdheden van de Directie binnen de RDW, 25 januari 2012, kenmerk JBZ2012/7536 (Mandaatregeling RDW)
 
 De directie van de RDW,  
 Overwegende dat het wenselijk is voor de doelmatige uitvoering van de wettelijke taken door de RDW de mandaatregeling, waarbij de bevoegdheid tot het nemen van beschikkingen op een lager niveau in de organisatie is gelegd, te wijzigen;
@@ -30,27 +30,19 @@ e. de Manager JBZ (Juridische en Bestuurlijke Zaken).
 
 De aan de Directie, bij [artikel 4f](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), verleende bevoegdheden worden ten aanzien van bepaalde onderdelen van de taak van de RDW gemandateerd aan: 
 
-a. de staven van de Divisie Voertuigtechniek, te weten: 
+a. de Divisie Voertuigtechniek, te weten: 
 
-1. het Hoofd van de Stafafdeling Lijncontrol;    
+1. de Manager Toelating en Toezicht Voertuigen (TTV);  
 
-b. de hoofdafdelingen van de Divisie Voertuigtechniek, te weten: 
+2. de Manager Individuele Keuring (IK);  
 
-1. het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal: 
+3. de Manager Algemene Periodieke Keuring (APK);  
 
-– de Manager Typegoedkeuring;    
+4. de Manager Kennis- en Informatiemanagement (KIM);  
 
-2. de bedrijfsprocessen IK en APK (Individuele Keuring en Algemene Periodieke Keuring): 
+5. de Manager Bedrijfsvoering en Innovatie (BenI).    
 
-– de Manager IK;  
-
-– de Manager APK;    
-
-3. het bedrijfsproces KIM: 
-
-– de Manager KIM.      
-
-c. de Divisie Registratie en Informatie, te weten: 
+b. de Divisie Registratie en Informatie, te weten: 
 
 1. de Afdelingsmanager Operations;  
 
@@ -60,11 +52,11 @@ c. de Divisie Registratie en Informatie, te weten:
 
 4. de Afdelingsmanager Projectmanagement & Support.    
 
-d. de Afdeling Ontwikkeling Voertuigreglementering te weten: 
+c. de Afdeling Ontwikkeling Voertuigreglementering te weten: 
 
 – de Beleidsmedewerkers OVR;    
 
-e. de Afdeling Juridische en Bestuurlijke Zaken, te weten: 
+d. de Afdeling Juridische en Bestuurlijke Zaken, te weten: 
 
 1. de Senior Medewerkers Juridische en Bestuurlijke Zaken;  
 
@@ -76,53 +68,79 @@ e. de Afdeling Juridische en Bestuurlijke Zaken, te weten:
 
 De aan de Directie, bij [artikel 4f](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [4g, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), verleende bevoegdheden worden ten aanzien van bepaalde onderdelen van de taak van de RDW gemandateerd aan de navolgende functionarissen, die werkzaam zijn bij: 
 
-a. de Stafafdeling Lijncontrol van de Divisie Voertuigtechniek, te weten: de Manager KZ en P&C het Hoofd Projectbureau VT;  
+a. het bedrijfsproces Toelating en Toezicht Voertuigen van de Divisie Voertuigtechniek, te weten: 
 
-b. het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal van de Divisie Voertuigtechniek, te weten: 
+1. de Senior Adviseur Bedrijfsvoering;  
 
-1. de Algemeen Manager Toelating Exceptioneel Transport (TET);  
+2. de Manager Beoordeling en Toezicht;  
 
-2. het Hoofd van de afdeling Individueel Keuren Speciaal (IKS);  
+3. de Manager Ontheffingen;  
 
-3. de Manager Testen / Testcentrum Lelystad;  
+4. de Manager Product Beoordeling;  
 
-4. de Manager Certificeren;  
+5. de Manager Administratie en Informatiebeheer (A&I);  
 
-5. de Manager Administratie en Registerbeheer;  
+6. de Manager Procesondersteuning TTV;  
 
-6. de Manager Procesondersteuning;  
+7. de Kwaliteitscoördinator TTV;  
 
-7. de Coördinator secretariaat;  
+8. de Operationeel Manager;  
 
-8. de Adviseur bedrijfsorganisatie;  
+9. de Adviseur Bedrijfsvoering Product Beoordeling;  
 
-9. de Sales Manager;    
+10. de Teamleider Facilitair;  
 
-c. de bedrijfsprocessen Individuele Keuring en Algemene Periodieke Keuring, van de Divisie Voertuigtechniek, te weten: 
+11. de Hoofdinspecteur;  
 
-1. de hoofden van de keuringsstations;  
+12. de Teamleider Administratie;  
 
-2. de hoofden van de regioadministraties;  
+13. de Adviseurs Productontwikkeling;    
 
-3. de managers Procesondersteuning;  
+b. het bedrijfsproces Individuele Keuring van de Divisie Voertuigtechniek, te weten: 
 
-4. de bedrijfsinspecteurs;  
+1. de Senior Adviseur Bedrijfsvoering IK;  
 
-5. de teamleiders administratie Keuringsstation;  
+2. de Clustermanagers;  
 
-6. de teamleiders techniek Keuringsstation;    
+3. de Locatiemanagers;  
 
-d. het bedrijfsproces Kennis en Informatie Management (KIM), te weten: 
+4. de Manager Procesondersteuning IK;  
+
+5. de Kwaliteitscoördinator IK;  
+
+6. de Adviseurs Productontwikkeling & Innovatie;    
+
+c. het bedrijfsproces Algemene Periodieke Keuring van de Divisie Voertuigtechniek, te weten 
+
+1. de Manager Backoffice APK;  
+
+2. de Manager Toezicht APK;  
+
+3. de Manager Steekproeven APK;  
+
+4. de Teamleider SPC;  
+
+5. de Manager Procesondersteuning APK;  
+
+6. de Kwaliteitscoördinator APK;    
+
+d. het bedrijfsproces Kennis en Informatie Management (KIM) van de Divisie Voertuigtechniek, 
 
 1. de Manager Kennis en Informatie over Technische vragen (KIT);  
 
 2. de Manager KIM-co;  
 
-3. de Manager KIM Beheer;  
+3. de Manager KIM Beheer;    
 
-4. de Coördinator Opleiding en Instructie (O&I);    
+e. de stafafdeling Bedrijfsvoering en Innovatie van de Divisie Voertuigtechniek, te weten: 
 
-e. de afdeling Operations van de Divisie Registratie en Informatie, te weten: 
+1. de Manager Bedrijfsvoering  
+
+2. de Manager Innovatie  
+
+3. de Kwaliteitsmanager    
+
+f. de afdeling Operations van de Divisie Registratie en Informatie, te weten: 
 
 1. de unitmanager Voertuigregistratie en Documenten (VRD);  
 
@@ -136,7 +154,7 @@ e. de afdeling Operations van de Divisie Registratie en Informatie, te weten:
 
 6. de interfacecoördinator Operations;    
 
-f. de afdeling Klantenservice RDW van de Divisie Registratie en Informatie, te weten: 
+g. de afdeling Klantenservice RDW van de Divisie Registratie en Informatie, te weten: 
 
 1. de unitmanager KlantContactCentrum;  
 
@@ -148,13 +166,13 @@ f. de afdeling Klantenservice RDW van de Divisie Registratie en Informatie, te w
 
 5. de unitmanager Kennismanagement;    
 
-g. de afdeling Relatiemanagement RDW van de Divisie Registratie en Informatie, te weten: 
+h. de afdeling Relatiemanagement RDW van de Divisie Registratie en Informatie, te weten: 
 
 1. de relatiemanagers;  
 
 2. de productieconsultant Relatiemanagement RDW.    
 
-h. 
+i. 
 
 1. de Unitmanager Planning & Control.      
 
@@ -162,127 +180,97 @@ h.
 
 De aan de Directie, bij [artikel 4f](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [4g, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), verleende bevoegdheden worden ten aanzien van bepaalde onderdelen van de taak van de RDW gemandateerd aan de navolgende functionarissen, die werkzaam zijn bij: 
 
-a. de Stafafdeling Lijncontrol van de Divisie Voertuigtechniek 
+a. afdeling Productbeoordeling van het bedrijfsproces Toelating en Toezicht Voertuigen, te weten: 
 
-1. de Klachtencoördinator KZ;  
+1. de Meettechnisch Inspecteurs;  
 
-2. de 1e Medewerker KZ;  
+2. de Inspecteurs;  
 
-3. de Bedrijfskundig medewerker;    
+3. de Administratief Medewerkers Administratie;  
 
-b. afdeling Testen van het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal, te weten: 
+4. de Coördinator Veiligheid/baantoezicht;  
 
-1. de Technisch Hoofdinspecteur;  
+5. de Medewerker Veiligheid/baantoezicht;  
 
-2. de Technisch Inspecteur Specialist;  
+6. de Technisch Assistenten;  
 
-3. de Coördinator Homedesk;  
+7. de Algemeen Assistent;    
 
-4. de Administratief medewerker Homedesk;    
+b. de afdeling Beoordeling en Toezicht van het bedrijfsproces Toelating en Toezicht Voertuigen, te weten: 
 
-c. de afdeling Certificeren van het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal, te weten: 
+1. de Inspecteurs;  
 
-1. de Hoofdinspecteur Certificeren;  
+2. de Assistent Inspecteurs;    
 
-2. de Inspecteur Certificeren;  
+c. de afdeling Administratie en Informatiebeheer (A&I) van het bedrijfsproces Toelating en Toezicht Voertuigen, te weten: 
 
-3. de Assistent Inspecteur Certificeren    
+1. de Administratief Medewerkers;  
 
-d. de afdeling Administratie en Registerbeheer (A&R) van het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal, te weten: 
+2. de Informatiebeheerders;  
 
-1. de Registerbeheerder;  
+3. de Teamcoördinator;  
 
-2. de Operationeel Manager;  
+4. de Coördinator Informatiebeheer A&I;    
 
-3. de Medewerker Registerbeheer;  
+d. de afdeling Ontheffingen van het bedrijfsproces Toelating en Toezicht Voertuigen, te weten: 
 
-4. de Behandelingsmedewerker;    
+1. de Administratief Medewerkers;  
 
-e. het Testcentrum Lelystad (TCL) van het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal, te weten: 
+2. de Informatiebeheerders;  
 
-1. de medewerker Beleid en Kwaliteit;  
+3. de Teamcoördinator;  
 
-2. de Coördinator Verhuur;  
+4. de Coördinator Informatiebeheer Ontheffingen;    
 
-3. de Coördinator Veiligheid;  
+e. de stafafdeling Procesondersteuning van het bedrijfsproces Toelating en Toezicht Voertuigen, te weten: 
 
-4. de medewerker Veiligheid;  
+1. de Productieconsultants TTV;  
 
-5. de medewerker Financieel Beheer;  
+2. de Coördinator secretariaat;    
 
-6. de Teamleider Testen;  
+f. het bedrijfsproces Individuele Keuring, van de Divisie Voertuigtechniek, te weten: 
 
-7. de Teamleider Meet & Projectgroep;  
+1. de Technisch Medewerkers Specialist;  
 
-8. de Technisch Inspecteur Specialist;  
+2. de Technisch Medewerkers Licht en Zwaar;  
 
-9. de Technisch Inspecteur;  
+3. de Technisch Medewerkers Licht;  
 
-10. de Meettechnisch Inspecteur;  
+4. de 1 <sup>e</sup> Administratief Medewerkers;  
 
-11. de Technisch Assistent;  
+5. de Administratief medewerkers;  
 
-12. de Coördinator Marketing;    
+6. de Adviseurs;  
 
-f. de regiokantoren, te weten: 
+7. de Medewerkers Planning en Control;    
 
-1. de administratief medewerkers van de regioadministratie;    
+g. het bedrijfsproces Algemene Periodieke Keuring, van de Divisie Voertuigtechniek, te weten: 
 
-g. de keuringsstations van het bedrijfsproces Individueel Keuren (IK), te weten: 
+1. de Senior Steekproefcontroleurs;  
 
-1. de technisch medewerkers;  
+2. de Steekproefcontroleurs;  
 
-2. de administratief medewerkers;    
+3. de Inspecteurs APK;  
 
-h. de afdeling Individueel Keuren Speciaal (IKS) van het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal, te weten: 
+4. de Productieconsultants APK;  
 
-1. de Hoofdinspecteur;  
+5. de Data analist APK ;  
 
-2. de Hoofdontwerpbeoordelaar;  
+6. de eerste medewerker uitvoering APK;  
 
-3. de Technisch Inspecteur Specialist;  
+7. de medewerker uitvoering APK;  
 
-4. de Technisch Inspecteur;  
+8. de Administratief medewerkers;  
 
-5. de 1e Medewerker IKS/KZ;  
+9. de Management assistenten;    
 
-6. de Technisch-Administratief Coördinator;  
+h. de afdeling KIT van het bedrijfsproces KIM, te weten: 
 
-7. de Behandelingsmedewerker;    
+1. de Senior Medewerkers KIT;  
 
-i. de afdeling Toelating Exceptioneel Transport (TET) van het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal, te weten: 
+2. de Medewerkers KIT;    
 
-1. de Operationeel Manager TET;  
-
-2. de Productmanager TET;  
-
-3. de Coördinator ontheffingen;  
-
-4. de Ontheffingspecialist;  
-
-5. de Ontheffingsmedewerker;  
-
-6. de Coördinator informatiebeheer;    
-
-j. de stafafdeling van het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal, te weten: 
-
-1. de productieconsultants TGK;    
-
-k. de stafafdeling van het bedrijfsproces Individueel Keuren, te weten: 
-
-1. de productieconsultants IK;    
-
-l. de stafafdeling van het bedrijfsproces Algemene periodieke Keuring, te weten: 
-
-1. de productieconsultants APK;    
-
-m. de afdeling KIT van het bedrijfsproces KIM, te weten: 
-
-1. de Senior Medewerker KIT;  
-
-2. de Medewerker KIT;    
-
-n. de afdeling KIM-co van het bedrijfsproces KIM, te weten: 
+i. de afdeling KIM-co van het bedrijfsproces KIM, te weten: 
 
 1. de Senior Adviseur KIM-co;  
 
@@ -294,7 +282,7 @@ n. de afdeling KIM-co van het bedrijfsproces KIM, te weten:
 
 5. de Productieconsultant KIM-co;    
 
-o. de afdeling KIM Beheer van het bedrijfsproces KIM, te weten: 
+j. de afdeling KIM Beheer van het bedrijfsproces KIM, te weten: 
 
 1. de Functioneel Applicatiebeheerder;  
 
@@ -304,15 +292,7 @@ o. de afdeling KIM Beheer van het bedrijfsproces KIM, te weten:
 
 4. de Productieconsultant KIM Beheer;    
 
-p. de afdeling O&I van het bedrijfsproces KIM, te weten: 
-
-1. de Medewerker O&I;  
-
-2. de Administratief Medewerker;  
-
-3. de Instructeur O&I;    
-
-q. de unit Voertuigregistratie en Documenten (VRD), te weten: 
+k. de unit Voertuigregistratie en Documenten (VRD), te weten: 
 
 1. de teammanagers VRD;  
 
@@ -322,7 +302,7 @@ q. de unit Voertuigregistratie en Documenten (VRD), te weten:
 
 4. de senior behandelingsmedewerkers VRD;    
 
-r. de unit Erkenningen en Toezicht (E&T), te weten: 
+l. de unit Erkenningen en Toezicht (E&T), te weten: 
 
 1. de teammanagers E&T;  
 
@@ -334,7 +314,7 @@ r. de unit Erkenningen en Toezicht (E&T), te weten:
 
 5. de Bedrijvencontroleurs;    
 
-s. de unit Aansprakelijkheids- en Persoonsregistratie (APR), te weten: 
+m. de unit Aansprakelijkheids- en Persoonsregistratie (APR), te weten: 
 
 1. de teammanager APR;  
 
@@ -344,7 +324,7 @@ s. de unit Aansprakelijkheids- en Persoonsregistratie (APR), te weten:
 
 4. de senior behandelingsmedewerkers APR;    
 
-t. de unit Handhaving, te weten: 
+n. de unit Handhaving, te weten: 
 
 1. de teammanager Handhaving;  
 
@@ -354,7 +334,7 @@ t. de unit Handhaving, te weten:
 
 4. de senior behandelingsmedewerkers Handhaving;    
 
-u. de unit Rijbewijzen, te weten: 
+o. de unit Rijbewijzen, te weten: 
 
 1. de teammanagers Rijbewijzen;  
 
@@ -364,7 +344,7 @@ u. de unit Rijbewijzen, te weten:
 
 4. de senior behandelingsmedewerkers Rijbewijzen;    
 
-v. de unit KlantContactCentrum (KCC), te weten: 
+p. de unit KlantContactCentrum (KCC), te weten: 
 
 1. de teammanagers KCC;  
 
@@ -374,7 +354,7 @@ v. de unit KlantContactCentrum (KCC), te weten:
 
 4. de medewerkers KCC;    
 
-w. de unit Informatieverstrekking (IV), te weten: 
+q. de unit Informatieverstrekking (IV), te weten: 
 
 1. de productieconsultants IV;  
 
@@ -382,7 +362,7 @@ w. de unit Informatieverstrekking (IV), te weten:
 
 3. de medewerkers IV;    
 
-x. de unit Landelijk Informatiecentrum Voertuigcriminaliteit (LIV), te weten: 
+r. de unit Landelijk Informatiecentrum Voertuigcriminaliteit (LIV), te weten: 
 
 1. de medewerkers LIV;  
 
@@ -390,23 +370,23 @@ x. de unit Landelijk Informatiecentrum Voertuigcriminaliteit (LIV), te weten:
 
 3. de onderzoekers FVO LIV;    
 
-y. de unit Kennismanagement, te weten: 
+s. de unit Kennismanagement, te weten: 
 
 1. de productieconsultants Kennisbeheer;  
 
 2. de medewerkers Kennisbeheer;    
 
-z. de afdeling Relatiemanagement RDW, te weten: 
+t. de afdeling Relatiemanagement RDW, te weten: 
 
 1. de productieconsultant Relatiemanagement RDW;  
 
 2. de medewerkers van de unit Klanten Beheer en Informatie;    
 
-aa. de afdeling Projectmanagement & Support, te weten: 
+u. de afdeling Projectmanagement & Support, te weten: 
 
 1. de Registerbeheerders;    
 
-bb. de Afdeling Juridische en Bestuurlijke Zaken, te weten: 
+v. de Afdeling Juridische en Bestuurlijke Zaken, te weten: 
 
 1. de Managementassistent;  
 
@@ -434,13 +414,7 @@ c. de afdoening en ondertekening van stukken:
 
 6. gericht aan het Georganiseerd Overleg;  
 
-7. gericht aan de Stichting Centraal Overleg Bedrijfsleven / RDW;    
-
-d. het aangaan van (internationale) samenwerkingsverbanden;  
-
-e. het sluiten van bestuurlijke overeenkomsten;  
-
-f. het voeren van politiek overleg.     
+7. gericht aan de Stichting Centraal Overleg Bedrijfsleven / RDW;       
 2.  Het reglement als bedoeld in [artikel 4n van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is bij het uitoefenen van deze bevoegdheden van toepassing.   
 
 ### Artikel  5a  
@@ -463,7 +437,7 @@ Aan de Directie worden voor akkoordverklaring voorgelegd:
 
 ### Artikel  8  
 
-De [Mandaatregeling RDW van 1 juni 2010](../../../../zbo/mandaatregeling/rdw/BWBR0027814/README.md), Stcrt. 2010 nr. 9646, wordt ingetrokken.  
+De [Mandaatregeling RDW van 2 mei 2011](../../../../zbo/mandaatregeling/rdw/BWBR0029971/README.md), Stcrt. 2011, nr. 8517, wordt ingetrokken.  
 
 ### Artikel  9  
 
@@ -471,14 +445,15 @@ Deze regeling wordt aangehaald als: Mandaatregeling RDW.
 
 ### Artikel  10  
 
-Deze regeling zal worden gepubliceerd in de Staatscourant en treedt in werking op 2 mei 2011.  
+Deze regeling zal worden gepubliceerd in de Staatscourant en treedt met terugwerkende kracht in werking per 1 januari 2012.  
 
 Zoetermeer 
-2 mei 2011   
+25 januari 2012   
 
-De directie van de RDW, 
-J.G. Hakkenberg,  
-Algemeen directeur.  
+De 
+directie van de RDW
+J.G.Hakkenberg ,
+Algemeen directeur. 
 
 H. van Santen,  
 Directeur bedrijfsvoering.   
@@ -491,17 +466,17 @@ Directeur bedrijfsvoering.
 
 ### I  
 
-####De Divisie Voertuigtechniek
+####De Divisie Voertuigtechniek:
 
 heeft tot taak: 
 
-– het verlenen van erkenningen als bedoeld in de [artikelen 83](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [101 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen als bedoeld in [artikel 85a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
+– het verlenen van erkenningen en bevoegdheden als bedoeld in [hoofdstuk 5, paragraaf 1 tot en met 8](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [hoofdstuk 6, afdeling 9, paragraaf 5, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 9:2 van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), en de [Regeling erkenning werkplaatsen boordcomputer Taxi](../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
 
 – de bevoegdheid tot het aanwijzen van een technische dienst voor het uitvoeren van bepaalde tests ten behoeve van het verlenen van typegoedkeuringen of individuele goedkeuringen of voor het uitvoeren van bepaalde toezichtstaken;  
 
 – het houden van toezicht op de verleende erkenningen en op de verleende bevoegdheden, alsmede op de verplichtingen die voortvloeien uit de aanwijzing als technische dienst;  
 
-– het verrichten van taken in het kader van de [Regeling controleapparaten](../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) en de [Regeling typegoedkeuring en installatie tachografen Rijnvaart 1995](../../../../ministeriele-regeling/regeling/typegoedkeuring/en/installatie/tachografen/rijnvaart/1995/BWBR0007382/README.md);  
+– het verrichten van taken in het kader van de [Regeling controleapparaten](../../../../ministeriele-regeling/regeling/controleapparaat/BWBR0010021/README.md) en de [Regeling typegoedkeuring en installatie tachografen Rijnvaart 1995](../../../../ministeriele-regeling/regeling/typegoedkeuring/en/installatie/tachografen/rijnvaart/1995/BWBR0007382/README.md);  
 
 – het keuren van voertuigen in de in de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde gevallen en het in dat kader afgeven van keuringsbewijzen;  
 
@@ -513,6 +488,8 @@ heeft tot taak:
 
 – het houden van toezicht op het overeenstemmen van voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers met het type waarvoor de goedkeuring is verleend en op het overeenstemmen van onderdelen en uitrustingsstukken waarvoor een toestemming is verleend met de verleende toestemming;  
 
+– het afgeven van tijdelijke kentekens;  
+
 – het verlenen van ontheffingen op grond van [artikel 149](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 149A van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 – het behandelen van bezwaren en administratieve beroepen als bedoeld in de [artikelen 90](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [91 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
@@ -523,17 +500,17 @@ heeft tot taak:
 
 ### a  
 
-####Het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal van de Divisie Voertuigtechniek
+####Het bedrijfsproces Toelating en Toezicht Voertuigen van de Divisie Voertuigtechniek
 
 heeft tot taak: 
 
-– het in het kader van toelating tot het verkeer op de weg verlenen van typegoedkeuringen voor voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers, alsmede het intrekken van typegoedkeuringen;  
+– het in het kader van toelating tot het verkeer op de weg verlenen of intrekken van typegoedkeuringen voor voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers;  
 
 – het beschikbaar stellen van typegoedkeuring-informatie ten behoeve van toelating en registratie;  
 
 – het verstrekken van informatie ten behoeve van overheidsmaatregelen ter stimulering van veiligheid en milieu;  
 
-– het verlenen van een goedkeuring van een controleapparaat of registratieblad, als bedoeld in [artikel 2 van de Regeling controleapparaten](../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md);  
+– het verlenen van een goedkeuring van een controleapparaat of registratieblad, als bedoeld in [artikel 2 van de Regeling controleapparaten](../../../../ministeriele-regeling/regeling/controleapparaat/BWBR0010021/README.md);  
 
 – het beslissen op een verzoek om typegoedkeuring van een scheepstachograaf, op grond van [artikel 1 Regeling typegoedkeuring en installatie tachografen Rijnvaart 1995](../../../../ministeriele-regeling/regeling/typegoedkeuring/en/installatie/tachografen/rijnvaart/1995/BWBR0007382/README.md);  
 
@@ -545,7 +522,7 @@ heeft tot taak:
 
 – het verlenen van erkenningen wijziging constructie voertuigen, als bedoeld in de [artikel 101 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
 
-– de bevoegdheid tot het aanwijzen van een technische dienst voor het uitvoeren van bepaalde tests ten behoeve van het verlenen van typegoedkeuringen of individuele goedkeuringen of voor het uitvoeren van bepaalde toezichtstaken;  
+– de bevoegdheid tot het aanwijzen van een technische dienst voor het uitvoeren van bepaalde tests ten behoeve van het verlenen van typegoedkeuringen, (nationale) kleine series, individuele goedkeuringen, of voor het uitvoeren van bepaalde toezichtstaken;  
 
 – het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de erkenning als bedoeld in het [artikel 101 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede op de verplichtingen die voortvloeien uit de aanwijzing als technische dienst;  
 
@@ -565,7 +542,7 @@ heeft tot taak:
 
 – het behandelen van bezwaren en administratieve beroepen als bedoeld in de [artikelen 90](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [91 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het opgeven van kentekens voor motorrijtuigen en aanhangwagens en het terzake van die opgaven afgeven van kentekenbewijzen;  
+– het opgeven van kentekens voor motorrijtuigen en aanhangwagens en het ter zake van die opgaven afgeven van kentekenbewijzen;  
 
 – het verwerken van gegevens met betrekking tot opgegeven kentekens, afgegeven kentekenbewijzen en afgegeven keuringsbewijzen;  
 
@@ -573,47 +550,41 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) op verzoek en na toestemming van de Manager Juridische en Bestuurlijke Zaken.   In de gevallen waarbij door een bestuursorgaan mandaat van bevoegdheden is verleend aan de RDW, wordt – met toestemming van dat bestuursorgaan – door de Directie ondermandaat verleend aan de betreffende functionarissen van de afdeling TET.  
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuu](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) r op verzoek en na toestemming van de Manager Juridische en Bestuurlijke Zaken.   In de gevallen waarbij door een bestuursorgaan mandaat van bevoegdheden is verleend aan de RDW, wordt – met toestemming van dat bestuursorgaan – door de Directie ondermandaat verleend aan de betreffende functionarissen van de afdeling Ontheffingen.  
 
 ### b  
 
-####De bedrijfsprocessen IK en APK van de Divisie Voertuigtechniek
+####Het bedrijfsproces IK van de Divisie Voertuigtechniek
 
-hebben tot taak: 
+heeft tot taak: 
 
 – het in het kader van toelating tot het verkeer op de weg verlenen van individuele goedkeuringen voor voertuigen en verrichten van testen in dat kader;  
 
 – het keuren van voertuigen in de, in de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde gevallen, niet zijnde typegoedkeuringen;  
 
+– het verlenen van APK-goedkeuringen wijziging constructie voertuigen, als bedoeld in de [artikelen 83](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [101 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
+
 – het verrichten van testen en afgeven van testrapporten voor ADR/VLG voertuigen, voertuigonderdelen en uitrustingsstukken;  
 
-– het afgeven van ADR/VLG keuringsdocumenten en certificaten op basis van de uitvoeringsregelingen van de Wet Gevaarlijke Stoffen en van het ADR-Reglement en op basis van de TPED richtlijn alsmede het intrekken daarvan;  
+– het afgeven van ADR/VLG keuringsdocumenten en certificaten op basis van de uitvoeringsregelingen van de Wet Gevaarlijke Stoffen en van het ADR-Reglement alsmede het intrekken daarvan;  
 
-– het afgeven van ATP certificaten op basis van de [Wet inzake Grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen](../../../../wet/wet/grensoverschrijdend/vervoer/van/aan/bederf/onderhevige/levensmiddelen/BWBR0003186/README.md);  
+– het afgeven van ATP certificaten op basis van de Wet inzake Grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen;  
 
 – het behandelen van bezwaren en administratieve beroepen als bedoeld in de [artikelen 90](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [91 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het verlenen van APK-erkenningen en erkenningen wijziging constructie voertuigen, als bedoeld in de [artikelen 83](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [101 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
-
 – het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de erkenningen als bedoeld in de [artikelen 83](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [101 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
-
-– het verlenen van erkenningen als installateur of reparateur van controleapparaten in motorrijtuigen, als bedoeld in [artikel 4 van de Regeling controleapparaten](../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
-
-– het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de verleende erkenningen voor de inbouw of reparatie van controleapparaten in motorrijtuigen, op grond van [artikel 34 van de Regeling controleapparaten](../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md);  
-
-– het verlenen van erkenningen voor het installeren of repareren van controleapparaten in schepen, op grond van de [Regeling typegoedkeuring en installatie tachografen Rijnvaart 1995](../../../../ministeriele-regeling/regeling/typegoedkeuring/en/installatie/tachografen/rijnvaart/1995/BWBR0007382/README.md), alsmede het intrekken daarvan, met dien verstande dat op grond van [artikel 13 van deze regeling](../../../../ministeriele-regeling/regeling/typegoedkeuring/en/installatie/tachografen/rijnvaart/1995/BWBR0007382/README.md), het houden van toezicht op de erkenningen wordt uitgevoerd door de Rijksverkeersinspectie;  
 
 – het verlenen van de bevoegdheid om voertuigen aan een keuring te onderwerpen, als bedoeld in [artikel 85a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
 
 – het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de bevoegdheid om voertuigen aan een keuring te onderwerpen, als bedoeld in [artikel 85a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het opgeven van kentekens voor motorrijtuigen en aanhangwagens en het terzake van die opgaven afgeven van kentekenbewijzen;  
+– het opgeven van kentekens voor motorrijtuigen en aanhangwagens en het ter zake van die opgaven afgeven van kentekenbewijzen;  
 
 – het buiten behandeling laten van kentekenaanvragen voor motorrijtuigen en aanhangwagens;  
 
 – het afgeven van keuringsbewijzen in de gevallen als bedoeld in [artikel 53](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 78, eerste lid, aanhef en onder a, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het verwerken van gegevens met betrekking tot opgegeven kentekens, afgegeven kentekenbewijzen en afgegeven keuringsbewijzen;  
+– het verwerken van gegevens met betrekking tot opgegeven kentekens, afgegeven kentekenbewijzen en afgegeven (vervangende) keuringsbewijzen;  
 
 – het ambtelijk wegen van voertuigen ter bepaling van de asbelasting, respectievelijk de ledige massa van het voertuig;  
 
@@ -621,13 +592,29 @@ hebben tot taak:
 
 – het keuren van voertuigen na invordering van het kentekenbewijs als bedoeld in [artikel 105 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het steekproefsgewijs uitvoeren van heronderzoeken van bromfietsen als bedoeld in [artikel IV van de Wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994](../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(invoering/etc/BWBR0018326/README.md), (Stb. 281);  
+– het kentekenen, afgeven van tijdelijke (kenteken)bewijzen en het schorsen van kentekenbewijzen;  
+
+– het verrichten van eerste keuringen van taxi’s en het afgeven van documenten daaromtrent;  
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
 – het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) op verzoek en na toestemming van de Manager Juridische en Bestuurlijke Zaken.    
 
 ### c  
+
+####Het bedrijfsproces APK van de Divisie Voertuigtechniek
+
+heeft tot taak: 
+
+– het verlenen van erkenningen en bevoegdheden als bedoeld in [hoofdstuk 5, paragraaf 1 tot en met 8](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [hoofdstuk 6, afdeling 9, paragraaf 5, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 9:2 van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), en de [Regeling erkenning werkplaatsen boordcomputer taxi](../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
+
+– het verlenen van erkenningen voor het installeren of repareren van controleapparaten in schepen, op grond van de [Regeling typegoedkeuring en installatie tachografen Rijnvaart 1995](../../../../ministeriele-regeling/regeling/typegoedkeuring/en/installatie/tachografen/rijnvaart/1995/BWBR0007382/README.md), alsmede het intrekken daarvan, met dien verstande dat op grond van [artikel 13 van deze regeling](../../../../ministeriele-regeling/regeling/typegoedkeuring/en/installatie/tachografen/rijnvaart/1995/BWBR0007382/README.md), het houden van toezicht op de erkenningen wordt uitgevoerd door de Rijksverkeersinspectie;  
+
+– het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) op verzoek en na toestemming van de Manager Juridische en Bestuurlijke Zaken.    
+
+### d  
 
 ####Het bedrijfsproces KIM van de Divisie Voertuigtechniek
 
@@ -641,7 +628,7 @@ heeft tot taak:
 
 ### II  
 
-####De Divisie Registratie en Informatie
+####De Divisie Registratie en Informatie:
 
 heeft tot taak: 
 
@@ -651,7 +638,7 @@ heeft tot taak:
 
 – het verstrekken van inlichtingen uit de bij of krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of andere wetten bijgehouden registers;  
 
-– het afgeven van rijbewijzen in de gevallen, bedoeld in [artikel 116, eerst lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) alsmede het ongeldig verklaren van deze rijbewijzen in de in [deze wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bepaalde gevallen;  
+– het afgeven van rijbewijzen in de gevallen, bedoeld in [artikel 116, eerst lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) alsmede het ongeldig verklaren van deze rijbewijzen in de in [deze wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bepaalde gevallen  
 
 – het opsporen van het bij of krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) strafbaar gestelde feiten, voor zover hiermee belast ingevolge [artikel 159 van deze wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
@@ -665,17 +652,19 @@ heeft tot taak:
 
 – het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) op verzoek en na toestemming van de Manager Juridische en Bestuurlijke Zaken.   
 
-####a. De Afdeling Operations van de Divisie Registratie en Informatie
+### a  
+
+####De Afdeling Operations van de Divisie Registratie en Informatie
 
 heeft tot taak: 
 
-– het opgeven van kentekens voor motorrijtuigen en aanhangwagens en het terzake van die opgaven afgeven van kentekenbewijzen alsmede het schorsen van de geldigheid van de kentekenbewijzen, het ongeldig verklaren van kenteken- en registratiebewijzen en het vervallen verklaren van tenaamstellingen in het kentekenregister;  
+– het opgeven van kentekens voor motorrijtuigen en aanhangwagens en het ter zake van die opgaven afgeven van kentekenbewijzen alsmede het schorsen van de geldigheid van de kentekenbewijzen, het ongeldig verklaren van kenteken- en registratiebewijzen en het vervallen verklaren van tenaamstellingen in het kentekenregister;  
 
 – het afgeven van keuringsbewijzen in de gevallen als bedoeld in [artikel 53 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 – het afgeven van vervangende keuringsbewijzen op basis van [artikel 80 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het verlenen van erkenningen en bevoegdhedenals bedoeld in de [artikelen 62](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [70a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
+– het verlenen van erkenningen en bevoegdheden als bedoeld in de [artikelen 62](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [70a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede het schorsen, wijzigen en intrekken daarvan;  
 
 – het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit het gebruik van de verleende erkenningen en bevoegdheden als bedoeld in de [artikelen 62](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [70a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
@@ -759,7 +748,7 @@ heeft tot taak:
 
 – het afleggen van verantwoording over het gevoerde beheer;  
 
-– het schorsen van erkenningen en de daaraan verbonden bevoegdheden, als bedoeld in de [artikelen 62](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [70a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [83](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [100 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en van erkenningen die zijn verleend ten behoeve van de installatie en periodieke controle van tachografen, in geval degene aan wie die erkenning is verleend niet heeft voldaan aan de financiële verplichtingen, voortvloeiend uit die erkenning;  
+– het schorsen van erkenningen en de daaraan verbonden bevoegdheden, als bedoeld in de [artikelen 62](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [70a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [83](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [100 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en van erkenningen die zijn verleend ten behoeve van de installatie en periodieke controle van tachografen, in geval degene aan wie die erkenning is verleend niet heeft voldaan aan de financiële verplichtingen, voortvloeiend uit die erkenning;  
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
@@ -781,9 +770,9 @@ heeft tot taak:
 
 – het leveren van bijdrage aan de totstandkoming van wet- en regelgeving;  
 
-– het afhandelen van (afdelingoverschrijdende) klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+– het afhandelen van (afdelingoverschrijdende) klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– Het beoordelen door welke functionaris een verzoek om informatie in het kader van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) dient te worden behandeld. De betreffende functionaris maakt van zijn bevoegdheid tot het afhandelen van dergelijke verzoeken geen gebruik dan na toestemming van de Manager Juridische en Bestuurlijke Zaken.    
+– het beoordelen door welke functionaris een verzoek om informatie in het kader van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) dient te worden behandeld. De betreffende functionaris maakt van zijn bevoegdheid tot het afhandelen van dergelijke verzoeken geen gebruik dan na toestemming van de Manager Juridische en Bestuurlijke Zaken.    
 
 ### Bijlage  2  
 
@@ -793,37 +782,27 @@ heeft tot taak:
 
 1. Van de Divisie Voertuigtechniek: 
 
-1.1. van de de Stafafdeling Lijncontrol: de Coördinator Klachtenprocedure KZ: 
+1.1. van de stafafdeling Bedrijfsvoering en Innovatie de Medewerkers Backoffice: 
 
 – het registreren van klachten en het coördineren van de afhandeling daarvan;  
 
-– de afhandeling van bedoelde klachten, voor zover deze naar hun aard of inhoud niet een zodanig gewicht hebben, dat zij behoren te worden afgehandeld door het hoofd Algemene Staf, of door één van de drie regiomanagers of door de Divisiemanager Voertuigtechniek;    
+– de afhandeling van bedoelde klachten, voor zover deze naar hun aard of inhoud niet een zodanig gewicht hebben, dat zij behoren te worden afgehandeld door de Senior Adviseur Voertuigtechniek, één van de vijf Clustermanagers, of door de Divisiemanager Voertuigtechniek;    
 
-1.2. van het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal: de Kwaliteitscoördinator Typegoedkeuringen: 
+1.2. van het bedrijfsproces Toelating en Toezicht Voertuigen: 
 
-– het registreren van klachten en het coördineren van de afhandeling daarvan;   
+1.2.1. van de afdeling Beoordeling en Toezicht: de Operationeel Manager, de Inspecteurs en de Assistent Inspecteurs: 
 
-1.2.1. van de afdeling Certificeren: de Hoofdinspecteur Certificeren, de Inspecteur Certificeren en de Assistent Inspecteur Certificeren: 
+– het verrichten van toelatingskeuringen en het afgeven van nationale en internationale certificaten, alsmede besluiten betreffende procedures met betrekking tot deze goedkeuringen en certificaten, op grond van [artikel 22](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [22a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [23](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [26 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+
+– het verlenen van goedkeuringen op basis van de Wet personenvervoer;    
+
+1.2.2. van de afdeling Product Beoordeling: 
+
+a. de Hoofdinspecteurs en Inspecteurs: 
 
 – het verrichten van toelatingskeuringen en het afgeven van nationale en internationale certificaten, alsmede besluiten betreffende procedures met betrekking tot deze goedkeuringen en certificaten, op grond van [artikel 22](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [22a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [26 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het verlenen van goedkeuringen op basis van de [Wet personenvervoer](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
-
-– het afgeven van keuringsdocumenten ten behoeve van het Ministerie van Volksgezondheid, Welzijn en sport;    
-
-1.2.2. van de afdelingen Testen en het Testcentrum Lelystad: de Technisch Hoofdinspecteur, de Technisch Inspecteur Specialist, de Teamleider Testen: 
-
 – het opstellen en afgeven van testrapporten in het kader van een onderzoek van voertuigen, voertuigonderdelen of uitrustingsstukken van voertuigen op grond van [artikel 22](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [22a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [26 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
-
-– het verrichten van toelatingskeuringen en het afgeven van nationale en internationale certificaten, alsmede besluiten betreffende procedures met betrekking tot deze goedkeuringen en certificaten, op grond van [artikel 22](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [22a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [26 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);    
-
-1.2.3. van de afdeling Toelating Exceptioneel Transport (TET): de Operationeel Manager TET, de Productmanager TET, de Coördinator ontheffingen, de Ontheffingspecialist en de Ontheffingsmedewerker: 
-
-– het verlenen en afwijzen van ontheffingen op grond van [artikel 149](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 149a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);    
-
-1.2.4 van de afdeling Individueel Keuren Speciaal(IKS): 
-
-a. de Technisch Hoofdinspecteur, Hoofd ontwerpbeoordelaar en Technisch Inspecteur (specialist); 
 
 – het beoordelen van ontwerpen, het opstellen van testrapporten in het kader van een onderzoek van voertuigen, voertuigonderdelen of uitrustingsstukken van voertuigen op grond van [artikel 22](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [22a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [26 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of op grond van de internationale EU- of ECE-voorschriften terzake;  
 
@@ -833,9 +812,9 @@ a. de Technisch Hoofdinspecteur, Hoofd ontwerpbeoordelaar en Technisch Inspecteu
 
 – het afgeven van VLG/ADR keuringsdocumenten en certificaten op basis van de uitvoeringsregelingen van de Wet Gevaarlijke Stoffen en van het ADR-reglement en op basis van de TPED richtlijn (mits voldaan is aan de controle vereisten van het kwaliteitshandboek IKS);  
 
-– het afgeven van ATP certificaten op basis van de [Wet inzake Grensoverschrijdend Vervoer van aan bederf onderhevige levensmiddelen](../../../../wet/wet/grensoverschrijdend/vervoer/van/aan/bederf/onderhevige/levensmiddelen/BWBR0003186/README.md);    
+– het afgeven van ATP certificaten op basis van de Wet inzake Grensoverschrijdend Vervoer van aan bederf onderhevige levensmiddelen;    
 
-b. de 1 <sup>e</sup> Medewerker IKS/KZ, de technisch-administratief coördinator en de behandelingsmedewerker: 
+b. de Teamleider administratie en de Administratief Medewerkers: 
 
 – het innemen van originele kentekenbewijzen bij wijziging van de voertuiggegevens;  
 
@@ -845,39 +824,27 @@ b. de 1 <sup>e</sup> Medewerker IKS/KZ, de technisch-administratief coördinator
 
 – de afgifte van VLG/ADR-, ATP- en VWS-certificaten en van VLG/ADR-, ATP- en VWS-documenten;  
 
-– de afgifte van voorlopige kentekenbewijzen als bedoeld in [artikel 17, zesde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) en kentekenbewijzen als bedoeld in [artikel 4, vierde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md);        
+– de afgifte van voorlopige kentekenbewijzen als bedoeld in [artikel 17, zesde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) en kentekenbewijzen als bedoeld in [artikel 4, vierde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md);      
 
-1.3. Van de bedrijfsprocessen IK en APK: 
+1.2.3. van de afdeling Ontheffingen: de Teamcoördinatoren en de Administratief Medewerkers: 
 
-1.3.1 van de Regio’s: de Bedrijfsinspecteur: 
+– het verlenen en afwijzen van ontheffingen op grond van [artikel 149](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 149a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);      
 
-– het schouwen van bedrijven in het kader van afgifte erkenning APK, erkenning wijziging constructie voertuigen en erkenning tachografen;  
+1.3. Van het bedrijfsproces IK: 
 
-– het toezicht op naleving van de, uit de verleende erkenningen en bevoegdheden voortvloeiende verplichtingen, zoals het uitvoeren van herschouwingen en het verrichten van controles bij erkende bedrijven in het kader van het toezichtbeleid RDW;  
+a. de Technisch Medewerkers Licht, Licht en Zwaar en Specialist: 
 
-– het optreden als deskundige als bedoeld in [artikel 90](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [91 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
-
-– het horen van belanghebbenden als bedoeld in [artikel 4:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);    
-
-1.3.2 van de Keuringsstations: 
-
-a. de Technisch Medewerker: 
-
-– het uitvoeren van steekproefsgewijze (her)keuringen van voertuigen, in het kader van het toezicht op naleving van de, uit de verleende erkenningen en bevoegdheden voortvloeiend verplichtingen, op basis van [artikel 86](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 86a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 102, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
-
-– het uitvoeren van steekproefsgewijze controles, op basis van artikel 34, van de Regeling voorschriften tachografen;  
+– het uitvoeren van (her)keuringen van voertuigen, in het kader van het toezicht op naleving van de, uit de verleende erkenningen en bevoegdheden voortvloeiend verplichtingen, op basis van [artikel 86](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 86a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 102, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 – het verrichten van de volgende keuringen, met daarbij de afgifte of weigering tot afgifte van een keuringsbewijs: 
 
-* APK ([artikel 53](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 78, eerste lid, aanhef en onder a, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– APK ([artikel 53](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 78, eerste lid, aanhef en onder a, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)); periodieke autobuskeuringen;  
 
-* periodieke autobuskeuringen;  
+– toelatingskeuringen in verband met invoer, na wijziging van het voertuig of na schade;  
 
-* toelatingskeuringen in verband met invoer, na wijziging van het voertuig of na schade;  
+– eerste keuringen van taxi’s;  
 
-* eerste keuringen van taxi’s;  
-
-* eerste en periodieke keuringen van VLG/ADR-voertuigen (Gevaarlijke stoffen);    
+– eerste en periodieke keuringen van VLG/ADR-voertuigen (Gevaarlijke stoffen);    
 
 – het ambtelijk wegen van voertuigen ter bepaling van de asbelasting, respectievelijk de ledige massa van het voertuig;  
 
@@ -885,9 +852,9 @@ a. de Technisch Medewerker:
 
 – de afgifte van besluiten inzake het goedkeuren of afkeuren van voertuigen en te overleggen documenten in verband met de (her)afgifte van kentekenbewijzen;  
 
-– het uitvoeren van steekproefsgewijze heronderzoeken in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen;    
+– het ambtelijk wegen van voertuigen ter bepaling van de asbelasting, respectievelijk de ledige massa van het voertuig;    
 
-b. de Administratief Medewerker: 
+b. de Administratief Medewerkers: 
 
 – het innemen van originele kentekenbewijzen bij wijzigingen van de voertuiggegevens;  
 
@@ -899,21 +866,35 @@ b. de Administratief Medewerker:
 
 – de afgifte van uitvoerverklaringen in gevallen waarbij voertuigen voorgoed buiten Nederland worden gebracht, eventueel in combinatie met een uitvoerkentekenbewijs (registratie van export, ten behoeve van het kentekenregister, op basis van de [artikelen 31](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) en [33 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md)). Tevens inname kentekenplaten;  
 
-– de afgifte van VLG/ADR-documenten op basis van de overgangsbepalingen ten aanzien van het vervoer van tankcontainers (randnummer 10.605 ADR) en ten aanzien van het vervoer van stoffen van de klasse 9,20c (randnummer 211.980 ADR) en van klasse 3,61c (randnummer 211.381 ADR);  
+– de afgifte van VLG/ADR-documenten op basis van de overgangsbepalingen ten aanzien van het vervoer van tankcontainers (randnummer 10.605 ADR) en ten aanzien van het vervoer van stoffen van de klasse 9,20c (randnummer 211.980 ADR) en van klasse 3,61c (randnummer 211.381 ADR).      
 
-– het ambtelijk wegen van voertuigen ter bepaling van de asbelasting, respectievelijk de ledige massa van het voertuig.          
+1.4. Van het bedrijfsproces APK 
+
+a. de Inspecteurs: 
+
+– het schouwen van bedrijven in het kader van de afgifte van erkenningen als bedoeld in [hoofdstuk 5, paragraaf 1 tot en met 8](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [hoofdstuk 6, afdeling 9, paragraaf 5, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 9:2 van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), en de [Regeling erkenning werkplaatsen boordcomputer Taxi](../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md);  
+
+– het toezicht op naleving van de, uit de verleende erkenningen en bevoegdheden voortvloeiende verplichtingen, zoals het uitvoeren van herschouwingen en het verrichten van controles bij erkende bedrijven in het kader van het toezichtbeleid RDW;  
+
+– het optreden als deskundige als bedoeld in [artikel 90](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [91 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+
+– het horen van belanghebbenden als bedoeld in [artikel 4:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);    
+
+b. de Steekproefcontroleurs: 
+
+– het houden van toezicht op de naleving van verplichtingen die voortvloeien uit de verleende erkenningen en bevoegdheden als bedoeld in [hoofdstuk 5, paragraaf 1 tot en met 8](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [hoofdstuk 6, afdeling 9, paragraaf 5, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 9:2 van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), en de [Regeling erkenning werkplaatsen boordcomputer Taxi](../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md), alsmede het uitvoeren van steekproefsgewijze controles in dat kader.        
 
 2. Van de Divisie Registratie en Informatie (R&I): 
 
-2.1 van de unit Erkenningen en Toezicht: de bedrijvencontroleurs: 
+2.1. van de unit Erkenningen en Toezicht: de bedrijvencontroleurs: 
 
 – het schouwen van bedrijven in het kader van afgifte erkenning bedrijfsvoorraad en onderliggende bevoegdheden, van erkenning kentekenplaatfabrikanten, van erkenning lamineerders en van erkenning foliefabrikanten;  
 
 – het toezicht op naleving van de, uit voornoemde erkenningen en bevoegdheden voortvloeiende verplichtingen, zoals het uitvoeren van periodieke controles van de bedrijfsvoorraad en van de gevoerde administratie bij erkende bedrijven in het kader van het toezichtbeleid RDW;    
 
-2.2 van de afdeling Klantenservice RDW: 
+2.2. van de afdeling Klantenservice RDW: 
 
-2.2.1 van de unit KCC en de unit Informatieverstrekking: de productieconsultants KCC, de (senior) medewerkers KCC en de (senior) medewerkers Informatieverstrekking: 
+2.2.1. van de unit KCC en de unit Informatieverstrekking: de productieconsultants KCC, de (senior) medewerkers KCC en de (senior) medewerkers Informatieverstrekking: 
 
 – de afgifte van Registratieverklaringen;  
 
@@ -933,19 +914,19 @@ b. de Administratief Medewerker:
 
 – de afgifte van vervangende keuringsbewijzen, op basis van [artikel 80 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);    
 
-2.2.2 van de unit Landelijk Informatiecentrum Voertuigcriminaliteit (LIV): de relatiemanager; 
+2.2.2. van de unit Landelijk Informatiecentrum Voertuigcriminaliteit (LIV): de relatiemanager: 
 
 – het, namens het LIV, voeren van overleg en het maken van afspraken met externe partijen;  
 
-– het voeren van correspondentie met deze externe partijen;   de medewerkers LIV: 
+– het voeren van correspondentie met deze externe partijen;     de medewerkers LIV: 
 
-– het ongeldig verklaren van kentekenbewijzen voor het rijden over de weg, op basis van [artikel 58 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) in samenhang met [artikel 6 onder g](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) en [artikel 38 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md);      
+– het ongeldig verklaren van kentekenbewijzen voor het rijden over de weg, op basis van [artikel 58 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) in samenhang met [artikel 6 onder g](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) en [artikel 38 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md);    
 
-2.3 van de unit Rijbewijzen: de medewerkers Beoordeling en Helpdesk: 
+2.3. van de unit Rijbewijzen: de medewerkers Beoordeling en Helpdesk: 
 
 – het in ontvangst nemen van aanvragen voor en het afgeven van rijbewijzen en verklaringen uit het register CRB;    
 
-2.4 van de afdeling Relatiemanagement RDW (RM): 
+2.4. van de afdeling Relatiemanagement RDW (RM): 
 
 a. de productieconsultant RM en de medewerkers van de unit Klanten Beheer en Informatie: 
 
@@ -959,7 +940,7 @@ b. de relatiemanagers:
 
 – het voeren van correspondentie met deze externe relaties.      
 
-2.5 van de afdeling Operations: de Interfacecoördinator Operations: 
+2.5. van de afdeling Operations: de Interfacecoördinator Operations: 
 
 – het registreren van klachten en het coördineren van de afhandeling daarvan;  
 
