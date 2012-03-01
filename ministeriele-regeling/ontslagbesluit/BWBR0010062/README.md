@@ -3,7 +3,7 @@ Directie Arbeidsverhoudingen
 ##Ontslagbesluit
 
 De Minister van Sociale Zaken en Werkgelegenheid;  
-Gelet op [artikel 6, derde en vierde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md) en [artikel 1, onder d, van de Wet melding collectief ontslag](../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md);
+Gelet op artikel 6, derde en vierde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 en artikel 1, onder d, van de Wet melding collectief ontslag;
 
 Gezien de adviezen van de Stichting van de Arbeid inzake aanpassing van de preventieve ontslagtoets van 29 mei 1995 (Publicatienr. 3/95), van 3 juni 1997 (S.A.97.13584/Ha) inzake anciënniteit bij projectgebonden activiteiten en van 11 november 1998 (S.A. 98.25147/Ha) inzake uitzendrelaties;
 Besluit:     
@@ -15,17 +15,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+a. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-b. werkgever, werknemer en arbeidsverhouding: hetgeen daaronder wordt verstaan in [artikel 1, onderdelen b tot en met d, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md);  
+b. werkgever, werknemer en arbeidsverhouding: hetgeen daaronder wordt verstaan in artikel 1, onderdelen b tot en met d, van het Buitengewoon Besluit Arbeidsverhoudingen 1945;  
 
-c. Ontslagadviescommissie: de vertegenwoordigers van de voor de toepassing van [artikel 6, vierde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md) in aanmerking komende organisaties van werkgevers en werknemers, die de Stichting van de Arbeid als representatieve organisaties heeft aangewezen;  
+c. Ontslagadviescommissie: de vertegenwoordigers van de voor de toepassing van artikel 6, vierde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 in aanmerking komende organisaties van werkgevers en werknemers, die de Stichting van de Arbeid als representatieve organisaties heeft aangewezen;  
 
 d. Arbeidsinspectie: de bevoegde directeur van het regionaal kantoor van de Arbeidsinspectie, bedoeld in artikel 5 van het Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2002.    
 
 ### Artikel  1:3  
 
-1.  Voor de werkgebieden, bedoeld in [artikel 1, onderdeel d, van de Wet melding collectief ontslag](../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md) geldt de indeling in districten op grond van [bijlage 2 van het Besluit werkgebieden UWV WERKbedrijf](../../../zbo/besluit/werkgebieden/cwi/BWBR0013498/README.md).   
+1.  De werkgebieden, bedoeld in artikel 1, onderdeel d, van de Wet melding collectief ontslag zijn: 
+
+a. Friesland, Groningen en Drenthe;  
+
+b. Overijssel en Gelderland;  
+
+c. Noord-Brabant en Limburg;  
+
+d. Zuid-Holland en Zeeland;  
+
+e. Flevoland en Utrecht;  
+
+f. Noord-Holland.     
 2.  Indien het Uitvoeringsinstituut werknemersverzekeringen een melding van een collectief ontslag ontvangt, zendt hij hiervan een afschrift, vergezeld van een rapport waarin de gemelde gegevens en verdere bijzonderheden zijn samengevat, toe aan de Minister van Sociale Zaken en Werkgelegenheid.   
 
 ### §  2  
@@ -76,14 +88,14 @@ Het Uitvoeringsinstituut werknemersverzekeringen beoordeelt of het voorgenomen o
 
 ### Artikel  4:1  
 
-1.  In geval van redenen van bedrijfseconomische aard moet de werkgever aannemelijk maken dat op grond hiervan een of meer arbeidsplaatsen dienen te vervallen. De eerste volzin is niet van toepassing indien bij het verzoek om toestemming voor opzegging van de arbeidsverhouding een verklaring van de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid van de Wet melding collectief ontslag](../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md) is gevoegd dat de door de werkgever aangevoerde redenen leiden tot het vervallen van het door werkgever voorgestelde aantal arbeidsplaatsen.   
+1.  In geval van redenen van bedrijfseconomische aard moet de werkgever aannemelijk maken dat op grond hiervan een of meer arbeidsplaatsen dienen te vervallen. De eerste volzin is niet van toepassing indien bij het verzoek om toestemming voor opzegging van de arbeidsverhouding een verklaring van de belanghebbende verenigingen van werknemers als bedoeld in artikel 3, vierde lid van de Wet melding collectief ontslag is gevoegd dat de door de werkgever aangevoerde redenen leiden tot het vervallen van het door werkgever voorgestelde aantal arbeidsplaatsen.   
 2.  Het Uitvoeringsinstituut werknemersverzekeringen verleent toestemming voor opzegging van de arbeidsverhouding van de daarbij betrokken werknemers met inachtneming van de artikelen 4:2 tot en met 4:4.   
 3.  Indien een uitzendwerkgever als bedoeld in Bijlage B een verzoek om toestemming tot opzegging van een arbeidsverhouding doet op grond van bedrijfseconomische redenen wordt bij de beoordeling van die redenen tevens die bijlage in acht genomen.   
 
 ### Artikel  4:2  
 
 1.  Voor zover het bij de te vervallen arbeidsplaatsen om uitwisselbare functies gaat, worden per leeftijdsgroep binnen een categorie uitwisselbare functies van de bedrijfsvestiging de werknemers met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht, waarbij het aantal werknemers dat per leeftijdsgroep voor ontslag in aanmerking wordt gebracht voor zover mogelijk overeenkomt met de onderlinge verhouding van het aantal werknemers in elk van de leeftijdsgroepen binnen de betreffende categorie uitwisselbare functies. De in de eerste volzin bedoelde leeftijdsgroepen zijn de groepen van 15 tot 25 jaar, van 25 tot 35 jaar, van 35 tot 45 jaar, van 45 tot 55 jaar en van 55 jaar en ouder.   
-2.  In afwijking van het eerste lid is op een verzoek om toestemming tot opzegging van overeenkomst in de schoonmaaksector bijlage A en van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)bijlage B bij deze regeling van toepassing.   
+2.  In afwijking van het eerste lid is op een verzoek om toestemming tot opzegging van overeenkomst in de schoonmaaksector bijlage A en van een uitzendovereenkomst als bedoeld in artikel 690 van Boek 7 van het Burgerlijk Wetboekbijlage B bij deze regeling van toepassing.   
 3.  Indien de werkgever aannemelijk maakt dat de vervanging van een werknemer die uit hoofde van zijn functie bij een derde te werk is gesteld om onder diens toezicht en leiding werkzaam te zijn, in redelijkheid niet kan worden geëffectueerd, kan het Uitvoeringsinstituut werknemersverzekeringen deze werknemer bij de toepassing van het eerste lid buiten beschouwing laten.   
 4.  Indien de werkgever aannemelijk maakt dat een werknemer over zodanige bijzondere kennis of bekwaamheden beschikt, dat zijn ontslag voor het functioneren van de onderneming te bezwaarlijk zou zijn, kan het Uitvoeringsinstituut werknemersverzekeringen deze werknemer bij de toepassing van het eerste en tweede lid buiten beschouwing laten.   
 5.  Het Uitvoeringsinstituut werknemersverzekeringen kan toestemming weigeren ten aanzien van een werknemer die overeenkomstig het eerste of tweede lid voor ontslag in aanmerking komt, indien deze werknemer een zwakke arbeidsmarktpositie heeft, en dit niet het geval is met de werknemer die alsdan voor ontslag in aanmerking komt.   
@@ -97,13 +109,13 @@ Het Uitvoeringsinstituut werknemersverzekeringen weigert toestemming voor opzegg
 1.  Indien toepassing van de artikelen 4:1 en 4:2 er toe leidt dat een of meer werknemers met een arbeidshandicap voor ontslag in aanmerking komen, kan toestemming te hunner aanzien slechts worden verleend indien is voldaan aan artikel 5:2, onderdeel b.   
 2.  Als werknemers met een arbeidshandicap, bedoeld in het eerste lid, worden aangemerkt werknemers: 
 
-a. die voor 29 december 2005 als arbeidsgehandicapte zijn aangemerkt op grond van de [Wet op de (re)integratie arbeidsgehandicapten](../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md) voor zolang aanspraak bestaat op voorzieningen op grond van die wet;  
+a. die voor 29 december 2005 als arbeidsgehandicapte zijn aangemerkt op grond van de Wet op de (re)integratie arbeidsgehandicapten voor zolang aanspraak bestaat op voorzieningen op grond van die wet;  
 
-b. met een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of een uitkering of recht op arbeidsondersteuning op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+b. met een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen of de Wet arbeidsongeschiktheidsverzekering zelfstandigen of een uitkering of recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
 c. waarvoor voorzieningen zijn getroffen tot behoud, herstel of ter bevordering van de mogelijkheid tot het verrichten van arbeid; of  
 
-d. die bij ziekte recht hebben op ziekengeld als bedoeld in [artikel 29b van de Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md).     
+d. die bij ziekte recht hebben op ziekengeld als bedoeld in artikel 29b van de Ziektewet.     
 
 ### Artikel  4:5  
 
@@ -163,7 +175,7 @@ Het Delegatiebesluit 1993 wordt ingetrokken.
 
 ### Artikel  8:2  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop het bij Koninklijke boodschap van 7 maart 1997 ingediende [voorstel van wet tot wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid)](../../../wet/flexwet/BWBR0009612/README.md) (Stb. 1998, 300) in werking treedt.  
+Deze regeling treedt in werking met ingang van het tijdstip waarop het bij Koninklijke boodschap van 7 maart 1997 ingediende voorstel van wet tot wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid) (Stb. 1998, 300) in werking treedt.  
 
 ### Artikel  8:3  
 
@@ -184,7 +196,7 @@ Gelet op de bijzondere aard van de dienstverlening van het schoonmaakbedrijf wor
 
 die korter dan één jaar te rekenen vanaf de startdatum van het project samenwerken;  
 
-waarbinnen in het voorafgaande jaar méér dan eens de samenstelling is gewijzigd, anders dan bijvoorbeeld ten gevolge van inval of uitval wegens ziekte, vakantie, promotie, opleiding of ontslag van een werknemer.   Voor deze afwijkingsmogelijkheid is gekozen omdat bij één vestiging van een schoonmaakbedrijf meerdere schoonmaakprojecten kunnen zijn aanbesteed en een strikte toepassing van artikel 4:2, eerste lid, per categorie uitwisselbare functies van de bedrijfsvestiging tot onredelijke resultaten kan leiden. Dit zou er onder meer toe kunnen leiden dat werknemers met een uitwisselbare functie, werkzaam in het kader van een ander project, op grond van een kortere diensttijd ontslagen zouden moeten worden, hoewel het project, waarin zij werken ‐ vaak al lange tijd in een vaste ploeg ‐ niet wordt beëindigd. Voor de betrokken werknemers, die vaak al lange tijd in één ploeg werkzaam zijn, is het ontslag in zo’n geval veelal onbegrijpelijk, omdat het project waar zij werkzaam zijn niet wordt beëindigd. De herindeling van bestaande ploegen, die hiervan noodzakelijkerwijs het gevolg zou zijn, zou voor werkgevers een groot probleem vormen, omdat 
+waarbinnen in het voorafgaande jaar méér dan eens de samenstelling is gewijzigd, anders dan bijvoorbeeld ten gevolge van inval of uitval wegens ziekte, vakantie, promotie, opleiding of ontslag van een werknemer.   Voor deze afwijkingsmogelijkheid is gekozen omdat bij één vestiging van een schoonmaakbedrijf meerdere schoonmaakprojecten kunnen zijn aanbesteed en een strikte toepassing van artikel 4:2, eerste lid, per categorie uitwisselbare functies van de bedrijfsvestiging tot onredelijke resultaten kan leiden. Dit zou er onder meer toe kunnen leiden dat werknemers met een uitwisselbare functie, werkzaam in het kader van een ander project, op grond van een kortere diensttijd ontslagen zouden moeten worden, hoewel het project, waarin zij werken – vaak al lange tijd in een vaste ploeg – niet wordt beëindigd. Voor de betrokken werknemers, die vaak al lange tijd in één ploeg werkzaam zijn, is het ontslag in zo’n geval veelal onbegrijpelijk, omdat het project waar zij werkzaam zijn niet wordt beëindigd. De herindeling van bestaande ploegen, die hiervan noodzakelijkerwijs het gevolg zou zijn, zou voor werkgevers een groot probleem vormen, omdat 
 
 ten gevolge van de looptijd (gemiddeld 3 jaar) van de projecten vrij frequent opnieuw een indeling van ploegen gemaakt moet worden;  
 
@@ -200,7 +212,7 @@ In geval van een verzoek om toestemming tot opzegging van de arbeidsverhouding v
 
 die als doelstelling heeft om in het kader van beroep of bedrijf werknemers ter beschikking te stellen aan derden (opdrachtgevers) om onder hun leiding en toezicht werkzaam te zijn en zodoende vraag en aanbod op de arbeidsmarkt bij elkaar te brengen (hetgeen kan blijken uit de statuten van de werkgever-rechtspersoon dan wel uit andere feiten of omstandigheden zoals het openstellen van de mogelijkheid tot inschrijving door werkzoekenden); én  
 
-wiens premieplichtige loonsom op jaarbasis voor ten minste 50% wordt gerealiseerd in het kader van uitzendovereenkomsten als bedoeld in [artikel 7:690 BW](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) (onder andere conform het Besluit indeling uitzendbedrijven van 6 oktober 1999 als vermeld in de Stcrt. 2000, nr. 49).   Indien de werkgever aan deze twee criteria voldoet zijn de ontslagregels in deze bijlage van toepassing ten aanzien van werknemers met wie uitdrukkelijk is overeengekomen dat zij uitsluitend en voor de volledige bedongen arbeidsduur onder toezicht en leiding van een derde werkzaam zullen zijn. Daarbij worden korte perioden waarin deze werknemers ter vermijding van leegloopkosten eventueel anderszins werkzaam zijn buiten beschouwing gelaten. Een dergelijk ontslag voor een of meer werknemers moet aannemelijk worden gemaakt aan de hand van bescheiden, waaruit blijkt dat de inleenopdracht is komen te vervallen en herplaatsingsmogelijkheden ontbreken. Voor de beoordeling van de herplaatsingsmogelijkheden is de actuele situatie relevant en worden de herplaatsingsinspanningen door de werkgever ‐ afhankelijk van de periode dat een werknemer heeft gewerkt ‐ gepleegd in een periode van 1, 3 of 4 maanden, te rekenen vanaf het moment dat inleenopdracht is komen te vervallen. Indien de werknemer korter dan 5 jaar heeft gewerkt spant werkgever zich tenminste 1 maand in om de werknemer(s) te herplaatsen, bij een arbeidsverleden van 5 tot 10 jaar voor een periode van tenminste 3 maanden en indien een werknemer meer dan 10 jaar heeft gewerkt gedurende een periode van tenminste 4 maanden. Het spreekt voor zich, dat het Uitvoeringsinstituut werknemersverzekeringen genoemde termijnen buiten beschouwing kan laten, indien hierdoor de werkgelegenheid van de overige werknemers in gevaar zou worden gebracht. Bij aanwezige herplaatsingsmogelijkheden neemt werkgever voor het doen van een aanbod de volgorde van de opgebouwde diensttijd van de met ontslag bedreigde werknemers zoveel mogelijk in acht. Gelet op het specifieke, driezijdige karakter van de uitzendrelatie, waarbij het inbreken in een lopende uitzendrelatie onder omstandigheden op gespannen voet kan komen te staan met het genoemde bijzondere karakter van de uitzendsector, worden ingeval van ontslag wegens beëindiging van een inleenopdracht werknemers voor ontslag in aanmerking gebracht met toepassing van artikel 4:2, eerste lid, met dien verstande dat daarbij niet wordt uitgegaan van alle inleenopdrachten van de bedrijfsvestiging maar slechts van 
+wiens premieplichtige loonsom op jaarbasis voor ten minste 50% wordt gerealiseerd in het kader van uitzendovereenkomsten als bedoeld in artikel 7:690 BW (onder andere conform het Besluit indeling uitzendbedrijven van 6 oktober 1999 als vermeld in de Stcrt. 2000, nr. 49).   Indien de werkgever aan deze twee criteria voldoet zijn de ontslagregels in deze bijlage van toepassing ten aanzien van werknemers met wie uitdrukkelijk is overeengekomen dat zij uitsluitend en voor de volledige bedongen arbeidsduur onder toezicht en leiding van een derde werkzaam zullen zijn. Daarbij worden korte perioden waarin deze werknemers ter vermijding van leegloopkosten eventueel anderszins werkzaam zijn buiten beschouwing gelaten. Een dergelijk ontslag voor een of meer werknemers moet aannemelijk worden gemaakt aan de hand van bescheiden, waaruit blijkt dat de inleenopdracht is komen te vervallen en herplaatsingsmogelijkheden ontbreken. Voor de beoordeling van de herplaatsingsmogelijkheden is de actuele situatie relevant en worden de herplaatsingsinspanningen door de werkgever ‐ afhankelijk van de periode dat een werknemer heeft gewerkt ‐ gepleegd in een periode van 1, 3 of 4 maanden, te rekenen vanaf het moment dat inleenopdracht is komen te vervallen. Indien de werknemer korter dan 5 jaar heeft gewerkt spant werkgever zich tenminste 1 maand in om de werknemer(s) te herplaatsen, bij een arbeidsverleden van 5 tot 10 jaar voor een periode van tenminste 3 maanden en indien een werknemer meer dan 10 jaar heeft gewerkt gedurende een periode van tenminste 4 maanden. Het spreekt voor zich, dat het Uitvoeringsinstituut werknemersverzekeringen genoemde termijnen buiten beschouwing kan laten, indien hierdoor de werkgelegenheid van de overige werknemers in gevaar zou worden gebracht. Bij aanwezige herplaatsingsmogelijkheden neemt werkgever voor het doen van een aanbod de volgorde van de opgebouwde diensttijd van de met ontslag bedreigde werknemers zoveel mogelijk in acht. Gelet op het specifieke, driezijdige karakter van de uitzendrelatie, waarbij het inbreken in een lopende uitzendrelatie onder omstandigheden op gespannen voet kan komen te staan met het genoemde bijzondere karakter van de uitzendsector, worden ingeval van ontslag wegens beëindiging van een inleenopdracht werknemers voor ontslag in aanmerking gebracht met toepassing van artikel 4:2, eerste lid, met dien verstande dat daarbij niet wordt uitgegaan van alle inleenopdrachten van de bedrijfsvestiging maar slechts van 
 
 de inleenopdrachten met uitwisselbare functies bij het inleenbedrijf waar de werknemer laatstelijk werkzaam was, en  
 

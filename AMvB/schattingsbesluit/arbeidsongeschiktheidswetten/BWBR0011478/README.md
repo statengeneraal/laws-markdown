@@ -40,7 +40,23 @@ h. refertejaar: refertejaar, bedoeld in [artikel 1 van het Besluit dagloonregels
 
 i. maatgevende arbeid: uitgeoefende arbeid door gezonde personen met soortgelijke opleiding en ervaring, als bedoeld in [artikel 18, eerste lid, van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [artikelen 2:2, eerste lid](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en [3:1, eerste lid, van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en in [artikel 1, onder maatmaninkomen, van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
 
-j. loondervingsuitkeringen: loondervingsuitkeringen, bedoeld in [artikel 1 van het Inkomensbesluit Wet WIA](../../../../AMvB/inkomensbesluit/wet/wia/BWBR0019165/README.md), alsmede de uitkeringen en inkomensvoorzieningen op grond van de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Waz](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en arbeidsongeschiktheidsuitkeringen, die daarmee naar hun strekking overeenkomen.    
+j. loondervingsuitkeringen: 
+
+1°. uitkeringen op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+
+2°. uitkeringen op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md);  
+
+3°. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of de bezoldiging op grond van [artikel 76a van de Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md);  
+
+4°. uitkeringen op grond van de [artikelen 6](../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md), [51](../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) en [131 van de Algemene pensioenwet politieke ambtsdragers](../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md);  
+
+5°. uitkeringen bij ziekte of werkloosheid op grond van een regeling welke geldt voor personen die op grond van [artikel 6, eerste lid, onderdeel a of onderdeel b, van de Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) onderscheidenlijk [artikel 6, eerste lid, onderdeel a of onderdeel b, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), niet ingevolge [die wet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) verzekerd zijn;  
+
+6°. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de leeftijd van 65 jaar;  
+
+7°. uitkeringen op grond van de wetgeving van Aruba, Curaçao, Sint Maarten, of van Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba, een andere Mogendheid of een volkenrechtelijke organisatie die naar aard en strekking overeenkomen met de uitkeringen, bedoeld onder 1° tot en met 6°;  
+
+8°. uitkeringen en inkomensvoorzieningen op grond van de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Waz](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en arbeidsongeschiktheidsuitkeringen, die daarmee naar hun strekking overeenkomen.      
 
 ### Artikel  2  
 

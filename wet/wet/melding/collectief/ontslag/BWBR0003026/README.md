@@ -26,13 +26,16 @@ d. *werkgebied:* een door Onze Minister vastgesteld gebied.
 
 ### Artikel  2  
 
-1.  Deze wet is niet van toepassing op het doen eindigen van een dienstbetrekking: 
+1.  Deze wet is niet van toepassing op het beëindigen van: 
 
-a. waarvoor geen toestemming van het bevoegd gezag vereist is;  
+a. een arbeidsverhouding als bedoeld in [artikel 2 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md);  
 
-b. uitsluitend om redenen die de persoon van de werknemer betreffen.     
-2.  Deze wet is voorts niet van toepassing op het doen eindigen van dienstbetrekkingen wegens het aflopen van de seizoenarbeid voor het verrichten waarvan zij werden aangegaan. Onze Minister kan arbeid aanwijzen, die voor de toepassing van de vorige volzin in ieder geval als seizoenarbeid wordt beschouwd. Een zodanige aanwijzing wordt in de *Nederlandse Staatscourant* bekend gemaakt.   
-3.  In afwijking van het eerste lid zijn de artikelen 3 en 4, eerste en tweede lid van deze wet tevens van toepassing op het doen eindigen van dienstbetrekkingen ten gevolge van faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.   
+b. een arbeidsovereenkomst uitsluitend om redenen die de persoon van de werknemer betreffen;  
+
+c. een arbeidsovereenkomst tijdens de proeftijd;  
+
+d. een arbeidsovereenkomst met bestuurders van naamloze en besloten vennootschappen.     
+2.  Deze wet is voorts niet van toepassing op het beëindigen van arbeidsovereenkomsten wegens het aflopen van de seizoenarbeid voor het verrichten waarvan zij werden aangegaan. Onze Minister kan arbeid aanwijzen, die voor de toepassing van de vorige volzin in ieder geval als seizoenarbeid wordt beschouwd. Een zodanige aanwijzing wordt in de *Nederlandse Staatscourant* bekend gemaakt.   
 
 ### §  2  
 
@@ -40,23 +43,24 @@ b. uitsluitend om redenen die de persoon van de werknemer betreffen.
 
 ### Artikel  3  
 
-1.  Een werkgever die voornemens is de dienstbetrekkingen van ten minste twintig werknemers, werkzaam in één werkgebied, op een of meer binnen een tijdvak van drie maanden gelegen tijdstippen te doen eindigen, meldt dit ter tijdige raadpleging schriftelijk aan de belanghebbende verenigingen van werknemers. Een gelijke schriftelijke melding doet hij aan het bevoegd gezag; in geval van faillissement alleen op verzoek van het bevoegd gezag.   
-2.  Voor de berekening van het in het eerste lid bedoelde aantal werknemers wordt met de in dat lid bedoelde wijze van beëindiging van de dienstbetrekking gelijk gesteld een verzoek tot ontbinding van de arbeidsovereenkomst als bedoeld in [artikel 685 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), ingediend door de werkgever om een of meer redenen die geen betrekking hebben op de persoon van de werknemer, op voorwaarde dat het aantal ingediende verzoeken gelijk is aan of hoger is dan vijf.   
-3.  De raadpleging, bedoeld in het eerste lid, heeft ten minste betrekking op de mogelijkheden om de collectieve ontslagen te voorkomen of in aantal te verminderen alsook op de mogelijkheid de gevolgen ervan te verzachten, door het nemen van sociale begeleidingsmaatregelen, meer bepaald om bij te dragen tot de herplaatsing of de omscholing van de ontslagen werknemers.   
-4.  Als belanghebbende vereniging van werknemers wordt beschouwd een vereniging van werknemers, die in de onderneming werkzame personen onder haar leden telt, krachtens haar statuten ten doel heeft de belangen van haar leden als werknemers te behartigen, als zodanig in de betrokken onderneming of bedrijfstak werkzaam is, voorts ten minste twee jaar in het bezit is van rechtspersoonlijkheid en als zodanig aan de werkgever bekend is. Deze bekendheid wordt verondersteld, indien de vereniging aan de werkgever schriftelijk heeft te kennen gegeven dat zij prijs stelt op meldingen van voornemens als bedoeld in het eerste lid.   
+1.  Een werkgever die voornemens is de arbeidsovereenkomsten van ten minste twintig werknemers, werkzaam in één werkgebied, op een of meer binnen een tijdvak van drie maanden gelegen tijdstippen te beëindigen, meldt dit ter tijdige raadpleging schriftelijk aan de belanghebbende verenigingen van werknemers. Een gelijke schriftelijke melding doet hij aan het bevoegd gezag; in geval van faillissement alleen op verzoek van het bevoegd gezag.   
+2.  De raadpleging, bedoeld in het eerste lid, heeft ten minste betrekking op de mogelijkheden om de collectieve ontslagen te voorkomen of in aantal te verminderen alsook op de mogelijkheid de gevolgen ervan te verzachten, door het nemen van sociale begeleidingsmaatregelen, meer bepaald om bij te dragen tot de herplaatsing of de omscholing van de werknemers ten aanzien van wie bij de werkgever het voornemen bestaat de arbeidsovereenkomst te beëindigen.   
+3.  Als belanghebbende vereniging van werknemers wordt beschouwd een vereniging van werknemers, die in de onderneming werkzame personen onder haar leden telt, krachtens haar statuten ten doel heeft de belangen van haar leden als werknemers te behartigen, als zodanig in de betrokken onderneming of bedrijfstak werkzaam is, voorts ten minste twee jaar in het bezit is van rechtspersoonlijkheid en als zodanig aan de werkgever bekend is. Deze bekendheid wordt verondersteld, indien de vereniging aan de werkgever schriftelijk heeft te kennen gegeven dat zij prijs stelt op meldingen van voornemens als bedoeld in het eerste lid.   
 
 ### Artikel  4  
 
 1.  De werkgever doet bij de meldingen, bedoeld in artikel 3, eerste lid, opgave van de overwegingen die tot het daar bedoelde voornemen hebben geleid.   
 2.  De werkgever doet bij de meldingen voorts zo nauwkeurig mogelijk opgave van: 
 
-a. het aantal werknemers wier dienstbetrekkingen hij voornemens is te doen eindigen, met een onderverdeling naar beroep of functie, leeftijd en geslacht, alsmede het aantal werknemers dat hij gewoonlijk in dienst heeft;  
+a. het aantal werknemers wier arbeidsovereenkomsten hij voornemens is te beëindigen, met een onderverdeling naar beroep of functie, leeftijd en geslacht, alsmede het aantal werknemers dat hij gewoonlijk in dienst heeft;  
 
-b. het tijdstip of de tijdstippen waarop hij de dienstbetrekkingen volgens zijn voornemen zal doen eindigen.  
+b. het tijdstip of de tijdstippen waarop hij de arbeidsovereenkomsten volgens zijn voornemen zal beëindigen.  
 
 c. de criteria die aangelegd zullen worden bij het selecteren van de voor ontslag in aanmerking komende werknemers;  
 
-d. de wijze van berekening van eventuele afvloeiingsuitkeringen.     
+d. de wijze van berekening van eventuele afvloeiingsuitkeringen;  
+
+e. de wijze waarop hij voornemens is de arbeidsovereenkomsten met zijn werknemers te beëindigen.     
 3.  De werkgever doet de melding aan het bevoegd gezag vergezeld gaan van een afschrift van de melding aan de belanghebbende verenigingen van werknemers. Hij zendt aan deze verenigingen een afschrift van de melding aan het bevoegd gezag.   
 4.  Ten slotte geeft de werkgever bij de melding aan het bevoegd gezag op: 
 
@@ -66,21 +70,35 @@ b. of het voornemen van de werkgever verband houdt met een besluit als bedoeld i
 
 c. het tijdstip waarop de ondernemingsraad over het betrokken besluit is of zal worden geraadpleegd, dan wel daarvan in kennis gesteld en geraadpleegd over de uitvoering daarvan.     
 5.  De werkgever houdt het bevoegd gezag op de hoogte van de raadpleging van de belanghebbende verenigingen van werknemers en van de ondernemingsraad.   
+6.  Het derde tot en met vijfde lid zijn niet van toepassing op het beëindigen van een arbeidsovereenkomst ten gevolge van faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.   
 
 ### Artikel  5  
 
 Indien bij een melding aan het bevoegd gezag de ingevolge artikel 4, eerste t/m vierde lid vereiste gegevens niet volledig zijn verstrekt, zendt het bevoegd gezag aan de werkgever een schriftelijke mededeling, aangevende welke gegevens nog ontbreken. Zolang de ontbrekende gegevens niet zijn verstrekt, wordt de melding geacht niet te zijn gedaan.  
 
+### Artikel  5a  
+
+1.  De arbeidsovereenkomst kan niet eerder door de werkgever worden opgezegd, op verzoek van de werkgever door de rechter worden ontbonden op grond van veranderingen in de omstandigheden als bedoeld in [artikel 685 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of op initiatief van de werkgever door middel van een beëindigingsovereenkomst worden beëindigd, dan een maand nadat het voornemen daartoe is gemeld, tenzij uit een verklaring van de belanghebbende verenigingen van werknemers blijkt dat zij zijn geraadpleegd en dat zij zich met de beëindigingen kunnen verenigen.   
+2.  Het eerste lid is niet van toepassing indien een arbeidsovereenkomst wordt beëindigd ten gevolge van het faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.   
+
 ### Artikel  6  
 
-1.  Het bevoegd gezag neemt verzoeken om toestemming tot het doen eindigen van de dienstbetrekkingen van werknemers ter uitvoering van een voornemen als bedoeld in artikel 3, eerste lid, niet eerder in behandeling dan een maand nadat dat voornemen is gemeld zoals bedoeld in de artikelen 3-5.   
-2.  Indien uit de melding blijkt, dat de ondernemingsraad van de betrokken onderneming alsnog geraadpleegd dient te worden of indien de belanghebbende verenigingen van werknemers door de werkgever nog niet voor het plegen van overleg zijn uitgenodigd, neemt het bevoegd gezag de in het eerste lid bedoelde verzoeken niet eerder in behandeling dan nadat aan dit gezag gebleken is dat die raadpleging heeft plaatsgevonden, onderscheidenlijk dat die uitnodiging is gedaan.   
-3.  Het bevoegd gezag kan het eerste en het tweede lid ten aanzien van daar bedoelde verzoeken buiten toepassing laten, indien die toepassing de herplaatsing van de met het ontslag bedreigde werknemers of de werkgelegenheid van de overige werknemers in de betrokken onderneming in gevaar zou brengen.   
-4.  Een besluit tot het buiten toepassing laten van het eerste en tweede lid behoeft de goedkeuring van Onze Minister. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
+1.  Het bevoegd gezag neemt verzoeken om toestemming tot het mogen opzeggen van de arbeidsovereenkomsten van werknemers niet eerder in behandeling, dan wel neemt verzoeken waarop het nog niet heeft beslist niet verder in behandeling dan nadat: 
+
+a. de werkgever aan de verplichting tot melding heeft voldaan; en  
+
+b. uit een schriftelijke verklaring van de werkgever blijkt dat de belanghebbende verenigingen van werknemers en de ondernemingsraad zijn geraadpleegd.     
+2.  Het bevoegd gezag kan de verplichting tot raadpleging, bedoeld in het eerste lid, onderdeel b, buiten toepassing laten indien de werkgever aannemelijk maakt dat de naleving hiervan de herplaatsing van de met ontslag bedreigde werknemers of de werkgelegenheid van de overige werknemers in de betrokken onderneming in gevaar zou brengen.   
+3.  Een besluit als bedoeld in het tweede lid behoeft de goedkeuring van Onze Minister. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
 
 ### Artikel  6a  
 
-Indien de melding wordt ondersteund door een verklaring van de belanghebbende verenigingen van werknemers dat zij zijn geraadpleegd en dat zij zich ermee kunnen verenigen, kunnen de verzoeken onmiddellijk in behandeling worden genomen.  
+1.  Een verzoek van de werkgever om de arbeidsovereenkomst met een werknemer om bedrijfseconomische redenen te ontbinden op grond van veranderingen in de omstandigheden, bedoeld in [artikel 685 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) kan de rechter slechts inwilligen, indien hij zich ervan heeft vergewist of het verzoek verband houdt met een voorgenomen beëindiging als bedoeld in artikel 3, eerste lid, en zo ja, of bij het verzoekschrift een schriftelijke verklaring is gevoegd van: 
+
+a. het bevoegd gezag waaruit blijkt dat aan de verplichting tot melding is voldaan; en  
+
+b. de werkgever waaruit blijkt dat de belanghebbende verenigingen van werknemers en de ondernemingsraad zijn geraadpleegd.     
+2.  Indien niet is voldaan aan de verplichting tot raadpleging, bedoeld in het eerste lid, onderdeel b, kan de rechter een verzoek om de arbeidsovereenkomst te ontbinden slechts inwilligen, zo nodig met buiten toepassing laten van de termijn, bedoeld in artikel 5a, eerste lid, indien de werkgever aannemelijk maakt dat de naleving van die verplichting de herplaatsing van de met ontslag bedreigde werknemers of de werkgelegenheid van de overige werknemers in de betrokken onderneming in gevaar zou brengen.   
 
 ### §  3  
 
@@ -88,10 +106,22 @@ Indien de melding wordt ondersteund door een verklaring van de belanghebbende ve
 
 ### Artikel  7  
 
-1.  Zodra het bevoegd gezag heeft vastgesteld dat een werkgever binnen een tijdvak van drie maanden heeft verzocht om toestemming tot het doen eindigen van de dienstbetrekkingen van ten minste twintig werknemers zonder dat die werkgever een die werknemers omvattende melding als bedoeld in artikel 3, eerste lid, heeft gedaan, neemt het bevoegd gezag de verzoeken waarop het nog niet heeft beslist niet of niet verder in behandeling. Van de toepassing van de vorige volzin doet het bevoegd gezag schriftelijk mededeling aan de werkgever.   
-2.  De werkgever wordt alsdan geacht voornemens te zijn de dienstbetrekkingen van de in het eerste lid bedoelde werknemers binnen een tijdvak van drie maanden te doen eindigen.   
-3.  De behandeling van de verzoeken waarop nog niet is beslist, wordt niet eerder aangevangen of voortgezet dan twee maanden nadat de werkgever overeenkomstig de artikelen 3-5 een melding heeft gedaan welke alle in het eerste lid bedoelde werknemers omvat.   
-4.  Artikel 6, tweede, derde en vierde lid, en artikel 6a zijn van overeenkomstige toepassing.   
+1.  De opzegging door de werkgever, behoudens in het geval het bevoegd gezag daarvoor toestemming heeft verleend met toepassing van artikel 6, tweede en derde lid, en een op initiatief van de werkgever gesloten beëindigingsovereenkomst zijn vernietigbaar, indien: 
+
+a. de werkgever niet aan de verplichting tot melding heeft voldaan;  
+
+b. de werkgever de belanghebbende verenigingen van werknemers en de ondernemingsraad, niet heeft geraadpleegd; of  
+
+c. niet is voldaan aan artikel 5a, eerste lid.     
+2.  De werknemer kan gedurende zes maanden na de opzegging van de arbeidsovereenkomst of het aangaan van de beëindigingsovereenkomst een beroep doen op een vernietigingsgrond als bedoeld in het eerste lid.   
+
+### Artikel  7a  
+
+Voor de toepassing van deze wet wordt de werkgever geacht aan de verplichting tot raadpleging van een belanghebbende vereniging van werknemers te hebben voldaan indien deze vereniging: 
+
+a. geen gevolg geeft aan een schriftelijke uitnodiging daartoe van de werkgever, mits die uitnodiging ten minste twee weken voor de datum van het overleg door de vereniging is ontvangen; of  
+
+b. schriftelijk heeft aangegeven af te zien van raadpleging.    
 
 ### §  4  
 
@@ -99,7 +129,7 @@ Indien de melding wordt ondersteund door een verklaring van de belanghebbende ve
 
 ### Artikel  8  
 
-Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in een commissie die het bevoegd gezag van advies dient, kennis neemt van een melding als bedoeld in artikel 3, eerste lid is verplicht tot geheimhouding van deze melding en van de inhoud daarvan, indien de werkgever dit bij die melding, onder opgave van redenen, uitdrukkelijk heeft verzocht. Deze verplichting vervalt zodra de verzoeken om toestemming tot ontslag in behandeling worden genomen, dan wel zoveel eerder als daaromtrent overeenstemming wordt bereikt tussen de werkgever en de verenigingen van werknemers aan welke de melding is gedaan.  
+Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in een commissie die het bevoegd gezag van advies dient, kennis neemt van een melding als bedoeld in artikel 3, eerste lid is verplicht tot geheimhouding van deze melding en van de inhoud daarvan, indien de werkgever dit bij die melding, onder opgave van redenen, uitdrukkelijk heeft verzocht. Deze verplichting vervalt zodra de verzoeken om toestemming tot het mogen opzeggen van de arbeidsovereenkomst of verzoeken om ontbinding van de arbeidsovereenkomst in behandeling worden genomen, dan wel zoveel eerder als daaromtrent overeenstemming wordt bereikt tussen de werkgever en de verenigingen van werknemers aan welke de melding is gedaan.  
 
 ### Artikel  9  
 

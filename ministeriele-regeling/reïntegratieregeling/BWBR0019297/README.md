@@ -44,7 +44,7 @@ b. ongehuwd: de persoon die duurzaam gescheiden leeft van de persoon met wie hij
 
 ####Maximaal bedrag starterskrediet
 
-Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), wordt vastgesteld op € 33.366.  
+Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), wordt vastgesteld op € 34.134.  
 
 ### §  2  
 
