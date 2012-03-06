@@ -1,16 +1,16 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wijziging Beschikking totalisator 1998
+##Wijziging Beschikking totalisator 1998 
 
 De Minister van Landbouw, Natuurbeheer en Visserij en de Minister van Justitie,  
 Gelet op de [artikelen 23](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [24](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [25](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [34, eerste lid, van de Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);
 
 Gezien het advies van het College van toezicht op de kansspelen van 5 juni 2003;
-Besluiten:    
+Besluiten:     
 
 ### Artikel  I  
 
-Wijzigt de [Beschikking totalisator 1998](../../../../../../ministeriele-regeling/beschikking/totalisator/1998/BWBR0009736/README.md).   
+Wijzigt de [Beschikking totalisator 1998](../../../../../../ministeriele-regeling/beschikking/totalisator/1998/BWBR0009736/README.md). 
 
 ### Artikel  II  
 
@@ -23,13 +23,13 @@ Bij afloop van de periode, bedoeld in [artikel 2, eerste lid, van de Beschikking
 
 ### Artikel  IV  
 
-Deze beschikking treedt in werking met ingang van 1 juli 2003, behoudens artikel I, onderdeel B, dat in werking treedt met ingang van een door de Ministers van Landbouw, Natuurbeheer en Visserij en van Justitie te bepalen tijdstip, afhankelijk van het kunnen verlenen van de in dat artikel bedoelde goedkeuring.  
+Deze beschikking treedt in werking met ingang van 1 juli 2003, behoudens artikel I, onderdeel B, dat in werking treedt met ingang van een door de Ministers van Landbouw, Natuurbeheer en Visserij en van Justitie te bepalen tijdstip, afhankelijk van het kunnen verlenen van de in dat artikel bedoelde goedkeuring. 
 Deze beschikking zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Landbouw, Natuurbeheer en Visserij, 
-C.P.Veerman 
+C.P.  Veerman  
 
 De 
 Minister van Justitie, 
-J.P.H.Donner.    
+J.P.H.Donner .    
