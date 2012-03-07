@@ -10,17 +10,17 @@ Overwegende dat de herdenking en overdenking van hetgeen in de Tweede Wereldoorl
 Overwegende dat 5 mei zodanig is verankerd in de samenleving dat een besluit tot aanwijzing van die dag als nationale feestdag is gerechtvaardigd;
 Hebben goedgevonden en verstaan:    
 
-### Enig  artikel  
+### Enig artikel  
 
-1.  De vijfde mei aan te wijzen als nationale feestdag waarop jaarlijks de bevrijding van het Koninkrijk in 1945 van de Duitse en Japanse bezetter wordt herdacht en gevierd.   
-2.  In te trekken het besluit van 12 maart 1982, nr. 1.   
-Onze Minister-President, Minister van Algemene Zaken, is belast met de uitvoering van dit besluit, dat met de daarbij behorende Nota van Toelichting in de Nederlandse Staatscourant zal worden geplaatst.   
+1.  De vijfde mei aan te wijzen als nationale feestdag waarop jaarlijks de bevrijding van het Koninkrijk in 1945 van de Duitse en Japanse bezetter wordt herdacht en gevierd.
+2. In te trekken het besluit van 12 maart 1982, nr. 1. 
+Onze Minister-President, Minister van Algemene Zaken, is belast met de uitvoering van dit besluit, dat met de daarbij behorende Nota van Toelichting in de Nederlandse Staatscourant zal worden geplaatst.  
 
-'s-Gravenhage 
-24 september 1990.  
-Beatrix  
+'s-Gravenhage
+24 september 1990.
+Beatrix 
 
 De 
 Minister-President,
 Minister van Algemene Zaken,
-R.F.M.Lubbers   
+R.F.M.Lubbers  

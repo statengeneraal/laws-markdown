@@ -56,7 +56,7 @@ Dit besluit is niet van toepassing op:
 
 a. inrichtingen in gebruik bij de krijgsmacht;  
 
-b. inrichtingen die krachtens [artikel 1, onderdeel n, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) aangewezen zijn als mijnbouwwerken, met uitzondering van inrichtingen waar chemische of thermische verwerkingsactiviteiten en de daarmee verbandhoudende opslag van gevaarlijke stoffen plaatsvinden;  
+b. inrichtingen voor het opsporen en winnen van delfstoffen als bedoeld in [artikel 1, onder e en f, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), met uitzondering van inrichtingen waar chemische en thermische verwerkingsactiviteiten en de daarmee verband houdende opslag van gevaarlijke stoffen plaatsvinden;  
 
 c. inrichtingen voor het op of in de bodem brengen van afvalstoffen om ze daar te laten, met uitzondering van inrichtingen die in werking zijn voor het zich ontdoen van residuen, waaronder residuvijvers of -bekkens, die gevaarlijke stoffen bevatten, in het bijzonder indien zij worden gebruikt in verband met chemische of thermische verwerking van mineralen;  
 
@@ -64,7 +64,7 @@ d. inrichtingen die geheel of nagenoeg geheel zijn bestemd voor de opslag in ver
 
 e. spoorwegemplacementen, voor zover zij geen onderdeel zijn van een inrichting waarop dit besluit van toepassing is;  
 
-f. inrichtingen die krachtens [artikel 1, onderdeel n, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) aangewezen zijn als mijnbouwwerken ten behoeve van het opsporen en winnen van delfstoffen als bedoeld in [artikel 1, onderdeel a, van die wet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), voorzover het opsporen en winnen van die delfstoffen plaatsvindt op het continentaal plat, bedoeld in [artikel 1, onderdeel c, van die wet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md).    
+f. inrichtingen die krachtens [artikel 1, onderdeel n, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) zijn aangewezen als mijnbouwwerken, voor zover het opsporen en winnen van delfstoffen dan wel het opslaan van gevaarlijke stoffen plaatsvindt op het continentaal plat, bedoeld in artikel 1, onderdeel c, van die wet.    
 
 ### Artikel  3  
 
@@ -87,7 +87,7 @@ b. in kleinere dan de onder a bedoelde hoeveelheden, waarvan de som na toepassin
 ### Artikel  5  
 
 1.  Degene die een inrichting drijft, treft alle maatregelen die nodig zijn om zware ongevallen te voorkomen en de gevolgen daarvan voor mens en milieu te beperken.   
-2.  Degene die een inrichting drijft, heeft in de inrichting een document voorhanden waarin het door hem gevoerde beleid ter voorkoming van zware ongevallen, rekening houdend met de aanwezigheid en de omvang van de risico's, is vastgelegd. Dit document bevat de algemene doelstellingen en beginselen van het beleid inzake de beheersing van de risico's van zware ongevallen. Degene die een inrichting drijft, als bedoeld in artikel 8, mag het document opnemen in het veiligheidsrapport.   
+2.  Degene die een inrichting drijft, heeft in de inrichting een document voorhanden waarin het door hem gevoerde beleid ter voorkoming van zware ongevallen, rekening houdend met de aanwezigheid en de omvang van de risico's, is vastgelegd. Dit document bevat de algemene doelstellingen en beginselen van het beleid inzake de beheersing van de risico's van zware ongevallen. Het document kan worden opgenomen in het veiligheidsrapport, het veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), dan wel in de combinatie van die twee rapporten, bedoeld in artikel 9, tweede lid.   
 3.  Ten einde het in het tweede lid bedoelde beleid te bepalen en uit te voeren, voert degene die een inrichting drijft, een veiligheidsbeheerssysteem in. In het veiligheidsbeheerssysteem komen de elementen, genoemd in bijlage II aan de orde.   
 4.  Indien in de inrichting of een onderdeel daarvan of in de werking van de inrichting of van dat onderdeel een verandering wordt aangebracht die voor de risico's van een zwaar ongeval belangrijke gevolgen kan hebben, draagt degene die de inrichting drijft, er voor zorg dat het beleid ter voorkoming van zware ongevallen en het veiligheidsbeheerssysteem opnieuw worden beoordeeld en indien nodig worden herzien en dat het document, bedoeld in het tweede lid, dienovereenkomstig wordt gewijzigd. Een zodanige beoordeling onderscheidenlijk herziening vindt tevens plaats indien een verandering in het veiligheidsinzicht daartoe aanleiding geeft.   
 5.  Onze Ministers kunnen nadere regels stellen met betrekking tot het tweede tot en met het vierde lid.   
@@ -147,7 +147,8 @@ b. in kleinere dan de onder a bedoelde hoeveelheden, waarvan de som na toepassin
 
 ### Artikel  9  
 
-Degene die een inrichting drijft, zorgt er voor dat in de inrichting een veiligheidsrapport aanwezig is dat de actuele stand van zaken met betrekking tot de veiligheid van de betrokken inrichting weergeeft.  
+1.  Degene die een inrichting drijft, zorgt er voor dat in de inrichting een veiligheidsrapport aanwezig is dat de actuele stand van zaken met betrekking tot de veiligheid van de betrokken inrichting weergeeft.   
+2.  Degene die een inrichting drijft kan het veiligheidsrapport met het veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), combineren tot één rapport.   
 
 ### Artikel  10  
 

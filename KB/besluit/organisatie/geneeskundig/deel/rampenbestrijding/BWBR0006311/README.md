@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onze Minister van Binnenlandse Zaken wordt belast met de organisatie van het geneeskundig deel van de rampenbestrijding.  
+Onze Minister van Binnenlandse Zaken wordt belast met de organisatie van het geneeskundig deel van de rampenbestrijding. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1993.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1993. 
 
 Onze Ministers van Welzijn, Volksgezondheid en Cultuur en van Binnenlandse Zaken zijn belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst.   
 
-'s-Gravenhage, 
+'s-Gravenhage 
 13 december 1993  
 Beatrix  
 
