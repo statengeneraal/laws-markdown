@@ -1,0 +1,38 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Selectielijst voor de neerslag van de handelingen van de minister van Buitenlandse Zaken en de onder hem ressorterende organisatieonderdelen belast met de bedrijfsvoering over de periode 1985–2010
+
+De staatssecretaris van Onderwijs, Cultuur en Wetenschap, en de minister van Buitenlandse Zaken,  
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+
+De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 11 januari 2012, nr. aca-2011.06289/4);
+Besluiten:    
+
+### Artikel  1  
+
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de minister van Buitenlandse Zaken en de onder hem ressorterende organisatieonderdelen belast met de bedrijfsvoering over de periode 1985–2010’ en de daarbij behorende toelichting worden vastgesteld. 
+
+### Artikel  2  
+
+De volgende selectielijsten worden buitenwerking gesteld voor de periode 1985–2010 voor de organisatieonderdelen belast met de bedrijfsvoering (een beschrijving van deze is opgenomen in de selectielijst) van het ministerie van Buitenlandse Zaken. De ‘[lijst Rijksbegroting ‘ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/op/het/etc/BWBR0017948/README.md), nr. C/S&A/05/138 d.d. 25 januari 2005 (gepubliceerd in de Staatscourant nr. 62 d.d. 31 maart 2005. De ‘[lijst Organisatie van de Rijksoverheid’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0018549/README.md), nr. C/S&A/05/1197 d.d. 5 juli 2005 (gepubliceerd in de Staatscourant nr. 245 d.d. 16 december 2005. De ‘l[ijst Inkomens- en arbeidsvoorwaardenbeleid’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021242/README.md), nr. C/S&A/06/548 d.d. 14 maart 2006 (gepubliceerd in de Staatscourant nr. 34 d.d. 16 februari 2007. De ‘[lijst Voorlichting van de Rijksoverheid’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022040/README.md), nr. C/S&A/06/1161 d.d. 3 mei 2007 (gepubliceerd in de Staatscourant nr. 112 d.d. 14 juni 2007. De ‘[lijst Rijkshuisvesting’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022281/README.md), nr. C/S&A/07/524 d.d. 12 maart 2007 (gepubliceerd in de Staatscourant nr. 245 d.d. 26 juli 2007. De ‘[lijst Formatiebeleid, arbeidsmarktbeleid en personeelsontwikkeling en mobiliteit’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022619/README.md), nr. C/S&A/07/2237 d.d. 11 september 2007 (gepubliceerd in de Staatscourant nr. 198 d.d. 12 oktober 2007. De ‘[lijst Arbeidsvoorwaarden Rijkspersoneel’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022620/README.md), nr. C/S&A/07/2236 d.d. 11 september 2007 (gepubliceerd in de Staatscourant nr. 199 d.d. 15 oktober 2007. De ‘[lijst Personeelsinformatievoorziening’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022633/README.md), nr. C/S&A/07/2238 d.d. 11 september 2007 (gepubliceerd in de Staatscourant nr. 200 d.d. 16 oktober 2007. De ‘[lijst Arbeidsverhoudingen’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022722/README.md), nr. C/S&A/07/2471 d.d. 3 oktober 2007 (gepubliceerd in de Staatscourant nr. 209 d.d. 29 oktober 2007. De ‘[lijst Buitensectorale Arbeidsvoorwaarden’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022739/README.md), nr. C/S&A/07/2473 d.d. 3 oktober 2007 (gepubliceerd in de Staatscourant nr. 210 d.d. 30 oktober 2007. De ‘[lijst P-Direkt/ personeelsdossiers’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling/besluit/vaststelling/basisselectiedocument/deelbeleidsterrein/etc/BWBR0022865/README.md), nr. C/S&A/07/1513 d.d. 16 augustus 2007 (gepubliceerd in de Staatscourant nr. 225 d.d. 20 november 2007, rectificatie Staatscourant nr. 245 d.d.18 december 2007). De ‘[lijst Arbeidsomstandigheden’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022918/README.md), nr. C/S&A/07/2726 d.d. 1 november 2007 (gepubliceerd in de Staatscourant nr. 233 d.d. 30 november 2007. De ‘[lijst Adelsbeleid, adelsrecht en decoratiestelsel’ (vastgesteld bij beschikking van de minister van Buitenlandse Zaken en de minister van Onderwijs, Cultuur en Wetenschap](../../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022934/README.md), nr. C/S&A/07/2722 d.d. 1 november 2007 (gepubliceerd in de Staatscourant nr. 236 d.d. 5 december 2007. 
+
+### Artikel  3  
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
+De staatssecretaris van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
+
+Den Haag 
+6 februari 2012   
+
+De 
+staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de algemene rijksarchivaris,
+M.J. Berendse   
+
+De 
+minister van Buitenlandse Zaken, namens deze: 
+Directeur-generaal Consulaire Zaken en Bedrijfsvoering, 
+M.T.G. van Daalen    
+
+###Selectielijst 
+
+Gepubliceerd op www.nationaalarchief.nl/waardering-selectie/selectielijsten.
