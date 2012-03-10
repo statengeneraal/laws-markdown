@@ -53,7 +53,7 @@ Deze wet is niet van toepassing op overeenkomsten van huur en verhuur van woonru
 ### Artikel  3a  
 
 1.  Er is een huurcommissie.   
-2.  De huurcommissie bestaat uit een bestuur en minimaal vier en maximaal tien zittingsvoorzitters. Daarnaast bestaat de huurcommissie uit zittingsleden uit de kring van huurders onderscheidenlijk de kring van verhuurders. Het bestuur bestaat uit een voorzitter en een plaatsvervangend voorzitter.   
+2.  De huurcommissie bestaat uit een bestuur en minimaal vier en maximaal tien zittingsvoorzitters. Daarnaast bestaat de huurcommissie uit zittingsleden uit de kring van huurders onderscheidenlijk de kring van verhuurders. Voor de behandeling van geschillen als bedoeld in artikel 4a kunnen ook personen van buiten de kring van huurders onderscheidenlijk de kring van verhuurders zittingslid zijn. Het bestuur bestaat uit een voorzitter en een plaatsvervangend voorzitter.   
 3.  Het bestuur en de zittingsvoorzitters hebben tot taak binnen de huurcommissie de eenheid en de kwaliteit van de uitspraken, adviezen en verklaringen te bevorderen. Zij kunnen met het oog hierop regels stellen. Bij de uitvoering van deze taak treden zij niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak.   
 4.  Indien ten aanzien van het stellen van de regels, bedoeld in het derde lid, tussen het bestuur enerzijds en de zittingsvoorzitters gezamenlijk anderzijds een verschil van mening bestaat, beslist het bestuur. Indien binnen het bestuur een verschil van mening bestaat, beslist de voorzitter. Indien binnen de kring van zittingsvoorzitters een verschil van mening bestaat, wordt onderling bij meerderheid van stemmen beslist, waarbij bij een staking van de stemmen binnen die kring het bestuur beslist.   
 5.  In afwijking van [artikel 20 van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), heeft het bestuur, in plaats van het zelfstandig bestuursorgaan, de bevoegdheden en taken die zijn genoemd in dat artikel.   
@@ -62,7 +62,7 @@ Deze wet is niet van toepassing op overeenkomsten van huur en verhuur van woonru
 
 1.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters worden door Onze Minister benoemd, geschorst en ontslagen. De voorzitter en de plaatsvervangend voorzitter worden benoemd voor een tijdvak van zes jaar en kunnen voor maximaal een aansluitend tijdvak van zes jaar als voorzitter onderscheidenlijk plaatsvervangend voorzitter worden herbenoemd. De zittingsvoorzitters worden over de benoeming en herbenoeming van de voorzitter en de plaatsvervangend voorzitter gehoord. De zittingsvoorzitters worden benoemd voor een tijdvak van vier jaar en kunnen voor maximaal twee aansluitende tijdvakken van vier jaar als zittingsvoorzitter worden herbenoemd. Het bestuur wordt over de benoeming en herbenoeming van de zittingsvoorzitters gehoord.   
 2.  Aan de voorzitter en de zittingsvoorzitters moet op grond van het afleggen van een examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht zijn verleend, dan wel moeten die voorzitter en die zittingsvoorzitters op grond van het afleggen van een examen van een opleiding aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht om de titel meester te voeren hebben verkregen, of blijk hebben gegeven op andere wijze de voor de functie van voorzitter onderscheidenlijk zittingsvoorzitter benodigde kennis te hebben verworven.   
-3.  Onverminderd [artikel 13, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), mogen de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters niet metterdaad betrokken zijn bij de uitoefening van een bedrijf dat werkzaam is of mede werkzaam is op het gebied van woonruimte, noch is het hen toegestaan beroepsmatig betrokken te zijn bij het beheer van en de beschikking over woonruimte dan wel deel uit te maken van het bestuur van een vereniging, vennootschap of stichting, die daarbij is betrokken.   
+3.  Onverminderd [artikel 13, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), mogen de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters niet metterdaad betrokken zijn bij de uitoefening van een bedrijf dat werkzaam is of mede werkzaam is op het gebied van woonruimte, noch is het hen toegestaan beroepsmatig betrokken te zijn bij het beheer van en de beschikking over woonruimte dan wel deel uit te maken van het bestuur van een vereniging, vennootschap of stichting die daarbij is betrokken, of aangesloten te zijn bij een bewonerscommissie als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md).   
 4.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een bezoldiging, een vergoeding voor reis- en verblijfkosten en verdere vergoedingen volgens bij ministeriële regeling te geven regels. Hun rechtspositie wordt nader geregeld bij algemene maatregel van bestuur.   
 
 ### Artikel  3c  
@@ -89,11 +89,11 @@ Onverminderd [artikel 12, tweede lid, van de Kaderwet zelfstandige bestuursorgan
 
 ### Artikel  3g  
 
-1.  Er is een Raad van Advies. De Raad bestaat uit negen leden, die afkomstig zijn uit de door Onze Minister aangewezen organisaties van huurders en verhuurders en onafhankelijke organisaties of personen, waarbij die organisaties van huurders en verhuurders in de Raad gelijkelijk zijn vertegenwoordigd. De leden hebben een deskundigheid die relevant is in het kader van de huurgeschillenbeslechting en mogen niet tegelijkertijd deel uitmaken van de huurcommissie of van een zittingscommissie.   
+1.  Er is een Raad van Advies. De Raad bestaat uit negen leden, die afkomstig zijn uit de door Onze Minister aangewezen organisaties van huurders en verhuurders en onafhankelijke organisaties of personen, waarbij die organisaties van huurders en verhuurders in de Raad gelijkelijk zijn vertegenwoordigd. De leden hebben een deskundigheid die relevant is in het kader van de huurgeschillenbeslechting en de beslechting van de geschillen, bedoeld in artikel 4a, en mogen niet tegelijkertijd deel uitmaken van de huurcommissie of van een zittingscommissie.   
 2.  De leden worden door Onze Minister benoemd, geschorst en ontslagen. Zij worden benoemd voor een tijdvak van vier jaar en kunnen voor een aansluitend tijdvak van vier jaar als lid van de Raad worden herbenoemd.   
 3.  Onze Minister stelt met inachtneming van het eerste lid bij iedere benoeming de door hem daartoe aangewezen organisaties, die geacht kunnen worden de belangen van de huurders, onderscheidenlijk de belangen van de verhuurders, te behartigen dan wel onafhankelijk zijn, gedurende negen weken in de gelegenheid een aanbeveling te doen. Indien binnen een categorie van organisaties, die geacht kunnen worden de belangen van de huurders, onderscheidenlijk de belangen van de verhuurders, te behartigen, meer dan één organisatie is aangewezen om een aanbeveling te doen, stelt Onze Minister de betrokken organisaties slechts in de gelegenheid gezamenlijk een aanbeveling te doen.   
 4.  Onze Minister neemt binnen zes weken na het verstrijken van de in het derde lid bedoelde termijn een beslissing over de benoeming.   
-5.  De Raad adviseert het bestuur over algemene aspecten van de huurgeschillenbeslechting en kan het op verzoek dan wel uit eigen beweging in kennis stellen van de binnen de Raad levende standpunten. De Raad wordt voorts over de benoeming, de herbenoeming en het ontslag, behoudens het ontslag vanwege het bereiken van de voor hen geldende pensioengerechtigde leeftijd, van de voorzitter en de plaatsvervangend voorzitter gehoord. In het bestuursreglement, bedoeld in artikel 3f, worden nadere regels gesteld omtrent de uitoefening van de taken en de bevoegdheden van de Raad en de wijze waarop het bestuur met de Raad overleg voert.   
+5.  De Raad adviseert het bestuur over algemene aspecten van de huurgeschillenbeslechting en de beslechting van de geschillen, bedoeld in artikel 4a, en kan het op verzoek dan wel uit eigen beweging in kennis stellen van de binnen de Raad levende standpunten. De Raad wordt voorts over de benoeming, de herbenoeming en het ontslag, behoudens het ontslag vanwege het bereiken van de voor hen geldende pensioengerechtigde leeftijd, van de voorzitter en de plaatsvervangend voorzitter gehoord. In het bestuursreglement, bedoeld in artikel 3f, worden nadere regels gesteld omtrent de uitoefening van de taken en de bevoegdheden van de Raad en de wijze waarop het bestuur met de Raad overleg voert.   
 6.  Artikel 3d, zesde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  3h  
@@ -102,7 +102,7 @@ Onze Minister voorziet in de administratieve ondersteuning van de huurcommissie.
 
 ### Artikel  3i  
 
-1.  Het bestuur houdt een openbaar register aan, waarin met weglating van de namen van de betrokken huurders en verhuurders de slotwoorden van de uitspraken van de huurcommissie en van de voorzittersuitspraken zijn opgenomen.   
+1.  Het bestuur houdt een openbaar register aan, waarin met weglating van de namen van de betrokken huurders, verhuurders, bewonerscommissies als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) en huurdersorganisaties als bedoeld in artikel 1, eerste lid, onderdeel f, van die wet de slotwoorden van de uitspraken van de huurcommissie en van de voorzittersuitspraken zijn opgenomen.   
 2.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de inrichting van het register.   
 
 ### Artikel  3j  
@@ -116,7 +116,7 @@ Onze Minister voorziet in de administratieve ondersteuning van de huurcommissie.
 
 ### Artikel  4  
 
-1.  De huurcommissie heeft de in het tweede tot en met vierde lid en in artikel 5 aangegeven taken.   
+1.  De huurcommissie heeft de in het tweede tot en met vierde lid en in de artikelen 4a en 5 aangegeven taken.   
 2.  De huurcommissie doet uitspraak: 
 
 a. ingevolge [artikel 7:249 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de redelijkheid van de overeengekomen aanvangshuurprijs;  
@@ -137,6 +137,18 @@ h. ingevolge [artikel 7:261 van het Burgerlijk Wetboek](../../../../../wet/burge
 3.  De huurcommissie doet uitspraak in gevallen waarin als gevolg van een uitspraak als bedoeld in de [artikelen 7:249](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [7:257 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) de in rekening te brengen huurprijs in verband met gebreken is verlaagd, omtrent het verholpen zijn van die gebreken.   
 4.  De huurcommissie doet uitspraak indien ingevolge artikel 20, zesde lid, verzet is gedaan tegen een uitspraak van de voorzitter.   
 
+### Artikel  4a  
+
+De huurcommissie doet uitspraak in geschillen over: 
+
+a. het voeren van overleg en het verschaffen van informatie als bedoeld in de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md);  
+
+b. het bevorderen van de werkzaamheden van een bewonerscommissie als bedoeld in [die wet](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md);  
+
+c. het vergoeden van kosten van een huurdersorganisatie als bedoeld in [die wet](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md);  
+
+d. overige verplichtingen die voortvloeien uit [die wet](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md).    
+
 ### Artikel  5  
 
 1.  De huurcommissie doet desverzocht uitspraak over de redelijkheid van een gebruiksvergoeding of een aanvullende vergoeding, als bedoeld in [artikel 51, eerste, onderscheidenlijk derde lid, van de Huisvestingswet](../../../../../wet/huisvestingswet/BWBR0005674/README.md) en over de wijziging daarvan, bedoeld in [artikel 52, eerste lid, van die wet](../../../../../wet/huisvestingswet/BWBR0005674/README.md).   
@@ -148,7 +160,7 @@ h. ingevolge [artikel 7:261 van het Burgerlijk Wetboek](../../../../../wet/burge
 
 1.  De voorzitter heeft tot taak: 
 
-a. in afwijking van artikel 4, eerste lid, in de in het tweede en derde lid van dat artikel aangegeven gevallen uitspraak te doen indien ten aanzien van een aan de huurcommissie gedaan verzoek een van de in artikel 20, eerste lid, bedoelde gevallen zich voordoet;  
+a. in afwijking van artikel 4, eerste lid, in de in het tweede en derde lid van dat artikel aangegeven gevallen en over geschillen als bedoeld in artikel 4a uitspraak te doen indien ten aanzien van een aan de huurcommissie gedaan verzoek een van de in artikel 20, eerste lid, bedoelde gevallen zich voordoet;  
 
 b. in de gevallen van een verzoek van de Belastingdienst/Toeslagen als bedoeld in [artikel 5, tweede lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md) binnen zes weken een verklaring te verstrekken omtrent de redelijkheid van de huurprijs en de juistheid van andere gegevens betreffende de woonruimte waarvoor een aanvraag om een huurtoeslag is ingediend, een en ander voorzover van belang voor de toepassing van genoemde wet.     
 2.  De voorzitter kan zich bij de uitoefening van de taken, bedoeld in het eerste lid, laten vervangen door een zittingsvoorzitter.   
@@ -159,7 +171,7 @@ b. in de gevallen van een verzoek van de Belastingdienst/Toeslagen als bedoeld i
 
 ### Artikel  7  
 
-1.  Voor het door de huurcommissie doen van een uitspraak, met uitzondering van een uitspraak als bedoeld in artikel 4, vierde lid, en 5, eerste lid, is door de verzoeker een voorschot op de voor hem geldende vergoeding aan de Staat, bedoeld in het tweede lid, verschuldigd of door de partij die niet de verzoeker is, de voor hem geldende vergoeding, bedoeld in dat lid. Het bedrag van dat voorschot en die vergoeding wordt bij algemene maatregel van bestuur vastgesteld, mede aan de hand van het gegeven of de verzoeker of de partij die niet de verzoeker is een natuurlijke persoon of een rechtspersoon is.   
+1.  Voor het door de huurcommissie doen van een uitspraak als bedoeld in artikel 4, tweede of derde lid, is door de verzoeker een voorschot op de voor hem geldende vergoeding aan de Staat, bedoeld in het tweede lid, verschuldigd of door de partij die niet de verzoeker is, de voor hem geldende vergoeding, bedoeld in dat lid. Het bedrag van dat voorschot en die vergoeding wordt bij algemene maatregel van bestuur vastgesteld, mede aan de hand van het gegeven of de verzoeker of de partij die niet de verzoeker is een natuurlijke persoon of een rechtspersoon is.   
 2.  Bij het doen van een uitspraak geeft de huurcommissie gemotiveerd aan welke partij en tot welk bedrag een vergoeding aan de Staat verschuldigd is. Deze vergoeding is verschuldigd door de partij die naar het oordeel van de huurcommissie geheel of voor het grootste deel, gelet op de strekking van het verzoekschrift, de in het ongelijk gestelde partij is. Indien de huurcommissie van oordeel is dat beide partijen in ongeveer gelijke mate in het ongelijk worden gesteld, kan zij gemotiveerd uitspreken dat elke partij de helft van de voor hem geldende vergoeding aan de Staat verschuldigd is. In gevallen waarin de voorzitter bevoegd is tot het doen van een uitspraak, komen de in de eerste tot en met derde volzin bedoelde bevoegdheden toe aan de voorzitter.   
 3.  Indien naar het oordeel van de huurcommissie, gelet op de strekking van het verzoekschrift, 
 
@@ -182,6 +194,13 @@ b. beide partijen in ongeveer gelijke mate in het ongelijk worden gesteld, wordt
 9.  De huurcommissie kan bij gelijkluidende of nagenoeg gelijkluidende verzoeken ten aanzien van de partij die niet de verzoeker is en een rechtspersoon is, indien deze, naar het oordeel van de huurcommissie, gelet op de strekking van het verzoekschrift, de geheel of voor het grootste deel in het ongelijk gestelde partij is, dan wel in ongeveer gelijke mate als de partij die de verzoeker is in het ongelijk wordt gesteld, afwijken van het eerste lid, eerste volzin, voor zover toepassing gelet op het belang dat die volzin beoogt te beschermen naar haar oordeel zal leiden tot een onbillijkheid van overwegende aard.   
 10.  Indien de partij die, gelet op de strekking van het verzoekschrift, in het ongelijk wordt gesteld, uitsluitend in het ongelijk wordt gesteld op grond van een eigen oordeel van de huurcommissie ten aanzien van de waardering van de energieprestatie van de woonruimte, dat afwijkt van een voor die woonruimte, overeenkomstig de op grond van [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat, is die partij, in afwijking van het eerste lid, eerste volzin, geen vergoeding als bedoeld in dat lid verschuldigd.   
 
+### Artikel  7a  
+
+1.  Voor het door de huurcommissie doen van een uitspraak als bedoeld in artikel 4a, is door de verzoeker een vergoeding aan de Staat verschuldigd.   
+2.  Het bedrag van de in het eerste lid bedoelde vergoeding wordt bij algemene maatregel van bestuur vastgesteld.   
+3.  Op verzoek van een verzoeker die een natuurlijk persoon is, is de voorzitter bevoegd vrijstelling te verlenen van de aan de Staat verschuldigde vergoeding, bedoeld in het eerste lid. Bij ministeriële regeling wordt bepaald in welke gevallen de voorzitter van de bevoegdheid, bedoeld in de eerste volzin, gebruik kan maken. Artikel 6, tweede lid, is van overeenkomstige toepassing.   
+4.  Het vierde, vijfde en zesde lid van artikel 7 zijn van overeenkomstige toepassing.   
+
 ### Artikel  8  
 
 Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 5, vierde lid, is door de verzoeker een vergoeding aan de Staat verschuldigd, waarvan het bedrag bij algemene maatregel van bestuur wordt vastgesteld, mede aan de hand van het gegeven of de verzoeker een natuurlijke persoon of een rechtspersoon is.  
@@ -197,7 +216,7 @@ Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 
 ### Artikel  9  
 
 1.  Een verzoek aan de huurcommissie wordt schriftelijk ingediend.   
-2.  De huurcommissie toetst bij aan haar gedane verzoeken of voldaan is aan de voor die verzoeken bij of krachtens [titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en bij of krachtens deze wet gestelde voorschriften.   
+2.  De huurcommissie toetst bij aan haar gedane verzoeken of voldaan is aan de voor die verzoeken bij of krachtens [titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), bij de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) en bij of krachtens deze wet gestelde voorschriften.   
 
 ### Artikel  9a  
 
@@ -207,7 +226,7 @@ Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 
 
 ### Artikel  10  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de waardering van de kwaliteit van een woonruimte, van de redelijkheid van de huurprijs en van wijziging daarvan, waarbij onderscheid kan worden gemaakt tussen woonruimte waarvan de eigenaar beschikt over een voor die woonruimte, overeenkomstig de op grond van [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat en overige woonruimte.   
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de waardering van de kwaliteit van een woonruimte, van de redelijkheid van de huurprijs en van wijziging daarvan, waarbij onderscheid kan worden gemaakt tussen woonruimte waarvoor de eigenaar een voor die woonruimte, overeenkomstig de op grond van [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat aan de huurder heeft verstrekt of indien dat niet het geval is daartoe op grond van die regels wel verplicht was, en overige woonruimte.   
 2.  Bij ministeriële regeling wordt het maximale huurverhogingspercentage vastgesteld.   
 
 ### §  2  
@@ -240,7 +259,7 @@ Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 
 2.  De huurcommissie vermeldt in de uitspraak de datum van ingang van de huurprijsverhoging, zijnde de in het in het eerste lid bedoelde voorstel vermelde datum van ingang, dan wel een latere datum indien de wet zulks voorschrijft.   
 3.  De huurcommissie toetst het voorstel tot huurprijsverhoging aan het krachtens artikel 10, tweede lid, geldende maximale huurverhogingspercentage.   
 4.  Bij de beoordeling van de kwaliteit van de woonruimte worden voorzieningen die de huurder onverplicht voor eigen rekening heeft aangebracht en waardoor het woongerief geacht kan worden te zijn gestegen, buiten beschouwing gelaten.   
-5.  De huurcommissie toetst het voorstel tot huurprijsverhoging, indien de huurder bezwaar heeft gemaakt tegen de woningwaardering in het voorstel, dan wel indien de huurprijs, vermeerderd met de voorgestelde huurprijsverhoging, de maximale huurprijsgrens zou kunnen overschrijden, tevens aan de krachtens artikel 10, eerste lid, gegeven regels met betrekking tot de waardering van de kwaliteit van een woonruimte. Daarbij vormt de huurcommissie slechts een eigen oordeel over de kwaliteit van de woonruimte, voorzover die kwaliteit al dan niet op onderdelen voorwerp van geschil is tussen partijen. De huurcommissie vormt zich daarbij geen eigen oordeel over de energieprestatie van de woonruimte, indien de eigenaar beschikt over een voor die woonruimte, overeenkomstig de op grond van [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat.   
+5.  De huurcommissie toetst het voorstel tot huurprijsverhoging, indien de huurder bezwaar heeft gemaakt tegen de woningwaardering in het voorstel, dan wel indien de huurprijs, vermeerderd met de voorgestelde huurprijsverhoging, de maximale huurprijsgrens zou kunnen overschrijden, tevens aan de krachtens artikel 10, eerste lid, gegeven regels met betrekking tot de waardering van de kwaliteit van een woonruimte. Daarbij vormt de huurcommissie slechts een eigen oordeel over de kwaliteit van de woonruimte, voorzover die kwaliteit al dan niet op onderdelen voorwerp van geschil is tussen partijen. De huurcommissie vormt zich daarbij geen eigen oordeel over de energieprestatie van de woonruimte, indien de eigenaar een voor die woonruimte, overeenkomstig de op grond van [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat aan de huurder heeft verstrekt.   
 6.  De huurcommissie beoordeelt de kwaliteit van de woonruimte en de redelijkheid van de wijziging van de huurprijs naar de toestand op het tijdstip van de in het voorstel tot verhoging van de huurprijs genoemde ingangsdatum.   
 
 ### §  4  
@@ -340,11 +359,11 @@ a. de huurcommissie in een eerdere uitspraak heeft uitgesproken dat op grond van
 
 b. het percentage van de in het voorstel opgenomen huurverhoging het in artikel 10, tweede lid, bedoelde maximale huurverhogingspercentage te boven gaat, in welk geval het verzoek slechts kennelijk redelijk is, voorzover het dat percentage niet overschrijdt.     
 3.  De voorzitter vermeldt in voorkomende gevallen in de uitspraak tot welke huurprijs zijn uitspraak leidt, alsmede de datum van ingang.   
-4.  Artikel 7 is van overeenkomstige toepassing, met dien verstande dat voor het door de huurcommissie doen van een uitspraak op het verzet, bedoeld in het zesde en zevende lid, niet opnieuw de in artikel 7 bedoelde vergoeding aan de Staat verschuldigd is.   
-5.  Het bestuur zendt onverwijld bij aangetekende brief of bij brief met ontvangstbevestiging een afschrift van de voorzittersuitspraak aan partijen.   
-6.  Tegen de uitspraak, bedoeld in het eerste lid, kan de huurder of de verhuurder binnen drie weken na verzending van het afschrift van die uitspraak schriftelijk en gemotiveerd in verzet gaan bij de huurcommissie. De voorzitter wijst in zijn uitspraak partijen op deze mogelijkheid, alsook op de vorm en de termijn die daarbij in acht genomen moeten worden.   
+4.  Artikel 7 dan wel, voor geschillen als bedoeld in artikel 4a, artikel 7a is van overeenkomstige toepassing, met dien verstande dat voor het door de huurcommissie doen van een uitspraak op het verzet, bedoeld in het zesde en zevende lid, niet opnieuw de in artikel 7 onderscheidenlijk artikel 7a bedoelde vergoeding aan de Staat verschuldigd is.   
+5.  Het bestuur zendt onverwijld een afschrift van de voorzittersuitspraak aan partijen.   
+6.  Tegen de uitspraak, bedoeld in het eerste lid, kan de huurder, verhuurder, huurdersorganisatie of bewonerscommissie binnen drie weken na verzending van het afschrift van die uitspraak schriftelijk en gemotiveerd in verzet gaan bij de huurcommissie. De voorzitter wijst in zijn uitspraak partijen op deze mogelijkheid, alsook op de vorm en de termijn die daarbij in acht genomen moeten worden.   
 7.  Is de huurcommissie van oordeel dat het verzet, bedoeld in het zesde lid, gegrond is, dan vervalt de uitspraak, bedoeld in het eerste lid, en wordt het aan de in het eerste lid bedoelde uitspraak ten grondslag liggende verzoek overeenkomstig hoofdstuk III door de huurcommissie in behandeling genomen.   
-8.  Indien noch de huurder noch de verhuurder binnen de in het zesde lid genoemde termijn in verzet is gegaan, is hetgeen in [artikel 7:262 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is bepaald met betrekking tot een uitspraak van de huurcommissie, van overeenkomstige toepassing op de uitspraak van de voorzitter.   
+8.  Indien geen van de in het zesde lid genoemde partijen binnen de in dat lid genoemde termijn in verzet is gegaan, is hetgeen in [artikel 7:262 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) dan wel [artikel 8a van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) is bepaald met betrekking tot een uitspraak van de huurcommissie, van overeenkomstige toepassing op de uitspraak van de voorzitter.   
 
 ### Hoofdstuk  V  
 
@@ -358,11 +377,13 @@ b. het percentage van de in het voorstel opgenomen huurverhoging het in artikel 
 
 1.  Het bestuur vormt voor de behandeling van zaken ter zitting bij bestuursreglement als bedoeld in artikel 3f zittingscommissies.   
 2.  De zittingscommissie houdt zitting in het arrondissement waarbinnen de woonruimte waarop het geschil betrekking heeft, is gelegen. Indien daartoe aanleiding bestaat kan het bestuur bepalen dat de zittingscommissie zitting houdt in een ander arrondissement dat binnen een redelijke afstand van die woonruimte ligt, waarbij een goede balans tussen enerzijds de laagdrempeligheid van de huurcommissie en anderzijds een efficiënte werkwijze wordt bevorderd.   
+3.  Het bestuur wijst bij bestuursreglement als bedoeld in artikel 3f ten minste drie zittingslocaties als bedoeld in artikel 3f, tweede lid, aan waar een zittingscommissie geschillen als bedoeld in artikel 4a kan behandelen.   
 
 ### Artikel  22  
 
 1.  De zittingscommissie houdt zitting en beraadslaagt met een zittingsvoorzitter en twee zittingsleden, waarvan een zittingslid afkomstig is uit de kring van huurders en een zittingslid afkomstig is uit de kring van verhuurders.   
 2.  De voorzitter kan optreden als zittingsvoorzitter.   
+3.  In afwijking van het eerste lid kunnen personen die niet uit de kring van huurders onderscheidenlijk de kring van verhuurders voortkomen, zittingslid zijn van een zittingscommissie die geschillen behandelt als bedoeld in artikel 4a. Artikel 3d, derde lid, is van overeenkomstige toepassing.   
 
 ### §  2  
 
@@ -370,7 +391,7 @@ b. het percentage van de in het voorstel opgenomen huurverhoging het in artikel 
 
 ### Artikel  28  
 
-1.  Alvorens een voorbereidend onderzoek in te stellen of een uitspraak te doen als bedoeld in artikel 4, tweede of derde lid, wordt de partij die niet de verzoeker is, door het bestuur in kennis gesteld van de inhoud van het verzoek. Alvorens een uitspraak te doen als bedoeld in artikel 4, tweede of derde lid, of artikel 5, eerste lid, wordt een voorbereidend onderzoek ingesteld. Een zodanig onderzoek blijft achterwege indien de beschikbare stukken naar het oordeel van de voorzitter voldoende zijn ter voorbereiding van de besluitvorming.   
+1.  Alvorens een voorbereidend onderzoek in te stellen of een uitspraak te doen als bedoeld in artikel 4, tweede of derde lid, of artikel 4a, wordt de partij die niet de verzoeker is, door het bestuur in kennis gesteld van de inhoud van het verzoek. Alvorens een uitspraak te doen als bedoeld in artikel 4, tweede of derde lid, artikel 4a of artikel 5, eerste lid, wordt een voorbereidend onderzoek ingesteld. Een zodanig onderzoek blijft achterwege indien de beschikbare stukken naar het oordeel van de voorzitter voldoende zijn ter voorbereiding van de besluitvorming.   
 2.  Het voorbereidend onderzoek wordt ingesteld door het bestuur. In bijzondere gevallen kan de zittingsvoorzitter het onderzoek instellen.   
 3.  Van het voorbereidend onderzoek wordt een schriftelijk rapport opgemaakt.   
 4.  In de gevallen waarin de voorzitter geen uitspraak als bedoeld in artikel 20, eerste lid, doet, bepaalt het bestuur de dag en het uur, waarop het verzoek ter zitting van een zittingscommissie zal worden behandeld, zodra het voorbereidend onderzoek naar het oordeel van de voorzitter voltooid is, of, indien dit onderzoek ingevolge het eerste lid niet wordt ingesteld, reeds aanstonds.   
@@ -426,9 +447,9 @@ Bij de zittingen is een ambtenaar van de administratieve ondersteuning van de hu
 
 ### Artikel  37  
 
-1.  De huurcommissie doet binnen vier maanden na het verstrijken van de in artikel 7, vierde lid, genoemde termijn, dan wel, indien de in dat artikellid bedoelde oproep niet behoeft te worden gedaan, na het tijdstip waarop de aldaar bedoelde vergoeding van de verzoeker is ontvangen, schriftelijk en met redenen omkleed uitspraak. In afwijking van de eerste volzin doet de huurcommissie in het geval dat de in de eerste volzin genoemde termijn niet kan worden gehaald, uitspraak binnen een door de huurcommissie aan te geven langere termijn, mits zij aan beide partijen daarvan voor het verstrijken van de in de eerste volzin genoemde termijn schriftelijk en met redenen omkleed heeft kennisgegeven.   
+1.  De huurcommissie doet binnen vier maanden na het verstrijken van de in artikel 7, vierde lid, genoemde termijn, dan wel, indien de in dat artikellid bedoelde oproep niet behoeft te worden gedaan, na het tijdstip waarop de aldaar bedoelde vergoeding van de verzoeker is ontvangen, schriftelijk en met redenen omkleed uitspraak. In geval van een geschil als bedoeld in artikel 4a doet de huurcommissie uitspraak binnen acht weken na het verstrijken van de in artikel 7, vierde lid, genoemde termijn. In afwijking van de eerste en tweede volzin doet de huurcommissie in het geval dat de in de eerste, dan wel, tweede volzin genoemde termijn niet kan worden gehaald, uitspraak binnen een door de huurcommissie aan te geven langere termijn, mits zij aan beide partijen daarvan voor het verstrijken van de in de eerste, dan wel, tweede volzin genoemde termijn schriftelijk en met redenen omkleed heeft kennisgegeven.   
 2.  De uitspraken van de huurcommissie vermelden de namen van degenen die aan de behandeling van de zaak ter zitting hebben deelgenomen. Zij worden door de desbetreffende zittingsvoorzitter ondertekend.   
-3.  Het bestuur zendt onverwijld bij aangetekende brief of bij brief met ontvangstbevestiging een afschrift van de uitspraak van de huurcommissie aan partijen.   
+3.  Het bestuur zendt onverwijld een afschrift van de uitspraak van de huurcommissie aan partijen.   
 4.  De huurcommissie wijst in haar uitspraak partijen op de in [artikel 7:262 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde mogelijkheid zich tot de rechter te wenden, alsook op de vorm en de termijn die daarbij in acht moeten worden genomen.   
 5.  Indien in de uitspraak wordt vastgesteld dat een woonruimte een of meer gebreken vertoont die het woongenot ernstig schaden zendt het bestuur bovendien afschrift aan de inspecteur, bedoeld in [artikel 1, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md), en aan burgemeester en wethouders van de gemeente waarin de woonruimte is gelegen.   
 
@@ -438,13 +459,14 @@ De voorzitter, de plaatsvervangend voorzitter, de zittingsvoorzitters, de zittin
 
 ### Artikel  39  
 
-1.  Het bestuur kan, voor zover dat redelijkerwijs voor de uitoefening van de taken van de huurcommissie, bedoeld in de artikelen 4, tweede tot en met vierde lid, en 5, en de taken van de voorzitter, bedoeld in artikel 6, eerste lid, nodig is, van de verhuurder inzage en het nemen van afschrift vorderen van boeken en andere zakelijke bescheiden.   
+1.  Het bestuur kan, voor zover dat redelijkerwijs voor de uitoefening van de taken van de huurcommissie, bedoeld in de artikelen 4, tweede tot en met vierde lid, 4a en 5, en de taken van de voorzitter, bedoeld in artikel 6, eerste lid, nodig is, van de verhuurder inzage en het nemen van afschrift vorderen van boeken en andere zakelijke bescheiden.   
 2.  De verhuurder is verplicht van hem krachtens het eerste lid gevorderde inzage en nemen van afschrift van boeken en andere zakelijke bescheiden te verlenen, een en ander op de wijze en binnen de termijn, door het bestuur te bepalen.   
 3.  Het niet voldoen aan de in het tweede lid omschreven verplichting wordt gestraft met een geldboete van de tweede categorie. Het strafbare feit is een overtreding.   
 
 ### Artikel  40  
 
-De zittingsvoorzitter en de zittingsleden hebben toegang tot alle woon- en bedrijfsruimten, alsmede tot ruimte die als zodanig kan worden gebruikt, voorzover dat redelijkerwijs voor de uitoefening van hun taak nodig is. Zij kunnen zich bij het betreden door bepaalde, door hen aan te wijzen personen doen vergezellen. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.  
+1.  De zittingsvoorzitter en de zittingsleden hebben toegang tot alle woon- en bedrijfsruimten, alsmede tot ruimte die als zodanig kan worden gebruikt, voorzover dat redelijkerwijs voor de uitoefening van hun taak nodig is. Zij kunnen zich bij het betreden door bepaalde, door hen aan te wijzen personen doen vergezellen. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.   
+2.  Dit artikel is niet van toepassing op geschillen als bedoeld in artikel 4a.   
 
 ### Hoofdstuk  VI  
 
@@ -452,7 +474,7 @@ De zittingsvoorzitter en de zittingsleden hebben toegang tot alle woon- en bedri
 
 ### Artikel  46  
 
-Een voordracht voor een krachtens artikel 3, tweede lid, 7, eerste lid, 8, 10, eerste lid, of  12, tweede lid, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
+Een voordracht voor een krachtens artikel 3, tweede lid, 7, eerste lid, 7a, eerste lid, 8, 10, eerste lid, of  12, tweede lid, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  47  
 
@@ -477,6 +499,10 @@ In elke na het verstrijken van de termijn, bedoeld in [artikel 7:260, tweede lid
 ### Artikel  52  
 
 In elke rechtsvordering ter zake van hetgeen onverschuldigd mocht zijn betaald in verband met een overeenkomst als bedoeld in [artikel 7:258 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) waarbij partijen slechts de hoogte van de prijs en niet die van de huurprijs zijn overeengekomen, wordt een uitspraak van de huurcommissie, als bedoeld in artikel 17, dan wel een beschikking van de rechter, als bedoeld in [artikel 7:262 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) overgelegd.  
+
+### Artikel  53  
+
+Onze Minister zendt binnen drie jaar na inwerkingtreding van artikel 4a van de Uitvoeringswet huurprijzen woonruimte aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de beslechting van de geschillen, bedoeld in artikel 4a, door de huurcommissie.  
 
 ### Artikel  54  
 

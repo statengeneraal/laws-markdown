@@ -715,6 +715,10 @@ Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gege
 
 Gegevens betreffende de door het Rijk verstrekte financiële middelen en subsidie worden jaarlijks op een door Onze Minister te bepalen wijze bekend gemaakt.  
 
+### Artikel  87  
+
+Onze Minister kan volgens bij ministeriële regeling gegeven voorschriften geldelijke steun verlenen voor doeleinden, de volkshuisvesting betreffende, voor zover het geldelijke steun betreft welke onmiddellijk voorafgaand aan 22 december 2000 in een ministeriële regeling was geregeld, die met ingang van die datum is komen te berusten op de algemene maatregel van bestuur, vastgesteld krachtens [artikel 9, eerste lid, van de Invoeringswet Wet stedelijke vernieuwing](../../../wet/invoeringswet/wet/stedelijke/vernieuwing/BWBR0011789/README.md) zoals [die wet](../../../wet/invoeringswet/wet/stedelijke/vernieuwing/BWBR0011789/README.md) onmiddellijk voorafgaand aan haar intrekking luidde.  
+
 ### Hoofdstuk  VI  
 
 ####Bestuursrechtelijke handhaving
@@ -753,15 +757,17 @@ In aanvulling op [artikel 5.11, eerste lid, van de Wet algemene bepalingen omgev
 
 ### Artikel  101a  
 
-Indien schaarste dreigt te ontstaan dan wel bestaat aan arbeidskrachten, geldmiddelen of materialen, kunnen bij of krachtens algemene maatregel van bestuur, zo nodig in afwijking van de in de hoofdstukken III en V of de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vervatte bepalingen, voorschriften worden gegeven omtrent de toepassing van die bepalingen of de verlening van een omgevingsvergunning.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Indien schaarste dreigt te ontstaan dan wel bestaat aan arbeidskrachten, geldmiddelen of materialen, kunnen bij of krachtens algemene maatregel van bestuur, zo nodig in afwijking van de in de hoofdstukken III en V of de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vervatte bepalingen, voorschriften worden gegeven omtrent de toepassing van die bepalingen of de verlening van een omgevingsvergunning.  
 
 ### Artikel  102  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Indien toepassing wordt gegeven aan artikel 101a, stelt Onze Minister, in overeenstemming met Onze andere Ministers wie het mede aangaat, overeenkomstig de bij of krachtens de in dat artikel bedoelde algemene maatregel van bestuur gegeven voorschriften, een plan vast, waarin is aangegeven aan welke werken op het gebied van de burgerlijke of utiliteitsbouw, grond-, water- of wegenbouw of op enig ander gebied de bouwnijverheid betreffende, in het eerstkomende jaar uitvoering kan worden gegeven.   
 2.  Het in het eerste lid bedoelde plan wordt zo spoedig mogelijk nadat dit is vastgesteld, door Onze Minister aan de Staten-Generaal verstrekt.   
 
 ### Artikel  103  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Bij de in artikel 101a bedoelde algemene maatregel van bestuur kan worden bepaald, dat het verboden is zonder of in afwijking van toestemming van Onze Minister en, voor zover van toepassing, Onze Minister die het mede aangaat, als opdrachtgever, architect, bouwondernemer, aannemer of uitvoerder betrokken te zijn bij het uitvoeren van bouwwerken als bedoeld in artikel 102, eerste lid.   
 2.  Onze Minister kan, voor zover van toepassing te zamen met Onze Minister die het mede aangaat, al of niet onder voorwaarden ontheffing verlenen van het in het eerste lid bedoelde verbod.   
 
