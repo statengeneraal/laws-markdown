@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Vee en Vlees van 8 april 2009 houdende de mandatering van erkende instellingen en hippische sportorganisaties tot de uitgifte van paspoorten uit hoofde van de Verordening identificatie en registratie van paardachtigen (PVV) 2009 (Besluit houdende mandatering van erkende instellingen en hippische sportorganisaties tot uitgifte van paspoorten voor paardachtigen (PVV) 2009)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 6, eerste, tweede en derde lid, van de Verordening identificatie en registratie van paardachtigen (PVV) 2009](../../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2009/BWBR0026239/README.md);
+Gelet op artikel 6, eerste, tweede en derde lid, van de Verordening identificatie en registratie van paardachtigen (PVV) 2009;
 Besluit:    
 
 ### Artikel  1  
@@ -11,14 +11,14 @@ Besluit:
 In dit besluit wordt verstaan onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | productschap  | : Productschap Vee en Vlees;  |
 | 2.  | bestuur  | : het bestuur van het productschap;  |
-| 3.  | verordening  | : de [Verordening identificatie en registratie van paardachtigen (PVV) 2009](../../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2009/BWBR0026239/README.md).  |
+| 3.  | verordening  | : de Verordening identificatie en registratie van paardachtigen (PVV) 2009.  |
 
 ### Artikel  2  
 
-De voorzitter van de hierna genoemde erkende instellingen en hippische sportorganisaties wordt mandaat verleend om namens het bestuur, met inachtneming van het bij of krachtens de verordening bepaalde, te besluiten en stukken te ondertekenen betreffende het uitgeven van het paspoort bedoeld in [artikel 6 van de verordening](../../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2009/BWBR0026239/README.md): 
+De voorzitter van de hierna genoemde erkende instellingen en hippische sportorganisaties wordt mandaat verleend om namens het bestuur, met inachtneming van het bij of krachtens de verordening bepaalde, te besluiten en stukken te ondertekenen betreffende het uitgeven van het paspoort bedoeld in artikel 6 van de verordening: 
 
 * De Vereniging Arabische Volbloedpaarden Stamboek in Nederland, statutair gevestigd te Utrecht;  
 
@@ -80,7 +80,9 @@ De voorzitter van de hierna genoemde erkende instellingen en hippische sportorga
 
 * De Vereniging Gypsy Cob and Drum Horse Association-NL, statutair gevestigd te Wolvega;  
 
-* De Stichting PRE Stamboek Nederland, statutair gevestigd te Leudal.    
+* De Stichting PRE Stamboek Nederland, statutair gevestigd te Leudal;  
+
+* Het Europees Arabisch Stamboek voor Shagyapaarden, Sportpaarden en Sportpony’s, statutair gevestigd te Heerenveen.    
 
 ### Artikel  3  
 
