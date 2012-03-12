@@ -15,11 +15,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Minister:* de Minister van Economische Zaken;  
+a.  *Minister:* de Minister van Economische Zaken;  
 
-b. *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+b.  *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-c. *Wbr-vergunning:* de vergunning op grond van [artikel 2 van de Wet beheer rijkswaterstaatswerken](../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) voor de bouw en exploitatie van een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.    
+c.  *Wbr-vergunning:* de vergunning op grond van [artikel 2 van de Wet beheer rijkswaterstaatswerken](../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) voor de bouw en exploitatie van een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.   
 
 ### §  2  
 
@@ -29,23 +29,23 @@ c. *Wbr-vergunning:* de vergunning op grond van [artikel 2 van de Wet beheer rij
 
 1.  De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.   
 2.  Aanvragen om subsidie als bedoeld in het eerste lid worden ontvangen in de periode van 4 januari 2010 tot 1 maart 2010, 17:00 uur.   
-3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 1.   
+3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 1.  
 
 ### Artikel  3  
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in artikel 2, tweede lid, bedraagt € 5.384.817.810,00.   
 2.  De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van rangschikking van de aanvragen.   
-3.  De criteria voor rangschikking, bedoeld in [artikel 60, eerste lid, onderdelen c tot en met e, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) zijn niet van toepassing.   
+3.  De criteria voor rangschikking, bedoeld in [artikel 60, eerste lid, onderdelen c tot en met e, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) zijn niet van toepassing.  
 
 ### Artikel  4  
 
-Het maximum tenderbedrag, bedoeld in [artikel 19, tweede lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,181000 per kWh.  
+Het maximum tenderbedrag, bedoeld in [artikel 19, tweede lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,181000 per kWh. 
 
 ### Artikel  5  
 
 Voor de toepassing van [artikel 60, zesde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), wordt het door de producent opgegeven tenderbedrag ten behoeve van de rangschikking gecorrigeerd met het in de tabel opgenomen bedrag:  Tabel: Correctie op tenderbedrag, afhankelijk van de hemelsbrede afstand tussen het transformatorstation en het aanlandingspunt: 
 
-| Hemelsbrede afstand tussen het transformatorstation <sup>1</sup> en het aanlandingspunt <sup>2</sup>, afgerond op 100m nauwkeurig (ingeval van meerdere transformatorstations of meerdere aanlandingspunten, wordt de afstand tussen het transformatorstation en het aanlandingspunt die het dichtst bij elkaar liggen, gebruikt voor de toepassing van de afstandscorrectie)  | Correctie op het tenderbedrag [€/kWh]  |
+| Hemelsbrede afstand tussen het transformatorstation<sup>1</sup> en het aanlandingspunt<sup>2</sup>, afgerond op 100m nauwkeurig (ingeval van meerdere transformatorstations of meerdere aanlandingspunten, wordt de afstand tussen het transformatorstation en het aanlandingspunt die het dichtst bij elkaar liggen, gebruikt voor de toepassing van de afstandscorrectie)  | Correctie op het tenderbedrag [€/kWh]  |
 |:---|:---|
 | Kleiner of gelijk aan 25 km  | € 0,00000  |
 | Groter dan 25 km, en kleiner dan of gelijk aan 30 km  | € 0,00125  |
@@ -62,27 +62,27 @@ Voor de toepassing van [artikel 60, zesde lid, van het besluit](../../../../../.
 | Groter dan 80 km en kleiner dan of gelijk aan 85 km  | € 0,01500  |
 | Groter dan 85 km  | € 0,01625  |
 
-<sup>1</sup> De coördinaten van het transformatorstation, bedoeld in de Wbr-vergunning van de subsidieaanvrager. <sup>2</sup> De coördinaten van het aanlandingspunt, bedoeld in de Wbr-vergunning van de subsidieaanvrager.  
+<sup>1</sup>De coördinaten van het transformatorstation, bedoeld in de Wbr-vergunning van de subsidieaanvrager.<sup>2</sup>De coördinaten van het aanlandingspunt, bedoeld in de Wbr-vergunning van de subsidieaanvrager.
 
 ### Artikel  6  
 
-De beschikking tot verlenen van een subsidie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee wordt verleend onder de opschortende voorwaarde dat binnen acht weken na afgifte van deze beschikking een uitvoeringsovereenkomst overeenkomstig de overeenkomst opgenomen in de bij deze regeling behorende bijlage 2 tot stand is gekomen tussen de Staat en de subsidie-aanvrager.  
+De beschikking tot verlenen van een subsidie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee wordt verleend onder de opschortende voorwaarde dat binnen acht weken na afgifte van deze beschikking een uitvoeringsovereenkomst overeenkomstig de overeenkomst opgenomen in de bij deze regeling behorende bijlage 2 tot stand is gekomen tussen de Staat en de subsidie-aanvrager. 
 
 ### Artikel  7  
 
-De subsidie wordt voor een periode van 15 jaar verstrekt.  
+De subsidie wordt voor een periode van 15 jaar verstrekt. 
 
 ### Artikel  8  
 
-De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee binnen 5 jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.  
+De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee binnen 5 jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik. 
 
 ### Artikel  9  
 
-Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee bedraagt 3180 uren per jaar.  
+Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee bedraagt 3180 uren per jaar. 
 
 ### Artikel  10  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 20, eerste lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) bedraagt € 0,051150 per kWh.  
+De basiselektriciteitsprijs, bedoeld in [artikel 20, eerste lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) bedraagt € 0,051150 per kWh. 
 
 ### Artikel  11  
 
@@ -96,7 +96,7 @@ c. de redenen voor en de duur van uitval;
 
 d. het productieverlies dat gepaard ging met de uitval;  
 
-e. de effecten van de uitval van windmolens op de bedrijfsvoering en op het onderhoud van die windmolens.    
+e. de effecten van de uitval van windmolens op de bedrijfsvoering en op het onderhoud van die windmolens.   
 
 ### Artikel  12  
 
@@ -104,7 +104,7 @@ De correcties op het tenderbedrag voor de subsidie, bedoeld in artikel 2, eerste
 
 a. € 0,054638 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 22, eerste lid, onderdeel b, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 22, eerste lid, onderdeel b, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
 
 ### §  3  
 
@@ -112,11 +112,11 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 22, eerste lid, on
 
 ### Artikel  13  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  14  
 
-Deze regeling wordt aangehaald als: Regeling windenergie op zee 2009.  
+Deze regeling wordt aangehaald als: Regeling windenergie op zee 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -124,7 +124,7 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven  
+M.J.A. van der Hoeven    
 
 ### Bijlage  1  
 
@@ -139,7 +139,7 @@ M.J.A. van derHoeven
 ![245486](http://wetten.overheid.nl/Illustration/245486)
 ![245487](http://wetten.overheid.nl/Illustration/245487)
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####bij artikel 6 
 
@@ -161,19 +161,19 @@ c. De Minister van Economische Zaken beoogt door middel van deze Uitvoeringsover
 
 1. Voor de toepassing van deze overeenkomst wordt onder ‘de aanvang van de bouwperiode’ verstaan: ‘het bereiken van het eerste moment dat de bodem in beroering gebracht wordt door plaatsing van het werk dan wel de bekabeling naar land’, als bedoeld in de door de Ondernemer verkregen vergunning verleend op basis van de [Wet beheer rijkswaterstaatswerken](../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md).  
 
-2. Voor de toepassing van deze overeenkomst wordt de bouwperiode geacht te zijn aangevangen op de datum waarop de Ondernemer dat aan de Staat heeft aangetoond.    
+2. Voor de toepassing van deze overeenkomst wordt de bouwperiode geacht te zijn aangevangen op de datum waarop de Ondernemer dat aan de Staat heeft aangetoond.   
 
 ### Artikel  2  
 
 ####Tijdige aanvang van de bouw
 
-De Ondernemer verplicht zich jegens de Staat de bouwperiode tijdig aan te vangen en wel vóór 1 augustus 2013.  
+De Ondernemer verplicht zich jegens de Staat de bouwperiode tijdig aan te vangen en wel vóór 1 augustus 2013. 
 
 ### Artikel  3  
 
 ####Inhoud en omvang van de garantie
 
-De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel 2 bedoelde verplichting, alsmede de bij niet tijdige nakoming verschuldigde boetes, binnen acht weken nadat de Beschikking in werking is getreden ten behoeve van de Staat financiële zekerheid te stellen en gesteld houden voor een bedrag groot € 20.000.000,– (zegge: twintig miljoen euro) door middel van de afgifte aan de Staat van een door een binnen de Europese Unie gevestigde bank afgegeven bankgarantie welke is opgemaakt onder gebruikmaking van het model opgenomen als Bijlage B  
+De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel 2 bedoelde verplichting, alsmede de bij niet tijdige nakoming verschuldigde boetes, binnen acht weken nadat de Beschikking in werking is getreden ten behoeve van de Staat financiële zekerheid te stellen en gesteld houden voor een bedrag groot € 20.000.000,– (zegge: twintig miljoen euro) door middel van de afgifte aan de Staat van een door een binnen de Europese Unie gevestigde bank afgegeven bankgarantie welke is opgemaakt onder gebruikmaking van het model opgenomen als Bijlage B 
 
 ### Artikel  4  
 
@@ -181,7 +181,7 @@ De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel
 
 1. De verplichting de in artikel 3 bedoelde bankgarantie te blijven stellen vervalt uitsluitend door het schriftelijk bericht van de Staat aan de Bank dat de verplichting geheel of gedeeltelijk is vervallen. De Ondernemer ontvangt een kopie van het bericht van verval.  
 
-2. Zodra de verplichting geheel is vervallen zal de Staat de bankgarantie retourneren aan de Ondernemer.    
+2. Zodra de verplichting geheel is vervallen zal de Staat de bankgarantie retourneren aan de Ondernemer.   
 
 ### Artikel  5  
 
@@ -193,7 +193,7 @@ De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel
 
 3. De boetes bedoeld in het eerste en tweede lid, (in totaal ten hoogste tien) zijn telkens verschuldigd voor het enkele verloop van de termijn en zonder dat enige ingebrekestelling nodig is.  
 
-4. De Ondernemer machtigt bij deze de Staat onherroepelijk tot het innen van de boetes door het inroepen van de bankgarantie voor het bedrag van de boete, telkens wanneer er een boete verschuldigd is geworden.    
+4. De Ondernemer machtigt bij deze de Staat onherroepelijk tot het innen van de boetes door het inroepen van de bankgarantie voor het bedrag van de boete, telkens wanneer er een boete verschuldigd is geworden.   
 
 ### Artikel  6  
 
@@ -201,7 +201,7 @@ De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel
 
 1. Deze Uitvoeringsvereenkomst treedt in werking door de ondertekening daarvan door de Partijen met dien verstande dat de inwerkingtreding wordt opgeschort totdat de Beschikking in werking is getreden en de Staat de Ondernemer daarvan schriftelijk bericht heeft gestuurd.  
 
-2. Deze Uitvoeringsvereenkomst eindigt van rechtswege door de teruggave van de bankgarantie door de Staat aan de Ondernemer.    
+2. Deze Uitvoeringsvereenkomst eindigt van rechtswege door de teruggave van de bankgarantie door de Staat aan de Ondernemer.   
 
 ### Artikel  7  
 
@@ -213,7 +213,7 @@ De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel
 
 3. Mededelingen, aanzeggingen, verzoeken, toestemmingen en andere berichten die niet in overeenstemming met het tweede lid zijn gedaan blijven zonder rechtsgevolg.  
 
-4. De Staat is bevoegd eenzijdig van het bepaalde in het eerste lid af te wijken.    
+4. De Staat is bevoegd eenzijdig van het bepaalde in het eerste lid af te wijken.   
 
 ### Artikel  8  
 
@@ -221,14 +221,14 @@ De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel
 
 1. Op deze Uitvoeringsovereenkomst is uitsluitend Nederlands recht van toepassing.  
 
-2. Alle geschillen in verband met deze uitvoeringsovereenkomst of met afspraken die daarmee samenhangen zullen worden beslecht door de bevoegde rechter te Den Haag.    
+2. Alle geschillen in verband met deze uitvoeringsovereenkomst of met afspraken die daarmee samenhangen zullen worden beslecht door de bevoegde rechter te Den Haag.   
 
 ### Artikel  9  
 
 ####Citeertitel
 
-Deze Uitvoeringsovereenkomst wordt tussen partijen aangeduid als ‘Uitvoeringsovereenkomst Wind op zee Staat/...................... ’.  
-Aldus overeengekomen en in tweevoud ondertekend te ....... Ondernemer te 's-Gravenhage op .................... De Minister van Economische Zaken.  
+Deze Uitvoeringsovereenkomst wordt tussen partijen aangeduid als ‘Uitvoeringsovereenkomst Wind op zee Staat/...................... ’. 
+Aldus overeengekomen en in tweevoud ondertekend te ....... Ondernemer te 's-Gravenhage op .................... De Minister van Economische Zaken. 
 
 ### Bijlage  
 
@@ -254,5 +254,5 @@ C. De Bank bereid is de desbetreffende bankgarantie ten gunste van de Staat te s
 
 6. Op deze bankgarantie is Nederlands recht van toepassing. Alle geschillen die mochten ontstaan over of naar aanleiding van deze bankgarantie zullen worden beslecht door de bevoegde rechter te ’s-Gravenhage.  
 
-7. Indien deze bankgarantie dient te worden geretourneerd geschiedt dat door toezending aan adres: ...............   Getekend te op De Bank.  
+7. Indien deze bankgarantie dient te worden geretourneerd geschiedt dat door toezending aan adres: ...............   Getekend te op De Bank. 
 

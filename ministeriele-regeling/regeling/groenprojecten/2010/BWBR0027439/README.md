@@ -10,11 +10,11 @@ Besluiten:
 
 In deze regeling wordt verstaan onder: 
 
-a. *accountantsverklaring:* verklaring, afgegeven door een registeraccountant of een accountant-administratieconsulent;  
+a.  *accountantsverklaring:* verklaring, afgegeven door een registeraccountant of een accountant-administratieconsulent;  
 
-b. *bedrijventerrein:* ruimtelijk aaneengesloten of functioneel verbonden terrein dat bestemd en geschikt is voor gebruik door vestigingen ten behoeve van handel, nijverheid, commerciële dienstverlening en industrie, daaronder niet begrepen een terrein in overwegende mate bestemd voor kantoren, detailhandel of horeca;  
+b.  *bedrijventerrein:* ruimtelijk aaneengesloten of functioneel verbonden terrein dat bestemd en geschikt is voor gebruik door vestigingen ten behoeve van handel, nijverheid, commerciële dienstverlening en industrie, daaronder niet begrepen een terrein in overwegende mate bestemd voor kantoren, detailhandel of horeca;  
 
-c. 
+c.  *bestaand project:*
 
 1°. project als bedoeld in artikel 2, onderdeel a, onder 1°, 2°, 3°,4°, 8° en 9°, b, c, d, e, f, g, h onder 7°, i, j, en k, waarvoor ten minste zes maanden voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend een aanvang met de uitvoering van de werkzaamheden is gemaakt;  
 
@@ -24,51 +24,51 @@ c.
 
 4°. projecten als bedoeld in artikel 2, onderdeel h, onder 3° en 4°, waarvoor meer dan acht maanden voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend, de hypotheekakte werd gepasseerd dan wel de leenovereenkomst werd gesloten;    
 
-d. *Bouwbesluit:* Bouwbesluit 2003;  
+d.  *Bouwbesluit:* Bouwbesluit 2003;  
 
-e. *bruto vloeroppervlak:* oppervlakte conform NEN 2580 gemeten op vloerniveau langs de buitenomtrek van opgaande scheidingsconstructies die de desbetreffende ruimte of groep van ruimten omsluiten;  
+e.  *bruto vloeroppervlak:* oppervlakte conform NEN 2580 gemeten op vloerniveau langs de buitenomtrek van opgaande scheidingsconstructies die de desbetreffende ruimte of groep van ruimten omsluiten;  
 
-f. *duurzaam geproduceerd hout:* hout waarvoor een door het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu erkend certificaat is afgegeven waaruit blijkt dat het voldoet aan de Nederlandse eisen en waarvan het gebruik is aangetoond door middel van certificaten en afleverbewijzen of facturen;  
+f.  *duurzaam geproduceerd hout:* hout waarvoor een door het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu erkend certificaat is afgegeven waaruit blijkt dat het voldoet aan de Nederlandse eisen en waarvan het gebruik is aangetoond door middel van certificaten en afleverbewijzen of facturen;  
 
-g. *duurzame melkveehouderij:* het bedrijfsmatig houden van melkkoeien op een duurzame wijze met een integraal duurzaam veehouderijsysteem dat in uitvoering overeenstemt met een Duurzame melkveestal die op grond van [artikel 3.31](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [artikel 3.42a, tweede lid van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) door de Minister is aangewezen als bedrijfsmiddel dat in het belang is van het Nederlandse milieu;  
+g.  *duurzame melkveehouderij:* het bedrijfsmatig houden van melkkoeien op een duurzame wijze met een integraal duurzaam veehouderijsysteem dat in uitvoering overeenstemt met een Duurzame melkveestal die op grond van [artikel 3.31](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [artikel 3.42a, tweede lid van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) door de Minister is aangewezen als bedrijfsmiddel dat in het belang is van het Nederlandse milieu;  
 
-h. *eigenaar-bewoner:* natuurlijk persoon die een woning als bedoeld in onderdeel z in eigendom heeft danwel verkrijgt en daarin zijn hoofdverblijf heeft of zal hebben, danwel de erfpachter, vruchtgebruiker of gerechtigde tot een appartementsrecht als bedoeld in [artikel 106 van Boek 5 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), voorzover deze rechten betrekking hebben op een woning zoals hiervoor bedoeld;  
+h.  *eigenaar-bewoner:* natuurlijk persoon die een woning als bedoeld in onderdeel z in eigendom heeft danwel verkrijgt en daarin zijn hoofdverblijf heeft of zal hebben, danwel de erfpachter, vruchtgebruiker of gerechtigde tot een appartementsrecht als bedoeld in [artikel 106 van Boek 5 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), voorzover deze rechten betrekking hebben op een woning zoals hiervoor bedoeld;  
 
-i. *Energie-index:* maat voor de energieprestatie van bestaande woningen aan de hand van een berekeningsmethode die voldoet aan de BRL 9501 zoals vastgesteld op 6 december 2006;  
+i.  *Energie-index:* maat voor de energieprestatie van bestaande woningen aan de hand van een berekeningsmethode die voldoet aan de BRL 9501 zoals vastgesteld op 6 december 2006;  
 
-j. *energieklasse:* gestandaardiseerde omzetting van de Energie-index in een als onderdeel van het energieprestatiecertificaat opgenomen energieklasse;  
+j.  *energieklasse:* gestandaardiseerde omzetting van de Energie-index in een als onderdeel van het energieprestatiecertificaat opgenomen energieklasse;  
 
-k. *energielabel:* gestandaardiseerde omzetting van de energieklasse in een label met de waardes A tot en met G;  
+k.  *energielabel:* gestandaardiseerde omzetting van de energieklasse in een label met de waardes A tot en met G;  
 
-l. *Energieprestatiecoëfficiënt:* coëfficiënt die de energieprestatie van een nieuwbouwwoning of -utiliteitsgebouw aangeeft aan de hand van een genormeerde berekening;  
+l.  *Energieprestatiecoëfficiënt:* coëfficiënt die de energieprestatie van een nieuwbouwwoning of -utiliteitsgebouw aangeeft aan de hand van een genormeerde berekening;  
 
-m. *energieprestatiecertificaat:* een op een gebouw toegesneden certificaat dat niet ouder is dan tien jaar waarin het resultaat is vermeld van de berekening van de hoeveelheid energie die nodig wordt geacht voor de verschillende behoeften die verband houden met een gestandaardiseerd gebruik van dat gebouw, waaronder verwarming, warmwatervoorziening, koeling, ventilatie en verlichting, waarin referentiewaarden zijn vermeld waarmee de energieprestatie van het gebouw kan worden vergeleken en beoordeeld, en dat vergezeld gaat van aanbevelingen voor kosteneffectieve verbetering van de energieprestatie;  
+m.  *energieprestatiecertificaat:* een op een gebouw toegesneden certificaat dat niet ouder is dan tien jaar waarin het resultaat is vermeld van de berekening van de hoeveelheid energie die nodig wordt geacht voor de verschillende behoeften die verband houden met een gestandaardiseerd gebruik van dat gebouw, waaronder verwarming, warmwatervoorziening, koeling, ventilatie en verlichting, waarin referentiewaarden zijn vermeld waarmee de energieprestatie van het gebouw kan worden vergeleken en beoordeeld, en dat vergezeld gaat van aanbevelingen voor kosteneffectieve verbetering van de energieprestatie;  
 
-n. *gemeenschappelijk visserijbeleid:* het geheel van Europese regels voor de visserij en de aquacultuur;  
+n.  *gemeenschappelijk visserijbeleid:* het geheel van Europese regels voor de visserij en de aquacultuur;  
 
-o. *Groen Label Kas:* tuinbouwkas als teeltruimte die wordt gebruikt voor het bedrijfsmatig telen van tuinbouwgewassen met een lagere milieubelasting, en die in technische uitvoering overeenstemt met een Groen Label Kas die op grond van [artikel 3.31](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [artikel 3.42a lid 2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) door de Minister is aangewezen als bedrijfsmiddel dat in het belang is van het Nederlandse milieu;  
+o.  *Groen Label Kas:* tuinbouwkas als teeltruimte die wordt gebruikt voor het bedrijfsmatig telen van tuinbouwgewassen met een lagere milieubelasting, en die in technische uitvoering overeenstemt met een Groen Label Kas die op grond van [artikel 3.31](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [artikel 3.42a lid 2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) door de Minister is aangewezen als bedrijfsmiddel dat in het belang is van het Nederlandse milieu;  
 
-p. *labelstap:* verandering van de Energie-index van een gebouw, waardoor het gebouw in een andere energieklasse valt en zodoende een ander energielabel krijgt;  
+p.  *labelstap:* verandering van de Energie-index van een gebouw, waardoor het gebouw in een andere energieklasse valt en zodoende een ander energielabel krijgt;  
 
-q. *landbouwgrondstoffen:* producten van de bodem, van de veefokkerij en van de visserij, met uitzondering van producten die een eerste be- of verwerking hebben ondergaan;  
+q.  *landbouwgrondstoffen:* producten van de bodem, van de veefokkerij en van de visserij, met uitzondering van producten die een eerste be- of verwerking hebben ondergaan;  
 
-r. *natuur- en milieueducatie:* het organiseren van leersituaties om inzicht in en betrokkenheid bij het milieu en ecologische verbanden en processen te vergroten, en waarbij aandacht wordt geschonken aan mogelijkheden om de opgedane kennis in het dagelijkse leven toe te passen;  
+r.  *natuur- en milieueducatie:* het organiseren van leersituaties om inzicht in en betrokkenheid bij het milieu en ecologische verbanden en processen te vergroten, en waarbij aandacht wordt geschonken aan mogelijkheden om de opgedane kennis in het dagelijkse leven toe te passen;  
 
-s. *project:* in Nederland gelegen technisch, functioneel en in de tijd samenhangend geheel van activa en werkzaamheden;  
+s.  *project:* in Nederland gelegen technisch, functioneel en in de tijd samenhangend geheel van activa en werkzaamheden;  
 
-t. *projectbeheerder:* degene voor wiens rekening en risico het project wordt ontwikkeld en in stand wordt gehouden;  
+t.  *projectbeheerder:* degene voor wiens rekening en risico het project wordt ontwikkeld en in stand wordt gehouden;  
 
-u. *projectvermogen:* vermogen dat nodig is voor de financiering van vaste activa en de werkzaamheden om de vaste activa te plaatsen, voor zover noodzakelijk voor en uitsluitend dienstbaar aan de totstandbrenging van een project;  
+u.  *projectvermogen:* vermogen dat nodig is voor de financiering van vaste activa en de werkzaamheden om de vaste activa te plaatsen, voor zover noodzakelijk voor en uitsluitend dienstbaar aan de totstandbrenging van een project;  
 
-v. *projectvermogen eigen woning:* projectvermogen als bedoeld in artikel 6, lid 9 en lid 11 voor projecten als bedoeld in artikel 2, onderdeel h, onder 1° en 3° voor zover uitgevoerd door een eigenaar-bewoner;  
+v.  *projectvermogen eigen woning:* projectvermogen als bedoeld in artikel 6, lid 9 en lid 11 voor projecten als bedoeld in artikel 2, onderdeel h, onder 1° en 3° voor zover uitgevoerd door een eigenaar-bewoner;  
 
-w. *utiliteitsgebouw:* gebouw waarvoor in het Bouwbesluit een energieprestatie-eis is vastgelegd, met uitzondering van woningen;  
+w.  *utiliteitsgebouw:* gebouw waarvoor in het Bouwbesluit een energieprestatie-eis is vastgelegd, met uitzondering van woningen;  
 
-x. *verbeterproject:* project gericht op een wezenlijke verandering van een bestaand project, waardoor dit naar inrichting, aard of omvang een wijziging ondergaat welke het aanmerkelijk waardevoller maakt voor het milieu, waaronder natuur en bos;  
+x.  *verbeterproject:* project gericht op een wezenlijke verandering van een bestaand project, waardoor dit naar inrichting, aard of omvang een wijziging ondergaat welke het aanmerkelijk waardevoller maakt voor het milieu, waaronder natuur en bos;  
 
-y. *verklaring:* schriftelijk besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als bedoeld in [artikel 5.14, derde lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos;  
+y.  *verklaring:* schriftelijk besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als bedoeld in [artikel 5.14, derde lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos;  
 
-z. *woning:* gebouw, bedoeld voor bewoning, dat voortdurend als hoofdverblijf ter beschikking zal staan aan een of meer natuurlijke personen en per wooneenheid ten minste is voorzien van een eigen toegang, een eigen toilet, een eigen bad- of douchevoorziening, alsmede van een energieaansluiting, bedoeld voor een kooktoestel om een maaltijd te kunnen bereiden.    
+z.  *woning:* gebouw, bedoeld voor bewoning, dat voortdurend als hoofdverblijf ter beschikking zal staan aan een of meer natuurlijke personen en per wooneenheid ten minste is voorzien van een eigen toegang, een eigen toilet, een eigen bad- of douchevoorziening, alsmede van een energieaansluiting, bedoeld voor een kooktoestel om een maaltijd te kunnen bereiden.   
 
 ### Artikel  2  
 
@@ -124,7 +124,7 @@ b. het door kleine, middelgrote en micro-ondernemingen in de zin van Aanbeveling
 
 3°. duurzame melkveehouderij overeenkomstig de eisen van het certificatiesysteem van de vigerende Maatlat Duurzame Veehouderij en Aquacultuur, onderdeel MDV – melkveestallen, certificaat A.    
 
-d. *projecten in de categorie duurzame grondstoffen*, die zijn gericht op de industriële verwerking van landbouwgrondstoffen, of reststoffen van natuurbeheer tot producten die niet geschikt zijn voor menselijke of dierlijke consumptie, met uitzondering van de verwerking van genoemde stoffen tot energie of energiedragers. Voorwaarde daarbij is dat die producten in Nederland nog niet gangbaar zijn en dat deze leiden tot een vermindering van de aantasting van het milieu.  
+d.  *projecten in de categorie duurzame grondstoffen*, die zijn gericht op de industriële verwerking van landbouwgrondstoffen, of reststoffen van natuurbeheer tot producten die niet geschikt zijn voor menselijke of dierlijke consumptie, met uitzondering van de verwerking van genoemde stoffen tot energie of energiedragers. Voorwaarde daarbij is dat die producten in Nederland nog niet gangbaar zijn en dat deze leiden tot een vermindering van de aantasting van het milieu.  
 
 e.  *projecten in de categorie terugwinning en hergebruik, die zijn gericht op:*  
 
@@ -286,14 +286,14 @@ e. de behandeling van afvalwater, dan wel bereiding van drinkwater waarbij een r
 
 f. de behandeling van afvalwater verontreinigd met prioritaire stoffen waarbij een reductie van ten minste 50% van de effluentwaarde van deze stoffen wordt gerealiseerd ten opzichte van de effluentwaarde van deze stoffen van de bestaande of te vervangen installatie.      
 
-k. andere innovatieve en hoogwaardige projecten die naar zijn oordeel in het belang zijn van de bescherming van het milieu, waaronder natuur en bos.    
+k. andere innovatieve en hoogwaardige projecten die naar zijn oordeel in het belang zijn van de bescherming van het milieu, waaronder natuur en bos.   
 
 ### Artikel  3  
 
 1.  Een verklaring kan slechts worden aangevraagd door en afgegeven worden aan een kredietinstelling of een beleggingsinstelling als bedoeld in [artikel 5.14, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die voornemens is in belangrijke mate bij te dragen aan het verstrekken van kredieten ten behoeve van het project dan wel het direct of indirect beleggen van vermogen in het project.   
 2.  Een aanvraag voor projecten als bedoeld in artikel 2, onderdelen a tot en met d, wordt ingediend bij de Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en voor andere projecten bij Agentschap NL.   
 3.  De aanvraag wordt ingediend met gebruikmaking van een formulier, en in overeenstemming met de procedurele voorwaarden vermeld bij dit formulier, dat door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer op aanvraag beschikbaar wordt gesteld.   
-4.  Aan een aanvrager kan worden verzocht een accountantsverklaring over te leggen, waaruit de juistheid of aannemelijkheid van de in de aanvraag vermelde gegevens blijkt.   
+4.  Aan een aanvrager kan worden verzocht een accountantsverklaring over te leggen, waaruit de juistheid of aannemelijkheid van de in de aanvraag vermelde gegevens blijkt.  
 
 ### Artikel  4  
 
@@ -316,13 +316,13 @@ g. een project waarvan het niet aannemelijk is dat het enig eigen rendement heef
 h. een project waarvan het te verwachten economisch rendement van het project in verhouding tot het risico zodanig is dat het zonder toepassing van de regeling tot stand kan komen.     
 2.  Geen verklaring wordt afgegeven indien de aanvrager, na daartoe een verzoek ontvangen te hebben, niet binnen de gestelde termijn de gegevens verstrekt die van belang kunnen zijn voor de beoordeling van een project.   
 3.  Het eerste lid, onderdeel a, is niet van toepassing op projecten als bedoeld in artikel 2, onderdeel b, onder 1° en 2°.   
-4.  Het eerste lid, onderdeel b, is niet van toepassing op projecten als bedoeld in artikel 2, onderdeel f.3°, f.4°, g.1°, g4° of g5°, die worden uitgevoerd op of aan een woning en die worden uitgevoerd voor rekening en risico van de eigenaar-bewoner.   
+4.  Het eerste lid, onderdeel b, is niet van toepassing op projecten als bedoeld in artikel 2, onderdeel f.3°, f.4°, g.1°, g4° of g5°, die worden uitgevoerd op of aan een woning en die worden uitgevoerd voor rekening en risico van de eigenaar-bewoner.  
 
 ### Artikel  5  
 
 1.  De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer beslist, in overeenstemming met de Minister van Financiën en na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Verkeer en Waterstaat, op een volledige aanvraag binnen acht weken na de indiening ervan.   
 2.  Een volledige aanvraag is een aanvraag waarbij geen aanvullende informatie nodig is voor de beoordeling van het project.   
-3.  Een afschrift van het besluit wordt gezonden aan de projectbeheerder.   
+3.  Een afschrift van het besluit wordt gezonden aan de projectbeheerder.  
 
 ### Artikel  6  
 
@@ -339,9 +339,9 @@ c. vijftien jaren, indien het een project betreft als bedoeld in artikel 2, onde
 5.  In de verklaring kunnen nadere voorwaarden worden opgenomen.   
 6.  Ter zake van een project als bedoeld in artikel 2, onderdeel a, onder 7°, komt voor een verklaring in aanmerking een bedrag van: 
 
-a. ten hoogste € 4.538 per hectare voor projecten als bedoeld in de bijlagen 15 tot en met 17, 24a tot en met 30, 32 en 45 bij de Provinciale Subsidieregeling agrarisch natuurbeheer, onderscheidenlijk in de pakketten A01.01.01a tot en met A01.01.01g, A01.01.02a, A01.01.02b, A01.01.03a tot en met A01.01.03d, A01.01.04a1 tot en met A01.01.4b, A01.01.05, A01.01.06, A01.02.01a1 tot en met A01.02.01c2, A01.02.02a, A01.02.02b, A01.02.03a, A01.02.03b, A01.03.01a tot en met A01.03.01d, A01.03.02a Lb tot en met A01.03.02d Lb, A02.01.01, A02.02.01a tot en met A02.02.01c, A02.02.02a tot en met A02.02.02c, A02.02.03, L01.02.01, L01.14.01a en L01.14.01b van de provinciale Subsidieverordening Natuur- en Landschapsbeheer;  
+a.ten hoogste € 4.538 per hectare voor projecten als bedoeld in de bijlagen 15 tot en met 17, 24a tot en met 30, 32 en 45 bij de Provinciale Subsidieregeling agrarisch natuurbeheer, onderscheidenlijk in de pakketten A01.01.01a tot en met A01.01.01g, A01.01.02a, A01.01.02b, A01.01.03a tot en met A01.01.03d, A01.01.04a1 tot en met A01.01.4b, A01.01.05, A01.01.06, A01.02.01a1 tot en met A01.02.01c2, A01.02.02a, A01.02.02b, A01.02.03a, A01.02.03b, A01.03.01a tot en met A01.03.01d, A01.03.02a Lb tot en met A01.03.02d Lb, A02.01.01, A02.02.01a tot en met A02.02.01c, A02.02.02a tot en met A02.02.02c, A02.02.03, L01.02.01, L01.14.01a en L01.14.01b van de provinciale Subsidieverordening Natuur- en Landschapsbeheer;
 
-b. ten hoogste € 6.808 per hectare voor projecten als bedoeld in de bijlagen 6 tot en met 14, 18, 23 en 41 tot en met 43 bij de Provinciale Subsidieregeling agrarisch natuurbeheer, onderscheidenlijk in de pakketten A02.01.01, A02.01.02, A02.01.03a, A02.01.03b, L01.02.03 en L01.09.01 van de provinciale Subsidieverordening Natuur- en Landschapsbeheer;     
+b.ten hoogste € 6.808 per hectare voor projecten als bedoeld in de bijlagen 6 tot en met 14, 18, 23 en 41 tot en met 43 bij de Provinciale Subsidieregeling agrarisch natuurbeheer, onderscheidenlijk in de pakketten A02.01.01, A02.01.02, A02.01.03a, A02.01.03b, L01.02.03 en L01.09.01 van de provinciale Subsidieverordening Natuur- en Landschapsbeheer;   
 7.  Het projectvermogen met betrekking tot een project als bedoeld in artikel 2, onderdeel c, onder 1°, is gemaximeerd op € 100 per vierkante meter kasoppervlak, exclusief de kosten voor gelijktijdig opwekken van warmte/kracht of de kosten van een warmtepomp en/of warmte en koudeopslag.   
 8.  Het projectvermogen met betrekking tot een project als bedoeld in artikel 2, onderdeel c, onder 3° van de duurzame melkveehouderij is gemaximeerd tot € 1 000 000 per stal.   
 9.  Ter zake van een project als bedoeld in artikel 2, onderdeel h, onder 1° komt voor een verklaring in aanmerking een bedrag van € 100 000 indien het een grondgebonden woning betreft, en een bedrag van €  65 000 indien het een niet grondgebonden woning betreft.   
@@ -368,12 +368,12 @@ b. maximaal € 450 per vierkante meter bruto vloeroppervlak indien het project
 c. maximaal € 600 per vierkante meter bruto vloeroppervlak indien het project voldoet aan niveau III.     
 15.  Voor projecten als bedoeld in artikel 2, onderdeel i, onder 2°, geldt voor alle voer- en vaartuigen in deze categorie dat een verklaring wordt beperkt tot 50% van het projectvermogen.   
 16.  Het projectvermogen van een project onder artikel 2, onderdeel a tot en met j, kan, indien het meer bedraagt dan €  35 000 000, tot dat bedrag worden beperkt.   
-17.  Het projectvermogen van een project onder artikel 2, onderdeel k, wordt, indien het meer bedraagt dan €  25 000 000, beperkt tot dat bedrag, tenzij bij besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in overeenstemming met de Minister van Financiën anders is bepaald.   
+17.  Het projectvermogen van een project onder artikel 2, onderdeel k, wordt, indien het meer bedraagt dan €  25 000 000, beperkt tot dat bedrag, tenzij bij besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in overeenstemming met de Minister van Financiën anders is bepaald.  
 
 ### Artikel  7  
 
 1.  Indien het bedrag dat met de verklaring, bedoeld in artikel 2, mogelijk als een financieel of ander voordeel kan worden verworven, meer bedraagt dan € 7 500 000 per onderneming meldt de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het project overeenkomstig artikel 88, derde lid, van het EG-verdrag aan bij de Commissie van de Europese Gemeenschappen.   
-2.  Indien het projecten betreft als bedoeld in artikel 2, onder e, onder 2° en 3°, en onder k, meldt de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het project overeenkomstig artikel 88, derde lid, van het EG-verdrag aan bij de Commissie van de Europese Gemeenschappen, tenzij het project op grond van een verordening van de Commissie van de Europese Gemeenschappen is vrijgesteld van deze aanmeldingsverplichting.   
+2.  Indien het projecten betreft als bedoeld in artikel 2, onder e, onder 2° en 3°, en onder k, meldt de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het project overeenkomstig artikel 88, derde lid, van het EG-verdrag aan bij de Commissie van de Europese Gemeenschappen, tenzij het project op grond van een verordening van de Commissie van de Europese Gemeenschappen is vrijgesteld van deze aanmeldingsverplichting.  
 
 ### Artikel  8  
 
@@ -392,15 +392,15 @@ e. de melding, bedoeld in artikel 9, niet onverwijld is geschied;
 f. bij projecten als bedoeld in artikel 2, onder h, onder 3°, de werkzaamheden niet zijn beëindigd binnen twee jaar na de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend.     
 2.  Het besluit tot intrekking kan terugwerkende kracht hebben.   
 3.  Het besluit tot intrekking wordt gezonden aan de aanvrager.   
-4.  Een afschrift van het besluit wordt gezonden aan de projectbeheerder en aan de inspecteur van de Belastingdienst.   
+4.  Een afschrift van het besluit wordt gezonden aan de projectbeheerder en aan de inspecteur van de Belastingdienst.  
 
 ### Artikel  9  
 
-Indien de uitvoering van een project wordt gewijzigd, doet de instelling die kapitaal verschaft ten behoeve van een project waarvoor een verklaring is afgegeven, daarvan onverwijld melding aan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
+Indien de uitvoering van een project wordt gewijzigd, doet de instelling die kapitaal verschaft ten behoeve van een project waarvoor een verklaring is afgegeven, daarvan onverwijld melding aan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. 
 
 ### Artikel  10  
 
-Ten behoeve van de vaststelling van een verklaring is ten aanzien van de krediet- of beleggingsinstelling, bedoeld in [artikel 5.14, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de projectbeheerder, [hoofdstuk VIII, afdeling 2, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van overeenkomstige toepassing inzake de verstrekking van de van belang zijnde gegevens en de daaraan verbonden rechten en plichten. Hierbij gelden de aan de inspecteur opgelegde verplichtingen eveneens voor de door de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen personen.  
+Ten behoeve van de vaststelling van een verklaring is ten aanzien van de krediet- of beleggingsinstelling, bedoeld in [artikel 5.14, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de projectbeheerder, [hoofdstuk VIII, afdeling 2, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van overeenkomstige toepassing inzake de verstrekking van de van belang zijnde gegevens en de daaraan verbonden rechten en plichten. Hierbij gelden de aan de inspecteur opgelegde verplichtingen eveneens voor de door de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen personen. 
 
 ### Artikel  11  
 
@@ -408,7 +408,7 @@ Aan de in deze regeling bedoelde normen, meetvoorschriften, tests, verklaringen 
 
 a. normen, meetvoorschriften en tests welke ten minste een gelijkwaardig beschermingsniveau bieden;  
 
-b. verklaringen en certificaten welke zijn afgegeven op basis van onderzoekingen en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.    
+b. verklaringen en certificaten welke zijn afgegeven op basis van onderzoekingen en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.   
 
 ### Artikel  12  
 
@@ -418,15 +418,15 @@ b. verklaringen en certificaten welke zijn afgegeven op basis van onderzoekingen
 
 a. subsidie is verstrekt op grond van de Provinciale Subsidieregeling agrarisch natuurbeheer voor een tijdvak dat eindigt op 31 december 2009, en  
 
-b. voor bovengenoemde datum een aanvraag tot subsidieverlening is ingediend voor de in artikel 2, onderdeel a, onder 7<sup>°</sup>, bedoelde onderdelen van de provinciale Subsidieverordening Natuur en Landschapsbeheer, behoudt voor de toepassing van deze regeling en de regeling genoemd in het eerste lid zijn gelding tot de datum waarop op de aanvraag tot subsidieverlening wordt beslist. Indien de aanvraag tot subsidieverlening wordt afgewezen trekt de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, in overeenstemming met de Minister van Financiën en na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Verkeer en Waterstaat, de verklaring in met terugwerkende kracht tot en met 1 januari 2010.     
+b. voor bovengenoemde datum een aanvraag tot subsidieverlening is ingediend voor de in artikel 2, onderdeel a, onder 7<sup>°</sup>, bedoelde onderdelen van de provinciale Subsidieverordening Natuur en Landschapsbeheer, behoudt voor de toepassing van deze regeling en de regeling genoemd in het eerste lid zijn gelding tot de datum waarop op de aanvraag tot subsidieverlening wordt beslist. Indien de aanvraag tot subsidieverlening wordt afgewezen trekt de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, in overeenstemming met de Minister van Financiën en na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Verkeer en Waterstaat, de verklaring in met terugwerkende kracht tot en met 1 januari 2010.    
 
 ### Artikel  13  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant, waarin zij wordt gepubliceerd.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant, waarin zij wordt gepubliceerd. 
 
 ### Artikel  14  
 
-Deze regeling wordt aangehaald als: Regeling groenprojecten 2010.  
+Deze regeling wordt aangehaald als: Regeling groenprojecten 2010. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -435,10 +435,10 @@ Den Haag
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer 
 
-De 
-Minister van Financiën.  
+De
+Ministervan Financiën.   
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####, behorende bij artikel 2, onderdeel h, onder 5° , van de Regeling groenprojecten 2010
 
@@ -464,7 +464,7 @@ Minister van Financiën.
 
 |--- | Maatregel/toetsingscriterium  | Hoe te toetsen  | NPU  |
 |:---|:---|:---|:---|
-| 1  | Het ontwerp niet hoger zijn dan 70% van de eisen in het Bouwbesluit  | Controleer of Q <sub>pres;tot</sub> /Q <sub>pres.toel</sub>. ≤ 0.7  | Nvt  |
+| 1  | Het ontwerp niet hoger zijn dan 70% van de eisen in het Bouwbesluit  | Controleer of Q<sub>pres;tot</sub>/Q<sub>pres.toel</sub>. ≤ 0.7  | Nvt  |
 | 2  | Het ontwerp moet aandacht hebben voor vervuilende bronnen  | Controleer of aparte ruimten voor rokers, printers en kopieermachines zijn gemaakt met een eigen effectieve afzuiging  | U678 én U677  |
 | 3  | Het ontwerp moet flexibel zijn  | 4 van onderstaande 8 items moeten in het ontwerp zitten:  | --- |
 | --- | * installatietechnisch  | a. installaties uitgelegd op maximaal 1.8 m i.p.v. 3.6 m  | – Nvt  |
@@ -476,14 +476,14 @@ Minister van Financiën.
 | --- | --- | g. bereid gebouw voor op functionele aanpassingen  | – U419  |
 | --- | --- | h. demontabele draagconstructies  | – U057  |
 | 4  | In het ontwerp moet sprake zijn van een gesloten grondbalans  | Vraag de aanvrager om een onderbouwing middels een berekening van de grondstromen (wat wordt afgegraven/aangevuld; wat gebeurt er met een tekort/overschot van de grond)  | Nvt  |
-| 5  | In het ontwerp wordt uitsluitend duurzaam geproduceerd hout toegepast  | Gebruik van duurzaam geproduceerd hout zal moeten worden aangetoond door middel van certificaten en aflever- bewijzen of facturen.  |  Art. 1 lid f    |
+| 5  | In het ontwerp wordt uitsluitend duurzaam geproduceerd hout toegepast  | Gebruik van duurzaam geproduceerd hout zal moeten worden aangetoond door middel van certificaten en aflever- bewijzen of facturen.  | Art. 1 lid f   |
 | 6  | In het ontwerp zijn waterbesparende  | Controleer of minimaal zijn opgenomen:  | U383 én  |
 | --- | maatregelen opgenomen  | – toiletten met 4 literreservoir;  | U385  |
 | --- | --- | – waterbesparende kranen/douches  | --- |
 | 7  | In het ontwerp is de hemelwaterafvoer afgekoppeld van het rioleringsstelsel en gebruik waar mogelijk halfverharding  | Controleer of hemelwaterafvoer is losgekoppeld van het rioleringsstelsel en controleer of halfverharding is toegepast  | U734  U098  |
 | 8  | Het ontwerp moet maatschappelijk verantwoord zijn  | Laat de aanvrager aangeven wat er duurzaam is aan het ontwerp en vraag de aanvrager om concreet aan te tonen dat duurzaam bouwen wordt uitgedragen, bijvoorbeeld door ruchtbaarheid aan het project te geven middels brochures, lezingen, rondleidingen, kennisoverdracht, etc.  | Nvt  |
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####, behorende bij artikel 2, onderdeel h, onder 6° , van de Regeling groenprojecten 2010
 
@@ -506,7 +506,7 @@ Minister van Financiën.
 |--- | Maatregel/toetsingscriterium  | Hoe te toetsen  | NPU  |
 |:---|:---|:---|:---|
 | 1  | Verbeter de Energie-index van het gebouw met minimaal:  a. 0,60 voor niveau I;  b. 1,20 voor niveau II;  c. 1,80 voor niveau III.  | Controleer of er berekeningen van de Energie-index voor de bestaande en nieuwe situatie zijn, opgesteld door een hiertoe gecertificeerd bureau. Controleer of de maatregelen zijn opgenomen in het bestek.  | N.v.t  |
-| 2  | Pas bij de renovatie uitsluitend gebruikt of duurzaam geproduceerd nieuw hout toe.  | Gebruik van duurzaam geproduceerd hout zal moeten worden aangetoond door middel van certificaten en aflever- bewijzen of facturen.  |  Art. 1 lid f    |
+| 2  | Pas bij de renovatie uitsluitend gebruikt of duurzaam geproduceerd nieuw hout toe.  | Gebruik van duurzaam geproduceerd hout zal moeten worden aangetoond door middel van certificaten en aflever- bewijzen of facturen.  | Art. 1 lid f   |
 | 3  | Maak maximaal gebruik van aanwezige constructies en materialen door zo weinig mogelijk te slopen en zoveel mogelijk materialen her te gebruiken.  | Vraag een schriftelijke onderbouwing van de gemaakte keuzes ten aanzien van fundering, draagconstructie, gevels, indeling en installaties.  | --- |
 | 4  | Indien de binnenwanden, plafonds en installaties vervangen moeten  | Minimaal 3 van de 7 onderstaande items moeten in het ontwerp zitten:  | --- |
 | --- | worden, zorg dan voor een flexibel  | • installaties uitgelegd op maximaal 1.8 m  | – Nvt  |
@@ -518,12 +518,12 @@ Minister van Financiën.
 | --- | --- | • gebouw geschikt voor functionele veranderingen.  | – U419  |
 | 5  | Tref waterbesparende maatregelen.  | Controleer of minimaal zijn opgenomen: toiletten met 4 literreservoir en waterbesparende kranen/douches.  | U383 énU385  |
 | 6  | Draag bij aan maatschappelijke verantwoording  | Laat de aanvrager aangeven wat er duurzaam is aan het ontwerp en vraag de aanvrager om concreet aan te tonen dat duurzaam bouwen wordt uitgedragen, bijvoorbeeld door ruchtbaarheid aan het project te geven middels brochures, lezingen, rondleidingen, kennisoverdracht etc.  | Nvt  |
-| 7  | Zorg ervoor dat geluidwerende eigenschappen van de gevel voldoen aan de nieuwbouweisen voor bescherming tegen geluid van buiten*. Bouwbesluit, afdeling 3.1 ‘Bescherming tegen geluid van buiten, nieuwbouw’.*  | Vraag een schriftelijke verklaring (met handtekening van aanvragende partij + betrokken bouwfysica/akoestiek adviseur erop) waarin staat dat voldaan zal worden aan de gevel geluidwerings-eisen voor nieuwbouw uit het Bouwbesluit.  | --- |
-| 8  | Zorg ervoor dat de hoeveelheid verse luchttoevoer minimaal overeen komt met de nieuwbouw-eisen. *Bouwbesluit. Afdeling 3.10 / par. 3.10.1 ‘Luchtverversing van een verblijfsgebied, verblijfsruimte, ...; nieuwbouw’.*  | Vraag een schriftelijke verklaring (met handtekening van aanvragende partij + betrokken bouwfysica/installatie adviseur erop) waarin staat dat voldaan zal worden aan de nieuwbouw ventilatie-eisen uit het Bouwbesluit.  | --- |
-| 9  | Zorg ervoor dat de daglicht-toetreding voldoet aan de nieuwbouweisen t.a.v. equivalente daglichtoppervlakte in het [Bouwbesluit. Afdeling 3.20](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) / [par. 3.20.1](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md)*‘Daglicht; nieuwbouw’.*  | Vraag een schriftelijke verklaring (met handtekening van aanvragende partij + betrokken bouwfysica-adviseur erop) waarin staat dat voldaan zal worden aan de nieuwbouw eisen t.a.v. daglichttoetreding uit het Bouwbesluit.  | --- |
+| 7  | Zorg ervoor dat geluidwerende eigenschappen van de gevel voldoen aan de nieuwbouweisen voor bescherming tegen geluid van buiten*. Bouwbesluit, afdeling 3.1 ‘Bescherming tegen geluid van buiten, nieuwbouw’.*   | Vraag een schriftelijke verklaring (met handtekening van aanvragende partij + betrokken bouwfysica/akoestiek adviseur erop) waarin staat dat voldaan zal worden aan de gevel geluidwerings-eisen voor nieuwbouw uit het Bouwbesluit.  | --- |
+| 8  | Zorg ervoor dat de hoeveelheid verse luchttoevoer minimaal overeen komt met de nieuwbouw-eisen. *Bouwbesluit. Afdeling 3.10 / par. 3.10.1 ‘Luchtverversing van een verblijfsgebied, verblijfsruimte, ...; nieuwbouw’.*   | Vraag een schriftelijke verklaring (met handtekening van aanvragende partij + betrokken bouwfysica/installatie adviseur erop) waarin staat dat voldaan zal worden aan de nieuwbouw ventilatie-eisen uit het Bouwbesluit.  | --- |
+| 9  | Zorg ervoor dat de daglicht-toetreding voldoet aan de nieuwbouweisen t.a.v. equivalente daglichtoppervlakte in het [Bouwbesluit. Afdeling 3.20](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) / [par. 3.20.1](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) *‘Daglicht; nieuwbouw’.*   | Vraag een schriftelijke verklaring (met handtekening van aanvragende partij + betrokken bouwfysica-adviseur erop) waarin staat dat voldaan zal worden aan de nieuwbouw eisen t.a.v. daglichttoetreding uit het Bouwbesluit.  | --- |
 | 10  | Zorg voor voldoende maatregelen ter voorkoming van oververhitting ‘s zomers (oriëntatie en grootte beglazing, zonwering, bouwmassa, actieve koeling etc.).  | Vraag een schriftelijke verklaring (met handtekening van aanvragende partij + betrokken bouwfysica/installatie-adviseur erop) waarin staat dat voldaan zal worden aan de klasse B eis (direct of adaptief) uit NEN-EN 15251 ‘Binnenmilieu gerelateerde input parameters voor ontwerp en beoordeling van energieprestatie van gebouwen voor de kwaliteit van binnenlucht, het thermisch comfort, de verlichting en akoestiek’.  | --- |
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####, behorende bij artikel 2, onderdeel i, onder 5° , van de Regeling groenprojecten 2010
 
@@ -531,7 +531,7 @@ Minister van Financiën.
 
 ####Algemeen
 
-De maatregelen en voorzieningen die in de bijlage staan vermeld zijn cumulatief vereist, tenzij uit de tekst duidelijk blijkt dat er sprake is van keuze uit de daar aangegeven alternatieven. De eigenaar van het schip dient met behulp van meetrapporten of certificaten aan te tonen dat aan de vereiste specificaties wordt voldaan.  
+De maatregelen en voorzieningen die in de bijlage staan vermeld zijn cumulatief vereist, tenzij uit de tekst duidelijk blijkt dat er sprake is van keuze uit de daar aangegeven alternatieven. De eigenaar van het schip dient met behulp van meetrapporten of certificaten aan te tonen dat aan de vereiste specificaties wordt voldaan. 
 
 ####Eisen
 
@@ -547,12 +547,12 @@ De hoofdmotor dient te bestaan uit één van de volgende alternatieven:
 
 1.d, motor die voldoet aan de eisen gesteld aan de motoren van de CCR fase 3;  
 
-1.e, diesel-geïntegreerd elektrisch systeem voor voorstuwing en de overige vermogensbehoefte.   
+1.e, diesel-geïntegreerd elektrisch systeem voor voorstuwing en de overige vermogensbehoefte.  
 ###Onderdeel 2: Hulpvermogen
 
 2.1, Indien het hulpvermogen niet gegenereerd wordt door een diesel-geïntegreerd electrisch systeem dient het te worden opgewekt door een systeem als genoemd onder onderdeel 1 onder 1.a of 1.b of 1.c of 1.d van deze bijlage.  
 
-2.2, Ten behoeve van het hulpvermogen dient aansluitvoorziening voor het betrekken van walstroom aanwezig te zijn.   
+2.2, Ten behoeve van het hulpvermogen dient aansluitvoorziening voor het betrekken van walstroom aanwezig te zijn.  
 ###Onderdeel 3: Rompmaatregelen
 
 De romp van het schip dient te zijn voorzien van: 
@@ -619,5 +619,5 @@ Eén van de onderstaand maatregelen:
 
 7.1, een geautomatiseerd routeplanningssysteem dat een snelheid adviseert die leidt tot een minimaal brandstofverbruik, afhankelijk van de vaaromstandigheden en het gewenste aankomsttijdstip, of  
 
-7.2, een geautomatiseerd routeplanningssysteem dat de snelheid van het schip aanpast aan de vaaromstandigheden en aan het gewenste aankomsttijdstip, leidend tot een minimaal brandstofverbruik    
+7.2, een geautomatiseerd routeplanningssysteem dat de snelheid van het schip aanpast aan de vaaromstandigheden en aan het gewenste aankomsttijdstip, leidend tot een minimaal brandstofverbruik   
 
