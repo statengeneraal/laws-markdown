@@ -82,7 +82,7 @@ b. behorende tot een buitenlandse krijgsmacht.
 ### Artikel  6  
 
 1.  Het is een onderneming of degene die een onderneming drijft verboden bedrijfsmatig goederen te vervoeren, anders dan bestemd voor of afkomstig van de eigen onderneming, zonder dat aan deze onderneming een persoon verbonden is aan wie een bewijs van vakbekwaamheid is afgegeven voor het bedrijfsmatig vervoer van goederen en die daadwerkelijk en bij voortduring leiding geeft aan de vervoersactiviteit van de onderneming.   
-2.  Onze Minister kan vrijstelling verlenen van de verplichting, bedoeld in het eerste lid. Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden.   
+2.  Onze Minister kan vrijstelling verlenen van de verplichting, bedoeld in het eerste lid. Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden. [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
 3.  Bij ministeriële regeling worden regels gesteld met betrekking tot het aantonen van de vakbekwaamheid, waaronder in ieder geval zijn begrepen de vereiste kennisgebieden en de vereiste scholing of praktijkervaring.   
 4.  Documenten die ten bewijze van de vakbekwaamheid zijn afgegeven door een andere lidstaat van de Europese Unie krachtens bindende besluiten van instellingen van de Europese Gemeenschappen, door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of door Zwitserland, worden gelijkgesteld aan het bewijs van vakbekwaamheid, bedoeld in het eerste lid.   
 5.  Bij ministeriële regeling kan worden bepaald in welke gevallen en voor welke termijnen Onze Minister ontheffing kan verlenen van het eerste lid. Onze Minister kan aan de ontheffing voorschriften of beperkingen verbinden.   
@@ -199,6 +199,7 @@ b. een zeeschip waarmee, op grond van een certificaat van onderzoek, op de binne
 
 1.  Het is verboden een schip te gebruiken zonder geldige meetbrief, afgegeven op grond van de op 15 februari 1966 te Genève tot stand gekomen Overeenkomst nopens de meting van binnenvaartuigen (Trb.1967, 43).   
 2.  Bij ministeriële regeling worden regels gesteld met betrekking tot de meting en de meetbrieven.   
+3.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de afgifte van meetbrieven krachtens het tweede lid, voor zover het gaat om de afgifte van een gewaarmerkt afschrift van eerder afgegeven meetbrieven die verloren zijn geraakt of door slijtage ongeldig zijn geworden.   
 
 ### §  3  
 
@@ -256,7 +257,13 @@ b. de tot hem gerichte krachtens het vierde of vijfde lid, aan een vrijstelling 
 2.  Bij of krachtens algemene maatregel van bestuur worden de verschillende soorten vaarbewijzen en de geldigheidsduur vastgesteld.   
 3.  Dit artikel is niet van toepassing op de gezagvoerder aan wie een bij of krachtens algemene maatregel van bestuur aan te wijzen gelijkwaardig document is afgegeven.   
 4.  Het is verboden een schip te gebruiken zonder dat aan de gezagvoerder het daarvoor vereiste geldige vaarbewijs is afgegeven.   
-5.  Het is degene die weet of redelijkerwijs moet weten, dat een op zijn naam gesteld vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, verboden een binnenschip gedurende dat gedeelte of het geheel van de geldigheidsduur te voeren of als gezagvoerder te doen voeren.   
+5.  Het voeren of als gezagvoerder doen voeren van een binnenschip is verboden aan degene: 
+
+a. die weet of redelijkerwijs moet weten dat een op zijn naam gesteld vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, gedurende dat gedeelte of het geheel van de geldigheidsduur,  
+
+b. aan wie ingevolge [artikel 35b van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) de bevoegdheid tot het voeren van schepen is ontzegd, gedurende de termijn van ontzegging, of  
+
+c. van wie het vaarbewijs of het bewijs van vrijstelling of ontheffing, bedoeld in artikel 31, met toepassing van de [artikelen 35a](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) of [35c van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) is ingenomen en niet is teruggegeven.     
 
 ### Artikel  26  
 
@@ -271,11 +278,15 @@ b. de kennis en de bekwaamheid om het binnenschip te voeren.
 
 ### Artikel  27  
 
-1.  Een vaarbewijs wordt niet afgegeven aan degene: 
+1.  Een vaarbewijs of bewijs van vrijstelling of ontheffing, bedoeld in artikel 31, wordt niet afgegeven aan degene: 
 
 a. die de leeftijd van 18 jaar nog niet heeft bereikt;  
 
-b. van wie het vaarbewijs ongeldig is verklaard, gedurende de periode van ongeldigheid.     
+b. van wie het bewijs ongeldig is verklaard, gedurende de termijn van ongeldigheid;  
+
+c. aan wie ingevolge [artikel 35b van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) de bevoegdheid tot het voeren van schepen is ontzegd, gedurende de termijn van ontzegging; of  
+
+d. van wie het bewijs met toepassing van de [artikelen 35a](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) of [35c van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) is ingenomen en niet is teruggegeven.     
 2.  Voor de toepassing van het eerste lid, onderdeel b, wordt onder vaarbewijs mede verstaan een vaarbewijs, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woont.   
 
 ### Artikel  28  
@@ -355,6 +366,50 @@ c. de modellen voor de vaarbewijzen.
 1.  Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of die zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde regels, worden op bij of krachtens algemene maatregel van bestuur te bepalen wijze gegevens verstrekt omtrent afgegeven en ongeldige vaarbewijzen die deze autoriteiten voor de uitoefening van hun taak behoeven.   
 2.  Aan de met de afgifte van vaarbewijzen belaste autoriteiten buiten Nederland worden inlichtingen als in het eerste lid bedoeld verstrekt in de gevallen en op de wijze, zoals bij of krachtens algemene maatregel van bestuur bepaald.   
 
+### §  5  
+
+####Vaarbevoegdheid en registratie van gegevens
+
+### Artikel  35a  
+
+1.  Onze Minister houdt een register bij van: 
+
+a. ontzeggingen van de vaarbevoegdheid als bedoeld in [artikel 35b van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);  
+
+b. vaarbewijzen of bewijzen van vrijstelling of ontheffing als bedoeld in artikel 31, die: 
+
+1°. zijn ingeleverd of ingevorderd ingevolge de [artikelen 35a](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [35b](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) of [35c van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), of  
+
+2°. ongeldig zijn verklaard.       
+2.  Het verzamelen van gegevens als bedoeld in het eerste lid, geschiedt voor de volgende doeleinden: 
+
+a. een goede en adequate uitvoering van deze wet, voor zover het gaat om de ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in artikel 25, vijfde lid;  
+
+b. de handhaving van bij of krachtens deze wet vastgestelde voorschriften, voor zover het gaat om ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in artikel 25, vijfde lid.     
+3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en het beheer van het register. Deze regels betreffen in ieder geval: 
+
+a. de periode gedurende welke de gegevens worden bewaard;  
+
+b. de waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad;  
+
+c. de genomen maatregelen om de beveiliging van de verwerking te waarborgen;  
+
+d. de verbetering, aanvulling of verwijdering van gegevens, al dan niet op verzoek van betrokkene;  
+
+e. de ontvangers of categorieën van ontvangers aan wie de gegevens kunnen worden verstrekt;  
+
+f. de voorgenomen doorgiften van gegevens naar landen buiten de Europese Unie.     
+
+### Artikel  35b  
+
+1.  Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde voorschriften, worden op bij of krachtens algemene maatregel van bestuur te bepalen wijze gegevens verstrekt omtrent ontzeggingen van de vaarbevoegdheid die deze autoriteiten voor de uitoefening van hun taak behoeven.   
+2.  Aan de met de afgifte van vaarbewijzen belaste autoriteiten buiten Nederland worden inlichtingen als in het eerste lid bedoeld verstrekt in de gevallen en op de wijze, zoals bij of krachtens algemene maatregel van bestuur bepaald.   
+
+### Artikel  35c  
+
+1.  Onze Minister is op bij algemene maatregel van bestuur bepaalde wijze bevoegd tot het invoeren, wijzigen dan wel verwijderen van gegevens die van belang zijn voor het bijhouden van het register.   
+2.  Het openbaar ministerie bij de rechtbank waar een ontzegging van de vaarbevoegdheid wordt uitgesproken, doet binnen twee weken mededeling aan Onze Minister van die ontzegging, waarbij de termijn van ontzegging wordt vermeld.   
+
 ### Hoofdstuk  4  
 
 ####Scheepsnummer en gegevensverstrekking
@@ -389,7 +444,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ### Artikel  39  
 
-1.  Persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), betreffende de gezondheid, worden verwerkt ter uitvoering van: 
+1.  Persoonsgegevens betreffende de gezondheid of strafrechtelijke persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), worden verwerkt ter uitvoering van: 
 
 a. artikel 6, mede betreffende de wettelijke onbekwaamheid, met het oogmerk te beoordelen of aan dit artikel toepassing kan worden gegeven dan wel of ontheffing onderscheidenlijk vrijstelling kan worden verleend;  
 
@@ -397,7 +452,9 @@ b. artikel 23, met het oogmerk te beoordelen of een bemanningslid voldoet of nie
 
 c. artikel 26, eerste lid, met het oogmerk te beoordelen of de aanvrager voldoet aan de bij of krachtens deze wet gestelde eisen betreffende de lichamelijke en geestelijke geschiktheid;  
 
-d. artikel 30, eerste lid, onderdeel d, met het oogmerk te beoordelen of sprake is van lichamelijke of geestelijke ongeschiktheid van de houder van een vaarbewijs.     
+d. artikel 30, eerste lid, onderdeel d, met het oogmerk te beoordelen of sprake is van lichamelijke of geestelijke ongeschiktheid van de houder van een vaarbewijs;  
+
+e. artikel 35a, ter handhaving van rechterlijke uitspraken houdende ontzegging van de vaarbevoegdheid en ter voorkoming van de afgifte van vaarbewijzen of bewijzen van vrijstelling of ontheffingen, bedoeld in artikel 31, aan personen als bedoeld in artikel 25, vijfde lid.     
 2.  Onze Minister is verantwoordelijk voor de verwerking van de in het eerste lid bedoelde persoonsgegevens.   
 3.  Ter uitvoering van de Herziene Rijnvaartakte kunnen persoonsgegevens worden verwerkt betreffende de gezondheid van de bemanning van schepen die zich op de Rijn, inbegrepen de Lek en de Waal, bevinden. De verwerking van deze gegevens vindt plaats teneinde de lichamelijke geschiktheid van de bemanning vast te stellen.   
 4.  Bij of krachtens algemene maatregel van bestuur wordt bepaald wie verantwoordelijk is voor de verwerking van de in het derde lid bedoelde persoonsgegevens.   
@@ -556,11 +613,12 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 2.  De bestuurlijke boete die ten hoogste kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
 3.  De op te leggen bestuurlijke boete kan met maximaal 50% worden verhoogd, indien binnen een periode van 48 maanden tweemaal voor een zelfde feit, elk afzonderlijk in een periode van maximaal 24 maanden voorafgaand aan dat feit, een boete is opgelegd en onherroepelijk is geworden. In afwijking van het tweede lid geldt deze verhoging ook voor de ten hoogste op te leggen boete.   
 4.  Bij ministeriële regeling worden de boetebedragen voor de beboetbare feiten vastgesteld.   
+5.  Geen bestuurlijke boete wordt opgelegd inzake overtredingen als bedoeld in de artikelen 25, vierde lid en vijfde lid, 28, zevende lid, 31, vierde lid, en 33, tweede lid, voor zover het betreft bij ministeriële regeling aangewezen categorieën vaarbewijzen.   
 
 ### Artikel  49  
 
-1.  Wanneer door het handelen in strijd met de artikelen 5, eerste lid, 6, eerste lid en zesde lid, 7, eerste lid, 8, derde lid, 10, tweede lid, 11, 12, 13, vierde lid, 21, eerste lid, 22, negende lid, 23, eerste lid, 36, vierde lid, 37, tweede lid, 43, tweede lid, en 46, tweede lid, gevaar voor de openbare veiligheid ontstaat of kan ontstaan, worden deze gedragingen aangemerkt als strafbaar feit.   
-2.  Handelen in strijd met artikel 17, vijfde lid, is een strafbaar feit.   
+1.  Wanneer door het handelen in strijd met de artikelen 5, eerste lid, 6, eerste lid en zesde lid, 7, eerste lid, 8, derde lid, 10, tweede lid, 11, 12, 13, vierde lid, 21, eerste lid, 22, negende lid, 23, eerste lid, 25, vierde lid en vijfde lid, 28, zevende lid, 31, vierde lid, 33, tweede lid, 36, vierde lid, 37, tweede lid, 43, tweede lid, en 46, tweede lid, gevaar voor de openbare veiligheid ontstaat of kan ontstaan, worden deze gedragingen aangemerkt als strafbaar feit.   
+2.  Handelen in strijd met artikel 17, vijfde lid, alsmede met de bepalingen, bedoeld in artikel 48, vijfde lid, voor zover het betreft bij ministeriële regeling aangewezen categorieën vaarbewijzen, is een strafbaar feit.   
 3.  Strafbare feiten als bedoeld in het eerste en tweede lid zijn overtredingen.   
 
 ### Artikel  50  
@@ -605,7 +663,7 @@ c. wordt bepaald aan wie de vergoedingen, bedoeld in het eerste lid, verschuldig
 
 ### Artikel  53  
 
-Bij toepassing van artikel 52, eerste lid, gelden de bepalingen van en krachtens deze wet ten aanzien van een schip en de gezagvoerder slechts, voor zover zulks bij algemene maatregel van bestuur is bepaald.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Bij toepassing van artikel 52, eerste lid, gelden de bepalingen van en krachtens deze wet ten aanzien van een schip en de gezagvoerder slechts, voor zover zulks bij algemene maatregel van bestuur is bepaald.  
 
 ### §  3  
 
