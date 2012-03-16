@@ -4,7 +4,7 @@
 
 ### Nr.  I  
 
-Nr. 147  Die Schweizerische Botschaft beehrt sich, dem Ministerium für auswärtige Angelegenheiten des Königreichs der Niederlande unter Bezugnahme auf das Europäische Uebereinkommen über die Rechtshilfe in Strafsachen vom 20. April 1959 folgendes mitzuteilen: Die Botschaft schlägt vor, dass Schriftstücke betreffend Widerhandlungen gegen Strassenverkehrsvorschriften von den Behörden des Staates, in dessen Hoheitsgebiet die Zuwiderhandlung begangen wurde, Personen, die im anderen Staat ihren gewöhnlichen Aufenthalt haben, direkt mit der Post zugestellt werden können. Dies schliesst nicht aus, dass einer der beiden Staaten ausnahmsweise um Zustellung gemäss Artikel 7 und 15 des Europäischen Uebereinkommmens über die Rechtshilfe in Strafsachen ersucht. Die direkte Zustellung ist zulässig bei Widerhandlungen gegen Strassenverkehrsvorschriften, die nach dem Recht eines oder beider Staaten als Ordnungswidrigkeiten oder Uebertretungen gelten und mit einer Geldbusse geahndet werden. Für die Schweiz gelten als Strassenverkehrsvorschriften im Sinne dieser Note die Bestimmungen des Bundesgesetzes über den Strassenverkehr vom 19. Dezember 1958 und der dazugehörenden Ausführungserlasse. Für die Niederlande gelten als Strassenverkehrsvorschriften im Sinne dieser Note die Bestimmungen des Strassenverkehrsgesetzes vom 21. April 1994, des Provinzgesetzes oder des Gemeindegesetzes, beide geändert durch das Gesetz vom 17. November 1994, und der dazugehörenden Ausführungserlasse. Den Schriftstücken an Personen in der Schweiz muss eine Erläuterung gemäss Angang I und an Personen in den Niederlanden gemäss Anhang II beiliegen. Ersuchen um Ermittlung von Fahrzeughaltern, die in einem der beiden Staaten eine Widerhandlung gegen Strassenverkehrsvorschriften begangen haben, können direkt an die Polizeikomandi der Kantone und an das Centraal Justitieel Incassobureau, in Leeuwarden gerichtet werden. Die Auskünfte werden auf demselben Weg erteilt. Die Botschaft schlägt dem Ministerium vor, dass diese Note und die Antwort des Ministeriums eine Vereinbarung zwischen der Schweizerischen Eidgenossenschaft und dem Königreich der Niederlande bilden, die mit dem Datum der Antwort in Kraft tritt. Sie kann jederzeit gekündigt werden. Die Kündigung wird mit Ablauf von drei Monaten nach Eingang der Kündigung wirksam. Gerne ergreift die Botschaft auch diesen Anlass, um das Ministerium für auswärtige Angelegenheiten ihrer ausgezeichneten Hochachtung zu versichern.  Den Haag, 4. Dezember 1995   *Ministerium für auswärtige Angelegenheiten*   *des Königreichs der Niederlande*   *Den Haag*    
+Nr. 147  Die Schweizerische Botschaft beehrt sich, dem Ministerium für auswärtige Angelegenheiten des Königreichs der Niederlande unter Bezugnahme auf das Europäische Uebereinkommen über die Rechtshilfe in Strafsachen vom 20. April 1959 folgendes mitzuteilen: Die Botschaft schlägt vor, dass Schriftstücke betreffend Widerhandlungen gegen Strassenverkehrsvorschriften von den Behörden des Staates, in dessen Hoheitsgebiet die Zuwiderhandlung begangen wurde, Personen, die im anderen Staat ihren gewöhnlichen Aufenthalt haben, direkt mit der Post zugestellt werden können. Dies schliesst nicht aus, dass einer der beiden Staaten ausnahmsweise um Zustellung gemäss Artikel 7 und 15 des Europäischen Uebereinkommmens über die Rechtshilfe in Strafsachen ersucht. Die direkte Zustellung ist zulässig bei Widerhandlungen gegen Strassenverkehrsvorschriften, die nach dem Recht eines oder beider Staaten als Ordnungswidrigkeiten oder Uebertretungen gelten und mit einer Geldbusse geahndet werden. Für die Schweiz gelten als Strassenverkehrsvorschriften im Sinne dieser Note die Bestimmungen des Bundesgesetzes über den Strassenverkehr vom 19. Dezember 1958 und der dazugehörenden Ausführungserlasse. Für die Niederlande gelten als Strassenverkehrsvorschriften im Sinne dieser Note die Bestimmungen des Strassenverkehrsgesetzes vom 21. April 1994, des Provinzgesetzes oder des Gemeindegesetzes, beide geändert durch das Gesetz vom 17. November 1994, und der dazugehörenden Ausführungserlasse. Den Schriftstücken an Personen in der Schweiz muss eine Erläuterung gemäss Angang I und an Personen in den Niederlanden gemäss Anhang II beiliegen. Ersuchen um Ermittlung von Fahrzeughaltern, die in einem der beiden Staaten eine Widerhandlung gegen Strassenverkehrsvorschriften begangen haben, können direkt an die Polizeikomandi der Kantone und an den Dienst Wegverkeer (RDW), in Zoetermeer gerichtet werden. Die Auskünfte werden auf demselben Weg erteilt. Die Botschaft schlägt dem Ministerium vor, dass diese Note und die Antwort des Ministeriums eine Vereinbarung zwischen der Schweizerischen Eidgenossenschaft und dem Königreich der Niederlande bilden, die mit dem Datum der Antwort in Kraft tritt. Sie kann jederzeit gekündigt werden. Die Kündigung wird mit Ablauf von drei Monaten nach Eingang der Kündigung wirksam. Gerne ergreift die Botschaft auch diesen Anlass, um das Ministerium für auswärtige Angelegenheiten ihrer ausgezeichneten Hochachtung zu versichern.  Den Haag, 4. Dezember 1995   *Ministerium für auswärtige Angelegenheiten*   *des Königreichs der Niederlande*   *Den Haag*    
 
 ### Anhang  I  
 
@@ -18,7 +18,7 @@ Sie haben gegen die Verkehrsvorschriften verstoßen bzw. sind Halter eines Fahrz
 ####ÜBERSETZUNG DER WICHTIGSTEN BEGRIFFE AUS DEM BUßGELDBESCHEID
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Beschikkingsnummer  | :  | Nummer des Bußgeldbescheids  |
 | Kenteken voertuig  | :  | Kennzeichen des Kraftfahrzeugs, mit dem der Verkehrsverstoß begangen wurde  |
 | Verzenddatum  | :  | Datum der Versendung des Bescheids  |
@@ -62,7 +62,7 @@ Vous avez enfreint une règle de la circulation ou une règle de la circulation 
 ####TRADUCTION DES ÉLÉMENTS LES PLUS IMPORTANTS DE LA DÉCISION
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Beschikkingsnummer  | :  | Numéro de la décision  |
 | Kenteken voertuig  | :  | Numéro d'immatriculation du véhicule avec lequel la règle de la circulation a été enfreinte  |
 | Verzenddatum  | :  | Date d'envoi de la décision  |
@@ -106,7 +106,7 @@ Lei ha commesso un'infrazione alle norme della circolazione o è detentore di un
 ####TRADUZIONE DEI TERMINI PIÙ IMPORTANTI DELLA DECISIONE
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Beschikkingsnummer  | :  | Numero della decisione  |
 | Kenteken voertuig  | :  | Targa di controllo del veicolo con il quale è stata commessa l'infrazione  |
 | Dagtekening  | :  | Data d'invio della decisione  |
@@ -158,10 +158,10 @@ Sie haben in der Schweiz gegen die Verkehrsvorschiften verstossen oder sind Halt
 Vous avez enfreint, en Suisse, une règle de la circulation routière ou êtes le détenteur du véhicule avec lequel une règle de la circulation routière a été violée en Suisse. Vous vous voyez donc infliger une amende par décision ci-jointe. La comme due doit être versée sur le compte de l'autorité suisse compétente dans le délai imparti. Si vous n'êtes pas d'accord avec la décision, vous pouvez l'attaquer par écrit auprès de l'autorité suisse mentionnée dans le délai imparti en indiquant les motifs et moyens de preuve. Vous trouverez ci-après una traduction des notions les plus importantes. 
 ### *Italiano* 
 
-Lei ha infranto in Svizzera prescrizioni della circolazione stradale oppure è detentore di un veicolo con cui sono state violate in Svizzera prescrizioni della circolazione stradale. Per tale ragione Le è stata inflitta una multa: la relativa decisione figura in allegato. L'importo dovuto devêssere versato, entro il termine indicato, sul conto della competente autorità svizzera. Se no è d'accordo con la decisione, può impugnarla per scritto presso l'autorità svizzera menzionata, entro il termine indicando i motivi e i mezzi di prova. Troverà in seguite la traduzione delle nozinoni più importanti.  
+Lei ha infranto in Svizzera prescrizioni della circolazione stradale oppure è detentore di un veicolo con cui sono state violate in Svizzera prescrizioni della circolazione stradale. Per tale ragione Le è stata inflitta una multa: la relativa decisione figura in allegato. L'importo dovuto deve essere versato, entro il termine indicato, sul conto della competente autorità svizzera. Se no è d'accordo con la decisione, può impugnarla per scritto presso l'autorità svizzera menzionata, entro il termine indicando i motivi e i mezzi di prova. Troverà in seguito la traduzione delle nozioni più importanti.  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Deutsch*   |  *Français*   |  *Italiano*   |  *Niederl.*   |
 | --- | --- | --- | --- |
 | Fahrzeug  | Véhicule  | Veicolo  | Voertuig  |
