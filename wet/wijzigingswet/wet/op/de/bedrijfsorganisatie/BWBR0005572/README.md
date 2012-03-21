@@ -10,69 +10,85 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de positie van de pu
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IX  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  X  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XI  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XII  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XIII  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XIV  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XV  
+Materieel uitgewerkt per 21-03-2012 
 
 1.  Alle ten tijde van de inwerkingtreding van deze wet bestaande wetten en algemene maatregelen van bestuur, waarbij een hoofdproduktschap, een produktschap, een hoofdbedrijfschap of een bedrijfschap is ingesteld, alsmede alle koninklijke besluiten, houdende een voorziening met betrekking tot de bestuurssamenstelling van deze lichamen, blijven van kracht tot het tijdstip waarop in hetgeen waarin zij voorzien, wordt voorzien door een verordening als bedoeld in artikel 67, eerste lid, respectievelijk een besluit als bedoeld in artikel 74, eerste lid, van de Sociaal-Economische Raad.   
-2.  Zij worden geacht te zijn ingetrokken met ingang van de dag, waarop een verordening respectievelijk een besluit als bedoeld in het eerste lid, in werking treedt.   
+2.   Zij worden geacht te zijn ingetrokken met ingang van de dag, waarop een verordening respectievelijk een besluit als bedoeld in het eerste lid, in werking treedt.  
 
 ### Artikel  XVI  
+Materieel uitgewerkt per 21-03-2012 
 
-1.  De vervanging van wetten en algemene maatregelen van bestuur door verordeningen als bedoeld in artikel 67, eerste lid, laat onverlet: 
+1.  De vervanging van wetten en algemene maatregelen van bestuur door verordeningen als bedoeld in artikel 67, eerste lid, laat onverlet:  
 
 a. de rechtskracht van de door een hoofdprodukt-, een produkt-, een hoofdbedrijf- of een bedrijfschap, dan wel door een lichaam als bedoeld in artikel 110 vastgestelde verordeningen en overige besluiten;  
 
@@ -85,15 +101,17 @@ d. de ministeriële besluiten krachtens welke aan die lichamen taken in medebewi
 e. vorderingen, tegen of vanwege die lichamen;  
 
 f. de ontvankelijkheid van beroepen ingevolge de Wet administratieve rechtspraak bedrijfsorganisatie tegen door die lichamen genomen besluiten.     
-2.  De vervanging als in het eerste lid bedoelde, laat alle overige bestuursbetrekkingen van de daar genoemde lichamen onverlet.   
+2.   De vervanging als in het eerste lid bedoelde, laat alle overige bestuursbetrekkingen van de daar genoemde lichamen onverlet.  
 
 ### Artikel  XVII  
+Materieel uitgewerkt per 21-03-2012 
 
-Zolang op een wet of een algemene maatregel van bestuur als bedoeld in artikel XV onder A niet het onder B van dat artikel gestelde van toepassing is geworden is op het lichaam dat daarbij is ingesteld de [Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) van toepassing zoals deze voor de inwerkingtreding van deze wet laatstelijk luidt.  
+Zolang op een wet of een algemene maatregel van bestuur als bedoeld in artikel XV onder A niet het onder B van dat artikel gestelde van toepassing is geworden is op het lichaam dat daarbij is ingesteld de [Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) van toepassing zoals deze voor de inwerkingtreding van deze wet laatstelijk luidt. 
 
 ### Artikel  XVIII  
+Materieel uitgewerkt per 21-03-2012 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

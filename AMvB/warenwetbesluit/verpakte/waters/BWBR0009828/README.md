@@ -10,7 +10,7 @@ Gelet op richtlijn nr. 96/70/EG van het Europees Parlement en de Raad van 28 okt
 
 op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet;
 
-alsmede op [artikel 4, eerste lid](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 5, eerste lid](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 6](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 8, onder a en c](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 9, onder b](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 12](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 13](../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 14 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md);
+alsmede op artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, artikel 8, onder a en c, artikel 9, onder b, artikel 12, artikel 13, en artikel 14 van de Warenwet;
 
 De Raad van State gehoord (advies van 3 november 1997, no. W13.97.0417);
 
@@ -36,14 +36,14 @@ c. *natuurlijk mineraalwater:* bacteriologisch gezond water met als oorsprong ee
 
 d. *bronwater:* in zijn natuurlijke staat voor consumptie door de mens bestemd water;  
 
-e. *water:* al het andere water dan natuurlijk mineraalwater en bronwater, dat onbehandeld of na behandeling bestemd is voor drinken, koken of voedselbereiding, ongeacht de herkomst, en dat is voorverpakt in de zin van het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md);  
+e. *water:* al het andere water dan natuurlijk mineraalwater en bronwater, dat onbehandeld of na behandeling bestemd is voor drinken, koken of voedselbereiding, ongeacht de herkomst, en dat is voorverpakt in de zin van het Warenwetbesluit Etikettering van levensmiddelen;  
 
 f. *richtlijn 2003/40/EG:*richtlijn nr. 2003/40/EG van de Commissie van de Europese Gemeenschappen van 16 mei 2003 tot vaststelling van de lijst, de grenswaarden voor de concentratie en de vermelding op het etiket van bestanddelen van natuurlijk mineraalwater en van de voorwaarden voor het gebruik van met ozon verrijkte lucht bij de behandeling van natuurlijk mineraalwater en bronwater (PbEU L 126);  
 
 g. *verordening (EU) 115/2010:* verordening (EU) nr. 115/2010 van de Commissie van de Europese Unie van 9 februari 2010 tot vaststelling van de voorwaarden voor het gebruik van geactiveerd aluminiumoxide om fluoride uit natuurlijk mineraalwater en bronwater te verwijderen (PbEU L 37).     
 2.  Dit besluit is niet van toepassing op: 
 
-a. geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+a. geneesmiddelen als bedoeld in artikel 1, eerste lid, onder b, van de Geneesmiddelenwet;  
 
 b. natuurlijk mineraalwater dat met het oog op genezing aan de bron in thermale of hydrominerale inrichtingen wordt gebruikt.     
 
@@ -85,6 +85,18 @@ b. de afscheiding van ijzer-, mangaan- en zwavelverbindingen en arseen van bepaa
 c.  dit onderdeel is nog niet in werking getreden;   
 
 d. de totale of gedeeltelijke verwijdering van vrij koolzuurgas via uitsluitend natuurkundige procédés; voor zover de onder a, b en c bedoelde behandeling geen invloed heeft op de samenstelling van het behandelde mineraalwater, wat betreft de essentiële bestanddelen waaraan dat water zijn eigenschappen te danken heeft.     
+2.  Een in het eerste lid, onder b en c, bedoelde behandeling wordt door de exploitant van de desbetreffende bron gemeld aan de Voedsel en Waren Autoriteit.   
+3.  Onverminderd het eerste lid, onder b, en in afwijking van het tweede lid wordt een behandeling van natuurlijk mineraalwater met lucht die met ozon is verrijkt, vooraf door de exploitant van de desbetreffende bron gemeld aan de Voedsel en Waren Autoriteit. Deze behandeling is slechts toegestaan indien: 
+
+a. de toepassing van die behandeling gerechtvaardigd is gezien het gehalte aan ijzer-, mangaan-, zwavel- en arseenverbindingen in het water;  
+
+b. de exploitant ervoor zorgt dat de behandeling doeltreffend en onschadelijk is en door de Voedsel en Waren Autoriteit kan worden gecontroleerd;  
+
+c. de fysisch-chemische samenstelling van het natuurlijk mineraalwater wat betreft de kenmerkende bestanddelen door de behandeling niet wordt gewijzigd;  
+
+d. het natuurlijk mineraalwater vóór behandeling voldoet aan artikel 6 en artikel 7; en  
+
+e. de behandeling geen residuen achterlaat die schadelijk kunnen zijn voor de volksgezondheid of waarbij de in bijlage II bedoelde grenswaarden worden overschreden.     
 
 ### Artikel  5  
 
@@ -153,7 +165,7 @@ c. informatie over eventuele behandelingen als bedoeld in artikel 4, eerste lid,
 Ten aanzien van natuurlijk mineraalwater mogen naast die van artikel 10 uitsluitend de volgende vermeldingen gebezigd worden, met inachtneming van de daarbij vermelde criteria:  
 
 | vermelding  | criteria  |
-|:---|:---|
+|---|---|
 | zwak mineraalhoudend  | ten hoogste 500 mg/l minerale zouten, berekend als vast residu;  |
 | zeer zwak mineraalhoudend  | ten hoogste 50 mg/l minerale zouten, berekend als vast residu;  |
 | rijk aan minerale zouten  | meer dan 1500 mg/l minerale zouten, berekend als vast residu;  |
@@ -187,7 +199,7 @@ Bij de vaststelling of al dan niet is voldaan aan artikel 8, derde lid, worden d
 a. artikel 3, eerste lid, onder b, en vierde lid; en  
 
 b. artikel 10, eerste lid, onder a, en vijfde lid; zijn van overeenkomstige toepassing op bronwater.     
-2.  Onverminderd het eerste lid voIdoet bronwater aan de ter uitvoering van richtlijn 98/83/EG bij of krachtens de [Waterleidingwet](../../../../../wet/waterleidingwet/BWBR0002246/README.md) aan drinkwater gestelde eisen.   
+2.  Onverminderd het eerste lid voldoet bronwater aan de ter uitvoering van richtlijn 98/83/EG bij of krachtens de Drinkwaterwet aan drinkwater gestelde eisen.   
 3.  Bronwater dat rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, wordt gelijkgesteld met bronwater dat is erkend op de voet van het eerste lid.   
 
 ### §  4  
@@ -205,11 +217,11 @@ b. artikel 10, eerste lid, onder a, en vijfde lid; zijn van overeenkomstige toep
 
 ### Artikel  14  
 
-1.  Water voldoet op het punt waar flessen of verpakkingen worden gevuld ten minste aan de bij of krachtens de [Waterleidingwet](../../../../../wet/waterleidingwet/BWBR0002246/README.md) aan voor drinkwater gestelde eisen.   
+1.  Water voldoet op het punt waar flessen of verpakkingen worden gevuld ten minste aan de bij of krachtens de Drinkwaterwet aan voor drinkwater gestelde eisen.   
 2.  Onverminderd het eerste lid: a. voldoet water aan de volgende microbiologische parameters:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *parameter*   |  *parameterwaarde*   |
 | Escherichia coli (E. Coli)  | afwezig in 250 ml  |
 | Enterokokken  | afwezig in 250 ml  |
@@ -273,7 +285,7 @@ A. H. Korthals
 Deze bijlage behoort bij artikel 8, derde lid. De van nature in mineraalwater aanwezige bestanddelen en hoeveelheden, bedoeld in artikel 8, derde lid, zijn:  
 
 | Bestanddeel  | Hoeveelheid (mg/l)  |
-|:---|:---|
+|---|---|
 | antimoon  | 0,0050  |
 | arseen  | 0,010 (As totaal)  |
 | barium  | 1,0  |
@@ -295,9 +307,9 @@ Deze bijlage behoort bij artikel 8, derde lid. De van nature in mineraalwater aa
 Deze bijlage behoort bij artikel 4, derde lid, onder e. De grenswaarden voor residuen van de behandeling van natuurlijk mineraalwater met lucht die met ozon is verrijkt, bedoeld in artikel 4, derde lid, onder e, zijn:  
 
 | Behandelingsresidu  | Grenswaarde* (μg/l)  |
-|:---|:---|
+|---|---|
 | opgelost ozon  | 50  |
 | bromaat  | 3  |
 | bromoform  | 1  |
 
-* De naleving van de grenswaarde wordt door de Voedsel en Waren Autoriteit nagegaan bij de botteling of andere wijze van verpakking voor de eindverbruiker. 
+* De naleving van de grenswaarde wordt door de Nederlandse Voedsel- en Warenautoriteit nagegaan bij de botteling of andere wijze van verpakking voor de eindverbruiker. 

@@ -100,7 +100,7 @@ u. *verordening (EG) 1333/2008:* verordening (EG) nr. 1333/2008 van het Europees
 
 ### Artikel  2a  
 
-De Voedsel en Waren Autoriteit is: 
+De Nederlandse Voedsel- en Warenautoriteit is: 
 
 a. bevoegde autoriteit, bedoeld in verordening (EG) 178/2002, wat betreft levensmiddelen;  
 
@@ -236,11 +236,7 @@ In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, and
 ### Artikel  13a  
 
 1.  In of op eet- en drinkwaren zijn slechts resten, bestanddelen of omzettingsproducten van bestrijdingsmiddelen aanwezig als gevolg van goed landbouwkundig gebruik van bestrijdingsmiddelen en in hoeveelheden die niet schadelijk kunnen zijn voor de volksgezondheid.   
-2.  De aan Nederland opgedragen werkzaamheden, bedoeld in hoofdstuk V van verordening (EG) 396/2005, worden verricht door: 
-
-a. de Voedsel en Waren Autoriteit; en  
-
-b. de Algemene Inspectiedienst, voor zover het betreft het telen van plantaardige producten tot en met de oogst.     
+2.  De aan Nederland opgedragen werkzaamheden, bedoeld in hoofdstuk V van verordening (EG) 396/2005, worden verricht door de Nederlandse Voedsel- en Warenautoriteit.   
 3.  Bij regeling van Onze Minister en van Onze Minister van Landbouw, Natuur en Voedselkwaliteit kunnen nadere regels worden gesteld: 
 
 a. inzake het eerste lid;  

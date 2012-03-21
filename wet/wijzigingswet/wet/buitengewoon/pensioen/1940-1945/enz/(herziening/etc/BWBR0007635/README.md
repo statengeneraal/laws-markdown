@@ -10,36 +10,44 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de wetten voor oorlo
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
+Materieel uitgewerkt per 21-03-2012 
 
-[Artikel 31 *a* van de Wet buitengewoon pensioen 1940-1945](../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [artikel 28 *a* van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), [artikel 35 van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), [artikel 18 van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) en [artikel 25 van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), zoals deze artikelen luidden voor 1 januari 1995, blijven van toepassing ten aanzien van wijzigingen in de bezoldiging van het rijkspersoneel voor die datum.  
+[Artikel 31*a* van de Wet buitengewoon pensioen 1940-1945](../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [artikel 28*a* van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), [artikel 35 van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), [artikel 18 van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) en [artikel 25 van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), zoals deze artikelen luidden voor 1 januari 1995, blijven van toepassing ten aanzien van wijzigingen in de bezoldiging van het rijkspersoneel voor die datum. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in deze regelgeving.   
+Bevat wijzigingen in deze regelgeving.  
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 21-03-2012 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1995.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1995. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

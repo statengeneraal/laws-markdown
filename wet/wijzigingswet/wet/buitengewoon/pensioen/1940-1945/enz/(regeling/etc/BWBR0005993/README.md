@@ -10,32 +10,39 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in de regelgeving vo
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
+Materieel uitgewerkt per 21-03-2012 
 
-Voor de periode, eindigend een jaar na de inwerkingtreding van deze wet, kan Onze Minister van Welzijn, Volksgezondheid en Cultuur regels stellen met betrekking tot de lengte van de termijnen, genoemd in de onderdelen B, E en onderdeel I van artikel I, de onderdelen E en I van artikel II, de onderdelen C, E en onderdeel I van artikel III, de onderdelen B, D en onderdeel I van artikel IV en de onderdelen C, E en onderdeel J van artikel V, die afwijken van het gestelde in deze onderdelen. De Raad stelt degenen, die gedurende dat jaar een aanvraag of bezwaarschrift indienen, van deze regels in kennis.  
+Voor de periode, eindigend een jaar na de inwerkingtreding van deze wet, kan Onze Minister van Welzijn, Volksgezondheid en Cultuur regels stellen met betrekking tot de lengte van de termijnen, genoemd in de onderdelen B, E en onderdeel I van artikel I, de onderdelen E en I van artikel II, de onderdelen C, E en onderdeel I van artikel III, de onderdelen B, D en onderdeel I van artikel IV en de onderdelen C, E en onderdeel J van artikel V, die afwijken van het gestelde in deze onderdelen. De Raad stelt degenen, die gedurende dat jaar een aanvraag of bezwaarschrift indienen, van deze regels in kennis. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 21-03-2012 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -68,12 +68,15 @@ r. *voedingsvezels:* koolhydraatpolymeren bestaande uit drie of meer monomere ee
 
 2° eetbare koolhydraatpolymeren die langs fysische, enzymatische of chemische weg uit grondstoffen voor levensmiddelen zijn verkregen en een gunstig fysiologisch effect hebben dat door algemeen aanvaarde wetenschappelijke gegevens wordt gestaafd; of  
 
-3° eetbare synthetische koolhydraatpolymeren met een gunstig fysiologisch effect dat door algemeen aanvaarde wetenschappelijke gegevens wordt gestaafd.       
+3° eetbare synthetische koolhydraatpolymeren met een gunstig fysiologisch effect dat door algemeen aanvaarde wetenschappelijke gegevens wordt gestaafd;    
+
+s. voedselkeuzelogo: een logo dat het voor consumenten eenvoudiger maakt levensmiddelen te kiezen die ten opzichte van vergelijkbare levensmiddelen in een productcategorie gezonder zijn wat betreft energie of de gehaltes aan verzadigd vet, transvet, toegevoegd suiker, voedingsvezel of zout.     
 2.  Ten aanzien van: 
 
 a. natuurlijk mineraalwater en ander voor menselijke consumptie bestemd water; en  
 
 b. eet- en drinkwaren welke tot hoofddoel hebben het leveren van bepaalde voedingsstoffen;   zijn artikel 2, eerste lid, artikel 3, eerste lid, onder b, 1°, en tweede, derde en vierde lid, en de artikelen 7, 9, 10, 12 en 13, niet van toepassing.   
+3.  Artikel 11a is niet van toepassing op het verhandelen van een levensmiddel ten aanzien waarvan een voedselkeuzelogo is gebezigd dat niet door toedoen van Nederland overeenkomstig verordening (EG) 1924/2006 is toegelaten, en dat rechtmatig is bereid of in de handel is gebracht in een andere lidstaat van de Europese Unie.   
 
 ### Artikel  2  
 
@@ -83,6 +86,7 @@ a. voedingswaarde-etikettering plaatsvindt; of
 
 b. een bewering inzake de voedingswaarde wordt gebezigd;   te verhandelen anders dan met inachtneming van de voorschriften, bij of krachtens dit besluit gesteld met betrekking tot het bezigen van vermeldingen of voorstellingen.   
 2.  Het is verboden te handelen in strijd met de bij of krachtens de artikelen 3, 4, derde en vijfde lid, 5, 6, eerste en tweede lid, 7, 8, eerste lid, 9, 10, eerste, tweede en derde lid, 12, en 14, van verordening (EG) 1924/2006 gestelde voorschriften.   
+3.  Het is verboden te handelen in strijd met bij of krachtens artikel 11a gestelde voorschriften.   
 
 ### Artikel  2a  
 
@@ -91,7 +95,7 @@ b. een bewering inzake de voedingswaarde wordt gebezigd;   te verhandelen anders
 a. de desbetreffende claim is opgenomen in de communautaire lijst, bedoeld in artikel 14, eerste lid, van verordening (EG) 1924/2006; en  
 
 b. voldaan is aan de in die lijst gestelde voorwaarden voor het gebruik van die claim.     
-2.  De Voedsel en Waren Autoriteit is de bevoegde nationale autoriteit, bedoeld in verordening (EG) 1924/2006.   
+2.  De Nederlandse Voedsel- en Warenautoriteit is de bevoegde nationale autoriteit, bedoeld in verordening (EG) 1924/2006.   
 3.  Onze Minister stelt nadere regels vast inzake voedings- en gezondheidsclaims voor levensmiddelen, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) 1924/2006 gestelde voorschriften.   
 
 ### §  2  
@@ -235,6 +239,44 @@ b. de berekening op basis van de bekende of effectieve gemiddelde waarde van de 
 
 c. de berekening aan de hand van algemeen vaststaande en aanvaarde gegevens.     
 2.  Onze Minister stelt ter uitvoering van krachtens de richtlijn getroffen maatregelen nadere regels vast met betrekking tot het eerste lid.   
+
+### §  5a  
+
+####voedselkeuzelogo
+
+### Artikel  11a  
+
+1.  Onverminderd verordening (EG) 1924/2006 mag bij de verhandeling van een levensmiddel een door representatieve organisaties van producenten en verhandelaren ontwikkeld voedselkeuzelogo worden gebezigd, onder de volgende voorwaarden: 
+
+a. het logo wordt niet gebezigd bij: 
+
+1° alcoholhoudende dranken;  
+
+2° zuigelingenvoeding en opvolgzuigelingenvoeding als bedoeld in de [Warenwetregeling zuigelingenvoeding 2007](../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/2007/BWBR0021907/README.md);  
+
+3° bewerkte eet- of drinkwaren op basis van granen en babyvoeding als bedoeld in de [Warenwetregeling Babyvoeding](../../../../../ministeriele-regeling/warenwetregeling/babyvoeding/BWBR0008503/README.md);  
+
+4° dieetvoeding voor medisch gebruik als bedoeld in de [Warenwetregeling Dieetvoeding voor medisch gebruik](../../../../../ministeriele-regeling/warenwetregeling/dieetvoeding/voor/medisch/gebruik/BWBR0010600/README.md); en  
+
+5° voedingssupplementen als bedoeld in het [Warenwetbesluit voedingssupplementen](../../../../../AMvB/warenwetbesluit/voedingssupplementen/BWBR0014814/README.md);    
+
+b. het logo is begrijpelijk voor de consument;  
+
+c. de regels voor het gebruik van het logo zijn: 
+
+1° in lijn met de door de Gezondheidsraad vastgestelde richtlijnen Goede Voeding;  
+
+2° tot stand gekomen met inachtneming van de laatste wetenschappelijke inzichten ter zake;  
+
+3° getoetst door een onafhankelijke wetenschappelijke commissie; en  
+
+4° in ieder geval gesteld in de Nederlandse taal en voor een ieder te raadplegen op internet; en    
+
+d. het voedselkeuzelogo en de regels voor het gebruik ervan zijn goedgekeurd door Onze Minister.     
+2.  Een verzoek tot goedkeuring van een voedselkeuzelogo en van de regels voor het gebruik ervan, wordt ingediend bij Onze Minister. De goedkeuring wordt verleend indien voldaan is aan de in dit artikel ter zake gestelde voorwaarden.   
+3.  Onze Minister kan een in het tweede lid bedoelde goedkeuring intrekken indien het voedselkeuzelogo of de regels voor het gebruik ervan niet meer voldoen aan de in het tweede lid bedoelde voorwaarden.   
+4.  Onze Minister maakt een in het tweede en derde lid bedoeld besluit bekend in de Staatscourant.   
+5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld inzake het eerste en tweede lid. In deze nadere regels kan worden bepaald dat de goedkeuring voor bepaalde tijd wordt verleend.   
 
 ### §  6  
 

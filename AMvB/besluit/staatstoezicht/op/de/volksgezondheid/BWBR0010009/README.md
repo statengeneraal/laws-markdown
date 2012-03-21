@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 2 september 1998, DWJZ-U-981079;
 
-Gelet op de [artikelen 36, eerste lid](../../../../../../../wet/gezondheidswet/BWBR0002202/README.md), en [62 van de Gezondheidswet](../../../../../../../wet/gezondheidswet/BWBR0002202/README.md) en op [artikel 9 van de Wet op de gevaarlijke werktuigen](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md);
+Gelet op de artikelen 36, eerste lid, en 62 van de Gezondheidswet en op artikel 9 van de Wet op de gevaarlijke werktuigen;
 
 De Raad van State gehoord (advies van 15 oktober 1998 (no. W13.98.0426);
 
@@ -19,7 +19,7 @@ Het Staatstoezicht op de volksgezondheid bestaat uit de volgende onderdelen:
 
 a. de Inspectie voor de Gezondheidszorg;  
 
-b. de Voedsel en Waren Autoriteit.    
+b. de Nederlandse Voedsel- en Warenautoriteit.    
 
 ### Artikel  2  
 

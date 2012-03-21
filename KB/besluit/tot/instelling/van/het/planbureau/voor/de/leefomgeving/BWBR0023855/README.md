@@ -9,20 +9,20 @@ Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
 Handelende in overeenstemming met het gevoelen van de ministerraad;
 Hebben goedgevonden en verstaan:    
 
-### Artikel  I   
-Materieel uitgewerkt per 16-05-2010   
+### Artikel  I  
+Materieel uitgewerkt per 16-05-2010 
 
-Wijzigt het Vaststellingsbesluit Besluit Instelling Ruimtelijk planbureau.   
+Wijzigt het Vaststellingsbesluit Besluit Instelling Ruimtelijk planbureau. 
 
-### Artikel  II   
-Materieel uitgewerkt per 16-05-2010   
+### Artikel  II  
+Materieel uitgewerkt per 16-05-2010 
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
-### Artikel  III   
-Materieel uitgewerkt per 16-05-2010   
+### Artikel  III  
+Materieel uitgewerkt per 16-05-2010 
 
-Dit besluit wordt aangehaald als: Besluit tot instelling van het Planbureau voor de Leefomgeving.  
+Dit besluit wordt aangehaald als: Besluit tot instelling van het Planbureau voor de Leefomgeving. 
 
 Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -30,10 +30,10 @@ Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is bela
 7 mei 2008  
 Beatrix  
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. M.Cramer 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+J. M. Cramer   
 
 de *vijftiende* mei 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

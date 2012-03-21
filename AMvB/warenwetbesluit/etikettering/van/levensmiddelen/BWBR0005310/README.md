@@ -90,7 +90,7 @@ e. eet- en drinkwaren die in een fantasie-verpakking, zoals figuurtjes of souven
 
 ### Artikel  2a  
 
-1.  De Voedsel en Waren Autoriteit is bevoegde autoriteit, bedoeld in artikel 22, eerste lid, van verordening (EG) 110/2008.   
+1.  De Nederlandse Voedsel- en Warenautoriteit is bevoegde autoriteit, bedoeld in artikel 22, eerste lid, van verordening (EG) 110/2008.   
 2.  Onze Minister stelt nadere regels vast inzake artikel 2, vierde lid, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) 110/2008 gestelde voorschriften.   
 
 ### §  2  
@@ -136,7 +136,7 @@ b. in de nabijheid van die aanduiding een vermelding wordt gebezigd inhoudende e
 
 a. een lijst van ingrediënten;  
 
-b. de hoeveelheid van een ingrediënt of van een categorie van ingrediënten.  
+b. de hoeveelheid van een ingrediënt of van een categorie van ingrediënten;  
 
 c. de netto-hoeveelheid;  
 
@@ -510,7 +510,7 @@ De vermelding van de plaats van oorsprong of herkomst, bedoeld in artikel 5, eer
 1.  Het alcoholgehalte, bedoeld in artikel 5, eerste lid, onderdeel h, moet worden gebezigd voor dranken met een effectief alcoholgehalte van meer dan 1,2 volumeprocenten, en moet bestaan uit het symbool "% vol", voorafgegaan door het werkelijke gehalte, bepaald bij 20 °C, en weergegeven met ten hoogste een decimaal. Deze vermelding wordt al dan niet voorafgegaan door "alcohol" of "alc.".   
 2.  Indien het absolute verschil tussen het vermelde alcoholgehalte en het werkelijke gehalte van de hieronder genoemde dranken minder bedraagt dan het achter de betrokken drank aangegeven percentage, voldoet een zodanige vermelding aan het in het eerste lid bepaalde: 
 
-a. voor bier met een alcolholgehalte van ten hoogste 5,5% vol: 0,5% vol;  
+a. voor bier met een alcoholgehalte van ten hoogste 5,5% vol: 0,5% vol;  
 
 b. voor bier met een alcoholgehalte van meer dan 5,5% vol: 1% vol;  
 
@@ -640,7 +640,7 @@ Voor wat betreft een onverpakte eet- of drinkwaar moet de aanduiding voor het pu
 ### Artikel  28  
 
 1.  Indien zich in een verpakking een in afzonderlijk verpakte eenheden verdeelde hoeveelheid van een zelfde eet- of drinkwaar bevindt, wordt eerstbedoelde verpakking aangemerkt als de verpakking, bedoeld in artikel 24, eerste lid.   
-2.  Indien zich in een verpakking een voorverpakte eet- of drinkwaar, dan wel een in afzonderlijk verpakte of onverpakte eenheden verdeelde hoeveelheid van verschillende eet- of drinkwaren, al dan niet met andere waren bevindt, wordt eerstbedoelde verpakking aangemerkt als de verpakking, bedoeld in artikel 24, eerste lid. Op bedoelde verpakking behoeven slechts de aanduiding en de vermelding van de nettohoeveelheid van elke afzonderlijke eet- of drinkwaar te worden vermeld, mits op de verpakking van de afzonderlijke eenheden de voor de betrokken eet- of drinkwaren voorgeschreven aanduiding en vermeldingen zijn aangebracht.   
+2.  Indien zich in een verpakking een voorverpakte eet- of drinkwaar, dan wel een in afzonderlijk verpakte of onverpakte eenheden verdeelde hoeveelheid van verschillende eet- of drinkwaren, al dan niet met andere waren bevindt, wordt eerstbedoelde verpakking aangemerkt als de verpakking, bedoeld in artikel 24, eerste lid. Op bedoelde verpakking behoeven slechts de aanduiding en de vermelding van de netto-hoeveelheid van elke afzonderlijke eet- of drinkwaar te worden vermeld, mits op de verpakking van de afzonderlijke eenheden de voor de betrokken eet- of drinkwaren voorgeschreven aanduiding en vermeldingen zijn aangebracht.   
 3.  In afwijking van het eerste en tweede lid behoeven de in die leden voorgeschreven aanduiding en vermeldingen niet op de buitenzijde van de volgens die leden aangemerkte verpakking of op een op die verpakking aangebracht etiket te zijn aangebracht, indien die verpakking helder doorzichtig is, en de zich in bedoelde verpakking bevindende eenheden de volgens dit besluit voorgeschreven aanduiding en vermeldingen dragen en deze voldoende zichtbaar zijn.   
 
 ### §  5  

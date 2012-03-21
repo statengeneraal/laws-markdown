@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 oktober 1997, nr. GZB/VVB/975553, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op beschikking nr. 97/534/EG van de Commissie van 30 juli 1997 houdende verbod, in verband met overdraagbare spongiforme encefalopathieën, op het gebruik van risicomateriaal (PbEG L 216), op artikel 11, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op [artikel 4, eerste lid, onder a](../../../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 8, onder b en c](../../../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 12](../../../../../../../wet/warenwet/BWBR0001969/README.md) en [artikel 14 van de Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op beschikking nr. 97/534/EG van de Commissie van 30 juli 1997 houdende verbod, in verband met overdraagbare spongiforme encefalopathieën, op het gebruik van risicomateriaal (PbEG L 216), op artikel 11, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op artikel 4, eerste lid, onder a, artikel 8, onder b en c, artikel 12 en artikel 14 van de Warenwet;
 
 De Raad van State gehoord (advies van 18 december 1997, no. W13.97.0642);
 
@@ -57,8 +57,8 @@ o. *verordening (EG) 1760/2000*: verordening (EG) nr. 1760/2000 van het Europees
 p. *verordening (EG) 1825/2000*: verordening (EG) nr. 1825/2000 van de Commissie van de Europese Gemeenschappen van 25 augustus 2000 tot vaststelling van de uitvoeringsbepalingen van verordening (EG) nr. 1760/2000 van het Europees Parlement en de Raad van de Europese Unie met betrekking tot de etikettering van rundvlees en van rundvleesproducten (PbEG L 216);  
 
 q. *verordening (EG) 1333/2008:* verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354).     
-2.  De darm of het darmvervangend omhulsel van in dit besluit bedoelde waren is geen verpakking in de zin van [artikel 1, eerste lid, onder b, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md).   
-3.  Voor vlees, gehakt en vleesproducten wordt een startercultuur aangemerkt als technisch hulpmiddel, bedoeld in [artikel 1, zevende lid, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md).   
+2.  De darm of het darmvervangend omhulsel van in dit besluit bedoelde waren is geen verpakking in de zin van artikel 1, eerste lid, onder b, van het Warenwetbesluit Etikettering van levensmiddelen.   
+3.  Voor vlees, gehakt en vleesproducten wordt een startercultuur aangemerkt als technisch hulpmiddel, bedoeld in artikel 1, zevende lid, van het Warenwetbesluit Etikettering van levensmiddelen.   
 4.  Artikel 4 en de artikelen 6 tot en met 12 zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte eetwaren waarvoor die aanduiding uitsluitend gebezigd mag worden.   
 
 ### Artikel  2  
@@ -114,7 +114,7 @@ Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees.. “..” moet z
 1.  Het zetmeelgehalte van een op de voet van artikel 6, 7, 8, 9 of 10 aangeduide, gepaneerde waar bedraagt ten hoogste 6%.   
 2.  Het eerste lid is niet van toepassing op: 
 
-a. een voorverpakte eetwaar als bedoeld in [artikel 1, eerste lid, onder c, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md); of  
+a. een voorverpakte eetwaar als bedoeld in artikel 1, eerste lid, onder c, van het Warenwetbesluit Etikettering van levensmiddelen; of  
 
 b. een onverpakte waar ten aanzien waarvan de hoeveelheid vlees voor het publiek duidelijk zichtbaar is aangebracht op het voorwerp waarin of waarop de waar zich bevindt, of op een onmiddellijk boven bedoeld voorwerp geplaatst(e) bord of kaart.     
 
@@ -127,7 +127,7 @@ a. zich bevindt in azijn, in een waterige keukenzoutoplossing, of in een andere 
 
 b. bereid is met gelei;  
 
-c. een voorverpakte eetwaar is als bedoeld in [artikel 1, eerste lid, onder c, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md); of  
+c. een voorverpakte eetwaar is als bedoeld in artikel 1, eerste lid, onder c, van het Warenwetbesluit Etikettering van levensmiddelen; of  
 
 d. onverpakt is, en de hoeveelheid vlees van de waar voor het publiek duidelijk zichtbaar is aangebracht op het voorwerp waarin of waarop de waar zich bevindt of op een onmiddellijk boven bedoeld voorwerp geplaatst(e) bord of kaart.     
 3.  Het eerste lid is niet van toepassing op een als *bloedworst, balkenbrij, bakleverworst, hoofdkaas, beuling, preskop* of *zure zult* aangeduide eetwaar.   
@@ -184,12 +184,12 @@ b. gehakt, uitsluitend voor zover het vetgehalte van de waar ten hoogste 15% bed
 
 ### Artikel  14  
 
-De autoriteit, bedoeld in artikel 20 van verordening (EG) 1760/2000, en in artikel 11, onder a, van verordening (EG) 1825/2000, is de Voedsel en Waren Autoriteit.  
+De autoriteit, bedoeld in artikel 20 van verordening (EG) 1760/2000, en in artikel 11, onder a, van verordening (EG) 1825/2000, is de Nederlandse Voedsel- en Warenautoriteit.  
 
 ### Artikel  15  
 
 1.  Dit besluit treedt in werking met ingang van 1 juli 1998, met dien verstande dat voorverpakte eetwaren die zijn aangeduid op de voet van artikel 6, tweede lid, van het Vlees- en vleeswarenbesluit (Warenwet) 1987 zoals dat luidde onmiddellijk vóór 1 juli 1998, nog verhandeld mogen worden tot 14 februari 2000.   
-2.  Artikel 11 is niet van toepassing voor zover overeenkomstig een ter uitvoering van richtlijn 97/4/EG in het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.   
+2.  Artikel 11 is niet van toepassing voor zover overeenkomstig een ter uitvoering van richtlijn 97/4/EG in het Warenwetbesluit Etikettering van levensmiddelen getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.   
 
 ### Artikel  16  
 

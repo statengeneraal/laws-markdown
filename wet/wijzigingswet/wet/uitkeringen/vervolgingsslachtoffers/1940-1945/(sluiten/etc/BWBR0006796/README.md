@@ -10,16 +10,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is uitdrukkelijk vast t
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 21-03-2012 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 21-03-2012 
 
-Op aanvragen, welke zijn ingediend vóór de inwerkingtreding van deze wet, wordt beslist overeenkomstig [artikel 3, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), zoals dat artikellid luidde op de datum van indiening van de aanvraag.  
+Op aanvragen, welke zijn ingediend vóór de inwerkingtreding van deze wet, wordt beslist overeenkomstig [artikel 3, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), zoals dat artikellid luidde op de datum van indiening van de aanvraag. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 21-03-2012 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

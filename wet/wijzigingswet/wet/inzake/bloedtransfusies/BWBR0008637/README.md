@@ -10,26 +10,30 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de werkingssfeer 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
+Materieel uitgewerkt per 21-03-2012 
 
-Wijzigt de Wet inzake bloedtransfusie.   
+Wijzigt de Wet inzake bloedtransfusie.  
 
 ### ARTIKEL  II  
+Materieel uitgewerkt per 21-03-2012 
 
-Wijzigt de Wet op de Geneesmiddelenvoorziening.   
+Wijzigt de Wet op de Geneesmiddelenvoorziening.  
 
 ### ARTIKEL  III  
+Materieel uitgewerkt per 21-03-2012 
 
-Ten aanzien van het Centraal Laboratorium en de regionale stichtingen welke bij de inwerkingtreding van artikel 25 *a* reeds ingevolge een erkenning krachtens artikel 13 van de Wet inzake bloedtransfusie zoals dat luidde vóór het in werking treden van de onderhavige wet, bloedprodukten als bedoeld in artikel 24 mochten bereiden, geldt de in artikel 25 *a*, eerste lid, vervatte eis niet tot zes maanden na dat in werking treden, indien vóór het verstrijken van die termijn een verzoek om erkenning als bedoeld in artikel 25 *a* is ingediend. Indien vóór het verstrijken van die termijn een verzoek om erkenning is ingediend, geldt die eis ook verder niet tot de eerste dag van de kalendermaand na de dag waarop de beslissing op het verzoek onherroepelijk is geworden.  
+Ten aanzien van het Centraal Laboratorium en de regionale stichtingen welke bij de inwerkingtreding van artikel 25*a* reeds ingevolge een erkenning krachtens artikel 13 van de Wet inzake bloedtransfusie zoals dat luidde vóór het in werking treden van de onderhavige wet, bloedprodukten als bedoeld in artikel 24 mochten bereiden, geldt de in artikel 25*a*, eerste lid, vervatte eis niet tot zes maanden na dat in werking treden, indien vóór het verstrijken van die termijn een verzoek om erkenning als bedoeld in artikel 25*a* is ingediend. Indien vóór het verstrijken van die termijn een verzoek om erkenning is ingediend, geldt die eis ook verder niet tot de eerste dag van de kalendermaand na de dag waarop de beslissing op het verzoek onherroepelijk is geworden. 
 
 ### ARTIKEL  IV  
+Materieel uitgewerkt per 21-03-2012 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 10 april 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -37,4 +41,4 @@ E. Borst-Eilers
 de *vijfde* juni 1997 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

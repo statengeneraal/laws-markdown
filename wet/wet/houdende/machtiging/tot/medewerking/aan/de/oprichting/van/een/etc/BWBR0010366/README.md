@@ -10,14 +10,16 @@ Alzo Wij in overweging hebben genomen, dat het wenselijk is dat de Staat medewer
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 21-03-2012 
 
 Onze Minister van Volksgezondheid, Welzijn en Sport wordt gemachtigd mede te werken aan de oprichting van een Stichting Waarborgfonds voor de zorgsector door: 
 
 a. een initiële storting aan die Stichting te doen;  
 
-b. de positie van achterborg te bekleden door aan die Stichting op een bij overeenkomst bepaalde wijze en tot bedragen als in die overeenkomst bepaald renteloze leningen te verstrekken ter voorkoming van liquiditeitstekorten bij de Stichting.    
+b. de positie van achterborg te bekleden door aan die Stichting op een bij overeenkomst bepaalde wijze en tot bedragen als in die overeenkomst bepaald renteloze leningen te verstrekken ter voorkoming van liquiditeitstekorten bij de Stichting.   
 
 ### Artikel  2  
+Materieel uitgewerkt per 21-03-2012 
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
 
@@ -25,7 +27,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Gegeven te 's-Gravenhage 
 26 maart 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
