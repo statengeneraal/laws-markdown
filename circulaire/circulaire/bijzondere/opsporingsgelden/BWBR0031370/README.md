@@ -46,7 +46,7 @@ h.  *Toongeld*  Geld dat op verzoek van de betrokken hoofdofficier van justitie 
 
 i.  *Onkosten- en uurvergoedingen*  De geldelijke vergoeding aan een informant of burgerinfiltrant ter goedmaking van of tegemoetkoming in de met machtiging van het Openbaar Ministerie en op verzoek van een opsporingsdienst met betrekking tot het inwinnen van criminele inlichtingen gemaakte onkosten of gewerkte uren.  
 
-j.  *Schadevergoeding*  De geldelijke vergoeding aan de burger die, in een geval waarop de Circulaire bijzondere opsporingsgelden ziet, bijstand heeft verleend aan de politie, ter goedmaking van of tegemoetkoming in geleden materiële schade met betrekking tot de normale lijfsgoederen, alsmede met betrekking tot een voertuig of een ander privé- eigendom, dat op verzoek van een opsporingsdienst en met machtiging van het openbaar ministerie met betrekking tot de bijstandsverlening is gebruikt.    
+j.  *Schadevergoeding*  De geldelijke vergoeding aan de burger die, in een geval waarop de Circulaire bijzondere opsporingsgelden ziet, bijstand heeft verleend aan de politie, ter goedmaking van of tegemoetkoming in geleden materiële schade met betrekking tot de normale lijfsgoederen, alsmede met betrekking tot een voertuig of een ander privé- eigendom, dat op verzoek van een opsporingsdienst en met machtiging van het openbaar ministerie met betrekking tot de bijstandsverlening is gebruikt.   
 
 ### Artikel  2  
 
@@ -64,7 +64,7 @@ d. opkoopgeld; en
 
 e. toongeld.     
 2.  Onkosten- en uurvergoedingen, als bedoeld in artikel 1, onder i en schadevergoedingen, als bedoeld in artikel 1, onder j, worden in beginsel uit de financiële middelen van de betrokken opsporingsdienst betaald. In bijzondere gevallen kan de Minister van Veiligheid en Justitie, op verzoek van de betrokken hoofdofficier van justitie, echter besluiten een onkosten-, uur- of schadevergoeding toe te kennen.   
-3.  In het belang van de opsporing van een ernstig misdrijf of de voorkoming daarvan, of indien andere zwaarwichtige redenen in het kader van de opsporing daartoe aanleiding geven, kan de Minister van Veiligheid en Justitie onder nader te stellen voorwaarden, op verzoek van de betrokken hoofdofficier van justitie, ook in andere gevallen dan genoemd in het eerste en tweede lid, bijzondere gelden toekennen.   
+3.  In het belang van de opsporing van een ernstig misdrijf of de voorkoming daarvan, of indien andere zwaarwichtige redenen in het kader van de opsporing daartoe aanleiding geven, kan de Minister van Veiligheid en Justitie onder nader te stellen voorwaarden, op verzoek van de betrokken hoofdofficier van justitie, ook in andere gevallen dan genoemd in het eerste en tweede lid, bijzondere gelden toekennen.  
 
 ### Artikel  3  
 
@@ -73,7 +73,7 @@ e. toongeld.
 1.  Het Korps Landelijke Politiediensten (KLPD) registreert in een doorlopend register alle zaken waarbij het in het kader van de uitvoering van deze circulaire betrokken is geweest.   
 2.  Jaarlijks, in de maand maart, zendt de korpschef van het KLPD, door tussenkomst van de hoofdofficier van justitie van het Landelijk Parket, aan de Minister van Veiligheid en Justitie een overzicht van de zaken waarin in het voorafgaande kalenderjaar tipgeld is toegekend. De hoofdofficier van justitie van het Landelijk Parket zendt een exemplaar van dit overzicht ter kennisneming aan de voorzitter van het College van procureurs-generaal. Dit overzicht bevat, uitgesplitst per opsporingsdienst: 
 
-1. het totaal aantal zaken per delictsoort; het gemiddeld uitbetaalde bedrag per delictsoort; het totale bedrag aan tipgeld dat is toegekend; en de door derden, al dan niet met een afgegeven garantstelling, in het vooruitzicht gestelde of uitbetaalde financiële beloningen ten behoeve van informanten.   Het jaaroverzicht bevat voorts het aantal en de soort zaken (met vermelding van de bedragen), waarin het KLPD bij de uitvoering van toongeld-, pseudokoopgeld- of opkoopgeldzaken, dan wel zaken als bedoeld in artikel 2, derde lid, een adviserende, ondersteunende of uitvoerende rol heeft gespeeld. Daarnaast worden in dit overzicht gegevens opgenomen over de uitgeloofde beloningen. In het jaaroverzicht worden geen gegevens vermeld die herleidbaar zijn tot concrete zaken of personen.   
+1. het totaal aantal zaken per delictsoort; het gemiddeld uitbetaalde bedrag per delictsoort; het totale bedrag aan tipgeld dat is toegekend; en de door derden, al dan niet met een afgegeven garantstelling, in het vooruitzicht gestelde of uitbetaalde financiële beloningen ten behoeve van informanten.   Het jaaroverzicht bevat voorts het aantal en de soort zaken (met vermelding van de bedragen), waarin het KLPD bij de uitvoering van toongeld-, pseudokoopgeld- of opkoopgeldzaken, dan wel zaken als bedoeld in artikel 2, derde lid, een adviserende, ondersteunende of uitvoerende rol heeft gespeeld. Daarnaast worden in dit overzicht gegevens opgenomen over de uitgeloofde beloningen. In het jaaroverzicht worden geen gegevens vermeld die herleidbaar zijn tot concrete zaken of personen.  
 
 ### Artikel  4  
 
@@ -83,14 +83,14 @@ Onverminderd de overige voorwaarden die in deze circulaire aan de toekenning of 
 
 a. blijkt dat de persoon die de inlichtingen heeft verstrekt als verdachte kan worden aangemerkt met betrekking tot de strafbare feiten waarover hij informeert;  
 
-b. drie of meer jaren zijn verstreken nadat de verstrekte inlichtingen voor tactisch gebruik bij proces-verbaal beschikbaar zijn gesteld dan wel nadat de diensten zijn verricht. Bij langlopende onderzoeken kan op deze termijn een uitzondering worden gemaakt op gemotiveerd verzoek van de betrokken hoofdofficier van justitie.    
+b. drie of meer jaren zijn verstreken nadat de verstrekte inlichtingen voor tactisch gebruik bij proces-verbaal beschikbaar zijn gesteld dan wel nadat de diensten zijn verricht. Bij langlopende onderzoeken kan op deze termijn een uitzondering worden gemaakt op gemotiveerd verzoek van de betrokken hoofdofficier van justitie.   
 
 ### Artikel  5  
 
 ####Financiële beloning van informanten door derden
 
 1.  In het geval met betrekking tot een Nederlands strafrechtelijk onderzoek een derde een financiële beloning ten behoeve van een informant in het vooruitzicht heeft gesteld of aan de desbetreffende opsporingsdienst heeft uitbetaald, wordt in beginsel door de Minister van Veiligheid en Justitie geen tipgeld meer beschikbaar gesteld.   
-2.  In het geval de door een derde ten behoeve van een informant in het vooruitzicht gestelde of betaalde financiële beloning meer dan € 250 lager ligt dan de financiële beloning die in het concrete geval door de Minister van Veiligheid en Justitie zou zijn toegekend, kan een informant, in afwijking van het bepaalde in het eerste lid, ter aanvulling tot het gebruikelijke bedrag, tipgeld worden toegekend.   
+2.  In het geval de door een derde ten behoeve van een informant in het vooruitzicht gestelde of betaalde financiële beloning meer dan € 250 lager ligt dan de financiële beloning die in het concrete geval door de Minister van Veiligheid en Justitie zou zijn toegekend, kan een informant, in afwijking van het bepaalde in het eerste lid, ter aanvulling tot het gebruikelijke bedrag, tipgeld worden toegekend.  
 
 ### Artikel  6  
 
@@ -100,44 +100,44 @@ Onverminderd de overige voorwaarden die in deze circulaire aan de toekenning of 
 
 a. blijkt dat de persoon die de inlichtingen heeft verstrekt als verdachte kan worden aangemerkt met betrekking tot de strafbare feiten waarover hij informeert; of  
 
-b. een met machtiging van de hoofdofficier van justitie van het Landelijk Parket uitgeloofde beloning niet (tijdig) is gepubliceerd. Publicatie geschiedt door middel van een raambiljet van de betrokken hoofdofficier van justitie, vervaardigd en landelijk verspreid door Dienst IPOL van het KLPD. In plaats van of naast het gebruik van een raambiljet, kan publicatie, na voorafgaande toestemming van de behandelend ambtenaar van het Team Informatie en Operationele Coördinatie, ook plaatsvinden in een landelijk of regionaal televisieprogramma van een zendgemachtigde waarmee het Openbaar Ministerie een samenwerkingscontract voor de opsporingsberichtgeving heeft gesloten.    
+b. een met machtiging van de hoofdofficier van justitie van het Landelijk Parket uitgeloofde beloning niet (tijdig) is gepubliceerd. Publicatie geschiedt door middel van een raambiljet van de betrokken hoofdofficier van justitie, vervaardigd en landelijk verspreid door Dienst IPOL van het KLPD. In plaats van of naast het gebruik van een raambiljet, kan publicatie, na voorafgaande toestemming van de behandelend ambtenaar van het Team Informatie en Operationele Coördinatie, ook plaatsvinden in een landelijk of regionaal televisieprogramma van een zendgemachtigde waarmee het Openbaar Ministerie een samenwerkingscontract voor de opsporingsberichtgeving heeft gesloten.   
 
 ### Artikel  7  
 
 ####Verplicht volgen aanvraagprocedures
 
-Aanvragen voor de toekenning en beschikbaarstelling van de gelden, genoemd i,n artikel 2 van deze circulaire, worden afgehandeld overeenkomstig de procedure zoals voor het betreffende geval in de instructie van het Openbaar Ministerie is voorgeschreven.  
+Aanvragen voor de toekenning en beschikbaarstelling van de gelden, genoemd i,n artikel 2 van deze circulaire, worden afgehandeld overeenkomstig de procedure zoals voor het betreffende geval in de instructie van het Openbaar Ministerie is voorgeschreven. 
 
 ### Artikel  8  
 
 ####Verzoek tot herziening van een beslissing
 
 1.  Indien (voor een deel) een afwijzende beslissing is genomen op een op grond van deze circulaire gedaan verzoek, kan de betrokken hoofdofficier van justitie de Minister van Veiligheid en Justitie, door tussenkomst van de aangewezen ambtenaar van het Landelijk Parket en uiterlijk binnen zes weken na het bekend worden van de beslissing, verzoeken een nieuwe beslissing te nemen.   
-2.  Een verzoek, als bedoeld in het eerste lid, is schriftelijk en bevat de gronden waarop de bezwaren tegen de beslissing rusten.   
+2.  Een verzoek, als bedoeld in het eerste lid, is schriftelijk en bevat de gronden waarop de bezwaren tegen de beslissing rusten.  
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Deze circulaire treedt in werking op 1 januari 2011.  
+Deze circulaire treedt in werking op 1 januari 2011. 
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Deze circulaire kan worden aangehaald als: Circulaire bijzondere opsporingsgelden.  
+Deze circulaire kan worden aangehaald als: Circulaire bijzondere opsporingsgelden. 
 
 Den Haag 
 30 december 2010   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven  
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Niet opgenomen.  
+Niet opgenomen.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Niet opgenomen.  
+Niet opgenomen.
