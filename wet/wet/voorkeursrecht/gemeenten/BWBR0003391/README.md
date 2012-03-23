@@ -27,11 +27,11 @@ f. vervreemding: overdracht in eigendom of verdeling van een onroerende zaak als
 
 ### Artikel  2  
 
-De gemeenteraad kan gronden aanwijzen waarop de artikelen 10 tot en met 24, 26 en 27 van toepassing zijn.  
+De gemeenteraad kan gronden aanwijzen waarop de artikelen 10 tot en met 15, 24 en 26 van toepassing zijn.  
 
 ### Artikel  3  
 
-1.  Voor aanwijzing komen in aanmerking gronden waaraan bij het bestemmingsplan of inpassingsplan een niet-agrarische bestemming is toegekend en waarvan het gebruik afwijkt van dat plan of besluit.   
+1.  Voor aanwijzing komen in aanmerking gronden waaraan bij het bestemmingsplan of inpassingsplan een niet-agrarische bestemming is toegekend en waarvan het gebruik afwijkt van dat plan.   
 2.  Een besluit tot aanwijzing vermeldt ten aanzien van de onroerende zaken waarop het betrekking heeft: 
 
 a. de kadastrale aanduiding;  
@@ -60,8 +60,8 @@ b. gronden die bij een structuurvisie zijn aangewezen tot moderniseringsgebied a
 ### Artikel  6  
 
 1.  Burgemeester en wethouders kunnen gronden voorlopig aanwijzen, mits bij het hiertoe strekkend besluit aan die gronden een niet-agrarische bestemming is toegedacht en het gebruik afwijkt van de toegedachte bestemming. Het besluit vervalt van rechtswege drie maanden na dagtekening of zoveel eerder als een besluit van de gemeenteraad tot aanwijzing ingevolge artikel 3, 4 of  5 in werking treedt.   
-2.  De artikelen 3, tweede en derde lid, 10 tot en met 24, 26 en 27 zijn van overeenkomstige toepassing.   
-3.  Indien bezwaar of beroep aanhangig is tegen een besluit tot voorlopige aanwijzing en dit besluit vervalt omdat een besluit van de gemeenteraad tot aanwijzing in werking is getreden, wordt het bezwaar of beroep geacht te zijn gericht tegen het besluit van de gemeenteraad.   
+2.  De artikelen 3, tweede en derde lid, 10 tot en met 15, 24 en 26 zijn van overeenkomstige toepassing.   
+3.  Indien bezwaar of beroep aanhangig is tegen een besluit tot voorlopige aanwijzing en dit besluit vervalt omdat een besluit van de gemeenteraad tot aanwijzing in werking is getreden, wordt het bezwaar of beroep mede geacht te zijn gericht tegen het besluit van de gemeenteraad.   
 
 ### Artikel  7  
 
@@ -72,19 +72,21 @@ b. gronden die bij een structuurvisie zijn aangewezen tot moderniseringsgebied a
 
 1.  Voor zover een aanwijzing niet meer voldoet aan de eisen, gesteld in artikel 3, eerste lid, 4, eerste lid, onderscheidenlijk 5, eerste lid, besluiten burgemeester en wethouders tot het intrekken van die aanwijzing. In het besluit worden vermeld de percelen of perceelsgedeelten waarop de intrekking betrekking heeft. Het besluit tot intrekking wordt gevoegd bij de ingevolge artikel 7, eerste lid, ter inzage gelegde stukken en in kopie gezonden naar de desbetreffende eigenaren en beperkt gerechtigden.   
 2.  Degene die een recht heeft op aangewezen gronden uit hoofde van eigendom of een beperkt recht als bedoeld in artikel 1, onderdeel f kan bij burgemeester en wethouders een aanvraag indienen tot intrekking van het besluit tot aanwijzing. Zij nemen een besluit uiterlijk vier weken na de dag van ontvangst van de aanvraag.   
+3.  In geval van onherroepelijke vernietiging in beroep van het in artikel 3, eerste lid, bedoelde bestemmingsplan of inpassingsplan, geldt de in artikel 3 bedoelde aanwijzing tot een jaar na de datum van de vernietiging als zijnde in overeenstemming met de eisen gesteld in artikel 3, eerste lid, behoudens eerdere intrekking door burgemeester en wethouders.   
 
 ### Artikel  9  
 
 1.  Een besluit tot aanwijzing als bedoeld in artikel 3 of artikel 9a in samenhang met artikel 3 vervalt van rechtswege tien jaar na de inwerkingtreding van het bestemmingsplan onderscheidenlijk inpassingsplan.   
-2.  Een besluit tot aanwijzing als bedoeld in artikel 4, vervalt van rechtswege drie jaar na dagtekening van dat besluit, tenzij voordien een bestemmingsplan, inpassingsplan is vastgesteld.   
+2.  Een besluit tot aanwijzing als bedoeld in artikel 4, vervalt van rechtswege drie jaar na dagtekening van dat besluit, tenzij voordien een bestemmingsplan of inpassingsplan is vastgesteld.   
 3.  Een besluit tot aanwijzing als bedoeld in artikel 5 vervalt van rechtswege drie jaar na dagtekening, tenzij voor dat tijdstip een structuurvisie, bestemmingsplan of inpassingsplan is vastgesteld.   
-4.  Een mededeling van het van rechtswege vervallen van een besluit tot aanwijzing wordt gevoegd bij de ingevolge artikel 7, eerste lid, ter inzage gelegde stukken en in kopie gezonden naar de desbetreffende eigenaren en beperkt gerechtigden.   
+4.  Indien artikel 8, derde lid, van toepassing is, vervalt het besluit tot aanwijzing, bedoeld in artikel 3, van rechtswege na afloop van de in het derde lid van artikel 8 genoemde termijn, tenzij voor dat tijdstip voor de in de aanwijzing begrepen gronden een bestemmingsplan of inpassingsplan is vastgesteld, dat voldoet aan de in artikel 3, eerste lid, gestelde eisen. In dat geval vervalt het besluit tot aanwijzing van rechtswege tien jaar na de inwerkingtreding van het bestemmingsplan onderscheidenlijk inpassingsplan.   
+5.  Een mededeling van het van rechtswege vervallen van een besluit tot aanwijzing wordt gevoegd bij de ingevolge artikel 7, eerste lid, ter inzage gelegde stukken en in kopie gezonden naar de desbetreffende eigenaren en beperkt gerechtigden.   
 
 ### Artikel  9a  
 
 1.  Indien provinciale staten het voornemen hebben toepassing te geven aan [artikel 3.26, eerste en vierde lid, van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) kunnen zij, op gelijke wijze als de gemeenteraad, overeenkomstig artikel 2 in samenhang met artikel 3, 4 of  5, gronden aanwijzen, met dien verstande dat voor een aanwijzing in samenhang met artikel 4 uitsluitend een structuurvisie als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) in aanmerking komt. In een besluit tot aanwijzing overeenkomstig artikel 4 of  5 geven provinciale staten aan op welke wijze invulling gegeven zal worden aan een inpassingsplan of projectbesluit. Gedeputeerde staten kunnen op gelijke wijze als burgemeester en wethouders overeenkomstig artikel 6 gronden voorlopig aanwijzen.   
 2.  Indien Onze Minister het voornemen heeft toepassing te geven aan [artikel 3.28, eerste en vierde lid, van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) kan deze, op gelijke wijze als de gemeenteraad, overeenkomstig artikel 2 in samenhang met artikel 3, 4 of  5 gronden aanwijzen, met dien verstande dat voor een aanwijzing in samenhang met artikel 4 uitsluitend een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) in aanmerking komt. Bij een aanwijzing overeenkomstig de artikelen 4 en 5 geeft Onze Minister aan op welke wijze invulling gegeven zal worden aan een inpassingsplan of projectbesluit.   
-3.  De artikelen 6, derde lid, 7, 8, 9 en 10, 11, 12 en 16 tot en met 24, 26 en 27 zijn van overeenkomstige toepassing.   
+3.  De artikelen 6, derde lid, 7 tot en met 15, 24 en 26 zijn van overeenkomstige toepassing.   
 4.  Bij toepassing van het eerste of tweede lid verstrekken gedeputeerde staten, onderscheidenlijk Onze Minister onverwijld een exemplaar van het besluit tot aanwijzing of voorlopige aanwijzing en de bijbehorende kadastrale kaart aan de Dienst voor het kadaster en de openbare registers, ter inschrijving van die stukken in de openbare registers en doen mededeling van de aanwijzing of voorlopige aanwijzing aan burgemeester en wethouders van de gemeente en gedeputeerde staten van de provincie waarin de gronden waarop de aanwijzing betrekking heeft zijn gelegen. [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing. Evenzo doen gedeputeerde staten, onderscheidenlijk Onze Minister mededeling van het intrekken of van het van rechtswege vervallen van een besluit tot aanwijzing aan: 
 
 a. de Dienst voor het kadaster en de openbare registers;  
@@ -92,19 +94,19 @@ a. de Dienst voor het kadaster en de openbare registers;
 b. de desbetreffende eigenaren en beperkt gerechtigden, en  
 
 c. burgemeester en wethouders van de gemeente waarin de gronden waarop de aanwijzing betrekking had, zijn gelegen.     
-5.  Bij toepassing van het eerste lid worden de in de artikelen 10, 11, 12 en 16 tot en met 24, 26 en 27 geregelde bevoegdheden en verplichtingen met uitsluiting van de bevoegdheid ter zake van burgemeester en wethouders, uitgeoefend door gedeputeerde staten en neemt de provincie de plaats in van de gemeente.   
-6.  Bij toepassing van het tweede lid worden de in de artikelen 10, 11, 12 en 16 tot en met 24, 26 en 27 geregelde bevoegdheden en verplichtingen met uitsluiting van de bevoegdheid ter zake van burgemeester en wethouders of van gedeputeerde staten uitgeoefend door Onze Minister en neemt de Staat de plaats in van de gemeente, onderscheidenlijk de provincie.   
+5.  Bij toepassing van het eerste lid worden de in de artikelen 10, 11, 12, 24, 26 en 27 geregelde bevoegdheden en verplichtingen met uitsluiting van de bevoegdheid ter zake van burgemeester en wethouders, uitgeoefend door gedeputeerde staten en neemt de provincie de plaats in van de gemeente.   
+6.  Bij toepassing van het tweede lid worden de in de artikelen 10, 11, 12, 24, 26 en 27 geregelde bevoegdheden en verplichtingen met uitsluiting van de bevoegdheid ter zake van burgemeester en wethouders of van gedeputeerde staten uitgeoefend door Onze Minister en neemt de Staat de plaats in van de gemeente, onderscheidenlijk de provincie.   
 
 ### Artikel  9b  
 
-1.  Op het tijdstip van inwerkingtreding van een besluit als bedoeld in artikel 9a, eerste of tweede lid, vervalt een eerder besluit tot aanwijzing of voorlopige aanwijzing van de betrokken grond van de gemeenteraad of van burgemeester en wethouders van rechtswege, met dien verstande dat indien aan burgemeester en wethouders reeds een opgave is gedaan als bedoeld in artikel 11, eerste lid, die opgave in stand blijft en wordt aangemerkt als een opgave aan gedeputeerde staten onderscheidenlijk Onze Minister. Gedeputeerde staten nemen, onderscheidenlijk Onze Minister neemt bij de toepassing van de artikelen 11 tot en met 21 de plaats in van burgemeester en wethouders, en de provincie onderscheidenlijk de Staat de plaats van de gemeente.   
-2.  Op het tijdstip van inwerkingtreding van een besluit als bedoeld in artikel 9a, tweede lid, vervalt een eerder besluit tot aanwijzing of tot voorlopige aanwijzing van de betrokken grond van provinciale staten of gedeputeerde staten van rechtswege, met dien verstande dat indien aan gedeputeerde staten reeds een opgave is gedaan als bedoeld in artikel 11, eerste lid, die opgave in stand blijft en wordt aangemerkt als een opgave aan Onze Minister. Onze Minister neemt bij de toepassing van de artikelen 11 tot en met 21 de plaats in van gedeputeerde staten, en de Staat de plaats van de provincie.   
+1.  Op het tijdstip van inwerkingtreding van een besluit als bedoeld in artikel 9a, eerste of tweede lid, vervalt een eerder besluit tot aanwijzing of voorlopige aanwijzing van de betrokken grond van de gemeenteraad of van burgemeester en wethouders van rechtswege, met dien verstande dat indien aan burgemeester en wethouders reeds een opgave is gedaan als bedoeld in artikel 11, eerste lid, die opgave in stand blijft en wordt aangemerkt als een opgave aan gedeputeerde staten onderscheidenlijk Onze Minister. Gedeputeerde staten nemen, onderscheidenlijk Onze Minister neemt bij de toepassing van de artikelen 11 tot en met 15 de plaats in van burgemeester en wethouders, en de provincie onderscheidenlijk de Staat de plaats van de gemeente.   
+2.  Op het tijdstip van inwerkingtreding van een besluit als bedoeld in artikel 9a, tweede lid, vervalt een eerder besluit tot aanwijzing of tot voorlopige aanwijzing van de betrokken grond van provinciale staten of gedeputeerde staten van rechtswege, met dien verstande dat indien aan gedeputeerde staten reeds een opgave is gedaan als bedoeld in artikel 11, eerste lid, die opgave in stand blijft en wordt aangemerkt als een opgave aan Onze Minister. Onze Minister neemt bij de toepassing van de artikelen 11 tot en met 15 de plaats in van gedeputeerde staten, en de Staat de plaats van de provincie.   
 3.  Bij toepassing van artikel 9a, eerste of tweede lid, kunnen de gemeenteraad en burgemeester en wethouders geen gebruik meer maken van de bevoegdheid, bedoeld in artikel 2 in samenhang met artikel 3, 4 of  5 en artikel 6.   
 4.  Bij toepassing van artikel 9a, tweede lid, kunnen provinciale en gedeputeerde staten geen gebruik meer maken van de bevoegdheid, bedoeld in artikel 9a, eerste lid.   
 
 ### Artikel  9c  
 
-Gronden die zijn aangewezen ingevolge artikel 2 in samenhang met artikel 3, 4 of  5, artikel 6 of artikel 9a, eerste of tweede lid, kunnen niet binnen twee jaar na het intrekken of het van rechtswege vervallen van zodanige aanwijzing opnieuw ingevolge een zodanig besluit worden aangewezen, tenzij de intrekking het gevolg is van het na een vernietiging van het bestemmingsplan, respectievelijk inpassingsplan niet langer voldoen aan de eisen, gesteld in artikel 3, eerste lid, met dien verstande dat een aldus verlengd voorkeursrecht vervalt als niet binnen een jaar een bestemmingsplan is vastgesteld op grondslag waarvan de aanwijzing kan plaatsvinden.  
+Gronden die zijn aangewezen ingevolge artikel 2 in samenhang met artikel 3, 4 of  5, artikel 6 of artikel 9a, eerste of tweede lid, kunnen niet binnen twee jaar na het intrekken of het van rechtswege vervallen van zodanige aanwijzing opnieuw ingevolge een zodanig besluit worden aangewezen.  
 
 ### Artikel  10  
 
@@ -121,7 +123,7 @@ d. een overeenkomst met de Staat, een provincie, een waterschap of een door Ons 
 
 e. een verkoop krachtens wetsbepaling of bevel des rechters of een executoriale verkoop, met dien verstande dat ingeval van een onderhandse executoriale verkoop als bedoeld in [artikel 3: 268, tweede lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) de voorzieningenrechter niet beslist omtrent het verzoek tot onderhandse verkoop zolang niet het bestuursorgaan in de gelegenheid is gesteld om, gelet op het gunstiger bod, een bod te doen;  
 
-f. een overeenkomst, vóór inwerkingtreding van het besluit tot aanwijzing of voorlopige aanwijzing gesloten met een pachter ingevolge het bepaalde in [afdeling 11 van titel 5 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en betrekking hebbende op een onroerende zaak die is aangewezen bij een besluit als bedoeld in artikel 5 of  6 dan wel artikel 9a, eerste of tweede lid, in samenhang met artikel 5 of  6.     
+f. een overeenkomst, betrekking hebbende op gronden die zijn aangewezen bij een besluit als bedoeld in artikel 5 of 6 dan wel artikel 9a, eerste of tweede lid, in samenhang met artikel 5 of 6, gesloten met een pachter aan wie ten aanzien van deze gronden ten tijde van de inwerkingtreding van dit besluit een voorkeursrecht toekwam als bedoeld in [artikel 378 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).     
 3.  Voorts geldt het bepaalde in het eerste lid niet ingeval de vervreemding geschiedt ingevolge een overeenkomst betreffende een onroerende zaak, dan wel een overeenkomst behelzende een verplichting van de vervreemder betreffende een onroerende zaak, voorzover: 
 
 a. vervreemding geschiedt aan een in die overeenkomst met name genoemde partij, en een tegen een in die overeenkomst met name genoemde prijs, dan wel tegen een volgens die overeenkomst bepaalbare prijs, en  
@@ -185,8 +187,8 @@ b. waarop de intrekking, bedoeld in artikel 13, zevende lid, van het verzoek ter
 
 ### Artikel  25  
 
-1.  Voor zover na de overdracht aan de gemeente van een onroerende zaak of van een beperkt recht waaraan zo’n zaak is onderworpen ingevolge de artikelen 10 tot en met 24 en 26 vanwege een besluit tot aanwijzing overeenkomstig artikel 2 in samenhang met artikel 3 of  4, zonder dat de in artikel 3, eerste lid, of  4, eerste lid, bedoelde andere bestemming is verwezenlijkt, bij een onherroepelijk bestemmingsplan een bestemming is aangewezen waarmee de totstandkoming van de aanwijzing zou zijn uitgesloten, kan de vervreemder vorderen dat de gemeente hem de schade zal vergoeden die hij als gevolg van die overdracht mocht hebben geleden.   
-2.  Gelijke bevoegdheid heeft de vervreemder na de overdracht ingevolge de artikelen 10 tot en met 24 en 26 vanwege een besluit tot aanwijzing overeenkomstig artikel 2 in samenhang met 5, of een besluit tot voorlopige aanwijzing overeenkomstig artikel 6, voor zover de bij die overdracht betrokken onroerende zaak niet binnen de desbetreffende termijn, genoemd in artikel 6 of  9 is opgenomen in een besluit als bedoeld in artikel 5, onderscheidenlijk in een bestemmingsplan of structuurvisie, waarbij de bij de aanwijzing of voorlopige aanwijzing aan de betrokken onroerende zaak toegedachte bestemming is gehandhaafd.   
+1.  Voor zover na de overdracht aan de gemeente van een onroerende zaak of van een beperkt recht waaraan zo’n zaak is onderworpen ingevolge de artikelen 10 tot en met 15, 24 en 26 vanwege een besluit tot aanwijzing overeenkomstig artikel 2 in samenhang met artikel 3 of  4, zonder dat de in artikel 3, eerste lid, of  4, eerste lid, bedoelde andere bestemming is verwezenlijkt, bij een onherroepelijk bestemmingsplan een bestemming is aangewezen waarmee de totstandkoming van de aanwijzing zou zijn uitgesloten, kan de vervreemder vorderen dat de gemeente hem de schade zal vergoeden die hij als gevolg van die overdracht mocht hebben geleden.   
+2.  Gelijke bevoegdheid heeft de vervreemder na de overdracht ingevolge de artikelen 10 tot en met 15, 24 en 26 vanwege een besluit tot aanwijzing overeenkomstig artikel 2 in samenhang met 5, of een besluit tot voorlopige aanwijzing overeenkomstig artikel 6, voor zover de bij die overdracht betrokken onroerende zaak niet binnen de desbetreffende termijn, genoemd in artikel 6 of  9 is opgenomen in een besluit als bedoeld in artikel 5, onderscheidenlijk in een bestemmingsplan of structuurvisie, waarbij de bij de aanwijzing of voorlopige aanwijzing aan de betrokken onroerende zaak toegedachte bestemming is gehandhaafd.   
 3.  Indien toepassing is gegeven aan artikel 9a, eerste of tweede lid, treedt voor de toepassing van het eerste of tweede lid de provincie onderscheidenlijk de Staat in de plaats van de gemeente.   
 
 ### Artikel  26  

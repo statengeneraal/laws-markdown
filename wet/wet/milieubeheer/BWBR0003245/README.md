@@ -124,7 +124,7 @@ c. andere bij provinciale milieuverordening daartoe aangewezen regels, draagt er
 
 ### Artikel  1.3c  
 
-1.  Bij de provinciale milieuverordening kunnen regels worden gesteld inhoudende de verplichting voor het bevoegd gezag voorschriften, die nodig zijn ter bescherming van het milieu en waarvan de inhoud in die verordening is aangegeven, te verbinden aan de omgevingsvergunningen voor activiteiten als bedoeld in artikel 1.3a, eerste lid, of voor inrichtingen die behoren tot een bij de verordening aangewezen categorie. Bij de verordening kan worden bepaald dat de daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.   
+1.  Bij de provinciale milieuverordening kunnen regels worden gesteld inhoudende de verplichting voor het bevoegd gezag voorschriften die nodig zijn ter bescherming van het milieu en waarvan de inhoud in die verordening is aangegeven, te verbinden aan de omgevingsvergunningen voor activiteiten als bedoeld in artikel 1.3a, eerste lid, of voor inrichtingen die behoren tot een bij de verordening aangewezen categorie. Bij de verordening kan worden bepaald dat de daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.   
 2.  Regels als bedoeld in het eerste lid kunnen niet betrekking hebben op beslissingen inzake vergunningen ten aanzien waarvan Onze Minister of Onze Minister van Economische Zaken het bevoegd gezag is.   
 3.  Bij de verordening wordt bepaald in hoeverre het bevoegd gezag met betrekking tot daarbij aangegeven onderwerpen van bij de verordening gestelde regels kan afwijken of nadere eisen kan stellen. Daarbij kan worden bepaald dat de bevoegdheid tot afwijken of tot het stellen van nadere eisen slechts geldt in bij de verordening aangegeven categorieën van gevallen.   
 4.  Bij de verordening wordt voor de daarbij opgelegde verplichtingen het tijdstip aangegeven, waarop zij met betrekking tot de al verleende omgevingsvergunningen moeten zijn uitgevoerd.   
@@ -878,7 +878,7 @@ d. dat een uitoefening dan wel toepassing is genoemd of beschreven in, dan wel b
 
 a. de artikelen 1.2, 7.27, 7.35, 7.42 en 8.40, eerste lid;  
 
-b. de [artikelen 13](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md) en [16 van de Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md);  
+b. de artikelen 9.5.1 en 9.5.6;  
 
 c. de [artikelen 3.1](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
 
@@ -888,13 +888,15 @@ e. [artikel 9 van de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbred
 
 f. [artikel 2 van de Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md);  
 
-f. [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover die bevoegdheid betrekking heeft op: 
+g. [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover die bevoegdheid betrekking heeft op: 
 
 1°. activiteiten met betrekking tot een inrichting als bedoeld in [artikel 2.1, eerste lid, onder e, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
-2°. gevallen waarin van het bestemmingsplan wordt afgeweken met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of artikel 2.12, tweede lid, van die wet;    
+2°. activiteiten die op grond van [artikel 2.1, eerste lid, onder i, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), bij algemene maatregel van bestuur zijn aangewezen, voor zover die activiteiten plaatsvinden binnen een inrichting en voor zover dat bij die maatregel is bepaald;  
 
-g. [artikel 2.3 van de Crisis- en herstelwet](../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md).     
+3°. gevallen waarin van het bestemmingsplan wordt afgeweken met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of artikel 2.12, tweede lid, van die wet;    
+
+h. [artikel 2.3 van de Crisis- en herstelwet](../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md).     
 3.  Bij de uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift als bedoeld in het eerste lid, aanhef en onder c of d, gedurende de periode waar een programma als bedoeld in artikel 5.12, eerste lid, of  5.13, eerste lid, betrekking op heeft, vindt met betrekking tot de effecten van de desbetreffende ontwikkeling of het desbetreffende besluit op de luchtkwaliteit geen afzonderlijke beoordeling van de luchtkwaliteit plaats voor een in bijlage 2 opgenomen grenswaarde voor die periode, noch voor enig jaar daarna.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het in betekenende mate bijdragen als bedoeld in het eerste lid, aanhef en onder c, waaronder begrepen het aanwijzen van categorieën van gevallen die in ieder geval al dan niet in betekenende mate bijdragen in de daar bedoelde zin.   
 5.  Voor de toepassing van het eerste lid, aanhef en onder b, aanhef en sub 2, of onder c, voor zover het betreft de onlosmakelijk met een uitoefening of toepassing samenhangende maatregelen: 
@@ -1017,7 +1019,7 @@ Gereserveerd.
 ### Artikel  7.1  
 
 1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: Onze Ministers: Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Onderwijs, Cultuur en Wetenschap; de commissie: de Commissie voor de milieueffectrapportage.   
-2.  Tenzij anders is bepaald, wordt in de paragrafen 7.3 tot en met 7.5 en 7.7 tot met 7.12 in dit hoofdstuk verstaan onder: 
+2.  Tenzij anders is bepaald, wordt in de paragrafen 7.3 tot en met 7.5 en 7.7 tot en met 7.12 in dit hoofdstuk en de daarop berustende bepalingen verstaan onder: 
 
 a. activiteit: 
 
@@ -1626,7 +1628,7 @@ Het bevoegd gezag stelt Onze Minister zo spoedig mogelijk op de hoogte van een v
 
 1.  Deze paragraaf is van toepassing op stortplaatsen waarvoor een omgevingsvergunning is vereist, waar op of na 1 september 1996 afvalstoffen worden gestort, en 
 
-a. waarvoor een algemene maatregel van bestuur geldt als bedoeld in artikel 8.45, of  
+a. waarvoor een algemene maatregel van bestuur geldt als bedoeld in [artikel 2.22, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of  
 
 b. uitsluitend baggerspecie wordt gestort.     
 2.  Deze paragraaf is, met uitzondering van het eerste lid van dit artikel, van overeenkomstige toepassing op afvalvoorzieningen.   
@@ -1661,9 +1663,7 @@ b. gesloten afvalvoorzieningen waarin zich een mijnbouwwerk als bedoeld in [arti
 
 De rechthebbende ten aanzien van de plaats waar de in artikel 8.49 bedoelde zorg met betrekking tot een gesloten stortplaats wordt uitgevoerd, is verplicht te gedogen dat werkzaamheden worden verricht ten behoeve van die zorg, onverminderd zijn recht op schadevergoeding.  
 
-### Titel  8.4  
-
-####Regels met betrekking tot plaatsing van stortplaatsen op een lijst
+### Paragraaf  8.3  
 
 ### Artikel  8.52  
 
@@ -1761,13 +1761,13 @@ Een algemene maatregel van bestuur waarbij toepassing is gegeven aan artikel 9.2
 
 ### Artikel  9.2.2.3  
 
-1.  Indien toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder c, worden tevens bij algemene maatregel van bestuur regels gesteld betreffende de wijze waarop de aanvraag om een vergunning geschiedt, en de gegevens die van de aanvrager kunnen worden verlangd.   
-2.  De vergunning kan slechts in het belang van de bescherming van de gezondheid van de mens en van het milieu worden geweigerd.   
+1.  Indien toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder c, worden tevens bij algemene maatregel van bestuur regels gesteld betreffende het ter zake bevoegde gezag, de wijze waarop de aanvraag om een vergunning geschiedt, en de gegevens die van de aanvrager kunnen worden verlangd.   
+2.  De vergunning kan slechts worden geweigerd in het belang van de bescherming van de gezondheid van de mens en van het milieu, alsmede indien de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt.   
 3.  Op de voorbereiding van de beschikking op de aanvraag om een vergunning zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 van toepassing. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kunnen categorieën van gevallen worden aangewezen, waarin [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 geheel of gedeeltelijk buiten toepassing blijven.   
 4.  Een vergunning kan in het belang van de bescherming van de gezondheid van de mens en van het milieu onder beperkingen worden verleend. Aan een vergunning kunnen in het belang van de bescherming van de gezondheid van de mens en van het milieu voorschriften worden verbonden. Deze kunnen, voorzover bij de maatregel niet anders is bepaald, de verplichting inhouden te voldoen aan door bestuursorganen die bij het voorschrift zijn aangewezen, in het belang van de bescherming van de gezondheid van de mens en van het milieu gestelde nadere eisen. Bij het stellen van een zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.   
-5.  Onverminderd [artikel 5.19, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan een vergunning worden ingetrokken indien de handeling aanmerkelijk gevaar oplevert voor de gezondheid van de mens of voor het milieu en wijziging of aanvulling van de aan de vergunning verbonden voorschriften redelijkerwijs geen oplossing kan bieden.   
-6.  Voor zover bij algemene maatregel van bestuur is bepaald, kan de vergunning worden gewijzigd.   
-7.  Op de voorbereiding van een intrekking of wijziging als bedoeld in het vijfde lid, respectievelijk het zesde lid, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 niet van toepassing.   
+5.  Onverminderd [artikel 5.19, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan een vergunning worden ingetrokken indien de handeling aanmerkelijk gevaar oplevert voor de gezondheid van de mens of voor het milieu en wijziging of aanvulling van de aan de vergunning verbonden voorschriften redelijkerwijs geen oplossing kan bieden, alsmede indien de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt.   
+6.  Voor zover bij algemene maatregel van bestuur is bepaald, kan de vergunning in het belang van de bescherming van de gezondheid van de mens en van het milieu worden gewijzigd.   
+7.  Op de voorbereiding van een intrekking of wijziging als bedoeld in het vijfde lid, respectievelijk het zesde lid, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 niet van toepassing, tenzij uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt.   
 
 ### Artikel  9.2.2.4  
 
@@ -3016,7 +3016,7 @@ b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.
 
 ### Artikel  13.1  
 
-1.  Bij de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de voorbereiding van beschikkingen krachtens de in het tweede lid genoemde wetten of wettelijke bepalingen, wordt afdeling 13.2 in acht genomen, voor zover dat bij of krachtens de betrokken wet is bepaald.   
+1.  Bij de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de voorbereiding van beschikkingen krachtens deze wet en van beschikkingen krachtens de in het tweede lid genoemde wetten of wettelijke bepalingen, wordt afdeling 13.2 in acht genomen, voor zover dat bij of krachtens de betrokken wet is bepaald.   
 2.  De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn: de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), [hoofdstuk VIIa van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), de [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md), de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
 
 ### Afdeling  13.2  
@@ -4751,8 +4751,8 @@ d. het verwijderen van personen, dieren, planten of goederen uit bepaalde gebied
 
 ### Artikel  18.1a  
 
-1.  De artikelen 5.3 tot en met 5.16 en de [artikelen 5.18 tot en met 5.26 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens deze wet.   
-2.  Artikel 18.18 van deze wet en de artikelen 5.3 tot en met 5.16 en de [artikelen 5.18 tot en met 5.26 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van overeenkomstige toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens: 
+1.  De [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en de [artikelen 5.18 tot en met 5.26 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens deze wet.   
+2.  Artikel 18.18 van deze wet en de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en de [artikelen 5.18 tot en met 5.26 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van overeenkomstige toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens: 
 
 a. de EG-verordening overbrenging van afvalstoffen;  
 
@@ -5151,7 +5151,7 @@ Voor de uitvoering van deze wet ten aanzien van gebieden die niet deel uitmaken 
 3.  De voordracht voor een algemene maatregel van bestuur krachtens paragraaf 2.2, hoofdstuk 7 of paragraaf 14.2, wordt Ons gedaan door Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Onderwijs, Cultuur en Wetenschap. De voordracht voor een algemene maatregel van bestuur krachtens titel 12.1 wordt Ons gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot hun verantwoordelijkheid behoren, Onze Ministers van Verkeer en Waterstaat, van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken. Indien het een of meer inrichtingen betreft, die onder Onze Minister van Defensie ressorteren, wordt de voordracht voor een algemene maatregel van bestuur krachtens de artikelen 12.1, tweede lid, 12.4 en 12.5 Ons mede door hem gedaan.   
 4.  Het ontwerp van een algemene maatregel van bestuur krachtens artikel 1.1, eerste, derde, zesde, zevende of achtste lid, 2.2, derde lid, 5.1, eerste lid, 5.2b, vijfde lid, 5.3, eerste lid, 7.2, eerste lid, 8.40, 8.49, vijfde lid, 9.2.1.3, tweede lid, 9.2.1.4, 9.2.2.1, eerste lid, 9.2.3.1, derde lid, 9.2.3.2, 9.2.3.3, vierde lid, 9.5.2, 10.2, tweede lid, 10.22, tweede lid, 10.28, eerste lid, 10.29, eerste lid, 10.30, derde lid, 10.32, 10.41, eerste en tweede lid, 10.42, eerste lid, 10.43, eerste lid, 10.44, derde lid, 10.46, eerste lid, 10.47, eerste lid, 10.48, eerste lid, 10.51, eerste lid, 10.52, eerste lid, 10.54, derde lid, 10.61, eerste lid, 12.10, tweede lid, 12.12, tweede en vierde lid, 12.13, tweede en derde lid, 12.16, derde lid, 12.20a, eerste lid, 12.29, 15.13, eerste lid, 15.32, eerste of tweede lid, 15.46, vijfde lid, 16.1, derde lid, 16.12, tweede lid, in verbinding met 16.49, tweede lid, 16.5016.53, tweede lid, 17.7 of 21.4 wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.   
 5.  Een algemene maatregel van bestuur als bedoeld in het vierde lid wordt, nadat hij is vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Hij treedt niet eerder in werking dan vier weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Een krachtens artikel 5.1, eerste lid, vastgestelde algemene maatregel van bestuur treedt in werking op een tijdstip dat, nadat vier weken na de toezending ervan aan de beide kamers der Staten-Generaal zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers der Staten-Generaal of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het in de algemene maatregel van bestuur geregelde onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend en wordt de algemene maatregel van bestuur onverwijld ingetrokken.   
-6.  Hetgeen ingevolge deze wet bij algemene maatregel van bestuur kan worden geregeld, wordt in afwijking daarvan bij ministeriële regeling geregeld, indien de regels uitsluitend strekken ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, tenzij voor een juiste uitvoering wijziging van een algemene maatregel van bestuur of de wet noodzakelijk is. Indien wijziging van een algemene maatregel van bestuur noodzakelijk is, wordt daarvan, gelijktijdig met de voordracht aan Ons, gemotiveerd kennis gegeven aan de beide kamers der Staten-Generaal, onder vermelding van de korte inhoud van de voorgenomen algemene maatregel van bestuur. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Op de vaststelling van een ministeriële regeling zijn het tweede en het derde lid van overeenkomstige toepassing.   
+6.  Hetgeen ingevolge deze wet bij algemene maatregel van bestuur kan worden geregeld, wordt in afwijking daarvan bij ministeriële regeling geregeld, indien de regels uitsluitend strekken ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, tenzij voor een juiste uitvoering wijziging van een algemene maatregel van bestuur of de wet noodzakelijk is. Indien wijziging van een algemene maatregel van bestuur noodzakelijk is, wordt daarvan, gelijktijdig met de voordracht aan Ons, gemotiveerd kennis gegeven aan de beide kamers der Staten-Generaal, onder korte vermelding van de inhoud van de voorgenomen algemene maatregel van bestuur. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Op de vaststelling van een ministeriële regeling zijn het tweede en het derde lid van overeenkomstige toepassing.   
 7.  Het tweede tot en met vijfde lid en het zesde lid, tweede, derde en vierde volzin, gelden niet voor een algemene maatregel van bestuur krachtens artikel 8.40, voorzover deze uitsluitend betrekking heeft op inrichtingen die een krachtens [artikel 1 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) aangewezen mijnbouwwerk zijn. De voordracht voor een algemene maatregel van bestuur wordt Ons in dit geval gedaan door Onze Minister van Economische Zaken. Bij toepassing in dit geval van het zesde lid, eerste volzin, wordt de ministeriële regeling vastgesteld door Onze Minister van Economische Zaken.   
 
 ### Artikel  21.7  

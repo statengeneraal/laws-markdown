@@ -479,6 +479,10 @@ Het Besluit voorschrift informatiebeveiliging rijksdienst 1994 is van toepassing
 3.  Indien het CBR naar het oordeel van Onze Minister zijn taak ernstig verwaarloost of in gevaar brengt, kan Onze Minister, gehoord het CBR, de noodzakelijke voorzieningen treffen.   
 4.  Over de uitoefening van het toezicht op het CBR door Onze Minister kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld.   
 
+### Artikel  4z1  
+
+Bij de toepassing van de taken op het gebied van de beoordeling van de rijvaardigheid, neemt het CBR de bij ministeriële regeling aangewezen richtlijn, of de aangewezen onderdelen daarvan, in acht.  
+
 ### Hoofdstuk  IC  
 
 ####Toezicht op keuringsinstellingen en onderzoeksgerechtigden
@@ -873,7 +877,7 @@ d. behoorlijk leesbaar te zijn.
 a. voor zover het betreft een motorrijtuig, de eigenaar of houder die het motorrijtuig op de weg laat staan of daarmee over de weg laat rijden, alsmede in het geval dat met dat motorrijtuig over de weg wordt gereden, de bestuurder, en  
 
 b. voor zover het betreft een aanhangwagen, de eigenaar of houder die de aanhangwagen op de weg laat staan of deze met een motorrijtuig over de weg laat voortbewegen, alsmede in het geval dat de aanhangwagen met een motorrijtuig over de weg wordt voortbewogen, de bestuurder van dat motorrijtuig.     
-7.  De in het derde lid, onderdeel *a*, bedoelde eisen kunnen mede dienstbaar zijn aan de heffing van de belasting van personenauto’s en motorrijwielen en van de motorrijtuigenbelasting. Op het kentekenbewijs wordt in ieder geval het verschuldigde bedrag van de belasting van personenauto’s en motorrijwielen vermeld.   
+7.  De in het derde lid, onderdeel *a*, bedoelde eisen kunnen mede dienstbaar zijn aan de heffing van de belasting van personenauto’s en motorrijwielen en van de motorrijtuigenbelasting.   
 8.  Bij ministeriële regeling worden nadere regels vastgesteld ter uitvoering van het eerste en het tweede lid.   
 
 ### Artikel  37  
@@ -1518,7 +1522,7 @@ Het is verboden ten opzichte van een motorrijtuig of een aanhangwagen opzettelij
 ### Artikel  75  
 
 1.  Een keuringsbewijs wordt door degene die ingevolge artikel 78 met de afgifte van keuringsrapporten is belast, afgegeven op aanvraag en tegen betaling op de door deze vastgestelde wijze van het door deze vastgestelde tarief indien het motorrijtuig of de aanhangwagen heeft voldaan aan de eisen die ingevolge artikel 71, onderdeel c, aan dat voertuig worden gesteld, voorzover deze eisen niet ingevolge het tweede lid buiten toepassing blijven. Het hiervoor bedoelde tarief omvat mede een door de Dienst Wegverkeer vastgesteld bedrag ter zake van het attenderen door deze dienst op de in artikel 72 opgenomen verplichting. Indien degene die met de afgifte van keuringsrapporten is belast een persoon is als bedoeld in artikel 78, eerste lid, onder b, draagt deze dit bedrag af aan de Dienst Wegverkeer op de door deze dienst vastgestelde wijze.   
-2.  Bij algemene maatregel van bestuur kan onder daarbij te stellen voorwaarden worden bepaald dat voor nader aangewezen groepen van motorrijtuigen - zolang gerekend vanaf het tijdstip waarop deze voertuigen voor het eerst op de weg zijn toegelaten, nog geen bij algemene maatregel van bestuur vast te stellen termijn die ten hoogste drie jaren bedraagt, is verstreken - ten behoeve van de afgifte van een keuringsbewijs slechts behoeft te worden voldaan aan de in het eerste lid, onderdeel a, bedoelde eisen die betrekking hebben op het bestrijden van luchtverontreiniging. Bij algemene maatregel van bestuur kan nader worden bepaald op welk tijdstip een voertuig geacht wordt voor het eerst op de weg te zijn toegelaten.   
+2.  Bij algemene maatregel van bestuur kan onder daarbij te stellen voorwaarden worden bepaald dat voor nader aangewezen groepen van motorrijtuigen - zolang gerekend vanaf het tijdstip waarop deze voertuigen voor het eerst op de weg zijn toegelaten, nog geen bij algemene maatregel van bestuur vast te stellen termijn die ten hoogste drie jaren bedraagt, is verstreken - ten behoeve van de afgifte van een keuringsbewijs slechts behoeft te worden voldaan aan de ingevolge artikel 71 gestelde eisen die betrekking hebben op het bestrijden van luchtverontreiniging. Bij algemene maatregel van bestuur kan nader worden bepaald op welk tijdstip een voertuig geacht wordt voor het eerst op de weg te zijn toegelaten.   
 3.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de in het tweede lid bedoelde voorwaarden en groepen van motorrijtuigen.   
 
 ### Artikel  76  

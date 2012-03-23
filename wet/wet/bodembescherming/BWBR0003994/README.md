@@ -171,7 +171,7 @@ Bij algemene maatregel van bestuur kunnen in het belang van de bescherming van d
 
 ### Artikel  12  
 
-1.  Bij algemene maatregel van bestuur worden ten aanzien van het infiltreren van water, bedoeld in [artikel 6.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), regels gesteld waarin wordt aangegeven: 
+1.  Bij algemene maatregel van bestuur worden ten aanzien van het infiltreren van water, bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), regels gesteld waarin wordt aangegeven: 
 
 a. in welke gevallen sprake is van gevaar voor verontreiniging van het grondwater, als bedoeld in [artikel 6.26, tweede lid, van die wet](../../../../wet/waterwet/BWBR0025458/README.md);  
 
@@ -266,7 +266,7 @@ Indien een onmiddellijke voorziening geboden is, kan Onze Minister in het belang
 ### Artikel  27  
 
 1.  Degene die op of in de bodem handelingen verricht als bedoeld in de artikelen 6 tot en met 11 en daarbij kennis neemt van een verontreiniging of aantasting van de bodem die door die handelingen wordt veroorzaakt, maakt zo spoedig mogelijk melding van de verontreiniging of de aantasting bij gedeputeerde staten van de provincie waar zij plaatsvindt, en geeft daarbij aan welke van de in artikel 13 bedoelde maatregelen hij voornemens is te treffen of reeds heeft getroffen.   
-2.  In een geval als bedoeld in het eerste lid kunnen gedeputeerde staten aanwijzingen geven met betrekking tot de te nemen maatregelen. Gedeputeerde staten kunnen tevens een aanwijzing geven tot het laten beoordelen van de reinigbaarheid van de verontreinigde grond op een bij die aanwijzing te bepalen wijze. Tenzij de geboden spoed zich daartegen verzet, geven gedeputeerde staten geen aanwijzing tot het afgraven van verontreinigde bodem, dan nadat zij kennis hebben genomen van het resultaat van de beoordeling van de reinigbaarheid van die bodem.   
+2.  In een geval als bedoeld in het eerste lid kunnen gedeputeerde staten aanwijzingen geven met betrekking tot de te nemen maatregelen. Gedeputeerde staten kunnen tevens een aanwijzing geven tot het laten beoordelen van de reinigbaarheid en de immobiliseerbaarheid van de verontreinigde grond op een bij die aanwijzing te bepalen wijze. Tenzij de geboden spoed zich daartegen verzet, geven gedeputeerde staten geen aanwijzing tot het afgraven van verontreinigde bodem, dan nadat zij kennis hebben genomen van het resultaat van de beoordeling van de reinigbaarheid en de immobiliseerbaarheid van die bodem.   
 3.  Degene die bij de handelingen is betrokken, maakt terstond melding van de verontreiniging of de aantasting bij degene die de handelingen verricht, dan wel bij gedeputeerde staten van de provincie waar zij plaatsvindt.   
 4.  Gedeputeerde staten stellen zo spoedig mogelijk burgemeester en wethouders van de gemeente waar zich de verontreiniging of de aantasting voordoet, op de hoogte van de meldingen die bij hen overeenkomstig het eerste of het derde lid zijn gedaan.   
 
@@ -283,9 +283,9 @@ c. het tijdstip waarop met de handelingen, bedoeld in het eerste lid, zal worden
 
 d. indien verontreinigd grondwater zal worden onttrokken, de bestemming van dat grondwater;  
 
-e. indien verontreinigde bodem zal worden afgegraven, de bestemming van de grond en of de verontreinigde grond zal worden gereinigd;  
+e. indien verontreinigde bodem zal worden afgegraven, de bestemming van de grond en of de verontreinigde grond zal worden gereinigd of geïmmobiliseerd;  
 
-f. indien de verontreinigde bodem geheel of gedeeltelijk niet zal worden gereinigd, wordt tevens een beoordeling van de reinigbaarheid van de verontreinigde grond overgelegd.     
+f. indien de verontreinigde bodem geheel of gedeeltelijk niet zal worden gereinigd, wordt tevens een beoordeling van de reinigbaarheid of de immobiliseerbaarheid van de verontreinigde grond overgelegd.     
 3.  Een melding als bedoeld in het eerste lid kan achterwege blijven, indien de betrokkene redelijkerwijs kan aannemen dat de sanering of de handeling waarop zijn voornemen betrekking heeft geen geval van ernstige verontreiniging betreft en tevens vaststaat: 
 
 1°. dat de betreffende hoeveelheid verontreinigde grond of verontreinigd grondwater 50 kubieke meter onderscheidenlijk 1000 kubieke meter niet te boven gaat, of  
@@ -299,7 +299,7 @@ f. indien de verontreinigde bodem geheel of gedeeltelijk niet zal worden gereini
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent: 
 
-a. de beoordeling van de reinigbaarheid van verontreinigde grond, bedoeld in de artikelen 27 en 28 van deze wet of in een algemene maatregel van bestuur krachtens [artikel 8.40 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+a. de beoordeling van de reinigbaarheid of de immobiliseerbaarheid van verontreinigde grond, bedoeld in de artikelen 27 en 28 van deze wet of in een algemene maatregel van bestuur krachtens [artikel 8.40 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
 b. de wijze van indeling in partijen van de verontreinigde bodem op de te ontgraven locatie.    
 
@@ -568,9 +568,9 @@ Gedeputeerde staten zijn belast met het oriënterend onderzoek en het nader onde
 
 a. de eigendom of het gebruik van onroerende zaken, gelegen binnen het grondgebied waarop zich in dat geval de oorzaak van de verontreiniging bevindt, dan wel de verontreiniging of de directe gevolgen daarvan zich voordoen;  
 
-b. beperkte rechten, waaraan zaken als bedoeld onder *a* onderworpen zijn, dan wel het gebruik daarvan.     
+b. beperkte rechten, waaraan zaken als bedoeld onder a onderworpen zijn, dan wel het gebruik daarvan.     
 2.  Alvorens gedeputeerde staten een verzoek doen als bedoeld in het eerste lid, trachten zij hetgeen gevorderd moet worden, bij minnelijke schikking te verkrijgen. Bij hun verzoek doen zij verslag van het daaromtrent met de betrokken rechthebbenden gevoerde overleg. Onze Minister oefent de hem in het eerste lid toegekende bevoegdheden niet uit dan nadat hij aan de Staten-Generaal kennis heeft gegeven van zijn voornemen daartoe; daarbij legt hij het in de tweede volzin bedoelde verslag over.   
-3.  De [Vorderingswet](../../../../wet/vorderingswet/BWBR0002393/README.md) is van toepassing, met dien verstande dat de artikelen 3, 3 *a*, 5, 9, derde lid, en 13, derde lid, tweede volzin, buiten toepassing blijven.   
+3.  De [Vorderingswet](../../../../wet/vorderingswet/BWBR0002393/README.md) is van toepassing, met dien verstande dat de [artikelen 3](../../../../wet/vorderingswet/BWBR0002393/README.md), [3a](../../../../wet/vorderingswet/BWBR0002393/README.md), [5](../../../../wet/vorderingswet/BWBR0002393/README.md), [9, derde lid](../../../../wet/vorderingswet/BWBR0002393/README.md), en [13, derde lid, tweede volzin](../../../../wet/vorderingswet/BWBR0002393/README.md), buiten toepassing blijven.   
 4.  Bij de bepaling van de schadeloosstelling blijft de verontreiniging van de bodem buiten beschouwing, voor zover de schade niet aan de tot schadeloosstelling gerechtigde is toe te rekenen, dan wel voor zover deze daardoor niet ongerechtvaardigd wordt verrijkt.   
 5.  Degene te wiens behoeve is gevorderd, betaalt aan de rechthebbende met wie over de vaststelling van het bedrag van de schadeloosstelling niet in het overleg overeenkomstig [artikel 17 van de Vorderingswet](../../../../wet/vorderingswet/BWBR0002393/README.md) overeenstemming is bereikt, of die niet aan dat overleg heeft deelgenomen, een voorschot op die schadeloosstelling ten bedrage van 90 procent van het hem als schadeloosstelling aangeboden bedrag.   
 

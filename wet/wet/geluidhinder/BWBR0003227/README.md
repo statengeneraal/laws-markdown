@@ -171,14 +171,14 @@ b. de waarde van wat ten tijde van de eerste zonevaststelling geprojecteerde won
 1.  Bij de vaststelling van een bestemmingsplan of van een wijzigings- of uitwerkingsplan als bedoeld in [artikel 3.6, eerste lid, onder a of b, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) dat geheel of gedeeltelijk betrekking heeft op gronden die krachtens die vaststelling gaan of blijven behoren tot een zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone de waarden in acht genomen, die ingevolge artikel 44, onderscheidenlijk 47, eerste lid, als de ten hoogste toelaatbare worden aangemerkt.   
 2.  In afwijking van het eerste lid worden bij de vaststelling van een bestemmingsplan of van een wijzigings- of uitwerkingsplan als in dat lid bedoeld hogere waarden in acht genomen, voor zover: 
 
-a. eerder bij of krachtens artikel 45, 46, 47, tweede lid, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) of de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) voor de vaststelling van het bestemmingsplan zodanige waarden zijn vastgesteld;  
+a. eerder bij of krachtens artikel 45, 46, 47, tweede lid, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) of de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) voor de vaststelling van het bestemmingsplan of het wijzigings- of uitwerkingsplan zodanige waarden zijn vastgesteld;  
 
 b. zodanige waarden noodzakelijk zijn als gevolg van een vaststelling van het plan in afwijking van het ontwerp, zoals dit ter inzage heeft gelegen, welke waarden door gedeputeerde staten redelijkerwijs met toepassing van de artikelen 45, 46 of 47, tweede lid, zullen worden vastgesteld.     
 3.  De artikelen 42 en 43 zijn van overeenkomstige toepassing in geval van vaststelling van een bestemmingsplan of van een wijzigings- of uitwerkingsplan dat geheel of gedeeltelijk betrekking heeft op gronden, reeds behorende tot een krachtens artikel 40 vastgestelde zone.   
 
 ### Artikel  49  
 
-Bij het nemen van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden die behoren tot een zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone de waarden in acht genomen, die bij of krachtens de artikelen 44 tot en met 47, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) alsmede de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) als de ten hoogste toelaatbare worden aangemerkt.  
+Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden die behoren tot een zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone de waarden in acht genomen, die bij of krachtens de artikelen 44 tot en met 47, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) alsmede de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) als de ten hoogste toelaatbare worden aangemerkt.  
 
 ### §  3  
 
@@ -224,13 +224,13 @@ De artikelen 41 tot en met 43 en 47 zijn van overeenkomstige toepassing op het w
 ### Artikel  55  
 
 1.  Bij wijziging van een bestaande zone of bij vaststelling van een bestemmingsplan voor gronden die krachtens die vaststelling deel blijven uitmaken van de bestaande zone kan met betrekking tot de woningen in dat gebied, de waarde van de op grond van artikel 53, tweede lid, geldende ten hoogste toelaatbare geluidsbelasting worden gewijzigd.   
-2.  Bij algemene maatregel van bestuur kan worden bepaald dat de bevoegdheid, bedoeld in het eerste lid, enkel in bij die maatregel aan te geven gevallen kan worden toegepast.   
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat de bevoegdheid, bedoeld in het eerste en vierde lid, enkel in bij die maatregel aan te geven gevallen kan worden toegepast.   
 3.  Een verhoging van de in het eerste lid bedoelde waarde mag ten hoogste 5 dB(A) bedragen, met dien verstande dat: 
 
 a. degene ten behoeve van wie de waarde wordt verhoogd heeft verklaard dat hij uiterlijk gelijktijdig met de verhoging financiële middelen ter beschikking stelt ten behoeve van de uitvoering van maatregelen om de geluidsbelasting vanwege het industrieterrein, van de gevels van woningen die door de wijziging van de bestaande zone dan wel vaststelling van het bestemmingsplan een hogere geluidsbelasting ondervinden te beperken en te voldoen aan artikel 111, eerste lid, onder a of b, en  
 
 b. de waarde wat ten tijde van de eerste zonevaststelling geprojecteerde woningen betreft 55 dB(A) en wat ten tijde van de eerste zonevaststelling aanwezige of in aanbouw zijnde woningen betreft 60 dB(A) niet te boven mag gaan.     
-4.  Bij wijziging van een bestaande zone, bij vaststelling van een bestemmingsplan voor gronden die krachtens die vaststelling deel gaan uitmaken van de bestaande zone, kan in bij algemene maatregel van bestuur aan te geven gevallen met betrekking tot geprojecteerde, aanwezige of in aanbouw zijnde woningen in dat gebied, een hogere waarde dan 50 dB(A) worden vastgesteld, met dien verstande dat deze waarde voor geprojecteerde woningen de waarde 55 dB(A) en voor wat aanwezige of in aanbouw zijnde woningen betreft 60 dB(A) niet te boven mag gaan.   
+4.  Bij wijziging van een bestaande zone, bij vaststelling van een bestemmingsplan voor gronden die krachtens die vaststelling deel gaan uitmaken van de bestaande zone, kan met betrekking tot geprojecteerde, aanwezige of in aanbouw zijnde woningen in dat gebied, een hogere waarde dan 50 dB(A) worden vastgesteld, met dien verstande dat deze waarde voor geprojecteerde woningen de waarde 55 dB(A) en voor wat aanwezige of in aanbouw zijnde woningen betreft 60 dB(A) niet te boven mag gaan.   
 
 ### Artikel  56  
 
@@ -262,7 +262,7 @@ b. zodanige waarden noodzakelijk zijn als gevolg van een vaststelling van het pl
 
 ### Artikel  58  
 
-Bij het nemen van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden die behoren tot een bestaande zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone, de waarden in acht genomen, die op het tijdstip van de vaststelling van de bestaande zone als de ten hoogste toelaatbare werden aangemerkt.  
+Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden die behoren tot een bestaande zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone, de waarden in acht genomen, die op het tijdstip van de vaststelling van de bestaande zone als de ten hoogste toelaatbare werden aangemerkt.  
 
 ### §  4  
 
@@ -389,14 +389,14 @@ b. wegen waarvoor een maximum snelheid van 30 km per uur geldt.
 1.  Bij de vaststelling van een bestemmingsplan of van een wijzigings- of uitwerkingsplan als bedoeld in [artikel 3.6, eerste lid, onder a of b, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) dat geheel of gedeeltelijk betrekking heeft op gronden, behorende tot een zone als bedoeld in artikel 74, worden ter zake van de geluidsbelasting, vanwege de weg waarlangs die zone ligt, van de gevel van woningen, van andere geluidsgevoelige gebouwen en van geluidsgevoelige terreinen binnen die zone de waarden in acht genomen, die ingevolge artikel 82 en 100 als de ten hoogste toelaatbare worden aangemerkt.   
 2.  In afwijking van het eerste lid worden bij de vaststelling van een bestemmingsplan of van een wijzigings- of uitwerkingsplan als in dat lid bedoeld hogere waarden in acht genomen, voor zover: 
 
-a. met toepassing van artikel 83, 85 of 100a voor de vaststelling van het bestemmingsplan zodanige waarden zijn vastgesteld, dan wel  
+a. met toepassing van artikel 83, 85 of 100a voor de vaststelling van het bestemmingsplan of het wijzigings- of uitwerkingsplan zodanige waarden zijn vastgesteld, dan wel  
 
 b. zodanige waarden noodzakelijk zijn als gevolg van een vaststelling van het plan in afwijking van het ontwerp, zoals dit ter inzage heeft gelegen, welke waarden redelijkerwijs met toepassing van artikel 83, 85 of 100a, zullen worden vastgesteld.     
 3.  Indien op het tijdstip van de vaststelling van een bestemmingsplan of van een wijzigings- of uitwerkingsplan een weg reeds aanwezig of in aanleg is, gelden het eerste en tweede lid niet met betrekking tot de daarbij in het plan of in de zone van de betreffende weg opgenomen woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen, die op dat tijdstip reeds aanwezig of in aanbouw zijn.   
 
 ### Artikel  76a  
 
-Bij het nemen van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden, behorende tot een zone als bedoeld in artikel 74, worden ter zake van de geluidsbelasting, vanwege de weg waarlangs die zone ligt, van de gevel van woningen, van andere geluidsgevoelige gebouwen of aan de grens van geluidsgevoelige terreinen binnen die zone de waarden in acht genomen, die ingevolge de artikelen 82, 83, 85, 100 en 100a als de ten hoogste toelaatbare worden aangemerkt.  
+Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden, behorende tot een zone als bedoeld in artikel 74, worden ter zake van de geluidsbelasting, vanwege de weg waarlangs die zone ligt, van de gevel van woningen, van andere geluidsgevoelige gebouwen of aan de grens van geluidsgevoelige terreinen binnen die zone de waarden in acht genomen, die ingevolge de artikelen 82, 83, 85, 100 en 100a als de ten hoogste toelaatbare worden aangemerkt.  
 
 ### Artikel  77  
 
@@ -517,15 +517,13 @@ l. aanpassing van een spoorweg: een aanpassing met betrekking tot een aanwezige 
 2.  Een gymnastieklokaal maakt voor de toepassing van deze afdeling geen deel uit van de in het eerste lid, onder e, 1°, bedoelde scholen.   
 3.  Onder aanpassing van een spoorweg wordt in deze afdeling niet verstaan de afzonderlijke omstandigheid die bestaat uit: 
 
-a. een verhoging van de intensiteit in het toekomstig maatgevende jaar van minder dan 45% ten opzichte van het driejaars gemiddelde voorafgaand aan de verandering, van door Onze Minister te bepalen categorieën spoorvoertuigen op een bepaald spoorweggedeelte of een combinatie van spoorweggedeelten, in één of meer perioden van het etmaal;  
+a. een wijziging van de intensiteit, de verkeerssnelheid of een combinatie van beide in het toekomstig maatgevende jaar van door Onze Minister te bepalen categorieën spoorvoertuigen op een bepaald spoorweggedeelte of een combinatie van spoorweggedeelten als gevolg waarvan de geluidemissie van de betreffende spoorgedeelten of de combinatie daarvan onafgerond niet meer dan 1,0 dB toeneemt ten opzichte van de gemiddelde geluidemissie, bepaald volgens bij ministeriële regeling te stellen regels, van de drie jaren voorafgaand aan de wijziging;  
 
-b. een verhoging van 20% of minder van de verkeerssnelheid van door Onze Minister te bepalen categorieën spoorvoertuigen op een bepaald spoorweggedeelte of een combinatie van spoorweggedeelten, in één of meer perioden van het etmaal;  
+b. een horizontale verplaatsing van de spoorstaven over een afstand kleiner dan twee meter;  
 
-c. een horizontale verplaatsing van de spoorstaven over een afstand kleiner dan twee meter;  
+c. een verticale verplaatsing van de spoorstaven over een afstand kleiner dan één meter, dan wel  
 
-d. een verticale verplaatsing van de spoorstaven over een afstand kleiner dan één meter, dan wel  
-
-e. het ter vervanging aanbrengen van een baanconstructie, die, bepaald met inachtneming van de door Onze Minister op grond van artikel 107 gestelde regels, niet meer geluid emitteert dan de te vervangen constructie.     
+d. het ter vervanging aanbrengen van een baanconstructie, die, bepaald met inachtneming van de door Onze Minister op grond van artikel 107 gestelde regels, niet meer geluid emitteert dan de te vervangen constructie.     
 4.  Overwegende bezwaren van financiële aard bestaan voor de toepassing van deze afdeling niet tegen maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen, onderscheidenlijk aan de grens van geluidsgevoelige terreinen, waarvan de kosten in redelijke verhouding staan tot kwaliteit, aard en gebruik van de woning, het andere geluidsgevoelige gebouw of het geluidsgevoelige terrein en tot de doeltreffendheid van die maatregelen.   
 5.  Bij ministeriële regeling kunnen Onze Minister en Onze Minister van Verkeer en Waterstaat nadere regels stellen voor de toepassing van het criterium, bedoeld in het vierde lid.   
 
@@ -686,8 +684,8 @@ b. de eerder vastgestelde waarde.
 
 ### Artikel  89  
 
-1.  Burgemeester en wethouders of indien toepassing wordt gegeven aan artikel 98 burgemeester en wethouders of de wegaanlegger stellen uitsluitend ten aanzien van de woningen die op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007 aan Onze Minister zijn gemeld, met inachtneming van de regels, gegeven krachtens het derde lid, een programma op van maatregelen die naar hun oordeel in aanmerking komen om de geluidsbelasting, vanwege de weg, van de gevels van de op grond van artikel 88, zoals dat luidde voor 1 januari 2007 gemelde woningen zoveel mogelijk te beperken tot 48 dB en om zo nodig te voldoen aan artikel 111, derde lid.   
-2.  Met betrekking tot gevallen, bedoeld in artikel 88, worden bij of krachtens algemene maatregel van bestuur regels gegeven omtrent het tijdstip van melding van die gevallen, de aard van de maatregelen die in aanmerking komen, en de omstandigheden waaronder dit het geval is, alsmede omtrent de opzet en het tijdstip van vaststelling van een programma.   
+1.  Burgemeester en wethouders of indien toepassing wordt gegeven aan artikel 98 burgemeester en wethouders of de wegaanlegger stellen uitsluitend ten aanzien van de woningen die op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007 aan Onze Minister zijn gemeld, met inachtneming van de regels, gegeven krachtens het derde lid, een programma op van maatregelen die naar hun oordeel in aanmerking komen om de geluidsbelasting, vanwege de weg, van de gevels van de op grond van artikel 88, zoals dat luidde voor 1 januari 2007 gemelde woningen zoveel mogelijk te beperken tot 48 dB en om zo nodig te voldoen aan artikel 111, tweede lid.   
+2.  Met betrekking tot gevallen, die aan Onze Minister zijn gemeld op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007, worden bij of krachtens algemene maatregel van bestuur regels gegeven omtrent de aard van de maatregelen die in aanmerking komen en de omstandigheden waaronder dit het geval is, alsmede omtrent de opzet en het tijdstip van vaststelling van een programma.   
 
 ### Artikel  90  
 
