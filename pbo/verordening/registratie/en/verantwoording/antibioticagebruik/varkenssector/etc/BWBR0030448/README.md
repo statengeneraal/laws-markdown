@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Vee en Vlees van 30 juni 2011 houdende verplichtingen tot registratie en verantwoording van het gebruik van antibiotica in de varkenssector (Verordening registratie en verantwoording antibioticagebruik varkenssector (PVV) 2011)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 93, 95 en 104 van de Wet op de bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Productschap Vee en Vlees;
 
 Gehoord de Adviescommissie Varkens en de Commissie Varkenshouderij,
 Besluit:    
@@ -13,8 +13,8 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| a.  | UBN  | :  | uniek bedrijfsnummer als gedefinieerd in [artikel 1, onder ee., van de Regeling identificatie en registratie dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2004, 242);  |
+|---|---|---|---|
+| a.  | UBN  | :  | uniek bedrijfsnummer als gedefinieerd in artikel 1, onder ee., van de Regeling identificatie en registratie dieren (Stcrt. 2004, 242);  |
 | b.  | varken  | :  | dier behorende tot de familie Suidae (Gray, 1821);  |
 | c.  | antibioticum  | :  | antimicrobieel diergeneesmiddel;  |
 | d.  | ondernemer  | :  | natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld;  |
@@ -42,11 +42,11 @@ naam en registratienummer van de dierenarts;
 
 de datum van levering van het antibioticum, naam en nummer van het middel, EAN-code en hoeveelheid;  
 
-leeftijdscategorie van de varkens waaraan de antibiotica is toegediend;  
+diercategorie van de varkens ten behoeve waarvan de antibiotica is geleverd;  
 
-het gemiddelde aantal gehouden varkens per dag, berekend over het voorgaande kalenderjaar, dat gehouden wordt op het bedrijf met het desbetreffende UBN.     
+het gemiddelde aantal gehouden varkens per dag, afgeleid van het totaal aantal gehouden varkens per diercategorie bepaald over het voorgaande kalenderjaar, dat gehouden wordt op het bedrijf met het desbetreffende UBN.     
 3.  De voorzitter kan namens het bestuur, in aanvulling op het bepaalde in het tweede lid, bij besluit bepalen welke gegevens moeten worden doorgegeven aan de databank.   
-4.  De houder die deelneemt aan een erkend kwaliteitssysteem, heeft met de tijdige doorgifte van de gegevens als bedoeld in het tweede lid door de regelinghouder voldaan aan de verplichting als voorzien in het eerste lid.   
+4.  De houder die gecertificeerd deelneemt aan een erkend kwaliteitssysteem, heeft met de tijdige doorgifte van de gegevens als bedoeld in het tweede lid door de regelinghouder voldaan aan de verplichting als voorzien in het eerste lid.   
 5.  Het in het eerste lid en in het derde lid bedoelde besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 ####Diergezondheid
@@ -57,7 +57,7 @@ het gemiddelde aantal gehouden varkens per dag, berekend over het voorgaande kal
 2.  De houder voert zijn bedrijf met inachtneming van het opgestelde bedrijfsgezondheidsplan en bedrijfsbehandelplan als bedoeld in het eerste lid.   
 3.  De houder legt de afspraken met zijn dierenarts inzake het antibioticagebruik op het bedrijf vast in het bedrijfsbehandelplan zodat deze afspraken te allen tijde kunnen worden ingezien tijdens een controle of tijdens het toezicht op de naleving.   
 4.  De houder draagt er voor zorg dat het bedrijfsgezondheidsplan en het bedrijfsbehandelplan jaarlijks worden geëvalueerd en waar nodig worden herzien, en het meest actuele bedrijfsgezondheidsplan en bedrijfsbehandelplan op het bedrijf beschikbaar is voor controledoeleinden.   
-5.  De houder die deelneemt aan een enkend kwaliteitssysteem en heeft voldaan aan de binnen het kwaliteitssysteem geldende bepalingen inzake een bedrijfsgezondheidsplan en bedrijfsbehandelplan, heeft voldaan aan de verplichtingen als voorzien in dit artikel.   
+5.  De houder die gecertificeerd deelneemt aan een enkend kwaliteitssysteem en heeft voldaan aan de binnen het kwaliteitssysteem geldende bepalingen inzake een bedrijfsgezondheidsplan en bedrijfsbehandelplan, heeft voldaan aan de verplichtingen als voorzien in dit artikel.   
 6.  Het in het eerste lid bedoelde besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 ####Kwaliteitssysteem
@@ -72,7 +72,7 @@ het gemiddelde aantal gehouden varkens per dag, berekend over het voorgaande kal
 ### Artikel  5  
 
 1.  De houder is verplicht zich jaarlijks op eigen kosten te laten controleren door een door de voorzitter erkende controle-instantie op de naleving van het bij of krachtens deze verordening bepaalde.   
-2.  De houder die deelneemt aan een erkend kwaliteitssysteem en heeft voldaan aan de binnen het kwaliteitssysteem geldende bepalingen inzake controleverplichtingen, heeft voldaan aan de controleverplichting als bedoeld in het eerste lid.   
+2.  De houder die gecertificeerd deelneemt aan een erkend kwaliteitssysteem en heeft voldaan aan de binnen het kwaliteitssysteem geldende bepalingen inzake controleverplichtingen, heeft voldaan aan de controleverplichting als bedoeld in het eerste lid.   
 3.  De voorzitter erkent op aanvraag de controle-instantie die voldoet aan de door het bestuur bij besluit met betrekking tot controle-instanties vastgestelde erkenningsvoorwaarden. De erkenning kan worden geschorst dan wel ingetrokken als niet meer aan de voorwaarden wordt voldaan.   
 4.  De houder zorgt er voor dat de controle-instantie een rapport van bevindingen opstelt naar aanleiding van de controle en zorgt er tevens voor dat dit rapport uiterlijk binnen een maand na de verrichte controle in handen wordt gesteld van de voorzitter.   
 5.  In het geval het rapport van bevindingen hiertoe aanleiding geeft kan de voorzitter de houder gelasten tot het op zijn kosten doen uitvoeren van een hercontrole.   
@@ -100,15 +100,16 @@ e. voor het overige alle medewerking te verlenen ter vervuling van de aan de toe
 
 ### Artikel  7  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ####Gegevensverwerking en rapportage
 
 ### Artikel  8  
 
 1.  De door of namens de houder aangeleverde gegevens in de databank en de controle- en toezichtsresultaten kunnen worden gebruikt in rapportages waarin feiten en statistieken inzake typen en hoeveelheden antibiotica die door dierenartsen in de varkenssector zijn voorgeschreven, worden weergegeven.   
-2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de geregistreerde gegevens van de databank waarvoor hij verantwoordelijk is voor zover zulks in overeenstemming is met de [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de geregistreerde gegevens van de databank waarvoor hij verantwoordelijk is voor zover zulks in overeenstemming is met de Wet bescherming persoonsgegevens.   
 3.  De gegenereerde gegevens worden verwerkt in een periodieke rapportage die ten minste één maal per jaar wordt uitgebracht.   
+4.  De voorzitter kan aan de Nederlandse Voedsel en Waren Autoriteit (NVWA) desgevraagd de in de databank geregistreerde gegevens betreffende individuele houders verstrekken voor zover zulks in overeenstemming is met de Wet bescherming persoonsgegevens.   
 
 ####Slotbepalingen
 
