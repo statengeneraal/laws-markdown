@@ -105,7 +105,7 @@ De Voorzitter is bevoegd de vergaderingen van elke commissie bij te wonen.
 ####Raming; beheer geldelijke middelen
 
 1.  Het Presidium maakt jaarlijks de raming van de in het volgende jaar voor de Kamer benodigde uitgaven op en zendt deze tijdig aan de Kamer ter vaststelling en aan de betrokken minister.   
-2.  De Griffier is, namens het Presidium, belast met het begrotingsbeheer van de Kamer. De bevoegdheden, voortkomend uit dit beheer, kunnen geheel of gedeeltelijk worden gemandateerd.   
+2.  De Griffier is, namens de Voorzitter, belast met het begrotingsbeheer van de Kamer. De bevoegdheden, voortkomend uit dit beheer, kunnen geheel of gedeeltelijk worden gemandateerd.   
 3.  Bij afzonderlijk op voordracht van het Presidium door de Kamer vast te stellen reglement worden regels gesteld voor het toekennen van geldelijke middelen aan fracties en voor het beheer van die middelen door fracties.   
 
 ### Hoofdstuk  V  
@@ -269,6 +269,10 @@ Het Presidium kan ten behoeve van zijn eigen werkzaamheden commissies van advies
 
 1.  Bij afzonderlijk reglement, vast te stellen door de beide kamers der Staten-Generaal, worden de zorg voor de Dienst Verslag en Redactie, de taakuitoefening met betrekking tot stenografische en beknopte verslagen, de openbaarmaking van het verslag van het verhandelde in de vergaderingen der Staten-Generaal alsmede de bewaartermijnen geregeld.   
 2.  De bevoegdheid om in het door de Dienst geleverde verslag wijzigingen aan te brengen of aangebrachte wijzigingen ongedaan te maken wordt uitgeoefend door de bij genoemd reglement in te stellen gemengde commissie van beroep voor de Dienst Verslag en Redactie.   
+
+### §  3b  
+
+####Parlementair Overleg Koninkrijksrelaties
 
 ### Artikel  24a  
 
@@ -460,7 +464,7 @@ In een mondeling overleg kunnen met instemming van de desbetreffende minister in
 
 ### Artikel  43  
 
-####Moties in wetgevingsoverleg en nota-overleg
+####Plenaire behandeling na begrotingsoverleg
 
 1.  Voor de plenaire afronding van het begrotingsoverleg stelt de Kamer een maximumspreektijd per fractie vast.   
 2.  Stemming over alle begrotingen en de daarbij ingediende amendementen vindt in samenhang plaats, bij voorkeur in één week.   
@@ -694,7 +698,7 @@ Op voorstel van de Voorzitter of van een in de vergaderzaal aanwezig lid kan de 
 ####Nemen van een besluit; stemming
 
 1.  Nadat de beraadslaging is gesloten, gaat de Kamer zo nodig over tot het nemen van een besluit.   
-2.  De stemming over moties kan worden aangehouden; heeft zij niet plaatsgevonden in de eerste vergadering twee maanden na het besluit tot aanhouden - recessen niet meegerekend - dan wordt de motie geacht te zijn vervallen.De Kamer kan anders besluiten.   
+2.  De stemming over moties kan worden aangehouden; heeft zij niet plaats gevonden in de eerste vergadering twee maanden na het besluit tot aanhouden - recessen niet meegerekend - dan wordt de motie geacht te zijn vervallen. De Kamer kan anders besluiten.   
 3.  Stemming geschiedt door handopsteken.   
 4.  Een stemming kan achterwege blijven indien geen van de leden daarom vraagt. In dat geval stelt de Voorzitter voor het besluit zonder stemming te nemen. Evenwel kunnen in de vergaderzaal aanwezige leden aantekening vragen, dat zij geacht willen worden te hebben tegengestemd; in dat geval wordt het besluit geacht met de stemmen van de overige leden te zijn genomen.   
 
@@ -1302,12 +1306,12 @@ e. zaken die in strijd zijn met de Grondwet en de goede zeden.
 
 ### Artikel  139a  
 
-####Debat over verkiezingsuitslag en kabinetsformatie
+####Aanwijzing van kabinets(in)formateur(s)
 
-1.  In de eerste vergadering na haar verkiezing kan de Kamer beraadslagen om de betekenis van de verkiezingsuitslag vast te stellen en zo richting te geven aan de kabinetsformatie.   
-2.  De Voorzitter overlegt voorafgaand aan het debat met de beoogde fractievoorzitters over de wenselijkheid van de beraadslaging en, indien die er is, over de procedure van het debat.   
-3.  Na afronding van elke tussenfase in een kabinetsformatie kan de Kamer beraadslagen over de richting van een nieuwe formatie- of informatieronde.   
-4.  Na een tussentijdse val van het kabinet kan de Kamer beraadslagen over de wenselijkheid of richting van een nieuwe kabinets(in)formatie.   
+1.  Onverwijld na de installatie van een nieuw verkozen Tweede Kamer, maar uiterlijk een week na de installatie, beraadslaagt de Kamer in plenaire zitting over de verkiezingsuitslag. Het doel van de beraadslaging is een of meer informateurs onderscheidenlijk formateurs te benoemen en de door hen uit te voeren opdracht vast te stellen. Indien dat doel niet in de desbetreffende vergadering kan worden bereikt, besluit de Kamer daarover in een volgende vergadering, zo spoedig als dat mogelijk is.   
+2.  Indien een informatieopdracht wordt afgerond, formuleert de Kamer in beginsel binnen een week na de dag van afronding een formatieopdracht, en wijst zij voor de uitvoering daarvan een of meer formateurs aan.   
+3.  Indien de aangewezen informateurs of formateurs hun opdracht teruggeven, formuleert de Kamer in beginsel binnen een week na de dag van teruggave een nieuwe opdracht, en wijst zij voor de uitvoering daarvan een of meer informateurs onderscheidenlijk formateurs aan.   
+4.  Na een tussentijdse val van het kabinet kan de Kamer beraadslagen over de wenselijkheid of richting van een nieuwe kabinetsformatie. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing.   
 
 ### Artikel  139b  
 
