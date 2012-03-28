@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-*ander geluidsgevoelig gebouw:* gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+*ander geluidsgevoelig gebouw:* gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
 *gebouw:* gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md);  
 
@@ -44,13 +44,13 @@ Hebben goedgevonden en verstaan:
 
 *tijdstip van vaststelling van de geluidszone:* tijdstip waarop door Onze Minister voor de betrokken militaire luchthaven de geluidszone op grond van [artikel 25a van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) is vastgesteld dan wel de geluidszone als onderdeel van het beperkingengebied op grond van [artikel 10.17 van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is vastgesteld;  
 
-*vergunning voor het bouwen:* vergunning als bedoeld in [artikel 40, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) dan wel vergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+*vergunning voor het bouwen:* vergunning als bedoeld in [artikel 40, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) dan wel vergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md); 
 
 *VFR-vlucht:* VFR-vlucht als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);  
 
-*wet:*[Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).     
+*wet:* [Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).     
 2.  Voor de toepassing van het begrip «ligplaats» wordt onder woonschip verstaan een schip dat uitsluitend of in hoofdzaak wordt gebezigd of bestemd is voor bewoning.   
-3.  Een opvangcentrum als bedoeld in [artikel 1, onderdeel d, van de Wet Centraal Orgaan opvang asielzoekers](../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) is geen woning als bedoeld in dit besluit.   
+3.  Een opvangcentrum als bedoeld in [artikel 1, onderdeel d, van de Wet Centraal Orgaan opvang asielzoekers](../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) is geen woning als bedoeld in dit besluit.  
 
 ### Artikel  2  
 
@@ -59,7 +59,7 @@ Hebben goedgevonden en verstaan:
 a. Deelen, Eindhoven, Gilze-Rijen, De Kooy, Leeuwarden, De Peel, Volkel en Woensdrecht;  
 
 b. andere, bij ministeriële regeling aangewezen, luchthavens dan in onderdeel a bedoeld, waarvan meer dan 12 maal per jaar gebruik wordt gemaakt.     
-2.  Voor de in het eerste lid, onderdeel a, genoemde luchthavens is vaststelling van een luchthavenbesluit vereist.   
+2.  Voor de in het eerste lid, onderdeel a, genoemde luchthavens is vaststelling van een luchthavenbesluit vereist.  
 
 ### Hoofdstuk  2  
 
@@ -87,7 +87,7 @@ b. andere, bij ministeriële regeling aangewezen, luchthavens dan in onderdeel a
 |  8  | 22  | 23 uur  |
 | 10  | 23  | 24 uur  |
 
-en waarin het teken «L» staat voor het maximaal geluidsniveau in dB(A) dat voor een passerend luchtvaartuig ter plaatse in de buitenlucht wordt of kan worden gemeten.   
+en waarin het teken «L» staat voor het maximaal geluidsniveau in dB(A) dat voor een passerend luchtvaartuig ter plaatse in de buitenlucht wordt of kan worden gemeten.  
 
 ### §  2.2  
 
@@ -95,7 +95,7 @@ en waarin het teken «L» staat voor het maximaal geluidsniveau in dB(A) dat voo
 
 ### Artikel  4  
 
-Voor de in artikel 2, eerste lid, onderdeel a, genoemde luchthavens is de grenswaarde voor de maximaal toelaatbare geluidsbelasting buiten de geluidszone 35 Kosteneenheden.  
+Voor de in artikel 2, eerste lid, onderdeel a, genoemde luchthavens is de grenswaarde voor de maximaal toelaatbare geluidsbelasting buiten de geluidszone 35 Kosteneenheden. 
 
 ### §  2.3  
 
@@ -108,7 +108,7 @@ Voor de in artikel 2, eerste lid, onderdeel a, genoemde luchthavens is de grensw
 ### Artikel  5  
 
 1.  De maximaal toelaatbare geluidsbelasting van woningen en andere geluidsgevoelige gebouwen die op het tijdstip van vaststelling van de geluidszone daarbinnen nog niet aanwezig zijn en waarvoor nog geen vergunning voor het bouwen is verleend, is 35 Kosteneenheden.   
-2.  De maximaal toelaatbare geluidsbelasting van standplaatsen en ligplaatsen die op het tijdstip van vaststelling van de geluidszone daarbinnen nog niet aanwezig zijn, is 35 Kosteneenheden.   
+2.  De maximaal toelaatbare geluidsbelasting van standplaatsen en ligplaatsen die op het tijdstip van vaststelling van de geluidszone daarbinnen nog niet aanwezig zijn, is 35 Kosteneenheden.  
 
 ### Artikel  6  
 
@@ -120,7 +120,7 @@ In afwijking van artikel 5, eerste lid, is de maximaal toelaatbare geluidsbelast
 
 3°. voor woningen of andere geluidsgevoelige gebouwen die binnen het desbetreffende gebied worden verplaatst naar een locatie waar de geluidsbelasting ten gevolge van het luchthavenluchtverkeer minder is, met dien verstande dat aan de oude woning of het andere geluidsgevoelige gebouw de bestemming wordt onttrokken; of  
 
-4°. voor woningen die ter plaatse dringend noodzakelijk zijn om redenen van grond- of bedrijfsgebondenheid.    
+4°. voor woningen die ter plaatse dringend noodzakelijk zijn om redenen van grond- of bedrijfsgebondenheid.   
 
 ### Artikel  7  
 
@@ -134,7 +134,7 @@ In afwijking van artikel 5, eerste lid, is de maximaal toelaatbare geluidsbelast
 
 4°. voor woningen of andere geluidsgevoelige gebouwen, indien vaststaat dat de geluidsbelasting ter plaatse binnen een termijn van twee jaren zal afnemen tot 35 Kosteneenheden of minder; of  
 
-5°. voor woningen of andere geluidsgevoelige gebouwen die woningen, andere geluidsgevoelige gebouwen of standplaatsen vervangen die reeds aanwezig zijn.    
+5°. voor woningen of andere geluidsgevoelige gebouwen die woningen, andere geluidsgevoelige gebouwen of standplaatsen vervangen die reeds aanwezig zijn.   
 
 ### §  2.3.2  
 
@@ -146,7 +146,7 @@ In afwijking van artikel 5, eerste lid, is de maximaal toelaatbare geluidsbelast
 
 ### Artikel  8  
 
-40 Kosteneenheden is de maximaal toelaatbare geluidsbelasting van een woning die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is of nog niet aanwezig is maar waarvoor de vergunning voor het bouwen is verleend.  
+40 Kosteneenheden is de maximaal toelaatbare geluidsbelasting van een woning die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is of nog niet aanwezig is maar waarvoor de vergunning voor het bouwen is verleend. 
 
 ### Artikel  9  
 
@@ -154,11 +154,11 @@ In afwijking van artikel 8 is 65 Kosteneenheden de maximaal toelaatbare geluidsb
 
 a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in [artikel 10.24](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) j° [8.32 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;  
 
-b. de woning gebouwd is krachtens een vergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de vergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van [afdeling 3.1 van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+b. de woning gebouwd is krachtens een vergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de vergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van [afdeling 3.1 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
 c. door Onze Minister een aanbod wordt gedaan voor het treffen van zodanige geluidwerende voorzieningen dat voldaan wordt aan de onder a bedoelde waarden, of  
 
-d. door de eigenaar of bewoner geen toestemming wordt gegeven voor het uitvoeren van een akoestisch en bouwtechnisch onderzoek als bedoeld in de onder a bedoelde regeling.    
+d. door de eigenaar of bewoner geen toestemming wordt gegeven voor het uitvoeren van een akoestisch en bouwtechnisch onderzoek als bedoeld in de onder a bedoelde regeling.   
 
 ### §  2.3.2.2  
 
@@ -166,7 +166,7 @@ d. door de eigenaar of bewoner geen toestemming wordt gegeven voor het uitvoeren
 
 ### Artikel  10  
 
-35 Kosteneenheden is de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw dat op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is of nog niet aanwezig is maar waarvoor de vergunning voor het bouwen is verleend.  
+35 Kosteneenheden is de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw dat op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is of nog niet aanwezig is maar waarvoor de vergunning voor het bouwen is verleend. 
 
 ### Artikel  11  
 
@@ -174,11 +174,11 @@ In afwijking van artikel 10 is 65 Kosteneenheden de maximaal toelaatbare geluids
 
 a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in [artikel 10.24](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) j° [8.32 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;  
 
-b. het andere geluidsgevoelige gebouw gebouwd is krachtens een vergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de vergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van [afdeling 3.1 van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+b. het andere geluidsgevoelige gebouw gebouwd is krachtens een vergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de vergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van [afdeling 3.1 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
 c. door Onze Minister een aanbod wordt gedaan voor het treffen van zodanige geluidwerende voorzieningen dat voldaan wordt aan de onder a bedoelde waarden; of  
 
-d. door de eigenaar geen toestemming wordt gegeven voor het uitvoeren van een akoestisch en bouwtechnisch onderzoek als bedoeld in de onder a bedoelde regeling.    
+d. door de eigenaar geen toestemming wordt gegeven voor het uitvoeren van een akoestisch en bouwtechnisch onderzoek als bedoeld in de onder a bedoelde regeling.   
 
 ### §  2.3.2.3  
 
@@ -186,11 +186,11 @@ d. door de eigenaar geen toestemming wordt gegeven voor het uitvoeren van een ak
 
 ### Artikel  12  
 
-De maximaal toelaatbare geluidsbelasting van een standplaats die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is, is 40 Kosteneenheden.  
+De maximaal toelaatbare geluidsbelasting van een standplaats die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is, is 40 Kosteneenheden. 
 
 ### Artikel  13  
 
-De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is, is 40 Kosteneenheden.  
+De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is, is 40 Kosteneenheden. 
 
 ### §  2.3.2.4  
 
@@ -199,7 +199,7 @@ De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip v
 ### Artikel  14  
 
 1.  Ten aanzien van degene die op het tijdstip van vaststelling van de geluidszone rechtmatig gebruiker is van een woning, ander geluidsgevoelig gebouw, standplaats of ligplaats als bedoeld in § 2.3.2, kan beëindiging van dit gebruik niet worden gevergd.   
-2.  Van rechtmatig gebruik is sprake indien op het tijdstip van vaststelling van de geluidszone op de desbetreffende plaats een woning, ander geluidsgevoelig gebouw, standplaats of ligplaats rechtmatig aanwezig is en overeenkomstig de oorspronkelijke bestemming wordt gebruikt, of vóór dat tijdstip een vergunning voor het bouwen daarvoor is verleend.   
+2.  Van rechtmatig gebruik is sprake indien op het tijdstip van vaststelling van de geluidszone op de desbetreffende plaats een woning, ander geluidsgevoelig gebouw, standplaats of ligplaats rechtmatig aanwezig is en overeenkomstig de oorspronkelijke bestemming wordt gebruikt, of vóór dat tijdstip een vergunning voor het bouwen daarvoor is verleend.  
 
 ### §  2.4  
 
@@ -207,7 +207,7 @@ De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip v
 
 ### Artikel  15  
 
-Indien op de in artikel 2, eerste lid, onderdeel a, genoemde luchthavens een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant is verleend, bedraagt de grenswaarde voor de maximaal toelaatbare geluidsbelasting voor het burgerluchtverkeer 35 Kosteneenheden en voor het militaire luchtverkeer 35 Kosteneenheden.  
+Indien op de in artikel 2, eerste lid, onderdeel a, genoemde luchthavens een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant is verleend, bedraagt de grenswaarde voor de maximaal toelaatbare geluidsbelasting voor het burgerluchtverkeer 35 Kosteneenheden en voor het militaire luchtverkeer 35 Kosteneenheden. 
 
 ### Hoofdstuk  3  
 
@@ -234,7 +234,7 @@ b. waarvoor de vergunning voor het bouwen vóór die datum is verleend, of
 c. waarvan de bouw in het op die datum geldende bestemmingsplan is voorzien.     
 4.  Afwijking van het tweede en derde lid wordt toegestaan indien uit een daartoe uitgevoerd onderzoek blijkt dat de beïnvloeding van het instrument landingssysteem onderscheidenlijk het radarbeeld uit oogpunt van de veiligheid van het luchtverkeer aanvaardbaar is.   
 5.  Het in het vierde lid genoemde onderzoek wordt op een daartoe strekkende verzoek uitgevoerd door Onze Minister.   
-6.  De in het eerste en tweede lid bedoelde versies liggen ter inzage op de bij de betrokken mededeling aangegeven locatie.   
+6.  De in het eerste en tweede lid bedoelde versies liggen ter inzage op de bij de betrokken mededeling aangegeven locatie.  
 
 ### Hoofdstuk  4  
 
@@ -247,18 +247,18 @@ c. waarvan de bouw in het op die datum geldende bestemmingsplan is voorzien.
 ### Artikel  17  
 
 1.  Het militair luchtverkeer op of boven militaire luchthavens mag onder geen omstandigheden worden gehinderd door de burgerluchtvaart.   
-2.  De gezagvoerders van landende, opstijgende, taxiënde en parkerende burgerluchtvaartuigen gedragen zich stipt overeenkomstig de aanwijzingen die met betrekking tot het luchtverkeer door de plaatselijke luchtverkeersleidingsdiensten worden gegeven.   
+2.  De gezagvoerders van landende, opstijgende, taxiënde en parkerende burgerluchtvaartuigen gedragen zich stipt overeenkomstig de aanwijzingen die met betrekking tot het luchtverkeer door de plaatselijke luchtverkeersleidingsdiensten worden gegeven.  
 
 ### Artikel  18  
 
 1.  In het belang van de uitvoering van de militaire taak kan de commandant van de militaire luchthaven aanwijzingen aan de burgerluchtvaart geven omtrent het gebruik van de militaire luchthaven.   
 2.  De commandant kan in geval van militaire oefeningen of onvoorziene omstandigheden bepalen dat de burgerluchtvaart tijdelijk geen gebruik maakt van de militaire luchthaven.   
 3.  Het landen, taxiën, parkeren, stallen, opstijgen, experimenteren en demonstreren mag slechts geschieden op of van die gedeelten van het terrein die daartoe door de commandant worden aangewezen.   
-4.  Bij niet nakoming van de door de commandant gegeven aanwijzingen kan de commandant de toegang tot de luchthaven ontzeggen dan wel beperkingen of een tijdelijk verbod opleggen voor wat betreft het gebruik van de luchthaven.   
+4.  Bij niet nakoming van de door de commandant gegeven aanwijzingen kan de commandant de toegang tot de luchthaven ontzeggen dan wel beperkingen of een tijdelijk verbod opleggen voor wat betreft het gebruik van de luchthaven.  
 
 ### Artikel  19  
 
-De militaire luchthaven wordt op behoorlijke wijze gebruikt door het burgerluchtverkeer.  
+De militaire luchthaven wordt op behoorlijke wijze gebruikt door het burgerluchtverkeer. 
 
 ### §  4.2  
 
@@ -268,11 +268,11 @@ De militaire luchthaven wordt op behoorlijke wijze gebruikt door het burgerlucht
 
 In deze paragraaf wordt verstaan onder: 
 
-a. *recreatieve burgerluchtvaart:* het beoefenen van de luchtvaart in de vorm van zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen of zeilvliegen;  
+a.  *recreatieve burgerluchtvaart:* het beoefenen van de luchtvaart in de vorm van zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen of zeilvliegen;  
 
-b. *zweefvliegen:* vliegen met een zweefvliegtuig of een motorzweefvliegtuig;  
+b.  *zweefvliegen:* vliegen met een zweefvliegtuig of een motorzweefvliegtuig;  
 
-c. *sleepvliegen:* vliegen met een als sleepvliegtuig ingericht motorvliegtuig voor: 
+c.  *sleepvliegen:* vliegen met een als sleepvliegtuig ingericht motorvliegtuig voor: 
 
 1°. vluchten voor het opslepen van zweefvliegtuigen;  
 
@@ -282,11 +282,11 @@ c. *sleepvliegen:* vliegen met een als sleepvliegtuig ingericht motorvliegtuig v
 
 4°. vluchten voor het overbrengen van het sleepvliegtuig van en naar een andere luchthaven dan dat van stationering teneinde het aldaar in te zetten of er onderhoud aan te verrichten;    
 
-d. *motorsportvliegen:* niet beroepsmatig vliegen met een vastevleugelvliegtuig met schroefaandrijving, met inbegrip van ultralichte vliegtuigen, waarbij de vlucht uitsluitend het karakter van een sportvlucht draagt;  
+d.  *motorsportvliegen:* niet beroepsmatig vliegen met een vastevleugelvliegtuig met schroefaandrijving, met inbegrip van ultralichte vliegtuigen, waarbij de vlucht uitsluitend het karakter van een sportvlucht draagt;  
 
-e. *modelvliegen:* gecontroleerd modelvliegen met modelluchtvaartuigen met een totale startmassa van ten hoogste 25 kg;  
+e.  *modelvliegen:* gecontroleerd modelvliegen met modelluchtvaartuigen met een totale startmassa van ten hoogste 25 kg;  
 
-f. *zeilvliegen:* vliegen met een zweeftoestel met starre hoofdstructuur, dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder.    
+f.  *zeilvliegen:* vliegen met een zweeftoestel met starre hoofdstructuur, dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder.   
 
 ### Artikel  21  
 
@@ -295,13 +295,13 @@ f. *zeilvliegen:* vliegen met een zweeftoestel met starre hoofdstructuur, dat ka
 a. buiten de uniforme daglichtperiode;  
 
 b. vóór 8:00 uur lokale tijd.     
-2.  Sleepvliegen is niet toegestaan vóór 12:00 uur op zondag en op christelijke feestdagen.   
+2.  Sleepvliegen is niet toegestaan vóór 12:00 uur op zondag en op christelijke feestdagen.  
 
 ### Artikel  22  
 
 1.  Recreatieve burgerluchtvaart wordt uitsluitend beoefend in aanwezigheid van een voor de betrokken vorm van recreatieve burgerluchtvaart bevoegde coördinator als bedoeld in artikel 23, eerste lid.   
 2.  Onverminderd het eerste lid wordt recreatieve burgerluchtvaart buiten de reguliere openstellingstijden van de betrokken luchthaven uitsluitend beoefend in aanwezigheid van een hoofdvliegcoördinator.   
-3.  Indien meerdere verenigingen op de luchthaven tegelijkertijd een zelfde vorm van recreatieve burgerluchtvaart beoefenen, treedt één van de voor die vorm aangewezen coördinatoren als bedoeld in het eerste lid op als coördinator voor het geheel van die vorm van recreatieve burgerluchtvaart.   
+3.  Indien meerdere verenigingen op de luchthaven tegelijkertijd een zelfde vorm van recreatieve burgerluchtvaart beoefenen, treedt één van de voor die vorm aangewezen coördinatoren als bedoeld in het eerste lid op als coördinator voor het geheel van die vorm van recreatieve burgerluchtvaart.  
 
 ### Artikel  23  
 
@@ -322,13 +322,13 @@ a. het houden van toezicht op het juiste en veilige gebruik van de luchthaven,
 b. het geven van leiding aan de beoefening van de recreatieve burgerluchtvaart.     
 4.  De hoofdvliegcoördinator is buiten de openstellingstijden van de luchthaven belast met de algehele leiding over en het algemeen toezicht op de totale recreatieve burgerluchtvaart op de militaire luchthaven, alsmede met de inzet van hulpdiensten in geval van calamiteiten. Bij zijn taakvervulling neemt hij de door de commandant van de luchthaven gegeven aanwijzingen in acht.   
 5.  Voor de functie van coördinator of hoofdvliegcoördinator komt uitsluitend in aanmerking degene die voldoet aan de bij regeling van Onze Minister voor de betrokken coördinator gestelde eisen met betrekking tot kennis, ervaring en geschiktheid.   
-6.  De commandant van de luchthaven is bevoegd tot intrekking of schorsing van de aanwijzing tot coördinator of hoofdvliegcoördinator, indien betrokkene niet meer aan de ingevolge het vijfde lid gestelde eisen voldoet of zich schuldig maakt aan wangedrag.   
+6.  De commandant van de luchthaven is bevoegd tot intrekking of schorsing van de aanwijzing tot coördinator of hoofdvliegcoördinator, indien betrokkene niet meer aan de ingevolge het vijfde lid gestelde eisen voldoet of zich schuldig maakt aan wangedrag.  
 
 ### Artikel  24  
 
 1.  De beoefenaars van recreatieve burgerluchtvaart gedragen zich stipt overeenkomstig de aanwijzingen die door de betrokken coördinator worden gegeven.   
 2.  De coördinator volgt voor de uitoefening van zijn taak binnen de openstellingtijden de aanwijzingen van de commandant. Buiten de openstellingtijden volgt hij voor de uitoefening van zijn taak de aanwijzingen van de hoofdvliegcoördinator.   
-3.  Indien slechts één vorm van recreatieve burgerluchtvaart wordt uitgeoefend op de luchthaven, wordt de functie van hoofdvliegcoördinator vervuld door de voor de betrokken vorm van recreatieve burgerluchtvaart aangewezen coördinator.   
+3.  Indien slechts één vorm van recreatieve burgerluchtvaart wordt uitgeoefend op de luchthaven, wordt de functie van hoofdvliegcoördinator vervuld door de voor de betrokken vorm van recreatieve burgerluchtvaart aangewezen coördinator.  
 
 ### Artikel  25  
 
@@ -340,18 +340,18 @@ b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomst
 
 c. de terreingedeeltes en verkeerscircuits voor zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen en zeilvliegen zijn geheel van elkaar gescheiden, waarbij voor motorsportvliegen het circuit voor ultralichte vliegtuigen gescheiden is van de overige motorsportvliegtuigen;  
 
-d. in een verkeerscircuit voor motorsportvliegen bevinden zich maximaal drie vliegtuigen.    
+d. in een verkeerscircuit voor motorsportvliegen bevinden zich maximaal drie vliegtuigen.   
 
 ### Artikel  26  
 
 1.  Op een militaire luchthaven zijn maximaal twee sleepvliegtuigen gestationeerd. In incidentele gevallen kan, na verkregen toestemming van de commandant, het aantal van twee sleepvliegtuigen tijdelijk worden verhoogd tot maximaal vier.   
 2.  De sleepvlieger volgt de aanwijzingen van de zweefvliegcoördinator betreffende het zweefvliegen.   
 3.  Er wordt niet gestart of geland met een sleepvliegtuig vanaf of op een militaire luchthaven anders dan voor sleepvliegen.   
-4.  Tijdens sleepvliegen worden geen passagiers medegevoerd met dien verstande dat het is toegestaan dat tijdens controlevluchten als bedoeld in artikel 20, onder c, onderdeel 2, een tweede bevoegd sleepvlieger meevliegt en dat tijdens de in artikel 20, eerste lid, onder c, onderdeel 3, bedoelde vluchten, gedurende het vluchtgedeelte dat niet daadwerkelijk wordt gesleept, de bestuurder van het over te slepen zweefvliegtuig wordt meegevoerd.   
+4.  Tijdens sleepvliegen worden geen passagiers medegevoerd met dien verstande dat het is toegestaan dat tijdens controlevluchten als bedoeld in artikel 20, onder c, onderdeel 2, een tweede bevoegd sleepvlieger meevliegt en dat tijdens de in artikel 20, eerste lid, onder c, onderdeel 3, bedoelde vluchten, gedurende het vluchtgedeelte dat niet daadwerkelijk wordt gesleept, de bestuurder van het over te slepen zweefvliegtuig wordt meegevoerd.  
 
 ### Artikel  27  
 
-Buiten de reguliere openstellingtijden vinden geen vluchten met motorsportvliegtuigen plaats van of naar militaire luchthavens.  
+Buiten de reguliere openstellingtijden vinden geen vluchten met motorsportvliegtuigen plaats van of naar militaire luchthavens. 
 
 ### §  4.3  
 
@@ -367,7 +367,7 @@ b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomst
 
 c. gebruik wordt gemaakt van daarvoor door de commandant van de luchthaven aangewezen routes;  
 
-d. in het bijzonder wordt rekening gehouden met eventueel op of boven de luchthaven plaats vindende recreatieve luchtvaart.    
+d. in het bijzonder wordt rekening gehouden met eventueel op of boven de luchthaven plaats vindende recreatieve luchtvaart.   
 
 ### §  4.4  
 
@@ -375,7 +375,7 @@ d. in het bijzonder wordt rekening gehouden met eventueel op of boven de luchtha
 
 ### Artikel  29  
 
-Bij regeling van Onze Minister kunnen met betrekking tot het gebruik van de luchthaven door de burgerluchtvaart nadere regels worden gesteld.  
+Bij regeling van Onze Minister kunnen met betrekking tot het gebruik van de luchthaven door de burgerluchtvaart nadere regels worden gesteld. 
 
 ### Hoofdstuk  5  
 
@@ -383,14 +383,14 @@ Bij regeling van Onze Minister kunnen met betrekking tot het gebruik van de luch
 
 ### Artikel  30  
 
-Dit hoofdstuk is van toepassing op de ingevolge artikel 2, eerste lid, onderdeel b, aangewezen helihavens.  
+Dit hoofdstuk is van toepassing op de ingevolge artikel 2, eerste lid, onderdeel b, aangewezen helihavens. 
 
 ### Artikel  31  
 
 1.  De aanleg, inrichting en uitrusting van een helihaven zijn zodanig dat helikopters daarvan een veilig gebruik kunnen maken.   
 2.  De helihaven is vrij van hindernissen en zodanig afgezet dat hij bij gebruik vrij van publiek is.   
 3.  De in- en uitvliegsectoren zijn zodanig dat helikopters veilig kunnen landen en opstijgen en dat de overlast voor de omwonenden minimaal is.   
-4.  Op of in de onmiddellijke nabijheid van een helihaven zijn voldoende en deugdelijke reddings- en brandblusmiddelen aanwezig voor het redden van mensenlevens en de bestrijding van vliegtuigbranden, alsmede voldoende en ter zake kundig personeel voor de bediening van deze middelen.   
+4.  Op of in de onmiddellijke nabijheid van een helihaven zijn voldoende en deugdelijke reddings- en brandblusmiddelen aanwezig voor het redden van mensenlevens en de bestrijding van vliegtuigbranden, alsmede voldoende en ter zake kundig personeel voor de bediening van deze middelen.  
 
 ### Artikel  32  
 
@@ -411,12 +411,12 @@ e. de ten behoeve van het gebruik door helikopters op de helihaven voorgeschreve
 a. het nationaliteits- en inschrijvingskenmerk alsmede het type helikopter;  
 
 b. datum en tijdstip van aankomst en vertrek.     
-4.  Elk kwartaal dient een kopie van het register, bedoeld in het tweede lid, onderdeel c, te worden gezonden aan de Militaire Luchtvaart Autoriteit.   
+4.  Elk kwartaal dient een kopie van het register, bedoeld in het tweede lid, onderdeel c, te worden gezonden aan de Militaire Luchtvaart Autoriteit.  
 
 ### Artikel  33  
 
 1.  Het verkeerscircuit, de routering, de snelheid en de hoogte van vertrekkende en binnenkomende helikopters zijn zodanig gekozen, dat het optreden van vermijdbare geluidhinder, met name in de bebouwde kommen en in de omgeving van bijzondere bebouwing, zoals ziekenhuizen en sanatoria, wordt voorkomen.   
-2.  Het gebruik van de helihaven tussen de uren van 22:00 en 06:00 wordt zoveel mogelijk voorkomen.   
+2.  Het gebruik van de helihaven tussen de uren van 22:00 en 06:00 wordt zoveel mogelijk voorkomen.  
 
 ### Hoofdstuk  6  
 
@@ -432,7 +432,7 @@ b. de prestatiegegevens met bijbehorend geselecteerd motorvermogen;
 
 c. de verdeling van de vliegbewegingen over het etmaal;  
 
-d. de verdeling van vliegbewegingen over de vliegprocedures.    
+d. de verdeling van vliegbewegingen over de vliegprocedures.   
 
 ### Hoofdstuk  7  
 
@@ -440,13 +440,13 @@ d. de verdeling van vliegbewegingen over de vliegprocedures.
 
 ### Artikel  35  
 
-De vergunning voor medegebruik wordt niet verleend aan een rechtspersoon die doelen nastreeft of een relatie heeft met organisaties of verbanden die doelen nastreven die niet verenigbaar zijn met de taken van het Ministerie van Defensie.  
+De vergunning voor medegebruik wordt niet verleend aan een rechtspersoon die doelen nastreeft of een relatie heeft met organisaties of verbanden die doelen nastreven die niet verenigbaar zijn met de taken van het Ministerie van Defensie. 
 
 ### Artikel  36  
 
 1.  Het overdragen van een vergunning voor burgermedegebruik behoeft de toestemming van Onze Minister.   
 2.  Onze Minister beslist binnen vier weken omtrent de toestemming.   
-3.  De beslissing kan eenmaal voor ten hoogste vier weken worden verdaagd.   
+3.  De beslissing kan eenmaal voor ten hoogste vier weken worden verdaagd.  
 
 ### Hoofdstuk  8  
 
@@ -454,11 +454,11 @@ De vergunning voor medegebruik wordt niet verleend aan een rechtspersoon die doe
 
 ### Artikel  37  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillenden artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillenden artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  38  
 
-Dit besluit wordt aangehaald als: Besluit militaire luchthavens.  
+Dit besluit wordt aangehaald als: Besluit militaire luchthavens. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -471,5 +471,5 @@ J. G. de Vries
 
 de *negentiende* februari 2009 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    
