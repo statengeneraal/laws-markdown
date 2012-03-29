@@ -8,7 +8,7 @@
 
 ####Objective
 
-The objective of the International Agency for Research on Cancer shall be to promote international collaboration in cancer research. The Agency shall serve as a means through which Participating States and the World Health Organization, in liaison with the International Union against Cancer and other interested international organizations, may co-operate in the stimulation and support of all phases of research related to the problem of cancer.  
+The objective of the International Agency for Research on Cancer shall be to promote international collaboration in cancer research. The Agency shall serve as a means through which Participating States and the World Health Organization, in liaison with the International Union against Cancer and other interested international organizations, may co-operate in the stimulation and support of all phases of research related to the problem of cancer. 
 
 ### Article  II  
 
@@ -36,13 +36,13 @@ In order to achieve its objectives, the Agency shall have the following function
 
 (c) the encouragement of, and the giving of assistance to, research at the national level, if necessary by the direct establishment of research organizations.    
 
-5. In carrying out its programme of permanent services or any special projects the Agency may collaborate with any other entity.    
+5. In carrying out its programme of permanent services or any special projects the Agency may collaborate with any other entity.   
 
 ### Article  III  
 
 ####Participating States
 
-Any Member of the World Health Organization may, subject to the provisions of Article XII, participate actively in the Agency by undertaking, in a notification to the Director-General of the World Health Organization, to observe and apply the provisions of this Statute. In this Statute, Members which have made such a notification are termed “Participating States”.  
+Any Member of the World Health Organization may, subject to the provisions of Article XII, participate actively in the Agency by undertaking, in a notification to the Director-General of the World Health Organization, to observe and apply the provisions of this Statute. In this Statute, Members which have made such a notification are termed “Participating States”. 
 
 ### Article  IV  
 
@@ -54,7 +54,7 @@ The Agency shall comprise:
 
 (b) the Scientific Council;  
 
-(c) the Secretariat.    
+(c) the Secretariat.   
 
 ### Article  V  
 
@@ -85,23 +85,23 @@ The Agency shall comprise:
 5.  Decisions of the Governing Council under sub-paragraphs (a) and (b) of paragraph 3 of this Article shall be made by a two-thirds majority of its members which are Participating States.   
 6.  Decisions of the Governing Council shall be taken by a simple majority of members present and voting, except as otherwise provided in this Statute. A majority of members shall constitute a quorum.   
 7.  The Governing Council shall meet in ordinary session at least once in each year. It may also meet in extraordinary session at the request of one-third of its members.   
-8.  The Governing Council may appoint sub-committees and working groups.   
+8.  The Governing Council may appoint sub-committees and working groups.  
 
 ### Article  VI  
 
 ####The Scientific Council
 
 1.  The Scientific Council shall be composed of twelve highly qualified scientists, selected on the basis of their technical competence in cancer research and allied fields.   
-2.  The members of the Scientific Council shall be appointed by the Governing Council. The Director-General of the World Health Organization, after consultation with qualified scientific organizations, shall propose a list of experts to the Governing Council.   
-3.  Each member of the Scientific Council shall serve for a term of four years. However, at the first appointment of members following the coming into force of the amendment to this Statute increasing the term of office of the members of the Scientific Council from three to four years the following arrangements shall apply: 
+2.  The members of the Scientific Council shall be appointed by the Governing Council. The Director-General of the World Health Organization, after consultation with qualified scientific organizations, shall propose a list of experts to the Governing Council.  
+3. Each member of the Scientific Council shall serve for a term of four years.However, at the first appointment of members following the coming into force of the amendment to this Statute increasing the term of office of the members of the Scientific Council from three to four years the following arrangements shall apply:
 
-(a) Three new members shall be appointed for four years  
+(a)Three new members shall be appointed for four years
 
-(b) Three of the four members whose term would otherwise have expired after two years shall be selected by lot to serve for three years, the remaining member continuing to serve for two years  
+(b)Three of the four members whose term would otherwise have expired after two years shall be selected by lot to serve for three years, the remaining member continuing to serve for two years
 
-(c) Two of the four members whose term would otherwise have expired after one year shall be selected by lot to serve for two years, the remaining two members continuing to serve for one year  
+(c)Two of the four members whose term would otherwise have expired after one year shall be selected by lot to serve for two years, the remaining two members continuing to serve for one year
 
-(d) one new member shall be appointed for one year.   Any member leaving the Scientific Council, other than a member appointed by way of replacement for a period of two years or less, can be reappointed only after at least one year has elapsed. Should any vacancies otherwise occur for the three, two or on year terms of office, additional selections by lot or new appointments shall be made, as appropriate.   
+(d)one new member shall be appointed for one year.Any member leaving the Scientific Council, other than a member appointed by way of replacement for a period of two years or less, can be reappointed only after at least one year has elapsed.Should any vacancies otherwise occur for the three, two or on year terms of office, additional selections by lot or new appointments shall be made, as appropriate.  
 4.  The Scientific Council shall be responsible for: 
 
 (a) adopting its own rules of procedure;  
@@ -112,7 +112,7 @@ The Agency shall comprise:
 
 (d) the periodical evaluation of special projects sponsored by the Agency;  
 
-(e) reporting to the Governing Council, for consideration at the time that body considers the programme and budget, upon the matters dealt with in sub-paragraphs (b), (c) and (d) above.     
+(e) reporting to the Governing Council, for consideration at the time that body considers the programme and budget, upon the matters dealt with in sub-paragraphs (b), (c) and (d) above.    
 
 ### Article  VII  
 
@@ -129,38 +129,38 @@ The Agency shall comprise:
 (b) supervising the execution of the programme and the scientific activities;  
 
 (c) directing administrative and financial matters.     
-6.  The Director of the Agency shall submit a report on the progress of the Agency and (the budget estimates for the next financial year to each Participating State and to the Director-General of the World Health Organization, which shall be distributed to reach them at least thirty days before the regular annual meeting of the Governing Council.   
+6.  The Director of the Agency shall submit a report on the progress of the Agency and the budget estimates for the next financial year to each Participating State and to the Director-General of the World Health Organization, which shall be distributed to reach them at least thirty days before the regular annual meeting of the Governing Council.  
 
 ### Article  VIII  
 
 ####Finance
 
-1.  The administrative services and permanent activities of the Agency shall be financed by annual contributions by each Participating State.   
-2.  These annual contributions shall be due on 1 January of each year and must be paid not later than 31 December of that year.   
-3.  The level or levels of annual contributions shall be determined by the Governing Council.   
-4.  Any decision to change the level or levels of annual contributions shall require a two-thirds majority of the members of the Governing Council who are representatives of Participating States.   
+1. The administrative services and permanent activities of the Agency shall be financed by annual contributions by each Participating State.  
+2.  These annual contributions shall be due on 1 January of each year and must be paid not later than 31 December of that year.  
+3. The level or levels of annual contributions shall be determined by the Governing Council. 
+4. Any decision to change the level or levels of annual contributions shall require a two-thirds majority of the members of the Governing Council who are representatives of Participating States.  
 5.  A Participating State which is in arrears in the payment of its annual contribution shall have no vote in the Governing Council if the amount of its arrears equals or exceeds the amount of contributions due from it for the preceding financial year.   
 6.  The Governing Council may establish a working capital fund and decide its amount.   
-7.  The Governing Council shall be empowered to accept grants or special contributions from any individual, body or government. The special projects of the Agency shall be financed from such grants or special contributions.   
-8.  The funds and assets of the Agency shall be treated as trust funds under Article VI (6) and (7) of the Financial Regulations of the World Health Organization. They shall be accounted for separately from the funds and assets of the World Health Organization and administered in accordance with the financial regulations adopted by the Governing Council.   
+7.  The Governing Council shall be empowered to accept grants or special contributions from any individual, body or government. The special projects of the Agency shall be financed from such grants or special contributions.  
+8. The funds and assets of the Agency shall be treated as trust funds under Article VI (6) and (7) of the Financial Regulations of the World Health Organization. They shall be accounted for separately from the funds and assets of the World Health Organization and administered in accordance with the financial regulations adopted by the Governing Council.
 
 ### Article  IX  
 
 ####Headquarters
 
-The site of the headquarters of the Agency shall be determined by the Governing Council.  
+The site of the headquarters of the Agency shall be determined by the Governing Council. 
 
 ### Article  X  
 
 ####Amendments
 
-Except as provided in Article VIII, 4, amendments to this Statute shall come into force when adopted by the Governing Council by a two-thirds majority of its members who are representatives of Participating States and accepted by the World Health Assembly.  
+Except as provided in Article VIII, 4, amendments to this Statute shall come into force when adopted by the Governing Council by a two-thirds majority of its members who are representatives of Participating States and accepted by the World Health Assembly. 
 
 ### Article  XI  
 
 ####Entry into force
 
-The provisions of this Statute shall enter into force when five of the States which took the initiative in proposing the International Agency for Research on Cancer have given the undertaking referred to in Article III to observe and apply the provisions of the present Statute.  
+The provisions of this Statute shall enter into force when five of the States which took the initiative in proposing the International Agency for Research on Cancer have given the undertaking referred to in Article III to observe and apply the provisions of the present Statute. 
 
 ### Article  XII  
 
@@ -170,13 +170,13 @@ After the entry into force of this Statute, any State Member of the World Health
 
 (a) the Governing Council, by a two-thirds majority of its members who are representatives of Participating States, considers that the State is able to contribute effectively to the scientific and technical work of the Agency;  
 
-(b) and thereafter, the State gives the undertaking referred to in Article III.    
+(b) and thereafter, the State gives the undertaking referred to in Article III.   
 
 ### Article  XIII  
 
 ####Withdrawal from participation
 
-A Participating State may withdraw from participation in the operation of the Agency by notifying the Director-General of the World Health Organization of its intention to withdraw. Such a notification shall take effect six months after its receipt by the Director-General of the World Health Organization.  
+A Participating State may withdraw from participation in the operation of the Agency by notifying the Director-General of the World Health Organization of its intention to withdraw. Such a notification shall take effect six months after its receipt by the Director-General of the World Health Organization. 
 
 ####Establishment of an International Agency for Research of Cancer
 
@@ -188,7 +188,7 @@ The Eighteenth World Health Assembly, Cognizant of Article 18 of the Constitutio
 
 ####Doel
 
-Het doel van het Internationale Instituut voor Kankeronderzoek is de bevordering van internationale samenwerking bij het kankeronderzoek. Het Instituut vormt een middel dat het de Deelnemende Staten en de Wereldgezondheidsorganisatie, in vereniging met het Internationale Verbond tot bestrijding van Kanker en andere daarbij betrokken internationale organisaties mogelijk maakt samen te werken bij het stimuleren van, en het verlenen van steun aan alle fasen van wetenschappelijk onderzoek verband houdende met het kankervraagstuk.  
+Het doel van het Internationale Instituut voor Kankeronderzoek is de bevordering van internationale samenwerking bij het kankeronderzoek. Het Instituut vormt een middel dat het de Deelnemende Staten en de Wereldgezondheidsorganisatie, in vereniging met het Internationale Verbond tot bestrijding van Kanker en andere daarbij betrokken internationale organisaties mogelijk maakt samen te werken bij het stimuleren van, en het verlenen van steun aan alle fasen van wetenschappelijk onderzoek verband houdende met het kankervraagstuk. 
 
 ### Artikel  II  
 
@@ -216,13 +216,13 @@ Ter verwezenlijking van zijn doeleinden vervult het Instituut die volgende funct
 
 (c) het aanmoedigen van, en het verlenen van steun aan op nationaal niveau verrichte onderzoekingen, zo nodig door het oprichten van organisaties voor wetenschappelijk onderzoek.    
 
-5. Bij de uitvoering van het programma van permanente diensten of van bijzondere projecten kan het Instituut samenwerken met iedere andere instelling.    
+5. Bij de uitvoering van het programma van permanente diensten of van bijzondere projecten kan het Instituut samenwerken met iedere andere instelling.   
 
 ### Artikel  III  
 
 ####Deelnemende Staten
 
-Ieder Lid van de Wereldgezondheidsorganisatie kan, met inachtneming van de bepalingen van artikel XII, actief deelnemen aan de werkzaamheden van het Instituut door zich door middel van een aan de Directeur-Generaal van de Wereldgezondheidsorganisatie gerichte kennisgeving te verplichten de bepalingen van dit Statuut in acht te nemen en toe te passen. In dit Statuut worden Leden die een dergelijke kennisgeving hebben ingezonden „Deelnemende Staten” genoemd.  
+Ieder Lid van de Wereldgezondheidsorganisatie kan, met inachtneming van de bepalingen van artikel XII, actief deelnemen aan de werkzaamheden van het Instituut door zich door middel van een aan de Directeur-Generaal van de Wereldgezondheidsorganisatie gerichte kennisgeving te verplichten de bepalingen van dit Statuut in acht te nemen en toe te passen. In dit Statuut worden Leden die een dergelijke kennisgeving hebben ingezonden „Deelnemende Staten” genoemd. 
 
 ### Artikel  IV  
 
@@ -234,7 +234,7 @@ Het Instituut omvat:
 
 (b) die Wetenschappelijke Raad;  
 
-(c) het Secretariaat.    
+(c) het Secretariaat.   
 
 ### Artikel  V  
 
@@ -265,7 +265,7 @@ Het Instituut omvat:
 5.  Besluiten van de Raad van Bestuur ten aanzien van de in lid 3 van dit artikel genoemde punten (a) en (b) worden genomen met een meerderheid van twee derde van de stemmen der leden, die Deelnemende Staten zijn.   
 6.  Besluiten van de Raad van Bestuur worden genomen met gewone meerderheid van stemmen van de leden die aanwezig zijn en hun stem uitbrengen, tenzij in dit Statuut anders is bepaald. Een meerderheid der leden vormt een quorum.   
 7.  De Raad van Bestuur komt ten minste eenmaal per jaar in gewone zitting bijeen. Op verzoek van een derde van de stemmen der leden kan hij ook in buitengewone zitting bijeenkomen.   
-8.  De Raad van Bestuur kan subcommissies en werkgroepen benoemen.   
+8.  De Raad van Bestuur kan subcommissies en werkgroepen benoemen.  
 
 ### Artikel  VI  
 
@@ -273,7 +273,7 @@ Het Instituut omvat:
 
 1.  De Wetenschappelijke Raad is samengesteld uit 12 zeer bekwame geleerden, die zijn gekozen vanwege hun technische kennis op het gebied van het kankeronderzoek en verwante gebieden.   
 2.  De leden van de Wetenschappelijke Raad worden benoemd door de Raad van Bestuur. De Directeur-Generaal van de Wereldgezondheidsorganisatie draagt, na overleg te hebben gepleegd met daartoe bevoegde wetenschappelijke organisaties, aan de Raad van Bestuur een aantal deskundigen voor.   
-3.   De tekst van de vertaling is niet beschikbaar.    
+3.  De tekst van de vertaling is niet beschikbaar.   
 4.  De Wetenschappelijke Raad wordt belast met: 
 
 (a) het vaststellen van zijn eigen huishoudelijk reglement;  
@@ -284,7 +284,7 @@ Het Instituut omvat:
 
 (d) het uitbrengen van periodieke verslagen over de resultaten van bijzondere projecten die gefinancierd worden door het Instituut;  
 
-(e) het uitbrengen van verslag aan de Raad van Bestuur over de onder (b), (c) en (d) hierboven genoemde punten, zodat deze gelijk met het programma en de begroting door de Raad kunnen worden behandeld.     
+(e) het uitbrengen van verslag aan de Raad van Bestuur over de onder (b), (c) en (d) hierboven genoemde punten, zodat deze gelijk met het programma en de begroting door de Raad kunnen worden behandeld.    
 
 ### Artikel  VII  
 
@@ -301,38 +301,38 @@ Het Instituut omvat:
 (b) het toezicht op de uitvoering van het programma en de wetenschappelijke werkzaamheden;  
 
 (c) de leiding in administratieve en financiële aangelegenheden.     
-6.  De Directeur van het Instituut zendt aan alle Deelnemende Staten en aan de Directeur-Generaal van de Wereldgezondheidsorganisatie een verslag van die stand van zaken op het Instituut alsmede de begroting voor het volgende boekjaar, die hen ten minste 30 dagen voor de gewone jaarvergadering van de Raad van Bestuur dienen te bereiken.   
+6.  De Directeur van het Instituut zendt aan alle Deelnemende Staten en aan de Directeur-Generaal van de Wereldgezondheidsorganisatie een verslag van die stand van zaken op het Instituut alsmede de begroting voor het volgende boekjaar, die hen ten minste 30 dagen voor de gewone jaarvergadering van de Raad van Bestuur dienen te bereiken.  
 
 ### Artikel  VIII  
 
 ####Financiën
 
-1.   De tekst van de vertaling is niet beschikbaar.    
+1.  De tekst van de vertaling is niet beschikbaar.   
 2.  Deze jaarlijkse bijdragen zijn verschuldigd op 1 januari van ieder jaar en dienen niet later dan 31 december van dat jaar te worden betaald.   
-3.   De tekst van de vertaling is niet beschikbaar.    
-4.   De tekst van de vertaling is niet beschikbaar.    
+3.  De tekst van de vertaling is niet beschikbaar.   
+4.  De tekst van de vertaling is niet beschikbaar.   
 5.  Een deelnemende Staat die achter is met de betaling van zijn jaarlijkse bijdrage heeft geen stemrecht in de Raad van Bestuur indien het achterstallige bedrag gelijk is aan, of groter is dan de door dat land verschuldigde bijdrage over het voorafgaande boekjaar.   
-6.  De Raad van Bestuur kaïn overgaan tot vorming van een werkkapitaal en de grootte daarvan vaststellen.   
+6.  De Raad van Bestuur kan overgaan tot vorming van een werkkapitaal en de grootte daarvan vaststellen.   
 7.  De Raad van Bestuur is gemachtigd schenkingen of bijzondere bijdragen te aanvaarden, hetzij van personen, hetzij van andere lichamen, of van regeringen. De bijzondere projecten van het Instituut worden gefinancierd uit dergelijke schenkingen of bijzondere bijdragen.   
-8.  De gelden en andere activa van het Instituut worden behandeld als toevertrouwde gelden ingevolge artikel VI (6) en (7) van het financiële reglement van de Wereldgezondheidsorganisatie. De verantwoording hiervan en van de gelden en activa van de Wereldgezondheidsorganisatie vindt gescheiden plaats; zij worden beheerd overeenkomstig het financiële reglement, zoals aanvaard door de Raad van Bestuur.   
+8.  De gelden en andere activa van het Instituut worden behandeld als toevertrouwde gelden ingevolge artikel VI (6) en (7) van het financiële reglement van de Wereldgezondheidsorganisatie. De verantwoording hiervan en van de gelden en activa van de Wereldgezondheidsorganisatie vindt gescheiden plaats; zij worden beheerd overeenkomstig het financiële reglement, zoals aanvaard door de Raad van Bestuur.  
 
 ### Artikel  IX  
 
 ####Het hoofdkantoor
 
-De zetel van het hoofdkantoor van het Instituut wordt vastgesteld door de Raad van Bestuur.  
+De zetel van het hoofdkantoor van het Instituut wordt vastgesteld door de Raad van Bestuur. 
 
 ### Artikel  X  
 
 ####Wijzigingen
 
-Behoudens het bepaalde in artikel VIII, 4, worden wijzigingen in dit Statuut van kracht nadat zij door de Raad van Bestuur zijn aanvaard met een meerderheid van twee derde van de stemmen van zijn leden, die vertegenwoordigers van de Deelnemende Staten zijn, en aanvaard door de Wereldgezondheidsorganisatie.  
+Behoudens het bepaalde in artikel VIII, 4, worden wijzigingen in dit Statuut van kracht nadat zij door de Raad van Bestuur zijn aanvaard met een meerderheid van twee derde van de stemmen van zijn leden, die vertegenwoordigers van de Deelnemende Staten zijn, en aanvaard door de Wereldgezondheidsorganisatie. 
 
 ### Artikel  XI  
 
 ####Inwerkingtreding
 
-De bepalingen van dit Statuut treden in werking nadat vijf van de Staten die het initiatief hebben genomen tot het voorstel een Internationaal Instituut voor Kankeronderzoek in te stellen, de in artikel III bedoelde verplichting op zich hebben genomen de bepalingen van dit Statuut in acht te nemen en toe te passen.  
+De bepalingen van dit Statuut treden in werking nadat vijf van de Staten die het initiatief hebben genomen tot het voorstel een Internationaal Instituut voor Kankeronderzoek in te stellen, de in artikel III bedoelde verplichting op zich hebben genomen de bepalingen van dit Statuut in acht te nemen en toe te passen. 
 
 ### Artikel  XII  
 
@@ -342,14 +342,14 @@ Na het in werking treden van dit Statuut kan elke Lid-Staat van de Wereldgezondh
 
 (a) de Raad van Bestuur, met een meerderheid van twee derde van de stemmen van haar leden, die vertegenwoordigers van de Deelnemende Staten zijn, van oordeel is dat die Staat daadwerkelijk kan bijdragen aan het wetenschappelijke en technische werk van het Instituut;  
 
-(b) die Staat daarna de in artikel III bedoelde verplichting op zich neemt.    
+(b) die Staat daarna de in artikel III bedoelde verplichting op zich neemt.   
 
 ### Artikel  XIII  
 
 ####Uittreding
 
-Een Deelnemende Staat kan zich terugtrekken van deelneming aan de werkzaamheden van het Instituut door de Directeur-Generaal van de Wereldgezondheidsorganisatie kennis te geven van zijn voornemen zich terug te trekken. Die kennisgeving wordt van kracht zes maanden na ontvangst daarvan door de Directeur-Generaal van de Wereldgezondheidsorganisatie.  
+Een Deelnemende Staat kan zich terugtrekken van deelneming aan de werkzaamheden van het Instituut door de Directeur-Generaal van de Wereldgezondheidsorganisatie kennis te geven van zijn voornemen zich terug te trekken. Die kennisgeving wordt van kracht zes maanden na ontvangst daarvan door de Directeur-Generaal van de Wereldgezondheidsorganisatie. 
 
 ####Oprichting van een Internationaal Instituut voor Kankeronderzoek
 
-De Achttiende Wereldgezondheidsvergadering, Gelet op artikel 18 van het Statuut, dat onder meer bepaalt, dat een der functies van de Gezondheidsvergadering is die andere instituten op te richten, die zij wenselijk oordeelt met het oog op het bevorderen en verrichten van wetenschappelijk onderzoek; Overwegende dat de Regeringen van de Bondsrepubliek Duitsland, Frankrijk, Italië, het Verenigd Koninkrijk van Groot-Brittannië en Noord-ledand en de Verenigde Staten van Amerika zijn overeengekomen financiële steun te verlenen aan de totstandkoming van een Internationaal Instituut voor Kankeronderzoek alsook deel te nemen aan de werkzaamheden van dit instituut overeenkomstig de bepalingen van zijn Statuut; Overwegende dat vele Regeringen belangstelling hebben getoond voor de totstandkoming van zulk een instituut; en In aanmerking nemende de inhoud van resolutie WHA 17.49 van de Zeventiende Wereldgezondeidsvergadering, BESLUIT tot oprichting van een Internationaal Instituut voor Kankeronderzoek, dat zijn werkzaamheden zal uitvoeren overeenkomstig de bepalingen van zijn Statuut.   
+De Achttiende Wereldgezondheidsvergadering, Gelet op artikel 18 van het Statuut, dat onder meer bepaalt, dat een der functies van de Gezondheidsvergadering is die andere instituten op te richten, die zij wenselijk oordeelt met het oog op het bevorderen en verrichten van wetenschappelijk onderzoek; Overwegende dat de Regeringen van de Bondsrepubliek Duitsland, Frankrijk, Italië, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika zijn overeengekomen financiële steun te verlenen aan de totstandkoming van een Internationaal Instituut voor Kankeronderzoek alsook deel te nemen aan de werkzaamheden van dit instituut overeenkomstig de bepalingen van zijn Statuut;  Overwegende dat vele Regeringen belangstelling hebben getoond voor de totstandkoming van zulk een instituut; en In aanmerking nemende de inhoud van resolutie WHA 17.49 van de Zeventiende Wereldgezondeidsvergadering, BESLUIT tot oprichting van een Internationaal Instituut voor Kankeronderzoek, dat zijn werkzaamheden zal uitvoeren overeenkomstig de bepalingen van zijn Statuut.   
