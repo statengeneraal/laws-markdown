@@ -1029,9 +1029,7 @@ a. activiteit:
 
 b. plan: plan bij de voorbereiding waarvan krachtens de artikelen 7.2, tweede lid, 7.2a, eerste lid, of 7.6, tweede lid, een milieueffectrapport moet worden gemaakt;  
 
-c. besluit: besluit bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt krachtens artikel 7.2, derde lid, krachtens artikel 7.2, vierde lid, in samenhang met artikel 7.18, of krachtens artikel 7.6, derde lid;  
-
-d. ecologische hoofdstructuur: het samenstel van de gebieden en de verbindingen tussen die gebieden, dat krachtens de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) door het provinciebestuur als zodanig is aangewezen en begrensd, alsmede de grote wateren en de Noordzee, overeenkomstig kaart 5 van de Nota Ruimte, deel 3A (Kamerstukken II 2004/05, 29 435, nr. 154), voorzover die niet behoren tot een gebied als bedoeld in [artikel 10a, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).     
+c. besluit: besluit bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt krachtens artikel 7.2, derde lid, krachtens artikel 7.2, vierde lid, in samenhang met artikel 7.18, of krachtens artikel 7.6, derde lid.     
 3.  Het tweede lid, onder a, onder 2°, geldt niet indien een bepaling uitsluitend betrekking heeft op een besluit als bedoeld in dat lid, onder c.   
 4.  In dit hoofdstuk en de daarop berustende bepalingen wordt onder bevoegd gezag verstaan het bestuursorgaan dat bevoegd is tot het voorbereiden dan wel vaststellen van een plan of een besluit.   
 5.  In dit hoofdstuk en de daarop berustende bepalingen worden, voor zover zij niet reeds op grond van andere wettelijke bepalingen als zodanig dienen te worden aangemerkt, tevens als adviseurs aangemerkt: 
@@ -1116,7 +1114,7 @@ g. een beschrijving van de maatregelen om belangrijke nadelige gevolgen op het m
 h. een overzicht van de leemten in de beschrijvingen, bedoeld in de onderdelen d en e, ten gevolge van het ontbreken van de benodigde gegevens;  
 
 i. een samenvatting die aan een algemeen publiek voldoende inzicht geeft voor de beoordeling van het milieueffectrapport en van de daarin beschreven mogelijke gevolgen voor het milieu van de voorgenomen activiteit en van de beschreven alternatieven.     
-2.  Het milieueffectrapport is gesteld in de Nederlandse taal. De in het eerste lid, onder i, bedoelde samenvatting is steeds in de Nederlandse taal gesteld. Indien een activiteit belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land, zendt degene die de activiteit onderneemt, op verzoek van het bevoegd gezag binnen een bij dat verzoek te bepalen termijn een vertaling van de samenvatting in de landstaal van het gebied in het andere land waar de activiteit belangrijke nadelige gevolgen kan hebben.   
+2.  Het milieueffectrapport is gesteld in de Nederlandse taal. Indien een activiteit belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land, zendt degene die de activiteit onderneemt, op verzoek van het bevoegd gezag binnen een bij dat verzoek te bepalen termijn een vertaling van de samenvatting in de landstaal van het gebied in het andere land waar de activiteit belangrijke nadelige gevolgen kan hebben.   
 3.  Het bevoegd gezag: 
 
 a. stemt het rapport, waaronder het detailniveau daarvan, af op de mate van gedetailleerdheid van het plan en op de fase van het besluitvormingsproces waarin het plan zich bevindt, alsmede, indien het plan deel uitmaakt van een hiërarchie van plannen, in het bijzonder op de plaats die het plan inneemt in die hiërarchie;  
@@ -1134,7 +1132,7 @@ Alvorens het milieueffectrapport op te stellen, raadpleegt het bevoegd gezag de 
 
 ### Artikel  7.9  
 
-1.  Zo spoedig mogelijk nadat een bestuursorgaan het voornemen heeft opgevat tot het voorbereiden van een plan, maar uiterlijk op het moment dat het toepassing geeft aan artikel 7.8, geeft het kennis van dat voornemen, met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Zo spoedig mogelijk nadat het bevoegd gezag het voornemen heeft opgevat tot het voorbereiden van een plan, maar uiterlijk op het moment dat het toepassing geeft aan artikel 7.8, geeft het kennis van dat voornemen, met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 2.  In de kennisgeving wordt vermeld: 
 
 a. dat stukken betreffende het voornemen openbaar zullen worden gemaakt, en waar en wanneer,  
@@ -1144,7 +1142,11 @@ b. dat er gelegenheid wordt geboden zienswijzen over het voornemen naar voren te
 c. of de commissie of een andere onafhankelijke instantie in de gelegenheid wordt gesteld advies uit te brengen over het voornemen, en  
 
 d. of met betrekking tot het ontwerp van het plan toepassing moet worden gegeven aan artikel 7.11.     
-3.  In de kennisgeving wordt voorts vermeld, indien het milieueffectrapport betrekking heeft op een krachtens artikel 7.2, tweede lid, aangewezen plan, en de daarin voorgenomen, krachtens het eerste lid van dat artikel aangewezen, activiteit plaatsvindt in een gebied dat onderdeel uitmaakt van de ecologische hoofdstructuur: dat de in het plan voorgenomen activiteit plaatsvindt in de ecologische hoofdstructuur.   
+3.  In de kennisgeving wordt voorts vermeld dat in het milieueffectrapport tevens een passende beoordeling wordt opgenomen in verband met de mogelijk significante gevolgen voor een Natura 2000-gebied als bedoeld in [artikel 1, onderdeel n, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) indien dat milieueffectrapport betrekking heeft op: 
+
+a. een krachtens artikel 7.2, tweede lid, aangewezen plan, en voor dat plan een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura-2000 gebied;  
+
+b. een plan als bedoeld in artikel 7.2a, eerste lid.     
 4.  Kennisgeving vindt plaats in een publicatie in een ander land ingeval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land.   
 
 ### Artikel  7.10  
@@ -1252,11 +1254,7 @@ b. hij een verklaring gegeven heeft als bedoeld in artikel 7.16, derde lid.
 ### Artikel  7.19  
 
 1.  Indien het bevoegd gezag degene is die een activiteit, aangewezen krachtens artikel 7.2, eerste lid, onder b, wil ondernemen, neemt het in een zo vroeg mogelijk stadium voor de voorbereiding van het besluit dat krachtens het vierde lid van dat artikel is aangewezen een beslissing omtrent de vraag of vanwege de belangrijke nadelige gevolgen die de activiteit voor het milieu kan hebben, een milieueffectrapport moet worden gemaakt. Artikel 7.17, tweede en derde lid, is van overeenkomstige toepassing.   
-2.  Onder een zo vroeg mogelijk stadium wordt het volgende verstaan: 
-
-a. indien het een besluit betreft waarvan krachtens wettelijk voorschrift het voorontwerp van het besluit ter inzage wordt gelegd, het stadium voorafgaand aan de terinzagelegging van dat voorontwerp, of  
-
-b. indien onderdeel a niet van toepassing is, het stadium voorafgaand aan de terinzagelegging van het ontwerp-besluit.     
+2.  Onder een zo vroeg mogelijk stadium wordt verstaan het stadium voorafgaand aan de terinzagelegging van het ontwerp-besluit.   
 3.  Het bevoegd gezag neemt de beslissing na overleg met de bestuursorganen die bij of krachtens een wet moeten worden betrokken bij de voorbereiding van het betrokken besluit.   
 4.  Het bevoegd gezag doet van zijn beslissing mededeling door: 
 
@@ -1328,13 +1326,20 @@ j. alsmede de gegevens die zijn aangewezen in bijlage IV van de EEG-richtlijn mi
 
 ### §  7.8  
 
-####De voorbereiding van het milieueffectrapport dat betrekking heeft op een besluit waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2  van toepassing zijn, met uitzondering van een besluit met betrekking tot een activiteit waarvoor tevens een besluit is vereist waarvoor op grond van [artikel 19f, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) een passende beoordeling moet worden gemaakt
+####De beperkte voorbereiding inzake het milieueffectrapport dat betrekking heeft op een besluit
 
 ### Artikel  7.24  
 
-1.  Degene die een activiteit wil ondernemen, aangewezen krachtens de artikelen 7.2, eerste lid, onder a, onder b in samenhang met artikel 7.18, of 7.6, eerste lid, en die voornemens is een aanvraag in te dienen tot het nemen van een besluit, aangewezen krachtens artikel 7.2, derde of vierde lid, of 7.6, derde lid, en waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 van toepassing zijn, deelt dat voornemen schriftelijk mee aan het bevoegd gezag.   
+1.  Degene die een activiteit wil ondernemen, aangewezen krachtens de artikelen 7.2, eerste lid, onder a, onder b in samenhang met artikel 7.18, of 7.6, eerste lid, en die voornemens is een aanvraag in te dienen tot het nemen van een besluit, aangewezen krachtens artikel 7.2, derde of vierde lid, of 7.6, derde lid, en waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een of meer artikelen van afdeling 13.2 van toepassing zijn, deelt dat voornemen schriftelijk mee aan het bevoegd gezag.   
 2.  Op verzoek van de aanvrager brengt het bevoegd gezag advies uit inzake de reikwijdte en het detailniveau van de informatie ten behoeve van een milieueffectrapport.   
 3.  Bij afwezigheid van een verzoek als bedoeld in het tweede lid kan het bevoegd gezag ambtshalve advies uitbrengen.   
+4.  In afwijking van deze paragraaf is paragraaf 7.9 van overeenkomstige toepassing op de voorbereiding van een milieueffectrapport, ten aanzien van een activiteit als bedoeld in het eerste lid, dat betrekking heeft op een besluit als bedoeld in dat lid en voor welke activiteit tevens: 
+
+a. een besluit is vereist waarvoor op grond van [artikel 19f, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) een passende beoordeling moet worden gemaakt,  
+
+b. een besluit is vereist dat mede uitvoering geeft aan [artikel 2.1, eerste lid, onder c](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), juncto [artikel 2.12, eerste lid, onder a, onder 3°, of het tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of  
+
+c. een plan is vereist als bedoeld in artikel 14.4b.     
 
 ### Artikel  7.25  
 
@@ -1344,19 +1349,15 @@ Het bevoegd gezag raadpleegt de adviseurs en de bestuursorganen, die ingevolge h
 
 Het bevoegd gezag geeft uiterlijk zes weken na ontvangst van het verzoek dan wel bij ontstentenis daarvan uiterlijk zes weken na de mededeling van het voornemen, een advies als bedoeld in artikel 7.24. Het bevoegd gezag kan de termijn eenmaal met ten hoogste zes weken verlengen.  
 
-### Artikel  7.26a  
-
-Op de voorbereiding van een milieueffectrapport, ten aanzien van een activiteit als bedoeld in artikel 7.24, eerste lid, dat betrekking heeft op een besluit als bedoeld in dat lid en voor welke activiteit tevens een besluit is vereist waarvoor op grond van [artikel 19f, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) een passende beoordeling moet worden gemaakt, is in afwijking van de artikelen 7.24 tot en met 7.26, artikel 7.27 van overeenkomstige toepassing.  
-
 ### §  7.9  
 
-####De voorbereiding van het milieueffectrapport dat betrekking heeft op een besluit waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of afdeling 13.2  niet van toepassing zijn alsmede een besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing zijn met betrekking tot een activiteit waarvoor tevens een besluit is vereist waarvoor op grond van [artikel 19f, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) een passende beoordeling moet worden gemaakt
+####De uitgebreide voorbereiding inzake het milieueffectrapport dat betrekking heeft op een besluit
 
 ### Artikel  7.27  
 
-1.  Degene die een activiteit wil ondernemen, aangewezen krachtens artikel 7.2, eerste lid, onder a, dan wel onder b, in samenhang met artikel 7.18, of 7.6, eerste lid, en die voornemens is een aanvraag in te dienen tot het nemen van een besluit, aangewezen krachtens artikel 7.2, derde of vierde lid, en waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of afdeling 13.2 niet van toepassing zijn, deelt dat voornemen zo spoedig mogelijk schriftelijk mee aan het bevoegd gezag.   
-2.  Zo spoedig mogelijk na ontvangst van de mededeling, bedoeld in het eerste lid, dan wel alvorens het milieueffectrapport op te stellen, indien een bestuursorgaan degene is die de activiteit wil ondernemen, raadpleegt het bevoegd gezag de adviseurs en de bestuursorganen die ingevolge het wettelijk voorschrift waarop het besluit berust bij de voorbereiding van het besluit worden betrokken, over de reikwijdte en het detailniveau van de informatie die is gericht op wat relevant is voor het besluit en die op grond van artikel 7.23 in het milieueffectrapport moet worden opgenomen.   
-3.  Zo spoedig mogelijk na ontvangst van de mededeling dan wel na het opvatten van het voornemen door een bestuursorgaan, maar uiterlijk op het moment dat het toepassing geeft aan het tweede lid, geeft het bevoegd gezag kennis van het voornemen, bedoeld in het eerste lid, dan wel van zijn eigen voornemen, met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Degene die een activiteit wil ondernemen, aangewezen krachtens artikel 7.2, eerste lid, onder a, dan wel onder b, in samenhang met artikel 7.18, of 7.6, eerste lid, en die voornemens is een aanvraag in te dienen tot het nemen van een besluit, aangewezen krachtens artikel 7.2, derde of vierde lid, en waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of een of meer artikelen van afdeling 13.2 niet van toepassing zijn, deelt dat voornemen zo spoedig mogelijk schriftelijk mee aan het bevoegd gezag.   
+2.  Zo spoedig mogelijk na ontvangst van de mededeling, bedoeld in het eerste lid, dan wel alvorens het milieueffectrapport op te stellen, indien het bevoegd gezag degene is die de activiteit wil ondernemen, raadpleegt het bevoegd gezag de adviseurs en de bestuursorganen die ingevolge het wettelijk voorschrift waarop het besluit berust bij de voorbereiding van het besluit worden betrokken, over de reikwijdte en het detailniveau van de informatie die is gericht op wat relevant is voor het besluit en die op grond van artikel 7.23 in het milieueffectrapport moet worden opgenomen.   
+3.  Zo spoedig mogelijk na ontvangst van de mededeling dan wel na het opvatten van het voornemen door het bevoegd gezag, maar uiterlijk op het moment dat het toepassing geeft aan het tweede lid, geeft het bevoegd gezag kennis van het voornemen, bedoeld in het eerste lid, dan wel van zijn eigen voornemen, met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 4.  In de kennisgeving wordt vermeld: 
 
 a. dat stukken betreffende het voornemen openbaar zullen worden gemaakt, en waar en wanneer,  
@@ -1364,8 +1365,8 @@ a. dat stukken betreffende het voornemen openbaar zullen worden gemaakt, en waar
 b. dat er gelegenheid wordt geboden zienswijzen over het voornemen naar voren te brengen, aan wie, op welke wijze en binnen welke termijn, en  
 
 c. of de commissie of een andere onafhankelijke instantie in de gelegenheid wordt gesteld advies uit te brengen over het voornemen.     
-5.  In de kennisgeving wordt voorts vermeld indien het milieueffectrapport betrekking heeft op een krachtens artikel 7.2, derde of vierde lid, aangewezen besluit en voor de daarin voorgenomen, krachtens het eerste lid, onder a, van dat artikel aangewezen, activiteit een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura 2000-gebied: dat voor de activiteit een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura 2000-gebied.   
-6.  Kennisgeving vindt plaats in een publicatie in een ander land ingeval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land.   
+5.  In de kennisgeving wordt voorts vermeld indien het milieueffectrapport betrekking heeft op een krachtens artikel 7.2, derde of vierde lid, aangewezen besluit en voor de daarin voorgenomen, krachtens het eerste lid, onder a, van dat artikel aangewezen, activiteit een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura 2000-gebied, bedoeld in [artikel 1, onderdeel n, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md): dat voor de activiteit een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura 2000-gebied, bedoeld in artikel 1, onderdeel n, van de Natuurbeschermingswet 1998.   
+6.  Kennisgeving vindt plaats in een publicatie in een ander land ingeval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land. Degene die de activiteit wil ondernemen overlegt op verzoek van het bevoegd gezag binnen een bij dat verzoek te bepalen termijn een vertaling van de mededeling in de landstaal van het gebied in het andere land waar de activiteit belangrijke nadelige gevolgen kan hebben.   
 7.  In het geval het bevoegd gezag niet degene is die de activiteit wil ondernemen, geeft het uiterlijk zes weken na ontvangst van de mededeling, een advies inzake de reikwijdte en het detailniveau van de informatie ten behoeve van een milieueffectrapport. Het bevoegd gezag kan de termijn eenmaal met ten hoogste zes weken verlengen.   
 
 ### §  7.10  
@@ -1381,7 +1382,11 @@ a. bij het indienen van de aanvraag geen milieueffectrapport is overgelegd, tenz
 b. het overgelegde milieueffectrapport, mede gelet op het advies wanneer dat daarover op grond van artikel 7.26 onderscheidenlijk artikel 7.27 is gegeven, niet voldoet aan artikel 7.23, dan wel onjuistheden bevat;  
 
 c. in gevallen waarin krachtens artikel 14.5 ter voorbereiding van meer dan een besluit één milieueffectrapport wordt gemaakt, de van de aanvrager afkomstige aanvragen tot het nemen van de andere betrokken besluiten niet tegelijkertijd worden ingediend.     
-2.  Het bevoegd gezag laat de aanvraag tevens buiten behandeling indien deze een besluit als bedoeld in artikel 7.2, vierde lid, betreft, dat krachtens wettelijk voorschrift op aanvraag wordt genomen, en waarover krachtens artikel 7.17, eerste lid, geen beslissing is genomen dan wel is beslist dat een milieueffectrapport moet worden gemaakt hetwelk niet is overgelegd.   
+2.  Het bevoegd gezag laat de aanvraag tevens buiten behandeling indien deze een krachtens artikel 7.2, vierde lid, aangewezen besluit betreft, dat krachtens wettelijk voorschrift op aanvraag wordt genomen, en 
+
+a. bij het indienen van de aanvraag geen afschrift is gevoegd van de beslissing krachtens artikel 7.17, eerste lid, inhoudende dat geen milieueffectrapport behoeft te worden gemaakt, of  
+
+b. geen beslissing is genomen krachtens artikel 7.17, eerste lid, dan wel is beslist dat een milieueffectrapport moet worden gemaakt en dat rapport niet is overgelegd.     
 
 ### Artikel  7.29  
 
@@ -1390,17 +1395,17 @@ c. in gevallen waarin krachtens artikel 14.5 ter voorbereiding van meer dan een 
 
 ### Artikel  7.30  
 
-1.  Indien de procedure van totstandkoming van het besluit voorziet in openbare kennisgeving van het voorontwerp of het ontwerp van een besluit, wordt van het milieueffectrapport gelijktijdig openbaar kennisgegeven, behoudens in gevallen als bedoeld in artikel 7.29. Indien die procedure voorziet in openbare kennisgeving van zowel een voorontwerp als een ontwerp van het besluit, wordt van het milieueffectrapport gelijktijdig met het voorontwerp kennisgegeven.   
+1.  Indien de procedure van totstandkoming van het besluit voorziet in openbare kennisgeving van het ontwerp van een besluit, wordt van het milieueffectrapport gelijktijdig openbaar kennisgegeven, behoudens in gevallen als bedoeld in artikel 7.29.   
 2.  Het eerste lid is van overeenkomstige toepassing op de openbare kennisgeving in een publicatie in een ander land in het geval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land.   
-3.  Indien de procedure van totstandkoming van het besluit niet voorziet in openbare kennisgeving van de aanvraag, het voorontwerp of het ontwerp van een besluit, wordt in afwijking van die procedure, van het milieueffectrapport gelijktijdig met het ontwerp van het besluit openbaar kennisgegeven met toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Indien de procedure van totstandkoming van het besluit niet voorziet in openbare kennisgeving van de aanvraag of het ontwerp van een besluit, wordt in afwijking van die procedure, van het milieueffectrapport gelijktijdig met het ontwerp van het besluit openbaar kennisgegeven met toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  7.32  
 
-1.  Indien een aanvraag als bedoeld in artikel 7.28, dan wel het voorontwerp of het ontwerp van een besluit als bedoeld in artikel 7.30, ter inzage wordt gelegd en een ieder in de gelegenheid wordt gesteld daarover zienswijzen naar voren te brengen, kunnen zienswijzen over het milieueffectrapport gelijktijdig naar voren worden gebracht met zienswijzen over die aanvraag dan wel dat voorontwerp of ontwerp, waarmee het milieueffectrapport ter inzage is gelegd.   
-2.  Indien de procedure van totstandkoming van een besluit er niet in voorziet dat de aanvraag, het voorontwerp of het ontwerp van het besluit ter inzage wordt gelegd en een ieder in de gelegenheid wordt gesteld zijn zienswijze daarover naar voren te brengen, zijn in afwijking van die procedure de [artikelen 3:11](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:16 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen over het milieueffectrapport kunnen naar voren worden gebracht door een ieder. Zienswijzen over het milieueffectrapport kunnen gelijktijdig naar voren worden gebracht met de zienswijzen over het ontwerp van het besluit.   
+1.  Indien een aanvraag als bedoeld in artikel 7.28, dan wel het ontwerp van een besluit als bedoeld in artikel 7.30, ter inzage wordt gelegd en een ieder in de gelegenheid wordt gesteld daarover zienswijzen naar voren te brengen, kunnen zienswijzen over het milieueffectrapport gelijktijdig naar voren worden gebracht met zienswijzen over die aanvraag dan wel dat ontwerp, waarmee het milieueffectrapport ter inzage is gelegd.   
+2.  Indien de procedure van totstandkoming van een besluit er niet in voorziet dat de aanvraag of het ontwerp van het besluit ter inzage wordt gelegd en een ieder in de gelegenheid wordt gesteld zijn zienswijze daarover naar voren te brengen, zijn in afwijking van die procedure de [artikelen 3:11](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:16 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen over het milieueffectrapport kunnen naar voren worden gebracht door een ieder. Zienswijzen over het milieueffectrapport kunnen gelijktijdig naar voren worden gebracht met de zienswijzen over het ontwerp van het besluit.   
 3.  De zienswijzen op het milieueffectrapport kunnen slechts betrekking hebben op de inhoud van het milieueffectrapport, het niet voldoen van het rapport aan de bij of krachtens artikel 7.23 gestelde regels dan wel op onjuistheden die het rapport bevat.   
 4.  Indien het eerste lid van toepassing is en de procedure van totstandkoming van een besluit voorziet in de vaststelling van een besluit binnen een bepaalde termijn, dan wordt die termijn, wanneer deze korter is dan de termijn, bedoeld in [artikel 3:16 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verlengd tot de termijn, bedoeld in artikel 3:16 van de Algemene wet bestuursrecht vermeerderd met twee weken.   
-5.  Artikel 7.12 is van overeenkomstige toepassing op een besluit waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of afdeling 13.2 niet van toepassing zijn, en op een besluit ter zake van een activiteit als bedoeld in artikel 7.26a.   
+5.  Artikel 7.12 is van overeenkomstige toepassing op een besluit waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of een of meer artikelen van afdeling 13.2, met uitzondering van artikel 13.2 niet van toepassing zijn, en op een besluit ter zake van een activiteit als bedoeld in artikel 7.24, vierde lid.   
 
 ### Artikel  7.35  
 
@@ -1469,7 +1474,7 @@ a. het ontwerp van het plan, en, indien het milieueffectrapport niet is opgenome
 b. het vastgestelde plan, en, indien het milieueffectrapport niet is opgenomen in dat plan, het milieueffectrapport, gelijktijdig met de bekendmaking daarvan in Nederland.     
 3.  Indien een in een besluit voorgenomen activiteit belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land, wordt, onverminderd het eerste lid, aan de regering van dat land of een door die regering aan te wijzen autoriteit van dat land verstrekt: 
 
-a. de aanvraag, bedoeld in artikel 7.28, onderscheidenlijk het voorontwerp of het ontwerp van het besluit alsmede de milieueffectrapportage en, indien van toepassing, een advies als bedoeld in artikel 7.26 onderscheidenlijk artikel 7.27, gelijktijdig met de terinzagelegging daarvan in Nederland;  
+a. de aanvraag, bedoeld in artikel 7.28, onderscheidenlijk het ontwerp van het besluit alsmede de milieueffectrapportage en, indien van toepassing, een advies als bedoeld in artikel 7.26 onderscheidenlijk artikel 7.27, gelijktijdig met de terinzagelegging daarvan in Nederland;  
 
 b. het besluit en het milieueffectrapport gelijktijdig met de bekendmaking daarvan in Nederland.     
 4.  Op de instanties die daartoe door de bevoegde autoriteit van het andere land zijn aangewezen op grond van hun specifieke verantwoordelijkheid op milieugebied zijn de [artikelen 3:16, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de artikelen 7.9, tweede lid, onder c, artikel 7.25, onderscheidenlijk artikel 7.27, vierde lid, van overeenkomstige toepassing. Tevens worden de in het tweede en derde lid bedoelde bescheiden toegezonden aan deze instanties.   
@@ -1484,7 +1489,7 @@ Indien een ander land belangrijke nadelige gevolgen voor het milieu meent te kun
 
 ### Artikel  7.38e  
 
-Indien een ander land belangrijke nadelige gevolgen voor het milieu kan ondervinden van een in een plan, dan wel besluit voorgenomen activiteit in Nederland kan Onze Minister bepalen dat het bevoegd gezag dat plan dan wel besluit niet vaststelt dan nadat Onze Minister gedurende dertien weken na het einde van de termijn waarbinnen zienswijzen over het ontwerp van dat plan dan wel over de aanvraag, het voorontwerp of ontwerp van dat besluit naar voren kunnen worden gebracht, in de gelegenheid is gesteld de uitkomsten van het overleg, bedoeld in artikel 7.38a, zevende lid, aan het bevoegd gezag te doen toekomen.  
+Indien een ander land belangrijke nadelige gevolgen voor het milieu kan ondervinden van een in een plan, dan wel besluit voorgenomen activiteit in Nederland kan Onze Minister bepalen dat het bevoegd gezag dat plan dan wel besluit niet vaststelt dan nadat Onze Minister gedurende dertien weken na het einde van de termijn waarbinnen zienswijzen over het ontwerp van dat plan dan wel over de aanvraag, of het ontwerp van dat besluit naar voren kunnen worden gebracht, in de gelegenheid is gesteld de uitkomsten van het overleg, bedoeld in artikel 7.38a, zevende lid, aan het bevoegd gezag te doen toekomen.  
 
 ### Artikel  7.38g  
 
@@ -3122,7 +3127,7 @@ In deze paragraaf wordt onder activiteit, plan of besluit verstaan een activitei
 
 ### Artikel  14.4b  
 
-Ingeval terzake van een activiteit tegelijkertijd een besluit en een plan worden voorbereid en dat plan uitsluitend wordt voorbereid met het oog op de inpassing van die activiteit in dat plan wordt ter voorbereiding van dat besluit en dat plan één milieueffectrapport gemaakt. Het rapport wordt voorbereid met toepassing van de paragrafen 7.8 onderscheidenlijk 7.9 en 7.10.  
+Ingeval terzake van een activiteit tegelijkertijd een besluit en een plan worden voorbereid en dat plan uitsluitend wordt voorbereid met het oog op de inpassing van die activiteit in dat plan wordt ter voorbereiding van dat besluit en dat plan één milieueffectrapport gemaakt. Het rapport wordt voorbereid met toepassing van artikel 7.10 en de paragrafen 7.9 en 7.10, met dien verstande dat de aanvraag om een besluit, het ontwerp van een besluit, het ontwerpplan en het milieueffectrapport tegelijkertijd ter inzage worden gelegd. Het milieueffectrapport voldoet aan de artikelen 7.7 en 7.23.  
 
 ### Artikel  14.4c  
 
@@ -3131,7 +3136,7 @@ Ingeval terzake van een activiteit tegelijkertijd een besluit en een plan worden
 
 ### Artikel  14.5  
 
-1.  Ingeval ter zake van een activiteit, dan wel ter zake van verscheidene met elkaar samenhangende activiteiten meer dan een besluit is aangewezen, bij de voorbereiding waarvan op grond van het bij of krachtens deze wet bepaalde een milieueffectrapport moet worden gemaakt en op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, wordt ter voorbereiding van die besluiten één milieueffectrapport gemaakt, met toepassing van paragraaf 7.8.   
+1.  Ingeval ter zake van een activiteit, dan wel ter zake van verscheidene met elkaar samenhangende activiteiten meer dan een besluit is aangewezen, bij de voorbereiding waarvan op grond van het bij of krachtens deze wet bepaalde een milieueffectrapport moet worden gemaakt, wordt ter voorbereiding van die besluiten één milieueffectrapport gemaakt, met toepassing van paragraaf 7.8 in geval op al die besluiten paragraaf 7.8 van toepassing is en met toepassing van paragraaf 7.9 in de overige gevallen.   
 2.  Buiten de gevallen, in het eerste lid bedoeld, kan, ingeval ter zake van een activiteit, dan wel ter zake van verscheidene met elkaar samenhangende activiteiten meer dan een besluit moet worden genomen, bij de voorbereiding waarvan op grond van het bij of krachtens deze wet bepaalde een milieueffectrapport moet worden gemaakt, worden besloten dat ter voorbereiding van die besluiten één milieueffectrapport wordt gemaakt, met toepassing van paragraaf 7.9.   
 3.  Een besluit krachtens het tweede lid wordt genomen: 
 
