@@ -107,7 +107,7 @@ i. het verrichten van een andere activiteit die behoort tot een bij algemene maa
 
 1.  Voor zover ingevolge een bepaling in een provinciale of gemeentelijke verordening een vergunning of ontheffing is vereist om: 
 
-a. een bouwwerk te slopen,  
+a.  vervallen,   
 
 b. een monument als bedoeld in een zodanige verordening: 
 
@@ -1082,7 +1082,7 @@ Het bestuursorgaan zendt een exemplaar van de beschikking tot oplegging van een 
 1.  Een beschikking krachtens deze wet treedt in werking met ingang van de dag na haar bekendmaking.   
 2.  In afwijking van het eerste lid treedt een beschikking in werking met ingang van de dag na afloop van de termijn, bedoeld in [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor het indienen van: 
 
-a. een bezwaarschrift indien het een omgevingsvergunning betreft met betrekking tot een activiteit als bedoeld in artikel 2.1, eerste lid, onder b, f, g of h, of  2.2, eerste lid, onder a, b, c of g, of een wijziging van voorschriften van een omgevingsvergunning die betrekking hebben op een activiteit als hiervoor bedoeld;  
+a. een bezwaarschrift indien het een omgevingsvergunning betreft met betrekking tot een activiteit als bedoeld in artikel 2.1, eerste lid, onder b, f, g of h, of  2.2, eerste lid, onder b, c of g, of een wijziging van voorschriften van een omgevingsvergunning die betrekking hebben op een activiteit als hiervoor bedoeld;  
 
 b. een beroepschrift in gevallen waarin zij is voorbereid met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
 3.  Indien in gevallen als bedoeld in het tweede lid, gedurende de daar bedoelde termijn bij de bevoegde rechter een verzoek om voorlopige voorziening is gedaan, treedt de beschikking niet in werking voordat op dat verzoek is beslist.   

@@ -49,144 +49,21 @@ c. de datum van afgifte;
 
 d. de geldigheidsduur.     
 
-### Artikel  4  
-
-1.  De keuringsinstantie keurt op aanvraag: 
-
-a. hoofdspoorweginfrastructuur voor de afgifte van een goedkeuringscertificaat als bedoeld in bijlage G van het Verdrag;  
-
-b. ingevolge het Verdrag als zodanig aangemerkte onderdelen van de hoofdspoorweginfrastructuur voor de afgifte van een goedkeuringscertificaat als bedoeld in bijlage G van dat Verdrag.     
-2.  De keuring betreft het ontwerp, de beproeving en de aanleg of de productie van de hoofdspoorweginfrastructuur of de onderdelen.   
-3.  De keuring van een onderdeel als bedoeld in het eerste lid, onderdeel b, kan geschieden van een type onderdeel of van een afzonderlijk onderdeel.   
-
-### Artikel  5  
-
-1.  De aanvraag voor een keuring als bedoeld in artikel 4, eerste lid, onderdeel a, wordt ingediend door degene, die zorg draagt voor de aanleg van hoofdspoorweginfrastructuur.   
-2.  De aanvraag voor een keuring als bedoeld in artikel 4, eerste lid, onderdeel b, wordt ingediend door de fabrikant, de eigenaar of de houder van het onderdeel.   
-3.  Bij de aanvraag wordt een informatiedossier overgelegd.   
-4.  Onze Minister kan besluiten dat voor een aanpassing van bestaande hoofdspoorweginfrastructuur een keuring als bedoeld in artikel 4, eerste lid, onderdeel a, wordt aangevraagd.   
-5.  Onder aanpassing van bestaande hoofdspoorweginfrastructuur wordt voor de toepassing van dit artikel verstaan het uitvoeren van ingrijpende werkzaamheden tot wijziging van deze infrastructuur die van invloed zijn op de prestaties daarvan.   
-
-### Artikel  6  
-
-1.  Betreft de keuring hoofdspoorweginfrastructuur dan geeft de keuringsinstantie daarvoor een goedkeuringscertificaat af indien deze hoofdspoorweginfrastructuur in overeenstemming is met het informatiedossier en voldoet aan de toepasselijke technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.   
-2.  De bij de ministeriële regeling, bedoeld in artikel 2, vastgestelde eisen, gelden voor de afgifte van een goedkeuringscertificaat als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.   
-3.  De krachtens [artikel 7 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) bij ministeriële regeling gestelde eisen met betrekking tot het systeem van treinbeïnvloeding gelden voor de afgifte van een goedkeuringscertificaat als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.   
-4.  De krachtens artikel 19, negende lid, bij ministeriële regeling gestelde eisen gelden voor de afgifte van een goedkeuringscertificaat als technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.   
-
-### Artikel  7  
-
-1.  Betreft de keuring een type van een ingevolge het Verdrag als zodanig aangemerkt onderdeel dan geeft de keuringsinstantie daarvoor een certificaat van overeenstemming af indien het onderdeel in overeenstemming is met het informatiedossier en het voldoet aan de bij ministeriële regeling gestelde eisen.   
-2.  Voor elk overeenkomstig dit type geconstrueerd onderdeel dat vergezeld gaat van een verklaring van de fabrikant waarin deze overeenstemming wordt bevestigd, geeft de keuringsinstantie op aanvraag zonder nadere keuring een goedkeuringscertificaat af.   
-3.  Betreft de keuring een afzonderlijk onderdeel dan geeft de keuringsinstantie daarvoor een goedkeuringscertificaat af indien dit onderdeel in overeenstemming is met het informatiedossier en het voldoet aan de bij ministeriële regeling gestelde eisen.   
-
-### Artikel  8  
-
-1.  In afwijking van de artikelen 6 en 7, eerste en derde lid, mag de keuringsinstantie in geval van hoofdspoorweginfrastructuur of onderdelen waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan een of meer van de in die artikelen bedoelde eisen kunnen voldoen, van die eisen afwijken, indien deze technologieën of concepten tenminste dezelfde waarborgen bieden voor de veiligheid of de interoperabiliteit van het verkeer over de hoofdspoorwegen als die eisen.   
-2.  De afwijking wordt afzonderlijk vermeld in het betrokken certificaat van overeenstemming of in het betrokken goedkeuringscertificaat.   
-3.  Bij ministeriële regeling worden nadere regels gesteld over het eerste lid.   
-
-### Artikel  9  
-
-1.  Aan een certificaat van overeenstemming als bedoeld in artikel 7, eerste lid, en aan een goedkeuringscertificaat als bedoeld in artikel 6 of artikel 7, derde lid, kunnen voorschriften worden verbonden of deze documenten kunnen onder beperkingen worden afgegeven.   
-2.  Het is verboden in strijd met deze voorschriften of beperkingen de betrokken onderdelen in de handel te brengen of te gebruiken.   
-
-### Artikel  10  
-
-1.  De keuringsinstantie stelt van keuringen als bedoeld in de paragrafen twee en drie telkens een technisch dossier samen.   
-2.  Nadat het besluit van de keuringsinstantie met betrekking tot deze keuring onherroepelijk is geworden, stelt de keuringsinstantie het betrokken technische dossier aan de aanvrager van de keuring ter beschikking.   
-3.  De keuringsinstantie zendt een afschrift van elk technisch dossier toe aan Onze Minister.   
-
-### Artikel  11  
-
-Bij ministeriële regeling kunnen nadere regels worden gesteld over de vorm en inhoud van: 
-
-1°. het informatiedossier, bedoeld in artikel 5, derde lid;  
-
-2°. het certificaat van overeenstemming, bedoeld in artikel 7, eerste lid;  
-
-3°. de goedkeuringscertificaten, bedoeld in de artikelen 6 en 7, derde lid;  
-
-4°. het technisch dossier, bedoeld in artikel 10, eerste lid.    
-
 ### §  3  
 
 ####Keuring na herstel
-
-### Artikel  12  
-
-Indien hoofdspoorweginfrastructuur die overeenkomstig de [wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) voor het verkeer daarover is goedgekeurd een ernstige beschadiging heeft ondergaan, kan Onze Minister bepalen dat deze hoofdspoorweginfrastructuur na herstel door de keuringsinstantie gekeurd wordt.  
-
-### Artikel  13  
-
-1.  De aanvraag voor een keuring als bedoeld in artikel 12 wordt door de beheerder ingediend.   
-2.  Bij de aanvraag wordt een informatiedossier overgelegd.   
-
-### Artikel  14  
-
-1.  De keuringsinstantie keurt de herstelde hoofdspoorweginfrastructuur goed indien deze voldoet aan de toepasselijke technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG, respectievelijk artikel 2, onderdeel g, van richtlijn 96/48/EG.   
-2.  De bij de ministeriële regeling, bedoeld in artikel 2, vastgestelde eisen, gelden voor de afgifte van een goedkeuringscertificaat als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.   
-3.  De krachtens [artikel 7 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) bij regeling van Onze Minister gestelde eisen met betrekking tot het systeem van treinbeïnvloeding gelden voor de afgifte van de EG-keuringsverklaring als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.   
-4.  De krachtens artikel 19, negende lid, bij ministeriële regeling gestelde eisen gelden voor de afgifte van een goedkeuringscertificaat als technische specificaties inzake interoperabiliteit.   
-5.  Na goedkeuring verstrekt de keuringsinstantie voor de herstelde hoofdspoorweginfrastructuur een goedkeuringscertificaat.   
-
-### Artikel  15  
-
-Indien de keuringsinstantie de herstelde hoofdspoorweginfrastructuur afkeurt, vervalt de geldigheid van de met betrekking tot die infrastructuur verleende goedkeuring als bedoeld in artikel 12 op het tijdstip waarop het besluit van de keuringsinstantie onherroepelijk wordt.  
 
 ### §  4  
 
 ####Intrekking en verval geldigheid goedkeuringscertificaat
 
-### Artikel  16  
-
-1.  Indien de keuringsinstantie vaststelt, dat een onderdeel waarvoor deze instantie een goedkeuringscertificaat als bedoeld in artikel 7 heeft afgegeven, niet langer voldoet aan de bij ministeriële regeling als bedoeld in dat artikel gestelde eisen, stelt deze instantie de beheerder, die het onderdeel gebruikt, of de eigenaar of houder daarvan in de gelegenheid het gebrek te herstellen binnen een door deze instantie te stellen termijn.   
-2.  Indien de beheerder, eigenaar of houder niet voldoet aan het eerste lid, doet de keuringsinstantie daarvan melding aan Onze Minister, die het betrokken goedkeuringscertificaat kan intrekken.   
-
-### Artikel  17  
-
-De geldigheid van een goedkeuringscertificaat als bedoeld in artikel 6 vervalt van rechtswege bij de definitieve buitengebruikstelling van de betrokken hoofdspoorweginfrastructuur.  
-
 ### §  5  
 
 ####Registratie en bewaring van gegevens of documenten
 
-### Artikel  18  
-
-1.  De keuringsinstantie voert een deugdelijke registratie terzake van de krachtens dit besluit verrichte keuringen en afgegeven, ingetrokken of geweigerde certificaten.   
-2.  De keuringsinstantie bewaart afschriften van technische dossiers als bedoeld in artikel 10, eerste lid.   
-3.  Bij ministeriële regeling kunnen over het eerste of het tweede lid, nadere regels worden gesteld.   
-4.  De gegevens, bedoeld in het eerste lid, en de bescheiden, bedoeld in het tweede lid, worden gedurende de gehele levensduur van de betrokken hoofdspoorweginfrastructuur bewaard.   
-
 ### §  6  
 
 ####EG-verklaringen
-
-### Artikel  19  
-
-1.  Een EG-keuringsverklaring als bedoeld in [artikel 8, tweede lid, onderdeel a of b van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt afgegeven door degene die de aanleg van nieuwe of de vernieuwing of verbetering van bestaande hoofdspoorweginfrastructuur aanbesteedt of door diens in Nederland gevestigde gemachtigde.   
-2.  Een EG-keuringsverklaring voldoet aan bijlage V van richtlijn 2001/16/EG respectievelijk bijlage V van richtlijn 96/48/EG.   
-3.  Onder vernieuwing wordt verstaan belangrijke vervangingswerkzaamheden waarbij bestaande hoofdspoorweginfrastructuur wordt gewijzigd en die geen wijziging van de algemene prestaties van die hoofdspoorweginfrastructuur tot gevolg hebben.   
-4.  Onder verbetering wordt verstaan belangrijke werkzaamheden waarbij bestaande hoofdspoorweginfrastructuur wordt gewijzigd en die een verbetering van de algemene prestaties van die hoofdspoorweginfrastructuur tot gevolg hebben.   
-5.  Degene die de vernieuwing of verbetering van bestaande hoofdspoorweginfrastructuur aanbesteedt, dient bij Onze Minister een dossier in waarin het project beschreven wordt.   
-6.  Onze Minister bepaalt op basis van het dossier, bedoeld in het vijfde lid, dat een nieuwe EG-keuringsverklaring moet worden afgegeven indien: 
-
-a. de omvang van de voorgenomen verbetering of vernieuwing dit volgens hem noodzakelijk maakt, of  
-
-b. de verbetering of vernieuwing gevolgen heeft voor de algehele veiligheid van de desbetreffende hoofdspoorweginfrastructuur.     
-7.  De krachtens artikel 2 van dit besluit bij regeling van Onze Minister vastgestelde eisen gelden voor de afgifte van een EG-keuringsverklaring als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.   
-8.  De krachtens [artikel 7 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) bij regeling van Onze Minister gestelde eisen met betrekking tot het systeem van automatische treinbeïnvloeding gelden voor de afgifte van de EG-keuringsverklaring als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.   
-9.  Bij ministeriële regeling worden eisen vastgesteld ter uitvoering van de technische specificaties inzake interoperabiliteit als bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk in artikel 2, onderdeel g, van richtlijn 2001/16/EG, die voor de afgifte van een EG-keuringsverklaring als zodanige technische specificaties inzake interoperabiliteit gelden.   
-
-### Artikel  20  
-
-1.  Een EG-verklaring van conformiteit of van geschiktheid voor gebruik als bedoeld in [artikel 10, eerste lid, onderdelen a of b, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) wordt afgegeven door: 
-
-a. de fabrikant van de betrokken onderdelen of diens in Nederland gevestigde gemachtigde, of  
-
-b. degene die deze onderdelen van diverse herkomst of delen daarvan assembleert dan wel voor eigen gebruik vervaardigt.     
-2.  In afwijking van het eerste lid wordt de daar bedoelde verklaring afgegeven door degene die deze onderdelen in Nederland in de handel brengt indien de personen, genoemd in het eerste lid, onderdelen a en b, [artikel 10, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) niet naleven.   
-3.  Een EG-verklaring van conformiteit voldoet aan bijlage IV van richtlijn 2001/16/EG respectievelijk bijlage IV van richtlijn 96/48/EG.   
 
 ### §  7  
 
@@ -282,10 +159,6 @@ e. ten aanzien van welke bruggen de beheerder door hem goed te keuren voorwaarde
 
 1.  Vergunningen die ingevolge [artikel 15 van het Reglement dienst hoofd- en lokaalspoorwegen](../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md) (Stb. 1977, 152) en ontheffingen die ingevolge [artikel 39 van de Spoorwegwet (Stb. 1875, 67)](../../../../wet/spoorwegwet/BWBR0001848/README.md) zijn verleend van de [artikelen 36, eerste lid](../../../../wet/spoorwegwet/BWBR0001848/README.md), [37](../../../../wet/spoorwegwet/BWBR0001848/README.md) en [38 van de Spoorwegwet (Stb. 1875, 67)](../../../../wet/spoorwegwet/BWBR0001848/README.md) en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt, aangemerkt als verleend op grond van [artikel 19 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).   
 2.  Ontheffingen die ingevolge [artikel 39 van de Spoorwegwet (Stb. 1875, 67)](../../../../wet/spoorwegwet/BWBR0001848/README.md) zijn verleend van [artikel 36, tweede lid, van de Spoorwegwet (Stb. 1875, 67)](../../../../wet/spoorwegwet/BWBR0001848/README.md) en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt, aangemerkt als verleend op grond van [artikel 21 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).   
-
-### Artikel  28  
-
-Overtreding van artikel 9, tweede lid, vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).  
 
 ### Artikel  29  
 

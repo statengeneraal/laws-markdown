@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. politiegegeven: elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon dat in het kader van de uitoefening van de politietaak wordt verwerkt;  
+a. politiegegeven: elk persoonsgegeven dat in het kader van de uitoefening van de politietaak wordt verwerkt;  
 
 b. politietaak: de taken, bedoeld in de [artikelen 2](../../../../wet/politiewet/1993/BWBR0006299/README.md) en [6, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);  
 
@@ -54,7 +54,15 @@ j. Onze Ministers: Onze Ministers van Justitie, van Binnenlandse Zaken en Konink
 
 k. ambtenaar van politie: de ambtenaar, bedoeld in [artikel 3 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), alsmede de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaken, bedoeld in [artikel 6, eerste lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md), en, indien artikel 46 wordt toegepast, de ambtenaar, werkzaam bij de in dat artikel bedoelde dienst;  
 
-l. gerelateerde gegevens: de politiegegevens die bij de vergelijking van gegevens, bedoeld in de artikelen 8, tweede lid, 11, eerste en tweede lid, 12, vierde lid en 24, eerste lid, overeenkomen en de erbij behorende gegevens alsmede de politiegegevens waarmee bij het in combinatie met elkaar verwerken van politiegegevens, bedoeld in de artikelen 8, derde lid en 11, vierde lid, verband blijkt te bestaan, voor zover verdere verwerking van de gegevens voor het betreffende doel noodzakelijk is.    
+l. gerelateerde gegevens: de politiegegevens die bij de vergelijking van gegevens, bedoeld in de artikelen 8, tweede lid, 11, eerste en tweede lid, 12, vierde lid en 24, eerste lid, overeenkomen en de erbij behorende gegevens alsmede de politiegegevens waarmee bij het in combinatie met elkaar verwerken van politiegegevens, bedoeld in de artikelen 8, derde lid en 11, vierde lid, verband blijkt te bestaan, voor zover verdere verwerking van de gegevens voor het betreffende doel noodzakelijk is;  
+
+m. persoonsgegeven, ontvanger en toestemming van de betrokkene: hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+
+n. afschermen: het markeren van opgeslagen politiegegevens met als doel de verwerking ervan in de toekomst te beperken;  
+
+o. kenmerken: het markeren van opgeslagen politiegegevens, zonder de bedoeling om hun toekomstige verwerking te beperken;  
+
+p. bestand: elk gestructureerd geheel van politiegegevens, ongeacht of dit geheel van gegevens gecentraliseerd of verspreid is op een functioneel of geografisch bepaalde wijze, dat volgens bepaalde criteria toegankelijk is en betrekking heeft op verschillende personen.    
 
 ### Artikel  2  
 
@@ -66,7 +74,6 @@ l. gerelateerde gegevens: de politiegegevens die bij de vergelijking van gegeven
 a. ten behoeve van activiteiten met uitsluitend persoonlijke doeleinden;  
 
 b. ten behoeve van de interne bedrijfsvoering.     
-3.  Onder bestand wordt in dit artikel verstaan: elk gestructureerd geheel van politiegegevens, ongeacht of dit geheel van gegevens gecentraliseerd of verspreid is op een functioneel of geografisch bepaalde wijze, dat volgens bepaalde criteria toegankelijk is en betrekking heeft op verschillende personen.   
 
 ### Artikel  3  
 
@@ -74,7 +81,7 @@ b. ten behoeve van de interne bedrijfsvoering.
 
 1.  Politiegegevens worden slechts verwerkt voor zover dit noodzakelijk is voor de bij of krachtens deze wet geformuleerde doeleinden.   
 2.  Politiegegevens worden slechts verwerkt voor zover zij rechtmatig zijn verkregen en, gelet op de doeleinden waarvoor zij worden verwerkt, toereikend, terzake dienend en niet bovenmatig zijn.   
-3.  Politiegegevens worden uitsluitend voor een ander doel verwerkt dan waarvoor zij zijn verkregen voor zover deze wet daar uitdrukkelijk in voorziet.   
+3.  Politiegegevens worden uitsluitend voor een ander doel verwerkt dan waarvoor zij zijn verkregen voor zover deze wet daar uitdrukkelijk in voorziet, deze verwerking niet onverenigbaar is met het doel waarvoor deze gegevens zijn verkregen en de verwerking voor dat andere doel overigens noodzakelijk is en in verhouding staat tot dat doel. De verdere verwerking is alleen mogelijk door personen en instanties die bij of krachtens de wet met het oog op een zwaarwegend algemeen belang zijn aangewezen.   
 4.  Bij de verwerking van politiegegevens op grond van de artikelen 9, 10 en 12 worden de herkomst van de gegevens en de wijze van verkrijging vermeld.   
 
 ### Artikel  4  
@@ -83,7 +90,7 @@ b. ten behoeve van de interne bedrijfsvoering.
 
 1.  De verantwoordelijke treft de nodige maatregelen opdat politiegegevens, gelet op de doeleinden waarvoor zij worden verwerkt, juist en nauwkeurig zijn. Hij verbetert of vernietigt politiegegevens of vult deze aan indien hem blijkt dat deze onjuist of onvolledig zijn.   
 2.  De verantwoordelijke treft de nodige maatregelen opdat politiegegevens worden verwijderd of vernietigd zodra zij niet langer noodzakelijk zijn voor het doel waarvoor ze zijn verwerkt of dit door enige wettelijke bepaling wordt vereist.   
-3.  De verantwoordelijke treft passende technische en organisatorische maatregelen om de politiegegevens te beveiligen tegen verlies of enige vorm van onrechtmatige verwerking. Deze maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau, gelet op de risico’s die de verwerking en de aard van de politiegegevens met zich meebrengen.   
+3.  De verantwoordelijke treft passende technische en organisatorische maatregelen om politiegegevens te beveiligen tegen onbedoelde of onrechtmatige vernietiging, tegen wijziging, ongeoorloofde mededeling of toegang, met name indien de verwerking verzending van gegevens via een netwerk of beschikbaarstelling via directe geautomatiseerde toegang omvat, en tegen alle andere vormen van onrechtmatige verwerking, waarbij met name rekening wordt gehouden met de risico’s van de verwerking en de aard van de te beschermen gegevens. Deze maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau, gelet op de risico’s van de verwerking en de aard van de politiegegevens.   
 4.  De verantwoordelijke heeft toegang tot de politiegegevens die onder zijn beheer worden verwerkt ten behoeve van het toezicht op de naleving van het bij of krachtens deze wet bepaalde.   
 5.  De verantwoordelijke verleent degenen die belast zijn met de controle en het toezicht, bedoeld in de artikelen 33, 34, 35 en 36, alsmede degenen die in zijn opdracht technische werkzaamheden verrichten toegang tot de politiegegevens die onder zijn beheer worden verwerkt, voor zover zij deze behoeven voor de uitvoering van hun taak.   
 6.  De [artikelen 14, eerste, tweede, derde en vijfde lid](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), [49](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [50 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
@@ -294,11 +301,16 @@ d. de korpsbeheerders, Onze Minister van Binnenlandse Zaken en Koninkrijksrelati
 ####(verstrekking aan inlichtingendiensten en buitenlandse opsporingsinstanties)
 
 1.  Politiegegevens kunnen worden verstrekt voor zover dit voortvloeit uit de [Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
-2.  Politiegegevens kunnen worden verstrekt voor zover dit voortvloeit uit wettelijke bepalingen met betrekking tot de samenwerking met en bijstand aan een internationaal strafgerecht.   
+2.  Politiegegevens kunnen worden verstrekt aan een internationaal orgaan of aan een internationaal strafgerecht voor zover dit voortvloeit uit een verdrag.   
 3.  Politiegegevens kunnen worden verstrekt aan autoriteiten in een land binnen het Koninkrijk of in een ander land die zijn belast met de uitvoering van de politietaak, of van onderdelen daarvan, voor zover dit noodzakelijk is voor de goede uitvoering van de politietaak in het Europese deel van Nederland of de politietaak in het desbetreffende land.   
-4.  Politiegegevens kunnen worden verstrekt aan Interpol en Europol voor zover dit voortvloeit uit internationale verdragen of wettelijke bepalingen.   
-5.  Politiegegevens worden alleen ingevolge het derde of vierde lid verstrekt indien bij de ontvangende instantie voldoende waarborgen aanwezig zijn voor een juist gebruik van de verstrekte gegevens en voor de bescherming van de persoonlijke levenssfeer.   
-6.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van politiegegevens, bedoeld in het derde en vierde lid, alsmede over de daarbij te stellen voorwaarden aan het gebruik daarvan door ontvangstgerechtigde politieautoriteiten.   
+4.  Politiegegevens kunnen worden verstrekt of doorgegeven aan de bevoegde autoriteit van een andere lidstaat van de Europese Unie of aan een orgaan van de Europese Unie dat is belast met de ondersteuning en versterking van de wetshandhavingsdiensten van de lidstaten bij de voorkoming, bestrijding, onderzoek en vervolging van zware criminaliteit en dat bij algemene maatregel van bestuur is aangewezen.   
+5.  Politiegegevens worden alleen ingevolge het tweede of derde lid verstrekt of doorgegeven indien het ontvangende land of internationaal orgaan een toereikend beschermingsniveau voor de voorgenomen gegevensverwerking garandeert. Of het beschermingsniveau toereikend is wordt beoordeeld met inachtneming van alle omstandigheden die op de doorgifte van gegevens of op een groep van gegevensverstrekkingen van invloed zijn. In het bijzonder wordt rekening gehouden met de aard van de gegevens, met het doel en de duur van de voorgenomen verwerking en verwerkingen, het land van herkomst en het land of internationale orgaan van eindbestemming van de gegevens, de algemene en sectorale rechtsregels die in het derde land of het internationale orgaan gelden, alsmede de beroepscodes en de veiligheidsmaatregelen die in het land of het orgaan van toepassing zijn.   
+6.  In afwijking van het vijfde lid kunnen politiegegevens worden verstrekt of doorgegeven indien: 
+
+a. dit noodzakelijk is ten behoeve van specifieke belangen van de betrokkene of een dringend zwaarwegend algemeen belang; of  
+
+b. het betreffende land of het ontvangende internationale orgaan passende garanties biedt voor een zorgvuldige gegevensverwerking in het concrete geval.     
+7.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking of doorgifte van politiegegevens, bedoeld in het tweede, derde en vierde lid, alsmede over de verdere verwerking en de daarbij te stellen voorwaarden aan het gebruik daarvan door ontvangstgerechtigde autoriteiten of internationale organen en over de ontvangst van politiegegevens vanuit het buitenland.   
 
 ### Artikel  17a  
 
@@ -385,7 +397,7 @@ b. bij algemene maatregel van bestuur aan te wijzen beslissingen.
 
 ####(verzoek om kennisneming)
 
-1.  De verantwoordelijke deelt een ieder op diens schriftelijke verzoek binnen zes weken mede of, en zo ja welke, deze persoon betreffende politiegegevens zijn vastgelegd. De verantwoordelijke kan zijn beslissing voor ten hoogste vier weken verdagen, dan wel voor ten hoogste zes weken indien blijkt dat ook bij andere politiekorpsen politiegegevens over de verzoeker worden verwerkt. Van de verdaging wordt schriftelijk mededeling gedaan.   
+1.  De verantwoordelijke deelt een ieder op diens schriftelijke verzoek binnen zes weken mede of, en zo ja welke, deze persoon betreffende politiegegevens verwerking ondergaan. Hij verstrekt daarbij tevens desgevraagd inlichtingen over de vraag of de deze persoon betreffende politiegegevens gedurende een periode van vier jaar voorafgaande aan het verzoek zijn verstrekt en over de ontvangers of categorieën van ontvangers aan wie de gegevens zijn verstrekt. De verantwoordelijke kan zijn beslissing voor ten hoogste vier weken verdagen, dan wel voor ten hoogste zes weken indien blijkt dat ook bij andere politiekorpsen politiegegevens over de verzoeker worden verwerkt. Van de verdaging wordt schriftelijk mededeling gedaan.   
 2.  Bij regeling van Onze Ministers kunnen nadere regels worden gesteld over het verzoek en de wijze van kennisneming.   
 
 ### Artikel  26  
@@ -400,22 +412,22 @@ b. bij algemene maatregel van bestuur aan te wijzen beslissingen.
 
 ####(uitzonderingen)
 
-1.  Een verzoek als bedoeld in artikel 25, eerste lid, wordt afgewezen voor zover het onthouden van kennisneming noodzakelijk is in het belang van: 
+1.  Een verzoek, als bedoeld in artikel 25, eerste lid, wordt afgewezen voor zover het onthouden van kennisneming noodzakelijk is in het belang van: 
 
 a. de goede uitvoering van de politietaak;  
 
-b. gewichtige belangen van derden;  
+b. de bescherming van de rechten van de betrokkene of van de rechten en vrijheden van derden;  
 
 c. de veiligheid van de staat.     
 2.  Een gehele of gedeeltelijke afwijzing vindt schriftelijk plaats.   
 
 ### Artikel  28  
 
-####(verbetering, aanvulling, verwijdering of afscherming van politiegegevens)
+####(verbetering, aanvulling, verwijdering, afscherming of markering van politiegegevens)
 
-1.  Degene aan wie overeenkomstig artikel 25 kennis is gegeven van hem betreffende politiegegevens, kan de verantwoordelijke schriftelijk verzoeken deze te verbeteren, aan te vullen, te verwijderen of af te schermen, indien deze feitelijk onjuist, voor het doel van de verwerking onvolledig of niet terzake dienend zijn dan wel in strijd met een wettelijk voorschrift worden verwerkt. Het verzoek bevat de aan te brengen wijzigingen.   
+1.  Een ieder over wiens persoon politiegegevens worden verwerkt kan de verantwoordelijke schriftelijk verzoeken deze te verbeteren, aan te vullen, te verwijderen of af te schermen indien deze feitelijk onjuist, voor het doel van de verwerking onvolledig of niet ter zake dienend zijn, dan wel in strijd met een wettelijk voorschrift worden verwerkt. Het verzoek bevat de aan te brengen wijzigingen.   
 2.  De verantwoordelijke bericht de verzoeker binnen vier weken na ontvangst van het verzoek schriftelijk of, dan wel in hoeverre, hij daaraan voldoet. [Artikel 37, eerste lid, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing. Een weigering is met redenen omkleed.   
-3.  De verantwoordelijke draagt zorg dat een beslissing tot verbetering, aanvulling, verwijdering of afscherming zo spoedig mogelijk wordt uitgevoerd.   
+3.  De verantwoordelijke draagt ervoor zorg dat een beslissing tot verbetering, aanvulling, verwijdering of afscherming zo spoedig mogelijk wordt uitgevoerd. Hij draagt zorg voor het kenmerken van een gegeven als de juistheid daarvan door de betrokkene wordt betwist en niet kan worden vastgesteld of het gegeven al dan niet juist is.   
 
 ### Artikel  29  
 
@@ -471,7 +483,7 @@ g. verwerkingen ten aanzien waarvan aanwijzingen bestaan dat zij door onbevoegde
 
 h. een geautomatiseerde vergelijking van gegevens als bedoeld in artikel 11, vijfde lid.     
 2.  De verantwoordelijke draagt zorg voor de schriftelijke melding van een gemeenschappelijke verwerking van politiegegevens aan het College bescherming persoonsgegevens.   
-3.  De politiegegevens, bedoeld in het eerste lid, worden bewaard tenminste tot de datum waarop de laatste controle, bedoeld in artikel 33, is verricht of, ten aanzien van onderdeel d, zoveel langer als nodig is voor de naleving van de verplichtingen van de verantwoordelijke, bedoeld in artikel 30, eerste lid.   
+3.  De politiegegevens, bedoeld in het eerste lid, worden bewaard tenminste tot de datum waarop de laatste controle, bedoeld in artikel 33, is verricht of, ten aanzien van onderdeel d, zoveel langer als nodig is voor de naleving van de verplichtingen van de verantwoordelijke, bedoeld in de artikelen 25, eerste lid, en 30, eerste lid.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de wijze van vastlegging.   
 
 ### Artikel  33  
@@ -500,7 +512,7 @@ h. een geautomatiseerde vergelijking van gegevens als bedoeld in artikel 11, vij
 1.  Het College bescherming persoonsgegevens ziet toe op de verwerking van politiegegevens overeenkomstig het bij en krachtens deze wet bepaalde.   
 2.  De [artikelen 51, tweede lid](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), [60](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), [61](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [65 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
 3.  Indien de verantwoordelijke handelt in strijd met hetgeen is bepaald bij of krachtens artikel 32, kan het College hem een bestuurlijke boete opleggen. De [artikelen 66 tot en met 74 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
-4.  Het College bescherming persoonsgegevens wordt gehoord over de ingevolge deze wet bij of krachtens algemene maatregel van bestuur te stellen regels.   
+4.  Het College bescherming persoonsgegevens wordt gehoord over de voorgenomen verwerking van politiegegevens, die in een nieuw bestand zullen worden opgenomen, wanneer deze verwerking de gegevens betreft, bedoeld in artikel 5, of wanneer de aard van de verwerking, in het bijzonder met gebruikmaking van nieuwe technologieën, mechanismen of procedures, specifieke risico’s met zich meebrengt voor de fundamentele rechten van de betrokkene, in het bijzonder het recht op bescherming van de persoonlijke levenssfeer.   
 
 ### Artikel  36  
 

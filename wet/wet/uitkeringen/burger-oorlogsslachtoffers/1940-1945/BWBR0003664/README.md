@@ -186,18 +186,18 @@ De periodieke uitkering bedraagt een percentage van de overeenkomstig het bepaal
 
 1.  Het in artikel 13 bedoelde percentage bedraagt voor het burger-oorlogsslachtoffer dat de 65-jarige leeftijd nog niet heeft bereikt: 
 
-a. 80, indien het burger-oorlogsslachtoffer is gehuwd, tenzij het bepaalde onder *b* van toepassing is;  
+a. 80, indien het burger-oorlogsslachtoffer is gehuwd, tenzij het bepaalde onder b van toepassing is;  
 
-b. 70, indien het burger-oorlogsslachtoffer is gehuwd en het inkomen van de echtgenoot, inkomsten uit vermogen daaronder niet begrepen, meer bedraagt dan 30% van het bedrag, bedoeld in artikel 10, achtste lid, onder *b*;  
+b. 70, indien het burger-oorlogsslachtoffer is gehuwd en het inkomen van de echtgenoot, inkomsten uit vermogen daaronder niet begrepen, meer bedraagt dan 30% van het bedrag, bedoeld in artikel 10, achtste lid, onder b;  
 
 c. 75, indien het burger-oorlogsslachtoffer niet is gehuwd en minderjarige kinderen te zijnen laste heeft;  
 
 d. 70, indien het burger-oorlogsslachtoffer als alleenstaande moet worden aangemerkt.     
-2.  Het in artikel 13 bedoelde percentage bedraagt voor het burger-oorlogsslachtoffer met ingang van de eerste dag van de maand waarin hij de 65-jarige leeftijd heeft bereikt: 
+2.  Het in artikel 13 bedoelde percentage bedraagt voor het burger-oorlogsslachtoffer met ingang van de dag waarop hij de 65-jarige leeftijd heeft bereikt: 
 
 a. 65, indien het burger-oorlogsslachtoffer is gehuwd, tenzij het bepaalde onder *b* van toepassing is;  
 
-b. 55, indien het burger-oorlogsslachtoffer is gehuwd en het inkomen van de echtgenoot, inkomsten uit vermogen daaronder niet begrepen, meer bedraagt dan 30% van het bedrag, bedoeld in artikel 10, achtste lid, onder *b*;  
+b. 55, indien het burger-oorlogsslachtoffer is gehuwd en het inkomen van de echtgenoot, inkomsten uit vermogen daaronder niet begrepen, meer bedraagt dan 30% van het bedrag, bedoeld in artikel 10, achtste lid, onder b;  
 
 c. 60, indien het burger-oorlogsslachtoffer niet is gehuwd en minderjarige kinderen te zijnen laste heeft;  
 

@@ -1,12 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 18 april 1979, tot uitvoering van de artikelen 7, eerste lid, 9, eerste lid, 10, vierde lid, 15, eerste en tweede lid, en 18, vierde lid, van de Huurprijzenwet woonruimte
+##Besluit van 18 april 1979 tot uitvoering van de artikelen 7, eerste lid, 9, eerste lid, 10, vierde lid, 15, eerste en tweede lid, en 18, vierde lid, van de Huurprijzenwet woonruimte
 
 Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting en Ruimtelijke Ordening, drs. M.P.A. van Dam, van 7 september 1977, nr. 0902932, Centrale Afdeling Juridische Zaken;
 
-Gelet op de [artikelen 7, eerste lid, 9, eerste lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), [10, vierde lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), [15, eerste en tweede lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), en [18, vierde lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), [artikel 26a, eerste en derde lid, van de Huurprijzenwet woonruimte](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md) (Wet van 18 januari 1979, *Stb.* 1979, 15);
+Gelet op de [artikelen 7, eerste lid, 9, eerste lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), [10, vierde lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), [15, eerste en tweede lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), en [18, vierde lid, van de Huurprijzenwet woonruimte](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md) (Wet van 18 januari 1979, *Stb.* 1979, 15);
 
 De Raad van State gehoord, advies van 22 november 1978, nr. 13;
 
@@ -29,11 +29,12 @@ Het bedrag, bedoeld in [artikel 3, tweede lid, van de Uitvoeringswet huurprijzen
 
 ### Artikel  4  
 
-Het bedrag van de bij wijze van voorschot aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en het bedrag van de vergoeding, bedoeld in dat lid, wordt vastgesteld op: 
+1.  Het bedrag van de bij wijze van voorschot aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en het bedrag van de vergoeding, bedoeld in dat lid, wordt vastgesteld op: 
 
 a. indien de verzoeker dan wel de partij die niet de verzoeker is een natuurlijke persoon is: € 25, dan wel  
 
-b. indien de verzoeker dan wel de partij die niet de verzoeker is een rechtspersoon is: € 450.    
+b. indien de verzoeker dan wel de partij die niet de verzoeker is een rechtspersoon is: € 450.     
+2.  Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), wordt vastgesteld op € 100.   
 
 ### Artikel  4a  
 
@@ -188,7 +189,7 @@ J. de Ruiter
 | --- | --- | --- | --- | --- |
 | begane grond  | 6 punten  | --- | 6 punten  | --- |
 | 1e verdieping  | 5 punten  | --- | 3 punten  | --- |
-| 2e verdieping  | 4 punten  | --- | 1 punten  | --- |
+| 2e verdieping  | 4 punten  | --- | 1 punt  | --- |
 | 3e verdieping  | 4 punten  | --- | 0 punten  | --- |
 | 4e verdieping en hoger  | 4 punten  | --- | 0 punten  | --- |
 | --- | --- | --- | --- | --- |
@@ -229,7 +230,7 @@ Overige ruimten geen (speel)hallen, gangen, verkeersruimten en/of overlopen zijn
 
 ####Verwarming
 
-Per verwarmd vertrek wordt, ongeacht de verwarmingswijze, een waardering van twee punten toegepast, voorzover de verwarming tot de onroerende zaak en zijn onroerende aanhorigheden behoort. Alleen die vertrekken worden in dit kader meegeteld, die met punten als vertrek zijn gewaardeerd. Open keukens, of vertrekken die met een schuifwand met elkaar in verbinding staan, worden als afzonderlijk vertrek geteld. De waardering van twee punten is ook van toepassing bij stadsverwarmingsinstallaties, indien uitsluitend in de huurprijs een vergoeding voor de aansluiting op de stadsverwarming is begrepen. Indien buiten de huurprijs door de huurder, rechtstreeks aan het stadsverwarmingsbedrijf, of met tussenkomst van de verhuurder in de servicekosten, een vergoeding voor die aansluiting wordt betaald, wordt per vertrek een waardering van 1½ punt toegepast. Voor de regelbaarheid van de temperatuur per vertrek door middel van thermostatische ventielen wordt een kwart punt per vertrek extra gegeven tot in totaal maximaal twee punten. Bij een collectieve warmwater-voorziening vindt deze puntentoeslag slechts plaats, voorzover een verbruiksmeting per woning wordt toegepast.  
+Per verwarmd vertrek wordt, ongeacht de verwarmingswijze, een waardering van twee punten toegepast, voorzover de verwarming tot de onroerende zaak en zijn onroerende aanhorigheden behoort. Alleen die vertrekken worden in dit kader meegeteld, die met punten als vertrek zijn gewaardeerd. Open keukens, of vertrekken die met een schuifwand met elkaar in verbinding staan, worden als afzonderlijk vertrek geteld. De waardering van twee punten is ook van toepassing bij stadsverwarmingsinstallaties, indien uitsluitend in de huurprijs een vergoeding voor de aansluiting op de stadsverwarming is begrepen. Indien buiten de huurprijs door de huurder, rechtstreeks aan het stadsverwarmingsbedrijf, of met tussenkomst van de verhuurder in de servicekosten, een vergoeding voor die aansluiting wordt betaald, wordt per vertrek een waardering van 1½ punt toegepast.  
 
 ### 4  
 
@@ -410,8 +411,8 @@ Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serv
 |--- |--- | Punten  |
 |:---|:---|:---|
 | 1.  | – *Oppervlakte*<sup>1</sup> van kamer(s) en van een keuken, behorende uitsluitend tot de onzelfstandige woonruimte per m <sup>2</sup>  | 5  |
-| --- | --- | 5, te delen door het aantal woonruimten  |
-| --- | – Oppervlakte van verwarmde, gemeenschappelijke verblijfsruimten, waaronder begrepen een woonkeuken, van minstens 15 m <sup>2</sup> per m <sup>2</sup>  | --- |
+| --- | --- | --- |
+| --- | – Oppervlakte van verwarmde, gemeenschappelijke verblijfsruimten, waaronder begrepen een woonkeuken, van minstens 15 m <sup>2</sup> per m <sup>2</sup>  | 5, te delen door het aantal woonruimten  |
 | 2.  |  *Verwarmingsmogelijkheden*   | --- |
 | --- | – Bij aanwezigheid van CV, per m <sup>2</sup><sup>2</sup> oppervlakte verwarmde kamer(s) en keuken, behorende uitsluitend tot de onzelfstandige woonruimte  | 3/4  |
 | --- | – Bij aanwezigheid van een gasaansluiting en tevens een schoorsteen of rookgasafvoerkanaal voor gaskachel(s)  | 3  |
@@ -445,7 +446,7 @@ Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serv
 | --- | van 4 tot 10 m <sup>2</sup>  | 2  |
 | --- | *d.* Bij aanwezigheid van een fietsenberging, behorende uitsluitend tot de onzelfstandige woonruimte  | 6  |
 | --- | *e.* Bij aanwezigheid van een gemeenschappelijke fietsenberging  | 3  |
-| AF:  | *f.* Wanneer de totale vloeroppervlakte van woon– en slaapvertrek minder is dan 10 m <sup>2</sup>  | – 10  |
+| AF: <sup>4</sup>  | *f.* Wanneer de totale vloeroppervlakte van woon– en slaapvertrek minder is dan 10 m <sup>2</sup>  | – 10  |
 | --- | *g.* Bij extreme omstandigheden in de woonomgeving van het pand, die ernstige overlast opleveren  | – 15  |
 | --- | *h.* Indien de onzelfstandige woonruimte of de w.c. uitsluitend via een woon– of slaapvertrek van een niet tot het huishouden van de huurder behorende persoon bereikbaar is  | – 10  |
 | --- | *i.* Bij situering van het woonvertrek op de 5e verdieping of hoger zonder lift  | – 5  |
@@ -454,7 +455,7 @@ Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serv
 | --- | *l.* Wanneer tegenover het (grootste) raam van het (hoofd)woonvertrek een gevelwand ligt binnen een afstand van 5 meter  | – 10  |
 | --- | *m.* Indien in de onzelfstandige woonruimte en bovendien in de gemeenschappelijke ruimten geen warme maaltijden mogen worden bereid  | – 20  |
 
-<sup>1</sup> Als oppervlakte van een vertrek met een (ten dele) hellend of verlaagd plafond geldt dat gedeelte, waarboven het plafond tenminste 1,50 meter hoog is. <sup>2</sup> Afronding: bij 0,5 m <sup>2</sup> of meer naar boven, bij minder dan 0,5 m <sup>2</sup> naar beneden. <sup>3</sup> Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.  
+<sup>1</sup> Als oppervlakte van een vertrek met een (ten dele) hellend of verlaagd plafond geldt dat gedeelte, waarboven het plafond tenminste 1,50 meter hoog is. <sup>2</sup> Afronding: bij 0,5 m <sup>2</sup> of meer naar boven, bij minder dan 0,5 m <sup>2</sup> naar beneden. <sup>3</sup> Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid. <sup>4</sup> In totaal kan niet meer worden afgetrokken dan 50% van alle positieve punten.  
 
 ### C  
 
@@ -549,7 +550,7 @@ Bij de woonwagens zou bij een individuele waardering met gebruikmaking van het w
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| lengte woonwagen in m  | 9 .1  | 11.1  | 13  | 15  |
+| lengte woonwagen in m.  | 9 .1  | 11.1  | 13  | 15  |
 | 4. Warmte-isolatie  | 8 p  | 9 p  | 10 p  | 11 p  |
 
 Voor het aspect warmte-isolatie bij standplaatsen is uitgegaan van een beperkte waardering : voor sanitaire ruimte en berging : 3 punten voor alleen een berging : 0 punten  
@@ -576,7 +577,7 @@ De aspecten privé-buitenruimten en woonvorm zijn alleen van toepassing bij de w
 
 - standplaats met een oppervlakte van 145 tot 170 m <sup>2</sup>: 10 punten  
 
-- standplaats met een oppervlakte, groter dan 170 m <sup>2</sup>: 15 punten   Voor de vrijstaande danwel de hoek- of tussenwoning worden respectievelijk 17, 15 en 12 punten toegekend. Bij de waardering van de woonvorm is er een relatie gelegd tussen de waardering van de woonvorm (vrijstaande, hoek- of tussenperceel) en de afmeting van de standplaats. Aangenomen mag worden dat er een samenhang is tussen de afmeting van de standplaats en de situering (vrijstaand, hoek- of tussenperceel). Reden waarom de aspecten privé-buitenruimte en woonvorm beschouwd zijn als één geheel. Dit geeft het volgende resultaat: Standplaatsen met een oppervlakte, kleiner dan 145m <sup>2</sup>: 6 punten voor de privé-buitenruimte vermeerderd met 12 punten voor de woonvorm = 18 punten. Standplaatsen met een oppervlakte van 145m <sup>2</sup> tot 170 m <sup>2</sup>: 10 punten voor de privé-buitenruimte vermeerderd met 15 punten voor de woonvorm = 25 punten. Standplaatsen met een oppervlakte, groter dan 170m <sup>2</sup>: 15 punten voor de privé-buitenruimte vermeerderd met 17 punten voor de woonvorm = 32 punten.  
+- standplaats met een oppervlakte, groter dan 170 m <sup>2</sup>: 15 punten <sup> *  bij standplaatsen met een oppervlakte, groter dan 200 ㎡, kunnen voor het aspect privé-buitenruimte ten hoogste 10 extra kwaliteitspunten worden toegekend.  </sup>   Voor de vrijstaande danwel de hoek- of tussenwoning worden respectievelijk 17, 15 en 12 punten toegekend. Bij de waardering van de woonvorm is er een relatie gelegd tussen de waardering van de woonvorm (vrijstaande, hoek- of tussenperceel) en de afmeting van de standplaats. Aangenomen mag worden dat er een samenhang is tussen de afmeting van de standplaats en de situering (vrijstaand, hoek- of tussenperceel). Reden waarom de aspecten privé-buitenruimte en woonvorm beschouwd zijn als één geheel. Dit geeft het volgende resultaat: Standplaatsen met een oppervlakte, kleiner dan 145m <sup>2</sup>: 6 punten voor de privé-buitenruimte vermeerderd met 12 punten voor de woonvorm = 18 punten. Standplaatsen met een oppervlakte van 145m <sup>2</sup> tot 170 m <sup>2</sup>: 10 punten voor de privé-buitenruimte vermeerderd met 15 punten voor de woonvorm = 25 punten. Standplaatsen met een oppervlakte, groter dan 170m <sup>2</sup>: 15 punten voor de privé-buitenruimte vermeerderd met 17 punten voor de woonvorm = 32 punten. <sup> *  bij standplaatsen met een oppervlakte, groter dan 200 ㎡, kunnen voor het aspect privé-buitenruimte ten hoogste 10 extra kwaliteitspunten worden toegekend.  </sup>  
 
 ### II  
 
@@ -629,15 +630,15 @@ In onderstaand overzicht zijn de afzonderlijke aspecten verwerkt, die geleid heb
 
 ####Zeer ernstige gebreken aan en tekortkomingen ten aanzien van de woonruimte
 
-1. Er is geen aansluiting van de woonruimte welke een zelfstandige woning vormt, op het openbaar riool, als bedoeld in paragraaf 3.8.2 van het Bouwbesluit 2003, of op een alternatief verwerkingssysteem voor huishoudelijke afvalstoffen. 2. Er is geen mogelijkheid tot toevoer van verse lucht en afvoer van binnenlucht van de toiletruimte, het vertrek waarin de kookgelegenheid zich bevindt, het hoofd woonvertrek, het slaapvertrek of de badruimte, als bedoeld in de paragrafen 3.10.2, 3.12.2, 3.13.2 en 3.14.2 van het Bouwbesluit 2003. 3. Er is geen daglichttoetreding in het hoofdwoon- of slaapvertrek, als bedoeld in paragraaf 3.20.2 van het Bouwbesluit 2003. 4. 
+1. Er is geen aansluiting van de woonruimte welke een zelfstandige woning vormt, op het openbaar vuilwaterriool als bedoeld in afdeling 6.4 van het Bouwbesluit 2012, of op een alternatief verwerkingssysteem voor huishoudelijke afvalstoffen. 2. Er is geen mogelijkheid tot toevoer van verse lucht en afvoer van binnenlucht van de toiletruimte, het vertrek waarin de kookgelegenheid zich bevindt, het hoofdwoonvertrek, het slaapvertrek of de badruimte, als bedoeld in de paragrafen 3.6.2 en 3.8.2 van het Bouwbesluit 2012. 3. Er is geen daglichttoetreding in het hoofdwoon- of slaapvertrek, als bedoeld in paragraaf 3.11.2 van het Bouwbesluit 2012. 4. 
 
-a. Er is in de woonruimte welke een zelfstandige woning vormt, niet een toiletruimte als bedoeld in paragraaf 4.7.2 van het Bouwbesluit 2003 die is voorzien van een toiletpot die is aangesloten op de voorziening voor afvalwater en faecaliën, en van een waterspoelinrichting die is aangesloten op de drinkwatervoorziening;  
+a. Er is in de woonruimte welke een zelfstandige woning vormt, niet een toiletruimte als bedoeld in paragraaf 4.2.2 van het Bouwbesluit 2012 die is voorzien van een toiletpot die is aangesloten op de voorziening voor afvalwater en faecaliën, en van een waterspoelinrichting die is aangesloten op de drinkwatervoorziening;  
 
 b. Er is ten behoeve van de woonruimte welke niet een zelfstandige woning vormt, niet een toiletruimte als bedoeld onder a.   5. 
 
-a. Er is in de woonruimte welke een zelfstandige woning vormt, niet een aparte badruimte als bedoeld in paragraaf 4.8.2 van het Bouwbesluit 2003 waarin een bad, douche of wastafel aanwezig is dat, onderscheidenlijk die, is aangesloten op de voorziening voor afvalwater en faecaliën en voorzien van een kraan die is aangesloten op de drinkwatervoorziening;  
+a. Er is in de woonruimte welke een zelfstandige woning vormt, niet een aparte badruimte waarin een bad, douche of wastafel aanwezig is dat, onderscheidenlijk die, is aangesloten op de voorziening voor afvalwater en faecaliën en voorzien van een kraan die is aangesloten op de drinkwatervoorziening;  
 
-b. Er is ten behoeve van de woonruimte welke niet een zelfstandige woning vormt, niet een aparte badruimte als bedoeld in paragraaf 4.8.2 van het Bouwbesluit 2003.   6. Er is in de woonruimte welke een zelfstandige woning vormt niet een opstelplaats voor een aanrecht en een opstelplaats voor een kooktoestel als bedoeld in paragraaf 4.15.2 van het Bouwbesluit 2003, voorzien van een aanrecht met een spoelbak die is aangesloten op de voorziening voor afvoer van afvalwater en fecaliën en van een kraan die is aangesloten op de drinkwatervoorziening. 7. De toegang tot de woonruimte welke een zelfstandige woning vormt, of de toegang van een op de gemeenschappelijke ruimte uitkomend vertrek van de woonruimte welke niet een zelfstandige woning vormt, is niet afsluitbaar. 8. De woonruimte is, als gevolg van de toestand waarin de fundering van de woning, het chassis van de woonwagen, de bodem van de standplaats voor de woonwagen, de muren van de woning, de wanden van de woonwagen, het dak, de trappen, de vloeren, de schoorstenen, de balkons, de galerijen of de balustrades zich bevinden, door het daarmee gepaard gaande gevaar voor de veiligheid en de gezondheid van de bewoners ongeschikt voor bewoning.  
+b. Er is ten behoeve van de woonruimte welke niet een zelfstandige woning vormt, niet een aparte badruimte.   6. Er is in de woonruimte welke een zelfstandige woning vormt niet een opstelplaats voor een aanrecht en een opstelplaats voor een kooktoestel als bedoeld in paragraaf 4.7.2 van het Bouwbesluit 2012, voorzien van een aanrecht met een spoelbak die is aangesloten op de voorziening voor afvoer van afvalwater en fecaliën en van een kraan die is aangesloten op de drinkwatervoorziening. 7. De toegang tot de woonruimte welke een zelfstandige woning vormt, of de toegang van een op de gemeenschappelijke ruimte uitkomend vertrek van de woonruimte welke niet een zelfstandige woning vormt, is niet afsluitbaar. 8. De woonruimte is, als gevolg van de toestand waarin de fundering van de woning, het chassis van de woonwagen, de bodem van de standplaats voor de woonwagen, de muren van de woning, de wanden van de woonwagen, het dak, de trappen, de vloeren, de schoorstenen, de balkons, de galerijen of de balustrades zich bevinden, door het daarmee gepaard gaande gevaar voor de veiligheid en de gezondheid van de bewoners ongeschikt voor bewoning.  
 
 ### Categorie B  
 
@@ -675,9 +676,17 @@ b. ernstig het woongenot schaadt, waarvan bijvoorbeeld sprake is bij:
 
 ### 2  
 
-####Aanvullende bepalingen met betrekking tot woonwagens en standplaatsen
+####Aanvullende bepalingen met betrekking tot woonwagens en standplaatsen ten aanzien van de categorieën van omstandigheden als bedoeld in artikel 6, eerste lid, van het Besluit huurprijzen woonruimte 
 
-De combinatie huurwoonwagen op een huurstandplaats wordt – in afwijking van artikel 1 van het besluit – voor wat betreft het voorzieningenniveau als bedoeld onder 1, categorie A, aangemerkt als zelfstandige «woning». [De paragrafen 3.8.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.10.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.13.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.14.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.17.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [3.20.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [4.7.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), [4.8.2](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en [4.15.2 van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) zijn van overeenkomstige toepassing op de omstandigheden genoemd in de punten 1 tot en met 6 van onderdeel 1, onder categorie A. Dit geldt ook als er sprake is van de combinatie eigen woonwagen op een huurstandplaats, voorzover dit betreft de punten 1, 4 en 5 van onderdeel 1, categorie A. Maatgevend voor de beoordeling is het tijdstip waarop de huurovereenkomst is ingegaan. Indien partijen in onderling overleg wijziging in de situatie hebben gebracht, geldt de gewijzigde situatie als uitgangspunt. Onderhoudsgebreken of tekortkomingen, als bedoeld in punt 8 van onderdeel 1, categorie A, of als bedoeld in onderdeel 1, categorie B of C, aan de eigen woonwagen kunnen nimmer van invloed zijn op de huurprijs van de standplaats.  
+1. De combinatie huurwoonwagen op een huurstandplaats wordt in afwijking van artikel 1 van het besluit voor wat betreft het voorzieningenniveau als bedoeld onder 1, categorie A, aangemerkt als zelfstandige «woning».  
+
+2. Het niet of onvoldoende tegengaan van het binnendringen van ratten en muizen als bedoeld in [paragraaf 3.10.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) vormt een zeer ernstig gebrek aan en tekortkoming ten aanzien van de woonruimte.  
+
+3. Indien er sprake is van de combinatie eigen woonwagen op een huurstandplaats, zijn de artikelen 1, 4 en 5 van onderdeel 1, categorie A, van overeenkomstige toepassing.  
+
+4. Onderhoudsgebreken of tekortkomingen als bedoeld in artikel 8 van onderdeel 1, categorie A, of als bedoeld in onderdeel 1, categorie B of C, aan de eigen woonwagen kunnen niet van invloed zijn op de huurprijs van de standplaats.  
+
+5. Maatgevend voor de beoordeling is het tijdstip waarop de huurovereenkomst is ingegaan. Indien partijen in onderling overleg wijziging in de situatie hebben gebracht, geldt de gewijzigde situatie als uitgangspunt.    
 
 ### Bijlage  III  
 

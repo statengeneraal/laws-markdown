@@ -775,7 +775,7 @@ e. het zich onttrekken aan de tenuitvoerlegging van een vrijheidsstraf of vrijhe
 
 f. het niet in Nederland wonen;  
 
-g. het bereiken of bereikt hebben van de eerste dag van de kalendermaand waarin de verzekerde de leeftijd van 65 jaar bereikt;  
+g. het bereiken of bereikt hebben van de leeftijd van 65 jaar;  
 
 h. overlijden van de verzekerde.    
 
@@ -883,19 +883,18 @@ De arbeidsongeschiktheidsuitkering bedraagt per kalendermaand 75% van het maandl
 
 ### Artikel  52  
 
-####Inkomsten uit arbeid tijdens het recht op de arbeidsongeschiktheidsuitkering
+####Inkomen tijdens het recht op de arbeidsongeschiktheidsuitkering
 
 1.  Op de arbeidsongeschiktheidsuitkering wordt per kalendermaand in mindering gebracht: 0,7 x A x B/C waarbij: 
 
-A staat voor het in die kalendermaand verworven inkomen;  
+A staat voor inkomen per kalendermaand;  
 
 B staat voor het dagloon waarnaar de arbeidsongeschiktheidsuitkering is berekend;  
 
 C staat voor het dagloon waarnaar de arbeidsongeschiktheidsuitkering zou zijn berekend indien dat niet gemaximeerd zou zijn op het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bedoelde bedrag met betrekking tot een loontijdvak van een dag.     
 2.  Indien de volledig en duurzaam arbeidsongeschikte gedurende een aaneengesloten termijn van twaalf kalendermaanden per kalendermaand een inkomen verwerft dat meer bedraagt dan 20% van het maatmaninkomen per maand, roept het UWV de verzekerde op voor een onderzoek naar het voortbestaan van volledige en duurzame arbeidsongeschiktheid.   
 3.  Het tweede lid is niet van toepassing op bij ministeriële regeling te bepalen groepen volledig en duurzaam arbeidsongeschikten.   
-4.  In dit artikel wordt onder inkomen verstaan het inkomen uit arbeid in het bedrijfs- en beroepsleven.   
-5.  Bij algemene maatregel van bestuur worden nadere en zonodig afwijkende regels gesteld met betrekking tot het inkomen, bedoeld in dit artikel. Daarbij kunnen tevens nadere regels worden gesteld met betrekking tot de vaststelling van dat inkomen alsmede van de periode waarop die vaststelling betrekking heeft.   
+4.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 
 ### Artikel  53  
 
@@ -1012,13 +1011,13 @@ d. geen arbeid heeft verricht maar wel recht op uitkering heeft op grond van [ho
 
 1.  Indien de duur van de loongerelateerde uitkering van de WGA-uitkering is verstreken of als gevolg van artikel 54, vierde lid, geen aanspraak heeft bestaan op deze uitkering, bestaat de WGA-uitkering uit: 
 
-a. een loonaanvullingsuitkering voor de verzekerde die per kalendermaand een inkomen uit arbeid in het bedrijfs- en beroepsleven verdient dat ten minste gelijk is aan de inkomenseis, bedoeld in het tweede lid of voor wie op grond van het derde lid geen inkomenseis geldt; of  
+a. een loonaanvullingsuitkering voor de verzekerde die per kalendermaand een inkomen verdient dat ten minste gelijk is aan de inkomenseis, bedoeld in het tweede lid of voor wie op grond van het derde lid geen inkomenseis geldt; of  
 
 b. een vervolguitkering.     
 2.  De inkomenseis wordt vastgesteld op de dag dat recht ontstaat op een WGA-uitkering en is voor de verzekerde die in staat is met arbeid meer dan 20% te verdienen van het maatmaninkomen per uur, gelijk aan 50% van de resterende verdiencapaciteit. De inkomenseis wordt herzien nadat een wijziging in de resterende verdiencapaciteit twee kalendermaanden heeft voortgeduurd. De inkomenseis geldt niet meer nadat de verzekerde ten minste twee kalendermaanden slechts in staat is geweest om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur.   
 3.  Voor de verzekerde, die op de dag dat recht ontstaat op een WGA-uitkering, of die gedurende tenminste twee kalendermaanden slechts in staat is geweest om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur, als bedoeld in het tweede lid, geldt geen inkomenseis tot de dag dat zijn resterende verdiencapaciteit hoger dan 20% van zijn maatmaninkomen per uur is geweest gedurende een periode van 24 kalendermaanden. Deze periode eindigt op het moment dat de verzekerde gedurende ten minste twee kalendermaanden slechts in staat was met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur.   
 4.  Onder resterende verdiencapaciteit als bedoeld in het tweede en derde lid wordt verstaan: de op maandbasis berekende respectievelijk op uurbasis berekende resterende verdiencapaciteit zoals vastgesteld op grond van artikel 6 en de daarop berustende bepalingen.   
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld ter bepaling van het inkomen uit arbeid, bedoeld in het eerste lid, onderdeel a. Daarbij kunnen tevens nadere regels worden gesteld met betrekking tot de vaststelling van dat inkomen alsmede van de periode waarop die vaststelling betrekking heeft.   
+5.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 
 ### Artikel  61  
 
@@ -1032,7 +1031,7 @@ b. 0,7 x (A-B x C/D) vanaf de derde maand waarin het recht op uitkering bestaat.
 
 A voor het maandloon;  
 
-B voor het in de desbetreffende kalendermaand verworven inkomen;  
+B voor het inkomen per kalendermaand;  
 
 C voor het dagloon waarnaar de loongerelateerde uitkering van de WGA-uitkering is berekend;  
 
@@ -1067,8 +1066,7 @@ e. 65–80%, 50,75%; en bij
 
 f. 80% of meer, 70%.     
 7.  De hoogte van de uitkering, bedoeld in het vijfde lid, wordt eerst nadat een wijziging in de mate van arbeidsongeschiktheid ten minste twee kalendermaanden heeft voortgeduurd, herzien.   
-8.  Onder inkomen als bedoeld in het eerste lid wordt verstaan het inkomen uit arbeid in het bedrijfs- en beroepsleven.   
-9.  Bij algemene maatregel van bestuur worden nadere en zonodig afwijkende regels gesteld met betrekking tot het inkomen, bedoeld in het achtste lid. Daarbij kunnen tevens nadere regels worden gesteld met betrekking tot de vaststelling van dat inkomen alsmede van de periode waarop die vaststelling betrekking heeft.   
+8.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 
 ### Artikel  62  
 
@@ -1219,12 +1217,11 @@ a. aan de langstlevende van de echtgenoten;
 b. bij ontstentenis van de in onderdeel a bedoelde persoon, aan de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond;  
 
 c. bij ontstentenis van de in de onderdelen a en b bedoelde personen, aan de persoon met wie de overledene in gezinsverband leefde.     
-2.  Met de persoon die recht had op een uitkering op grond van deze wet, wordt voor de toepassing van dit artikel gelijkgesteld, de persoon wiens overlijden heeft plaats gevonden in de kalendermaand waarin hij de leeftijd van 65 jaar zou hebben bereikt doch voor het bereiken van deze leeftijd is overleden, en die uitsluitend als gevolg van artikel 43, onderdeel g, over de dag van zijn overlijden geen recht op een uitkering had.   
-3.  De overlijdensuitkering is gelijk aan het bedrag van de uitkering op grond van deze wet over één kalendermaand, berekend naar de hoogte van die uitkering op de dag of laatstelijk voor de dag van overlijden van de persoon.   
-4.  In verband met het overlijden van de persoon die recht had op een uitkering op grond van deze wet, is artikel 43, onderdeel g, niet van toepassing.   
-5.  De overlijdensuitkering wordt ambtshalve of op verzoek aan de rechthebbende of rechthebbenden genoemd in het eerste lid door het UWV uitbetaald.   
-6.  De overlijdensuitkering wordt in een bedrag ineens uitbetaald.   
-7.  Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan uitkering op grond van deze wet dat, over na het overlijden gelegen dagen reeds is uitbetaald.   
+2.  De overlijdensuitkering is gelijk aan het bedrag van de uitkering op grond van deze wet over één kalendermaand, berekend naar de hoogte van die uitkering op de dag of laatstelijk voor de dag van overlijden van de persoon.   
+3.  In verband met het overlijden van de persoon die recht had op een uitkering op grond van deze wet, is artikel 43, onderdeel g, niet van toepassing.   
+4.  De overlijdensuitkering wordt ambtshalve of op verzoek aan de rechthebbende of rechthebbenden genoemd in het eerste lid door het UWV uitbetaald.   
+5.  De overlijdensuitkering wordt in een bedrag ineens uitbetaald.   
+6.  Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan uitkering op grond van deze wet dat, over na het overlijden gelegen dagen reeds is uitbetaald.   
 
 ### Artikel  75  
 
@@ -1355,7 +1352,7 @@ De voorzieningen, bedoeld in de artikelen 34a, eerste lid, en 35, de verhoging, 
 ####Afbakening eigenrisico
 
 1.  De eigenrisicodrager draagt vanaf het moment dat hij eigenrisicodrager wordt overeenkomstig artikel 82 het risico van de betaling van de WGA-uitkering aan de verzekerde die op de eerste dag van de bij die uitkering in acht genomen wachttijd tot hem in dienstbetrekking stond, ook als die wachttijd is ingegaan vóór de dag waarop deze werkgever eigenriscodrager werd.   
-2.  Indien het eigenrisicodragen eindigt blijft de werkgever het risico, bedoeld in artikel 82, eerste lid, dragen, voorzover de eerste dag van ongeschiktheid tot werken wegens ziekte is gelegen voor het einde van het eigenrisicodragen. Indien de eigenrisicodrager in staat van faillissement is verklaard, of indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel indien hij ophoudt werkgever te zijn, betaalt het UWV de WGA-uitkering en verhaalt het deze uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering, voorzover deze is betaald over de periode, bedoeld in artikel 82, op de kredietinstelling of verzekeraar, bedoeld in [artikel 40, tweede lid van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
+2.  Indien het eigenrisicodragen eindigt blijft de werkgever het risico, bedoeld in artikel 82, eerste lid, dragen, voorzover de eerste dag van ongeschiktheid tot werken wegens ziekte is gelegen voor het einde van het eigenrisicodragen. Indien de eigenrisicodrager in staat van faillissement is verklaard, of indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel indien hij ophoudt werkgever te zijn, betaalt het UWV de WGA-uitkering en verhaalt het deze uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering, voorzover deze is betaald over de periode, bedoeld in artikel 82, op de bank of verzekeraar, bedoeld in [artikel 40, tweede lid van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
 3.  In geval van overgang van een onderneming in de zin van [artikel 662 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), alsmede in geval van een dergelijke overgang bij faillissement, wordt het risico van de betaling van de WGA-uitkering aan de verzekerde, die op de eerste dag van de bij die uitkering in acht genomen wachttijd in dienstbetrekking stond tot de werkgever die de onderneming heeft overgedragen, in afwijking van het tweede lid gedragen door de werkgever die de onderneming verkrijgt indien: 
 
 a. de werkgever die de onderneming overdraagt geen eigenrisicodrager is en de werkgever die de onderneming verkrijgt eigenrisicodrager is of wordt;  
@@ -1366,7 +1363,7 @@ c. de werkgever die de onderneming overdraagt een werkgever is wiens eigenrisico
 4.  Indien in de in het derde lid, onderdeel a, bedoelde situatie slechts een deel van de onderneming overgaat, vindt het derde lid, onderdeel a, toepassing naar rato van het deel van de loonsom dat het overgegane deel van de onderneming deel uitmaakte van de gehele onderneming in het kalenderjaar voorafgaande aan dat van overgang, doch berust de betaling van de uitkering bij het UWV. Het UWV verhaalt op de eigenrisicodrager de door hem op grond van de eerste zin verschuldigde uitkering, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over deze uitkering.   
 5.  Indien in de in het derde lid, onderdeel b of c, bedoelde situatie slechts een deel van de onderneming overgaat, blijft het risico van de betaling van de uitkering berusten bij de werkgever die een deel van de onderneming overdraagt.   
 6.  Voor de toepassing van het eerste lid en het tweede lid, eerste zin, draagt de eigenrisicodrager het risico gedurende de periode die op grond van artikel 82, eerste lid, geldt op de dag waarop het recht op uitkering is ontstaan.   
-7.  In de situatie, bedoeld in het tweede lid, tweede volzin, verhaalt het UWV de kosten die rechtstreeks verband houden met de uitvoering van [artikel 30a, eerste lid, juncto derde lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) op de werkgever, bedoeld in het tweede lid, tweede volzin, of de kredietinstelling of verzekeraar, bedoeld in [artikel 40, tweede lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de soort en de omvang van de kosten, bedoeld in de eerste zin.   
+7.  In de situatie, bedoeld in het tweede lid, tweede volzin, verhaalt het UWV de kosten die rechtstreeks verband houden met de uitvoering van [artikel 30a, eerste lid, juncto derde lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) op de werkgever, bedoeld in het tweede lid, tweede volzin, of de bank of verzekeraar, bedoeld in [artikel 40, tweede lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de soort en de omvang van de kosten, bedoeld in de eerste zin.   
 
 ### Artikel  85  
 
@@ -1454,7 +1451,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 ####Invordering bestuurlijke boete
 
 1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet arbeid en zorg](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
-2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of de [Wet werk en inkomen kunstenaars](../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   
+2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
 4.  Zolang de verzekerde of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 91, vierde lid, niet of niet behoorlijk nakomt: 
 

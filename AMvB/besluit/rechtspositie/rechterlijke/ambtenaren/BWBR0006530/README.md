@@ -310,7 +310,7 @@ b. voor een raadsheer-plaatsvervanger of een plaatsvervangend advocaat-generaal 
 
 c. voor een rechter-plaatsvervanger of een plaatsvervangend officier van justitie: € 279.     
 2.  Voor de toepassing van het eerste lid worden zittingen die op één dag worden gehouden samen als één zitting beschouwd.   
-3.  Voor de toepassing van het eerste lid, aanhef en onderdeel a, worden met een zitting gelijkgesteld: 
+3.  Voor de toepassing van het eerste lid, aanhef en onderdeel a, wordt: 
 
 a. een bijeenkomst in raadkamer met een of meer zittingen gelijkgesteld, indien het een raadsheer in buitengewone dienst bij de Hoge Raad betreft; en  
 
@@ -606,7 +606,7 @@ c. met ingang van de dag volgende op die waarop de gewezen rechterlijk ambtenaar
 
 a. met ingang van de dag waarop de gewezen rechterlijk ambtenaar niet meer voldoet aan de in artikel 18, vierde lid, genoemde voorwaarden;  
 
-b. met ingang van de eerste dag van de maand waarin de gewezen rechterlijk ambtenaar de leeftijd van 65 jaar heeft bereikt; of  
+b. met ingang van de dag waarop de gewezen rechterlijk ambtenaar de leeftijd van 65 jaar heeft bereikt; of  
 
 c. met ingang van de dag volgende op die waarop de gewezen rechterlijk ambtenaar is overleden.     
 

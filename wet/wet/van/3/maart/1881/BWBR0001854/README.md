@@ -94,6 +94,7 @@ c. aan een der misdrijven, omschreven in de artikelen 117, 117a, 117b en 285, vo
 1.  De Nederlandse strafwet is toepasselijk op ieder tegen wie de strafvervolging door Nederland van een vreemde staat is overgenomen op grond van een verdrag waaruit de bevoegdheid tot strafvervolging voor Nederland volgt.   
 2.  De Nederlandse strafwet is voorts toepasselijk op ieder wiens uitlevering of overlevering ter zake van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, ontoelaatbaar is verklaard, is afgewezen of geweigerd.   
 3.  De Nederlandse strafwet is toepasselijk op ieder tegen wie de strafvervolging door het Nederlands openbaar ministerie is overgenomen op grond van een daartoe strekkend verzoek van het openbaar ministerie van Bonaire, Sint Eustatius en Saba.   
+4.  De Nederlandse strafwet is voorts toepasselijk op ieder tegen wie de strafvervolging door Nederland is overgenomen van een krachtens verdrag of besluit van een volkenrechtelijke organisatie ingesteld internationaal gerecht.   
 
 ### Artikel  5  
 
@@ -166,7 +167,7 @@ b. bijkomende straffen:
 2°. verbeurdverklaring;  
 
 3°. openbaarmaking van de rechterlijke uitspraak.       
-2.  Ten aanzien van misdrijven die worden bedreigd met een vrijheidsstraf of een geldboete of ten aanzien van overtredingen die worden bedreigd met een vrijheidsstraf kan, behoudens in bij de wet bepaalde gevallen, in plaats daarvan een taakstraf worden opgelegd. Een taakstraf bestaat uit een werkstraf, zijnde het verrichten van onbetaalde arbeid, of een leerstraf, zijnde het volgen van een leerproject, of een combinatie van beide.   
+2.  Ten aanzien van misdrijven die worden bedreigd met een vrijheidsstraf of een geldboete of ten aanzien van overtredingen die worden bedreigd met een vrijheidsstraf kan, behoudens in bij de wet bepaalde gevallen, in plaats daarvan een taakstraf worden opgelegd.   
 3.  In het geval gevangenisstraf, hechtenis, vervangende hechtenis daaronder niet begrepen, of een taakstraf wordt opgelegd, kan tevens een geldboete worden opgelegd.   
 4.  In geval van veroordeling tot gevangenisstraf of tot hechtenis, vervangende hechtenis daaronder niet begrepen, waarvan het onvoorwaardelijk ten uitvoer te leggen deel ten hoogste zes maanden bedraagt, kan de rechter tevens een taakstraf opleggen.   
 5.  Een bijkomende straf kan, in de gevallen waarin de wet haar oplegging toelaat, zowel afzonderlijk als te zamen met hoofdstraffen en met andere bijkomende straffen worden opgelegd.   
@@ -215,12 +216,14 @@ f. de rechtsgang voor de onder b omschreven personen aangaande hun rakende besli
 ### Artikel  14b  
 
 1.  De rechter die bepaalt dat een door hem opgelegde straf geheel of gedeeltelijk niet zal worden tenuitvoergelegd, stelt daarbij een proeftijd vast.   
-2.  De proeftijd bedraagt in de gevallen bedoeld in artikel 14c, eerste lid en tweede lid, onder 3° en 5°, ten hoogste twee jaren en in de overige gevallen ten hoogste drie jaren. De proeftijd kan ten hoogste tien jaren bedragen indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.   
+2.  De proeftijd bedraagt ten hoogste drie jaren. De proeftijd kan ten hoogste tien jaren bedragen indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.   
 3.  De proeftijd gaat in: 
 
 a. indien een kennisgeving als bedoeld in [artikel 366a, eerste en tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is uitgereikt of toegezonden, op de vijftiende dag nadat de einduitspraak is gedaan, tenzij door de tijdige aanwending van een rechtsmiddel het vonnis of arrest niet onherroepelijk is geworden;  
 
-b. indien een kennisgeving als bedoeld in [artikel 366a, derde lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) moet worden betekend, op de vijftiende dag na die betekening, tenzij door de tijdige aanwending van een rechtsmiddel het vonnis of arrest niet onherroepelijk is geworden.     
+b. indien een kennisgeving als bedoeld in [artikel 366a, derde lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) moet worden betekend, op de vijftiende dag na die betekening, tenzij door de tijdige aanwending van een rechtsmiddel het vonnis of arrest niet onherroepelijk is geworden;  
+
+c. indien de rechter een bevel als bedoeld in artikel 14e, eerste lid, heeft gegeven, op de dag van de einduitspraak.     
 4.  De proeftijd loopt niet gedurende de tijd dat de veroordeelde rechtens zijn vrijheid is ontnomen.   
 
 ### Artikel  14c  
@@ -229,29 +232,57 @@ b. indien een kennisgeving als bedoeld in [artikel 366a, derde lid, van het Wetb
 
 a. de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit, en  
 
-b. de veroordeelde, voor zover aan de toepassing van artikel 14a bijzondere voorwaarden als bedoeld in het tweede lid, onder 5°, zijn gesteld, ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) ter inzage aanbiedt.     
-2.  Bij toepassing van artikel 14a kunnen voorts de volgende bijzondere voorwaarden worden gesteld: 
+b. de veroordeelde, voor zover aan de toepassing van artikel 14a bijzondere voorwaarden als bedoeld in het tweede lid zijn gesteld: 
 
-1°. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade binnen een door de rechter te bepalen termijn, korter dan de proeftijd;  
+1°. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) ter inzage aanbiedt; en  
 
-2°. opneming van de veroordeelde in een inrichting ter verpleging gedurende een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd;  
+2°. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 14d, tweede lid, de medewerking aan huisbezoeken daaronder begrepen.       
+2.  Bij toepassing van artikel 14a kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen: 
+
+1°. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;  
+
+2°. geheel of gedeeltelijk herstel van de door het strafbare feit veroorzaakte schade;  
 
 3°. storting van een door de rechter vast te stellen waarborgsom, ten hoogste gelijk aan het verschil tussen het maximum van de geldboete die voor het feit kan worden opgelegd en de opgelegde boete;  
 
-4°. storting van een door de rechter vast te stellen som gelds in het schadefonds geweldsmisdrijven of ten gunste van een instelling die zich ten doel stelt belangen van slachtoffers van strafbare feiten te behartigen. Het bedrag kan niet hoger zijn dan de geldboete die ten hoogste voor het strafbare feit kan worden opgelegd.  
+4°. storting van een door de rechter vast te stellen geldbedrag in het schadefonds geweldsmisdrijven of ten gunste van een instelling die zich ten doel stelt belangen van slachtoffers van strafbare feiten te behartigen. Het bedrag kan niet hoger zijn dan de geldboete die ten hoogste voor het strafbare feit kan worden opgelegd;  
 
-5°. andere bijzondere voorwaarden, het gedrag van de veroordeelde betreffende, waaraan deze gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, heeft te voldoen.     
-3.  De bijzondere voorwaarden mogen de vrijheid van de veroordeelde zijn godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken.   
+5°. een verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;  
+
+6°. een verbod zich op of in de directe omgeving van een bepaalde locatie te bevinden;  
+
+7°. een verplichting op bepaalde tijdstippen of gedurende een bepaalde periode op een bepaalde locatie aanwezig te zijn;  
+
+8°. een verplichting zich op bepaalde tijdstippen te melden bij een bepaalde instantie;  
+
+9°. een verbod op het gebruik van verdovende middelen of alcohol en de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;  
+
+10°. opneming van de veroordeelde in een zorginstelling;  
+
+11°. een verplichting zich onder behandeling te stellen van een deskundige of zorginstelling;  
+
+12°. het verblijven in een instelling voor begeleid wonen of maatschappelijke opvang;  
+
+13°. het deelnemen aan een gedragsinterventie;  
+
+14°. andere voorwaarden, het gedrag van de veroordeelde betreffende.     
+3.  Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.   
 4.  Bij het stellen van één van de bijzondere voorwaarden genoemd in het tweede lid, onder 3° en 4°, vinden de artikelen 23, eerste en tweede lid, en 24 overeenkomstige toepassing.   
 
 ### Artikel  14d  
 
 1.  Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast.   
-2.  De rechter kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling dan wel aan een bijzondere reclasseringsambtenaar opdracht geven de veroordeelde bij de naleving van de voorwaarden hulp en steun te verlenen. Bij het verlenen van hulp en steun bij de naleving van de voorwaarden, bedoeld in artikel 14c, tweede lid, onder 5°, stelt de reclasseringsinstelling dan wel de bijzondere reclasseringsambtenaar de identiteit van de veroordeelde vast op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+2.  De rechter kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden. Bij het houden van toezicht op de naleving van de voorwaarden stelt de reclasseringsinstelling de identiteit van de veroordeelde vast op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). Indien een voorwaarde niet wordt nageleefd, doet de reclasseringsinstelling daarvan onverwijld melding aan het openbaar ministerie.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het uit te oefenen toezicht.   
+
+### Artikel  14e  
+
+1.  De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van artikel 14c gestelde voorwaarden en het op grond van artikel 14d uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.   
+2.  Het bevel, bedoeld in het eerste lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.   
 
 ### Artikel  14f  
 
-1.  De rechter die de voorwaarde heeft gesteld kan hetzij na de ontvangst van een vordering van het openbaar ministerie, hetzij op verzoek van de veroordeelde de proeftijd verkorten of deze éénmaal verlengen. De verlenging geschiedt met ten hoogste één jaar.   
+1.  De rechter die de voorwaarde heeft gesteld kan hetzij na de ontvangst van een vordering van het openbaar ministerie, hetzij op verzoek van de veroordeelde de proeftijd verkorten of deze éénmaal verlengen. De verlenging geschiedt met ten hoogste twee jaren.   
 2.  Evenzo kan de in het eerste lid bedoelde rechter gedurende de proeftijd of gedurende de tijd dat deze is geschorst in de gestelde bijzondere voorwaarden of in de termijn waartoe deze voorwaarden in haar werking binnen de proeftijd zijn beperkt wijziging brengen, deze voorwaarden opheffen, alsnog bijzondere voorwaarden stellen en een opdracht als bedoeld in artikel 14 *d* geven, wijzigen of opheffen.   
 
 ### Artikel  14fa  
@@ -267,7 +298,7 @@ b. de veroordeelde, voor zover aan de toepassing van artikel 14a bijzondere voor
 
 ### Artikel  14g  
 
-1.  Indien enige gestelde voorwaarde niet wordt nageleefd kan de rechter, indien hij daartoe termen vindt, na ontvangst van een vordering van het openbaar ministerie en onverminderd het bepaalde in artikel 14f, 
+1.  Indien enige gestelde voorwaarde niet wordt nageleefd kan de rechter, na ontvangst van een vordering van het openbaar ministerie en onverminderd het bepaalde in artikel 14f, 
 
 1°. gelasten dat de niet ten uitvoergelegde straf alsnog zal worden tenuitvoergelegd;  
 
@@ -280,20 +311,21 @@ a. de rechtbank, indien deze bevoegd is tot kennisneming in eerste aanleg van he
 b. de kantonrechter, indien deze bevoegd is tot kennisneming van dat feit en van feiten, terzake waarvan de veroordeling, waarop de vordering betrekking heeft, is uitgesproken.   De vordering wordt in dat geval ingediend door het openbaar ministerie belast met de vervolging van het feit en kan slechts bij gelegenheid van een veroordeling terzake worden toegewezen. Strekt de vordering tot de tenuitvoerlegging van gevangenisstraf van meer dan een jaar, dan wordt zij niet door een enkelvoudige kamer van de rechtbank behandeld.   
 4.  Wanneer overeenkomstig artikel 14 *c*, tweede lid, onder 3°, een waarborgsom is gestort kan de rechter voorts een beslissing nemen, krachtens welke die som geheel of ten dele aan de Staat vervalt.   
 5.  De in het eerste en tweede lid bedoelde vordering wordt gedagtekend op de dag van ontvangst ter griffie. Het openbaar ministerie is in zijn vordering niet ontvankelijk wanneer zij later wordt ingediend dan drie maanden na het verstrijken der proeftijd.   
+6.  Bij toepassing van het eerste of tweede lid, beveelt de rechter dat de vrijheidsbeneming ondergaan uit hoofde van artikel 14fa geheel in mindering zal worden gebracht bij de tenuitvoerlegging van de straf. Indien hij dit bevel geeft terzake van een taakstraf, bepaalt hij in zijn uitspraak volgens welke maatstaf de aftrek zal geschieden.   
 
 ### Artikel  14h  
 
-1.  In de gevallen in de artikelen 14f en 14g bedoeld brengt het openbaar ministerie de zaak aan door de indiening van een met redenen omklede vordering. Is door de veroordeelde een verzoek tot toepassing van artikel 14f tot de rechter gericht, dan dient het openbaar ministerie ten spoedigste nadat het verzoekschrift in zijn handen is gesteld een met redenen omklede conclusie in.   
-2.  Onmiddellijk na de indiening van de vordering of de conclusie bepaalt de rechter, tenzij de summiere kennisneming van de stukken hem aanleiding geeft om de vordering of het verzoek buiten behandeling te laten, een dag voor het onderzoek van de zaak. In het geval, bedoeld in artikel 14g, derde lid, tweede volzin, geschiedt de behandeling van de vordering gelijktijdig met de behandeling van het feit waarvoor de veroordeelde wordt vervolgd.   
-3.  Het openbaar ministerie doet de veroordeelde en degene die met het verlenen van hulp en steun was belast tot bijwoning van het onderzoek oproepen, onder betekening van de vordering of de conclusie aan de veroordeelde.   
+1.  In de gevallen in de artikelen 14f en 14g bedoeld brengt het openbaar ministerie de zaak aan door de indiening van een met redenen omklede vordering. In het geval dat enige gestelde voorwaarde niet is nageleefd, ziet het openbaar ministerie slechts af van een vordering als bedoeld in artikel 14g, eerste lid, indien naar het oordeel van het openbaar ministerie met een vordering als bedoeld in artikel 14f of met een waarschuwing kan worden volstaan. Is door de veroordeelde een verzoek tot toepassing van artikel 14f tot de rechter gericht, dan dient het openbaar ministerie ten spoedigste nadat het verzoekschrift in zijn handen is gesteld een met redenen omklede conclusie in.   
+2.  Onmiddellijk na de indiening van de vordering of de conclusie bepaalt de rechter, tenzij de summiere kennisneming van de stukken hem aanleiding geeft om de vordering of het verzoek buiten behandeling te laten, een dag voor het onderzoek van de zaak. In het geval, bedoeld in artikel 14g, derde lid, tweede volzin, geschiedt de behandeling van de vordering gelijktijdig met de behandeling van het feit waarvoor de veroordeelde wordt vervolgd. In de overige gevallen geschiedt het onderzoek van de zaak binnen dertig dagen nadat de rechter-commissaris op grond van artikel 14fa de voorlopige tenuitvoerlegging heeft bevolen.   
+3.  Het openbaar ministerie doet de veroordeelde en degene die met reclasseringstoezicht is belast tot bijwoning van het onderzoek oproepen, onder betekening van de vordering of de conclusie aan de veroordeelde.   
 4.  Zowel het openbaar ministerie als de veroordeelde is bevoegd getuigen en deskundigen te doen dagvaarden of schriftelijk te doen oproepen om bij het onderzoek tegenwoordig te zijn. De [artikelen 260](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [263 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) vinden overeenkomstige toepassing.   
-5.  De veroordeelde en degene die met het verlenen van hulp en steun is belast kunnen vóór de aanvang van het onderzoek van de stukken kennis nemen. Hetzelfde geldt ten aanzien van de raadsman van de veroordeelde of, indien de zaak bij de kantonrechter wordt behandeld, ten aanzien van een bijzonder daartoe door de veroordeelde gemachtigde. Het bepaalde bij en krachtens [artikel 34 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+5.  De veroordeelde en degene die met reclasseringstoezicht is belast kunnen vóór de aanvang van het onderzoek van de stukken kennis nemen. Hetzelfde geldt ten aanzien van de raadsman van de veroordeelde of, indien de zaak bij de kantonrechter wordt behandeld, ten aanzien van een bijzonder daartoe door de veroordeelde gemachtigde. Het bepaalde bij en krachtens [artikel 34 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  14i  
 
 1.  Het onderzoek vindt plaats ter openbare terechtzitting.   
 2.  Het openbaar ministerie is bij het onderzoek tegenwoordig en wordt terzake gehoord.   
-3.  De veroordeelde en degene die met het verlenen van hulp en steun is belast kunnen bij het onderzoek tegenwoordig zijn en worden alsdan gehoord. De veroordeelde kan zich door een raadsman of, indien de zaak bij de kantonrechter wordt behandeld, door een bijzonder daartoe door de veroordeelde gemachtigde, doen bijstaan.   
+3.  De veroordeelde en degene die met reclasseringstoezicht is belast kunnen bij het onderzoek tegenwoordig zijn en worden alsdan gehoord. De veroordeelde kan zich door een raadsman of, indien de zaak bij de kantonrechter wordt behandeld, door een bijzonder daartoe door de veroordeelde gemachtigde, doen bijstaan.   
 4.  In gevallen waarin de behandeling van de zaak niet gelijktijdig geschiedt met de behandeling van een feit waarvoor de veroordeelde wordt vervolgd, vinden de [artikelen 260, eerste lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [268, tweede lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [269 tot en met 277](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [278, tweede lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [281](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [284, eerste lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [286](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [287, tweede en derde lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [288](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [289, eerste, tweede en derde lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [290 tot en met 297](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [299](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [300](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [301](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [309](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [310](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [311](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [315](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [316](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [318](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [319](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [320, eerste en tweede lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [322](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [324](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [326 tot en met 329](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [331](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [345, eerste en derde lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [346 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) overeenkomstige toepassing.   
 5.  De in het vierde lid genoemde artikelen vinden geen toepassing voor zover deze betrekking hebben op een getuige wiens identiteit niet of slechts ten dele blijkt.   
 6.  Gedurende het onderzoek kan het openbaar ministerie zijn ingediende vordering of conclusie en de veroordeelde zijn verzoek wijzigen.   
@@ -301,13 +333,17 @@ b. de kantonrechter, indien deze bevoegd is tot kennisneming van dat feit en van
 ### Artikel  14j  
 
 1.  Rechterlijke beslissingen omtrent vorderingen van het openbaar ministerie of verzoeken van de veroordeelde zijn met redenen omkleed en worden in het openbaar uitgesproken. Zij zijn, voor zover zij geen deel uitmaken van uitspraken terzake van andere strafbare feiten, niet aan enig rechtsmiddel onderworpen.   
-2.  De inhoud van de in het eerste lid bedoelde beslissingen wordt onverwijld vanwege het openbaar ministerie schriftelijk medegedeeld aan de veroordeelde en aan degene die met het verlenen van hulp en steun is belast, zomede aan degene die bij de beslissing daarvan wordt ontheven. Indien de beslissing een wijziging van de bijzondere voorwaarden bevat of daarbij alsnog bijzondere voorwaarden zijn gesteld wordt de mededeling aan de veroordeelde in persoon betekend.   
+2.  De inhoud van de in het eerste lid bedoelde beslissingen wordt onverwijld vanwege het openbaar ministerie schriftelijk medegedeeld aan de veroordeelde en aan degene die met reclasseringstoezicht is belast, zomede aan degene die bij de beslissing daarvan wordt ontheven. Indien de beslissing een wijziging van de bijzondere voorwaarden bevat of daarbij alsnog bijzondere voorwaarden zijn gesteld wordt de mededeling aan de veroordeelde in persoon betekend.   
 
 ### Artikel  14k  
 
 1.  Wanneer overeenkomstig artikel 14 *c*, tweede lid, onder 3°, een waarborgsom is gestort, wordt deze aan de veroordeelde teruggegeven, voor zover die som niet krachtens een rechterlijke beslissing, als bedoeld in artikel 14 *g*, derde lid, aan de Staat is vervallen. De teruggave geschiedt zodra vaststaat dat zodanige beslissing niet meer kan worden genomen, onverminderd de bevoegdheid van de rechter om, op vordering van het openbaar ministerie of op verzoek van de veroordeelde, te bevelen dat gehele of gedeeltelijke teruggave op een eerder tijdstip zal plaats hebben.   
 2.  In geval van een vordering of verzoek als bedoeld in het vorige lid vinden de artikelen 14 *h* -14j overeenkomstige toepassing.   
 3.  De aanspraak op teruggave is niet overdraagbaar.   
+
+### Artikel  14l  
+
+In de gevallen waarin een vordering tot tenuitvoerlegging, als bedoeld in artikel 14g, eerste lid, wordt afgewezen of het openbaar ministerie in zijn vordering niet ontvankelijk wordt verklaard, kan het gerecht in feitelijke aanleg dat als laatste over de vordering heeft geoordeeld op verzoek van de veroordeelde hem een vergoeding ten laste van de staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming ondergaan uit hoofde van artikel 14fa. De artikelen [89, eerste lid, tweede volzin, tweede lid, en zesde lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [90](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.  
 
 ### Artikel  15  
 
@@ -317,7 +353,9 @@ b. de kantonrechter, indien deze bevoegd is tot kennisneming van dat feit en van
 
 a. de rechter op grond van artikel 14a heeft bepaald dat een gedeelte van de vrijheidsstraf niet ten uitvoer zal worden gelegd;  
 
-b. de rechter een last als bedoeld in artikel 14g, eerste lid, heeft gegeven.     
+b. de rechter een last als bedoeld in artikel 14g, eerste lid, heeft gegeven;  
+
+c. de veroordeelde een vreemdeling is die geen rechtmatig verblijf heeft in Nederland in de zin van [artikel 8 van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
 4.  Voor de toepassing van het eerste en het tweede lid wordt de tijd die door de veroordeelde voor de tenuitvoerlegging van de uitspraak in verzekering, in voorlopige hechtenis of in detentie in het buitenland ingevolge een Nederlands verzoek om uitlevering is doorgebracht onder de termijn begrepen, tenzij die tijd, met toepassing van [artikel 68, eerste lid, laatste volzin, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), reeds in mindering is gebracht op een andere straf die de veroordeelde heeft ondergaan.   
 5.  Indien de veroordeelde meer dan één vrijheidsstraf heeft te ondergaan, worden deze zo enigszins mogelijk aaneensluitend ten uitvoer gelegd. In dat geval worden geheel onvoorwaardelijk ten uitvoer te leggen vrijheidsstraffen gezamenlijk, met uitzondering van vervangende hechtenis, als één vrijheidsstraf aangemerkt, waarop dit artikel en de artikelen 15a tot en met 15l van toepassing zijn.   
 6.  De [artikelen 570](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [570a van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van toepassing.   
@@ -328,10 +366,34 @@ b. de rechter een last als bedoeld in artikel 14g, eerste lid, heeft gegeven.
 
 a. de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit, en  
 
-b. de veroordeelde, voor zover aan de voorwaardelijke invrijheidstelling bijzondere voorwaarden als bedoeld in het tweede lid worden gesteld, ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) ter inzage aanbiedt.     
+b. de veroordeelde, voor zover aan de voorwaardelijke invrijheidstelling bijzondere voorwaarden als bedoeld in het tweede lid worden gesteld: 
+
+1°. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) ter inzage aanbiedt; en  
+
+2°. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 15b, tweede lid, de medewerking aan huisbezoeken daaronder begrepen.       
 2.  Aan de voorwaardelijke invrijheidstelling kunnen daarnaast bijzondere voorwaarden betreffende het gedrag van de veroordeelde worden gesteld.   
-3.  De bijzondere voorwaarden kunnen inhouden deelname aan programmatische activiteiten gericht op terugkeer in de maatschappij of het ondergaan van bijzondere zorg, zoals verslavingszorg of geestelijke gezondheidszorg. De bijzondere voorwaarden kunnen tevens beperkingen betreffende het gedrag en de bewegingsvrijheid van de veroordeelde omvatten. Aan een bijzondere voorwaarde kan elektronisch toezicht als bedoeld in [artikel 1, onderdeel w, van de Penitentiaire beginselenwet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) worden verbonden.   
-4.  De bijzondere voorwaarden mogen de vrijheid van de veroordeelde zijn godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken.   
+3.  De bijzondere voorwaarden kunnen inhouden: 
+
+1°. een verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;  
+
+2°. een verbod zich op of in de directe omgeving van een bepaalde locatie te bevinden;  
+
+3°. een verplichting op bepaalde tijdstippen of gedurende een bepaalde periode op een bepaalde locatie aanwezig te zijn;  
+
+4°. een verplichting zich op bepaalde tijdstippen te melden bij een bepaalde instantie;  
+
+5°. een verbod op het gebruik van verdovende middelen of alcohol en de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;  
+
+6°. opneming van de veroordeelde in een zorginstelling gedurende een bepaalde termijn, ten hoogste gelijk aan de proeftijd;  
+
+7°. een verplichting zich onder behandeling te stellen van een deskundige of zorginstelling gedurende een bepaalde termijn, ten hoogste gelijk aan de proeftijd;  
+
+8°. het verblijven in een instelling voor begeleid wonen of maatschappelijke opvang gedurende een bepaalde termijn, ten hoogste gelijk aan de proeftijd;  
+
+9°. het deelnemen aan een gedragsinterventie;  
+
+10°. andere voorwaarden, het gedrag van de veroordeelde betreffende, waaraan deze gedurende de proeftijd heeft te voldoen.     
+4.  Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.   
 5.  Het openbaar ministerie neemt de beslissing omtrent het stellen van bijzondere voorwaarden.   
 6.  De directeur van de penitentiaire inrichting adviseert omtrent de te stellen bijzondere voorwaarden. De reclassering kan adviseren omtrent de te stellen bijzondere voorwaarden.   
 7.  Het openbaar ministerie kan de gestelde bijzondere voorwaarden aanvullen, wijzigen of opheffen. Zodanige wijziging wordt de veroordeelde terstond schriftelijk medegedeeld.   
@@ -340,7 +402,7 @@ b. de veroordeelde, voor zover aan de voorwaardelijke invrijheidstelling bijzond
 ### Artikel  15b  
 
 1.  Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast.   
-2.  Het openbaar ministerie kan een reclasseringsinstelling als bedoeld in [artikel 1, onderdeel b, van de Reclasseringsregeling 1995](../../../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md) opdracht geven de veroordeelde begeleiding te bieden bij en toezicht te houden op de naleving van de bijzondere voorwaarden. Indien een voorwaarde niet wordt nageleefd, doet de reclasseringsinstelling daarvan onverwijld melding aan het openbaar ministerie. Bij het bieden van begeleiding bij en het toezicht houden op de naleving van de bijzondere voorwaarden stelt de reclasseringsinstelling de identiteit van de veroordeelde vast op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+2.  Het openbaar ministerie kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden. Bij het houden van toezicht op de naleving van de voorwaarden stelt de reclasseringsinstelling de identiteit van de veroordeelde vast op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). Indien een voorwaarde niet wordt nageleefd, doet de reclasseringsinstelling daarvan onverwijld melding aan het openbaar ministerie.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het uit te oefenen toezicht.   
 
 ### Artikel  15c  
@@ -394,13 +456,12 @@ e. de vrijheidsstraf die ten uitvoer wordt gelegd, voortvloeit uit een onherroep
 
 ### Artikel  15g  
 
-1.  Voorwaardelijke invrijheidstelling kan worden herroepen indien de veroordeelde een daaraan verbonden voorwaarde niet heeft nageleefd.   
-2.  De voorwaardelijke invrijheidstelling kan geheel of gedeeltelijk worden herroepen. Indien de voorwaardelijke invrijheidstelling gedeeltelijk is herroepen, wordt de veroordeelde, nadat hij het alsnog ten uitvoer te leggen gedeelte van de vrijheidsstraf heeft ondergaan, opnieuw voorwaardelijk in vrijheid gesteld.   
+Voorwaardelijke invrijheidstelling kan geheel of gedeeltelijk worden herroepen indien de veroordeelde een daaraan verbonden voorwaarde niet heeft nageleefd. Indien de voorwaardelijke invrijheidstelling gedeeltelijk is herroepen, wordt de veroordeelde, nadat hij het alsnog ten uitvoer te leggen gedeelte van de vrijheidsstraf heeft ondergaan, opnieuw voorwaardelijk in vrijheid gesteld.  
 
 ### Artikel  15h  
 
-1.  Indien er ernstige redenen bestaan voor het vermoeden dat een veroordeelde die voorwaardelijk in vrijheid is gesteld zich zodanig heeft gedragen dat de voorwaardelijke invrijheidstelling zal worden herroepen, kan zijn aanhouding worden bevolen door het openbaar ministerie.   
-2.  Het openbaar ministerie dient indien het de aanhouding noodzakelijk blijft vinden, naast de vordering, bedoeld in artikel 15i, tweede lid, onverwijld een vordering tot schorsing van de voorwaardelijke invrijheidstelling in bij de rechter-commissaris.   
+1.  Indien er ernstige redenen bestaan voor het vermoeden dat een veroordeelde die voorwaardelijk in vrijheid is gesteld zich zodanig heeft gedragen dat de voorwaardelijke invrijheidstelling zal worden herroepen, kan zijn aanhouding worden bevolen door het openbaar ministerie. Indien het bevel van het openbaar ministerie niet kan worden afgewacht, kan de hulpofficier de aanhouding van de veroordeelde bevelen. De hulpofficier geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan het openbaar ministerie.   
+2.  Het openbaar ministerie dient, indien het de aanhouding noodzakelijk blijft vinden, onverwijld een vordering tot schorsing van de voorwaardelijke invrijheidstelling in bij de rechter-commissaris en een vordering als bedoeld in artikel 15i, tweede lid, in bij de rechter.   
 3.  De rechter-commissaris beslist binnen driemaal vierentwintig uur na aanhouding. Hangende de beslissing van de rechter-commissaris wordt de veroordeelde niet in vrijheid gesteld.   
 4.  De veroordeelde wordt door de rechter-commissaris gehoord. De [artikelen 40](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [191 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing. De raadsman is bevoegd bij het onderzoek tegenwoordig te zijn en van de daarop betrekking hebbende stukken kennis te nemen.   
 5.  Indien de rechter-commissaris de vordering van het openbaar ministerie toewijst, beveelt hij de schorsing van de voorwaardelijke invrijheidstelling. Indien hij de vordering afwijst, beveelt hij de hervatting van de voorwaardelijke invrijheidstelling van de veroordeelde.   
@@ -411,7 +472,7 @@ e. de vrijheidsstraf die ten uitvoer wordt gelegd, voortvloeit uit een onherroep
 ### Artikel  15i  
 
 1.  Indien Onze Minister van Justitie van oordeel is dat de veroordeelde een voorwaarde niet heeft nageleefd en gehele of gedeeltelijke herroeping van de voorwaardelijke invrijheidstelling geboden is, verzoekt hij het openbaar ministerie om een daartoe strekkende vordering in te dienen.   
-2.  Indien het openbaar ministerie van oordeel is dat de veroordeelde een voorwaarde niet heeft nageleefd en herroeping van de voorwaardelijke invrijheidstelling geboden is, dient het onverwijld een daartoe strekkende schriftelijke vordering in bij de rechtbank. De vordering bevat de grond waarop zij berust.   
+2.  Indien het openbaar ministerie van oordeel is dat de veroordeelde een voorwaarde niet heeft nageleefd, dient het onverwijld een schriftelijke vordering tot herroeping van de voorwaardelijke invrijheidstelling in bij de rechtbank. De vordering bevat de grond waarop zij berust. Het openbaar ministerie ziet slechts af van de vordering, indien naar het oordeel van het openbaar ministerie met het wijzigen van de voorwaarden of met een waarschuwing kan worden volstaan.   
 3.  Tot kennisneming van de vordering is bevoegd de rechtbank die in eerste aanleg heeft kennisgenomen van het strafbare feit terzake waarvan de straf die ten uitvoer wordt gelegd, is opgelegd. Indien de veroordeelde wordt vervolgd wegens een strafbaar feit begaan voor het einde van de proeftijd en de vordering strekt tot herroeping van de voorwaardelijke invrijheidstelling in verband met dat strafbare feit is bevoegd de rechtbank die bevoegd is tot kennisneming van het strafbare feit. De vordering wordt ingediend door het openbaar ministerie dat is belast met de vervolging van het strafbare feit en kan bij gelegenheid van een veroordeling terzake van dat strafbare feit worden toegewezen.   
 4.  In de gevallen, bedoeld in artikel 15, vijfde lid, is tot kennisneming van de vordering bevoegd de rechtbank die in eerste aanleg heeft geoordeeld terzake van het feit waarvoor de langste onvoorwaardelijke vrijheidsstraf is opgelegd. Bij straffen van gelijke lengte zijn rechtbanken gelijkelijk bevoegd. In het geval van de tenuitvoerlegging van een buitenlandse rechterlijke beslissing is tot kennisneming van de vordering bevoegd de rechtbank die het verlof tot tenuitvoerlegging, bedoeld in [artikel 31, eerste lid, van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) heeft verleend, dan wel de rechtbank in het arrondissement waar op grond van [artikel 43, vijfde lid, van die wet](../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) de tenuitvoerlegging is gelast.   
 5.  Bij de vordering zendt het openbaar ministerie de daarop betrekking hebbende stukken aan de rechtbank toe. De voorzitter van de rechtbank bepaalt daarop onverwijld een dag voor het onderzoek van de zaak, tenzij hij vaststelt dat het openbaar ministerie in zijn vordering niet kan worden ontvangen. In het geval bedoeld in het derde lid, tweede volzin, geschiedt de behandeling van de zaak gelijktijdig met de behandeling van het strafbare feit waarvoor de veroordeelde wordt vervolgd.   
@@ -438,7 +499,7 @@ In de gevallen waarin een vordering tot herroeping van de voorwaardelijke invrij
 
 ### Artikel  16  
 
-Voorschriften tot nadere regeling van het verlenen van hulp en steun aan veroordeelden worden vastgesteld bij of krachtens algemene maatregel van bestuur.  
+Voorschriften tot nadere regeling van de werkzaamheden van reclasseringsinstellingen met betrekking tot de naleving van bij of krachtens de wet aan verdachten of veroordeelden opgelegde voorwaarden worden vastgesteld bij of krachtens algemene maatregel van bestuur.  
 
 ### Artikel  18  
 
@@ -474,8 +535,8 @@ b. een van de misdrijven omschreven in de artikelen 181, 240b, 248a, 248b, 248c 
 
 ### Artikel  22c  
 
-1.  Het vonnis dan wel de strafbeschikking vermeldt of de taakstraf bestaat uit een werkstraf, een leerstraf of een combinatie van beide, alsmede het aantal uren dat de straf zal duren. Het vonnis dan wel de strafbeschikking kan de aard van de te verrichten werkzaamheden of het te volgen leerproject vermelden.   
-2.  Het aantal uren dat de taakstraf duurt bedraagt ten hoogste vierhonderdentachtig, waarvan niet meer dan tweehonderdenveertig uren werkstraf.   
+1.  Een taakstraf bestaat uit het verrichten van onbetaalde arbeid. Het vonnis dan wel de strafbeschikking vermeldt het aantal uren dat de straf zal duren. Het vonnis dan wel de strafbeschikking kan de aard van de te verrichten werkzaamheden vermelden.   
+2.  De taakstraf duurt ten hoogste tweehonderdenveertig uren.   
 3.  De termijn binnen welke de taakstraf moet worden voltooid bedraagt een jaar na het onherroepelijk worden van het vonnis, dan wel zes maanden na het onherroepelijk worden van de strafbeschikking. Het openbaar ministerie kan ambtshalve of op verzoek van de veroordeelde deze termijn eenmaal met eenzelfde termijn verlengen. Het zendt hiervan zo spoedig mogelijk een kennisgeving aan de veroordeelde.   
 4.  De termijn binnen welke de taakstraf moet worden verricht wordt verlengd met de tijd dat de veroordeelde rechtens zijn vrijheid is ontnomen alsmede met de tijd dat hij ongeoorloofd afwezig is.   
 
@@ -483,7 +544,7 @@ b. een van de misdrijven omschreven in de artikelen 181, 240b, 248a, 248b, 248c 
 
 1.  In het vonnis waarbij taakstraf wordt opgelegd, beveelt de rechter, voor het geval dat de veroordeelde de taakstraf niet naar behoren verricht, dat vervangende hechtenis zal worden toegepast.   
 2.  De duur van de vervangende hechtenis wordt in gehele dagen, weken of maanden vastgesteld.   
-3.  De vervangende hechtenis beloopt ten minste één dag en ten hoogste acht maanden. Voor elke twee uren van de taakstraf wordt niet meer dan één dag opgelegd.   
+3.  De vervangende hechtenis beloopt ten minste één dag en ten hoogste vier maanden. Voor elke twee uren van de taakstraf wordt niet meer dan één dag opgelegd.   
 4.  Wanneer een gedeelte van de te verrichten taakstraf is voldaan, vermindert de duur van de vervangende hechtenis naar evenredigheid. Heeft deze vermindering tot gevolg dat voor een gedeelte van een dag vervangende hechtenis zou moeten worden ondergaan, dan vindt afronding naar boven plaats tot het naaste aantal gehele dagen.   
 
 ### Artikel  22e  
@@ -492,7 +553,7 @@ Over de wijze waarop de taakstraf wordt of is verricht, kan het openbaar ministe
 
 ### Artikel  22f  
 
-1.  Het openbaar ministerie kan de opgelegde straf wijzigen voor wat betreft de aard van de te verrichten werkzaamheden of het te volgen leerproject, bedoeld in artikel 22c, eerste lid, tweede volzin, indien het van oordeel is dat de veroordeelde de taakstraf niet geheel overeenkomstig de opgelegde straf kan of heeft kunnen verrichten. Het openbaar ministerie benadert daarbij zo veel mogelijk de opgelegde straf. Het openbaar ministerie geeft hiervan kennis aan de veroordeelde.   
+1.  Het openbaar ministerie kan de opgelegde straf wijzigen voor wat betreft de aard van de te verrichten werkzaamheden, bedoeld in artikel 22c, eerste lid, derde volzin, indien het van oordeel is dat de veroordeelde de taakstraf niet geheel overeenkomstig de opgelegde straf kan of heeft kunnen verrichten. Het openbaar ministerie benadert daarbij zo veel mogelijk de opgelegde straf. Het openbaar ministerie geeft hiervan kennis aan de veroordeelde.   
 2.  Het openbaar ministerie doet deze kennisgeving zo spoedig mogelijk aan de veroordeelde betekenen. De kennisgeving behelst het aantal uren taakstraf dat naar het oordeel van het openbaar ministerie is verricht, alsmede de straf zoals deze voor het overige nader is vastgesteld.   
 3.  Tegen de kennisgeving, bedoeld in het tweede lid, kan de veroordeelde binnen veertien dagen na de betekening daarvan een bezwaarschrift indienen bij de rechter die de straf oplegde. De rechter kan de beslissing van het openbaar ministerie wijzigen. Het eerste lid is van overeenkomstige toepassing.   
 
@@ -500,7 +561,7 @@ Over de wijze waarop de taakstraf wordt of is verricht, kan het openbaar ministe
 
 1.  Indien de tot een taakstraf veroordeelde niet aanvangt met de taakstraf, geen medewerking verleent aan het vaststellen van zijn identiteit of het openbaar ministerie van oordeel is dat de veroordeelde de opgelegde taakstraf niet naar behoren verricht of heeft verricht, wordt vervangende hechtenis toegepast, tenzij dit wegens uitzonderlijke omstandigheden die zich na het opleggen van de taakstraf hebben voorgedaan, zou leiden tot een onbillijkheid van zwaarwegende aard. Het openbaar ministerie geeft hiervan kennis aan de veroordeelde.   
 2.  Het openbaar ministerie doet deze kennisgeving zo spoedig mogelijk aan de veroordeelde betekenen. De kennisgeving behelst het aantal uren taakstraf dat naar het oordeel van het openbaar ministerie is verricht, alsmede het aantal dagen vervangende hechtenis.   
-3.  Tegen de kennisgeving, bedoeld in het tweede lid, kan de veroordeelde binnen veertien dagen na de betekening daarvan een bezwaarschrift indienen bij de rechter die de straf oplegde. De rechter kan de beslissing van het openbaar ministerie wijzigen.   
+3.  Tegen de kennisgeving, bedoeld in het tweede lid, kan de veroordeelde binnen veertien dagen na de betekening daarvan een bezwaarschrift indienen bij de rechter die de straf oplegde. De rechter kan de beslissing van het openbaar ministerie wijzigen. Indien de rechter het bezwaarschrift gegrond verklaart, geeft hij in zijn beslissing het aantal uren taakstraf aan dat nog moet worden verricht en binnen welke termijn de taakstraf moet worden voltooid.   
 
 ### Artikel  22h  
 
@@ -508,7 +569,7 @@ Op de behandeling van het bezwaarschrift als bedoeld in artikel 22f, derde lid, 
 
 ### Artikel  22i  
 
-Het openbaar ministerie kan een beslissing als bedoeld in artikel 22f, eerste lid, of artikel 22g, eerste lid, slechts nemen gedurende de termijn waarbinnen de taakstraf dient te zijn voltooid, genoemd in artikel 22c, derde lid, of binnen drie maanden na afloop van deze termijn.  
+Het openbaar ministerie kan een beslissing als bedoeld in artikel 22f, eerste lid, of artikel 22g, eerste lid, slechts nemen gedurende de termijn waarbinnen de taakstraf op grond van artikel 22c, derde lid, dan wel 22g, derde lid, moet zijn voltooid, of binnen drie maanden na afloop van deze termijn.  
 
 ### Artikel  22j  
 
@@ -608,6 +669,10 @@ Ontzetting van het recht om ambten of bepaalde ambten te bekleden en bij de gewa
 
 4°. bij afzonderlijke oplegging, voor een tijd van ten minste twee en ten hoogste vijf jaren.     
 2.  De ontzetting van het recht vermeld in artikel 28, eerste lid, onder 3°, gaat in op de dag dat de veroordeling daartoe onherroepelijk is geworden. De ontzetting van een van de andere in artikel 28, eerste lid, vermelde rechten gaat in op de dag waarop de rechterlijke uitspraak kan worden ten uitvoer gelegd.   
+
+### Artikel  32  
+
+De rechter kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling opdracht geven toezicht te houden op de naleving door de veroordeelde van de ontzetting van het recht om ambten of bepaalde ambten te bekleden en het recht om bepaalde beroepen uit te oefenen. De veroordeelde is verplicht medewerking te verlenen aan het reclasseringstoezicht, de medewerking aan huisbezoeken daaronder begrepen. Indien de veroordeelde de ontzetting niet naleeft, doet de reclasseringsinstelling daarvan onverwijld melding aan het openbaar ministerie.  
 
 ### Artikel  33  
 
@@ -798,7 +863,6 @@ De kosten van de verpleging en behandeling van ter beschikking gestelden komen, 
 1.  De voorwaarden bedoeld in het eerste lid van artikel 38 kunnen inhouden dat de ter beschikking gestelde zich in een door de rechter aangewezen inrichting laat opnemen, zich onder behandeling stelt van een in de uitspraak aangewezen deskundige, of door de behandelend arts voorgeschreven geneesmiddelen inneemt dan wel gedoogt dat deze door de behandelend arts aan hem worden toegediend.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan een door de rechter aan te wijzen inrichting moet voldoen.   
 3.  Het openbaar ministerie houdt, volgens regels te stellen bij algemene maatregel van bestuur, toezicht op de naleving van de gestelde voorwaarden.   
-4.  De in artikel 38, eerste lid, bedoelde voorwaarden mogen de vrijheid de godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken.   
 
 ### Artikel  38b  
 
@@ -844,12 +908,11 @@ b. nadat de termijn van de terbeschikkingstelling een aanvang heeft genomen, in 
 
 1.  De verpleging van overheidswege kan bij de beslissing tot verlenging van de terbeschikkingstelling voor de tijd van een jaar, dan wel voor de tijd van twee jaren, door de rechter ambtshalve, op vordering van het openbaar ministerie of op verzoek van de ter beschikking gestelde of zijn raadsman voorwaardelijk worden beëindigd.   
 2.  Indien de rechter de verpleging van overheidswege op grond van het eerste lid beëindigt, stelt hij ter bescherming van de veiligheid van anderen dan wel de algemene veiligheid van personen en goederen voorwaarden betreffende het gedrag van de ter beschikking gestelde. De artikelen 38, eerste lid, laatste volzin, tweede en vierde lid, en 38a zijn van overeenkomstige toepassing.   
-3.  De in het tweede lid, bedoelde voorwaarden mogen de vrijheid de godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken.   
-4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de procedure van de voorwaardelijke beëindiging van het bevel tot verpleging.   
+3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de procedure van de voorwaardelijke beëindiging van het bevel tot verpleging.   
 
 ### Artikel  38h  
 
-1.  Onverminderd het bepaalde in artikel 38g, eerste lid, kan, indien het proefverlof van een ter beschikking gestelde ten minste twaalf maanden onafgebroken heeft voortgeduurd, zonder dat in deze periode de terbeschikkingstelling is verlengd, de rechter op vordering van het openbaar ministerie of op verzoek van de ter beschikking gestelde of diens raadsman de verpleging van overheidswege voorwaardelijk beëindigen. Artikel 38g, tweede en derde lid, is van overeenkomstige toepassing.   
+1.  Onverminderd het bepaalde in artikel 38g, eerste lid, kan, indien het proefverlof van een ter beschikking gestelde ten minste twaalf maanden onafgebroken heeft voortgeduurd, zonder dat in deze periode de terbeschikkingstelling is verlengd, de rechter op vordering van het openbaar ministerie of op verzoek van de ter beschikking gestelde of diens raadsman de verpleging van overheidswege voorwaardelijk beëindigen. Artikel 38g, tweede lid, is van overeenkomstige toepassing.   
 2.  In zodanig geval beëindigt de rechter de verpleging van overheidswege voorwaardelijk voor de duur van het gegeven bevel tot terbeschikkingstelling.   
 3.  De [artikelen 509p](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [509r](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [509s](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [509t, eerste en vijfde lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en 509u bis van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 
@@ -940,8 +1003,7 @@ b. de veroordeelde bij de naleving van de voorwaarden, bedoeld in het vierde lid
 4.  De rechter stelt ter bescherming van de veiligheid van personen of goederen voorwaarden betreffende het gedrag van de veroordeelde. De rechter kan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling opdracht geven de veroordeelde bij de naleving van de voorwaarden hulp en steun te verlenen. Bij het verlenen van hulp en steun bij de naleving van de voorwaarden wordt de identiteit van de veroordeelde vastgesteld op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
 5.  Een voorwaarde als bedoeld in het vierde lid kan inhouden dat de veroordeelde zich ambulant of intramuraal laat behandelen. Opname in een inrichting vindt in dit verband plaats voor een door de rechter te bepalen duur van ten hoogste twee jaren. Deze voorwaarde wordt slechts gesteld, indien de veroordeelde zich bereid heeft verklaard de behandeling te ondergaan.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan een inrichting en een behandeling als bedoeld in het vijfde lid moeten voldoen.   
-7.  De in het vierde lid gestelde voorwaarden mogen de vrijheid van de veroordeelde zijn godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken.   
-8.  Het openbaar ministerie houdt toezicht op de naleving van de gestelde voorwaarden.   
+7.  Het openbaar ministerie houdt toezicht op de naleving van de gestelde voorwaarden.   
 
 ### Artikel  38q  
 
@@ -1074,11 +1136,11 @@ Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere ambts
 1.  Op vordering van de officier van justitie kan de rechter na een op grond van [artikel 226h, derde lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) gemaakte afspraak de straf verminderen die hij overwoog op te leggen op de in het tweede lid bepaalde wijze. Bij de strafvermindering houdt de rechter ermee rekening dat door het afleggen van een getuigenverklaring een belangrijke bijdrage is of kan worden geleverd aan de opsporing of vervolging van misdrijven.   
 2.  Bij toepassing van het eerste lid kan de strafvermindering bestaan in: 
 
-a. maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf, bestaande uit een werkstraf, of geldboete, of  
+a. maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of  
 
-b. de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf, bestaande uit een werkstraf, of van een geldboete in een voorwaardelijk gedeelte, of  
+b. de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of  
 
-c. de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf, bestaande uit een werkstraf, of een onvoorwaardelijke geldboete.     
+c. de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.     
 3.  Bij toepassing van het tweede lid, onder b, blijft artikel 14a, eerste en tweede lid, buiten toepassing.   
 
 ### Titel  IV  
@@ -1448,7 +1510,9 @@ c. onttrekking aan het verkeer;
 
 d. ontneming van wederrechtelijk verkregen voordeel;  
 
-e. schadevergoeding.     
+e. schadevergoeding;  
+
+f. vrijheidsbeperkende maatregel.     
 
 ### Artikel  77i  
 
@@ -1591,10 +1655,11 @@ b. aan een andere instelling dan die welke daarmede tevoren was belast, de begel
 
 c. bijzondere voorwaarden stellen die het gedrag van de jeugdige betreffen.     
 6.  Indien de rechter bijzondere voorwaarden stelt, als bedoeld in het vijfde lid, is artikel 77z van overeenkomstige toepassing, met dien verstande dat de rechter de werking van de bijzondere voorwaarden kan beperken tot een in de beslissing te bepalen tijdsduur binnen de termijn waarmee de voorwaardelijke beëindiging wordt verlengd.   
+7.  Artikel 77cca, eerste lid, derde tot en met zesde lid en achtste lid, is van overeenkomstige toepassing. Indien het openbaar ministerie de aanhouding noodzakelijk blijft vinden, dient het onverwijld een vordering tot voorlopige tenuitvoerlegging in bij de rechter-commissaris en een vordering als bedoeld in het derde lid bij de rechter.   
 
 ### Artikel  77u  
 
-Een beslissing op grond van de artikelen 77t, 77tb en 77wd wordt bij beschikking genomen, nadat de veroordeelde en indien deze minderjarig is, ook degenen die het gezag over hem uitoefenen, zijn gehoord of behoorlijk opgeroepen. De artikelen 14h, 14i, tweede tot en met zesde lid, en 14j van dit wetboek alsmede artikel 495b van het Wetboek van Strafvordering zijn van overeenkomstige toepassing, onverminderd de artikelen 502 en 503 van het Wetboek van Strafvordering.  
+Een beslissing op grond van de artikelen 77t, 77tb en 77wd wordt bij beschikking genomen, nadat de veroordeelde en indien deze minderjarig is, ook degenen die het gezag over hem uitoefenen, zijn gehoord of behoorlijk opgeroepen. De artikelen 14h, eerste lid, eerste en derde volzin, en tweede tot en met vijfde lid, 14i, tweede tot en met zesde lid, en 14j van dit wetboek alsmede artikel 495b van het Wetboek van Strafvordering zijn van overeenkomstige toepassing, onverminderd de artikelen 502 en 503 van het Wetboek van Strafvordering.  
 
 ### Artikel  77v  
 
@@ -1612,11 +1677,10 @@ a. de ernst van het begane misdrijf of de veelvuldigheid van de begane misdrijve
 b. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeling van de verdachte.     
 2.  De rechter legt de maatregel slechts op, nadat hij zich een met redenen omkleed, gedagtekend en ondertekend advies heeft doen overleggen van de raad voor de kinderbescherming, dat wordt ondersteund door ten minste een gedragsdeskundige. Indien dit advies eerder dan een jaar voor de aanvang van de terechtzitting is gedagtekend kan de rechter hier slechts gebruik van maken met instemming van het openbaar ministerie en de verdachte.   
 3.  De rechter geeft in zijn uitspraak aan waar de maatregel uit bestaat. De maatregel kan inhouden dat de veroordeelde aan een programma deelneemt in een door de rechter aan te wijzen instelling of dat de veroordeelde een ambulant programma zal volgen onder begeleiding van een door de rechter aan te wijzen organisatie. Bij de tenuitvoerlegging van de maatregel verleent de veroordeelde medewerking aan het nemen van een of meer vingerafdrukken of biedt hij een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage.   
-4.  Het programma, bedoeld in het derde lid, mag de vrijheid van de veroordeelde zijn godsdienst of levensovertuiging te belijden, en de staatkundige vrijheid niet beperken.   
-5.  De instellingen of organisaties, bedoeld in het derde lid, stellen voor de uitvoering van het programma een plan vast dat is afgestemd op de problematiek van de veroordeelde. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan het plan, alsmede waaraan de programma’s en de instellingen of organisaties, bedoeld in het derde lid, moeten voldoen. Bij of krachtens algemene maatregel van bestuur kunnen voorts regels worden gesteld omtrent de werkwijze van de instellingen of organisaties, bedoeld in het derde lid.   
-6.  De maatregel wordt opgelegd voor de tijd van ten minste zes maanden en ten hoogste een jaar. De termijn gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden.   
-7.  De stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg heeft tot taak de voorbereiding en de ondersteuning van de tenuitvoerlegging van de maatregel. Bij de tenuitvoerlegging van de maatregel stelt de stichting de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. Over de wijze waarop de veroordeelde de maatregel uitvoert, kan het openbaar ministerie inlichtingen inwinnen bij de stichting. Indien de jeugdige ten tijde van de tenuitvoerlegging van de maatregel de leeftijd van achttien jaren bereikt of heeft bereikt, kan de rechter bepalen dat de ondersteuning van de tenuitvoerlegging van de maatregel geschiedt door een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.   
-8.  De termijn van de maatregel loopt niet gedurende de tijd dat aan de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig is.   
+4.  De instellingen of organisaties, bedoeld in het derde lid, stellen voor de uitvoering van het programma een plan vast dat is afgestemd op de problematiek van de veroordeelde. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan het plan, alsmede waaraan de programma’s en de instellingen of organisaties, bedoeld in het derde lid, moeten voldoen. Bij of krachtens algemene maatregel van bestuur kunnen voorts regels worden gesteld omtrent de werkwijze van de instellingen of organisaties, bedoeld in het derde lid.   
+5.  De maatregel wordt opgelegd voor de tijd van ten minste zes maanden en ten hoogste een jaar. De termijn gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden.   
+6.  De stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg heeft tot taak de voorbereiding en de ondersteuning van de tenuitvoerlegging van de maatregel. Bij de tenuitvoerlegging van de maatregel stelt de stichting de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. Over de wijze waarop de veroordeelde de maatregel uitvoert, kan het openbaar ministerie inlichtingen inwinnen bij de stichting. Indien de jeugdige ten tijde van de tenuitvoerlegging van de maatregel de leeftijd van achttien jaren bereikt of heeft bereikt, kan de rechter bepalen dat de ondersteuning van de tenuitvoerlegging van de maatregel geschiedt door een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.   
+7.  De termijn van de maatregel loopt niet gedurende de tijd dat aan de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig is.   
 
 ### Artikel  77wa  
 
@@ -1628,7 +1692,7 @@ b. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeli
 
 1.  Indien het gedrag van de veroordeelde daartoe aanleiding geeft of wijziging van de maatregel in het belang is van de ontwikkeling van de veroordeelde, kan de rechter, op vordering van het openbaar ministerie, beslissen dat de maatregel een andere invulling krijgt.   
 2.  De rechter beslist slechts tot een andere invulling van de maatregel, nadat hij zich een met redenen omkleed, gedagtekend en ondertekend advies heeft doen overleggen van de raad voor de kinderbescherming.   
-3.  Artikel 77w, tweede lid, eerste volzin, derde tot en met vijfde, zevende en achtste lid, is van overeenkomstige toepassing op de beslissing tot wijziging van de maatregel.   
+3.  Artikel 77w, tweede lid, eerste volzin, derde, vierde, zesde en zevende lid, is van overeenkomstige toepassing op de beslissing tot wijziging van de maatregel.   
 
 ### Artikel  77wc  
 
@@ -1676,7 +1740,12 @@ b. indien een kennisgeving als bedoeld in artikel 366a, derde lid, van het Wetbo
 
 ### Artikel  77z  
 
-Toepassing van artikel 77x geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit en, in het geval aan de toepassing van artikel 77x bijzondere voorwaarden als bedoeld in de tweede volzin worden gesteld, dat hij medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt. Bij algemene maatregel van bestuur wordt bepaald welke bijzondere voorwaarden die het gedrag van de veroordeelde betreffen daarnaast kunnen worden gesteld. Deze mogen de vrijheid van de verdachte zijn godsdienst of levensovertuiging te belijden, en de staatkundige vrijheid niet beperken. De rechter kan de werking van de bijzondere voorwaarden beperken tot een bij de uitspraak te bepalen tijdsduur binnen de proeftijd.  
+Toepassing van artikel 77x geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit en, in het geval aan de toepassing van artikel 77x bijzondere voorwaarden als bedoeld in de tweede volzin worden gesteld, dat hij medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt. Bij algemene maatregel van bestuur wordt bepaald welke bijzondere voorwaarden die het gedrag van de veroordeelde betreffen daarnaast kunnen worden gesteld. De rechter kan de werking van de bijzondere voorwaarden beperken tot een bij de uitspraak te bepalen tijdsduur binnen de proeftijd.  
+
+### Artikel  77za  
+
+1.  De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van artikel 77z gestelde voorwaarden, de op grond van artikel 77aa, tweede en derde lid, te verlenen hulp en steun dan wel het op grond van artikel 77aa, vierde lid, uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.   
+2.  Het bevel, bedoeld in het eerste lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.   
 
 ### Artikel  77aa  
 
@@ -1695,6 +1764,17 @@ Artikel 366a van het Wetboek van Strafvordering is van overeenkomstige toepassin
 1.  De rechter die de voorwaarde heeft gesteld, kan na ontvangst van een vordering van het openbaar ministerie of op verzoek van veroordeelde, de proeftijd verkorten of deze eenmaal verlengen. De verlenging geschiedt met ten hoogste één jaar.   
 2.  Evenzo kan de in het eerste lid bedoelde rechter gedurende de proeftijd of gedurende de tijd dat deze is geschorst, in de gestelde bijzondere voorwaarden of in de termijn waartoe deze voorwaarden in haar werking binnen de proeftijd zijn beperkt, wijziging brengen, deze voorwaarden opheffen, alsnog bijzondere voorwaarden stellen en een opdracht als bedoeld in artikel 77aa, tweede lid, geven, wijzigen of opheffen.   
 
+### Artikel  77cca  
+
+1.  In geval van veroordeling tot jeugddetentie of de maatregel tot plaatsing in een inrichting voor jeugdigen waarvan de rechter heeft bepaald dat deze geheel of gedeeltelijk niet ten uitvoer zal worden gelegd, kan het openbaar ministerie de aanhouding van de veroordeelde bevelen, indien er ernstige redenen bestaan voor het vermoeden dat enige gestelde voorwaarde niet wordt nageleefd. Indien het bevel van het openbaar ministerie niet kan worden afgewacht, kan de hulpofficier de aanhouding van de veroordeelde bevelen. De hulpofficier geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan het openbaar ministerie.   
+2.  Het openbaar ministerie dient, indien het de aanhouding noodzakelijk blijft vinden, onverwijld een vordering tot voorlopige tenuitvoerlegging in bij de rechter-commissaris en een vordering als bedoeld in artikel 77dd, eerste lid, in bij de rechter.   
+3.  De rechter-commissaris beslist binnen driemaal vierentwintig uur na aanhouding. Hangende de beslissing van de rechter-commissaris wordt de veroordeelde niet in vrijheid gesteld.   
+4.  De veroordeelde wordt door de rechter-commissaris gehoord. Artikel 77ee, tweede lid, en de artikelen 40 en 191 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. De raadsman is bevoegd bij het onderzoek tegenwoordig te zijn en van de daarop betrekking hebbende stukken kennis te nemen.   
+5.  Indien de rechter-commissaris de vordering van het openbaar ministerie toewijst, beveelt hij de voorlopige tenuitvoerlegging van de niet ten uitvoer gelegde jeugddetentie of de maatregel tot plaatsing in een inrichting voor jeugdigen. Indien hij de vordering afwijst, beveelt hij de invrijheidstelling van de veroordeelde.   
+6.  Het openbaar ministerie stelt de veroordeelde onverwijld schriftelijk in kennis van de beslissing van de rechter-commissaris.   
+7.  De termijn van de voorlopige tenuitvoerlegging eindigt van rechtswege met ingang van het tijdstip waarop de duur van de vrijheidsbeneming gelijk wordt aan de duur van de ten uitvoer te leggen jeugddetentie of de maatregel tot plaatsing in een inrichting voor jeugdigen.   
+8.  Het bevel tot voorlopige tenuitvoerlegging kan door de rechter die bevoegd is te oordelen over de vordering tot tenuitvoerlegging ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.   
+
 ### Artikel  77dd  
 
 1.  Onverminderd het bepaalde in artikel 77cc kan de rechter, indien enige gestelde voorwaarde niet wordt nageleefd en hij daartoe termen vindt, na ontvangst van de vordering van het openbaar ministerie: 
@@ -1704,10 +1784,12 @@ a. gelasten dat de niet ten uitvoer gelegde straf of maatregel, alsnog zal worde
 b. al of niet onder instandhouding of wijziging van de voorwaarden gelasten dat een gedeelte van de niet ten uitvoer gelegde straf of maatregel, alsnog zal worden ten uitvoer gelegd.     
 2.  Artikel 14g, tweede, derde en vijfde lid is van overeenkomstige toepassing, met dien verstande dat indien bij overeenkomstige toepassing van artikel 14g, derde lid, onder a, het daar bedoelde strafbare feit wordt vervolgd voor de politierechter, deze tevens bevoegd is tot toepassing van het eerste lid voor zover de ten uitvoer te leggen straf een geldboete, een taakstraf, een jeugddetentie van niet meer dan twaalf maanden of een gedragsmaatregel betreft.   
 3.  Indien de veroordeelde bij aanvang van de tenuitvoerlegging de leeftijd van achttien jaren heeft bereikt, wordt de jeugddetentie waarvan de rechter op grond van het eerste lid de tenuitvoerlegging heeft gelast, ten uitvoer gelegd als gevangenisstraf, tenzij de veroordeelde naar het oordeel van de rechter ook in het geval hij de leeftijd van achttien jaren heeft bereikt in aanmerking komt voor jeugddetentie.   
+4.  Bij toepassing van het eerste of tweede lid, beveelt de rechter dat de vrijheidsbeneming ondergaan uit hoofde van artikel 77cca geheel in mindering zal worden gebracht bij de tenuitvoerlegging van de straf. Indien hij dit bevel geeft terzake van een taakstraf of de maatregel betreffende het gedrag van de jeugdige, bepaalt hij in zijn uitspraak volgens welke maatstaf de aftrek zal geschieden.   
+5.  In de gevallen waarin de vordering tot tenuitvoerlegging wordt afgewezen of het openbaar ministerie in zijn vordering niet ontvankelijk wordt verklaard, kan het gerecht in feitelijke aanleg dat als laatste over de vordering heeft geoordeeld op verzoek van de veroordeelde hem een vergoeding ten laste van de staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming ondergaan uit hoofde van artikel 77cca. De artikelen 89, eerste lid, tweede volzin, tweede lid, en zesde lid, 90 en 93 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 
 ### Artikel  77ee  
 
-1.  Indien in het kader van de tenuitvoerlegging van een sanctie enige beslissing wordt genomen met gebruikmaking van de artikelen 77k, 77l, derde lid, 77o, vierde lid, 77p, derde lid, 77 cc of 77dd, eerste lid, zijn de artikelen 14h, 14i, tweede tot en met zesde lid, en 14j van dit wetboek alsmede artikel 495b van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+1.  Indien in het kader van de tenuitvoerlegging van een sanctie enige beslissing wordt genomen met gebruikmaking van de artikelen 77k, 77l, derde lid, 77o, vierde lid, 77p, derde lid, 77cc of 77dd, eerste lid, zijn de artikelen 14h, eerste lid, eerste en derde volzin, en tweede tot en met vijfde lid, 14i, tweede tot en met zesde lid, en 14j van dit wetboek alsmede artikel 495b van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 2.  Indien de veroordeelde op het tijdstip dat de procedure op zijn verzoek of op vordering van het openbaar ministerie is ingesteld, de leeftijd van achttien jaren nog niet heeft bereikt, zijn daarenboven de artikelen 496 tot en met 498, 504 en 505 van het Wetboek van Strafvordering van overeenkomstige toepassing. Heeft hij de leeftijd van zestien jaren nog niet bereikt, dan is tevens artikel 503 van toepassing.   
 
 ### Artikel  77ff  
@@ -1730,7 +1812,7 @@ c. maatregelen betreffende het gedrag van de jeugdige als bedoeld in artikel 77h
 
 ### Artikel  77hh  
 
-1.  De raad voor de kinderbescherming heeft tot taak toezicht te houden op de uitvoering van reclasseringswerkzaamheden als bedoeld in artikel 77f, eerste lid, artikel 77j, vierde en vijfde lid, artikel 77s, achtste lid, 77w, derde en zevende lid, artikel 77aa, tweede en derde lid, van het Wetboek van Strafrecht, en artikel 493 van het Wetboek van Strafvordering, en is in dat kader bevoegd de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg aanwijzingen te geven.   
+1.  De raad voor de kinderbescherming heeft tot taak toezicht te houden op de uitvoering van reclasseringswerkzaamheden als bedoeld in artikel 77f, eerste lid, artikel 77j, vierde en vijfde lid, artikel 77s, achtste lid, 77w, derde en zesde lid, artikel 77aa, tweede en derde lid, van het Wetboek van Strafrecht, en artikel 493 van het Wetboek van Strafvordering, en is in dat kader bevoegd de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg aanwijzingen te geven.   
 2.  In door Onze Minister van Justitie aan te wijzen gevallen kan de raad voor de kinderbescherming de stichting inschakelen voor vrijwillige begeleiding van een jeugdige.   
 
 ### Titel  IX  

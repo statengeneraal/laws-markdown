@@ -198,9 +198,9 @@ e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen
 f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2012: € 2.513,95.     
 2.   
 
-a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de eerste dag van de maand waarin de uitkeringsgerechtigde de leeftijd van 65 jaar bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.  
+a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de leeftijd van 65 jaar bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.  
 
-b. De percentages, genoemd in het eerste lid, onder e en f, worden met 20 verminderd met ingang van de eerste dag van de maand waarin de uitkeringsgerechtigde de leeftijd van 65 jaar bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.     
+b. De percentages, genoemd in het eerste lid, onder e en f, worden met 20 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de leeftijd van 65 jaar bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.     
 3.  In de in het eerste lid onder a, b, c en d genoemde percentages is een toeslagpercentage van 5 begrepen. Deze toeslag bedraagt niet minder dan een bedrag overeenkomende met 10% van de grondslag genoemd in artikel 8, zevende lid, onder a.   
 4.  Bij overlijden van de echtgenoot van de vervolgde blijft het uitkeringspercentage ongewijzigd tot en met de laatste dag van de maand, volgende op die, waarin het overlijden heeft plaatsgevonden.   
 

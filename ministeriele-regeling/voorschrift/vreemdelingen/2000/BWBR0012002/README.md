@@ -1100,27 +1100,35 @@ M.J.Cohen
 
 ### Bijlage  1  
 
+####, behorend bij artikel 2.1, eerste lid, onder a , van het Voorschrift Vreemdelingen 2000
+
 | Luchthaven  | Internationale luchthavencode  |
 |:---|:---|
 | Abuja Nnamdi Azikiwe International Airport  | ABV  |
 | Ankara Esenboga International Airport  | ESB  |
+| Banjul Yundum International Airport  | BJL  |
 | Beijing Capital International Airport  | PEK  |
 | Cairo International Airport  | CAI  |
-| Colombo Bandaranaike International Airport  | CM  |
+| Casablanca Mohammed V International Airport  | CMN  |
+| Colombo Bandaranaike International Airport  | CMB  |
+| Denpasar Bali International Airport  | DPS  |
 | Guangzhou Baiyun International Airport  | CAN  |
-| Hong Kong International Airport  | HKG  |
+| Hong Kong International Airport  | HKG    |
 | Istanboel International Atatürk Airport  | IST  |
 | Istanboel Sabiha Gökçen International Airport  | SAW  |
 | Jakarta Soekarno Hatta International Airport  | CGK  |
 | Jerevan Zvartnots International Airport  | EVN  |
 | Johannesburg International Airport  | JNB  |
 | Kathmandu-Tribhuvan International Airport  | KTM  |
+| Luanda 4 de Fevereiro International Airport  | LAD  |
+| Lusaka International Airport  | LUN  |
+| Moskou Sheremetjevo International Airport  | SVO  |
 | Nairobi Jomo Kenyatta International Airport  | NBO  |
 | Panama Stad-Tocumen International Airport  | PTY  |
 | Quito Mariscal Sucre International Airport  | UIO  |
 | Sao Paulo Guarulhos International Airport  | GRU  |
 | Teheran Imam Khomeini International Airport  | IKA  |
-| Xiamen International Airport  | XMN  |
+| Tripoli International Airport  | TIP  |
 
 ### Bijlage  1a  
 

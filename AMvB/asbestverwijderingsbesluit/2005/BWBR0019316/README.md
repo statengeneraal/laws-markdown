@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 6 april 2005, nr. MJZ2005029056, Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid en in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, Onze Minister van Verkeer en Waterstaat en Onze Minister van Economische Zaken;
 
-Gelet op artikel 7 van richtlijn nr. 87/217/EEG van de Raad van 19 maart 1987 inzake voorkoming en vermindering van verontreiniging van het milieu door asbest (PbEG L 85), artikel 1, onderdelen 11, 13 en 14, voor zover het betreft artikel 12 ter, van richtlijn nr. 2003/18/EG van het Europees Parlement en de Raad van 27 maart 2003 (PbEU L 97) tot wijziging van richtlijn nr. 83/477/EEG van de Raad betreffende de bescherming van werknemers tegen de risico’s van blootstelling van asbest op het werk, de [artikelen 24](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md), [35, vierde lid](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md), en [39, derde lid, van de Wet milieugevaarlijke stoffen](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md), de [artikelen 8, achtste lid](../../../../wet/woningwet/BWBR0005181/README.md), juncto [8, tweede lid, onderdelen d en h](../../../../wet/woningwet/BWBR0005181/README.md), en [120 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md) voorzover het betreft artikel 10, alsmede de [artikelen 16](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [20](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [21](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [22](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [23](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [33, tweede lid, van de Arbeidsomstandighedenwet 1998](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) voorzover het betreft artikel 12 en [artikel 8.44, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voorzover het betreft artikel 13;
+Gelet op artikel 7 van richtlijn nr. 87/217/EEG van de Raad van 19 maart 1987 inzake voorkoming en vermindering van verontreiniging van het milieu door asbest (PbEG L 85), artikel 1, onderdelen 11, 13 en 14, voor zover het betreft artikel 12 ter, van richtlijn nr. 2003/18/EG van het Europees Parlement en de Raad van 27 maart 2003 (PbEU L 97) tot wijziging van richtlijn nr. 83/477/EEG van de Raad betreffende de bescherming van werknemers tegen de risico’s van blootstelling van asbest op het werk, de artikelen 24, 35, vierde lid, en 39, derde lid, van de Wet milieugevaarlijke stoffen, de artikelen 8, achtste lid, juncto 8, tweede lid, onderdelen d en h, en 120 van de Woningwet voorzover het betreft artikel 10, alsmede de artikelen 16, 20, 21, 22, 23 en 33, tweede lid, van de Arbeidsomstandighedenwet 1998 voorzover het betreft artikel 12 en artikel 8.44, eerste lid, van de Wet milieubeheer voorzover het betreft artikel 13;
 
 De Raad van State gehoord (advies van 14 juli 2005, nr. W08.05.0120/V);
 
@@ -22,16 +22,12 @@ Hebben goedgevonden en verstaan:
 
 a. asbest: de volgende vezelachtige silicaten: actinoliet (CAS-nummer 77536-66-4), amosiet (CAS-nummer 12172-73-5), anthofylliet (CAS-nummer 77536-67-5), chrysotiel (CAS-nummer 12001-29-5), crocidoliet (CAS-nummer 12001-28-4) en tremoliet (CAS-nummer 77536-68-6);  
 
-b. asbestinventarisatierapport: rapport dat voldoet aan de eisen, gesteld in [artikel 4.54a, eerste, derde en vierde lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md);  
+b. asbestinventarisatierapport: rapport dat voldoet aan de eisen, gesteld in artikel 4.54a, eerste, derde en vierde lid, van het Arbeidsomstandighedenbesluit;  
 
 c. Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
 
-d. object: constructie, installatie, apparaat of transportmiddel, niet zijnde een bouwwerk;  
-
-e. bevoegd gezag: bevoegd gezag als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
-
-f. sloopvergunning: vergunning voor een sloopactiviteit als bedoeld in [artikel 2.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).     
-2.  In dit besluit wordt onder woning verstaan hetgeen daaronder wordt verstaan in de [Woningwet](../../../../wet/woningwet/BWBR0005181/README.md).   
+d. object: constructie, installatie, apparaat of transportmiddel, niet zijnde een bouwwerk.     
+2.  In dit besluit wordt onder woning verstaan hetgeen daaronder wordt verstaan in de Woningwet.   
 
 ### Artikel  2  
 
@@ -39,7 +35,7 @@ Dit besluit is niet van toepassing op:
 
 a. puin, puingranulaat, bodem, grond, slib, baggerspecie en grondwater;  
 
-b. producten waaromtrent regels zijn gesteld bij of krachtens het [Besluit beheer elektrische en elektronische apparatuur](../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md).    
+b. producten waaromtrent regels zijn gesteld bij of krachtens het Besluit beheer elektrische en elektronische apparatuur.    
 
 ### §  2  
 
@@ -63,11 +59,11 @@ b. asbest of een asbesthoudend product uit een bouwwerk of object doet verwijder
 
 1.  Artikel 3 is niet van toepassing op: 
 
-a. werkzaamheden die worden uitgevoerd in of aan bouwwerken of objecten, niet zijnde zeeschepen als bedoeld in [artikel 8:2, eerste lid, van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), die op of na 1 januari 1994 zijn gebouwd dan wel vervaardigd;  
+a. werkzaamheden die worden uitgevoerd in of aan bouwwerken of objecten, niet zijnde zeeschepen als bedoeld in artikel 8:2, eerste lid, van het Burgerlijk Wetboek, die op of na 1 januari 1994 zijn gebouwd dan wel vervaardigd;  
 
 b. het geheel of gedeeltelijk verwijderen van rem- en frictiematerialen;  
 
-c. wegen als bedoeld in het [Besluit asbestwegen milieubeheer](../../../../AMvB/besluit/asbestwegen/wms/BWBR0011619/README.md).     
+c. wegen als bedoeld in het Besluit asbestwegen milieubeheer.     
 2.  Artikel 3 is voorts niet van toepassing op het in de uitoefening van een beroep of bedrijf geheel of gedeeltelijk: 
 
 a. verwijderen van waterleidingbuizen, gasleidingbuizen, rioolleidingbuizen en mantelbuizen, voorzover zij deel uitmaken van het ondergrondse openbare gas-, water- en rioolleidingnet;  
@@ -97,7 +93,7 @@ Degene die een handeling doet verrichten waarop artikel 3 van toepassing is, ver
 
 ### Artikel  6  
 
-1.  De volgende handelingen, indien de concentratie van asbeststof is ingedeeld in risicoklasse 2 of 3 als bedoeld in [artikel 4.48](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) onderscheidenlijk [artikel 4.53a van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), mogen slechts worden verricht door een bedrijf dat in het bezit is van een certificaat als bedoeld in [artikel 4.54d, eerste lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md): 
+1.  De volgende handelingen, indien de concentratie van asbeststof is ingedeeld in risicoklasse 2 of 3 als bedoeld in artikel 4.48 onderscheidenlijk artikel 4.53a van het Arbeidsomstandighedenbesluit, mogen slechts worden verricht door een bedrijf dat in het bezit is van een certificaat als bedoeld in artikel 4.54d, eerste lid, van het Arbeidsomstandighedenbesluit: 
 
 a. het geheel of gedeeltelijk afbreken of uit elkaar nemen van bouwwerken of objecten indien in die bouwwerken of objecten asbest of een asbesthoudend product is verwerkt;  
 
@@ -121,9 +117,9 @@ d. niet-luchtdoorlatend verpakkingsmateriaal waarin verwijderd asbest of een ver
 
 e. ingeval verzameld asbest of verzamelde asbesthoudende producten niet in niet-luchtdoorlatend verpakkingsmateriaal kan respectievelijk kunnen worden verpakt, dat asbest of die asbesthoudende producten onmiddellijk in een afgesloten container wordt respectievelijk worden opgeslagen;  
 
-f. niet-luchtdoorlatend verpakkingsmateriaal waarin verwijderd asbest of een verwijderd asbesthoudend product is verpakt op duidelijke wijze wordt voorzien van aanduidingen overeenkomstig [artikel 7 van het Productenbesluit asbest](../../../../AMvB/productenbesluit/asbest/BWBR0017778/README.md);  
+f. niet-luchtdoorlatend verpakkingsmateriaal waarin verwijderd asbest of een verwijderd asbesthoudend product is verpakt op duidelijke wijze wordt voorzien van aanduidingen overeenkomstig artikel 7 van het Productenbesluit asbest;  
 
-g. opgeslagen verwijderd asbest of een opgeslagen verwijderd asbesthoudend product binnen twee weken na het vrijkomen hiervan wordt afgevoerd naar een inrichting als bedoeld in [artikel 1.1, vierde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
+g. opgeslagen verwijderd asbest of een opgeslagen verwijderd asbesthoudend product binnen twee weken na het vrijkomen hiervan wordt afgevoerd naar een inrichting als bedoeld in artikel 1.1, vierde lid, van de Wet milieubeheer.    
 
 ### Artikel  8  
 
@@ -132,42 +128,14 @@ g. opgeslagen verwijderd asbest of een opgeslagen verwijderd asbesthoudend produ
 
 ### Artikel  9  
 
-1.  Degene die in een binnenruimte een handeling doet verrichten waarop artikel 6, eerste lid, van toepassing is, draagt er zorg voor dat direct na het verrichten van die handeling een eindbeoordeling wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens [artikel 4.51a, eerste, tweede en vijfde lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).   
-2.  Degene die in de buitenlucht een handeling doet verrichten waarop artikel 6, eerste lid, van toepassing is, draagt er zorg voor dat direct na het verrichten van die handeling een visuele inspectie wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens [4.51a, derde en vijfde lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).   
-3.  Het is verboden andere werkzaamheden in een binnenruimte te verrichten of te doen verrichten met betrekking tot een bouwwerk of object ten aanzien waarvan een handeling als bedoeld in artikel 6, eerste lid, is verricht, zolang niet een eindbeoordeling als bedoeld in het eerste lid is uitgevoerd of indien uit de eindbeoordeling, bedoeld in het eerste lid, volgt dat er op de plaats van de handeling nog visueel waarneembaar asbest aanwezig is of de concentratie asbeststof in de lucht, bedoeld in [artikel 4.51a, tweede lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt overschreden.   
+1.  Degene die in een binnenruimte een handeling doet verrichten waarop artikel 6, eerste lid, van toepassing is, draagt er zorg voor dat direct na het verrichten van die handeling een eindbeoordeling wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens artikel 4.51a, eerste, tweede en vijfde lid, van het Arbeidsomstandighedenbesluit.   
+2.  Degene die in de buitenlucht een handeling doet verrichten waarop artikel 6, eerste lid, van toepassing is, draagt er zorg voor dat direct na het verrichten van die handeling een visuele inspectie wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens 4.51a, derde en vijfde lid, van het Arbeidsomstandighedenbesluit.   
+3.  Het is verboden andere werkzaamheden in een binnenruimte te verrichten of te doen verrichten met betrekking tot een bouwwerk of object ten aanzien waarvan een handeling als bedoeld in artikel 6, eerste lid, is verricht, zolang niet een eindbeoordeling als bedoeld in het eerste lid is uitgevoerd of indien uit de eindbeoordeling, bedoeld in het eerste lid, volgt dat er op de plaats van de handeling nog visueel waarneembaar asbest aanwezig is of de concentratie asbeststof in de lucht, bedoeld in artikel 4.51a, tweede lid, van het Arbeidsomstandighedenbesluit wordt overschreden.   
 4.  Het is verboden andere werkzaamheden in de buitenlucht te verrichten of te doen verrichten met betrekking tot een bouwwerk of object ten aanzien waarvan een handeling als bedoeld in artikel 6, eerste lid, onder a of b, is verricht of op de plaats waar een handeling als bedoeld in artikel 6, eerste lid, onder c, is verricht, zolang niet een visuele inspectie als bedoeld in het tweede lid is uitgevoerd of indien uit de visuele inspectie, bedoeld in het tweede lid, volgt dat er op de plaats van de handeling nog visueel waarneembaar asbest aanwezig is.   
 
 ### §  4  
 
 ####Bouwwerken
-
-### Artikel  10  
-
-In de bouwverordening worden regels gesteld inhoudende dat: 
-
-a. onverminderd het ter zake bepaalde in de bouwverordening het verboden is te slopen zonder of in afwijking van een vergunning van het bevoegd gezag (sloopvergunning), voorzover in het bouwwerk dat geheel of gedeeltelijk wordt gesloopt asbest of een asbesthoudend product aanwezig is;  
-
-b. het onder a bepaalde niet van toepassing is op een handeling als bedoeld in artikel 4, eerste en tweede lid, indien die wordt verricht in het kader van de uitoefening van een beroep of bedrijf;  
-
-c. het onder a bepaalde niet van toepassing is op een handeling als bedoeld in artikel 4, eerste en derde lid, indien die niet wordt verricht in het kader van de uitoefening van een beroep of bedrijf en het voornemen tot slopen bij burgemeester en wethouders is gemeld en zij overeenkomstig bij de bouwverordening gegeven voorschriften binnen acht dagen na de dag waarop het voornemen tot slopen is gemeld, schriftelijk aan degene die heeft gemeld hebben medegedeeld dat geen sloopvergunning is vereist;  
-
-d. indien burgemeester en wethouders niet binnen de in onderdeel c genoemde termijn hebben medegedeeld dat geen sloopvergunning is vereist, de mededeling van rechtswege is gedaan;  
-
-e. burgemeester en wethouders aan een mededeling als bedoeld onder c voorschriften kunnen verbinden met betrekking tot de verwijdering, opslag en afvoer van asbest of asbesthoudende producten;  
-
-f. de houder van een mededeling als bedoeld onder c verplicht is de voorschriften, bedoeld onder e, in acht te nemen;  
-
-g. de houder van een mededeling als bedoeld onder c verplicht is de voorschriften, bij of krachtens de artikelen 7 en 8, in acht te nemen;  
-
-h. een aanvraag om een sloopvergunning tevens geldt als een melding als bedoeld onder c;  
-
-i. de houder van een sloopvergunning het slopen, voorzover dat betrekking heeft op asbest of asbesthoudende producten niet zijnde beglazingskit dat is verwerkt in de constructie van kassen en voorzover verplicht op grond van artikel 6, eerste lid, opdraagt aan een bedrijf dat in het bezit is van een certificaat als bedoeld in [artikel 4.54d, eerste lid, van het Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md);  
-
-j. de houder van een sloopvergunning een afschrift van de sloopvergunning ter hand stelt aan het bedrijf, bedoeld onder i, dat het slopen zal uitvoeren;  
-
-k. de houder van de sloopvergunning, ten minste één week voorafgaand aan de aanvang van het slopen, het bevoegd gezag schriftelijk op de hoogte stelt van de data en tijdstippen waarop het slopen, voorzover dat betrekking heeft op asbest of asbesthoudende producten, zal plaatsvinden;  
-
-l. de houder van een sloopvergunning binnen twee weken na de uitvoering van de werkzaamheden het bevoegd gezag een afschrift stuurt van de resultaten van de eindbeoordeling, bedoeld in artikel 9, eerste lid.    
 
 ### §  5  
 
@@ -175,7 +143,7 @@ l. de houder van een sloopvergunning binnen twee weken na de uitvoering van de w
 
 ### §  6  
 
-####Wijzigingen [Arbeidsomstandighedenbesluit](../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)
+####Wijzigingen Arbeidsomstandighedenbesluit
 
 ### Artikel  12  
 
@@ -199,11 +167,11 @@ Wijzigt het Productenbesluit asbest.
 
 ### Artikel  14a  
 
-Voor zover dit besluit berust op de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), berust dit op de [artikelen 9.2.2.1](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.3.2](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.3, vierde lid, van die wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+Voor zover dit besluit berust op de Wet milieubeheer, berust dit op de artikelen 9.2.2.1, 9.2.3.2 en 9.2.3.3, vierde lid, van die wet.  
 
 ### Artikel  15  
 
-Het [Asbest-verwijderingsbesluit](../../../../AMvB/asbest-verwijderingsbesluit/BWBR0006006/README.md) wordt ingetrokken.  
+Het Asbest-verwijderingsbesluit wordt ingetrokken.  
 
 ### Artikel  16  
 

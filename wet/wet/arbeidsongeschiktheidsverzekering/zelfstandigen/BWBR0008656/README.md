@@ -384,7 +384,7 @@ d. indien het niet of niet behoorlijk nakomen van een verplichting op grond van 
 
 1.  Het recht op arbeidsongeschiktheidsuitkering eindigt: 
 
-a. met ingang van de eerste dag van de maand, waarin de verzekerde de leeftijd van 65 jaar bereikt;  
+a. met ingang van de dag waarop de verzekerde de leeftijd van 65 jaar bereikt;  
 
 b. wanneer de arbeidsongeschiktheid is geëindigd, of beneden 25% is gedaald, met ingang van de dag, aangegeven in de daartoe strekkende beschikking van het Uitvoeringsinstituut werknemersverzekeringen.     
 2.  De arbeidsongeschiktheidsuitkering van de verzekerde die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet ingetrokken in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid, tenzij artikel 9, derde lid, van toepassing is. Indien de verzekerde tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is artikel 58, eerste lid, van overeenkomstige toepassing.   
@@ -552,7 +552,7 @@ Herziening dan wel heropening van de arbeidsongeschiktheidsuitkering vindt op aa
 1.  De herziening van de arbeidsongeschiktheidsuitkering gaat in op de dag, waarop de verzekerde op grond van deze wet voor een hogere of lagere uitkering in aanmerking komt.   
 2.  Met betrekking tot de herziening van de arbeidsongeschiktheidsuitkering, die een verhoging van die uitkering tot gevolg heeft, alsmede met betrekking tot de heropening van de uitkering is artikel 36, tweede lid, van overeenkomstige toepassing.   
 3.  De herziening van een arbeidsongeschiktheidsuitkering ter zake van afneming van de arbeidsongeschiktheid gaat in op de dag, aangegeven in de daartoe strekkende beschikking van het Uitvoeringsinstituut werknemersverzekeringen.   
-4.  Indien de herziening van de arbeidsongeschiktheidsuitkering verband houdt met een voltooide scholing of opleiding, gaat deze herziening niet eerder in dan een jaar na voltooiing van die scholing of opleiding. Indien de verzekerde eerder inkomsten uit arbeid verwerft, is artikel 58, eerste lid, tot uiterlijk het einde van dat jaar van overeenkomstige toepassing.   
+4.  Indien de herziening van de arbeidsongeschiktheidsuitkering verband houdt met een voltooide scholing of opleiding, gaat deze herziening niet eerder in dan een jaar na voltooiing van die scholing of opleiding.   
 5.  De heropening van de uitkering, bedoeld in artikel 21, gaat in op de dag, met ingang waarvan de betrokkene weer arbeidsongeschikt is geworden.   
 6.  Heropening van de arbeidsongeschiktheidsuitkering vindt niet plaats, indien deze zou ingaan op of na de in artikel 19, eerste lid, onderdeel a, bedoelde dag.   
 
@@ -672,7 +672,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../..
 ####Invordering bestuurlijke boete
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md), die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
-2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaanden wet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   
+2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaanden wet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
 4.  Zolang de verzekerde of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 48, vierde lid, niet of niet behoorlijk nakomt: 
 
@@ -733,26 +733,16 @@ Het Uitvoeringsinstituut werknemersverzekeringen houdt op de arbeidsongeschikthe
 
 ####Inkomsten uit arbeid tijdens uitkering
 
-1.  Indien verzekerde, die recht heeft op een arbeidsongeschiktheidsuitkering inkomsten uit arbeid geniet, wordt die arbeid gedurende een aaneengesloten tijdvak van vijf jaar, vanaf de eerste dag waarover de inkomsten uit arbeid worden genoten, niet aangemerkt als arbeid, bedoeld in artikel 2, vierde lid, en wordt de arbeidsongeschiktheidsuitkering niet ingetrokken of herzien, doch wordt de uitkering: 
+1.  Indien de verzekerde, die recht heeft op een arbeidsongeschiktheidsuitkering, inkomen geniet doordat hij arbeid is gaan verrichten, wordt die arbeid gedurende een aaneengesloten tijdvak van vijf jaar niet aangemerkt als arbeid als bedoeld in artikel 2, vierde lid, en wordt de arbeidsongeschiktheidsuitkering niet ingetrokken of herzien, doch wordt de uitkering: 
 
-a. niet betaald, indien de inkomsten uit arbeid zodanig zijn, dat als die arbeid wel arbeid als bedoeld in artikel 2, vierde lid, zou zijn, niet langer sprake zou zijn van arbeidsongeschiktheid van ten minste 25%; of  
+a. niet betaald, indien het inkomen zodanig is, dat als die arbeid wel arbeid als bedoeld in artikel 2, vierde lid, zou zijn, niet langer sprake zou zijn van arbeidsongeschiktheid van ten minste 25%; of  
 
-b. indien onderdeel a niet van toepassing is, betaald tot een bedrag ter grootte van de arbeidsongeschiktheidsuitkering, zoals deze zou zijn vastgesteld, indien die arbeid wel arbeid als bedoeld in artikel 2, vierde lid, zou zijn.   Na afloop van het in de eerste zin genoemde tijdvak wordt de arbeid aangemerkt als arbeid, bedoeld in artikel 2, vierde lid.   
-2.  Het in het eerste lid genoemde tijdvak van vijf jaar: 
-
-a. wordt niet onderbroken indien gedurende perioden van korter dan vier weken geen inkomsten uit arbeid worden genoten;  
-
-b. wordt, indien gedurende een periode van vier weken of langer geen inkomsten uit arbeid worden genoten, onderbroken indien vervolgens opnieuw inkomsten worden genoten uit dezelfde arbeid als de arbeid die werd verricht voor de onderbreking, met dien verstande dat het van de vijf jaar resterende tijdvak aanvangt vanaf het moment dat opnieuw de inkomsten uit die arbeid worden genoten;  
-
-c. wordt onderbroken met de periode waarin inkomsten uit arbeid zijn genoten doch waarin geen arbeid is verricht, mits die periode langer dan vier weken duurt.     
-3.  Indien de verzekerde die recht heeft op een arbeidsongeschiktheidsuitkering, inkomsten uit arbeid geniet ingevolge een arbeidsovereenkomst als bedoeld in de [hoofdstukken 2](../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) en [3 van de Wet sociale werkvoorziening](../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md), vindt het tweede lid geen toepassing.   
-4.  Maandelijks wordt, wat betreft onderdeel b in afwijking van [paragraaf 5.3 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), aan ’s Rijks kas afgedragen het geraamde bedrag aan arbeidsongeschiktheidsuitkeringen die op grond van het derde lid niet worden uitbetaald wegens het genieten van dat loon, alsmede van de dientengevolge niet uitbetaalde vakantie-uitkeringen, vermeerderd met: 
-
-a. het bedrag aan premies dat het Uitvoeringsinstituut werknemersverzekeringen bij uitbetaling op grond van enige wet over dat bedrag verschuldigd zou zijn en dat niet op de uitkeringen in mindering kan worden gebracht, en  
-
-b. de op grond van [artikel 46 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) vergoede inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van die wet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over dat bedrag.     
-5.  Bij ministeriële regeling worden regels gesteld met betrekking tot het eerste lid. Deze regels hebben in elk geval betrekking op de gelijkstelling van inkomsten in verband met arbeid met inkomsten als bedoeld in het eerste lid.   
-6.  Bij ministeriële regeling kan worden bepaald dat het tweede lid geen toepassing vindt ten aanzien van andere vormen van arbeid die de verzekerde gaat verrichten.   
+b. indien onderdeel a niet van toepassing is, betaald tot een bedrag ter grootte van de arbeidsongeschiktheidsuitkering, zoals deze zou zijn vastgesteld, indien die arbeid wel arbeid als bedoeld in artikel 2, vierde lid, zou zijn.   Na afloop van het in de aanhef genoemde tijdvak wordt de arbeid aangemerkt als arbeid als bedoeld in artikel 2, vierde lid.   
+2.  Het in het eerste lid genoemde tijdvak van vijf jaar vangt aan op de eerste dag waarop arbeid wordt verricht, waarbij een nieuw tijdvak als bedoeld in het eerste lid aanvangt indien diegene andere arbeid gaat verrichten.   
+3.  Indien op de laatste dag van het in het eerste lid genoemde tijdvak van vijf jaar inkomen wordt genoten, maar geen arbeid wordt verricht, wordt dit tijdvak verlengd tot en met de laatste dag waarop dat inkomen wordt genoten.   
+4.  Indien degene, die recht heeft op een arbeidsongeschiktheidsuitkering, inkomen geniet, dat bestaat uit loon ingevolge een arbeidsovereenkomst als bedoeld in de [hoofdstukken 2](../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) en [3 van de Wet sociale werkvoorziening](../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md), is het eerste lid voor onbeperkte duur van toepassing.   
+5.  Onze Minister kan bepalen dat het eerste lid voor onbeperkte duur toepassing vindt ten aanzien van bepaalde groepen personen.   
+6.  Bij ministeriële regeling wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 
 ### Artikel  59  
 
@@ -812,12 +802,11 @@ a. aan de langstlevende van de echtgenoten;
 b. bij ontstentenis van de in onderdeel *a* bedoelde persoon, de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond;  
 
 c. bij ontstentenis van de in de onderdelen *a* en *b* bedoelde personen degenen met wie de overledene in gezinsverband leefde.     
-2.  Met de verzekerde aan wie een arbeidsongeschiktheidsuitkering is toegekend, wordt voor de toepassing van dit artikel gelijkgesteld, de persoon wiens overlijden heeft plaatsgevonden in de maand waarin hij de leeftijd van 65 jaar zou hebben bereikt, doch voor het bereiken van deze leeftijd is overleden, en die uitsluitend op grond van artikel 19, eerste lid, onderdeel a, over de dag van zijn overlijden geen recht op uitkering had.   
-3.  De overlijdensuitkering is gelijk aan het bedrag van de uitkering over één maand, doch niet over de zaterdagen en de zondagen, berekend naar de hoogte van die uitkering op de dag of laatstelijk voor de dag van overlijden van de verzekerde.   
-4.  In verband met het overlijden van de verzekerde aan wie een uitkering is toegekend, is artikel 19, eerste lid, onderdeel a niet van toepassing.   
-5.  De overlijdensuitkering wordt ambtshalve of op aanvraag aan de rechthebbende of rechthebbenden, bedoeld in het eerste lid, door het Uitvoeringsinstituut werknemersverzekeringen betaald.   
-6.  De overlijdensuitkering wordt in een bedrag ineens betaald.   
-7.  Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan arbeidsongeschiktheidsuitkering dat over na het overlijden gelegen dagen reeds is betaald.   
+2.  De overlijdensuitkering is gelijk aan het bedrag van de uitkering over één maand, doch niet over de zaterdagen en de zondagen, berekend naar de hoogte van die uitkering op de dag of laatstelijk voor de dag van overlijden van de verzekerde.   
+3.  In verband met het overlijden van de verzekerde aan wie een uitkering is toegekend, is artikel 19, eerste lid, onderdeel a niet van toepassing.   
+4.  De overlijdensuitkering wordt ambtshalve of op aanvraag aan de rechthebbende of rechthebbenden, bedoeld in het eerste lid, door het Uitvoeringsinstituut werknemersverzekeringen betaald.   
+5.  De overlijdensuitkering wordt in een bedrag ineens betaald.   
+6.  Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan arbeidsongeschiktheidsuitkering dat over na het overlijden gelegen dagen reeds is betaald.   
 
 ### Artikel  62  
 
@@ -877,7 +866,7 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 
 c. de vordering van het Uitvoeringsinstituut werknemersverzekeringen wegens onverschuldigd betaalde uitkering ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
 
-d. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbare schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
+d. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
 
 e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
@@ -896,7 +885,7 @@ c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste
 
 ####Preferentie
 
-Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in artikel 63 en 65a van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in artikel 63 en 65a is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
 
 ### Artikel  66  
 

@@ -78,31 +78,31 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 a. recht heeft op loondervingsuitkering, en  
 
-b. per dag een inkomen heeft dat lager is dan € 59,80 per 1 januari 2011: € 65,49.     
+b. per dag een inkomen heeft dat lager is dan € 59,80 per 1 januari 2012: € 66,51.     
 2.  Recht op toeslag heeft een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering;  
 
 b. een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van [artikel 18 van de Algemene Kinderbijslagwet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) niet van toepassing zou zijn, en  
 
-c. per dag een inkomen heeft dat lager is dan € 54,61 per 1 januari 2011: € 61,98.     
+c. per dag een inkomen heeft dat lager is dan € 54,61 per 1 januari 2012: € 62,90.     
 3.  Behoudens het vierde lid heeft voorts recht op toeslag een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering, en  
 
 b. per dag een inkomen heeft dat lager is dan: 
 
-1°. indien hij 23 jaar of ouder is: € 46,12 per 1 januari 2011: € 49,79;  
+1°. indien hij 23 jaar of ouder is: € 46,12 per 1 januari 2011: € 50,49;  
 
-2°. indien hij 22 jaar is: € 35,29 per 1 januari 2011: € 39,01;  
+2°. indien hij 22 jaar is: € 35,29 per 1 januari 2012: € 39,55;  
 
-3°. indien hij 21 jaar is: € 29,64 per 1 januari 2011: € 32,81;  
+3°. indien hij 21 jaar is: € 29,64 per 1 januari 2012: € 33,36;  
 
-4°. indien hij 20 jaar is: € 24,76 per 1 januari 2011: € 27,43;  
+4°. indien hij 20 jaar is: € 24,76 per 1 januari 2012: € 27,90;  
 
-5°. indien hij 19 jaar is: € 21,14 per 1 januari 2011: € 23,00;  
+5°. indien hij 19 jaar is: € 21,14 per 1 januari 2012: € 23,34;  
 
-6°. indien hij 18 jaar is: € 19,06 per 1 januari 2011: € 19,72.       
+6°. indien hij 18 jaar is: € 19,06 per 1 januari 2012: € 20,0.       
 4.  Geen recht op toeslag heeft de in het derde lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.   
 5.  Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.   
 6.  Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.   
@@ -157,8 +157,8 @@ b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdee
 
 ### Artikel  8  
 
-1.  Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 59,80 per 1 januari 2011: € 65,49 en het inkomen per dag.   
-2.  Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 54,61 per 1 januari 2011: € 61,98 en het inkomen per dag.   
+1.  Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 59,80 per 1 januari 2012: € 66,51 en het inkomen per dag.   
+2.  Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 54,61 per 1 januari 2012: € 62,90 en het inkomen per dag.   
 3.  Voor de persoon, bedoeld in artikel 2, derde lid, is de toeslag gelijk aan het verschil tussen het in artikel 2, derde lid, onderdeel b, bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.   
 
 ### Artikel  8a  
@@ -204,7 +204,7 @@ a. redelijkerwijs mag worden aangenomen dat aan de bekendmaking van de beschikki
 b. de toepasselijkheid van deze artikelen ook is uitgesloten voor de toekenning en de beëindiging van de loondervingsuitkering waarop de toeslag wordt of werd betaald.     
 3.  De toeslag op een loondervingsuitkering wordt betaald zonder dat dit bij beschikking is vastgesteld indien de loondervingsuitkering waarop de toeslag wordt of werd betaald ook op die wijze wordt betaald en indien redelijkerwijs mag worden aangenomen dat aan een beschikking geen behoefte bestaat.   
 4.  Een toeslag als bedoeld in het derde lid wordt beëindigd zonder dat dit bij beschikking is vastgesteld, indien redelijkerwijs mag worden aangenomen dat aan een beschikking geen behoefte bestaat. Indien de belanghebbende binnen een redelijke termijn om een beschikking verzoekt, wordt deze zo spoedig mogelijk alsnog verstrekt.   
-5.  Een herziening van de toeslag als gevolg van een wijziging van het minimumloon of als gevolg van een indexering van het dagloon of de grondslag waarnaar de loondervingsuitkering is berekend vindt plaats zonder dat dit bij beschikking is vastgesteld.   
+5.  Een herziening van de toeslag als gevolg van een wijziging van de in de artikelen 2 en 8 genoemde bedragen als bedoeld in artikel 9 of als gevolg van een indexering van het dagloon of de grondslag waarnaar de loondervingsuitkering is berekend vindt plaats zonder dat dit bij beschikking is vastgesteld.   
 6.  De vakantie-uitkering wordt betaald zonder dat dit bij beschikking is vastgesteld.   
 7.  Het recht op toeslag kan niet worden vastgesteld over perioden gelegen voor één jaar voorafgaande aan de dag waarop de aanvraag om toeslag werd ingediend. Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd in bijzondere gevallen af te wijken van de vorige zin.   
 
@@ -255,7 +255,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../wet/a
 ### Artikel  14g  
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een toeslag op grond van deze wet, een uitkering op grond van de [Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) of de [Wet arbeid en zorg](../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), die degene aan wie de bestuurlijke boete is opgelegd ontvangt.   
-2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of de [Wet werk en inkomen kunstenaars](../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   
+2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 4.  Zolang degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 14a, vierde lid, niet of niet behoorlijk nakomt: 
 
@@ -394,13 +394,11 @@ a. aan de langstlevende van de echtgenoten;
 b. bij ontstentenis van de in onderdeel a bedoelde persoon, aan de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond;  
 
 c. bij ontstentenis van de in de onderdelen a en b bedoelde personen, aan degene met wie de overledene in gezinsverband leefde.     
-2.  Met de toeslaggerechtigde, wordt voor de toepassing van dit artikel gelijkgesteld, degene wiens overlijden heeft plaats gevonden in de maand waarin hij de leeftijd van 65 jaar zou hebben bereikt doch voor het bereiken van deze leeftijd is overleden, en die recht op een toeslag zou hebben gehad indien [artikel 29, vierde lid, van de Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md), [artikel 43, onderdeel f, van de Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 49, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 19, eerste lid, onderdeel a, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikel 2:11, eerste lid, onderdeel d](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), of [artikel 3:19, eerste lid, onderdeel a, van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) over de dag van zijn overlijden niet van toepassing zou zijn geweest.   
-3.  De overlijdensuitkering is gelijk aan het bedrag van de toeslag over één maand, doch niet over de zaterdagen en zondagen, berekend naar de hoogte van die toeslag op de dag of laatstelijk voor de dag van overlijden van de toeslaggerechtigde.   
-4.  Voor de toepassing van het tweede lid, wordt ervan uitgegaan dat aan de verzekerde een toeslag was toegekend.   
-5.  De overlijdensuitkering wordt ambtshalve of op verzoek aan de rechthebbende of rechthebbenden genoemd in het eerste lid, door het Uitvoeringsinstituut werknemersverzekeringen uitbetaald.   
-6.  De overlijdensuitkering wordt in een bedrag ineens uitbetaald.   
-7.  Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan toeslag dat, over na het overlijden gelegen dagen, reeds is uitbetaald.   
-8.  De overlijdensuitkering is niet vatbaar voor beslag.   
+2.  De overlijdensuitkering is gelijk aan het bedrag van de toeslag over één maand, doch niet over de zaterdagen en zondagen, berekend naar de hoogte van die toeslag op de dag of laatstelijk voor de dag van overlijden van de toeslaggerechtigde.   
+3.  De overlijdensuitkering wordt ambtshalve of op verzoek aan de rechthebbende of rechthebbenden genoemd in het eerste lid, door het Uitvoeringsinstituut werknemersverzekeringen uitbetaald.   
+4.  De overlijdensuitkering wordt in een bedrag ineens uitbetaald.   
+5.  Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan toeslag dat, over na het overlijden gelegen dagen, reeds is uitbetaald.   
+6.  De overlijdensuitkering is niet vatbaar voor beslag.   
 
 ### Artikel  23a  
 

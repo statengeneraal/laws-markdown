@@ -419,17 +419,17 @@ b. andere koolwaterstoffen dan bedoeld in het eerste lid of in onderdeel *a*, di
 
 1.  De accijns bedraagt voor: 
 
-a. lichte olie, per 1000 L bij een temperatuur van 15°C € 799,88 indien het gelode lichte olie betreft en € 718,27 indien het ongelode lichte olie betreft;  
+a. lichte olie, per 1000 L bij een temperatuur van 15°C € 813,48 indien het gelode lichte olie betreft en € 730,48 indien het ongelode lichte olie betreft;  
 
-b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15 °C € 423,60 indien het zwavelvrije halfzware olie en gasolie betreft en € 434,34 indien het andere halfzware olie en gasolie betreft;  
+b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15 °C € 430,80 indien het zwavelvrije halfzware olie en gasolie betreft en € 441,72 indien het andere halfzware olie en gasolie betreft;  
 
-c. zware stookolie, per 1 000 kg € 33,89;  
+c. zware stookolie, per 1 000 kg € 34,47;  
 
 d. vloeibaar gemaakt petroleumgas, per 1000 kg € 167,54;  
 
 e. methaan nihil.     
-2.  In afwijking in zoverre van het eerste lid, onderdeel b, bedraagt de accijns voor halfzware olie en gasolie die zijn bestemd voor de voortstuwing van luchtvaartuigen, per 1000 L bij een temperatuur van 15 °C € 221,77.   
-3.  In afwijking in zoverre van het eerste lid, onderdeel b, bedraagt de accijns voor halfzware olie en gasolie die zijn bestemd voor ander gebruik dan voor het aandrijven van motorrijtuigen op de weg of van pleziervaartuigen of voor de voortstuwing van luchtvaartuigen en die daartoe zijn voorzien van bij ministeriële regeling, onder daarbij te stellen voorwaarden, voorgeschreven herkenningsmiddelen, per 1 000 L bij een temperatuur van 15 °C € 254,53.   
+2.   Vervallen.    
+3.  In afwijking in zoverre van het eerste lid, onderdeel b, bedraagt de accijns voor halfzware olie en gasolie die zijn bestemd voor ander gebruik dan voor het aandrijven van motorrijtuigen op de weg of van pleziervaartuigen of voor de voortstuwing van luchtvaartuigen en die daartoe zijn voorzien van bij ministeriële regeling, onder daarbij te stellen voorwaarden, voorgeschreven herkenningsmiddelen, per 1 000 L bij een temperatuur van 15 °C € 258,86.   
 4.   Vervallen.    
 5.  Voor de toepassing van deze wet en de daarop gebaseerde regelingen wordt verstaan onder: 
 
@@ -439,18 +439,18 @@ b. motorrijtuig: een voertuig dat is bestemd om anders dan langs spoorstaven te 
 
 c. pleziervaartuig: een vaartuig dat wordt gebruikt door de eigenaar daarvan of door de natuurlijke of rechtspersoon die het gebruik daarvan geniet door huur of anderszins, voor andere dan commerciële doeleinden en met name voor andere doeleinden dan voor het vervoer van personen of goederen of voor het verrichten van diensten tegen betaling, dan wel ten behoeve van overheidsinstanties.     
 6.  Voor de toepassing van deze wet en de daarop gebaseerde regelingen wordt het toevoegen van herkenningsmiddelen als bedoeld in het derde lid aan minerale oliën, alsmede het afscheiden van die herkenningsmiddelen of bestanddelen daarvan van de minerale oliën waaraan zij zijn toegevoegd, het opheffen of veranderen van de werking daarvan daaronder begrepen, aangemerkt als het vervaardigen van een accijnsgoed.   
-7.  Voor de toepassing van het tarief als bedoeld in het eerste lid, onderdelen a en b, het tweede lid en het derde lid, worden bij ministeriële regeling regels gesteld met betrekking tot de herleiding van de actuele hoeveelheden minerale oliën naar hoeveelheden bij een temperatuur van 15°C.   
+7.  Voor de toepassing van het tarief als bedoeld in het eerste lid, onderdelen a en b, en het derde lid, worden bij ministeriële regeling regels gesteld met betrekking tot de herleiding van de actuele hoeveelheden minerale oliën naar hoeveelheden bij een temperatuur van 15°C.   
 8.  Onder zwavelvrije halfzware olie en gasolie wordt verstaan halfzware olie en gasolie met een zwavelgehalte van maximaal 10 mg/kg.   
 
 ### Artikel  27a  
 
-De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op de in de artikelen 27, eerste tot en met derde lid, 71b, tweede lid, 71c, tweede lid, 71e, tweede lid, 71f, tweede lid en 71g, tweede lid, vermelde bedragen.  
+De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op de in de artikelen 27, eerste en derde lid, 71b, tweede lid, 71c, tweede lid, 71e, tweede lid, 71f, tweede lid en 71g, tweede lid, vermelde bedragen.  
 
 ### Artikel  28  
 
-1.  Andere minerale oliën dan die waarvoor in artikel 27, eerste, tweede, dan wel derde lid, een accijnstarief is vermeld, worden, indien zij zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt als brandstof voor verwarming of als motorbrandstof, aan de accijns onderworpen naar het ingevolge artikel 27, eerste, tweede, dan wel derde lid, voor de gelijkwaardige brandstof of motorbrandstof geldende tarief.   
-2.  Minerale oliën als bedoeld in artikel 25, tweede lid, onderdeel a, worden aan de accijns onderworpen naar het ingevolge artikel 27, eerste, tweede, dan wel derde lid, voor de gelijkwaardige motorbrandstof geldende tarief.   
-3.  Minerale oliën als bedoeld in artikel 25, tweede lid, onderdeel b, worden aan de accijns onderworpen naar het ingevolge artikel 27, eerste dan wel derde lid, voor de gelijkwaardige brandstof geldende tarief.   
+1.  Andere minerale oliën dan die waarvoor in artikel 27, eerste of derde lid, een accijnstarief is vermeld, worden, indien zij zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt als brandstof voor verwarming of als motorbrandstof, aan de accijns onderworpen naar het ingevolge artikel 27, eerste of derde lid, voor de gelijkwaardige brandstof of motorbrandstof geldende tarief.   
+2.  Minerale oliën als bedoeld in artikel 25, tweede lid, onderdeel a, worden aan de accijns onderworpen naar het ingevolge artikel 27, eerste of derde lid, voor de gelijkwaardige motorbrandstof geldende tarief.   
+3.  Minerale oliën als bedoeld in artikel 25, tweede lid, onderdeel b, worden aan de accijns onderworpen naar het ingevolge artikel 27, eerste of derde lid, voor de gelijkwaardige brandstof geldende tarief.   
 4.  Minerale oliën die kunnen worden gelijkgesteld met meer dan één soort minerale olie worden voor de toepassing van het tarief gelijkgesteld met de soort minerale olie die van de desbetreffende soorten het eerst is vermeld in artikel 26, eerste lid.   
 
 ### Afdeling  7  
@@ -486,9 +486,9 @@ b. tabaksrolletjes bestaande uit een gebroken melange, met een dekblad van gerec
 
 a. sigaren 5;  
 
-b. sigaretten 8,59 benevens per 1000 stuks € 135,66, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 101,89 per 1 maart 2011: € 156,00 bedraagt;  
+b. sigaretten 7,57 benevens per 1000 stuks € 138,23, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 157,28 bedraagt;  
 
-c. rooktabak 13,00 benevens per kilogram € 50,45, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 40,31 per 1 maart 2011: € 65,54 bedraagt.     
+c. rooktabak 11,97 benevens per kilogram € 51,72, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 66,50 bedraagt.     
 2.  Onder de kleinhandelsprijs van een tabaksprodukt wordt verstaan de prijs waarvoor dat produkt aan anderen dan wederverkopers wordt verkocht, met inbegrip van alle belastingen en de kosten van de verpakking.   
 3.  Voor de berekening van de accijns wordt voor tabaksprodukten die worden verbruikt binnen een accijnsgoederenplaats voor tabaksprodukten de kleinhandelsprijs gesteld op die van gelijke dan wel soortgelijke produkten die worden verbruikt buiten de accijnsgoederenplaats.   
 4.  Voor de berekening van de accijns wordt een tabaksrolletje als bedoeld in artikel 31 aangemerkt als twee sigaretten wanneer het, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is, en als drie sigaretten wanneer het, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.   
@@ -744,15 +744,15 @@ De artikelen 43, 44, tweede en derde lid, 45, 46, 48, 49 en 50 zijn van overeenk
 
 a. bij toepassing van artikel 2, eerste lid, onderdeel a: 
 
-1°. de vergunninghouder van de accijnsgoederenplaats, de geregistreerde geadresseerde of enig andere persoon die de accijnsgoederen aan de accijnsschorsingsregeling onttrekt of voor wiens rekening de accijnsgoederen aan de accijnsschorsingsregeling worden onttrokken of, in geval van onregelmatige onttrekking aan de accijnsgoederenplaats, enig andere persoon die bij die onttrekking betrokken is geweest;  
+1°. de vergunninghouder van de accijnsgoederenplaats, de geregistreerde geadresseerde of enig andere persoon die de accijnsgoederen aan de accijnsschorsingsregeling onttrekt of voor wiens rekening de accijnsgoederen aan de accijnsschorsingsregeling worden onttrokken en, in geval van onregelmatige onttrekking aan de accijnsgoederenplaats, enig andere persoon die bij die onttrekking betrokken is geweest;  
 
 2°. in geval van een onregelmatigheid tijdens een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling in de zin van artikel 2c, eerste, tweede en derde lid: de vergunninghouder van de accijnsgoederenplaats, de vergunninghouder van het belastingentrepot, de geregistreerde afzender, de vervoerder of de eigenaar van de accijnsgoederen, bedoeld in artikel 56, derde lid, of enig andere persoon die ingevolge de wettelijke bepalingen van een andere lidstaat zekerheid heeft gesteld en alle personen die bij de onregelmatige onttrekking betrokken zijn geweest terwijl zij wisten of redelijkerwijze hadden moeten weten dat het onttrekken op onregelmatige wijze geschiedde;    
 
-b. bij toepassing van artikel 2, eerste lid, onderdeel b: de persoon die de accijnsgoederen voorhanden heeft of enig andere persoon die bij het voorhanden hebben ervan betrokken is;  
+b. bij toepassing van artikel 2, eerste lid, onderdeel b: de persoon die de accijnsgoederen voorhanden heeft en enig andere persoon die bij het voorhanden hebben ervan betrokken is;  
 
-c. bij toepassing van artikel 2, eerste lid, onderdeel c: de persoon die de accijnsgoederen produceert of, in geval van onregelmatige productie, enig andere persoon die bij de productie ervan betrokken is geweest;  
+c. bij toepassing van artikel 2, eerste lid, onderdeel c: de persoon die de accijnsgoederen produceert, en in geval van onregelmatige productie, enig andere persoon die bij de productie ervan betrokken is geweest;  
 
-d. bij toepassing van artikel 2, eerste lid, onderdeel d: de persoon die de accijnsgoederen bij invoer aangeeft of voor wiens rekening de goederen bij invoer worden aangegeven of, in geval van onregelmatige invoer, enig andere persoon die bij de invoer betrokken is geweest;  
+d. bij toepassing van artikel 2, eerste lid, onderdeel d: de persoon die de accijnsgoederen bij invoer aangeeft of voor wiens rekening de goederen bij invoer worden aangegeven en, in geval van onregelmatige invoer, enig andere persoon die bij de invoer betrokken is geweest;  
 
 e. bij toepassing van artikel 2, vierde lid: de persoon die de minerale oliën voorhanden heeft of gebruikt;  
 
@@ -940,9 +940,8 @@ a. voor de aandrijving van schepen of als scheepsbehoeften aan boord van schepen
 
 b. voor de voortstuwing van luchtvaartuigen voor zover het betreft halfzware olie als bedoeld in GN-code 2710 19 21.     
 2.  De vrijstelling als bedoeld in het eerste lid, onderdelen a en b, is niet van toepassing met betrekking tot minerale oliën die worden gebruikt voor pleziervaartuigen of plezierluchtvaartuigen dan wel worden gebruikt aan boord van schepen die kennelijk niet worden gebruikt om te varen.   
-3.  De vrijstelling als bedoeld in het eerste lid, onderdeel b, is niet van toepassing met betrekking tot minerale olie die in Nederland in de brandstoftanks van het luchtvaartuig, niet zijnde een militair luchtvaartuig, is afgeleverd en die wordt gebruikt voor de voortstuwing van dat luchtvaartuig gedurende een binnenlandse vlucht. Onder binnenlandse vlucht wordt verstaan een vlucht die begint en eindigt binnen Nederland zonder dat een luchthaven buiten Nederland wordt aangedaan.   
-4.  Voor de toepassing van deze wet en de daarop gebaseerde regelingen wordt verstaan onder een plezierluchtvaartuig: een luchtvaartuig dat wordt gebruikt door de eigenaar daarvan of door de natuurlijke of rechtspersoon die het gebruik daarvan geniet door huur of anderszins, voor andere dan commerciële doeleinden en met name voor andere doeleinden dan voor het vervoer van personen of goederen of voor het verrichten van diensten onder bezwarende titel, dan wel ten behoeve van overheidsinstanties.   
-5.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
+3.  Voor de toepassing van deze wet en de daarop gebaseerde regelingen wordt verstaan onder een plezierluchtvaartuig: een luchtvaartuig dat wordt gebruikt door de eigenaar daarvan of door de natuurlijke of rechtspersoon die het gebruik daarvan geniet door huur of anderszins, voor andere dan commerciële doeleinden en met name voor andere doeleinden dan voor het vervoer van personen of goederen of voor het verrichten van diensten onder bezwarende titel, dan wel ten behoeve van overheidsinstanties.   
+4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  66a  
 
@@ -1042,32 +1041,31 @@ f. zijn geleverd aan een in een andere lidstaat gevestigde persoon, niet zijnde 
 ### Artikel  71b  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md). Onder een autobus wordt in dit artikel en de daarop berustende bepalingen verstaan een autobus als bedoeld in [artikel 2, onderdeel e, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).   
-2.  De teruggaaf bedraagt € 47,96 per 1000 kg.   
+2.  De teruggaaf bedraagt € 48,78 per 1000 kg.   
 3.  De teruggaaf wordt verleend aan de vervoerder, bedoeld in [artikel 1, onderdeel k, van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) aan wie vergunning als bedoeld in [artikel 4, eerste lid](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), of [112 van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) is verleend en op wiens naam het voor de autobus opgegeven kenteken is gesteld in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de autobus.   
 4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.   
 
 ### Artikel  71c  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen.   
-2.  De teruggaaf bedraagt € 47,96 per 1 000 kg.   
+2.  De teruggaaf bedraagt € 48,78 per 1 000 kg.   
 3.  De teruggaaf wordt verleend aan degene op wiens naam het voor de vuilniswagen, kolkenzuiger of straatveegwagen opgegeven kenteken is gesteld in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de in het eerste lid bedoelde motorrijtuigen.   
 4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.   
 
 ### Artikel  71d  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor andere minerale oliën dan halfzware olie als bedoeld in GN-code 2710 19 21, indien die olie is afgeleverd in de brandstoftanks van en is gebruikt voor de voortstuwing van luchtvaartuigen, andere dan plezierluchtvaartuigen.   
-2.  In afwijking van het eerste lid wordt geen teruggaaf verleend voor minerale oliën die in Nederland in de brandstoftanks van luchtvaartuigen, niet zijnde militaire luchtvaartuigen, zijn afgeleverd en die worden gebruikt voor de voortstuwing van die luchtvaartuigen gedurende een binnenlandse vlucht. Onder binnenlandse vlucht wordt verstaan een vlucht die begint en eindigt binnen Nederland zonder dat een luchthaven buiten Nederland wordt aangedaan.   
-3.  De teruggaaf wordt verleend aan degene op wiens naam het luchtvaartuig is geregistreerd in het register voor burgerluchtvaartuigen, bedoeld in [artikel 3.3, eerste lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). Ingeval teruggaaf wordt verzocht voor een in het buitenland geregistreerd luchtvaartuig, wordt deze verleend aan de eigenaar van dit luchtvaartuig dan wel aan degene die daartoe door deze is gemachtigd.   
-4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf en kan in bij die regeling aangewezen gevallen een ander dan de in het derde lid bedoelde persoon worden aangewezen als degene aan wie de teruggaaf wordt verleend.   
+2.  De teruggaaf wordt verleend aan degene op wiens naam het luchtvaartuig is geregistreerd in het register voor burgerluchtvaartuigen, bedoeld in [artikel 3.3, eerste lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). Ingeval teruggaaf wordt verzocht voor een in het buitenland geregistreerd luchtvaartuig, wordt deze verleend aan de eigenaar van dit luchtvaartuig dan wel aan degene die daartoe door deze is gemachtigd.   
+3.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf en kan in bij die regeling aangewezen gevallen een ander dan de in het tweede lid bedoelde persoon worden aangewezen als degene aan wie de teruggaaf wordt verleend.   
 
 ### Artikel  71e  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor halfzware olie, gasolie en vloeibaar gemaakt petroleumgas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de [Wet op de omzetbelasting 1968 behorende Tabel 1](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien geen aansluiting aanwezig is voor aardgas.   
 2.  De teruggaaf, bedoeld in het eerste lid, bedraagt voor: 
 
-a. halfzware olie en gasolie, per 1000 L € 155,97;  
+a. halfzware olie en gasolie, per 1000 L € 158,62;  
 
-b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 132,69.     
+b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 134,95.     
 3.  De teruggaaf wordt verleend aan de tuinbouwer die de in het eerste lid bedoelde minerale oliën gebruikt voor het in het eerste lid bedoelde gebruik.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
@@ -1076,9 +1074,9 @@ b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 132,69.
 1.  Op verzoek wordt aan de verbruiker teruggaaf van accijns verleend met betrekking tot halfzware olie en gasolie, bedoeld in artikel 27, derde lid, en vloeibaar gemaakt petroleumgas, dat is bestemd voor ander gebruik dan voor het aandrijven van motorrijtuigen op de weg, of van pleziervaartuigen of voor de voortstuwing van luchtvaartuigen, mits de verbruiker de brandstoffen voor eigen verbruik heeft betrokken en voor zover de hoeveelheid die door de verbruiker is betrokken hoger is dan 159 000 L halfzware olie, 153 000 L gasolie onderscheidenlijk 119 000 kilogram vloeibaar gemaakt petroleumgas per kalenderjaar.   
 2.  De teruggaaf, bedoeld in het eerste lid, bedraagt: 
 
-a. voor halfzware olie en gasolie, per 1000 L € 33,10;  
+a. voor halfzware olie en gasolie, per 1000 L € 33,66;  
 
-b. voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 39,17.     
+b. voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 39,84.     
 3.  Bij algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
@@ -1087,9 +1085,9 @@ b. voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 39,17.
 1.  [Artikel 69 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) is van overeenkomstige toepassing met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, indien geen aansluiting aanwezig is voor aardgas.   
 2.  In afwijking van [artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedraagt de teruggaaf voor: 
 
-a. halfzware olie en gasolie, per 1000 L € 87,36;  
+a. halfzware olie en gasolie, per 1000 L € 88,85;  
 
-b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 77,52.     
+b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 78,84.     
 
 ### Artikel  71h  
 
@@ -1245,10 +1243,10 @@ b. de bestuurder van een ander vervoermiddel dan een schip gehouden dit terstond
 
 ### Artikel  84a  
 
-1.  In geval van verhoging van de accijns, bedoeld in artikel 27, eerste, tweede of derde lid, wordt ter zake van het bij het ingaan van die verhoging voorhanden hebben in een opslagplaats van de desbetreffende minerale oliën, accijns geheven, die per 1000 L bij een temperatuur van 15°C onderscheidenlijk per 1000 kg gelijk is aan de verhoging van het daarvoor in artikel 27, eerste, tweede of derde lid, vermelde bedrag. Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaats.   
+1.  In geval van verhoging van de accijns, bedoeld in artikel 27, eerste of derde lid, wordt ter zake van het bij het ingaan van die verhoging voorhanden hebben in een opslagplaats van de desbetreffende minerale oliën, accijns geheven, die per 1000 L bij een temperatuur van 15°C onderscheidenlijk per 1000 kg gelijk is aan de verhoging van het daarvoor in artikel 27, eerste of derde lid, vermelde bedrag. Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaats.   
 2.  Aan de accijns, bedoeld in het eerste lid, zijn niet onderworpen minerale oliën: 
 
-a. waarvoor het tijdstip waarop de accijns, bedoeld in artikel 27, eerste, tweede of derde lid, verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;  
+a. waarvoor het tijdstip waarop de accijns, bedoeld in artikel 27, eerste of derde lid, verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;  
 
 b. waarvoor een vrijstelling van accijns geldt.     
 3.  Onder opslagplaats wordt verstaan elk gebouw of terrein waar minerale oliën als bedoeld in het eerste lid voor commerciële doeleinden voorhanden zijn. Opslagplaatsen in gebruik bij een zelfde persoon worden te zamen als één opslagplaats beschouwd.   
@@ -1259,7 +1257,7 @@ b. waarvoor een vrijstelling van accijns geldt.
 
 ### Artikel  84b  
 
-1.  In geval van verlaging van de accijns, bedoeld in artikel 27, eerste, tweede of derde lid, wordt voor de desbetreffende minerale oliën die bij het ingaan van de verlaging voorhanden zijn in een opslagplaats, op verzoek teruggaaf van accijns verleend, die per 1000 L bij een temperatuur van 15° C onderscheidenlijk per 1000 kg gelijk is aan de verlaging van het daarvoor in artikel 27, eerste, tweede of derde lid, vermelde bedrag. Onder voorhanden zijn wordt mede begrepen vervoer naar een opslagplaats.   
+1.  In geval van verlaging van de accijns, bedoeld in artikel 27, eerste of derde lid, wordt voor de desbetreffende minerale oliën die bij het ingaan van de verlaging voorhanden zijn in een opslagplaats, op verzoek teruggaaf van accijns verleend, die per 1000 L bij een temperatuur van 15° C onderscheidenlijk per 1000 kg gelijk is aan de verlaging van het daarvoor in artikel 27, eerste of derde lid, vermelde bedrag. Onder voorhanden zijn wordt mede begrepen vervoer naar een opslagplaats.   
 2.  Artikel 84a, tweede en derde lid, zijn van overeenkomstige toepassing.   
 3.  De eigenaar van de in de opslagplaats voorhanden minerale oliën dient uiterlijk de vijfde werkdag na het ingaan van de verlaging het verzoek om teruggaaf te doen bij de inspecteur.   
 4.  De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.   
@@ -1350,8 +1348,8 @@ b. de accijnszegels zijn aangevraagd door de vergunninghouder van de accijnsgoed
 
 a. een lagere prijs dan die is vermeld op de accijnszegels;  
 
-b. een hogere prijs dan die is vermeld op de accijnszegels, tenzij tevoren het verschil in accijns is voldaan overeenkomstig bij algemene maatregel van bestuur te stellen voorwaarden.     
-3.  Onder het bepaalde in het tweede lid, onderdeel *a*, wordt mede begrepen het bij de verkoop aan anderen dan wederverkopers in enigerlei vorm verstrekken van geschenken, toegiften en bonnen alsmede het verlenen van medewerking aan handelingen die zijn gericht op de bevoordeling van derden.   
+b. een hogere prijs dan die is vermeld op de accijnszegels.     
+3.  Onder het bepaalde in het tweede lid, onderdeel a, wordt mede begrepen het bij de verkoop aan anderen dan wederverkopers in enigerlei vorm verstrekken van geschenken, toegiften en bonnen alsmede het verlenen van medewerking aan handelingen die zijn gericht op de bevoordeling van derden.   
 4.  Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden, afwijking van het eerste lid worden toegestaan.   
 
 ### Artikel  95a  

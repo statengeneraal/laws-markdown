@@ -146,7 +146,7 @@ d. het zich onttrekken aan de tenuitvoerlegging van een vrijheidsstraf of vrijhe
 
 e. het genieten van vakantie;  
 
-f. het bereiken of hebben bereikt van de eerste dag van de kalendermaand waarin de leeftijd van 65 jaar wordt bereikt.     
+f. het bereiken of hebben bereikt van de dag waarop de leeftijd van 65 jaar wordt bereikt.     
 2.  Het eerste lid, onderdeel a, is niet van toepassing ten aanzien van de persoon die gedurende het buitenlands verblijf meewerkt aan activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid, mits: 
 
 a. die activiteiten niet langer duren dan zes maanden;  
@@ -161,7 +161,7 @@ d. het bedrag dat het UWV is verschuldigd ter zake van die activiteiten niet hog
 5.  Bij ministeriële regeling kunnen regels worden gesteld voor gevallen waarin toepassing van het eerste lid, onderdeel a tot en met e, tot onbillijkheden zou kunnen leiden, op grond waarvan die onderdelen niet van toepassing zijn.   
 6.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot: 
 
-a. het begrip vakantie genieten, bedoeld in het eerste lid, onderdeel d;  
+a. het begrip vakantie genieten, bedoeld in het eerste lid, onderdeel e;  
 
 b. de vaststelling van de periode gedurende welke de aanvrager of uitkeringsgerechtigde in afwijking van het eerste lid, onderdeel d, met behoud van zijn recht op uitkering vakantie kan genieten.     
 
@@ -381,7 +381,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../..
 ####Invordering bestuurlijke boete
 
 1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), die de overtreder ontvangt.   
-2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaanden wet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of de [Wet werk en inkomen kunstenaars](../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   
+2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaanden wet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 4.  Zolang de overtreder zijn verplichting, bedoeld in artikel 21, vierde lid, niet of niet behoorlijk nakomt: 
 
@@ -438,13 +438,12 @@ a. aan de echtgenoot van de uitkeringsgerechtigde;
 b. bij ontstentenis van de echtgenoot, aan het minderjarige kind of de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond;  
 
 c. bij ontstentenis van de in de onderdelen a en b bedoelde personen, aan degenen met wie de overledene in gezinsverband leefde.     
-2.  Met de uitkeringsgerechtigde wordt voor de toepassing van dit artikel gelijkgesteld, de persoon wiens overlijden heeft plaatsgevonden in de maand waarin hij de leeftijd van 65 jaar zou hebben bereikt doch voor het bereiken van deze leeftijd is overleden, en die uitsluitend op grond van artikel 6, eerste lid, onderdeel e, geen recht op een uitkering had.   
-3.  De overlijdensuitkering is gelijk aan het bedrag van de uitkering over een periode van één kalendermaand, berekend naar de hoogte van die uitkering op de dag of laatstelijk voor de dag van overlijden van de persoon, bedoeld in artikel 3, eerste lid, en artikel 3a, eerste lid.   
-4.  In verband met het overlijden van de uitkeringsgerechtigde is artikel 6, eerste lid, onderdeel e, niet van toepassing.   
-5.  De overlijdensuitkering wordt ambtshalve of op verzoek aan de rechthebbende of rechthebbenden, genoemd in het eerste lid, door het UWV uitbetaald.   
-6.  Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan uitkering dat over na het overlijden gelegen dagen, reeds is uitbetaald.   
-7.  De overlijdensuitkering is niet vatbaar voor beslag.   
-8.  De overlijdensuitkering wordt in een bedrag ineens uitbetaald.   
+2.  De overlijdensuitkering is gelijk aan het bedrag van de uitkering over een periode van één kalendermaand, berekend naar de hoogte van die uitkering op de dag of laatstelijk voor de dag van overlijden van de persoon, bedoeld in artikel 3, eerste lid, en artikel 3a, eerste lid.   
+3.  In verband met het overlijden van de uitkeringsgerechtigde is artikel 6, eerste lid, onderdeel f, niet van toepassing.   
+4.  De overlijdensuitkering wordt ambtshalve of op verzoek aan de rechthebbende of rechthebbenden, genoemd in het eerste lid, door het UWV uitbetaald.   
+5.  Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan uitkering dat over na het overlijden gelegen dagen, reeds is uitbetaald.   
+6.  De overlijdensuitkering is niet vatbaar voor beslag.   
+7.  De overlijdensuitkering wordt in een bedrag ineens uitbetaald.   
 
 ### Artikel  30  
 
@@ -522,7 +521,7 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 
 c. de vordering van het UWV wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
 
-d. een naar het oordeel van het UWV betrouwbare schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
+d. een naar het oordeel van het UWV betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
 
 e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
@@ -541,7 +540,7 @@ c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste
 
 ####Preferentie
 
-Een vordering van het UWV als bedoeld in artikel 34 en 35a van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+Een vordering van het UWV als bedoeld in artikel 34 en 35a is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
 
 ### Artikel  36  
 

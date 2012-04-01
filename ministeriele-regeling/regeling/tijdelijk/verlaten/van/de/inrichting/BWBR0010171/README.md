@@ -49,7 +49,7 @@ o. regimesgebonden verlof: verlof als bedoeld in de artikelen 19 en 20 van deze 
 
 p. incidenteel verlof: verlof als bedoeld in de artikelen 21 tot en met 33 van deze regeling;  
 
-q. strafonderbreking: opschorting van de tenuitvoerlegging van de vrijheidsstraf als bedoeld in de artikelen 34 tot en met 40 van deze regeling;  
+q. strafonderbreking: opschorting van de tenuitvoerlegging van de vrijheidsstraf als bedoeld in de artikelen 34 tot en met 40a van deze regeling;  
 
 r. vervolgverlof: een verlof dat volgt op een zonder incidenten verlopen eerder algemeen verlof;  
 
@@ -112,7 +112,7 @@ l. een gedetineerde die ongewenst is verklaard, ten aanzien van wie een procedur
 
 ####Voorwaarden
 
-1.  Tenzij hij zijn verlofadres redelijkerwijs alleen over buitenlands grondgebied kan bereiken, is het de gedetineerde niet toegestaan tijdens het algemeen, regimesgebonden of incidenteel verlof Nederland te verlaten. In bijzondere omstandigheden kan de minister toestaan dat de gedetineerde aan wie strafonderbreking is verleend in het buitenland verblijft.   
+1.  Tenzij hij zijn verlofadres redelijkerwijs alleen over buitenlands grondgebied kan bereiken, is het de gedetineerde niet toegestaan tijdens het algemeen, regimesgebonden of incidenteel verlof Nederland te verlaten. In bijzondere omstandigheden en in geval van de toepassing van artikel 40a kan de minister toestaan dat de gedetineerde aan wie strafonderbreking is verleend in het buitenland verblijft.   
 2.  Bij de verlening van het verlof kunnen bijzondere voorwaarden worden gesteld, die het gedrag van de gedetineerde betreffen.   
 
 ### Artikel  6  
@@ -464,6 +464,18 @@ Strafonderbreking kan slechts worden verleend, gewijzigd en ingetrokken door de 
 ####Gewijzigde omstandigheden
 
 In verband met gewijzigde omstandigheden kan de minister een reeds verleende strafonderbreking of het daarvan nog resterende gedeelte intrekken, naar een ander tijdstip verplaatsen of er nadere voorwaarden aan stellen. Daartoe stelt de directeur de minister onverwijld van de gewijzigde omstandigheden in kennis.  
+
+### Hoofdstuk  5a  
+
+####Strafonderbreking vreemdelingen zonder rechtmatig verblijf in Nederland
+
+### Artikel  40a  
+
+1.  Aan de vreemdeling die geen rechtmatig verblijf heeft in Nederland in de zin van [artikel 8 van de Vreemdelingenwet 2000](../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), kan strafonderbreking voor onbepaalde tijd worden verleend.   
+2.  Indien een vrijheidsstraf van ten hoogste drie jaren is opgelegd, kan strafonderbreking worden verleend nadat tenminste de helft van de straf is ondergaan. Indien een vrijheidsstraf van meer dan drie jaren is opgelegd, kan strafonderbreking worden verleend nadat tenminste tweederde gedeelte van de straf is ondergaan.   
+3.  De strafonderbreking gaat in op het moment dat de vreemdeling Nederland daadwerkelijk heeft verlaten.   
+4.  Aan de strafonderbreking wordt de voorwaarde verbonden dat de vreemdeling niet naar Nederland terugkeert. Indien de vreemdeling de voorwaarde, bedoeld in het derde lid, niet naleeft, wordt de tenuitvoerlegging van de straf hervat.   
+5.  De artikelen 39 en 40 zijn van toepassing.   
 
 ### Hoofdstuk  6  
 

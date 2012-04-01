@@ -357,7 +357,7 @@ g. rechtens zijn vrijheid is ontnomen;
 
 h. zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel;  
 
-i. de eerste dag van de maand waarin hij 65 jaar wordt heeft bereikt;  
+i. de leeftijd van 65 jaar heeft bereikt;  
 
 j. op grond van [artikel 64 van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) een ontheffing wegens gemoedsbezwaren heeft of wiens werkloosheid binnen 3 maanden na de datum van intrekking van een zodanige ontheffing is aangevangen;  
 
@@ -598,7 +598,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../wet/a
 ### Artikel  27g  
 
 1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet arbeid en zorg](../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../wet/toeslagenwet/BWBR0004043/README.md), die de overtreder ontvangt.   
-2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of de [Wet werk en inkomen kunstenaars](../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   
+2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 4.  Zolang de overtreder zijn verplichting, bedoeld in artikel 27a, vierde lid, niet of niet behoorlijk nakomt: 
 
@@ -655,32 +655,8 @@ De uitkering die niet in ontvangst is genomen of is ingevorderd binnen drie maan
 
 ### Artikel  34  
 
-1.  Op de uitkering worden geheel in mindering gebracht: 
-
-a. inkomsten wegens loonderving;  
-
-b. inkomsten wegens ouderdomspensioen;  
-
-c. inkomsten wegens uitkering op grond van het bepaalde bij of krachtens dan wel op de voet van de Algemene pensioenwet politieke ambtsdragers.     
-2.  De inkomsten, bedoeld in het eerste lid, dienen betrekking te hebben op de periode waarover de werknemer recht heeft op uitkering op grond van deze wet.   
-3.  Indien de werknemer wegens eindiging van een dienstbetrekking ouderdomspensioen ontvangt, wordt, voor zoveel nodig in afwijking van het eerste lid, de uitkering per dag niet hoger gesteld dan op het verschil tussen de uitkering zoals die is of zou zijn vastgesteld op de eerste werkdag na die eindiging en het bedrag van het pensioen per dag dat op die dag is ontvangen.   
-4.  Voor de toepassing van het derde lid wordt het dagloon zoals dat is of zou zijn vastgesteld op de eerste dag waarop ouderdomspensioen wordt ontvangen, voor zoveel nodig herzien overeenkomstig artikel 46.   
-5.  In afwijking van het eerste lid worden de in onderdeel *a* van dat lid bedoelde inkomsten niet op de uitkering in mindering gebracht, indien zij: 
-
-a. verband houden met de eindiging van een dienstbetrekking;  
-
-b. ter zake van werkloosheid ten gevolge van een niet geëindigde dienstbetrekking worden ontvangen;  
-
-c. bestaan uit een uitkering of inkomensvoorziening op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) dan wel uit een uitkering die naar aard en strekking daarmee overeenkomt;  
-
-d. uit hoofde van een tijdens het recht op uitkering vervulde dienstbetrekking worden ontvangen.     
-6.  In afwijking van het eerste lid worden de in onderdeel *a* en *c* van dat lid bedoelde inkomsten niet op de uitkering in mindering gebracht, indien zij: 
-
-a. door de werknemer reeds voor het intreden van de werkloosheid werden ontvangen naast de inkomsten uit de dienstbetrekking waaruit hij werkloos is geworden;  
-
-b. door de werknemer na het intreden van de werkloosheid worden ontvangen en zij betrekking hebben op een andere dienstbetrekking dan de dienstbetrekking, waaruit de werkloosheid is ontstaan en die dienstbetrekkingen voor het intreden van de werkloosheid naast elkaar werden vervuld.     
-7.  In afwijking van het eerste lid worden de in onderdeel *b* van dat lid bedoelde inkomsten niet op de uitkering in mindering gebracht, indien zij door de werknemer na het intreden van de werkloosheid worden ontvangen en zij betrekking hebben op een andere dienstbetrekking dan de dienstbetrekking, waaruit de werkloosheid is ontstaan en die dienstbetrekkingen voor het intreden van de werkloosheid naast elkaar werden vervuld.   
-8.  Voor de toepassing van het eerste lid, onderdeel *b* wordt onder ouderdomspensioen verstaan een uit een vervulde dienstbetrekking voortvloeiende, in beginsel levenslange periodieke uitkering bij wijze van oudedagsvoorziening. Onze Minister is bevoegd uitkeringen gelijk te stellen met ouderdomspensioen.   
+1.  Op de uitkering wordt inkomen geheel in mindering gebracht.   
+2.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in het eerste lid wordt verstaan.   
 
 ### Artikel  35  
 
@@ -692,12 +668,12 @@ Indien de werknemer deelneemt aan een voor hem naar het oordeel van het UWV nood
 
 ### Artikel  35aa  
 
-1.  De uitkering wordt verminderd met 70% van de inkomsten uit arbeid indien: 
+1.  De uitkering wordt verminderd met 70% van het inkomen indien: 
 
 a. de werknemer toestemming heeft verkregen van het UWV om werkzaamheden als bedoeld in artikel 77a, eerste lid, te verrichten en het recht op uitkering op grond van het tweede lid van dat artikel blijft bestaan; of  
 
 b. artikel 20, zesde lid, onderdeel b, of negende lid, van toepassing is.     
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de inkomsten, bedoeld in het eerste lid, de berekening daarvan en de periode waaraan deze worden toegerekend.   
+2.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in het eerste lid wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 
 ### Artikel  35b  
 

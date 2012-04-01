@@ -507,7 +507,7 @@ b. als gewezen minister in de periode, waarover hem een uitkering is toegekend, 
 4.  De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in artikel 105, eerste lid, vanaf 1 juli 1999.   
 5.  Het recht op toeslag vervalt: 
 
-a. met ingang van de eerste dag van de maand waarin de nabestaande 65 jaar wordt;  
+a. met ingang van de dag waarop de nabestaande 65 jaar wordt;  
 
 b. met ingang van de maand volgend op die waarin de nabestaande hertrouwt, als partner wordt aangemeld of als samenwonend als bedoeld in de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) wordt aangemerkt.     
 
@@ -528,7 +528,7 @@ b. bij iedere nadere vaststelling van de verminderdering van een uitkering ingev
 2.  De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van het verschil tussen 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) zonder vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 procent van het in de eerste volzin eerstbedoelde bedrag. De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de vanaf die datum geldende bedragen krachtens de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en wordt vervolgens nader vastgesteld met ingang van 1 januari en 1 juli aan de hand van de ontwikkeling van die bedragen.   
 3.  Het recht op de toeslag vervalt: 
 
-a. met ingang van de eerste dag van de maand waarin de nabestaande de 65-jarige leeftijd bereikt;  
+a. met ingang van de dag waarop de nabestaande de 65-jarige leeftijd bereikt;  
 
 b. met ingang van de maand volgend op die waarin de nabestaande trouwt of partij is bij een aanmelding;  
 
@@ -594,7 +594,7 @@ b. voor de wees bedoeld in artikel 25, eerste lid, onder b, 0,75 percent van het
 
 ####Toeslag op nabestaandenpensioen
 
-1.  De nabestaande die de leeftijd van 65 jaar nog niet heeft bereikt, heeft tot de eerste dag van de maand waarin hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.   
+1.  De nabestaande die de leeftijd van 65 jaar nog niet heeft bereikt, heeft tot de dag waarop hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.   
 2.  Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel hoofdstuk 17 toepassing heeft gevonden.   
 3.  Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen wegens hertrouwen of een aanmelding opnieuw is vastgesteld.   
 4.  De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in artikel 105, derde lid, overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985  € 28 678,91 bedroeg.   
@@ -2239,7 +2239,7 @@ b. als gewezen lid van gedeputeerde staten in de periode, waarover hem een uitke
 4.  De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in artikel 157, eerste lid, vanaf 1 juli 1999.   
 5.  Het recht op toeslag vervalt: 
 
-a. met ingang van de eerste dag van de maand waarin de nabestaande 65 jaar wordt;  
+a. met ingang van de dag waarop de nabestaande 65 jaar wordt;  
 
 b. met ingang van de maand volgend op die waarin de nabestaande hertrouwt, als partner wordt aangemeld of als samenwonend als bedoeld in de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) wordt aangemerkt.     
 
@@ -2260,7 +2260,7 @@ b. bij iedere nadere vaststelling van de verminderdering van een uitkering ingev
 2.  De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van het verschil tussen 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) zonder vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 procent van het in de eerste volzin eerstbedoelde bedrag. De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de vanaf die datum geldende bedragen krachtens de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en wordt vervolgens nader vastgesteld met ingang van 1 januari en 1 juli aan de hand van de ontwikkeling van die bedragen.   
 3.  Het recht op de toeslag vervalt: 
 
-a. met ingang van de eerste dag van de maand waarin de nabestaande de 65-jarige leeftijd bereikt;  
+a. met ingang van de dag waarop de nabestaande de 65-jarige leeftijd bereikt;  
 
 b. met ingang van de maand volgend op die waarin de nabestaande trouwt of partij is bij een aanmelding;  
 
@@ -2326,7 +2326,7 @@ b. voor de wees bedoeld in artikel 148, eerste lid, onder b, 0,75 percent van he
 
 ####Toeslag op nabestaandenpensioen
 
-1.  De nabestaande die de leeftijd van 65 jaar nog niet heeft bereikt, heeft tot de eerste dag van de maand waarin hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.   
+1.  De nabestaande die de leeftijd van 65 jaar nog niet heeft bereikt, heeft tot de dag waarop hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.   
 2.  Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel hoofdstuk 25 toepassing heeft gevonden.   
 3.  Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen wegens hertrouwen dan wel een aanmelding opnieuw is vastgesteld.   
 4.  De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in artikel 157, derde lid, overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985  € 28 678,91 bedroeg.   

@@ -30,52 +30,51 @@ Verkeer
 Dit basisdelict ziet op het verlaten van de plaats van een ongeval waarbij aan een ander alleen materiële schade is toegebracht. 
 ###Toepasselijk kader
 
-Commuun en verkeer 
+[Aanwijzing Kader voor strafvordering](../../../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md)  
 ###Basispunten
 
 10 punten 
+###Strafbeschikking
+
+Op projectbasis. Alleen in kale [art. 7 WVW94](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) zaken in arrondissement Breda. 
 ###Basisfactoren
 
-Omvang van de ongevalsschade  
+Omvang van de ongevalsschade 
 
-| --- | --- |
-|:---|:---|
-| – Geen andere schade dan geringe materiële schade, zoals een deukje of krasje,of geringe schade aan wegmeubilair of beplanting.  | 0 pt  |
-| – Andere dan hierboven bedoelde schade  | 20 pt  |
+– Geen andere schade dan geringe materiële schade, zoals een deukje of krasje, of geringe schade aan wegmeubilair of beplanting. 0 pt  
 
+– Andere dan hierboven bedoelde schade 20 pt   
 ###Delictspecifieke factoren
 
 Geen 
 ###Wettelijke factoren
 
-Medeplichtigheid  
+Medeplichtigheid 
 
-| --- | --- |
-|:---|:---|
-| – Dader  | +0 %  |
-| – Medeplichtige  | -33 %  |
+– Dader +0 %  
 
+– Medeplichtige –33 %   
 ###Recidiveregeling
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| – Geen recidive  | +0 %  |
-| – 1 maal  | +50 %  |
-| – Meermalen  | +100 %  +dagvaarden  |
+– Geen recidive +0 %  
 
+– 1 maal +10 %  
+
+– Meermalen +20 % (DV)   (DV) + dagvaarden 
 ###Draagkracht
+
+Geen 
+###Maatwerk
 
 Geen 
 ###Speciale regelingen
 
-– Schaderegeling  
-
-– OBM regeling   
+– OBM regeling verlaten plaats ongeval   
 ###Bijzonderheden
 
-De schaderegeling is niet van toepassing, aangezien opgetreden schade geen direct gevolg is van het gepleegde delict. Indien de schade ten gevolge van het ongeval is vergoed dient echter ook hier de kortingsregeling te worden toegepast.    
+Geen    
 
 ####Basisdelict
 
@@ -127,12 +126,10 @@ Mate van recidive (5 jaar)
 Geen 
 ###Speciale regelingen
 
-– Schaderegeling  
-
-– OBM regeling   
+– OBM regeling verlaten plaats ongeval   
 ###Bijzonderheden
 
-De schaderegeling is niet van toepassing, aangezien opgetreden schade geen direct gevolg is van het gepleegde delict. Indien de schade ten gevolge van het ongeval is vergoed dient echter ook hier de kortingsregeling te worden toegepast.    
+Geen    
 
 ####Basisdelict
 
@@ -191,12 +188,10 @@ Mate van recidive (5 jaar)
 Geen 
 ###Speciale regelingen
 
-– Schaderegeling  
-
-– OBM regeling   
+– OBM regeling verlaten plaats ongeval   
 ###Bijzonderheden
 
-De schaderegeling is niet van toepassing, aangezien opgetreden schade geen direct gevolg is van het gepleegde delict. Indien de schade ten gevolge van het ongeval is vergoed dient echter ook hier de kortingsregeling te worden toegepast.    
+Geen    
 
 ####Baisdelict
 
@@ -247,7 +242,7 @@ Mate van recidive (5 jaar)
 Geen 
 ###Speciale regelingen
 
-– OBM regeling 
+– OBM regeling verlaten plaats ongeval   
 ###Bijzonderheden
 
 Geen     

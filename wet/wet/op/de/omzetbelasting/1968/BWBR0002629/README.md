@@ -1063,6 +1063,63 @@ c. een verklaring dat de ondernemer niet reeds in de Gemeenschap is geïdentific
 
 De belasting, verschuldigd ter zake van de invoer en de levering aan veilingen van vis, schaal-, schelp- en weekdieren die worden aangebracht per schip dat terugkeert van de visvangst, of per ventjager, bedraagt nihil.  
 
+### Afdeling  9  
+
+####Regeling voor vis
+
+### Artikel  28y  
+
+De belasting, verschuldigd ter zake van de invoer en de levering aan veilingen van vis, schaal-, schelp- en weekdieren die worden aangebracht per schip dat terugkeert van de visvangst, of per ventjager, bedraagt nihil.  
+
+### Afdeling  10  
+
+####Regeling voor reisbureaus
+
+### Artikel  28z  
+
+1.  Deze afdeling en de daarop berustende bepalingen zijn van toepassing op de handelingen van reisbureaus, voor zover de reisbureaus op eigen naam tegenover de reiziger handelen en zij voor de totstandbrenging van de reizen gebruikmaken van de leveringen van goederen en diensten van andere ondernemers.   
+2.  Voor de toepassing van deze afdeling en de daarop berustende bepalingen worden reisorganisatoren (touroperators) als reisbureaus beschouwd.   
+
+### Artikel  28za  
+
+De onder de voorwaarden van artikel 28z verrichte handelingen van het reisbureau met het oog op de totstandkoming van de reis, worden beschouwd als één enkele dienst die het reisbureau voor de reiziger verricht (reisdienst). De plaats van deze dienst is de plaats waar het reisbureau de zetel van zijn bedrijfsuitoefening of een vaste inrichting heeft gevestigd van waaruit het de dienst heeft verricht.  
+
+### Artikel  28zb  
+
+1.  Ter zake van reisdiensten wordt de belasting naar keuze van het reisbureau berekend over: 
+
+a. de winstmarge per tijdvak van aangifte, de omzetbelasting niet daaronder begrepen, of  
+
+b. de winstmarge per reis, de omzetbelasting niet daaronder begrepen.     
+2.  De winstmarge per tijdvak van aangifte is het verschil tussen de som van de vergoedingen, de omzetbelasting daaronder begrepen, in dat tijdvak ter zake van reisdiensten en de som van de in dat tijdvak werkelijk door het reisbureau gedragen kosten voor goederen en diensten van andere ondernemers, mits deze goederen en diensten de reiziger rechtstreeks ten goede komen.   
+3.  De winstmarge per reis is het verschil tussen de vergoeding, de omzetbelasting daaronder begrepen, ter zake van de reisdienst en de werkelijk door het reisbureau gedragen kosten voor goederen en diensten van andere ondernemers, mits deze goederen en diensten de reiziger rechtstreeks ten goede komen.   
+4.  Bij ministeriële regeling kunnen nadere regels ten aanzien van de in het eerste lid bedoelde keuze en overgangsregels ten aanzien van het wijzigen van deze keuze worden gesteld.   
+
+### Artikel  28zc  
+
+Indien de handelingen waarvoor het reisbureau een beroep doet op andere ondernemers, door laatstgenoemden buiten de Unie worden verricht, wordt de dienst van het reisbureau gelijkgesteld met de in de bij deze wet behorende tabel II, onderdeel b, post 4, genoemde handeling van een tussenpersoon. Indien de in de eerste volzin bedoelde handelingen zowel binnen als buiten de Unie worden verricht, mag alleen het gedeelte van de dienst van het reisbureau betreffende de buiten de Unie verrichte handelingen als zodanig gelijkgesteld worden beschouwd.  
+
+### Artikel  28zd  
+
+1.  Ingeval in een tijdvak van aangifte in een kalenderjaar, het laatste tijdvak van aangifte in een kalenderjaar uitgezonderd, de winstmarge per tijdvak van aangifte, de omzetbelasting niet daaronder begrepen, (tijdvakwinstmarge) negatief is, wordt deze negatieve tijdvakwinstmarge verrekend met een positieve tijdvakwinstmarge, of opgeteld bij een negatieve tijdvakwinstmarge, die in het volgende belastingtijdvak wordt gerealiseerd.   
+2.  Na afloop van een kalenderjaar wordt voor dat kalenderjaar de tijdvakwinstmarge op jaarbasis vastgesteld (jaarsaldo). Ingeval het jaarsaldo negatief is, wordt dit negatieve jaarsaldo opgeteld bij de ten behoeve van de vaststelling van het jaarsaldo van het daaropvolgende kalenderjaar op jaarbasis herrekende som. Ingeval de belasting over dat aldus berekende jaarsaldo minder bedraagt dan het bedrag aan belasting dat over het kalenderjaar is of moet worden voldaan ter zake van reisdiensten wordt het verschil op verzoek aan het reisbureau teruggegeven.   
+3.  Het vaststellen van het bedrag van de teruggaaf, bedoeld in het tweede lid, geschiedt bij voor bezwaar vatbare beschikking. Het verzoek wordt gedaan binnen zes maanden na afloop van het kalenderjaar waarop het verzoek betrekking heeft.   
+
+### Artikel  28ze  
+
+De belasting die aan het reisbureau in rekening wordt gebracht door andere ondernemers voor de in artikel 28z, eerste lid, bedoelde handelingen welke de reiziger rechtstreeks ten goede komen, komt niet voor aftrek of teruggaaf in aanmerking.  
+
+### Artikel  28zf  
+
+1.  Ter zake van de reisdiensten wordt voor de toepassing van artikel 35a, eerste lid, onderdeel h, de omzetbelasting begrepen onder de vergoeding.   
+2.  Het is het reisbureau niet toegestaan om de belasting afzonderlijk te vermelden op de ter zake van de reisdienst uit te reiken factuur.   
+3.  Artikel 35a, eerste lid, onderdeel j, is niet van toepassing ter zake van reisdiensten.   
+4.  Op de ter zake van reisdiensten door het reisbureau uit te reiken factuur wordt vermeld dat de reisbureauregeling van toepassing is.   
+
+### Artikel  28zg  
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de toepassing van deze afdeling.  
+
 ### Hoofdstuk  VI  
 
 ####Diverse bepalingen

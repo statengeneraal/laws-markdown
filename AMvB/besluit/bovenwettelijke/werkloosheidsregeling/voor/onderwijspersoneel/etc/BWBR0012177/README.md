@@ -173,7 +173,7 @@ d. 48 jaar oud is: 5 jaar
 e. 49 jaar of ouder is: 5,5 jaar     
 3.  De duur van de aansluitende uitkering is voor de betrokkene die op de eerste werkloosheidsdag een diensttijd heeft van ten minste 12 jaar en 
 
-a. 53 jaar of ouder is: tot de eerste dag van de maand waarin hij 65 jaar wordt;  
+a. 53 jaar of ouder is: tot de dag waarop hij 65 jaar wordt;  
 
 b. 52 jaar is: tot de eerste dag van de maand waarin hij 64 jaar wordt;  
 
@@ -325,7 +325,7 @@ c. wordt het loon in de nieuwe dienstbetrekking overigens op dezelfde wijze vast
 
 a. in de eerste vijf jaar na het aanvaarden van een nieuwe dienstbetrekking: de ongemaximeerde berekeningsgrondslag;  
 
-b. na die eerste vijf jaar en doorlopend tot de eerste dag van de maand waarin de betrokkene 65 jaar wordt: 90% van de ongemaximeerde berekeningsgrondslag, herleid tot het bedrag dat geldt over de berekeningsperiode.     
+b. na die eerste vijf jaar en doorlopend tot de dag waarop de betrokkene 65 jaar wordt: 90% van de ongemaximeerde berekeningsgrondslag, herleid tot het bedrag dat geldt over de berekeningsperiode.     
 5.  Het vierde lid vindt geen toepassing indien het negende lid van artikel 15 tot een voor de betrokkene gunstiger uitkomst leidt.   
 6.  Op de betrokkene, bedoeld in het eerste en tweede lid, voor zover het betreft de betrokkene die als gevolg van de beëindiging van de bekostiging van het onderwijs in allochtone levende talen per 1 augustus 2004 werkloos dreigt te worden dan wel werkloos is geworden, is het negende lid van artikel 15 van overeenkomstige toepassing, met dien verstande dat in onderdeel b van dat artikellid voor «90%» wordt gelezen: 95%.   
 7.  In afwijking van het bepaalde in het veertiende lid onder b van artikel 15 wordt er van uitgegaan dat het loon voor de betrokkene bedoeld in het eerste en het tweede lid in een nieuwe dienstbetrekking niet lager is dan het maximum van schaal 4 van het [Kaderbesluit rechtspositie PO](../../../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md).   

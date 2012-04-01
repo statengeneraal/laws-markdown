@@ -123,27 +123,27 @@ c. de alleenstaande werkloze werknemer en de thuisinwonende werkloze werknemer z
 2.  Het recht op uitkering komt de werkloze werknemer en de echtgenoot gezamenlijk toe. De uitkering wordt aan de werkloze werknemer en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
 3.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat: 
 
-a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 659,93;  
+a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 668,21;  
 
 b. deze voor de werkloze werknemer en de echtgenoot, waarvan een of elk van beiden jonger dan 21 jaar is, de som bedraagt van de grondslagen die voor elk van hen als een alleenstaande werknemer of een thuisinwonende werkloze werknemer zou gelden doch ten hoogste de grondslag als bedoeld in onderdeel *a*.     
 4.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze: 
 
-a. voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen netto gelijk is aan € 1.187,87;  
+a. voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen netto gelijk is aan € 1.202,78;  
 
-b. voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen netto gelijk is aan € 923,90;  
+b. voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen netto gelijk is aan € 935,49;  
 
-c. voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen netto gelijk is aan € 761,50;  
+c. voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen netto gelijk is aan € 770,04;  
 
-d. voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen netto gelijk is aan € 667,43.     
+d. voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen netto gelijk is aan € 676,10.     
 5.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze: 
 
-a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 1.156,11;  
+a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 1.165,05;  
 
-b. voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 866,79;  
+b. voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 873,02;  
 
-c. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen netto gelijk is aan € 642,28;  
+c. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen netto gelijk is aan € 647,25;  
 
-d. voor de thuisinwonende werkloze werknemer zonder kinderen netto gelijk is aan € 352,96.     
+d. voor de thuisinwonende werkloze werknemer zonder kinderen netto gelijk is aan € 355,22.     
 6.  Indien dat lager is dan de grondslag, vastgesteld op grond van het derde tot en met vijfde lid, bedraagt de grondslag, bedoeld in het eerste lid, 10/7 x A + B, waarbij: A staat voor de uitkeringen ontvangen door de werkloze werknemer op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in de kalendermaand voorafgaande aan de dag waarop de geldende uitkeringsduur op grond van de Werkloosheidswet of de geldende uitkeringsduur van de loongerelateerde werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is verstreken; B staat voor het loon uit dienstbetrekking dat de werkloze werknemer in die kalendermaand verdiende, waarbij A wordt herzien op de wijze als bedoeld in [artikel 14 van de Wet minimumloon en minimumvakantiebijslag](../../../../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
 7.  Voor de toepassing van het zesde lid wordt onder uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) tevens verstaan inkomen dat op grond van [artikel 34 van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) geheel in mindering is gebracht op de uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
 8.  Voor de toepassing van het zesde lid worden de uitkeringen op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) vermenigvuldigd met 21,75 en vervolgens gedeeld door het aantal werkdagen in die betreffende kalendermaand.   
@@ -185,9 +185,17 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de werkloze wer
 a. voor de werkloze werknemer en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
 b. voor de alleenstaande en de thuiswonende werkloze werknemer: zijn inkomen uit arbeid of overig inkomen.     
-2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 juli 2011: € 295,80. per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 januari 2012: € 295,06. per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 3.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
-4.  Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in [artikel 31, tweede lid, onderdeel o, van de Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) genoemde bedrag daartoe aanleiding geeft.   
+4.  Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in [artikel 31, tweede lid, onderdeel n, van de Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) genoemde bedrag daartoe aanleiding geeft.   
+5.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 januari 2012: € 201,03 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+
+a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
+
+b. de periode van zes aaneengesloten maanden, bedoeld in het tweede lid, is verstreken, en  
+
+c. dit volgens het college bijdraagt aan zijn arbeidsinschakeling.     
+6.  Onze Minister herziet het bedrag, genoemd in het vijfde lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in [artikel 31, tweede lid, onderdeel r, van de Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) genoemde bedrag daartoe aanleiding geeft.   
 
 ### §  2  
 
@@ -305,7 +313,7 @@ d. de belanghebbende door eigen toedoen geen algemeen geaccepteerde arbeid verkr
 
 ### Artikel  22  
 
-De uitkering wordt betaald tot de eerste dag van de maand, waarin de werkloze werknemer de leeftijd van 65 jaar bereikt.  
+De uitkering wordt betaald tot de dag waarop de werkloze werknemer de leeftijd van 65 jaar bereikt.  
 
 ### Artikel  23  
 
@@ -346,7 +354,7 @@ De persoon van wie wordt teruggevorderd is verplicht desgevraagd aan het college
 ### Artikel  28  
 
 1.  Het college kan de onverschuldigd betaalde uitkering, bedoeld in artikel 25, eerste en tweede lid, invorderen bij dwangbevel.   
-2.  Indien degene van wie de uitkering wordt teruggevorderd algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), het [Besluit bijstandsverlening zelfstandigen 2004](../../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) of de [Wet werk en inkomen kunstenaars](../../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) ontvangt, is het college bevoegd tot verrekening van die uitkering met die algemene bijstand of uitkering.   
+2.  Indien degene van wie de uitkering wordt teruggevorderd algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of het [Besluit bijstandverlening zelfstandigen 2004](../../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) ontvangt, is het college bevoegd tot verrekening van die uitkering met die algemene bijstand of uitkering.   
 3.  Indien degene van wie de uitkering wordt teruggevorderd een uitkering of algemene bijstand ontvangt van een andere gemeente dan de gemeente waarvan het college de uitkering terugvordert, dan wel een uitkering of inkomensvoorziening ontvangt op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Toeslagenwet](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), de [Algemene Ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of de [Algemene nabestaandenwet](../../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), betaalt dat college, het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Sociale verzekeringsbank het bedrag van de terugvordering, zonder dat daarvoor een machtiging nodig is van de belanghebbende, op verzoek aan het college, dat besluit tot terugvordering.   
 4.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het college. Indien het college gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene van wie uitkering wordt teruggevorderd.   
 5.  Zolang de belanghebbende de verplichting, bedoeld in artikel 27, niet of niet behoorlijk nakomt: 
@@ -387,7 +395,9 @@ a. het ondersteunen bij arbeidsinschakeling en het aanbieden van voorzieningen g
 
 b. de weigering en verlaging, bedoeld in artikel 20;  
 
-c. de bestrijding van het ten onrechte ontvangen van een uitkering alsmede van misbruik en oneigenlijk gebruik van de wet in het kader van het financiële beheer.     
+c. de bestrijding van het ten onrechte ontvangen van een uitkering alsmede van misbruik en oneigenlijk gebruik van de wet in het kader van het financiële beheer;  
+
+d. het verlagen van de uitkering, bedoeld in artikel 38, twaalfde lid.     
 2.  De regels, bedoeld in het eerste lid, hebben in ieder geval betrekking op de taken vermeld in artikel 34, eerste lid, onderdeel a.   
 
 ### Artikel  36  
@@ -407,7 +417,9 @@ c. algemeen geaccepteerde arbeid te aanvaarden;
 
 d. na te laten hetgeen inschakeling in de arbeid belemmert;  
 
-e. gebruik te maken van een door het college aangeboden voorziening, waaronder begrepen sociale activering, gericht op arbeidsinschakeling, alsmede mee te werken aan een onderzoek naar zijn mogelijkheden tot arbeidsinschakeling.     
+e. gebruik te maken van een door het college aangeboden voorziening, waaronder begrepen sociale activering, gericht op arbeidsinschakeling, alsmede mee te werken aan een onderzoek naar zijn mogelijkheden tot arbeidsinschakeling;  
+
+f. naar vermogen door het college opgedragen onbeloonde maatschappelijk nuttige werkzaamheden te verrichten die worden verricht naast of in aanvulling op reguliere arbeid en die niet leiden tot verdringing op de arbeidsmarkt.     
 2.  Indien uitkering wordt verleend aan echtgenoten gelden de verplichtingen bedoeld in het eerste lid voor ieder van hen.   
 
 ### Artikel  37a  
@@ -421,8 +433,8 @@ e. gebruik te maken van een door het college aangeboden voorziening, waaronder b
 1.  Onverminderd artikel 37a, eerste lid, verleent het college aan een alleenstaande ouder die de volledige zorg heeft voor een tot zijn last komend kind tot vijf jaar op diens verzoek ontheffing van de verplichtingen, bedoeld in artikel 37, eerste lid, onderdelen a tot en met d.   
 2.  De ontheffing, bedoeld in het eerste lid, wordt eenmalig verleend.   
 3.  De ontheffing, bedoeld in het eerste lid, wordt niet verleend voor zover uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat deze de verplichtingen, bedoeld in artikel 37, eerste lid, onderdeel e, niet wil nakomen.   
-4.  De ontheffing, bedoeld in het eerste lid, geldt zolang het jongste kind van de alleenstaande ouder de leeftijd van vijf jaar nog niet heeft bereikt. Onverminderd de eerste zin geldt de ontheffing gedurende ten hoogste zes jaar. Bij verhuizing naar een andere woonplaats wordt op deze periode in mindering gebracht de periode, dan wel perioden, waarin de alleenstaande ouder in de voorgaande woonplaats, dan wel de voorgaande woonplaatsen, gebruik heeft gemaakt van de ontheffing bedoeld in het eerste lid.   
-5.  De ontheffing, bedoeld in het eerste lid, wordt, indien de volledige duur van zes jaar nog niet volledig is benut: 
+4.  De ontheffing, bedoeld in het eerste lid, geldt zolang het jongste kind van de alleenstaande ouder de leeftijd van vijf jaar nog niet heeft bereikt. Onverminderd de eerste zin geldt de ontheffing gedurende ten hoogste vijf jaar. Bij verhuizing naar een andere woonplaats wordt op deze periode in mindering gebracht de periode, dan wel perioden, waarin de alleenstaande ouder in de voorgaande woonplaats, dan wel de voorgaande woonplaatsen, gebruik heeft gemaakt van de ontheffing bedoeld in het eerste lid.   
+5.  De ontheffing, bedoeld in het eerste lid, wordt, indien de volledige duur van vijf jaar nog niet volledig is benut: 
 
 a. van rechtswege opgeschort, met ingang van de datum waarop het jongste kind de leeftijd van vijf jaar bereikt;  
 
@@ -430,11 +442,14 @@ b. van rechtswege opgeschort indien niet langer recht op bijstand bestaat;
 
 c. door het college opgeschort op een daartoe strekkend verzoek van de alleenstaande ouder aan wie de ontheffing, bedoeld in het eerste lid, is verleend; of  
 
-d. door het college opgeschort indien uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat hij zijn verplichtingen, bedoeld in artikel 37, eerste lid, onderdeel e, niet wil nakomen.     
-6.  Op een daartoe strekkend verzoek van de alleenstaande ouder met een kind tot vijf jaar beëindigt het college een opschorting als bedoeld in het vijfde lid indien de daarin genoemde omstandigheden niet langer van toepassing zijn.   
+d. door het college ingetrokken indien uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat hij zijn verplichtingen, bedoeld in artikel 37, eerste lid, onderdeel e, niet wil nakomen.     
+6.  Op een daartoe strekkend verzoek van de alleenstaande ouder met een kind tot vijf jaar beëindigt het college een opschorting als bedoeld in het vijfde lid, onderdelen a tot en met c, indien de daarin genoemde omstandigheden niet langer van toepassing zijn.   
 7.  Het college stelt binnen zes maanden na ontvangst van het verzoek, bedoeld in het eerste lid, een plan van aanpak op voor de invulling van de voorziening, bedoeld in artikel 37, eerste lid, onderdeel e, voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid.   
-8.  Het college vult de voorziening, bedoeld in artikel 37, eerste lid, onderdeel e, voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid en die niet beschikt over een startkwalificatie ten minste in met scholing of opleiding die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van betrokkene te boven gaat.   
-9.  Op verzoek van de alleenstaande ouder die beschikt over een startkwalificatie en aan wie een ontheffing is verleend als bedoeld in het eerste lid, vult het college de voorziening in met een opleiding, als bedoeld in [artikel 7.2.2., tweede lid, onder a, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de alleenstaande ouder te boven gaat.   
+8.  Het college verricht na het opstellen van het plan van aanpak, bedoeld in het zevende lid, iedere zes maanden een heronderzoek naar de in het van toepassing zijnde plan van aanpak opgenomen voorziening, bedoeld in artikel 37, eerste lid, onderdeel e. Het heronderzoek strekt zich mede uit tot de naleving van de in het van toepassing zijnde plan van aanpak opgenomen voorziening. Het college beoordeelt tevens bij het verrichten van het heronderzoek of er aanleiding bestaat de voorziening te wijzigen.   
+9.  Indien het heronderzoek, bedoeld in het achtste lid, daartoe aanleiding geeft stelt het college een gewijzigd plan van aanpak op.   
+10.  Het college vult de voorziening, bedoeld in artikel 37, eerste lid, onderdeel e, voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid en die niet beschikt over een startkwalificatie ten minste in met scholing of opleiding die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van betrokkene te boven gaat.   
+11.  Op verzoek van de alleenstaande ouder die beschikt over een startkwalificatie en aan wie een ontheffing is verleend als bedoeld in het eerste lid, vult het college de voorziening in met een opleiding, als bedoeld in [artikel 7.2.2., tweede lid, onder a, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de alleenstaande ouder te boven gaat.   
+12.  Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in artikel 35, eerste lid, onderdeel d, indien het college de ontheffing, bedoeld in het eerste lid, heeft ingetrokken op grond van het vijfde lid, onderdeel d. Van een verlaging wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.   
 
 ### Artikel  38a  
 
@@ -544,7 +559,7 @@ a. het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsba
 
 b. de Belastingdienst voor de heffing of invordering van enige rijksbelasting, de premies voor de sociale verzekeringen, bedoeld in [artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), of inkomensafhankelijke bijdragen als bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de Belastingdienst/Toeslagen voor de uitvoering van inkomensafhankelijke regelingen als bedoeld in de [Algemene wet inkomensafhankelijke regelingen](../../../../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);  
 
-c. het college van andere gemeenten voor de uitvoering van deze wet, de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de [Wet werk en inkomen kunstenaars](../../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md);  
+c. het college van andere gemeenten voor de uitvoering van deze wet, de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
 
 d. het College zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), de zorgverzekeraars in de zin van de [artikelen 1, onderdeel b, van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), voor de uitvoering van de [Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
@@ -683,6 +698,10 @@ De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassi
 
 1.  De artikelen 8 en 20, eerste lid, en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van de [Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](../../../../../../../../../../wet/wet/harmonisatie/en/vereenvoudiging/socialezekerheidswetgeving/BWBR0029334/README.md), blijven van toepassing op de persoon op wie een op deze artikelen berustende bepaling werd toegepast op de dag voor inwerkingtreding van die wet, voor zolang de toepassing duurt, doch ten hoogste gedurende twee jaar na de dag waarop die wet in werking is getreden.   
 2.  Dit artikel vervalt twee jaar na het tijdstip van inwerkingtreding.   
+
+### Artikel  63g  
+
+De artikelen 4a, eerste lid, onderdeel c, en 38, zoals deze luidden op de dag voor de inwerkingtreding van de [Wet tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](../../../../../../../../../../wet/wijzigingswet/wet/werk/en/bijstand/enz./(bevordering/deelname/aan/etc/BWBR0030997/README.md), blijven van toepassing op de alleenstaande ouder die op de dag voor inwerkingtreding van de Wet tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden een ontheffing heeft op grond van artikel 38, gedurende de duur van de ontheffing, doch ten hoogste gedurende zes maanden na inwerkingtreding van die wet.  
 
 ### Hoofdstuk  VIII  
 

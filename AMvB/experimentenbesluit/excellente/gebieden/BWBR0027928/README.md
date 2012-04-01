@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister voor Wonen, Wijken en Integratie van 12 maart 2010, nr. BJZ2010006052, Directie Bestuurlijke en Juridische Zaken;
 
-Gelet op [artikel 120a, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md);
+Gelet op artikel 120a, eerste lid, van de Woningwet;
 
 De Raad van State gehoord (advies van 28 april 2010, nr. W08.10.0084/IV);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder energieprestatiecoëfficiënt: energieprestatiecoëfficiënt als bedoeld in [artikel 1.1, tweede lid, van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md).  
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder energieprestatiecoëfficiënt: energieprestatiecoëfficiënt als bedoeld in artikel 5.2, eerste lid, van het Bouwbesluit 2012.  
 
 ### Hoofdstuk  2  
 
@@ -32,9 +32,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder energiepr
 
 ### Artikel  3  
 
-In een excellent gebied als bedoeld in artikel 2 gelden in afwijking van tabel 5.11 bij [artikel 5.12 van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) als grenswaarden voor de energieprestatiecoëfficiënt de in de aanwijzing, bedoeld in artikel 2, genoemde grenswaarden, welke niet hoger zijn dan, voor bouw die start: 
+In een excellent gebied als bedoeld in artikel 2 gelden in afwijking van tabel 5.1 bij artikel 5.2 van het Bouwbesluit 2012 als grenswaarden voor de energieprestatiecoëfficiënt de in de aanwijzing, bedoeld in artikel 2, genoemde grenswaarden, welke niet hoger zijn dan, voor bouw die start: 
 
-a. voor 1 januari 2011: 75 procent van de op grond van tabel 5.11 bij [artikel 5.12 van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), zoals dat luidde op 1 januari 2007, geldende grenswaarden;  
+a. voor 1 januari 2011: 75 procent van de op grond van tabel 5.11 bij artikel 5.12 van het Bouwbesluit 2003, zoals dat luidde op 1 januari 2007, geldende grenswaarden;  
 
 b. op of na 1 januari 2011 en voor 1 januari 2015: 50 procent van de in onderdeel a bedoelde grenswaarden;  
 
@@ -52,7 +52,7 @@ a. over de mate waarin dit besluit bijdraagt aan de realisatie van energieambiti
 
 b. over de mate waarin de in de excellente gebieden, bedoeld in artikel 2, opgedane kennis en ervaring met energiezuinige, innovatieve nieuwbouw kan worden toegepast in nieuwbouwprojecten elders in Nederland, en  
 
-c. waarin wordt ingegaan op de wenselijkheid van aanpassing van de in tabel 5.11 bij [artikel 5.12 van het Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) genoemde grenswaarden met betrekking tot de energieprestatiecoëfficiënt.    
+c. waarin wordt ingegaan op de wenselijkheid van aanpassing van de in tabel 5.1 bij artikel 5.2 van het Bouwbesluit 2012 genoemde grenswaarden met betrekking tot de energieprestatiecoëfficiënt.    
 
 ### Artikel  5  
 

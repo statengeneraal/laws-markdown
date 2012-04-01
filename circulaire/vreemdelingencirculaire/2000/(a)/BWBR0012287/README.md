@@ -1798,15 +1798,15 @@ Overtreding van een aantal bepalingen van de [Vw](../../../../../wet/vreemdeling
 
 ####Inleiding
 
-Het algemeen belang vergt dat wordt opgetreden tegen vreemdelingen die zich in strijd met de wettelijke bepalingen in Nederland bevinden. Een vreemdelingenbeleid is immers niet te voeren indien degenen die volgens dit beleid niet in Nederland mogen verblijven, ongemoeid worden gelaten. Bovendien kunnen uit illegaal verblijf misstanden voortvloeien, onder meer met betrekking tot de tewerkstelling van buitenlandse werknemers, de volksgezondheid en de huisvesting. Om deze redenen dient nauwlettend toezicht te worden gehouden op de binnenkomst en aanwezigheid van illegale vreemdelingen. In geval van feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren, dient controle hierop plaats te vinden. Hiervan kan sprake zijn indien de politie aanwijzingen uit eigen onderzoek verkrijgt of signalen uit de eigen organisatie of van derden ontvangt. Die signalen kunnen bijvoorbeeld afkomstig zijn van de GBA en andere overheidsdiensten die met de aanwezigheid van vreemdelingen op de hoogte zijn, zoals de Gemeentelijke Sociale Dienst of de Arbeidsinspectie van het Ministerie van SZW. Een nauwe samenwerking tussen de verschillende betrokken instanties is daarom van groot belang. Controles behoren niet alleen tot het werkterrein van de ambtenaren van de vreemdelingenpolitie. Ook politiemensen die niet bij de vreemdelingenpolitie zijn ingedeeld, kunnen tijdens het uitoefenen van hun taken controles op vreemdelingen uitvoeren. Om hun toezichthoudende taken goed te kunnen uitoefenen zijn ambtenaren belast met het toezicht op de wettelijke voorschriften met betrekking tot vreemdelingen op grond van de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) bevoegd: 
+Het algemeen belang vergt dat wordt opgetreden tegen vreemdelingen die zich in strijd met de wettelijke bepalingen in Nederland bevinden. Een vreemdelingenbeleid is immers niet te voeren indien degenen die volgens dit beleid niet in Nederland mogen verblijven, ongemoeid worden gelaten. Bovendien kunnen uit illegaal verblijf misstanden voortvloeien, onder meer met betrekking tot de tewerkstelling van buitenlandse werknemers, de volksgezondheid en de huisvesting. Om deze redenen dient nauwlettend toezicht te worden gehouden op de binnenkomst en aanwezigheid van illegale vreemdelingen.   In geval van feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren, dient controle hierop plaats te vinden. Hiervan kan sprake zijn indien de politie aanwijzingen uit eigen onderzoek verkrijgt of signalen uit de eigen organisatie of van derden ontvangt. Die signalen kunnen bijvoorbeeld afkomstig zijn van de GBA en andere overheidsdiensten die met de aanwezigheid van vreemdelingen op de hoogte zijn, zoals de Gemeentelijke Sociale Dienst of de Inspectie SZW. Een nauwe samenwerking tussen de verschillende betrokken instanties is daarom van groot belang.   Controles behoren niet alleen tot het werkterrein van de ambtenaren van de vreemdelingenpolitie. Ook politiemensen die niet bij de vreemdelingenpolitie zijn ingedeeld, kunnen tijdens het uitoefenen van hun taken controles op vreemdelingen uitvoeren.   Om hun toezichthoudende taken goed te kunnen uitoefenen zijn ambtenaren belast met het toezicht op de wettelijke voorschriften met betrekking tot vreemdelingen op grond van de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) bevoegd: 
 
-– vreemdelingen staande te houden (zie [artikel 50 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md));  
+* vreemdelingen staande te houden (zie [artikel 50 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md));  
 
-– vervoermiddelen te onderzoeken (zie [artikel 51 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md));  
+* vervoermiddelen te onderzoeken (zie [artikel 51 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md));  
 
-– reis- en identiteitspapieren in te nemen, tijdelijk in bewaring te nemen en daarin aantekeningen te stellen (zie [artikel 52 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md));  
+* reis- en identiteitspapieren in te nemen, tijdelijk in bewaring te nemen en daarin aantekeningen te stellen (zie [artikel 52 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md));  
 
-– elke plaats te betreden, daaronder begrepen de woning zonder toestemming van de bewoner (zie [artikel 53 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)).   Op ambtenaren die zijn belast met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen is [Afdeling 5:2 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Deze [Afdeling](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geeft regels over de wijze waarop toezichthouders hun taak dienen te vervullen en verleent aan deze toezichthouders een aantal bevoegdheden. Ingevolge [artikel 5:12, eerste lid, Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is iedere toezichthouder verplicht een legitimatiebewijs bij zich te dragen. Het legitimatiebewijs behoeft alleen op verzoek te worden getoond. Voor het binnentreden van een woning geldt echter dat de toezichthouder zich altijd, ook ongevraagd, moet legitimeren. Tot slot is bij het uitoefenen van toezichthoudende taken het evenredigheidsbeginsel van belang, dat is neergelegd in [artikel 5:13 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Deze bepaling is ook van toepassing op de bevoegdheden die in de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) aan toezichthouders zijn toegekend.    
+* elke plaats te betreden, daaronder begrepen de woning zonder toestemming van de bewoner (zie [artikel 53 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)).     Op ambtenaren die zijn belast met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen is [Afdeling 5:2 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Deze Afdeling geeft regels over de wijze waarop toezichthouders hun taak dienen te vervullen en verleent aan deze toezichthouders een aantal bevoegdheden. Ingevolge [artikel 5:12, eerste lid, Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is iedere toezichthouder verplicht een legitimatiebewijs bij zich te dragen. Het legitimatiebewijs behoeft alleen op verzoek te worden getoond. Voor het binnentreden van een woning geldt echter dat de toezichthouder zich altijd, ook ongevraagd, moet legitimeren. Tot slot is bij het uitoefenen van toezichthoudende taken het evenredigheidsbeginsel van belang, dat is neergelegd in [artikel 5:13 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Deze bepaling is ook van toepassing op de bevoegdheden die in de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) aan toezichthouders zijn toegekend.     
 ### 2.2  
 
 ####Vreemdelingentoezicht en opsporing van strafbare feiten
@@ -1821,7 +1821,6 @@ Toezicht in het binnenland vindt plaats op grond van feiten en omstandigheden di
 
 ####Operationeel toezicht ter bestrijding van illegale immigratie
 
-Het toezicht ter bestrijding van illegale immigratie is erop gericht illegaal verblijf, al dan niet in georganiseerd verband, in een zo vroeg mogelijk stadium tegen te gaan. Dit toezicht is tevens gericht op preventie en ontmoediging van toekomstige illegale immigratie.  Om illegaal verblijf in een zo vroeg mogelijk stadium tegen te gaan, kunnen ingereisde personen na grensoverschrijding aan vreemdelingentoezicht worden onderworpen. Dit is onder meer het geval in internationale treinen en bij auto’s die de Nederlandse grens zijn gepasseerd, maar ook in het geval van internationaal vliegverkeer waarbij sprake is van een intra-Schengenvlucht naar het grondgebied van Nederland. Deze vorm van toezicht is uitsluitend toegestaan ten aanzien van personen van wie mag worden aangenomen dat zij grensgangers zijn. Deze controles vinden plaats zodra dit redelijkerwijs mogelijk is na grensoverschrijding en nog geen of slechts een geringe vermenging met het binnenlands reizigersverkeer heeft plaatsgevonden.   Deze controles vinden plaats in het kader van het zogenaamde MTV. MTV-controles kunnen worden uitgevoerd aan de grensovergangen en in een grensstrook tot drie kilometer achter de grens. De controle op doorgaande wegen en snelwegen wordt uitgevoerd binnen de driekilometerzone. Bij snelwegen kan de driekilometerzone worden overschreden tot aan de tweede afslag na grensoverschrijding. Het MTV op vaarwegen wordt eveneens uitgevoerd binnen de driekilometerzone. Deze zone kan worden overschreden tot de eerste afmeermogelijkheid. MTV-controles op de treinen worden uitgevoerd tot het punt waarop de ambtenaar belast met het toezicht op vreemdelingen van oordeel is dat niet langer aan het criterium – dat er geen of nagenoeg geen vermenging met binnenlands reisverkeer mag plaatsvinden – wordt voldaan.   Controles op inreizende personen leveren aanwijzingen op over de mate waarin op een bepaalde route sprake is van illegale immigratie. Het controlebeleid wordt op deze aanwijzingen afgestemd, zodat het toezicht zoveel mogelijk daar plaatsvindt waar de kans op confrontatie met illegale immigratie reëel is.   Alle personen, Nederlanders en niet-Nederlanders, waarvan mag worden aangenomen dat zij grensganger zijn, kunnen aan deze vorm van vreemdelingentoezicht worden onderworpen. Een redelijk vermoeden over illegaal verblijf speelt bij deze vorm van toezicht geen rol.   Een goed inzicht in de verkeersstromen, zowel op de snelwegen, de secundaire wegen als die van het internationale treinen en vliegverkeer, is een essentiële voorwaarde voor een doelmatig controlebeleid. Dit inzicht kan worden verkregen door observatie van de verkeersstromen en analyse van de observatiegegevens. Rapportage omtrent de uitoefening van het MTV geeft uiteindelijk inzicht in de doelmatigheid van dit toezicht. Deze rapportage dient te vermelden: het totaal aantal geobserveerde voertuigen, het aantal gecontroleerde voertuigen/personen en het aantal treffers.   Op grond van aanwijzingen over illegale immigratie, verkregen van buitenlandse overheidsinstanties, kan te allen tijde worden overgegaan tot deze vorm van vreemdelingentoezicht. Ook eigen ervaringsgegevens van de KMar, gebaseerd op de hierboven genoemde werkmethode, zijn voldoende aanknopingspunt om over te gaan tot controles.   De controle op auto’s die de Nederlandse grens zijn gepasseerd, richt zich met name op de kleinere personenbussen en op personenauto’s met overmatige belading van personen of bagage. Auto’s met buitenlandse kentekens, kunnen te allen tijde steekproefsgewijs worden gecontroleerd. De staat van onderhoud van een voertuig, het type voertuig, geblindeerde ruiten, de rijstijl van de chauffeur, de snelheid van het voertuig en het (kennelijk) bij elkaar horen van meerdere voertuigen, kunnen een rol spelen bij de steekproefsgewijze keuze van te controleren voertuigen.   Bij een controle in internationale treinen worden in beginsel alle grensgangers gecontroleerd. Indien daarvoor de tijd ontbreekt, kan ook hier een steekproefsgewijze controle plaatsvinden. Daarbij kan de hoeveelheid meegenomen bagage een rol spelen. Ook grotere groepen of gezinnen die (kennelijk) gezamenlijk reizen kunnen voorwerp van controle vormen.   Bij een controle op internationaal (intra-Schengen) vliegverkeer worden in beginsel alle grensgangers gecontroleerd. Indien daarvoor de tijd ontbreekt, kan ook hier een steekproefsgewijze controle plaatsvinden. Indien ervaringsgegevens of andere informatie aanleiding vormt tot controles van vliegverkeer vanuit een specifiek herkomstland, dient zoveel mogelijk sprake te zijn van evenredigheid waar het gaat om controles van verschillende luchtvaartmaatschappijen.      
 ### 3  
 
 ####Staande houden, overbrengen en ophouden
@@ -1840,33 +1839,33 @@ Ambtenaren belast met de grensbewaking en ambtenaren belast met het toezicht op 
 
 ####De toepassing
 
-De politie heeft als taken de handhaving van de openbare orde en de strafrechtelijke handhaving van de rechtsorde. Voorts verleent zij hulp aan hen die deze behoeven (zie [artikel 2 Politiewet](../../../../../wet/politiewet/1993/BWBR0006299/README.md)). Ook het actief toezicht op vreemdelingen maakt deel uit van de taken van politieambtenaren en de overige speciaal daarvoor aangewezen toezichthouders. Bij de uitvoering van dit toezicht wordt in het belang van de (handhaving van de) openbare orde nagegaan of in Nederland verblijvende vreemdelingen rechtmatig hier verblijven. In verband daarmee kunnen personen worden staande gehouden. Van deze bevoegdheid mag gebruik gemaakt worden indien er sprake is van ‘feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren’ of ‘ter bestrijding van illegaal verblijf na grensoverschrijding’  De term ‘redelijk vermoeden van illegaal verblijf’ heeft grote raakvlakken met het voor de politie vertrouwde begrip ‘redelijk vermoeden’ in van het [artikel 27 WvSv](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). Ook bij de toepassing van de bevoegdheid tot staandehouding van [artikel 50 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) moet het vermoeden redelijk zijn en wel naar objectieve maatstaven gemeten.   Ter voorkoming van discriminatoir handelen zal steeds uit feiten of omstandigheden, naar objectieve maatstaven gemeten, moeten blijken waar het redelijke vermoeden van illegaal verblijf op gebaseerd geweest is. Hierbij kunnen de feiten of omstandigheden van de situatie of de aanwijzingen richting een persoon bepalend zijn.   Een objectief redelijk vermoeden van illegaal verblijf mag mede op basis van ervarings- of omgevingsgegevens aangenomen worden als er bijvoorbeeld sprake is van: 
+De politie heeft als taken de handhaving van de openbare orde en de strafrechtelijke handhaving van de rechtsorde. Voorts verleent zij hulp aan hen die deze behoeven (zie [artikel 2 Politiewet](../../../../../wet/politiewet/1993/BWBR0006299/README.md)). Ook het actief toezicht op vreemdelingen maakt deel uit van de taken van politieambtenaren en de overige speciaal daarvoor aangewezen toezichthouders. Bij de uitvoering van dit toezicht wordt in het belang van de (handhaving van de) openbare orde nagegaan of in Nederland verblijvende vreemdelingen rechtmatig hier verblijven. In verband daarmee kunnen personen worden staande gehouden. Van deze bevoegdheid mag gebruik gemaakt worden indien er sprake is van ‘feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren’ of ‘ter bestrijding van illegaal verblijf na grensoverschrijding’.   De term ‘redelijk vermoeden van illegaal verblijf’ heeft grote raakvlakken met het voor de politie vertrouwde begrip ‘redelijk vermoeden’ in van het [artikel 27 WvSv](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). Ook bij de toepassing van de bevoegdheid tot staandehouding van [artikel 50 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) moet het vermoeden redelijk zijn en wel naar objectieve maatstaven gemeten.   Ter voorkoming van discriminatoir handelen zal steeds uit feiten of omstandigheden, naar objectieve maatstaven gemeten, moeten blijken waar het redelijke vermoeden van illegaal verblijf op gebaseerd geweest is. Hierbij kunnen de feiten of omstandigheden van de situatie of de aanwijzingen richting een persoon bepalend zijn.   Een objectief redelijk vermoeden van illegaal verblijf mag mede op basis van ervarings- of omgevingsgegevens aangenomen worden als er bijvoorbeeld sprake is van: 
 
-– informatie van overheidsinstanties, zoals de Gemeentelijke Sociale Dienst of de Arbeidsinspectie of de GBA;  
+* informatie van overheidsinstanties, zoals de Gemeentelijke Sociale Dienst of de Inspectie SZW of de GBA;  
 
-– aanwijzingen uit eigen onderzoek van de politie;  
+* aanwijzingen uit eigen onderzoek van de politie;  
 
-– aanwijzingen die de politie verkrijgt bij de controle van persoonsgegevens in het kader van de uitoefening van de politietaken;  
+* aanwijzingen die de politie verkrijgt bij de controle van persoonsgegevens in het kader van de uitoefening van de politietaken;  
 
-– een controle in een woning of een bedrijf waarbij bij een eerdere controle illegale personen aangetroffen zijn;  
+* een controle in een woning of een bedrijf waarbij bij een eerdere controle illegale personen aangetroffen zijn;  
 
-– het aantreffen van andere personen in dezelfde woning waar een met naam bekende illegale of uitgeprocedeerde vreemdeling ter uitzetting aangehouden wordt of kan worden;  
+* het aantreffen van andere personen in dezelfde woning waar een met naam bekende illegale of uitgeprocedeerde vreemdeling ter uitzetting aangehouden wordt of kan worden;  
 
-– een controle van inzittenden van een voertuig waarvan bij een verkeerscontrole is gebleken dat de bestuurder van dat voertuig illegaal in Nederland verblijft;  
+* een controle van inzittenden van een voertuig waarvan bij een verkeerscontrole is gebleken dat de bestuurder van dat voertuig illegaal in Nederland verblijft;  
 
-– voertuigen waarmee personen vervoerd worden naar een bedrijf waar eerder illegale vreemdelingen aangetroffen zijn;  
+* voertuigen waarmee personen vervoerd worden naar een bedrijf waar eerder illegale vreemdelingen aangetroffen zijn;  
 
-– concrete (anonieme) tips over illegale vreemdelingen;  
+* concrete (anonieme) tips over illegale vreemdelingen;  
 
-– een verdachte van niet-Nederlandse nationaliteit, die zich niet kan identificeren;  
+* een verdachte van niet-Nederlandse nationaliteit, die zich niet kan identificeren;  
 
-– een gelegenheid of plaats, waar zich veel vreemdelingen plegen op te houden, en waarvan vermoed wordt of bekend is dat er zich regelmatig illegale vreemdelingen bevinden;  
+* een gelegenheid of plaats, waar zich veel vreemdelingen plegen op te houden, en waarvan vermoed wordt of bekend is dat er zich regelmatig illegale vreemdelingen bevinden;  
 
-– een redelijk vermoeden van mensensmokkel;  
+* een redelijk vermoeden van mensensmokkel;  
 
-– een redelijk vermoeden van illegale tewerkstelling in het kader van de [Wav](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md);  
+* een redelijk vermoeden van illegale tewerkstelling in het kader van de Wav;  
 
-– een redelijk vermoeden van illegaal in Nederland verblijvende prostituees.     Naast het criterium van ‘feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren’ kunnen personen staande gehouden worden ‘ter bestrijding van illegaal verblijf na grensoverschrijding’ om illegaal verblijf in een zo vroeg mogelijk stadium tegen te gaan (zie A3/2.4).   De ambtenaren belast met grensbewaking en met toezicht op vreemdelingen maken van de staandehouding en ophouding van personen op grond van [artikel 50 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een proces-verbaal op (zie model M-111A).     
+* een redelijk vermoeden van illegaal in Nederland verblijvende prostituees.     Naast het criterium van ‘feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren’ kunnen personen staande gehouden worden ‘ter bestrijding van illegaal verblijf na grensoverschrijding’ om illegaal verblijf in een zo vroeg mogelijk stadium tegen te gaan (zie A3/2.4).   De ambtenaren belast met grensbewaking en met toezicht op vreemdelingen maken van de staandehouding en ophouding van personen op grond van [artikel 50 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een proces-verbaal op (zie model M-111A).     
 ### 3.4  
 
 ####Identiteitsdocumenten
@@ -3111,14 +3110,262 @@ Uitlevering van een vreemdeling heeft een strafrechtelijk doel, namelijk het ter
 Er bestaan bi- en multilaterale verdragen waarbij Nederland partij is die betrekking hebben op de terug- en overname van personen. Hierbij gaat het in het geval van terugname om eigen onderdanen en in het geval van overname om onderdanen van derde landen. Zo zijn er afspraken over terug- en overname tussen de Benelux-landen en hebben de Benelux en de EU terug- en overnameverdragen met derde landen. Daarnaast is er bijvoorbeeld een in Schengenverband afgesloten terug- en overnameovereenkomst met Polen en bevatten Verordening 343/2003 en de Overeenkomst van Dublin (zie C3/2) terug- en overnamebepalingen. Verder bestaan er bilaterale verdragen tussen de EU/Nederland en derde landen (over uiteenlopende onderwerpen) met een terug- en overnameclausule en sluit Nederland met derde landen memoranda of understanding waarin uitvoeringsafspraken met betrekking tot de terug- en overname worden vastgelegd. Of – en onder welke omstandigheden – ten behoeve van terug- of overname van een vreemdeling gebruik kan worden gemaakt van een verdrag of internationale overeenkomst (met bepalingen) over terug- en overname, kan worden nagegaan op de website van de vreemdelingenketen (zie A1/3). Over de te volgen procedure en uitvoeringsaspecten bij daadwerkelijke terug- of overname dient afstemming te worden gezocht met de DT&V.     
 ### 5  
 
-####Ongewenstverklaring
+####Het inreisverbod en de ongewenstverklaring
 
 ### 1  
+
+####Het inreisverbod
+
+Binnen het vreemdelingenbeleid bestaan verschillende maatregelen, die ten doel hebben bepaalde vreemdelingen, aan wie het niet of niet langer is toegestaan in Nederland te verblijven, uit ons land te weren. Dit zijn: 
+
+a. het inreisverbod ([artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md));  
+
+b. de signalering tot ongewenst vreemdeling;  
+
+c. de ongewenstverklaring van de vreemdeling ([artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)).   Het inreisverbod wordt of kan worden opgelegd aan derdelanders, niet zijnde gemeenschapsonderdanen. Dit inreisverbod, dat tezamen met een terugkeerbesluit wordt opgelegd door de vreemdelingenpolitie, Koninklijke Marechaussee of de IND, wordt geregistreerd in het Schengen Informatie Systeem (SIS). Met de invoering van het inreisverbod zal de verklaring tot ongewenst vreemdeling nog zelden voorkomen. Dit is bijvoorbeeld nog wel mogelijk indien een vreemdeling de toegang is geweigerd. De ongewenstverklaring op grond van [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zal in beginsel beperkt blijven tot gemeenschapsonderdanen en vreemdelingen die niet in Nederland verblijven of aan wie de toegang is geweigerd. De signalering tot ongewenst vreemdeling is een uitvoeringsmaatregel die genomen wordt in het belang van de openbare orde of de nationale veiligheid. Deze signalering wordt toegepast ten aanzien van de vreemdeling aan wie geen inreisverbod ex [artikel 66a Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan worden opgelegd en op wie evenmin de maatregel ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) van toepassing is (zie A3/9.2.3)    
+### 2  
+
+####Het inreisverbod ([artikel 66a](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md))
+
+### 2.1  
+
+####Voorwaarden
+
+De gronden waarop een inreisverbod kan worden opgelegd staan vermeld in [artikel 66a, eerste en tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Op grond van [artikel 66a, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) krijgt een vreemdeling een inreisverbod indien: 
+
+* hij Nederland onmiddellijk moet verlaten op grond van [artikel 62, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+
+* hij Nederland niet binnen de hem opgelegde vertrektermijn uit eigen beweging heeft verlaten.   De gronden uit [artikel 66a Vw, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn imperatief. Op grond van artikel 66a, achtste lid Vw is het echter mogelijk om vanwege humanitaire of andere redenen af te zien van het uitvaardigen van een inreisverbod. Daarnaast kan op grond van [artikel 66a, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een inreisverbod worden opgelegd aan de vreemdeling, niet zijnde een gemeenschapsonderdaan, die Nederland niet onmiddellijk moet verlaten. Hierbij kan gedacht worden aan een vreemdeling die een gevaar is voor de openbare orde, openbare veiligheid of nationale veiligheid, indien er redenen bestaan om in een dergelijk geval de vreemdeling – in afwijking van [artikel 62, tweede lid, onder c Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) – een vertrektermijn te gunnen. De in [artikel 66a, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) neergelegde bevoegdheid wordt toegepast overeenkomstig het beleid zoals dat geldt ten aanzien van de ongewenstverklaring (paragraaf A5/10 Vc). De gronden die in [artikel 66a, zevende lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) worden genoemd voor het opleggen van een inreisverbod zijn vrijwel gelijk aan de gronden die in [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zijn neergelegd om tot ongewenstverklaring over te gaan. Ten aanzien van de a-grond van artikel 67 Vw geldt dat overeenkomstig het geldende beleid voor de ongewenstverklaring in een dergelijke situatie ook een inreisverbod wordt opgelegd. De vreemdeling aan wie een inreisverbod is opgelegd, wordt gesignaleerd in (N)SIS (zie A3/9).    
+### 2.2  
+
+####Geen rechtmatig verblijf
+
+Op grond van [artikel 66a, zesde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan de vreemdeling die een inreisverbod heeft ontvangen of die is gesignaleerd ter fine van weigering van de toegang geen rechtmatig verblijf hebben als bedoeld in [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Uitzonderingen hierop zijn: 
+
+* het rechtmatig verblijf hangende de beslissing op een eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+
+* de situatie waarin het, gelet op de gezondheidstoestand van de vreemdeling of die van een van zijn gezinsleden niet verantwoord is om te reizen, bedoeld in [artikel 64](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+
+* indien de uitzetting van de vreemdeling op grond van een rechterlijke beslissing achterwege dient te blijven totdat op het bezwaarschrift of beroepschrift is beslist   Door middel van [artikel 66a, zevende lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt gewaarborgd dat de rechtsgevolgen van het inreisverbod voor het rechtmatig verblijf vergelijkbaar zijn met de gevolgen voor het rechtmatig verblijf in geval de vreemdeling ongewenst (ex [art. 67 VW2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)) zou zijn verklaard. Voor het overige is gewaarborgd dat het inreisverbod in vergelijkbare gevallen kan worden gegeven als waarin een ongewenstverklaring kan worden gegeven, doordat in het zevende lid de gronden voor de ongewenstverklaring, beschreven in artikel 67, eerste lid, onder b tot en met e, zijn overgenomen in artikel 66a, zevende lid, onderdelen a tot en met d. Het inreisverbod betekent dus dat behoudens genoemde uitzonderingen [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) niet van toepassing is. Dit heeft tot gevolg dat deze vreemdelingen – zolang het inreisverbod van kracht blijft – niet gedurende de ‘vrije termijn’ in Nederland mogen verblijven en geen andere titel tot verblijf kunnen verkrijgen. Dit betekent ook dat in het kader van de grensbewaking aan deze vreemdelingen de toegang tot het grondgebied zal worden geweigerd. Evenmin is het hun toegestaan de behandeling van een aanvraag in Nederland af te wachten.    
+### 2.3  
+
+####Strafbaarheid
+
+Het verblijf in en de illegale terugkeer naar Nederland van de vreemdeling, die een inreisverbod heeft gekregen, is strafbaar, omdat de vreemdeling zich daardoor schuldig maakt aan een overtreding of een misdrijf. De vreemdeling die een inreisverbod heeft gekregen met toepassing van [artikel 66a, lid 7 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is strafbaar op grond van [artikel 197 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (misdrijf). Indien het inreisverbod is uitgevaardigd anders dan met toepassing van artikel 66a, lid 7, Vw, is de vreemdeling strafbaar op grond van [artikel 108 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) (overtreding).     
+### 3  
+
+####Aan wie wordt geen inreisverbod opgelegd
+
+Op grond van [artikel 66a, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt geen inreisverbod opgelegd aan diegene die gemeenschapsonderdaan is of op wie [artikel 64 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) van toepassing is. Daarnaast wordt ook geen inreisverbod uitgevaardigd, als: 
+
+* de vreemdeling onderwerp is van de Dublin-verordening (claim uit-procedure);  
+
+* de vreemdeling in het bezit is van een verblijfsvergunning afgegeven door een andere lidstaat. Enkel indien de andere lidstaat er na consultatie via SIRENE mee instemt de verblijfsvergunning in te trekken, kan aan de vreemdeling een terugkeerbesluit en inreisverbod worden opgelegd. De vreemdeling dient vervolgens terug te keren naar zijn land van herkomst, buiten de Europese Unie;  
+
+* de vreemdeling niet in Nederland verblijft.   Een inreisverbod kan wel uitgevaardigd worden bij uitreis uit Nederland. Verder wordt geen inreisverbod uitgevaardigd in de situatie als beschreven in [artikel 6.5, lid 1 of 2 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), tenzij de vreemdeling een gevaar vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid. Als de vreemdeling in bovengenoemde situaties al eerder een inreisverbod is opgelegd, dan wordt dit inreisverbod inclusief de signalering opgeheven.    
+### 4  
+
+####Inreisverbod niet zonder terugkeerbesluit
+
+Op grond van [artikel 62a, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in combinatie met [artikel 66a, eerste en tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), waarin is bepaald dat het moet gaan om een vreemdeling die Nederland moet verlaten, is vereist dat voor de uitvaardiging van een inreisverbod een terugkeerbesluit is vereist. Het inreisverbod wordt derhalve niet gegeven zonder dat er een terugkeerbesluit wordt of is gegeven, in respectievelijk dezelfde of een eerder gegeven beschikking. Het inreisverbodhoeft niet altijd gelijktijdig met het terugkeerbesluit gegeven te zijn. Het kan zijn dat het terugkeerbesluit al in het verleden aan de vreemdeling is gegeven, terwijl hij sindsdien geen gehoor heeft gegeven aan de uitvoering van zijn terugkeerbesluit. In die situatie wordt het terugkeerbesluit aangevuld met een inreisverbod.    
+### 5  
+
+####Duur van het inreisverbod
+
+Op grond van [artikel 66a, vierde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), bedraagt de duur van een inreisverbod niet langer dan vijf jaren, tenzij het inreisverbod is gegeven op grond dat de vreemdeling naar het oordeel van de minister voor Immigratie, Integratie en Asiel een ernstige bedreiging vormt van de openbare orde, openbare veiligheid of nationale veiligheid. Om te voldoen aan de verplichting die is neergelegd in de Richtlijn Terugkeer om de duur te bepalen volgens alle relevante omstandigheden van het individuele geval is in [artikel 6.5a Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) opgenomen dat de duur niet meer mag bedragen dan de daar vermelde maximumduur, die afhankelijk is van de reden waarom het inreisverbod wordt opgelegd. De maximale duur van het inreisverbod is afhankelijk van het bepaalde in [artikel 6.5a Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). In dit artikel is reeds verdisconteerd de ernst van de aanleiding om tot het opleggen van een inreisverbod over te gaan. Om die reden wordt, behoudens door de vreemdeling aangevoerde en nader onderbouwde bijzondere individuele omstandigheden, de maximale duur opgelegd zoals die in de verschillende onderdelen van artikel 6.5a Vb staan genoemd.    
+### 6  
+
+####Procedurele aspecten
+
+### 6.1  
+
+####Inleiding
+
+Een inreisverbod kan worden uitgevaardigd door de (HOvJ van de) vreemdelingenpolitie, de ZHP, de KMar en de IND.    
+### 6.2  
+
+####Belangenafwegingen
+
+Op grond van [artikel 66a, achtste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan om humanitaire of andere redenen worden afgezien van het uitvaardigen van een inreisverbod. Daarom is het belangrijk dat de vreemdeling in staat gesteld wordt een reactie te geven op het voornemen om hem een inreisverbod op te leggen.    
+### 6.3  
+
+####Uitvaardiging van een inreisverbod door vreemdelingenpolitie, ZHP of KMar
+
+### 6.3.1  
+
+####Algemeen
+
+De vreemdelingenpolitie, ZHP, KMar en IND zijn bevoegd om een inreisverbod uit te vaardigen, tenzij zij van oordeel zijn dat er gronden aanwezig zijn om een inreisverbod te geven onder toepassing van [artikel 66a, lid 7 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). In dat laatste geval wordt dat onmiddellijk na constatering daarvan kenbaar gemaakt aan de IND, hetzij middels een gemotiveerd voorstel (model M63), hetzij middels een ander gemotiveerd schrijven. In de volgende gevallen vaardigt de vreemdelingenpolitie, ZHP, KMar een inreisverbod uit: 
+
+* De vreemdeling heeft geen termijn voor vrijwillig vertrek gekregen ([art. 6.5a 1 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). Termijn: max. 2 jr;  
+
+* De vreemdeling heeft geen gehoor gegeven aan de vertrekverplichting uit een eerder opgelegd terugkeerbesluit ([art. 6.5a 1 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). Termijn: max. 2 jr;  
+
+* De vreemdeling heeft de vrije termijn overschreden met meer dan drie dagen maar niet meer dan drie maanden ([art. 6.5a 2 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). Termijn: max 1 jr;  
+
+* De vreemdeling heeft gebruik gemaakt van valse of vervalste reis- of identiteitspapieren dan wel heeft opzettelijk reis- of identiteitspapieren overgelegd die niet op hem betrekking hebben ([art. 6.5a 4b Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). Termijn: max. 5 jr;  
+
+* De vreemdeling is reeds het onderwerp geweest van meer dan één terugkeerbesluit ([art. 6.5a 4c, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). Termijn: max. 5 jr;  
+
+* De vreemdeling heeft zich op het grondgebied van Nederland begeven terwijl een inreisverbod van kracht was ([art. 6.5a 4d, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). Termijn: max. 5 jr.   In de volgende gevallen vaardigt de IND een inreisverbod uit meestal na hiervoor een voorstel van de VP/Kmar te hebben ontvangen: 
+
+* Veroordeling tot maximaal 6 maanden vrijheidsstraf ([6.5a 3e lid Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md));  
+
+* veroordeling tot vrijheidsstraf van 6 maanden of langer ([6.5a 4e lid sub a Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md));  
+
+* ernstige bedreiging openbare orde (([6.5a 5e lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md));  
+
+* ernstige bedreiging nationale veiligheid ([6.5a 6e lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)).      
+### 6.3.2  
+
+####Voorbereiding
+
+Nadat de vreemdelingenpolitie, ZHP, KMar de vreemdeling heeft geïnformeerd over het voornemen om een inreisverbod uit te vaardigen, wordt de vreemdeling overeenkomstig [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid gesteld zijn zienswijze naar voren te brengen en daarbij feiten en omstandigheden naar voren te brengen die naar zijn mening bij de besluitvorming moeten worden betrokken (zie [B1/9.7.2](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)). Van belang is ook dat de vreemdeling de strekking en de gevolgen van het op te leggen inreisverbod begrepen heeft en daarop zijn zienswijze heeft kunnen geven.    
+### 6.3.3  
+
+####De beschikking
+
+Het inreisverbod wordt per beschikking uitgevaardigd. In de beschikking moet naar voren komen hoe uitvoering is gegeven aan de hoorplicht overeenkomstig [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en hoe de verklaringen van de vreemdeling zijn meegewogen. In de beschikking worden ook de rechtsgevolgen opgenomen. Voor de beroepsmogelijkheden tegen een dergelijke beschikking wordt verwezen naar paragraaf 6.6.    
+### 6.3.4  
+
+####Uitreiking van de beschikking
+
+Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Het origineel van de beschikking wordt aan de vreemdeling in persoon uitgereikt. Van deze uitreiking wordt een proces-verbaal opgemaakt. Bij de uitreiking van (het afschrift van) de beschikking wordt voor de betrokkene in begrijpelijke taal uitleg gegeven met betrekking tot de gevolgen van het inreisverbod en het overtreden ervan    
+### 6.3.5  
+
+####Verzoek signalering in (N)SIS
+
+Middels de BVV wordt door VP, ZHP, KMar aan IND verzocht de vreemdeling in het (N)sis te signaleren.     
+### 6.4  
+
+####Voorstel voor een inreisverbod door vreemdelingenpolitie, ZHP of KMar
+
+### 6.4.1  
+
+####Gegevens
+
+Bij een voorstel tot het geven van een inreisverbod onder toepassing van [artikel 66a, lid 7, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) worden in ieder geval alle gegevens en bescheiden (zoals afschriften processen-verbaal en dergelijke) die voor de beoordeling van de zaak van belang kunnen zijn, naar de IND gezonden. Het verdient aanbeveling dat de vreemdelingenpolitie, ZHP of de KMar, in een zo vroeg mogelijk stadium berichten omtrent de antecedenten van de vreemdeling en dat zij niet wachten tot de invrijheidsstelling van de vreemdeling aanstaande is. Ten behoeve van de afstemming tussen de betrokken ketenpartners zijn in dit kader werkafspraken vastgelegd in het protocol VRIS (zie A4/10.1).    
+### 6.4.2  
+
+####Voorbereiding
+
+Nadat de vreemdelingenpolitie, ZHP of KMar de vreemdeling heeft geïnformeerd over het voornemen om een inreisverbod uit te vaardigen, wordt de vreemdeling overeenkomstig [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid gesteld zijn zienswijze naar voren te brengen en daarbij feiten en omstandigheden naar voren te brengen die naar zijn mening bij de besluitvorming moeten worden betrokken (zie [B1/9.7.2](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)). Uit de door de vreemdelingenpolitie, ZHP of de KMar aan de IND gezonden bescheiden dient duidelijk naar voren te komen of en hoe uitvoering is gegeven aan de hoorplicht ingevolge [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Bij voorkeur is de vreemdeling mondeling gehoord en is van het gehoor een proces-verbaal opgemaakt. Een vlotte en goede besluitvorming is ermee gediend dat bij een voorstel of advies aan de IND alle relevante feiten en omstandigheden met betrekking tot het mogelijke inreisverbod en eventueel de verblijfsbeëindiging zo uitvoerig mogelijk worden belicht (zie model M63). Naast de vreemdelingenpolitie, ZHP of de KMar kan ook de IND uitvoering geven aan de hoorplicht. Hierbij valt te denken aan de situatie waarin bij de afhandeling van een aanvraag tot verlening van een verblijfsvergunning regulier een inbreuk op de openbare orde wordt geconstateerd, welke dermate ernstig is dat een inreisverbod ex [artikel 66a, lid 7 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is geïndiceerd. Het vorenstaande laat onverlet dat er situaties kunnen zijn, waarin horen door de vreemdelingenpolitie, ZHP of de KMar desalniettemin meer voor de hand ligt.    
+### 6.4.3  
+
+####De beschikking
+
+Op het voorstel van de vreemdelingenpolitie, ZHP of KMar maakt de IND een beschikking tot uitvaardiging van een inreisverbod. In de beschikking worden ook de rechtsgevolgen opgenomen. Voor de beroepsmogelijkheden tegen een dergelijke beschikking wordt verwezen naar A5/6.6.    
+### 6.4.4  
+
+####Uitreiking van de beschikking
+
+Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Het origineel van deze beschikking wordt aan de vreemdeling in persoon uitgereikt door de vreemdelingenpolitie, ZHP of de KMar. Van deze uitreiking wordt door de vreemdelingenpolitie, ZHP of de KMar een proces-verbaal opgemaakt. Bij de uitreiking van (het afschrift van) de beschikking wordt voor de betrokkene in begrijpelijke taal uitleg gegeven met betrekking tot de gevolgen van het inreisverbod en het overtreden ervan. Dezelfde dag wordt een afschrift van de beschikking gezonden aan de gemachtigde, zo er een gemachtigde is. Kan uitreiking van de beschikking aan de vreemdeling in persoon niet plaatsvinden, dan wordt deze per aangetekende brief gezonden aan zijn laatst bekende adres, wordt een afschrift aan de gemachtigde gezonden, zo die er is, en vindt tevens mededeling van de beschikking in de Stcrt plaats (zie [artikel 66a, vijfde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Indien uitreiking van de beschikking aan de vreemdeling in persoon niet kan plaatsvinden en bekend is dat de vreemdeling niet langer op het laatst bekende adres woont, wordt de beschikking aan de in Nederland kantoor houdende gemachtigde gezonden, zo die er is en wordt van de beschikking mededeling gedaan in de Stcrt. Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.    
+### 6.4.5  
+
+####Signalering in het (N)SIS
+
+Na uitreiking van de beschikking draagt de IND zorg voor het signaleren van de vreemdeling in het (N)SIS.     
+### 6.5  
+
+####Het inreisverbod door de IND
+
+### 6.5.1  
+
+####Algemeen
+
+Naast een inreisverbod op voorstel van de vreemdelingenpolitie, ZHP of KMar, kan de IND ook zelfstandig een inreisverbod opleggen. Dit kan bijvoorbeeld indien de informatie zoals vermeld in paragraaf 6.4 bij de IND bekend is geworden in het kader van de behandeling van een verblijfsaanvraag, intrekking of niet-verlenging van een verblijfsvergunning. Daarnaast kan de IND een inreisverbod geven in een meeromvattende beschikking, indien: 
+
+* de aan de vreemdeling opgelegde vertrektermijn wordt onthouden en is bepaald dat de vreemdeling onmiddellijk moet vertrekken; of  
+
+* indien bij de meeromvattende beschikking is gebleken dat de vreemdeling zich niet heeft gehouden aan een hem eerder opgelegd terugkeerbesluit, inclusief vertrektermijn.   De IND draagt er dan wel zorg voor toepassing te geven aan hetgeen gesteld is in paragraaf 6.4.2. Indien overwogen wordt om een inreisverbod te geven bij de afwijzing van een asielaanvraag, dan kan het voornemen tot het geven van een inreisverbod worden meegenomen in de voornemenprocedure.    
+### 6.5.2  
+
+####De beschikking en de uitreiking van de beschikking
+
+Paragrafen 6.4.3, 6.4.4 en 6.4.5. zijn van overeenkomstige toepassing. In aanvulling op paragraaf 6.4.4 kan ook de IND het origineel van de beschikking in persoon aan de vreemdeling uitreiken. Bij de uitreiking van (het afschrift van) de beschikking wordt voor de betrokkene in begrijpelijke taal uitleg gegeven met betrekking tot de gevolgen van het inreisverbod en het overtreden ervan. Dezelfde dag wordt een afschrift van de beschikking gezonden aan de gemachtigde, zo er een gemachtigde is. Kan uitreiking van de beschikking aan de vreemdeling in persoon niet plaatsvinden, dan wordt deze per aangetekende brief gezonden aan zijn laatst bekende adres, wordt een afschrift aan de gemachtigde gezonden, zo die er is, en vindt tevens mededeling van de beschikking in de Stcrt plaats (zie [artikel 66a, vijfde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Indien uitreiking van de beschikking aan de vreemdeling in persoon niet kan plaatsvinden en bekend is dat de vreemdeling niet langer op het laatst bekende adres woont, wordt de beschikking aan de in Nederland kantoor houdende gemachtigde gezonden, zo die er is en wordt van de beschikking mededeling gedaan in de Stcrt. Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.     
+### 6.6  
+
+####Bezwaar en beroep
+
+Op grond van [artikel 75 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) staat tegen een terugkeerbesluit dat wordt aangevuld met een inreisverbod beroep open bij de rechtbank ’s-Gravenhage (de vreemdelingenkamer). Indien het inreisverbod deel uitmaakt van een meeromvattende beschikking in een toelatingsprocedure wordt de bezwaar- en/of beroepsmogelijkheid gevolgd van de hoofdprocedure. Het indienen van een bezwaarschrift of beroepschrift leidt er niet toe dat de werking van de beschikking hangende de behandeling van het bezwaar of beroepsschrift wordt opgeschort. De beschikking heeft dus onmiddellijke werking (zie [artikel 6:16 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)).    
+### 6.7  
+
+####Stellen van aantekeningen
+
+Een aantekening over het inreisverbod wordt in het document voor grensoverschrijding van de vreemdeling gesteld, indien naar het oordeel van de Korpschef of (Commandant der) KMar gegronde reden bestaat om te vermoeden dat de vreemdeling zal proberen naar één van de Schengenlanden terug te keren. In het kader van de grensbewaking is de ambtenaar belast met grensbewaking bevoegd een aantekening te stellen in het reisdocument van de vreemdeling omtrent de reden van weigering toegang in verband met het inreisverbod, zie [artikel 4.29, eerste lid, aanhef en onder j, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Het stellen van een dergelijke aantekening kan onder omstandigheden gevolgen hebben voor de doorreis of toelating tot een derde land. Indien door deze aantekening de doorreis van de vreemdeling door, of diens toelating tot, een derde land zou worden bemoeilijkt, mag de aantekening omtrent het inreisverbod niet in het document voor grensoverschrijding worden aangetekend (zie [artikel 4.35a, eerste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). De hier bedoelde aantekening luidt: ‘inreisverbod uitgevaardigd op (datum beschikking Minister)’. Aantekeningen mogen nimmer worden geplaatst in de grensoverschrijdingsdocumenten of identiteitsbewijzen van asielzoekers (zie A3/5.2.1).    
+### 6.8  
+
+####Signalering in verband met het inreisverbod
+
+Op grond van [artikel 3.103b, eerste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) wordt een inreisverbod geregistreerd in het Schengen Informatiesysteem. Hiervoor wordt verder verwezen naar A3/9.    
+### 6.9  
+
+####Strafbare feiten
+
+Een opgelegde maatregel tot plaatsing in een psychiatrisch ziekenhuis (zie [artikel 37 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) of in een inrichting voor de opvang van verslaafden (zie [artikel 38m WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) dan wel een inrichting voor jeugdigen (zie [artikel 77h, vierde lid, onder a WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) alsook ter beschikkingstelling (zie [artikel 37a WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) worden tot de vrijheidsontnemende maatregelen gerekend. Een taakstraf is ofwel een werkstraf (het verrichten van onbetaalde arbeid ten algemene nutte) ofwel een leerstraf (het volgen van een leertraject) dan wel een combinatie van beide. De taakstraf komt in plaats van een gevangenisstraf. In geval van een veroordeling tot een taakstraf wordt de duur van de door de rechter bepaalde vervangende hechtenis als uitgangspunt genomen. Dit betekent dat, met inachtneming van het bovenstaande, de taakstraf wordt tegengeworpen ongeacht de duur van de taakstraf (zie de [artikelen 22, c en d, WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)). Om te kunnen spreken van gevaar voor de nationale veiligheid is geen strafrechtelijke veroordeling vereist. Wel dienen er concrete aanwijzingen te zijn dat de vreemdeling een gevaar vormt voor de nationale veiligheid. Bij het bestaan van concrete aanwijzingen dient in de eerste plaats te worden gedacht aan een ambtsbericht van de AIVD. In voorkomende gevallen kan echter ook worden uitgegaan van een ambtsbericht van onder andere de Dienst IPOL, (inter)nationale) ministeries of inlichtingendiensten. Een vreemdeling die buiten de rechtsmacht van Nederland een ernstig misdrijf heeft begaan, kan in het belang van de internationale betrekkingen van Nederland een inreisverbod worden opgelegd. Hierbij kan worden gedacht aan de vreemdelingen van wie het verblijf is geweigerd dan wel is beëindigd op grond van artikel 1F Vluchtelingenverdrag.     
+### 7  
+
+####Opheffing of tijdelijke opheffing van het inreisverbod
+
+### 7.1  
+
+####Algemeen
+
+Ingevolge [artikel 66b, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan ambtshalve dan wel op aanvraag worden beslist tot opheffing of tijdelijke opheffing van het inreisverbod. De redenen voor een mogelijke opheffing staan beschreven in [artikel 6.5b Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Daarnaast worden ook in [artikel 6.5, tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) redenen genoemd, die tot intrekking van een inreisverbod kunnen leiden.    
+### 7.2  
+
+####De vorm van de aanvraag
+
+De aanvraag om opheffing van het inreisverbod wordt ingediend bij de IND, wordt ondertekend en bevat ten minste de naam en het volledige adres van de vreemdeling, de dagtekening en de aanduiding dat verzocht wordt om opheffing van de maatregel van het inreisverbod (zie A5/4). De door een vreemdeling, aan wie een inreisverbod is uitgevaardigd, ingediende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd of onbepaalde tijd wordt niet ambtshalve aangemerkt als aanvraag om opheffing van het inreisverbod.    
+### 7.3  
+
+####De inhoud van de aanvraag
+
+Bij de aanvraag dient de vreemdeling in ieder geval de informatie te leveren als voorgeschreven in [artikel 6.5b Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).    
+### 7.4  
+
+####Beoordeling van de aanvraag
+
+### 7.4.1  
+
+####Algemeen
+
+De aanvraag tot opheffing van het inreisverbod wordt afgewezen, indien de gegevens bedoeld in [artikel 6.5b Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) niet zijn aangeleverd of indien blijkt dat niet wordt voldaan aan de voorwaarden genoemd in artikel 6.5b Vb. Tevens geldt dat op grond van [artikel 6.5, tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), het inreisverbod wordt opgeheven, indien zich een van de gevallen uit het tweede lid van artikel 6.5 Vb voordoet, tenzij er sprake van is dat een vreemdeling een gevaar vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid (artikel 6.5, vierde lid, Vb) Paragraaf 10.4.4 is verder van overeenkomstige toepassing.    
+### 7.4.2  
+
+####Verzoek om opheffing inreisverbod bij gevaar nationale veiligheid
+
+Een verzoek om opheffing van een inreisverbod dat is gegeven op grond van een ernstig gevaar voor de nationale veiligheid, als bedoeld in [artikel 6.5a, zesde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), kan alleen worden ingewilligd indien de vreemdeling sinds het inreisverbod en het vertrek uit Nederland ten minste tien achtereenvolgende jaren buiten Nederland heeft verbleven. Indien op grond van een ambtsbericht van de AIVD kan worden vastgesteld dat de vreemdeling nog steeds een ernstig gevaar vormt voor de nationale veiligheid, dan zal het inreisverbod worden gehandhaafd door het te verlengen. De signalering wordt in dat geval gehandhaafd. In voorkomende gevallen kan ook worden uitgegaan van een ambtsbericht van onder andere (buitenlandse) ministeries of inlichtingendiensten.     
+### 7.5  
+
+####De beslissing op de aanvraag en de signalering
+
+De IND beslist op een aanvraag om opheffing van het inreisverbod. Indien de aanvraag niet wordt ingewilligd kan de vreemdeling of zijn gemachtigde hiertegen beroep instellen bij de rechtbank. Indien de aanvraag wordt ingewilligd, wordt de signalering uit de systemen verwijderd (zie A3/9.2).     
+### 8  
+
+####Tijdelijke opheffing van het inreisverbod
+
+Tijdelijke opheffing van het inreisverbod ingevolge [artikel 6.5c Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) kan slechts plaatsvinden in zeer uitzonderlijke en dringende gevallen. Aan de tijdelijke opheffing worden voorwaarden gesteld omtrent de plaats van binnenkomst en de duur van het verblijf in Nederland. Paragraaf 10.5 is van overeenkomstige toepassing    
+### 9  
+
+####EU-/EER-onderdanen, Zwitserse onderdanen en familieleden
+
+Het inreisverbod is niet van toepassing op: 
+
+* de burgers van de Unie en onderdanen van derde landen die familielid zijn van een burger van de Unie die zijn recht op vrij verkeer uitoefent;  
+
+* de onderdanen van de EER en Zwitserland en hun familieleden die, ongeacht hun nationaliteit, rechten inzake vrij verkeer genieten die gelijkwaardig zijn aan die van de burgers van de Unie.      
+### 10  
+
+####Ongewenstverklaring
+
+Onderstaande paragraaf is van toepassing op die vreemdelingen, aan wie op grond van de [Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geen inreisverbod kan worden uitgevaardigd.   
+### 10.1  
 
 ####Inleiding
 
 De ongewenstverklaring betreft een administratieve maatregel die ten doel heeft bepaalde vreemdelingen, aan wie het niet of niet langer is toegestaan in Nederland te verblijven, uit ons land te weren. Door de ongewenstverklaring wordt het verblijf in en illegale terugkeer naar Nederland van de vreemdeling strafbaar. Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige redenen heeft om te vermoeden dat hij tot ongewenste vreemdeling is verklaard, maakt zich schuldig aan een misdrijf (zie [artikel 197 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)). De ongewenstverklaring betekent tevens dat [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) niet van toepassing is. Dit heeft tot gevolg dat deze vreemdelingen – zolang de ongewenstverklaring van kracht blijft – niet gedurende de ‘vrije termijn’ in Nederland mogen verblijven en geen andere titel tot verblijf kunnen verkrijgen. Dit betekent tevens dat in het kader van de grensbewaking aan deze vreemdelingen de toegang tot het grondgebied zal worden geweigerd. Evenmin is het hun toegestaan de behandeling van een aanvraag in Nederland af te wachten. Tevens kan naar aanleiding van de ongewenstverklaring, de vreemdeling als ongewenst worden gesignaleerd in het OPS of (N)SIS (zie A3/9).    
-### 2  
+### 10.2  
 
 ####Gronden voor ongewenstverklaring
 
@@ -3133,13 +3380,13 @@ c. indien hij een gevaar vormt voor de openbare orde of nationale veiligheid en 
 d. ingevolge een verdrag; of  
 
 e. in het belang van de internationale betrekkingen van Nederland.   
-###ad a.
+### *ad a.* 
 
-Het betreft hier vreemdelingen die bij herhaling een bij de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) strafbaar gesteld feit hebben begaan (zie [artikel 108 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Er moet een proces-verbaal zijn opgemaakt of sprake zijn van een transactie dan wel een uitgevaardigde strafbeschikking ter zake van de gepleegde overtredingen, om bij de tweede of latere overtreding tot ongewenstverklaring over te kunnen gaan. Bij het opmaken van een (eerste) proces-verbaal wordt de vreemdeling tegelijkertijd gewaarschuwd dat, indien hij nogmaals een overtreding in het kader van de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) begaat, zijn ongewenstverklaring zal worden voorgesteld. Van deze waarschuwing wordt een aantekening in de vreemdelingenadministratie gemaakt. Nadat de vreemdeling tweemaal een bij [artikel 108 van de Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) strafbaar gesteld feit heeft begaan, wordt zijn ongewenstverklaring voorgesteld aan de hand van de opgemaakte processen-verbaal. Het kan bijvoorbeeld, maar niet uitsluitend, betreffen overtredingen van de [artikelen 4.37](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.38](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [4.39 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). 
-###ad b.
+Het betreft hier vreemdelingen die bij herhaling een bij de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) strafbaar gesteld feit hebben begaan (zie [artikel 108 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Er moet een proces-verbaal zijn opgemaakt of sprake zijn van een transactie dan wel een uitgevaardigde strafbeschikking ter zake van de gepleegde overtredingen, om bij de tweede of latere overtreding tot ongewenstverklaring over te kunnen gaan. Bij het opmaken van een (eerste) proces-verbaal wordt de vreemdeling tegelijkertijd gewaarschuwd dat, indien hij nogmaals een overtreding in het kader van de Vw begaat, zijn ongewenstverklaring zal worden voorgesteld. Van deze waarschuwing wordt een aantekening in de vreemdelingenadministratie gemaakt. Nadat de vreemdeling tweemaal een bij [artikel 108 van de Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) strafbaar gesteld feit heeft begaan, wordt zijn ongewenstverklaring voorgesteld aan de hand van de opgemaakte processen-verbaal. Het kan bijvoorbeeld, maar niet uitsluitend, betreffen overtredingen van de [artikelen 4.37](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.38](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [4.39 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). 
+### *ad b.* 
 
 Het betreft hier vreemdelingen van wie het verblijfsrecht wegens inbreuk op de openbare orde is beëindigd conform het hiervoor geldende beleid. Het kan hier gaan om zowel intrekking als het niet-verlengen van de verblijfsvergunning (zie [B1/5.3.6](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md), [C5/3](../../../../../circulaire/vreemdelingencirculaire/2000/(c)/BWBR0012288/README.md), [C8/3](../../../../../circulaire/vreemdelingencirculaire/2000/(c)/BWBR0012288/README.md) en [C8/5](../../../../../circulaire/vreemdelingencirculaire/2000/(c)/BWBR0012288/README.md)). Indien een vreemdeling terbeschikking is gesteld (zie [artikel 37a WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) kan dit met zich meebrengen dat het verblijfsrecht eerst bij verlenging van die maatregel met toepassing van de glijdende schaal kan worden beëindigd en tot ongewenstverklaring kan worden overgegaan. De verlenging kan immers betekenen dat wordt voldaan aan de betreffende norm van [artikel 3.86, tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Zo spoedig mogelijk nadat een rechterlijk vonnis waarin verlenging van de TBS-maatregel is uitgesproken onherroepelijk is geworden zal (opnieuw) worden beoordeeld of tot ongewenstverklaring kan worden overgegaan. 
-###ad c.
+### *ad c.* 
 
 Het betreft hier vreemdelingen die niet rechtmatig op grond van een verblijfsvergunning noch op basis van het Gemeenschapsrecht, de Overeenkomst EG-Zwitserland of het Associatiebesluit 1/80 hier te lande verblijven. Niet is vereist dat deze vreemdelingen zich feitelijk in Nederland bevinden. Ten aanzien van deze grond vallen drie categorieën te onderscheiden: 
 
@@ -3147,76 +3394,76 @@ Het betreft hier vreemdelingen die niet rechtmatig op grond van een verblijfsver
 
 * vreemdelingen die bij herhaling ter zake van een misdrijf zijn veroordeeld tot een onvoorwaardelijke (korte) gevangenisstraf (waaronder jeugddetentie) tot een taakstraf of een onvoorwaardelijke geldboete dan wel een vrijheidsontnemende maatregel opgelegd hebben gekregen, dan wel een transactieaanbod hebben aanvaard of een strafbeschikking opgelegd hebben gekregen;  
 
-* vreemdelingen die een gevaar voor de nationale veiligheid vormen.   Een opgelegde maatregel tot plaatsing in een psychiatrisch ziekenhuis (zie [artikel 37 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) of in een inrichting voor de opvang van verslaafden (zie [artikel 38m WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) dan wel een inrichting voor jeugdigen (zie [artikel 77h, vierde lid, onder a WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) alsook ter beschikkingstelling (zie [artikel 37a WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) worden tot de vrijheidsontnemende maatregelen gerekend. Een taakstraf is ofwel een werkstraf (het verrichten van onbetaalde arbeid ten algemene nutte) ofwel een leerstraf (het volgen van een leertraject) dan wel een combinatie van beide. De taakstraf komt in plaats van een gevangenisstraf. In geval van een veroordeling tot een taakstraf wordt de duur van de door de rechter bepaalde vervangende hechtenis als uitgangspunt genomen. Dit betekent dat, met inachtneming van het bovenstaande, de taakstraf wordt tegengeworpen ongeacht de duur van de taakstraf (zie de [artikelen 22, c en d, WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)). Het is niet vereist dat de uitspraak of strafbeschikking waarbij de vreemdeling is veroordeeld wegens een misdrijf onherroepelijk is geworden. Om te kunnen spreken van gevaar voor de nationale veiligheid is geen strafrechtelijke veroordeling vereist. Wel dienen er concrete aanwijzingen te zijn dat de vreemdeling een gevaar vormt voor de nationale veiligheid. Bij het bestaan van concrete aanwijzingen dient in de eerste plaats te worden gedacht aan een ambtsbericht van de AIVD. In voorkomende gevallen kan echter ook worden uitgegaan van een ambtsbericht van onder andere de Dienst Nationale Recherche, ((inter)nationale) ministeries of inlichtingendiensten. Voor zover deze vreemdelingen een aanvraag indienen of hebben ingediend tot het verlenen van een verblijfsvergunning of afgifte van een mvv, wordt die aanvraag afgewezen (zie [B1/4.4.1](../../../../../circulaire/vreemdelingencirculaire/2000/(c)/BWBR0012288/README.md)). 
-###ad d.
+* vreemdelingen die een gevaar voor de nationale veiligheid vormen.   Een opgelegde maatregel tot plaatsing in een psychiatrisch ziekenhuis (zie [artikel 37 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) of in een inrichting voor de opvang van verslaafden (zie [artikel 38m WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) dan wel een inrichting voor jeugdigen (zie [artikel 77h, vierde lid, onder a WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) alsook ter beschikkingstelling (zie [artikel 37a WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) worden tot de vrijheidsontnemende maatregelen gerekend. Een taakstraf is ofwel een werkstraf (het verrichten van onbetaalde arbeid ten algemene nutte) ofwel een leerstraf (het volgen van een leertraject) dan wel een combinatie van beide. De taakstraf komt in plaats van een gevangenisstraf. In geval van een veroordeling tot een taakstraf wordt de duur van de door de rechter bepaalde vervangende hechtenis als uitgangspunt genomen. Dit betekent dat, met inachtneming van het bovenstaande, de taakstraf wordt tegengeworpen ongeacht de duur van de taakstraf (zie de [artikelen 22, c en d, WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)). Het is niet vereist dat de uitspraak of strafbeschikking waarbij de vreemdeling is veroordeeld wegens een misdrijf onherroepelijk is geworden. Om te kunnen spreken van gevaar voor de nationale veiligheid is geen strafrechtelijke veroordeling vereist. Wel dienen er concrete aanwijzingen te zijn dat de vreemdeling een gevaar vormt voor de nationale veiligheid. Bij het bestaan van concrete aanwijzingen dient in de eerste plaats te worden gedacht aan een ambtsbericht van de AIVD. In voorkomende gevallen kan echter ook worden uitgegaan van een ambtsbericht van onder andere de Dienst IPOL, ((inter)nationale) ministeries of inlichtingendiensten. Voor zover deze vreemdelingen een aanvraag indienen of hebben ingediend tot het verlenen van een verblijfsvergunning of afgifte van een mvv, wordt die aanvraag afgewezen (zie [B1/4.4.1](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)). 
+### *ad d.* 
 
 Een vreemdeling die in één van de Benelux- of Schengenstaten ongewenst is verklaard, kan op een met redenen omkleed verzoek van één der lidstaten ook voor de andere lidstaten ongewenst worden verklaard. 
-###ad e.
+### *ad e.* 
 
 Een vreemdeling die buiten de rechtsmacht van Nederland een ernstig misdrijf heeft begaan, kan in het belang van de internationale betrekkingen van Nederland ongewenst worden verklaard. Hierbij kan worden gedacht aan de vreemdelingen van wie het verblijf is geweigerd dan wel is beëindigd op grond van artikel 1F Vluchtelingenverdrag. Bij de toepassing van [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) worden de persoonlijke belangen van de vreemdeling zorgvuldig afgewogen tegen het algemene belang, dat uit een oogpunt van openbare orde met de ongewenstverklaring is gediend. 
-###Ongewenstverklaring en artikel 8 EVRM
+### *Ongewenstverklaring en artikel 8 EVRM* 
 
 Indien wordt overgegaan tot ongewenstverklaring van een vreemdeling is, ook bij eerste toelating – tenzij ook de gezinsleden Nederland (moeten) hebben verlaten – steeds sprake van inmenging. Daarbij wordt beoordeeld of die inmenging gerechtvaardigd is op grond van artikel 8, tweede lid, EVRM. Hiertoe wordt een belangenafweging gemaakt tussen het belang van de vreemdeling en het belang van de Staat. De omstandigheden die bij deze belangenafweging worden betrokken zijn opgenomen in [B2/10.2.3](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md).    
-### 3  
+### 10.3  
 
 ####Procedurele aspecten
 
-### 3.1  
+### 10.3.1  
 
 ####Indienen van een voorstel
 
 Is de vreemdelingenpolitie of de KMar van oordeel dat er gronden aanwezig zijn tot ongewenstverklaring van een vreemdeling, dan maken zij dat onverwijld kenbaar aan de IND, hetzij middels een gemotiveerd voorstel (model M63), hetzij middels een ander gemotiveerd schrijven. In ieder geval dienen alle gegevens en bescheiden (zoals afschriften processen-verbaal en dergelijke) die voor de beoordeling van de zaak van belang kunnen zijn, naar de IND te worden gezonden. Gelet op de bewoordingen van [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), kan de IND, indien op andere wijze is gebleken dat er gronden aanwezig zijn tot ongewenstverklaring, ook ambtshalve tot ongewenstverklaring overgegaan. Het verdient aanbeveling dat de vreemdelingenpolitie of de KMar, in een zo vroeg mogelijk stadium bericht omtrent de antecedenten van de vreemdeling en dat zij niet wachten tot de invrijheidsstelling van de vreemdeling aanstaande is. Ten behoeve van de afstemming tussen de betrokken ketenpartners zijn in dit kader werkafspraken vastgelegd in het protocol VRIS (zie A4/10.1).    
-### 3.2  
+### 10.3.2  
 
 ####Voorbereiding
 
-Overeenkomstig [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de vreemdeling in de gelegenheid gesteld zijn zienswijze naar voren te brengen en daarbij feiten en omstandigheden naar voren te brengen die naar zijn mening bij de besluitvorming moeten worden betrokken (zie [B1/9.7.2](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)).  Aan de hoorplicht ingevolge de [Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt in beginsel door de vreemdelingenpolitie uitvoering gegeven. De vreemdelingenpolitie of de KMar geeft in ieder geval uitvoering aan de hoorplicht indien: 
+Overeenkomstig [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de vreemdeling in de gelegenheid gesteld zijn zienswijze naar voren te brengen en daarbij feiten en omstandigheden naar voren te brengen die naar zijn mening bij de besluitvorming moeten worden betrokken (zie [B1/9.7.2](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)). Aan de hoorplicht ingevolge de [Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt in beginsel door de vreemdelingenpolitie uitvoering gegeven. De vreemdelingenpolitie of de KMar geeft in ieder geval uitvoering aan de hoorplicht indien 
 
-– de vreemdeling illegaal hier te lande verblijft;  
+* de vreemdeling illegaal hier te lande verblijft;  
 
-– de vreemdeling zich in een politiecel, een cel van de KMar of in een huis van bewaring bevindt;  
+* de vreemdeling zich in een politiecel, een cel van de KMar of in een huis van bewaring bevindt;  
 
-– de vreemdeling een aanvraag tot verlening van een verblijfsvergunning asiel heeft ingediend.     Uit de door de vreemdelingenpolitie of de KMar aan de IND gezonden bescheiden dient duidelijk naar voren te komen of en hoe uitvoering is gegeven aan de hoorplicht ingevolge [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Bij voorkeur is van het gehoor een proces-verbaal opgemaakt. Door de vreemdeling genoemde personen, die volgens zijn verklaring iets in zijn voordeel zouden kunnen aanvoeren, moeten zoveel mogelijk (schriftelijk) worden gehoord. Een vlotte en goede besluitvorming is ermee gediend dat bij een voorstel of advies tot verblijfsbeëindiging tevens aan de IND alle relevante feiten en omstandigheden met betrekking tot de mogelijke ongewenstverklaring zo uitvoerig mogelijk worden belicht (zie model M63).   De IND geeft in beginsel uitvoering aan de hoorplicht in andere dan de genoemde situaties. Hierbij valt te denken aan de situatie waarin bij de afhandeling van een aanvraag tot verlening van een verblijfsvergunning regulier een inbreuk op de openbare orde wordt geconstateerd, welke dermate ernstig is dat ongewenstverklaring van de vreemdeling ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is geïndiceerd. Het vorenstaande laat onverlet dat er situaties kunnen zijn, waarin horen door de vreemdelingenpolitie of de KMar desalniettemin meer voor de hand ligt.     
-### 3.3  
+* de vreemdeling een aanvraag tot verlening van een verblijfsvergunning asiel heeft ingediend.   Uit de door de vreemdelingenpolitie of de KMar aan de IND gezonden bescheiden dient duidelijk naar voren te komen of en hoe uitvoering is gegeven aan de hoorplicht ingevolge [artikel 4:7](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Bij voorkeur is van het gehoor een proces-verbaal opgemaakt. Door de vreemdeling genoemde personen, die volgens zijn verklaring iets in zijn voordeel zouden kunnen aanvoeren, moeten zoveel mogelijk (schriftelijk) worden gehoord. Een vlotte en goede besluitvorming is ermee gediend dat bij een voorstel of advies tot verblijfsbeëindiging tevens aan de IND alle relevante feiten en omstandigheden met betrekking tot de mogelijke ongewenstverklaring zo uitvoerig mogelijk worden belicht (zie model M63). De IND geeft in beginsel uitvoering aan de hoorplicht in andere dan de genoemde situaties. Hierbij valt te denken aan de situatie waarin bij de afhandeling van een aanvraag tot verlening van een verblijfsvergunning regulier een inbreuk op de openbare orde wordt geconstateerd, welke dermate ernstig is dat ongewenstverklaring van de vreemdeling ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is geïndiceerd. Het vorenstaande laat onverlet dat er situaties kunnen zijn, waarin horen door de vreemdelingenpolitie of de KMar desalniettemin meer voor de hand ligt.    
+### 10.3.3  
 
-####Uitreiking van de beschikking
+####uitreiking van de beschikking
 
-Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md).  Het origineel van deze beschikking wordt aan de vreemdeling in persoon uitgereikt door de vreemdelingenpolitie of de KMar. Van deze uitreiking wordt door de vreemdelingenpolitie of de KMar een proces-verbaal opgemaakt. Bij de uitreiking van (het afschrift van) de beschikking wordt door de vreemdelingenpolitie of de KMar tevens een brochure in een voor de betrokkene begrijpelijke taal met betrekking tot de ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) verstrekt. Dezelfde dag wordt een afschrift van de beschikking gezonden aan de gemachtigde, zo er een gemachtigde is.   Kan uitreiking van de beschikking aan de vreemdeling in persoon niet plaatsvinden, dan wordt deze – met de brochure – per aangetekende brief gezonden aan zijn laatst bekende adres, wordt afschrift aan de gemachtigde gezonden, zo die er is, en vindt tevens publicatie van de beschikking in de Stcrt. plaats (zie [artikel 67, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)).   Indien uitreiking van de beschikking aan de vreemdeling in persoon niet kan plaatsvinden en bekend is dat de vreemdeling niet langer op het laatst bekende adres woont, wordt de beschikking – met de brochure – aan de in Nederland kantoor houdende gemachtigde gezonden, zo die er is en wordt van de beschikking mededeling gedaan in de Stcrt.   Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.     
-### 3.4  
+Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/9.7.7](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Het origineel van deze beschikking wordt aan de vreemdeling in persoon uitgereikt door de vreemdelingenpolitie of de KMar. Van deze uitreiking wordt door de vreemdelingenpolitie of de KMar een proces-verbaal opgemaakt. Bij de uitreiking van (het afschrift van) de beschikking wordt door de vreemdelingenpolitie of de KMar tevens een brochure in een voor de betrokkene begrijpelijke taal met betrekking tot de ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) verstrekt. Dezelfde dag wordt een afschrift van de beschikking gezonden aan de gemachtigde, zo er een gemachtigde is. Kan uitreiking van de beschikking aan de vreemdeling in persoon niet plaatsvinden, dan wordt deze – met de brochure– per aangetekende brief gezonden aan zijn laatst bekende adres, wordt afschrift aan de gemachtigde gezonden, zo die er is, en vindt tevens publicatie van de beschikking in de Stcrt. plaats (zie [artikel 67, tweede lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)). Indien uitreiking van de beschikking aan de vreemdeling in persoon niet kan plaatsvinden en bekend is dat de vreemdeling niet langer op het laatst bekende adres woont, wordt de beschikking – met de brochure – aan de in Nederland kantoor houdende gemachtigde gezonden, zo die er is en wordt van de beschikking mededeling gedaan in de Stcrt. Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.    
+### 10.3.4  
 
 ####Bezwaar en beroep
 
 Tegen een beschikking waarbij de vreemdeling met toepassing van [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) ongewenst is verklaard kan binnen vier weken een bezwaarschrift worden ingediend. Tegen het besluit op bezwaar staat beroep bij de rechtbank ’s-Gravenhage (de vreemdelingenkamer) open.    
-### 3.5  
+### 10.3.5  
 
 ####Geen opschortende werking in bezwaar
 
 Het indienen van een bezwaarschrift leidt er niet toe dat de werking van de beschikking hangende de behandeling van het bezwaarschrift wordt opgeschort. De beschikking heeft dus onmiddellijke werking (zie [artikel 6:16 Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)).    
-### 3.6  
+### 10.3.6  
 
 ####Stellen van aantekeningen
 
 Een aantekening over de ongewenstverklaring wordt in het document voor grensoverschrijding van de vreemdeling gesteld, indien naar het oordeel van de Korpschef gegronde reden bestaat om te vermoeden dat de vreemdeling zal proberen naar Nederland terug te keren. In het kader van de grensbewaking is de ambtenaar belast met grensbewaking bevoegd een aantekening te stellen in het reisdocument van de vreemdeling omtrent de reden van weigering toegang in verband met ongewenstverklaring, zie [artikel 4.29, eerste lid, aanhef en onder h, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Het stellen van een dergelijke aantekening kan onder omstandigheden gevolgen hebben voor de doorreis of toelating tot een derde land. Indien door deze aantekening de doorreis van de vreemdeling door, of diens toelating tot, een derde land zou worden bemoeilijkt, mag de aantekening omtrent ongewenstverklaring niet in het document voor grensoverschrijding worden aangetekend (zie [artikel 4.34, derde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). De hier bedoelde aantekening luidt: ‘ongewenst verklaard op (datum beschikking Minister)’. Aantekeningen mogen nimmer worden geplaatst in de grensoverschrijdingsdocumenten of identiteitsbewijzen van asielzoekers (zie A3/5.2.1).    
-### 3.7  
+### 10.3.7  
 
 ####Signalering in verband met de ongewenstverklaring
 
 Voor wat betreft de signalering van de ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in de systemen wordt verwezen naar A3/9.2.     
-### 4  
+### 10.4  
 
 ####Opheffing van de ongewenstverklaring
 
-### 4.1  
+### 10.4.1  
 
 ####Inleiding
 
 Ingevolge [artikel 68, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan slechts op aanvraag worden beslist tot opheffing van de ongewenstverklaring. Het eerste lid van [artikel 6.6 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) heeft betrekking op de termijn waarna de ongewenstverklaring op aanvraag in ieder geval wordt opgeheven. Dit heeft het karakter van een bovengrens. De ongewenstverklaring wordt op verzoek in ieder geval opgeheven indien er sinds de ongewenstverklaring en het vertrek van de vreemdeling tien jaren (een geweldsdelict, een opiumdelict of een misdrijf waartegen een gevangenisstraf van meer dan zes jaren is bedreigd), vijf jaren (ingeval van een ander misdrijf), of één jaar (ingeval van het bij herhaling begaan van een bij de [Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) strafbaar gesteld feit) is verstreken en de vreemdeling gedurende die periode niet aan strafvervolging ter zake van een misdrijf is onderworpen. Bij de vaststelling van de bovengrens is er vanuit gegaan dat na het verstrijken van de termijn het gevaar voor de openbare orde of nationale veiligheid (in aanvaardbare mate) is geweken dan wel dat het algemeen belang van de Staat, dat is gediend met de bescherming van de openbare orde en het voorkomen van wanordelijkheden en strafbare feiten, in redelijkheid dient te wijken voor het persoonlijk belang van de vreemdeling. Indien zwaarwegende belangen zich naar het oordeel van onze Minister verzetten tegen opheffing van de ongewenstverklaring na vijf jaren, bedraagt deze termijn tien jaren (zie [artikel 6.6, tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). Toepassing hiervan vergt een afweging tussen de rechtstreeks in het geding zijnde individuele belangen. In [artikel 6.6, derde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is opgenomen wanneer de termijnen opnieuw aanvangen. Een verzoek om opheffing van een ongewenstverklaring op grond van een gevaar voor de nationale veiligheid kan alleen worden ingewilligd indien de vreemdeling sinds de ongewenstverklaring en het vertrek uit Nederland ten minste tien achtereenvolgende jaren buiten Nederland heeft verbleven. Indien op grond van een ambtsbericht van de AIVD kan worden vastgesteld dat de vreemdeling nog steeds een gevaar vormt voor de nationale veiligheid, dan zal de ongewenstverklaring worden gehandhaafd. In voorkomende gevallen kan ook worden uitgegaan van een ambtsbericht van onder andere (buitenlandse) ministeries of inlichtingendiensten. Er kunnen zich echter (uitzonderlijke) gevallen voordoen waarbij het gevaar voor de openbare orde is geweken of het persoonlijk belang van de vreemdeling dient te prevaleren vóórdat de van toepassing zijnde duur van de ongewenstverklaring is verstreken. Het algemeen belang van de Staat kan alleen wijken voor het persoonlijk belang van de vreemdeling als sprake is van bijzondere feiten en omstandigheden van het individuele geval die bij de totstandkoming van de algemene regel (lees: de bovengrens) niet zijn betrokken. In ieder geval kan het enkele gegeven dat de vreemdeling zich gedurende de ongewenstverklaring niet schuldig heeft gemaakt aan enig strafbaar feit en niet meer in Nederland heeft verbleven, niet worden aangemerkt als een bijzonder feit of omstandigheid.    
-### 4.2  
+### 10.4.2  
 
 ####De vorm van de aanvraag
 
-De aanvraag om opheffing van de ongewenstverklaring wordt ingediend bij de IND, wordt ondertekend en bevat ten minste de naam en het volledige adres van de vreemdeling, de dagtekening en de aanduiding dat verzocht wordt om opheffing van de maatregel van ongewenstverklaring (zie A5/4). De door de ongewenst verklaarde vreemdeling ingediende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd of onbepaalde tijd wordt niet ambtshalve aangemerkt als aanvraag om opheffing van de ongewenstverklaring.    
-### 4.3  
+De aanvraag om opheffing van de ongewenstverklaring wordt ingediend bij de IND, wordt ondertekend en bevat ten minste de naam en het volledige adres van de vreemdeling, de dagtekening en de aanduiding dat verzocht wordt om opheffing van de maatregel van ongewenstverklaring (zie A5/4).    
+### 10.4.3  
 
 ####De inhoud van de aanvraag
 
@@ -3226,10 +3473,10 @@ a. een schriftelijke verklaring van de vreemdeling dat hij sinds zijn vertrek ui
 
 b. een kopie van de documenten voor grensoverschrijding die de vreemdeling sinds zijn ongewenstverklaring heeft gehouden;  
 
-c. een overzicht van de plaatsen waar de vreemdeling sinds zijn ongewenstverklaring heeft verbleven, voorzien van bewijsstukken, en  
+c. een overzicht van de plaatsen waar de vreemdeling sinds zijn ongewenstverklaring heeft verbleven, voorzien van bewijsstukken; en  
 
 d. een schriftelijke verklaring, afgegeven door de terzake bevoegde autoriteiten van het land of de landen waar de vreemdeling sinds zijn ongewenstverklaring heeft verbleven, dat de vreemdeling zich tijdens dat verblijf niet schuldig heeft gemaakt aan misdrijven en niet aan strafvervolging onderworpen is.   Het overleggen van een verklaring als bedoeld onder d kan achterwege blijven indien het overleggen van een dergelijke verklaring niet mogelijk is, bijvoorbeeld vanwege de algemene (oorlogs)situatie of het ontbreken van een registratie in dat land.    
-### 4.4  
+### 10.4.4  
 
 ####Beoordeling van de aanvraag
 
@@ -3277,148 +3524,144 @@ Indien de toets onder a. leidt tot een bevestigend antwoord, kan dit leiden tot 
 ### *Ad c. Toepasselijkheid van artikel 3.105b of artikel 3.105e Vb* 
 
 Indien een ongewenstverklaarde vreemdeling een asielaanvraag indient en aannemelijk maakt dat hij verdragsvluchteling is, dan wel dat hij bij terugkeer een reëel risico loopt om te worden onderworpen aan een behandeling als bedoeld in [artikel 29, eerste lid, onder b, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), moet de ongewenstverklaring worden opgeheven en aan hem op grond van [artikel 3.105b Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), respectievelijk [artikel 3.105e Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een verblijfsvergunning asiel voor bepaalde tijd worden verleend. Dit is slechts dan niet van toepassing als de vreemdeling zich heeft schuldig gemaakt aan openbare-ordeverstoringen als omschreven in voornoemde bepalingen of als artikel 1F Vluchtelingenverdrag van toepassing is. Instandhouding van de ongewenstverklaring, terwijl de vreemdeling op grond van deze bepalingen in aanmerking zou komen voor een verblijfsvergunning asiel voor bepaalde tijd, zou een schending opleveren van Richtlijn 2004/83/EG.    
-### 4.5  
+### 10.4.5  
 
 ####De beslissing op de aanvraag en de signalering
 
-De IND beslist op een aanvraag om opheffing van de ongewenstverklaring. Indien de aanvraag niet wordt ingewilligd kan de vreemdeling of zijn gemachtigde hiertegen bezwaar maken. Indien de aanvraag wordt ingewilligd wordt de signalering “ONGEW” uit de systemen verwijderd (zie A3/9.2).    
-### 4.6  
-
-####Signalering verwijderen
-
-### 5  
+De IND beslist op een aanvraag om opheffing van de ongewenstverklaring. Indien de aanvraag niet wordt ingewilligd kan de vreemdeling of zijn gemachtigde hiertegen bezwaar maken. Indien de aanvraag wordt ingewilligd wordt de signalering “ONGEW” uit de systemen verwijderd (zie A3/9.2).     
+### 10.5  
 
 ####Tijdelijke opheffing van de ongewenstverklaring
 
-### 5.1  
+### 10.5.1  
 
 ####Inleiding
 
 Tijdelijke opheffing van de ongewenstverklaring ingevolge [artikel 6.7 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) kan slechts plaatsvinden in zeer uitzonderlijke en dringende gevallen. Aan de tijdelijke opheffing worden voorwaarden gesteld omtrent de plaats van binnenkomst en de duur van het verblijf in Nederland.    
-### 5.2  
+### 10.5.2  
 
 ####Vorm van het verzoek
 
 Een verzoek tot tijdelijke opheffing van de ongewenstverklaring dient schriftelijk bij de IND te worden ingediend. Het dient afkomstig te zijn van de vreemdeling zelf, van zijn gemachtigde, of van een instantie die stelt een bijzonder belang te hebben bij de komst van betrokkene naar Nederland. In het laatste geval kan bijvoorbeeld worden gedacht aan het OM of een internationaal straftribunaal. Als het verzoek wordt ingediend door het OM dient het te zijn ondertekend door een Hoofdofficier van Justitie. In het geval van bijvoorbeeld een internationaal straftribunaal moet de ondertekening geschieden door iemand van het niveau van een Hoofdofficier van Justitie. Ook een rechter kan een verzoek ondertekenen om tijdelijke opheffing van de ongewenstverklaring.    
-### 5.3  
+### 10.5.3  
 
 ####Inhoud van het verzoek
 
 Het verzoek dient minimaal de volgende gegevens te bevatten: 
 
-– volledige personalia van betrokkene, inclusief eventuele aliassen waarvan hij zich eerder heeft bediend;  
+* volledige personalia van betrokkene, inclusief eventuele aliassen waarvan hij zich eerder heeft bediend;  
 
-– datum en plaats van binnenkomst;  
+* datum en plaats van binnenkomst;  
 
-– vluchtnummers van de heen- en terugvlucht (de vreemdeling dient dus een retourticket te boeken);  
+* vluchtnummers van de heen- en terugvlucht (de vreemdeling dient dus een retourticket te boeken);  
 
-– reden en noodzaak van de overkomst van de vreemdeling;  
+* reden en noodzaak van de overkomst van de vreemdeling;  
 
-– indien de aanvrager niet de vreemdeling of zijn gemachtigde is: het belang van de aanvragende instantie bij overkomst van de vreemdeling;  
+* indien de aanvrager niet de vreemdeling of zijn gemachtigde is: het belang van de aanvragende instantie bij overkomst van de vreemdeling;  
 
-– als de vreemdeling of zijn gemachtigde zelf de aanvrager is: het belang dat de vreemdeling heeft bij zijn komst naar Nederland;  
+* als de vreemdeling of zijn gemachtigde zelf de aanvrager is: het belang dat de vreemdeling heeft bij zijn komst naar Nederland;  
 
-– garanties omtrent het verblijf en de kosten van het verblijf van de vreemdeling.      
-### 5.4  
+* garanties omtrent het verblijf en de kosten van het verblijf van de vreemdeling.      
+### 10.5.4  
 
 ####Beoordeling van het verzoek
 
 In onderstaande, niet uitputtende lijst, zijn verblijfsdoelen weergegeven die kunnen leiden tot tijdelijke opheffing van de ongewenstverklaring. De bewijslast voor het aannemelijk maken van zijn verblijfsdoel ligt bij de vreemdeling. Voor alle omstandigheden geldt dat de vreemdeling na afloop onverwijld Nederland dient te verlaten. 
 
-– Familieomstandigheden: in het geval sprake is van zwaarwegende familieomstandigheden, kan de ongewenstverklaring voor beperkte tijd worden opgeheven om de vreemdeling in staat te stellen naar Nederland te komen. De omstandigheden dienen altijd te worden afgewogen tegen de ernst en actualiteit van de feiten die aan de ongewenstverklaring ten grondslag hebben gelegen.  
+* Familieomstandigheden: in het geval sprake is van zwaarwegende familieomstandigheden, kan de ongewenstverklaring voor beperkte tijd worden opgeheven om de vreemdeling in staat te stellen naar Nederland te komen. De omstandigheden dienen altijd te worden afgewogen tegen de ernst en actualiteit van de feiten die aan de ongewenstverklaring ten grondslag hebben gelegen.  
 
-– Getuigenis in een (straf-)rechtszaak: er moet sprake zijn van een noodzakelijkheid van de overkomst van de vreemdeling naar Nederland. Van een dergelijke noodzaak wordt alleen uitgegaan als er sprake is van een officiële oproep aan de vreemdeling om te getuigen. De opheffing van de ongewenstverklaring dient beperkt te blijven tot de periode die nodig is om betrokkene te laten getuigen.  
+* Getuigenis in een (straf-)rechtszaak: er moet sprake zijn van een noodzakelijkheid van de overkomst van de vreemdeling naar Nederland. Van een dergelijke noodzaak wordt alleen uitgegaan als er sprake is van een officiële oproep aan de vreemdeling om te getuigen. De opheffing van de ongewenstverklaring dient beperkt te blijven tot de periode die nodig is om betrokkene te laten getuigen.  
 
-– Overkomst voor een eigen rechtszaak: in een civiele zaak of een vreemdelingrechtelijke zaak kan in beginsel worden volstaan met de gemachtigde van de vreemdeling. In andere zaken geldt dat, alleen wanneer de rechtbank vindt dat de vreemdeling aanwezig moet zijn of als een gemachtigde niet kan volstaan, overkomst van de vreemdeling noodzakelijk is. De opheffing van de ongewenstverklaring dient beperkt te blijven tot de tijd waarin de aanwezigheid van de vreemdeling bij de zaak is vereist.      
-### 5.5  
+* Overkomst voor een eigen rechtszaak: in een civiele zaak of een vreemdelingrechtelijke zaak kan in beginsel worden volstaan met de gemachtigde van de vreemdeling. In andere zaken geldt dat, alleen wanneer de rechtbank vindt dat de vreemdeling aanwezig moet zijn of als een gemachtigde niet kan volstaan, overkomst van de vreemdeling noodzakelijk is. De opheffing van de ongewenstverklaring dient beperkt te blijven tot de tijd waarin de aanwezigheid van de vreemdeling bij de zaak is vereist.      
+### 10.5.5  
 
 ####Voorwaarden aan de tijdelijke opheffing
 
 Aan de overkomst van de vreemdeling naar Nederland moeten voorwaarden worden gesteld. 
 
-– de overkomst, en dus de opheffing van de ongewenstverklaring, dient te worden beperkt tot de tijd die nodig is voor het doel waarvoor de vreemdeling naar Nederland komt;  
+* De overkomst, en dus de opheffing van de ongewenstverklaring, dient te worden beperkt tot de tijd die nodig is voor het doel waarvoor de vreemdeling naar Nederland komt.  
 
-– binnenkomst in en vertrek uit Nederland dienen te geschieden via een buitengrens. Er moet sprake zijn van een gecontroleerde binnenkomst en uitreis;  
+* Binnenkomst in en vertrek uit Nederland dienen te geschieden via een buitengrens. Er moet sprake zijn van een gecontroleerde binnenkomst en uitreis.  
 
-– de tijdelijke opheffing gaat pas in op het moment van binnenkomst in Nederland en eindigt na verloop van de gestelde termijn.      
-### 5.6  
+* De tijdelijke opheffing gaat pas in op het moment van binnenkomst in Nederland en eindigt na verloop van de gestelde termijn.      
+### 10.5.6  
 
 ####Inreis, toezicht en uitreis
 
 Ten aanzien van een vreemdeling wiens ongewenstverklaring tijdelijk is opgeheven dient sprake te zijn van een gecontroleerde in- en uitreis van het Nederlands grondgebied via een buitengrens. Ook dient tijdens het verblijf van de vreemdeling in Nederland toezicht op hem te worden uitgeoefend. Tijdelijke opheffing van de ongewenstverklaring gaat gepaard met tijdelijke toegangsverlening aan een gesignaleerde vreemdeling op grond van artikel 5, vierde lid, onder c, SGC. Daarbij dient de handelwijze te worden gehanteerd zoals beschreven in A3/9.6.4. De ambtenaren belast met de grensbewaking worden door de IND op de hoogte gesteld van de komst van de vreemdeling naar Nederland. Bij vertrek van de vreemdeling uit Nederland moeten de ambtenaren belast met de grensbewaking de IND van het moment van het daadwerkelijke vertrek op de hoogte stellen. Hoe het toezicht op de vreemdeling tijdens zijn verblijf in Nederland moet worden ingericht, dient per individueel geval te worden bezien. Dit hangt onder meer af van de ernst van de onderliggende feiten die tot de ongewenstverklaring hebben geleid en van de reden waarom de vreemdeling in Nederland is. De toe te passen vorm van toezicht moet worden afgestemd met de instantie die om het verblijf van de vreemdeling in Nederland heeft verzocht. Gedacht kan worden aan een vorm van beperking van bewegingsvrijheid op grond van [artikel 56, eerste lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [artikel 5.1 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).     
-### 6  
+### 10.6  
 
 ####EU-/EER-onderdanen, Zwitserse onderdanen en familieleden
 
-### 6.1  
+### 10.6.1  
 
 ####Inleiding
 
 [Artikel 8.7 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) geeft aan welke vreemdelingen onder welke omstandigheden onder de toepassing van het Gemeenschapsrecht inzake vrij verkeer vallen. Het gaat hier om: 
 
-– de burgers van de Unie en onderdanen van derde landen die familielid zijn van een burger van de Unie die zijn recht op vrij verkeer uitoefent;  
+* de burgers van de Unie en onderdanen van derde landen die familielid zijn van een burger van de Unie die zijn recht op vrij verkeer uitoefent;  
 
-– de onderdanen van de EER en Zwitserland en hun familieleden die, ongeacht hun nationaliteit, rechten inzake vrij verkeer genieten die gelijkwaardig zijn aan die van de burgers van de Unie.   Voor een nadere uitwerking van (de bepalingen die gelden voor) de categorieën vermeld in [artikel 8.7 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) wordt verwezen naar [B10](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) van een vreemdeling genoemd in [artikel 8.7 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) kan met toepassing van [artikel 8.22 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) geschieden om redenen van openbare orde of openbare veiligheid.    
-### 6.2  
+* de onderdanen van de EER en Zwitserland en hun familieleden die, ongeacht hun nationaliteit, rechten inzake vrij verkeer genieten die gelijkwaardig zijn aan die van de burgers van de Unie.   Voor een nadere uitwerking van (de bepalingen die gelden voor) de categorieën vermeld in [artikel 8.7 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) wordt verwezen naar [B10](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md). Ongewenstverklaring ex [artikel 67 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) van een vreemdeling genoemd in [artikel 8.7 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) kan met toepassing van [artikel 8.22 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) geschieden om redenen van openbare orde of openbare veiligheid.    
+### 10.6.2  
 
 ####Ongewenstverklaring
 
 Er dient sprake te zijn van een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving door uitsluitend de persoonlijke gedragingen van de EU-/EER-onderdaan, de Zwitserse onderdaan en zijn familielid als bedoeld in [artikel 8.7, tweede, derde en vierde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) (zie [artikel 8.22, eerste lid, sub a, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)). De om redenen van openbare orde of openbare veiligheid genomen maatregelen moeten in overeenstemming zijn met het evenredigheidsdbeginsel en uitsluitend gebaseerd zijn op het gedrag van de vreemdeling. Strafrechtelijke veroordelingen vormen als zodanig geen reden voor deze maatregelen. Motiveringen die los staan van het individuele geval of die verband houden met algemene preventieve redenen mogen niet worden aangevoerd (zie artikel 27, tweede lid, Richtlijn 2004/38). Het duurzame verblijfsrecht kan met toepassing van [artikel 8.18, onder b, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) worden beëindigd, indien ernstige redenen van openbare orde of openbare veiligheid daartoe nopen. In dat geval kan ook tot ongewenstverklaring worden overgegaan met toepassing van [artikel 8.22, eerste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Het rechtmatig verblijf wordt echter niet beëindigd en de vreemdeling wordt niet ongewenst verklaard, bij een verblijfsduur van ten minste tien jaren of indien de vreemdeling minderjarig is, tenzij verwijdering noodzakelijk is in het belang van het kind (zie [artikel 8.22, derde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [B10](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)). Indien dwingende redenen van openbare veiligheid daartoe nopen, kan echter weer wel tot beëindiging van het rechtmatig verblijf en tot ongewenstverklaring worden overgegaan. Bij de voorbereiding van de beschikking tot beëindiging van het rechtmatig verblijf dienen in overweging te worden genomen (zie artikel 28, eerste lid, Richtlijn 2004/38): 
 
-– de verblijfsduur van de vreemdeling;  
+* de verblijfsduur van de vreemdeling;  
 
-– de leeftijd van de vreemdeling;  
+* de leeftijd van de vreemdeling;  
 
-– de gezondheidstoestand van de vreemdeling;  
+* de gezondheidstoestand van de vreemdeling;  
 
-– de gezinssituatie van de vreemdeling;  
+* de gezinssituatie van de vreemdeling;  
 
-– de economische situatie van de vreemdeling;  
+* de economische situatie van de vreemdeling;  
 
-– de sociale en culturele integratie van de vreemdeling in Nederland;  
+* de sociale en culturele integratie van de vreemdeling in Nederland;  
 
-– de mate waarin de vreemdeling bindingen heeft met zijn land van oorsprong.      
-### 6.3  
+* de mate waarin de vreemdeling bindingen heeft met zijn land van oorsprong.      
+### 10.6.3  
 
 ####Procedurele aspecten ongewenstverklaring
 
 Zie voor de procedurele aspecten met betrekking tot de ongewenstverklaring A5/3.    
-### 6.4  
+### 10.6.4  
 
 ####Opheffing van de ongewenstverklaring
 
-### 6.4.1  
+### 10.6.4.1  
 
 ####Inleiding
 
-De aanvraag tot opheffing van de ongewenstverklaring kan ingevolge het bepaalde in [artikel 8.22, vierde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), slechts worden gedaan 
+De aanvraag tot opheffing van de ongewenstverklaring kan ingevolge het bepaalde in [artikel 8.22, vierde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), slechts worden gedaan: 
 
-– nadat er sinds de verwijdering om redenen van openbare orde of openbare veiligheid een redelijke termijn is verstreken, of  
+* nadat er sinds de verwijdering om redenen van openbare orde of openbare veiligheid een redelijke termijn is verstreken;  
 
-– indien die verwijdering tenminste drie jaren voorafgaand aan de aanvraag heeft plaatsgevonden.   Of er sprake is van het verstrijken van een redelijke termijn is afhankelijk van de individuele omstandigheden. Die termijn kan korter zijn dan drie jaren, maar ook langer. Een aanvraag die ten minste drie jaren na effectuering van de verwijdering is ingediend, leidt derhalve niet automatisch tot opheffing van de ongewenstverklaring.    
-### 6.4.2  
+* of indien die verwijdering tenminste drie jaren voorafgaand aan de aanvraag heeft plaatsgevonden.   Of er sprake is van het verstrijken van een redelijke termijn is afhankelijk van de individuele omstandigheden. Die termijn kan korter zijn dan drie jaren, maar ook langer. Een aanvraag die ten minste drie jaren na effectuering van de verwijdering is ingediend, leidt derhalve niet automatisch tot opheffing van de ongewenstverklaring.    
+### 10.6.4.2  
 
 ####Vorm van de aanvraag
 
 De aanvraag tot opheffing dient te worden ingediend bij de IND. Voor de vormvereisten van de aanvraag wordt verwezen naar A5/4.2 en A5/5.2.    
-### 6.4.3  
+### 10.6.4.3  
 
 ####Inhoud van de aanvraag
 
-Bij de aanvraag voert de vreemdeling argumenten aan om te bewijzen dat er een wijziging in materiële zin is opgetreden in de omstandigheden die het besluit rechtvaardigden om jegens hem een verwijderingsmaatregel uit te vaardigen, een en ander als bedoeld in artikel 32 van Richtlijn 2004/38 van 29 april 2004 betreffende het recht op vrij verkeer en verblijf op het grondgebied van de lidstaten van de burgers van de Unie en hun familieleden, welke op 29 april 2006 is geïmplementeerd. Hierbij dient te worden gedacht aan 
+Bij de aanvraag voert de vreemdeling argumenten aan om te bewijzen dat er een wijziging in materiële zin is opgetreden in de omstandigheden die het besluit rechtvaardigden om jegens hem een verwijderingsmaatregel uit te vaardigen, een en ander als bedoeld in artikel 32 van Richtlijn 2004/38, welke op 29 april 2006 is geïmplementeerd. Hierbij dient te worden gedacht aan: 
 
-– een schriftelijke verklaring van de vreemdeling betreffende de periode waarin hij sinds zijn vertrek uit Nederland en na de ongewenstverklaring buiten Nederland heef verbleven en dat hij zich in die periode niet schuldig heeft gemaakt aan misdrijven en dat hij niet aan strafvervolging onderworpen is;  
+* een schriftelijke verklaring van de vreemdeling betreffende de periode waarin hij sinds zijn vertrek uit Nederland en na de ongewenstverklaring buiten Nederland heef verbleven en dat hij zich in die periode niet schuldig heeft gemaakt aan misdrijven en dat hij niet aan strafvervolging onderworpen is;  
 
-– een kopie van de documenten voor grensoverschrijding die de vreemdeling sinds zijn ongewenstverklaring heeft gehouden;  
+* een kopie van de documenten voor grensoverschrijding die de vreemdeling sinds zijn ongewenstverklaring heeft gehouden;  
 
-– een overzicht van de plaatsen waar de vreemdeling sinds zijn ongewenstverklaring heeft verbleven, voorzien van bewijsstukken, en  
+* een overzicht van de plaatsen waar de vreemdeling sinds zijn ongewenstverklaring heeft verbleven, voorzien van bewijsstukken; en  
 
-– een schriftelijke verklaring, afgegeven door de terzake bevoegde autoriteiten van het land of de landen waar de vreemdeling sinds zijn ongewenstverklaring heeft verbleven, dat de vreemdeling zich tijdens dat verblijf niet schuldig heeft gemaakt aan misdrijven en niet aan strafvervolging onderworpen is.   Het kan voorkomen dat een vreemdeling in een individueel geval aanvullende gegevens en bescheiden zal moeten overleggen, ofwel deze eigener beweging overlegt. Het staat de vreemdeling uiteraard vrij andere dan de hierboven genoemde gegevens en bescheiden te overleggen ten bewijze van het feit dat er een wijziging in materiële zin is opgetreden in de omstandigheden die het besluit rechtvaardigden om jegens hem een verwijderingsmaatregel uit te vaardigen.    
-### 6.4.4  
+* een schriftelijke verklaring, afgegeven door de terzake bevoegde autoriteiten van het land of de landen waar de vreemdeling sinds zijn ongewenstverklaring heeft verbleven, dat de vreemdeling zich tijdens dat verblijf niet schuldig heeft gemaakt aan misdrijven en niet aan strafvervolging onderworpen is.   Het kan voorkomen dat een vreemdeling in een individueel geval aanvullende gegevens en bescheiden zal moeten overleggen, ofwel deze eigener beweging overlegt. Het staat de vreemdeling uiteraard vrij andere dan de hierboven genoemde gegevens en bescheiden te overleggen ten bewijze van het feit dat er een wijziging in materiële zin is opgetreden in de omstandigheden die het besluit rechtvaardigden om jegens hem een verwijderingsmaatregel uit te vaardigen.    
+### 10.6.4.4  
 
 ####De beslissing op de aanvraag
 
-Zie voor de algemeen toepasselijke regels ter zake van de beslissing op de aanvraag A5/4.4. De beschikking op de aanvraag tot opheffing van de ongewenstverklaring moet worden gegeven uiterlijk binnen zes maanden na de datum van indiening van de aanvraag (zie [artikel 8.22, vijfde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)).       
+Zie voor de algemeen toepasselijke regels ter zake van de beslissing op de aanvraag A5/4.4. De beschikking op de aanvraag tot opheffing van de ongewenstverklaring moet worden gegeven uiterlijk binnen zes maanden na de datum van indiening van de aanvraag (zie [artikel 8.22, vijfde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)).        
 ### 6  
 
 ####Vrijheidsbeperkende en vrijheidsontnemende maatregelen
@@ -4428,17 +4671,9 @@ Dit formulier is bedoeld voor vreemdelingen wier vertrek uit Nederland, met het 
 ![251502](http://wetten.overheid.nl/Illustration/251502)
 ![251502](http://wetten.overheid.nl/Illustration/251502)
 
-### Model  M55-A  
-
-####Kennisgeving aangifte/verlenen medewerking aan strafproces mensenhandel gedurende asielprocedure
-
-![246956](http://wetten.overheid.nl/Illustration/246956)
-![246956](http://wetten.overheid.nl/Illustration/246956)
-![246956](http://wetten.overheid.nl/Illustration/246956)
-
 ### Model  M56  
 
-####Voorblad aanvraag verblijfsvergunning door een inbewaringgestelde vreemdeling
+####Voorblad aanvraag verblijfsvergunning door een in bewaring gestelde vreemdeling
 
 ![250022](http://wetten.overheid.nl/Illustration/250022)
 
@@ -4587,7 +4822,6 @@ Dit formulier is bedoeld voor vreemdelingen wier vertrek uit Nederland, met het 
 ####Aanwijzing ingevolge [artikel 55](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en/ of meldplicht ingevolge [artikel 54 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)
 
 ![250024](http://wetten.overheid.nl/Illustration/250024)
-![250024](http://wetten.overheid.nl/Illustration/250024)
 
 ### Model  M117-C  
 
@@ -4614,6 +4848,7 @@ Dit formulier is bedoeld voor vreemdelingen wier vertrek uit Nederland, met het 
 
 ####(Voortgangs) Gegevens met betrekking tot uitzetting
 
+![244875](http://wetten.overheid.nl/Illustration/244875)
 ![244875](http://wetten.overheid.nl/Illustration/244875)
 ![244875](http://wetten.overheid.nl/Illustration/244875)
 

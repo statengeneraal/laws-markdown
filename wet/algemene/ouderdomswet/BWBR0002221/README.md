@@ -144,7 +144,7 @@ b. de eventueel in dat verdrag of besluit aanwezige beperkingen.
 
 1.  Geen recht op ouderdomspensioen ontstaat voor de pensioengerechtigde, aan wie rechtens zijn vrijheid is ontnomen indien de dag waarop het ouderdomspensioen zou ingaan dan wel de dag na afloop van de toepassing van artikel 8c, eerste lid, met betrekking tot dat recht op ouderdomspensioen, is gelegen in de periode dat hem rechtens zijn vrijheid is ontnomen.   
 2.  Het recht op ouderdomspensioen eindigt, indien de pensioengerechtigde rechtens zijn vrijheid is ontnomen gedurende ten minste een maand.   
-3.  De persoon die op grond van het eerste of tweede lid geen recht op ouderdomspensioen heeft, heeft met ingang van de eerste dag van de maand waarin hij in vrijheid is gesteld met inachtneming van de bepalingen van deze wet recht op ouderdomspensioen.   
+3.  De persoon die op grond van het eerste of tweede lid geen recht op ouderdomspensioen heeft, heeft met ingang van de dag waarop hij in vrijheid is gesteld met inachtneming van de bepalingen van deze wet recht op ouderdomspensioen.   
 4.  Voor de toepassing van het tweede lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.   
 5.  Het eerste en tweede lid zijn niet van toepassing en het derde lid is van overeenkomstige toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.   
 6.  Voor de pensioengerechtigde die op de dag voorafgaande aan de vrijheidsontneming geen recht heeft op ouderdomspensioen op grond van artikel 8c, tweede lid, eindigt het recht op ouderdomspensioen, in afwijking van het tweede lid, vanaf de dag dat de vrijheidsontneming ingaat.   
@@ -203,11 +203,20 @@ b. de eventueel in dat verdrag of besluit aanwezige beperkingen.
 
 ### Artikel  11  
 
-Voor de toepassing van de artikelen 8 en 10 wordt van het inkomen uit arbeid buiten aanmerking gelaten: 
+1.  Voor de toepassing van de artikelen 8 en 10 wordt van het inkomen uit arbeid buiten aanmerking gelaten: 
 
 1°. een bedrag, gelijk aan 15% van het bruto-minimumloon; alsmede  
 
-2°. voor zover het inkomen uit arbeid meer bedraagt dan het onder 1° bedoelde bedrag, een derde gedeelte van dat meerdere.    
+2°. voor zover het inkomen uit arbeid meer bedraagt dan het onder 1° bedoelde bedrag, een derde gedeelte van dat meerdere.     
+2.  In afwijking van het eerste lid wordt in de maand waarin de pensioengerechtigde of de echtgenoot van de pensioengerechtigde de 65-jarige leeftijd heeft bereikt, het bruto-minimumloon, bedoeld in het eerste lid, onder 1°, vermenigvuldigd met de factor X/Y, waarbij: 
+
+– X staat voor: 
+
+a. het aantal dagen gelegen in de maand waarin de pensioengerechtigde de 65-jarige leeftijd bereikt, vanaf de dag dat de pensioengerechtigde deze leeftijd heeft bereikt, of  
+
+b. het aantal dagen gelegen in de maand waarin de echtgenoot van de pensioengerechtigde de 65-jarige leeftijd bereikt, voordat de echtgenoot deze leeftijd heeft bereikt, en    
+
+– Y staat voor het aantal dagen van de maand waarin de pensioengerechtigde of de echtgenoot van de pensioengerechtigde de 65-jarige leeftijd heeft bereikt.     
 
 ### Artikel  12  
 
@@ -258,8 +267,8 @@ b. voor elke jaarpremie op grond van de [Wet financiering sociale verzekeringen]
 
 ### Artikel  16  
 
-1.  Het ouderdomspensioen gaat in op de eerste dag der maand, waarin de belanghebbende aan de voorwaarden voor het recht op ouderdomspensioen voldoet.   
-2.  In afwijking van het bepaalde in het eerste lid kan een ouderdomspensioen niet vroeger ingaan dan een jaar vóór de eerste dag der maand, waarin de aanvraag werd ingediend of waarin ambtshalve toekenning plaatsvond. De Sociale verzekeringsbank kan voor bijzondere gevallen van het bepaalde in de vorige volzin afwijken.   
+1.  Het ouderdomspensioen gaat in op de dag waarop de belanghebbende aan de voorwaarden voor het recht op ouderdomspensioen voldoet.   
+2.  In afwijking van het bepaalde in het eerste lid kan een ouderdomspensioen niet vroeger ingaan dan een jaar vóór de dag waarop de aanvraag werd ingediend of vóór de dag waarop ambtshalve toekenning plaatsvond. De Sociale verzekeringsbank kan voor bijzondere gevallen van het bepaalde in de vorige volzin afwijken.   
 
 ### Artikel  17  
 
@@ -316,7 +325,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../we
 ### Artikel  17i  
 
 1.  De Sociale verzekeringsbank verrekent de bestuurlijke boete met het ouderdomspensioen dat degene aan wie een bestuurlijke boete is opgelegd op grond van deze wet ontvangt.   
-2.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md).   
+2.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md).   
 3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 4.  Zolang de belanghebbende zijn verplichting, bedoeld in artikel 17c, vierde lid, niet of niet behoorlijk nakomt: 
 

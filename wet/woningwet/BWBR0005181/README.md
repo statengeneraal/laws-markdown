@@ -22,7 +22,7 @@ b. slopen: het afbreken van een bouwwerk of een gedeelte daarvan;
 
 c. gebouw: elk bouwwerk, dat een voor mensen toegankelijke overdekte geheel of gedeeltelijk met wanden omsloten ruimte vormt;  
 
-d. omgevingsvergunning: vergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+d. omgevingsvergunning: omgevingsvergunning als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
 e. bevoegd gezag: het bestuursorgaan, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dan wel, bij het ontbreken van een bestuursorgaan als bedoeld in dat artikellid, burgemeester en wethouders;  
 
@@ -42,12 +42,13 @@ l. toegelaten instelling: instelling als bedoeld in artikel 70;
 
 m. fonds: Centraal Fonds voor de Volkshuisvesting, bedoeld in artikel 71;  
 
-n. welstandscommissie: door de gemeenteraad benoemde onafhankelijke commissie die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning is ingediend, in strijd is met redelijke eisen van welstand;  
+n. welstandscommissie: door de gemeenteraad benoemde onafhankelijke commissie die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning voor het bouwen van dat bouwwerk is ingediend, in strijd is met redelijke eisen van welstand;  
 
-o. stadsbouwmeester: door de gemeenteraad benoemde onafhankelijke deskundige die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning is ingediend, in strijd is met redelijke eisen van welstand;  
+o. stadsbouwmeester: door de gemeenteraad benoemde onafhankelijke deskundige die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning voor het bouwen van dat bouwwerk is ingediend, in strijd is met redelijke eisen van welstand;  
 
 p. stedelijke vernieuwing: op stedelijk gebied gerichte inspanningen die strekken tot verbetering van de leefbaarheid en veiligheid, bevordering van een duurzame ontwikkeling en verbetering van de woon- en milieukwaliteit, versterking van het economisch draagvlak, versterking van culturele kwaliteiten, bevordering van de sociale samenhang, verbetering van de bereikbaarheid, verhoging van de kwaliteit van de openbare ruimte of anderszins tot structurele kwaliteitsverhoging van dat stedelijk gebied.     
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder woning mede verstaan een afzonderlijk gedeelte van een gebouw, welk gedeelte tot bewoning is bestemd.   
+3.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder bouwwerk mede verstaan de daarvan deel uitmakende installaties.   
 
 ### Artikel  1a  
 
@@ -60,34 +61,50 @@ p. stedelijke vernieuwing: op stedelijk gebied gerichte inspanningen die strekke
 
 ### Afdeling  1  
 
-####Voorschriften betreffende het bouwen en de staat van bestaande bouwwerken
+####Voorschriften betreffende het bouwen, de staat van bestaande bouwwerken, het gebruik en het slopen
 
 ### Artikel  1b  
 
-1.  Tenzij een omgevingsvergunning het uitdrukkelijk toestaat, is het verboden: 
-
-a. een gebouw te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 2, eerste lid;  
-
-b. een bouwwerk, niet zijnde een gebouw, te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 2, derde lid.     
-2.  Het is verboden: 
-
-a. een bestaand gebouw in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat gebouw van toepassing zijnde voorschriften, bedoeld in artikel 2, tweede lid;  
-
-b. een bestaand bouwwerk, niet zijnde een gebouw, in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat bouwwerk van toepassing zijnde voorschriften, bedoeld in artikel 2, vierde lid.     
-3.  Tenzij een omgevingsvergunning het uitdrukkelijk toestaat, is het verboden een gebouw, bouwwerk, niet zijnde een gebouw, dan wel deel daarvan, in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste lid.   
+1.  Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 2, eerste lid, aanhef en onderdeel a, tweede lid, aanhef en onderdeel d, derde en vierde lid.   
+2.  Het is verboden een bestaand bouwwerk, open erf of terrein in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat bouwwerk, open erf of terrein van toepassing zijnde voorschriften, bedoeld in artikel 2, eerste lid, aanhef en onderdeel b, tweede lid, aanhef en onderdeel a, en vierde lid.   
+3.  Het is verboden een bouwwerk, open erf of terrein in gebruik te nemen, te gebruiken of te laten gebruiken, anders dan in overeenstemming met de op die ingebruikneming of dat gebruik van toepassing zijnde voorschriften, bedoeld in artikel 2, eerste lid, aanhef en onderdeel c, tweede lid, aanhef en onderdeel b, derde en vierde lid.   
+4.  Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk, dan wel deel daarvan, in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste lid.   
+5.  Het is verboden te slopen voor zover daarbij niet wordt voldaan aan de op dat slopen van toepassing zijnde voorschriften, bedoeld in artikel 2, tweede lid, aanhef en onderdelen c en d, en derde lid.   
 
 ### Artikel  2  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden uit het oogpunt van veiligheid, gezondheid, bruikbaarheid, energiezuinigheid en milieu technische voorschriften gegeven omtrent het bouwen van woningen en andere gebouwen.   
-2.  Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid, gezondheid en bruikbaarheid voorschriften gegeven omtrent de staat van bestaande woningen en van bestaande andere gebouwen.   
-3.  Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid, gezondheid en milieu technische voorschriften gegeven omtrent het bouwen van bouwwerken, geen gebouw zijnde.   
-4.  Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid en gezondheid technische voorschriften gegeven omtrent de staat van bestaande bouwwerken, geen gebouw zijnde.   
-5.  Aan een voorschrift omtrent het bouwen van een bouwwerk kunnen voorschriften worden verbonden.   
-6.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+1.  Bij of krachtens algemene maatregel van bestuur worden technische voorschriften gegeven omtrent: 
+
+a. het bouwen van een bouwwerk;  
+
+b. de staat van een bestaand bouwwerk;  
+
+c. het in gebruik nemen of gebruiken van een bouwwerk.     
+2.  Bij of krachtens algemene maatregel van bestuur kunnen technische voorschriften worden gegeven omtrent: 
+
+a. de staat van een open erf of terrein;  
+
+b. het in gebruik nemen of gebruiken van een open erf of terrein;  
+
+c. het slopen;  
+
+d. het uitvoeren van bouw- of sloopwerkzaamheden.     
+3.  Bij of krachtens algemene maatregel van bestuur worden omtrent de onderwerpen, bedoeld in het eerste lid, onderdeel c, en het tweede lid, onderdelen c en d, andere dan technische voorschriften gegeven. Tot de voorschriften omtrent het onderwerp, bedoeld in het eerste lid, onderdeel c, behoren in ieder geval: 
+
+a. voorschriften inhoudende een verbod tot ingebruikneming of gebruik zonder het doen van een gebruiksmelding aan het bevoegd gezag;  
+
+b. voorschriften inhoudende de bevoegdheid om bij de bouwverordening, bedoeld in artikel 8, af te wijken van het aantal personen vanaf waar bij het bieden van nachtverblijf aan die personen krachtens [artikel 2.1, eerste lid, onder d, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een vergunning voor het in gebruik nemen of gebruiken van een bouwwerk is vereist.   Tot de voorschriften omtrent de onderwerpen, bedoeld in het tweede lid, onderdelen c en d, behoren in ieder geval: 
+
+a. voorschriften inhoudende de verplichting om het voornemen te slopen aan het bevoegd gezag te melden;  
+
+b. voorschriften inhoudende de verplichting te voldoen aan aanvullende voorschriften die door het bevoegd gezag bij beschikking kunnen worden gegeven met het oog op de lokale situatie.   Tot de voorschriften omtrent de onderwerpen, bedoeld in het eerste lid, onderdeel c, en het tweede lid, onderdeel d, kunnen behoren voorschriften omtrent de beschikbaarheid van gegevens en bescheiden. Tot de voorschriften omtrent het onderwerp, bedoeld in het tweede lid, onderdeel d, kunnen daarnaast behoren voorschriften inhoudende de verplichting om de feitelijke aanvang van het uitvoeren van bouwwerkzaamheden, voor zover daarvoor een omgevingsvergunning is verleend, of sloopwerkzaamheden aan het bevoegd gezag te melden.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen omtrent de onderwerpen, bedoeld in het eerste lid, onderdeel a, en het tweede lid, onderdelen a en b, andere dan technische voorschriften worden gegeven.   
+5.  De voorschriften, bedoeld in het eerste, tweede, derde en vierde lid, kunnen uitsluitend worden gegeven vanuit het oogpunt van veiligheid, gezondheid, bruikbaarheid, energiezuinigheid of milieu.   
+6.  De voordracht voor een krachtens het eerste, tweede, derde of vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  3  
 
-Bij of krachtens de in artikel 2 bedoelde algemene maatregel van bestuur kan worden verwezen naar: 
+Bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, eerste of tweede lid, kan worden verwezen naar: 
 
 a. normen of delen van normen en  
 
@@ -99,15 +116,16 @@ Indien een bouwwerk gedeeltelijk wordt vernieuwd, veranderd of vergroot, zijn de
 
 ### Artikel  5  
 
-Op de voordracht van Onze Minister wordt de in artikel 2 bedoelde algemene maatregel van bestuur in overeenstemming gebracht met technische voorschriften omtrent het bouwen, die zijn of worden gegeven bij of krachtens een andere algemene maatregel van bestuur.  
+Op de voordracht van Onze Minister wordt een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid, in overeenstemming gebracht met technische voorschriften omtrent het bouwen van een bouwwerk, die zijn of worden gegeven bij of krachtens een andere algemene maatregel van bestuur.  
 
 ### Artikel  6  
 
-Bij of krachtens de in artikel 2 bedoelde algemene maatregel van bestuur kan worden bepaald dat van een daarbij gegeven voorschrift bij een omgevingsvergunning kan worden afgeweken tot een bij dat voorschrift aangegeven niveau of, indien sprake is van het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk dat tevens kan worden aangemerkt als een activiteit met betrekking tot een monument als bedoeld in [artikel 2.1, eerste lid, onder f](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dan wel [artikel 2.2, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), in het belang van de monumentenzorg.  
+1.  Bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid, kan worden bepaald dat van een daarbij gegeven voorschrift omtrent het bouwen van een bouwwerk bij een omgevingsvergunning voor het bouwen van een bouwwerk kan worden afgeweken tot een bij dat voorschrift aangegeven niveau of, indien sprake is van het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk dat tevens kan worden aangemerkt als een activiteit met betrekking tot een monument als bedoeld in [artikel 2.1, eerste lid, onder f](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dan wel [artikel 2.2, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), in het belang van de monumentenzorg.   
+2.  Het bevoegd gezag kan van een bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, tweede of derde lid, gegeven voorschrift omtrent het slopen of het uitvoeren van bouw- of sloopwerkzaamheden ontheffing verlenen, voor zover dat bij of krachtens die algemene maatregel van bestuur is toegestaan.   
 
 ### Artikel  7  
 
-1.  Onze Minister kan op verzoek van een aanvrager om een omgevingsvergunning in bijzondere gevallen ontheffing verlenen van de bij of krachtens de in artikel 2 bedoelde algemene maatregel van bestuur gegeven voorschriften, met dien verstande dat, indien het verzoek betrekking heeft op voorschriften als bedoeld in artikel 5, hij de ontheffing slechts kan verlenen in overeenstemming met het bij of krachtens de desbetreffende wet daartoe bevoegd verklaarde gezag.   
+1.  Onze Minister kan op verzoek van een aanvrager om een omgevingsvergunning voor het bouwen van een bouwwerk in bijzondere gevallen ontheffing verlenen van de bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid, gegeven voorschriften omtrent bouwen, met dien verstande dat, indien het verzoek betrekking heeft op voorschriften als bedoeld in artikel 5, hij de ontheffing slechts kan verlenen in overeenstemming met het bij of krachtens de desbetreffende wet daartoe bevoegd verklaarde gezag.   
 2.  Een verzoek als bedoeld in het eerste lid, gaat vergezeld van een verklaring van het bevoegd gezag, dat het de desbetreffende omgevingsvergunning zal verlenen indien ontheffing als bedoeld in dat lid, is verkregen.   
 3.  Aan een ontheffing als bedoeld in het eerste lid, mogen slechts voorwaarden worden verbonden ter bescherming van de belangen, waarop de voorschriften, waarvan ontheffing wordt verleend, het oog hebben.   
 4.  Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking van de beslissing op een verzoek als bedoeld in het eerste lid, doet Onze Minister daarvan mededeling aan het bevoegd gezag.   
@@ -118,7 +136,7 @@ Bij of krachtens de in artikel 2 bedoelde algemene maatregel van bestuur kan wor
 
 ### Artikel  7a  
 
-1.  Onze Minister kan met het oog op duurzaam bouwen in een bijzonder geval het bevoegd gezag toestaan door hem voorgestelde nadere voorschriften op te leggen ter voldoening aan de technische voorschriften, gegeven bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 2. Dit toestaan kan ook betrekking hebben op door het bevoegd gezag voorgestelde, uit het oogpunt van milieu op te leggen technische voorschriften, waarin de algemene maatregel van bestuur, bedoeld in artikel 2, niet voorziet. Een verzoek van het bevoegd gezag geschiedt mede aan de hand van een door Onze Minister ter beschikking gesteld formulier. Het verzoek, alsmede de daarbij voorgestelde op te leggen voorschriften zijn gemotiveerd en van een toelichting voorzien.   
+1.  Onze Minister kan met het oog op duurzaam bouwen in een bijzonder geval het bevoegd gezag toestaan door hem voorgestelde nadere voorschriften op te leggen ter voldoening aan de technische voorschriften omtrent bouwen, gegeven bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid. Dit toestaan kan ook betrekking hebben op door het bevoegd gezag voorgestelde, uit het oogpunt van milieu op te leggen technische voorschriften omtrent bouwen, waarin een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid, niet voorziet. Een verzoek van het bevoegd gezag geschiedt mede aan de hand van een door Onze Minister ter beschikking gesteld formulier. Het verzoek, alsmede de daarbij voorgestelde op te leggen voorschriften zijn gemotiveerd en van een toelichting voorzien.   
 2.  Onze Minister beslist binnen acht weken na ontvangst van een verzoek om toestemming. Hij kan die beslissing eenmaal voor ten hoogste vier weken verdagen. Indien toestemming wordt verleend, geldt die toestemming alleen voor het geval waarop het verzoek betrekking heeft. Aan een toestemming kunnen voorschriften worden verbonden.   
 3.  De toestemming op een verzoek van het bevoegd gezag is van rechtswege verleend indien Onze Minister: 
 
@@ -134,73 +152,30 @@ c. niet binnen de termijn waarmee de beslissing op het verzoek is verdaagd, een 
 
 ### Artikel  7b  
 
-1.  Tenzij een omgevingsvergunning het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede lid, onderdelen c en e, en vijfde lid, met dien verstande dat voorschriften van stedenbouwkundige aard als bedoeld in dat vijfde lid niet van toepassing zijn op het bouwen waarvoor op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geen omgevingsvergunning is vereist.   
-2.  Het is verboden: 
-
-a. een bouwwerk te gebruiken of te laten gebruiken, anders dan in overeenstemming met de op dat gebruik van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede lid, onderdeel a;  
-
-b. een open erf of terrein te gebruiken of te laten gebruiken, anders dan in overeenstemming met de op dat gebruik van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede lid, onderdeel b;  
-
-c. een open erf of terrein in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat open erf of terrein van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede lid, onderdeel b;  
-
-d. te slopen, tenzij daarbij wordt voldaan aan de op dat slopen van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede lid, onderdeel d en g.     
-3.  Een verbod als bedoeld in het eerste of tweede lid heeft mede betrekking op het niet voldoen aan de voorschriften met betrekking tot het bouwen, het gebruik, de staat of het slopen van een bouwwerk, bedoeld in: 
+1.  Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede en vijfde lid, met dien verstande dat voorschriften van stedenbouwkundige aard als bedoeld in dat vijfde lid niet van toepassing zijn op het bouwen waarvoor op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geen omgevingsvergunning is vereist.   
+2.  Het verbod, bedoeld in het eerste lid, heeft mede betrekking op het niet voldoen aan de voorschriften met betrekking tot het bouwen, van een bouwwerk, bedoeld in: 
 
 a. artikel 8, zevende lid, voor zover deze voorschriften in de bouwverordening zijn opgenomen;  
 
 b. artikel 8, achtste lid, indien en voor zover deze voorschriften op grond van het negende lid van dat artikel rechtstreeks gelden.     
-4.  Tenzij een omgevingsvergunning het uitdrukkelijk toestaat, is het verboden een bouwwerk dan wel deel daarvan in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste of derde lid.   
+3.  Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk dan wel deel daarvan in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste of tweede lid.   
 
 ### Artikel  8  
 
 1.  De gemeenteraad stelt een bouwverordening vast, die uitsluitend de voorschriften, bedoeld in het tweede tot en met zesde lid, bevat.   
-2.  De bouwverordening bevat voorschriften omtrent: 
-
-a. het gebruik van woningen, andere gebouwen en bouwwerken, geen gebouwen zijnde, waaronder in elk geval zijn begrepen voorschriften met betrekking tot: 
-
-1°. de beschikbaarheid van drinkwater en energie;  
-
-2°. de reinheid;  
-
-3°. het bestrijden van schadelijk of hinderlijk gedierte;  
-
-4°. de brandveiligheid en  
-
-5°. voor zover het woningen betreft, het aantal personen dat in een dergelijk gebouw mag wonen;    
-
-b. het gebruik van open erven en terreinen en de staat, waarin deze zich moeten bevinden;  
-
-c. het tegengaan van het bouwen van een bouwwerk op verontreinigde bodem;  
-
-d. het slopen, waaronder begrepen voorschriften omtrent selectief slopen;  
-
-e. het uitvoeren van bouw- of sloopwerkzaamheden met betrekking tot een bouwwerk, waaronder in elk geval zijn begrepen voorschriften met betrekking tot: 
-
-1°. de veiligheid op de bouw- of sloopplaats;  
-
-2°. de tijdstippen waarop met het bouwen of het slopen mag worden en wordt begonnen;  
-
-3°. de tijdstippen waarop met het bouwen of het slopen moet zijn begonnen en het bouwen of het slopen moet zijn beëindigd, alsmede de wijze van gereedmelding van het bouwen of het slopen;  
-
-4°. de termijn gedurende welke het bouwen of het slopen ten hoogste mag stilliggen;  
-
-5°. bescheiden die op de bouw- of sloopplaats aanwezig moeten zijn;  
-
-6°. opmetingen, ontgravingen, opbrekingen en onderzoekingen, die met betrekking tot het bouwen of het slopen noodzakelijk zijn en  
-
-7°. het tijdstip en de wijze van overleggen van kwaliteitsverklaringen en van nadere gegevens met betrekking tot de installaties voor drinkwater en energie.       
-3.  De voorschriften, bedoeld in het tweede lid, onderdeel c, hebben uitsluitend betrekking op bouwwerken: 
+2.  De bouwverordening bevat voorschriften omtrent het tegengaan van het bouwen van een bouwwerk op verontreinigde bodem.   
+3.  De voorschriften, bedoeld in het tweede lid, hebben uitsluitend betrekking op bouwwerken: 
 
 a. waarin voortdurend of nagenoeg voortdurend mensen zullen verblijven,  
 
-b. voor het bouwen waarvan een omgevingsvergunning is vereist, met uitzondering van bouwwerken die naar aard en omvang gelijk zijn aan een bouwwerk voor het bouwen waarvan op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geen omgevingsvergunning is vereist, en  
+b. voor het bouwen waarvan een omgevingsvergunning is vereist, met uitzondering van bouwwerken die naar aard en omvang gelijk zijn aan een bouwwerk waarvoor op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een dergelijke vergunning niet is vereist, en  
 
 c. 
 
 1°. die de grond raken, of  
 
 2°. ten aanzien waarvan het bestaande, niet-wederrechtelijke gebruik niet wordt gehandhaafd.       
-4.  De voorschriften, bedoeld in het tweede lid, onderdeel c, hebben in elk geval betrekking op: 
+4.  De voorschriften, bedoeld in het tweede lid, hebben in elk geval betrekking op: 
 
 a. het verrichten van onderzoek naar aard en mate van verontreiniging van de bodem;  
 
@@ -241,7 +216,7 @@ De in de bouwverordening vervatte voorschriften omtrent de rooilijnen en de plaa
 
 1.  Het uiterlijk van: 
 
-a. een bestaand bouwwerk, met uitzondering van een bouwwerk, niet zijnde een seizoensgebonden bouwwerk, waarvoor in de omgevingsvergunning is bepaald dat dit slechts voor een bepaalde periode in stand mag worden gehouden;  
+a. een bestaand bouwwerk, met uitzondering van een bouwwerk, niet zijnde een seizoensgebonden bouwwerk, waarvoor in de omgevingsvergunning voor het bouwen van dat bouwwerk is bepaald dat dit slechts voor een bepaalde periode in stand mag worden gehouden;  
 
 b. een te bouwen bouwwerk voor het bouwen waarvan op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geen omgevingsvergunning is vereist,   mag niet in ernstige mate in strijd zijn met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in artikel 12a, eerste lid, onderdeel b.   
 2.  De gemeenteraad kan besluiten dat, in afwijking van het eerste lid en [artikel 2.10, eerste lid, onder d, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor een daarbij aan te wijzen gebied of voor een of meer daarbij aan te wijzen categorieën van bestaande en te bouwen bouwwerken geen redelijke eisen van welstand van toepassing zijn.   
@@ -252,13 +227,13 @@ b. een te bouwen bouwwerk voor het bouwen waarvan op grond van [artikel 2.1, der
 
 1.  De gemeenteraad stelt een welstandsnota vast, inhoudende beleidsregels waarin in ieder geval de criteria zijn opgenomen die het bevoegd gezag toepast bij de beoordeling: 
 
-a. of het uiterlijk en de plaatsing van een bouwwerk waarop de aanvraag om een omgevingsvergunning betrekking heeft, zowel op zichzelf beschouwd, als in verband met de omgeving of de te verwachten ontwikkeling daarvan, in strijd zijn met redelijke eisen van welstand;  
+a. of het uiterlijk en de plaatsing van een bouwwerk waarop de aanvraag om een omgevingsvergunning voor het bouwen van een bouwwerk betrekking heeft, zowel op zichzelf beschouwd, als in verband met de omgeving of de te verwachten ontwikkeling daarvan, in strijd zijn met redelijke eisen van welstand;  
 
 b. of het uiterlijk van een bestaand bouwwerk in ernstige mate in strijd is met redelijke eisen van welstand.     
 2.  Artikel 12, vierde lid, is van overeenkomstige toepassing op de vaststelling of wijziging van de welstandsnota.   
 3.  De criteria, bedoeld in het eerste lid: 
 
-a. hebben geen betrekking op bouwwerken, waarvoor in de omgevingsvergunning wordt bepaald dat deze slechts voor een bepaalde periode in stand mogen worden gehouden, met uitzondering van seizoensgebonden bouwwerken;  
+a. hebben geen betrekking op bouwwerken, waarvoor in de omgevingsvergunning voor het bouwen van die bouwwerken wordt bepaald dat deze slechts voor een bepaalde periode in stand mogen worden gehouden, met uitzondering van seizoensgebonden bouwwerken;  
 
 b. zijn zoveel mogelijk toegesneden op de onderscheiden categorieën bouwwerken;  
 
@@ -301,7 +276,7 @@ c. een schatting van de benodigde jaarlijkse reservering voor andere dan de gewo
 
 ### Artikel  13  
 
-Het bevoegd gezag kan degene die als eigenaar van een gebouw of een bouwwerk, niet zijnde een gebouw, dan wel uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen, verplichten tot het binnen een door het bevoegd gezag te bepalen termijn treffen van voorzieningen waardoor de staat van dat gebouw of dat bouwwerk komt te liggen op een niveau dat hoger is dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, tweede lid, onderdeel a, respectievelijk b, zonder dat dit hoger komt te liggen dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, eerste lid, onderdeel a, respectievelijk b, mits die voorzieningen: 
+Het bevoegd gezag kan degene die als eigenaar van een gebouw of een bouwwerk, niet zijnde een gebouw, dan wel uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen, verplichten tot het binnen een door het bevoegd gezag te bepalen termijn treffen van voorzieningen waardoor de staat van dat gebouw of dat bouwwerk komt te liggen op een niveau dat hoger is dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, tweede lid, zonder dat dit hoger komt te liggen dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, eerste lid, mits die voorzieningen: 
 
 a. onderdeel zijn van een onderhoudsplan voor een gebouw als bedoeld in artikel 12d, eerste lid, en niet binnen de daarvoor in het onderhoudsplan gestelde termijn zijn uitgevoerd, dan wel  
 
@@ -834,7 +809,7 @@ b. artikel 70c, tweede lid, eerste volzin, voorzover die algemene maatregel van 
 
 ### Artikel  122  
 
-De gemeente kan geen rechtshandelingen naar burgerlijk recht verrichten ten aanzien van de onderwerpen waarin bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 2, is voorzien of die met betrekking tot het bouwen bij of krachtens de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn geregeld.  
+De gemeente kan geen rechtshandelingen naar burgerlijk recht verrichten ten aanzien van de onderwerpen waarin bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, is voorzien of die met betrekking tot het bouwen bij of krachtens de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn geregeld.  
 
 ### Artikel  124  
 

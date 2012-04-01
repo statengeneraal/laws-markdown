@@ -15,15 +15,16 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Behoudens het in Titel Va van deze wet bepaalde is het verboden: 
+1.  Behoudens het in Titel Va van deze wet bepaalde is het verboden: 
 
 a. gelegenheid te geven om mede te dingen naar prijzen of premies, indien de aanwijzing der winnaars geschiedt door enige kansbepaling waarop de deelnemers in het algemeen geen overwegende invloed kunnen uitoefenen, tenzij daarvoor ingevolge deze wet vergunning is verleend;  
 
-b. de deelneming hetzij aan een onder *a* bedoelde gelegenheid, gegeven zonder vergunning ingevolge deze wet, hetzij aan een overeenkomstige gelegenheid, gegeven buiten het Rijk in Europa, te bevorderen of daartoe voor openbaarmaking of verspreiding bestemde stukken in voorraad te hebben;  
+b. de deelneming hetzij aan een onder a bedoelde gelegenheid, gegeven zonder vergunning ingevolge deze wet, hetzij aan een overeenkomstige gelegenheid, gegeven buiten het Rijk in Europa, te bevorderen of daartoe voor openbaarmaking of verspreiding bestemde stukken in voorraad te hebben;  
 
-c. gebruik te maken van een onder *a* bedoelde gelegenheid, wetende dat voor het geven daarvan geen vergunning ingevolge deze wet is verleend;  
+c. gebruik te maken van een onder a bedoelde gelegenheid, wetende dat voor het geven daarvan geen vergunning ingevolge deze wet is verleend;  
 
-d. opzettelijk in strijd met de waarheid het vermoeden te wekken dat voor een gelegenheid als onder *a* bedoeld ingevolge deze wet vergunning is verleend, of dat aan de verleende vergunning geen voorschrift of niet al de gestelde voorschriften zijn verbonden.    
+d. opzettelijk in strijd met de waarheid het vermoeden te wekken dat voor een gelegenheid als onder a bedoeld ingevolge deze wet vergunning is verleend, of dat aan de verleende vergunning geen voorschrift of niet al de gestelde voorschriften zijn verbonden.     
+2.  Het is verboden te handelen in strijd met de aan de verleende vergunning verbonden voorschriften.   
 
 ### Artikel  1a  
 
@@ -42,14 +43,14 @@ c. door een publiekrechtelijk lichaam tegen een niet hogere dan de parikoers voo
 
 ### Artikel  3  
 
-1.  Tenzij deze wet anders bepaalt kan voor een gelegenheid als in artikel 1, onder a, bedoeld vergunning worden verleend, indien deze gelegenheid wordt opengesteld uitsluitend ten einde met de opbrengst daarvan enig algemeen belang te dienen. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijzen en premies gezamenlijk geen grotere waarde hebben dan € 4500 en bij een grotere waarde door Onze Minister van Justitie.   
+1.  Tenzij deze wet anders bepaalt kan voor een gelegenheid als in artikel 1, onder a, bedoeld vergunning worden verleend, indien deze gelegenheid wordt opengesteld uitsluitend ten einde met de opbrengst daarvan enig algemeen belang te dienen. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijzen en premies gezamenlijk geen grotere waarde hebben dan € 4500 en bij een grotere waarde door de raad van bestuur, bedoeld in artikel 33a.   
 2.  Het eerste lid is niet van toepassing voor gelegenheden, waarbij de spelers gemeenschappelijk aan een kansspel kunnen deelnemen.   
 3.  Het eerste lid is niet van toepassing op piramidespelen.   
-4.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in het eerste lid en, voorzover de vergunning door Onze Minister van Justitie wordt verleend, deze betrekking heeft op een incidenteel kansspel.   
+4.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in het eerste lid en, voorzover de vergunning door de raad van bestuur, bedoeld in artikel 33a wordt verleend, deze betrekking heeft op een incidenteel kansspel.   
 
 ### Artikel  4  
 
-1.  Onze Ministers van Justitie en van Financiën kunnen aan een rechtspersoon met volledige rechtsbevoegdheid vergunning verlenen tot het openstellen van een tegen een niet hogere dan de parikoers uit te geven werkelijke geldlening, die een jaarlijkse en jaarlijks ter beschikking te stellen rente geeft, niet lager dan een door Onze Minister van Financiën vast te stellen percentage, terwijl aan de schuldbewijzen van die lening bijkomstig de kans op het winnen van premies is verbonden.   
+1.  Onze Ministers van Veiligheid en Justitie en van Financiën kunnen aan een rechtspersoon met volledige rechtsbevoegdheid vergunning verlenen tot het openstellen van een tegen een niet hogere dan de parikoers uit te geven werkelijke geldlening, die een jaarlijkse en jaarlijks ter beschikking te stellen rente geeft, niet lager dan een door Onze Minister van Financiën vast te stellen percentage, terwijl aan de schuldbewijzen van die lening bijkomstig de kans op het winnen van premies is verbonden.   
 2.  Een vergunning als in lid 1 bedoeld kan alleen worden verleend voor geldleningen, uit te geven teneinde met het geplaatste geld enig algemeen belang te dienen.   
 
 ### Artikel  4a  
@@ -88,12 +89,12 @@ d. de wijze waarop en de plaats waar wervings- en reclameuitingen worden gedaan.
 
 ### Artikel  6  
 
-1.  Wij kunnen bij algemene maatregel van bestuur nadere regelen stellen met betrekking tot de voorschriften, te verbinden aan vergunningen als bedoeld in artikel 3, alsmede met betrekking tot de wijze waarop en de middelen waarmede de aanwijzing der winnaars moet geschieden in gelegenheden, waarvoor ingevolge de artikelen 3 en 4 vergunning is verleend.   
+1.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voorschriften, te verbinden aan vergunningen als bedoeld in artikel 3, alsmede met betrekking tot de wijze waarop en de middelen waarmede de aanwijzing der winnaars moet geschieden in gelegenheden, waarvoor ingevolge de artikelen 3 en 4 vergunning is verleend.   
 2.  Bij algemene maatregel van bestuur worden regels gegeven met betrekking tot het bedrag dat is verschuldigd voor de behandeling van de aanvraag van een vergunning als bedoeld in de artikelen 3 en 4. Daarbij worden tevens regels gegeven met betrekking tot het bedrag dat jaarlijks door de vergunninghouder is verschuldigd, indien de vergunning een geldigheidsduur heeft van meer dan een jaar.   
 
 ### Artikel  7  
 
-Het is de vergunninghouder verboden, enig voorschrift van een krachtens deze wet uitgevaardigde algemene maatregel van bestuur, of krachtens artikel 5 gesteld, niet in acht te nemen.  
+Het is de vergunninghouder verboden, enig voorschrift van een krachtens deze wet uitgevaardigde algemene maatregel van bestuur niet in acht te nemen.  
 
 ### Titel  Ia  
 
@@ -111,7 +112,7 @@ Het in Titel I bepaalde is niet van toepassing op het houden van winkelweekactie
 4.  De vergunning wordt verleend, indien en op voorwaarde dat de prijzen of premies in geld of goederen, die ter beschikking van de deelnemers worden gesteld, gezamenlijk geen grotere waarde hebben dan € 11.950,- (elf duizend negenhonderd en vijftig euro) en de deelnemersbewijzen door de betreffende ondernemers aan hun afnemers om niet ter beschikking worden gesteld.   
 5.  De Kamer van Koophandel en Fabrieken is bevoegd een vergunning niet aanstonds te verlenen, indien een ordelijk verloop van zaken zulks gewenst doet zijn; zij kan aan de vergunning voorschriften verbinden.   
 6.  De Kamer van Koophandel weigert een gevraagde vergunning of trekt een verleende vergunning in, indien aannemelijk is, dat bij de wet of de vergunning gestelde voorschriften niet zullen worden nageleefd of zodanige voorschriften niet zijn nageleefd.   
-7.  Voor de behandeling van een aanvraag om een vergunning moet een bij algemene maatregel van bestuur vast te stellen bedrag worden betaald. De voordracht tot vaststelling of wijziging van deze algemene maatregel van bestuur wordt Ons gedaan door Onze Ministers van Justitie en van Economische Zaken.   
+7.  Voor de behandeling van een aanvraag om een vergunning moet een bij algemene maatregel van bestuur vast te stellen bedrag worden betaald. De voordracht tot vaststelling of wijziging van deze algemene maatregel van bestuur wordt Ons gedaan door Onze Ministers van Veiligheid en Justitie en van Economische Zaken, Landbouw en Innovatie.   
 
 ### Artikel  7c  
 
@@ -129,7 +130,7 @@ Als klein kansspel in de zin van deze Titel worden aangemerkt het kienspel, voge
 
 ### Artikel  7e  
 
-1.  De in artikel 7b en artikel 7c vastgestelde bedragen worden van rechtswege gewijzigd met een door Onze Minister van Justitie vast te stellen percentage, telkens wanneer de consumentenprijsindex per 30 september van enig jaar ten minste tien procent afwijkt van het overeenkomstige indexcijfer in het jaar, dat die bedragen werden vastgesteld.   
+1.  De in artikel 7b en artikel 7c vastgestelde bedragen worden van rechtswege gewijzigd met een door Onze Minister van Veiligheid en Justitie vast te stellen percentage, telkens wanneer de consumentenprijsindex per 30 september van enig jaar ten minste tien procent afwijkt van het overeenkomstige indexcijfer in het jaar, dat die bedragen werden vastgesteld.   
 2.  De wijziging gaat in op 1 januari volgende op de in het eerste lid genoemde datum.   
 3.  Het percentage van de wijziging wijkt niet meer af van het procentuele verschil tussen de in het eerste lid bedoelde indexcijfers dan nodig is om de bedragen vast te stellen op het naastbij gelegen veelvoud van € 50.   
 
@@ -144,12 +145,12 @@ Als klein kansspel in de zin van deze Titel worden aangemerkt het kienspel, voge
 
 ### Artikel  9  
 
-1.  Onze Minister van Financiën kan, in overeenstemming met Onze Minister van Justitie, aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van de staatsloterij.   
+1.  De raad van bestuur, bedoeld in artikel 33a, kan aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van de staatsloterij.   
 2.  De opbrengst van de staatsloterij - na aftrek van de prijzen en kosten - wordt jaarlijks aan de Staat afgedragen.   
 
 ### Artikel  10  
 
-1.  Onze in artikel 9 genoemde Minister verbindt, in overeenstemming met Onze Minister van Justitie, voorschriften aan de vergunning tot het organiseren van de staatsloterij.   
+1.  De raad van bestuur, bedoeld in artikel 33a, verbindt voorschriften aan de vergunning tot het organiseren van de staatsloterij.   
 2.  De voorschriften hebben onder meer betrekking op: 
 
 a. het aantal loterijen dat per jaar wordt gehouden;  
@@ -171,7 +172,7 @@ h. de inrichting van het jaarlijks door de rechtspersoon van zijn werkzaamheden 
 
 ### Artikel  11  
 
-De ingevolge artikel 9 verleende vergunning kan tussentijds door Onze in dat artikel genoemde Minister, in overeenstemming met Onze Minister van Justitie, worden ingetrokken, indien de ingevolge artikel 10 vastgestelde voorschriften worden overtreden.  
+De ingevolge artikel 9 verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in artikel 33a, worden ingetrokken, indien de ingevolge artikel 10 vastgestelde voorschriften worden overtreden.  
 
 ### Artikel  12  
 
@@ -197,14 +198,13 @@ Behoudens aan degenen die daartoe door de krachtens artikel 9 aangewezen rechtsp
 
 ### Artikel  14b  
 
-1.  Onze Ministers van Justitie en van Welzijn, Volksgezondheid en Cultuur kunnen met het oog op de belangen van instellingen werkzaam ten algemene nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hen te bepalen duur vergunning verlenen tot het organiseren van een instantloterij.   
+1.  De raad van bestuur, bedoeld in artikel 33a, kan met het oog op de belangen van instellingen werkzaam ten algemene nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van een instantloterij.   
 2.  De opbrengst van de instantloterij - na aftrek van de prijzen en kosten - komt ten goede aan de belangen, die de rechtspersoon beoogt te dienen met het organiseren van de instantloterij.   
 3.  Van de opbrengst van de instantloterij wordt ten minste 47,5% bestemd voor uitkering aan prijzen.   
-4.  Onze in het eerste lid genoemde Ministers kunnen, in overeenstemming met Onze Minister van Financiën, bepalen dat een door hen vast te stellen gedeelte van de opbrengst van de instantloterij ten goede zal komen aan de schatkist, als vergoeding voor opbrengstenderving bij de staatsloterij ten gevolge van het organiseren van de instantloterij. Deze vergoeding is begrepen in de kosten bedoeld in het tweede lid.   
 
 ### Artikel  14c  
 
-1.  Onze in artikel 14 *b*, eerste lid, genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een instantloterij.   
+1.  De raad van bestuur, bedoeld in artikel 33a, verbindt voorschriften aan de vergunning tot het organiseren van een instantloterij.   
 2.  De voorschriften hebben onder meer betrekking op: 
 
 a. het aantal te houden instantloterijen en het aantal uit te geven deelnamebewijzen per instantloterij;  
@@ -225,7 +225,6 @@ h. het van overheidswege te houden toezicht op de naleving;
 
 i. de inrichting van het jaarlijks door de rechtspersoon van zijn werkzaamheden en de financiële resultaten daarvan uit te brengen verslag en de wijze van publikatie van dat verslag.     
 3.  Van de voorschriften wordt mededeling gedaan door plaatsing in de *Staatscourant*. Zij kunnen worden gewijzigd en aangevuld.   
-4.  Voorzover de voorschriften genoemd in het tweede lid betrekking hebben op de in artikel 14 *b* bedoelde vergoeding, alsmede op inrichtingen waar tevens deelnamebewijzen aan de staatsloterij verkrijgbaar zijn en op de vertegenwoordiging van de rechtspersoon welke is belast met de organisatie van de staatsloterij in het bestuur van de in artikel 14 *b* bedoelde rechtspersoon, worden deze vastgesteld in overeenstemming met Onze Minister van Financiën.   
 
 ### Artikel  14d  
 
@@ -234,7 +233,7 @@ i. de inrichting van het jaarlijks door de rechtspersoon van zijn werkzaamheden 
 
 ### Artikel  14e  
 
-De ingevolge artikel 14 *b* verleende vergunning kan tussentijds door Onze in artikel 14 *b*, eerste lid, genoemde Ministers worden ingetrokken, indien de bij of krachtens deze titel vastgestelde voorschriften worden overtreden.  
+De ingevolge artikel 14b verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in artikel 33a, worden ingetrokken, indien de bij of krachtens deze titel vastgestelde voorschriften worden overtreden.  
 
 ### Titel  III  
 
@@ -249,7 +248,7 @@ De ingevolge artikel 14 *b* verleende vergunning kan tussentijds door Onze in ar
 
 ### Artikel  16  
 
-1.  Onze Ministers van Justitie en van Welzijn, Volksgezondheid en Cultuur kunnen met het oog op de belangen van instellingen werkzaam ten algemenen nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hen te bepalen duur vergunning verlenen tot het organiseren van sportprijsvragen.   
+1.  De raad van bestuur, bedoeld in artikel 33a, kan met het oog op de belangen van instellingen werkzaam ten algemenen nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van sportprijsvragen.   
 2.  De opbrengst van een prijsvraag - na aftrek van de prijzen en kosten - komt ten goede aan de belangen, die de rechtspersoon beoogt te dienen met het aanleggen en houden van sportprijsvragen.   
 3.  Van de gezamenlijke opbrengst van de ingevolge deze titel en titel IV *a* georganiseerde kansspelen wordt, gerekend over een kalenderjaar, ten minste 47,5% bestemd voor uitkering aan prijzen.   
 
@@ -260,7 +259,7 @@ De ingevolge artikel 14 *b* verleende vergunning kan tussentijds door Onze in ar
 
 ### Artikel  21  
 
-1.  Onze in artikel 16 genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van sportprijsvragen.   
+1.  De raad van bestuur, bedoeld in artikel 33a, verbindt voorschriften aan de vergunning tot het organiseren van sportprijsvragen.   
 2.  De voorschriften hebben onder meer betrekking op: 
 
 a. het aantal te houden prijsvragen;  
@@ -279,7 +278,7 @@ g. de inrichting van het jaarlijks door de rechtspersoon van zijn werkzaamheden 
 
 ### Artikel  22  
 
-De ingevolge artikel 16 verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bepalingen van deze titel of de ingevolge artikel 21 vastgestelde voorschriften worden overtreden.  
+De ingevolge artikel 16 verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in artikel 33a, worden ingetrokken, indien de bepalingen van deze titel of de ingevolge artikel 21 vastgestelde voorschriften worden overtreden.  
 
 ### Titel  IV  
 
@@ -292,11 +291,11 @@ De ingevolge artikel 16 verleende vergunning kan tussentijds door Onze in dat ar
 
 ### Artikel  24  
 
-Onze Ministers van Landbouw en Visserij en van Justitie kunnen aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hen te bepalen tijd vergunning verlenen tot het organiseren van een totalisator.  
+De raad van bestuur, bedoeld in artikel 33a, kan aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van een totalisator.  
 
 ### Artikel  25  
 
-1.  Onze in artikel 24 genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een totalisator.   
+1.  De raad van bestuur, bedoeld in artikel 33a, verbindt voorschriften aan de vergunning tot het organiseren van een totalisator.   
 2.  De voorschriften hebben onder meer betrekking op: 
 
 a. het aantal draverijen en rennen;  
@@ -312,7 +311,7 @@ e. de verplichting om ongeoorloofd wedden of het verlenen van bemiddeling tot we
 
 ### Artikel  26  
 
-De ingevolge artikel 24 verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de ingevolge artikel 25 vastgestelde voorschriften worden overtreden.  
+De ingevolge artikel 24 verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in artikel 33a, worden ingetrokken, indien de ingevolge artikel 25 vastgestelde voorschriften worden overtreden.  
 
 ### Artikel  27  
 
@@ -330,13 +329,13 @@ Het is verboden aan het publiek bemiddeling aan te bieden of te verlenen bij het
 
 ### Artikel  27b  
 
-1.  Onze Ministers van Justitie en van Welzijn, Volksgezondheid en Cultuur kunnen met het oog op de belangen van instellingen werkzaam ten algemenen nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan de krachtens artikel 16 aangewezen rechtspersoon voor een door hen te bepalen duur vergunning verlenen tot het organiseren van lotto's.   
+1.  De raad van bestuur, bedoeld in artikel 33a, kan met het oog op de belangen van instellingen werkzaam ten algemenen nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan de krachtens artikel 16 aangewezen rechtspersoon voor een door hem te bepalen duur vergunning verlenen tot het organiseren van lotto's.   
 2.  De opbrengst van de lotto - na aftrek van prijzen en kosten - komt ten goede aan de belangen, die de rechtspersoon met het aanleggen en houden daarvan beoogt te dienen.   
 3.  Van de gezamenlijke opbrengst van de ingevolge deze titel en titel III georganiseerde kansspelen wordt, gerekend over een kalenderjaar, ten minste 47,5% bestemd voor uitkering aan prijzen.   
 
 ### Artikel  27c  
 
-1.  Onze in artikel 27 *b* genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een lotto.   
+1.  De raad van bestuur, bedoeld in artikel 33a, verbindt voorschriften aan de vergunning tot het organiseren van een lotto.   
 2.  De voorschriften hebben onder meer betrekking op: 
 
 a. het aantal te houden lotto's;  
@@ -359,7 +358,7 @@ f. de inrichting van het jaarlijks door de rechtspersoon van zijn werkzaamheden 
 
 ### Artikel  27f  
 
-De ingevolge artikel 27 *b* verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.  
+De ingevolge artikel 27b verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in artikel 33a, worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.  
 
 ### Titel  IVb  
 
@@ -372,13 +371,13 @@ De ingevolge artikel 27 *b* verleende vergunning kan tussentijds door Onze in da
 
 ### Artikel  27h  
 
-1.  Onze Ministers van Justitie en van Economische Zaken kunnen aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hen te bepalen duur vergunning verlenen tot het organiseren van speelcasino's.   
+1.  De raad van bestuur, bedoeld in artikel 33a, kan aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van speelcasino's.   
 2.  De opbrengst van de speelcasino’s - na aftrek van de prijzen en kosten - strekt ten bate van de schatkist.   
 3.  De vestiging van een speelcasino behoeft de voorafgaande instemming van de raad van de betrokken gemeente.   
 
 ### Artikel  27i  
 
-1.  Onze in artikel 27 *h*, eerste lid, genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van speelcasino's.   
+1.  De raad van bestuur, bedoeld in artikel 33a, verbindt voorschriften aan de vergunning tot het organiseren van speelcasino's.   
 2.  De voorschriften hebben onder meer betrekking op: 
 
 a. de gemeenten waar een speelcasino kan worden gevestigd;  
@@ -397,7 +396,9 @@ g. de statuten en reglementen van de rechtspersoon;
 
 h. het van overheidswege te houden toezicht op de naleving;  
 
-i. de inrichting van het jaarlijks door de rechtspersoon van zijn werkzaamheden en de financiële resultaten daarvan uit te brengen verslag en de wijze van publikatie van dat verslag.     
+i. de inrichting van het jaarlijks door de rechtspersoon van zijn werkzaamheden en de financiële resultaten daarvan uit te brengen verslag en de wijze van publikatie van dat verslag;  
+
+j. het voorkomen van kansspelverslaving.     
 3.  Van de voorschriften wordt mededeling gedaan door plaatsing in de *Staatscourant*. Zij kunnen worden gewijzigd en aangevuld.   
 
 ### Artikel  27j  
@@ -407,7 +408,7 @@ i. de inrichting van het jaarlijks door de rechtspersoon van zijn werkzaamheden 
 
 ### Artikel  27k  
 
-De ingevolge artikel 27 *h* verleende vergunning kan door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.  
+De ingevolge artikel 27h verleende vergunning kan door de raad van bestuur, bedoeld in artikel 33a, worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.  
 
 ### Artikel  27l  
 
@@ -447,7 +448,7 @@ e. laagdrempelige inrichting: een inrichting als bedoeld in [artikel 1, eerste l
 ### Artikel  30a  
 
 1.  Deze Titel is niet van toepassing op behendigheidsautomaten die zonder middellijke of onmiddellijke betaling of inworp door de speler of een derde in werking kunnen worden gesteld en waarvan het spelresultaat niet kan leiden tot de onmiddellijke uitkering van prijzen of premies.   
-2.  Deze Titel is niet van toepassing op bij regeling van Onze Minister van Economische Zaken aangewezen typen van speelautomaten die worden gebruikt of bestemd zijn om te worden gebruikt ter gelegenheid van kermissen, en die zodanig zijn ingericht, dat het bespelen ervan niet kan leiden tot de uitkering van geldprijzen, of tot de onmiddellijke uitkering van premies, waardebonnen of penningen, die een waarde vertegenwoordigen van meer dan het veertigvoud van de inzet per spel.   
+2.  Deze Titel is niet van toepassing op bij regeling van Onze Minister van Veiligheid en Justitie aangewezen typen van speelautomaten die worden gebruikt of bestemd zijn om te worden gebruikt ter gelegenheid van kermissen, en die zodanig zijn ingericht, dat het bespelen ervan niet kan leiden tot de uitkering van geldprijzen, of tot de onmiddellijke uitkering van premies, waardebonnen of penningen, die een waarde vertegenwoordigen van meer dan het veertigvoud van de inzet per spel.   
 
 ### §  2  
 
@@ -483,14 +484,16 @@ b. de overige ruimten in die inrichting door het publiek uitsluitend te bereiken
 
 ### Artikel  30d  
 
-1.  Aan de vergunning kunnen voorschriften en beperkingen verbonden worden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen kansspelautomaten mogen worden opgesteld, welke in eigendom toebehoren aan personen die in het bezit zijn van de in artikel 30h, eerste lid, bedoelde vergunning. Indien de omstandigheden ter plaatse daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.   
+1.  Aan de vergunning kunnen voorschriften en beperkingen verbonden worden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen kansspelautomaten mogen worden opgesteld, welke in eigendom toebehoren aan personen die in het bezit zijn van de in artikel 30h, eerste lid, bedoelde vergunning en dat de vergunninghouder zorgdraagt voor een beleid ter voorkoming van kansspelverslaving. Indien de omstandigheden ter plaatse daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.   
 2.  De vergunning wordt voor bepaalde of onbepaalde tijd verleend.   
 3.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de bij de aanvraag van de vergunning verschuldigde vergoeding voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning, en voor de kosten verbonden aan het toezicht op de naleving door de vergunninghouder van de bij of krachtens deze Titel vastgestelde voorschriften.   
 4.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot: 
 
 a. de eisen ten aanzien van het zedelijk gedrag, waaraan de aanvrager van de vergunning voor een inrichting als bedoeld in artikel 30c, eerste lid, onder a en b, en de bedrijfsleiders en beheerders van deze inrichtingen, dienen te voldoen;  
 
-b. de eis dat de bedrijfsleiders en beheerder van de in artikel 30c, eerste lid, onder a en b, bedoelde inrichtingen dienen te beschikken over voldoende kennis en inzicht met betrekking tot het gebruik van kansspelautomaten en de daaraan verbonden risico’s van gokverslaving.     
+b. de eis dat de bedrijfsleiders en beheerder van de in artikel 30c, eerste lid, onder a en b, bedoelde inrichtingen dienen te beschikken over voldoende kennis en inzicht met betrekking tot het gebruik van kansspelautomaten en de daaraan verbonden risico’s van kansspelverslaving;  
+
+c. het in het eerste lid gestelde voorschrift over het beleid ter voorkoming van kansspelverslaving.     
 
 ### Artikel  30e  
 
@@ -533,7 +536,7 @@ b. indien de vrees gewettigd is, dat het van kracht blijven der vergunning ernst
 
 ### Artikel  30h  
 
-1.  Het is verboden zonder vergunning van Onze Minister van Economische Zaken een of meer speelautomaten te exploiteren.   
+1.  Het is verboden zonder vergunning van de raad van bestuur, bedoeld in artikel 33a, een of meer speelautomaten te exploiteren.   
 2.  Onder exploiteren wordt verstaan het bedrijfsmatig en als eigenaar gebruiken of aan een ander in gebruik geven van een of meer speelautomaten.   
 
 ### Artikel  30i  
@@ -551,7 +554,7 @@ b. de eisen ten aanzien van het zedelijk gedrag, waaraan de aanvrager van de ver
 
 ### Artikel  30j  
 
-1.  Aan de vergunning kunnen uit een oogpunt van toezicht op de naleving van het bij of krachtens deze Titel bepaalde voorschriften en beperkingen worden verbonden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken, overeenkomstig bij regeling van Onze Minister van Economische Zaken te stellen regels. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen speelautomaten mogen worden opgesteld, indien tot het aanwezig hebben daarvan een vergunning is verleend als bedoeld in artikel 30c. Indien de omstandigheden daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.   
+1.  Aan de vergunning kunnen uit een oogpunt van toezicht op de naleving van het bij of krachtens deze Titel bepaalde voorschriften en beperkingen worden verbonden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken, overeenkomstig bij regeling van Onze Minister van Veiligheid en Justitie te stellen regels. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen speelautomaten mogen worden opgesteld, indien tot het aanwezig hebben daarvan een vergunning is verleend als bedoeld in artikel 30c. Indien de omstandigheden daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.   
 2.  De vergunning wordt voor bepaalde of onbepaalde tijd verleend.   
 
 ### Artikel  30k  
@@ -571,7 +574,7 @@ c. indien de vergunninghouder gedurende een jaar na de dag van afgifte van de ve
 
 d. indien niet langer wordt voldaan aan de krachtens artikel 30i, tweede lid, onder b, geldende eisen.     
 2.  De vergunning kan voorts worden ingetrokken, indien de vergunninghouder of de andere in artikel 30i, tweede lid, onder b, bedoelde personen de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden.   
-3.  In de gevallen bedoeld in het eerste en tweede lid kan Onze Minister van Economische Zaken alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.   
+3.  In de gevallen bedoeld in het eerste en tweede lid kan de raad van bestuur, bedoeld in artikel 33a, alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.   
 
 ### §  4  
 
@@ -579,7 +582,7 @@ d. indien niet langer wordt voldaan aan de krachtens artikel 30i, tweede lid, on
 
 ### Artikel  30m  
 
-1.  Het vervaardigen of invoeren van speelautomaten is verboden, tenzij het speelautomaten betreft die overeenstemmen met een door Onze Minister van Economische Zaken toegelaten model en 
+1.  Het vervaardigen of invoeren van speelautomaten is verboden, tenzij het speelautomaten betreft die overeenstemmen met een door de raad van bestuur, bedoeld in artikel 33a, toegelaten model en 
 
 a. zij ten bewijze daarvan zijn voorzien van het ingevolge artikel 30r, eerste lid, met betrekking tot die toelating vastgestelde merkteken, of  
 
@@ -636,7 +639,7 @@ m. de verlichting en het geluid van de kansspelautomaat.
 
 ### Artikel  30o  
 
-1.  De toelating van een model wordt door Onze Minister van Economische Zaken op aanvraag verleend.   
+1.  De toelating van een model wordt door de raad van bestuur, bedoeld in artikel 33a, op aanvraag verleend.   
 2.  Bij elke aanvraag om toelating van een model dienen te worden overgelegd tekeningen en een beschrijving, welke het model zo volledig mogelijk weergeven.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot: 
 
@@ -644,7 +647,7 @@ a. de eisen, waaraan bij een aanvraag om toelating van een model dient te worden
 
 b. de medewerking, die door de aanvrager aan het onderzoek met het oog op de toelating van een model behoort te worden verleend.     
 4.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de bij de aanvraag van de toelating verschuldigde vergoeding voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de verklaring houdende toelating, en voor de kosten verbonden aan het toezicht op de naleving door de houder van de toelating van de bij of krachtens deze Titel vastgestelde voorschriften.   
-5.  Bij regeling van Onze Minister van Economische Zaken worden een of meer instellingen aangewezen die belast zijn met het onderzoek met het oog op de toelating van het model van een speelautomaat.   
+5.  Bij regeling van Onze Minister van Veiligheid en Justitie worden een of meer instellingen aangewezen die belast zijn met het onderzoek met het oog op de toelating van het model van een speelautomaat.   
 6.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de toelating, bedoeld in het eerste lid.   
 
 ### Artikel  30p  
@@ -654,20 +657,20 @@ b. de medewerking, die door de aanvrager aan het onderzoek met het oog op de toe
 
 a. indien de aanvrager de bij of krachtens deze Titel vastgestelde voorschriften heeft overtreden in de drie jaren voorafgaande aan het moment van de aanvraag van de toelating van een model;  
 
-b. indien er naar het oordeel van Onze Minister van Economische Zaken sprake is van een uit maatschappelijk oogpunt onaanvaardbaar spelconcept.     
+b. indien er naar het oordeel van de raad van bestuur, bedoeld in artikel 33a, sprake is van een uit maatschappelijk oogpunt onaanvaardbaar spelconcept.     
 
 ### Artikel  30q  
 
-1.  Indien een model wordt toegelaten, wordt een op naam van de aanvrager gestelde, ondertekende en gedagtekende verklaring, houdende de toelating, afgegeven met gebruikmaking van een door Onze Minister van Economische Zaken vast te stellen formulier.   
+1.  Indien een model wordt toegelaten, wordt een op naam van de aanvrager gestelde, ondertekende en gedagtekende verklaring, houdende de toelating, afgegeven met gebruikmaking van een door de raad van bestuur, bedoeld in artikel 33a, vast te stellen formulier.   
 2.  De voorschriften, vastgesteld krachtens artikel 30n, worden, voor zover zij op het toegelaten model betrekking hebben, in de verklaring, houdende de toelating, opgenomen. Daarin kan tevens worden bepaald, dat het model op een in de verklaring vermelde plaats moet worden bewaard.   
-3.  Onze Minister van Economische Zaken kan aan een toelating aanvullende voorschriften verbinden uit een oogpunt van toezicht dan wel douanecontrole op de naleving van het bij of krachtens deze Titel bepaalde, die in de verklaring, houdende de toelating, worden opgenomen. Zij kunnen zo nodig worden gewijzigd, aangevuld of ingetrokken.   
+3.  De raad van bestuur, bedoeld in artikel 33a, kan aan een toelating aanvullende voorschriften verbinden uit een oogpunt van toezicht dan wel douanecontrole op de naleving van het bij of krachtens deze Titel bepaalde, die in de verklaring, houdende de toelating, worden opgenomen. Zij kunnen zo nodig worden gewijzigd, aangevuld of ingetrokken.   
 4.  Een gewaarmerkt afschrift van de in artikel 30o, tweede lid, bedoelde tekeningen en beschrijving maakt deel uit van de verklaring.   
 5.  Van een verklaring, houdende de toelating, wordt mededeling gedaan in de Staatscourant. Daarbij worden in elk geval opgenomen de voorschriften, bedoeld in het tweede en derde lid. Van een wijziging, aanvulling of intrekking van de in de verklaring opgenomen voorschriften wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  30r  
 
-1.  Onze Minister van Economische Zaken stelt met betrekking tot iedere toelating van een model de merktekens vast die ingevolge die toelating op speelautomaten mogen worden aangebracht. Hij geeft tevens regels omtrent de afgifte van merktekens en afschriften van de verklaring, houdende de toelating.   
-2.  De houder van een toelating van een model is met uitsluiting van ieder ander gerechtigd om in of op speelautomaten, welke zijn vervaardigd overeenkomstig het model waarvoor een toelating geldt, de met betrekking tot die toelating vastgestelde merktekens aan te brengen. De houder kan derden machtigen de merktekens aan te brengen na voorafgaande mededeling hiervan aan Onze Minister van Economische Zaken.   
+1.  De raad van bestuur, bedoeld in artikel 33a, stelt met betrekking tot iedere toelating van een model de merktekens vast die ingevolge die toelating op speelautomaten mogen worden aangebracht. Hij geeft tevens regels omtrent de afgifte van merktekens en afschriften van de verklaring, houdende de toelating.   
+2.  De houder van een toelating van een model is met uitsluiting van ieder ander gerechtigd om in of op speelautomaten, welke zijn vervaardigd overeenkomstig het model waarvoor een toelating geldt, de met betrekking tot die toelating vastgestelde merktekens aan te brengen. De houder kan derden machtigen de merktekens aan te brengen na voorafgaande mededeling hiervan aan de raad van bestuur, bedoeld in artikel 33a.   
 3.  Het is ieder ander dan degenen bedoeld in het tweede lid verboden in of op speelautomaten de in het eerste lid bedoelde merktekens aan te brengen.   
 4.  Het met betrekking tot een toegelaten model vastgestelde merkteken moet op naar dat model vervaardigde speelautomaten zodanig worden aangebracht, dat het voor een speler zichtbaar is en niet verwijderd kan worden zonder de speelautomaat te beschadigen of het merkteken te vernietigen of te beschadigen.   
 
@@ -679,7 +682,7 @@ a. indien de gegevens, die met het oog op de verkrijging der toelating zijn vers
 
 b. indien de krachtens artikel 30n gegeven voorschriften zodanig zijn gewijzigd, dat het model onder de werking van de gewijzigde voorschriften niet zou zijn toegelaten.     
 2.  De toelating van een model kan worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde bepalingen of de voorschriften, opgenomen in de verklaring houdende de toelating, zijn overtreden door de houder of diens gemachtigde, bedoeld in artikel 30m en artikel 30r, tweede lid.   
-3.  In de gevallen bedoeld in het eerste lid, onder a, en het tweede lid kan Onze Minister van Economische Zaken alvorens de toelating in te trekken de houder daarvan in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de voorschriften, opgenomen in de verklaring houdende de toelating, over te gaan.   
+3.  In de gevallen bedoeld in het eerste lid, onder a, en het tweede lid kan de raad van bestuur, bedoeld in artikel 33a, alvorens de toelating in te trekken de houder daarvan in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de voorschriften, opgenomen in de verklaring houdende de toelating, over te gaan.   
 4.  De toelating van een model kan worden ingetrokken, indien noch de houder noch een gemachtigde gedurende een aaneengesloten periode van drie jaren gebruik heeft gemaakt van het in artikel 30r, tweede lid, bedoelde recht op speelautomaten een merkteken aan te brengen, tenzij de houder te kennen geeft binnen een termijn van twee jaren daar weer gebruik van te zullen gaan maken.   
 5.  In gevallen waarin de toelating kan worden ingetrokken, kan, in plaats daarvan, een beperking aan de toelating worden toegevoegd.   
 6.  Van de intrekking en van de aan de toelating toegevoegde beperking wordt in de Staatscourant mededeling gedaan.   
@@ -690,15 +693,15 @@ b. indien de krachtens artikel 30n gegeven voorschriften zodanig zijn gewijzigd,
 
 ### Artikel  30t  
 
-1.  Het is verboden een of meer speelautomaten, die niet overeenstemmen met het door Onze Minister van Economische Zaken toegelaten model daarvan en die niet ten bewijze daarvan zijn voorzien van het ingevolge artikel 30r, eerste lid, met betrekking tot die toelating vastgestelde merkteken: 
+1.  Het is verboden een of meer speelautomaten, die niet overeenstemmen met het door de raad van bestuur, bedoeld in artikel 33a, toegelaten model daarvan en die niet ten bewijze daarvan zijn voorzien van het ingevolge artikel 30r, eerste lid, met betrekking tot die toelating vastgestelde merkteken: 
 
 a. in de handel te brengen, te verkopen, ten verkoop in voorraad te hebben, ten verkoop aan te bieden of af te leveren , met uitzondering van de speelautomaten bedoeld in artikel 30m, tweede lid, onder a, b en c;  
 
 b. te exploiteren;  
 
 c. aanwezig te hebben op plaatsen of in inrichtingen als bedoeld in artikel 30b, eerste lid.     
-2.  Het is verboden in of aan een speelautomaat, die wordt gebruikt of die bestemd is om te worden gebruikt in inrichtingen of bij gelegenheden als bedoeld in artikel 30c, eerste lid en behendigheidsautomaten op kermissen zodanige wijzigingen aan te brengen of te doen aanbrengen, dat deze niet meer overeenstemt met het door Onze Minister van Economische Zaken toegelaten model daarvan.   
-3.  Bij het intrekken van een toelating als bedoeld in artikel 30s, kan Onze Minister van Economische Zaken bepalen, dat het eerste lid niet of tijdelijk niet van toepassing is op speelautomaten, die voordien ingevolge die toelating rechtmatig van een merkteken zijn voorzien. Het tweede lid is van overeenkomstige toepassing met betrekking tot die speelautomaten.   
+2.  Het is verboden in of aan een speelautomaat, die wordt gebruikt of die bestemd is om te worden gebruikt in inrichtingen of bij gelegenheden als bedoeld in artikel 30c, eerste lid en behendigheidsautomaten op kermissen zodanige wijzigingen aan te brengen of te doen aanbrengen, dat deze niet meer overeenstemt met het door de raad van bestuur, bedoeld in artikel 33a, toegelaten model daarvan.   
+3.  Bij het intrekken van een toelating als bedoeld in artikel 30s, kan de raad van bestuur, bedoeld in artikel 33a, bepalen, dat het eerste lid niet of tijdelijk niet van toepassing is op speelautomaten, die voordien ingevolge die toelating rechtmatig van een merkteken zijn voorzien. Het tweede lid is van overeenkomstige toepassing met betrekking tot die speelautomaten.   
 4.  Van een besluit als bedoeld in het derde lid wordt mededeling gedaan in de Staatscourant tegelijk met de mededeling, bedoeld in artikel 30s, zesde lid.   
 5.  Het is verboden om op grond van het behaalde spelresultaat op een behendigheidsautomaat middellijk of onmiddellijk prijzen of premies uit te keren, met uitzondering van een verlengde speelduur of het recht op gratis spellen.   
 
@@ -721,23 +724,9 @@ b. van een speelautomatenhal deel uitmakende afgescheiden ruimten, waar uitsluit
 
 ####Beroep
 
-### Artikel  30v  
-
-Tegen een op grond van de paragrafen 2, 3 of 4 van deze Titel genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.  
-
 ### §  7  
 
 ####Toezicht
-
-### Artikel  30w  
-
-1.  Met het toezicht op de naleving van het bij of krachtens deze Titel bepaalde zijn belast de bij besluit van Onze Minister van Economische Zaken aangewezen ambtenaren of andere personen.   
-2.  Met het toezicht op de naleving van het verbod, bedoeld in artikel 30b, en van de door de burgemeester aan de vergunning verbonden voorschriften zijn belast de bij besluit van burgemeester en wethouders aangewezen ambtenaren.   
-3.  Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-
-### Artikel  30x  
-
-Speelautomaten of onderdelen daarvan, welke bij het onderzoek, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet aan de bij of krachtens deze Titel gegeven voorschriften blijken te voldoen, kunnen van een door Onze Minister van Economische Zaken vast te stellen afkeuringsmerk worden voorzien en mogen niet eerder opnieuw in gebruik worden genomen dan nadat zij zijn goedgekeurd.  
 
 ### §  8  
 
@@ -745,7 +734,7 @@ Speelautomaten of onderdelen daarvan, welke bij het onderzoek, bedoeld in [artik
 
 ### Artikel  30z  
 
-1.  Tot het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino kan uitsluitend door Onze Ministers van Justitie en Economische Zaken vergunning worden verleend. De paragrafen 2 en 3 van deze Titel zijn niet van toepassing op het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino.   
+1.  Tot het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino kan uitsluitend door de raad van bestuur, bedoeld in artikel 33a vergunning worden verleend. De paragrafen 2 en 3 van deze Titel zijn niet van toepassing op het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino.   
 2.  De vergunning kan uitsluitend worden verleend aan de krachtens artikel 27h, eerste lid, aangewezen rechtspersoon. De vergunning wordt ingetrokken indien niet de vergunning van kracht is, die ingevolge artikel 27h, eerste lid, vereist is tot het organiseren van een speelcasino.   
 3.  Aan de vergunning worden voorschriften verbonden ten aanzien van het aanwezig hebben en de exploitatie van speelautomaten. De voorschriften kunnen worden gewijzigd, aangevuld of ingetrokken.   
 4.  Voor de toelating van het model van speelautomaten kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld die afwijken van het bepaalde in paragraaf 4 van deze Titel.   
@@ -756,59 +745,108 @@ Speelautomaten of onderdelen daarvan, welke bij het onderzoek, bedoeld in [artik
 
 ### Artikel  30aa  
 
-1.  De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als voorzien in deze Titel, wordt Ons gedaan door Onze Minister van Economische Zaken.   
+1.  De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als voorzien in deze Titel, wordt Ons gedaan door Onze Minister van Veiligheid en Justitie.   
 2.  Het ontwerp van een besluit tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als voorzien in de artikelen 30c, derde lid, en 30n, tweede en derde lid, wordt bekend gemaakt in de Staatscourant. Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in de vorige volzin wordt Ons niet gedaan dan nadat twee maanden na die bekendmaking zijn verstreken.   
 
 ### Titel  VI  
 
-####Strafbepalingen
+####De kansspelautoriteit
 
-### Artikel  31  
+### Afdeling  1  
 
-1.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1, onder a, 30b, eerste lid, 30d, eerste lid, tweede volzin, 30h, eerste lid, 30j, eerste lid, tweede volzin, 30m, eerste lid, 30t, eerste, tweede en vijfde lid, en 30z, eerste, tweede en vierde lid, zijn misdrijven, voorzover zij opzettelijk zijn begaan, en overigens overtredingen.   
-2.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1, onder b en d, 7, 7c, tweede lid, 13, 14, 27, 30d, eerste lid, eerste en derde volzin, 30g, eerste lid, 30i, eerste lid, onder b, 30j, eerste lid, eerste en derde volzin, 30q, derde lid, 30r, derde en vierde lid, 30u, eerste lid, 30x en 30zs, derde lid, zijn overtredingen.   
-3.  Gedragingen, die in dit artikel als misdrijf of als overtreding zijn aangemerkt, zijn economische delicten in de zin van [artikel 1, aanhef en onder 3°, van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
-
-### Artikel  32  
-
-1.  Overtreding van de verbodsbepaling van artikel 1, onder *c*, wordt gestraft met geldboete van de derde categorie.   
-2.  Overtreding van de verbodsbepalingen van de artikelen 30g, tweede lid, en 30u, tweede lid, wordt gestraft met geldboete van de eerste categorie.   
-3.  De feiten, strafbaar gesteld in het eerste en tweede lid, zijn overtredingen.   
-
-### Titel  VIa  
-
-####College van toezicht op de kansspelen
+####Inleidende bepalingen
 
 ### Artikel  33  
 
-1.  Er is een College van toezicht op de kansspelen, hierna het College genoemd.   
-2.  Het College heeft tot taak Onze Minister van Justitie en Onze ministers wie het mede aangaat, te adviseren alsmede desgevraagd de inlichtingen te verstrekken die nodig zijn voor de beoordeling van de uitvoerbaarheid van voorgenomen wettelijke voorschriften en algemene beleidsvoornemens, voor zover deze betrekking hebben op kansspelen.   
-3.  Het College brengt binnen zes maanden na ommekomst van ieder jaar een verslag uit van zijn werkzaamheden en van de ontwikkeling van de kansspelen in Nederland. Telkens na een termijn van drie jaren wordt daarin tevens de taakvervulling van het College aan een onderzoek onderworpen. Het verslag wordt toegezonden aan de Minister van Justitie en Onze Ministers wie het mede aangaat, alsmede aan de Staten-Generaal.   
+1.  Er is een kansspelautoriteit.   
+2.  De kansspelautoriteit is gevestigd te ’s-Gravenhage.   
+3.  De kansspelautoriteit heeft rechtspersoonlijkheid.   
+
+### Artikel  33a  
+
+Aan het hoofd van de kansspelautoriteit staat de raad van bestuur.  
+
+### Artikel  33b  
+
+De raad van bestuur heeft, tenzij bij of krachtens deze wet anders is bepaald, tot taak het verstrekken, wijzigen en intrekken van vergunningen voor de diverse vormen van kansspelen, exploitatievergunningen en modeltoelatingen voor speelautomaten, het bevorderen van het voorkomen en het beperken van kansspelverslaving, het geven van voorlichting en informatie, het toezicht op de naleving van de toepasselijke wet- en regelgeving en de vergunningen, alsmede de handhaving daarvan.  
+
+### Artikel  33c  
+
+1.  De raad van bestuur bestaat uit ten hoogste drie leden, waaronder een voorzitter.   
+2.  De leden worden benoemd voor een periode van ten hoogste zes jaar. De leden kunnen eenmaal worden herbenoemd voor een periode van ten hoogste zes jaar.   
+
+### Artikel  33d  
+
+1.  De raad stelt een bestuursreglement vast, waarin in ieder geval regels over de werkwijze en procedures zijn opgenomen.   
+2.  Het bestuursreglement wordt na de goedkeuring van Onze Minister van Veiligheid en Justitie bekend gemaakt in de Staatscourant.   
+
+### Afdeling  2  
+
+####Kansspelheffing
+
+### Artikel  33e  
+
+1.  Onder de naam kansspelheffing legt de kansspelautoriteit een bestemmingsheffing op ter bestrijding en ten hoogste ten bedrage van de geraamde kosten van de kansspelautoriteit in één kalenderjaar van de uitoefening van de in artikel 33b genoemde taken.   
+2.  Deze heffing wordt over het kalenderjaar dan wel naar evenredigheid over het aantal maanden van het kalenderjaar waarin een verleende vergunning geldig is, geheven van: 
+
+a. degene die op grond van de artikelen 3, 9, eerste lid, 14b, eerste lid, 16, eerste lid, 24 en 27b, eerste lid, een vergunning is verleend, waarbij als grondslag de nominale waarde van de deelnamebewijzen over een kalenderjaar wordt aangehouden.  
+
+b. degene die op grond van de artikelen 27h, eerste lid, 30h, eerste lid, en 30z, eerste lid, een vergunning is verleend, waarbij als grondslag het aantal speeltafels, het aantal aan die tafels gekoppelde spelersterminals, en het aantal spelersplaatsen van speelautomaten wordt aangehouden.     
+
+### Artikel  33f  
+
+1.  Het tarief van de heffing bedoeld in artikel 33e, tweede lid, onder a, bedraagt: 
+
+a. € 1 000, indien de nominale waarde van de verkochte deelnamebewijzen hoger is dan € 1 000 000 doch niet hoger is dan € 5 000 000;  
+
+b. € 10 000, indien de nominale waarde van de verkochte deelnamebewijzen hoger is dan € 5 000 000 doch niet hoger is dan € 20 000 000;  
+
+c. € 50 000, indien de nominale waarde van de verkochte deelnamebewijzen hoger is dan € 20 000 000 doch niet hoger is dan € 50 000 000;  
+
+d. € 50 000 vermeerderd met één vijfhonderste deel van het bedrag waarmee het drempelbedrag overstegen wordt, indien de nominale waarde van de verkochte deelnamebewijzen het drempelbedrag van € 50 000 000 overstijgt.     
+2.  Het tarief van de heffing bedoeld in artikel 33e, tweede lid, onder b, bedraagt: 
+
+a. voor tafelspelen in een speelcasino: € 160 per speeltafel en € 120 per aangekoppelde spelersterminal;  
+
+b. voor kansspelautomaten bestemd voor opstelling in een speelcasino: € 120 per spelersplaats;  
+
+c. voor kansspelautomaten bestemd voor opstelling in een speelautomatenhal: € 80 per spelersplaats;  
+
+d. voor kansspelautomaten bestemd voor opstelling in een hoogdrempelige inrichting: € 40 per spelersplaats;     
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de heffing.   
+4.  De kansspelheffing wordt geheven met overeenkomstige toepassing van de Algemene wet inzake rijksbelastingen.   
+5.  De kansspelheffing wordt geheven bij wege van aanslag.   
+6.  Voor de toepassing van de Algemene wet inzake rijksbelastingen treden in de plaats: 
+
+a. voor het bestuur van ’s Rijksbelastingen en de inspecteur: de raad van bestuur, bedoeld in artikel 33a;  
+
+b. voor de ambtenaren van de rijksbelastingdienst: de ambtenaren die ingevolge artikel 34, eerste lid, belast zijn met het toezicht op de naleving.     
+7.  De kansspelheffing wordt ingevorderd met toepassing van de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) als was deze heffing een rijksbelasting in de zin van [artikel 2, eerste lid, onderdeel a, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en geschiedt door de zorg van de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990, alsmede door de overige in die wet genoemde functionarissen.   
+8.  Bij de invordering van de kansspelheffing blijven van de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing de [artikelen 5](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [20](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [21](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [62](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [69](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+9.  De in het eerste en tweede lid genoemde bedragen kunnen bij ministeriële regeling worden gewijzigd.   
+
+### Titel  VIa  
+
+####Toezicht op de naleving
 
 ### Artikel  34  
 
-1.  Het College wordt gehoord over het voornemen tot verlening, wijziging of intrekking van een vergunning als bedoeld in de artikelen 9, 14b, 16, 24, 27b, 27h en 30z van de wet, alsmede in artikel 3 van de wet voorzover de prijzen en premies gezamenlijk een grotere waarde dan € 4 500 000 hebben.   
-2.  Het College is belast met het toezicht op de naleving door de rechtspersonen, waaraan een vergunning is verleend als bedoeld in het eerste lid, van het bepaalde bij of krachtens deze wet en van hun statuten en reglementen.   
-3.  Met het in het tweede lid bedoelde toezicht op de naleving zijn belast de leden van het College, de secretaris en de overige medewerkers van het bureau van het College. De toezichthouder beschikt niet over de bevoegdheden , genoemd in de [artikelen 5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Instemming met de statuten en reglementen van de in het tweede lid bedoelde rechtspersonen wordt niet door Onze Minister van Justitie of een van Onze Ministers wie het mede aangaat gegeven dan nadat het College is gehoord. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
-5.  De in het tweede lid bedoelde rechtspersonen zenden een afschrift van de ingevolge de verleende vergunning voorgeschreven rapportage aan het College.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van titel VA., paragraaf 2, zijn belast de bij besluit van de raad van bestuur van de kansspelautoriteit aangewezen ambtenaren en personen.   
+2.  Met het toezicht op de naleving van het bepaalde bij of krachtens titel VA., paragraaf 2, zijn belast de bij besluit van de burgemeester aangewezen ambtenaren en personen.   
+3.  Van een besluit als bedoeld in het eerste en tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
-### Artikel  35  
+### Artikel  34a  
 
-1.  Het College bevordert overleg, coördinatie en samenwerking tussen de instellingen en personen waaraan door Onze Minister van Justitie of een van Onze Ministers wie het mede aangaat vergunning is verleend ingevolge deze wet. Het College kan daartoe deze instellingen en personen voorstellen doen.   
-2.  In het belang van het voorkomen en tegengaan van negatieve maatschappelijke effecten kan het College, overeenkomstig bij algemene maatregel van bestuur gegeven regels, de in het eerste lid bedoelde instellingen en personen aanbevelingen doen.   
+Onder zaak in de zin van [5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt mede begrepen de software die gebruikt wordt bij de deelname, de trekking en uitbetaling van een kansspel en de software die de uitkomst van een spel bepaalt.  
 
-### Artikel  36  
+### Artikel  34b  
 
-1.  Het College bestaat uit ten hoogste twaalf leden. De voorzitter en de overige leden worden bij koninklijk besluit benoemd en ontslagen.   
-2.  De voorzitter en ten minste de helft van de overige leden van het College zijn onafhankelijke deskundigen. De andere leden van het College zijn ambtenaren in rijksdienst, die daarin met raadgevende stem zitting hebben.   
-3.  Het College wordt bijgestaan door een secretaris, die wordt benoemd en ontslagen bij koninklijk besluit. De secretaris heeft in de vergaderingen van het College een raadgevende stem.   
-4.  Aan het College kan een bureau worden verbonden, dat onder leiding staat van de secretaris. De secretaris en de overige leden van het bureau zijn voor de uitoefening van hun taak uitsluitend verantwoording schuldig aan het College.   
-5.  Leden van het College, alsmede van het daaraan verbonden bureau, mogen geen direct of indirect persoonlijk belang hebben bij de exploitatie van kansspelen.   
+De op grond van artikel 34 aangewezen ambtenaren en personen hebben bij de uitoefening van hun taak toegang tot de elektronische apparatuur, met inbegrip van netwerken, die naar vermoeden gebruikt wordt bij kansspelen.  
 
-### Artikel  37  
+### Artikel  34c  
 
-Bij algemene maatregel van bestuur worden nadere regelen gegeven met betreking tot de taak, bevoegdheden en samenstelling van het College, alsmede de benoeming van de leden en de secretaris daarvan. Deze regelen hebben mede betrekking op de werkwijze en de vergoeding van de kosten van het College.  
+1.  Degenen die ingevolge artikel 34 belast zijn met het toezicht op de naleving en degene die ingevolge artikel 33e, eerste lid, bevoegd is tot het opleggen van de kansspelheffing, verstrekken elkaar de gegevens welke zij behoeven voor de uitvoering van hun taak.   
+2.  De gegevens, bedoeld in het eerste lid, worden niet voor een ander doel gebruikt dan waarvoor zij zijn verstrekt, tenzij bij wettelijk voorschrift anders is bepaald dan wel de uitvoering van de taak met het oog waarop de gegevens zijn verstrekt, daartoe noodzaakt.   
 
 ### Titel  VIb  
 
@@ -820,8 +858,7 @@ Bij algemene maatregel van bestuur worden nadere regelen gegeven met betreking t
 
 ### Artikel  35  
 
-1.  Het College bevordert overleg, coördinatie en samenwerking tussen de instellingen en personen waaraan door Onze Minister van Justitie of een van Onze Ministers wie het mede aangaat vergunning is verleend ingevolge deze wet. Het College kan daartoe deze instellingen en personen voorstellen doen.   
-2.  In het belang van het voorkomen en tegengaan van negatieve maatschappelijke effecten kan het College, overeenkomstig bij algemene maatregel van bestuur gegeven regels, de in het eerste lid bedoelde instellingen en personen aanbevelingen doen.   
+De raad van bestuur kan een last onder bestuursdwang opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens deze wet, met uitzondering van titel VA., paragraaf 2.  
 
 ### §  2  
 
@@ -855,11 +892,9 @@ Bij algemene maatregel van bestuur worden nadere regelen gegeven met betreking t
 
 ### Artikel  36  
 
-1.  Het College bestaat uit ten hoogste twaalf leden. De voorzitter en de overige leden worden bij koninklijk besluit benoemd en ontslagen.   
-2.  De voorzitter en ten minste de helft van de overige leden van het College zijn onafhankelijke deskundigen. De andere leden van het College zijn ambtenaren in rijksdienst, die daarin met raadgevende stem zitting hebben.   
-3.  Het College wordt bijgestaan door een secretaris, die wordt benoemd en ontslagen bij koninklijk besluit. De secretaris heeft in de vergaderingen van het College een raadgevende stem.   
-4.  Aan het College kan een bureau worden verbonden, dat onder leiding staat van de secretaris. De secretaris en de overige leden van het bureau zijn voor de uitoefening van hun taak uitsluitend verantwoording schuldig aan het College.   
-5.  Leden van het College, alsmede van het daaraan verbonden bureau, mogen geen direct of indirect persoonlijk belang hebben bij de exploitatie van kansspelen.   
+1.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder a, 30b, eerste lid, 30h, eerste lid, 30m, eerste lid, en 30t, eerste, tweede en vijfde lid, zijn misdrijven, voorzover zij opzettelijk zijn begaan, en overigens overtredingen.   
+2.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder b en d, 7c, tweede lid, 13, 14, en 27 zijn overtredingen.   
+3.  Gedragingen, die in dit artikel als misdrijf of als overtreding zijn aangemerkt, zijn economische delicten in de zin van [artikel 1, aanhef en onder 3°, van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
 
 ### Artikel  36a  
 
@@ -871,10 +906,6 @@ Bij algemene maatregel van bestuur worden nadere regelen gegeven met betreking t
 
 1.  Met de opsporing van de bij artikel 36 strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren en personen. Deze ambtenaren en personen zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-
-### Artikel  37  
-
-Bij algemene maatregel van bestuur worden nadere regelen gegeven met betreking tot de taak, bevoegdheden en samenstelling van het College, alsmede de benoeming van de leden en de secretaris daarvan. Deze regelen hebben mede betrekking op de werkwijze en de vergoeding van de kosten van het College.  
 
 ### Titel  VII  
 
