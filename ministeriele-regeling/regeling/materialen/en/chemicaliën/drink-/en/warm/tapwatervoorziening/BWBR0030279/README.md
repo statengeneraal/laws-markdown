@@ -5,7 +5,7 @@
 De Staatssecretaris van Infrastructuur en Milieu,  
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijkrelaties;
 
-Gelet op richtlijn nr. 98/83/EG van de Raad van de Europese Gemeenschappen van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330), beschikking 2002/359/EG van de Commissie van de Europese Gemeenschappen van 13 mei 2002 betreffende de procedure voor de conformiteitsverklaring van de voor de bouw bestemde producten die met voor menselijke consumptie bestemd water in contact komen, overeenkomstig artikel 20, tweede lid, van richtlijn nr. 89/106/EEG van de Raad van de Europese Unie, artikel 20, eerste lid, onderdeel b, van het Drinkwaterbesluit en artikel 3.107 van het Bouwbesluit 2003;
+Gelet op richtlijn nr. 98/83/EG van de Raad van de Europese Gemeenschappen van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330), beschikking 2002/359/EG van de Commissie van de Europese Gemeenschappen van 13 mei 2002 betreffende de procedure voor de conformiteitsverklaring van de voor de bouw bestemde producten die met voor menselijke consumptie bestemd water in contact komen, overeenkomstig artikel 20, tweede lid, van richtlijn nr. 89/106/EEG van de Raad van de Europese Unie, [artikel 20, eerste lid, onderdeel b, van het Drinkwaterbesluit](../../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md) en [artikel 3.107 van het Bouwbesluit 2003](../../../../../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,9 +15,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:*Drinkwaterbesluit;  
+*besluit:* [Drinkwaterbesluit](../../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md);  
 
-*commissie:* commissie van deskundigen als bedoeld in artikel 20, tweede lid, van het besluit;  
+*commissie:* commissie van deskundigen als bedoeld in [artikel 20, tweede lid, van het besluit](../../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md);  
 
 *compositielijst:* overeenkomstig artikel 11, in bijlage B bij deze regeling opgenomen lijst met samenstellende componenten en maximaal toegestane verontreinigingen voor metalen producten;  
 
@@ -29,7 +29,7 @@ In deze regeling wordt verstaan onder:
 
 *erkende certificeringsinstelling:* door de Raad voor Accreditatie erkende instelling die bevoegd is tot afgifte van een kwaliteitsverklaring;  
 
-*erkende kwaliteitsverklaring:* door de Minister overeenkomstig artikel 12 erkende kwaliteitsverklaring als bedoeld in artikel 20, eerste lid, van het besluit, of artikel 1.8 van het Bouwbesluit 2012, bestaande uit een schriftelijk bewijs, afgegeven door een erkende certificeringsinstelling, waaruit blijkt dat materialen of chemicaliën voldoen aan de op grond van deze regeling gestelde eisen;  
+*erkende kwaliteitsverklaring:* door de Minister overeenkomstig artikel 12 erkende kwaliteitsverklaring als bedoeld in [artikel 20, eerste lid, van het besluit](../../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md), of [artikel 1.8 van het Bouwbesluit 2012](../../../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), bestaande uit een schriftelijk bewijs, afgegeven door een erkende certificeringsinstelling, waaruit blijkt dat materialen of chemicaliën voldoen aan de op grond van deze regeling gestelde eisen;  
 
 *migratietest:* onderzoeksmethode voor het afleiden van de migratielimiet, opgenomen in bijlage C bij deze regeling;  
 
@@ -53,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 *TOC (Total Organic Carbon):* de totale hoeveelheid organische koolstof in drinkwater of warm tapwater afkomstig uit een product dat met het drinkwater of warm tapwater in contact komt, bepaald met en afgeleid van de in bijlage C bij deze regeling opgenomen bepalingsmethode en migratietesten en waarvoor een maximaal toelaatbare concentratie geldt van 2 mg koolstof per liter drinkwater of warm tapwater als bedoeld in bijlage B bij deze regeling;  
 
-*Tijdelijke kwaliteitsverklaring:* door de Minister afgegeven verklaring, inhoudende dat een product bestemd voor de bestrijding van legionellabacteriën in drink- en warm tapwaterinstallaties, niet zijnde een biocide in de zin van de Wet gewasbeschermingsmiddelen en biociden, onder de daarbij te stellen voorwaarden en beperkingen kan worden gebruikt ten behoeve van het bepalen van de werkzaamheid van het product onder praktijkomstandigheden.    
+*Tijdelijke kwaliteitsverklaring:* door de Minister afgegeven verklaring, inhoudende dat een product bestemd voor de bestrijding van legionellabacteriën in drink- en warm tapwaterinstallaties, niet zijnde een biocide in de zin van de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), onder de daarbij te stellen voorwaarden en beperkingen kan worden gebruikt ten behoeve van het bepalen van de werkzaamheid van het product onder praktijkomstandigheden.   
 
 ### Hoofdstuk  2  
 
@@ -63,13 +63,13 @@ In deze regeling wordt verstaan onder:
 
 1.  De commissie bestaat uit ten minste zeven leden en ten hoogste elf leden, de voorzitter daaronder begrepen.   
 2.  De leden van de commissie worden voor een periode van vier jaar door de Minister benoemd. Deze periode kan ten hoogste twee maal met eenzelfde periode worden verlengd. De benoeming van de leden van de commissie wordt bekendgemaakt in de Staatscourant.   
-3.  Indien het voor het goed functioneren van de commissie vereist is, kunnen de leden van de commissie door de Minister in hun functie worden geschorst of uit hun functie worden ontslagen.   
+3.  Indien het voor het goed functioneren van de commissie vereist is, kunnen de leden van de commissie door de Minister in hun functie worden geschorst of uit hun functie worden ontslagen.  
 
 ### Artikel  3  
 
 1.  De commissie heeft een secretaris. De secretaris is belast met de ondersteuning van de commissie en met het beheer van door de commissie ten behoeve van de uitvoering van haar taken gevormde gegevensbestanden.   
 2.  De secretaris wordt voor een periode van vier jaar door de Minister benoemd. Die periode kan telkens met een periode van vier jaar worden verlengd. Benoeming en verlenging van de periode worden bekendgemaakt in de Staatscourant.   
-3.  In bijzondere gevallen kan de secretaris door de Minister in zijn functie worden geschorst en uit zijn functie worden ontslagen.   
+3.  In bijzondere gevallen kan de secretaris door de Minister in zijn functie worden geschorst en uit zijn functie worden ontslagen.  
 
 ### Artikel  4  
 
@@ -91,13 +91,13 @@ f. het overeenkomstig de richtlijnen, bedoeld in artikel 5, tweede lid, beoordel
 a. het overeenkomstig de richtlijnen, bedoeld in artikel 5, tweede lid, onderzoeken en beoordelen van mogelijke nadelige gevolgen voor de volksgezondheid van materialen of chemicaliën voorzover daarvoor geen onderzoeksmethoden en beoordelingsmethoden zijn opgenomen in de bijlagen bij deze regeling, en  
 
 b. het beheer van de bijlagen bij deze regeling.     
-3.  Bij de uitvoering van de in het eerste en tweede lid genoemde taken kan de commissie zich laten bijstaan door een of meer subcommissies. De benoeming en het ontslag van de leden van een subcommissie worden geregeld in het reglement, bedoeld in artikel 5, eerste lid.   
+3.  Bij de uitvoering van de in het eerste en tweede lid genoemde taken kan de commissie zich laten bijstaan door een of meer subcommissies. De benoeming en het ontslag van de leden van een subcommissie worden geregeld in het reglement, bedoeld in artikel 5, eerste lid.  
 
 ### Artikel  5  
 
-1.  De commissie stelt bij reglement haar werkwijze vast en de werkwijze van een subcommissie als bedoeld in artikel 4, derde lid. De commissie stelt daarbij regels vast met betrekking tot de vergoeding van gemaakte kosten. Het Besluit vergoedingen adviescolleges en commissies is van toepassing.   
+1.  De commissie stelt bij reglement haar werkwijze vast en de werkwijze van een subcommissie als bedoeld in artikel 4, derde lid. De commissie stelt daarbij regels vast met betrekking tot de vergoeding van gemaakte kosten. Het [Besluit vergoedingen adviescolleges en commissies](../../../../../../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md) is van toepassing.   
 2.  De commissie stelt bij het in het eerste lid bedoelde reglement tevens de werkwijze en richtlijnen vast die zij hanteert bij het onderzoek en de beoordeling, bedoeld in artikel 4, eerste lid, onder f, en tweede lid, onder a en b.   
-3.  De vaststelling van het reglement of een wijziging daarvan behoeft de instemming van de Minister. Na vaststelling of wijziging wordt het reglement bekendgemaakt in de Staatscourant.   
+3.  De vaststelling van het reglement of een wijziging daarvan behoeft de instemming van de Minister. Na vaststelling of wijziging wordt het reglement bekendgemaakt in de Staatscourant.  
 
 ### Hoofdstuk  3  
 
@@ -113,15 +113,15 @@ b. het beheer van de bijlagen bij deze regeling.
 6.  Indien overeenkomstig de beoordeling van cementproducten voor een stof in het cementproduct een MTC dan wel QM is vastgesteld en de stof bij de drink- of warm tapwatervoorziening in het te behandelen water of drinkwater onderscheidelijk warm tapwater terecht kan komen, wordt de migratie van de stof of het restgehalte hiervan in het product bepaald overeenkomstig de in bijlage C bedoelde methoden, overeenkomstig artikel 8, tweede en derde lid, of overeenkomstig de in bijlage D bij deze regeling genoemde modelberekeningen voor het vaststellen van de concentratie van de stof in het drinkwater of warm tapwater.   
 7.  De beoordeling van een stof, bedoeld in het eerste lid, tweede volzin, is niet vereist voorzover een stof is opgenomen in de positieve lijst, opgenomen in bijlage B, onderdeel 1, bij deze regeling.   
 8.  Voor de beoordeling van de stoffen, bedoeld in het eerste lid, tweede volzin, en de producten, genoemd in het vijfde lid, die niet zijn genoemd in de positieve lijst, opgenomen in bijlage B, onderdeel 1, bij deze regeling, worden de gegevens, vermeld in bijlage E bij deze regeling, overgelegd.   
-9.  Producten samengesteld uit materialen, niet zijnde metalen, voldoen aan de eisen voor de organoleptische aspecten, bedoeld in bijlage C bij deze regeling, voorzover dat in overeenstemming met bijlage A bij deze regeling voor het desbetreffende product relevant is.   
+9.  Producten samengesteld uit materialen, niet zijnde metalen, voldoen aan de eisen voor de organoleptische aspecten, bedoeld in bijlage C bij deze regeling, voorzover dat in overeenstemming met bijlage A bij deze regeling voor het desbetreffende product relevant is.  
 
 ### Artikel  7  
 
-1.  De stoffen, met uitzondering van acrylamide, vinylchloride en epichloorhydrine, waaruit materialen, niet zijnde metalen, en chemicaliën zijn samengesteld dan wel die zijn gebruikt in het productieproces ervan, dragen tot maximaal 10% van de parameterwaarden, genoemd in tabel II van bijlage A, behorend bij het besluit, bij aan de concentratie van die stoffen in drinkwater of warm tapwater of het te behandelen water.   
-2.  Voor stoffen als bedoeld in het eerste lid met een drempeldosis, die niet zijn opgenomen in tabel II van bijlage A, behorend bij het besluit, wordt uit de toxiciteitsgegevens, genoemd in bijlage D bij deze regeling, een MTC in drinkwater of warm tapwater vastgesteld overeenkomstig de onderdelen 1 en 2 van bijlage D bij deze regeling.   
+1.  De stoffen, met uitzondering van acrylamide, vinylchloride en epichloorhydrine, waaruit materialen, niet zijnde metalen, en chemicaliën zijn samengesteld dan wel die zijn gebruikt in het productieproces ervan, dragen tot maximaal 10% van de parameterwaarden, genoemd in tabel II van [bijlage A, behorend bij het besluit](../../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md), bij aan de concentratie van die stoffen in drinkwater of warm tapwater of het te behandelen water.   
+2.  Voor stoffen als bedoeld in het eerste lid met een drempeldosis, die niet zijn opgenomen in tabel II van [bijlage A, behorend bij het besluit](../../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md), wordt uit de toxiciteitsgegevens, genoemd in bijlage D bij deze regeling, een MTC in drinkwater of warm tapwater vastgesteld overeenkomstig de onderdelen 1 en 2 van bijlage D bij deze regeling.   
 3.  Voor stoffen zonder drempeldosis is de migratie uit het product onder redelijkerwijs te verwachten gebruiksomstandigheden kleiner is dan 0,1 µg/l.   
 4.  Voor de samenstellende componenten van metalen producten en de verontreinigingen hierin gelden de eisen, opgenomen in de tabel onder paragraaf 2.8.3.7 van bijlage A bij deze regeling.   
-5.  Op de samenstellende componenten van metalen producten en de verontreinigingen hierin, niet opgenomen in de tabel van paragraaf 2.8.3.7 van bijlage A bij deze regeling, zijn het tweede en derde lid van overeenkomstige toepassing.   
+5.  Op de samenstellende componenten van metalen producten en de verontreinigingen hierin, niet opgenomen in de tabel van paragraaf 2.8.3.7 van bijlage A bij deze regeling, zijn het tweede en derde lid van overeenkomstige toepassing.  
 
 ### Artikel  8  
 
@@ -138,22 +138,22 @@ d. de migratie neemt gedurende de migratietest niet toe.
 3.  Indien voor een stof nog geen geschikte bepalingsmethode voorhanden is, kan de toelaatbaarheid van de stof beoordeeld worden op grond van de criteria en de modelberekeningen, genoemd in respectievelijk onderdeel 3 van bijlage C bij deze regeling en onderdeel 4 van bijlage D bij deze regeling.   
 4.  In plaats van het laboratoriumonderzoek, bedoeld in het eerste lid, kunnen de in het derde lid bedoelde modelberekeningen ook worden toegepast voor het vaststellen van de noodzaak van de in het tweede lid bedoelde migratietest naar stoffen waarvoor wel een bepalingsmethode beschikbaar is, zulks ter beoordeling van de commissie.   
 5.  Om te voorkomen dat producten ten onrechte worden af- of goedgekeurd, kan de commissie bepalen dat in geval van een, volgens de in het derde en vierde lid bedoelde berekeningen, te verwachten overschrijding van de MTC, alsnog een migratietest wordt uitgevoerd. De verwachte concentratie bepaald met de migratietest en de omrekening, bedoeld in onderdeel 3 van bijlage D bij deze regeling, is bindend voor de toelaatbaarheid van het betreffende product.   
-6.  Voor metalen producten die niet voldoen aan de eisen, bedoeld in onderdeel 3 van bijlage B bij deze regeling, gelden de eisen voor onderzoek en beoordeling, genoemd in onderdeel 2.8 van bijlage A bij deze regeling.   
+6.  Voor metalen producten die niet voldoen aan de eisen, bedoeld in onderdeel 3 van bijlage B bij deze regeling, gelden de eisen voor onderzoek en beoordeling, genoemd in onderdeel 2.8 van bijlage A bij deze regeling.  
 
 ### Artikel  9  
 
 1.  Alle chemicaliën kunnen worden onderworpen aan laboratoriumonderzoek, uitgevoerd overeenkomstig bijlage A, onderdeel 3, bij deze regeling, met als doel om na te gaan of aan de eisen van deze regeling wordt voldaan.   
-2.  Voor chemicaliën zijn de maximaal toelaatbare gehaltes aan verontreinigingen bij een maximale dosering kleiner zijn dan de limieten, bedoeld in artikel 7.   
+2.  Voor chemicaliën zijn de maximaal toelaatbare gehaltes aan verontreinigingen bij een maximale dosering kleiner zijn dan de limieten, bedoeld in artikel 7.  
 
 ### Artikel  10  
 
 1.  Het onderzoek en de beoordeling, bedoeld in de artikelen 6 tot en met 9, worden uitgevoerd volgens de laatste stand van de wetenschap en techniek.   
-2.  De Minister kan nadere aanwijzingen geven over de wijze waarop het onderzoek en de beoordeling, bedoeld in het eerste lid, worden uitgevoerd.   
+2.  De Minister kan nadere aanwijzingen geven over de wijze waarop het onderzoek en de beoordeling, bedoeld in het eerste lid, worden uitgevoerd.  
 
 ### Artikel  11  
 
 1.  Stoffen waarvoor na de beoordeling, bedoeld in de artikelen 6 en 7, een MTC is vastgesteld, worden opgenomen in de positieve lijsten van onderdelen 1 en 2 van bijlage B bij deze regeling. Voorzover de bedoelde beoordeling heeft plaatsgevonden op grond van een aanvraag tot afgifte van een erkende kwaliteitsverklaring wordt een stof niet, dan met toestemming van de aanvrager, opgenomen in de positieve lijsten.   
-2.  Een metalen product waarvan na onderzoek en beoordeling als bedoeld in artikel 6, vierde lid, wordt vastgesteld dat dit voldoet aan de artikelen 6 tot en met 9, wordt opgenomen in de compositielijst voor metalen, genoemd in onderdeel 3 van bijlage B bij deze regeling. Voorzover bedoeld onderzoek en beoordeling hebben plaatsgevonden op grond van een aanvraag tot afgifte van een kwaliteitsverklaring, als bedoeld in art. 12, eerste lid, wordt de samenstelling van het desbetreffende metalen product niet dan met toestemming van de aanvrager opgenomen in de compositielijst voor metalen.   
+2.  Een metalen product waarvan na onderzoek en beoordeling als bedoeld in artikel 6, vierde lid, wordt vastgesteld dat dit voldoet aan de artikelen 6 tot en met 9, wordt opgenomen in de compositielijst voor metalen, genoemd in onderdeel 3 van bijlage B bij deze regeling. Voorzover bedoeld onderzoek en beoordeling hebben plaatsgevonden op grond van een aanvraag tot afgifte van een kwaliteitsverklaring, als bedoeld in art. 12, eerste lid, wordt de samenstelling van het desbetreffende metalen product niet dan met toestemming van de aanvrager opgenomen in de compositielijst voor metalen.  
 
 ### Hoofdstuk  4  
 
@@ -161,14 +161,14 @@ d. de migratie neemt gedurende de migratietest niet toe.
 
 ### Artikel  12  
 
-De Minister kan een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen, indien die kwaliteitsverklaring en de daarop betrekking hebbende aanvraag voldoen aan de eisen, bedoeld in de artikelen 13 en 14.  
+De Minister kan een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen, indien die kwaliteitsverklaring en de daarop betrekking hebbende aanvraag voldoen aan de eisen, bedoeld in de artikelen 13 en 14. 
 
 ### Artikel  13  
 
 1.  Bij de aanvraag tot een kwaliteitsverklaring, als bedoeld in art. 12, eerste lid, worden ten minste de gegevens, bedoeld in bijlage E bij deze regeling, door de aanvrager overgelegd in een door de erkende certificeringsinstelling gewenste vorm.   
 2.  De certificeringsinstelling, bedoeld in het eerste lid, zendt terstond na ontvangst van de aanvraag een afschrift daarvan en van de in dat lid bedoelde gegevens aan de commissie.   
 3.  De bij een aanvraag van een erkende kwaliteitsverklaring overgelegde productgegevens worden vertrouwelijk behandeld.   
-4.  De Minister beslist op een aanvraag als bedoeld in het eerste lid, ten hoogste na zes maanden nahet moment waarop de gegevens, bedoeld in het eerste lid, zijn overgelegd.   
+4.  De Minister beslist op een aanvraag als bedoeld in het eerste lid, ten hoogste na zes maanden nahet moment waarop de gegevens, bedoeld in het eerste lid, zijn overgelegd.  
 
 ### Artikel  14  
 
@@ -203,7 +203,7 @@ c. de controlefrequenties en de wijze waarop de controleresultaten worden geregi
 5.  Voorzover het ter waarborging van de vervaardiging van materialen of chemicaliën van constante kwaliteit noodzakelijk is om eisen te stellen aan het productieproces, worden die eisen opgenomen in een bijlage bij de erkende kwaliteitsverklaring.   
 6.  Voorzover het voor een juiste verwerking van materialen of chemicaliën van belang is eisen te stellen aan de wijze van verwerking of aan daarvoor door de aanvrager van een kwaliteitsverklaring gestelde richtlijnen, waarbij in het bijzonder wordt gelet op de uitvoerbaarheid daarvan, worden daartoe strekkende eisen opgenomen in een bijlage bij die kwaliteitsverklaring.   
 7.  In een bijlage bij de erkende kwaliteitsverklaring wordt tevens vastgelegd op welke wijze een certificeringsinstelling overeenkomstig het door deze toegepaste certificeringsreglement een periodieke controle van het productieproces en het kwaliteitssysteem van de producent uitvoert. De aanvrager, bedoeld in artikel 13, eerste lid, is gehouden tot medewerking aan deze controle.   
-8.  Indien het in het tweede lid, onder b, bedoelde productieproces niet continu van aard of slechts eenmalig is, worden daarover in aanvulling op artikel 13 en het eerste tot en met het zevende lid, aanvullende voorschriften opgenomen in de bijlage behorende bij de erkende kwaliteitsverklaring.   
+8.  Indien het in het tweede lid, onder b, bedoelde productieproces niet continu van aard of slechts eenmalig is, worden daarover in aanvulling op artikel 13 en het eerste tot en met het zevende lid, aanvullende voorschriften opgenomen in de bijlage behorende bij de erkende kwaliteitsverklaring.  
 
 ### Artikel  15  
 
@@ -213,15 +213,15 @@ c. de controlefrequenties en de wijze waarop de controleresultaten worden geregi
 a. de resultaten van de controle- en toelatingsonderzoeken, uitgevoerd door een erkende certificeringsinstelling, als bedoeld in artikel 12, die zijn verricht in het voorafgaande kalenderjaar, en  
 
 b. eventueel informatief en aanvullend commentaar van de certificeringsinstelling behorende bij een of meer onderzoeken terzake.     
-3.  Indien de gegevens, bedoeld in het tweede lid, niet volledig zijn, kan de commissie aanvullende gegevens opvragen.   
+3.  Indien de gegevens, bedoeld in het tweede lid, niet volledig zijn, kan de commissie aanvullende gegevens opvragen.  
 
 ### Artikel  16  
 
-Een kwaliteitsverklaring afgegeven door een onafhankelijke certificeringsinstelling in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, is gelijkwaardig aan een erkende kwaliteitsverklaring, voorzover naar het oordeel van de Minister uit de eerstgenoemde kwaliteitsverklaring blijkt dat voldaan wordt aan ten minste gelijkwaardige eisen als bedoeld in deze regeling.  
+Een kwaliteitsverklaring afgegeven door een onafhankelijke certificeringsinstelling in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, is gelijkwaardig aan een erkende kwaliteitsverklaring, voorzover naar het oordeel van de Minister uit de eerstgenoemde kwaliteitsverklaring blijkt dat voldaan wordt aan ten minste gelijkwaardige eisen als bedoeld in deze regeling. 
 
 ### Artikel  17  
 
-De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwaliteitsverklaring dan wel een daaraan gelijkwaardige kwaliteitsverklaring als bedoeld in artikel 16 voor de daarbij genoemde materialen of chemicaliën.  
+De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwaliteitsverklaring dan wel een daaraan gelijkwaardige kwaliteitsverklaring als bedoeld in artikel 16 voor de daarbij genoemde materialen of chemicaliën. 
 
 ### Hoofdstuk  5  
 
@@ -229,8 +229,8 @@ De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwal
 
 ### Artikel  18  
 
-1.  Voor producten, zijnde biociden als bedoeld in de Wet gewasbeschermingsmiddelen en biociden die ten behoeve van de voorziening van drink- of warm tapwater hiermee in contact worden gebracht, dan wel daaraan worden toegevoegd met het doel een kwaliteitsverandering van dat water te bewerkstelligen, is naast de toelating, afgegeven door het College voor de toelating van gewasbeschermingsmiddelen en biociden, een erkende kwaliteitsverklaring vereist.   
-2.  Voor de afgifte van een kwaliteitsverklaring voor de in het eerste lid bedoelde biociden zijn de artikelen 12 tot en met 17 van overeenkomstige toepassing.   
+1.  Voor producten, zijnde biociden als bedoeld in de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) die ten behoeve van de voorziening van drink- of warm tapwater hiermee in contact worden gebracht, dan wel daaraan worden toegevoegd met het doel een kwaliteitsverandering van dat water te bewerkstelligen, is naast de toelating, afgegeven door het College voor de toelating van gewasbeschermingsmiddelen en biociden, een erkende kwaliteitsverklaring vereist.   
+2.  Voor de afgifte van een kwaliteitsverklaring voor de in het eerste lid bedoelde biociden zijn de artikelen 12 tot en met 17 van overeenkomstige toepassing.  
 
 ### Hoofdstuk  6  
 
@@ -238,9 +238,9 @@ De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwal
 
 ### Artikel  19  
 
-1.  Producten, niet zijnde biociden als bedoeld in de Wet gewasbeschermingsmiddelen en biociden die bestemd zijn om de microbiologische kwaliteit van het drinkwater of warm tapwater te beïnvloeden, worden niet toegepast zonder dat daar door de Minister een tijdelijke kwaliteitsverklaringvoor is afgegeven.   
+1.  Producten, niet zijnde biociden als bedoeld in de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) die bestemd zijn om de microbiologische kwaliteit van het drinkwater of warm tapwater te beïnvloeden, worden niet toegepast zonder dat daar door de Minister een tijdelijke kwaliteitsverklaringvoor is afgegeven.   
 2.  De tijdelijke kwaliteitsverklaring geldt voor een door de Minister per product vastgestelde periode. In die periode worden de werkzaamheid en de neveneffecten van het product onderzocht aan de hand van de door de commissie vastgestelde criteria, opgenomen in de bijlage bij de tijdelijke kwaliteitsverklaring.   
-3.  Indien de werkzaamheid van het in het eerste lid bedoelde product is aangetoond en vastgesteld is dat de neveneffecten van dit product niet nadelig zijn voor de volksgezondheid, kan de Minister, na de in het tweede lid bedoelde periode, een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen indien die kwaliteitsverklaring en de daarop betrekking hebbende procedures zijn gebaseerd op de voor het product bedoelde eisen, bedoeld in de artikelen 13 en 14.   
+3.  Indien de werkzaamheid van het in het eerste lid bedoelde product is aangetoond en vastgesteld is dat de neveneffecten van dit product niet nadelig zijn voor de volksgezondheid, kan de Minister, na de in het tweede lid bedoelde periode, een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen indien die kwaliteitsverklaring en de daarop betrekking hebbende procedures zijn gebaseerd op de voor het product bedoelde eisen, bedoeld in de artikelen 13 en 14.  
 
 ### Hoofdstuk  7  
 
@@ -251,29 +251,29 @@ De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwal
 1.  Deze regeling blijft buiten toepassing voor producten die voor het tijdstip van de inwerkingtreding van deze regeling zijn toegepast in bestaande woninginstallaties, bestaande collectieve leidingnetten, bestaande collectieve watervoorzieningen, bestaande distributienetten en bestaande watervoorzieningswerken.   
 2.  Indien voor producten in overeenstemming met deze regeling een erkende kwaliteitsverklaring is afgegeven en nadien een wijziging van de toelatingscriteria wordt vastgesteld door de Minister, blijven de ten tijde van de afgifte van de erkende kwaliteitsverklaring geldende toelatingscriteria van toepassing voor de nieuwe situatie gedurende twee jaar na het tijdstip waarop de wijzigingen aan belanghebbende schriftelijk kenbaar zijn gemaakt.   
 3.  In het geval en gedurende de periode, bedoeld in het tweede lid, kan de Minister beperkingen stellen aan de toepassing van de in dat lid bedoelde producten bij de drink- en warm tapwatervoorziening, indien die toepassing naar zijn oordeel nadelige gevolgen voor de volksgezondheid kan hebben.   
-4.  Indien voor materialen en chemicaliën voor het tijdstip van de inwerkingtreding van deze regeling een erkende kwaliteitsverklaringop grond van de Waterleidingwet is afgegeven, wordt die verklaring voor de toepassing van deze regeling aangemerkt als een erkende kwaliteitsverklaring.   
+4.  Indien voor materialen en chemicaliën voor het tijdstip van de inwerkingtreding van deze regeling een erkende kwaliteitsverklaringop grond van de [Waterleidingwet](../../../../../../../../../../wet/waterleidingwet/BWBR0002246/README.md) is afgegeven, wordt die verklaring voor de toepassing van deze regeling aangemerkt als een erkende kwaliteitsverklaring.  
 
 ### Artikel  21  
 
-Deze regeling treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na het tijdstip, bedoeld in de eerste volzin, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking op het tijdstip waarop de [Drinkwaterwet](../../../../../../../../../../wet/drinkwaterwet/BWBR0026338/README.md) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na het tijdstip, bedoeld in de eerste volzin, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  22  
 
-Deze regeling wordt aangehaald als: Regeling materialen en chemicaliën drink- en warm tapwatervoorziening.  
+Deze regeling wordt aangehaald als: Regeling materialen en chemicaliën drink- en warm tapwatervoorziening. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 29 juni 2011   
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma  
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma    
 
 ### Bijlage  B  
 
 ####– Positieve lijsten
 
-NB In het kader van de in de toelichting genoemde 4MS Common Approach wordt gewerkt aan een gezamenlijke positieve lijsten gebaseerd op de richtlijnen van de EFSA, het *EU Substances* document en de nationale positieve lijsten. Zodra deze lijst gereed is (naar verwachting in de loop van 2011), zal bijlage B hierop worden aangepast. Zie ook de paragrafen 2.3 en 3.3 van de toelichting bij deze regeling. <sup> 1  De 4MS (Member States) zijn Duitsland, Frankrijk, Nederland en het Verenigd Koninkrijk. Deze lidstaten zijn gezamenlijk verder gegaan om, met inachtneming van de uitkomsten van het stopgezette EAS-project, een gemeenschappelijk aanpak van de beoordeling van materialen en producten in contact met drinkwater concreet vorm te geven. Deze aanpak wordt aangeduid als 4MS Common Approach.  </sup> 
+NB In het kader van de in de toelichting genoemde 4MS Common Approach<sup> 1 De 4MS (Member States) zijn Duitsland, Frankrijk, Nederland en het Verenigd Koninkrijk. Deze lidstaten zijn gezamenlijk verder gegaan om, met inachtneming van de uitkomsten van het stopgezette EAS-project, een gemeenschappelijk aanpak van de beoordeling van materialen en producten in contact met drinkwater concreet vorm te geven. Deze aanpak wordt aangeduid als 4MS Common Approach. </sup>wordt gewerkt aan een gezamenlijke positieve lijsten gebaseerd op de richtlijnen van de EFSA, het *EU Substances* document en de nationale positieve lijsten. Zodra deze lijst gereed is (naar verwachting in de loop van 2011), zal bijlage B hierop worden aangepast. Zie ook de paragrafen 2.3 en 3.3 van de toelichting bij deze regeling. 
 
 ### 1  
 
@@ -318,19 +318,19 @@ NB In het kader van de in de toelichting genoemde 4MS Common Approach wordt gewe
 
 * benzo[a]pyreengehalte: maximaal 0,25 mg/kg koolzwart;  
 
-* maximale gebruiksconcentratie koolzwart in het polymeer : 2,5% (m/m). <sup> 2  De waarde van 2,5% (m/m) is niet van toepassing voor rubberproducten.  </sup>   
+* maximale gebruiksconcentratie koolzwart in het polymeer<sup> 2 De waarde van 2,5% (m/m) is niet van toepassing voor rubberproducten. </sup>: 2,5% (m/m).   
 ### *Paraffineolie:* 
 
 * gehalte aan minerale koolwaterstoffen met een koolstofketen van minder dan 25: ten hoogste 5% (m/m);  
 
-* viscositeit bij 100 °C ten minste 8,5 × 10–6 m <sup>2</sup> /s (= 8,5 centistokes);  
+* viscositeit bij 100 °C ten minste 8,5 × 10–6 m<sup>2</sup>/s (= 8,5 centistokes);  
 
 * gemiddeld molecuulgewicht ten minste 480 D.   
 ### *Wassen* 
 
 * gehalte aan minerale koolwaterstoffen met een koolstofketen van minder dan 25: ten hoogste 5% (m/m);  
 
-* viscositeit bij 100 °C ten minste 11 × 10–6 m <sup>2</sup> /s (= 11 centistokes);  
+* viscositeit bij 100 °C ten minste 11 × 10–6 m<sup>2</sup>/s (= 11 centistokes);  
 
 * gemiddeld molecuulgewicht ten minste 500 D.    
 
@@ -365,7 +365,7 @@ c. andere specifiek vermelde beperkingen of verwijzingen.
 1.1.13 In de lijst worden de volgende afkortingen gehanteerd:  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | --- | --- |
 | EP =  | eindproduct  |
 | QM =  | maximaal toegelaten restgehalte van de stof in het eindproduct  |
@@ -373,20 +373,20 @@ c. andere specifiek vermelde beperkingen of verwijzingen.
 In de regeling wordt onder QM mede verstaan dat het restgehalte van de stof in het eindproduct met een bij de opgegeven grenswaarde gevalideerde analysemethode moet worden bepaald. Indien een dergelijke methode nog niet voorhanden is mag, in afwachting van de ontwikkeling van een gevalideerde methode, een methode worden gebruikt met een bij de opgegeven grenswaarde geschikte bepalingskarakteristiek.  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | --- | --- |
 | MTC =  | maximaal toelaatbare concentratie in drink- of warmtapwater  |
 
 De specifieke migratie mag onder redelijkerwijs te verwachten gebruiksomstandigheden vermenigvuldigd met de van toepassing zijnde omrekenfactor vermeld in bijlage D van deze regeling niet meer bedragen dan de bij de betreffende stof aangegeven waarde. In de regeling wordt onder MTC mede verstaan dat de specifieke migratie van de stof met een bij de opgegeven grenswaarde gevalideerde analysemethode moet worden bepaald. Indien een dergelijke methode nog niet voorhanden is mag, in afwachting van de ontwikkeling van een gevalideerde methode, een methode worden gebruikt met een bij de opgegeven grenswaarde geschikte bepalingskarakteristiek.  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | --- | --- |
 | MTC(T) =  | maximaal toelaatbare concentratie in drink- of warmtapwater, uitgedrukt als totaal van de aangegeven stof(fen) of een deel daarvan  |
 
 In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van de stof met een bij de opgegeven grenswaarde gevalideerde analysemethode moet worden bepaald. Indien een dergelijke methode nog niet voorhanden is mag, in afwachting van de ontwikkeling van een gevalideerde methode, een methode worden gebruikt met een bij de opgegeven grenswaarde geschikte bepalingskarakteristiek.  
 
-1.1.14 Voor de volgende groepen van verbindingen, met uitzondering van stoffen die afzonderlijk in de lijst zijn opgenomen, geldt MTC(T) = 0,1 µg/l: *Secundaire* en *tertiaire* alifatische aminen ; Aromatische aminen; Fenolische verbindingen (als fenol); Nitrosaminen; Peroxiden; Polycyclische aromatische koolwaterstoffen.  
+1.1.14 Voor de volgende groepen van verbindingen, met uitzondering van stoffen die afzonderlijk in de lijst zijn opgenomen, geldt MTC(T) = 0,1 µg/l:  *Secundaire* en *tertiaire* alifatische aminen ; Aromatische aminen; Fenolische verbindingen (als fenol); Nitrosaminen; Peroxiden; Polycyclische aromatische koolwaterstoffen.  
 
 1.1.15 Voor aluminiumverbindingen geldt dat de verwachte concentratie van aluminium in drink- of warmtapwater, afgeleid van de gemeten migratie en de van toepassing zijnde omrekenfactor vermeld in bijlage D van deze Regeling, of verkregen via een theoretische berekening, niet meer mag bedragen dan 30 µg/l.  
 
@@ -401,7 +401,7 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 1.1.18 De in de positieve lijst vermelde loodverbindingen mogen met ingang van 1 januari 2015 niet meer worden gebruikt en zullen dientengevolge met ingang van 1 januari 2013 uit de positieve lijst worden verwijderd.    Stoffen die voor de vervaardiging van kunststoffen, elastomeren en rubberproducten mogen worden gebruikt 
 
 | CAS nr  | Naam  | MTC en/of specificaties  |
-|---|---|---|
+|:---|:---|:---|
 | 000075-07-0  | aceetaldehyd  | 0,3 mg/l  |
 | 000067-64-1  | aceton  | –  |
 | 003179-56-4  | acetylcyclohexaansulfonylperoxide  | 0,1 µg/l  |
@@ -414,10 +414,10 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | –  | alcoholen, eenwaardige, primaire, onvertakte, verzadigde C4-C22  | –  |
 | –  | alkadieen C3-C8  | –  |
 | –  | 1-alkeen C2-C8  | –  |
-| –  | alkyl(C8-C18)benzeensulfonaten, natriumzouten  | MTC(T) 1,5 mg/l <sup>(1)</sup>  |
+| –  | alkyl(C8-C18)benzeensulfonaten, natriumzouten  | MTC(T) 1,5 mg/l <sup>(1)</sup>   |
 | –  | alkyl(C8-C18)naftaleensulfonaten, natriumzouten  | MTC(T) 1,5 mg/l <sup>(1)</sup>)  |
-| –  | alkyl(C8-C18)sulfaten, natriumzouten  | MTC(T) 1,5 mg/l <sup>(1)</sup>  |
-| –  | alkyl(C8-C18)sulfonaten, natriumzouten  | MTC(T) 1,5 mg/l <sup>(1)</sup>  |
+| –  | alkyl(C8-C18)sulfaten, natriumzouten  | MTC(T) 1,5 mg/l <sup>(1)</sup>   |
+| –  | alkyl(C8-C18)sulfonaten, natriumzouten  | MTC(T) 1,5 mg/l <sup>(1)</sup>   |
 | 068037-49-0  | alkyl(C8-C22)sulfonzuur  | 0,3 mg/l  |
 | –  | N-alkyl(C14-C18)-N,N',N'-triacetoyl-1,3-diaminopropaan  | 0,1 µg/l  |
 | –  | alkyl(C8-C22)zwavelzuren, onvertakte, primaire, met een even aantal koolstofatomen  | –  |
@@ -508,7 +508,7 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 001344-95-2  | calciumsilicaat  | –  |
 | 001592-23-0  | calciumstearaat  | –  |
 | 000105-60-2  | caprolactam  | 0,75 mg/l  |
-| 000502-44-3  | caprolacton  | MTC(T) 2,5 µg/l <sup>(2)</sup>  |
+| 000502-44-3  | caprolacton  | MTC(T) 2,5 µg/l <sup>(2)</sup>   |
 | 063438-80-2  | (2-carbobutoxyethyl)tin-S,S',S"-tris(isooctylmercaptoacetaat)  | 1,5 mg/l  |
 | –  | carbonaten  | –  |
 | 009000-11-7  | carboxymethylcellulose  | –  |
@@ -556,8 +556,8 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 001561-49-5  | dicyclohexylperoxydicarbonaat  | 0,1 µg/l  |
 | 000077-73-6  | dicyclopentadieen  | 2,5 µg/l  |
 | 000105-97-5  | di-n-decyladipaat  | 0,1 µg/l  |
-| 000123-28-4  | didodecylthiodipropionaat  | MTC(T) 0,25 mg/l <sup>(3)</sup>  |
-| 000111-46-6  | diethyleenglycol  | MTC(T) 1,5 mg/l <sup>(4)</sup>  |
+| 000123-28-4  | didodecylthiodipropionaat  | MTC(T) 0,25 mg/l <sup>(3)</sup>   |
+| 000111-46-6  | diethyleenglycol  | MTC(T) 1,5 mg/l <sup>(4)</sup>   |
 | 000111-40-0  | diethyleentriamine  | 0,25 mg/l  |
 | 000140-01-2  | diethyleentriaminepentaacetaat, pentanatriumzout  | –  |
 | 000117-81-7  | di(2-ethylhexyl)ftalaat  | 15 µg/l  |
@@ -570,7 +570,7 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 000127-63-9  | difenylsulfon  | 0,15 mg/l  |
 | 001047-16-1  | 5,12-dihydroquino(2,3-b)acridine-7,14-dione  | –  |
 | 000123-31-9  | 1,4-dihydroxybenzeen  | 30 µg/l  |
-| 000131-56-6  | 2,4-dihydroxybenzofenon  | MTC(T) 0,3 mg/l <sup>(5)</sup>  |
+| 000131-56-6  | 2,4-dihydroxybenzofenon  | MTC(T) 0,3 mg/l <sup>(5)</sup>   |
 | 000092-88-6  | 4,4’-dihydroxybifenyl  | 0,3 mg/l  |
 | 000080-09-1  | 4,4-dihydroxydifenylsulfon  | 2,5 µg/l  |
 | 026761-40-0  | diisodecylftalaat  | zie ftaalzure diesters met primaire, verzadigde, vertakte C9-C11 alcoholen  |
@@ -602,24 +602,24 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 003135-18-0  | di-n-octadecyl-3,5-di-tert-butyl-4-hydroxybenzylfosfonaat  | –  |
 | 002500-88-1  | dioctadecyldisulfide  | 0,15 mg/l  |
 | 003806-34-6  | dioctadecylpentaerytritoldifosfiet  | –  |
-| 000693-36-7  | dioctadecylthiodipropionaat  | MTC(T) 0,25 mg/l <sup>(3)</sup>  |
+| 000693-36-7  | dioctadecylthiodipropionaat  | MTC(T) 0,25 mg/l <sup>(3)</sup>   |
 | 000117-84-0  | di-n-octylftalaat  | 0,11 mg/l  |
 | 000122-62-3  | di-n-octylsebacaat  | 0,1 µg/l  |
-| 015571-58-1  | di-n-octyltinbis(2-ethylhexylmercaptoacetaat)  | MTC(T) 2 µg/l <sup>(6)</sup>  |
-| 026401-97-8  | di-n-octyltinbis(isooctylmercaptoacetaat)  | MTC(T) 2 µg/l <sup>(6)</sup>  |
-| –  | di-n-octyltinbis(maleïnezuurmonoester met primaire, onvertakte, verzadigde C1-C18 alcoholen)  | MTC(T) 2 µg/l <sup>(6)</sup>  |
-| 003648-18-8  | di-n-octyltindilauraat  | MTC(T) 2 µg/l <sup>(6)</sup>  |
-| –  | di-n-octyltinmaleaat polymeer (het polymeer moet voldoen aan de formule [(C8H17)2SnC4H2O4]n, waarin n = 2 t/m 4)  | MTC(T) 2 µg/l <sup>(6)</sup>  |
+| 015571-58-1  | di-n-octyltinbis(2-ethylhexylmercaptoacetaat)  | MTC(T) 2 µg/l <sup>(6)</sup>   |
+| 026401-97-8  | di-n-octyltinbis(isooctylmercaptoacetaat)  | MTC(T) 2 µg/l <sup>(6)</sup>   |
+| –  | di-n-octyltinbis(maleïnezuurmonoester met primaire, onvertakte, verzadigde C1-C18 alcoholen)  | MTC(T) 2 µg/l <sup>(6)</sup>   |
+| 003648-18-8  | di-n-octyltindilauraat  | MTC(T) 2 µg/l <sup>(6)</sup>   |
+| –  | di-n-octyltinmaleaat polymeer (het polymeer moet voldoen aan de formule [(C8H17)2SnC4H2O4]n, waarin n = 2 t/m 4)  | MTC(T) 2 µg/l <sup>(6)</sup>   |
 | 000646-06-0  | 1,3-dioxolaan  | 2,5 µg/l  |
 | 005518-18-3  | N,N'-dipalmitoyldiaminoethaan  | –  |
 | 000126-58-9  | dipentaerytritol  | –  |
-| 000971-15-3  | di-N-pentamethyleenthiuramhexasulfide  | MTC(T) 50 µg/l <sup>(7)</sup>  |
-| 000120-54-7  | di-N-pentamethyleenthiuramtetrasulfide  | MTC(T) 50 µg/l <sup>(7)</sup>  |
+| 000971-15-3  | di-N-pentamethyleenthiuramhexasulfide  | MTC(T) 50 µg/l <sup>(7)</sup>   |
+| 000120-54-7  | di-N-pentamethyleenthiuramtetrasulfide  | MTC(T) 50 µg/l <sup>(7)</sup>   |
 | 000110-98-5  | dipropyleenglycol  | –  |
 | 000110-30-5  | N,N'-ethyleenbisstearamide  | –  |
-| 000120-78-5  | dithiobis(2-benzothiazol)  | MTC(T) 0,15 mg/l <sup>(8)</sup>  |
+| 000120-78-5  | dithiobis(2-benzothiazol)  | MTC(T) 0,15 mg/l <sup>(8)</sup>   |
 | 015017-02-4  | N,N'-di-o-tolyl-fenyleendiamine  | 0,1 µg/l  |
-| 001321-74-0  | divinylbenzeen (maximaal 45% (m/m) ethylvinylbenzeen bevattend)  | MTC(T) 0,1 µg/l <sup>(9)</sup>  |
+| 001321-74-0  | divinylbenzeen (maximaal 45% (m/m) ethylvinylbenzeen bevattend)  | MTC(T) 0,1 µg/l <sup>(9)</sup>   |
 | 000693-23-2  | dodecaandizuur  | –  |
 | 027176-87-0  | dodecylbenzeensulfonzuur  | 1,5 mg/l  |
 | 052047-59-3  | 2-(p-dodecylfenyl)indool  | 3 µg/l  |
@@ -635,14 +635,14 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 005518-18-3  | N,N'-ethyleenbis(palmitamide)  | –  |
 | 000107-15-3  | ethyleendiamine  | 0,6 mg/l  |
 | 000060-00-4  | ethyleendiaminetetraazijnzuur  | –  |
-| 000107-21-1  | ethyleenglycol  | MTC(T) 1,5 mg/l <sup>(4)</sup>  |
+| 000107-21-1  | ethyleenglycol  | MTC(T) 1,5 mg/l <sup>(4)</sup>   |
 | 000097-90-5  | ethyleenglycoldimethacrylaat  | 2,5 µg/l  |
 | 000151-56-4  | ethyleenimine  | 0,1 µg/l  |
 | 000075-21-8  | ethyleenoxide  | 0,1 µg/l  |
 | 026221-27-2  | ethyleenvinylalcohol copolymeer (EVOH)  | –  |
 | 000149-57-5  | 2-ethylhexaanzuur  | 2,5 µg/l  |
 | 016219-75-3  | 5-ethylideenbicyclo[2.2.1]hept-2-een  | –  |
-| 028106-30-1  | ethylvinylbenzeen  | MTC(T) 0,1 µg/l <sup>(9)</sup>  |
+| 028106-30-1  | ethylvinylbenzeen  | MTC(T) 0,1 µg/l <sup>(9)</sup>   |
 | 000108-45-2  | 1,3-fenyleendiamine  | 0,1 µg/l  |
 | 000948-65-2  | 2-fenylindool  | 0,75 mg/l  |
 | –  | N-fenyl-N'-isohexyl-p-fenyleendiamine  | 0,1 µg/l  |
@@ -651,8 +651,8 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 009003-36-5  | formaldehyd, polymeer met 2-(chloormethyl)oxiraan en fenol (Novolak glycidyl ether, NOGE)  | 2,5 µg/l  |
 | 010294-56-1  | fosforigzuur  | –  |
 | 007664-38-2  | fosforzuur  | –  |
-| 068515-48-0  | ftaalzure diesters met primaire, verzadigde, vertakte C8-C10 alcoholen  | MTC(T) 45 µg/l <sup>(10)</sup>  |
-| 068515-49-1  | ftaalzure diesters met primaire, verzadigde, vertakte C9-C11 alcoholen  | MTC(T) 45 µg/l <sup>(10)</sup>  |
+| 068515-48-0  | ftaalzure diesters met primaire, verzadigde, vertakte C8-C10 alcoholen  | MTC(T) 45 µg/l <sup>(10)</sup>   |
+| 068515-49-1  | ftaalzure diesters met primaire, verzadigde, vertakte C9-C11 alcoholen  | MTC(T) 45 µg/l <sup>(10)</sup>   |
 | 000088-99-3  | o-ftaalzuur  | –  |
 | 000085-44-9  | ftaalzuuranhydride  | –  |
 | 000110-17-8  | fumaarzuur  | –  |
@@ -668,16 +668,16 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 000124-09-4  | hexamethyleendiamine  | 0,12 mg/l  |
 | 000100-97-0  | hexamethyleentetramine  | 0,75 mg/l (uitgedrukt als formaldehyd)  |
 | 012304-65-3  | hydrotalciet  | –  |
-| 003864-99-1  | 2-(2-hydroxy-3,5-di-tert-butylfenyl)-5-chloorbenzotriazool  | MTC(T) 1,5 mg/l <sup>(11)</sup>  |
-| 003896-11-5  | 2-(2-hydroxy-3-tert-butyl-5-methylfenyl)-5-chloorbenzotriazool  | MTC(T) 1,5 mg/l <sup>(11)</sup>  |
+| 003864-99-1  | 2-(2-hydroxy-3,5-di-tert-butylfenyl)-5-chloorbenzotriazool  | MTC(T) 1,5 mg/l <sup>(11)</sup>   |
+| 003896-11-5  | 2-(2-hydroxy-3-tert-butyl-5-methylfenyl)-5-chloorbenzotriazool  | MTC(T) 1,5 mg/l <sup>(11)</sup>   |
 | 009004-62-0  | hydroxyethylcellulose  | –  |
 | 065447-77-0  | 1-(2-hydroxyethyl)-4-hydroxy-2,2,6,6-tetramethylpiperidine-dimethylsuccinaat, copolymeer  | 1,5 mg/l  |
 | 009032-42-2  | hydroxyethylmethylcellulose  | –  |
-| 001191-25-9  | 6-hydroxyhexaanzuur  | MTC(T) 2,5 µg/l <sup>(2)</sup>  |
-| 000131-57-7  | 2-hydroxy-4-methoxybenzofenon  | MTC(T) 0,3 mg/l <sup>(5)</sup>  |
+| 001191-25-9  | 6-hydroxyhexaanzuur  | MTC(T) 2,5 µg/l <sup>(2)</sup>   |
+| 000131-57-7  | 2-hydroxy-4-methoxybenzofenon  | MTC(T) 0,3 mg/l <sup>(5)</sup>   |
 | 037353-59-6  | hydroxymethylcellulose  | –  |
-| 002440-22-4  | 2-(2-hydroxy-5-methylfenyl)benzotriazool  | MTC(T) 1,5 mg/l <sup>(11)</sup>  |
-| 001843-05-6  | 2-hydroxy-4-n-octyloxybenzofenon  | MTC(T) 0,3 mg/l <sup>(5)</sup>  |
+| 002440-22-4  | 2-(2-hydroxy-5-methylfenyl)benzotriazool  | MTC(T) 1,5 mg/l <sup>(11)</sup>   |
+| 001843-05-6  | 2-hydroxy-4-n-octyloxybenzofenon  | MTC(T) 0,3 mg/l <sup>(5)</sup>   |
 | 009004-64-2  | hydroxypropylcellulose  | –  |
 | 009004-65-3  | hydroxypropylmethylcellulose  | –  |
 | 000106-14-9  | 12-hydroxystearinezuur  | –  |
@@ -720,12 +720,12 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 007786-30-3  | magnesiumchloride  | –  |
 | 001309-48-4  | magnesiumoxide  | –  |
 | 001343-88-0  | magnesiumsilicaat  | –  |
-| 000110-16-7  | maleïnezuur  | MTC(T) 1,5 mg/l <sup>(12)</sup>  |
-| 000108-31-6  | maleïnezuuranhydride  | MTC(T) 1,5 mg/l <sup>(12)</sup>  |
+| 000110-16-7  | maleïnezuur  | MTC(T) 1,5 mg/l <sup>(12)</sup>   |
+| 000108-31-6  | maleïnezuuranhydride  | MTC(T) 1,5 mg/l <sup>(12)</sup>   |
 | 000141-82-2  | malonzuur  | –  |
 | 068891-01-0  | melamine-formaldehyde condensatieproducten  | –  |
 | 000050-21-5  | melkzuur  | –  |
-| 000149-30-4  | 2-mercaptobenzothiazol  | MTC(T) 0,15 mg/l <sup>(8)</sup>  |
+| 000149-30-4  | 2-mercaptobenzothiazol  | MTC(T) 0,15 mg/l <sup>(8)</sup>   |
 | 000060-24-2  | 2-mercaptoethanol  | 2,5 µg/l  |
 | 059118-78-4  | 2-mercaptoethyloleaat  | 1,5 mg/l  |
 | 068440-24-4  | mercaptoethyltallaat  | 1500 µg/l  |
@@ -762,10 +762,10 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 008002-53-7  | montaanwas  | –  |
 | –  | montaanzure esters met ethyleenglycol en/of 1,3-butaandiol en/of glycerol  | –  |
 | 000506-48-9  | montaanzuur  | –  |
-| 000102-77-2  | morfolinothio-2-benzothiazol  | MTC(T) 0,15 mg/l <sup>(8)</sup>  |
+| 000102-77-2  | morfolinothio-2-benzothiazol  | MTC(T) 0,15 mg/l <sup>(8)</sup>   |
 | –  | myristylpolyetheenoxide(3-8)ether van oxyazijnzuur  | –  |
 | 009084-06-4  | naftaleensulfonzuur-formaldehydecondensatieprodukt, natriumzout  | 0,1 µg/l  |
-| 007631-90-5  | natriumbisulfiet  | 0,5 mg/l (als SO <sub>2</sub>)  |
+| 007631-90-5  | natriumbisulfiet  | 0,5 mg/l (als SO<sub>2</sub>)  |
 | 000497-19-8  | natriumcarbonaat  | –  |
 | 007681-49-4  | natriumfluoride  | –  |
 | 001310-73-2  | natriumhydroxide  | –  |
@@ -773,7 +773,7 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 001313-59-3  | natriumoxide  | –  |
 | 007775-27-1  | natriumperoxodisulfaat  | 0,1 µg/l  |
 | 001344-09-8  | natriumsilicaat  | –  |
-| 007757-83-7  | natriumsulfiet  | 0,5 mg/l (als SO <sub>2</sub>)  |
+| 007757-83-7  | natriumsulfiet  | 0,5 mg/l (als SO<sub>2</sub>)  |
 | 001330-43-4  | natriumtetraboraat  | 50 µg/l (als boor)  |
 | 001303-96-4  | natriumtetraboraat decahydraat  | 50 µg/l (als boor)  |
 | 007647-14-5  | natrumchloride  | –  |
@@ -828,7 +828,7 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 000094-13-3  | propyl-4-hydroxybenzoaat  | –  |
 | 002466-09-3  | pyrofosforzuur  | –  |
 | –  | raapolie  | –  |
-| 119345-01-6  | reactieproduct van di-tert-butylfosfoniet met bifenyl, verkregen door condensatie van 2,4-di-tert-butylfenol met Friedel-Crafts-reactieproduct van fosfortrichloride en bifenyl <sup>15</sup>  | 0,9 mg/l  |
+| 119345-01-6  | reactieproduct van di-tert-butylfosfoniet met bifenyl, verkregen door condensatie van 2,4-di-tert-butylfenol met Friedel-Crafts-reactieproduct van fosfortrichloride en bifenyl<sup>15</sup>   | 0,9 mg/l  |
 | 068442-68-2  | reactieproduct van styreen en difenylamine  | 2,5 µg/l  |
 | –  | reactieproducten van styreen en/of methylstyreen en/of alkenen, C3-C12, met fenol en/of methylfenol  | 2,5 µg/l  |
 | 068442-12-6  | reactieproduct van 2-mercaptoethyloleaat met dichloordimethyltin, natriumsulfide en trichloormethyltin  | 9 µg/l (als tin)  |
@@ -853,16 +853,16 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 014807-96-6  | talk  | -  |
 | 061790-12-3  | tallolievetzuren  | –  |
 | 000100-21-0  | tereftaalzuur  | 0,375 mg/l  |
-| 001634-02-2  | tetrabutylthiuramdisulfide  | MTC(T) 50 µg/l <sup>(13)</sup>  |
-| 000097-77-8  | tetraethylthiuramdisulfide  | MTC(T) 50 µg/l <sup>(13)</sup>  |
+| 001634-02-2  | tetrabutylthiuramdisulfide  | MTC(T) 50 µg/l <sup>(13)</sup>   |
+| 000097-77-8  | tetraethylthiuramdisulfide  | MTC(T) 50 µg/l <sup>(13)</sup>   |
 | 000116-14-3  | tetrafluoretheen  | 2,5 µg/l  |
 | 000109-99-9  | tetrahydrofuran  | 30 µg/l  |
 | 000126-33-0  | tetrahydrothiofeen-1,1-dioxide  | 0,1 µg/l  |
 | –  | tetrakis(2,4-di-tert-butylfenyl)-2,4'-bifenyleendifosfoniet  | 0,9 mg/l  |
 | 038613-77-3  | tetrakis(2,4-di-tert-butylfenyl)-4,4'-bifenyleendifosfoniet  | 0,9 mg/l  |
 | 006683-19-8  | tetrakis[methyleen(3,5-di-tert-butyl-4-hydroxyfenyl)propionaat]methaan  | –  |
-| 000137-26-8  | tetramethylthiuramdisulfide  | MTC(T) 50 µg/l <sup>(13)</sup>  |
-| 000097-74-5  | tetramethylthiurammonosulfide  | MTC(T) 50 µg/l <sup>(13)</sup>  |
+| 000137-26-8  | tetramethylthiuramdisulfide  | MTC(T) 50 µg/l <sup>(13)</sup>   |
+| 000097-74-5  | tetramethylthiurammonosulfide  | MTC(T) 50 µg/l <sup>(13)</sup>   |
 | 041484-35-9  | thiodiethanol-bis[3-(3,5-di-tert-butyl-4-hydroxyfenyl)propionaat]  | 0,12 mg/l  |
 | 000111-17-1  | thiodipropionzuur  | –  |
 | 001912-84-1  | tin(II)oleaat  | 2,5 µg/l  |
@@ -928,13 +928,13 @@ In de regeling wordt onder MTC(T) mede verstaan dat de specifieke migratie van d
 | 013983-17-0  | wollastoniet  | –  |
 | 011138-66-2  | xanthaangom  | –  |
 | 007646-85-7  | zinkchloride  | –  |
-| 014726-36-4  | zinkdibenzyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>  |
-| 000136-23-2  | zinkdibutyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>  |
-| 014324-55-1  | zinkdiethyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>  |
-| 000137-30-4  | zinkdimethyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>  |
-| 014634-93-6  | zinkethylfenyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>  |
+| 014726-36-4  | zinkdibenzyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>   |
+| 000136-23-2  | zinkdibutyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>   |
+| 014324-55-1  | zinkdiethyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>   |
+| 000137-30-4  | zinkdimethyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>   |
+| 014634-93-6  | zinkethylfenyldithiocarbamaat  | MTC(T) 50 µg/l <sup>(14)</sup>   |
 | 000136-53-8  | zink-2-ethylhexanoaat  | –  |
-| 000155-04-4  | zink-2-mercaptobenzothiazol  | MTC(T) 0,15 mg/l <sup>(8)</sup>  |
+| 000155-04-4  | zink-2-mercaptobenzothiazol  | MTC(T) 0,15 mg/l <sup>(8)</sup>   |
 | 000557-09-5  | zinkoctanoaat  | –  |
 | 001314-13-2  | zinkoxide  | –  |
 | 004991-47-3  | zinkpalmitaat  | –  |
@@ -959,7 +959,7 @@ Noten 1 In dit specifieke geval betekent de MTC(T) dat de som van de migratie va
 Bij extractie met 0,1 N zoutzuur mogen uit de kleurstof of het pigment de volgende elementen tot ten hoogste de aangegeven hoeveelheid, berekend op kleurstof of pigment, in oplossing gaan:  
 
 | Component  | Maximale hoeveelheid  |
-|---|---|
+|:---|:---|
 | Antimoon  | 0,2%  |
 | Arseen  | 0,01%  |
 | Barium  | 0,01  |
@@ -969,7 +969,7 @@ Bij extractie met 0,1 N zoutzuur mogen uit de kleurstof of het pigment de volgen
 | Lood  | 0,01  |
 | Seleen  | 0,01%  |
 
-Bij extractie met 2 N ethanolisch zoutzuur mogen uit de kleurstof of het pigment ten hoogste 0,05% aromatische aminen, berekend op kleurstof of pigment, in oplossing gaan.  
+Bij extractie met 2 N ethanolisch zoutzuur mogen uit de kleurstof of het pigment ten hoogste 0,05% aromatische aminen, berekend op kleurstof of pigment, in oplossing gaan. 
 
 ### 2.2  
 
@@ -978,7 +978,7 @@ Bij extractie met 2 N ethanolisch zoutzuur mogen uit de kleurstof of het pigment
 De migratie van bestanddelen van kleurstoffen en pigmenten in een eindproduct in contact met drink- of warmtapwater, bepaald met de geldende onderzoeks- en beoordelingsmethoden die vermeld zijn in de bijlagen C en D mag niet meer bedragen dan de hierna bij het desbetreffende bestanddeel aangegeven waarde in µg/l:  
 
 | Component  | Maximale concentratie in migratiewater (µg/l)  |
-|---|---|
+|:---|:---|
 | Aromatische aminen  | 0,1  |
 | Antimoon  | 0,5  |
 | Arseen  | 1  |
@@ -997,7 +997,7 @@ De migratie van bestanddelen van kleurstoffen en pigmenten in een eindproduct in
 ####Toegelaten kleurstoffen en pigmenten
 
 | C.I. generieke naam  | C.I. nummer  | Chemische of triviale naam  | CAS nummer  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | C.I. Fluorescent Brightener 184:1  | –  | 2,5-bis(5-tert.butyl-2-benzoxazolyl)thiophene  | 7128-64-5  |
 | C.I. Fluorescent Brightener 236  | –  | 7-(2H-naphthol[1,2-d]triazol-2-yl)-3-phenylcoumarin  | 3333-62-8  |
 | C.I. Food Blue 2  | 42090  | triarylmethane  | 3844-45-9  |
@@ -1059,7 +1059,7 @@ De migratie van bestanddelen van kleurstoffen en pigmenten in een eindproduct in
 ### *A – Compositielimieten van de categorie* 
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | ≥ 57.0  | Antimoon  | 0.02  |
 | Zink  | Rest  | Arseen  | 0.02  |
 | Lood  | ≤ 3.5  | Bismut  | 0.02  |
@@ -1071,7 +1071,7 @@ De migratie van bestanddelen van kleurstoffen en pigmenten in een eindproduct in
 ### *B – Samenstelling referentiemateriaal* 
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | 57.0 – 59.0  | Antimoon  | 0.02  |
 | Zink  | Rest  | Arseen  | 0.02  |
 | Lood  | 1.9-2.1  | Bismut  | 0.02  |
@@ -1086,10 +1086,10 @@ De migratie van bestanddelen van kleurstoffen en pigmenten in een eindproduct in
 *Te overwegen bepalingen in het migratiewater:*  Lood, nikkel, koper, zink 
 ### *C – Samenstelling geteste en toegelaten messing materialen* 
 
-Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntroduceerd door CEN/TC164/WG3/AHG5 en heeft geen officiële status.  </sup>  
+Messing B2<sup> 3 B2 is een aanduiding geïntroduceerd door CEN/TC164/WG3/AHG5 en heeft geen officiële status. </sup>(gebaseerd op CW617N CW612N)  
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | 57.0 – 60.0  | Antimoon  | 0.02  |
 | Zink  | Rest  | Arseen  | 0.02  |
 | Lood  | 1.6 – 2.2  | Bismut  | 0.02  |
@@ -1101,10 +1101,10 @@ Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntrodu
 | --- | --- | Silicium  | 0.03  |
 | --- | --- | Tin  | 0.3  |
 
-*Toegestaan voor de volgende productgroepen:*  Productgroep B Productgroep C Messing B1 (gebaseerd op CW614N, CW603N) <sup> 4  B1 is een aanduiding geïntroduceerd door CEN/TC164/WG3/AHG5 en heeft geen officiële status  </sup>  
+*Toegestaan voor de volgende productgroepen:*  Productgroep B Productgroep C Messing B1<sup> 4 B1 is een aanduiding geïntroduceerd door CEN/TC164/WG3/AHG5 en heeft geen officiële status </sup>(gebaseerd op CW614N, CW603N)  
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | 57,0–62,0  | Antimoon  | 0.02  |
 | Zink  | Rest  | Arseen  | 0.02  |
 | Lood  | 2,5–3,5  | Bismut  | 0.02  |
@@ -1116,7 +1116,7 @@ Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntrodu
 | --- | --- | Silicium  | 0.03  |
 | --- | --- | Tin  | 0.3  |
 
-*Toegestaan voor de volgende productgroepen:*  Productgroep C  
+*Toegestaan voor de volgende productgroepen:*  Productgroep C 
 
 ### 3.1.2  
 
@@ -1125,7 +1125,7 @@ Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntrodu
 ### *A – Compositielimieten van de categorie* 
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | ≥ 61.0  | Antimoon  | 0.02  |
 | Zink  | Rest  | Bismut  | 0.02  |
 | Arseen  | ≤ 0.15  | Cadmium  | 0.02  |
@@ -1138,7 +1138,7 @@ Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntrodu
 ### *B – Samenstelling referentiemateriaal* 
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | 61.0–63.0  | Antimoon  | 0.02  |
 | Zink  | Rest  | Bismut  | 0.02  |
 | Arseen  | 0.09–0.13  | Cadmium  | 0.02  |
@@ -1148,7 +1148,7 @@ Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntrodu
 | --- | --- | Silicium  | 0.02  |
 | --- | --- | Tin  | 0.3  |
 
-*Te overwegen bepalingen in het migratiewater:*  Lood, nikkel, arseen, koper, zink  *Toegestaan voor de volgende productgroepen:*  Productgroep B Productgroep C  
+*Te overwegen bepalingen in het migratiewater:*  Lood, nikkel, arseen, koper, zink  *Toegestaan voor de volgende productgroepen:*  Productgroep B Productgroep C 
 
 ### 3.1.3  
 
@@ -1157,7 +1157,7 @@ Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntrodu
 ### *A – Compositielimieten van de categorie* 
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | Rest  | Aluminium  | 0.01  |
 | Zink  | ≤ 6.5  | Antimoon  | 0.1  |
 | Tin  | ≤ 13.0  | Arseen  | 0.03  |
@@ -1170,7 +1170,7 @@ Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntrodu
 ### *B – Samenstelling referentiemateriaal* 
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | Rest  | Aluminium  | 0.01  |
 | Zink  | 5.9–6.2  | Antimoon  | 0.1  |
 | Tin  | 3.9–4.1  | Arseen  | 0.03  |
@@ -1186,7 +1186,7 @@ Messing B2 (gebaseerd op CW617N CW612N) <sup> 3  B2 is een aanduiding geïntrodu
 Geschutsbrons GM1 (gebaseerd op CC491K)  
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | 84.0–88.0  | Aluminium  | 0.01  |
 | Zink  | 4.0–6.0  | Antimoon  | 0.1  |
 | Tin  | 4.0–6.0  | Arseen  | 0.03  |
@@ -1196,7 +1196,7 @@ Geschutsbrons GM1 (gebaseerd op CC491K)
 | --- | --- | IJzer  | 0.3  |
 | --- | --- | Silicium  | 0.01  |
 
-*Toegestaan voor de volgende productgroepen:*  Productgroep B Productgroep C  
+*Toegestaan voor de volgende productgroepen:*  Productgroep B Productgroep C 
 
 ### 3.2  
 
@@ -1209,14 +1209,14 @@ Geschutsbrons GM1 (gebaseerd op CC491K)
 ### *A – Compositielimieten van de categorie* 
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | ≥ 99.9  | totaal  | ≤ 0.1  |
 | Fosfor  | ≤ 0.04  | --- | --- |
 
 ### *B – Samenstelling referentiemateriaal* 
 
 | Samenstellende component  | EN nummer  |
-|---|---|
+|:---|:---|
 | Cu-DHP  | CW 024A  |
 
 *Te overwegen bepalingen in het migratiewater:*  Geen: vergelijkende testen behoeven niet te worden uitgevoerd 
@@ -1225,21 +1225,21 @@ Geschutsbrons GM1 (gebaseerd op CC491K)
 Koper (Cu-DHP)  
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Koper  | ≥ 99,9  | totaal  | ≤ 0,1  |
 | Fosfor  | ≤ 0,04  | --- | --- |
 
-*Toegestaan voor de volgende productgroepen:*  Productgroep A Productgroep B Productgroep C  *Noot:*  De contaminatie van drink- of warmtapwater door koperen buizen is afhankelijk van verschillende karakteristieken van de watersamenstelling en kan in sommige gevallen tot niet accepteerbare koperconcentraties leiden.  
+*Toegestaan voor de volgende productgroepen:*  Productgroep A Productgroep B Productgroep C  *Noot:*  De contaminatie van drink- of warmtapwater door koperen buizen is afhankelijk van verschillende karakteristieken van de watersamenstelling en kan in sommige gevallen tot niet accepteerbare koperconcentraties leiden. 
 
 ### 3.2.2  
 
 ####Inwendig vertinde koperen buizen en fittingen
 
-Bij inwendig vertinde koperen buizen en fittingen wordt door middel van verschillende processen een relatief dunne laag tin aangebracht op het basismateriaal koper. Door de diffusie van koperionen naar de tinlaag wordt een toenemende ‘inter-metalen fase’ gevormd bestaande uit tin en koper (η-fase = Cu <sub>6</sub> Sn <sub>5</sub>). 
+Bij inwendig vertinde koperen buizen en fittingen wordt door middel van verschillende processen een relatief dunne laag tin aangebracht op het basismateriaal koper. Door de diffusie van koperionen naar de tinlaag wordt een toenemende ‘inter-metalen fase’ gevormd bestaande uit tin en koper (η-fase = Cu<sub>6</sub>Sn<sub>5</sub>). 
 ### *A – Compositielimieten van de categorie: tinlaag* 
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden of  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Tin en koper  | ≥ 99.90  | Antimoon  | 0.01  |
 | --- | --- | Arseen  | 0.01  |
 | --- | --- | Bismut  | 0.01  |
@@ -1253,7 +1253,7 @@ Bij inwendig vertinde koperen buizen en fittingen wordt door middel van verschil
 – Koperen buis in overeenstemming met EN 1057    
 
 | Samenstellende component  | EN nummer  |
-|---|---|
+|:---|:---|
 | Cu-DHP  | CW 024A  |
 
 ### *C – Geteste en toegelaten materialen* 
@@ -1261,7 +1261,7 @@ Bij inwendig vertinde koperen buizen en fittingen wordt door middel van verschil
 CW 024A koper met een tinlaag van 1 µm met de volgende samenstelling:  
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden of  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Tin  | > 90  | Antimoon  | 0.01  |
 | Koper  | < 10  | Arseen  | 0.01  |
 | --- | --- | Bismut  | 0.01  |
@@ -1270,7 +1270,7 @@ CW 024A koper met een tinlaag van 1 µm met de volgende samenstelling:
 | --- | --- | Lood  | 0.01  |
 | --- | --- | Nikkel  | 0.01  |
 
-*Toegestaan voor de volgende productgroepen:*  Productgroep A (geen beperkingen) Productgroep B Productgroep C  
+*Toegestaan voor de volgende productgroepen:*  Productgroep A (geen beperkingen) Productgroep B Productgroep C 
 
 ### 3.3  
 
@@ -1283,7 +1283,7 @@ CW 024A koper met een tinlaag van 1 µm met de volgende samenstelling:
 De zinklaag die door middel van galvaniseren is opgebracht dient te voldoen aan de volgende eisen:  
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Zink  | --- | Antimoon  | 0,01  |
 | --- | --- | Arseen  | 0,02  |
 | --- | --- | Cadmium  | 0,01  |
@@ -1298,7 +1298,7 @@ De zinklaag die door middel van galvaniseren is opgebracht dient te voldoen aan 
 De zinklaag die door middel van galvaniseren is opgebracht dient te voldoen aan de volgende eisen:  
 
 | Samenstellende component  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Zink  | --- | Antimoon  | 0,01  |
 | --- | --- | Arseen  | 0,02  |
 | --- | --- | Cadmium  | 0,01  |
@@ -1313,16 +1313,16 @@ De zinklaag die door middel van galvaniseren is opgebracht dient te voldoen aan 
 De volgende formule kan gebruikt worden voor het vaststellen van watersamenstellingen waarin de corrosiesnelheid voor gegalvaniseerd staal onacceptabel kan zijn:  
 
 | --- | --- |
-|---|---|
-| --- | pH ≥ 7.5 of vrij CO <sub>2</sub> ≤ 0.25 mmol/l  |
+|:---|:---|
+| --- | pH ≥ 7.5 of vrij CO<sub>2</sub>≤ 0.25 mmol/l  |
 | EN  | Alkaliteit ≥ 1.5 mmol/l  |
-| EN  | S <sub>1</sub> < 2 (*zie hieronder voor de definitie van of S <sub>1</sub>*)  |
+| EN  | S<sub>1</sub> < 2 (*zie hieronder voor de definitie van of S<sub>1</sub> *)  |
 | EN  | Calcium ≥ 0.5 mmol/L  |
 | EN  | Geleidbaarheid ≤ 600 µS/cm at 25 °C  |
-| EN  | S <sub>2</sub> <1 or S <sub>2</sub> >3 (*zie hieronder voor de definitie van S2*)  |
+| EN  | S<sub>2</sub> <1 or S<sub>2</sub>>3 (*zie hieronder voor de definitie van S2*)  |
 
-![]()
-*Toegestaan voor de volgende productgroepen:*  Productgroep A Productgroep B Productgroep C  
+![249141](http://wetten.overheid.nl/Illustration/249141)
+*Toegestaan voor de volgende productgroepen:*  Productgroep A Productgroep B Productgroep C 
 
 ### 3.4  
 
@@ -1332,7 +1332,7 @@ De volgende formule kan gebruikt worden voor het vaststellen van watersamenstell
 
 ####Koolstofstaal voor buizen en tanks
 
-Koolstofstaal zonder permanente beschermende laag is niet geschikt voor gebruik in contact met drinkwater.  
+Koolstofstaal zonder permanente beschermende laag is niet geschikt voor gebruik in contact met drinkwater. 
 
 ### 3.4.2  
 
@@ -1347,7 +1347,7 @@ Koolstofstaal zonder permanente beschermende laag kan gebruikt worden voor speci
 De samenstellende componenten en onzuiverheden mogen de volgende maximumgehaltes niet overschrijden:  
 
 | Samenstellende componenten  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | IJzer  | --- | Antimoon  | 0,02  |
 | Koolstof  | ≤ 2,11  | Arseen  | 0,02  |
 | Chroom  | ≤1,0  | Cadmium  | 0,02  |
@@ -1361,14 +1361,14 @@ De samenstellende componenten en onzuiverheden mogen de volgende maximumgehaltes
 De samenstellende componenten en onzuiverheden mogen de volgende maximumgehaltes niet overschrijden:  
 
 | Samenstellende component  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | IJzer  | --- | Antimoon  | 0,02  |
 | Koolstof  | ≤ 2,11  | Arseen  | 0,02  |
 | Chroom  | ≤1,0  | Cadmium  | 0,02  |
 | Molybdeen  | ≤1,0  | Lood  | 0,02  |
 | Nikkel  | ≤0,5  | --- | --- |
 
-*Toegestaan voor de volgende productgroepen:*  Group C  
+*Toegestaan voor de volgende productgroepen:*  Group C 
 
 ### 3.5  
 
@@ -1378,7 +1378,7 @@ De samenstellende componenten en onzuiverheden mogen de volgende maximumgehaltes
 
 ####Gietijzer voor buizen en fittingen
 
-Gietijzer zonder permanente beschermende laag is niet geschikt voor buizen en fittingen die in contact komen met drinkwater.  
+Gietijzer zonder permanente beschermende laag is niet geschikt voor buizen en fittingen die in contact komen met drinkwater. 
 
 ### 3.5.2  
 
@@ -1393,7 +1393,7 @@ Gietijzer zonder permanente beschermende laag kan gebruikt worden voor specifiek
 De samenstellende componenten en onzuiverheden mogen de volgende maximumgehaltes niet overschrijden:  
 
 | Samenstellende component  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | IJzer  | --- | Antimoon  | 0,02  |
 | Koolstof  | --- | Arseen  | 0,02  |
 | Chroom  | ≤1,0  | Cadmium  | 0,02  |
@@ -1407,14 +1407,14 @@ De samenstellende componenten en onzuiverheden mogen de volgende maximumgehaltes
 De samenstellende componenten en onzuiverheden mogen de volgende maximumgehaltes niet overschrijden:  
 
 | Samenstellende component  | Gehalte (%)  | Onzuiverheden  | Maximumgehalte (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | IJzer  | --- | Antimoon  | 0,02  |
 | Koolstof  | --- | Arseen  | 0,02  |
 | Chroom  | ≤1,0  | Cadmium  | 0,02  |
 | Molybdeen  | ≤1,0  | Lood  | 0,02  |
 | Nikkel  | ≤6.0  | --- | --- |
 
-*Toegestaan voor de volgende productgroepen:*  Group C  
+*Toegestaan voor de volgende productgroepen:*  Group C 
 
 ### Bijlage  C  
 
@@ -1432,37 +1432,37 @@ De samenstellende componenten en onzuiverheden mogen de volgende maximumgehaltes
 
 ####Organische, fabrieksmatig gefabriceerde producten
 
-In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 12873-1:2003 (en) van toepassing.  
+In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 12873-1:2003 (en) van toepassing. 
 
 ### 1.1.2  
 
 ####Ter plekke toegepaste organische materialen (niet zijnde metalen of cementproducten)
 
-In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 12873-2:2005 (en) van toepassing.  
+In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 12873-2:2005 (en) van toepassing. 
 
 ### 1.1.3  
 
 ####Membranen
 
-In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 12873-4:2006 (en) van toepassing.  
+In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 12873-4:2006 (en) van toepassing. 
 
 ### 1.1.4  
 
 ####Ionenwisselaars en adsorptieharsen
 
-In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 12873-3:2006 (en) van toepassing.  
+In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 12873-3:2006 (en) van toepassing. 
 
 ### 1.1.5  
 
 ####Metalen
 
-In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 15664-1:2008 (en) van toepassing.  
+In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 15664-1:2008 (en) van toepassing. 
 
 ### 1.1.6  
 
 ####Migratietest voor cementproducten
 
-In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 14944-3:2005 Ontw. (en) van toepassing voor fabrieksmatig geproduceerde producten. Voor ter plekke toegepaste materialen en geassocieerde cementproducten is nog geen norm beschikbaar. De commissie kan een methode aanwijzen.  
+In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 14944-3:2005 Ontw. (en) van toepassing voor fabrieksmatig geproduceerde producten. Voor ter plekke toegepaste materialen en geassocieerde cementproducten is nog geen norm beschikbaar. De commissie kan een methode aanwijzen. 
 
 ### 1.2  
 
@@ -1474,43 +1474,43 @@ In overeenstemming met artikel 19, derde lid, zijn de volgende normen van toepas
 
 ####Organische, fabrieksmatig gefabriceerde producten van distributiesystemen
 
-Voor de bepaling van de invloed van organische, fabrieksmatig gefabriceerde producten toegepast in distributiesystemen op de geur en smaak van water bestemd voor menselijke consumptie wordt het migratiewater verkregen als beschreven in NEN-EN 1420-1:1999 (en). Voor de bepaling van de invloed van organische, fabrieksmatig gefabriceerde producten toegepast in leidingsystemen op de kleur en troebelingsgraad van water bestemd voor menselijke consumptie wordt het migratiewater verkregen als beschreven in NEN-EN 13052-1:2001 (en).  
+Voor de bepaling van de invloed van organische, fabrieksmatig gefabriceerde producten toegepast in distributiesystemen op de geur en smaak van water bestemd voor menselijke consumptie wordt het migratiewater verkregen als beschreven in NEN-EN 1420-1:1999 (en). Voor de bepaling van de invloed van organische, fabrieksmatig gefabriceerde producten toegepast in leidingsystemen op de kleur en troebelingsgraad van water bestemd voor menselijke consumptie wordt het migratiewater verkregen als beschreven in NEN-EN 13052-1:2001 (en). 
 
 ### 1.2.2  
 
 ####Organische materialen van voorraadsystemen
 
-Voor de bepaling van de invloed van organische materialen van voorraadsystemen (tanks, reservoirs, hulpstukken en de eventueel toegepaste coatings, zowel voor fabrieksmatig geproduceerde eindproducten als ter plekke toegepaste materialen op de organoleptische aspecten van water bestemd voor menselijke consumptie wordt het migratiewater verkregen als beschreven in NEN-EN 14395-1:2004 (en).  
+Voor de bepaling van de invloed van organische materialen van voorraadsystemen (tanks, reservoirs, hulpstukken en de eventueel toegepaste coatings, zowel voor fabrieksmatig geproduceerde eindproducten als ter plekke toegepaste materialen op de organoleptische aspecten van water bestemd voor menselijke consumptie wordt het migratiewater verkregen als beschreven in NEN-EN 14395-1:2004 (en). 
 
 ### 1.2.3  
 
 ####Membranen
 
-Membranen worden niet getest op organoleptische aspecten, omdat het water dat de membraan gepasseerd heeft nog geen drink- of warmtapwater is.  
+Membranen worden niet getest op organoleptische aspecten, omdat het water dat de membraan gepasseerd heeft nog geen drink- of warmtapwater is. 
 
 ### 1.2.4  
 
 ####Ionenwisselaars en adsorptieharsen
 
-Ionenwisselaars en adsorptieharsen worden niet getest op organoleptische aspecten, omdat het water dat met deze producten in contact is geweest nog geen drink- of warmtapwater is.  
+Ionenwisselaars en adsorptieharsen worden niet getest op organoleptische aspecten, omdat het water dat met deze producten in contact is geweest nog geen drink- of warmtapwater is. 
 
 ### 1.2.5  
 
 ####Metalen
 
-Voor een beoordeling van de organoleptische aspecten van metalen is geen methode opgenomen. De MTC’s die zijn vastgesteld voor metalen of metaalionen afgegeven door metalen producten of materialen zijn (veel) lager dan de concentraties waarbij organoleptische aspecten een rol gaan spelen. Dit betekent dat, indien een metalen product/materiaal voldoet aan de toxicologische criteria/eisen, een onderzoek naar de organoleptische aspecten niet nodig is.  
+Voor een beoordeling van de organoleptische aspecten van metalen is geen methode opgenomen. De MTC’s die zijn vastgesteld voor metalen of metaalionen afgegeven door metalen producten of materialen zijn (veel) lager dan de concentraties waarbij organoleptische aspecten een rol gaan spelen. Dit betekent dat, indien een metalen product/materiaal voldoet aan de toxicologische criteria/eisen, een onderzoek naar de organoleptische aspecten niet nodig is. 
 
 ### 1.2.6  
 
 ####Cementproducten
 
-Voor de bepaling van de invloed van fabrieksmatig vervaardigde cementproducten op de organoleptische aspecten van water bestemd voor menselijke consumptie wordt het migratiewater verkregen als beschreven in NEN-EN 14944-1:2006 (en). Voor de bepaling van de invloed van ter plekke toegepaste cementmaterialen en daaraan verbonden producten op de organoleptische aspecten van drink- of warmtapwater is nog geen norm beschikbaar.  
+Voor de bepaling van de invloed van fabrieksmatig vervaardigde cementproducten op de organoleptische aspecten van water bestemd voor menselijke consumptie wordt het migratiewater verkregen als beschreven in NEN-EN 14944-1:2006 (en). Voor de bepaling van de invloed van ter plekke toegepaste cementmaterialen en daaraan verbonden producten op de organoleptische aspecten van drink- of warmtapwater is nog geen norm beschikbaar. 
 
 ### 1.2.7  
 
 ####Technologische hulpstoffen
 
-Voor het bepalen van de invloed van technologische hulpmiddelen, zijnde vloeimiddelen, ontkistingsmiddelen, *curing compounds*, glijmiddelen en losmiddelen op de organoleptische aspecten van drink- of warmtapwater, indien deze middelen niet afdoende verwijderd kunnen worden, kan de Minister in overeenstemming met artikel 10 een nadere aanwijzing geven. Dit geldt ook voor smeermiddelen in geassembleerde producten en afdichtingsmaterialen.  
+Voor het bepalen van de invloed van technologische hulpmiddelen, zijnde vloeimiddelen, ontkistingsmiddelen, *curing compounds*, glijmiddelen en losmiddelen op de organoleptische aspecten van drink- of warmtapwater, indien deze middelen niet afdoende verwijderd kunnen worden, kan de Minister in overeenstemming met artikel 10 een nadere aanwijzing geven. Dit geldt ook voor smeermiddelen in geassembleerde producten en afdichtingsmaterialen. 
 
 ### 2  
 
@@ -1526,25 +1526,25 @@ In overeenstemming met artikel 19, derde lid, zijn de volgende normen van toepas
 
 ####Geur en smaak
 
-De kwantitatieve bepaling van de geur en smaak van het migratiewater verkregen met de testen genoemd onder 1.2.1 tot en met 1.2.6 wordt uitgevoerd volgens één van de methoden beschreven in de norm NEN-EN 1622:2006 (en).  
+De kwantitatieve bepaling van de geur en smaak van het migratiewater verkregen met de testen genoemd onder 1.2.1 tot en met 1.2.6 wordt uitgevoerd volgens één van de methoden beschreven in de norm NEN-EN 1622:2006 (en). 
 
 ### 2.1.2  
 
 ####Kleur
 
-De kwantitatieve bepaling van de kleur van het migratiewater verkregen met de testen genoemd onder 1.2.1 tot en met 1.2.6 wordt uitgevoerd volgens de methode beschreven in NEN-EN-ISO 7887:1994 (en).  
+De kwantitatieve bepaling van de kleur van het migratiewater verkregen met de testen genoemd onder 1.2.1 tot en met 1.2.6 wordt uitgevoerd volgens de methode beschreven in NEN-EN-ISO 7887:1994 (en). 
 
 ### 2.1.3  
 
 ####Troebelingsgraad
 
-De kwantitatieve bepaling van de troebelingsgraad van het migratiewater verkregen met de testen genoemd onder 1.1.1 tot en met 1.1.4 en 1.2.6 wordt uitgevoerd volgens de methode beschreven in NEN-EN-ISO 7027:2000 (en).  
+De kwantitatieve bepaling van de troebelingsgraad van het migratiewater verkregen met de testen genoemd onder 1.1.1 tot en met 1.1.4 en 1.2.6 wordt uitgevoerd volgens de methode beschreven in NEN-EN-ISO 7027:2000 (en). 
 
 ### 2.2  
 
 ####Bepalingsmethode voor het vaststellen van nagroei (microbiologische test)
 
-Met inachtneming van artikel 6, tiende, zal de norm NVN 1225:2004 en van toepassing zijn na vaststelling van de beoordelingscriteria door de commissie.  
+Met inachtneming van artikel 6, tiende, zal de norm NVN 1225:2004 en van toepassing zijn na vaststelling van de beoordelingscriteria door de commissie. 
 
 ### 2.3  
 
@@ -1554,7 +1554,7 @@ Met inachtneming van artikel 6, tiende, zal de norm NVN 1225:2004 en van toepass
 
 ####Toc
 
-In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 1484:1997 (en/nl) van toepassing voor het vaststellen van de TOC.  
+In overeenstemming met artikel 19, derde lid, is de norm NEN-EN 1484:1997 (en/nl) van toepassing voor het vaststellen van de TOC. 
 
 ### 2.3.2  
 
@@ -1568,7 +1568,7 @@ Indien beschikbaar wordt de specifieke migratie van verbindingen waarvoor een MT
 
 * juistheid;  
 
-* meetonzekerheid.   De aantoonbaarheidsgrens van de methode dient lager te zijn dan eenvijfde maal de MTC. De methoden worden door de commissie vastgelegd in overeenstemming met artikel 1, vierde lid van het reglement van de commissie.  
+* meetonzekerheid.   De aantoonbaarheidsgrens van de methode dient lager te zijn dan eenvijfde maal de MTC. De methoden worden door de commissie vastgelegd in overeenstemming met artikel 1, vierde lid van het reglement van de commissie. 
 
 ### 3  
 
@@ -1580,10 +1580,10 @@ Als leidraad voor de berekening van de migratie van stoffen uit materialen die i
 
 ####Formules en aannames
 
-Voor de migratiesnelheid van een stof uit materiaal P naar vloeistof F kan via de tijdsafhankelijke diffusievergelijking volgens de 2 <sup>e</sup> wet van Fick de volgende analytische oplossing afgeleid worden:   ![]()
-Met daarin: m <sub>F,t</sub> = de gemigreerde hoeveelheid van een migrant uit materiaal P in vloeistof F na tijd t (s) in (mg); A = het contactoppervlak tussen materiaal P en vloeistof F (dm <sup>2</sup>); c <sub>P,0</sub> = de beginconcentratie van de migrant in materiaal P (µg/g = mg/kg = ppm); ρ <sub>P</sub> = de dichtheid van het materiaal P (g/cm <sup>3</sup>); d <sub>P</sub> = de dikte van het materiaal P (cm); α = dimensieloze parameter, volgens de vergelijking:   ![]()
-met: V <sub>F</sub> = volume van vloeistof F (cm <sup>3</sup>); V <sub>P</sub> = volume van materiaal P (cm <sup>3</sup>); K <sub>P,F</sub> = partitiecoëfficiënt (verdelingscoëfficiënt) van de migrant over materiaal P en vloeistof F (dimensieloos) die wordt gedefinieerd door:   ![]()
-met: c <sub>P,∞</sub> = het evenwichtsgehalte van een migrant in het materiaal P (mg/kg); ρ <sub>P</sub> = de dichtheid van het materiaal P (g/cm <sup>3</sup>); c <sub>F,∞</sub> = het evenwichtsgehalte van een migrant in vloeistof F (mg/kg); ρ <sub>F</sub> = de dichtheid van de vloeistof F (g/cm <sup>3</sup>); q <sub>n</sub> = de positieve wortels van de ‘transcendent’ vergelijking; D <sub>P</sub> = de diffusiecoëfficiënt van een migrant in materiaal P (cm <sup>2</sup> /s); t = de migratietijd (s). Bij de berekening wordt verondersteld dat bij het begin van het massatransport de migrant homogeen is verdeeld in het polymere materiaal P en dat er geen grensweerstand is voor stofoverdracht tussen P en F. De migrant wordt ook homogeen verdeeld in F en de totale hoeveelheid van de migrant in P en F is gedurende het migratieproces constant. Bij drink- of warmtapwatertoepassingen (leidingmaterialen) dient altijd aan de volgende randvoorwaarden te worden voldaan: 
+Voor de migratiesnelheid van een stof uit materiaal P naar vloeistof F kan via de tijdsafhankelijke diffusievergelijking volgens de 2<sup>e</sup> wet van Fick de volgende analytische oplossing afgeleid worden:  ![249142](http://wetten.overheid.nl/Illustration/249142)
+Met daarin: m<sub>F,t</sub> = de gemigreerde hoeveelheid van een migrant uit materiaal P in vloeistof F na tijd t (s) in (mg); A = het contactoppervlak tussen materiaal P en vloeistof F (dm<sup>2</sup>); c<sub>P,0</sub> = de beginconcentratie van de migrant in materiaal P (µg/g = mg/kg = ppm); ρ<sub>P</sub> = de dichtheid van het materiaal P (g/cm<sup>3</sup>); d<sub>P</sub> = de dikte van het materiaal P (cm); α = dimensieloze parameter, volgens de vergelijking:  ![249143](http://wetten.overheid.nl/Illustration/249143)
+met: V<sub>F</sub> = volume van vloeistof F (cm<sup>3</sup>); V<sub>P</sub> = volume van materiaal P (cm<sup>3</sup>); K<sub>P,F</sub> = partitiecoëfficiënt (verdelingscoëfficiënt) van de migrant over materiaal P en vloeistof F (dimensieloos) die wordt gedefinieerd door:  ![249144](http://wetten.overheid.nl/Illustration/249144)
+met: c<sub>P,∞</sub> = het evenwichtsgehalte van een migrant in het materiaal P (mg/kg); ρ<sub>P</sub> = de dichtheid van het materiaal P (g/cm<sup>3</sup>); c<sub>F,∞</sub> = het evenwichtsgehalte van een migrant in vloeistof F (mg/kg); ρ<sub>F</sub> = de dichtheid van de vloeistof F (g/cm<sup>3</sup>); q<sub>n</sub> = de positieve wortels van de ‘transcendent’ vergelijking; D<sub>P</sub> = de diffusiecoëfficiënt van een migrant in materiaal P (cm<sup>2</sup>/s); t = de migratietijd (s). Bij de berekening wordt verondersteld dat bij het begin van het massatransport de migrant homogeen is verdeeld in het polymere materiaal P en dat er geen grensweerstand is voor stofoverdracht tussen P en F. De migrant wordt ook homogeen verdeeld in F en de totale hoeveelheid van de migrant in P en F is gedurende het migratieproces constant. Bij drink- of warmtapwatertoepassingen (leidingmaterialen) dient altijd aan de volgende randvoorwaarden te worden voldaan: 
 
 – alle uitgangsstoffen in de receptuur van een product zijn daarin homogeen verdeeld;  
 
@@ -1591,19 +1591,19 @@ met: c <sub>P,∞</sub> = het evenwichtsgehalte van een migrant in het materiaal
 
 – door stroming van het drink- of warmtapwater (praktijk) of onder invloed van diffusie in het water (migratiewater) zal de migrant homogeen in het water worden verdeeld;  
 
-– er is geen andere ‘bron’ voor de herkomst van de migrant zodat de totale hoeveelheid daarvan in het kunststof en het water niet zal wijzigen.   Indien wordt aangenomen dat de dikte van de verpakking (bv. de buiswand) oneindig is (voldoende ‘voorraad’ aan migrant dus), dat de oplosbaarheid van de migrant in de goed gemengde vloeistof hoog is en dat het migratieproces ver beneden het evenwicht ligt (minder dan 60% van de beginconcentratie is gemigreerd), dan resulteert vergelijking 1 in:   ![]()
+– er is geen andere ‘bron’ voor de herkomst van de migrant zodat de totale hoeveelheid daarvan in het kunststof en het water niet zal wijzigen.   Indien wordt aangenomen dat de dikte van de verpakking (bv. de buiswand) oneindig is (voldoende ‘voorraad’ aan migrant dus), dat de oplosbaarheid van de migrant in de goed gemengde vloeistof hoog is en dat het migratieproces ver beneden het evenwicht ligt (minder dan 60% van de beginconcentratie is gemigreerd), dan resulteert vergelijking 1 in:  ![249145](http://wetten.overheid.nl/Illustration/249145)
 
 ### *De partitiecoëfficiënt polymeer/voedsel* 
 
-De partitiecoëfficiënt geeft de verdeling weer tussen de concentratie van een migrant in het kunststof materiaal en in het medium waarmee dat materiaal in contact staat. De waarde van de verdelingscoëfficiënt is afhankelijk van de mate van interactie tussen de migrant en het kunststof materiaal enerzijds, en tussen de migrant en het medium anderzijds. Dat betekent dat ieder ‘koppel’ kunststof/medium/migrant een eigen waarde voor de verdelingscoëfficiënt heeft. Bij gebrek aan specifieke data kan de verdelingscoëfficiënt van een migrant tussen het kunststof materiaal en het medium K <sub>P,F</sub> = 1 worden genomen als de migrant goed oplosbaar is in het medium. Als een migrant ‘niet’ oplosbaar is in het medium kan K <sub>P,F</sub> = 1.000 worden genomen. Indien experimenteel vastgestelde verdelingscoëfficiënten beschikbaar zijn, dan verdient het aanbeveling deze te gebruiken. 
+De partitiecoëfficiënt geeft de verdeling weer tussen de concentratie van een migrant in het kunststof materiaal en in het medium waarmee dat materiaal in contact staat. De waarde van de verdelingscoëfficiënt is afhankelijk van de mate van interactie tussen de migrant en het kunststof materiaal enerzijds, en tussen de migrant en het medium anderzijds. Dat betekent dat ieder ‘koppel’ kunststof/medium/migrant een eigen waarde voor de verdelingscoëfficiënt heeft. Bij gebrek aan specifieke data kan de verdelingscoëfficiënt van een migrant tussen het kunststof materiaal en het medium K<sub>P,F</sub> = 1 worden genomen als de migrant goed oplosbaar is in het medium. Als een migrant ‘niet’ oplosbaar is in het medium kan K<sub>P,F</sub> = 1.000 worden genomen. Indien experimenteel vastgestelde verdelingscoëfficiënten beschikbaar zijn, dan verdient het aanbeveling deze te gebruiken. 
 ### *De diffusiecoëfficiënt* 
 
-Voor de diffusiecoëfficiënt geldt een vergelijkbare afhankelijkheid als bij de verdelingscoëfficiënt. De diffusiecoëfficiënt is afhankelijk van eigenschappen van het polymeer en de migrant. De maximale diffusiecoëfficiënt (D <sub>P</sub><sup>*</sup> i.p.v. D <sub>P</sub>) kan berekend worden op basis van de massa van de migrant en twee polymeer specifieke constanten:   ![]()
-Daarin is:   ![]()
-A’ <sub>P</sub> = een polymeerspecifiek ‘diffusie geleidingsvermogen’; τ = een polymeerspecifieke ‘activeringsenergie’; T = de temperatuur (K); M <sub>r</sub> = de relatieve molecuulmassa van een migrant (D); D <sup>*</sup><sub>P</sub> = de polymeerspecifieke maximale diffusiecoëfficiënt (cm <sup>2</sup> /s). Het gebruik van de maximale diffusiecoëfficiënt D <sub>p</sub><sup>*</sup> houdt in dat er een overschatting van de migratie wordt gemaakt. Mocht er van een bepaald migrant/polymeer koppel een exacte diffusiecoëfficiënt beschikbaar zijn, dan kan die gebruikt worden in plaats van de maximale diffusiecoëfficiënt.  Tabel met (migratie)testen en bepalingsmethoden voor het vaststellen van de organoleptische aspecten van producten die in contact komen met drink- of warmtapwater. De omschrijving van de producten is weergegeven in bijlage A 
+Voor de diffusiecoëfficiënt geldt een vergelijkbare afhankelijkheid als bij de verdelingscoëfficiënt. De diffusiecoëfficiënt is afhankelijk van eigenschappen van het polymeer en de migrant. De maximale diffusiecoëfficiënt (D<sub>P</sub> <sup>*</sup> i.p.v. D<sub>P</sub>) kan berekend worden op basis van de massa van de migrant en twee polymeer specifieke constanten:  ![249146](http://wetten.overheid.nl/Illustration/249146)
+Daarin is:  ![249147](http://wetten.overheid.nl/Illustration/249147)
+A’<sub>P</sub> = een polymeerspecifiek ‘diffusie geleidingsvermogen’; τ = een polymeerspecifieke ‘activeringsenergie’; T = de temperatuur (K); M<sub>r</sub> = de relatieve molecuulmassa van een migrant (D); D<sup>*</sup> <sub>P</sub> = de polymeerspecifieke maximale diffusiecoëfficiënt (cm<sup>2</sup>/s). Het gebruik van de maximale diffusiecoëfficiënt D<sub>p</sub> <sup>*</sup> houdt in dat er een overschatting van de migratie wordt gemaakt. Mocht er van een bepaald migrant/polymeer koppel een exacte diffusiecoëfficiënt beschikbaar zijn, dan kan die gebruikt worden in plaats van de maximale diffusiecoëfficiënt.  Tabel met (migratie)testen en bepalingsmethoden voor het vaststellen van de organoleptische aspecten van producten die in contact komen met drink- of warmtapwater. De omschrijving van de producten is weergegeven in bijlage A 
 
 | Product  | (Migratie)testen  | Bepalingsmethoden  |--- | geur/smaak  | kleur  | troebelingsgraad  | geur/smaak  | kleur  | troebelingsgraad  |
-|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *Kunststof en rubbe producten voor opslag- en leidingsystemen:*   | --- | --- | --- | --- | --- | --- |
 | Buizen, incl. coatings t.b.v. leidingwerk  | NEN-EN 1420-1  | NEN-EN 13052-1  | NEN-EN 13052-1  | NEN-EN 1622  | NEN-EN-ISO 7887  | NEN-EN-ISO 7027  |
 | Fittingen, incl. coatings t.b.v. leidingwerk  | NEN-EN 1420-1  | NEN-EN 13052-1  | NEN-EN 13052-1  | NEN-EN 1622  | NEN-EN-ISO 7887  | NEN-EN-ISO 7027  |
@@ -1654,7 +1654,7 @@ c) een chromosoomaberratietest in zoogdiercellen
 
 – studies over de reproductie in één diersoort en de ontwikkelingstoxiciteit in twee diersoorten (via deze studies kan informatie over effecten van hormoonverstorende stoffen op de voortplanting worden verkregen)  
 
-– Indien de resultaten van de bovengenoemde studies of de chemische structuur van de stof daartoe aanleiding geven, kan het basispakket worden uitgebreid met studies over de lange-termijn toxiciteit/carcinogeniteit in twee diersoorten.   Dit pakket aan toxiciteitsgegevens komt overeen met de richtlijnen die genoemd zijn in de *Note for Guidance* van de *European Food Safety Authority* (Publicatie december 2004, laatste *update* 30 juli 2008).voor de beoordeling van stoffen en sluit tevens aan op het pakket aan gegevens dat moet worden overlegd in het kader van de Wet milieugevaarlijke stoffen voor chemicaliën waarvan meer dan 1000 ton per jaar wordt geproduceerd. Indien de resultaten van bovengenoemde studies of de chemische structuur van de stof daartoe aanleiding geven, kan nader toxicologische onderzoek geëist worden. Ook een wijdverbreide toepassing en/of een hoge, niet afnemende migratie kan een uitvoerig onderzoek noodzakelijk maken. In bepaalde gevallen kan informatie over de toxiciteit van ontledingsproducten noodzakelijk zijn.  
+– Indien de resultaten van de bovengenoemde studies of de chemische structuur van de stof daartoe aanleiding geven, kan het basispakket worden uitgebreid met studies over de lange-termijn toxiciteit/carcinogeniteit in twee diersoorten.   Dit pakket aan toxiciteitsgegevens komt overeen met de richtlijnen die genoemd zijn in de *Note for Guidance* van de *European Food Safety Authority* (Publicatie december 2004, laatste *update* 30 juli 2008).voor de beoordeling van stoffen en sluit tevens aan op het pakket aan gegevens dat moet worden overlegd in het kader van de [Wet milieugevaarlijke stoffen](../../../../../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md) voor chemicaliën waarvan meer dan 1000 ton per jaar wordt geproduceerd. Indien de resultaten van bovengenoemde studies of de chemische structuur van de stof daartoe aanleiding geven, kan nader toxicologische onderzoek geëist worden. Ook een wijdverbreide toepassing en/of een hoge, niet afnemende migratie kan een uitvoerig onderzoek noodzakelijk maken. In bepaalde gevallen kan informatie over de toxiciteit van ontledingsproducten noodzakelijk zijn. 
 
 ### 1.2  
 
@@ -1666,13 +1666,13 @@ Indien de aard van de toepassing in de drink- of warmtapwatervoorziening of het 
 
 – een 90-dagen orale toxiciteitsstudie;  
 
-– gegevens die aantonen dat er geen stapeling van de betreffende stof in het lichaam plaatsvindt.   In uitzonderingsgevallen, bijvoorbeeld wanneer de betreffende stof enkel wordt toegepast in eindproducten met een F <sub>go</sub> kleiner dan 0,01 (zie onderdeel 3 van deze bijlage), kan volstaan worden met alleen de drie bovengenoemde mutageniteitsstudies.  
+– gegevens die aantonen dat er geen stapeling van de betreffende stof in het lichaam plaatsvindt.   In uitzonderingsgevallen, bijvoorbeeld wanneer de betreffende stof enkel wordt toegepast in eindproducten met een F<sub>go</sub> kleiner dan 0,01 (zie onderdeel 3 van deze bijlage), kan volstaan worden met alleen de drie bovengenoemde mutageniteitsstudies. 
 
 ### 1.3  
 
 ####Desinfectie en reinigingsmiddelen
 
-Voor de beoordeling van desinfectantia en reinigingsmiddelen met desinfecterende werking die specifiek voor drink- of warmtapwatertoepassingen worden gebruikt en vallen onder de Wet gewasbeschermingsmiddelen en biociden 2007 is een toelating door het College voor de toelating van gewasbeschermingsmiddelen en biociden (Ctgb) vereist. Na toelating door het Ctgb wordt voor deze middelen een kwaliteitsverklaring afgegeven in overeenstemming met de regeling. Reinigingsmiddelen die niet onder de Wet gewasbeschermingsmiddelen en biociden vallen, worden beoordeeld door de commissie.  
+Voor de beoordeling van desinfectantia en reinigingsmiddelen met desinfecterende werking die specifiek voor drink- of warmtapwatertoepassingen worden gebruikt en vallen onder de [Wet gewasbeschermingsmiddelen en biociden 2007](../../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) is een toelating door het College voor de toelating van gewasbeschermingsmiddelen en biociden (Ctgb) vereist. Na toelating door het Ctgb wordt voor deze middelen een kwaliteitsverklaring afgegeven in overeenstemming met de regeling. Reinigingsmiddelen die niet onder de Wet gewasbeschermingsmiddelen en biociden vallen, worden beoordeeld door de commissie. 
 
 ### 2  
 
@@ -1682,32 +1682,32 @@ Voor de beoordeling van desinfectantia en reinigingsmiddelen met desinfecterende
 
 ####Mtc voor total organic carbon (toc)
 
-Door de Europese Commissie is vastgesteld dat voor kunststoffen die in contact komen met voedsel een *overall migration limit* van 60 mg/kg voedsel of voedselsimulant geldt Bij de aanname dat een volwassen persoon 1 kg voedsel en twee liter water per dag opneemt en dat een allocatie van 10% van toepassing is (zie 2.5), dan geldt voor kunststof en rubberproducten die in contact komen met drinkwater een *overall migration limit* van 3 mg/l. Hiervan is een waarde van 2 mg/l voor TOC afgeleid met de aanname dat de hoeveelheid organische koolstof in het migratiewater ongeveer 2/3 van de totale migratie is.  
+Door de Europese Commissie is vastgesteld dat voor kunststoffen die in contact komen met voedsel een *overall migration limit* van 60 mg/kg voedsel of voedselsimulant geldt Bij de aanname dat een volwassen persoon 1 kg voedsel en twee liter water per dag opneemt en dat een allocatie van 10% van toepassing is (zie 2.5), dan geldt voor kunststof en rubberproducten die in contact komen met drinkwater een *overall migration limit* van 3 mg/l. Hiervan is een waarde van 2 mg/l voor TOC afgeleid met de aanname dat de hoeveelheid organische koolstof in het migratiewater ongeveer 2/3 van de totale migratie is. 
 
 ### 2.2  
 
 ####Werkingsmechanismen van stoffen
 
-Een belangrijk aspect bij het vaststellen van de MTC van een bepaalde stof is het werkingsmechanisme hiervan in het lichaam. Op basis van een verschil in werkingsmechanismen die bij toxische effecten een rol spelen, worden twee typen stoffen onderscheiden: stoffen zonder een drempeldosis en stoffen met een drempeldosis.  
+Een belangrijk aspect bij het vaststellen van de MTC van een bepaalde stof is het werkingsmechanisme hiervan in het lichaam. Op basis van een verschil in werkingsmechanismen die bij toxische effecten een rol spelen, worden twee typen stoffen onderscheiden: stoffen zonder een drempeldosis en stoffen met een drempeldosis. 
 
 ### 2.3  
 
 ####Stoffen zonder drempeldosis
 
-Bij een stochastisch werkingsmechanisme neemt over een bepaald dosistraject de kans op een effect toe met toenemende dosis. Een drempeldosis waaronder geen effect optreedt, is in dit geval in principe niet vast te stellen. Dit werkingsmechanisme heeft in het algemeen betrekking op onomkeerbare effecten op moleculair niveau, bijvoorbeeld onomkeerbare, zichzelf replicerende, DNA-veranderingen (de zogenaamde genotoxische effecten). Voorbeelden van stoffen zonder drempeldosis zijn de genotoxische en carcinogene verbindingen acrylamide, vinylchloride en epichloorhydrine. In overeenstemming met artikel 7, derde lid, geldt voor deze en overige stoffen zonder drempeldosis een MTC van 0,1 µg/l. De waarde van 0,1 µg/l betekent dat de stoffen waaraan deze grenswaarde is toegekend in beginsel niet aantoonbaar mogen zijn (voorzorgsnorm). Hiernaast is echter ook is aangetoond dat de gezondheidsrisico’s voor de mens volgens de huidige maatstaven verwaarloosbaar zijn bij een blootstelling aan genotoxische stoffen in een concentratie lager dan 0,1 µg per liter drinkwater. In het laatste geval wordt de waarde van 0,1 µg/l de *Threshold of Toxicological Concern* waarde (TTC-waarde) genoemd . <sup> 1  Volgens de huidige stand van wetenschap kunnen voor verschillende groepen van verbindingen afzonderlijke, hogere TTC-waarden dan 0,1 µg/l worden gehanteerd. Het hanteren van TTC-waarden hoger dan 0,1 µg/l sluit echter niet aan bij het voorzorgsprincipe.  </sup>  
+Bij een stochastisch werkingsmechanisme neemt over een bepaald dosistraject de kans op een effect toe met toenemende dosis. Een drempeldosis waaronder geen effect optreedt, is in dit geval in principe niet vast te stellen. Dit werkingsmechanisme heeft in het algemeen betrekking op onomkeerbare effecten op moleculair niveau, bijvoorbeeld onomkeerbare, zichzelf replicerende, DNA-veranderingen (de zogenaamde genotoxische effecten). Voorbeelden van stoffen zonder drempeldosis zijn de genotoxische en carcinogene verbindingen acrylamide, vinylchloride en epichloorhydrine. In overeenstemming met artikel 7, derde lid, geldt voor deze en overige stoffen zonder drempeldosis een MTC van 0,1 µg/l. De waarde van 0,1 µg/l betekent dat de stoffen waaraan deze grenswaarde is toegekend in beginsel niet aantoonbaar mogen zijn (voorzorgsnorm). Hiernaast is echter ook is aangetoond dat de gezondheidsrisico’s voor de mens volgens de huidige maatstaven verwaarloosbaar zijn bij een blootstelling aan genotoxische stoffen in een concentratie lager dan 0,1 µg per liter drinkwater. In het laatste geval wordt de waarde van 0,1 µg/l de *Threshold of Toxicological Concern* waarde (TTC-waarde) genoemd<sup> 1 Volgens de huidige stand van wetenschap kunnen voor verschillende groepen van verbindingen afzonderlijke, hogere TTC-waarden dan 0,1 µg/l worden gehanteerd. Het hanteren van TTC-waarden hoger dan 0,1 µg/l sluit echter niet aan bij het voorzorgsprincipe. </sup>. 
 
 ### 2.4  
 
 ####Stoffen met een drempeldosis
 
-Treedt het schadelijke effect pas op bij het overschrijden van een bepaalde dosis en neemt de schade vervolgens toe bij het verhogen van deze dosis, dan spreekt men van een zogeheten niet-stochastisch of deterministisch werkingsmechanisme. Voor het afleiden van gezondheidskundige advieswaarden voor stoffen met een drempeldosis wordt in het algemeen de zogeheten NOAEL -onzekerheidsfactor (*uncertainty factor – UF*)-benadering toegepast. Aanvullend tot deze benadering kan ook een algemeen geaccepteerde BenchMark Dose methode worden toegepast. <sup> 2  NOAEL: no observed adverse effect level. Dit is het hoogste blootstellingsniveau waarbij in proefdieren of bij mensen geen nadelig, aan de blootstelling toe te schrijven, effect op de gezondheid is waargenomen.  </sup> De toxicologische advieswaarde (de *Tolerable Daily Intake* (TDI) ) wordt bij de eerstgenoemde benadering verkregen door de NOAEL te delen door een factor die onzekerheden in de beschikbare dierexperimentele gegevens en in het vertalen van die gegevens naar de te beschermen bevolkingsgroep in rekening brengt. Indien er voldoende toxiciteitsgegevens beschikbaar zijn en het ontwerp en de uitvoering van de toxiciteitstesten zijn conform de in bijlage E genoemde EU of OECD richtlijnen, dan wordt in de regel een veiligheidsfactor van 100 gehanteerd. Deze factor 100 is samengesteld uit een factor 10 voor de verschillen tussen proefdier en mens (interspecies variatie) en een factor 10 voor de verschillen in gevoeligheid voor stoffen binnen de menselijke populatie (intraspecies variatie). Dit leidt tot de volgende formule:   ![]()
-De TDI vormt de basis voor het vaststellen van de MTC van stoffen met een drempeldosis.  
+Treedt het schadelijke effect pas op bij het overschrijden van een bepaalde dosis en neemt de schade vervolgens toe bij het verhogen van deze dosis, dan spreekt men van een zogeheten niet-stochastisch of deterministisch werkingsmechanisme. Voor het afleiden van gezondheidskundige advieswaarden voor stoffen met een drempeldosis wordt in het algemeen de zogeheten NOAEL<sup> 2 NOAEL: no observed adverse effect level. Dit is het hoogste blootstellingsniveau waarbij in proefdieren of bij mensen geen nadelig, aan de blootstelling toe te schrijven, effect op de gezondheid is waargenomen. </sup>-onzekerheidsfactor (*uncertainty factor – UF*)-benadering toegepast. Aanvullend tot deze benadering kan ook een algemeen geaccepteerde BenchMark Dose methode worden toegepast. De toxicologische advieswaarde (de *Tolerable Daily Intake* (TDI) ) wordt bij de eerstgenoemde benadering verkregen door de NOAEL te delen door een factor die onzekerheden in de beschikbare dierexperimentele gegevens en in het vertalen van die gegevens naar de te beschermen bevolkingsgroep in rekening brengt. Indien er voldoende toxiciteitsgegevens beschikbaar zijn en het ontwerp en de uitvoering van de toxiciteitstesten zijn conform de in bijlage E genoemde EU of OECD richtlijnen, dan wordt in de regel een veiligheidsfactor van 100 gehanteerd. Deze factor 100 is samengesteld uit een factor 10 voor de verschillen tussen proefdier en mens (interspecies variatie) en een factor 10 voor de verschillen in gevoeligheid voor stoffen binnen de menselijke populatie (intraspecies variatie). Dit leidt tot de volgende formule:  ![249148](http://wetten.overheid.nl/Illustration/249148)
+De TDI vormt de basis voor het vaststellen van de MTC van stoffen met een drempeldosis. 
 
 ### 2.5  
 
 ####Allocatie voor drink- of warmtapwater (defaultwaarden) en 10%-regel
 
-Bij het vaststellen van de grenswaarden met een gezondheidskundige grondslag in het Waterleidingbesluit (WLB), de richtlijn 98/83/EG en de WHO *Guidelines for Drinking-water Quality* geldt voor een groot aantal stoffen dat blootstelling via drink- of warmtapwater normaliter niet meer dan 10% mag zijn van de totale toelaatbare inname (TDI) bij de mens . Dit wordt de allocatie voor drink- of warmtapwater genoemd. De waarde van 10% geldt hierbij als defaultwaarde waarvan op basis van gegronde argumenten kan worden afgeweken. <sup> 3  In de WHO *Guidelines for Drinking-water Quality*, derde editie, 2004, zijn de *default* waarden vermeld in de *chemical fact sheets*. Voor een aantal stoffen zijn allocatie percentages genoemd die lager of juist hoger zijn dan de genoemde 10%.  </sup> Omdat blootstelling aan de stoffen die zijn genoemd in het WLB via drink- of warmtapwater kan plaatsvinden zonder dat dit water in contact is geweest met producten waarin dezelfde stoffen voorkomen, met uitzondering van acrylamide, epichloorhydrine en vinylchloride, is aanvullend bepaald dat van de maximum waarde van de parameter met een gezondheidskundige grondslag genoemd in het WLB maximaal 10% afkomstig mag zijn uit een product dat in contact komt met het drink- of warmtapwater (10%-regel). <sup> 4  Gelet op het wettelijk kader waarin de regeling operatief is, kan hier alleen verwezen worden naar het Waterleidingbesluit. Het Waterleidingbesluit, de richtlijn 98/83/EG en de WHO Guidelines for Drinking-water quality komen met betrekking tot de vastgestelde grenswaarden veel met elkaar overeen.  </sup> Bij de beoordeling van de grond- en hulpstoffen in materialen en chemicaliën die in contact komen met drink- of warmtapwater zijn het *EU Substances document*, de richtlijn 2002/72/EG en het Nederlandse Verpakkingen- en gebruiksartikelenbesluit (VGB) belangrijke pijlers voor het vaststellen van MTC-waarden. In deze documenten zijn voor een groot aantal stoffen specifieke migratielimieten (SML’s) genoemd. De SML is de maximaal toelaatbare hoeveelheid van een stof (afkomstig uit een verpakkingsmateriaal) per kg voedsel. Hierbij geldt de aanname dat een volwassen persoon met een lichaamsgewicht van 60 kg 1 kg voedsel per dag consumeert. Bij het vaststellen van de SML wordt geen rekening gehouden met andere blootstellingsroutes dan voedsel. Dit houdt in dat de SML in dit geval overeenkomt met de TDI per persoon (mg/kg lichaamsgewicht omgezet in mg/persoon bij een dagelijkse opname van 1 kg voedsel), Rekening houdend met de hierboven genoemde allocatie voor drink- of warmtapwater van 10% (defaultwaarde) en een consumptie van twee liter drink- of warmtapwater per dag wordt voor het afleiden van een MTC de SML gedeeld door een factor 20. Gelet op het feit dat in de praktijk vrijwel nooit vastgesteld kan worden dat blootstelling aan een bepaalde stof uitsluitend via drink- of warmtapwater zal plaatsvinden, geldt de regel dat drink- of warmtapwater tot maximaal 10% mag bijdragen aan de totale blootstelling ook voor stoffen waarvoor (nog) geen grenswaarde in het WLB, richtlijn 2002/72/EG of het VGB is opgenomen en waarvoor door de commissie op basis van onderzoeksgegevens een TDI en MTC moet worden vastgesteld.  
+Bij het vaststellen van de grenswaarden met een gezondheidskundige grondslag in het [Waterleidingbesluit](../../../../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md) (WLB), de richtlijn 98/83/EG en de WHO *Guidelines for Drinking-water Quality* geldt voor een groot aantal stoffen dat blootstelling via drink- of warmtapwater normaliter niet meer dan 10% mag zijn van de totale toelaatbare inname (TDI) bij de mens<sup> 3 In de WHO *Guidelines for Drinking-water Quality*, derde editie, 2004, zijn de *default* waarden vermeld in de *chemical fact sheets*. Voor een aantal stoffen zijn allocatie percentages genoemd die lager of juist hoger zijn dan de genoemde 10%. </sup>. Dit wordt de allocatie voor drink- of warmtapwater genoemd. De waarde van 10% geldt hierbij als defaultwaarde waarvan op basis van gegronde argumenten kan worden afgeweken. Omdat blootstelling aan de stoffen die zijn genoemd in het WLB<sup> 4 Gelet op het wettelijk kader waarin de regeling operatief is, kan hier alleen verwezen worden naar het Waterleidingbesluit. Het Waterleidingbesluit, de richtlijn 98/83/EG en de WHO Guidelines for Drinking-water quality komen met betrekking tot de vastgestelde grenswaarden veel met elkaar overeen. </sup>via drink- of warmtapwater kan plaatsvinden zonder dat dit water in contact is geweest met producten waarin dezelfde stoffen voorkomen, met uitzondering van acrylamide, epichloorhydrine en vinylchloride, is aanvullend bepaald dat van de maximum waarde van de parameter met een gezondheidskundige grondslag genoemd in het WLB maximaal 10% afkomstig mag zijn uit een product dat in contact komt met het drink- of warmtapwater (10%-regel). Bij de beoordeling van de grond- en hulpstoffen in materialen en chemicaliën die in contact komen met drink- of warmtapwater zijn het *EU Substances document*, de richtlijn 2002/72/EG en het Nederlandse Verpakkingen- en gebruiksartikelenbesluit (VGB) belangrijke pijlers voor het vaststellen van MTC-waarden. In deze documenten zijn voor een groot aantal stoffen specifieke migratielimieten (SML’s) genoemd. De SML is de maximaal toelaatbare hoeveelheid van een stof (afkomstig uit een verpakkingsmateriaal) per kg voedsel. Hierbij geldt de aanname dat een volwassen persoon met een lichaamsgewicht van 60 kg 1 kg voedsel per dag consumeert. Bij het vaststellen van de SML wordt geen rekening gehouden met andere blootstellingsroutes dan voedsel. Dit houdt in dat de SML in dit geval overeenkomt met de TDI per persoon (mg/kg lichaamsgewicht omgezet in mg/persoon bij een dagelijkse opname van 1 kg voedsel), Rekening houdend met de hierboven genoemde allocatie voor drink- of warmtapwater van 10% (defaultwaarde) en een consumptie van twee liter drink- of warmtapwater per dag wordt voor het afleiden van een MTC de SML gedeeld door een factor 20. Gelet op het feit dat in de praktijk vrijwel nooit vastgesteld kan worden dat blootstelling aan een bepaalde stof uitsluitend via drink- of warmtapwater zal plaatsvinden, geldt de regel dat drink- of warmtapwater tot maximaal 10% mag bijdragen aan de totale blootstelling ook voor stoffen waarvoor (nog) geen grenswaarde in het WLB, richtlijn 2002/72/EG of het VGB is opgenomen en waarvoor door de commissie op basis van onderzoeksgegevens een TDI en MTC moet worden vastgesteld. 
 
 ### 2.6  
 
@@ -1719,54 +1719,54 @@ Op grond van hetgeen in de voorgaande paragrafen 2.1 tot en met 2.4 is vermeld, 
 
 ####Voor stoffen zonder drempeldosis:
 
-MTC = 0,1 µg/l  
+MTC = 0,1 µg/l 
 
 ### 2.6.2  
 
 ####Voor stoffen met een drempeldosis:
 
-Wanneer voor de betreffende stof een grenswaarde in het Waterleidingbesluit is vastgelegd, kan voor de toepassing in drink- of warmtapwatermaterialen een MTC worden afgeleid volgens formule a.   ![]()
-Wanneer voor de betreffende stof een migratielimiet voor verpakkingsmaterialen (SML) beschikbaar is, dan kan voor de toepassing in drink- of warmtapwatermaterialen een MTC worden afgeleid volgens formule b.   ![]()
-Wanneer voor de betreffende stof *geen* grenswaarde in het Waterleidingbesluit en *geen* migratielimiet voor verpakkingsmiddelen (SML) beschikbaar is, dan kan op basis van de beschikbare toxiciteitsgegevens (zie 1.1) een TDI worden vastgesteld (zie 2.3) waaruit een MTC kan worden afgeleid volgens formule c.   ![]()
+Wanneer voor de betreffende stof een grenswaarde in het [Waterleidingbesluit](../../../../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md) is vastgelegd, kan voor de toepassing in drink- of warmtapwatermaterialen een MTC worden afgeleid volgens formule a.  ![249149](http://wetten.overheid.nl/Illustration/249149)
+Wanneer voor de betreffende stof een migratielimiet voor verpakkingsmaterialen (SML) beschikbaar is, dan kan voor de toepassing in drink- of warmtapwatermaterialen een MTC worden afgeleid volgens formule b.  ![249150](http://wetten.overheid.nl/Illustration/249150)
+Wanneer voor de betreffende stof *geen* grenswaarde in het [Waterleidingbesluit](../../../../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md) en *geen* migratielimiet voor verpakkingsmiddelen (SML) beschikbaar is, dan kan op basis van de beschikbare toxiciteitsgegevens (zie 1.1) een TDI worden vastgesteld (zie 2.3) waaruit een MTC kan worden afgeleid volgens formule c.  ![249151](http://wetten.overheid.nl/Illustration/249151)
 
 ### 3  
 
 ####Conversiefactoren
 
-Conversiefactoren (CF’s) worden gebruikt om het resultaat van een migratietest, uitgedrukt in mg.dm <sup>-2</sup>.dag <sup>-1</sup>, om te rekenen naar een gemiddelde, voor de praktijk representatieve concentratie (in mg/l). Een CF heeft de dimensie dag/dm. CF’s zijn afhankelijk van de toepassing van een product. Dit houdt in dat een CF is samengesteld uit een geommetrische factor (F <sub>g</sub> de oppervlakte/volume-verhouding – dimensie dm <sup>-1</sup>) die bepaald wordt door het eindproduct en een operationele factor (F <sub>o</sub> – dimensie dag) die berekend wordt uit de contact- of verblijftijd van het water. Dus:  
+Conversiefactoren (CF’s) worden gebruikt om het resultaat van een migratietest, uitgedrukt in mg.dm<sup>-2</sup>.dag<sup>-1</sup> , om te rekenen naar een gemiddelde, voor de praktijk representatieve concentratie (in mg/l). Een CF heeft de dimensie dag/dm. CF’s zijn afhankelijk van de toepassing van een product. Dit houdt in dat een CF is samengesteld uit een geommetrische factor (F<sub>g</sub> de oppervlakte/volume-verhouding – dimensie dm<sup>-1</sup>) die bepaald wordt door het eindproduct en een operationele factor (F<sub>o</sub> – dimensie dag) die berekend wordt uit de contact- of verblijftijd van het water. Dus:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- | --- | --- |
-| CF = F <sub>g</sub> x F <sub>o</sub>  | [d dm-1]  | (1)  |
+| CF = F<sub>g</sub> x F<sub>o</sub>   | [d dm-1]  | (1)  |
 
 In overeenstemming met NEN-EN 12873-1 worden de resultaten van de experimentele migratietest berekend volgens:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- | --- | --- |
-| Mn = C <sub>n</sub> / (O/V . t)  | [mg dm <sup>-2</sup> d <sup>-1</sup>  | (2)  |
+| Mn = C<sub>n</sub> / (O/V . t)  | [mg dm<sup>-2</sup>d<sup>-1</sup>   | (2)  |
 
-waarin n het volgnummer is van de migratieperiode (1, 2, 3,……10) M <sub>n</sub> de migratiesnelheid is voor de n <sup>de</sup> migratieperiode C <sub>n</sub> de concentratie van de gemeten stof is in mg/l voor de n <sup>de</sup> migratieperiode t de duur van migratieperiode is in dagen O/V de oppervlakte/volume-verhouding is in dm <sup>-1</sup> De geschatte concentratie van de betreffende stof in het drinkwater (C <sub>tap</sub>) wordt berekend met:  
+waarin n het volgnummer is van de migratieperiode (1, 2, 3,……10) M<sub>n</sub> de migratiesnelheid is voor de n<sup>de</sup> migratieperiode C<sub>n</sub> de concentratie van de gemeten stof is in mg/l voor de n<sup>de</sup> migratieperiode t de duur van migratieperiode is in dagen O/V de oppervlakte/volume-verhouding is in dm<sup>-1</sup>  De geschatte concentratie van de betreffende stof in het drinkwater (C<sub>tap</sub>) wordt berekend met:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- | --- | --- |
-| C <sub>tap</sub> = M <sub>n</sub> x CF = C <sub>n</sub> / (O/V . t) x CF  | [mg dm <sup>-3</sup> ]  | (3)  |
+| C<sub>tap</sub> = M<sub>n</sub> x CF = C<sub>n</sub> / (O/V . t) x CF  | [mg dm<sup>-3</sup>]  | (3)  |
 
 De vergelijkingen (2) en (3) houden de aanname in dat de migratiesnelheid constant in de tijd is, onafhankelijk van de reeds aanwezige concentratie in het drinkwater. Voor het schatten van de concentratie van een stof in het drinkwater dienen de resultaten van de derde migratieperiode volgens EN 12873 (zowel bij 23 °C als bij 60 °C of 85 °C) te worden gebruikt. De berekende concentratie dient vervolgens getoetst te worden aan de voor een stof van toepassing zijnde MTC. Indien vergelijking (3) laat zien dat de betreffende MTC nog steeds wordt overschreden na drie migratieperioden, en dat kan worden aangetoond of verwacht dat de migratiesnelheid in de tijd afneemt, dan kan de migratietest worden uitgebreid tot een maximale migratietijd van 30 dagen. In aanvulling op bijlage C van NEN-EN 12873-1 en NEN-EN 12873-2 zijn de migratieperioden voor het testen bij 23 °C: 3 dagen, 3 dagen, 3 dagen–4 dagen, 3 dagen–4 dagen, 3 dagen. De migratie van de relevante parameter(s) dient onderzocht te worden in alle migratiewaters verkregen met een migratieperiode van 3 dagen. Voor het testen bij 60 °C of 85 °C zijn de migratieperioden: 1 dag, 1 dag, 1 dag–3 dagen, 1 dag, 1 dag, 1 dag, 1 dag–3 dagen, 1 dag, 1 dag, 1 dag, 1 dag–3 dagen, 1 dag, 1 dag, 1 dag. De migratie van de relevante parameter(s) dient onderzocht te worden in de migratiewaters die verkregen zijn met de derde 1 dag migratieperiode. Indien de migratie is gestopt na de tweede week dienen de relevante paramters bepaald te worden in het migratiewater van de eerste, tweede, derde, zesde, zevende en achtste migratieperiode. De volgende productgroepen en bijbehorende CF’s zijn van toepassing:  
 
 | Productgroep  | CF in d/dm  |
-|---|---|
-|  *A – Buizen en hun inwendige coatings <sup>1</sup>*   |
+|:---|:---|
+|  *A – Buizen en hun inwendige coatings<sup>1</sup> *   |
 | 1  | ID < 80 mm (drink- of warmtapwaterinstallaties)  | 20  |
 | 2  | 80 mm ≤ ID < 300 mm (dienstleidingen)  | 10  |
 | 3  | ID ≥ 300 mm (hoofdleidingen)  | 5  |
-|  *B – Fittingen, appendages <sup>2</sup>*   |
+|  *B – Fittingen, appendages<sup>2</sup> *   |
 | 1  | ID < 80 mm (drink- of warmtapwaterinstallaties)  | 4  |
 | 2  | 80 mm ≤ ID < 300 mm (dienstleidingen)  | 2  |
 | 3  | ID ≥ 300 mm (hoofdleidingen)  | 1  |
-|  *C – Onderdelen van fittingen, appendages <sup>3</sup>*   |
+|  *C – Onderdelen van fittingen, appendages<sup>3</sup> *   |
 | 1  | ID < 80 mm (drink- of warmtapwaterinstallaties)  | 0,4  |
 | 2  | 80 mm ≤ ID < 300 mm (dienstleidingen)  | 0,2  |
 | 3  | ID ≥ 300 mm (hoofdleidingen)  | 0,1  |
@@ -1781,29 +1781,29 @@ De vergelijkingen (2) en (3) houden de aanname in dat de migratiesnelheid consta
 | 2.1  | producten die de totale oppervlakte of een  substantieel deel bedekken (bijvoorbeeld coatings)  | 1  |
 | 2.2  | producten die minder dan 1% van de totale  oppervlakte beslaan  | 0,01  |
 
-<sup>1</sup> Indien van een serie buizen met verschillende diameters, die gemaakt zijn met dezelfde grond- en hulpstoffen in een identiek productieproces (een zogenaamde familie van producten) de buis met de kleinste diameter is beproefd, dan kan de hele serie buizen met de verschillende diameters gebruikt worden voor het bepaalde toepassingsgebied zonder aanvullende testen. <sup>2</sup> Een complete functionele eenheid gemaakt van één of meerdere onderdelen of materialen, die in contact kunnen komen met drink- of warmtapwater, zoals kranen, buisverbindingsstukken, flexibele aansluitingen. <sup>3</sup> O-ringen (afdichtingsringen), onderdelen van samengestelde producten. Indien een samengesteld product in zijn geheel getest wordt (niet ontmanteld)dan is een CF van productgroep B van toepassing. De CF’s voor de buizen van productgroep A zijn vastgesteld met de volgende aannames:  
+<sup>1</sup> Indien van een serie buizen met verschillende diameters, die gemaakt zijn met dezelfde grond- en hulpstoffen in een identiek productieproces (een zogenaamde familie van producten) de buis met de kleinste diameter is beproefd, dan kan de hele serie buizen met de verschillende diameters gebruikt worden voor het bepaalde toepassingsgebied zonder aanvullende testen.<sup>2</sup> Een complete functionele eenheid gemaakt van één of meerdere onderdelen of materialen, die in contact kunnen komen met drink- of warmtapwater, zoals kranen, buisverbindingsstukken, flexibele aansluitingen.<sup>3</sup> O-ringen (afdichtingsringen), onderdelen van samengestelde producten. Indien een samengesteld product in zijn geheel getest wordt (niet ontmanteld)dan is een CF van productgroep B van toepassing.De CF’s voor de buizen van productgroep A zijn vastgesteld met de volgende aannames:  
 
-|--- | F <sub>g</sub> = O/V  worst case O/V in dm <sup>-1</sup>  | F <sub>o</sub>  geschatte verblijftijd in dagen  | CF = F <sub>g</sub> x F <sub>o</sub>  |
-|---|---|---|---|
+|--- | F<sub>g</sub> = O/V  worst case O/V in dm<sup>-1</sup>   | F<sub>o</sub>   geschatte verblijftijd in dagen  | CF = F<sub>g</sub> x F<sub>o</sub>   |
+|:---|:---|:---|:---|
 | Hoofdleiding  (ID ≥ 300 mm)  | 1,33  | 4  |  *5*   |
 | Dienstleiding  (80 mm ≤ ID < 300 mm)  | 5  | 2  |  *10*   |
 | Drink- of warmtapwaterinstallatie  (10 mm ≤ ID < 80 mm)  | 40  | 0,5  |  *20*   |
 
-De CF’s voor fittingen en appendages van productgroep B zijn met een reductie of fractiefactor F <sub>f</sub> van 0,2 afgeleid van de CF’s voor buizen (met hun inwendige coating). De factor F <sub>f</sub> is het quotiënt van het oppervlak van de betreffende fitting of appendage en het contactoppervlak van de bijbehorende buis:  
+De CF’s voor fittingen en appendages van productgroep B zijn met een reductie of fractiefactor F<sub>f</sub> van 0,2 afgeleid van de CF’s voor buizen (met hun inwendige coating). De factor F<sub>f</sub> is het quotiënt van het oppervlak van de betreffende fitting of appendage en het contactoppervlak van de bijbehorende buis:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- | --- | --- |
 | CF productgroep B = CF productgroep A x 0,2  | (4)  |
 
-Analoog hieraan is een F <sub>f</sub> van 0,1 vastgesteld voor de onderdelen van fittingen en appendages van productgroep C:  
+Analoog hieraan is een F<sub>f</sub> van 0,1 vastgesteld voor de onderdelen van fittingen en appendages van productgroep C:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- | --- | --- |
 | CF productgroep C = Cf productgroep B x 0,1  | (5)  |
 
-Voor sommige (onderdelen van) producten kan een CF < 0,01 d/dm worden berekend. De commissie kan in dergelijke gevallen beslissen over een beperking van de beoordeling en testmethoden.  
+Voor sommige (onderdelen van) producten kan een CF < 0,01 d/dm worden berekend. De commissie kan in dergelijke gevallen beslissen over een beperking van de beoordeling en testmethoden. 
 
 ### 4  
 
@@ -1831,7 +1831,7 @@ Indien voor een stof niet de juiste toxiciteitsgegevens volgens onderdeel 1 van 
 
 ○ het gedrag van de stof in waterig milieu.    
 
-* De theoretische berekening wordt uitgevoerd door de Subcommissie Toxiciteit als bedoeld in artikel 4, derde lid, en artikel 8, tweede en derde lid, waarna de toelaatbaarheid van de betreffende stof door de commissie wordt vastgesteld.    
+* De theoretische berekening wordt uitgevoerd door de Subcommissie Toxiciteit als bedoeld in artikel 4, derde lid, en artikel 8, tweede en derde lid, waarna de toelaatbaarheid van de betreffende stof door de commissie wordt vastgesteld.   
 
 ### Bijlage  E  
 
@@ -1841,7 +1841,7 @@ Indien voor een stof niet de juiste toxiciteitsgegevens volgens onderdeel 1 van 
 
 ####Algemeen, relatie met positieve lijsten en erkende kwaliteitsverklaring
 
-In deze bijlage wordt beschreven welke algemene en specifieke gegevens vereist zijn voor de toxicologische beoordeling van (de grond- en hulpstoffen) van een eindproduct, niet zijnde metalen of de eindproducten hiervan, en de plaatsing van de afzonderlijke grond- en hulpstoffen op één van de positieve lijsten van bijlage B. In overeenstemming met artikel 11 wordt een stof, die wordt beoordeeld in het kader van de afgifte van een erkende kwaliteitsverklaring, pas geplaatst op een positieve lijst na toestemming van de aanvrager. De beoordeling van de grond- en hulpstoffen betreft afzonderlijke stoffen, mengsels van stoffen of polymeren die gebruikt wordt als additief, alsmede de verontreinigingen, tussenproducten en ontledingsproducten in het eindproduct (zie ook het eerste onderdeel van bijlage B). De bedoelde grond- en hulpstoffen dienen gebruikt te worden voor de vervaardiging van de in bijlage A beschreven materialen en chemicaliën (eindproducten), met uitzondering van metalen en de eindproducten hiervan. De beoordeling van metalen en de eindproducten hiervan gebeurt volgens de regels vermeld in onderdeel 2.8 van bijlage A. Eindproducten die zijn samengesteld uit of met materialen waarvoor nog geen algemene beoordelingscriteria zijn vastgesteld, zoals keramische materialen, emaille en siliconen, dienen afzonderlijk beoordeeld te worden in overeenstemming met de artikelen 6 tot en met 9 van de regeling en, indien nodig, aan de hand van door de commissie nader te bepalen criteria. De regels en criteria die gelden voor het verkrijgen van een erkende kwaliteitsverklaring worden genoemd in de artikelen 12 tot en met 19 van de regeling. De aanvraag voor de beoordeling van een eindproduct of een afzonderlijke stof verloopt via de secretaris van de commissie. Het correspondentieadres is: Kiwa Nederland BV, Postbus 70, 2280 AB RIJSWIJK.  
+In deze bijlage wordt beschreven welke algemene en specifieke gegevens vereist zijn voor de toxicologische beoordeling van (de grond- en hulpstoffen) van een eindproduct, niet zijnde metalen of de eindproducten hiervan, en de plaatsing van de afzonderlijke grond- en hulpstoffen op één van de positieve lijsten van bijlage B. In overeenstemming met artikel 11 wordt een stof, die wordt beoordeeld in het kader van de afgifte van een erkende kwaliteitsverklaring, pas geplaatst op een positieve lijst na toestemming van de aanvrager. De beoordeling van de grond- en hulpstoffen betreft afzonderlijke stoffen, mengsels van stoffen of polymeren die gebruikt wordt als additief, alsmede de verontreinigingen, tussenproducten en ontledingsproducten in het eindproduct (zie ook het eerste onderdeel van bijlage B). De bedoelde grond- en hulpstoffen dienen gebruikt te worden voor de vervaardiging van de in bijlage A beschreven materialen en chemicaliën (eindproducten), met uitzondering van metalen en de eindproducten hiervan. De beoordeling van metalen en de eindproducten hiervan gebeurt volgens de regels vermeld in onderdeel 2.8 van bijlage A. Eindproducten die zijn samengesteld uit of met materialen waarvoor nog geen algemene beoordelingscriteria zijn vastgesteld, zoals keramische materialen, emaille en siliconen, dienen afzonderlijk beoordeeld te worden in overeenstemming met de artikelen 6 tot en met 9 van de regeling en, indien nodig, aan de hand van door de commissie nader te bepalen criteria. De regels en criteria die gelden voor het verkrijgen van een erkende kwaliteitsverklaring worden genoemd in de artikelen 12 tot en met 19 van de regeling. De aanvraag voor de beoordeling van een eindproduct of een afzonderlijke stof verloopt via de secretaris van de commissie. Het correspondentieadres is: Kiwa Nederland BV, Postbus 70, 2280 AB RIJSWIJK. 
 
 ### 2  
 
@@ -1861,19 +1861,19 @@ Het technische dossier, alsmede de aanvullende informatie voor een herbeoordelin
 
 ####Het toepassingsgebied
 
-Een beschrijving van de toepassing van het eindproduct in de drink- of warmtapwatervoorziening (opslag- en distributiesystemen, drink- of warmtapwaterinstallaties)  
+Een beschrijving van de toepassing van het eindproduct in de drink- of warmtapwatervoorziening (opslag- en distributiesystemen, drink- of warmtapwaterinstallaties) 
 
 ### 2.1.3  
 
 ####Het fabricageproces
 
-Een korte beschrijving van het fabricageproces met een volledige kwantitatieve opgave van alle tijdens de fabricage toegepaste grond- en hulpstoffen  
+Een korte beschrijving van het fabricageproces met een volledige kwantitatieve opgave van alle tijdens de fabricage toegepaste grond- en hulpstoffen 
 
 ### 2.1.4  
 
 ####Verontreinigingen, tussenproducten en ontledingsproducten
 
-Gegevens over de verontreinigingen, tussenproducten en ontledingsproducten in het eindproduct.  
+Gegevens over de verontreinigingen, tussenproducten en ontledingsproducten in het eindproduct. 
 
 ### 2.2  
 
@@ -1883,13 +1883,13 @@ Gegevens over de verontreinigingen, tussenproducten en ontledingsproducten in he
 
 ####Identiteit van de stof
 
-De naam en alle relevante gegevens met betrekking tot de stof, de mogelijke verontreinigingen en gegevens over afbraak en reactieproducten.  
+De naam en alle relevante gegevens met betrekking tot de stof, de mogelijke verontreinigingen en gegevens over afbraak en reactieproducten. 
 
 ### 2.2.2  
 
 ####Fysische en chemische eigenschappen van de stof
 
-Alle relevante fysische en chemische gegevens over de stof, evenals de afbraak- en reactieproducten.  
+Alle relevante fysische en chemische gegevens over de stof, evenals de afbraak- en reactieproducten. 
 
 ### 2.2.3  
 
@@ -1899,7 +1899,7 @@ Alle relevante fysische en chemische gegevens over de stof, evenals de afbraak- 
 
 ####Informatie over de toelating van de stof in ander verband
 
-Informatie over vermelding in EU Richtlijnen, gebruik in andere EU lidstaten of bijvoorbeeld in de Verenigde Staten van Amerika en Japan.  
+Informatie over vermelding in EU Richtlijnen, gebruik in andere EU lidstaten of bijvoorbeeld in de Verenigde Staten van Amerika en Japan. 
 
 ### 2.2.5  
 
@@ -1909,7 +1909,7 @@ Informatie over vermelding in EU Richtlijnen, gebruik in andere EU lidstaten of 
 
 ####Toxiciteitsgegevens
 
-Alle relevante toxiciteitsgegevens over de stof. Onder bepaalde omstandigheden kan het indienen van een beperkter pakket aan gegevens voldoende zijn (zie ook bijlage D).  
+Alle relevante toxiciteitsgegevens over de stof. Onder bepaalde omstandigheden kan het indienen van een beperkter pakket aan gegevens voldoende zijn (zie ook bijlage D). 
 
 ### 3  
 
@@ -1933,7 +1933,7 @@ Indien het een afzonderlijke stof betreft dan dient de informatie onder 1.1.1 to
 
 ####synoniem(en)
 
-De meest gangbare synoniemen, zoals bijv. de IUPAC naam.  
+De meest gangbare synoniemen, zoals bijv. de IUPAC naam. 
 
 ### 3.1.1.3  
 
@@ -1955,43 +1955,43 @@ De meest gangbare synoniemen, zoals bijv. de IUPAC naam.
 
 ####zuiverheid (%)
 
-Zuiverheid van de stof in procenten en met welke methode is de zuiverheid bepaald.  
+Zuiverheid van de stof in procenten en met welke methode is de zuiverheid bepaald. 
 
 ### 3.1.1.8  
 
 ####onzuiverheden (%)
 
-Onzuiverheden, het niveau van de onzuiverheden (in procenten) en de methoden waarmee de onzuiverheden bepaald kunnen worden.  
+Onzuiverheden, het niveau van de onzuiverheden (in procenten) en de methoden waarmee de onzuiverheden bepaald kunnen worden. 
 
 ### 3.1.1.9  
 
 ####specificatie
 
-Voorstel voor de specificatie van de stof in de positieve lijst.  
+Voorstel voor de specificatie van de stof in de positieve lijst. 
 
 ### 3.1.1.10  
 
 ####aanvullende informatie
 
-Aanvullende informatie die voor een beoordeling van de stof relevant kan zijn.  
+Aanvullende informatie die voor een beoordeling van de stof relevant kan zijn. 
 
 ### 3.1.2  
 
 ####gedefinieerd mengsel
 
-Indien het een gedefinieerd mengsel betreft dan dienen de gegevens van 3.1.1 verstrekt te worden, aan gevuld met informatie over de samenstellende componenten. De gevraagde gegevens voor niet-gedefinieerde mengsels worden genoemd onder 3.1.3. Deze sectie betreft alleen *process mixtures* die in een reproduceerbaar proces verkregen worden en waarbij de samenstelling gemakkelijk bepaald kan worden, zoals bij een mengsel met isomeren. Synthetische mengsels die met individuele stoffen bewust worden samengesteld vallen buiten deze sectie. Hiervoor geldt een afzonderlijke beoordeling van de samenstellende componenten.  
+Indien het een gedefinieerd mengsel betreft dan dienen de gegevens van 3.1.1 verstrekt te worden, aan gevuld met informatie over de samenstellende componenten. De gevraagde gegevens voor niet-gedefinieerde mengsels worden genoemd onder 3.1.3. Deze sectie betreft alleen *process mixtures* die in een reproduceerbaar proces verkregen worden en waarbij de samenstelling gemakkelijk bepaald kan worden, zoals bij een mengsel met isomeren. Synthetische mengsels die met individuele stoffen bewust worden samengesteld vallen buiten deze sectie. Hiervoor geldt een afzonderlijke beoordeling van de samenstellende componenten. 
 
 ### 3.1.3  
 
 ####niet-gedefinieerd mengsel
 
-Niet-gedefinieerde mengsels zijn mengsels die van *batch* tot *batch* kunnen variëren, maar wel een samenstelling volgens bepaalde specificaties hebben. Voorbeelden van niet-gedefinieerde mengsels zijn producten afkomstig uit natuurlijke bronnen. Ook technische processen, zoals ethoxylatie, epoxydatie en hydrogenering kunnen een groot aantal individuele componeneten opleveren. Gevraagd wordt de meest geschikte specificatie te overleggen. Voor niet gedefinieerde mengsels worden de gevens gevraagd die vermeld zijn onder 3.1.1 voor de afzonderlijke stoffen, aangevuld met informatie over de samenstellende componeneten, het productieproces, de gevormde stoffen en het zuiveren van het mengsel.  
+Niet-gedefinieerde mengsels zijn mengsels die van *batch* tot *batch* kunnen variëren, maar wel een samenstelling volgens bepaalde specificaties hebben. Voorbeelden van niet-gedefinieerde mengsels zijn producten afkomstig uit natuurlijke bronnen. Ook technische processen, zoals ethoxylatie, epoxydatie en hydrogenering kunnen een groot aantal individuele componeneten opleveren. Gevraagd wordt de meest geschikte specificatie te overleggen. Voor niet gedefinieerde mengsels worden de gevens gevraagd die vermeld zijn onder 3.1.1 voor de afzonderlijke stoffen, aangevuld met informatie over de samenstellende componeneten, het productieproces, de gevormde stoffen en het zuiveren van het mengsel. 
 
 ### 3.1.4  
 
 ####polymeer gebruikt als additief
 
-Polymere additieven zijn polymeren en/of prepolymeren en/of oligomeren die toegevoegd worden aan kunststoffen om een technisch effect te bewerkstelligen, maar die niet als zodanig gebruikt kunnen worden voor het maken van een eindmateriaal of product. Het zijn ook polymere substanties die toegevoegd kunnen worden aan het medium waarin de polymerisatie plaatsvindt. Voor polymeren die gebruikt worden als additief worden, naast de informatie die onder 3.1.1 gevraagd wordt, aanvullende gegevens gevraagd over de additieven, de structuur van het polymeer, de viscositeit (intrinsiek en/of relatief), de melt flow index en de dichtheid (g/cm <sup>3</sup>).  
+Polymere additieven zijn polymeren en/of prepolymeren en/of oligomeren die toegevoegd worden aan kunststoffen om een technisch effect te bewerkstelligen, maar die niet als zodanig gebruikt kunnen worden voor het maken van een eindmateriaal of product. Het zijn ook polymere substanties die toegevoegd kunnen worden aan het medium waarin de polymerisatie plaatsvindt. Voor polymeren die gebruikt worden als additief worden, naast de informatie die onder 3.1.1 gevraagd wordt, aanvullende gegevens gevraagd over de additieven, de structuur van het polymeer, de viscositeit (intrinsiek en/of relatief), de melt flow index en de dichtheid (g/cm<sup>3</sup>). 
 
 ### 3.2  
 
@@ -2013,17 +2013,17 @@ Polymere additieven zijn polymeren en/of prepolymeren en/of oligomeren die toege
 
 ####oplosbaarheid (g/l)
 
-Geef hier de oplosbaarheid in water en organische oplosmiddelen.  
+Geef hier de oplosbaarheid in water en organische oplosmiddelen. 
 
 ### 3.2.1.4  
 
-####octanol/water verdelingscoëfficiënt (log K <sub>ow</sub>)
+####octanol/water verdelingscoëfficiënt (log K<sub>ow</sub>)
 
 ### 3.2.1.5  
 
 ####aanvullende informatie
 
-Hier dient alleenandere, relevante informatie.  
+Hier dient alleenandere, relevante informatie. 
 
 ### 3.2.2  
 
@@ -2037,31 +2037,31 @@ Hier dient alleenandere, relevante informatie.
 
 ####stabiliteit
 
-Informatie over de stabiliteit van de relevante verbinding ten aanzien van licht, warmte, vochtigheid, lucht, ioniserende straling, behandeling met desinfectiemiddelen, etc.  
+Informatie over de stabiliteit van de relevante verbinding ten aanzien van licht, warmte, vochtigheid, lucht, ioniserende straling, behandeling met desinfectiemiddelen, etc. 
 
 ### 3.2.2.3  
 
 ####hydrolyse
 
-Indien van toepassing informatie over de hydrolyse in water, inclusief eventuele testresultaten.  
+Indien van toepassing informatie over de hydrolyse in water, inclusief eventuele testresultaten. 
 
 ### 3.2.2.4  
 
 ####omzetting
 
-Informatie over de decompositie of omzetting van de stof tijdens het productieproces van het eindproduct dat in contact komt met drink- of warmtapwater. Bij twijfel kan aanvullende informatie over de toxiciteit van de omzettingsproducten worden gevraagd en kunnen hieromtrent nadere eisen worden vastgesteld. Monomeren worden geacht ingebouwd te worden in het polymeer, terwijl additieven omgezet worden overeenkomstig hun toepassing.  
+Informatie over de decompositie of omzetting van de stof tijdens het productieproces van het eindproduct dat in contact komt met drink- of warmtapwater. Bij twijfel kan aanvullende informatie over de toxiciteit van de omzettingsproducten worden gevraagd en kunnen hieromtrent nadere eisen worden vastgesteld. Monomeren worden geacht ingebouwd te worden in het polymeer, terwijl additieven omgezet worden overeenkomstig hun toepassing. 
 
 ### 3.2.2.5  
 
 ####omzettingsproducten
 
-Informatie over de omzettingsproducten en de stoffen aan die tijdens de productie van een eindproduct gevormd kunnen worden.  
+Informatie over de omzettingsproducten en de stoffen aan die tijdens de productie van een eindproduct gevormd kunnen worden. 
 
 ### 3.2.2.6  
 
 ####aanvullende informatie
 
-Andere, relevante informatie, zoals bijv. de pKa en pKb  
+Andere, relevante informatie, zoals bijv. de pKa en pKb 
 
 ### 3.3  
 
@@ -2071,25 +2071,25 @@ Andere, relevante informatie, zoals bijv. de pKa en pKb
 
 ####materiaal/eindproduct
 
-Voor welke typen materialen en eindproducten kan de betreffende stof worden gebruikt. Deze informatie kan van belang zijn voor een inschatting van de risico’s (klein contactoppervlak, etc.).  
+Voor welke typen materialen en eindproducten kan de betreffende stof worden gebruikt. Deze informatie kan van belang zijn voor een inschatting van de risico’s (klein contactoppervlak, etc.). 
 
 ### 3.3.2  
 
 ####technische functie
 
-De functie van de stof in het productieproces of in het eindproduct (monomeer, co-monomeer, antioxidant, etc.).  
+De functie van de stof in het productieproces of in het eindproduct (monomeer, co-monomeer, antioxidant, etc.). 
 
 ### 3.4  
 
 ####Informatie over de toelating van de stof in ander verband
 
-Vermeld dient te worden of de stof is toegelaten voor bijvoorbeeld producten die in contact komen met voedsel, gebruikt wordt in EU lidstaten of landen daarbuiten (USA, Japan) of elders beoordeeld is of wordt.  
+Vermeld dient te worden of de stof is toegelaten voor bijvoorbeeld producten die in contact komen met voedsel, gebruikt wordt in EU lidstaten of landen daarbuiten (USA, Japan) of elders beoordeeld is of wordt. 
 
 ### 3.5  
 
 ####Analysemethode(n)
 
-Het principe van de toe te passen analysemethode(n), inclusief gegevens over de detectielimiet, *recovery*, calibratie, blanco’s, etc. dienen vermeld te worden. De analysemethode dient zo gedetailleerd beschreven te worden dat een afdoende evaluatie van de onderzoeksresultaten gemaakt kan worden.  
+Het principe van de toe te passen analysemethode(n), inclusief gegevens over de detectielimiet, *recovery*, calibratie, blanco’s, etc. dienen vermeld te worden. De analysemethode dient zo gedetailleerd beschreven te worden dat een afdoende evaluatie van de onderzoeksresultaten gemaakt kan worden. 
 
 ### 3.6  
 
@@ -2105,25 +2105,25 @@ Van de toxiciteitsstudies dienen de volledige, gedateerde en ondertekende rappor
 
 ####genmutatietest in bacteriën
 
-Overeenkomstig de EG methode B.13/14 en de OECD Richtlijn 471  
+Overeenkomstig de EG methode B.13/14 en de OECD Richtlijn 471 
 
 ### 3.6.1.2  
 
 ####in vitro genmutatietest in zoogdiercellen
 
-Overeenkomstig de EG methode B.17 en de OECD Richtlijn 476  
+Overeenkomstig de EG methode B.17 en de OECD Richtlijn 476 
 
 ### 3.6.1.3  
 
 ####in vitro chromosoomaberratietest in zoogdiercellen
 
-Overeenkomstig de EG methode B.10 en de OECD Richtlijn 473  
+Overeenkomstig de EG methode B.10 en de OECD Richtlijn 473 
 
 ### 3.6.1.4  
 
 ####aanvullende informatie
 
-Indien één van de bovengenoemde testen een positief of twijfelachtig resultaat geeft, kunnen resultaten van aanvullende mutageniteitstesten, inclusief *in vivo* testen, gevraagd worden. De keuze van de aanvullende test(en) wordt bepaald door de Subcommissie Toxiciteit.  
+Indien één van de bovengenoemde testen een positief of twijfelachtig resultaat geeft, kunnen resultaten van aanvullende mutageniteitstesten, inclusief *in vivo* testen, gevraagd worden. De keuze van de aanvullende test(en) wordt bepaald door de Subcommissie Toxiciteit. 
 
 ### 3.6.2  
 
@@ -2133,25 +2133,25 @@ Indien één van de bovengenoemde testen een positief of twijfelachtig resultaat
 
 ####subchronische (90-dagen) orale toxiciteit
 
-Overeenkomstig de EG methode B.26 en de OECD Richtlijn 408  
+Overeenkomstig de EG methode B.26 en de OECD Richtlijn 408 
 
 ### 3.6.2.2  
 
 ####chronische toxiciteit/carcinogeniteit
 
-Overeenkomstig de EG methode B.33 en de OECD Richtlijn 453  
+Overeenkomstig de EG methode B.33 en de OECD Richtlijn 453 
 
 ### 3.6.2.3  
 
 ####reproductie/teratogeniciteit
 
-Overeenkomstig de EG methoden B.34 en B.35 en de OECD Richtlijnen 421 en 422  
+Overeenkomstig de EG methoden B.34 en B.35 en de OECD Richtlijnen 421 en 422 
 
 ### 3.6.2.4  
 
 ####aanvullende informatie
 
-Aanvullende, relevante informatie, zoals bijvoorbeeld gegevens over acute en subacute (28-dagen) toxiciteit.  
+Aanvullende, relevante informatie, zoals bijvoorbeeld gegevens over acute en subacute (28-dagen) toxiciteit. 
 
 ### 3.6.3  
 
@@ -2161,17 +2161,17 @@ Aanvullende, relevante informatie, zoals bijvoorbeeld gegevens over acute en sub
 
 ####absorptie, distributie, omzetting en excretie
 
-Alle beschikbare, relevante informatie, inclusief die over mogelijke accumulatie in de mens  
+Alle beschikbare, relevante informatie, inclusief die over mogelijke accumulatie in de mens 
 
 ### 3.6.3.2  
 
 ####aanvullende informatie
 
-Aanvullende informatie over het metabolisme van de stof die verder van belang kan zijn voor de beoordeling.  
+Aanvullende informatie over het metabolisme van de stof die verder van belang kan zijn voor de beoordeling. 
 
 ### 3.6.4  
 
 ####Overige studies
 
-Indien de resultaten van bovenstaande studies of de chemische structuur van de stof daartoe aanleiding geven, kan informatie over effecten op het immuunsysteem, neurotoxiciteit, peroxisoom proliferatie e.d. gevraagd worden. De aard van de aanvullende studies wordt bepaald door de Subcommissie Toxiciteit.  
+Indien de resultaten van bovenstaande studies of de chemische structuur van de stof daartoe aanleiding geven, kan informatie over effecten op het immuunsysteem, neurotoxiciteit, peroxisoom proliferatie e.d. gevraagd worden. De aard van de aanvullende studies wordt bepaald door de Subcommissie Toxiciteit. 
 

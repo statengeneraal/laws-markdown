@@ -11,21 +11,21 @@ Het besluit is geen allesomvattende beschrijving van de problematiek die zich vo
 
 | --- | --- |
 |:---|:---|
-| § 4:  | betreft een goedkeuring voor reizen met een vertrekdatum vóór 1 april 2012 en een terugkomstdatum ná 1 april 2012.  |
-| § 5:  | geeft nadere uitleg over de toepassing van [artikel 28zc van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Daarnaast is onder voorwaarden goedgekeurd dat het 0%-tarief toepassing vindt over het deel van het personenvervoer per vliegtuig of per boot (als onderdeel van een reisdienst in de zin van de reisbureauregeling) voor zover dat deel geacht moet worden in de Unie plaats te vinden als de plaats van vertrek of bestemming van de reis buiten de Unie ligt.  |
-| § 6.1, § 6.2 en § 6.3:  | beschrijven enkele situaties die niet onder de reisbureauregeling vallen omdat in die situaties sprake is van zogenoemde ‘eigen prestaties’ van een reisbureau.  |
-| § 7:  | bevat een goedkeuring voor bemiddelingsdiensten van reisagentschappen bij de totstandkoming van een reisovereenkomst tussen een reisbureau en een reiziger.  |
-| § 8:  | verschaft duidelijkheid over de btw-behandeling van de bijdrage aan het Calamiteitenfonds.  |
+| § 4:   | betreft een goedkeuring voor reizen met een vertrekdatum vóór 1 april 2012 en een terugkomstdatum ná 1 april 2012.  |
+| § 5:   | geeft nadere uitleg over de toepassing van [artikel 28zc van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Daarnaast is onder voorwaarden goedgekeurd dat het 0%-tarief toepassing vindt over het deel van het personenvervoer per vliegtuig of per boot (als onderdeel van een reisdienst in de zin van de reisbureauregeling) voor zover dat deel geacht moet worden in de Unie plaats te vinden als de plaats van vertrek of bestemming van de reis buiten de Unie ligt.  |
+| § 6.1, § 6.2 en § 6.3:   | beschrijven enkele situaties die niet onder de reisbureauregeling vallen omdat in die situaties sprake is van zogenoemde ‘eigen prestaties’ van een reisbureau.  |
+| § 7:   | bevat een goedkeuring voor bemiddelingsdiensten van reisagentschappen bij de totstandkoming van een reisovereenkomst tussen een reisbureau en een reiziger.  |
+| § 8:   | verschaft duidelijkheid over de btw-behandeling van de bijdrage aan het Calamiteitenfonds.  |
 
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
 
-*AWR:* [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)   
+*AWR:* [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  
 
 *Btw:* omzetbelasting  
 
-*btw-richtlijn:*Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEG 2006, L347)  
+*btw-richtlijn:* Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEG 2006, L347)  
 
 *HvJ:* Hof van Justitie van de Europese Unie  
 
@@ -35,12 +35,12 @@ Het besluit is geen allesomvattende beschrijving van de problematiek die zich vo
 
 *Unie:* Europese Unie  
 
-*wet:* [Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)        
+*wet: * [Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)      
 ### 2  
 
 ####Juridisch kader
 
-In [afdeling 10 van hoofdstuk V van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn bepalingen opgenomen over de bijzondere regeling voor reisbureaus. Deze bepalingen treden op 1 april 2012 in werking. De reisbureauregeling is gebaseerd op de artikelen 306 t/m 310 van de btw-richtlijn. <sup> 1  In de Wet Overige fiscale maatregelen 2011 zijn twee overgangsbepalingen opgenomen (artikelen XVI en XVII).  </sup>    
+In [afdeling 10 van hoofdstuk V van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn bepalingen opgenomen over de bijzondere regeling voor reisbureaus. Deze bepalingen treden op 1 april 2012 in werking. De reisbureauregeling is gebaseerd op de artikelen 306 t/m 310 van de btw-richtlijn.<sup> 1  In de Wet Overige fiscale maatregelen 2011 zijn twee overgangsbepalingen opgenomen (artikelen XVI en XVII). </sup>     
 ### 3  
 
 ####Algemeen
@@ -131,5 +131,5 @@ Den Haag
 22 maart 2012   
 
 De 
-Staatssecretaris van Financiën, 
-F.H.H.Weekers   
+Staatssecretaris van Financiën,
+F.H.H. Weekers     
