@@ -11,23 +11,23 @@ Gezien Ons besluit van 14 april 1965 (*Stb.* 1965, 146);
 Gelet op [artikel 86 van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-### Enig  artikel  
+###Enig artikel 
 
 De zorg voor de aangelegenheden betreffende: 
 
-a. de Koninklijke Bibliotheek;  
+a.de Koninklijke Bibliotheek;
 
-b. de Rijkscommissie voor Vaderlandse Geschiedenis;  
+b.de Rijkscommissie voor Vaderlandse Geschiedenis;
 
-c. het Rijksinstituut voor Oorlogsdocumentatie;  
+c.het Rijksinstituut voor Oorlogsdocumentatie;
 
-d. de Rijkscommissie van advies inzake het Bibliotheekwezen, en  
+d.de Rijkscommissie van advies inzake het Bibliotheekwezen, en
 
-e. de subsidiëring van het Nederlands Comité voor Geschiedkundige Wetenschappen,   thans behorende tot de taak van het Departement van Cultuur, Recreatie en Maatschappelijk Werk, (Directoraat-Generaal voor de Culturele Zaken) gaat met ingang van 1 januari 1967 over naar het Departement van Onderwijs en Wetenschappen.  
+e.de subsidiëring van het Nederlands Comité voor Geschiedkundige Wetenschappen,thans behorende tot de taak van het Departement van Cultuur, Recreatie en Maatschappelijk Werk, (Directoraat-Generaal voor de Culturele Zaken) gaat met ingang van 1 januari 1967 over naar het Departement van Onderwijs en Wetenschappen.
 
 Onze ministers van cultuur, recreatie en maatschappelijk werk en van onderwijs en wetenschappen zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst, waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* en waarvan afschrift zal worden gezonden aan Onze ministers, aan de Algemene Rekenkamer en aan de Kamers der Staten-Generaal.   
 
-Soestdijk, 
+Soestdijk 
 12 januari 1967.  
 JULIANA.  
 

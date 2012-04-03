@@ -9,20 +9,20 @@ Besluit:
 ### Artikel  1  
 
 1.  De Commandant der Koninklijke Marechaussee wordt gemachtigd tot het verkrijgen en verwerken van justitiële gegevens ten behoeve van een positieve of negatieve verklaring aan buitenlandse autoriteiten voor deelname aan programma’s voor geautomatiseerde grenspassage van andere landen.   
-2.  De Commandant der Koninklijke Marechaussee wordt gemachtigd tot het afgeven van een verklaring als bedoeld in het eerste lid.   
+2.  De Commandant der Koninklijke Marechaussee wordt gemachtigd tot het afgeven van een verklaring als bedoeld in het eerste lid.  
 
 ### Artikel  2  
 
-De Commandant der Koninklijke Marechaussee kan de aan hem bij artikel 1 verleende machtigingen doorverlenen aan één of meer onder hem ressorterende functionarissen.  
+De Commandant der Koninklijke Marechaussee kan de aan hem bij artikel 1 verleende machtigingen doorverlenen aan één of meer onder hem ressorterende functionarissen. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juli 2011.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juli 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 26 oktober 2011   
 
 De 
-De Minister voor Immigratie en Asiel,
-G.B.M.Leers   
+De Minister voor Immigratie en Asiel, 
+G.B.M. Leers     

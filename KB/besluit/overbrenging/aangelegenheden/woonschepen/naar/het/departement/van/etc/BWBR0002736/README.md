@@ -11,13 +11,13 @@ Gezien Ons besluit van 14 april 1965 (*Stb.* 1965, 146);
 Gelet op [artikel 86 van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-### Enig  artikel  
+###Enig artikel 
 
-De zorg voor de aangelegenheden betreffende woonschepen, thans behorende tot de taak van het departement van Cultuur, Recreatie en Maatschappelijk Werk (Directoraat-Generaal voor Maatschappelijke Ontwikkeling), gaat met ingang van 1 januari 1971 over naar het departement van Volkshuisvesting en Ruimtelijke Ordening.  
+De zorg voor de aangelegenheden betreffende woonschepen, thans behorende tot de taak van het departement van Cultuur, Recreatie en Maatschappelijk Werk (Directoraat-Generaal voor Maatschappelijke Ontwikkeling), gaat met ingang van 1 januari 1971 over naar het departement van Volkshuisvesting en Ruimtelijke Ordening.
 
 Onze ministers van Cultuur, Recreatie en Maatschappelijk Werk en van Volkshuisvesting en Ruimtelijke Ordening zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst, waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* en waarvan afschrift zal worden gezonden aan Onze ministers, aan de Raad van State, aan de Algemene Rekenkamer en aan de Kamers der Staten-Generaal.   
 
-Soestdijk, 
+Soestdijk 
 10 december 1970.  
 JULIANA.  
 
