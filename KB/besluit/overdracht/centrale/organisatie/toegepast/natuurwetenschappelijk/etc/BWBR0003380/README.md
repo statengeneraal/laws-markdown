@@ -11,13 +11,13 @@ Gelet op de brief van Onze Minister-President, Minister van Algemene Zaken inzak
 Gelet op [artikel 86 van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-Enig artikel     
+### Enig artikel  
 
-De aangelegenheden betreffende de centrale organisatie voor toegepast natuurwetenschappelijk onderzoek, voor zover deze thans zijn opgedragen aan Onze Minister van Financiën, gaan met ingang van de datum van dagtekening van dit besluit over op Onze Minister van Onderwijs en Wetenschappen met dienovereenkomstige wijziging van de taak van beide departementen.  
+De aangelegenheden betreffende de centrale organisatie voor toegepast natuurwetenschappelijk onderzoek, voor zover deze thans zijn opgedragen aan Onze Minister van Financiën, gaan met ingang van de datum van dagtekening van dit besluit over op Onze Minister van Onderwijs en Wetenschappen met dienovereenkomstige wijziging van de taak van beide departementen. 
 
 Onze Minister van Financiën en Onze Minister van Onderwijs en Wetenschappen zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst, waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant*, en waarvan afschrift zal worden gezonden aan de in dit besluit genoemden, de Hoge Colleges van Staat, de Raad van Ministers, de Gevolmachtigde Minister van de Nederlandse Antillen en de departementen van algemeen bestuur.   
 
-Lage Vuursche, 
+Lage Vuursche 
 26 februari 1981  
 Beatrix  
 

@@ -9,9 +9,9 @@ Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
 Gelet op [artikel 44, eerste lid, van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-Enig artikel   
+### Enig  artikel 
 
-De zorg voor de uitvoering van de artikelen 38 tot en met 44 van de Woonwagenwet (*Stb.* 1968, 98), thans behorende tot de taak van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, gaat met ingang van 15 mei 1985 over naar het Ministerie van Binnenlandse Zaken.  
+De zorg voor de uitvoering van de artikelen 38 tot en met 44 van de Woonwagenwet (*Stb.* 1968, 98), thans behorende tot de taak van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, gaat met ingang van 15 mei 1985 over naar het Ministerie van Binnenlandse Zaken. 
 
 Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Binnenlandse Zaken zijn belast met de uitvoering van dit besluit, dat met de nota van toelichting in het *Staatsblad* zal worden geplaatst, waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* en waarvan afschrift zal worden gezonden aan Onze Ministers, aan de Raad van State, aan de Algemene Rekenkamer en aan de Kamers der Staten-Generaal.   
 

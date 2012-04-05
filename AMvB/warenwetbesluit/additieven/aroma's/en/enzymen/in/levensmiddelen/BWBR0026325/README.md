@@ -8,11 +8,11 @@ Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 1 
 
 Gelet op:
 
-– verordening (EG) nr. 1332/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake voedingsenzymen en tot wijziging van richtlijn 83/417/EEG van de Raad, verordening (EG) nr. 1493/1999 van de Raad, richtlijn 2000/13/EG, richtlijn 2001/112/EG van de Raad en verordening (EG) 258/97;  
+–  verordening (EG) nr. 1332/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake voedingsenzymen en tot wijziging van richtlijn 83/417/EEG van de Raad, verordening (EG) nr. 1493/1999 van de Raad, richtlijn 2000/13/EG, richtlijn 2001/112/EG van de Raad en verordening (EG) 258/97;  
 
-– verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);  
+–  verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);  
 
-– verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG; en  
+–  verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG; en  
 
 – de [artikelen 4, eerste lid](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [8, eerste lid](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [13, onder a](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), en [32b, eerste lid, van de Warenwet](../../../../../../../../../wet/warenwet/BWBR0001969/README.md);   
 De Raad van State gehoord (advies van 16 juli 2009, no. W13.09.0226/I);
@@ -24,13 +24,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *verordening (EG) 1332/2008:*verordening (EG) nr. 1332/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake voedingsenzymen en tot wijziging van richtlijn 83/417/EEG van de Raad, verordening (EG) nr. 1493/1999 van de Raad, richtlijn 2000/13/EG, richtlijn 2001/112/EG van de Raad en verordening (EG) 258/97;  
+a.  *verordening (EG) 1332/2008:* verordening (EG) nr. 1332/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake voedingsenzymen en tot wijziging van richtlijn 83/417/EEG van de Raad, verordening (EG) nr. 1493/1999 van de Raad, richtlijn 2000/13/EG, richtlijn 2001/112/EG van de Raad en verordening (EG) 258/97;  
 
-b. *verordening (EG) 1333/2008:*verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);  
+b.  *verordening (EG) 1333/2008:* verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);  
 
-c. *verordening (EG) 1334/2008:*verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG;  
+c.  *verordening (EG) 1334/2008:* verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG;  
 
-d. *verordening (EG) 2065/2003:* verordening (EG) nr. 2065/2003 van het Europees Parlement en de Raad van de Europese Unie van 10 november 2003 inzake in of op levensmiddelen gebruikte of te gebruiken rookaroma’s (PbEU L 309).    
+d.  *verordening (EG) 2065/2003:* verordening (EG) nr. 2065/2003 van het Europees Parlement en de Raad van de Europese Unie van 10 november 2003 inzake in of op levensmiddelen gebruikte of te gebruiken rookaroma’s (PbEU L 309).  
 
 ### Artikel  2  
 
@@ -39,7 +39,7 @@ d. *verordening (EG) 2065/2003:* verordening (EG) nr. 2065/2003 van het Europees
 3.  Het is verboden te handelen in strijd met de artikelen 4, 5, 6, eerste en tweede lid, 7, 10, 14, eerste lid, 15, eerste lid, 16, 17 en 19, eerste tot en met derde lid, van verordening (EG) 1334/2008.   
 4.  Het is verboden te handelen in strijd met artikel 3.   
 5.  Het is verboden te handelen in strijd met de krachtens artikel 4 vastgestelde voorschriften.   
-6.  Het is verboden te handelen in strijd met artikel 4, tweede lid, van verordening (EG) 2065/2003.   
+6.  Het is verboden te handelen in strijd met artikel 4, tweede lid, van verordening (EG) 2065/2003. 
 
 ### Artikel  3  
 
@@ -49,11 +49,11 @@ a. artikel 11 van verordening (EG) 1332/2008;
 
 b. artikel 22 van verordening (EG) 1333/2008; en  
 
-c. artikel 15 van verordening (EG) 1334/2008;   wordt in ieder geval vermeld in de Engelse of de Nederlandse taal.  
+c. artikel 15 van verordening (EG) 1334/2008;   wordt in ieder geval vermeld in de Engelse of de Nederlandse taal. 
 
 ### Artikel  4  
 
-Bij regeling van Onze Minister worden nadere regels vastgesteld inzake artikel 2, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordeningen (EG) 1332/2008, 1333/2008 of 1334/2008 gestelde voorschriften.  
+Bij regeling van Onze Minister worden nadere regels vastgesteld inzake artikel 2, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordeningen (EG) 1332/2008, 1333/2008 of 1334/2008 gestelde voorschriften. 
 
 ### Artikel  5  
 
@@ -69,67 +69,67 @@ d. de [Warenwetregeling zuiverheidseisen voor kleurstoffen in levensmiddelen 200
 
 e. de [Warenwetregeling Gebruik van zoetstoffen in levensmiddelen](../../../../../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/zoetstoffen/in/levensmiddelen/BWBR0007613/README.md);  
 
-f. de [Warenwetregeling zuiverheidseisen voor zoetstoffen 2008](../../../../../../../../../ministeriele-regeling/warenwetregeling/zuiverheidseisen/voor/zoetstoffen/2008/BWBR0024204/README.md).    
+f. de [Warenwetregeling zuiverheidseisen voor zoetstoffen 2008](../../../../../../../../../ministeriele-regeling/warenwetregeling/zuiverheidseisen/voor/zoetstoffen/2008/BWBR0024204/README.md).   
 
 ### Artikel  6  
 
-Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.   
+Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
 ### Artikel  7  
 
-Wijzigt het Warenwetbesluit Cacao en chocolade.   
+Wijzigt het Warenwetbesluit Cacao en chocolade.
 
 ### Artikel  8  
 
-Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.   
+Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
 
 ### Artikel  9  
 
-Wijzigt het Warenwetbesluit Kruidenpreparaten.   
+Wijzigt het Warenwetbesluit Kruidenpreparaten.
 
 ### Artikel  10  
 
-Wijzigt het Warenwetbesluit Meel en brood.   
+Wijzigt het Warenwetbesluit Meel en brood.
 
 ### Artikel  11  
 
-Wijzigt het Warenwetbesluit Vlees, gehakt en vleesproducten.   
+Wijzigt het Warenwetbesluit Vlees, gehakt en vleesproducten.
 
 ### Artikel  12  
 
-Wijzigt het Warenwetbesluit Voedingswaarde-informatie levensmiddelen.   
+Wijzigt het Warenwetbesluit Voedingswaarde-informatie levensmiddelen.
 
 ### Artikel  13  
 
-Wijzigt het Warenwetbesluit Vruchtensappen.   
+Wijzigt het Warenwetbesluit Vruchtensappen.
 
 ### Artikel  14  
 
-Wijzigt het Warenwetbesluit Zuivel.   
+Wijzigt het Warenwetbesluit Zuivel.
 
 ### Artikel  15  
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ### Artikel  16  
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ### Artikel  17  
 
-Ingetrokken worden: 
+Ingetrokken worden:
 
-a. het [Warenwetbesluit Levensmiddelenadditieven](../../../../../../../../../AMvB/warenwetbesluit/levensmiddelenadditieven/BWBR0005456/README.md);  
+a.het [Warenwetbesluit Levensmiddelenadditieven](../../../../../../../../../AMvB/warenwetbesluit/levensmiddelenadditieven/BWBR0005456/README.md);
 
-b. het [Warenwetbesluit Zoetstoffen](../../../../../../../../../AMvB/warenwetbesluit/zoetstoffen/BWBR0004652/README.md).    
+b.het [Warenwetbesluit Zoetstoffen](../../../../../../../../../AMvB/warenwetbesluit/zoetstoffen/BWBR0004652/README.md).
 
 ### Artikel  18  
 
-Het [Warenwetbesluit Aroma’s](../../../../../../../../../AMvB/warenwetbesluit/aroma's/BWBR0005413/README.md) wordt ingetrokken.  
+Het [Warenwetbesluit Aroma’s](../../../../../../../../../AMvB/warenwetbesluit/aroma's/BWBR0005413/README.md) wordt ingetrokken.
 
 ### Artikel  19  
 
-Wijzigt het Warenwetbesluit Gereserveerde aanduidingen.   
+Wijzigt het Warenwetbesluit Gereserveerde aanduidingen. 
 
 ### Artikel  20  
 
@@ -149,11 +149,11 @@ e. artikel 9;
 f. artikel 16; en  
 
 g. artikel 18.     
-3.  In afwijking van het eerste lid treedt artikel 19 in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.   
+3.  In afwijking van het eerste lid treedt artikel 19 in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.  
 
 ### Artikel  21  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit additieven, aroma’s en enzymen in levensmiddelen.  
+Dit besluit wordt aangehaald als: Warenwetbesluit additieven, aroma’s en enzymen in levensmiddelen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
