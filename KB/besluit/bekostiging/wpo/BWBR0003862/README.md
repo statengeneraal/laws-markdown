@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen, drs. G. van Leijenhorst, van 11 juli 1985, nr. 6238/2313, centrale directie Wetgeving en Juridische Zaken;
 
-Gelet op [artikel 51, tweede en derde lid, van de Wet op het basisonderwijs](../../../../wet/wbo/BWBR0003420/README.md) (*Stb.* 1984, 2) en op de artikelen E 29 en E 32 van de Overgangswet WBO (*Stb.* 1984, 3);
+Gelet op [artikel 51, tweede en derde lid, van de Wet op het basisonderwijs](../../../../../wet/wbo/BWBR0003420/README.md) (*Stb.* 1984, 2) en op de artikelen E 29 en E 32 van de Overgangswet WBO (*Stb.* 1984, 3);
 
 Gehoord de Onderwijsraad (advies van 5 december 1984, nr. O.R. III/100101 LO);
 
@@ -26,11 +26,11 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder: Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap; wet: [Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md); basisschool: een school waar basisonderwijs wordt gegeven, niet zijnde een speciale school voor basisonderwijs; speciale school voor basisonderwijs: een school waar basisonderwijs wordt gegeven aan kinderen voor wie vaststaat dat overwegend een zodanige orthopedagogische en orthodidactische benadering aangewezen is, dat zij althans gedurende enige tijd op een speciale school voor basisonderwijs moeten worden opgevangen; samenwerkingsverband: een samenwerkingsverband als bedoeld in [artikel 18 van de wet](../../../../wet/wbo/BWBR0003420/README.md); school: een basisschool of een speciale school voor basisonderwijs, tenzij het tegendeel blijkt; openbare school: door een of meer gemeenten, al dan niet te zamen met een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid in stand gehouden school; bijzondere school: door een privaatrechtelijke rechtspersoon in stand gehouden school; nevenvestiging: deel van een school, dat op de plaats waar het onderwijs wordt gegeven voordat het een deel van de school werd als zelfstandige school functioneerde; centrale dienst: centrale dienst die bekostiging ontvangt als bedoeld in [artikel 132 van de wet](../../../../wet/wbo/BWBR0003420/README.md); bevoegd gezag van volgens de wet bekostigde scholen: voor wat betreft 
+In dit besluit wordt verstaan onder: Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap; wet: [Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md); basisschool: een school waar basisonderwijs wordt gegeven, niet zijnde een speciale school voor basisonderwijs; speciale school voor basisonderwijs: een school waar basisonderwijs wordt gegeven aan kinderen voor wie vaststaat dat overwegend een zodanige orthopedagogische en orthodidactische benadering aangewezen is, dat zij althans gedurende enige tijd op een speciale school voor basisonderwijs moeten worden opgevangen; samenwerkingsverband: een samenwerkingsverband als bedoeld in [artikel 18 van de wet](../../../../../wet/wbo/BWBR0003420/README.md); school: een basisschool of een speciale school voor basisonderwijs, tenzij het tegendeel blijkt; openbare school: door een of meer gemeenten, al dan niet te zamen met een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid in stand gehouden school; bijzondere school: door een privaatrechtelijke rechtspersoon in stand gehouden school; nevenvestiging: deel van een school, dat op de plaats waar het onderwijs wordt gegeven voordat het een deel van de school werd als zelfstandige school functioneerde; centrale dienst: centrale dienst die bekostiging ontvangt als bedoeld in [artikel 132 van de wet](../../../../../wet/wbo/BWBR0003420/README.md); bevoegd gezag van volgens de wet bekostigde scholen: voor wat betreft 
 
 a. een openbare school: het college van burgemeester en wethouders, voor zover de raad niet anders bepaalt, en, indien de raad dit wenselijk oordeelt, met inachtneming van door hem te stellen regelen dan wel het krachtens een gemeenschappelijke regeling bevoegde orgaan;  
 
-b. een bijzondere school: de rechtspersoon, bedoeld in [artikel 55 van de wet](../../../../wet/wbo/BWBR0003420/README.md);   ouders: ouders of voogden; teldatum: een van de data, bedoeld in [artikel 121, eerste en tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md); leerling: een leerling die op grond van het [artikel 39 van de wet](../../../../wet/wbo/BWBR0003420/README.md) tot een school is toegelaten; leerling met een niet-Nederlandse culturele achtergrond: leerling: 
+b. een bijzondere school: de rechtspersoon, bedoeld in [artikel 55 van de wet](../../../../../wet/wbo/BWBR0003420/README.md);   ouders: ouders of voogden; teldatum: een van de data, bedoeld in [artikel 121, eerste en tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md); leerling: een leerling die op grond van het [artikel 39 van de wet](../../../../../wet/wbo/BWBR0003420/README.md) tot een school is toegelaten; leerling met een niet-Nederlandse culturele achtergrond: leerling: 
 
 a. die behoort tot de Molukse bevolkingsgroep,  
 
@@ -38,7 +38,7 @@ b. van wie ten minste een van de ouders of voogden afkomstig is uit Griekenland,
 
 c. van wie ten minste een van de ouders of voogden afkomstig is uit Suriname, de Nederlandse Antillen of Aruba,  
 
-d. van wie ten minste een van de ouders of voogden als vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning als bedoeld in [artikel 28](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of  [33 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md),  
+d. van wie ten minste een van de ouders of voogden als vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning als bedoeld in [artikel 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of  [33 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md),  
 
 e. van wie ten minste een van de ouders of voogden afkomstig is uit een ander niet-Engelstalig land buiten Europa, echter met uitzondering van Indonesië;   schooljaar: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend; hoofdgebouw: het gebouw dat als zodanig is aangewezen ingevolge 
 
@@ -48,7 +48,7 @@ b. een besluit van Onze Minister ingevolge het overzicht, bedoeld in artikel 69 
 
 c. een besluit van Onze minister ingevolge de artikelen 70 of 73 van de Wet op het basisonderwijs, of  
 
-d. een besluit van Onze Minister naar aanleiding van een besluit van burgemeester en wethouders ingevolge artikel 67, vierde lid, of artikel 72, derde lid, van de Wet op het basisonderwijs,   zoals deze regeling onderscheidenlijk deze wet luidden op 31 december 1996; accountant: een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md); leerlinggebonden budget: het budget, dat beschikbaar is op grond van [artikel 70a van de wet](../../../../wet/wbo/BWBR0003420/README.md); formatiebasisbedrag: het formatiebasisbedrag, bedoeld in artikel 22, eerste lid, onderdeel a; formatieleeftijdsbedrag: het formatieleeftijdsbedrag, bedoeld in artikel 22, eerste lid, onderdeel b; basisbedrag: het basisbedrag, bedoeld in artikel 22, eerste lid, onderdeel c; leeftijdsbedrag: het leeftijdsbedrag, bedoeld in artikel 22, eerste lid, onderdeel d.  
+d. een besluit van Onze Minister naar aanleiding van een besluit van burgemeester en wethouders ingevolge artikel 67, vierde lid, of artikel 72, derde lid, van de Wet op het basisonderwijs,   zoals deze regeling onderscheidenlijk deze wet luidden op 31 december 1996; accountant: een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md); leerlinggebonden budget: het budget, dat beschikbaar is op grond van [artikel 70a van de wet](../../../../../wet/wbo/BWBR0003420/README.md); formatiebasisbedrag: het formatiebasisbedrag, bedoeld in artikel 22, eerste lid, onderdeel a; formatieleeftijdsbedrag: het formatieleeftijdsbedrag, bedoeld in artikel 22, eerste lid, onderdeel b; basisbedrag: het basisbedrag, bedoeld in artikel 22, eerste lid, onderdeel c; leeftijdsbedrag: het leeftijdsbedrag, bedoeld in artikel 22, eerste lid, onderdeel d.  
 
 ### Titel  II  
 
@@ -56,9 +56,9 @@ d. een besluit van Onze Minister naar aanleiding van een besluit van burgemeeste
 
 ### Artikel  2  
 
-####Gegevens en bescheiden nieuwe scholen en scholen die met toepassing van [artikel 84](../../../../wet/wbo/BWBR0003420/README.md), [87](../../../../wet/wbo/BWBR0003420/README.md) of [88 van de wet](../../../../wet/wbo/BWBR0003420/README.md) voor bekostiging in aanmerking komen
+####Gegevens en bescheiden nieuwe scholen en scholen die met toepassing van [artikel 84](../../../../../wet/wbo/BWBR0003420/README.md), [87](../../../../../wet/wbo/BWBR0003420/README.md) of [88 van de wet](../../../../../wet/wbo/BWBR0003420/README.md) voor bekostiging in aanmerking komen
 
-Het bevoegd gezag van een school ten aanzien waarvan Onze Minister heeft meegedeeld dat de bekostiging een aanvang kan nemen of die ingevolge een beschikking van Onze Minister op grond van [artikel 84](../../../../wet/wbo/BWBR0003420/README.md), [87](../../../../wet/wbo/BWBR0003420/README.md) of [88 van de wet](../../../../wet/wbo/BWBR0003420/README.md) zal worden bekostigd, zendt Onze Minister uiterlijk 3 maanden voor de datum van ingang van de bekostiging de benodigde administratieve gegevens en bescheiden voor de vaststelling van de bekostigingsbedragen. Bij ministeriële regeling worden voorschriften gegeven omtrent de gegevens en bescheiden.  
+Het bevoegd gezag van een school ten aanzien waarvan Onze Minister heeft meegedeeld dat de bekostiging een aanvang kan nemen of die ingevolge een beschikking van Onze Minister op grond van [artikel 84](../../../../../wet/wbo/BWBR0003420/README.md), [87](../../../../../wet/wbo/BWBR0003420/README.md) of [88 van de wet](../../../../../wet/wbo/BWBR0003420/README.md) zal worden bekostigd, zendt Onze Minister uiterlijk 3 maanden voor de datum van ingang van de bekostiging de benodigde administratieve gegevens en bescheiden voor de vaststelling van de bekostigingsbedragen. Bij ministeriële regeling worden voorschriften gegeven omtrent de gegevens en bescheiden.  
 
 ### Artikel  3  
 
@@ -71,8 +71,8 @@ Het bevoegd gezag van een school ten aanzien waarvan Onze Minister heeft meegede
 
 ####Aanvang van de bekostiging
 
-1.  De aanspraak op de verstrekking van bekostiging voor de personeelskosten, bedoeld in de [artikelen 129](../../../../wet/wbo/BWBR0003420/README.md) en [137, eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), ontstaat met ingang van 1 augustus van het schooljaar waarin de bekostiging van een nieuw geopende school begint.   
-2.  De aanspraak op de bekostiging voor de uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding, bedoeld in [artikel 134, van de wet](../../../../wet/wbo/BWBR0003420/README.md), ontstaat met ingang van 1 augustus van het schooljaar waarin de bekostiging van een nieuw geopende school begint.   
+1.  De aanspraak op de verstrekking van bekostiging voor de personeelskosten, bedoeld in de [artikelen 129](../../../../../wet/wbo/BWBR0003420/README.md) en [137, eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), ontstaat met ingang van 1 augustus van het schooljaar waarin de bekostiging van een nieuw geopende school begint.   
+2.  De aanspraak op de bekostiging voor de uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding, bedoeld in [artikel 134, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), ontstaat met ingang van 1 augustus van het schooljaar waarin de bekostiging van een nieuw geopende school begint.   
 3.  In afwijking van het eerste lid, ontstaat aanspraak op bekostiging voor de uitgaven voor 1 lid van het personeel op 1 juni voorafgaand aan het schooljaar waarin de bekostiging van een nieuw geopende school begint.   
 4.  De in het derde lid bedoelde bekostiging bestaat uit de som van: 
 
@@ -81,7 +81,7 @@ a. een basisbedrag, welk bedrag wordt verhoogd met een leeftijdsbedrag dat wordt
 b. 2/12 van de aanvullende bekostiging voor schoolleiding, bedoeld in artikel 26.     
 5.  Voor de berekening van het basisbedrag, bedoeld in het vierde lid, onderdeel a, en het leeftijdsbedrag, bedoeld in het vierde lid, onderdeel a, bedraagt de formatie 2/12 formatieplaats.   
 6.  Onverminderd het derde lid, heeft een school die op de teldatum geen leerlingen heeft geen aanspraak op bekostiging.   
-7.  Indien een school op 1 oktober van het schooljaar waarin de bekostiging van een nieuw geopende school begint geen leerlingen heeft, ontstaat in afwijking van het zesde lid, aanspraak op bekostiging voor de personeelskosten, bedoeld in de [artikelen 129](../../../../wet/wbo/BWBR0003420/README.md) en [137, eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), met ingang van de eerste dag van de maand waarin de school een leerling heeft. Indien de eerste volzin van toepassing is, wordt de bekostiging voor het lopende schooljaar en het daaropvolgende schooljaar gebaseerd op het aantal leerlingen dat de school heeft op de eerste dag van de tweede maand volgend op de dag waarop de school de eerste leerling heeft.   
+7.  Indien een school op 1 oktober van het schooljaar waarin de bekostiging van een nieuw geopende school begint geen leerlingen heeft, ontstaat in afwijking van het zesde lid, aanspraak op bekostiging voor de personeelskosten, bedoeld in de [artikelen 129](../../../../../wet/wbo/BWBR0003420/README.md) en [137, eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), met ingang van de eerste dag van de maand waarin de school een leerling heeft. Indien de eerste volzin van toepassing is, wordt de bekostiging voor het lopende schooljaar en het daaropvolgende schooljaar gebaseerd op het aantal leerlingen dat de school heeft op de eerste dag van de tweede maand volgend op de dag waarop de school de eerste leerling heeft.   
 
 ### Artikel  3b  
 
@@ -90,9 +90,9 @@ b. 2/12 van de aanvullende bekostiging voor schoolleiding, bedoeld in artikel 26
 1.  Aan het bevoegd gezag van een nieuw geopende school wordt, in afwachting van de vaststelling van de bekostiging voor personeelskosten en de bekostiging voor de uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding op basis van de gegevens op de teldatum, een voorschot op de bedoelde bekostiging verstrekt indien het bevoegd gezag uiterlijk op 1 juli voorafgaande aan het schooljaar waarin de bekostiging van een nieuw geopende school begint, het vermoedelijk aantal leerlingen op 1 oktober volgend op de datum van ingang van de bekostiging aan Onze Minister meldt.   
 2.  Het voorschot, bedoeld in het eerste lid, bestaat uit: 
 
-a. de bekostiging, bedoeld in [artikel 137, eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), berekend overeenkomstig dit besluit, met dien verstande dat wordt gerekend met het aantal leerlingen, bedoeld in het eerste lid; en  
+a. de bekostiging, bedoeld in [artikel 137, eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), berekend overeenkomstig dit besluit, met dien verstande dat wordt gerekend met het aantal leerlingen, bedoeld in het eerste lid; en  
 
-b. de bekostiging, bedoeld in [artikel 134 van de wet](../../../../wet/wbo/BWBR0003420/README.md), berekend overeenkomstig dit besluit, met dien verstande dat wordt gerekend met het aantal leerlingen, bedoeld in het eerste lid.     
+b. de bekostiging, bedoeld in [artikel 134 van de wet](../../../../../wet/wbo/BWBR0003420/README.md), berekend overeenkomstig dit besluit, met dien verstande dat wordt gerekend met het aantal leerlingen, bedoeld in het eerste lid.     
 3.  Op de betaling van het voorschot zijn artikel 13 en artikel 19 van overeenkomstige toepassing.   
 4.  Onze Minister is bevoegd tot verrekening van verstrekte voorschotten met de betalingen die voortvloeien uit de vaststelling van de onderscheiden onderdelen van de bekostiging.   
 5.  Indien Onze Minister een voorschot verleent in gevallen waarin de bekostiging wegens niet aan het bevoegd gezag van een school toe te rekenen omstandigheden niet tijdig kan worden vastgesteld, zijn het derde en het vierde lid van overeenkomstige toepassing.   
@@ -107,7 +107,7 @@ Het bevoegd gezag geeft binnen twee weken na een besluit tot opheffing van de sc
 
 ####Gegevens bij mededeling bevoegd gezag over uitzonderingssituatie
 
-1.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 153, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) worden de volgende gegevens overgelegd: 
+1.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 153, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) worden de volgende gegevens overgelegd: 
 
 a. naam, adres en het door het ministerie toegekende administratienummer van de desbetreffende school,  
 
@@ -120,7 +120,7 @@ d. het door het ministerie toegekende administratienummer van de school van deze
 e. een plattegrond met een schaalverdeling waarop het hoofdgebouw van de desbetreffende school, daaronder niet begrepen een nevenvestiging, en het dichtstbijzijnde hoofdgebouw van de onder *d* bedoelde school zijn aangegeven en  
 
 f. de afstand, hemelsbreed gemeten, tussen enerzijds het hoofdgebouw van de desbetreffende school, daaronder niet begrepen een nevenvestiging, en anderzijds het dichtstbijzijnde hoofdgebouw van de onder *d* bedoelde school.     
-2.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 153, vijfde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) worden de volgende gegevens overgelegd: 
+2.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 153, vijfde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) worden de volgende gegevens overgelegd: 
 
 a. de in het eerste lid, onder a en b, genoemde gegevens,  
 
@@ -135,7 +135,7 @@ c. een plattegrond met een schaalverdeling waarop zijn aangegeven:
 d. de afstand in tienden van kilometers van de in onderdeel c2° bedoelde route en  
 
 e. informatie waaruit blijkt dat aan het volgen van openbaar onderwijs behoefte bestaat.     
-3.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 157, eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) worden de volgende gegevens overgelegd: 
+3.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 157, eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) worden de volgende gegevens overgelegd: 
 
 a. de in het eerste lid, onder a en b, genoemde gegevens,  
 
@@ -146,19 +146,19 @@ c. naam, adres en het door het ministerie toegekende administratienummer van de 
 d. het feitelijk aantal leerlingen, daaronder begrepen leerlingen van een nevenvestiging, van de overige scholen van het bevoegd gezag op 1 oktober van het schooljaar waarin de mededeling wordt gedaan, verhoogd met 3%,  
 
 e. de voor de scholen van het bevoegd gezag geldende opheffingsnorm.     
-4.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 157, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) worden de volgende gegevens overgelegd: 
+4.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 157, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) worden de volgende gegevens overgelegd: 
 
 a. de in het eerste lid, onder a en b, en derde lid, onder b tot en met d, genoemde gegevens, en  
 
 b. de per school van het bevoegd gezag geldende opheffingsnorm.     
-5.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 157, derde juncto het eerste lid](../../../../wet/wbo/BWBR0003420/README.md), worden de volgende gegevens overgelegd: 
+5.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 157, derde juncto het eerste lid](../../../../../wet/wbo/BWBR0003420/README.md), worden de volgende gegevens overgelegd: 
 
 a. de in het eerste lid, onder a en b, en derde lid, onder b tot en met e, genoemde gegevens,  
 
-b. een afschrift van de samenwerkingsovereenkomst, bedoeld in [artikel 157, derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) die het bevoegd gezag het eerst heeft gesloten, en  
+b. een afschrift van de samenwerkingsovereenkomst, bedoeld in [artikel 157, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) die het bevoegd gezag het eerst heeft gesloten, en  
 
-c. informatie waaruit blijkt dat aan de in [artikel 157, derde lid, onder a en b, van de wet](../../../../wet/wbo/BWBR0003420/README.md) genoemde voorwaarden is voldaan.     
-6.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 157, derde juncto het tweede lid](../../../../wet/wbo/BWBR0003420/README.md), worden de volgende gegevens overgelegd: 
+c. informatie waaruit blijkt dat aan de in [artikel 157, derde lid, onder a en b, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) genoemde voorwaarden is voldaan.     
+6.  Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 157, derde juncto het tweede lid](../../../../../wet/wbo/BWBR0003420/README.md), worden de volgende gegevens overgelegd: 
 
 a. de in het eerste lid, onder a en b, derde lid, onder b tot en met d, vierde lid, onder b, en vijfde lid, onder b tot en met d, genoemde gegevens,  
 
@@ -172,9 +172,9 @@ d. de afstand, hemelsbreed gemeten, tussen enerzijds het hoofdgebouw van de desb
 
 ####Inhoudingsbedrag bij voortijdige beëindiging samenwerkingsovereenkomst
 
-1.  In geval van voortijdige beëindiging van een samenwerkingsovereenkomst wordt voor elk schooljaar dat een bijzondere school dan wel een openbare school op grond van de samenwerkingsovereenkomst, bedoeld in [artikel 157, derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), in stand werd gehouden, door het Rijk een bedrag ingehouden op de bekostiging van de school.   
+1.  In geval van voortijdige beëindiging van een samenwerkingsovereenkomst wordt voor elk schooljaar dat een bijzondere school dan wel een openbare school op grond van de samenwerkingsovereenkomst, bedoeld in [artikel 157, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), in stand werd gehouden, door het Rijk een bedrag ingehouden op de bekostiging van de school.   
 2.  Het bedrag, bedoeld in het eerste lid, is de som van de bekostiging, bedoeld in artikel 23, artikel 24 en artikel 26, in elk van die schooljaren.   
-3.  Voor elk schooljaar dat een bijzondere dan wel een openbare nevenvestiging op grond van de samenwerkingsovereenkomst, bedoeld in [artikel 157, derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), in stand werd gehouden, wordt door het Rijk een bedrag ingehouden op de bekostiging van de nevenvestiging.   
+3.  Voor elk schooljaar dat een bijzondere dan wel een openbare nevenvestiging op grond van de samenwerkingsovereenkomst, bedoeld in [artikel 157, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), in stand werd gehouden, wordt door het Rijk een bedrag ingehouden op de bekostiging van de nevenvestiging.   
 4.  Het bedrag, bedoeld in het derde lid, is de bekostiging, bedoeld in artikel 25, in elk van die schooljaren.   
 
 ### Titel  III  
@@ -229,7 +229,7 @@ b. een schriftelijke verklaring van de ouders dat de leerling binnen een periode
 ####Leerlingentelling
 
 1.  Voor de toepassing van de wet worden, onverminderd artikel 8, de leerlingen op een school meegeteld die op de teldatum op die school staan ingeschreven tenzij zij vanaf het begin van het schooljaar tot de teldatum meer dan de helft van het aantal schooldagen zonder geldige reden hebben verzuimd.   
-2.  Voor de toepassing van het eerste lid wordt ten aanzien van de leerplichtige leerling als geldige reden aangemerkt een vrijstelling van geregeld schoolbezoek als bedoeld in de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) (*Stb.* 1971, 406). Ten aanzien van de niet-leerplichtige leerling worden als geldige reden aangemerkt dezelfde gronden als die welke leiden tot een vrijstelling als bedoeld in de vorige volzin.   
+2.  Voor de toepassing van het eerste lid wordt ten aanzien van de leerplichtige leerling als geldige reden aangemerkt een vrijstelling van geregeld schoolbezoek als bedoeld in de [Leerplichtwet 1969](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) (*Stb.* 1971, 406). Ten aanzien van de niet-leerplichtige leerling worden als geldige reden aangemerkt dezelfde gronden als die welke leiden tot een vrijstelling als bedoeld in de vorige volzin.   
 3.  Indien de teldatum valt op een dag waarop geen onderwijs wordt gegeven, worden op de eerstvolgende schooldag de leerlingen geteld, die op de teldatum stonden ingeschreven.   
 4.  Een leerling kan slechts op 1 school voor de bekostiging meetellen.   
 
@@ -257,7 +257,7 @@ b. een schriftelijke verklaring van de ouders dat de leerling binnen een periode
 
 ####Verklaring bevoegd gezag
 
-Het bevoegd gezag verstrekt gelijktijdig met de verklaring, bedoeld in [artikel 171, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), een verklaring omtrent de juistheid en tijdige aanmelding van de gegevens waarop de bekostigingsbedragen zijn of worden gebaseerd.  
+Het bevoegd gezag verstrekt gelijktijdig met de verklaring, bedoeld in [artikel 171, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), een verklaring omtrent de juistheid en tijdige aanmelding van de gegevens waarop de bekostigingsbedragen zijn of worden gebaseerd.  
 
 ### Titel  IV  
 
@@ -271,46 +271,46 @@ Het bevoegd gezag verstrekt gelijktijdig met de verklaring, bedoeld in [artikel 
 
 ####Vaststelling en nadere vaststelling bekostiging materiële voorzieningen ten behoeve van de instandhouding
 
-1.  Onze Minister stelt jaarlijks voor 1 februari de bekostiging voor dat jaar voor basisscholen en speciale scholen voor basisonderwijs vast, gebaseerd op de grondslag bedoeld in de [artikelen 134, vierde lid](../../../../wet/wbo/BWBR0003420/README.md), onderscheidenlijk [115 van de wet](../../../../wet/wbo/BWBR0003420/README.md), met dien verstande dat Onze Minister voor het bepalen van het aantal leerlingen op 1 oktober van het jaar voorafgaande aan het bekostigingsjaar, de leerlingen in aanmerking neemt van wie het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens uiterlijk op de daarop volgende 1 december zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../wet/wbo/BWBR0003420/README.md), dan wel de leerlingen van wie opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid.   
-2.  Indien [artikel 134, zesde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) van toepassing is en indien van de leerlingen die op 1 maart van het bekostigingsjaar op de school staan ingeschreven het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens uiterlijk op 1 april van dat jaar zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../wet/wbo/BWBR0003420/README.md), dan wel van deze leerlingen opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid, stelt Onze Minister voor 1 mei de bekostiging, bedoeld in het eerste lid, voor dat jaar nader vast.   
-3.  Indien de verklaring van de accountant, bedoeld in [artikel 171, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), aanleiding geeft tot wijziging van de bekostiging, bedoeld in het eerste of tweede lid, stelt Onze Minister voor 1 oktober de bekostiging voor dat jaar nader vast.   
+1.  Onze Minister stelt jaarlijks voor 1 februari de bekostiging voor dat jaar voor basisscholen en speciale scholen voor basisonderwijs vast, gebaseerd op de grondslag bedoeld in de [artikelen 134, vierde lid](../../../../../wet/wbo/BWBR0003420/README.md), onderscheidenlijk [115 van de wet](../../../../../wet/wbo/BWBR0003420/README.md), met dien verstande dat Onze Minister voor het bepalen van het aantal leerlingen op 1 oktober van het jaar voorafgaande aan het bekostigingsjaar, de leerlingen in aanmerking neemt van wie het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens uiterlijk op de daarop volgende 1 december zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../../wet/wbo/BWBR0003420/README.md), dan wel de leerlingen van wie opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid.   
+2.  Indien [artikel 134, zesde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) van toepassing is en indien van de leerlingen die op 1 maart van het bekostigingsjaar op de school staan ingeschreven het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens uiterlijk op 1 april van dat jaar zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../../wet/wbo/BWBR0003420/README.md), dan wel van deze leerlingen opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid, stelt Onze Minister voor 1 mei de bekostiging, bedoeld in het eerste lid, voor dat jaar nader vast.   
+3.  Indien de verklaring van de accountant, bedoeld in [artikel 171, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), aanleiding geeft tot wijziging van de bekostiging, bedoeld in het eerste of tweede lid, stelt Onze Minister voor 1 oktober de bekostiging voor dat jaar nader vast.   
 
 ### Artikel  13  
 
 ####Maandelijkse betaling
 
-1.  Het Rijk verstrekt elke maand van het uitkeringsjaar in verband met de materiële voorzieningen ten behoeve van de instandhouding aan het bevoegd gezag van een school een twaalfde gedeelte van de vergoeding, bedoeld in [artikel 134, eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), waarop het over dat jaar recht heeft.   
-2.  Indien artikel 12a, tweede lid, van toepassing is, wordt het verschil tussen de vergoeding, bedoeld in het eerste lid, berekend op grond van [artikel 134, zesde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) en de vergoeding berekend op grond van [artikel 134, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), verstrekt in de maanden mei tot en met december van het uitkeringsjaar.   
+1.  Het Rijk verstrekt elke maand van het uitkeringsjaar in verband met de materiële voorzieningen ten behoeve van de instandhouding aan het bevoegd gezag van een school een twaalfde gedeelte van de vergoeding, bedoeld in [artikel 134, eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), waarop het over dat jaar recht heeft.   
+2.  Indien artikel 12a, tweede lid, van toepassing is, wordt het verschil tussen de vergoeding, bedoeld in het eerste lid, berekend op grond van [artikel 134, zesde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) en de vergoeding berekend op grond van [artikel 134, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), verstrekt in de maanden mei tot en met december van het uitkeringsjaar.   
 3.  Indien artikel 12a, derde lid, van toepassing is, vindt verrekening plaats van de vergoeding, bedoeld in het eerste lid, met de vergoeding die wordt verstrekt in de maanden oktober tot en met december van het uitkeringsjaar.   
 
 ### Artikel  14  
 
-####Normatieve vaststelling schoolgrootte basisscholen en getal [artikel 134, zesde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md)
+####Normatieve vaststelling schoolgrootte basisscholen en getal [artikel 134, zesde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md)
 
-1.  Het normatief bepaalde aantal te huisvesten groepen leerlingen van basisscholen, bedoeld in [artikel 134, vierde lid, onderdeel a, vijfde lid, onderdeel a, en zesde lid, onderdeel a, van de wet](../../../../wet/wbo/BWBR0003420/README.md), wordt voor het jaar waarvoor de vergoeding voor de materiële voorzieningen ten behoeve van de instandhouding strekt, berekend volgens de volgende formule: het normatief bepaalde aantal te huisvesten groepen leerlingen = (A + B + C + D).   
+1.  Het normatief bepaalde aantal te huisvesten groepen leerlingen van basisscholen, bedoeld in [artikel 134, vierde lid, onderdeel a, vijfde lid, onderdeel a, en zesde lid, onderdeel a, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), wordt voor het jaar waarvoor de vergoeding voor de materiële voorzieningen ten behoeve van de instandhouding strekt, berekend volgens de volgende formule: het normatief bepaalde aantal te huisvesten groepen leerlingen = (A + B + C + D).   
 2.  De factoren A, B, C en D van de formule, bedoeld in het eerste lid, worden als volgt berekend: A = 0,05 x het aantal leerlingen in de leeftijd van 4 tot en met 7 jaar op de datum, bedoeld in het derde lid; B = 0,0343 x het aantal leerlingen in de leeftijd van 8 jaar en ouder op de datum, bedoeld in het derde lid; C = 1,5642 – (het aantal leerlingen op de datum, bedoeld in het derde lid, x 0,0115), met dien verstande dat C niet kleiner is dan nul; D = 0,0179 x het schoolgewicht, bedoeld in artikel 27, waarbij als teldatum wordt aangemerkt de datum, bedoeld in het derde lid.   
 3.  De datum die dient als grondslag voor de vaststelling van het aantal leerlingen bij de berekening van de factoren A, B en C en als grondslag voor de vaststelling van het schoolgewicht bij de berekening van factor D, is: 
 
-a. indien [artikel 134, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 oktober van het jaar voorafgaande aan het jaar waarover de vergoeding plaatsvindt;  
+a. indien [artikel 134, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 oktober van het jaar voorafgaande aan het jaar waarover de vergoeding plaatsvindt;  
 
-b. indien [artikel 134, vijfde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 oktober in de periode waarover de vergoeding plaatsvindt;  
+b. indien [artikel 134, vijfde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 oktober in de periode waarover de vergoeding plaatsvindt;  
 
-c. indien [artikel 134, zesde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 maart van het jaar waarover de vergoeding plaatsvindt, met dien verstande dat bij de berekening van de factoren A en B wordt uitgegaan van de leeftijd van de desbetreffende leerlingen op 1 oktober van het daaraan voorafgaande jaar, waarbij de leerlingen die op 1 oktober van dat jaar 3 jaar waren, worden meegeteld bij de berekening van factor A.     
+c. indien [artikel 134, zesde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) van toepassing is: 1 maart van het jaar waarover de vergoeding plaatsvindt, met dien verstande dat bij de berekening van de factoren A en B wordt uitgegaan van de leeftijd van de desbetreffende leerlingen op 1 oktober van het daaraan voorafgaande jaar, waarbij de leerlingen die op 1 oktober van dat jaar 3 jaar waren, worden meegeteld bij de berekening van factor A.     
 4.  Indien de school bestaat uit een hoofdvestiging en een of meer nevenvestigingen, wordt het eerste lid voor de hoofdvestiging en elke nevenvestiging afzonderlijk toegepast.   
 5.  Het normatief bepaalde aantal te huisvesten groepen leerlingen wordt rekenkundig afgerond op een geheel getal.   
-6.  Het bij algemene maatregel van bestuur vast te stellen aantal leerlingen, bedoeld in [artikel 134, zesde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), is 13.   
+6.  Het bij algemene maatregel van bestuur vast te stellen aantal leerlingen, bedoeld in [artikel 134, zesde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), is 13.   
 
 ### Artikel  16  
 
 ####Omschrijving uitgaven materiële voorzieningen ten behoeve van de instandhouding
 
-De uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding voor schoolgebouwen hebben betrekking op de programma’s van eisen, bedoeld in [artikel 114, eerste lid](../../../../wet/wbo/BWBR0003420/README.md), van de wet.  
+De uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding voor schoolgebouwen hebben betrekking op de programma’s van eisen, bedoeld in [artikel 114, eerste lid](../../../../../wet/wbo/BWBR0003420/README.md), van de wet.  
 
 ### Artikel  17  
 
 ####Omvang vergoeding uitgaven materiële voorzieningen ten behoeve van de instandhouding
 
-1.  De vergoeding voor de materiële voorzieningen ten behoeve van de instandhouding wordt bepaald volgens de programma’s van eisen, bedoeld in [artikel 113, derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md).   
+1.  De vergoeding voor de materiële voorzieningen ten behoeve van de instandhouding wordt bepaald volgens de programma’s van eisen, bedoeld in [artikel 113, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md).   
 2.  De vergoeding, bedoeld in het eerste lid, wordt voor elke leerling met een leerlinggebonden budget die op de school is ingeschreven verhoogd volgens de onderstaande tabel:  Basisscholen (bedragen met ingang van 1-8-2010) 
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Bedrag exclusief her te besteden bedrag  | Her te besteden bedrag  |
@@ -328,22 +328,22 @@ De uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding v
 | Slechthorend en zeer moeilijk lerend  | € 959  | € 511  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 959  | € 442  |
 
-Per 10 november 2011:   
+Per 6 april 2012:   
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|
-| a. Dove kinderen  | € 1.096  | € 1.417  |
-| b. Slechthorende kinderen  | € 978  | € 521  |
-| c. Kinderen met ernstige spraakmoeilijkheden  | € 978  | € 521  |
-| d. Lichamelijk gehandicapte kinderen  | € 979  | € 501  |
-| e. Langdurig zieke kinderen met lichamelijke handicap  | € 978  | € 451  |
-| f. Zeer moeilijk lerende kinderen  | € 923  | € 301  |
-| g. cluster 4  | € 978  | € 451  |
+| a. Dove kinderen  | € 1.118  | € 1.445  |
+| b. Slechthorende kinderen  | € 997  | € 531  |
+| c. Kinderen met ernstige spraakmoeilijkheden  | € 997  | € 531  |
+| d. Lichamelijk gehandicapte kinderen  | € 998  | € 511  |
+| e. Langdurig zieke kinderen met lichamelijke handicap  | € 997  | € 460  |
+| f. Zeer moeilijk lerende kinderen  | € 941  | € 307  |
+| g. cluster 4  | € 997  | € 460  |
 | h. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | € 978  | € 521  |
-| Doof en blind  | € 978  | € 521  |
-| Slechthorend en zeer moeilijk lerend  | € 978  | € 521  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 978  | € 451  |
+| Doof en zeer moeilijk lerend  | € 997  | € 531  |
+| Doof en blind  | € 997  | € 531  |
+| Slechthorend en zeer moeilijk lerend  | € 997  | € 531  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 997  | € 460  |
 
 Speciale scholen voor basisonderwijs (bedragen met ingang van 1-8-2010) 
 
@@ -362,22 +362,22 @@ Speciale scholen voor basisonderwijs (bedragen met ingang van 1-8-2010)
 | Slechthorend en zeer moeilijk lerend  | € 750  | € 511  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 750  | € 442  |
 
-Per 10 november 2011:   
+Per 6 april 2012:   
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|
-| a. Dove kinderen  | € 883  | € 1.417  |
-| b. Slechthorende kinderen  | € 765  | € 521  |
-| c. Kinderen met ernstige spraakmoeilijkheden  | € 765  | € 521  |
-| d. Lichamelijk gehandicapte kinderen  | € 766  | € 501  |
-| e. Langdurig zieke kinderen met lichamelijke handicap  | € 765  | € 451  |
-| f. Zeer moeilijk lerende kinderen  | € 710  | € 301  |
-| g. cluster 4  | € 765  | € 451  |
+| a. Dove kinderen  | € 901  | € 1.445  |
+| b. Slechthorende kinderen  | € 780  | € 531  |
+| c. Kinderen met ernstige spraakmoeilijkheden  | € 780  | € 531  |
+| d. Lichamelijk gehandicapte kinderen  | € 781  | € 511  |
+| e. Langdurig zieke kinderen met lichamelijke handicap  | € 780  | € 460  |
+| f. Zeer moeilijk lerende kinderen  | € 724  | € 307  |
+| g. cluster 4  | € 780  | € 460  |
 | h. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | € 765  | € 521  |
-| Doof en blind  | € 765  | € 521  |
-| Slechthorend en zeer moeilijk lerend  | € 765  | € 521  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 765  | € 451  |
+| Doof en zeer moeilijk lerend  | € 780  | € 531  |
+| Doof en blind  | € 780  | € 531  |
+| Slechthorend en zeer moeilijk lerend  | € 780  | € 531  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 780  | € 460  |
 
 3.  De bedragen, bedoeld in het tweede lid, worden jaarlijks per 1 augustus, telkens te rekenen met het laatstelijk aangepaste bedrag, bij ministeriële regeling aangepast aan de prijsontwikkeling, overeenkomstig de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in het jaar voorafgaande aan het jaar waarin het bedrag wordt aangepast, en het jaar waarin het bedrag wordt aangepast.   
 
@@ -393,18 +393,18 @@ Per 10 november 2011:
 
 ####Vaststelling bekostiging en latere wijziging bekostiging
 
-1.  Onze Minister stelt jaarlijks uiterlijk op 15 april, de bekostigingsbedragen, bedoeld in [artikel 137, eerste en derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) vast voor zover deze bedragen mede gebaseerd zijn op het aantal leerlingen op de teldatum, met dien verstande dat Onze Minister voor het bepalen van het aantal leerlingen op de teldatum, de leerlingen in aanmerking neemt van wie het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens uiterlijk op 1 december van het jaar voorafgaande aan het bekostigingsjaar zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../wet/wbo/BWBR0003420/README.md), dan wel de leerlingen van wie opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid. De bedragen hebben betrekking op een schooljaar.   
-2.  Onze Minister stelt de bekostigingsbedragen, bedoeld in [artikel 137, eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) voorzover het betreft de bekostiging, bedoeld in de artikelen 29, 30 en 34, vast binnen 14 weken na de voor de desbetreffende bekostiging relevante datum.   
-3.  Indien de verklaring van de accountant, bedoeld in [artikel 171, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) aanleiding geeft tot wijziging van de bekostiging, bedoeld in het eerste of tweede lid, stelt Onze Minister voor 1 oktober de bekostiging voor dat jaar nader vast.   
+1.  Onze Minister stelt jaarlijks uiterlijk op 15 april, de bekostigingsbedragen, bedoeld in [artikel 137, eerste en derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) vast voor zover deze bedragen mede gebaseerd zijn op het aantal leerlingen op de teldatum, met dien verstande dat Onze Minister voor het bepalen van het aantal leerlingen op de teldatum, de leerlingen in aanmerking neemt van wie het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens uiterlijk op 1 december van het jaar voorafgaande aan het bekostigingsjaar zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../../wet/wbo/BWBR0003420/README.md), dan wel de leerlingen van wie opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid. De bedragen hebben betrekking op een schooljaar.   
+2.  Onze Minister stelt de bekostigingsbedragen, bedoeld in [artikel 137, eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) voorzover het betreft de bekostiging, bedoeld in de artikelen 29, 30 en 34, vast binnen 14 weken na de voor de desbetreffende bekostiging relevante datum.   
+3.  Indien de verklaring van de accountant, bedoeld in [artikel 171, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) aanleiding geeft tot wijziging van de bekostiging, bedoeld in het eerste of tweede lid, stelt Onze Minister voor 1 oktober de bekostiging voor dat jaar nader vast.   
 4.  De in het eerste en tweede lid bedoelde bekostigingsbedragen kunnen door Onze Minister worden gewijzigd wegens algemene salarismaatregelen of wegens andere al dan niet uit de rijksbegroting voortvloeiende maatregelen.   
 
 ### Artikel  19  
 
 ####Betaalritme
 
-1.  De betaling van de bekostigingsbedragen voor personeelskosten, bedoeld in de [artikelen 129](../../../../wet/wbo/BWBR0003420/README.md) en [137 eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) vindt maandelijks plaats in een bij ministeriële regeling vast te stellen betaalritme dat voor basisscholen en speciale scholen voor basisonderwijs alsmede voor de verschillende onderdelen van de bekostiging verschillend kan worden vastgesteld.   
-2.  De betaling van de bekostiging voor personeelskosten, bedoeld in [artikel 137, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) vindt, tenzij bij beschikking anders wordt bepaald, plaats in een aantal gelijke maandelijkse termijnen.   
-3.  De betaling van de bekostiging voor personeelskosten, bedoeld in [artikel 137, derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) vindt plaats in twaalf gelijke maandelijkse termijnen.   
+1.  De betaling van de bekostigingsbedragen voor personeelskosten, bedoeld in de [artikelen 129](../../../../../wet/wbo/BWBR0003420/README.md) en [137 eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) vindt maandelijks plaats in een bij ministeriële regeling vast te stellen betaalritme dat voor basisscholen en speciale scholen voor basisonderwijs alsmede voor de verschillende onderdelen van de bekostiging verschillend kan worden vastgesteld.   
+2.  De betaling van de bekostiging voor personeelskosten, bedoeld in [artikel 137, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) vindt, tenzij bij beschikking anders wordt bepaald, plaats in een aantal gelijke maandelijkse termijnen.   
+3.  De betaling van de bekostiging voor personeelskosten, bedoeld in [artikel 137, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) vindt plaats in twaalf gelijke maandelijkse termijnen.   
 
 ### Titel  II  
 
@@ -414,15 +414,15 @@ Per 10 november 2011:
 
 ####Formatie per leerling t.b.v. berekening bedrag per leerling
 
-1.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 120, tweede lid, onderdeel a, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedraagt de formatie per leerling 0,0595 formatieplaats.   
-2.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 120, tweede lid, onderdeel b, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedraagt de formatie per leerling 0,0414 formatieplaats.   
-3.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 120, tweede lid, onderdeel c, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedraagt de formatie per leerling 0,0452 formatieplaats.   
+1.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 120, tweede lid, onderdeel a, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedraagt de formatie per leerling 0,0595 formatieplaats.   
+2.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 120, tweede lid, onderdeel b, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedraagt de formatie per leerling 0,0414 formatieplaats.   
+3.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 120, tweede lid, onderdeel c, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedraagt de formatie per leerling 0,0452 formatieplaats.   
 
 ### Artikel  21  
 
 ####Bekostiging voor zorgvoorzieningen speciale school voor basisonderwijs
 
-Voor de berekening van het bedrag per leerling, bedoeld in [artikel 120, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedraagt de formatie per leerling 0,0646 formatieplaats.  
+Voor de berekening van het bedrag per leerling, bedoeld in [artikel 120, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedraagt de formatie per leerling 0,0646 formatieplaats.  
 
 ### Artikel  22  
 
@@ -442,7 +442,7 @@ d. leeftijdsbedrag: een bij ministeriële regeling vast te stellen bedrag, dat w
 
 ####Aanvullende bekostiging voor zeer kleine basisscholen
 
-1.  Indien de totale bekostiging voor personeelskosten berekend op grond van [artikel 120, eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) vermeerderd met de bekostiging, bedoeld in artikel 26, en in voorkomende gevallen vermeerderd met de bekostiging, bedoeld in de artikelen 24, 25 en 28, voor een basisschool minder bedraagt dan een basisbedrag, welk bedrag wordt verhoogd met een leeftijdsbedrag dat wordt vermenigvuldigd met de gewogen gemiddelde leeftijd van de leraren van de basisschool op 1 oktober van het voorafgaande schooljaar, wordt de bekostiging voor personeelskosten verhoogd tot het bedrag van laatstbedoelde uitkomst.   
+1.  Indien de totale bekostiging voor personeelskosten berekend op grond van [artikel 120, eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) vermeerderd met de bekostiging, bedoeld in artikel 26, en in voorkomende gevallen vermeerderd met de bekostiging, bedoeld in de artikelen 24, 25 en 28, voor een basisschool minder bedraagt dan een basisbedrag, welk bedrag wordt verhoogd met een leeftijdsbedrag dat wordt vermenigvuldigd met de gewogen gemiddelde leeftijd van de leraren van de basisschool op 1 oktober van het voorafgaande schooljaar, wordt de bekostiging voor personeelskosten verhoogd tot het bedrag van laatstbedoelde uitkomst.   
 2.  Voor de berekening van het basisbedrag, bedoeld in het eerste lid, en het leeftijdsbedrag, bedoeld in het eerste lid, bedraagt de formatie 2,6927 formatieplaats.   
 3.  Voor de toepassing van het eerste lid wordt voor het schooljaar waarin een nieuwe basisschool wordt geopend, het leeftijdsbedrag vermenigvuldigd met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van basisscholen op 1 oktober van het voorafgaande schooljaar.   
 
@@ -474,8 +474,8 @@ b. de aanvullende bekostiging voor kleine scholen die de basisschool als school 
 
 ####Aanvullende bekostiging voor de schoolleiding
 
-1.  De aanvullende bekostiging voor de schoolleiding, bedoeld in [artikel 120, derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedraagt voor basisscholen met een aantal leerlingen op de teldatum dat niet hoger is dan 97 een bij ministeriële regeling vast te stellen bedrag. Voor basisscholen met een aantal leerlingen op de teldatum dat hoger is dan 97 wordt het in de eerste volzin bedoelde bedrag met 2 vermenigvuldigd.   
-2.  De aanvullende bekostiging voor de schoolleiding, bedoeld in [artikel 120, derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedraagt voor speciale scholen voor basisonderwijs met een aantal leerlingen op de teldatum dat niet hoger is dan 99 een bij ministeriële regeling vast te stellen bedrag. Voor speciale scholen voor basisonderwijs met een aantal leerlingen op de teldatum dat hoger is dan 99 wordt het in de eerste volzin bedoelde bedrag met 2 vermenigvuldigd.   
+1.  De aanvullende bekostiging voor de schoolleiding, bedoeld in [artikel 120, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedraagt voor basisscholen met een aantal leerlingen op de teldatum dat niet hoger is dan 97 een bij ministeriële regeling vast te stellen bedrag. Voor basisscholen met een aantal leerlingen op de teldatum dat hoger is dan 97 wordt het in de eerste volzin bedoelde bedrag met 2 vermenigvuldigd.   
+2.  De aanvullende bekostiging voor de schoolleiding, bedoeld in [artikel 120, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedraagt voor speciale scholen voor basisonderwijs met een aantal leerlingen op de teldatum dat niet hoger is dan 99 een bij ministeriële regeling vast te stellen bedrag. Voor speciale scholen voor basisonderwijs met een aantal leerlingen op de teldatum dat hoger is dan 99 wordt het in de eerste volzin bedoelde bedrag met 2 vermenigvuldigd.   
 
 ### Artikel  27  
 
@@ -518,7 +518,7 @@ Met het hebben gevolgd van een schoolopleiding op maximaal het niveau praktijkon
 
 a. de som van de aantallen leerlingen op alle op 1 augustus van een schooljaar onder dat bevoegd gezag ressorterende basisscholen op de eerste schooldag dan wel op de eerste dag van een maand in de periode van september tot en met april van dat schooljaar met ten minste 13 is toegenomen ten opzichte van de som van 103% van de bedoelde aantallen leerlingen op 1 oktober van het voorafgaande schooljaar en vervolgens telkens indien de som van de bedoelde aantallen leerlingen op de eerste dag van enige maand in de periode september tot en met april van een schooljaar met ten minste 13 is toegenomen ten opzichte van de som van de aantallen leerlingen op grond waarvan de laatste maal in dat schooljaar aanvullende bekostiging voor personeelskosten in verband met groei is toegekend; en  
 
-b. het persoonsgebonden nummer tezamen met de in artikel [178a, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens van de leerlingen die op de eerste schooldag dan wel de eerste dag van de maand, bedoeld in onderdeel a, op de school of scholen staan ingeschreven, uiterlijk vier weken na die dag zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../wet/wbo/BWBR0003420/README.md), dan wel van deze leerlingen opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid.     
+b. het persoonsgebonden nummer tezamen met de in artikel [178a, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens van de leerlingen die op de eerste schooldag dan wel de eerste dag van de maand, bedoeld in onderdeel a, op de school of scholen staan ingeschreven, uiterlijk vier weken na die dag zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../../wet/wbo/BWBR0003420/README.md), dan wel van deze leerlingen opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid.     
 2.  Bij de berekening van 103% van de bedoelde aantallen leerlingen, bedoeld in het eerste lid, onderdeel a, wordt de uitkomst per school naar beneden afgerond op een geheel getal.   
 3.  De aanspraak op de aanvullende bekostiging, bedoeld in het eerste lid, ontstaat met ingang van de maand waarin de telling, bedoeld in het eerste lid, onderdeel a, heeft plaatsgevonden, en wordt berekend voor het aantal leerlingen dat het verschil is tussen enerzijds de som van de aantallen leerlingen op alle op 1 augustus van het schooljaar onder dat bevoegd gezag ressorterende basisscholen en anderzijds de som van 103% van bedoelde aantallen leerlingen op 1 oktober van het voorafgaande schooljaar, onderscheidenlijk de som van bedoelde aantallen leerlingen op grond waarvan voor de laatste maal aanvullende bekostiging in verband met groei is toegekend. Indien de telling heeft plaatsgevonden op de eerste schooldag en deze in de maand september valt, ontstaat de aanspraak op de aanvullende bekostiging, bedoeld in het eerste lid, in afwijking van de eerste volzin, met ingang van 1 augustus. De aanvullende bekostiging wordt per bevoegd gezag per groeidatum éénmalig toegekend.   
 4.  De aanvullende bekostiging, bedoeld in het eerste lid, bedraagt een basisbedrag, welk bedrag wordt verhoogd met een leeftijdsbedrag dat wordt vermenigvuldigd met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van basisscholen op 1 oktober van het voorafgaande schooljaar en vervolgens vermenigvuldigd met het aantal leerlingen, dat de uitkomst is van de berekening in het derde lid.   
@@ -536,34 +536,34 @@ a. de som van de aantallen leerlingen op alle op 1 augustus van een schooljaar 
 b. de som van de aantallen leerlingen op alle op 1 augustus van een schooljaar onder dat bevoegd gezag ressorterende basisscholen op 1 juni van dat schooljaar met ten minste 26 is toegenomen ten opzichte van de som van de bedoelde aantallen leerlingen op 1 april van dat schooljaar en geen aanvullende bekostiging op grond van onderdeel a is toegekend; of  
 
 c. de som van de aantallen leerlingen op alle op 1 augustus van een schooljaar onder dat bevoegd gezag ressorterende basisscholen op 1 juni van dat schooljaar met ten minste 26 is toegenomen ten opzichte van de som van de bedoelde aantallen leerlingen op 1 mei van dat schooljaar.     
-2.  De aanvullende bekostiging, bedoeld in het eerste lid, wordt slechts toegekend indien van de leerlingen die op de van toepassing zijnde peildatum, bedoeld in het eerste lid, op de school of scholen staan ingeschreven, het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens uiterlijk vier weken na die peildatum zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../wet/wbo/BWBR0003420/README.md), dan wel van deze leerlingen opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid.   
+2.  De aanvullende bekostiging, bedoeld in het eerste lid, wordt slechts toegekend indien van de leerlingen die op de van toepassing zijnde peildatum, bedoeld in het eerste lid, op de school of scholen staan ingeschreven, het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedoelde gegevens uiterlijk vier weken na die peildatum zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b van de wet](../../../../../wet/wbo/BWBR0003420/README.md), dan wel van deze leerlingen opgave is gedaan aan Onze Minister overeenkomstig artikel 36a, vierde lid.   
 3.  De aanspraak op de aanvullende bekostiging, bedoeld in het eerste en tweede lid, ontstaat met ingang van de maand waarin de telling, bedoeld in het eerste lid, heeft plaatsgevonden en wordt berekend en toegekend overeenkomstig artikel 29.   
 
 ### Artikel  31  
 
 ####Omvang formatie per leerling ten behoeve van de personeelsbekostiging zorgvoorzieningen basisscholen
 
-1.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 132, derde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling 0,00237 formatieplaats.   
-2.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 132, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling 0,0654 formatieplaats.   
+1.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 132, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling 0,00237 formatieplaats.   
+2.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 132, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling 0,0654 formatieplaats.   
 
 ### Artikel  32  
 
 ####Overdracht bekostiging personeelskosten aan speciale school voor basisonderwijs bij toename van het aantal leerlingen na 1 oktober en bij deelname boven 2%
 
-1.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 124, eerste lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling 0,0452 formatieplaats.   
-2.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 124, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling 0,0646 formatieplaats.   
+1.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 124, eerste lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling 0,0452 formatieplaats.   
+2.  Voor de berekening van het bedrag per leerling, bedoeld in [artikel 124, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling 0,0646 formatieplaats.   
 
 ### Artikel  33  
 
 ####Overdracht bekostiging personeelskosten aan speciale school voor basisonderwijs bij overgang leerling naar ander samenwerkingsverband
 
-Voor de berekening van het bedrag per leerling, bedoeld in [artikel 125, tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling voor elk schooljaar volgend op het schooljaar van de toelating van de leerling tot de speciale school voor basisonderwijs 0,0646 formatieplaats. Indien de toelating heeft plaatsgevonden in de periode van 2 oktober tot 1 augustus daaropvolgend bedraagt de formatie per leerling in het eerste schooljaar volgend op de toelating in afwijking van de eerste volzin 0,1098 formatieplaats.  
+Voor de berekening van het bedrag per leerling, bedoeld in [artikel 125, tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), bedraagt de formatie per leerling voor elk schooljaar volgend op het schooljaar van de toelating van de leerling tot de speciale school voor basisonderwijs 0,0646 formatieplaats. Indien de toelating heeft plaatsgevonden in de periode van 2 oktober tot 1 augustus daaropvolgend bedraagt de formatie per leerling in het eerste schooljaar volgend op de toelating in afwijking van de eerste volzin 0,1098 formatieplaats.  
 
 ### Artikel  34  
 
 ####Omvang personele deel leerlinggebonden budget
 
-1.  Voor een op de basisschool of de speciale school voor basisonderwijs ingeschreven leerling die toelaatbaar is verklaard tot een van de onderwijssoorten, bedoeld in [artikel 2, vierde lid, onderdeel b of c, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md) dan wel tot het cluster, bedoeld in [artikel 2, vierde lid, onderdeel d, van genoemde wet](../../../../wet/isovso/BWBR0003549/README.md) wordt een budget toegekend dat bestaat uit de som van: 
+1.  Voor een op de basisschool of de speciale school voor basisonderwijs ingeschreven leerling die toelaatbaar is verklaard tot een van de onderwijssoorten, bedoeld in [artikel 2, vierde lid, onderdeel b of c, van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md) dan wel tot het cluster, bedoeld in [artikel 2, vierde lid, onderdeel d, van genoemde wet](../../../../../wet/isovso/BWBR0003549/README.md) wordt een budget toegekend dat bestaat uit de som van: 
 
 a. een basisbedrag, welk bedrag wordt verhoogd met een leeftijdsbedrag dat wordt vermenigvuldigd met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van basisscholen op 1 oktober van het voorafgaande schooljaar, en  
 
@@ -610,7 +610,7 @@ Speciale scholen voor basisonderwijs
 
 ####Uitgangspunten bij meting leerresultaten
 
-1.  De leerresultaten, bedoeld in [artikel 10a, van de wet](../../../../wet/wbo/BWBR0003420/README.md) worden gemeten aan de hand van de door het bevoegd gezag gekozen toetsen, indien die toetsen: 
+1.  De leerresultaten, bedoeld in [artikel 10a, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) worden gemeten aan de hand van de door het bevoegd gezag gekozen toetsen, indien die toetsen: 
 
 a. kennis en vaardigheden van ten minste rekenen en wiskunde en Nederlandse taal meten;  
 
@@ -627,9 +627,9 @@ e. zijn afgenomen in overeenstemming met de afnameaanwijzingen, die zijn opgenom
 
 ####Correctie van meting
 
-1.  Bij de meting van leerresultaten als bedoeld in [artikel 10a van de wet](../../../../wet/wbo/BWBR0003420/README.md), kan een correctie plaatsvinden met betrekking tot: 
+1.  Bij de meting van leerresultaten als bedoeld in [artikel 10a van de wet](../../../../../wet/wbo/BWBR0003420/README.md), kan een correctie plaatsvinden met betrekking tot: 
 
-a. leerlingen die zijn geïndiceerd voor leerwegondersteunend onderwijs als bedoeld in [artikel 10e van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+a. leerlingen die zijn geïndiceerd voor leerwegondersteunend onderwijs als bedoeld in [artikel 10e van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
 b. leerlingen voor wie op grond van psychosociale of cognitieve gronden specifieke voorzieningen noodzakelijk zijn en zijn getroffen en voor wie een ontwikkelingsperspectief aan de hand van de voor hen geldende tussendoelen is opgesteld;  
 
@@ -638,7 +638,7 @@ c. leerlingen die in het zevende of achtste jaar zijn ingestroomd;
 d. leerlingen die een andere toets hebben afgelegd dan de andere leerlingen in dat schooljaar dan wel geen toets hebben afgelegd en op wie de onderdelen a, b en c niet van toepassing zijn;  
 
 e. kleine scholen.     
-2.  In uitzonderlijke situaties kan een correctie plaatsvinden bij de meting van leerresultaten als bedoeld in [artikel 10a van de wet](../../../../wet/wbo/BWBR0003420/README.md) voor leerlingen die niet vallen onder het eerste lid onder a tot en met d.   
+2.  In uitzonderlijke situaties kan een correctie plaatsvinden bij de meting van leerresultaten als bedoeld in [artikel 10a van de wet](../../../../../wet/wbo/BWBR0003420/README.md) voor leerlingen die niet vallen onder het eerste lid onder a tot en met d.   
 
 ### Artikel  34.3  
 
@@ -669,9 +669,9 @@ f. de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende le
 
 ####Procedure inzake opnemen van toetsen, wijze van correctie van meting en normering en procedure wijziging systematiek beoordeling leerresultaten
 
-1.  De systematiek van de beoordeling van leerresultaten als bedoeld in [artikel 10a van de wet](../../../../wet/wbo/BWBR0003420/README.md) wordt vastgesteld dan wel gewijzigd met inachtneming van de volgende procedure: 
+1.  De systematiek van de beoordeling van leerresultaten als bedoeld in [artikel 10a van de wet](../../../../../wet/wbo/BWBR0003420/README.md) wordt vastgesteld dan wel gewijzigd met inachtneming van de volgende procedure: 
 
-a. gelet op recente ontwikkelingen, een eigen analyse en signalen van organisaties uit het onderwijsveld, beslist de inspecteur-generaal van het onderwijs of hij Onze Minister een voorstel doet voor wijziging in de systematiek van de beoordeling van leerresultaten als bedoeld in [artikel 10a van de wet](../../../../wet/wbo/BWBR0003420/README.md);  
+a. gelet op recente ontwikkelingen, een eigen analyse en signalen van organisaties uit het onderwijsveld, beslist de inspecteur-generaal van het onderwijs of hij Onze Minister een voorstel doet voor wijziging in de systematiek van de beoordeling van leerresultaten als bedoeld in [artikel 10a van de wet](../../../../../wet/wbo/BWBR0003420/README.md);  
 
 b. over het concept-voorstel overlegt de inspecteur-generaal van het onderwijs met de daarvoor in aanmerking komende organisaties uit het onderwijsveld;  
 
@@ -698,8 +698,8 @@ b. onderzoek en verificatie ter plekke.
 
 ####Correctie op de bekostiging
 
-1.  Indien uit een op grond van [artikel 175, eerste of tweede lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md), ingesteld onderzoek blijkt dat de omvang van de bekostiging voor de uitgaven ten behoeve van de materiële instandhouding, de omvang van de bekostiging voor de personeelskosten, de omvang van enige bijzondere of aanvullende bekostiging onjuist is vastgesteld, kan Onze Minister tot uiterlijk één jaar na ontvangst van de bevindingen uit dat onderzoek correcties aanbrengen op de desbetreffende bekostiging. Onze Minister deelt het bevoegd gezag uiterlijk één jaar na ontvangst van deze bevindingen schriftelijk mede of en zo ja welke correcties hij aanbrengt.   
-2.  Indien uit het jaarverslag, bedoeld in [artikel 171 van de wet](../../../../wet/wbo/BWBR0003420/README.md), uit de verklaring van de accountant, bedoeld in [artikel 171, vierde lid, van de wet](../../../../wet/wbo/BWBR0003420/README.md) of uit een op grond van [artikel 175 van de wet](../../../../wet/wbo/BWBR0003420/README.md) ingesteld onderzoek blijkt dat de bekostiging voor een school onrechtmatig is besteed, kan Onze Minister bepalen dat het desbetreffende gedeelte van de bekostiging niet ten laste komt van het Rijk of dat de daarmee gemoeide bedragen in mindering worden gebracht op de bekostiging. Onze Minister doet hiervan binnen een jaar na ontvangst van het jaarverslag, respectievelijk binnen een jaar na ontvangst van de bevindingen uit dat onderzoek schriftelijk mededeling aan het bevoegd gezag.   
+1.  Indien uit een op grond van [artikel 175, eerste of tweede lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md), ingesteld onderzoek blijkt dat de omvang van de bekostiging voor de uitgaven ten behoeve van de materiële instandhouding, de omvang van de bekostiging voor de personeelskosten, de omvang van enige bijzondere of aanvullende bekostiging onjuist is vastgesteld, kan Onze Minister tot uiterlijk één jaar na ontvangst van de bevindingen uit dat onderzoek correcties aanbrengen op de desbetreffende bekostiging. Onze Minister deelt het bevoegd gezag uiterlijk één jaar na ontvangst van deze bevindingen schriftelijk mede of en zo ja welke correcties hij aanbrengt.   
+2.  Indien uit het jaarverslag, bedoeld in [artikel 171 van de wet](../../../../../wet/wbo/BWBR0003420/README.md), uit de verklaring van de accountant, bedoeld in [artikel 171, vierde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) of uit een op grond van [artikel 175 van de wet](../../../../../wet/wbo/BWBR0003420/README.md) ingesteld onderzoek blijkt dat de bekostiging voor een school onrechtmatig is besteed, kan Onze Minister bepalen dat het desbetreffende gedeelte van de bekostiging niet ten laste komt van het Rijk of dat de daarmee gemoeide bedragen in mindering worden gebracht op de bekostiging. Onze Minister doet hiervan binnen een jaar na ontvangst van het jaarverslag, respectievelijk binnen een jaar na ontvangst van de bevindingen uit dat onderzoek schriftelijk mededeling aan het bevoegd gezag.   
 3.  Indien daarvoor naar zijn oordeel aanleiding is, kan Onze Minister de in het eerste lid bedoelde termijnen waarbinnen correcties kunnen worden aangebracht alsmede de in het tweede lid bedoelde termijn met ten hoogste een jaar verlengen.   
 
 ### Artikel  34b  
@@ -716,9 +716,9 @@ Een in artikel 34a, eerste lid, bedoelde correctie wordt, indien de correctie st
 
 ####Berekening exploitatieoverschot bij opheffing of beëindiging van de bekostiging van de laatste school van een bevoegd gezag
 
-1.  Voor de toepassing van [artikel 163a van de wet](../../../../wet/wbo/BWBR0003420/README.md) wordt onder exploitatieoverschot verstaan: 
+1.  Voor de toepassing van [artikel 163a van de wet](../../../../../wet/wbo/BWBR0003420/README.md) wordt onder exploitatieoverschot verstaan: 
 
-a. het bedrag van de bekostiging, bedoeld in de [artikelen 129](../../../../wet/wbo/BWBR0003420/README.md), [134](../../../../wet/wbo/BWBR0003420/README.md) en [137 van de wet](../../../../wet/wbo/BWBR0003420/README.md) verminderd met de lasten over dat jaar voor zover deze als rechtmatig kunnen worden aangemerkt,  
+a. het bedrag van de bekostiging, bedoeld in de [artikelen 129](../../../../../wet/wbo/BWBR0003420/README.md), [134](../../../../../wet/wbo/BWBR0003420/README.md) en [137 van de wet](../../../../../wet/wbo/BWBR0003420/README.md) verminderd met de lasten over dat jaar voor zover deze als rechtmatig kunnen worden aangemerkt,  
 
 b. de reserveringen voor zover afkomstig uit ’s Rijks kas, met inbegrip van de ontvangen rentebaten, en  
 
@@ -740,15 +740,15 @@ c. voor zover het een niet door een gemeente in stand gehouden school betreft, d
 
 1.  Basisscholen ontvangen voor de periode van 1 augustus 2000 tot en met 31 december 2000 eenmalig een aanvullende vergoeding voor de uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding, welke vergoeding wordt vastgesteld op 5/12 van het verschil tussen: 
 
-a. de vergoeding op basis van het normatief bepaalde aantal te huisvesten groepen berekend volgens artikel 14 zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van het [besluit van 12 april 2000, houdende wijziging van het Formatiebesluit WPO en enkele andere besluiten in verband met onder meer de verkleining van de groepsgrootte voor de 4- tot en met 7-jarige leerlingen van basisscholen (Stb. 179)](../../../../AMvB/wijzigingsbesluit/formatiebesluit/wpo/enz./(verkleining/groepsgrootte/voor/etc/BWBR0011297/README.md); en  
+a. de vergoeding op basis van het normatief bepaalde aantal te huisvesten groepen berekend volgens artikel 14 zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van het [besluit van 12 april 2000, houdende wijziging van het Formatiebesluit WPO en enkele andere besluiten in verband met onder meer de verkleining van de groepsgrootte voor de 4- tot en met 7-jarige leerlingen van basisscholen (Stb. 179)](../../../../../AMvB/wijzigingsbesluit/formatiebesluit/wpo/enz./(verkleining/groepsgrootte/voor/etc/BWBR0011297/README.md); en  
 
-b. de vergoeding op basis van het normatief bepaalde aantal te huisvesten groepen leerlingen berekend volgens artikel 14 zoals dat artikel luidt met ingang van de datum van inwerkingtreding van het [besluit van 12 april 2000, houdende wijziging van het Formatiebesluit WPO en enkele andere besluiten in verband met onder meer de verkleining van de groepsgrootte voor de 4- tot en met 7-jarige leerlingen van basisscholen (Stb. 179)](../../../../AMvB/wijzigingsbesluit/formatiebesluit/wpo/enz./(verkleining/groepsgrootte/voor/etc/BWBR0011297/README.md), met dien verstande dat: 
+b. de vergoeding op basis van het normatief bepaalde aantal te huisvesten groepen leerlingen berekend volgens artikel 14 zoals dat artikel luidt met ingang van de datum van inwerkingtreding van het [besluit van 12 april 2000, houdende wijziging van het Formatiebesluit WPO en enkele andere besluiten in verband met onder meer de verkleining van de groepsgrootte voor de 4- tot en met 7-jarige leerlingen van basisscholen (Stb. 179)](../../../../../AMvB/wijzigingsbesluit/formatiebesluit/wpo/enz./(verkleining/groepsgrootte/voor/etc/BWBR0011297/README.md), met dien verstande dat: 
 
 1°. de factor A, bedoeld in artikel 14, tweede lid, als volgt wordt berekend: A = 7,76 x het aantal leerlingen in de leeftijd van 4 tot en met 7 jaar;  
 
-2°. indien [artikel 134, zesde lid](../../../../wet/wbo/BWBR0003420/README.md), van de wet van toepassing is: de toename van het aantal leerlingen op 1 maart van het jaar waarover de vergoeding plaatsvindt, wordt meegeteld bij de berekening van factor A.       
+2°. indien [artikel 134, zesde lid](../../../../../wet/wbo/BWBR0003420/README.md), van de wet van toepassing is: de toename van het aantal leerlingen op 1 maart van het jaar waarover de vergoeding plaatsvindt, wordt meegeteld bij de berekening van factor A.       
 2.  Indien het verschil tussen de vergoeding, berekend op grond van het eerste lid, onder a, en de vergoeding, berekend op grond van het eerste lid, onder b, negatief is, wordt de aanvullende vergoeding op nul gesteld.   
-3.  [Artikel 134, zevende en achtste lid](../../../../wet/wbo/BWBR0003420/README.md), van de wet is van overeenkomstige toepassing.   
+3.  [Artikel 134, zevende en achtste lid](../../../../../wet/wbo/BWBR0003420/README.md), van de wet is van overeenkomstige toepassing.   
 
 ### Artikel  36  
 
@@ -761,8 +761,8 @@ b. de vergoeding op basis van het normatief bepaalde aantal te huisvesten groepe
 
 ####Aanleveren gegevens volgens de leerlingentellingprocedure
 
-1.  Indien Onze Minister van oordeel is dat een bevoegd gezag voor een of meer van zijn scholen als gevolg van factoren buiten de invloedssfeer van de school niet in staat is om de leerlinggegevens te leveren op de in [artikel 178a van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedoelde wijze, kan hij bepalen dat in de periode tot 1 augustus volgend op de datum van inwerkingtreding van dit artikel de levering van gegevens over het aantal leerlingen van de desbetreffende school of scholen ten behoeve van de vaststelling van de bekostiging, bedoeld in de artikelen 12a, eerste en tweede lid, 18, eerste lid, 29, eerste lid, en 30, eerste lid, plaatsvindt op de in het vierde tot en met negende lid bedoelde wijze.   
-2.  De verplichting van het bevoegd gezag tot levering van de gegevens over het aantal leerlingen op de in het vierde tot en met negende lid bedoelde wijze vervalt zodra Onze Minister heeft bepaald dat het bevoegd gezag heeft aangetoond in staat te zijn de leerlinggegevens te leveren op de in [artikel 178a van de wet](../../../../wet/wbo/BWBR0003420/README.md) bedoelde wijze.   
+1.  Indien Onze Minister van oordeel is dat een bevoegd gezag voor een of meer van zijn scholen als gevolg van factoren buiten de invloedssfeer van de school niet in staat is om de leerlinggegevens te leveren op de in [artikel 178a van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedoelde wijze, kan hij bepalen dat in de periode tot 1 augustus volgend op de datum van inwerkingtreding van dit artikel de levering van gegevens over het aantal leerlingen van de desbetreffende school of scholen ten behoeve van de vaststelling van de bekostiging, bedoeld in de artikelen 12a, eerste en tweede lid, 18, eerste lid, 29, eerste lid, en 30, eerste lid, plaatsvindt op de in het vierde tot en met negende lid bedoelde wijze.   
+2.  De verplichting van het bevoegd gezag tot levering van de gegevens over het aantal leerlingen op de in het vierde tot en met negende lid bedoelde wijze vervalt zodra Onze Minister heeft bepaald dat het bevoegd gezag heeft aangetoond in staat te zijn de leerlinggegevens te leveren op de in [artikel 178a van de wet](../../../../../wet/wbo/BWBR0003420/README.md) bedoelde wijze.   
 3.  Bij ministeriële regeling kan worden bepaald dat het eerste en tweede lid van overeenkomstige toepassing zijn op de levering van gegevens over het aantal leerlingen in een of meer schooljaren vanaf 1 augustus volgend op de datum van inwerkingtreding van dit artikel.   
 4.  Indien het eerste lid van toepassing is, doet het bevoegd gezag ten behoeve van de bekostiging, bedoeld in de artikelen 12a, eerste en tweede lid, 18, eerste lid, 29, eerste lid, en 30, eerste lid, voor de vijftiende dag van elke maand aan Onze Minister een opgave van het aantal leerlingen van de school op de eerste dag van die maand toekomen overeenkomstig het vijfde tot en met negende lid.   
 5.  De opgave, bedoeld in het vierde lid, is onderverdeeld in het aantal leerlingen in de leeftijd van 4 tot en met 7 jaar enerzijds en het aantal leerlingen in de leeftijd van 8 jaar en ouder anderzijds. Indien in de opgave een nadere onderverdeling wordt gemaakt op grond van de volgende leden, wordt in die onderverdeling tevens melding gemaakt van de verdeling over de in de vorige volzin genoemde leeftijdscategorieën.   
