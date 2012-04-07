@@ -28,7 +28,7 @@ e. instelling:
 
 1°. een instelling in de zin van de [Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
 
-2°. een in het buitenland gevestigde rechtspersoon die in het desbetreffende land zorg verleent in het kader van het in dat land geldende socialezekerheidsstelsel, dan wel zich richt op het verlenen van zorg aan specifieke groepen van publieke functionarissen;    
+2°. een organisatorisch verband dat gevestigd is buiten het grondgebied van het Europese deel van Nederland en overeenkomstig de daar geldende wetgeving rechtmatig gezondheidszorg verstrekt als bedoeld bij en krachtens artikel 6;    
 
 f. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;  
 
@@ -264,14 +264,14 @@ Overeenkomsten die in strijd met het bij of krachtens de artikelen 15 of 16 bepa
 
 ### Artikel  16b  
 
-1.  Een zorgverzekeraar is verplicht met iedere instelling op haar verzoek een overeenkomst te sluiten als bedoeld in artikel 15, eerste lid, tenzij hij daartegen ernstige bezwaren heeft.   
+1.  Een zorgverzekeraar is verplicht met iedere instelling als bedoeld in artikel 1, onderdeel e, onder 1° op haar verzoek een overeenkomst te sluiten als bedoeld in artikel 15, eerste lid, tenzij hij daartegen ernstige bezwaren heeft.   
 2.  Indien een zorgverzekeraar een werkgebied heeft dat niet alle Nederlandse provincies omvat, is de in het eerste lid bedoelde verplichting beperkt tot de instellingen die zijn gelegen binnen dit werkgebied en de instellingen waarvan de bevolking van dit werkgebied naar verwachting regelmatig gebruik zal maken.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen vormen van zorg of categorieën van instellingen worden aangewezen waarvoor het eerste lid niet geldt.   
 4.  Het College zorgverzekeringen kan bij het verlenen van een ontheffing van artikel 38, eerste lid, bepalen of en in hoeverre van het gestelde in het eerste en tweede lid van dit artikel kan worden afgeweken.   
 
 ### Artikel  16c  
 
-1.  Een instelling als bedoeld in artikel 1, onderdeel d, onder 1°, die met een zorgverzekeraar een overeenkomst als bedoeld in artikel 15, eerste lid, heeft gesloten, is gehouden op daartoe door een andere zorgverzekeraar gedaan verzoek met deze een gelijke overeenkomst te sluiten, tenzij die instelling daartegen ernstige bedenkingen heeft.   
+1.  Een instelling als bedoeld in artikel 1, onderdeel e, onder 1°, die met een zorgverzekeraar een overeenkomst als bedoeld in artikel 15, eerste lid, heeft gesloten, is gehouden op daartoe door een andere zorgverzekeraar gedaan verzoek met deze een gelijke overeenkomst te sluiten, tenzij die instelling daartegen ernstige bedenkingen heeft.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen vormen van zorg of categorieën van instellingen worden aangewezen waarvoor het eerste lid niet geldt.   
 
 ### Hoofdstuk  IV  
