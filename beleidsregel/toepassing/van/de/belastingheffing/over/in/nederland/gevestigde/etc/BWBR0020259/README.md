@@ -20,69 +20,69 @@ Den Haag
 5 september 2006   
 
 De 
-Minister van Financiën, namens deze: de 
+Minister van Financiën, namens deze:de 
 Directeur-Generaal voor Fiscale Zaken, 
-M.Brabers  
+M. Brabers    
 
 ####Memorandum van overeenstemming inzake de belastingheffing over in Nederland gevestigde visserij-ondernemingen onder Belgische vlag
 
-### §  1  
+###  § 1 
 
-####Inleiding
+####Inleiding 
 
-Op grond van artikel 26 van het Nederlands-Belgische belastingverdrag van 19 oktober 1970 en artikel 28 van het Nederlands-Belgische belastingverdrag van 5 juni 2001 zijn tussen de Nederlandse en Belgische bevoegde autoriteiten overlegprocedures gevoerd over de belastingheffing van visserij-ondernemingen en de aan boord van de schepen van die ondernemingen werkzame personen. De overlegprocedures hadden betrekking op Nederlandse visserij-ondernemingen die door de contigenteringsregelingen van de Europese Unie met één of meerdere schepen onder de Belgische in plaats van Nederlandse vlag zijn gaan varen. De visserij-ondernemingen worden in de regel in de vorm van een naar Belgisch recht opgerichte BVBA of NV gedreven. Doordat schepen van deze visserij-ondernemingen onder Belgische vlag varen, kunnen zij gebruik maken van een Belgisch vangstquotum. De feitelijke activiteiten van de ondernemingen zijn echter in veel gevallen niet of nagenoeg niet gewijzigd, waardoor het zwaartepunt van de activiteiten van deze visserijondernemingen in Nederland is gelegen, van waaruit de visserij-activiteiten worden verricht.  
+Op grond van artikel 26 van het Nederlands-Belgische belastingverdrag van 19 oktober 1970 en artikel 28 van het Nederlands-Belgische belastingverdrag van 5 juni 2001 zijn tussen de Nederlandse en Belgische bevoegde autoriteiten overlegprocedures gevoerd over de belastingheffing van visserij-ondernemingen en de aan boord van de schepen van die ondernemingen werkzame personen. De overlegprocedures hadden betrekking op Nederlandse visserij-ondernemingen die door de contigenteringsregelingen van de Europese Unie met één of meerdere schepen onder de Belgische in plaats van Nederlandse vlag zijn gaan varen. De visserij-ondernemingen worden in de regel in de vorm van een naar Belgisch recht opgerichte BVBA of NV gedreven. Doordat schepen van deze visserij-ondernemingen onder Belgische vlag varen, kunnen zij gebruik maken van een Belgisch vangstquotum. De feitelijke activiteiten van de ondernemingen zijn echter in veel gevallen niet of nagenoeg niet gewijzigd, waardoor het zwaartepunt van de activiteiten van deze visserijondernemingen in Nederland is gelegen, van waaruit de visserij-activiteiten worden verricht. 
 
-### §  2  
+###  § 2 
 
-####Belastingheffing van visserijondernemingen
+####Belastingheffing van visserijondernemingen 
 
 Tussen Nederland en België is het volgende afgesproken. Als de onderneming wordt gedreven in de vorm van een BVBA of NV, moet in de eerste plaats worden onderzocht in welk land de feitelijke leiding van de BVBA of NV is gelegen. Vervolgens dient te worden vastgesteld in welk land het zwaartepunt van de activiteiten van de onderneming zich bevindt. 
 
-### §  2.1  
+###§  2.1  
 
-Als de feitelijke leiding van de BVBA of NV en het zwaartepunt van haar visserij-activiteiten in België zijn gelegen, gelden voor de belastingheffing over de winst van de onderneming van de BVBA of NV de normale regels die in de Nederlands-Belgische belastingverdragen van 1970 en van 2001 zijn neergelegd. In die gevallen komt aan Nederland slechts een recht tot belastingheffing toe met betrekking tot de winst die op grond van artikel 7 van die verdragen is toe te rekenen aan een eventueel in Nederland gelegen vaste inrichting van de Belgische onderneming. Dezelfde normale regels voor de winsttoerekening aan hoofdhuis en vaste inrichting gelden eveneens voor alle andere gevallen behoudens de hierna in § 2.2. en § 2.3. beschreven situaties.  
+Als de feitelijke leiding van de BVBA of NV en het zwaartepunt van haar visserij-activiteiten in België zijn gelegen, gelden voor de belastingheffing over de winst van de onderneming van de BVBA of NV de normale regels die in de Nederlands-Belgische belastingverdragen van 1970 en van 2001 zijn neergelegd. In die gevallen komt aan Nederland slechts een recht tot belastingheffing toe met betrekking tot de winst die op grond van artikel 7 van die verdragen is toe te rekenen aan een eventueel in Nederland gelegen vaste inrichting van de Belgische onderneming. Dezelfde normale regels voor de winsttoerekening aan hoofdhuis en vaste inrichting gelden eveneens voor alle andere gevallen behoudens de hierna in § 2.2. en § 2.3. beschreven situaties. 
 
-### §  2.2  
+###§  2.2  
 
-Als de feitelijke leiding van de BVBA of NV in België is gelegen, terwijl het zwaartepunt van de visserij-activiteiten van haar onderneming in Nederland is gelegen, geldt dat de betrokken lichamen geacht zullen worden hun onderneming te drijven met behulp van een vaste inrichting in Nederland in de zin van artikel 5 van de Nederlands-Belgische belastingverdragen van 19 oktober 1970 en van 5 juni 2001. Afgesproken is dat in deze laatstgenoemde gevallen de winsttoerekening zal plaatsvinden door middel van een splitsing van de netto winst van de totale visserij-onderneming (volgens de zogenoemde ‘profit split’ methode), waarbij aan de vaste inrichting in Nederland 80% en aan het Belgische hoofdhuis 20% van de totale netto winst van de gehele onderneming wordt toegerekend. De aldus te verdelen totale netto winst van de visserij-onderneming wordt vastgesteld naar Nederlandse maatstaven.  
+Als de feitelijke leiding van de BVBA of NV in België is gelegen, terwijl het zwaartepunt van de visserij-activiteiten van haar onderneming in Nederland is gelegen, geldt dat de betrokken lichamen geacht zullen worden hun onderneming te drijven met behulp van een vaste inrichting in Nederland in de zin van artikel 5 van de Nederlands-Belgische belastingverdragen van 19 oktober 1970 en van 5 juni 2001. Afgesproken is dat in deze laatstgenoemde gevallen de winsttoerekening zal plaatsvinden door middel van een splitsing van de netto winst van de totale visserij-onderneming (volgens de zogenoemde ‘profit split’ methode), waarbij aan de vaste inrichting in Nederland 80% en aan het Belgische hoofdhuis 20% van de totale netto winst van de gehele onderneming wordt toegerekend. De aldus te verdelen totale netto winst van de visserij-onderneming wordt vastgesteld naar Nederlandse maatstaven. 
 
-### §  2.3  
+###§  2.3  
 
-Als de feitelijke leiding van de BVBA of NV en het zwaartepunt van haar visserij-activiteiten in Nederland zijn gelegen, geldt dat de betrokken lichamen bij wijze van fictie worden geacht hun onderneming te drijven met behulp van een vaste inrichting in België in de zin van artikel 5 van de Nederlands-Belgische belastingverdragen van 19 oktober 1970 en van 5 juni 2001. Afgesproken is dat in dit laatstgenoemde geval de winsttoerekening zal plaatsvinden door middel van een splitsing van de netto winst van de totale visserij-onderneming (volgens de zogenoemde ‘profit split’ methode), waarbij aan het Nederlandse hoofdhuis 80% en aan de Belgische vaste inrichting 20% van de totale netto winst van de gehele onderneming wordt toegerekend. De aldus te verdelen totale netto winst van de visserij-onderneming wordt vastgesteld naar Nederlandse maatstaven.  
+Als de feitelijke leiding van de BVBA of NV en het zwaartepunt van haar visserij-activiteiten in Nederland zijn gelegen, geldt dat de betrokken lichamen bij wijze van fictie worden geacht hun onderneming te drijven met behulp van een vaste inrichting in België in de zin van artikel 5 van de Nederlands-Belgische belastingverdragen van 19 oktober 1970 en van 5 juni 2001. Afgesproken is dat in dit laatstgenoemde geval de winsttoerekening zal plaatsvinden door middel van een splitsing van de netto winst van de totale visserij-onderneming (volgens de zogenoemde ‘profit split’ methode), waarbij aan het Nederlandse hoofdhuis 80% en aan de Belgische vaste inrichting 20% van de totale netto winst van de gehele onderneming wordt toegerekend. De aldus te verdelen totale netto winst van de visserij-onderneming wordt vastgesteld naar Nederlandse maatstaven. 
 
-### §  3  
+###  § 3 
 
-####Maatschappen
+####Maatschappen 
 
-In geval een visserijonderneming wordt gedreven in een maatschap of vennootschap onder firma zal hetgeen hiervoor is opgemerkt met betrekking tot de belastingheffing van visserijondernemingen, die worden gedreven in de vorm van een BVBA of NV, zoveel mogelijk in overeenkomstige zin en naar rato worden toegepast ten aanzien van de vennoten in de maatschap of vennootschap onder firma. Als in een zodanige maatschap of vennootschap onder firma zowel vennoten uit België als Nederland of uit derde landen deelnemen, dan zullen de bevoegde autoriteiten van Nederland en België zonodig in onderling overleg vaststellen op welke wijze de winsttoerekening aan de onderscheiden vennoten en de belastingheffing over de toegerekende winsten dient plaats te vinden. De in § 4 bedoelde bemanningsleden worden niet beschouwd als vennoten in de zin van deze regeling.  
+In geval een visserijonderneming wordt gedreven in een maatschap of vennootschap onder firma zal hetgeen hiervoor is opgemerkt met betrekking tot de belastingheffing van visserijondernemingen, die worden gedreven in de vorm van een BVBA of NV, zoveel mogelijk in overeenkomstige zin en naar rato worden toegepast ten aanzien van de vennoten in de maatschap of vennootschap onder firma. Als in een zodanige maatschap of vennootschap onder firma zowel vennoten uit België als Nederland of uit derde landen deelnemen, dan zullen de bevoegde autoriteiten van Nederland en België zonodig in onderling overleg vaststellen op welke wijze de winsttoerekening aan de onderscheiden vennoten en de belastingheffing over de toegerekende winsten dient plaats te vinden. De in § 4 bedoelde bemanningsleden worden niet beschouwd als vennoten in de zin van deze regeling. 
 
-### §  4  
+### § 4 
 
-####Belastingheffing van bemanningsleden van vissersschepen
+####Belastingheffing van bemanningsleden van vissersschepen 
 
 Met betrekking tot de fiscale positie van de personen die werkzaam zijn aan boord van de schepen van de hiervoor bedoelde visserij-ondernemingen, zijn de Nederlandse en Belgische belastingautoriteiten het volgende overeengekomen. De hier bedoelde bemanningsleden verrichten hun werkzaamheden doorgaans in de internationale wateren, en niet binnen het territoir van Nederland of België. De bemanningsleden kunnen worden verdeeld in drie groepen. De eerste groep bestaat uit de zogenoemde deelvissers. Deze personen kunnen in Nederland kwalificeren als ondernemer, mits zij aan de daarvoor gestelde voorwaarden voldoen. België beschouwt deelvissers echter niet als ondernemers, maar als werknemers. Als tweede groep bemanningsleden kunnen worden onderscheiden de personen die geen maatschapcontract hebben gesloten maar normaal in dienstbetrekking zijn bij de visserij-ondernemingen. De derde groep bemanningsleden wordt gevormd door losse arbeidskrachten, de zogeheten opstappers. Teneinde mogelijke verschillen in interpretatie, en daarmee mogelijkheden van dubbele belasting, zoveel mogelijk te vermijden heeft Nederland zich aangesloten bij de Belgische visie dat deelvissers voor de toepassing van het Nederlands-Belgische belastingverdrag zullen worden beschouwd als werknemers. 
 
-### §  4.1  
+###§ 4.1 
 
 ####Belastingheffing ingevolge het Nederlands-Belgische belastingverdrag van 2001
 
-De bevoegdheid tot belastingheffing over alle voordelen, die worden behaald door de hiervoor genoemde bemanningsleden met hun werkzaamheden aan boord van visserijschepen, wordt met ingang van 1 januari 2003 op grond van artikel 15, § 3, van het Nederlands-Belgische belastingverdrag van 5 juni 2001 toegewezen aan de staat waar de werkelijke leiding van de onderneming, die het visserijschip exploiteert, zich bevindt.  
+De bevoegdheid tot belastingheffing over alle voordelen, die worden behaald door de hiervoor genoemde bemanningsleden met hun werkzaamheden aan boord van visserijschepen, wordt met ingang van 1 januari 2003 op grond van artikel 15, § 3, van het Nederlands-Belgische belastingverdrag van 5 juni 2001 toegewezen aan de staat waar de werkelijke leiding van de onderneming, die het visserijschip exploiteert, zich bevindt. 
 
-### §  4.2  
+###§  4.2 
 
 ####Belastingheffing ingevolge het Nederlands-Belgische belastingverdrag van 1970
 
-Voor de belastingjaren tot en met 2002 geldt dat de bevoegdheid tot belastingheffing over de voordelen van de in deze paragraaf bedoelde werknemers voortvloeit uit het bepaalde in artikel 15, eerste en tweede lid, van het Nederlands-Belgische belastingverdrag van 19 oktober 1970. In het geval deze personen als bemanningsleden aan boord van visserijschepen doorgaans werkzaam zijn in de internationale wateren, komt het recht tot belastingheffing over hun inkomsten uit die dienstbetrekking ter belastingheffing toe aan de staat waarin zij wonen.  
+Voor de belastingjaren tot en met 2002 geldt dat de bevoegdheid tot belastingheffing over de voordelen van de in deze paragraaf bedoelde werknemers voortvloeit uit het bepaalde in artikel 15, eerste en tweede lid, van het Nederlands-Belgische belastingverdrag van 19 oktober 1970. In het geval deze personen als bemanningsleden aan boord van visserijschepen doorgaans werkzaam zijn in de internationale wateren, komt het recht tot belastingheffing over hun inkomsten uit die dienstbetrekking ter belastingheffing toe aan de staat waarin zij wonen. 
 
-### §  5  
+### § 5 
 
-####Uitwisseling van inlichtingen
+####Uitwisseling van inlichtingen 
 
-Ten behoeve van de belastingheffing over de winsten van de visserijonderneming in de gevallen die bedoeld zijn in § 2.2., § 2.3. en § 3 zullen de Nederlandse belastingautoriteiten op basis van artikel 27 van het Nederlands-Belgische belastingverdrag van 1970 respectievelijk artikel 29 van het Nederlands-Belgische belastingverdrag van 2001 spontaan mededeling doen aan de Belgische bevoegde autoriteiten van de bedragen die aan het hoofdhuis of vaste inrichtingen in België zijn toe te rekenen. De verstrekking van de inlichtingen zal namens Nederland geschieden door de Belastingdienst FIOD/ECD te Haarlem. De inlichtingen zullen worden verstrekt aan: Ministerie van Financiën AOIF – Centrale Diensten – directie III/1A North Galaxytoren Koning Albert-II laan 33 1030 BRUSSEL  
+Ten behoeve van de belastingheffing over de winsten van de visserijonderneming in de gevallen die bedoeld zijn in § 2.2., § 2.3. en § 3 zullen de Nederlandse belastingautoriteiten op basis van artikel 27 van het Nederlands-Belgische belastingverdrag van 1970 respectievelijk artikel 29 van het Nederlands-Belgische belastingverdrag van 2001 spontaan mededeling doen aan de Belgische bevoegde autoriteiten van de bedragen die aan het hoofdhuis of vaste inrichtingen in België zijn toe te rekenen. De verstrekking van de inlichtingen zal namens Nederland geschieden door de Belastingdienst FIOD/ECD te Haarlem. De inlichtingen zullen worden verstrekt aan: Ministerie van Financiën AOIF – Centrale Diensten – directie III/1A North Galaxytoren Koning Albert-II laan 33 1030 BRUSSEL 
 
-### §  6  
+### § 6 
 
-####Ingangsdatum
+####Ingangsdatum 
 
-Dit besluit is van toepassing voor belastingjaren en belastingtijdvakken die aanvangen op of na 1 januari 1999 en waarover de verschuldigde belastingen op de dag van publicatie van dit besluit nog niet onherroepelijk vaststaan. Voor de Federale overheidsdienst Financiën, Koninkrijk België, Brussel, 28 juli 2005. De Adjunct-Administrateur-Generaal, P. Neckebroeck. Voor het Ministerie van Financiën, Koninkrijk der Nederlanden, Den Haag, 24 juni 2005. Wnd. plv. directeur Internationale Fiscale Zaken, L.G. Zuliani.  
+Dit besluit is van toepassing voor belastingjaren en belastingtijdvakken die aanvangen op of na 1 januari 1999 en waarover de verschuldigde belastingen op de dag van publicatie van dit besluit nog niet onherroepelijk vaststaan. Voor de Federale overheidsdienst Financiën, Koninkrijk België, Brussel, 28 juli 2005. De Adjunct-Administrateur-Generaal, P. Neckebroeck. Voor het Ministerie van Financiën, Koninkrijk der Nederlanden, Den Haag, 24 juni 2005. Wnd. plv. directeur Internationale Fiscale Zaken, L.G. Zuliani. 
 

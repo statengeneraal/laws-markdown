@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling certificaten warmtekrachtkoppeling Elektriciteitswet 1998.   
+Wijzigt de Regeling certificaten warmtekrachtkoppeling Elektriciteitswet 1998. 
 
 ### Artikel  II  
 
@@ -17,15 +17,15 @@ Wijzigt de Regeling certificaten warmtekrachtkoppeling Elektriciteitswet 1998.
 
 a. op verzoek van de producent;  
 
-b. indien de producent de schriftelijke verklaring als bedoeld in [artikel 2, zevende lid](../../../../../../../ministeriele-regeling/regeling/certificaten/warmtekrachtkoppeling/elektriciteitswet/1998/BWBR0015182/README.md), heeft overgelegd, of  
+b.  indien de producent de schriftelijke verklaring als bedoeld in [artikel 2, zevende lid](../../../../../../../ministeriele-regeling/regeling/certificaten/warmtekrachtkoppeling/elektriciteitswet/1998/BWBR0015182/README.md), heeft overgelegd, of  
 
-c. indien het bouwjaar van de jongste krachtbron binnen een eenheid dateert van voor 1 januari 1997 en de producent uiterlijk twee maanden na de inwerkingtreding van deze regeling aantoont dat deze krachtbron na 1 januari 1997 voor het eerst in gebruik is genomen.   De heropening van een WKK-certificatenrekening werkt terug tot de datum waarop de netbeheerder van het landelijk hoogspanningsnet de rekening heeft gesloten.   
-3.  Indien een producent zijn meetprotocol wijzigt om meerdere eenheden onder één eenheid te brengen overlegt de producent zijn gewijzigd meetprotocol en gewijzigde productieverklaring binnen twee maanden na de inwerkingtreding van deze regeling aan de netbeheerder van het landelijk hoogspanningsnet.   
+c.  indien het bouwjaar van de jongste krachtbron binnen een eenheid dateert van voor 1 januari 1997 en de producent uiterlijk twee maanden na de inwerkingtreding van deze regeling aantoont dat deze krachtbron na 1 januari 1997 voor het eerst in gebruik is genomen.   De heropening van een WKK-certificatenrekening werkt terug tot de datum waarop de netbeheerder van het landelijk hoogspanningsnet de rekening heeft gesloten.   
+3.  Indien een producent zijn meetprotocol wijzigt om meerdere eenheden onder één eenheid te brengen overlegt de producent zijn gewijzigd meetprotocol en gewijzigde productieverklaring binnen twee maanden na de inwerkingtreding van deze regeling aan de netbeheerder van het landelijk hoogspanningsnet.  
 
 ### Artikel  III  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de publicatie in de Staatscourant.   
-2.  Artikel II, derde lid, werkt terug tot 1 januari 2006.   
+2.  Artikel II, derde lid, werkt terug tot 1 januari 2006.  
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd, met uitzondering van bijlagen, die ter inzage worden gelegd bij de netbeheerder van het landelijk hoogspanningsnet, Utrechtseweg 310, Arnhem.   
 
 Den Haag 
@@ -33,4 +33,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-J.G.Wijn   
+J.G. Wijn     

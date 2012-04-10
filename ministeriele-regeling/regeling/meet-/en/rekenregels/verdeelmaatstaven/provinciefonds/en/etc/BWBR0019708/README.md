@@ -20,11 +20,11 @@ b. besluit: [Besluit financiële verhouding 2001](../../../../../../../../../../
 c. maatstaf: verdeelmaatstaf als bedoeld in [bijlage 1](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) en [bijlage 2 bij het besluit](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
 
 d. topografische kaart: topografische kaart (schaal 1:10 000) van de Topografische Dienst Nederland.     
-2.  In deze regeling wordt onder een nader omschreven maatstaf verstaan: de maatstaf die met een overeenkomstige omschrijving is opgenomen in [bijlage 1](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) of [bijlage 2 bij het besluit](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).   
+2.  In deze regeling wordt onder een nader omschreven maatstaf verstaan: de maatstaf die met een overeenkomstige omschrijving is opgenomen in [bijlage 1](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) of [bijlage 2 bij het besluit](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).  
 
 ### Artikel  2  
 
-Voor de maatstaven waarvoor het CBS de bron is, worden de uitkomsten van de telling of berekening van het CBS gebruikt, tenzij anders is bepaald.  
+Voor de maatstaven waarvoor het CBS de bron is, worden de uitkomsten van de telling of berekening van het CBS gebruikt, tenzij anders is bepaald. 
 
 ### Paragraaf  2  
 
@@ -33,16 +33,16 @@ Voor de maatstaven waarvoor het CBS de bron is, worden de uitkomsten van de tell
 ### Artikel  3  
 
 1.  De Minister van Financiën doet vóór 1 april van elk jaar een definitieve opgave aan de Minister van Binnenlandse Zaken van de bruto opbrengst per afzonderlijke provincie van de ontvangen provinciale opcenten op de hoofdsommen van de motorrijtuigenbelasting over het voorafgaande jaar.   
-2.  De opbrengst, bedoeld in het eerste lid, wordt gewogen met het aantal opcenten dat in het betreffende jaar door de provincie is geheven in de periode tot 1 april en de periode vanaf 1 april in de verhouding 3 : 9.   
+2.  De opbrengst, bedoeld in het eerste lid, wordt gewogen met het aantal opcenten dat in het betreffende jaar door de provincie is geheven in de periode tot 1 april en de periode vanaf 1 april in de verhouding 3 : 9.  
 
 ### Artikel  4  
 
 1.  De inwoners stedelijk gebied, bedoeld in [maatstaf 3a van bijlage 1 bij het besluit](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), is het aantal inwoners van rastervierkanten met een omgevingsadressendichtheid die groter is dan of gelijk is aan 1500 adressen per vierkante kilometer;   
-2.  De inwoners landelijk gebied bedoeld in [maatstaf 3b van bijlage 1 bij het besluit](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) is het aantal inwoners van rastervierkanten met een omgevingsadressendichtheid die kleiner is dan 1000 adressen per vierkante kilometer.   
+2.  De inwoners landelijk gebied bedoeld in [maatstaf 3b van bijlage 1 bij het besluit](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) is het aantal inwoners van rastervierkanten met een omgevingsadressendichtheid die kleiner is dan 1000 adressen per vierkante kilometer.  
 
 ### Artikel  5  
 
-De maatstaf oppervlak agrarisch en natuurterrein omvat het totaal van de statistiek landbouw en de statistiek bos en natuur.  
+De maatstaf oppervlak agrarisch en natuurterrein omvat het totaal van de statistiek landbouw en de statistiek bos en natuur. 
 
 ### Artikel  6  
 
@@ -72,7 +72,7 @@ De maatstaf gewogen weglengte wordt als volgt vastgesteld:
 ### Artikel  7  
 
 1.  Met personen afkomstig uit Turkije, Marokko, Suriname, Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba van de eerste of tweede generatie, bedoeld in de maatstaf minderheden, worden personen bedoeld waarvan ten minste één ouder is geboren in Turkije, Marokko, Suriname of op Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba.   
-2.  Houders van een verblijfsvergunning op grond van asiel zijn personen aan wie een verblijfsvergunning als bedoeld in [artikel 8, onderdeel c of d, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend.   
+2.  Houders van een verblijfsvergunning op grond van asiel zijn personen aan wie een verblijfsvergunning als bedoeld in [artikel 8, onderdeel c of d, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend.  
 
 ### Artikel  8  
 
@@ -82,7 +82,7 @@ De maatstaf gewogen weglengte wordt als volgt vastgesteld:
 4.  Het gecorrigeerde aantal inwoners van een woonkern bestaat uit het aantal inwoners van de woonkern, vermeerderd met een aandeel van de in de gemeente waarbinnen de woonkern is gelegen, niet in enige woonkern wonende inwoners. Het aandeel is gelijk aan het aandeel van de inwoners van de woonkern in het totaal aantal in een woonkern binnen de gemeente wonende inwoners.   
 5.  De toedeling aan de woonkernen geschiedt evenredig aan het gecorrigeerde aantal inwoners van die woonkernen en omgekeerd evenredig aan het kwadraat van de afstand tot die woonkernen. Daarbij wordt de afstand van de woonkern tot zichzelf op 1 kilometer vastgesteld.   
 6.  De in het tweede lid bedoelde afstand tussen twee kernen is de hemelsbreed gemeten afstand tussen de adressenzwaartepunten van die kernen in kilometers.   
-7.  De coördinaten van een adressenzwaartepunt worden bepaald door het gewogen gemiddelde te bepalen van de coördinaten van de middelpunten van de rastervierkanten die de kern vormen. De weging geschiedt op basis van het aantal adressen per rastervierkant.   
+7.  De coördinaten van een adressenzwaartepunt worden bepaald door het gewogen gemiddelde te bepalen van de coördinaten van de middelpunten van de rastervierkanten die de kern vormen. De weging geschiedt op basis van het aantal adressen per rastervierkant.  
 
 ### Artikel  9  
 
@@ -92,7 +92,7 @@ De maatstaf gewogen weglengte wordt als volgt vastgesteld:
 
 a. de woonkernen in de regionale omgeving van een woonkern, de woonkernen zijn die liggen binnen een afstand van 60 kilometer tot de woonkern;  
 
-b. de toedeling aan de woonkernen evenredig geschiedt aan het kwadraat van het gecorrigeerde aantal inwoners van die woonkernen en omgekeerd evenredig aan het kwadraat van de afstand tot die woonkernen.     
+b. de toedeling aan de woonkernen evenredig geschiedt aan het kwadraat van het gecorrigeerde aantal inwoners van die woonkernen en omgekeerd evenredig aan het kwadraat van de afstand tot die woonkernen.    
 
 ### Artikel  10  
 
@@ -113,22 +113,22 @@ a. in geval van het onderwijs, bedoeld in het eerste lid, onderdelen a en b, ond
 
 b. in geval van het onderwijs, bedoeld in het eerste lid, onderdeel b, onder 2°: 3,46; met dien verstande dat indien is bepaald dat het onderwijs wordt gegeven aan groepen van 2, 3 of 6 leerlingen het aantal leerlingen daarenboven wordt vermenigvuldigd met respectievelijk 4,30, 2,86, of 1,43;  
 
-c. in geval van het onderwijs, bedoeld in het eerste lid, onderdeel c: 0,80.     
+c. in geval van het onderwijs, bedoeld in het eerste lid, onderdeel c: 0,80.    
 
 ### Artikel  11  
 
-De maatstaf extra groei leerlingen streekscholen wordt als volgt berekend: het gecorrigeerd aantal leerlingen bedoeld in maatstaf 15 onder 2 en 3, wordt verminderd met 8,3% van het totaal aantal inwoners bedoeld in de maatstaf inwoners. Een negatieve uitkomst wordt op 0 gesteld.  
+De maatstaf extra groei leerlingen streekscholen wordt als volgt berekend: het gecorrigeerd aantal leerlingen bedoeld in maatstaf 15 onder 2 en 3, wordt verminderd met 8,3% van het totaal aantal inwoners bedoeld in de maatstaf inwoners. Een negatieve uitkomst wordt op 0 gesteld. 
 
 ### Artikel  12  
 
 1.  Tot het binnenwater wordt gerekend water met een breedte van ten minste 6 meter of een oppervlak van meer dan 1 hectare. De omschrijvingen van het binnenwater van het CBS zijn van toepassing, met uitzondering van het IJsselmeer.   
-2.  Tot het binnenwater behoren tevens die delen van de Waddenzee, de Eems, de Dollard, de Noordzee de Ooster- en de Westerschelde en het IJsselmeer die liggen tussen havenhoofden en strekdammen.   
+2.  Tot het binnenwater behoren tevens die delen van de Waddenzee, de Eems, de Dollard, de Noordzee de Ooster- en de Westerschelde en het IJsselmeer die liggen tussen havenhoofden en strekdammen.  
 
 ### Artikel  13  
 
 1.  Het aantal hectaren buitenwater van de gemeente bedraagt maximaal 10.000 hectare.   
 2.  Het water in natuurlijke inhammen, kreken in kwelders en schorrengebieden wordt als buitenwater aangemerkt.   
-3.  Het IJsselmeer wordt als buitenwater aangemerkt.   
+3.  Het IJsselmeer wordt als buitenwater aangemerkt.  
 
 ### Artikel  14  
 
@@ -136,26 +136,26 @@ De maatstaf extra groei leerlingen streekscholen wordt als volgt berekend: het g
 2.  Pieren, strekdammen en havenhoofden die aan het land grenzen worden als land beschouwd, indien zij op de topografische kaart zijn aangegeven.   
 3.  Pieren, strekdammen en havenhoofden die niet aan het land grenzen worden als land beschouwd indien zij bij gemiddeld hoog water 0,1 hectaren of meer beslaan.   
 4.  De peilerdam in de Oosterschelde wordt als land beschouwd.   
-5.  Indien de gemiddelde hoogwaterlijn op de meest recente topografische kaart in een gemeente sterk afwijkt van de gemiddelde hoogwaterlijn op de voorlaatste topografische kaart en de gemeente ten gevolge van deze afwijking een onevenredig groot financieel nadeel ondervindt, kan de Minister van Binnenlandse Zaken en Koninkrijksrelaties besluiten voor deze gemeente uit te blijven gaan van de voorlaatste topografische kaart.   
+5.  Indien de gemiddelde hoogwaterlijn op de meest recente topografische kaart in een gemeente sterk afwijkt van de gemiddelde hoogwaterlijn op de voorlaatste topografische kaart en de gemeente ten gevolge van deze afwijking een onevenredig groot financieel nadeel ondervindt, kan de Minister van Binnenlandse Zaken en Koninkrijksrelaties besluiten voor deze gemeente uit te blijven gaan van de voorlaatste topografische kaart.  
 
 ### Artikel  15  
 
-De grens tussen binnen- en buitenwater ligt bij vrij in zee uitmondende rivieren zonder strekdammen of havenhoofden op een denkbeeldige lijn ter hoogte van de hoogwaterlijn langs de kust. Bij pieren, strekdammen of havenhoofden ligt de grens op de denkbeeldige lijn die wordt gevormd door de verbinding van de uiteinden van de pieren, strekdammen of havenhoofden.  
+De grens tussen binnen- en buitenwater ligt bij vrij in zee uitmondende rivieren zonder strekdammen of havenhoofden op een denkbeeldige lijn ter hoogte van de hoogwaterlijn langs de kust. Bij pieren, strekdammen of havenhoofden ligt de grens op de denkbeeldige lijn die wordt gevormd door de verbinding van de uiteinden van de pieren, strekdammen of havenhoofden. 
 
 ### Artikel  16  
 
 1.  Het water van natuurlijke inhammen wordt als binnenwater beschouwd, indien er een economische functie is ten behoeve van het achterland.   
-2.  Het water van de kreken in kwelder en schorrengebieden wordt als buitenwater beschouwd.   
+2.  Het water van de kreken in kwelder en schorrengebieden wordt als buitenwater beschouwd.  
 
 ### Artikel  17  
 
-Voor de bepaling van de gemeentegrens van de gemeenten die grenzen aan de Eems en de Dollard wordt uitgegaan van de rijksgrens overeenkomstig de Nederlandse rechtsopvatting zoals in kaart gebracht bij de Aanvullende Overeenkomst bij het op 8 april 1960 voor het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ondertekende Verdrag tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag).  
+Voor de bepaling van de gemeentegrens van de gemeenten die grenzen aan de Eems en de Dollard wordt uitgegaan van de rijksgrens overeenkomstig de Nederlandse rechtsopvatting zoals in kaart gebracht bij de Aanvullende Overeenkomst bij het op 8 april 1960 voor het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ondertekende Verdrag tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag). 
 
 ### Artikel  18  
 
 1.  De oeverlengte, bedoeld in de maatstaven opgenomen in [bijlage 2 bij het besluit](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) onder nummer 34 en 35, is de lengte van de omtrek van de vlakken water volgens de digitale topografische kaart, schaal 1:10.000, in hectometers.   
-2.  Buiten beschouwing wordt gelaten: waterlopen smaller dan 6 meter en wateroppervlakten kleiner dan 50 m <sup>2</sup>.   
-3.  Bij de bepaling van de oeverlengte zijn de lijnen die de begrenzing vormen tussen buitenwater en land, respectievelijk buitenwater en binnenwater, uitgesloten.   
+2.  Buiten beschouwing wordt gelaten: waterlopen smaller dan 6 meter en wateroppervlakten kleiner dan 50 m<sup>2</sup> .   
+3.  Bij de bepaling van de oeverlengte zijn de lijnen die de begrenzing vormen tussen buitenwater en land, respectievelijk buitenwater en binnenwater, uitgesloten.  
 
 ### Artikel  19  
 
@@ -169,19 +169,19 @@ b. kleigebied: 1,30;
 c. kleiveengebied: 1,45;  
 
 d. veengebied: 1,60.     
-3.  De totale oppervlakken land en binnenwater in het eerste en tweede lid hebben betrekking op land en binnenwater als bedoeld in de verdeelmaatstaven, vermeld onder de nummers 16 en 19 van [bijlage 2](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).   
+3.  De totale oppervlakken land en binnenwater in het eerste en tweede lid hebben betrekking op land en binnenwater als bedoeld in de verdeelmaatstaven, vermeld onder de nummers 16 en 19 van [bijlage 2](../../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).  
 
 ### Artikel  20  
 
-De grondoppervlakte bebouwing wordt vastgesteld aan de hand van periodieke metingen van de topografische dienst. Tussen de metingen worden per gemeente de gegevens van de grondoppervlakte bebouwing van de laatste meting geïndexeerd, rekening houdend met de indeling naar stedelijkheid volgens de indexeringsmethode van het CBS.  
+De grondoppervlakte bebouwing wordt vastgesteld aan de hand van periodieke metingen van de topografische dienst. Tussen de metingen worden per gemeente de gegevens van de grondoppervlakte bebouwing van de laatste meting geïndexeerd, rekening houdend met de indeling naar stedelijkheid volgens de indexeringsmethode van het CBS. 
 
 ### Artikel  21  
 
-De oppervlakte van de historische kernen en de lengte van de historische waterwegen wordt vastgesteld als aangegeven in bijlage 1 bij deze regeling.  
+De oppervlakte van de historische kernen en de lengte van de historische waterwegen wordt vastgesteld als aangegeven in bijlage 1 bij deze regeling. 
 
 ### Artikel  22  
 
-De bewoonde oorden 1930 en het aantal woningen 1930 in het bewoonde oord of in een bewoond oord tevens historische kern wordt vastgesteld als aangegeven in bijlage 2 bij deze regeling  
+De bewoonde oorden 1930 en het aantal woningen 1930 in het bewoonde oord of in een bewoond oord tevens historische kern wordt vastgesteld als aangegeven in bijlage 2 bij deze regeling 
 
 ### Artikel  23  
 
@@ -191,11 +191,11 @@ a. voor de jaren 2003 t/m 2005: € 23.472.890,33 voor het onderdeel (a) stadsv
 
 b. voor de jaren 2006 en volgende: € 22.207.381,03 voor het onderdeel (a) stadsvernieuwing en € 18.234.822,04 voor het onderdeel (b) herstructurering.     
 2.  De aandelen van de gemeenten in deze bedragen worden op grond van het verdeelmodel van het Investeringsbudget Stedelijke Vernieuwing vastgesteld als aangegeven in bijlage 3 bij deze regeling, kolommen 2 t/m 5.   
-3.  De wijziging in de bedragen ten opzichte van de voormalige maatstaf Stadsvernieuwing wordt in tien gelijke stappen doorgevoerd. Op grond hiervan gelden voor de jaren 2003 tot en met 2011 correctiebedragen als weergegeven in bijlage 3, kolommen 6 tot en met 14.   
+3.  De wijziging in de bedragen ten opzichte van de voormalige maatstaf Stadsvernieuwing wordt in tien gelijke stappen doorgevoerd. Op grond hiervan gelden voor de jaren 2003 tot en met 2011 correctiebedragen als weergegeven in bijlage 3, kolommen 6 tot en met 14.  
 
 ### Artikel  24  
 
-Het totaal aantal bedrijfsvestigingen per gemeente wordt afgerond op vijftallen.  
+Het totaal aantal bedrijfsvestigingen per gemeente wordt afgerond op vijftallen. 
 
 ### Paragraaf  4  
 
@@ -203,39 +203,39 @@ Het totaal aantal bedrijfsvestigingen per gemeente wordt afgerond op vijftallen.
 
 ### Artikel  25  
 
-Wijzigt de Regeling belastingcapaciteit.   
+Wijzigt de Regeling belastingcapaciteit. 
 
 ### Artikel  26  
 
-Wijzigt de Regeling aanvullende uitkering gemeentefonds.   
+Wijzigt de Regeling aanvullende uitkering gemeentefonds. 
 
 ### Artikel  27  
 
-De [Regeling Meet- en rekenregels verdeelmaatstaven en vaststelling kilometers gewogen weglengte provinciefonds](../../../../../../../../../../ministeriele-regeling/regeling/meet-/en/rekenregels/verdeelmaatstaven/en/vaststelling/kilometers/etc/BWBR0009231/README.md) wordt ingetrokken  
+De [Regeling Meet- en rekenregels verdeelmaatstaven en vaststelling kilometers gewogen weglengte provinciefonds](../../../../../../../../../../ministeriele-regeling/regeling/meet-/en/rekenregels/verdeelmaatstaven/en/vaststelling/kilometers/etc/BWBR0009231/README.md) wordt ingetrokken 
 
 ### Artikel  28  
 
-De [Regeling Meet- en rekenregels verdeelmaatstaven gemeentefonds](../../../../../../../../../../ministeriele-regeling/regeling/meet-/en/rekenregels/verdeelmaatstaven/gemeentefonds/BWBR0008325/README.md) wordt ingetrokken  
+De [Regeling Meet- en rekenregels verdeelmaatstaven gemeentefonds](../../../../../../../../../../ministeriele-regeling/regeling/meet-/en/rekenregels/verdeelmaatstaven/gemeentefonds/BWBR0008325/README.md) wordt ingetrokken 
 
 ### Artikel  29  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
 2.  Artikel 23, eerste lid, onderdeel a werkt terug tot en met 1 januari 2003.   
 3.  Artikel 23, eerste lid, onderdeel b werkt terug tot en met 1 januari 2006.   
-4.  Artikel 26, onderdeel B, werkt terug tot en met 1 januari 2005.   
+4.  Artikel 26, onderdeel B, werkt terug tot en met 1 januari 2005.  
 
 ### Artikel  30  
 
-Deze regeling wordt aangehaald als: Regeling meet- en rekenregels verdeelmaatstaven provinciefonds en gemeentefonds.  
+Deze regeling wordt aangehaald als: Regeling meet- en rekenregels verdeelmaatstaven provinciefonds en gemeentefonds. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.Remkes 
+J.W. Remkes   
 
 De 
 Staatssecretaris van Financiën, 
-J.G.Wijn  
+J.G. Wijn    
 
 ### Bijlage  1  
 
@@ -814,10 +814,10 @@ J.G.Wijn
 
 ####Maatstaf stedelijke vernieuwing en overgangsmaatregel 2003–2011 (bijlage bij artikel 23 van de Regeling meet- en rekenregels verdeelmaatstaven gemeentefonds 2004).
 
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 13  | 14  | Gemeenten  | Maatstaf ISV  | Overgangsmaatregel ISV  |--- | 2003 t/m 2005  | Vanaf 2006  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | ISV (a)  | ISV (b)  | ISV (a)  | ISV (b)  | 2003  | 2004  | 2005  | 2006  | 2007  | 2008  | 2009  | 2010  | 2011  |--- | stadsvernieuwing  | herstructurering  | stadsvernieuwing  | herstructurering  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  |--- |--- |--- |--- |--- | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  |--- | aandeel  | aandeel  | aandeel  | aandeel  | €  | €  | €  | €  | €  | €  | €  | €  | €  |
+| 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 13  | 14  |  Gemeenten   |  Maatstaf ISV   |  Overgangsmaatregel ISV   |--- |  2003 t/m 2005   |  Vanaf 2006   |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |  ISV (a)   |  ISV (b)   |  ISV (a)   |  ISV (b)   |  2003   |  2004   |  2005   |  2006   |  2007   |  2008   |  2009   |  2010   |  2011   |--- | stadsvernieuwing  | herstructurering  | stadsvernieuwing  | herstructurering  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  | correctiebedrag  |--- |--- |--- |--- |--- | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  | VHROSV  |--- | aandeel  | aandeel  | aandeel  | aandeel  | €  | €  | €  | €  | €  | €  | €  | €  | €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Naam gemeente  | ISV (a)  | ISV (b)  | isv (a)  | isv (b)  | 2003  | 2004  | 2005  | 2006  | 2007  | 2008  | 2009  | 2010  | 2011  |
+| Naam gemeente  |  ISV (a)   |  ISV (b)   |  isv (a)   |  isv (b)   |  2003   |  2004   |  2005   |  2006   |  2007   |  2008   |  2009   |  2010   |  2011   |
 | Aa en Hunze  | 0,000716383  | 0,000199198  | 0,000682597  | 0,000168510  | –24.775,81  | –22.022,94  | –19.270,07  | –16.517,20  | –13.764,33  | –11.011,46  | –8.258,59  | –5.505,72  | –2.752,85  |
 | Aalburg  | 0,000196835  | 0,000073327  | 0,000115755  | 0,000039150  | –13.078,88  | –11.625,67  | –10.172,46  | –8.719,25  | –7.266,04  | –5.812,83  | –4.359,62  | –2.906,41  | –1.453,20  |
 | Aalsmeer  | 0,000425972  | 0,000246706  | 0,000306157  | 0,000159553  | –36.585,98  | –32.520,87  | –28.455,76  | –24.390,65  | –20.325,54  | –16.260,43  | –12.195,32  | –8.130,21  | –4.065,10  |

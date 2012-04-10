@@ -19,19 +19,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Besluit proefprojecten deeltijd vervolg/beroepsonderwijs   
+Besluit proefprojecten deeltijd vervolg/beroepsonderwijs  
 
 ### Artikel  II  
 
-Op 1 augustus 1988 of op een later tijdstip worden op basis van hoofdstuk I van Titel IV geen nieuw te vormen instituten voor deeltijd vervolg/beroepsonderwijs meer voor bekostiging in aanmerking gebracht.  
+Op 1 augustus 1988 of op een later tijdstip worden op basis van hoofdstuk I van Titel IV geen nieuw te vormen instituten voor deeltijd vervolg/beroepsonderwijs meer voor bekostiging in aanmerking gebracht. 
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van 31 juli 1983, werkt voor wat betreft hoofdstuk I van titel IV, artikel 42 en artikel 49 terug tot 31 januari 1983 en is van kracht tot het tijdstip dat artikel I van het bij koninklijke boodschap van 1 mei 1989 ingediende wetsvoorstel houdende een regeling voor de structuur, de kwaliteit, de financiering, de planning en de onderlinge afstemming van voorzieningen en activiteiten op het gebied van het cursorisch beroepsonderwijs, alsmede overgangsrecht (Wet op het cursorisch beroepsonderwijs) tot wet zal zijn verheven en in werking treedt.  
+Dit besluit treedt in werking met ingang van 31 juli 1983, werkt voor wat betreft hoofdstuk I van titel IV, artikel 42 en artikel 49 terug tot 31 januari 1983 en is van kracht tot het tijdstip dat artikel I van het bij koninklijke boodschap van 1 mei 1989 ingediende wetsvoorstel houdende een regeling voor de structuur, de kwaliteit, de financiering, de planning en de onderlinge afstemming van voorzieningen en activiteiten op het gebied van het cursorisch beroepsonderwijs, alsmede overgangsrecht (Wet op het cursorisch beroepsonderwijs) tot wet zal zijn verheven en in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden toegezonden aan de Raad van State.   
 
