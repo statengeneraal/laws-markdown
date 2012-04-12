@@ -741,6 +741,12 @@ Van dit hoofdstuk kan uitsluitend ten nadele van de werknemer worden afgeweken b
 2.  De werknemer die blijkens verklaringen uit de gemeentelijke basisadministratie op hetzelfde adres woont als een kind en duurzaam de verzorging en de opvoeding van dat kind als eigen kind op zich heeft genomen, heeft recht op verlof zonder behoud van loon. Indien de werknemer met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, bestaat er ten aanzien van ieder van die kinderen recht op verlof. In alle andere gevallen waarin de in de eerste volzin gestelde voorwaarden voor meer dan één kind met ingang van hetzelfde tijdstip worden vervuld, bestaat er slechts recht op één keer verlof.   
 3.  Indien de arbeid buiten Nederland wordt verricht heeft de werknemer recht op het verlof bedoeld in dit artikel, tenzij een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet.   
 
+### Artikel  6:1a  
+
+####Bescherming tegen benadeling
+
+De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte het recht op verlof, bedoeld in artikel 6:1, geldend maakt of ter zake bijstand heeft verleend.  
+
 ####Omvang, duur en invulling verlof
 
 ### Artikel  6:2  

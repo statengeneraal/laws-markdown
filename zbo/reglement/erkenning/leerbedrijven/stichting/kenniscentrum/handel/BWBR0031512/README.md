@@ -30,7 +30,7 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 
 ####Verzoek tot erkenning
 
-1.  Met inachtneming van de bepalingen in dit reglement wordt een erkenning afgegeven op verzoek van het bedrijf of de organisatie die de beroepspraktijkvorming wil verzorgenof als detacheringsorganisatie op wil treden.   
+1.  Met inachtneming van de bepalingen in dit reglement wordt een erkenning afgegeven op verzoek van het bedrijf of de organisatie die de beroepspraktijkvorming wil verzorgen of als detacheringsorganisatie op wil treden.   
 2.  De aanvraag heeft betrekking op één of meerdere kwalificaties of delen daarvan.   
 3.  Een aanvraag wordt in behandeling genomen indien dit een eerste aanvraag betreft of indien na een eerdere aanvraag en de nieuwe aanvraag ten minste zes maanden verstreken zijn.   
 
@@ -81,16 +81,16 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 1.  Uiterlijk 10 werkdagen na dagtekening van het verzoek als bedoeld in artikel 3 lid 1 beslist Kenniscentrum Handel over de verlening van de erkenning en maakt dit aan het bedrijf of de organisatie bekend. Overschrijding van deze termijn is in uitzonderlijke gevallen toegestaan, en dient in de beslissing te worden gemotiveerd.   
 2.  De erkenning wordt verleend voor één of meerdere kwalificaties of delen daarvan.   
 3.  De erkenning wordt verleend op vestigingsniveau en/of afdelingsniveau.   
-4.  Van de beslissing als bedoeld in het eerste lid wordt het bedrijf of de organisatie schriftelijk binnen 20 werkdagen na dagtekening van het verzoek tot erkenning in kennis gesteld. Indien de erkenning niet wordt verleend worden de redenen vermeld.   
-5.  De erkenning is geldig voor de periode van 2 jaar.   
+4.  Van de beslissing als bedoeld in het eerste lid wordt het bedrijf of de organisatie schriftelijk binnen 20 werkdagen na dagtekening van het verzoek tot erkenning in kennis gesteld. Indien de erkenning niet wordt verleend worden de redenen vermeld.   
+5.  De erkenning is geldig voor de periode van 4 jaar.   
 
 ### Artikel  7  
 
 ####Verlengen van de erkenning
 
 1.  Na het verstrijken van de in artikel 6 lid 5 genoemde periode, wordt de erkenning voor dezelfde duur door Kenniscentrum Handel verlengd, indien in de verstreken periode de daadwerkelijke bezetting van leerplaatsen met deelnemers daartoe aanleiding geeft. Artikel 4 is van overeenkomstige toepassing.   
-2.  Van de beslissing over het verlengen wordt het leerbedrijf dan wel de detacheringsorganisatieschriftelijk in kennis gesteld. Indien de verlenging geweigerd wordt, wordt het leerbedrijf dan wel de detacheringsorganisatieschriftelijk onder opgave van redenen, van deze beslissing op de hoogte gebracht.   
-3.  Indien Kenniscentrum Handel niet binnen drie maanden na het verstrijken van de in artikel 6 lid 5 genoemde termijn de beslissing omtrent het verlengen aan het leerbedrijf heeft kenbaar gemaakt, kan de erkenning geacht worden te zijn verlengd voor een periode van 2 jaar.   
+2.  Van de beslissing over het verlengen wordt het leerbedrijf dan wel de detacheringsorganisatie schriftelijk in kennis gesteld. Indien de verlenging geweigerd wordt, wordt het leerbedrijf dan wel de detacheringsorganisatie schriftelijk onder opgave van redenen, van deze beslissing op de hoogte gebracht.   
+3.  Indien Kenniscentrum Handel niet binnen drie maanden na het verstrijken van de in artikel 6 lid 5 genoemde termijn de beslissing omtrent het verlengen aan het leerbedrijf heeft kenbaar gemaakt, kan de erkenning geacht worden te zijn verlengd voor een periode van 4 jaar.   
 
 ### Artikel  8  
 
@@ -129,7 +129,7 @@ In alle gevallen waarin dit reglement niet voorziet beslist Kenniscentrum Handel
 
 ####Inwerkingtreding
 
-Dit reglement is vastgesteld door de directie van Kenniscentrum Handel en goedgekeurd door het bestuur. Dit reglement treedt in werking op 15 april 2011. Het is geldig tot en met de datum van goedkeuring van een herziening van het reglement door het bestuur van Kenniscentrum Handel.  
+Dit reglement is vastgesteld door de directie van Kenniscentrum Handel en goedgekeurd door het bestuur. Dit reglement treedt in werking op 12 april 2012. Het is geldig tot en met de datum van goedkeuring van een herziening van het reglement door het bestuur van Kenniscentrum Handel.  
 
 ### Artikel  13  
 

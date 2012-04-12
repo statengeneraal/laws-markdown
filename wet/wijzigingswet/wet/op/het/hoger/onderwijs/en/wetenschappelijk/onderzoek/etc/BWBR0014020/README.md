@@ -13,20 +13,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  II  
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  IV  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
-### Artikel  V  
+###Artikel V 
 
-1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt wat betreft artikel I, onderdelen C, D en E, terug tot en met 19 juni 2002 en wat betreft artikel I, onderdeel Ta, terug tot en met 1 september 2002. Het in de eerste volzin bedoelde tijdstip kan voor de verschillende artikelen of onderdelen daarvan verschillend worden vastgesteld.   
-2.  Deze wet heeft voor het eerst betrekking op het studiejaar dat in het in het eerste lid bedoelde besluit wordt vermeld.   
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt wat betreft artikel I, onderdelen C, D en E, terug tot en met 19 juni 2002 en wat betreft artikel I, onderdeel Ta, terug tot en met 1 september 2002. Het in de eerste volzin bedoelde tijdstip kan voor de verschillende artikelen of onderdelen daarvan verschillend worden vastgesteld.
+2. Deze wet heeft voor het eerst betrekking op het studiejaar dat in het in het eerste lid bedoelde besluit wordt vermeld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

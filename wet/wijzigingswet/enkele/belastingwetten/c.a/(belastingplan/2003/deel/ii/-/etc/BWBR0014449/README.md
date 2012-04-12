@@ -11,127 +11,127 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964.  
 
 ### Artikel  III  
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.   
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969.  
 
 ### Artikel  V  
 
-Wijzigt de Wet op de omzetbelasting 1968.   
+Wijzigt de Wet op de omzetbelasting 1968.  
 
 ### Artikel  VI  
 
-Het koninklijk besluit van 16 september 2002 (Stb. 472) tot wijziging van het Besluit uitsluiting aftrek omzetbelasting 1968 wordt goedgekeurd.  
+Het koninklijk besluit van 16 september 2002 (Stb. 472) tot wijziging van het Besluit uitsluiting aftrek omzetbelasting 1968 wordt goedgekeurd. 
 
 ### Artikel  VII  
 
-Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.   
+Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.  
 
 ### Artikel  VIII  
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.   
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.  
 
 ### Artikel  IX  
 
-Wijzigt de Wet belasting zware motorrijtuigen.   
+Wijzigt de Wet belasting zware motorrijtuigen.  
 
 ### Artikel  X  
 
-Wijzigt de Wet op de accijns.   
+Wijzigt de Wet op de accijns.  
 
 ### Artikel  XI  
 
-Wijzigt de wet van 4 december 1997 tot wijziging van de Wet op de accijns.   
+Wijzigt de wet van 4 december 1997 tot wijziging van de Wet op de accijns.  
 
 ### Artikel  XII  
 
-Wijzigt de Wet belastingen op milieugrondslag.   
+Wijzigt de Wet belastingen op milieugrondslag.  
 
 ### Artikel  XIII  
 
-De op 1 augustus 2002 in werking getreden ministeriële regeling van 16 juli 2002, nr. WV 2002/274M tot wijziging van de Wet belastingen op milieugrondslag (Stcrt. 135) wordt goedgekeurd.  
+De op 1 augustus 2002 in werking getreden ministeriële regeling van 16 juli 2002, nr. WV 2002/274M tot wijziging van de Wet belastingen op milieugrondslag (Stcrt. 135) wordt goedgekeurd. 
 
 ### Artikel  XIV  
 
-Wijzigt de Algemene wet inzake rijksbelastingen.   
+Wijzigt de Algemene wet inzake rijksbelastingen.  
 
 ### Artikel  XV  
 
-Wijzigt de Invorderingswet 1990.   
+Wijzigt de Invorderingswet 1990.  
 
 ### Artikel  XVI  
 
-De [wet van 24 december 1927, houdende uitbreiding van de wettelijke en administratieve bevoegdheden der belastingambtenaren](../../../../../../../../../../../../wet/wet/uitbreiding/bevoegdheden/belastingambtenaren/BWBR0001938/README.md) (Stb. 416) wordt ingetrokken.  
+De [wet van 24 december 1927, houdende uitbreiding van de wettelijke en administratieve bevoegdheden der belastingambtenaren](../../../../../../../../../../../../wet/wet/uitbreiding/bevoegdheden/belastingambtenaren/BWBR0001938/README.md) (Stb. 416) wordt ingetrokken. 
 
 ### Artikel  XVII  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.  
 
 ### Artikel  XVIII  
 
-Wijzigt de Huursubsidiewet.   
+Wijzigt de Huursubsidiewet.  
 
 ### Artikel  XIX  
 
-Wijzigt de Provinciewet.   
+Wijzigt de Provinciewet.  
 
 ### Artikel  XX  
 
-Wijzigt de Waterschapswet.   
+Wijzigt de Waterschapswet.  
 
 ### Artikel  XXI  
 
-Wijzigt de Wet bevordering eigenwoningbezit.   
+Wijzigt de Wet bevordering eigenwoningbezit.  
 
 ### Artikel  XXII  
 
-Wijzigt de Wet financiering volksverzekeringen.   
+Wijzigt de Wet financiering volksverzekeringen.  
 
 ### Artikel  XXIII  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.  
 
 ### Artikel  XXIV  
 
-Wijzigt de Wet schadeloosstelling leden Tweede Kamer.   
+Wijzigt de Wet schadeloosstelling leden Tweede Kamer.  
 
 ### Artikel  XXV  
 
-Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement.   
+Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement.  
 
 ### Artikel  XXVI  
 
-Wijzigt de Wet studiefinanciering 2000.   
+Wijzigt de Wet studiefinanciering 2000.  
 
 ### Artikel  XXVII  
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.   
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.  
 
 ### Artikel  XXVIII  
 
-Wijzigt de Ziekenfondswet.   
+Wijzigt de Ziekenfondswet.  
 
 ### Artikel  XXIX  
 
-Wijzigt de Douanewet.   
+Wijzigt de Douanewet.  
 
 ### Artikel  XXX  
 
-Wijzigt de Mijnbouwwet.   
+Wijzigt de Mijnbouwwet.  
 
 ### Artikel  XXXI  
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.   
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.  
 
 ### Artikel  XXXII  
 
@@ -139,19 +139,19 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ### Artikel  XXXIII  
 
-Wijzigt de wet tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid.   
+Wijzigt de wet tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid.  
 
 ### Artikel  XXXIIIA  
 
-Wijzigt de wet tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid.   
+Wijzigt de wet tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid.  
 
 ### Artikel  XXXIV  
 
-De [artikelen 26, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [5, tweede lid, van de Invorderingswet 1990](../../../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van de artikelen XIV, onderdeel C, en XV, onderdeel B, blijven van toepassing op de belasting die betrekking heeft op tijdstippen of tijdvakken die zijn gelegen respectievelijk aangevangen voor die datum.  
+De [artikelen 26, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [5, tweede lid, van de Invorderingswet 1990](../../../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van de artikelen XIV, onderdeel C, en XV, onderdeel B, blijven van toepassing op de belasting die betrekking heeft op tijdstippen of tijdvakken die zijn gelegen respectievelijk aangevangen voor die datum. 
 
 ### Artikel  XXXIVA  
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.   
+Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.  
 
 ### Artikel  XXXV  
 
@@ -168,7 +168,7 @@ d. artikel III, onderdelen A en B, terugwerkt tot en met 1 juli 2002;
 e. artikel XII, onderdeel A, en artikel XXXIVA, eerste lid, terugwerken tot en met 1 januari 2002;  
 
 f. artikel XII, onderdeel B, eerste lid, terugwerkt tot en met 13 juli 2001.     
-2.  In afwijking in zoverre van het eerste lid treden de artikelen XIV, onderdelen A, B, C en E, en XV tot en met XXX in werking op een bij koninklijk besluit te bepalen tijdstip.   
+2.  In afwijking in zoverre van het eerste lid treden de artikelen XIV, onderdelen A, B, C en E, en XV tot en met XXX in werking op een bij koninklijk besluit te bepalen tijdstip.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -318,6 +318,15 @@ De werkgever zorgt ervoor dat een ieder, die over een kind het ouderlijk gezag o
 
 De werkgever houdt, voor zover dat redelijkerwijs van hem kan worden gevergd, bij de vaststelling van het arbeidstijdpatroon van de werknemer rekening met de persoonlijke omstandigheden van de werknemer buiten de arbeid, waaronder in elk geval begrepen de zorg(taken) voor kinderen, (afhankelijke) familieleden, verwanten en naasten alsmede maatschappelijke verantwoordelijkheden die door de werknemer worden gedragen.  
 
+### Artikel  4:1b  
+
+####Tijdelijke aanpassing arbeidstijdpatroon na ouderschapsverlof
+
+1.  De werknemer kan de werkgever verzoeken om aanpassing van zijn arbeidstijdpatroon, voor de periode van een jaar dan wel een andere tussen hen overeengekomen periode, na afloop van de periode waarin het volledige voor de werknemer geldende ouderschapsverlof, bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), is opgenomen.   
+2.  Het verzoek wordt ten minste drie maanden voor de afloop van het ouderschapsverlof schriftelijk gedaan.   
+3.  De werkgever beslist op het verzoek uiterlijk vier weken voor de afloop van het ouderschapsverlof.   
+4.  Van het tweede en derde lid kan worden afgeweken bij collectieve regeling. Elk beding waarbij op een andere wijze dan in de eerste zin is aangegeven wordt afgeweken van het tweede of derde lid, is nietig.   
+
 ####Mededeling arbeids- en rusttijdenpatroon
 
 ### Artikel  4:2  
