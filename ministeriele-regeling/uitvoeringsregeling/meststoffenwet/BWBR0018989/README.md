@@ -491,7 +491,7 @@ b. het correspondentieadres van de landbouwer, indien dit afwijkt van het adres,
 1.  De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen uitsluitend die percelen landbouwgrond die bij het bedrijf in het kader van normale bedrijfsvoering in gebruik zijn en die al dan niet gedeeltelijk zijn gelegen in Duitsland of in België, tot 20, onderscheidenlijk tot 25 kilometer uit de Nederlandse grens.   
 2.  De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel e, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden onderscheiden naar diersoorten en diercategorieën per soort overeenkomstig de omschrijvingen in bijlage D, tabel I.   
 3.  De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel g, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden per afzonderlijke opslagruimte weergegeven.   
-4.  Indien op een bedrijf ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV, 1 wordt geproduceerd, worden de gegevens, bedoeld in [artikel 33, derde lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, 1, en bevat de administratie behalve de gegevens, bedoeld in [artikel 33, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen.   
+4.  Indien op een bedrijf ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV wordt geproduceerd, worden de gegevens, bedoeld in [artikel 33, derde lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in [artikel 33, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen.   
 
 ### Artikel  39  
 
@@ -593,7 +593,7 @@ c. de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch 
 a. de hoeveelheid geproduceerde, bewerkte of verwerkte compost; en  
 
 b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 3, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.     
-8.  Indien op een onderneming ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV, 1 wordt geproduceerd, worden de gegevens, bedoeld in [artikel 39, derde lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, 1, en bevat de administratie behalve de gegevens, bedoeld in [artikel 39, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen.   
+8.  Indien op een onderneming ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV wordt geproduceerd, worden de gegevens, bedoeld in [artikel 39, derde lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in [artikel 39, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen.   
 
 ### Artikel  47  
 
@@ -1964,7 +1964,7 @@ I. Stoffen die als meststof kunnen worden verhandeld
 
 | --- | --- |
 |:---|:---|
-| Categorie 1.  | Product dat verkregen is door vergisting van ten minste 50 gewichtsprocenten uitwerpselen van dieren met als nevenbestanddeel uitsluitend één of meer van de stoffen die genoemd zijn onder de in onderstaande tabel onderscheiden categorieën of subcategorieën (covergiste mest):  |
+| Categorie 1.  | Product dat verkregen is door vergisting van ten minste 50 gewichtsprocenten uitwerpselen van dieren met als nevenbestanddeel uitsluitend één of meer van de stoffen die genoemd zijn onder de in onderstaande tabel onderscheiden categorieën of subcategorieën, met dien verstande dat de stoffen genoemd onder categorie G uitsluitend worden gebruikt als nevenbestanddeel indien tevens de maximale waarden waarnaar in categorie G wordt verwezen niet worden overschreden (covergiste mest):  |
 |  *A*   |  *Stoffen van plantaardige herkomst afkomstig van een landbouwbedrijf*   |
 |  *A1*   |  *Gewas(-producten) voor humane consumptie of diervoeders*   |
 | 1  | Weidegras, op het veld gedroogd weidegras, weidekuilgras, snijmaïs, kuilmaïs/maïssilage, korrelmaïs, corn cob mix (CCM), gerstkorrels, haverkorrels, roggekorrels, tarwekorrels, aardappelen, suikerbieten, voederbieten, uien, witlofpennen, zaad van erwten, gehele plantsilage van erwten, zaad van lupinen, bonen/peulen van veldbonen, zonnebloempitten, zaad van kool- of raapzaad, stro van koolzaad, zaad van olievlas, zaad van vezelvlas, groente en fruit behorend tot de in bijlage A opgenomen bladgewassen, koolgewassen, kruiden, vruchtgewassen, stengel-/knol-/wortelgewassen en fruitteeltgewassen.  |
@@ -2020,12 +2020,103 @@ I. Stoffen die als meststof kunnen worden verhandeld
 | 1  | Reststof die is vrijgekomen bij de fabrieksmatige winning van biodiesel uit raapzaadolie of koolzaadolie door omestering met methanol en scheiding onder invloed van de zwaartekracht (glycerine).  |
 |  *F*   |  *Hulpstoffen of toevoegmiddelen*   |
 | 1  | Slib of steekvast slib dat vrijkomt bij de bereiding van drinkwater uit grondwater of oppervlaktewater en dat bestaat uit ijzer(III)hydroxide en water (ijzerwater).  |
+|  *G*   | Stoffen waar de in [bijlage II, onder tabel 1, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel en de in bijlage II, onder tabel 4, bij het besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel voor gelden.  |
+|  *G1*   | Plantaardige stoffen en stoffen afkomstig van de verwerking van plantaardige producten  |
+| 1.  | Reststof die verkregen wordt bij de verwerking van aardappelen dat in hoofdzaak uit aardappel Solanum tuberosum. L. en aardappelresten bestaat en vrij is van verpakkingsmateriaal. Dierlijke vetten kunnen aanwezig zijn (aardappelrestanten)  |
+| 2.  | Reststof verkregen bij de verwerking van groenten bestemd voor levensmiddelenproducten en resteert na het snijden, wassen en of blancheren. Dierlijke vetten kunnen aanwezig (groentenrestanten).  |
+| 3.  | Reststof bestaande uit zaad van de zonnebloem Helianthus annuus L. (zonnebloemzaad).  |
+| 4.  | Reststof die vrijkomt bij het winnen van olie door persing uit zaad van zonnebloemen Helianthus annuus L. (zonnebloemzaadschilfers).  |
+| 5.  | Reststof die vrijkomt bij het schillen van zonnebloemzaad Helianthus annuus L. (zonnebloemzaadschillen).  |
+| 6.  | Reststof van de winning van olie door extractie en geschikte hittebehandeling van zonnebloemzaadschilfers Helianthus annuus L. die maximaal 1% bleekaarde bevat (zonnebloemzaad, geextraheerd).  |
+| 7.  | Reststof die vrijkomt bij de winning van olie door extractie en geschikte hittebehandeling van schilfers van zonnebloemzaden Helianthus annuus L. waarvan de doppen gedeeltelijk of volledig zijn verwijderd en die maximaal 1% bleekaarde bevat (zonnebleomzaadschroot, ontdopt).  |
+| 8.  | Reststof die vrijkomt bij het maaien van randen langs akkers en bestaat uit de vegetatieresten met onder andere zonnebloemen Helianthus annuus L. (maaisel van zonnebloemen).  |
+| 9.  | Reststof bestaande uit graankorrels van Tricticum aestivum L., Triticum durum Dosf. en andere gecultiveerde tarwesoorten (tarwe).  |
+| 10.  | Reststof verkregen door het kiemen van brouwtarwe en het schonen van mout, bestaande uit kiemwortels, graankorrels, doppen en kleine gebroken gemoute tarwekorrels (tarwekiemwortels).  |
+| 11.  | Reststof verkregen door gemalen of gebroken tarwe in vochtige, warme omstandigheden onder druk te behandelen en is afgescheiden van voorverstijfselde tarwe (tarwe, voorverstijfseld).  |
+| 12.  | Reststof verkregen door uit geschoonde tarwekorrels of ontdopte spelt bloemt te bereiden en waaruit bloem is verwijderd en dat in hoofdzaak bestaat uit fijne schilddelen en enkele andere delen van de korrel (tarwevoerbloem).  |
+| 13.  | Reststof verkregen bij de productie van tarwevlokken door gepelde tarwe te stomen en te pletten en dat bestaat uit resten tarwedoppen en tarwevlokken (tarwevlokken).  |
+| 14.  | Reststof verkregen bij de productie van bloem of mout uit geschoonde tarwekorrels of ontdopte spelt en dat overwegend bestaat uit deeltjes van de schil en voorts uit korreldeeltjes waaruit minder endosperm is verwijder dan bij tarwegries (tarwevoer).  |
+| 15.  | Reststof verkregen bij de bereiding van bloem of mout uit geschoonde tarwekorrels of ontdopte spelt en waaruit tarwegries is verwijderd dat overwegend bestaat uit resten deeltjes van de schil, stof en endosperm (tarwegries).  |
+| 16.  | Reststof verkregen door een gecombineerd procedé van het mouten en gisten van tarwe en tarwezemelengrint en dat is gedroogd en gemalen (gemoute en gegiste tarwedeeltjes).  |
+| 17.  | Reststof verkregen bij de verwerking van tarwe en die in hoofdzaak bestaat uit vezels (tarwevezel).  |
+| 18.  | Reststof verkregen bij de bereiding van bloem, en dat overwegend bestaat uit al dan niet geplette tarwekiemen, waaraan eventueel nog delen van het endosperm en van de schil hechten (tarwekiemen).  |
+| 19.  | Reststof verkregen door het gisten van tarwekiemen en waarvan de micro-organismen zijn geïnactiveerd (tarwekiemen, gegist).  |
+| 20  | Reststof van de productie van zetmeel of ethanol uit tarwe en bestaat uit geëxtraheerd tarweeiwit, eventueel gehydrolyseerd (tarwe-eiwit).  |
+| 21.  | Reststof van de productie van tarwezetmeel en gluten en bestaat uit gries waarvan de kiemen eventueel gedeeltelijk zijn verwijderd en waaraan tarwepersspa, gebroken tarwe en andere reststoffen van tarwezetmeel en het raffineren van zetmeelproducten kunnen zijn toegevoegd (tarweglutenvoer).  |
+| 22.  | Reststof verkregen bij de productie van zetmeel/glucose en gluten uit tarwe (tarwezetmeel, vloeibaar).  |
+| 23.  | Reststof verkregen na natte extractie van eiwit en zetmeel dat eventueel gehydrolyseerd is (tarweperssap).  |
+| 24.  | Reststof verkregen na gisting van tarwezetmeel na productie van alcohol (tarweconcentraat).  |
+| 25.  | Reststof verkregen na het schonen van brouwtarwe bestaande uit kleine brouwtarwekorrels en fracties van gebroken brouwtarwekorrels die vóór het brouwprocedé zijn gescheiden (brouwtarwevoermeel).  |
+| 26.  | Reststof die verkregen is door opzuiging zijn verkregen tijdens korreloverdracht (brouwtarwe en moutkorrel).  |
+| 27.  | Reststof verkregen door het schonen van brouwtarwe, en bestaat uit fracties van doppen en korrels (brouwtarwedoppen).  |
+| 28.  | Reststof verkregen uit gekiemde granen, gedroogd, gemalen en/of geëxtraheerd (moutkiemen).  |
+| 29  | Reststof verkregen door het kiemen van brouwgranen en het schonen van mout, bestaande uit kiemwortels, graankorrels, doppen en kleine gebroken gemoute graankorrels en dat eventueel gemalen is (moutkiemwortels).  |
+| 30.  | Reststof verkregen door de bereiding van maïszetmeel en dat hoofdzakelijk uit gluten bestaat verkregen door afscheiden van het zetmeel (maisgluten)  |
+| 31.  | Reststof verkregen bij de verwerking van groenten bestemd voor levensmiddelenproducten en resteert na het snijden, wassen en of blancheren (groentenresiduen).  |
+| 32.  | Reststof verkregen bij de oogst van bloembollen en bestaat uit restmateriaal van de teelt; dit zijn bollen (inclusief kralen) of knollen die niet goed gegroeid zijn, zieke bollen of knollen, bolhuiden en pelresten (bloembollen).  |
+| 33.  | Reststof verkregen bij het in bloei trekken van bollen en knollen, bloembollenloof en/of bestaat uit halve of hele bollen en niet marktbare bloemtakken (waterbloeitulpen)  |
+| 34.  | Reststof verkregen bij het sorteren van bloembollen en bestaat uit restmateriaal; dit zijn te kleine en/of beschadigde bollen (inclusief kralen) of knollen, bolhuiden en pelresten (afval bij het sorteren van bloembollen).  |
+| 35.  | Reststof verkregen bij de oogst van bloembollen afkomstig van biologische productiemethoden en bestaat uit restmateriaal van de teelt; dit zijn bollen (inclusief kralen) of knollen die niet goed gegroeid zijn, zieke bollen of knollen, bolhuiden en pelresten (biologische bloembollen).  |
+| 36.  | Reststof verkregen bij winning van olie door persing uit het gedroogde, door de zaadhuid bedekte endosperm van het zaad van de kokospalm Cocos Nucifera L. (kokosschilfers).  |
+| 37.  | Reststof verkregen bij winning van olie door persing uit kool- en raapzaad (raapzaadolie).  |
+| 38.  | Reststof verkregen bij winning van olie door persing uit zoveel mogelijk van de steenschaal ontdane zaden van de volgende soorten oliepalm: Elaes guineensis Jacq., Coroza oleifera (HBK), L., H. Baily (Elaeis melanococca auct.) (palmolie)  |
+| 39.  | Reststof verkregen bij winning van olie door persing uit zoveel mogelijk van de steenschaal ontdane zaden van de volgende soorten oliepalm: Elaes guineensis Jacq., Coroza oleifera (HBK), L., H. Baily (Elaeis melanococca auct.) (palmolie)  |
+| 40.  | Reststof verkregen bij de verwerking van onbehandeld hout en in hoofdzaak bestaat uit poeder of schilfers hout (zaagsel).  |
+| 41.  | Reststof verkregen bij winning van olie door persing uit zaad van zonnenbloemen Helianthus annuus L. (zonnebloemolie).  |
+| 42.  | Enkelvoudige concentraten en grondstoffen die bij de VGI of diervoederindustrie wegens non-conformiteiten als niet GMP-waardig werden afgekeurd.  |
+| 43.  | Reststof die vrijgekomen is bij de oogst van tarwe en bestaat uit stof van tarwe, kaf, kafdeeltjes, tarwekorrel, delen van tarwekorrels en stroresten (kaf, stro van kaf en koren).  |
+| 44.  | Resten van granen welke door middel van een zeef ontdaan worden van vreemde bestanddelen (zeefresten graanverwerkende industrie).  |
+| 45.  | Reststof die vrijgekomen is bij de verwerking van suikerbieten of suikerriet en in hoofdzaak bestaat uit suikers die resteren na suikerproductie (melasse).  |
+| 46.  | Reststof die vrijgekomen is bij de verwerking van sojabonen en in hoofdzaak uit suikers bestaat (sojasuiker).  |
+| 47.  | Reststof die vrijgekomen is bij de verwerking van sojabonen en in hoofdzaak uit het extract van onthulde en ontvette sojabonen dat vrijkomt bij de productie van soja-eiwitconcentraten (sojamelasse).  |
+| 48.  | Product bestaande uit het stroopachtige residu, dat verkregen wordt bij het bereiden of het raffineren van de suikerfractie van citrusvruchten (cirtusmelasse).  |
+| 49.  | Reststof verkregen bij de bereiding van inuline uit wortels van Cichorium intybus L., en hoofdzakelijk bestaat uit geschoonde delen cichorei en delen van het loof (staartjes en blad van cichoreiwortelen).  |
+| 50.  | Reststof verkregen bij het schillen van schorseneren Scorzonera hispanica L. en verkregen via een stoombehandeling en in hoofdzaak bestaat uit gestoomde schillen in water waarna eventueel gepureerd is (stoomschillen van schorseneren).  |
+| 51.  | Reststof verkregen bij het ontdoppen van gegiste en vervolgens geroosterde cacaobonen van de vrucht van Theobroma cacao L. en dat in hoofdzaak bestaat uit gebroken doppen (cacaodoppen).  |
+| 52.  | Reststof verkregen van de productie van aardappellen tot frites bestemd voor levensmiddel en bestaat uit gefrituurde aardappelresten (voorgebakken frites).  |
+| 53.  | Reststof verkregen bij de bierbereiding en bestaat uit bier dat niet als een drank voor menselijke consumptie kan worden verkocht (voerbier).  |
+| 54.  | Rest product welke vrijkomt bij het drogen en algemeen malen van complete kruidenplanten of delen daarvan zonder extractie of toevoeging van andere stoffen (kruidenresten).  |
+| 55.  | Reststof die verkregen wordt bij de productie van sap van Malus domestica L. of ciderproductie en hoofdzakelijk bestaat uit geperste inwendige pulp en schillen die eventueel gedroogd zijn en eventueel pectinevrij gemaakt is (appelpulp).  |
+| 56.  | Reststof die verkregen wordt bij het sorteren van groenten bestemd voor levensmiddelen en vrij is van verpakkingsmateriaal. (sorteerafval van groenten).  |
+| 57.  | Reststof die verkregen wordt bij de verwerking van aardappelen en dat in hoofdzaak uit aardappel Solanum tuberosum. L. en aardappelresten bestaat en vrij is van verpakkingsmateriaal (aardappelrestanten).  |
+| 58.  | Reststof die vrijgekomen is bij de verwerking van aardappeleiwit afkomstig van zetmeelaardappelen en dat resteert na wassen en opwerking van het aardappeleiwit tot diervoeder en als slib wordt weggevangen uit afvalwater (slib dat vrijkomt bij de productie van aardappeleiwit).  |
+| 59.  | Reststof verkregen bij de verwerking van groenten bestemd voor levensmiddelenproducten en resteert na het snijden, wassen en of blancheren (groentenrestanten).  |
+| 60.  | Reststof verkregen bij de versnijding van groenten en fruit bestemd voor levensmiddelenproducten en resteert na het het snijden, wassen en of blancheren (snijafval van groenten en fruit).  |
+| 61.  | Reststof die is vrijgekomen bij de productie van alcohol uit vergist beslag van graan nadat de alcohol (ethanol, bioethanol) door destillatie is verwijderd en dat in hoofdzaak bestaat uit de vaste residuen van granen al dan niet gedroogd (graanspoeling, gedroogde graanspoeling) (graanspoeling).  |
+| 62.  | Reststof van de alcoholdistilleerderij, verkregen door het drogen van de vaste residuen van gegiste granen, waaraan een deel van de spelingsiroop of de geëvaporeerde draf is toegevoegd (donker gedroogde spoeling)  |
+| 63.  | Restproduct van de alcoholdistilleerderij verkregen door het drogen van vaste residuen van gegiste granen (gedroogde spoeling).  |
+| 64.  | Restproduct van de alcoholdistilleerderij verkregen door het drogen van vaste residuen van gegiste granen (concentrated distillers solubles).  |
+| 65.  | Reststof verkregen door het evaporeren van het concentraat van de bostel na gisting en distillatie van graan gebruik bij de productie van alcohol uit graan (graanbostelsiroop)  |
+| 66.  | Reststof verkregen als de vaste fractie door het centrifugeren en/of filteren van de bostel uit gegiste en gedistilleerde granen gebruikt bij de productie van alcohol uit granen (graanbostel).  |
+| 67.  | Reststof dat achterblijft in de kolf na de eerste (draf-) distillatie van een moutdistilleerderij (spoeling).  |
+| 68.  | Reststof verkregen na de eerste (draf-)distillatie van een moutdistilleerderij, geproduceerd door het evaporeren van de spoeling die in de kolf achterblijft (spoelingsiroop).  |
+| 69.  | Reststof van de moutwhiskyproductie en dat bestaat uit de residuen van de extractie van gemoute gerst met heet water (draf).  |
+| 70.  | Reststof verkregen door de productie van bier, moutextract en whisky spirit en dat bestaat uit residuen van de extractie van gemalen mout met heet water en eventueel andere suiker- of zetmeelrijke toevoegsels (maischefiltergranen).  |
+| 71.  | Reststof verkregen uit gekiemde granen, gedroogd, gemalen en/of geëxtraheerd (moutkiemen).  |
+| 72.  | Reststof die is vrijgekomen bij het brouwen van bier en bestaat uit uitgetrokken en afgewerkte mout en dat uitsluitend bestaat uit het omhulsel van kaf, vruchtwand of zaadhuid en niet in warm water oplosbare bestanddelen van gerst of tarwe (bierbostel).  |
+| 73.  | Residuen van plantaardige oliën die vrijkomen bij de productie van glycerinen welke niet meer food- of feedwaardig zijn.  |
+| 74.  | Reststof die vrijkomt bij het beheer van wegbermen en bestaat uit de gemaaide vegetatie van grassen en kruiden en vrij is van hout, houtresten en zwerfvuil (bermmaaisel).  |
+| 75.  | Reststof die vrijkomt bij het beheer van slootkanten en bestaat uit de gemaaide vegetatie van grassen en kruiden en vrij is van hout, zwerfvuil en bagger (slootmaaisel).  |
+|  *G2*   | Stoffen van dierlijke herkomst al dan niet gecombineerd met stoffen van plantaardige herkomst en stoffen afkomstig van de verwerking van dierlijke producten  |
+| 1.  | Reststof die vrijkomt bij de productie van biodiesel uit dierlijke vetten en oliën en in hoofdzaak bestaat uit glycerine (glycerine).  |
+| 2.  | Reststof die vrijkomt bij de productie van diervoeders bestemd voor gezelschapsdieren en bestaat uit resten van mengsels van voedermiddelen. Dierlijke vetten kunnen aanwezig zijn (petfood).  |
+| 3.  | Reststof die vrijkomt bij de zuivering van afvalwater van een slachterij en bestaat uit dierlijk weefsel en ongeboren mest (slib van slachterij).  |
+| 4.  | Reststof die vrijkomt bij de melkproductie en bestaat uit rauwe melk die door de aanwezigheid van residuen antibiotica niet meer geschikt zijn voor gebruik als levensmiddel (rauwe boerderijmelk met resten antibiotica).  |
+| 5.  | Niet meer GMP+ waardige producten welke afgekeurd zijn wegens non-conformiteiten (voerresten).  |
+| 6.  | Permeaat van bewerking van wei waaruit lactose is verwijderd (weipermeaat).  |
+| 7.  | Reststof die is vrijgekomen bij de bereiding van kaas, kwark of caseïne en hoofdzakelijk bestaat uit melksuiker (lactose), resten eiwit en resten melkvet en mineralen van melk. De reststof kan geconcentreerd of gedroogd zijn (wei, weiconcentraat of gedroogde wei).  |
+|  *G3*   | Stoffen afkomstig uit overige bronnen  |
+| 1.  | Slib welke vrijkomt bij het reinigen van de bekkens in de waterzuivering (flotatieslib).  |
+| 2.  | Rest-oliën welke worden ingezameld bij restaurants, hotels, cafetaria’s etc. en welke alleen nog geschikt zijn voor technische toepassing (frituurolie)  |
+| 3.  | Residu van bewerkte ontoliede bleekaarde.Bleekaarde is een fossiele kaolienklei (montmorilloniet) die zeer poreus van structuur is (ontoliede bleekaarde).  |
+| 4.  | Reststof die als mengsel is vrijgekomen bij het fabrieksmatig uitpakken door een daartoe gespecialiseerd bedrijf van uitsluitend verpakte voedingsmiddelen die afkomstig zijn van detailhandel, groothandel of producenten en uitsluitend wegens overschrijding van de houdbaarheidsdatum, verpakkingsfouten of verkeerde bewaring ongeschikt zijn geworden voor humane consumptie. Het mengsel bestaat uit uitgepakte voedingsmiddelen die oorspronkelijk bestemd waren voor humane consumptie en is vrij van verpakkingsmateriaal en reinigingswater (uitgepakte voedingsmiddelen voor humane consumptie).  |
+| 5.  | Reststof die is vrijgekomen bij de productie van brood en banket en die bestaat uit resten brood, koek, banket en deegresten en die zijn uitgevallen bij het productieproces en oorspronkelijk bestemd waren om in voedingsmiddelen te verwerken en niet bestaan uit veegvuil, productievreemde delen, keukenafval en etensresten (bakkerijrestproducten).  |
 
 | --- | --- |
 |:---|:---|
-| Categorie 2.  | Product dat verkregen is door vergisting van uitsluitend plantaardige stoffen vermeld onder categorie 1 (digestaat van plantaardige covergistingsmaterialen).  |
-| Categorie 3.  | Verpompbaar product dat verkregen is na mechanische scheiding van de door vergisting verkregen digestaat van uitsluitend plantaardige stoffen vermeld onder categorie 1 (dunne fractie uit digestaat van plantaardige covergistingsmaterialen).  |
-| Categorie 4.  | Niet verpompbaar product dat verkregen is na mechanische scheiding van de door vergisting verkregen digestaat van uitsluitend plantaardige stoffen vermeld categorie onder 1 (dikke fractie uit digestaat van plantaardige covergistingsmaterialen).  |
+| Categorie 2.  | Product dat verkregen is door vergisting van uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met F onder categorie 1 (digestaat van plantaardige covergistingsmaterialen).  |
+| Categorie 3.  | Verpompbaar product dat verkregen is na mechanische scheiding van de door vergisting verkregen digestaat van uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met F onder categorie 1 (dunne fractie uit digestaat van plantaardige covergistingsmaterialen).  |
+| Categorie 4.  | Niet verpompbaar product dat verkregen is na mechanische scheiding van de door vergisting verkregen digestaat van uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met F onder categorie 1 (dikke fractie uit digestaat van plantaardige covergistingsmaterialen).  |
 
 ### bijlage  Ab  
 

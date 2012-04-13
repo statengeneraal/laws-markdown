@@ -285,11 +285,29 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | A Bewijsstuk van Vakbekwaamheid als bedoeld in artikel 5, derde lid, van de Wab, juncto [artikel 33, eerste lid, en artikel 4, eerste lid, onderdeel a, van de Wabb](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md)  | SER  | basismodule, levensverzekeringen, schadeverzekeringen  |
 | EG-verklaring ex art. 2, lid 1, letter a. inzake het assurantiebemiddelingsbedrijf  | SER  | Basismodule,  Schadeverzekeringen,  Levensverzekeringen  |
 | EG-verklaring ex art. 2, lid 1, letter b. inzake volmachtbedrijf  | SER  | Basismodule,  Schadeverzekeringen,  Levensverzekeringen,  Gevolmachtigd Agent  |
+| Post HBO persoonlijke financiële planning  | St. Persoonlijke Financiën Hogeschool Windesheim  | basismodule, hypothecair krediet, consumptief krediet, levensverzekeringen, beleggen  |
 | Inleiding Verzekeringsbedrijf  | Stichting Assurantie Cursussen (SAVA)  | Basismodule  |
 | Management, Economie en Recht, afstudeerrichting Financieel Management  | Stichting Hogeschool Haarlem  | Basismodule, Hypothecair krediet, Consumptief krediet, Schadeverzekeringen, Levensverzekeringen, Beleggen  |
+| MBO sector Economie Afdeling Administratie; lange opleiding Commerciële Dienstverlening; differentiatie Commercieel medewerker bank- en verzekeringswezen  | Threant College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
 | Master of Financial Planning  | TIAS Business School  | basismodule, hypothecair krediet, consumptief krediet, levensverzekeringen, beleggen  |
 | MEAO Commerciële studierichting met tenminste het vak Assurantie  | Titus College  |  *Basismodule,*    *Schadeverzekeringen en*    *Levensverzekeringen*   |
+| MBO Sector Economie; Afdeling Administratie Lange opleiding Commerciële Dienstverlening met (keuze)vakken Bank- en verzekeringswezen en Assurantie  | Titus College  | Basismodule, Consumptief Krediet, Schadeverzekeringen en Levensverzekeringen  |
+| MBO Sector Economie; Afdeling Administratie Lange opleiding Commerciële Dienstverlening; met de vakken Persoonlijke en Maatschappelijke beroepsvorming/ Bank- en Verzekeringswezen  | Titus College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
+| Universitair diploma: Bedrijfskunde  | Universiteit Groningen  | Basismodule  |
+| Nederlands Recht, hoofdrichting Privaatrecht met tenminste het (keuze)vak Verzekeringsrecht  | Universiteit Groningen  | Basismodule,  Schadeverzekeringen  |
+| Nederlands Recht, hoofdrichting Bedrijfsrecht met tenminste het vak Verzekeringsrecht  | Universiteit Groningen  | Basismodule,  Schadeverzekeringen  |
+| Doctoraal Economie  | Universiteit Groningen  | Basismodule  |
+| Bedrijfseconomie; Bedrijfseconomie, w.o. beleggingsleer  | Universiteit Maastricht  | basismodule, beleggen  |
+| Algemene Economie (w.o. ondernemingsfinanciering)  | Universiteit van Tilburg-TIAS Business School  | basismodule, beleggen  |
+| Master of Financial Economics (MFE)  | Universiteit van Tilburg – TIAS Business School  | Basismodule, Consumptief Krediet  |
+| MBO, Sector Economie, Afdeling: Administratie, Lange opleiding: Commerciële Dienstverlening, met tenminste het (keuze)vak: Bank-en Verzekeringswezen  | Van Rhijn College  | Basismodule, Consumptief krediet, Schadeverzekeringen  |
 | Doctoraal Economie met tenminste de (keuze)vakken Computer boekhouden, Financial & Management Accounting, Financiële Rekenkunde, Financiering I en II, Geld- en bankwezen en Economie van de collectieve sector, Inleiding recht en Voortgezet boekhouden  | Vrije Universiteit  |  *Consumptief Krediet*   |
+| Doctoraal Examen Economie, afstudeerrichting financiële economie  | Vrije Universiteit  | Basismodule, Beleggen  |
+| Economie, afstudeerrichting Vrij doctoraal met tenminste de vakken ‘Geld- en bankwezen en Economie van de collectieve sector’ en ‘Risico en Verzekering’  | Vrije Universiteit  | Basismodule  |
+| Financiële planner  | Zwitserleven/IFK  | basismodule, beleggen  |
+
+| Naam diploma  | Naam instelling  | Vakbekwaamheidsmodule  |
+|:---|:---|:---|
 |  *Combinaties diploma’s*   | --- | --- |
 | Verzekeringsleer 1 +  | NIBE/NIBE-SVV  | basismodule, schadeverzekeringen  |
 | Verzekeringsleer 2  | NIBE/NIBE-SVV  |
@@ -332,19 +350,4 @@ In deze bijlage wordt onder ‘beleggen’ verstaan:
 | --- | --- |
 | Pensioenpraktijk 1 +  | SEA/SEFD  | basismodule, levensverzekeringen  |
 | Pensioenpraktijk 2  | SEA/SEFD  |
-| Post HBO persoonlijke financiële planning  | St. Persoonlijke Financiën Hogeschool Windesheim  | basismodule, hypothecair krediet, consumptief krediet, levensverzekeringen, beleggen  |
-| MBO sector Economie Afdeling Administratie; lange opleiding Commerciële Dienstverlening; differentiatie Commercieel medewerker bank- en verzekeringswezen  | Threant College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
-| MBO Sector Economie; Afdeling Administratie Lange opleiding Commerciële Dienstverlening met (keuze)vakken Bank- en verzekeringswezen en Assurantie  | Titus College  | Basismodule, Consumptief Krediet, Schadeverzekeringen en Levensverzekeringen  |
-| MBO Sector Economie; Afdeling Administratie Lange opleiding Commerciële Dienstverlening; met de vakken Persoonlijke en Maatschappelijke beroepsvorming/ Bank- en Verzekeringswezen  | Titus College  | Basismodule, Consumptief Krediet, Schadeverzekeringen  |
-| Universitair diploma: Bedrijfskunde  | Universiteit Groningen  | Basismodule  |
-| Nederlands Recht, hoofdrichting Privaatrecht met tenminste het (keuze)vak Verzekeringsrecht  | Universiteit Groningen  | Basismodule,  Schadeverzekeringen  |
-| Nederlands Recht, hoofdrichting Bedrijfsrecht met tenminste het vak Verzekeringsrecht  | Universiteit Groningen  | Basismodule,  Schadeverzekeringen  |
-| Doctoraal Economie  | Universiteit Groningen  | Basismodule  |
-| Bedrijfseconomie; Bedrijfseconomie, w.o. beleggingsleer  | Universiteit Maastricht  | basismodule, beleggen  |
-| Algemene Economie (w.o. ondernemingsfinanciering)  | Universiteit van Tilburg-TIAS Business School  | basismodule, beleggen  |
-| Master of Financial Economics (MFE)  | Universiteit van Tilburg – TIAS Business School  | Basismodule, Consumptief Krediet  |
-| MBO, Sector Economie, Afdeling: Administratie, Lange opleiding: Commerciële Dienstverlening, met tenminste het (keuze)vak: Bank-en Verzekeringswezen  | Van Rhijn College  | Basismodule, Consumptief krediet, Schadeverzekeringen  |
-| Doctoraal Examen Economie, afstudeerrichting financiële economie  | Vrije Universiteit  | Basismodule, Beleggen  |
-| Economie, afstudeerrichting Vrij doctoraal met tenminste de vakken ‘Geld- en bankwezen en Economie van de collectieve sector’ en ‘Risico en Verzekering’  | Vrije Universiteit  | Basismodule  |
-| Financiële planner  | Zwitserleven/IFK  | basismodule, beleggen  |
 
