@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 14 mei 2008 houdende regels ter zake van de erkenning van fokprogramma's, gericht op terugdringing TSE-gevoeligheid bij schapen, en, in het geval wordt deelgenomen aan een overeenkomstig deze verordening erkend fokprogramma, regels terzake van de erkenning van een bepaalde TSE-resistente status van het bedrijf, de daarmee samenhangende bedrijfscertificering en regels terzake van een te verkrijgen tegemoetkoming in de kosten (Verordening fokken op terugdringing TSE-gevoeligheid bij schapen (PVV) 2008)
 
 Het bestuur van het Productschap Vee en Vlees,  
-Gelet op de [artikelen 17](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [22](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [55](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [108 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [artikel 99 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) (Stcrt. 2005, 120), als gewijzigd bij de Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit, TRCJZ/2008/1342, houdende wijziging van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten zoönosen en TSE’s in verband met vorderen medebewind PVV, de [artikelen 13](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [15](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [23 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en de [artikelen 96](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 17, 22, 55 en 108 van de Gezondheids- en welzijnswet voor dieren, artikel 99 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s (Stcrt. 2005, 120), als gewijzigd bij de Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit, TRCJZ/2008/1342, houdende wijziging van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten zoönosen en TSE’s in verband met vorderen medebewind PVV, de artikelen 13, 15 en 23 van de Landbouwwet en de artikelen 96, 97, 98, 100, derde lid, en 104 van de Wet op de bedrijfsorganisatie;
 
 Gelet op Verordening (EG) nr. 999/2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encephalopathieën (Pb L 147);
 
@@ -24,19 +24,20 @@ Besluit:
 1.  In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | productschap:  | het Productschap Vee en Vlees;  |
 | b.  | bestuur:  | het bestuur van het productschap;  |
 | c.  | voorzitter:  | de voorzitter van het productschap;  |
 | d.  | Verordening (EG) nr. 999/2001:  | Verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encephalopathieën (Pb L 147);  |
 | e.  | Beschikking 2007/782/EG:  | Beschikking van de Commissie van 30 november 2007 tot goedkeuring van de door de lidstaten voor 2008 en volgende jaren ingediende nationale jaarlijkse en meerjarenprogramma’s en van de financiële bijdrage van de Gemeenschap voor de uitroeiing, bestrijding en bewaking van bepaalde dierziekten en zoönosen (Pb L 314);  |
 | f.  | fokprogramma:  | het fokprogramma als bedoeld in Verordening (EG) nr. 999/2001, in het bijzonder artikel 6 bis;  |
-| g.  | erkende instelling:  | een krachtens het [Fokkerijbesluit](../../../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md) (Stb. 1994, 696) erkende organisatie die één of meer stamboeken of registers van schapen bijhoudt;  |
+| g.  | erkende instelling:  | een krachtens het Fokkerijbesluit (Stb. 1994, 696) erkende organisatie die één of meer stamboeken of registers van schapen bijhoudt;  |
 | h.  | fokkerijvereniging:  | een groep houders van schapen, niet aangesloten bij een erkende instelling, verenigd in een organisatie met rechtspersoonlijkheid en die zich ten minste ten doel stelt het fokken gericht op het terugdringen van de TSE-gevoeligheid bij schapen;  |
 | i.  | deelnemer:  | een houder van schapen die participeert in een erkend fokprogramma;  |
 | j.  | erkend laboratorium:  | een laboratorium dat is erkend op grond van de Regeling erkenning en aanwijzing veterinaire laboratoria (houdende een erkenningensystematiek en aanwijzing van laboratoria op veterinair terrein) (Stcrt. 2006, 37);  |
 | k.  | genotyperingstest:  | een bij een erkend laboratorium uitgevoerde analyse van bloed- of weefselmonsters ter bepaling van de aminozuren op, in ieder geval, de codons 136, 154, en 171 van het PrP gen van beide allelen;  |
 | l.  | bedrijfscertificaat:  | een certificaat ter bevestiging van een erkende TSE-resistente status van bepaalde koppels schapen, als bedoeld in bijlage VII, Hoofdstuk B, Deel 3, onder 1, Verordening (EG) nr. 999/2001.  |
+| m.  | Richtlijn 2009/470/EG:  | Richtlijn van de Raad van 25 mei 2009 betreffende bepaalde uitgaven op veterinair gebied (PB L 155)  |
 
 2.  De Gezondheidsdienst voor Dieren b.v., gevestigd te Deventer, wordt voor de toepassing van de artikelen 16 en 17 gelijkgesteld aan een erkend laboratorium, zoals bedoeld in het eerste lid, onder j..   
 
@@ -164,7 +165,7 @@ d. het fokprogramma waarvan de erkende instelling of fokkerijvereniging erkennin
 De erkenning kan worden verleend voor de volgende typen bedrijven van deelnemers:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | Niveau I:  | alle schapen op het bedrijf van de deelnemer hebben genotype ARR/ARR;  |
 | b.  | Niveau II:  | alle voor de fok of vermeerdering gebruikte rammen op het bedrijf van de deelnemer hebben genotype ARR/ARR;  |
 | c.  | Niveau III:  | op het bedrijf van de deelnemer zijn geen schapen aanwezig met een VRQ-allel;  |
@@ -194,14 +195,14 @@ De erkenning kan worden verleend voor de volgende typen bedrijven van deelnemers
 
 ### Artikel  17  
 
-1.  De tegemoetkoming bedraagt 50% van de door het erkende laboratorium voor de genotyperingstest in rekening gebrachte kosten, met een maximum van € 10,00 per genotyperingstest.   
+1.  De tegemoetkoming bedraagt de door het erkende laboratorium voor de genotyperingstest in rekening gebrachte kosten, met een maximum van het jaarlijks op grond van artikel 27, vijfde lid, onder b), van Richtlijn 2009/470/EG vastgestelde bedrag.   
 2.  Het subsidieplafond wordt door het bestuur bij besluit vastgesteld telkens na de jaarlijkse vaststelling van de financiële bijdrage van de Gemeenschap op grond van artikel 24, vijfde lid, van Beschikking 90/424/EEG van de Raad van 26 juni 1990 betreffende uitgaven op veterinair gebied. Indien de hoogte van de financiële bijdrage van de Commissie wordt gewijzigd, kan het bestuur bij besluit het eerder vastgestelde subsidieplafond wijzigen. De hiervoor bedoelde besluiten worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 3.  De tegemoetkoming wordt op volgorde van aanvraag verstrekt tot het plafond, als bedoeld in het tweede lid, is bereikt.   
 
 ### Artikel  18  
 
 1.  De tegemoetkoming wordt door de voorzitter ingetrokken indien niet wordt voldaan aan het bepaalde in artikel 16.   
-2.  Indien de tegemoetkoming door de voorzitter wordt ingetrokken of ten nadele van de deelnemer wordt gewijzigd overeenkomstig [artikel 4:48](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk [4:49 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kunnen de verstrekte bedragen overeenkomstig [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.   
+2.  Indien de tegemoetkoming door de voorzitter wordt ingetrokken of ten nadele van de deelnemer wordt gewijzigd overeenkomstig artikel 4:48 onderscheidenlijk 4:49 van de Algemene wet bestuursrecht, kunnen de verstrekte bedragen overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.   
 3.  De te betalen rente is de wettelijke rente zoals deze geldt op de laatste dag van de maand waarin de betaling van de tegemoetkoming heeft plaatsgevonden.   
 4.  Geen wettelijke rente is verschuldigd indien de oorzaak van het onverschuldigd betalen bij de voorzitter is gelegen.   
 
@@ -226,7 +227,7 @@ Een in een andere lidstaat van de Europese Unie op voet van Verordening (EG) nr.
 
 ### Artikel  21  
 
-Een op grond van het [Besluit certificeren van TSE-ongevoelige schapen (PVV) 2006](../../../../../../../../../../../pbo/besluit/certificeren/van/tse-ongevoelige/schapen/(pvv)/2006/BWBR0019797/README.md) afgegeven certificaat, wordt aangemerkt als een certificering als bedoeld in artikel 7.  
+Een op grond van het Besluit certificeren van TSE-ongevoelige schapen (PVV) 2006 afgegeven certificaat, wordt aangemerkt als een certificering als bedoeld in artikel 7.  
 
 ### Artikel  22  
 
