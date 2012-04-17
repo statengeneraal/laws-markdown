@@ -20,9 +20,9 @@ Commuun
 
 ####Wettekst
 
-–  [Wetboek van Strafrecht art. 310](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   
+–  Wetboek van Strafrecht art. 310   
 
-–  [Wetboek van Strafrecht art. 311](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)       
+–  Wetboek van Strafrecht art. 311       
 
 ####Basisdelict
 
@@ -34,7 +34,7 @@ Dit basisdelict ziet op de diefstal van een vrachtwagen/trekker en/of aanhanger/
 
 ####Toepasselijk kader
 
-Commuun en verkeer    
+Aanwijzing Kader voor strafvordering    
 
 ####Basispunten
 
@@ -49,7 +49,7 @@ Indien van toepassing: afhankelijk van beleid van het parket
 Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | – Schijf 1: € 0 t/m € 1200  | bedrag gedeeld door 50 pt  |
 | – Schijf 2: het gedeelte tussen € 1200 en € 5000  | bedrag gedeeld door 250 pt  |
 | – Schijf 3: het gedeelte boven € 5000  | bedrag gedeeld door 500 pt  |
@@ -79,7 +79,7 @@ Medeplichtigheid
 Mate van recidive (5 jaar) 
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | – Geen recidive  | +0 %  | --- |
 | – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
 | – 1 maal binnen 2-5 jaar  | +50 %  | --- |
@@ -90,6 +90,17 @@ Mate van recidive (5 jaar)
 ####Draagkracht
 
 Geen    
+
+####Maatwerk
+
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr.  Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|---|---|---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | (CKT)  |
+
+*(CKT) + contra-indicatie kale taakstraf*     
 
 ####Speciale regelingen
 
@@ -109,7 +120,7 @@ Dit basisdelict heeft betrekking op de diefstal van een bestel- of personenauto 
 
 ####Toepasselijk kader
 
-Commuun en verkeer    
+Aanwijzing Kader voor strafvordering    
 
 ####Basispunten
 
@@ -117,13 +128,13 @@ Commuun en verkeer
 
 ####Basisfactoren
 
-Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden: : 
+Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden 
 
-– Schijf 1: f 0 t/m f 2600: bedrag gedeeld door 100 pt  
-
-– Schijf 2: het gedeelte tussen f 2600 en f 10000: bedrag gedeeld door 500 pt  
-
-– Schijf 3: het gedeelte boven f 10000: bedrag gedeeld door 1000 pt      
+| --- | --- |
+|---|---|
+| – Schijf 1: € 0 t/m € 1200  | bedrag gedeeld door 50 pt  |
+| – Schijf 2: het gedeelte tussen € 1200 en € 5000  | bedrag gedeeld door 250 pt  |
+| – Schijf 3: het gedeelte boven € 5000  | bedrag gedeeld door 500 pt  |
 
 ####Delictspecifieke factoren
 
@@ -147,22 +158,35 @@ Medeplichtigheid
 
 ####Recidiveregeling
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| • Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+| --- | --- | --- |
+|---|---|---|
+| • Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  | (NH)  |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  | (DV,NH)  |
+
+(NH) + naast hogere sanctie (DV) + dagvaarden    
 
 ####Draagkracht
 
 Geen    
 
+####Maatwerk
+
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr.  Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|---|---|---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | (CKT)  |
+
+*(CKT) + contra-indicatie kale taakstraf*     
+
 ####Speciale regelingen
 
-– Schaderegeling    
+Geen    
 
 ####Bijzonderheden
 
@@ -178,7 +202,7 @@ De diefstal van een lichte aanhangwagen, zoals bedoeld achter een personenauto o
 
 ####Toepasselijk kader
 
-Commuun en verkeer    
+Aanwijzing Kader voor strafvordering    
 
 ####Basispunten
 
@@ -186,13 +210,13 @@ Commuun en verkeer
 
 ####Basisfactoren
 
-Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden: : 
+Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden 
 
-– Schijf 1: f 0 t/m f 2600: bedrag gedeeld door 100 pt  
-
-– Schijf 2: het gedeelte tussen f 2600 en f 10000: bedrag gedeeld door 500 pt  
-
-– Schijf 3: het gedeelte boven f 10000: bedrag gedeeld door 1000 pt      
+| --- | --- |
+|---|---|
+| – Schijf 1: € 0 t/m € 1200  | bedrag gedeeld door 50 pt  |
+| – Schijf 2: het gedeelte tussen € 1200 en € 5000  | bedrag gedeeld door 250 pt  |
+| – Schijf 3: het gedeelte boven € 5000  | bedrag gedeeld door 500 pt  |
 
 ####Delictspecifieke factoren
 
@@ -216,22 +240,35 @@ Medeplichtigheid
 
 ####Recidiveregeling
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| • Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+| --- | --- | --- |
+|---|---|---|
+| • Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  | (NH)  |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  | (DV,NH)  |
+
+(NH) + naast hogere sanctie (DV) + dagvaarden    
 
 ####Draagkracht
 
 Geen    
 
+####Maatwerk
+
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr.  Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|---|---|---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | (CKT)  |
+
+*(CKT) + contra-indicatie kale taakstraf*     
+
 ####Speciale regelingen
 
-Schaderegeling    
+Geen    
 
 ####Bijzonderheden
 

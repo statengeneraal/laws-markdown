@@ -17,18 +17,18 @@ HEBBEN GOEDGEVONDEN EN VERSTAAN:
 
 In dit besluit wordt verstaan onder: 
 
-a. verordening (EG) 258/97: verordening (EG) nr. 258/97 van het Europees Parlement en de Raad van de Europese Unie van 27 januari 1997 betreffende nieuwe voedingsmiddelen en nieuwe voedselingrediënten (PbEG L 43);  
+a.  verordening (EG) 258/97: verordening (EG) nr. 258/97 van het Europees Parlement en de Raad van de Europese Unie van 27 januari 1997 betreffende nieuwe voedingsmiddelen en nieuwe voedselingrediënten (PbEG L 43);  
 
-b.   verordening (EG) 1829/2003: verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van de Europese Unie van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEU L 268);  
+b.  verordening (EG) 1829/2003: verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van de Europese Unie van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEU L 268);  
 
-c.   verordening (EG) 1830/2003: verordening (EG) nr. 1830/2003 van het Europees Parlement en de Raad van de Europese Unie van 22 september 2003 (PbEU L 268) betreffende de traceerbaarheid en etikettering van genetisch gemodificeerde organismen en de traceerbaarheid van met genetisch gemodificeerde organismen geproduceerde levensmiddelen en diervoeders en tot wijziging van richtlijn 2001/18/EG.    
+c.  verordening (EG) 1830/2003: verordening (EG) nr. 1830/2003 van het Europees Parlement en de Raad van de Europese Unie van 22 september 2003 (PbEU L 268) betreffende de traceerbaarheid en etikettering van genetisch gemodificeerde organismen en de traceerbaarheid van met genetisch gemodificeerde organismen geproduceerde levensmiddelen en diervoeders en tot wijziging van richtlijn 2001/18/EG.   
 
 ### Artikel  2  
 
 1.  Het is verboden te handelen in strijd met artikel 3 van verordening (EG) 258/97.   
 2.  Het is verboden te handelen in strijd met artikel 4, tweede lid, artikel 9, eerste en derde lid, artikel 13, en artikel 31, van verordening (EG) 1829/2003.   
 3.  Het is verboden eet- of drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen of voorstellingen betreffende de samenstelling van de waar en de wijze waarop de waar is bereid of behandeld.   
-4.  Het is verboden te handelen in strijd met artikel 4, eerste, tweede, vierde en zesde lid, en artikel 5, eerste en tweede lid, van verordening (EG) 1830/2003.   
+4.  Het is verboden te handelen in strijd met artikel 4, eerste, tweede, vierde en zesde lid, en artikel 5, eerste en tweede lid, van verordening (EG) 1830/2003. 
 
 ### Artikel  3  
 
@@ -39,7 +39,7 @@ a. het advies, bedoeld in artikel 3, vierde lid, van verordening (EG) 258/97;
 
 b. het verslag, bedoeld in artikel 6, derde lid, van verordening (EG) 258/97.     
 3.  De tarieven van de retributies, bedoeld in het tweede lid, worden vastgesteld bij regeling van Onze Minister.   
-4.  De bevoegde instantie, bedoeld in hoofdstuk II van verordening (EG) 1829/2003, is Onze Minister.   
+4.  De bevoegde instantie, bedoeld in hoofdstuk II van verordening (EG) 1829/2003, is Onze Minister.  
 
 ### Artikel  3a  
 
@@ -59,7 +59,7 @@ c. niet afkomstig zijn van dieren die: gevoederd zijn met genetisch gemodificeer
 
 a. bereid is zonder gentechniek; of  
 
-b. geen voedingsmiddel of voedselingrediënt is zoals bedoeld in artikel 1, tweede lid, onder c, van verordening (EG) 258/97.     
+b. geen voedingsmiddel of voedselingrediënt is zoals bedoeld in artikel 1, tweede lid, onder c, van verordening (EG) 258/97.    
 
 ### Artikel  4  
 
@@ -67,13 +67,13 @@ Dit besluit treedt in werking met ingang van 16 mei 1997.
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit Nieuwe voedingsmiddelen.  
+Dit besluit wordt aangehaald als: Warenwetbesluit Nieuwe voedingsmiddelen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
 29 april 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
 E. G. Terpstra   
@@ -81,4 +81,4 @@ E. G. Terpstra
 de *vijftiende* mei 1997 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

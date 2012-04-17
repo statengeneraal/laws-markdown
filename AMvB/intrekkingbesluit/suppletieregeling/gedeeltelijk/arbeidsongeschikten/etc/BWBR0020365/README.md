@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk.   
+Wijzigt de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk. 
 
 ### Artikel  II  
 
-De [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk](../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md) wordt ingetrokken met dien verstande dat: 
+De [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk](../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md) wordt ingetrokken met dien verstande dat:
 
-a. ten aanzien van de betrokkene van wie het ontslag is ingegaan vóór 1 januari 2006, de bepalingen van deze regeling en de daarop gebaseerde uitvoeringsvoorschriften van toepassing blijven zoals deze luidden op 29 december 2005;  
+a.ten aanzien van de betrokkene van wie het ontslag is ingegaan vóór 1 januari 2006, de bepalingen van deze regeling en de daarop gebaseerde uitvoeringsvoorschriften van toepassing blijven zoals deze luidden op 29 december 2005;
 
-b. ten aanzien van de betrokkene van wie het ontslag is ingegaan in de periode 1 januari 2006 tot en met 31 december 2006, de bepalingen van deze regeling en de daarop gebaseerde uitvoeringsvoorschriften van toepassing blijven zoals deze luidden op 31 december 2006.    
+b.ten aanzien van de betrokkene van wie het ontslag is ingegaan in de periode 1 januari 2006 tot en met 31 december 2006, de bepalingen van deze regeling en de daarop gebaseerde uitvoeringsvoorschriften van toepassing blijven zoals deze luidden op 31 december 2006.
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 januari 2007 met dien verstande dat artikel I, onderdeel A, terugwerkt tot en met 1 januari 2006 en de onderdelen B en C tot en met 29 december 2005.  
+Dit besluit treedt in werking met ingang van 1 januari 2007 met dien verstande dat artikel I, onderdeel A, terugwerkt tot en met 1 januari 2006 en de onderdelen B en C tot en met 29 december 2005. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 28 september 2006  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J. W.Remkes 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
+J. W. Remkes   
 
 de *twaalfde* oktober 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

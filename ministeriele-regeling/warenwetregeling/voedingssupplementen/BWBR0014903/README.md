@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Warenwetregeling voedingssupplementen
+##Warenwetregeling voedingssupplementen 
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op artikel 3, eerste en tweede lid, en artikel 7, vierde lid, van het Warenwetbesluit voedingssupplementen;
-Besluit:    
+Gelet op [artikel 3, eerste en tweede lid](../../../../AMvB/warenwetbesluit/voedingssupplementen/BWBR0014814/README.md), en [artikel 7, vierde lid, van het Warenwetbesluit voedingssupplementen](../../../../AMvB/warenwetbesluit/voedingssupplementen/BWBR0014814/README.md);
+Besluit:     
 
 ### Artikel  1  
 
@@ -15,15 +15,15 @@ a. tot hoofddoel hebben het leveren van vitamine A of vitamine D, waarbij daarna
 
 b. in de handel worden gebracht in de vorm van een tablet, capsule, druppelvloeistof of andere zeer kleine hoeveelheden vloeistof, of een zeer kleine hoeveelheid poeder; en  
 
-c. geen geneesmiddel zijn in de zin van artikel 1 van de Geneesmiddelenwet.     
+c. geen geneesmiddel zijn in de zin van [artikel 1 van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md).   
 
 ### Artikel  2  
 
-De vermelding van vitaminen en mineralen, bedoeld in artikel 7, eerste lid, onder a, van het Warenwetbesluit voedingssupplementen, geschiedt met gebruikmaking van de in bijlage I bij richtlijn 2002/46/EG gespecificeerde eenheden.  
+De vermelding van vitaminen en mineralen, bedoeld in [artikel 7, eerste lid, onder a, van het Warenwetbesluit voedingssupplementen](../../../../AMvB/warenwetbesluit/voedingssupplementen/BWBR0014814/README.md), geschiedt met gebruikmaking van de in bijlage I bij richtlijn 2002/46/EG gespecificeerde eenheden.  
 
 ### Artikel  2a  
 
-Een wijziging van bijlage I of bijlage II bij richtlijn 2002/46/EG gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.  
+Een wijziging van bijlage I of bijlage II bij richtlijn 2002/46/EG gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven. 
 
 ### Artikel  3  
 
@@ -31,9 +31,9 @@ Deze regeling treedt in werking met ingang van 2 april 2003.
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Warenwetregeling voedingssupplementen.  
+Deze regeling wordt aangehaald als: Warenwetregeling voedingssupplementen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.Ross-van Dorp    
+Staatssecretaris van Volksgezondheid, Welzijn en Sport,
+C.  Ross-van Dorp      

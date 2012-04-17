@@ -15,44 +15,44 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Uitvoeringsbesluit loonbelasting 1965.   
+Wijzigt het Uitvoeringsbesluit loonbelasting 1965. 
 
 ### Artikel  II  
 
-Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.   
+Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit beleggingsinstellingen.   
+Wijzigt het Besluit beleggingsinstellingen.
 
 ### Artikel  IV  
 
-Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.   
+Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
 ### Artikel  V  
 
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.   
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ### Artikel  VI  
 
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.   
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ### Artikel  VII  
 
-Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.   
+Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit voorkoming dubbele belasting 2001.   
+Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
 ### Artikel  IX  
 
-De wijziging ingevolge artikel III vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2008.  
+De wijziging ingevolge artikel III vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2008. 
 
 ### Artikel  X  
 
 1.  Dit besluit treedt in werking met ingang van 1 januari 2008 met uitzondering van artikel V, onderdeel C, dat met ingang van 1 januari 2009 in werking treedt.   
-2.  Artikel VIII, onderdelen A, C, D en E, werkt terug tot en met 1 januari 2007.   
+2.  Artikel VIII, onderdelen A, C, D en E, werkt terug tot en met 1 januari 2007.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -60,10 +60,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 20 december 2007  
 Beatrix  
 
-De Staatssecretaris van Financiën, 
-J. C. deJager 
+De Staatssecretaris van Financiën , 
+J. C. de Jager   
 
 de *achtentwintigste* december 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.   
+Wijzigt het Besluit rechtspositie rechterlijke ambtenaren. 
 
 ### Artikel  II  
 
-Wijzigt het Wijzigingsbesluit Besluit rechtspositie rechterlijke ambtenaren (bovenwettelijke regeling ziekte en arbeidsongeschiktheid sector rechterlijke macht).   
+Wijzigt het Wijzigingsbesluit Besluit rechtspositie rechterlijke ambtenaren (bovenwettelijke regeling ziekte en arbeidsongeschiktheid Sector rechterlijke macht). 
 
 ### Artikel  III  
 
@@ -30,7 +30,7 @@ a. zij elkaar met een onderbreking van minder dan vier weken opvolgen; of
 
 b. de ene periode van ongeschiktheid direct voorafgaat aan en de andere periode van ongeschiktheid direct aansluit op een tijdvak waarin zwangerschaps- en bevallingsverlof als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) wordt genoten dan wel bezoldiging op basis van [artikel 26, eerste tot en met vierde lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) wordt ontvangen, en de ongeschiktheid in deze perioden redelijkerwijs geacht kan worden voort te vloeien uit dezelfde oorzaak.     
 3.  Een rechterlijk ambtenaar, rechterlijk ambtenaar in opleiding, gewezen rechterlijk ambtenaar of gewezen rechterlijk ambtenaar in opleiding wordt geacht een aanvraag als bedoeld in [artikel 17, vierde lid](../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [18, derde en vierde lid](../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), of [19, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) te hebben ingediend, indien de eerste dag van de ongeschiktheid tot het verrichten van arbeid wegens ziekte, veroorzaakt door een dienstongeval of een door het verrichten van zijn arbeid opgelopen beroepsziekte, is gelegen in de periode van 1 januari 2004 tot en met 31 maart 2006.   
-4.  [Artikel 27b van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) is niet van toepassing ten aanzien van dienstongevallen en beroepsziekten die zich vóór 1 april 2006 hebben voorgedaan.   
+4.  [Artikel 27b van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) is niet van toepassing ten aanzien van dienstongevallen en beroepsziekten die zich vóór 1 april 2006 hebben voorgedaan.  
 
 ### Artikel  IV  
 
@@ -44,7 +44,7 @@ c. wat artikel I, onderdeel BB, onder b, betreft: tot en met 27 april 2005;
 
 d. wat artikel I, onderdelen G en I, onder a, betreft: tot en met 1 september 2005; en  
 
-e. wat artikel I, onderdelen Y en HH, betreft: tot en met 1 januari 2006.    
+e. wat artikel I, onderdelen Y en HH, betreft: tot en met 1 januari 2006.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

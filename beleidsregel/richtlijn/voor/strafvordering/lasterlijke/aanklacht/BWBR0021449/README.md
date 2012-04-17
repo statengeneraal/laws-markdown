@@ -27,10 +27,13 @@ Commuun
 Lasterlijke aanklacht, zoals bedoeld in [art. 268 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). 
 ###Toepasselijk kader
 
-Commuun en verkeer 
+Aanwijzing Kader voor strafvordering 
 ###Basispunten
 
 20 punten 
+###Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket 
 ###Basisfactoren
 
 Toepassing dwangmiddelen  
@@ -49,22 +52,15 @@ Medeplegen
 | – Er is geen sprake van medeplegen  | +0 %  |
 | – Er is sprake van medeplegen  | +25 %  |
 
-Agressie in het verkeer  
-
-| --- | --- |
-|:---|:---|
-| – Er is geen sprake van agressie naar aanleiding van een verkeerssituatie  | +0 %  |
-| – Er is sprake van agressie naar aanleiding van een verkeerssituatie  | +25%  |
-
-Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert. 
 ###Discriminatoire aspecten
 
-| --- | --- |
-|:---|:---|
-| – Geen sprake van discriminatoire aspecten  | +0 %  |
-| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
-| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen sprake van discriminatoire aspecten  | +0 %  | --- |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  | --- |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  |  *(DV, TS)*   |
 
+*(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*  
 ###Wettelijke factoren
 
 Medeplichtigheid  
@@ -83,20 +79,32 @@ Medeplichtigheid
 
 ###Recidiveregeling
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| – Geen recidive  | +0 %  |
-| – 1 maal  | +50 %  |
-| – Meermalen  | +100 %  +dagvaarden  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  |  *(DV, NH)*   |
 
+*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
 ###Draagkracht
 
 Geen 
+###Maatwerk
+
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+
+*(CKT) + contra-indicatie kale taakstraf*  
 ###Speciale regelingen
 
-– Schaderegeling 
+Geen 
 ###Bijzonderheden
 
 Geen      

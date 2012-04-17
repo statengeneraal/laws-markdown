@@ -11,151 +11,151 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  Ia  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ### Artikel  II  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  IIIA  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.   
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen. 
 
 ### Artikel  V  
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  VI  
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  VII  
 
-Wijzigt de Wet op de dividendbelasting 1965.   
+Wijzigt de Wet op de dividendbelasting 1965. 
 
 ### Artikel  VIIa  
 
-Wijzigt de Successiewet 1956.   
+Wijzigt de Successiewet 1956. 
 
 ### Artikel  VIIb  
 
-Wijzigt de Wet op de kansspelbelasting.   
+Wijzigt de Wet op de kansspelbelasting. 
 
 ### Artikel  VIII  
 
-Wijzigt de Wet op de belastingen van rechtsverkeer.   
+Wijzigt de Wet op de belastingen van rechtsverkeer. 
 
 ### Artikel  IX  
 
-Wijzigt de Wet op de omzetbelasting 1968.   
+Wijzigt de Wet op de omzetbelasting 1968. 
 
 ### Artikel  X  
 
-Wijzigt de Wet op de accijns.   
+Wijzigt de Wet op de accijns. 
 
 ### Artikel  XI  
 
-Wijzigt de Wet op de accijns.   
+Wijzigt de Wet op de accijns. 
 
 ### Artikel  XII  
 
-Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken en van enkele andere producten.   
+Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken en van enkele andere producten. 
 
 ### Artikel  XIII  
 
-Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.   
+Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992. 
 
 ### Artikel  XIV  
 
-Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.   
+Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992. 
 
 ### Artikel  XV  
 
-Wijzigt de Wet belastingen op milieugrondslag.   
+Wijzigt de Wet belastingen op milieugrondslag. 
 
 ### Artikel  XVI  
 
-Wijzigt de Algemene wet inzake rijksbelastingen.   
+Wijzigt de Algemene wet inzake rijksbelastingen. 
 
 ### Artikel  XVII  
 
-Wijzigt de Invorderingswet 1990.   
+Wijzigt de Invorderingswet 1990. 
 
 ### Artikel  XVIII  
 
-Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.   
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen. 
 
 ### Artikel  XIX  
 
-Wijzigt de Wet werk en bijstand.   
+Wijzigt de Wet werk en bijstand. 
 
 ### Artikel  XX  
 
-Wijzigt de Werkloosheidswet.   
+Wijzigt de Werkloosheidswet. 
 
 ### Artikel  XXI  
 
-Wijzigt de Ziektewet.   
+Wijzigt de Ziektewet. 
 
 ### Artikel  XXII  
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.   
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering. 
 
 ### Artikel  XXIIa  
 
-Wijzigt de Wet financiering sociale verzekeringen.   
+Wijzigt de Wet financiering sociale verzekeringen. 
 
 ### Artikel  XXIII  
 
-Wijzigt de Elektriciteitswet 1998.   
+Wijzigt de Elektriciteitswet 1998. 
 
 ### Artikel  XXIV  
 
-Wijzigt de Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz.   
+Wijzigt de Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz. 
 
 ### Artikel  XXV  
 
-Wijzigt het Belastingplan 2004.   
+Wijzigt het Belastingplan 2004. 
 
 ### Artikel  XXVI  
 
-Wijzigt de Wijzigingswet Wet op de internationale bijstandsverlening bij de heffing van belastingen en Wet inkomstenbelasting 2001 (implementatie spaarrenterichtlijn).   
+Wijzigt de Wijzigingswet Wet op de internationale bijstandsverlening bij de heffing van belastingen en Wet inkomstenbelasting 2001 (implementatie spaarrenterichtlijn). 
 
 ### Artikel  XXVII  
 
-Wijzigt het Belastingplan 2005.   
+Wijzigt het Belastingplan 2005. 
 
 ### Artikel  XXVIIa  
 
-Wijzigt de Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005).   
+Wijzigt de Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005). 
 
 ### Artikel  XXVIII  
 
-Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling.   
+Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling. 
 
 ### Artikel  XXVIIIa  
 
-Wijzigt de Wet arbeid en zorg.   
+Wijzigt de Wet arbeid en zorg. 
 
 ### Artikel  XXVIIIb  
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.   
+Wijzigt de Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  XXIX  
 
-Artikel 76, tweede lid, van de Wet op de accijns, zoals dit lid luidde op 31 december 2005, blijft van toepassing op de accijnszegels die overeenkomstig artikel 75 van de Wet op de accijns zijn aangevraagd vóór 1 januari 2006.  
+Artikel 76, tweede lid, van de Wet op de accijns, zoals dit lid luidde op 31 december 2005, blijft van toepassing op de accijnszegels die overeenkomstig artikel 75 van de Wet op de accijns zijn aangevraagd vóór 1 januari 2006. 
 
 ### Artikel  XXX  
 
@@ -164,11 +164,11 @@ Artikel 76, tweede lid, van de Wet op de accijns, zoals dit lid luidde op 31 de
 3.  Artikel XIII, onderdeel A, tweede lid, vindt geen toepassing ten aanzien van personenauto’s die vóór 1 januari 2006 in gebruik waren genomen.   
 4.  Artikel XIV, onderdeel B, vindt geen toepassing ten aanzien van personenauto’s die vóór 1 juli 2006 in gebruik waren genomen.   
 5.  Voor een personenauto die volgens de vermelding in het kentekenregister behoort tot de energie-efficiëntieklasse A vindt het bij artikel XIV, onderdeel C, ingevoegde artikel 9c, tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 geen toepassing indien de auto vóór 1 juli 2006 in gebruik was genomen, met dien verstande dat de belasting nihil bedraagt indien die auto na 31 december 2001 in gebruik was genomen.   
-6.  Voor een personenauto die volgens de vermelding in het kentekenregister behoort tot de energie-efficiëntieklasse B vindt het bij artikel XIV, onderdeel C, ingevoegde artikel 9c, tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 geen toepassing indien de auto vóór 1 januari 2006 in gebruik was genomen.   
+6.  Voor een personenauto die volgens de vermelding in het kentekenregister behoort tot de energie-efficiëntieklasse B vindt het bij artikel XIV, onderdeel C, ingevoegde artikel 9c, tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 geen toepassing indien de auto vóór 1 januari 2006 in gebruik was genomen.  
 
-### Artikel  XXXa  
+###Artikel XXXa 
 
-Wijzigt de Wijzigingswet Gemeentewet, enz. (afschaffing gebruikersdeel OZB op woningen).   
+Wijzigt de Wijzigingswet Gemeentewet, enz. (afschaffing gebruikersdeel OZB op woningen).
 
 ### Artikel  XXXI  
 
@@ -190,19 +190,19 @@ b. door de toepassing van artikel 45c, derde lid, van de Wet op de inkomstenbela
 2. De wijzigingen ingevolge artikel XVII, onderdeel C, tweede lid, vinden voor het eerst toepassing op uitstel van betaling dat is verleend op grond van artikel 25, vijfde, zesde of achtste lid, van de Invorderingswet 1990 of op grond van artikel 25, zevende lid, van die wet, zoals dit lid luidde voor 1 januari 2001, en dit uitstel wordt beëindigd vanwege een handeling of omstandigheid die zich heeft voorgedaan op of na 1 januari 2006.   
 ### *C. Overgangsrecht Wet op de loonbelasting 1964 (beëindiging deelname spaarloonregeling in 2006)* 
 
-Indien voor 1 juli 2006 is gespaard ingevolge een spaarloonregeling als bedoeld in artikel 32 van de Wet op de loonbelasting 1964, kan in afwijking van artikel 19g, vijfde lid, van de Wet op de loonbelasting 1964 in 2006 toch een voorziening ingevolge een levensloopregeling als bedoeld in artikel 19g van die wet worden opgebouwd, indien het ingevolge de spaarloonregeling in 2006 gespaarde bedrag, in afwijking van het in of krachtens artikel 32 van de Wet op de loonbelasting 1964 bepaalde, voor 1 juli 2006 van de spaarloonrekening wordt teruggestort naar de inhoudingsplichtige en deze de terugstorting als loon uitkeert aan de werknemer.  
+Indien voor 1 juli 2006 is gespaard ingevolge een spaarloonregeling als bedoeld in artikel 32 van de Wet op de loonbelasting 1964, kan in afwijking van artikel 19g, vijfde lid, van de Wet op de loonbelasting 1964 in 2006 toch een voorziening ingevolge een levensloopregeling als bedoeld in artikel 19g van die wet worden opgebouwd, indien het ingevolge de spaarloonregeling in 2006 gespaarde bedrag, in afwijking van het in of krachtens artikel 32 van de Wet op de loonbelasting 1964 bepaalde, voor 1 juli 2006 van de spaarloonrekening wordt teruggestort naar de inhoudingsplichtige en deze de terugstorting als loon uitkeert aan de werknemer. 
 
 ### Artikel  XXXII  
 
-Artikel 27a van de Wet op de accijns vindt geen toepassing bij het begin van het kalenderjaar 2006 op de bedragen genoemd in artikel 27, eerste lid, onderdelen a en b, en tweede lid.  
+Artikel 27a van de Wet op de accijns vindt geen toepassing bij het begin van het kalenderjaar 2006 op de bedragen genoemd in artikel 27, eerste lid, onderdelen a en b, en tweede lid. 
 
 ### Artikel  XXXIII  
 
-Bij ministeriële regeling kunnen de bedragen, genoemd in artikel X, onderdeel C, worden gewijzigd indien de uitkomst van de meldingsprocedure als voorzien in artikel 26, tweede lid, eerste alinea, van richtlijn 2003/96/EG van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), daartoe aanleiding geeft.  
+Bij ministeriële regeling kunnen de bedragen, genoemd in artikel X, onderdeel C, worden gewijzigd indien de uitkomst van de meldingsprocedure als voorzien in artikel 26, tweede lid, eerste alinea, van richtlijn 2003/96/EG van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), daartoe aanleiding geeft. 
 
 ### Artikel  XXXIV  
 
-Ingeval de samenloop van wetten die in 2005 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, herstelt Onze Minister van Financiën dat bij ministeriële regeling.  
+Ingeval de samenloop van wetten die in 2005 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, herstelt Onze Minister van Financiën dat bij ministeriële regeling. 
 
 ### Artikel  XXXV  
 
@@ -216,11 +216,11 @@ Ingeval de samenloop van wetten die in 2005 in het Staatsblad zijn of worden gep
 8.  In afwijking van het eerste lid treden artikel XVI, onderdeel A, en artikel XVII, onderdeel A, in werking met ingang van 18 augustus 2006.   
 9.  In afwijking van het eerste lid werkt artikel XV, onderdeel B, terug tot en met 26 september 2004.   
 10.  In afwijking van het eerste lid werkt artikel V, onderdeel G, terug tot en met 16 november 2005 en vindt toepassing met betrekking tot opbrengsten en prijzen die ter beschikking zijn gesteld op of na 16 november 2005.   
-11.  In afwijking van het eerste lid werkt artikel VII, onderdeel C, terug tot en met 16 november 2005 en vindt toepassing met betrekking tot de opbrengst als bedoeld in artikel 2 van de Wet op de dividendbelasting 1965 die ter beschikking is gesteld op of na 16 november 2005.   
+11.  In afwijking van het eerste lid werkt artikel VII, onderdeel C, terug tot en met 16 november 2005 en vindt toepassing met betrekking tot de opbrengst als bedoeld in artikel 2 van de Wet op de dividendbelasting 1965 die ter beschikking is gesteld op of na 16 november 2005.  
 
 ### Artikel  XXXVI  
 
-Deze wet wordt aangehaald als: Belastingplan 2006.  
+Deze wet wordt aangehaald als: Belastingplan 2006. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -228,13 +228,13 @@ Gegeven te ’s-Gravenhage
 15 december 2005  
 Beatrix  
 
-De Staatssecretaris van Financiën , 
+De Staatssecretaris van Financiën ,  
 J. G. Wijn   
 
-De Minister van Financiën , 
+De Minister van Financiën ,  
 G. Zalm   
 
 de *zevenentwintigste* december 2005 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner    
