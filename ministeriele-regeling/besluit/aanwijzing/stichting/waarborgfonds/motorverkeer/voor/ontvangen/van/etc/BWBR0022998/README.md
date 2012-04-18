@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-De Stichting Waarborgfonds Motorverkeer te Rijswijk wordt aangewezen om gegevens uit het rijbewijzenregister te ontvangen ten behoeve van het uitvoeren van de in de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) aan de Stichting Waarborgfonds Motorverkeer opgedragen wettelijke taak.  
+De Stichting Waarborgfonds Motorverkeer te Rijswijk wordt aangewezen om gegevens uit het rijbewijzenregister te ontvangen ten behoeve van het uitvoeren van de in de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) aan de Stichting Waarborgfonds Motorverkeer opgedragen wettelijke taak. 
 
 ### Artikel  2  
 
@@ -18,17 +18,17 @@ a. de geldigheid van een rijbewijs onder opgave van een rijbewijsnummer;
 
 b. naam, adres en woonplaats onder opgave van een rijbewijsnummer, of  
 
-c. het rijbewijsnummer onder opgave van naam, adres en woonplaats.    
+c. het rijbewijsnummer onder opgave van naam, adres en woonplaats.   
 
 ### Artikel  3  
 
-De verstrekking van de gegevens bedoeld in artikel 2 geschiedt op een door de Dienst Wegverkeer en de Stichting Waarborgfonds Motorverkeer in onderling overleg te bepalen wijze.  
+De verstrekking van de gegevens bedoeld in artikel 2 geschiedt op een door de Dienst Wegverkeer en de Stichting Waarborgfonds Motorverkeer in onderling overleg te bepalen wijze. 
 
 ### Artikel  4  
 
-Deze beschikking treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beschikking treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat,
+C.M.P.S. Eurlings     

@@ -13,18 +13,18 @@ Hebben goedgevonden en verstaan:
 
 1.  De beeldenaar van de munten van vijf en tien euro die in 2012 worden uitgegeven ter gelegenheid van 400 jaar betrekkingen Nederland-Turkije is: 
 
-a. op de voorzijde, overeenkomstig onderstaande afbeelding: rondom een naar links gekantelde munt het randschrift «BEATRIX KONINGIN DER NEDERLANDEN», op de gekantelde munt Onze beeltenis en de afbeelding van een bloeiende tulp met in de rand van de gekantelde munt onderin de naam van de ontwerpster «D.S.TUNCA» en in het midden het teken van de Muntmeester   ![249957](http://wetten.overheid.nl/Illustration/249957)
-;   ![249958](http://wetten.overheid.nl/Illustration/249958)
+a. op de voorzijde, overeenkomstig onderstaande afbeelding: rondom een naar links gekantelde munt het randschrift «BEATRIX KONINGIN DER NEDERLANDEN», op de gekantelde munt Onze beeltenis en de afbeelding van een bloeiende tulp met in de rand van de gekantelde munt onderin de naam van de ontwerpster «D.S.TUNCA» en in het midden het teken van de Muntmeester  ![249957](http://wetten.overheid.nl/Illustration/249957)
+;![249958](http://wetten.overheid.nl/Illustration/249958)
 
-b. op de keerzijde, overeenkomstig onderstaande afbeeldingen: rondom een naar rechts gekantelde munt de tekst «2012 NEDERLAND TURKIJE 400 JAAR», op de gekantelde munt een gesloten tulp met daaronder de waardeaanduiding «5 €» respectievelijk «10 €» en links van de tulp een maansikkel en vijfpuntige ster met in de rand van de gekantelde munt onderin de naam van de ontwerpster «D.S.TUNCA» en in het midden het teken van de Munt   ![249959](http://wetten.overheid.nl/Illustration/249959)
-;   ![249960](http://wetten.overheid.nl/Illustration/249960)
+b. op de keerzijde, overeenkomstig onderstaande afbeeldingen: rondom een naar rechts gekantelde munt de tekst «2012 NEDERLAND TURKIJE 400 JAAR», op de gekantelde munt een gesloten tulp met daaronder de waardeaanduiding «5 €» respectievelijk «10 €» en links van de tulp een maansikkel en vijfpuntige ster met in de rand van de gekantelde munt onderin de naam van de ontwerpster «D.S.TUNCA» en in het midden het teken van de Munt  ![249959](http://wetten.overheid.nl/Illustration/249959)
+; ![249960](http://wetten.overheid.nl/Illustration/249960)
 
 2.  De vijf-euromunt heeft een gladde rand en draagt het randschrift «GOD * ZIJ * MET * ONS *».   
-3.  De tien-euromunt heeft een fijngeribbelde rand.   
+3.  De tien-euromunt heeft een fijngeribbelde rand.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.   
 
@@ -32,10 +32,10 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 7 maart 2012  
 Beatrix  
 
-De Minister van Financiën, 
+De Minister van Financiën,  
 J. C. de Jager   
 
 de *zestiende* maart 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

@@ -1155,6 +1155,10 @@ In afwijking van artikel 3.57 kan de verblijfsvergunning onder een beperking ver
 1.  De Europese blauwe kaart wordt verleend met een geldigheidsduur tot drie maanden na afloop van de arbeidsovereenkomst, bedoeld in artikel 3.30b, eerste lid, onder a, maar niet langer dan vier jaar.   
 2.  De verblijfsvergunning op grond van artikel 3.23b wordt verleend voor de duur van het verblijfsrecht van de houder van de Europese blauwe kaart.   
 
+### Artikel  3.59d  
+
+De verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met het zoeken en verrichten van arbeid al dan niet in loondienst, bedoeld in artikel 3.31b, wordt voor ten hoogste één jaar verleend of zoveel langer als de vreemdeling wegens het ontbreken van een verblijfsvergunning geen toegang tot de arbeidsmarkt had. Verlening is mogelijk vanaf de datum van verbreking of ontwrichting van het huwelijk maar niet eerder dan de datum van de aanvraag. De geldigheidsduur ervan wordt niet verlengd.  
+
 ### Artikel  3.60  
 
 In afwijking van artikel 3.57 kan de verblijfsvergunning onder een beperking verband houdend met medische behandeling worden verleend voor vijf jaren, indien de medische behandeling naar verwachting van Onze Minister blijvend aan Nederland is gebonden.  
@@ -3076,7 +3080,8 @@ c. indien hij om redenen van de openbare orde of openbare veiligheid uit Nederla
 
 ### Artikel  8.9  
 
-Aan een vreemdeling als bedoeld in artikel 8.7, tweede, derde of vierde lid, die niet de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, en die beschikt over een geldige verblijfskaart, afgegeven door de bevoegde autoriteiten van een staat als bedoeld in artikel 8.7, eerste lid, waaruit het verblijfsrecht als familielid blijkt, wordt de toegang niet geweigerd wegens het ontbreken van een geldig visum. In het paspoort wordt geen aantekening gesteld omtrent inreis in Nederland of uitreis uit Nederland.  
+1.  Aan een vreemdeling als bedoeld in artikel 8.7, tweede, derde of vierde lid, die niet de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, en die beschikt over een geldige verblijfskaart, afgegeven door de bevoegde autoriteiten van een staat als bedoeld in artikel 8.7, eerste lid, waaruit het verblijfsrecht als familielid blijkt, wordt de toegang niet geweigerd wegens het ontbreken van een geldig visum. In het paspoort wordt geen aantekening gesteld omtrent inreis in Nederland of uitreis uit Nederland.   
+2.  Aan een vreemdeling als bedoeld in artikel 8.7, tweede, derde of vierde lid, die niet de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, en die evenmin beschikt over een geldige verblijfskaart, worden alle faciliteiten verleend om de nodige visa te verkrijgen. Deze visa worden kosteloos zo spoedig mogelijk afgegeven via een versnelde procedure.   
 
 ### Artikel  8.10  
 
@@ -3163,7 +3168,7 @@ Het rechtmatig verblijf van de vreemdeling, bedoeld in artikel 8.7, tweede, derd
 
 a. van ten hoogste zes maanden per jaar;  
 
-b. om belangrijke redenen gedurende een eenmalige periode van ten hoogste twaalf maanden;  
+b. om belangrijke redenen, zoals zwangerschap en bevalling, ernstige ziekte, studie of beroepsopleiding, gedurende een eenmalige periode van ten hoogste twaalf maanden;  
 
 c. voor de vervulling van militaire verplichtingen;  
 
@@ -3182,7 +3187,7 @@ b. indien het gezag over de kinderen bij overeenkomst tussen de voormalige echtg
 
 c. voor de duur waarvoor de omgang is voorgeschreven, indien de vreemdeling op grond van een overeenkomst of gerechtelijke beslissing het omgangsrecht met betrekking tot een minderjarig kind heeft en de omgang ingevolge een rechterlijke beslissing in Nederland moet plaatsvinden, of  
 
-d. indien klemmende redenen van humanitaire aard tot aanvaarding van voortgezet verblijf nopen.     
+d. indien klemmende redenen van humanitaire aard tot aanvaarding van voortgezet verblijf nopen, bijvoorbeeld wanneer een familielid tijdens het huwelijk of het geregistreerd partnerschap het slachtoffer is geweest van huiselijk geweld.     
 5.  In afwijking van het tweede lid, onder a, en het vierde lid, kan het rechtmatig verblijf van de vreemdeling, bedoeld in artikel 8.7, tweede, derde of vierde lid, die niet de nationaliteit van een staat bezit als bedoeld in het eerste lid van dat artikel, worden beëindigd indien hij een onredelijke belasting voor het sociale bijstandsstelsel vormt, tenzij hij het duurzaam verblijfsrecht, bedoeld in artikel 8.17 heeft verkregen, of hij: 
 
 a. werknemer of zelfstandige is;  
@@ -3212,7 +3217,7 @@ b. de vreemdeling, bedoeld in artikel 8.7, tweede, derde of vierde lid, die gedu
 
 a. van ten hoogste zes maanden per jaar;  
 
-b. om belangrijke redenen gedurende een eenmalige periode van ten hoogste twaalf achtereenvolgende maanden;  
+b. om belangrijke redenen, zoals zwangerschap en bevalling, ernstige ziekte, studie of beroepsopleiding, gedurende een eenmalige periode van ten hoogste twaalf achtereenvolgende maanden;  
 
 c. voor de vervulling van militaire verplichtingen; of  
 
@@ -3270,7 +3275,7 @@ Beëindiging van het rechtmatig verblijf van de vreemdeling vormt een onderbreki
 
 ### Artikel  8.22  
 
-1.  Onze Minister kan het rechtmatig verblijf ontzeggen of beëindigen, om redenen van openbare orde of openbare veiligheid, indien het persoonlijke gedrag van de vreemdeling een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving vormt.   
+1.  Onze Minister kan het rechtmatig verblijf ontzeggen of beëindigen, om redenen van openbare orde of openbare veiligheid, indien het persoonlijke gedrag van de vreemdeling een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving vormt. Alvorens hierover een besluit te nemen, houdt Onze Minister in het bijzonder rekening met de duur van het verblijf van de betrokkene in Nederland, diens leeftijd, gezondheidstoestand, gezins- en economische situatie en sociale en culturele integratie in Nederland en met de mate waarin hij bindingen heeft met zijn land van herkomst.   
 2.  Onze Minister kan bij de afgifte van de verklaring van inschrijving of het verblijfsdocument aan de lidstaat van oorsprong of andere lidstaten verzoeken om inlichtingen omtrent de gerechtelijke antecedenten.   
 3.  Tenzij dwingende redenen van openbare veiligheid daartoe nopen, wordt het rechtmatig verblijf niet beëindigd, indien de vreemdeling: 
 
