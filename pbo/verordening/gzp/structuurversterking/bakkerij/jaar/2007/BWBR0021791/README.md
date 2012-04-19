@@ -9,7 +9,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 06-04-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 06-04-2008 
 
 Deze verordening verstaat onder:  
 
@@ -28,20 +31,27 @@ Deze verordening verstaat onder:
 
 ####Fonds
 
+Materieel uitgewerkt per 06-04-2008 
+
 ### Artikel  2  
+Materieel uitgewerkt per 06-04-2008 
 
 1.  Er is een fonds, genaamd ‘Fonds Structuurversterking Bakkerij’, ter financiering van de structuurversterking van de Nederlandse bakkerij.   
 2.  Het fonds behoort tot het vermogen van het productschap.   
 3.  De middelen van het fonds komen voort uit de opbrengst van de heffingen, bedoeld in de artikelen 3, 4, 5 en 6.   
-4.  Ten laste van het fonds worden gebracht de kosten van de structuurversterkende maatregelen voor de bakkerij, welke het productschap besluit te verlenen.   
+4.  Ten laste van het fonds worden gebracht de kosten van de structuurversterkende maatregelen voor de bakkerij, welke het productschap besluit te verlenen.  
 
 ### §  3  
 
 ####Heffingen
 
+Materieel uitgewerkt per 06-04-2008 
+
 ### Artikel  3  
 
 ####Heffing bij bereiders van meel en/of bloem van granen
+
+Materieel uitgewerkt per 06-04-2008 
 
 1.  Degene, die een onderneming drijft, waarin meel en/of bloem van granen wordt bereid, is verplicht in het jaar 2007 aan het productschap periodiek een heffing te betalen van € 0,60 per 100 kilogram meel en/of bloem van granen, welke hij in Nederland heeft afgeleverd of heeft doen afleveren: 
 
@@ -51,11 +61,13 @@ b. aan andere bedrijven dan die, welke naar het oordeel van het productschap beh
 
 c. anders dan in verpakkingen van ten hoogste 2½ kilogram bestemd voor huishoudelijk gebruik.     
 2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend.   
-3.  De heffing, bedoeld in het eerste lid, wordt aan de afnemers doorberekend.   
+3.  De heffing, bedoeld in het eerste lid, wordt aan de afnemers doorberekend.  
 
 ### Artikel  4  
 
 ####Heffing bij bloemverwerkende industrie
+
+Materieel uitgewerkt per 06-04-2008 
 
 1.  Degene, die een onderneming drijft, welke naar het oordeel van het productschap behoort tot de bloemverwerkende industrie, is verplicht in het jaar 2007 aan het productschap periodiek een heffing te betalen van € 0,60 per 100 kilogram meel en/of bloem van granen, welke hij in Nederland heeft afgeleverd, of heeft doen afleveren: 
 
@@ -65,11 +77,13 @@ b. aan andere bedrijven dan die, welke naar het oordeel van het productschap beh
 
 c. anders dan in verpakkingen van ten hoogste 2½ kilogram, bestemd voor huishoudelijk gebruik.     
 2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend.   
-3.  De heffing bedoeld in het eerste lid, wordt aan de afnemers doorberekend.   
+3.  De heffing bedoeld in het eerste lid, wordt aan de afnemers doorberekend.  
 
 ### Artikel  5  
 
 ####Heffing/restitutie bii handelaren in meel en/of bloem van wanen
+
+Materieel uitgewerkt per 06-04-2008 
 
 1.  Degene, die een onderneming drijft, welke handel drijft in meel en/of bloem van granen, is verplicht in het jaar 2007 aan het productschap periodiek een heffing te betalen van € 0,60 per 100 kilogram meel en/of bloem van granen, waarover noch de in artikel 3 noch de in artikel 4 bedoelde heffing is betaald en welke hij in Nederland heeft afgeleverd, of heeft doen afleveren: 
 
@@ -89,11 +103,13 @@ b. dat hij meel en/of bloem van granen heeft afgeleverd aan bedrijven, waarin me
 c. dat hij meel en/of bloem van granen heeft afgeleverd aan bedrijven, welke naar het oordeel van het productschap behoren tot de bloemverwerkende industrie;  
 
 d. dat hij meel en/of bloem van granen in verpakkingen van ten hoogste 2½ kilogram heeft afgeleverd voor huishoudelijk gebruik.     
-5.  Het in het vierde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door de externe accountant afgegeven verklaring ter zake te worden overgelegd. De [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.   
+5.  Het in het vierde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door de externe accountant afgegeven verklaring ter zake te worden overgelegd. De [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.  
 
 ### Artikel  6  
 
 ####Heffing/restitutie bij bakkerij
+
+Materieel uitgewerkt per 06-04-2008 
 
 1.  Degene, die een onderneming drijft, waarin bakkerijproducten worden bereid is verplicht in het jaar 2007 aan het productschap een heffing te betalen van € 0,60 per 100 kilogram meel en/of bloem van granen over die hoeveelheden aan hem geleverd(e) meel en/of bloem van granen, waarover geen der in de artikelen 3, 4 of 5 bedoelde heffingen zijn betaald.   
 2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend.   
@@ -106,60 +122,73 @@ b. dat hij meel en/of bloem van granen heeft verwerkt in bakkerijproducten, welk
 c. dat hij meel en/of bloem van granen in verpakkingen van ten hoogste 2½ kilogram heeft afgeleverd voor huishoudelijk gebruik.     
 4.  Het in het derde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door een externe accountant afgegeven verklaring te worden overgelegd.   
 5.  Degene die een in het eerste lid bedoelde onderneming drijft, waarin meel en/of bloem van granen wordt verwerkt tot bakkerijproducten niet zijnde brood, kan verzoeken om restitutie van de heffing voor het aandeel van het meel en/of bloem van granen dat is verwerkt tot bakkerijproducten niet zijnde brood, indien aan de voorwaarde is voldaan, dat op jaarbasis bezien ten minste 250 ton meel en/of bloem van granen tot bakkerijproducten niet zijnde brood wordt verwerkt.   
-6.  Het in het vijfde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door een externe accountant afgegeven verklaring ter zake te worden overgelegd. De [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.   
+6.  Het in het vijfde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door een externe accountant afgegeven verklaring ter zake te worden overgelegd. De [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.  
 
 ### §  4  
 
 ####Ambtshalve heffing
 
+Materieel uitgewerkt per 06-04-2008 
+
 ### Artikel  7  
+Materieel uitgewerkt per 06-04-2008 
 
 1.  Indien de heffingsplichtige de gegevens, bedoeld in de artikelen 3, 4, 5 of 6, waarbij de [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) van toepassing is, niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing ambtshalve bij aanslag vast te stellen.   
 2.  Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt, wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.   
-3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.   
+3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.  
 
 ### §  5  
 
 ####Betaling van de heffing
 
+Materieel uitgewerkt per 06-04-2008 
+
 ### Artikel  8  
+Materieel uitgewerkt per 06-04-2008 
 
 1.  De ingevolge deze verordening verschuldigde heffingsbedragen worden betaald uiterlijk op de eenentwintigste dag volgende op die waarop zij door of vanwege het productschap in rekening zijn gebracht, dan wel, indien de secretaris van het productschap zulks verlangt, voor een door deze te bepalen datum.   
-2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.   
+2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.  
 
 ### Artikel  9  
+Materieel uitgewerkt per 06-04-2008 
 
-Het productschap kan besluiten nota's van minder dan € 50,– samen te voegen tot verzamelnota's welke betrekking hebben op meerdere perioden.  
+Het productschap kan besluiten nota's van minder dan € 50,– samen te voegen tot verzamelnota's welke betrekking hebben op meerdere perioden. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 06-04-2008 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
-### Artikel  11  
+### Artikel  11 
+Materieel uitgewerkt per 06-04-2008 
 
 1.  Indien een of meerdere afnemers van de in de artikelen 3, 4 en 5 bedoelde ondernemingen weigeren de heffing te betalen dienen deze ondernemingen op hun afrekeningstaten de volgende gegevens te vermelden: 
 
 – de naam, adres en vestigingsplaats van de desbetreffende afnemer(s)  
 
 – de in de perioden waarop de afrekeningstaten betrekking hebben aan de desbetreffende afnemer(s) afgeleverde hoeveelheden meel en/of bloem van granen.     
-2.  In de in het eerste lid bedoelde situatie wordt de heffing rechtstreeks door het productschap bij de desbetreffende afnemers in rekening gebracht.   
+2.  In de in het eerste lid bedoelde situatie wordt de heffing rechtstreeks door het productschap bij de desbetreffende afnemers in rekening gebracht.  
 
 ### §  6  
 
 ####Slotbepalingen
 
-### Artikel  12  
+Materieel uitgewerkt per 06-04-2008 
 
-Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2007, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md).  
+### Artikel  12  
+Materieel uitgewerkt per 06-04-2008 
+
+Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2007, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md). 
 
 ### Artikel  13  
+Materieel uitgewerkt per 06-04-2008 
 
-Deze verordening wordt aangehaald als: Verordening GZP structuurversterking bakkerij jaar 2007.  
+Deze verordening wordt aangehaald als: Verordening GZP structuurversterking bakkerij jaar 2007. 
 
 Den Haag 
 2 november 2006   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
 M. Elema  

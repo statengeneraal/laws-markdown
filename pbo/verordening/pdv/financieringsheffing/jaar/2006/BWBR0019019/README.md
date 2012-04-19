@@ -9,7 +9,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 05-08-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 05-08-2007 
 
 Deze verordening verstaat onder:  
 
@@ -29,31 +32,36 @@ Deze verordening verstaat onder:
 | vochtrijke voedermiddelen  | :  | voedermiddelen met een vochtgehalte van meer dan 15%;  |
 | droge voedermiddelen  | :  | voedermiddelen met een vochtgehalte van 15% en minder;  |
 | handelaar in voedermiddelen  | :  | de ondernemer die voedermiddelen in het verkeer brengt, verkoopt of aflevert voor zover deze niet door hemzelf zijn geproduceerd.  |
-| toevoegingsmiddelen  | :  | stoffen of preparaten die in diervoeding worden gebruikt teneinde:    –  de eigenschappen van de diervoeders voor dieren of van de dierlijke producten gunstig te beïnvloeden, of     –  te voldoen aan de voedingsbehoeften van de dieren, of de dierlijke productie te verbeteren, door in te werken op de maag- en darmflora of op de verteerbaarheid van de diervoeders, of     –  aan de voeding elementen toe te voegen die het makkelijker maken om bijzondere voedingsdoelen te bereiken of tegemoet te komen aan specifieke tijdelijke behoeften inzake voeding bij de dieren, of     –  door dierlijke uitwerpselen veroorzaakte hinder te voorkomen of te beperken, of de leefomgeving van de dieren te verbeteren.      |
+| toevoegingsmiddelen  | :  | stoffen of preparaten die in diervoeding worden gebruikt teneinde:    – de eigenschappen van de diervoeders voor dieren of van de dierlijke producten gunstig te beïnvloeden, of     – te voldoen aan de voedingsbehoeften van de dieren, of de dierlijke productie te verbeteren, door in te werken op de maag- en darmflora of op de verteerbaarheid van de diervoeders, of     – aan de voeding elementen toe te voegen die het makkelijker maken om bijzondere voedingsdoelen te bereiken of tegemoet te komen aan specifieke tijdelijke behoeften inzake voeding bij de dieren, of     – door dierlijke uitwerpselen veroorzaakte hinder te voorkomen of te beperken, of de leefomgeving van de dieren te verbeteren.      |
 
 ### §  2  
 
 ####Heffingen
 
+Materieel uitgewerkt per 05-08-2007 
+
 ### Artikel  2  
+Materieel uitgewerkt per 05-08-2007 
 
 1.  De handelaar in voedermiddelen is verplicht aan het productschap een heffing te betalen over de aflevering van de voedermiddelen in het binnenland, bedoeld in de bijlage. De heffing betreft de voedermiddelen die rechtstreeks dan wel indirect via de tussenhandel worden afgeleverd aan veehouderijbedrijven en bedraagt voor:  
 
 | --- | --- | --- |
 |:---|:---|:---|
-| a.  | droge voedermiddelen  | : € 0,193 per 1.000 kg product  |
-| b.  | vochtrijke voedermiddelen  | : € 0,221 per 1.000 kg droge stof.  |
+|a. | droge voedermiddelen  | : € 0,193 per 1.000 kg product  |
+|b. |  vochtrijke voedermiddelen  | : € 0,221 per 1.000 kg droge stof.  |
 
-2.  Op het in het eerste lid verschuldigde bedrag wordt in mindering gebracht het heffingsbedrag dat ten genoegen van het productschap aantoonbaar over de betrokken producten reeds eerder aan het productschap is afgedragen.   
+2.  Op het in het eerste lid verschuldigde bedrag wordt in mindering gebracht het heffingsbedrag dat ten genoegen van het productschap aantoonbaar over de betrokken producten reeds eerder aan het productschap is afgedragen.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 05-08-2007 
 
 1.  De producent van gedroogde bietenpulp en kunstmatig gedroogde groenvoeders (met 15% vocht of minder) als bedoeld in bijlage I, is verplicht over de zelf geproduceerde en in het binnenland afgeleverde hoeveelheid aan het productschap een heffing te betalen van € 0,139 per 1.000 kg product. De hoeveelheid die ten genoegen van het productschap aantoonbaar aan bereiders van mengvoeders wordt afgeleverd, is van deze heffing vrijgesteld.   
 2.  De producent van vochtrijke voedermiddelen als bedoeld in de bijlage is verplicht over de zelf geproduceerde en in het binnenland afgeleverde hoeveelheid aan het productschap een heffing te betalen van € 0,159 per 1.000 kg droge stof.   
 3.  De ondernemer, die gedurende een kalenderjaar geen producten bereidt, genoemd in de leden 1 en 2 van dit artikel, dient jaarlijks daaromtrent een informatieve verklaring in te dienen.   
-4.  Ingeval de secretaris zulks verlangt, is de ondernemer verplicht een door een accountant afgegeven verklaring te overleggen.   
+4.  Ingeval de secretaris zulks verlangt, is de ondernemer verplicht een door een accountant afgegeven verklaring te overleggen.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 05-08-2007 
 
 1.  De ondernemer die mengvoeders voor landbouwhuisdieren met uitzondering van kunstmelkvoeders voor kalveren produceert, is verplicht over de zelf geproduceerde hoeveelheid aan het productschap een heffing te betalen van € 0,150 per 1.000 kg.   
 2.  De ondernemer die concentraten of voormengsels produceert, is verplicht over de zelf geproduceerde hoeveelheid aan het productschap een heffing te betalen van € 0,139 per 1000 kg.   
@@ -66,17 +74,20 @@ voor droge voeders: € 0,124 per 1.000 kg;
 voor halfvochtige voeders (semi-moist): € 0,124 per 1.000 kg vermenigvuldigd met de omrekeningsfactor 0,74;  
 
 voor vochtige voeders (moist): € 0,124 per 1.000 kg vermenigvuldigd met de omrekeningsfactor 0,23.     
-6.  De ondernemer die mengvoeders voor landbouwhuisdieren produceert, is verplicht over de in het binnenland afgeleverde hoeveelheid droge voedermiddelen als bedoeld in de bijlage, aan het productschap een heffing te betalen van € 0,193 per 1.000 kg product.   
+6.  De ondernemer die mengvoeders voor landbouwhuisdieren produceert, is verplicht over de in het binnenland afgeleverde hoeveelheid droge voedermiddelen als bedoeld in de bijlage, aan het productschap een heffing te betalen van € 0,193 per 1.000 kg product.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 05-08-2007 
 
-De ondernemer die toevoegingsmiddelen en/of bijzondere stikstofhoudende producten produceert of in de handel brengt, is verplicht aan het productschap een heffing te betalen. De heffing bedraagt € 995 per onderneming.  
+De ondernemer die toevoegingsmiddelen en/of bijzondere stikstofhoudende producten produceert of in de handel brengt, is verplicht aan het productschap een heffing te betalen. De heffing bedraagt € 995 per onderneming. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 05-08-2007 
 
-De heffingen bedoeld in de artikelen 2, 3, 4 en 5 zijn bestemd voor de huishoudelijke uitgaven van het productschap, de door of vanwege het productschap uitgevoerde controles en voor de aan het Hoofdproductschap Akkerbouw en het Productschap Granen, Zaden en Peulvruchten te verlenen bijdrage.  
+De heffingen bedoeld in de artikelen 2, 3, 4 en 5 zijn bestemd voor de huishoudelijke uitgaven van het productschap, de door of vanwege het productschap uitgevoerde controles en voor de aan het Hoofdproductschap Akkerbouw en het Productschap Granen, Zaden en Peulvruchten te verlenen bijdrage. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 05-08-2007 
 
 1.  De ondernemer is verplicht binnen 2 maanden na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap de voor de vaststelling van de heffing bedoeld in de artikelen 2, 3, 4 en 5 benodigde gegevens te verstrekken. De [Verordening PDV algemene bepalingen 2003](../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md) is hierbij van toepassing.   
 2.  De ondernemer, bedoeld in de artikelen 2, 3, 4 en 5 is eveneens verplicht het opgavenformulier in te dienen, indien hij in het betrokken kwartaal geen mengvoeders, huisdiervoeders of voedermiddelen heeft geproduceerd dan wel verhandeld.   
@@ -86,51 +97,64 @@ De heffingen bedoeld in de artikelen 2, 3, 4 en 5 zijn bestemd voor de huishoude
 
 a. ter controle van de in het eerste lid bedoelde opgave indien de in het vierde lid bedoelde accountantsverklaring niet afkomstig is van een registeraccountant;  
 
-b. ter controle van de in het derde lid bedoelde verklaring.     
+b. ter controle van de in het derde lid bedoelde verklaring.    
 
 ### Artikel  8  
+Materieel uitgewerkt per 05-08-2007 
 
 1.  Op verzoek van de heffingsplichtige kan de secretaris namens het bestuur in individuele gevallen beslissen tot afwijking van het model van het opgavenformulier bedoeld in artikel 7.   
-2.  Op verzoek van de heffingsplichtige die ingevolge deze verordening jaarlijks minder dan € 1.000,- aan het productschap verschuldigd is kan de secretaris namens het bestuur beslissen om in afwijking van artikel 7, eerste lid, jaarlijks een opgave met de voor de vaststelling van de heffing benodigde gegevens aan het productschap te verstrekken.   
+2.  Op verzoek van de heffingsplichtige die ingevolge deze verordening jaarlijks minder dan € 1.000,- aan het productschap verschuldigd is kan de secretaris namens het bestuur beslissen om in afwijking van artikel 7, eerste lid, jaarlijks een opgave met de voor de vaststelling van de heffing benodigde gegevens aan het productschap te verstrekken.  
 
 ### §  3  
 
 ####Ambtshalve heffing
 
+Materieel uitgewerkt per 05-08-2007 
+
 ### Artikel  9  
+Materieel uitgewerkt per 05-08-2007 
 
 1.  Indien de ondernemer de gegevens, bedoeld in artikel 7, eerste lid niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor het betreffende kwartaal ambtshalve bij aanslag vast te stellen.   
 2.  Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt, wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.   
-3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.   
+3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.  
 
 ### §  4  
 
 ####Betaling van de heffing
 
+Materieel uitgewerkt per 05-08-2007 
+
 ### Artikel  10  
+Materieel uitgewerkt per 05-08-2007 
 
 1.  De ingevolge deze verordening verschuldigde heffingsbedragen worden betaald uiterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening zijn gebracht, dan wel, indien de secretaris van het productschap zulks verlangt, voor een door deze te bepalen datum.   
-2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.   
+2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.  
 
 ### Artikel  11  
+Materieel uitgewerkt per 05-08-2007 
 
-Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen tot verzamelnota's welke betrekking hebben op meerdere perioden.  
+Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen tot verzamelnota's welke betrekking hebben op meerdere perioden. 
 
 ### Artikel  12  
+Materieel uitgewerkt per 05-08-2007 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  13  
+Materieel uitgewerkt per 05-08-2007 
 
-Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006, met uitzondering van de toepassing van de [Verordening PDV algemene bepalingen 2003](../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md).  
+### Artikel  13  
+Materieel uitgewerkt per 05-08-2007 
+
+Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006, met uitzondering van de toepassing van de [Verordening PDV algemene bepalingen 2003](../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md). 
 
 ### Artikel  14  
+Materieel uitgewerkt per 05-08-2007 
 
-Deze verordening wordt aangehaald als: Verordening PDV financieringsheffing jaar 2006.  
+Deze verordening wordt aangehaald als: Verordening PDV financieringsheffing jaar 2006. 
 
 Den Haag 
 9 november 2005   
@@ -145,7 +169,9 @@ secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad b
 
 ####Voedermiddelen waarop de regeling van toepassing is
 
-*A. Handel in droge voedermiddelen (15% of minder vocht)*  
+Materieel uitgewerkt per 05-08-2007 
+
+*A. Handel in droge voedermiddelen (15% of minder vocht) * 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -171,7 +197,7 @@ secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad b
 | - peulvruchten, al dan niet gebroken of gemalen  | ex 0713 en 1209 29 50  |
 | - melen en pellets van natuurlijk (zon-)gedroogde groenvoeders  | 1214 10 00, ex 1214 90 91 en ex 1214 90 99  |
 
-*B. Handel in vochtrijke voedermiddelen (meer dan 15% vocht)*  
+*B. Handel in vochtrijke voedermiddelen (meer dan 15% vocht) * 
 
 | --- | --- |
 |:---|:---|
@@ -190,7 +216,7 @@ secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad b
 | - industriële vruchtenwijnproduktie  | ex 2308 00  |
 | - zuivelfabrieken  | ex 0401, 0402 91, 0402 99, 0403 90, 0404 10 en 0404 90  |
 
-*C. Productie gedroogde bietenpulp en kunstmatig gedroogde groenvoeders (minder dan 15% vocht)*  
+*C. Productie gedroogde bietenpulp en kunstmatig gedroogde groenvoeders (minder dan 15% vocht) * 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -201,7 +227,7 @@ secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad b
 | - gras- en klavermeel (-pellets)  | ex 1214 90 91 en 1214 90 99  |
 | - luzernemeel en luzerne in pellets  | 1214 10 00  |
 
-*D. Productie vochtrijke voedermiddelen (meer dan 15% vocht)*  
+*D. Productie vochtrijke voedermiddelen (meer dan 15% vocht) * 
 
 | --- | --- | --- |
 |:---|:---|:---|
