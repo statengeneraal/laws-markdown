@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder 
 
-*wet:*[Wet rijonderricht motorrijtuigen 1993](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md).    
+*wet:* [Wet rijonderricht motorrijtuigen 1993](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md).   
 
 ### Hoofdstuk  II  
 
@@ -41,12 +41,20 @@ d. motorrijtuigen voor het besturen waarvan rijbewijs D als bedoeld in het [Regl
 e. samenstellen van motorrijtuig en getrokken voertuig, voor het besturen waarvan rijbewijs E in combinatie met rijbewijs B als bedoeld in het [Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) is vereist (categorie E bij B);  
 
 f. samenstellen van motorrijtuig en getrokken voertuig, voor het besturen waarvan rijbewijs E in combinatie met rijbewijs C of D als bedoeld in het [Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) is vereist (categorie E bij C of D).     
-2.  Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie A geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie AM, bromfietsen, en het geven van theoretisch rijonderricht voor het besturen van motorrijtuigen van de categorie AM.   
+2.  Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie A geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van: 
+
+a. motorrijtuigen van de categorie AM, bromfietsen, en het geven van theoretisch rijonderricht voor het besturen van motorrijtuigen van de categorie AM, en  
+
+b. motorrijtuigen van de categorieën A1 en A2.     
 3.  Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie B geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie AM, brommobielen, en het geven van theoretisch rijonderricht voor het besturen van motorrijtuigen van de categorie AM.   
+4.  Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie C geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie C1.   
+5.  Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie D geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie D1.   
+6.  Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie E bij B geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van samenstellen van een motorrijtuig van de categorie B en een aanhangwagen of oplegger waarvan de toegestane maximum massa meer bedraagt dan 750 kg, waarbij de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger meer bedraagt dan 3500 kg, maar niet meer dan 4250 kg.   
+7.  Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie E bij C of E bij D geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie E bij C1 respectievelijk E bij D1. 
 
 ### Artikel  3  
 
-De in [artikel 5, eerste lid, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) bedoelde ambtenaren doen aan het instituut ten behoeve van het bijhouden van het register mededeling omtrent onbevoegd in certificaten aangebrachte wijzigingen als bedoeld in de [artikelen 14](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) en [19 van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md).  
+De in [artikel 5, eerste lid, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) bedoelde ambtenaren doen aan het instituut ten behoeve van het bijhouden van het register mededeling omtrent onbevoegd in certificaten aangebrachte wijzigingen als bedoeld in de [artikelen 14](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) en [19 van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md). 
 
 ### Hoofdstuk  III  
 
@@ -68,7 +76,7 @@ b. de geschiktheidstest als bedoeld in [artikel 9, vierde lid, van de wet](../..
 
 a. de inrichting en de inhoud van de geschiktheidstest, en  
 
-b. de beoordeling van de competenties van de betrokkene en de wijze waarop die beoordeling plaatsvindt.     
+b. de beoordeling van de competenties van de betrokkene en de wijze waarop die beoordeling plaatsvindt.    
 
 ### Paragraaf  2  
 
@@ -104,13 +112,13 @@ d. de rijinstructeur kan zodanig instructie geven dat de leerling in aansluiting
 
 e. de rijinstructeur kan ontwikkelingen in het leerproces van de leerling signaleren en hem ondersteunen en begeleiden in het zelfstandig en met vertrouwen leren aanpakken van de rijtaken, en oplossen van problemen;  
 
-f. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling beoordelen door zelf het beoordelingsniveau van de leerling te toetsen of door gebruik te maken van het oordeel van andere rijinstructeurs of -examinatoren.      
+f. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling beoordelen door zelf het beoordelingsniveau van de leerling te toetsen of door gebruik te maken van het oordeel van andere rijinstructeurs of -examinatoren.     
 
 ### Artikel  6  
 
 1.  Voor de afgifte van een certificaat voor het geven van rijonderricht, als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) voor de categorie B voldoet de aanvrager aan de in artikel 5 genoemde eisen.   
 2.  Voor de afgifte van een certificaat voor het geven van rijonderricht, als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) met betrekking tot motorrijtuigen van de overige rijbewijscategorieën, voldoet de aanvrager aan de in artikel 5, aanhef en onderdeel 1. genoemde eisen.   
-3.  Voor de toepassing van het eerste en het tweede lid voldoet de aanvrager wat de daar bedoelde eisen betreft in het bijzonder aan de eisen voor zover die eisen betrekking hebben op de categorie motorrijtuigen waarvoor afgifte van een certificaat wordt gevraagd.   
+3.  Voor de toepassing van het eerste en het tweede lid voldoet de aanvrager wat de daar bedoelde eisen betreft in het bijzonder aan de eisen voor zover die eisen betrekking hebben op de categorie motorrijtuigen waarvoor afgifte van een certificaat wordt gevraagd.  
 
 ### Paragraaf  3  
 
@@ -126,7 +134,7 @@ b. de rijinstructeur kan ontwikkelingen in het leerproces van de leerling signal
 
 c. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling beoordelen door zelf het beoordelingsniveau van de leerling te toetsen of door gebruik te maken van het oordeel van andere rijinstructeurs of -examinatoren.  
 
-d. de rijinstructeur kan reflecteren op zijn handelen als opleider en zodanig evalueren dat de resultaten daarvan aanwijzingen geven voor bijstelling van dat handelen.    
+d. de rijinstructeur kan reflecteren op zijn handelen als opleider en zodanig evalueren dat de resultaten daarvan aanwijzingen geven voor bijstelling van dat handelen.   
 
 ### Artikel  8  
 
@@ -137,7 +145,7 @@ a. de inhoud, de duur en de mogelijke verlenging van de stage in verband met bij
 b. de beoordeling van de stagiair en de wijze waarop de beoordeling plaatsvindt, en  
 
 c. de aanwijzing van stagebegeleiders.     
-2.  Het instituut kan, indien de stagiair niet handelt overeenkomstig de in [artikel 12a, derde lid, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) bedoelde eisen, het deel van de stage dat tot het constateren van dat handelen is gevolgd ongeldig verklaren.   
+2.  Het instituut kan, indien de stagiair niet handelt overeenkomstig de in [artikel 12a, derde lid, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) bedoelde eisen, het deel van de stage dat tot het constateren van dat handelen is gevolgd ongeldig verklaren.  
 
 ### Paragraaf  4  
 
@@ -145,16 +153,16 @@ c. de aanwijzing van stagebegeleiders.
 
 ### Artikel  9  
 
-Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), neemt in de periode dat zijn certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), geldig is, deel aan zes dagdelen theoretische bijscholing in een van de categorieën waarvoor hij het certificaat heeft. Elk dagdeel theoretische bijscholing is uniek van inhoud.  
+Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), neemt in de periode dat zijn certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), geldig is, deel aan zes dagdelen theoretische bijscholing in een van de categorieën waarvoor hij het certificaat heeft. Elk dagdeel theoretische bijscholing is uniek van inhoud. 
 
 ### Artikel  10  
 
 1.  Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), neemt in de periode dat zijn certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), geldig is, twee maal deel aan een dagdeel praktijkbegeleiding. De praktijkbegeleiding wordt telkens door het instituut beoordeeld.   
-2.  Degene wiens tweede dagdeel praktijkbegeleiding niet als voldoende is beoordeeld, volgt in de in het eerste lid bedoelde periode een derde dagdeel praktijkbegeleiding.   
+2.  Degene wiens tweede dagdeel praktijkbegeleiding niet als voldoende is beoordeeld, volgt in de in het eerste lid bedoelde periode een derde dagdeel praktijkbegeleiding.  
 
 ### Artikel  11  
 
-Onverminderd [artikel 12b, eerste lid, tweede volzin, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), voldoet de aanvrager voor de afgifte van een certificaat in verband met het verstrijken van de geldigheidsduur van een eerder aan de aanvrager afgegeven certificaat aan de eisen, bedoeld in de artikelen 9 en 10.  
+Onverminderd [artikel 12b, eerste lid, tweede volzin, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), voldoet de aanvrager voor de afgifte van een certificaat in verband met het verstrijken van de geldigheidsduur van een eerder aan de aanvrager afgegeven certificaat aan de eisen, bedoeld in de artikelen 9 en 10. 
 
 ### Artikel  12  
 
@@ -164,7 +172,7 @@ a. de omvang, de inhoud en de verplichtingen van degene die de gecertificeerde c
 
 b. de omvang, de inhoud, de duur en de mogelijke verlenging van de praktische bijscholing in verband met bijzondere omstandigheden, en  
 
-c. de beoordeling van de competenties van degene die rijonderricht geeft en de wijze waarop die beoordeling plaatsvindt.    
+c. de beoordeling van de competenties van degene die rijonderricht geeft en de wijze waarop die beoordeling plaatsvindt.   
 
 ### Paragraaf  5  
 
@@ -183,19 +191,19 @@ c. voor het rijonderricht in de overige rijbewijscategorieën uit de praktische 
 
 a. de omvang en de inhoud van het herintrederstraject, en  
 
-b. de beoordeling van de competenties van de herintreder en de wijze waarop die beoordeling plaatsvindt.     
+b. de beoordeling van de competenties van de herintreder en de wijze waarop die beoordeling plaatsvindt.    
 
 ### Hoofdstuk  IV  
 
-####Scholing educatieve maatregel
+####Scholing educatieve maatregel en scholing alcoholslotprogramma
 
 ### Artikel  14  
 
-De hoofdopleiding, bedoeld in [artikel 17, tweede lid, onderdeel a, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), waarvan het bezit van een geldig diploma is vereist voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel is een opleiding op het niveau van het wetenschappelijk onderwijs of het hoger beroepsonderwijs, waarbij is geëxamineerd in psychologie, pedagogiek, andragogiek, voorlichtingskunde, onderwijskunde of een gelijksoortig vak.  
+De hoofdopleiding, bedoeld in [artikel 17, tweede lid, onderdeel a, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), waarvan het bezit van een geldig diploma is vereist voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel en scholing alcoholslotprogramma is een opleiding op het niveau van het wetenschappelijk onderwijs of het hoger beroepsonderwijs, waarbij is geëxamineerd in psychologie, pedagogiek, andragogiek, voorlichtingskunde, onderwijskunde of een gelijksoortig vak. 
 
 ### Artikel  15  
 
-De voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel vereiste beroepservaring als bedoeld in [artikel 17, tweede lid, onderdeel b, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), bedraagt ten minste twee jaren.  
+De voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel en scholing alcoholslotprogramma vereiste beroepservaring als bedoeld in [artikel 17, tweede lid, onderdeel b, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), bedraagt ten minste twee jaren. 
 
 ### Artikel  16  
 
@@ -207,7 +215,7 @@ De aanvullende eisen van bekwaamheid voor het geven van scholing educatieve maat
 
 3. kennis van probleemgedrag en verkeersongevallen in relatie tot de factoren voertuig en omgeving;  
 
-4. kennis van en vaardigheid in het organiseren, geven en evalueren van scholing educatieve maatregel.    
+4. kennis van en vaardigheid in het organiseren, geven en evalueren van scholing educatieve maatregel.   
 
 ### Artikel  16a  
 
@@ -224,13 +232,13 @@ Op de aanvullende eisen van bekwaamheid voor het geven van scholing in het kader
 a. bij het besluit, bedoeld in [artikel 21, derde lid, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), dat geen onderzoek is vereist, blijkt dat betrokkene niet voldoet aan de in artikel 5 gestelde eisen van bekwaamheid;  
 
 b. uit de uitslag van het onderzoek, bedoeld in [artikel 21 van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), blijkt dat betrokkene niet voldoet aan de in artikel 5 gestelde eisen van bekwaamheid.     
-2.  Bij het opleggen van de verplichting tot het afleggen van een toets geeft het instituut aan op welk onderdeel of welke onderdelen van de vakbekwaamheid, bedoeld in artikel 5, de toets betrekking dient te hebben.   
+2.  Bij het opleggen van de verplichting tot het afleggen van een toets geeft het instituut aan op welk onderdeel of welke onderdelen van de vakbekwaamheid, bedoeld in artikel 5, de toets betrekking dient te hebben.  
 
 ### Artikel  18  
 
 1.  Tijdstip waarop en plaats waar de houder van een certificaat het in [artikel 21, tweede lid, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) bedoelde onderzoek ondergaat, dan wel de in [artikel 21, derde lid, van de wet](../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) bedoelde toets aflegt, worden vastgesteld door de aangewezen deskundige of deskundigen ingeval het een onderzoek betreft, dan wel door het instituut ingeval het een toets betreft, en aan betrokkene bij aangetekende brief medegedeeld.   
 2.  Indien betrokkene niet op de vastgestelde tijd en plaats aanwezig is terwijl van een geldige reden van verhindering blijkt, worden tijd en plaats voor het onderzoek dan wel de toets opnieuw door de deskundige of deskundigen dan wel door het instituut vastgesteld en aan betrokkene bij aangetekende brief medegedeeld.   
-3.  Indien betrokkene niet op de vastgestelde tijd en plaats aanwezig is zonder dat van een geldige reden van verhindering blijkt, wordt dat door de aangewezen deskundige of deskundigen dan wel door het instituut vastgesteld en aan betrokkene bij aangetekende brief medegedeeld.   
+3.  Indien betrokkene niet op de vastgestelde tijd en plaats aanwezig is zonder dat van een geldige reden van verhindering blijkt, wordt dat door de aangewezen deskundige of deskundigen dan wel door het instituut vastgesteld en aan betrokkene bij aangetekende brief medegedeeld.  
 
 ### Hoofdstuk  VI  
 
@@ -238,23 +246,23 @@ b. uit de uitslag van het onderzoek, bedoeld in [artikel 21 van de wet](../../..
 
 ### Artikel  19  
 
-In afwijking van [artikel 7, eerste lid, van het Besluit rijonderricht motorrijtuigen](../../../../../../AMvB/besluit/rijonderricht/motorrijtuigen/BWBR0007020/README.md) zoals dit gold voor de inwerkingtreding van dit besluit, hoeft de aanvrager voor de eerste afgifte van het certificaat voor het geven rijonderricht met betrekking tot motorrijtuigen van de rijbewijscategorie A of B niet te voldoen aan de eis genoemd in onderdeel 15 van [artikel 6 van het Besluit rijonderricht motorrijtuigen](../../../../../../AMvB/besluit/rijonderricht/motorrijtuigen/BWBR0007020/README.md) zoals dit gold voor de inwerkingtreding van dit besluit.  
+In afwijking van [artikel 7, eerste lid, van het Besluit rijonderricht motorrijtuigen](../../../../../../AMvB/besluit/rijonderricht/motorrijtuigen/BWBR0007020/README.md) zoals dit gold voor de inwerkingtreding van dit besluit, hoeft de aanvrager voor de eerste afgifte van het certificaat voor het geven rijonderricht met betrekking tot motorrijtuigen van de rijbewijscategorie A of B niet te voldoen aan de eis genoemd in onderdeel 15 van [artikel 6 van het Besluit rijonderricht motorrijtuigen](../../../../../../AMvB/besluit/rijonderricht/motorrijtuigen/BWBR0007020/README.md) zoals dit gold voor de inwerkingtreding van dit besluit. 
 
 ### Artikel  20  
 
-Het [Besluit rijonderricht motorrijtuigen](../../../../../../AMvB/besluit/rijonderricht/motorrijtuigen/BWBR0007020/README.md) wordt ingetrokken.  
+Het [Besluit rijonderricht motorrijtuigen](../../../../../../AMvB/besluit/rijonderricht/motorrijtuigen/BWBR0007020/README.md) wordt ingetrokken.
 
 ### Artikel  21  
 
-Dit besluit wordt aangehaald als: Besluit rijonderricht motorrijtuigen 2009.  
+Dit besluit wordt aangehaald als: Besluit rijonderricht motorrijtuigen 2009. 
 
 ### Artikel  22  
 
-Het [besluit van 13 juli 2006, nr. 06.002554 houdende toekenning van een vaste beloning aan de voorzitter en leden van de Commissie van beroep ingevolge de Wet rijonderricht motorrijtuigen 1993](../../../../../../KB/besluit/toekenning/vaste/beloning/voorzitter/en/leden/commissie/van/beroep/etc/BWBR0020108/README.md), wordt ingetrokken.  
+Het [besluit van 13 juli 2006, nr. 06.002554 houdende toekenning van een vaste beloning aan de voorzitter en leden van de Commissie van beroep ingevolge de Wet rijonderricht motorrijtuigen 1993](../../../../../../KB/besluit/toekenning/vaste/beloning/voorzitter/en/leden/commissie/van/beroep/etc/BWBR0020108/README.md), wordt ingetrokken.
 
 ### Artikel  23  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

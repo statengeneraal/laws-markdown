@@ -11,15 +11,15 @@ Gelet op [artikel 9, eerste lid, van de Wet Infrastructuurfonds](../../../../../
 De Raad van State gehoord (advies van 20 november 2003, nr. W09.03.0416/V);
 
 Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 15 december 2003, nr. HDJZ/ABR/2003/2825, Hoofddirectie Juridische Zaken;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:   
 
 ### Artikel  I  
 
-Wijzigt het Besluit Infrastructuurfonds.   
+Wijzigt het Besluit Infrastructuurfonds.
 
 ### Artikel  II  
 
-Wijzigt het Wijzigingsbesluit Besluit Infrastructuurfonds (ophoging doeluitkering en andere bekostigingswijze infrastructuurprojecten).   
+Wijzigt het Wijzigingsbesluit Besluit Infrastructuurfonds (ophoging doeluitkering en andere bekostigingswijze infrastructuurprojecten).
 
 ### Artikel  III  
 
@@ -28,19 +28,19 @@ Wijzigt het Wijzigingsbesluit Besluit Infrastructuurfonds (ophoging doeluitkerin
 3.  De subsidie voor een project als bedoeld in het tweede lid wordt in afwijking van de [artikelen 14](../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) en [14a van het Besluit Infrastructuurfonds](../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md), door Onze Minister van Verkeer en Waterstaat vastgesteld naar de kosten die tot en met 31 december 2003 zijn gemaakt.   
 4.  De subsidieontvanger dient, in afwijking van [artikel 14, eerste lid, van het Besluit Infrastructuurfonds](../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md), de aanvraag tot vaststelling van de subsidie voor een project als bedoeld in het tweede lid, vergezeld van een financiële verantwoording van de totale projectkosten die tot en met 31 december 2003 zijn gemaakt voorzien van een accountantsverklaring, binnen vier maanden, na het tijdstip van inwerkingtreding van dit artikel, in bij Onze Minister van Verkeer en Waterstaat. Onze Minister van Verkeer en Waterstaat kan op verzoek van de subsidieontvanger de termijn twee keer met ten hoogste twee maanden verlengen.   
 5.  In afwijking van [artikel 14a, tweede lid, van het Besluit Infrastructuurfonds](../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) stelt Onze Minister van Verkeer en Waterstaat, indien de subsidieontvanger geen aanvraag tot vaststelling van de subsidie binnen de in het vierde lid bedoelde termijn heeft ingediend, de subsidie ambtshalve vast binnen twaalf weken na het tijdstip waarop de in het vierde lid bedoelde termijn is verstreken.   
-6.  De kosten voor de voorbereiding, administratie en toezicht die tot en met 31 december 2003 zijn gemaakt worden berekend op de bij of krachtens de beschikking tot subsidieverlening voor de verlening van voorschotten bepaalde wijze, met dien verstande dat de kosten van voorbereiding, administratie en toezicht ten hoogste voor het daarvoor in de beschikking tot subsidieverlening opgenomen bedrag in aanmerking worden genomen.   
+6.  De kosten voor de voorbereiding, administratie en toezicht die tot en met 31 december 2003 zijn gemaakt worden berekend op de bij of krachtens de beschikking tot subsidieverlening voor de verlening van voorschotten bepaalde wijze, met dien verstande dat de kosten van voorbereiding, administratie en toezicht ten hoogste voor het daarvoor in de beschikking tot subsidieverlening opgenomen bedrag in aanmerking worden genomen.  
 
 ### Artikel  IV  
 
-Artikel III, derde tot en vijfde lid, is van overeenkomstige toepassing op projecten waarvoor ingevolge het Besluit personenvervoer of de Bijdrageregeling wegverkeersvoorzieningen bijdragen zijn verleend en die op 1 januari 2004 nog niet zijn voltooid.  
+Artikel III, derde tot en vijfde lid, is van overeenkomstige toepassing op projecten waarvoor ingevolge het Besluit personenvervoer of de Bijdrageregeling wegverkeersvoorzieningen bijdragen zijn verleend en die op 1 januari 2004 nog niet zijn voltooid.
 
 ### Artikel  VI  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  VII  
 
-Dit besluit wordt aangehaald als: Wijzigingsbesluit Gebundelde doeluitkering.  
+Dit besluit wordt aangehaald als: Wijzigingsbesluit Gebundelde doeluitkering. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

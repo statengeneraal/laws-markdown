@@ -15,28 +15,28 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement rijbewijzen.   
+Wijzigt het Reglement rijbewijzen. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit rijonderricht motorrijtuigen.   
+Wijzigt het Besluit rijonderricht motorrijtuigen. 
 
 ### Artikel  III  
 
-Indien de aanvrager bij de aanvraag beschikt over een geldig bromfietscertificaat en de aanvraag betrekking heeft op de eerste afgifte van een rijbewijs dat geldig is voor het besturen van bromfietsen, wordt, behoudens de in [artikel 33 van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) genoemde bescheiden, bij de aanvraag tevens dat bromfietscertificaat overgelegd.  
+Indien de aanvrager bij de aanvraag beschikt over een geldig bromfietscertificaat en de aanvraag betrekking heeft op de eerste afgifte van een rijbewijs dat geldig is voor het besturen van bromfietsen, wordt, behoudens de in [artikel 33 van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) genoemde bescheiden, bij de aanvraag tevens dat bromfietscertificaat overgelegd. 
 
 ### Artikel  IV  
 
-Wijzigt dit besluit.   
+Wijzigt dit besluit. 
 
 ### Artikel  V  
 
-Wijzigt het Wijzigingsbesluit Reglement rijbewijzen, enz. (Stb. 2004/483).   
+Wijzigt het Wijzigingsbesluit Reglement rijbewijzen, enz. (Stb. 2004/483). 
 
 ### Artikel  VI  
 
 1.  De artikelen I, onderdelen A tot en met R en T, en II tot en met V treden in werking op het tijdstip waarop de [wet van 28 juni 2006 tot wijziging van de Wegenverkeerswet 1994 in verband met de invoering van een bromfietsrijbewijs](../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(invoering/bromfietsrijbewijs)/BWBR0020020/README.md) (Stb. 322) in werking treedt.   
-2.  Artikel I, onderdeel S, treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
+2.  Artikel I, onderdeel S, treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
