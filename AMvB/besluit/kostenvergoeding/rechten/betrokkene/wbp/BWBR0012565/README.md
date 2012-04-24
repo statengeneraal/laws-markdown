@@ -15,44 +15,46 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder wet: de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+In dit besluit wordt verstaan onder wet: de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). 
 
 ### Artikel  2  
 
-1.  De vergoeding voor de kosten van het bericht als bedoeld in [artikel 35 van de wet](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) bedraagt € 0.23 per pagina met een maximaal bedrag van € 4.50 per bericht.   
-2.  De verantwoordelijke mag voor de kosten van een bericht dat op een andere gegevensdrager wordt verstrekt dan papier een redelijke vergoeding in rekening brengen met dien verstande dat deze ten hoogste  € 4.50 bedraagt.   
+1.  De vergoeding voor de kosten van de mededeling, bedoeld in [artikel 35 van de wet](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), bedraagt € 0,23 per pagina tot een maximumbedrag van € 5,– voor elke afzonderlijke mededeling.   
+2.  De verantwoordelijke mag voor de kosten van de mededeling die op een andere gegevensdrager dan papier wordt verstrekt een redelijke vergoeding in rekening brengen, met dien verstande dat deze ten hoogste € 5,– bedraagt.  
 
 ### Artikel  3  
 
-De verantwoordelijke mag in afwijking van artikel 2 een redelijke vergoeding in rekening brengen met dien verstande dat deze ten hoogste  € 22.50 bedraagt in het geval dat: 
+In afwijking van artikel 2 mag de verantwoordelijke een redelijke vergoeding in rekening brengen, met dien verstande dat deze ten hoogste € 22,50 bedraagt in het geval dat: 
 
-a. het afschrift bestaat uit meer dan honderd pagina's, of  
+a. de mededeling bestaat uit meer dan honderd pagina’s;  
 
-b. het bericht bestaat uit een afschrift van een, vanwege de aard van de verwerking, moeilijk toegankelijke gegevensverwerking.    
+b. de mededeling bestaat uit een afschrift van een, vanwege de aard van de verwerking, moeilijk toegankelijke gegevensverwerking;  
+
+c. de mededeling bestaat uit afdrukken van één of meer röntgenfoto’s.   
 
 ### Artikel  4  
 
-De verantwoordelijke mag voor de kosten voor het in behandeling nemen van een verzet als bedoeld in [artikel 40 van de wet](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) een redelijke vergoeding in rekening brengen met dien verstande dat deze ten hoogste  € 4.50 bedraagt.  
+De verantwoordelijke mag voor de kosten voor het in behandeling nemen van een verzet als bedoeld in [artikel 40 van de wet](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) een redelijke vergoeding in rekening brengen met dien verstande dat deze ten hoogste  € 4.50 bedraagt. 
 
 ### Artikel  5  
 
 Tot 1 januari 2002 bedragen de tarieven in afwijking van: 
 
-a. artikel 2, eerste lid: f 0,50 respectievelijk f 10,00;  
+a.artikel 2, eerste lid: f 0,50 respectievelijk f 10,00;
 
-b. artikel 2, tweede lid: f 10,00;  
+b.artikel 2, tweede lid: f 10,00;
 
-c. artikel 3: f 50,00; en  
+c.artikel 3: f 50,00; en
 
-d. artikel 4: f 10,00.    
+d.artikel 4: f 10,00.
 
 ### Artikel  6  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de[ Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) in werking treedt. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit kostenvergoeding rechten betrokkene Wbp.  
+Dit besluit wordt aangehaald als: Besluit kostenvergoeding rechten betrokkene Wbp. 
 
 Lasten en bevelen dat dit besluit met de daarbij bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -66,4 +68,4 @@ A. H. Korthals
 de derde juli 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

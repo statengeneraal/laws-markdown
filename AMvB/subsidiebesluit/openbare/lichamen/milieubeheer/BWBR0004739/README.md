@@ -28,7 +28,7 @@ b. Rijkswaterstaat: het Directoraat-Generaal Rijkswaterstaat van het Ministerie 
 
 c. NMP-2: Tweede Nationaal Milieubeleidsplan (kamerstukken II 1993/94, 23 560, nr. 2);  
 
-d. geluidsgevoelige ruimte van een woning: verblijfsruimte binnen een woning als bedoeld in [artikel 1.1 van het Bouwbesluit 2003](../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), met uitzondering van een keuken met een vloeroppervlak van minder dan 11m <sup>2</sup>;  
+d. geluidsgevoelige ruimte van een woning: verblijfsruimte binnen een woning als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), met uitzondering van een keuken met een vloeroppervlak van minder dan 11m <sup>2</sup>;  
 
 e. ander geluidsgevoelig gebouw: 
 
@@ -44,7 +44,7 @@ e. ander geluidsgevoelig gebouw:
 
 f. geluidsgevoelig terrein: terrein dat behoort bij een gebouw als bedoeld onder f, onder 5°, voor zover dat terrein bestemd is of gebruikt wordt voor de in dat gebouw gegeven zorg;  
 
-g. geluidwerende maatregelen: geluidwerende maatregelen aan de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2003](../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md);  
+g. geluidwerende maatregelen: geluidwerende maatregelen aan de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
 
 h. verkeersmaatregelen: maatregelen met betrekking tot de weg die het geluid, veroorzaakt door het verkeer op de weg, verminderen.    
 
@@ -81,8 +81,8 @@ b. een jaarlijkse rapportage vóór 1 juli in 1999, 2000, 2001, 2002, 2003, 2004
 
 ### Artikel  4a  
 
-1.  Het Interprovinciaal Overleg richt de rapportage, bedoeld in artikel 4, onder *a* en *b*, in overeenkomstig artikel 3 *a*.   
-2.  Onze Minister kan aan het Interprovinciaal Overleg aanwijzingen geven omtrent de inhoud van en de wijze waarop de rapportage, bedoeld in artikel 4, onder *a* en *b*, wordt ingericht.   
+1.  Het Interprovinciaal Overleg richt de rapportage, bedoeld in artikel 4, onder a en b, in overeenkomstig artikel 3a.   
+2.  Onze Minister kan aan het Interprovinciaal Overleg aanwijzingen geven omtrent de inhoud van en de wijze waarop de rapportage, bedoeld in artikel 4, onder a en b, wordt ingericht.   
 
 ### Artikel  4b  
 
@@ -292,7 +292,7 @@ Dit besluit berust op de [artikelen 17, eerste en tweede lid, van de Financiële
 
 ### Artikel  83  
 
-Dit besluit wordt aangehaald als: Subsidiebesluit openbare lichamen.  
+Dit besluit wordt aangehaald als: Subsidiebesluit openbare lichamen milieubeheer.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 
