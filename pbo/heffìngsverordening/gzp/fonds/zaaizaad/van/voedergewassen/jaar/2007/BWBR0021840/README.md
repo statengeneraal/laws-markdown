@@ -9,7 +9,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 16-03-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 16-03-2008 
 
 Deze verordening verstaat onder:  
 
@@ -25,7 +28,10 @@ Deze verordening verstaat onder:
 
 ####Heffing
 
+Materieel uitgewerkt per 16-03-2008 
+
 ### Artikel  2  
+Materieel uitgewerkt per 16-03-2008 
 
 1.  De ondernemer, die in het jaar 2007 werkzaamheden verricht in het kweekbedrijf voor zaaizaad van voedergewassen en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van zaaizaad van voedergewassen, is verplicht aan het productschap te betalen: 
 
@@ -50,56 +56,69 @@ b. een heffing van € 0,– per ha aangekocht zaaizaad van voedergewassen, dat
 
 – voor de telers van graszaad op basis van de door de teler aan het Hoofdproductschap Akkerbouw ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) verstrekte gegevens,   en overigens 
 
-– door tussenkomst van de in het eerste lid bedoelde ondernemers en berekend op basis van door hen afgesloten teeltcontracten.     
+– door tussenkomst van de in het eerste lid bedoelde ondernemers en berekend op basis van door hen afgesloten teeltcontracten.    
 
 ### Artikel  3  
+Materieel uitgewerkt per 16-03-2008 
 
-De in artikel 2 bedoelde heffing is bestemd voor het Fonds zaaizaad van voedergewassen 2003.  
+De in artikel 2 bedoelde heffing is bestemd voor het Fonds zaaizaad van voedergewassen 2003. 
 
 ### §  3  
 
 ####Ambtshalve heffing
 
+Materieel uitgewerkt per 16-03-2008 
+
 ### Artikel  4  
+Materieel uitgewerkt per 16-03-2008 
 
 1.  Indien de ondernemer de gegevens, bedoeld in artikel 2 niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor het betreffende jaar ambtshalve bij aanslag vast te stellen.   
 2.  Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.   
-3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.   
+3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.  
 
 ### §  4  
 
 ####Betaling van de heffing
 
+Materieel uitgewerkt per 16-03-2008 
+
 ### Artikel  5  
+Materieel uitgewerkt per 16-03-2008 
 
 1.  De ingevolge deze verordening verschuldigde heffingsbedragen worden betaald uiterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening zijn gebracht, dan wel, indien de secretaris van het productschap zulks verlangt, voor een door deze te bepalen datum.   
-2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.   
+2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 16-03-2008 
 
-Het productschap kan besluiten nota’s van minder dan € 50,– samen te voegen tot verzamelnota's welke betrekking hebben op meerdere perioden.  
+Het productschap kan besluiten nota’s van minder dan € 50,– samen te voegen tot verzamelnota's welke betrekking hebben op meerdere perioden. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 16-03-2008 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  8  
+Materieel uitgewerkt per 16-03-2008 
 
-Deze verordening treedt in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 maart 2007, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](../../../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md).  
+### Artikel  8  
+Materieel uitgewerkt per 16-03-2008 
+
+Deze verordening treedt in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 maart 2007, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](../../../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md). 
 
 ### Artikel  9  
+Materieel uitgewerkt per 16-03-2008 
 
-Deze verordening wordt aangehaald als: Heffìngsverordening GZP fonds zaaizaad van voedergewassen jaar 2007.  
+Deze verordening wordt aangehaald als: Heffìngsverordening GZP fonds zaaizaad van voedergewassen jaar 2007. 
 
 Den Haag 
 1 maart 2007   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
-M. Elema  
+M.  Elema  
 secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 5 april 2007 en door de Minister van Landbouw, Natuur en Voedselkwaliteit bij beschikking van 17 april 2007, nr. TRCJZ/2007/911.    
