@@ -36,6 +36,12 @@ b. het bij wijze van hulpbetoon zonder winstoogmerk ter beschikking stellen van 
 
 c. het ter beschikking stellen van arbeidskrachten voor het verrichten van arbeid in een onderneming, die door dezelfde ondernemer in stand wordt gehouden als die de arbeidskrachten ter beschikking stelt.     
 
+### Artikel  1a  
+
+####Uitbreiding Toepassingsgebied
+
+Deze wet en de daarop berustende bepalingen zijn mede van toepassing op arbeid die geheel of ten dele buiten Nederland wordt verricht door personen, werkzaam aan boord van zeeschepen die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.  
+
 ### Hoofdstuk  2  
 
 ####Arbeidsbemiddeling
@@ -60,17 +66,48 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voo
 
 ### Artikel  8  
 
-####Loonverhoudingsnorm
+####Gelijke behandeling
 
-1.  Degene die arbeidskrachten ter beschikking stelt is aan deze arbeidskrachten loon en overige vergoedingen verschuldigd overeenkomstig het loon en de overige vergoedingen die worden toegekend aan werknemers, werkzaam in gelijke of gelijkwaardige functies in dienst van de onderneming bij welke de terbeschikkingstelling plaats vindt.   
-2.  Het eerste lid is niet van toepassing, indien in een collectieve arbeidsovereenkomst, van toepassing op de onderneming die de arbeidskracht ter beschikking stelt, of bij of krachtens wet is bepaald, welk loon en overige vergoedingen degene, die arbeidskrachten ter beschikking stelt, aan die arbeidskrachten verschuldigd is.   
-3.  Het eerste lid is eveneens niet van toepassing, indien op de onderneming bij welke de ter beschikkingstelling plaats vindt, een collectieve arbeidsovereenkomst van toepassing is, die bepalingen bevat op grond waarvan de werkgever zich ervan moet verzekeren dat aan arbeidskrachten die aan zijn onderneming ter beschikking zijn gesteld loon en overige vergoedingen worden betaald overeenkomstig de bepalingen van die collectieve arbeidsovereenkomst.   
+1.  De ter beschikking gestelde arbeidskracht heeft recht op ten minste dezelfde arbeidsvoorwaarden als die welke gelden voor werknemers werkzaam in gelijke of gelijkwaardige functies in dienst van de onderneming waar de terbeschikkingstelling plaatsvindt: 
+
+a. met betrekking tot het loon en overige vergoedingen;  
+
+b. op grond van een collectieve arbeidsovereenkomst of andere niet wettelijke bepalingen van algemene strekking die van kracht zijn binnen de onderneming waar de terbeschikkingstelling plaatsvindt, met betrekking tot de arbeidstijden, daaronder begrepen overwerk, rusttijden, arbeid in nachtdienst, pauzes, de duur van vakantie en het werken op feestdagen.     
+2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot: 
+
+a. de voorschriften ter bescherming van zwangere werknemers, van werknemers die een borstkind voeden, kinderen en jeugdige werknemers en ter bevordering van de gelijke behandeling van mannen en vrouwen; en  
+
+b. de maatregelen ter bestrijding van discriminatie op grond van geslacht, ras, godsdienst of levensovertuiging, handicap, leeftijd of hetero- of homoseksuele gerichtheid,   die gelden op grond van een collectieve arbeidsovereenkomst of andere niet wettelijke bepalingen van algemene strekking die van kracht zijn binnen de onderneming waar de terbeschikkingstelling plaatsvindt.   
+3.  Bij collectieve arbeidsovereenkomst kan worden afgeweken van het eerste en tweede lid, mits: 
+
+a. indien de periode gedurende welke wordt afgeweken in duur is beperkt, die overeenkomst voorziet in een regeling op grond waarvan misbruik door elkaar opvolgende perioden van terbeschikkingstelling wordt voorkomen; en  
+
+b. indien het een collectieve overeenkomst betreft die van toepassing is op de onderneming waar de terbeschikkingstelling plaatsvindt, die overeenkomst bepalingen bevat op grond waarvan een werkgever zich ervan moet verzekeren dat de aan zijn onderneming ter beschikking gestelde arbeidskrachten de arbeid verrichten tegen de arbeidsvoorwaarden, genoemd in het eerste lid, die voor deze arbeidskrachten bij die overeenkomst zijn voorgeschreven.     
+
+### Artikel  8a  
+
+#### *Toegang tot bedrijfsvoorzieningen of diensten in de inlenende onderneming* 
+
+Degene aan wie arbeidskrachten ter beschikking zijn gesteld, zorgt er voor dat de aan hem ter beschikking gestelde arbeidskrachten gelijke toegang hebben tot de bedrijfsvoorzieningen of diensten in zijn onderneming, met name kantines, kinderopvang- en vervoersfaciliteiten, als de werknemers, die in dienst van zijn onderneming werkzaam zijn in gelijke of gelijkwaardige functies, tenzij het verschil in behandeling om objectieve redenen gerechtvaardigd is.  
+
+### Artikel  8b  
+
+#### *Vacaturemelding* 
+
+Degene aan wie arbeidskrachten ter beschikking zijn gesteld, zorgt er voor dat binnen zijn onderneming ontstane vacatures tijdig en duidelijk ter kennis worden gebracht aan de hem ter beschikking gestelde arbeidskrachten, opdat zij dezelfde kansen op een arbeidsovereenkomst voor onbepaalde tijd hebben als de werknemers van die onderneming.  
 
 ### Artikel  9  
 
 ####Verbod tegenprestatie arbeidskracht
 
 Bij het ter beschikking stellen van arbeidskrachten wordt voor de terbeschikkingstelling geen tegenprestatie bedongen van de arbeidskracht, die ter beschikking wordt gesteld.  
+
+### Artikel  9a  
+
+#### *Belemmeringsverbod* 
+
+1.  Degene die arbeidskrachten ter beschikking stelt legt geen belemmeringen in de weg voor de totstandkoming van een arbeidsovereenkomst na afloop van de terbeschikkingstelling tussen de ter beschikking gestelde arbeidskracht en degene aan wie hij ter beschikking is gesteld.   
+2.  Elk beding in strijd met het eerste lid is nietig, met uitzondering van een beding op grond waarvan door degene aan wie de arbeidskracht ter beschikking is gesteld een redelijke vergoeding verschuldigd is aan degene die de arbeidskracht ter beschikking heeft gesteld voor de door deze verleende diensten in verband met de terbeschikkingstelling, werving of opleiding van de desbetreffende arbeidskracht.   
 
 ### Artikel  10  
 
