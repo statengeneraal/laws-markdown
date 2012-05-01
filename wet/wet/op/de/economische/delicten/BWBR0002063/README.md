@@ -306,11 +306,6 @@ Het opzettelijk, al dan niet door middel van een ander, onttrekken van vermogens
 1.  Bij toepassing van [artikel 257a van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) kan tevens de aanwijzing worden gegeven dat wordt verricht hetgeen wederrechtelijk is nagelaten, tenietgedaan hetgeen wederrechtelijk is verricht en dat prestaties tot het goedmaken van een en ander worden verricht, alles op kosten van de verdachte, voor zover niet anders wordt bepaald.   
 2.  Indien de verdachte een rechtspersoon is, behoeft deze, in afwijking van [artikel 257c, tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), slechts onder bijstand van een raadsman te worden gehoord als de strafbeschikking betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel bevat welke afzonderlijk of gezamenlijk meer belopen dan € 10 000.   
 
-### Artikel  37  
-
-1.  Wij behouden Ons voor, op de voordracht van Onze Minister van Justitie, gedaan na overleg met Onze andere Ministers, wie het aangaat, aan door Ons bijzonderlijk hiertoe aangewezen lichamen of personen, met een publieke taak belast, binnen door Ons te stellen grenzen tot wederopzeggens toe de bevoegdheid te verlenen, die bij [artikel 74 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) aan de officier van justitie is toegekend.   
-2.  De personen en lichamen, bekleed met de bevoegdheid, bedoeld in het eerste lid, maken hiervan gebruik onder toezicht van en volgens richtlijnen, te geven door het openbaar ministerie.   
-
 ### Titel  VII  
 
 ####Van de bevoegdheid en de samenstelling der arrondissements-rechtbanken

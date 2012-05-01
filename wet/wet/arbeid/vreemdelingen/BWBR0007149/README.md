@@ -43,6 +43,12 @@ g. prioriteitgenietend aanbod: aanbod van de zijde van Nederlanders en vreemdeli
 1.  Het is een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning.   
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing met betrekking tot een vreemdeling ten aanzien van wie tevens een ander als werkgever optreedt, indien die ander beschikt over een voor de desbetreffende arbeid geldige tewerkstellingsvergunning.   
 
+### Artikel  2a  
+
+1.  Een werkgever die een vreemdeling arbeid in Nederland laat verrichten, ten aanzien waarvan het verbod, bedoeld in artikel 2, niet geldt, is verplicht dit gegeven schriftelijk te melden ten minste twee werkdagen voor aanvang van de werkzaamheden aan een bij ministeriële regeling aan te wijzen instantie, onder overlegging van een verklaring en bewijsstukken.   
+2.  De verplichting, bedoeld in het eerste lid, geldt niet, indien de werkgever reeds uit hoofde van andere, bij algemene maatregel van bestuur aan te wijzen, bepalingen een meldingsplicht heeft.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het model van de verklaring en de over te leggen bewijsstukken, bedoeld in het eerste lid.   
+
 ### Artikel  3  
 
 1.  Het verbod, bedoeld in artikel 2, eerste lid, is niet van toepassing met betrekking tot: 
@@ -220,7 +226,7 @@ De toezichthouder is te allen tijde bevoegd tot inbeslagneming van daarvoor vatb
 
 ### Artikel  18  
 
-1.  Als overtreding wordt aangemerkt het niet naleven van de artikelen 2, eerste lid, en 15.   
+1.  Als overtreding wordt aangemerkt het niet naleven van de artikelen 2, eerste lid, en 15 en het bepaalde bij of krachtens artikel 2a.   
 2.  Als overtreding wordt tevens aangemerkt het door de werkgever niet naleven van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover het betreft het door de toezichthouder uitoefenen van bevoegdheden ter vaststelling van de identiteit van degene die voor de werkgever arbeid verricht of heeft verricht.   
 
 ### Artikel  18b  
@@ -278,7 +284,11 @@ Onze Minister stelt nadere regels ter bevordering van een goede uitvoering van d
 
 ### Artikel  23  
 
-Indien een werkgever een vreemdeling arbeid doet verrichten in strijd met artikel 2, wordt de vreemdeling vermoed gedurende ten minste zes maanden werkzaam te zijn voor die werkgever tegen een beloning en een arbeidsduur die in de betreffende bedrijfstak gebruikelijk is.  
+1.  De werkgever is verplicht de vreemdeling die arbeid heeft verricht zijn loon als bedoeld in artikel 2, onderdeel j, van de Richtlijn nr. 2009/52/EG van het Europees Parlement en de Raad van 18 juni 2009 tot vaststelling van minimumnormen inzake sancties en maatregelen tegen werkgevers van illegaal verblijvende onderdanen van derde landen (PbEU 2009 L 168) te voldoen.   
+2.  Indien een werkgever een vreemdeling arbeid doet verrichten in strijd met artikel 2, wordt de vreemdeling vermoed gedurende ten minste zes maanden werkzaam te zijn voor die werkgever tegen het loon, bedoeld in het eerste lid, en voor de duur van het verrichten van de arbeid die in de desbetreffende bedrijfstak gebruikelijk is.   
+3.  De vreemdeling kan tevens elke naast hogere werkgever aansprakelijk stellen voor de nakoming van het eerste lid.   
+4.  Een vordering uit hoofde van het derde lid is slechts mogelijk indien een vordering op de naast lagere werkgever niet is geslaagd.   
+5.  De kantonrechter is bevoegd kennis te nemen van vorderingen op grond van het eerste tot en met derde lid.   
 
 ### Artikel  25  
 

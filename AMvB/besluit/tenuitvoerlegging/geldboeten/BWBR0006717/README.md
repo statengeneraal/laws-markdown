@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Het Centraal Justitieel Incassobureau, bedoeld in [artikel 1 van het Besluit Instelling Centraal Justitieel Incassobureau](../../../../../AMvB/besluit/instelling/centraal/justitieel/incassobureau/BWBR0006713/README.md), heeft tot taak Onze Minister van Justitie en het openbaar ministerie te ondersteunen bij hun taken met betrekking tot de tenuitvoerlegging van geldboeten die bij vonnis of arrest dan wel in een strafbeschikking zijn opgelegd. Het Centraal Justitieel Incassobureau heeft voorts tot taak de bevoegde ambtenaren, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md), te ondersteunen bij hun taken met betrekking tot de betaling van gelden als bedoeld in artikel 3a.   
+1.  Het Centraal Justitieel Incassobureau, bedoeld in [artikel 1 van het Besluit Instelling Centraal Justitieel Incassobureau](../../../../../AMvB/besluit/instelling/centraal/justitieel/incassobureau/BWBR0006713/README.md), heeft tot taak Onze Minister van Justitie en het openbaar ministerie te ondersteunen bij hun taken met betrekking tot de tenuitvoerlegging van geldboeten die bij vonnis of arrest dan wel in een strafbeschikking zijn opgelegd. Het Centraal Justitieel Incassobureau heeft voorts tot taak de bevoegde ambtenaren, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md), alsmede een lichaam of een persoon, bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md), te ondersteunen bij hun taken met betrekking tot de betaling van gelden als bedoeld in artikel 3a.   
 2.  Dit besluit is niet van toepassing op geldboeten die zijn opgelegd in een strafbeschikking, uitgevaardigd krachtens [artikel 76 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 10:15 van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 
 ### Artikel  2  
@@ -40,9 +40,15 @@ Het Centraal Justitieel Incassobureau verricht de werkzaamheden die Onze Ministe
 
 1.  In geval krachtens [artikel 257b van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) een strafbeschikking zal worden uitgevaardigd kan betaling van de geldboete in bijzondere gevallen eveneens geschieden op een plaats die is aangewezen door de bevoegde ambtenaar in de zin van [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md). Betaling geschiedt in dat geval binnen een dag na die waarop het strafbare feit is ontdekt.   
 2.  Als plaats van betaling, bedoeld in het eerste lid, wordt slechts aangewezen een politiebureau of douanekantoor of, indien de bevoegde ambtenaar een militair van de Koninklijke marechaussee is, een brigadebureau of de betrokken doorlaatpost, dan wel een tijdelijke plaats van betaling, ingesteld door of vanwege de betrokken korpschef, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md).   
-3.  [Artikel 3.7, tweede en derde lid, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md) is van overeenkomstige toepassing.   
-4.  Door of vanwege de korpschef, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md), worden ambtenaren aangewezen die zijn belast met de inning van gelden die overeenkomstig het eerste lid worden betaald.   
-5.  De met inning belaste ambtenaar wordt in het bezit gesteld van een lijst met feiten als bedoeld in [artikel 3.6, tweede lid, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md). Desgevraagd verleent hij degene die betaalt inzage in deze lijst.   
+3.  Door of vanwege de korpschef, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md), worden ambtenaren aangewezen die zijn belast met de inning van gelden die overeenkomstig het eerste lid worden betaald.   
+4.  De met inning belaste ambtenaar wordt in het bezit gesteld van een lijst met feiten als bedoeld in [artikel 3.6, tweede lid, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md). Desgevraagd verleent hij degene die betaalt inzage in deze lijst.   
+
+### Artikel  3b  
+
+1.  In geval krachtens [artikel 257ba van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) een strafbeschikking wordt uitgevaardigd, kan, in afwijking van artikel 3, eerste lid, betaling van een geldboete in bijzondere gevallen geschieden op een plaats die is aangewezen door een lichaam of een persoon, in de zin van [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md). Betaling van de geldboete geschiedt binnen een dag na die waarop het strafbare feit is ontdekt.   
+2.  Als plaats van betaling, bedoeld in het eerste lid, wordt slechts aangewezen een eigen kantoor dan wel een tijdelijke plaats van betaling, ingesteld door of vanwege een lichaam of een persoon, bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md).   
+3.  Door of vanwege een lichaam of een persoon, bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md), worden ambtenaren aangewezen die zijn belast met de inning van gelden die overeenkomstig het eerste lid worden betaald.   
+4.  De met inning belaste ambtenaar wordt in het bezit gesteld van een lijst met feiten als bedoeld in [artikel 4.6, tweede lid, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md) en de voor deze feiten vastgestelde tarieven. Desgevraagd verleent hij degene die betaalt inzage in deze lijst.   
 
 ### Artikel  4  
 
@@ -51,8 +57,8 @@ Het Centraal Justitieel Incassobureau verricht de werkzaamheden die Onze Ministe
 
 ### Artikel  5  
 
-1.  In het belang van een juiste taakuitoefening bij de inning van een opgelegde geldboete wordt in de gevallen als bedoeld in artikel 3, eerste lid, tweede zin, en 3a, eerste lid, onverwijld een betalingsbewijs uitgereikt dat door de persoon aan wie wordt voldaan, is gedagtekend en ondertekend.   
-2.  In de gevallen als bedoeld in artikel 3, eerste lid, tweede zin, en 3a, eerste lid, wordt van de inning van de geldboete aantekening gehouden op de wijze zoals door het Centraal Justitieel Incassobureau is aangegeven.   
+1.  In het belang van een juiste taakuitoefening bij de inning van een opgelegde geldboete wordt in de gevallen als bedoeld in artikel 3, eerste lid, tweede zin, 3a, eerste lid en 3b, eerste lid, onverwijld een betalingsbewijs uitgereikt dat door de persoon aan wie wordt voldaan, is gedagtekend en ondertekend.   
+2.  In de gevallen als bedoeld in artikel 3, eerste lid, tweede zin, 3a, eerste lid en 3b, eerste lid, wordt van de inning van de geldboete aantekening gehouden op de wijze zoals door het Centraal Justitieel Incassobureau is aangegeven.   
 3.  De aantekeningen worden, uiterlijk een jaar nadat zij zijn opgemaakt, desverlangd getoond aan de personen die met het toezicht op de inning van geldboeten zijn belast.   
 
 ### Artikel  6  
@@ -77,7 +83,7 @@ Een ieder die betrokken is bij de inning en incasso van een opgelegde geldboete 
 
 ### Artikel  9  
 
-De beheerder van een politiekorps of van het Korps landelijke politiediensten doet op de door Onze Minister van Justitie te bepalen wijze jaarlijks opgave van de uitvoering van de in artikel 8, derde lid, bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole. Wat de Koninklijke marechaussee en de buitengewoon opsporingsambtenaren betreft wordt de in de eerste zin bedoelde opgave gedaan door de betrokken korpschefs in de zin van [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md).  
+De beheerder van een politiekorps of van het Korps landelijke politiediensten doet op de door Onze Minister van Justitie te bepalen wijze jaarlijks opgave van de uitvoering van de in artikel 8, derde lid, bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole. Voor de Koninklijke marechaussee en de buitengewoon opsporingsambtenaren wordt de in de eerste zin bedoelde opgave gedaan door de betrokken korpschefs, bedoeld in [artikel 3.1, tweede lid, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md) of het betrokken lichaam of de betrokken persoon, bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md).  
 
 ### §  3a  
 

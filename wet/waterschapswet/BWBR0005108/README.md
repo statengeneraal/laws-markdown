@@ -458,8 +458,7 @@ Zij die behoren tot het algemeen bestuur van het waterschap en anderen die deeln
 4.  Tot vergoedingen als bedoeld in het derde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die het lid van het dagelijks bestuur neerlegt bij beëindiging van het ambt.   
 5.  Andere inkomsten dan die bedoeld in het derde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
 6.  Indien het lid van het dagelijks bestuur zijn ambt in deeltijd vervult, vindt geen verrekening plaats van de inkomsten, bedoeld in het vijfde lid.   
-7.   Vervallen door vernummering.    
-8.  Op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden bij algemene maatregel van bestuur regels gesteld over de wijze waarop het lid van het dagelijks bestuur gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.   
+7.  Op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden bij algemene maatregel van bestuur regels gesteld over de wijze waarop het lid van het dagelijks bestuur gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.   
 
 ### Artikel  44a  
 
@@ -535,7 +534,7 @@ r. ambtenaar, door of vanwege de provincie aangesteld, tot wiens taak behoort he
 4.  De voorzitter geniet geen vergoedingen, onder welke benaming ook, voor werkzaamheden, verricht in nevenfuncties die hij vervult uit hoofde van zijn ambt, ongeacht of die vergoedingen ten laste van het waterschap komen. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de kas van het waterschap.   
 5.  Tot vergoedingen als bedoeld in het vierde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de voorzitter neerlegt bij beëindiging van het ambt.   
 6.  Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
-7.  Op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden bij algemene maatregel van bestuur regels gesteld over de wijze waarop de burgemeester gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt.   
+7.  Op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden bij algemene maatregel van bestuur regels gesteld over de wijze waarop de voorzitter gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt.   
 
 ### Artikel  49  
 
@@ -864,9 +863,6 @@ g. het vaststellen van plannen krachtens bijzondere wetten.
 
 1.  Met de opsporing van de overtreding van bij keuren strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de bij besluit van het dagelijks bestuur aangewezen ambtenaren van het waterschap. Indien bij provinciale verordening het toezicht op de naleving van het bij of krachtens die verordening bepaalde is opgedragen aan het dagelijks bestuur, zijn met de opsporing van de overtreding daarvan, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de bij besluit van dat bestuur aangewezen ambtenaren.   
 2.  De in het eerste lid bedoelde ambtenaren van het waterschap zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
-3.  De in het eerste lid bedoelde ambtenaren van het waterschap kunnen binnen vier weken nadat proces-verbaal is opgemaakt met de betrokkene in schikking treden.   
-4.  De opbrengst van de bij wege van schikking vastgestelde en dienovereenkomstig betaalde bedragen komt ten bate van het waterschap.   
-5.  De betaling van het bij schikking bepaalde doet het recht tot strafvordering vervallen.   
 
 ### Artikel  86  
 

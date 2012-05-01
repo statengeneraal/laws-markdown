@@ -12,15 +12,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
+a.  *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b. *Gedeputeerde Staten:* Gedeputeerde Staten van de provincie Limburg;  
+b.  *Gedeputeerde Staten:* Gedeputeerde Staten van de provincie Limburg;  
 
-c. *Burgemeester en Wethouders:* Burgemeester en Wethouders van de gemeente Sittard-Geleen;  
+c.  *Burgemeester en Wethouders:* Burgemeester en Wethouders van de gemeente Sittard-Geleen;  
 
-d. *commissie:* Commissie van Wijzen NedCar;  
+d.  *commissie:* Commissie van Wijzen NedCar;  
 
-e. *bestuurlijke kerngroep:* bestuurlijke kerngroep bestaande uit de secretaris-generaal van het Ministerie van Economische Zaken, Landbouw en Innovatie, een gedeputeerde van de provincie Limburg en een wethouder van de gemeente Sittard-Geleen.    
+e.  *bestuurlijke kerngroep:* bestuurlijke kerngroep bestaande uit de secretaris-generaal van het Ministerie van Economische Zaken, Landbouw en Innovatie, een gedeputeerde van de provincie Limburg en een wethouder van de gemeente Sittard-Geleen.   
 
 ### Artikel  2  
 
@@ -32,24 +32,24 @@ a. de duurzame continuïteit van NedCar dan wel van een nieuw te vormen ondernem
 
 b. het realiteitsgehalte inclusief de financiële haalbaarheid van de plannen;  
 
-c. de soliditeit van het ondernemerschap en de gevolgen voor de werkgelegenheid.     
+c. de soliditeit van het ondernemerschap en de gevolgen voor de werkgelegenheid.    
 
 ### Artikel  3  
 
-De commissie brengt haar advies schriftelijk uit aan de bestuurlijke kerngroep.  
+De commissie brengt haar advies schriftelijk uit aan de bestuurlijke kerngroep. 
 
 ### Artikel  4  
 
 1.  De commissie bestaat uit een voorzitter en ten hoogste vier andere leden.   
 2.  De voorzitter en de andere leden worden door de minister benoemd in overeenstemming met de Gedeputeerde Staten en de Burgemeester en Wethouders. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.   
-3.  De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.   
+3.  De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.  
 
 ### Artikel  5  
 
 1.  De commissie stelt haar eigen werkwijze schriftelijk vast.   
 2.  De minister voorziet in het secretariaat van de commissie.   
 3.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken, Landbouw en Innovatie. De bescheiden worden na beëindiging van de commissie overgedragen en opgeborgen in het archief van dat ministerie.   
-4.  De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de invulling van zijn taak redelijkerwijs nodig is.   
+4.  De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de invulling van zijn taak redelijkerwijs nodig is.  
 
 ### Artikel  6  
 
@@ -63,20 +63,20 @@ c. de heer prof. dr. B. Dankbaar, te Nijmegen;
 
 d. de heer prof. ir. N.J.J. Liebrand, te Leende;  
 
-e. de heer ir. J.H.J. Mengelers, te Eindhoven.    
+e. de heer ir. J.H.J. Mengelers, te Eindhoven.   
 
 ### Artikel  7  
 
-1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 23 maart 2012.   
+1.   Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 23 maart 2012.  
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Wijzen NedCar.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Wijzen NedCar. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.   
 
 Den Haag 
 23 april 2012   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

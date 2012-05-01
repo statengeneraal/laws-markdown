@@ -4,7 +4,7 @@
 
 #### *Beschrijving* 
 
-Deze richtlijn ziet op de strafvordering met betrekking tot de meest voorkomende misdrijven (en enkele overtredingen), gepleegd ten aanzien van de [Wet Wapens en Munitie](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md). Daar waar sprake is van in- en uitvoer en bewerken op commerciële basis zal steeds onvoorwaardelijke gevangenisstraf geïndiceerd zijn, met eventueel uitzondering van enkele categorie I wapens. Andere handelingen op commerciële basis indiceren eveneens een maatwerk beoordeling. Een nadere uitwerking is niet opgenomen in deze richtlijn aangezien de voor de strafmaat relevante omstandigheden waaronder deze feiten gepleegd worden te grote verschillen vertonen. Bij de beoordeling van delicten met betrekking tot de [Wet Wapens en Munitie](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt primair beoordeeld op basis van de handeling en de globale gevaarzetting van het wapen. In een aantal situaties speelt, naast de standaard beoordelingsfactoren als medeplegen en recidive, een beperkt aantal specifieke factoren een rol bij de beoordeling. Deze zien dan op de specifieke gevaarzetting van de situatie waarin het delict is gepleegd. In geval van transactie dient afstand altijd als aanvullende voorwaarde te worden gesteld. In geval van dagvaarding dient altijd onttrekking aan het verkeer gevorderd te worden. 
+Deze richtlijn ziet op de strafvordering met betrekking tot de meest voorkomende misdrijven (en enkele overtredingen), gepleegd ten aanzien van de Wet Wapens en Munitie. Daar waar sprake is van in- en uitvoer en bewerken op commerciële basis zal steeds onvoorwaardelijke gevangenisstraf geïndiceerd zijn, met eventueel uitzondering van enkele categorie I wapens. Andere handelingen op commerciële basis indiceren eveneens een maatwerk beoordeling. Een nadere uitwerking is niet opgenomen in deze richtlijn aangezien de voor de strafmaat relevante omstandigheden waaronder deze feiten gepleegd worden te grote verschillen vertonen. Bij de beoordeling van delicten met betrekking tot de Wet Wapens en Munitie wordt primair beoordeeld op basis van de handeling en de globale gevaarzetting van het wapen. In een aantal situaties speelt, naast de standaard beoordelingsfactoren als medeplegen en recidive, een beperkt aantal specifieke factoren een rol bij de beoordeling. Deze zien dan op de specifieke gevaarzetting van de situatie waarin het delict is gepleegd. In geval van transactie dient afstand altijd als aanvullende voorwaarde te worden gesteld. In geval van dagvaarding dient altijd onttrekking aan het verkeer gevorderd te worden. 
 ###Aard van de richtlijn
 
 Bijzondere wetten 
@@ -21,23 +21,23 @@ Bijzondere wetten
 – Voorhanden hebben of overdragen van onderdelen of hulpstukken   
 ###Wettekst
 
-–  [Wet wapens en munitie art. 13](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   
+–  Wet wapens en munitie art. 13   
 
-–  [Wet wapens en munitie art. 26](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   
+–  Wet wapens en munitie art. 26   
 
-–  [Wet wapens en munitie art. 27](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   
+–  Wet wapens en munitie art. 27   
 
-–  [Wet wapens en munitie art. 31](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   
+–  Wet wapens en munitie art. 31   
 
-–  [Wet wapens en munitie art. 54](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   
+–  Wet wapens en munitie art. 54   
 
-–  [Wet wapens en munitie art. 55](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)       
+–  Wet wapens en munitie art. 55       
 
 ####Basisdelict voorhanden hebben, dragen of overdragen van wapen(s) van categorie I.5.33.01
 
 ###Beschrijving
 
-Dit basisdelict ziet op het voorhanden hebben of overdragen van een of meer wapens van categorie I, maar kan ook worden gebruikt voor de andere gedragingen m.b.t. deze wapens genoemd in [artikel 13 van de wet wapens en munitie](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md). 
+Dit basisdelict ziet op het voorhanden hebben of overdragen van een of meer wapens van categorie I, maar kan ook worden gebruikt voor de andere gedragingen m.b.t. deze wapens genoemd in artikel 13 van de wet wapens en munitie. 
 ###Toepasselijk kader
 
 Aanwijzing kader voor strafvordering 
@@ -67,13 +67,13 @@ O Cat I, 5 pijl of pijlpunt 3 pt
 
 O Cat I,6 katapult 3 pt  
 
-O Cat I,7 jo. [3 sub a, b of c RWM](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (aangewezen dreigingswapens, nabootsingen, lijst a en b, gewijzigde lucht- gas- en veerdrukwapens) 17 pt  
+O Cat I,7 jo. 3 sub a, b of c RWM (aangewezen dreigingswapens, nabootsingen, lijst a en b, gewijzigde lucht- gas- en veerdrukwapens) 17 pt  
 
-O Cat I,7 jo. [3 sub d RWM](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (stilletto, valmes of vlindermes met stootplaat) 3 pt  
+O Cat I,7 jo. 3 sub d RWM (stilletto, valmes of vlindermes met stootplaat) 3 pt  
 
-O Cat I,7 jo. [3, sub e en f RWM](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (laserwapen of werppen) 3 pt  
+O Cat I,7 jo. 3, sub e en f RWM (laserwapen of werppen) 3 pt  
 
-O Cat I,7 jo. [3 sub g RWM](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (niet dan wel slecht detecteerbare nabootsing van een wapen) 3 pt   Aantal wapens cat I 
+O Cat I,7 jo. 3 sub g RWM (niet dan wel slecht detecteerbare nabootsing van een wapen) 3 pt   Aantal wapens cat I 
 
 – per extra wapen de waarde van het wapen + 3 punten   
 ###Delictspecifieke factoren
@@ -261,7 +261,9 @@ O cat IV, 4 lucht- gas- of veerdrukwapen, niet zijnde cat I, 7 3 pt
 
 O cat IV, 5 kruisboog of harpoen 3 pt  
 
-O cat IV, 7 voorwerp, gelet op aard en/of omstandigheden 3 pt   Aantal wapens cat IV 
+O cat IV, 7 niet acceptabel opvouwbaar mes 3 pt  
+
+O cat IV, 8 voorwerp, gelet op aard en/of omstandigheden 3 pt   Aantal wapens cat IV 
 
 – per extra wapen de waarde van het wapen + 3 punten   
 ###Delictspecifieke factoren
@@ -303,7 +305,7 @@ Geen
 Geen 
 ###Bijzonderheden
 
-In geval van transactie dient afstand altijd als aanvullende voorwaarde te worden gesteld. Indien het beslag nog niet is afgedaan dient bij afdoening via een strafbeschikking tevens de maatregel onttrekking aan het verkeer te worden opgelegd en in geval van dagvaarding ook onttrekking aan het verkeer te worden gevorderd. Dit delict betreft een overtreding waarop een geldboete als straf is gesteld tot het maximum van de derde categorie (€ 7600). Alle punten worden derhalve in geldboete uitgerekend. Het maximaal aantal punten voor dit delict is 344.    
+In geval van transactie dient afstand altijd als aanvullende voorwaarde te worden gesteld. Indien het beslag nog niet is afgedaan dient bij afdoening via een strafbeschikking tevens de maatregel onttrekking aan het verkeer te worden opgelegd en in geval van dagvaarding ook onttrekking aan het verkeer te worden gevorderd. Dit delict betreft een overtreding waarop een geldboete als straf is gesteld tot het maximum van de derde categorie (€ 7600). Alle punten worden derhalve in geldboete uitgerekend. Het maximaal aantal punten voor dit delict is 267.    
 
 ####Basisdelict voorhanden hebben of overdragen van munitie. 5.33.04
 
@@ -473,13 +475,13 @@ O Cat I, 5 pijl of pijlpunt 3 pt
 
 O Cat I,6 katapult 3 pt  
 
-O Cat I,7 jo. [3 sub a, b of c RWM](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (aangewezen dreigingswapens, nabootsingen lijst a en b, gewijzigde lucht- gas- en veerdrukwapens) 17 pt  
+O Cat I,7 jo. 3 sub a, b of c RWM (aangewezen dreigingswapens, nabootsingen lijst a en b, gewijzigde lucht- gas- en veerdrukwapens) 17 pt  
 
-O Cat I,7 jo. [3 sub d RWM](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (stilletto, valmes of vlindermes met stootplaat) 3 pt  
+O Cat I,7 jo. 3 sub d RWM (stilletto, valmes of vlindermes met stootplaat) 3 pt  
 
-O Cat I,7 jo. [3, sub e en f RWM](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (laserwapen of werppen) 3 pt  
+O Cat I,7 jo. 3, sub e en f RWM (laserwapen of werppen) 3 pt  
 
-O Cat I,7 jo. [3 sub g RWM](../../../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md) (op wapen gelijkend voorwerp, dat niet of slecht detecteerbaar is 3 pt   
+O Cat I,7 jo. 3 sub g RWM (op wapen gelijkend voorwerp, dat niet of slecht detecteerbaar is 3 pt   
 ###Uitgangspunt indien onbekend
 
 N.v.t. 
@@ -565,7 +567,9 @@ O cat IV, 4 lucht- gas- of veerdrukwapen, niet zijnde cat I, 7 3 pt
 
 O cat IV, 5 kruisboog of harpoen 3 pt  
 
-O cat IV, 7 voorwerp, gelet op aard en/of omstandigheden 3 pt   
+O cat IV, 7 niet-acceptabel opvouwbaar mes 3 pt  
+
+O cat IV,8 voorwerp, gelet op aard en/of omstandigheden 3 pt   
 ###Uitgangspunt indien onbekend
 
 N.v.t. 
@@ -739,7 +743,7 @@ Geen
 
 ###Beschrijving
 
-Deze beoordelingsfactor heeft betrekking op delicten van de [Wet Wapens en Munitie](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md). Voorheen betrof deze factor het thuis voorhanden hebben van een wapen dat het karakter van oudheid draagt of deel uitmaakt van een verzameling of wandversiering of niet voor gebruik als zodanig geschikt te maken is. Thans is voor het toepassen van het kortingspercentage alleen nog van belang de vraag of het wapen op een eenvoudige manier gebruiksklaar kan worden gemaakt of niet. 
+Deze beoordelingsfactor heeft betrekking op delicten van de Wet Wapens en Munitie. Voorheen betrof deze factor het thuis voorhanden hebben van een wapen dat het karakter van oudheid draagt of deel uitmaakt van een verzameling of wandversiering of niet voor gebruik als zodanig geschikt te maken is. Thans is voor het toepassen van het kortingspercentage alleen nog van belang de vraag of het wapen op een eenvoudige manier gebruiksklaar kan worden gemaakt of niet. 
 ###Soort factor
 
 Delictspecifieke factor 
@@ -764,7 +768,7 @@ Geen
 
 ####Overige kleine wijzigingen
 
-Ook bij de delictspecifieke factoren *Medeplegen* (3.02.09), *Aan boord van een vliegtuig of op een vliegveld* (3.02.35) en *In samenhang met een evenement* (3.02.06) moeten alle huidige basisdelicten m.b.t. de [WWM](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) worden vervangen door de 5 nieuwe basisdelicten: 
+Ook bij de delictspecifieke factoren *Medeplegen* (3.02.09), *Aan boord van een vliegtuig of op een vliegveld* (3.02.35) en *In samenhang met een evenement* (3.02.06) moeten alle huidige basisdelicten m.b.t. de WWM worden vervangen door de 5 nieuwe basisdelicten: 
 
 – Voorhanden hebben, dragen of overdragen van wapen(s) van categorie I  
 
@@ -774,7 +778,7 @@ Ook bij de delictspecifieke factoren *Medeplegen* (3.02.09), *Aan boord van een 
 
 – Voorhanden hebben of overdragen van munitie  
 
-– Voorhanden hebben of overdragen van onderdelen of hulpstukken   Bij de wettelijke factor *Medeplichtigheid* (3.03.02) moeten alle huidige basisdelicten m.b.t. de [WWM](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) worden vervangen door 4 van de 5 nieuwe basisdelicten: 
+– Voorhanden hebben of overdragen van onderdelen of hulpstukken   Bij de wettelijke factor *Medeplichtigheid* (3.03.02) moeten alle huidige basisdelicten m.b.t. de WWM worden vervangen door 4 van de 5 nieuwe basisdelicten: 
 
 – Voorhanden hebben, dragen of overdragen van wapen(s) van categorie I  
 
@@ -782,7 +786,7 @@ Ook bij de delictspecifieke factoren *Medeplegen* (3.02.09), *Aan boord van een 
 
 – Voorhanden hebben of overdragen van munitie  
 
-– Voorhanden hebben of overdragen van onderdelen of hulpstukken   N.b. de wettelijke factor *Poging* (3.03.03) is eruit gehaald, dit betekent dat bij deze factor de huidige basisdelicten m.b.t. de [WWM](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) kunnen worden verwijderd. Bij de Recidiveregeling *Mate van recidive (5 jaar)* (3.04.04) moeten alle huidige basisdelicten m.b.t. de [WWM](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) worden vervangen door de 4 van de 5 nieuwe basisdelicten: 
+– Voorhanden hebben of overdragen van onderdelen of hulpstukken   N.b. de wettelijke factor *Poging* (3.03.03) is eruit gehaald, dit betekent dat bij deze factor de huidige basisdelicten m.b.t. de WWM kunnen worden verwijderd. Bij de Recidiveregeling *Mate van recidive (5 jaar)* (3.04.04) moeten alle huidige basisdelicten m.b.t. de WWM worden vervangen door de 4 van de 5 nieuwe basisdelicten: 
 
 – Voorhanden hebben, dragen of overdragen van wapen(s) van categorie I  
 

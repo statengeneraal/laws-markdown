@@ -28,7 +28,7 @@ In deze wet wordt verstaan onder:
 
 6°. bestemming: de onmiddellijke bestemming van de in een consentaanvraag omschreven wapens en munitie, aangevuld met de eindbestemming daarvan indien ten tijde van de consentaanvraag bekend is dat de wapens en munitie vanuit de onmiddellijke bestemming zullen worden doorgevoerd;  
 
-7°. binnenkomen en uitgaan: het binnen het grondgebied van Nederland komen, respectievelijk het verlaten van het grondgebied van Nederland met als bestemming een andere lidstaat van de Europese Unie;  
+7°. binnenkomen en uitgaan: het binnen het grondgebied van Nederland komen, respectievelijk het verlaten van het grondgebied van Nederland;  
 
 8°. doorvoer: binnenkomen gevolgd door uitgaan;  
 
@@ -44,15 +44,7 @@ In deze wet wordt verstaan onder:
 
 1.  Wapens in de zin van deze wet zijn de hieronder vermelde of overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld in de volgende categorieën.  *Categorie I*  
 
-1°. stiletto's, valmessen en vlindermessen, een en ander indien het lemmet: 
-
-a. meer dan een snijkant heeft;  
-
-b. 7 cm of langer en 14 mm of smaller is;  
-
-c. 9 cm of langer is; of  
-
-d. van een stootplaat is voorzien;    
+1°. stiletto’s, valmessen en vlindermessen;  
 
 2°. andere opvouwbare messen, indien: 
 
@@ -110,7 +102,7 @@ c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de l
 
 6°. bij regeling van Onze Minister aangewezen voorwerpen die geschikt zijn om daarmee personen ernstig lichamelijk letsel toe te brengen;  
 
-7°. Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij voor geen ander doel zijn bestemd dan om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.     
+7°. Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.     
 2.  Munitie in de zin van deze wet is, onderverdeeld in de volgende categorieën:  *Categorie I*  (Vervallen)  *Categorie II*  
 
 1°. munitie die uitsluitend geschikt voor vuurwapens van categorie II is;  
@@ -121,7 +113,7 @@ c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de l
 
 4°. munitie voor geweren, revolvers en pistolen voorzien van expanderende projectielen, alsmede de voor deze munitie bestemde projectielen, behalve wanneer het voor de jacht of de schietsport bestemde munitie of projectielen betreft.    *Categorie III*  Alle overige munitie.   
 3.  Aanwijzingen door Onze Minister, als bedoeld in het eerste lid, geschieden bij regeling.   
-4.  Onverminderd het bepaalde in het eerste lid, onder categorie I, sub 7°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen.   
+4.  Onverminderd het bepaalde in het eerste lid, onder categorie I, sub 7°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen of om personen te bedreigen of af te dreigen.   
 
 ### Artikel  3  
 
@@ -131,8 +123,8 @@ c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de l
 ### Artikel  3a  
 
 1.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de krijgsmacht. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister van Defensie dit bij regeling heeft bepaald.   
-2.  De artikelen 9, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister en Onze Minister van Binnenlandse Zaken dit bij regeling hebben bepaald.   
-3.  De artikelen 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md) en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.   
+2.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister en Onze Minister van Binnenlandse Zaken dit bij regeling hebben bepaald.   
+3.  De artikelen 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md) en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.   
 4.  Voor de toepassing van dit artikel wordt onder krijgsmacht, politie en overige openbare dienst mede verstaan niet-Nederlandse krijgsmacht, politie of openbare dienst.   
 
 ### Artikel  4  
@@ -147,7 +139,7 @@ c. andere wapens, voor zover deze bestemd zijn voor dan wel deel uitmaken van ee
 
 d. munitie, voor zover deze bestemd is voor dan wel deel uitmaakt van een verzameling;  
 
-e. toestellen en voorwerpen voor beroepsdoeleinden;  
+e. toestellen en voorwerpen voor beroeps-, hulpverlenings-, trainings- en sportdoeleinden;  
 
 f. monster-, demonstratie- of testmateriaal en rekwisieten;  
 
@@ -246,13 +238,13 @@ c. indien de houder van de erkenning gedurende ten minste een jaar de handelinge
 1.  Het is verboden een wapen van categorie I te vervaardigen, te transformeren, voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, te vervoeren, te doen binnenkomen of te doen uitgaan.   
 2.  Onze Minister kan, onverminderd artikel 9, ontheffing verlenen van een of meer verboden genoemd in het eerste lid, met het oog op: 
 
-a. gebruik door de krijgsmacht;  
+a. gebruik door de krijgsmacht, de politie en de overige openbare dienst;  
 
-b. onderwijs ten behoeve van de politie en de overige openbare dienst;  
+b. onderwijs ten behoeve van de krijgsmacht, de politie en de overige openbare dienst;  
 
 c. doorvoer van wapens of munitie.     
 3.  Op een ontheffing met het oog op doorvoer is artikel 20, tweede en derde lid, van overeenkomstige toepassing.   
-4.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek tot ontheffing.   
+4.  Het eerste lid is niet van toepassing op het doen uitgaan van een wapen van categorie I, indien op basis van [artikel 6 van het Besluit strategische goederen](../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md) geen vergunning voor het uitvoeren van militaire goederen uit Nederland is vereist.   
 
 ### §  4  
 
@@ -286,7 +278,7 @@ Onze Minister kan, na overleg met Onze Minister van Economische Zaken, bepalen d
 
 1.  Een consent tot binnenkomen wordt geweigerd indien de aanvrager niet gerechtigd is de wapens of de munitie in Nederland voorhanden te hebben, tenzij deze zijn bestemd voor overbrenging en opslag onder douaneverband.   
 2.  Een consent tot uitgaan wordt geweigerd indien niet uit een door de aanvrager over te leggen bewijsstuk blijkt of niet uit anderen hoofde bekend is dat de bevoegde autoriteiten van het land van bestemming geen bedenkingen hebben tegen de aanwezigheid van de wapens of munitie op hun grondgebied.   
-3.  Van een consent tot uitgaan wordt door de Belastingdienst/Douane centrale dienst voor in- en uitvoer mededeling gedaan aan de lidstaat van de Europese Unie die het land van bestemming of van doorvoer is.   
+3.  Wanneer een lidstaat van de Europese Unie het land van bestemming of van doorvoer is van de wapens of munitie waarop de aanvraag betrekking heeft, doet de Belastingdienst/Douane centrale dienst voor in- en uitvoer mededeling aan die lidstaat van het verlenen van het consent.   
 
 ### §  5  
 
@@ -295,7 +287,7 @@ Onze Minister kan, na overleg met Onze Minister van Economische Zaken, bepalen d
 ### Artikel  22  
 
 1.  Het is verboden een wapen of munitie van de categorieën II en III te vervoeren zonder vergunning tot vervoer, als bedoeld in artikel 9, vierde lid, dan wel verlof tot vervoer, als bedoeld in artikel 24.   
-2.  Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid verlenen met betrekking tot sportschutters en jagers, die gerechtigd zijn tot het voorhanden hebben van wapens of munitie.   
+2.  Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid verlenen met betrekking tot sportschutters en jagers, die gerechtigd zijn tot het voorhanden hebben van wapens of munitie, alsmede personen die in de uitoefening van een beroep of bedrijf of als werknemer van de houder van een erkenning als bedoeld in artikel 9, derde lid, wapens of munitie vervoeren.   
 
 ### Artikel  24  
 
@@ -326,7 +318,7 @@ b. de vereiste kennis op het terrein van wapens; en
 
 c. het aantal wapens dat zij ten hoogste voorhanden mogen hebben.     
 5.  Het is personen die de leeftijd van achttien jaren nog niet hebben bereikt verboden een wapen van categorie IV voorhanden te hebben.   
-6.  Onze Minister kan bij regeling vrijstelling van het verbod van het vijfde lid verlenen in het kader van in verenigingsverband beoefende sporten.   
+6.  Onze Minister kan bij regeling vrijstelling van het verbod van het vijfde lid verlenen in het kader van in verenigingsverband beoefende sporten of door Onze Minister aangewezen recreatieve activiteiten in daartoe gevestigde bedrijven waarin wapens worden gedragen als bedoeld in artikel 2, eerste lid, categorie IV, onderdeel 4° en onderdeel 5° met betrekking tot kruisbogen.   
 
 ### Artikel  27  
 
@@ -343,11 +335,9 @@ a. optochten; en
 b. studenten-weerbaarheidsverenigingen.     
 4.  Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid voor wapens van categorie IV verlenen met betrekking tot: 
 
-a. ceremoniële wapens;  
+a. ceremoniële wapens; en  
 
-b. kermissen; en  
-
-c. sportbeoefening.     
+b. recreatieve activiteiten.     
 
 ### Artikel  28  
 
@@ -446,7 +436,7 @@ d. het type munitie.
 
 ### Artikel  34  
 
-1.  Tegen beschikkingen van de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister.   
+1.  Tegen beschikkingen van de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister. [Artikel 10:3, tweede lid, onder c, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
 2.  Het beroep kan worden ingesteld: 
 
 a. tegen beschikkingen op grond van artikel 8: door de bewaargever en door de rechthebbende;  

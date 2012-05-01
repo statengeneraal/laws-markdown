@@ -442,7 +442,7 @@ c. er grond is om aan te nemen dat de houder van zijn bevoegdheden in het kader 
 1.  De bevoegdheid tot het nemen van beschikkingen omtrent het verlenen van jachtakten berust bij de korpschef van het regionale politiekorps in de regio, waarin de woonplaats van de aanvrager is gelegen, of, indien deze niet woonachtig is in Nederland, bij de korpschef van het politiekorps in de regio Haaglanden.   
 2.  De bevoegdheid tot het nemen van beschikkingen tot intrekking van jachtakten berust bij de korpschef die de akte heeft verleend.   
 3.  De in het tweede lid bedoeld bevoegdheid komt tevens toe aan Onze Minister van Veiligheid en Justitie in gevallen als bedoeld in artikel 41, eerste lid, onderdeel c.   
-4.  Tegen beschikkingen van de korpschef als bedoeld in het eerste en tweede lid staat administratief beroep open bij Onze Minister van Veiligheid en Justitie indien de jachtakte is geweigerd of ingetrokken of mede is geweigerd of ingetrokken om redenen als bedoeld in artikel 39, eerste lid, aanhef en onderdeel e, onderscheidenlijk artikel 41, eerste lid, aanhef en onderdeel c.   
+4.  Tegen beschikkingen van de korpschef als bedoeld in het eerste en tweede lid staat administratief beroep open bij Onze Minister van Veiligheid en Justitie indien de jachtakte is geweigerd of ingetrokken of mede is geweigerd of ingetrokken om redenen als bedoeld in artikel 39, eerste lid, aanhef en onderdeel e, onderscheidenlijk artikel 41, eerste lid, aanhef en onderdeel c. [Artikel 10:3, tweede lid, onder c, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
 
 ### Artikel  43  
 

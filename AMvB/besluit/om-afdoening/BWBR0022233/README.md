@@ -24,9 +24,17 @@ In dit besluit wordt verstaan onder:
 
 a. de wet: het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
-b. Onze Minister: Onze Minister van Justitie;  
+b. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-c. Centraal Justitieel Incassobureau: het Centraal Justitieel Incassobureau, bedoeld in [artikel 1 van het Besluit Instelling Centraal Justitieel Incassobureau](../../../../AMvB/besluit/instelling/centraal/justitieel/incassobureau/BWBR0006713/README.md).    
+c. Centraal Justitieel Incassobureau: het Centraal Justitieel Incassobureau, bedoeld in [artikel 1 van het Besluit Instelling Centraal Justitieel Incassobureau](../../../../AMvB/besluit/instelling/centraal/justitieel/incassobureau/BWBR0006713/README.md);  
+
+d. *hoofdofficier van justitie:* de officier van justitie in de rang van hoofdofficier van justitie die aan het hoofd staat van het arrondissementsparket, het landelijk parket of het functioneel parket;  
+
+e. *buitengewoon opsporingsambtenaar:* de ambtenaar, bedoeld in [artikel 142, eerste lid, van de wet](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+
+f. *toezichthouder:* toezichthouder, bedoeld in [artikel 1, vierde lid, onderdeel a, van het Besluit buitengewoon opsporingsambtenaar](../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);  
+
+g. *direct toezichthouder:* direct toezichthouder, bedoeld in [artikel 1, vierde lid, onderdeel b, van het Besluit buitengewoon opsporingsambtenaar](../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md).    
 
 ### Hoofdstuk  II  
 
@@ -73,15 +81,7 @@ e. de datum van ontvangst van het afschrift.
 
 a. strafbeschikkingsbevoegdheid: de bevoegdheid een strafbeschikking uit te vaardigen, bedoeld in [artikel 257b van de wet](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
-b. bevoegde ambtenaar: de opsporingsambtenaar, bedoeld in artikel 3.2.  
-
-c. hoofdofficier van justitie: officier van justitie, hoofd van het arrondissementsparket, het functioneel parket of het landelijk parket;  
-
-d. buitengewoon opsporingsambtenaar: de ambtenaar, bedoeld in [artikel 142, eerste lid, van de wet](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
-
-e. toezichthouder: toezichthouder, bedoeld in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);  
-
-f. direct toezichthouder: direct toezichthouder, bedoeld in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md).     
+b. bevoegde ambtenaar: de opsporingsambtenaar, bedoeld in artikel 3.2.     
 2.  Als korpschef in de zin van dit hoofdstuk wordt aangemerkt met betrekking tot 
 
 a. de ambtenaren, bedoeld in artikel 3.2, eerste en tweede lid: de korpschef van het politiekorps waarbij zij in dienst zijn, dan wel hun praktijkstage vervullen;  
@@ -100,17 +100,17 @@ c. de ambtenaren, bedoeld in artikel 3.2, vierde lid: het hoofd van de organisat
 2.  Voor de in artikel 3.3, onderdeel b, aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de ambtenaren van politie, bedoeld in [artikel 141, aanhef en onder b, van de wet](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede aan de ambtenaren die een basisopleiding volgen aan de Politieacademie, uitsluitend gedurende hun praktijkstage bij een politiekorps.   
 3.  Voor de in artikel 3.3, onderdelen b en c, aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan de militairen van de Koninklijke marechaussee, bedoeld in [artikel 141, aanhef en onder c, van de wet](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
 4.  Voor de in artikel 3.3, onderdeel b, aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren, voor zover deze ambtenaren bevoegd zijn tot de opsporing van die zaken.   
-5.  In afwijking van het vierde lid, aanhef en onderdeel c, wordt voor de in artikel 3.3, onderdeel b, aangewezen zaken geen strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren in dienst van de gemeente, voor zover voor die zaken in de desbetreffende gemeente krachtens een verordening als bedoeld in [artikel 154b, eerste lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) een bestuurlijke boete kan worden opgelegd.   
+5.  In afwijking van het vierde lid, wordt voor de in artikel 3.3, onderdeel b, aangewezen zaken geen strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren in dienst van de gemeente, voor zover voor die zaken in de desbetreffende gemeente krachtens een verordening als bedoeld in [artikel 154b, eerste lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) een bestuurlijke boete kan worden opgelegd.   
 
 ### Artikel  3.3  
 
 Als zaken waarin de strafbeschikkingsbevoegdheid kan worden uitgeoefend worden aangewezen: 
 
-a. de zaken, aangeduid in de bijlage van dit besluit en zoals nader omschreven in de richtlijnen, gesteld door het openbaar ministerie, die de ontdekking betreffen van een misdrijf, omschreven in [artikel 310](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [321 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover het feit de toe-eigening betreft van goederen met een waarde van ten hoogste € 120 uit een winkel, voor zover de verdachte de leeftijd van achttien jaren heeft bereikt;  
+a. de zaken, aangeduid in bijlage I van dit besluit en zoals nader omschreven in de richtlijnen, gesteld door het openbaar ministerie, die de ontdekking betreffen van een misdrijf, omschreven in [artikel 310](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [321 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover het feit de toe-eigening betreft van goederen met een waarde van ten hoogste € 120 uit een winkel, voor zover de verdachte de leeftijd van achttien jaren heeft bereikt;  
 
-b. de zaken welke betreffen de op heterdaad of met een technisch hulpmiddel door de bevoegde ambtenaar ontdekte overtredingen, aangeduid in de bijlage van dit besluit, voor zover de verdachte hetzij behoort tot een categorie die met betrekking tot die feiten in de bijlage van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan;  
+b. de zaken welke betreffen de op heterdaad of met een technisch hulpmiddel door de bevoegde ambtenaar ontdekte overtredingen, aangeduid in bijlage I van dit besluit, voor zover de verdachte hetzij behoort tot een categorie die met betrekking tot die feiten in bijlage I van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan;  
 
-c. de op heterdaad of met een technisch hulpmiddel ontdekte verkeersovertredingen, aangeduid in de bijlage van dit besluit en strafbaar gesteld bij [artikel 169 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) juncto de Verkeersregeling defensie voor zover de verdachte militair is en hetzij behoort tot een categorie die met betrekking tot die feiten in de bijlage van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan en de overtreding is begaan op een militair terrein met een voertuig dat niet bij de krijgsmacht in gebruik is.    
+c. de op heterdaad of met een technisch hulpmiddel ontdekte verkeersovertredingen, aangeduid in bijlage I van dit besluit en strafbaar gesteld bij [artikel 169 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) juncto de Verkeersregeling defensie voor zover de verdachte militair is en hetzij behoort tot een categorie die met betrekking tot die feiten in bijlage I van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan en de overtreding is begaan op een militair terrein met een voertuig dat niet bij de krijgsmacht in gebruik is.    
 
 ### Artikel  3.4  
 
@@ -128,46 +128,85 @@ c. de op heterdaad of met een technisch hulpmiddel ontdekte verkeersovertredinge
 
 ### Artikel  3.6  
 
-1.  Het openbaar ministerie vaardigt richtlijnen uit waarin ten aanzien van elk feit waarvoor de bevoegde ambtenaar een strafbeschikking kan uitvaardigen de hoogte van de daarin op te leggen geldboete wordt bepaald. Deze richtlijnen worden in de Staatscourant bekend gemaakt.   
+1.  Het College van procureurs-generaal vaardigt richtlijnen uit waarin ten aanzien van elk feit waarvoor de bevoegde ambtenaar een strafbeschikking kan uitvaardigen de hoogte van de daarin op te leggen geldboete wordt bepaald. Deze richtlijnen worden in de Staatscourant bekend gemaakt.   
 2.  De bevoegde ambtenaar wordt in het bezit gesteld van een lijst met de feiten waarvoor de strafbeschikking kan worden uitgevaardigd en met de bedragen van de geldboeten die daarin kunnen worden opgelegd. Desgevraagd verleent hij aan de betrokken persoon inzage in deze lijst.   
 
 ### Artikel  3.7  
 
-1.  De bevoegde ambtenaar houdt aantekening van elke zaak waarin hij van zijn strafbeschikkingsbevoegdheid gebruik maakt.   
-2.  De hoofdofficier van justitie wint periodiek rapport in van de korpschefs van de regionale politiekorpsen over de wijze waarop de onder hen ressorterende in het arrondissement hun dienst uitoefenende ambtenaren gebruik hebben gemaakt van de verleende strafbeschikkingsbevoegdheid. De korpschefs zenden hun rapporten in door tussenkomst van de betrokken korpsbeheerder.   
-3.  Het hoofd van het landelijk parket, bedoeld in [artikel 137, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), wint periodiek rapport in van de korpschef van het Korps landelijke politiediensten over de wijze waarop de onder deze ressorterende ambtenaren gebruik hebben gemaakt van de verleende strafbeschikkingsbevoegdheid. De korpschef zendt zijn rapport in door tussenkomst van de korpsbeheerder.   
+De bevoegde ambtenaar houdt aantekening van elke zaak waarin hij van zijn strafbeschikkingsbevoegdheid gebruik maakt.  
 
 ### Hoofdstuk  IV  
 
-####Wijziging van enkele besluiten
+####De strafbeschikking in de zin van [artikel 257ba van de wet](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md)
 
 ### Artikel  4.1  
 
-Wijzigt het Besluit tenuitvoerlegging geldboetevonnissen.   
+In dit hoofdstuk wordt verstaan onder: 
+
+a. *strafbeschikkingsbevoegdheid:* de bevoegdheid een strafbeschikking bedoeld in [artikel 257ba van de wet](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), inhoudende een geldboete, uit te vaardigen;  
+
+b. *lichaam of persoon:* het lichaam of de persoon met een publieke taak belast, bedoeld in artikel 4.2;  
+
+c. *Regionale Uitvoeringsdienst:* een openbaar lichaam in de zin van [artikel 8 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) belast met de uitvoering van het toezicht op en de handhaving van milieuregelgeving;  
+
+d. *algemeen opsporingsambtenaar:* de ambtenaar, bedoeld in [artikel 141, aanhef en onder b en d, van de wet](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+
+e. *bevoegde ambtenaar:* de buitengewoon opsporingsambtenaar in dienst van of werkzaam voor een lichaam of een persoon, voor zover hij bevoegd is tot opsporing van de zaken bedoeld in artikel 4.3 en de algemeen opsporingsambtenaar werkzaam voor een lichaam of een persoon.    
 
 ### Artikel  4.2  
 
-Wijzigt het Besluit tenuitvoerlegging ontnemings- en schadevergoedingsmaatregelen.   
+Voor zaken betreffende de in artikel 4.3 aangewezen strafbare feiten wordt de strafbeschikkingsbevoegdheid toegekend aan de volgende lichamen of personen: 
+
+a. de directeuren van de Regionale Uitvoeringsdiensten, voor de feiten vermeld in hoofdstuk 1 van bijlage II van dit besluit;  
+
+b. de dagelijkse besturen van de waterschappen voor feiten vermeld in bijlage II van dit besluit;  
+
+c. de hoofdingenieurs-directeur van de regionale en landelijke diensten van Rijkswaterstaat van het Ministerie van Infrastructuur en Milieu voor feiten vermeld in bijlage II van dit besluit;  
+
+d. de inspecteur-generaal van de Inspectie voor Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu, voor de feiten vermeld in hoofdstuk 1 van bijlage II van dit besluit;  
+
+e. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, Landbouw en Innovatie, voor de feiten vermeld in hoofdstuk 1 van bijlage II van dit besluit;  
+
+f. het college van gedeputeerde staten van de provincies, voor zover in de provincie of delen daarvan nog geen Regionale Uitvoeringsdienst is ingesteld, voor de feiten vermeld in hoofdstuk 1 van bijlage II van dit besluit.    
 
 ### Artikel  4.3  
 
-Wijzigt het Besluit tenuitvoerlegging taakstraffen.   
+Zaken waarin de strafbeschikkingsbevoegdheid kan worden uitgeoefend, betreffen de door de bevoegde ambtenaar geconstateerde strafbare feiten, aangeduid in bijlage II van dit besluit, voor zover die strafbare feiten van geringe ernst of eenvoudige aard zijn zoals nader omschreven in de richtlijnen, bedoeld in artikel 4.6, eerste lid en voor zover de verdachte behoort tot een categorie die met betrekking tot die feiten in bijlage II van dit besluit is vermeld.  
 
 ### Artikel  4.4  
 
-Wijzigt het Besluit justitiële gegevens.   
+Een lichaam of een persoon maakt geen gebruik van zijn strafbeschikkingsbevoegdheid indien: 
+
+a. het een strafbaar feit betreft dat is begaan door een persoon die jonger is dan achttien jaar;  
+
+b. het een strafbaar feit betreft dat is begaan door een openbaar lichaam;  
+
+c. degene onder wie één of meer voorwerpen in beslag zijn genomen, weigert afstand te doen;  
+
+d. voor opsporing van het strafbare feit internationale rechtshulp nodig is;  
+
+e. het strafbare feit wordt geconstateerd met één of meer strafbare feiten waarvoor de strafbeschikkingsbevoegdheid is verleend, indien het gezamenlijke boetebedrag voor deze economische milieufeiten hoger is dan € 2.000 voor een natuurlijk persoon of € 10.000 voor een rechtspersoon;  
+
+f. het strafbare feit wordt geconstateerd met één of meer strafbare feiten waarvoor de strafbeschikkingsbevoegdheid is verleend, indien het gezamenlijke boetebedrag voor niet-economische milieufeiten hoger is dan € 2.000 voor een natuurlijk persoon of een rechtspersoon;  
+
+g. sprake is van aanwijzingen voor een wederrechtelijk verkregen voordeel van meer dan € 5.000;  
+
+h. het strafbare feit een wederrechtelijke gedraging betreft waardoor de dood van of ernstig letsel aan personen danwel aanzienlijke schade aan dieren of planten wordt veroorzaakt, dan wel dreigt te worden veroorzaakt.    
 
 ### Artikel  4.5  
 
-Wijzigt het Besluit reorganisatie openbaar ministerie en instelling landelijk parket.   
+1.  De betrokken hoofdofficier van justitie kan de strafbeschikkingsbevoegdheid tot nader bericht intrekken indien de taakvervulling van een persoon of de wijze waarop een lichaam gebruik maakt van de bevoegdheid, zulks naar zijn oordeel vordert.   
+2.  Alvorens een beschikking, bedoeld in het eerste lid, te geven, hoort de hoofdofficier van justitie het betrokken lichaam of de betrokken persoon.   
+3.  De hoofdofficier van justitie geeft zijn nader bericht slechts na hernieuwd overleg.   
 
 ### Artikel  4.6  
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+1.  Het College van procureurs-generaal vaardigt richtlijnen uit waarin ten aanzien van elk feit waarvoor een lichaam of een persoon een strafbeschikking kan uitvaardigen de hoogte van de daarin op te leggen geldboete wordt bepaald. Deze richtlijnen worden in de Staatscourant bekend gemaakt.   
+2.  De bevoegde ambtenaar wordt door het lichaam of de persoon in het bezit gesteld van een lijst met de feiten waarvoor de strafbeschikking kan worden uitgevaardigd. Desgevraagd verleent hij aan de verdachte inzage in deze lijst.   
 
-### Artikel  4.8  
+### Artikel  4.7  
 
-Wijzigt het Transactiebesluit 1994.   
+Een lichaam of een persoon houdt aantekening van elke zaak waarin hij van zijn strafbeschikkingsbevoegdheid gebruik maakt.  
 
 ### Hoofdstuk  V  
 
@@ -180,9 +219,12 @@ Wijzigt het Transactiebesluit 1994.
 
 ### Artikel  5.2  
 
-1.  De artikelen van de hoofdstukken I, II en V van dit besluit, alsmede de artikelen van hoofdstuk IV van dit besluit, met uitzondering van de artikelen 4.1, onderdelen A, tweede lid, C, E, G en H, 4.4, onderdeel C, 4.7 en 4.8, treden in werking op het tijdstip waarop de [Wet OM-afdoening](../../../../wet/wet/om-afdoening/BWBR0020074/README.md) in werking treedt.   
-2.  De artikelen van hoofdstuk III, de daarop gebaseerde bijlage, artikel 4.1, onderdelen A, tweede lid, C, E, G en H, en artikel 4.4, onderdeel C van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip.   
-3.  Artikel 4.8 van dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat niet later is gelegen dan drie jaar na het krachtens het tweede lid bepaalde tijdstip.   
+1.  In strafzaken waarin voor het in werking treden van [artikel II, onderdelen O tot en met R](../../../../wet/wet/om-afdoening/BWBR0020074/README.md), [artikel III](../../../../wet/wet/om-afdoening/BWBR0020074/README.md), [artikel IV](../../../../wet/wet/om-afdoening/BWBR0020074/README.md) en [artikel VI van de Wet OM-afdoening](../../../../wet/wet/om-afdoening/BWBR0020074/README.md) voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig de [artikelen 74](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [74c van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), de [artikelen 36](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en [37 van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), [artikel 76 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), dan wel [artikel 85 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md), blijven de artikelen die door dit besluit gewijzigd worden of vervallen, van toepassing zoals zij luidden voor het in werking treden van dit besluit.   
+2.  In strafzaken waarin voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 59 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md), blijven de artikelen die door dit besluit gewijzigd worden of vervallen van toepassing zoals zij luidden voor het in werking treden van dit besluit.   
+
+### Artikel  5.3*  
+
+Artikel 5.1 van dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat niet later is gelegen dan 1 april 2013.  
 
 ### Artikel  5.3  
 
@@ -202,7 +244,7 @@ de *zeventiende* juli 2007
 De Minister van Justitie , 
 E. M. H. Hirsch Ballin    
 
-### Bijlage  
+### Bijlage  I  
 
 ####, bedoeld in artikel 3.3  van het Besluit OM-afdoening en [artikel 3 van het Transactiebesluit 1994](../../../../AMvB/transactiebesluit/1994/BWBR0006664/README.md)
 
@@ -854,6 +896,14 @@ E. M. H. Hirsch Ballin
 | E  | 822  | d  | – gedurende een illegaal verblijf van 6 maanden tot 1 jaar  | --- | 8  |
 | E  | 822  | e  | – gedurende een illegaal verblijf van 1 jaar tot 2 jaar  | --- | 8  |
 | E  | 822  | f  | – gedurende een illegaal verblijf langer dan 2 jaar  | --- | 8  |
+| --- | --- | --- |  *Als vreemdeling in Nederland verblijven, terwijl hij weet of ernstige reden heeft te vermoeden dat tegen hem een inreisverbod is uitgevaardigd (anders dan met toepassing van artikel 66a, zevende lid, Vrw 2000)*   |  *108 lid 1 en 6 jo. 66a Vrw 2000*   | --- |
+| E  | 824  | a  | – voor een periode van 1 tot 15 dagen  | --- | 8  |
+| E  | 824  | b  | – voor een periode van 15 dagen tot 3 maanden  | --- | 8  |
+| E  | 824  | c  | – voor een periode van 3 maanden tot 6 maanden  | --- | 8  |
+| E  | 824  | d  | – voor een periode van 6 maanden tot 1 jaar  | --- | 8  |
+| E  | 824  | e  | – voor een periode van 1 jaar tot 2 jaar  | --- | 8  |
+| E  | 824  | f  | – voor een periode langer dan 2 jaar  | --- | 8  |
+| E  | 824  | g  | – voor een onbekende periode  | --- | 8  |
 | E  | 825  | --- | als vreemdeling aan wie het krachtens artikel 12 van de Vreemdelingenwet 2000 is toegestaan in Nederland te verblijven en die naar Nederland is gekomen voor een verblijf langer dan drie maanden, zich niet binnen drie dagen na zijn binnenkomst in Nederland in persoon melden bij de korpschef van de gemeente waar hij verblijft  | 4.47 VB 2000  | 8  |
 | E  | 827  | --- | als vreemdeling te zijner identificatie op vordering van een ambtenaar, belast met de grensbewaking of met het toezicht op vreemdelingen, niet een goedgelijkende pasfoto ter beschikking stellen of vingerafdrukken van zich laten nemen indien daartoe in het belang van het toezicht op vreemdelingen gegronde reden bestaat  | 4.45 VB 2000  | 8  |
 | E  | 830  | --- | als vreemdeling aan wie het krachtens artikel 12 van de Vreemdelingenwet 2000 is toegestaan in Nederland te verblijven en die naar Nederland is gekomen voor een verblijf van ten hoogste drie maanden, zich niet binnen drie dagen na zijn binnenkomst in Nederland in persoon melden bij de korpschef van de gemeente waar hij verblijft  | 4.48 VB 2000  | 8  |
@@ -964,4 +1014,561 @@ E. M. H. Hirsch Ballin
 | --- | --- | --- |  *goederen uit een winkel/vanaf een benzinestation wegnemen/toe-eigenen waarde van het ontvreemde goed*   |  *310/321 WvSr*   | --- |
 | G  | 100  | a  | – t/m € 50  | --- | 8  |
 | G  | 100  | b  | – meer dan € 50 en t/m € 120  | --- | 8  |
+
+### Bijlage  II  
+
+### HOOFDSTUK  1  
+
+####MILIEUFEITEN
+
+Categorie 1. Natuurlijk persoon Categorie 2. Rechtspersoon  
+
+| Code  | Omschrijving feit  | Artikel  | Categorie  |
+|:---|:---|:---|:---|
+| --- | --- | --- | --- |  *Afdeling A. Afvalstoffen en Europese Verordening Overbrenging Afvalstoffen (EVOA)*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Afvalstoffen*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 001 – BM 010: Wet Milieubeheer*   | --- | --- |
+| r  | BM  | 001  | a  | zich hebben ontdaan van afvalstoffen, door die afvalstoffen – al dan niet in verpakking – buiten een inrichting te storten en/of anderszins op of in de bodem te brengen en/of te verbranden: 0–5 m <sup>3</sup>  |  [art. 10.2 Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md)   | 1/2  |
+| r  | BM  | 001  | b  | zich hebben ontdaan van afvalstoffen, door die afvalstoffen – al dan niet in verpakking – buiten een inrichting te storten en/of anderszins op of in de bodem te brengen en/of te verbranden: 5–10 m <sup>3</sup>  | art. 10.2 Wet milieubeheer  | 1/2  |
+| r  | BM  | 002  | --- | zich hebben ontdaan van afvalwater en/of andere afvalstoffen, anders dan vanuit een inrichting, door deze in een voorziening voor de inzameling en het transport van afvalwater te brengen  | art. 10.30 Wet milieubeheer  | 1/2  |
+| r  | BM  | 003  | --- | zich door afgifte aan een ander hebben ontdaan van bedrijfsafvalstoffen; max. 10 m <sup>3</sup>  | art. 10.37 Wet milieubeheer  | 1/2  |
+| r  | BM  | 004  | --- | als degene die zich van bedrijfsafvalstoffen heeft ontdaan door deze af te geven aan een persoon als bedoeld in artikel 10.37, tweede lid, onder a tot en met f Wet milieubeheer, niet registreren van een of meer gegevens als bedoeld in art. 10.38 lid 1 onder a tot en met f Wet milieubeheer  | art. 10.38 lid 1 Wet milieubeheer jo Art. 10.37 lid 2 sub a t/m f Wet milieubeheer  | 1/2  |
+| r  | BM  | 005  | --- | als een persoon als bedoeld in artikel 10.37, tweede lid, onder a of b Wet milieubeheer, die zich van bedrijfsafvalstoffen heeft ontdaan door deze af te geven aan een andere zodanige persoon, niet melden van, met betrekking tot een zodanige afgifte, de in artikel 10.38, eerste lid Wet milieubeheer bedoelde gegevens aan een door onze minister aan te wijzen instantie  | art. 10.38 lid 3 Wet milieubeheer jo Art. 10.38 lid sub a tot en met f jo Art. 10.37 lid 2 sub a of b Wet milieubeheer  | 1/2  |
+| r  | BM  | 006  | --- | als degene die zich van bedrijfsafvalstoffen heeft ontdaan door afgifte aan een persoon als bedoeld in artikel 10.37, tweede lid, onder a tot en met e Wet milieubeheer, aan degene die opdracht heeft de afvalstoffen naar die persoon te vervoeren, niet verstrekken van een begeleidingsbrief, welke ten minste de in het eerste lid, onder a, en de in artikel 10.38, eerste lid Wet milieubeheer, bedoelde gegevens bevatte  | art. 10.39 lid 2 Wet milieubeheer jo Art. 10.39 lid 1 jo Art. 10.37 lid 2 sub a t/m e Wet milieubeheer  | 1/2  |
+| r  | BM  | 007  | --- | als degene als bedoeld in artikel 10.37, tweede lid, onder a of b Wet milieubeheer, aan wie bedrijfsafvalstoffen worden afgegeven, zodanige afgifte niet melden aan een door onze minister aan te wijzen instantie  | art. 10.40 lid 1 Wet milieubeheer jo Art. 10.37 lid 2 sub a of b Wet milieubeheer  | 1/2  |
+| r  | BM  | 008  | --- | als degene als bedoeld in artikel 10.40, eerste lid Wet milieubeheer, bedrijfsafvalstoffen in ontvangst nemen zonder dat hem daarbij een omschrijving en een begeleidingsbrief als bedoeld in artikel 10.39, eerste lid, onder a en b Wet milieubeheer, is verstrekt  | art. 10.40 lid 2 Wet milieubeheer jo Art. 10.40 lid Wet milieubeheer jo Art. 10.39 lid 1 sub a en b Wet milieubeheer  | 1/2  |
+| r  | BM  | 009  | --- | als degene die bedrijfsafvalstoffen vervoert, terwijl hij die afvalstoffen onder zich heeft, geen begeleidingsbrief als bedoeld in artikel 10.39 Wet milieubeheer bij die afvalstoffen aanwezig hebben  | art. 10.44 lid 1 Wet milieubeheer  | 1/2  |
+| r  | BM  | 010  | --- | bedrijfsafvalstoffen inzamelen zonder vermelding op een lijst van inzamelaars  | art. 10.45 lid 1 sub a Wet milieubeheer  | 1/2  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummer BM 011: Besluit inzamelen afvalstoffen*   | --- | --- |
+| r  | BM  | 011  | --- | als inzamelaar tijdens het inzamelen geen gewaarmerkte kopie van het certificaat waaruit blijkt dat hij op de lijst van inzamelaars staat vermeld, zichtbaar ten behoeve van de handhaving aanwezig hebben  |  [art. 6 Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md)   | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 012 – BM 015: Besluit beheer autowrakken*   | --- | --- |
+| r  | BM  | 012  | a  | als producent en/of importeur van voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking zijn gesteld geen zorg dragen voor: een landelijk dekkend innamesysteem voor autowrakken  |  [art. 8 sub a Besluit beheer autowrakken](../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md)   | ½  |
+| r  | BM  | 012  | b  | als producent en/of importeur van voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking zijn gesteld geen zorg dragen voor: het om niet kunnen afgeven van autowrakken  | art. 8 sub b Besluit beheer autowrakken  | ½  |
+| r  | BM  | 012  | c  | als producent en/of importeur van voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking zijn gesteld geen zorg dragen voor: het opzetten van een verwerkingssysteem voor autowrakken  | art. 8 sub c Besluit beheer autowrakken  | ½  |
+| r  | BM  | 013  | --- | als producent en/of importeur van voertuigen niet binnen dertien weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister mededeling doen over de wijze waarop uitvoering zal worden geven aan de verplichtingen  | art. 12 lid 1 Besluit beheer autowrakken  | ½  |
+| r  | BM  | 014  | --- | als producent en/of importeur van voertuigen niet de verplichtingen uitvoeren overeenkomstig de mededeling, zoals onze minister daarmee heeft ingestemd  | art. 14 Besluit beheer autowrakken  | ½  |
+| r  | BM  | 015  | --- | als producent en/of importeur van voertuigen niet voor 1 augustus van elk jaar aan Onze Minister een verslag zenden over de uitvoering van de verplichtingen in het voorafgaande kalenderjaar  | art. 15 lid 1 Besluit beheer autowrakken  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummer BM 016: Besluit beheer batterijen en accu's 2008*   | --- | --- |
+| r  | BM  | 016  | --- | als producent en/of fabrikant van batterijen en/of accu’s niet binnen dertien weken nadat de Regeling beheer batterijen en accu’s 2008 op hem van toepassing is geworden, mededeling doen aan Onze Minister  |  [art. 2 lid 1 Besluit beheer batterijen en accu’s 2008](../../../../AMvB/besluit/beheer/batterijen/en/accu's/2008/BWBR0024491/README.md)   | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 017 – BM 021: Regeling beheer baterrijen en accu's 2008*   | --- | --- |
+| r  | BM  | 017  | --- | als producent van draagbare batterijen en/of accu’s geen zorg dragen voor een inzamelingssysteem dat de eindgebruikers in staat stelt om zich in hun nabijheid kosteloos op een in voldoende mate toegankelijk inzamelpunt in Nederland van die draagbare batterijen en accu’s te ontdoen  | art. 5 lid 1 Regeling beheer batterijen en accu’s 2008  | ½  |
+| r  | BM  | 018  | --- | als producent van draagbare batterijen en/of accu’s geen zorg dragen voor een systeem voor de verwerking en de recycling als materiaal van afgedankte batterijen en accu’s  | art. 7 lid 1 sub a Regeling beheer batterijen en accu’s 2008  | ½  |
+| r  | BM  | 019  | --- | batterijen en/of accu’s en/of batterijpakken zijn voorzien van het symbool, bedoeld in bijlage II, van richtlijn 2006/66/EG (afvalcontainer met kruis)  | art. 9 lid 1 sub a Regeling beheer batterijen en accu’s 2008  | ½  |
+| r  | BM  | 020  | --- | als producent van draagbare batterijen en/of accu’s zich niet laten registreren bij de Minister van Infrastructuur en Milieu  | art. 12 Regeling beheer batterijen en accu’s 2008  | ½  |
+| r  | BM  | 021  | --- | als fabrikant en/of producent van draagbare batterijen en/of accu’s niet voor 1 augustus van elk jaar aan de Minister van Infrastructuur en Milieu een verslag zenden  | art. 13 lid 1 Regeling beheer  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummer BM 022: Besluit beheer elektrische en elektronische apparatuur*   | --- | --- |
+| r  | BM  | 022  | --- | als producent van elektrische en/of elektronische apparatuur niet binnen dertien weken nadat de Regeling beheer elektrische en elektronische apparatuur op hem van toepassing is geworden mededeling doen aan onze minister  |  [art. 4 lid 1 Besluit beheer elektrische en elektronische apparatuur](../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md)   | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 023 – BM 026: Regeling beheer elektrische en elektronische apparatuur*   | --- | --- |
+| r  | BM  | 023  | --- | als producent en/of fabrikant van batterijen en/of accu’s niet binnen dertien weken nadat de Regeling beheer batterijen en accu’s 2008 op hem van toepassing is geworden, mededeling doen aan Onze Minister  |  [art. 7 Regeling beheer elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md)   | ½  |
+| r  | BM  | 024  | --- | als producent van elektrische en/of elektronische apparatuur geen zorg dragen voor vervoer en/of verwerking van afgedankte elektrische en/of elektronische apparatuur  | art. 8 lid 1 en 2 Regeling beheer elektrische en elektronische apparatuur  | ½  |
+| r  | BM  | 025  | a  | als producent van elektrische/elektronische apparatuur de door hem geproduceerde elektrische/elektronische apparatuur niet voorzien van: een symbool zoals opgenomen is in bijlage IV bij richtlijn nr. 2002/96/EG (afvalcontainer met kruis)  | art. 13 lid 1 sub a Regeling beheer elektrische en elektronische apparatuur  | ½  |
+| r  | BM  | 025  | b  | als producent van elektrische en/of elektronische apparatuur de door hem geproduceerde elektrische en/of elektronische apparatuur niet voorzien van: een aanduiding waardoor de producent duidelijk is te identificeren  | art. 13 lid 1 sub b Regeling beheer elektrische en elektronische apparatuur  | ½  |
+| r  | BM  | 025  | c  | als producent van elektrische/elektronische apparatuur de door hem geproduceerde elektrische/elektronische apparatuur niet voorzien van: een aanduiding waaruit blijkt dat het apparaat na 13 augustus 2005 op de markt is gebracht  | art. 13 lid 1 sub c Regeling beheer elektrische en elektronische apparatuur  | ½  |
+| r  | BM  | 026  | --- | als producent van elektrische en/of elektronische apparatuur niet binnen 6 maanden na afloop van ieder kalenderjaar de Minister van Infrastructuur en Milieu informeren  | art. 16 Regeling beheer elektrische en elektronische apparatuur  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 027 – BM 028: Regeling meetmethoden verbranden afvalstoffen*   | --- | --- |
+| r  | BM  | 027  | --- | niet voor 1 april van elk kalenderjaar de met betrekking tot het voorafgaande kalenderjaar geregistreerde gegevens vastgelegd in een rapport toezenden aan het bevoegd gezag  |  [art. 14 lid 2 Regeling meetmethoden verbranden afvalstoffen](../../../../ministeriele-regeling/regeling/meetmethoden/verbranden/afvalstoffen/BWBR0017448/README.md)   | ½  |
+| r  | BM  | 028  | --- | niet binnen drie maanden nadat een meting of parallelmeting is uitgevoerd de rapportage aan het bevoegd gezag zenden  | art. 15 lid 2 Regeling meetmethoden verbranden afvalstoffen  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 127 – BM 135: Scheepsafvalstoffenbesluit (SAB)*   | --- | --- |
+| r  | BM  | 127  | --- | als schipper er geen zorg voor dragen dat bilgewater en overige olie- en vethoudende scheepsafvalstoffen aan boord in de bilge van de machinekamer, onderscheidenlijk gescheiden in de daarvoor bestemde verzamelreservoirs, worden verzameld en bewaard  |  [art. 11 SAB](../../../../AMvB/scheepsafvalstoffenbesluit/rijn-/en/binnenvaart/BWBR0012019/README.md)   | ½  |
+| r  | BM  | 128  | --- | als schipper voor de opslag van afgewerkte olie los aan dek staande verzamelreservoirs gebruiken  | art. 12 lid 2 SAB  | ½  |
+| r  | BM  | 129  | --- | als schipper er niet zorg voor dragen dat een geldig olie-afgifteboekje aan boord aanwezig is  | art. 14 lid 1 SAB  | ½  |
+| r  | BM  | 130  | --- | als schipper, na verkrijging van een nieuw olie-afgifteboekje, niet het voorgaande olie-afgifteboekje ten minste zes maanden na de datum van de laatste daarin opgenomen vermelding van een afgifte aan boord bewaren  | art. 14 lid 4 SAB  | ½  |
+| r  | BM  | 131  | a  | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: het schip bij het laden vrij van overslagresten of het verwijderen van overslagresten na het laden  | art. 33 jo 41 SAB  | 2  |
+| r  | BM  | 131  | b  | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: aansluitend aan het lossen van droge lading van of uit het laadruim van een schip de in het laadruim achtergebleven restlading en/of verpakkings- en stuwingsmateriaal verwijderen en zoveel mogelijk toevoegen aan geloste lading  | art 33 jo 42 SAB  | 2  |
+| r  | BM  | 131  | c  | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: aansluitend aan het lossen van vloeibare lading uit een ladingtank van een schip met behulp van een leiding, aangesloten op het nalenssysteem van het schip, de restlading uit de ladingtank verwijderen, zodanig dat de losstandaard nagelensde ladingtank wordt bereikt  | art 33 jo 43 SAB  | 2  |
+| r  | BM  | 131  | d  | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: bij het lossen uit een laadruim of een ladingtank van een schip het laadruim of die ladingtank wassen en het afvalwater met ladingrestanten innemen  | art. 33 jo 45 SAB  | 2  |
+| r  | BM  | 131  | e  | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: wassen van het laadruim en de ladingtank en het innemen en op de bedrijfsriolering lozen van afvalwater dat ladingrestanten bevat in een geval als bedoeld in artikel 46, eerste en tweede lid, SAB  | --- | 2  |
+| r  | BM  | 131  | f  | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: in het laadruim achterlaten van afvalwater dat ladingrestanten bevat en zich na het lossen of wassen in dat laadruim bevindt, in een geval als bedoeld in artikel 48, onder a t/m c, SAB  | art. 33 jo 48 SAB  | 2  |
+| r  | BM  | 131  | g  | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: voorleggen van de losverklaring in drievoud aan de schipper dan wel, als het schip niet onder gezag van de schipper staat, aan de exploitant van het schip  | art. 33 jo 53, vierde lid SAB  | 2  |
+| r  | BM  | 131  | h  | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: het bewaren van het ingevolge artikel 54 SAB ontvangen exemplaar van de losverklaring in de bedrijfsadministratie  | art 33 SAB  | 2  |
+| r  | BM  | 132  | --- | de schipper draagt er geen zorg voor dat de losverklaringen, ontvangen overeenkomstig art 53 SAB, het transport begeleiden  | art 56 SAB  | ½  |
+| r  | BM  | 133  | --- | als schipper met het schip na het laden de laadplaats verlaten zonder zich ervan te vergewissen dat de overslagresten zijn verwijderd  | art.55 lid 1  | ½  |
+| r  | BM  | 134  | a  | als schipper met het schip na het lossen de losplaats verlaten zonder zich ervan te vergewissen dat: de overslagresten zijn verwijderd  | art. 55 lid 2 onderdeel a SAB  | ½  |
+| r  | BM  | 134  | b  | als schipper met het schip na het lossen de losplaats verlaten zonder zich ervan te vergewissen dat: alle geloste laadruimen zijn nagelost en/of ladingtanks nagelensd  | art. 55 lid 2 onderdeel a SAB  | ½  |
+| r  | BM  | 134  | c  | als schipper met het schip na het lossen de losplaats verlaten zonder zich ervan te vergewissen dat: voldaan is aan de wasverplichting indien die van toepassing is dan wel hem daartoe volgens de bepalingen uit art 47 SAB een voorziening is toegewezen  | art. 55 lid 2 onderdeel a SAB  | ½  |
+| r  | BM  | 134  | d  | als schipper met het schip na het lossen de losplaats verlaten zonder zich ervan te vergewissen dat: het afvalwater dat ladingresten bevat, is ingenomen, dan wel hem daartoe een ontvangstvoorziening is toegewezen, in een geval als bedoeld in de artikelen 45, 46 of 49 SAB  | art. 55 lid 2 onderdeel a SAB  | ½  |
+| r  | BM  | 135  | --- | als schipper met het schip na het lossen de losplaats verlaten zonder te voldoen aan de bepalingen ten aanzien van de losverklaring uit artikel 54 SAB  | art. 55 lid 2 onderdeel a SAB  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *EVOA*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 029 – BM 042: Europese Verordening Overbrenging Afvalstoffen (EVOA)*   | --- | --- |
+| r  | BM  | 029  | --- | overbrengen van afvalstoffen in strijd met de vervoersvoorwaarden verbonden aan de kennisgeving  | art. 10.60 lid 6 onder a Wm i.v.m. art. 10 lid 1 of lid 2 EVOA in combinatie met artikel 11 en 12 EVOA  | ½  |
+| r  | BM  | 030  | --- | overbrengen van afvalstoffen zonder de betrokken bevoegde autoriteiten (tijdig) op de hoogte te brengen van een – wegens onvoorziene omstandigheden benodigde – routewijziging bij een algemene kennisgeving  | art. 10.60 lid 5 onder a Wm i.v.m. art. 13 lid 2 EVOA  | ½  |
+| r  | BM  | 031  | --- | overbrengen van afvalstoffen in strijd met de voorwaarde dat naderhand aanvullende informatie en documentatie wordt verstrekt aan de betrokken bevoegde autoriteiten in geval van een algemene kennisgeving  | art. 10.60 lid 6 onder a Wm i.v.m. art. 13 lid 3 EVOA  | ½  |
+| r  | BM  | 032  | --- | overbrengen van afvalstoffen terwijl niet binnen drie dagen na ontvangst van de afvalstoffen door de, met voorlopige nuttige toepassing of verwijdering belaste, inrichting een schriftelijke bevestiging van ontvangst van die afvalstoffen is toegestuurd  | art. 10.60 lid 5 onder a Wm i.v.m. art. 15 onder c EVOA  | ½  |
+| r  | BM  | 033  | a  | overbrengen van afvalstoffen terwijl niet: zo spoedig mogelijk, doch uiterlijk binnen 30 dagen na de voltooiing en uiterlijk één kalenderjaar na ontvangst van de afvalstoffen, door de inrichting die de voorlopige nuttige toepassing of voorlopige verwijdering heeft verricht, is bevestigd dat de voorlopige nuttige toepassing of voorlopige verwijdering is voltooid  | art. 10.60 lid 7 onder a Wm i.v.m. art. 15 onder d of e EVOA  | ½  |
+| r  | BM  | 033  | b  | overbrengen van afvalstoffen terwijl niet: afschriften van het vervoersdocument met de verklaring aan de kennisgever en/of de betrokken autoriteiten zijn verstuurd door de betrokken inrichting  | art. 10.60 lid 7 onder a Wm i.v.m. art. 15 onder d of e EVOA  | ½  |
+| r  | BM  | 034  | --- | overbrengen van afvalstoffen terwijl het vervoersdocument niet volledig of onjuist is ingevuld of niet is ondertekend door de kennisgever  | art. 10.60 lid 5 onder a Wm i.v.m. art. 16 onder a EVOA  | ½  |
+| r  | BM  | 035  | --- | overbrengen van afvalstoffen terwijl niet het ingevulde vervoersdocument aan de bevoegde autoriteit minimaal drie werkdagen voorafgaand aan het transport is toegezonden  | art. 10.60 lid 5 onder a Wm i.v.m. art. 16 onder b EVOA  | ½  |
+| r  | BM  | 036  | --- | overbrengen van afvalstoffen waarbij het transport van afvalstoffen op andere dan opgegeven transportdatum plaatsvindt  | art. 10.60 lid 5 onder a Wm i.v.m. art. 16 onder b EVOA  | ½  |
+| r  | BM  | 037  | --- | overbrengen van afvalstoffen waarbij het vervoer niet vergezeld gaat van de juiste documenten (vervoersdocument, de afschriften van het kennisgevingsdocument met de schriftelijke toestemmingen en de voorwaarden die door de betrokken bevoegde autoriteiten resp. zijn verleend en gesteld)  | art. 10.60 lid 5 onder a Wm i.v.m. art. 16 onder c EVOA  | ½  |
+| r  | BM  | 038  | --- | overbrengen van afvalstoffen terwijl de inrichting de ontvangst van de afvalstoffen niet binnen drie dagen na ontvangst van de afvalstoffen heeft bevestigd  | art. 10.60 lid 5 onder a Wm i.v.m. art. 16 onder d EVOA  | ½  |
+| r  | BM  | 039  | a  | overbrengen van afvalstoffen terwijl niet: zo spoedig mogelijk, doch uiterlijk binnen 30 dagen na de voltooiing en uiterlijk één kalenderjaar na ontvangst van de afvalstoffen door de inrichting die de definitieve nuttige toepassing of definitieve verwijdering heeft verricht, is bevestigd dat de definitieve nuttige toepassing of definitieve verwijdering is voltooid  | art. 10.60 lid 7 onder a Wm i.v.m. art. 16 onder e EVOA  | ½  |
+| r  | BM  | 039  | b  | overbrengen van afvalstoffen terwijl niet: afschriften van het vervoersdocument met deze verklaring aan de kennisgever en de betrokken autoriteiten zijn verstuurd door de betrokken inrichting  | art. 10.60 lid 7 onder a Wm i.v.m. art. 16 onder e EVOA  | ½  |
+| r  | BM  | 041  | a  | overbrengen van afvalstoffen voor nuttige toepassing als bedoeld in artikel 3, tweede en/of vierde lid, van de Europese Verordening Overbrenging Afvalstoffen, terwijl de overbrenging: niet vergezeld gaat van informatie als bedoeld in bijlage VII van de Europese Verordening Overbrenging Afvalstoffen  | art. 10.60 lid 5 Wm i.v.m. art. 2 onder 35 sub g iii EVOA  | ½  |
+| r  | BM  | 041  | b  | overbrengen van afvalstoffen voor nuttige toepassing als bedoeld in artikel 3, tweede en/of vierde lid, van de Europese Verordening Overbrenging Afvalstoffen, terwijl de overbrenging: vergezeld gaat van onjuiste informatie als bedoeld in bijlage VII van de Europese Verordening Overbrenging Afvalstoffen  | art. 10.60 lid 5 Wm i.v.m. art. 2 onder 35 sub g iii EVOA  | ½  |
+| r  | BM  | 041  | c  | overbrengen van afvalstoffen voor nuttige toepassing als bedoeld in artikel 3, tweede en/of vierde lid, van de Europese Verordening Overbrenging Afvalstoffen, terwijl de overbrenging: vergezeld gaat van onvolledige informatie als bedoeld in bijlage VII van de Europese Verordening Overbrenging Afvalstoffen  | art. 10.56 Wm i.v.m. art. 5 Regeling EG-verordening overbrenging van afvalstoffen  | ½  |
+| r  | BM  | 042  | --- | niet gedurende ten minste 5 jaar door de kennisgever en/of de ontvanger en/of de inrichting die de afvalstoffen heeft ontvangen, bewaren van aan of door de bevoegde autoriteiten verzonden documenten inzake de overbrenging van afvalstoffen  | art. 10.56 Wm i.v.m. art. 5 Regeling EG-verordening overbrenging van afvalstoffen  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Afdeling B. Asbest, Meststoffen en Inrichtingen*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Asbest*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 043 – BM 044: Asbestverwijderingsbesluit (Avb)*   | --- | --- |
+| r  | BM  | 043  | --- | bij het gehele of gedeeltelijk slopen van een gebouw of object, niet beschikken over een asbestinventarisatierapport  |  artikel 3.1 Avb   | 1  |
+| r  | BM  | 044  | --- | bij het verwijderen van asbest uit een gebouw of object, niet beschikken over een asbestinventarisatierapport  | artikel 3.2 Avb  | 1  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Meststoffen*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 045 – BM 066: Besluit gebruik meststoffen (BGM)*   | --- | --- |
+| r  | BM  | 045  | --- | gebruiken van meststoffen  |  [art. 1a lid 1 BGM](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md)   | ½  |
+| r  | BM  | 046  | --- | gebruiken van zuiveringsslib en overige organische meststoffen  | art. 1b lid 1 BGM  | ½  |
+| r  | BM  | 047  | --- | gebruiken van zuiveringsslib op weideland gedurende de periode van beweiding  | art. 1d onderdeel a BGM  | ½  |
+| r  | BM  | 048  | --- | gebruiken van zuiveringsslib op grond die wordt gebruikt voor de teelt van voedergewassen, minder dan drie weken voor de oogst  | art. 1d onderdeel b BGM  | ½  |
+| r  | BM  | 049  | --- | gebruiken van zuiveringsslib op grond die wordt gebruikt voor groente- of fruitaanplant, met uitzondering van fruitbomen, gedurende de groeiperiode van de groente onderscheidenlijk het fruit  | art. 1d onderdeel c BGM  | ½  |
+| r  | BM  | 050  | --- | gebruiken van zuiveringsslib op grond die is bestemd voor de teelt van groenten of vruchten, die gewoonlijk in rechtstreeks contact met de bodem staan en rauw worden geconsumeerd, minder dan tien maanden voor de oogst alsmede tijdens de oogst  | art. 1d onderdeel d BGM  | ½  |
+| r  | BM  | 051  | a  | gebruiken van dierlijke meststoffen of compost: op natuurterrein  | art. 2 lid 1 BGM  | ½  |
+| r  | BM  | 051  | b  | gebruiken van dierlijke meststoffen of compost: op overige grond  | art. 2 lid 1 BGM  | ½  |
+| r  | BM  | 052  | --- | gebruiken van dierlijke meststoffen, stikstofkunstmest, zuiveringsslib, of een mengsel met deze meststoffen, terwijl de bodem geheel of gedeeltelijk is bevroren of geheel of gedeeltelijk is bedekt met sneeuw  | art. 3 lid 1 BGM  | ½  |
+| r  | BM  | 053  | --- | gebruiken van dierlijke meststoffen, stikstofkunstmest, zuiveringsslib, compost, overige organische meststoffen of een mengsel met deze messtoffen, terwijl de bovenste bodemlaag met water is verzadigd  | art. 3a BGM  | ½  |
+| r  | BM  | 054  | --- | gebruiken van dierlijke meststoffen, stikstofkunstmest, zuiveringsslib, compost, overige organische meststoffen of een mengsel met deze meststoffen in de periode van 1 september tot en met 31 januari, terwijl de bodem tegelijkertijd wordt bevloeid, beregend of geïnfiltreerd  | art. 3b lid 1 BGM  | ½  |
+| r  | BM  | 055  | --- | gebruiken van vaste dierlijke meststoffen of steekvast zuiveringsslib in de periode van 1 september tot en met 31 januari  | art. 4 lid 1 BGM  | ½  |
+| r  | BM  | 056  | --- | gebruiken van drijfmest of vloeibaar zuiveringsslib in de periode van 1 augustus tot en met 15 februari  | art. 4 lid 1 BGM  | ½  |
+| r  | BM  | 057  | --- | gebruiken van stikstofkunstmest op bouwland of grasland in de periode van 16 september tot en met 31 januari  | --- | ½  |
+| r  | BM  | 058  | --- | vernietigen van de graszode op grasland  | art. 4b lid 1 BGM  | ½  |
+| r  | BM  | 059  | --- | niet-emissie-arm aanwenden van dierlijke meststoffen, zuiveringsslib of een mengsel met deze meststoffen op grasland of bouwland  | art. 5 BGM  | ½  |
+| r  | BM  | 060  | --- | gebruiken van dierlijke meststoffen, stikstofkunstmest, zuiveringsslib, compost, overige organische meststoffen of een mengsel met deze meststoffen anders dan door een zo gelijkmatig mogelijke verspreiding over het perceel waarop de meststoffen worden gebruikt  | art. 6 BGM  | ½  |
+| r  | BM  | 061  | --- | gebruiken van dierlijke meststoffen, stikstofkunstmest, zuiveringsslib, compost, overige organische meststoffen of een mengsel met deze meststoffen op grond met een hellingspercentage van 7 of meer indien de desbetreffende grond is aangetast door geulenerosie  | art. 6a lid 1 BGM  | ½  |
+| r  | BM  | 062  | --- | gebruiken van dierlijke meststoffen, zuiveringsslib, compost, overige organische meststoffen of een mengsel met deze meststoffen op niet-beteelde grond met een hellingspercentage van 7 of meer  | art. 6b lid 1 BGM  | ½  |
+| r  | BM  | 063  | --- | gebruiken van stikstofkunstmest op niet-beteelde grond met een hellingspercentage van 7 of meer  | art. 6c BGM  | ½  |
+| r  | BM  | 064  | --- | gebruiken van dierlijke meststoffen, stikstofkunstmest, zuiveringsslib, compost, overige organische meststoffen of een mengsel met deze meststoffen op bouwland met een hellingspercentage van 18 of meer  | art. 6d BGM  | ½  |
+| r  | BM  | 065  | --- | niet direct aansluitend na de teelt van maïs op zand- en lössgronden telen van een bij ministeriële regeling aangewezen gewas  | art. 8a lid 1 BGM  | ½  |
+| r  | BM  | 066  | --- | vernietigen van gewassen die na maïs worden geteeld, bedoeld in het eerste lid, voor 1 februari van het daarop volgende jaar  | art. 8a lid 2 BGM jo art. 8a lid 1 BGM  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Inrichtingen*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 067 – BM 078: Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden (Bhvbz)*   | --- | --- |
+| r  | BM  | 067  | --- | door de houder van een badinrichting geen zorg dragen dat voorafgaand aan de ingebruikneming van de badinrichting een analyse wordt uitgevoerd met betrekking tot het risico dat niet wordt voldaan aan het eerste lid van artikel 2a Bhvbz  | [art 2a lid 2 Bhvbz](../../../../AMvB/besluit/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0003716/README.md) jo art. 2a lid 1 Bhvbz  | 2  |
+| r  | BM  | 068  | --- | door de houder van een badinrichting niet binnen drie maanden na het gereedkomen van de risicoanalyse bedoeld in artikel 2a Bhvbz een beheersplan opstellen voor het zwem- of badwatersysteem van de badinrichting of niet binnen drie maanden een bestaand beheersplan herzien, terwijl uit risicoanalyse blijkt dat sprake is van het in artikel 2a, tweede lid, Bhvbz bedoelde risico  | art 2b lid 1 Bhvbz jo art. 2a Bhvbz  | 2  |
+| r  | BM  | 069  | --- | door de houder van een badinrichting de in het beheersplan, bedoeld in artikel 2b, eerste lid, Bhvbz, vermelde risicopunten niet ten minste halfjaarlijks op de aanwezigheid van Legionella laten onderzoeken door een laboratorium als bedoeld in artikel 10 Bhvbz  | art 2c lid 1 jo art. 10 Bhvbz  | 2  |
+| r  | BM  | 070  | --- | door de houder van een badinrichting niet onmiddellijk na de vaststelling van een concentratie van legionellabacteriën van 100 of meer kolonievormende eenheden per liter op de in artikel 2a, vierde lid, onder d, Bhvbz bedoelde risicopunten, gedeputeerde staten hiervan in kennis stellen  | art 2d lid 1 Bhvbz  | 2  |
+| r  | BM  | 071  | --- | ontbreken in de toevoer naar of afvoer van de filters, die deel uitmaken van de waterzuiveringsinstallatie van een badinrichting, van een voorziening waarmee de hoeveelheid water kan worden bepaald, die in een bepaalde tijdseenheid wordt toegevoerd, onderscheidenlijk afgevoerd  | art. 6 lid 1 Bhvbz  | 2  |
+| r  | BM  | 072  | --- | ontbreken bij gesloten zandfilters, die deel uitmaken van de waterzuiveringsinstallatie van een badinrichting, waarbij het filtermateriaal in fluïdisatie geraakt, van een voorziening waardoor dit in fluïdisatie geraken waargenomen kan worden  | art 7 lid 2 Bhvbz  | 2  |
+| r  | BM  | 073  | --- | door de houder van een badinrichting de parameters die zijn aangegeven in bijlage I van Bhvbz, niet ten minste zo vaak als in die bijlage is aangegeven, onderzoeken  | art 9 lid 1 Bhvbz jo bijlage I Bhvbz  | 2  |
+| r  | BM  | 074  | --- | door de houder van een badinrichting de parameters die zijn aangegeven in de bij dit besluit behorende bijlage I van Bhvbz niet ten minste zo vaak als in die bijlage is aangegeven, op de in de bijlage IV van Bhvbz aangegeven wijze, laten onderzoeken door een laboratorium dat voldoet aan de in artikel 10, eerste lid, Bhvbz gestelde eisen  | art 10 lid 1 Bhvbz  | 2  |
+| r  | BM  | 075  | --- | door de houder van een badinrichting de uitkomsten van een onderzoek als bedoeld in artikel 10 lid 1 Bhvbz, niet laten noteren in een aan hem uit te brengen rapport  | art 10 lid 2 Bhvbz jo art 10 lid 1 Bhvbz  | 2  |
+| r  | BM  | 076  | --- | vloeren van een badinrichtingen die bestemd zijn om met blote voeten te worden betreden, zijn niet zodanig aangelegd dat het afvloeien van schrobwater of regenwater in het bassin niet mogelijk is  | art 15 lid 1 onder a Bhvbz  | 2  |
+| r  | BM  | 077  | --- | diepte van het zwem- en badwater van een badinrichting is voor de zwemmers en baders niet duidelijk zichtbaar aangegeven op alle punten waar dit met het oog op hun veiligheid van belang is  | art 21 Bhvbz  | 2  |
+| r  | BM  | 078  | --- | in de badinrichting wordt gedurende de openstelling niet in voldoende mate toezicht uitgeoefend  | art 25 Bhvbz  | 2  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 170 – BM 172: Wet milieubeheer*   | --- | --- |
+| r  | BM  | 170  | --- | niet zo spoedig mogelijk melden van een ongewoon voorval in een inrichting, niet zijnde een BRZO-inrichting  |  [art. 17.2 lid 1 Wm](../../../../wet/wet/milieubeheer/BWBR0003245/README.md)   | ½  |
+| r  | BM  | 171  | --- | niet (tijdig) verstrekken van voorgeschreven gegevens met betrekking tot een ongewoon voorval in een inrichting, niet zijnde een BRZO-inrichting  | art. 17.2lid 1 jo lid 2 Wm  | ½  |
+| r  | BM  | 172  | --- | niet zo spoedig mogelijk (binnen 48 uur) melden van een gebeurtenis m.b.t. een afvalvoorziening, niet zijnde een BRZO-inrichting  | art. 17.5alid 1 WM  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 173 – BM 220: Besluit Algemene Regels voor Inrichtingen Milieubeheer (Barim)*   | --- | --- |
+| r  | BM  | 173  | --- | niet ten minste vier weken voor de oprichting van een nieuwe inrichting dit melden aan bevoegd gezag  |  [art. 1.10 lid 1 Barim](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)   | ½  |
+| r  | BM  | 174  | --- | verbranden van afvalstoffen (hout) in een inrichting  | art. 1.4 jo 2.14a, lid 1 Barim  | ½  |
+| r  | BM  | 175  | --- | niet binnen 8 weken na beëindiging van de inrichting de daarin aanwezige afvalstoffen uit de inrichting afvoeren  | art. 1.4 jo 2.14a, lid 7 Barim  | ½  |
+| r  | BM  | 176  | --- | niet aanwezig hebben van een actuele beschrijving van de procedures van acceptatie en controle van ontvangen afvalstoffen, i.v.m. doelmatig beheer van de op- en/of overgeslagen en/of te verwerken afvalstoffen binnen de inrichting  | art. 1.4 jo 2.14blid 1 Barim  | ½  |
+| r  | BM  | 177  | --- | vanuit een inrichting lozen op en/of in de bodem en/of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool  | art. 1.4 jo 2.2lid 1 Barim  | ½  |
+| r  | BM  | 178  | --- | niet aanwezig zijn van een bedrijfsnoodplan in een inrichting waar gasdrukmeet- en regelstations categorie B en/of C in werking zijn  | art. 1.4 jo 3.12lid 1 Barim  | ½  |
+| r  | BM  | 179  | --- | ontbreken van de in artikel 3.12, tweede lid, Barim voorgeschreven informatie in het bedrijfsnoodplan, bedoeld in artikel 3.12, eerste lid, Barim  | art. 1.4 jo 3.12lid 2 Barim  | ½  |
+| r  | BM  | 180  | --- | niet aan de regionale brandweer en/of bevoegd gezag toesturen van een bedrijfsnoodplan, bedoeld in artikel 3.12, eerste lid, Barim, of wijzigingen daarvan  | art. 1.4 jo 3.12lid 3 Barim  | ½  |
+| r  | BM  | 181  | --- | bedienend personeel geen toegang bieden tot de documenten, bedoeld in artikel 3.12, vijfde lid, Barim  | art. 1.4 jo 3.12lid 5 Barim  | ½  |
+| r  | BM  | 182  | --- | niet tenminste eenmaal per kalenderjaar laten beoordelen van een windturbine op de noodzakelijke beveiligingen, onderhoud en reparaties door een deskundige op dat gebied  | art. 1.4 jo 3.14lid 1 Barim  | ½  |
+| r  | BM  | 183  | --- | niet onverwijld opheffen van afwijkingen geconstateerd tijdens de uitvoering van de in artikel 3.20, vierde lid, bedoelde controle van een systeem voor dampretour Stage-II  | art. 1.4 jo 3.20lid 5 jo lid 4 Barim  | ½  |
+| r  | BM  | 184  | --- | de resultaten van de metingen en/of herkeuring en/of controle, bedoeld in artikel 3.20, Barim worden niet tenminste drie jaar opgenomen in een installatieboek  | art. 1.4 jo 3.22lid 1 jo lid 3 Barim  | ½  |
+| r  | BM  | 185  | --- | ontbreken in het installatieboek van een plattegrond op een schaal van ten minste één op tweehonderdvijftig aanduidende uit- en inwendige samenstelling van de inrichting en toebehoren en/of alle bewijzen van gecertificeerde en/of geaccrediteerde aanleg en inspectie uit te voeren op grond van het Barim  | art. 1.4 jo 3.22lid 2 Barim  | ½  |
+| r  | BM  | 186  | --- | niet tenminste eenmaal per twee kalenderjaren keuren van een koelinstallatie met een inhoud van 12 kg of meer aan natuurlijk koudemiddel op veilig functioneren en/of lekkages en/of energiezuinigheid  | art.1.4 jo 4.20lid 1 jo. lid 3 Barim  | ½  |
+| r  | BM  | 187  | --- | niet tenminste eenmaal per twee kalenderjaren keuren van een ammoniakkoelsysteem, als bedoeld in artikel 4.20, tweede lid, Barim op veilig functioneren en/of lekkages en/of energiezuinigheid  | art. 1.4 jo 4.20 3e jo. lid 2 Barim  | ½  |
+| r  | BM  | 188  | --- | niet laten uitvoeren van een keuring van een koelinstallatie en/of een ammoniakkoelsysteem, als bedoeld in artikel 4.20, derde lid, Barim door een onafhankelijk deskundig persoon, die van de keuring een rapport opmaakt dat hij ter beschikking stelt aan de drijver van de inrichting  | art. 1.4 jo 4.20lid 4 jo. lid 3 Barim  | ½  |
+| r  | BM  | 189  | --- | niet binnen twee weken uitvoeren van onderhoud, terwijl uit een keuring aan een koelinstallatie en/of een ammoniakkoelsysteem blijkt dat onderhoud vereist is  | art. 1.4 jo 4.20 lid 5e jo lid 3 Barim  | ½  |
+| r  | BM  | 190  | --- | als drijver van de inrichting niet vragen van een bewijs waaruit blijkt wanneer, door wie en welk onderhoud aan een koelinstallatie is verricht  | art. 1.4 jo 4.20 lid 1 jo. Lid 2 jo. lid 5 of artikel 4.20, lid 2 jo. Lid 3 jo. lid 5 Barim  | ½  |
+| r  | BM  | 191  | --- | niet bewaren van het laatst opgestelde keuringsrapport en/of het laatst opgestelde onderhoudsbewijs met betrekking tot een koelinstallatie en/of een ammoniakkoelsysteem  | art. 1.4 jo 4.20lid 6 Barim  | ½  |
+| r  | BM  | 192  | --- | in een inrichting de buitenlucht hout en/of kurk en/of houten en/of kurken en/of houtachtige voorwerpen met behulp van een nevelspuit coaten en/of lijmen en/of reinigen met vluchtige organische stoffen houdende producten  | art. 1.4 jo 4.22 Barim  | ½  |
+| r  | BM  | 193  | --- | in een inrichting in de buitenlucht kunststof en/of kunststof producten met behulp van een nevelspuit coaten en/of lijmen en/of reinigen met vluchtige organische stoffen houdende producten  | art. 1.4 jo 4.28lid 1 Barim  | ½  |
+| r  | BM  | 194  | --- | in een inrichting in de buitenlucht verspanende en/of thermische bewerkingen en/of mechanische eindafwerking van metalen uitvoeren  | art. 1.4 jo 4.32lid 1 Barim  | ½  |
+| r  | BM  | 195  | --- | in een inrichting in de buitenlucht verrichten van laswerkzaamheden  | art. 1.4 jo 4.39lid 1 Barim  | ½  |
+| r  | BM  | 196  | --- | in een inrichting in de buitenlucht straalwerkzaamheden verrichten  | art. 1.4 jo 4.49lid 1 Barim  | ½  |
+| r  | BM  | 197  | --- | in een inrichting in de buitenlucht anorganische deklagen op metalen aanbrengen  | art. 1.4 jo 4.57lid 1 Barim  | ½  |
+| r  | BM  | 198  | --- | in een inrichting in de buitenlucht natuursteen en/of kunststeen mechanisch bewerken  | art. 1.4 jo 4.74a Barim  | ½  |
+| r  | BM  | 199  | --- | in een inrichting in de buitenlucht met behulp van een nevelspuit lijmen en/of harsen en/of coatings aanbrengen op natuursteen en/of kunststeen  | art. 1.4 jo 4.74e Barim  | ½  |
+| r  | BM  | 200  | --- | niet aanhouden van een afstand van ten minste 20 meter tussen een op de wal geplaatste vaste afleverinstallatie voor het afleveren van lichte olie aan vaartuigen en buiten de inrichting gelegen kwetsbare objecten  | art. 1.4 jo 4.77lid 2 Barim  | ½  |
+| r  | BM  | 201  | --- | toestaan van overnachting en/of recreatief verblijf door derden binnen een afstand van 20 meter van een bunkerstation voor opslag van lichte olie en/of binnen een afstand van 20 meter van een op de wal geplaatste vaste afleverinstallatie voor het afleveren van lichte olie aan vaartuigen  | art. 1.4 jo 4.77lid 3 Barim  | ½  |
+| r  | BM  | 202  | --- | bij aflevering van vloeibare brandstoffen aan vaartuigen niet voldoende absorptiemiddelen en/of andere hulpmiddelen aanwezig hebben voor de eerste bestrijding van een waterverontreiniging als gevolg van morsingen en/of een calamiteit bij de aflevering  | art. 1.4 jo 4.78lid 1 Barim  | 1/2  |
+| r  | BM  | 203  | --- | niet in de inrichting bewaren van de keuringsresultaten, zijnde de resultaten van de keuring of de controle, bedoeld in artikel 4.80, derde en/of vierde lid, Barim  | art. 1.4 jo 4.80lid 6 jo 3e of lid 4 Barim  | ½  |
+| r  | BM  | 204  | --- | aanwezig hebben van meer dan 4 autowrakken in een inrichting voor onderhoud en/of reparatie van motorvoertuigen, niet zijnde een autodemontagebedrijf of een inrichting voor het opslaan van autowrakken in het kader van hulpverlening aan kentekenhouders door een daartoe aangewezen instantie of in het kader van onderzoek door politie of justitie  | art. 1.4 jo 4.84lid 1 Barim  | ½  |
+| r  | BM  | 205  | --- | anders dan bij een demontagebedrijf verwijderen en/of nuttig toepassen van een autowrak en/of de daarin aanwezige materialen of onderdelen, tenzij sprake is van de uitzondering vermeld in artikel 4.84, tweede lid, onder 1e en/of 2e, Barim  | art. 1.4 jo 4.84lid 2 Barim  | ½  |
+| r  | BM  | 206  | --- | in een inrichting in de buitenlucht proefdraaien van verbrandingsmotoren  | art. 1.4 jo 4.84lid 3 Barim  | ½  |
+| r  | BM  | 207  | --- | in een inrichting niet uitsluitend voor de eindreiniging van zeefdrukramen gebruiken van reinigingsmiddelen met een vlampunt groter dan 55 graden Celsius en op waterbasis  | art. 1.4 jo 4.90lid 1 Barim  | ½  |
+| r  | BM  | 208  | --- | geen registratie bijhouden van het verbruik aan vluchtig organische stoffen in kilogram per jaar bij het gebruik voor zeefdruk per jaar van meer dan 1000 kilogram inkt op basis van organische oplosmiddelen  | art. 1.4 jo 4.90lid 2 Barim  | ½  |
+| r  | BM  | 209  | --- | niet tenminste drie jaren in de inrichting bewaren en/of ter inzage houden van een registratie als bedoeld in artikel 4.90, tweede lid, Barim  | art. 1.4 jo 4.90lid 3 Barim  | ½  |
+| r  | BM  | 210  | --- | niet voeren van een oplosmiddelenboekhouding waarin het verbruik van vluchtig organische stoffen per kilogram per jaar wordt geregistreerd bij uitoefening van activiteiten als bedoeld in artikel 4.95, eerste lid, Barim  | art. 1.4 jo 4.95 3e jo lid 1 Barim  | ½  |
+| r  | BM  | 211  | --- | niet ten minste gedurende drie jaar in de inrichting bewaren en/of ter inzage houden van de oplosmiddelenboekhouding als bedoeld in artikel 4.95, derde lid, Barim  | art. 1.4 jo 4.95lid 5 Barim  | ½  |
+| r  | BM  | 212  | --- | in een inrichting meetinstrumentarium niet ter plaatse van een meetplaats bevestigen  | art. 1.4 jo 4.99lid 7 Barim  | ½  |
+| r  | BM  | 213  | --- | als drijver van de inrichting niet bewaren van het laatste keurings- en/of onderhoudsrapport met betrekking tot een machine bestemd voor het reinigen met een koolwaterstof, waaruit mede blijkt wie en wanneer de keuring of het onderhoud heeft en/of is verricht  | art. 1.4 jo 4.101lid 3 Barim  | ½  |
+| r  | BM  | 214  | --- | niet in het belang van het doelmatig beheer van afvalstoffen in een jachthaven van gebruikers van de jachthaven innemen van in ieder geval de afvalstoffen, genoemd in artikel 4.106, lid 1, onder a tot en met d, Barim  | art. 1.4 jo 4.106lid 1 Barim  | ½  |
+| r  | BM  | 215  | --- | aan de gebruikers van een jachthaven vragen van een aparte financiële vergoeding voor de inzameling van afvalstoffen, bedoeld in artikel 4.106, lid 1, Barim  | art. 1.4 jo 4.106lid 4 jo. lid 1 Barim  | ½  |
+| r  | BM  | 216  | --- | bij een jachthaven, die gewoonlijk wordt aangedaan door zeegaande pleziervaartuigen, niet na overleg met betrokken partijen eens in de drie jaar een passend plan vaststellen voor het in ontvangst nemen en verder beheren van afvalstoffen  | art. 1.4 jo 4.107lid 3 Barim  | ½  |
+| r  | BM  | 217  | --- | door degene die een jachthaven drijft, niet eens in de drie jaar een plan als bedoeld in artikel 4.107, derde lid, Barim aan het bevoegd gezag ter goedkeuring voorleggen  | art. 1.4 jo 4.107lid 3 Barim  | ½  |
+| r  | BM  | 218  | --- | in een inrichting niet inpandig slachten van dieren en/of bewerken van dierlijke bijproducten  | art. 1.4 jo 4.111lid 1 Barim  | ½  |
+| r  | BM  | 219  | --- | in een inrichting niet uitschakelen van de verlichting in de buitenlucht tussen 2300 uur en 0700 uur en/of als er geen sport beoefend wordt en/of als er geen onderhoud plaatsvindt  | art. 1.4 jo 4.113 1e jo lid 2 Barim  | ½  |
+| r  | BM  | 220  | --- | in of vanuit een inrichting lozen van spuiwater uit recreatieve visvijvers op een oppervlaktewaterlichaam en/of op of in de bodem en/of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool  | art. 1.4 jo 4.113alid 2 Barim  | ½  |
+| r  | BM  | 329  | --- | bij het drijven van een inrichting waar uitsluitend of in hoofdzaak horeca-, sport- of recreatieactiviteiten plaatsvinden, niet in achtnemen van het maximaal toegestane geluidsniveau overschrijding: min. 10 dB(A), max. 21 dB(A)  | 2.17 Barim  | ½  |
+| r  | BM  | 330  | --- | bij het drijven van een inrichting waar uitsluitend of in hoofdzaak horeca-, sport- of recreatieactiviteiten plaatsvinden, overschrijden van het maximaal toegestane geluidsniveau (overschrijding: 22 dB(A) of meer)  | 2.17 Barim  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 221 – BM 223: Regeling Algemene Regels voor Inrichtingen Milieubeheer (Rarim)*   | --- | --- |
+| r  | BM  | 221  | --- | opstellen van een op de wal geplaatste vaste installatie voor het afleveren van vloeibare brandstoffen aan vaartuigen anders dan boven een lekbak of een vloeistofdichte vloer of verharding  | art. 1.4 jo 4.79 Barim jo [4.87 Rarim](../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)  | ½  |
+| r  | BM  | 222  | --- | als drijver van de inrichting ervoor zorg dragen dat machinaal schuren geschiedt met mechanische stofafzuiging waarbij het vrijkomende schuurstof in een stofzak wordt opgevangen  | art. 1.4 jo 4.88 Barim jo 4.98 Rarim  | ½  |
+| r  | BM  | 223  | --- | in een inrichting onderhouden, repareren en afspuiten van pleziervaartuigen of repareren, onderhouden en behandelen van de oppervlakte van pleziervaartuigen of onderdelen daarvan, waarbij vloeistoffen vrij kunnen komen, op andere wijze dan boven een bodembeschermende voorziening  | art. 1.4 jo 4.88 Barim jo 4.99 Rarim  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Afdeling C. Bodem en Kernenergie*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Bodem*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 079 – BM 081: Ontgrondingenwet (Ogw)*   | --- | --- |
+| r  | BM  | 079  | a  | ontgronden zonder vergunning:als degene die ontgrondt  |  [art. 3 Ogw](../../../../wet/ontgrondingenwet/BWBR0002505/README.md)   | ½  |
+| r  | BM  | 079  | b  | ontgronden zonder vergunning: als zakelijk gerechtigde of als gebruiker van enig onroerende zaak  | art. 3 Ogw  | ½  |
+| r  | BM  | 080  | --- | niet melden van een van de vergunningplicht vrijgestelde ontgronding  | art. 7 Ogw  | ½  |
+| r  | BM  | 081  | --- | starten met een ontgronding zonder machtiging verleend door bevoegd gezag na verstrijken termijn als bedoeld in artikel 3:16 Awb  | art. 12 Ogw  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 082 – BM 089: Wet bodembescherming (WBB)*   | --- | --- |
+| r  | BM  | 082  | a  | door degene die de bodem saneert, alsmede degene die de sanering feitelijk uitvoert niet melden van (voorschriften opgenomen in beschikking, provinciale of gemeentelijke verordening): start sanering overeenkomstig vastgestelde termijn of voorafgaand aan de feitelijke sanering  | [39a WBB](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) / Provinciale Milieu Verordening (PMV)  | ½  |
+| r  | BM  | 082  | b  | door degene die de bodem saneert, alsmede degene die de sanering feitelijk uitvoert niet melden van (voorschriften opgenomen in beschikking, provinciale of gemeentelijke verordening): het bereiken van de einddiepte van een grondsanering vóór het aanbrengen van aanvulgrond of deklaag  | 39a WBB / Provinciale Milieu Verordening (PMV)  | ½  |
+| r  | BM  | 083  | --- | door degene die voornemens is te saneren dan wel handelingen te verrichten ten gevolge waarvan de verontreiniging van de bodem wordt verminderd en/of verplaatst overeenkomstig de regels gesteld krachtens het eerste lid van artikel 39 a, eerste lid WBB, dat voornemen niet vijf werkdagen voor de start van de bussanering melden aan gedeputeerde staten van de betrokken provincie  | 39b lid3 WBB (jo 2.1 RUS)  | ½  |
+| r  | BM  | 084  | a  | door degene die op en/of in de bodem handelingen verricht met betrekking tot niet gevaarlijk afval, terwijl hij of zij wist of redelijkerwijs had kunnen vermoeden dat door die handelingen de bodem kan worden verontreinigd en/of aangetast, niet nemen van alle maatregelen die redelijkerwijs van hem/haar kunnen worden gevergd, teneinde die verontreiniging en/of aantasting te voorkomen, dan wel te beperken en/of verminderen: 0 t/m 5 m <sup>3</sup>  | 13 WBB  | ½  |
+| r  | BM  | 084  | b  | door degene die op en/of in de bodem handelingen verricht met betrekking tot niet gevaarlijk afval, terwijl hij of zij wist of redelijkerwijs had kunnen vermoeden dat door die handelingen de bodem kan worden verontreinigd en/of aangetast, niet nemen van alle maatregelen die redelijkerwijs van hem/haar kunnen worden gevergd, teneinde die verontreiniging en/of aantasting te voorkomen, dan wel te beperken en/of verminderen: 6 t/m 10 m <sup>3</sup>  | 13 WBB  | ½  |
+| r  | BM  | 085  | --- | door degene die voornemens is de bodem te saneren, bij de melding daarvan bij gedeputeerde staten van de betrokken provincie niet verstrekken van de juiste gegevens  | 28 WBB  | 1/2  |
+| r  | BM  | 086  | --- | door degene die de bodem saneert of degene die de sanering feitelijk uitvoert, hebben van een depot langer dan de duur van de sanering of langer dan 6 maanden  | 39a WBB en 8,1 Wm  | ½  |
+| r  | BM  | 087  | --- | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, niet melden van zeefmachines of puinbrekers  | 39a WBB 8.1 en Wm 3.4 AMvB Mobiele puinbrekers  | ½  |
+| r  | BM  | 088  | --- | door degene die de bodem heeft gesaneerd, dan wel een fase van de sanering heeft uitgevoerd, daarvan niet zo spoedig mogelijk een verslag indienen bij gedeputeerde staten of in dat verslag niet de vereiste gegevens verstrekken  | 39c WBB  | ½  |
+| r  | BM  | 089  | --- | door degene die de bodem heeft gesaneerd, dan wel een fase van de sanering heeft uitgevoerd, het nazorgplan niet tegelijk, dan wel niet zo spoedig mogelijk na de toezending van het saneringsverslag indienen  | 39d WBB  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 090 – BM 104: Besluit uniforme saneringen (BUS) en Regeling uniforme saneringen (RUS)*   | --- | --- |
+| r  | BM  | 090  | --- | door degene die de bodem saneert of degene die de sanering feitelijk uitvoert, niet afdoende afsluiten en/of omgeven van de saneringslocatie en/of depots met een hekwerk  | [2 lid 2 BUS](../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) (jo [2.2 lid 3 RUS](../../../../ministeriele-regeling/regeling/uniforme/saneringen/BWBR0019507/README.md))  | ½  |
+| r  | BM  | 091  | --- | door de milieukundig begeleider van de sanering niet bijhouden van een logboek  | 2 lid 2 BUS (jo 2.3, derde lid RUS)  | ½  |
+| r  | BM  | 092  | --- | door degene die de bodem saneert of degene die de sanering feitelijk uitvoert, niet (tijdig) melden van wijzigingen o.b.v. het Besluit uniforme saneringen en de daarbij behorende Regeling uniforme saneringen  | 10 lid 1 en 2 bus en art. 1.4 lid 1 en 2 RUS  | ½  |
+| r  | BM  | 093  | --- | door degene die de bodem saneert of door degene die de sanering feitelijk uitvoert, niet deugdelijk afdekken van opgeslagen bij de sanering vrijkomende verontreinigde grond en/of bodemvreemd materiaal  | 2 lid 2 BUS (jo 2.4 RUS) 8.1 Wm  | ½  |
+| r  | BM  | 094  | --- | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, niet deugdelijk afdekken van containers voor tijdelijke opslag van bij de sanering vrijkomende verontreinigde grond en/of bodemvreemd materiaal  | 2 lid 2 BUS (jo 2.4 RUS) 8.1 Wm  | ½  |
+| r  | BM  | 095  | --- | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, tijdelijke depots met bij de sanering vrijkomende verontreinigde grond of bodemvreemd materiaal na afronding van de grondsanering of langer dan 6 maanden in werking hebben  | 2 lid 2 BUS (jo 2.4 RUS) 8.1 Wm  | ½  |
+| r  | BM  | 096  | --- | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, vrijgekomen asbesthoudende grond of bodemmateriaal niet uiterlijk binnen vier weken na het vrijkomen ervan afvoeren  | 2 lid 2 BUS (jo 2.5 RUS)  | ½  |
+| r  | BM  | 097  | --- | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, de verontreinigingsituatie onder de isolatielaag niet beschrijven in het evaluatieverslag m.b.t. kleinschalige immobiele verontreinigingen  | 2 lid 2 BUS (jo 3.1.9 RUS)  | 1/2  |
+| r  | BM  | 098  | a  | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, niet afvoeren van de ontgraven verontreinigde grond m.b.t. kleinschalige immobiele verontreinigingen: t/m 10 m <sup>3</sup>  | 2 lid 2 en 3 BUS (jo 3.1.2 RUS, jo 3.2.2 onder b  | ½  |
+| r  | BM  | 098  | b  | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, niet afvoeren van de ontgraven verontreinigde grond m.b.t. kleinschalige immobiele verontreinigingen: van 11 m3 tot 40 m <sup>3</sup>  | 2 lid 2 en 3 BUS (jo 3.1.2 RUS, jo 3.2.2 onder b  | ½  |
+| r  | BM  | 099  | --- | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, langer dan 3 werkdagen opslaan van verontreinigde grond op de saneringslocatie ter bepaling van de afvoerbestemming m.b.t. kleinschalige mobiele verontreinigingen  | 2 lid 2 BUS (jo 3.2.7 RUS)  | ½  |
+| r  | BM  | 100  | --- | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert, niet melden van de datum waarop de einddiepte van de ontgraving zal worden bereikt uiterlijk één werkdag voorafgaande aan het bereiken van dat punt aan het bevoegd gezag gemeld m.b.t. kleinschalige mobiele verontreinigingen  | 2 lid 2 BUS (jo 3.2.6 RUS)  | ½  |
+| r  | BM  | 101  | --- | door degene die de bodem saneert, of degene die de sanering feitelijk uitvoert m.b.t. tijdelijk uitplaatsen van verontreinigde grond de grond niet terugplaatsen in de ontgraving  | 2 lid 2 en en 3 en 7 BUS (jo 3.3.2 RUS)  | ½  |
+| r  | BM  | 102  | --- | niet schriftelijk melden van de datum van voltooiing van de sanering binnen twee weken na beëindiging van de saneringswerkzaamheden aan het bevoegd gezag  | 11 BUS (jo 4.1 RUS)  | ½  |
+| r  | BM  | 103  | --- | door degene die de landbodem of waterbodem heeft gesaneerd, niet na de uitvoering van de sanering daarvan binnen acht weken na beëindiging van de saneringswerkzaamheden schriftelijk verslag doen aan het bevoegd gezag of niet de juiste gegevens verstrekken in het verslag  | 13 BUS  | ½  |
+| r  | BM  | 104  | --- | door degene die saneert, niet uiterlijk vijf werkdagen voorafgaande aan de aanvang van de sanering aan het bevoegd gezag schriftelijk de datum of het tijdstip van de feitelijke aanvang van de saneringswerkzaamheden melden  | 39b lid3 Wbb, art 2, lid 2 BUS jo 2.1 RUS  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 105 – BM 112: Besluit bodemkwaliteit (Bbk)*   | --- | --- |
+| r  | BM  | 105  | a  | vervaardigen en/of invoeren en/of voor toepassing in Nederland en/of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben en/of vervoeren en/of aan een ander ter beschikking stellen en/of toepassen van bouwstoffen terwijl niet: de samenstellings- en emissiewaarden van de bouwstof zijn bepaald overeenkomstig de bij ministeriële regeling gestelde methoden door of onder toezicht van een persoon of instelling die daartoe beschikt over een erkenning  |  [art. 28 Bbk](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md)   | ½  |
+| r  | BM  | 105  | b  | vervaardigen en/of invoeren en/of voor toepassing in Nederland en/of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben en/of vervoeren en/of aan een ander ter beschikking stellen en/of toepassen van bouwstoffen terwijl niet: een bij ministeriële regeling aangewezen persoon of instelling op een bij ministeriële regeling voorgeschreven wijze heeft vastgesteld dat de vastgestelde maximale samenstellings- en emissiewaarden niet zijn overschreden  | art. 28 Bbk  | ½  |
+| r  | BM  | 105  | c  | vervaardigen en/of invoeren en/of voor toepassing in Nederland en/of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben en/of vervoeren en/of aan een ander ter beschikking stellen en/of toepassen van bouwstoffen terwijl niet: uit een milieuhygiënische verklaring blijkt dat wordt voldaan aan het bepaalde in onderdeel a en b  | art. 28 Bbk  | ½  |
+| r  | BM  | 105  | d  | vervaardigen en/of invoeren en/of voor toepassing in Nederland en/of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben en/of vervoeren en/of aan een ander ter beschikking stellen en/of toepassen van bouwstoffen terwijl niet: een afleveringsbon bij de desbetreffende partij aanwezig is die de bij ministeriële regeling vastgestelde gegevens bevat  | art. 28 Bbk  | ½  |
+| r  | BM  | 106  | --- | door degene die voornemens is een bouwstof toe te passen, dit voornemen niet ten minste vijf werkdagen voor het toepassen aan de Minister van Infrastructuur en Milieu melden  | art. 32 lid 1 Bbk  | ½  |
+| r  | BM  | 107  | --- | door degene die voornemens is een IBC-bouwstof toe te passen, dat voornemen niet ten minste vier weken voor het toepassen aan de Minister van Infrastructuur en Milieu melden  | art. 32 lid 2 Bbk  | ½  |
+| r  | BM  | 108  | --- | door degene die voornemens is grond en/of baggerspecie toe te passen, niet overeenkomstig de bij ministeriële regeling bepaalde methoden door een persoon of instelling die daartoe beschikt over een erkenning, de kwaliteit van de grond of baggerspecie laten vaststellen  | art. 38 lid 1 Bbk  | ½  |
+| r  | BM  | 109  | --- | geen milieuhygiënische verklaring aanwezig hebben bij een partij grond en/of baggerspecie  | art. 38 lid 2 Bbk  | ½  |
+| r  | BM  | 110  | --- | de kwaliteit van de bodem waarop of waarin de grond en/of baggerspecie wordt toegepast, niet laten vaststellen overeenkomstig de bij regeling van Onze Ministers bepaalde methoden door een persoon of instelling die daartoe beschikt over een erkenning  | art. 40 lid 1 jo 9 lid 1 Bbk  | ½  |
+| r  | BM  | 111  | --- | niet aanwezig hebben van een milieuhygiënische verklaring waaruit de kwaliteit van de bodem blijkt  | art. 40 lid 2 Bbk  | ½  |
+| r  | BM  | 112  | --- | door degene die voornemens is grond en/of baggerspecie toe te passen, dat voornemen niet ten minste vijf werkdagen van tevoren aan de Minister van Infrastructuur en Milieu melden  | art. 42 jo art. 35 Bbk  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Kernenergie*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 119 – BM 126: Besluit detectie radioactief besmet schroot*   | --- | --- |
+| r  | BM  | 119  | a  | een inrichting drijven en niet onverwijld de ioniserende straling van het schroot dat binnen de inrichting wordt gebracht meten: meetapparatuur wel aanwezig  |  [art. 3 Besluit detectie radioactief besmet schroot](../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md)   | ½  |
+| r  | BM  | 119  | b  | een inrichting drijven en niet onverwijld de ioniserende straling van het schroot dat binnen de inrichting wordt gebracht meten: meetapparatuur niet aanwezig  | art. 3 Besluit detectie radioactief besmet schroot  | ½  |
+| r  | BM  | 120  | --- | een inrichting drijven zonder een register van de metingen, bedoeld in art. 3 Besluit detectie radioactief besmet schroot, bij te houden  | art. 5 Besluit detectie radioactief besmet schroot jo art. 3 Besluit detectie radioactief besmet schroot  | ½  |
+| r  | BM  | 121  | --- | metingen als bedoeld in artikel 3 Besluit detectie radioactief besmet schroot niet door deskundige laten verrichten  | art. 6 jo art.3 Besluit detectie radioactief besmet schroot  | 2  |
+| r  | BM  | 122  | --- | de registratie van de gegevens als bedoeld in artikel 5 Besluit detectie radioactief besmet schroot niet door deskundige laten verrichten  | art. 6 jo art. 5 Besluit detectie radioactief besmet schroot  | 2  |
+| r  | BM  | 123  | --- | het niet stellen van financiële zekerheid ter dekking van de kosten die voortvloeien uit verwijderen van radioactief besmet schroot  | art. 7/8/9 Besluit detectie radioactief besmet schroot  | 2  |
+| r  | BM  | 124  | --- | het niet stellen van financiële zekerheid ter dekking van de kosten die voortvloeien uit het afvoeren van afgedankte hoogactieve bron  | art. 20d Besluit stralings-bescherming  | 2  |
+| r  | BM  | 125  | a  | voor het verwerven van een hoogactieve bron niet aan de Minister van I&M verstrekken van: informatie over volume van de bron en bronhouder en vaste afscherming  | art. 20f Besluit stralings-bescherming  | ½  |
+| r  | BM  | 125  | b  | voor het verwerven van een hoogactieve bron niet aan de Minister van I&M verstrekken van: schriftelijk bewijs dat fin. zekerheid is gesteld  | art. 20f Besluit stralings-bescherming  | ½  |
+| r  | BM  | 126  | --- | als ondernemer die handelingen als bedoeld in art. 120 van het Besluit stralingsbescherming verricht geen administratie bij houden van die handelingen  | art. 120 Besluit stralings-bescherming  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Afdeling D. Vuurwerk, Explosieven en Natuur*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Vuurwerk*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 136 – BM 165: Vuurwerkbesluit (Vwb)*   | --- | --- |
+| r  | BM  | 136  | --- | als ondernemer consumentenvuurwerk aan een particulier afleveren buiten de verkoopruimte  |  [art. 2.3.4 Vwb](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md)   | ½  |
+| r  | BM  | 137  | a  | andere werkzaamheden in de bufferbewaarplaats verrichten dan volgens vs. 3.2 van Bijlage I Vuurwerkbesluit is toegestaan: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 3.2  | ½  |
+| r  | BM  | 137  | b  | andere werkzaamheden in de bufferbewaarplaats verrichten dan volgens vs. 3.2 van Bijlage I Vuurwerkbesluit is toegestaan: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 3.2  | 2  |
+| r  | BM  | 138  | a  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 3.3  | --- | ½  |
+| r  | BM  | 138  | a  | in de bufferbewaarplaats andere werkzaamheden verrichten dan het inbrengen/uitnemen van verpakt vuurwerk: inrichtingen t/m 1.000 kg  | --- | ½  |
+| r  | BM  | 138  | b  | in de bufferbewaarplaats andere werkzaamheden verrichten dan het inbrengen/uitnemen van verpakt vuurwerk: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 3.3  | 2  |
+| r  | BM  | 139  | a  | de deur van de bufferbewaarplaats niet gesloten houden anders dan ten tijde van het inbrengen of uitnemen van consumentenvuurwerk: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 3.4  | ½  |
+| r  | BM  | 139  | b  | de deur van de bufferbewaarplaats niet gesloten houden anders dan ten tijde van het inbrengen of uitnemen van consumentenvuurwerk: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 3.4  | 2  |
+| r  | BM  | 140  | a  | niet voldoen aan inrichting bufferbewaarplaats volgens vs. 3.6 van Bijlage I Vuurwerkbesluit: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 3.6  | ½  |
+| r  | BM  | 140  | b  | Niet voldoen aan inrichting bufferbewaarplaats volgens vs. 3.6 van Bijlage I Vuurwerkbesluit: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 3.6  | 2  |
+| r  | BM  | 141  | a  | tijdens de toegestane verkoopdagen voor de verkoop van consumentenvuurwerk meer dan 250 kg consumentenvuurwerk aanwezig hebben in de verkoopruimte: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 4.1  | ½  |
+| r  | BM  | 141  | b  | tijdens de toegestane verkoopdagen voor de verkoop van consumentenvuurwerk meer dan 250 kg consumentenvuurwerk aanwezig hebben in de verkoopruimte: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 4.1  | 2  |
+| r  | BM  | 142  | a  | buiten de openingstijden van de winkel tijdens de toegestane verkoopdagen voor de verkoop van consumentenvuurwerk anders dan 200 kg fop- en schertsvuurwerk in de verkoopruimte aanwezig hebben: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 4.1  | ½  |
+| r  | BM  | 142  | b  | buiten de openingstijden van de winkel tijdens de toegestane verkoopdagen voor de verkoop van consumentenvuurwerk anders dan 200 kg fop- en schertsvuurwerk in de verkoopruimte aanwezig hebben: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 4.1  | 2  |
+| r  | BM  | 143  | a  | het in de verkoopruimte aanwezige vuurwerk niet hebben opgeslagen in een vitrine, stelling of winkelkast: inrichtingen t/m 1.000 kg  | art. 2.2.1 jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 4.2  | ½  |
+| r  | BM  | 143  | b  | het in de verkoopruimte aanwezige vuurwerk niet hebben opgeslagen in een vitrine, stelling of winkelkast: inrichtingen vanaf 1.000 kg  | art. 2.2.1 jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 4.2  | 2  |
+| r  | BM  | 144  | a  | het in de verkoopruimte aanwezige vuurwerk hebben opgeslagen in een vitrine, stelling of winkelkast, welke vitrine, stelling of winkelkast zich niet buiten het bereik van het publiek bevindt: inrichtingen t/m 1.000 kg  | art. 2.2.1 jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 4.2  | ½  |
+| r  | BM  | 144  | b  | het in de verkoopruimte aanwezige vuurwerk hebben opgeslagen in een vitrine, stelling of winkelkast, welke vitrine, stelling of winkelkast zich niet buiten het bereik van het publiek bevindt: inrichtingen vanaf 1.000 kg  | art. 2.2.1 jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 4.2  | 2  |
+| r  | BM  | 145  | a  | het niet voldoen aan de constructie-eisen zonder dat vuurwerk aanwezig is: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb  | 1/2  |
+| r  | BM  | 145  | b  | het niet voldoen aan de constructie-eisen zonder dat vuurwerk aanwezig is: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb  | 2  |
+| r  | BM  | 146  | a  | het niet voldoen aan de constructie-eisen terwijl vuurwerk aanwezig is: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage Vwb  | ½  |
+| r  | BM  | 146  | b  | het niet voldoen aan de constructie-eisen terwijl vuurwerk aanwezig is: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage Vwb  | 2  |
+| r  | BM  | 147  | a  | het niet voldoen aan de voorschriften m.b.t. brandveiligheidsinstallatie zonder dat vuurwerk aanwezig is: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 paragraaf 5 Vwb  | ½  |
+| r  | BM  | 147  | b  | het niet voldoen aan de voorschriften m.b.t. brandveiligheidsinstallatie zonder dat vuurwerk aanwezig is: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 paragraaf 5 Vwb  | 2  |
+| r  | BM  | 148  | a  | het niet voldoen aan de voorschriften m.b.t. brandveiligheidsinstallatie terwijl vuurwerk aanwezig is: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 paragraaf 5 Vwb  | ½  |
+| r  | BM  | 148  | b  | het niet voldoen aan de voorschriften m.b.t. brandveiligheidsinstallatie terwijl vuurwerk aanwezig is: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 paragraaf 5 Vwb  | 2  |
+| r  | BM  | 149  | a  | in gebruik nemen van bewaarplaats, bufferbewaarplaats en verkoopruimte zonder dat voldaan is aan vs. 5.3 van Bijlage I Vuurwerkbesluit met betrekking tot inspectierapport en/of certificaat B: inrichtingen t/m 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 5.3  | ½  |
+| r  | BM  | 149  | b  | in gebruik nemen van bewaarplaats, bufferbewaarplaats en verkoopruimte zonder dat voldaan is aan vs. 5.3 van Bijlage I Vuurwerkbesluit met betrekking tot inspectierapport en/of certificaat B: inrichtingen vanaf 1.000 kg  | art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo bijlage 1 Vwb vs. 5.3  | 2  |
+| r  | BM  | 150  | --- | als degene die vuurwerk of pyrotechnische artikelen voor theatergebruik vervaardigt, binnen het grondgebied van Nederland brengt, of voor handelsdoeleinden voorhanden heeft, niet registreren hetgeen onder artikel 1.4 lid 1, sub a en b is aangeduid  | art. 1.4.2 lid 1 Vwb  | 2  |
+| r  | BM  | 151  | --- | als degene die bedrijfsmatig consumentenvuurwerk ter beschikking stelt aan particulieren, de totale hoeveelheid vuurwerk uitgedrukt in kilogrammen verpakt vuurwerk die per dag aan particulieren ter beschikking is gesteld, niet registreren  | art. 1.4.2 lid 3 Vwb  | ½  |
+| r  | BM  | 152  | --- | als degene die vuurwerk of pyrotechnische artikelen voor theatergebruik binnen of buiten het grondgebied van Nederland brengt, niet een melding doen bij bevoegd gezag die voldoet aan art. 1.3.2 lid 1 Vuurwerkbesluit  | art. 1.3.2 lid 1 Vwb  | 2  |
+| r  | BM  | 153  | --- | als degene die consumentenvuurwerk aan een groothandelaar ter beschikking stelt of professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik aan een ander ter beschikking stelt, niet een melding doen bij bevoegd gezag die voldoet aan art. 1.4.1 lid 1 Vuurwerkbesluit  | art. 1.4.1 lid 1 Vwb  | 2  |
+| r  | BM  | 154  | --- | vuurwerk of pyrotechnische artikelen voor theatergebruik in de handel brengen, voorhanden hebben of aan een ander ter beschikking stellen dat/die niet voldoen aan de fundamentele veiligheidseisen  | art. 1A.2.1 lid 1 Vwb  | 2  |
+| r  | BM  | 155  | --- | vuurwerk of pyrotechnische artikelen voor theatergebruik in de handel brengen voorhanden hebben of aan een ander ter beschikking stellen terwijl dat/die niet zijn onderworpen aan de conformiteitsbeoordelingsprocedure  | art. 1A.2.1 lid 2 Vwb  | 2  |
+| r  | BM  | 156  | --- | vuurwerk of pyrotechnische artikelen voor theatergebruik in de handel brengen, voorhanden hebben, aan een ander ter beschikking stellen of gebruiken anders dan met inachtneming van de voorschriften gesteld bij of krachtens de artikelen 1A.4.1, 2.1.3, 3.1.1 en 3A.1.1 met betrekking tot de aanduiding en het bezigen van vermeldingen  | art. 1A.2.1 lid 3 Vwb  | 2  |
+| r  | BM  | 157  | --- | in strijd met artikel 1.2.5 Vuurwerkbesluit niet ononderbroken een vervoermiddel met vuurwerk of pyrotechnische artikelen voor theatergebruik beladen en/of daaruit lossen  | art. 1.2.5 lid 1 onder b Vwb  | ½  |
+| r  | BM  | 158  | --- | als degene die een inrichting, als bedoeld in artikel 2.2.1 Vuurwerkbesluit, opricht, dit niet ten minste vier weken voor de oprichting schriftelijk aan het bevoegd gezag melden  | art. 2.2.4 Vwb jo art. 2.2.1 Vwb  | ½  |
+| r  | BM  | 159  | a  | als degene die een inrichting drijft als bedoeld in artikel 1.1.4, 2.2.1, 2.2.2, 3.2.1 of 3A.2.1 Vuurwerkbesluit er niet voor zorgen dat B&W en/of de burgemeester van de gemeente waarin de inrichting is gelegen en/of de commandant van de regionale brandweer, bij de toegang tot de inrichting direct toegang hebben tot in ieder geval de actuele gegevens als bedoeld in artikel 1.4.3 Vuurwerkbesluit: opslag voor doorvoer  | art. 1.4.3 Vwb jo art. 1.4.1 Vwb jo art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo art. 3.2.1 Vwb jo art. 3A.2.1 Vwb  | 2  |
+| r  | BM  | 159  | b  | als degene die een inrichting drijft als bedoeld in artikel 1.1.4, 2.2.1, 2.2.2, 3.2.1 of 3A.2.1 Vuurwerkbesluit er niet voor zorgen dat B&W en/of de burgemeester van de gemeente waarin de inrichting is gelegen en/of de commandant van de regionale brandweer, bij de toegang tot de inrichting direct toegang hebben tot in ieder geval de actuele gegevens als bedoeld in artikel 1.4.3 Vuurwerkbesluit: opslag cons.vuurwerk  | art. 1.4.3 Vwb jo art. 1.4.1 Vwb jo art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo art. 3.2.1 Vwb jo art. 3A.2.1 Vwb  | ½  |
+| r  | BM  | 159  | c  | als degene die een inrichting drijft als bedoeld in artikel 1.1.4, 2.2.1, 2.2.2, 3.2.1 of 3A.2.1 Vuurwerkbesluit er niet voor zorgen dat B&W en/of de burgemeester van de gemeente waarin de inrichting is gelegen en/of de commandant van de regionale brandweer, bij de toegang tot de inrichting direct toegang hebben tot in ieder geval de actuele gegevens als bedoeld in artikel 1.4.3 Vuurwerkbesluit: opslag professioneel evt. met cons. vuurwerk en/of pyrotechnische artikelen voor theatergebruik  | art. 1.4.3 Vwb jo art. 1.4.1 Vwb jo art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo art. 3.2.1 Vwb jo art. 3A.2.1 Vwb  | 2  |
+| r  | BM  | 159  | d  | als degene die een inrichting drijft als bedoeld in artikel 1.1.4, 2.2.1, 2.2.2, 3.2.1 of 3A.2.1 Vuurwerkbesluit er niet voor zorgen dat B&W en/of de burgemeester van de gemeente waarin de inrichting is gelegen en/of de commandant van de regionale brandweer, bij de toegang tot de inrichting direct toegang hebben tot in ieder geval de actuele gegevens als bedoeld in artikel 1.4.3 Vuurwerkbesluit: opslag pyrotechnische artikelen voor theatergebruik evt. met cons.vuurwerk en/of professioneel vuurwerk  | art. 1.4.3 Vwb jo art. 1.4.1 Vwb jo art. 2.2.1 Vwb jo art. 2.2.2 Vwb jo art. 3.2.1 Vwb jo art. 3A.2.1 Vwb  | 2  |
+| r  | BM  | 160  | --- | zonder daartoe verleende vergunning consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik tot ontbranding brengen, ten behoeve daarvan opbouwen, installeren, bewerken, dan wel na ontbranding verwijderen  | art. 3B.1 lid 1 Vwb  | ½  |
+| r  | BM  | 161  | --- | als degene aan wie een vergunning, als bedoeld in artikel 3B.1 lid 1Vuurwerkbesluit, is verleend, niet de in het derde en vierde lid van artikel 3B.1 bedoelde voorschriften naleven  | art. 3B.1 lid 5 Vwb  | ½  |
+| r  | BM  | 162  | --- | als aanvrager naar het oordeel van het bevoegd gezag bij de aanvraag niet op genoegzame wijze door verzekering of anderszins financiële zekerheid stellen ter dekking van de aansprakelijkheid, en/of welke zekerheid tenminste € 2 500 000,00 per gebeurtenis bedraagt en welke zekerheid in ieder geval in stand wordt gehouden tot het moment waarop de vergunning vervalt  | art. 3B.2 Vwb  | 2  |
+| r  | BM  | 163  | --- | geen melding doen als bedoeld in artikel 3B.4 lid 1 Vuurwerkbesluit aan bevoegd gezag voorafgaand aan het tot ontbranding brengen van theatervuurwerk en/of consumentenvuurwerk  | art. 3B.4 lid 1 Vwb jo 3B.1 lid 1 Vwb  | ½  |
+| r  | BM  | 164  | --- | niet ten minste 2 weken voordat de artikelen tot ontbranding worden gebracht een melding als bedoeld in art. 3b.4 lid 1 Vwb doen toekomen aan het bevoegd gezag  | art. 3B4 lid 4 Vwb  | ½  |
+| r  | BM  | 165  | --- | als degene aan wie een vergunning, als bedoeld in artikel 3B.1, eerste lid, Vuurwerkbesluit is verleend, niet voldoen aan hetgeen in voorschrift 3B.6 Vuurwerkbesluit met betrekking tot het bijhouden van een register is opgenomen  | art. 3B.6 Vwb jo art. 3B.1 lid 1 Vwb  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Explosieven*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 166 – BM 168: Wet explosieven voor civiel gebruik (Wecg)*   | --- | --- |
+| r  | BM  | 166  | --- | als houder van een vergunning of een bewijs van toestemming voor de overbrenging van explosieven, niet deze explosieven tot aan de plaats waar de overbrenging eindigt en/of bij het verlaten van het grondgebied van Nederland, doen vergezellen van deze vergunning of dit bewijs van toestemming  |  [artikel 14 Wecg](../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   | ½  |
+| r  | BM  | 167  | --- | als degene voor wie de explosieven bestemd zijn en/of als onderneming uit de sector explosieven niet op verzoek van de autoriteit, die daarom verzoekt als bedoeld in artikel 16 Wet explosieven civiel gebruik, de gegevens die hem ter beschikking staan, zenden aan deze bevoegde autoriteit  | artikel 16 Wecg  | 1/2  |
+| r  | BM  | 168  | --- | geen registratie bijhouden die voldoet aan hetgeen in artikel 21 Wet explosieven voor civiel gebruik is gesteld  | artikel 21 Wecg  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Natuur*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummer BM 169: Wet algemene bepalingen omgevingsrecht (Wabo)*   | --- | --- |
+| r  | BM  | 169  | a  | een bouwwerk slopen zonder de vereiste vergunning of ontheffing volgens een provinciale of gemeentelijke verordening: particulier-eigenaar/opdrachtgever  |  [art. 2.2 Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)   | 1  |
+| r  | BM  | 169  | b  | een bouwwerk slopen zonder de vereiste vergunning of ontheffing volgens een provinciale of gemeentelijke verordening: bedrijfsmatig-eigenaar/opdrachtgever  | art. 2.2 Wabo  | 2  |
+| r  | BM  | 169  | c  | een bouwwerk slopen zonder de vereiste vergunning of ontheffing volgens een provinciale of gemeentelijke verordening: particulier-aannemer  | Art. 2.2 Wabo  | 1  |
+| r  | BM  | 169  | d  | een bouwwerk slopen zonder de vereiste vergunning of ontheffing volgens een provinciale of gemeentelijke verordening: bedrijfsmatig-aannemer  | art. 2.2 Wabo  | 2  |
+| r  | BM  | 332  | --- | zonder een omgevingsvergunning oprichten, veranderen of veranderen van de werking, of in werking hebben van een inrichting  | 2.1 lid 1 onder e Wabo  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 260 – BM 277: Flora- en faunawet (FFW) inheems*   | --- | --- |
+| r  | BM  | 260  | --- | opzettelijk beschermde inheemse planten plukken, verzamelen, afsnijden, uitsteken, vernielen, beschadigen, ontwortelen of op andere wijze van hun groeiplaats verwijderen  |  [8 FFW](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)   | ½  |
+| r  | BM  | 261  | --- | opzettelijk inheems beschermde dieren, doden, verwonden, vangen, bemachtigen of opsporen (max. 3)  | 9 FFW  | --- |
+| r  | BM  | 262  | --- | beschermde inheemse diersoorten opzettelijk verontrusten  | 10 FFW  | ½  |
+| r  | BM  | 263  | --- | opzettelijk nesten, holen of andere voortplantings- of vaste rust- of verblijfplaatsen van beschermde inheemse dieren beschadigen, vernielen, uithalen, wegnemen of verstoren (max. 3)  | 11 FFW  | ½  |
+| r  | BM  | 264  | --- | opzettelijk eieren van beschermde inheemse dieren zoeken, rapen, uit het nest nemen, beschadigen of vernielen  | 12 FFW  | ½  |
+| r  | BM  | 265  | --- | opzettelijk planten of producten van planten, behorende tot een beschermde inheemse plantensoort te koop te vragen, te kopen of te verwerven, ten verkoop voorhanden of in voorraad te hebben, te verkopen of ten verkoop aan te bieden, te vervoeren, af te leveren, uit te wisselen, te ruilen of in ruil aan te bieden, binnen of buiten het grondgebied van Nederland te brengen of onder zich te hebben (1–5 stuks)  | 13, lid 1 onder a FFW  | ½  |
+| r  | BM  | 266  | --- | opzettelijk planten of producten van planten, behorende tot een beschermde inheemse plantensoort te koop te vragen, te kopen of te verwerven, ten verkoop voorhanden of in voorraad te hebben, te verkopen of ten verkoop aan te bieden, te vervoeren, af te leveren, uit te wisselen, te ruilen of in ruil aan te bieden, binnen of buiten het grondgebied van Nederland te brengen of onder zich te hebben (6–10 stuks)  | 13, lid 1 onder a FFW  | ½  |
+| r  | BM  | 267  | --- | opzettelijk dieren, dan wel eieren van dieren, behorende tot een beschermde inheemse diersoort, te koop te vragen, te kopen of te verwerven, ten verkoop voorhanden of in voorraad te hebben, te verkopen of ten verkoop aan te bieden, te vervoeren, af te leveren, uit te wisselen, te ruilen of in ruil aan te bieden, binnen of buiten het grondgebied van Nederland te brengen of onder zich te hebben (1–5 stuks)  | 13 lid 1 FFW  | ½  |
+| r  | BM  | 268  | --- | opzettelijk dieren, dan wel eieren van dieren, behorende tot een beschermde inheemse diersoort te koop te vragen, te kopen of te verwerven, ten verkoop voorhanden of in voorraad te hebben, te verkopen of ten verkoop aan te bieden, te vervoeren, af te leveren, uit te wisselen, te ruilen of in ruil aan te bieden, binnen of buiten het grondgebied van Nederland te brengen of onder zich te hebben (6–10 stuks)  | 13 lid 1 FFW  | ½  |
+| r  | BM  | 269  | --- | opzettelijk ongeoorloofde middelen die geschikt en bestemd zijn voor het doden of vangen of doden van één dier onder zich te hebben (max. 3 stuks)  | 15 lid 1 FFW  | ½  |
+| r  | BM  | 270  | --- | opzettelijk ongeoorloofde middelen die geschikt en bestemd zijn voor het doden of vangen of doden van meer dan één dier onder zich te hebben (max. 3 stuks)  | 15 lid 1 FFW  | ½  |
+| r  | BM  | 271  | --- | opzettelijk ongeoorloofde middelen die geschikt en bestemd zijn voor het doden of vangen of doden van één dier ten verkoop voorradig of voorhanden te hebben, te verkopen of ten verkoop aan te bieden (max. 3 stuks)  | 15 lid 1 FFW  | ½  |
+| r  | BM  | 272  | --- | opzettelijk ongeoorloofde middelen die geschikt en bestemd zijn voor het doden of vangen van meer dan één dier ten verkoop voorradig of voorhanden te hebben, te verkopen of ten verkoop aan te bieden (max. 3 stuks)  | 15 lid 1 FFW  | ½  |
+| r  | BM  | 273  | --- | opzettelijk zich buiten een gebouw bevinden met ongeoorloofde middelen die geschikt of bestemd zijn voor het doden of vangen of doden van één dier (max. 3 stuks)  | 15 lid 2 FFW  | ½  |
+| r  | BM  | 274  | --- | opzettelijk zich buiten een gebouw bevinden met ongeoorloofde middelen die geschikt of bestemd zijn voor het doden of vangen of doden van meer dan één dier (max. 3 stuks)  | 15 lid 2 FFW  | ½  |
+| r  | BM  | 275  | --- | opzettelijk als degene die niet voorzien is van een jachtakte, in het veld een geweer of een gedeelte van een geweer dragen, terwijl hij niet uit andere hoofde tot het gebruik van een geweer ter plaatse gerechtigd is  | 16 lid 1 FFW  | 1  |
+| r  | BM  | 276  | --- | opzettelijk als degene die zich in het veld ophoudt, zich zonder gegronde reden met een fret, buidel of kastval bevinden op gronden waarop hij niet bevoegd is van die middelen gebruik te maken voor de uitoefening van de jacht of in verband met beheer en bestrijding van schade als bedoeld in de artikelen 65, 67 en 68 FFW  | 16 lid 2 FFW  | 1  |
+| r  | BM  | 277  | --- | niet verhinderen dat een dier dat hem toebehoort of onder zijn toezicht staat, in het veld dieren opspoort, doodt, verwondt, vangt of bemachtigt  | 16 lid 3 FFW  | 1  |
+| R  | BM  | 331  | --- | opzettelijk uitzetten van dieren of eieren van dieren in de vrije natuur  | 14 FFW  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 278 – BM 291: Flora- en faunawet (FFW) uitheems*   | --- | --- |
+| r  | BM  | 278  | a  | planten of producten van planten, behorende tot een beschermde uitheemse plantensoort, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben, CITES Bijlage A. Per stuk maximaal 3 stuks: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 278  | b  | planten of producten van planten, behorende tot een beschermde uitheemse plantensoort, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben, CITES Bijlage A. Per stuk maximaal 3 stuks: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 279  | a  | een hoeveelheid kaviaar (van 0 gram tot 125 gram, zijnde een product van een dier behorende tot een beschermde uitheemse diersoort (CITES bijlage A), binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 279  | b  | een hoeveelheid kaviaar (van 0 gram tot 125 gram, zijnde een product van een dier behorende tot een beschermde uitheemse diersoort (CITES bijlage A), binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 280  | a  | een hoeveelheid kaviaar (van 125 gram tot 350 gram, zijnde een product van een dier behorende tot een beschermde uitheemse diersoort (CITES bijlage A), binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 280  | b  | een hoeveelheid kaviaar (van 125 gram tot 350 gram, zijnde een product van een dier behorende tot een beschermde uitheemse diersoort (CITES bijlage A), binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 281  | a  | CITES bijlage A, product van plant of dier, Ivoor, een hoeveelheid van 1 tot 100 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 281  | b  | CITES bijlage A, product van plant of dier, Ivoor, een hoeveelheid van 1 tot 100 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 282  | a  | CITES bijlage A, product van plant of dier, Ivoor, een hoeveelheid van 100 tot 200 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 282  | b  | CITES bijlage A, product van plant of dier, Ivoor, een hoeveelheid van 100 tot 200 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 283  | a  | CITES bijlage A, product van plant of dier, Ivoor, een hoeveelheid van 200 tot 300 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 283  | b  | CITES bijlage A, product van plant of dier, Ivoor, een hoeveelheid van 200 tot 300 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 284  | a  | CITES bijlage A, product van plant of dier, Ivoor, een hoeveelheid 300 tot 400 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 284  | b  | CITES bijlage A, product van plant of dier, Ivoor, een hoeveelheid 300 tot 400 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 285  | a  | CITES bijlage A product van plant of dier, Medicijn, maximaal 3 stuks, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 285  | b  | CITES bijlage A product van plant of dier, Medicijn, maximaal 3 stuks, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 286  | a  | CITES bijlage A, product van plant of dier, souvenir/gebruiksvoorwerp, maximaal 3 stuks, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 286  | b  | CITES bijlage A, product van plant of dier, souvenir/gebruiksvoorwerp, maximaal 3 stuks, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 287  | a  | CITES bijlage B/C, dier of plant, dood of levend, maximaal 3, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 287  | b  | CITES bijlage B/C, dier of plant, dood of levend, maximaal 3, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 288  | a  | CITES bijlage B, product van plant of dier, kaviaar, 125 tot 250 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 288  | b  | CITES bijlage B, product van plant of dier, kaviaar, 125 tot 250 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 289  | a  | CITES bijlage B/C, product van plant of dier, kaviaar, 250 tot 500 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 289  | b  | CITES bijlage B/C, product van plant of dier, kaviaar, 250 tot 500 gram, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 290  | a  | CITES bijlage B/C product van plant of dier, Medicijn, geringe hoeveelheid, maximaal 3 stuks, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 290  | b  | CITES bijlage B/C product van plant of dier, Medicijn, geringe hoeveelheid, maximaal 3 stuks, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 291  | a  | CITES bijlage B/C, product van plant of dier, souvenir/gebruiksvoorwerp, maximaal 3, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: niet opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| r  | BM  | 291  | b  | CITES bijlage B/C, product van plant of dier, souvenir/gebruiksvoorwerp, maximaal 3, binnen of buiten het grondgebied van Nederland brengen of onder zich hebben: opzettelijk  | 13 lid 1 onder a FFW  | 1  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 292 – BM 294 Boswet (Bw)*   | --- | --- |
+| r  | BM  | 292  | --- | vellen of te doen vellen van een houtbestand, anders dan bij wijze van dunning, zonder dat een voorafgaande tijdige kennisgeving als bedoeld in art. 2, eerste lid, Boswet is gedaan (max. 1 hectare)  |  [2 lid 3 Bw](../../../../wet/boswet/BWBR0002357/README.md)   | ½  |
+| r  | BM  | 293  | --- | als eigenaar van grond, waarop een houtopstand, anders dan bij wijze van dunning, is geveld of op andere wijze tenietgegaan, niet voldoen aan verplichting binnen een tijdvak van drie jaren na de velling of het tenietgaan van de houtopstand te herbeplanten volgens de hiervoor gestelde regels (max. 1 hectare)  | 3 lid 1Bw  | ½  |
+| r  | BM  | 294  | --- | als eigenaar van grond, waarop een houtopstand, anders dan bij wijze van dunning, is geveld of op andere wijze tenietgegaan, niet voldoen aan verplichting beplanting die niet is aangeslagen binnen drie jaren te vervangen (max. 1 hectare)  | 3 lid 2 BW  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummer BM 295 – Natuurbeschermingswet 1998 (Nbw 1998)*   | --- | --- |
+| r  | BM  | 295  | --- | zich in strijd met de beperkingen die ingevolge artikel 20, eerste of tweede lid, Nbw1998 zijn opgelegd, bevinden in een beschermd natuurmonument als bedoeld in artikel 10, eerste lid, Nbw 1998, een Natura 2000-gebied of gedeelten daarvan  |  [20 lid 3 Nbw 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md)   | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Afdeling E. Water*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 224 – BM 229: Waterwet (Wtw)*   | --- | --- |
+| r  | BM  | 224  | --- | zonder vergunning minder schadelijke stoffen in een oppervlaktelichaam brengen anders dan vanuit een inrichting  | [6.2](../../../../wet/waterwet/BWBR0025458/README.md) jo [6.6 Wtw](../../../../wet/waterwet/BWBR0025458/README.md)  | ½  |
+| r  | BM  | 225  | --- | zonder vergunning van gedeputeerde staten grondwater onttrekken of water infiltreren zonder vergunning als bedoeld in artikel 6.4 Waterwet (max. 50 m3/u)  | 6.4 Wtw  | ½  |
+| r  | BM  | 226  | --- | door degene die handelingen verricht als bedoeld in artikel 6.8 Waterwet, een daardoor veroorzaakte verontreiniging of aantasting van de bodem of oever van een oppervlaktewaterlichaam niet zo spoedig mogelijk melden aan de beheerder  | 6.9 lid 1 Wtw  | ½  |
+| r  | BM  | 227  | a  | met een voertuig betreden van een waterstaatswerk in beheer bij het Rijk, in strijd met een toegangsverbod: met motorvoertuig  | 6.10 Wtw  | ½  |
+| r  | BM  | 227  | b  | met een voertuig betreden van een waterstaatswerk in beheer bij het Rijk, in strijd met een toegangsverbod: zonder motorvoertuig  | 6.10 Wtw  | ½  |
+| r  | BM  | 228  | a  | brengen van stoffen, niet zijnde een gevaarlijke (afval)stof, in een oppervlaktewaterlichaam in strijd met de aan een vergunning als bedoeld in artikel 6.2 Waterwet verbonden vergunningvoorschriften: 1 t/m 10% overschrijding  | 6.20 lid 3 Wtw  | ½  |
+| r  | BM  | 228  | b  | brengen van stoffen, niet zijnde een gevaarlijke (afval)stof, in een oppervlaktewaterlichaam in strijd met de aan een vergunning als bedoeld in artikel 6.2 Waterwet verbonden vergunningvoorschriften: 11 t/m 20% overschrijding  | 6.20 lid 3 Wtw  | ½  |
+| r  | BM  | 228  | c  | brengen van stoffen, niet zijnde een gevaarlijke (afval)stof, in een oppervlaktewaterlichaam in strijd met de aan een vergunning als bedoeld in artikel 6.2 Waterwet verbonden vergunningvoorschriften: 21 t/m 30% overschrijding  | 6.20 lid 3 Wtw  | ½  |
+| r  | BM  | 228  | d  | brengen van stoffen, niet zijnde een gevaarlijke (afval)stof, in een oppervlaktewaterlichaam in strijd met de aan een vergunning als bedoeld in artikel 6.2 Waterwet verbonden vergunningvoorschriften: 31 t/m 40% overschrijding  | 6.20 lid 3 Wtw  | ½  |
+| r  | BM  | 228  | e  | brengen van stoffen, niet zijnde een gevaarlijke (afval)stof, in een oppervlaktewaterlichaam in strijd met de aan een vergunning als bedoeld in artikel 6.2 Waterwet verbonden vergunningvoorschriften 41 t/m 50% overschrijding  | 6.20 lid 3 Wtw  | ½  |
+| r  | BM  | 229  | a  | handelen in strijd met de aan een vergunning als bedoeld in artikel 6.2 Waterwet verbonden vergunningsvoorschriften: niet melden van een calamiteit van relatief geringe omvang  | 6.20 lid 3 Wtw  | ½  |
+| r  | BM  | 229  | b  | handelen in strijd met de aan een vergunning als bedoeld in artikel 6.2 Waterwet verbonden vergunningsvoorschriften: niet voldoen aan administratieve verplichtingen  | 6.20 lid 3 Wtw  | ½  |
+| r  | BM  | 229  | c  | handelen in strijd met de aan een vergunning als bedoeld in artikel 6.2 Waterwet verbonden vergunningsvoorschriften: niet treffen van voorgeschreven voorzieningen  | 6.20 lid 3 Wtw  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 230 – BM 233: Waterbesluit (Wtb)*   | --- | --- |
+| r  | BM  | 230  | --- | niet melden bij het bevoegd gezag van een grondwateronttrekking of infiltratie van water, waarvoor geen vergunning is vereist krachtens artikel 6.4 Waterwet of een verordening van het waterschap  |  [6.11 lid 1 Wtb](../../../../AMvB/waterbesluit/BWBR0026872/README.md)   | ½  |
+| r  | BM  | 231  | --- | niet voldoen aan de meetplicht ten aanzien van de in elk kwartaal onttrokken hoeveelheid grondwater of geïnfiltreerd water  | 6.11 lid 2 Wtb  | ½  |
+| r  | BM  | 232  | --- | niet voldoen aan de verplichting tot het meten van de kwaliteit van geïnfiltreerd water overeenkomstig de bij ministeriële regeling gestelde regels  | 6.11 lid 3 Wtb  | ½  |
+| r  | BM  | 233  | --- | niet binnen de hiervoor gestelde termijn opgave doen aan het bevoegd gezag over de in het voorgaande kalenderjaar gemeten hoeveelheden onttrokken grondwater, geïnfiltreerd water of de kwaliteit van het geïnfiltreerde water  | 6.11 lid 4 Wtb  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 234 – BM 235: Waterregeling (Wtr)*   | --- | --- |
+| r  | BM  | 234  | --- | niet ten minste vier weken voor de uitvoering van een werk of een activiteit waarvoor krachtens artikel 6.12 of 6.13 Waterbesluit geen vergunning is vereist, dit schriftelijk melden aan de minister van I & M  |  [6.14 lid 1 Wtr](../../../../ministeriele-regeling/waterregeling/BWBR0026845/README.md)   | ½  |
+| r  | BM  | 235  | a  | niet voldoen aan de verplichting dat de debietmeet- en bemonsteringsvoorzieningen: in goede staat verkeren  | 7.6 Wtr  | ½  |
+| r  | BM  | 235  | b  | niet voldoen aan de verplichting dat de debietmeet- en bemonsteringsvoorzieningen: overeenkomstig de voorschriften van de leverancier zijn geïnstalleerd en/of onderhouden  | 7.6 Wtr  | ½  |
+| r  | BM  | 235  | c  | niet voldoen aan de verplichting dat de debietmeet- en bemonsteringsvoorzieningen: regelmatig worden schoongemaakt  | 7.6 Wtr  | ½  |
+| r  | BM  | 235  | d  | niet voldoen aan de verplichting dat de debietmeet- en bemonsteringsvoorzieningen: veilig toegankelijk zijn  | 7.6 Wtr  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 236 – BM 239: Besluit lozing afvalwater huishoudens (Blah)*   | --- | --- |
+| r  | BM  | 236  | --- | lozen van huishoudelijk afvalwater in een oppervlaktewaterlichaam, terwijl de afstand tot het dichtstbijzijnde vuilwaterriool of een zuiveringtechnisch werk waarop aansluiting kan plaatsvinden, 40 meter of minder bedraagt  |  [10 Blah](../../../../AMvB/besluit/lozing/afvalwater/huishoudens/BWBR0022910/README.md)   | ½  |
+| r  | BM  | 238  | --- | huishoudelijk afvalwater niet voorafgaand aan het lozen in een oppervlaktewaterlichaam door een zuiveringsvoorziening geleiden  | 11 Blah  | ½  |
+| r  | BM  | 239  | --- | degene die voornemens is huishoudelijk afvalwater vanuit een particulier huishouden op en/of in de bodem en/of in een oppervlaktewaterlichaam te lozen, heeft dit voornemen niet ten minste zes weken voorafgaand aan het plaatsen van een zuiveringsvoorziening gemeld aan het bevoegd gezag  | 13 Blah  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 240 – BM 255: Drinkwaterbesluit (Dwb)*   | --- | --- |
+| r  | BM  | 240  | --- | niet uitvoeren van een meetprogramma  |  [14 (via 31) Dwb](../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md)   | ½  |
+| r  | BM  | 241  | --- | niet terstond of volledig informeren van de door Onze Minister als zodanig aangewezen inspecteur dat drinkwater niet voldoet aan artikel 21, eerste lid, Drinkwaterwet of aan een in tabel I en/of II van bijlage A van Drinkwaterbesluit gestelde eis, en/of over het onderzoek of de nemen herstelmaatregelen, bedoeld in artikel 22 Drinkwaterbesluit  | 23 jo 31 lid 1 Dwb  | ½  |
+| r  | BM  | 242  | --- | eigenaar van een collectieve watervoorziening heeft niet een legionella-risicoanalyse bedoeld in artikel 37, eerste lid, van het Drinkwaterbesluit laten uitvoeren overeenkomstig de hiervoor gestelde regels  | 37 lid 1 Dwb jo art. 5 Regeling legionellapreventie  | ½  |
+| r  | BM  | 243  | --- | eigenaar van een collectief leidingnet heeft niet een legionella-risicoanalyse bedoeld in artikel 37, tweede lid, van het Drinkwaterbesluit laten uitvoeren van overeenkomstig de hiervoor gestelde regels  | 37 lid 2 Dwb jo art. 5 Regeling legionellapreventie  | ½  |
+| r  | BM  | 244  | --- | legionella-risicoanalyse, bedoeld in het eerste of tweede lid van artikel 37 Drinkwaterbesluit, laten uitvoeren door een niet daarvoor op basis van BRL 6010 gecertificeerd bedrijf  | 37 lid 3 Dwb  | ½  |
+| r  | BM  | 245  | --- | niet binnen drie maanden na iedere voor het in artikel 37, eerste of tweede lid, Waterleidingbesluit bedoelde risico relevante wijziging van een collectieve watervoorziening of collectief leidingnet, of het gebruik daarvan, dan wel een wijziging van factoren die invloed kunnen hebben op dat risico, opnieuw uitvoeren van de legionella-risicoanalyse, bedoeld in het eerste lid of tweede lid artikel 37, eerste of tweede lid, Waterleidingbesluit  | 37 lid 4 Dwb  | ½  |
+| r  | BM  | 246  | --- | niet door een daarvoor overeenkomstig BRL 6010 gecertificeerde persoon of bedrijf op basis van de legionella-risicoanalyse laten opstellen van een legionella-beheersplan, dan wel herzien van een bestaand legionella-beheersplan met betrekking tot de inrichting en het beheer van een collectieve watervoorziening, dan wel collectief leidingnet, terwijl uit een legionella-risicoanalyse als bedoeld in artikel 37, eerste, tweede of vierde lid, Drinkwaterbesluit is gebleken dat er een risico is dat niet wordt voldaan aan artikel 27 of artikel 36, eerste lid, Drinkwaterbesluit  | 38 lid 1 Dwb  | ½  |
+| r  | BM  | 247  | --- | niet binnen drie maanden na het tijdstip van gereedkomen van de in artikel 37, vierde lid, Drinkwaterbesluit bedoelde legionella-risicoanalyse opstellen van een legionella-beheersplan, dan wel herzien van een bestaand legionella-beheersplan, terwijl de legionella-risicoanalyse daartoe aanleiding geeft  | 38 lid 2 Dwb  | ½  |
+| r  | BM  | 248  | --- | niet uitvoeren van maatregelen en controles volgens legionellabeheersplan  | 40 lid 1 Dwb  | ½  |
+| r  | BM  | 249  | --- | niet in een logboek aantekening houden van de krachtens hoofdstuk 4 Drinkwaterbesluit uitgevoerde maatregelen, controles en onderzoeken, alsmede van de resultaten daarvan, of gedurende drie jaar bewaren van deze gegevens  | 40 lid 2 Dwb  | ½  |
+| r  | BM  | 250  | --- | niet terstond en volledig informeren van de door Onze Minister als zodanig aangewezen inspecteur dat het drinkwater, bedoeld in artikel 36 lid 1 Dwb meer dan 1000 kolonievormende eenheden legionellabacteriën per liter bevat  | 41 lid 3 Dwb  | ½  |
+| r  | BM  | 251  | --- | niet op de voorgeschreven wijze het drinkwater onderzoeken op de aanwezigheid van legionellabacteriën  | 42 Dwb jo art. 6 en 7 van de Regeling legionellapreventie  | ½  |
+| r  | BM  | 252  | a  | bij de uitvoering van de legionella-risicoanalyse, bedoeld in artikel 37, eerste of tweede lid, van het Drinkwaterbesluit bij de tappunten, bedoeld in artikel 35 vierde lid Drinkwaterbesluit, van een collectieve watervoorziening, dan wel een collectief leidingnet: het drinkwater niet onderzoeken op de aanwezigheid van legionellabacteriën  | 43 lid 1 Dwb  | ½  |
+| r  | BM  | 252  | b  | bij de uitvoering van de legionella-risicoanalyse, bedoeld in artikel 37, eerste of tweede lid, van het Drinkwaterbesluit bij de tappunten, bedoeld in artikel 35 vierde lid Drinkwaterbesluit, van een collectieve watervoorziening, dan wel een collectief leidingnet: niet om de zes maanden onderzoeken (van toepassing op alle collectieve installaties behoudens situatie c)  | 43 lid 1 Dwb  | ½  |
+| r  | BM  | 253  | --- | niet tenminste eenmaal per jaar onderzoeken indien de collectieve watervoorziening of het collectieve leidingnet maximaal zeven maanden per jaar in gebruik is  | 43 lid 2 Dwb  | ½  |
+| r  | BM  | 254  | --- | het niet in acht nemen van de voorwaarden en voorschriften opgenomen in BRL K 14010-1 bij de toepassing van fysisch of fotochemisch beheer door de eigenaar van de collectieve watervoorziening of het collectief leidingnet  | 44 lid 4 Dwb  | ½  |
+| r  | BM  | 255  | --- | het niet in acht nemen van de voorwaarden en voorschriften opgenomen in BRL K 14010-2 bij de toepassing van elektrochemisch beheer door de eigenaar van de collectieve watervoorziening of het collectief leidingnet  | 44 lid 5 Dwb  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 256 – BM 259: Besluit lozen buiten inrichtingen (Blbi)*   | --- | --- |
+| r  | BM  | 256  | --- | door degene die voornemens is te lozen als bedoeld in de artikelen 3.1, tweede, derde, vierde en zesde lid, onderdeel a, 3.2, derde, vijfde, zevende en negende lid, 3.5, derde en vierde lid, 3.6, tweede lid, 3.10, eerste lid, 3.11, eerste lid, 3.12, eerste lid, 3.13, zevende en negende lid, 3.17, eerste en tweede lid, 3.20, vijfde lid, 3.21, eerste lid of 3.24 Besluit lozen buiten inrichting, niet ten minste vier weken voordat met het lozen wordt aangevangen, hiervan melding maken bij het bevoegd gezag  |  [1.10 lid 1 Blbi](../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md)   | ½  |
+| r  | BM  | 257  | --- | door degene die voornemens is te lozen vanuit een bodemsanering als bedoeld in artikel 3.1, tweede, derde of vierde lid, Besluit lozen buiten inrichting, niet ten minste vijf werkdagen voordat met het lozen wordt aangevangen, hiervan melding maken bij het bevoegd gezag, terwijl op grond van artikel 7 Besluit uniforme saneringen met een sanering kan worden begonnen nadat vijf werkdagen zijn verstreken vanaf de datum van ontvangst van de melding, bedoeld in artikel 6 van dat besluit  | 1.11 Blbi  | 1/2  |
+| r  | BM  | 258  | --- | bij het lozen in een oppervlaktewaterlichaam ten gevolge van werkzaamheden aan vaste objecten niet of onvoldoende treffen van bij ministeriële regeling aangegeven maatregelen om het in dat oppervlaktewaterlichaam lozen van stoffen te voorkomen dan wel zoveel mogelijk te beperken  | 3.10 lid 2 jo lid 1 Blbi  | ½  |
+| r  | BM  | 259  | --- | niet in een werkplan beschrijven van de maatregelen die worden getroffen om het lozen in een oppervlaktelichaam ten gevolge van sloop-, renovatie-, of nieuwbouwwerkzaamheden aan vaste objecten te voorkomen, dan wel, voor zover dat niet mogelijk is, zoveel mogelijk te beperken  | 3.11 lid 3 Blbi  | ½  |
+| r  | BM  | 322  | --- | lozen van grondwater in een vuilwaterriool vanuit een proefbronnering in het kader van een saneringsonderzoek in de zin van de Wet bodembescherming of vanuit een bodemsanering in de zin van de Wet bodembescherming  | 3.1, lid 1 jo lid 5 Blbi  | ½  |
+| r  | BM  | 323  | --- | lozen van grondwater vanuit een proefbronnering in het kader van een saneringsonderzoek in de zin van de Wet bodembescherming of vanuit een bodemsanering in de zin van de Wet bodembescherming, terwijl dit grondwater niet op een doelmatige wijze kan worden bemonsterd  | 3.1 lid 1 jo lid 5 Blbi  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 324 – BM 326: Lozingsbesluit open teelt en veehouderij*   | --- | --- |
+| r  | BM  | 324  | --- | bij agrarische activiteiten dan wel activiteiten die daarmee verband houden, niet voldoende zorg in acht nemen om verontreiniging van een oppervlaktewaterlichaam te voorkomen  |  [4 lid 1 Lot](../../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md)   | --- |
+| --- | --- | --- | --- | --- | 5 lid 1 Lot  | 1/2  |
+| r  | BM  | 325  | --- | lozen op oppervlaktewater van niet in het tweede lid omschreven afvalwaterstromen of van in het tweede lid omschreven afvalwaterstromen, terwijl de bijbehorende voorschriften niet in acht zijn genomen  | --- | --- |
+| r  | BM  | 326  | --- | door degene die voornemens is agrarische activiteiten uit te voeren ten gevolge waarvan een lozing kan plaatsvinden, het lozen niet tenminste zes weken voordat daarmee wordt aangevangen, melden aan de beheerder  | 19 Lot  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummers BM 327 – BM 328: Besluit glastuinbouw*   | --- | --- |
+| r  | BM  | 327  | --- | door degene die een glastuinbouwbedrijf type B drijft, niet bijlage 1, voldoen aan meet-, registratie- of rapportageverplichtingen  | [4 lid 1](../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md) jo [bijlage 1 hoofdstuk 3 Bgtb](../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md)  | ½  |
+| R  | BM  | 328  | --- | door degene die voornemens is vanuit een glastuinbouwbedrijf type B te lozen type II, dit niet ten minste acht weken voordat met dat lozen wordt aangevangen, melden aan het Wtw-bevoegd gezag  | 8 lid 1 Bgtb  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Afdeling F. Algemeen*   | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummer BM 296: Wetboek van Strafrecht (WvSr)*   | --- | --- |
+| r  | BM  | 296  | a  | als bij amvb aangewezen handelaar die in de uitoefening van zijn beroep of bedrijf: niet met inachtneming van de bij algemene maatregel van bestuur te stellen regels aantekening hebben gehouden van alle gebruikte of ongeregelde goederen die hij heeft verworven dan wel voorhanden heeft  |  [art. 437 WvSr](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | ½  |
+| r  | BM  | 296  | b  | als bij amvb aangewezen handelaar die in de uitoefening van zijn beroep of bedrijf: een gebruikt of ongeregeld goed verwerven van iemand, zonder dat diegene zijn identiteitsgegevens heeft opgegeven of zonder dat hij die gegevens in zijn administratie heeft aangetekend  | art. 437 WvSr  | ½  |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  *Nummer BM 297: Wet op de economische delicten (Wed)*   | --- | --- |
+| r  | BM  | 297  | --- | opzettelijk niet hebben voldaan aan een vordering, krachtens enig voorschrift van de Wet op de economische delicten, gedaan door een opsporingsambtenaar  |  [art. 26 Wed](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md)   | ½  |
+
+### HOOFDSTUK  2  
+
+####KEURFEITEN
+
+Categorie 1. Natuurlijk persoon Categorie 2. Rechtspersoon  
+
+| Code  | Omschrijving feit  | Artikel  | Categorie  |
+|:---|:---|:---|:---|
+| --- | --- | --- | --- |  *Nummers BM 298 – BM 321: Model Keur*   | --- | --- |
+| r  | BM  | 298  | a  | zonder vergunning van het bestuur: in oppervlaktewatersysteem vis uitzetten  | artikel 2 lid 2 onder a Model Keur  | ½  |
+| r  | BM  | 298  | b  | zonder vergunning van het bestuur: vaste vistuigen te plaatsen  | artikel 2 lid 2 onder b Model Keur  | ½  |
+| r  | BM  | 299  | --- | niet een voldoende kerende afrastering aanbrengen en onderhouden langs hun gronden, welke gelegen zijn aan waterstaatswerken en die gebruikt worden voor het houden van dieren, indien dit door het bestuur verplicht is gesteld  | artikel 3.1 lid 1 Model Keur  | ½  |
+| r  | BM  | 301  | --- | stuwen niet op een daarbij bepaald stuwpeil te stellen, indien dit door het bestuur verplicht is gesteld  | artikel 3.3 lid 1 Model Keur  | ½  |
+| r  | BM  | 302  | --- | niet voldoen aan onderhoudsverplichting waterkering (gewoon)  | artikel 3.5 lid 1 Model Keur  | ½  |
+| r  | BM  | 303  | --- | het niet beplanten of nemen van andere maatregelen om verstuiving te voorkomen, in de beschermingszone en de in de keur aangewezen aangrenzende zone  | artikel 3.5 lid 2 Model Keur  | ½  |
+| r  | BM  | 304  | --- | niet voldoen aan onderhoudsverplichting waterkering (buitengewoon onderhoud)  | artikel 3.6 lid 1 Model Keur  | ½  |
+| r  | BM  | 305  | --- | onderhoud uitvoeren in gesloten periode  | artikel 3.6 lid 2 Model Keur  | ½  |
+| r  | BM  | 306  | --- | niet voldoen aan onderhoudsverplichting aan ondersteunende kunstwerken en werken met een waterkerende functie  | artikel 3.7 Model Keur  | ½  |
+| r  | BM  | 307  | --- | niet voldoen aan onderhoudsverplichting oppervlaktewaterlichaam (gewoon)  | artikel 3.8 Model Keur  | ½  |
+| r  | BM  | 308  | --- | niet voldoen aan onderhoudsverplichting oppervlaktewaterlichamen (buitengewoon onderhoud)  | artikel 3.9 Model Keur  | ½  |
+| r  | BM  | 309  | a  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: werkzaamheden te verrichten  | artikel 4.1 lid 1 onder a Model Keur  | ½  |
+| r  | BM  | 309  | b  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: werken of opgaande (hout)beplantingen te plaatsen, te behouden of te verwijderen  | artikel 4.1 lid 1 onder b Model Keur  | ½  |
+| r  | BM  | 309  | c  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: vaste stoffen, voorwerpen of dieren te brengen, te hebben of te (be)houden  | artikel 4.1 lid 1 onder c Model Keur  | ½  |
+| r  | BM  | 309  | d  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: activiteiten te houden op andere dan daarvoor aangewezen plaatsen  | artikel 4.1 lid 1 onder d Model Keur  | ½  |
+| r  | BM  | 309  | e  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: buiten openbare verharde wegen met rij- of voertuigen of met een lastdier te rijden of vee te drijven  | artikel 4.1 lid 1 onder e Model Keur  | ½  |
+| r  | BM  | 309  | f  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: op andere wijze bemesting toe te passen dan door het bestuur is bepaald  | artikel 4.1 lid 1 onder f Model Keur  | ½  |
+| r  | BM  | 309  | g  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: de waterstand op een peil te brengen of te houden, anders dan het peil dat in het betreffende peilbesluit is opgenomen, of dat normaal wordt aangehouden  | artikel 4.1 lid 1 onder g Model Keur  | ½  |
+| r  | BM  | 309  | h  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: zich anders dan als rechthebbende te bevinden, indien dat op een voor het publiek kenbare wijze is aangegeven  | artikel 4.1 lid 1 onder h Model Keur  | ½  |
+| r  | BM  | 309  | i  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: binnen de in de keur vastgelegde afstand van de in- of uitstroomopening van een bemalingsinstallatie een ligplaats in te nemen met een schip, dan wel te zwemmen, te duiken of watersport te beoefenen  | artikel 4.1 lid 1, onder i Model Keur  | ½  |
+| r  | BM  | 309  | j  | zonder vergunning gebruik maken van een waterstaatwerk door daarin, daarop, daarboven, daarover of daaronder: binnen de in de keur vastgelegde afstand van een windbemalingsinstallatie werken of beplantingen, hoger dan twee meter te plaatsen of te hebben  | artikel 4.1 lid 1, onder j Model Keur  | ½  |
+| r  | BM  | 310  | a  | zonder vergunning van het bestuur in de beschermingszone: afgravingen en seismische onderzoeken te verrichten  | artikel 4.1 lid 2 onder a Model Keur  | ½  |
+| r  | BM  | 310  | b  | zonder vergunning van het bestuur in de beschermingszone: werken met een overdruk van in de keur vastgelegde druk of hoger te plaatsen en te hebben  | artikel 4.1 lid 2 onder b Model Keur  | ½  |
+| r  | BM  | 310  | c  | zonder vergunning van het bestuur in de beschermingszone: explosiegevaarlijk materiaal of explosiegevaarlijke inrichtingen te hebben  | artikel 4.1 lid 2 onder c Model Keur  | ½  |
+| r  | BM  | 310  | d  | zonder vergunning van het bestuur in de beschermingszone: van een primaire waterkering, als bedoeld in artikel 1.1 Waterwet, bouwwerken op te richten  | artikel 4.1 lid 2 onder d Model Keur  | ½  |
+| r  | BM  | 311  | --- | zonder vergunning van het bestuur in het profiel van vrije ruimte werken te plaatsen of te behouden  | artikel 4.1 lid 3 Model Keur  | ½  |
+| r  | BM  | 312  | a  | zonder vergunning neerslag afkomstig van nieuw verhard oppervlak versneld tot afvoer laten komen: indien daarbij meer dan de in de keur aangegeven oppervlakte onverharde grond wordt bebouwd of verhard  | artikel 4.2 onder a Model Keur  | ½  |
+| r  | BM  | 312  | b  | zonder vergunning neerslag afkomstig van nieuw verhard oppervlak versneld tot afvoer laten komen: indien sprake is van verscheidene te ontwikkelen min of meer aaneengesloten bouwplannen met een gezamenlijke oppervlakte, groter dan in de keur is aangegeven  | artikel 4.2 onder b Model Keur  | ½  |
+| r  | BM  | 312  | c  | zonder vergunning neerslag afkomstig van nieuw verhard oppervlak versneld tot afvoer laten komen: indien een nieuw aan te leggen verhard oppervlak meer dan het in de keur genoemd percentage van het oppervlak van het betreffende peilvak beslaat  | artikel 4.2 onder c Model Keur  | ½  |
+| r  | BM  | 312  | d  | zonder vergunning neerslag afkomstig van nieuw verhard oppervlak versneld tot afvoer laten komen: indien het betreffende watersysteem de toename van de piekafvoer als gevolg van de uitbreiding van het verhard oppervlak niet kan verwerken, ook als de oppervlakte minder is dan onder a of b is aangegeven  | artikel 4.2 onder d Model Keur  | ½  |
+| r  | BM  | 313  | a  | in geval van grote schaarste of overvloed aan water, aanmerkelijke verslechtering van de kwaliteit daarvan of bij het in ongerede raken van een waterstaatswerk, dan wel indien zodanige omstandigheid dreigt te ontstaan, zonodig in afwijking van verleende vergunningen of geldende peilbesluiten, wanneer dit door het bestuur verboden is: water afvoeren naar oppervlaktewaterlichamen  | artikel 4.4 lid 1 onder a Model Keur  | ½  |
+| r  | BM  | 313  | b  | in geval van grote schaarste of overvloed aan water, aanmerkelijke verslechtering van de kwaliteit daarvan of bij het in ongerede raken van een waterstaatswerk, dan wel indien zodanige omstandigheid dreigt te ontstaan, zonodig in afwijking van verleende vergunningen of geldende peilbesluiten, wanneer dit door het bestuur verboden is: water aanvoeren uit oppervlaktewaterlichamen  | artikel 4.4 lid 1 onder a Model Keur  | ½  |
+| r  | BM  | 313  | c  | in geval van grote schaarste of overvloed aan water, aanmerkelijke verslechtering van de kwaliteit daarvan of bij het in ongerede raken van een waterstaatswerk, dan wel indien zodanige omstandigheid dreigt te ontstaan, zo nodig in afwijking van verleende vergunningen of geldende peilbesluiten, wanneer dit door het bestuur verboden is: water lozen op oppervlaktewaterlichamen  | artikel 4.4 lid 1 onder b Model Keur  | ½  |
+| r  | BM  | 313  | d  | in geval van grote schaarste of overvloed aan water, aanmerkelijke verslechtering van de kwaliteit daarvan of bij het in ongerede raken van een waterstaatswerk, dan wel indien zodanige omstandigheid dreigt te ontstaan, zo nodig in afwijking van verleende vergunningen of geldende peilbesluiten, wanneer dit door het bestuur verboden is: water onttrekken aan oppervlaktewaterlichamen  | artikel 4.4 lid 1 onder b Model Keur  | ½  |
+| r  | BM  | 313  | e  | in geval van grote schaarste of overvloed aan water, aanmerkelijke verslechtering van de kwaliteit daarvan of bij het in ongerede raken van een waterstaatswerk, dan wel indien zodanige omstandigheid dreigt te ontstaan, zo nodig in afwijking van verleende vergunningen of geldende peilbesluiten, wanneer dit door het bestuur verboden is: grondwater onttrekken  | artikel 4.4 lid 1 onder c Model Keur  | ½  |
+| r  | BM  | 313  | f  | in geval van grote schaarste of overvloed aan water, aanmerkelijke verslechtering van de kwaliteit daarvan of bij het in ongerede raken van een waterstaatswerk, dan wel indien zodanige omstandigheid dreigt te ontstaan, zo nodig in afwijking van verleende vergunningen of geldende peilbesluiten, wanneer dit door het bestuur verboden is: grondwater infiltreren  | artikel 4.4 lid 1 onder c Model Keur  | ½  |
+| r  | BM  | 314  | a  | in door het bestuur aangegeven kwetsbare gebieden: water afvoeren naar oppervlaktewaterlichamen  | artikel 4.5 Model Keur  | ½  |
+| r  | BM  | 314  | b  | in door het bestuur aangegeven kwetsbare gebieden: water aanvoeren uit oppervlaktewaterlichamen  | artikel 4.5 Model Keur  | ½  |
+| r  | BM  | 314  | c  | in door het bestuur aangegeven kwetsbare gebieden: water lozen op oppervlaktewaterlichamen  | artikel 4.5 Model Keur  | ½  |
+| r  | BM  | 314  | d  | in door het bestuur aangegeven kwetsbare gebieden: water onttrekken aan oppervlaktewaterlichamen  | artikel 4.5 Model Keur  | ½  |
+| r  | BM  | 314  | e  | in door het bestuur aangegeven kwetsbare gebieden: grondwater onttrekken  | artikel 4.5 Model Keur  | ½  |
+| r  | BM  | 315  | a  | zonder vergunning van het bestuur: water afvoeren naar oppervlaktewaterlichamen, meer dan de in de keur vastgestelde hoeveelheid  | artikel 4.6 lid 1 Model Keur  | ½  |
+| r  | BM  | 315  | b  | zonder vergunning van het bestuur: water aanvoeren uit oppervlaktewaterlichamen, meer dan de in de keur vastgestelde hoeveelheid  | artikel 4.6 lid 1 Model Keur  | ½  |
+| r  | BM  | 316  | --- | het niet melden aan het bestuur van het aanvoeren uit of afvoeren naar oppervlaktewaterlichaam van water, indien de te verplaatsen hoeveelheid meer bedraagt dan de in de keur vastgestelde hoeveelheid  | artikel 4.7 lid 1 Model Keur  | ½  |
+| r  | BM  | 317  | a  | zonder vergunning van het bestuur: water lozen op oppervlaktewaterlichamen, meer dan de in de keur vastgestelde hoeveelheid  | artikel 4.8 lid 1 onder a Model Keur  | ½  |
+| r  | BM  | 317  | b  | zonder vergunning van het bestuur: water onttrekken uit oppervlaktewaterlichamen, meer dan de in de keur vastgestelde hoeveelheid  | artikel 4.8 lid 1 onder b Model Keur  | ½  |
+| r  | BM  | 318  | --- | het niet melden aan het bestuur van het lozen op of onttrekken aan oppervlaktewaterlichaam van water, indien de te verplaatsen hoeveelheid meer bedraagt dan de in de keur vastgestelde hoeveelheid  | artikel 4.9 lid 1 Model Keur  | ½  |
+| r  | BM  | 319  | a  | zonder vergunning van het bestuur grondwater onttrekken, meer dan de in de keur vastgestelde hoeveelheid: < 1x de in de keur vastgestelde maximum hoeveelheid, die met een melding mag worden onttrokken  | artikel 4.10 lid 1 onder a Model Keur  | ½  |
+| r  | BM  | 319  | b  | zonder vergunning van het bestuur grondwater onttrekken, meer dan de in de keur vastgestelde hoeveelheid: > 1 en <2 x het gestelde maximum  | artikel 4.10 lid 1 onder a Model Keur  | ½  |
+| r  | BM  | 319  | c  | zonder vergunning van het bestuur grondwater onttrekken, meer dan de in de keur vastgestelde hoeveelheid: > 2x het gesteld maximum  | artikel 4.10 lid 1 onder a Model Keur  | ½  |
+| r  | BM  | 319  | d  | zonder vergunning van het bestuur: grondwater in de bodem infiltreren, meer dan de in de keur vastgestelde hoeveelheid  | artikel 4.10 lid 1 onder b Model Keur  | ½  |
+| r  | BM  | 320  | --- | niet indienen vereiste gegevens bij het melden van af- of aanvoeren, lozen of onttrekken van oppervlaktewater  | artikel 4.12 lid 1 Model Keur  | ½  |
+| r  | BM  | 321  | --- | niet voldoen aan verplichting tot meten, registreren en opgave doen van waterhoeveelheden bij het af- of aanvoeren, lozen of onttrekken van oppervlaktewater  | artikel 4.13 Model Keur  | ½  |
 
