@@ -11,57 +11,57 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de expertisecentra.   
+Wijzigt de Wet op de expertisecentra.  
 
 ### Artikel  III  
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet educatie en beroepsonderwijs.   
+Wijzigt de Wet educatie en beroepsonderwijs.  
 
 ### Artikel  V  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  VI  
 
-Wijzigt de Wet studiefinanciering 2000.   
+Wijzigt de Wet studiefinanciering 2000.  
 
 ### Artikel  VII  
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.   
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.  
 
 ### Artikel  VIII  
 
-Wijzigt de Les- en cursusgeldwet.   
+Wijzigt de Les- en cursusgeldwet.  
 
 ### Artikel  IX  
 
-Wijzigt de Leerplichtwet 1969.   
+Wijzigt de Leerplichtwet 1969.  
 
 ### ArtikeL  X  
 
-Wijzigt de Wet verzelfstandiging Informatiseringsbank.   
+Wijzigt de Wet verzelfstandiging Informatiseringsbank.  
 
 ### Artikel  XIa  
 
 1.  [Artikel 40b, eerste lid, tweede volzin, en derde, vierde en zesde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) is van toepassing met ingang van 2 oktober van een bij koninklijk besluit vast te stellen jaar.   
-2.  [Artikel 42a, eerste lid, tweede volzin, en derde, vierde en zesde lid, van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) is van toepassing met ingang van 2 oktober van een bij koninklijk besluit vast te stellen jaar.   
-3.  [Artikel 27b, eerste lid, tweede volzin, en derde, vierde en zesde lid van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) is van toepassing met ingang van 2 oktober van een bij koninklijk besluit vast te stellen jaar.   
+2.   [Artikel 42a, eerste lid, tweede volzin, en derde, vierde en zesde lid, van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) is van toepassing met ingang van 2 oktober van een bij koninklijk besluit vast te stellen jaar.   
+3.   [Artikel 27b, eerste lid, tweede volzin, en derde, vierde en zesde lid van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) is van toepassing met ingang van 2 oktober van een bij koninklijk besluit vast te stellen jaar.   
 4.  (vervallen)   
-5.  [Artikel 8.1.1a, eerste lid, tweede volzin, en derde, vierde en zesde lid van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is van toepassing met ingang van 2 oktober van een bij koninklijk besluit vast te stellen jaar.   
-6.  [Artikel 7.38, eerste lid, tweede volzin, en derde, vierde en zesde lid van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is van toepassing met ingang van 1 augustus van een bij koninklijk besluit vast te stellen jaar.   
+5.   [Artikel 8.1.1a, eerste lid, tweede volzin, en derde, vierde en zesde lid van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is van toepassing met ingang van 2 oktober van een bij koninklijk besluit vast te stellen jaar.   
+6.   [Artikel 7.38, eerste lid, tweede volzin, en derde, vierde en zesde lid van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is van toepassing met ingang van 1 augustus van een bij koninklijk besluit vast te stellen jaar.   
 7.  Tot het tijdstip, bedoeld in onderscheidenlijk het eerste, tweede, derde, vijfde en zesde lid, wordt voor de toepassing van de desbetreffende wet of het desbetreffende deel van de wet uitsluitend het burgerservicenummer als persoonsgebonden nummer gebruikt en kan toelating van een leerling, deelnemer, student of extraneus plaatsvinden zonder overlegging van het persoonsgebonden nummer, indien: 
 
 a. door de ouders, voogden of verzorgers van de leerling of deelnemer, dan wel – indien de leerling of deelnemer meerderjarig en handelingsbekwaam is – door de leerling of deelnemer aannemelijk wordt gemaakt dat geen burgerservicenummer van de leerling of deelnemer kan worden overgelegd; of  
 
-b. de student of extraneus aannemelijk maakt dat hij geen burgerservicenummer kan overleggen.     
+b. de student of extraneus aannemelijk maakt dat hij geen burgerservicenummer kan overleggen.    
 
 ### Artikel  XII  
 
@@ -76,86 +76,98 @@ b. binnen vier maanden na de inwerkingtreding van artikel II, voor wat betreft l
 
 c. binnen vier maanden na de inwerkingtreding van artikel III, voor wat betreft leerlingen van scholen als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-d. binnen vier maanden na de inwerkingtreding van artikel IV, voor wat betreft deelnemers van instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
+d. binnen vier maanden na de inwerkingtreding van artikel IV, voor wat betreft deelnemers van instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
 ### Artikel  XIII  
+Treedt in werking op een nader te bepalen tijdstip 
 
-De Informatie Beheer Groep verstrekt uiterlijk op 31 december van het jaar, bedoeld in artikel XIa, zesde lid, aan de instellingsbesturen het sociaal-fiscaalnummer dan wel het onderwijsnummer van een bij die instelling ingeschreven student of extraneus, zoals dit gegeven is opgenomen in het basisregister onderwijs, bedoeld in artikel 9a van de Wet verzelfstandiging Informatiseringsbank. Het instellingsbestuur neemt dit nummer op in de administratie van de instelling.  
+De Informatie Beheer Groep verstrekt uiterlijk op 31 december van het jaar, bedoeld in artikel XIa, zesde lid, aan de instellingsbesturen het sociaal-fiscaalnummer dan wel het onderwijsnummer van een bij die instelling ingeschreven student of extraneus, zoals dit gegeven is opgenomen in het basisregister onderwijs, bedoeld in artikel 9a van de Wet verzelfstandiging Informatiseringsbank. Het instellingsbestuur neemt dit nummer op in de administratie van de instelling. 
 
 ### Artikel  XIV  
 
-1.  Het bevoegd gezag van een school als bedoeld in onderscheidenlijk de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) verstrekt voor 15 oktober van het jaar, bedoeld in artikel XIa, eerste, tweede, onderscheidenlijk derde lid, aan de Informatie Beheer Groep het burgerservicenummer van de leerlingen.   
+1.  Het bevoegd gezag van een school als bedoeld in onderscheidenlijk de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md)en de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) verstrekt voor 15 oktober van het jaar, bedoeld in artikel XIa, eerste, tweede, onderscheidenlijk derde lid, aan de Informatie Beheer Groep het burgerservicenummer van de leerlingen.   
 2.  Tevens verstrekt het bevoegd gezag van een school als bedoeld in onderscheidenlijk de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) voor 15 oktober van het jaar, bedoeld in artikel XIa, eerste, tweede, onderscheidenlijk derde lid, aan de Informatie Beheer Groep van de leerlingen van wie geen burgerservicenummer kan worden overgelegd en die op 1 oktober van het hiervoor bedoelde jaar in aanmerking kunnen worden gebracht voor bekostiging, de gegevens betreffende geslachtsnaam, voornamen, geboortedatum, geslacht, adres en woonplaats.   
 3.  De Informatie Beheer Groep verstrekt uiterlijk op 31 december van het jaar, bedoeld in het tweede lid, aan het bevoegd gezag van de in het tweede lid bedoelde leerlingen het burgerservicenummer of, voor zover is gebleken dat aan de leerling geen burgerservicenummer is toegekend, een door de Informatie Beheer Groep uitgegeven persoonsgebonden nummer voor de desbetreffende leerling, het onderwijsnummer.   
-4.  Het bevoegd gezag neemt na ontvangst van het in het derde lid bedoelde burgerservicenummer of onderwijsnummer van een leerling, dit nummer op in de leerlingenadministratie bij de gegevens van de desbetreffende leerling.   
+4.  Het bevoegd gezag neemt na ontvangst van het in het derde lid bedoelde burgerservicenummer of onderwijsnummer van een leerling, dit nummer op in de leerlingenadministratie bij de gegevens van de desbetreffende leerling.  
 
 ### Artikel  XV  
 
 1.  Het bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) verstrekt voor 15 oktober van het jaar, bedoeld in artikel XIa, vijfde lid, aan de Informatie Beheer Groep het burgerservicenummer van de deelnemers.   
 2.  Tevens verstrekt het bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor 15 oktober van het jaar, bedoeld in artikel XIa, vijfde lid, aan de Informatie Beheer Groep van de deelnemers van wie geen burgerservicenummer kan worden overgelegd en die op 1 oktober van het hiervoor bedoelde jaar in aanmerking kunnen worden gebracht voor bekostiging, de gegevens betreffende geslachtsnaam, voornamen, geboortedatum, geslacht, adres en woonplaats.   
 3.  De Informatie Beheer Groep verstrekt uiterlijk op 31 december van het jaar, bedoeld in het tweede lid, aan het bevoegd gezag van de in het tweede lid bedoelde deelnemers het burgerservicenummer of, voor zover is gebleken dat aan de deelnemer geen burgerservicenummer is toegekend, een door de Informatie Beheer Groep uitgegeven persoonsgebonden nummer voor de desbetreffende deelnemer, het onderwijsnummer.   
-4.  Het bevoegd gezag neemt na ontvangst van het in het derde lid bedoelde burgerservicenummer of onderwijsnummer van een deelnemer, dit nummer op in de administratie van de instelling bij de gegevens van de desbetreffende deelnemer.   
+4.  Het bevoegd gezag neemt na ontvangst van het in het derde lid bedoelde burgerservicenummer of onderwijsnummer van een deelnemer, dit nummer op in de administratie van de instelling bij de gegevens van de desbetreffende deelnemer. 
 
 ### Artikel  XVI  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XVII  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XVIII  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XIX  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XX  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XXI  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XXII  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XXIII  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XXIV  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XXV  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Vervallen.   
+Vervallen.  
 
 ### Artikel  XXVI  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt de Leerplichtwet 1969.   
+Wijzigt de Leerplichtwet 1969.  
 
 ### Artikel  XXVII  
 
-De [artikelen 164 van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [146 van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [104 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [11.1 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn van overeenkomstige toepassing op de artikelen XII, derde lid, XIV, eerste, tweede en vierde lid, en XV, eerste en derde lid.  
+De [artikelen 164 van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [146 van de Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [104 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [11.1 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn van overeenkomstige toepassing op de artikelen XII, derde lid, XIV, eerste, tweede en vierde lid, en XV, eerste en derde lid. 
 
 ### Artikel  XXVIII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XXIX  
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.   
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.  
 
 ### Artikel  XXX  
 
 1.  De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  Het tijdstip van inwerkingtreding van artikel IX, onderdeel B, kan verschillend worden vastgesteld voor onderscheidenlijk scholen als bedoeld in de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), scholen als bedoeld in de [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en scholen als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+2.  Het tijdstip van inwerkingtreding van artikel IX, onderdeel B, kan verschillend worden vastgesteld voor onderscheidenlijk scholen als bedoeld in de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), scholen als bedoeld in de [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en scholen als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -172,4 +184,4 @@ L. J. Brinkhorst
 de *zevenentwintigste* december 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

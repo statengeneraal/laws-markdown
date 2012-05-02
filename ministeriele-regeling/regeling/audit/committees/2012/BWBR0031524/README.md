@@ -20,7 +20,7 @@ Besluit:
 
 – het risicomanagementbeleid en de uitkomsten daarvan.     
 2.  Het Audit Committee legt zijn adviezen ten aanzien van het risicomanagementbeleid en de uitkomsten daarvan schriftelijk vast ten behoeve van het departementale management, voordat dit management de departementale risicoanalyse vaststelt.   
-3.  Het Audit Committee regelt zijn huishoudelijke aangelegenheden in een huishoudelijk reglement.   
+3.  Het Audit Committee regelt zijn huishoudelijke aangelegenheden in een huishoudelijk reglement.  
 
 ### Artikel  2  
 
@@ -33,7 +33,7 @@ Besluit:
 5.  De externe leden worden geselecteerd op basis van de vastgestelde profielschets voor een maximale zittingsduur die door het Audit Committee is vastgelegd. Het Audit Committee legt de uitkomsten van de selectieprocedure schriftelijk vast.   
 6.  De voorzitter van het Audit Committee draagt de geselecteerde nieuwe externe leden voor benoeming en de verlenging van de zittingsduur van eerder benoemde externe leden voor herbenoeming voor aan de betrokken minister. Ontslag van externe leden binnen de zittingsduur kan slechts worden verleend door de betrokken minister.   
 7.  De externe leden van het Audit Committee kunnen het departementale management verzoeken om ondersteuning en toegang tot alle informatie die zij voor de uitoefening van hun functie nodig vinden. Tevens kunnen de individuele externe leden van het Audit Committee verzoeken om met functionarissen binnen het departement te spreken en in het bijzonder met de betrokken directeur FEZ en de algemeen directeur ADR of de betrokken directeur DAD.   
-8.  De externe leden hebben een geheimhoudingsplicht met betrekking tot alle informatie waarvan zij uit hoofde van hun functie kennis dragen.   
+8.  De externe leden hebben een geheimhoudingsplicht met betrekking tot alle informatie waarvan zij uit hoofde van hun functie kennis dragen.  
 
 ### Artikel  3  
 
@@ -41,21 +41,21 @@ Besluit:
 
 1.  Het Audit Committee benoemt een ambtelijk secretaris. De secretaris voert het secretariaat en onderhoudt het archief van het Audit Committee.   
 2.  De secretaris stelt in overleg met de voorzitter van het Audit Committee de agenda op, nadat alle leden, de betrokken directeur FEZ en de algemeen directeur ADR of de betrokken directeur DAD de mogelijkheid is geboden om onderwerpen voor de agenda voor te dragen.   
-3.  De secretaris stelt van iedere vergadering van het Audit Committee een schriftelijk verslag op, dat tevens ter beschikking wordt gesteld aan de betrokken minister. In het verslag worden eventuele afwijkende standpunten van een of meer individuele externe leden van het Audit Committee opgenomen.   
+3.  De secretaris stelt van iedere vergadering van het Audit Committee een schriftelijk verslag op, dat tevens ter beschikking wordt gesteld aan de betrokken minister. In het verslag worden eventuele afwijkende standpunten van een of meer individuele externe leden van het Audit Committee opgenomen.  
 
 ### Artikel  4  
 
 ####Vergaderfrequentie
 
 1.  Het Audit Committee komt minimaal vier keer per jaar bijeen of zoveel vaker als de voorzitter noodzakelijk acht. De vergaderingen sluiten zoveel mogelijk aan bij belangrijke momenten in de departementale planning- en controlcyclus.   
-2.  Extra vergaderingen kunnen worden bijeengeroepen op initiatief van de voorzitter, al dan niet op verzoek van de overige leden van het Audit Committee, de betrokken directeur FEZ en de algemeen directeur ADR of de betrokken directeur DAD.   
+2.  Extra vergaderingen kunnen worden bijeengeroepen op initiatief van de voorzitter, al dan niet op verzoek van de overige leden van het Audit Committee, de betrokken directeur FEZ en de algemeen directeur ADR of de betrokken directeur DAD.  
 
 ### Artikel  5  
 
 ####Bezoldiging externe leden
 
 1.  De externe leden van het Audit Committee kunnen een financiële vergoeding voor hun werkzaamheden ontvangen. Deze vergoeding gaat de bedragen op grond van de [Wet ‘Vergoedingen adviescolleges en commissies’](../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md) en het [Besluit ‘Vergoedingen adviescolleges en commissies’](../../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md) (Stb. 2009, 5) niet te boven.   
-2.  De financiële vergoeding wordt per extern lid op voorstel van de voorzitter van het Audit Committee vastgesteld door de minister.   
+2.  De financiële vergoeding wordt per extern lid op voorstel van de voorzitter van het Audit Committee vastgesteld door de minister.  
 
 ### Artikel  6  
 
@@ -65,16 +65,16 @@ Besluit:
 2.  De evaluatie omvat minimaal de taakvervulling door het Audit Committee ten aanzien van de in artikel 1 genoemde terreinen en de gemaakte keuzes bij de toepassing van de regeling.   
 3.  Het functioneren van het Audit Committee wordt periodiek geëvalueerd.   
 4.  De toepassing van de regeling in de praktijk en de ervaringen hiermee worden na twee jaar geëvalueerd door de Minister van Financiën, mede op basis van de uitkomsten van de zelfevaluaties van de Audit Committees.   
-5.  De activiteiten van het Audit Committee alsmede de uitkomsten van de evaluaties over het functioneren van het Audit Committee worden vermeld in het departementaal jaarverslag.   
+5.  De activiteiten van het Audit Committee alsmede de uitkomsten van de evaluaties over het functioneren van het Audit Committee worden vermeld in het departementaal jaarverslag.  
 
 ### Artikel  7  
 
 ####Inwerkingtreding en publicatie
 
-1.  Deze regeling kan worden aangehaald als: *Regeling Audit Committees 2012.*   
+1.  Deze regeling kan worden aangehaald als:* Regeling Audit Committees 2012.*    
 2.  Zij wordt ter kennis gebracht van de Algemene Rekenkamer en zal voorts openbaar worden gemaakt door publicatie in het Handboek Financiële Informatie en Administratie Rijksoverheid (www.minfin.nl/hafir) en plaatsing van de regeling en toelichting in de Staatscourant.   
-3.  Deze regeling treedt in werking met ingang van 1 mei 2012.   
+3.  Deze regeling treedt in werking met ingang van 1 mei 2012.  
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     
