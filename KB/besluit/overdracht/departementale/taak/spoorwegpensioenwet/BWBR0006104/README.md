@@ -9,9 +9,9 @@ Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, d.d. 
 Gelet op [artikel 44, eerste lid, van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-### Enig  artikel  
+###Enig artikel 
 
-De zorg voor de Spoorwegpensioenwet (*Stb.* 1986, 541), thans behorende tot de taak van de Ministers van Binnenlandse Zaken en van Financiën gaat met ingang van 1 juni 1993 over naar de Ministers van Verkeer en Waterstaat en van Financiën.  
+De zorg voor de Spoorwegpensioenwet (*Stb.* 1986, 541), thans behorende tot de taak van de Ministers van Binnenlandse Zaken en van Financiën gaat met ingang van 1 juni 1993 over naar de Ministers van Verkeer en Waterstaat en van Financiën.
 
 Onze Ministers van Binnenlandse Zaken, Financiën en van Verkeer en Waterstaat zijn belast met de uitvoering van dit besluit, dat met de nota van toelichting in het *Staatsblad* zal worden geplaatst, waarvan mededeling zal worden gedaan in de *Staatscourant* en waarvan afschrift zal worden gezonden aan Onze Ministers, aan de Raad van State, aan de Algemene Rekenkamer en aan de Kamers der Staten-Generaal.   
 
